@@ -26,8 +26,8 @@
 * [2025-07-15, 02:03:27](https://news.ycombinator.com/item?id=44567187) - [Remembrance of Scents Past](https://www.newyorker.com/culture/onward-and-upward-with-the-arts/remembrance-of-scents-past)
 * [2025-07-14, 22:00:08](https://news.ycombinator.com/item?id=44565806) - [Roman dodecahedron: 12-sided object has baffled archaeologists for centuries](https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries)
 * [2025-07-14, 21:08:16](https://news.ycombinator.com/item?id=44565319) - [A bionic knee integrated into tissue can restore natural movement](https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710)
-* [2025-07-14, 12:28:44](https://news.ycombinator.com/item?id=44559375) - [Task Runner Census 2025](https://aleyan.com/blog/2025-task-runners-census/)
 * [2025-07-14, 10:14:02](https://news.ycombinator.com/item?id=44558289) - [Blue Pencil no. 18–Some history about Arial](https://www.paulshawletterdesign.com/2011/09/blue-pencil-no-18%e2%80%94some-history-about-arial/)
+* [2025-07-13, 10:16:48](https://news.ycombinator.com/item?id=44549089) - [What's happening to reading?](https://www.newyorker.com/culture/open-questions/whats-happening-to-reading)
 * [2025-07-13, 02:52:13](https://news.ycombinator.com/item?id=44547105) - [Show HN: 0xDEAD//TYPE – A fast-paced typing shooter with retro vibes](https://0xdeadtype.theden.sh/)
 * [2025-07-12, 22:27:28](https://news.ycombinator.com/item?id=44545708) - [Scanned piano rolls database](http://www.pianorollmusic.org/rolldatabase.php)
 
