@@ -5,7 +5,7 @@
 * [2025-07-17, 00:43:41](https://news.ycombinator.com/item?id=44588491) - [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
 * [2025-07-17, 00:35:57](https://news.ycombinator.com/item?id=44588437) - [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
 * [2025-07-17, 00:26:56](https://news.ycombinator.com/item?id=44588383) - [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
-* [2025-07-17, 00:23:12](https://news.ycombinator.com/item?id=44588364) - [Mistakes Microsoft made in the Xbox security system](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
+* [2025-07-17, 00:23:12](https://news.ycombinator.com/item?id=44588364) - [Mistakes Microsoft made in the Xbox security system (2005)](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
 * [2025-07-16, 21:58:31](https://news.ycombinator.com/item?id=44587248) - [Show HN: A 'Choose Your Own Adventure' written in Emacs Org Mode](https://tendollaradventure.com/sample/)
 * [2025-07-16, 21:01:09](https://news.ycombinator.com/item?id=44586723) - [I want an iPhone Mini-sized Android phone (2022)](https://smallandroidphone.com/)
 * [2025-07-16, 19:45:24](https://news.ycombinator.com/item?id=44586064) - [Artisanal handcrafted Git repositories](https://drew.silcock.dev/blog/artisanal-git/)
