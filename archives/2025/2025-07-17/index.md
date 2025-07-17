@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 11:17:08](https://news.ycombinator.com/item?id=44591988) - [YouTuber faces jail time for showing off Android-based gaming handhelds](https://arstechnica.com/gadgets/2025/07/youtuber-faces-jail-time-for-showing-off-android-based-gaming-handhelds/)
 * [2025-07-17, 11:00:55](https://news.ycombinator.com/item?id=44591884) - [The limits of our personal experience and the value of statistics](https://ourworldindata.org/limits-personal-experience)
 * [2025-07-17, 10:49:58](https://news.ycombinator.com/item?id=44591820) - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
 * [2025-07-17, 10:40:04](https://news.ycombinator.com/item?id=44591752) - [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-17, 11:17:08](https://news.ycombinator.com/item?id=44591988) - [YouTuber faces jail time for showing off Android-based gaming handhelds](https://arstechnica.com/gadgets/2025/07/youtuber-faces-jail-time-for-showing-off-android-based-gaming-handhelds/)
 * [2025-07-17, 10:49:58](https://news.ycombinator.com/item?id=44591820) - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
 * [2025-07-17, 10:40:04](https://news.ycombinator.com/item?id=44591752) - [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
 * [2025-07-17, 10:13:15](https://news.ycombinator.com/item?id=44591622) - [Economists made a model of the U.S. economy. Our debt crashed the model](https://www.marketplace.org/story/2025/07/14/how-our-debt-crashed-a-model-of-the-us-economy)
@@ -28,7 +29,6 @@
 * [2025-07-14, 21:08:16](https://news.ycombinator.com/item?id=44565319) - [A bionic knee integrated into tissue can restore natural movement](https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710)
 * [2025-07-14, 14:01:44](https://news.ycombinator.com/item?id=44560390) - [ESA's Moonlight programme: Pioneering the path for lunar exploration](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration)
 * [2025-07-14, 13:38:00](https://news.ycombinator.com/item?id=44560103) - [A Tale of Two Red-Bearded Visionaries](https://nemanjatrifunovic.substack.com/p/a-tale-of-two-red-bearded-visionaries)
-* [2025-07-14, 12:28:44](https://news.ycombinator.com/item?id=44559375) - [Task Runner Census 2025](https://aleyan.com/blog/2025-task-runners-census/)
 * [2025-07-14, 06:21:28](https://news.ycombinator.com/item?id=44556997) - [Archaeologists Discover Tomb of First King of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
 
 ## [Archives](archives/index.md)
