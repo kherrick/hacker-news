@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-17, 06:05:19](https://news.ycombinator.com/item?id=44590189) - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
 * [2025-07-17, 04:58:40](https://news.ycombinator.com/item?id=44589833) - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
 * [2025-07-17, 03:22:53](https://news.ycombinator.com/item?id=44589384) - [Original Xbox Hacks: The A20 CPU Gate (2021)](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
 * [2025-07-17, 01:12:33](https://news.ycombinator.com/item?id=44588699) - [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
@@ -21,7 +22,6 @@
 * [2025-07-16, 09:15:28](https://news.ycombinator.com/item?id=44580257) - [Pgactive: Postgres active-active replication extension](https://github.com/aws/pgactive)
 * [2025-07-16, 07:44:32](https://news.ycombinator.com/item?id=44579717) - [I'm switching to Python and actually liking it](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
 * [2025-07-16, 06:32:47](https://news.ycombinator.com/item?id=44579317) - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
-* [2025-07-15, 16:33:24](https://news.ycombinator.com/item?id=44572954) - [A 1960s schools experiment that created a new alphabet](https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell)
 * [2025-07-15, 11:42:46](https://news.ycombinator.com/item?id=44570130) - [A Rust shaped hole](https://mnvr.in/rust)
 * [2025-07-15, 08:21:40](https://news.ycombinator.com/item?id=44569095) - [Inside the box: Everything I did with an Arduino starter kit](https://lopespm.com/hardware/2025/07/15/arduino.html)
 * [2025-07-15, 02:03:27](https://news.ycombinator.com/item?id=44567187) - [Remembrance of Scents Past](https://www.newyorker.com/culture/onward-and-upward-with-the-arts/remembrance-of-scents-past)
