@@ -17,6 +17,7 @@
 * [2025-07-17, 17:28:49](https://news.ycombinator.com/item?id=44595811) - [All AI Models Might be The Same](https://blog.jxmo.io/p/there-is-only-one-model)
 * [2025-07-17, 17:27:44](https://news.ycombinator.com/item?id=44595799) - [NYC's office-to-residential conversions could create 17,000 new homes](https://www.6sqft.com/nycs-first-wave-of-office-to-residential-conversions-could-create-over-17000-new-homes-report-says/)
 * [2025-07-17, 17:15:54](https://news.ycombinator.com/item?id=44595635) - [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
+* [2025-07-17, 17:03:48](https://news.ycombinator.com/item?id=44595516) - [The (Unfinished) PDE Coffee Table Book](https://people.maths.ox.ac.uk/trefethen/pdectb.html)
 * [2025-07-17, 17:01:47](https://news.ycombinator.com/item?id=44595492) - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
 * [2025-07-17, 16:53:51](https://news.ycombinator.com/item?id=44595406) - [AI tools slowed down experienced devs by 19%, study finds](https://leaddev.com/velocity/ai-doesnt-make-devs-as-productive-as-they-think-study-finds)
 * [2025-07-17, 16:21:16](https://news.ycombinator.com/item?id=44595008) - [Molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)
