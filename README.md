@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-17, 20:14:22](https://news.ycombinator.com/item?id=44597668) - [Ask HN: What Pocket alternatives did you move in to?](https://news.ycombinator.com/item?id=44597668)
+* [2025-07-17, 20:41:22](https://news.ycombinator.com/item?id=44597966) - [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
+* [2025-07-17, 20:14:22](https://news.ycombinator.com/item?id=44597668) - [Ask HN: What Pocket alternatives did you move to?](https://news.ycombinator.com/item?id=44597668)
 * [2025-07-17, 19:30:28](https://news.ycombinator.com/item?id=44597192) - [Nintendo Switch 2 account bans continue: warning after buying old copy of Bayo 3](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-account-bans-continue-content-creator-with-over-a-million-subs-issues-warning-after-buying-an-old-copy-of-bayo-3-on-ebay)
 * [2025-07-17, 19:09:16](https://news.ycombinator.com/item?id=44596963) - [The patterns of elites who conceal their assets offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
 * [2025-07-17, 18:51:53](https://news.ycombinator.com/item?id=44596735) - [The AI Replaces Services Myth](https://aimode.substack.com/p/the-ai-replaces-services-myth)
@@ -9,7 +10,6 @@
 * [2025-07-17, 18:09:59](https://news.ycombinator.com/item?id=44596275) - [Apple Intelligence Foundation Language Models Tech Report 2025](https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025)
 * [2025-07-17, 17:29:46](https://news.ycombinator.com/item?id=44595824) - [Run TypeScript code without worrying about configuration](https://tsx.is/)
 * [2025-07-17, 17:28:49](https://news.ycombinator.com/item?id=44595811) - [All AI models might be the same](https://blog.jxmo.io/p/there-is-only-one-model)
-* [2025-07-17, 17:20:42](https://news.ycombinator.com/item?id=44595697) - [3D-printed living lung tissue](https://news.ok.ubc.ca/2025/07/15/ubco-researchers-create-3d-printed-living-lung-tissue/)
 * [2025-07-17, 17:03:48](https://news.ycombinator.com/item?id=44595516) - [The (Unfinished) PDE Coffee Table Book](https://people.maths.ox.ac.uk/trefethen/pdectb.html)
 * [2025-07-17, 17:01:47](https://news.ycombinator.com/item?id=44595492) - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
 * [2025-07-17, 16:21:16](https://news.ycombinator.com/item?id=44595008) - [Molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)
@@ -29,7 +29,7 @@
 * [2025-07-14, 06:21:28](https://news.ycombinator.com/item?id=44556997) - [Archaeologists discover tomb of first king of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
 * [2025-07-14, 03:57:02](https://news.ycombinator.com/item?id=44556318) - [Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C](https://github.com/sammycage/plutofilter)
 * [2025-07-14, 02:36:19](https://news.ycombinator.com/item?id=44555924) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)](https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html)
-* [2025-07-13, 22:51:06](https://news.ycombinator.com/item?id=44554530) - [Stone blocks from the Lighthouse of Alexandria recovered from seafloor](https://greekreporter.com/2025/07/01/lighthouse-alexandria-giant-blocks-resurface/)
+* [2025-07-13, 22:51:06](https://news.ycombinator.com/item?id=44554530) - [Stone blocks from the Lighthouse of Alexandria recovered from seafloor](https://archaeologymag.com/2025/07/lighthouse-of-alexandria-rises-again/)
 
 ## [Archives](archives/index.md)
 
