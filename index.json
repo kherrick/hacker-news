@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-17, 12:58:37",
+      "https://news.ycombinator.com/item?id=44592866"
+    ],
+    [
+      "The rise of AI as a threat to the S&P 500 [pdf]",
+      "https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 12:08:38",
       "https://news.ycombinator.com/item?id=44592413"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-07-17, 11:19:53",
-      "https://news.ycombinator.com/item?id=44592006"
-    ],
-    [
-      "N8n vs. node-red, which to use for AI workloads",
-      "https://daniel-payne-keldan-systems.medium.com/n8n-vs-node-red-485e8382b971"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 11:17:08",
       "https://news.ycombinator.com/item?id=44591988"
     ],
@@ -61,21 +61,11 @@
   ],
   [
     [
-      "2025-07-17, 10:44:17",
-      "https://news.ycombinator.com/item?id=44591785"
-    ],
-    [
-      "Voting age to be lowered to 16 in UK by next general election",
-      "https://www.theguardian.com/politics/2025/jul/17/voting-age-to-be-lowered-to-16-in-england-and-northern-ireland"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 09:36:58",
       "https://news.ycombinator.com/item?id=44591445"
     ],
     [
-      "FOSS4G Europe 2025 live streaming",
+      "FOSS4G Europe 2025 live streaming [video]",
       "https://2025.europe.foss4g.org/livestream/"
     ]
   ],
@@ -217,6 +207,16 @@
     [
       "Altermagnets: The first new type of magnet in nearly a century",
       "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 14:17:54",
+      "https://news.ycombinator.com/item?id=44582662"
+    ],
+    [
+      "Show HN: Improving search ranking with chess Elo scores",
+      "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores"
     ]
   ],
   [
