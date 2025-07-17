@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 21:38:14](https://news.ycombinator.com/item?id=44598534) - [Don't Fall for AI: Reasons for Writers to Reject Slop](https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/)
 * [2025-07-17, 21:09:51](https://news.ycombinator.com/item?id=44598254) - [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 * [2025-07-17, 20:41:22](https://news.ycombinator.com/item?id=44597966) - [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
 * [2025-07-17, 20:14:22](https://news.ycombinator.com/item?id=44597668) - [Ask HN: What Pocket alternatives did you move in to?](https://news.ycombinator.com/item?id=44597668)
+* [2025-07-17, 20:01:27](https://news.ycombinator.com/item?id=44597537) - [ICE's Supercharged Facial Recognition App of 200M Images](https://www.404media.co/inside-ices-supercharged-facial-recognition-app-of-200-million-images/)
 * [2025-07-17, 19:46:00](https://news.ycombinator.com/item?id=44597370) - [Smarter, workspace-aware code completions for C++ in VS Code](https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code/)
 * [2025-07-17, 19:30:28](https://news.ycombinator.com/item?id=44597192) - [Nintendo Switch 2 account bans continue: warning after buying old copy of Bayo 3](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-account-bans-continue-content-creator-with-over-a-million-subs-issues-warning-after-buying-an-old-copy-of-bayo-3-on-ebay)
 * [2025-07-17, 19:09:16](https://news.ycombinator.com/item?id=44596963) - [The Patterns of Elites Who Conceal Their Assets Offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
