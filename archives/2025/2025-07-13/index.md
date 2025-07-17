@@ -48,6 +48,7 @@
 * [2025-07-13, 13:48:49](https://news.ycombinator.com/item?id=44550450) - [Local Chatbot RAG with FreeBSD Knowledge](https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/)
 * [2025-07-13, 13:12:20](https://news.ycombinator.com/item?id=44550210) - [Who Goes MAGA?](https://www.techdirt.com/2025/07/08/who-goes-maga/)
 * [2025-07-13, 13:03:13](https://news.ycombinator.com/item?id=44550157) - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
+* [2025-07-13, 12:52:18](https://news.ycombinator.com/item?id=44550079) - [What I'm working on – at work and on the side – aswin's blog](https://aswinc.blog/blog/work-2/)
 * [2025-07-13, 12:34:33](https://news.ycombinator.com/item?id=44549953) - [Ursula K. Le Guin: Still Battling the Powers That Be](https://www.wired.com/2012/07/geeks-guide-ursula-k-le-guin/)
 * [2025-07-13, 12:22:33](https://news.ycombinator.com/item?id=44549880) - [In-depth system walkthrough: cloud-based VOD](https://app.ilograph.com/demo.ilograph.AWS%2520Video-On-Demand/Workflow)
 * [2025-07-13, 12:06:34](https://news.ycombinator.com/item?id=44549762) - [You have a fake North Korean IT worker problem](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
