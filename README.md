@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-17, 17:15:54](https://news.ycombinator.com/item?id=44595635) - [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
 * [2025-07-17, 17:01:47](https://news.ycombinator.com/item?id=44595492) - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
+* [2025-07-17, 16:53:51](https://news.ycombinator.com/item?id=44595406) - [AI tools slowed down experienced devs by 19%, study finds](https://leaddev.com/velocity/ai-doesnt-make-devs-as-productive-as-they-think-study-finds)
 * [2025-07-17, 16:21:16](https://news.ycombinator.com/item?id=44595008) - [Molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)
 * [2025-07-17, 15:59:54](https://news.ycombinator.com/item?id=44594790) - [Tell HN: Notion Desktop is monitoring your audio and network](https://news.ycombinator.com/item?id=44594790)
 * [2025-07-17, 15:33:22](https://news.ycombinator.com/item?id=44594475) - [How I Use Kagi](https://flamedfury.com/posts/how-i-use-kagi/)
@@ -10,8 +12,6 @@
 * [2025-07-17, 12:04:53](https://news.ycombinator.com/item?id=44592377) - [My bank keeps on undermining anti-phishing education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
 * [2025-07-17, 12:00:26](https://news.ycombinator.com/item?id=44592344) - [Rejoy Health (YC W21) Is Hiring](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer)
 * [2025-07-17, 10:49:58](https://news.ycombinator.com/item?id=44591820) - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
-* [2025-07-17, 09:36:58](https://news.ycombinator.com/item?id=44591445) - [FOSS4G Europe 2025 live streaming [video]](https://2025.europe.foss4g.org/livestream/)
-* [2025-07-17, 07:27:42](https://news.ycombinator.com/item?id=44590678) - [NINA: Rebuilding the original AIM, AOL Desktop, Yahoo and ICQ platforms](https://nina.chat/)
 * [2025-07-17, 06:32:42](https://news.ycombinator.com/item?id=44590350) - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
 * [2025-07-17, 06:05:19](https://news.ycombinator.com/item?id=44590189) - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
 * [2025-07-17, 03:22:53](https://news.ycombinator.com/item?id=44589384) - [Xbox Hacks: The A20 (2021)](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
@@ -23,13 +23,13 @@
 * [2025-07-16, 19:08:39](https://news.ycombinator.com/item?id=44585755) - [Intel's retreat is unlike anything it's done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
 * [2025-07-16, 16:48:48](https://news.ycombinator.com/item?id=44584372) - [Ex-Waymo engineers launch Bedrock Robotics to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
 * [2025-07-16, 15:11:54](https://news.ycombinator.com/item?id=44583171) - [Altermagnets: The first new type of magnet in nearly a century](https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
+* [2025-07-15, 11:03:53](https://news.ycombinator.com/item?id=44569894) - [When Is Tech Not Hype? Tulips, Toilets, Trains – and Tabs](https://ajmoon.com/posts/when-is-tech-not-hype-tulips-toilets-trains-and-tabs)
 * [2025-07-15, 08:21:40](https://news.ycombinator.com/item?id=44569095) - [Inside the box: Everything I did with an Arduino starter kit](https://lopespm.com/hardware/2025/07/15/arduino.html)
 * [2025-07-14, 14:50:17](https://news.ycombinator.com/item?id=44560943) - [Doing Hard Things](https://parv.bearblog.dev/kayaking/)
 * [2025-07-14, 14:01:44](https://news.ycombinator.com/item?id=44560390) - [ESA’s Moonlight programme: Pioneering the path for lunar exploration (2024)](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration)
 * [2025-07-14, 06:21:28](https://news.ycombinator.com/item?id=44556997) - [Archaeologists Discover Tomb of First King of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
 * [2025-07-14, 02:36:19](https://news.ycombinator.com/item?id=44555924) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)](https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html)
 * [2025-07-13, 22:51:06](https://news.ycombinator.com/item?id=44554530) - [Lighthouse of Alexandria Rises Again as Giant Blocks Resurface After 2000 Years](https://greekreporter.com/2025/07/01/lighthouse-alexandria-giant-blocks-resurface/)
-* [2025-07-13, 17:30:38](https://news.ycombinator.com/item?id=44551990) - [BB(6) Is Hard (Antihydra) (2024)](https://www.sligocki.com//2024/07/06/bb-6-2-is-hard.html)
 
 ## [Archives](archives/index.md)
 
