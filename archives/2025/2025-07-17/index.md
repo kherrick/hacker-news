@@ -6,6 +6,7 @@
 
 * [2025-07-17, 19:09:16](https://news.ycombinator.com/item?id=44596963) - [The Patterns of Elites Who Conceal Their Assets Offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
 * [2025-07-17, 18:59:41](https://news.ycombinator.com/item?id=44596845) - [Extreme skydiver Baumgartner dies in paragliding accident](https://www.dw.com/en/extreme-skydiver-baumgartner-dies-in-paragliding-accident/a-73317216)
+* [2025-07-17, 18:51:53](https://news.ycombinator.com/item?id=44596735) - [The AI Replaces Labour Myth](https://aimode.substack.com/p/the-ai-replaces-services-myth)
 * [2025-07-17, 18:27:24](https://news.ycombinator.com/item?id=44596472) - [My Experience with Claude Code After 2 Weeks of Adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
 * [2025-07-17, 18:18:13](https://news.ycombinator.com/item?id=44596371) - [Sen. Warren on Mamdani: He's willing to try new ideas to bring down costs for NY [video]](https://www.youtube.com/watch?v=MWrDi3acZcg)
 * [2025-07-17, 18:16:54](https://news.ycombinator.com/item?id=44596355) - [Delta moves to eliminate set prices, use AI to set your personal ticket price](https://fortune.com/2025/07/16/delta-moves-toward-eliminating-set-prices-in-favor-of-ai-that-determines-how-much-you-personally-will-pay-for-a-ticket/)
@@ -59,3 +60,4 @@
 * [2025-07-17, 00:35:57](https://news.ycombinator.com/item?id=44588437) - [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
 * [2025-07-17, 00:26:56](https://news.ycombinator.com/item?id=44588383) - [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
 * [2025-07-17, 00:23:12](https://news.ycombinator.com/item?id=44588364) - [17 Mistakes Microsoft Made in the Xbox Security System](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
+* [2025-07-17, 00:16:17](https://news.ycombinator.com/item?id=44588319) - [Gwern's Perfume Reviews](https://gwern.net/blog/2025/perfume)
