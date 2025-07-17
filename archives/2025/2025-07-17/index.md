@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
 * [2025-07-17, 11:00:55](https://news.ycombinator.com/item?id=44591884) - [The limits of our personal experience and the value of statistics](https://ourworldindata.org/limits-personal-experience)
+* [2025-07-17, 10:49:58](https://news.ycombinator.com/item?id=44591820) - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
+* [2025-07-17, 10:40:04](https://news.ycombinator.com/item?id=44591752) - [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
 * [2025-07-17, 10:27:11](https://news.ycombinator.com/item?id=44591689) - [Voting age to be lowered to 16 by next general election](https://www.bbc.co.uk/news/articles/c628ep4j5kno)
 * [2025-07-17, 10:13:15](https://news.ycombinator.com/item?id=44591622) - [Economists made a model of the U.S. economy. Our debt crashed the model](https://www.marketplace.org/story/2025/07/14/how-our-debt-crashed-a-model-of-the-us-economy)
 * [2025-07-17, 10:05:23](https://news.ycombinator.com/item?id=44591585) - [New battery has life so long you may never have to recharge](https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/)

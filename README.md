@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-17, 11:00:55](https://news.ycombinator.com/item?id=44591884) - [The limits of our personal experience and the value of statistics](https://ourworldindata.org/limits-personal-experience)
-* [2025-07-17, 10:27:11](https://news.ycombinator.com/item?id=44591689) - [Voting age to be lowered to 16 by next general election](https://www.bbc.co.uk/news/articles/c628ep4j5kno)
+* [2025-07-17, 10:49:58](https://news.ycombinator.com/item?id=44591820) - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
+* [2025-07-17, 10:40:04](https://news.ycombinator.com/item?id=44591752) - [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
 * [2025-07-17, 10:13:15](https://news.ycombinator.com/item?id=44591622) - [Economists made a model of the U.S. economy. Our debt crashed the model](https://www.marketplace.org/story/2025/07/14/how-our-debt-crashed-a-model-of-the-us-economy)
 * [2025-07-17, 10:05:23](https://news.ycombinator.com/item?id=44591585) - [New battery has life so long you may never have to recharge](https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/)
 * [2025-07-17, 09:36:58](https://news.ycombinator.com/item?id=44591445) - [FOSS4G Europe 2025 Live Streaming](https://2025.europe.foss4g.org/livestream/)
@@ -24,12 +24,12 @@
 * [2025-07-16, 14:17:54](https://news.ycombinator.com/item?id=44582662) - [Show HN: Improving search ranking with chess Elo scores](https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores)
 * [2025-07-16, 09:15:28](https://news.ycombinator.com/item?id=44580257) - [Pgactive: Postgres active-active replication extension](https://github.com/aws/pgactive)
 * [2025-07-15, 16:33:24](https://news.ycombinator.com/item?id=44572954) - [A 1960s schools experiment that created a new alphabet](https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell)
-* [2025-07-15, 11:42:46](https://news.ycombinator.com/item?id=44570130) - [A Rust shaped hole](https://mnvr.in/rust)
 * [2025-07-15, 08:21:40](https://news.ycombinator.com/item?id=44569095) - [Inside the box: Everything I did with an Arduino starter kit](https://lopespm.com/hardware/2025/07/15/arduino.html)
 * [2025-07-14, 21:08:16](https://news.ycombinator.com/item?id=44565319) - [A bionic knee integrated into tissue can restore natural movement](https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710)
 * [2025-07-14, 14:01:44](https://news.ycombinator.com/item?id=44560390) - [ESA's Moonlight programme: Pioneering the path for lunar exploration](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration)
 * [2025-07-14, 13:38:00](https://news.ycombinator.com/item?id=44560103) - [A Tale of Two Red-Bearded Visionaries](https://nemanjatrifunovic.substack.com/p/a-tale-of-two-red-bearded-visionaries)
 * [2025-07-14, 12:28:44](https://news.ycombinator.com/item?id=44559375) - [Task Runner Census 2025](https://aleyan.com/blog/2025-task-runners-census/)
+* [2025-07-14, 06:21:28](https://news.ycombinator.com/item?id=44556997) - [Archaeologists Discover Tomb of First King of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
 
 ## [Archives](archives/index.md)
 
