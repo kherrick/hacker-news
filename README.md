@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-17, 03:22:53](https://news.ycombinator.com/item?id=44589384) - [Original Xbox Hacks: The A20 CPU Gate](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
 * [2025-07-17, 01:12:33](https://news.ycombinator.com/item?id=44588699) - [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
 * [2025-07-17, 00:43:41](https://news.ycombinator.com/item?id=44588491) - [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
 * [2025-07-17, 00:35:57](https://news.ycombinator.com/item?id=44588437) - [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
 * [2025-07-17, 00:26:56](https://news.ycombinator.com/item?id=44588383) - [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
 * [2025-07-17, 00:23:12](https://news.ycombinator.com/item?id=44588364) - [Mistakes Microsoft made in the Xbox security system](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
 * [2025-07-16, 21:58:31](https://news.ycombinator.com/item?id=44587248) - [Show HN: A 'Choose Your Own Adventure' written in Emacs Org Mode](https://tendollaradventure.com/sample/)
-* [2025-07-16, 21:33:21](https://news.ycombinator.com/item?id=44587018) - [Tin Can – The landline, reinvented for kids](https://tincan.kids/)
 * [2025-07-16, 21:01:09](https://news.ycombinator.com/item?id=44586723) - [I want an iPhone Mini-sized Android phone (2022)](https://smallandroidphone.com/)
 * [2025-07-16, 19:45:24](https://news.ycombinator.com/item?id=44586064) - [Artisanal handcrafted Git repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 19:08:39](https://news.ycombinator.com/item?id=44585755) - [Intel's retreat is unlike anything it's done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
@@ -28,8 +28,8 @@
 * [2025-07-14, 19:25:27](https://news.ycombinator.com/item?id=44564249) - [The battle for Britain’s first book of the month club](https://www.historytoday.com/archive/history-matters/battle-britains-first-book-month-club)
 * [2025-07-14, 10:14:02](https://news.ycombinator.com/item?id=44558289) - [Blue Pencil no. 18–Some history about Arial](https://www.paulshawletterdesign.com/2011/09/blue-pencil-no-18%e2%80%94some-history-about-arial/)
 * [2025-07-13, 10:26:07](https://news.ycombinator.com/item?id=44549149) - [AI therapy bots fuel delusions and give dangerous advice, Stanford study finds](https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/)
-* [2025-07-13, 09:06:41](https://news.ycombinator.com/item?id=44548736) - [Pull Interactions from POSSEd Content](https://ggirelli.info/blog/2025/07/13/inter-pull)
 * [2025-07-13, 02:52:13](https://news.ycombinator.com/item?id=44547105) - [Show HN: 0xDEAD//TYPE – A fast-paced typing shooter with retro vibes](https://0xdeadtype.theden.sh/)
+* [2025-07-12, 22:27:28](https://news.ycombinator.com/item?id=44545708) - [Scanned piano rolls database](http://www.pianorollmusic.org/rolldatabase.php)
 
 ## [Archives](archives/index.md)
 
