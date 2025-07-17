@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 19:09:16](https://news.ycombinator.com/item?id=44596963) - [The Patterns of Elites Who Conceal Their Assets Offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
+* [2025-07-17, 18:59:41](https://news.ycombinator.com/item?id=44596845) - [Extreme skydiver Baumgartner dies in paragliding accident](https://www.dw.com/en/extreme-skydiver-baumgartner-dies-in-paragliding-accident/a-73317216)
+* [2025-07-17, 18:27:24](https://news.ycombinator.com/item?id=44596472) - [My Experience with Claude Code After 2 Weeks of Adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
 * [2025-07-17, 18:18:13](https://news.ycombinator.com/item?id=44596371) - [Sen. Warren on Mamdani: He's willing to try new ideas to bring down costs for NY [video]](https://www.youtube.com/watch?v=MWrDi3acZcg)
 * [2025-07-17, 18:16:54](https://news.ycombinator.com/item?id=44596355) - [Delta moves to eliminate set prices, use AI to set your personal ticket price](https://fortune.com/2025/07/16/delta-moves-toward-eliminating-set-prices-in-favor-of-ai-that-determines-how-much-you-personally-will-pay-for-a-ticket/)
+* [2025-07-17, 18:09:59](https://news.ycombinator.com/item?id=44596275) - [Apple Intelligence Foundation Language Models Tech Report 2025](https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025)
 * [2025-07-17, 17:36:11](https://news.ycombinator.com/item?id=44595898) - [15,000+ AI-generated fake podcasts](https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams)
 * [2025-07-17, 17:27:44](https://news.ycombinator.com/item?id=44595799) - [NYC's office-to-residential conversions could create 17,000 new homes](https://www.6sqft.com/nycs-first-wave-of-office-to-residential-conversions-could-create-over-17000-new-homes-report-says/)
 * [2025-07-17, 17:15:54](https://news.ycombinator.com/item?id=44595635) - [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
