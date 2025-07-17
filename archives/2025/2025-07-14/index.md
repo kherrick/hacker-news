@@ -27,6 +27,7 @@
 * [2025-07-14, 18:11:25](https://news.ycombinator.com/item?id=44563364) - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
 * [2025-07-14, 18:04:54](https://news.ycombinator.com/item?id=44563290) - [Cognition (Devin AI) to Acquire Windsurf](https://twitter.com/cognition_labs/status/1944819486538023138)
+* [2025-07-14, 18:03:12](https://news.ycombinator.com/item?id=44563269) - [Celtuce](https://en.wikipedia.org/wiki/Celtuce)
 * [2025-07-14, 17:01:54](https://news.ycombinator.com/item?id=44562488) - [Meticulous (YC S21) is hiring in UK to redefine software dev,£100k-300k and equity](https://tinyurl.com/join-meticulous)
 * [2025-07-14, 16:31:37](https://news.ycombinator.com/item?id=44562084) - [Encrypting files with passkeys and age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-14, 16:29:02](https://news.ycombinator.com/item?id=44562036) - [Embedding User-Defined Indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
