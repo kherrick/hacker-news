@@ -29,6 +29,7 @@
 * [2025-07-14, 18:04:54](https://news.ycombinator.com/item?id=44563290) - [Cognition (Devin AI) to Acquire Windsurf](https://twitter.com/cognition_labs/status/1944819486538023138)
 * [2025-07-14, 18:03:12](https://news.ycombinator.com/item?id=44563269) - [Celtuce](https://en.wikipedia.org/wiki/Celtuce)
 * [2025-07-14, 17:01:54](https://news.ycombinator.com/item?id=44562488) - [Meticulous (YC S21) is hiring in UK to redefine software dev,£100k-300k and equity](https://tinyurl.com/join-meticulous)
+* [2025-07-14, 16:39:57](https://news.ycombinator.com/item?id=44562168) - [Show HN: Google Maps can't map a story – MapScroll does, from one prompt](https://www.mapscroll.ai/)
 * [2025-07-14, 16:31:37](https://news.ycombinator.com/item?id=44562084) - [Encrypting files with passkeys and age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-14, 16:29:02](https://news.ycombinator.com/item?id=44562036) - [Embedding User-Defined Indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
 * [2025-07-14, 16:09:14](https://news.ycombinator.com/item?id=44561818) - [Japanese Grandparents Create Life-Size Totoro with Bus Stop for Grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/)
