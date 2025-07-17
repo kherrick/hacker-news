@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 19:46:00](https://news.ycombinator.com/item?id=44597370) - [Smarter, workspace-aware code completions for C++ in VS Code](https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code/)
 * [2025-07-17, 19:09:16](https://news.ycombinator.com/item?id=44596963) - [The Patterns of Elites Who Conceal Their Assets Offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
 * [2025-07-17, 18:59:41](https://news.ycombinator.com/item?id=44596845) - [Extreme skydiver Baumgartner dies in paragliding accident](https://www.dw.com/en/extreme-skydiver-baumgartner-dies-in-paragliding-accident/a-73317216)
 * [2025-07-17, 18:51:53](https://news.ycombinator.com/item?id=44596735) - [The AI Replaces Labour Myth](https://aimode.substack.com/p/the-ai-replaces-services-myth)
