@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-18, 08:36:47",
+      "https://news.ycombinator.com/item?id=44602532"
+    ],
+    [
+      "When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering",
+      "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 08:05:26",
       "https://news.ycombinator.com/item?id=44602364"
     ],
@@ -97,16 +107,6 @@
     [
       "My favorite use-case for AI is writing logs",
       "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 23:10:03",
-      "https://news.ycombinator.com/item?id=44599325"
-    ],
-    [
-      "23andMe is out of bankruptcy and it still hasn’t substantially changed its ways",
-      "https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-07-15, 17:16:51",
-      "https://news.ycombinator.com/item?id=44573524"
-    ],
-    [
-      "Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
-      "https://contextgeneric.dev/blog/extensible-datatypes-part-2/"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 09:16:21",
       "https://news.ycombinator.com/item?id=44569367"
     ],
@@ -247,6 +237,16 @@
     [
       "TCP-in-UDP Solution (eBPF)",
       "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 06:53:45",
+      "https://news.ycombinator.com/item?id=44568594"
+    ],
+    [
+      "DIY Telescope Mods That Transformed My Astrophotography",
+      "https://www.youtube.com/watch?v=Efmzr_K4ApQ"
     ]
   ],
   [
