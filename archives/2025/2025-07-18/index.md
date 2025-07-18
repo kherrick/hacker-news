@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 14:10:21](https://news.ycombinator.com/item?id=44604827) - [French villages have no more drinking water. The reason? PFAS pollution](https://www.lemonde.fr/en/environment/article/2025/07/18/these-french-villages-have-no-more-drinking-water-the-reason-pfas-pollution_6743479_114.html)
+* [2025-07-18, 13:56:02](https://news.ycombinator.com/item?id=44604690) - [$19,000 a year for a longer life? Inside a luxury Bay Area longevity clinic](https://www.sfchronicle.com/health/aging-longevity/article/human-longevity-health-clinic-20277643.php)
 * [2025-07-18, 13:21:03](https://news.ycombinator.com/item?id=44604365) - [ACA health insurance will cost the average person 75% more next year](https://www.npr.org/sections/shots-health-news/2025/07/18/nx-s1-5471281/aca-health-insurance-premiums-obamacare-bbb-kff)
+* [2025-07-18, 13:15:50](https://news.ycombinator.com/item?id=44604328) - [NYPD Bypassed Facial Recognition Ban to ID Pro-Palestinian Student Protester](https://www.thecity.nyc/2025/07/18/nypd-fdny-clearview-ai-ban-columbia-palestinian-protest/)
 * [2025-07-18, 13:05:55](https://news.ycombinator.com/item?id=44604257) - [Ask HN: Any active COBOL devs here? What are you working on?](https://news.ycombinator.com/item?id=44604257)
 * [2025-07-18, 13:02:16](https://news.ycombinator.com/item?id=44604223) - [I Never Cared Much for Swords. Then I Had to Fight with One](https://thewalrus.ca/i-never-cared-much-for-swords-then-i-had-to-fight-with-one/)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://tangled.sh/@rockorager.dev/lsr)

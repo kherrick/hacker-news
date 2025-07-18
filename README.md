@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-18, 14:10:21](https://news.ycombinator.com/item?id=44604827) - [French villages have no more drinking water. The reason? PFAS pollution](https://www.lemonde.fr/en/environment/article/2025/07/18/these-french-villages-have-no-more-drinking-water-the-reason-pfas-pollution_6743479_114.html)
+* [2025-07-18, 13:56:02](https://news.ycombinator.com/item?id=44604690) - [$19,000 a year for a longer life? Inside a luxury Bay Area longevity clinic](https://www.sfchronicle.com/health/aging-longevity/article/human-longevity-health-clinic-20277643.php)
 * [2025-07-18, 13:21:03](https://news.ycombinator.com/item?id=44604365) - [ACA health insurance will cost the average person 75% more next year](https://www.npr.org/sections/shots-health-news/2025/07/18/nx-s1-5471281/aca-health-insurance-premiums-obamacare-bbb-kff)
+* [2025-07-18, 13:15:50](https://news.ycombinator.com/item?id=44604328) - [NYPD Bypassed Facial Recognition Ban to ID Pro-Palestinian Student Protester](https://www.thecity.nyc/2025/07/18/nypd-fdny-clearview-ai-ban-columbia-palestinian-protest/)
 * [2025-07-18, 13:05:55](https://news.ycombinator.com/item?id=44604257) - [Ask HN: Any active COBOL devs here? What are you working on?](https://news.ycombinator.com/item?id=44604257)
 * [2025-07-18, 13:02:16](https://news.ycombinator.com/item?id=44604223) - [I Never Cared Much for Swords. Then I Had to Fight with One](https://thewalrus.ca/i-never-cared-much-for-swords-then-i-had-to-fight-with-one/)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://tangled.sh/@rockorager.dev/lsr)
@@ -21,13 +24,10 @@
 * [2025-07-17, 14:43:00](https://news.ycombinator.com/item?id=44593972) - [Self-taught engineers often outperform (2024)](https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform)
 * [2025-07-17, 12:08:38](https://news.ycombinator.com/item?id=44592413) - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
 * [2025-07-17, 00:16:17](https://news.ycombinator.com/item?id=44588319) - [Perfume reviews](https://gwern.net/blog/2025/perfume)
-* [2025-07-15, 20:56:35](https://news.ycombinator.com/item?id=44575729) - [Fighting Brandolini's Law with Sampling](https://brady.fyi/fact-checking/)
 * [2025-07-15, 14:32:21](https://news.ycombinator.com/item?id=44571549) - [HathiTrust Digital Library – books online](https://www.hathitrust.org/)
 * [2025-07-15, 08:59:08](https://news.ycombinator.com/item?id=44569278) - [TCP-in-UDP Solution (eBPF)](https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html)
 * [2025-07-15, 08:07:52](https://news.ycombinator.com/item?id=44569019) - [Inspect ANSI control codes and escape sequences](https://ansi.tools)
 * [2025-07-15, 07:18:32](https://news.ycombinator.com/item?id=44568761) - [15 Years If Jefit](https://www.jefit.com/our-story)
-* [2025-07-15, 06:53:45](https://news.ycombinator.com/item?id=44568594) - [DIY Telescope Mods That Transformed My Astrophotography](https://www.youtube.com/watch?v=Efmzr_K4ApQ)
-* [2025-07-15, 05:39:26](https://news.ycombinator.com/item?id=44568147) - [A look at IBM's short-lived \"butterfly\" ThinkPad 701 of 1995](https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard)
 * [2025-07-14, 16:15:41](https://news.ycombinator.com/item?id=44561895) - [Extending That XOR Trick to Billions of Rows](https://nochlin.com/blog/extending-that-xor-trick)
 * [2025-07-14, 15:45:28](https://news.ycombinator.com/item?id=44561516) - [Hundred Rabbits – Low-tech living while sailing the world](https://100r.co/site/home.html)
 
