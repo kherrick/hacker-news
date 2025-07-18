@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-18, 04:22:08",
-      "https://news.ycombinator.com/item?id=44601177"
+      "2025-07-18, 05:37:17",
+      "https://news.ycombinator.com/item?id=44601548"
     ],
     [
-      "Apple is ruining the open web",
-      "https://victorwynne.com/apple-open-web/"
+      "Apple bans entire dev account, no reason given",
+      "https://twitter.com/rameerez/status/1945784476723810739"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 05:30:59",
+      "https://news.ycombinator.com/item?id=44601524"
+    ],
+    [
+      "Meta Poaches Two More Apple AI Executives",
+      "https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C",
       "https://github.com/sammycage/plutofilter"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 02:36:19",
-      "https://news.ycombinator.com/item?id=44555924"
-    ],
-    [
-      "Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)",
-      "https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html"
     ]
   ],
   [
