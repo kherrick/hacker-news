@@ -10,6 +10,7 @@
 * [2025-07-18, 05:37:17](https://news.ycombinator.com/item?id=44601548) - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
 * [2025-07-18, 05:30:59](https://news.ycombinator.com/item?id=44601524) - [Meta Poaches Two More Apple AI Executives](https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/)
 * [2025-07-18, 04:22:08](https://news.ycombinator.com/item?id=44601177) - [Apple is ruining the open web](https://victorwynne.com/apple-open-web/)
+* [2025-07-18, 04:05:54](https://news.ycombinator.com/item?id=44601096) - [Data on How America Sold Out Its Computer Science Graduates](https://ifspp.substack.com/p/data-on-how-america-sold-out-its)
 * [2025-07-18, 03:53:31](https://news.ycombinator.com/item?id=44601045) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
 * [2025-07-18, 03:49:50](https://news.ycombinator.com/item?id=44601023) - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
 * [2025-07-18, 02:27:43](https://news.ycombinator.com/item?id=44600594) - [NIH Is Far Cheaper Than the Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)

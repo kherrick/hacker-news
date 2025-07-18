@@ -2,8 +2,8 @@
 
 * [2025-07-18, 08:36:47](https://news.ycombinator.com/item?id=44602532) - [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 * [2025-07-18, 08:05:26](https://news.ycombinator.com/item?id=44602364) - [Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)](https://www.arva.ai/careers/ai-research-engineer)
-* [2025-07-18, 05:38:55](https://news.ycombinator.com/item?id=44601562) - [Why is AI so slow to spread?](https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain)
 * [2025-07-18, 05:37:17](https://news.ycombinator.com/item?id=44601548) - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
+* [2025-07-18, 04:05:54](https://news.ycombinator.com/item?id=44601096) - [Data on How America Sold Out Its Computer Science Graduates](https://ifspp.substack.com/p/data-on-how-america-sold-out-its)
 * [2025-07-18, 03:53:31](https://news.ycombinator.com/item?id=44601045) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
 * [2025-07-18, 03:49:50](https://news.ycombinator.com/item?id=44601023) - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
 * [2025-07-18, 02:27:43](https://news.ycombinator.com/item?id=44600594) - [NIH is cheaper than the wrong dependency](https://lewiscampbell.tech/blog/250718.html)
@@ -22,12 +22,12 @@
 * [2025-07-17, 12:08:38](https://news.ycombinator.com/item?id=44592413) - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
 * [2025-07-17, 00:16:17](https://news.ycombinator.com/item?id=44588319) - [Perfume reviews](https://gwern.net/blog/2025/perfume)
 * [2025-07-15, 18:06:31](https://news.ycombinator.com/item?id=44574107) - [Claude Code Unleashed](https://ymichael.com/2025/07/15/claude-code-unleashed)
+* [2025-07-15, 17:16:51](https://news.ycombinator.com/item?id=44573524) - [Modular Interpreters and Visitors in Rust with Extensible Variants and CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-2/)
 * [2025-07-15, 09:16:21](https://news.ycombinator.com/item?id=44569367) - [RisingWave: An Open‑Source Stream‑Processing and Management Platform](https://github.com/risingwavelabs/risingwave)
 * [2025-07-15, 08:59:08](https://news.ycombinator.com/item?id=44569278) - [TCP-in-UDP Solution (eBPF)](https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html)
 * [2025-07-15, 06:53:45](https://news.ycombinator.com/item?id=44568594) - [DIY Telescope Mods That Transformed My Astrophotography](https://www.youtube.com/watch?v=Efmzr_K4ApQ)
 * [2025-07-15, 05:39:26](https://news.ycombinator.com/item?id=44568147) - [A look at IBM's short-lived \"butterfly\" ThinkPad 701 of 1995](https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard)
 * [2025-07-14, 21:54:05](https://news.ycombinator.com/item?id=44565763) - [The End of Windows 10: a toolkit for community repair groups](https://therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/)
-* [2025-07-14, 16:31:27](https://news.ycombinator.com/item?id=44562076) - [The Pigeon River Is Perched, Which Is Geologically Bad News (2020)](https://princegeology.com/the-pigeon-river-is-perched-which-is-geologically-bad-news-for-it/)
 * [2025-07-14, 16:15:41](https://news.ycombinator.com/item?id=44561895) - [Extending That XOR Trick to Billions of Rows](https://nochlin.com/blog/extending-that-xor-trick)
 * [2025-07-14, 06:21:28](https://news.ycombinator.com/item?id=44556997) - [Archaeologists discover tomb of first king of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
 
