@@ -34,6 +34,7 @@
 * [2025-07-14, 16:39:57](https://news.ycombinator.com/item?id=44562168) - [Show HN: Google Maps can't map a story – MapScroll does, from one prompt](https://www.mapscroll.ai/)
 * [2025-07-14, 16:31:37](https://news.ycombinator.com/item?id=44562084) - [Encrypting files with passkeys and age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-14, 16:29:02](https://news.ycombinator.com/item?id=44562036) - [Embedding User-Defined Indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
+* [2025-07-14, 16:15:41](https://news.ycombinator.com/item?id=44561895) - [Extending That XOR Trick to Billions of Rows](https://nochlin.com/blog/extending-that-xor-trick)
 * [2025-07-14, 16:09:14](https://news.ycombinator.com/item?id=44561818) - [Japanese Grandparents Create Life-Size Totoro with Bus Stop for Grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/)
 * [2025-07-14, 16:02:36](https://news.ycombinator.com/item?id=44561736) - [Data Brokers Are Selling Your Flight Information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice)
 * [2025-07-14, 16:00:34](https://news.ycombinator.com/item?id=44561716) - [Oakland cops gave ICE license plate data; SFPD also illegally shared with feds](https://sfstandard.com/2025/07/14/oakland-san-francisco-ice-license-plate-readers/)
