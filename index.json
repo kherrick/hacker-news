@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-07-18, 04:05:54",
-      "https://news.ycombinator.com/item?id=44601096"
-    ],
-    [
-      "Data on How America Sold Out Its Computer Science Graduates",
-      "https://ifspp.substack.com/p/data-on-how-america-sold-out-its"
-    ]
-  ],
-  [
-    [
       "2025-07-18, 03:53:31",
       "https://news.ycombinator.com/item?id=44601045"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2025-07-15, 17:16:51",
-      "https://news.ycombinator.com/item?id=44573524"
-    ],
-    [
-      "Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
-      "https://contextgeneric.dev/blog/extensible-datatypes-part-2/"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 09:16:21",
       "https://news.ycombinator.com/item?id=44569367"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-07-14, 16:31:27",
+      "https://news.ycombinator.com/item?id=44562076"
+    ],
+    [
+      "The Pigeon River Is Perched, Which Is Geologically Bad News (2020)",
+      "https://princegeology.com/the-pigeon-river-is-perched-which-is-geologically-bad-news-for-it/"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 16:15:41",
       "https://news.ycombinator.com/item?id=44561895"
     ],
@@ -297,6 +287,16 @@
     [
       "Archaeologists discover tomb of first king of Caracol",
       "https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 03:57:02",
+      "https://news.ycombinator.com/item?id=44556318"
+    ],
+    [
+      "Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C",
+      "https://github.com/sammycage/plutofilter"
     ]
   ]
 ]
