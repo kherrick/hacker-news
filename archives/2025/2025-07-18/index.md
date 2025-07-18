@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 16:41:52](https://news.ycombinator.com/item?id=44606803) - [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
+* [2025-07-18, 16:32:55](https://news.ycombinator.com/item?id=44606671) - [Gmail's backup codes are useless to access account](https://news.ycombinator.com/item?id=44606671)
+* [2025-07-18, 16:09:25](https://news.ycombinator.com/item?id=44606374) - [H-1B program grew 81 percent from 2011 to 2022](https://twitter.com/USTechWorkers/status/1945999773825196492)
 * [2025-07-18, 15:54:46](https://news.ycombinator.com/item?id=44606184) - [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
 * [2025-07-18, 15:49:55](https://news.ycombinator.com/item?id=44606117) - [The Number Go Up Rule: Why America Can't Fix Anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)
 * [2025-07-18, 15:39:51](https://news.ycombinator.com/item?id=44605946) - [Dear valued user, You have reached the error page for the error page](https://imgur.com/a/2H7HVcU)
