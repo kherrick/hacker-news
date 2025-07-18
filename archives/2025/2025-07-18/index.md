@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 08:05:26](https://news.ycombinator.com/item?id=44602364) - [Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)](https://www.arva.ai/careers/ai-research-engineer)
 * [2025-07-18, 05:38:55](https://news.ycombinator.com/item?id=44601562) - [Why is AI so slow to spread?](https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain)
 * [2025-07-18, 05:37:17](https://news.ycombinator.com/item?id=44601548) - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
 * [2025-07-18, 05:30:59](https://news.ycombinator.com/item?id=44601524) - [Meta Poaches Two More Apple AI Executives](https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/)
@@ -11,6 +12,7 @@
 * [2025-07-18, 03:53:31](https://news.ycombinator.com/item?id=44601045) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
 * [2025-07-18, 03:49:50](https://news.ycombinator.com/item?id=44601023) - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
 * [2025-07-18, 02:27:43](https://news.ycombinator.com/item?id=44600594) - [NIH Is Far Cheaper Than the Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
+* [2025-07-18, 02:24:15](https://news.ycombinator.com/item?id=44600574) - [Fixing a Direct3D9 bug in Far Cry (2018)](https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/)
 * [2025-07-18, 02:14:33](https://news.ycombinator.com/item?id=44600512) - [USB-C hubs and my slow descent into madness (2021)](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
 * [2025-07-18, 02:01:09](https://news.ycombinator.com/item?id=44600437) - [CBS Canceling 'Late Show with Stephen Colbert' After Next Season](https://www.nytimes.com/2025/07/17/business/stephen-colbert-late-show-ending.html)
 * [2025-07-18, 01:30:37](https://news.ycombinator.com/item?id=44600251) - [Out Run: Amiga Edition – Launch Trailer [video]](https://www.youtube.com/watch?v=WZzTp3vSC0g)
