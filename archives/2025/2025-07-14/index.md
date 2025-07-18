@@ -41,6 +41,7 @@
 * [2025-07-14, 16:02:36](https://news.ycombinator.com/item?id=44561736) - [Data Brokers Are Selling Your Flight Information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice)
 * [2025-07-14, 16:00:34](https://news.ycombinator.com/item?id=44561716) - [Oakland cops gave ICE license plate data; SFPD also illegally shared with feds](https://sfstandard.com/2025/07/14/oakland-san-francisco-ice-license-plate-readers/)
 * [2025-07-14, 15:45:32](https://news.ycombinator.com/item?id=44561520) - [Two guys hated using Comcast, so they built their own fiber ISP](https://arstechnica.com/tech-policy/2025/07/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp/)
+* [2025-07-14, 15:45:28](https://news.ycombinator.com/item?id=44561516) - [Hundred Rabbits – Low-tech living while sailing the world](https://100r.co/site/home.html)
 * [2025-07-14, 15:37:56](https://news.ycombinator.com/item?id=44561431) - [What happens when a brand built for sport loses some of its focus?](https://doinghandstands.substack.com/p/the-recovery-run)
 * [2025-07-14, 15:30:31](https://news.ycombinator.com/item?id=44561354) - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
 * [2025-07-14, 15:28:36](https://news.ycombinator.com/item?id=44561328) - [Why random selection is necessary to create stable meritocratic institutions](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy)
