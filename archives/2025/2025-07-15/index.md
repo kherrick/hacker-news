@@ -40,6 +40,7 @@
 * [2025-07-15, 16:49:06](https://news.ycombinator.com/item?id=44573195) - [Reflections on OpenAI](https://calv.info/openai-reflections)
 * [2025-07-15, 16:48:53](https://news.ycombinator.com/item?id=44573193) - [What's going on with gene therapies? (Part one)](https://nehalslearnings.substack.com/p/whats-going-on-with-gene-therapies)
 * [2025-07-15, 16:33:24](https://news.ycombinator.com/item?id=44572954) - [The 1960s schools experiment that created a whole new alphabet](https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell)
+* [2025-07-15, 16:21:59](https://news.ycombinator.com/item?id=44572807) - [Sage: An atomic bomb kicked off the biggest computing project in history](https://www.ibm.com/history/sage)
 * [2025-07-15, 16:21:08](https://news.ycombinator.com/item?id=44572792) - [Marc Andreessen Is a Traitor](https://www.liberalcurrents.com/marc-andreessen-is-a-traitor/)
 * [2025-07-15, 15:59:04](https://news.ycombinator.com/item?id=44572527) - [What Caused the 'Baby Boom'? What Would It Take to Have Another?](https://www.derekthompson.org/p/what-caused-the-baby-boom-what-would)
 * [2025-07-15, 15:56:47](https://news.ycombinator.com/item?id=44572499) - [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
