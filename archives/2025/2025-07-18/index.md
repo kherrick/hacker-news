@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 13:21:03](https://news.ycombinator.com/item?id=44604365) - [ACA health insurance will cost the average person 75% more next year](https://www.npr.org/sections/shots-health-news/2025/07/18/nx-s1-5471281/aca-health-insurance-premiums-obamacare-bbb-kff)
+* [2025-07-18, 13:05:55](https://news.ycombinator.com/item?id=44604257) - [Ask HN: Any active COBOL devs here? What are you working on?](https://news.ycombinator.com/item?id=44604257)
+* [2025-07-18, 13:02:16](https://news.ycombinator.com/item?id=44604223) - [I Never Cared Much for Swords. Then I Had to Fight with One](https://thewalrus.ca/i-never-cared-much-for-swords-then-i-had-to-fight-with-one/)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://tangled.sh/@rockorager.dev/lsr)
 * [2025-07-18, 12:00:47](https://news.ycombinator.com/item?id=44603739) - [Resolve (YC W15) Is Hiring an Operations and Billing Lead for Construction VR](https://news.ycombinator.com/item?id=44603739)
 * [2025-07-18, 11:10:53](https://news.ycombinator.com/item?id=44603365) - [The Most Powerful Server Embiggens a Bit with Power11](https://www.nextplatform.com/2025/07/16/the-worlds-most-powerful-server-embiggens-a-bit-with-power11/)

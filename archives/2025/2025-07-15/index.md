@@ -53,6 +53,7 @@
 * [2025-07-15, 14:51:17](https://news.ycombinator.com/item?id=44571740) - [Ask HN: Is it time to fork HN into AI/LLM and \"Everything else/other?\"](https://news.ycombinator.com/item?id=44571740)
 * [2025-07-15, 14:47:02](https://news.ycombinator.com/item?id=44571692) - [Voxtral – Frontier open source speech understanding models](https://mistral.ai/news/voxtral)
 * [2025-07-15, 14:33:55](https://news.ycombinator.com/item?id=44571563) - [Cloudflare Starts Blocking Pirate Sites for UK Users](https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/)
+* [2025-07-15, 14:32:21](https://news.ycombinator.com/item?id=44571549) - [HathiTrust Digital Library – books online](https://www.hathitrust.org/)
 * [2025-07-15, 13:23:34](https://news.ycombinator.com/item?id=44570886) - [The Moving Assembly Line Turns 100](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
 * [2025-07-15, 12:40:51](https://news.ycombinator.com/item?id=44570535) - [Speedrun](https://www.educationprogress.org/p/speedrun)
 * [2025-07-15, 12:18:16](https://news.ycombinator.com/item?id=44570363) - [A Little-Known Microsoft Program Could Expose the Defense Department to Hackers](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers)
