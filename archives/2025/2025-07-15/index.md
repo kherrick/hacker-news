@@ -46,6 +46,7 @@
 * [2025-07-15, 15:52:10](https://news.ycombinator.com/item?id=44572432) - [The IRS Is Building a System to Share Taxpayers' Data with ICE](https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations)
 * [2025-07-15, 15:46:41](https://news.ycombinator.com/item?id=44572377) - [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
 * [2025-07-15, 15:37:15](https://news.ycombinator.com/item?id=44572273) - [Adding lookbehinds to rust-lang/regex](https://systemf.epfl.ch/blog/rust-regex-lookbehinds/)
+* [2025-07-15, 15:18:48](https://news.ycombinator.com/item?id=44572068) - [Show HN: Simulating Autonomous Drone Formations](https://github.com/sushrut141/ketu)
 * [2025-07-15, 15:17:16](https://news.ycombinator.com/item?id=44572043) - [Ask HN: What's Your Useful Local LLM Stack?](https://news.ycombinator.com/item?id=44572043)
 * [2025-07-15, 15:15:20](https://news.ycombinator.com/item?id=44572028) - [Kubernetes Solves Its Biggest Problem: Managing Databases](https://thenewstack.io/kubernetes-finally-solves-its-biggest-problem-managing-databases/)
 * [2025-07-15, 15:09:20](https://news.ycombinator.com/item?id=44571954) - [Secret changes to major U.S. health datasets raise alarms](https://www.psypost.org/secret-changes-to-major-u-s-health-datasets-raise-alarms/)
