@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 19:28:34](https://news.ycombinator.com/item?id=44608840) - [Show HN: I built library management app for those who outgrew spreadsheets](https://www.librari.io/)
+* [2025-07-18, 19:21:38](https://news.ycombinator.com/item?id=44608754) - [Asynchrony Is Not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 * [2025-07-18, 19:16:43](https://news.ycombinator.com/item?id=44608701) - [DHS: Filming Cops, ICE Officers Is a 'Violent Tactic'](https://www.techdirt.com/2025/07/18/dhs-filming-cops-ice-officers-is-a-violent-tactic/)
 * [2025-07-18, 19:13:36](https://news.ycombinator.com/item?id=44608669) - [Lookism](https://en.wikipedia.org/wiki/Lookism)
 * [2025-07-18, 19:09:07](https://news.ycombinator.com/item?id=44608622) - [Replication of Quantum Factorisation Records with a Vic-20, an Abacus, and a Dog](https://eprint.iacr.org/2025/1237)
@@ -17,6 +19,7 @@
 * [2025-07-18, 17:55:40](https://news.ycombinator.com/item?id=44607828) - [The Israeli \"art student\" mystery (2002)](https://www.salon.com/2002/05/07/students/)
 * [2025-07-18, 17:48:48](https://news.ycombinator.com/item?id=44607740) - [Firefox-patch-bin, librewolf-fix-bin AUR packages contain malware](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/)
 * [2025-07-18, 17:32:47](https://news.ycombinator.com/item?id=44607547) - [Experts lay into Tesla safety in federal autopilot trial](https://arstechnica.com/cars/2025/07/experts-lay-into-tesla-safety-in-federal-autopilot-trial/)
+* [2025-07-18, 17:21:49](https://news.ycombinator.com/item?id=44607403) - [The Year of Peak Might and Magic](https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/)
 * [2025-07-18, 17:12:05](https://news.ycombinator.com/item?id=44607252) - [Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot](https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/)
 * [2025-07-18, 16:41:52](https://news.ycombinator.com/item?id=44606803) - [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
 * [2025-07-18, 16:32:55](https://news.ycombinator.com/item?id=44606671) - [Gmail's backup codes are useless to access account](https://news.ycombinator.com/item?id=44606671)

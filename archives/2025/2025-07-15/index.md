@@ -90,3 +90,4 @@
 * [2025-07-15, 01:22:49](https://news.ycombinator.com/item?id=44566996) - [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf)
 * [2025-07-15, 00:34:40](https://news.ycombinator.com/item?id=44566748) - [Protecting My Attention at the Dopamine Carnival](https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival)
 * [2025-07-15, 00:27:21](https://news.ycombinator.com/item?id=44566714) - [The Collapse of the FDA](https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html)
+* [2025-07-15, 00:19:04](https://news.ycombinator.com/item?id=44566673) - [Benben: An audio player for the terminal, written in Common Lisp](https://chiselapp.com/user/MistressRemilia/repository/benben/home)
