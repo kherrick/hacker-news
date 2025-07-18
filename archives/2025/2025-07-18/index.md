@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 10:57:08](https://news.ycombinator.com/item?id=44603267) - [Psilocybin produces substantial sustained decreases in depression and anxiety](https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/)
+* [2025-07-18, 10:48:40](https://news.ycombinator.com/item?id=44603218) - [Servo Web Engine Further Tuning Performance](https://www.phoronix.com/news/Servo-June-2025-Highlights)
 * [2025-07-18, 10:27:44](https://news.ycombinator.com/item?id=44603096) - [Crypto's Wild West Era Is Over](https://gizmodo.com/cryptos-wild-west-era-is-over-2000631148)
 * [2025-07-18, 09:34:42](https://news.ycombinator.com/item?id=44602779) - [Netflix uses generative AI in one of its shows for first time](https://www.theguardian.com/media/2025/jul/18/netflix-uses-generative-ai-in-show-for-first-time-el-eternauta)
 * [2025-07-18, 08:36:47](https://news.ycombinator.com/item?id=44602532) - [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)

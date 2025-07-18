@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-18, 10:57:08](https://news.ycombinator.com/item?id=44603267) - [Psilocybin produces substantial sustained decreases in depression and anxiety](https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/)
+* [2025-07-18, 10:48:40](https://news.ycombinator.com/item?id=44603218) - [Servo Web Engine Further Tuning Performance](https://www.phoronix.com/news/Servo-June-2025-Highlights)
 * [2025-07-18, 10:27:44](https://news.ycombinator.com/item?id=44603096) - [Crypto's Wild West Era Is Over](https://gizmodo.com/cryptos-wild-west-era-is-over-2000631148)
 * [2025-07-18, 08:36:47](https://news.ycombinator.com/item?id=44602532) - [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 * [2025-07-18, 08:05:26](https://news.ycombinator.com/item?id=44602364) - [Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)](https://www.arva.ai/careers/ai-research-engineer)
@@ -10,7 +12,6 @@
 * [2025-07-18, 02:14:33](https://news.ycombinator.com/item?id=44600512) - [USB-C hubs and my slow descent into madness (2021)](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
 * [2025-07-18, 00:01:54](https://news.ycombinator.com/item?id=44599711) - [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune)
 * [2025-07-17, 23:38:48](https://news.ycombinator.com/item?id=44599549) - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
-* [2025-07-17, 21:09:51](https://news.ycombinator.com/item?id=44598254) - [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 * [2025-07-17, 18:27:24](https://news.ycombinator.com/item?id=44596472) - [My experience with Claude Code after two weeks of adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
 * [2025-07-17, 18:09:59](https://news.ycombinator.com/item?id=44596275) - [Apple Intelligence Foundation Language Models Tech Report 2025](https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025)
 * [2025-07-17, 17:29:46](https://news.ycombinator.com/item?id=44595824) - [Run TypeScript code without worrying about configuration](https://tsx.is/)
@@ -27,7 +28,6 @@
 * [2025-07-15, 08:07:52](https://news.ycombinator.com/item?id=44569019) - [Inspect ANSI control codes and escape sequences](https://ansi.tools)
 * [2025-07-15, 06:53:45](https://news.ycombinator.com/item?id=44568594) - [DIY Telescope Mods That Transformed My Astrophotography](https://www.youtube.com/watch?v=Efmzr_K4ApQ)
 * [2025-07-15, 05:39:26](https://news.ycombinator.com/item?id=44568147) - [A look at IBM's short-lived \"butterfly\" ThinkPad 701 of 1995](https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard)
-* [2025-07-14, 16:31:27](https://news.ycombinator.com/item?id=44562076) - [The Pigeon River Is Perched, Which Is Geologically Bad News (2020)](https://princegeology.com/the-pigeon-river-is-perched-which-is-geologically-bad-news-for-it/)
 * [2025-07-14, 16:15:41](https://news.ycombinator.com/item?id=44561895) - [Extending That XOR Trick to Billions of Rows](https://nochlin.com/blog/extending-that-xor-trick)
 * [2025-07-14, 06:21:28](https://news.ycombinator.com/item?id=44556997) - [Archaeologists discover tomb of first king of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
 
