@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-18, 17:48:48",
+      "https://news.ycombinator.com/item?id=44607740"
+    ],
+    [
+      "Firefox-patch-bin, librewolf-fix-bin AUR packages contain malware",
+      "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 17:12:05",
       "https://news.ycombinator.com/item?id=44607252"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44605618"
     ],
     [
-      "ICE Is Getting Unprecedented Access to Medicaid Data",
+      "ICE is getting unprecedented access to Medicaid data",
       "https://www.wired.com/story/ice-access-medicaid-data/"
     ]
   ],
@@ -116,7 +126,7 @@
     ],
     [
       "lsr: ls with io_uring",
-      "https://tangled.sh/@rockorager.dev/lsr"
+      "https://rockorager.dev/log/lsr-ls-but-with-io-uring/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "HathiTrust Digital Library – books online",
       "https://www.hathitrust.org/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 08:59:08",
-      "https://news.ycombinator.com/item?id=44569278"
-    ],
-    [
-      "TCP-in-UDP Solution (eBPF)",
-      "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
     ]
   ],
   [
