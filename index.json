@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-07-18, 20:32:47",
+      "https://news.ycombinator.com/item?id=44609508"
+    ],
+    [
+      "Hush: Holistic Panoramic 3D Scene Understanding Using Spherical Harmonics",
+      "https://vision3d-lab.github.io/hush/"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 20:30:36",
       "https://news.ycombinator.com/item?id=44609479"
     ],
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2025-07-18, 18:07:57",
-      "https://news.ycombinator.com/item?id=44607961"
-    ],
-    [
-      "Section 174 is reversed, mostly",
-      "https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed"
-    ]
-  ],
-  [
-    [
       "2025-07-18, 17:56:37",
       "https://news.ycombinator.com/item?id=44607838"
     ],
     [
       "Meta says it wont sign Europe AI agreement, calling it growth stunting overreach",
       "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 17:48:48",
-      "https://news.ycombinator.com/item?id=44607740"
-    ],
-    [
-      "Firefox-patch-bin, librewolf-fix-bin AUR packages contain malware",
-      "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "When root meets immutable: OpenBSD chflags vs. log tampering",
       "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 16:21:59",
+      "https://news.ycombinator.com/item?id=44572807"
+    ],
+    [
+      "Sage: An atomic bomb kicked off the biggest computing project in history",
+      "https://www.ibm.com/history/sage"
     ]
   ],
   [
