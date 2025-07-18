@@ -64,6 +64,7 @@
 * [2025-07-15, 08:09:19](https://news.ycombinator.com/item?id=44569024) - [Show HN: Minesweeper game I built to be real-time Multiplayer](https://www.minesweeperpro.com/?v=2.1)
 * [2025-07-15, 07:28:41](https://news.ycombinator.com/item?id=44568819) - [Train Brakes Can Be Hacked over Radio–and the Industry Knew for 20 Years](https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/)
 * [2025-07-15, 06:44:57](https://news.ycombinator.com/item?id=44568529) - [Show HN: Timep – a next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
+* [2025-07-15, 05:39:26](https://news.ycombinator.com/item?id=44568147) - [A look at IBM's short-lived \"butterfly\" ThinkPad 701 of 1995](https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard)
 * [2025-07-15, 04:52:14](https://news.ycombinator.com/item?id=44567925) - [Belgian CVD is deeply broken](https://devae.re/posts/belgian-cvd-is-deeply-broken/)
 * [2025-07-15, 04:43:08](https://news.ycombinator.com/item?id=44567888) - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 * [2025-07-15, 04:40:10](https://news.ycombinator.com/item?id=44567871) - [Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
