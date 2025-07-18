@@ -23,6 +23,7 @@
 * [2025-07-15, 18:31:56](https://news.ycombinator.com/item?id=44574382) - [Meta announces new data centers, gobble up millions of gallons of water per day](https://www.engadget.com/ai/meta-announces-huge-new-data-centers-but-they-could-gobble-up-millions-of-gallons-of-water-per-day-174000478.html)
 * [2025-07-15, 18:24:51](https://news.ycombinator.com/item?id=44574318) - [Show HN: Beyond Z²+C, Plot Any Fractal](https://www.juliascope.com/)
 * [2025-07-15, 18:14:51](https://news.ycombinator.com/item?id=44574204) - [Mistralai/Voxtral-Mini-3B-2507 · Hugging Face](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507)
+* [2025-07-15, 18:06:31](https://news.ycombinator.com/item?id=44574107) - [Claude Code Unleashed](https://ymichael.com/2025/07/15/claude-code-unleashed)
 * [2025-07-15, 18:05:21](https://news.ycombinator.com/item?id=44574095) - [Encrypting Files with Passkeys and Age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-15, 17:48:35](https://news.ycombinator.com/item?id=44573887) - [Designing for the Eye: Optical Corrections in Architecture and Typography](https://www.nubero.ch/blog/015/)
 * [2025-07-15, 17:43:45](https://news.ycombinator.com/item?id=44573840) - [Why my p(doom) has risen, dramatically](https://garymarcus.substack.com/p/why-my-pdoom-has-risen-dramatically)
