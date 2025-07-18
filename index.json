@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-18, 18:39:02",
+      "https://news.ycombinator.com/item?id=44608294"
+    ],
+    [
+      "Mango Health (YC W24) Is Hiring",
+      "https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 18:07:57",
+      "https://news.ycombinator.com/item?id=44607961"
+    ],
+    [
+      "Section 174 is reversed! Mostly, that is.",
+      "https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 17:56:37",
       "https://news.ycombinator.com/item?id=44607838"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-07-18, 12:00:47",
-      "https://news.ycombinator.com/item?id=44603739"
-    ],
-    [
-      "Resolve (YC W15) Is Hiring an Operations and Billing Lead for Construction VR",
-      "https://news.ycombinator.com/item?id=44603739"
-    ]
-  ],
-  [
-    [
       "2025-07-18, 10:57:08",
       "https://news.ycombinator.com/item?id=44603267"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-07-17, 18:27:24",
-      "https://news.ycombinator.com/item?id=44596472"
-    ],
-    [
-      "My experience with Claude Code after two weeks of adventures",
-      "https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 00:16:17",
       "https://news.ycombinator.com/item?id=44588319"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-07-15, 08:59:08",
-      "https://news.ycombinator.com/item?id=44569278"
+      "2025-07-15, 11:36:08",
+      "https://news.ycombinator.com/item?id=44570089"
     ],
     [
-      "TCP-in-UDP Solution (eBPF)",
-      "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
+      "How to Get Foreign Keys Horribly Wrong",
+      "https://hakibenita.com/django-foreign-keys"
     ]
   ],
   [
