@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it wont sign Europe AI agreement, calling it growth stunting overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 17:48:48](https://news.ycombinator.com/item?id=44607740) - [Firefox-patch-bin, librewolf-fix-bin AUR packages contain malware](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/)
 * [2025-07-18, 17:12:05](https://news.ycombinator.com/item?id=44607252) - [Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot](https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/)
 * [2025-07-18, 16:41:52](https://news.ycombinator.com/item?id=44606803) - [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
@@ -16,6 +17,7 @@
 * [2025-07-18, 15:34:36](https://news.ycombinator.com/item?id=44605873) - [In the long run, GPL code becomes irrelevant (2015)](https://josephg.com/blog/in-the-long-run-gpl-code-becomes-irrelevant/)
 * [2025-07-18, 15:28:02](https://news.ycombinator.com/item?id=44605782) - [AirPods succeed by not selling you a new pair](https://victorwynne.com/airpods-succeed/)
 * [2025-07-18, 15:23:53](https://news.ycombinator.com/item?id=44605732) - [Ask HN: GCP Outage?](https://news.ycombinator.com/item?id=44605732)
+* [2025-07-18, 15:19:17](https://news.ycombinator.com/item?id=44605670) - [A New Geometry for Einstein's Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/)
 * [2025-07-18, 15:15:58](https://news.ycombinator.com/item?id=44605618) - [ICE Is Getting Unprecedented Access to Medicaid Data](https://www.wired.com/story/ice-access-medicaid-data/)
 * [2025-07-18, 15:15:39](https://news.ycombinator.com/item?id=44605610) - [The Number go up rule: Why America refuses to fix anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)
 * [2025-07-18, 14:53:00](https://news.ycombinator.com/item?id=44605312) - [Ask HN: Where do you guys find audiobooks?](https://news.ycombinator.com/item?id=44605312)
