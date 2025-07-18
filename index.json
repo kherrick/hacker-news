@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-18, 05:38:55",
+      "https://news.ycombinator.com/item?id=44601562"
+    ],
+    [
+      "Why is AI so slow to spread?",
+      "https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 05:37:17",
       "https://news.ycombinator.com/item?id=44601548"
     ],
@@ -17,6 +27,16 @@
     [
       "Meta Poaches Two More Apple AI Executives",
       "https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 03:53:31",
+      "https://news.ycombinator.com/item?id=44601045"
+    ],
+    [
+      "Linux and Secure Boot certificate expiration",
+      "https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds",
       "https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 23:10:03",
-      "https://news.ycombinator.com/item?id=44599325"
-    ],
-    [
-      "23andMe is out of bankruptcy. You should still delete your DNA",
-      "https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-07-17, 12:04:53",
-      "https://news.ycombinator.com/item?id=44592377"
-    ],
-    [
-      "My bank keeps on undermining anti-phishing education",
-      "http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 00:16:17",
       "https://news.ycombinator.com/item?id=44588319"
     ],
@@ -237,6 +237,16 @@
     [
       "RisingWave: An Open‑Source Stream‑Processing and Management Platform",
       "https://github.com/risingwavelabs/risingwave"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 08:59:08",
+      "https://news.ycombinator.com/item?id=44569278"
+    ],
+    [
+      "TCP-in-UDP Solution (eBPF)",
+      "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C",
       "https://github.com/sammycage/plutofilter"
-    ]
-  ],
-  [
-    [
-      "2025-07-13, 22:51:06",
-      "https://news.ycombinator.com/item?id=44554530"
-    ],
-    [
-      "Stone blocks from the Lighthouse of Alexandria recovered from seafloor",
-      "https://archaeologymag.com/2025/07/lighthouse-of-alexandria-rises-again/"
     ]
   ]
 ]
