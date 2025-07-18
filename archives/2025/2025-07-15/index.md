@@ -63,6 +63,7 @@
 * [2025-07-15, 09:47:20](https://news.ycombinator.com/item?id=44569540) - [Game of Trees Hub](https://gothub.org/)
 * [2025-07-15, 09:16:21](https://news.ycombinator.com/item?id=44569367) - [RisingWave: An Open‑Source Stream‑Processing and Management Platform](https://github.com/risingwavelabs/risingwave)
 * [2025-07-15, 09:01:40](https://news.ycombinator.com/item?id=44569296) - [Field Notes on Shipping with Claude Code](https://www.lesswrong.com/posts/dxiConBZTd33sFaRC/field-notes-from-shipping-real-code-with-claude)
+* [2025-07-15, 08:59:08](https://news.ycombinator.com/item?id=44569278) - [TCP-in-UDP Solution (eBPF)](https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html)
 * [2025-07-15, 08:21:40](https://news.ycombinator.com/item?id=44569095) - [Inside the box: Everything I did with an Arduino starter kit](https://lopespm.com/hardware/2025/07/15/arduino.html)
 * [2025-07-15, 08:09:19](https://news.ycombinator.com/item?id=44569024) - [Show HN: Minesweeper game I built to be real-time Multiplayer](https://www.minesweeperpro.com/?v=2.1)
 * [2025-07-15, 07:28:41](https://news.ycombinator.com/item?id=44568819) - [Train Brakes Can Be Hacked over Radio–and the Industry Knew for 20 Years](https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/)
