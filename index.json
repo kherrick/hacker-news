@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-07-18, 02:14:33",
+      "https://news.ycombinator.com/item?id=44600512"
+    ],
+    [
+      "USB-C hubs and my slow descent into madness (2021)",
+      "https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 02:01:09",
+      "https://news.ycombinator.com/item?id=44600437"
+    ],
+    [
+      "CBS Canceling 'Late Show with Stephen Colbert' After Next Season",
+      "https://www.nytimes.com/2025/07/17/business/stephen-colbert-late-show-ending.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 01:30:37",
+      "https://news.ycombinator.com/item?id=44600251"
+    ],
+    [
+      "Out Run: Amiga Edition – Launch Trailer [video]",
+      "https://www.youtube.com/watch?v=WZzTp3vSC0g"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 00:45:18",
+      "https://news.ycombinator.com/item?id=44599984"
+    ],
+    [
+      "Louisiana cancels $3B coastal repair funded by oil spill settlement",
+      "https://apnews.com/article/louisiana-coastal-restoration-gulf-oil-spill-affaae2877bf250f636a633a14fbd0c7"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 00:01:54",
+      "https://news.ycombinator.com/item?id=44599711"
+    ],
+    [
+      "Astronomers Discover Rare Distant Object in Sync with Neptune",
+      "https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 23:38:48",
       "https://news.ycombinator.com/item?id=44599549"
     ],
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2025-07-17, 21:38:14",
-      "https://news.ycombinator.com/item?id=44598534"
-    ],
-    [
-      "Don't Fall for AI: Reasons for Writers to Reject Slop",
-      "https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 21:09:51",
       "https://news.ycombinator.com/item?id=44598254"
     ],
@@ -71,32 +111,12 @@
   ],
   [
     [
-      "2025-07-17, 20:01:27",
-      "https://news.ycombinator.com/item?id=44597537"
-    ],
-    [
-      "ICE's Supercharged Facial Recognition App of 200M Images",
-      "https://www.404media.co/inside-ices-supercharged-facial-recognition-app-of-200-million-images/"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 18:27:24",
       "https://news.ycombinator.com/item?id=44596472"
     ],
     [
       "My experience with Claude Code after two weeks of adventures",
       "https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 18:14:41",
-      "https://news.ycombinator.com/item?id=44596327"
-    ],
-    [
-      "The impact of file position on code review",
-      "https://arxiv.org/abs/2208.04259"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "All AI models might be the same",
       "https://blog.jxmo.io/p/there-is-only-one-model"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 17:20:42",
-      "https://news.ycombinator.com/item?id=44595697"
-    ],
-    [
-      "3D-printed living lung tissue",
-      "https://news.ok.ubc.ca/2025/07/15/ubco-researchers-create-3d-printed-living-lung-tissue/"
     ]
   ],
   [
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2025-07-17, 12:00:26",
-      "https://news.ycombinator.com/item?id=44592344"
-    ],
-    [
-      "Rejoy Health (YC W21) Is Hiring",
-      "https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 11:56:33",
-      "https://news.ycombinator.com/item?id=44592303"
-    ],
-    [
-      "Show HN: Easy alternative to giflib – header-only decoder in C",
-      "https://github.com/Ferki-git-creator/TurboStitchGIF-HeaderOnly-Fast-ZeroAllocation-PlatformIndependent-Embedded-C-GIF-Decoder"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 00:16:17",
       "https://news.ycombinator.com/item?id=44588319"
     ],
@@ -217,6 +207,16 @@
     [
       "Game of trees hub",
       "https://gothub.org/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 09:16:21",
+      "https://news.ycombinator.com/item?id=44569367"
+    ],
+    [
+      "RisingWave: An Open‑Source Stream‑Processing and Management Platform",
+      "https://github.com/risingwavelabs/risingwave"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-07-14, 18:37:57",
-      "https://news.ycombinator.com/item?id=44563711"
+      "2025-07-14, 16:15:41",
+      "https://news.ycombinator.com/item?id=44561895"
     ],
     [
-      "Creating an autonomous system for fun and profit (2017)",
-      "https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html"
+      "Extending That XOR Trick to Billions of Rows",
+      "https://nochlin.com/blog/extending-that-xor-trick"
     ]
   ],
   [
