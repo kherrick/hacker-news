@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 19:59:04](https://news.ycombinator.com/item?id=44609130) - [AI CapEx Is Eating the Economy](https://paulkedrosky.com/honey-ai-capex-ate-the-economy/)
+* [2025-07-18, 19:44:48](https://news.ycombinator.com/item?id=44608998) - [Trying to send a sticker in Steam Chat burned through a month of mobile data](https://old.reddit.com/r/Steam/comments/1m000kp/trying_to_send_a_sticker_in_steam_chat_burned/)
 * [2025-07-18, 19:28:34](https://news.ycombinator.com/item?id=44608840) - [Show HN: I built library management app for those who outgrew spreadsheets](https://www.librari.io/)
 * [2025-07-18, 19:21:38](https://news.ycombinator.com/item?id=44608754) - [Asynchrony Is Not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 * [2025-07-18, 19:16:43](https://news.ycombinator.com/item?id=44608701) - [DHS: Filming Cops, ICE Officers Is a 'Violent Tactic'](https://www.techdirt.com/2025/07/18/dhs-filming-cops-ice-officers-is-a-violent-tactic/)
