@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 19:16:43](https://news.ycombinator.com/item?id=44608701) - [DHS: Filming Cops, ICE Officers Is a 'Violent Tactic'](https://www.techdirt.com/2025/07/18/dhs-filming-cops-ice-officers-is-a-violent-tactic/)
+* [2025-07-18, 19:13:36](https://news.ycombinator.com/item?id=44608669) - [Lookism](https://en.wikipedia.org/wiki/Lookism)
+* [2025-07-18, 19:09:07](https://news.ycombinator.com/item?id=44608622) - [Replication of Quantum Factorisation Records with a Vic-20, an Abacus, and a Dog](https://eprint.iacr.org/2025/1237)
 * [2025-07-18, 18:56:36](https://news.ycombinator.com/item?id=44608468) - [Everything You Need to Know About Grok 4](https://forgecode.dev/blog/grok-4-initial-impression/)
 * [2025-07-18, 18:39:02](https://news.ycombinator.com/item?id=44608294) - [Mango Health (YC W24) Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
 * [2025-07-18, 18:36:39](https://news.ycombinator.com/item?id=44608275) - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
+* [2025-07-18, 18:26:22](https://news.ycombinator.com/item?id=44608170) - [Third patient dies from acute liver failure caused by a Sarepta gene therapy](https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy)
 * [2025-07-18, 18:07:57](https://news.ycombinator.com/item?id=44607961) - [Section 174 is reversed! Mostly, that is.](https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it wont sign Europe AI agreement, calling it growth stunting overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 17:55:40](https://news.ycombinator.com/item?id=44607828) - [The Israeli \"art student\" mystery (2002)](https://www.salon.com/2002/05/07/students/)
