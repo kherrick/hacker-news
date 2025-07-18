@@ -25,6 +25,7 @@
 * [2025-07-14, 19:25:27](https://news.ycombinator.com/item?id=44564249) - [The Battle for Britain's First Book of the Month Club](https://www.historytoday.com/archive/history-matters/battle-britains-first-book-month-club)
 * [2025-07-14, 19:25:15](https://news.ycombinator.com/item?id=44564248) - [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
 * [2025-07-14, 19:14:51](https://news.ycombinator.com/item?id=44564155) - [High-resolution imaging method details nerves across a mouse’s body](https://www.nature.com/articles/d41586-025-02156-y)
+* [2025-07-14, 18:50:31](https://news.ycombinator.com/item?id=44563867) - [Row Polymorphic Programming](https://www.stranger.systems/posts/by-slug/row-polymorphic-programming.html)
 * [2025-07-14, 18:37:57](https://news.ycombinator.com/item?id=44563711) - [Creating an Autonomous System for Fun and Profit](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2025-07-14, 18:19:45](https://news.ycombinator.com/item?id=44563470) - [Inequality, decay of democratic institutions linked to accelerated ageing](https://www.nature.com/articles/d41586-025-02181-x)
 * [2025-07-14, 18:11:25](https://news.ycombinator.com/item?id=44563364) - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
