@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-18, 20:43:12](https://news.ycombinator.com/item?id=44609616) - [Exhausted man defeats AI model in world coding championship](https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/)
 * [2025-07-18, 19:59:49](https://news.ycombinator.com/item?id=44609137) - [Multiplatform Matrix Multiplication Kernels](https://burn.dev/blog/sota-multiplatform-matmul/)
 * [2025-07-18, 19:59:04](https://news.ycombinator.com/item?id=44609130) - [AI CapEx Is Eating the Economy](https://paulkedrosky.com/honey-ai-capex-ate-the-economy/)
 * [2025-07-18, 19:44:48](https://news.ycombinator.com/item?id=44608998) - [Trying to send a sticker in Steam Chat burned through a month of mobile data](https://old.reddit.com/r/Steam/comments/1m000kp/trying_to_send_a_sticker_in_steam_chat_burned/)
@@ -18,7 +19,6 @@
 * [2025-07-18, 15:39:51](https://news.ycombinator.com/item?id=44605946) - [Dear valued user, You have reached the error page for the error page](https://imgur.com/a/2H7HVcU)
 * [2025-07-18, 15:19:17](https://news.ycombinator.com/item?id=44605670) - [A New Geometry for Einstein's Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/)
 * [2025-07-18, 14:44:57](https://news.ycombinator.com/item?id=44605213) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44605213)
-* [2025-07-18, 13:29:50](https://news.ycombinator.com/item?id=44604453) - [Exposed MCP servers across the internet](https://www.knostic.ai/blog/mapping-mcp-servers-study)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://rockorager.dev/log/lsr-ls-but-with-io-uring/)
 * [2025-07-18, 10:57:08](https://news.ycombinator.com/item?id=44603267) - [Psilocybin decreases depression and anxiety in cancer patients (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/)
 * [2025-07-18, 10:22:15](https://news.ycombinator.com/item?id=44603066) - [CP/M creator Gary Kildall's memoirs released as free download](https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download)
