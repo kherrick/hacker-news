@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 23:00:56](https://news.ycombinator.com/item?id=44610732) - [EPA says it will eliminate its scientific reseach arm](https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html)
+* [2025-07-18, 22:30:22](https://news.ycombinator.com/item?id=44610491) - [Marathon fusion claims to invent alchemy, making 5000 kgs gold per gigawatt](https://www.marathonfusion.com/)
+* [2025-07-18, 22:27:17](https://news.ycombinator.com/item?id=44610468) - [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/)
 * [2025-07-18, 21:21:50](https://news.ycombinator.com/item?id=44609969) - [Silence Is a Commons by Ivan Illich (1983)](http://www.davidtinapple.com/illich/1983_silence_commons.html)
 * [2025-07-18, 20:43:12](https://news.ycombinator.com/item?id=44609616) - [Exhausted man defeats AI model in world coding championship](https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/)
 * [2025-07-18, 20:32:47](https://news.ycombinator.com/item?id=44609508) - [Hush: Holistic Panoramic 3D Scene Understanding Using Spherical Harmonics](https://vision3d-lab.github.io/hush/)
