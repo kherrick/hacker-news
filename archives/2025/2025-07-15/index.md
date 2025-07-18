@@ -8,6 +8,7 @@
 * [2025-07-15, 23:29:54](https://news.ycombinator.com/item?id=44577018) - [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
 * [2025-07-15, 22:54:19](https://news.ycombinator.com/item?id=44576762) - [Huawei's star AI model was built on burnout and plagiarism](https://the-open-source-ward.ghost.io/the-pangu-illusion-how-huaweis-star-ai-model-was-built-on-burnout-betrayal-and-open-source-theft/)
 * [2025-07-15, 22:07:47](https://news.ycombinator.com/item?id=44576352) - [My Family and the Flood: A Firsthand Account](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
+* [2025-07-15, 22:04:04](https://news.ycombinator.com/item?id=44576314) - [I call them \"Loop Bots\"](https://www.imaurer.com/blog/posts/2025-07-15-i-call-them-loop-bots/)
 * [2025-07-15, 22:03:50](https://news.ycombinator.com/item?id=44576312) - [AI ate code, now it wants cashflows. Is this finance's Copilot moment?\"](https://www.anthropic.com/news/claude-for-financial-services)
 * [2025-07-15, 21:29:16](https://news.ycombinator.com/item?id=44575998) - [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
 * [2025-07-15, 21:03:50](https://news.ycombinator.com/item?id=44575794) - [Where's Firefox Going Next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
