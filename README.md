@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-18, 15:15:39](https://news.ycombinator.com/item?id=44605610) - [The Number go up rule: Why America refuses to fix anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)
+* [2025-07-18, 14:53:00](https://news.ycombinator.com/item?id=44605312) - [Ask HN: Where do you guys find audiobooks?](https://news.ycombinator.com/item?id=44605312)
+* [2025-07-18, 14:44:57](https://news.ycombinator.com/item?id=44605213) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44605213)
 * [2025-07-18, 14:10:21](https://news.ycombinator.com/item?id=44604827) - [French villages have no more drinking water. The reason? PFAS pollution](https://www.lemonde.fr/en/environment/article/2025/07/18/these-french-villages-have-no-more-drinking-water-the-reason-pfas-pollution_6743479_114.html)
-* [2025-07-18, 14:05:27](https://news.ycombinator.com/item?id=44604775) - [An average human breathes out roughly 1kg of carbon dioxide a day](https://twitter.com/ID_AA_Carmack/status/1945948569246027934)
 * [2025-07-18, 13:56:02](https://news.ycombinator.com/item?id=44604690) - [What’s on offer at a luxury Bay Area longevity clinic](https://www.sfchronicle.com/health/aging-longevity/article/human-longevity-health-clinic-20277643.php)
 * [2025-07-18, 13:50:47](https://news.ycombinator.com/item?id=44604633) - [Travelers to the U.S. must pay a new $250 'visa integrity fee' – what to know](https://www.cnbc.com/2025/07/18/visa-integrity-fee-what-to-know-about-new-travel-fee-to-enter-the-us-.html)
 * [2025-07-18, 13:29:50](https://news.ycombinator.com/item?id=44604453) - [Exposing the Unseen: Mapping MCP Servers Across the Internet](https://www.knostic.ai/blog/mapping-mcp-servers-study)
@@ -15,7 +17,6 @@
 * [2025-07-18, 08:36:47](https://news.ycombinator.com/item?id=44602532) - [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 * [2025-07-18, 03:49:50](https://news.ycombinator.com/item?id=44601023) - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
 * [2025-07-18, 02:27:43](https://news.ycombinator.com/item?id=44600594) - [NIH is cheaper than the wrong dependency](https://lewiscampbell.tech/blog/250718.html)
-* [2025-07-17, 23:38:48](https://news.ycombinator.com/item?id=44599549) - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
 * [2025-07-17, 18:27:24](https://news.ycombinator.com/item?id=44596472) - [My experience with Claude Code after two weeks of adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
 * [2025-07-17, 17:28:49](https://news.ycombinator.com/item?id=44595811) - [All AI models might be the same](https://blog.jxmo.io/p/there-is-only-one-model)
 * [2025-07-17, 17:01:47](https://news.ycombinator.com/item?id=44595492) - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
@@ -27,7 +28,6 @@
 * [2025-07-15, 08:59:08](https://news.ycombinator.com/item?id=44569278) - [TCP-in-UDP Solution (eBPF)](https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html)
 * [2025-07-15, 08:07:52](https://news.ycombinator.com/item?id=44569019) - [Inspect ANSI control codes and escape sequences](https://ansi.tools)
 * [2025-07-15, 07:18:32](https://news.ycombinator.com/item?id=44568761) - [15 Years of Building Jefit](https://www.jefit.com/our-story)
-* [2025-07-15, 06:53:45](https://news.ycombinator.com/item?id=44568594) - [DIY Telescope Mods That Transformed My Astrophotography](https://www.youtube.com/watch?v=Efmzr_K4ApQ)
 * [2025-07-14, 18:50:31](https://news.ycombinator.com/item?id=44563867) - [Row Polymorphic Programming](https://www.stranger.systems/posts/by-slug/row-polymorphic-programming.html)
 * [2025-07-14, 15:45:28](https://news.ycombinator.com/item?id=44561516) - [Hundred Rabbits – Low-tech living while sailing the world](https://100r.co/site/home.html)
 
