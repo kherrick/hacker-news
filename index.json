@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-07-18, 19:13:36",
-      "https://news.ycombinator.com/item?id=44608669"
+      "2025-07-18, 19:28:34",
+      "https://news.ycombinator.com/item?id=44608840"
     ],
     [
-      "Lookism",
-      "https://en.wikipedia.org/wiki/Lookism"
+      "Show HN: I built library management app for those who outgrew spreadsheets",
+      "https://www.librari.io/"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 19:21:38",
+      "https://news.ycombinator.com/item?id=44608754"
+    ],
+    [
+      "Asynchrony Is Not Concurrency",
+      "https://kristoff.it/blog/asynchrony-is-not-concurrency/"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 19:16:43",
+      "https://news.ycombinator.com/item?id=44608701"
+    ],
+    [
+      "DHS: Filming Cops, ICE Officers Is a 'Violent Tactic'",
+      "https://www.techdirt.com/2025/07/18/dhs-filming-cops-ice-officers-is-a-violent-tactic/"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2025-07-18, 17:55:40",
-      "https://news.ycombinator.com/item?id=44607828"
-    ],
-    [
-      "The Israeli \"art student\" mystery (2002)",
-      "https://www.salon.com/2002/05/07/students/"
-    ]
-  ],
-  [
-    [
       "2025-07-18, 17:48:48",
       "https://news.ycombinator.com/item?id=44607740"
     ],
@@ -91,12 +101,12 @@
   ],
   [
     [
-      "2025-07-18, 17:32:47",
-      "https://news.ycombinator.com/item?id=44607547"
+      "2025-07-18, 17:21:49",
+      "https://news.ycombinator.com/item?id=44607403"
     ],
     [
-      "Experts lay into Tesla safety in federal autopilot trial",
-      "https://arstechnica.com/cars/2025/07/experts-lay-into-tesla-safety-in-federal-autopilot-trial/"
+      "The Year of Peak Might and Magic",
+      "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-07-18, 03:49:50",
-      "https://news.ycombinator.com/item?id=44601023"
-    ],
-    [
-      "Fully homomorphic encryption and the dawn of a private internet",
-      "https://bozmen.io/fhe"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 15:05:59",
       "https://news.ycombinator.com/item?id=44571908"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-07-15, 08:07:52",
-      "https://news.ycombinator.com/item?id=44569019"
-    ],
-    [
-      "Inspect ANSI control codes and escape sequences",
-      "https://ansi.tools"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 07:18:32",
       "https://news.ycombinator.com/item?id=44568761"
     ],
     [
       "15 Years of Building Jefit",
       "https://www.jefit.com/our-story"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 00:19:04",
+      "https://news.ycombinator.com/item?id=44566673"
+    ],
+    [
+      "Benben: An audio player for the terminal, written in Common Lisp",
+      "https://chiselapp.com/user/MistressRemilia/repository/benben/home"
     ]
   ],
   [
