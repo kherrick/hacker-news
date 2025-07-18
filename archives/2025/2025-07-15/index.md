@@ -67,6 +67,7 @@
 * [2025-07-15, 08:21:40](https://news.ycombinator.com/item?id=44569095) - [Inside the box: Everything I did with an Arduino starter kit](https://lopespm.com/hardware/2025/07/15/arduino.html)
 * [2025-07-15, 08:09:19](https://news.ycombinator.com/item?id=44569024) - [Show HN: Minesweeper game I built to be real-time Multiplayer](https://www.minesweeperpro.com/?v=2.1)
 * [2025-07-15, 07:28:41](https://news.ycombinator.com/item?id=44568819) - [Train Brakes Can Be Hacked over Radio–and the Industry Knew for 20 Years](https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/)
+* [2025-07-15, 06:53:45](https://news.ycombinator.com/item?id=44568594) - [DIY Telescope Mods That Transformed My Astrophotography](https://www.youtube.com/watch?v=Efmzr_K4ApQ)
 * [2025-07-15, 06:44:57](https://news.ycombinator.com/item?id=44568529) - [Show HN: Timep – a next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
 * [2025-07-15, 05:39:26](https://news.ycombinator.com/item?id=44568147) - [A look at IBM's short-lived \"butterfly\" ThinkPad 701 of 1995](https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard)
 * [2025-07-15, 04:52:14](https://news.ycombinator.com/item?id=44567925) - [Belgian CVD is deeply broken](https://devae.re/posts/belgian-cvd-is-deeply-broken/)
