@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 15:34:36](https://news.ycombinator.com/item?id=44605873) - [In the long run, GPL code becomes irrelevant (2015)](https://josephg.com/blog/in-the-long-run-gpl-code-becomes-irrelevant/)
+* [2025-07-18, 15:15:58](https://news.ycombinator.com/item?id=44605618) - [ICE Is Getting Unprecedented Access to Medicaid Data](https://www.wired.com/story/ice-access-medicaid-data/)
 * [2025-07-18, 15:15:39](https://news.ycombinator.com/item?id=44605610) - [The Number go up rule: Why America refuses to fix anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)
 * [2025-07-18, 14:53:00](https://news.ycombinator.com/item?id=44605312) - [Ask HN: Where do you guys find audiobooks?](https://news.ycombinator.com/item?id=44605312)
 * [2025-07-18, 14:44:57](https://news.ycombinator.com/item?id=44605213) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44605213)
+* [2025-07-18, 14:41:19](https://news.ycombinator.com/item?id=44605171) - [The EU can be shut down with a few keystrokes](https://www.bitecode.dev/p/the-eu-can-be-shut-down-with-a-few)
 * [2025-07-18, 14:10:21](https://news.ycombinator.com/item?id=44604827) - [French villages have no more drinking water. The reason? PFAS pollution](https://www.lemonde.fr/en/environment/article/2025/07/18/these-french-villages-have-no-more-drinking-water-the-reason-pfas-pollution_6743479_114.html)
 * [2025-07-18, 14:05:27](https://news.ycombinator.com/item?id=44604775) - [An average human breathes out roughly 1kg of carbon dioxide a day](https://twitter.com/ID_AA_Carmack/status/1945948569246027934)
 * [2025-07-18, 14:03:55](https://news.ycombinator.com/item?id=44604759) - [UC divests hedge funds as CIO criticizes high fees, low returns](https://www.pionline.com/institutional-investors/endowments-foundations/pi-university-california-hedge-funds-endowment-asset-allocation/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 23:40:17](https://news.ycombinator.com/item?id=44566510) - [The Art of Roland-Garros](https://www.garros.gallery/)
 * [2025-07-14, 23:01:26](https://news.ycombinator.com/item?id=44566312) - [Delaunay Mesh Generation (2012)](https://people.eecs.berkeley.edu/~jrs/meshbook.html)
 * [2025-07-14, 22:28:08](https://news.ycombinator.com/item?id=44566034) - [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
 * [2025-07-14, 22:04:33](https://news.ycombinator.com/item?id=44565836) - [Tell HN: 1.1.1.1 Appears to Be Down](https://news.ycombinator.com/item?id=44565836)
