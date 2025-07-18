@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-18, 04:22:08](https://news.ycombinator.com/item?id=44601177) - [Apple is ruining the open web](https://victorwynne.com/apple-open-web/)
+* [2025-07-18, 05:37:17](https://news.ycombinator.com/item?id=44601548) - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
+* [2025-07-18, 05:30:59](https://news.ycombinator.com/item?id=44601524) - [Meta Poaches Two More Apple AI Executives](https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/)
 * [2025-07-18, 03:49:50](https://news.ycombinator.com/item?id=44601023) - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
 * [2025-07-18, 02:27:43](https://news.ycombinator.com/item?id=44600594) - [NIH is cheaper than the wrong dependency](https://lewiscampbell.tech/blog/250718.html)
 * [2025-07-18, 02:14:33](https://news.ycombinator.com/item?id=44600512) - [USB-C hubs and my slow descent into madness (2021)](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
@@ -28,7 +29,6 @@
 * [2025-07-14, 16:15:41](https://news.ycombinator.com/item?id=44561895) - [Extending That XOR Trick to Billions of Rows](https://nochlin.com/blog/extending-that-xor-trick)
 * [2025-07-14, 06:21:28](https://news.ycombinator.com/item?id=44556997) - [Archaeologists discover tomb of first king of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
 * [2025-07-14, 03:57:02](https://news.ycombinator.com/item?id=44556318) - [Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C](https://github.com/sammycage/plutofilter)
-* [2025-07-14, 02:36:19](https://news.ycombinator.com/item?id=44555924) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)](https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html)
 * [2025-07-13, 22:51:06](https://news.ycombinator.com/item?id=44554530) - [Stone blocks from the Lighthouse of Alexandria recovered from seafloor](https://archaeologymag.com/2025/07/lighthouse-of-alexandria-rises-again/)
 
 ## [Archives](archives/index.md)
