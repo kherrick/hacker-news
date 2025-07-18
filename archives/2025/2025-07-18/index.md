@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
 * [2025-07-18, 20:43:12](https://news.ycombinator.com/item?id=44609616) - [Exhausted man defeats AI model in world coding championship](https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/)
+* [2025-07-18, 20:32:47](https://news.ycombinator.com/item?id=44609508) - [Hush: Holistic Panoramic 3D Scene Understanding Using Spherical Harmonics](https://vision3d-lab.github.io/hush/)
 * [2025-07-18, 19:59:49](https://news.ycombinator.com/item?id=44609137) - [Multiplatform Matrix Multiplication Kernels](https://burn.dev/blog/sota-multiplatform-matmul/)
 * [2025-07-18, 19:59:04](https://news.ycombinator.com/item?id=44609130) - [AI CapEx Is Eating the Economy](https://paulkedrosky.com/honey-ai-capex-ate-the-economy/)
 * [2025-07-18, 19:44:48](https://news.ycombinator.com/item?id=44608998) - [Trying to send a sticker in Steam Chat burned through a month of mobile data](https://old.reddit.com/r/Steam/comments/1m000kp/trying_to_send_a_sticker_in_steam_chat_burned/)
@@ -16,6 +17,7 @@
 * [2025-07-18, 19:13:36](https://news.ycombinator.com/item?id=44608669) - [Lookism](https://en.wikipedia.org/wiki/Lookism)
 * [2025-07-18, 19:09:07](https://news.ycombinator.com/item?id=44608622) - [Replication of Quantum Factorisation Records with a Vic-20, an Abacus, and a Dog](https://eprint.iacr.org/2025/1237)
 * [2025-07-18, 18:56:36](https://news.ycombinator.com/item?id=44608468) - [Everything You Need to Know About Grok 4](https://forgecode.dev/blog/grok-4-initial-impression/)
+* [2025-07-18, 18:40:30](https://news.ycombinator.com/item?id=44608312) - [Show HN: Molab, a cloud-hosted Marimo notebook workspace](https://molab.marimo.io/notebooks)
 * [2025-07-18, 18:39:06](https://news.ycombinator.com/item?id=44608295) - [Cancer DNA is detectable in blood years before diagnosis](https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening)
 * [2025-07-18, 18:39:02](https://news.ycombinator.com/item?id=44608294) - [Mango Health (YC W24) Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
 * [2025-07-18, 18:36:39](https://news.ycombinator.com/item?id=44608275) - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
