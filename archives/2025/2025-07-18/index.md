@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 23:45:12](https://news.ycombinator.com/item?id=44611098) - [Shutting Down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
 * [2025-07-18, 23:22:49](https://news.ycombinator.com/item?id=44610925) - [Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files](https://github.com/ryoppippi/ccusage)
 * [2025-07-18, 23:00:56](https://news.ycombinator.com/item?id=44610732) - [EPA says it will eliminate its scientific reseach arm](https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html)
 * [2025-07-18, 22:30:22](https://news.ycombinator.com/item?id=44610491) - [Marathon fusion claims to invent alchemy, making 5000 kgs gold per gigawatt](https://www.marathonfusion.com/)

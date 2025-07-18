@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-18, 23:45:12](https://news.ycombinator.com/item?id=44611098) - [Shutting Down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
 * [2025-07-18, 23:22:49](https://news.ycombinator.com/item?id=44610925) - [Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files](https://github.com/ryoppippi/ccusage)
 * [2025-07-18, 23:00:56](https://news.ycombinator.com/item?id=44610732) - [EPA says it will eliminate its scientific reseach arm](https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html)
 * [2025-07-18, 22:27:17](https://news.ycombinator.com/item?id=44610468) - [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/)
@@ -22,7 +23,6 @@
 * [2025-07-18, 15:19:17](https://news.ycombinator.com/item?id=44605670) - [A New Geometry for Einstein's Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://rockorager.dev/log/lsr-ls-but-with-io-uring/)
 * [2025-07-18, 10:22:15](https://news.ycombinator.com/item?id=44603066) - [CP/M creator Gary Kildall's memoirs released as free download](https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download)
-* [2025-07-15, 22:04:04](https://news.ycombinator.com/item?id=44576314) - [I call them \"Loop Bots\"](https://www.imaurer.com/blog/posts/2025-07-15-i-call-them-loop-bots/)
 * [2025-07-15, 16:21:59](https://news.ycombinator.com/item?id=44572807) - [Sage: An atomic bomb kicked off the biggest computing project in history](https://www.ibm.com/history/sage)
 * [2025-07-15, 15:18:48](https://news.ycombinator.com/item?id=44572068) - [Show HN: Simulating autonomous drone formations](https://github.com/sushrut141/ketu)
 * [2025-07-15, 11:36:08](https://news.ycombinator.com/item?id=44570089) - [How to Get Foreign Keys Horribly Wrong](https://hakibenita.com/django-foreign-keys)
