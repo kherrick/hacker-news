@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
+* [2025-07-18, 15:49:55](https://news.ycombinator.com/item?id=44606117) - [The Number Go Up Rule: Why America Can't Fix Anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)
 * [2025-07-18, 15:34:36](https://news.ycombinator.com/item?id=44605873) - [In the long run, GPL code becomes irrelevant (2015)](https://josephg.com/blog/in-the-long-run-gpl-code-becomes-irrelevant/)
+* [2025-07-18, 15:23:53](https://news.ycombinator.com/item?id=44605732) - [Ask HN: GCP Outage?](https://news.ycombinator.com/item?id=44605732)
 * [2025-07-18, 15:15:58](https://news.ycombinator.com/item?id=44605618) - [ICE Is Getting Unprecedented Access to Medicaid Data](https://www.wired.com/story/ice-access-medicaid-data/)
 * [2025-07-18, 15:15:39](https://news.ycombinator.com/item?id=44605610) - [The Number go up rule: Why America refuses to fix anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)
 * [2025-07-18, 14:53:00](https://news.ycombinator.com/item?id=44605312) - [Ask HN: Where do you guys find audiobooks?](https://news.ycombinator.com/item?id=44605312)
