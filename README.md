@@ -2,7 +2,6 @@
 
 * [2025-07-18, 05:38:55](https://news.ycombinator.com/item?id=44601562) - [Why is AI so slow to spread?](https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain)
 * [2025-07-18, 05:37:17](https://news.ycombinator.com/item?id=44601548) - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
-* [2025-07-18, 05:30:59](https://news.ycombinator.com/item?id=44601524) - [Meta Poaches Two More Apple AI Executives](https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/)
 * [2025-07-18, 03:53:31](https://news.ycombinator.com/item?id=44601045) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
 * [2025-07-18, 03:49:50](https://news.ycombinator.com/item?id=44601023) - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
 * [2025-07-18, 02:27:43](https://news.ycombinator.com/item?id=44600594) - [NIH is cheaper than the wrong dependency](https://lewiscampbell.tech/blog/250718.html)
@@ -11,6 +10,7 @@
 * [2025-07-18, 00:01:54](https://news.ycombinator.com/item?id=44599711) - [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune)
 * [2025-07-17, 23:38:48](https://news.ycombinator.com/item?id=44599549) - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
 * [2025-07-17, 23:10:38](https://news.ycombinator.com/item?id=44599334) - [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds)
+* [2025-07-17, 23:10:03](https://news.ycombinator.com/item?id=44599325) - [23andMe is out of bankruptcy. You should still delete your DNA](https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/)
 * [2025-07-17, 21:09:51](https://news.ycombinator.com/item?id=44598254) - [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 * [2025-07-17, 18:27:24](https://news.ycombinator.com/item?id=44596472) - [My experience with Claude Code after two weeks of adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
 * [2025-07-17, 18:09:59](https://news.ycombinator.com/item?id=44596275) - [Apple Intelligence Foundation Language Models Tech Report 2025](https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025)
