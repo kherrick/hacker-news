@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44617078"
     ],
     [
-      "Local LLMs versus Offline Wikipedia",
+      "Local LLMs versus offline Wikipedia",
       "https://evanhahn.com/local-llms-versus-offline-wikipedia/"
     ]
   ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-07-16, 19:16:23",
+      "https://news.ycombinator.com/item?id=44585838"
+    ],
+    [
+      "Enhancing COBOL Code Explanations: A Multi-Agents Approach Using LLMs",
+      "https://arxiv.org/abs/2507.02182"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 16:52:11",
       "https://news.ycombinator.com/item?id=44584414"
     ],
@@ -287,16 +297,6 @@
     [
       "Piano Keys",
       "https://www.mathpages.com/home/kmath043.htm"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 18:02:37",
-      "https://news.ycombinator.com/item?id=44574065"
-    ],
-    [
-      "A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life",
-      "https://spectrum.ieee.org/carfax-used-pcs"
     ]
   ]
 ]
