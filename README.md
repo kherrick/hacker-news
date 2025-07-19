@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-19, 09:11:19](https://news.ycombinator.com/item?id=44613840) - [OpenAI claims Gold-medal performance at IMO 2025](https://twitter.com/alexwei_/status/1946477742855532918)
 * [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
-* [2025-07-19, 06:36:38](https://news.ycombinator.com/item?id=44613114) - [US revokes visas of Brazilian judges after crack down on ex-president Bolsonaro](https://nypost.com/2025/07/18/world-news/us-revokes-visas-of-brazilian-justices-after-its-top-court-cracks-down-on-ex-president-bolsonaro/)
 * [2025-07-19, 04:22:45](https://news.ycombinator.com/item?id=44612569) - [Microsoft Office is using an artificially complex XML schema as a lock-in tool](https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/)
 * [2025-07-19, 02:56:02](https://news.ycombinator.com/item?id=44612151) - [My Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
 * [2025-07-19, 02:25:50](https://news.ycombinator.com/item?id=44612023) - [Advertising Without Signal: The Rise of the Grifter Equilibrium](https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/)

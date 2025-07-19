@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
+* [2025-07-19, 09:11:19](https://news.ycombinator.com/item?id=44613840) - [OpenAI claims Gold-medal performance at IMO 2025](https://twitter.com/alexwei_/status/1946477742855532918)
 * [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [2025-07-19, 08:02:41](https://news.ycombinator.com/item?id=44613511) - [Free BDSM Test – Discover Your True Role](https://bdsmtest.pro/)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
