@@ -38,6 +38,7 @@
 * [2025-07-17, 15:59:54](https://news.ycombinator.com/item?id=44594790) - [Tell HN: Notion Desktop is monitoring your audio and network](https://news.ycombinator.com/item?id=44594790)
 * [2025-07-17, 15:33:22](https://news.ycombinator.com/item?id=44594475) - [How I Use Kagi](https://flamedfury.com/posts/how-i-use-kagi/)
 * [2025-07-17, 15:25:57](https://news.ycombinator.com/item?id=44594389) - [You're not a founder, you're a gig worker](https://news.ycombinator.com/item?id=44594389)
+* [2025-07-17, 15:01:03](https://news.ycombinator.com/item?id=44594165) - [Zig's New Writer](https://www.openmymind.net/Zigs-New-Writer/)
 * [2025-07-17, 15:00:18](https://news.ycombinator.com/item?id=44594156) - [Mistral Releases Deep Research, Voice, Projects in Le Chat](https://mistral.ai/news/le-chat-dives-deep)
 * [2025-07-17, 14:59:11](https://news.ycombinator.com/item?id=44594140) - [FDA Authorizes Juul E-Cigarettes](https://www.wsj.com/business/fda-authorizes-juul-e-cigarettes-6ad37963)
 * [2025-07-17, 14:53:42](https://news.ycombinator.com/item?id=44594080) - [Chrome's SSL Bypass Cheatcode](https://thomascountz.com/2025/07/17/chromes-ssl-bypass-cheatcode)
