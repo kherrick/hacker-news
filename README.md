@@ -19,7 +19,7 @@
 * [2025-07-18, 19:28:34](https://news.ycombinator.com/item?id=44608840) - [Show HN: I built library management app for those who outgrew spreadsheets](https://www.librari.io/)
 * [2025-07-18, 19:21:38](https://news.ycombinator.com/item?id=44608754) - [Asynchrony is not concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 * [2025-07-18, 18:40:30](https://news.ycombinator.com/item?id=44608312) - [Show HN: Molab, a cloud-hosted Marimo notebook workspace](https://molab.marimo.io/notebooks)
-* [2025-07-18, 18:39:02](https://news.ycombinator.com/item?id=44608294) - [Mango Health (YC W24) Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
+* [2025-07-18, 18:39:06](https://news.ycombinator.com/item?id=44608295) - [Cancer DNA is detectable in blood years before diagnosis](https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it won’t sign Europe AI agreement, calling it an overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 15:54:46](https://news.ycombinator.com/item?id=44606184) - [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
 * [2025-07-18, 15:19:17](https://news.ycombinator.com/item?id=44605670) - [A New Geometry for Einstein's Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/)
@@ -27,7 +27,7 @@
 * [2025-07-15, 17:33:41](https://news.ycombinator.com/item?id=44573731) - [Show HN: Mochi Invaders – Like Space Invaders but for Practicing Japanese Kana](https://xenodium.com/mochi-invaders-now-on-the-app-store)
 * [2025-07-15, 16:57:06](https://news.ycombinator.com/item?id=44573287) - [The Halo Effect](https://kwokchain.com/2025/07/15/the-halo-effect/)
 * [2025-07-15, 12:22:33](https://news.ycombinator.com/item?id=44570389) - [Show HN: OrioleDB Beta12 Features and Benchmarks](https://www.orioledb.com/blog/orioledb-beta12-benchmarks)
-* [2025-07-15, 11:39:18](https://news.ycombinator.com/item?id=44570113) - [C++: zero-cost static initialization](https://cofault.com/zero-cost-static.html)
+* [2025-07-15, 11:39:18](https://news.ycombinator.com/item?id=44570113) - [C++: Zero-cost static initialization](https://cofault.com/zero-cost-static.html)
 * [2025-07-15, 10:19:38](https://news.ycombinator.com/item?id=44569684) - [Cats as Horror Movie Villains](https://gwern.net/cat-horror)
 * [2025-07-15, 08:11:19](https://news.ycombinator.com/item?id=44569032) - [Trying Guix: A Nixer's impressions](https://tazj.in/blog/trying-guix)
 
