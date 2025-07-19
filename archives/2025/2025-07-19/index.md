@@ -6,6 +6,7 @@
 
 * [2025-07-19, 20:50:40](https://news.ycombinator.com/item?id=44619258) - [The Future of Ultra-Fast Passenger Travel](https://spaceambition.substack.com/p/beyond-the-sound-barrier)
 * [2025-07-19, 20:15:26](https://news.ycombinator.com/item?id=44618959) - [Trigon: Exploiting coprocessors for fun and for profit (part 2)](https://alfiecg.uk/2025/07/16/Trigon.html)
+* [2025-07-19, 19:52:54](https://news.ycombinator.com/item?id=44618765) - [AMD's new 96-core Threadripper CPU will set you back $11,699](https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability)
 * [2025-07-19, 19:52:30](https://news.ycombinator.com/item?id=44618762) - [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583)
 * [2025-07-19, 19:43:23](https://news.ycombinator.com/item?id=44618687) - [Make Your Own Backup System – Part 1: Strategy Before Scripts](https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/)
 * [2025-07-19, 19:42:23](https://news.ycombinator.com/item?id=44618679) - [2025 Infrastructure Report Card](https://infrastructurereportcard.org/)

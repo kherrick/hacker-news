@@ -2,6 +2,7 @@
 
 * [2025-07-19, 20:50:40](https://news.ycombinator.com/item?id=44619258) - [The Future of Ultra-Fast Passenger Travel](https://spaceambition.substack.com/p/beyond-the-sound-barrier)
 * [2025-07-19, 20:15:26](https://news.ycombinator.com/item?id=44618959) - [Trigon: Exploiting coprocessors for fun and for profit (part 2)](https://alfiecg.uk/2025/07/16/Trigon.html)
+* [2025-07-19, 19:52:54](https://news.ycombinator.com/item?id=44618765) - [AMD's new 96-core Threadripper CPU will set you back $11,699](https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability)
 * [2025-07-19, 19:52:30](https://news.ycombinator.com/item?id=44618762) - [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583)
 * [2025-07-19, 19:43:23](https://news.ycombinator.com/item?id=44618687) - [Make Your Own Backup System – Part 1: Strategy Before Scripts](https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/)
 * [2025-07-19, 19:42:23](https://news.ycombinator.com/item?id=44618679) - [2025 Infrastructure Report Card](https://infrastructurereportcard.org/)
@@ -21,7 +22,6 @@
 * [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [A 14kb page can load much faster than a 15kb page (2022)](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
 * [2025-07-19, 04:02:57](https://news.ycombinator.com/item?id=44612487) - [Hyatt Hotels are using algorithmic Rest “smoking detectors”](https://twitter.com/_ZachGriff/status/1945959030851035223)
-* [2025-07-19, 02:56:02](https://news.ycombinator.com/item?id=44612151) - [My Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
 * [2025-07-18, 03:53:31](https://news.ycombinator.com/item?id=44601045) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
 * [2025-07-17, 20:02:41](https://news.ycombinator.com/item?id=44597550) - [How we tracked down a Go 1.24 memory regression](https://www.datadoghq.com/blog/engineering/go-memory-regression/)
 * [2025-07-17, 14:08:17](https://news.ycombinator.com/item?id=44593628) - [N78 band 5G NR recordings](https://destevez.net/2025/07/n78-band-5g-nr-recordings/)
