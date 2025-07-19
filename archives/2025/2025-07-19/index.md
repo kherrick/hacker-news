@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
 * [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
+* [2025-07-19, 08:02:41](https://news.ycombinator.com/item?id=44613511) - [Free BDSM Test – Discover Your True Role](https://bdsmtest.pro/)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
 * [2025-07-19, 05:06:49](https://news.ycombinator.com/item?id=44612736) - [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/07/16/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2025-07-19, 04:22:45](https://news.ycombinator.com/item?id=44612569) - [Microsoft Office is using an artificially complex XML schema as a lock-in tool](https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/)
