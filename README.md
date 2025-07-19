@@ -8,6 +8,7 @@
 * [2025-07-19, 19:34:19](https://news.ycombinator.com/item?id=44618595) - ['Universal cancer vaccine' trains the immune system to kill any tumor](https://newatlas.com/cancer/universal-cancer-vaccine/)
 * [2025-07-19, 19:32:58](https://news.ycombinator.com/item?id=44618576) - [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
 * [2025-07-19, 18:14:19](https://news.ycombinator.com/item?id=44617910) - [MCP Security Vulnerabilities and Attack Vectors](https://forgecode.dev/blog/prevent-attacks-on-mcp/)
+* [2025-07-19, 17:24:32](https://news.ycombinator.com/item?id=44617408) - [Postgres to ClickHouse: Data Modeling Tips](https://clickhouse.com/blog/postgres-to-clickhouse-data-modeling-tips-v2)
 * [2025-07-19, 16:58:42](https://news.ycombinator.com/item?id=44617184) - [Rethinking CLI interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
 * [2025-07-19, 16:49:02](https://news.ycombinator.com/item?id=44617078) - [Local LLMs versus Offline Wikipedia](https://evanhahn.com/local-llms-versus-offline-wikipedia/)
 * [2025-07-19, 16:15:17](https://news.ycombinator.com/item?id=44616760) - [The Curious Case of the Unix workstation layout](https://thejpster.org.uk/blog/blog-2025-07-19/)
@@ -27,7 +28,6 @@
 * [2025-07-16, 21:43:35](https://news.ycombinator.com/item?id=44587116) - [Babies made using three people's DNA are born free of mitochondrial disease](https://www.bbc.com/news/articles/cn8179z199vo)
 * [2025-07-16, 16:52:11](https://news.ycombinator.com/item?id=44584414) - [Zig Interface Revisited](https://williamw520.github.io/2025/07/13/zig-interface-revisited.html)
 * [2025-07-16, 15:57:49](https://news.ycombinator.com/item?id=44583729) - [Show HN: Display Photos on a World Map](https://worldsnap.surge.sh/)
-* [2025-07-15, 22:16:23](https://news.ycombinator.com/item?id=44576423) - [What the Internet Was Like in 1998](https://cybercultural.com/p/internet-1998/)
 * [2025-07-15, 21:50:17](https://news.ycombinator.com/item?id=44576183) - [Piano Keys](https://www.mathpages.com/home/kmath043.htm)
 * [2025-07-15, 18:02:37](https://news.ycombinator.com/item?id=44574065) - [A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carfax-used-pcs)
 
