@@ -38,6 +38,7 @@
 * [2025-07-15, 17:00:23](https://news.ycombinator.com/item?id=44573326) - [Nearly 3 out of 4 Oracle Java users say they've been audited in the past 3 years](https://www.theregister.com/2025/07/15/oracle_java_users_audited/)
 * [2025-07-15, 17:00:04](https://news.ycombinator.com/item?id=44573320) - [CoinTracker (YC W18) is hiring to solve crypto taxes and accounting (remote)](https://news.ycombinator.com/item?id=44573320)
 * [2025-07-15, 16:59:54](https://news.ycombinator.com/item?id=44573317) - [Why the Real Computer Revolution Never Happened – Alan Kay and Anjan Katta [video]](https://www.youtube.com/watch?v=MbEZ-DC0L-g)
+* [2025-07-15, 16:57:06](https://news.ycombinator.com/item?id=44573287) - [The Halo Effect](https://kwokchain.com/2025/07/15/the-halo-effect/)
 * [2025-07-15, 16:49:06](https://news.ycombinator.com/item?id=44573195) - [Reflections on OpenAI](https://calv.info/openai-reflections)
 * [2025-07-15, 16:48:53](https://news.ycombinator.com/item?id=44573193) - [What's going on with gene therapies? (Part one)](https://nehalslearnings.substack.com/p/whats-going-on-with-gene-therapies)
 * [2025-07-15, 16:33:24](https://news.ycombinator.com/item?id=44572954) - [The 1960s schools experiment that created a whole new alphabet](https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell)

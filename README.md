@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-19, 02:56:02](https://news.ycombinator.com/item?id=44612151) - [My Ultimate Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
+* [2025-07-19, 01:25:00](https://news.ycombinator.com/item?id=44611692) - [We do not break userspace (2012)](https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/)
+* [2025-07-19, 00:43:08](https://news.ycombinator.com/item?id=44611467) - [Bun adds pnpm-style isolated installation mode](https://github.com/oven-sh/bun/pull/20440)
 * [2025-07-19, 00:20:48](https://news.ycombinator.com/item?id=44611320) - [Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs](https://www.macintoshrepository.org/44146-mr-browser)
-* [2025-07-19, 00:12:13](https://news.ycombinator.com/item?id=44611270) - [Intel Announces It's Shutting Down Clear Linux](https://www.phoronix.com/news/Intel-Ends-Clear-Linux)
 * [2025-07-19, 00:04:31](https://news.ycombinator.com/item?id=44611223) - [Debcraft – Easiest way to modify and build Debian packages](https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/)
-* [2025-07-18, 23:45:12](https://news.ycombinator.com/item?id=44611098) - [Shutting Down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
 * [2025-07-18, 23:22:49](https://news.ycombinator.com/item?id=44610925) - [Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files](https://github.com/ryoppippi/ccusage)
 * [2025-07-18, 22:45:32](https://news.ycombinator.com/item?id=44610623) - [I'm Rebelling Against the Algorithm](https://varunraghu.com/im-rebelling-against-the-algorithm/)
 * [2025-07-18, 22:27:17](https://news.ycombinator.com/item?id=44610468) - [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/)
@@ -24,12 +25,11 @@
 * [2025-07-18, 15:54:46](https://news.ycombinator.com/item?id=44606184) - [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
 * [2025-07-18, 15:19:17](https://news.ycombinator.com/item?id=44605670) - [A New Geometry for Einstein's Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://rockorager.dev/log/lsr-ls-but-with-io-uring/)
-* [2025-07-18, 10:22:15](https://news.ycombinator.com/item?id=44603066) - [CP/M creator Gary Kildall's memoirs released as free download](https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download)
 * [2025-07-17, 13:52:14](https://news.ycombinator.com/item?id=44593441) - [Converting Integers to Floats Using Hyperfocus (2022)](https://blog.m-ou.se/floats/)
-* [2025-07-15, 16:21:59](https://news.ycombinator.com/item?id=44572807) - [Sage: An atomic bomb kicked off the biggest computing project in history](https://www.ibm.com/history/sage)
-* [2025-07-15, 15:18:48](https://news.ycombinator.com/item?id=44572068) - [Show HN: Simulating autonomous drone formations](https://github.com/sushrut141/ketu)
+* [2025-07-15, 16:57:06](https://news.ycombinator.com/item?id=44573287) - [The Halo Effect](https://kwokchain.com/2025/07/15/the-halo-effect/)
 * [2025-07-15, 11:39:18](https://news.ycombinator.com/item?id=44570113) - [C++: zero-cost static initialization](https://cofault.com/zero-cost-static.html)
 * [2025-07-15, 08:11:19](https://news.ycombinator.com/item?id=44569032) - [Trying Guix: A Nixer's impressions](https://tazj.in/blog/trying-guix)
+* [2025-07-14, 15:45:28](https://news.ycombinator.com/item?id=44561516) - [Hundred Rabbits – Low-tech living while sailing the world](https://100r.co/site/home.html)
 
 ## [Archives](archives/index.md)
 
