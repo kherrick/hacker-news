@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
+* [2025-07-19, 19:27:50](https://news.ycombinator.com/item?id=44618535) - [The borrowchecker is what I like the least about Rust](https://viralinstruction.com/posts/borrowchecker/)
 * [2025-07-19, 18:22:27](https://news.ycombinator.com/item?id=44617993) - [Snack Prompt – Discover the Best ChatGPT Prompts](https://snackprompt.com)
+* [2025-07-19, 18:14:19](https://news.ycombinator.com/item?id=44617910) - [MCP Security Vulnerabilities and Attack Vectors](https://forgecode.dev/blog/prevent-attacks-on-mcp/)
 * [2025-07-19, 18:05:58](https://news.ycombinator.com/item?id=44617824) - [Clawback of $1.1B for PBS and NPR puts rural stations at risk](https://theconversation.com/clawback-of-1-1b-for-pbs-and-npr-puts-rural-stations-at-risk-and-threatens-a-vital-source-of-journalism-255826)
 * [2025-07-19, 17:37:20](https://news.ycombinator.com/item?id=44617533) - [Fascism for First Time Founders](https://www.techdirt.com/2025/07/17/fascism-for-first-time-founders/)
 * [2025-07-19, 17:12:45](https://news.ycombinator.com/item?id=44617309) - [Giving Up on Element and Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)

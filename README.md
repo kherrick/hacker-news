@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-19, 19:27:50](https://news.ycombinator.com/item?id=44618535) - [The borrowchecker is what I like the least about Rust](https://viralinstruction.com/posts/borrowchecker/)
+* [2025-07-19, 18:14:19](https://news.ycombinator.com/item?id=44617910) - [MCP Security Vulnerabilities and Attack Vectors](https://forgecode.dev/blog/prevent-attacks-on-mcp/)
 * [2025-07-19, 16:58:42](https://news.ycombinator.com/item?id=44617184) - [Rethinking CLI interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
 * [2025-07-19, 16:15:17](https://news.ycombinator.com/item?id=44616760) - [The Curious Case of the Unix workstation layout](https://thejpster.org.uk/blog/blog-2025-07-19/)
 * [2025-07-19, 16:07:41](https://news.ycombinator.com/item?id=44616688) - [Show HN: Am-I-vibing, detect agentic coding environments](https://github.com/ascorbic/am-i-vibing)
@@ -14,9 +16,7 @@
 * [2025-07-19, 02:25:50](https://news.ycombinator.com/item?id=44612023) - [Advertising without signal: The rise of the grifter equilibrium](https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/)
 * [2025-07-19, 00:43:08](https://news.ycombinator.com/item?id=44611467) - [Bun adds pnpm-style isolated installation mode](https://github.com/oven-sh/bun/pull/20440)
 * [2025-07-19, 00:20:48](https://news.ycombinator.com/item?id=44611320) - [Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs](https://www.macintoshrepository.org/44146-mr-browser)
-* [2025-07-19, 00:04:31](https://news.ycombinator.com/item?id=44611223) - [Debcraft – Easiest way to modify and build Debian packages](https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/)
 * [2025-07-18, 22:27:17](https://news.ycombinator.com/item?id=44610468) - [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/)
-* [2025-07-18, 21:21:50](https://news.ycombinator.com/item?id=44609969) - [Silence Is a Commons by Ivan Illich (1983)](http://www.davidtinapple.com/illich/1983_silence_commons.html)
 * [2025-07-18, 19:29:52](https://news.ycombinator.com/item?id=44608856) - [Broadcom to discontinue free Bitnami Helm charts](https://github.com/bitnami/charts/issues/35164)
 * [2025-07-18, 19:21:38](https://news.ycombinator.com/item?id=44608754) - [Asynchrony is not concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it won't sign Europe AI agreement](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
