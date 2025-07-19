@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-19, 18:22:27",
+      "https://news.ycombinator.com/item?id=44617993"
+    ],
+    [
+      "Snack Prompt – Discover the Best ChatGPT Prompts",
+      "https://snackprompt.com"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 17:12:45",
       "https://news.ycombinator.com/item?id=44617309"
     ],
@@ -37,26 +47,6 @@
     [
       "Show HN: Am-I-vibing, detect agentic coding environments",
       "https://github.com/ascorbic/am-i-vibing"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 15:45:39",
-      "https://news.ycombinator.com/item?id=44616486"
-    ],
-    [
-      "What is the richest country in 2025?",
-      "https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 15:45:01",
-      "https://news.ycombinator.com/item?id=44616479"
-    ],
-    [
-      "Nobody knows how to build with AI yet",
-      "https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Linux and Secure Boot certificate expiration",
       "https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 20:02:41",
+      "https://news.ycombinator.com/item?id=44597550"
+    ],
+    [
+      "How we tracked down a Go 1.24 memory regression",
+      "https://www.datadoghq.com/blog/engineering/go-memory-regression/"
     ]
   ],
   [
