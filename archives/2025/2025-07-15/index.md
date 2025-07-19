@@ -32,6 +32,7 @@
 * [2025-07-15, 17:40:18](https://news.ycombinator.com/item?id=44573799) - [Open-source framework for real-time AI voice](https://github.com/videosdk-live/agents)
 * [2025-07-15, 17:35:42](https://news.ycombinator.com/item?id=44573752) - [KDE's official Android TV alternative is back from the dead](https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/)
 * [2025-07-15, 17:35:35](https://news.ycombinator.com/item?id=44573750) - [How I Lost My Backpack with Passports and Laptop](https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports)
+* [2025-07-15, 17:33:41](https://news.ycombinator.com/item?id=44573731) - [Show HN: Mochi Invaders – Like Space Invaders but for Practicing Japanese Kana](https://xenodium.com/mochi-invaders-now-on-the-app-store)
 * [2025-07-15, 17:19:57](https://news.ycombinator.com/item?id=44573574) - [Mira Murati's AI startup Thinking Machines raises $2B in A16Z-led round](https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/)
 * [2025-07-15, 17:16:51](https://news.ycombinator.com/item?id=44573524) - [Modular Interpreters and Visitors in Rust with Extensible Variants and CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-2/)
 * [2025-07-15, 17:05:39](https://news.ycombinator.com/item?id=44573409) - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/)
