@@ -70,6 +70,7 @@
 * [2025-07-15, 11:29:02](https://news.ycombinator.com/item?id=44570048) - [Show HN: We made our own inference engine for Apple Silicon](https://github.com/trymirai/uzu)
 * [2025-07-15, 11:03:53](https://news.ycombinator.com/item?id=44569894) - [When Is Tech Not Hype? Tulips, Toilets, Trains – and Tabs](https://ajmoon.com/posts/when-is-tech-not-hype-tulips-toilets-trains-and-tabs)
 * [2025-07-15, 10:48:34](https://news.ycombinator.com/item?id=44569819) - [Making a StringBuffer in C, and questioning my sanity](https://briandouglas.ie/string-buffer-c/)
+* [2025-07-15, 10:19:38](https://news.ycombinator.com/item?id=44569684) - [Cats as Horror Movie Villains](https://gwern.net/cat-horror)
 * [2025-07-15, 10:03:30](https://news.ycombinator.com/item?id=44569619) - [Code highlighting with Cursor AI used for $500k theft](https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/)
 * [2025-07-15, 09:47:20](https://news.ycombinator.com/item?id=44569540) - [Game of Trees Hub](https://gothub.org/)
 * [2025-07-15, 09:16:21](https://news.ycombinator.com/item?id=44569367) - [RisingWave: An Open‑Source Stream‑Processing and Management Platform](https://github.com/risingwavelabs/risingwave)
