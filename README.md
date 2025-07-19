@@ -10,7 +10,7 @@
 * [2025-07-19, 18:14:19](https://news.ycombinator.com/item?id=44617910) - [MCP Security Vulnerabilities and Attack Vectors](https://forgecode.dev/blog/prevent-attacks-on-mcp/)
 * [2025-07-19, 17:24:32](https://news.ycombinator.com/item?id=44617408) - [Postgres to ClickHouse: Data Modeling Tips](https://clickhouse.com/blog/postgres-to-clickhouse-data-modeling-tips-v2)
 * [2025-07-19, 16:58:42](https://news.ycombinator.com/item?id=44617184) - [Rethinking CLI interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
-* [2025-07-19, 16:49:02](https://news.ycombinator.com/item?id=44617078) - [Local LLMs versus Offline Wikipedia](https://evanhahn.com/local-llms-versus-offline-wikipedia/)
+* [2025-07-19, 16:49:02](https://news.ycombinator.com/item?id=44617078) - [Local LLMs versus offline Wikipedia](https://evanhahn.com/local-llms-versus-offline-wikipedia/)
 * [2025-07-19, 16:15:17](https://news.ycombinator.com/item?id=44616760) - [The Curious Case of the Unix workstation layout](https://thejpster.org.uk/blog/blog-2025-07-19/)
 * [2025-07-19, 16:07:41](https://news.ycombinator.com/item?id=44616688) - [Show HN: Am-I-vibing, detect agentic coding environments](https://github.com/ascorbic/am-i-vibing)
 * [2025-07-19, 14:35:11](https://news.ycombinator.com/item?id=44615801) - [Death by AI](https://davebarry.substack.com/p/death-by-ai)
@@ -26,10 +26,10 @@
 * [2025-07-17, 20:02:41](https://news.ycombinator.com/item?id=44597550) - [How we tracked down a Go 1.24 memory regression](https://www.datadoghq.com/blog/engineering/go-memory-regression/)
 * [2025-07-17, 14:08:17](https://news.ycombinator.com/item?id=44593628) - [N78 band 5G NR recordings](https://destevez.net/2025/07/n78-band-5g-nr-recordings/)
 * [2025-07-16, 21:43:35](https://news.ycombinator.com/item?id=44587116) - [Babies made using three people's DNA are born free of mitochondrial disease](https://www.bbc.com/news/articles/cn8179z199vo)
+* [2025-07-16, 19:16:23](https://news.ycombinator.com/item?id=44585838) - [Enhancing COBOL Code Explanations: A Multi-Agents Approach Using LLMs](https://arxiv.org/abs/2507.02182)
 * [2025-07-16, 16:52:11](https://news.ycombinator.com/item?id=44584414) - [Zig Interface Revisited](https://williamw520.github.io/2025/07/13/zig-interface-revisited.html)
 * [2025-07-16, 15:57:49](https://news.ycombinator.com/item?id=44583729) - [Show HN: Display Photos on a World Map](https://worldsnap.surge.sh/)
 * [2025-07-15, 21:50:17](https://news.ycombinator.com/item?id=44576183) - [Piano Keys](https://www.mathpages.com/home/kmath043.htm)
-* [2025-07-15, 18:02:37](https://news.ycombinator.com/item?id=44574065) - [A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carfax-used-pcs)
 
 ## [Archives](archives/index.md)
 
