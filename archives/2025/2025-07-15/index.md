@@ -11,6 +11,7 @@
 * [2025-07-15, 22:07:47](https://news.ycombinator.com/item?id=44576352) - [My Family and the Flood: A Firsthand Account](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
 * [2025-07-15, 22:04:04](https://news.ycombinator.com/item?id=44576314) - [I call them \"Loop Bots\"](https://www.imaurer.com/blog/posts/2025-07-15-i-call-them-loop-bots/)
 * [2025-07-15, 22:03:50](https://news.ycombinator.com/item?id=44576312) - [AI ate code, now it wants cashflows. Is this finance's Copilot moment?\"](https://www.anthropic.com/news/claude-for-financial-services)
+* [2025-07-15, 21:50:17](https://news.ycombinator.com/item?id=44576183) - [Piano Keys](https://www.mathpages.com/home/kmath043.htm)
 * [2025-07-15, 21:29:16](https://news.ycombinator.com/item?id=44575998) - [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
 * [2025-07-15, 21:03:50](https://news.ycombinator.com/item?id=44575794) - [Where's Firefox Going Next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
 * [2025-07-15, 20:56:35](https://news.ycombinator.com/item?id=44575729) - [Fighting Brandolini's Law with Sampling](https://brady.fyi/fact-checking/)
