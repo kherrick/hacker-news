@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
+* [2025-07-19, 18:22:27](https://news.ycombinator.com/item?id=44617993) - [Snack Prompt – Discover the Best ChatGPT Prompts](https://snackprompt.com)
 * [2025-07-19, 17:37:20](https://news.ycombinator.com/item?id=44617533) - [Fascism for First Time Founders](https://www.techdirt.com/2025/07/17/fascism-for-first-time-founders/)
 * [2025-07-19, 17:12:45](https://news.ycombinator.com/item?id=44617309) - [Giving Up on Element and Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)
 * [2025-07-19, 16:58:42](https://news.ycombinator.com/item?id=44617184) - [Rethinking CLI Interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
