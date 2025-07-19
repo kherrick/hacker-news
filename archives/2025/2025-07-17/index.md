@@ -57,6 +57,7 @@
 * [2025-07-17, 11:00:55](https://news.ycombinator.com/item?id=44591884) - [The limits of our personal experience and the value of statistics](https://ourworldindata.org/limits-personal-experience)
 * [2025-07-17, 10:49:58](https://news.ycombinator.com/item?id=44591820) - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
 * [2025-07-17, 10:44:17](https://news.ycombinator.com/item?id=44591785) - [Voting age to be lowered to 16 in UK by next general election](https://www.theguardian.com/politics/2025/jul/17/voting-age-to-be-lowered-to-16-in-england-and-northern-ireland)
+* [2025-07-17, 10:43:05](https://news.ycombinator.com/item?id=44591775) - [Mushroom learns to crawl after being given robot body (2024)](https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html)
 * [2025-07-17, 10:42:02](https://news.ycombinator.com/item?id=44591768) - [The AI bubble today is bigger than the IT bubble in the 1990s](https://www.apolloacademy.com/ai-bubble-today-is-bigger-than-the-it-bubble-in-the-1990s/)
 * [2025-07-17, 10:40:04](https://news.ycombinator.com/item?id=44591752) - [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
 * [2025-07-17, 10:27:11](https://news.ycombinator.com/item?id=44591689) - [Voting age to be lowered to 16 by next general election](https://www.bbc.co.uk/news/articles/c628ep4j5kno)
