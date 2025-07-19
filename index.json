@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-19, 11:38:22",
+      "https://news.ycombinator.com/item?id=44614644"
+    ],
+    [
+      "GPT-5-reasoning alpha found in the wild",
+      "https://twitter.com/btibor91/status/1946532308896628748"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 10:52:35",
       "https://news.ycombinator.com/item?id=44614370"
     ],
     [
       "Fstrings.wtf",
       "https://fstrings.wtf/"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 10:51:59",
+      "https://news.ycombinator.com/item?id=44614365"
+    ],
+    [
+      "I avoid using LLMs as a publisher and writer",
+      "https://lifehacky.net/prompt-0b953c089b44"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 10:38:52",
+      "https://news.ycombinator.com/item?id=44614292"
+    ],
+    [
+      "Felix Baumgartner, Who Jumped from Stratosphere, Dies in Italy",
+      "https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2025-07-18, 15:19:17",
-      "https://news.ycombinator.com/item?id=44605670"
-    ],
-    [
-      "A New Geometry for Einstein's Theory of Relativity",
-      "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 15:01:03",
       "https://news.ycombinator.com/item?id=44594165"
     ],
@@ -241,22 +261,22 @@
   ],
   [
     [
+      "2025-07-15, 18:02:37",
+      "https://news.ycombinator.com/item?id=44574065"
+    ],
+    [
+      "A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life",
+      "https://spectrum.ieee.org/carfax-used-pcs"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 14:53:37",
       "https://news.ycombinator.com/item?id=44571765"
     ],
     [
       "C# Language Design Meeting for June 30th, 2025",
       "https://github.com/dotnet/csharplang/blob/main/meetings/2025/LDM-2025-06-30.md"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 12:39:57",
-      "https://news.ycombinator.com/item?id=44570525"
-    ],
-    [
-      "The Bitter Lessons Behind Kimi Researcher's Taste",
-      "https://medium.com/@xinyijin715/maker-story-the-bitter-lessons-behind-kimi-researchers-ui-6654ec66662c"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "C++: Zero-cost static initialization",
       "https://cofault.com/zero-cost-static.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 10:19:38",
-      "https://news.ycombinator.com/item?id=44569684"
-    ],
-    [
-      "Cats as Horror Movie Villains",
-      "https://gwern.net/cat-horror"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 08:11:19",
-      "https://news.ycombinator.com/item?id=44569032"
-    ],
-    [
-      "Trying Guix: A Nixer's impressions",
-      "https://tazj.in/blog/trying-guix"
     ]
   ]
 ]
