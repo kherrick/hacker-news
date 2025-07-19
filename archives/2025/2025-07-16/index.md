@@ -24,6 +24,7 @@
 * [2025-07-16, 16:14:20](https://news.ycombinator.com/item?id=44583982) - [Mkosi – Build Bespoke OS Images](https://mkosi.systemd.io/)
 * [2025-07-16, 15:50:06](https://news.ycombinator.com/item?id=44583619) - [The Italian towns selling houses for €1](https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1)
 * [2025-07-16, 15:45:14](https://news.ycombinator.com/item?id=44583565) - [Mill: A Better Build Tool for Java, Scala, & Kotlin](https://mill-build.org/mill/index.html)
+* [2025-07-16, 15:26:14](https://news.ycombinator.com/item?id=44583326) - [Astronomers use colors of trans-Neptunian objects to track ancient stellar flyby](https://phys.org/news/2025-07-astronomers-trans-neptunian-track-ancient.html)
 * [2025-07-16, 15:17:12](https://news.ycombinator.com/item?id=44583224) - ['Gentle Parenting' My Smartphone Addiction](https://www.newyorker.com/culture/infinite-scroll/gentle-parenting-my-smartphone-addiction)
 * [2025-07-16, 15:11:54](https://news.ycombinator.com/item?id=44583171) - [Altermagnets: The first new type of magnet in nearly a century](https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
 * [2025-07-16, 14:55:31](https://news.ycombinator.com/item?id=44583014) - [Show HN: I gave Claude a sundial and it built a calendar](https://github.com/jlumbroso/passage-of-time-mcp)
