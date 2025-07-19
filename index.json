@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-07-19, 01:25:00",
-      "https://news.ycombinator.com/item?id=44611692"
-    ],
-    [
-      "We do not break userspace (2012)",
-      "https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 00:43:08",
       "https://news.ycombinator.com/item?id=44611467"
     ],
@@ -67,16 +57,6 @@
     [
       "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
       "https://github.com/ryoppippi/ccusage"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 22:45:32",
-      "https://news.ycombinator.com/item?id=44610623"
-    ],
-    [
-      "I'm Rebelling Against the Algorithm",
-      "https://varunraghu.com/im-rebelling-against-the-algorithm/"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2025-07-18, 12:40:41",
+      "https://news.ycombinator.com/item?id=44604050"
+    ],
+    [
+      "lsr: ls with io_uring",
+      "https://rockorager.dev/log/lsr-ls-but-with-io-uring/"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 16:57:06",
       "https://news.ycombinator.com/item?id=44573287"
     ],
@@ -277,6 +267,16 @@
     [
       "C++: zero-cost static initialization",
       "https://cofault.com/zero-cost-static.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 10:19:38",
+      "https://news.ycombinator.com/item?id=44569684"
+    ],
+    [
+      "Cats as Horror Movie Villains",
+      "https://gwern.net/cat-horror"
     ]
   ],
   [
