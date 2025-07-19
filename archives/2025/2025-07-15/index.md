@@ -56,6 +56,7 @@
 * [2025-07-15, 15:09:20](https://news.ycombinator.com/item?id=44571954) - [Secret changes to major U.S. health datasets raise alarms](https://www.psypost.org/secret-changes-to-major-u-s-health-datasets-raise-alarms/)
 * [2025-07-15, 15:06:44](https://news.ycombinator.com/item?id=44571917) - [Blender 4.5 LTS Released](https://www.blender.org/download/releases/4-5/)
 * [2025-07-15, 15:05:59](https://news.ycombinator.com/item?id=44571908) - [CoCo1 Composite Video](https://www.leadedsolder.com/2025/07/15/tandy-trs80-coco-composite-mod-aquarius.html)
+* [2025-07-15, 14:53:37](https://news.ycombinator.com/item?id=44571765) - [C# Language Design Meeting for June 30th, 2025](https://github.com/dotnet/csharplang/blob/main/meetings/2025/LDM-2025-06-30.md)
 * [2025-07-15, 14:51:17](https://news.ycombinator.com/item?id=44571740) - [Ask HN: Is it time to fork HN into AI/LLM and \"Everything else/other?\"](https://news.ycombinator.com/item?id=44571740)
 * [2025-07-15, 14:47:02](https://news.ycombinator.com/item?id=44571692) - [Voxtral – Frontier open source speech understanding models](https://mistral.ai/news/voxtral)
 * [2025-07-15, 14:33:55](https://news.ycombinator.com/item?id=44571563) - [Cloudflare Starts Blocking Pirate Sites for UK Users](https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/)
