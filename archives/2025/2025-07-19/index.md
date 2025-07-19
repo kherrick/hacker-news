@@ -8,6 +8,7 @@
 * [2025-07-19, 17:12:45](https://news.ycombinator.com/item?id=44617309) - [Giving Up on Element and Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)
 * [2025-07-19, 16:58:42](https://news.ycombinator.com/item?id=44617184) - [Rethinking CLI Interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
 * [2025-07-19, 16:57:38](https://news.ycombinator.com/item?id=44617172) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
+* [2025-07-19, 16:18:26](https://news.ycombinator.com/item?id=44616788) - [Puck: 'Was Colbert's Cancellation \"Economic\" for CBS?'](https://puck.news/was-colberts-cancellation-really-economic-for-cbs/)
 * [2025-07-19, 15:58:52](https://news.ycombinator.com/item?id=44616595) - [Known Bad Email Clients](https://www.emailprivacytester.com/badClients)
 * [2025-07-19, 15:45:39](https://news.ycombinator.com/item?id=44616486) - [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)
 * [2025-07-19, 15:45:01](https://news.ycombinator.com/item?id=44616479) - [Nobody Knows How to Build with AI Yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
