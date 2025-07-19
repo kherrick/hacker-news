@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-19, 04:22:45",
+      "https://news.ycombinator.com/item?id=44612569"
+    ],
+    [
+      "Microsoft Office is using an artificially complex XML schema as a lock-in tool",
+      "https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 02:56:02",
       "https://news.ycombinator.com/item?id=44612151"
     ],
@@ -57,6 +67,16 @@
     [
       "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
       "https://github.com/ryoppippi/ccusage"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 23:00:56",
+      "https://news.ycombinator.com/item?id=44610732"
+    ],
+    [
+      "EPA says it will eliminate its scientific reseach arm",
+      "https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-07-18, 17:21:49",
-      "https://news.ycombinator.com/item?id=44607403"
-    ],
-    [
-      "The year of peak might and magic",
-      "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/"
-    ]
-  ],
-  [
-    [
       "2025-07-18, 15:54:46",
       "https://news.ycombinator.com/item?id=44606184"
     ],
@@ -227,16 +237,6 @@
     [
       "A New Geometry for Einstein's Theory of Relativity",
       "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 12:40:41",
-      "https://news.ycombinator.com/item?id=44604050"
-    ],
-    [
-      "lsr: ls with io_uring",
-      "https://rockorager.dev/log/lsr-ls-but-with-io-uring/"
     ]
   ],
   [
