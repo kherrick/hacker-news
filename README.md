@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-19, 02:56:02](https://news.ycombinator.com/item?id=44612151) - [My Ultimate Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
-* [2025-07-19, 02:30:51](https://news.ycombinator.com/item?id=44612042) - [This Should Not Be Possible](https://ghuntley.com/no/)
 * [2025-07-19, 02:25:50](https://news.ycombinator.com/item?id=44612023) - [Advertising Without Signal: The Rise of the Grifter Equilibrium](https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/)
 * [2025-07-19, 01:25:00](https://news.ycombinator.com/item?id=44611692) - [We do not break userspace (2012)](https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/)
 * [2025-07-19, 00:43:08](https://news.ycombinator.com/item?id=44611467) - [Bun adds pnpm-style isolated installation mode](https://github.com/oven-sh/bun/pull/20440)
@@ -21,15 +20,16 @@
 * [2025-07-18, 18:40:30](https://news.ycombinator.com/item?id=44608312) - [Show HN: Molab, a cloud-hosted Marimo notebook workspace](https://molab.marimo.io/notebooks)
 * [2025-07-18, 18:39:06](https://news.ycombinator.com/item?id=44608295) - [Cancer DNA is detectable in blood years before diagnosis](https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening)
 * [2025-07-18, 18:39:02](https://news.ycombinator.com/item?id=44608294) - [Mango Health (YC W24) Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
+* [2025-07-18, 18:36:39](https://news.ycombinator.com/item?id=44608275) - [How I keep up with AI progress](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it wont sign Europe AI agreement, calling it growth stunting overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 17:21:49](https://news.ycombinator.com/item?id=44607403) - [The year of peak might and magic](https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/)
 * [2025-07-18, 15:54:46](https://news.ycombinator.com/item?id=44606184) - [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
 * [2025-07-18, 15:19:17](https://news.ycombinator.com/item?id=44605670) - [A New Geometry for Einstein's Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/)
-* [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://rockorager.dev/log/lsr-ls-but-with-io-uring/)
 * [2025-07-15, 16:57:06](https://news.ycombinator.com/item?id=44573287) - [The Halo Effect](https://kwokchain.com/2025/07/15/the-halo-effect/)
 * [2025-07-15, 12:22:33](https://news.ycombinator.com/item?id=44570389) - [Show HN: OrioleDB Beta12 Features and Benchmarks](https://www.orioledb.com/blog/orioledb-beta12-benchmarks)
 * [2025-07-15, 11:39:18](https://news.ycombinator.com/item?id=44570113) - [C++: zero-cost static initialization](https://cofault.com/zero-cost-static.html)
 * [2025-07-15, 08:11:19](https://news.ycombinator.com/item?id=44569032) - [Trying Guix: A Nixer's impressions](https://tazj.in/blog/trying-guix)
+* [2025-07-14, 15:45:28](https://news.ycombinator.com/item?id=44561516) - [Hundred Rabbits – Low-tech living while sailing the world](https://100r.co/site/home.html)
 
 ## [Archives](archives/index.md)
 
