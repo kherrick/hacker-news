@@ -24,6 +24,7 @@
 * [2025-07-16, 16:52:11](https://news.ycombinator.com/item?id=44584414) - [Zig Interface Revisited](https://williamw520.github.io/2025/07/13/zig-interface-revisited.html)
 * [2025-07-16, 16:48:48](https://news.ycombinator.com/item?id=44584372) - [Ex-Waymo engineers launch Bedrock Robotics to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
 * [2025-07-16, 16:14:20](https://news.ycombinator.com/item?id=44583982) - [Mkosi – Build Bespoke OS Images](https://mkosi.systemd.io/)
+* [2025-07-16, 15:57:49](https://news.ycombinator.com/item?id=44583729) - [Show HN: Display Photos on a World Map](https://worldsnap.surge.sh/)
 * [2025-07-16, 15:50:06](https://news.ycombinator.com/item?id=44583619) - [The Italian towns selling houses for €1](https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1)
 * [2025-07-16, 15:45:14](https://news.ycombinator.com/item?id=44583565) - [Mill: A Better Build Tool for Java, Scala, & Kotlin](https://mill-build.org/mill/index.html)
 * [2025-07-16, 15:26:14](https://news.ycombinator.com/item?id=44583326) - [Astronomers use colors of trans-Neptunian objects to track ancient stellar flyby](https://phys.org/news/2025-07-astronomers-trans-neptunian-track-ancient.html)
