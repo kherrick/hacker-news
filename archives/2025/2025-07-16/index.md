@@ -7,6 +7,7 @@
 * [2025-07-16, 22:56:35](https://news.ycombinator.com/item?id=44587717) - [When to make LODs: Understanding model costs](https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802)
 * [2025-07-16, 21:58:31](https://news.ycombinator.com/item?id=44587248) - [Show HN: A 'Choose Your Own Adventure' Written in Emacs Org Mode](https://tendollaradventure.com/sample/)
 * [2025-07-16, 21:44:03](https://news.ycombinator.com/item?id=44587121) - [Tsunami warning issued in Southern Alaska after 7.3 magnitude earthquake](https://www.tsunami.gov/)
+* [2025-07-16, 21:43:35](https://news.ycombinator.com/item?id=44587116) - [Babies made using three people's DNA are born free of mitochondrial disease](https://www.bbc.com/news/articles/cn8179z199vo)
 * [2025-07-16, 21:33:21](https://news.ycombinator.com/item?id=44587018) - [Tin Can – The Landline, Reinvented for Kids](https://tincan.kids/)
 * [2025-07-16, 21:01:09](https://news.ycombinator.com/item?id=44586723) - [I want an iPhone Mini-sized Android phone (2022)](https://smallandroidphone.com/)
 * [2025-07-16, 20:34:18](https://news.ycombinator.com/item?id=44586530) - [Metaflow: Build, Manage and Deploy AI/ML Systems](https://github.com/Netflix/metaflow)
