@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-19, 19:27:50",
+      "https://news.ycombinator.com/item?id=44618535"
+    ],
+    [
+      "The borrowchecker is what I like the least about Rust",
+      "https://viralinstruction.com/posts/borrowchecker/"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 18:14:19",
+      "https://news.ycombinator.com/item?id=44617910"
+    ],
+    [
+      "MCP Security Vulnerabilities and Attack Vectors",
+      "https://forgecode.dev/blog/prevent-attacks-on-mcp/"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 16:58:42",
       "https://news.ycombinator.com/item?id=44617184"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2025-07-19, 00:04:31",
-      "https://news.ycombinator.com/item?id=44611223"
-    ],
-    [
-      "Debcraft – Easiest way to modify and build Debian packages",
-      "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/"
-    ]
-  ],
-  [
-    [
       "2025-07-18, 22:27:17",
       "https://news.ycombinator.com/item?id=44610468"
     ],
     [
       "How to write Rust in the Linux kernel: part 3",
       "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 21:21:50",
-      "https://news.ycombinator.com/item?id=44609969"
-    ],
-    [
-      "Silence Is a Commons by Ivan Illich (1983)",
-      "http://www.davidtinapple.com/illich/1983_silence_commons.html"
     ]
   ],
   [
