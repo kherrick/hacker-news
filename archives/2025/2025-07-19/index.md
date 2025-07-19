@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
+* [2025-07-19, 17:37:20](https://news.ycombinator.com/item?id=44617533) - [Fascism for First Time Founders](https://www.techdirt.com/2025/07/17/fascism-for-first-time-founders/)
 * [2025-07-19, 17:12:45](https://news.ycombinator.com/item?id=44617309) - [Giving Up on Element and Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)
 * [2025-07-19, 16:58:42](https://news.ycombinator.com/item?id=44617184) - [Rethinking CLI Interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
 * [2025-07-19, 16:57:38](https://news.ycombinator.com/item?id=44617172) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
@@ -11,6 +12,7 @@
 * [2025-07-19, 15:45:39](https://news.ycombinator.com/item?id=44616486) - [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)
 * [2025-07-19, 15:45:01](https://news.ycombinator.com/item?id=44616479) - [Nobody Knows How to Build with AI Yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
 * [2025-07-19, 14:23:23](https://news.ycombinator.com/item?id=44615695) - [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
+* [2025-07-19, 12:20:34](https://news.ycombinator.com/item?id=44614911) - [Wishes Upon My Demise](https://vale.rocks/posts/regarding-my-death)
 * [2025-07-19, 12:10:33](https://news.ycombinator.com/item?id=44614853) - [Show HN: I wanted better book recommendations – so I made Lorekeep](https://www.lorekeep.io/)
 * [2025-07-19, 12:00:23](https://news.ycombinator.com/item?id=44614788) - [Piramidal (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
 * [2025-07-19, 11:38:22](https://news.ycombinator.com/item?id=44614644) - [GPT-5-reasoning alpha found in the wild](https://twitter.com/btibor91/status/1946532308896628748)
