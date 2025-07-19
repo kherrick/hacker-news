@@ -24,11 +24,11 @@
 * [2025-07-18, 19:21:38](https://news.ycombinator.com/item?id=44608754) - [Asynchrony is not concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it won’t sign Europe AI agreement, calling it an overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 15:54:46](https://news.ycombinator.com/item?id=44606184) - [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
-* [2025-07-17, 15:01:03](https://news.ycombinator.com/item?id=44594165) - [Zig's New Writer](https://www.openmymind.net/Zigs-New-Writer/)
 * [2025-07-17, 14:08:17](https://news.ycombinator.com/item?id=44593628) - [N78 band 5G NR recordings](https://destevez.net/2025/07/n78-band-5g-nr-recordings/)
 * [2025-07-16, 21:43:35](https://news.ycombinator.com/item?id=44587116) - [Babies made using three people's DNA are born free of mitochondrial disease](https://www.bbc.com/news/articles/cn8179z199vo)
 * [2025-07-16, 16:52:11](https://news.ycombinator.com/item?id=44584414) - [Zig Interface Revisited](https://williamw520.github.io/2025/07/13/zig-interface-revisited.html)
 * [2025-07-16, 15:26:14](https://news.ycombinator.com/item?id=44583326) - [Astronomers use colors of trans-Neptunian objects to track ancient stellar flyby](https://phys.org/news/2025-07-astronomers-trans-neptunian-track-ancient.html)
+* [2025-07-15, 19:02:06](https://news.ycombinator.com/item?id=44574669) - [North America's Oldest Known Pterosaur](https://www.si.edu/newsdesk/releases/smithsonian-led-team-discovers-north-americas-oldest-known-pterosaur)
 * [2025-07-15, 18:02:37](https://news.ycombinator.com/item?id=44574065) - [A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carfax-used-pcs)
 
 ## [Archives](archives/index.md)

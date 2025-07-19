@@ -20,6 +20,7 @@
 * [2025-07-15, 19:23:07](https://news.ycombinator.com/item?id=44574864) - [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
 * [2025-07-15, 19:16:59](https://news.ycombinator.com/item?id=44574815) - [Helix Editor Release 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
 * [2025-07-15, 19:13:42](https://news.ycombinator.com/item?id=44574786) - [Underwriting Superintelligence](https://underwriting-superintelligence.com/)
+* [2025-07-15, 19:02:06](https://news.ycombinator.com/item?id=44574669) - [North America's Oldest Known Pterosaur](https://www.si.edu/newsdesk/releases/smithsonian-led-team-discovers-north-americas-oldest-known-pterosaur)
 * [2025-07-15, 18:46:56](https://news.ycombinator.com/item?id=44574517) - [AI coding may not be helping as much as you think](https://garymarcus.substack.com/p/breaking-news-ai-coding-may-not-be)
 * [2025-07-15, 18:45:43](https://news.ycombinator.com/item?id=44574506) - [Meta shareholders look to haul CEO Mark Zuckerberg, Sheryl Sandberg to court](https://nypost.com/2025/07/15/business/meta-shareholders-aim-to-haul-ceo-mark-zuckerberg-sheryl-sandberg-to-court/)
 * [2025-07-15, 18:31:56](https://news.ycombinator.com/item?id=44574382) - [Meta announces new data centers, gobble up millions of gallons of water per day](https://www.engadget.com/ai/meta-announces-huge-new-data-centers-but-they-could-gobble-up-millions-of-gallons-of-water-per-day-174000478.html)
