@@ -2,6 +2,7 @@
 
 * [2025-07-19, 05:06:49](https://news.ycombinator.com/item?id=44612736) - [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/07/16/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2025-07-19, 04:22:45](https://news.ycombinator.com/item?id=44612569) - [Microsoft Office is using an artificially complex XML schema as a lock-in tool](https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/)
+* [2025-07-19, 04:02:57](https://news.ycombinator.com/item?id=44612487) - [Hyatt Hotels are using algorithmic Rest \"smoking detectors.\"](https://threadreaderapp.com/thread/1945959030851035223.html)
 * [2025-07-19, 02:56:02](https://news.ycombinator.com/item?id=44612151) - [My Ultimate Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
 * [2025-07-19, 02:25:50](https://news.ycombinator.com/item?id=44612023) - [Advertising Without Signal: The Rise of the Grifter Equilibrium](https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/)
 * [2025-07-19, 00:43:08](https://news.ycombinator.com/item?id=44611467) - [Bun adds pnpm-style isolated installation mode](https://github.com/oven-sh/bun/pull/20440)
@@ -20,7 +21,6 @@
 * [2025-07-18, 18:40:30](https://news.ycombinator.com/item?id=44608312) - [Show HN: Molab, a cloud-hosted Marimo notebook workspace](https://molab.marimo.io/notebooks)
 * [2025-07-18, 18:39:06](https://news.ycombinator.com/item?id=44608295) - [Cancer DNA is detectable in blood years before diagnosis](https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening)
 * [2025-07-18, 18:39:02](https://news.ycombinator.com/item?id=44608294) - [Mango Health (YC W24) Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
-* [2025-07-18, 18:36:39](https://news.ycombinator.com/item?id=44608275) - [How I keep up with AI progress](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it won’t sign Europe AI agreement, calling it an overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 15:54:46](https://news.ycombinator.com/item?id=44606184) - [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
 * [2025-07-18, 15:19:17](https://news.ycombinator.com/item?id=44605670) - [A New Geometry for Einstein's Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/)
