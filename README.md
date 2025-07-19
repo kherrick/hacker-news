@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-19, 17:37:20](https://news.ycombinator.com/item?id=44617533) - [Fascism for First Time Founders](https://www.techdirt.com/2025/07/17/fascism-for-first-time-founders/)
 * [2025-07-19, 17:12:45](https://news.ycombinator.com/item?id=44617309) - [Giving Up on Element and Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)
-* [2025-07-19, 16:58:42](https://news.ycombinator.com/item?id=44617184) - [Rethinking CLI Interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
+* [2025-07-19, 16:58:42](https://news.ycombinator.com/item?id=44617184) - [Rethinking CLI interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
 * [2025-07-19, 16:57:38](https://news.ycombinator.com/item?id=44617172) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
-* [2025-07-19, 16:18:26](https://news.ycombinator.com/item?id=44616788) - [Puck: 'Was Colbert's Cancellation \"Economic\" for CBS?'](https://puck.news/was-colberts-cancellation-really-economic-for-cbs/)
 * [2025-07-19, 15:45:39](https://news.ycombinator.com/item?id=44616486) - [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)
 * [2025-07-19, 15:45:01](https://news.ycombinator.com/item?id=44616479) - [Nobody knows how to build with AI yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
+* [2025-07-19, 12:20:34](https://news.ycombinator.com/item?id=44614911) - [Wishes Upon My Demise](https://vale.rocks/posts/regarding-my-death)
 * [2025-07-19, 12:00:23](https://news.ycombinator.com/item?id=44614788) - [Piramidal (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
 * [2025-07-19, 10:52:35](https://news.ycombinator.com/item?id=44614370) - [Fstrings.wtf](https://fstrings.wtf/)
 * [2025-07-19, 10:51:59](https://news.ycombinator.com/item?id=44614365) - [I avoid using LLMs as a publisher and writer](https://lifehacky.net/prompt-0b953c089b44)
@@ -28,6 +27,7 @@
 * [2025-07-16, 21:43:35](https://news.ycombinator.com/item?id=44587116) - [Babies made using three people's DNA are born free of mitochondrial disease](https://www.bbc.com/news/articles/cn8179z199vo)
 * [2025-07-16, 16:52:11](https://news.ycombinator.com/item?id=44584414) - [Zig Interface Revisited](https://williamw520.github.io/2025/07/13/zig-interface-revisited.html)
 * [2025-07-16, 15:26:14](https://news.ycombinator.com/item?id=44583326) - [Astronomers use colors of trans-Neptunian objects to track ancient stellar flyby](https://phys.org/news/2025-07-astronomers-trans-neptunian-track-ancient.html)
+* [2025-07-15, 22:16:23](https://news.ycombinator.com/item?id=44576423) - [What the Internet Was Like in 1998](https://cybercultural.com/p/internet-1998/)
 * [2025-07-15, 19:02:06](https://news.ycombinator.com/item?id=44574669) - [North America's Oldest Known Pterosaur](https://www.si.edu/newsdesk/releases/smithsonian-led-team-discovers-north-americas-oldest-known-pterosaur)
 * [2025-07-15, 18:02:37](https://news.ycombinator.com/item?id=44574065) - [A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carfax-used-pcs)
 
