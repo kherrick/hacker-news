@@ -27,6 +27,7 @@
 * [2025-07-19, 15:58:52](https://news.ycombinator.com/item?id=44616595) - [Known Bad Email Clients](https://www.emailprivacytester.com/badClients)
 * [2025-07-19, 15:45:39](https://news.ycombinator.com/item?id=44616486) - [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)
 * [2025-07-19, 15:45:01](https://news.ycombinator.com/item?id=44616479) - [Nobody Knows How to Build with AI Yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
+* [2025-07-19, 14:35:11](https://news.ycombinator.com/item?id=44615801) - [Death by AI](https://davebarry.substack.com/p/death-by-ai)
 * [2025-07-19, 14:23:53](https://news.ycombinator.com/item?id=44615703) - [Why you should choose HTMX for your next web-based side project (2024)](https://hamy.xyz/blog/2024-02_htmx-for-side-projects)
 * [2025-07-19, 14:23:23](https://news.ycombinator.com/item?id=44615695) - [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
 * [2025-07-19, 12:20:34](https://news.ycombinator.com/item?id=44614911) - [Wishes Upon My Demise](https://vale.rocks/posts/regarding-my-death)
