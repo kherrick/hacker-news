@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-07-19, 18:05:58",
-      "https://news.ycombinator.com/item?id=44617824"
-    ],
-    [
-      "Clawback of $1.1B for PBS and NPR puts rural stations at risk",
-      "https://theconversation.com/clawback-of-1-1b-for-pbs-and-npr-puts-rural-stations-at-risk-and-threatens-a-vital-source-of-journalism-255826"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 17:12:45",
-      "https://news.ycombinator.com/item?id=44617309"
-    ],
-    [
-      "Giving Up on Element and Matrix.org",
-      "https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 16:58:42",
       "https://news.ycombinator.com/item?id=44617184"
     ],
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44614788"
     ],
     [
-      "Piramidal (YC W24) Is Hiring a Full Stack Engineer",
+      "Piramidal (YC W24) is hiring a full stack engineer",
       "https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer"
     ]
   ],
@@ -67,16 +47,6 @@
     [
       "Fstrings.wtf",
       "https://fstrings.wtf/"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 10:51:59",
-      "https://news.ycombinator.com/item?id=44614365"
-    ],
-    [
-      "I avoid using LLMs as a publisher and writer",
-      "https://lifehacky.net/prompt-0b953c089b44"
     ]
   ],
   [
@@ -171,12 +141,42 @@
   ],
   [
     [
+      "2025-07-19, 00:20:48",
+      "https://news.ycombinator.com/item?id=44611320"
+    ],
+    [
+      "Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs",
+      "https://www.macintoshrepository.org/44146-mr-browser"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 00:04:31",
+      "https://news.ycombinator.com/item?id=44611223"
+    ],
+    [
+      "Debcraft – Easiest way to modify and build Debian packages",
+      "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 22:27:17",
       "https://news.ycombinator.com/item?id=44610468"
     ],
     [
       "How to write Rust in the Linux kernel: part 3",
       "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 19:29:52",
+      "https://news.ycombinator.com/item?id=44608856"
+    ],
+    [
+      "Broadcom to discontinue free Bitnami Helm charts",
+      "https://github.com/bitnami/charts/issues/35164"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=44607838"
     ],
     [
-      "Meta says it won’t sign Europe AI agreement, calling it an overreach",
+      "Meta says it won't sign Europe AI agreement",
       "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html"
     ]
   ],
