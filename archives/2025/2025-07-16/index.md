@@ -21,6 +21,7 @@
 * [2025-07-16, 17:47:08](https://news.ycombinator.com/item?id=44585002) - [How and where will agents ship software?](https://www.instantdb.com/essays/agents)
 * [2025-07-16, 17:09:36](https://news.ycombinator.com/item?id=44584603) - [KDB-X: KX releases FREE Commercial KDB license](https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose)
 * [2025-07-16, 17:00:47](https://news.ycombinator.com/item?id=44584497) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+* [2025-07-16, 16:52:11](https://news.ycombinator.com/item?id=44584414) - [Zig Interface Revisited](https://williamw520.github.io/2025/07/13/zig-interface-revisited.html)
 * [2025-07-16, 16:48:48](https://news.ycombinator.com/item?id=44584372) - [Ex-Waymo engineers launch Bedrock Robotics to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
 * [2025-07-16, 16:14:20](https://news.ycombinator.com/item?id=44583982) - [Mkosi – Build Bespoke OS Images](https://mkosi.systemd.io/)
 * [2025-07-16, 15:50:06](https://news.ycombinator.com/item?id=44583619) - [The Italian towns selling houses for €1](https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1)
