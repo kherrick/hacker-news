@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
+* [2025-07-19, 14:23:23](https://news.ycombinator.com/item?id=44615695) - [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
 * [2025-07-19, 12:00:23](https://news.ycombinator.com/item?id=44614788) - [Piramidal (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
 * [2025-07-19, 11:38:22](https://news.ycombinator.com/item?id=44614644) - [GPT-5-reasoning alpha found in the wild](https://twitter.com/btibor91/status/1946532308896628748)
 * [2025-07-19, 10:52:35](https://news.ycombinator.com/item?id=44614370) - [Fstrings.wtf](https://fstrings.wtf/)
