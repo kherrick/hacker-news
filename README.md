@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-19, 22:28:06](https://news.ycombinator.com/item?id=44620020) - [YouTube Won the Battle for TV Viewers](https://www.wsj.com/business/media/how-youtube-won-the-battle-for-tv-viewers-346d05b8)
 * [2025-07-19, 22:25:09](https://news.ycombinator.com/item?id=44620002) - [Ring introducing new feature to allow police to live-stream access to cameras](https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance)
 * [2025-07-19, 20:15:26](https://news.ycombinator.com/item?id=44618959) - [Trigon: Exploiting coprocessors for fun and for profit (part 2)](https://alfiecg.uk/2025/07/16/Trigon.html)
 * [2025-07-19, 19:52:30](https://news.ycombinator.com/item?id=44618762) - [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583)
@@ -20,6 +19,7 @@
 * [2025-07-19, 12:00:23](https://news.ycombinator.com/item?id=44614788) - [Piramidal (YC W24) is hiring a full stack engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
 * [2025-07-19, 10:52:35](https://news.ycombinator.com/item?id=44614370) - [Fstrings.wtf](https://fstrings.wtf/)
 * [2025-07-19, 09:11:19](https://news.ycombinator.com/item?id=44613840) - [OpenAI claims gold-medal performance at IMO 2025](https://twitter.com/alexwei_/status/1946477742855532918)
+* [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [A 14kb page can load much faster than a 15kb page (2022)](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
 * [2025-07-19, 04:02:57](https://news.ycombinator.com/item?id=44612487) - [Hyatt Hotels are using algorithmic Rest “smoking detectors”](https://twitter.com/_ZachGriff/status/1945959030851035223)
 * [2025-07-18, 03:53:31](https://news.ycombinator.com/item?id=44601045) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
