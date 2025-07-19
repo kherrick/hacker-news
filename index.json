@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-19, 02:56:02",
+      "https://news.ycombinator.com/item?id=44612151"
+    ],
+    [
+      "My Ultimate Self-Hosting Setup",
+      "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 01:25:00",
+      "https://news.ycombinator.com/item?id=44611692"
+    ],
+    [
+      "We do not break userspace (2012)",
+      "https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 00:43:08",
+      "https://news.ycombinator.com/item?id=44611467"
+    ],
+    [
+      "Bun adds pnpm-style isolated installation mode",
+      "https://github.com/oven-sh/bun/pull/20440"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 00:20:48",
       "https://news.ycombinator.com/item?id=44611320"
     ],
@@ -11,32 +41,12 @@
   ],
   [
     [
-      "2025-07-19, 00:12:13",
-      "https://news.ycombinator.com/item?id=44611270"
-    ],
-    [
-      "Intel Announces It's Shutting Down Clear Linux",
-      "https://www.phoronix.com/news/Intel-Ends-Clear-Linux"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 00:04:31",
       "https://news.ycombinator.com/item?id=44611223"
     ],
     [
       "Debcraft – Easiest way to modify and build Debian packages",
       "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 23:45:12",
-      "https://news.ycombinator.com/item?id=44611098"
-    ],
-    [
-      "Shutting Down Clear Linux OS",
-      "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-07-18, 10:22:15",
-      "https://news.ycombinator.com/item?id=44603066"
-    ],
-    [
-      "CP/M creator Gary Kildall's memoirs released as free download",
-      "https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 13:52:14",
       "https://news.ycombinator.com/item?id=44593441"
     ],
@@ -261,22 +261,12 @@
   ],
   [
     [
-      "2025-07-15, 16:21:59",
-      "https://news.ycombinator.com/item?id=44572807"
+      "2025-07-15, 16:57:06",
+      "https://news.ycombinator.com/item?id=44573287"
     ],
     [
-      "Sage: An atomic bomb kicked off the biggest computing project in history",
-      "https://www.ibm.com/history/sage"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 15:18:48",
-      "https://news.ycombinator.com/item?id=44572068"
-    ],
-    [
-      "Show HN: Simulating autonomous drone formations",
-      "https://github.com/sushrut141/ketu"
+      "The Halo Effect",
+      "https://kwokchain.com/2025/07/15/the-halo-effect/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Trying Guix: A Nixer's impressions",
       "https://tazj.in/blog/trying-guix"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 15:45:28",
+      "https://news.ycombinator.com/item?id=44561516"
+    ],
+    [
+      "Hundred Rabbits – Low-tech living while sailing the world",
+      "https://100r.co/site/home.html"
     ]
   ]
 ]
