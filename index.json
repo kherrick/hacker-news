@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-19, 00:20:48",
+      "https://news.ycombinator.com/item?id=44611320"
+    ],
+    [
+      "Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs",
+      "https://www.macintoshrepository.org/44146-mr-browser"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 00:12:13",
+      "https://news.ycombinator.com/item?id=44611270"
+    ],
+    [
+      "Intel Announces It's Shutting Down Clear Linux",
+      "https://www.phoronix.com/news/Intel-Ends-Clear-Linux"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 00:04:31",
+      "https://news.ycombinator.com/item?id=44611223"
+    ],
+    [
+      "Debcraft – Easiest way to modify and build Debian packages",
+      "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 23:45:12",
       "https://news.ycombinator.com/item?id=44611098"
     ],
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2025-07-18, 23:00:56",
-      "https://news.ycombinator.com/item?id=44610732"
+      "2025-07-18, 22:45:32",
+      "https://news.ycombinator.com/item?id=44610623"
     ],
     [
-      "EPA says it will eliminate its scientific reseach arm",
-      "https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html"
+      "I'm Rebelling Against the Algorithm",
+      "https://varunraghu.com/im-rebelling-against-the-algorithm/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-07-18, 18:26:22",
-      "https://news.ycombinator.com/item?id=44608170"
-    ],
-    [
-      "Third patient dies from acute liver failure caused by a Sarepta gene therapy",
-      "https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy"
-    ]
-  ],
-  [
-    [
       "2025-07-18, 17:56:37",
       "https://news.ycombinator.com/item?id=44607838"
     ],
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2025-07-17, 13:52:14",
+      "https://news.ycombinator.com/item?id=44593441"
+    ],
+    [
+      "Converting Integers to Floats Using Hyperfocus (2022)",
+      "https://blog.m-ou.se/floats/"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 16:21:59",
       "https://news.ycombinator.com/item?id=44572807"
     ],
@@ -251,22 +281,12 @@
   ],
   [
     [
-      "2025-07-15, 11:36:08",
-      "https://news.ycombinator.com/item?id=44570089"
+      "2025-07-15, 11:39:18",
+      "https://news.ycombinator.com/item?id=44570113"
     ],
     [
-      "How to Get Foreign Keys Horribly Wrong",
-      "https://hakibenita.com/django-foreign-keys"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 10:48:34",
-      "https://news.ycombinator.com/item?id=44569819"
-    ],
-    [
-      "Making a StringBuffer in C, and questioning my sanity",
-      "https://briandouglas.ie/string-buffer-c/"
+      "C++: zero-cost static initialization",
+      "https://cofault.com/zero-cost-static.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Trying Guix: A Nixer's impressions",
       "https://tazj.in/blog/trying-guix"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 00:19:04",
-      "https://news.ycombinator.com/item?id=44566673"
-    ],
-    [
-      "Benben: An audio player for the terminal, written in Common Lisp",
-      "https://chiselapp.com/user/MistressRemilia/repository/benben/home"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 15:45:28",
-      "https://news.ycombinator.com/item?id=44561516"
-    ],
-    [
-      "Hundred Rabbits – Low-tech living while sailing the world",
-      "https://100r.co/site/home.html"
     ]
   ]
 ]
