@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-19, 14:23:23](https://news.ycombinator.com/item?id=44615695) - [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
+* [2025-07-19, 12:10:33](https://news.ycombinator.com/item?id=44614853) - [Show HN: I wanted better book recommendations – so I made Lorekeep](https://www.lorekeep.io/)
 * [2025-07-19, 12:00:23](https://news.ycombinator.com/item?id=44614788) - [Piramidal (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
 * [2025-07-19, 10:52:35](https://news.ycombinator.com/item?id=44614370) - [Fstrings.wtf](https://fstrings.wtf/)
 * [2025-07-19, 10:51:59](https://news.ycombinator.com/item?id=44614365) - [I avoid using LLMs as a publisher and writer](https://lifehacky.net/prompt-0b953c089b44)
@@ -24,8 +25,7 @@
 * [2025-07-18, 19:21:38](https://news.ycombinator.com/item?id=44608754) - [Asynchrony is not concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it won’t sign Europe AI agreement, calling it an overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 15:54:46](https://news.ycombinator.com/item?id=44606184) - [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
-* [2025-07-17, 15:01:03](https://news.ycombinator.com/item?id=44594165) - [Zig's New Writer](https://www.openmymind.net/Zigs-New-Writer/)
-* [2025-07-16, 22:56:35](https://news.ycombinator.com/item?id=44587717) - [When to make LODs (2021)](https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802)
+* [2025-07-17, 14:08:17](https://news.ycombinator.com/item?id=44593628) - [N78 band 5G NR recordings](https://destevez.net/2025/07/n78-band-5g-nr-recordings/)
 * [2025-07-16, 21:43:35](https://news.ycombinator.com/item?id=44587116) - [Babies made using three people's DNA are born free of mitochondrial disease](https://www.bbc.com/news/articles/cn8179z199vo)
 * [2025-07-16, 15:26:14](https://news.ycombinator.com/item?id=44583326) - [Astronomers use colors of trans-Neptunian objects to track ancient stellar flyby](https://phys.org/news/2025-07-astronomers-trans-neptunian-track-ancient.html)
 * [2025-07-15, 18:02:37](https://news.ycombinator.com/item?id=44574065) - [A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carfax-used-pcs)

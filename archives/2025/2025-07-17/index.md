@@ -43,6 +43,7 @@
 * [2025-07-17, 14:59:11](https://news.ycombinator.com/item?id=44594140) - [FDA Authorizes Juul E-Cigarettes](https://www.wsj.com/business/fda-authorizes-juul-e-cigarettes-6ad37963)
 * [2025-07-17, 14:53:42](https://news.ycombinator.com/item?id=44594080) - [Chrome's SSL Bypass Cheatcode](https://thomascountz.com/2025/07/17/chromes-ssl-bypass-cheatcode)
 * [2025-07-17, 14:43:00](https://news.ycombinator.com/item?id=44593972) - [Self-Taught Engineers Often Outperform](https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform)
+* [2025-07-17, 14:08:17](https://news.ycombinator.com/item?id=44593628) - [N78 band 5G NR recordings](https://destevez.net/2025/07/n78-band-5g-nr-recordings/)
 * [2025-07-17, 13:52:14](https://news.ycombinator.com/item?id=44593441) - [Converting Integers to Floats Using Hyperfocus (2022)](https://blog.m-ou.se/floats/)
 * [2025-07-17, 12:58:37](https://news.ycombinator.com/item?id=44592866) - [The rise of AI as a threat to the S&P 500 [pdf]](https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf)
 * [2025-07-17, 12:08:38](https://news.ycombinator.com/item?id=44592413) - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
