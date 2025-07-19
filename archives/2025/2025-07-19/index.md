@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
 * [2025-07-19, 19:52:30](https://news.ycombinator.com/item?id=44618762) - [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583)
+* [2025-07-19, 19:43:23](https://news.ycombinator.com/item?id=44618687) - [Make Your Own Backup System – Part 1: Strategy Before Scripts](https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/)
 * [2025-07-19, 19:42:23](https://news.ycombinator.com/item?id=44618679) - [2025 Infrastructure Report Card](https://infrastructurereportcard.org/)
+* [2025-07-19, 19:34:19](https://news.ycombinator.com/item?id=44618595) - ['Universal cancer vaccine' trains the immune system to kill any tumor](https://newatlas.com/cancer/universal-cancer-vaccine/)
 * [2025-07-19, 19:32:58](https://news.ycombinator.com/item?id=44618576) - [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
 * [2025-07-19, 19:27:50](https://news.ycombinator.com/item?id=44618535) - [The borrowchecker is what I like the least about Rust](https://viralinstruction.com/posts/borrowchecker/)
 * [2025-07-19, 19:01:56](https://news.ycombinator.com/item?id=44618335) - [What the Fuck Python](https://colab.research.google.com/github/satwikkansal/wtfpython/blob/master/irrelevant/wtf.ipynb)
@@ -13,6 +15,7 @@
 * [2025-07-19, 18:14:19](https://news.ycombinator.com/item?id=44617910) - [MCP Security Vulnerabilities and Attack Vectors](https://forgecode.dev/blog/prevent-attacks-on-mcp/)
 * [2025-07-19, 18:05:58](https://news.ycombinator.com/item?id=44617824) - [Clawback of $1.1B for PBS and NPR puts rural stations at risk](https://theconversation.com/clawback-of-1-1b-for-pbs-and-npr-puts-rural-stations-at-risk-and-threatens-a-vital-source-of-journalism-255826)
 * [2025-07-19, 17:37:20](https://news.ycombinator.com/item?id=44617533) - [Fascism for First Time Founders](https://www.techdirt.com/2025/07/17/fascism-for-first-time-founders/)
+* [2025-07-19, 17:24:32](https://news.ycombinator.com/item?id=44617408) - [Postgres to ClickHouse: Data Modeling Tips](https://clickhouse.com/blog/postgres-to-clickhouse-data-modeling-tips-v2)
 * [2025-07-19, 17:12:45](https://news.ycombinator.com/item?id=44617309) - [Giving Up on Element and Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)
 * [2025-07-19, 16:58:42](https://news.ycombinator.com/item?id=44617184) - [Rethinking CLI Interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
 * [2025-07-19, 16:57:38](https://news.ycombinator.com/item?id=44617172) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
