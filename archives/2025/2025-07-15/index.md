@@ -63,6 +63,7 @@
 * [2025-07-15, 12:18:16](https://news.ycombinator.com/item?id=44570363) - [A Little-Known Microsoft Program Could Expose the Defense Department to Hackers](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers)
 * [2025-07-15, 12:00:48](https://news.ycombinator.com/item?id=44570251) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 * [2025-07-15, 11:42:46](https://news.ycombinator.com/item?id=44570130) - [A Rust Shaped Hole](https://mnvr.in/rust)
+* [2025-07-15, 11:39:18](https://news.ycombinator.com/item?id=44570113) - [C++: zero-cost static initialization](https://cofault.com/zero-cost-static.html)
 * [2025-07-15, 11:36:08](https://news.ycombinator.com/item?id=44570089) - [How to Get Foreign Keys Horribly Wrong](https://hakibenita.com/django-foreign-keys)
 * [2025-07-15, 11:29:02](https://news.ycombinator.com/item?id=44570048) - [Show HN: We made our own inference engine for Apple Silicon](https://github.com/trymirai/uzu)
 * [2025-07-15, 11:03:53](https://news.ycombinator.com/item?id=44569894) - [When Is Tech Not Hype? Tulips, Toilets, Trains – and Tabs](https://ajmoon.com/posts/when-is-tech-not-hype-tulips-toilets-trains-and-tabs)
