@@ -61,11 +61,31 @@
   ],
   [
     [
+      "2025-07-19, 09:11:19",
+      "https://news.ycombinator.com/item?id=44613840"
+    ],
+    [
+      "OpenAI claims Gold-medal performance at IMO 2025",
+      "https://twitter.com/alexwei_/status/1946477742855532918"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 08:27:13",
+      "https://news.ycombinator.com/item?id=44613629"
+    ],
+    [
+      "Linux and Secure Boot certificate expiration",
+      "https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 08:26:45",
       "https://news.ycombinator.com/item?id=44613625"
     ],
     [
-      "Why your website should be under 14kB in size",
+      "A 14kb page can load much faster than a 15kb page (2022)",
       "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/"
     ]
   ],
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2025-07-19, 04:22:45",
-      "https://news.ycombinator.com/item?id=44612569"
+      "2025-07-19, 04:02:57",
+      "https://news.ycombinator.com/item?id=44612487"
     ],
     [
-      "Microsoft Office is using an artificially complex XML schema as a lock-in tool",
-      "https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/"
+      "Hyatt Hotels are using algorithmic Rest “smoking detectors”",
+      "https://twitter.com/_ZachGriff/status/1945959030851035223"
     ]
   ],
   [
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=44612023"
     ],
     [
-      "Advertising Without Signal: The Rise of the Grifter Equilibrium",
+      "Advertising without signal: The rise of the grifter equilibrium",
       "https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-07-18, 23:22:49",
-      "https://news.ycombinator.com/item?id=44610925"
-    ],
-    [
-      "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
-      "https://github.com/ryoppippi/ccusage"
-    ]
-  ],
-  [
-    [
       "2025-07-18, 22:27:17",
       "https://news.ycombinator.com/item?id=44610468"
     ],
@@ -187,16 +197,6 @@
     [
       "Silence Is a Commons by Ivan Illich (1983)",
       "http://www.davidtinapple.com/illich/1983_silence_commons.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 20:30:36",
-      "https://news.ycombinator.com/item?id=44609479"
-    ],
-    [
-      "Wii U SDBoot1 Exploit “paid the beak”",
-      "https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-07-16, 15:26:14",
+      "https://news.ycombinator.com/item?id=44583326"
+    ],
+    [
+      "Astronomers use colors of trans-Neptunian objects to track ancient stellar flyby",
+      "https://phys.org/news/2025-07-astronomers-trans-neptunian-track-ancient.html"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 18:02:37",
       "https://news.ycombinator.com/item?id=44574065"
     ],
@@ -277,16 +287,6 @@
     [
       "C# Language Design Meeting for June 30th, 2025",
       "https://github.com/dotnet/csharplang/blob/main/meetings/2025/LDM-2025-06-30.md"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 12:22:33",
-      "https://news.ycombinator.com/item?id=44570389"
-    ],
-    [
-      "Show HN: OrioleDB Beta12 Features and Benchmarks",
-      "https://www.orioledb.com/blog/orioledb-beta12-benchmarks"
     ]
   ],
   [
