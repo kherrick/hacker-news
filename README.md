@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-19, 10:52:35](https://news.ycombinator.com/item?id=44614370) - [Fstrings.wtf](https://fstrings.wtf/)
+* [2025-07-19, 09:34:35](https://news.ycombinator.com/item?id=44613947) - [An exponential improvement for Ramsey lower bounds](https://arxiv.org/abs/2507.12926)
 * [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [2025-07-19, 07:58:50](https://news.ycombinator.com/item?id=44613491) - [YouTube No Translation](https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
@@ -15,10 +17,8 @@
 * [2025-07-18, 21:21:50](https://news.ycombinator.com/item?id=44609969) - [Silence Is a Commons by Ivan Illich (1983)](http://www.davidtinapple.com/illich/1983_silence_commons.html)
 * [2025-07-18, 20:30:36](https://news.ycombinator.com/item?id=44609479) - [Wii U SDBoot1 Exploit “paid the beak”](https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/)
 * [2025-07-18, 19:59:49](https://news.ycombinator.com/item?id=44609137) - [Multiplatform Matrix Multiplication Kernels](https://burn.dev/blog/sota-multiplatform-matmul/)
-* [2025-07-18, 19:59:04](https://news.ycombinator.com/item?id=44609130) - [AI capex is so big that it's affecting economic statistics](https://paulkedrosky.com/honey-ai-capex-ate-the-economy/)
 * [2025-07-18, 19:29:52](https://news.ycombinator.com/item?id=44608856) - [Broadcom to discontinue free Bitnami Helm charts](https://github.com/bitnami/charts/issues/35164)
 * [2025-07-18, 19:21:38](https://news.ycombinator.com/item?id=44608754) - [Asynchrony is not concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
-* [2025-07-18, 18:39:02](https://news.ycombinator.com/item?id=44608294) - [Mango Health (YC W24) Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it won’t sign Europe AI agreement, calling it an overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 15:54:46](https://news.ycombinator.com/item?id=44606184) - [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
 * [2025-07-18, 15:19:17](https://news.ycombinator.com/item?id=44605670) - [A New Geometry for Einstein's Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/)

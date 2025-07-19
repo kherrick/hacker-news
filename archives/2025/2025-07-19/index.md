@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
+* [2025-07-19, 10:52:35](https://news.ycombinator.com/item?id=44614370) - [Fstrings.wtf](https://fstrings.wtf/)
+* [2025-07-19, 09:34:35](https://news.ycombinator.com/item?id=44613947) - [An exponential improvement for Ramsey lower bounds](https://arxiv.org/abs/2507.12926)
 * [2025-07-19, 09:11:19](https://news.ycombinator.com/item?id=44613840) - [OpenAI claims Gold-medal performance at IMO 2025](https://twitter.com/alexwei_/status/1946477742855532918)
 * [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [2025-07-19, 08:02:41](https://news.ycombinator.com/item?id=44613511) - [Free BDSM Test – Discover Your True Role](https://bdsmtest.pro/)
