@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-19, 11:38:22](https://news.ycombinator.com/item?id=44614644) - [GPT-5-reasoning alpha found in the wild](https://twitter.com/btibor91/status/1946532308896628748)
 * [2025-07-19, 10:52:35](https://news.ycombinator.com/item?id=44614370) - [Fstrings.wtf](https://fstrings.wtf/)
+* [2025-07-19, 10:51:59](https://news.ycombinator.com/item?id=44614365) - [I avoid using LLMs as a publisher and writer](https://lifehacky.net/prompt-0b953c089b44)
+* [2025-07-19, 10:38:52](https://news.ycombinator.com/item?id=44614292) - [Felix Baumgartner, Who Jumped from Stratosphere, Dies in Italy](https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/)
 * [2025-07-19, 09:34:35](https://news.ycombinator.com/item?id=44613947) - [An exponential improvement for Ramsey lower bounds](https://arxiv.org/abs/2507.12926)
 * [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [2025-07-19, 07:58:50](https://news.ycombinator.com/item?id=44613491) - [YouTube No Translation](https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/)
@@ -21,15 +24,12 @@
 * [2025-07-18, 19:21:38](https://news.ycombinator.com/item?id=44608754) - [Asynchrony is not concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it won’t sign Europe AI agreement, calling it an overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 15:54:46](https://news.ycombinator.com/item?id=44606184) - [Valve confirms credit card companies pressured it to delist certain adult games](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
-* [2025-07-18, 15:19:17](https://news.ycombinator.com/item?id=44605670) - [A New Geometry for Einstein's Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/)
 * [2025-07-17, 15:01:03](https://news.ycombinator.com/item?id=44594165) - [Zig's New Writer](https://www.openmymind.net/Zigs-New-Writer/)
 * [2025-07-16, 22:56:35](https://news.ycombinator.com/item?id=44587717) - [When to make LODs: Understanding model costs](https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802)
+* [2025-07-15, 18:02:37](https://news.ycombinator.com/item?id=44574065) - [A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carfax-used-pcs)
 * [2025-07-15, 14:53:37](https://news.ycombinator.com/item?id=44571765) - [C# Language Design Meeting for June 30th, 2025](https://github.com/dotnet/csharplang/blob/main/meetings/2025/LDM-2025-06-30.md)
-* [2025-07-15, 12:39:57](https://news.ycombinator.com/item?id=44570525) - [The Bitter Lessons Behind Kimi Researcher's Taste](https://medium.com/@xinyijin715/maker-story-the-bitter-lessons-behind-kimi-researchers-ui-6654ec66662c)
 * [2025-07-15, 12:22:33](https://news.ycombinator.com/item?id=44570389) - [Show HN: OrioleDB Beta12 Features and Benchmarks](https://www.orioledb.com/blog/orioledb-beta12-benchmarks)
 * [2025-07-15, 11:39:18](https://news.ycombinator.com/item?id=44570113) - [C++: Zero-cost static initialization](https://cofault.com/zero-cost-static.html)
-* [2025-07-15, 10:19:38](https://news.ycombinator.com/item?id=44569684) - [Cats as Horror Movie Villains](https://gwern.net/cat-horror)
-* [2025-07-15, 08:11:19](https://news.ycombinator.com/item?id=44569032) - [Trying Guix: A Nixer's impressions](https://tazj.in/blog/trying-guix)
 
 ## [Archives](archives/index.md)
 

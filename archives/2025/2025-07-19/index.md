@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
+* [2025-07-19, 11:38:22](https://news.ycombinator.com/item?id=44614644) - [GPT-5-reasoning alpha found in the wild](https://twitter.com/btibor91/status/1946532308896628748)
 * [2025-07-19, 10:52:35](https://news.ycombinator.com/item?id=44614370) - [Fstrings.wtf](https://fstrings.wtf/)
+* [2025-07-19, 10:51:59](https://news.ycombinator.com/item?id=44614365) - [I avoid using LLMs as a publisher and writer](https://lifehacky.net/prompt-0b953c089b44)
+* [2025-07-19, 10:38:52](https://news.ycombinator.com/item?id=44614292) - [Felix Baumgartner, Who Jumped from Stratosphere, Dies in Italy](https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/)
 * [2025-07-19, 09:34:35](https://news.ycombinator.com/item?id=44613947) - [An exponential improvement for Ramsey lower bounds](https://arxiv.org/abs/2507.12926)
 * [2025-07-19, 09:11:19](https://news.ycombinator.com/item?id=44613840) - [OpenAI claims Gold-medal performance at IMO 2025](https://twitter.com/alexwei_/status/1946477742855532918)
 * [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
