@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-19, 17:12:45",
+      "https://news.ycombinator.com/item?id=44617309"
+    ],
+    [
+      "Giving Up on Element and Matrix.org",
+      "https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 16:58:42",
+      "https://news.ycombinator.com/item?id=44617184"
+    ],
+    [
+      "Rethinking CLI Interfaces for AI",
+      "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 16:57:38",
+      "https://news.ycombinator.com/item?id=44617172"
+    ],
+    [
+      "It's rude to show AI output to people",
+      "https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 15:58:52",
       "https://news.ycombinator.com/item?id=44616595"
     ],
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44613840"
     ],
     [
-      "OpenAI claims Gold-medal performance at IMO 2025",
+      "OpenAI claims gold-medal performance at IMO 2025",
       "https://twitter.com/alexwei_/status/1946477742855532918"
     ]
   ],
@@ -161,52 +191,12 @@
   ],
   [
     [
-      "2025-07-19, 00:20:48",
-      "https://news.ycombinator.com/item?id=44611320"
-    ],
-    [
-      "Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs",
-      "https://www.macintoshrepository.org/44146-mr-browser"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 00:04:31",
-      "https://news.ycombinator.com/item?id=44611223"
-    ],
-    [
-      "Debcraft – Easiest way to modify and build Debian packages",
-      "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/"
-    ]
-  ],
-  [
-    [
       "2025-07-18, 22:27:17",
       "https://news.ycombinator.com/item?id=44610468"
     ],
     [
       "How to write Rust in the Linux kernel: part 3",
       "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 21:21:50",
-      "https://news.ycombinator.com/item?id=44609969"
-    ],
-    [
-      "Silence Is a Commons by Ivan Illich (1983)",
-      "http://www.davidtinapple.com/illich/1983_silence_commons.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 19:29:52",
-      "https://news.ycombinator.com/item?id=44608856"
-    ],
-    [
-      "Broadcom to discontinue free Bitnami Helm charts",
-      "https://github.com/bitnami/charts/issues/35164"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Valve confirms credit card companies pressured it to delist certain adult games",
       "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 03:53:31",
+      "https://news.ycombinator.com/item?id=44601045"
+    ],
+    [
+      "Linux and Secure Boot certificate expiration",
+      "https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/"
     ]
   ],
   [
