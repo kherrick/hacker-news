@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 22:56:35](https://news.ycombinator.com/item?id=44587717) - [When to make LODs: Understanding model costs](https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802)
 * [2025-07-16, 21:58:31](https://news.ycombinator.com/item?id=44587248) - [Show HN: A 'Choose Your Own Adventure' Written in Emacs Org Mode](https://tendollaradventure.com/sample/)
 * [2025-07-16, 21:44:03](https://news.ycombinator.com/item?id=44587121) - [Tsunami warning issued in Southern Alaska after 7.3 magnitude earthquake](https://www.tsunami.gov/)
 * [2025-07-16, 21:33:21](https://news.ycombinator.com/item?id=44587018) - [Tin Can – The Landline, Reinvented for Kids](https://tincan.kids/)
