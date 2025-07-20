@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
+* [2025-07-19, 23:58:18](https://news.ycombinator.com/item?id=44620623) - [I Used Arch, BTW: macOS, Day 1](https://yberreby.com/posts/i-used-arch-btw-macos-day-1/)
+* [2025-07-19, 23:54:40](https://news.ycombinator.com/item?id=44620606) - [Beyond Meat Fights for Survival](https://foodinstitute.com/focus/beyond-meat-fights-for-survival/)
 * [2025-07-19, 22:28:06](https://news.ycombinator.com/item?id=44620020) - [YouTube Won the Battle for TV Viewers](https://www.wsj.com/business/media/how-youtube-won-the-battle-for-tv-viewers-346d05b8)
 * [2025-07-19, 22:26:32](https://news.ycombinator.com/item?id=44620011) - [The U.K. Closed a Tax Loophole for the Global Rich. Now They're Fleeing](https://www.wsj.com/world/uk/the-u-k-closed-a-tax-loophole-for-the-global-rich-now-theyre-fleeing-f078cce4)
 * [2025-07-19, 22:25:09](https://news.ycombinator.com/item?id=44620002) - [Ring introducing new feature to allow police to live-stream access to cameras](https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance)
