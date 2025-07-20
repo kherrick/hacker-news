@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 19:21:12](https://news.ycombinator.com/item?id=44628445) - [Naturalized Citizens Are Scared](https://www.theatlantic.com/ideas/archive/2025/07/naturalization-civics-test/683579/)
 * [2025-07-20, 19:05:17](https://news.ycombinator.com/item?id=44628290) - [Is DeepSeek a New Voice Among LLMs in Public Opinion Simulation?](https://arxiv.org/abs/2506.21587)
 * [2025-07-20, 18:46:14](https://news.ycombinator.com/item?id=44628082) - [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
 * [2025-07-20, 18:29:06](https://news.ycombinator.com/item?id=44627900) - [Leaders are using appeals to nostalgia, nationalism to attack higher education](https://theconversation.com/leaders-in-india-hungary-and-the-us-are-using-appeals-to-nostalgia-and-nationalism-to-attack-higher-education-258975)

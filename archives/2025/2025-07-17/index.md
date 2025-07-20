@@ -69,6 +69,7 @@
 * [2025-07-17, 10:05:23](https://news.ycombinator.com/item?id=44591585) - [New battery has life so long you may never have to recharge](https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/)
 * [2025-07-17, 09:36:58](https://news.ycombinator.com/item?id=44591445) - [FOSS4G Europe 2025 Live Streaming](https://2025.europe.foss4g.org/livestream/)
 * [2025-07-17, 09:16:41](https://news.ycombinator.com/item?id=44591332) - [C++ Trailing Return Types (2022)](https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html)
+* [2025-07-17, 09:12:26](https://news.ycombinator.com/item?id=44591305) - [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
 * [2025-07-17, 08:34:40](https://news.ycombinator.com/item?id=44591062) - [Open, free, and ignored: the afterlife of Symbian](https://www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/)
 * [2025-07-17, 07:51:49](https://news.ycombinator.com/item?id=44590795) - [The Secrets We Keep](https://blog.bl00cyb.org/2025/07/the-secrets-we-keep/)
 * [2025-07-17, 07:27:42](https://news.ycombinator.com/item?id=44590678) - [NINA: Rebuilding the original AIM, AOL Desktop, Yahoo and ICQ platforms](https://nina.chat/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-20, 19:21:12](https://news.ycombinator.com/item?id=44628445) - [Naturalized Citizens Are Scared](https://www.theatlantic.com/ideas/archive/2025/07/naturalization-civics-test/683579/)
 * [2025-07-20, 19:05:17](https://news.ycombinator.com/item?id=44628290) - [Is DeepSeek a New Voice Among LLMs in Public Opinion Simulation?](https://arxiv.org/abs/2506.21587)
 * [2025-07-20, 18:46:14](https://news.ycombinator.com/item?id=44628082) - [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
 * [2025-07-20, 18:29:06](https://news.ycombinator.com/item?id=44627900) - [Leaders are using appeals to nostalgia, nationalism to attack higher education](https://theconversation.com/leaders-in-india-hungary-and-the-us-are-using-appeals-to-nostalgia-and-nationalism-to-attack-higher-education-258975)
@@ -19,7 +20,6 @@
 * [2025-07-20, 11:04:02](https://news.ycombinator.com/item?id=44623953) - [Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154)
 * [2025-07-20, 10:11:22](https://news.ycombinator.com/item?id=44623581) - [A Tour of Microsoft's Mac Lab (2006)](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
 * [2025-07-20, 08:59:19](https://news.ycombinator.com/item?id=44623207) - [The current hype around autonomous agents, and what actually works in production](https://utkarshkanwat.com/writing/betting-against-agents/)
-* [2025-07-20, 08:17:13](https://news.ycombinator.com/item?id=44622999) - [Robot metabolism: Toward machines that can grow by consuming other machines](https://www.science.org/doi/10.1126/sciadv.adu6897)
 * [2025-07-20, 08:13:15](https://news.ycombinator.com/item?id=44622973) - [A human metaphor for evaluating AI capability](https://mathstodon.xyz/@tao/114881418225852441)
 * [2025-07-20, 06:56:01](https://news.ycombinator.com/item?id=44622608) - [LLM architecture comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 * [2025-07-20, 06:20:02](https://news.ycombinator.com/item?id=44622454) - [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
@@ -28,8 +28,8 @@
 * [2025-07-18, 00:54:27](https://news.ycombinator.com/item?id=44600043) - [Laminar Flow Airfoil](http://www.aviation-history.com/theory/lam-flow.htm)
 * [2025-07-17, 16:01:17](https://news.ycombinator.com/item?id=44594808) - [New colors without shooting lasers into your eyes](https://dynomight.net/colors/)
 * [2025-07-17, 15:43:04](https://news.ycombinator.com/item?id=44594584) - [Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once](https://conductor.build/)
+* [2025-07-17, 09:12:26](https://news.ycombinator.com/item?id=44591305) - [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
 * [2025-07-16, 15:25:30](https://news.ycombinator.com/item?id=44583316) - [Hungary's oldest library is fighting to save books from a beetle infestation](https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles)
-* [2025-07-16, 14:25:42](https://news.ycombinator.com/item?id=44582730) - [Show HN: ggc – A terminal-based Git CLI written in Go](https://github.com/bmf-san/ggc)
 
 ## [Archives](archives/index.md)
 
