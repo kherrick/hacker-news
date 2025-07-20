@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-20, 08:26:20",
-      "https://news.ycombinator.com/item?id=44623036"
+      "2025-07-20, 09:33:48",
+      "https://news.ycombinator.com/item?id=44623361"
     ],
     [
-      "“I noticed a clear violation of our contributing guidelines”",
-      "https://github.com/antiwork/flexile/pull/427#issuecomment-3079688548"
+      "AI is killing the web. Can anything save it?",
+      "https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 08:59:19",
+      "https://news.ycombinator.com/item?id=44623207"
+    ],
+    [
+      "Why I'm Betting Against AI Agents in 2025 (Despite Building Them)",
+      "https://utkarshkanwat.com/writing/betting-against-agents/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Borg – Deduplicating archiver with compression and encryption",
       "https://www.borgbackup.org/"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 01:28:35",
-      "https://news.ycombinator.com/item?id=44621088"
-    ],
-    [
-      "The AGI Final Frontier: The CLJ-AGI Benchmark",
-      "https://raspasov.posthaven.com/the-agi-final-frontier-the-clj-agi-benchmark"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=44590391"
     ],
     [
-      "How to Run an Arduino for Years on a Battery (2021)",
+      "How to run an Arduino for years on a battery (2021)",
       "https://makecademy.com/arduino-battery"
     ]
   ],
@@ -227,16 +227,6 @@
     [
       "Open-Source BCI Platform with Mobile SDK for Rapid Neurotech Prototyping",
       "https://www.preprints.org/manuscript/202507.1198/v1"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 20:08:41",
-      "https://news.ycombinator.com/item?id=44586283"
-    ],
-    [
-      "First electronic-photonic quantum chip manufactured in commercial foundry",
-      "https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Hungary's oldest library is fighting to save books from a beetle infestation",
       "https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 14:25:42",
+      "https://news.ycombinator.com/item?id=44582730"
+    ],
+    [
+      "Show HN: ggc – A terminal-based Git CLI written in Go",
+      "https://github.com/bmf-san/ggc"
     ]
   ],
   [
