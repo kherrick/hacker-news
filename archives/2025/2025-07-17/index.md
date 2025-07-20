@@ -82,6 +82,7 @@
 * [2025-07-17, 00:43:54](https://news.ycombinator.com/item?id=44588492) - [Onlycats](https://onlycats.gg/)
 * [2025-07-17, 00:43:41](https://news.ycombinator.com/item?id=44588491) - [\"Reading Rainbow\" Was Created to Combat Summer Reading Slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
 * [2025-07-17, 00:35:57](https://news.ycombinator.com/item?id=44588437) - [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
+* [2025-07-17, 00:27:58](https://news.ycombinator.com/item?id=44588388) - [Dual interfacial H-bonding-enhanced deep-blue hybrid copper–iodide LEDs](https://www.researchsquare.com/article/rs-4114691/v1)
 * [2025-07-17, 00:26:56](https://news.ycombinator.com/item?id=44588383) - [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
 * [2025-07-17, 00:23:12](https://news.ycombinator.com/item?id=44588364) - [17 Mistakes Microsoft Made in the Xbox Security System](https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)
 * [2025-07-17, 00:16:17](https://news.ycombinator.com/item?id=44588319) - [Gwern's Perfume Reviews](https://gwern.net/blog/2025/perfume)
