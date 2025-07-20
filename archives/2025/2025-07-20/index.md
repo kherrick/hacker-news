@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
 * [2025-07-20, 07:22:13](https://news.ycombinator.com/item?id=44622725) - [Replit goes rogue and deletes our entire database](https://twitter.com/jasonlk/status/1946069562723897802)
+* [2025-07-20, 06:56:01](https://news.ycombinator.com/item?id=44622608) - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 * [2025-07-20, 06:20:02](https://news.ycombinator.com/item?id=44622454) - [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
 * [2025-07-20, 03:14:26](https://news.ycombinator.com/item?id=44621675) - [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit)
 * [2025-07-20, 02:36:53](https://news.ycombinator.com/item?id=44621487) - [Borg - Deduplicating Archiver with Compression and Encryption](https://www.borgbackup.org/)
