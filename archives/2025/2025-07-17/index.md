@@ -75,6 +75,7 @@
 * [2025-07-17, 06:39:17](https://news.ycombinator.com/item?id=44590391) - [How to Run an Arduino for Years on a Battery](https://makecademy.com/arduino-battery)
 * [2025-07-17, 06:32:42](https://news.ycombinator.com/item?id=44590350) - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
 * [2025-07-17, 06:05:19](https://news.ycombinator.com/item?id=44590189) - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
+* [2025-07-17, 05:37:50](https://news.ycombinator.com/item?id=44590034) - [Java was not underhyped in 1997 (2021)](https://dylanbeattie.net/2021/07/01/java-is-criminally-underhyped.html)
 * [2025-07-17, 04:58:40](https://news.ycombinator.com/item?id=44589833) - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
 * [2025-07-17, 03:22:53](https://news.ycombinator.com/item?id=44589384) - [Original Xbox Hacks: The A20 CPU Gate](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
 * [2025-07-17, 01:12:33](https://news.ycombinator.com/item?id=44588699) - [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
