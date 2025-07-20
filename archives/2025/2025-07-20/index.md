@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 08:26:20](https://news.ycombinator.com/item?id=44623036) - [Bot: \"I noticed a violation of our guidelines for pull request comments\"](https://github.com/antiwork/flexile/pull/427)
 * [2025-07-20, 07:22:13](https://news.ycombinator.com/item?id=44622725) - [Replit goes rogue and deletes our entire database](https://twitter.com/jasonlk/status/1946069562723897802)
 * [2025-07-20, 06:56:01](https://news.ycombinator.com/item?id=44622608) - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 * [2025-07-20, 06:20:02](https://news.ycombinator.com/item?id=44622454) - [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
