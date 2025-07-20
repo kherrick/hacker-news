@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-20, 03:14:26](https://news.ycombinator.com/item?id=44621675) - [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit)
 * [2025-07-20, 02:02:44](https://news.ycombinator.com/item?id=44621268) - [Erythritol linked to brain cell damage and stroke risk](https://www.sciencedaily.com/releases/2025/07/250718035156.htm)
-* [2025-07-20, 01:33:47](https://news.ycombinator.com/item?id=44621119) - [Bill Banning One-Person Train Operation Would Lock NY Transit in the Past](https://www.etany.org/statements/impeding-progress-costing-riders-opto)
 * [2025-07-20, 00:25:47](https://news.ycombinator.com/item?id=44620774) - [Intel to boost gross margins – new products must deliver 50% gross profit](https://www.tomshardware.com/tech-industry/semiconductors/intel-draws-a-line-in-the-sand-to-boost-gross-margins-new-products-must-deliver-50-percent-to-get-the-green-light)
 * [2025-07-19, 22:25:09](https://news.ycombinator.com/item?id=44620002) - [Ring introducing new feature to allow police to live-stream access to cameras](https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance)
 * [2025-07-19, 20:15:26](https://news.ycombinator.com/item?id=44618959) - [Trigon: Exploiting coprocessors for fun and for profit (part 2)](https://alfiecg.uk/2025/07/16/Trigon.html)
