@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44621487"
     ],
     [
-      "Borg - Deduplicating Archiver with Compression and Encryption",
+      "Borg – Deduplicating archiver with compression and encryption",
       "https://www.borgbackup.org/"
     ]
   ],
@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-07-20, 01:28:35",
+      "https://news.ycombinator.com/item?id=44621088"
+    ],
+    [
+      "The AGI Final Frontier: The CLJ-AGI Benchmark",
+      "https://raspasov.posthaven.com/the-agi-final-frontier-the-clj-agi-benchmark"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 23:58:18",
       "https://news.ycombinator.com/item?id=44620623"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44620606"
     ],
     [
-      "Beyond Meat Fights for Survival",
+      "Beyond Meat fights for survival",
       "https://foodinstitute.com/focus/beyond-meat-fights-for-survival/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "The borrowchecker is what I like the least about Rust",
       "https://viralinstruction.com/posts/borrowchecker/"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 19:01:56",
-      "https://news.ycombinator.com/item?id=44618335"
-    ],
-    [
-      "What the Fuck Python",
-      "https://colab.research.google.com/github/satwikkansal/wtfpython/blob/master/irrelevant/wtf.ipynb"
     ]
   ],
   [
@@ -211,21 +211,11 @@
   ],
   [
     [
-      "2025-07-17, 09:16:41",
-      "https://news.ycombinator.com/item?id=44591332"
-    ],
-    [
-      "C++ Trailing Return Types (2022)",
-      "https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 07:26:22",
       "https://news.ycombinator.com/item?id=44590671"
     ],
     [
-      "\"Bypassing\" Specialization in Rust or How I Learned to Stop Worrying and Love F",
+      "“Bypassing” specialization in Rust",
       "https://oakchris1955.eu/posts/bypassing_specialization/"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "How to Run an Arduino for Years on a Battery (2021)",
       "https://makecademy.com/arduino-battery"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 22:25:42",
+      "https://news.ycombinator.com/item?id=44587486"
+    ],
+    [
+      "Open-Source BCI Platform with Mobile SDK for Rapid Neurotech Prototyping",
+      "https://www.preprints.org/manuscript/202507.1198/v1"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44577210"
     ],
     [
-      "What Were the Earliest Laws Like?",
+      "What were the earliest laws like?",
       "https://worldhistory.substack.com/p/what-were-the-earliest-laws-really"
     ]
   ],
