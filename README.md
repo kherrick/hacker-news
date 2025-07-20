@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-20, 15:08:02](https://news.ycombinator.com/item?id=44625897) - [When is it the best time to post on Show HN?](https://www.myriade.ai/blogs/when-is-it-the-best-time-to-post-on-show-hn)
+* [2025-07-20, 15:29:07](https://news.ycombinator.com/item?id=44626107) - [The landlord gutting America’s hospitals](https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/)
 * [2025-07-20, 14:11:26](https://news.ycombinator.com/item?id=44625360) - [The old Caveman Chemistry website (1996-2000)](https://cavemanchemistry.com/oldcave/)
 * [2025-07-20, 14:03:39](https://news.ycombinator.com/item?id=44625292) - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 * [2025-07-20, 13:49:22](https://news.ycombinator.com/item?id=44625181) - [Can Software Be Durable?](https://news.ycombinator.com/item?id=44625181)
@@ -22,7 +22,7 @@
 * [2025-07-19, 15:45:01](https://news.ycombinator.com/item?id=44616479) - [Nobody knows how to build with AI yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
 * [2025-07-19, 14:35:11](https://news.ycombinator.com/item?id=44615801) - [Death by AI](https://davebarry.substack.com/p/death-by-ai)
 * [2025-07-17, 20:20:58](https://news.ycombinator.com/item?id=44597727) - [Behind the ballistics of the 'explosive' squirting cucumber](https://phys.org/news/2025-07-ballistics-explosive-squirting-cucumber.html)
-* [2025-07-17, 10:43:05](https://news.ycombinator.com/item?id=44591775) - [Mushroom learns to crawl after being given robot body (2024)](https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html)
+* [2025-07-17, 15:01:05](https://news.ycombinator.com/item?id=44594166) - [Show HN: A handpicked directory to help founders find great design studios](https://finddesignagency.com/)
 * [2025-07-17, 06:39:17](https://news.ycombinator.com/item?id=44590391) - [How to run an Arduino for years on a battery (2021)](https://makecademy.com/arduino-battery)
 * [2025-07-17, 05:37:50](https://news.ycombinator.com/item?id=44590034) - [Java was not underhyped in 1997 (2021)](https://dylanbeattie.net/2021/07/01/java-is-criminally-underhyped.html)
 * [2025-07-17, 00:27:58](https://news.ycombinator.com/item?id=44588388) - [Dual interfacial H-bonding-enhanced deep-blue hybrid copper–iodide LEDs](https://www.researchsquare.com/article/rs-4114691/v1)
