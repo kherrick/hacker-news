@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 14:45:55](https://news.ycombinator.com/item?id=44625681) - [Group Behind Steam Censorship Policies Have Powerful Allies](https://web.archive.org/web/20250719204151/https://www.vice.com/en/article/group-behind-steam-censorship-policies-have-powerful-allies-and-targeted-popular-games-with-outlandish-claims/)
+* [2025-07-20, 14:36:04](https://news.ycombinator.com/item?id=44625604) - [US signals intention to rethink job H-1B lottery](https://www.theregister.com/2025/07/20/h_1b_job_lottery/)
 * [2025-07-20, 14:11:26](https://news.ycombinator.com/item?id=44625360) - [The old Caveman Chemistry website (1996-2000)](https://cavemanchemistry.com/oldcave/)
 * [2025-07-20, 14:03:39](https://news.ycombinator.com/item?id=44625292) - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 * [2025-07-20, 13:16:51](https://news.ycombinator.com/item?id=44624952) - [How Tesla is proving doubters right on why its robotaxi service cannot scale](https://www.aol.com/elon-gambling-tesla-proving-doubters-090300237.html)
