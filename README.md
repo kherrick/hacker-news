@@ -20,6 +20,7 @@
 * [2025-07-19, 14:35:11](https://news.ycombinator.com/item?id=44615801) - [Death by AI](https://davebarry.substack.com/p/death-by-ai)
 * [2025-07-19, 09:11:19](https://news.ycombinator.com/item?id=44613840) - [OpenAI claims gold-medal performance at IMO 2025](https://twitter.com/alexwei_/status/1946477742855532918)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
+* [2025-07-19, 04:02:57](https://news.ycombinator.com/item?id=44612487) - [Hyatt Hotels are using algorithmic Rest “smoking detectors”](https://twitter.com/_ZachGriff/status/1945959030851035223)
 * [2025-07-17, 20:02:41](https://news.ycombinator.com/item?id=44597550) - [How we tracked down a Go 1.24 memory regression](https://www.datadoghq.com/blog/engineering/go-memory-regression/)
 * [2025-07-17, 10:43:05](https://news.ycombinator.com/item?id=44591775) - [Mushroom learns to crawl after being given robot body (2024)](https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html)
 * [2025-07-17, 07:26:22](https://news.ycombinator.com/item?id=44590671) - [\"Bypassing\" Specialization in Rust or How I Learned to Stop Worrying and Love F](https://oakchris1955.eu/posts/bypassing_specialization/)
@@ -27,7 +28,6 @@
 * [2025-07-16, 18:25:14](https://news.ycombinator.com/item?id=44585370) - [Matterport walkthrough of the original Microsoft Building 3](https://my.matterport.com/show/?m=SZSV6vjcf4L)
 * [2025-07-16, 16:52:11](https://news.ycombinator.com/item?id=44584414) - [Zig Interface Revisited](https://williamw520.github.io/2025/07/13/zig-interface-revisited.html)
 * [2025-07-16, 15:25:30](https://news.ycombinator.com/item?id=44583316) - [Hungary's oldest library is fighting to save books from a beetle infestation](https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles)
-* [2025-07-16, 10:14:42](https://news.ycombinator.com/item?id=44580567) - [I tried vibe coding in BASIC and it didn't go well](https://www.goto10retro.com/p/vibe-coding-in-basic)
 * [2025-07-15, 23:55:55](https://news.ycombinator.com/item?id=44577210) - [What Were the Earliest Laws Like?](https://worldhistory.substack.com/p/what-were-the-earliest-laws-really)
 * [2025-07-15, 21:50:17](https://news.ycombinator.com/item?id=44576183) - [Piano Keys](https://www.mathpages.com/home/kmath043.htm)
 
