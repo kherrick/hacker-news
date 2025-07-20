@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 19:05:17](https://news.ycombinator.com/item?id=44628290) - [Is DeepSeek a New Voice Among LLMs in Public Opinion Simulation?](https://arxiv.org/abs/2506.21587)
+* [2025-07-20, 18:46:14](https://news.ycombinator.com/item?id=44628082) - [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
 * [2025-07-20, 18:29:06](https://news.ycombinator.com/item?id=44627900) - [Leaders are using appeals to nostalgia, nationalism to attack higher education](https://theconversation.com/leaders-in-india-hungary-and-the-us-are-using-appeals-to-nostalgia-and-nationalism-to-attack-higher-education-258975)
 * [2025-07-20, 18:22:01](https://news.ycombinator.com/item?id=44627828) - [Payment processors' bar on Japanese adult content endangers democracy (2024)](https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/)
 * [2025-07-20, 18:21:53](https://news.ycombinator.com/item?id=44627827) - [Mysterious Antimatter Physics Discovered at the Large Hadron Collider](https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/)
