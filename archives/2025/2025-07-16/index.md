@@ -14,6 +14,7 @@
 * [2025-07-16, 20:34:18](https://news.ycombinator.com/item?id=44586530) - [Metaflow: Build, Manage and Deploy AI/ML Systems](https://github.com/Netflix/metaflow)
 * [2025-07-16, 20:22:57](https://news.ycombinator.com/item?id=44586427) - [A Recap on May/June Stability at Neon](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
 * [2025-07-16, 20:13:07](https://news.ycombinator.com/item?id=44586328) - [Young Graduates Are Facing an Employment Crisis](https://www.wsj.com/economy/jobs/jobs-unemployment-rise-young-people-ce4704d8)
+* [2025-07-16, 20:08:41](https://news.ycombinator.com/item?id=44586283) - [First electronic-photonic quantum chip manufactured in commercial foundry](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/)
 * [2025-07-16, 19:45:24](https://news.ycombinator.com/item?id=44586064) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 19:44:09](https://news.ycombinator.com/item?id=44586053) - [US Importers Sued for 'Greenwashing' Mexican Avocados](https://civileats.com/2025/07/09/u-s-importers-sued-for-greenwashing-mexican-avocados/)
 * [2025-07-16, 19:16:23](https://news.ycombinator.com/item?id=44585838) - [Enhancing COBOL Code Explanations: A Multi-Agents Approach Using LLMs](https://arxiv.org/abs/2507.02182)
