@@ -8,6 +8,7 @@
 * [2025-07-17, 23:10:38](https://news.ycombinator.com/item?id=44599334) - [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds)
 * [2025-07-17, 23:10:03](https://news.ycombinator.com/item?id=44599325) - [23andMe is out of bankruptcy. You should still delete your DNA](https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/)
 * [2025-07-17, 22:53:09](https://news.ycombinator.com/item?id=44599194) - [People kept working, became healthier while on basic income: report](https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729)
+* [2025-07-17, 21:43:23](https://news.ycombinator.com/item?id=44598578) - [What My Mother Didn't Talk About (2020)](https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak)
 * [2025-07-17, 21:38:14](https://news.ycombinator.com/item?id=44598534) - [Don't Fall for AI: Reasons for Writers to Reject Slop](https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/)
 * [2025-07-17, 21:09:51](https://news.ycombinator.com/item?id=44598254) - [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 * [2025-07-17, 20:41:22](https://news.ycombinator.com/item?id=44597966) - [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
