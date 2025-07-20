@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-20, 21:05:19](https://news.ycombinator.com/item?id=44629299) - [Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/)
 * [2025-07-20, 20:51:41](https://news.ycombinator.com/item?id=44629206) - [FFmpeg devs boast of another 100x leap thanks to handwritten assembly code](https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code)
 * [2025-07-20, 20:43:16](https://news.ycombinator.com/item?id=44629134) - [Tough news for our UK users](https://blog.janitorai.com/posts/3/)
 * [2025-07-20, 20:18:54](https://news.ycombinator.com/item?id=44628930) - [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
@@ -28,7 +29,6 @@
 * [2025-07-17, 09:35:37](https://news.ycombinator.com/item?id=44591439) - [Jove (Jonathan's Own Version of Emacs)](https://en.wikipedia.org/wiki/JOVE)
 * [2025-07-17, 09:12:26](https://news.ycombinator.com/item?id=44591305) - [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
 * [2025-07-17, 05:37:50](https://news.ycombinator.com/item?id=44590034) - [Java was not underhyped in 1997 (2021)](https://dylanbeattie.net/2021/07/01/java-is-criminally-underhyped.html)
-* [2025-07-16, 15:25:30](https://news.ycombinator.com/item?id=44583316) - [Hungary's oldest library is fighting to save books from a beetle infestation](https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles)
 * [2025-07-16, 12:48:54](https://news.ycombinator.com/item?id=44581725) - [The Minecraft game score unexpectedly became big business for its composer](https://www.billboard.com/pro/how-minecraft-score-became-big-business-for-composer/)
 
 ## [Archives](archives/index.md)

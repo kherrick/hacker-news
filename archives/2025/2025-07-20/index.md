@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
 * [2025-07-20, 21:11:46](https://news.ycombinator.com/item?id=44629349) - [Show HN: A tool that generates nice photos for guys who dislike posing for pics](https://vibeflirting.com)
+* [2025-07-20, 21:05:19](https://news.ycombinator.com/item?id=44629299) - [Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/)
 * [2025-07-20, 20:51:41](https://news.ycombinator.com/item?id=44629206) - [FFmpeg devs boast of another 100x leap thanks to handwritten assembly code](https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code)
 * [2025-07-20, 20:43:16](https://news.ycombinator.com/item?id=44629134) - [Tough news for our UK users](https://blog.janitorai.com/posts/3/)
 * [2025-07-20, 20:35:36](https://news.ycombinator.com/item?id=44629074) - [EU commissioner shocked by dangers of some goods sold by Shein and Temu](https://www.theguardian.com/business/2025/jul/20/eu-commissioner-shocked-dangerous-goods-sold-shein-temu)
