@@ -8,4 +8,5 @@
 * [2025-07-20, 02:36:53](https://news.ycombinator.com/item?id=44621487) - [Borg - Deduplicating Archiver with Compression and Encryption](https://www.borgbackup.org/)
 * [2025-07-20, 02:02:44](https://news.ycombinator.com/item?id=44621268) - [Erythritol linked to brain cell damage and stroke risk](https://www.sciencedaily.com/releases/2025/07/250718035156.htm)
 * [2025-07-20, 01:33:47](https://news.ycombinator.com/item?id=44621119) - [Bill Banning One-Person Train Operation Would Lock NY Transit in the Past](https://www.etany.org/statements/impeding-progress-costing-riders-opto)
+* [2025-07-20, 01:28:35](https://news.ycombinator.com/item?id=44621088) - [The AGI Final Frontier: The CLJ-AGI Benchmark](https://raspasov.posthaven.com/the-agi-final-frontier-the-clj-agi-benchmark)
 * [2025-07-20, 00:25:47](https://news.ycombinator.com/item?id=44620774) - [Intel to boost gross margins – new products must deliver 50% gross profit](https://www.tomshardware.com/tech-industry/semiconductors/intel-draws-a-line-in-the-sand-to-boost-gross-margins-new-products-must-deliver-50-percent-to-get-the-green-light)
