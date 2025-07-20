@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-07-20, 17:13:58",
-      "https://news.ycombinator.com/item?id=44627185"
-    ],
-    [
-      "Master Foo and the Script Kiddie (1996)",
-      "https://soda.privatevoid.net/foo/arc/02.html"
-    ]
-  ],
-  [
-    [
       "2025-07-20, 17:11:43",
       "https://news.ycombinator.com/item?id=44627158"
     ],
@@ -217,6 +207,16 @@
     [
       "Async I/O on Linux in databases",
       "https://blog.canoozie.net/async-i-o-on-linux-and-durability/"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 11:48:39",
+      "https://news.ycombinator.com/item?id=44603657"
+    ],
+    [
+      "Why not to use iframes for embedded dashboards",
+      "https://embeddable.com/blog/iframes-for-embedding"
     ]
   ],
   [
