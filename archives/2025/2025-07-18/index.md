@@ -82,6 +82,7 @@
 * [2025-07-18, 04:05:54](https://news.ycombinator.com/item?id=44601096) - [Data on How America Sold Out Its Computer Science Graduates](https://ifspp.substack.com/p/data-on-how-america-sold-out-its)
 * [2025-07-18, 03:53:31](https://news.ycombinator.com/item?id=44601045) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
 * [2025-07-18, 03:49:50](https://news.ycombinator.com/item?id=44601023) - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
+* [2025-07-18, 03:26:36](https://news.ycombinator.com/item?id=44600899) - [Discovering what we think we know is wrong](https://www.science.org/content/blog-post/tell-me-again-about-neurons-now)
 * [2025-07-18, 02:27:43](https://news.ycombinator.com/item?id=44600594) - [NIH Is Far Cheaper Than the Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
 * [2025-07-18, 02:24:15](https://news.ycombinator.com/item?id=44600574) - [Fixing a Direct3D9 bug in Far Cry (2018)](https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/)
 * [2025-07-18, 02:14:33](https://news.ycombinator.com/item?id=44600512) - [USB-C hubs and my slow descent into madness (2021)](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
