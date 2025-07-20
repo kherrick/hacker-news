@@ -69,6 +69,7 @@
 * [2025-07-17, 07:26:22](https://news.ycombinator.com/item?id=44590671) - [\"Bypassing\" Specialization in Rust or How I Learned to Stop Worrying and Love F](https://oakchris1955.eu/posts/bypassing_specialization/)
 * [2025-07-17, 07:16:34](https://news.ycombinator.com/item?id=44590617) - [TikTok, AliExpress and WeChat ignore your GDPR rights](https://noyb.eu/en/how-tiktok-aliexpress-wechat-ignore-your-gdpr-rights)
 * [2025-07-17, 06:43:45](https://news.ycombinator.com/item?id=44590422) - [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)
+* [2025-07-17, 06:39:17](https://news.ycombinator.com/item?id=44590391) - [How to Run an Arduino for Years on a Battery](https://makecademy.com/arduino-battery)
 * [2025-07-17, 06:32:42](https://news.ycombinator.com/item?id=44590350) - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
 * [2025-07-17, 06:05:19](https://news.ycombinator.com/item?id=44590189) - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
 * [2025-07-17, 04:58:40](https://news.ycombinator.com/item?id=44589833) - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
