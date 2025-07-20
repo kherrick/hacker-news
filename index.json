@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-20, 10:42:18",
+      "https://news.ycombinator.com/item?id=44623801"
+    ],
+    [
+      "Genesis Protocol: The first communication protocol for digital life",
+      "https://genesis-protocol.org/"
+    ]
+  ],
+  [
+    [
       "2025-07-20, 09:33:48",
       "https://news.ycombinator.com/item?id=44623361"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=44623207"
     ],
     [
-      "Why I'm Betting Against AI Agents in 2025 (Despite Building Them)",
+      "I'm betting against AI agents in 2025, despite building them",
       "https://utkarshkanwat.com/writing/betting-against-agents/"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 08:17:13",
+      "https://news.ycombinator.com/item?id=44622999"
+    ],
+    [
+      "Robot metabolism: Toward machines that can grow by consuming other machines",
+      "https://www.science.org/doi/10.1126/sciadv.adu6897"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-07-17, 20:02:41",
-      "https://news.ycombinator.com/item?id=44597550"
-    ],
-    [
-      "How we tracked down a Go 1.24 memory regression",
-      "https://www.datadoghq.com/blog/engineering/go-memory-regression/"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 10:43:05",
       "https://news.ycombinator.com/item?id=44591775"
     ],
@@ -247,16 +257,6 @@
     [
       "Show HN: ggc – A terminal-based Git CLI written in Go",
       "https://github.com/bmf-san/ggc"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 14:21:20",
-      "https://news.ycombinator.com/item?id=44582694"
-    ],
-    [
-      "A Treatise for One Network – Anonymous National Deliberation [pdf]",
-      "https://simurgh-beau.github.io/"
     ]
   ],
   [
