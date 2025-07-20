@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 15:51:44](https://news.ycombinator.com/item?id=44626363) - [Speeding Up My ZSH Shell](https://scottspence.com/posts/speeding-up-my-zsh-shell)
 * [2025-07-20, 15:29:07](https://news.ycombinator.com/item?id=44626107) - [The landlord gutting America’s hospitals](https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/)
 * [2025-07-20, 15:08:02](https://news.ycombinator.com/item?id=44625897) - [When is it the best time to post on Show HN?](https://www.myriade.ai/blogs/when-is-it-the-best-time-to-post-on-show-hn)
 * [2025-07-20, 14:45:55](https://news.ycombinator.com/item?id=44625681) - [Group Behind Steam Censorship Policies Have Powerful Allies](https://web.archive.org/web/20250719204151/https://www.vice.com/en/article/group-behind-steam-censorship-policies-have-powerful-allies-and-targeted-popular-games-with-outlandish-claims/)
