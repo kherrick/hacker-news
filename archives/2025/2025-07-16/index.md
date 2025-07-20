@@ -41,6 +41,7 @@
 * [2025-07-16, 11:42:17](https://news.ycombinator.com/item?id=44581098) - [Show HN: DataRamen, a Fast SQL Explorer with Automatic Joins and Data Navigation](https://dataramen.xyz/)
 * [2025-07-16, 11:20:07](https://news.ycombinator.com/item?id=44580941) - [Fibonacci(50) as a Fractal Sequence Diagram](https://app.ilograph.com/demo.ilograph.Fibonacci%2520Sequence/Fib(50))
 * [2025-07-16, 10:37:08](https://news.ycombinator.com/item?id=44580682) - [Linux Reaches 5% Desktop Market Share in USA](https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/)
+* [2025-07-16, 10:14:42](https://news.ycombinator.com/item?id=44580567) - [I tried Vibe coding in BASIC and it didn't go well](https://www.goto10retro.com/p/vibe-coding-in-basic)
 * [2025-07-16, 09:15:28](https://news.ycombinator.com/item?id=44580257) - [AWS open-sourced Postgres active-active replication extension](https://github.com/aws/pgactive)
 * [2025-07-16, 08:18:34](https://news.ycombinator.com/item?id=44579902) - [Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer](https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/)
 * [2025-07-16, 07:44:32](https://news.ycombinator.com/item?id=44579717) - [I'm Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)

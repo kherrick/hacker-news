@@ -66,6 +66,7 @@
 * [2025-07-17, 09:36:58](https://news.ycombinator.com/item?id=44591445) - [FOSS4G Europe 2025 Live Streaming](https://2025.europe.foss4g.org/livestream/)
 * [2025-07-17, 08:34:40](https://news.ycombinator.com/item?id=44591062) - [Open, free, and ignored: the afterlife of Symbian](https://www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/)
 * [2025-07-17, 07:27:42](https://news.ycombinator.com/item?id=44590678) - [NINA: Rebuilding the original AIM, AOL Desktop, Yahoo and ICQ platforms](https://nina.chat/)
+* [2025-07-17, 07:26:22](https://news.ycombinator.com/item?id=44590671) - [\"Bypassing\" Specialization in Rust or How I Learned to Stop Worrying and Love F](https://oakchris1955.eu/posts/bypassing_specialization/)
 * [2025-07-17, 07:16:34](https://news.ycombinator.com/item?id=44590617) - [TikTok, AliExpress and WeChat ignore your GDPR rights](https://noyb.eu/en/how-tiktok-aliexpress-wechat-ignore-your-gdpr-rights)
 * [2025-07-17, 06:43:45](https://news.ycombinator.com/item?id=44590422) - [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)
 * [2025-07-17, 06:32:42](https://news.ycombinator.com/item?id=44590350) - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
