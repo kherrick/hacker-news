@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 18:22:01](https://news.ycombinator.com/item?id=44627828) - [Payment processors' bar on Japanese adult content endangers democracy (2024)](https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/)
+* [2025-07-20, 18:21:53](https://news.ycombinator.com/item?id=44627827) - [Mysterious Antimatter Physics Discovered at the Large Hadron Collider](https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/)
+* [2025-07-20, 18:13:42](https://news.ycombinator.com/item?id=44627746) - [Amazon's Emissions Climbed 6% in 2024 on Data Center Buildout](https://www.datacenterknowledge.com/sustainability/amazon-s-emissions-climbed-6-in-2024-on-data-center-buildout)
+* [2025-07-20, 17:57:44](https://news.ycombinator.com/item?id=44627590) - [QuakeNotch, Quake Terminal on your MacBook's notch](https://quakenotch.com)
 * [2025-07-20, 17:42:16](https://news.ycombinator.com/item?id=44627443) - [Rising Graduate Joblessness Is Mainly Affecting Men](https://www.edwardconard.com/macro-roundup/the-unemployment-rate-for-recent-male-college-graduates-22-27-has-risen-from-5-to-7-recent-male-graduates-are-now-unemployed-at-the-same-rate-as-their-non-graduate-counterparts/?view=detail)
 * [2025-07-20, 17:33:46](https://news.ycombinator.com/item?id=44627358) - [Adblockers stop publishers serving ads to (or even seeing) 1B web users](https://pressgazette.co.uk/marketing/adblockers-stop-publishers-serving-ads-to-or-even-seeing-1bn-web-users/)
 * [2025-07-20, 17:16:36](https://news.ycombinator.com/item?id=44627211) - [Hacking a Toniebox](https://www.schafe-sind-bessere-rasenmaeher.de/tech/hack-all-the-things-toniebox/)
