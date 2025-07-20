@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 12:14:52](https://news.ycombinator.com/item?id=44624454) - [Scientists reveal a widespread but unidentified psychological phenomenon](https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/)
+* [2025-07-20, 11:04:02](https://news.ycombinator.com/item?id=44623953) - [Coding with LLMs in the summer of 2025 (an update)](https://antirez.com/news/154)
 * [2025-07-20, 10:42:18](https://news.ycombinator.com/item?id=44623801) - [Genesis Protocol: The first communication protocol for digital life](https://genesis-protocol.org/)
 * [2025-07-20, 10:11:22](https://news.ycombinator.com/item?id=44623581) - [A Tour of Microsoft's Mac Lab](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
 * [2025-07-20, 09:33:48](https://news.ycombinator.com/item?id=44623361) - [AI is killing the web. Can anything save it?](https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it)
@@ -11,6 +13,7 @@
 * [2025-07-20, 08:26:20](https://news.ycombinator.com/item?id=44623036) - [“I noticed a clear violation of our contributing guidelines”](https://github.com/antiwork/flexile/pull/427#issuecomment-3079688548)
 * [2025-07-20, 08:26:20](https://news.ycombinator.com/item?id=44623036) - [Bot: \"I noticed a violation of our guidelines for pull request comments\"](https://github.com/antiwork/flexile/pull/427)
 * [2025-07-20, 08:17:13](https://news.ycombinator.com/item?id=44622999) - [Robot metabolism: Toward machines that can grow by consuming other machines](https://www.science.org/doi/10.1126/sciadv.adu6897)
+* [2025-07-20, 08:13:15](https://news.ycombinator.com/item?id=44622973) - [Terence Tao: A human metaphor for evaluating AI capability](https://mathstodon.xyz/@tao/114881418225852441)
 * [2025-07-20, 08:10:51](https://news.ycombinator.com/item?id=44622953) - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
 * [2025-07-20, 07:22:13](https://news.ycombinator.com/item?id=44622725) - [Replit goes rogue and deletes our entire database](https://twitter.com/jasonlk/status/1946069562723897802)
 * [2025-07-20, 06:56:01](https://news.ycombinator.com/item?id=44622608) - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
