@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-20, 17:42:16](https://news.ycombinator.com/item?id=44627443) - [Rising Graduate Joblessness Is Mainly Affecting Men](https://www.edwardconard.com/macro-roundup/the-unemployment-rate-for-recent-male-college-graduates-22-27-has-risen-from-5-to-7-recent-male-graduates-are-now-unemployed-at-the-same-rate-as-their-non-graduate-counterparts/?view=detail)
+* [2025-07-20, 17:33:46](https://news.ycombinator.com/item?id=44627358) - [Adblockers stop publishers serving ads to (or even seeing) 1B web users](https://pressgazette.co.uk/marketing/adblockers-stop-publishers-serving-ads-to-or-even-seeing-1bn-web-users/)
 * [2025-07-20, 17:16:36](https://news.ycombinator.com/item?id=44627211) - [Hacking a Toniebox](https://www.schafe-sind-bessere-rasenmaeher.de/tech/hack-all-the-things-toniebox/)
 * [2025-07-20, 17:13:58](https://news.ycombinator.com/item?id=44627185) - [Master Foo and the Script Kiddie](https://soda.privatevoid.net/foo/arc/02.html)
+* [2025-07-20, 17:11:43](https://news.ycombinator.com/item?id=44627158) - [Insights on Teufel's First Open-Source Speaker](https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/)
+* [2025-07-20, 16:33:46](https://news.ycombinator.com/item?id=44626789) - [\"The Bitter Lesson\" is wrong. Well sort of](https://assaf-pinhasi.medium.com/the-bitter-lesson-is-wrong-sort-of-a3d021864924)
 * [2025-07-20, 15:51:44](https://news.ycombinator.com/item?id=44626363) - [Speeding Up My ZSH Shell](https://scottspence.com/posts/speeding-up-my-zsh-shell)
-* [2025-07-20, 15:29:07](https://news.ycombinator.com/item?id=44626107) - [The landlord gutting America’s hospitals](https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/)
 * [2025-07-20, 14:11:26](https://news.ycombinator.com/item?id=44625360) - [The old Caveman Chemistry website (1996-2000)](https://cavemanchemistry.com/oldcave/)
 * [2025-07-20, 14:03:39](https://news.ycombinator.com/item?id=44625292) - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 * [2025-07-20, 11:26:09](https://news.ycombinator.com/item?id=44624114) - [Digital vassals? French Government 'exposes citizens' data to US'](https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/)
@@ -23,13 +26,10 @@
 * [2025-07-18, 00:54:27](https://news.ycombinator.com/item?id=44600043) - [Laminar Flow Airfoil](http://www.aviation-history.com/theory/lam-flow.htm)
 * [2025-07-17, 20:20:58](https://news.ycombinator.com/item?id=44597727) - [Behind the ballistics of the 'explosive' squirting cucumber](https://phys.org/news/2025-07-ballistics-explosive-squirting-cucumber.html)
 * [2025-07-17, 15:43:04](https://news.ycombinator.com/item?id=44594584) - [Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once](https://conductor.build/)
-* [2025-07-17, 10:43:05](https://news.ycombinator.com/item?id=44591775) - [Mushroom learns to crawl after being given robot body (2024)](https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html)
-* [2025-07-17, 06:39:17](https://news.ycombinator.com/item?id=44590391) - [How to run an Arduino for years on a battery (2021)](https://makecademy.com/arduino-battery)
-* [2025-07-17, 00:27:58](https://news.ycombinator.com/item?id=44588388) - [Dual interfacial H-bonding-enhanced deep-blue hybrid copper–iodide LEDs](https://www.researchsquare.com/article/rs-4114691/v1)
+* [2025-07-17, 02:19:09](https://news.ycombinator.com/item?id=44589064) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 * [2025-07-16, 15:25:30](https://news.ycombinator.com/item?id=44583316) - [Hungary's oldest library is fighting to save books from a beetle infestation](https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles)
 * [2025-07-16, 14:25:42](https://news.ycombinator.com/item?id=44582730) - [Show HN: ggc – A terminal-based Git CLI written in Go](https://github.com/bmf-san/ggc)
 * [2025-07-16, 12:48:54](https://news.ycombinator.com/item?id=44581725) - [How the 'Minecraft' Score Became Big Business for Its Composer](https://www.billboard.com/pro/how-minecraft-score-became-big-business-for-composer/)
-* [2025-07-16, 10:14:42](https://news.ycombinator.com/item?id=44580567) - [I tried vibe coding in BASIC and it didn't go well](https://www.goto10retro.com/p/vibe-coding-in-basic)
 
 ## [Archives](archives/index.md)
 

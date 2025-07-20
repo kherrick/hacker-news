@@ -80,6 +80,7 @@
 * [2025-07-17, 05:37:50](https://news.ycombinator.com/item?id=44590034) - [Java was not underhyped in 1997 (2021)](https://dylanbeattie.net/2021/07/01/java-is-criminally-underhyped.html)
 * [2025-07-17, 04:58:40](https://news.ycombinator.com/item?id=44589833) - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
 * [2025-07-17, 03:22:53](https://news.ycombinator.com/item?id=44589384) - [Original Xbox Hacks: The A20 CPU Gate](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
+* [2025-07-17, 02:19:09](https://news.ycombinator.com/item?id=44589064) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 * [2025-07-17, 01:12:33](https://news.ycombinator.com/item?id=44588699) - [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
 * [2025-07-17, 00:43:54](https://news.ycombinator.com/item?id=44588492) - [Onlycats](https://onlycats.gg/)
 * [2025-07-17, 00:43:41](https://news.ycombinator.com/item?id=44588491) - [\"Reading Rainbow\" Was Created to Combat Summer Reading Slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)

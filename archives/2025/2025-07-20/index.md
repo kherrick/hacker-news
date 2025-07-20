@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 17:42:16](https://news.ycombinator.com/item?id=44627443) - [Rising Graduate Joblessness Is Mainly Affecting Men](https://www.edwardconard.com/macro-roundup/the-unemployment-rate-for-recent-male-college-graduates-22-27-has-risen-from-5-to-7-recent-male-graduates-are-now-unemployed-at-the-same-rate-as-their-non-graduate-counterparts/?view=detail)
+* [2025-07-20, 17:33:46](https://news.ycombinator.com/item?id=44627358) - [Adblockers stop publishers serving ads to (or even seeing) 1B web users](https://pressgazette.co.uk/marketing/adblockers-stop-publishers-serving-ads-to-or-even-seeing-1bn-web-users/)
 * [2025-07-20, 17:16:36](https://news.ycombinator.com/item?id=44627211) - [Hacking a Toniebox](https://www.schafe-sind-bessere-rasenmaeher.de/tech/hack-all-the-things-toniebox/)
 * [2025-07-20, 17:13:58](https://news.ycombinator.com/item?id=44627185) - [Master Foo and the Script Kiddie](https://soda.privatevoid.net/foo/arc/02.html)
+* [2025-07-20, 17:11:43](https://news.ycombinator.com/item?id=44627158) - [Insights on Teufel's First Open-Source Speaker](https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/)
+* [2025-07-20, 16:33:46](https://news.ycombinator.com/item?id=44626789) - [\"The Bitter Lesson\" is wrong. Well sort of](https://assaf-pinhasi.medium.com/the-bitter-lesson-is-wrong-sort-of-a3d021864924)
 * [2025-07-20, 15:51:44](https://news.ycombinator.com/item?id=44626363) - [Speeding Up My ZSH Shell](https://scottspence.com/posts/speeding-up-my-zsh-shell)
 * [2025-07-20, 15:29:07](https://news.ycombinator.com/item?id=44626107) - [The landlord gutting America’s hospitals](https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/)
 * [2025-07-20, 15:08:02](https://news.ycombinator.com/item?id=44625897) - [When is it the best time to post on Show HN?](https://www.myriade.ai/blogs/when-is-it-the-best-time-to-post-on-show-hn)
