@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
 * [2025-07-20, 10:42:18](https://news.ycombinator.com/item?id=44623801) - [Genesis Protocol: The first communication protocol for digital life](https://genesis-protocol.org/)
+* [2025-07-20, 10:11:22](https://news.ycombinator.com/item?id=44623581) - [A Tour of Microsoft's Mac Lab](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
 * [2025-07-20, 09:33:48](https://news.ycombinator.com/item?id=44623361) - [AI is killing the web. Can anything save it?](https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it)
 * [2025-07-20, 08:59:19](https://news.ycombinator.com/item?id=44623207) - [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/)
 * [2025-07-20, 08:26:20](https://news.ycombinator.com/item?id=44623036) - [“I noticed a clear violation of our contributing guidelines”](https://github.com/antiwork/flexile/pull/427#issuecomment-3079688548)
