@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 21:36:08](https://news.ycombinator.com/item?id=44629529) - [Australia Wants to See Your Papers Before You Press Play](https://reclaimthenet.org/australia-wants-to-see-your-papers-before-you-press-play)
 * [2025-07-20, 21:11:46](https://news.ycombinator.com/item?id=44629349) - [Show HN: A tool that generates nice photos for guys who dislike posing for pics](https://vibeflirting.com)
 * [2025-07-20, 21:05:19](https://news.ycombinator.com/item?id=44629299) - [Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/)
 * [2025-07-20, 20:51:41](https://news.ycombinator.com/item?id=44629206) - [FFmpeg devs boast of another 100x leap thanks to handwritten assembly code](https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code)

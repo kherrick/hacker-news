@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-20, 21:36:08](https://news.ycombinator.com/item?id=44629529) - [Australia Wants to See Your Papers Before You Press Play](https://reclaimthenet.org/australia-wants-to-see-your-papers-before-you-press-play)
 * [2025-07-20, 21:05:19](https://news.ycombinator.com/item?id=44629299) - [Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/)
 * [2025-07-20, 20:51:41](https://news.ycombinator.com/item?id=44629206) - [FFmpeg devs boast of another 100x leap thanks to handwritten assembly code](https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code)
 * [2025-07-20, 20:43:16](https://news.ycombinator.com/item?id=44629134) - [Tough news for our UK users](https://blog.janitorai.com/posts/3/)
@@ -22,7 +23,6 @@
 * [2025-07-20, 06:56:01](https://news.ycombinator.com/item?id=44622608) - [LLM architecture comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 * [2025-07-20, 06:20:02](https://news.ycombinator.com/item?id=44622454) - [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
 * [2025-07-18, 03:26:36](https://news.ycombinator.com/item?id=44600899) - [Discovering what we think we know is wrong](https://www.science.org/content/blog-post/tell-me-again-about-neurons-now)
-* [2025-07-18, 00:54:27](https://news.ycombinator.com/item?id=44600043) - [Laminar Flow Airfoil](http://www.aviation-history.com/theory/lam-flow.htm)
 * [2025-07-17, 21:43:23](https://news.ycombinator.com/item?id=44598578) - [What My Mother Didn't Talk About (2020)](https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak)
 * [2025-07-17, 16:01:17](https://news.ycombinator.com/item?id=44594808) - [New colors without shooting lasers into your eyes](https://dynomight.net/colors/)
 * [2025-07-17, 15:43:04](https://news.ycombinator.com/item?id=44594584) - [Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once](https://conductor.build/)
