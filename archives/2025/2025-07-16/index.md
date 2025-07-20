@@ -36,6 +36,7 @@
 * [2025-07-16, 15:11:54](https://news.ycombinator.com/item?id=44583171) - [Altermagnets: The first new type of magnet in nearly a century](https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
 * [2025-07-16, 14:55:31](https://news.ycombinator.com/item?id=44583014) - [Show HN: I gave Claude a sundial and it built a calendar](https://github.com/jlumbroso/passage-of-time-mcp)
 * [2025-07-16, 14:39:55](https://news.ycombinator.com/item?id=44582855) - [Chain of thought monitorability: A new and fragile opportunity for AI safety](https://arxiv.org/abs/2507.11473)
+* [2025-07-16, 14:21:20](https://news.ycombinator.com/item?id=44582694) - [A Treatise for One Network – Anonymous National Deliberation [pdf]](https://simurgh-beau.github.io/)
 * [2025-07-16, 14:17:54](https://news.ycombinator.com/item?id=44582662) - [Show HN: Improving RAG with Chess Elo Scores? (YC W25)](https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores)
 * [2025-07-16, 13:46:28](https://news.ycombinator.com/item?id=44582349) - [Denver's Deepest Dinosaur](https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur)
 * [2025-07-16, 12:39:51](https://news.ycombinator.com/item?id=44581631) - [Cppyy: Automatic Python-C++ Bindings](https://cppyy.readthedocs.io/en/latest/)
