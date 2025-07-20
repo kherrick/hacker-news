@@ -6,7 +6,6 @@
 * [2025-07-20, 20:18:54](https://news.ycombinator.com/item?id=44628930) - [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
 * [2025-07-20, 18:46:14](https://news.ycombinator.com/item?id=44628082) - [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
 * [2025-07-20, 18:22:01](https://news.ycombinator.com/item?id=44627828) - [Payment processors' bar on Japanese adult content endangers democracy (2024)](https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/)
-* [2025-07-20, 18:21:53](https://news.ycombinator.com/item?id=44627827) - [New Antimatter Physics Discovered at the Large Hadron Collider](https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/)
 * [2025-07-20, 18:18:40](https://news.ycombinator.com/item?id=44627793) - [Stdio(3) change: FILE is now opaque (OpenBSD)](https://undeadly.org/cgi?action=article;sid=20250717103345)
 * [2025-07-20, 17:57:44](https://news.ycombinator.com/item?id=44627590) - [QuakeNotch: Quake Terminal on your MacBook's notch](https://quakenotch.com)
 * [2025-07-20, 17:16:36](https://news.ycombinator.com/item?id=44627211) - [Hacking a Toniebox](https://www.schafe-sind-bessere-rasenmaeher.de/tech/hack-all-the-things-toniebox/)
@@ -29,6 +28,7 @@
 * [2025-07-17, 15:43:04](https://news.ycombinator.com/item?id=44594584) - [Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once](https://conductor.build/)
 * [2025-07-17, 09:35:37](https://news.ycombinator.com/item?id=44591439) - [Jove (Jonathan's Own Version of Emacs)](https://en.wikipedia.org/wiki/JOVE)
 * [2025-07-17, 09:12:26](https://news.ycombinator.com/item?id=44591305) - [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
+* [2025-07-16, 15:25:30](https://news.ycombinator.com/item?id=44583316) - [Hungary's oldest library is fighting to save books from a beetle infestation](https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles)
 * [2025-07-16, 12:48:54](https://news.ycombinator.com/item?id=44581725) - [The Minecraft game score unexpectedly became big business for its composer](https://www.billboard.com/pro/how-minecraft-score-became-big-business-for-composer/)
 
 ## [Archives](archives/index.md)
