@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-20, 20:18:54](https://news.ycombinator.com/item?id=44628930) - [Staying Cool Without Refrigerants: Samsung Is Pioneering Peltier Cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
+* [2025-07-20, 20:18:54](https://news.ycombinator.com/item?id=44628930) - [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
 * [2025-07-20, 18:46:14](https://news.ycombinator.com/item?id=44628082) - [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
 * [2025-07-20, 18:43:35](https://news.ycombinator.com/item?id=44628060) - [Allentown man said to have died in ICE custody is alive in Guatemala](https://www.mcall.com/2025/07/18/luis-leon-allentown-grandfather-ice-guatemala/)
 * [2025-07-20, 18:22:01](https://news.ycombinator.com/item?id=44627828) - [Payment processors' bar on Japanese adult content endangers democracy (2024)](https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/)
@@ -9,7 +9,7 @@
 * [2025-07-20, 18:13:42](https://news.ycombinator.com/item?id=44627746) - [Amazon's Emissions Climbed 6% in 2024 on Data Center Buildout](https://www.datacenterknowledge.com/sustainability/amazon-s-emissions-climbed-6-in-2024-on-data-center-buildout)
 * [2025-07-20, 17:57:44](https://news.ycombinator.com/item?id=44627590) - [QuakeNotch: Quake Terminal on your MacBook's notch](https://quakenotch.com)
 * [2025-07-20, 17:16:36](https://news.ycombinator.com/item?id=44627211) - [Hacking a Toniebox](https://www.schafe-sind-bessere-rasenmaeher.de/tech/hack-all-the-things-toniebox/)
-* [2025-07-20, 17:13:58](https://news.ycombinator.com/item?id=44627185) - [Master Foo and the Script Kiddie](https://soda.privatevoid.net/foo/arc/02.html)
+* [2025-07-20, 17:13:58](https://news.ycombinator.com/item?id=44627185) - [Master Foo and the Script Kiddie (1996)](https://soda.privatevoid.net/foo/arc/02.html)
 * [2025-07-20, 17:11:43](https://news.ycombinator.com/item?id=44627158) - [Insights on Teufel's First Open-Source Speaker](https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/)
 * [2025-07-20, 16:33:46](https://news.ycombinator.com/item?id=44626789) - [\"The Bitter Lesson\" is wrong. Well sort of](https://assaf-pinhasi.medium.com/the-bitter-lesson-is-wrong-sort-of-a3d021864924)
 * [2025-07-20, 15:51:44](https://news.ycombinator.com/item?id=44626363) - [Speeding Up My ZSH Shell](https://scottspence.com/posts/speeding-up-my-zsh-shell)
