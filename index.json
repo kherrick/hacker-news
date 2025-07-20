@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-20, 12:14:52",
+      "https://news.ycombinator.com/item?id=44624454"
+    ],
+    [
+      "Scientists reveal a widespread but unidentified psychological phenomenon",
+      "https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 11:04:02",
+      "https://news.ycombinator.com/item?id=44623953"
+    ],
+    [
+      "Coding with LLMs in the summer of 2025 (an update)",
+      "https://antirez.com/news/154"
+    ]
+  ],
+  [
+    [
       "2025-07-20, 10:11:22",
       "https://news.ycombinator.com/item?id=44623581"
     ],
     [
-      "A Tour of Microsoft's Mac Lab",
+      "A Tour of Microsoft's Mac Lab (2006)",
       "https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 08:59:19",
+      "https://news.ycombinator.com/item?id=44623207"
+    ],
+    [
+      "I'm betting against AI agents, despite building them",
+      "https://utkarshkanwat.com/writing/betting-against-agents/"
     ]
   ],
   [
@@ -17,6 +47,16 @@
     [
       "Robot metabolism: Toward machines that can grow by consuming other machines",
       "https://www.science.org/doi/10.1126/sciadv.adu6897"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 08:13:15",
+      "https://news.ycombinator.com/item?id=44622973"
+    ],
+    [
+      "Terence Tao: A human metaphor for evaluating AI capability",
+      "https://mathstodon.xyz/@tao/114881418225852441"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2025-07-19, 19:27:50",
-      "https://news.ycombinator.com/item?id=44618535"
-    ],
-    [
-      "The borrowchecker is what I like the least about Rust",
-      "https://viralinstruction.com/posts/borrowchecker/"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 16:58:42",
       "https://news.ycombinator.com/item?id=44617184"
     ],
@@ -137,16 +167,6 @@
     [
       "Local LLMs versus offline Wikipedia",
       "https://evanhahn.com/local-llms-versus-offline-wikipedia/"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 16:15:17",
-      "https://news.ycombinator.com/item?id=44616760"
-    ],
-    [
-      "The curious case of the Unix workstation layout",
-      "https://thejpster.org.uk/blog/blog-2025-07-19/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-07-17, 20:02:41",
-      "https://news.ycombinator.com/item?id=44597550"
-    ],
-    [
-      "How we tracked down a Go 1.24 memory regression",
-      "https://www.datadoghq.com/blog/engineering/go-memory-regression/"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 10:43:05",
       "https://news.ycombinator.com/item?id=44591775"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-07-17, 07:26:22",
-      "https://news.ycombinator.com/item?id=44590671"
+      "2025-07-17, 07:51:49",
+      "https://news.ycombinator.com/item?id=44590795"
     ],
     [
-      "“Bypassing” specialization in Rust",
-      "https://oakchris1955.eu/posts/bypassing_specialization/"
+      "The Secrets We Keep",
+      "https://blog.bl00cyb.org/2025/07/the-secrets-we-keep/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What were the earliest laws like?",
       "https://worldhistory.substack.com/p/what-were-the-earliest-laws-really"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 21:50:17",
-      "https://news.ycombinator.com/item?id=44576183"
-    ],
-    [
-      "Piano Keys",
-      "https://www.mathpages.com/home/kmath043.htm"
     ]
   ]
 ]
