@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 09:33:48](https://news.ycombinator.com/item?id=44623361) - [AI is killing the web. Can anything save it?](https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it)
+* [2025-07-20, 08:59:19](https://news.ycombinator.com/item?id=44623207) - [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/)
 * [2025-07-20, 08:26:20](https://news.ycombinator.com/item?id=44623036) - [“I noticed a clear violation of our contributing guidelines”](https://github.com/antiwork/flexile/pull/427#issuecomment-3079688548)
 * [2025-07-20, 08:26:20](https://news.ycombinator.com/item?id=44623036) - [Bot: \"I noticed a violation of our guidelines for pull request comments\"](https://github.com/antiwork/flexile/pull/427)
 * [2025-07-20, 08:10:51](https://news.ycombinator.com/item?id=44622953) - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
