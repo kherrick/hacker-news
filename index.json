@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-20, 17:16:36",
+      "https://news.ycombinator.com/item?id=44627211"
+    ],
+    [
+      "Hacking a Toniebox",
+      "https://www.schafe-sind-bessere-rasenmaeher.de/tech/hack-all-the-things-toniebox/"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 17:13:58",
+      "https://news.ycombinator.com/item?id=44627185"
+    ],
+    [
+      "Master Foo and the Script Kiddie",
+      "https://soda.privatevoid.net/foo/arc/02.html"
+    ]
+  ],
+  [
+    [
       "2025-07-20, 15:51:44",
       "https://news.ycombinator.com/item?id=44626363"
     ],
@@ -37,16 +57,6 @@
     [
       "XMLUI",
       "https://blog.jonudell.net/2025/07/18/introducing-xmlui/"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 13:42:05",
-      "https://news.ycombinator.com/item?id=44625119"
-    ],
-    [
-      "Replit AI deletes entire database during code freeze, then lies about it",
-      "https://twitter.com/jasonlk/status/1946069562723897802"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44623207"
     ],
     [
-      "I'm betting against AI agents, despite building them",
+      "The current hype around autonomous agents, and what actually works in production",
       "https://utkarshkanwat.com/writing/betting-against-agents/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once",
       "https://conductor.build/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 10:43:05",
-      "https://news.ycombinator.com/item?id=44591775"
-    ],
-    [
-      "Mushroom learns to crawl after being given robot body (2024)",
-      "https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html"
     ]
   ],
   [
