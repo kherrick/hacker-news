@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-07-20, 03:14:26",
-      "https://news.ycombinator.com/item?id=44621675"
-    ],
-    [
-      "Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges",
-      "https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit"
-    ]
-  ],
-  [
-    [
       "2025-07-20, 02:36:53",
       "https://news.ycombinator.com/item?id=44621487"
     ],
@@ -187,6 +177,16 @@
     [
       "Death by AI",
       "https://davebarry.substack.com/p/death-by-ai"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 20:02:41",
+      "https://news.ycombinator.com/item?id=44597550"
+    ],
+    [
+      "How we tracked down a Go 1.24 memory regression",
+      "https://www.datadoghq.com/blog/engineering/go-memory-regression/"
     ]
   ],
   [
