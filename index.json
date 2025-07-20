@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-20, 02:02:44",
+      "https://news.ycombinator.com/item?id=44621268"
+    ],
+    [
+      "Erythritol linked to brain cell damage and stroke risk",
+      "https://www.sciencedaily.com/releases/2025/07/250718035156.htm"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 01:33:47",
+      "https://news.ycombinator.com/item?id=44621119"
+    ],
+    [
+      "Bill Banning One-Person Train Operation Would Lock NY Transit in the Past",
+      "https://www.etany.org/statements/impeding-progress-costing-riders-opto"
+    ]
+  ],
+  [
+    [
       "2025-07-20, 00:25:47",
       "https://news.ycombinator.com/item?id=44620774"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-07-19, 12:00:23",
-      "https://news.ycombinator.com/item?id=44614788"
-    ],
-    [
-      "Piramidal (YC W24) is hiring a full stack engineer",
-      "https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 10:52:35",
       "https://news.ycombinator.com/item?id=44614370"
     ],
@@ -167,16 +177,6 @@
     [
       "OpenAI claims gold-medal performance at IMO 2025",
       "https://twitter.com/alexwei_/status/1946477742855532918"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 08:26:45",
-      "https://news.ycombinator.com/item?id=44613625"
-    ],
-    [
-      "A 14kb page can load much faster than a 15kb page (2022)",
-      "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-07-18, 03:53:31",
-      "https://news.ycombinator.com/item?id=44601045"
-    ],
-    [
-      "Linux and Secure Boot certificate expiration",
-      "https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 20:02:41",
       "https://news.ycombinator.com/item?id=44597550"
     ],
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2025-07-17, 14:08:17",
-      "https://news.ycombinator.com/item?id=44593628"
-    ],
-    [
-      "N78 band 5G NR recordings",
-      "https://destevez.net/2025/07/n78-band-5g-nr-recordings/"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 10:43:05",
       "https://news.ycombinator.com/item?id=44591775"
     ],
     [
       "Mushroom learns to crawl after being given robot body (2024)",
       "https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 07:26:22",
+      "https://news.ycombinator.com/item?id=44590671"
+    ],
+    [
+      "\"Bypassing\" Specialization in Rust or How I Learned to Stop Worrying and Love F",
+      "https://oakchris1955.eu/posts/bypassing_specialization/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Hungary's oldest library is fighting to save books from a beetle infestation",
       "https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 10:14:42",
+      "https://news.ycombinator.com/item?id=44580567"
+    ],
+    [
+      "I tried Vibe coding in BASIC and it didn't go well",
+      "https://www.goto10retro.com/p/vibe-coding-in-basic"
     ]
   ],
   [
