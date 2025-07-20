@@ -38,6 +38,7 @@
 * [2025-07-17, 16:21:16](https://news.ycombinator.com/item?id=44595008) - [Molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)
 * [2025-07-17, 16:20:50](https://news.ycombinator.com/item?id=44595003) - [Ask HN: What are your current programming pet peeves?](https://news.ycombinator.com/item?id=44595003)
 * [2025-07-17, 15:59:54](https://news.ycombinator.com/item?id=44594790) - [Tell HN: Notion Desktop is monitoring your audio and network](https://news.ycombinator.com/item?id=44594790)
+* [2025-07-17, 15:43:04](https://news.ycombinator.com/item?id=44594584) - [Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once](https://conductor.build/)
 * [2025-07-17, 15:33:22](https://news.ycombinator.com/item?id=44594475) - [How I Use Kagi](https://flamedfury.com/posts/how-i-use-kagi/)
 * [2025-07-17, 15:25:57](https://news.ycombinator.com/item?id=44594389) - [You're not a founder, you're a gig worker](https://news.ycombinator.com/item?id=44594389)
 * [2025-07-17, 15:01:05](https://news.ycombinator.com/item?id=44594166) - [Show HN: A handpicked directory to help founders find great design studios](https://finddesignagency.com/)
