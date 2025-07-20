@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-20, 13:16:51](https://news.ycombinator.com/item?id=44624952) - [How Tesla is proving doubters right on why its robotaxi service cannot scale](https://www.aol.com/elon-gambling-tesla-proving-doubters-090300237.html)
+* [2025-07-20, 14:11:26](https://news.ycombinator.com/item?id=44625360) - [The old Caveman Chemistry website (1996-2000)](https://cavemanchemistry.com/oldcave/)
+* [2025-07-20, 14:03:39](https://news.ycombinator.com/item?id=44625292) - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 * [2025-07-20, 12:14:52](https://news.ycombinator.com/item?id=44624454) - [Scientists reveal a widespread but unidentified psychological phenomenon](https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/)
 * [2025-07-20, 11:26:09](https://news.ycombinator.com/item?id=44624114) - [Digital vassals? French Government 'exposes citizens' data to US'](https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/)
 * [2025-07-20, 11:04:02](https://news.ycombinator.com/item?id=44623953) - [Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154)
 * [2025-07-20, 10:11:22](https://news.ycombinator.com/item?id=44623581) - [A Tour of Microsoft's Mac Lab (2006)](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
 * [2025-07-20, 08:59:19](https://news.ycombinator.com/item?id=44623207) - [I'm betting against AI agents, despite building them](https://utkarshkanwat.com/writing/betting-against-agents/)
 * [2025-07-20, 08:17:13](https://news.ycombinator.com/item?id=44622999) - [Robot metabolism: Toward machines that can grow by consuming other machines](https://www.science.org/doi/10.1126/sciadv.adu6897)
-* [2025-07-20, 08:13:15](https://news.ycombinator.com/item?id=44622973) - [Terence Tao: A human metaphor for evaluating AI capability](https://mathstodon.xyz/@tao/114881418225852441)
+* [2025-07-20, 08:13:15](https://news.ycombinator.com/item?id=44622973) - [A human metaphor for evaluating AI capability](https://mathstodon.xyz/@tao/114881418225852441)
 * [2025-07-20, 08:10:51](https://news.ycombinator.com/item?id=44622953) - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
 * [2025-07-20, 06:56:01](https://news.ycombinator.com/item?id=44622608) - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 * [2025-07-20, 06:42:58](https://news.ycombinator.com/item?id=44622543) - [Roman Roads Research Association (UK)](https://www.romanroads.org/index.html)
@@ -29,7 +30,6 @@
 * [2025-07-16, 14:25:42](https://news.ycombinator.com/item?id=44582730) - [Show HN: ggc – A terminal-based Git CLI written in Go](https://github.com/bmf-san/ggc)
 * [2025-07-16, 12:48:54](https://news.ycombinator.com/item?id=44581725) - [How the 'Minecraft' Score Became Big Business for Its Composer](https://www.billboard.com/pro/how-minecraft-score-became-big-business-for-composer/)
 * [2025-07-16, 10:14:42](https://news.ycombinator.com/item?id=44580567) - [I tried vibe coding in BASIC and it didn't go well](https://www.goto10retro.com/p/vibe-coding-in-basic)
-* [2025-07-15, 23:55:55](https://news.ycombinator.com/item?id=44577210) - [What were the earliest laws like?](https://worldhistory.substack.com/p/what-were-the-earliest-laws-really)
 
 ## [Archives](archives/index.md)
 
