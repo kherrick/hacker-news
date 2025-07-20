@@ -19,6 +19,7 @@
 * [2025-07-16, 19:08:39](https://news.ycombinator.com/item?id=44585755) - [Intel's retreat is unlike anything it's done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
 * [2025-07-16, 18:43:35](https://news.ycombinator.com/item?id=44585543) - [Signs of Autism Could Be Encoded in the Way You Walk](https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk)
 * [2025-07-16, 18:38:45](https://news.ycombinator.com/item?id=44585495) - [PyPI Prohibits inbox.ru email domain registrations](https://blog.pypi.org/posts/2025-06-15-prohibiting-inbox-ru-emails/)
+* [2025-07-16, 18:25:14](https://news.ycombinator.com/item?id=44585370) - [Matterport walkthrough of the original Microsoft Building 3](https://my.matterport.com/show/?m=SZSV6vjcf4L)
 * [2025-07-16, 17:47:08](https://news.ycombinator.com/item?id=44585002) - [How and where will agents ship software?](https://www.instantdb.com/essays/agents)
 * [2025-07-16, 17:09:36](https://news.ycombinator.com/item?id=44584603) - [KDB-X: KX releases FREE Commercial KDB license](https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose)
 * [2025-07-16, 17:00:47](https://news.ycombinator.com/item?id=44584497) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
