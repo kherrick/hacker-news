@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-21, 09:45:10](https://news.ycombinator.com/item?id=44633373) - [Israeli forces launch ground assault in central Gaza for first time](https://www.bbc.com/news/live/cvg9ky87dpdt)
 * [2025-07-21, 07:20:55](https://news.ycombinator.com/item?id=44632575) - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 * [2025-07-21, 06:15:05](https://news.ycombinator.com/item?id=44632240) - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
 * [2025-07-21, 03:41:23](https://news.ycombinator.com/item?id=44631594) - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
@@ -28,7 +29,6 @@
 * [2025-07-17, 15:43:04](https://news.ycombinator.com/item?id=44594584) - [Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once](https://conductor.build/)
 * [2025-07-17, 15:34:29](https://news.ycombinator.com/item?id=44594486) - [How slow motion became cinema’s dominant special effect](https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime)
 * [2025-07-17, 12:51:28](https://news.ycombinator.com/item?id=44592797) - [Debugging Bash Like a Sire](https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/)
-* [2025-07-17, 09:35:37](https://news.ycombinator.com/item?id=44591439) - [JOVE – Jonathan’s Own Version of Emacs](https://github.com/jonmacs/jove/)
 * [2025-07-17, 09:12:26](https://news.ycombinator.com/item?id=44591305) - [Simulating hand-drawn motion with SVG filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
 
 ## [Archives](archives/index.md)
