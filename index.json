@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-21, 15:59:40",
+      "https://news.ycombinator.com/item?id=44636774"
+    ],
+    [
+      "Memory Efficiency in iOS: Reducing footprint and beyond",
+      "https://antongubarenko.substack.com/p/memory-efficiency-in-ios-reducing"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 15:54:03",
+      "https://news.ycombinator.com/item?id=44636691"
+    ],
+    [
+      "SecretSpec: Declarative Secrets Management",
+      "https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 15:31:21",
       "https://news.ycombinator.com/item?id=44636369"
     ],
@@ -107,16 +127,6 @@
     [
       "We made Postgres writes faster, but it broke replication",
       "https://www.paradedb.com/blog/lsm_trees_in_postgres"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 10:23:40",
-      "https://news.ycombinator.com/item?id=44633562"
-    ],
-    [
-      "NIH limits scientists to six applications per year",
-      "https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "New colors without shooting lasers into your eyes",
       "https://dynomight.net/colors/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 12:51:28",
-      "https://news.ycombinator.com/item?id=44592797"
-    ],
-    [
-      "Debugging Bash Like a Sire (2023)",
-      "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/"
     ]
   ],
   [
