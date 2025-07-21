@@ -54,6 +54,7 @@
 * [2025-07-18, 14:53:00](https://news.ycombinator.com/item?id=44605312) - [Ask HN: Where do you guys find audiobooks?](https://news.ycombinator.com/item?id=44605312)
 * [2025-07-18, 14:44:57](https://news.ycombinator.com/item?id=44605213) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44605213)
 * [2025-07-18, 14:41:19](https://news.ycombinator.com/item?id=44605171) - [The EU can be shut down with a few keystrokes](https://www.bitecode.dev/p/the-eu-can-be-shut-down-with-a-few)
+* [2025-07-18, 14:41:04](https://news.ycombinator.com/item?id=44605169) - [Hiding messages in a deck playing cards](https://asherfalcon.com/blog/posts/3)
 * [2025-07-18, 14:10:21](https://news.ycombinator.com/item?id=44604827) - [French villages have no more drinking water. The reason? PFAS pollution](https://www.lemonde.fr/en/environment/article/2025/07/18/these-french-villages-have-no-more-drinking-water-the-reason-pfas-pollution_6743479_114.html)
 * [2025-07-18, 14:08:12](https://news.ycombinator.com/item?id=44604808) - [Hexanitrogen Energies](https://www.science.org/content/blog-post/hexanitrogen-energies)
 * [2025-07-18, 14:05:27](https://news.ycombinator.com/item?id=44604775) - [An average human breathes out roughly 1kg of carbon dioxide a day](https://twitter.com/ID_AA_Carmack/status/1945948569246027934)
