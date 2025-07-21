@@ -62,6 +62,7 @@
 * [2025-07-18, 13:29:50](https://news.ycombinator.com/item?id=44604453) - [Exposing the Unseen: Mapping MCP Servers Across the Internet](https://www.knostic.ai/blog/mapping-mcp-servers-study)
 * [2025-07-18, 13:21:03](https://news.ycombinator.com/item?id=44604365) - [ACA health insurance will cost the average person 75% more next year](https://www.npr.org/sections/shots-health-news/2025/07/18/nx-s1-5471281/aca-health-insurance-premiums-obamacare-bbb-kff)
 * [2025-07-18, 13:15:50](https://news.ycombinator.com/item?id=44604328) - [NYPD Bypassed Facial Recognition Ban to ID Pro-Palestinian Student Protester](https://www.thecity.nyc/2025/07/18/nypd-fdny-clearview-ai-ban-columbia-palestinian-protest/)
+* [2025-07-18, 13:13:33](https://news.ycombinator.com/item?id=44604311) - [Using the Matrix Cores of AMD RDNA 4 Architecture GPUs](https://gpuopen.com/learn/using_matrix_core_amd_rdna4/)
 * [2025-07-18, 13:05:55](https://news.ycombinator.com/item?id=44604257) - [Ask HN: Any active COBOL devs here? What are you working on?](https://news.ycombinator.com/item?id=44604257)
 * [2025-07-18, 13:02:16](https://news.ycombinator.com/item?id=44604223) - [I Never Cared Much for Swords. Then I Had to Fight with One](https://thewalrus.ca/i-never-cared-much-for-swords-then-i-had-to-fight-with-one/)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://tangled.sh/@rockorager.dev/lsr)
