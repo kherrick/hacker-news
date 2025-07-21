@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 21:31:23](https://news.ycombinator.com/item?id=44640651) - [Spice Data (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
 * [2025-07-21, 20:48:50](https://news.ycombinator.com/item?id=44640233) - [In a Major Reversal, the World Bank Is Backing Mega Dams](https://e360.yale.edu/features/world-bank-hydro-dams)
 * [2025-07-21, 20:43:10](https://news.ycombinator.com/item?id=44640178) - [Jane Jacobs Got Americans Stuck](https://www.riskgaming.com/p/how-jane-jacobs-got-americans-stuck)
 * [2025-07-21, 20:23:40](https://news.ycombinator.com/item?id=44640005) - [The special hell of Bolt, Europe's Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app)
