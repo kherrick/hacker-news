@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 19:09:37](https://news.ycombinator.com/item?id=44639135) - [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
+* [2025-07-21, 18:52:26](https://news.ycombinator.com/item?id=44638948) - [I know genomes. Don't delete your DNA](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
 * [2025-07-21, 18:32:26](https://news.ycombinator.com/item?id=44638710) - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
+* [2025-07-21, 18:31:20](https://news.ycombinator.com/item?id=44638689) - [MIPS – The hyperactive history and legacy of the pioneering RISC architecture](https://thechipletter.substack.com/p/mips)
 * [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What Went Wrong Inside Recalled Anker PowerCore 10000 Power Banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
+* [2025-07-21, 18:16:10](https://news.ycombinator.com/item?id=44638510) - [Show HN: Lotas – Cursor for RStudio](https://www.lotas.ai/)
 * [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
 * [2025-07-21, 18:07:40](https://news.ycombinator.com/item?id=44638397) - [Work Life balance slows careers](https://www.pathtostaff.com/p/work-life-balance-slows-careers-e9)
 * [2025-07-21, 17:59:00](https://news.ycombinator.com/item?id=44638300) - [Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed](https://tedium.co/2025/07/21/the-game-genie-generation/)
