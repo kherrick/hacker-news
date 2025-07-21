@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-21, 21:31:23](https://news.ycombinator.com/item?id=44640651) - [Spice Data (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
-* [2025-07-21, 20:48:50](https://news.ycombinator.com/item?id=44640233) - [In a Major Reversal, the World Bank Is Backing Mega Dams](https://e360.yale.edu/features/world-bank-hydro-dams)
+* [2025-07-21, 20:48:50](https://news.ycombinator.com/item?id=44640233) - [In a major reversal, the world bank is backing mega dams (2024)](https://e360.yale.edu/features/world-bank-hydro-dams)
 * [2025-07-21, 20:43:10](https://news.ycombinator.com/item?id=44640178) - [Yoni Appelbaum on the real villians behind our housing and mobility problems](https://www.riskgaming.com/p/how-jane-jacobs-got-americans-stuck)
-* [2025-07-21, 20:17:08](https://news.ycombinator.com/item?id=44639949) - [Africa's gigantic $80B dam could transform entire continent](https://en.clickpetroleoegas.com.br/maior-que-a-barragem-tres-gargantas-da-china-o-gigantesco-megaprojeto-africano-de-us-80-bilhoes-que-pode-revolucionar-a-energia-e-transformar-um-continente-inteiro/)
 * [2025-07-21, 19:40:15](https://news.ycombinator.com/item?id=44639524) - [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
 * [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 * [2025-07-21, 19:09:37](https://news.ycombinator.com/item?id=44639135) - [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
@@ -12,6 +11,7 @@
 * [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What went wrong inside recalled Anker PowerCore 10000 power banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
 * [2025-07-21, 18:16:10](https://news.ycombinator.com/item?id=44638510) - [Show HN: Lotas – Cursor for RStudio](https://www.lotas.ai/)
 * [2025-07-21, 17:59:00](https://news.ycombinator.com/item?id=44638300) - [Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed](https://tedium.co/2025/07/21/the-game-genie-generation/)
+* [2025-07-21, 17:42:30](https://news.ycombinator.com/item?id=44638076) - [Show HN: Pogocache – Fast caching software](https://github.com/tidwall/pogocache)
 * [2025-07-21, 17:16:44](https://news.ycombinator.com/item?id=44637716) - [Jqfmt like gofmt, but for jq](https://github.com/noperator/jqfmt)
 * [2025-07-21, 17:16:41](https://news.ycombinator.com/item?id=44637715) - [Don't bother parsing: Just use images for RAG](https://www.morphik.ai/blog/stop-parsing-docs)
 * [2025-07-21, 17:01:06](https://news.ycombinator.com/item?id=44637523) - [Make Map Icons with Orthographic Projections](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/custom-orthographic-icons)
