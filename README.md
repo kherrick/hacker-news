@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
-* [2025-07-21, 19:09:37](https://news.ycombinator.com/item?id=44639135) - [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
 * [2025-07-21, 18:52:26](https://news.ycombinator.com/item?id=44638948) - [I know genomes. Don't delete your DNA](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
 * [2025-07-21, 18:32:26](https://news.ycombinator.com/item?id=44638710) - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
 * [2025-07-21, 18:31:20](https://news.ycombinator.com/item?id=44638689) - [MIPS – The hyperactive history and legacy of the pioneering RISC architecture](https://thechipletter.substack.com/p/mips)
@@ -25,11 +24,12 @@
 * [2025-07-21, 14:46:40](https://news.ycombinator.com/item?id=44635745) - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
 * [2025-07-21, 12:00:06](https://news.ycombinator.com/item?id=44634166) - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
 * [2025-07-21, 11:26:04](https://news.ycombinator.com/item?id=44633933) - [We made Postgres writes faster, but it broke replication](https://www.paradedb.com/blog/lsm_trees_in_postgres)
+* [2025-07-20, 21:58:06](https://news.ycombinator.com/item?id=44629710) - [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
 * [2025-07-19, 15:36:59](https://news.ycombinator.com/item?id=44616405) - [Writing your Clojure tests in EDN files](https://biffweb.com/p/edn-tests/)
 * [2025-07-19, 04:37:55](https://news.ycombinator.com/item?id=44612643) - [Amazon and the \"Profitless Business Model\" Fallacy](https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative)
 * [2025-07-18, 14:41:04](https://news.ycombinator.com/item?id=44605169) - [Hiding messages in a deck playing cards](https://asherfalcon.com/blog/posts/3)
 * [2025-07-18, 12:48:39](https://news.ycombinator.com/item?id=44604125) - [The Krull dimension of the semiring of natural numbers is equal to 2](https://freedommathdance.blogspot.com/2025/07/the-krull-dimension-of-natural-numbers.html)
-* [2025-07-18, 06:16:32](https://news.ycombinator.com/item?id=44601736) - [Improving End-to-End Tests to Reduce Flakiness: Tools and Strategies](https://blog.testresult.co/improving-end-to-end-tests-to-reduce-flakiness-tools-strategies/)
+* [2025-07-18, 11:09:07](https://news.ycombinator.com/item?id=44603349) - [“Dynamic programming” is not referring to “computer programming”](https://www.vidarholen.net/contents/blog/?p=1172)
 
 ## [Archives](archives/index.md)
 
