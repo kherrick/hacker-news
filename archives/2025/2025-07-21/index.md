@@ -6,6 +6,7 @@
 
 * [2025-07-21, 10:23:40](https://news.ycombinator.com/item?id=44633562) - [Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
 * [2025-07-21, 09:45:10](https://news.ycombinator.com/item?id=44633373) - [Israeli forces launch ground assault in central Gaza for first time](https://www.bbc.com/news/live/cvg9ky87dpdt)
+* [2025-07-21, 09:18:48](https://news.ycombinator.com/item?id=44633228) - [The Missing Guide to Prompt Engineering](https://appetals.com/promptguide/)
 * [2025-07-21, 07:20:55](https://news.ycombinator.com/item?id=44632575) - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 * [2025-07-21, 06:16:14](https://news.ycombinator.com/item?id=44632246) - [Why Some Satellites Use NetBSD?](https://machaddr.substack.com/p/why-some-satellites-use-netbsd)
 * [2025-07-21, 06:15:05](https://news.ycombinator.com/item?id=44632240) - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
