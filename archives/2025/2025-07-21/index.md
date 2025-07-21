@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
+* [2025-07-21, 17:59:00](https://news.ycombinator.com/item?id=44638300) - [Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed](https://tedium.co/2025/07/21/the-game-genie-generation/)
+* [2025-07-21, 17:42:30](https://news.ycombinator.com/item?id=44638076) - [Show HN: Pogocache – Fast caching software](https://github.com/tidwall/pogocache)
 * [2025-07-21, 17:24:40](https://news.ycombinator.com/item?id=44637815) - [Germany's Fairytale Castles Added to UNESCO's World Heritage List](https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/)
 * [2025-07-21, 17:16:44](https://news.ycombinator.com/item?id=44637716) - [Jqfmt like gofmt, but for jq](https://github.com/noperator/jqfmt)
 * [2025-07-21, 17:15:34](https://news.ycombinator.com/item?id=44637700) - [I deleted my entire social media presence before visiting the US – I'm a citizen](https://www.theregister.com/2025/07/21/column_social_media_entrapment/)
 * [2025-07-21, 17:01:06](https://news.ycombinator.com/item?id=44637523) - [Make Map Icons with Orthographic Projections](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/custom-orthographic-icons)
+* [2025-07-21, 16:56:36](https://news.ycombinator.com/item?id=44637464) - [Reverse Engineering the Mysterious Up-Data Link Test Set from Apollo](https://www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html)
 * [2025-07-21, 16:48:28](https://news.ycombinator.com/item?id=44637352) - [Accountant Simulator 2025](https://accounting.penrose.com/)
 * [2025-07-21, 16:42:42](https://news.ycombinator.com/item?id=44637286) - [The sadist assault on the 'Coldplay couple'](https://unherd.com/2025/07/the-sadist-assault-on-the-coldplay-couple/?us=1)
 * [2025-07-21, 16:36:13](https://news.ycombinator.com/item?id=44637191) - [Gemini with Deep Think officially achieves gold-medal standard at the IMO](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
