@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44630815"
     ],
     [
-      "iMessage integration in Claude can hijack the model to do anything",
+      "Claude Jailbroken to Mint Unlimited Stripe Coupons",
       "https://www.generalanalysis.com/blog/imessage-stripe-exploit"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44630724"
     ],
     [
-      "LLM Alloying Improves Performance over Single Model",
+      "Agents built from alloys",
       "https://xbow.com/blog/alloy-agents/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44630676"
     ],
     [
-      "Computational Complexity of Neural Networks",
+      "Computational complexity of neural networks (2022)",
       "https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/"
     ]
   ],
@@ -97,16 +97,6 @@
     [
       "FFmpeg devs boast of another 100x leap thanks to handwritten assembly code",
       "https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 20:43:16",
-      "https://news.ycombinator.com/item?id=44629134"
-    ],
-    [
-      "Tough news for our UK users",
-      "https://blog.janitorai.com/posts/3/"
     ]
   ],
   [
@@ -201,22 +191,22 @@
   ],
   [
     [
-      "2025-07-20, 09:33:48",
-      "https://news.ycombinator.com/item?id=44623361"
-    ],
-    [
-      "AI is killing the web – can anything save it?",
-      "https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 11:17:48",
       "https://news.ycombinator.com/item?id=44614510"
     ],
     [
       "SIOF (Scheme in One File) – A Minimal R7RS Scheme System",
       "https://github.com/false-schemers/siof"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 13:13:33",
+      "https://news.ycombinator.com/item?id=44604311"
+    ],
+    [
+      "Using the Matrix Cores of AMD RDNA 4 Architecture GPUs",
+      "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
+      "2025-07-17, 15:34:29",
+      "https://news.ycombinator.com/item?id=44594486"
+    ],
+    [
+      "Slow Motion Became Cinema's Dominant Special Effect",
+      "https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 09:35:37",
       "https://news.ycombinator.com/item?id=44591439"
     ],
     [
-      "Jove (Jonathan's Own Version of Emacs)",
-      "https://en.wikipedia.org/wiki/JOVE"
+      "JOVE – Jonathan’s Own Version of Emacs (1983)",
+      "https://github.com/jonmacs/jove/"
     ]
   ],
   [
