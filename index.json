@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-21, 14:46:40",
+      "https://news.ycombinator.com/item?id=44635745"
+    ],
+    [
+      "UK backing down on Apple encryption backdoor after pressure from US",
+      "https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 14:19:31",
       "https://news.ycombinator.com/item?id=44635403"
     ],
@@ -147,16 +157,6 @@
     [
       "Stdio(3) change: FILE is now opaque",
       "https://undeadly.org/cgi?action=article;sid=20250717103345"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 15:51:44",
-      "https://news.ycombinator.com/item?id=44626363"
-    ],
-    [
-      "Speeding up my ZSH shell",
-      "https://scottspence.com/posts/speeding-up-my-zsh-shell"
     ]
   ],
   [
