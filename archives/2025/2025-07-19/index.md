@@ -9,6 +9,7 @@
 * [2025-07-19, 22:28:06](https://news.ycombinator.com/item?id=44620020) - [YouTube Won the Battle for TV Viewers](https://www.wsj.com/business/media/how-youtube-won-the-battle-for-tv-viewers-346d05b8)
 * [2025-07-19, 22:26:32](https://news.ycombinator.com/item?id=44620011) - [The U.K. Closed a Tax Loophole for the Global Rich. Now They're Fleeing](https://www.wsj.com/world/uk/the-u-k-closed-a-tax-loophole-for-the-global-rich-now-theyre-fleeing-f078cce4)
 * [2025-07-19, 22:25:09](https://news.ycombinator.com/item?id=44620002) - [Ring introducing new feature to allow police to live-stream access to cameras](https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance)
+* [2025-07-19, 21:44:30](https://news.ycombinator.com/item?id=44619709) - [Perl Versioning Scheme and Gentoo](https://wiki.gentoo.org/wiki/Project:Perl/Version-Scheme)
 * [2025-07-19, 20:50:40](https://news.ycombinator.com/item?id=44619258) - [The Future of Ultra-Fast Passenger Travel](https://spaceambition.substack.com/p/beyond-the-sound-barrier)
 * [2025-07-19, 20:15:26](https://news.ycombinator.com/item?id=44618959) - [Trigon: Exploiting coprocessors for fun and for profit (part 2)](https://alfiecg.uk/2025/07/16/Trigon.html)
 * [2025-07-19, 19:52:54](https://news.ycombinator.com/item?id=44618765) - [AMD's new 96-core Threadripper CPU will set you back $11,699](https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability)

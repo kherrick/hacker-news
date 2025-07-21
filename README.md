@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-21, 09:45:10](https://news.ycombinator.com/item?id=44633373) - [Israeli forces launch ground assault in central Gaza for first time](https://www.bbc.com/news/live/cvg9ky87dpdt)
-* [2025-07-21, 07:20:55](https://news.ycombinator.com/item?id=44632575) - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
+* [2025-07-21, 10:23:40](https://news.ycombinator.com/item?id=44633562) - [Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
 * [2025-07-21, 06:15:05](https://news.ycombinator.com/item?id=44632240) - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
 * [2025-07-21, 03:41:23](https://news.ycombinator.com/item?id=44631594) - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 * [2025-07-21, 01:15:55](https://news.ycombinator.com/item?id=44630927) - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
@@ -17,6 +16,7 @@
 * [2025-07-20, 11:26:09](https://news.ycombinator.com/item?id=44624114) - [Digital vassals? French Government ‘exposes citizens’ data to US'](https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/)
 * [2025-07-20, 11:04:02](https://news.ycombinator.com/item?id=44623953) - [Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154)
 * [2025-07-20, 09:33:48](https://news.ycombinator.com/item?id=44623361) - [AI is killing the web – can anything save it?](https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it)
+* [2025-07-19, 21:44:30](https://news.ycombinator.com/item?id=44619709) - [Perl Versioning Scheme and Gentoo](https://wiki.gentoo.org/wiki/Project:Perl/Version-Scheme)
 * [2025-07-19, 11:17:48](https://news.ycombinator.com/item?id=44614510) - [SIOF (Scheme in One File) – A Minimal R7RS Scheme System](https://github.com/false-schemers/siof)
 * [2025-07-19, 10:52:43](https://news.ycombinator.com/item?id=44614372) - [The sumerian game early computer game](https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/)
 * [2025-07-18, 14:08:12](https://news.ycombinator.com/item?id=44604808) - [Hexanitrogen Energies](https://www.science.org/content/blog-post/hexanitrogen-energies)
