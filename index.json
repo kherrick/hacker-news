@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-07-21, 12:20:36",
+      "https://news.ycombinator.com/item?id=44634293"
+    ],
+    [
+      "Ryanair may increase commission to staff identifying oversized cabin bags",
+      "https://www.rte.ie/news/ireland/2025/0721/1524508-ryanair-baggage/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 12:00:06",
+      "https://news.ycombinator.com/item?id=44634166"
+    ],
+    [
+      "Extend (YC W23) is hiring engineers to build SOTA document processing",
+      "https://jobs.ashbyhq.com/extend"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 11:22:31",
+      "https://news.ycombinator.com/item?id=44633902"
+    ],
+    [
+      "France launches criminal probe of X over alleged algorithm ‘manipulation’",
+      "https://www.ft.com/content/21818d23-71d7-45a4-ae8c-e7940f5d9e00"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 09:48:05",
+      "https://news.ycombinator.com/item?id=44633384"
+    ],
+    [
+      "XSLT: A Precision Tool for the Future of Structured Transformation",
+      "https://www.xml.com/articles/2025/07/19/xslt-precision-tool-future-structured-transformation/"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 06:15:05",
       "https://news.ycombinator.com/item?id=44632240"
     ],
@@ -51,42 +91,12 @@
   ],
   [
     [
-      "2025-07-20, 22:29:04",
-      "https://news.ycombinator.com/item?id=44629962"
-    ],
-    [
-      "IPv6 Based Canvas",
-      "https://canvas.openbased.org/"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 20:51:41",
-      "https://news.ycombinator.com/item?id=44629206"
-    ],
-    [
-      "FFmpeg devs boast of another 100x leap thanks to handwritten assembly code",
-      "https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code"
-    ]
-  ],
-  [
-    [
       "2025-07-20, 20:18:54",
       "https://news.ycombinator.com/item?id=44628930"
     ],
     [
       "Staying cool without refrigerants: Next-generation Peltier cooling",
       "https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 18:46:14",
-      "https://news.ycombinator.com/item?id=44628082"
-    ],
-    [
-      "Subreply – An open source text-only social network",
-      "https://github.com/lucianmarin/subreply"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-07-19, 11:17:48",
-      "https://news.ycombinator.com/item?id=44614510"
-    ],
-    [
-      "SIOF (Scheme in One File) – A Minimal R7RS Scheme System",
-      "https://github.com/false-schemers/siof"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 10:52:43",
       "https://news.ycombinator.com/item?id=44614372"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-07-18, 00:59:21",
+      "https://news.ycombinator.com/item?id=44600070"
+    ],
+    [
+      "Quadratic Forms Beyond Arithmetic",
+      "https://www.ams.org/journals/notices/202507/noti3192/noti3192.html"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 21:43:23",
       "https://news.ycombinator.com/item?id=44598578"
     ],
@@ -277,16 +287,6 @@
     [
       "Debugging Bash Like a Sire (2023)",
       "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 09:35:37",
-      "https://news.ycombinator.com/item?id=44591439"
-    ],
-    [
-      "JOVE – Jonathan’s Own Version of Emacs",
-      "https://github.com/jonmacs/jove/"
     ]
   ],
   [
