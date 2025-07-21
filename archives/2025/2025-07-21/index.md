@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 15:18:41](https://news.ycombinator.com/item?id=44636204) - [New records on Wendelstein 7-X](https://www.iter.org/node/20687/new-records-wendelstein-7-x)
+* [2025-07-21, 14:58:07](https://news.ycombinator.com/item?id=44635919) - [Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field](https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight)
+* [2025-07-21, 14:54:41](https://news.ycombinator.com/item?id=44635867) - [Occasionally USPS sends me pictures of other people's mail](https://the418.substack.com/p/a-bug-in-the-mail)
+* [2025-07-21, 14:51:13](https://news.ycombinator.com/item?id=44635808) - [Using MacBook's trackpad as digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
 * [2025-07-21, 14:46:40](https://news.ycombinator.com/item?id=44635745) - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
+* [2025-07-21, 14:39:23](https://news.ycombinator.com/item?id=44635640) - [Please, FOSS world, we need something like ChromeOS](https://www.theregister.com/2025/07/21/foss_chromeos_please/)
 * [2025-07-21, 14:19:31](https://news.ycombinator.com/item?id=44635403) - [Spanish police arrest five over $542M crypto investment scheme](https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown)
 * [2025-07-21, 14:15:08](https://news.ycombinator.com/item?id=44635363) - [You can now buy eggs from in-ovo sexed hens](https://optimistsbarn.substack.com/p/you-can-now-buy-eggs-from-in-ovo)
 * [2025-07-21, 13:59:07](https://news.ycombinator.com/item?id=44635187) - [XML Summer School, Oxford. 14th to 19th Sept 2025](https://xmlsummerschool.org/)
