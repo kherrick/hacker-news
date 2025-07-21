@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-07-21, 16:42:42",
+      "https://news.ycombinator.com/item?id=44637286"
+    ],
+    [
+      "The sadist assault on the 'Coldplay couple'",
+      "https://unherd.com/2025/07/the-sadist-assault-on-the-coldplay-couple/?us=1"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 16:36:13",
+      "https://news.ycombinator.com/item?id=44637191"
+    ],
+    [
+      "Gemini with Deep Think officially achieves gold-medal standard at the IMO",
+      "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 16:32:43",
+      "https://news.ycombinator.com/item?id=44637151"
+    ],
+    [
+      "Modern Debian-based Window Maker distribution",
+      "https://wmlive.sourceforge.net/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 16:31:57",
+      "https://news.ycombinator.com/item?id=44637137"
+    ],
+    [
+      "Solar+storage is so much farther along than you think",
+      "https://www.volts.wtf/p/solarstorage-is-so-much-farther-along"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 16:09:55",
+      "https://news.ycombinator.com/item?id=44636896"
+    ],
+    [
+      "India: Income Tax Bill allows officials to forcibly access social media, email",
+      "https://www.thehindu.com/business/Economy/parliamentary-panel-retains-income-tax-bill-provisions-allowing-tax-officials-to-forcibly-access-social-media-private-email/article69837600.ece"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 15:59:40",
       "https://news.ycombinator.com/item?id=44636774"
     ],
@@ -91,26 +141,6 @@
   ],
   [
     [
-      "2025-07-21, 12:27:24",
-      "https://news.ycombinator.com/item?id=44634340"
-    ],
-    [
-      "I've launched 37 products in 5 years and not doing that again",
-      "https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 12:16:42",
-      "https://news.ycombinator.com/item?id=44634266"
-    ],
-    [
-      "What happens when housing prices go down?",
-      "https://clmarohn.substack.com/p/what-happens-when-housing-prices"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 12:00:06",
       "https://news.ycombinator.com/item?id=44634166"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-07-21, 00:33:04",
-      "https://news.ycombinator.com/item?id=44630724"
-    ],
-    [
-      "Agents built from alloys",
-      "https://xbow.com/blog/alloy-agents/"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 00:16:25",
       "https://news.ycombinator.com/item?id=44630648"
     ],
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2025-07-19, 15:36:59",
+      "https://news.ycombinator.com/item?id=44616405"
+    ],
+    [
+      "Writing your Clojure tests in EDN files",
+      "https://biffweb.com/p/edn-tests/"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 10:52:43",
       "https://news.ycombinator.com/item?id=44614372"
     ],
@@ -227,26 +257,6 @@
     [
       "Hiding messages in a deck playing cards",
       "https://asherfalcon.com/blog/posts/3"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 13:13:33",
-      "https://news.ycombinator.com/item?id=44604311"
-    ],
-    [
-      "Using the Matrix Cores of AMD RDNA 4 architecture GPUs",
-      "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 12:51:39",
-      "https://news.ycombinator.com/item?id=44604149"
-    ],
-    [
-      "A circle and a hyperbola living in one plot",
-      "https://tobylam.xyz/2024/05/24/circle-hyperbola"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "New colors without shooting lasers into your eyes",
       "https://dynomight.net/colors/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 09:12:26",
-      "https://news.ycombinator.com/item?id=44591305"
-    ],
-    [
-      "Simulating hand-drawn motion with SVG filters",
-      "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters"
     ]
   ]
 ]
