@@ -67,6 +67,7 @@
 * [2025-07-18, 13:13:33](https://news.ycombinator.com/item?id=44604311) - [Using the Matrix Cores of AMD RDNA 4 Architecture GPUs](https://gpuopen.com/learn/using_matrix_core_amd_rdna4/)
 * [2025-07-18, 13:05:55](https://news.ycombinator.com/item?id=44604257) - [Ask HN: Any active COBOL devs here? What are you working on?](https://news.ycombinator.com/item?id=44604257)
 * [2025-07-18, 13:02:16](https://news.ycombinator.com/item?id=44604223) - [I Never Cared Much for Swords. Then I Had to Fight with One](https://thewalrus.ca/i-never-cared-much-for-swords-then-i-had-to-fight-with-one/)
+* [2025-07-18, 12:51:39](https://news.ycombinator.com/item?id=44604149) - [A circle and a hyperbola living in one plot](https://tobylam.xyz/2024/05/24/circle-hyperbola)
 * [2025-07-18, 12:48:49](https://news.ycombinator.com/item?id=44604127) - [Structuring Arrays with Algebraic Shapes [video]](https://www.youtube.com/watch?v=3Lbs0pJ_OHI)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://tangled.sh/@rockorager.dev/lsr)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://rockorager.dev/log/lsr-ls-but-with-io-uring/)

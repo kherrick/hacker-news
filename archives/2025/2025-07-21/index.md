@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 14:19:31](https://news.ycombinator.com/item?id=44635403) - [Spanish police arrest five over $542M crypto investment scheme](https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown)
+* [2025-07-21, 14:15:08](https://news.ycombinator.com/item?id=44635363) - [You can now buy eggs from in-ovo sexed hens](https://optimistsbarn.substack.com/p/you-can-now-buy-eggs-from-in-ovo)
 * [2025-07-21, 13:59:07](https://news.ycombinator.com/item?id=44635187) - [XML Summer School, Oxford. 14th to 19th Sept 2025](https://xmlsummerschool.org/)
 * [2025-07-21, 13:15:24](https://news.ycombinator.com/item?id=44634734) - [Cryptocurrency exchanges begin offering tokenized securities](https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018)
 * [2025-07-21, 12:27:24](https://news.ycombinator.com/item?id=44634340) - [I've launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
