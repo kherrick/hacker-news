@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-21, 07:20:55](https://news.ycombinator.com/item?id=44632575) - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 * [2025-07-21, 06:15:05](https://news.ycombinator.com/item?id=44632240) - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
 * [2025-07-21, 03:41:23](https://news.ycombinator.com/item?id=44631594) - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 * [2025-07-21, 01:15:55](https://news.ycombinator.com/item?id=44630927) - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
@@ -21,7 +22,6 @@
 * [2025-07-18, 13:13:33](https://news.ycombinator.com/item?id=44604311) - [Using the Matrix Cores of AMD RDNA 4 architecture GPUs](https://gpuopen.com/learn/using_matrix_core_amd_rdna4/)
 * [2025-07-18, 12:48:49](https://news.ycombinator.com/item?id=44604127) - [Structuring Arrays with Algebraic Shapes [video]](https://www.youtube.com/watch?v=3Lbs0pJ_OHI)
 * [2025-07-18, 11:09:07](https://news.ycombinator.com/item?id=44603349) - [“Dynamic Programming” is not referring to “computer programming”](https://www.vidarholen.net/contents/blog/?p=1172)
-* [2025-07-18, 03:26:36](https://news.ycombinator.com/item?id=44600899) - [Tell me again about neurons now](https://www.science.org/content/blog-post/tell-me-again-about-neurons-now)
 * [2025-07-17, 21:43:23](https://news.ycombinator.com/item?id=44598578) - [What my mother didn’t talk about (2020)](https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak)
 * [2025-07-17, 20:54:02](https://news.ycombinator.com/item?id=44598090) - [The Daily Life of a Medieval King](https://www.medievalists.net/2025/07/medieval-king-daily-life/)
 * [2025-07-17, 16:01:17](https://news.ycombinator.com/item?id=44594808) - [New colors without shooting lasers into your eyes](https://dynomight.net/colors/)
