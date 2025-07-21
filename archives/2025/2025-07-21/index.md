@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 13:15:24](https://news.ycombinator.com/item?id=44634734) - [Cryptocurrency exchanges begin offering tokenized securities](https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018)
+* [2025-07-21, 12:27:24](https://news.ycombinator.com/item?id=44634340) - [I've launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
 * [2025-07-21, 12:20:36](https://news.ycombinator.com/item?id=44634293) - [Ryanair may increase commission to staff identifying oversized cabin bags](https://www.rte.ie/news/ireland/2025/0721/1524508-ryanair-baggage/)
 * [2025-07-21, 12:16:42](https://news.ycombinator.com/item?id=44634266) - [What Happens When Housing Prices Go Down?](https://clmarohn.substack.com/p/what-happens-when-housing-prices)
 * [2025-07-21, 12:00:06](https://news.ycombinator.com/item?id=44634166) - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)

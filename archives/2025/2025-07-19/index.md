@@ -38,6 +38,7 @@
 * [2025-07-19, 14:35:11](https://news.ycombinator.com/item?id=44615801) - [Death by AI](https://davebarry.substack.com/p/death-by-ai)
 * [2025-07-19, 14:23:53](https://news.ycombinator.com/item?id=44615703) - [Why you should choose HTMX for your next web-based side project (2024)](https://hamy.xyz/blog/2024-02_htmx-for-side-projects)
 * [2025-07-19, 14:23:23](https://news.ycombinator.com/item?id=44615695) - [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
+* [2025-07-19, 13:46:26](https://news.ycombinator.com/item?id=44615449) - [Show HN: I built an AI agent that helps me invest](https://github.com/lastmile-ai/mcp-agent/tree/main/examples/usecases/mcp_realtor_agent)
 * [2025-07-19, 12:20:34](https://news.ycombinator.com/item?id=44614911) - [Wishes Upon My Demise](https://vale.rocks/posts/regarding-my-death)
 * [2025-07-19, 12:10:33](https://news.ycombinator.com/item?id=44614853) - [Show HN: I wanted better book recommendations – so I made Lorekeep](https://www.lorekeep.io/)
 * [2025-07-19, 12:00:23](https://news.ycombinator.com/item?id=44614788) - [Piramidal (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
