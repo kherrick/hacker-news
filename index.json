@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44629299"
     ],
     [
-      "Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)",
+      "Peep Show – The most realistic portrayal of evil ever made (2020)",
       "https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44628082"
     ],
     [
-      "Subreply – an open source text-only social network",
+      "Subreply – An open source text-only social network",
       "https://github.com/lucianmarin/subreply"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=44624114"
     ],
     [
-      "Digital vassals? French Government 'exposes citizens' data to US'",
+      "Digital vassals? French Government ‘exposes citizens’ data to US'",
       "https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/"
     ]
   ],
@@ -167,16 +167,6 @@
     [
       "Coding with LLMs in the summer of 2025 – an update",
       "https://antirez.com/news/154"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 10:11:22",
-      "https://news.ycombinator.com/item?id=44623581"
-    ],
-    [
-      "A Tour of Microsoft's Mac Lab (2006)",
-      "https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Why not to use iframes for embedded dashboards",
       "https://embeddable.com/blog/iframes-for-embedding"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 11:09:07",
+      "https://news.ycombinator.com/item?id=44603349"
+    ],
+    [
+      "“Dynamic Programming” is not referring to “computer programming”",
+      "https://www.vidarholen.net/contents/blog/?p=1172"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44594486"
     ],
     [
-      "Slow Motion Became Cinema's Dominant Special Effect",
+      "How slow motion became cinema’s dominant special effect",
       "https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44591439"
     ],
     [
-      "JOVE – Jonathan’s Own Version of Emacs (1983)",
+      "JOVE – Jonathan’s Own Version of Emacs",
       "https://github.com/jonmacs/jove/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=44591305"
     ],
     [
-      "Simulating Hand-Drawn Motion with SVG Filters",
+      "Simulating hand-drawn motion with SVG filters",
       "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters"
     ]
   ]
