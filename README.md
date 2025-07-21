@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-21, 20:23:40](https://news.ycombinator.com/item?id=44640005) - [The special hell of Bolt, Europe's Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app)
 * [2025-07-21, 19:40:15](https://news.ycombinator.com/item?id=44639524) - [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
 * [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 * [2025-07-21, 18:32:26](https://news.ycombinator.com/item?id=44638710) - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
@@ -15,7 +16,6 @@
 * [2025-07-21, 16:48:28](https://news.ycombinator.com/item?id=44637352) - [AccountingBench: Evaluating LLMs on real long-horizon business tasks](https://accounting.penrose.com/)
 * [2025-07-21, 16:36:13](https://news.ycombinator.com/item?id=44637191) - [Gemini with Deep Think officially achieves gold-medal standard at the IMO](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
 * [2025-07-21, 16:32:43](https://news.ycombinator.com/item?id=44637151) - [Modern Debian-based Window Maker distribution](https://wmlive.sourceforge.net/)
-* [2025-07-21, 16:09:01](https://news.ycombinator.com/item?id=44636886) - [Comparison of MGR, SunView, OpenWindows and X11R6 (2022)](http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 * [2025-07-21, 15:59:40](https://news.ycombinator.com/item?id=44636774) - [Memory Efficiency in iOS: Reducing footprint and beyond](https://antongubarenko.substack.com/p/memory-efficiency-in-ios-reducing)
 * [2025-07-21, 15:54:03](https://news.ycombinator.com/item?id=44636691) - [SecretSpec: Declarative Secrets Management](https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/)
 * [2025-07-21, 15:18:41](https://news.ycombinator.com/item?id=44636204) - [New records on Wendelstein 7-X](https://www.iter.org/node/20687/new-records-wendelstein-7-x)
@@ -25,7 +25,7 @@
 * [2025-07-21, 12:00:06](https://news.ycombinator.com/item?id=44634166) - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
 * [2025-07-21, 11:26:04](https://news.ycombinator.com/item?id=44633933) - [We made Postgres writes faster, but it broke replication](https://www.paradedb.com/blog/lsm_trees_in_postgres)
 * [2025-07-20, 21:58:06](https://news.ycombinator.com/item?id=44629710) - [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
-* [2025-07-19, 15:36:59](https://news.ycombinator.com/item?id=44616405) - [Writing your Clojure tests in EDN files](https://biffweb.com/p/edn-tests/)
+* [2025-07-19, 20:03:27](https://news.ycombinator.com/item?id=44618844) - [1990 Networking: LAN Manager 2.0](https://www.os2museum.com/wp/1990-networking-lan-manager-2-0/)
 * [2025-07-19, 04:37:55](https://news.ycombinator.com/item?id=44612643) - [Amazon and the \"Profitless Business Model\" Fallacy](https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative)
 * [2025-07-18, 14:41:04](https://news.ycombinator.com/item?id=44605169) - [Hiding messages in a deck playing cards](https://asherfalcon.com/blog/posts/3)
 * [2025-07-18, 12:48:39](https://news.ycombinator.com/item?id=44604125) - [The Krull dimension of the semiring of natural numbers is equal to 2](https://freedommathdance.blogspot.com/2025/07/the-krull-dimension-of-natural-numbers.html)

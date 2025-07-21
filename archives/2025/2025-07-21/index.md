@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 20:23:40](https://news.ycombinator.com/item?id=44640005) - [The special hell of Bolt, Europe's Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app)
 * [2025-07-21, 19:40:15](https://news.ycombinator.com/item?id=44639524) - [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
 * [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 * [2025-07-21, 19:09:37](https://news.ycombinator.com/item?id=44639135) - [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
