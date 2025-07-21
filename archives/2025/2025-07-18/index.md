@@ -70,6 +70,7 @@
 * [2025-07-18, 13:02:16](https://news.ycombinator.com/item?id=44604223) - [I Never Cared Much for Swords. Then I Had to Fight with One](https://thewalrus.ca/i-never-cared-much-for-swords-then-i-had-to-fight-with-one/)
 * [2025-07-18, 12:51:39](https://news.ycombinator.com/item?id=44604149) - [A circle and a hyperbola living in one plot](https://tobylam.xyz/2024/05/24/circle-hyperbola)
 * [2025-07-18, 12:48:49](https://news.ycombinator.com/item?id=44604127) - [Structuring Arrays with Algebraic Shapes [video]](https://www.youtube.com/watch?v=3Lbs0pJ_OHI)
+* [2025-07-18, 12:48:39](https://news.ycombinator.com/item?id=44604125) - [The Krull dimension of the semiring of natural numbers is equal to 2](https://freedommathdance.blogspot.com/2025/07/the-krull-dimension-of-natural-numbers.html)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://tangled.sh/@rockorager.dev/lsr)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://rockorager.dev/log/lsr-ls-but-with-io-uring/)
 * [2025-07-18, 12:00:47](https://news.ycombinator.com/item?id=44603739) - [Resolve (YC W15) Is Hiring an Operations and Billing Lead for Construction VR](https://news.ycombinator.com/item?id=44603739)
