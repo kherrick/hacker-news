@@ -11,6 +11,7 @@
 * [2025-07-17, 21:43:23](https://news.ycombinator.com/item?id=44598578) - [What My Mother Didn't Talk About (2020)](https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak)
 * [2025-07-17, 21:38:14](https://news.ycombinator.com/item?id=44598534) - [Don't Fall for AI: Reasons for Writers to Reject Slop](https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/)
 * [2025-07-17, 21:09:51](https://news.ycombinator.com/item?id=44598254) - [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
+* [2025-07-17, 20:54:02](https://news.ycombinator.com/item?id=44598090) - [The Daily Life of a Medieval King](https://www.medievalists.net/2025/07/medieval-king-daily-life/)
 * [2025-07-17, 20:41:22](https://news.ycombinator.com/item?id=44597966) - [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
 * [2025-07-17, 20:20:58](https://news.ycombinator.com/item?id=44597727) - [Behind the ballistics of the 'explosive' squirting cucumber](https://phys.org/news/2025-07-ballistics-explosive-squirting-cucumber.html)
 * [2025-07-17, 20:14:22](https://news.ycombinator.com/item?id=44597668) - [Ask HN: What Pocket alternatives did you move in to?](https://news.ycombinator.com/item?id=44597668)
