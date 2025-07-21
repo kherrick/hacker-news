@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-21, 17:24:40](https://news.ycombinator.com/item?id=44637815) - [Germany's Fairytale Castles Added to UNESCO's World Heritage List](https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/)
+* [2025-07-21, 17:16:44](https://news.ycombinator.com/item?id=44637716) - [Jqfmt like gofmt, but for jq](https://github.com/noperator/jqfmt)
+* [2025-07-21, 17:15:34](https://news.ycombinator.com/item?id=44637700) - [I deleted my entire social media presence before visiting the US – I'm a citizen](https://www.theregister.com/2025/07/21/column_social_media_entrapment/)
+* [2025-07-21, 17:01:06](https://news.ycombinator.com/item?id=44637523) - [Make Map Icons with Orthographic Projections](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/custom-orthographic-icons)
 * [2025-07-21, 16:48:28](https://news.ycombinator.com/item?id=44637352) - [Accountant Simulator 2025](https://accounting.penrose.com/)
 * [2025-07-21, 16:36:13](https://news.ycombinator.com/item?id=44637191) - [Gemini with Deep Think officially achieves gold-medal standard at the IMO](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
 * [2025-07-21, 16:32:43](https://news.ycombinator.com/item?id=44637151) - [Modern Debian-based Window Maker distribution](https://wmlive.sourceforge.net/)
@@ -20,16 +24,12 @@
 * [2025-07-21, 11:26:04](https://news.ycombinator.com/item?id=44633933) - [We made Postgres writes faster, but it broke replication](https://www.paradedb.com/blog/lsm_trees_in_postgres)
 * [2025-07-21, 03:41:23](https://news.ycombinator.com/item?id=44631594) - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 * [2025-07-21, 01:15:55](https://news.ycombinator.com/item?id=44630927) - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
-* [2025-07-21, 00:40:43](https://news.ycombinator.com/item?id=44630760) - [Man wearing metallic necklace dies after being sucked into MRI machine](https://www.bbc.com/news/articles/cx2n39dvp0po)
-* [2025-07-20, 14:03:39](https://news.ycombinator.com/item?id=44625292) - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 * [2025-07-19, 15:36:59](https://news.ycombinator.com/item?id=44616405) - [Writing your Clojure tests in EDN files](https://biffweb.com/p/edn-tests/)
-* [2025-07-19, 10:52:43](https://news.ycombinator.com/item?id=44614372) - [The Sumerian Game: The ancestor of modern city builders](https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/)
 * [2025-07-18, 21:13:34](https://news.ycombinator.com/item?id=44609893) - [Super-resolution microscopes reveal new details of cells and disease](https://knowablemagazine.org/content/article/technology/2025/super-resolution-microscopes-reveal-new-details-cells)
 * [2025-07-18, 14:41:04](https://news.ycombinator.com/item?id=44605169) - [Hiding messages in a deck playing cards](https://asherfalcon.com/blog/posts/3)
 * [2025-07-18, 11:09:07](https://news.ycombinator.com/item?id=44603349) - [“Dynamic programming” is not referring to “computer programming”](https://www.vidarholen.net/contents/blog/?p=1172)
 * [2025-07-18, 00:59:21](https://news.ycombinator.com/item?id=44600070) - [Quadratic forms beyond arithmetic](https://www.ams.org/journals/notices/202507/noti3192/noti3192.html)
 * [2025-07-17, 20:54:02](https://news.ycombinator.com/item?id=44598090) - [The daily life of a medieval king](https://www.medievalists.net/2025/07/medieval-king-daily-life/)
-* [2025-07-17, 16:01:17](https://news.ycombinator.com/item?id=44594808) - [New colors without shooting lasers into your eyes](https://dynomight.net/colors/)
 
 ## [Archives](archives/index.md)
 
