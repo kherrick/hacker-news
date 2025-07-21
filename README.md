@@ -24,11 +24,11 @@
 * [2025-07-21, 14:51:13](https://news.ycombinator.com/item?id=44635808) - [TrackWeight: Turn your MacBook's trackpad into a digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
 * [2025-07-21, 14:46:40](https://news.ycombinator.com/item?id=44635745) - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
 * [2025-07-21, 11:26:04](https://news.ycombinator.com/item?id=44633933) - [We made Postgres writes faster, but it broke replication](https://www.paradedb.com/blog/lsm_trees_in_postgres)
-* [2025-07-21, 10:21:34](https://news.ycombinator.com/item?id=44633549) - [Show HN: Intercepting proxy for semantic search over visited pages](https://github.com/mlang/llm-embed-proxy)
 * [2025-07-20, 21:58:06](https://news.ycombinator.com/item?id=44629710) - [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
 * [2025-07-19, 11:54:40](https://news.ycombinator.com/item?id=44614747) - [Sutton SignWriting is a writing system for sign languages](https://en.m.wikipedia.org/wiki/SignWriting)
 * [2025-07-19, 04:37:55](https://news.ycombinator.com/item?id=44612643) - [Amazon and the “Profitless Business Model” Fallacy](https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative)
 * [2025-07-18, 14:41:04](https://news.ycombinator.com/item?id=44605169) - [Hiding messages in a deck playing cards](https://asherfalcon.com/blog/posts/3)
+* [2025-07-18, 12:48:39](https://news.ycombinator.com/item?id=44604125) - [The Krull dimension of the semiring of natural numbers is equal to 2](https://freedommathdance.blogspot.com/2025/07/the-krull-dimension-of-natural-numbers.html)
 * [2025-07-18, 07:40:52](https://news.ycombinator.com/item?id=44602227) - [Scholars solved a 130-year literary mystery and it hinged on one word](https://www.sciencedaily.com/releases/2025/07/250716000855.htm)
 
 ## [Archives](archives/index.md)
