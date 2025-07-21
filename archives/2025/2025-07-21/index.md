@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
 * [2025-07-21, 12:20:36](https://news.ycombinator.com/item?id=44634293) - [Ryanair may increase commission to staff identifying oversized cabin bags](https://www.rte.ie/news/ireland/2025/0721/1524508-ryanair-baggage/)
+* [2025-07-21, 12:16:42](https://news.ycombinator.com/item?id=44634266) - [What Happens When Housing Prices Go Down?](https://clmarohn.substack.com/p/what-happens-when-housing-prices)
 * [2025-07-21, 12:00:06](https://news.ycombinator.com/item?id=44634166) - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
 * [2025-07-21, 11:22:31](https://news.ycombinator.com/item?id=44633902) - [France launches criminal probe of X over alleged algorithm ‘manipulation’](https://www.ft.com/content/21818d23-71d7-45a4-ae8c-e7940f5d9e00)
 * [2025-07-21, 10:23:40](https://news.ycombinator.com/item?id=44633562) - [Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
@@ -17,6 +18,7 @@
 * [2025-07-21, 03:41:23](https://news.ycombinator.com/item?id=44631594) - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 * [2025-07-21, 01:15:55](https://news.ycombinator.com/item?id=44630927) - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
 * [2025-07-21, 00:53:21](https://news.ycombinator.com/item?id=44630815) - [iMessage integration in Claude can hijack the model to do anything](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
+* [2025-07-21, 00:40:43](https://news.ycombinator.com/item?id=44630760) - [Man wearing metallic necklace dies after being sucked into MRI machine](https://www.bbc.com/news/articles/cx2n39dvp0po)
 * [2025-07-21, 00:33:04](https://news.ycombinator.com/item?id=44630724) - [LLM Alloying Improves Performance over Single Model](https://xbow.com/blog/alloy-agents/)
 * [2025-07-21, 00:23:33](https://news.ycombinator.com/item?id=44630676) - [Computational Complexity of Neural Networks](https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/)
 * [2025-07-21, 00:16:25](https://news.ycombinator.com/item?id=44630648) - [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
