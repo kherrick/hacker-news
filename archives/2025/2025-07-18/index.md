@@ -11,6 +11,7 @@
 * [2025-07-18, 22:30:22](https://news.ycombinator.com/item?id=44610491) - [Marathon fusion claims to invent alchemy, making 5000 kgs gold per gigawatt](https://www.marathonfusion.com/)
 * [2025-07-18, 22:27:17](https://news.ycombinator.com/item?id=44610468) - [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/)
 * [2025-07-18, 21:21:50](https://news.ycombinator.com/item?id=44609969) - [Silence Is a Commons by Ivan Illich (1983)](http://www.davidtinapple.com/illich/1983_silence_commons.html)
+* [2025-07-18, 21:13:34](https://news.ycombinator.com/item?id=44609893) - [Super-resolution microscopes reveal new details of cells and disease](https://knowablemagazine.org/content/article/technology/2025/super-resolution-microscopes-reveal-new-details-cells)
 * [2025-07-18, 20:43:12](https://news.ycombinator.com/item?id=44609616) - [Exhausted man defeats AI model in world coding championship](https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/)
 * [2025-07-18, 20:32:47](https://news.ycombinator.com/item?id=44609508) - [Hush: Holistic Panoramic 3D Scene Understanding Using Spherical Harmonics](https://vision3d-lab.github.io/hush/)
 * [2025-07-18, 20:30:36](https://news.ycombinator.com/item?id=44609479) - [Wii U SDBoot1 Exploit \"paid the beak\"](https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/)
