@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 14:46:40](https://news.ycombinator.com/item?id=44635745) - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
 * [2025-07-21, 14:19:31](https://news.ycombinator.com/item?id=44635403) - [Spanish police arrest five over $542M crypto investment scheme](https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown)
 * [2025-07-21, 14:15:08](https://news.ycombinator.com/item?id=44635363) - [You can now buy eggs from in-ovo sexed hens](https://optimistsbarn.substack.com/p/you-can-now-buy-eggs-from-in-ovo)
 * [2025-07-21, 13:59:07](https://news.ycombinator.com/item?id=44635187) - [XML Summer School, Oxford. 14th to 19th Sept 2025](https://xmlsummerschool.org/)

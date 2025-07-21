@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-21, 14:46:40](https://news.ycombinator.com/item?id=44635745) - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
 * [2025-07-21, 14:19:31](https://news.ycombinator.com/item?id=44635403) - [Spanish police arrest five over $542M crypto investment scheme](https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown)
 * [2025-07-21, 14:15:08](https://news.ycombinator.com/item?id=44635363) - [You can now buy eggs from in-ovo sexed hens](https://optimistsbarn.substack.com/p/you-can-now-buy-eggs-from-in-ovo)
 * [2025-07-21, 13:15:24](https://news.ycombinator.com/item?id=44634734) - [Cryptocurrency exchanges begin offering tokenized securities](https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018)
@@ -15,7 +16,6 @@
 * [2025-07-21, 00:33:04](https://news.ycombinator.com/item?id=44630724) - [Agents built from alloys](https://xbow.com/blog/alloy-agents/)
 * [2025-07-21, 00:16:25](https://news.ycombinator.com/item?id=44630648) - [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
 * [2025-07-20, 18:18:40](https://news.ycombinator.com/item?id=44627793) - [Stdio(3) change: FILE is now opaque](https://undeadly.org/cgi?action=article;sid=20250717103345)
-* [2025-07-20, 15:51:44](https://news.ycombinator.com/item?id=44626363) - [Speeding up my ZSH shell](https://scottspence.com/posts/speeding-up-my-zsh-shell)
 * [2025-07-20, 14:03:39](https://news.ycombinator.com/item?id=44625292) - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 * [2025-07-19, 21:44:30](https://news.ycombinator.com/item?id=44619709) - [The Gentoo Perl versioning scheme](https://wiki.gentoo.org/wiki/Project:Perl/Version-Scheme)
 * [2025-07-19, 10:52:43](https://news.ycombinator.com/item?id=44614372) - [The Sumerian Game: The ancestor of modern city builders](https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/)
