@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 * [2025-07-21, 19:09:37](https://news.ycombinator.com/item?id=44639135) - [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
 * [2025-07-21, 18:52:26](https://news.ycombinator.com/item?id=44638948) - [I know genomes. Don't delete your DNA](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
 * [2025-07-21, 18:32:26](https://news.ycombinator.com/item?id=44638710) - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
