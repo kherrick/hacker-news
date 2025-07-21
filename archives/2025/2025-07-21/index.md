@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 16:48:28](https://news.ycombinator.com/item?id=44637352) - [Accountant Simulator 2025](https://accounting.penrose.com/)
 * [2025-07-21, 16:42:42](https://news.ycombinator.com/item?id=44637286) - [The sadist assault on the 'Coldplay couple'](https://unherd.com/2025/07/the-sadist-assault-on-the-coldplay-couple/?us=1)
 * [2025-07-21, 16:36:13](https://news.ycombinator.com/item?id=44637191) - [Gemini with Deep Think officially achieves gold-medal standard at the IMO](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
 * [2025-07-21, 16:32:43](https://news.ycombinator.com/item?id=44637151) - [Modern Debian-based Window Maker distribution](https://wmlive.sourceforge.net/)
 * [2025-07-21, 16:31:57](https://news.ycombinator.com/item?id=44637137) - [Solar+storage is so much farther along than you think](https://www.volts.wtf/p/solarstorage-is-so-much-farther-along)
+* [2025-07-21, 16:31:05](https://news.ycombinator.com/item?id=44637128) - [Outdoor activity is better for cognition than indoor activity in young people](https://www.sciencedirect.com/science/article/pii/S0031938425000897)
 * [2025-07-21, 16:09:55](https://news.ycombinator.com/item?id=44636896) - [India: Income Tax Bill allows officials to forcibly access social media, email](https://www.thehindu.com/business/Economy/parliamentary-panel-retains-income-tax-bill-provisions-allowing-tax-officials-to-forcibly-access-social-media-private-email/article69837600.ece)
+* [2025-07-21, 16:09:01](https://news.ycombinator.com/item?id=44636886) - [Comparison of MGR, SunView, OpenWindows and X11R6 (2022)](http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 * [2025-07-21, 15:59:40](https://news.ycombinator.com/item?id=44636774) - [Memory Efficiency in iOS: Reducing footprint and beyond](https://antongubarenko.substack.com/p/memory-efficiency-in-ios-reducing)
 * [2025-07-21, 15:54:03](https://news.ycombinator.com/item?id=44636691) - [SecretSpec: Declarative Secrets Management](https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/)
 * [2025-07-21, 15:31:21](https://news.ycombinator.com/item?id=44636369) - [Australian anti-porn group claims responsibility for Steams new censorship rules](https://www.pcgamer.com/gaming-industry/australian-anti-porn-group-claims-responsibility-for-steams-new-censorship-rules-in-victory-against-porn-sick-brain-rotted-pedo-gamer-fetishists-and-things-only-get-weirder-from-there/)
