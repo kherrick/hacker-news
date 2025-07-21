@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 23:26:40](https://news.ycombinator.com/item?id=44641521) - [uv Running a Script with Dependencies](https://docs.astral.sh/uv/guides/scripts/)
 * [2025-07-21, 23:03:26](https://news.ycombinator.com/item?id=44641363) - [How to break the 'AI hype cycle'](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization)
 * [2025-07-21, 22:29:28](https://news.ycombinator.com/item?id=44641117) - [LetsEncrypt – Complete Outage](https://letsencrypt.status.io/)
 * [2025-07-21, 22:05:54](https://news.ycombinator.com/item?id=44640935) - [Nine households control 15% of wealth in Silicon Valley as inequality widens](https://www.theguardian.com/us-news/2025/jul/21/silicon-valley-income-wealth-gap)

@@ -52,6 +52,7 @@
 * [2025-07-18, 15:15:58](https://news.ycombinator.com/item?id=44605618) - [ICE Is Getting Unprecedented Access to Medicaid Data](https://www.wired.com/story/ice-access-medicaid-data/)
 * [2025-07-18, 15:15:39](https://news.ycombinator.com/item?id=44605610) - [The Number go up rule: Why America refuses to fix anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)
 * [2025-07-18, 14:53:00](https://news.ycombinator.com/item?id=44605312) - [Ask HN: Where do you guys find audiobooks?](https://news.ycombinator.com/item?id=44605312)
+* [2025-07-18, 14:47:16](https://news.ycombinator.com/item?id=44605245) - [Losing language features: some stories about disjoint unions](https://graydon2.dreamwidth.org/318788.html)
 * [2025-07-18, 14:44:57](https://news.ycombinator.com/item?id=44605213) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44605213)
 * [2025-07-18, 14:41:19](https://news.ycombinator.com/item?id=44605171) - [The EU can be shut down with a few keystrokes](https://www.bitecode.dev/p/the-eu-can-be-shut-down-with-a-few)
 * [2025-07-18, 14:41:04](https://news.ycombinator.com/item?id=44605169) - [Hiding messages in a deck playing cards](https://asherfalcon.com/blog/posts/3)
