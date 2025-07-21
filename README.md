@@ -24,10 +24,10 @@
 * [2025-07-18, 03:26:36](https://news.ycombinator.com/item?id=44600899) - [Tell me again about neurons now](https://www.science.org/content/blog-post/tell-me-again-about-neurons-now)
 * [2025-07-17, 21:43:23](https://news.ycombinator.com/item?id=44598578) - [What my mother didn’t talk about (2020)](https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak)
 * [2025-07-17, 20:54:02](https://news.ycombinator.com/item?id=44598090) - [The Daily Life of a Medieval King](https://www.medievalists.net/2025/07/medieval-king-daily-life/)
-* [2025-07-17, 19:15:52](https://news.ycombinator.com/item?id=44597037) - [Logical implication is a comparison operator](https://btdmaster.bearblog.dev/logical-implication-as-comparison/)
 * [2025-07-17, 16:01:17](https://news.ycombinator.com/item?id=44594808) - [New colors without shooting lasers into your eyes](https://dynomight.net/colors/)
 * [2025-07-17, 15:43:04](https://news.ycombinator.com/item?id=44594584) - [Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once](https://conductor.build/)
 * [2025-07-17, 15:34:29](https://news.ycombinator.com/item?id=44594486) - [How slow motion became cinema’s dominant special effect](https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime)
+* [2025-07-17, 12:51:28](https://news.ycombinator.com/item?id=44592797) - [Debugging Bash Like a Sire](https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/)
 * [2025-07-17, 09:35:37](https://news.ycombinator.com/item?id=44591439) - [JOVE – Jonathan’s Own Version of Emacs](https://github.com/jonmacs/jove/)
 * [2025-07-17, 09:12:26](https://news.ycombinator.com/item?id=44591305) - [Simulating hand-drawn motion with SVG filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
 
