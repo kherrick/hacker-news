@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 23:03:26](https://news.ycombinator.com/item?id=44641363) - [How to break the 'AI hype cycle'](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization)
+* [2025-07-21, 22:29:28](https://news.ycombinator.com/item?id=44641117) - [LetsEncrypt – Complete Outage](https://letsencrypt.status.io/)
+* [2025-07-21, 22:05:54](https://news.ycombinator.com/item?id=44640935) - [Nine households control 15% of wealth in Silicon Valley as inequality widens](https://www.theguardian.com/us-news/2025/jul/21/silicon-valley-income-wealth-gap)
 * [2025-07-21, 21:31:23](https://news.ycombinator.com/item?id=44640651) - [Spice Data (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
 * [2025-07-21, 20:48:50](https://news.ycombinator.com/item?id=44640233) - [In a Major Reversal, the World Bank Is Backing Mega Dams](https://e360.yale.edu/features/world-bank-hydro-dams)
 * [2025-07-21, 20:43:10](https://news.ycombinator.com/item?id=44640178) - [Jane Jacobs Got Americans Stuck](https://www.riskgaming.com/p/how-jane-jacobs-got-americans-stuck)
