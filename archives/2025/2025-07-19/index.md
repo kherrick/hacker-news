@@ -44,6 +44,7 @@
 * [2025-07-19, 12:20:34](https://news.ycombinator.com/item?id=44614911) - [Wishes Upon My Demise](https://vale.rocks/posts/regarding-my-death)
 * [2025-07-19, 12:10:33](https://news.ycombinator.com/item?id=44614853) - [Show HN: I wanted better book recommendations – so I made Lorekeep](https://www.lorekeep.io/)
 * [2025-07-19, 12:00:23](https://news.ycombinator.com/item?id=44614788) - [Piramidal (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
+* [2025-07-19, 11:54:40](https://news.ycombinator.com/item?id=44614747) - [Sutton SignWriting is a writing system for sign languages](https://en.m.wikipedia.org/wiki/SignWriting)
 * [2025-07-19, 11:38:22](https://news.ycombinator.com/item?id=44614644) - [GPT-5-reasoning alpha found in the wild](https://twitter.com/btibor91/status/1946532308896628748)
 * [2025-07-19, 11:17:48](https://news.ycombinator.com/item?id=44614510) - [SIOF (Scheme in One File) – A Minimal R7RS Scheme System](https://github.com/false-schemers/siof)
 * [2025-07-19, 10:52:43](https://news.ycombinator.com/item?id=44614372) - [The sumerian game early computer game](https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/)
