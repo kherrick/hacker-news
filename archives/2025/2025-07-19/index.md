@@ -41,6 +41,7 @@
 * [2025-07-19, 12:10:33](https://news.ycombinator.com/item?id=44614853) - [Show HN: I wanted better book recommendations – so I made Lorekeep](https://www.lorekeep.io/)
 * [2025-07-19, 12:00:23](https://news.ycombinator.com/item?id=44614788) - [Piramidal (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
 * [2025-07-19, 11:38:22](https://news.ycombinator.com/item?id=44614644) - [GPT-5-reasoning alpha found in the wild](https://twitter.com/btibor91/status/1946532308896628748)
+* [2025-07-19, 11:17:48](https://news.ycombinator.com/item?id=44614510) - [SIOF (Scheme in One File) – A Minimal R7RS Scheme System](https://github.com/false-schemers/siof)
 * [2025-07-19, 10:52:35](https://news.ycombinator.com/item?id=44614370) - [Fstrings.wtf](https://fstrings.wtf/)
 * [2025-07-19, 10:51:59](https://news.ycombinator.com/item?id=44614365) - [I avoid using LLMs as a publisher and writer](https://lifehacky.net/prompt-0b953c089b44)
 * [2025-07-19, 10:38:52](https://news.ycombinator.com/item?id=44614292) - [Felix Baumgartner, Who Jumped from Stratosphere, Dies in Italy](https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/)
