@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-07-21, 17:24:40",
+      "https://news.ycombinator.com/item?id=44637815"
+    ],
+    [
+      "Germany's Fairytale Castles Added to UNESCO's World Heritage List",
+      "https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 17:16:44",
+      "https://news.ycombinator.com/item?id=44637716"
+    ],
+    [
+      "Jqfmt like gofmt, but for jq",
+      "https://github.com/noperator/jqfmt"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 17:15:34",
+      "https://news.ycombinator.com/item?id=44637700"
+    ],
+    [
+      "I deleted my entire social media presence before visiting the US – I'm a citizen",
+      "https://www.theregister.com/2025/07/21/column_social_media_entrapment/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 17:01:06",
+      "https://news.ycombinator.com/item?id=44637523"
+    ],
+    [
+      "Make Map Icons with Orthographic Projections",
+      "https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/custom-orthographic-icons"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 16:48:28",
       "https://news.ycombinator.com/item?id=44637352"
     ],
@@ -201,42 +241,12 @@
   ],
   [
     [
-      "2025-07-21, 00:40:43",
-      "https://news.ycombinator.com/item?id=44630760"
-    ],
-    [
-      "Man wearing metallic necklace dies after being sucked into MRI machine",
-      "https://www.bbc.com/news/articles/cx2n39dvp0po"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 14:03:39",
-      "https://news.ycombinator.com/item?id=44625292"
-    ],
-    [
-      "XMLUI",
-      "https://blog.jonudell.net/2025/07/18/introducing-xmlui/"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 15:36:59",
       "https://news.ycombinator.com/item?id=44616405"
     ],
     [
       "Writing your Clojure tests in EDN files",
       "https://biffweb.com/p/edn-tests/"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 10:52:43",
-      "https://news.ycombinator.com/item?id=44614372"
-    ],
-    [
-      "The Sumerian Game: The ancestor of modern city builders",
-      "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The daily life of a medieval king",
       "https://www.medievalists.net/2025/07/medieval-king-daily-life/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 16:01:17",
-      "https://news.ycombinator.com/item?id=44594808"
-    ],
-    [
-      "New colors without shooting lasers into your eyes",
-      "https://dynomight.net/colors/"
     ]
   ]
 ]
