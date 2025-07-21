@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 20:48:50](https://news.ycombinator.com/item?id=44640233) - [In a Major Reversal, the World Bank Is Backing Mega Dams](https://e360.yale.edu/features/world-bank-hydro-dams)
+* [2025-07-21, 20:43:10](https://news.ycombinator.com/item?id=44640178) - [Jane Jacobs Got Americans Stuck](https://www.riskgaming.com/p/how-jane-jacobs-got-americans-stuck)
 * [2025-07-21, 20:23:40](https://news.ycombinator.com/item?id=44640005) - [The special hell of Bolt, Europe's Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app)
+* [2025-07-21, 20:17:08](https://news.ycombinator.com/item?id=44639949) - [Africa's gigantic $80B dam could transform entire continent](https://en.clickpetroleoegas.com.br/maior-que-a-barragem-tres-gargantas-da-china-o-gigantesco-megaprojeto-africano-de-us-80-bilhoes-que-pode-revolucionar-a-energia-e-transformar-um-continente-inteiro/)
 * [2025-07-21, 19:40:15](https://news.ycombinator.com/item?id=44639524) - [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
 * [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 * [2025-07-21, 19:09:37](https://news.ycombinator.com/item?id=44639135) - [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
