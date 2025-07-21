@@ -83,6 +83,7 @@
 * [2025-07-18, 09:34:42](https://news.ycombinator.com/item?id=44602779) - [Netflix uses generative AI in one of its shows for first time](https://www.theguardian.com/media/2025/jul/18/netflix-uses-generative-ai-in-show-for-first-time-el-eternauta)
 * [2025-07-18, 08:36:47](https://news.ycombinator.com/item?id=44602532) - [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 * [2025-07-18, 08:05:26](https://news.ycombinator.com/item?id=44602364) - [Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)](https://www.arva.ai/careers/ai-research-engineer)
+* [2025-07-18, 06:16:32](https://news.ycombinator.com/item?id=44601736) - [Improving End-to-End Tests to Reduce Flakiness: Tools and Strategies](https://blog.testresult.co/improving-end-to-end-tests-to-reduce-flakiness-tools-strategies/)
 * [2025-07-18, 05:38:55](https://news.ycombinator.com/item?id=44601562) - [Why is AI so slow to spread?](https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain)
 * [2025-07-18, 05:37:17](https://news.ycombinator.com/item?id=44601548) - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
 * [2025-07-18, 05:30:59](https://news.ycombinator.com/item?id=44601524) - [Meta Poaches Two More Apple AI Executives](https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/)

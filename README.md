@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-21, 18:32:26](https://news.ycombinator.com/item?id=44638710) - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
+* [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What Went Wrong Inside Recalled Anker PowerCore 10000 Power Banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
 * [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
+* [2025-07-21, 18:07:40](https://news.ycombinator.com/item?id=44638397) - [Work Life balance slows careers](https://www.pathtostaff.com/p/work-life-balance-slows-careers-e9)
 * [2025-07-21, 17:59:00](https://news.ycombinator.com/item?id=44638300) - [Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed](https://tedium.co/2025/07/21/the-game-genie-generation/)
 * [2025-07-21, 17:42:30](https://news.ycombinator.com/item?id=44638076) - [Show HN: Pogocache – Fast caching software](https://github.com/tidwall/pogocache)
 * [2025-07-21, 17:24:40](https://news.ycombinator.com/item?id=44637815) - [Germany's Fairytale Castles Added to UNESCO's World Heritage List](https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/)
@@ -11,7 +14,6 @@
 * [2025-07-21, 16:36:13](https://news.ycombinator.com/item?id=44637191) - [Gemini with Deep Think officially achieves gold-medal standard at the IMO](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
 * [2025-07-21, 16:32:43](https://news.ycombinator.com/item?id=44637151) - [Modern Debian-based Window Maker distribution](https://wmlive.sourceforge.net/)
 * [2025-07-21, 16:31:57](https://news.ycombinator.com/item?id=44637137) - [Solar-plus-storage technology is improving quickly](https://www.volts.wtf/p/solarstorage-is-so-much-farther-along)
-* [2025-07-21, 16:31:05](https://news.ycombinator.com/item?id=44637128) - [Outdoor activity is better for cognition than indoor activity in young people](https://www.sciencedirect.com/science/article/pii/S0031938425000897)
 * [2025-07-21, 16:09:55](https://news.ycombinator.com/item?id=44636896) - [India: Income Tax Bill allows officials to forcibly access social media, email](https://www.thehindu.com/business/Economy/parliamentary-panel-retains-income-tax-bill-provisions-allowing-tax-officials-to-forcibly-access-social-media-private-email/article69837600.ece)
 * [2025-07-21, 16:09:01](https://news.ycombinator.com/item?id=44636886) - [Comparison of MGR, SunView, OpenWindows and X11R6 (2022)](http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 * [2025-07-21, 15:59:40](https://news.ycombinator.com/item?id=44636774) - [Memory Efficiency in iOS: Reducing footprint and beyond](https://antongubarenko.substack.com/p/memory-efficiency-in-ios-reducing)
@@ -23,13 +25,11 @@
 * [2025-07-21, 14:46:40](https://news.ycombinator.com/item?id=44635745) - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
 * [2025-07-21, 12:00:06](https://news.ycombinator.com/item?id=44634166) - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
 * [2025-07-21, 11:26:04](https://news.ycombinator.com/item?id=44633933) - [We made Postgres writes faster, but it broke replication](https://www.paradedb.com/blog/lsm_trees_in_postgres)
-* [2025-07-21, 01:15:55](https://news.ycombinator.com/item?id=44630927) - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
 * [2025-07-19, 15:36:59](https://news.ycombinator.com/item?id=44616405) - [Writing your Clojure tests in EDN files](https://biffweb.com/p/edn-tests/)
 * [2025-07-19, 04:37:55](https://news.ycombinator.com/item?id=44612643) - [Amazon and the \"Profitless Business Model\" Fallacy](https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative)
 * [2025-07-18, 14:41:04](https://news.ycombinator.com/item?id=44605169) - [Hiding messages in a deck playing cards](https://asherfalcon.com/blog/posts/3)
 * [2025-07-18, 11:09:07](https://news.ycombinator.com/item?id=44603349) - [“Dynamic programming” is not referring to “computer programming”](https://www.vidarholen.net/contents/blog/?p=1172)
-* [2025-07-18, 00:59:21](https://news.ycombinator.com/item?id=44600070) - [Quadratic forms beyond arithmetic](https://www.ams.org/journals/notices/202507/noti3192/noti3192.html)
-* [2025-07-17, 20:54:02](https://news.ycombinator.com/item?id=44598090) - [The daily life of a medieval king](https://www.medievalists.net/2025/07/medieval-king-daily-life/)
+* [2025-07-18, 06:16:32](https://news.ycombinator.com/item?id=44601736) - [Improving End-to-End Tests to Reduce Flakiness: Tools and Strategies](https://blog.testresult.co/improving-end-to-end-tests-to-reduce-flakiness-tools-strategies/)
 
 ## [Archives](archives/index.md)
 

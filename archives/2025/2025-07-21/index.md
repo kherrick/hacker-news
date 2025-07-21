@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 18:32:26](https://news.ycombinator.com/item?id=44638710) - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
+* [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What Went Wrong Inside Recalled Anker PowerCore 10000 Power Banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
 * [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
+* [2025-07-21, 18:07:40](https://news.ycombinator.com/item?id=44638397) - [Work Life balance slows careers](https://www.pathtostaff.com/p/work-life-balance-slows-careers-e9)
 * [2025-07-21, 17:59:00](https://news.ycombinator.com/item?id=44638300) - [Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed](https://tedium.co/2025/07/21/the-game-genie-generation/)
 * [2025-07-21, 17:42:30](https://news.ycombinator.com/item?id=44638076) - [Show HN: Pogocache – Fast caching software](https://github.com/tidwall/pogocache)
 * [2025-07-21, 17:24:40](https://news.ycombinator.com/item?id=44637815) - [Germany's Fairytale Castles Added to UNESCO's World Heritage List](https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/)
