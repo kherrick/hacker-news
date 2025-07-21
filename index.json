@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-07-21, 10:23:40",
-      "https://news.ycombinator.com/item?id=44633562"
-    ],
-    [
-      "NIH limits scientists to six applications per year",
-      "https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 06:15:05",
       "https://news.ycombinator.com/item?id=44632240"
     ],
     [
-      "How to handle people dismissing io_uring as insecure?",
+      "How to handle people dismissing io_uring as insecure? (2024)",
       "https://github.com/axboe/liburing/discussions/1047"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Debugging Bash Like a Sire (2023)",
       "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 09:35:37",
+      "https://news.ycombinator.com/item?id=44591439"
+    ],
+    [
+      "JOVE – Jonathan’s Own Version of Emacs",
+      "https://github.com/jonmacs/jove/"
     ]
   ],
   [
