@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 12:20:36](https://news.ycombinator.com/item?id=44634293) - [Ryanair may increase commission to staff identifying oversized cabin bags](https://www.rte.ie/news/ireland/2025/0721/1524508-ryanair-baggage/)
+* [2025-07-21, 12:00:06](https://news.ycombinator.com/item?id=44634166) - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
+* [2025-07-21, 11:22:31](https://news.ycombinator.com/item?id=44633902) - [France launches criminal probe of X over alleged algorithm ‘manipulation’](https://www.ft.com/content/21818d23-71d7-45a4-ae8c-e7940f5d9e00)
 * [2025-07-21, 10:23:40](https://news.ycombinator.com/item?id=44633562) - [Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
+* [2025-07-21, 09:48:05](https://news.ycombinator.com/item?id=44633384) - [XSLT: A Precision Tool for the Future of Structured Transformation](https://www.xml.com/articles/2025/07/19/xslt-precision-tool-future-structured-transformation/)
 * [2025-07-21, 09:45:10](https://news.ycombinator.com/item?id=44633373) - [Israeli forces launch ground assault in central Gaza for first time](https://www.bbc.com/news/live/cvg9ky87dpdt)
 * [2025-07-21, 09:18:48](https://news.ycombinator.com/item?id=44633228) - [The Missing Guide to Prompt Engineering](https://appetals.com/promptguide/)
 * [2025-07-21, 07:20:55](https://news.ycombinator.com/item?id=44632575) - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
