@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 08:08:37](https://news.ycombinator.com/item?id=44644404) - [How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference](https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/)
 * [2025-07-22, 07:00:35](https://news.ycombinator.com/item?id=44643981) - [Kapa.ai (YC S23) is hiring a software engineers (EU remote)](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack)
 * [2025-07-22, 05:42:10](https://news.ycombinator.com/item?id=44643564) - [Complete silence is always hallucinated as \"ترجمة نانسي قنقر\" in Arabic](https://github.com/openai/whisper/discussions/2608)
 * [2025-07-22, 03:48:34](https://news.ycombinator.com/item?id=44643055) - [Workers of Snopes.com won voluntary recognition of their union, the Snopes Guild](https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/)
