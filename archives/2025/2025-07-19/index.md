@@ -11,6 +11,7 @@
 * [2025-07-19, 22:25:09](https://news.ycombinator.com/item?id=44620002) - [Ring introducing new feature to allow police to live-stream access to cameras](https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance)
 * [2025-07-19, 21:44:30](https://news.ycombinator.com/item?id=44619709) - [Perl Versioning Scheme and Gentoo](https://wiki.gentoo.org/wiki/Project:Perl/Version-Scheme)
 * [2025-07-19, 20:50:40](https://news.ycombinator.com/item?id=44619258) - [The Future of Ultra-Fast Passenger Travel](https://spaceambition.substack.com/p/beyond-the-sound-barrier)
+* [2025-07-19, 20:44:19](https://news.ycombinator.com/item?id=44619206) - [Don't Animate Height](https://www.granola.ai/blog/dont-animate-height)
 * [2025-07-19, 20:23:33](https://news.ycombinator.com/item?id=44619020) - [Show HN: A rudimentary game engine to build four dimensional VR evironments](https://www.brainpaingames.com/Hypershack.html)
 * [2025-07-19, 20:15:26](https://news.ycombinator.com/item?id=44618959) - [Trigon: Exploiting coprocessors for fun and for profit (part 2)](https://alfiecg.uk/2025/07/16/Trigon.html)
 * [2025-07-19, 20:03:27](https://news.ycombinator.com/item?id=44618844) - [1990 Networking: LAN Manager 2.0](https://www.os2museum.com/wp/1990-networking-lan-manager-2-0/)

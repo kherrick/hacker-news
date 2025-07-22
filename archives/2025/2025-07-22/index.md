@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 16:22:51](https://news.ycombinator.com/item?id=44649319) - [Tiny Code Reader: a $7 QR code sensor](https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor)
 * [2025-07-22, 16:11:45](https://news.ycombinator.com/item?id=44649115) - [Launch HN: Promi (YC S24) – Personalize e-commerce discounts and retail offers](https://news.ycombinator.com/item?id=44649115)
 * [2025-07-22, 16:07:22](https://news.ycombinator.com/item?id=44649036) - [Tailwind Is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
 * [2025-07-22, 16:03:11](https://news.ycombinator.com/item?id=44648957) - [Bypassing Watermark Implementations](https://blog.kulkan.com/bypassing-watermark-implementations-fe39e98ca22b)
