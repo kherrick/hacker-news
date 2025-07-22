@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-22, 01:28:49](https://news.ycombinator.com/item?id=44642349) - [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
-* [2025-07-22, 00:21:48](https://news.ycombinator.com/item?id=44641961) - [Jujutsu for Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
 * [2025-07-21, 23:45:15](https://news.ycombinator.com/item?id=44641669) - [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
 * [2025-07-21, 23:26:40](https://news.ycombinator.com/item?id=44641521) - [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
 * [2025-07-21, 23:18:14](https://news.ycombinator.com/item?id=44641464) - [FCC to eliminate gigabit speed goal and scrap analysis of broadband prices](https://arstechnica.com/civis/threads/fcc-to-eliminate-gigabit-speed-goal-and-scrap-analysis-of-broadband-prices.1508451/page-2)
@@ -15,7 +14,6 @@
 * [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What went wrong inside recalled Anker PowerCore 10000 power banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
 * [2025-07-21, 18:16:10](https://news.ycombinator.com/item?id=44638510) - [Show HN: Lotas – Cursor for RStudio](https://www.lotas.ai/)
 * [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
-* [2025-07-21, 17:59:00](https://news.ycombinator.com/item?id=44638300) - [Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed](https://tedium.co/2025/07/21/the-game-genie-generation/)
 * [2025-07-21, 17:16:44](https://news.ycombinator.com/item?id=44637716) - [Jqfmt like gofmt, but for jq](https://github.com/noperator/jqfmt)
 * [2025-07-21, 17:16:41](https://news.ycombinator.com/item?id=44637715) - [Don't bother parsing: Just use images for RAG](https://www.morphik.ai/blog/stop-parsing-docs)
 * [2025-07-21, 16:48:28](https://news.ycombinator.com/item?id=44637352) - [AccountingBench: Evaluating LLMs on real long-horizon business tasks](https://accounting.penrose.com/)
@@ -26,8 +24,10 @@
 * [2025-07-21, 14:46:40](https://news.ycombinator.com/item?id=44635745) - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
 * [2025-07-21, 12:27:24](https://news.ycombinator.com/item?id=44634340) - [I've launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
 * [2025-07-20, 21:58:06](https://news.ycombinator.com/item?id=44629710) - [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
+* [2025-07-19, 12:41:15](https://news.ycombinator.com/item?id=44615033) - [NASA's X-59 Quiet Supersonic Aircraft Begins Taxi Tests](https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/)
 * [2025-07-19, 11:54:40](https://news.ycombinator.com/item?id=44614747) - [Sutton SignWriting is a writing system for sign languages](https://en.m.wikipedia.org/wiki/SignWriting)
 * [2025-07-19, 07:33:19](https://news.ycombinator.com/item?id=44613361) - [A brief history of primary coding languages](https://eclecticlight.co/2025/07/19/a-brief-history-of-primary-coding-languages/)
+* [2025-07-19, 07:11:14](https://news.ycombinator.com/item?id=44613268) - [My favourite German word](https://vurt.org/articles/my-favourite-german-word/)
 * [2025-07-18, 14:47:16](https://news.ycombinator.com/item?id=44605245) - [Losing language features: some stories about disjoint unions](https://graydon2.dreamwidth.org/318788.html)
 * [2025-07-17, 20:54:02](https://news.ycombinator.com/item?id=44598090) - [The daily life of a medieval king](https://www.medievalists.net/2025/07/medieval-king-daily-life/)
 
