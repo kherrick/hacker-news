@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-07-22, 16:11:45",
+      "https://news.ycombinator.com/item?id=44649115"
+    ],
+    [
+      "Launch HN: Promi (YC S24) – Personalize e-commerce discounts and retail offers",
+      "https://news.ycombinator.com/item?id=44649115"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 16:07:22",
+      "https://news.ycombinator.com/item?id=44649036"
+    ],
+    [
+      "Tailwind Is the Worst of All Worlds",
+      "https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 16:03:11",
+      "https://news.ycombinator.com/item?id=44648957"
+    ],
+    [
+      "Bypassing Watermark Implementations",
+      "https://blog.kulkan.com/bypassing-watermark-implementations-fe39e98ca22b"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 15:54:31",
+      "https://news.ycombinator.com/item?id=44648772"
+    ],
+    [
+      "Blip: Peer-to-Peer Massive File Sharing by Former Dropbox Engineers",
+      "https://blip.net/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 15:51:50",
+      "https://news.ycombinator.com/item?id=44648728"
+    ],
+    [
+      "Why Facts Don't Change Minds–Structure Does (A Systems Analysis of Belief)",
+      "https://vasily.cc/blog/facts-dont-change-minds/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 15:50:41",
+      "https://news.ycombinator.com/item?id=44648700"
+    ],
+    [
+      "Mary Had Schizophrenia–Then Suddenly She Didn't",
+      "https://www.newyorker.com/magazine/2025/07/28/mary-had-schizophrenia-then-suddenly-she-didnt"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 15:25:56",
       "https://news.ycombinator.com/item?id=44648288"
     ],
@@ -47,16 +107,6 @@
     [
       "Go Allocation Probe",
       "https://www.scattered-thoughts.net/writing/go-allocation-probe/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 14:44:04",
-      "https://news.ycombinator.com/item?id=44647544"
-    ],
-    [
-      "A big problem for Tesla isn't getting much attention",
-      "https://www.cnn.com/2025/07/22/business/tesla-regulatory-credit-sales-revenue"
     ]
   ],
   [
@@ -151,22 +201,22 @@
   ],
   [
     [
-      "2025-07-22, 12:31:11",
-      "https://news.ycombinator.com/item?id=44646065"
-    ],
-    [
-      "French petition against return of bee-killing pesticide passes 1M",
-      "https://phys.org/news/2025-07-french-petition-bee-pesticide-1mn.html"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 12:05:44",
       "https://news.ycombinator.com/item?id=44645846"
     ],
     [
       "Show HN: The Magic of Code – book about the wonders and weirdness of computation",
       "https://themagicofcode.com/sample/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 11:31:24",
+      "https://news.ycombinator.com/item?id=44645597"
+    ],
+    [
+      "Show HN: A word of the day that doesn't suck",
+      "https://news.ycombinator.com/item?id=44645597"
     ]
   ],
   [
@@ -211,26 +261,6 @@
   ],
   [
     [
-      "2025-07-21, 18:22:11",
-      "https://news.ycombinator.com/item?id=44638580"
-    ],
-    [
-      "What went wrong inside recalled Anker PowerCore 10000 power banks?",
-      "https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 21:58:06",
-      "https://news.ycombinator.com/item?id=44629710"
-    ],
-    [
-      "Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say",
-      "https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 15:12:04",
       "https://news.ycombinator.com/item?id=44616158"
     ],
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2025-07-19, 08:59:59",
-      "https://news.ycombinator.com/item?id=44613791"
-    ],
-    [
-      "The .a file is a relic: Why static archives were a bad idea all along",
-      "https://medium.com/@eyal.itkin/the-a-file-is-a-relic-why-static-archives-were-a-bad-idea-all-along-8cd1cf6310c5"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 08:18:57",
       "https://news.ycombinator.com/item?id=44613594"
     ],
     [
       "From Cartography to Code: Architectures of Power at the Venice Biennale 2025",
       "https://www.stirworld.com/see-features-from-cartography-to-code-architectures-of-power-at-the-venice-biennale-2025"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 20:01:22",
-      "https://news.ycombinator.com/item?id=44609154"
-    ],
-    [
-      "Largest piece of Mars on Earth fetches $5.3M at auction",
-      "https://apnews.com/article/mars-rock-meteorite-auction-dinosaur-sothebys-01d7ccfc8dc580ad86f8e97a305fc8fa"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 12:36:40",
-      "https://news.ycombinator.com/item?id=44604024"
-    ],
-    [
-      "Python audio processing with pedalboard",
-      "https://lwn.net/Articles/1027814/"
     ]
   ],
   [
