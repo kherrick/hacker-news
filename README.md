@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-22, 03:48:34](https://news.ycombinator.com/item?id=44643055) - [Workers of Snopes.com won voluntary recognition of their union, the Snopes Guild](https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/)
+* [2025-07-22, 03:48:34](https://news.ycombinator.com/item?id=44643055) - [Workers at Snopes.com win voluntary recognition](https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/)
 * [2025-07-22, 03:21:49](https://news.ycombinator.com/item?id=44642927) - [Reengineered carbon-to-acetylene process with negative carbon emission (2023)](https://pubs.rsc.org/en/content/articlehtml/2023/gc/d3gc01775c)
 * [2025-07-22, 02:49:29](https://news.ycombinator.com/item?id=44642796) - [We Have Made the Decision to Not Continue Paying for BBB Accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
 * [2025-07-22, 01:28:49](https://news.ycombinator.com/item?id=44642349) - [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
@@ -14,11 +14,10 @@
 * [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 * [2025-07-21, 18:32:26](https://news.ycombinator.com/item?id=44638710) - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
 * [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What went wrong inside recalled Anker PowerCore 10000 power banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
-* [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
+* [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What will become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
 * [2025-07-21, 17:16:44](https://news.ycombinator.com/item?id=44637716) - [Jqfmt like gofmt, but for jq](https://github.com/noperator/jqfmt)
 * [2025-07-21, 17:16:41](https://news.ycombinator.com/item?id=44637715) - [Don't bother parsing: Just use images for RAG](https://www.morphik.ai/blog/stop-parsing-docs)
 * [2025-07-21, 16:48:28](https://news.ycombinator.com/item?id=44637352) - [AccountingBench: Evaluating LLMs on real long-horizon business tasks](https://accounting.penrose.com/)
-* [2025-07-21, 16:36:13](https://news.ycombinator.com/item?id=44637191) - [Gemini with Deep Think achieves gold-medal standard at the IMO](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
 * [2025-07-21, 15:18:41](https://news.ycombinator.com/item?id=44636204) - [New records on Wendelstein 7-X](https://www.iter.org/node/20687/new-records-wendelstein-7-x)
 * [2025-07-21, 14:54:41](https://news.ycombinator.com/item?id=44635867) - [Occasionally USPS sends me pictures of other people's mail](https://the418.substack.com/p/a-bug-in-the-mail)
 * [2025-07-21, 14:51:13](https://news.ycombinator.com/item?id=44635808) - [TrackWeight: Turn your MacBook's trackpad into a digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
@@ -28,6 +27,7 @@
 * [2025-07-19, 12:41:15](https://news.ycombinator.com/item?id=44615033) - [NASA's X-59 Quiet Supersonic Aircraft Begins Taxi Tests](https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/)
 * [2025-07-19, 07:33:19](https://news.ycombinator.com/item?id=44613361) - [A brief history of primary coding languages](https://eclecticlight.co/2025/07/19/a-brief-history-of-primary-coding-languages/)
 * [2025-07-19, 07:11:14](https://news.ycombinator.com/item?id=44613268) - [My favourite German word](https://vurt.org/articles/my-favourite-german-word/)
+* [2025-07-19, 00:17:10](https://news.ycombinator.com/item?id=44611298) - [Tokyo's retro shotengai arcades are falling victim to gentrification](https://www.theguardian.com/world/2025/jul/18/cult-of-convenience-how-tokyos-retro-shotengai-arcades-are-falling-victim-to-gentrification)
 * [2025-07-18, 16:31:42](https://news.ycombinator.com/item?id=44606653) - [Look up macOS system binaries](https://macosbin.com)
 * [2025-07-18, 14:47:16](https://news.ycombinator.com/item?id=44605245) - [Losing language features: some stories about disjoint unions](https://graydon2.dreamwidth.org/318788.html)
 
