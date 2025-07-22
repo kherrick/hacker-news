@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-22, 22:56:55",
+      "https://news.ycombinator.com/item?id=44653965"
+    ],
+    [
+      "Algorithms for Modern Processor Architectures",
+      "https://lemire.github.io/talks/2025/sea/sea2025.html"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 22:12:25",
       "https://news.ycombinator.com/item?id=44653586"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44653072"
     ],
     [
-      "Qwen3-Coder: Agentic Coding in the World",
+      "Qwen3-Coder: Agentic coding in the world",
       "https://qwenlm.github.io/blog/qwen3-coder/"
     ]
   ],
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2025-07-19, 19:24:46",
-      "https://news.ycombinator.com/item?id=44618509"
-    ],
-    [
-      "Cosmic Dawn: The Untold Story of the James Webb Space Telescope",
-      "https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 14:42:53",
-      "https://news.ycombinator.com/item?id=44615862"
-    ],
-    [
-      "Origami Space Planes Could Solve a Major Problem in Orbit",
-      "https://gizmodo.com/origami-space-planes-could-solve-a-major-problem-in-orbit-2000629875"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 07:48:15",
       "https://news.ycombinator.com/item?id=44613438"
     ],
     [
       "Show HN: Compass CNC – Open-source handheld CNC router",
       "https://www.compassrouter.com"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 07:11:14",
+      "https://news.ycombinator.com/item?id=44613268"
+    ],
+    [
+      "My favourite German word",
+      "https://vurt.org/articles/my-favourite-german-word/"
     ]
   ]
 ]
