@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 21:00:34](https://news.ycombinator.com/item?id=44652938) - [Firebender (YC W24) Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
 * [2025-07-22, 20:16:18](https://news.ycombinator.com/item?id=44652482) - [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
 * [2025-07-22, 20:06:33](https://news.ycombinator.com/item?id=44652374) - [Unsafe and Unpredictable: My Volvo EX90 Experience](https://www.myvolvoex90.com/)
 * [2025-07-22, 19:17:38](https://news.ycombinator.com/item?id=44651770) - [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
