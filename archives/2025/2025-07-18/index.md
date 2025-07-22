@@ -88,6 +88,7 @@
 * [2025-07-18, 08:36:47](https://news.ycombinator.com/item?id=44602532) - [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 * [2025-07-18, 08:05:26](https://news.ycombinator.com/item?id=44602364) - [Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)](https://www.arva.ai/careers/ai-research-engineer)
 * [2025-07-18, 07:40:52](https://news.ycombinator.com/item?id=44602227) - [Scholars solved a 130-year literary mystery and it hinged on one word](https://www.sciencedaily.com/releases/2025/07/250716000855.htm)
+* [2025-07-18, 07:35:49](https://news.ycombinator.com/item?id=44602197) - [What happens when an octopus engages with art?](https://www.cnn.com/2025/07/17/style/what-happens-when-an-octopus-engages-with-art)
 * [2025-07-18, 06:16:32](https://news.ycombinator.com/item?id=44601736) - [Improving End-to-End Tests to Reduce Flakiness: Tools and Strategies](https://blog.testresult.co/improving-end-to-end-tests-to-reduce-flakiness-tools-strategies/)
 * [2025-07-18, 05:38:55](https://news.ycombinator.com/item?id=44601562) - [Why is AI so slow to spread?](https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain)
 * [2025-07-18, 05:37:17](https://news.ycombinator.com/item?id=44601548) - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
