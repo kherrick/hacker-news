@@ -38,6 +38,7 @@
 * [2025-07-18, 17:32:47](https://news.ycombinator.com/item?id=44607547) - [Experts lay into Tesla safety in federal autopilot trial](https://arstechnica.com/cars/2025/07/experts-lay-into-tesla-safety-in-federal-autopilot-trial/)
 * [2025-07-18, 17:21:49](https://news.ycombinator.com/item?id=44607403) - [The Year of Peak Might and Magic](https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/)
 * [2025-07-18, 17:12:05](https://news.ycombinator.com/item?id=44607252) - [Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot](https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/)
+* [2025-07-18, 17:02:35](https://news.ycombinator.com/item?id=44607125) - [He Rewrote Everything in Rust – Then We Got Fired](https://medium.com/@ThreadSafeDiaries/he-rewrote-everything-in-rust-then-we-got-fired-293e3e16c2d3)
 * [2025-07-18, 16:41:52](https://news.ycombinator.com/item?id=44606803) - [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
 * [2025-07-18, 16:32:55](https://news.ycombinator.com/item?id=44606671) - [Gmail's backup codes are useless to access account](https://news.ycombinator.com/item?id=44606671)
 * [2025-07-18, 16:31:42](https://news.ycombinator.com/item?id=44606653) - [Look up macOS system binaries](https://macosbin.com)
