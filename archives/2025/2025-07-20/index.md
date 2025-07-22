@@ -60,6 +60,7 @@
 * [2025-07-20, 06:20:02](https://news.ycombinator.com/item?id=44622454) - [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
 * [2025-07-20, 06:03:33](https://news.ycombinator.com/item?id=44622382) - [Will the Fear of Being Confused for AI Mean That We Will Now Write Differently?](https://3quarksdaily.com/3quarksdaily/2025/06/will-the-fear-of-being-confused-for-ai-mean-that-we-will-now-write-differently.html)
 * [2025-07-20, 06:01:45](https://news.ycombinator.com/item?id=44622374) - [Show HN: MCP server for Blender that builds 3D scenes via natural language](https://blender-mcp-psi.vercel.app/)
+* [2025-07-20, 05:58:47](https://news.ycombinator.com/item?id=44622360) - [You can use GitHub from your Watch – GitWrist](https://github.com/DaytimeDev/GitWrist)
 * [2025-07-20, 03:14:26](https://news.ycombinator.com/item?id=44621675) - [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit)
 * [2025-07-20, 02:36:53](https://news.ycombinator.com/item?id=44621487) - [Borg - Deduplicating Archiver with Compression and Encryption](https://www.borgbackup.org/)
 * [2025-07-20, 02:02:44](https://news.ycombinator.com/item?id=44621268) - [Erythritol linked to brain cell damage and stroke risk](https://www.sciencedaily.com/releases/2025/07/250718035156.htm)

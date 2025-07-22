@@ -25,7 +25,7 @@
 * [2025-07-22, 13:53:46](https://news.ycombinator.com/item?id=44646925) - [OSS Rebuild: open-source, rebuilt to last](https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html)
 * [2025-07-22, 13:43:16](https://news.ycombinator.com/item?id=44646801) - [TODOs aren't for doing](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
 * [2025-07-22, 12:05:44](https://news.ycombinator.com/item?id=44645846) - [Show HN: The Magic of Code – book about the wonders and weirdness of computation](https://themagicofcode.com/sample/)
-* [2025-07-19, 23:45:27](https://news.ycombinator.com/item?id=44620546) - [Asymmetry of verification and verifier's law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+* [2025-07-20, 05:58:47](https://news.ycombinator.com/item?id=44622360) - [You can use GitHub from your Watch – GitWrist](https://github.com/DaytimeDev/GitWrist)
 * [2025-07-19, 20:44:19](https://news.ycombinator.com/item?id=44619206) - [Don't animate height](https://www.granola.ai/blog/dont-animate-height)
 * [2025-07-19, 19:24:46](https://news.ycombinator.com/item?id=44618509) - [Cosmic Dawn: The Untold Story of the James Webb Space Telescope](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/)
 * [2025-07-19, 14:42:53](https://news.ycombinator.com/item?id=44615862) - [Origami Space Planes Could Solve a Major Problem in Orbit](https://gizmodo.com/origami-space-planes-could-solve-a-major-problem-in-orbit-2000629875)
