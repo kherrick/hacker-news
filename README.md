@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-22, 22:12:25](https://news.ycombinator.com/item?id=44653586) - [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
 * [2025-07-22, 21:12:30](https://news.ycombinator.com/item?id=44653072) - [Qwen3-Coder: Agentic Coding in the World](https://qwenlm.github.io/blog/qwen3-coder/)
 * [2025-07-22, 21:00:34](https://news.ycombinator.com/item?id=44652938) - [Firebender (YC W24) Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
 * [2025-07-22, 20:16:18](https://news.ycombinator.com/item?id=44652482) - [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
@@ -17,7 +18,6 @@
 * [2025-07-22, 16:41:31](https://news.ycombinator.com/item?id=44649651) - [Gemini North telescope discovers long-predicted stellar companion of Betelgeuse](https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last)
 * [2025-07-22, 16:22:51](https://news.ycombinator.com/item?id=44649319) - [Tiny Code Reader: a $7 QR code sensor](https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor)
 * [2025-07-22, 16:11:45](https://news.ycombinator.com/item?id=44649115) - [Launch HN: Promi (YC S24) – Personalize e-commerce discounts and retail offers](https://news.ycombinator.com/item?id=44649115)
-* [2025-07-22, 16:03:11](https://news.ycombinator.com/item?id=44648957) - [Bypassing Watermark Implementations](https://blog.kulkan.com/bypassing-watermark-implementations-fe39e98ca22b)
 * [2025-07-22, 15:51:50](https://news.ycombinator.com/item?id=44648728) - [Facts don't change minds, structure does](https://vasily.cc/blog/facts-dont-change-minds/)
 * [2025-07-22, 15:18:56](https://news.ycombinator.com/item?id=44648144) - [Many lung cancers are now in nonsmokers](https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html)
 * [2025-07-22, 14:45:45](https://news.ycombinator.com/item?id=44647572) - [Go allocation probe](https://www.scattered-thoughts.net/writing/go-allocation-probe/)
