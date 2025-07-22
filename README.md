@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-22, 08:49:44](https://news.ycombinator.com/item?id=44644645) - ['Shameful' CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
-* [2025-07-22, 08:11:57](https://news.ycombinator.com/item?id=44644428) - [Raft Consensus Algorithms](https://blog.outlandish.claims/p/raft-consensus-algorithms)
 * [2025-07-22, 08:08:37](https://news.ycombinator.com/item?id=44644404) - [How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference](https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/)
 * [2025-07-22, 07:00:35](https://news.ycombinator.com/item?id=44643981) - [Kapa.ai (YC S23) is hiring a software engineers (EU remote)](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack)
 * [2025-07-22, 05:42:10](https://news.ycombinator.com/item?id=44643564) - [Complete silence is always hallucinated as \"ترجمة نانسي قنقر\" in Arabic](https://github.com/openai/whisper/discussions/2608)
@@ -23,6 +22,7 @@
 * [2025-07-21, 14:51:13](https://news.ycombinator.com/item?id=44635808) - [TrackWeight: Turn your MacBook's trackpad into a digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
 * [2025-07-21, 12:27:24](https://news.ycombinator.com/item?id=44634340) - [I've launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
 * [2025-07-20, 21:58:06](https://news.ycombinator.com/item?id=44629710) - [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
+* [2025-07-19, 20:23:33](https://news.ycombinator.com/item?id=44619020) - [Show HN: A rudimentary game engine to build four dimensional VR evironments](https://www.brainpaingames.com/Hypershack.html)
 * [2025-07-19, 12:41:15](https://news.ycombinator.com/item?id=44615033) - [Nasa’s X-59 quiet supersonic aircraft begins taxi tests](https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/)
 * [2025-07-19, 00:17:10](https://news.ycombinator.com/item?id=44611298) - [Tokyo's retro shotengai arcades are falling victim to gentrification](https://www.theguardian.com/world/2025/jul/18/cult-of-convenience-how-tokyos-retro-shotengai-arcades-are-falling-victim-to-gentrification)
 * [2025-07-18, 16:31:42](https://news.ycombinator.com/item?id=44606653) - [Look up macOS system binaries](https://macosbin.com)
