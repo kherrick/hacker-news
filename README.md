@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-22, 22:56:55](https://news.ycombinator.com/item?id=44653965) - [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
 * [2025-07-22, 22:12:25](https://news.ycombinator.com/item?id=44653586) - [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
-* [2025-07-22, 21:12:30](https://news.ycombinator.com/item?id=44653072) - [Qwen3-Coder: Agentic Coding in the World](https://qwenlm.github.io/blog/qwen3-coder/)
+* [2025-07-22, 21:12:30](https://news.ycombinator.com/item?id=44653072) - [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
 * [2025-07-22, 21:00:34](https://news.ycombinator.com/item?id=44652938) - [Firebender (YC W24) Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
 * [2025-07-22, 20:16:18](https://news.ycombinator.com/item?id=44652482) - [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
 * [2025-07-22, 20:06:33](https://news.ycombinator.com/item?id=44652374) - [Unsafe and Unpredictable: My Volvo EX90 Experience](https://www.myvolvoex90.com/)
@@ -27,9 +28,8 @@
 * [2025-07-22, 12:05:44](https://news.ycombinator.com/item?id=44645846) - [Show HN: The Magic of Code – book about the wonders and weirdness of computation](https://themagicofcode.com/sample/)
 * [2025-07-20, 05:58:47](https://news.ycombinator.com/item?id=44622360) - [You can use GitHub from your Watch – GitWrist](https://github.com/DaytimeDev/GitWrist)
 * [2025-07-19, 20:44:19](https://news.ycombinator.com/item?id=44619206) - [Don't animate height](https://www.granola.ai/blog/dont-animate-height)
-* [2025-07-19, 19:24:46](https://news.ycombinator.com/item?id=44618509) - [Cosmic Dawn: The Untold Story of the James Webb Space Telescope](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/)
-* [2025-07-19, 14:42:53](https://news.ycombinator.com/item?id=44615862) - [Origami Space Planes Could Solve a Major Problem in Orbit](https://gizmodo.com/origami-space-planes-could-solve-a-major-problem-in-orbit-2000629875)
 * [2025-07-19, 07:48:15](https://news.ycombinator.com/item?id=44613438) - [Show HN: Compass CNC – Open-source handheld CNC router](https://www.compassrouter.com)
+* [2025-07-19, 07:11:14](https://news.ycombinator.com/item?id=44613268) - [My favourite German word](https://vurt.org/articles/my-favourite-german-word/)
 
 ## [Archives](archives/index.md)
 
