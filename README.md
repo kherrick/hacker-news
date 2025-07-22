@@ -24,7 +24,7 @@
 * [2025-07-21, 14:51:13](https://news.ycombinator.com/item?id=44635808) - [TrackWeight: Turn your MacBook's trackpad into a digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
 * [2025-07-21, 12:27:24](https://news.ycombinator.com/item?id=44634340) - [I've launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
 * [2025-07-20, 21:58:06](https://news.ycombinator.com/item?id=44629710) - [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
-* [2025-07-19, 12:41:15](https://news.ycombinator.com/item?id=44615033) - [NASA’s X-59 quiet supersonic aircraft begins taxi tests](https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/)
+* [2025-07-19, 12:41:15](https://news.ycombinator.com/item?id=44615033) - [Nasa’s X-59 quiet supersonic aircraft begins taxi tests](https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/)
 * [2025-07-19, 00:17:10](https://news.ycombinator.com/item?id=44611298) - [Tokyo's retro shotengai arcades are falling victim to gentrification](https://www.theguardian.com/world/2025/jul/18/cult-of-convenience-how-tokyos-retro-shotengai-arcades-are-falling-victim-to-gentrification)
 * [2025-07-18, 16:31:42](https://news.ycombinator.com/item?id=44606653) - [Look up macOS system binaries](https://macosbin.com)
 * [2025-07-18, 14:47:16](https://news.ycombinator.com/item?id=44605245) - [Losing language features: some stories about disjoint unions](https://graydon2.dreamwidth.org/318788.html)
