@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-22, 20:06:33",
+      "https://news.ycombinator.com/item?id=44652374"
+    ],
+    [
+      "Unsafe and Unpredictable: My Volvo EX90 Experience",
+      "https://www.myvolvoex90.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 19:17:38",
+      "https://news.ycombinator.com/item?id=44651770"
+    ],
+    [
+      "More than you wanted to know about how Game Boy cartridges work",
+      "https://abc.decontextualize.com/more-than-you-wanted-to-know/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 19:17:32",
+      "https://news.ycombinator.com/item?id=44651766"
+    ],
+    [
+      "We built an air-gapped Jira alternative for regulated industries",
+      "https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 18:59:04",
       "https://news.ycombinator.com/item?id=44651539"
     ],
@@ -57,16 +87,6 @@
     [
       "Subliminal Learning: Models Transmit Behaviors via Hidden Signals in Data",
       "https://alignment.anthropic.com/2025/subliminal-learning/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 17:51:53",
-      "https://news.ycombinator.com/item?id=44650694"
-    ],
-    [
-      "Stop Pretending LLMs Have Feelings Media's Dangerous AI Anthropomorphism Problem",
-      "https://www.readtpa.com/p/stop-pretending-chatbots-have-feelings"
     ]
   ],
   [
@@ -151,42 +171,12 @@
   ],
   [
     [
-      "2025-07-22, 15:54:31",
-      "https://news.ycombinator.com/item?id=44648772"
-    ],
-    [
-      "Blip: Peer-to-peer massive file sharing",
-      "https://blip.net/"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 15:51:50",
       "https://news.ycombinator.com/item?id=44648728"
     ],
     [
       "Facts don't change minds, structure does",
       "https://vasily.cc/blog/facts-dont-change-minds/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 14:47:54",
-      "https://news.ycombinator.com/item?id=44647609"
-    ],
-    [
-      "1KB JavaScript Numbers Station",
-      "https://shkspr.mobi/blog/2025/07/1kb-js-numbers-station/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 14:47:33",
-      "https://news.ycombinator.com/item?id=44647600"
-    ],
-    [
-      "Reverse Proxy Deep Dive: Why HTTP Parsing at the Edge Is Harder Than It Looks",
-      "https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Cosmic Dawn: The Untold Story of the James Webb Space Telescope",
       "https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 09:24:37",
+      "https://news.ycombinator.com/item?id=44613901"
+    ],
+    [
+      "Immediately-Invoked Function Expression (2010)",
+      "https://benalman.com/news/2010/11/immediately-invoked-function-expression/"
     ]
   ],
   [
