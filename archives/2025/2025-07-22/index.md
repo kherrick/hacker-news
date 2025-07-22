@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 21:12:30](https://news.ycombinator.com/item?id=44653072) - [Qwen3-Coder: Agentic Coding in the World](https://qwenlm.github.io/blog/qwen3-coder/)
 * [2025-07-22, 21:00:34](https://news.ycombinator.com/item?id=44652938) - [Firebender (YC W24) Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
 * [2025-07-22, 20:16:18](https://news.ycombinator.com/item?id=44652482) - [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
 * [2025-07-22, 20:06:33](https://news.ycombinator.com/item?id=44652374) - [Unsafe and Unpredictable: My Volvo EX90 Experience](https://www.myvolvoex90.com/)
 * [2025-07-22, 19:17:38](https://news.ycombinator.com/item?id=44651770) - [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
 * [2025-07-22, 19:17:32](https://news.ycombinator.com/item?id=44651766) - [We built an air-gapped Jira alternative for regulated industries](https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped)
+* [2025-07-22, 19:09:31](https://news.ycombinator.com/item?id=44651661) - [Mistral reports on the environmental impact of LLMs](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai)
 * [2025-07-22, 19:05:24](https://news.ycombinator.com/item?id=44651616) - [Americans Are Paying for Tariffs, Not Foreign Companies](https://www.bloomberg.com/news/articles/2025-07-22/us-companies-and-consumers-are-paying-for-trump-s-tariffs)
 * [2025-07-22, 18:59:04](https://news.ycombinator.com/item?id=44651539) - [Swift-erlang-actor-system](https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248)
 * [2025-07-22, 18:58:23](https://news.ycombinator.com/item?id=44651536) - [Fun with gzip bombs and email clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients)
