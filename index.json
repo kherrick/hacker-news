@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-22, 01:28:49",
+      "https://news.ycombinator.com/item?id=44642349"
+    ],
+    [
+      "AI comes up with bizarre physics experiments, but they work",
+      "https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 00:21:48",
+      "https://news.ycombinator.com/item?id=44641961"
+    ],
+    [
+      "Jujutsu for Busy Devs",
+      "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 23:45:15",
       "https://news.ycombinator.com/item?id=44641669"
     ],
@@ -15,28 +35,18 @@
       "https://news.ycombinator.com/item?id=44641521"
     ],
     [
-      "uv Running a Script with Dependencies",
-      "https://docs.astral.sh/uv/guides/scripts/"
+      "Uv: Running a script with dependencies",
+      "https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies"
     ]
   ],
   [
     [
-      "2025-07-21, 23:03:26",
-      "https://news.ycombinator.com/item?id=44641363"
+      "2025-07-21, 23:18:14",
+      "https://news.ycombinator.com/item?id=44641464"
     ],
     [
-      "How to break the 'AI hype cycle'",
-      "https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 22:29:28",
-      "https://news.ycombinator.com/item?id=44641117"
-    ],
-    [
-      "LetsEncrypt – Complete Outage",
-      "https://letsencrypt.status.io/"
+      "FCC to eliminate gigabit speed goal and scrap analysis of broadband prices",
+      "https://arstechnica.com/civis/threads/fcc-to-eliminate-gigabit-speed-goal-and-scrap-analysis-of-broadband-prices.1508451/page-2"
     ]
   ],
   [
@@ -47,6 +57,36 @@
     [
       "Spice Data (YC S19) Is Hiring a Product Associate (New Grad)",
       "https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 20:57:11",
+      "https://news.ycombinator.com/item?id=44640331"
+    ],
+    [
+      "The surprising geography of American left-handedness (2015)",
+      "https://www.washingtonpost.com/news/wonk/wp/2015/09/22/the-surprising-geography-of-american-left-handedness/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 20:48:50",
+      "https://news.ycombinator.com/item?id=44640233"
+    ],
+    [
+      "In a major reversal, the world bank is backing mega dams (2024)",
+      "https://e360.yale.edu/features/world-bank-hydro-dams"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 20:43:10",
+      "https://news.ycombinator.com/item?id=44640178"
+    ],
+    [
+      "Yoni Appelbaum on the real villians behind our housing and mobility problems",
+      "https://www.riskgaming.com/p/how-jane-jacobs-got-americans-stuck"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2025-07-21, 18:31:20",
-      "https://news.ycombinator.com/item?id=44638689"
-    ],
-    [
-      "MIPS – The hyperactive history and legacy of the pioneering RISC architecture",
-      "https://thechipletter.substack.com/p/mips"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 18:22:11",
       "https://news.ycombinator.com/item?id=44638580"
     ],
@@ -107,6 +137,16 @@
     [
       "Show HN: Lotas – Cursor for RStudio",
       "https://www.lotas.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 18:16:07",
+      "https://news.ycombinator.com/item?id=44638509"
+    ],
+    [
+      "What Will Become of the CIA?",
+      "https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2025-07-21, 17:01:06",
-      "https://news.ycombinator.com/item?id=44637523"
-    ],
-    [
-      "Make Map Icons with Orthographic Projections",
-      "https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/custom-orthographic-icons"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 16:48:28",
       "https://news.ycombinator.com/item?id=44637352"
     ],
@@ -167,26 +197,6 @@
     [
       "Gemini with Deep Think achieves gold-medal standard at the IMO",
       "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 16:32:43",
-      "https://news.ycombinator.com/item?id=44637151"
-    ],
-    [
-      "Modern Debian-based Window Maker distribution",
-      "https://wmlive.sourceforge.net/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 15:54:03",
-      "https://news.ycombinator.com/item?id=44636691"
-    ],
-    [
-      "SecretSpec: Declarative Secrets Management",
-      "https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-07-21, 11:26:04",
-      "https://news.ycombinator.com/item?id=44633933"
+      "2025-07-21, 12:27:24",
+      "https://news.ycombinator.com/item?id=44634340"
     ],
     [
-      "We made Postgres writes faster, but it broke replication",
-      "https://www.paradedb.com/blog/lsm_trees_in_postgres"
+      "I've launched 37 products in 5 years and not doing that again",
+      "https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-07-19, 04:37:55",
-      "https://news.ycombinator.com/item?id=44612643"
+      "2025-07-19, 07:33:19",
+      "https://news.ycombinator.com/item?id=44613361"
     ],
     [
-      "Amazon and the “Profitless Business Model” Fallacy",
-      "https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative"
+      "A brief history of primary coding languages",
+      "https://eclecticlight.co/2025/07/19/a-brief-history-of-primary-coding-languages/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2025-07-18, 14:41:04",
-      "https://news.ycombinator.com/item?id=44605169"
+      "2025-07-17, 20:54:02",
+      "https://news.ycombinator.com/item?id=44598090"
     ],
     [
-      "Hiding messages in a deck playing cards",
-      "https://asherfalcon.com/blog/posts/3"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 07:40:52",
-      "https://news.ycombinator.com/item?id=44602227"
-    ],
-    [
-      "Scholars solved a 130-year literary mystery and it hinged on one word",
-      "https://www.sciencedaily.com/releases/2025/07/250716000855.htm"
+      "The daily life of a medieval king",
+      "https://www.medievalists.net/2025/07/medieval-king-daily-life/"
     ]
   ]
 ]
