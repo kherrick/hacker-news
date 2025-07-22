@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-22, 20:16:18",
+      "https://news.ycombinator.com/item?id=44652482"
+    ],
+    [
+      "NonRAID – fork of unRAID array kernel module",
+      "https://github.com/qvr/nonraid"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 20:06:33",
       "https://news.ycombinator.com/item?id=44652374"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2025-07-22, 18:54:05",
-      "https://news.ycombinator.com/item?id=44651485"
+      "2025-07-22, 18:27:44",
+      "https://news.ycombinator.com/item?id=44651142"
     ],
     [
-      "I Watched Gemini CLI Hallucinate and Delete My Files",
-      "https://anuraag2601.github.io/gemini_cli_disaster.html"
+      "LSM-2: Learning from incomplete wearable sensor data",
+      "https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Android Earthquake Alerts: A global system for early warning",
       "https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 18:20:47",
-      "https://news.ycombinator.com/item?id=44651066"
-    ],
-    [
-      "Ozzy Osbourne has died",
-      "https://www.bbc.co.uk/news/live/cn0qq5nyxn0t"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-07-22, 14:47:33",
+      "https://news.ycombinator.com/item?id=44647600"
+    ],
+    [
+      "Reverse Proxy Deep Dive: Why HTTP Parsing at the Edge Is Harder Than It Looks",
+      "https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 14:45:45",
       "https://news.ycombinator.com/item?id=44647572"
     ],
@@ -267,16 +277,6 @@
     [
       "Cosmic Dawn: The Untold Story of the James Webb Space Telescope",
       "https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 09:24:37",
-      "https://news.ycombinator.com/item?id=44613901"
-    ],
-    [
-      "Immediately-Invoked Function Expression (2010)",
-      "https://benalman.com/news/2010/11/immediately-invoked-function-expression/"
     ]
   ],
   [
