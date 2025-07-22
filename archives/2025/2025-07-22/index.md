@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 13:42:20](https://news.ycombinator.com/item?id=44646797) - [So you think you've awoken ChatGPT](https://www.lesswrong.com/posts/2pkNCvBtK6G6FKoNn/so-you-think-you-ve-awoken-chatgpt)
 * [2025-07-22, 12:40:05](https://news.ycombinator.com/item?id=44646151) - [Replit's CEO apologizes after its AI agent wiped a company's code base](https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7)
+* [2025-07-22, 12:31:11](https://news.ycombinator.com/item?id=44646065) - [French petition against return of bee-killing pesticide passes 1M](https://phys.org/news/2025-07-french-petition-bee-pesticide-1mn.html)
 * [2025-07-22, 10:57:18](https://news.ycombinator.com/item?id=44645391) - [The Hater's Guide to the AI Bubble](https://www.wheresyoured.at/the-haters-gui/)
 * [2025-07-22, 10:51:30](https://news.ycombinator.com/item?id=44645353) - [How to Firefox](https://kau.sh/blog/how-to-firefox/)
 * [2025-07-22, 08:49:44](https://news.ycombinator.com/item?id=44644645) - ['Shameful' CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
