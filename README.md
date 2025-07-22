@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-22, 10:57:18](https://news.ycombinator.com/item?id=44645391) - [The Hater's Guide to the AI Bubble](https://www.wheresyoured.at/the-haters-gui/)
+* [2025-07-22, 10:51:30](https://news.ycombinator.com/item?id=44645353) - [How to Firefox](https://kau.sh/blog/how-to-firefox/)
 * [2025-07-22, 08:49:44](https://news.ycombinator.com/item?id=44644645) - ['Shameful' CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
 * [2025-07-22, 08:08:37](https://news.ycombinator.com/item?id=44644404) - [How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference](https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/)
 * [2025-07-22, 07:00:35](https://news.ycombinator.com/item?id=44643981) - [Kapa.ai (YC S23) is hiring a software engineers (EU remote)](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack)
@@ -9,7 +11,6 @@
 * [2025-07-21, 23:26:40](https://news.ycombinator.com/item?id=44641521) - [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
 * [2025-07-21, 20:57:11](https://news.ycombinator.com/item?id=44640331) - [The surprising geography of American left-handedness (2015)](https://www.washingtonpost.com/news/wonk/wp/2015/09/22/the-surprising-geography-of-american-left-handedness/)
 * [2025-07-21, 19:40:15](https://news.ycombinator.com/item?id=44639524) - [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
-* [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 * [2025-07-21, 18:52:26](https://news.ycombinator.com/item?id=44638948) - [I know genomes and I didn’t delete my data from 23andMe](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
 * [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What went wrong inside recalled Anker PowerCore 10000 power banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
 * [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What will become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
@@ -29,7 +30,6 @@
 * [2025-07-18, 14:47:16](https://news.ycombinator.com/item?id=44605245) - [Losing language features: some stories about disjoint unions](https://graydon2.dreamwidth.org/318788.html)
 * [2025-07-18, 12:36:40](https://news.ycombinator.com/item?id=44604024) - [Python Audio Processing with Pedalboard](https://lwn.net/Articles/1027814/)
 * [2025-07-18, 08:55:56](https://news.ycombinator.com/item?id=44602609) - [An unprecedented window into how diseases take hold years before symptoms appear](https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits)
-* [2025-07-18, 07:35:49](https://news.ycombinator.com/item?id=44602197) - [What happens when an octopus engages with art?](https://www.cnn.com/2025/07/17/style/what-happens-when-an-octopus-engages-with-art)
 
 ## [Archives](archives/index.md)
 

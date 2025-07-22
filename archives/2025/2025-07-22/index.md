@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 10:57:18](https://news.ycombinator.com/item?id=44645391) - [The Hater's Guide to the AI Bubble](https://www.wheresyoured.at/the-haters-gui/)
+* [2025-07-22, 10:51:30](https://news.ycombinator.com/item?id=44645353) - [How to Firefox](https://kau.sh/blog/how-to-firefox/)
 * [2025-07-22, 08:49:44](https://news.ycombinator.com/item?id=44644645) - ['Shameful' CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
 * [2025-07-22, 08:11:57](https://news.ycombinator.com/item?id=44644428) - [Raft Consensus Algorithms](https://blog.outlandish.claims/p/raft-consensus-algorithms)
 * [2025-07-22, 08:08:37](https://news.ycombinator.com/item?id=44644404) - [How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference](https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/)
