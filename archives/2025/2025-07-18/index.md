@@ -76,6 +76,7 @@
 * [2025-07-18, 12:48:39](https://news.ycombinator.com/item?id=44604125) - [The Krull dimension of the semiring of natural numbers is equal to 2](https://freedommathdance.blogspot.com/2025/07/the-krull-dimension-of-natural-numbers.html)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://tangled.sh/@rockorager.dev/lsr)
 * [2025-07-18, 12:40:41](https://news.ycombinator.com/item?id=44604050) - [lsr: ls with io_uring](https://rockorager.dev/log/lsr-ls-but-with-io-uring/)
+* [2025-07-18, 12:36:40](https://news.ycombinator.com/item?id=44604024) - [Python Audio Processing with Pedalboard](https://lwn.net/Articles/1027814/)
 * [2025-07-18, 12:00:47](https://news.ycombinator.com/item?id=44603739) - [Resolve (YC W15) Is Hiring an Operations and Billing Lead for Construction VR](https://news.ycombinator.com/item?id=44603739)
 * [2025-07-18, 11:48:39](https://news.ycombinator.com/item?id=44603657) - [Why not to use iframes for embedded dashboards](https://embeddable.com/blog/iframes-for-embedding)
 * [2025-07-18, 11:10:53](https://news.ycombinator.com/item?id=44603365) - [The Most Powerful Server Embiggens a Bit with Power11](https://www.nextplatform.com/2025/07/16/the-worlds-most-powerful-server-embiggens-a-bit-with-power11/)
