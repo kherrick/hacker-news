@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 20:16:18](https://news.ycombinator.com/item?id=44652482) - [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
 * [2025-07-22, 20:06:33](https://news.ycombinator.com/item?id=44652374) - [Unsafe and Unpredictable: My Volvo EX90 Experience](https://www.myvolvoex90.com/)
 * [2025-07-22, 19:17:38](https://news.ycombinator.com/item?id=44651770) - [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
 * [2025-07-22, 19:17:32](https://news.ycombinator.com/item?id=44651766) - [We built an air-gapped Jira alternative for regulated industries](https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped)
@@ -11,6 +12,7 @@
 * [2025-07-22, 18:59:04](https://news.ycombinator.com/item?id=44651539) - [Swift-erlang-actor-system](https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248)
 * [2025-07-22, 18:58:23](https://news.ycombinator.com/item?id=44651536) - [Fun with gzip bombs and email clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients)
 * [2025-07-22, 18:54:05](https://news.ycombinator.com/item?id=44651485) - [I Watched Gemini CLI Hallucinate and Delete My Files](https://anuraag2601.github.io/gemini_cli_disaster.html)
+* [2025-07-22, 18:27:44](https://news.ycombinator.com/item?id=44651142) - [LSM-2: Learning from incomplete wearable sensor data](https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/)
 * [2025-07-22, 18:23:14](https://news.ycombinator.com/item?id=44651092) - [Android Earthquake Alerts: A global system for early warning](https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/)
 * [2025-07-22, 18:20:47](https://news.ycombinator.com/item?id=44651066) - [Black Sabbath's Ozzy Osbourne dies aged 76](https://www.bbc.co.uk/news/live/cn0qq5nyxn0t)
 * [2025-07-22, 18:18:39](https://news.ycombinator.com/item?id=44651041) - [AFP's last journalists in Gaza are starving to death](https://twitter.com/SDJ_AFP/status/1947609875183215005)
