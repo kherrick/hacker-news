@@ -60,6 +60,7 @@
 * [2025-07-19, 08:59:59](https://news.ycombinator.com/item?id=44613791) - [The .a File Is a Relic: Why Static Archives Were a Bad Idea All Along](https://medium.com/@eyal.itkin/the-a-file-is-a-relic-why-static-archives-were-a-bad-idea-all-along-8cd1cf6310c5)
 * [2025-07-19, 08:27:13](https://news.ycombinator.com/item?id=44613629) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/)
 * [2025-07-19, 08:26:45](https://news.ycombinator.com/item?id=44613625) - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
+* [2025-07-19, 08:18:57](https://news.ycombinator.com/item?id=44613594) - [From Cartography to Code: Architectures of Power at the Venice Biennale 2025](https://www.stirworld.com/see-features-from-cartography-to-code-architectures-of-power-at-the-venice-biennale-2025)
 * [2025-07-19, 08:02:41](https://news.ycombinator.com/item?id=44613511) - [Free BDSM Test – Discover Your True Role](https://bdsmtest.pro/)
 * [2025-07-19, 07:58:50](https://news.ycombinator.com/item?id=44613491) - [YouTube No Translation](https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
