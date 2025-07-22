@@ -84,6 +84,7 @@
 * [2025-07-18, 10:27:44](https://news.ycombinator.com/item?id=44603096) - [Crypto's Wild West Era Is Over](https://gizmodo.com/cryptos-wild-west-era-is-over-2000631148)
 * [2025-07-18, 10:22:15](https://news.ycombinator.com/item?id=44603066) - [CP/M Creator Gary Kildall's Memoirs Released as Free Download](https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download)
 * [2025-07-18, 09:34:42](https://news.ycombinator.com/item?id=44602779) - [Netflix uses generative AI in one of its shows for first time](https://www.theguardian.com/media/2025/jul/18/netflix-uses-generative-ai-in-show-for-first-time-el-eternauta)
+* [2025-07-18, 08:55:56](https://news.ycombinator.com/item?id=44602609) - [What Scientists Learned Scanning the Bodies of 100k Brits](https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits)
 * [2025-07-18, 08:36:47](https://news.ycombinator.com/item?id=44602532) - [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 * [2025-07-18, 08:05:26](https://news.ycombinator.com/item?id=44602364) - [Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)](https://www.arva.ai/careers/ai-research-engineer)
 * [2025-07-18, 07:40:52](https://news.ycombinator.com/item?id=44602227) - [Scholars solved a 130-year literary mystery and it hinged on one word](https://www.sciencedaily.com/releases/2025/07/250716000855.htm)

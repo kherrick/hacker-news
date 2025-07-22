@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 05:42:10](https://news.ycombinator.com/item?id=44643564) - [Complete silence is always hallucinated as \"ترجمة نانسي قنقر\" in Arabic](https://github.com/openai/whisper/discussions/2608)
 * [2025-07-22, 03:48:34](https://news.ycombinator.com/item?id=44643055) - [Workers of Snopes.com won voluntary recognition of their union, the Snopes Guild](https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/)
 * [2025-07-22, 03:21:49](https://news.ycombinator.com/item?id=44642927) - [Reengineered carbon-to-acetylene process with negative carbon emission (2023)](https://pubs.rsc.org/en/content/articlehtml/2023/gc/d3gc01775c)
 * [2025-07-22, 02:49:29](https://news.ycombinator.com/item?id=44642796) - [We Have Made the Decision to Not Continue Paying for BBB Accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
