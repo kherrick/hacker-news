@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 18:18:39](https://news.ycombinator.com/item?id=44651041) - [AFP's last journalists in Gaza are starving to death](https://twitter.com/SDJ_AFP/status/1947609875183215005)
+* [2025-07-22, 18:12:50](https://news.ycombinator.com/item?id=44650969) - [Ozzy Osbourne dies just weeks after farewell show](https://news.sky.com/story/ozzy-osbourne-dies-just-weeks-after-farewell-show-13400248)
+* [2025-07-22, 17:40:40](https://news.ycombinator.com/item?id=44650567) - [Show HN: Any-LLM – lightweight and open-source router to access any LLM Provider](https://github.com/mozilla-ai/any-llm)
 * [2025-07-22, 17:00:10](https://news.ycombinator.com/item?id=44649999) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer)
 * [2025-07-22, 16:50:12](https://news.ycombinator.com/item?id=44649817) - [AI Market Clarity](https://blog.eladgil.com/p/ai-market-clarity)
 * [2025-07-22, 16:45:26](https://news.ycombinator.com/item?id=44649713) - [The Case for Sabotage](https://collectiveactionintech.substack.com/p/the-case-for-sabotage)
 * [2025-07-22, 16:41:32](https://news.ycombinator.com/item?id=44649653) - [First Hubble Telescope Images of Interstellar Comet 3I/Atlas](https://bsky.app/profile/astrafoxen.bsky.social/post/3luiwnar3j22o)
+* [2025-07-22, 16:41:31](https://news.ycombinator.com/item?id=44649651) - [Gemini North telescope discovers long-predicted stellar companion of Betelgeuse](https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last)
 * [2025-07-22, 16:41:31](https://news.ycombinator.com/item?id=44649651) - [Gemini North Discovers Long-Predicted Stellar Companion of Betelgeuse](https://noirlab.edu/public/news/noirlab2523/)
 * [2025-07-22, 16:22:51](https://news.ycombinator.com/item?id=44649319) - [Tiny Code Reader: a $7 QR code sensor](https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor)
 * [2025-07-22, 16:11:45](https://news.ycombinator.com/item?id=44649115) - [Launch HN: Promi (YC S24) – Personalize e-commerce discounts and retail offers](https://news.ycombinator.com/item?id=44649115)
