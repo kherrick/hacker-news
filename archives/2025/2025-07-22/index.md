@@ -7,6 +7,7 @@
 * [2025-07-22, 17:00:10](https://news.ycombinator.com/item?id=44649999) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer)
 * [2025-07-22, 16:50:12](https://news.ycombinator.com/item?id=44649817) - [AI Market Clarity](https://blog.eladgil.com/p/ai-market-clarity)
 * [2025-07-22, 16:45:26](https://news.ycombinator.com/item?id=44649713) - [The Case for Sabotage](https://collectiveactionintech.substack.com/p/the-case-for-sabotage)
+* [2025-07-22, 16:41:32](https://news.ycombinator.com/item?id=44649653) - [First Hubble Telescope Images of Interstellar Comet 3I/Atlas](https://bsky.app/profile/astrafoxen.bsky.social/post/3luiwnar3j22o)
 * [2025-07-22, 16:41:31](https://news.ycombinator.com/item?id=44649651) - [Gemini North Discovers Long-Predicted Stellar Companion of Betelgeuse](https://noirlab.edu/public/news/noirlab2523/)
 * [2025-07-22, 16:22:51](https://news.ycombinator.com/item?id=44649319) - [Tiny Code Reader: a $7 QR code sensor](https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor)
 * [2025-07-22, 16:11:45](https://news.ycombinator.com/item?id=44649115) - [Launch HN: Promi (YC S24) – Personalize e-commerce discounts and retail offers](https://news.ycombinator.com/item?id=44649115)
