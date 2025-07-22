@@ -22,6 +22,7 @@
 * [2025-07-19, 19:34:19](https://news.ycombinator.com/item?id=44618595) - ['Universal cancer vaccine' trains the immune system to kill any tumor](https://newatlas.com/cancer/universal-cancer-vaccine/)
 * [2025-07-19, 19:32:58](https://news.ycombinator.com/item?id=44618576) - [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
 * [2025-07-19, 19:27:50](https://news.ycombinator.com/item?id=44618535) - [The borrowchecker is what I like the least about Rust](https://viralinstruction.com/posts/borrowchecker/)
+* [2025-07-19, 19:24:46](https://news.ycombinator.com/item?id=44618509) - [Cosmic Dawn: The Untold Story of the James Webb Space Telescope](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/)
 * [2025-07-19, 19:01:56](https://news.ycombinator.com/item?id=44618335) - [What the Fuck Python](https://colab.research.google.com/github/satwikkansal/wtfpython/blob/master/irrelevant/wtf.ipynb)
 * [2025-07-19, 18:22:27](https://news.ycombinator.com/item?id=44617993) - [Snack Prompt – Discover the Best ChatGPT Prompts](https://snackprompt.com)
 * [2025-07-19, 18:14:19](https://news.ycombinator.com/item?id=44617910) - [MCP Security Vulnerabilities and Attack Vectors](https://forgecode.dev/blog/prevent-attacks-on-mcp/)
