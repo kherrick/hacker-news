@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 15:25:56](https://news.ycombinator.com/item?id=44648288) - [Compression culture is making you stupid and uninteresting](https://maalvika.substack.com/p/compression-culture-is-making-you)
+* [2025-07-22, 15:18:56](https://news.ycombinator.com/item?id=44648144) - [Many Lung Cancers Are Now in Nonsmokers. Scientists Want to Know Why](https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html)
 * [2025-07-22, 14:47:54](https://news.ycombinator.com/item?id=44647609) - [1KB JavaScript Numbers Station](https://shkspr.mobi/blog/2025/07/1kb-js-numbers-station/)
 * [2025-07-22, 14:47:33](https://news.ycombinator.com/item?id=44647600) - [Reverse Proxy Deep Dive: Why HTTP Parsing at the Edge Is Harder Than It Looks](https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html)
 * [2025-07-22, 14:45:45](https://news.ycombinator.com/item?id=44647572) - [Go Allocation Probe](https://www.scattered-thoughts.net/writing/go-allocation-probe/)
+* [2025-07-22, 14:44:04](https://news.ycombinator.com/item?id=44647544) - [A big problem for Tesla isn't getting much attention](https://www.cnn.com/2025/07/22/business/tesla-regulatory-credit-sales-revenue)
 * [2025-07-22, 14:40:28](https://news.ycombinator.com/item?id=44647489) - [Killing the Mauna Loa observatory over irrefutable evidence of increasing CO2](https://www.theregister.com/2025/07/22/trump_shoots_climate_messenger/)
 * [2025-07-22, 14:17:05](https://news.ycombinator.com/item?id=44647190) - [Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code](https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html)
 * [2025-07-22, 14:09:49](https://news.ycombinator.com/item?id=44647112) - [The United States Withdraws from UNESCO](https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco)
