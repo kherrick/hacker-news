@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
 * [2025-07-22, 14:09:49](https://news.ycombinator.com/item?id=44647112) - [The United States Withdraws from UNESCO](https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco)
+* [2025-07-22, 13:53:46](https://news.ycombinator.com/item?id=44646925) - [OSS Rebuild: open-source, Rebuilt to Last](https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html)
 * [2025-07-22, 13:51:21](https://news.ycombinator.com/item?id=44646901) - [Yt-transcriber – Give a YouTube URL and get a transcription](https://github.com/pmarreck/yt-transcriber)
 * [2025-07-22, 13:42:20](https://news.ycombinator.com/item?id=44646797) - [So you think you've awoken ChatGPT](https://www.lesswrong.com/posts/2pkNCvBtK6G6FKoNn/so-you-think-you-ve-awoken-chatgpt)
+* [2025-07-22, 13:02:13](https://news.ycombinator.com/item?id=44646356) - [The vibe coder's career path is doomed](https://blog.florianherrengt.com/vibe-coder-career-path.html)
 * [2025-07-22, 12:40:05](https://news.ycombinator.com/item?id=44646151) - [Replit's CEO apologizes after its AI agent wiped a company's code base](https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7)
 * [2025-07-22, 12:31:11](https://news.ycombinator.com/item?id=44646065) - [French petition against return of bee-killing pesticide passes 1M](https://phys.org/news/2025-07-french-petition-bee-pesticide-1mn.html)
 * [2025-07-22, 12:05:44](https://news.ycombinator.com/item?id=44645846) - [Show HN: The Magic of Code – book about the wonders and weirdness of computation](https://themagicofcode.com/sample/)

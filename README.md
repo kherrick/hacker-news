@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-22, 14:09:49](https://news.ycombinator.com/item?id=44647112) - [The United States Withdraws from UNESCO](https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco)
+* [2025-07-22, 13:53:46](https://news.ycombinator.com/item?id=44646925) - [OSS Rebuild: open-source, Rebuilt to Last](https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html)
 * [2025-07-22, 13:51:21](https://news.ycombinator.com/item?id=44646901) - [Yt-transcriber – Give a YouTube URL and get a transcription](https://github.com/pmarreck/yt-transcriber)
 * [2025-07-22, 13:42:20](https://news.ycombinator.com/item?id=44646797) - [So you think you've awoken ChatGPT](https://www.lesswrong.com/posts/2pkNCvBtK6G6FKoNn/so-you-think-you-ve-awoken-chatgpt)
+* [2025-07-22, 13:02:13](https://news.ycombinator.com/item?id=44646356) - [The vibe coder's career path is doomed](https://blog.florianherrengt.com/vibe-coder-career-path.html)
 * [2025-07-22, 12:40:05](https://news.ycombinator.com/item?id=44646151) - [Replit's CEO apologizes after its AI agent wiped a company's code base](https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7)
 * [2025-07-22, 12:31:11](https://news.ycombinator.com/item?id=44646065) - [French petition against return of bee-killing pesticide passes 1M](https://phys.org/news/2025-07-french-petition-bee-pesticide-1mn.html)
 * [2025-07-22, 12:05:44](https://news.ycombinator.com/item?id=44645846) - [Show HN: The Magic of Code – book about the wonders and weirdness of computation](https://themagicofcode.com/sample/)
@@ -15,7 +17,6 @@
 * [2025-07-21, 23:26:40](https://news.ycombinator.com/item?id=44641521) - [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
 * [2025-07-21, 19:40:15](https://news.ycombinator.com/item?id=44639524) - [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
 * [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What went wrong inside recalled Anker PowerCore 10000 power banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
-* [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What will become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
 * [2025-07-21, 17:16:41](https://news.ycombinator.com/item?id=44637715) - [Don't bother parsing: Just use images for RAG](https://www.morphik.ai/blog/stop-parsing-docs)
 * [2025-07-21, 16:48:28](https://news.ycombinator.com/item?id=44637352) - [AccountingBench: Evaluating LLMs on real long-horizon business tasks](https://accounting.penrose.com/)
 * [2025-07-21, 15:18:41](https://news.ycombinator.com/item?id=44636204) - [New records on Wendelstein 7-X](https://www.iter.org/node/20687/new-records-wendelstein-7-x)
@@ -27,7 +28,6 @@
 * [2025-07-19, 08:59:59](https://news.ycombinator.com/item?id=44613791) - [The .a file is a relic: Why static archives were a bad idea all along](https://medium.com/@eyal.itkin/the-a-file-is-a-relic-why-static-archives-were-a-bad-idea-all-along-8cd1cf6310c5)
 * [2025-07-19, 05:06:49](https://news.ycombinator.com/item?id=44612736) - [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/07/16/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2025-07-18, 20:01:22](https://news.ycombinator.com/item?id=44609154) - [Largest piece of Mars on Earth fetches $5.3M at auction](https://apnews.com/article/mars-rock-meteorite-auction-dinosaur-sothebys-01d7ccfc8dc580ad86f8e97a305fc8fa)
-* [2025-07-18, 16:31:42](https://news.ycombinator.com/item?id=44606653) - [Look up macOS system binaries](https://macosbin.com)
 * [2025-07-18, 12:36:40](https://news.ycombinator.com/item?id=44604024) - [Python audio processing with pedalboard](https://lwn.net/Articles/1027814/)
 * [2025-07-18, 08:55:56](https://news.ycombinator.com/item?id=44602609) - [An unprecedented window into how diseases take hold years before symptoms appear](https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits)
 
