@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 23:45:15](https://news.ycombinator.com/item?id=44641669) - [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
 * [2025-07-21, 23:26:40](https://news.ycombinator.com/item?id=44641521) - [uv Running a Script with Dependencies](https://docs.astral.sh/uv/guides/scripts/)
 * [2025-07-21, 23:03:26](https://news.ycombinator.com/item?id=44641363) - [How to break the 'AI hype cycle'](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization)
 * [2025-07-21, 22:29:28](https://news.ycombinator.com/item?id=44641117) - [LetsEncrypt – Complete Outage](https://letsencrypt.status.io/)
