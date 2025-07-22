@@ -20,6 +20,7 @@
 * [2025-07-22, 18:12:50](https://news.ycombinator.com/item?id=44650969) - [Ozzy Osbourne dies just weeks after farewell show](https://news.sky.com/story/ozzy-osbourne-dies-just-weeks-after-farewell-show-13400248)
 * [2025-07-22, 18:02:11](https://news.ycombinator.com/item?id=44650840) - [Subliminal Learning: Models Transmit Behaviors via Hidden Signals in Data](https://alignment.anthropic.com/2025/subliminal-learning/)
 * [2025-07-22, 17:51:53](https://news.ycombinator.com/item?id=44650694) - [Stop Pretending LLMs Have Feelings Media's Dangerous AI Anthropomorphism Problem](https://www.readtpa.com/p/stop-pretending-chatbots-have-feelings)
+* [2025-07-22, 17:44:33](https://news.ycombinator.com/item?id=44650622) - [Show HN: Phind.design – Image editor & design tool powered by 4o / custom models](https://phind.design)
 * [2025-07-22, 17:40:40](https://news.ycombinator.com/item?id=44650567) - [Show HN: Any-LLM – lightweight and open-source router to access any LLM Provider](https://github.com/mozilla-ai/any-llm)
 * [2025-07-22, 17:00:10](https://news.ycombinator.com/item?id=44649999) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer)
 * [2025-07-22, 16:50:12](https://news.ycombinator.com/item?id=44649817) - [AI Market Clarity](https://blog.eladgil.com/p/ai-market-clarity)
