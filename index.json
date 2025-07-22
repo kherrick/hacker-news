@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-07-22, 19:05:24",
+      "https://news.ycombinator.com/item?id=44651616"
+    ],
+    [
+      "Americans Are Paying for Tariffs, Not Foreign Companies",
+      "https://www.bloomberg.com/news/articles/2025-07-22/us-companies-and-consumers-are-paying-for-trump-s-tariffs"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 18:59:04",
+      "https://news.ycombinator.com/item?id=44651539"
+    ],
+    [
+      "Swift-erlang-actor-system",
+      "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 18:58:23",
+      "https://news.ycombinator.com/item?id=44651536"
+    ],
+    [
+      "Fun with gzip bombs and email clients",
+      "https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 18:20:47",
       "https://news.ycombinator.com/item?id=44651066"
     ],
     [
-      "Black Sabbath's Ozzy Osbourne dies aged 76",
+      "Ozzy Osbourne has died",
       "https://www.bbc.co.uk/news/live/cn0qq5nyxn0t"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 18:02:11",
+      "https://news.ycombinator.com/item?id=44650840"
+    ],
+    [
+      "Subliminal Learning: Models Transmit Behaviors via Hidden Signals in Data",
+      "https://alignment.anthropic.com/2025/subliminal-learning/"
     ]
   ],
   [
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44650567"
     ],
     [
-      "Show HN: Any-LLM – lightweight and open-source router to access any LLM Provider",
+      "Show HN: Any-LLM – Lightweight router to access any LLM Provider",
       "https://github.com/mozilla-ai/any-llm"
     ]
   ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44649653"
     ],
     [
-      "First Hubble Telescope Images of Interstellar Comet 3I/Atlas",
+      "First Hubble telescope images of interstellar comet 3I/ATLAS",
       "https://bsky.app/profile/astrafoxen.bsky.social/post/3luiwnar3j22o"
     ]
   ],
@@ -165,7 +205,7 @@
       "https://news.ycombinator.com/item?id=44646925"
     ],
     [
-      "OSS Rebuild: open-source, Rebuilt to Last",
+      "OSS Rebuild: open-source, rebuilt to last",
       "https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html"
     ]
   ],
@@ -211,32 +251,12 @@
   ],
   [
     [
-      "2025-07-22, 11:31:24",
-      "https://news.ycombinator.com/item?id=44645597"
-    ],
-    [
-      "Show HN: A word of the day that doesn't suck",
-      "https://news.ycombinator.com/item?id=44645597"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 10:51:30",
       "https://news.ycombinator.com/item?id=44645353"
     ],
     [
       "How to Firefox",
       "https://kau.sh/blog/how-to-firefox/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 05:42:10",
-      "https://news.ycombinator.com/item?id=44643564"
-    ],
-    [
-      "Complete silence is always hallucinated as \"ترجمة نانسي قنقر\" in Arabic",
-      "https://github.com/openai/whisper/discussions/2608"
     ]
   ],
   [
@@ -261,31 +281,11 @@
   ],
   [
     [
-      "2025-07-19, 12:08:40",
-      "https://news.ycombinator.com/item?id=44614837"
-    ],
-    [
-      "MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles",
-      "https://www.usenix.org/conference/woot24/presentation/motallebighomi"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 08:18:57",
-      "https://news.ycombinator.com/item?id=44613594"
-    ],
-    [
-      "From Cartography to Code: Architectures of Power at the Venice Biennale 2025",
-      "https://www.stirworld.com/see-features-from-cartography-to-code-architectures-of-power-at-the-venice-biennale-2025"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 07:48:15",
       "https://news.ycombinator.com/item?id=44613438"
     ],
     [
-      "Show HN: Compass CNC – Open-Source Handheld CNC Router",
+      "Show HN: Compass CNC – Open-source handheld CNC router",
       "https://www.compassrouter.com"
     ]
   ],
