@@ -6,10 +6,13 @@
 
 * [2025-07-21, 23:45:15](https://news.ycombinator.com/item?id=44641669) - [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
 * [2025-07-21, 23:26:40](https://news.ycombinator.com/item?id=44641521) - [uv Running a Script with Dependencies](https://docs.astral.sh/uv/guides/scripts/)
+* [2025-07-21, 23:26:40](https://news.ycombinator.com/item?id=44641521) - [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
+* [2025-07-21, 23:18:14](https://news.ycombinator.com/item?id=44641464) - [FCC to eliminate gigabit speed goal and scrap analysis of broadband prices](https://arstechnica.com/civis/threads/fcc-to-eliminate-gigabit-speed-goal-and-scrap-analysis-of-broadband-prices.1508451/page-2)
 * [2025-07-21, 23:03:26](https://news.ycombinator.com/item?id=44641363) - [How to break the 'AI hype cycle'](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization)
 * [2025-07-21, 22:29:28](https://news.ycombinator.com/item?id=44641117) - [LetsEncrypt – Complete Outage](https://letsencrypt.status.io/)
 * [2025-07-21, 22:05:54](https://news.ycombinator.com/item?id=44640935) - [Nine households control 15% of wealth in Silicon Valley as inequality widens](https://www.theguardian.com/us-news/2025/jul/21/silicon-valley-income-wealth-gap)
 * [2025-07-21, 21:31:23](https://news.ycombinator.com/item?id=44640651) - [Spice Data (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
+* [2025-07-21, 20:57:11](https://news.ycombinator.com/item?id=44640331) - [The surprising geography of American left-handedness (2015)](https://www.washingtonpost.com/news/wonk/wp/2015/09/22/the-surprising-geography-of-american-left-handedness/)
 * [2025-07-21, 20:48:50](https://news.ycombinator.com/item?id=44640233) - [In a Major Reversal, the World Bank Is Backing Mega Dams](https://e360.yale.edu/features/world-bank-hydro-dams)
 * [2025-07-21, 20:43:10](https://news.ycombinator.com/item?id=44640178) - [Jane Jacobs Got Americans Stuck](https://www.riskgaming.com/p/how-jane-jacobs-got-americans-stuck)
 * [2025-07-21, 20:23:40](https://news.ycombinator.com/item?id=44640005) - [The special hell of Bolt, Europe's Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app)

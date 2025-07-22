@@ -59,6 +59,7 @@
 * [2025-07-19, 07:58:50](https://news.ycombinator.com/item?id=44613491) - [YouTube No Translation](https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
 * [2025-07-19, 07:43:38](https://news.ycombinator.com/item?id=44613419) - [Every part on a bicycle is safety critical](https://escapecollective.com/threaded-43-every-part-on-a-bike-is-safety-critical/)
+* [2025-07-19, 07:33:19](https://news.ycombinator.com/item?id=44613361) - [A brief history of primary coding languages](https://eclecticlight.co/2025/07/19/a-brief-history-of-primary-coding-languages/)
 * [2025-07-19, 06:36:38](https://news.ycombinator.com/item?id=44613114) - [US revokes visas of Brazilian judges after crack down on ex-president Bolsonaro](https://nypost.com/2025/07/18/world-news/us-revokes-visas-of-brazilian-justices-after-its-top-court-cracks-down-on-ex-president-bolsonaro/)
 * [2025-07-19, 05:06:49](https://news.ycombinator.com/item?id=44612736) - [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/07/16/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2025-07-19, 04:37:55](https://news.ycombinator.com/item?id=44612643) - [Amazon and the \"Profitless Business Model\" Fallacy](https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative)
