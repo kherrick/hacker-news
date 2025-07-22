@@ -66,6 +66,7 @@
 * [2025-07-19, 08:02:41](https://news.ycombinator.com/item?id=44613511) - [Free BDSM Test – Discover Your True Role](https://bdsmtest.pro/)
 * [2025-07-19, 07:58:50](https://news.ycombinator.com/item?id=44613491) - [YouTube No Translation](https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/)
 * [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
+* [2025-07-19, 07:48:15](https://news.ycombinator.com/item?id=44613438) - [Show HN: Compass CNC – Open-Source Handheld CNC Router](https://www.compassrouter.com)
 * [2025-07-19, 07:43:38](https://news.ycombinator.com/item?id=44613419) - [Every part on a bicycle is safety critical](https://escapecollective.com/threaded-43-every-part-on-a-bike-is-safety-critical/)
 * [2025-07-19, 07:33:19](https://news.ycombinator.com/item?id=44613361) - [A brief history of primary coding languages](https://eclecticlight.co/2025/07/19/a-brief-history-of-primary-coding-languages/)
 * [2025-07-19, 07:11:14](https://news.ycombinator.com/item?id=44613268) - [My favourite German word](https://vurt.org/articles/my-favourite-german-word/)

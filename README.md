@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-22, 18:18:39](https://news.ycombinator.com/item?id=44651041) - [AFP's last journalists in Gaza are starving to death](https://twitter.com/SDJ_AFP/status/1947609875183215005)
-* [2025-07-22, 18:12:50](https://news.ycombinator.com/item?id=44650969) - [Ozzy Osbourne dies just weeks after farewell show](https://news.sky.com/story/ozzy-osbourne-dies-just-weeks-after-farewell-show-13400248)
+* [2025-07-22, 18:20:47](https://news.ycombinator.com/item?id=44651066) - [Black Sabbath's Ozzy Osbourne dies aged 76](https://www.bbc.co.uk/news/live/cn0qq5nyxn0t)
+* [2025-07-22, 17:51:53](https://news.ycombinator.com/item?id=44650694) - [Stop Pretending LLMs Have Feelings Media's Dangerous AI Anthropomorphism Problem](https://www.readtpa.com/p/stop-pretending-chatbots-have-feelings)
 * [2025-07-22, 17:40:40](https://news.ycombinator.com/item?id=44650567) - [Show HN: Any-LLM – lightweight and open-source router to access any LLM Provider](https://github.com/mozilla-ai/any-llm)
 * [2025-07-22, 17:00:10](https://news.ycombinator.com/item?id=44649999) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer)
-* [2025-07-22, 16:50:12](https://news.ycombinator.com/item?id=44649817) - [AI Market Clarity](https://blog.eladgil.com/p/ai-market-clarity)
 * [2025-07-22, 16:41:32](https://news.ycombinator.com/item?id=44649653) - [First Hubble Telescope Images of Interstellar Comet 3I/Atlas](https://bsky.app/profile/astrafoxen.bsky.social/post/3luiwnar3j22o)
 * [2025-07-22, 16:41:31](https://news.ycombinator.com/item?id=44649651) - [Gemini North telescope discovers long-predicted stellar companion of Betelgeuse](https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last)
 * [2025-07-22, 16:22:51](https://news.ycombinator.com/item?id=44649319) - [Tiny Code Reader: a $7 QR code sensor](https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor)
@@ -29,6 +28,7 @@
 * [2025-07-19, 19:24:46](https://news.ycombinator.com/item?id=44618509) - [Cosmic Dawn: The Untold Story of the James Webb Space Telescope](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/)
 * [2025-07-19, 12:08:40](https://news.ycombinator.com/item?id=44614837) - [MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles](https://www.usenix.org/conference/woot24/presentation/motallebighomi)
 * [2025-07-19, 08:18:57](https://news.ycombinator.com/item?id=44613594) - [From Cartography to Code: Architectures of Power at the Venice Biennale 2025](https://www.stirworld.com/see-features-from-cartography-to-code-architectures-of-power-at-the-venice-biennale-2025)
+* [2025-07-19, 07:48:15](https://news.ycombinator.com/item?id=44613438) - [Show HN: Compass CNC – Open-Source Handheld CNC Router](https://www.compassrouter.com)
 * [2025-07-18, 08:55:56](https://news.ycombinator.com/item?id=44602609) - [An unprecedented window into how diseases take hold years before symptoms appear](https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits)
 
 ## [Archives](archives/index.md)
