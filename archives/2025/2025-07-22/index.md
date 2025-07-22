@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 19:05:24](https://news.ycombinator.com/item?id=44651616) - [Americans Are Paying for Tariffs, Not Foreign Companies](https://www.bloomberg.com/news/articles/2025-07-22/us-companies-and-consumers-are-paying-for-trump-s-tariffs)
+* [2025-07-22, 18:59:04](https://news.ycombinator.com/item?id=44651539) - [Swift-erlang-actor-system](https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248)
+* [2025-07-22, 18:58:23](https://news.ycombinator.com/item?id=44651536) - [Fun with gzip bombs and email clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients)
 * [2025-07-22, 18:20:47](https://news.ycombinator.com/item?id=44651066) - [Black Sabbath's Ozzy Osbourne dies aged 76](https://www.bbc.co.uk/news/live/cn0qq5nyxn0t)
 * [2025-07-22, 18:18:39](https://news.ycombinator.com/item?id=44651041) - [AFP's last journalists in Gaza are starving to death](https://twitter.com/SDJ_AFP/status/1947609875183215005)
 * [2025-07-22, 18:12:50](https://news.ycombinator.com/item?id=44650969) - [Ozzy Osbourne dies just weeks after farewell show](https://news.sky.com/story/ozzy-osbourne-dies-just-weeks-after-farewell-show-13400248)
+* [2025-07-22, 18:02:11](https://news.ycombinator.com/item?id=44650840) - [Subliminal Learning: Models Transmit Behaviors via Hidden Signals in Data](https://alignment.anthropic.com/2025/subliminal-learning/)
 * [2025-07-22, 17:51:53](https://news.ycombinator.com/item?id=44650694) - [Stop Pretending LLMs Have Feelings Media's Dangerous AI Anthropomorphism Problem](https://www.readtpa.com/p/stop-pretending-chatbots-have-feelings)
 * [2025-07-22, 17:40:40](https://news.ycombinator.com/item?id=44650567) - [Show HN: Any-LLM – lightweight and open-source router to access any LLM Provider](https://github.com/mozilla-ai/any-llm)
 * [2025-07-22, 17:00:10](https://news.ycombinator.com/item?id=44649999) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer)
