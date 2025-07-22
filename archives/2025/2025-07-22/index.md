@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 16:11:45](https://news.ycombinator.com/item?id=44649115) - [Launch HN: Promi (YC S24) – Personalize e-commerce discounts and retail offers](https://news.ycombinator.com/item?id=44649115)
+* [2025-07-22, 16:07:22](https://news.ycombinator.com/item?id=44649036) - [Tailwind Is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
+* [2025-07-22, 16:03:11](https://news.ycombinator.com/item?id=44648957) - [Bypassing Watermark Implementations](https://blog.kulkan.com/bypassing-watermark-implementations-fe39e98ca22b)
+* [2025-07-22, 15:54:31](https://news.ycombinator.com/item?id=44648772) - [Blip: Peer-to-Peer Massive File Sharing by Former Dropbox Engineers](https://blip.net/)
+* [2025-07-22, 15:51:50](https://news.ycombinator.com/item?id=44648728) - [Why Facts Don't Change Minds–Structure Does (A Systems Analysis of Belief)](https://vasily.cc/blog/facts-dont-change-minds/)
+* [2025-07-22, 15:50:41](https://news.ycombinator.com/item?id=44648700) - [Mary Had Schizophrenia–Then Suddenly She Didn't](https://www.newyorker.com/magazine/2025/07/28/mary-had-schizophrenia-then-suddenly-she-didnt)
 * [2025-07-22, 15:25:56](https://news.ycombinator.com/item?id=44648288) - [Compression culture is making you stupid and uninteresting](https://maalvika.substack.com/p/compression-culture-is-making-you)
 * [2025-07-22, 15:18:56](https://news.ycombinator.com/item?id=44648144) - [Many Lung Cancers Are Now in Nonsmokers. Scientists Want to Know Why](https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html)
 * [2025-07-22, 14:47:54](https://news.ycombinator.com/item?id=44647609) - [1KB JavaScript Numbers Station](https://shkspr.mobi/blog/2025/07/1kb-js-numbers-station/)
@@ -24,6 +30,7 @@
 * [2025-07-22, 12:40:05](https://news.ycombinator.com/item?id=44646151) - [Replit's CEO apologizes after its AI agent wiped a company's code base](https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7)
 * [2025-07-22, 12:31:11](https://news.ycombinator.com/item?id=44646065) - [French petition against return of bee-killing pesticide passes 1M](https://phys.org/news/2025-07-french-petition-bee-pesticide-1mn.html)
 * [2025-07-22, 12:05:44](https://news.ycombinator.com/item?id=44645846) - [Show HN: The Magic of Code – book about the wonders and weirdness of computation](https://themagicofcode.com/sample/)
+* [2025-07-22, 11:31:24](https://news.ycombinator.com/item?id=44645597) - [Show HN: A word of the day that doesn't suck](https://news.ycombinator.com/item?id=44645597)
 * [2025-07-22, 10:57:18](https://news.ycombinator.com/item?id=44645391) - [The Hater's Guide to the AI Bubble](https://www.wheresyoured.at/the-haters-gui/)
 * [2025-07-22, 10:51:30](https://news.ycombinator.com/item?id=44645353) - [How to Firefox](https://kau.sh/blog/how-to-firefox/)
 * [2025-07-22, 08:49:44](https://news.ycombinator.com/item?id=44644645) - ['Shameful' CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
