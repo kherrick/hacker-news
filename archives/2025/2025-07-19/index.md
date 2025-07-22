@@ -38,6 +38,7 @@
 * [2025-07-19, 15:45:39](https://news.ycombinator.com/item?id=44616486) - [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)
 * [2025-07-19, 15:45:01](https://news.ycombinator.com/item?id=44616479) - [Nobody Knows How to Build with AI Yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
 * [2025-07-19, 15:36:59](https://news.ycombinator.com/item?id=44616405) - [Writing your Clojure tests in EDN files](https://biffweb.com/p/edn-tests/)
+* [2025-07-19, 15:12:04](https://news.ycombinator.com/item?id=44616158) - [Unexpected inconsistency in records – Jon Skeet's coding blog](https://codeblog.jonskeet.uk/2025/07/19/unexpected-inconsistency-in-records/)
 * [2025-07-19, 14:35:11](https://news.ycombinator.com/item?id=44615801) - [Death by AI](https://davebarry.substack.com/p/death-by-ai)
 * [2025-07-19, 14:23:53](https://news.ycombinator.com/item?id=44615703) - [Why you should choose HTMX for your next web-based side project (2024)](https://hamy.xyz/blog/2024-02_htmx-for-side-projects)
 * [2025-07-19, 14:23:23](https://news.ycombinator.com/item?id=44615695) - [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
