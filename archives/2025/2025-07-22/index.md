@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 14:47:54](https://news.ycombinator.com/item?id=44647609) - [1KB JavaScript Numbers Station](https://shkspr.mobi/blog/2025/07/1kb-js-numbers-station/)
+* [2025-07-22, 14:40:28](https://news.ycombinator.com/item?id=44647489) - [Killing the Mauna Loa observatory over irrefutable evidence of increasing CO2](https://www.theregister.com/2025/07/22/trump_shoots_climate_messenger/)
+* [2025-07-22, 14:17:05](https://news.ycombinator.com/item?id=44647190) - [Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code](https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html)
 * [2025-07-22, 14:09:49](https://news.ycombinator.com/item?id=44647112) - [The United States Withdraws from UNESCO](https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco)
 * [2025-07-22, 13:53:46](https://news.ycombinator.com/item?id=44646925) - [OSS Rebuild: open-source, Rebuilt to Last](https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html)
 * [2025-07-22, 13:51:21](https://news.ycombinator.com/item?id=44646901) - [Yt-transcriber – Give a YouTube URL and get a transcription](https://github.com/pmarreck/yt-transcriber)
+* [2025-07-22, 13:48:55](https://news.ycombinator.com/item?id=44646869) - [DaisyUI: Tailwind CSS Components](https://daisyui.com/)
 * [2025-07-22, 13:42:20](https://news.ycombinator.com/item?id=44646797) - [So you think you've awoken ChatGPT](https://www.lesswrong.com/posts/2pkNCvBtK6G6FKoNn/so-you-think-you-ve-awoken-chatgpt)
+* [2025-07-22, 13:41:21](https://news.ycombinator.com/item?id=44646780) - [Show HN: My GPU Fan Saga – A DIY ATX Fan Controller](https://shafq.at/my-gpu-fan-saga.html)
+* [2025-07-22, 13:35:24](https://news.ycombinator.com/item?id=44646707) - [The Role of Blood Plasma Donation Centers in Crime Reduction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259763)
 * [2025-07-22, 13:02:13](https://news.ycombinator.com/item?id=44646356) - [The vibe coder's career path is doomed](https://blog.florianherrengt.com/vibe-coder-career-path.html)
 * [2025-07-22, 12:40:05](https://news.ycombinator.com/item?id=44646151) - [Replit's CEO apologizes after its AI agent wiped a company's code base](https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7)
 * [2025-07-22, 12:31:11](https://news.ycombinator.com/item?id=44646065) - [French petition against return of bee-killing pesticide passes 1M](https://phys.org/news/2025-07-french-petition-bee-pesticide-1mn.html)
