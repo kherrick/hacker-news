@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44650840"
     ],
     [
-      "Subliminal Learning: Models Transmit Behaviors via Hidden Signals in Data",
+      "Subliminal learning: Models transmit behaviors via hidden signals in data",
       "https://alignment.anthropic.com/2025/subliminal-learning/"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-07-22, 16:11:45",
-      "https://news.ycombinator.com/item?id=44649115"
-    ],
-    [
-      "Launch HN: Promi (YC S24) – Personalize e-commerce discounts and retail offers",
-      "https://news.ycombinator.com/item?id=44649115"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 16:03:11",
       "https://news.ycombinator.com/item?id=44648957"
     ],
@@ -177,6 +167,16 @@
     [
       "Facts don't change minds, structure does",
       "https://vasily.cc/blog/facts-dont-change-minds/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 14:47:33",
+      "https://news.ycombinator.com/item?id=44647600"
+    ],
+    [
+      "Reverse proxy deep dive: Why HTTP parsing at the edge is harder than it looks",
+      "https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=44620546"
     ],
     [
-      "Asymmetry of Verification and Verifier's Law",
+      "Asymmetry of verification and verifier's law",
       "https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-07-19, 09:24:37",
+      "https://news.ycombinator.com/item?id=44613901"
+    ],
+    [
+      "Immediately-Invoked Function Expression (2010)",
+      "https://benalman.com/news/2010/11/immediately-invoked-function-expression/"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 07:48:15",
       "https://news.ycombinator.com/item?id=44613438"
     ],
     [
       "Show HN: Compass CNC – Open-source handheld CNC router",
       "https://www.compassrouter.com"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 08:55:56",
-      "https://news.ycombinator.com/item?id=44602609"
-    ],
-    [
-      "An unprecedented window into how diseases take hold years before symptoms appear",
-      "https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits"
     ]
   ]
 ]
