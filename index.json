@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2025-07-23, 19:28:29",
-      "https://news.ycombinator.com/item?id=44663021"
-    ],
-    [
-      "ICE block founder's wife fired by DOJ in retaliation for the app",
-      "https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 19:26:42",
       "https://news.ycombinator.com/item?id=44663003"
     ],
     [
       "AccuWeather to discontinue free access to Core Weather API",
       "https://developer.accuweather.com/new-portal"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 19:02:46",
+      "https://news.ycombinator.com/item?id=44662757"
+    ],
+    [
+      "Major rule about cooking meat turns out to be wrong",
+      "https://www.seriouseats.com/meat-resting-science-11776272"
     ]
   ],
   [
@@ -65,18 +65,8 @@
       "https://news.ycombinator.com/item?id=44661846"
     ],
     [
-      "Cara – High Precision Robot Dog Using Rope",
+      "CARA – High precision robot dog using rope",
       "https://www.aaedmusa.com/projects/cara"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 17:32:37",
-      "https://news.ycombinator.com/item?id=44661785"
-    ],
-    [
-      "Hyperpb: Faster dynamic Protobuf parsing that's faster than generated code",
-      "https://buf.build/blog/hyperpb"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=44660437"
     ],
     [
-      "Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US",
+      "Neil Armstrong's customs form for moon rocks (2016)",
       "https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html"
     ]
   ],
@@ -155,18 +145,18 @@
       "https://news.ycombinator.com/item?id=44659921"
     ],
     [
-      "Stop Building AI Tools Backwards",
+      "Building better AI tools",
       "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/"
     ]
   ],
   [
     [
-      "2025-07-23, 14:37:12",
-      "https://news.ycombinator.com/item?id=44659712"
+      "2025-07-23, 13:52:47",
+      "https://news.ycombinator.com/item?id=44659251"
     ],
     [
-      "Tram Trains",
-      "https://www.worksinprogress.news/p/tram-trains"
+      "Why Elixir? Common misconceptions",
+      "https://matthewsinclair.com/blog/0181-why-elixir"
     ]
   ],
   [
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=44659019"
     ],
     [
-      "What to Expect from Debian/Trixie",
+      "What to expect from Debian/Trixie",
       "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/"
     ]
   ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-07-23, 13:17:38",
+      "https://news.ycombinator.com/item?id=44658908"
+    ],
+    [
+      "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
+      "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 13:09:01",
       "https://news.ycombinator.com/item?id=44658820"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-07-23, 10:51:51",
-      "https://news.ycombinator.com/item?id=44657727"
+      "2025-07-21, 20:09:31",
+      "https://news.ycombinator.com/item?id=44639880"
     ],
     [
-      "Cerebras launches Qwen3-235B, achieving 1.5k tokens per second",
-      "https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support"
+      "Robot scans rare library books at 2.5k pages per hour",
+      "https://www.popsci.com/technology/book-scanning-robot/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=44626359"
     ],
     [
-      "Checklists are hard (but still a good thing)",
+      "Checklists are hard, but still a good thing",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-07-19, 22:02:37",
-      "https://news.ycombinator.com/item?id=44619835"
+      "2025-07-17, 10:09:48",
+      "https://news.ycombinator.com/item?id=44591605"
     ],
     [
-      "Reversing a Fingerprint Reader Protocol (2021)",
-      "https://blog.th0m.as/misc/fingerprint-reversing/"
+      "Parsing Protobuf like never before",
+      "https://mcyoung.xyz/2025/07/16/hyperpb/"
     ]
   ]
 ]
