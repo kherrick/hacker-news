@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 17:45:03](https://news.ycombinator.com/item?id=44661914) - [Boost HTML5 Game Performance with WebAssembly](https://playgama.com/blog/general/boost-html5-game-performance-with-webassembly/)
 * [2025-07-23, 17:38:20](https://news.ycombinator.com/item?id=44661846) - [Cara – High Precision Robot Dog Using Rope](https://www.aaedmusa.com/projects/cara)
 * [2025-07-23, 17:24:32](https://news.ycombinator.com/item?id=44661682) - [The Promised LAN](https://tpl.house/)
+* [2025-07-23, 17:16:35](https://news.ycombinator.com/item?id=44661607) - [Interactive Programming in C (2014)](https://nullprogram.com/blog/2014/12/23/)
+* [2025-07-23, 17:09:47](https://news.ycombinator.com/item?id=44661527) - [FastVLM: Efficient Vision Encoding for Vision Language Models](https://machinelearning.apple.com/research/fast-vision-language-models)
 * [2025-07-23, 17:01:14](https://news.ycombinator.com/item?id=44661420) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
 * [2025-07-23, 16:15:07](https://news.ycombinator.com/item?id=44660863) - [AI Friend Apps Are Destroying What's Left of Society](https://www.currentaffairs.org/news/ai-friend-apps-are-destroying-whats-left-of-society)
 * [2025-07-23, 16:04:30](https://news.ycombinator.com/item?id=44660736) - [Show HN: The missing link of a bookstore's tech stack](https://bookhead.net/)
