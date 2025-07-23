@@ -54,6 +54,7 @@
 * [2025-07-21, 14:54:41](https://news.ycombinator.com/item?id=44635867) - [Occasionally USPS sends me pictures of other people's mail](https://the418.substack.com/p/a-bug-in-the-mail)
 * [2025-07-21, 14:51:13](https://news.ycombinator.com/item?id=44635808) - [Using MacBook's trackpad as digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
 * [2025-07-21, 14:46:40](https://news.ycombinator.com/item?id=44635745) - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
+* [2025-07-21, 14:42:11](https://news.ycombinator.com/item?id=44635676) - [No Cheese Please](https://www.lrb.co.uk/the-paper/v47/n13/anthony-grafton/no-cheese-please)
 * [2025-07-21, 14:39:23](https://news.ycombinator.com/item?id=44635640) - [Please, FOSS world, we need something like ChromeOS](https://www.theregister.com/2025/07/21/foss_chromeos_please/)
 * [2025-07-21, 14:19:31](https://news.ycombinator.com/item?id=44635403) - [Spanish police arrest five over $542M crypto investment scheme](https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown)
 * [2025-07-21, 14:15:08](https://news.ycombinator.com/item?id=44635363) - [You can now buy eggs from in-ovo sexed hens](https://optimistsbarn.substack.com/p/you-can-now-buy-eggs-from-in-ovo)
