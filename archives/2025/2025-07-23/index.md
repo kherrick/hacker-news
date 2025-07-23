@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
 * [2025-07-23, 17:45:03](https://news.ycombinator.com/item?id=44661914) - [Boost HTML5 Game Performance with WebAssembly](https://playgama.com/blog/general/boost-html5-game-performance-with-webassembly/)
+* [2025-07-23, 17:44:53](https://news.ycombinator.com/item?id=44661912) - [AI.gov](https://www.ai.gov/)
 * [2025-07-23, 17:38:20](https://news.ycombinator.com/item?id=44661846) - [Cara – High Precision Robot Dog Using Rope](https://www.aaedmusa.com/projects/cara)
+* [2025-07-23, 17:32:37](https://news.ycombinator.com/item?id=44661785) - [Hyperpb: 10x faster dynamic Protobuf parsing that's faster than generated code](https://buf.build/blog/hyperpb)
 * [2025-07-23, 17:24:32](https://news.ycombinator.com/item?id=44661682) - [The Promised LAN](https://tpl.house/)
 * [2025-07-23, 17:16:35](https://news.ycombinator.com/item?id=44661607) - [Interactive Programming in C (2014)](https://nullprogram.com/blog/2014/12/23/)
 * [2025-07-23, 17:09:47](https://news.ycombinator.com/item?id=44661527) - [FastVLM: Efficient Vision Encoding for Vision Language Models](https://machinelearning.apple.com/research/fast-vision-language-models)
