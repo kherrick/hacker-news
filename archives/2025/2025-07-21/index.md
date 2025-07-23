@@ -28,6 +28,7 @@
 * [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
 * [2025-07-21, 18:07:40](https://news.ycombinator.com/item?id=44638397) - [Work Life balance slows careers](https://www.pathtostaff.com/p/work-life-balance-slows-careers-e9)
 * [2025-07-21, 18:00:10](https://news.ycombinator.com/item?id=44638307) - [I'm tired of talking about AI](https://paddy.carvers.com/posts/2025/07/ai/)
+* [2025-07-21, 17:59:23](https://news.ycombinator.com/item?id=44638304) - [SQL Injection as a Feature](https://idiallo.com/blog/sql-injection-as-a-feature)
 * [2025-07-21, 17:59:00](https://news.ycombinator.com/item?id=44638300) - [Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed](https://tedium.co/2025/07/21/the-game-genie-generation/)
 * [2025-07-21, 17:42:30](https://news.ycombinator.com/item?id=44638076) - [Show HN: Pogocache – Fast caching software](https://github.com/tidwall/pogocache)
 * [2025-07-21, 17:24:40](https://news.ycombinator.com/item?id=44637815) - [Germany's Fairytale Castles Added to UNESCO's World Heritage List](https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/)
