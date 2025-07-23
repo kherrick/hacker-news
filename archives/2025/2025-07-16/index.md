@@ -23,6 +23,7 @@
 * [2025-07-16, 18:38:45](https://news.ycombinator.com/item?id=44585495) - [PyPI Prohibits inbox.ru email domain registrations](https://blog.pypi.org/posts/2025-06-15-prohibiting-inbox-ru-emails/)
 * [2025-07-16, 18:25:14](https://news.ycombinator.com/item?id=44585370) - [Matterport walkthrough of the original Microsoft Building 3](https://my.matterport.com/show/?m=SZSV6vjcf4L)
 * [2025-07-16, 17:47:08](https://news.ycombinator.com/item?id=44585002) - [How and where will agents ship software?](https://www.instantdb.com/essays/agents)
+* [2025-07-16, 17:30:02](https://news.ycombinator.com/item?id=44584830) - [I'm Unsatisfied with Easing Functions](https://www.davepagurek.com/blog/easing-functions/)
 * [2025-07-16, 17:09:36](https://news.ycombinator.com/item?id=44584603) - [KDB-X: KX releases FREE Commercial KDB license](https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose)
 * [2025-07-16, 17:00:47](https://news.ycombinator.com/item?id=44584497) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-07-16, 16:52:11](https://news.ycombinator.com/item?id=44584414) - [Zig Interface Revisited](https://williamw520.github.io/2025/07/13/zig-interface-revisited.html)
