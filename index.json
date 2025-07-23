@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-07-23, 18:37:48",
+      "https://news.ycombinator.com/item?id=44662497"
+    ],
+    [
+      "Show HN: TheProtector – Linux Bash script for the paranoid admin on a budget",
+      "https://github.com/IHATEGIVINGAUSERNAME/theProtector"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 17:39:57",
       "https://news.ycombinator.com/item?id=44661862"
     ],
@@ -221,21 +231,11 @@
   ],
   [
     [
-      "2025-07-21, 17:59:23",
-      "https://news.ycombinator.com/item?id=44638304"
-    ],
-    [
-      "SQL Injection as a Feature",
-      "https://idiallo.com/blog/sql-injection-as-a-feature"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 05:28:15",
       "https://news.ycombinator.com/item?id=44632045"
     ],
     [
-      "SIMD Perlin Noise: Beating the Compiler with SSE",
+      "SIMD Perlin Noise: Beating the Compiler with SSE (2014)",
       "https://scallywag.software/vim/blog/simd-perlin-noise-i"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44622954"
     ],
     [
-      "Using Uninitialized Memory for Fun and Profit",
+      "Using uninitialized memory for fun and profit (2008)",
       "https://research.swtch.com/sparse"
     ]
   ],
