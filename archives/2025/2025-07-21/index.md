@@ -79,6 +79,7 @@
 * [2025-07-21, 06:15:05](https://news.ycombinator.com/item?id=44632240) - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
 * [2025-07-21, 06:10:57](https://news.ycombinator.com/item?id=44632218) - [SubTropolis and KC's Limestone Caves](https://kcyesterday.com/articles/subtropolis)
 * [2025-07-21, 03:41:23](https://news.ycombinator.com/item?id=44631594) - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
+* [2025-07-21, 01:42:22](https://news.ycombinator.com/item?id=44631042) - [Geocities Backgrounds](https://pixelmoondust.neocities.org/archives/archivedtiles)
 * [2025-07-21, 01:15:55](https://news.ycombinator.com/item?id=44630927) - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
 * [2025-07-21, 00:53:21](https://news.ycombinator.com/item?id=44630815) - [iMessage integration in Claude can hijack the model to do anything](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
 * [2025-07-21, 00:40:43](https://news.ycombinator.com/item?id=44630760) - [Man wearing metallic necklace dies after being sucked into MRI machine](https://www.bbc.com/news/articles/cx2n39dvp0po)
