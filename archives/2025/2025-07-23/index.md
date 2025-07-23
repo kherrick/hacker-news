@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 19:26:42](https://news.ycombinator.com/item?id=44663003) - [AccuWeather to discontinue free access to Core Weather API](https://developer.accuweather.com/new-portal)
+* [2025-07-23, 19:02:46](https://news.ycombinator.com/item?id=44662757) - [Major Rule About Cooking Meat Turns Out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 * [2025-07-23, 18:55:28](https://news.ycombinator.com/item?id=44662690) - [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area)
 * [2025-07-23, 18:51:26](https://news.ycombinator.com/item?id=44662658) - [Why Do Victims of Massacres Go to Their Deaths?](https://www.benlandautaylor.com/p/why-do-victims-of-massacres-go-quietly)
 * [2025-07-23, 18:41:28](https://news.ycombinator.com/item?id=44662542) - [Employee – CEO pay gap historically wide](https://www.cnn.com/2025/07/23/business/afl-cio-executive-paywatch-report)
