@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 11:17:10](https://news.ycombinator.com/item?id=44657888) - [Firefox Money: Investigating the Finances of Mozilla](https://lunduke.locals.com/post/4387539/firefox-money-investigating-the-bizarre-finances-of-mozilla)
 * [2025-07-23, 10:51:51](https://news.ycombinator.com/item?id=44657727) - [Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
 * [2025-07-23, 10:45:56](https://news.ycombinator.com/item?id=44657694) - [Short Google](https://tompccs.github.io/blog/2025/07/23/short-google.html)
 * [2025-07-23, 10:16:35](https://news.ycombinator.com/item?id=44657517) - [Has Brazil Invented the Future of Money?](https://paulkrugman.substack.com/p/has-brazil-invented-the-future-of)
