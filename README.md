@@ -27,9 +27,9 @@
 * [2025-07-22, 13:43:16](https://news.ycombinator.com/item?id=44646801) - [TODOs aren't for doing](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
 * [2025-07-22, 11:31:24](https://news.ycombinator.com/item?id=44645597) - [Show HN: A word of the day that doesn't suck](https://news.ycombinator.com/item?id=44645597)
 * [2025-07-20, 16:35:57](https://news.ycombinator.com/item?id=44626807) - [Fourier lightfield multiview stereoscope for large field-of-view 3D imaging](https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-4/issue-04/046008/Fourier-lightfield-multiview-stereoscope-for-large-field-of-view-3D/10.1117/1.APN.4.4.046008.full)
+* [2025-07-20, 07:02:03](https://news.ycombinator.com/item?id=44622637) - [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)
 * [2025-07-19, 21:15:56](https://news.ycombinator.com/item?id=44619485) - [Managing EFI boot loaders for Linux: Controlling secure boot (2015)](https://www.rodsbooks.com/efi-bootloaders/controlling-sb.html)
 * [2025-07-19, 20:44:19](https://news.ycombinator.com/item?id=44619206) - [Don't animate height](https://www.granola.ai/blog/dont-animate-height)
-* [2025-07-19, 07:48:15](https://news.ycombinator.com/item?id=44613438) - [Show HN: Compass CNC – Open-source handheld CNC router](https://www.compassrouter.com)
 
 ## [Archives](archives/index.md)
 

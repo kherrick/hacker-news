@@ -57,6 +57,7 @@
 * [2025-07-20, 08:13:15](https://news.ycombinator.com/item?id=44622973) - [Terence Tao: A human metaphor for evaluating AI capability](https://mathstodon.xyz/@tao/114881418225852441)
 * [2025-07-20, 08:10:51](https://news.ycombinator.com/item?id=44622953) - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
 * [2025-07-20, 07:22:13](https://news.ycombinator.com/item?id=44622725) - [Replit goes rogue and deletes our entire database](https://twitter.com/jasonlk/status/1946069562723897802)
+* [2025-07-20, 07:02:03](https://news.ycombinator.com/item?id=44622637) - [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)
 * [2025-07-20, 06:56:01](https://news.ycombinator.com/item?id=44622608) - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 * [2025-07-20, 06:42:58](https://news.ycombinator.com/item?id=44622543) - [Roman Roads Research Association (UK)](https://www.romanroads.org/index.html)
 * [2025-07-20, 06:20:02](https://news.ycombinator.com/item?id=44622454) - [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
