@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-22, 23:12:41](https://news.ycombinator.com/item?id=44654085) - [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)
 * [2025-07-22, 22:56:55](https://news.ycombinator.com/item?id=44653965) - [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
 * [2025-07-22, 22:12:25](https://news.ycombinator.com/item?id=44653586) - [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
 * [2025-07-22, 21:12:30](https://news.ycombinator.com/item?id=44653072) - [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
@@ -26,6 +25,7 @@
 * [2025-07-22, 14:17:05](https://news.ycombinator.com/item?id=44647190) - [Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code](https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html)
 * [2025-07-22, 13:53:46](https://news.ycombinator.com/item?id=44646925) - [OSS Rebuild: open-source, rebuilt to last](https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html)
 * [2025-07-22, 13:43:16](https://news.ycombinator.com/item?id=44646801) - [TODOs aren't for doing](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
+* [2025-07-20, 12:47:34](https://news.ycombinator.com/item?id=44624702) - [Gitea Private, Fast, Reliable DevOps Platform](https://about.gitea.com/)
 * [2025-07-20, 05:58:47](https://news.ycombinator.com/item?id=44622360) - [You can use GitHub from your Watch – GitWrist](https://github.com/DaytimeDev/GitWrist)
 * [2025-07-19, 20:44:19](https://news.ycombinator.com/item?id=44619206) - [Don't animate height](https://www.granola.ai/blog/dont-animate-height)
 * [2025-07-19, 07:48:15](https://news.ycombinator.com/item?id=44613438) - [Show HN: Compass CNC – Open-source handheld CNC router](https://www.compassrouter.com)

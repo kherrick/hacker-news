@@ -42,6 +42,7 @@
 * [2025-07-20, 13:49:22](https://news.ycombinator.com/item?id=44625181) - [Can Software Be Durable?](https://news.ycombinator.com/item?id=44625181)
 * [2025-07-20, 13:42:05](https://news.ycombinator.com/item?id=44625119) - [Replit AI deletes entire database during code freeze, then lies about it](https://twitter.com/jasonlk/status/1946069562723897802)
 * [2025-07-20, 13:16:51](https://news.ycombinator.com/item?id=44624952) - [How Tesla is proving doubters right on why its robotaxi service cannot scale](https://www.aol.com/elon-gambling-tesla-proving-doubters-090300237.html)
+* [2025-07-20, 12:47:34](https://news.ycombinator.com/item?id=44624702) - [Gitea Private, Fast, Reliable DevOps Platform](https://about.gitea.com/)
 * [2025-07-20, 12:14:52](https://news.ycombinator.com/item?id=44624454) - [Scientists reveal a widespread but unidentified psychological phenomenon](https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/)
 * [2025-07-20, 11:26:09](https://news.ycombinator.com/item?id=44624114) - [Digital vassals? French Government 'exposes citizens' data to US'](https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/)
 * [2025-07-20, 11:04:02](https://news.ycombinator.com/item?id=44623953) - [Coding with LLMs in the summer of 2025 (an update)](https://antirez.com/news/154)
