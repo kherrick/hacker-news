@@ -69,6 +69,7 @@
 * [2025-07-20, 05:58:47](https://news.ycombinator.com/item?id=44622360) - [You can use GitHub from your Watch – GitWrist](https://github.com/DaytimeDev/GitWrist)
 * [2025-07-20, 03:24:36](https://news.ycombinator.com/item?id=44621712) - [Show HN: Llm-benchmark – Benchmarks LLM-optimized code across multiple providers](https://github.com/thomasdavis/llm-benchmark/blob/main/tutorial.md)
 * [2025-07-20, 03:14:26](https://news.ycombinator.com/item?id=44621675) - [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit)
+* [2025-07-20, 02:48:04](https://news.ycombinator.com/item?id=44621551) - [Magnetic Components Directory Website](https://magdir.com)
 * [2025-07-20, 02:36:53](https://news.ycombinator.com/item?id=44621487) - [Borg - Deduplicating Archiver with Compression and Encryption](https://www.borgbackup.org/)
 * [2025-07-20, 02:02:44](https://news.ycombinator.com/item?id=44621268) - [Erythritol linked to brain cell damage and stroke risk](https://www.sciencedaily.com/releases/2025/07/250718035156.htm)
 * [2025-07-20, 01:33:47](https://news.ycombinator.com/item?id=44621119) - [Bill Banning One-Person Train Operation Would Lock NY Transit in the Past](https://www.etany.org/statements/impeding-progress-costing-riders-opto)
