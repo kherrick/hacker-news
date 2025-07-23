@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 13:17:38](https://news.ycombinator.com/item?id=44658908) - [Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom](https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/)
+* [2025-07-23, 13:09:01](https://news.ycombinator.com/item?id=44658820) - [Using Radicle CI](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
+* [2025-07-23, 13:03:22](https://news.ycombinator.com/item?id=44658770) - [20 years of Linux on the Desktop (part 4)](https://ploum.net/2025-07-23-linux_desktop4.html)
+* [2025-07-23, 12:42:55](https://news.ycombinator.com/item?id=44658573) - [How younger people interact with the modern internet](https://social.restless.systems/@CursedSilicon/114899888735166987)
+* [2025-07-23, 12:41:23](https://news.ycombinator.com/item?id=44658547) - [Apple Introduces AppleCare One](https://www.apple.com/newsroom/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/)
+* [2025-07-23, 12:28:59](https://news.ycombinator.com/item?id=44658458) - [Are we Trek yet? – A guide for how close we are to Star Trek technology](https://arewetrekyet.com/)
 * [2025-07-23, 12:00:36](https://news.ycombinator.com/item?id=44658233) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.com/careers/technical-content-lead/)
 * [2025-07-23, 11:46:09](https://news.ycombinator.com/item?id=44658103) - [Apple's Liquid Glass: When Aesthetics Beat Function](https://www.maxvanijsselmuiden.nl/liquid-glass)
 * [2025-07-23, 11:36:33](https://news.ycombinator.com/item?id=44658027) - [Show HN: Header-only GIF decoder in pure C – no malloc, easy to use](https://news.ycombinator.com/item?id=44658027)
@@ -11,6 +17,7 @@
 * [2025-07-23, 10:51:51](https://news.ycombinator.com/item?id=44657727) - [Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
 * [2025-07-23, 10:45:56](https://news.ycombinator.com/item?id=44657694) - [Short Google](https://tompccs.github.io/blog/2025/07/23/short-google.html)
 * [2025-07-23, 10:16:35](https://news.ycombinator.com/item?id=44657517) - [Has Brazil Invented the Future of Money?](https://paulkrugman.substack.com/p/has-brazil-invented-the-future-of)
+* [2025-07-23, 09:57:25](https://news.ycombinator.com/item?id=44657433) - [Checking Out CPython 3.14's remote debugging protocol](https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/)
 * [2025-07-23, 09:33:23](https://news.ycombinator.com/item?id=44657291) - [Brave blocks Microsoft Recall by default](https://brave.com/privacy-updates/35-block-recall/)
 * [2025-07-23, 09:07:31](https://news.ycombinator.com/item?id=44657133) - [How to Start Prop Firm Trading with Minimal Capital?](https://propfirmplus.com/)
 * [2025-07-23, 07:34:30](https://news.ycombinator.com/item?id=44656654) - [Depot (YC W23) Is Hiring a Technical Content Writer (Remote)](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer)

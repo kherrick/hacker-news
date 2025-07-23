@@ -38,6 +38,7 @@
 * [2025-07-20, 15:08:02](https://news.ycombinator.com/item?id=44625897) - [When is it the best time to post on Show HN?](https://www.myriade.ai/blogs/when-is-it-the-best-time-to-post-on-show-hn)
 * [2025-07-20, 14:45:55](https://news.ycombinator.com/item?id=44625681) - [Group Behind Steam Censorship Policies Have Powerful Allies](https://web.archive.org/web/20250719204151/https://www.vice.com/en/article/group-behind-steam-censorship-policies-have-powerful-allies-and-targeted-popular-games-with-outlandish-claims/)
 * [2025-07-20, 14:36:04](https://news.ycombinator.com/item?id=44625604) - [US signals intention to rethink job H-1B lottery](https://www.theregister.com/2025/07/20/h_1b_job_lottery/)
+* [2025-07-20, 14:24:28](https://news.ycombinator.com/item?id=44625500) - [I'm Unsatisfied with Easing Functions](https://www.davepagurek.com/blog/easing-functions/)
 * [2025-07-20, 14:11:26](https://news.ycombinator.com/item?id=44625360) - [The old Caveman Chemistry website (1996-2000)](https://cavemanchemistry.com/oldcave/)
 * [2025-07-20, 14:03:39](https://news.ycombinator.com/item?id=44625292) - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 * [2025-07-20, 13:49:22](https://news.ycombinator.com/item?id=44625181) - [Can Software Be Durable?](https://news.ycombinator.com/item?id=44625181)
