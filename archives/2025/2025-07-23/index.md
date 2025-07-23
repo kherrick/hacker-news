@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 15:45:15](https://news.ycombinator.com/item?id=44660519) - [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
 * [2025-07-23, 15:37:40](https://news.ycombinator.com/item?id=44660437) - [Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
 * [2025-07-23, 15:04:27](https://news.ycombinator.com/item?id=44660041) - [Reverse Engineering the GHA Cache to Improve Performance](https://depot.dev/blog/github-actions-cache)
 * [2025-07-23, 14:56:31](https://news.ycombinator.com/item?id=44659921) - [Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
