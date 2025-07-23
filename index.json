@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-07-23, 00:40:10",
+      "https://news.ycombinator.com/item?id=44654569"
+    ],
+    [
+      "CAMARA: Open-source API for telecom and 5G networks",
+      "https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/camara-2/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 00:27:43",
+      "https://news.ycombinator.com/item?id=44654494"
+    ],
+    [
+      "A media company demanded a license fee for an Open Graph image I used",
+      "https://alistairshepherd.uk/writing/open-graph-licensing/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 00:16:18",
+      "https://news.ycombinator.com/item?id=44654444"
+    ],
+    [
+      "Why you can't color calibrate deep space photos",
+      "https://maurycyz.com/misc/cc/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 23:55:19",
+      "https://news.ycombinator.com/item?id=44654299"
+    ],
+    [
+      "TapTrap: Animation‑Driven Tapjacking on Android",
+      "https://taptrap.click/"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 22:56:55",
       "https://news.ycombinator.com/item?id=44653965"
     ],
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2025-07-22, 20:06:33",
-      "https://news.ycombinator.com/item?id=44652374"
-    ],
-    [
-      "Unsafe and Unpredictable: My Volvo EX90 Experience",
-      "https://www.myvolvoex90.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 19:17:38",
       "https://news.ycombinator.com/item?id=44651770"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2025-07-22, 19:09:31",
-      "https://news.ycombinator.com/item?id=44651661"
-    ],
-    [
-      "Mistral reports on the environmental impact of LLMs",
-      "https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 18:59:04",
       "https://news.ycombinator.com/item?id=44651539"
     ],
@@ -107,6 +127,16 @@
     [
       "Fun with gzip bombs and email clients",
       "https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 18:54:05",
+      "https://news.ycombinator.com/item?id=44651485"
+    ],
+    [
+      "I watched Gemini CLI hallucinate and delete my files",
+      "https://anuraag2601.github.io/gemini_cli_disaster.html"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-07-22, 17:40:40",
-      "https://news.ycombinator.com/item?id=44650567"
-    ],
-    [
-      "Show HN: Any-LLM – Lightweight router to access any LLM Provider",
-      "https://github.com/mozilla-ai/any-llm"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 16:41:32",
       "https://news.ycombinator.com/item?id=44649653"
     ],
@@ -181,42 +201,12 @@
   ],
   [
     [
-      "2025-07-22, 16:11:45",
-      "https://news.ycombinator.com/item?id=44649115"
-    ],
-    [
-      "Launch HN: Promi (YC S24) – Personalize e-commerce discounts and retail offers",
-      "https://news.ycombinator.com/item?id=44649115"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 15:51:50",
-      "https://news.ycombinator.com/item?id=44648728"
-    ],
-    [
-      "Facts don't change minds, structure does",
-      "https://vasily.cc/blog/facts-dont-change-minds/"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 15:18:56",
       "https://news.ycombinator.com/item?id=44648144"
     ],
     [
       "Many lung cancers are now in nonsmokers",
       "https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 14:45:45",
-      "https://news.ycombinator.com/item?id=44647572"
-    ],
-    [
-      "Go allocation probe",
-      "https://www.scattered-thoughts.net/writing/go-allocation-probe/"
     ]
   ],
   [
@@ -251,22 +241,32 @@
   ],
   [
     [
+      "2025-07-21, 15:23:25",
+      "https://news.ycombinator.com/item?id=44636277"
+    ],
+    [
+      "Hegel Dust",
+      "https://www.bookforum.com/print/3201/hegel-dust-62209"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 08:21:42",
+      "https://news.ycombinator.com/item?id=44632904"
+    ],
+    [
+      "Can Dave Hurwitz Save Classical Recording?",
+      "https://www.newyorker.com/culture/persons-of-interest/can-dave-hurwitz-save-classical-recording"
+    ]
+  ],
+  [
+    [
       "2025-07-20, 12:47:34",
       "https://news.ycombinator.com/item?id=44624702"
     ],
     [
       "Gitea Private, Fast, Reliable DevOps Platform",
       "https://about.gitea.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 05:58:47",
-      "https://news.ycombinator.com/item?id=44622360"
-    ],
-    [
-      "You can use GitHub from your Watch – GitWrist",
-      "https://github.com/DaytimeDev/GitWrist"
     ]
   ],
   [
