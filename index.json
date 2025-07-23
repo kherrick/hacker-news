@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-07-23, 13:17:38",
+      "https://news.ycombinator.com/item?id=44658908"
+    ],
+    [
+      "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
+      "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 13:09:01",
+      "https://news.ycombinator.com/item?id=44658820"
+    ],
+    [
+      "Using Radicle CI",
+      "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 13:03:22",
+      "https://news.ycombinator.com/item?id=44658770"
+    ],
+    [
+      "20 years of Linux on the Desktop (part 4)",
+      "https://ploum.net/2025-07-23-linux_desktop4.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 12:42:55",
+      "https://news.ycombinator.com/item?id=44658573"
+    ],
+    [
+      "How younger people interact with the modern internet",
+      "https://social.restless.systems/@CursedSilicon/114899888735166987"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 12:41:23",
+      "https://news.ycombinator.com/item?id=44658547"
+    ],
+    [
+      "Apple Introduces AppleCare One",
+      "https://www.apple.com/newsroom/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 12:28:59",
+      "https://news.ycombinator.com/item?id=44658458"
+    ],
+    [
+      "Are we Trek yet? – A guide for how close we are to Star Trek technology",
+      "https://arewetrekyet.com/"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 12:00:36",
       "https://news.ycombinator.com/item?id=44658233"
     ],
@@ -41,6 +101,16 @@
   ],
   [
     [
+      "2025-07-23, 09:57:25",
+      "https://news.ycombinator.com/item?id=44657433"
+    ],
+    [
+      "Checking Out CPython 3.14's remote debugging protocol",
+      "https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 09:33:23",
       "https://news.ycombinator.com/item?id=44657291"
     ],
@@ -67,16 +137,6 @@
     [
       "Extending Emacs with Fennel (2024)",
       "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 04:03:53",
-      "https://news.ycombinator.com/item?id=44655632"
-    ],
-    [
-      "Show HN: WTFfmpeg – Natural Language to FFmpeg Translator",
-      "https://github.com/scottvr/wtffmpeg"
     ]
   ],
   [
@@ -181,66 +241,6 @@
   ],
   [
     [
-      "2025-07-22, 18:02:11",
-      "https://news.ycombinator.com/item?id=44650840"
-    ],
-    [
-      "Subliminal learning: Models transmit behaviors via hidden signals in data",
-      "https://alignment.anthropic.com/2025/subliminal-learning/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 17:44:33",
-      "https://news.ycombinator.com/item?id=44650622"
-    ],
-    [
-      "Show HN: Phind.design – Image editor & design tool powered by 4o / custom models",
-      "https://phind.design"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 16:41:31",
-      "https://news.ycombinator.com/item?id=44649651"
-    ],
-    [
-      "Gemini North telescope discovers long-predicted stellar companion of Betelgeuse",
-      "https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 15:18:56",
-      "https://news.ycombinator.com/item?id=44648144"
-    ],
-    [
-      "Many lung cancers are now in nonsmokers",
-      "https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 14:17:05",
-      "https://news.ycombinator.com/item?id=44647190"
-    ],
-    [
-      "Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code",
-      "https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 13:43:16",
-      "https://news.ycombinator.com/item?id=44646801"
-    ],
-    [
-      "TODOs aren't for doing",
-      "https://sophiebits.com/2025/07/21/todos-arent-for-doing"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 17:59:23",
       "https://news.ycombinator.com/item?id=44638304"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-07-21, 06:10:57",
-      "https://news.ycombinator.com/item?id=44632218"
-    ],
-    [
-      "SubTropolis and KC's Limestone Caves",
-      "https://kcyesterday.com/articles/subtropolis"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 01:42:22",
       "https://news.ycombinator.com/item?id=44631042"
     ],
     [
       "Geocities Backgrounds",
       "https://pixelmoondust.neocities.org/archives/archivedtiles"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 14:24:28",
+      "https://news.ycombinator.com/item?id=44625500"
+    ],
+    [
+      "I'm Unsatisfied with Easing Functions",
+      "https://www.davepagurek.com/blog/easing-functions/"
     ]
   ],
   [
