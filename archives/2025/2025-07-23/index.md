@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 03:47:18](https://news.ycombinator.com/item?id=44655565) - [Mathematics for Computer Science (2024)](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
 * [2025-07-23, 03:05:17](https://news.ycombinator.com/item?id=44655369) - [Czech president signs law criminalising communist propaganda](https://www.euractiv.com/section/politics/news/czech-president-signs-law-criminalising-communist-propaganda/)
 * [2025-07-23, 02:15:22](https://news.ycombinator.com/item?id=44655128) - [Earthquake Causes 2.5-Meter Ground Slip in First-Ever Footage](https://www.vice.com/en/article/earthquake-causes-2-5-meter-ground-slip-in-first-ever-footage/)
 * [2025-07-23, 00:40:10](https://news.ycombinator.com/item?id=44654569) - [CAMARA: Open-source API for telecom and 5G networks](https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/camara-2/)
