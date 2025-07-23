@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-07-23, 17:44:53",
+      "https://news.ycombinator.com/item?id=44661912"
+    ],
+    [
+      "AI.gov",
+      "https://www.ai.gov/"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 17:38:20",
       "https://news.ycombinator.com/item?id=44661846"
     ],
     [
       "Cara – High Precision Robot Dog Using Rope",
       "https://www.aaedmusa.com/projects/cara"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 17:32:37",
+      "https://news.ycombinator.com/item?id=44661785"
+    ],
+    [
+      "Hyperpb: 10x faster dynamic Protobuf parsing that's faster than generated code",
+      "https://buf.build/blog/hyperpb"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-07-23, 13:17:38",
-      "https://news.ycombinator.com/item?id=44658908"
-    ],
-    [
-      "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
-      "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 13:09:01",
       "https://news.ycombinator.com/item?id=44658820"
     ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2025-07-23, 05:54:21",
-      "https://news.ycombinator.com/item?id=44656073"
-    ],
-    [
-      "Extending Emacs with Fennel (2024)",
-      "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 05:16:24",
       "https://news.ycombinator.com/item?id=44655921"
     ],
     [
       "When Is WebAssembly Going to Get DOM Support?",
       "https://queue.acm.org/detail.cfm?id=3746174"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 03:47:18",
-      "https://news.ycombinator.com/item?id=44655565"
-    ],
-    [
-      "Mathematics for Computer Science (2024)",
-      "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Geocities Backgrounds",
       "https://pixelmoondust.neocities.org/archives/archivedtiles/backgroundsindex"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 15:51:15",
+      "https://news.ycombinator.com/item?id=44626359"
+    ],
+    [
+      "Checklists are hard (but still a good thing)",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood"
     ]
   ],
   [
