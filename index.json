@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-23, 17:38:20",
+      "https://news.ycombinator.com/item?id=44661846"
+    ],
+    [
+      "Cara – High Precision Robot Dog Using Rope",
+      "https://www.aaedmusa.com/projects/cara"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 17:24:32",
+      "https://news.ycombinator.com/item?id=44661682"
+    ],
+    [
+      "The Promised LAN",
+      "https://tpl.house/"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 17:01:14",
       "https://news.ycombinator.com/item?id=44661420"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2025-07-23, 15:04:27",
-      "https://news.ycombinator.com/item?id=44660041"
-    ],
-    [
-      "Reverse engineering the GHA cache to improve performance (2024)",
-      "https://depot.dev/blog/github-actions-cache"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 14:56:31",
       "https://news.ycombinator.com/item?id=44659921"
     ],
@@ -87,16 +97,6 @@
     [
       "Show HN: Self-updating MCP server for official pip, uv, poetry and conda docs",
       "https://github.com/KemingHe/python-dependency-manager-companion-mcp-server"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 13:52:47",
-      "https://news.ycombinator.com/item?id=44659251"
-    ],
-    [
-      "Why Elixir? A Rebuttal to Common Misconceptions",
-      "https://matthewsinclair.com/blog/0181-why-elixir"
     ]
   ],
   [
