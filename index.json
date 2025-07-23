@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-23, 15:45:15",
+      "https://news.ycombinator.com/item?id=44660519"
+    ],
+    [
+      "You Can Now Disable All AI Features in Zed",
+      "https://zed.dev/blog/disable-ai-features"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 15:37:40",
       "https://news.ycombinator.com/item?id=44660437"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44660041"
     ],
     [
-      "Reverse Engineering the GHA Cache to Improve Performance",
+      "Reverse engineering the GHA cache to improve performance (2024)",
       "https://depot.dev/blog/github-actions-cache"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Tram Trains",
       "https://www.worksinprogress.news/p/tram-trains"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 14:32:23",
-      "https://news.ycombinator.com/item?id=44659661"
-    ],
-    [
-      "Show HN: Self-updating MCP server for official pip, uv, poetry and conda docs",
-      "https://github.com/KemingHe/python-dependency-manager-companion-mcp-server"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-07-22, 19:17:38",
-      "https://news.ycombinator.com/item?id=44651770"
+      "2025-07-22, 22:56:55",
+      "https://news.ycombinator.com/item?id=44653965"
     ],
     [
-      "More than you wanted to know about how Game Boy cartridges work",
-      "https://abc.decontextualize.com/more-than-you-wanted-to-know/"
+      "Algorithms for Modern Processor Architectures",
+      "https://lemire.github.io/talks/2025/sea/sea2025.html"
     ]
   ],
   [
