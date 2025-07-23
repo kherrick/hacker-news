@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 13:23:49](https://news.ycombinator.com/item?id=44658978) - [Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch](https://github.com/manticoresoftware/manticoresearch)
+* [2025-07-23, 13:23:20](https://news.ycombinator.com/item?id=44658973) - [The Surprising gRPC Client Bottleneck in Low-Latency Networks](https://blog.ydb.tech/the-surprising-grpc-client-bottleneck-in-low-latency-networks-and-how-to-get-around-it-69d6977a1d02)
+* [2025-07-23, 13:17:43](https://news.ycombinator.com/item?id=44658909) - [Reverse engineering GitHub Actions cache to make it fast](https://www.blacksmith.sh/blog/cache)
 * [2025-07-23, 13:17:38](https://news.ycombinator.com/item?id=44658908) - [Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom](https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/)
 * [2025-07-23, 13:09:01](https://news.ycombinator.com/item?id=44658820) - [Using Radicle CI](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
+* [2025-07-23, 13:06:43](https://news.ycombinator.com/item?id=44658798) - [SDR42E1 modulates Vitamin D absorption and cancer pathogenesis](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1585859/full)
 * [2025-07-23, 13:03:22](https://news.ycombinator.com/item?id=44658770) - [20 years of Linux on the Desktop (part 4)](https://ploum.net/2025-07-23-linux_desktop4.html)
 * [2025-07-23, 12:42:55](https://news.ycombinator.com/item?id=44658573) - [How younger people interact with the modern internet](https://social.restless.systems/@CursedSilicon/114899888735166987)
 * [2025-07-23, 12:41:23](https://news.ycombinator.com/item?id=44658547) - [Apple Introduces AppleCare One](https://www.apple.com/newsroom/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/)
