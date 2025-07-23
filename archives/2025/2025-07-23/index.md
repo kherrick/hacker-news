@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
 * [2025-07-23, 22:53:27](https://news.ycombinator.com/item?id=44664873) - [I made Tinder but it's only pictures of my wife and I can only swipe right](https://trytender.app/)
+* [2025-07-23, 20:31:16](https://news.ycombinator.com/item?id=44663684) - [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
 * [2025-07-23, 19:50:12](https://news.ycombinator.com/item?id=44663227) - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
 * [2025-07-23, 19:28:29](https://news.ycombinator.com/item?id=44663021) - [ICE block founder's wife fired by DOJ in retaliation for the app](https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214)
 * [2025-07-23, 19:26:42](https://news.ycombinator.com/item?id=44663003) - [AccuWeather to discontinue free access to Core Weather API](https://developer.accuweather.com/new-portal)

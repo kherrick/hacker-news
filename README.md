@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-23, 22:53:27](https://news.ycombinator.com/item?id=44664873) - [I made Tinder but it's only pictures of my wife and I can only swipe right](https://trytender.app/)
+* [2025-07-23, 20:31:16](https://news.ycombinator.com/item?id=44663684) - [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
 * [2025-07-23, 19:02:46](https://news.ycombinator.com/item?id=44662757) - [Major rule about cooking meat turns out to be wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 * [2025-07-23, 18:55:28](https://news.ycombinator.com/item?id=44662690) - [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area)
 * [2025-07-23, 18:37:48](https://news.ycombinator.com/item?id=44662497) - [Show HN: TheProtector – Linux Bash script for the paranoid admin on a budget](https://github.com/IHATEGIVINGAUSERNAME/theProtector)
@@ -23,7 +24,6 @@
 * [2025-07-22, 21:20:16](https://news.ycombinator.com/item?id=44653136) - [Vector Tiles are deployed on OpenStreetMap.org](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/)
 * [2025-07-21, 20:03:22](https://news.ycombinator.com/item?id=44639828) - [Kimi-K2 Tech Report [pdf]](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
 * [2025-07-21, 05:28:15](https://news.ycombinator.com/item?id=44632045) - [SIMD Perlin Noise: Beating the Compiler with SSE (2014)](https://scallywag.software/vim/blog/simd-perlin-noise-i)
-* [2025-07-21, 05:02:59](https://news.ycombinator.com/item?id=44631934) - [Show HN: NativeSwap – Low cost cross-chain swaps without wrappers or bridges](https://nativeswap.io)
 * [2025-07-20, 07:02:03](https://news.ycombinator.com/item?id=44622637) - [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)
 * [2025-07-20, 02:48:04](https://news.ycombinator.com/item?id=44621551) - [Magnetic Components Directory Website](https://magdir.com)
 * [2025-07-19, 22:28:06](https://news.ycombinator.com/item?id=44620020) - [How YouTube won the battle for TV viewers](https://www.wsj.com/business/media/how-youtube-won-the-battle-for-tv-viewers-346d05b8)
