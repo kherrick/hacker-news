@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-23, 14:30:41](https://news.ycombinator.com/item?id=44659635) - [Uber will let women drivers and riders request to avoid being paired with men](https://www.cnbc.com/2025/07/23/uber-women-drivers-riders.html)
 * [2025-07-23, 13:23:49](https://news.ycombinator.com/item?id=44658978) - [Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch](https://github.com/manticoresoftware/manticoresearch)
 * [2025-07-23, 13:23:20](https://news.ycombinator.com/item?id=44658973) - [The Surprising gRPC Client Bottleneck in Low-Latency Networks](https://blog.ydb.tech/the-surprising-grpc-client-bottleneck-in-low-latency-networks-and-how-to-get-around-it-69d6977a1d02)
 * [2025-07-23, 13:17:43](https://news.ycombinator.com/item?id=44658909) - [Reverse engineering GitHub Actions cache to make it fast](https://www.blacksmith.sh/blog/cache)
@@ -18,7 +19,6 @@
 * [2025-07-23, 05:16:24](https://news.ycombinator.com/item?id=44655921) - [When Is WebAssembly Going to Get DOM Support?](https://queue.acm.org/detail.cfm?id=3746174)
 * [2025-07-23, 03:47:18](https://news.ycombinator.com/item?id=44655565) - [Mathematics for Computer Science (2024)](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
 * [2025-07-23, 03:39:13](https://news.ycombinator.com/item?id=44655515) - [AI coding agents are removing programming language barriers](https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/)
-* [2025-07-23, 03:09:20](https://news.ycombinator.com/item?id=44655385) - [Org tutorials](https://orgmode.org/worg/org-tutorials/index.html)
 * [2025-07-23, 00:16:18](https://news.ycombinator.com/item?id=44654444) - [Why you can't color calibrate deep space photos](https://maurycyz.com/misc/cc/)
 * [2025-07-22, 22:56:55](https://news.ycombinator.com/item?id=44653965) - [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
 * [2025-07-22, 21:12:30](https://news.ycombinator.com/item?id=44653072) - [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
