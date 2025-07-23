@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-07-23, 19:50:12",
-      "https://news.ycombinator.com/item?id=44663227"
-    ],
-    [
-      "AI overviews cause massive drop in search clicks",
-      "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 19:26:42",
       "https://news.ycombinator.com/item?id=44663003"
     ],
@@ -191,22 +181,22 @@
   ],
   [
     [
-      "2025-07-23, 13:17:43",
-      "https://news.ycombinator.com/item?id=44658909"
-    ],
-    [
-      "Reverse engineering GitHub Actions cache to make it fast",
-      "https://www.blacksmith.sh/blog/cache"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 13:17:38",
       "https://news.ycombinator.com/item?id=44658908"
     ],
     [
       "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
       "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 10:22:42",
+      "https://news.ycombinator.com/item?id=44657556"
+    ],
+    [
+      "Lumo: Privacy-first AI assistant",
+      "https://proton.me/blog/lumo-ai"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2025-07-21, 20:03:22",
+      "https://news.ycombinator.com/item?id=44639828"
+    ],
+    [
+      "Kimi-K2 Tech Report [pdf]",
+      "https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 05:28:15",
       "https://news.ycombinator.com/item?id=44632045"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2025-07-21, 00:49:29",
-      "https://news.ycombinator.com/item?id=44630801"
+      "2025-07-21, 05:02:59",
+      "https://news.ycombinator.com/item?id=44631934"
     ],
     [
-      "The First Photograph Ever Taken (1826)",
-      "https://www.openculture.com/2025/07/the-first-photograph-ever-taken.html"
+      "Show HN: NativeSwap – Low cost cross-chain swaps without wrappers or bridges",
+      "https://nativeswap.io"
     ]
   ],
   [
@@ -247,16 +247,6 @@
     [
       "Checklists are hard, but still a good thing",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 08:11:09",
-      "https://news.ycombinator.com/item?id=44622954"
-    ],
-    [
-      "Using uninitialized memory for fun and profit (2008)",
-      "https://research.swtch.com/sparse"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "How YouTube won the battle for TV viewers",
       "https://www.wsj.com/business/media/how-youtube-won-the-battle-for-tv-viewers-346d05b8"
+    ]
+  ],
+  [
+    [
+      "2025-07-19, 03:23:41",
+      "https://news.ycombinator.com/item?id=44612313"
+    ],
+    [
+      "The Big OOPs: Anatomy of a Thirty-Five Year Mistake",
+      "https://www.computerenhance.com/p/the-big-oops-anatomy-of-a-thirty"
     ]
   ],
   [
