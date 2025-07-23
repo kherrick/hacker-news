@@ -71,6 +71,7 @@
 * [2025-07-17, 10:40:04](https://news.ycombinator.com/item?id=44591752) - [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
 * [2025-07-17, 10:27:11](https://news.ycombinator.com/item?id=44591689) - [Voting age to be lowered to 16 by next general election](https://www.bbc.co.uk/news/articles/c628ep4j5kno)
 * [2025-07-17, 10:13:15](https://news.ycombinator.com/item?id=44591622) - [Economists made a model of the U.S. economy. Our debt crashed the model](https://www.marketplace.org/story/2025/07/14/how-our-debt-crashed-a-model-of-the-us-economy)
+* [2025-07-17, 10:09:48](https://news.ycombinator.com/item?id=44591605) - [Parsing Protobuf like never before](https://mcyoung.xyz/2025/07/16/hyperpb/)
 * [2025-07-17, 10:05:23](https://news.ycombinator.com/item?id=44591585) - [New battery has life so long you may never have to recharge](https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/)
 * [2025-07-17, 09:36:58](https://news.ycombinator.com/item?id=44591445) - [FOSS4G Europe 2025 Live Streaming](https://2025.europe.foss4g.org/livestream/)
 * [2025-07-17, 09:35:37](https://news.ycombinator.com/item?id=44591439) - [Jove (Jonathan's Own Version of Emacs)](https://en.wikipedia.org/wiki/JOVE)
