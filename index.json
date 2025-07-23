@@ -71,22 +71,22 @@
   ],
   [
     [
-      "2025-07-23, 12:41:23",
-      "https://news.ycombinator.com/item?id=44658547"
-    ],
-    [
-      "Apple introduces AppleCare One",
-      "https://www.apple.com/newsroom/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 12:00:36",
       "https://news.ycombinator.com/item?id=44658233"
     ],
     [
       "QuestDB (YC S20) Is Hiring a Technical Content Lead",
       "https://questdb.com/careers/technical-content-lead/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 11:46:09",
+      "https://news.ycombinator.com/item?id=44658103"
+    ],
+    [
+      "Apple's Liquid Glass: When Aesthetics Beat Function",
+      "https://www.maxvanijsselmuiden.nl/liquid-glass"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44657727"
     ],
     [
-      "Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second",
+      "Cerebras launches Qwen3-235B, achieving 1.5k tokens per second",
       "https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support"
     ]
   ],
@@ -151,12 +151,32 @@
   ],
   [
     [
+      "2025-07-23, 05:16:24",
+      "https://news.ycombinator.com/item?id=44655921"
+    ],
+    [
+      "When Is WebAssembly Going to Get DOM Support?",
+      "https://queue.acm.org/detail.cfm?id=3746174"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 03:47:18",
       "https://news.ycombinator.com/item?id=44655565"
     ],
     [
       "Mathematics for Computer Science (2024)",
       "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 03:39:13",
+      "https://news.ycombinator.com/item?id=44655515"
+    ],
+    [
+      "AI coding agents are removing programming language barriers",
+      "https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "More than you wanted to know about how Game Boy cartridges work",
       "https://abc.decontextualize.com/more-than-you-wanted-to-know/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 18:59:04",
-      "https://news.ycombinator.com/item?id=44651539"
-    ],
-    [
-      "Swift-erlang-actor-system",
-      "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Reversing a Fingerprint Reader Protocol (2021)",
       "https://blog.th0m.as/misc/fingerprint-reversing/"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 20:44:19",
-      "https://news.ycombinator.com/item?id=44619206"
-    ],
-    [
-      "Don't animate height",
-      "https://www.granola.ai/blog/dont-animate-height"
     ]
   ]
 ]
