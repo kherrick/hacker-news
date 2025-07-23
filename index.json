@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-23, 19:50:12",
+      "https://news.ycombinator.com/item?id=44663227"
+    ],
+    [
+      "AI overviews cause massive drop in search clicks",
+      "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 19:28:29",
+      "https://news.ycombinator.com/item?id=44663021"
+    ],
+    [
+      "ICE block founder's wife fired by DOJ in retaliation for the app",
+      "https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 19:26:42",
       "https://news.ycombinator.com/item?id=44663003"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-07-23, 14:48:22",
-      "https://news.ycombinator.com/item?id=44659822"
-    ],
-    [
-      "Proxmox Donates €10k to the Perl and Raku Foundation",
-      "https://www.perl.com/article/proxmox-donates-to-tprf/"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 14:37:12",
       "https://news.ycombinator.com/item?id=44659712"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-07-21, 17:59:23",
-      "https://news.ycombinator.com/item?id=44638304"
-    ],
-    [
-      "SQL Injection as a Feature",
-      "https://idiallo.com/blog/sql-injection-as-a-feature"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 05:28:15",
       "https://news.ycombinator.com/item?id=44632045"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-07-20, 08:11:09",
+      "https://news.ycombinator.com/item?id=44622954"
+    ],
+    [
+      "Using Uninitialized Memory for Fun and Profit",
+      "https://research.swtch.com/sparse"
+    ]
+  ],
+  [
+    [
       "2025-07-20, 07:02:03",
       "https://news.ycombinator.com/item?id=44622637"
     ],
     [
       "AI groups spend to replace low-cost 'data labellers' with high-paid experts",
       "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 22:02:37",
-      "https://news.ycombinator.com/item?id=44619835"
-    ],
-    [
-      "Reversing a Fingerprint Reader Protocol (2021)",
-      "https://blog.th0m.as/misc/fingerprint-reversing/"
     ]
   ]
 ]
