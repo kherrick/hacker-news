@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 17:01:14](https://news.ycombinator.com/item?id=44661420) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
 * [2025-07-23, 16:15:07](https://news.ycombinator.com/item?id=44660863) - [AI Friend Apps Are Destroying What's Left of Society](https://www.currentaffairs.org/news/ai-friend-apps-are-destroying-whats-left-of-society)
 * [2025-07-23, 16:04:30](https://news.ycombinator.com/item?id=44660736) - [Show HN: The missing link of a bookstore's tech stack](https://bookhead.net/)
 * [2025-07-23, 15:45:15](https://news.ycombinator.com/item?id=44660519) - [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
