@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-07-23, 05:04:57",
+      "https://news.ycombinator.com/item?id=44655866"
+    ],
+    [
+      "Ask HN: What software subscriptions are worth paying for?",
+      "https://news.ycombinator.com/item?id=44655866"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 04:50:34",
+      "https://news.ycombinator.com/item?id=44655804"
+    ],
+    [
+      "The Benefits of Trunk-Based Development",
+      "https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 04:03:53",
+      "https://news.ycombinator.com/item?id=44655632"
+    ],
+    [
+      "Show HN: WTFfmpeg",
+      "https://github.com/scottvr/wtffmpeg"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 03:57:02",
+      "https://news.ycombinator.com/item?id=44655600"
+    ],
+    [
+      "Countries across the world see food price shocks from climate extremes",
+      "https://www.bsc.es/news/bsc-news/countries-across-the-world-see-food-price-shocks-climate-extremes-research-involving-bsc-shows"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 03:47:18",
       "https://news.ycombinator.com/item?id=44655565"
     ],
@@ -11,22 +51,22 @@
   ],
   [
     [
-      "2025-07-23, 02:15:22",
-      "https://news.ycombinator.com/item?id=44655128"
+      "2025-07-23, 03:39:13",
+      "https://news.ycombinator.com/item?id=44655515"
     ],
     [
-      "Earthquake Causes 2.5-Meter Ground Slip in First-Ever Footage",
-      "https://www.vice.com/en/article/earthquake-causes-2-5-meter-ground-slip-in-first-ever-footage/"
+      "AI coding agents are removing programming language barriers",
+      "https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/"
     ]
   ],
   [
     [
-      "2025-07-23, 00:27:43",
-      "https://news.ycombinator.com/item?id=44654494"
+      "2025-07-23, 03:09:20",
+      "https://news.ycombinator.com/item?id=44655385"
     ],
     [
-      "A media company demanded a license fee for an Open Graph image I used",
-      "https://alistairshepherd.uk/writing/open-graph-licensing/"
+      "Org tutorials",
+      "https://orgmode.org/worg/org-tutorials/index.html"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2025-07-22, 20:16:18",
-      "https://news.ycombinator.com/item?id=44652482"
-    ],
-    [
-      "NonRAID – fork of unRAID array kernel module",
-      "https://github.com/qvr/nonraid"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 19:17:38",
       "https://news.ycombinator.com/item?id=44651770"
     ],
@@ -127,16 +157,6 @@
     [
       "Swift-erlang-actor-system",
       "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 18:58:23",
-      "https://news.ycombinator.com/item?id=44651536"
-    ],
-    [
-      "Fun with gzip bombs and email clients",
-      "https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-07-22, 13:53:46",
-      "https://news.ycombinator.com/item?id=44646925"
-    ],
-    [
-      "OSS Rebuild: open-source, rebuilt to last",
-      "https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 13:43:16",
       "https://news.ycombinator.com/item?id=44646801"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2025-07-21, 15:23:25",
-      "https://news.ycombinator.com/item?id=44636277"
+      "2025-07-22, 11:31:24",
+      "https://news.ycombinator.com/item?id=44645597"
     ],
     [
-      "Hegel Dust",
-      "https://www.bookforum.com/print/3201/hegel-dust-62209"
+      "Show HN: A word of the day that doesn't suck",
+      "https://news.ycombinator.com/item?id=44645597"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44619485"
     ],
     [
-      "Managing EFI Boot Loaders for Linux: Controlling Secure Boot",
+      "Managing EFI boot loaders for Linux: Controlling secure boot (2015)",
       "https://www.rodsbooks.com/efi-bootloaders/controlling-sb.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Compass CNC – Open-source handheld CNC router",
       "https://www.compassrouter.com"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 07:11:14",
-      "https://news.ycombinator.com/item?id=44613268"
-    ],
-    [
-      "My favourite German word",
-      "https://vurt.org/articles/my-favourite-german-word/"
     ]
   ]
 ]
