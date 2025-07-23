@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-23, 19:26:42",
+      "https://news.ycombinator.com/item?id=44663003"
+    ],
+    [
+      "AccuWeather to discontinue free access to Core Weather API",
+      "https://developer.accuweather.com/new-portal"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 19:02:46",
+      "https://news.ycombinator.com/item?id=44662757"
+    ],
+    [
+      "Major Rule About Cooking Meat Turns Out to Be Wrong",
+      "https://www.seriouseats.com/meat-resting-science-11776272"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 18:55:28",
       "https://news.ycombinator.com/item?id=44662690"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-07-23, 14:32:23",
-      "https://news.ycombinator.com/item?id=44659661"
-    ],
-    [
-      "Show HN: Self-updating MCP server for official pip, uv, poetry and conda docs",
-      "https://github.com/KemingHe/python-dependency-manager-companion-mcp-server"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 13:27:38",
       "https://news.ycombinator.com/item?id=44659019"
     ],
@@ -217,16 +227,6 @@
     [
       "Cerebras launches Qwen3-235B, achieving 1.5k tokens per second",
       "https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 09:57:25",
-      "https://news.ycombinator.com/item?id=44657433"
-    ],
-    [
-      "Checking Out CPython 3.14's remote debugging protocol",
-      "https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/"
     ]
   ],
   [
