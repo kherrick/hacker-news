@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-23, 18:51:26](https://news.ycombinator.com/item?id=44662658) - [Why Do Victims of Massacres Go to Their Deaths?](https://www.benlandautaylor.com/p/why-do-victims-of-massacres-go-quietly)
 * [2025-07-23, 17:45:03](https://news.ycombinator.com/item?id=44661914) - [Boost HTML5 Game Performance with WebAssembly](https://playgama.com/blog/general/boost-html5-game-performance-with-webassembly/)
-* [2025-07-23, 17:44:53](https://news.ycombinator.com/item?id=44661912) - [AI.gov](https://www.ai.gov/)
+* [2025-07-23, 17:39:57](https://news.ycombinator.com/item?id=44661862) - [UdeM researchers confirm a fifth potentially habitable planet around L 98-59](https://nouvelles.umontreal.ca/en/article/2025/07/22/a-udem-team-confirms-a-fifth-potentially-habitable-planet-around-l-98-59-a-red-dwarf-35-l/)
 * [2025-07-23, 17:38:20](https://news.ycombinator.com/item?id=44661846) - [Cara – High Precision Robot Dog Using Rope](https://www.aaedmusa.com/projects/cara)
 * [2025-07-23, 17:32:37](https://news.ycombinator.com/item?id=44661785) - [Hyperpb: 10x faster dynamic Protobuf parsing that's faster than generated code](https://buf.build/blog/hyperpb)
 * [2025-07-23, 17:24:32](https://news.ycombinator.com/item?id=44661682) - [The Promised LAN](https://tpl.house/)
@@ -22,7 +23,6 @@
 * [2025-07-23, 13:09:01](https://news.ycombinator.com/item?id=44658820) - [Using Radicle CI](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
 * [2025-07-23, 10:51:51](https://news.ycombinator.com/item?id=44657727) - [Cerebras launches Qwen3-235B, achieving 1.5k tokens per second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
 * [2025-07-23, 09:57:25](https://news.ycombinator.com/item?id=44657433) - [Checking Out CPython 3.14's remote debugging protocol](https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/)
-* [2025-07-23, 05:16:24](https://news.ycombinator.com/item?id=44655921) - [When Is WebAssembly Going to Get DOM Support?](https://queue.acm.org/detail.cfm?id=3746174)
 * [2025-07-21, 17:59:23](https://news.ycombinator.com/item?id=44638304) - [SQL Injection as a Feature](https://idiallo.com/blog/sql-injection-as-a-feature)
 * [2025-07-21, 05:28:15](https://news.ycombinator.com/item?id=44632045) - [SIMD Perlin Noise: Beating the Compiler with SSE](https://scallywag.software/vim/blog/simd-perlin-noise-i)
 * [2025-07-21, 01:42:22](https://news.ycombinator.com/item?id=44631042) - [Geocities Backgrounds](https://pixelmoondust.neocities.org/archives/archivedtiles/backgroundsindex)

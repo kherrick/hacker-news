@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 18:51:26](https://news.ycombinator.com/item?id=44662658) - [Why Do Victims of Massacres Go to Their Deaths?](https://www.benlandautaylor.com/p/why-do-victims-of-massacres-go-quietly)
 * [2025-07-23, 17:45:03](https://news.ycombinator.com/item?id=44661914) - [Boost HTML5 Game Performance with WebAssembly](https://playgama.com/blog/general/boost-html5-game-performance-with-webassembly/)
 * [2025-07-23, 17:44:53](https://news.ycombinator.com/item?id=44661912) - [AI.gov](https://www.ai.gov/)
+* [2025-07-23, 17:39:57](https://news.ycombinator.com/item?id=44661862) - [UdeM researchers confirm a fifth potentially habitable planet around L 98-59](https://nouvelles.umontreal.ca/en/article/2025/07/22/a-udem-team-confirms-a-fifth-potentially-habitable-planet-around-l-98-59-a-red-dwarf-35-l/)
 * [2025-07-23, 17:38:20](https://news.ycombinator.com/item?id=44661846) - [Cara – High Precision Robot Dog Using Rope](https://www.aaedmusa.com/projects/cara)
 * [2025-07-23, 17:32:37](https://news.ycombinator.com/item?id=44661785) - [Hyperpb: 10x faster dynamic Protobuf parsing that's faster than generated code](https://buf.build/blog/hyperpb)
 * [2025-07-23, 17:24:32](https://news.ycombinator.com/item?id=44661682) - [The Promised LAN](https://tpl.house/)
