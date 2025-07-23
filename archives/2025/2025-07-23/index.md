@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 19:50:12](https://news.ycombinator.com/item?id=44663227) - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
+* [2025-07-23, 19:28:29](https://news.ycombinator.com/item?id=44663021) - [ICE block founder's wife fired by DOJ in retaliation for the app](https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214)
 * [2025-07-23, 19:26:42](https://news.ycombinator.com/item?id=44663003) - [AccuWeather to discontinue free access to Core Weather API](https://developer.accuweather.com/new-portal)
 * [2025-07-23, 19:02:46](https://news.ycombinator.com/item?id=44662757) - [Major Rule About Cooking Meat Turns Out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 * [2025-07-23, 18:55:28](https://news.ycombinator.com/item?id=44662690) - [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area)

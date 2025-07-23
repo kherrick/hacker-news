@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-23, 19:50:12](https://news.ycombinator.com/item?id=44663227) - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
+* [2025-07-23, 19:28:29](https://news.ycombinator.com/item?id=44663021) - [ICE block founder's wife fired by DOJ in retaliation for the app](https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214)
 * [2025-07-23, 19:26:42](https://news.ycombinator.com/item?id=44663003) - [AccuWeather to discontinue free access to Core Weather API](https://developer.accuweather.com/new-portal)
 * [2025-07-23, 19:02:46](https://news.ycombinator.com/item?id=44662757) - [Major Rule About Cooking Meat Turns Out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 * [2025-07-23, 18:55:28](https://news.ycombinator.com/item?id=44662690) - [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area)
@@ -15,7 +17,6 @@
 * [2025-07-23, 15:45:15](https://news.ycombinator.com/item?id=44660519) - [You can now disable all AI features in Zed](https://zed.dev/blog/disable-ai-features)
 * [2025-07-23, 15:37:40](https://news.ycombinator.com/item?id=44660437) - [Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
 * [2025-07-23, 14:56:31](https://news.ycombinator.com/item?id=44659921) - [Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
-* [2025-07-23, 14:48:22](https://news.ycombinator.com/item?id=44659822) - [Proxmox Donates €10k to the Perl and Raku Foundation](https://www.perl.com/article/proxmox-donates-to-tprf/)
 * [2025-07-23, 14:37:12](https://news.ycombinator.com/item?id=44659712) - [Tram Trains](https://www.worksinprogress.news/p/tram-trains)
 * [2025-07-23, 13:27:38](https://news.ycombinator.com/item?id=44659019) - [What to Expect from Debian/Trixie](https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/)
 * [2025-07-23, 13:23:49](https://news.ycombinator.com/item?id=44658978) - [Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch](https://github.com/manticoresoftware/manticoresearch)
@@ -23,13 +24,12 @@
 * [2025-07-23, 13:17:43](https://news.ycombinator.com/item?id=44658909) - [Reverse engineering GitHub Actions cache to make it fast](https://www.blacksmith.sh/blog/cache)
 * [2025-07-23, 13:09:01](https://news.ycombinator.com/item?id=44658820) - [Using Radicle CI](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
 * [2025-07-23, 10:51:51](https://news.ycombinator.com/item?id=44657727) - [Cerebras launches Qwen3-235B, achieving 1.5k tokens per second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
-* [2025-07-21, 17:59:23](https://news.ycombinator.com/item?id=44638304) - [SQL Injection as a Feature](https://idiallo.com/blog/sql-injection-as-a-feature)
 * [2025-07-21, 05:28:15](https://news.ycombinator.com/item?id=44632045) - [SIMD Perlin Noise: Beating the Compiler with SSE](https://scallywag.software/vim/blog/simd-perlin-noise-i)
 * [2025-07-21, 01:42:22](https://news.ycombinator.com/item?id=44631042) - [Geocities Backgrounds](https://pixelmoondust.neocities.org/archives/archivedtiles/backgroundsindex)
 * [2025-07-21, 00:49:29](https://news.ycombinator.com/item?id=44630801) - [The First Photograph Ever Taken (1826)](https://www.openculture.com/2025/07/the-first-photograph-ever-taken.html)
 * [2025-07-20, 15:51:15](https://news.ycombinator.com/item?id=44626359) - [Checklists are hard (but still a good thing)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood)
+* [2025-07-20, 08:11:09](https://news.ycombinator.com/item?id=44622954) - [Using Uninitialized Memory for Fun and Profit](https://research.swtch.com/sparse)
 * [2025-07-20, 07:02:03](https://news.ycombinator.com/item?id=44622637) - [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)
-* [2025-07-19, 22:02:37](https://news.ycombinator.com/item?id=44619835) - [Reversing a Fingerprint Reader Protocol (2021)](https://blog.th0m.as/misc/fingerprint-reversing/)
 
 ## [Archives](archives/index.md)
 
