@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-07-23, 14:30:41",
-      "https://news.ycombinator.com/item?id=44659635"
+      "2025-07-23, 15:04:27",
+      "https://news.ycombinator.com/item?id=44660041"
     ],
     [
-      "Uber will let women drivers and riders request to avoid being paired with men",
-      "https://www.cnbc.com/2025/07/23/uber-women-drivers-riders.html"
+      "Reverse Engineering the GHA Cache to Improve Performance",
+      "https://depot.dev/blog/github-actions-cache"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 14:56:31",
+      "https://news.ycombinator.com/item?id=44659921"
+    ],
+    [
+      "Stop Building AI Tools Backwards",
+      "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 14:48:22",
+      "https://news.ycombinator.com/item?id=44659822"
+    ],
+    [
+      "Proxmox Donates €10k to the Perl and Raku Foundation",
+      "https://www.perl.com/article/proxmox-donates-to-tprf/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 13:27:38",
+      "https://news.ycombinator.com/item?id=44659019"
+    ],
+    [
+      "What to Expect from Debian/Trixie",
+      "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/"
     ]
   ],
   [
@@ -87,26 +117,6 @@
     [
       "QuestDB (YC S20) Is Hiring a Technical Content Lead",
       "https://questdb.com/careers/technical-content-lead/"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 11:46:09",
-      "https://news.ycombinator.com/item?id=44658103"
-    ],
-    [
-      "Apple's Liquid Glass: When Aesthetics Beat Function",
-      "https://www.maxvanijsselmuiden.nl/liquid-glass"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 11:36:33",
-      "https://news.ycombinator.com/item?id=44658027"
-    ],
-    [
-      "Show HN: Header-only GIF decoder in pure C – no malloc, easy to use",
-      "https://news.ycombinator.com/item?id=44658027"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2025-07-22, 21:12:30",
-      "https://news.ycombinator.com/item?id=44653072"
-    ],
-    [
-      "Qwen3-Coder: Agentic coding in the world",
-      "https://qwenlm.github.io/blog/qwen3-coder/"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 19:17:38",
       "https://news.ycombinator.com/item?id=44651770"
     ],
     [
       "More than you wanted to know about how Game Boy cartridges work",
       "https://abc.decontextualize.com/more-than-you-wanted-to-know/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 18:54:05",
-      "https://news.ycombinator.com/item?id=44651485"
-    ],
-    [
-      "I watched Gemini CLI hallucinate and delete my files",
-      "https://anuraag2601.github.io/gemini_cli_disaster.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "SQL Injection as a Feature",
       "https://idiallo.com/blog/sql-injection-as-a-feature"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 11:42:04",
+      "https://news.ycombinator.com/item?id=44634047"
+    ],
+    [
+      "Herringbone Tiles",
+      "https://nothings.org/gamedev/herringbone/herringbone_tiles.html"
     ]
   ],
   [
