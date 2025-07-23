@@ -65,6 +65,7 @@
 * [2025-07-21, 12:20:36](https://news.ycombinator.com/item?id=44634293) - [Ryanair may increase commission to staff identifying oversized cabin bags](https://www.rte.ie/news/ireland/2025/0721/1524508-ryanair-baggage/)
 * [2025-07-21, 12:16:42](https://news.ycombinator.com/item?id=44634266) - [What Happens When Housing Prices Go Down?](https://clmarohn.substack.com/p/what-happens-when-housing-prices)
 * [2025-07-21, 12:00:06](https://news.ycombinator.com/item?id=44634166) - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
+* [2025-07-21, 11:42:04](https://news.ycombinator.com/item?id=44634047) - [Herringbone Tiles](https://nothings.org/gamedev/herringbone/herringbone_tiles.html)
 * [2025-07-21, 11:26:04](https://news.ycombinator.com/item?id=44633933) - [We made Postgres writes faster, but it broke replication](https://www.paradedb.com/blog/lsm_trees_in_postgres)
 * [2025-07-21, 11:22:31](https://news.ycombinator.com/item?id=44633902) - [France launches criminal probe of X over alleged algorithm ‘manipulation’](https://www.ft.com/content/21818d23-71d7-45a4-ae8c-e7940f5d9e00)
 * [2025-07-21, 10:23:40](https://news.ycombinator.com/item?id=44633562) - [Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
