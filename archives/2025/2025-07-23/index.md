@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 16:15:07](https://news.ycombinator.com/item?id=44660863) - [AI Friend Apps Are Destroying What's Left of Society](https://www.currentaffairs.org/news/ai-friend-apps-are-destroying-whats-left-of-society)
+* [2025-07-23, 16:04:30](https://news.ycombinator.com/item?id=44660736) - [Show HN: The missing link of a bookstore's tech stack](https://bookhead.net/)
 * [2025-07-23, 15:45:15](https://news.ycombinator.com/item?id=44660519) - [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
 * [2025-07-23, 15:37:40](https://news.ycombinator.com/item?id=44660437) - [Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
 * [2025-07-23, 15:04:27](https://news.ycombinator.com/item?id=44660041) - [Reverse Engineering the GHA Cache to Improve Performance](https://depot.dev/blog/github-actions-cache)
