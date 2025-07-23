@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-23, 09:07:31](https://news.ycombinator.com/item?id=44657133) - [How to Start Prop Firm Trading with Minimal Capital?](https://propfirmplus.com/)
 * [2025-07-23, 07:34:30](https://news.ycombinator.com/item?id=44656654) - [Depot (YC W23) Is Hiring a Technical Content Writer (Remote)](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer)
 * [2025-07-23, 06:02:40](https://news.ycombinator.com/item?id=44656105) - [Rescuing two PDP-11s from a former British Telecom underground shelter (2023)](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
 * [2025-07-23, 05:54:21](https://news.ycombinator.com/item?id=44656073) - [Extending Emacs with Fennel (2024)](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
@@ -28,6 +27,7 @@
 * [2025-07-22, 11:31:24](https://news.ycombinator.com/item?id=44645597) - [Show HN: A word of the day that doesn't suck](https://news.ycombinator.com/item?id=44645597)
 * [2025-07-21, 06:10:57](https://news.ycombinator.com/item?id=44632218) - [SubTropolis and KC's Limestone Caves](https://kcyesterday.com/articles/subtropolis)
 * [2025-07-20, 07:02:03](https://news.ycombinator.com/item?id=44622637) - [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)
+* [2025-07-19, 22:28:06](https://news.ycombinator.com/item?id=44620020) - [YouTube Won the Battle for TV Viewers](https://www.wsj.com/business/media/how-youtube-won-the-battle-for-tv-viewers-346d05b8)
 * [2025-07-19, 21:15:56](https://news.ycombinator.com/item?id=44619485) - [Managing EFI boot loaders for Linux: Controlling secure boot (2015)](https://www.rodsbooks.com/efi-bootloaders/controlling-sb.html)
 * [2025-07-19, 20:44:19](https://news.ycombinator.com/item?id=44619206) - [Don't animate height](https://www.granola.ai/blog/dont-animate-height)
 
