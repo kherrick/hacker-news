@@ -21,7 +21,7 @@
 * [2025-07-23, 13:23:49](https://news.ycombinator.com/item?id=44658978) - [Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch](https://github.com/manticoresoftware/manticoresearch)
 * [2025-07-23, 13:17:43](https://news.ycombinator.com/item?id=44658909) - [Reverse engineering GitHub Actions cache to make it fast](https://www.blacksmith.sh/blog/cache)
 * [2025-07-23, 13:17:38](https://news.ycombinator.com/item?id=44658908) - [Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom](https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/)
-* [2025-07-21, 20:09:31](https://news.ycombinator.com/item?id=44639880) - [Robot scans rare library books at 2.5k pages per hour](https://www.popsci.com/technology/book-scanning-robot/)
+* [2025-07-22, 21:20:16](https://news.ycombinator.com/item?id=44653136) - [Vector Tiles are deployed on OpenStreetMap.org](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/)
 * [2025-07-21, 05:28:15](https://news.ycombinator.com/item?id=44632045) - [SIMD Perlin Noise: Beating the Compiler with SSE (2014)](https://scallywag.software/vim/blog/simd-perlin-noise-i)
 * [2025-07-21, 00:49:29](https://news.ycombinator.com/item?id=44630801) - [The First Photograph Ever Taken (1826)](https://www.openculture.com/2025/07/the-first-photograph-ever-taken.html)
 * [2025-07-20, 15:51:15](https://news.ycombinator.com/item?id=44626359) - [Checklists are hard, but still a good thing](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood)
