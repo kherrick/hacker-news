@@ -1,32 +1,32 @@
 [
   [
     [
+      "2025-07-24, 14:57:05",
+      "https://news.ycombinator.com/item?id=44671484"
+    ],
+    [
+      "Use Your Type System",
+      "https://www.dzombak.com/blog/2025/07/use-your-type-system/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 14:55:53",
+      "https://news.ycombinator.com/item?id=44671472"
+    ],
+    [
+      "A list of changes to make it easier to build beautiful and walkable places",
+      "https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 14:48:04",
       "https://news.ycombinator.com/item?id=44671373"
     ],
     [
       "PSA: SQLite WAL checksums fail silently and may lose data",
       "https://avi.im/blag/2025/sqlite-wal-checksum/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 14:40:23",
-      "https://news.ycombinator.com/item?id=44671284"
-    ],
-    [
-      "We Need a European Sovereign Tech Fund",
-      "https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 14:13:50",
-      "https://news.ycombinator.com/item?id=44670947"
-    ],
-    [
-      "Yet another bad three months as Tesla reports its Q2 2025 results",
-      "https://arstechnica.com/cars/2025/07/tesla-q2-2025-sell-fewer-cars-and-carbon-credits-make-less-money/"
     ]
   ],
   [
@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2025-07-24, 13:42:03",
-      "https://news.ycombinator.com/item?id=44670590"
+      "2025-07-24, 13:16:29",
+      "https://news.ycombinator.com/item?id=44670319"
     ],
     [
-      "You can't outrun a bad diet",
-      "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition"
+      "A valid HTML zip bomb",
+      "https://ache.one/notes/html_zip_bomb"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44669858"
     ],
     [
-      "Wix: Introduce the Open Source Maintenance Fee",
+      "WiX Toolset: Introduce the Open Source Maintenance Fee",
       "https://github.com/wixtoolset/issues/issues/8974"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "XOR_singleheader: Header-only binary fuse and XOR filter library",
       "https://github.com/FastFilter/xor_singleheader"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 06:07:17",
-      "https://news.ycombinator.com/item?id=44667472"
-    ],
-    [
-      "Shattering the rotation illusion: The attacker view and AWSKeyLockdown (2024)",
-      "https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-07-23, 15:37:40",
+      "https://news.ycombinator.com/item?id=44660437"
+    ],
+    [
+      "Neil Armstrong's customs form for moon rocks (2016)",
+      "https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 15:28:58",
       "https://news.ycombinator.com/item?id=44660323"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-07-21, 08:19:29",
-      "https://news.ycombinator.com/item?id=44632890"
+      "2025-07-21, 12:04:49",
+      "https://news.ycombinator.com/item?id=44634208"
     ],
     [
-      "Colodebug: A simple way to improve bash script debugging (2021)",
-      "https://johannes.truschnigg.info/writing/2021-12_colodebug/"
+      "Lslvr/mwm: The smallest (usable) X11 window manager",
+      "https://github.com/lslvr/mwm"
     ]
   ],
   [
