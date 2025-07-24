@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-24, 17:36:55",
+      "https://news.ycombinator.com/item?id=44673613"
+    ],
+    [
+      "Show HN: Local Email Client for AI Horseless Carriages",
+      "https://github.com/dbish/DispatchMail"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 17:28:54",
       "https://news.ycombinator.com/item?id=44673499"
     ],
@@ -37,6 +47,16 @@
     [
       "Two narratives about AI",
       "https://calnewport.com/no-one-knows-anything-about-ai/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 15:46:46",
+      "https://news.ycombinator.com/item?id=44672145"
+    ],
+    [
+      "When swiping supplants scissors: The hidden cost of touchscreens",
+      "https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7"
     ]
   ],
   [
@@ -145,8 +165,18 @@
       "https://news.ycombinator.com/item?id=44669998"
     ],
     [
-      "Vet is a safety net for the risky curl | bash pattern",
+      "Vet is a safety net for the curl | bash pattern",
       "https://github.com/vet-run/vet"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 12:29:35",
+      "https://news.ycombinator.com/item?id=44669858"
+    ],
+    [
+      "Open Source Maintenance Fee",
+      "https://github.com/wixtoolset/issues/issues/8974"
     ]
   ],
   [
@@ -177,16 +207,6 @@
     [
       "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
       "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 02:13:20",
-      "https://news.ycombinator.com/item?id=44666157"
-    ],
-    [
-      "Electric cars produce less brake dust pollution than combustion-engine cars",
-      "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "CARA – High precision robot dog using rope",
       "https://www.aaedmusa.com/projects/cara"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 17:24:32",
-      "https://news.ycombinator.com/item?id=44661682"
-    ],
-    [
-      "The Promised LAN",
-      "https://tpl.house/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Writing is thinking",
       "https://www.nature.com/articles/s44222-025-00323-4"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 22:09:27",
-      "https://news.ycombinator.com/item?id=44629805"
-    ],
-    [
-      "Distillation makes AI models smaller and cheaper",
-      "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/"
     ]
   ]
 ]
