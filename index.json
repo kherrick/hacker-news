@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-07-24, 20:59:25",
-      "https://news.ycombinator.com/item?id=44676066"
-    ],
-    [
-      "Building MCP servers for ChatGPT and API integrations",
-      "https://platform.openai.com/docs/mcp"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 20:52:41",
       "https://news.ycombinator.com/item?id=44675965"
     ],
@@ -121,12 +111,12 @@
   ],
   [
     [
-      "2025-07-24, 16:42:25",
-      "https://news.ycombinator.com/item?id=44672859"
+      "2025-07-24, 15:35:39",
+      "https://news.ycombinator.com/item?id=44672003"
     ],
     [
-      "Major quantum computing advance made obsolete by teenager (2018)",
-      "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
+      "There is no memory safety without thread safety",
+      "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "I wasted weeks hand optimizing assembly because I benchmarked on random data",
       "https://www.vidarholen.net/contents/blog/?p=1160"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 06:30:21",
+      "https://news.ycombinator.com/item?id=44632314"
+    ],
+    [
+      "Writing is thinking",
+      "https://www.nature.com/articles/s44222-025-00323-4"
     ]
   ],
   [
