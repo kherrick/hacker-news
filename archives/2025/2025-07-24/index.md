@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 20:59:25](https://news.ycombinator.com/item?id=44676066) - [ChatGPT Launches MCP Support](https://platform.openai.com/docs/mcp)
 * [2025-07-24, 20:52:41](https://news.ycombinator.com/item?id=44675965) - [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
 * [2025-07-24, 20:29:58](https://news.ycombinator.com/item?id=44675708) - [Psilocybin delays aging, extends lifespan, new Emory study suggests](https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html)
 * [2025-07-24, 20:29:23](https://news.ycombinator.com/item?id=44675697) - [Games: No sex, please. we're credit card companies](https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/)
