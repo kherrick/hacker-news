@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 12:47:29](https://news.ycombinator.com/item?id=44669998) - [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
+* [2025-07-24, 12:29:35](https://news.ycombinator.com/item?id=44669858) - [Wix: Introduce the Open Source Maintenance Fee](https://github.com/wixtoolset/issues/issues/8974)
+* [2025-07-24, 12:28:31](https://news.ycombinator.com/item?id=44669853) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 * [2025-07-24, 12:00:13](https://news.ycombinator.com/item?id=44669631) - [Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer)
+* [2025-07-24, 11:20:25](https://news.ycombinator.com/item?id=44669393) - [System View for Inspecting DSM Registry Allocations in PostgreSQL](https://tselai.com/pg-dsm-registry-allocations)
 * [2025-07-24, 11:16:48](https://news.ycombinator.com/item?id=44669368) - [What does connecting with someone mean?](https://talk.bradwoods.io/blog/connect/)
 * [2025-07-24, 11:16:19](https://news.ycombinator.com/item?id=44669365) - [Detekt – A static code analyzer for Kotlin](https://detekt.dev/)
+* [2025-07-24, 11:09:26](https://news.ycombinator.com/item?id=44669318) - [XOR_singleheader: Header-only binary fuse and XOR filter library](https://github.com/FastFilter/xor_singleheader)
 * [2025-07-24, 10:39:52](https://news.ycombinator.com/item?id=44669131) - [VectorDB bench now support S3Vector](https://github.com/zilliztech/VectorDBBench/pull/570)
 * [2025-07-24, 06:40:48](https://news.ycombinator.com/item?id=44667667) - [Itch.io: Update on NSFW Content](https://itch.io/updates/update-on-nsfw-content)
 * [2025-07-24, 06:07:17](https://news.ycombinator.com/item?id=44667472) - [Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)

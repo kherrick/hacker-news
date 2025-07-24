@@ -52,6 +52,7 @@
 * [2025-07-21, 15:54:03](https://news.ycombinator.com/item?id=44636691) - [SecretSpec: Declarative Secrets Management](https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/)
 * [2025-07-21, 15:31:21](https://news.ycombinator.com/item?id=44636369) - [Australian anti-porn group claims responsibility for Steams new censorship rules](https://www.pcgamer.com/gaming-industry/australian-anti-porn-group-claims-responsibility-for-steams-new-censorship-rules-in-victory-against-porn-sick-brain-rotted-pedo-gamer-fetishists-and-things-only-get-weirder-from-there/)
 * [2025-07-21, 15:23:25](https://news.ycombinator.com/item?id=44636277) - [Hegel Dust](https://www.bookforum.com/print/3201/hegel-dust-62209)
+* [2025-07-21, 15:20:49](https://news.ycombinator.com/item?id=44636240) - [Covers as a way of learning music and code](https://ntietz.com/blog/covers-as-a-way-of-learning/)
 * [2025-07-21, 15:18:41](https://news.ycombinator.com/item?id=44636204) - [New records on Wendelstein 7-X](https://www.iter.org/node/20687/new-records-wendelstein-7-x)
 * [2025-07-21, 14:58:07](https://news.ycombinator.com/item?id=44635919) - [Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field](https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight)
 * [2025-07-21, 14:54:41](https://news.ycombinator.com/item?id=44635867) - [Occasionally USPS sends me pictures of other people's mail](https://the418.substack.com/p/a-bug-in-the-mail)
