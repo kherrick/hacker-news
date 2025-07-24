@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 20:28:58](https://news.ycombinator.com/item?id=44675691) - [American Sentenced to 8½ Years for Helping North Koreans Get Jobs at U.S. Firms](https://www.wsj.com/us-news/law/american-sentenced-to-8-years-in-prison-for-helping-north-koreans-get-jobs-at-nike-other-u-s-firms-d7de8be7)
 * [2025-07-24, 20:20:17](https://news.ycombinator.com/item?id=44675557) - [Hacker slips malicious 'wiping' command into Amazon's Q AI coding assistant](https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/)
 * [2025-07-24, 20:19:57](https://news.ycombinator.com/item?id=44675553) - [Inter-Planetary Network Special Interest Group](https://www.ipnsig.org)
 * [2025-07-24, 19:41:09](https://news.ycombinator.com/item?id=44675119) - [You might not need a Python class](https://adamgrant.micro.blog/2025/07/24/123050.html)

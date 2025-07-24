@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-24, 20:28:58](https://news.ycombinator.com/item?id=44675691) - [American Sentenced to 8½ Years for Helping North Koreans Get Jobs at U.S. Firms](https://www.wsj.com/us-news/law/american-sentenced-to-8-years-in-prison-for-helping-north-koreans-get-jobs-at-nike-other-u-s-firms-d7de8be7)
 * [2025-07-24, 20:20:17](https://news.ycombinator.com/item?id=44675557) - [Hacker slips malicious 'wiping' command into Amazon's Q AI coding assistant](https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/)
 * [2025-07-24, 20:19:57](https://news.ycombinator.com/item?id=44675553) - [Inter-Planetary Network Special Interest Group](https://www.ipnsig.org)
 * [2025-07-24, 19:41:09](https://news.ycombinator.com/item?id=44675119) - [You might not need a Python class](https://adamgrant.micro.blog/2025/07/24/123050.html)
@@ -8,7 +9,6 @@
 * [2025-07-24, 17:28:54](https://news.ycombinator.com/item?id=44673499) - [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
 * [2025-07-24, 16:42:25](https://news.ycombinator.com/item?id=44672859) - [Major Quantum Computing Advance Made Obsolete by Teenager (2018)](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
 * [2025-07-24, 15:46:46](https://news.ycombinator.com/item?id=44672145) - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
-* [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 15:05:12](https://news.ycombinator.com/item?id=44671601) - [Show HN: Nia – MCP server that gives more docs and repos to coding agents](https://www.trynia.ai/)
 * [2025-07-24, 15:03:56](https://news.ycombinator.com/item?id=44671584) - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
 * [2025-07-24, 14:57:05](https://news.ycombinator.com/item?id=44671484) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
