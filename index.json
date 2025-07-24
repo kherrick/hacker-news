@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-24, 15:35:39",
+      "https://news.ycombinator.com/item?id=44672003"
+    ],
+    [
+      "There is no memory safety without thread safety",
+      "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 15:20:59",
+      "https://news.ycombinator.com/item?id=44671804"
+    ],
+    [
+      "Everything Else",
+      "https://newleftreview.org/sidecar/posts/everything-else"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 15:03:56",
+      "https://news.ycombinator.com/item?id=44671584"
+    ],
+    [
+      "The FastLanes File Format [pdf]",
+      "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 14:57:05",
       "https://news.ycombinator.com/item?id=44671484"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-07-23, 15:37:40",
-      "https://news.ycombinator.com/item?id=44660437"
-    ],
-    [
-      "Neil Armstrong's customs form for moon rocks (2016)",
-      "https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 15:28:58",
       "https://news.ycombinator.com/item?id=44660323"
     ],
@@ -217,16 +237,6 @@
     [
       "Building better AI tools",
       "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 21:20:16",
-      "https://news.ycombinator.com/item?id=44653136"
-    ],
-    [
-      "Vector Tiles are deployed on OpenStreetMap.org",
-      "https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Solving a Childhood Mystery: How BASIC Games Learned to Win",
       "https://sublevelgames.github.io/blogs/2025-07-20-basic-game-hexapawn/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 10:09:48",
-      "https://news.ycombinator.com/item?id=44591605"
-    ],
-    [
-      "Parsing Protobuf like never before",
-      "https://mcyoung.xyz/2025/07/16/hyperpb/"
     ]
   ]
 ]
