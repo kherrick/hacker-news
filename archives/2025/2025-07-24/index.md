@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
+* [2025-07-24, 15:20:59](https://news.ycombinator.com/item?id=44671804) - [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
+* [2025-07-24, 15:03:56](https://news.ycombinator.com/item?id=44671584) - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
 * [2025-07-24, 14:57:05](https://news.ycombinator.com/item?id=44671484) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
 * [2025-07-24, 14:55:53](https://news.ycombinator.com/item?id=44671472) - [A list of changes to make it easier to build beautiful and walkable places](https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places)
 * [2025-07-24, 14:48:04](https://news.ycombinator.com/item?id=44671373) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)

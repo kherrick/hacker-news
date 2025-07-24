@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
+* [2025-07-24, 15:20:59](https://news.ycombinator.com/item?id=44671804) - [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
+* [2025-07-24, 15:03:56](https://news.ycombinator.com/item?id=44671584) - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
 * [2025-07-24, 14:57:05](https://news.ycombinator.com/item?id=44671484) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
 * [2025-07-24, 14:55:53](https://news.ycombinator.com/item?id=44671472) - [A list of changes to make it easier to build beautiful and walkable places](https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places)
 * [2025-07-24, 14:48:04](https://news.ycombinator.com/item?id=44671373) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
@@ -19,17 +22,14 @@
 * [2025-07-23, 19:50:12](https://news.ycombinator.com/item?id=44663227) - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
 * [2025-07-23, 17:38:20](https://news.ycombinator.com/item?id=44661846) - [CARA – High precision robot dog using rope](https://www.aaedmusa.com/projects/cara)
 * [2025-07-23, 17:24:32](https://news.ycombinator.com/item?id=44661682) - [The Promised LAN](https://tpl.house/)
-* [2025-07-23, 15:37:40](https://news.ycombinator.com/item?id=44660437) - [Neil Armstrong's customs form for moon rocks (2016)](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
 * [2025-07-23, 15:28:58](https://news.ycombinator.com/item?id=44660323) - [US AI Action Plan](https://www.ai.gov/action-plan)
 * [2025-07-23, 14:56:31](https://news.ycombinator.com/item?id=44659921) - [Building better AI tools](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
-* [2025-07-22, 21:20:16](https://news.ycombinator.com/item?id=44653136) - [Vector Tiles are deployed on OpenStreetMap.org](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/)
 * [2025-07-21, 15:20:49](https://news.ycombinator.com/item?id=44636240) - [Covers as a way of learning music and code](https://ntietz.com/blog/covers-as-a-way-of-learning/)
 * [2025-07-21, 12:04:49](https://news.ycombinator.com/item?id=44634208) - [Lslvr/mwm: The smallest (usable) X11 window manager](https://github.com/lslvr/mwm)
 * [2025-07-21, 06:30:21](https://news.ycombinator.com/item?id=44632314) - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4)
 * [2025-07-20, 22:09:27](https://news.ycombinator.com/item?id=44629805) - [Distillation makes AI models smaller and cheaper](https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/)
 * [2025-07-20, 21:05:19](https://news.ycombinator.com/item?id=44629300) - [Vanishing home field advantage in English football](https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html)
 * [2025-07-20, 15:03:56](https://news.ycombinator.com/item?id=44625846) - [Solving a Childhood Mystery: How BASIC Games Learned to Win](https://sublevelgames.github.io/blogs/2025-07-20-basic-game-hexapawn/)
-* [2025-07-17, 10:09:48](https://news.ycombinator.com/item?id=44591605) - [Parsing Protobuf like never before](https://mcyoung.xyz/2025/07/16/hyperpb/)
 
 ## [Archives](archives/index.md)
 
