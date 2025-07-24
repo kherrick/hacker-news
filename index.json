@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-24, 20:52:41",
-      "https://news.ycombinator.com/item?id=44675965"
+      "2025-07-24, 20:59:25",
+      "https://news.ycombinator.com/item?id=44676066"
     ],
     [
-      "Intel CEO Letter to Employees",
-      "https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees"
+      "ChatGPT Launches MCP Support",
+      "https://platform.openai.com/docs/mcp"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44675708"
     ],
     [
-      "Psilocybin delays aging, extends lifespan, new Emory study suggests",
+      "Psilocybin treatment extends cellular lifespan, improves survival of aged mice",
       "https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44675691"
     ],
     [
-      "American Sentenced to 8½ Years for Helping North Koreans Get Jobs at U.S. Firms",
+      "American sentenced for helping North Koreans get jobs at U.S. firms",
       "https://www.wsj.com/us-news/law/american-sentenced-to-8-years-in-prison-for-helping-north-koreans-get-jobs-at-nike-other-u-s-firms-d7de8be7"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Starlink is currently experiencing a service outage",
       "https://www.starlink.com/us"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 19:13:14",
-      "https://news.ycombinator.com/item?id=44674830"
-    ],
-    [
-      "Train a 70b language model at home (2024)",
-      "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
     ]
   ],
   [
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2025-07-24, 15:03:56",
+      "https://news.ycombinator.com/item?id=44671584"
+    ],
+    [
+      "The FastLanes File Format [pdf]",
+      "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 14:57:05",
       "https://news.ycombinator.com/item?id=44671484"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=44671375"
     ],
     [
-      "Transformers Without Normalization",
+      "Transformers without normalization",
       "https://arxiv.org/abs/2503.10622"
     ]
   ],
