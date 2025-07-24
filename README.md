@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-24, 16:08:09](https://news.ycombinator.com/item?id=44672414) - [No One Knows Anything About AI](https://calnewport.com/no-one-knows-anything-about-ai/)
+* [2025-07-24, 16:01:00](https://news.ycombinator.com/item?id=44672329) - [Hulk Hogan Has Died](https://www.tmz.com/2025/07/24/hulk-hogan-dead/)
+* [2025-07-24, 15:46:46](https://news.ycombinator.com/item?id=44672145) - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
 * [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 15:20:59](https://news.ycombinator.com/item?id=44671804) - [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
 * [2025-07-24, 15:03:56](https://news.ycombinator.com/item?id=44671584) - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
@@ -18,18 +21,15 @@
 * [2025-07-24, 04:20:52](https://news.ycombinator.com/item?id=44666896) - [Apache HTTP Server: 'RewriteCond expr' always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
 * [2025-07-24, 02:13:20](https://news.ycombinator.com/item?id=44666157) - [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
 * [2025-07-24, 01:12:14](https://news.ycombinator.com/item?id=44665815) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
-* [2025-07-23, 22:53:27](https://news.ycombinator.com/item?id=44664873) - [Show HN: Tinder but it's only pictures of my wife and I can only swipe right](https://trytender.app/)
-* [2025-07-23, 20:31:16](https://news.ycombinator.com/item?id=44663684) - [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
 * [2025-07-23, 19:50:12](https://news.ycombinator.com/item?id=44663227) - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
 * [2025-07-23, 17:38:20](https://news.ycombinator.com/item?id=44661846) - [CARA – High precision robot dog using rope](https://www.aaedmusa.com/projects/cara)
 * [2025-07-23, 17:24:32](https://news.ycombinator.com/item?id=44661682) - [The Promised LAN](https://tpl.house/)
-* [2025-07-23, 15:28:58](https://news.ycombinator.com/item?id=44660323) - [US AI Action Plan](https://www.ai.gov/action-plan)
 * [2025-07-21, 15:20:49](https://news.ycombinator.com/item?id=44636240) - [Covers as a way of learning music and code](https://ntietz.com/blog/covers-as-a-way-of-learning/)
 * [2025-07-21, 12:04:49](https://news.ycombinator.com/item?id=44634208) - [Lslvr/mwm: The smallest (usable) X11 window manager](https://github.com/lslvr/mwm)
+* [2025-07-21, 11:06:48](https://news.ycombinator.com/item?id=44633809) - [Global earthquake detection and warning using Android phones](https://doi.org/10.1126/science.ads4779)
 * [2025-07-21, 06:30:21](https://news.ycombinator.com/item?id=44632314) - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4)
 * [2025-07-20, 22:09:27](https://news.ycombinator.com/item?id=44629805) - [Distillation makes AI models smaller and cheaper](https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/)
 * [2025-07-20, 21:05:19](https://news.ycombinator.com/item?id=44629300) - [Vanishing home field advantage in English football](https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html)
-* [2025-07-20, 15:03:56](https://news.ycombinator.com/item?id=44625846) - [Solving a Childhood Mystery: How BASIC Games Learned to Win](https://sublevelgames.github.io/blogs/2025-07-20-basic-game-hexapawn/)
 
 ## [Archives](archives/index.md)
 

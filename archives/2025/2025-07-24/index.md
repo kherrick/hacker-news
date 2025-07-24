@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 16:08:09](https://news.ycombinator.com/item?id=44672414) - [No One Knows Anything About AI](https://calnewport.com/no-one-knows-anything-about-ai/)
+* [2025-07-24, 16:01:00](https://news.ycombinator.com/item?id=44672329) - [Hulk Hogan Has Died](https://www.tmz.com/2025/07/24/hulk-hogan-dead/)
+* [2025-07-24, 15:46:46](https://news.ycombinator.com/item?id=44672145) - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
 * [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 15:20:59](https://news.ycombinator.com/item?id=44671804) - [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
 * [2025-07-24, 15:03:56](https://news.ycombinator.com/item?id=44671584) - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
