@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-24, 19:41:09",
+      "https://news.ycombinator.com/item?id=44675119"
+    ],
+    [
+      "You might not need a Python class",
+      "https://adamgrant.micro.blog/2025/07/24/123050.html"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 19:26:12",
       "https://news.ycombinator.com/item?id=44674960"
     ],
     [
       "Starlink is currently experiencing a service outage. Our team is investigating",
       "https://www.starlink.com/us"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 19:13:14",
+      "https://news.ycombinator.com/item?id=44674830"
+    ],
+    [
+      "You can now train a 70B language model at home",
+      "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
     ]
   ],
   [
@@ -37,26 +57,6 @@
     [
       "Major Quantum Computing Advance Made Obsolete by Teenager (2018)",
       "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 16:11:25",
-      "https://news.ycombinator.com/item?id=44672450"
-    ],
-    [
-      "OpenAI prepares to launch GPT-5 in August",
-      "https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 16:08:09",
-      "https://news.ycombinator.com/item?id=44672414"
-    ],
-    [
-      "Two narratives about AI",
-      "https://calnewport.com/no-one-knows-anything-about-ai/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "PSA: SQLite WAL checksums fail silently and may lose data",
       "https://avi.im/blag/2025/sqlite-wal-checksum/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 13:42:03",
-      "https://news.ycombinator.com/item?id=44670590"
-    ],
-    [
-      "Diet, not lack of exercise, drives obesity, a new study finds",
-      "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "CARA – High precision robot dog using rope",
       "https://www.aaedmusa.com/projects/cara"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 21:12:30",
+      "https://news.ycombinator.com/item?id=44640471"
+    ],
+    [
+      "Working on a Programming Language in the Age of LLMs",
+      "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/"
     ]
   ],
   [
