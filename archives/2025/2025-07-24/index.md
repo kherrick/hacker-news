@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 17:28:54](https://news.ycombinator.com/item?id=44673499) - [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
 * [2025-07-24, 17:04:40](https://news.ycombinator.com/item?id=44673148) - [The great AI delusion is falling apart](https://www.mikemcbrideonline.com/2025/07/worth-reading-the-great-ai-delusion-is-falling-apart/)
 * [2025-07-24, 16:42:25](https://news.ycombinator.com/item?id=44672859) - [Major Quantum Computing Advance Made Obsolete by Teenager](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
 * [2025-07-24, 16:11:25](https://news.ycombinator.com/item?id=44672450) - [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad)
