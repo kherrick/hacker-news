@@ -2,6 +2,8 @@
 
 * [2025-07-24, 22:14:20](https://news.ycombinator.com/item?id=44676961) - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
 * [2025-07-24, 21:59:19](https://news.ycombinator.com/item?id=44676817) - [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
+* [2025-07-24, 21:50:43](https://news.ycombinator.com/item?id=44676714) - [The Secret Life of Fsync (2023)](https://puzpuzpuz.dev/the-secret-life-of-fsync)
+* [2025-07-24, 21:48:53](https://news.ycombinator.com/item?id=44676691) - [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
 * [2025-07-24, 21:39:08](https://news.ycombinator.com/item?id=44676559) - [Visa and Mastercard: The global payment duopoly (2024)](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
 * [2025-07-24, 21:22:15](https://news.ycombinator.com/item?id=44676348) - [Revisiting Moneyball](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
 * [2025-07-24, 21:20:01](https://news.ycombinator.com/item?id=44676315) - [New Aarch64 Back End](https://ziglang.org/devlog/2025/#2025-07-23)
@@ -11,7 +13,6 @@
 * [2025-07-24, 20:19:57](https://news.ycombinator.com/item?id=44675553) - [Inter-Planetary Network Special Interest Group](https://www.ipnsig.org)
 * [2025-07-24, 18:16:03](https://news.ycombinator.com/item?id=44674123) - [Air Force unit suspends use of Sig Sauer pistol after shooting death of airman](https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death)
 * [2025-07-24, 16:42:25](https://news.ycombinator.com/item?id=44672859) - [Major quantum computing advance made obsolete by teenager (2018)](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
-* [2025-07-24, 15:46:46](https://news.ycombinator.com/item?id=44672145) - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
 * [2025-07-24, 14:57:05](https://news.ycombinator.com/item?id=44671484) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
 * [2025-07-24, 14:48:04](https://news.ycombinator.com/item?id=44671373) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
 * [2025-07-24, 13:17:24](https://news.ycombinator.com/item?id=44670326) - [UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage](https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html)
@@ -28,7 +29,6 @@
 * [2025-07-21, 10:17:21](https://news.ycombinator.com/item?id=44633522) - [Show HN: Easy Python Time Parsing](https://github.com/felixnext/python-time-helper)
 * [2025-07-21, 08:01:27](https://news.ycombinator.com/item?id=44632783) - [The POSIX specification of vi](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html)
 * [2025-07-21, 07:40:01](https://news.ycombinator.com/item?id=44632674) - [I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
-* [2025-07-21, 06:30:21](https://news.ycombinator.com/item?id=44632314) - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4)
 * [2025-07-20, 14:24:02](https://news.ycombinator.com/item?id=44625493) - [Bus Bunching](https://www.futilitycloset.com/2025/07/12/bus-bunching/)
 
 ## [Archives](archives/index.md)
