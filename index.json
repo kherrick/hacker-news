@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-07-24, 21:39:08",
+      "https://news.ycombinator.com/item?id=44676559"
+    ],
+    [
+      "Visa and Mastercard: The Global Payment Duopoly",
+      "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 21:22:15",
+      "https://news.ycombinator.com/item?id=44676348"
+    ],
+    [
+      "Revisiting Moneyball. Data, sports, payrolls, and memes",
+      "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 20:59:25",
       "https://news.ycombinator.com/item?id=44676066"
     ],
     [
-      "ChatGPT Launches MCP Support",
+      "Building MCP servers for ChatGPT and API integrations",
       "https://platform.openai.com/docs/mcp"
     ]
   ],
@@ -21,22 +41,12 @@
   ],
   [
     [
-      "2025-07-24, 20:29:23",
-      "https://news.ycombinator.com/item?id=44675697"
-    ],
-    [
-      "Games: No sex, please. we're credit card companies",
-      "https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 20:28:58",
       "https://news.ycombinator.com/item?id=44675691"
     ],
     [
       "American sentenced for helping North Koreans get jobs at U.S. firms",
-      "https://www.wsj.com/us-news/law/american-sentenced-to-8-years-in-prison-for-helping-north-koreans-get-jobs-at-nike-other-u-s-firms-d7de8be7"
+      "https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike/"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44672859"
     ],
     [
-      "Major Quantum Computing Advance Made Obsolete by Teenager (2018)",
+      "Major quantum computing advance made obsolete by teenager (2018)",
       "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
     ]
   ],
@@ -111,32 +121,12 @@
   ],
   [
     [
-      "2025-07-24, 15:03:56",
-      "https://news.ycombinator.com/item?id=44671584"
-    ],
-    [
-      "The FastLanes File Format [pdf]",
-      "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 14:57:05",
       "https://news.ycombinator.com/item?id=44671484"
     ],
     [
       "Use Your Type System",
       "https://www.dzombak.com/blog/2025/07/use-your-type-system/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 14:55:53",
-      "https://news.ycombinator.com/item?id=44671472"
-    ],
-    [
-      "A list of changes to make it easier to build beautiful and walkable places",
-      "https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
       "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 21:12:30",
+      "https://news.ycombinator.com/item?id=44640471"
+    ],
+    [
+      "Working on a Programming Language in the Age of LLMs",
+      "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/"
     ]
   ],
   [
