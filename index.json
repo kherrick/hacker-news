@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-07-24, 12:47:29",
+      "https://news.ycombinator.com/item?id=44669998"
+    ],
+    [
+      "Vet is a safety net for the risky curl | bash pattern",
+      "https://github.com/vet-run/vet"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 12:29:35",
+      "https://news.ycombinator.com/item?id=44669858"
+    ],
+    [
+      "Wix: Introduce the Open Source Maintenance Fee",
+      "https://github.com/wixtoolset/issues/issues/8974"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 12:28:31",
+      "https://news.ycombinator.com/item?id=44669853"
+    ],
+    [
+      "Web fingerprinting is worse than I thought",
+      "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 12:00:13",
       "https://news.ycombinator.com/item?id=44669631"
     ],
     [
       "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
       "https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 11:20:25",
+      "https://news.ycombinator.com/item?id=44669393"
+    ],
+    [
+      "System View for Inspecting DSM Registry Allocations in PostgreSQL",
+      "https://tselai.com/pg-dsm-registry-allocations"
     ]
   ],
   [
@@ -27,6 +67,16 @@
     [
       "Detekt – A static code analyzer for Kotlin",
       "https://detekt.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 11:09:26",
+      "https://news.ycombinator.com/item?id=44669318"
+    ],
+    [
+      "XOR_singleheader: Header-only binary fuse and XOR filter library",
+      "https://github.com/FastFilter/xor_singleheader"
     ]
   ],
   [
@@ -161,26 +211,6 @@
   ],
   [
     [
-      "2025-07-23, 13:52:47",
-      "https://news.ycombinator.com/item?id=44659251"
-    ],
-    [
-      "Why Elixir? Common misconceptions",
-      "https://matthewsinclair.com/blog/0181-why-elixir"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 13:27:38",
-      "https://news.ycombinator.com/item?id=44659019"
-    ],
-    [
-      "What to expect from Debian/Trixie",
-      "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 10:22:42",
       "https://news.ycombinator.com/item?id=44657556"
     ],
@@ -201,6 +231,16 @@
   ],
   [
     [
+      "2025-07-21, 15:20:49",
+      "https://news.ycombinator.com/item?id=44636240"
+    ],
+    [
+      "Covers as a way of learning music and code",
+      "https://ntietz.com/blog/covers-as-a-way-of-learning/"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 13:18:47",
       "https://news.ycombinator.com/item?id=44634756"
     ],
@@ -217,16 +257,6 @@
     [
       "Writing Is Thinking",
       "https://www.nature.com/articles/s44222-025-00323-4"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 22:37:44",
-      "https://news.ycombinator.com/item?id=44630028"
-    ],
-    [
-      "Thawing vacuum-packed fish correctly (2024)",
-      "https://www.canr.msu.edu/news/open_your_vacuum_packed_fish_before_thawing"
     ]
   ],
   [
@@ -257,36 +287,6 @@
     [
       "Solving a Childhood Mystery: How BASIC Games Learned to Win",
       "https://sublevelgames.github.io/blogs/2025-07-20-basic-game-hexapawn/"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 14:24:02",
-      "https://news.ycombinator.com/item?id=44625493"
-    ],
-    [
-      "Bus Bunching",
-      "https://www.futilitycloset.com/2025/07/12/bus-bunching/"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 08:16:26",
-      "https://news.ycombinator.com/item?id=44622994"
-    ],
-    [
-      "Seven Sisters eclipse will temporarily block stars from view",
-      "https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 03:23:41",
-      "https://news.ycombinator.com/item?id=44612313"
-    ],
-    [
-      "The Big OOPs: Anatomy of a Thirty-Five Year Mistake",
-      "https://www.computerenhance.com/p/the-big-oops-anatomy-of-a-thirty"
     ]
   ],
   [
