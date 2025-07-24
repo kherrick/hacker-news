@@ -129,23 +129,65 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44673148">
+          <h3>
+            <a
+              class="item"
+              href="https://www.mikemcbrideonline.com/2025/07/worth-reading-the-great-ai-delusion-is-falling-apart/"
+              >The great AI delusion is falling apart</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-24 @ 17:04:40</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44673148"
+                  >Comments</a
+                ><span class="descendants">: 68</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44672859">
+          <h3>
+            <a
+              class="item"
+              href="https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
+              >Major Quantum Computing Advance Made Obsolete by Teenager</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-24 @ 16:42:25</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44672859"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44672414">
           <h3>
             <a
               class="item"
               href="https://calnewport.com/no-one-knows-anything-about-ai/"
-              >No One Knows Anything About AI</a
+              >No one knows anything about AI</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-07-24 @ 16:08:09</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44672414"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -163,11 +205,11 @@
             <h4>
               <span>2025-07-24 @ 15:46:46</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44672145"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -184,11 +226,11 @@
             <h4>
               <span>2025-07-24 @ 15:35:39</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44672003"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -205,13 +247,104 @@
             <h4>
               <span>2025-07-24 @ 15:20:59</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44671804"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44671601">
+          <h3>
+            <a class="item" href="https://www.trynia.ai/"
+              >Show HN: Nia – MCP server that gives more context to coding
+              agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-24 @ 15:05:12</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44671601"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.trynia.ai">https://www.trynia.ai</a>), an
+              open MCP that integrates with coding agents like Cursor, Continue,
+              and Cline so they can retrieve external knowledge better than
+              current approaches.
+              <p>
+                Coding agents generate code well but lose accuracy when the
+                answer lives outside the repo in front of them. Developers end
+                up pasting GitHub links, docs, and blog posts by hand and hoping
+                the agent scrolls far enough. Long context windows help, but
+                recent “context rot” measurements show quality still drops as
+                prompts grow. For example, in LongMemEval, all models scored
+                much higher on focused (short, relevant) prompts (~300 tokens)
+                than on full (irrelevant, 113k tokens) prompts, with performance
+                gaps persisting even in the latest models (<a
+                  href="https://research.trychroma.com/context-rot"
+                  >https://research.trychroma.com/context-rot</a
+                >).
+              </p>
+              <p>
+                Nia is a MCP that gives more context to any coding agent or IDE.
+                It Indexes multiple repos and docs sites and makes this
+                available via MCP to your coding agent so it has much more
+                context to work with, giving you more specific and accurate
+                answers.
+              </p>
+              <p>
+                Nia uses a hybrid code search architecture that combines
+                graph-based structural reasoning with vector-based
+                understanding. When a repo or documentation is ingested,
+                Tree-sitter parses it into ASTs across 50+ languages and natural
+                languages, and the code is chunked by function/class boundaries
+                into stable, content-addressable units. These chunks are stored
+                both in a graph db to model relationships like function calls
+                and class inheritance, and in a vector store. At query time, a
+                lightweight agent with give_weight tool dynamically assigns
+                weights between graph and vector search based on intent (e.g.,
+                "who calls X" vs "how does auth work"), and both paths are
+                searched in parallel. Results are fused, enriched with full code
+                context, and passed through multi-stage rerankers: semantic
+                reranker, cross-encoders, LLM-based validators.
+              </p>
+              <p>
+                Early Signal: In internal evals we improved Cursor’s performance
+                by 27 % once Nia had indexed external docs models couldn’t get
+                from their training data or searching the web.
+              </p>
+              <p>
+                Quickstart: &lt;<a
+                  href="https://www.youtube.com/watch?v=5019k3Bi8Wo"
+                  >https://www.youtube.com/watch?v=5019k3Bi8Wo</a
+                >&gt; Demo: &lt;<a
+                  href="https://www.youtube.com/watch?v=Y-cLJ4N-GDQ"
+                  >https://www.youtube.com/watch?v=Y-cLJ4N-GDQ</a
+                >&gt;
+              </p>
+              <p>
+                To try it out: grab an API key at
+                <a href="https://app.trynia.ai/">https://app.trynia.ai/</a> and
+                follow instructions at
+                <a href="https://docs.trynia.ai/integrations/nia-mcp"
+                  >https://docs.trynia.ai/integrations/nia-mcp</a
+                >.
+              </p>
+              <p>
+                Try it and break it! I’d love to know which contexts your agent
+                still misses. Corner cases, latency issues, scaling bugs. I’m
+                here 24/7.
+              </p>
+              <p>Thanks!</p>
+            </div>
           </section>
         </section>
         <section id="44671584">
@@ -226,32 +359,11 @@
             <h4>
               <span>2025-07-24 @ 15:03:56</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44671584"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44671484">
-          <h3>
-            <a
-              class="item"
-              href="https://www.dzombak.com/blog/2025/07/use-your-type-system/"
-              >Use Your Type System</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-24 @ 14:57:05</span
-              ><span class="points-container"
-                >Points: <span class="points">76</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44671484"
-                  >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -266,7 +378,7 @@
             <h4>
               <span>2025-07-24 @ 14:48:21</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44671375"
                   >Comments</a
@@ -285,11 +397,11 @@
             <h4>
               <span>2025-07-24 @ 14:48:04</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44671373"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -307,11 +419,33 @@
             <h4>
               <span>2025-07-24 @ 13:46:14</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44670624"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44670326">
+          <h3>
+            <a
+              class="item"
+              href="https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html"
+              >UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working
+              in mass outage</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-24 @ 13:17:24</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44670326"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -326,11 +460,11 @@
             <h4>
               <span>2025-07-24 @ 13:16:29</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44670319"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -345,11 +479,11 @@
             <h4>
               <span>2025-07-24 @ 12:47:29</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44669998"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
           </section>
@@ -366,11 +500,11 @@
             <h4>
               <span>2025-07-24 @ 12:29:35</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44669858"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -387,11 +521,11 @@
             <h4>
               <span>2025-07-24 @ 12:28:31</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44669853"
                   >Comments</a
-                ><span class="descendants">: 163</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -427,7 +561,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44669365"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -467,11 +601,11 @@
             <h4>
               <span>2025-07-24 @ 04:20:52</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44666896"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -489,11 +623,11 @@
             <h4>
               <span>2025-07-24 @ 02:13:20</span
               ><span class="points-container"
-                >Points: <span class="points">450</span></span
+                >Points: <span class="points">463</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44666157"
                   >Comments</a
-                ><span class="descendants">: 623</span></span
+                ><span class="descendants">: 628</span></span
               >
             </h4>
             <div class="text">
@@ -514,33 +648,11 @@
             <h4>
               <span>2025-07-24 @ 01:12:14</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">263</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44665815"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44663684">
-          <h3>
-            <a
-              class="item"
-              href="https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one"
-              >Jitsi privacy flaw enables one-click stealth audio and video
-              capture</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-23 @ 20:31:16</span
-              ><span class="points-container"
-                >Points: <span class="points">198</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44663684"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -557,11 +669,11 @@
             <h4>
               <span>2025-07-23 @ 19:50:12</span
               ><span class="points-container"
-                >Points: <span class="points">621</span></span
+                >Points: <span class="points">630</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44663227"
                   >Comments</a
-                ><span class="descendants">: 701</span></span
+                ><span class="descendants">: 712</span></span
               >
             </h4>
           </section>
@@ -576,58 +688,16 @@
             <h4>
               <span>2025-07-23 @ 17:38:20</span
               ><span class="points-container"
-                >Points: <span class="points">931</span></span
+                >Points: <span class="points">937</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44661846"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
             <div class="text">
               <a href="https://www.youtube.com/watch?v=8s9TjRz01fo"
                 >https://www.youtube.com/watch?v=8s9TjRz01fo</a
-              >
-            </div>
-          </section>
-        </section>
-        <section id="44661682">
-          <h3>
-            <a class="item" href="https://tpl.house/">The Promised LAN</a>
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-23 @ 17:24:32</span
-              ><span class="points-container"
-                >Points: <span class="points">373</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44661682"
-                  >Comments</a
-                ><span class="descendants">: 155</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44660323">
-          <h3>
-            <a class="item" href="https://www.ai.gov/action-plan"
-              >US AI Action Plan</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-23 @ 15:28:58</span
-              ><span class="points-container"
-                >Points: <span class="points">389</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44660323"
-                  >Comments</a
-                ><span class="descendants">: 553</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf"
-                >https://www.whitehouse.gov/wp-content/uploads/2025/07/Americ...</a
               >
             </div>
           </section>
@@ -644,11 +714,11 @@
             <h4>
               <span>2025-07-21 @ 15:20:49</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44636240"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -663,11 +733,11 @@
             <h4>
               <span>2025-07-21 @ 12:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44634208"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -682,11 +752,33 @@
             <h4>
               <span>2025-07-21 @ 11:06:48</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44633809"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44632674">
+          <h3>
+            <a
+              class="item"
+              href="https://www.vidarholen.net/contents/blog/?p=1160"
+              >I wasted weeks hand optimizing assembly because I benchmarked on
+              random data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-21 @ 07:40:01</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44632674"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -703,11 +795,11 @@
             <h4>
               <span>2025-07-21 @ 06:30:21</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44632314"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -724,32 +816,11 @@
             <h4>
               <span>2025-07-20 @ 22:09:27</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44629805"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44629300">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html"
-              >Vanishing home field advantage in English football</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-20 @ 21:05:19</span
-              ><span class="points-container"
-                >Points: <span class="points">50</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44629300"
-                  >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
