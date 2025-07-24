@@ -68,6 +68,7 @@
 * [2025-07-21, 12:27:24](https://news.ycombinator.com/item?id=44634340) - [I've launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
 * [2025-07-21, 12:20:36](https://news.ycombinator.com/item?id=44634293) - [Ryanair may increase commission to staff identifying oversized cabin bags](https://www.rte.ie/news/ireland/2025/0721/1524508-ryanair-baggage/)
 * [2025-07-21, 12:16:42](https://news.ycombinator.com/item?id=44634266) - [What Happens When Housing Prices Go Down?](https://clmarohn.substack.com/p/what-happens-when-housing-prices)
+* [2025-07-21, 12:04:49](https://news.ycombinator.com/item?id=44634208) - [Lslvr/mwm: The smallest (usable) X11 window manager](https://github.com/lslvr/mwm)
 * [2025-07-21, 12:00:06](https://news.ycombinator.com/item?id=44634166) - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
 * [2025-07-21, 11:42:04](https://news.ycombinator.com/item?id=44634047) - [Herringbone Tiles](https://nothings.org/gamedev/herringbone/herringbone_tiles.html)
 * [2025-07-21, 11:26:04](https://news.ycombinator.com/item?id=44633933) - [We made Postgres writes faster, but it broke replication](https://www.paradedb.com/blog/lsm_trees_in_postgres)
