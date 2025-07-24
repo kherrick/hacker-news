@@ -40,6 +40,7 @@
 * [2025-07-20, 15:51:15](https://news.ycombinator.com/item?id=44626359) - [Checklists are hard (but still a good thing)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood)
 * [2025-07-20, 15:29:07](https://news.ycombinator.com/item?id=44626107) - [The landlord gutting America’s hospitals](https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/)
 * [2025-07-20, 15:08:02](https://news.ycombinator.com/item?id=44625897) - [When is it the best time to post on Show HN?](https://www.myriade.ai/blogs/when-is-it-the-best-time-to-post-on-show-hn)
+* [2025-07-20, 15:03:56](https://news.ycombinator.com/item?id=44625846) - [Solving a Childhood Mystery: How BASIC Games Learned to Win](https://sublevelgames.github.io/blogs/2025-07-20-basic-game-hexapawn/)
 * [2025-07-20, 14:45:55](https://news.ycombinator.com/item?id=44625681) - [Group Behind Steam Censorship Policies Have Powerful Allies](https://web.archive.org/web/20250719204151/https://www.vice.com/en/article/group-behind-steam-censorship-policies-have-powerful-allies-and-targeted-popular-games-with-outlandish-claims/)
 * [2025-07-20, 14:36:04](https://news.ycombinator.com/item?id=44625604) - [US signals intention to rethink job H-1B lottery](https://www.theregister.com/2025/07/20/h_1b_job_lottery/)
 * [2025-07-20, 14:24:28](https://news.ycombinator.com/item?id=44625500) - [I'm Unsatisfied with Easing Functions](https://www.davepagurek.com/blog/easing-functions/)
