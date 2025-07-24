@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-07-24, 17:04:40",
+      "https://news.ycombinator.com/item?id=44673148"
+    ],
+    [
+      "The great AI delusion is falling apart",
+      "https://www.mikemcbrideonline.com/2025/07/worth-reading-the-great-ai-delusion-is-falling-apart/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 16:42:25",
+      "https://news.ycombinator.com/item?id=44672859"
+    ],
+    [
+      "Major Quantum Computing Advance Made Obsolete by Teenager",
+      "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 16:08:09",
       "https://news.ycombinator.com/item?id=44672414"
     ],
     [
-      "No One Knows Anything About AI",
+      "No one knows anything about AI",
       "https://calnewport.com/no-one-knows-anything-about-ai/"
     ]
   ],
@@ -41,22 +61,22 @@
   ],
   [
     [
+      "2025-07-24, 15:05:12",
+      "https://news.ycombinator.com/item?id=44671601"
+    ],
+    [
+      "Show HN: Nia – MCP server that gives more context to coding agents",
+      "https://www.trynia.ai/"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 15:03:56",
       "https://news.ycombinator.com/item?id=44671584"
     ],
     [
       "The FastLanes File Format [pdf]",
       "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 14:57:05",
-      "https://news.ycombinator.com/item?id=44671484"
-    ],
-    [
-      "Use Your Type System",
-      "https://www.dzombak.com/blog/2025/07/use-your-type-system/"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it",
       "https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 13:17:24",
+      "https://news.ycombinator.com/item?id=44670326"
+    ],
+    [
+      "UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage",
+      "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-07-23, 20:31:16",
-      "https://news.ycombinator.com/item?id=44663684"
-    ],
-    [
-      "Jitsi privacy flaw enables one-click stealth audio and video capture",
-      "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 19:50:12",
       "https://news.ycombinator.com/item?id=44663227"
     ],
@@ -217,26 +237,6 @@
     [
       "CARA – High precision robot dog using rope",
       "https://www.aaedmusa.com/projects/cara"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 17:24:32",
-      "https://news.ycombinator.com/item?id=44661682"
-    ],
-    [
-      "The Promised LAN",
-      "https://tpl.house/"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 15:28:58",
-      "https://news.ycombinator.com/item?id=44660323"
-    ],
-    [
-      "US AI Action Plan",
-      "https://www.ai.gov/action-plan"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-07-21, 07:40:01",
+      "https://news.ycombinator.com/item?id=44632674"
+    ],
+    [
+      "I wasted weeks hand optimizing assembly because I benchmarked on random data",
+      "https://www.vidarholen.net/contents/blog/?p=1160"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 06:30:21",
       "https://news.ycombinator.com/item?id=44632314"
     ],
@@ -287,16 +297,6 @@
     [
       "Distillation makes AI models smaller and cheaper",
       "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 21:05:19",
-      "https://news.ycombinator.com/item?id=44629300"
-    ],
-    [
-      "Vanishing home field advantage in English football",
-      "https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html"
     ]
   ]
 ]
