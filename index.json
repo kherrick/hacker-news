@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-24, 20:52:41",
+      "https://news.ycombinator.com/item?id=44675965"
+    ],
+    [
+      "Intel CEO Letter to Employees",
+      "https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 20:29:58",
+      "https://news.ycombinator.com/item?id=44675708"
+    ],
+    [
+      "Psilocybin delays aging, extends lifespan, new Emory study suggests",
+      "https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 20:29:23",
+      "https://news.ycombinator.com/item?id=44675697"
+    ],
+    [
+      "Games: No sex, please. we're credit card companies",
+      "https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 20:28:58",
       "https://news.ycombinator.com/item?id=44675691"
     ],
@@ -31,21 +61,11 @@
   ],
   [
     [
-      "2025-07-24, 19:41:09",
-      "https://news.ycombinator.com/item?id=44675119"
-    ],
-    [
-      "You might not need a Python class",
-      "https://adamgrant.micro.blog/2025/07/24/123050.html"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 19:26:12",
       "https://news.ycombinator.com/item?id=44674960"
     ],
     [
-      "Starlink is currently experiencing a service outage. Our team is investigating",
+      "Starlink is currently experiencing a service outage",
       "https://www.starlink.com/us"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44674830"
     ],
     [
-      "You can now train a 70B language model at home",
+      "Train a 70b language model at home (2024)",
       "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Show HN: Nia – MCP server that gives more docs and repos to coding agents",
       "https://www.trynia.ai/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 15:03:56",
-      "https://news.ycombinator.com/item?id=44671584"
-    ],
-    [
-      "The FastLanes File Format [pdf]",
-      "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-07-23, 19:50:12",
-      "https://news.ycombinator.com/item?id=44663227"
-    ],
-    [
-      "AI overviews cause massive drop in search clicks",
-      "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 19:34:56",
       "https://news.ycombinator.com/item?id=44663074"
     ],
@@ -221,32 +221,22 @@
   ],
   [
     [
-      "2025-07-23, 17:38:20",
-      "https://news.ycombinator.com/item?id=44661846"
+      "2025-07-21, 12:59:56",
+      "https://news.ycombinator.com/item?id=44634598"
     ],
     [
-      "CARA – High precision robot dog using rope",
-      "https://www.aaedmusa.com/projects/cara"
+      "Positron – A next-generation data science IDE",
+      "https://positron.posit.co/"
     ]
   ],
   [
     [
-      "2025-07-21, 21:12:30",
-      "https://news.ycombinator.com/item?id=44640471"
+      "2025-07-21, 12:57:26",
+      "https://news.ycombinator.com/item?id=44634576"
     ],
     [
-      "Working on a Programming Language in the Age of LLMs",
-      "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 15:20:49",
-      "https://news.ycombinator.com/item?id=44636240"
-    ],
-    [
-      "Covers as a way of learning music and code",
-      "https://ntietz.com/blog/covers-as-a-way-of-learning/"
+      "Why concatenative programming matters (2012)",
+      "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Lslvr/mwm: The smallest (usable) X11 window manager",
       "https://github.com/lslvr/mwm"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 11:39:48",
+      "https://news.ycombinator.com/item?id=44634030"
+    ],
+    [
+      "Superfunctions: A universal solution against sync/async fragmentation in Python",
+      "https://github.com/pomponchik/transfunctions"
     ]
   ],
   [
