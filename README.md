@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-24, 19:33:22](https://news.ycombinator.com/item?id=44675026) - [UN: Israeli Forces Have Killed over 1,000 Palestinians Seeking Aid Since May](https://apnews.com/article/israel-hamas-gaza-war-palestinians-07-22-2025-8eb90d73c1b7499d3dbc8b8d95da65cc)
 * [2025-07-24, 19:26:12](https://news.ycombinator.com/item?id=44674960) - [Starlink is currently experiencing a service outage. Our team is investigating](https://www.starlink.com/us)
 * [2025-07-24, 17:36:55](https://news.ycombinator.com/item?id=44673613) - [Show HN: Local Email Client for AI Horseless Carriages](https://github.com/dbish/DispatchMail)
 * [2025-07-24, 17:28:54](https://news.ycombinator.com/item?id=44673499) - [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
 * [2025-07-24, 16:42:25](https://news.ycombinator.com/item?id=44672859) - [Major Quantum Computing Advance Made Obsolete by Teenager (2018)](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
+* [2025-07-24, 16:11:25](https://news.ycombinator.com/item?id=44672450) - [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad)
 * [2025-07-24, 16:08:09](https://news.ycombinator.com/item?id=44672414) - [Two narratives about AI](https://calnewport.com/no-one-knows-anything-about-ai/)
 * [2025-07-24, 15:46:46](https://news.ycombinator.com/item?id=44672145) - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
 * [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
