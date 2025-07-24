@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 13:16:12](https://news.ycombinator.com/item?id=44670315) - [UnitedHealth says it is facing DOJ investigation over Medicare billing practices](https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html)
 * [2025-07-24, 12:47:29](https://news.ycombinator.com/item?id=44669998) - [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
 * [2025-07-24, 12:29:35](https://news.ycombinator.com/item?id=44669858) - [Wix: Introduce the Open Source Maintenance Fee](https://github.com/wixtoolset/issues/issues/8974)
 * [2025-07-24, 12:28:31](https://news.ycombinator.com/item?id=44669853) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
