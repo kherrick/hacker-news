@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 21:39:08](https://news.ycombinator.com/item?id=44676559) - [Visa and Mastercard: The Global Payment Duopoly](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
+* [2025-07-24, 21:22:15](https://news.ycombinator.com/item?id=44676348) - [Revisiting Moneyball. Data, sports, payrolls, and memes](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
 * [2025-07-24, 20:59:25](https://news.ycombinator.com/item?id=44676066) - [ChatGPT Launches MCP Support](https://platform.openai.com/docs/mcp)
 * [2025-07-24, 20:52:41](https://news.ycombinator.com/item?id=44675965) - [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
 * [2025-07-24, 20:29:58](https://news.ycombinator.com/item?id=44675708) - [Psilocybin delays aging, extends lifespan, new Emory study suggests](https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html)
 * [2025-07-24, 20:29:23](https://news.ycombinator.com/item?id=44675697) - [Games: No sex, please. we're credit card companies](https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/)
+* [2025-07-24, 20:28:58](https://news.ycombinator.com/item?id=44675691) - [American sentenced for helping North Koreans get jobs at U.S. firms](https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike/)
 * [2025-07-24, 20:28:58](https://news.ycombinator.com/item?id=44675691) - [American Sentenced to 8½ Years for Helping North Koreans Get Jobs at U.S. Firms](https://www.wsj.com/us-news/law/american-sentenced-to-8-years-in-prison-for-helping-north-koreans-get-jobs-at-nike-other-u-s-firms-d7de8be7)
 * [2025-07-24, 20:20:17](https://news.ycombinator.com/item?id=44675557) - [Hacker slips malicious 'wiping' command into Amazon's Q AI coding assistant](https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/)
 * [2025-07-24, 20:19:57](https://news.ycombinator.com/item?id=44675553) - [Inter-Planetary Network Special Interest Group](https://www.ipnsig.org)
