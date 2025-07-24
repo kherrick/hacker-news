@@ -6,6 +6,7 @@
 
 * [2025-07-20, 23:59:39](https://news.ycombinator.com/item?id=44630551) - [What birdsong and back ends can teach us about magic](https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic)
 * [2025-07-20, 23:42:26](https://news.ycombinator.com/item?id=44630453) - [The Genius Device That Rocked F1](https://www.youtube.com/watch?v=FhmLb2DhNYM)
+* [2025-07-20, 22:37:44](https://news.ycombinator.com/item?id=44630028) - [Thawing vacuum-packed fish correctly](https://www.canr.msu.edu/news/open_your_vacuum_packed_fish_before_thawing)
 * [2025-07-20, 22:29:04](https://news.ycombinator.com/item?id=44629962) - [IPv6 Based Canvas](https://canvas.openbased.org/)
 * [2025-07-20, 22:09:27](https://news.ycombinator.com/item?id=44629805) - [How distillation makes AI models smaller and cheaper](https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/)
 * [2025-07-20, 21:58:06](https://news.ycombinator.com/item?id=44629710) - [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
