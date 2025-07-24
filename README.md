@@ -11,6 +11,7 @@
 * [2025-07-23, 20:31:16](https://news.ycombinator.com/item?id=44663684) - [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
 * [2025-07-23, 19:50:12](https://news.ycombinator.com/item?id=44663227) - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
 * [2025-07-23, 19:02:46](https://news.ycombinator.com/item?id=44662757) - [Major rule about cooking meat turns out to be wrong](https://www.seriouseats.com/meat-resting-science-11776272)
+* [2025-07-23, 18:37:48](https://news.ycombinator.com/item?id=44662497) - [Show HN: TheProtector – Linux Bash script for the paranoid admin on a budget](https://github.com/IHATEGIVINGAUSERNAME/theProtector)
 * [2025-07-23, 17:38:20](https://news.ycombinator.com/item?id=44661846) - [CARA – High precision robot dog using rope](https://www.aaedmusa.com/projects/cara)
 * [2025-07-23, 17:24:32](https://news.ycombinator.com/item?id=44661682) - [The Promised LAN](https://tpl.house/)
 * [2025-07-23, 17:09:47](https://news.ycombinator.com/item?id=44661527) - [FastVLM: Efficient Vision Encoding for Vision Language Models](https://machinelearning.apple.com/research/fast-vision-language-models)
@@ -29,7 +30,6 @@
 * [2025-07-20, 15:51:15](https://news.ycombinator.com/item?id=44626359) - [Checklists are hard, but still a good thing](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood)
 * [2025-07-20, 08:16:26](https://news.ycombinator.com/item?id=44622994) - [Seven Sisters eclipse will temporarily block stars from view](https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view)
 * [2025-07-17, 10:09:48](https://news.ycombinator.com/item?id=44591605) - [Parsing Protobuf like never before](https://mcyoung.xyz/2025/07/16/hyperpb/)
-* [2025-07-16, 17:30:02](https://news.ycombinator.com/item?id=44584830) - [I'm Unsatisfied with Easing Functions](https://www.davepagurek.com/blog/easing-functions/)
 
 ## [Archives](archives/index.md)
 
