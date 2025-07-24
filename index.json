@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44666896"
     ],
     [
-      "CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
+      "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
       "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=44634756"
     ],
     [
-      "(Python) Poste Italiane document parser",
+      "A Python tool to parse PDF statements from Poste Italiane",
       "https://github.com/genbs/poste-italiane-parser"
     ]
   ],
