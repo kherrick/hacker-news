@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 22:14:20](https://news.ycombinator.com/item?id=44676961) - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
+* [2025-07-24, 21:59:19](https://news.ycombinator.com/item?id=44676817) - [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
 * [2025-07-24, 21:50:43](https://news.ycombinator.com/item?id=44676714) - [The Secret Life of Fsync (2023)](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2025-07-24, 21:39:08](https://news.ycombinator.com/item?id=44676559) - [Visa and Mastercard: The Global Payment Duopoly](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
 * [2025-07-24, 21:22:15](https://news.ycombinator.com/item?id=44676348) - [Revisiting Moneyball. Data, sports, payrolls, and memes](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
+* [2025-07-24, 21:20:01](https://news.ycombinator.com/item?id=44676315) - [New Aarch64 Back End](https://ziglang.org/devlog/2025/#2025-07-23)
 * [2025-07-24, 20:59:25](https://news.ycombinator.com/item?id=44676066) - [ChatGPT Launches MCP Support](https://platform.openai.com/docs/mcp)
 * [2025-07-24, 20:52:41](https://news.ycombinator.com/item?id=44675965) - [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
 * [2025-07-24, 20:29:58](https://news.ycombinator.com/item?id=44675708) - [Psilocybin delays aging, extends lifespan, new Emory study suggests](https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html)
