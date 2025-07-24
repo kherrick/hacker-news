@@ -18,6 +18,7 @@
 * [2025-07-23, 15:37:40](https://news.ycombinator.com/item?id=44660437) - [Neil Armstrong's customs form for moon rocks (2016)](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
 * [2025-07-23, 15:28:58](https://news.ycombinator.com/item?id=44660323) - [US AI Action Plan](https://www.ai.gov/action-plan)
 * [2025-07-23, 14:56:31](https://news.ycombinator.com/item?id=44659921) - [Building better AI tools](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
+* [2025-07-23, 14:37:12](https://news.ycombinator.com/item?id=44659712) - [Tram Trains](https://www.worksinprogress.news/p/tram-trains)
 * [2025-07-23, 13:52:47](https://news.ycombinator.com/item?id=44659251) - [Why Elixir? Common misconceptions](https://matthewsinclair.com/blog/0181-why-elixir)
 * [2025-07-23, 13:27:38](https://news.ycombinator.com/item?id=44659019) - [What to expect from Debian/Trixie](https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/)
 * [2025-07-23, 13:17:38](https://news.ycombinator.com/item?id=44658908) - [Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom](https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/)
@@ -27,7 +28,6 @@
 * [2025-07-20, 22:09:27](https://news.ycombinator.com/item?id=44629805) - [How distillation makes AI models smaller and cheaper](https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/)
 * [2025-07-20, 15:51:15](https://news.ycombinator.com/item?id=44626359) - [Checklists are hard, but still a good thing](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood)
 * [2025-07-20, 08:16:26](https://news.ycombinator.com/item?id=44622994) - [Seven Sisters eclipse will temporarily block stars from view](https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view)
-* [2025-07-19, 03:23:41](https://news.ycombinator.com/item?id=44612313) - [The Big OOPs: Anatomy of a Thirty-Five Year Mistake](https://www.computerenhance.com/p/the-big-oops-anatomy-of-a-thirty)
 * [2025-07-17, 10:09:48](https://news.ycombinator.com/item?id=44591605) - [Parsing Protobuf like never before](https://mcyoung.xyz/2025/07/16/hyperpb/)
 * [2025-07-16, 17:30:02](https://news.ycombinator.com/item?id=44584830) - [I'm Unsatisfied with Easing Functions](https://www.davepagurek.com/blog/easing-functions/)
 
