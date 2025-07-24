@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-24, 14:48:04",
+      "https://news.ycombinator.com/item?id=44671373"
+    ],
+    [
+      "PSA: SQLite WAL checksums fail silently and may lose data",
+      "https://avi.im/blag/2025/sqlite-wal-checksum/"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 14:40:23",
       "https://news.ycombinator.com/item?id=44671284"
     ],
@@ -97,16 +107,6 @@
     [
       "XOR_singleheader: Header-only binary fuse and XOR filter library",
       "https://github.com/FastFilter/xor_singleheader"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 06:40:48",
-      "https://news.ycombinator.com/item?id=44667667"
-    ],
-    [
-      "Itch.io: Update on NSFW Content",
-      "https://itch.io/updates/update-on-nsfw-content"
     ]
   ],
   [
