@@ -81,6 +81,7 @@
 * [2025-07-21, 10:58:21](https://news.ycombinator.com/item?id=44633758) - [Linux Distros for Gaming: CachyOS Takes Over, According to ProtonDB](https://boilingsteam.com/distro-for-gaming-cachy-os-takes-over/)
 * [2025-07-21, 10:23:40](https://news.ycombinator.com/item?id=44633562) - [Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
 * [2025-07-21, 10:21:34](https://news.ycombinator.com/item?id=44633549) - [Show HN: Intercepting proxy for semantic search over visited pages](https://github.com/mlang/llm-embed-proxy)
+* [2025-07-21, 10:17:21](https://news.ycombinator.com/item?id=44633522) - [Show HN: Easy Python Time Parsing](https://github.com/felixnext/python-time-helper)
 * [2025-07-21, 09:48:05](https://news.ycombinator.com/item?id=44633384) - [XSLT: A Precision Tool for the Future of Structured Transformation](https://www.xml.com/articles/2025/07/19/xslt-precision-tool-future-structured-transformation/)
 * [2025-07-21, 09:45:10](https://news.ycombinator.com/item?id=44633373) - [Israeli forces launch ground assault in central Gaza for first time](https://www.bbc.com/news/live/cvg9ky87dpdt)
 * [2025-07-21, 09:18:48](https://news.ycombinator.com/item?id=44633228) - [The Missing Guide to Prompt Engineering](https://appetals.com/promptguide/)
