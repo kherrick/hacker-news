@@ -76,6 +76,7 @@
 * [2025-07-21, 09:45:10](https://news.ycombinator.com/item?id=44633373) - [Israeli forces launch ground assault in central Gaza for first time](https://www.bbc.com/news/live/cvg9ky87dpdt)
 * [2025-07-21, 09:18:48](https://news.ycombinator.com/item?id=44633228) - [The Missing Guide to Prompt Engineering](https://appetals.com/promptguide/)
 * [2025-07-21, 08:21:42](https://news.ycombinator.com/item?id=44632904) - [Can Dave Hurwitz Save Classical Recording?](https://www.newyorker.com/culture/persons-of-interest/can-dave-hurwitz-save-classical-recording)
+* [2025-07-21, 07:52:20](https://news.ycombinator.com/item?id=44632739) - [Leprechauns, root causes, and other fairy tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/)
 * [2025-07-21, 07:20:55](https://news.ycombinator.com/item?id=44632575) - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 * [2025-07-21, 07:05:40](https://news.ycombinator.com/item?id=44632500) - [Java is still worth learning](https://empatheticdeveloper.wordpress.com/2025/07/20/why-java-is-still-worth-learning-in-2025-a-developers-25-year-journey/)
 * [2025-07-21, 06:16:14](https://news.ycombinator.com/item?id=44632246) - [Why Some Satellites Use NetBSD?](https://machaddr.substack.com/p/why-some-satellites-use-netbsd)
