@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-24, 13:56:29](https://news.ycombinator.com/item?id=44670727) - [Instagram Temporarily Suspends Zohran Mamdani's Account](https://nycjournals.com/2025/07/21/instagram-suspends-zohran-mamdanis-account-leaked-memo-cites-national-interest-as-meta-tilts-right/)
+* [2025-07-24, 14:40:23](https://news.ycombinator.com/item?id=44671284) - [We Need a European Sovereign Tech Fund](https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/)
+* [2025-07-24, 14:13:50](https://news.ycombinator.com/item?id=44670947) - [Yet another bad three months as Tesla reports its Q2 2025 results](https://arstechnica.com/cars/2025/07/tesla-q2-2025-sell-fewer-cars-and-carbon-credits-make-less-money/)
 * [2025-07-24, 13:46:14](https://news.ycombinator.com/item?id=44670624) - [AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it](https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative)
 * [2025-07-24, 13:42:03](https://news.ycombinator.com/item?id=44670590) - [You can't outrun a bad diet](https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition)
 * [2025-07-24, 12:47:29](https://news.ycombinator.com/item?id=44669998) - [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
@@ -19,7 +20,6 @@
 * [2025-07-23, 19:50:12](https://news.ycombinator.com/item?id=44663227) - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
 * [2025-07-23, 17:38:20](https://news.ycombinator.com/item?id=44661846) - [CARA – High precision robot dog using rope](https://www.aaedmusa.com/projects/cara)
 * [2025-07-23, 17:24:32](https://news.ycombinator.com/item?id=44661682) - [The Promised LAN](https://tpl.house/)
-* [2025-07-23, 15:37:40](https://news.ycombinator.com/item?id=44660437) - [Neil Armstrong's customs form for moon rocks (2016)](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
 * [2025-07-23, 15:28:58](https://news.ycombinator.com/item?id=44660323) - [US AI Action Plan](https://www.ai.gov/action-plan)
 * [2025-07-23, 14:56:31](https://news.ycombinator.com/item?id=44659921) - [Building better AI tools](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
 * [2025-07-22, 21:20:16](https://news.ycombinator.com/item?id=44653136) - [Vector Tiles are deployed on OpenStreetMap.org](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 14:40:23](https://news.ycombinator.com/item?id=44671284) - [We Need a European Sovereign Tech Fund](https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/)
+* [2025-07-24, 14:13:50](https://news.ycombinator.com/item?id=44670947) - [Yet another bad three months as Tesla reports its Q2 2025 results](https://arstechnica.com/cars/2025/07/tesla-q2-2025-sell-fewer-cars-and-carbon-credits-make-less-money/)
 * [2025-07-24, 13:56:29](https://news.ycombinator.com/item?id=44670727) - [Instagram Temporarily Suspends Zohran Mamdani's Account](https://nycjournals.com/2025/07/21/instagram-suspends-zohran-mamdanis-account-leaked-memo-cites-national-interest-as-meta-tilts-right/)
 * [2025-07-24, 13:46:14](https://news.ycombinator.com/item?id=44670624) - [AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it](https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative)
 * [2025-07-24, 13:42:03](https://news.ycombinator.com/item?id=44670590) - [You can't outrun a bad diet](https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition)
