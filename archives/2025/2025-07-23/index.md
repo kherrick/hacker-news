@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-23](index.md)
 
+* [2025-07-23, 23:56:25](https://news.ycombinator.com/item?id=44665373) - [I drank every cocktail](https://aaronson.org/blog/i-drank-every-cocktail)
 * [2025-07-23, 22:53:27](https://news.ycombinator.com/item?id=44664873) - [I made Tinder but it's only pictures of my wife and I can only swipe right](https://trytender.app/)
 * [2025-07-23, 20:31:16](https://news.ycombinator.com/item?id=44663684) - [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
 * [2025-07-23, 19:50:12](https://news.ycombinator.com/item?id=44663227) - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)

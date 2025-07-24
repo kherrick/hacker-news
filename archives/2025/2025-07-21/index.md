@@ -87,6 +87,7 @@
 * [2025-07-21, 01:42:22](https://news.ycombinator.com/item?id=44631042) - [Geocities Backgrounds](https://pixelmoondust.neocities.org/archives/archivedtiles/backgroundsindex)
 * [2025-07-21, 01:42:22](https://news.ycombinator.com/item?id=44631042) - [Geocities Backgrounds](https://pixelmoondust.neocities.org/archives/archivedtiles)
 * [2025-07-21, 01:15:55](https://news.ycombinator.com/item?id=44630927) - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
+* [2025-07-21, 01:11:40](https://news.ycombinator.com/item?id=44630901) - [China breakthrough in indium selenide (InSe) wafers with perfect stoichiometry](https://news.cgtn.com/news/2025-07-19/China-develops-new-method-to-mass-produce-high-quality-semiconductors-1F8iTEyEwVi/p.html)
 * [2025-07-21, 00:53:21](https://news.ycombinator.com/item?id=44630815) - [iMessage integration in Claude can hijack the model to do anything](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
 * [2025-07-21, 00:49:29](https://news.ycombinator.com/item?id=44630801) - [The First Photograph Ever Taken (1826)](https://www.openculture.com/2025/07/the-first-photograph-ever-taken.html)
 * [2025-07-21, 00:40:43](https://news.ycombinator.com/item?id=44630760) - [Man wearing metallic necklace dies after being sucked into MRI machine](https://www.bbc.com/news/articles/cx2n39dvp0po)
