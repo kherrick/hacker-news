@@ -6,6 +6,7 @@
 
 * [2025-07-24, 19:33:22](https://news.ycombinator.com/item?id=44675026) - [UN: Israeli Forces Have Killed over 1,000 Palestinians Seeking Aid Since May](https://apnews.com/article/israel-hamas-gaza-war-palestinians-07-22-2025-8eb90d73c1b7499d3dbc8b8d95da65cc)
 * [2025-07-24, 19:26:12](https://news.ycombinator.com/item?id=44674960) - [Starlink is currently experiencing a service outage. Our team is investigating](https://www.starlink.com/us)
+* [2025-07-24, 18:16:03](https://news.ycombinator.com/item?id=44674123) - [Air Force unit suspends use of Sig Sauer pistol after shooting death of airman](https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death)
 * [2025-07-24, 17:36:55](https://news.ycombinator.com/item?id=44673613) - [Show HN: Local Email Client for AI Horseless Carriages](https://github.com/dbish/DispatchMail)
 * [2025-07-24, 17:28:54](https://news.ycombinator.com/item?id=44673499) - [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
 * [2025-07-24, 17:04:40](https://news.ycombinator.com/item?id=44673148) - [The great AI delusion is falling apart](https://www.mikemcbrideonline.com/2025/07/worth-reading-the-great-ai-delusion-is-falling-apart/)

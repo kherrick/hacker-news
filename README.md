@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-24, 19:26:12](https://news.ycombinator.com/item?id=44674960) - [Starlink is currently experiencing a service outage. Our team is investigating](https://www.starlink.com/us)
-* [2025-07-24, 17:36:55](https://news.ycombinator.com/item?id=44673613) - [Show HN: Local Email Client for AI Horseless Carriages](https://github.com/dbish/DispatchMail)
+* [2025-07-24, 18:16:03](https://news.ycombinator.com/item?id=44674123) - [Air Force unit suspends use of Sig Sauer pistol after shooting death of airman](https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death)
 * [2025-07-24, 17:28:54](https://news.ycombinator.com/item?id=44673499) - [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
 * [2025-07-24, 16:42:25](https://news.ycombinator.com/item?id=44672859) - [Major Quantum Computing Advance Made Obsolete by Teenager (2018)](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
 * [2025-07-24, 16:11:25](https://news.ycombinator.com/item?id=44672450) - [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad)
