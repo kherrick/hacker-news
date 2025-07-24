@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-24, 06:40:48](https://news.ycombinator.com/item?id=44667667) - [Itch.io: Update on NSFW Content](https://itch.io/updates/update-on-nsfw-content)
 * [2025-07-24, 06:07:17](https://news.ycombinator.com/item?id=44667472) - [Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
 * [2025-07-24, 04:20:52](https://news.ycombinator.com/item?id=44666896) - [CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
 * [2025-07-24, 02:13:20](https://news.ycombinator.com/item?id=44666157) - [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
@@ -28,6 +27,7 @@
 * [2025-07-21, 07:52:20](https://news.ycombinator.com/item?id=44632739) - [Leprechauns, root causes, and other fairy tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/)
 * [2025-07-20, 22:09:27](https://news.ycombinator.com/item?id=44629805) - [Distillation makes AI models smaller and cheaper](https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/)
 * [2025-07-20, 15:51:15](https://news.ycombinator.com/item?id=44626359) - [Checklists are hard, but still a good thing](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood)
+* [2025-07-20, 14:24:02](https://news.ycombinator.com/item?id=44625493) - [Bus Bunching](https://www.futilitycloset.com/2025/07/12/bus-bunching/)
 * [2025-07-20, 08:16:26](https://news.ycombinator.com/item?id=44622994) - [Seven Sisters eclipse will temporarily block stars from view](https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view)
 * [2025-07-17, 10:09:48](https://news.ycombinator.com/item?id=44591605) - [Parsing Protobuf like never before](https://mcyoung.xyz/2025/07/16/hyperpb/)
 
