@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 17:04:40](https://news.ycombinator.com/item?id=44673148) - [The great AI delusion is falling apart](https://www.mikemcbrideonline.com/2025/07/worth-reading-the-great-ai-delusion-is-falling-apart/)
+* [2025-07-24, 16:42:25](https://news.ycombinator.com/item?id=44672859) - [Major Quantum Computing Advance Made Obsolete by Teenager](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
 * [2025-07-24, 16:08:09](https://news.ycombinator.com/item?id=44672414) - [No One Knows Anything About AI](https://calnewport.com/no-one-knows-anything-about-ai/)
 * [2025-07-24, 16:01:00](https://news.ycombinator.com/item?id=44672329) - [Hulk Hogan Has Died](https://www.tmz.com/2025/07/24/hulk-hogan-dead/)
 * [2025-07-24, 15:46:46](https://news.ycombinator.com/item?id=44672145) - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
 * [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 15:20:59](https://news.ycombinator.com/item?id=44671804) - [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
+* [2025-07-24, 15:05:12](https://news.ycombinator.com/item?id=44671601) - [Show HN: Nia – MCP server that gives more context to coding agents](https://www.trynia.ai/)
 * [2025-07-24, 15:03:56](https://news.ycombinator.com/item?id=44671584) - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
 * [2025-07-24, 14:57:05](https://news.ycombinator.com/item?id=44671484) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
 * [2025-07-24, 14:55:53](https://news.ycombinator.com/item?id=44671472) - [A list of changes to make it easier to build beautiful and walkable places](https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places)
@@ -19,6 +22,7 @@
 * [2025-07-24, 13:56:29](https://news.ycombinator.com/item?id=44670727) - [Instagram Temporarily Suspends Zohran Mamdani's Account](https://nycjournals.com/2025/07/21/instagram-suspends-zohran-mamdanis-account-leaked-memo-cites-national-interest-as-meta-tilts-right/)
 * [2025-07-24, 13:46:14](https://news.ycombinator.com/item?id=44670624) - [AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it](https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative)
 * [2025-07-24, 13:42:03](https://news.ycombinator.com/item?id=44670590) - [You can't outrun a bad diet](https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition)
+* [2025-07-24, 13:17:24](https://news.ycombinator.com/item?id=44670326) - [UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage](https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html)
 * [2025-07-24, 13:16:29](https://news.ycombinator.com/item?id=44670319) - [A valid HTML zip bomb](https://ache.one/notes/html_zip_bomb)
 * [2025-07-24, 13:16:12](https://news.ycombinator.com/item?id=44670315) - [UnitedHealth says it is facing DOJ investigation over Medicare billing practices](https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html)
 * [2025-07-24, 12:47:29](https://news.ycombinator.com/item?id=44669998) - [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)

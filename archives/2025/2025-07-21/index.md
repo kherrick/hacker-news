@@ -82,6 +82,7 @@
 * [2025-07-21, 08:21:42](https://news.ycombinator.com/item?id=44632904) - [Can Dave Hurwitz Save Classical Recording?](https://www.newyorker.com/culture/persons-of-interest/can-dave-hurwitz-save-classical-recording)
 * [2025-07-21, 08:19:29](https://news.ycombinator.com/item?id=44632890) - [Colodebug: A simple way to improve bash script debugging (2021)](https://johannes.truschnigg.info/writing/2021-12_colodebug/)
 * [2025-07-21, 07:52:20](https://news.ycombinator.com/item?id=44632739) - [Leprechauns, root causes, and other fairy tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/)
+* [2025-07-21, 07:40:01](https://news.ycombinator.com/item?id=44632674) - [I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
 * [2025-07-21, 07:20:55](https://news.ycombinator.com/item?id=44632575) - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 * [2025-07-21, 07:05:40](https://news.ycombinator.com/item?id=44632500) - [Java is still worth learning](https://empatheticdeveloper.wordpress.com/2025/07/20/why-java-is-still-worth-learning-in-2025-a-developers-25-year-journey/)
 * [2025-07-21, 06:30:21](https://news.ycombinator.com/item?id=44632314) - [Writing Is Thinking](https://www.nature.com/articles/s44222-025-00323-4)
