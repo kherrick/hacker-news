@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 21:50:43](https://news.ycombinator.com/item?id=44676714) - [The Secret Life of Fsync (2023)](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2025-07-24, 21:39:08](https://news.ycombinator.com/item?id=44676559) - [Visa and Mastercard: The Global Payment Duopoly](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
 * [2025-07-24, 21:22:15](https://news.ycombinator.com/item?id=44676348) - [Revisiting Moneyball. Data, sports, payrolls, and memes](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
 * [2025-07-24, 20:59:25](https://news.ycombinator.com/item?id=44676066) - [ChatGPT Launches MCP Support](https://platform.openai.com/docs/mcp)
