@@ -80,6 +80,7 @@
 * [2025-07-21, 07:52:20](https://news.ycombinator.com/item?id=44632739) - [Leprechauns, root causes, and other fairy tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/)
 * [2025-07-21, 07:20:55](https://news.ycombinator.com/item?id=44632575) - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 * [2025-07-21, 07:05:40](https://news.ycombinator.com/item?id=44632500) - [Java is still worth learning](https://empatheticdeveloper.wordpress.com/2025/07/20/why-java-is-still-worth-learning-in-2025-a-developers-25-year-journey/)
+* [2025-07-21, 06:30:21](https://news.ycombinator.com/item?id=44632314) - [Writing Is Thinking](https://www.nature.com/articles/s44222-025-00323-4)
 * [2025-07-21, 06:16:14](https://news.ycombinator.com/item?id=44632246) - [Why Some Satellites Use NetBSD?](https://machaddr.substack.com/p/why-some-satellites-use-netbsd)
 * [2025-07-21, 06:15:05](https://news.ycombinator.com/item?id=44632240) - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
 * [2025-07-21, 06:10:57](https://news.ycombinator.com/item?id=44632218) - [SubTropolis and KC's Limestone Caves](https://kcyesterday.com/articles/subtropolis)

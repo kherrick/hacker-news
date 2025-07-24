@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 12:00:13](https://news.ycombinator.com/item?id=44669631) - [Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer)
+* [2025-07-24, 11:16:48](https://news.ycombinator.com/item?id=44669368) - [What does connecting with someone mean?](https://talk.bradwoods.io/blog/connect/)
 * [2025-07-24, 11:16:19](https://news.ycombinator.com/item?id=44669365) - [Detekt – A static code analyzer for Kotlin](https://detekt.dev/)
 * [2025-07-24, 10:39:52](https://news.ycombinator.com/item?id=44669131) - [VectorDB bench now support S3Vector](https://github.com/zilliztech/VectorDBBench/pull/570)
 * [2025-07-24, 06:40:48](https://news.ycombinator.com/item?id=44667667) - [Itch.io: Update on NSFW Content](https://itch.io/updates/update-on-nsfw-content)
