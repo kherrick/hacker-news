@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-24, 06:07:17](https://news.ycombinator.com/item?id=44667472) - [Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
 * [2025-07-24, 04:20:52](https://news.ycombinator.com/item?id=44666896) - [CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
 * [2025-07-24, 02:13:20](https://news.ycombinator.com/item?id=44666157) - [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
 * [2025-07-24, 01:41:55](https://news.ycombinator.com/item?id=44665984) - [A small web July](https://smallcypress.bearblog.dev/a-small-web-july/)
-* [2025-07-24, 01:33:48](https://news.ycombinator.com/item?id=44665928) - [BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia](https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia)
 * [2025-07-24, 01:12:14](https://news.ycombinator.com/item?id=44665815) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
 * [2025-07-24, 00:53:45](https://news.ycombinator.com/item?id=44665704) - [Vintage Macintosh Programming Book Library (2017)](https://vintageapple.org/macprogramming/index_year.html)
 * [2025-07-23, 23:56:25](https://news.ycombinator.com/item?id=44665373) - [I drank every cocktail](https://aaronson.org/blog/i-drank-every-cocktail)
