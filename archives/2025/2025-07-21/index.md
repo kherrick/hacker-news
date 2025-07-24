@@ -81,6 +81,7 @@
 * [2025-07-21, 09:18:48](https://news.ycombinator.com/item?id=44633228) - [The Missing Guide to Prompt Engineering](https://appetals.com/promptguide/)
 * [2025-07-21, 08:21:42](https://news.ycombinator.com/item?id=44632904) - [Can Dave Hurwitz Save Classical Recording?](https://www.newyorker.com/culture/persons-of-interest/can-dave-hurwitz-save-classical-recording)
 * [2025-07-21, 08:19:29](https://news.ycombinator.com/item?id=44632890) - [Colodebug: A simple way to improve bash script debugging (2021)](https://johannes.truschnigg.info/writing/2021-12_colodebug/)
+* [2025-07-21, 08:01:27](https://news.ycombinator.com/item?id=44632783) - [The POSIX specification of vi](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html)
 * [2025-07-21, 07:52:20](https://news.ycombinator.com/item?id=44632739) - [Leprechauns, root causes, and other fairy tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/)
 * [2025-07-21, 07:40:01](https://news.ycombinator.com/item?id=44632674) - [I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
 * [2025-07-21, 07:20:55](https://news.ycombinator.com/item?id=44632575) - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
