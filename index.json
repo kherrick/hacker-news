@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-07-25, 18:11:21",
+      "https://news.ycombinator.com/item?id=44686317"
+    ],
+    [
+      "Vanilla JavaScript Support for Tailwind Plus – Tailwind CSS",
+      "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 18:05:46",
+      "https://news.ycombinator.com/item?id=44686246"
+    ],
+    [
+      "Monotonic and Wall Clock Time in the Go Time Package",
+      "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 17:59:25",
+      "https://news.ycombinator.com/item?id=44686164"
+    ],
+    [
+      "Animated Cursors",
+      "https://tattoy.sh/news/animated-cursors/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 17:36:25",
+      "https://news.ycombinator.com/item?id=44685875"
+    ],
+    [
+      "Never write your own Date Parsing Library",
+      "https://www.zachleat.com/web/adventures-in-date-parsing/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 17:35:29",
+      "https://news.ycombinator.com/item?id=44685869"
+    ],
+    [
+      "WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding",
+      "https://arxiv.org/abs/2507.12869"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 17:20:20",
       "https://news.ycombinator.com/item?id=44685669"
     ],
@@ -11,12 +61,12 @@
   ],
   [
     [
-      "2025-07-25, 17:17:11",
-      "https://news.ycombinator.com/item?id=44685616"
+      "2025-07-25, 17:17:33",
+      "https://news.ycombinator.com/item?id=44685627"
     ],
     [
-      "Guns and Violence",
-      "https://rajivsethi.substack.com/p/guns-violence"
+      "The Mythical Machine-Month Paradox – How much could AI change programming?",
+      "https://tucson-josh.com/posts/mythical-machine-month/"
     ]
   ],
   [
@@ -25,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44685587"
     ],
     [
-      "The sad state of font rendering on Linux",
+      "The sad state of font rendering on Linux (2018)",
       "https://pandasauce.org/post/linux-fonts/"
     ]
   ],
@@ -51,22 +101,32 @@
   ],
   [
     [
-      "2025-07-25, 16:47:08",
-      "https://news.ycombinator.com/item?id=44685222"
-    ],
-    [
-      "Tea App Users' Faces and IDs Reportedly Posted to 4chan in Security Breach",
-      "https://www.cnet.com/tech/services-and-software/tea-app-users-faces-and-ids-reportedly-posted-to-4chan-in-security-breach/"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 16:38:16",
       "https://news.ycombinator.com/item?id=44685119"
     ],
     [
-      "Why MIT Switched from Scheme to Python (2009)",
+      "Why MIT switched from Scheme to Python (2009)",
       "https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 16:36:29",
+      "https://news.ycombinator.com/item?id=44685101"
+    ],
+    [
+      "HTTP/1.1 Must Die",
+      "https://http1mustdie.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 16:32:32",
+      "https://news.ycombinator.com/item?id=44685067"
+    ],
+    [
+      "CO2 Battery",
+      "https://energydome.com/co2-battery/"
     ]
   ],
   [
@@ -141,21 +201,11 @@
   ],
   [
     [
-      "2025-07-25, 13:40:19",
-      "https://news.ycombinator.com/item?id=44683011"
-    ],
-    [
-      "Dwl: Dwm for Wayland",
-      "https://codeberg.org/dwl/dwl"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 13:35:09",
       "https://news.ycombinator.com/item?id=44682964"
     ],
     [
-      "It's DE9, Not DB9",
+      "It's a DE9, not a DB9 (but we know what you mean)",
       "https://news.sparkfun.com/14298"
     ]
   ],
@@ -175,28 +225,18 @@
       "https://news.ycombinator.com/item?id=44682465"
     ],
     [
-      "Up to date prices for LLM APIs all in one place",
+      "Show HN: Price Per Token – LLM API Pricing Data",
       "https://pricepertoken.com/"
     ]
   ],
   [
     [
-      "2025-07-25, 11:23:51",
-      "https://news.ycombinator.com/item?id=44681950"
+      "2025-07-25, 12:00:05",
+      "https://news.ycombinator.com/item?id=44682175"
     ],
     [
-      "Lisp project of the day",
-      "https://40ants.com/lisp-project-of-the-day/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 07:26:37",
-      "https://news.ycombinator.com/item?id=44680547"
-    ],
-    [
-      "Games Look Bad: HDR and Tone Mapping (2017)",
-      "https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/"
+      "The future is not self-hosted",
+      "https://www.drewlyton.com/story/the-future-is-not-self-hosted/"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2025-07-25, 05:28:40",
-      "https://news.ycombinator.com/item?id=44679854"
-    ],
-    [
-      "Google spoofed via DKIM replay attack: A technical breakdown",
-      "https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 01:40:11",
       "https://news.ycombinator.com/item?id=44678512"
     ],
@@ -231,12 +261,12 @@
   ],
   [
     [
-      "2025-07-24, 01:51:04",
-      "https://news.ycombinator.com/item?id=44666032"
+      "2025-07-24, 17:15:41",
+      "https://news.ycombinator.com/item?id=44673296"
     ],
     [
-      "When photography was born, fascination, obsession, and danger followed",
-      "https://www.washingtonpost.com/books/2025/07/12/flashes-brilliance-history-early-photography-anika-burgess-review/"
+      "Windsurf employee #2: I was given a payout of only 1% what my shares where worth",
+      "https://twitter.com/premqnair/status/1948420769945682413"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-07-21, 23:51:40",
-      "https://news.ycombinator.com/item?id=44641729"
+      "2025-07-23, 05:22:20",
+      "https://news.ycombinator.com/item?id=44655946"
     ],
     [
-      "Nvidia Launches Family of Open Reasoning AI Models: OpenReasoning Nemotron",
-      "https://nvidianews.nvidia.com/news/nvidia-launches-family-of-open-reasoning-ai-models-for-developers-and-enterprises-to-build-agentic-ai-platforms"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 21:29:02",
-      "https://news.ycombinator.com/item?id=44640618"
-    ],
-    [
-      "Neon Now Runs in VS Code",
-      "https://neon.com/blog/neon-now-runs-in-vs-code"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 20:40:42",
-      "https://news.ycombinator.com/item?id=44640143"
-    ],
-    [
-      "High-speed organic light-emitting diodes achieving 4-Gbps communication",
-      "https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-03/036005/High-speed-organic-light-emitting-diodes-based-on-dinaphthylperylene-achieving/10.1117/1.AP.7.3.036005.full"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 17:01:35",
-      "https://news.ycombinator.com/item?id=44637532"
-    ],
-    [
-      "Brazil central bank to launch Pix installment feature in September",
-      "https://www.reuters.com/technology/brazil-central-bank-launch-pix-installment-feature-september-2025-04-03/"
+      "Tamiya chairman Shunsaku Tamiya dies at 90",
+      "https://www.dailyexpress.com.my/news/263013/tamiya-chairman-shunsaku-tamiya-dies-at-90/"
     ]
   ]
 ]
