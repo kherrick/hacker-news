@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-25, 20:48:05](https://news.ycombinator.com/item?id=44688265) - [A Union Pacific-Norfolk Southern combination would redraw the railroad map](https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/)
 * [2025-07-25, 20:34:22](https://news.ycombinator.com/item?id=44688096) - [Experimental surgery performed by AI-driven surgical robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/)
 * [2025-07-25, 20:06:06](https://news.ycombinator.com/item?id=44687766) - [Google in 1999: Search Engines Escape the Portal Matrix](https://cybercultural.com/p/google-1999/)
 * [2025-07-25, 18:11:21](https://news.ycombinator.com/item?id=44686317) - [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
-* [2025-07-25, 18:03:01](https://news.ycombinator.com/item?id=44686209) - [The Tabs vs. Spaces war is over, and spaces have emerged victorious](https://xn--gckvb8fzb.com/tabs-vs-spaces-the-war-is-over/)
 * [2025-07-25, 17:59:25](https://news.ycombinator.com/item?id=44686164) - [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
 * [2025-07-25, 17:36:25](https://news.ycombinator.com/item?id=44685875) - [Never write your own date parsing library](https://www.zachleat.com/web/adventures-in-date-parsing/)
 * [2025-07-25, 17:35:29](https://news.ycombinator.com/item?id=44685869) - [WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding](https://arxiv.org/abs/2507.12869)

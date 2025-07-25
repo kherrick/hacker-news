@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 20:48:05](https://news.ycombinator.com/item?id=44688265) - [A Union Pacific-Norfolk Southern combination would redraw the railroad map](https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/)
 * [2025-07-25, 20:34:22](https://news.ycombinator.com/item?id=44688096) - [Experimental surgery performed by AI-driven surgical robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/)
 * [2025-07-25, 20:06:06](https://news.ycombinator.com/item?id=44687766) - [Google in 1999: Search Engines Escape the Portal Matrix](https://cybercultural.com/p/google-1999/)
 * [2025-07-25, 19:28:51](https://news.ycombinator.com/item?id=44687326) - [Stackless Traversal (2018)](https://www.dyalog.com/blog/2018/01/stackless-traversal/)
