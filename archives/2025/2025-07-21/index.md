@@ -72,6 +72,7 @@
 * [2025-07-21, 13:26:45](https://news.ycombinator.com/item?id=44634828) - [The dawn of quantum advantage](https://www.ibm.com/quantum/blog/quantum-advantage-era)
 * [2025-07-21, 13:18:47](https://news.ycombinator.com/item?id=44634756) - [(Python) Poste Italiane document parser](https://github.com/genbs/poste-italiane-parser)
 * [2025-07-21, 13:15:24](https://news.ycombinator.com/item?id=44634734) - [Cryptocurrency exchanges begin offering tokenized securities](https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018)
+* [2025-07-21, 13:10:59](https://news.ycombinator.com/item?id=44634688) - [Show HN: MCP server for up-to-date Zig standard library documentation](https://github.com/zig-wasm/zig-mcp)
 * [2025-07-21, 12:59:56](https://news.ycombinator.com/item?id=44634598) - [Positron – A next-generation data science IDE](https://positron.posit.co/)
 * [2025-07-21, 12:57:26](https://news.ycombinator.com/item?id=44634576) - [Why concatenative programming matters (2012)](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 * [2025-07-21, 12:44:59](https://news.ycombinator.com/item?id=44634469) - [Developing with Kiro: Amazon's New Agentic IDE](https://yehudacohen.substack.com/p/developing-with-kiro-amazons-new)
