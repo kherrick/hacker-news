@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-25, 03:49:10](https://news.ycombinator.com/item?id=44679406) - [Against the Censorship of Adult Content by Payment Processors](https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/)
+* [2025-07-25, 03:49:10](https://news.ycombinator.com/item?id=44679406) - [Against the censorship of adult content by payment processors](https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/)
 * [2025-07-25, 02:50:32](https://news.ycombinator.com/item?id=44679048) - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
 * [2025-07-25, 01:43:27](https://news.ycombinator.com/item?id=44678535) - [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
-* [2025-07-25, 00:39:55](https://news.ycombinator.com/item?id=44678112) - [Alto turns your Apple Notes into a website](https://alto.so/)
+* [2025-07-25, 00:39:55](https://news.ycombinator.com/item?id=44678112) - [Alto turns Apple Notes into a website](https://alto.so/)
 * [2025-07-24, 22:14:20](https://news.ycombinator.com/item?id=44676961) - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
 * [2025-07-24, 21:59:19](https://news.ycombinator.com/item?id=44676817) - [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
 * [2025-07-24, 21:48:53](https://news.ycombinator.com/item?id=44676691) - [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
