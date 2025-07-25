@@ -6,6 +6,7 @@
 
 * [2025-07-25, 14:41:03](https://news.ycombinator.com/item?id=44683682) - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 14:25:53](https://news.ycombinator.com/item?id=44683490) - [Show HN: The Montana MiniComputer](https://mtmc.cs.montana.edu/)
+* [2025-07-25, 14:25:30](https://news.ycombinator.com/item?id=44683481) - [Google's shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
 * [2025-07-25, 14:22:35](https://news.ycombinator.com/item?id=44683447) - [Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside](https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756)
 * [2025-07-25, 13:53:51](https://news.ycombinator.com/item?id=44683148) - [Meta to stop running political ads on Facebook and Instagram in the EU](https://www.euractiv.com/section/tech/news/meta-to-stop-running-political-ads-on-facebook-and-instagram/)
 * [2025-07-25, 13:40:19](https://news.ycombinator.com/item?id=44683011) - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
