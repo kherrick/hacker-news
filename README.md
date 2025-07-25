@@ -23,13 +23,13 @@
 * [2025-07-21, 15:42:39](https://news.ycombinator.com/item?id=44636534) - [Modernish – A library for writing programs for POSIX-based shells and utilities](https://github.com/modernish/modernish)
 * [2025-07-21, 14:49:28](https://news.ycombinator.com/item?id=44635783) - [Finding Robert Bogucki, the man who disappeared on purpose](https://www.abc.net.au/news/2025-07-06/robert-bogucki-nowhere-man-on-his-43-days-in-the-desert/105234668)
 * [2025-07-21, 12:59:56](https://news.ycombinator.com/item?id=44634598) - [Positron – A next-generation data science IDE](https://positron.posit.co/)
+* [2025-07-21, 12:57:26](https://news.ycombinator.com/item?id=44634576) - [Why concatenative programming matters (2012)](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 * [2025-07-21, 12:44:59](https://news.ycombinator.com/item?id=44634469) - [Developing with Kiro: Amazon's New Agentic IDE](https://yehudacohen.substack.com/p/developing-with-kiro-amazons-new)
 * [2025-07-21, 12:04:49](https://news.ycombinator.com/item?id=44634208) - [Mwm – The smallest usable X11 window manager](https://github.com/lslvr/mwm)
 * [2025-07-21, 11:56:35](https://news.ycombinator.com/item?id=44634143) - [Show HN: tsbro – TypeScript for the Browser, No Build Step](https://github.com/stagas/tsbro)
 * [2025-07-21, 08:42:05](https://news.ycombinator.com/item?id=44633024) - [RE#: High performance derivative-based regular expression matching (2024)](https://arxiv.org/abs/2407.20479)
 * [2025-07-21, 08:01:27](https://news.ycombinator.com/item?id=44632783) - [The POSIX specification of vi](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html)
 * [2025-07-21, 07:40:01](https://news.ycombinator.com/item?id=44632674) - [I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
-* [2025-07-20, 14:24:02](https://news.ycombinator.com/item?id=44625493) - [Bus Bunching](https://www.futilitycloset.com/2025/07/12/bus-bunching/)
 
 ## [Archives](archives/index.md)
 
