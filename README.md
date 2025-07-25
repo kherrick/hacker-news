@@ -1,12 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-25, 08:09:58](https://news.ycombinator.com/item?id=44680842) - [XMPP: When a 25-Year-Old Protocol Becomes Strategic Again](https://www.process-one.net/blog/xmpp-when-a-25-year-old-protocol-becomes-strategic-again/)
 * [2025-07-25, 07:26:37](https://news.ycombinator.com/item?id=44680547) - [Games Look Bad: HDR and Tone Mapping](https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/)
 * [2025-07-25, 06:47:07](https://news.ycombinator.com/item?id=44680308) - [Terence Tao: Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
 * [2025-07-25, 05:28:40](https://news.ycombinator.com/item?id=44679854) - [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
 * [2025-07-25, 02:50:32](https://news.ycombinator.com/item?id=44679048) - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
 * [2025-07-25, 01:40:11](https://news.ycombinator.com/item?id=44678512) - [Celebrating 20 Years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
-* [2025-07-25, 00:39:55](https://news.ycombinator.com/item?id=44678112) - [Alto turns Apple Notes into a website](https://alto.so/)
 * [2025-07-24, 22:14:20](https://news.ycombinator.com/item?id=44676961) - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
 * [2025-07-24, 21:59:19](https://news.ycombinator.com/item?id=44676817) - [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
 * [2025-07-24, 21:48:53](https://news.ycombinator.com/item?id=44676691) - [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
@@ -16,6 +14,7 @@
 * [2025-07-24, 20:19:57](https://news.ycombinator.com/item?id=44675553) - [Inter-Planetary Network Special Interest Group](https://www.ipnsig.org)
 * [2025-07-24, 18:16:03](https://news.ycombinator.com/item?id=44674123) - [Air Force unit suspends use of Sig Sauer pistol after shooting death of airman](https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death)
 * [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
+* [2025-07-24, 15:05:12](https://news.ycombinator.com/item?id=44671601) - [Show HN: Nia – MCP server that gives more docs and repos to coding agents](https://www.trynia.ai/)
 * [2025-07-24, 14:57:05](https://news.ycombinator.com/item?id=44671484) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
 * [2025-07-24, 14:48:04](https://news.ycombinator.com/item?id=44671373) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
 * [2025-07-24, 12:47:29](https://news.ycombinator.com/item?id=44669998) - [Vet is a safety net for the curl | bash pattern](https://github.com/vet-run/vet)
@@ -28,6 +27,7 @@
 * [2025-07-21, 12:04:49](https://news.ycombinator.com/item?id=44634208) - [Mwm – The smallest usable X11 window manager](https://github.com/lslvr/mwm)
 * [2025-07-21, 11:56:35](https://news.ycombinator.com/item?id=44634143) - [Show HN: tsbro – TypeScript for the Browser, No Build Step](https://github.com/stagas/tsbro)
 * [2025-07-21, 08:42:05](https://news.ycombinator.com/item?id=44633024) - [RE#: High performance derivative-based regular expression matching (2024)](https://arxiv.org/abs/2407.20479)
+* [2025-07-21, 08:01:27](https://news.ycombinator.com/item?id=44632783) - [The POSIX specification of vi](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html)
 * [2025-07-21, 07:40:01](https://news.ycombinator.com/item?id=44632674) - [I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
 * [2025-07-20, 14:24:02](https://news.ycombinator.com/item?id=44625493) - [Bus Bunching](https://www.futilitycloset.com/2025/07/12/bus-bunching/)
 
