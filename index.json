@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-07-25, 13:30:54",
+      "https://news.ycombinator.com/item?id=44682932"
+    ],
+    [
+      "Who has the fastest F1 website (2021)",
+      "https://jakearchibald.com/2021/f1-perf-part-3/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 12:39:41",
       "https://news.ycombinator.com/item?id=44682465"
     ],
     [
       "Up to date prices for LLM APIs all in one place",
       "https://pricepertoken.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 12:00:05",
+      "https://news.ycombinator.com/item?id=44682175"
+    ],
+    [
+      "The future is not self-hosted",
+      "https://www.drewlyton.com/story/the-future-is-not-self-hosted/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 11:23:51",
+      "https://news.ycombinator.com/item?id=44681950"
+    ],
+    [
+      "Lisp Project of the Day",
+      "https://40ants.com/lisp-project-of-the-day/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 10:47:07",
+      "https://news.ycombinator.com/item?id=44681740"
+    ],
+    [
+      "My website is one binary (2022)",
+      "https://j3s.sh/thought/my-website-is-one-binary.html"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2025-07-24, 22:14:20",
-      "https://news.ycombinator.com/item?id=44676961"
-    ],
-    [
-      "A GPU Calculator That Helps Calculate What GPU to Use",
-      "https://calculator.inference.ai/"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 21:59:19",
       "https://news.ycombinator.com/item?id=44676817"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-07-24, 21:20:01",
-      "https://news.ycombinator.com/item?id=44676315"
-    ],
-    [
-      "New Aarch64 Back End",
-      "https://ziglang.org/devlog/2025/#2025-07-23"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 20:19:57",
       "https://news.ycombinator.com/item?id=44675553"
     ],
@@ -147,36 +167,6 @@
     [
       "There is no memory safety without thread safety",
       "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 14:57:05",
-      "https://news.ycombinator.com/item?id=44671484"
-    ],
-    [
-      "Use Your Type System",
-      "https://www.dzombak.com/blog/2025/07/use-your-type-system/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 14:48:04",
-      "https://news.ycombinator.com/item?id=44671373"
-    ],
-    [
-      "PSA: SQLite WAL checksums fail silently and may lose data",
-      "https://avi.im/blag/2025/sqlite-wal-checksum/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 12:29:35",
-      "https://news.ycombinator.com/item?id=44669858"
-    ],
-    [
-      "Open Source Maintenance Fee",
-      "https://github.com/wixtoolset/issues/issues/8974"
     ]
   ],
   [
@@ -225,8 +215,18 @@
       "https://news.ycombinator.com/item?id=44638661"
     ],
     [
-      "Rapidus Starts 2nm Gate All Around Prototype Production at IIM-1 – ServeTheHome",
+      "Rapidus Starts 2nm Gate All Around Prototype Production at IIM-1",
       "https://www.servethehome.com/rapidus-starts-2nm-gate-all-around-prototype-production-at-iim-1/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 17:01:35",
+      "https://news.ycombinator.com/item?id=44637532"
+    ],
+    [
+      "Brazil central bank to launch Pix installment feature in September",
+      "https://www.reuters.com/technology/brazil-central-bank-launch-pix-installment-feature-september-2025-04-03/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-07-21, 11:56:35",
-      "https://news.ycombinator.com/item?id=44634143"
+      "2025-07-21, 12:44:59",
+      "https://news.ycombinator.com/item?id=44634469"
     ],
     [
-      "Show HN: Tsbro – TypeScript for the browser, no build step",
-      "https://github.com/stagas/tsbro"
+      "Developing with Kiro: Amazon's New Agentic IDE",
+      "https://yehudacohen.substack.com/p/developing-with-kiro-amazons-new"
     ]
   ],
   [
