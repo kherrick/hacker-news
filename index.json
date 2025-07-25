@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-07-25, 08:16:41",
-      "https://news.ycombinator.com/item?id=44680881"
-    ],
-    [
-      "Open Source Hackathon 2025",
-      "https://osshackathon.com"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 07:26:37",
       "https://news.ycombinator.com/item?id=44680547"
     ],
@@ -51,12 +41,32 @@
   ],
   [
     [
+      "2025-07-25, 03:49:10",
+      "https://news.ycombinator.com/item?id=44679406"
+    ],
+    [
+      "Against the censorship of adult content by payment processors",
+      "https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 02:50:32",
       "https://news.ycombinator.com/item?id=44679048"
     ],
     [
       "Asciinema: Record and share your terminal sessions",
       "https://asciinema.org"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 01:43:27",
+      "https://news.ycombinator.com/item?id=44678535"
+    ],
+    [
+      "How Anthropic teams use Claude Code",
+      "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-07-24, 18:16:03",
-      "https://news.ycombinator.com/item?id=44674123"
-    ],
-    [
-      "Air Force unit suspends use of Sig Sauer pistol after shooting death of airman",
-      "https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 15:35:39",
       "https://news.ycombinator.com/item?id=44672003"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
+      "2025-07-23, 17:23:23",
+      "https://news.ycombinator.com/item?id=44661673"
+    ],
+    [
+      "Show HN: Apple Health MCP Server",
+      "https://github.com/neiltron/apple-health-mcp"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 19:43:18",
       "https://news.ycombinator.com/item?id=44639563"
     ],
     [
       "Nuclear Reactor SIM by PeteTimesSix",
       "https://petetimessix.itch.io/nuclear-reactors"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 17:01:35",
-      "https://news.ycombinator.com/item?id=44637532"
-    ],
-    [
-      "Brazil central bank to launch Pix installment feature in September",
-      "https://www.reuters.com/technology/brazil-central-bank-launch-pix-installment-feature-september-2025-04-03/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-07-21, 13:10:59",
+      "https://news.ycombinator.com/item?id=44634688"
+    ],
+    [
+      "Show HN: MCP server for up-to-date Zig standard library documentation",
+      "https://github.com/zig-wasm/zig-mcp"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 12:59:56",
       "https://news.ycombinator.com/item?id=44634598"
     ],
@@ -257,16 +267,6 @@
     [
       "Developing with Kiro: Amazon's New Agentic IDE",
       "https://yehudacohen.substack.com/p/developing-with-kiro-amazons-new"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 12:04:49",
-      "https://news.ycombinator.com/item?id=44634208"
-    ],
-    [
-      "Mwm – The smallest usable X11 window manager",
-      "https://github.com/lslvr/mwm"
     ]
   ],
   [
