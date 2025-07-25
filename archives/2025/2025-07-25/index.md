@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 16:32:32](https://news.ycombinator.com/item?id=44685067) - [CO2 Battery](https://energydome.com/co2-battery/)
+* [2025-07-25, 16:28:55](https://news.ycombinator.com/item?id=44685027) - [Good Docs Describe, Bad Docs Prescribe](https://rethinkingsoftware.substack.com/p/good-docs-describe-bad-docs-prescribe)
 * [2025-07-25, 16:02:23](https://news.ycombinator.com/item?id=44684720) - [Show HN: A macOS clock that stays visible when coding or binging in fullscreen](https://cornertime.app/en)
+* [2025-07-25, 15:36:52](https://news.ycombinator.com/item?id=44684373) - [Women dating safety app 'Tea' breached, users' IDs posted to 4chan](https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/)
 * [2025-07-25, 15:25:23](https://news.ycombinator.com/item?id=44684212) - [Quantum Scientists Have Built a New Math of Cryptography](https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/)
+* [2025-07-25, 15:22:02](https://news.ycombinator.com/item?id=44684168) - [nullable but not null](https://efe.me/posts/nullable-but-not-null/)
 * [2025-07-25, 14:41:03](https://news.ycombinator.com/item?id=44683682) - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 14:25:53](https://news.ycombinator.com/item?id=44683490) - [Show HN: The Montana MiniComputer](https://mtmc.cs.montana.edu/)
 * [2025-07-25, 14:25:30](https://news.ycombinator.com/item?id=44683481) - [Google's shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
