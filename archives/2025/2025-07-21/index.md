@@ -87,6 +87,7 @@
 * [2025-07-21, 11:22:31](https://news.ycombinator.com/item?id=44633902) - [France launches criminal probe of X over alleged algorithm ‘manipulation’](https://www.ft.com/content/21818d23-71d7-45a4-ae8c-e7940f5d9e00)
 * [2025-07-21, 11:06:48](https://news.ycombinator.com/item?id=44633809) - [Global earthquake detection and warning using Android phones](https://doi.org/10.1126/science.ads4779)
 * [2025-07-21, 10:58:21](https://news.ycombinator.com/item?id=44633758) - [Linux Distros for Gaming: CachyOS Takes Over, According to ProtonDB](https://boilingsteam.com/distro-for-gaming-cachy-os-takes-over/)
+* [2025-07-21, 10:39:29](https://news.ycombinator.com/item?id=44633648) - [3-JSON](https://rgbcu.be/blog/3-json/)
 * [2025-07-21, 10:23:40](https://news.ycombinator.com/item?id=44633562) - [Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications](https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year)
 * [2025-07-21, 10:21:34](https://news.ycombinator.com/item?id=44633549) - [Show HN: Intercepting proxy for semantic search over visited pages](https://github.com/mlang/llm-embed-proxy)
 * [2025-07-21, 10:17:21](https://news.ycombinator.com/item?id=44633522) - [Show HN: Easy Python Time Parsing](https://github.com/felixnext/python-time-helper)
