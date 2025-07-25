@@ -6,6 +6,7 @@
 
 * [2025-07-21, 23:51:40](https://news.ycombinator.com/item?id=44641729) - [Nvidia Launches Family of Open Reasoning AI Models: OpenReasoning Nemotron](https://nvidianews.nvidia.com/news/nvidia-launches-family-of-open-reasoning-ai-models-for-developers-and-enterprises-to-build-agentic-ai-platforms)
 * [2025-07-21, 23:45:15](https://news.ycombinator.com/item?id=44641669) - [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
+* [2025-07-21, 23:44:47](https://news.ycombinator.com/item?id=44641667) - [Trucking's uneasy relationship with new tech](https://www.bbc.com/news/articles/c5yeyn4gl80o)
 * [2025-07-21, 23:26:40](https://news.ycombinator.com/item?id=44641521) - [uv Running a Script with Dependencies](https://docs.astral.sh/uv/guides/scripts/)
 * [2025-07-21, 23:26:40](https://news.ycombinator.com/item?id=44641521) - [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
 * [2025-07-21, 23:18:14](https://news.ycombinator.com/item?id=44641464) - [FCC to eliminate gigabit speed goal and scrap analysis of broadband prices](https://arstechnica.com/civis/threads/fcc-to-eliminate-gigabit-speed-goal-and-scrap-analysis-of-broadband-prices.1508451/page-2)

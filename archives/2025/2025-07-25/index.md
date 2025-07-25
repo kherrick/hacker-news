@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 18:41:15](https://news.ycombinator.com/item?id=44686702) - [Dwm Commented](https://github.com/bakkeby/dwm-commented)
+* [2025-07-25, 18:37:47](https://news.ycombinator.com/item?id=44686662) - [The \"computer janitor\" of the Manhattan project](https://www.allaboutcircuits.com/news/richard-hamming-the-computer-janitor-of-the-manhattan-project/)
 * [2025-07-25, 18:11:21](https://news.ycombinator.com/item?id=44686317) - [Vanilla JavaScript Support for Tailwind Plus – Tailwind CSS](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
 * [2025-07-25, 18:05:46](https://news.ycombinator.com/item?id=44686246) - [Monotonic and Wall Clock Time in the Go Time Package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html)
+* [2025-07-25, 18:03:01](https://news.ycombinator.com/item?id=44686209) - [Tabs vs. Spaces: The War Is Over](https://xn--gckvb8fzb.com/tabs-vs-spaces-the-war-is-over/)
 * [2025-07-25, 17:59:25](https://news.ycombinator.com/item?id=44686164) - [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
 * [2025-07-25, 17:36:25](https://news.ycombinator.com/item?id=44685875) - [Never write your own Date Parsing Library](https://www.zachleat.com/web/adventures-in-date-parsing/)
 * [2025-07-25, 17:35:29](https://news.ycombinator.com/item?id=44685869) - [WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding](https://arxiv.org/abs/2507.12869)
