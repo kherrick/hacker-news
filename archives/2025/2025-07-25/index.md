@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 16:47:08](https://news.ycombinator.com/item?id=44685222) - [Tea App Users' Faces and IDs Reportedly Posted to 4chan in Security Breach](https://www.cnet.com/tech/services-and-software/tea-app-users-faces-and-ids-reportedly-posted-to-4chan-in-security-breach/)
+* [2025-07-25, 16:38:16](https://news.ycombinator.com/item?id=44685119) - [Why MIT Switched from Scheme to Python (2009)](https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python)
 * [2025-07-25, 16:32:32](https://news.ycombinator.com/item?id=44685067) - [CO2 Battery](https://energydome.com/co2-battery/)
 * [2025-07-25, 16:28:55](https://news.ycombinator.com/item?id=44685027) - [Good Docs Describe, Bad Docs Prescribe](https://rethinkingsoftware.substack.com/p/good-docs-describe-bad-docs-prescribe)
+* [2025-07-25, 16:27:51](https://news.ycombinator.com/item?id=44685011) - [Steam, Itch.io Are Pulling 'Porn' Games. Critics Say It's a Slippery Slope](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
 * [2025-07-25, 16:02:23](https://news.ycombinator.com/item?id=44684720) - [Show HN: A macOS clock that stays visible when coding or binging in fullscreen](https://cornertime.app/en)
 * [2025-07-25, 15:36:52](https://news.ycombinator.com/item?id=44684373) - [Women dating safety app 'Tea' breached, users' IDs posted to 4chan](https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/)
 * [2025-07-25, 15:25:23](https://news.ycombinator.com/item?id=44684212) - [Quantum Scientists Have Built a New Math of Cryptography](https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/)
