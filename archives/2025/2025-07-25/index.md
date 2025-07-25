@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
 * [2025-07-25, 10:16:26](https://news.ycombinator.com/item?id=44681565) - [Qwen3-235B-A22B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507)
+* [2025-07-25, 08:16:41](https://news.ycombinator.com/item?id=44680881) - [Open Source Hackathon 2025](https://osshackathon.com)
 * [2025-07-25, 08:09:58](https://news.ycombinator.com/item?id=44680842) - [XMPP: When a 25-Year-Old Protocol Becomes Strategic Again](https://www.process-one.net/blog/xmpp-when-a-25-year-old-protocol-becomes-strategic-again/)
 * [2025-07-25, 07:26:37](https://news.ycombinator.com/item?id=44680547) - [Games Look Bad: HDR and Tone Mapping](https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/)
 * [2025-07-25, 06:47:07](https://news.ycombinator.com/item?id=44680308) - [Terence Tao: Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
