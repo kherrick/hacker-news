@@ -59,6 +59,7 @@
 * [2025-07-21, 14:58:07](https://news.ycombinator.com/item?id=44635919) - [Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field](https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight)
 * [2025-07-21, 14:54:41](https://news.ycombinator.com/item?id=44635867) - [Occasionally USPS sends me pictures of other people's mail](https://the418.substack.com/p/a-bug-in-the-mail)
 * [2025-07-21, 14:51:13](https://news.ycombinator.com/item?id=44635808) - [Using MacBook's trackpad as digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
+* [2025-07-21, 14:49:28](https://news.ycombinator.com/item?id=44635783) - [Finding Robert Bogucki, the man who disappeared on purpose](https://www.abc.net.au/news/2025-07-06/robert-bogucki-nowhere-man-on-his-43-days-in-the-desert/105234668)
 * [2025-07-21, 14:46:40](https://news.ycombinator.com/item?id=44635745) - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
 * [2025-07-21, 14:42:11](https://news.ycombinator.com/item?id=44635676) - [No Cheese Please](https://www.lrb.co.uk/the-paper/v47/n13/anthony-grafton/no-cheese-please)
 * [2025-07-21, 14:39:23](https://news.ycombinator.com/item?id=44635640) - [Please, FOSS world, we need something like ChromeOS](https://www.theregister.com/2025/07/21/foss_chromeos_please/)

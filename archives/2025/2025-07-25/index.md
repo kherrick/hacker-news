@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 08:09:58](https://news.ycombinator.com/item?id=44680842) - [XMPP: When a 25-Year-Old Protocol Becomes Strategic Again](https://www.process-one.net/blog/xmpp-when-a-25-year-old-protocol-becomes-strategic-again/)
+* [2025-07-25, 07:26:37](https://news.ycombinator.com/item?id=44680547) - [Games Look Bad: HDR and Tone Mapping](https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/)
 * [2025-07-25, 06:47:07](https://news.ycombinator.com/item?id=44680308) - [Terence Tao: Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
 * [2025-07-25, 05:28:40](https://news.ycombinator.com/item?id=44679854) - [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
 * [2025-07-25, 03:49:10](https://news.ycombinator.com/item?id=44679406) - [Against the Censorship of Adult Content by Payment Processors](https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/)
