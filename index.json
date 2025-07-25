@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-25, 21:08:00",
+      "https://news.ycombinator.com/item?id=44688489"
+    ],
+    [
+      "It's time for modern CSS to kill the SPA",
+      "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 20:48:05",
       "https://news.ycombinator.com/item?id=44688265"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44687766"
     ],
     [
-      "Google in 1999: Search Engines Escape the Portal Matrix",
+      "Google in 1999: Search engines escape the portal matrix",
       "https://cybercultural.com/p/google-1999/"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "Women dating safety app 'Tea' breached, users' IDs posted to 4chan",
       "https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 15:22:02",
-      "https://news.ycombinator.com/item?id=44684168"
-    ],
-    [
-      "Nullable but not null",
-      "https://efe.me/posts/nullable-but-not-null/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=44661592"
     ],
     [
-      "Why Is There a Date of 1968 in the Intel Chipset Device Software Utility?",
+      "Why is there a date of 1968 in the Intel Chipset Device Software Utility?",
       "https://www.intel.com/content/www/us/en/support/articles/000095169/processors.html"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-07-21, 23:44:47",
-      "https://news.ycombinator.com/item?id=44641667"
+      "2025-07-23, 07:28:58",
+      "https://news.ycombinator.com/item?id=44656624"
     ],
     [
-      "Trucking's uneasy relationship with new tech",
-      "https://www.bbc.com/news/articles/c5yeyn4gl80o"
+      "Running PostmarketOS on Android Termux proot without flashing a custom ROM",
+      "https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/"
     ]
   ]
 ]
