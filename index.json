@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-25, 01:43:27",
+      "https://news.ycombinator.com/item?id=44678535"
+    ],
+    [
+      "Anthropic teams use Claude Code",
+      "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 01:23:43",
+      "https://news.ycombinator.com/item?id=44678426"
+    ],
+    [
+      "Ask HN: What is so good about MCP servers?",
+      "https://news.ycombinator.com/item?id=44678426"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 00:39:55",
+      "https://news.ycombinator.com/item?id=44678112"
+    ],
+    [
+      "Alto turns your Apple Notes into a website",
+      "https://alto.so/"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 22:14:20",
       "https://news.ycombinator.com/item?id=44676961"
     ],
@@ -17,16 +47,6 @@
     [
       "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
       "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 21:50:43",
-      "https://news.ycombinator.com/item?id=44676714"
-    ],
-    [
-      "The Secret Life of Fsync (2023)",
-      "https://puzpuzpuz.dev/the-secret-life-of-fsync"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-07-24, 12:00:13",
-      "https://news.ycombinator.com/item?id=44669631"
-    ],
-    [
-      "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
-      "https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 19:34:56",
       "https://news.ycombinator.com/item?id=44663074"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-07-21, 11:50:59",
-      "https://news.ycombinator.com/item?id=44634110"
-    ],
-    [
-      "AI groups spend to replace low-cost 'data labellers' with high-paid experts",
-      "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 11:39:48",
       "https://news.ycombinator.com/item?id=44634030"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-07-21, 10:17:21",
-      "https://news.ycombinator.com/item?id=44633522"
+      "2025-07-21, 08:42:05",
+      "https://news.ycombinator.com/item?id=44633024"
     ],
     [
-      "Show HN: Easy Python Time Parsing",
-      "https://github.com/felixnext/python-time-helper"
+      "RE#: High performance derivative-based regular expression matching (2024)",
+      "https://arxiv.org/abs/2407.20479"
     ]
   ],
   [
