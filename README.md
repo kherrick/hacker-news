@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-25, 21:08:00](https://news.ycombinator.com/item?id=44688489) - [It's time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
 * [2025-07-25, 20:48:05](https://news.ycombinator.com/item?id=44688265) - [A Union Pacific-Norfolk Southern combination would redraw the railroad map](https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/)
 * [2025-07-25, 20:34:22](https://news.ycombinator.com/item?id=44688096) - [Experimental surgery performed by AI-driven surgical robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/)
-* [2025-07-25, 20:06:06](https://news.ycombinator.com/item?id=44687766) - [Google in 1999: Search Engines Escape the Portal Matrix](https://cybercultural.com/p/google-1999/)
+* [2025-07-25, 20:06:06](https://news.ycombinator.com/item?id=44687766) - [Google in 1999: Search engines escape the portal matrix](https://cybercultural.com/p/google-1999/)
 * [2025-07-25, 18:11:21](https://news.ycombinator.com/item?id=44686317) - [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
 * [2025-07-25, 17:59:25](https://news.ycombinator.com/item?id=44686164) - [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
 * [2025-07-25, 17:36:25](https://news.ycombinator.com/item?id=44685875) - [Never write your own date parsing library](https://www.zachleat.com/web/adventures-in-date-parsing/)
@@ -14,7 +15,6 @@
 * [2025-07-25, 16:30:44](https://news.ycombinator.com/item?id=44685050) - [Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
 * [2025-07-25, 16:27:51](https://news.ycombinator.com/item?id=44685011) - [Steam, Itch.io are pulling ‘porn’ games. Critics say it's a slippery slope](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
 * [2025-07-25, 15:36:52](https://news.ycombinator.com/item?id=44684373) - [Women dating safety app 'Tea' breached, users' IDs posted to 4chan](https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/)
-* [2025-07-25, 15:22:02](https://news.ycombinator.com/item?id=44684168) - [Nullable but not null](https://efe.me/posts/nullable-but-not-null/)
 * [2025-07-25, 14:41:03](https://news.ycombinator.com/item?id=44683682) - [Programming vehicles in games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 13:40:19](https://news.ycombinator.com/item?id=44683011) - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
@@ -26,10 +26,10 @@
 * [2025-07-24, 02:45:07](https://news.ycombinator.com/item?id=44666353) - [How to Catch a Wily Poacher in a Sting: A Thermal Robotic Deer](https://www.wsj.com/us-news/how-to-catch-a-wily-poacher-in-a-sting-a-thermal-robotic-deer-ffef0fa8)
 * [2025-07-23, 19:34:26](https://news.ycombinator.com/item?id=44663072) - [Developing our position on AI](https://www.recurse.com/blog/191-developing-our-position-on-ai)
 * [2025-07-23, 17:23:23](https://news.ycombinator.com/item?id=44661673) - [Show HN: Apple Health MCP Server](https://github.com/neiltron/apple-health-mcp)
-* [2025-07-23, 17:14:50](https://news.ycombinator.com/item?id=44661592) - [Why Is There a Date of 1968 in the Intel Chipset Device Software Utility?](https://www.intel.com/content/www/us/en/support/articles/000095169/processors.html)
+* [2025-07-23, 17:14:50](https://news.ycombinator.com/item?id=44661592) - [Why is there a date of 1968 in the Intel Chipset Device Software Utility?](https://www.intel.com/content/www/us/en/support/articles/000095169/processors.html)
 * [2025-07-23, 09:16:26](https://news.ycombinator.com/item?id=44657188) - [Researchers value null results, but struggle to publish them](https://www.nature.com/articles/d41586-025-02312-4)
 * [2025-07-23, 07:40:26](https://news.ycombinator.com/item?id=44656684) - [Steve Jobs' cabinet](https://perfectdays23.substack.com/p/steve-jobs-cabinet)
-* [2025-07-21, 23:44:47](https://news.ycombinator.com/item?id=44641667) - [Trucking's uneasy relationship with new tech](https://www.bbc.com/news/articles/c5yeyn4gl80o)
+* [2025-07-23, 07:28:58](https://news.ycombinator.com/item?id=44656624) - [Running PostmarketOS on Android Termux proot without flashing a custom ROM](https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/)
 
 ## [Archives](archives/index.md)
 
