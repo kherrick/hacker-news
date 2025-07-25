@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-07-25, 01:43:27",
-      "https://news.ycombinator.com/item?id=44678535"
-    ],
-    [
-      "How Anthropic teams use Claude Code",
-      "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 01:40:11",
       "https://news.ycombinator.com/item?id=44678512"
     ],
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2025-07-21, 13:26:45",
-      "https://news.ycombinator.com/item?id=44634828"
-    ],
-    [
-      "The dawn of quantum advantage",
-      "https://www.ibm.com/quantum/blog/quantum-advantage-era"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 12:59:56",
       "https://news.ycombinator.com/item?id=44634598"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2025-07-21, 11:56:35",
+      "https://news.ycombinator.com/item?id=44634143"
+    ],
+    [
+      "Show HN: tsbro – TypeScript for the Browser, No Build Step",
+      "https://github.com/stagas/tsbro"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 08:42:05",
       "https://news.ycombinator.com/item?id=44633024"
     ],
     [
       "RE#: High performance derivative-based regular expression matching (2024)",
       "https://arxiv.org/abs/2407.20479"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 08:01:27",
+      "https://news.ycombinator.com/item?id=44632783"
+    ],
+    [
+      "The POSIX specification of vi",
+      "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html"
     ]
   ],
   [
