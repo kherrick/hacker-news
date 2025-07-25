@@ -62,6 +62,7 @@
 * [2025-07-23, 09:33:23](https://news.ycombinator.com/item?id=44657291) - [Brave blocks Microsoft Recall by default](https://brave.com/privacy-updates/35-block-recall/)
 * [2025-07-23, 09:16:26](https://news.ycombinator.com/item?id=44657188) - [Researchers value null results, but struggle to publish them](https://www.nature.com/articles/d41586-025-02312-4)
 * [2025-07-23, 09:07:31](https://news.ycombinator.com/item?id=44657133) - [How to Start Prop Firm Trading with Minimal Capital?](https://propfirmplus.com/)
+* [2025-07-23, 07:40:26](https://news.ycombinator.com/item?id=44656684) - [Steve Jobs' Cabinet](https://perfectdays23.substack.com/p/steve-jobs-cabinet)
 * [2025-07-23, 07:34:30](https://news.ycombinator.com/item?id=44656654) - [Depot (YC W23) Is Hiring a Technical Content Writer (Remote)](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer)
 * [2025-07-23, 06:02:40](https://news.ycombinator.com/item?id=44656105) - [Rescuing two PDP-11s from a former British Telecom underground shelter (2023)](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
 * [2025-07-23, 05:54:21](https://news.ycombinator.com/item?id=44656073) - [Extending Emacs with Fennel (2024)](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
