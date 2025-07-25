@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-25, 03:49:10",
-      "https://news.ycombinator.com/item?id=44679406"
+      "2025-07-25, 05:28:40",
+      "https://news.ycombinator.com/item?id=44679854"
     ],
     [
-      "Against the censorship of adult content by payment processors",
-      "https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/"
+      "Google spoofed via DKIM replay attack: A technical breakdown",
+      "https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "How Anthropic teams use Claude Code",
       "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 01:40:11",
+      "https://news.ycombinator.com/item?id=44678512"
+    ],
+    [
+      "Celebrating 20 Years of MDN",
+      "https://developer.mozilla.org/en-US/blog/mdn-turns-20/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Modernish – A library for writing programs for POSIX-based shells and utilities",
       "https://github.com/modernish/modernish"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 15:20:49",
-      "https://news.ycombinator.com/item?id=44636240"
-    ],
-    [
-      "Covers as a way of learning music and code",
-      "https://ntietz.com/blog/covers-as-a-way-of-learning/"
     ]
   ],
   [
