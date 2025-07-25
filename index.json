@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-25, 22:47:52",
+      "https://news.ycombinator.com/item?id=44689402"
+    ],
+    [
+      "SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets",
+      "https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 22:07:09",
       "https://news.ycombinator.com/item?id=44689059"
     ],
@@ -177,16 +187,6 @@
     [
       "Who has the fastest F1 website (2021)",
       "https://jakearchibald.com/2021/f1-perf-part-3/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 12:57:31",
-      "https://news.ycombinator.com/item?id=44682626"
-    ],
-    [
-      "How to draw lambda diagrams (2020)",
-      "https://risingentropy.com/how-to-draw-lambda-diagrams/"
     ]
   ],
   [
