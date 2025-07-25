@@ -20,6 +20,7 @@
 * [2025-07-21, 20:17:08](https://news.ycombinator.com/item?id=44639949) - [Africa's gigantic $80B dam could transform entire continent](https://en.clickpetroleoegas.com.br/maior-que-a-barragem-tres-gargantas-da-china-o-gigantesco-megaprojeto-africano-de-us-80-bilhoes-que-pode-revolucionar-a-energia-e-transformar-um-continente-inteiro/)
 * [2025-07-21, 20:09:31](https://news.ycombinator.com/item?id=44639880) - [Robot scans rare library books at 2.5k pages per hour](https://www.popsci.com/technology/book-scanning-robot/)
 * [2025-07-21, 20:03:22](https://news.ycombinator.com/item?id=44639828) - [Kimi-K2 Tech Report [pdf]](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
+* [2025-07-21, 19:43:18](https://news.ycombinator.com/item?id=44639563) - [Nuclear Reactor SIM by PeteTimesSix](https://petetimessix.itch.io/nuclear-reactors)
 * [2025-07-21, 19:40:15](https://news.ycombinator.com/item?id=44639524) - [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
 * [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 * [2025-07-21, 19:09:37](https://news.ycombinator.com/item?id=44639135) - [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
