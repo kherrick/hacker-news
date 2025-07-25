@@ -2,7 +2,6 @@
 
 * [2025-07-25, 05:28:40](https://news.ycombinator.com/item?id=44679854) - [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
 * [2025-07-25, 02:50:32](https://news.ycombinator.com/item?id=44679048) - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
-* [2025-07-25, 01:43:27](https://news.ycombinator.com/item?id=44678535) - [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
 * [2025-07-25, 01:40:11](https://news.ycombinator.com/item?id=44678512) - [Celebrating 20 Years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 * [2025-07-25, 00:39:55](https://news.ycombinator.com/item?id=44678112) - [Alto turns Apple Notes into a website](https://alto.so/)
 * [2025-07-24, 22:14:20](https://news.ycombinator.com/item?id=44676961) - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
@@ -23,11 +22,12 @@
 * [2025-07-24, 12:29:35](https://news.ycombinator.com/item?id=44669858) - [Open Source Maintenance Fee](https://github.com/wixtoolset/issues/issues/8974)
 * [2025-07-23, 19:34:56](https://news.ycombinator.com/item?id=44663074) - [AMD CEO sees chips from TSMC's US plant costing 5%-20% more](https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more)
 * [2025-07-21, 15:42:39](https://news.ycombinator.com/item?id=44636534) - [Modernish – A library for writing programs for POSIX-based shells and utilities](https://github.com/modernish/modernish)
-* [2025-07-21, 13:26:45](https://news.ycombinator.com/item?id=44634828) - [The dawn of quantum advantage](https://www.ibm.com/quantum/blog/quantum-advantage-era)
 * [2025-07-21, 12:59:56](https://news.ycombinator.com/item?id=44634598) - [Positron – A next-generation data science IDE](https://positron.posit.co/)
 * [2025-07-21, 12:57:26](https://news.ycombinator.com/item?id=44634576) - [Why concatenative programming matters (2012)](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 * [2025-07-21, 12:04:49](https://news.ycombinator.com/item?id=44634208) - [Mwm – The smallest usable X11 window manager](https://github.com/lslvr/mwm)
+* [2025-07-21, 11:56:35](https://news.ycombinator.com/item?id=44634143) - [Show HN: tsbro – TypeScript for the Browser, No Build Step](https://github.com/stagas/tsbro)
 * [2025-07-21, 08:42:05](https://news.ycombinator.com/item?id=44633024) - [RE#: High performance derivative-based regular expression matching (2024)](https://arxiv.org/abs/2407.20479)
+* [2025-07-21, 08:01:27](https://news.ycombinator.com/item?id=44632783) - [The POSIX specification of vi](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html)
 * [2025-07-21, 07:40:01](https://news.ycombinator.com/item?id=44632674) - [I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
 * [2025-07-20, 14:24:02](https://news.ycombinator.com/item?id=44625493) - [Bus Bunching](https://www.futilitycloset.com/2025/07/12/bus-bunching/)
 

@@ -76,6 +76,7 @@
 * [2025-07-21, 12:16:42](https://news.ycombinator.com/item?id=44634266) - [What Happens When Housing Prices Go Down?](https://clmarohn.substack.com/p/what-happens-when-housing-prices)
 * [2025-07-21, 12:04:49](https://news.ycombinator.com/item?id=44634208) - [Lslvr/mwm: The smallest (usable) X11 window manager](https://github.com/lslvr/mwm)
 * [2025-07-21, 12:00:06](https://news.ycombinator.com/item?id=44634166) - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
+* [2025-07-21, 11:56:35](https://news.ycombinator.com/item?id=44634143) - [Show HN: tsbro – TypeScript for the Browser, No Build Step](https://github.com/stagas/tsbro)
 * [2025-07-21, 11:50:59](https://news.ycombinator.com/item?id=44634110) - [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)
 * [2025-07-21, 11:42:04](https://news.ycombinator.com/item?id=44634047) - [Herringbone Tiles](https://nothings.org/gamedev/herringbone/herringbone_tiles.html)
 * [2025-07-21, 11:39:48](https://news.ycombinator.com/item?id=44634030) - [Superfunctions: A universal solution against sync/async fragmentation in Python](https://github.com/pomponchik/transfunctions)
