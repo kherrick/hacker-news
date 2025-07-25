@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
 * [2025-07-25, 17:20:20](https://news.ycombinator.com/item?id=44685669) - [Implementing a Functional Language with Graph Reduction](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
+* [2025-07-25, 17:17:11](https://news.ycombinator.com/item?id=44685616) - [Guns and Violence](https://rajivsethi.substack.com/p/guns-violence)
 * [2025-07-25, 17:14:51](https://news.ycombinator.com/item?id=44685587) - [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)
 * [2025-07-25, 17:02:37](https://news.ycombinator.com/item?id=44685445) - [How to configure X11 in a simple way](https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html)
 * [2025-07-25, 16:56:04](https://news.ycombinator.com/item?id=44685342) - [Internet Archive Is Now a Federal Depository Library](https://www.kqed.org/news/12049420/sf-based-internet-archive-is-now-a-federal-depository-library-what-does-that-mean)

@@ -1,15 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-25, 17:20:20](https://news.ycombinator.com/item?id=44685669) - [Implementing a Functional Language with Graph Reduction](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
+* [2025-07-25, 17:17:11](https://news.ycombinator.com/item?id=44685616) - [Guns and Violence](https://rajivsethi.substack.com/p/guns-violence)
 * [2025-07-25, 17:14:51](https://news.ycombinator.com/item?id=44685587) - [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)
 * [2025-07-25, 17:02:37](https://news.ycombinator.com/item?id=44685445) - [How to configure X11 in a simple way](https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html)
 * [2025-07-25, 16:56:04](https://news.ycombinator.com/item?id=44685342) - [Internet Archive Is Now a Federal Depository Library](https://www.kqed.org/news/12049420/sf-based-internet-archive-is-now-a-federal-depository-library-what-does-that-mean)
 * [2025-07-25, 16:47:08](https://news.ycombinator.com/item?id=44685222) - [Tea App Users' Faces and IDs Reportedly Posted to 4chan in Security Breach](https://www.cnet.com/tech/services-and-software/tea-app-users-faces-and-ids-reportedly-posted-to-4chan-in-security-breach/)
 * [2025-07-25, 16:38:16](https://news.ycombinator.com/item?id=44685119) - [Why MIT Switched from Scheme to Python (2009)](https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python)
-* [2025-07-25, 16:32:32](https://news.ycombinator.com/item?id=44685067) - [CO2 Battery](https://energydome.com/co2-battery/)
 * [2025-07-25, 16:27:51](https://news.ycombinator.com/item?id=44685011) - [Steam, Itch.io Are Pulling 'Porn' Games. Critics Say It's a Slippery Slope](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
-* [2025-07-25, 16:02:23](https://news.ycombinator.com/item?id=44684720) - [Show HN: A macOS clock that stays visible when coding or binging in fullscreen](https://cornertime.app/en)
-* [2025-07-25, 15:36:52](https://news.ycombinator.com/item?id=44684373) - [Women dating safety app 'Tea' breached, users' IDs posted to 4chan](https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/)
 * [2025-07-25, 15:25:23](https://news.ycombinator.com/item?id=44684212) - [Quantum Scientists Have Built a New Math of Cryptography](https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/)
 * [2025-07-25, 15:22:02](https://news.ycombinator.com/item?id=44684168) - [nullable but not null](https://efe.me/posts/nullable-but-not-null/)
 * [2025-07-25, 14:41:03](https://news.ycombinator.com/item?id=44683682) - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
@@ -22,6 +20,7 @@
 * [2025-07-25, 07:26:37](https://news.ycombinator.com/item?id=44680547) - [Games Look Bad: HDR and Tone Mapping (2017)](https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/)
 * [2025-07-25, 06:47:07](https://news.ycombinator.com/item?id=44680308) - [Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
 * [2025-07-25, 05:28:40](https://news.ycombinator.com/item?id=44679854) - [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
+* [2025-07-25, 02:50:32](https://news.ycombinator.com/item?id=44679048) - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
 * [2025-07-25, 01:40:11](https://news.ycombinator.com/item?id=44678512) - [Celebrating 20 Years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 * [2025-07-24, 01:51:04](https://news.ycombinator.com/item?id=44666032) - [When photography was born, fascination, obsession, and danger followed](https://www.washingtonpost.com/books/2025/07/12/flashes-brilliance-history-early-photography-anika-burgess-review/)
 * [2025-07-23, 17:23:23](https://news.ycombinator.com/item?id=44661673) - [Show HN: Apple Health MCP Server](https://github.com/neiltron/apple-health-mcp)
@@ -30,6 +29,7 @@
 * [2025-07-21, 21:29:02](https://news.ycombinator.com/item?id=44640618) - [Neon Now Runs in VS Code](https://neon.com/blog/neon-now-runs-in-vs-code)
 * [2025-07-21, 20:40:42](https://news.ycombinator.com/item?id=44640143) - [High-speed organic light-emitting diodes achieving 4-Gbps communication](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-03/036005/High-speed-organic-light-emitting-diodes-based-on-dinaphthylperylene-achieving/10.1117/1.AP.7.3.036005.full)
 * [2025-07-21, 17:01:35](https://news.ycombinator.com/item?id=44637532) - [Brazil central bank to launch Pix installment feature in September](https://www.reuters.com/technology/brazil-central-bank-launch-pix-installment-feature-september-2025-04-03/)
+* [2025-07-21, 10:39:29](https://news.ycombinator.com/item?id=44633648) - [3-JSON](https://rgbcu.be/blog/3-json/)
 
 ## [Archives](archives/index.md)
 
