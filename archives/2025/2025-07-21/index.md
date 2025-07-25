@@ -51,6 +51,7 @@
 * [2025-07-21, 16:09:01](https://news.ycombinator.com/item?id=44636886) - [Comparison of MGR, SunView, OpenWindows and X11R6 (2022)](http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 * [2025-07-21, 15:59:40](https://news.ycombinator.com/item?id=44636774) - [Memory Efficiency in iOS: Reducing footprint and beyond](https://antongubarenko.substack.com/p/memory-efficiency-in-ios-reducing)
 * [2025-07-21, 15:54:03](https://news.ycombinator.com/item?id=44636691) - [SecretSpec: Declarative Secrets Management](https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/)
+* [2025-07-21, 15:42:39](https://news.ycombinator.com/item?id=44636534) - [modernish](https://github.com/modernish/modernish)
 * [2025-07-21, 15:31:21](https://news.ycombinator.com/item?id=44636369) - [Australian anti-porn group claims responsibility for Steams new censorship rules](https://www.pcgamer.com/gaming-industry/australian-anti-porn-group-claims-responsibility-for-steams-new-censorship-rules-in-victory-against-porn-sick-brain-rotted-pedo-gamer-fetishists-and-things-only-get-weirder-from-there/)
 * [2025-07-21, 15:23:25](https://news.ycombinator.com/item?id=44636277) - [Hegel Dust](https://www.bookforum.com/print/3201/hegel-dust-62209)
 * [2025-07-21, 15:20:49](https://news.ycombinator.com/item?id=44636240) - [Covers as a way of learning music and code](https://ntietz.com/blog/covers-as-a-way-of-learning/)
