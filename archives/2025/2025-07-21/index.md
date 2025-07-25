@@ -27,6 +27,7 @@
 * [2025-07-21, 18:52:26](https://news.ycombinator.com/item?id=44638948) - [I know genomes. Don't delete your DNA](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
 * [2025-07-21, 18:32:26](https://news.ycombinator.com/item?id=44638710) - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
 * [2025-07-21, 18:31:20](https://news.ycombinator.com/item?id=44638689) - [MIPS – The hyperactive history and legacy of the pioneering RISC architecture](https://thechipletter.substack.com/p/mips)
+* [2025-07-21, 18:28:55](https://news.ycombinator.com/item?id=44638661) - [Rapidus Starts 2nm Gate All Around Prototype Production at IIM-1 – ServeTheHome](https://www.servethehome.com/rapidus-starts-2nm-gate-all-around-prototype-production-at-iim-1/)
 * [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What Went Wrong Inside Recalled Anker PowerCore 10000 Power Banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
 * [2025-07-21, 18:16:10](https://news.ycombinator.com/item?id=44638510) - [Show HN: Lotas – Cursor for RStudio](https://www.lotas.ai/)
 * [2025-07-21, 18:16:07](https://news.ycombinator.com/item?id=44638509) - [What Will Become of the CIA?](https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review)
