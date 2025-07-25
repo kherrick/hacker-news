@@ -39,6 +39,7 @@
 * [2025-07-21, 17:16:44](https://news.ycombinator.com/item?id=44637716) - [Jqfmt like gofmt, but for jq](https://github.com/noperator/jqfmt)
 * [2025-07-21, 17:16:41](https://news.ycombinator.com/item?id=44637715) - [Don't bother parsing: Just use images for RAG](https://www.morphik.ai/blog/stop-parsing-docs)
 * [2025-07-21, 17:15:34](https://news.ycombinator.com/item?id=44637700) - [I deleted my entire social media presence before visiting the US – I'm a citizen](https://www.theregister.com/2025/07/21/column_social_media_entrapment/)
+* [2025-07-21, 17:01:35](https://news.ycombinator.com/item?id=44637532) - [Brazil central bank to launch Pix installment feature in September](https://www.reuters.com/technology/brazil-central-bank-launch-pix-installment-feature-september-2025-04-03/)
 * [2025-07-21, 17:01:06](https://news.ycombinator.com/item?id=44637523) - [Make Map Icons with Orthographic Projections](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/custom-orthographic-icons)
 * [2025-07-21, 16:56:36](https://news.ycombinator.com/item?id=44637464) - [Reverse Engineering the Mysterious Up-Data Link Test Set from Apollo](https://www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html)
 * [2025-07-21, 16:48:28](https://news.ycombinator.com/item?id=44637352) - [Accountant Simulator 2025](https://accounting.penrose.com/)
