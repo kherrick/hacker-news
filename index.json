@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-07-25, 10:55:11",
-      "https://news.ycombinator.com/item?id=44681786"
-    ],
-    [
-      "Google Opal",
-      "https://developers.googleblog.com/en/introducing-opal/"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 10:47:07",
       "https://news.ycombinator.com/item?id=44681740"
     ],
@@ -177,6 +167,16 @@
     [
       "Graphene OS: a security-enhanced Android build",
       "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 15:35:39",
+      "https://news.ycombinator.com/item?id=44672003"
+    ],
+    [
+      "There is no memory safety without thread safety",
+      "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
     ]
   ],
   [
