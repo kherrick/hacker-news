@@ -28,7 +28,7 @@
 * [2025-07-23, 19:34:26](https://news.ycombinator.com/item?id=44663072) - [Developing our position on AI](https://www.recurse.com/blog/191-developing-our-position-on-ai)
 * [2025-07-23, 17:23:23](https://news.ycombinator.com/item?id=44661673) - [Show HN: Apple Health MCP Server](https://github.com/neiltron/apple-health-mcp)
 * [2025-07-23, 09:16:26](https://news.ycombinator.com/item?id=44657188) - [Researchers value null results, but struggle to publish them](https://www.nature.com/articles/d41586-025-02312-4)
-* [2025-07-23, 07:40:26](https://news.ycombinator.com/item?id=44656684) - [Steve Jobs' Cabinet](https://perfectdays23.substack.com/p/steve-jobs-cabinet)
+* [2025-07-23, 07:40:26](https://news.ycombinator.com/item?id=44656684) - [Steve Jobs' cabinet](https://perfectdays23.substack.com/p/steve-jobs-cabinet)
 * [2025-07-21, 23:44:47](https://news.ycombinator.com/item?id=44641667) - [Trucking's uneasy relationship with new tech](https://www.bbc.com/news/articles/c5yeyn4gl80o)
 
 ## [Archives](archives/index.md)
