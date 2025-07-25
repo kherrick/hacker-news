@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-25, 19:28:51",
+      "https://news.ycombinator.com/item?id=44687326"
+    ],
+    [
+      "Stackless Traversal (2018)",
+      "https://www.dyalog.com/blog/2018/01/stackless-traversal/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 19:13:22",
+      "https://news.ycombinator.com/item?id=44687132"
+    ],
+    [
+      "Building Brain Box, a meta text adventure film adaptation",
+      "https://kubicki.org/workbench/brain-box/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 18:11:21",
       "https://news.ycombinator.com/item?id=44686317"
     ],
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2025-07-25, 17:35:29",
-      "https://news.ycombinator.com/item?id=44685869"
-    ],
-    [
-      "WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding",
-      "https://arxiv.org/abs/2507.12869"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 17:20:20",
       "https://news.ycombinator.com/item?id=44685669"
     ],
     [
       "Implementing a functional language with graph reduction (2021)",
       "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 17:14:51",
-      "https://news.ycombinator.com/item?id=44685587"
-    ],
-    [
-      "The sad state of font rendering on Linux (2018)",
-      "https://pandasauce.org/post/linux-fonts/"
     ]
   ],
   [
