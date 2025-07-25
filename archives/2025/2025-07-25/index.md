@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 16:02:23](https://news.ycombinator.com/item?id=44684720) - [Show HN: A macOS clock that stays visible when coding or binging in fullscreen](https://cornertime.app/en)
+* [2025-07-25, 15:25:23](https://news.ycombinator.com/item?id=44684212) - [Quantum Scientists Have Built a New Math of Cryptography](https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/)
 * [2025-07-25, 14:41:03](https://news.ycombinator.com/item?id=44683682) - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 14:25:53](https://news.ycombinator.com/item?id=44683490) - [Show HN: The Montana MiniComputer](https://mtmc.cs.montana.edu/)
 * [2025-07-25, 14:25:30](https://news.ycombinator.com/item?id=44683481) - [Google's shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)

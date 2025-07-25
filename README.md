@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-25, 16:02:23](https://news.ycombinator.com/item?id=44684720) - [Show HN: A macOS clock that stays visible when coding or binging in fullscreen](https://cornertime.app/en)
+* [2025-07-25, 15:25:23](https://news.ycombinator.com/item?id=44684212) - [Quantum Scientists Have Built a New Math of Cryptography](https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/)
 * [2025-07-25, 14:41:03](https://news.ycombinator.com/item?id=44683682) - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 14:25:53](https://news.ycombinator.com/item?id=44683490) - [Show HN: The Montana MiniComputer](https://mtmc.cs.montana.edu/)
 * [2025-07-25, 14:25:30](https://news.ycombinator.com/item?id=44683481) - [Google's shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
-* [2025-07-25, 14:22:35](https://news.ycombinator.com/item?id=44683447) - [Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside](https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756)
 * [2025-07-25, 13:40:19](https://news.ycombinator.com/item?id=44683011) - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's DE9, Not DB9](https://news.sparkfun.com/14298)
 * [2025-07-25, 13:30:54](https://news.ycombinator.com/item?id=44682932) - [Who has the fastest F1 website (2021)](https://jakearchibald.com/2021/f1-perf-part-3/)
@@ -27,7 +28,6 @@
 * [2025-07-21, 18:28:55](https://news.ycombinator.com/item?id=44638661) - [Rapidus Starts 2nm Gate All Around Prototype Production at IIM-1](https://www.servethehome.com/rapidus-starts-2nm-gate-all-around-prototype-production-at-iim-1/)
 * [2025-07-21, 17:01:35](https://news.ycombinator.com/item?id=44637532) - [Brazil central bank to launch Pix installment feature in September](https://www.reuters.com/technology/brazil-central-bank-launch-pix-installment-feature-september-2025-04-03/)
 * [2025-07-21, 13:10:59](https://news.ycombinator.com/item?id=44634688) - [Show HN: MCP server for up-to-date Zig standard library documentation](https://github.com/zig-wasm/zig-mcp)
-* [2025-07-21, 12:44:59](https://news.ycombinator.com/item?id=44634469) - [Developing with Kiro: Amazon's New Agentic IDE](https://yehudacohen.substack.com/p/developing-with-kiro-amazons-new)
 * [2025-07-21, 10:39:29](https://news.ycombinator.com/item?id=44633648) - [3-JSON](https://rgbcu.be/blog/3-json/)
 * [2025-07-21, 07:40:01](https://news.ycombinator.com/item?id=44632674) - [I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
 
