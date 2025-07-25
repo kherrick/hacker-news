@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-07-25, 18:41:15",
+      "https://news.ycombinator.com/item?id=44686702"
+    ],
+    [
+      "Dwm Commented",
+      "https://github.com/bakkeby/dwm-commented"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 18:37:47",
+      "https://news.ycombinator.com/item?id=44686662"
+    ],
+    [
+      "The \"computer janitor\" of the Manhattan project",
+      "https://www.allaboutcircuits.com/news/richard-hamming-the-computer-janitor-of-the-manhattan-project/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 18:11:21",
       "https://news.ycombinator.com/item?id=44686317"
     ],
     [
-      "Vanilla JavaScript Support for Tailwind Plus – Tailwind CSS",
+      "Vanilla JavaScript support for Tailwind Plus",
       "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
     ]
   ],
@@ -17,6 +37,16 @@
     [
       "Monotonic and Wall Clock Time in the Go Time Package",
       "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 18:03:01",
+      "https://news.ycombinator.com/item?id=44686209"
+    ],
+    [
+      "Tabs vs. Spaces: The War Is Over",
+      "https://xn--gckvb8fzb.com/tabs-vs-spaces-the-war-is-over/"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44685875"
     ],
     [
-      "Never write your own Date Parsing Library",
+      "Never write your own date parsing library",
       "https://www.zachleat.com/web/adventures-in-date-parsing/"
     ]
   ],
@@ -57,16 +87,6 @@
     [
       "Implementing a Functional Language with Graph Reduction",
       "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 17:17:33",
-      "https://news.ycombinator.com/item?id=44685627"
-    ],
-    [
-      "The Mythical Machine-Month Paradox – How much could AI change programming?",
-      "https://tucson-josh.com/posts/mythical-machine-month/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-07-25, 16:36:29",
-      "https://news.ycombinator.com/item?id=44685101"
-    ],
-    [
-      "HTTP/1.1 Must Die",
-      "https://http1mustdie.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 16:32:32",
       "https://news.ycombinator.com/item?id=44685067"
     ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=44685050"
     ],
     [
-      "100X More Efficient Than ARM Processors – Electron E1",
+      "Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?",
       "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu"
     ]
   ],
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2025-07-25, 06:47:07",
-      "https://news.ycombinator.com/item?id=44680308"
-    ],
-    [
-      "Quantitative AI progress needs accurate and transparent evaluation",
-      "https://mathstodon.xyz/@tao/114910028356641733"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 01:40:11",
-      "https://news.ycombinator.com/item?id=44678512"
-    ],
-    [
-      "Celebrating 20 Years of MDN",
-      "https://developer.mozilla.org/en-US/blog/mdn-turns-20/"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 17:15:41",
       "https://news.ycombinator.com/item?id=44673296"
     ],
@@ -297,6 +287,16 @@
     [
       "Tamiya chairman Shunsaku Tamiya dies at 90",
       "https://www.dailyexpress.com.my/news/263013/tamiya-chairman-shunsaku-tamiya-dies-at-90/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 23:44:47",
+      "https://news.ycombinator.com/item?id=44641667"
+    ],
+    [
+      "Trucking's uneasy relationship with new tech",
+      "https://www.bbc.com/news/articles/c5yeyn4gl80o"
     ]
   ]
 ]
