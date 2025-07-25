@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-25, 16:32:32",
+      "https://news.ycombinator.com/item?id=44685067"
+    ],
+    [
+      "CO2 Battery",
+      "https://energydome.com/co2-battery/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 16:28:55",
+      "https://news.ycombinator.com/item?id=44685027"
+    ],
+    [
+      "Good Docs Describe, Bad Docs Prescribe",
+      "https://rethinkingsoftware.substack.com/p/good-docs-describe-bad-docs-prescribe"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 16:02:23",
       "https://news.ycombinator.com/item?id=44684720"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2025-07-25, 15:36:52",
+      "https://news.ycombinator.com/item?id=44684373"
+    ],
+    [
+      "Women dating safety app 'Tea' breached, users' IDs posted to 4chan",
+      "https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 15:25:23",
       "https://news.ycombinator.com/item?id=44684212"
     ],
     [
       "Quantum Scientists Have Built a New Math of Cryptography",
       "https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 15:22:02",
+      "https://news.ycombinator.com/item?id=44684168"
+    ],
+    [
+      "nullable but not null",
+      "https://efe.me/posts/nullable-but-not-null/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2025-07-25, 10:16:26",
-      "https://news.ycombinator.com/item?id=44681565"
-    ],
-    [
-      "Qwen3-235B-A22B-Thinking-2507",
-      "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 07:26:37",
       "https://news.ycombinator.com/item?id=44680547"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-07-24, 15:35:39",
-      "https://news.ycombinator.com/item?id=44672003"
-    ],
-    [
-      "There is no memory safety without thread safety",
-      "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 01:51:04",
       "https://news.ycombinator.com/item?id=44666032"
     ],
@@ -201,22 +221,22 @@
   ],
   [
     [
-      "2025-07-23, 19:34:56",
-      "https://news.ycombinator.com/item?id=44663074"
-    ],
-    [
-      "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
-      "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 17:23:23",
       "https://news.ycombinator.com/item?id=44661673"
     ],
     [
       "Show HN: Apple Health MCP Server",
       "https://github.com/neiltron/apple-health-mcp"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 09:16:26",
+      "https://news.ycombinator.com/item?id=44657188"
+    ],
+    [
+      "Researchers value null results, but struggle to publish them",
+      "https://www.nature.com/articles/d41586-025-02312-4"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-07-21, 13:10:59",
-      "https://news.ycombinator.com/item?id=44634688"
-    ],
-    [
-      "Show HN: MCP server for up-to-date Zig standard library documentation",
-      "https://github.com/zig-wasm/zig-mcp"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 10:39:29",
       "https://news.ycombinator.com/item?id=44633648"
     ],
     [
       "3-JSON",
       "https://rgbcu.be/blog/3-json/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 07:40:01",
-      "https://news.ycombinator.com/item?id=44632674"
-    ],
-    [
-      "I wasted weeks hand optimizing assembly because I benchmarked on random data",
-      "https://www.vidarholen.net/contents/blog/?p=1160"
     ]
   ]
 ]
