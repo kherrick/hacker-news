@@ -13,6 +13,7 @@
 * [2025-07-21, 22:29:28](https://news.ycombinator.com/item?id=44641117) - [LetsEncrypt – Complete Outage](https://letsencrypt.status.io/)
 * [2025-07-21, 22:05:54](https://news.ycombinator.com/item?id=44640935) - [Nine households control 15% of wealth in Silicon Valley as inequality widens](https://www.theguardian.com/us-news/2025/jul/21/silicon-valley-income-wealth-gap)
 * [2025-07-21, 21:31:23](https://news.ycombinator.com/item?id=44640651) - [Spice Data (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
+* [2025-07-21, 21:29:02](https://news.ycombinator.com/item?id=44640618) - [Neon Now Runs in VS Code](https://neon.com/blog/neon-now-runs-in-vs-code)
 * [2025-07-21, 21:12:30](https://news.ycombinator.com/item?id=44640471) - [Working on a Programming Language in the Age of LLMs](https://ryelang.org/blog/posts/programming-language-in-age-of-llms/)
 * [2025-07-21, 20:57:11](https://news.ycombinator.com/item?id=44640331) - [The surprising geography of American left-handedness (2015)](https://www.washingtonpost.com/news/wonk/wp/2015/09/22/the-surprising-geography-of-american-left-handedness/)
 * [2025-07-21, 20:48:50](https://news.ycombinator.com/item?id=44640233) - [In a Major Reversal, the World Bank Is Backing Mega Dams](https://e360.yale.edu/features/world-bank-hydro-dams)
