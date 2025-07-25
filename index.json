@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-07-21, 12:57:26",
+      "https://news.ycombinator.com/item?id=44634576"
+    ],
+    [
+      "Why concatenative programming matters (2012)",
+      "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 12:44:59",
       "https://news.ycombinator.com/item?id=44634469"
     ],
@@ -287,16 +297,6 @@
     [
       "I wasted weeks hand optimizing assembly because I benchmarked on random data",
       "https://www.vidarholen.net/contents/blog/?p=1160"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 14:24:02",
-      "https://news.ycombinator.com/item?id=44625493"
-    ],
-    [
-      "Bus Bunching",
-      "https://www.futilitycloset.com/2025/07/12/bus-bunching/"
     ]
   ]
 ]
