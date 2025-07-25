@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 13:53:51](https://news.ycombinator.com/item?id=44683148) - [Meta to stop running political ads on Facebook and Instagram in the EU](https://www.euractiv.com/section/tech/news/meta-to-stop-running-political-ads-on-facebook-and-instagram/)
+* [2025-07-25, 13:40:19](https://news.ycombinator.com/item?id=44683011) - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
+* [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's DE9, Not DB9](https://news.sparkfun.com/14298)
 * [2025-07-25, 13:30:54](https://news.ycombinator.com/item?id=44682932) - [Who has the fastest F1 website (2021)](https://jakearchibald.com/2021/f1-perf-part-3/)
 * [2025-07-25, 12:39:41](https://news.ycombinator.com/item?id=44682465) - [Up to date prices for LLM APIs all in one place](https://pricepertoken.com/)
 * [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
