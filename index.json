@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-07-25, 17:20:20",
+      "https://news.ycombinator.com/item?id=44685669"
+    ],
+    [
+      "Implementing a Functional Language with Graph Reduction",
+      "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 17:14:51",
+      "https://news.ycombinator.com/item?id=44685587"
+    ],
+    [
+      "The sad state of font rendering on Linux",
+      "https://pandasauce.org/post/linux-fonts/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 17:02:37",
+      "https://news.ycombinator.com/item?id=44685445"
+    ],
+    [
+      "How to configure X11 in a simple way",
+      "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 16:56:04",
+      "https://news.ycombinator.com/item?id=44685342"
+    ],
+    [
+      "Internet Archive Is Now a Federal Depository Library",
+      "https://www.kqed.org/news/12049420/sf-based-internet-archive-is-now-a-federal-depository-library-what-does-that-mean"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 16:47:08",
       "https://news.ycombinator.com/item?id=44685222"
     ],
@@ -27,16 +67,6 @@
     [
       "CO2 Battery",
       "https://energydome.com/co2-battery/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 16:28:55",
-      "https://news.ycombinator.com/item?id=44685027"
-    ],
-    [
-      "Good Docs Describe, Bad Docs Prescribe",
-      "https://rethinkingsoftware.substack.com/p/good-docs-describe-bad-docs-prescribe"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-07-25, 10:47:07",
-      "https://news.ycombinator.com/item?id=44681740"
-    ],
-    [
-      "My website is one binary (2022)",
-      "https://j3s.sh/thought/my-website-is-one-binary.html"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 07:26:37",
       "https://news.ycombinator.com/item?id=44680547"
     ],
@@ -197,16 +217,6 @@
     [
       "Google spoofed via DKIM replay attack: A technical breakdown",
       "https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 02:50:32",
-      "https://news.ycombinator.com/item?id=44679048"
-    ],
-    [
-      "Asciinema: Record and share your terminal sessions",
-      "https://asciinema.org"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2025-07-21, 21:29:02",
+      "https://news.ycombinator.com/item?id=44640618"
+    ],
+    [
+      "Neon Now Runs in VS Code",
+      "https://neon.com/blog/neon-now-runs-in-vs-code"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 20:40:42",
       "https://news.ycombinator.com/item?id=44640143"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-07-21, 18:28:55",
-      "https://news.ycombinator.com/item?id=44638661"
-    ],
-    [
-      "Rapidus Starts 2nm Gate All Around Prototype Production at IIM-1",
-      "https://www.servethehome.com/rapidus-starts-2nm-gate-all-around-prototype-production-at-iim-1/"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 17:01:35",
       "https://news.ycombinator.com/item?id=44637532"
     ],
     [
       "Brazil central bank to launch Pix installment feature in September",
       "https://www.reuters.com/technology/brazil-central-bank-launch-pix-installment-feature-september-2025-04-03/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 10:39:29",
-      "https://news.ycombinator.com/item?id=44633648"
-    ],
-    [
-      "3-JSON",
-      "https://rgbcu.be/blog/3-json/"
     ]
   ]
 ]
