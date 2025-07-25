@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 06:47:07](https://news.ycombinator.com/item?id=44680308) - [Terence Tao: Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
 * [2025-07-25, 05:28:40](https://news.ycombinator.com/item?id=44679854) - [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
 * [2025-07-25, 03:49:10](https://news.ycombinator.com/item?id=44679406) - [Against the Censorship of Adult Content by Payment Processors](https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/)
 * [2025-07-25, 02:50:32](https://news.ycombinator.com/item?id=44679048) - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
