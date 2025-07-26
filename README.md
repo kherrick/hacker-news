@@ -2,12 +2,12 @@
 
 * [2025-07-26, 16:21:20](https://news.ycombinator.com/item?id=44695205) - [Earth Has Tilted 31.5 Inches. That Shouldn't Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
 * [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
+* [2025-07-26, 16:15:17](https://news.ycombinator.com/item?id=44695159) - [Is the Interstellar Object 3I/Atlas Alien Technology?](https://arxiv.org/abs/2507.12213)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
 * [2025-07-26, 13:08:44](https://news.ycombinator.com/item?id=44693815) - [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
 * [2025-07-26, 11:08:03](https://news.ycombinator.com/item?id=44693129) - [Bringing a decade old bicycle navigator back to life with open source software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-26, 10:08:09](https://news.ycombinator.com/item?id=44692876) - [Rust running on every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 * [2025-07-26, 06:46:44](https://news.ycombinator.com/item?id=44691935) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
-* [2025-07-26, 05:57:20](https://news.ycombinator.com/item?id=44691722) - [Why I do programming](https://esafev.com/notes/why-i-do-programming/)
 * [2025-07-26, 04:23:36](https://news.ycombinator.com/item?id=44691312) - [Users claim Discord's age verification can be tricked with video game characters](https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/)
 * [2025-07-26, 02:54:43](https://news.ycombinator.com/item?id=44690911) - [CCTV footage captures the first-ever video of an earthquake fault in motion](https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/)
 * [2025-07-25, 22:07:09](https://news.ycombinator.com/item?id=44689059) - [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
