@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-26, 02:57:44](https://news.ycombinator.com/item?id=44690936) - [What if AI made the world’s economic growth explode?](https://www.economist.com/briefing/2025/07/24/what-if-ai-made-the-worlds-economic-growth-explode)
 * [2025-07-26, 02:54:43](https://news.ycombinator.com/item?id=44690911) - [CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion](https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/)
 * [2025-07-25, 22:47:52](https://news.ycombinator.com/item?id=44689402) - [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/)
 * [2025-07-25, 22:07:09](https://news.ycombinator.com/item?id=44689059) - [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
@@ -19,6 +18,7 @@
 * [2025-07-25, 15:36:52](https://news.ycombinator.com/item?id=44684373) - [Women dating safety app 'Tea' breached, users' IDs posted to 4chan](https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/)
 * [2025-07-25, 14:41:03](https://news.ycombinator.com/item?id=44683682) - [Programming vehicles in games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
+* [2025-07-25, 13:30:54](https://news.ycombinator.com/item?id=44682932) - [Who has the fastest F1 website (2021)](https://jakearchibald.com/2021/f1-perf-part-3/)
 * [2025-07-25, 12:39:41](https://news.ycombinator.com/item?id=44682465) - [Show HN: Price Per Token – LLM API Pricing Data](https://pricepertoken.com/)
 * [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-07-25, 11:38:19](https://news.ycombinator.com/item?id=44682033) - [Show HN: I built a biological network visualization tool](https://nodes.bio)
