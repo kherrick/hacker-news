@@ -49,6 +49,7 @@
 * [2025-07-23, 13:06:43](https://news.ycombinator.com/item?id=44658798) - [SDR42E1 modulates Vitamin D absorption and cancer pathogenesis](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1585859/full)
 * [2025-07-23, 13:03:22](https://news.ycombinator.com/item?id=44658770) - [20 years of Linux on the Desktop (part 4)](https://ploum.net/2025-07-23-linux_desktop4.html)
 * [2025-07-23, 13:01:26](https://news.ycombinator.com/item?id=44658745) - [The Append-and-Review Note](https://karpathy.bearblog.dev/the-append-and-review-note/)
+* [2025-07-23, 12:53:20](https://news.ycombinator.com/item?id=44658665) - [Inverted Indexes: A Step-by-Step Implementation Guide](https://www.chashnikov.dev/post/inverted-indexes-a-step-by-step-implementation-guide)
 * [2025-07-23, 12:42:55](https://news.ycombinator.com/item?id=44658573) - [How younger people interact with the modern internet](https://social.restless.systems/@CursedSilicon/114899888735166987)
 * [2025-07-23, 12:41:23](https://news.ycombinator.com/item?id=44658547) - [Apple Introduces AppleCare One](https://www.apple.com/newsroom/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/)
 * [2025-07-23, 12:32:16](https://news.ycombinator.com/item?id=44658485) - [Show HN: Open IT Maintenance Planner](https://maintenance-planner.vangemert.dev/)

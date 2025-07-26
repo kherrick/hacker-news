@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-26](index.md)
 
 * [2025-07-26, 16:21:20](https://news.ycombinator.com/item?id=44695205) - [Earth Has Tilted 31.5 Inches. That Shouldn't Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
+* [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
 * [2025-07-26, 13:08:44](https://news.ycombinator.com/item?id=44693815) - [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
 * [2025-07-26, 13:05:15](https://news.ycombinator.com/item?id=44693803) - [I am a SOTA 0-shot classifier of your slop](https://christopherkrapu.com/blog/2025/i-know-you-didnt-write-that/)
