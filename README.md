@@ -2,7 +2,6 @@
 
 * [2025-07-26, 16:21:20](https://news.ycombinator.com/item?id=44695205) - [Earth Has Tilted 31.5 Inches. That Shouldn't Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
 * [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
-* [2025-07-26, 16:15:17](https://news.ycombinator.com/item?id=44695159) - [Is the Interstellar Object 3I/Atlas Alien Technology?](https://arxiv.org/abs/2507.12213)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
 * [2025-07-26, 13:08:44](https://news.ycombinator.com/item?id=44693815) - [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
 * [2025-07-26, 11:08:03](https://news.ycombinator.com/item?id=44693129) - [Bringing a decade old bicycle navigator back to life with open source software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
@@ -20,6 +19,7 @@
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
 * [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-07-24, 21:23:09](https://news.ycombinator.com/item?id=44676363) - [Upsides and Downsides](https://calv.info/upsides-and-downsides)
+* [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth Hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
 * [2025-07-23, 13:01:26](https://news.ycombinator.com/item?id=44658745) - [The append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
 * [2025-07-23, 12:53:20](https://news.ycombinator.com/item?id=44658665) - [Inverted Indexes: A Step-by-Step Implementation Guide](https://www.chashnikov.dev/post/inverted-indexes-a-step-by-step-implementation-guide)
 * [2025-07-23, 11:48:17](https://news.ycombinator.com/item?id=44658127) - [Instapaper Rakuten Kobo Integration](https://blog.instapaper.com/post/789685899750424576/instapaper-rakuten-kobo-integration)
