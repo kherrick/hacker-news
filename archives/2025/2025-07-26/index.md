@@ -9,6 +9,7 @@
 * [2025-07-26, 11:08:03](https://news.ycombinator.com/item?id=44693129) - [Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-26, 10:57:50](https://news.ycombinator.com/item?id=44693078) - [Fuck dopamine, we're voluntarily breaking our own brains](https://anushkakarmakar.substack.com/p/35-fuck-dopamine)
 * [2025-07-26, 10:14:02](https://news.ycombinator.com/item?id=44692897) - [UK's New Age Verification Requirement Thwarted in the Simplest Way Imaginable](https://gizmodo.com/uks-new-age-verification-requirement-thwarted-in-the-simplest-way-imaginable-2000634637)
+* [2025-07-26, 10:14:02](https://news.ycombinator.com/item?id=44692897) - [The UK’s new age-gating rules are easy to bypass](https://www.theverge.com/analysis/713773/uk-online-safety-act-age-verification-bypass-vpn)
 * [2025-07-26, 10:08:09](https://news.ycombinator.com/item?id=44692876) - [Rust on Every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 * [2025-07-26, 09:55:25](https://news.ycombinator.com/item?id=44692827) - [Donate to the Treasury to help pay down the $36.7T public debt](https://www.pay.gov/public/form/start/23779454)
 * [2025-07-26, 07:24:37](https://news.ycombinator.com/item?id=44692118) - [Ambigrammia: Between Creation and Discovery (Hofstadter, 2025)](https://yalebooks.yale.edu/book/9780300275438/ambigrammia/)
