@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-26](index.md)
 
+* [2025-07-26, 21:07:35](https://news.ycombinator.com/item?id=44696922) - [The Coming Age of Super Entertainment and Super Porn](https://vutran.substack.com/p/the-dopamine-machine-the-coming-age)
+* [2025-07-26, 20:03:53](https://news.ycombinator.com/item?id=44696576) - [Documents detail U.S. soldiers shot by their own Sig Sauer guns (2024)](https://www.nhpr.org/nh-news/2024-06-25/documents-detail-u-s-soldiers-shot-by-their-own-sig-sauer-guns-military-says-no-reason-for-concern)
 * [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 18:44:57](https://news.ycombinator.com/item?id=44696167) - [Test Results for AMD Zen 5 by Agner Fog](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What Went Wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
