@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-26, 07:02:47](https://news.ycombinator.com/item?id=44692015) - [Auto Favicon MCP Server](https://github.com/dh1011/auto-favicon-mcp)
+* [2025-07-26, 07:02:47](https://news.ycombinator.com/item?id=44692015) - [Show HN: Auto Favicon MCP Server](https://github.com/dh1011/auto-favicon-mcp)
+* [2025-07-26, 06:46:44](https://news.ycombinator.com/item?id=44691935) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [2025-07-26, 06:36:27](https://news.ycombinator.com/item?id=44691896) - [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)
 * [2025-07-26, 05:57:20](https://news.ycombinator.com/item?id=44691722) - [Why I Do Programming](https://esafev.com/notes/why-i-do-programming/)
 * [2025-07-26, 04:23:36](https://news.ycombinator.com/item?id=44691312) - [Users claim Discord's age verification can be tricked with video game characters](https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/)
@@ -12,7 +13,6 @@
 * [2025-07-25, 18:11:21](https://news.ycombinator.com/item?id=44686317) - [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
 * [2025-07-25, 17:59:25](https://news.ycombinator.com/item?id=44686164) - [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
 * [2025-07-25, 17:36:25](https://news.ycombinator.com/item?id=44685875) - [Never write your own date parsing library](https://www.zachleat.com/web/adventures-in-date-parsing/)
-* [2025-07-25, 16:56:04](https://news.ycombinator.com/item?id=44685342) - [Internet Archive is now a federal depository library](https://www.kqed.org/news/12049420/sf-based-internet-archive-is-now-a-federal-depository-library-what-does-that-mean)
 * [2025-07-25, 16:38:16](https://news.ycombinator.com/item?id=44685119) - [Why MIT switched from Scheme to Python (2009)](https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python)
 * [2025-07-25, 16:32:32](https://news.ycombinator.com/item?id=44685067) - [CO2 Battery](https://energydome.com/co2-battery/)
 * [2025-07-25, 16:30:44](https://news.ycombinator.com/item?id=44685050) - [Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
