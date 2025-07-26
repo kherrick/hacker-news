@@ -73,6 +73,7 @@
 * [2025-07-23, 07:34:30](https://news.ycombinator.com/item?id=44656654) - [Depot (YC W23) Is Hiring a Technical Content Writer (Remote)](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer)
 * [2025-07-23, 07:28:58](https://news.ycombinator.com/item?id=44656624) - [Running PostmarketOS on Android Termux proot without flashing a custom ROM](https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/)
 * [2025-07-23, 07:04:26](https://news.ycombinator.com/item?id=44656472) - [Generic Containers in C: Vec](https://uecker.codeberg.page/2025-07-20.html)
+* [2025-07-23, 06:54:11](https://news.ycombinator.com/item?id=44656419) - [Keep Pydantic out of your Domain Layer](https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/)
 * [2025-07-23, 06:02:40](https://news.ycombinator.com/item?id=44656105) - [Rescuing two PDP-11s from a former British Telecom underground shelter (2023)](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
 * [2025-07-23, 05:54:21](https://news.ycombinator.com/item?id=44656073) - [Extending Emacs with Fennel (2024)](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
 * [2025-07-23, 05:22:20](https://news.ycombinator.com/item?id=44655946) - [Tamiya chairman Shunsaku Tamiya dies at 90](https://www.dailyexpress.com.my/news/263013/tamiya-chairman-shunsaku-tamiya-dies-at-90/)
