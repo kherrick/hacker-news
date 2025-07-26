@@ -6,6 +6,7 @@
 
 * [2025-07-26, 21:43:57](https://news.ycombinator.com/item?id=44697131) - [Resizable Structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:18:38](https://news.ycombinator.com/item?id=44696979) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
+* [2025-07-26, 21:17:35](https://news.ycombinator.com/item?id=44696973) - [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
 * [2025-07-26, 21:07:35](https://news.ycombinator.com/item?id=44696922) - [The Coming Age of Super Entertainment and Super Porn](https://vutran.substack.com/p/the-dopamine-machine-the-coming-age)
 * [2025-07-26, 20:03:53](https://news.ycombinator.com/item?id=44696576) - [Documents detail U.S. soldiers shot by their own Sig Sauer guns (2024)](https://www.nhpr.org/nh-news/2024-06-25/documents-detail-u-s-soldiers-shot-by-their-own-sig-sauer-guns-military-says-no-reason-for-concern)
 * [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)

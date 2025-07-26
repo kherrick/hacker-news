@@ -2,6 +2,7 @@
 
 * [2025-07-26, 21:43:57](https://news.ycombinator.com/item?id=44697131) - [Resizable Structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:18:38](https://news.ycombinator.com/item?id=44696979) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
+* [2025-07-26, 21:17:35](https://news.ycombinator.com/item?id=44696973) - [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
 * [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 18:44:57](https://news.ycombinator.com/item?id=44696167) - [Test Results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What Went Wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
@@ -16,7 +17,6 @@
 * [2025-07-26, 06:46:44](https://news.ycombinator.com/item?id=44691935) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [2025-07-26, 04:23:36](https://news.ycombinator.com/item?id=44691312) - [Users claim Discord's age verification can be tricked with video game characters](https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/)
 * [2025-07-26, 02:54:43](https://news.ycombinator.com/item?id=44690911) - [CCTV footage captures video of an earthquake fault in motion](https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/)
-* [2025-07-25, 22:07:09](https://news.ycombinator.com/item?id=44689059) - [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 * [2025-07-25, 21:08:00](https://news.ycombinator.com/item?id=44688489) - [It's time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
 * [2025-07-24, 21:23:09](https://news.ycombinator.com/item?id=44676363) - [Upsides and Downsides](https://calv.info/upsides-and-downsides)
 * [2025-07-24, 04:40:27](https://news.ycombinator.com/item?id=44666984) - [Getting decent error reports in Bash when you're using 'set -e'](https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports)
