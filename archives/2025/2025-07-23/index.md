@@ -57,6 +57,7 @@
 * [2025-07-23, 11:46:09](https://news.ycombinator.com/item?id=44658103) - [Apple's Liquid Glass: When Aesthetics Beat Function](https://www.maxvanijsselmuiden.nl/liquid-glass)
 * [2025-07-23, 11:36:33](https://news.ycombinator.com/item?id=44658027) - [Show HN: Header-only GIF decoder in pure C – no malloc, easy to use](https://news.ycombinator.com/item?id=44658027)
 * [2025-07-23, 11:17:10](https://news.ycombinator.com/item?id=44657888) - [Firefox Money: Investigating the Finances of Mozilla](https://lunduke.locals.com/post/4387539/firefox-money-investigating-the-bizarre-finances-of-mozilla)
+* [2025-07-23, 11:04:47](https://news.ycombinator.com/item?id=44657803) - [Yes, the Book of PF, Fourth Edition Is Coming Soon](https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html)
 * [2025-07-23, 10:51:51](https://news.ycombinator.com/item?id=44657727) - [Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
 * [2025-07-23, 10:45:56](https://news.ycombinator.com/item?id=44657694) - [Short Google](https://tompccs.github.io/blog/2025/07/23/short-google.html)
 * [2025-07-23, 10:22:42](https://news.ycombinator.com/item?id=44657556) - [Lumo: Privacy-first AI assistant](https://proton.me/blog/lumo-ai)
