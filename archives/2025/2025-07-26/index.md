@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-26](index.md)
 
+* [2025-07-26, 12:20:55](https://news.ycombinator.com/item?id=44693570) - [The natural diamond industry is getting rocked. Thank the lab-grown variety](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336)
 * [2025-07-26, 11:08:03](https://news.ycombinator.com/item?id=44693129) - [Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-26, 10:14:02](https://news.ycombinator.com/item?id=44692897) - [UK's New Age Verification Requirement Thwarted in the Simplest Way Imaginable](https://gizmodo.com/uks-new-age-verification-requirement-thwarted-in-the-simplest-way-imaginable-2000634637)
 * [2025-07-26, 10:08:09](https://news.ycombinator.com/item?id=44692876) - [Rust on Every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
