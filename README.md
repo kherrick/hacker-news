@@ -2,7 +2,6 @@
 
 * [2025-07-26, 10:14:02](https://news.ycombinator.com/item?id=44692897) - [UK's New Age Verification Requirement Thwarted in the Simplest Way Imaginable](https://gizmodo.com/uks-new-age-verification-requirement-thwarted-in-the-simplest-way-imaginable-2000634637)
 * [2025-07-26, 10:08:09](https://news.ycombinator.com/item?id=44692876) - [Rust on Every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
-* [2025-07-26, 07:02:47](https://news.ycombinator.com/item?id=44692015) - [Show HN: Auto Favicon MCP Server](https://github.com/dh1011/auto-favicon-mcp)
 * [2025-07-26, 06:46:44](https://news.ycombinator.com/item?id=44691935) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [2025-07-26, 06:36:27](https://news.ycombinator.com/item?id=44691896) - [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)
 * [2025-07-26, 05:57:20](https://news.ycombinator.com/item?id=44691722) - [Why I Do Programming](https://esafev.com/notes/why-i-do-programming/)
@@ -24,6 +23,7 @@
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
 * [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-07-23, 19:34:26](https://news.ycombinator.com/item?id=44663072) - [Developing our position on AI](https://www.recurse.com/blog/191-developing-our-position-on-ai)
+* [2025-07-23, 17:23:23](https://news.ycombinator.com/item?id=44661673) - [Show HN: Apple Health MCP Server](https://github.com/neiltron/apple-health-mcp)
 * [2025-07-23, 11:04:47](https://news.ycombinator.com/item?id=44657803) - [Yes, the Book of PF, Fourth Edition Is Coming Soon](https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html)
 * [2025-07-23, 10:22:05](https://news.ycombinator.com/item?id=44657550) - [Open Sauce is a confoundingly brilliant Bay Area event](https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event)
 * [2025-07-23, 10:18:06](https://news.ycombinator.com/item?id=44657527) - [What is X-Forwarded-For and when can you trust it? (2024)](https://httptoolkit.com/blog/what-is-x-forwarded-for/)
