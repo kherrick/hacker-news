@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-26, 01:02:50](https://news.ycombinator.com/item?id=44690354) - [DJI couldn't confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
+* [2025-07-26, 02:57:44](https://news.ycombinator.com/item?id=44690936) - [What if AI made the world’s economic growth explode?](https://www.economist.com/briefing/2025/07/24/what-if-ai-made-the-worlds-economic-growth-explode)
+* [2025-07-26, 02:54:43](https://news.ycombinator.com/item?id=44690911) - [CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion](https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/)
 * [2025-07-25, 22:47:52](https://news.ycombinator.com/item?id=44689402) - [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/)
 * [2025-07-25, 22:07:09](https://news.ycombinator.com/item?id=44689059) - [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 * [2025-07-25, 21:08:00](https://news.ycombinator.com/item?id=44688489) - [It's time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
@@ -18,18 +19,17 @@
 * [2025-07-25, 15:36:52](https://news.ycombinator.com/item?id=44684373) - [Women dating safety app 'Tea' breached, users' IDs posted to 4chan](https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/)
 * [2025-07-25, 14:41:03](https://news.ycombinator.com/item?id=44683682) - [Programming vehicles in games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
-* [2025-07-25, 13:30:54](https://news.ycombinator.com/item?id=44682932) - [Who has the fastest F1 website (2021)](https://jakearchibald.com/2021/f1-perf-part-3/)
 * [2025-07-25, 12:39:41](https://news.ycombinator.com/item?id=44682465) - [Show HN: Price Per Token – LLM API Pricing Data](https://pricepertoken.com/)
 * [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-07-25, 11:38:19](https://news.ycombinator.com/item?id=44682033) - [Show HN: I built a biological network visualization tool](https://nodes.bio)
 * [2025-07-24, 17:15:41](https://news.ycombinator.com/item?id=44673296) - [Windsurf employee #2: I was given a payout of only 1% what my shares where worth](https://twitter.com/premqnair/status/1948420769945682413)
 * [2025-07-23, 19:34:26](https://news.ycombinator.com/item?id=44663072) - [Developing our position on AI](https://www.recurse.com/blog/191-developing-our-position-on-ai)
 * [2025-07-23, 17:23:23](https://news.ycombinator.com/item?id=44661673) - [Show HN: Apple Health MCP Server](https://github.com/neiltron/apple-health-mcp)
-* [2025-07-23, 17:14:50](https://news.ycombinator.com/item?id=44661592) - [Why is there a date of 1968 in the Intel Chipset Device Software Utility?](https://www.intel.com/content/www/us/en/support/articles/000095169/processors.html)
 * [2025-07-23, 10:03:23](https://news.ycombinator.com/item?id=44657465) - [Choosing the rijght .NET container image for your workload](https://medium.com/@mfundo/all-the-net-core-opsy-things-37b2e21eabb4)
 * [2025-07-23, 09:16:26](https://news.ycombinator.com/item?id=44657188) - [Researchers value null results, but struggle to publish them](https://www.nature.com/articles/d41586-025-02312-4)
 * [2025-07-23, 07:40:26](https://news.ycombinator.com/item?id=44656684) - [Steve Jobs' cabinet](https://perfectdays23.substack.com/p/steve-jobs-cabinet)
 * [2025-07-23, 07:28:58](https://news.ycombinator.com/item?id=44656624) - [Running PostmarketOS on Android Termux proot without a custom ROM (2024)](https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/)
+* [2025-07-23, 07:04:26](https://news.ycombinator.com/item?id=44656472) - [Generic Containers in C: Vec](https://uecker.codeberg.page/2025-07-20.html)
 
 ## [Archives](archives/index.md)
 
