@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-26](index.md)
 
+* [2025-07-26, 16:21:20](https://news.ycombinator.com/item?id=44695205) - [Earth Has Tilted 31.5 Inches. That Shouldn't Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
+* [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
+* [2025-07-26, 13:08:44](https://news.ycombinator.com/item?id=44693815) - [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
 * [2025-07-26, 13:05:15](https://news.ycombinator.com/item?id=44693803) - [I am a SOTA 0-shot classifier of your slop](https://christopherkrapu.com/blog/2025/i-know-you-didnt-write-that/)
 * [2025-07-26, 12:20:55](https://news.ycombinator.com/item?id=44693570) - [The natural diamond industry is getting rocked. Thank the lab-grown variety](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336)
 * [2025-07-26, 11:08:03](https://news.ycombinator.com/item?id=44693129) - [Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
