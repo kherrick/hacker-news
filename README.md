@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 18:44:57](https://news.ycombinator.com/item?id=44696167) - [Test Results for AMD Zen 5 by Agner Fog](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What Went Wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
 * [2025-07-26, 18:00:32](https://news.ycombinator.com/item?id=44695877) - [Where Are Vacation Homes Located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
@@ -21,7 +22,6 @@
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth Hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
 * [2025-07-23, 13:01:26](https://news.ycombinator.com/item?id=44658745) - [The append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
 * [2025-07-23, 12:53:20](https://news.ycombinator.com/item?id=44658665) - [Inverted Indexes: A Step-by-Step Implementation Guide](https://www.chashnikov.dev/post/inverted-indexes-a-step-by-step-implementation-guide)
-* [2025-07-23, 11:48:17](https://news.ycombinator.com/item?id=44658127) - [Instapaper Rakuten Kobo Integration](https://blog.instapaper.com/post/789685899750424576/instapaper-rakuten-kobo-integration)
 * [2025-07-23, 11:34:41](https://news.ycombinator.com/item?id=44658009) - [Font-size-adjust Is Useful](https://matklad.github.io/2025/07/16/font-size-adjust.html)
 * [2025-07-23, 11:04:47](https://news.ycombinator.com/item?id=44657803) - [Yes, the Book of PF, Fourth Edition Is Coming Soon](https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html)
 * [2025-07-23, 10:22:05](https://news.ycombinator.com/item?id=44657550) - [Open Sauce is a confoundingly brilliant Bay Area event](https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event)
