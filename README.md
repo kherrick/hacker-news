@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-26, 23:02:17](https://news.ycombinator.com/item?id=44697585) - [Getting into Flow State with Agentic Coding](https://kau.sh/blog/agentic-coding-flow-state/)
+* [2025-07-26, 22:32:45](https://news.ycombinator.com/item?id=44697437) - [Paul Dirac and the religion of mathematical beauty (2011) [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
 * [2025-07-26, 21:43:57](https://news.ycombinator.com/item?id=44697131) - [Resizable Structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:18:38](https://news.ycombinator.com/item?id=44696979) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
 * [2025-07-26, 21:17:35](https://news.ycombinator.com/item?id=44696973) - [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
@@ -8,10 +10,8 @@
 * [2025-07-26, 18:44:57](https://news.ycombinator.com/item?id=44696167) - [Test Results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What went wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
 * [2025-07-26, 18:00:32](https://news.ycombinator.com/item?id=44695877) - [Where are vacation homes located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
-* [2025-07-26, 17:57:09](https://news.ycombinator.com/item?id=44695855) - [Svalbard winter warming is reaching melting point](https://www.nature.com/articles/s41467-025-60926-8)
 * [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
-* [2025-07-26, 13:08:44](https://news.ycombinator.com/item?id=44693815) - [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
 * [2025-07-26, 12:20:55](https://news.ycombinator.com/item?id=44693570) - [The natural diamond industry is getting rocked. Thank the lab-grown variety](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336)
 * [2025-07-26, 11:08:03](https://news.ycombinator.com/item?id=44693129) - [Bringing a decade old bicycle navigator back to life with open source software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-26, 10:08:09](https://news.ycombinator.com/item?id=44692876) - [Rust running on every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
