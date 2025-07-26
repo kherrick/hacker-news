@@ -59,6 +59,7 @@
 * [2025-07-24, 11:16:19](https://news.ycombinator.com/item?id=44669365) - [Detekt – A static code analyzer for Kotlin](https://detekt.dev/)
 * [2025-07-24, 11:09:26](https://news.ycombinator.com/item?id=44669318) - [XOR_singleheader: Header-only binary fuse and XOR filter library](https://github.com/FastFilter/xor_singleheader)
 * [2025-07-24, 10:39:52](https://news.ycombinator.com/item?id=44669131) - [VectorDB bench now support S3Vector](https://github.com/zilliztech/VectorDBBench/pull/570)
+* [2025-07-24, 06:56:30](https://news.ycombinator.com/item?id=44667754) - [Algorithm for simulating phosphor persistence of analog oscilloscopes](https://richardandersson.net/?p=350)
 * [2025-07-24, 06:40:48](https://news.ycombinator.com/item?id=44667667) - [Itch.io: Update on NSFW Content](https://itch.io/updates/update-on-nsfw-content)
 * [2025-07-24, 06:07:17](https://news.ycombinator.com/item?id=44667472) - [Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
 * [2025-07-24, 04:40:27](https://news.ycombinator.com/item?id=44666984) - [Getting decent error reports in Bash when you're using 'set -e'](https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports)

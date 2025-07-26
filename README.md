@@ -3,6 +3,7 @@
 * [2025-07-26, 21:43:57](https://news.ycombinator.com/item?id=44697131) - [Resizable Structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:18:38](https://news.ycombinator.com/item?id=44696979) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
 * [2025-07-26, 21:17:35](https://news.ycombinator.com/item?id=44696973) - [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
+* [2025-07-26, 21:03:03](https://news.ycombinator.com/item?id=44696894) - [Arvo Pärt at 90](https://www.theguardian.com/music/2025/jul/24/the-god-of-small-things-celebrating-arvo-part-at-90)
 * [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 18:44:57](https://news.ycombinator.com/item?id=44696167) - [Test Results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What went wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
@@ -15,10 +16,8 @@
 * [2025-07-26, 11:08:03](https://news.ycombinator.com/item?id=44693129) - [Bringing a decade old bicycle navigator back to life with open source software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-26, 10:08:09](https://news.ycombinator.com/item?id=44692876) - [Rust running on every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 * [2025-07-26, 06:46:44](https://news.ycombinator.com/item?id=44691935) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
-* [2025-07-26, 04:23:36](https://news.ycombinator.com/item?id=44691312) - [Users claim Discord's age verification can be tricked with video game characters](https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/)
 * [2025-07-26, 02:54:43](https://news.ycombinator.com/item?id=44690911) - [CCTV footage captures video of an earthquake fault in motion](https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/)
-* [2025-07-25, 21:08:00](https://news.ycombinator.com/item?id=44688489) - [It's time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
-* [2025-07-24, 21:23:09](https://news.ycombinator.com/item?id=44676363) - [Upsides and Downsides](https://calv.info/upsides-and-downsides)
+* [2025-07-24, 06:56:30](https://news.ycombinator.com/item?id=44667754) - [Algorithm for simulating phosphor persistence of analog oscilloscopes](https://richardandersson.net/?p=350)
 * [2025-07-24, 04:40:27](https://news.ycombinator.com/item?id=44666984) - [Getting decent error reports in Bash when you're using 'set -e'](https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports)
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
 * [2025-07-23, 21:22:22](https://news.ycombinator.com/item?id=44664176) - [Shallow Water Is Dangerous Too](https://www.jefftk.com/p/shallow-water-is-dangerous-too)
@@ -30,6 +29,7 @@
 * [2025-07-23, 07:11:31](https://news.ycombinator.com/item?id=44656516) - [Breaking the WASM/JS communication performance barrier](https://github.com/ealmloff/sledgehammer_bindgen)
 * [2025-07-23, 04:31:47](https://news.ycombinator.com/item?id=44655741) - [Project Lyra – Exploring Interstellar Objects](https://i4is.org/what-we-do/technical/project-lyra/)
 * [2025-07-22, 23:05:07](https://news.ycombinator.com/item?id=44654031) - [Large ancient Hawaiian petroglyphs uncovered by waves on Oahu](https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php)
+* [2025-07-22, 22:02:21](https://news.ycombinator.com/item?id=44653509) - [Tinyio: A tiny (~200 line) event loop for Python](https://github.com/patrick-kidger/tinyio)
 
 ## [Archives](archives/index.md)
 
