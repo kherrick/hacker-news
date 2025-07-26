@@ -9,6 +9,7 @@
 * [2025-07-24, 21:50:43](https://news.ycombinator.com/item?id=44676714) - [The Secret Life of Fsync (2023)](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2025-07-24, 21:48:53](https://news.ycombinator.com/item?id=44676691) - [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
 * [2025-07-24, 21:39:08](https://news.ycombinator.com/item?id=44676559) - [Visa and Mastercard: The Global Payment Duopoly](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
+* [2025-07-24, 21:23:09](https://news.ycombinator.com/item?id=44676363) - [Upsides and Downsides](https://calv.info/upsides-and-downsides)
 * [2025-07-24, 21:22:15](https://news.ycombinator.com/item?id=44676348) - [Revisiting Moneyball. Data, sports, payrolls, and memes](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
 * [2025-07-24, 21:20:01](https://news.ycombinator.com/item?id=44676315) - [New Aarch64 Back End](https://ziglang.org/devlog/2025/#2025-07-23)
 * [2025-07-24, 20:59:25](https://news.ycombinator.com/item?id=44676066) - [ChatGPT Launches MCP Support](https://platform.openai.com/docs/mcp)
