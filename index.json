@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-26, 10:08:09",
+      "https://news.ycombinator.com/item?id=44692876"
+    ],
+    [
+      "Rust on Every GPU",
+      "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 07:24:37",
       "https://news.ycombinator.com/item?id=44692118"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2025-07-24, 17:15:41",
-      "https://news.ycombinator.com/item?id=44673296"
-    ],
-    [
-      "Windsurf employee #2: I was given a payout of only 1% what my shares where worth",
-      "https://twitter.com/premqnair/status/1948420769945682413"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 19:34:26",
       "https://news.ycombinator.com/item?id=44663072"
     ],
     [
       "Developing our position on AI",
       "https://www.recurse.com/blog/191-developing-our-position-on-ai"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 17:23:23",
+      "https://news.ycombinator.com/item?id=44661673"
+    ],
+    [
+      "Show HN: Apple Health MCP Server",
+      "https://github.com/neiltron/apple-health-mcp"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Rise and Fall of the Hanseatic League",
       "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 07:04:26",
-      "https://news.ycombinator.com/item?id=44656472"
-    ],
-    [
-      "Generic Containers in C: Vec",
-      "https://uecker.codeberg.page/2025-07-20.html"
     ]
   ],
   [
