@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-26, 01:02:50",
+      "https://news.ycombinator.com/item?id=44690354"
+    ],
+    [
+      "DJI couldn't confirm or deny it disguised this drone to evade a US ban",
+      "https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 22:47:52",
       "https://news.ycombinator.com/item?id=44689402"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-07-25, 20:48:05",
+      "https://news.ycombinator.com/item?id=44688265"
+    ],
+    [
+      "A Union Pacific-Norfolk Southern combination would redraw the railroad map",
+      "https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 20:34:22",
       "https://news.ycombinator.com/item?id=44688096"
     ],
@@ -41,11 +61,21 @@
   ],
   [
     [
+      "2025-07-25, 19:28:51",
+      "https://news.ycombinator.com/item?id=44687326"
+    ],
+    [
+      "Stackless Traversal (2018)",
+      "https://www.dyalog.com/blog/2018/01/stackless-traversal/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 18:43:24",
       "https://news.ycombinator.com/item?id=44686726"
     ],
     [
-      "Claude Code Introduces Specialized Sub-Agents",
+      "Claude Code introduces specialized sub-agents",
       "https://docs.anthropic.com/en/docs/claude-code/sub-agents"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Never write your own date parsing library",
       "https://www.zachleat.com/web/adventures-in-date-parsing/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 17:20:20",
-      "https://news.ycombinator.com/item?id=44685669"
-    ],
-    [
-      "Implementing a functional language with graph reduction (2021)",
-      "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-07-25, 13:40:19",
-      "https://news.ycombinator.com/item?id=44683011"
-    ],
-    [
-      "Dwl: Dwm for Wayland",
-      "https://codeberg.org/dwl/dwl"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 13:35:09",
       "https://news.ycombinator.com/item?id=44682964"
     ],
@@ -217,16 +227,6 @@
     [
       "Show HN: I built a biological network visualization tool",
       "https://nodes.bio"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 01:40:11",
-      "https://news.ycombinator.com/item?id=44678512"
-    ],
-    [
-      "Celebrating 20 Years of MDN",
-      "https://developer.mozilla.org/en-US/blog/mdn-turns-20/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-07-23, 07:40:26",
+      "https://news.ycombinator.com/item?id=44656684"
+    ],
+    [
+      "Steve Jobs' cabinet",
+      "https://perfectdays23.substack.com/p/steve-jobs-cabinet"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 07:28:58",
       "https://news.ycombinator.com/item?id=44656624"
     ],
     [
       "Running PostmarketOS on Android Termux proot without a custom ROM (2024)",
       "https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 23:44:47",
-      "https://news.ycombinator.com/item?id=44641667"
-    ],
-    [
-      "Trucking's uneasy relationship with new tech",
-      "https://www.bbc.com/news/articles/c5yeyn4gl80o"
     ]
   ]
 ]
