@@ -5,7 +5,7 @@
 * [2025-07-26, 21:17:35](https://news.ycombinator.com/item?id=44696973) - [Epic Recall, Epic Fail](https://taipology.substack.com/p/epic-recall-epic-fail)
 * [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 18:44:57](https://news.ycombinator.com/item?id=44696167) - [Test Results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
-* [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What Went Wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
+* [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What went wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
 * [2025-07-26, 18:00:32](https://news.ycombinator.com/item?id=44695877) - [Where are vacation homes located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
 * [2025-07-26, 17:57:09](https://news.ycombinator.com/item?id=44695855) - [Svalbard winter warming is reaching melting point](https://www.nature.com/articles/s41467-025-60926-8)
 * [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
