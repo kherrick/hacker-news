@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-26, 18:23:12",
+      "https://news.ycombinator.com/item?id=44696023"
+    ],
+    [
+      "Great Oxidation Event",
+      "https://en.wikipedia.org/wiki/Great_Oxidation_Event"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 18:00:32",
       "https://news.ycombinator.com/item?id=44695877"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-07-25, 18:11:21",
-      "https://news.ycombinator.com/item?id=44686317"
-    ],
-    [
-      "Vanilla JavaScript support for Tailwind Plus",
-      "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 17:36:25",
       "https://news.ycombinator.com/item?id=44685875"
     ],
@@ -177,16 +177,6 @@
     [
       "It's a DE9, not a DB9 (but we know what you mean)",
       "https://news.sparkfun.com/14298"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 12:00:05",
-      "https://news.ycombinator.com/item?id=44682175"
-    ],
-    [
-      "The future is not self-hosted",
-      "https://www.drewlyton.com/story/the-future-is-not-self-hosted/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Keep Pydantic out of your Domain Layer",
       "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 04:31:47",
+      "https://news.ycombinator.com/item?id=44655741"
+    ],
+    [
+      "Project Lyra – Exploring Interstellar Objects",
+      "https://i4is.org/what-we-do/technical/project-lyra/"
     ]
   ]
 ]
