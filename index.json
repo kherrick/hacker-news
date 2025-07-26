@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-07-23, 17:23:23",
-      "https://news.ycombinator.com/item?id=44661673"
-    ],
-    [
-      "Show HN: Apple Health MCP Server",
-      "https://github.com/neiltron/apple-health-mcp"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 10:22:05",
       "https://news.ycombinator.com/item?id=44657550"
     ],
@@ -297,6 +287,16 @@
     [
       "Generic Containers in C: Vec",
       "https://uecker.codeberg.page/2025-07-20.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 06:54:11",
+      "https://news.ycombinator.com/item?id=44656419"
+    ],
+    [
+      "Keep Pydantic out of your Domain Layer",
+      "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/"
     ]
   ]
 ]
