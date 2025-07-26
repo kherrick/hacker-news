@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-26, 07:24:37](https://news.ycombinator.com/item?id=44692118) - [Ambigrammia: Between Creation and Discovery (Hofstadter, 2025)](https://yalebooks.yale.edu/book/9780300275438/ambigrammia/)
 * [2025-07-26, 07:02:47](https://news.ycombinator.com/item?id=44692015) - [Show HN: Auto Favicon MCP Server](https://github.com/dh1011/auto-favicon-mcp)
 * [2025-07-26, 06:46:44](https://news.ycombinator.com/item?id=44691935) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [2025-07-26, 06:36:27](https://news.ycombinator.com/item?id=44691896) - [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)
@@ -28,7 +29,6 @@
 * [2025-07-23, 10:18:06](https://news.ycombinator.com/item?id=44657527) - [What is X-Forwarded-For and when can you trust it? (2024)](https://httptoolkit.com/blog/what-is-x-forwarded-for/)
 * [2025-07-23, 09:16:26](https://news.ycombinator.com/item?id=44657188) - [Researchers value null results, but struggle to publish them](https://www.nature.com/articles/d41586-025-02312-4)
 * [2025-07-23, 08:36:04](https://news.ycombinator.com/item?id=44656961) - [The Rise and Fall of the Hanseatic League](https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/)
-* [2025-07-23, 07:40:26](https://news.ycombinator.com/item?id=44656684) - [Steve Jobs' cabinet](https://perfectdays23.substack.com/p/steve-jobs-cabinet)
 * [2025-07-23, 07:04:26](https://news.ycombinator.com/item?id=44656472) - [Generic Containers in C: Vec](https://uecker.codeberg.page/2025-07-20.html)
 
 ## [Archives](archives/index.md)
