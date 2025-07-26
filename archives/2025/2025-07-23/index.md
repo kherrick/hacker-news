@@ -68,6 +68,7 @@
 * [2025-07-23, 09:33:23](https://news.ycombinator.com/item?id=44657291) - [Brave blocks Microsoft Recall by default](https://brave.com/privacy-updates/35-block-recall/)
 * [2025-07-23, 09:16:26](https://news.ycombinator.com/item?id=44657188) - [Researchers value null results, but struggle to publish them](https://www.nature.com/articles/d41586-025-02312-4)
 * [2025-07-23, 09:07:31](https://news.ycombinator.com/item?id=44657133) - [How to Start Prop Firm Trading with Minimal Capital?](https://propfirmplus.com/)
+* [2025-07-23, 08:36:04](https://news.ycombinator.com/item?id=44656961) - [The Rise and Fall of the Hanseatic League](https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/)
 * [2025-07-23, 07:40:26](https://news.ycombinator.com/item?id=44656684) - [Steve Jobs' Cabinet](https://perfectdays23.substack.com/p/steve-jobs-cabinet)
 * [2025-07-23, 07:34:30](https://news.ycombinator.com/item?id=44656654) - [Depot (YC W23) Is Hiring a Technical Content Writer (Remote)](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer)
 * [2025-07-23, 07:28:58](https://news.ycombinator.com/item?id=44656624) - [Running PostmarketOS on Android Termux proot without flashing a custom ROM](https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/)
