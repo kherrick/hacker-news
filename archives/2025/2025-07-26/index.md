@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-26](index.md)
 
 * [2025-07-26, 23:02:17](https://news.ycombinator.com/item?id=44697585) - [Getting into Flow State with Agentic Coding](https://kau.sh/blog/agentic-coding-flow-state/)
+* [2025-07-26, 22:39:19](https://news.ycombinator.com/item?id=44697465) - [Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload](https://arxiv.org/abs/2507.17615)
 * [2025-07-26, 22:32:45](https://news.ycombinator.com/item?id=44697437) - [Paul Dirac and the religion of mathematical beauty (2011) [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
 * [2025-07-26, 21:43:57](https://news.ycombinator.com/item?id=44697131) - [Resizable Structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:18:38](https://news.ycombinator.com/item?id=44696979) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
