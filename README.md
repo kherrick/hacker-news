@@ -27,7 +27,7 @@
 * [2025-07-23, 10:22:05](https://news.ycombinator.com/item?id=44657550) - [Open Sauce is a confoundingly brilliant Bay Area event](https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event)
 * [2025-07-23, 08:36:04](https://news.ycombinator.com/item?id=44656961) - [The rise and fall of the Hanseatic League](https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/)
 * [2025-07-23, 07:11:31](https://news.ycombinator.com/item?id=44656516) - [Breaking the WASM/JS communication performance barrier](https://github.com/ealmloff/sledgehammer_bindgen)
-* [2025-07-23, 04:31:47](https://news.ycombinator.com/item?id=44655741) - [Project Lyra – Exploring Interstellar Objects](https://i4is.org/what-we-do/technical/project-lyra/)
+* [2025-07-23, 02:06:43](https://news.ycombinator.com/item?id=44655083) - [Marine biologist for a day: Ars goes shark tagging](https://arstechnica.com/science/2025/07/marine-biologist-for-a-day-ars-goes-shark-tagging/)
 * [2025-07-22, 23:05:07](https://news.ycombinator.com/item?id=44654031) - [Large ancient Hawaiian petroglyphs uncovered by waves on Oahu](https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php)
 * [2025-07-22, 22:02:21](https://news.ycombinator.com/item?id=44653509) - [Tinyio: A tiny (~200 line) event loop for Python](https://github.com/patrick-kidger/tinyio)
 
