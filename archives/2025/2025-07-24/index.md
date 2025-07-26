@@ -61,6 +61,7 @@
 * [2025-07-24, 10:39:52](https://news.ycombinator.com/item?id=44669131) - [VectorDB bench now support S3Vector](https://github.com/zilliztech/VectorDBBench/pull/570)
 * [2025-07-24, 06:40:48](https://news.ycombinator.com/item?id=44667667) - [Itch.io: Update on NSFW Content](https://itch.io/updates/update-on-nsfw-content)
 * [2025-07-24, 06:07:17](https://news.ycombinator.com/item?id=44667472) - [Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
+* [2025-07-24, 04:40:27](https://news.ycombinator.com/item?id=44666984) - [Getting decent error reports in Bash when you're using 'set -e'](https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports)
 * [2025-07-24, 04:20:52](https://news.ycombinator.com/item?id=44666896) - [CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
 * [2025-07-24, 02:45:07](https://news.ycombinator.com/item?id=44666353) - [How to Catch a Wily Poacher in a Sting: A Thermal Robotic Deer](https://www.wsj.com/us-news/how-to-catch-a-wily-poacher-in-a-sting-a-thermal-robotic-deer-ffef0fa8)
 * [2025-07-24, 02:13:20](https://news.ycombinator.com/item?id=44666157) - [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
