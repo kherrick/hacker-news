@@ -16,7 +16,6 @@
 * [2025-07-25, 22:07:09](https://news.ycombinator.com/item?id=44689059) - [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 * [2025-07-25, 21:08:00](https://news.ycombinator.com/item?id=44688489) - [It's time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
 * [2025-07-25, 17:36:25](https://news.ycombinator.com/item?id=44685875) - [Never write your own date parsing library](https://www.zachleat.com/web/adventures-in-date-parsing/)
-* [2025-07-25, 16:38:16](https://news.ycombinator.com/item?id=44685119) - [Why MIT switched from Scheme to Python (2009)](https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
 * [2025-07-24, 21:23:09](https://news.ycombinator.com/item?id=44676363) - [Upsides and Downsides](https://calv.info/upsides-and-downsides)
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth Hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
@@ -30,6 +29,7 @@
 * [2025-07-23, 07:11:31](https://news.ycombinator.com/item?id=44656516) - [Breaking the WASM/JS communication performance barrier](https://github.com/ealmloff/sledgehammer_bindgen)
 * [2025-07-23, 06:54:11](https://news.ycombinator.com/item?id=44656419) - [Keep Pydantic out of your Domain Layer](https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/)
 * [2025-07-23, 04:31:47](https://news.ycombinator.com/item?id=44655741) - [Project Lyra – Exploring Interstellar Objects](https://i4is.org/what-we-do/technical/project-lyra/)
+* [2025-07-22, 23:05:07](https://news.ycombinator.com/item?id=44654031) - [Large ancient Hawaiian petroglyphs uncovered by waves on Oahu](https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php)
 
 ## [Archives](archives/index.md)
 
