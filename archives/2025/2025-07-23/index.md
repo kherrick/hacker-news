@@ -55,6 +55,7 @@
 * [2025-07-23, 12:28:59](https://news.ycombinator.com/item?id=44658458) - [Are we Trek yet? – A guide for how close we are to Star Trek technology](https://arewetrekyet.com/)
 * [2025-07-23, 12:00:36](https://news.ycombinator.com/item?id=44658233) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.com/careers/technical-content-lead/)
 * [2025-07-23, 11:58:08](https://news.ycombinator.com/item?id=44658213) - [Ask HN: How many of you are working in tech without a STEM degree?](https://news.ycombinator.com/item?id=44658213)
+* [2025-07-23, 11:48:17](https://news.ycombinator.com/item?id=44658127) - [Instapaper Rakuten Kobo Integration](https://blog.instapaper.com/post/789685899750424576/instapaper-rakuten-kobo-integration)
 * [2025-07-23, 11:46:09](https://news.ycombinator.com/item?id=44658103) - [Apple's Liquid Glass: When Aesthetics Beat Function](https://www.maxvanijsselmuiden.nl/liquid-glass)
 * [2025-07-23, 11:36:33](https://news.ycombinator.com/item?id=44658027) - [Show HN: Header-only GIF decoder in pure C – no malloc, easy to use](https://news.ycombinator.com/item?id=44658027)
 * [2025-07-23, 11:34:41](https://news.ycombinator.com/item?id=44658009) - [Font-size-adjust Is Useful](https://matklad.github.io/2025/07/16/font-size-adjust.html)
