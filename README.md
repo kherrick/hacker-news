@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What Went Wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
+* [2025-07-26, 18:23:12](https://news.ycombinator.com/item?id=44696023) - [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
 * [2025-07-26, 18:00:32](https://news.ycombinator.com/item?id=44695877) - [Where Are Vacation Homes Located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
 * [2025-07-26, 17:57:09](https://news.ycombinator.com/item?id=44695855) - [Svalbard winter warming is reaching melting point](https://www.nature.com/articles/s41467-025-60926-8)
 * [2025-07-26, 16:21:20](https://news.ycombinator.com/item?id=44695205) - [Earth Has Tilted 31.5 Inches. That Shouldn't Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
@@ -14,11 +15,9 @@
 * [2025-07-26, 02:54:43](https://news.ycombinator.com/item?id=44690911) - [CCTV footage captures the first-ever video of an earthquake fault in motion](https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/)
 * [2025-07-25, 22:07:09](https://news.ycombinator.com/item?id=44689059) - [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 * [2025-07-25, 21:08:00](https://news.ycombinator.com/item?id=44688489) - [It's time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
-* [2025-07-25, 18:11:21](https://news.ycombinator.com/item?id=44686317) - [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
 * [2025-07-25, 17:36:25](https://news.ycombinator.com/item?id=44685875) - [Never write your own date parsing library](https://www.zachleat.com/web/adventures-in-date-parsing/)
 * [2025-07-25, 16:38:16](https://news.ycombinator.com/item?id=44685119) - [Why MIT switched from Scheme to Python (2009)](https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
-* [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-07-24, 21:23:09](https://news.ycombinator.com/item?id=44676363) - [Upsides and Downsides](https://calv.info/upsides-and-downsides)
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth Hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
 * [2025-07-23, 13:01:26](https://news.ycombinator.com/item?id=44658745) - [The append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
@@ -30,6 +29,7 @@
 * [2025-07-23, 08:36:04](https://news.ycombinator.com/item?id=44656961) - [The rise and fall of the Hanseatic League](https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/)
 * [2025-07-23, 07:11:31](https://news.ycombinator.com/item?id=44656516) - [Breaking the WASM/JS communication performance barrier](https://github.com/ealmloff/sledgehammer_bindgen)
 * [2025-07-23, 06:54:11](https://news.ycombinator.com/item?id=44656419) - [Keep Pydantic out of your Domain Layer](https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/)
+* [2025-07-23, 04:31:47](https://news.ycombinator.com/item?id=44655741) - [Project Lyra – Exploring Interstellar Objects](https://i4is.org/what-we-do/technical/project-lyra/)
 
 ## [Archives](archives/index.md)
 
