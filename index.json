@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-26, 04:23:36",
+      "https://news.ycombinator.com/item?id=44691312"
+    ],
+    [
+      "Users claim Discord's age verification can be tricked with video game characters",
+      "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 02:54:43",
       "https://news.ycombinator.com/item?id=44690911"
     ],
@@ -67,6 +77,16 @@
     [
       "Stackless Traversal (2018)",
       "https://www.dyalog.com/blog/2018/01/stackless-traversal/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 18:43:24",
+      "https://news.ycombinator.com/item?id=44686726"
+    ],
+    [
+      "Claude Code introduces specialized sub-agents",
+      "https://docs.anthropic.com/en/docs/claude-code/sub-agents"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-07-25, 12:39:41",
-      "https://news.ycombinator.com/item?id=44682465"
-    ],
-    [
-      "Show HN: Price Per Token – LLM API Pricing Data",
-      "https://pricepertoken.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 12:00:05",
       "https://news.ycombinator.com/item?id=44682175"
     ],
     [
       "The future is not self-hosted",
       "https://www.drewlyton.com/story/the-future-is-not-self-hosted/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 11:38:19",
-      "https://news.ycombinator.com/item?id=44682033"
-    ],
-    [
-      "Show HN: I built a biological network visualization tool",
-      "https://nodes.bio"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-07-23, 12:32:16",
+      "https://news.ycombinator.com/item?id=44658485"
+    ],
+    [
+      "Show HN: Open IT Maintenance Planner",
+      "https://maintenance-planner.vangemert.dev/"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 10:22:05",
       "https://news.ycombinator.com/item?id=44657550"
     ],
@@ -277,16 +287,6 @@
     [
       "Steve Jobs' cabinet",
       "https://perfectdays23.substack.com/p/steve-jobs-cabinet"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 07:28:58",
-      "https://news.ycombinator.com/item?id=44656624"
-    ],
-    [
-      "Running PostmarketOS on Android Termux proot without a custom ROM (2024)",
-      "https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/"
     ]
   ],
   [
