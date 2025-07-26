@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44695877"
     ],
     [
-      "Where Are Vacation Homes Located in the US?",
+      "Where are vacation homes located in the US?",
       "https://www.construction-physics.com/p/where-are-vacation-homes-located"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "Svalbard winter warming is reaching melting point",
       "https://www.nature.com/articles/s41467-025-60926-8"
-    ]
-  ],
-  [
-    [
-      "2025-07-26, 16:21:20",
-      "https://news.ycombinator.com/item?id=44695205"
-    ],
-    [
-      "Earth Has Tilted 31.5 Inches. That Shouldn't Happen",
-      "https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "The Rise of Shippable Microfactories",
       "https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories"
+    ]
+  ],
+  [
+    [
+      "2025-07-26, 12:20:55",
+      "https://news.ycombinator.com/item?id=44693570"
+    ],
+    [
+      "The natural diamond industry is getting rocked. Thank the lab-grown variety",
+      "https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-07-24, 04:40:27",
+      "https://news.ycombinator.com/item?id=44666984"
+    ],
+    [
+      "Getting decent error reports in Bash when you're using 'set -e'",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 00:43:38",
       "https://news.ycombinator.com/item?id=44665644"
     ],
@@ -267,16 +277,6 @@
     [
       "Breaking the WASM/JS communication performance barrier",
       "https://github.com/ealmloff/sledgehammer_bindgen"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 06:54:11",
-      "https://news.ycombinator.com/item?id=44656419"
-    ],
-    [
-      "Keep Pydantic out of your Domain Layer",
-      "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/"
     ]
   ],
   [
