@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What Went Wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
+* [2025-07-26, 18:00:32](https://news.ycombinator.com/item?id=44695877) - [Where Are Vacation Homes Located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
+* [2025-07-26, 17:57:09](https://news.ycombinator.com/item?id=44695855) - [Svalbard winter warming is reaching melting point](https://www.nature.com/articles/s41467-025-60926-8)
 * [2025-07-26, 16:21:20](https://news.ycombinator.com/item?id=44695205) - [Earth Has Tilted 31.5 Inches. That Shouldn't Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
 * [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
@@ -12,10 +15,8 @@
 * [2025-07-25, 22:07:09](https://news.ycombinator.com/item?id=44689059) - [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 * [2025-07-25, 21:08:00](https://news.ycombinator.com/item?id=44688489) - [It's time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
 * [2025-07-25, 18:11:21](https://news.ycombinator.com/item?id=44686317) - [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
-* [2025-07-25, 17:59:25](https://news.ycombinator.com/item?id=44686164) - [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
 * [2025-07-25, 17:36:25](https://news.ycombinator.com/item?id=44685875) - [Never write your own date parsing library](https://www.zachleat.com/web/adventures-in-date-parsing/)
 * [2025-07-25, 16:38:16](https://news.ycombinator.com/item?id=44685119) - [Why MIT switched from Scheme to Python (2009)](https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python)
-* [2025-07-25, 16:30:44](https://news.ycombinator.com/item?id=44685050) - [Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
 * [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-07-24, 21:23:09](https://news.ycombinator.com/item?id=44676363) - [Upsides and Downsides](https://calv.info/upsides-and-downsides)
@@ -28,7 +29,6 @@
 * [2025-07-23, 10:22:05](https://news.ycombinator.com/item?id=44657550) - [Open Sauce is a confoundingly brilliant Bay Area event](https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event)
 * [2025-07-23, 08:36:04](https://news.ycombinator.com/item?id=44656961) - [The rise and fall of the Hanseatic League](https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/)
 * [2025-07-23, 07:11:31](https://news.ycombinator.com/item?id=44656516) - [Breaking the WASM/JS communication performance barrier](https://github.com/ealmloff/sledgehammer_bindgen)
-* [2025-07-23, 07:04:26](https://news.ycombinator.com/item?id=44656472) - [Generic Containers in C: Vec](https://uecker.codeberg.page/2025-07-20.html)
 * [2025-07-23, 06:54:11](https://news.ycombinator.com/item?id=44656419) - [Keep Pydantic out of your Domain Layer](https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/)
 
 ## [Archives](archives/index.md)
