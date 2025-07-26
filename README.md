@@ -23,12 +23,12 @@
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
 * [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-07-23, 19:34:26](https://news.ycombinator.com/item?id=44663072) - [Developing our position on AI](https://www.recurse.com/blog/191-developing-our-position-on-ai)
+* [2025-07-23, 17:23:23](https://news.ycombinator.com/item?id=44661673) - [Show HN: Apple Health MCP Server](https://github.com/neiltron/apple-health-mcp)
 * [2025-07-23, 11:04:47](https://news.ycombinator.com/item?id=44657803) - [Yes, the Book of PF, Fourth Edition Is Coming Soon](https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html)
 * [2025-07-23, 10:22:05](https://news.ycombinator.com/item?id=44657550) - [Open Sauce is a confoundingly brilliant Bay Area event](https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event)
 * [2025-07-23, 10:18:06](https://news.ycombinator.com/item?id=44657527) - [What is X-Forwarded-For and when can you trust it? (2024)](https://httptoolkit.com/blog/what-is-x-forwarded-for/)
 * [2025-07-23, 08:36:04](https://news.ycombinator.com/item?id=44656961) - [The Rise and Fall of the Hanseatic League](https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/)
 * [2025-07-23, 07:11:31](https://news.ycombinator.com/item?id=44656516) - [Breaking the WASM/JS communication performance barrier](https://github.com/ealmloff/sledgehammer_bindgen)
-* [2025-07-23, 07:04:26](https://news.ycombinator.com/item?id=44656472) - [Generic Containers in C: Vec](https://uecker.codeberg.page/2025-07-20.html)
 * [2025-07-23, 06:54:11](https://news.ycombinator.com/item?id=44656419) - [Keep Pydantic out of your Domain Layer](https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/)
 
 ## [Archives](archives/index.md)
