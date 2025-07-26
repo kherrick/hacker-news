@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-26, 07:02:47",
+      "https://news.ycombinator.com/item?id=44692015"
+    ],
+    [
+      "Auto Favicon MCP Server",
+      "https://github.com/dh1011/auto-favicon-mcp"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 06:36:27",
       "https://news.ycombinator.com/item?id=44691896"
     ],
@@ -37,16 +47,6 @@
     [
       "CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion",
       "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 22:47:52",
-      "https://news.ycombinator.com/item?id=44689402"
-    ],
-    [
-      "SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets",
-      "https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-07-25, 13:30:54",
-      "https://news.ycombinator.com/item?id=44682932"
-    ],
-    [
-      "Who has the fastest F1 website (2021)",
-      "https://jakearchibald.com/2021/f1-perf-part-3/"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 12:00:05",
       "https://news.ycombinator.com/item?id=44682175"
     ],
@@ -267,6 +257,16 @@
     [
       "Open Sauce is a confoundingly brilliant Bay Area event",
       "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 10:18:06",
+      "https://news.ycombinator.com/item?id=44657527"
+    ],
+    [
+      "What is X-Forwarded-For and when can you trust it? (2024)",
+      "https://httptoolkit.com/blog/what-is-x-forwarded-for/"
     ]
   ],
   [
