@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-07-26, 21:03:03",
+      "https://news.ycombinator.com/item?id=44696894"
+    ],
+    [
+      "Arvo Pärt at 90",
+      "https://www.theguardian.com/music/2025/jul/24/the-god-of-small-things-celebrating-arvo-part-at-90"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 19:59:00",
       "https://news.ycombinator.com/item?id=44696543"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-07-26, 04:23:36",
-      "https://news.ycombinator.com/item?id=44691312"
-    ],
-    [
-      "Users claim Discord's age verification can be tricked with video game characters",
-      "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/"
-    ]
-  ],
-  [
-    [
       "2025-07-26, 02:54:43",
       "https://news.ycombinator.com/item?id=44690911"
     ],
@@ -171,22 +171,12 @@
   ],
   [
     [
-      "2025-07-25, 21:08:00",
-      "https://news.ycombinator.com/item?id=44688489"
+      "2025-07-24, 06:56:30",
+      "https://news.ycombinator.com/item?id=44667754"
     ],
     [
-      "It's time for modern CSS to kill the SPA",
-      "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 21:23:09",
-      "https://news.ycombinator.com/item?id=44676363"
-    ],
-    [
-      "Upsides and Downsides",
-      "https://calv.info/upsides-and-downsides"
+      "Algorithm for simulating phosphor persistence of analog oscilloscopes",
+      "https://richardandersson.net/?p=350"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Large ancient Hawaiian petroglyphs uncovered by waves on Oahu",
       "https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 22:02:21",
+      "https://news.ycombinator.com/item?id=44653509"
+    ],
+    [
+      "Tinyio: A tiny (~200 line) event loop for Python",
+      "https://github.com/patrick-kidger/tinyio"
     ]
   ]
 ]
