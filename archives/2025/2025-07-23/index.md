@@ -50,6 +50,7 @@
 * [2025-07-23, 13:03:22](https://news.ycombinator.com/item?id=44658770) - [20 years of Linux on the Desktop (part 4)](https://ploum.net/2025-07-23-linux_desktop4.html)
 * [2025-07-23, 12:42:55](https://news.ycombinator.com/item?id=44658573) - [How younger people interact with the modern internet](https://social.restless.systems/@CursedSilicon/114899888735166987)
 * [2025-07-23, 12:41:23](https://news.ycombinator.com/item?id=44658547) - [Apple Introduces AppleCare One](https://www.apple.com/newsroom/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/)
+* [2025-07-23, 12:32:16](https://news.ycombinator.com/item?id=44658485) - [Show HN: Open IT Maintenance Planner](https://maintenance-planner.vangemert.dev/)
 * [2025-07-23, 12:28:59](https://news.ycombinator.com/item?id=44658458) - [Are we Trek yet? – A guide for how close we are to Star Trek technology](https://arewetrekyet.com/)
 * [2025-07-23, 12:00:36](https://news.ycombinator.com/item?id=44658233) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.com/careers/technical-content-lead/)
 * [2025-07-23, 11:58:08](https://news.ycombinator.com/item?id=44658213) - [Ask HN: How many of you are working in tech without a STEM degree?](https://news.ycombinator.com/item?id=44658213)
