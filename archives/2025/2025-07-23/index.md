@@ -61,6 +61,7 @@
 * [2025-07-23, 10:45:56](https://news.ycombinator.com/item?id=44657694) - [Short Google](https://tompccs.github.io/blog/2025/07/23/short-google.html)
 * [2025-07-23, 10:22:42](https://news.ycombinator.com/item?id=44657556) - [Lumo: Privacy-first AI assistant](https://proton.me/blog/lumo-ai)
 * [2025-07-23, 10:22:05](https://news.ycombinator.com/item?id=44657550) - [Open Sauce is a confoundingly brilliant Bay Area event](https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event)
+* [2025-07-23, 10:18:06](https://news.ycombinator.com/item?id=44657527) - [What is X-Forwarded-For and when can you trust it? (2024)](https://httptoolkit.com/blog/what-is-x-forwarded-for/)
 * [2025-07-23, 10:16:35](https://news.ycombinator.com/item?id=44657517) - [Has Brazil Invented the Future of Money?](https://paulkrugman.substack.com/p/has-brazil-invented-the-future-of)
 * [2025-07-23, 10:03:23](https://news.ycombinator.com/item?id=44657465) - [Choosing the rijght .NET container image for your workload](https://medium.com/@mfundo/all-the-net-core-opsy-things-37b2e21eabb4)
 * [2025-07-23, 09:57:25](https://news.ycombinator.com/item?id=44657433) - [Checking Out CPython 3.14's remote debugging protocol](https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/)

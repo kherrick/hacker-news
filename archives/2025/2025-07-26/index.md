@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-26](index.md)
 
+* [2025-07-26, 07:02:47](https://news.ycombinator.com/item?id=44692015) - [Auto Favicon MCP Server](https://github.com/dh1011/auto-favicon-mcp)
 * [2025-07-26, 06:36:27](https://news.ycombinator.com/item?id=44691896) - [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)
 * [2025-07-26, 05:57:20](https://news.ycombinator.com/item?id=44691722) - [Why I Do Programming](https://esafev.com/notes/why-i-do-programming/)
 * [2025-07-26, 04:23:36](https://news.ycombinator.com/item?id=44691312) - [Users claim Discord's age verification can be tricked with video game characters](https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/)
