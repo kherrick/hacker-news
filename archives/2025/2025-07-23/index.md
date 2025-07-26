@@ -60,6 +60,7 @@
 * [2025-07-23, 10:45:56](https://news.ycombinator.com/item?id=44657694) - [Short Google](https://tompccs.github.io/blog/2025/07/23/short-google.html)
 * [2025-07-23, 10:22:42](https://news.ycombinator.com/item?id=44657556) - [Lumo: Privacy-first AI assistant](https://proton.me/blog/lumo-ai)
 * [2025-07-23, 10:16:35](https://news.ycombinator.com/item?id=44657517) - [Has Brazil Invented the Future of Money?](https://paulkrugman.substack.com/p/has-brazil-invented-the-future-of)
+* [2025-07-23, 10:03:23](https://news.ycombinator.com/item?id=44657465) - [Choosing the rijght .NET container image for your workload](https://medium.com/@mfundo/all-the-net-core-opsy-things-37b2e21eabb4)
 * [2025-07-23, 09:57:25](https://news.ycombinator.com/item?id=44657433) - [Checking Out CPython 3.14's remote debugging protocol](https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/)
 * [2025-07-23, 09:33:23](https://news.ycombinator.com/item?id=44657291) - [Brave blocks Microsoft Recall by default](https://brave.com/privacy-updates/35-block-recall/)
 * [2025-07-23, 09:16:26](https://news.ycombinator.com/item?id=44657188) - [Researchers value null results, but struggle to publish them](https://www.nature.com/articles/d41586-025-02312-4)
