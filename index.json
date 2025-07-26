@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-26, 13:05:15",
+      "https://news.ycombinator.com/item?id=44693803"
+    ],
+    [
+      "I am a SOTA 0-shot classifier of your slop",
+      "https://christopherkrapu.com/blog/2025/i-know-you-didnt-write-that/"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 12:20:55",
       "https://news.ycombinator.com/item?id=44693570"
     ],
@@ -17,6 +27,16 @@
     [
       "Bringing a decade old bicycle navigator back to life with open source software",
       "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-26, 10:57:50",
+      "https://news.ycombinator.com/item?id=44693078"
+    ],
+    [
+      "Fuck dopamine, we're voluntarily breaking our own brains",
+      "https://anushkakarmakar.substack.com/p/35-fuck-dopamine"
     ]
   ],
   [
@@ -221,21 +241,11 @@
   ],
   [
     [
-      "2025-07-23, 17:23:23",
-      "https://news.ycombinator.com/item?id=44661673"
-    ],
-    [
-      "Show HN: Apple Health MCP Server",
-      "https://github.com/neiltron/apple-health-mcp"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 13:01:26",
       "https://news.ycombinator.com/item?id=44658745"
     ],
     [
-      "The Append-and-Review Note",
+      "The append-and-review note",
       "https://karpathy.bearblog.dev/the-append-and-review-note/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Open Sauce is a confoundingly brilliant Bay Area event",
       "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 10:18:06",
-      "https://news.ycombinator.com/item?id=44657527"
-    ],
-    [
-      "What is X-Forwarded-For and when can you trust it? (2024)",
-      "https://httptoolkit.com/blog/what-is-x-forwarded-for/"
     ]
   ],
   [
