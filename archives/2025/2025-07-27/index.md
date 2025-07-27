@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 19:31:39](https://news.ycombinator.com/item?id=44703908) - [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org)
 * [2025-07-27, 18:55:25](https://news.ycombinator.com/item?id=44703613) - [Tom Lehrer, song satirist and mathematician, dies at 97](https://apnews.com/article/tom-lehrer-son-satirist-mathematician-dies-9caa7ee01faf4fbfb793d7ba984c179d)
 * [2025-07-27, 18:32:53](https://news.ycombinator.com/item?id=44703416) - [Itch.io is the latest marketplace to crack down on adult games](https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/)
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Disabling telemetry in ByteDance's VSCode fork increases data sent to its server](https://github.com/segmentationf4u1t/trae_telemetry_research)
@@ -18,6 +19,7 @@
 * [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
 * [2025-07-27, 14:16:02](https://news.ycombinator.com/item?id=44701477) - [US Government takes $1B from nuclear modernization for gold-plated jet](https://www.nytimes.com/2025/07/27/us/politics/air-force-one-trump-cost.html)
 * [2025-07-27, 12:44:31](https://news.ycombinator.com/item?id=44700923) - [Beetroot juice lowers blood pressure in older people by changing oral microbiome](https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/)
+* [2025-07-27, 12:23:31](https://news.ycombinator.com/item?id=44700815) - [The JJ VCS workshop: A zero-to-hero speedrun](https://github.com/jkoppel/jj-workshop)
 * [2025-07-27, 11:21:42](https://news.ycombinator.com/item?id=44700471) - [No AI Content](https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/)
 * [2025-07-27, 10:44:22](https://news.ycombinator.com/item?id=44700335) - [Jeff Bezos doesn't believe in PowerPoint, and his employees agree](https://texttoslides.ai/blog/amazon-not-using-powerpoint)
 * [2025-07-27, 09:41:31](https://news.ycombinator.com/item?id=44700064) - [US drops sanctions on Myanmar junta's allies after military chief praises man](https://www.abc.net.au/news/2025-07-26/us-drops-sanctions-on-myanmar-junta-allies-after-trump-praise/105576812)
