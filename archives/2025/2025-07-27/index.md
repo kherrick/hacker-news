@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 20:37:26](https://news.ycombinator.com/item?id=44704482) - [The Bootstrap Load](http://www.intel4004.com/btstrp.htm)
+* [2025-07-27, 20:25:20](https://news.ycombinator.com/item?id=44704391) - [The Evilization of Google–and What to Do About It](https://billdembski.substack.com/p/the-evilization-of-googleand-what)
+* [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
 * [2025-07-27, 19:31:39](https://news.ycombinator.com/item?id=44703908) - [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org)
+* [2025-07-27, 19:27:20](https://news.ycombinator.com/item?id=44703865) - [Is Jeff Bezos killing The Washington Post on purpose or by accident?](https://news.ycombinator.com/item?id=44703865)
 * [2025-07-27, 18:55:25](https://news.ycombinator.com/item?id=44703613) - [Tom Lehrer, song satirist and mathematician, dies at 97](https://apnews.com/article/tom-lehrer-son-satirist-mathematician-dies-9caa7ee01faf4fbfb793d7ba984c179d)
 * [2025-07-27, 18:32:53](https://news.ycombinator.com/item?id=44703416) - [Itch.io is the latest marketplace to crack down on adult games](https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/)
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Disabling telemetry in ByteDance's VSCode fork increases data sent to its server](https://github.com/segmentationf4u1t/trae_telemetry_research)

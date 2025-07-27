@@ -53,6 +53,7 @@
 * [2025-07-24, 13:16:29](https://news.ycombinator.com/item?id=44670319) - [A valid HTML zip bomb](https://ache.one/notes/html_zip_bomb)
 * [2025-07-24, 13:16:12](https://news.ycombinator.com/item?id=44670315) - [UnitedHealth says it is facing DOJ investigation over Medicare billing practices](https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html)
 * [2025-07-24, 12:47:29](https://news.ycombinator.com/item?id=44669998) - [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
+* [2025-07-24, 12:39:18](https://news.ycombinator.com/item?id=44669937) - [Dual-Brain Challenge Tetris Game](https://splitris.online/)
 * [2025-07-24, 12:30:17](https://news.ycombinator.com/item?id=44669864) - [StackSafe: Taming Recursion in Rust Without Stack Overflow](https://fast.github.io/blog/stacksafe-taming-recursion-in-rust-without-stack-overflow/)
 * [2025-07-24, 12:29:35](https://news.ycombinator.com/item?id=44669858) - [Wix: Introduce the Open Source Maintenance Fee](https://github.com/wixtoolset/issues/issues/8974)
 * [2025-07-24, 12:28:31](https://news.ycombinator.com/item?id=44669853) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
