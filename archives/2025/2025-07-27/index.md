@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 12:44:31](https://news.ycombinator.com/item?id=44700923) - [Beetroot juice lowers blood pressure in older people by changing oral microbiome](https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/)
 * [2025-07-27, 11:21:42](https://news.ycombinator.com/item?id=44700471) - [No AI Content](https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/)
 * [2025-07-27, 10:44:22](https://news.ycombinator.com/item?id=44700335) - [Jeff Bezos doesn't believe in PowerPoint, and his employees agree](https://texttoslides.ai/blog/amazon-not-using-powerpoint)
 * [2025-07-27, 09:41:31](https://news.ycombinator.com/item?id=44700064) - [US drops sanctions on Myanmar junta's allies after military chief praises man](https://www.abc.net.au/news/2025-07-26/us-drops-sanctions-on-myanmar-junta-allies-after-trump-praise/105576812)

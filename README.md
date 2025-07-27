@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-27, 12:44:31](https://news.ycombinator.com/item?id=44700923) - [Beetroot juice lowers blood pressure in older people by changing oral microbiome](https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/)
 * [2025-07-27, 11:21:42](https://news.ycombinator.com/item?id=44700471) - [No AI Content](https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/)
 * [2025-07-27, 09:21:13](https://news.ycombinator.com/item?id=44699980) - [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
 * [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
@@ -9,7 +10,6 @@
 * [2025-07-27, 03:38:27](https://news.ycombinator.com/item?id=44698754) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 * [2025-07-27, 03:34:47](https://news.ycombinator.com/item?id=44698733) - [Smallest particulate matter air quality sensor for ultra-compact IoT devices](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
 * [2025-07-27, 01:28:36](https://news.ycombinator.com/item?id=44698185) - [Janet: Lightweight, Expressive, Modern Lisp](https://janet-lang.org)
-* [2025-07-26, 23:43:26](https://news.ycombinator.com/item?id=44697798) - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
 * [2025-07-26, 23:03:26](https://news.ycombinator.com/item?id=44697590) - [Personal aviation is about to get interesting (2023)](https://www.elidourado.com/p/personal-aviation)
 * [2025-07-26, 22:32:45](https://news.ycombinator.com/item?id=44697437) - [Paul Dirac and the religion of mathematical beauty (2011) [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
 * [2025-07-26, 21:45:07](https://news.ycombinator.com/item?id=44697145) - [Coronary artery calcium testing can reveal plaque in arteries, but is underused](https://www.nytimes.com/2025/07/26/health/coronary-artery-calcium-heart.html)
@@ -25,10 +25,10 @@
 * [2025-07-24, 01:12:35](https://news.ycombinator.com/item?id=44665816) - [16colo.rs: ANSI/ASCII art archive](https://16colo.rs/)
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
 * [2025-07-23, 20:49:58](https://news.ycombinator.com/item?id=44663887) - [Implementing dynamic scope for Fennel and Lua](https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/)
-* [2025-07-23, 17:12:57](https://news.ycombinator.com/item?id=44661571) - [Cable Bacteria Are Living Batteries](https://www.asimov.press/p/cable-bacteria)
+* [2025-07-23, 17:12:57](https://news.ycombinator.com/item?id=44661571) - [Cable bacteria are living batteries](https://www.asimov.press/p/cable-bacteria)
 * [2025-07-23, 15:57:11](https://news.ycombinator.com/item?id=44660656) - [Reading QR codes without a computer](https://qr.blinry.org/)
 * [2025-07-23, 15:20:28](https://news.ycombinator.com/item?id=44660219) - [A low power 1U Raspberry Pi cluster server for inexpensive colocation (2021)](https://github.com/pawl/raspberry-pi-1u-server)
-* [2025-07-23, 12:58:48](https://news.ycombinator.com/item?id=44658722) - [Three high-performance RISC-V processors to watch in H2 2025](https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/)
+* [2025-07-23, 12:58:48](https://news.ycombinator.com/item?id=44658722) - [High-performance RISC-V processors: UltraRISC UR-DP1000, Zhihe A210, SpacemIT K3](https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/)
 * [2025-07-23, 12:13:52](https://news.ycombinator.com/item?id=44658323) - [Return of wolves to Yellowstone has led to a surge in aspen trees](https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years)
 
 ## [Archives](archives/index.md)
