@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-27, 22:18:44](https://news.ycombinator.com/item?id=44705240) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
 * [2025-07-27, 21:12:59](https://news.ycombinator.com/item?id=44704736) - [Making Postgres 42,000x slower because I am unemployed](https://byteofdev.com/posts/making-postgres-slow/)
 * [2025-07-27, 20:37:26](https://news.ycombinator.com/item?id=44704482) - [The Bootstrap Load](http://www.intel4004.com/btstrp.htm)
 * [2025-07-27, 20:30:27](https://news.ycombinator.com/item?id=44704422) - [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
@@ -8,7 +9,6 @@
 * [2025-07-27, 20:15:50](https://news.ycombinator.com/item?id=44704319) - [Electrified dry reforming of methane on Ni-La2O3–loaded activated carbon](https://www.science.org/doi/10.1126/sciadv.adv1585)
 * [2025-07-27, 20:13:55](https://news.ycombinator.com/item?id=44704305) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
 * [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
-* [2025-07-27, 20:03:05](https://news.ycombinator.com/item?id=44704214) - [A Retrospective on Paradigms of AI Programming (2002)](https://norvig.com/Lisp-retro.html)
 * [2025-07-27, 19:31:39](https://news.ycombinator.com/item?id=44703908) - [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org)
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Performance and Telemetry Analysis of Trae IDE, ByteDance's VSCode Fork](https://github.com/segmentationf4u1t/trae_telemetry_research)
 * [2025-07-27, 17:49:23](https://news.ycombinator.com/item?id=44703079) - [Allianz Life says 'majority' of customers' personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
