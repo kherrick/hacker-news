@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-07-27, 14:16:02",
-      "https://news.ycombinator.com/item?id=44701477"
-    ],
-    [
-      "US Government takes $1B from nuclear modernization for gold-plated jet",
-      "https://www.nytimes.com/2025/07/27/us/politics/air-force-one-trump-cost.html"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 12:44:31",
       "https://news.ycombinator.com/item?id=44700923"
     ],
@@ -217,6 +207,16 @@
     [
       "StackSafe: Taming Recursion in Rust Without Stack Overflow",
       "https://fast.github.io/blog/stacksafe-taming-recursion-in-rust-without-stack-overflow/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 10:19:59",
+      "https://news.ycombinator.com/item?id=44669026"
+    ],
+    [
+      "BlueOS Kernel – Written in Rust, compatible with POSIX",
+      "https://github.com/vivoblueos/kernel"
     ]
   ],
   [
