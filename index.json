@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-07-26, 22:32:45",
-      "https://news.ycombinator.com/item?id=44697437"
-    ],
-    [
-      "Paul Dirac and the religion of mathematical beauty (2011) [video]",
-      "https://www.youtube.com/watch?v=jPwo1XsKKXg"
-    ]
-  ],
-  [
-    [
       "2025-07-26, 21:45:07",
       "https://news.ycombinator.com/item?id=44697145"
     ],
@@ -207,6 +197,16 @@
     [
       "Rust running on every GPU",
       "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 12:30:17",
+      "https://news.ycombinator.com/item?id=44669864"
+    ],
+    [
+      "StackSafe: Taming Recursion in Rust Without Stack Overflow",
+      "https://fast.github.io/blog/stacksafe-taming-recursion-in-rust-without-stack-overflow/"
     ]
   ],
   [
