@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-27, 19:31:39",
+      "https://news.ycombinator.com/item?id=44703908"
+    ],
+    [
+      "National Aviation Reporting Center on Anomalous Phenomena",
+      "https://www.narcap.org"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 17:57:06",
       "https://news.ycombinator.com/item?id=44703164"
     ],
@@ -87,6 +97,16 @@
     [
       "Beetroot juice lowers blood pressure by changing oral microbiome: study",
       "https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 12:23:31",
+      "https://news.ycombinator.com/item?id=44700815"
+    ],
+    [
+      "The JJ VCS workshop: A zero-to-hero speedrun",
+      "https://github.com/jkoppel/jj-workshop"
     ]
   ],
   [
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2025-07-26, 16:06:09",
-      "https://news.ycombinator.com/item?id=44695098"
+      "2025-07-25, 19:13:59",
+      "https://news.ycombinator.com/item?id=44687145"
     ],
     [
-      "How we rooted Copilot",
-      "https://research.eye.security/how-we-rooted-copilot/"
+      "Britain's spies-for-hire are running wild",
+      "https://www.politico.eu/article/uk-british-spies-private-intelligence-government-ministers/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-07-24, 01:12:35",
-      "https://news.ycombinator.com/item?id=44665816"
-    ],
-    [
-      "16colo.rs: ANSI/ASCII art archive",
-      "https://16colo.rs/"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 00:47:24",
       "https://news.ycombinator.com/item?id=44665662"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2025-07-24, 00:43:38",
-      "https://news.ycombinator.com/item?id=44665644"
+      "2025-07-23, 15:57:11",
+      "https://news.ycombinator.com/item?id=44660656"
     ],
     [
-      "Purple Earth hypothesis",
-      "https://en.wikipedia.org/wiki/Purple_Earth_hypothesis"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 15:20:28",
-      "https://news.ycombinator.com/item?id=44660219"
-    ],
-    [
-      "A low power 1U Raspberry Pi cluster server for inexpensive colocation (2021)",
-      "https://github.com/pawl/raspberry-pi-1u-server"
+      "Reading QR codes without a computer (2023)",
+      "https://qr.blinry.org/"
     ]
   ],
   [
