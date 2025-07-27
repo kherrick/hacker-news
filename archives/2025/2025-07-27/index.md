@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 23:22:30](https://news.ycombinator.com/item?id=44705619) - [Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks](https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html)
 * [2025-07-27, 22:18:44](https://news.ycombinator.com/item?id=44705240) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
 * [2025-07-27, 22:09:14](https://news.ycombinator.com/item?id=44705171) - [Designing a Flatpack Bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 21:12:59](https://news.ycombinator.com/item?id=44704736) - [Making Postgres 42,000x slower because I am unemployed](https://byteofdev.com/posts/making-postgres-slow/)

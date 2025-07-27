@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-27, 23:22:30](https://news.ycombinator.com/item?id=44705619) - [Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks](https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html)
 * [2025-07-27, 22:18:44](https://news.ycombinator.com/item?id=44705240) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
 * [2025-07-27, 22:09:14](https://news.ycombinator.com/item?id=44705171) - [Designing a Flatpack Bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 21:12:59](https://news.ycombinator.com/item?id=44704736) - [Making Postgres slower](https://byteofdev.com/posts/making-postgres-slow/)
@@ -18,10 +19,8 @@
 * [2025-07-27, 14:28:49](https://news.ycombinator.com/item?id=44701574) - [The many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 * [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
 * [2025-07-27, 12:23:31](https://news.ycombinator.com/item?id=44700815) - [The JJ VCS workshop: A zero-to-hero speedrun](https://github.com/jkoppel/jj-workshop)
-* [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 * [2025-07-27, 07:01:02](https://news.ycombinator.com/item?id=44699393) - [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/)
 * [2025-07-27, 05:17:03](https://news.ycombinator.com/item?id=44699052) - [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
-* [2025-07-27, 04:35:33](https://news.ycombinator.com/item?id=44698928) - [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
 * [2025-07-27, 04:26:08](https://news.ycombinator.com/item?id=44698899) - [The future is not self-hosted, but self-sovereign](https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign)
 * [2025-07-25, 19:13:59](https://news.ycombinator.com/item?id=44687145) - [Britain's spies-for-hire are running wild](https://www.politico.eu/article/uk-british-spies-private-intelligence-government-ministers/)
 * [2025-07-25, 10:24:44](https://news.ycombinator.com/item?id=44681616) - [Bits 0x02: switching to orion as a browser](https://andinfinity.eu/post/2025-07-24-bits-0x02/)
@@ -29,6 +28,7 @@
 * [2025-07-24, 10:19:59](https://news.ycombinator.com/item?id=44669026) - [BlueOS Kernel – Written in Rust, compatible with POSIX](https://github.com/vivoblueos/kernel)
 * [2025-07-24, 04:07:42](https://news.ycombinator.com/item?id=44666824) - [Why I write recursive descent parsers (despite their issues)](https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe)
 * [2025-07-24, 00:47:24](https://news.ycombinator.com/item?id=44665662) - [Katharine Graham: The Washington Post](https://fs.blog/knowledge-project-podcast/outliers-katharine-graham/)
+* [2025-07-23, 12:58:48](https://news.ycombinator.com/item?id=44658722) - [High-performance RISC-V processors: UltraRISC UR-DP1000, Zhihe A210, SpacemIT K3](https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/)
 * [2025-07-23, 12:13:52](https://news.ycombinator.com/item?id=44658323) - [Return of wolves to Yellowstone has led to a surge in aspen trees](https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years)
 
 ## [Archives](archives/index.md)
