@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-27, 21:12:59",
+      "https://news.ycombinator.com/item?id=44704736"
+    ],
+    [
+      "Making Postgres 42,000x slower because I am unemployed",
+      "https://byteofdev.com/posts/making-postgres-slow/"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 20:37:26",
       "https://news.ycombinator.com/item?id=44704482"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2025-07-27, 20:15:50",
+      "https://news.ycombinator.com/item?id=44704319"
+    ],
+    [
+      "Electrified dry reforming of methane on Ni-La2O3–loaded activated carbon",
+      "https://www.science.org/doi/10.1126/sciadv.adv1585"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 20:13:55",
       "https://news.ycombinator.com/item?id=44704305"
     ],
@@ -57,6 +77,16 @@
     [
       "I hacked my washing machine",
       "https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 20:03:05",
+      "https://news.ycombinator.com/item?id=44704214"
+    ],
+    [
+      "A Retrospective on Paradigms of AI Programming (2002)",
+      "https://norvig.com/Lisp-retro.html"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-07-27, 17:27:26",
-      "https://news.ycombinator.com/item?id=44702894"
-    ],
-    [
-      "Show HN: Windows 7 GUI for the web",
-      "https://khang-nd.github.io/7.css/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 17:19:19",
       "https://news.ycombinator.com/item?id=44702833"
     ],
@@ -117,16 +137,6 @@
     [
       "Tom Lehrer has died",
       "https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 16:53:00",
-      "https://news.ycombinator.com/item?id=44702627"
-    ],
-    [
-      "Instrumenting Next.js with runtime secret injection",
-      "https://phase.dev/blog/instrumenting-nextjs-with-runtime-secret-injection/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-07-27, 03:34:47",
-      "https://news.ycombinator.com/item?id=44698733"
-    ],
-    [
-      "Smallest particulate matter air quality sensor for ultra-compact IoT devices",
-      "https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 19:13:59",
       "https://news.ycombinator.com/item?id=44687145"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2025-07-25, 10:24:44",
+      "https://news.ycombinator.com/item?id=44681616"
+    ],
+    [
+      "Bits 0x02: switching to orion as a browser",
+      "https://andinfinity.eu/post/2025-07-24-bits-0x02/"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 14:59:32",
       "https://news.ycombinator.com/item?id=44671528"
     ],
     [
       "Government-Funded Alchemy",
       "https://thebsdetector.substack.com/p/government-funded-alchemy"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 12:39:18",
-      "https://news.ycombinator.com/item?id=44669937"
-    ],
-    [
-      "Dual-Brain Challenge Tetris Game",
-      "https://splitris.online/"
     ]
   ],
   [
