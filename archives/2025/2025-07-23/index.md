@@ -32,6 +32,7 @@
 * [2025-07-23, 17:12:57](https://news.ycombinator.com/item?id=44661571) - [Cable Bacteria Are Living Batteries](https://www.asimov.press/p/cable-bacteria)
 * [2025-07-23, 17:09:47](https://news.ycombinator.com/item?id=44661527) - [FastVLM: Efficient Vision Encoding for Vision Language Models](https://machinelearning.apple.com/research/fast-vision-language-models)
 * [2025-07-23, 17:01:14](https://news.ycombinator.com/item?id=44661420) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
+* [2025-07-23, 16:59:31](https://news.ycombinator.com/item?id=44661402) - [Base58 versus Base85 Encoding](https://www.johndcook.com/blog/2025/07/23/base58-base85/)
 * [2025-07-23, 16:15:07](https://news.ycombinator.com/item?id=44660863) - [AI Friend Apps Are Destroying What's Left of Society](https://www.currentaffairs.org/news/ai-friend-apps-are-destroying-whats-left-of-society)
 * [2025-07-23, 16:04:30](https://news.ycombinator.com/item?id=44660736) - [Show HN: The missing link of a bookstore's tech stack](https://bookhead.net/)
 * [2025-07-23, 15:57:11](https://news.ycombinator.com/item?id=44660656) - [Reading QR codes without a computer](https://qr.blinry.org/)
