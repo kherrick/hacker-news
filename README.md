@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-27, 17:27:26](https://news.ycombinator.com/item?id=44702894) - [Show HN: Windows 7 GUI for the Web](https://khang-nd.github.io/7.css/)
+* [2025-07-27, 17:13:25](https://news.ycombinator.com/item?id=44702782) - [Tom Lehrer, Musical Satirist with a Dark Streak, Dies at 97](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
 * [2025-07-27, 15:30:59](https://news.ycombinator.com/item?id=44702046) - [Claude Code Is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/)
 * [2025-07-27, 14:28:49](https://news.ycombinator.com/item?id=44701574) - [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 * [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
@@ -20,7 +21,6 @@
 * [2025-07-26, 21:24:51](https://news.ycombinator.com/item?id=44697007) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What went wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How we rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
-* [2025-07-26, 12:20:55](https://news.ycombinator.com/item?id=44693570) - [The natural diamond industry is getting rocked. Thank the lab-grown variety](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336)
 * [2025-07-24, 10:19:59](https://news.ycombinator.com/item?id=44669026) - [BlueOS Kernel – Written in Rust, compatible with POSIX](https://github.com/vivoblueos/kernel)
 * [2025-07-24, 01:41:39](https://news.ycombinator.com/item?id=44665982) - [Low cost mmWave 60GHz radar sensor for advanced sensing](https://www.infineon.com/part/BGT60TR13C)
 * [2025-07-24, 01:12:35](https://news.ycombinator.com/item?id=44665816) - [16colo.rs: ANSI/ASCII art archive](https://16colo.rs/)
