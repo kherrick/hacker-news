@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-27, 12:44:31](https://news.ycombinator.com/item?id=44700923) - [Beetroot juice lowers blood pressure in older people by changing oral microbiome](https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/)
-* [2025-07-27, 11:21:42](https://news.ycombinator.com/item?id=44700471) - [No AI Content](https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/)
 * [2025-07-27, 09:21:13](https://news.ycombinator.com/item?id=44699980) - [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
 * [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 * [2025-07-27, 07:07:09](https://news.ycombinator.com/item?id=44699421) - [When we get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
@@ -22,6 +21,7 @@
 * [2025-07-26, 10:08:09](https://news.ycombinator.com/item?id=44692876) - [Rust running on every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 * [2025-07-24, 12:30:17](https://news.ycombinator.com/item?id=44669864) - [StackSafe: Taming Recursion in Rust Without Stack Overflow](https://fast.github.io/blog/stacksafe-taming-recursion-in-rust-without-stack-overflow/)
 * [2025-07-24, 10:19:59](https://news.ycombinator.com/item?id=44669026) - [BlueOS Kernel – Written in Rust, compatible with POSIX](https://github.com/vivoblueos/kernel)
+* [2025-07-24, 04:40:27](https://news.ycombinator.com/item?id=44666984) - [Getting decent error reports in Bash when you're using 'set -e'](https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports)
 * [2025-07-24, 01:41:39](https://news.ycombinator.com/item?id=44665982) - [Low cost mmWave 60GHz radar sensor for advanced sensing](https://www.infineon.com/part/BGT60TR13C)
 * [2025-07-24, 01:12:35](https://news.ycombinator.com/item?id=44665816) - [16colo.rs: ANSI/ASCII art archive](https://16colo.rs/)
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
