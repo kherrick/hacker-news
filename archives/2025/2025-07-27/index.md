@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 10:44:22](https://news.ycombinator.com/item?id=44700335) - [Jeff Bezos doesn't believe in PowerPoint, and his employees agree](https://texttoslides.ai/blog/amazon-not-using-powerpoint)
 * [2025-07-27, 09:41:31](https://news.ycombinator.com/item?id=44700064) - [US drops sanctions on Myanmar junta's allies after military chief praises man](https://www.abc.net.au/news/2025-07-26/us-drops-sanctions-on-myanmar-junta-allies-after-trump-praise/105576812)
+* [2025-07-27, 09:21:13](https://news.ycombinator.com/item?id=44699980) - [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
 * [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Sapients paper on the concept of Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 * [2025-07-27, 07:11:16](https://news.ycombinator.com/item?id=44699437) - [Beyond Food and People](https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious)
 * [2025-07-27, 07:07:09](https://news.ycombinator.com/item?id=44699421) - [When We Get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
