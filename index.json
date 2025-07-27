@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-27, 07:15:57",
+      "https://news.ycombinator.com/item?id=44699452"
+    ],
+    [
+      "Sapients paper on the concept of Hierarchical Reasoning Model",
+      "https://arxiv.org/abs/2506.21734"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 07:11:16",
+      "https://news.ycombinator.com/item?id=44699437"
+    ],
+    [
+      "Beyond Food and People",
+      "https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 07:01:02",
+      "https://news.ycombinator.com/item?id=44699393"
+    ],
+    [
+      "Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops",
+      "https://www.linaro.org/blog/linux-on-snapdragon-x-elite/"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 05:17:03",
       "https://news.ycombinator.com/item?id=44699052"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-07-26, 18:44:57",
-      "https://news.ycombinator.com/item?id=44696167"
-    ],
-    [
-      "Test Results for AMD Zen 5",
-      "https://www.agner.org/forum/viewtopic.php?t=287&start=10"
-    ]
-  ],
-  [
-    [
       "2025-07-26, 18:25:13",
       "https://news.ycombinator.com/item?id=44696033"
     ],
@@ -251,6 +271,16 @@
   ],
   [
     [
+      "2025-07-23, 20:49:58",
+      "https://news.ycombinator.com/item?id=44663887"
+    ],
+    [
+      "Implementing dynamic scope for Fennel and Lua",
+      "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 17:12:57",
       "https://news.ycombinator.com/item?id=44661571"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-07-23, 15:47:45",
-      "https://news.ycombinator.com/item?id=44660547"
-    ],
-    [
-      "Millet mystery: A staple crop failed to take root in ancient Japanese kitchens",
-      "https://phys.org/news/2025-07-millet-mystery-staple-crop-root.html"
-    ]
-  ],
-  [
-    [
       "2025-07-23, 15:20:28",
       "https://news.ycombinator.com/item?id=44660219"
     ],
     [
       "A low power 1U Raspberry Pi cluster server for inexpensive colocation",
       "https://github.com/pawl/raspberry-pi-1u-server"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 23:05:07",
-      "https://news.ycombinator.com/item?id=44654031"
-    ],
-    [
-      "Large ancient Hawaiian petroglyphs uncovered by waves on Oahu",
-      "https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 22:02:21",
-      "https://news.ycombinator.com/item?id=44653509"
-    ],
-    [
-      "Tinyio: A tiny (~200 line) event loop for Python",
-      "https://github.com/patrick-kidger/tinyio"
     ]
   ]
 ]
