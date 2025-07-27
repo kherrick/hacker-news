@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-27, 14:25:47",
+      "https://news.ycombinator.com/item?id=44701555"
+    ],
+    [
+      "Dumb Pipe",
+      "https://www.dumbpipe.dev/"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 12:44:31",
       "https://news.ycombinator.com/item?id=44700923"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-07-26, 12:20:55",
-      "https://news.ycombinator.com/item?id=44693570"
-    ],
-    [
-      "The natural diamond industry is getting rocked. Thank the lab-grown variety",
-      "https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336"
-    ]
-  ],
-  [
-    [
       "2025-07-26, 10:08:09",
       "https://news.ycombinator.com/item?id=44692876"
     ],
@@ -207,16 +207,6 @@
     [
       "BlueOS Kernel – Written in Rust, compatible with POSIX",
       "https://github.com/vivoblueos/kernel"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 04:40:27",
-      "https://news.ycombinator.com/item?id=44666984"
-    ],
-    [
-      "Getting decent error reports in Bash when you're using 'set -e'",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Cable bacteria are living batteries",
       "https://www.asimov.press/p/cable-bacteria"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 16:59:31",
+      "https://news.ycombinator.com/item?id=44661402"
+    ],
+    [
+      "Base58 versus Base85 Encoding",
+      "https://www.johndcook.com/blog/2025/07/23/base58-base85/"
     ]
   ],
   [
