@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44704736"
     ],
     [
-      "Making Postgres 42,000x slower because I am unemployed",
+      "Making Postgres slower",
       "https://byteofdev.com/posts/making-postgres-slow/"
     ]
   ],
@@ -87,6 +87,16 @@
     [
       "I hacked my washing machine",
       "https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 20:03:05",
+      "https://news.ycombinator.com/item?id=44704214"
+    ],
+    [
+      "A Retrospective on Paradigms of AI Programming (2002)",
+      "https://norvig.com/Lisp-retro.html"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-07-27, 03:38:27",
-      "https://news.ycombinator.com/item?id=44698754"
-    ],
-    [
-      "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
-      "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 19:13:59",
       "https://news.ycombinator.com/item?id=44687145"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-07-24, 04:07:42",
+      "https://news.ycombinator.com/item?id=44666824"
+    ],
+    [
+      "Why I write recursive descent parsers (despite their issues)",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 00:47:24",
       "https://news.ycombinator.com/item?id=44665662"
     ],
     [
       "Katharine Graham: The Washington Post",
       "https://fs.blog/knowledge-project-podcast/outliers-katharine-graham/"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 12:58:48",
-      "https://news.ycombinator.com/item?id=44658722"
-    ],
-    [
-      "High-performance RISC-V processors: UltraRISC UR-DP1000, Zhihe A210, SpacemIT K3",
-      "https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/"
     ]
   ],
   [
