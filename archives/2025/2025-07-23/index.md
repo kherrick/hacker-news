@@ -38,6 +38,7 @@
 * [2025-07-23, 15:04:27](https://news.ycombinator.com/item?id=44660041) - [Reverse Engineering the GHA Cache to Improve Performance](https://depot.dev/blog/github-actions-cache)
 * [2025-07-23, 14:56:31](https://news.ycombinator.com/item?id=44659921) - [Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
 * [2025-07-23, 14:48:22](https://news.ycombinator.com/item?id=44659822) - [Proxmox Donates €10k to the Perl and Raku Foundation](https://www.perl.com/article/proxmox-donates-to-tprf/)
+* [2025-07-23, 14:44:38](https://news.ycombinator.com/item?id=44659792) - [Algos and Code Performance: Your Code Works but Can It Handle Real Traffic?](https://beon.tech/blog/optimizing-algorithms-code-performance)
 * [2025-07-23, 14:37:12](https://news.ycombinator.com/item?id=44659712) - [Tram Trains](https://www.worksinprogress.news/p/tram-trains)
 * [2025-07-23, 14:32:23](https://news.ycombinator.com/item?id=44659661) - [Show HN: Self-updating MCP server for official pip, uv, poetry and conda docs](https://github.com/KemingHe/python-dependency-manager-companion-mcp-server)
 * [2025-07-23, 14:30:41](https://news.ycombinator.com/item?id=44659635) - [Uber will let women drivers and riders request to avoid being paired with men](https://www.cnbc.com/2025/07/23/uber-women-drivers-riders.html)
