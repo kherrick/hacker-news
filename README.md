@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-27, 18:55:25](https://news.ycombinator.com/item?id=44703613) - [Tom Lehrer, song satirist and mathematician, dies at 97](https://apnews.com/article/tom-lehrer-son-satirist-mathematician-dies-9caa7ee01faf4fbfb793d7ba984c179d)
 * [2025-07-27, 18:32:53](https://news.ycombinator.com/item?id=44703416) - [Itch.io is the latest marketplace to crack down on adult games](https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/)
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Disabling telemetry in ByteDance's VSCode fork increases data sent to its server](https://github.com/segmentationf4u1t/trae_telemetry_research)
 * [2025-07-27, 17:49:23](https://news.ycombinator.com/item?id=44703079) - [Allianz Life says 'majority' of customers' personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
@@ -27,7 +28,6 @@
 * [2025-07-24, 01:12:35](https://news.ycombinator.com/item?id=44665816) - [16colo.rs: ANSI/ASCII art archive](https://16colo.rs/)
 * [2025-07-24, 00:47:24](https://news.ycombinator.com/item?id=44665662) - [Katharine Graham: The Washington Post](https://fs.blog/knowledge-project-podcast/outliers-katharine-graham/)
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
-* [2025-07-23, 15:20:28](https://news.ycombinator.com/item?id=44660219) - [A low power 1U Raspberry Pi cluster server for inexpensive colocation (2021)](https://github.com/pawl/raspberry-pi-1u-server)
 * [2025-07-23, 12:58:48](https://news.ycombinator.com/item?id=44658722) - [High-performance RISC-V processors: UltraRISC UR-DP1000, Zhihe A210, SpacemIT K3](https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/)
 * [2025-07-23, 12:13:52](https://news.ycombinator.com/item?id=44658323) - [Return of wolves to Yellowstone has led to a surge in aspen trees](https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years)
 
