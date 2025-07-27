@@ -28,6 +28,7 @@
 * [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
 * [2025-07-26, 16:15:17](https://news.ycombinator.com/item?id=44695159) - [Is the Interstellar Object 3I/Atlas Alien Technology?](https://arxiv.org/abs/2507.12213)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
+* [2025-07-26, 13:50:26](https://news.ycombinator.com/item?id=44694085) - [Consciousness and being: How humans and AI influence each other](https://habr.com/en/articles/930946/)
 * [2025-07-26, 13:08:44](https://news.ycombinator.com/item?id=44693815) - [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
 * [2025-07-26, 13:05:15](https://news.ycombinator.com/item?id=44693803) - [I am a SOTA 0-shot classifier of your slop](https://christopherkrapu.com/blog/2025/i-know-you-didnt-write-that/)
 * [2025-07-26, 12:20:55](https://news.ycombinator.com/item?id=44693570) - [The natural diamond industry is getting rocked. Thank the lab-grown variety](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336)
