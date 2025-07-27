@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
 * [2025-07-27, 22:18:44](https://news.ycombinator.com/item?id=44705240) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
+* [2025-07-27, 22:09:14](https://news.ycombinator.com/item?id=44705171) - [Designing a Flatpack Bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 21:12:59](https://news.ycombinator.com/item?id=44704736) - [Making Postgres 42,000x slower because I am unemployed](https://byteofdev.com/posts/making-postgres-slow/)
 * [2025-07-27, 20:37:26](https://news.ycombinator.com/item?id=44704482) - [The Bootstrap Load](http://www.intel4004.com/btstrp.htm)
 * [2025-07-27, 20:30:27](https://news.ycombinator.com/item?id=44704422) - [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
