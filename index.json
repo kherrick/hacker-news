@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-07-26, 21:18:38",
-      "https://news.ycombinator.com/item?id=44696979"
-    ],
-    [
-      "OCaml Programming: Correct and Efficient and Beautiful",
-      "https://cs3110.github.io/textbook/cover.html"
-    ]
-  ],
-  [
-    [
       "2025-07-26, 21:03:03",
       "https://news.ycombinator.com/item?id=44696894"
     ],
@@ -257,6 +247,16 @@
     [
       "Millet mystery: A staple crop failed to take root in ancient Japanese kitchens",
       "https://phys.org/news/2025-07-millet-mystery-staple-crop-root.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 15:20:28",
+      "https://news.ycombinator.com/item?id=44660219"
+    ],
+    [
+      "A low power 1U Raspberry Pi cluster server for inexpensive colocation",
+      "https://github.com/pawl/raspberry-pi-1u-server"
     ]
   ],
   [
