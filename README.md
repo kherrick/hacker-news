@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-27, 05:17:03](https://news.ycombinator.com/item?id=44699052) - [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
 * [2025-07-27, 04:35:33](https://news.ycombinator.com/item?id=44698928) - [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
+* [2025-07-27, 04:26:08](https://news.ycombinator.com/item?id=44698899) - [The future is not self-hosted, but self-sovereign](https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign)
 * [2025-07-27, 03:38:27](https://news.ycombinator.com/item?id=44698754) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 * [2025-07-27, 03:34:47](https://news.ycombinator.com/item?id=44698733) - [Smallest particulate matter sensor revolutionizes air quality measurement](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
 * [2025-07-27, 01:28:36](https://news.ycombinator.com/item?id=44698185) - [Janet: Lightweight, Expressive, Modern Lisp](https://janet-lang.org)
 * [2025-07-26, 23:43:26](https://news.ycombinator.com/item?id=44697798) - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
-* [2025-07-26, 23:35:20](https://news.ycombinator.com/item?id=44697761) - [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
 * [2025-07-26, 23:03:26](https://news.ycombinator.com/item?id=44697590) - [Personal aviation is about to get interesting (2023)](https://www.elidourado.com/p/personal-aviation)
 * [2025-07-26, 22:39:19](https://news.ycombinator.com/item?id=44697465) - [Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload](https://arxiv.org/abs/2507.17615)
 * [2025-07-26, 22:32:45](https://news.ycombinator.com/item?id=44697437) - [Paul Dirac and the religion of mathematical beauty (2011) [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
@@ -27,7 +28,6 @@
 * [2025-07-23, 17:12:57](https://news.ycombinator.com/item?id=44661571) - [Cable Bacteria Are Living Batteries](https://www.asimov.press/p/cable-bacteria)
 * [2025-07-23, 15:47:45](https://news.ycombinator.com/item?id=44660547) - [Millet mystery: A staple crop failed to take root in ancient Japanese kitchens](https://phys.org/news/2025-07-millet-mystery-staple-crop-root.html)
 * [2025-07-23, 15:20:28](https://news.ycombinator.com/item?id=44660219) - [A low power 1U Raspberry Pi cluster server for inexpensive colocation](https://github.com/pawl/raspberry-pi-1u-server)
-* [2025-07-23, 10:22:05](https://news.ycombinator.com/item?id=44657550) - [Open Sauce is a confoundingly brilliant Bay Area event](https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event)
 * [2025-07-22, 23:05:07](https://news.ycombinator.com/item?id=44654031) - [Large ancient Hawaiian petroglyphs uncovered by waves on Oahu](https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php)
 * [2025-07-22, 22:02:21](https://news.ycombinator.com/item?id=44653509) - [Tinyio: A tiny (~200 line) event loop for Python](https://github.com/patrick-kidger/tinyio)
 
