@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 17:49:23](https://news.ycombinator.com/item?id=44703079) - [Allianz Life says 'majority' of customers' personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
 * [2025-07-27, 17:27:26](https://news.ycombinator.com/item?id=44702894) - [Show HN: Windows 7 GUI for the Web](https://khang-nd.github.io/7.css/)
 * [2025-07-27, 17:13:25](https://news.ycombinator.com/item?id=44702782) - [Tom Lehrer, Musical Satirist with a Dark Streak, Dies at 97](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
 * [2025-07-27, 15:30:59](https://news.ycombinator.com/item?id=44702046) - [Claude Code Is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/)
