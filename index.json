@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-07-27, 18:55:25",
-      "https://news.ycombinator.com/item?id=44703613"
-    ],
-    [
-      "Tom Lehrer, song satirist and mathematician, dies at 97",
-      "https://apnews.com/article/tom-lehrer-son-satirist-mathematician-dies-9caa7ee01faf4fbfb793d7ba984c179d"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 18:32:53",
-      "https://news.ycombinator.com/item?id=44703416"
-    ],
-    [
-      "Itch.io is the latest marketplace to crack down on adult games",
-      "https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 17:57:06",
       "https://news.ycombinator.com/item?id=44703164"
     ],
@@ -45,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44702894"
     ],
     [
-      "Show HN: Windows 7 GUI for the Web",
+      "Show HN: Windows 7 GUI for the web",
       "https://khang-nd.github.io/7.css/"
     ]
   ],
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44702782"
     ],
     [
-      "Tom Lehrer, Musical Satirist with a Dark Streak, Dies at 97",
+      "Tom Lehrer has died",
       "https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html"
     ]
   ],
@@ -221,12 +201,22 @@
   ],
   [
     [
-      "2025-07-24, 19:26:18",
-      "https://news.ycombinator.com/item?id=44674961"
+      "2025-07-26, 16:06:09",
+      "https://news.ycombinator.com/item?id=44695098"
     ],
     [
-      "Into the co-ferment kingdom: A trip to Finca Monteblanco",
-      "https://www.robertasami.com/coffee/into-the-coferment-kingdom"
+      "How we rooted Copilot",
+      "https://research.eye.security/how-we-rooted-copilot/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 14:59:32",
+      "https://news.ycombinator.com/item?id=44671528"
+    ],
+    [
+      "Government-Funded Alchemy",
+      "https://thebsdetector.substack.com/p/government-funded-alchemy"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Purple Earth hypothesis",
       "https://en.wikipedia.org/wiki/Purple_Earth_hypothesis"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 15:20:28",
+      "https://news.ycombinator.com/item?id=44660219"
+    ],
+    [
+      "A low power 1U Raspberry Pi cluster server for inexpensive colocation (2021)",
+      "https://github.com/pawl/raspberry-pi-1u-server"
     ]
   ],
   [
