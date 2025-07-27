@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-27, 23:24:01](https://news.ycombinator.com/item?id=44705627) - [The UK Is Poised to Ban VPNs](https://www.da.vidbuchanan.co.uk/blog/compliance-vs-circumvention.html)
 * [2025-07-27, 23:22:30](https://news.ycombinator.com/item?id=44705619) - [Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks](https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html)
 * [2025-07-27, 23:01:01](https://news.ycombinator.com/item?id=44705494) - [ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea](https://github.com/babycommando/zuse)
 * [2025-07-27, 22:18:44](https://news.ycombinator.com/item?id=44705240) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
@@ -12,6 +11,7 @@
 * [2025-07-27, 20:15:50](https://news.ycombinator.com/item?id=44704319) - [Electrified dry reforming of methane on Ni-La2O3–loaded activated carbon](https://www.science.org/doi/10.1126/sciadv.adv1585)
 * [2025-07-27, 20:13:55](https://news.ycombinator.com/item?id=44704305) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
 * [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
+* [2025-07-27, 20:03:05](https://news.ycombinator.com/item?id=44704214) - [A Retrospective on Paradigms of AI Programming (2002)](https://norvig.com/Lisp-retro.html)
 * [2025-07-27, 19:31:39](https://news.ycombinator.com/item?id=44703908) - [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org)
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Performance and Telemetry Analysis of Trae IDE, ByteDance's VSCode Fork](https://github.com/segmentationf4u1t/trae_telemetry_research)
 * [2025-07-27, 17:49:23](https://news.ycombinator.com/item?id=44703079) - [Allianz Life says 'majority' of customers' personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
