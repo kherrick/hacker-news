@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-27, 14:29:14",
-      "https://news.ycombinator.com/item?id=44701579"
+      "2025-07-27, 15:30:59",
+      "https://news.ycombinator.com/item?id=44702046"
     ],
     [
-      "No",
-      "https://olu.online/no/"
+      "Claude Code Is a Slot Machine",
+      "https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 14:28:49",
+      "https://news.ycombinator.com/item?id=44701574"
+    ],
+    [
+      "The many, many, many JavaScript runtimes of the last decade",
+      "https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/"
     ]
   ],
   [
@@ -191,22 +201,12 @@
   ],
   [
     [
-      "2025-07-26, 10:08:09",
-      "https://news.ycombinator.com/item?id=44692876"
+      "2025-07-26, 12:20:55",
+      "https://news.ycombinator.com/item?id=44693570"
     ],
     [
-      "Rust running on every GPU",
-      "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 12:30:17",
-      "https://news.ycombinator.com/item?id=44669864"
-    ],
-    [
-      "StackSafe: Taming Recursion in Rust Without Stack Overflow",
-      "https://fast.github.io/blog/stacksafe-taming-recursion-in-rust-without-stack-overflow/"
+      "The natural diamond industry is getting rocked. Thank the lab-grown variety",
+      "https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-07-23, 17:12:57",
-      "https://news.ycombinator.com/item?id=44661571"
+      "2025-07-23, 20:49:58",
+      "https://news.ycombinator.com/item?id=44663887"
     ],
     [
-      "Cable bacteria are living batteries",
-      "https://www.asimov.press/p/cable-bacteria"
+      "Implementing dynamic scope for Fennel and Lua",
+      "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/"
     ]
   ],
   [
