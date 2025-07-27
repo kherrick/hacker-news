@@ -71,6 +71,7 @@
 * [2025-07-24, 01:41:39](https://news.ycombinator.com/item?id=44665982) - [Low cost mmWave 60GHz radar sensor for advanced sensing](https://www.infineon.com/part/BGT60TR13C)
 * [2025-07-24, 01:33:48](https://news.ycombinator.com/item?id=44665928) - [BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia](https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia)
 * [2025-07-24, 01:18:29](https://news.ycombinator.com/item?id=44665845) - [Tesla Q2 2025 Update [pdf]](https://www.tesla.com/sites/default/files/downloads/TSLA-Q2-2025-Update.pdf)
+* [2025-07-24, 01:12:35](https://news.ycombinator.com/item?id=44665816) - [16colo.rs: ANSI/ASCII art archive](https://16colo.rs/)
 * [2025-07-24, 01:12:14](https://news.ycombinator.com/item?id=44665815) - [BGP Tools](https://bgp.tools/)
 * [2025-07-24, 00:53:45](https://news.ycombinator.com/item?id=44665704) - [Vintage Macintosh Programming Book Library (2017)](https://vintageapple.org/macprogramming/index_year.html)
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth Hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
