@@ -63,6 +63,7 @@
 * [2025-07-23, 12:41:23](https://news.ycombinator.com/item?id=44658547) - [Apple Introduces AppleCare One](https://www.apple.com/newsroom/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/)
 * [2025-07-23, 12:32:16](https://news.ycombinator.com/item?id=44658485) - [Show HN: Open IT Maintenance Planner](https://maintenance-planner.vangemert.dev/)
 * [2025-07-23, 12:28:59](https://news.ycombinator.com/item?id=44658458) - [Are we Trek yet? – A guide for how close we are to Star Trek technology](https://arewetrekyet.com/)
+* [2025-07-23, 12:13:52](https://news.ycombinator.com/item?id=44658323) - [Return of wolves to Yellowstone has led to a surge in aspen trees](https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years)
 * [2025-07-23, 12:00:36](https://news.ycombinator.com/item?id=44658233) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.com/careers/technical-content-lead/)
 * [2025-07-23, 11:58:08](https://news.ycombinator.com/item?id=44658213) - [Ask HN: How many of you are working in tech without a STEM degree?](https://news.ycombinator.com/item?id=44658213)
 * [2025-07-23, 11:48:17](https://news.ycombinator.com/item?id=44658127) - [Instapaper Rakuten Kobo Integration](https://blog.instapaper.com/post/789685899750424576/instapaper-rakuten-kobo-integration)
