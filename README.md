@@ -28,7 +28,7 @@
 * [2025-07-23, 20:49:58](https://news.ycombinator.com/item?id=44663887) - [Implementing dynamic scope for Fennel and Lua](https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/)
 * [2025-07-23, 17:12:57](https://news.ycombinator.com/item?id=44661571) - [Cable Bacteria Are Living Batteries](https://www.asimov.press/p/cable-bacteria)
 * [2025-07-23, 15:57:11](https://news.ycombinator.com/item?id=44660656) - [Reading QR codes without a computer](https://qr.blinry.org/)
-* [2025-07-23, 15:20:28](https://news.ycombinator.com/item?id=44660219) - [A low power 1U Raspberry Pi cluster server for inexpensive colocation](https://github.com/pawl/raspberry-pi-1u-server)
+* [2025-07-23, 15:20:28](https://news.ycombinator.com/item?id=44660219) - [A low power 1U Raspberry Pi cluster server for inexpensive colocation (2021)](https://github.com/pawl/raspberry-pi-1u-server)
 * [2025-07-23, 12:58:48](https://news.ycombinator.com/item?id=44658722) - [Three high-performance RISC-V processors to watch in H2 2025](https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/)
 
 ## [Archives](archives/index.md)
