@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-27, 17:27:26](https://news.ycombinator.com/item?id=44702894) - [Show HN: Windows 7 GUI for the Web](https://khang-nd.github.io/7.css/)
 * [2025-07-27, 15:30:59](https://news.ycombinator.com/item?id=44702046) - [Claude Code Is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/)
 * [2025-07-27, 14:28:49](https://news.ycombinator.com/item?id=44701574) - [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 * [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
@@ -14,7 +15,6 @@
 * [2025-07-27, 03:38:27](https://news.ycombinator.com/item?id=44698754) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 * [2025-07-27, 03:34:47](https://news.ycombinator.com/item?id=44698733) - [Smallest particulate matter air quality sensor for ultra-compact IoT devices](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
 * [2025-07-27, 01:28:36](https://news.ycombinator.com/item?id=44698185) - [Janet: Lightweight, Expressive, Modern Lisp](https://janet-lang.org)
-* [2025-07-26, 23:03:26](https://news.ycombinator.com/item?id=44697590) - [Personal aviation is about to get interesting (2023)](https://www.elidourado.com/p/personal-aviation)
 * [2025-07-26, 21:45:07](https://news.ycombinator.com/item?id=44697145) - [Coronary artery calcium testing can reveal plaque in arteries, but is underused](https://www.nytimes.com/2025/07/26/health/coronary-artery-calcium-heart.html)
 * [2025-07-26, 21:43:57](https://news.ycombinator.com/item?id=44697131) - [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:24:51](https://news.ycombinator.com/item?id=44697007) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)

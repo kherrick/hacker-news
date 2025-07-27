@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 17:27:26](https://news.ycombinator.com/item?id=44702894) - [Show HN: Windows 7 GUI for the Web](https://khang-nd.github.io/7.css/)
 * [2025-07-27, 15:30:59](https://news.ycombinator.com/item?id=44702046) - [Claude Code Is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/)
 * [2025-07-27, 14:29:14](https://news.ycombinator.com/item?id=44701579) - [No](https://olu.online/no/)
 * [2025-07-27, 14:28:49](https://news.ycombinator.com/item?id=44701574) - [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
