@@ -39,6 +39,7 @@
 * [2025-07-24, 15:20:59](https://news.ycombinator.com/item?id=44671804) - [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
 * [2025-07-24, 15:05:12](https://news.ycombinator.com/item?id=44671601) - [Show HN: Nia – MCP server that gives more context to coding agents](https://www.trynia.ai/)
 * [2025-07-24, 15:03:56](https://news.ycombinator.com/item?id=44671584) - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
+* [2025-07-24, 14:59:32](https://news.ycombinator.com/item?id=44671528) - [Government-Funded Alchemy](https://thebsdetector.substack.com/p/government-funded-alchemy)
 * [2025-07-24, 14:57:05](https://news.ycombinator.com/item?id=44671484) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
 * [2025-07-24, 14:55:53](https://news.ycombinator.com/item?id=44671472) - [A list of changes to make it easier to build beautiful and walkable places](https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places)
 * [2025-07-24, 14:48:21](https://news.ycombinator.com/item?id=44671375) - [Transformers Without Normalization](https://arxiv.org/abs/2503.10622)
