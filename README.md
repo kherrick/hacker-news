@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Sapients paper on the concept of Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
+* [2025-07-27, 07:11:16](https://news.ycombinator.com/item?id=44699437) - [Beyond Food and People](https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious)
+* [2025-07-27, 07:01:02](https://news.ycombinator.com/item?id=44699393) - [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/)
 * [2025-07-27, 05:17:03](https://news.ycombinator.com/item?id=44699052) - [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
 * [2025-07-27, 04:35:33](https://news.ycombinator.com/item?id=44698928) - [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
 * [2025-07-27, 04:26:08](https://news.ycombinator.com/item?id=44698899) - [The future is not self-hosted, but self-sovereign](https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign)
@@ -14,7 +17,6 @@
 * [2025-07-26, 21:43:57](https://news.ycombinator.com/item?id=44697131) - [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:24:51](https://news.ycombinator.com/item?id=44697007) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2025-07-26, 21:03:03](https://news.ycombinator.com/item?id=44696894) - [Arvo Pärt at 90](https://www.theguardian.com/music/2025/jul/24/the-god-of-small-things-celebrating-arvo-part-at-90)
-* [2025-07-26, 18:44:57](https://news.ycombinator.com/item?id=44696167) - [Test Results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What went wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
 * [2025-07-26, 18:00:32](https://news.ycombinator.com/item?id=44695877) - [Where are vacation homes located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How we rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
@@ -25,11 +27,9 @@
 * [2025-07-24, 01:12:35](https://news.ycombinator.com/item?id=44665816) - [16colo.rs: ANSI/ASCII art archive](https://16colo.rs/)
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
 * [2025-07-23, 21:22:22](https://news.ycombinator.com/item?id=44664176) - [Shallow water is dangerous too](https://www.jefftk.com/p/shallow-water-is-dangerous-too)
+* [2025-07-23, 20:49:58](https://news.ycombinator.com/item?id=44663887) - [Implementing dynamic scope for Fennel and Lua](https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/)
 * [2025-07-23, 17:12:57](https://news.ycombinator.com/item?id=44661571) - [Cable Bacteria Are Living Batteries](https://www.asimov.press/p/cable-bacteria)
-* [2025-07-23, 15:47:45](https://news.ycombinator.com/item?id=44660547) - [Millet mystery: A staple crop failed to take root in ancient Japanese kitchens](https://phys.org/news/2025-07-millet-mystery-staple-crop-root.html)
 * [2025-07-23, 15:20:28](https://news.ycombinator.com/item?id=44660219) - [A low power 1U Raspberry Pi cluster server for inexpensive colocation](https://github.com/pawl/raspberry-pi-1u-server)
-* [2025-07-22, 23:05:07](https://news.ycombinator.com/item?id=44654031) - [Large ancient Hawaiian petroglyphs uncovered by waves on Oahu](https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php)
-* [2025-07-22, 22:02:21](https://news.ycombinator.com/item?id=44653509) - [Tinyio: A tiny (~200 line) event loop for Python](https://github.com/patrick-kidger/tinyio)
 
 ## [Archives](archives/index.md)
 

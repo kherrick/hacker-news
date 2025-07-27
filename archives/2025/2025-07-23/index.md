@@ -7,6 +7,7 @@
 * [2025-07-23, 23:56:25](https://news.ycombinator.com/item?id=44665373) - [I drank every cocktail](https://aaronson.org/blog/i-drank-every-cocktail)
 * [2025-07-23, 22:53:27](https://news.ycombinator.com/item?id=44664873) - [I made Tinder but it's only pictures of my wife and I can only swipe right](https://trytender.app/)
 * [2025-07-23, 21:22:22](https://news.ycombinator.com/item?id=44664176) - [Shallow Water Is Dangerous Too](https://www.jefftk.com/p/shallow-water-is-dangerous-too)
+* [2025-07-23, 20:49:58](https://news.ycombinator.com/item?id=44663887) - [Implementing dynamic scope for Fennel and Lua](https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/)
 * [2025-07-23, 20:31:16](https://news.ycombinator.com/item?id=44663684) - [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
 * [2025-07-23, 19:50:12](https://news.ycombinator.com/item?id=44663227) - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
 * [2025-07-23, 19:34:56](https://news.ycombinator.com/item?id=44663074) - [AMD CEO sees chips from TSMC's US plant costing 5%-20% more](https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more)
