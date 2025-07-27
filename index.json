@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-07-27, 11:21:42",
-      "https://news.ycombinator.com/item?id=44700471"
-    ],
-    [
-      "No AI Content",
-      "https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 09:21:13",
       "https://news.ycombinator.com/item?id=44699980"
     ],
@@ -217,6 +207,16 @@
     [
       "BlueOS Kernel – Written in Rust, compatible with POSIX",
       "https://github.com/vivoblueos/kernel"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 04:40:27",
+      "https://news.ycombinator.com/item?id=44666984"
+    ],
+    [
+      "Getting decent error reports in Bash when you're using 'set -e'",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports"
     ]
   ],
   [
