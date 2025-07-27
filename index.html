@@ -141,11 +141,11 @@
             <h4>
               <span>2025-07-27 @ 18:32:53</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44703416"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -163,13 +163,54 @@
             <h4>
               <span>2025-07-27 @ 17:57:06</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">279</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44703164"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
+            <div class="text">
+              <p>Here are the key findings:</p>
+              <p>
+                1. Extreme Resource Consumption: Out of the box, Trae used 6.3x
+                more RAM (~5.7 GB) and spawned 3.7x more processes (33 total)
+                than a standard VSCode setup with the same project open. The
+                team has since made improvements, but it's still significantly
+                heavier.
+              </p>
+              <p>
+                2. Telemetry Opt-Out Doesn't Work (It Makes It Worse): I found
+                Trae was constantly sending data to ByteDance servers
+                (byteoversea.com). I went into the settings and disabled all
+                telemetry. To my surprise, this didn't stop the traffic. In
+                fact, it increased the frequency of batch data collection. The
+                telemetry "off" switch appears to be purely cosmetic.
+              </p>
+              <p>
+                3. What's Being Sent: Even with telemetry "disabled," Trae sends
+                detailed payloads including: Hardware specs (CPU, memory, etc.)
+                Persistent user, device, and machine IDs OS version, app
+                language, user name Granular usage data like time-on-ide, window
+                focus state, and active file types.
+              </p>
+              <p>
+                4. Community Censorship: When I tried to discuss these findings
+                on their official Discord, my posts were deleted and my account
+                was muted for 7 days. It seems words like "track" trigger an
+                automated gag rule, which prevents any real discussion about
+                privacy.
+              </p>
+              <p>
+                I believe developers should be aware of this behavior. The
+                combination of resource drain, non-functional privacy settings,
+                and censorship of technical feedback is a major red flag. The
+                full, detailed analysis with all the evidence (process lists,
+                Fiddler captures, JSON payloads, and screenshots of the Discord
+                moderation) is available at the link. Happy to answer any
+                questions.
+              </p>
+            </div>
           </section>
         </section>
         <section id="44703079">
@@ -185,11 +226,11 @@
             <h4>
               <span>2025-07-27 @ 17:49:23</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44703079"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -204,11 +245,11 @@
             <h4>
               <span>2025-07-27 @ 17:27:26</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44702894"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -223,11 +264,11 @@
             <h4>
               <span>2025-07-27 @ 17:19:19</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44702833"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
             <div class="text">
@@ -248,11 +289,11 @@
             <h4>
               <span>2025-07-27 @ 17:13:25</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44702782"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -290,11 +331,11 @@
             <h4>
               <span>2025-07-27 @ 14:28:49</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44701574"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -307,7 +348,7 @@
             <h4>
               <span>2025-07-27 @ 14:25:47</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">382</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44701555"
                   >Comments</a
@@ -333,7 +374,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44700923"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -354,7 +395,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44699980"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -369,11 +410,11 @@
             <h4>
               <span>2025-07-27 @ 07:15:57</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44699452"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -390,11 +431,11 @@
             <h4>
               <span>2025-07-27 @ 07:07:09</span
               ><span class="points-container"
-                >Points: <span class="points">392</span></span
+                >Points: <span class="points">393</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44699421"
                   >Comments</a
-                ><span class="descendants">: 211</span></span
+                ><span class="descendants">: 212</span></span
               >
             </h4>
           </section>
@@ -412,11 +453,11 @@
             <h4>
               <span>2025-07-27 @ 07:01:02</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44699393"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -434,11 +475,11 @@
             <h4>
               <span>2025-07-27 @ 05:17:03</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">293</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44699052"
                   >Comments</a
-                ><span class="descendants">: 354</span></span
+                ><span class="descendants">: 366</span></span
               >
             </h4>
           </section>
@@ -481,7 +522,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44698899"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -498,11 +539,11 @@
             <h4>
               <span>2025-07-27 @ 03:38:27</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44698754"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -539,7 +580,7 @@
             <h4>
               <span>2025-07-27 @ 01:28:36</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44698185"
                   >Comments</a
@@ -561,7 +602,7 @@
             <h4>
               <span>2025-07-26 @ 21:45:07</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44697145"
                   >Comments</a
@@ -623,7 +664,7 @@
             <h4>
               <span>2025-07-24 @ 01:51:04</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44666032"
                   >Comments</a
@@ -642,7 +683,7 @@
             <h4>
               <span>2025-07-24 @ 01:12:35</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44665816"
                   >Comments</a
@@ -667,7 +708,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44665662"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -710,7 +751,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44660219"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -750,11 +791,11 @@
             <h4>
               <span>2025-07-23 @ 12:13:52</span
               ><span class="points-container"
-                >Points: <span class="points">281</span></span
+                >Points: <span class="points">286</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44658323"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 155</span></span
               >
             </h4>
             <div class="text">
