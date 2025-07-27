@@ -2,6 +2,7 @@
 
 * [2025-07-27, 20:37:26](https://news.ycombinator.com/item?id=44704482) - [The Bootstrap Load](http://www.intel4004.com/btstrp.htm)
 * [2025-07-27, 20:30:27](https://news.ycombinator.com/item?id=44704422) - [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
+* [2025-07-27, 20:25:20](https://news.ycombinator.com/item?id=44704391) - [The Evilization of Google–and What to Do About It](https://billdembski.substack.com/p/the-evilization-of-googleand-what)
 * [2025-07-27, 20:23:21](https://news.ycombinator.com/item?id=44704377) - [GPT might be an information virus (2023)](https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/)
 * [2025-07-27, 20:13:55](https://news.ycombinator.com/item?id=44704305) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
 * [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
@@ -26,7 +27,6 @@
 * [2025-07-24, 14:59:32](https://news.ycombinator.com/item?id=44671528) - [Government-Funded Alchemy](https://thebsdetector.substack.com/p/government-funded-alchemy)
 * [2025-07-24, 12:39:18](https://news.ycombinator.com/item?id=44669937) - [Dual-Brain Challenge Tetris Game](https://splitris.online/)
 * [2025-07-24, 10:19:59](https://news.ycombinator.com/item?id=44669026) - [BlueOS Kernel – Written in Rust, compatible with POSIX](https://github.com/vivoblueos/kernel)
-* [2025-07-24, 01:51:04](https://news.ycombinator.com/item?id=44666032) - [When photography was born, fascination, obsession, and danger followed](https://www.washingtonpost.com/books/2025/07/12/flashes-brilliance-history-early-photography-anika-burgess-review/)
 * [2025-07-24, 00:47:24](https://news.ycombinator.com/item?id=44665662) - [Katharine Graham: The Washington Post](https://fs.blog/knowledge-project-podcast/outliers-katharine-graham/)
 * [2025-07-23, 12:58:48](https://news.ycombinator.com/item?id=44658722) - [High-performance RISC-V processors: UltraRISC UR-DP1000, Zhihe A210, SpacemIT K3](https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/)
 * [2025-07-23, 12:13:52](https://news.ycombinator.com/item?id=44658323) - [Return of wolves to Yellowstone has led to a surge in aspen trees](https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years)
