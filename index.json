@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-07-27, 20:25:20",
-      "https://news.ycombinator.com/item?id=44704391"
-    ],
-    [
-      "The Evilization of Google–and What to Do About It",
-      "https://billdembski.substack.com/p/the-evilization-of-googleand-what"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 20:23:21",
       "https://news.ycombinator.com/item?id=44704377"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44703164"
     ],
     [
-      "Disabling telemetry in ByteDance's VSCode fork increases data sent to its server",
+      "Performance and Telemetry Analysis of Trae IDE, ByteDance's VSCode Fork",
       "https://github.com/segmentationf4u1t/trae_telemetry_research"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "BlueOS Kernel – Written in Rust, compatible with POSIX",
       "https://github.com/vivoblueos/kernel"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 01:51:04",
+      "https://news.ycombinator.com/item?id=44666032"
+    ],
+    [
+      "When photography was born, fascination, obsession, and danger followed",
+      "https://www.washingtonpost.com/books/2025/07/12/flashes-brilliance-history-early-photography-anika-burgess-review/"
     ]
   ],
   [
