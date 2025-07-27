@@ -2,6 +2,7 @@
 
 * [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Sapients paper on the concept of Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 * [2025-07-27, 07:11:16](https://news.ycombinator.com/item?id=44699437) - [Beyond Food and People](https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious)
+* [2025-07-27, 07:07:09](https://news.ycombinator.com/item?id=44699421) - [When We Get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
 * [2025-07-27, 07:01:02](https://news.ycombinator.com/item?id=44699393) - [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/)
 * [2025-07-27, 05:17:03](https://news.ycombinator.com/item?id=44699052) - [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
 * [2025-07-27, 04:35:33](https://news.ycombinator.com/item?id=44698928) - [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
@@ -26,7 +27,6 @@
 * [2025-07-24, 01:41:39](https://news.ycombinator.com/item?id=44665982) - [Low cost mmWave 60GHz radar sensor for advanced sensing](https://www.infineon.com/part/BGT60TR13C)
 * [2025-07-24, 01:12:35](https://news.ycombinator.com/item?id=44665816) - [16colo.rs: ANSI/ASCII art archive](https://16colo.rs/)
 * [2025-07-24, 00:43:38](https://news.ycombinator.com/item?id=44665644) - [Purple Earth hypothesis](https://en.wikipedia.org/wiki/Purple_Earth_hypothesis)
-* [2025-07-23, 21:22:22](https://news.ycombinator.com/item?id=44664176) - [Shallow water is dangerous too](https://www.jefftk.com/p/shallow-water-is-dangerous-too)
 * [2025-07-23, 20:49:58](https://news.ycombinator.com/item?id=44663887) - [Implementing dynamic scope for Fennel and Lua](https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/)
 * [2025-07-23, 17:12:57](https://news.ycombinator.com/item?id=44661571) - [Cable Bacteria Are Living Batteries](https://www.asimov.press/p/cable-bacteria)
 * [2025-07-23, 15:20:28](https://news.ycombinator.com/item?id=44660219) - [A low power 1U Raspberry Pi cluster server for inexpensive colocation](https://github.com/pawl/raspberry-pi-1u-server)
