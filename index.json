@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=44699452"
     ],
     [
-      "Sapients paper on the concept of Hierarchical Reasoning Model",
+      "Hierarchical Reasoning Model",
       "https://arxiv.org/abs/2506.21734"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 07:11:16",
-      "https://news.ycombinator.com/item?id=44699437"
-    ],
-    [
-      "Beyond Food and People",
-      "https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious"
     ]
   ],
   [
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44699421"
     ],
     [
-      "When We Get Komooted",
+      "When we get Komooted",
       "https://bikepacking.com/plog/when-we-get-komooted/"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Rust running on every GPU",
       "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 10:19:59",
+      "https://news.ycombinator.com/item?id=44669026"
+    ],
+    [
+      "BlueOS Kernel – Written in Rust, compatible with POSIX",
+      "https://github.com/vivoblueos/kernel"
     ]
   ],
   [
