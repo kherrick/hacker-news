@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-27, 04:35:33](https://news.ycombinator.com/item?id=44698928) - [Chemical Process Produces Critical Battery Metals with No Waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
 * [2025-07-27, 03:38:27](https://news.ycombinator.com/item?id=44698754) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 * [2025-07-27, 03:37:42](https://news.ycombinator.com/item?id=44698750) - [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)
 * [2025-07-26, 23:43:26](https://news.ycombinator.com/item?id=44697798) - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
@@ -16,7 +17,6 @@
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What went wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
 * [2025-07-26, 18:00:32](https://news.ycombinator.com/item?id=44695877) - [Where are vacation homes located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How we rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
-* [2025-07-26, 13:50:26](https://news.ycombinator.com/item?id=44694085) - [Consciousness and being: How humans and AI influence each other](https://habr.com/en/articles/930946/)
 * [2025-07-26, 12:20:55](https://news.ycombinator.com/item?id=44693570) - [The natural diamond industry is getting rocked. Thank the lab-grown variety](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336)
 * [2025-07-26, 10:08:09](https://news.ycombinator.com/item?id=44692876) - [Rust running on every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 * [2025-07-26, 02:54:43](https://news.ycombinator.com/item?id=44690911) - [CCTV footage captures video of an earthquake fault in motion](https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/)
