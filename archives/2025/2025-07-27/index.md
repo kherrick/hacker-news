@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
 * [2025-07-27, 20:37:26](https://news.ycombinator.com/item?id=44704482) - [The Bootstrap Load](http://www.intel4004.com/btstrp.htm)
+* [2025-07-27, 20:30:27](https://news.ycombinator.com/item?id=44704422) - [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
 * [2025-07-27, 20:25:20](https://news.ycombinator.com/item?id=44704391) - [The Evilization of Google–and What to Do About It](https://billdembski.substack.com/p/the-evilization-of-googleand-what)
+* [2025-07-27, 20:23:21](https://news.ycombinator.com/item?id=44704377) - [GPT might be an information virus (2023)](https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/)
+* [2025-07-27, 20:13:55](https://news.ycombinator.com/item?id=44704305) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
 * [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
 * [2025-07-27, 19:31:39](https://news.ycombinator.com/item?id=44703908) - [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org)
 * [2025-07-27, 19:27:20](https://news.ycombinator.com/item?id=44703865) - [Is Jeff Bezos killing The Washington Post on purpose or by accident?](https://news.ycombinator.com/item?id=44703865)
