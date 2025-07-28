@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-28, 04:35:00](https://news.ycombinator.com/item?id=44707261) - [\"Tivoization\" and Your Right to Install Under Copyleft and The GNU GPL](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
+* [2025-07-28, 05:18:10](https://news.ycombinator.com/item?id=44707440) - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
+* [2025-07-28, 04:35:00](https://news.ycombinator.com/item?id=44707261) - [\"Tivoization\" and Your Right to Install Under Copyleft and The GNU GPL (2021)](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
 * [2025-07-28, 02:33:04](https://news.ycombinator.com/item?id=44706653) - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
 * [2025-07-28, 01:46:44](https://news.ycombinator.com/item?id=44706428) - [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
 * [2025-07-28, 00:56:04](https://news.ycombinator.com/item?id=44706137) - [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
@@ -13,7 +14,6 @@
 * [2025-07-27, 20:30:27](https://news.ycombinator.com/item?id=44704422) - [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
 * [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork](https://github.com/segmentationf4u1t/trae_telemetry_research)
-* [2025-07-27, 17:49:23](https://news.ycombinator.com/item?id=44703079) - [Allianz Life says 'majority' of customers' personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
 * [2025-07-27, 17:19:19](https://news.ycombinator.com/item?id=44702833) - [Ask HN: What are you working on? (July 2025)](https://news.ycombinator.com/item?id=44702833)
 * [2025-07-27, 17:13:25](https://news.ycombinator.com/item?id=44702782) - [Tom Lehrer has died](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
 * [2025-07-27, 14:28:49](https://news.ycombinator.com/item?id=44701574) - [The many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
