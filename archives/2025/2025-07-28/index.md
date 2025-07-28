@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 17:04:46](https://news.ycombinator.com/item?id=44712831) - [The Rise of Vibeinsecurity](https://vibeinsecurity.com/)
 * [2025-07-28, 16:31:49](https://news.ycombinator.com/item?id=44712459) - [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)
 * [2025-07-28, 16:18:49](https://news.ycombinator.com/item?id=44712311) - [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)
 * [2025-07-28, 15:57:33](https://news.ycombinator.com/item?id=44712107) - [AI for Coding: Why Most Developers Are Getting It Wrong](https://www.ksred.com/ai-for-coding-why-most-developers-are-getting-it-wrong-and-how-to-get-it-right/)

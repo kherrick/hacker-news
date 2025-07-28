@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-28, 17:04:46](https://news.ycombinator.com/item?id=44712831) - [The Rise of Vibeinsecurity](https://vibeinsecurity.com/)
 * [2025-07-28, 16:31:49](https://news.ycombinator.com/item?id=44712459) - [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)
 * [2025-07-28, 16:18:49](https://news.ycombinator.com/item?id=44712311) - [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)
 * [2025-07-28, 15:21:13](https://news.ycombinator.com/item?id=44711745) - [Simplify, then add delightness: On designing for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
@@ -26,7 +27,6 @@
 * [2025-07-25, 11:08:45](https://news.ycombinator.com/item?id=44681858) - [Terminal app can now run full graphical Linux apps in the latest Android Canary](https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/)
 * [2025-07-24, 20:35:04](https://news.ycombinator.com/item?id=44675771) - [NixOS on a Tuxedo InfinityBook Pro 14 Gen9 AMD Laptop](https://fnune.com/hardware/2025/07/20/nixos-on-a-tuxedo-infinitybook-pro-14-gen9-amd/)
 * [2025-07-24, 20:10:15](https://news.ycombinator.com/item?id=44675438) - [A Photonic SRAM with Embedded XOR Logic for Ultra-Fast In-Memory Computing](https://arxiv.org/abs/2506.22707)
-* [2025-07-24, 19:35:31](https://news.ycombinator.com/item?id=44675053) - [How I fixed my blog's performance issues by writing a new Jekyll plugin](https://arclight.run/how-i-fixed-my-blogs-performance-issues-by-writing-a-new-jekyll-plugin-jekyll-skyhook/)
 * [2025-07-24, 15:53:58](https://news.ycombinator.com/item?id=44672230) - [Aeneas transforms how historians connect the past](https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/)
 * [2025-07-24, 15:20:49](https://news.ycombinator.com/item?id=44671802) - [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
 * [2025-07-24, 14:08:26](https://news.ycombinator.com/item?id=44670885) - [200k Flemish drivers can turn traffic lights green](https://www.vrt.be/vrtnws/en/2025/07/24/200-000-flemish-drivers-can-turn-traffic-lights-green-but-waze/)
