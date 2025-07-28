@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-07-28, 16:18:49",
+      "https://news.ycombinator.com/item?id=44712311"
+    ],
+    [
+      "I saved a PNG image to a bird",
+      "https://www.youtube.com/watch?v=hCQCP-5g5bo"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 15:57:33",
+      "https://news.ycombinator.com/item?id=44712107"
+    ],
+    [
+      "AI for Coding: Why Most Developers Are Getting It Wrong",
+      "https://www.ksred.com/ai-for-coding-why-most-developers-are-getting-it-wrong-and-how-to-get-it-right/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 15:30:24",
+      "https://news.ycombinator.com/item?id=44711836"
+    ],
+    [
+      "More Women Than Expected Are Genetically Men",
+      "https://novonordiskfonden.dk/en/news/more-women-than-expected-are-genetically-men/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 15:21:13",
+      "https://news.ycombinator.com/item?id=44711745"
+    ],
+    [
+      "Simplify, then add delightness: On designing for children",
+      "https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 15:06:00",
+      "https://news.ycombinator.com/item?id=44711612"
+    ],
+    [
+      "The first 100% effective HIV prevention drug is approved and going global",
+      "https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 14:57:55",
       "https://news.ycombinator.com/item?id=44711519"
     ],
@@ -17,6 +67,16 @@
     [
       "Tao on \"blue team\" vs. \"red team\" LLMs",
       "https://mathstodon.xyz/@tao/114915604830689046"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 14:15:52",
+      "https://news.ycombinator.com/item?id=44711106"
+    ],
+    [
+      "GLM-4.5: Reasoning, Coding, and Agentic Abililties",
+      "https://z.ai/blog/glm-4.5"
     ]
   ],
   [
@@ -121,16 +181,6 @@
   ],
   [
     [
-      "2025-07-28, 00:19:23",
-      "https://news.ycombinator.com/item?id=44705958"
-    ],
-    [
-      "Claude Code Router",
-      "https://github.com/musistudio/claude-code-router"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 22:51:28",
       "https://news.ycombinator.com/item?id=44705445"
     ],
@@ -141,42 +191,12 @@
   ],
   [
     [
-      "2025-07-27, 21:12:59",
-      "https://news.ycombinator.com/item?id=44704736"
-    ],
-    [
-      "Making Postgres slower",
-      "https://byteofdev.com/posts/making-postgres-slow/"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 20:09:29",
-      "https://news.ycombinator.com/item?id=44704270"
-    ],
-    [
-      "I hacked my washing machine",
-      "https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 17:57:06",
       "https://news.ycombinator.com/item?id=44703164"
     ],
     [
       "Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork",
       "https://github.com/segmentationf4u1t/trae_telemetry_research"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 17:19:19",
-      "https://news.ycombinator.com/item?id=44702833"
-    ],
-    [
-      "Ask HN: What are you working on? (July 2025)",
-      "https://news.ycombinator.com/item?id=44702833"
     ]
   ],
   [
@@ -221,6 +241,16 @@
   ],
   [
     [
+      "2025-07-24, 20:35:04",
+      "https://news.ycombinator.com/item?id=44675771"
+    ],
+    [
+      "NixOS on a Tuxedo InfinityBook Pro 14 Gen9 AMD Laptop",
+      "https://fnune.com/hardware/2025/07/20/nixos-on-a-tuxedo-infinitybook-pro-14-gen9-amd/"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 20:10:15",
       "https://news.ycombinator.com/item?id=44675438"
     ],
@@ -237,16 +267,6 @@
     [
       "How I fixed my blog's performance issues by writing a new Jekyll plugin",
       "https://arclight.run/how-i-fixed-my-blogs-performance-issues-by-writing-a-new-jekyll-plugin-jekyll-skyhook/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 17:50:39",
-      "https://news.ycombinator.com/item?id=44673787"
-    ],
-    [
-      "Trying to play an isomorphic piano (2022) [video]",
-      "https://www.youtube.com/watch?v=j4itL174C-4"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Blender: Beyond Mouse and Keyboard",
       "https://code.blender.org/2025/07/beyond-mouse-keyboard/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 14:08:26",
-      "https://news.ycombinator.com/item?id=44670885"
-    ],
-    [
-      "200k Flemish drivers can turn traffic lights green",
-      "https://www.vrt.be/vrtnws/en/2025/07/24/200-000-flemish-drivers-can-turn-traffic-lights-green-but-waze/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 13:32:50",
-      "https://news.ycombinator.com/item?id=44670483"
-    ],
-    [
-      "Solid protocol restores digital agency",
-      "https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html"
     ]
   ]
 ]
