@@ -16,6 +16,7 @@
 * [2025-07-24, 21:20:01](https://news.ycombinator.com/item?id=44676315) - [New Aarch64 Back End](https://ziglang.org/devlog/2025/#2025-07-23)
 * [2025-07-24, 20:59:25](https://news.ycombinator.com/item?id=44676066) - [ChatGPT Launches MCP Support](https://platform.openai.com/docs/mcp)
 * [2025-07-24, 20:52:41](https://news.ycombinator.com/item?id=44675965) - [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
+* [2025-07-24, 20:35:04](https://news.ycombinator.com/item?id=44675771) - [NixOS on a Tuxedo InfinityBook Pro 14 Gen9 AMD Laptop](https://fnune.com/hardware/2025/07/20/nixos-on-a-tuxedo-infinitybook-pro-14-gen9-amd/)
 * [2025-07-24, 20:29:58](https://news.ycombinator.com/item?id=44675708) - [Psilocybin delays aging, extends lifespan, new Emory study suggests](https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html)
 * [2025-07-24, 20:29:23](https://news.ycombinator.com/item?id=44675697) - [Games: No sex, please. we're credit card companies](https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/)
 * [2025-07-24, 20:28:58](https://news.ycombinator.com/item?id=44675691) - [American sentenced for helping North Koreans get jobs at U.S. firms](https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike/)
