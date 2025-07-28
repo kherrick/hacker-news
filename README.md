@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-28, 09:18:17](https://news.ycombinator.com/item?id=44708884) - [Generative AI. \"Slop Generators, are unsuitable for use [ ]\"](https://asahilinux.org/docs/project/policies/slop/)
 * [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-28, 07:02:14](https://news.ycombinator.com/item?id=44708028) - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 * [2025-07-28, 05:41:34](https://news.ycombinator.com/item?id=44707546) - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
@@ -18,6 +17,7 @@
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork](https://github.com/segmentationf4u1t/trae_telemetry_research)
 * [2025-07-27, 17:19:19](https://news.ycombinator.com/item?id=44702833) - [Ask HN: What are you working on? (July 2025)](https://news.ycombinator.com/item?id=44702833)
 * [2025-07-27, 17:13:25](https://news.ycombinator.com/item?id=44702782) - [Tom Lehrer has died](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
+* [2025-07-27, 14:28:49](https://news.ycombinator.com/item?id=44701574) - [The many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 * [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
 * [2025-07-27, 12:23:31](https://news.ycombinator.com/item?id=44700815) - [The JJ VCS workshop: A zero-to-hero speedrun](https://github.com/jkoppel/jj-workshop)
 * [2025-07-27, 12:10:29](https://news.ycombinator.com/item?id=44700744) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
