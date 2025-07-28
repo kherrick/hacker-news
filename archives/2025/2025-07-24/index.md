@@ -22,6 +22,7 @@
 * [2025-07-24, 20:20:17](https://news.ycombinator.com/item?id=44675557) - [Hacker slips malicious 'wiping' command into Amazon's Q AI coding assistant](https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/)
 * [2025-07-24, 20:19:57](https://news.ycombinator.com/item?id=44675553) - [Inter-Planetary Network Special Interest Group](https://www.ipnsig.org)
 * [2025-07-24, 19:41:09](https://news.ycombinator.com/item?id=44675119) - [You might not need a Python class](https://adamgrant.micro.blog/2025/07/24/123050.html)
+* [2025-07-24, 19:36:49](https://news.ycombinator.com/item?id=44675061) - [The last step in a long process on \"arsenic life\"](https://www.science.org/content/blog-post/last-step-long-process-arsenic-life)
 * [2025-07-24, 19:33:22](https://news.ycombinator.com/item?id=44675026) - [UN: Israeli Forces Have Killed over 1,000 Palestinians Seeking Aid Since May](https://apnews.com/article/israel-hamas-gaza-war-palestinians-07-22-2025-8eb90d73c1b7499d3dbc8b8d95da65cc)
 * [2025-07-24, 19:26:18](https://news.ycombinator.com/item?id=44674961) - [Into the co-ferment kingdom: A trip to Finca Monteblanco](https://www.robertasami.com/coffee/into-the-coferment-kingdom)
 * [2025-07-24, 19:26:12](https://news.ycombinator.com/item?id=44674960) - [Starlink is currently experiencing a service outage. Our team is investigating](https://www.starlink.com/us)

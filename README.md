@@ -24,12 +24,12 @@
 * [2025-07-25, 10:24:44](https://news.ycombinator.com/item?id=44681616) - [Bits 0x02: switching to orion as a browser](https://andinfinity.eu/post/2025-07-24-bits-0x02/)
 * [2025-07-25, 00:36:03](https://news.ycombinator.com/item?id=44678083) - [How big can I print my image?](https://maurycyz.com/misc/printing/)
 * [2025-07-24, 22:14:28](https://news.ycombinator.com/item?id=44676963) - [AlphaDec: A human-readable alternative to ULID/Snowflake IDs](https://github.com/firasd/alphadec)
+* [2025-07-24, 19:36:49](https://news.ycombinator.com/item?id=44675061) - [The last step in a long process on \"arsenic life\"](https://www.science.org/content/blog-post/last-step-long-process-arsenic-life)
 * [2025-07-24, 15:47:11](https://news.ycombinator.com/item?id=44672149) - [Software Development at 800 Words per Minute](https://neurrone.com/posts/software-development-at-800-wpm/)
 * [2025-07-24, 15:20:49](https://news.ycombinator.com/item?id=44671802) - [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
 * [2025-07-24, 13:32:50](https://news.ycombinator.com/item?id=44670483) - [Solid protocol restores digital agency](https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html)
 * [2025-07-24, 10:19:59](https://news.ycombinator.com/item?id=44669026) - [BlueOS Kernel – Written in Rust, compatible with POSIX](https://github.com/vivoblueos/kernel)
 * [2025-07-24, 04:07:42](https://news.ycombinator.com/item?id=44666824) - [Why I write recursive descent parsers, despite their issues (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe)
-* [2025-07-23, 12:13:52](https://news.ycombinator.com/item?id=44658323) - [Return of wolves to Yellowstone has led to a surge in aspen trees](https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years)
 
 ## [Archives](archives/index.md)
 
