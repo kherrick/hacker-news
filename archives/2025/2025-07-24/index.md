@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 22:14:28](https://news.ycombinator.com/item?id=44676963) - [AlphaDec: A human-readable alternative to ULID/Snowflake IDs](https://github.com/firasd/alphadec)
 * [2025-07-24, 22:14:20](https://news.ycombinator.com/item?id=44676961) - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
 * [2025-07-24, 21:59:19](https://news.ycombinator.com/item?id=44676817) - [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
 * [2025-07-24, 21:50:43](https://news.ycombinator.com/item?id=44676714) - [The Secret Life of Fsync (2023)](https://puzpuzpuz.dev/the-secret-life-of-fsync)
@@ -37,6 +38,7 @@
 * [2025-07-24, 15:46:46](https://news.ycombinator.com/item?id=44672145) - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
 * [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 15:20:59](https://news.ycombinator.com/item?id=44671804) - [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
+* [2025-07-24, 15:20:49](https://news.ycombinator.com/item?id=44671802) - [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
 * [2025-07-24, 15:05:12](https://news.ycombinator.com/item?id=44671601) - [Show HN: Nia – MCP server that gives more context to coding agents](https://www.trynia.ai/)
 * [2025-07-24, 15:03:56](https://news.ycombinator.com/item?id=44671584) - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
 * [2025-07-24, 14:59:32](https://news.ycombinator.com/item?id=44671528) - [Government-Funded Alchemy](https://thebsdetector.substack.com/p/government-funded-alchemy)
@@ -49,6 +51,7 @@
 * [2025-07-24, 13:56:29](https://news.ycombinator.com/item?id=44670727) - [Instagram Temporarily Suspends Zohran Mamdani's Account](https://nycjournals.com/2025/07/21/instagram-suspends-zohran-mamdanis-account-leaked-memo-cites-national-interest-as-meta-tilts-right/)
 * [2025-07-24, 13:46:14](https://news.ycombinator.com/item?id=44670624) - [AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it](https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative)
 * [2025-07-24, 13:42:03](https://news.ycombinator.com/item?id=44670590) - [You can't outrun a bad diet](https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition)
+* [2025-07-24, 13:32:50](https://news.ycombinator.com/item?id=44670483) - [Solid protocol restores digital agency](https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html)
 * [2025-07-24, 13:17:24](https://news.ycombinator.com/item?id=44670326) - [UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage](https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html)
 * [2025-07-24, 13:16:29](https://news.ycombinator.com/item?id=44670319) - [A valid HTML zip bomb](https://ache.one/notes/html_zip_bomb)
 * [2025-07-24, 13:16:12](https://news.ycombinator.com/item?id=44670315) - [UnitedHealth says it is facing DOJ investigation over Medicare billing practices](https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html)
