@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 14:01:51](https://news.ycombinator.com/item?id=44710965) - [Windows 11 is a minefield of micro-aggressions in the shipping lane of progressl](https://www.theregister.com/2025/07/28/windows_11_is_a_minefield/)
+* [2025-07-28, 13:36:28](https://news.ycombinator.com/item?id=44710750) - [The 1970s psychology experiment behind 'Star Wars' special effects (2023)](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
 * [2025-07-28, 13:10:00](https://news.ycombinator.com/item?id=44710533) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 * [2025-07-28, 11:48:29](https://news.ycombinator.com/item?id=44709905) - [UK VPN demand soars after debut of Online Safety Act](https://www.theregister.com/2025/07/28/uk_vpn_demand_soars/)
 * [2025-07-28, 11:23:50](https://news.ycombinator.com/item?id=44709727) - [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
