@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
 * [2025-07-28, 19:05:47](https://news.ycombinator.com/item?id=44714223) - [Different Clocks](https://ianto-cannon.github.io/clock.html)
+* [2025-07-28, 18:46:01](https://news.ycombinator.com/item?id=44713945) - [Is SoftBank still backing OpenAI?](https://www.wheresyoured.at/softbank-openai/)
 * [2025-07-28, 18:37:43](https://news.ycombinator.com/item?id=44713837) - [Claude Code new limits – Important updates to your Max account usage limits](https://news.ycombinator.com/item?id=44713837)
 * [2025-07-28, 18:27:51](https://news.ycombinator.com/item?id=44713757) - [Claude Code weekly rate limits](https://news.ycombinator.com/item?id=44713757)
 * [2025-07-28, 18:09:17](https://news.ycombinator.com/item?id=44713579) - [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/)

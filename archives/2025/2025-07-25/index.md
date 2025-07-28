@@ -46,6 +46,7 @@
 * [2025-07-25, 14:25:30](https://news.ycombinator.com/item?id=44683481) - [Google's shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
 * [2025-07-25, 14:22:35](https://news.ycombinator.com/item?id=44683447) - [Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside](https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756)
 * [2025-07-25, 13:53:51](https://news.ycombinator.com/item?id=44683148) - [Meta to stop running political ads on Facebook and Instagram in the EU](https://www.euractiv.com/section/tech/news/meta-to-stop-running-political-ads-on-facebook-and-instagram/)
+* [2025-07-25, 13:51:25](https://news.ycombinator.com/item?id=44683131) - [Beyond Mouse and Keyboard – Blender Developers Blog](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
 * [2025-07-25, 13:40:19](https://news.ycombinator.com/item?id=44683011) - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's DE9, Not DB9](https://news.sparkfun.com/14298)
 * [2025-07-25, 13:30:54](https://news.ycombinator.com/item?id=44682932) - [Who has the fastest F1 website (2021)](https://jakearchibald.com/2021/f1-perf-part-3/)
