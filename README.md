@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-28, 09:18:17](https://news.ycombinator.com/item?id=44708884) - [Generative AI. \"Slop Generators, are unsuitable for use [ ]\"](https://asahilinux.org/docs/project/policies/slop/)
 * [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-28, 07:02:14](https://news.ycombinator.com/item?id=44708028) - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 * [2025-07-28, 05:41:34](https://news.ycombinator.com/item?id=44707546) - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
@@ -12,7 +13,6 @@
 * [2025-07-27, 23:01:01](https://news.ycombinator.com/item?id=44705494) - [ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea](https://github.com/babycommando/zuse)
 * [2025-07-27, 22:51:28](https://news.ycombinator.com/item?id=44705445) - [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 * [2025-07-27, 22:18:44](https://news.ycombinator.com/item?id=44705240) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
-* [2025-07-27, 22:09:14](https://news.ycombinator.com/item?id=44705171) - [Designing a flatpack bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 21:12:59](https://news.ycombinator.com/item?id=44704736) - [Making Postgres slower](https://byteofdev.com/posts/making-postgres-slow/)
 * [2025-07-27, 20:30:27](https://news.ycombinator.com/item?id=44704422) - [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
 * [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)

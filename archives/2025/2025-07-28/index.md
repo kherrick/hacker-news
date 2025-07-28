@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 09:18:17](https://news.ycombinator.com/item?id=44708884) - [Generative AI. \"Slop Generators, are unsuitable for use [ ]\"](https://asahilinux.org/docs/project/policies/slop/)
 * [2025-07-28, 07:50:04](https://news.ycombinator.com/item?id=44708334) - [Hello Sprout](https://daniel.haxx.se/blog/2025/07/28/hello-sprout/)
 * [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-28, 07:27:17](https://news.ycombinator.com/item?id=44708173) - [The ultimate meeting culture](https://abitmighty.com/posts/the-ultimate-meeting-culture)
