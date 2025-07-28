@@ -52,6 +52,7 @@
 * [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-07-25, 11:38:19](https://news.ycombinator.com/item?id=44682033) - [Show HN: I built a biological network visualization tool](https://nodes.bio)
 * [2025-07-25, 11:23:51](https://news.ycombinator.com/item?id=44681950) - [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/index.html)
+* [2025-07-25, 11:08:45](https://news.ycombinator.com/item?id=44681858) - [You can run Doom and other graphical apps in Android's Linux Terminal](https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/)
 * [2025-07-25, 10:55:11](https://news.ycombinator.com/item?id=44681786) - [Google Opal](https://developers.googleblog.com/en/introducing-opal/)
 * [2025-07-25, 10:47:07](https://news.ycombinator.com/item?id=44681740) - [My website is one binary (2022)](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2025-07-25, 10:24:44](https://news.ycombinator.com/item?id=44681616) - [Bits 0x02: switching to orion as a browser](https://andinfinity.eu/post/2025-07-24-bits-0x02/)
