@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 18:37:43](https://news.ycombinator.com/item?id=44713837) - [Claude Code new limits – Important updates to your Max account usage limits](https://news.ycombinator.com/item?id=44713837)
 * [2025-07-28, 18:09:17](https://news.ycombinator.com/item?id=44713579) - [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/)
+* [2025-07-28, 18:07:23](https://news.ycombinator.com/item?id=44713566) - [Say Goodbye to the Internet as We Know It](https://europeanconservative.com/articles/commentary/say-goodbye-to-the-internet-as-we-know-it/)
 * [2025-07-28, 17:53:52](https://news.ycombinator.com/item?id=44713414) - [Visa and Mastercard are getting overwhelmed by gamer fury over censorship](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
 * [2025-07-28, 17:04:46](https://news.ycombinator.com/item?id=44712831) - [The Rise of Vibeinsecurity](https://vibeinsecurity.com/)
 * [2025-07-28, 16:31:49](https://news.ycombinator.com/item?id=44712459) - [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)
