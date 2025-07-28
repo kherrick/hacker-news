@@ -30,6 +30,7 @@
 * [2025-07-24, 19:26:12](https://news.ycombinator.com/item?id=44674960) - [Starlink is currently experiencing a service outage. Our team is investigating](https://www.starlink.com/us)
 * [2025-07-24, 19:13:14](https://news.ycombinator.com/item?id=44674830) - [You can now train a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2025-07-24, 18:16:03](https://news.ycombinator.com/item?id=44674123) - [Air Force unit suspends use of Sig Sauer pistol after shooting death of airman](https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death)
+* [2025-07-24, 17:46:50](https://news.ycombinator.com/item?id=44673739) - [Drafting Software Recommendation](https://news.ycombinator.com/item?id=44673739)
 * [2025-07-24, 17:36:55](https://news.ycombinator.com/item?id=44673613) - [Show HN: Local Email Client for AI Horseless Carriages](https://github.com/dbish/DispatchMail)
 * [2025-07-24, 17:28:54](https://news.ycombinator.com/item?id=44673499) - [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
 * [2025-07-24, 17:15:41](https://news.ycombinator.com/item?id=44673296) - [Windsurf employee #2: I was given a payout of only 1% what my shares where worth](https://twitter.com/premqnair/status/1948420769945682413)
