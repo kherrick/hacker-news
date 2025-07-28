@@ -24,6 +24,7 @@
 * [2025-07-26, 18:23:12](https://news.ycombinator.com/item?id=44696023) - [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
 * [2025-07-26, 18:00:32](https://news.ycombinator.com/item?id=44695877) - [Where Are Vacation Homes Located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
 * [2025-07-26, 17:57:09](https://news.ycombinator.com/item?id=44695855) - [Svalbard winter warming is reaching melting point](https://www.nature.com/articles/s41467-025-60926-8)
+* [2025-07-26, 16:49:50](https://news.ycombinator.com/item?id=44695404) - [.gitignore Is Inherently Sisyphean](https://rgbcu.be/blog/gitignore/)
 * [2025-07-26, 16:21:20](https://news.ycombinator.com/item?id=44695205) - [Earth Has Tilted 31.5 Inches. That Shouldn't Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
 * [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
 * [2025-07-26, 16:15:17](https://news.ycombinator.com/item?id=44695159) - [Is the Interstellar Object 3I/Atlas Alien Technology?](https://arxiv.org/abs/2507.12213)

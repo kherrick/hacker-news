@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 22:17:14](https://news.ycombinator.com/item?id=44716414) - [Show HN: Companies use AI to take your calls. I built AI to make them for you](https://www.pipervoice.com/)
 * [2025-07-28, 21:49:10](https://news.ycombinator.com/item?id=44716106) - [Show HN: Use Their ID – Use Your Local UK MP's ID for the Online Safety Act](https://use-their-id.com/)
 * [2025-07-28, 21:34:40](https://news.ycombinator.com/item?id=44715966) - [The Vatican Observatory Looks to the Heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
 * [2025-07-28, 20:44:26](https://news.ycombinator.com/item?id=44715391) - [The Useless UseCallback](https://tkdodo.eu/blog/the-useless-use-callback)
