@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-07-28, 01:46:44",
+      "https://news.ycombinator.com/item?id=44706428"
+    ],
+    [
+      "How Big Agriculture Mislead the Public About the Benefits of Biofuels",
+      "https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 00:56:04",
+      "https://news.ycombinator.com/item?id=44706137"
+    ],
+    [
+      "Why does a fire truck cost $2m",
+      "https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 23:22:30",
       "https://news.ycombinator.com/item?id=44705619"
     ],
     [
-      "Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks",
+      "Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks (2019)",
       "https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html"
     ]
   ],
@@ -17,6 +37,16 @@
     [
       "ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea",
       "https://github.com/babycommando/zuse"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 22:51:28",
+      "https://news.ycombinator.com/item?id=44705445"
+    ],
+    [
+      "Enough AI copilots, we need AI HUDs",
+      "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44705171"
     ],
     [
-      "Designing a Flatpack Bed",
+      "Designing a flatpack bed",
       "https://kevinlynagh.com/newsletter/2025_07_flatpack/"
     ]
   ],
@@ -47,16 +77,6 @@
     [
       "Making Postgres slower",
       "https://byteofdev.com/posts/making-postgres-slow/"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 20:37:26",
-      "https://news.ycombinator.com/item?id=44704482"
-    ],
-    [
-      "The Bootstrap Load",
-      "http://www.intel4004.com/btstrp.htm"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-07-27, 20:15:50",
-      "https://news.ycombinator.com/item?id=44704319"
-    ],
-    [
-      "Electrified dry reforming of methane on Ni-La2O3–loaded activated carbon",
-      "https://www.science.org/doi/10.1126/sciadv.adv1585"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 20:13:55",
       "https://news.ycombinator.com/item?id=44704305"
     ],
@@ -111,31 +121,11 @@
   ],
   [
     [
-      "2025-07-27, 20:03:05",
-      "https://news.ycombinator.com/item?id=44704214"
-    ],
-    [
-      "A Retrospective on Paradigms of AI Programming (2002)",
-      "https://norvig.com/Lisp-retro.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 19:31:39",
-      "https://news.ycombinator.com/item?id=44703908"
-    ],
-    [
-      "National Aviation Reporting Center on Anomalous Phenomena",
-      "https://www.narcap.org"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 17:57:06",
       "https://news.ycombinator.com/item?id=44703164"
     ],
     [
-      "Performance and Telemetry Analysis of Trae IDE, ByteDance's VSCode Fork",
+      "Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork",
       "https://github.com/segmentationf4u1t/trae_telemetry_research"
     ]
   ],
@@ -241,12 +231,32 @@
   ],
   [
     [
-      "2025-07-24, 14:59:32",
-      "https://news.ycombinator.com/item?id=44671528"
+      "2025-07-24, 22:14:28",
+      "https://news.ycombinator.com/item?id=44676963"
     ],
     [
-      "Government-Funded Alchemy",
-      "https://thebsdetector.substack.com/p/government-funded-alchemy"
+      "AlphaDec: A human-readable alternative to ULID/Snowflake IDs",
+      "https://github.com/firasd/alphadec"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 15:20:49",
+      "https://news.ycombinator.com/item?id=44671802"
+    ],
+    [
+      "Blender: Beyond Mouse and Keyboard",
+      "https://code.blender.org/2025/07/beyond-mouse-keyboard/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 13:32:50",
+      "https://news.ycombinator.com/item?id=44670483"
+    ],
+    [
+      "Solid protocol restores digital agency",
+      "https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44666824"
     ],
     [
-      "Why I write recursive descent parsers (despite their issues)",
+      "Why I write recursive descent parsers, despite their issues (2020)",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Katharine Graham: The Washington Post",
       "https://fs.blog/knowledge-project-podcast/outliers-katharine-graham/"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 12:58:48",
-      "https://news.ycombinator.com/item?id=44658722"
-    ],
-    [
-      "High-performance RISC-V processors: UltraRISC UR-DP1000, Zhihe A210, SpacemIT K3",
-      "https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/"
     ]
   ],
   [
