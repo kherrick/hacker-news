@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 14:36:39](https://news.ycombinator.com/item?id=44711306) - [Tao on \"blue team\" vs. \"red team\" LLMs](https://mathstodon.xyz/@tao/114915604830689046)
+* [2025-07-28, 14:11:35](https://news.ycombinator.com/item?id=44711075) - [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece)
 * [2025-07-28, 14:01:51](https://news.ycombinator.com/item?id=44710965) - [Windows 11 is a minefield of micro-aggressions in the shipping lane of progressl](https://www.theregister.com/2025/07/28/windows_11_is_a_minefield/)
 * [2025-07-28, 13:36:28](https://news.ycombinator.com/item?id=44710750) - [The 1970s psychology experiment behind 'Star Wars' special effects (2023)](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
 * [2025-07-28, 13:10:00](https://news.ycombinator.com/item?id=44710533) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
