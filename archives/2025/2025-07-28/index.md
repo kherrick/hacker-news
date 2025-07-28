@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 18:09:17](https://news.ycombinator.com/item?id=44713579) - [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/)
+* [2025-07-28, 17:53:52](https://news.ycombinator.com/item?id=44713414) - [Visa and Mastercard are getting overwhelmed by gamer fury over censorship](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
 * [2025-07-28, 17:04:46](https://news.ycombinator.com/item?id=44712831) - [The Rise of Vibeinsecurity](https://vibeinsecurity.com/)
 * [2025-07-28, 16:31:49](https://news.ycombinator.com/item?id=44712459) - [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)
+* [2025-07-28, 16:19:03](https://news.ycombinator.com/item?id=44712315) - [Six Principles for Production AI Agents](https://www.app.build/blog/six-principles-production-ai-agents)
 * [2025-07-28, 16:18:49](https://news.ycombinator.com/item?id=44712311) - [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)
 * [2025-07-28, 15:57:33](https://news.ycombinator.com/item?id=44712107) - [AI for Coding: Why Most Developers Are Getting It Wrong](https://www.ksred.com/ai-for-coding-why-most-developers-are-getting-it-wrong-and-how-to-get-it-right/)
+* [2025-07-28, 15:40:05](https://news.ycombinator.com/item?id=44711940) - [Requesting Funding for 90s.dev](https://90s.dev/blog/requesting-funding-for-90s-dev.html)
 * [2025-07-28, 15:30:24](https://news.ycombinator.com/item?id=44711836) - [More Women Than Expected Are Genetically Men](https://novonordiskfonden.dk/en/news/more-women-than-expected-are-genetically-men/)
 * [2025-07-28, 15:21:13](https://news.ycombinator.com/item?id=44711745) - [Simplify, then add delightness: On designing for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
 * [2025-07-28, 15:06:00](https://news.ycombinator.com/item?id=44711612) - [The first 100% effective HIV prevention drug is approved and going global](https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/)

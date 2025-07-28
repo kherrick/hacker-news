@@ -35,6 +35,7 @@
 * [2025-07-25, 16:30:44](https://news.ycombinator.com/item?id=44685050) - [100X More Efficient Than ARM Processors – Electron E1](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
 * [2025-07-25, 16:28:55](https://news.ycombinator.com/item?id=44685027) - [Good Docs Describe, Bad Docs Prescribe](https://rethinkingsoftware.substack.com/p/good-docs-describe-bad-docs-prescribe)
 * [2025-07-25, 16:27:51](https://news.ycombinator.com/item?id=44685011) - [Steam, Itch.io Are Pulling 'Porn' Games. Critics Say It's a Slippery Slope](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
+* [2025-07-25, 16:09:25](https://news.ycombinator.com/item?id=44684803) - [Stop SSL certificate outages with automated monitoring – Enterprise Ready](https://sslguardian.io)
 * [2025-07-25, 16:02:23](https://news.ycombinator.com/item?id=44684720) - [Show HN: A macOS clock that stays visible when coding or binging in fullscreen](https://cornertime.app/en)
 * [2025-07-25, 15:36:52](https://news.ycombinator.com/item?id=44684373) - [Women dating safety app 'Tea' breached, users' IDs posted to 4chan](https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/)
 * [2025-07-25, 15:25:23](https://news.ycombinator.com/item?id=44684212) - [Quantum Scientists Have Built a New Math of Cryptography](https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/)
