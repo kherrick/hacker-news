@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 13:10:00](https://news.ycombinator.com/item?id=44710533) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 * [2025-07-28, 11:48:29](https://news.ycombinator.com/item?id=44709905) - [UK VPN demand soars after debut of Online Safety Act](https://www.theregister.com/2025/07/28/uk_vpn_demand_soars/)
 * [2025-07-28, 11:23:50](https://news.ycombinator.com/item?id=44709727) - [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
 * [2025-07-28, 10:43:36](https://news.ycombinator.com/item?id=44709408) - [Debian isn't waiting for 2038 to blow up, switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)

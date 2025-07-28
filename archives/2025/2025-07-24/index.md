@@ -22,6 +22,7 @@
 * [2025-07-24, 20:28:58](https://news.ycombinator.com/item?id=44675691) - [American Sentenced to 8½ Years for Helping North Koreans Get Jobs at U.S. Firms](https://www.wsj.com/us-news/law/american-sentenced-to-8-years-in-prison-for-helping-north-koreans-get-jobs-at-nike-other-u-s-firms-d7de8be7)
 * [2025-07-24, 20:20:17](https://news.ycombinator.com/item?id=44675557) - [Hacker slips malicious 'wiping' command into Amazon's Q AI coding assistant](https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/)
 * [2025-07-24, 20:19:57](https://news.ycombinator.com/item?id=44675553) - [Inter-Planetary Network Special Interest Group](https://www.ipnsig.org)
+* [2025-07-24, 20:10:15](https://news.ycombinator.com/item?id=44675438) - [A Photonic SRAM with Embedded XOR Logic for Ultra-Fast In-Memory Computing](https://arxiv.org/abs/2506.22707)
 * [2025-07-24, 19:41:09](https://news.ycombinator.com/item?id=44675119) - [You might not need a Python class](https://adamgrant.micro.blog/2025/07/24/123050.html)
 * [2025-07-24, 19:36:49](https://news.ycombinator.com/item?id=44675061) - [The last step in a long process on \"arsenic life\"](https://www.science.org/content/blog-post/last-step-long-process-arsenic-life)
 * [2025-07-24, 19:35:31](https://news.ycombinator.com/item?id=44675053) - [How I fixed my blog's performance issues by writing a new Jekyll plugin](https://arclight.run/how-i-fixed-my-blogs-performance-issues-by-writing-a-new-jekyll-plugin-jekyll-skyhook/)
