@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-28, 18:37:43](https://news.ycombinator.com/item?id=44713837) - [Claude Code new limits – Important updates to your Max account usage limits](https://news.ycombinator.com/item?id=44713837)
+* [2025-07-28, 19:05:47](https://news.ycombinator.com/item?id=44714223) - [Different Clocks](https://ianto-cannon.github.io/clock.html)
+* [2025-07-28, 18:27:51](https://news.ycombinator.com/item?id=44713757) - [Claude Code weekly rate limits](https://news.ycombinator.com/item?id=44713757)
 * [2025-07-28, 18:09:17](https://news.ycombinator.com/item?id=44713579) - [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/)
-* [2025-07-28, 18:07:23](https://news.ycombinator.com/item?id=44713566) - [Say Goodbye to the Internet as We Know It](https://europeanconservative.com/articles/commentary/say-goodbye-to-the-internet-as-we-know-it/)
 * [2025-07-28, 17:53:52](https://news.ycombinator.com/item?id=44713414) - [Visa and Mastercard are getting overwhelmed by gamer fury over censorship](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
-* [2025-07-28, 16:19:03](https://news.ycombinator.com/item?id=44712315) - [Six Principles for Production AI Agents](https://www.app.build/blog/six-principles-production-ai-agents)
+* [2025-07-28, 16:19:03](https://news.ycombinator.com/item?id=44712315) - [Principles for production AI agents](https://www.app.build/blog/six-principles-production-ai-agents)
 * [2025-07-28, 16:18:49](https://news.ycombinator.com/item?id=44712311) - [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)
 * [2025-07-28, 15:40:05](https://news.ycombinator.com/item?id=44711940) - [Requesting Funding for 90s.dev](https://90s.dev/blog/requesting-funding-for-90s-dev.html)
 * [2025-07-28, 15:21:13](https://news.ycombinator.com/item?id=44711745) - [Simplify, then add delightness: On designing for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
