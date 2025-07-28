@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-28, 11:23:50](https://news.ycombinator.com/item?id=44709727) - [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
 * [2025-07-28, 10:43:36](https://news.ycombinator.com/item?id=44709408) - [Debian switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)
-* [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-28, 07:02:14](https://news.ycombinator.com/item?id=44708028) - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 * [2025-07-28, 05:41:34](https://news.ycombinator.com/item?id=44707546) - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
 * [2025-07-28, 05:18:10](https://news.ycombinator.com/item?id=44707440) - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
