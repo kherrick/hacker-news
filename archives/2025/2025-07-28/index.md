@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 07:50:04](https://news.ycombinator.com/item?id=44708334) - [Hello Sprout](https://daniel.haxx.se/blog/2025/07/28/hello-sprout/)
+* [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
+* [2025-07-28, 07:27:17](https://news.ycombinator.com/item?id=44708173) - [The ultimate meeting culture](https://abitmighty.com/posts/the-ultimate-meeting-culture)
+* [2025-07-28, 07:02:14](https://news.ycombinator.com/item?id=44708028) - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 * [2025-07-28, 05:41:34](https://news.ycombinator.com/item?id=44707546) - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
 * [2025-07-28, 05:18:10](https://news.ycombinator.com/item?id=44707440) - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
 * [2025-07-28, 04:47:46](https://news.ycombinator.com/item?id=44707300) - [Digitising CDs (a.k.a. using your phone as an image scanner)](https://www.hadess.net/2025/07/digitising-cds-aka-using-your-phone-as.html)
