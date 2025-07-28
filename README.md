@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-28, 14:57:55](https://news.ycombinator.com/item?id=44711519) - [Copyparty, turn almost any device into a file server](https://github.com/9001/copyparty)
 * [2025-07-28, 14:36:39](https://news.ycombinator.com/item?id=44711306) - [Tao on \"blue team\" vs. \"red team\" LLMs](https://mathstodon.xyz/@tao/114915604830689046)
 * [2025-07-28, 14:11:35](https://news.ycombinator.com/item?id=44711075) - [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece)
-* [2025-07-28, 14:01:51](https://news.ycombinator.com/item?id=44710965) - [Windows 11 is a minefield of micro-aggressions in the shipping lane of progressl](https://www.theregister.com/2025/07/28/windows_11_is_a_minefield/)
 * [2025-07-28, 13:36:28](https://news.ycombinator.com/item?id=44710750) - [The 1970s psychology experiment behind 'Star Wars' special effects (2023)](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
 * [2025-07-28, 13:10:00](https://news.ycombinator.com/item?id=44710533) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 * [2025-07-28, 11:23:50](https://news.ycombinator.com/item?id=44709727) - [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
@@ -26,10 +26,10 @@
 * [2025-07-24, 20:10:15](https://news.ycombinator.com/item?id=44675438) - [A Photonic SRAM with Embedded XOR Logic for Ultra-Fast In-Memory Computing](https://arxiv.org/abs/2506.22707)
 * [2025-07-24, 19:35:31](https://news.ycombinator.com/item?id=44675053) - [How I fixed my blog's performance issues by writing a new Jekyll plugin](https://arclight.run/how-i-fixed-my-blogs-performance-issues-by-writing-a-new-jekyll-plugin-jekyll-skyhook/)
 * [2025-07-24, 17:50:39](https://news.ycombinator.com/item?id=44673787) - [Trying to play an isomorphic piano (2022) [video]](https://www.youtube.com/watch?v=j4itL174C-4)
+* [2025-07-24, 15:53:58](https://news.ycombinator.com/item?id=44672230) - [Aeneas transforms how historians connect the past](https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/)
 * [2025-07-24, 15:47:11](https://news.ycombinator.com/item?id=44672149) - [Software Development at 800 Words per Minute](https://neurrone.com/posts/software-development-at-800-wpm/)
 * [2025-07-24, 15:20:49](https://news.ycombinator.com/item?id=44671802) - [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
 * [2025-07-24, 14:08:26](https://news.ycombinator.com/item?id=44670885) - [200k Flemish drivers can turn traffic lights green](https://www.vrt.be/vrtnws/en/2025/07/24/200-000-flemish-drivers-can-turn-traffic-lights-green-but-waze/)
-* [2025-07-24, 13:32:50](https://news.ycombinator.com/item?id=44670483) - [Solid protocol restores digital agency](https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html)
 
 ## [Archives](archives/index.md)
 
