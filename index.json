@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-28, 20:44:26",
+      "https://news.ycombinator.com/item?id=44715391"
+    ],
+    [
+      "The Useless UseCallback",
+      "https://tkdodo.eu/blog/the-useless-use-callback"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 20:24:38",
       "https://news.ycombinator.com/item?id=44715166"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44714914"
     ],
     [
-      "I designed my own fast game streaming video codec",
+      "I designed my own fast game streaming video codec – PyroWave",
       "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Shrinkle – Shrink words, find hidden phrase",
       "https://www.shrinkle.org/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 18:46:01",
-      "https://news.ycombinator.com/item?id=44713945"
-    ],
-    [
-      "Is SoftBank still backing OpenAI?",
-      "https://www.wheresyoured.at/softbank-openai/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-07-28, 01:43:36",
-      "https://news.ycombinator.com/item?id=44706409"
-    ],
-    [
-      "Samsung Removes Bootloader Unlocking with One UI 8",
-      "https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 22:51:28",
       "https://news.ycombinator.com/item?id=44705445"
     ],
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=44690914"
     ],
     [
-      "SQLx – The Rust SQL Toolkit",
+      "SQLx – Rust SQL Toolkit",
       "https://github.com/launchbadge/sqlx"
+    ]
+  ],
+  [
+    [
+      "2025-07-26, 00:24:26",
+      "https://news.ycombinator.com/item?id=44690135"
+    ],
+    [
+      "Time Magazine 100 Best Podcasts of All Time",
+      "https://time.com/collections/100-best-podcasts/"
     ]
   ],
   [
