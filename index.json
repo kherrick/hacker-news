@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-28, 05:41:34",
+      "https://news.ycombinator.com/item?id=44707546"
+    ],
+    [
+      "SIMD Within a Register: How I Doubled Hash Table Lookup Performance",
+      "https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 05:18:10",
       "https://news.ycombinator.com/item?id=44707440"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-07-24, 19:36:49",
-      "https://news.ycombinator.com/item?id=44675061"
+      "2025-07-24, 22:14:28",
+      "https://news.ycombinator.com/item?id=44676963"
     ],
     [
-      "The last step in a long process on “arsenic life”",
-      "https://www.science.org/content/blog-post/last-step-long-process-arsenic-life"
+      "AlphaDec: A human-readable alternative to ULID/Snowflake IDs",
+      "https://github.com/firasd/alphadec"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Solid protocol restores digital agency",
       "https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 10:19:59",
-      "https://news.ycombinator.com/item?id=44669026"
-    ],
-    [
-      "BlueOS Kernel – Written in Rust, compatible with POSIX",
-      "https://github.com/vivoblueos/kernel"
     ]
   ],
   [
