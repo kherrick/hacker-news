@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 21:49:10](https://news.ycombinator.com/item?id=44716106) - [Show HN: Use Their ID – Use Your Local UK MP's ID for the Online Safety Act](https://use-their-id.com/)
 * [2025-07-28, 20:44:26](https://news.ycombinator.com/item?id=44715391) - [The Useless UseCallback](https://tkdodo.eu/blog/the-useless-use-callback)
 * [2025-07-28, 20:24:38](https://news.ycombinator.com/item?id=44715166) - [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
+* [2025-07-28, 20:10:04](https://news.ycombinator.com/item?id=44714994) - [Why not Matrix (2024)](https://benharri.org/why-not-matrix/)
 * [2025-07-28, 20:06:03](https://news.ycombinator.com/item?id=44714954) - [Robot hand could harvest blackberries better than humans](https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans)
 * [2025-07-28, 20:01:26](https://news.ycombinator.com/item?id=44714914) - [I designed my own fast game streaming video codec](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
 * [2025-07-28, 19:05:47](https://news.ycombinator.com/item?id=44714223) - [Different Clocks](https://ianto-cannon.github.io/clock.html)
