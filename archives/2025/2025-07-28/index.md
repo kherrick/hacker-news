@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 20:24:38](https://news.ycombinator.com/item?id=44715166) - [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
+* [2025-07-28, 20:06:03](https://news.ycombinator.com/item?id=44714954) - [Robot hand could harvest blackberries better than humans](https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans)
+* [2025-07-28, 20:01:26](https://news.ycombinator.com/item?id=44714914) - [I designed my own fast game streaming video codec](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
 * [2025-07-28, 19:05:47](https://news.ycombinator.com/item?id=44714223) - [Different Clocks](https://ianto-cannon.github.io/clock.html)
 * [2025-07-28, 19:05:41](https://news.ycombinator.com/item?id=44714221) - [‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]](https://www.bbc.com/news/videos/cy8k8045nx9o)
 * [2025-07-28, 19:02:38](https://news.ycombinator.com/item?id=44714167) - [Shrinkle – Shrink words, find hidden phrase](https://www.shrinkle.org/)
