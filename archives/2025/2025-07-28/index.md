@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
 * [2025-07-28, 19:05:47](https://news.ycombinator.com/item?id=44714223) - [Different Clocks](https://ianto-cannon.github.io/clock.html)
+* [2025-07-28, 19:05:41](https://news.ycombinator.com/item?id=44714221) - [‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]](https://www.bbc.com/news/videos/cy8k8045nx9o)
+* [2025-07-28, 19:02:38](https://news.ycombinator.com/item?id=44714167) - [Shrinkle – Shrink words, find hidden phrase](https://www.shrinkle.org/)
 * [2025-07-28, 18:46:01](https://news.ycombinator.com/item?id=44713945) - [Is SoftBank still backing OpenAI?](https://www.wheresyoured.at/softbank-openai/)
 * [2025-07-28, 18:37:43](https://news.ycombinator.com/item?id=44713837) - [Claude Code new limits – Important updates to your Max account usage limits](https://news.ycombinator.com/item?id=44713837)
 * [2025-07-28, 18:27:51](https://news.ycombinator.com/item?id=44713757) - [Claude Code weekly rate limits](https://news.ycombinator.com/item?id=44713757)
