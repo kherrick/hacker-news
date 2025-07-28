@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2025-07-28, 19:05:41",
+      "https://news.ycombinator.com/item?id=44714221"
+    ],
+    [
+      "‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]",
+      "https://www.bbc.com/news/videos/cy8k8045nx9o"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 19:02:38",
+      "https://news.ycombinator.com/item?id=44714167"
+    ],
+    [
+      "Shrinkle – Shrink words, find hidden phrase",
+      "https://www.shrinkle.org/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 18:46:01",
+      "https://news.ycombinator.com/item?id=44713945"
+    ],
+    [
+      "Is SoftBank still backing OpenAI?",
+      "https://www.wheresyoured.at/softbank-openai/"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 18:27:51",
       "https://news.ycombinator.com/item?id=44713757"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-07-28, 15:40:05",
-      "https://news.ycombinator.com/item?id=44711940"
-    ],
-    [
-      "Requesting Funding for 90s.dev",
-      "https://90s.dev/blog/requesting-funding-for-90s-dev.html"
-    ]
-  ],
-  [
-    [
       "2025-07-28, 15:21:13",
       "https://news.ycombinator.com/item?id=44711745"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=44711519"
     ],
     [
-      "Copyparty, turn almost any device into a file server",
+      "Copyparty – Turn almost any device into a file server",
       "https://github.com/9001/copyparty"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-07-28, 01:43:36",
-      "https://news.ycombinator.com/item?id=44706409"
-    ],
-    [
-      "Samsung Removes Bootloader Unlocking with One UI 8",
-      "https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 22:51:28",
       "https://news.ycombinator.com/item?id=44705445"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-07-25, 15:12:19",
-      "https://news.ycombinator.com/item?id=44684055"
+      "2025-07-26, 02:54:46",
+      "https://news.ycombinator.com/item?id=44690914"
     ],
     [
-      "Getting the KIM-1 to talk to my Mac",
-      "https://blog.jgc.org/2025/02/getting-kim-1-to-talk-to-my-mac.html"
+      "SQLx – The Rust SQL Toolkit",
+      "https://github.com/launchbadge/sqlx"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Photonic SRAM with Embedded XOR Logic for Ultra-Fast In-Memory Computing",
       "https://arxiv.org/abs/2506.22707"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 15:53:58",
-      "https://news.ycombinator.com/item?id=44672230"
-    ],
-    [
-      "Aeneas transforms how historians connect the past",
-      "https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/"
     ]
   ]
 ]
