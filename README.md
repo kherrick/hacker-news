@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-28, 04:35:00](https://news.ycombinator.com/item?id=44707261) - [\"Tivoization\" and Your Right to Install Under Copyleft and The GNU GPL](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
 * [2025-07-28, 02:33:04](https://news.ycombinator.com/item?id=44706653) - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
 * [2025-07-28, 01:46:44](https://news.ycombinator.com/item?id=44706428) - [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
 * [2025-07-28, 00:56:04](https://news.ycombinator.com/item?id=44706137) - [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
@@ -11,7 +12,6 @@
 * [2025-07-27, 21:12:59](https://news.ycombinator.com/item?id=44704736) - [Making Postgres slower](https://byteofdev.com/posts/making-postgres-slow/)
 * [2025-07-27, 20:30:27](https://news.ycombinator.com/item?id=44704422) - [IBM Keyboard Patents](https://sharktastica.co.uk/topics/patents)
 * [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
-* [2025-07-27, 19:31:39](https://news.ycombinator.com/item?id=44703908) - [National Aviation Reporting Center on Anomalous Phenomena](https://www.narcap.org)
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork](https://github.com/segmentationf4u1t/trae_telemetry_research)
 * [2025-07-27, 17:49:23](https://news.ycombinator.com/item?id=44703079) - [Allianz Life says 'majority' of customers' personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
 * [2025-07-27, 17:19:19](https://news.ycombinator.com/item?id=44702833) - [Ask HN: What are you working on? (July 2025)](https://news.ycombinator.com/item?id=44702833)
@@ -24,11 +24,11 @@
 * [2025-07-25, 10:24:44](https://news.ycombinator.com/item?id=44681616) - [Bits 0x02: switching to orion as a browser](https://andinfinity.eu/post/2025-07-24-bits-0x02/)
 * [2025-07-25, 00:36:03](https://news.ycombinator.com/item?id=44678083) - [How big can I print my image?](https://maurycyz.com/misc/printing/)
 * [2025-07-24, 22:14:28](https://news.ycombinator.com/item?id=44676963) - [AlphaDec: A human-readable alternative to ULID/Snowflake IDs](https://github.com/firasd/alphadec)
+* [2025-07-24, 15:47:11](https://news.ycombinator.com/item?id=44672149) - [Software Development at 800 Words per Minute](https://neurrone.com/posts/software-development-at-800-wpm/)
 * [2025-07-24, 15:20:49](https://news.ycombinator.com/item?id=44671802) - [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
 * [2025-07-24, 13:32:50](https://news.ycombinator.com/item?id=44670483) - [Solid protocol restores digital agency](https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html)
 * [2025-07-24, 10:19:59](https://news.ycombinator.com/item?id=44669026) - [BlueOS Kernel – Written in Rust, compatible with POSIX](https://github.com/vivoblueos/kernel)
 * [2025-07-24, 04:07:42](https://news.ycombinator.com/item?id=44666824) - [Why I write recursive descent parsers, despite their issues (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe)
-* [2025-07-24, 00:47:24](https://news.ycombinator.com/item?id=44665662) - [Katharine Graham: The Washington Post](https://fs.blog/knowledge-project-podcast/outliers-katharine-graham/)
 * [2025-07-23, 12:13:52](https://news.ycombinator.com/item?id=44658323) - [Return of wolves to Yellowstone has led to a surge in aspen trees](https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years)
 
 ## [Archives](archives/index.md)
