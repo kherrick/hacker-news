@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-28, 16:31:49](https://news.ycombinator.com/item?id=44712459) - [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)
 * [2025-07-28, 16:18:49](https://news.ycombinator.com/item?id=44712311) - [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)
-* [2025-07-28, 15:57:33](https://news.ycombinator.com/item?id=44712107) - [AI for Coding: Why Most Developers Are Getting It Wrong](https://www.ksred.com/ai-for-coding-why-most-developers-are-getting-it-wrong-and-how-to-get-it-right/)
 * [2025-07-28, 15:30:24](https://news.ycombinator.com/item?id=44711836) - [More Women Than Expected Are Genetically Men](https://novonordiskfonden.dk/en/news/more-women-than-expected-are-genetically-men/)
 * [2025-07-28, 15:21:13](https://news.ycombinator.com/item?id=44711745) - [Simplify, then add delightness: On designing for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
 * [2025-07-28, 15:06:00](https://news.ycombinator.com/item?id=44711612) - [The first 100% effective HIV prevention drug is approved and going global](https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/)
@@ -9,7 +9,6 @@
 * [2025-07-28, 14:36:39](https://news.ycombinator.com/item?id=44711306) - [Tao on \"blue team\" vs. \"red team\" LLMs](https://mathstodon.xyz/@tao/114915604830689046)
 * [2025-07-28, 14:15:52](https://news.ycombinator.com/item?id=44711106) - [GLM-4.5: Reasoning, Coding, and Agentic Abililties](https://z.ai/blog/glm-4.5)
 * [2025-07-28, 14:11:35](https://news.ycombinator.com/item?id=44711075) - [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece)
-* [2025-07-28, 13:36:28](https://news.ycombinator.com/item?id=44710750) - [The 1970s psychology experiment behind 'Star Wars' special effects (2023)](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
 * [2025-07-28, 13:10:00](https://news.ycombinator.com/item?id=44710533) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 * [2025-07-28, 11:23:50](https://news.ycombinator.com/item?id=44709727) - [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
 * [2025-07-28, 10:43:36](https://news.ycombinator.com/item?id=44709408) - [Debian switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)
@@ -19,6 +18,7 @@
 * [2025-07-28, 02:33:04](https://news.ycombinator.com/item?id=44706653) - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
 * [2025-07-28, 01:43:36](https://news.ycombinator.com/item?id=44706409) - [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/)
 * [2025-07-27, 22:51:28](https://news.ycombinator.com/item?id=44705445) - [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
+* [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork](https://github.com/segmentationf4u1t/trae_telemetry_research)
 * [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
 * [2025-07-26, 04:07:28](https://news.ycombinator.com/item?id=44691232) - [Viral Language](https://lareviewofbooks.org/article/viral-language/)
@@ -26,10 +26,10 @@
 * [2025-07-25, 11:08:45](https://news.ycombinator.com/item?id=44681858) - [Terminal app can now run full graphical Linux apps in the latest Android Canary](https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/)
 * [2025-07-24, 20:35:04](https://news.ycombinator.com/item?id=44675771) - [NixOS on a Tuxedo InfinityBook Pro 14 Gen9 AMD Laptop](https://fnune.com/hardware/2025/07/20/nixos-on-a-tuxedo-infinitybook-pro-14-gen9-amd/)
 * [2025-07-24, 20:10:15](https://news.ycombinator.com/item?id=44675438) - [A Photonic SRAM with Embedded XOR Logic for Ultra-Fast In-Memory Computing](https://arxiv.org/abs/2506.22707)
-* [2025-07-24, 19:35:31](https://news.ycombinator.com/item?id=44675053) - [How I fixed my blog's performance issues by writing a new Jekyll plugin](https://arclight.run/how-i-fixed-my-blogs-performance-issues-by-writing-a-new-jekyll-plugin-jekyll-skyhook/)
 * [2025-07-24, 15:53:58](https://news.ycombinator.com/item?id=44672230) - [Aeneas transforms how historians connect the past](https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/)
 * [2025-07-24, 15:47:11](https://news.ycombinator.com/item?id=44672149) - [Software Development at 800 Words per Minute](https://neurrone.com/posts/software-development-at-800-wpm/)
 * [2025-07-24, 15:20:49](https://news.ycombinator.com/item?id=44671802) - [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
+* [2025-07-24, 14:08:26](https://news.ycombinator.com/item?id=44670885) - [200k Flemish drivers can turn traffic lights green](https://www.vrt.be/vrtnws/en/2025/07/24/200-000-flemish-drivers-can-turn-traffic-lights-green-but-waze/)
 
 ## [Archives](archives/index.md)
 
