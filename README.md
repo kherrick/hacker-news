@@ -2,6 +2,7 @@
 
 * [2025-07-28, 05:41:34](https://news.ycombinator.com/item?id=44707546) - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
 * [2025-07-28, 05:18:10](https://news.ycombinator.com/item?id=44707440) - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
+* [2025-07-28, 04:47:46](https://news.ycombinator.com/item?id=44707300) - [Digitising CDs (a.k.a. using your phone as an image scanner)](https://www.hadess.net/2025/07/digitising-cds-aka-using-your-phone-as.html)
 * [2025-07-28, 04:35:00](https://news.ycombinator.com/item?id=44707261) - [“Tivoization” and your right to install under Copyleft and GPL (2021)](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
 * [2025-07-28, 02:33:04](https://news.ycombinator.com/item?id=44706653) - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
 * [2025-07-28, 01:46:44](https://news.ycombinator.com/item?id=44706428) - [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
@@ -21,13 +22,12 @@
 * [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
 * [2025-07-27, 12:23:31](https://news.ycombinator.com/item?id=44700815) - [The JJ VCS workshop: A zero-to-hero speedrun](https://github.com/jkoppel/jj-workshop)
 * [2025-07-27, 12:10:29](https://news.ycombinator.com/item?id=44700744) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
-* [2025-07-25, 19:13:59](https://news.ycombinator.com/item?id=44687145) - [Britain's spies-for-hire are running wild](https://www.politico.eu/article/uk-british-spies-private-intelligence-government-ministers/)
 * [2025-07-25, 10:24:44](https://news.ycombinator.com/item?id=44681616) - [Bits 0x02: switching to orion as a browser](https://andinfinity.eu/post/2025-07-24-bits-0x02/)
 * [2025-07-25, 00:36:03](https://news.ycombinator.com/item?id=44678083) - [How big can I print my image?](https://maurycyz.com/misc/printing/)
-* [2025-07-24, 22:14:28](https://news.ycombinator.com/item?id=44676963) - [AlphaDec: A human-readable alternative to ULID/Snowflake IDs](https://github.com/firasd/alphadec)
 * [2025-07-24, 19:35:31](https://news.ycombinator.com/item?id=44675053) - [How I fixed my blog's performance issues by writing a new Jekyll plugin](https://arclight.run/how-i-fixed-my-blogs-performance-issues-by-writing-a-new-jekyll-plugin-jekyll-skyhook/)
 * [2025-07-24, 15:47:11](https://news.ycombinator.com/item?id=44672149) - [Software Development at 800 Words per Minute](https://neurrone.com/posts/software-development-at-800-wpm/)
 * [2025-07-24, 15:20:49](https://news.ycombinator.com/item?id=44671802) - [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
+* [2025-07-24, 14:58:35](https://news.ycombinator.com/item?id=44671510) - [Fourble turns lists of MP3 files hosted anywhere into podcasts](https://fourble.co.uk/podcasts)
 * [2025-07-24, 13:32:50](https://news.ycombinator.com/item?id=44670483) - [Solid protocol restores digital agency](https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html)
 * [2025-07-24, 04:07:42](https://news.ycombinator.com/item?id=44666824) - [Why I write recursive descent parsers, despite their issues (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe)
 
