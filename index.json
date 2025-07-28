@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-28, 11:48:29",
-      "https://news.ycombinator.com/item?id=44709905"
+      "2025-07-28, 13:10:00",
+      "https://news.ycombinator.com/item?id=44710533"
     ],
     [
-      "UK VPN demand soars after debut of Online Safety Act",
-      "https://www.theregister.com/2025/07/28/uk_vpn_demand_soars/"
+      "The Geological Sublime",
+      "https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/"
     ]
   ],
   [
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-07-28, 07:27:17",
+      "https://news.ycombinator.com/item?id=44708173"
+    ],
+    [
+      "What would an efficient and trustworthy meeting culture look like?",
+      "https://abitmighty.com/posts/the-ultimate-meeting-culture"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 07:02:14",
       "https://news.ycombinator.com/item?id=44708028"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44707546"
     ],
     [
-      "SIMD Within a Register: How I Doubled Hash Table Lookup Performance",
+      "SIMD within a register: How I doubled hash table lookup performance",
       "https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "Multiplex: Command-Line Process Mutliplexer",
       "https://github.com/sebastien/multiplex"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 02:33:04",
+      "https://news.ycombinator.com/item?id=44706653"
+    ],
+    [
+      "VPN use surges in UK as new online safety rules kick in",
+      "https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-07-27, 14:28:49",
-      "https://news.ycombinator.com/item?id=44701574"
-    ],
-    [
-      "The many JavaScript runtimes of the last decade",
-      "https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 14:25:47",
       "https://news.ycombinator.com/item?id=44701555"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2025-07-27, 12:10:29",
-      "https://news.ycombinator.com/item?id=44700744"
+      "2025-07-26, 04:07:28",
+      "https://news.ycombinator.com/item?id=44691232"
     ],
     [
-      "Formal specs as sets of behaviors",
-      "https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/"
+      "Viral Language",
+      "https://lareviewofbooks.org/article/viral-language/"
     ]
   ],
   [
@@ -205,28 +215,18 @@
       "https://news.ycombinator.com/item?id=44681858"
     ],
     [
-      "You can run Doom and other graphical apps in Android's Linux Terminal",
+      "Terminal app can now run full graphical Linux apps in the latest Android Canary",
       "https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/"
     ]
   ],
   [
     [
-      "2025-07-25, 00:36:03",
-      "https://news.ycombinator.com/item?id=44678083"
+      "2025-07-24, 20:10:15",
+      "https://news.ycombinator.com/item?id=44675438"
     ],
     [
-      "How big can I print my image?",
-      "https://maurycyz.com/misc/printing/"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 23:50:04",
-      "https://news.ycombinator.com/item?id=44677765"
-    ],
-    [
-      "Mobile BESS Powers Remote Heavy Equipment",
-      "https://spectrum.ieee.org/mobile-bess"
+      "A Photonic SRAM with Embedded XOR Logic for Ultra-Fast In-Memory Computing",
+      "https://arxiv.org/abs/2506.22707"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-07-24, 17:46:50",
-      "https://news.ycombinator.com/item?id=44673739"
-    ],
-    [
-      "Drafting Software Recommendation",
-      "https://news.ycombinator.com/item?id=44673739"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 15:47:11",
       "https://news.ycombinator.com/item?id=44672149"
     ],
@@ -277,6 +267,16 @@
     [
       "Blender: Beyond Mouse and Keyboard",
       "https://code.blender.org/2025/07/beyond-mouse-keyboard/"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 14:08:26",
+      "https://news.ycombinator.com/item?id=44670885"
+    ],
+    [
+      "200k Flemish drivers can turn traffic lights green",
+      "https://www.vrt.be/vrtnws/en/2025/07/24/200-000-flemish-drivers-can-turn-traffic-lights-green-but-waze/"
     ]
   ],
   [
