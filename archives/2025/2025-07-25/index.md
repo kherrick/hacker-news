@@ -67,3 +67,4 @@
 * [2025-07-25, 01:40:11](https://news.ycombinator.com/item?id=44678512) - [Celebrating 20 Years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 * [2025-07-25, 01:23:43](https://news.ycombinator.com/item?id=44678426) - [Ask HN: What is so good about MCP servers?](https://news.ycombinator.com/item?id=44678426)
 * [2025-07-25, 00:39:55](https://news.ycombinator.com/item?id=44678112) - [Alto turns your Apple Notes into a website](https://alto.so/)
+* [2025-07-25, 00:36:03](https://news.ycombinator.com/item?id=44678083) - [How big can I print my image?](https://maurycyz.com/misc/printing/)
