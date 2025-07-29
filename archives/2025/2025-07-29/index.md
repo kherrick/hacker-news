@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 15:53:45](https://news.ycombinator.com/item?id=44724898) - [The hit film about overworked nurses that's causing alarm across Europe](https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare)
 * [2025-07-29, 15:15:24](https://news.ycombinator.com/item?id=44724425) - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
 * [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
 * [2025-07-29, 15:00:02](https://news.ycombinator.com/item?id=44724248) - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
@@ -21,6 +22,7 @@
 * [2025-07-29, 12:40:13](https://news.ycombinator.com/item?id=44722602) - [Ask HN: How will the OSA affect small Mastadon instances?](https://news.ycombinator.com/item?id=44722602)
 * [2025-07-29, 12:38:46](https://news.ycombinator.com/item?id=44722584) - [Wish you could escape the planet? Too bad life in space would suck](https://www.salon.com/2024/11/22/wish-you-could-escape-the-planet-too-life-in-space-would-suck/)
 * [2025-07-29, 12:36:51](https://news.ycombinator.com/item?id=44722556) - [Union Pacific to buy Norfolk in $85B mega U.S. railroad deal](https://www.cnbc.com/2025/07/29/union-pacific-to-buy-norfolk.html)
+* [2025-07-29, 12:33:00](https://news.ycombinator.com/item?id=44722518) - [KernelScript eBPF-centric programming language](https://github.com/multikernel/kernelscript)
 * [2025-07-29, 12:01:11](https://news.ycombinator.com/item?id=44722217) - [Sendblue (YC S23) is hiring senior engineers](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer)
 * [2025-07-29, 11:41:26](https://news.ycombinator.com/item?id=44722048) - [Anthropic Faces Potentially \"Business-Ending\" Copyright Lawsuit](https://www.obsolete.pub/p/anthropic-faces-potentially-business)
 * [2025-07-29, 11:12:03](https://news.ycombinator.com/item?id=44721791) - [Built RL for long-horizon agents – tested on 32x H100s but too poor to train](https://github.com/Danau5tin/terminal-bench-rl)
