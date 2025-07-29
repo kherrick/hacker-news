@@ -2,7 +2,7 @@
 
 * [2025-07-29, 10:12:29](https://news.ycombinator.com/item?id=44721403) - [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
 * [2025-07-29, 09:42:14](https://news.ycombinator.com/item?id=44721204) - [Nothing to watch – Experimental gallery visualizing 50k film posters](https://nothing-to-watch.port80.ch)
-* [2025-07-29, 07:15:05](https://news.ycombinator.com/item?id=44720103) - [The EU could be scanning your chats by October 2025](https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know)
+* [2025-07-29, 05:55:32](https://news.ycombinator.com/item?id=44719532) - [Modernising the Amiga at Forty](https://benjamin.computer/posts/2025-07-28-amiga40.html)
 * [2025-07-29, 05:34:15](https://news.ycombinator.com/item?id=44719413) - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
 * [2025-07-29, 01:57:44](https://news.ycombinator.com/item?id=44718117) - [Fintech dystopia](https://fintechdystopia.com/)
 * [2025-07-28, 22:17:14](https://news.ycombinator.com/item?id=44716414) - [Show HN: Companies use AI to take your calls. I built AI to make them for you](https://www.pipervoice.com/)
