@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-07-29, 18:45:42",
+      "https://news.ycombinator.com/item?id=44726921"
+    ],
+    [
+      "Why CI/CD Still Doesn't Include Continuous Documentation?",
+      "https://deepdocs.dev/why-ci-cd-still-doesnt-include-continuous-documentation/"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 18:36:51",
+      "https://news.ycombinator.com/item?id=44726838"
+    ],
+    [
+      "Playing with Open Source LLMs",
+      "https://alicegg.tech//2025/07/29/open-source-llm.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 18:32:42",
+      "https://news.ycombinator.com/item?id=44726807"
+    ],
+    [
+      "Show HN: Monchromate – the best greyscale browser extension",
+      "https://monochromate.lirena.in"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 18:24:23",
+      "https://news.ycombinator.com/item?id=44726731"
+    ],
+    [
+      "A month using XMPP (using Snikket) for every call and chat",
+      "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 18:20:11",
+      "https://news.ycombinator.com/item?id=44726672"
+    ],
+    [
+      "Show HN: A GitHub Action that quizzes you on a pull request",
+      "https://github.com/dkamm/pr-quiz"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 18:09:58",
       "https://news.ycombinator.com/item?id=44726551"
     ],
@@ -31,11 +81,21 @@
   ],
   [
     [
+      "2025-07-29, 17:16:12",
+      "https://news.ycombinator.com/item?id=44725945"
+    ],
+    [
+      "Stochastic Transparency [pdf]",
+      "https://luebke.us/publications/StochasticTransparency_I3D2010.pdf"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 17:01:14",
       "https://news.ycombinator.com/item?id=44725764"
     ],
     [
-      "Study Mode",
+      "Study mode",
       "https://openai.com/index/chatgpt-study-mode/"
     ]
   ],
@@ -45,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44725757"
     ],
     [
-      "Learning Basic Electronics by Building FireFlies",
+      "Learning basic electronics by building fireflies",
       "http://a64.in/posts/learning-basic-electronics-by-building-fireflies/"
     ]
   ],
@@ -55,7 +115,7 @@
       "https://news.ycombinator.com/item?id=44725755"
     ],
     [
-      "Pax Markets (YC W25) is hiring a founding principal hardware (RTL) engineer",
+      "PAX Markets (YC W25) is hiring a founding principal hardware (RTL) engineer",
       "https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer"
     ]
   ],
@@ -87,26 +147,6 @@
     [
       "The Convenience Trap: Why Seamless Banking Access Can Turn 2FA into 1FA",
       "https://blog.opencore.ch/posts/the-convenience-trap-2fa/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 15:15:24",
-      "https://news.ycombinator.com/item?id=44724425"
-    ],
-    [
-      "Show HN: Xorq – open compute catalog for AI",
-      "https://github.com/xorq-labs/xorq"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 15:12:33",
-      "https://news.ycombinator.com/item?id=44724402"
-    ],
-    [
-      "Peacock feathers can be lasers",
-      "https://www.science.org/content/article/peacock-feathers-can-be-lasers"
     ]
   ],
   [
@@ -151,26 +191,6 @@
   ],
   [
     [
-      "2025-07-29, 14:26:47",
-      "https://news.ycombinator.com/item?id=44723818"
-    ],
-    [
-      "Structuring large Clojure codebases with Biff",
-      "https://biffweb.com/p/structuring-large-codebases/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 14:23:41",
-      "https://news.ycombinator.com/item?id=44723763"
-    ],
-    [
-      "Learning Is Slower Than You Think",
-      "https://nisheethvishnoi.substack.com/p/learning-is-slower-than-you-think"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 13:45:07",
       "https://news.ycombinator.com/item?id=44723316"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-07-29, 12:33:00",
-      "https://news.ycombinator.com/item?id=44722518"
-    ],
-    [
-      "KernelScript eBPF-centric programming language",
-      "https://github.com/multikernel/kernelscript"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 11:12:03",
       "https://news.ycombinator.com/item?id=44721791"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2025-07-29, 10:12:29",
-      "https://news.ycombinator.com/item?id=44721403"
-    ],
-    [
-      "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
-      "https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 05:34:15",
       "https://news.ycombinator.com/item?id=44719413"
     ],
     [
       "Pony: An actor-model, capabilities-secure, high-performance programming language",
       "https://www.ponylang.io/discover/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 22:04:58",
+      "https://news.ycombinator.com/item?id=44716280"
+    ],
+    [
+      "Playing with more user-friendly methods for multi-factor authentication",
+      "https://tesseral.com/blog/i-designed-some-more-user-friendly-methods-for-multi-factor-authentication"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-07-26, 00:22:07",
-      "https://news.ycombinator.com/item?id=44690117"
+      "2025-07-26, 04:09:04",
+      "https://news.ycombinator.com/item?id=44691242"
     ],
     [
-      "Show HN: CUDA Fractal Renderer",
-      "https://github.com/tripplyons/cuda-fractal-renderer"
+      "A grand tour through the essays of Lewis H. Lapham",
+      "https://www.laphamsquarterly.org/roundtable/motet-record"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Now I Lay Me (1927)",
       "https://storyoftheweek.loa.org/2025/07/now-i-lay-me.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 12:38:30",
-      "https://news.ycombinator.com/item?id=44682450"
-    ],
-    [
-      "Exploiting zero days in abandoned hardware",
-      "https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/"
     ]
   ]
 ]
