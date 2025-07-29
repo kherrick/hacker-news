@@ -36,6 +36,7 @@
 * [2025-07-27, 14:16:02](https://news.ycombinator.com/item?id=44701477) - [US Government takes $1B from nuclear modernization for gold-plated jet](https://www.nytimes.com/2025/07/27/us/politics/air-force-one-trump-cost.html)
 * [2025-07-27, 12:44:31](https://news.ycombinator.com/item?id=44700923) - [Beetroot juice lowers blood pressure in older people by changing oral microbiome](https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/)
 * [2025-07-27, 12:23:31](https://news.ycombinator.com/item?id=44700815) - [The JJ VCS workshop: A zero-to-hero speedrun](https://github.com/jkoppel/jj-workshop)
+* [2025-07-27, 12:23:09](https://news.ycombinator.com/item?id=44700812) - [AV-Racer Devlog (1): Getting a functional car model](https://wassimulator.com/blog/programming/av-racer/devlog_1.html)
 * [2025-07-27, 12:10:29](https://news.ycombinator.com/item?id=44700744) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
 * [2025-07-27, 11:21:42](https://news.ycombinator.com/item?id=44700471) - [No AI Content](https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/)
 * [2025-07-27, 10:44:22](https://news.ycombinator.com/item?id=44700335) - [Jeff Bezos doesn't believe in PowerPoint, and his employees agree](https://texttoslides.ai/blog/amazon-not-using-powerpoint)
