@@ -6,7 +6,7 @@
 * [2025-07-29, 20:57:47](https://news.ycombinator.com/item?id=44728188) - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
 * [2025-07-29, 20:18:23](https://news.ycombinator.com/item?id=44727788) - [Supervised Fine Tuning on Curated Data is Reinforcement Learning](https://arxiv.org/abs/2507.12856)
 * [2025-07-29, 19:37:05](https://news.ycombinator.com/item?id=44727420) - [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
-* [2025-07-29, 19:24:40](https://news.ycombinator.com/item?id=44727298) - [Maru OS – Your phone is your PC](https://maruos.com/)
+* [2025-07-29, 19:24:40](https://news.ycombinator.com/item?id=44727298) - [Maru OS – Use your phone as your PC (2019)](https://maruos.com/)
 * [2025-07-29, 19:13:32](https://news.ycombinator.com/item?id=44727191) - [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 * [2025-07-29, 18:36:51](https://news.ycombinator.com/item?id=44726838) - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
 * [2025-07-29, 18:36:34](https://news.ycombinator.com/item?id=44726837) - [The Making of Dario Amodei](https://www.bigtechnology.com/p/the-making-of-dario-amodei)
