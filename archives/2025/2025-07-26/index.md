@@ -54,3 +54,4 @@
 * [2025-07-26, 00:27:54](https://news.ycombinator.com/item?id=44690158) - [50x rendering speed improvements in Hologram (Elixir web framework)](https://hologram.page/blog/hologram-v0-5-0-released)
 * [2025-07-26, 00:24:26](https://news.ycombinator.com/item?id=44690135) - [Time Magazine 100 Best Podcasts of All Time](https://time.com/collections/100-best-podcasts/)
 * [2025-07-26, 00:22:07](https://news.ycombinator.com/item?id=44690117) - [Show HN: CUDA Fractal Renderer](https://github.com/tripplyons/cuda-fractal-renderer)
+* [2025-07-26, 00:19:26](https://news.ycombinator.com/item?id=44690095) - [Anker is no longer selling 3D Printers](https://www.theverge.com/report/714006/anker-stop-selling-3d-printer-m5-m5c-parts-eufymake)
