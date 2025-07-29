@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 19:01:25](https://news.ycombinator.com/item?id=44727066) - [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)
 * [2025-07-29, 18:45:42](https://news.ycombinator.com/item?id=44726921) - [Why CI/CD Still Doesn't Include Continuous Documentation?](https://deepdocs.dev/why-ci-cd-still-doesnt-include-continuous-documentation/)
 * [2025-07-29, 18:36:51](https://news.ycombinator.com/item?id=44726838) - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
 * [2025-07-29, 18:32:42](https://news.ycombinator.com/item?id=44726807) - [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
+* [2025-07-29, 18:25:00](https://news.ycombinator.com/item?id=44726736) - [The Secret Stanford Program No One's Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-29, 18:20:11](https://news.ycombinator.com/item?id=44726672) - [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
 * [2025-07-29, 18:09:58](https://news.ycombinator.com/item?id=44726551) - [Linux 6.16 brings faster file systems, improved confidential memory, & more Rust](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)

@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-29, 18:45:42](https://news.ycombinator.com/item?id=44726921) - [Why CI/CD Still Doesn't Include Continuous Documentation?](https://deepdocs.dev/why-ci-cd-still-doesnt-include-continuous-documentation/)
+* [2025-07-29, 19:01:25](https://news.ycombinator.com/item?id=44727066) - [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)
 * [2025-07-29, 18:36:51](https://news.ycombinator.com/item?id=44726838) - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
 * [2025-07-29, 18:32:42](https://news.ycombinator.com/item?id=44726807) - [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
+* [2025-07-29, 18:25:00](https://news.ycombinator.com/item?id=44726736) - [The Secret Stanford Program No One's Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-29, 18:20:11](https://news.ycombinator.com/item?id=44726672) - [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
 * [2025-07-29, 18:09:58](https://news.ycombinator.com/item?id=44726551) - [Linux 6.16 brings faster file systems, improved confidential memory, & more Rust](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)
@@ -20,7 +21,6 @@
 * [2025-07-29, 14:59:18](https://news.ycombinator.com/item?id=44724238) - [Irrelevant facts about cats added to math problems increase LLM errors by 300%](https://www.science.org/content/article/scienceadviser-cats-confuse-ai)
 * [2025-07-29, 14:44:00](https://news.ycombinator.com/item?id=44724068) - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
 * [2025-07-29, 13:45:07](https://news.ycombinator.com/item?id=44723316) - [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
-* [2025-07-29, 13:30:47](https://news.ycombinator.com/item?id=44723131) - [Coverage.py Regex Pragmas](https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html)
 * [2025-07-29, 13:15:49](https://news.ycombinator.com/item?id=44722951) - [Linux Performance Analysis in 60 seconds (2015)](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 * [2025-07-29, 11:12:03](https://news.ycombinator.com/item?id=44721791) - [Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL](https://github.com/Danau5tin/terminal-bench-rl)
 * [2025-07-29, 05:34:15](https://news.ycombinator.com/item?id=44719413) - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
