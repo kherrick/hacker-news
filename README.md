@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-29, 19:24:40](https://news.ycombinator.com/item?id=44727298) - [Maru OS – Your phone is your PC](https://maruos.com/)
 * [2025-07-29, 18:36:51](https://news.ycombinator.com/item?id=44726838) - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
 * [2025-07-29, 18:32:42](https://news.ycombinator.com/item?id=44726807) - [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
 * [2025-07-29, 18:25:00](https://news.ycombinator.com/item?id=44726736) - [The Secret Stanford Program No One's Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
@@ -15,7 +16,6 @@
 * [2025-07-29, 16:17:14](https://news.ycombinator.com/item?id=44725202) - [Show HN: I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/)
 * [2025-07-29, 15:48:15](https://news.ycombinator.com/item?id=44724842) - [The Convenience Trap: Why Seamless Banking Access Can Turn 2FA into 1FA](https://blog.opencore.ch/posts/the-convenience-trap-2fa/)
 * [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
-* [2025-07-29, 15:00:02](https://news.ycombinator.com/item?id=44724248) - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
 * [2025-07-29, 14:59:18](https://news.ycombinator.com/item?id=44724238) - [Irrelevant facts about cats added to math problems increase LLM errors by 300%](https://www.science.org/content/article/scienceadviser-cats-confuse-ai)
 * [2025-07-29, 14:44:00](https://news.ycombinator.com/item?id=44724068) - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
 * [2025-07-29, 14:26:47](https://news.ycombinator.com/item?id=44723818) - [Structuring large Clojure codebases with Biff](https://biffweb.com/p/structuring-large-codebases/)
