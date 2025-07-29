@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-29, 03:01:55](https://news.ycombinator.com/item?id=44718510) - [NSF plans abrupt end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
+* [2025-07-29, 04:53:22](https://news.ycombinator.com/item?id=44719194) - [Florida’s attorney general targets a restaurant over an LGBTQ Pride event](https://www.eff.org/deeplinks/2025/07/you-went-drag-show-now-state-florida-wants-your-name)
+* [2025-07-29, 03:01:55](https://news.ycombinator.com/item?id=44718510) - [NSF plans end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
 * [2025-07-29, 02:43:31](https://news.ycombinator.com/item?id=44718369) - [An engineer's perspective: Why everything feels broken and what can we do](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
 * [2025-07-29, 01:57:44](https://news.ycombinator.com/item?id=44718117) - [Fintech dystopia](https://fintechdystopia.com/)
 * [2025-07-28, 21:49:10](https://news.ycombinator.com/item?id=44716106) - [Show HN: Use Their Dd – Use your local UK MP's ID for the online safety act](https://use-their-id.com/)
 * [2025-07-28, 21:34:40](https://news.ycombinator.com/item?id=44715966) - [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
 * [2025-07-28, 20:24:38](https://news.ycombinator.com/item?id=44715166) - [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
-* [2025-07-28, 20:21:23](https://news.ycombinator.com/item?id=44715132) - [LLMs can now identify public figures in images](https://minimaxir.com/2025/07/llms-identify-people/)
 * [2025-07-28, 20:06:03](https://news.ycombinator.com/item?id=44714954) - [Robot hand could harvest blackberries better than humans](https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans)
 * [2025-07-28, 20:01:26](https://news.ycombinator.com/item?id=44714914) - [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
 * [2025-07-28, 19:05:47](https://news.ycombinator.com/item?id=44714223) - [Different Clocks](https://ianto-cannon.github.io/clock.html)
@@ -16,7 +16,6 @@
 * [2025-07-28, 18:09:17](https://news.ycombinator.com/item?id=44713579) - [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/)
 * [2025-07-28, 16:19:03](https://news.ycombinator.com/item?id=44712315) - [Principles for production AI agents](https://www.app.build/blog/six-principles-production-ai-agents)
 * [2025-07-28, 15:21:13](https://news.ycombinator.com/item?id=44711745) - [Simplify, then add delightness: On designing for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
-* [2025-07-28, 15:06:00](https://news.ycombinator.com/item?id=44711612) - [FDA has approved Yeztugo, a drug that provides protection against HIV infection](https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/)
 * [2025-07-28, 14:57:55](https://news.ycombinator.com/item?id=44711519) - [Copyparty – Turn almost any device into a file server](https://github.com/9001/copyparty)
 * [2025-07-28, 14:36:39](https://news.ycombinator.com/item?id=44711306) - [Tao on “blue team” vs. “red team” LLMs](https://mathstodon.xyz/@tao/114915604830689046)
 * [2025-07-28, 14:15:52](https://news.ycombinator.com/item?id=44711106) - [GLM-4.5: Reasoning, Coding, and Agentic Abililties](https://z.ai/blog/glm-4.5)
@@ -30,6 +29,7 @@
 * [2025-07-25, 12:38:31](https://news.ycombinator.com/item?id=44682451) - [Cells that breathe oxygen and sulfur at the same time](https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/)
 * [2025-07-25, 11:08:45](https://news.ycombinator.com/item?id=44681858) - [Terminal app can now run full graphical Linux apps in the latest Android Canary](https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/)
 * [2025-07-25, 11:05:33](https://news.ycombinator.com/item?id=44681836) - [Show HN: 433 - How to Make a Font That Says Nothing](https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/)
+* [2025-07-25, 09:24:41](https://news.ycombinator.com/item?id=44681254) - [Built a rickroll machine that rickrolls you with microservices](https://github.com/nabbonoushad/Chaotic-Rickroll-Machine)
 
 ## [Archives](archives/index.md)
 
