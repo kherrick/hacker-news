@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 11:12:03](https://news.ycombinator.com/item?id=44721791) - [Built RL for long-horizon agents – tested on 32x H100s but too poor to train](https://github.com/Danau5tin/terminal-bench-rl)
+* [2025-07-29, 10:42:40](https://news.ycombinator.com/item?id=44721604) - [Palestinian who helped make Oscar-winning No Other Land killed in West Bank](https://www.theguardian.com/world/2025/jul/29/palestinian-awdah-hathaleen-oscar-winning-no-other-land-killed-in-west-bank)
 * [2025-07-29, 10:12:29](https://news.ycombinator.com/item?id=44721403) - [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
 * [2025-07-29, 09:42:14](https://news.ycombinator.com/item?id=44721204) - [Nothing to watch – Experimental gallery visualizing 50k film posters](https://nothing-to-watch.port80.ch)
+* [2025-07-29, 09:15:19](https://news.ycombinator.com/item?id=44721003) - [Stop promising \"unlimited\", when you mean \"until we change our minds\"](https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again)
 * [2025-07-29, 07:29:13](https://news.ycombinator.com/item?id=44720200) - [EU Commission finds Temu in breach of online platform rules](https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules)
 * [2025-07-29, 07:15:05](https://news.ycombinator.com/item?id=44720103) - [The EU could be scanning your chats by October 2025](https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know)
 * [2025-07-29, 05:55:32](https://news.ycombinator.com/item?id=44719532) - [Modernising the Amiga at Forty](https://benjamin.computer/posts/2025-07-28-amiga40.html)
