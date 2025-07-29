@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-29, 15:15:24](https://news.ycombinator.com/item?id=44724425) - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
 * [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
 * [2025-07-29, 15:00:02](https://news.ycombinator.com/item?id=44724248) - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
 * [2025-07-29, 14:46:15](https://news.ycombinator.com/item?id=44724088) - [Claude Finds Contradictions in My Thinking](https://angadh.com/contradictions-1)
@@ -22,12 +23,11 @@
 * [2025-07-28, 20:01:26](https://news.ycombinator.com/item?id=44714914) - [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
 * [2025-07-28, 14:57:55](https://news.ycombinator.com/item?id=44711519) - [Copyparty – Turn almost any device into a file server](https://github.com/9001/copyparty)
 * [2025-07-28, 14:36:39](https://news.ycombinator.com/item?id=44711306) - [Tao on “blue team” vs. “red team” LLMs](https://mathstodon.xyz/@tao/114915604830689046)
-* [2025-07-26, 16:47:35](https://news.ycombinator.com/item?id=44695385) - [Optimi-Zi(n)g Sudoku-Solving](https://log.pfad.fr/2025/optimi-zig-sudoku-solving/)
+* [2025-07-27, 13:29:16](https://news.ycombinator.com/item?id=44701191) - [The Saltgator: A Desktop SoftGel Injection Molding Machine](https://www.core77.com/posts/137875/The-Saltgator-A-Desktop-SoftGel-Injection-Molding-Machine)
 * [2025-07-26, 00:27:54](https://news.ycombinator.com/item?id=44690158) - [Hologram v0.5.0](https://hologram.page/blog/hologram-v0-5-0-released)
 * [2025-07-26, 00:22:07](https://news.ycombinator.com/item?id=44690117) - [Show HN: CUDA Fractal Renderer](https://github.com/tripplyons/cuda-fractal-renderer)
 * [2025-07-25, 23:35:25](https://news.ycombinator.com/item?id=44689778) - [Do variable names matter for AI code completion? (2025)](https://yakubov.org/blogs/2025-07-25-variable-naming-impact-on-ai-code-completion)
 * [2025-07-25, 22:53:50](https://news.ycombinator.com/item?id=44689453) - [Truchet Tiles](https://en.wikipedia.org/wiki/Truchet_tiles)
-* [2025-07-25, 21:32:22](https://news.ycombinator.com/item?id=44688738) - [Tour de France confronts a new threat: Are cyclists using tiny motors?](https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/)
 * [2025-07-25, 18:35:22](https://news.ycombinator.com/item?id=44686624) - [Rotring 600 Ballpoint Pen](https://www.shellshore.com/review-rotring-600-ballpoint-pen/)
 * [2025-07-25, 12:38:30](https://news.ycombinator.com/item?id=44682450) - [Exploiting zero days in abandoned hardware](https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/)
 

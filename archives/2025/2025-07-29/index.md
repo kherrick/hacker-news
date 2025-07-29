@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 15:15:24](https://news.ycombinator.com/item?id=44724425) - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
 * [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
 * [2025-07-29, 15:00:02](https://news.ycombinator.com/item?id=44724248) - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
 * [2025-07-29, 14:46:15](https://news.ycombinator.com/item?id=44724088) - [Claude Finds Contradictions in My Thinking](https://angadh.com/contradictions-1)
