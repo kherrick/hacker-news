@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-29, 22:50:47",
+      "https://news.ycombinator.com/item?id=44729169"
+    ],
+    [
+      "Phenome-wide analysis of diseases in relation to sleep traits",
+      "https://spj.science.org/doi/10.34133/hds.0161"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 22:09:48",
+      "https://news.ycombinator.com/item?id=44728833"
+    ],
+    [
+      "Htmx and URL State Management",
+      "https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 21:38:58",
       "https://news.ycombinator.com/item?id=44728554"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44727788"
     ],
     [
-      "Supervised Fine Tuning on Curated Data is Reinforcement Learning",
+      "Supervised fine tuning on curated data is reinforcement learning",
       "https://arxiv.org/abs/2507.12856"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "The Making of Dario Amodei",
       "https://www.bigtechnology.com/p/the-making-of-dario-amodei"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 18:32:42",
-      "https://news.ycombinator.com/item?id=44726807"
-    ],
-    [
-      "Show HN: Monchromate – the best greyscale browser extension",
-      "https://monochromate.lirena.in"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=44726280"
     ],
     [
-      "A Periodic Table of System Design Principles",
+      "Elements of System Design",
       "https://github.com/jarulraj/periodic-table"
     ]
   ],
@@ -221,22 +231,22 @@
   ],
   [
     [
+      "2025-07-29, 13:58:06",
+      "https://news.ycombinator.com/item?id=44723461"
+    ],
+    [
+      "iPhone cameras are good",
+      "https://candid9.com/phone-camera/"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 13:45:07",
       "https://news.ycombinator.com/item?id=44723316"
     ],
     [
       "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
       "https://simonwillison.net/2025/Jul/29/space-invaders/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 13:15:49",
-      "https://news.ycombinator.com/item?id=44722951"
-    ],
-    [
-      "Linux Performance Analysis (2015)",
-      "https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2025-07-26, 09:36:07",
-      "https://news.ycombinator.com/item?id=44692718"
-    ],
-    [
-      "2D to 3D model and 3D print it",
-      "https://www.amodeling.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-26, 04:09:04",
       "https://news.ycombinator.com/item?id=44691242"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=44689565"
     ],
     [
-      "BugBash Ep1 – FoundationDB: from idea to Apple acquisition [video]",
+      "FoundationDB: From idea to Apple acquisition [video]",
       "https://www.youtube.com/watch?v=C1nZzQqcPZw"
     ]
   ]
