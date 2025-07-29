@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-29, 11:12:03](https://news.ycombinator.com/item?id=44721791) - [Built RL for long-horizon agents – tested on 32x H100s but too poor to train](https://github.com/Danau5tin/terminal-bench-rl)
-* [2025-07-29, 10:42:40](https://news.ycombinator.com/item?id=44721604) - [Palestinian who helped make Oscar-winning No Other Land killed in West Bank](https://www.theguardian.com/world/2025/jul/29/palestinian-awdah-hathaleen-oscar-winning-no-other-land-killed-in-west-bank)
+* [2025-07-29, 10:25:18](https://news.ycombinator.com/item?id=44721485) - [Amazon's AI Coding Revealed a Dirty Little Secret](https://www.bloomberg.com/opinion/articles/2025-07-29/amazon-ai-coding-revealed-a-dirty-little-secret)
 * [2025-07-29, 10:12:29](https://news.ycombinator.com/item?id=44721403) - [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
 * [2025-07-29, 09:42:14](https://news.ycombinator.com/item?id=44721204) - [Nothing to watch – Experimental gallery visualizing 50k film posters](https://nothing-to-watch.port80.ch)
 * [2025-07-29, 09:15:19](https://news.ycombinator.com/item?id=44721003) - [Stop promising \"unlimited\", when you mean \"until we change our minds\"](https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again)
