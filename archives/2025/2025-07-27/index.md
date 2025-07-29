@@ -8,6 +8,7 @@
 * [2025-07-27, 23:22:30](https://news.ycombinator.com/item?id=44705619) - [Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks](https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html)
 * [2025-07-27, 23:01:01](https://news.ycombinator.com/item?id=44705494) - [ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea](https://github.com/babycommando/zuse)
 * [2025-07-27, 22:51:28](https://news.ycombinator.com/item?id=44705445) - [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
+* [2025-07-27, 22:36:24](https://news.ycombinator.com/item?id=44705358) - [Placing Functions](https://blog.yoshuawuyts.com/placing-functions/)
 * [2025-07-27, 22:18:44](https://news.ycombinator.com/item?id=44705240) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
 * [2025-07-27, 22:09:14](https://news.ycombinator.com/item?id=44705171) - [Designing a Flatpack Bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 21:12:59](https://news.ycombinator.com/item?id=44704736) - [Making Postgres 42,000x slower because I am unemployed](https://byteofdev.com/posts/making-postgres-slow/)

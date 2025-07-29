@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 21:38:58](https://news.ycombinator.com/item?id=44728554) - [Webflow Down for >31 Hours](https://status.webflow.com)
+* [2025-07-29, 21:34:28](https://news.ycombinator.com/item?id=44728513) - [CodeCrafters (YC S22) is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
+* [2025-07-29, 21:19:19](https://news.ycombinator.com/item?id=44728369) - [Microsoft bans LibreOffice developer's account without warning, rejects appeal](https://www.neowin.net/news/microsoft-bans-libreoffice-developers-account-without-warning-rejects-appeal/)
+* [2025-07-29, 20:57:47](https://news.ycombinator.com/item?id=44728188) - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
 * [2025-07-29, 20:18:23](https://news.ycombinator.com/item?id=44727788) - [Supervised Fine Tuning on Curated Data Is Reinforcement Learning](https://arxiv.org/abs/2507.12856)
 * [2025-07-29, 19:37:05](https://news.ycombinator.com/item?id=44727420) - [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
 * [2025-07-29, 19:30:40](https://news.ycombinator.com/item?id=44727357) - [Delta Engineered a Pricing System That Sorts You by Economic Value](https://blog.getjetback.com/delta-engineered-a-pricing-system-that-sorts-you-by-economic-value/)
