@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44720200">
+          <h3>
+            <a
+              class="item"
+              href="https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules"
+              >EU Commission finds Temu in breach of online platform rules</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-29 @ 07:29:13</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44720200"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44720103">
           <h3>
             <a
@@ -141,11 +162,11 @@
             <h4>
               <span>2025-07-29 @ 07:15:05</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44720103"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -161,34 +182,111 @@
             <h4>
               <span>2025-07-29 @ 05:34:15</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44719413"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44718510">
+        <section id="44718369">
           <h3>
             <a
               class="item"
-              href="https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker"
-              >NSF plans end to lone U.S. Antarctic research icebreaker</a
+              href="https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken"
+              >The leverage arbitrage: Why everything feels broken</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-07-29 @ 03:01:55</span
+              <span>2025-07-29 @ 02:43:31</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44718510"
+                ><a href="https://news.ycombinator.com/item?id=44718369"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44718117">
+          <h3>
+            <a class="item" href="https://fintechdystopia.com/"
+              >Fintech dystopia</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-29 @ 01:57:44</span
+              ><span class="points-container"
+                >Points: <span class="points">202</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44718117"
+                  >Comments</a
+                ><span class="descendants">: 168</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44716414">
+          <h3>
+            <a class="item" href="https://www.pipervoice.com/"
+              >Show HN: Companies use AI to take your calls. I built AI to make
+              them for you</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-28 @ 22:17:14</span
+              ><span class="points-container"
+                >Points: <span class="points">78</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44716414"
+                  >Comments</a
+                ><span class="descendants">: 73</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                So I built Piper: basically AI that makes phone calls for you.
+                You tell it what you need (book appointment, check on an order,
+                dispute some charge, whatever), and it handles the entire
+                conversation while you do actual work. Right now it's a web app,
+                Chrome extension is pending approval but soon you'll be able to
+                click any phone number anywhere and just let Piper handle it.
+              </p>
+              <p>Technical stuff that was harder than expected:</p>
+              <p>
+                Latency - every millisecond counts in conversation, had to
+                optimize around kv cache, got it down to ~1000ms to first word
+                over PSTN for telephony, which feels pretty natural
+              </p>
+              <p>
+                Keeping the voice agents on track - built custom context
+                engineering logic that constantly updates the agent's
+                situational awareness, so it knows when it's been transferred,
+                when it's on hold, etc
+              </p>
+              <p>
+                Done ~50 successful calls with early testers so far. Main
+                failures are when they need complex verification or documents.
+                Also had to take down our IVR navigation temporarily :/, found
+                some edge cases that were causing unnecessary transfers but
+                working on fixing that.
+              </p>
+              <p>
+                I really think we're heading toward this world where AI talks to
+                AI for most routine things, and phone calls might be the first
+                real example of this happening at scale!
+              </p>
+              <p>
+                you can check out the a voice demo on our website.
+                <a href="https://pipervoice.com">https://pipervoice.com</a>
+              </p>
+            </div>
           </section>
         </section>
         <section id="44716106">
@@ -202,11 +300,11 @@
             <h4>
               <span>2025-07-28 @ 21:49:10</span
               ><span class="points-container"
-                >Points: <span class="points">668</span></span
+                >Points: <span class="points">683</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44716106"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
             <div class="text">
@@ -243,6 +341,27 @@
             </h4>
           </section>
         </section>
+        <section id="44715391">
+          <h3>
+            <a
+              class="item"
+              href="https://tkdodo.eu/blog/the-useless-use-callback"
+              >The Useless UseCallback</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-28 @ 20:44:26</span
+              ><span class="points-container"
+                >Points: <span class="points">76</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44715391"
+                  >Comments</a
+                ><span class="descendants">: 61</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44715166">
           <h3>
             <a class="item" href="https://underpassapp.com/news/2025/7/5.html"
@@ -253,11 +372,11 @@
             <h4>
               <span>2025-07-28 @ 20:24:38</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44715166"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -274,7 +393,7 @@
             <h4>
               <span>2025-07-28 @ 20:06:03</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44714954"
                   >Comments</a
@@ -295,11 +414,11 @@
             <h4>
               <span>2025-07-28 @ 20:01:26</span
               ><span class="points-container"
-                >Points: <span class="points">319</span></span
+                >Points: <span class="points">326</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44714914"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -314,50 +433,11 @@
             <h4>
               <span>2025-07-28 @ 19:05:47</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44714223"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44714221">
-          <h3>
-            <a class="item" href="https://www.bbc.com/news/videos/cy8k8045nx9o"
-              >‘I witnessed war crimes’ in Gaza – former worker at GHF aid site
-              [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-28 @ 19:05:41</span
-              ><span class="points-container"
-                >Points: <span class="points">775</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44714221"
-                  >Comments</a
-                ><span class="descendants">: 805</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44714167">
-          <h3>
-            <a class="item" href="https://www.shrinkle.org/"
-              >Shrinkle – Shrink words, find hidden phrase</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-28 @ 19:02:38</span
-              ><span class="points-container"
-                >Points: <span class="points">63</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44714167"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -372,11 +452,11 @@
             <h4>
               <span>2025-07-28 @ 18:27:51</span
               ><span class="points-container"
-                >Points: <span class="points">488</span></span
+                >Points: <span class="points">493</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44713757"
                   >Comments</a
-                ><span class="descendants">: 591</span></span
+                ><span class="descendants">: 592</span></span
               >
             </h4>
             <div class="text">
@@ -424,48 +504,6 @@
             </div>
           </section>
         </section>
-        <section id="44713579">
-          <h3>
-            <a
-              class="item"
-              href="https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/"
-              >Interstellar Comet 3I/Atlas: What We Know Now</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-28 @ 18:09:17</span
-              ><span class="points-container"
-                >Points: <span class="points">86</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44713579"
-                  >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44712315">
-          <h3>
-            <a
-              class="item"
-              href="https://www.app.build/blog/six-principles-production-ai-agents"
-              >Principles for production AI agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-28 @ 16:19:03</span
-              ><span class="points-container"
-                >Points: <span class="points">101</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44712315"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44711745">
           <h3>
             <a
@@ -497,7 +535,7 @@
             <h4>
               <span>2025-07-28 @ 14:57:55</span
               ><span class="points-container"
-                >Points: <span class="points">728</span></span
+                >Points: <span class="points">735</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44711519"
                   >Comments</a
@@ -518,11 +556,11 @@
             <h4>
               <span>2025-07-28 @ 14:36:39</span
               ><span class="points-container"
-                >Points: <span class="points">450</span></span
+                >Points: <span class="points">453</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44711306"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -537,11 +575,11 @@
             <h4>
               <span>2025-07-28 @ 14:15:52</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44711106"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -563,7 +601,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44708270"
                   >Comments</a
-                ><span class="descendants">: 210</span></span
+                ><span class="descendants">: 211</span></span
               >
             </h4>
           </section>
@@ -580,32 +618,11 @@
             <h4>
               <span>2025-07-27 @ 22:51:28</span
               ><span class="points-container"
-                >Points: <span class="points">867</span></span
+                >Points: <span class="points">868</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44705445"
                   >Comments</a
-                ><span class="descendants">: 242</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44700812">
-          <h3>
-            <a
-              class="item"
-              href="https://wassimulator.com/blog/programming/av-racer/devlog_1.html"
-              >AV-Racer Devlog (1): Getting a functional car model</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-27 @ 12:23:09</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44700812"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 243</span></span
               >
             </h4>
           </section>
@@ -639,11 +656,33 @@
             <h4>
               <span>2025-07-26 @ 02:54:46</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44690914"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 61</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44690158">
+          <h3>
+            <a
+              class="item"
+              href="https://hologram.page/blog/hologram-v0-5-0-released"
+              >50x rendering speed improvements in Hologram (Elixir web
+              framework)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-26 @ 00:27:54</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44690158"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -658,7 +697,7 @@
             <h4>
               <span>2025-07-25 @ 22:53:50</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44689453"
                   >Comments</a
@@ -680,11 +719,33 @@
             <h4>
               <span>2025-07-25 @ 22:47:52</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44689402"
                   >Comments</a
                 ><span class="descendants">: 23</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44688738">
+          <h3>
+            <a
+              class="item"
+              href="https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/"
+              >Tour de France confronts a new threat: Are cyclists using tiny
+              motors?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-25 @ 21:32:22</span
+              ><span class="points-container"
+                >Points: <span class="points">44</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44688738"
+                  >Comments</a
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -701,11 +762,11 @@
             <h4>
               <span>2025-07-25 @ 18:35:22</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44686624"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -744,32 +805,11 @@
             <h4>
               <span>2025-07-25 @ 11:08:45</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44681858"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44681836">
-          <h3>
-            <a
-              class="item"
-              href="https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/"
-              >Show HN: 433 – How to make a font that says nothing</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-25 @ 11:05:33</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44681836"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -786,7 +826,7 @@
             <h4>
               <span>2025-07-25 @ 09:24:41</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44681254"
                   >Comments</a
