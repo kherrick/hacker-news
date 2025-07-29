@@ -12,6 +12,7 @@
 * [2025-07-29, 19:01:25](https://news.ycombinator.com/item?id=44727066) - [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)
 * [2025-07-29, 18:45:42](https://news.ycombinator.com/item?id=44726921) - [Why CI/CD Still Doesn't Include Continuous Documentation?](https://deepdocs.dev/why-ci-cd-still-doesnt-include-continuous-documentation/)
 * [2025-07-29, 18:36:51](https://news.ycombinator.com/item?id=44726838) - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
+* [2025-07-29, 18:36:34](https://news.ycombinator.com/item?id=44726837) - [The Making of Dario Amodei](https://www.bigtechnology.com/p/the-making-of-dario-amodei)
 * [2025-07-29, 18:32:42](https://news.ycombinator.com/item?id=44726807) - [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
 * [2025-07-29, 18:25:00](https://news.ycombinator.com/item?id=44726736) - [The Secret Stanford Program No One's Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
