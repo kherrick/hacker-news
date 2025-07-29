@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-29, 20:18:23",
+      "https://news.ycombinator.com/item?id=44727788"
+    ],
+    [
+      "Supervised Fine Tuning on Curated Data Is Reinforcement Learning",
+      "https://arxiv.org/abs/2507.12856"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 19:37:05",
       "https://news.ycombinator.com/item?id=44727420"
     ],
@@ -27,6 +37,16 @@
     [
       "Maru OS – Your phone is your PC",
       "https://maruos.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 19:13:32",
+      "https://news.ycombinator.com/item?id=44727191"
+    ],
+    [
+      "How the Brain Increases Blood Flow on Demand",
+      "https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-07-29, 15:48:15",
-      "https://news.ycombinator.com/item?id=44724842"
-    ],
-    [
-      "The Convenience Trap: Why Seamless Banking Access Can Turn 2FA into 1FA",
-      "https://blog.opencore.ch/posts/the-convenience-trap-2fa/"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 15:03:40",
       "https://news.ycombinator.com/item?id=44724287"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-07-29, 14:26:47",
-      "https://news.ycombinator.com/item?id=44723818"
-    ],
-    [
-      "Structuring large Clojure codebases with Biff",
-      "https://biffweb.com/p/structuring-large-codebases/"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 13:45:07",
       "https://news.ycombinator.com/item?id=44723316"
     ],
@@ -225,18 +225,8 @@
       "https://news.ycombinator.com/item?id=44722951"
     ],
     [
-      "Linux Performance Analysis in 60 seconds (2015)",
+      "Linux Performance Analysis (2015)",
       "https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 11:12:03",
-      "https://news.ycombinator.com/item?id=44721791"
-    ],
-    [
-      "Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL",
-      "https://github.com/Danau5tin/terminal-bench-rl"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Microsoft Flight Simulator 2024: WebAssembly SDK",
       "https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm"
+    ]
+  ],
+  [
+    [
+      "2025-07-26, 09:36:07",
+      "https://news.ycombinator.com/item?id=44692718"
+    ],
+    [
+      "2D to 3D model and 3D print it",
+      "https://www.amodeling.com/"
     ]
   ],
   [
