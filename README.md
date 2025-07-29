@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-29, 04:53:22](https://news.ycombinator.com/item?id=44719194) - [Florida’s attorney general targets a restaurant over an LGBTQ Pride event](https://www.eff.org/deeplinks/2025/07/you-went-drag-show-now-state-florida-wants-your-name)
 * [2025-07-29, 03:01:55](https://news.ycombinator.com/item?id=44718510) - [NSF plans end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
-* [2025-07-29, 02:43:31](https://news.ycombinator.com/item?id=44718369) - [An engineer's perspective: Why everything feels broken and what can we do](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
+* [2025-07-29, 02:43:31](https://news.ycombinator.com/item?id=44718369) - [The Leverage Arbitrage: Why Everything Feels Broken](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
 * [2025-07-29, 01:57:44](https://news.ycombinator.com/item?id=44718117) - [Fintech dystopia](https://fintechdystopia.com/)
 * [2025-07-28, 21:49:10](https://news.ycombinator.com/item?id=44716106) - [Show HN: Use Their Dd – Use your local UK MP's ID for the online safety act](https://use-their-id.com/)
 * [2025-07-28, 21:34:40](https://news.ycombinator.com/item?id=44715966) - [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
@@ -24,11 +23,12 @@
 * [2025-07-27, 12:23:09](https://news.ycombinator.com/item?id=44700812) - [AV-Racer Devlog (1): Getting a functional car model](https://wassimulator.com/blog/programming/av-racer/devlog_1.html)
 * [2025-07-26, 09:22:36](https://news.ycombinator.com/item?id=44692665) - [Show HN: Color Me Same – A new kind of logic game](https://color-me-same.franzai.com/)
 * [2025-07-26, 02:54:46](https://news.ycombinator.com/item?id=44690914) - [SQLx – Rust SQL Toolkit](https://github.com/launchbadge/sqlx)
+* [2025-07-25, 22:53:50](https://news.ycombinator.com/item?id=44689453) - [Truchet Tiles](https://en.wikipedia.org/wiki/Truchet_tiles)
 * [2025-07-25, 22:47:52](https://news.ycombinator.com/item?id=44689402) - [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/)
 * [2025-07-25, 18:35:22](https://news.ycombinator.com/item?id=44686624) - [Rotring 600 Ballpoint Pen](https://www.shellshore.com/review-rotring-600-ballpoint-pen/)
 * [2025-07-25, 12:38:31](https://news.ycombinator.com/item?id=44682451) - [Cells that breathe oxygen and sulfur at the same time](https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/)
 * [2025-07-25, 11:08:45](https://news.ycombinator.com/item?id=44681858) - [Terminal app can now run full graphical Linux apps in the latest Android Canary](https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/)
-* [2025-07-25, 11:05:33](https://news.ycombinator.com/item?id=44681836) - [Show HN: 433 - How to Make a Font That Says Nothing](https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/)
+* [2025-07-25, 11:05:33](https://news.ycombinator.com/item?id=44681836) - [Show HN: 433 – How to make a font that says nothing](https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/)
 * [2025-07-25, 09:24:41](https://news.ycombinator.com/item?id=44681254) - [Built a rickroll machine that rickrolls you with microservices](https://github.com/nabbonoushad/Chaotic-Rickroll-Machine)
 
 ## [Archives](archives/index.md)
