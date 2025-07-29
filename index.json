@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-29, 15:53:45",
+      "https://news.ycombinator.com/item?id=44724898"
+    ],
+    [
+      "The hit film about overworked nurses that's causing alarm across Europe",
+      "https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 15:15:24",
       "https://news.ycombinator.com/item?id=44724425"
     ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2025-07-29, 14:46:15",
-      "https://news.ycombinator.com/item?id=44724088"
-    ],
-    [
-      "Claude Finds Contradictions in My Thinking",
-      "https://angadh.com/contradictions-1"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 14:44:00",
       "https://news.ycombinator.com/item?id=44724068"
     ],
     [
       "Observable Notebooks 2.0 Technology Preview",
       "https://observablehq.com/notebook-kit/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 14:30:23",
-      "https://news.ycombinator.com/item?id=44723876"
-    ],
-    [
-      "2025 Stack Overflow Developer Survey Results",
-      "https://survey.stackoverflow.co/2025"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Linux Performance Analysis in 60 seconds (2015)",
       "https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 12:33:00",
+      "https://news.ycombinator.com/item?id=44722518"
+    ],
+    [
+      "KernelScript eBPF-centric programming language",
+      "https://github.com/multikernel/kernelscript"
     ]
   ],
   [
