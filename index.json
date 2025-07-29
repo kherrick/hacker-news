@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-07-29, 04:53:22",
+      "https://news.ycombinator.com/item?id=44719194"
+    ],
+    [
+      "Florida’s attorney general targets a restaurant over an LGBTQ Pride event",
+      "https://www.eff.org/deeplinks/2025/07/you-went-drag-show-now-state-florida-wants-your-name"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 03:01:55",
       "https://news.ycombinator.com/item?id=44718510"
     ],
     [
-      "NSF plans abrupt end to lone U.S. Antarctic research icebreaker",
+      "NSF plans end to lone U.S. Antarctic research icebreaker",
       "https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Sign in with Google in Chrome",
       "https://underpassapp.com/news/2025/7/5.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 20:21:23",
-      "https://news.ycombinator.com/item?id=44715132"
-    ],
-    [
-      "LLMs can now identify public figures in images",
-      "https://minimaxir.com/2025/07/llms-identify-people/"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Simplify, then add delightness: On designing for children",
       "https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 15:06:00",
-      "https://news.ycombinator.com/item?id=44711612"
-    ],
-    [
-      "FDA has approved Yeztugo, a drug that provides protection against HIV infection",
-      "https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: 433 - How to Make a Font That Says Nothing",
       "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 09:24:41",
+      "https://news.ycombinator.com/item?id=44681254"
+    ],
+    [
+      "Built a rickroll machine that rickrolls you with microservices",
+      "https://github.com/nabbonoushad/Chaotic-Rickroll-Machine"
     ]
   ]
 ]
