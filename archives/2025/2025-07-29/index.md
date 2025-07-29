@@ -24,6 +24,7 @@
 * [2025-07-29, 18:09:58](https://news.ycombinator.com/item?id=44726551) - [Linux 6.16 brings faster file systems, improved confidential memory, & more Rust](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)
 * [2025-07-29, 17:44:58](https://news.ycombinator.com/item?id=44726280) - [A Periodic Table of System Design Principles](https://github.com/jarulraj/periodic-table)
 * [2025-07-29, 17:20:42](https://news.ycombinator.com/item?id=44726000) - [Futurehome smart hub owners must pay new $117 subscription or lose access](https://arstechnica.com/gadgets/2025/07/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service/)
+* [2025-07-29, 17:17:58](https://news.ycombinator.com/item?id=44725966) - [ACM Transitions to Full Open Access](https://www.acm.org/publications/openaccess)
 * [2025-07-29, 17:16:12](https://news.ycombinator.com/item?id=44725945) - [Stochastic Transparency [pdf]](https://luebke.us/publications/StochasticTransparency_I3D2010.pdf)
 * [2025-07-29, 17:01:14](https://news.ycombinator.com/item?id=44725764) - [Study Mode](https://openai.com/index/chatgpt-study-mode/)
 * [2025-07-29, 17:00:43](https://news.ycombinator.com/item?id=44725757) - [Learning Basic Electronics by Building FireFlies](http://a64.in/posts/learning-basic-electronics-by-building-fireflies/)

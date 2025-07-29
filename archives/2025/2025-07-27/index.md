@@ -55,3 +55,4 @@
 * [2025-07-27, 03:37:42](https://news.ycombinator.com/item?id=44698750) - [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)
 * [2025-07-27, 03:34:47](https://news.ycombinator.com/item?id=44698733) - [Smallest particulate matter sensor revolutionizes air quality measurement](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
 * [2025-07-27, 01:28:36](https://news.ycombinator.com/item?id=44698185) - [Janet: Lightweight, Expressive, Modern Lisp](https://janet-lang.org)
+* [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
