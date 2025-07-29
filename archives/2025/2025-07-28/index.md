@@ -12,6 +12,7 @@
 * [2025-07-28, 21:34:40](https://news.ycombinator.com/item?id=44715966) - [The Vatican Observatory Looks to the Heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
 * [2025-07-28, 20:44:26](https://news.ycombinator.com/item?id=44715391) - [The Useless UseCallback](https://tkdodo.eu/blog/the-useless-use-callback)
 * [2025-07-28, 20:24:38](https://news.ycombinator.com/item?id=44715166) - [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
+* [2025-07-28, 20:21:23](https://news.ycombinator.com/item?id=44715132) - [LLMs can now identify public figures in images](https://minimaxir.com/2025/07/llms-identify-people/)
 * [2025-07-28, 20:10:04](https://news.ycombinator.com/item?id=44714994) - [Why not Matrix (2024)](https://benharri.org/why-not-matrix/)
 * [2025-07-28, 20:10:04](https://news.ycombinator.com/item?id=44714994) - [Why not Matrix (2023)](https://telegra.ph/why-not-matrix-08-07)
 * [2025-07-28, 20:06:03](https://news.ycombinator.com/item?id=44714954) - [Robot hand could harvest blackberries better than humans](https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans)

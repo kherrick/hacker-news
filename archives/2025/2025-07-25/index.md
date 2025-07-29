@@ -17,6 +17,7 @@
 * [2025-07-25, 18:43:24](https://news.ycombinator.com/item?id=44686726) - [Claude Code Introduces Specialized Sub-Agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 * [2025-07-25, 18:41:15](https://news.ycombinator.com/item?id=44686702) - [Dwm Commented](https://github.com/bakkeby/dwm-commented)
 * [2025-07-25, 18:37:47](https://news.ycombinator.com/item?id=44686662) - [The \"computer janitor\" of the Manhattan project](https://www.allaboutcircuits.com/news/richard-hamming-the-computer-janitor-of-the-manhattan-project/)
+* [2025-07-25, 18:35:22](https://news.ycombinator.com/item?id=44686624) - [Rotring 600 Ballpoint Pen](https://www.shellshore.com/review-rotring-600-ballpoint-pen/)
 * [2025-07-25, 18:11:21](https://news.ycombinator.com/item?id=44686317) - [Vanilla JavaScript Support for Tailwind Plus – Tailwind CSS](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
 * [2025-07-25, 18:05:46](https://news.ycombinator.com/item?id=44686246) - [Monotonic and Wall Clock Time in the Go Time Package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html)
 * [2025-07-25, 18:03:01](https://news.ycombinator.com/item?id=44686209) - [Tabs vs. Spaces: The War Is Over](https://xn--gckvb8fzb.com/tabs-vs-spaces-the-war-is-over/)
