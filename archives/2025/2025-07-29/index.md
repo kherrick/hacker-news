@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 22:50:47](https://news.ycombinator.com/item?id=44729169) - [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
+* [2025-07-29, 22:09:48](https://news.ycombinator.com/item?id=44728833) - [Htmx and URL State Management](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
 * [2025-07-29, 21:38:58](https://news.ycombinator.com/item?id=44728554) - [Webflow Down for >31 Hours](https://status.webflow.com)
 * [2025-07-29, 21:34:28](https://news.ycombinator.com/item?id=44728513) - [CodeCrafters (YC S22) is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
 * [2025-07-29, 21:19:19](https://news.ycombinator.com/item?id=44728369) - [Microsoft bans LibreOffice developer's account without warning, rejects appeal](https://www.neowin.net/news/microsoft-bans-libreoffice-developers-account-without-warning-rejects-appeal/)
@@ -45,6 +47,7 @@
 * [2025-07-29, 14:30:23](https://news.ycombinator.com/item?id=44723876) - [2025 Stack Overflow Developer Survey Results](https://survey.stackoverflow.co/2025)
 * [2025-07-29, 14:26:47](https://news.ycombinator.com/item?id=44723818) - [Structuring large Clojure codebases with Biff](https://biffweb.com/p/structuring-large-codebases/)
 * [2025-07-29, 14:23:41](https://news.ycombinator.com/item?id=44723763) - [Learning Is Slower Than You Think](https://nisheethvishnoi.substack.com/p/learning-is-slower-than-you-think)
+* [2025-07-29, 13:58:06](https://news.ycombinator.com/item?id=44723461) - [iPhone cameras are good](https://candid9.com/phone-camera/)
 * [2025-07-29, 13:45:07](https://news.ycombinator.com/item?id=44723316) - [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
 * [2025-07-29, 13:38:13](https://news.ycombinator.com/item?id=44723234) - [RP2350 A4, RP2354, and a New Hacking Challenge](https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/)
 * [2025-07-29, 13:33:05](https://news.ycombinator.com/item?id=44723162) - [Can a Country Be Too Rich? Norway Is Finding Out](https://www.bloomberg.com/news/articles/2025-07-25/can-a-country-be-too-rich-norway-is-finding-out-essay)
