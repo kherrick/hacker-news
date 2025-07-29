@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-29, 19:37:05](https://news.ycombinator.com/item?id=44727420) - [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
+* [2025-07-29, 19:30:40](https://news.ycombinator.com/item?id=44727357) - [Delta Engineered a Pricing System That Sorts You by Economic Value](https://blog.getjetback.com/delta-engineered-a-pricing-system-that-sorts-you-by-economic-value/)
 * [2025-07-29, 19:24:40](https://news.ycombinator.com/item?id=44727298) - [Maru OS – Your phone is your PC](https://maruos.com/)
 * [2025-07-29, 18:36:51](https://news.ycombinator.com/item?id=44726838) - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
 * [2025-07-29, 18:32:42](https://news.ycombinator.com/item?id=44726807) - [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
-* [2025-07-29, 18:25:00](https://news.ycombinator.com/item?id=44726736) - [The Secret Stanford Program No One's Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
-* [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
+* [2025-07-29, 18:25:00](https://news.ycombinator.com/item?id=44726736) - [Stanford’s Management Science and Engineering programs](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
+* [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-29, 18:20:11](https://news.ycombinator.com/item?id=44726672) - [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
 * [2025-07-29, 18:09:58](https://news.ycombinator.com/item?id=44726551) - [Linux 6.16 brings faster file systems, improved confidential memory, & more Rust](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)
 * [2025-07-29, 17:44:58](https://news.ycombinator.com/item?id=44726280) - [A Periodic Table of System Design Principles](https://github.com/jarulraj/periodic-table)
@@ -20,7 +22,6 @@
 * [2025-07-29, 14:44:00](https://news.ycombinator.com/item?id=44724068) - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
 * [2025-07-29, 14:26:47](https://news.ycombinator.com/item?id=44723818) - [Structuring large Clojure codebases with Biff](https://biffweb.com/p/structuring-large-codebases/)
 * [2025-07-29, 13:45:07](https://news.ycombinator.com/item?id=44723316) - [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
-* [2025-07-29, 13:30:47](https://news.ycombinator.com/item?id=44723131) - [Coverage.py Regex Pragmas](https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html)
 * [2025-07-29, 13:15:49](https://news.ycombinator.com/item?id=44722951) - [Linux Performance Analysis in 60 seconds (2015)](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 * [2025-07-29, 11:12:03](https://news.ycombinator.com/item?id=44721791) - [Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL](https://github.com/Danau5tin/terminal-bench-rl)
 * [2025-07-29, 05:34:15](https://news.ycombinator.com/item?id=44719413) - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
@@ -29,7 +30,6 @@
 * [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
 * [2025-07-26, 04:09:04](https://news.ycombinator.com/item?id=44691242) - [A grand tour through the essays of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/motet-record)
 * [2025-07-25, 23:06:18](https://news.ycombinator.com/item?id=44689565) - [BugBash Ep1 – FoundationDB: from idea to Apple acquisition [video]](https://www.youtube.com/watch?v=C1nZzQqcPZw)
-* [2025-07-25, 18:39:49](https://news.ycombinator.com/item?id=44686682) - [Now I Lay Me (1927)](https://storyoftheweek.loa.org/2025/07/now-i-lay-me.html)
 
 ## [Archives](archives/index.md)
 
