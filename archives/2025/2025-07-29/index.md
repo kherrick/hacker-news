@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 17:20:42](https://news.ycombinator.com/item?id=44726000) - [Futurehome smart hub owners must pay new $117 subscription or lose access](https://arstechnica.com/gadgets/2025/07/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service/)
 * [2025-07-29, 17:01:14](https://news.ycombinator.com/item?id=44725764) - [Study Mode](https://openai.com/index/chatgpt-study-mode/)
+* [2025-07-29, 17:00:43](https://news.ycombinator.com/item?id=44725757) - [Learning Basic Electronics by Building FireFlies](http://a64.in/posts/learning-basic-electronics-by-building-fireflies/)
 * [2025-07-29, 17:00:35](https://news.ycombinator.com/item?id=44725755) - [Pax Markets (YC W25) is hiring a founding principal hardware (RTL) engineer](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer)
 * [2025-07-29, 16:33:28](https://news.ycombinator.com/item?id=44725437) - [UK to recognise Palestinian state in September unless Israel accepts ceasefire](https://www.theguardian.com/politics/2025/jul/29/uk-to-recognise-state-of-palestine-in-september-unless-israel-holds-to-a-ceasefire)
 * [2025-07-29, 16:24:08](https://news.ycombinator.com/item?id=44725306) - [Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
@@ -13,8 +15,10 @@
 * [2025-07-29, 15:53:45](https://news.ycombinator.com/item?id=44724898) - [The hit film about overworked nurses that's causing alarm across Europe](https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare)
 * [2025-07-29, 15:48:15](https://news.ycombinator.com/item?id=44724842) - [The Convenience Trap: Why Seamless Banking Access Can Turn 2FA into 1FA](https://blog.opencore.ch/posts/the-convenience-trap-2fa/)
 * [2025-07-29, 15:15:24](https://news.ycombinator.com/item?id=44724425) - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
+* [2025-07-29, 15:12:33](https://news.ycombinator.com/item?id=44724402) - [Peacock feathers can be lasers](https://www.science.org/content/article/peacock-feathers-can-be-lasers)
 * [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
 * [2025-07-29, 15:00:02](https://news.ycombinator.com/item?id=44724248) - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
+* [2025-07-29, 14:59:18](https://news.ycombinator.com/item?id=44724238) - [Irrelevant facts about cats added to math problems increase LLM errors by 300%](https://www.science.org/content/article/scienceadviser-cats-confuse-ai)
 * [2025-07-29, 14:46:15](https://news.ycombinator.com/item?id=44724088) - [Claude Finds Contradictions in My Thinking](https://angadh.com/contradictions-1)
 * [2025-07-29, 14:44:00](https://news.ycombinator.com/item?id=44724068) - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
 * [2025-07-29, 14:30:23](https://news.ycombinator.com/item?id=44723876) - [2025 Stack Overflow Developer Survey Results](https://survey.stackoverflow.co/2025)
