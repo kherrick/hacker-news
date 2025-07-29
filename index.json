@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-29, 23:34:11",
+      "https://news.ycombinator.com/item?id=44729461"
+    ],
+    [
+      "Someone made a 128000 line PR to opencut",
+      "https://github.com/OpenCut-app/OpenCut/pull/479"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 22:50:47",
       "https://news.ycombinator.com/item?id=44729169"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-07-29, 18:32:42",
-      "https://news.ycombinator.com/item?id=44726807"
-    ],
-    [
-      "Show HN: Monchromate – Smart greyscale browser extension",
-      "https://monochromate.lirena.in"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 18:25:00",
       "https://news.ycombinator.com/item?id=44726736"
     ],
@@ -127,16 +127,6 @@
     [
       "Show HN: A GitHub Action that quizzes you on a pull request",
       "https://github.com/dkamm/pr-quiz"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 18:09:58",
-      "https://news.ycombinator.com/item?id=44726551"
-    ],
-    [
-      "Linux 6.16: faster file systems, improved confidential memory, more Rust support",
-      "https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Microsoft Flight Simulator 2024: WebAssembly SDK",
       "https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm"
+    ]
+  ],
+  [
+    [
+      "2025-07-26, 06:57:17",
+      "https://news.ycombinator.com/item?id=44691986"
+    ],
+    [
+      "When JavaScript Decided My Day Starts at 9AM",
+      "https://senhongo.com/blog/when-javaScript-decided-my-day-starts-at-9am"
     ]
   ],
   [
