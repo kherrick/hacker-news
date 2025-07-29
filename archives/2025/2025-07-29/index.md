@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 14:23:41](https://news.ycombinator.com/item?id=44723763) - [Learning Is Slower Than You Think](https://nisheethvishnoi.substack.com/p/learning-is-slower-than-you-think)
 * [2025-07-29, 13:45:07](https://news.ycombinator.com/item?id=44723316) - [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
 * [2025-07-29, 13:38:13](https://news.ycombinator.com/item?id=44723234) - [RP2350 A4, RP2354, and a New Hacking Challenge](https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/)
 * [2025-07-29, 13:33:05](https://news.ycombinator.com/item?id=44723162) - [Can a Country Be Too Rich? Norway Is Finding Out](https://www.bloomberg.com/news/articles/2025-07-25/can-a-country-be-too-rich-norway-is-finding-out-essay)
