@@ -53,6 +53,7 @@
 * [2025-07-25, 13:40:19](https://news.ycombinator.com/item?id=44683011) - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It's DE9, Not DB9](https://news.sparkfun.com/14298)
 * [2025-07-25, 13:30:54](https://news.ycombinator.com/item?id=44682932) - [Who has the fastest F1 website (2021)](https://jakearchibald.com/2021/f1-perf-part-3/)
+* [2025-07-25, 13:26:05](https://news.ycombinator.com/item?id=44682885) - [Félix Nadar: the first celebrity photographer](https://www.bbc.com/culture/article/20190114-flix-nadar-the-worlds-first-celebrity-photographer)
 * [2025-07-25, 12:57:31](https://news.ycombinator.com/item?id=44682626) - [How to draw lambda diagrams (2020)](https://risingentropy.com/how-to-draw-lambda-diagrams/)
 * [2025-07-25, 12:39:41](https://news.ycombinator.com/item?id=44682465) - [Up to date prices for LLM APIs all in one place](https://pricepertoken.com/)
 * [2025-07-25, 12:38:31](https://news.ycombinator.com/item?id=44682451) - [The Cells That Breathe Two Ways](https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/)
