@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-29, 03:01:55](https://news.ycombinator.com/item?id=44718510) - [NSF plans abrupt end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
+* [2025-07-29, 02:43:31](https://news.ycombinator.com/item?id=44718369) - [An engineer's perspective: Why everything feels broken and what can we do](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
 * [2025-07-29, 01:57:44](https://news.ycombinator.com/item?id=44718117) - [Fintech dystopia](https://fintechdystopia.com/)
 * [2025-07-28, 21:49:10](https://news.ycombinator.com/item?id=44716106) - [Show HN: Use Their Dd – Use your local UK MP's ID for the online safety act](https://use-their-id.com/)
 * [2025-07-28, 21:34:40](https://news.ycombinator.com/item?id=44715966) - [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
@@ -20,9 +21,8 @@
 * [2025-07-28, 14:36:39](https://news.ycombinator.com/item?id=44711306) - [Tao on “blue team” vs. “red team” LLMs](https://mathstodon.xyz/@tao/114915604830689046)
 * [2025-07-28, 14:15:52](https://news.ycombinator.com/item?id=44711106) - [GLM-4.5: Reasoning, Coding, and Agentic Abililties](https://z.ai/blog/glm-4.5)
 * [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to make websites that will require lots of your time and energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
-* [2025-07-28, 05:41:34](https://news.ycombinator.com/item?id=44707546) - [SIMD within a register: How I doubled hash table lookup performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
-* [2025-07-28, 01:43:36](https://news.ycombinator.com/item?id=44706409) - [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/)
 * [2025-07-27, 22:51:28](https://news.ycombinator.com/item?id=44705445) - [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
+* [2025-07-27, 12:23:09](https://news.ycombinator.com/item?id=44700812) - [AV-Racer Devlog (1): Getting a functional car model](https://wassimulator.com/blog/programming/av-racer/devlog_1.html)
 * [2025-07-26, 09:22:36](https://news.ycombinator.com/item?id=44692665) - [Show HN: Color Me Same – A new kind of logic game](https://color-me-same.franzai.com/)
 * [2025-07-26, 02:54:46](https://news.ycombinator.com/item?id=44690914) - [SQLx – Rust SQL Toolkit](https://github.com/launchbadge/sqlx)
 * [2025-07-25, 22:47:52](https://news.ycombinator.com/item?id=44689402) - [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/)
