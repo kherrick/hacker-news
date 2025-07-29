@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 13:33:05](https://news.ycombinator.com/item?id=44723162) - [Can a Country Be Too Rich? Norway Is Finding Out](https://www.bloomberg.com/news/articles/2025-07-25/can-a-country-be-too-rich-norway-is-finding-out-essay)
+* [2025-07-29, 13:15:49](https://news.ycombinator.com/item?id=44722951) - [Linux Performance Analysis in 60 seconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+* [2025-07-29, 12:40:13](https://news.ycombinator.com/item?id=44722602) - [Ask HN: How will the OSA affect small Mastadon instances?](https://news.ycombinator.com/item?id=44722602)
 * [2025-07-29, 12:38:46](https://news.ycombinator.com/item?id=44722584) - [Wish you could escape the planet? Too bad life in space would suck](https://www.salon.com/2024/11/22/wish-you-could-escape-the-planet-too-life-in-space-would-suck/)
 * [2025-07-29, 12:36:51](https://news.ycombinator.com/item?id=44722556) - [Union Pacific to buy Norfolk in $85B mega U.S. railroad deal](https://www.cnbc.com/2025/07/29/union-pacific-to-buy-norfolk.html)
 * [2025-07-29, 12:01:11](https://news.ycombinator.com/item?id=44722217) - [Sendblue (YC S23) is hiring senior engineers](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer)
