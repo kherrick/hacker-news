@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-29, 23:34:11](https://news.ycombinator.com/item?id=44729461) - [Someone made a 128000 line PR to opencut](https://github.com/OpenCut-app/OpenCut/pull/479)
 * [2025-07-29, 22:50:47](https://news.ycombinator.com/item?id=44729169) - [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
 * [2025-07-29, 22:09:48](https://news.ycombinator.com/item?id=44728833) - [Htmx and URL State Management](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
 * [2025-07-29, 21:34:28](https://news.ycombinator.com/item?id=44728513) - [CodeCrafters (YC S22) is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
@@ -9,11 +10,9 @@
 * [2025-07-29, 19:24:40](https://news.ycombinator.com/item?id=44727298) - [Maru OS – Use your phone as your PC](https://maruos.com/)
 * [2025-07-29, 19:13:32](https://news.ycombinator.com/item?id=44727191) - [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 * [2025-07-29, 18:36:34](https://news.ycombinator.com/item?id=44726837) - [The Making of Dario Amodei](https://www.bigtechnology.com/p/the-making-of-dario-amodei)
-* [2025-07-29, 18:32:42](https://news.ycombinator.com/item?id=44726807) - [Show HN: Monchromate – Smart greyscale browser extension](https://monochromate.lirena.in)
 * [2025-07-29, 18:25:00](https://news.ycombinator.com/item?id=44726736) - [Stanford’s Department of Management Science and Engineering](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-29, 18:20:11](https://news.ycombinator.com/item?id=44726672) - [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
-* [2025-07-29, 18:09:58](https://news.ycombinator.com/item?id=44726551) - [Linux 6.16: faster file systems, improved confidential memory, more Rust support](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)
 * [2025-07-29, 17:44:58](https://news.ycombinator.com/item?id=44726280) - [Elements of System Design](https://github.com/jarulraj/periodic-table)
 * [2025-07-29, 17:17:58](https://news.ycombinator.com/item?id=44725966) - [ACM Transitions to Full Open Access](https://www.acm.org/publications/openaccess)
 * [2025-07-29, 17:01:14](https://news.ycombinator.com/item?id=44725764) - [Study mode](https://openai.com/index/chatgpt-study-mode/)
@@ -28,6 +27,7 @@
 * [2025-07-27, 22:36:24](https://news.ycombinator.com/item?id=44705358) - [Placing Functions](https://blog.yoshuawuyts.com/placing-functions/)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
 * [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
+* [2025-07-26, 06:57:17](https://news.ycombinator.com/item?id=44691986) - [When JavaScript Decided My Day Starts at 9AM](https://senhongo.com/blog/when-javaScript-decided-my-day-starts-at-9am)
 * [2025-07-26, 04:09:04](https://news.ycombinator.com/item?id=44691242) - [A grand tour through the essays of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/motet-record)
 * [2025-07-25, 23:06:18](https://news.ycombinator.com/item?id=44689565) - [FoundationDB: From idea to Apple acquisition [video]](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 

@@ -45,6 +45,7 @@
 * [2025-07-26, 09:22:36](https://news.ycombinator.com/item?id=44692665) - [Show HN: (Ask HN) Color Me Same – A New Kind of Logic Game – Pursue It Further?](https://color-me-same.franzai.com/)
 * [2025-07-26, 07:24:37](https://news.ycombinator.com/item?id=44692118) - [Ambigrammia: Between Creation and Discovery (Hofstadter, 2025)](https://yalebooks.yale.edu/book/9780300275438/ambigrammia/)
 * [2025-07-26, 07:02:47](https://news.ycombinator.com/item?id=44692015) - [Auto Favicon MCP Server](https://github.com/dh1011/auto-favicon-mcp)
+* [2025-07-26, 06:57:17](https://news.ycombinator.com/item?id=44691986) - [When JavaScript Decided My Day Starts at 9AM](https://senhongo.com/blog/when-javaScript-decided-my-day-starts-at-9am)
 * [2025-07-26, 06:46:44](https://news.ycombinator.com/item?id=44691935) - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [2025-07-26, 06:36:27](https://news.ycombinator.com/item?id=44691896) - [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)
 * [2025-07-26, 05:57:20](https://news.ycombinator.com/item?id=44691722) - [Why I Do Programming](https://esafev.com/notes/why-i-do-programming/)
