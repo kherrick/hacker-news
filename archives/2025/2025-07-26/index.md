@@ -26,6 +26,7 @@
 * [2025-07-26, 17:57:09](https://news.ycombinator.com/item?id=44695855) - [Svalbard winter warming is reaching melting point](https://www.nature.com/articles/s41467-025-60926-8)
 * [2025-07-26, 16:49:50](https://news.ycombinator.com/item?id=44695404) - [.gitignore Is Inherently Sisyphean](https://rgbcu.be/blog/gitignore/)
 * [2025-07-26, 16:47:35](https://news.ycombinator.com/item?id=44695385) - [Optimi-Zi(n)g Sudoku-Solving](https://log.pfad.fr/2025/optimi-zig-sudoku-solving/)
+* [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
 * [2025-07-26, 16:21:20](https://news.ycombinator.com/item?id=44695205) - [Earth Has Tilted 31.5 Inches. That Shouldn't Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
 * [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
 * [2025-07-26, 16:15:17](https://news.ycombinator.com/item?id=44695159) - [Is the Interstellar Object 3I/Atlas Alien Technology?](https://arxiv.org/abs/2507.12213)
