@@ -48,6 +48,7 @@
 * [2025-07-26, 06:36:27](https://news.ycombinator.com/item?id=44691896) - [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)
 * [2025-07-26, 05:57:20](https://news.ycombinator.com/item?id=44691722) - [Why I Do Programming](https://esafev.com/notes/why-i-do-programming/)
 * [2025-07-26, 04:23:36](https://news.ycombinator.com/item?id=44691312) - [Users claim Discord's age verification can be tricked with video game characters](https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/)
+* [2025-07-26, 04:09:04](https://news.ycombinator.com/item?id=44691242) - [A grand tour through the essays of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/motet-record)
 * [2025-07-26, 04:07:28](https://news.ycombinator.com/item?id=44691232) - [Viral Language](https://lareviewofbooks.org/article/viral-language/)
 * [2025-07-26, 02:57:44](https://news.ycombinator.com/item?id=44690936) - [What if AI made the world’s economic growth explode?](https://www.economist.com/briefing/2025/07/24/what-if-ai-made-the-worlds-economic-growth-explode)
 * [2025-07-26, 02:54:46](https://news.ycombinator.com/item?id=44690914) - [SQLx – The Rust SQL Toolkit](https://github.com/launchbadge/sqlx)
