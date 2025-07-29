@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-29, 07:29:13",
+      "https://news.ycombinator.com/item?id=44720200"
+    ],
+    [
+      "EU Commission finds Temu in breach of online platform rules",
+      "https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 07:15:05",
       "https://news.ycombinator.com/item?id=44720103"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
-      "2025-07-29, 03:01:55",
-      "https://news.ycombinator.com/item?id=44718510"
+      "2025-07-29, 02:43:31",
+      "https://news.ycombinator.com/item?id=44718369"
     ],
     [
-      "NSF plans end to lone U.S. Antarctic research icebreaker",
-      "https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker"
+      "The leverage arbitrage: Why everything feels broken",
+      "https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 01:57:44",
+      "https://news.ycombinator.com/item?id=44718117"
+    ],
+    [
+      "Fintech dystopia",
+      "https://fintechdystopia.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 22:17:14",
+      "https://news.ycombinator.com/item?id=44716414"
+    ],
+    [
+      "Show HN: Companies use AI to take your calls. I built AI to make them for you",
+      "https://www.pipervoice.com/"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "The Vatican observatory looks to the heavens",
       "https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 20:44:26",
+      "https://news.ycombinator.com/item?id=44715391"
+    ],
+    [
+      "The Useless UseCallback",
+      "https://tkdodo.eu/blog/the-useless-use-callback"
     ]
   ],
   [
@@ -91,52 +131,12 @@
   ],
   [
     [
-      "2025-07-28, 19:05:41",
-      "https://news.ycombinator.com/item?id=44714221"
-    ],
-    [
-      "‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]",
-      "https://www.bbc.com/news/videos/cy8k8045nx9o"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 19:02:38",
-      "https://news.ycombinator.com/item?id=44714167"
-    ],
-    [
-      "Shrinkle – Shrink words, find hidden phrase",
-      "https://www.shrinkle.org/"
-    ]
-  ],
-  [
-    [
       "2025-07-28, 18:27:51",
       "https://news.ycombinator.com/item?id=44713757"
     ],
     [
       "Claude Code weekly rate limits",
       "https://news.ycombinator.com/item?id=44713757"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 18:09:17",
-      "https://news.ycombinator.com/item?id=44713579"
-    ],
-    [
-      "Interstellar Comet 3I/Atlas: What We Know Now",
-      "https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 16:19:03",
-      "https://news.ycombinator.com/item?id=44712315"
-    ],
-    [
-      "Principles for production AI agents",
-      "https://www.app.build/blog/six-principles-production-ai-agents"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-07-27, 12:23:09",
-      "https://news.ycombinator.com/item?id=44700812"
-    ],
-    [
-      "AV-Racer Devlog (1): Getting a functional car model",
-      "https://wassimulator.com/blog/programming/av-racer/devlog_1.html"
-    ]
-  ],
-  [
-    [
       "2025-07-26, 09:22:36",
       "https://news.ycombinator.com/item?id=44692665"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2025-07-26, 00:27:54",
+      "https://news.ycombinator.com/item?id=44690158"
+    ],
+    [
+      "50x rendering speed improvements in Hologram (Elixir web framework)",
+      "https://hologram.page/blog/hologram-v0-5-0-released"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 22:53:50",
       "https://news.ycombinator.com/item?id=44689453"
     ],
@@ -247,6 +247,16 @@
     [
       "SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets",
       "https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 21:32:22",
+      "https://news.ycombinator.com/item?id=44688738"
+    ],
+    [
+      "Tour de France confronts a new threat: Are cyclists using tiny motors?",
+      "https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Terminal app can now run full graphical Linux apps in the latest Android Canary",
       "https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 11:05:33",
-      "https://news.ycombinator.com/item?id=44681836"
-    ],
-    [
-      "Show HN: 433 – How to make a font that says nothing",
-      "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/"
     ]
   ],
   [
