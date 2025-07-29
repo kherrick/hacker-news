@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-29, 18:09:58](https://news.ycombinator.com/item?id=44726551) - [Linux 6.16 brings faster file systems, improved confidential memory, & more Rust](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)
+* [2025-07-29, 17:44:58](https://news.ycombinator.com/item?id=44726280) - [A Periodic Table of System Design Principles](https://github.com/jarulraj/periodic-table)
 * [2025-07-29, 17:20:42](https://news.ycombinator.com/item?id=44726000) - [Futurehome smart hub owners must pay new $117 subscription or lose access](https://arstechnica.com/gadgets/2025/07/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service/)
 * [2025-07-29, 17:01:14](https://news.ycombinator.com/item?id=44725764) - [Study Mode](https://openai.com/index/chatgpt-study-mode/)
 * [2025-07-29, 17:00:43](https://news.ycombinator.com/item?id=44725757) - [Learning Basic Electronics by Building FireFlies](http://a64.in/posts/learning-basic-electronics-by-building-fireflies/)
@@ -21,14 +23,12 @@
 * [2025-07-29, 12:33:00](https://news.ycombinator.com/item?id=44722518) - [KernelScript eBPF-centric programming language](https://github.com/multikernel/kernelscript)
 * [2025-07-29, 11:12:03](https://news.ycombinator.com/item?id=44721791) - [Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL](https://github.com/Danau5tin/terminal-bench-rl)
 * [2025-07-29, 10:12:29](https://news.ycombinator.com/item?id=44721403) - [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
-* [2025-07-29, 09:42:14](https://news.ycombinator.com/item?id=44721204) - [Nothing to watch – Experimental gallery visualizing 50k film posters](https://nothing-to-watch.port80.ch)
 * [2025-07-29, 05:34:15](https://news.ycombinator.com/item?id=44719413) - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
 * [2025-07-27, 13:29:16](https://news.ycombinator.com/item?id=44701191) - [The Saltgator: A Desktop SoftGel Injection Molding Machine](https://www.core77.com/posts/137875/The-Saltgator-A-Desktop-SoftGel-Injection-Molding-Machine)
 * [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
 * [2025-07-26, 00:22:07](https://news.ycombinator.com/item?id=44690117) - [Show HN: CUDA Fractal Renderer](https://github.com/tripplyons/cuda-fractal-renderer)
 * [2025-07-25, 23:35:25](https://news.ycombinator.com/item?id=44689778) - [Do variable names matter for AI code completion? (2025)](https://yakubov.org/blogs/2025-07-25-variable-naming-impact-on-ai-code-completion)
 * [2025-07-25, 18:39:49](https://news.ycombinator.com/item?id=44686682) - [Now I Lay Me (1927)](https://storyoftheweek.loa.org/2025/07/now-i-lay-me.html)
-* [2025-07-25, 18:35:22](https://news.ycombinator.com/item?id=44686624) - [Rotring 600 Ballpoint Pen](https://www.shellshore.com/review-rotring-600-ballpoint-pen/)
 * [2025-07-25, 12:38:30](https://news.ycombinator.com/item?id=44682450) - [Exploiting zero days in abandoned hardware](https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/)
 
 ## [Archives](archives/index.md)
