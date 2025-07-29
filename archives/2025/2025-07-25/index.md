@@ -18,6 +18,7 @@
 * [2025-07-25, 19:13:22](https://news.ycombinator.com/item?id=44687132) - [Building Brain Box, a meta text adventure film adaptation](https://kubicki.org/workbench/brain-box/)
 * [2025-07-25, 18:43:24](https://news.ycombinator.com/item?id=44686726) - [Claude Code Introduces Specialized Sub-Agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 * [2025-07-25, 18:41:15](https://news.ycombinator.com/item?id=44686702) - [Dwm Commented](https://github.com/bakkeby/dwm-commented)
+* [2025-07-25, 18:39:49](https://news.ycombinator.com/item?id=44686682) - [Now I Lay Me (1927)](https://storyoftheweek.loa.org/2025/07/now-i-lay-me.html)
 * [2025-07-25, 18:37:47](https://news.ycombinator.com/item?id=44686662) - [The \"computer janitor\" of the Manhattan project](https://www.allaboutcircuits.com/news/richard-hamming-the-computer-janitor-of-the-manhattan-project/)
 * [2025-07-25, 18:35:22](https://news.ycombinator.com/item?id=44686624) - [Rotring 600 Ballpoint Pen](https://www.shellshore.com/review-rotring-600-ballpoint-pen/)
 * [2025-07-25, 18:11:21](https://news.ycombinator.com/item?id=44686317) - [Vanilla JavaScript Support for Tailwind Plus – Tailwind CSS](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)

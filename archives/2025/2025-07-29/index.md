@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 16:33:28](https://news.ycombinator.com/item?id=44725437) - [UK to recognise Palestinian state in September unless Israel accepts ceasefire](https://www.theguardian.com/politics/2025/jul/29/uk-to-recognise-state-of-palestine-in-september-unless-israel-holds-to-a-ceasefire)
+* [2025-07-29, 16:24:08](https://news.ycombinator.com/item?id=44725306) - [Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
+* [2025-07-29, 16:17:14](https://news.ycombinator.com/item?id=44725202) - [Show HN: I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/)
+* [2025-07-29, 16:07:12](https://news.ycombinator.com/item?id=44725087) - [Microsoft Introduces 'Copilot Mode' in Edge](https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/)
 * [2025-07-29, 15:53:45](https://news.ycombinator.com/item?id=44724898) - [The hit film about overworked nurses that's causing alarm across Europe](https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare)
 * [2025-07-29, 15:15:24](https://news.ycombinator.com/item?id=44724425) - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
 * [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
