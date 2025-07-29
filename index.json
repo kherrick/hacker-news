@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-29, 12:38:46",
+      "https://news.ycombinator.com/item?id=44722584"
+    ],
+    [
+      "Wish you could escape the planet? Too bad life in space would suck",
+      "https://www.salon.com/2024/11/22/wish-you-could-escape-the-planet-too-life-in-space-would-suck/"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 12:36:51",
+      "https://news.ycombinator.com/item?id=44722556"
+    ],
+    [
+      "Union Pacific to buy Norfolk in $85B mega U.S. railroad deal",
+      "https://www.cnbc.com/2025/07/29/union-pacific-to-buy-norfolk.html"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 12:01:11",
       "https://news.ycombinator.com/item?id=44722217"
     ],
@@ -11,11 +31,21 @@
   ],
   [
     [
+      "2025-07-29, 11:41:26",
+      "https://news.ycombinator.com/item?id=44722048"
+    ],
+    [
+      "Anthropic Faces Potentially \"Business-Ending\" Copyright Lawsuit",
+      "https://www.obsolete.pub/p/anthropic-faces-potentially-business"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 11:12:03",
       "https://news.ycombinator.com/item?id=44721791"
     ],
     [
-      "Built RL for long-horizon agents – tested on 32x H100s but too poor to train",
+      "Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL",
       "https://github.com/Danau5tin/terminal-bench-rl"
     ]
   ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-07-28, 14:15:52",
-      "https://news.ycombinator.com/item?id=44711106"
-    ],
-    [
-      "GLM-4.5: Reasoning, Coding, and Agentic Abililties",
-      "https://z.ai/blog/glm-4.5"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 22:51:28",
       "https://news.ycombinator.com/item?id=44705445"
     ],
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2025-07-26, 00:19:26",
+      "https://news.ycombinator.com/item?id=44690095"
+    ],
+    [
+      "Anker is no longer selling 3D Printers",
+      "https://www.theverge.com/report/714006/anker-stop-selling-3d-printer-m5-m5c-parts-eufymake"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 22:53:50",
       "https://news.ycombinator.com/item?id=44689453"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-07-25, 13:26:05",
-      "https://news.ycombinator.com/item?id=44682885"
-    ],
-    [
-      "Félix Nadar: the first celebrity photographer (2019)",
-      "https://www.bbc.com/culture/article/20190114-flix-nadar-the-worlds-first-celebrity-photographer"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 12:38:30",
       "https://news.ycombinator.com/item?id=44682450"
     ],
     [
       "Exploiting zero days in abandoned hardware",
       "https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 11:08:45",
-      "https://news.ycombinator.com/item?id=44681858"
-    ],
-    [
-      "Terminal app can now run full graphical Linux apps in the latest Android Canary",
-      "https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 09:24:41",
-      "https://news.ycombinator.com/item?id=44681254"
-    ],
-    [
-      "Built a rickroll machine that rickrolls you with microservices",
-      "https://github.com/nabbonoushad/Chaotic-Rickroll-Machine"
     ]
   ]
 ]
