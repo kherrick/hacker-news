@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
 * [2025-07-25, 23:35:25](https://news.ycombinator.com/item?id=44689778) - [Do variable names matter for AI code completion? (2025)](https://yakubov.org/blogs/2025-07-25-variable-naming-impact-on-ai-code-completion)
+* [2025-07-25, 23:06:18](https://news.ycombinator.com/item?id=44689565) - [BugBash Ep1 – FoundationDB: from idea to Apple acquisition [video]](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 * [2025-07-25, 22:53:50](https://news.ycombinator.com/item?id=44689453) - [Truchet Tiles](https://en.wikipedia.org/wiki/Truchet_tiles)
 * [2025-07-25, 22:47:52](https://news.ycombinator.com/item?id=44689402) - [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/)
 * [2025-07-25, 22:07:09](https://news.ycombinator.com/item?id=44689059) - [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
