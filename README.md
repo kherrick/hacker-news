@@ -2,7 +2,6 @@
 
 * [2025-07-29, 22:50:47](https://news.ycombinator.com/item?id=44729169) - [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
 * [2025-07-29, 22:09:48](https://news.ycombinator.com/item?id=44728833) - [Htmx and URL State Management](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
-* [2025-07-29, 21:38:58](https://news.ycombinator.com/item?id=44728554) - [Webflow Down for >31 Hours](https://status.webflow.com)
 * [2025-07-29, 21:34:28](https://news.ycombinator.com/item?id=44728513) - [CodeCrafters (YC S22) is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
 * [2025-07-29, 20:57:47](https://news.ycombinator.com/item?id=44728188) - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
 * [2025-07-29, 20:18:23](https://news.ycombinator.com/item?id=44727788) - [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856)
@@ -10,6 +9,7 @@
 * [2025-07-29, 19:24:40](https://news.ycombinator.com/item?id=44727298) - [Maru OS – Use your phone as your PC](https://maruos.com/)
 * [2025-07-29, 19:13:32](https://news.ycombinator.com/item?id=44727191) - [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 * [2025-07-29, 18:36:34](https://news.ycombinator.com/item?id=44726837) - [The Making of Dario Amodei](https://www.bigtechnology.com/p/the-making-of-dario-amodei)
+* [2025-07-29, 18:32:42](https://news.ycombinator.com/item?id=44726807) - [Show HN: Monchromate – Smart greyscale browser extension](https://monochromate.lirena.in)
 * [2025-07-29, 18:25:00](https://news.ycombinator.com/item?id=44726736) - [Stanford’s Department of Management Science and Engineering](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-29, 18:20:11](https://news.ycombinator.com/item?id=44726672) - [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
