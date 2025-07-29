@@ -4,12 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
+* [2025-07-29, 15:00:02](https://news.ycombinator.com/item?id=44724248) - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
 * [2025-07-29, 14:46:15](https://news.ycombinator.com/item?id=44724088) - [Claude Finds Contradictions in My Thinking](https://angadh.com/contradictions-1)
+* [2025-07-29, 14:44:00](https://news.ycombinator.com/item?id=44724068) - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
+* [2025-07-29, 14:30:23](https://news.ycombinator.com/item?id=44723876) - [2025 Stack Overflow Developer Survey Results](https://survey.stackoverflow.co/2025)
+* [2025-07-29, 14:26:47](https://news.ycombinator.com/item?id=44723818) - [Structuring large Clojure codebases with Biff](https://biffweb.com/p/structuring-large-codebases/)
 * [2025-07-29, 14:23:41](https://news.ycombinator.com/item?id=44723763) - [Learning Is Slower Than You Think](https://nisheethvishnoi.substack.com/p/learning-is-slower-than-you-think)
 * [2025-07-29, 13:45:07](https://news.ycombinator.com/item?id=44723316) - [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
 * [2025-07-29, 13:38:13](https://news.ycombinator.com/item?id=44723234) - [RP2350 A4, RP2354, and a New Hacking Challenge](https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/)
 * [2025-07-29, 13:33:05](https://news.ycombinator.com/item?id=44723162) - [Can a Country Be Too Rich? Norway Is Finding Out](https://www.bloomberg.com/news/articles/2025-07-25/can-a-country-be-too-rich-norway-is-finding-out-essay)
 * [2025-07-29, 13:30:47](https://news.ycombinator.com/item?id=44723131) - [Coverage.py Regex Pragmas](https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html)
+* [2025-07-29, 13:28:12](https://news.ycombinator.com/item?id=44723098) - [Cucumber lets you write automated tests in plain language](https://cucumber.io/)
 * [2025-07-29, 13:15:49](https://news.ycombinator.com/item?id=44722951) - [Linux Performance Analysis in 60 seconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 * [2025-07-29, 12:40:13](https://news.ycombinator.com/item?id=44722602) - [Ask HN: How will the OSA affect small Mastadon instances?](https://news.ycombinator.com/item?id=44722602)
 * [2025-07-29, 12:38:46](https://news.ycombinator.com/item?id=44722584) - [Wish you could escape the planet? Too bad life in space would suck](https://www.salon.com/2024/11/22/wish-you-could-escape-the-planet-too-life-in-space-would-suck/)
