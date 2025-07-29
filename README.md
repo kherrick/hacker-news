@@ -20,7 +20,6 @@
 * [2025-07-28, 14:15:52](https://news.ycombinator.com/item?id=44711106) - [GLM-4.5: Reasoning, Coding, and Agentic Abililties](https://z.ai/blog/glm-4.5)
 * [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to make websites that will require lots of your time and energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-27, 22:51:28](https://news.ycombinator.com/item?id=44705445) - [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
-* [2025-07-26, 09:22:36](https://news.ycombinator.com/item?id=44692665) - [Show HN: Color Me Same – A new kind of logic game](https://color-me-same.franzai.com/)
 * [2025-07-26, 02:54:46](https://news.ycombinator.com/item?id=44690914) - [SQLx – Rust SQL Toolkit](https://github.com/launchbadge/sqlx)
 * [2025-07-26, 00:27:54](https://news.ycombinator.com/item?id=44690158) - [50x rendering speed improvements in Hologram (Elixir web framework)](https://hologram.page/blog/hologram-v0-5-0-released)
 * [2025-07-25, 22:53:50](https://news.ycombinator.com/item?id=44689453) - [Truchet Tiles](https://en.wikipedia.org/wiki/Truchet_tiles)
@@ -28,6 +27,7 @@
 * [2025-07-25, 21:32:22](https://news.ycombinator.com/item?id=44688738) - [Tour de France confronts a new threat: Are cyclists using tiny motors?](https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/)
 * [2025-07-25, 18:35:22](https://news.ycombinator.com/item?id=44686624) - [Rotring 600 Ballpoint Pen](https://www.shellshore.com/review-rotring-600-ballpoint-pen/)
 * [2025-07-25, 12:38:31](https://news.ycombinator.com/item?id=44682451) - [Cells that breathe oxygen and sulfur at the same time](https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/)
+* [2025-07-25, 12:38:30](https://news.ycombinator.com/item?id=44682450) - [Exploiting zero days in abandoned hardware](https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/)
 * [2025-07-25, 11:08:45](https://news.ycombinator.com/item?id=44681858) - [Terminal app can now run full graphical Linux apps in the latest Android Canary](https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/)
 * [2025-07-25, 09:24:41](https://news.ycombinator.com/item?id=44681254) - [Built a rickroll machine that rickrolls you with microservices](https://github.com/nabbonoushad/Chaotic-Rickroll-Machine)
 

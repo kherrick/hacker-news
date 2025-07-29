@@ -56,6 +56,7 @@
 * [2025-07-25, 12:57:31](https://news.ycombinator.com/item?id=44682626) - [How to draw lambda diagrams (2020)](https://risingentropy.com/how-to-draw-lambda-diagrams/)
 * [2025-07-25, 12:39:41](https://news.ycombinator.com/item?id=44682465) - [Up to date prices for LLM APIs all in one place](https://pricepertoken.com/)
 * [2025-07-25, 12:38:31](https://news.ycombinator.com/item?id=44682451) - [The Cells That Breathe Two Ways](https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/)
+* [2025-07-25, 12:38:30](https://news.ycombinator.com/item?id=44682450) - [Exploiting zero days in abandoned hardware](https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/)
 * [2025-07-25, 12:00:05](https://news.ycombinator.com/item?id=44682175) - [The future is not self-hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-07-25, 11:38:19](https://news.ycombinator.com/item?id=44682033) - [Show HN: I built a biological network visualization tool](https://nodes.bio)
 * [2025-07-25, 11:23:51](https://news.ycombinator.com/item?id=44681950) - [Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/index.html)
