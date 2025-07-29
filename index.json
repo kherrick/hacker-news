@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-29, 11:12:03",
+      "https://news.ycombinator.com/item?id=44721791"
+    ],
+    [
+      "Built RL for long-horizon agents – tested on 32x H100s but too poor to train",
+      "https://github.com/Danau5tin/terminal-bench-rl"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 10:42:40",
+      "https://news.ycombinator.com/item?id=44721604"
+    ],
+    [
+      "Palestinian who helped make Oscar-winning No Other Land killed in West Bank",
+      "https://www.theguardian.com/world/2025/jul/29/palestinian-awdah-hathaleen-oscar-winning-no-other-land-killed-in-west-bank"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 10:12:29",
       "https://news.ycombinator.com/item?id=44721403"
     ],
@@ -17,6 +37,16 @@
     [
       "Nothing to watch – Experimental gallery visualizing 50k film posters",
       "https://nothing-to-watch.port80.ch"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 09:15:19",
+      "https://news.ycombinator.com/item?id=44721003"
+    ],
+    [
+      "Stop promising \"unlimited\", when you mean \"until we change our minds\"",
+      "https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "The Vatican observatory looks to the heavens",
       "https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 20:44:26",
-      "https://news.ycombinator.com/item?id=44715391"
-    ],
-    [
-      "The Useless UseCallback",
-      "https://tkdodo.eu/blog/the-useless-use-callback"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-07-28, 07:41:41",
-      "https://news.ycombinator.com/item?id=44708270"
-    ],
-    [
-      "How to make websites that will require lots of your time and energy",
-      "https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 22:51:28",
       "https://news.ycombinator.com/item?id=44705445"
     ],
@@ -211,22 +221,22 @@
   ],
   [
     [
+      "2025-07-26, 00:22:07",
+      "https://news.ycombinator.com/item?id=44690117"
+    ],
+    [
+      "Show HN: CUDA Fractal Renderer",
+      "https://github.com/tripplyons/cuda-fractal-renderer"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 22:53:50",
       "https://news.ycombinator.com/item?id=44689453"
     ],
     [
       "Truchet Tiles",
       "https://en.wikipedia.org/wiki/Truchet_tiles"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 22:47:52",
-      "https://news.ycombinator.com/item?id=44689402"
-    ],
-    [
-      "SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets",
-      "https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/"
     ]
   ],
   [
@@ -255,18 +265,8 @@
       "https://news.ycombinator.com/item?id=44682885"
     ],
     [
-      "Félix Nadar: the first celebrity photographer",
+      "Félix Nadar: the first celebrity photographer (2019)",
       "https://www.bbc.com/culture/article/20190114-flix-nadar-the-worlds-first-celebrity-photographer"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 12:38:31",
-      "https://news.ycombinator.com/item?id=44682451"
-    ],
-    [
-      "Cells that breathe oxygen and sulfur at the same time",
-      "https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/"
     ]
   ],
   [
