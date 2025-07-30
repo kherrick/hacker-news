@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 17:21:17](https://news.ycombinator.com/item?id=44736967) - [Fast](https://www.catherinejue.com/fast)
 * [2025-07-30, 17:01:10](https://news.ycombinator.com/item?id=44736673) - [Artie (YC S23) Is Hiring Founding AEs](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae)
 * [2025-07-30, 17:00:42](https://news.ycombinator.com/item?id=44736668) - [What's Not to Like?](https://theamericanscholar.org/whats-not-to-like/)
+* [2025-07-30, 16:59:09](https://news.ycombinator.com/item?id=44736646) - [Australia widens teen social media ban to YouTube, scraps exemption](https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/)
 * [2025-07-30, 16:47:12](https://news.ycombinator.com/item?id=44736501) - ['70 MPH e-bikes' prompt one US state to change its laws](https://electrek.co/2025/07/29/70-mph-e-bikes-prompt-one-us-state-to-change-its-laws/)
 * [2025-07-30, 16:18:14](https://news.ycombinator.com/item?id=44736176) - [Crush: The glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
 * [2025-07-30, 16:12:32](https://news.ycombinator.com/item?id=44736101) - [Critical Vulnerability Discovered 11 Days After Wix Buys Base44](https://www.wiz.io/blog/critical-vulnerability-base44)

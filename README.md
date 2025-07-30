@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-30, 17:21:17](https://news.ycombinator.com/item?id=44736967) - [Fast](https://www.catherinejue.com/fast)
 * [2025-07-30, 17:01:10](https://news.ycombinator.com/item?id=44736673) - [Artie (YC S23) Is Hiring Founding AEs](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae)
 * [2025-07-30, 17:00:42](https://news.ycombinator.com/item?id=44736668) - [What's Not to Like?](https://theamericanscholar.org/whats-not-to-like/)
-* [2025-07-30, 16:47:12](https://news.ycombinator.com/item?id=44736501) - ['70 MPH e-bikes' prompt one US state to change its laws](https://electrek.co/2025/07/29/70-mph-e-bikes-prompt-one-us-state-to-change-its-laws/)
+* [2025-07-30, 16:59:09](https://news.ycombinator.com/item?id=44736646) - [Australia widens teen social media ban to YouTube, scraps exemption](https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/)
 * [2025-07-30, 16:18:14](https://news.ycombinator.com/item?id=44736176) - [Crush: Glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
 * [2025-07-30, 16:12:32](https://news.ycombinator.com/item?id=44736101) - [Critical Vulnerability Discovered 11 Days After Wix Buys Base44](https://www.wiz.io/blog/critical-vulnerability-base44)
 * [2025-07-30, 16:11:58](https://news.ycombinator.com/item?id=44736090) - [Optician Sans – A free font based on historical eye charts and optotypes](https://optician-sans.com/)
@@ -23,7 +24,6 @@
 * [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
 * [2025-07-30, 08:19:46](https://news.ycombinator.com/item?id=44731958) - [‘No Other Land’ consultant Awdah Hathaleen killed by Israeli settler](https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler)
 * [2025-07-30, 00:38:25](https://news.ycombinator.com/item?id=44729865) - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
-* [2025-07-29, 16:24:08](https://news.ycombinator.com/item?id=44725306) - [Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
 * [2025-07-27, 18:02:13](https://news.ycombinator.com/item?id=44703210) - [Show HN: Dlg – Zero-cost printf-style debugging for Go](https://github.com/vvvvv/dlg)
 * [2025-07-27, 12:56:32](https://news.ycombinator.com/item?id=44701001) - [Hexatetrahedral Rails](https://blog.julik.nl/2025/07/hexatetrahedral-rails)
 * [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
