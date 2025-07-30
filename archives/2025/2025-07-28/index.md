@@ -7,6 +7,7 @@
 * [2025-07-28, 23:47:07](https://news.ycombinator.com/item?id=44717226) - [Danish Study: No link between vaccines and autism or 49 other health conditions](https://en.ssi.dk/news/news/2025/large-danish-study-no-link-between-vaccines-and-autism-or-49-other-health-conditions)
 * [2025-07-28, 22:31:45](https://news.ycombinator.com/item?id=44716529) - [Tea app leak worsens with second database exposing user chats](https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/)
 * [2025-07-28, 22:17:14](https://news.ycombinator.com/item?id=44716414) - [Show HN: Companies use AI to take your calls. I built AI to make them for you](https://www.pipervoice.com/)
+* [2025-07-28, 22:11:44](https://news.ycombinator.com/item?id=44716356) - [ReproZip – reproducible experiments from command-line executions](https://github.com/VIDA-NYU/reprozip)
 * [2025-07-28, 22:04:58](https://news.ycombinator.com/item?id=44716280) - [Playing with more user-friendly methods for multi-factor authentication](https://tesseral.com/blog/i-designed-some-more-user-friendly-methods-for-multi-factor-authentication)
 * [2025-07-28, 22:04:03](https://news.ycombinator.com/item?id=44716270) - [Structural-Demographic Theory](https://peterturchin.com/structural-demographic-theory/)
 * [2025-07-28, 21:49:10](https://news.ycombinator.com/item?id=44716106) - [Show HN: Use Their ID – Use Your Local UK MP's ID for the Online Safety Act](https://use-their-id.com/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 21:19:03](https://news.ycombinator.com/item?id=44739632) - [Ollama has a native front end chatbot now](https://ollama.com/blog/new-app)
 * [2025-07-30, 21:18:21](https://news.ycombinator.com/item?id=44739618) - [Early universe's 'little red dots' may be black hole stars – Science – AAAS](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
 * [2025-07-30, 21:13:20](https://news.ycombinator.com/item?id=44739556) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
 * [2025-07-30, 20:46:49](https://news.ycombinator.com/item?id=44739315) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
