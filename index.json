@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-07-29, 23:34:11",
-      "https://news.ycombinator.com/item?id=44729461"
+      "2025-07-30, 00:38:25",
+      "https://news.ycombinator.com/item?id=44729865"
     ],
     [
-      "Someone made a 128000 line PR to opencut",
-      "https://github.com/OpenCut-app/OpenCut/pull/479"
+      "M8.7 earthquake in Western Pacific, tsunami warning issued",
+      "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive"
     ]
   ],
   [
     [
-      "2025-07-29, 22:50:47",
-      "https://news.ycombinator.com/item?id=44729169"
+      "2025-07-29, 23:09:04",
+      "https://news.ycombinator.com/item?id=44729302"
     ],
     [
-      "Phenome-wide analysis of diseases in relation to sleep traits",
-      "https://spj.science.org/doi/10.34133/hds.0161"
+      "Two Birds with One Tone: I/Q Signals and Fourier Transform",
+      "https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44728833"
     ],
     [
-      "Htmx and URL State Management",
+      "URL-Driven State in HTMX",
       "https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/"
     ]
   ],
@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-07-29, 20:03:29",
+      "https://news.ycombinator.com/item?id=44727653"
+    ],
+    [
+      "Dropbox Passwords discontinuation",
+      "https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 19:37:05",
       "https://news.ycombinator.com/item?id=44727420"
     ],
@@ -91,26 +101,6 @@
   ],
   [
     [
-      "2025-07-29, 18:36:34",
-      "https://news.ycombinator.com/item?id=44726837"
-    ],
-    [
-      "The Making of Dario Amodei",
-      "https://www.bigtechnology.com/p/the-making-of-dario-amodei"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 18:25:00",
-      "https://news.ycombinator.com/item?id=44726736"
-    ],
-    [
-      "Stanford’s Department of Management Science and Engineering",
-      "https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 18:24:23",
       "https://news.ycombinator.com/item?id=44726731"
     ],
@@ -137,16 +127,6 @@
     [
       "Elements of System Design",
       "https://github.com/jarulraj/periodic-table"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 17:17:58",
-      "https://news.ycombinator.com/item?id=44725966"
-    ],
-    [
-      "ACM Transitions to Full Open Access",
-      "https://www.acm.org/publications/openaccess"
     ]
   ],
   [
@@ -211,11 +191,21 @@
   ],
   [
     [
+      "2025-07-29, 14:26:47",
+      "https://news.ycombinator.com/item?id=44723818"
+    ],
+    [
+      "Structuring large Clojure codebases with Biff",
+      "https://biffweb.com/p/structuring-large-codebases/"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 13:58:06",
       "https://news.ycombinator.com/item?id=44723461"
     ],
     [
-      "iPhone cameras are good",
+      "iPhone 16 cameras vs. traditional digital cameras",
       "https://candid9.com/phone-camera/"
     ]
   ],
@@ -231,12 +221,22 @@
   ],
   [
     [
-      "2025-07-27, 22:36:24",
-      "https://news.ycombinator.com/item?id=44705358"
+      "2025-07-29, 11:12:03",
+      "https://news.ycombinator.com/item?id=44721791"
     ],
     [
-      "Placing Functions",
-      "https://blog.yoshuawuyts.com/placing-functions/"
+      "Show HN: Terminal-Bench-RL: Training long-horizon terminal agents with RL",
+      "https://github.com/Danau5tin/terminal-bench-rl"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 22:04:58",
+      "https://news.ycombinator.com/item?id=44716280"
+    ],
+    [
+      "Playing with more user-friendly methods for multi-factor authentication",
+      "https://tesseral.com/blog/i-designed-some-more-user-friendly-methods-for-multi-factor-authentication"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "Measuring Engineering",
       "https://fffej.substack.com/p/measuring-engineering"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 01:37:24",
+      "https://news.ycombinator.com/item?id=44698216"
+    ],
+    [
+      "The Day Wall Street Was Silent (1979)",
+      "https://time.com/archive/6850749/business-the-day-wall-street-was-silent/"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=44691986"
     ],
     [
-      "When JavaScript Decided My Day Starts at 9AM",
+      "JavaScript decided my day starts at 9am",
       "https://senhongo.com/blog/when-javaScript-decided-my-day-starts-at-9am"
-    ]
-  ],
-  [
-    [
-      "2025-07-26, 04:09:04",
-      "https://news.ycombinator.com/item?id=44691242"
-    ],
-    [
-      "A grand tour through the essays of Lewis H. Lapham",
-      "https://www.laphamsquarterly.org/roundtable/motet-record"
     ]
   ],
   [
