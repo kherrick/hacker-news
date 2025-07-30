@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 15:17:17](https://news.ycombinator.com/item?id=44735359) - [Startup failed. Relationship ended. 29 lessons from the wreckage](https://burnedchris.com/blog/29-lessons)
 * [2025-07-30, 15:15:30](https://news.ycombinator.com/item?id=44735334) - [Words about Arrays and Tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
 * [2025-07-30, 14:58:04](https://news.ycombinator.com/item?id=44735081) - [Big Tech Killed the Golden Age of Programming](https://www.taylor.gl/blog/29)
 * [2025-07-30, 14:12:09](https://news.ycombinator.com/item?id=44734475) - [Opsqueue: Lightweight batch processing queue for heavy loads – now open-source](https://www.channable.com/tech/introducing-opsqueue)

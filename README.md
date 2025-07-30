@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-30, 15:17:17](https://news.ycombinator.com/item?id=44735359) - [Startup failed. Relationship ended. 29 lessons from the wreckage](https://burnedchris.com/blog/29-lessons)
 * [2025-07-30, 15:15:30](https://news.ycombinator.com/item?id=44735334) - [Words about Arrays and Tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
 * [2025-07-30, 14:58:04](https://news.ycombinator.com/item?id=44735081) - [Big Tech Killed the Golden Age of Programming](https://www.taylor.gl/blog/29)
 * [2025-07-30, 14:12:09](https://news.ycombinator.com/item?id=44734475) - [Opsqueue: Lightweight batch processing queue for heavy loads – now open-source](https://www.channable.com/tech/introducing-opsqueue)
@@ -22,7 +23,6 @@
 * [2025-07-30, 00:38:25](https://news.ycombinator.com/item?id=44729865) - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
 * [2025-07-29, 22:09:48](https://news.ycombinator.com/item?id=44728833) - [URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
 * [2025-07-29, 20:57:47](https://news.ycombinator.com/item?id=44728188) - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
-* [2025-07-29, 17:17:58](https://news.ycombinator.com/item?id=44725966) - [ACM Transitions to Full Open Access](https://www.acm.org/publications/openaccess)
 * [2025-07-29, 17:01:14](https://news.ycombinator.com/item?id=44725764) - [Study mode](https://openai.com/index/chatgpt-study-mode/)
 * [2025-07-29, 16:24:08](https://news.ycombinator.com/item?id=44725306) - [Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
 * [2025-07-29, 13:58:06](https://news.ycombinator.com/item?id=44723461) - [iPhone 16 cameras vs. traditional digital cameras](https://candid9.com/phone-camera/)
