@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-30, 18:27:56",
+      "https://news.ycombinator.com/item?id=44737839"
+    ],
+    [
+      "Drawing for the New Yorker",
+      "https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 18:27:01",
       "https://news.ycombinator.com/item?id=44737823"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-07-30, 13:09:27",
-      "https://news.ycombinator.com/item?id=44733734"
-    ],
-    [
-      "Making Libcurl Work in WebAssembly",
-      "https://jeroen.github.io/notes/webassembly-curl/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 12:29:52",
       "https://news.ycombinator.com/item?id=44733341"
     ],
@@ -227,16 +227,6 @@
     [
       "The HTML Hobbyist",
       "https://www.htmlhobbyist.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 12:01:10",
-      "https://news.ycombinator.com/item?id=44733094"
-    ],
-    [
-      "Blog series on creating an OS in Rust",
-      "https://os.phil-opp.com/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       ".NET 10 Preview 6 brings JIT improvements, one-shot tool execution",
       "https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 02:22:51",
+      "https://news.ycombinator.com/item?id=44698413"
+    ],
+    [
+      "A Python dict that can report which keys you did not use",
+      "https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use"
     ]
   ],
   [
