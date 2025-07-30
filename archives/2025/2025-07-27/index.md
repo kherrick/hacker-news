@@ -62,6 +62,7 @@
 * [2025-07-27, 03:37:42](https://news.ycombinator.com/item?id=44698750) - [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)
 * [2025-07-27, 03:34:47](https://news.ycombinator.com/item?id=44698733) - [Smallest particulate matter sensor revolutionizes air quality measurement](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
 * [2025-07-27, 02:43:33](https://news.ycombinator.com/item?id=44698513) - [Show HN: The Aria Programming Language](https://github.com/egranata/aria)
+* [2025-07-27, 02:22:51](https://news.ycombinator.com/item?id=44698413) - [A Python dict that can report which keys you did not use](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)
 * [2025-07-27, 01:37:24](https://news.ycombinator.com/item?id=44698216) - [The Day Wall Street Was Silent (1979)](https://time.com/archive/6850749/business-the-day-wall-street-was-silent/)
 * [2025-07-27, 01:28:36](https://news.ycombinator.com/item?id=44698185) - [Janet: Lightweight, Expressive, Modern Lisp](https://janet-lang.org)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)

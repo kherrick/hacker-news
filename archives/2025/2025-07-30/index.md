@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 13:30:07](https://news.ycombinator.com/item?id=44733944) - [The fringe movement punishing officials with fake debt claims](https://www.latimes.com/california/story/2025-07-30/fake-filings-real-consequences-how-paper-terrorism-is-burying-a-state-system-with-bogus-claims)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
+* [2025-07-30, 13:15:35](https://news.ycombinator.com/item?id=44733800) - [I launched 17 side projects. Result? I'm rich in expired domains](https://news.ycombinator.com/item?id=44733800)
 * [2025-07-30, 13:11:06](https://news.ycombinator.com/item?id=44733742) - [Show HN: MoebiusXBIN – ASCII and text-mode art editor with custom font support](https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/)
+* [2025-07-30, 13:09:27](https://news.ycombinator.com/item?id=44733734) - [Making Libcurl Work in WebAssembly](https://jeroen.github.io/notes/webassembly-curl/)
+* [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem Solving Is Often a Matter of Cooking Up an Appropriate Markov Chain](https://www.jstor.org/stable/41548580)
+* [2025-07-30, 12:03:54](https://news.ycombinator.com/item?id=44733119) - [The HTML Hobbyist](https://www.htmlhobbyist.com/)
 * [2025-07-30, 12:00:30](https://news.ycombinator.com/item?id=44733086) - [Cedana (YC S23) Is Hiring a Systems Engineer](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration)
+* [2025-07-30, 11:57:15](https://news.ycombinator.com/item?id=44733061) - [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs)
 * [2025-07-30, 11:38:35](https://news.ycombinator.com/item?id=44732939) - [Track how much money AIPAC spent to buy Congress](https://www.trackaipac.com)
 * [2025-07-30, 11:38:10](https://news.ycombinator.com/item?id=44732937) - [Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger](https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security)
 * [2025-07-30, 11:30:34](https://news.ycombinator.com/item?id=44732893) - [New York Times rolls back claims about viral photo of starving Gaza boy](https://nypost.com/2025/07/29/media/new-york-times-stunningly-rolls-back-claims-about-viral-photo-of-starving-gaza-boy/)
