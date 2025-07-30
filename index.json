@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-30, 21:19:03",
+      "https://news.ycombinator.com/item?id=44739632"
+    ],
+    [
+      "Ollama has a native front end chatbot now",
+      "https://ollama.com/blog/new-app"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 21:18:21",
       "https://news.ycombinator.com/item?id=44739618"
     ],
@@ -37,16 +47,6 @@
     [
       "The Preserving Machine by Philip K. Dick (1953)",
       "https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 18:27:01",
-      "https://news.ycombinator.com/item?id=44737823"
-    ],
-    [
-      "Polarizing Parsers",
-      "https://flak.tedunangst.com/post/polarizing-parsers"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-07-30, 15:15:30",
-      "https://news.ycombinator.com/item?id=44735334"
-    ],
-    [
-      "Words about Arrays and Tables",
-      "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 14:15:07",
       "https://news.ycombinator.com/item?id=44734522"
     ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=44734471"
     ],
     [
-      "Show HN: State of the Art Open-source alternative to ChatGPT Agents for browsing",
+      "Show HN: Open-source alternative to ChatGPT Agents for browsing",
       "https://github.com/trymeka/agent"
     ]
   ],
@@ -177,6 +167,16 @@
     [
       "Writing memory efficient C structs",
       "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 13:24:50",
+      "https://news.ycombinator.com/item?id=44733892"
+    ],
+    [
+      "Show HN: An AI agent that learns your product and guides your users",
+      "https://news.ycombinator.com/item?id=44733892"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-07-28, 22:11:44",
+      "https://news.ycombinator.com/item?id=44716356"
+    ],
+    [
+      "ReproZip – reproducible experiments from command-line executions",
+      "https://github.com/VIDA-NYU/reprozip"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 10:26:20",
       "https://news.ycombinator.com/item?id=44709303"
     ],
@@ -287,16 +297,6 @@
     [
       ".NET 10 Preview 6 brings JIT improvements, one-shot tool execution",
       "https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 02:22:51",
-      "https://news.ycombinator.com/item?id=44698413"
-    ],
-    [
-      "A Python dict that can report which keys you did not use",
-      "https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use"
     ]
   ]
 ]
