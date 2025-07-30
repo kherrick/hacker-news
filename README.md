@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-30, 21:18:21](https://news.ycombinator.com/item?id=44739618) - [Early universe's 'little red dots' may be black hole stars – Science – AAAS](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
+* [2025-07-30, 21:18:21](https://news.ycombinator.com/item?id=44739618) - [Early universe's 'little red dots' may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
+* [2025-07-30, 21:13:20](https://news.ycombinator.com/item?id=44739556) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
 * [2025-07-30, 20:46:49](https://news.ycombinator.com/item?id=44739315) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
 * [2025-07-30, 18:55:43](https://news.ycombinator.com/item?id=44738161) - [The Preserving Machine by Philip K. Dick (1953)](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
 * [2025-07-30, 18:27:01](https://news.ycombinator.com/item?id=44737823) - [Polarizing Parsers](https://flak.tedunangst.com/post/polarizing-parsers)
@@ -14,7 +15,6 @@
 * [2025-07-30, 16:11:58](https://news.ycombinator.com/item?id=44736090) - [Optician Sans – A free font based on historical eye charts and optotypes](https://optician-sans.com/)
 * [2025-07-30, 15:54:02](https://news.ycombinator.com/item?id=44735843) - [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](https://news.ycombinator.com/item?id=44735843)
 * [2025-07-30, 15:15:30](https://news.ycombinator.com/item?id=44735334) - [Words about Arrays and Tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
-* [2025-07-30, 14:51:10](https://news.ycombinator.com/item?id=44734983) - [Show HN: A high-altitude low-power flight computer for high-altitude balloons](https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK)
 * [2025-07-30, 14:15:07](https://news.ycombinator.com/item?id=44734522) - [A short post on short trains](https://shakeddown.substack.com/p/a-short-post-on-short-trains)
 * [2025-07-30, 14:11:36](https://news.ycombinator.com/item?id=44734471) - [Show HN: State of the Art Open-source alternative to ChatGPT Agents for browsing](https://github.com/trymeka/agent)
 * [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
