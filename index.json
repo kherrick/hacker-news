@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-30, 12:00:30",
+      "https://news.ycombinator.com/item?id=44733086"
+    ],
+    [
+      "Cedana (YC S23) Is Hiring a Systems Engineer",
+      "https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 11:38:10",
       "https://news.ycombinator.com/item?id=44732937"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
-      "2025-07-30, 11:30:34",
-      "https://news.ycombinator.com/item?id=44732893"
+      "2025-07-30, 10:50:39",
+      "https://news.ycombinator.com/item?id=44732700"
     ],
     [
-      "New York Times rolls back claims about viral photo of starving Gaza boy",
-      "https://nypost.com/2025/07/29/media/new-york-times-stunningly-rolls-back-claims-about-viral-photo-of-starving-gaza-boy/"
+      "Moneybadger and Peach Payments partner to enable Bitcoin payments",
+      "https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 10:42:11",
+      "https://news.ycombinator.com/item?id=44732659"
+    ],
+    [
+      "Qwen3 30B-A3B",
+      "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 10:31:12",
+      "https://news.ycombinator.com/item?id=44732593"
+    ],
+    [
+      "From XML to JSON to CBOR",
+      "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html"
     ]
   ],
   [
@@ -41,11 +71,21 @@
   ],
   [
     [
+      "2025-07-30, 08:19:46",
+      "https://news.ycombinator.com/item?id=44731958"
+    ],
+    [
+      "Oscar-Winning 'No Other Land' Awdah Hathaleen Killed by Israeli Settler",
+      "https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 06:37:39",
       "https://news.ycombinator.com/item?id=44731424"
     ],
     [
-      "State Capacity and Eight Parking Spaces",
+      "State capacity and eight parking spaces",
       "https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/"
     ]
   ],
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2025-07-29, 21:34:28",
-      "https://news.ycombinator.com/item?id=44728513"
-    ],
-    [
-      "CodeCrafters (YC S22) is hiring first Marketing Person",
-      "https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 20:57:47",
       "https://news.ycombinator.com/item?id=44728188"
     ],
@@ -117,16 +147,6 @@
     [
       "A month using XMPP (using Snikket) for every call and chat (2023)",
       "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 17:44:58",
-      "https://news.ycombinator.com/item?id=44726280"
-    ],
-    [
-      "Elements of System Design",
-      "https://github.com/jarulraj/periodic-table"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-07-29, 14:26:47",
-      "https://news.ycombinator.com/item?id=44723818"
-    ],
-    [
-      "Structuring large Clojure codebases with Biff",
-      "https://biffweb.com/p/structuring-large-codebases/"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 13:58:06",
       "https://news.ycombinator.com/item?id=44723461"
     ],
     [
       "iPhone 16 cameras vs. traditional digital cameras",
       "https://candid9.com/phone-camera/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 13:45:07",
-      "https://news.ycombinator.com/item?id=44723316"
-    ],
-    [
-      "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
-      "https://simonwillison.net/2025/Jul/29/space-invaders/"
     ]
   ],
   [
@@ -231,12 +231,32 @@
   ],
   [
     [
+      "2025-07-27, 18:02:13",
+      "https://news.ycombinator.com/item?id=44703210"
+    ],
+    [
+      "Show HN: Dlg – Zero-cost printf-style debugging for Go",
+      "https://github.com/vvvvv/dlg"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 10:13:58",
       "https://news.ycombinator.com/item?id=44700199"
     ],
     [
       "Analoguediehard",
       "http://www.analoguediehard.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 06:03:05",
+      "https://news.ycombinator.com/item?id=44699199"
+    ],
+    [
+      "Show HN: Online Ruler – Measuring in inches/centimeters",
+      "https://anruler.com/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "USB-C for Lightning iPhones",
       "https://obsoless.com/products/iph0n3-usb-c-protection-case"
-    ]
-  ],
-  [
-    [
-      "2025-07-26, 19:59:00",
-      "https://news.ycombinator.com/item?id=44696543"
-    ],
-    [
-      "The Sail instruction-set semantics specification language",
-      "https://alasdair.github.io/manual.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-26, 16:44:17",
-      "https://news.ycombinator.com/item?id=44695364"
-    ],
-    [
-      "Microsoft Flight Simulator 2024: WebAssembly SDK",
-      "https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm"
     ]
   ],
   [
