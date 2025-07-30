@@ -38,6 +38,7 @@
 * [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
 * [2025-07-27, 14:16:02](https://news.ycombinator.com/item?id=44701477) - [US Government takes $1B from nuclear modernization for gold-plated jet](https://www.nytimes.com/2025/07/27/us/politics/air-force-one-trump-cost.html)
 * [2025-07-27, 13:29:16](https://news.ycombinator.com/item?id=44701191) - [The Saltgator: A Desktop SoftGel Injection Molding Machine](https://www.core77.com/posts/137875/The-Saltgator-A-Desktop-SoftGel-Injection-Molding-Machine)
+* [2025-07-27, 12:56:32](https://news.ycombinator.com/item?id=44701001) - [Hexatetrahedral Rails](https://blog.julik.nl/2025/07/hexatetrahedral-rails)
 * [2025-07-27, 12:44:31](https://news.ycombinator.com/item?id=44700923) - [Beetroot juice lowers blood pressure in older people by changing oral microbiome](https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/)
 * [2025-07-27, 12:23:31](https://news.ycombinator.com/item?id=44700815) - [The JJ VCS workshop: A zero-to-hero speedrun](https://github.com/jkoppel/jj-workshop)
 * [2025-07-27, 12:23:09](https://news.ycombinator.com/item?id=44700812) - [AV-Racer Devlog (1): Getting a functional car model](https://wassimulator.com/blog/programming/av-racer/devlog_1.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 16:47:12](https://news.ycombinator.com/item?id=44736501) - ['70 MPH e-bikes' prompt one US state to change its laws](https://electrek.co/2025/07/29/70-mph-e-bikes-prompt-one-us-state-to-change-its-laws/)
 * [2025-07-30, 16:18:14](https://news.ycombinator.com/item?id=44736176) - [Crush: The glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
 * [2025-07-30, 16:12:32](https://news.ycombinator.com/item?id=44736101) - [Critical Vulnerability Discovered 11 Days After Wix Buys Base44](https://www.wiz.io/blog/critical-vulnerability-base44)
 * [2025-07-30, 16:11:58](https://news.ycombinator.com/item?id=44736090) - [Optician Sans – A free font based on historical eye charts and optotypes](https://optician-sans.com/)
