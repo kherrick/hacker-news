@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-30, 08:37:09](https://news.ycombinator.com/item?id=44732031) - [Seriously, Why Do Some AI Chatbot Subscriptions Cost More Than $200?](https://www.wired.com/story/seriously-why-do-some-ai-chatbot-subscriptions-cost-more-than-200/)
 * [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
 * [2025-07-30, 01:05:46](https://news.ycombinator.com/item?id=44730021) - [Pkgbase Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
 * [2025-07-30, 00:38:25](https://news.ycombinator.com/item?id=44729865) - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
@@ -26,6 +25,7 @@
 * [2025-07-28, 22:04:58](https://news.ycombinator.com/item?id=44716280) - [Playing with more user-friendly methods for multi-factor authentication](https://tesseral.com/blog/i-designed-some-more-user-friendly-methods-for-multi-factor-authentication)
 * [2025-07-27, 10:13:58](https://news.ycombinator.com/item?id=44700199) - [Analoguediehard](http://www.analoguediehard.com/)
 * [2025-07-27, 04:42:24](https://news.ycombinator.com/item?id=44698946) - [Show HN: Cant, rust nn lib for learning](https://github.com/TuckerBMorgan/can-t)
+* [2025-07-27, 02:43:33](https://news.ycombinator.com/item?id=44698513) - [Show HN: The Aria Programming Language](https://github.com/egranata/aria)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
 * [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
