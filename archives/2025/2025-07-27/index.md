@@ -42,6 +42,7 @@
 * [2025-07-27, 12:10:29](https://news.ycombinator.com/item?id=44700744) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
 * [2025-07-27, 11:21:42](https://news.ycombinator.com/item?id=44700471) - [No AI Content](https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/)
 * [2025-07-27, 10:44:22](https://news.ycombinator.com/item?id=44700335) - [Jeff Bezos doesn't believe in PowerPoint, and his employees agree](https://texttoslides.ai/blog/amazon-not-using-powerpoint)
+* [2025-07-27, 10:13:58](https://news.ycombinator.com/item?id=44700199) - [Analoguediehard](http://www.analoguediehard.com/)
 * [2025-07-27, 09:41:31](https://news.ycombinator.com/item?id=44700064) - [US drops sanctions on Myanmar junta's allies after military chief praises man](https://www.abc.net.au/news/2025-07-26/us-drops-sanctions-on-myanmar-junta-allies-after-trump-praise/105576812)
 * [2025-07-27, 09:21:13](https://news.ycombinator.com/item?id=44699980) - [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
 * [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Sapients paper on the concept of Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
