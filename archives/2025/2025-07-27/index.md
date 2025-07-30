@@ -32,6 +32,7 @@
 * [2025-07-27, 17:19:19](https://news.ycombinator.com/item?id=44702833) - [Ask HN: What Are You Working On? (July 2025)](https://news.ycombinator.com/item?id=44702833)
 * [2025-07-27, 17:13:25](https://news.ycombinator.com/item?id=44702782) - [Tom Lehrer, Musical Satirist with a Dark Streak, Dies at 97](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
 * [2025-07-27, 16:53:00](https://news.ycombinator.com/item?id=44702627) - [Instrumenting Next.js with runtime secret injection](https://phase.dev/blog/instrumenting-nextjs-with-runtime-secret-injection/)
+* [2025-07-27, 16:32:46](https://news.ycombinator.com/item?id=44702478) - [Ultra-Rapid Vision in Birds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099)
 * [2025-07-27, 15:30:59](https://news.ycombinator.com/item?id=44702046) - [Claude Code Is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/)
 * [2025-07-27, 14:29:14](https://news.ycombinator.com/item?id=44701579) - [No](https://olu.online/no/)
 * [2025-07-27, 14:28:49](https://news.ycombinator.com/item?id=44701574) - [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)

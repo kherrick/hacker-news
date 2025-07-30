@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 17:51:21](https://news.ycombinator.com/item?id=44737353) - [Most Illinois farmland is not owned by farmers](https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/)
 * [2025-07-30, 17:21:17](https://news.ycombinator.com/item?id=44736967) - [Fast](https://www.catherinejue.com/fast)
 * [2025-07-30, 17:01:10](https://news.ycombinator.com/item?id=44736673) - [Artie (YC S23) Is Hiring Founding AEs](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae)
 * [2025-07-30, 17:00:42](https://news.ycombinator.com/item?id=44736668) - [What's Not to Like?](https://theamericanscholar.org/whats-not-to-like/)
