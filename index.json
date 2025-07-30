@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-30, 15:17:17",
-      "https://news.ycombinator.com/item?id=44735359"
+      "2025-07-30, 15:54:02",
+      "https://news.ycombinator.com/item?id=44735843"
     ],
     [
-      "Startup failed. Relationship ended. 29 lessons from the wreckage",
-      "https://burnedchris.com/blog/29-lessons"
+      "Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production",
+      "https://news.ycombinator.com/item?id=44735843"
     ]
   ],
   [
@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2025-07-30, 14:12:09",
-      "https://news.ycombinator.com/item?id=44734475"
+      "2025-07-30, 14:51:10",
+      "https://news.ycombinator.com/item?id=44734983"
     ],
     [
-      "Opsqueue: Lightweight batch processing queue for heavy loads – now open-source",
-      "https://www.channable.com/tech/introducing-opsqueue"
+      "Show HN: A High-Altitude Low-Power Flight Computer for High-Altitude Balloons",
+      "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK"
     ]
   ],
   [
@@ -161,26 +161,6 @@
   ],
   [
     [
-      "2025-07-30, 10:31:12",
-      "https://news.ycombinator.com/item?id=44732593"
-    ],
-    [
-      "From XML to JSON to CBOR",
-      "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 09:29:38",
-      "https://news.ycombinator.com/item?id=44732345"
-    ],
-    [
-      "PanamaPlaylists – Leaked Tech CEOs Spotify Profiles",
-      "https://panamaplaylists.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 08:34:10",
       "https://news.ycombinator.com/item?id=44732020"
     ],
@@ -227,6 +207,16 @@
     [
       "RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession",
       "https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 17:17:58",
+      "https://news.ycombinator.com/item?id=44725966"
+    ],
+    [
+      "ACM Transitions to Full Open Access",
+      "https://www.acm.org/publications/openaccess"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "A Python dict that can report which keys you did not use",
       "https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 00:35:46",
+      "https://news.ycombinator.com/item?id=44698007"
+    ],
+    [
+      "Show HN: Convert from MIDI file to ASCII tablature (and more)",
+      "https://github.com/scottvr/gtrsnipe/blob/main/README.md"
     ]
   ],
   [
