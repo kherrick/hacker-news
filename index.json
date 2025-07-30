@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-07-30, 11:47:36",
-      "https://news.ycombinator.com/item?id=44732998"
-    ],
-    [
-      "SensorLM: Learning the Language of Wearable Sensors",
-      "https://research.google/blog/sensorlm-learning-the-language-of-wearable-sensors/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 11:38:10",
       "https://news.ycombinator.com/item?id=44732937"
     ],
@@ -297,6 +287,16 @@
     [
       "A Python dict that can report which keys you did not use",
       "https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use"
+    ]
+  ],
+  [
+    [
+      "2025-07-26, 14:58:49",
+      "https://news.ycombinator.com/item?id=44694606"
+    ],
+    [
+      "Clj-coll: Clojure collections and sequences in Common Lisp",
+      "https://github.com/dtenny/clj-coll"
     ]
   ]
 ]
