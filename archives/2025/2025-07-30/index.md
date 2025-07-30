@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 11:38:35](https://news.ycombinator.com/item?id=44732939) - [Track how much money AIPAC spent to buy Congress](https://www.trackaipac.com)
+* [2025-07-30, 11:38:10](https://news.ycombinator.com/item?id=44732937) - [Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger](https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security)
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
 * [2025-07-30, 08:37:09](https://news.ycombinator.com/item?id=44732031) - [Seriously, Why Do Some AI Chatbot Subscriptions Cost More Than $200?](https://www.wired.com/story/seriously-why-do-some-ai-chatbot-subscriptions-cost-more-than-200/)
 * [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
