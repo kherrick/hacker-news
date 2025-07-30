@@ -25,6 +25,7 @@
 * [2025-07-27, 19:15:51](https://news.ycombinator.com/item?id=44703763) - [Revontuli Colorscheme Collection](https://codeberg.org/akselmo/Revontuli)
 * [2025-07-27, 18:55:25](https://news.ycombinator.com/item?id=44703613) - [Tom Lehrer, song satirist and mathematician, dies at 97](https://apnews.com/article/tom-lehrer-son-satirist-mathematician-dies-9caa7ee01faf4fbfb793d7ba984c179d)
 * [2025-07-27, 18:32:53](https://news.ycombinator.com/item?id=44703416) - [Itch.io is the latest marketplace to crack down on adult games](https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/)
+* [2025-07-27, 18:02:13](https://news.ycombinator.com/item?id=44703210) - [Show HN: Dlg – Zero-cost printf-style debugging for Go](https://github.com/vvvvv/dlg)
 * [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Disabling telemetry in ByteDance's VSCode fork increases data sent to its server](https://github.com/segmentationf4u1t/trae_telemetry_research)
 * [2025-07-27, 17:49:23](https://news.ycombinator.com/item?id=44703079) - [Allianz Life says 'majority' of customers' personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
 * [2025-07-27, 17:27:26](https://news.ycombinator.com/item?id=44702894) - [Show HN: Windows 7 GUI for the Web](https://khang-nd.github.io/7.css/)
