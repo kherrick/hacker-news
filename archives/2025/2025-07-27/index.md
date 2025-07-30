@@ -52,6 +52,7 @@
 * [2025-07-27, 07:01:02](https://news.ycombinator.com/item?id=44699393) - [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/)
 * [2025-07-27, 06:03:05](https://news.ycombinator.com/item?id=44699199) - [Actual Size Online Ruler (Mm,Cm,Inches)](https://anruler.com/)
 * [2025-07-27, 05:17:03](https://news.ycombinator.com/item?id=44699052) - [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
+* [2025-07-27, 04:42:24](https://news.ycombinator.com/item?id=44698946) - [Show HN: Cant, rust nn lib for learning](https://github.com/TuckerBMorgan/can-t)
 * [2025-07-27, 04:35:33](https://news.ycombinator.com/item?id=44698928) - [Chemical Process Produces Critical Battery Metals with No Waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
 * [2025-07-27, 04:26:08](https://news.ycombinator.com/item?id=44698899) - [The future is not self-hosted, but self-sovereign](https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign)
 * [2025-07-27, 03:38:27](https://news.ycombinator.com/item?id=44698754) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
