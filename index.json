@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-07-30, 13:30:07",
-      "https://news.ycombinator.com/item?id=44733944"
+      "2025-07-30, 14:12:09",
+      "https://news.ycombinator.com/item?id=44734475"
     ],
     [
-      "The fringe movement punishing officials with fake debt claims",
-      "https://www.latimes.com/california/story/2025-07-30/fake-filings-real-consequences-how-paper-terrorism-is-burying-a-state-system-with-bogus-claims"
+      "Opsqueue: Lightweight batch processing queue for heavy loads – now open-source",
+      "https://www.channable.com/tech/introducing-opsqueue"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 13:55:25",
+      "https://news.ycombinator.com/item?id=44734260"
+    ],
+    [
+      "NMDA Receptor Antagonists: Slightly More Than You Wanted to Know",
+      "https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 13:33:37",
+      "https://news.ycombinator.com/item?id=44733983"
+    ],
+    [
+      "Bitmapist: We built an open-source cohorts analytics tool that saved millions",
+      "https://www.doist.dev/bitmapist/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 13:24:10",
+      "https://news.ycombinator.com/item?id=44733888"
+    ],
+    [
+      "Try the Mosquito Bucket of Death",
+      "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/"
     ]
   ],
   [
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2025-07-30, 12:01:10",
+      "https://news.ycombinator.com/item?id=44733094"
+    ],
+    [
+      "Blog series on creating an OS in Rust",
+      "https://os.phil-opp.com/"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 12:00:30",
       "https://news.ycombinator.com/item?id=44733086"
     ],
@@ -81,12 +121,12 @@
   ],
   [
     [
-      "2025-07-30, 11:57:15",
-      "https://news.ycombinator.com/item?id=44733061"
+      "2025-07-30, 11:47:36",
+      "https://news.ycombinator.com/item?id=44732998"
     ],
     [
-      "How email tracking works behind the scenes",
-      "https://buttondown.com/blog/email-tracking-pixels-bugs"
+      "SensorLM: Learning the Language of Wearable Sensors",
+      "https://research.google/blog/sensorlm-learning-the-language-of-wearable-sensors/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-07-30, 09:59:09",
-      "https://news.ycombinator.com/item?id=44732464"
-    ],
-    [
-      "A major AI training data set contains millions of examples of personal data",
-      "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 09:29:38",
       "https://news.ycombinator.com/item?id=44732345"
     ],
@@ -157,16 +187,6 @@
     [
       "Oscar-Winning 'No Other Land' Awdah Hathaleen Killed by Israeli Settler",
       "https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 06:37:39",
-      "https://news.ycombinator.com/item?id=44731424"
-    ],
-    [
-      "State capacity and eight parking spaces",
-      "https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-07-29, 17:00:43",
-      "https://news.ycombinator.com/item?id=44725757"
-    ],
-    [
-      "Learning basic electronics by building fireflies",
-      "http://a64.in/posts/learning-basic-electronics-by-building-fireflies/"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 16:24:08",
       "https://news.ycombinator.com/item?id=44725306"
     ],
@@ -267,16 +277,6 @@
     [
       ".NET 10 Preview 6 brings JIT improvements, one-shot tool execution",
       "https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 04:42:24",
-      "https://news.ycombinator.com/item?id=44698946"
-    ],
-    [
-      "Show HN: Cant – Library written in Rust that provides PyTorch-like functionality",
-      "https://github.com/TuckerBMorgan/can-t"
     ]
   ],
   [
