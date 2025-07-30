@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 17:01:10](https://news.ycombinator.com/item?id=44736673) - [Artie (YC S23) Is Hiring Founding AEs](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae)
+* [2025-07-30, 17:00:42](https://news.ycombinator.com/item?id=44736668) - [What's Not to Like?](https://theamericanscholar.org/whats-not-to-like/)
 * [2025-07-30, 16:47:12](https://news.ycombinator.com/item?id=44736501) - ['70 MPH e-bikes' prompt one US state to change its laws](https://electrek.co/2025/07/29/70-mph-e-bikes-prompt-one-us-state-to-change-its-laws/)
 * [2025-07-30, 16:18:14](https://news.ycombinator.com/item?id=44736176) - [Crush: The glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
 * [2025-07-30, 16:12:32](https://news.ycombinator.com/item?id=44736101) - [Critical Vulnerability Discovered 11 Days After Wix Buys Base44](https://www.wiz.io/blog/critical-vulnerability-base44)
@@ -19,6 +21,7 @@
 * [2025-07-30, 13:33:37](https://news.ycombinator.com/item?id=44733983) - [Bitmapist: We built an open-source cohorts analytics tool that saved millions](https://www.doist.dev/bitmapist/)
 * [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 * [2025-07-30, 13:30:07](https://news.ycombinator.com/item?id=44733944) - [The fringe movement punishing officials with fake debt claims](https://www.latimes.com/california/story/2025-07-30/fake-filings-real-consequences-how-paper-terrorism-is-burying-a-state-system-with-bogus-claims)
+* [2025-07-30, 13:24:50](https://news.ycombinator.com/item?id=44733892) - [Show HN: An AI agent that learns your product and guides your users](https://news.ycombinator.com/item?id=44733892)
 * [2025-07-30, 13:24:10](https://news.ycombinator.com/item?id=44733888) - [Try the Mosquito Bucket of Death](https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
 * [2025-07-30, 13:15:35](https://news.ycombinator.com/item?id=44733800) - [I launched 17 side projects. Result? I'm rich in expired domains](https://news.ycombinator.com/item?id=44733800)
