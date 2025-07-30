@@ -24,10 +24,10 @@
 * [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem Solving Is Often a Matter of Cooking Up an Appropriate Markov Chain](https://www.jstor.org/stable/41548580)
 * [2025-07-30, 12:03:54](https://news.ycombinator.com/item?id=44733119) - [The HTML Hobbyist](https://www.htmlhobbyist.com/)
 * [2025-07-30, 12:01:10](https://news.ycombinator.com/item?id=44733094) - [Blog series on creating an OS in Rust](https://os.phil-opp.com/)
+* [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
 * [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
 * [2025-07-27, 16:32:46](https://news.ycombinator.com/item?id=44702478) - [Ultra-Rapid Vision in Birds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099)
 * [2025-07-27, 12:56:32](https://news.ycombinator.com/item?id=44701001) - [Hexatetrahedral Rails](https://blog.julik.nl/2025/07/hexatetrahedral-rails)
-* [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
 * [2025-07-27, 02:22:51](https://news.ycombinator.com/item?id=44698413) - [A Python dict that can report which keys you did not use](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)
 * [2025-07-27, 00:35:46](https://news.ycombinator.com/item?id=44698007) - [Show HN: Convert from MIDI file to ASCII tablature (and more)](https://github.com/scottvr/gtrsnipe/blob/main/README.md)
 
