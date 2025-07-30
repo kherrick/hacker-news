@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-30, 18:52:51](https://news.ycombinator.com/item?id=44738132) - [Scammers Unleash Flood of Slick Online Gaming Sites](https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/)
+* [2025-07-30, 18:27:01](https://news.ycombinator.com/item?id=44737823) - [Polarizing Parsers](https://flak.tedunangst.com/post/polarizing-parsers)
+* [2025-07-30, 18:15:35](https://news.ycombinator.com/item?id=44737676) - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 18:05:29](https://news.ycombinator.com/item?id=44737546) - [Maintaining Weight Loss](https://macrofactorapp.com/maintain-weight-loss/)
 * [2025-07-30, 18:00:13](https://news.ycombinator.com/item?id=44737474) - [Every Champion Needs a Rival](https://tombrady.com/posts/every-champion-needs-a-rival)
 * [2025-07-30, 17:51:21](https://news.ycombinator.com/item?id=44737353) - [Most Illinois farmland is not owned by farmers](https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/)
@@ -23,13 +26,10 @@
 * [2025-07-30, 12:01:10](https://news.ycombinator.com/item?id=44733094) - [Blog series on creating an OS in Rust](https://os.phil-opp.com/)
 * [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
 * [2025-07-30, 08:19:46](https://news.ycombinator.com/item?id=44731958) - [‘No Other Land’ consultant Awdah Hathaleen killed by Israeli settler](https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler)
-* [2025-07-30, 00:38:25](https://news.ycombinator.com/item?id=44729865) - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
 * [2025-07-27, 16:32:46](https://news.ycombinator.com/item?id=44702478) - [Ultra-Rapid Vision in Birds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099)
 * [2025-07-27, 12:56:32](https://news.ycombinator.com/item?id=44701001) - [Hexatetrahedral Rails](https://blog.julik.nl/2025/07/hexatetrahedral-rails)
 * [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
-* [2025-07-27, 02:22:51](https://news.ycombinator.com/item?id=44698413) - [A Python dict that can report which keys you did not use](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)
 * [2025-07-27, 00:35:46](https://news.ycombinator.com/item?id=44698007) - [Show HN: Convert from MIDI file to ASCII tablature (and more)](https://github.com/scottvr/gtrsnipe/blob/main/README.md)
-* [2025-07-26, 14:58:49](https://news.ycombinator.com/item?id=44694606) - [Clj-coll: Clojure collections and sequences in Common Lisp](https://github.com/dtenny/clj-coll)
 
 ## [Archives](archives/index.md)
 
