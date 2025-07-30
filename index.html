@@ -129,20 +129,114 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="44735359">
+        <section id="44735843">
           <h3>
-            <a class="item" href="https://burnedchris.com/blog/29-lessons"
-              >Startup failed. Relationship ended. 29 lessons from the
-              wreckage</a
+            <a class="item" href="https://news.ycombinator.com/item?id=44735843"
+              >Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents
+              in production</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-07-30 @ 15:17:17</span
+              <span>2025-07-30 @ 15:54:02</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44735843"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://dashboard.lucidic.ai"
+                >https://dashboard.lucidic.ai</a
+              >), an AI agent interpretability tool to help observe/debug AI
+              agents.
+              <p>
+                Here is a demo:
+                <a href="https://youtu.be/Zvoh1QUMhXQ"
+                  >https://youtu.be/Zvoh1QUMhXQ</a
+                >.
+              </p>
+              <p>
+                Getting started is easy with just one line of code. You just
+                call lai.init() in your agent code and log into the dashboard.
+                You can see traces of each run, cumulative trends across
+                sessions, built-in or custom evals, and grouped failure modes.
+                Call lai.create_step() with any metadata you want, memory
+                snapshots, tool outputs, stateful info, and we'll index it for
+                debugging.
+              </p>
+              <p>
+                We did NLP research at Stanford AI Lab (SAIL), where we worked
+                on creating an AI agent (w/ fine-tuned models and DSPy) to solve
+                math olympiad problems (focusing on AIME/USAMO); and we realized
+                debugging these agents was hard. But the last straw was when we
+                built an e-commerce agent that could buy items online. It kept
+                failing at checkout, and every one-line change, tweaking a
+                prompt, switching to Llama, adjusting tool logic, meant another
+                10-minute rerun just to see if we hit the same checkout page.
+              </p>
+              <p>
+                At this point, we were all like, this sucks, so we improved
+                agent interpretability with better debugging, monitoring, and
+                evals.
+              </p>
+              <p>
+                We started by listening to users who told us traditional LLM
+                observability platforms don't capture the complexity of agents.
+                Agents have tools, memories, events, not just input/output
+                pairs. So we automatically transform OTel (and/or regular) agent
+                logs into interactive graph visualizations that cluster similar
+                states based on memory and action patterns. We heard that people
+                wanted to test small changes even with the graphs, so we created
+                “time traveling,” where you can modify any state (memory
+                contents, tool outputs, context), then re-simulate 30–40 times
+                to see outcome distributions. We embed the responses, cluster by
+                similarity, and show which modifications lead to stable vs.
+                divergent behaviors.
+              </p>
+              <p>
+                Then we saw people running their agent 10 times on the same
+                task, watching each run individually, and wasting hours looking
+                at mostly repeated states. So we built trajectory clustering on
+                similar state embeddings (like similar tools or memories) to
+                surface behavioral patterns across mass simulations.
+              </p>
+              <p>
+                We then use that to create a force-directed layout that
+                automatically groups similar paths your agent took, which
+                displays states as nodes, actions as edges, and failure
+                probability as color intensity. The clusters make failure
+                patterns obvious; you see trends across hundreds of runs, not
+                individual traces.
+              </p>
+              <p>
+                Finally, when people saw our observability features, they
+                naturally wanted evaluation capabilities. So we developed a
+                concept for people to make their own evals called "rubrics,"
+                which lets you define specific criteria, assign weights to each
+                criterion, and set score definitions, giving you a structured
+                way to measure agent performance against your exact
+                requirements.
+              </p>
+              <p>
+                To evaluate these criteria, we used our own platform to build an
+                investigator agent that reviews your criteria and evaluates
+                performance much more effectively than traditional
+                LLM-as-a-judge approaches.
+              </p>
+              <p>
+                To get started visit dashboard.lucidic.ai and
+                <a href="https://docs.lucidic.ai/getting-started/quickstart"
+                  >https://docs.lucidic.ai/getting-started/quickstart</a
+                >. You can use it for free for 1,000 event and step creations.
+              </p>
+              <p>
+                Look forward to your thoughts! And don’t hesitate to reach out
+                at team@lucidic.ai
+              </p>
+            </div>
           </section>
         </section>
         <section id="44735334">
@@ -157,11 +251,11 @@
             <h4>
               <span>2025-07-30 @ 15:15:30</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44735334"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -176,35 +270,126 @@
             <h4>
               <span>2025-07-30 @ 14:58:04</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44735081"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44734475">
+        <section id="44734983">
           <h3>
             <a
               class="item"
-              href="https://www.channable.com/tech/introducing-opsqueue"
-              >Opsqueue: Lightweight batch processing queue for heavy loads –
-              now open-source</a
+              href="https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK"
+              >Show HN: A High-Altitude Low-Power Flight Computer for
+              High-Altitude Balloons</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-07-30 @ 14:12:09</span
+              <span>2025-07-30 @ 14:51:10</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44734475"
+                ><a href="https://news.ycombinator.com/item?id=44734983"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                I've been into launching weather balloons for a few years. One
+                aspect of the hobby that really drew me in was the tracking side
+                of things. Tracking systems let you follow the balloon's
+                position throughout the flight and, most importantly, know
+                exactly where it lands so you can recover the instrumentation.
+                APRS is what I started out using during my first few years in
+                the hobby, after I got my amateur radio license in 2020 (W0MXX).
+                I designed a few small boards using the trackuino (<a
+                  href="https://github.com/trackuino/trackuino"
+                  >https://github.com/trackuino/trackuino</a
+                >) firmware (while breaking 3 $70 radio modules along the way).
+              </p>
+              <p>
+                I then got into recovering radiosondes, which are launched twice
+                per day by the NWS and can be reprogrammed using RS41ng (<a
+                  href="https://github.com/mikaelnousiainen/RS41ng"
+                  >https://github.com/mikaelnousiainen/RS41ng</a
+                >) to run many amateur radio tracking protocols. I was a bit
+                dissatisfied with how large and heavy the radiosonde trackers
+                were, so I designed my own tracking system, called Tiny4FSK.
+              </p>
+              <p>
+                Tiny4FSK is a flight computer with built-in tracking using the
+                Horus Binary v2 tracking system. This protocol was developed by
+                the Project Horus team specifically for high-altitude balloons,
+                and it brings features like high transmit rates, forward error
+                correction, and excellent weak-signal performance in an open
+                source package. It's designed to be as compact as possible and
+                can run on a single AA battery for upwards of 17 hours.
+              </p>
+              <p>
+                The main board comes with header rows that allow for
+                out-of-the-box expansion. I developed a shield that supports the
+                BME280 environmental sensor, the ICM-20948 9-axis IMU, and more
+                via the Qwiic connector. It also features an OLED display for
+                basic diagnostics.
+              </p>
+              <p>
+                While I've pretty much polished the main tracking procedures
+                (and have tested on multiple flights), I'm still developing the
+                IMU code using a lightweight Kalman filter. Additionally, there
+                isn't yet a wide network of Horus Binary decoding stations like
+                the APRS network has (I-gates), but I hope that by promoting
+                this protocol, more stations will pop up. This means that if
+                you're not in an area with many receive stations, you'll need to
+                set up your own using either Horus-GUI (<a
+                  href="https://github.com/projecthorus/horus-gui"
+                  >https://github.com/projecthorus/horus-gui</a
+                >) or horusdemodlib (<a
+                  href="https://github.com/projecthorus/horusdemodlib"
+                  >https://github.com/projecthorus/horusdemodlib</a
+                >).
+              </p>
+              <p>
+                One issue I’m still working on is improving RF signal strength.
+                Although the protocol is decodable in very low-noise
+                environments, the transmit power appears to be lower than that
+                of a typical radiosonde. This could be due to several factors:
+                limited current on a weak power source (signal is stronger when
+                powered from a bench supply), off-tuned filtering/matching, or
+                not paying enough attention to the antenna. I'm planning to run
+                more simulations to figure this out. That said, the signal is
+                still decodable from the ground even at max altitude (~100,000
+                feet).
+              </p>
+              <p>
+                On the more technical side, Tiny4FSK uses: - the SAMD21
+                microcontroller, which is an ARM Cortex-M0+ MCU - the TPS61200
+                boost converter, which is adjusted to output 3.3v - Si4063 radio
+                module, which I use on the 70cm band - ATGM336H gps module -
+                pretty cheap GPS module which works in airborne mode (&gt;18km)
+                - integrated BME280 temperature, pressure, and humidity sensor
+                The code uses the Arduino framework to make it accessible to
+                beginners.
+              </p>
+              <p>
+                All flights using Horus Binary v2, including reprogrammed
+                radiosondes, other custom trackers, and Tiny4FSK show up in
+                real-time on Sondehub Amateur (<a
+                  href="https://amateur.sondehub.org"
+                  >https://amateur.sondehub.org</a
+                >). Flight data can be found in the /Media/Data folder on Github
+                (there's several missing flights on there though).
+              </p>
+              <p>
+                Thanks for reading, hope I didn’t mess anything up too badly in
+                the post! -Max
+              </p>
+            </div>
           </section>
         </section>
         <section id="44734260">
@@ -220,11 +405,11 @@
             <h4>
               <span>2025-07-30 @ 13:55:25</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44734260"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -240,7 +425,7 @@
             <h4>
               <span>2025-07-30 @ 13:33:37</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44733983"
                   >Comments</a
@@ -261,11 +446,11 @@
             <h4>
               <span>2025-07-30 @ 13:32:23</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44733968"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -282,11 +467,11 @@
             <h4>
               <span>2025-07-30 @ 13:24:10</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44733888"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -301,11 +486,11 @@
             <h4>
               <span>2025-07-30 @ 13:17:28</span
               ><span class="points-container"
-                >Points: <span class="points">363</span></span
+                >Points: <span class="points">411</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44733817"
                   >Comments</a
-                ><span class="descendants">: 215</span></span
+                ><span class="descendants">: 246</span></span
               >
             </h4>
           </section>
@@ -323,7 +508,7 @@
             <h4>
               <span>2025-07-30 @ 13:11:06</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44733742"
                   >Comments</a
@@ -344,7 +529,7 @@
             <h4>
               <span>2025-07-30 @ 13:09:27</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44733734"
                   >Comments</a
@@ -364,11 +549,11 @@
             <h4>
               <span>2025-07-30 @ 12:29:52</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44733341"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -383,11 +568,11 @@
             <h4>
               <span>2025-07-30 @ 12:03:54</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44733119"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -402,11 +587,11 @@
             <h4>
               <span>2025-07-30 @ 12:01:10</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44733094"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -441,51 +626,11 @@
             <h4>
               <span>2025-07-30 @ 10:50:39</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44732700"
                   >Comments</a
                 ><span class="descendants">: 31</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44732593">
-          <h3>
-            <a
-              class="item"
-              href="https://cborbook.com/introduction/from_xml_to_json_to_cbor.html"
-              >From XML to JSON to CBOR</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-30 @ 10:31:12</span
-              ><span class="points-container"
-                >Points: <span class="points">52</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44732593"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44732345">
-          <h3>
-            <a class="item" href="https://panamaplaylists.com/"
-              >PanamaPlaylists – Leaked Tech CEOs Spotify Profiles</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-30 @ 09:29:38</span
-              ><span class="points-container"
-                >Points: <span class="points">67</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44732345"
-                  >Comments</a
-                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -502,11 +647,11 @@
             <h4>
               <span>2025-07-30 @ 08:34:10</span
               ><span class="points-container"
-                >Points: <span class="points">349</span></span
+                >Points: <span class="points">373</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44732020"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 169</span></span
               >
             </h4>
           </section>
@@ -524,11 +669,11 @@
             <h4>
               <span>2025-07-30 @ 08:19:46</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">414</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44731958"
                   >Comments</a
-                ><span class="descendants">: 227</span></span
+                ><span class="descendants">: 277</span></span
               >
             </h4>
           </section>
@@ -545,11 +690,11 @@
             <h4>
               <span>2025-07-30 @ 00:38:25</span
               ><span class="points-container"
-                >Points: <span class="points">812</span></span
+                >Points: <span class="points">821</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44729865"
                   >Comments</a
-                ><span class="descendants">: 218</span></span
+                ><span class="descendants">: 222</span></span
               >
             </h4>
           </section>
@@ -566,11 +711,11 @@
             <h4>
               <span>2025-07-29 @ 22:09:48</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44728833"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -588,11 +733,30 @@
             <h4>
               <span>2025-07-29 @ 20:57:47</span
               ><span class="points-container"
-                >Points: <span class="points">380</span></span
+                >Points: <span class="points">385</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44728188"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 82</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44725966">
+          <h3>
+            <a class="item" href="https://www.acm.org/publications/openaccess"
+              >ACM Transitions to Full Open Access</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-29 @ 17:17:58</span
+              ><span class="points-container"
+                >Points: <span class="points">366</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44725966"
+                  >Comments</a
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -607,11 +771,11 @@
             <h4>
               <span>2025-07-29 @ 17:01:14</span
               ><span class="points-container"
-                >Points: <span class="points">1037</span></span
+                >Points: <span class="points">1045</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44725764"
                   >Comments</a
-                ><span class="descendants">: 744</span></span
+                ><span class="descendants">: 746</span></span
               >
             </h4>
           </section>
@@ -627,11 +791,11 @@
             <h4>
               <span>2025-07-29 @ 16:24:08</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44725306"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
             <div class="text">
@@ -722,11 +886,11 @@
             <h4>
               <span>2025-07-29 @ 13:58:06</span
               ><span class="points-container"
-                >Points: <span class="points">446</span></span
+                >Points: <span class="points">459</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44723461"
                   >Comments</a
-                ><span class="descendants">: 433</span></span
+                ><span class="descendants">: 439</span></span
               >
             </h4>
           </section>
@@ -741,7 +905,7 @@
             <h4>
               <span>2025-07-27 @ 18:02:13</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44703210"
                   >Comments</a
@@ -801,11 +965,11 @@
             <h4>
               <span>2025-07-27 @ 05:53:40</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44699174"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -822,13 +986,63 @@
             <h4>
               <span>2025-07-27 @ 02:22:51</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44698413"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44698007">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/scottvr/gtrsnipe/blob/main/README.md"
+              >Show HN: Convert from MIDI file to ASCII tablature (and more)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-27 @ 00:35:46</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44698007"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                About seven months ago, via HN, I got nerdsniped into a silly
+                guitar transcription problem and made a bunch of really
+                senseless code but what came out of it was what I thought at the
+                time could potentially be pretty useful - a guitar fretboard
+                mapper and fingering scoring algorithm.
+              </p>
+              <p>
+                So as of yesterday morning I've finally put those bits of code
+                to "good" use, creating gtrsnipe to convert between MIDI files
+                (.mid) and ASCII tab (as well as VexTab and ABC notation) and
+                any combination/direction among the set of formats.
+              </p>
+              <p>
+                gtrsnipe tries to intelligently find the best neck and fingering
+                positions using a note to fretboard mapper and a scoring
+                algorithm that is unavoidably shaped by my subjective opinions
+                and skills as a player but it does its best to avoid objectively
+                impossible fingerings.
+              </p>
+              <p>
+                See the example tabs and usage in the README and please, try
+                your own transcriptions from MIDI and if you love or hate the
+                arrangement it gives you, I'd love to hear about it so I can
+                further refine the scoring algorithm.
+              </p>
+              <p>Thanks!</p>
+            </div>
           </section>
         </section>
         <section id="44694606">
@@ -841,11 +1055,11 @@
             <h4>
               <span>2025-07-26 @ 14:58:49</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44694606"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
