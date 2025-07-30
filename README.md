@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-30, 21:52:10](https://news.ycombinator.com/item?id=44739927) - [Lyon Is Replacing Windows and Microsoft Office with Linux and OnlyOffice](https://www.zdnet.com/article/this-city-is-dumping-microsoft-office-and-windows-for-onlyoffice-and-linux-heres-why/)
 * [2025-07-30, 21:19:03](https://news.ycombinator.com/item?id=44739632) - [Ollama has a native front end chatbot now](https://ollama.com/blog/new-app)
 * [2025-07-30, 21:18:21](https://news.ycombinator.com/item?id=44739618) - [Early universe's 'little red dots' may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
 * [2025-07-30, 21:13:20](https://news.ycombinator.com/item?id=44739556) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
@@ -26,7 +27,6 @@
 * [2025-07-30, 10:31:12](https://news.ycombinator.com/item?id=44732593) - [From XML to JSON to CBOR](https://cborbook.com/introduction/from_xml_to_json_to_cbor.html)
 * [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
 * [2025-07-28, 22:11:44](https://news.ycombinator.com/item?id=44716356) - [ReproZip – reproducible experiments from command-line executions](https://github.com/VIDA-NYU/reprozip)
-* [2025-07-28, 10:26:20](https://news.ycombinator.com/item?id=44709303) - [Hierarchical Reasoning Model – 1k training samples SoTA reasoning v/s CoT](https://github.com/sapientinc/HRM)
 * [2025-07-27, 16:32:46](https://news.ycombinator.com/item?id=44702478) - [Ultra-Rapid Vision in Birds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099)
 * [2025-07-27, 10:30:48](https://news.ycombinator.com/item?id=44700263) - [Traccar: an open source GPS tracking system](https://github.com/traccar/traccar)
 * [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
