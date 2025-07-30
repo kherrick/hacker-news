@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-07-30, 20:46:49",
+      "https://news.ycombinator.com/item?id=44739315"
+    ],
+    [
+      "The Math Is Haunted",
+      "https://overreacted.io/the-math-is-haunted/"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 20:27:57",
       "https://news.ycombinator.com/item?id=44739117"
     ],
     [
-      "Actions Reflect Your Priorities",
+      "Actions reflect your priorities",
       "https://tombrady.com/posts/your-actions-reflect-your-priorities"
     ]
   ],
@@ -21,42 +31,12 @@
   ],
   [
     [
-      "2025-07-30, 18:52:51",
-      "https://news.ycombinator.com/item?id=44738132"
-    ],
-    [
-      "Scammers unleash flood of online gaming sites",
-      "https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 18:27:01",
       "https://news.ycombinator.com/item?id=44737823"
     ],
     [
       "Polarizing Parsers",
       "https://flak.tedunangst.com/post/polarizing-parsers"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 18:15:35",
-      "https://news.ycombinator.com/item?id=44737676"
-    ],
-    [
-      "Emacs: The macOS Bug",
-      "https://xlii.space/eng/emacs-the-macos-bug/"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 18:00:13",
-      "https://news.ycombinator.com/item?id=44737474"
-    ],
-    [
-      "Every champion needs a rival",
-      "https://tombrady.com/posts/every-champion-needs-a-rival"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2025-07-30, 14:51:10",
+      "https://news.ycombinator.com/item?id=44734983"
+    ],
+    [
+      "Show HN: A high-altitude low-power flight computer for high-altitude balloons",
+      "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 14:15:07",
       "https://news.ycombinator.com/item?id=44734522"
     ],
@@ -225,8 +215,8 @@
       "https://news.ycombinator.com/item?id=44733341"
     ],
     [
-      "Problem Solving Is Often a Matter of Cooking Up an Appropriate Markov Chain",
-      "https://www.jstor.org/stable/41548580"
+      "Problem solving often a matter of cooking up an appropriate Markov chain (2007)",
+      "http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Sleep all comes down to the mitochondria",
       "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 10:26:20",
+      "https://news.ycombinator.com/item?id=44709303"
+    ],
+    [
+      "Hierarchical Reasoning Model – 1k training samples SoTA reasoning v/s CoT",
+      "https://github.com/sapientinc/HRM"
     ]
   ],
   [
