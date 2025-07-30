@@ -8,6 +8,7 @@
 * [2025-07-29, 23:09:04](https://news.ycombinator.com/item?id=44729302) - [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
 * [2025-07-29, 22:50:47](https://news.ycombinator.com/item?id=44729169) - [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
 * [2025-07-29, 22:09:48](https://news.ycombinator.com/item?id=44728833) - [Htmx and URL State Management](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
+* [2025-07-29, 22:05:04](https://news.ycombinator.com/item?id=44728796) - [Poor child process management in Rust terminal apps leads to terminal corruption](https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management)
 * [2025-07-29, 21:38:58](https://news.ycombinator.com/item?id=44728554) - [Webflow Down for >31 Hours](https://status.webflow.com)
 * [2025-07-29, 21:34:28](https://news.ycombinator.com/item?id=44728513) - [CodeCrafters (YC S22) is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
 * [2025-07-29, 21:19:19](https://news.ycombinator.com/item?id=44728369) - [Microsoft bans LibreOffice developer's account without warning, rejects appeal](https://www.neowin.net/news/microsoft-bans-libreoffice-developers-account-without-warning-rejects-appeal/)
