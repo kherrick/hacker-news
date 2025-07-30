@@ -13,7 +13,6 @@
 * [2025-07-30, 12:03:54](https://news.ycombinator.com/item?id=44733119) - [The HTML Hobbyist](https://www.htmlhobbyist.com/)
 * [2025-07-30, 12:01:10](https://news.ycombinator.com/item?id=44733094) - [Blog series on creating an OS in Rust](https://os.phil-opp.com/)
 * [2025-07-30, 12:00:30](https://news.ycombinator.com/item?id=44733086) - [Cedana (YC S23) Is Hiring a Systems Engineer](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration)
-* [2025-07-30, 11:47:36](https://news.ycombinator.com/item?id=44732998) - [SensorLM: Learning the Language of Wearable Sensors](https://research.google/blog/sensorlm-learning-the-language-of-wearable-sensors/)
 * [2025-07-30, 11:38:10](https://news.ycombinator.com/item?id=44732937) - [U.S. intelligence intervened with DOJ to push HPE-Juniper merger](https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security)
 * [2025-07-30, 10:50:39](https://news.ycombinator.com/item?id=44732700) - [Moneybadger and Peach Payments partner to enable Bitcoin payments](https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/)
 * [2025-07-30, 10:31:12](https://news.ycombinator.com/item?id=44732593) - [From XML to JSON to CBOR](https://cborbook.com/introduction/from_xml_to_json_to_cbor.html)
@@ -30,6 +29,7 @@
 * [2025-07-27, 18:02:13](https://news.ycombinator.com/item?id=44703210) - [Show HN: Dlg – Zero-cost printf-style debugging for Go](https://github.com/vvvvv/dlg)
 * [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
 * [2025-07-27, 02:22:51](https://news.ycombinator.com/item?id=44698413) - [A Python dict that can report which keys you did not use](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)
+* [2025-07-26, 14:58:49](https://news.ycombinator.com/item?id=44694606) - [Clj-coll: Clojure collections and sequences in Common Lisp](https://github.com/dtenny/clj-coll)
 
 ## [Archives](archives/index.md)
 
