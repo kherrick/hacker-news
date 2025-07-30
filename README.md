@@ -7,6 +7,7 @@
 * [2025-07-29, 21:34:28](https://news.ycombinator.com/item?id=44728513) - [CodeCrafters (YC S22) is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
 * [2025-07-29, 20:57:47](https://news.ycombinator.com/item?id=44728188) - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
 * [2025-07-29, 20:18:23](https://news.ycombinator.com/item?id=44727788) - [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856)
+* [2025-07-29, 19:37:05](https://news.ycombinator.com/item?id=44727420) - [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
 * [2025-07-29, 19:13:32](https://news.ycombinator.com/item?id=44727191) - [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-29, 17:44:58](https://news.ycombinator.com/item?id=44726280) - [Elements of System Design](https://github.com/jarulraj/periodic-table)
@@ -28,7 +29,6 @@
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
 * [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
-* [2025-07-26, 06:57:17](https://news.ycombinator.com/item?id=44691986) - [JavaScript decided my day starts at 9am](https://senhongo.com/blog/when-javaScript-decided-my-day-starts-at-9am)
 * [2025-07-25, 23:06:18](https://news.ycombinator.com/item?id=44689565) - [FoundationDB: From idea to Apple acquisition [video]](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
 ## [Archives](archives/index.md)
