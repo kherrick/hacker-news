@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 16:18:14](https://news.ycombinator.com/item?id=44736176) - [Crush: The glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
+* [2025-07-30, 16:12:32](https://news.ycombinator.com/item?id=44736101) - [Critical Vulnerability Discovered 11 Days After Wix Buys Base44](https://www.wiz.io/blog/critical-vulnerability-base44)
+* [2025-07-30, 16:11:58](https://news.ycombinator.com/item?id=44736090) - [Optician Sans – A free font based on historical eye charts and optotypes](https://optician-sans.com/)
 * [2025-07-30, 15:54:02](https://news.ycombinator.com/item?id=44735843) - [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](https://news.ycombinator.com/item?id=44735843)
 * [2025-07-30, 15:17:17](https://news.ycombinator.com/item?id=44735359) - [Startup failed. Relationship ended. 29 lessons from the wreckage](https://burnedchris.com/blog/29-lessons)
 * [2025-07-30, 15:15:30](https://news.ycombinator.com/item?id=44735334) - [Words about Arrays and Tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
