@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-30, 13:17:28",
+      "https://news.ycombinator.com/item?id=44733817"
+    ],
+    [
+      "Our $100M Series B",
+      "https://oxide.computer/blog/our-100m-series-b"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 13:11:06",
+      "https://news.ycombinator.com/item?id=44733742"
+    ],
+    [
+      "Show HN: MoebiusXBIN – ASCII and text-mode art editor with custom font support",
+      "https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 12:00:30",
       "https://news.ycombinator.com/item?id=44733086"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44732937"
     ],
     [
-      "Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger",
+      "U.S. intelligence intervened with DOJ to push HPE-Juniper merger",
       "https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security"
     ]
   ],
@@ -57,6 +77,16 @@
     [
       "A major AI training data set contains millions of examples of personal data",
       "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 09:29:38",
+      "https://news.ycombinator.com/item?id=44732345"
+    ],
+    [
+      "PanamaPlaylists – Leaked Tech CEOs Spotify Profiles",
+      "https://panamaplaylists.com/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-07-29, 18:24:23",
-      "https://news.ycombinator.com/item?id=44726731"
-    ],
-    [
-      "A month using XMPP (using Snikket) for every call and chat (2023)",
-      "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 17:17:58",
       "https://news.ycombinator.com/item?id=44725966"
     ],
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2025-07-29, 16:17:14",
-      "https://news.ycombinator.com/item?id=44725202"
-    ],
-    [
-      "Show HN: I built an AI that turns any book into a text adventure game",
-      "https://www.kathaaverse.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 14:59:18",
-      "https://news.ycombinator.com/item?id=44724238"
-    ],
-    [
-      "Irrelevant facts about cats added to math problems increase LLM errors by 300%",
-      "https://www.science.org/content/article/scienceadviser-cats-confuse-ai"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 13:58:06",
       "https://news.ycombinator.com/item?id=44723461"
     ],
     [
       "iPhone 16 cameras vs. traditional digital cameras",
       "https://candid9.com/phone-camera/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 11:12:03",
-      "https://news.ycombinator.com/item?id=44721791"
-    ],
-    [
-      "Show HN: Terminal-Bench-RL: Training long-horizon terminal agents with RL",
-      "https://github.com/Danau5tin/terminal-bench-rl"
     ]
   ],
   [
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2025-07-27, 05:53:40",
+      "https://news.ycombinator.com/item?id=44699174"
+    ],
+    [
+      ".NET 10 Preview 6 brings JIT improvements, one-shot tool execution",
+      "https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 04:42:24",
       "https://news.ycombinator.com/item?id=44698946"
     ],
     [
-      "Show HN: Cant, rust nn lib for learning",
+      "Show HN: Cant – Library written in Rust that provides PyTorch-like functionality",
       "https://github.com/TuckerBMorgan/can-t"
     ]
   ],
