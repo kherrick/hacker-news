@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
 * [2025-07-29, 23:34:11](https://news.ycombinator.com/item?id=44729461) - [Someone made a 128000 line PR to opencut](https://github.com/OpenCut-app/OpenCut/pull/479)
+* [2025-07-29, 23:09:04](https://news.ycombinator.com/item?id=44729302) - [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
 * [2025-07-29, 22:50:47](https://news.ycombinator.com/item?id=44729169) - [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
 * [2025-07-29, 22:09:48](https://news.ycombinator.com/item?id=44728833) - [Htmx and URL State Management](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
 * [2025-07-29, 21:38:58](https://news.ycombinator.com/item?id=44728554) - [Webflow Down for >31 Hours](https://status.webflow.com)
@@ -12,6 +13,7 @@
 * [2025-07-29, 21:19:19](https://news.ycombinator.com/item?id=44728369) - [Microsoft bans LibreOffice developer's account without warning, rejects appeal](https://www.neowin.net/news/microsoft-bans-libreoffice-developers-account-without-warning-rejects-appeal/)
 * [2025-07-29, 20:57:47](https://news.ycombinator.com/item?id=44728188) - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
 * [2025-07-29, 20:18:23](https://news.ycombinator.com/item?id=44727788) - [Supervised Fine Tuning on Curated Data Is Reinforcement Learning](https://arxiv.org/abs/2507.12856)
+* [2025-07-29, 20:03:29](https://news.ycombinator.com/item?id=44727653) - [Dropbox Passwords discontinuation](https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation)
 * [2025-07-29, 19:37:05](https://news.ycombinator.com/item?id=44727420) - [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
 * [2025-07-29, 19:30:40](https://news.ycombinator.com/item?id=44727357) - [Delta Engineered a Pricing System That Sorts You by Economic Value](https://blog.getjetback.com/delta-engineered-a-pricing-system-that-sorts-you-by-economic-value/)
 * [2025-07-29, 19:24:40](https://news.ycombinator.com/item?id=44727298) - [Maru OS – Your phone is your PC](https://maruos.com/)
