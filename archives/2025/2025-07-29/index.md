@@ -72,6 +72,7 @@
 * [2025-07-29, 09:15:19](https://news.ycombinator.com/item?id=44721003) - [Stop promising \"unlimited\", when you mean \"until we change our minds\"](https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again)
 * [2025-07-29, 07:29:13](https://news.ycombinator.com/item?id=44720200) - [EU Commission finds Temu in breach of online platform rules](https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules)
 * [2025-07-29, 07:15:05](https://news.ycombinator.com/item?id=44720103) - [The EU could be scanning your chats by October 2025](https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know)
+* [2025-07-29, 06:27:32](https://news.ycombinator.com/item?id=44719741) - [Five Years After](https://isonomiaquarterly.com/archive/volume-3-issue-2/five-years-after/)
 * [2025-07-29, 05:55:32](https://news.ycombinator.com/item?id=44719532) - [Modernising the Amiga at Forty](https://benjamin.computer/posts/2025-07-28-amiga40.html)
 * [2025-07-29, 05:34:15](https://news.ycombinator.com/item?id=44719413) - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
 * [2025-07-29, 04:53:22](https://news.ycombinator.com/item?id=44719194) - [Florida’s attorney general targets a restaurant over an LGBTQ Pride event](https://www.eff.org/deeplinks/2025/07/you-went-drag-show-now-state-florida-wants-your-name)

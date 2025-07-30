@@ -22,7 +22,7 @@
 * [2025-07-29, 13:58:06](https://news.ycombinator.com/item?id=44723461) - [iPhone 16 cameras vs. traditional digital cameras](https://candid9.com/phone-camera/)
 * [2025-07-29, 13:45:07](https://news.ycombinator.com/item?id=44723316) - [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
 * [2025-07-29, 11:12:03](https://news.ycombinator.com/item?id=44721791) - [Show HN: Terminal-Bench-RL: Training long-horizon terminal agents with RL](https://github.com/Danau5tin/terminal-bench-rl)
-* [2025-07-28, 22:04:58](https://news.ycombinator.com/item?id=44716280) - [Playing with more user-friendly methods for multi-factor authentication](https://tesseral.com/blog/i-designed-some-more-user-friendly-methods-for-multi-factor-authentication)
+* [2025-07-29, 06:27:32](https://news.ycombinator.com/item?id=44719741) - [Five Years After](https://isonomiaquarterly.com/archive/volume-3-issue-2/five-years-after/)
 * [2025-07-27, 10:13:58](https://news.ycombinator.com/item?id=44700199) - [Analoguediehard](http://www.analoguediehard.com/)
 * [2025-07-27, 04:42:24](https://news.ycombinator.com/item?id=44698946) - [Show HN: Cant, rust nn lib for learning](https://github.com/TuckerBMorgan/can-t)
 * [2025-07-27, 02:43:33](https://news.ycombinator.com/item?id=44698513) - [Show HN: The Aria Programming Language](https://github.com/egranata/aria)
