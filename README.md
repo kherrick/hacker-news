@@ -26,7 +26,7 @@
 * [2025-07-28, 22:04:58](https://news.ycombinator.com/item?id=44716280) - [Playing with more user-friendly methods for multi-factor authentication](https://tesseral.com/blog/i-designed-some-more-user-friendly-methods-for-multi-factor-authentication)
 * [2025-07-27, 06:03:05](https://news.ycombinator.com/item?id=44699199) - [Online Ruler – Measuring in inches/centimeters](https://anruler.com/)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
-* [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
+* [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 09:59:53](https://news.ycombinator.com/item?id=44692839) - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
 * [2025-07-26, 06:57:17](https://news.ycombinator.com/item?id=44691986) - [JavaScript decided my day starts at 9am](https://senhongo.com/blog/when-javaScript-decided-my-day-starts-at-9am)
 * [2025-07-25, 23:06:18](https://news.ycombinator.com/item?id=44689565) - [FoundationDB: From idea to Apple acquisition [video]](https://www.youtube.com/watch?v=C1nZzQqcPZw)
