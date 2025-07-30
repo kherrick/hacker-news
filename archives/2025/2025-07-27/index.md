@@ -52,6 +52,7 @@
 * [2025-07-27, 07:07:09](https://news.ycombinator.com/item?id=44699421) - [When We Get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
 * [2025-07-27, 07:01:02](https://news.ycombinator.com/item?id=44699393) - [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/)
 * [2025-07-27, 06:03:05](https://news.ycombinator.com/item?id=44699199) - [Actual Size Online Ruler (Mm,Cm,Inches)](https://anruler.com/)
+* [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
 * [2025-07-27, 05:17:03](https://news.ycombinator.com/item?id=44699052) - [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
 * [2025-07-27, 04:42:24](https://news.ycombinator.com/item?id=44698946) - [Show HN: Cant, rust nn lib for learning](https://github.com/TuckerBMorgan/can-t)
 * [2025-07-27, 04:35:33](https://news.ycombinator.com/item?id=44698928) - [Chemical Process Produces Critical Battery Metals with No Waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
+* [2025-07-30, 13:11:06](https://news.ycombinator.com/item?id=44733742) - [Show HN: MoebiusXBIN – ASCII and text-mode art editor with custom font support](https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/)
 * [2025-07-30, 12:00:30](https://news.ycombinator.com/item?id=44733086) - [Cedana (YC S23) Is Hiring a Systems Engineer](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration)
 * [2025-07-30, 11:38:35](https://news.ycombinator.com/item?id=44732939) - [Track how much money AIPAC spent to buy Congress](https://www.trackaipac.com)
 * [2025-07-30, 11:38:10](https://news.ycombinator.com/item?id=44732937) - [Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger](https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security)
@@ -12,6 +14,7 @@
 * [2025-07-30, 10:42:11](https://news.ycombinator.com/item?id=44732659) - [Qwen3 30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507)
 * [2025-07-30, 10:31:12](https://news.ycombinator.com/item?id=44732593) - [From XML to JSON to CBOR](https://cborbook.com/introduction/from_xml_to_json_to_cbor.html)
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
+* [2025-07-30, 09:29:38](https://news.ycombinator.com/item?id=44732345) - [PanamaPlaylists – Leaked Tech CEOs Spotify Profiles](https://panamaplaylists.com/)
 * [2025-07-30, 08:37:09](https://news.ycombinator.com/item?id=44732031) - [Seriously, Why Do Some AI Chatbot Subscriptions Cost More Than $200?](https://www.wired.com/story/seriously-why-do-some-ai-chatbot-subscriptions-cost-more-than-200/)
 * [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
 * [2025-07-30, 08:19:46](https://news.ycombinator.com/item?id=44731958) - [Oscar-Winning 'No Other Land' Awdah Hathaleen Killed by Israeli Settler](https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler)
