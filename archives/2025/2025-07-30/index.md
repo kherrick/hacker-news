@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 20:46:49](https://news.ycombinator.com/item?id=44739315) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
 * [2025-07-30, 20:27:57](https://news.ycombinator.com/item?id=44739117) - [Actions Reflect Your Priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)
 * [2025-07-30, 18:55:43](https://news.ycombinator.com/item?id=44738161) - [The Preserving Machine by Philip K. Dick (1953)](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
 * [2025-07-30, 18:52:51](https://news.ycombinator.com/item?id=44738132) - [Scammers Unleash Flood of Slick Online Gaming Sites](https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/)
@@ -41,6 +42,7 @@
 * [2025-07-30, 13:15:35](https://news.ycombinator.com/item?id=44733800) - [I launched 17 side projects. Result? I'm rich in expired domains](https://news.ycombinator.com/item?id=44733800)
 * [2025-07-30, 13:11:06](https://news.ycombinator.com/item?id=44733742) - [Show HN: MoebiusXBIN – ASCII and text-mode art editor with custom font support](https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/)
 * [2025-07-30, 13:09:27](https://news.ycombinator.com/item?id=44733734) - [Making Libcurl Work in WebAssembly](https://jeroen.github.io/notes/webassembly-curl/)
+* [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem solving often a matter of cooking up an appropriate Markov chain (2007)](http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf)
 * [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem Solving Is Often a Matter of Cooking Up an Appropriate Markov Chain](https://www.jstor.org/stable/41548580)
 * [2025-07-30, 12:03:54](https://news.ycombinator.com/item?id=44733119) - [The HTML Hobbyist](https://www.htmlhobbyist.com/)
 * [2025-07-30, 12:01:10](https://news.ycombinator.com/item?id=44733094) - [Blog series on creating an OS in Rust](https://os.phil-opp.com/)

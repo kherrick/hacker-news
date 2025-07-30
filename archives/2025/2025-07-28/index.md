@@ -46,6 +46,7 @@
 * [2025-07-28, 11:48:29](https://news.ycombinator.com/item?id=44709905) - [UK VPN demand soars after debut of Online Safety Act](https://www.theregister.com/2025/07/28/uk_vpn_demand_soars/)
 * [2025-07-28, 11:23:50](https://news.ycombinator.com/item?id=44709727) - [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
 * [2025-07-28, 10:43:36](https://news.ycombinator.com/item?id=44709408) - [Debian isn't waiting for 2038 to blow up, switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)
+* [2025-07-28, 10:26:20](https://news.ycombinator.com/item?id=44709303) - [Hierarchical Reasoning Model – 1k training samples SoTA reasoning v/s CoT](https://github.com/sapientinc/HRM)
 * [2025-07-28, 09:18:17](https://news.ycombinator.com/item?id=44708884) - [Generative AI. \"Slop Generators, are unsuitable for use [ ]\"](https://asahilinux.org/docs/project/policies/slop/)
 * [2025-07-28, 07:50:04](https://news.ycombinator.com/item?id=44708334) - [Hello Sprout](https://daniel.haxx.se/blog/2025/07/28/hello-sprout/)
 * [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
