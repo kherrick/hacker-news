@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-30, 11:38:35](https://news.ycombinator.com/item?id=44732939) - [Track how much money AIPAC spent to buy Congress](https://www.trackaipac.com)
 * [2025-07-30, 11:38:10](https://news.ycombinator.com/item?id=44732937) - [Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger](https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security)
+* [2025-07-30, 11:30:34](https://news.ycombinator.com/item?id=44732893) - [New York Times rolls back claims about viral photo of starving Gaza boy](https://nypost.com/2025/07/29/media/new-york-times-stunningly-rolls-back-claims-about-viral-photo-of-starving-gaza-boy/)
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
 * [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
 * [2025-07-30, 06:37:39](https://news.ycombinator.com/item?id=44731424) - [State Capacity and Eight Parking Spaces](https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/)
@@ -19,7 +19,6 @@
 * [2025-07-29, 16:24:08](https://news.ycombinator.com/item?id=44725306) - [Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
 * [2025-07-29, 16:17:14](https://news.ycombinator.com/item?id=44725202) - [Show HN: I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/)
 * [2025-07-29, 14:59:18](https://news.ycombinator.com/item?id=44724238) - [Irrelevant facts about cats added to math problems increase LLM errors by 300%](https://www.science.org/content/article/scienceadviser-cats-confuse-ai)
-* [2025-07-29, 14:44:00](https://news.ycombinator.com/item?id=44724068) - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
 * [2025-07-29, 14:26:47](https://news.ycombinator.com/item?id=44723818) - [Structuring large Clojure codebases with Biff](https://biffweb.com/p/structuring-large-codebases/)
 * [2025-07-29, 13:58:06](https://news.ycombinator.com/item?id=44723461) - [iPhone 16 cameras vs. traditional digital cameras](https://candid9.com/phone-camera/)
 * [2025-07-29, 13:45:07](https://news.ycombinator.com/item?id=44723316) - [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
@@ -28,6 +27,7 @@
 * [2025-07-27, 04:42:24](https://news.ycombinator.com/item?id=44698946) - [Show HN: Cant, rust nn lib for learning](https://github.com/TuckerBMorgan/can-t)
 * [2025-07-27, 02:43:33](https://news.ycombinator.com/item?id=44698513) - [Show HN: The Aria Programming Language](https://github.com/egranata/aria)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
+* [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
 * [2025-07-25, 23:06:18](https://news.ycombinator.com/item?id=44689565) - [FoundationDB: From idea to Apple acquisition [video]](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
