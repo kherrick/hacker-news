@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44738132"
     ],
     [
-      "Scammers Unleash Flood of Slick Online Gaming Sites",
+      "Scammers unleash flood of online gaming sites",
       "https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44737546"
     ],
     [
-      "Maintaining Weight Loss",
+      "Maintaining weight loss",
       "https://macrofactorapp.com/maintain-weight-loss/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44737474"
     ],
     [
-      "Every Champion Needs a Rival",
+      "Every champion needs a rival",
       "https://tombrady.com/posts/every-champion-needs-a-rival"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44737346"
     ],
     [
-      "The Hype is the Product",
+      "The hype is the product",
       "https://rys.io/en/180.html"
     ]
   ],
@@ -111,12 +111,12 @@
   ],
   [
     [
-      "2025-07-30, 17:00:42",
-      "https://news.ycombinator.com/item?id=44736668"
+      "2025-07-30, 16:59:09",
+      "https://news.ycombinator.com/item?id=44736646"
     ],
     [
-      "What's Not to Like?",
-      "https://theamericanscholar.org/whats-not-to-like/"
+      "Australia widens teen social media ban to YouTube, scraps exemption",
+      "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/"
     ]
   ],
   [
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2025-07-30, 14:51:10",
-      "https://news.ycombinator.com/item?id=44734983"
+      "2025-07-30, 14:15:07",
+      "https://news.ycombinator.com/item?id=44734522"
     ],
     [
-      "Show HN: A High-Altitude Low-Power Flight Computer for High-Altitude Balloons",
-      "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK"
+      "A short post on short trains",
+      "https://shakeddown.substack.com/p/a-short-post-on-short-trains"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-07-30, 13:15:35",
+      "https://news.ycombinator.com/item?id=44733800"
+    ],
+    [
+      "I launched 17 side projects. Result? I'm rich in expired domains",
+      "https://news.ycombinator.com/item?id=44733800"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 12:29:52",
       "https://news.ycombinator.com/item?id=44733341"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2025-07-30, 12:01:10",
-      "https://news.ycombinator.com/item?id=44733094"
+      "2025-07-30, 10:31:12",
+      "https://news.ycombinator.com/item?id=44732593"
     ],
     [
-      "Blog series on creating an OS in Rust",
-      "https://os.phil-opp.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 09:59:09",
-      "https://news.ycombinator.com/item?id=44732464"
-    ],
-    [
-      "A major AI training data set contains millions of examples of personal data",
-      "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/"
+      "From XML to JSON to CBOR",
+      "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html"
     ]
   ],
   [
@@ -271,12 +271,22 @@
   ],
   [
     [
-      "2025-07-27, 12:56:32",
-      "https://news.ycombinator.com/item?id=44701001"
+      "2025-07-27, 10:30:48",
+      "https://news.ycombinator.com/item?id=44700263"
     ],
     [
-      "Hexatetrahedral Rails",
-      "https://blog.julik.nl/2025/07/hexatetrahedral-rails"
+      "Traccar: an open source GPS tracking system",
+      "https://github.com/traccar/traccar"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 05:53:40",
+      "https://news.ycombinator.com/item?id=44699174"
+    ],
+    [
+      ".NET 10 Preview 6 brings JIT improvements, one-shot tool execution",
+      "https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Python dict that can report which keys you did not use",
       "https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 00:35:46",
-      "https://news.ycombinator.com/item?id=44698007"
-    ],
-    [
-      "Show HN: Convert from MIDI file to ASCII tablature (and more)",
-      "https://github.com/scottvr/gtrsnipe/blob/main/README.md"
     ]
   ]
 ]
