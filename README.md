@@ -17,7 +17,7 @@
 * [2025-07-30, 14:15:07](https://news.ycombinator.com/item?id=44734522) - [A short post on short trains](https://shakeddown.substack.com/p/a-short-post-on-short-trains)
 * [2025-07-30, 14:11:36](https://news.ycombinator.com/item?id=44734471) - [Show HN: Open-source alternative to ChatGPT Agents for browsing](https://github.com/trymeka/agent)
 * [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
-* [2025-07-30, 13:24:50](https://news.ycombinator.com/item?id=44733892) - [Show HN: An AI agent that learns your product and guides your users](https://news.ycombinator.com/item?id=44733892)
+* [2025-07-30, 13:24:50](https://news.ycombinator.com/item?id=44733892) - [Show HN: An AI agent that learns your product and guides your users](https://frigade.ai)
 * [2025-07-30, 13:24:10](https://news.ycombinator.com/item?id=44733888) - [Try the Mosquito Bucket of Death](https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
 * [2025-07-30, 13:15:35](https://news.ycombinator.com/item?id=44733800) - [I launched 17 side projects. Result? I'm rich in expired domains](https://news.ycombinator.com/item?id=44733800)
