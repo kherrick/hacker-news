@@ -24,7 +24,7 @@
 * [2025-07-29, 13:45:07](https://news.ycombinator.com/item?id=44723316) - [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
 * [2025-07-29, 11:12:03](https://news.ycombinator.com/item?id=44721791) - [Show HN: Terminal-Bench-RL: Training long-horizon terminal agents with RL](https://github.com/Danau5tin/terminal-bench-rl)
 * [2025-07-28, 22:04:58](https://news.ycombinator.com/item?id=44716280) - [Playing with more user-friendly methods for multi-factor authentication](https://tesseral.com/blog/i-designed-some-more-user-friendly-methods-for-multi-factor-authentication)
-* [2025-07-27, 06:03:05](https://news.ycombinator.com/item?id=44699199) - [Actual Size Online Ruler (Mm,Cm,Inches)](https://anruler.com/)
+* [2025-07-27, 06:03:05](https://news.ycombinator.com/item?id=44699199) - [Online Ruler – Measuring in inches/centimeters](https://anruler.com/)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
 * [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
 * [2025-07-26, 09:59:53](https://news.ycombinator.com/item?id=44692839) - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
