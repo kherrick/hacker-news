@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 15:54:02](https://news.ycombinator.com/item?id=44735843) - [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](https://news.ycombinator.com/item?id=44735843)
 * [2025-07-30, 15:17:17](https://news.ycombinator.com/item?id=44735359) - [Startup failed. Relationship ended. 29 lessons from the wreckage](https://burnedchris.com/blog/29-lessons)
 * [2025-07-30, 15:15:30](https://news.ycombinator.com/item?id=44735334) - [Words about Arrays and Tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
 * [2025-07-30, 14:58:04](https://news.ycombinator.com/item?id=44735081) - [Big Tech Killed the Golden Age of Programming](https://www.taylor.gl/blog/29)
+* [2025-07-30, 14:51:10](https://news.ycombinator.com/item?id=44734983) - [Show HN: A High-Altitude Low-Power Flight Computer for High-Altitude Balloons](https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK)
 * [2025-07-30, 14:12:09](https://news.ycombinator.com/item?id=44734475) - [Opsqueue: Lightweight batch processing queue for heavy loads – now open-source](https://www.channable.com/tech/introducing-opsqueue)
 * [2025-07-30, 13:55:33](https://news.ycombinator.com/item?id=44734263) - [The Rising Cost of Child and Pet Day Care](https://marginalrevolution.com/marginalrevolution/2025/07/the-rising-cost-of-child-and-pet-day-care.html)
 * [2025-07-30, 13:55:25](https://news.ycombinator.com/item?id=44734260) - [NMDA Receptor Antagonists: Slightly More Than You Wanted to Know](https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more)

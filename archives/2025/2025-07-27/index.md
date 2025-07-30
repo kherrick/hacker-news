@@ -66,3 +66,4 @@
 * [2025-07-27, 01:37:24](https://news.ycombinator.com/item?id=44698216) - [The Day Wall Street Was Silent (1979)](https://time.com/archive/6850749/business-the-day-wall-street-was-silent/)
 * [2025-07-27, 01:28:36](https://news.ycombinator.com/item?id=44698185) - [Janet: Lightweight, Expressive, Modern Lisp](https://janet-lang.org)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
+* [2025-07-27, 00:35:46](https://news.ycombinator.com/item?id=44698007) - [Show HN: Convert from MIDI file to ASCII tablature (and more)](https://github.com/scottvr/gtrsnipe/blob/main/README.md)
