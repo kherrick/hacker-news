@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-30, 14:12:09](https://news.ycombinator.com/item?id=44734475) - [Opsqueue: Lightweight batch processing queue for heavy loads – now open-source](https://www.channable.com/tech/introducing-opsqueue)
+* [2025-07-30, 13:55:33](https://news.ycombinator.com/item?id=44734263) - [The Rising Cost of Child and Pet Day Care](https://marginalrevolution.com/marginalrevolution/2025/07/the-rising-cost-of-child-and-pet-day-care.html)
 * [2025-07-30, 13:55:25](https://news.ycombinator.com/item?id=44734260) - [NMDA Receptor Antagonists: Slightly More Than You Wanted to Know](https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more)
 * [2025-07-30, 13:33:37](https://news.ycombinator.com/item?id=44733983) - [Bitmapist: We built an open-source cohorts analytics tool that saved millions](https://www.doist.dev/bitmapist/)
+* [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 * [2025-07-30, 13:24:10](https://news.ycombinator.com/item?id=44733888) - [Try the Mosquito Bucket of Death](https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
-* [2025-07-30, 13:15:35](https://news.ycombinator.com/item?id=44733800) - [I launched 17 side projects. Result? I'm rich in expired domains](https://news.ycombinator.com/item?id=44733800)
 * [2025-07-30, 13:11:06](https://news.ycombinator.com/item?id=44733742) - [Show HN: MoebiusXBIN – ASCII and text-mode art editor with custom font support](https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/)
 * [2025-07-30, 13:09:27](https://news.ycombinator.com/item?id=44733734) - [Making Libcurl Work in WebAssembly](https://jeroen.github.io/notes/webassembly-curl/)
 * [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem Solving Is Often a Matter of Cooking Up an Appropriate Markov Chain](https://www.jstor.org/stable/41548580)
@@ -28,7 +29,6 @@
 * [2025-07-29, 13:58:06](https://news.ycombinator.com/item?id=44723461) - [iPhone 16 cameras vs. traditional digital cameras](https://candid9.com/phone-camera/)
 * [2025-07-27, 18:02:13](https://news.ycombinator.com/item?id=44703210) - [Show HN: Dlg – Zero-cost printf-style debugging for Go](https://github.com/vvvvv/dlg)
 * [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
-* [2025-07-27, 02:43:33](https://news.ycombinator.com/item?id=44698513) - [Show HN: The Aria Programming Language](https://github.com/egranata/aria)
 * [2025-07-27, 02:22:51](https://news.ycombinator.com/item?id=44698413) - [A Python dict that can report which keys you did not use](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)
 
 ## [Archives](archives/index.md)

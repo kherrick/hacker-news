@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
 * [2025-07-30, 14:12:09](https://news.ycombinator.com/item?id=44734475) - [Opsqueue: Lightweight batch processing queue for heavy loads – now open-source](https://www.channable.com/tech/introducing-opsqueue)
+* [2025-07-30, 13:55:33](https://news.ycombinator.com/item?id=44734263) - [The Rising Cost of Child and Pet Day Care](https://marginalrevolution.com/marginalrevolution/2025/07/the-rising-cost-of-child-and-pet-day-care.html)
 * [2025-07-30, 13:55:25](https://news.ycombinator.com/item?id=44734260) - [NMDA Receptor Antagonists: Slightly More Than You Wanted to Know](https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more)
 * [2025-07-30, 13:33:37](https://news.ycombinator.com/item?id=44733983) - [Bitmapist: We built an open-source cohorts analytics tool that saved millions](https://www.doist.dev/bitmapist/)
+* [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 * [2025-07-30, 13:30:07](https://news.ycombinator.com/item?id=44733944) - [The fringe movement punishing officials with fake debt claims](https://www.latimes.com/california/story/2025-07-30/fake-filings-real-consequences-how-paper-terrorism-is-burying-a-state-system-with-bogus-claims)
 * [2025-07-30, 13:24:10](https://news.ycombinator.com/item?id=44733888) - [Try the Mosquito Bucket of Death](https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
