@@ -40,6 +40,7 @@
 * [2025-07-26, 10:14:02](https://news.ycombinator.com/item?id=44692897) - [UK's New Age Verification Requirement Thwarted in the Simplest Way Imaginable](https://gizmodo.com/uks-new-age-verification-requirement-thwarted-in-the-simplest-way-imaginable-2000634637)
 * [2025-07-26, 10:14:02](https://news.ycombinator.com/item?id=44692897) - [The UK’s new age-gating rules are easy to bypass](https://www.theverge.com/analysis/713773/uk-online-safety-act-age-verification-bypass-vpn)
 * [2025-07-26, 10:08:09](https://news.ycombinator.com/item?id=44692876) - [Rust on Every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
+* [2025-07-26, 09:59:53](https://news.ycombinator.com/item?id=44692839) - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
 * [2025-07-26, 09:55:25](https://news.ycombinator.com/item?id=44692827) - [Donate to the Treasury to help pay down the $36.7T public debt](https://www.pay.gov/public/form/start/23779454)
 * [2025-07-26, 09:36:07](https://news.ycombinator.com/item?id=44692718) - [2D to 3D model and 3D print it](https://www.amodeling.com/)
 * [2025-07-26, 09:22:36](https://news.ycombinator.com/item?id=44692665) - [Show HN: (Ask HN) Color Me Same – A New Kind of Logic Game – Pursue It Further?](https://color-me-same.franzai.com/)
