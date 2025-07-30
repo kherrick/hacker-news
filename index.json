@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-07-30, 12:03:54",
-      "https://news.ycombinator.com/item?id=44733119"
-    ],
-    [
-      "The HTML Hobbyist",
-      "https://www.htmlhobbyist.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 10:31:12",
       "https://news.ycombinator.com/item?id=44732593"
     ],
@@ -257,6 +247,16 @@
     [
       "Sleep all comes down to the mitochondria",
       "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 22:05:04",
+      "https://news.ycombinator.com/item?id=44728796"
+    ],
+    [
+      "Poor child process management in Rust terminal apps leads to terminal corruption",
+      "https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management"
     ]
   ],
   [
