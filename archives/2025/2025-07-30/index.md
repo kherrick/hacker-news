@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
 * [2025-07-30, 18:52:51](https://news.ycombinator.com/item?id=44738132) - [Scammers Unleash Flood of Slick Online Gaming Sites](https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/)
+* [2025-07-30, 18:27:56](https://news.ycombinator.com/item?id=44737839) - [Drawing for the New Yorker](https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker)
 * [2025-07-30, 18:27:01](https://news.ycombinator.com/item?id=44737823) - [Polarizing Parsers](https://flak.tedunangst.com/post/polarizing-parsers)
 * [2025-07-30, 18:15:35](https://news.ycombinator.com/item?id=44737676) - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 18:05:29](https://news.ycombinator.com/item?id=44737546) - [Maintaining Weight Loss](https://macrofactorapp.com/maintain-weight-loss/)
