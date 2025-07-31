@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-31, 05:08:56](https://news.ycombinator.com/item?id=44742513) - [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
+* [2025-07-31, 04:40:31](https://news.ycombinator.com/item?id=44742359) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
 * [2025-07-31, 04:16:40](https://news.ycombinator.com/item?id=44742251) - [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 * [2025-07-31, 01:42:58](https://news.ycombinator.com/item?id=44741539) - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
 * [2025-07-31, 01:22:28](https://news.ycombinator.com/item?id=44741442) - [You know what: Microsoft became miserably incompetent in IT](https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/)
@@ -14,7 +15,6 @@
 * [2025-07-30, 18:15:35](https://news.ycombinator.com/item?id=44737676) - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 17:21:17](https://news.ycombinator.com/item?id=44736967) - [Fast](https://www.catherinejue.com/fast)
 * [2025-07-30, 16:59:09](https://news.ycombinator.com/item?id=44736646) - [Australia widens teen social media ban to YouTube, scraps exemption](https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/)
-* [2025-07-30, 16:18:14](https://news.ycombinator.com/item?id=44736176) - [Crush: Glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
 * [2025-07-30, 16:12:32](https://news.ycombinator.com/item?id=44736101) - [Critical vulnerability in AI coding platform Base44 allowing unauthorized access](https://www.wiz.io/blog/critical-vulnerability-base44)
 * [2025-07-30, 16:11:58](https://news.ycombinator.com/item?id=44736090) - [Optician Sans – A free font based on historical eye charts and optotypes](https://optician-sans.com/)
 * [2025-07-30, 15:54:02](https://news.ycombinator.com/item?id=44735843) - [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](https://news.ycombinator.com/item?id=44735843)

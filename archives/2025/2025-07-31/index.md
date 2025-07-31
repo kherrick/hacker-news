@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
 * [2025-07-31, 05:08:56](https://news.ycombinator.com/item?id=44742513) - [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
+* [2025-07-31, 04:40:31](https://news.ycombinator.com/item?id=44742359) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
 * [2025-07-31, 04:16:40](https://news.ycombinator.com/item?id=44742251) - [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 * [2025-07-31, 01:42:58](https://news.ycombinator.com/item?id=44741539) - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
 * [2025-07-31, 01:22:28](https://news.ycombinator.com/item?id=44741442) - [You know what: Microsoft became miserably incompetent in IT](https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/)
