@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 16:11:29](https://news.ycombinator.com/item?id=44747091) - [Hundreds of agencies tap Atherton surveillance system for feds; Fails own rules](https://www.almanacnews.com/investigative-story/2025/07/30/hundreds-of-agencies-tap-athertons-surveillance-system-for-feds-town-fails-to-follow-own-rules/)
+* [2025-07-31, 16:03:16](https://news.ycombinator.com/item?id=44747004) - [How Not to Study a Disease (2023)](https://neurofrontiers.blog/book-review-how-not-to-study-a-disease/)
+* [2025-07-31, 15:57:32](https://news.ycombinator.com/item?id=44746948) - [QUIC for the Kernel](https://lwn.net/Articles/1029851/)
+* [2025-07-31, 15:43:38](https://news.ycombinator.com/item?id=44746821) - [The Future of Programming (2013)](https://worrydream.com/dbx/)
 * [2025-07-31, 15:04:20](https://news.ycombinator.com/item?id=44746443) - [Rotten Apple: Former Israeli Spies Hired by Silicon Valley Giant](https://www.mintpressnews.com/apple-israel-unit-8200-hiring/290226/)
 * [2025-07-31, 15:01:08](https://news.ycombinator.com/item?id=44746415) - [Ursa: A Leaderless, Object Storage–Based Alternative to Kafka](https://streamnative.io/products/ursa)
 * [2025-07-31, 14:55:34](https://news.ycombinator.com/item?id=44746338) - [GCP CloudQuarry: Searching for Secrets in Public GCP Images](https://trufflesecurity.com/blog/guest-post-gcp-cloudquarry-searching-for-secrets-in-public-gcp-images)
