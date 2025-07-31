@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-30, 21:52:10",
-      "https://news.ycombinator.com/item?id=44739927"
+      "2025-07-30, 22:24:58",
+      "https://news.ycombinator.com/item?id=44740222"
     ],
     [
-      "Lyon Is Replacing Windows and Microsoft Office with Linux and OnlyOffice",
-      "https://www.zdnet.com/article/this-city-is-dumping-microsoft-office-and-windows-for-onlyoffice-and-linux-heres-why/"
+      "Figma Announces IPO",
+      "https://www.figma.com/blog/ipo-pricing/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44739315"
     ],
     [
-      "The Math Is Haunted",
+      "The math is haunted",
       "https://overreacted.io/the-math-is-haunted/"
     ]
   ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-07-30, 13:24:10",
-      "https://news.ycombinator.com/item?id=44733888"
-    ],
-    [
-      "Try the Mosquito Bucket of Death",
-      "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 13:17:28",
       "https://news.ycombinator.com/item?id=44733817"
     ],
@@ -231,12 +221,32 @@
   ],
   [
     [
+      "2025-07-30, 12:03:54",
+      "https://news.ycombinator.com/item?id=44733119"
+    ],
+    [
+      "The HTML Hobbyist",
+      "https://www.htmlhobbyist.com/"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 10:31:12",
       "https://news.ycombinator.com/item?id=44732593"
     ],
     [
       "From XML to JSON to CBOR",
       "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 09:59:09",
+      "https://news.ycombinator.com/item?id=44732464"
+    ],
+    [
+      "A major AI training data set contains millions of examples of personal data",
+      "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Poor child process management in Rust terminal apps leads to terminal corruption",
       "https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 22:11:44",
-      "https://news.ycombinator.com/item?id=44716356"
-    ],
-    [
-      "ReproZip – reproducible experiments from command-line executions",
-      "https://github.com/VIDA-NYU/reprozip"
     ]
   ],
   [
