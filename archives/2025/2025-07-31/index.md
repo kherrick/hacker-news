@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 21:04:23](https://news.ycombinator.com/item?id=44750121) - [A Hitchhiker's Guide to the AI Bubble](https://fluxus.io/article/a-hitchhikers-guide-to-the-ai-bubble)
 * [2025-07-31, 20:29:55](https://news.ycombinator.com/item?id=44749772) - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
 * [2025-07-31, 19:54:42](https://news.ycombinator.com/item?id=44749438) - [Radiant Nuclear – Portable Power](https://radiantnuclear.com/)
 * [2025-07-31, 19:34:19](https://news.ycombinator.com/item?id=44749241) - [Show HN: SafeRate – AI chat-native mortgage lender](https://saferate.com/)
