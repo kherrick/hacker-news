@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 17:23:17](https://news.ycombinator.com/item?id=44747870) - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
+* [2025-07-31, 17:21:07](https://news.ycombinator.com/item?id=44747843) - [Secure boot certificate rollover is real but probably won't hurt you](https://mjg59.dreamwidth.org/72892.html)
+* [2025-07-31, 17:17:25](https://news.ycombinator.com/item?id=44747809) - [Introduction to XEphem (Motif)](http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html)
+* [2025-07-31, 17:10:21](https://news.ycombinator.com/item?id=44747728) - [How to Scan Force Pushed Commits for Secrets](https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets)
+* [2025-07-31, 17:08:10](https://news.ycombinator.com/item?id=44747699) - [Show HN: Astro dev blog template with 60 interactive colorschemes](https://multiterm.stelclementine.com)
 * [2025-07-31, 17:00:56](https://news.ycombinator.com/item?id=44747625) - [Kaizen (YC X25) is hiring engineers to build browser agents that work](https://www.kaizenautomation.com/jobs)
+* [2025-07-31, 16:47:54](https://news.ycombinator.com/item?id=44747457) - [Gemini Embedding: Powering RAG and context engineering](https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/)
 * [2025-07-31, 16:27:10](https://news.ycombinator.com/item?id=44747241) - [Make any website load faster with 6 lines of HTML](https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html)
 * [2025-07-31, 16:23:09](https://news.ycombinator.com/item?id=44747204) - [Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code](https://news.ycombinator.com/item?id=44747204)
 * [2025-07-31, 16:20:34](https://news.ycombinator.com/item?id=44747181) - [Restaurant Industry Report from Square](https://squareup.com/us/en/press/summer-restaurant-report-2025)
