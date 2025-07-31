@@ -129,6 +129,173 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44747241">
+          <h3>
+            <a
+              class="item"
+              href="https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html"
+              >Make any website load faster with 6 lines of HTML</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-31 @ 16:27:10</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44747241"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44747204">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44747204"
+              >Launch HN: Gecko Security (YC F24) – AI That Finds
+              Vulnerabilities in Code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-31 @ 16:23:09</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44747204"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.gecko.security">https://www.gecko.security</a
+              >). We're building a new kind of static analysis tool that uses
+              LLMs to find complex business logic and multi-step vulnerabilities
+              that current scanners miss. We’ve used it to find 30+ CVEs in
+              projects like Ollama, Gradio, and Ragflow (<a
+                href="https://www.gecko.security/research"
+                >https://www.gecko.security/research</a
+              >). You can try it yourself on any OSS repo at (<a
+                href="https://app.gecko.security"
+                >https://app.gecko.security</a
+              >).
+              <p>
+                Anyone who’s used SAST (Static Application Security Testing)
+                tools knows the issues of high false positives while missing
+                entire classes of vulnerabilities like AuthN/Z bypasses or
+                privilege escalations. This limitation is a result of their core
+                architecture. By design, SAST tools parse code into a simplistic
+                model like an AST or call graph, which quickly loses context in
+                dynamically typed languages or across microservice boundaries,
+                and limits coverage to only resolving basic call chains. When
+                detecting vulnerabilities they rely on pattern matching with
+                Regex or YAML rules, which can be effective for basic technical
+                classes like (XSS, SQLi) but inadequate for logic flaws that
+                don’t conform to well-known shapes and need long sequences of
+                dependent operations to reach an exploitable state.
+              </p>
+              <p>
+                My co-founder and I saw these limitations throughout our careers
+                in national intelligence and military cyber forces, where we
+                built automated tooling to defend critical infrastructure. We
+                realised that LLMs, with the right architecture, could finally
+                solve them.
+              </p>
+              <p>
+                Vulnerabilities are contextual. What's exploitable depends
+                entirely on each application's security model. We realized
+                accurate detection requires understanding what's supposed to be
+                protected and why breaking it matters. This meant embedding
+                threat modeling directly into our analysis, not treating it as
+                an afterthought.
+              </p>
+              <p>
+                To achieve this, we first had to solve the code parsing problem.
+                Our solution was to build a custom, compiler-accurate indexer
+                inspired by GitHub's stack graphs approach to precisely navigate
+                code, like an IDE. We build on the LSIF approach (<a
+                  href="https://lsif.dev/"
+                  >https://lsif.dev/</a
+                >) but replace the verbose JSON with a compact protobuf schema
+                to serialise symbol definitions and references in a binary
+                format. We use language‑specific tools to parse and type‑check
+                code, emitting a sequence of Protobuf messages that record a
+                symbol’s position, definition, and reference information. By
+                using Protobuf’s efficiency and strong typing, we can produce
+                smaller indexes, but also preserve the compiler‑accurate
+                semantic information required for detecting complex call chains.
+              </p>
+              <p>
+                This is why most "SAST + LLM" tools that use AST parsing fail -
+                they feed LLMs incomplete or incorrect code information from
+                traditional parsers, making it difficult to accurately reason
+                about security issues with missing context.
+              </p>
+              <p>
+                With our indexer providing accurate code structure, we use an
+                LLM to perform threat modeling by analyzing developer intent,
+                data and trust boundaries, and exposed endpoints to generate
+                potential attack scenarios. This is where LLMs' tendency to
+                hallucinate becomes a breakthrough feature.
+              </p>
+              <p>
+                For each potential attack path generated, we perform a
+                systematic search, querying the indexer to gather all necessary
+                context and reconstruct the full call chain from source to sink.
+                To validate the vulnerability we use a Monte Carlo Tree
+                Self-refine (MCTSr) algorithm and a 'win function' to determine
+                the likelihood that a hypothesized attack could work. Once a
+                finding is above a set practicality threshold it is confirmed as
+                a true positive.
+              </p>
+              <p>
+                Using this approach, we discovered vulnerabilities like
+                CVE-2025-51479 in ONYX (an OSS enterprise search platform) where
+                Curators could modify any group instead of just their assigned
+                ones. The user-group API had a user parameter that should check
+                permissions but never used it. Gecko inferred developers
+                intended to restrict Curator access because both the UI and
+                similar API functions properly validated this permission. This
+                established "curators have limited scope" as a security
+                invariant that this specific API violated. Traditional SAST
+                can't detect this. Any rule to flag unused user parameters would
+                drown you in false positives since many functions legitimately
+                keep unused parameters. And more importantly, detecting this
+                requires knowing which functions handle authorization,
+                understanding ONYX's Curator permission model, and recognizing
+                the validation pattern across multiple files - contextual
+                reasoning that SAST simply cannot do.
+              </p>
+              <p>
+                We have several enterprise customers using Gecko because it
+                solves problems they couldn't address with traditional SAST
+                tools. They're seeing 50% fewer false positives on the same
+                codebases and finding vulnerabilities that previously only
+                showed up in manual pentests.
+              </p>
+              <p>
+                Digging into false positives, no static analysis tool will ever
+                achieve perfect accuracy, AI or otherwise. We reduce them at two
+                key points. First, our indexer eliminates any programmatic
+                parsing errors that create incorrect call chains that
+                traditional AST tools are susceptible to. Second, we avoid
+                unwanted LLM hallucinations and reasoning errors by asking
+                specific, contextual questions rather than open-ended ones. The
+                LLM knows which security invariants need to hold and can make
+                deterministic assessments based on the context. When we do flag
+                something, manual review is quick because we provide complete
+                source-to-sink dataflow analysis with proof-of-concept code and
+                output findings based on confidence scores.
+              </p>
+              <p>
+                We’d love to get any feedback from the community, ideas for
+                future direction, or experiences in this space. I’ll be in the
+                comments to respond!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="44747091">
           <h3>
             <a
@@ -142,11 +309,11 @@
             <h4>
               <span>2025-07-31 @ 16:11:29</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44747091"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -163,11 +330,11 @@
             <h4>
               <span>2025-07-31 @ 16:03:16</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44747004"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -182,11 +349,11 @@
             <h4>
               <span>2025-07-31 @ 15:57:32</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44746948"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -201,11 +368,32 @@
             <h4>
               <span>2025-07-31 @ 15:43:38</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44746821"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44746603">
+          <h3>
+            <a
+              class="item"
+              href="https://lazyadmin.nl/home-network/unifi-os-server/"
+              >Ubiquiti Launches UniFi OS Server for Self-Hosting</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-31 @ 15:24:05</span
+              ><span class="points-container"
+                >Points: <span class="points">44</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44746603"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -220,11 +408,11 @@
             <h4>
               <span>2025-07-31 @ 15:01:08</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44746415"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -241,7 +429,7 @@
             <h4>
               <span>2025-07-31 @ 14:55:34</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44746338"
                   >Comments</a
@@ -255,19 +443,18 @@
             <a
               class="item"
               href="https://torrentfreak.com/u-s-senators-introduce-new-pirate-site-blocking-bill-block-beard/"
-              >U.S. Senators Introduce New Pirate Site Blocking Bill: Block
-              Beard</a
+              >U.S. Senators Introduce New Pirate Site Blocking Bill</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-07-31 @ 14:55:16</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44746334"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -301,11 +488,11 @@
             <h4>
               <span>2025-07-31 @ 14:23:40</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44745984"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -322,11 +509,11 @@
             <h4>
               <span>2025-07-31 @ 14:16:07</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44745897"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -341,11 +528,11 @@
             <h4>
               <span>2025-07-31 @ 14:11:29</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44745843"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -360,11 +547,11 @@
             <h4>
               <span>2025-07-31 @ 13:40:22</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44745539"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -400,100 +587,11 @@
             <h4>
               <span>2025-07-31 @ 13:17:35</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44745347"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44745250">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=44745250"
-              >Nova: A New Web Framework for Erlang</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-31 @ 13:06:16</span
-              ><span class="points-container"
-                >Points: <span class="points">47</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44745250"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I'm excited to share Nova, a new web framework built for Erlang,
-                designed to make web development in Erlang simpler, faster, and
-                more approachable. Nova leverages Erlang's concurrency,
-                reliability, and scalability to create a robust yet lightweight
-                framework for building modern web applications.
-              </p>
-              <p>Key features:</p>
-              <p>
-                * Lightweight and modular: Easy to integrate with existing
-                Erlang projects.
-              </p>
-              <p>
-                * Built for concurrency: Harnesses Erlang's actor model for
-                high-performance web apps.
-              </p>
-              <p>
-                * Developer-friendly: Simplifies routing, middleware, and
-                template handling.
-              </p>
-              <p>* Extensible: Supports plugins and custom integrations.</p>
-              <p>
-                Check it out: GitHub:
-                <a href="https://github.com/novaframework/nova"
-                  >https://github.com/novaframework/nova</a
-                >
-                Homepage:
-                <a href="https://novaframework.org"
-                  >https://novaframework.org</a
-                >
-                Getting Started Guide:
-                <a
-                  href="https://dev.to/taure/getting-started-with-nova-1ioo/stats"
-                  >https://dev.to/taure/getting-started-with-nova-1ioo/stats</a
-                >
-              </p>
-              <p>
-                We’re early in development and would love feedback from the
-                community! If you’re an Erlang enthusiast or curious about
-                building web apps with a language known for its reliability
-                (think WhatsApp or RabbitMQ), give Nova a spin and let us know
-                your thoughts.
-              </p>
-              <p>
-                What do you think about using Erlang for web development? Any
-                features you’d love to see in a framework like this?
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="44744927">
-          <h3>
-            <a
-              class="item"
-              href="https://computeradsfromthepast.substack.com/p/altima-nsx"
-              >Altima NSX</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-31 @ 12:25:43</span
-              ><span class="points-container"
-                >Points: <span class="points">22</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44744927"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -529,11 +627,11 @@
             <h4>
               <span>2025-07-31 @ 11:54:22</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">233</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44744715"
                   >Comments</a
-                ><span class="descendants">: 116</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -548,11 +646,11 @@
             <h4>
               <span>2025-07-31 @ 11:37:22</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44744578"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -569,11 +667,11 @@
             <h4>
               <span>2025-07-31 @ 11:19:54</span
               ><span class="points-container"
-                >Points: <span class="points">285</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44744454"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -591,7 +689,7 @@
             <h4>
               <span>2025-07-31 @ 10:57:58</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44744331"
                   >Comments</a
@@ -605,43 +703,44 @@
             <a
               class="item"
               href="https://www.spacebar.news/servo-undercover-web-browser-engine/"
-              >I tried Servo, the undercover web browser engine made with
-              Rust</a
+              >I tried Servo</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-07-31 @ 10:56:21</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44744324"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44744079">
+        <section id="44739494">
           <h3>
             <a
               class="item"
-              href="https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html"
-              >How to trigger a command on Linux when power switches from AC to
-              battery</a
+              href="https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen"
+              >150 years of Hans Christian Andersen</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-07-31 @ 10:03:54</span
+              <span>2025-07-30 @ 21:07:13</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44744079"
+                ><a href="https://news.ycombinator.com/item?id=44739494"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://archive.ph/10l96">https://archive.ph/10l96</a>
+            </div>
           </section>
         </section>
         <section id="44724072">
@@ -660,7 +759,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44724072"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -675,33 +774,11 @@
             <h4>
               <span>2025-07-29 @ 02:15:36</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44718211"
                   >Comments</a
                 ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44716653">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/"
-              >OpenAI's ChatGPT Agent casually clicks through "I am not a robot"
-              verification</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-28 @ 22:46:19</span
-              ><span class="points-container"
-                >Points: <span class="points">182</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44716653"
-                  >Comments</a
-                ><span class="descendants">: 205</span></span
               >
             </h4>
           </section>
@@ -716,11 +793,11 @@
             <h4>
               <span>2025-07-28 @ 14:23:19</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44711163"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -737,11 +814,11 @@
             <h4>
               <span>2025-07-28 @ 13:23:35</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44710651"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -756,11 +833,11 @@
             <h4>
               <span>2025-07-28 @ 12:39:52</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44710256"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -778,7 +855,7 @@
             <h4>
               <span>2025-07-27 @ 17:58:12</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44703180"
                   >Comments</a
