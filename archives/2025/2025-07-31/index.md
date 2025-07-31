@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 19:00:58](https://news.ycombinator.com/item?id=44748934) - [Slow](https://michaelnotebook.com/slow/index.html)
+* [2025-07-31, 18:31:10](https://news.ycombinator.com/item?id=44748634) - [Astronomical Telescope \"Hadley\" – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
 * [2025-07-31, 17:24:34](https://news.ycombinator.com/item?id=44747886) - [Engineering Buy-In](https://venki.dev/notes/engineering-buy-in)
 * [2025-07-31, 17:23:17](https://news.ycombinator.com/item?id=44747870) - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
 * [2025-07-31, 17:21:07](https://news.ycombinator.com/item?id=44747843) - [Secure boot certificate rollover is real but probably won't hurt you](https://mjg59.dreamwidth.org/72892.html)
+* [2025-07-31, 17:17:50](https://news.ycombinator.com/item?id=44747816) - [How Long Before Superintelligence?](https://nickbostrom.com/superintelligence)
 * [2025-07-31, 17:17:25](https://news.ycombinator.com/item?id=44747809) - [Introduction to XEphem (Motif)](http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html)
 * [2025-07-31, 17:10:21](https://news.ycombinator.com/item?id=44747728) - [How to Scan Force Pushed Commits for Secrets](https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets)
 * [2025-07-31, 17:08:10](https://news.ycombinator.com/item?id=44747699) - [Show HN: Astro dev blog template with 60 interactive colorschemes](https://multiterm.stelclementine.com)

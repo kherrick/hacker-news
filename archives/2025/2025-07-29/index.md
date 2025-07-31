@@ -41,6 +41,7 @@
 * [2025-07-29, 16:17:14](https://news.ycombinator.com/item?id=44725202) - [Show HN: I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/)
 * [2025-07-29, 16:07:12](https://news.ycombinator.com/item?id=44725087) - [Microsoft Introduces 'Copilot Mode' in Edge](https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/)
 * [2025-07-29, 15:53:45](https://news.ycombinator.com/item?id=44724898) - [The hit film about overworked nurses that's causing alarm across Europe](https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare)
+* [2025-07-29, 15:49:37](https://news.ycombinator.com/item?id=44724855) - [Show HN: The easiest accessibility (a11y) checker for VSCode](https://github.com/be-lenka/vscode-be-a11y)
 * [2025-07-29, 15:48:15](https://news.ycombinator.com/item?id=44724842) - [The Convenience Trap: Why Seamless Banking Access Can Turn 2FA into 1FA](https://blog.opencore.ch/posts/the-convenience-trap-2fa/)
 * [2025-07-29, 15:21:34](https://news.ycombinator.com/item?id=44724507) - [Advanced Rust macros with derive-deftly](https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/)
 * [2025-07-29, 15:15:24](https://news.ycombinator.com/item?id=44724425) - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
