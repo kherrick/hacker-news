@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-31, 10:57:58",
+      "https://news.ycombinator.com/item?id=44744331"
+    ],
+    [
+      "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning",
+      "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 10:07:19",
       "https://news.ycombinator.com/item?id=44744096"
     ],
@@ -287,16 +297,6 @@
     [
       "Sumo – Simulation of Urban MObility",
       "https://eclipse.dev/sumo/"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 18:52:49",
-      "https://news.ycombinator.com/item?id=44703581"
-    ],
-    [
-      "Open source BOM management (for me)",
-      "https://www.vincentuden.xyz/blog/pcb_management"
     ]
   ]
 ]
