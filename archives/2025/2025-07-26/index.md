@@ -6,6 +6,7 @@
 
 * [2025-07-26, 23:43:26](https://news.ycombinator.com/item?id=44697798) - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
 * [2025-07-26, 23:35:20](https://news.ycombinator.com/item?id=44697761) - [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
+* [2025-07-26, 23:19:59](https://news.ycombinator.com/item?id=44697689) - [We revamped our docs for AI-driven development](https://docs.freestyle.sh/blog/docs-revamp)
 * [2025-07-26, 23:03:26](https://news.ycombinator.com/item?id=44697590) - [Personal aviation is about to get interesting (2023)](https://www.elidourado.com/p/personal-aviation)
 * [2025-07-26, 23:02:17](https://news.ycombinator.com/item?id=44697585) - [Getting into Flow State with Agentic Coding](https://kau.sh/blog/agentic-coding-flow-state/)
 * [2025-07-26, 22:39:19](https://news.ycombinator.com/item?id=44697465) - [Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload](https://arxiv.org/abs/2507.17615)
