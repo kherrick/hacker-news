@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-31, 19:34:19](https://news.ycombinator.com/item?id=44749241) - [Show HN: SafeRate – AI chat-native mortgage lender](https://saferate.com/)
 * [2025-07-31, 19:00:58](https://news.ycombinator.com/item?id=44748934) - [Slow](https://michaelnotebook.com/slow/index.html)
 * [2025-07-31, 18:31:10](https://news.ycombinator.com/item?id=44748634) - [Astronomical Telescope \"Hadley\" – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
 * [2025-07-31, 17:23:17](https://news.ycombinator.com/item?id=44747870) - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
@@ -24,7 +25,6 @@
 * [2025-07-31, 10:56:21](https://news.ycombinator.com/item?id=44744324) - [I tried Servo](https://www.spacebar.news/servo-undercover-web-browser-engine/)
 * [2025-07-30, 21:07:13](https://news.ycombinator.com/item?id=44739494) - [150 years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen)
 * [2025-07-30, 14:44:13](https://news.ycombinator.com/item?id=44734891) - [Show HN: Sourcebot – Self-hosted Perplexity for your codebase](https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0)
-* [2025-07-29, 15:49:37](https://news.ycombinator.com/item?id=44724855) - [Show HN: The easiest accessibility (a11y) checker for VSCode](https://github.com/be-lenka/vscode-be-a11y)
 * [2025-07-29, 15:21:34](https://news.ycombinator.com/item?id=44724507) - [Advanced Rust macros with derive-deftly](https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/)
 * [2025-07-29, 02:15:36](https://news.ycombinator.com/item?id=44718211) - [Zig Profiling on Apple Silicon](https://blog.bugsiki.dev/posts/zig-profilers/)
 * [2025-07-28, 13:23:35](https://news.ycombinator.com/item?id=44710651) - [Face it: you're a crazy person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
