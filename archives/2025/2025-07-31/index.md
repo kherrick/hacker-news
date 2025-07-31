@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 17:24:34](https://news.ycombinator.com/item?id=44747886) - [Engineering Buy-In](https://venki.dev/notes/engineering-buy-in)
 * [2025-07-31, 17:23:17](https://news.ycombinator.com/item?id=44747870) - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
 * [2025-07-31, 17:21:07](https://news.ycombinator.com/item?id=44747843) - [Secure boot certificate rollover is real but probably won't hurt you](https://mjg59.dreamwidth.org/72892.html)
 * [2025-07-31, 17:17:25](https://news.ycombinator.com/item?id=44747809) - [Introduction to XEphem (Motif)](http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html)

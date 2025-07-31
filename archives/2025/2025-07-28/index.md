@@ -46,6 +46,7 @@
 * [2025-07-28, 14:01:51](https://news.ycombinator.com/item?id=44710965) - [Windows 11 is a minefield of micro-aggressions in the shipping lane of progressl](https://www.theregister.com/2025/07/28/windows_11_is_a_minefield/)
 * [2025-07-28, 13:36:28](https://news.ycombinator.com/item?id=44710750) - [The 1970s psychology experiment behind 'Star Wars' special effects (2023)](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
 * [2025-07-28, 13:23:35](https://news.ycombinator.com/item?id=44710651) - [Face it: you're a crazy person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
+* [2025-07-28, 13:23:14](https://news.ycombinator.com/item?id=44710647) - [Ferrari Status](https://collabfund.com/blog/ferrari-status/)
 * [2025-07-28, 13:10:00](https://news.ycombinator.com/item?id=44710533) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 * [2025-07-28, 13:02:49](https://news.ycombinator.com/item?id=44710461) - [Ferroelectric helps break transistor limits](https://spectrum.ieee.org/negative-capacitance-schottky-limit)
 * [2025-07-28, 12:39:52](https://news.ycombinator.com/item?id=44710256) - [Sumo – Simulation of Urban MObility](https://eclipse.dev/sumo/)
