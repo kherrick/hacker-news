@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-31, 10:57:58](https://news.ycombinator.com/item?id=44744331) - [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution)
 * [2025-07-31, 10:07:19](https://news.ycombinator.com/item?id=44744096) - [GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban](https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/)
 * [2025-07-31, 05:54:04](https://news.ycombinator.com/item?id=44742710) - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
 * [2025-07-31, 04:40:31](https://news.ycombinator.com/item?id=44742359) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
@@ -29,7 +30,6 @@
 * [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource (2020)](https://www.benkuhn.net/attention/)
 * [2025-07-28, 22:46:19](https://news.ycombinator.com/item?id=44716653) - [OpenAI's ChatGPT Agent casually clicks through \"I am not a robot\" verification](https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/)
 * [2025-07-28, 12:39:52](https://news.ycombinator.com/item?id=44710256) - [Sumo – Simulation of Urban MObility](https://eclipse.dev/sumo/)
-* [2025-07-27, 18:52:49](https://news.ycombinator.com/item?id=44703581) - [Open source BOM management (for me)](https://www.vincentuden.xyz/blog/pcb_management)
 
 ## [Archives](archives/index.md)
 
