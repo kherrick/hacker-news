@@ -30,6 +30,7 @@
 * [2025-07-28, 18:07:23](https://news.ycombinator.com/item?id=44713566) - [Say Goodbye to the Internet as We Know It](https://europeanconservative.com/articles/commentary/say-goodbye-to-the-internet-as-we-know-it/)
 * [2025-07-28, 17:53:52](https://news.ycombinator.com/item?id=44713414) - [Visa and Mastercard are getting overwhelmed by gamer fury over censorship](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
 * [2025-07-28, 17:04:46](https://news.ycombinator.com/item?id=44712831) - [The Rise of Vibeinsecurity](https://vibeinsecurity.com/)
+* [2025-07-28, 16:53:55](https://news.ycombinator.com/item?id=44712711) - [Build a confetti bot with a Raspberry Pi (2023)](https://docs.viam.com/tutorials/get-started/confetti-bot/)
 * [2025-07-28, 16:31:49](https://news.ycombinator.com/item?id=44712459) - [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)
 * [2025-07-28, 16:19:03](https://news.ycombinator.com/item?id=44712315) - [Six Principles for Production AI Agents](https://www.app.build/blog/six-principles-production-ai-agents)
 * [2025-07-28, 16:18:49](https://news.ycombinator.com/item?id=44712311) - [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)

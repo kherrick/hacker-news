@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 19:54:42](https://news.ycombinator.com/item?id=44749438) - [Radiant Nuclear – Portable Power](https://radiantnuclear.com/)
 * [2025-07-31, 19:34:19](https://news.ycombinator.com/item?id=44749241) - [Show HN: SafeRate – AI chat-native mortgage lender](https://saferate.com/)
 * [2025-07-31, 19:00:58](https://news.ycombinator.com/item?id=44748934) - [Slow](https://michaelnotebook.com/slow/index.html)
 * [2025-07-31, 18:31:10](https://news.ycombinator.com/item?id=44748634) - [Astronomical Telescope \"Hadley\" – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
@@ -39,6 +40,7 @@
 * [2025-07-31, 14:08:33](https://news.ycombinator.com/item?id=44745820) - [Show HN: AgentMail – Email infra for AI agents](https://chat.agentmail.to/)
 * [2025-07-31, 14:03:04](https://news.ycombinator.com/item?id=44745766) - [Stack Overflow data reveals the hidden productivity tax of almost right AI code](https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/)
 * [2025-07-31, 13:43:22](https://news.ycombinator.com/item?id=44745571) - [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
+* [2025-07-31, 13:41:45](https://news.ycombinator.com/item?id=44745555) - [Releasing open weights for FLUX.1 Krea](https://www.krea.ai/blog/flux-krea-open-source-release)
 * [2025-07-31, 13:40:22](https://news.ycombinator.com/item?id=44745539) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
 * [2025-07-31, 13:32:40](https://news.ycombinator.com/item?id=44745465) - [Turbulence forces Delta plane to make emergency landing, 25 passengers injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
 * [2025-07-31, 13:22:22](https://news.ycombinator.com/item?id=44745383) - [GenosDB (GDB) – Decentralized P2P Graph Database](https://www.npmjs.com/package/genosdb)
