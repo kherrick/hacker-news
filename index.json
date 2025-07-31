@@ -1,12 +1,72 @@
 [
   [
     [
+      "2025-07-31, 17:23:17",
+      "https://news.ycombinator.com/item?id=44747870"
+    ],
+    [
+      "Go Assembly Mutation Testing",
+      "https://words.filippo.io/assembly-mutation/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 17:21:07",
+      "https://news.ycombinator.com/item?id=44747843"
+    ],
+    [
+      "Secure boot certificate rollover is real but probably won't hurt you",
+      "https://mjg59.dreamwidth.org/72892.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 17:17:25",
+      "https://news.ycombinator.com/item?id=44747809"
+    ],
+    [
+      "Introduction to XEphem (Motif)",
+      "http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 17:10:21",
+      "https://news.ycombinator.com/item?id=44747728"
+    ],
+    [
+      "How to Scan Force Pushed Commits for Secrets",
+      "https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 17:08:10",
+      "https://news.ycombinator.com/item?id=44747699"
+    ],
+    [
+      "Show HN: Astro dev blog template with 60 interactive colorschemes",
+      "https://multiterm.stelclementine.com"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 17:00:56",
       "https://news.ycombinator.com/item?id=44747625"
     ],
     [
       "Kaizen (YC X25) is hiring engineers to build browser agents that work",
       "https://www.kaizenautomation.com/jobs"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 16:47:54",
+      "https://news.ycombinator.com/item?id=44747457"
+    ],
+    [
+      "Gemini Embedding: Powering RAG and context engineering",
+      "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/"
     ]
   ],
   [
@@ -27,26 +87,6 @@
     [
       "Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code",
       "https://news.ycombinator.com/item?id=44747204"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 16:20:34",
-      "https://news.ycombinator.com/item?id=44747181"
-    ],
-    [
-      "Restaurant Industry Report from Square",
-      "https://squareup.com/us/en/press/summer-restaurant-report-2025"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 16:11:29",
-      "https://news.ycombinator.com/item?id=44747091"
-    ],
-    [
-      "Hundreds of agencies tap Atherton surveillance system for feds; Fails own rules",
-      "https://www.almanacnews.com/investigative-story/2025/07/30/hundreds-of-agencies-tap-athertons-surveillance-system-for-feds-town-fails-to-follow-own-rules/"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2025-07-31, 14:55:34",
-      "https://news.ycombinator.com/item?id=44746338"
-    ],
-    [
-      "GCP CloudQuarry: Searching for Secrets in Public GCP Images",
-      "https://trufflesecurity.com/blog/guest-post-gcp-cloudquarry-searching-for-secrets-in-public-gcp-images"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 14:55:16",
       "https://news.ycombinator.com/item?id=44746334"
     ],
@@ -147,16 +177,6 @@
     [
       "MacBook Pro Insomnia",
       "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 14:11:29",
-      "https://news.ycombinator.com/item?id=44745843"
-    ],
-    [
-      "Orion Browser by Kagi",
-      "https://kagi.com/orion/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Face it: you're a crazy person",
       "https://www.experimental-history.com/p/face-it-youre-a-crazy-person"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 12:39:52",
-      "https://news.ycombinator.com/item?id=44710256"
-    ],
-    [
-      "Sumo – Simulation of Urban Mobility",
-      "https://eclipse.dev/sumo/"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 17:58:12",
-      "https://news.ycombinator.com/item?id=44703180"
-    ],
-    [
-      "Profiling without Source code – how I diagnosed Trackmania stuttering",
-      "https://larstofus.com/2025/07/27/profiling-without-source-code-how-i-diagnosed-trackmania-stuttering/"
     ]
   ]
 ]
