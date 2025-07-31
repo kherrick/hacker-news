@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-31, 05:08:56",
+      "https://news.ycombinator.com/item?id=44742513"
+    ],
+    [
+      "Stargate Norway",
+      "https://openai.com/index/introducing-stargate-norway/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 04:16:40",
+      "https://news.ycombinator.com/item?id=44742251"
+    ],
+    [
+      "I Know When You're Vibe Coding",
+      "https://alexkondov.com/i-know-when-youre-vibe-coding/"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 01:42:58",
       "https://news.ycombinator.com/item?id=44741539"
     ],
     [
       "Classic Common Desktop Environment coming to OpenBSD",
       "https://undeadly.org/cgi?action=article;sid=20250730080301"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 01:22:28",
+      "https://news.ycombinator.com/item?id=44741442"
+    ],
+    [
+      "You know what: Microsoft became miserably incompetent in IT",
+      "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Figma will IPO on July 31",
       "https://www.figma.com/blog/ipo-pricing/"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 22:21:03",
-      "https://news.ycombinator.com/item?id=44740185"
-    ],
-    [
-      "Pentagon Pizza Index",
-      "https://www.pizzint.watch/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "The math is haunted",
       "https://overreacted.io/the-math-is-haunted/"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 18:55:43",
-      "https://news.ycombinator.com/item?id=44738161"
-    ],
-    [
-      "The Preserving Machine by Philip K. Dick (1953)",
-      "https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-07-30, 13:24:50",
-      "https://news.ycombinator.com/item?id=44733892"
-    ],
-    [
-      "Show HN: An AI agent that learns your product and guides your users",
-      "https://frigade.ai"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 13:17:28",
       "https://news.ycombinator.com/item?id=44733817"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-07-27, 16:32:46",
-      "https://news.ycombinator.com/item?id=44702478"
+      "2025-07-27, 18:52:49",
+      "https://news.ycombinator.com/item?id=44703581"
     ],
     [
-      "Ultra-Rapid Vision in Birds",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099"
+      "Open source BOM management (for me)",
+      "https://www.vincentuden.xyz/blog/pcb_management"
     ]
   ]
 ]
