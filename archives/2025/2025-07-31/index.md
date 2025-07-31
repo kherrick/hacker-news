@@ -5,8 +5,13 @@
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
 * [2025-07-31, 15:04:20](https://news.ycombinator.com/item?id=44746443) - [Rotten Apple: Former Israeli Spies Hired by Silicon Valley Giant](https://www.mintpressnews.com/apple-israel-unit-8200-hiring/290226/)
+* [2025-07-31, 15:01:08](https://news.ycombinator.com/item?id=44746415) - [Ursa: A Leaderless, Object Storage–Based Alternative to Kafka](https://streamnative.io/products/ursa)
+* [2025-07-31, 14:55:34](https://news.ycombinator.com/item?id=44746338) - [GCP CloudQuarry: Searching for Secrets in Public GCP Images](https://trufflesecurity.com/blog/guest-post-gcp-cloudquarry-searching-for-secrets-in-public-gcp-images)
+* [2025-07-31, 14:55:16](https://news.ycombinator.com/item?id=44746334) - [U.S. Senators Introduce New Pirate Site Blocking Bill: Block Beard](https://torrentfreak.com/u-s-senators-introduce-new-pirate-site-blocking-bill-block-beard/)
 * [2025-07-31, 14:54:33](https://news.ycombinator.com/item?id=44746326) - [Do PE firms create value? How?](https://www.gain.pro/insight-reports/value-creation)
+* [2025-07-31, 14:54:27](https://news.ycombinator.com/item?id=44746321) - [Magentic-UI: Towards Human-in-the-Loop Agentic Systems](https://arxiv.org/abs/2507.22358)
 * [2025-07-31, 14:49:18](https://news.ycombinator.com/item?id=44746272) - [Italy Armed to the Teeth: My Top Nine Poliziotteschi](https://multiglom.com/2020/04/12/italy-armed-to-the-teeth-my-top-ten-poliziotteschi/)
+* [2025-07-31, 14:23:40](https://news.ycombinator.com/item?id=44745984) - [Carbon Language: An experimental successor to C++](https://docs.carbon-lang.dev/)
 * [2025-07-31, 14:16:07](https://news.ycombinator.com/item?id=44745897) - [MacBook Pro Insomnia](https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia)
 * [2025-07-31, 14:03:04](https://news.ycombinator.com/item?id=44745766) - [Stack Overflow data reveals the hidden productivity tax of almost right AI code](https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/)
 * [2025-07-31, 13:43:22](https://news.ycombinator.com/item?id=44745571) - [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
