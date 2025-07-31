@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-31, 19:00:58",
+      "https://news.ycombinator.com/item?id=44748934"
+    ],
+    [
+      "Slow",
+      "https://michaelnotebook.com/slow/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 18:31:10",
+      "https://news.ycombinator.com/item?id=44748634"
+    ],
+    [
+      "Astronomical Telescope \"Hadley\" – an easy assembly, high performance Newtonian",
+      "https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 17:23:17",
       "https://news.ycombinator.com/item?id=44747870"
     ],
@@ -17,6 +37,16 @@
     [
       "Secure boot certificate rollover is real but probably won't hurt you",
       "https://mjg59.dreamwidth.org/72892.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 17:17:50",
+      "https://news.ycombinator.com/item?id=44747816"
+    ],
+    [
+      "How Long Before Superintelligence?",
+      "https://nickbostrom.com/superintelligence"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Gemini Embedding: Powering RAG and context engineering",
       "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 16:27:10",
-      "https://news.ycombinator.com/item?id=44747241"
-    ],
-    [
-      "The Chrome Speculation Rules API allows the browser to preload and prerender",
-      "https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-07-31, 14:11:29",
-      "https://news.ycombinator.com/item?id=44745843"
-    ],
-    [
-      "Orion Browser",
-      "https://kagi.com/orion/"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 14:08:33",
       "https://news.ycombinator.com/item?id=44745820"
     ],
@@ -197,16 +207,6 @@
     [
       "NSW Fair Trading – Dark Patterns",
       "https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 12:48:48",
-      "https://news.ycombinator.com/item?id=44745123"
-    ],
-    [
-      "So you're a manager now",
-      "https://scottkosman.com/post/blog/so-youre-a-manager-now/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2025-07-30, 21:07:13",
-      "https://news.ycombinator.com/item?id=44739494"
-    ],
-    [
-      "150 years of Hans Christian Andersen",
-      "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 14:44:13",
       "https://news.ycombinator.com/item?id=44734891"
     ],
     [
       "Show HN: Sourcebot – Self-hosted Perplexity for your codebase",
       "https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 15:49:37",
+      "https://news.ycombinator.com/item?id=44724855"
+    ],
+    [
+      "Show HN: The easiest accessibility (a11y) checker for VSCode",
+      "https://github.com/be-lenka/vscode-be-a11y"
     ]
   ],
   [
