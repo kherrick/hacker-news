@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-07-31, 17:24:34",
-      "https://news.ycombinator.com/item?id=44747886"
-    ],
-    [
-      "Engineering Buy-In",
-      "https://venki.dev/notes/engineering-buy-in"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 17:23:17",
       "https://news.ycombinator.com/item?id=44747870"
     ],
@@ -31,16 +21,6 @@
   ],
   [
     [
-      "2025-07-31, 17:17:25",
-      "https://news.ycombinator.com/item?id=44747809"
-    ],
-    [
-      "Introduction to XEphem (Motif)",
-      "http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 17:10:21",
       "https://news.ycombinator.com/item?id=44747728"
     ],
@@ -57,6 +37,16 @@
     [
       "Show HN: Astro dev blog template with 60 interactive colorschemes",
       "https://multiterm.stelclementine.com"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 17:01:37",
+      "https://news.ycombinator.com/item?id=44747634"
+    ],
+    [
+      "AI Is a Floor Raiser, Not a Ceiling Raiser",
+      "https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html"
     ]
   ],
   [
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2025-07-31, 16:25:51",
+      "https://news.ycombinator.com/item?id=44747229"
+    ],
+    [
+      "Show HN: Mcp-use – Connect any LLM to any MCP",
+      "https://github.com/mcp-use/mcp-use"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 16:23:09",
       "https://news.ycombinator.com/item?id=44747204"
     ],
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-07-31, 15:43:38",
-      "https://news.ycombinator.com/item?id=44746821"
-    ],
-    [
-      "The Future of Programming (2013)",
-      "https://worrydream.com/dbx/"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 15:24:05",
       "https://news.ycombinator.com/item?id=44746603"
     ],
@@ -135,18 +125,18 @@
       "https://news.ycombinator.com/item?id=44746415"
     ],
     [
-      "Ursa: A Leaderless, Object Storage–Based Alternative to Kafka",
+      "Ursa: A leaderless, object storage–based alternative to Kafka",
       "https://streamnative.io/products/ursa"
     ]
   ],
   [
     [
-      "2025-07-31, 14:54:27",
-      "https://news.ycombinator.com/item?id=44746321"
+      "2025-07-31, 14:55:16",
+      "https://news.ycombinator.com/item?id=44746334"
     ],
     [
-      "Magentic-UI: Towards Human-in-the-Loop Agentic Systems",
-      "https://arxiv.org/abs/2507.22358"
+      "U.S. senators introduce new pirate site blocking bill, \"Block BEARD\"",
+      "https://torrentfreak.com/u-s-senators-introduce-new-pirate-site-blocking-bill-block-beard/"
     ]
   ],
   [
@@ -171,6 +161,36 @@
   ],
   [
     [
+      "2025-07-31, 14:11:29",
+      "https://news.ycombinator.com/item?id=44745843"
+    ],
+    [
+      "Orion Browser",
+      "https://kagi.com/orion/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 14:08:33",
+      "https://news.ycombinator.com/item?id=44745820"
+    ],
+    [
+      "Show HN: AgentMail – Email infra for AI agents",
+      "https://chat.agentmail.to/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 13:40:22",
+      "https://news.ycombinator.com/item?id=44745539"
+    ],
+    [
+      "What is gVisor?",
+      "https://blog.yelinaung.com/posts/gvisor/"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 13:17:35",
       "https://news.ycombinator.com/item?id=44745347"
     ],
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2025-07-31, 11:54:22",
-      "https://news.ycombinator.com/item?id=44744715"
+      "2025-07-31, 12:48:48",
+      "https://news.ycombinator.com/item?id=44745123"
     ],
     [
-      "Many countries that said no to ChatControl in 2024 are now undecided",
-      "https://digitalcourage.social/@echo_pbreyer/114946559233051667"
+      "So you're a manager now",
+      "https://scottkosman.com/post/blog/so-youre-a-manager-now/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-07-31, 10:57:58",
-      "https://news.ycombinator.com/item?id=44744331"
-    ],
-    [
-      "GEPA: Reflective prompt evolution can outperform reinforcement learning",
-      "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 10:56:21",
       "https://news.ycombinator.com/item?id=44744324"
     ],
@@ -237,6 +247,16 @@
     [
       "150 years of Hans Christian Andersen",
       "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 14:44:13",
+      "https://news.ycombinator.com/item?id=44734891"
+    ],
+    [
+      "Show HN: Sourcebot – Self-hosted Perplexity for your codebase",
+      "https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-07-28, 14:23:19",
-      "https://news.ycombinator.com/item?id=44711163"
-    ],
-    [
-      "Following Up on the Python JIT",
-      "https://lwn.net/Articles/1029307/"
-    ]
-  ],
-  [
-    [
       "2025-07-28, 13:23:35",
       "https://news.ycombinator.com/item?id=44710651"
     ],
@@ -287,16 +297,6 @@
     [
       "Ferrari Status",
       "https://collabfund.com/blog/ferrari-status/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 12:39:52",
-      "https://news.ycombinator.com/item?id=44710256"
-    ],
-    [
-      "Sumo – Simulation of Urban Mobility",
-      "https://eclipse.dev/sumo/"
     ]
   ]
 ]
