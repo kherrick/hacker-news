@@ -29,6 +29,7 @@
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-29, 18:20:11](https://news.ycombinator.com/item?id=44726672) - [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
 * [2025-07-29, 18:09:58](https://news.ycombinator.com/item?id=44726551) - [Linux 6.16 brings faster file systems, improved confidential memory, & more Rust](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)
+* [2025-07-29, 17:51:22](https://news.ycombinator.com/item?id=44726347) - [Programmers aren’t so humble anymore, maybe because nobody codes in Perl](https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/)
 * [2025-07-29, 17:44:58](https://news.ycombinator.com/item?id=44726280) - [A Periodic Table of System Design Principles](https://github.com/jarulraj/periodic-table)
 * [2025-07-29, 17:20:42](https://news.ycombinator.com/item?id=44726000) - [Futurehome smart hub owners must pay new $117 subscription or lose access](https://arstechnica.com/gadgets/2025/07/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service/)
 * [2025-07-29, 17:17:58](https://news.ycombinator.com/item?id=44725966) - [ACM Transitions to Full Open Access](https://www.acm.org/publications/openaccess)
