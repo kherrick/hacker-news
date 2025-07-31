@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-31, 01:42:58](https://news.ycombinator.com/item?id=44741539) - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
-* [2025-07-31, 01:02:13](https://news.ycombinator.com/item?id=44741314) - [Paradise Lost](https://alexandermigdal.com/paradise-lost/)
 * [2025-07-31, 01:01:02](https://news.ycombinator.com/item?id=44741305) - [Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 * [2025-07-30, 22:24:58](https://news.ycombinator.com/item?id=44740222) - [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
 * [2025-07-30, 22:21:03](https://news.ycombinator.com/item?id=44740185) - [Pentagon Pizza Index](https://www.pizzint.watch/)
@@ -28,6 +27,7 @@
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
 * [2025-07-29, 22:05:04](https://news.ycombinator.com/item?id=44728796) - [Fixing Ctrl+C in Rust terminal apps: Child process management](https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management)
 * [2025-07-28, 13:02:49](https://news.ycombinator.com/item?id=44710461) - [Ferroelectric helps break transistor limits](https://spectrum.ieee.org/negative-capacitance-schottky-limit)
+* [2025-07-27, 21:13:52](https://news.ycombinator.com/item?id=44704742) - [Show HN: Open-source physical rack-mounted GUI for home lab](https://www.getubo.com/post/gui-for-raspberry-pi-inside-mini-racks)
 * [2025-07-27, 16:32:46](https://news.ycombinator.com/item?id=44702478) - [Ultra-Rapid Vision in Birds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099)
 * [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
 
