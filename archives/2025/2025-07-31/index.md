@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 21:47:27](https://news.ycombinator.com/item?id=44750563) - [\"No Tax on Tips\" Is an Industry Plant](https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant)
+* [2025-07-31, 21:41:55](https://news.ycombinator.com/item?id=44750516) - [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython)
 * [2025-07-31, 21:28:07](https://news.ycombinator.com/item?id=44750416) - [The Anti-Abundance Critique on Housing Is Dead Wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
 * [2025-07-31, 21:04:23](https://news.ycombinator.com/item?id=44750121) - [A Hitchhiker's Guide to the AI Bubble](https://fluxus.io/article/a-hitchhikers-guide-to-the-ai-bubble)
 * [2025-07-31, 20:29:55](https://news.ycombinator.com/item?id=44749772) - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
