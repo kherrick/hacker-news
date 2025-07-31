@@ -9,7 +9,6 @@
 * [2025-07-31, 16:47:54](https://news.ycombinator.com/item?id=44747457) - [Gemini Embedding: Powering RAG and context engineering](https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/)
 * [2025-07-31, 16:27:10](https://news.ycombinator.com/item?id=44747241) - [Make any website load faster with 6 lines of HTML](https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html)
 * [2025-07-31, 16:23:09](https://news.ycombinator.com/item?id=44747204) - [Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code](https://news.ycombinator.com/item?id=44747204)
-* [2025-07-31, 16:03:16](https://news.ycombinator.com/item?id=44747004) - [How Not to Study a Disease (2023)](https://neurofrontiers.blog/book-review-how-not-to-study-a-disease/)
 * [2025-07-31, 15:57:32](https://news.ycombinator.com/item?id=44746948) - [QUIC for the Kernel](https://lwn.net/Articles/1029851/)
 * [2025-07-31, 15:43:38](https://news.ycombinator.com/item?id=44746821) - [The Future of Programming (2013)](https://worrydream.com/dbx/)
 * [2025-07-31, 15:24:05](https://news.ycombinator.com/item?id=44746603) - [Ubiquiti Launches UniFi OS Server for Self-Hosting](https://lazyadmin.nl/home-network/unifi-os-server/)
@@ -30,6 +29,7 @@
 * [2025-07-29, 02:15:36](https://news.ycombinator.com/item?id=44718211) - [Zig Profiling on Apple Silicon](https://blog.bugsiki.dev/posts/zig-profilers/)
 * [2025-07-28, 14:23:19](https://news.ycombinator.com/item?id=44711163) - [Following Up on the Python JIT](https://lwn.net/Articles/1029307/)
 * [2025-07-28, 13:23:35](https://news.ycombinator.com/item?id=44710651) - [Face it: you're a crazy person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
+* [2025-07-28, 12:39:52](https://news.ycombinator.com/item?id=44710256) - [Sumo – Simulation of Urban Mobility](https://eclipse.dev/sumo/)
 
 ## [Archives](archives/index.md)
 
