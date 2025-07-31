@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 23:12:19](https://news.ycombinator.com/item?id=44751258) - [Comprehensive Overview of the Identity Management Ecosystem in 2025](https://guptadeepak.com/understanding-the-complete-identity-management-ecosystem/)
+* [2025-07-31, 22:58:36](https://news.ycombinator.com/item?id=44751155) - [Crafting your own Static Site Generator using Phoenix (2023)](https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/)
 * [2025-07-31, 21:47:27](https://news.ycombinator.com/item?id=44750563) - [\"No Tax on Tips\" Is an Industry Plant](https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant)
 * [2025-07-31, 21:41:55](https://news.ycombinator.com/item?id=44750516) - [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython)
 * [2025-07-31, 21:28:07](https://news.ycombinator.com/item?id=44750416) - [The Anti-Abundance Critique on Housing Is Dead Wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
