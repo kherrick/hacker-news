@@ -46,6 +46,7 @@
 * [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
 * [2025-07-29, 15:00:02](https://news.ycombinator.com/item?id=44724248) - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
 * [2025-07-29, 14:59:18](https://news.ycombinator.com/item?id=44724238) - [Irrelevant facts about cats added to math problems increase LLM errors by 300%](https://www.science.org/content/article/scienceadviser-cats-confuse-ai)
+* [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource](https://www.benkuhn.net/attention/)
 * [2025-07-29, 14:46:15](https://news.ycombinator.com/item?id=44724088) - [Claude Finds Contradictions in My Thinking](https://angadh.com/contradictions-1)
 * [2025-07-29, 14:44:00](https://news.ycombinator.com/item?id=44724068) - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
 * [2025-07-29, 14:30:23](https://news.ycombinator.com/item?id=44723876) - [2025 Stack Overflow Developer Survey Results](https://survey.stackoverflow.co/2025)
