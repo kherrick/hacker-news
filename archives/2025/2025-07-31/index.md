@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 15:04:20](https://news.ycombinator.com/item?id=44746443) - [Rotten Apple: Former Israeli Spies Hired by Silicon Valley Giant](https://www.mintpressnews.com/apple-israel-unit-8200-hiring/290226/)
+* [2025-07-31, 14:54:33](https://news.ycombinator.com/item?id=44746326) - [Do PE firms create value? How?](https://www.gain.pro/insight-reports/value-creation)
+* [2025-07-31, 14:49:18](https://news.ycombinator.com/item?id=44746272) - [Italy Armed to the Teeth: My Top Nine Poliziotteschi](https://multiglom.com/2020/04/12/italy-armed-to-the-teeth-my-top-ten-poliziotteschi/)
 * [2025-07-31, 14:16:07](https://news.ycombinator.com/item?id=44745897) - [MacBook Pro Insomnia](https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia)
 * [2025-07-31, 14:03:04](https://news.ycombinator.com/item?id=44745766) - [Stack Overflow data reveals the hidden productivity tax of almost right AI code](https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/)
 * [2025-07-31, 13:43:22](https://news.ycombinator.com/item?id=44745571) - [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
 * [2025-07-31, 13:40:22](https://news.ycombinator.com/item?id=44745539) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
 * [2025-07-31, 13:32:40](https://news.ycombinator.com/item?id=44745465) - [Turbulence forces Delta plane to make emergency landing, 25 passengers injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
 * [2025-07-31, 13:22:22](https://news.ycombinator.com/item?id=44745383) - [GenosDB (GDB) – Decentralized P2P Graph Database](https://www.npmjs.com/package/genosdb)
+* [2025-07-31, 13:17:35](https://news.ycombinator.com/item?id=44745347) - [NSW Fair Trading – Dark Patterns](https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns)
 * [2025-07-31, 13:06:16](https://news.ycombinator.com/item?id=44745250) - [Nova: A New Web Framework for Erlang](https://news.ycombinator.com/item?id=44745250)
 * [2025-07-31, 12:48:48](https://news.ycombinator.com/item?id=44745123) - [So You're a Manager Now](https://scottkosman.com/post/blog/so-youre-a-manager-now/)
 * [2025-07-31, 12:47:15](https://news.ycombinator.com/item?id=44745113) - [How Scientific Empires End](https://www.theatlantic.com/science/archive/2025/07/science-empire-america-decline/683711/)
