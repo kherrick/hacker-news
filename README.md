@@ -2,7 +2,7 @@
 
 * [2025-07-31, 13:43:22](https://news.ycombinator.com/item?id=44745571) - [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
 * [2025-07-31, 13:40:22](https://news.ycombinator.com/item?id=44745539) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
-* [2025-07-31, 13:32:40](https://news.ycombinator.com/item?id=44745465) - [Severe turbulence forces Delta plane to make emergency landing, 25 injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
+* [2025-07-31, 13:32:40](https://news.ycombinator.com/item?id=44745465) - [Severe turbulence forces Delta A330 to make emergency landing, 25 injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
 * [2025-07-31, 13:22:22](https://news.ycombinator.com/item?id=44745383) - [GenosDB (GDB) – Decentralized P2P Graph Database](https://www.npmjs.com/package/genosdb)
 * [2025-07-31, 13:06:16](https://news.ycombinator.com/item?id=44745250) - [Nova: A New Web Framework for Erlang](https://news.ycombinator.com/item?id=44745250)
 * [2025-07-31, 12:48:48](https://news.ycombinator.com/item?id=44745123) - [So you're a manager now](https://scottkosman.com/post/blog/so-youre-a-manager-now/)
@@ -16,7 +16,7 @@
 * [2025-07-31, 11:19:54](https://news.ycombinator.com/item?id=44744454) - [How was the Universal Pictures 1936 opening logo created?](https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created)
 * [2025-07-31, 10:57:58](https://news.ycombinator.com/item?id=44744331) - [GEPA: Reflective prompt evolution can outperform reinforcement learning](https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution)
 * [2025-07-31, 10:56:21](https://news.ycombinator.com/item?id=44744324) - [I tried Servo, the undercover web browser engine made with Rust](https://www.spacebar.news/servo-undercover-web-browser-engine/)
-* [2025-07-31, 10:03:54](https://news.ycombinator.com/item?id=44744079) - [How to trigger a command on Linux when disconnected from power](https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html)
+* [2025-07-31, 10:03:54](https://news.ycombinator.com/item?id=44744079) - [How to trigger a command on Linux when power switches from AC to battery](https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html)
 * [2025-07-30, 22:24:58](https://news.ycombinator.com/item?id=44740222) - [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
 * [2025-07-30, 21:19:03](https://news.ycombinator.com/item?id=44739632) - [Ollama's new app](https://ollama.com/blog/new-app)
 * [2025-07-30, 21:07:13](https://news.ycombinator.com/item?id=44739494) - [150 years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen)
