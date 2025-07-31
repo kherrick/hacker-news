@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-31, 16:27:10",
+      "https://news.ycombinator.com/item?id=44747241"
+    ],
+    [
+      "Make any website load faster with 6 lines of HTML",
+      "https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 16:23:09",
+      "https://news.ycombinator.com/item?id=44747204"
+    ],
+    [
+      "Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code",
+      "https://news.ycombinator.com/item?id=44747204"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 16:11:29",
       "https://news.ycombinator.com/item?id=44747091"
     ],
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2025-07-31, 15:24:05",
+      "https://news.ycombinator.com/item?id=44746603"
+    ],
+    [
+      "Ubiquiti Launches UniFi OS Server for Self-Hosting",
+      "https://lazyadmin.nl/home-network/unifi-os-server/"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 15:01:08",
       "https://news.ycombinator.com/item?id=44746415"
     ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44746334"
     ],
     [
-      "U.S. Senators Introduce New Pirate Site Blocking Bill: Block Beard",
+      "U.S. Senators Introduce New Pirate Site Blocking Bill",
       "https://torrentfreak.com/u-s-senators-introduce-new-pirate-site-blocking-bill-block-beard/"
     ]
   ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2025-07-31, 13:06:16",
-      "https://news.ycombinator.com/item?id=44745250"
-    ],
-    [
-      "Nova: A New Web Framework for Erlang",
-      "https://news.ycombinator.com/item?id=44745250"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 12:25:43",
-      "https://news.ycombinator.com/item?id=44744927"
-    ],
-    [
-      "Altima NSX",
-      "https://computeradsfromthepast.substack.com/p/altima-nsx"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 12:00:26",
       "https://news.ycombinator.com/item?id=44744756"
     ],
@@ -215,18 +225,18 @@
       "https://news.ycombinator.com/item?id=44744324"
     ],
     [
-      "I tried Servo, the undercover web browser engine made with Rust",
+      "I tried Servo",
       "https://www.spacebar.news/servo-undercover-web-browser-engine/"
     ]
   ],
   [
     [
-      "2025-07-31, 10:03:54",
-      "https://news.ycombinator.com/item?id=44744079"
+      "2025-07-30, 21:07:13",
+      "https://news.ycombinator.com/item?id=44739494"
     ],
     [
-      "How to trigger a command on Linux when power switches from AC to battery",
-      "https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html"
+      "150 years of Hans Christian Andersen",
+      "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Zig Profiling on Apple Silicon",
       "https://blog.bugsiki.dev/posts/zig-profilers/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 22:46:19",
-      "https://news.ycombinator.com/item?id=44716653"
-    ],
-    [
-      "OpenAI's ChatGPT Agent casually clicks through \"I am not a robot\" verification",
-      "https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/"
     ]
   ],
   [
