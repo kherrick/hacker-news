@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-07-31, 12:25:43",
+      "https://news.ycombinator.com/item?id=44744927"
+    ],
+    [
+      "Altima NSX – Computer Ads from the Past",
+      "https://computeradsfromthepast.substack.com/p/altima-nsx"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 12:00:26",
+      "https://news.ycombinator.com/item?id=44744756"
+    ],
+    [
+      "Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive",
+      "https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 11:54:22",
+      "https://news.ycombinator.com/item?id=44744715"
+    ],
+    [
+      "PSA: Many countries that said NO to ChatControl in 2024 are now undecided",
+      "https://digitalcourage.social/@echo_pbreyer/114946559233051667"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 11:37:22",
       "https://news.ycombinator.com/item?id=44744578"
     ],
     [
       "Introduction to Computer Music an Electronic Textbook",
       "https://cmtext.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 11:19:54",
+      "https://news.ycombinator.com/item?id=44744454"
+    ],
+    [
+      "How was the Universal Pictures 1936 opening logo created?",
+      "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created"
     ]
   ],
   [
@@ -41,22 +81,22 @@
   ],
   [
     [
+      "2025-07-31, 10:03:54",
+      "https://news.ycombinator.com/item?id=44744079"
+    ],
+    [
+      "How to trigger a command on Linux when disconnected from power",
+      "https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 05:54:04",
       "https://news.ycombinator.com/item?id=44742710"
     ],
     [
       "Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget",
       "https://github.com/dipampaul17/AgentGuard"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 04:40:31",
-      "https://news.ycombinator.com/item?id=44742359"
-    ],
-    [
-      "Tracking source locations in the Futhark compiler",
-      "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html"
     ]
   ],
   [
@@ -77,26 +117,6 @@
     [
       "Friction and Not Being Touched",
       "https://tante.cc/2025/07/30/friction-and-not-being-touched/"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 01:42:58",
-      "https://news.ycombinator.com/item?id=44741539"
-    ],
-    [
-      "Classic Common Desktop Environment coming to OpenBSD",
-      "https://undeadly.org/cgi?action=article;sid=20250730080301"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 01:01:02",
-      "https://news.ycombinator.com/item?id=44741305"
-    ],
-    [
-      "Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India",
-      "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-07-30, 16:59:09",
-      "https://news.ycombinator.com/item?id=44736646"
-    ],
-    [
-      "Australia widens teen social media ban to YouTube, scraps exemption",
-      "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 16:11:58",
       "https://news.ycombinator.com/item?id=44736090"
     ],
@@ -201,31 +211,11 @@
   ],
   [
     [
-      "2025-07-30, 13:32:23",
-      "https://news.ycombinator.com/item?id=44733968"
-    ],
-    [
-      "Writing memory efficient C structs",
-      "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 13:17:28",
-      "https://news.ycombinator.com/item?id=44733817"
-    ],
-    [
-      "Our $100M Series B",
-      "https://oxide.computer/blog/our-100m-series-b"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 12:29:52",
       "https://news.ycombinator.com/item?id=44733341"
     ],
     [
-      "Problem solving often a matter of cooking up an appropriate Markov chain (2007)",
+      "Problem solving using Markov chains (2007) [pdf]",
       "http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf"
     ]
   ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2025-07-28, 14:23:19",
+      "https://news.ycombinator.com/item?id=44711163"
+    ],
+    [
+      "Following Up on the Python JIT",
+      "https://lwn.net/Articles/1029307/"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 12:39:52",
       "https://news.ycombinator.com/item?id=44710256"
     ],
     [
-      "Sumo – Simulation of Urban MObility",
+      "Sumo – Simulation of Urban Mobility",
       "https://eclipse.dev/sumo/"
     ]
   ]
