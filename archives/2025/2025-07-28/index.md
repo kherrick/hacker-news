@@ -61,5 +61,6 @@
 * [2025-07-28, 02:33:04](https://news.ycombinator.com/item?id=44706653) - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
 * [2025-07-28, 01:46:44](https://news.ycombinator.com/item?id=44706428) - [How Big Agriculture Mislead the Public About the Benefits of Biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
 * [2025-07-28, 01:43:36](https://news.ycombinator.com/item?id=44706409) - [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/)
+* [2025-07-28, 01:21:40](https://news.ycombinator.com/item?id=44706304) - [New DNA Map of the Pistachio Could Create Better Varieties](https://www.ucdavis.edu/food/news/cracking-code-pistachio-genetics)
 * [2025-07-28, 00:56:04](https://news.ycombinator.com/item?id=44706137) - [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
 * [2025-07-28, 00:19:23](https://news.ycombinator.com/item?id=44705958) - [Claude Code Router](https://github.com/musistudio/claude-code-router)
