@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 17:00:56](https://news.ycombinator.com/item?id=44747625) - [Kaizen (YC X25) is hiring engineers to build browser agents that work](https://www.kaizenautomation.com/jobs)
 * [2025-07-31, 16:27:10](https://news.ycombinator.com/item?id=44747241) - [Make any website load faster with 6 lines of HTML](https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html)
 * [2025-07-31, 16:23:09](https://news.ycombinator.com/item?id=44747204) - [Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code](https://news.ycombinator.com/item?id=44747204)
+* [2025-07-31, 16:20:34](https://news.ycombinator.com/item?id=44747181) - [Restaurant Industry Report from Square](https://squareup.com/us/en/press/summer-restaurant-report-2025)
 * [2025-07-31, 16:11:29](https://news.ycombinator.com/item?id=44747091) - [Hundreds of agencies tap Atherton surveillance system for feds; Fails own rules](https://www.almanacnews.com/investigative-story/2025/07/30/hundreds-of-agencies-tap-athertons-surveillance-system-for-feds-town-fails-to-follow-own-rules/)
 * [2025-07-31, 16:03:16](https://news.ycombinator.com/item?id=44747004) - [How Not to Study a Disease (2023)](https://neurofrontiers.blog/book-review-how-not-to-study-a-disease/)
 * [2025-07-31, 15:57:32](https://news.ycombinator.com/item?id=44746948) - [QUIC for the Kernel](https://lwn.net/Articles/1029851/)

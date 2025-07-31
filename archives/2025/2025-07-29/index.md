@@ -42,6 +42,7 @@
 * [2025-07-29, 16:07:12](https://news.ycombinator.com/item?id=44725087) - [Microsoft Introduces 'Copilot Mode' in Edge](https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/)
 * [2025-07-29, 15:53:45](https://news.ycombinator.com/item?id=44724898) - [The hit film about overworked nurses that's causing alarm across Europe](https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare)
 * [2025-07-29, 15:48:15](https://news.ycombinator.com/item?id=44724842) - [The Convenience Trap: Why Seamless Banking Access Can Turn 2FA into 1FA](https://blog.opencore.ch/posts/the-convenience-trap-2fa/)
+* [2025-07-29, 15:21:34](https://news.ycombinator.com/item?id=44724507) - [Advanced Rust macros with derive-deftly](https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/)
 * [2025-07-29, 15:15:24](https://news.ycombinator.com/item?id=44724425) - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
 * [2025-07-29, 15:12:33](https://news.ycombinator.com/item?id=44724402) - [Peacock feathers can be lasers](https://www.science.org/content/article/peacock-feathers-can-be-lasers)
 * [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
