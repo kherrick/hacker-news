@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-31, 11:37:22](https://news.ycombinator.com/item?id=44744578) - [Introduction to Computer Music an Electronic Textbook](https://cmtext.com/)
 * [2025-07-31, 10:57:58](https://news.ycombinator.com/item?id=44744331) - [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution)
 * [2025-07-31, 10:56:21](https://news.ycombinator.com/item?id=44744324) - [I tried Servo, the undercover web browser engine made with Rust](https://www.spacebar.news/servo-undercover-web-browser-engine/)
 * [2025-07-31, 10:07:19](https://news.ycombinator.com/item?id=44744096) - [GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban](https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/)
@@ -15,7 +16,6 @@
 * [2025-07-30, 21:13:20](https://news.ycombinator.com/item?id=44739556) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
 * [2025-07-30, 21:07:13](https://news.ycombinator.com/item?id=44739494) - [150 years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen)
 * [2025-07-30, 20:46:49](https://news.ycombinator.com/item?id=44739315) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
-* [2025-07-30, 18:15:35](https://news.ycombinator.com/item?id=44737676) - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 17:21:17](https://news.ycombinator.com/item?id=44736967) - [Fast](https://www.catherinejue.com/fast)
 * [2025-07-30, 16:59:09](https://news.ycombinator.com/item?id=44736646) - [Australia widens teen social media ban to YouTube, scraps exemption](https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/)
 * [2025-07-30, 16:11:58](https://news.ycombinator.com/item?id=44736090) - [Optician Sans – A free font based on historical eye charts and optotypes](https://optician-sans.com/)
@@ -23,11 +23,11 @@
 * [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
 * [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem solving often a matter of cooking up an appropriate Markov chain (2007)](http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf)
-* [2025-07-30, 12:03:54](https://news.ycombinator.com/item?id=44733119) - [The HTML Hobbyist (2022)](https://www.htmlhobbyist.com/)
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
 * [2025-07-29, 22:05:04](https://news.ycombinator.com/item?id=44728796) - [Fixing Ctrl+C in Rust terminal apps: Child process management](https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management)
 * [2025-07-29, 19:07:59](https://news.ycombinator.com/item?id=44727130) - [A Quantum Gravimeter for GPS Backup](https://spectrum.ieee.org/quantum-gravity-sensor)
 * [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource (2020)](https://www.benkuhn.net/attention/)
+* [2025-07-29, 14:44:05](https://news.ycombinator.com/item?id=44724072) - [Go's race detector has a mutex blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
 * [2025-07-28, 22:46:19](https://news.ycombinator.com/item?id=44716653) - [OpenAI's ChatGPT Agent casually clicks through \"I am not a robot\" verification](https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/)
 * [2025-07-28, 12:39:52](https://news.ycombinator.com/item?id=44710256) - [Sumo – Simulation of Urban MObility](https://eclipse.dev/sumo/)
 

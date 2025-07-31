@@ -49,6 +49,7 @@
 * [2025-07-29, 14:59:18](https://news.ycombinator.com/item?id=44724238) - [Irrelevant facts about cats added to math problems increase LLM errors by 300%](https://www.science.org/content/article/scienceadviser-cats-confuse-ai)
 * [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource](https://www.benkuhn.net/attention/)
 * [2025-07-29, 14:46:15](https://news.ycombinator.com/item?id=44724088) - [Claude Finds Contradictions in My Thinking](https://angadh.com/contradictions-1)
+* [2025-07-29, 14:44:05](https://news.ycombinator.com/item?id=44724072) - [Go's race detector has a mutex blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
 * [2025-07-29, 14:44:00](https://news.ycombinator.com/item?id=44724068) - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
 * [2025-07-29, 14:30:23](https://news.ycombinator.com/item?id=44723876) - [2025 Stack Overflow Developer Survey Results](https://survey.stackoverflow.co/2025)
 * [2025-07-29, 14:26:47](https://news.ycombinator.com/item?id=44723818) - [Structuring large Clojure codebases with Biff](https://biffweb.com/p/structuring-large-codebases/)

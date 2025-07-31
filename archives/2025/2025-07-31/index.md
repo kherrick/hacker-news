@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 11:37:22](https://news.ycombinator.com/item?id=44744578) - [Introduction to Computer Music an Electronic Textbook](https://cmtext.com/)
 * [2025-07-31, 10:57:58](https://news.ycombinator.com/item?id=44744331) - [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution)
 * [2025-07-31, 10:56:21](https://news.ycombinator.com/item?id=44744324) - [I tried Servo, the undercover web browser engine made with Rust](https://www.spacebar.news/servo-undercover-web-browser-engine/)
 * [2025-07-31, 10:07:19](https://news.ycombinator.com/item?id=44744096) - [GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban](https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/)
