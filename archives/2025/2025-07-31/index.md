@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 13:32:40](https://news.ycombinator.com/item?id=44745465) - [Turbulence forces Delta plane to make emergency landing, 25 passengers injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
+* [2025-07-31, 12:48:48](https://news.ycombinator.com/item?id=44745123) - [So You're a Manager Now](https://scottkosman.com/post/blog/so-youre-a-manager-now/)
+* [2025-07-31, 12:47:15](https://news.ycombinator.com/item?id=44745113) - [How Scientific Empires End](https://www.theatlantic.com/science/archive/2025/07/science-empire-america-decline/683711/)
+* [2025-07-31, 12:40:05](https://news.ycombinator.com/item?id=44745045) - [Benchmarks in CI: Escaping the Cloud Chaos](https://codspeed.io/blog/benchmarks-in-ci-without-noise)
 * [2025-07-31, 12:25:43](https://news.ycombinator.com/item?id=44744927) - [Altima NSX – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/altima-nsx)
 * [2025-07-31, 12:00:26](https://news.ycombinator.com/item?id=44744756) - [Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
 * [2025-07-31, 11:54:22](https://news.ycombinator.com/item?id=44744715) - [PSA: Many countries that said NO to ChatControl in 2024 are now undecided](https://digitalcourage.social/@echo_pbreyer/114946559233051667)
