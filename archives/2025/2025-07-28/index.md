@@ -40,6 +40,7 @@
 * [2025-07-28, 15:06:00](https://news.ycombinator.com/item?id=44711612) - [The first 100% effective HIV prevention drug is approved and going global](https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/)
 * [2025-07-28, 14:57:55](https://news.ycombinator.com/item?id=44711519) - [Copyparty, turn almost any device into a file server](https://github.com/9001/copyparty)
 * [2025-07-28, 14:36:39](https://news.ycombinator.com/item?id=44711306) - [Tao on \"blue team\" vs. \"red team\" LLMs](https://mathstodon.xyz/@tao/114915604830689046)
+* [2025-07-28, 14:23:19](https://news.ycombinator.com/item?id=44711163) - [Following Up on the Python JIT](https://lwn.net/Articles/1029307/)
 * [2025-07-28, 14:15:52](https://news.ycombinator.com/item?id=44711106) - [GLM-4.5: Reasoning, Coding, and Agentic Abililties](https://z.ai/blog/glm-4.5)
 * [2025-07-28, 14:11:35](https://news.ycombinator.com/item?id=44711075) - [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece)
 * [2025-07-28, 14:01:51](https://news.ycombinator.com/item?id=44710965) - [Windows 11 is a minefield of micro-aggressions in the shipping lane of progressl](https://www.theregister.com/2025/07/28/windows_11_is_a_minefield/)

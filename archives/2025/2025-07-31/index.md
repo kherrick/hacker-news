@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 12:25:43](https://news.ycombinator.com/item?id=44744927) - [Altima NSX – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/altima-nsx)
+* [2025-07-31, 12:00:26](https://news.ycombinator.com/item?id=44744756) - [Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
+* [2025-07-31, 11:54:22](https://news.ycombinator.com/item?id=44744715) - [PSA: Many countries that said NO to ChatControl in 2024 are now undecided](https://digitalcourage.social/@echo_pbreyer/114946559233051667)
 * [2025-07-31, 11:37:22](https://news.ycombinator.com/item?id=44744578) - [Introduction to Computer Music an Electronic Textbook](https://cmtext.com/)
+* [2025-07-31, 11:19:54](https://news.ycombinator.com/item?id=44744454) - [How was the Universal Pictures 1936 opening logo created?](https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created)
 * [2025-07-31, 10:57:58](https://news.ycombinator.com/item?id=44744331) - [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution)
 * [2025-07-31, 10:56:21](https://news.ycombinator.com/item?id=44744324) - [I tried Servo, the undercover web browser engine made with Rust](https://www.spacebar.news/servo-undercover-web-browser-engine/)
 * [2025-07-31, 10:07:19](https://news.ycombinator.com/item?id=44744096) - [GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban](https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/)
+* [2025-07-31, 10:03:54](https://news.ycombinator.com/item?id=44744079) - [How to trigger a command on Linux when disconnected from power](https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html)
 * [2025-07-31, 05:54:04](https://news.ycombinator.com/item?id=44742710) - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
 * [2025-07-31, 05:08:56](https://news.ycombinator.com/item?id=44742513) - [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
 * [2025-07-31, 04:40:31](https://news.ycombinator.com/item?id=44742359) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
