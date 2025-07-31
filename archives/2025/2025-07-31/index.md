@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 13:43:22](https://news.ycombinator.com/item?id=44745571) - [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
+* [2025-07-31, 13:40:22](https://news.ycombinator.com/item?id=44745539) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
 * [2025-07-31, 13:32:40](https://news.ycombinator.com/item?id=44745465) - [Turbulence forces Delta plane to make emergency landing, 25 passengers injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
+* [2025-07-31, 13:22:22](https://news.ycombinator.com/item?id=44745383) - [GenosDB (GDB) – Decentralized P2P Graph Database](https://www.npmjs.com/package/genosdb)
+* [2025-07-31, 13:06:16](https://news.ycombinator.com/item?id=44745250) - [Nova: A New Web Framework for Erlang](https://news.ycombinator.com/item?id=44745250)
 * [2025-07-31, 12:48:48](https://news.ycombinator.com/item?id=44745123) - [So You're a Manager Now](https://scottkosman.com/post/blog/so-youre-a-manager-now/)
 * [2025-07-31, 12:47:15](https://news.ycombinator.com/item?id=44745113) - [How Scientific Empires End](https://www.theatlantic.com/science/archive/2025/07/science-empire-america-decline/683711/)
+* [2025-07-31, 12:45:07](https://news.ycombinator.com/item?id=44745095) - [Matrix Is Not Safe for EU Data Privacy](https://wire.com/en/blog/matrix-not-safe-eu-data-privacy)
 * [2025-07-31, 12:40:05](https://news.ycombinator.com/item?id=44745045) - [Benchmarks in CI: Escaping the Cloud Chaos](https://codspeed.io/blog/benchmarks-in-ci-without-noise)
 * [2025-07-31, 12:25:43](https://news.ycombinator.com/item?id=44744927) - [Altima NSX – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/altima-nsx)
 * [2025-07-31, 12:00:26](https://news.ycombinator.com/item?id=44744756) - [Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
