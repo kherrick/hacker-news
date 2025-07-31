@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-07-31, 13:43:22",
+      "https://news.ycombinator.com/item?id=44745571"
+    ],
+    [
+      "Anaconda Raises $150M Series C",
+      "https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 13:40:22",
+      "https://news.ycombinator.com/item?id=44745539"
+    ],
+    [
+      "What is gVisor?",
+      "https://blog.yelinaung.com/posts/gvisor/"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 13:32:40",
       "https://news.ycombinator.com/item?id=44745465"
     ],
     [
-      "Turbulence forces Delta plane to make emergency landing, 25 passengers injured",
+      "Severe turbulence forces Delta plane to make emergency landing, 25 injured",
       "https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 13:22:22",
+      "https://news.ycombinator.com/item?id=44745383"
+    ],
+    [
+      "GenosDB (GDB) – Decentralized P2P Graph Database",
+      "https://www.npmjs.com/package/genosdb"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 13:06:16",
+      "https://news.ycombinator.com/item?id=44745250"
+    ],
+    [
+      "Nova: A New Web Framework for Erlang",
+      "https://news.ycombinator.com/item?id=44745250"
     ]
   ],
   [
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44745123"
     ],
     [
-      "So You're a Manager Now",
+      "So you're a manager now",
       "https://scottkosman.com/post/blog/so-youre-a-manager-now/"
     ]
   ],
@@ -27,6 +67,16 @@
     [
       "How Scientific Empires End",
       "https://www.theatlantic.com/science/archive/2025/07/science-empire-america-decline/683711/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 12:45:07",
+      "https://news.ycombinator.com/item?id=44745095"
+    ],
+    [
+      "Matrix Is Not Safe for EU Data Privacy",
+      "https://wire.com/en/blog/matrix-not-safe-eu-data-privacy"
     ]
   ],
   [
@@ -45,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44744927"
     ],
     [
-      "Altima NSX – Computer Ads from the Past",
+      "Altima NSX",
       "https://computeradsfromthepast.substack.com/p/altima-nsx"
     ]
   ],
@@ -65,7 +115,7 @@
       "https://news.ycombinator.com/item?id=44744715"
     ],
     [
-      "PSA: Many countries that said NO to ChatControl in 2024 are now undecided",
+      "Many countries that said no to ChatControl in 2024 are now undecided",
       "https://digitalcourage.social/@echo_pbreyer/114946559233051667"
     ]
   ],
@@ -75,7 +125,7 @@
       "https://news.ycombinator.com/item?id=44744578"
     ],
     [
-      "Introduction to Computer Music an Electronic Textbook",
+      "Introduction to Computer Music",
       "https://cmtext.com/"
     ]
   ],
@@ -95,7 +145,7 @@
       "https://news.ycombinator.com/item?id=44744331"
     ],
     [
-      "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning",
+      "GEPA: Reflective prompt evolution can outperform reinforcement learning",
       "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution"
     ]
   ],
@@ -111,42 +161,12 @@
   ],
   [
     [
-      "2025-07-31, 10:07:19",
-      "https://news.ycombinator.com/item?id=44744096"
-    ],
-    [
-      "GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban",
-      "https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 10:03:54",
       "https://news.ycombinator.com/item?id=44744079"
     ],
     [
       "How to trigger a command on Linux when disconnected from power",
       "https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 05:54:04",
-      "https://news.ycombinator.com/item?id=44742710"
-    ],
-    [
-      "Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget",
-      "https://github.com/dipampaul17/AgentGuard"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 04:16:40",
-      "https://news.ycombinator.com/item?id=44742251"
-    ],
-    [
-      "I know when you're vibe coding",
-      "https://alexkondov.com/i-know-when-youre-vibe-coding/"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Ollama's new app",
       "https://ollama.com/blog/new-app"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 21:13:20",
-      "https://news.ycombinator.com/item?id=44739556"
-    ],
-    [
-      "Vibe code is legacy code",
-      "https://blog.val.town/vibe-code"
     ]
   ],
   [
@@ -207,26 +217,6 @@
     [
       "Fast",
       "https://www.catherinejue.com/fast"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 16:11:58",
-      "https://news.ycombinator.com/item?id=44736090"
-    ],
-    [
-      "Optician Sans – A free font based on historical eye charts and optotypes",
-      "https://optician-sans.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 15:54:02",
-      "https://news.ycombinator.com/item?id=44735843"
-    ],
-    [
-      "Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production",
-      "https://news.ycombinator.com/item?id=44735843"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=44724072"
     ],
     [
-      "Go's race detector has a mutex blind spot",
+      "Go’s race detector has a mutex blind spot",
       "https://doublefree.dev/go-race-mutex-blindspot/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Sumo – Simulation of Urban Mobility",
       "https://eclipse.dev/sumo/"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 17:58:12",
+      "https://news.ycombinator.com/item?id=44703180"
+    ],
+    [
+      "Profiling without Source code – how I diagnosed Trackmania stuttering",
+      "https://larstofus.com/2025/07/27/profiling-without-source-code-how-i-diagnosed-trackmania-stuttering/"
     ]
   ]
 ]
