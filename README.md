@@ -22,7 +22,6 @@
 * [2025-07-30, 14:11:36](https://news.ycombinator.com/item?id=44734471) - [Show HN: Open-source alternative to ChatGPT Agents for browsing](https://github.com/trymeka/agent)
 * [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
-* [2025-07-30, 13:15:35](https://news.ycombinator.com/item?id=44733800) - [I launched 17 side projects. Result? I'm rich in expired domains](https://news.ycombinator.com/item?id=44733800)
 * [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem solving often a matter of cooking up an appropriate Markov chain (2007)](http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf)
 * [2025-07-30, 12:03:54](https://news.ycombinator.com/item?id=44733119) - [The HTML Hobbyist (2022)](https://www.htmlhobbyist.com/)
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
@@ -30,6 +29,7 @@
 * [2025-07-28, 13:02:49](https://news.ycombinator.com/item?id=44710461) - [Ferroelectric helps break transistor limits](https://spectrum.ieee.org/negative-capacitance-schottky-limit)
 * [2025-07-27, 21:13:52](https://news.ycombinator.com/item?id=44704742) - [Show HN: Open-source physical rack-mounted GUI for home lab](https://www.getubo.com/post/gui-for-raspberry-pi-inside-mini-racks)
 * [2025-07-27, 18:52:49](https://news.ycombinator.com/item?id=44703581) - [Open source BOM management (for me)](https://www.vincentuden.xyz/blog/pcb_management)
+* [2025-07-27, 09:22:42](https://news.ycombinator.com/item?id=44699986) - [JANET – The UK Joint Academic Network (1988) [pdf]](https://serials.uksg.org/articles/35/files/submission/proof/35-1-35-1-10-20150210.pdf)
 
 ## [Archives](archives/index.md)
 

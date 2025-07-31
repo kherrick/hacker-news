@@ -51,6 +51,7 @@
 * [2025-07-27, 10:30:48](https://news.ycombinator.com/item?id=44700263) - [Traccar: an open source GPS tracking system](https://github.com/traccar/traccar)
 * [2025-07-27, 10:13:58](https://news.ycombinator.com/item?id=44700199) - [Analoguediehard](http://www.analoguediehard.com/)
 * [2025-07-27, 09:41:31](https://news.ycombinator.com/item?id=44700064) - [US drops sanctions on Myanmar junta's allies after military chief praises man](https://www.abc.net.au/news/2025-07-26/us-drops-sanctions-on-myanmar-junta-allies-after-trump-praise/105576812)
+* [2025-07-27, 09:22:42](https://news.ycombinator.com/item?id=44699986) - [JANET – The UK Joint Academic Network (1988) [pdf]](https://serials.uksg.org/articles/35/files/submission/proof/35-1-35-1-10-20150210.pdf)
 * [2025-07-27, 09:21:13](https://news.ycombinator.com/item?id=44699980) - [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
 * [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Sapients paper on the concept of Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 * [2025-07-27, 07:11:16](https://news.ycombinator.com/item?id=44699437) - [Beyond Food and People](https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious)
