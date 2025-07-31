@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-07-30, 16:12:32",
-      "https://news.ycombinator.com/item?id=44736101"
-    ],
-    [
-      "Critical vulnerability in AI coding platform Base44 allowing unauthorized access",
-      "https://www.wiz.io/blog/critical-vulnerability-base44"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 16:11:58",
       "https://news.ycombinator.com/item?id=44736090"
     ],
@@ -257,6 +247,16 @@
     [
       "Fixing Ctrl+C in Rust terminal apps: Child process management",
       "https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 19:07:59",
+      "https://news.ycombinator.com/item?id=44727130"
+    ],
+    [
+      "A Quantum Gravimeter for GPS Backup",
+      "https://spectrum.ieee.org/quantum-gravity-sensor"
     ]
   ],
   [
