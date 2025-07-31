@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-31, 11:37:22",
+      "https://news.ycombinator.com/item?id=44744578"
+    ],
+    [
+      "Introduction to Computer Music an Electronic Textbook",
+      "https://cmtext.com/"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 10:57:58",
       "https://news.ycombinator.com/item?id=44744331"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-07-30, 18:15:35",
-      "https://news.ycombinator.com/item?id=44737676"
-    ],
-    [
-      "Emacs: The macOS Bug",
-      "https://xlii.space/eng/emacs-the-macos-bug/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 17:21:17",
       "https://news.ycombinator.com/item?id=44736967"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-07-30, 12:03:54",
-      "https://news.ycombinator.com/item?id=44733119"
-    ],
-    [
-      "The HTML Hobbyist (2022)",
-      "https://www.htmlhobbyist.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 09:59:09",
       "https://news.ycombinator.com/item?id=44732464"
     ],
@@ -277,6 +267,16 @@
     [
       "Attention is your scarcest resource (2020)",
       "https://www.benkuhn.net/attention/"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 14:44:05",
+      "https://news.ycombinator.com/item?id=44724072"
+    ],
+    [
+      "Go's race detector has a mutex blind spot",
+      "https://doublefree.dev/go-race-mutex-blindspot/"
     ]
   ],
   [
