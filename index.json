@@ -51,31 +51,11 @@
   ],
   [
     [
-      "2025-07-31, 17:10:21",
-      "https://news.ycombinator.com/item?id=44747728"
-    ],
-    [
-      "How to Scan Force Pushed Commits for Secrets",
-      "https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 17:08:10",
-      "https://news.ycombinator.com/item?id=44747699"
-    ],
-    [
-      "Show HN: Astro dev blog template with 60 interactive colorschemes",
-      "https://multiterm.stelclementine.com"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 17:01:37",
       "https://news.ycombinator.com/item?id=44747634"
     ],
     [
-      "AI Is a Floor Raiser, Not a Ceiling Raiser",
+      "AI is a floor raiser, not a ceiling raiser",
       "https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html"
     ]
   ],
@@ -161,16 +141,6 @@
   ],
   [
     [
-      "2025-07-31, 14:23:40",
-      "https://news.ycombinator.com/item?id=44745984"
-    ],
-    [
-      "Carbon Language: An experimental successor to C++",
-      "https://docs.carbon-lang.dev/"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 14:16:07",
       "https://news.ycombinator.com/item?id=44745897"
     ],
@@ -211,6 +181,16 @@
   ],
   [
     [
+      "2025-07-31, 12:48:48",
+      "https://news.ycombinator.com/item?id=44745123"
+    ],
+    [
+      "So you're a manager now",
+      "https://scottkosman.com/post/blog/so-youre-a-manager-now/"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 11:37:22",
       "https://news.ycombinator.com/item?id=44744578"
     ],
@@ -237,6 +217,16 @@
     [
       "I tried Servo",
       "https://www.spacebar.news/servo-undercover-web-browser-engine/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 21:07:13",
+      "https://news.ycombinator.com/item?id=44739494"
+    ],
+    [
+      "150 years of Hans Christian Andersen",
+      "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ferrari Status",
       "https://collabfund.com/blog/ferrari-status/"
+    ]
+  ],
+  [
+    [
+      "2025-07-26, 23:19:59",
+      "https://news.ycombinator.com/item?id=44697689"
+    ],
+    [
+      "We revamped our docs for AI-driven development",
+      "https://docs.freestyle.sh/blog/docs-revamp"
     ]
   ]
 ]
