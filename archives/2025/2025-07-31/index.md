@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 14:16:07](https://news.ycombinator.com/item?id=44745897) - [MacBook Pro Insomnia](https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia)
+* [2025-07-31, 14:03:04](https://news.ycombinator.com/item?id=44745766) - [Stack Overflow data reveals the hidden productivity tax of almost right AI code](https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/)
 * [2025-07-31, 13:43:22](https://news.ycombinator.com/item?id=44745571) - [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
 * [2025-07-31, 13:40:22](https://news.ycombinator.com/item?id=44745539) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
 * [2025-07-31, 13:32:40](https://news.ycombinator.com/item?id=44745465) - [Turbulence forces Delta plane to make emergency landing, 25 passengers injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
