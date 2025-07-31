@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 05:08:56](https://news.ycombinator.com/item?id=44742513) - [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
+* [2025-07-31, 04:16:40](https://news.ycombinator.com/item?id=44742251) - [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 * [2025-07-31, 01:42:58](https://news.ycombinator.com/item?id=44741539) - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
+* [2025-07-31, 01:22:28](https://news.ycombinator.com/item?id=44741442) - [You know what: Microsoft became miserably incompetent in IT](https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/)
 * [2025-07-31, 01:02:13](https://news.ycombinator.com/item?id=44741314) - [Paradise Lost](https://alexandermigdal.com/paradise-lost/)
 * [2025-07-31, 01:01:02](https://news.ycombinator.com/item?id=44741305) - [Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
