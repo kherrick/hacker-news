@@ -26,8 +26,8 @@
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
 * [2025-07-29, 22:05:04](https://news.ycombinator.com/item?id=44728796) - [Fixing Ctrl+C in Rust terminal apps: Child process management](https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management)
 * [2025-07-29, 19:07:59](https://news.ycombinator.com/item?id=44727130) - [A Quantum Gravimeter for GPS Backup](https://spectrum.ieee.org/quantum-gravity-sensor)
-* [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource](https://www.benkuhn.net/attention/)
-* [2025-07-28, 01:21:40](https://news.ycombinator.com/item?id=44706304) - [New DNA Map of the Pistachio Could Create Better Varieties](https://www.ucdavis.edu/food/news/cracking-code-pistachio-genetics)
+* [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource (2020)](https://www.benkuhn.net/attention/)
+* [2025-07-28, 22:46:19](https://news.ycombinator.com/item?id=44716653) - [OpenAI's ChatGPT Agent casually clicks through \"I am not a robot\" verification](https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/)
 * [2025-07-27, 21:13:52](https://news.ycombinator.com/item?id=44704742) - [Show HN: Open-source physical rack-mounted GUI for home lab](https://www.getubo.com/post/gui-for-raspberry-pi-inside-mini-racks)
 * [2025-07-27, 18:52:49](https://news.ycombinator.com/item?id=44703581) - [Open source BOM management (for me)](https://www.vincentuden.xyz/blog/pcb_management)
 
