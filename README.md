@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-31, 05:54:04](https://news.ycombinator.com/item?id=44742710) - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
-* [2025-07-31, 05:08:56](https://news.ycombinator.com/item?id=44742513) - [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
 * [2025-07-31, 04:40:31](https://news.ycombinator.com/item?id=44742359) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
 * [2025-07-31, 04:16:40](https://news.ycombinator.com/item?id=44742251) - [I know when you're vibe coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 * [2025-07-31, 03:18:31](https://news.ycombinator.com/item?id=44742021) - [Friction and Not Being Touched](https://tante.cc/2025/07/30/friction-and-not-being-touched/)
@@ -22,6 +21,7 @@
 * [2025-07-30, 14:15:07](https://news.ycombinator.com/item?id=44734522) - [A short post on short trains](https://shakeddown.substack.com/p/a-short-post-on-short-trains)
 * [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
+* [2025-07-30, 13:15:35](https://news.ycombinator.com/item?id=44733800) - [I launched 17 side projects. Result? I'm rich in expired domains](https://news.ycombinator.com/item?id=44733800)
 * [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem solving often a matter of cooking up an appropriate Markov chain (2007)](http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf)
 * [2025-07-30, 12:03:54](https://news.ycombinator.com/item?id=44733119) - [The HTML Hobbyist (2022)](https://www.htmlhobbyist.com/)
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
