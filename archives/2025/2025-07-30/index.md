@@ -10,6 +10,7 @@
 * [2025-07-30, 21:19:03](https://news.ycombinator.com/item?id=44739632) - [Ollama has a native front end chatbot now](https://ollama.com/blog/new-app)
 * [2025-07-30, 21:18:21](https://news.ycombinator.com/item?id=44739618) - [Early universe's 'little red dots' may be black hole stars – Science – AAAS](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
 * [2025-07-30, 21:13:20](https://news.ycombinator.com/item?id=44739556) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
+* [2025-07-30, 21:07:13](https://news.ycombinator.com/item?id=44739494) - [150 years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen)
 * [2025-07-30, 20:46:49](https://news.ycombinator.com/item?id=44739315) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
 * [2025-07-30, 20:27:57](https://news.ycombinator.com/item?id=44739117) - [Actions Reflect Your Priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)
 * [2025-07-30, 18:55:43](https://news.ycombinator.com/item?id=44738161) - [The Preserving Machine by Philip K. Dick (1953)](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)

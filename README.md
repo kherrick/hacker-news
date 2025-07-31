@@ -7,6 +7,7 @@
 * [2025-07-30, 21:19:03](https://news.ycombinator.com/item?id=44739632) - [Ollama's new app](https://ollama.com/blog/new-app)
 * [2025-07-30, 21:18:21](https://news.ycombinator.com/item?id=44739618) - [Early universe's 'little red dots' may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
 * [2025-07-30, 21:13:20](https://news.ycombinator.com/item?id=44739556) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
+* [2025-07-30, 21:07:13](https://news.ycombinator.com/item?id=44739494) - [150 years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen)
 * [2025-07-30, 20:46:49](https://news.ycombinator.com/item?id=44739315) - [The math is haunted](https://overreacted.io/the-math-is-haunted/)
 * [2025-07-30, 18:55:43](https://news.ycombinator.com/item?id=44738161) - [The Preserving Machine by Philip K. Dick (1953)](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
 * [2025-07-30, 18:15:35](https://news.ycombinator.com/item?id=44737676) - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
@@ -29,7 +30,6 @@
 * [2025-07-28, 13:02:49](https://news.ycombinator.com/item?id=44710461) - [Ferroelectric helps break transistor limits](https://spectrum.ieee.org/negative-capacitance-schottky-limit)
 * [2025-07-27, 21:13:52](https://news.ycombinator.com/item?id=44704742) - [Show HN: Open-source physical rack-mounted GUI for home lab](https://www.getubo.com/post/gui-for-raspberry-pi-inside-mini-racks)
 * [2025-07-27, 16:32:46](https://news.ycombinator.com/item?id=44702478) - [Ultra-Rapid Vision in Birds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099)
-* [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
 
 ## [Archives](archives/index.md)
 
