@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-07-31, 20:29:55",
+      "https://news.ycombinator.com/item?id=44749772"
+    ],
+    [
+      "Denver rent is back to 2022 prices after 20k new units hit the market",
+      "https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 19:54:42",
       "https://news.ycombinator.com/item?id=44749438"
     ],
     [
       "Kaleidos – A portable nuclear microreactor that replaces diesel generators",
       "https://radiantnuclear.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 19:34:19",
-      "https://news.ycombinator.com/item?id=44749241"
-    ],
-    [
-      "Show HN: SafeRate – AI chat-native mortgage lender",
-      "https://saferate.com/"
     ]
   ],
   [
@@ -35,18 +35,8 @@
       "https://news.ycombinator.com/item?id=44748634"
     ],
     [
-      "Astronomical Telescope \"Hadley\" – an easy assembly, high performance Newtonian",
+      "Astronomical Telescope “Hadley” – an easy assembly, high performance Newtonian",
       "https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 17:23:17",
-      "https://news.ycombinator.com/item?id=44747870"
-    ],
-    [
-      "Go Assembly Mutation Testing",
-      "https://words.filippo.io/assembly-mutation/"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44747816"
     ],
     [
-      "How Long Before Superintelligence? (1997)",
+      "How long before superintelligence? (1997)",
       "https://nickbostrom.com/superintelligence"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Gemini Embedding: Powering RAG and context engineering",
       "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 16:27:10",
+      "https://news.ycombinator.com/item?id=44747241"
+    ],
+    [
+      "The Chrome Speculation Rules API allows the browser to preload and prerender",
+      "https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Ubiquiti launches UniFi OS Server for self-hosting",
       "https://lazyadmin.nl/home-network/unifi-os-server/"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 15:01:08",
-      "https://news.ycombinator.com/item?id=44746415"
-    ],
-    [
-      "Ursa: A leaderless, object storage–based alternative to Kafka",
-      "https://streamnative.io/products/ursa"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Show HN: Sourcebot – Self-hosted Perplexity for your codebase",
       "https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 17:51:22",
+      "https://news.ycombinator.com/item?id=44726347"
+    ],
+    [
+      "Programmers aren’t so humble anymore, maybe because nobody codes in Perl",
+      "https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/"
     ]
   ],
   [
