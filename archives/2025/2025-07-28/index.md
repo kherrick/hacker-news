@@ -69,4 +69,5 @@
 * [2025-07-28, 01:43:36](https://news.ycombinator.com/item?id=44706409) - [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/)
 * [2025-07-28, 01:21:40](https://news.ycombinator.com/item?id=44706304) - [New DNA Map of the Pistachio Could Create Better Varieties](https://www.ucdavis.edu/food/news/cracking-code-pistachio-genetics)
 * [2025-07-28, 00:56:04](https://news.ycombinator.com/item?id=44706137) - [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
+* [2025-07-28, 00:19:37](https://news.ycombinator.com/item?id=44705960) - [I made a website that makes you cry](https://www.cryonceaweek.com)
 * [2025-07-28, 00:19:23](https://news.ycombinator.com/item?id=44705958) - [Claude Code Router](https://github.com/musistudio/claude-code-router)
