@@ -2,7 +2,6 @@
 
 * [2025-07-31, 21:47:27](https://news.ycombinator.com/item?id=44750563) - [\"No Tax on Tips\" Is an Industry Plant](https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant)
 * [2025-07-31, 21:41:55](https://news.ycombinator.com/item?id=44750516) - [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython)
-* [2025-07-31, 21:28:07](https://news.ycombinator.com/item?id=44750416) - [The Anti-Abundance Critique on Housing Is Dead Wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
 * [2025-07-31, 21:04:23](https://news.ycombinator.com/item?id=44750121) - [A Hitchhiker's Guide to the AI Bubble](https://fluxus.io/article/a-hitchhikers-guide-to-the-ai-bubble)
 * [2025-07-31, 20:29:55](https://news.ycombinator.com/item?id=44749772) - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
 * [2025-07-31, 19:54:42](https://news.ycombinator.com/item?id=44749438) - [Kaleidos – A portable nuclear microreactor that replaces diesel generators](https://radiantnuclear.com/)
@@ -28,6 +27,7 @@
 * [2025-07-29, 02:15:36](https://news.ycombinator.com/item?id=44718211) - [Zig Profiling on Apple Silicon](https://blog.bugsiki.dev/posts/zig-profilers/)
 * [2025-07-28, 13:23:35](https://news.ycombinator.com/item?id=44710651) - [Face it: you're a crazy person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
 * [2025-07-28, 13:23:14](https://news.ycombinator.com/item?id=44710647) - [Ferrari Status](https://collabfund.com/blog/ferrari-status/)
+* [2025-07-28, 03:49:47](https://news.ycombinator.com/item?id=44707062) - [Raspberry Pi 5 Gets a MicroSD Express Hat](https://www.cnx-software.com/2025/07/28/raspberry-pi-5-gets-a-microsd-express-hat/)
 * [2025-07-28, 00:19:37](https://news.ycombinator.com/item?id=44705960) - [I made a website that makes you cry](https://www.cryonceaweek.com)
 * [2025-07-26, 23:19:59](https://news.ycombinator.com/item?id=44697689) - [We revamped our docs for AI-driven development](https://docs.freestyle.sh/blog/docs-revamp)
 

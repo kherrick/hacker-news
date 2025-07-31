@@ -64,6 +64,7 @@
 * [2025-07-28, 05:18:10](https://news.ycombinator.com/item?id=44707440) - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
 * [2025-07-28, 04:47:46](https://news.ycombinator.com/item?id=44707300) - [Digitising CDs (a.k.a. using your phone as an image scanner)](https://www.hadess.net/2025/07/digitising-cds-aka-using-your-phone-as.html)
 * [2025-07-28, 04:35:00](https://news.ycombinator.com/item?id=44707261) - [\"Tivoization\" and Your Right to Install Under Copyleft and The GNU GPL](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
+* [2025-07-28, 03:49:47](https://news.ycombinator.com/item?id=44707062) - [Raspberry Pi 5 Gets a MicroSD Express Hat](https://www.cnx-software.com/2025/07/28/raspberry-pi-5-gets-a-microsd-express-hat/)
 * [2025-07-28, 02:33:04](https://news.ycombinator.com/item?id=44706653) - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
 * [2025-07-28, 01:46:44](https://news.ycombinator.com/item?id=44706428) - [How Big Agriculture Mislead the Public About the Benefits of Biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
 * [2025-07-28, 01:43:36](https://news.ycombinator.com/item?id=44706409) - [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/)
