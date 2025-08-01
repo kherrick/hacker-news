@@ -13,7 +13,7 @@
 * [2025-08-01, 17:43:02](https://news.ycombinator.com/item?id=44759918) - [Google shifts goo.gl policy: Inactive links deactivated, active links preserved](https://blog.google/technology/developers/googl-link-shortening-update/)
 * [2025-08-01, 17:01:08](https://news.ycombinator.com/item?id=44759432) - [Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer](https://www.coveragecat.com/careers/engineering/software-engineer)
 * [2025-08-01, 16:59:51](https://news.ycombinator.com/item?id=44759417) - [I couldn't submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
-* [2025-08-01, 16:56:40](https://news.ycombinator.com/item?id=44759382) - [Corporation for Public Broadcasting ceasing operations](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding)
+* [2025-08-01, 16:58:51](https://news.ycombinator.com/item?id=44759406) - [Show HN: TraceRoot – Open-source agentic debugging for distributed services](https://github.com/traceroot-ai/traceroot)
 * [2025-08-01, 16:36:51](https://news.ycombinator.com/item?id=44759171) - [Ergonomic keyboarding with the Svalboard: a half-year retrospective](https://twey.io/hci/svalboard/)
 * [2025-08-01, 16:35:40](https://news.ycombinator.com/item?id=44759152) - [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
 * [2025-08-01, 16:20:07](https://news.ycombinator.com/item?id=44758957) - [Supporting the BEAM community with free CI/CD security audits](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
