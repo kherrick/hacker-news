@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-01, 02:45:52](https://news.ycombinator.com/item?id=44752546) - [LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others](https://artificialanalysis.ai/leaderboards/models)
-* [2025-08-01, 02:30:59](https://news.ycombinator.com/item?id=44752469) - [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
 * [2025-07-31, 22:19:54](https://news.ycombinator.com/item?id=44750817) - [Age verification doesn't need to be a privacy footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
+* [2025-07-31, 21:47:27](https://news.ycombinator.com/item?id=44750563) - [“No tax on tips” is an industry plant](https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant)
 * [2025-07-31, 21:28:07](https://news.ycombinator.com/item?id=44750416) - [The anti-abundance critique on housing is wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
 * [2025-07-31, 20:29:55](https://news.ycombinator.com/item?id=44749772) - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
 * [2025-07-31, 19:00:58](https://news.ycombinator.com/item?id=44748934) - [Slow](https://michaelnotebook.com/slow/index.html)
