@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 18:49:50](https://news.ycombinator.com/item?id=44760843) - [Clarifying recent headlines on gaming content](https://www.mastercard.com/us/en/news-and-trends/press/2025/august/clarifying-recent-headlines-on-gaming-content.html)
+* [2025-08-01, 18:38:38](https://news.ycombinator.com/item?id=44760697) - [Unemployment rising in remote-friendly occupations (2024)](https://jedkolko.com/2024/09/24/unemployment-rising-in-remote-friendly-occupations/)
 * [2025-08-01, 18:28:53](https://news.ycombinator.com/item?id=44760573) - [Tesla must pay $329M in damages in fatal Autopilot case, jury says](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
 * [2025-08-01, 17:56:14](https://news.ycombinator.com/item?id=44760111) - [NSF suspends nearly 300 UCLA grants (Terence Tao, Plasma Science Facility, etc.)](https://grant-witness.us/nsf-data.html)
 * [2025-08-01, 17:43:02](https://news.ycombinator.com/item?id=44759918) - [Google Shifts goo.gl Policy: Inactive Links Deactivated, Active Links Preserved](https://blog.google/technology/developers/googl-link-shortening-update/)
