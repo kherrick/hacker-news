@@ -15,6 +15,7 @@
 * [2025-07-30, 20:27:57](https://news.ycombinator.com/item?id=44739117) - [Actions Reflect Your Priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)
 * [2025-07-30, 18:55:43](https://news.ycombinator.com/item?id=44738161) - [The Preserving Machine by Philip K. Dick (1953)](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
 * [2025-07-30, 18:52:51](https://news.ycombinator.com/item?id=44738132) - [Scammers Unleash Flood of Slick Online Gaming Sites](https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/)
+* [2025-07-30, 18:39:06](https://news.ycombinator.com/item?id=44737965) - [Dynamic Programming Bursting Balloons](https://sylhare.github.io/2025/07/29/bursting-balloons.html)
 * [2025-07-30, 18:27:56](https://news.ycombinator.com/item?id=44737839) - [Drawing for the New Yorker](https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker)
 * [2025-07-30, 18:27:01](https://news.ycombinator.com/item?id=44737823) - [Polarizing Parsers](https://flak.tedunangst.com/post/polarizing-parsers)
 * [2025-07-30, 18:15:35](https://news.ycombinator.com/item?id=44737676) - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
