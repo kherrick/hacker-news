@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
 * [2025-07-29, 23:34:11](https://news.ycombinator.com/item?id=44729461) - [Someone made a 128000 line PR to opencut](https://github.com/OpenCut-app/OpenCut/pull/479)
+* [2025-07-29, 23:32:10](https://news.ycombinator.com/item?id=44729452) - [PHP-ORT: Machine Learning Inference for the Web](https://krakjoe.github.io/ort/)
 * [2025-07-29, 23:09:04](https://news.ycombinator.com/item?id=44729302) - [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
 * [2025-07-29, 22:50:47](https://news.ycombinator.com/item?id=44729169) - [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
 * [2025-07-29, 22:09:48](https://news.ycombinator.com/item?id=44728833) - [Htmx and URL State Management](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
