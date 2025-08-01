@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-01, 05:31:20](https://news.ycombinator.com/item?id=44753298) - [Every Satellite Orbiting Earth and Who Owns Them](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
+* [2025-08-01, 05:31:20](https://news.ycombinator.com/item?id=44753298) - [Every satellite orbiting earth and who owns them (2023)](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
 * [2025-08-01, 02:45:52](https://news.ycombinator.com/item?id=44752546) - [LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others](https://artificialanalysis.ai/leaderboards/models)
 * [2025-08-01, 02:30:59](https://news.ycombinator.com/item?id=44752469) - [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
 * [2025-07-31, 22:19:54](https://news.ycombinator.com/item?id=44750817) - [Age verification doesn't need to be a privacy footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
