@@ -2,6 +2,7 @@
 
 * [2025-08-01, 14:28:11](https://news.ycombinator.com/item?id=44757316) - [Long Term Support](https://www.sqlite.org/lts.html)
 * [2025-08-01, 14:24:04](https://news.ycombinator.com/item?id=44757262) - [IRS head says free Direct File tax service is 'gone'](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
+* [2025-08-01, 14:22:39](https://news.ycombinator.com/item?id=44757247) - [OpenAI raises $8.3B at $300B valuation](https://www.nytimes.com/2025/08/01/business/dealbook/openai-ai-mega-funding-deal.html)
 * [2025-08-01, 14:00:55](https://news.ycombinator.com/item?id=44756989) - [Online Safety Act: What went wrong?](https://therectangle.substack.com/p/online-safety-act-what-went-wrong)
 * [2025-08-01, 13:13:33](https://news.ycombinator.com/item?id=44756314) - [GPT-5 is already (ostensibly) available via API](https://old.reddit.com/r/OpenAI/comments/1mettre/gpt5_is_already_ostensibly_available_via_api/)
 * [2025-08-01, 12:51:38](https://news.ycombinator.com/item?id=44756045) - [Live coding interviews measure stress, not coding skills](https://hadid.dev/posts/living-coding/)
@@ -23,13 +24,12 @@
 * [2025-07-31, 14:16:07](https://news.ycombinator.com/item?id=44745897) - [MacBook Pro Insomnia](https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia)
 * [2025-07-31, 13:41:45](https://news.ycombinator.com/item?id=44745555) - [Releasing weights for FLUX.1 Krea](https://www.krea.ai/blog/flux-krea-open-source-release)
 * [2025-07-31, 11:54:22](https://news.ycombinator.com/item?id=44744715) - [Many countries that said no to ChatControl in 2024 are now undecided](https://digitalcourage.social/@echo_pbreyer/114946559233051667)
+* [2025-07-30, 03:33:09](https://news.ycombinator.com/item?id=44730691) - [Show HN: An interactive dashboard to explore NYC rentals data](https://leaseswap.nyc/analytics)
 * [2025-07-29, 23:32:10](https://news.ycombinator.com/item?id=44729452) - [PHP-ORT: Machine learning inference for the web](https://krakjoe.github.io/ort/)
-* [2025-07-29, 17:51:22](https://news.ycombinator.com/item?id=44726347) - [Programmers aren’t so humble anymore, maybe because nobody codes in Perl](https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/)
 * [2025-07-29, 10:28:36](https://news.ycombinator.com/item?id=44721516) - [Show HN: Rewindtty – Record and replay terminal sessions as structured JSON](https://github.com/debba/rewindtty)
 * [2025-07-29, 10:08:34](https://news.ycombinator.com/item?id=44721378) - [The Longest Sightline on Earth](https://calgaryvisioncentre.com/news/2017/6/23/tdgft1bsbdlm8496ov7tn73kr0ci1q)
 * [2025-07-29, 07:10:59](https://news.ycombinator.com/item?id=44720077) - [Mountain of Ink](https://mountainofink.com)
 * [2025-07-29, 04:57:22](https://news.ycombinator.com/item?id=44719222) - [Show HN: Draw A Fish and watch it swim with the others](https://drawafish.com)
-* [2025-07-28, 00:19:37](https://news.ycombinator.com/item?id=44705960) - [Show HN: I made a website that makes you cry](https://www.cryonceaweek.com)
 
 ## [Archives](archives/index.md)
 
