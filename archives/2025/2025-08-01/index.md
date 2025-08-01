@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 19:28:45](https://news.ycombinator.com/item?id=44761299) - [Deep Agents](https://blog.langchain.com/deep-agents/)
+* [2025-08-01, 19:21:36](https://news.ycombinator.com/item?id=44761205) - [Atlassian terminates 150 staff with pre-recorded video](https://www.cyberdaily.au/digital-transformation/12441-atlassian-terminates-150-staff-with-pre-recorded-video-will-be-largely-replaced-by-ai)
 * [2025-08-01, 18:54:59](https://news.ycombinator.com/item?id=44760902) - [Philz Coffee close to closing deal to sell to private equity firm for $145M](https://missionlocal.org/2025/07/philz-coffee-private-equity-sell/)
 * [2025-08-01, 18:49:50](https://news.ycombinator.com/item?id=44760843) - [Clarifying recent headlines on gaming content](https://www.mastercard.com/us/en/news-and-trends/press/2025/august/clarifying-recent-headlines-on-gaming-content.html)
+* [2025-08-01, 18:48:42](https://news.ycombinator.com/item?id=44760821) - [If you Google 'bad UX', all the results appear in Comic Sans](https://www.google.com/search?q=bad+UX&sca_esv=3d1e29cf7e253e0e&sxsrf=AE3TifPI3Zlb9DuAvgLQfOsNJAeRxALXIQ%3A1754074055107&ei=xwuNaPmrBuyIkdUPoKuEuQQ&ved=0ahUKEwi5q9uHo-qOAxVsRKQEHaAVIUcQ4dUDCBA&uact=5&oq=bad+UX&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmJhZCBVWEgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQCYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp)
 * [2025-08-01, 18:38:38](https://news.ycombinator.com/item?id=44760697) - [Unemployment rising in remote-friendly occupations (2024)](https://jedkolko.com/2024/09/24/unemployment-rising-in-remote-friendly-occupations/)
 * [2025-08-01, 18:28:53](https://news.ycombinator.com/item?id=44760573) - [Tesla must pay $329M in damages in fatal Autopilot case, jury says](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
 * [2025-08-01, 17:56:14](https://news.ycombinator.com/item?id=44760111) - [NSF suspends nearly 300 UCLA grants (Terence Tao, Plasma Science Facility, etc.)](https://grant-witness.us/nsf-data.html)
