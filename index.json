@@ -61,6 +61,26 @@
   ],
   [
     [
+      "2025-08-01, 18:27:59",
+      "https://news.ycombinator.com/item?id=44760561"
+    ],
+    [
+      "Self-Signed JWTs",
+      "https://www.selfref.com/self-signed-jwts"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 17:56:14",
+      "https://news.ycombinator.com/item?id=44760111"
+    ],
+    [
+      "NSF suspends nearly 300 UCLA grants (Terence Tao, Plasma Science Facility, etc.)",
+      "https://grant-witness.us/nsf-data.html"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 17:43:02",
       "https://news.ycombinator.com/item?id=44759918"
     ],
@@ -211,22 +231,22 @@
   ],
   [
     [
-      "2025-08-01, 09:08:59",
-      "https://news.ycombinator.com/item?id=44754523"
-    ],
-    [
-      "Our Farewell from Google Play",
-      "https://secuso.aifb.kit.edu/english/2809.php"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 05:31:20",
       "https://news.ycombinator.com/item?id=44753298"
     ],
     [
       "Every satellite orbiting earth and who owns them (2023)",
       "https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 17:52:37",
+      "https://news.ycombinator.com/item?id=44737372"
+    ],
+    [
+      "Build an AI Voice Agent for Calls with Open Source",
+      "https://github.com/videosdk-community/ai-telephony-demo"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-07-29, 20:14:07",
-      "https://news.ycombinator.com/item?id=44727756"
-    ],
-    [
-      "The world's first passenger jet was a death trap. Now it's brought back to life",
-      "https://www.cnn.com/travel/de-havilland-comet-dh106-first-passenger-jet"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 18:17:26",
       "https://news.ycombinator.com/item?id=44726641"
     ],
     [
       "Pseudo, a Common Lisp macro for pseudocode expressions",
       "http://funcall.blogspot.com/2025/07/pseudo.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 15:01:17",
-      "https://news.ycombinator.com/item?id=44724259"
-    ],
-    [
-      "How Hyper built a 1M-accurate indoor GPS",
-      "https://andrewhart.me/hyper/"
     ]
   ],
   [
