@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 11:39:09](https://news.ycombinator.com/item?id=44755429) - [Terence Tao's NSF grants suspended](https://bsky.app/profile/dangaristo.bsky.social/post/3lvc7ldavhk2o)
 * [2025-08-01, 11:14:37](https://news.ycombinator.com/item?id=44755298) - [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [2025-08-01, 09:46:08](https://news.ycombinator.com/item?id=44754717) - [Pride Versioning 0.3.0](https://pridever.org/)
 * [2025-08-01, 09:27:46](https://news.ycombinator.com/item?id=44754631) - [Vibe Coding Is the Fast Fashion Industry of Software Engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html)
