@@ -20,6 +20,7 @@
 * [2025-07-30, 18:15:35](https://news.ycombinator.com/item?id=44737676) - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 18:05:29](https://news.ycombinator.com/item?id=44737546) - [Maintaining Weight Loss](https://macrofactorapp.com/maintain-weight-loss/)
 * [2025-07-30, 18:00:13](https://news.ycombinator.com/item?id=44737474) - [Every Champion Needs a Rival](https://tombrady.com/posts/every-champion-needs-a-rival)
+* [2025-07-30, 17:52:37](https://news.ycombinator.com/item?id=44737372) - [Build an AI Voice Agent for Calls with Open Source](https://github.com/videosdk-community/ai-telephony-demo)
 * [2025-07-30, 17:51:21](https://news.ycombinator.com/item?id=44737353) - [Most Illinois farmland is not owned by farmers](https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/)
 * [2025-07-30, 17:50:48](https://news.ycombinator.com/item?id=44737346) - [The Hype is the Product](https://rys.io/en/180.html)
 * [2025-07-30, 17:21:17](https://news.ycombinator.com/item?id=44736967) - [Fast](https://www.catherinejue.com/fast)
