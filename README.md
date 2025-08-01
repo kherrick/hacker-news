@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-01, 09:27:46](https://news.ycombinator.com/item?id=44754631) - [Vibe Coding Is the Fast Fashion Industry of Software Engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html)
 * [2025-08-01, 08:56:17](https://news.ycombinator.com/item?id=44754433) - [Palantir gets $10B contract from U.S. Army](https://www.washingtonpost.com/technology/2025/07/31/palantir-army-contract-10bn/)
 * [2025-08-01, 05:31:20](https://news.ycombinator.com/item?id=44753298) - [Every satellite orbiting earth and who owns them (2023)](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
 * [2025-08-01, 02:45:52](https://news.ycombinator.com/item?id=44752546) - [LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others](https://artificialanalysis.ai/leaderboards/models)
@@ -25,7 +26,6 @@
 * [2025-07-29, 17:51:22](https://news.ycombinator.com/item?id=44726347) - [Programmers aren’t so humble anymore, maybe because nobody codes in Perl](https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/)
 * [2025-07-29, 13:12:19](https://news.ycombinator.com/item?id=44722910) - [Rao Reading Algorithm](https://raohacker.com/rao-reading-algorithm/)
 * [2025-07-29, 07:10:59](https://news.ycombinator.com/item?id=44720077) - [Mountain of Ink](https://mountainofink.com)
-* [2025-07-28, 19:51:11](https://news.ycombinator.com/item?id=44714796) - [Scientists and engineers craft radio telescope bound for the moon](https://www.bnl.gov/newsroom/news.php?a=122408)
 * [2025-07-28, 18:23:51](https://news.ycombinator.com/item?id=44713716) - [Replacing cron jobs with a centralized task scheduler](https://mayhul.com/posts/scheduled-tasks/)
 * [2025-07-28, 13:23:35](https://news.ycombinator.com/item?id=44710651) - [Face it: you're a crazy person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
 * [2025-07-28, 03:49:47](https://news.ycombinator.com/item?id=44707062) - [Raspberry Pi 5 Gets a MicroSD Express Hat](https://www.cnx-software.com/2025/07/28/raspberry-pi-5-gets-a-microsd-express-hat/)
