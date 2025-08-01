@@ -30,6 +30,7 @@
 * [2025-07-29, 18:25:00](https://news.ycombinator.com/item?id=44726736) - [The Secret Stanford Program No One's Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-29, 18:20:11](https://news.ycombinator.com/item?id=44726672) - [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
+* [2025-07-29, 18:17:26](https://news.ycombinator.com/item?id=44726641) - [Pseudo, a Common Lisp macro for pseudocode expressions](http://funcall.blogspot.com/2025/07/pseudo.html)
 * [2025-07-29, 18:09:58](https://news.ycombinator.com/item?id=44726551) - [Linux 6.16 brings faster file systems, improved confidential memory, & more Rust](https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/)
 * [2025-07-29, 17:51:22](https://news.ycombinator.com/item?id=44726347) - [Programmers aren’t so humble anymore, maybe because nobody codes in Perl](https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/)
 * [2025-07-29, 17:44:58](https://news.ycombinator.com/item?id=44726280) - [A Periodic Table of System Design Principles](https://github.com/jarulraj/periodic-table)
