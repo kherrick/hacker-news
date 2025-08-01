@@ -80,6 +80,7 @@
 * [2025-07-29, 10:28:36](https://news.ycombinator.com/item?id=44721516) - [Show HN: Rewindtty – Record and replay terminal sessions as structured JSON](https://github.com/debba/rewindtty)
 * [2025-07-29, 10:25:18](https://news.ycombinator.com/item?id=44721485) - [Amazon's AI Coding Revealed a Dirty Little Secret](https://www.bloomberg.com/opinion/articles/2025-07-29/amazon-ai-coding-revealed-a-dirty-little-secret)
 * [2025-07-29, 10:12:29](https://news.ycombinator.com/item?id=44721403) - [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
+* [2025-07-29, 10:08:34](https://news.ycombinator.com/item?id=44721378) - [The Longest Sightline on Earth](https://calgaryvisioncentre.com/news/2017/6/23/tdgft1bsbdlm8496ov7tn73kr0ci1q)
 * [2025-07-29, 09:42:14](https://news.ycombinator.com/item?id=44721204) - [Nothing to watch – Experimental gallery visualizing 50k film posters](https://nothing-to-watch.port80.ch)
 * [2025-07-29, 09:15:19](https://news.ycombinator.com/item?id=44721003) - [Stop promising \"unlimited\", when you mean \"until we change our minds\"](https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again)
 * [2025-07-29, 07:29:13](https://news.ycombinator.com/item?id=44720200) - [EU Commission finds Temu in breach of online platform rules](https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules)
