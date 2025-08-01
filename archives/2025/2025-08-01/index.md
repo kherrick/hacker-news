@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 20:21:42](https://news.ycombinator.com/item?id=44762026) - [Researchers Map Where Solar Energy Delivers the Biggest Climate Payoff](https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff)
+* [2025-08-01, 20:21:29](https://news.ycombinator.com/item?id=44762022) - [Does the Bitter Lesson Have Limits?](https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html)
+* [2025-08-01, 20:01:53](https://news.ycombinator.com/item?id=44761760) - [When Flatpak's Sandbox Cracks](https://www.linuxjournal.com/content/when-flatpaks-sandbox-cracks-real-life-security-issues-beyond-ideal)
 * [2025-08-01, 19:49:48](https://news.ycombinator.com/item?id=44761576) - [Tested: Microsoft Recall can still capture credit cards and passwords](https://www.theregister.com/2025/08/01/microsoft_recall_captures_credit_card_info/)
 * [2025-08-01, 19:28:45](https://news.ycombinator.com/item?id=44761299) - [Deep Agents](https://blog.langchain.com/deep-agents/)
 * [2025-08-01, 19:21:36](https://news.ycombinator.com/item?id=44761205) - [Atlassian terminates 150 staff with pre-recorded video](https://www.cyberdaily.au/digital-transformation/12441-atlassian-terminates-150-staff-with-pre-recorded-video-will-be-largely-replaced-by-ai)
