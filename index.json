@@ -1,11 +1,51 @@
 [
   [
     [
+      "2025-08-01, 22:10:07",
+      "https://news.ycombinator.com/item?id=44763016"
+    ],
+    [
+      "Twentyseven 1.0",
+      "https://blog.poisson.chat/posts/2025-08-01-twentyseven.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 22:04:38",
+      "https://news.ycombinator.com/item?id=44762959"
+    ],
+    [
+      "Cerebras Code",
+      "https://www.cerebras.ai/blog/introducing-cerebras-code"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 21:53:13",
+      "https://news.ycombinator.com/item?id=44762880"
+    ],
+    [
+      "Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU",
+      "https://www.dougmacdowell.com/coffeematic-pc.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 21:50:28",
+      "https://news.ycombinator.com/item?id=44762856"
+    ],
+    [
+      "Anthropic Revokes OpenAI's Access to Claude",
+      "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 21:06:09",
       "https://news.ycombinator.com/item?id=44762504"
     ],
     [
-      "JSON is not a YAML subset",
+      "JSON is not a YAML subset (2022)",
       "https://john-millikin.com/json-is-not-a-yaml-subset"
     ]
   ],
@@ -47,16 +87,6 @@
     [
       "Deep Agents",
       "https://blog.langchain.com/deep-agents/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 18:48:42",
-      "https://news.ycombinator.com/item?id=44760821"
-    ],
-    [
-      "Bad UX",
-      "https://www.google.com/search?q=bad+UX"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-08-01, 15:19:43",
-      "https://news.ycombinator.com/item?id=44758132"
-    ],
-    [
-      "Fast (2019)",
-      "https://patrickcollison.com/fast"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 15:00:05",
       "https://news.ycombinator.com/item?id=44757794"
     ],
@@ -211,22 +231,22 @@
   ],
   [
     [
-      "2025-08-01, 09:08:59",
-      "https://news.ycombinator.com/item?id=44754523"
-    ],
-    [
-      "Our Farewell from Google Play",
-      "https://secuso.aifb.kit.edu/english/2809.php"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 09:04:16",
       "https://news.ycombinator.com/item?id=44754492"
     ],
     [
       "Replacing tmux in my dev workflow",
       "https://bower.sh/you-might-not-need-tmux"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 21:55:53",
+      "https://news.ycombinator.com/item?id=44739965"
+    ],
+    [
+      "The criminal enterprise run by monkeys",
+      "https://www.wsj.com/lifestyle/monkeys-thieves-bali-temple-0b63a432"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-07-30, 03:33:09",
-      "https://news.ycombinator.com/item?id=44730691"
-    ],
-    [
-      "Show HN: An interactive dashboard to explore NYC rentals data",
-      "https://leaseswap.nyc/analytics"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 20:14:07",
       "https://news.ycombinator.com/item?id=44727756"
     ],
     [
       "A DH106 1A Comet has been restored at the de Havilland Aircraft Museum",
       "https://www.cnn.com/travel/de-havilland-comet-dh106-first-passenger-jet"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 18:17:26",
-      "https://news.ycombinator.com/item?id=44726641"
-    ],
-    [
-      "Pseudo, a Common Lisp macro for pseudocode expressions",
-      "http://funcall.blogspot.com/2025/07/pseudo.html"
     ]
   ],
   [
