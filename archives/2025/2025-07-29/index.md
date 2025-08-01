@@ -19,6 +19,7 @@
 * [2025-07-29, 19:37:05](https://news.ycombinator.com/item?id=44727420) - [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
 * [2025-07-29, 19:30:40](https://news.ycombinator.com/item?id=44727357) - [Delta Engineered a Pricing System That Sorts You by Economic Value](https://blog.getjetback.com/delta-engineered-a-pricing-system-that-sorts-you-by-economic-value/)
 * [2025-07-29, 19:24:40](https://news.ycombinator.com/item?id=44727298) - [Maru OS – Your phone is your PC](https://maruos.com/)
+* [2025-07-29, 19:20:52](https://news.ycombinator.com/item?id=44727268) - [The Riddle of the Lovers' Basket](https://barycentre.substack.com/p/the-riddle-of-the-lovers-basket)
 * [2025-07-29, 19:13:32](https://news.ycombinator.com/item?id=44727191) - [How the Brain Increases Blood Flow on Demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 * [2025-07-29, 19:07:59](https://news.ycombinator.com/item?id=44727130) - [A Quantum Gravimeter for GPS Backup](https://spectrum.ieee.org/quantum-gravity-sensor)
 * [2025-07-29, 19:01:25](https://news.ycombinator.com/item?id=44727066) - [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)
