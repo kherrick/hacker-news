@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 21:06:09](https://news.ycombinator.com/item?id=44762504) - [JSON is not a YAML subset](https://john-millikin.com/json-is-not-a-yaml-subset)
 * [2025-08-01, 20:33:02](https://news.ycombinator.com/item?id=44762157) - [HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
 * [2025-08-01, 20:21:42](https://news.ycombinator.com/item?id=44762026) - [Researchers Map Where Solar Energy Delivers the Biggest Climate Payoff](https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff)
 * [2025-08-01, 20:21:29](https://news.ycombinator.com/item?id=44762022) - [Does the Bitter Lesson Have Limits?](https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html)
