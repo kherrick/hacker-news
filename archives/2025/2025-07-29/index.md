@@ -50,6 +50,7 @@
 * [2025-07-29, 15:15:24](https://news.ycombinator.com/item?id=44724425) - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
 * [2025-07-29, 15:12:33](https://news.ycombinator.com/item?id=44724402) - [Peacock feathers can be lasers](https://www.science.org/content/article/peacock-feathers-can-be-lasers)
 * [2025-07-29, 15:03:40](https://news.ycombinator.com/item?id=44724287) - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
+* [2025-07-29, 15:01:17](https://news.ycombinator.com/item?id=44724259) - [How Hyper Built a 1m-Accurate Indoor GPS](https://andrewhart.me/hyper/)
 * [2025-07-29, 15:00:02](https://news.ycombinator.com/item?id=44724248) - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
 * [2025-07-29, 14:59:18](https://news.ycombinator.com/item?id=44724238) - [Irrelevant facts about cats added to math problems increase LLM errors by 300%](https://www.science.org/content/article/scienceadviser-cats-confuse-ai)
 * [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource](https://www.benkuhn.net/attention/)
