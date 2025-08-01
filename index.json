@@ -1,32 +1,32 @@
 [
   [
     [
-      "2025-08-01, 01:34:26",
-      "https://news.ycombinator.com/item?id=44752160"
+      "2025-08-01, 02:45:52",
+      "https://news.ycombinator.com/item?id=44752546"
     ],
     [
-      "Fair Access to Banking",
-      "https://usips.org/blog/2025/07/fair-access-to-banking/"
+      "LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others",
+      "https://artificialanalysis.ai/leaderboards/models"
     ]
   ],
   [
     [
-      "2025-08-01, 00:04:04",
-      "https://news.ycombinator.com/item?id=44751628"
+      "2025-08-01, 02:30:59",
+      "https://news.ycombinator.com/item?id=44752469"
     ],
     [
-      "Golden Literal Testing in UTest",
-      "https://www.lihaoyi.com/post/GoldenLiteralTestinginuTest090.html"
+      "Show HN: KubeForge – A GUI for Kubernetes YAMLs",
+      "https://github.com/kubenote/KubeForge"
     ]
   ],
   [
     [
-      "2025-07-31, 22:58:36",
-      "https://news.ycombinator.com/item?id=44751155"
+      "2025-07-31, 22:19:54",
+      "https://news.ycombinator.com/item?id=44750817"
     ],
     [
-      "Crafting your own Static Site Generator using Phoenix (2023)",
-      "https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/"
+      "Age verification doesn't need to be a privacy footgun",
+      "https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=44745555"
     ],
     [
-      "Releasing open weights for FLUX.1 Krea",
+      "Releasing weights for FLUX.1 Krea",
       "https://www.krea.ai/blog/flux-krea-open-source-release"
     ]
   ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-07-31, 11:37:22",
-      "https://news.ycombinator.com/item?id=44744578"
-    ],
-    [
-      "Introduction to Computer Music",
-      "https://cmtext.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 11:19:54",
       "https://news.ycombinator.com/item?id=44744454"
     ],
@@ -211,22 +201,32 @@
   ],
   [
     [
-      "2025-07-31, 10:56:21",
-      "https://news.ycombinator.com/item?id=44744324"
-    ],
-    [
-      "I tried Servo",
-      "https://www.spacebar.news/servo-undercover-web-browser-engine/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 14:44:13",
       "https://news.ycombinator.com/item?id=44734891"
     ],
     [
       "Show HN: Sourcebot – Self-hosted Perplexity for your codebase",
       "https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 07:10:59",
+      "https://news.ycombinator.com/item?id=44720077"
+    ],
+    [
+      "Fountain Pen Ink and Paper Review Blog",
+      "https://mountainofink.com"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 06:41:56",
+      "https://news.ycombinator.com/item?id=44719860"
+    ],
+    [
+      "Telephone colophon: Or, how I overengineered my call audio (2020)",
+      "https://noahliebman.net/2020/12/telephone-colophon-or-how-i-overengineered-my-call-audio/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=44714796"
     ],
     [
-      "Scientists and Engineers Craft Radio Telescope Bound for the Moon",
+      "Scientists and engineers craft radio telescope bound for the moon",
       "https://www.bnl.gov/newsroom/news.php?a=122408"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44705960"
     ],
     [
-      "I made a website that makes you cry",
+      "Show HN: I made a website that makes you cry",
       "https://www.cryonceaweek.com"
     ]
   ],
