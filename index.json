@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2025-08-01, 20:01:53",
-      "https://news.ycombinator.com/item?id=44761760"
+      "2025-08-01, 19:48:06",
+      "https://news.ycombinator.com/item?id=44761548"
     ],
     [
-      "When Flatpak's Sandbox Cracks",
-      "https://www.linuxjournal.com/content/when-flatpaks-sandbox-cracks-real-life-security-issues-beyond-ideal"
+      "DeepSeek won the best paper award at ACL 2025",
+      "https://arxiv.org/abs/2502.11089"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "I couldn't submit a PR, so I got hired and fixed it myself",
       "https://www.skeptrune.com/posts/doing-the-little-things/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 16:58:51",
-      "https://news.ycombinator.com/item?id=44759406"
-    ],
-    [
-      "Show HN: TraceRoot – Open-source agentic debugging for distributed services",
-      "https://github.com/traceroot-ai/traceroot"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Build an AI telephony agent for inbound and outbound calls",
       "https://github.com/videosdk-community/ai-telephony-demo"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 14:14:56",
+      "https://news.ycombinator.com/item?id=44734515"
+    ],
+    [
+      "Weather Model based on ADS-B",
+      "https://obrhubr.org/adsb-weather-model"
     ]
   ],
   [
