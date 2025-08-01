@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
 * [2025-08-01, 17:01:08](https://news.ycombinator.com/item?id=44759432) - [Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer](https://www.coveragecat.com/careers/engineering/software-engineer)
+* [2025-08-01, 16:56:40](https://news.ycombinator.com/item?id=44759382) - [Corporation for Public Broadcasting Ceasing Operations](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding)
+* [2025-08-01, 16:36:51](https://news.ycombinator.com/item?id=44759171) - [Ergonomic keyboarding with the Svalboard: a half-year retrospective](https://twey.io/hci/svalboard/)
 * [2025-08-01, 16:35:40](https://news.ycombinator.com/item?id=44759152) - [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
 * [2025-08-01, 16:29:20](https://news.ycombinator.com/item?id=44759085) - [Design patterns you should unlearn in Python](https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part1/)
 * [2025-08-01, 16:20:07](https://news.ycombinator.com/item?id=44758957) - [Free Security Audits for Erlang and Elixir open source projects](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
