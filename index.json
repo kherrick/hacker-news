@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44758281"
     ],
     [
-      "Show HN: Pontoon – open-source customer data syncs",
+      "Show HN: Pontoon – Open-source customer data syncs",
       "https://github.com/pontoon-data/Pontoon"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "Long Term Support",
       "https://www.sqlite.org/lts.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 14:24:04",
-      "https://news.ycombinator.com/item?id=44757262"
-    ],
-    [
-      "IRS head says free Direct File tax service is 'gone'",
-      "https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Slow",
       "https://michaelnotebook.com/slow/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 16:47:54",
+      "https://news.ycombinator.com/item?id=44747457"
+    ],
+    [
+      "Gemini Embedding: Powering RAG and context engineering",
+      "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/"
     ]
   ],
   [
