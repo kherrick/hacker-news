@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-01, 17:01:08",
+      "https://news.ycombinator.com/item?id=44759432"
+    ],
+    [
+      "Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer",
+      "https://www.coveragecat.com/careers/engineering/software-engineer"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 16:35:40",
       "https://news.ycombinator.com/item?id=44759152"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44758957"
     ],
     [
-      "Free Security Audits for Erlang and Elixir open source projects",
+      "Supporting the BEAM community with free CI/CD security audits",
       "https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-08-01, 11:41:05",
-      "https://news.ycombinator.com/item?id=44755441"
-    ],
-    [
-      "Belgium bans Internet Archive's ‘Open Library’",
-      "https://torrentfreak.com/belgium-bans-internet-archives-open-library-in-sweeping-site-blocking-order/"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 11:10:38",
       "https://news.ycombinator.com/item?id=44755279"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-07-31, 13:41:45",
-      "https://news.ycombinator.com/item?id=44745555"
-    ],
-    [
-      "Releasing weights for FLUX.1 Krea",
-      "https://www.krea.ai/blog/flux-krea-open-source-release"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 03:33:09",
       "https://news.ycombinator.com/item?id=44730691"
     ],
     [
       "Show HN: An interactive dashboard to explore NYC rentals data",
       "https://leaseswap.nyc/analytics"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 18:17:26",
+      "https://news.ycombinator.com/item?id=44726641"
+    ],
+    [
+      "Pseudo, a Common Lisp macro for pseudocode expressions",
+      "http://funcall.blogspot.com/2025/07/pseudo.html"
     ]
   ],
   [
