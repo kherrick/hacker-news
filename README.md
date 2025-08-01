@@ -25,11 +25,11 @@
 * [2025-07-31, 13:41:45](https://news.ycombinator.com/item?id=44745555) - [Releasing weights for FLUX.1 Krea](https://www.krea.ai/blog/flux-krea-open-source-release)
 * [2025-07-31, 11:54:22](https://news.ycombinator.com/item?id=44744715) - [Many countries that said no to ChatControl in 2024 are now undecided](https://digitalcourage.social/@echo_pbreyer/114946559233051667)
 * [2025-07-30, 03:33:09](https://news.ycombinator.com/item?id=44730691) - [Show HN: An interactive dashboard to explore NYC rentals data](https://leaseswap.nyc/analytics)
-* [2025-07-29, 23:32:10](https://news.ycombinator.com/item?id=44729452) - [PHP-ORT: Machine learning inference for the web](https://krakjoe.github.io/ort/)
+* [2025-07-29, 17:51:22](https://news.ycombinator.com/item?id=44726347) - [Programmers aren’t so humble anymore, maybe because nobody codes in Perl](https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/)
 * [2025-07-29, 10:28:36](https://news.ycombinator.com/item?id=44721516) - [Show HN: Rewindtty – Record and replay terminal sessions as structured JSON](https://github.com/debba/rewindtty)
-* [2025-07-29, 10:08:34](https://news.ycombinator.com/item?id=44721378) - [The Longest Sightline on Earth](https://calgaryvisioncentre.com/news/2017/6/23/tdgft1bsbdlm8496ov7tn73kr0ci1q)
 * [2025-07-29, 07:10:59](https://news.ycombinator.com/item?id=44720077) - [Mountain of Ink](https://mountainofink.com)
 * [2025-07-29, 04:57:22](https://news.ycombinator.com/item?id=44719222) - [Show HN: Draw A Fish and watch it swim with the others](https://drawafish.com)
+* [2025-07-28, 18:22:26](https://news.ycombinator.com/item?id=44713701) - [Yes in My Bamako Yard](https://asteriskmag.com/issues/11/yes-in-my-bamako-yard)
 
 ## [Archives](archives/index.md)
 
