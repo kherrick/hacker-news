@@ -66,6 +66,7 @@
 * [2025-07-29, 13:30:47](https://news.ycombinator.com/item?id=44723131) - [Coverage.py Regex Pragmas](https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html)
 * [2025-07-29, 13:28:12](https://news.ycombinator.com/item?id=44723098) - [Cucumber lets you write automated tests in plain language](https://cucumber.io/)
 * [2025-07-29, 13:15:49](https://news.ycombinator.com/item?id=44722951) - [Linux Performance Analysis in 60 seconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+* [2025-07-29, 13:12:19](https://news.ycombinator.com/item?id=44722910) - [Rao Reading Algorithm](https://raohacker.com/rao-reading-algorithm/)
 * [2025-07-29, 12:40:13](https://news.ycombinator.com/item?id=44722602) - [Ask HN: How will the OSA affect small Mastadon instances?](https://news.ycombinator.com/item?id=44722602)
 * [2025-07-29, 12:38:46](https://news.ycombinator.com/item?id=44722584) - [Wish you could escape the planet? Too bad life in space would suck](https://www.salon.com/2024/11/22/wish-you-could-escape-the-planet-too-life-in-space-would-suck/)
 * [2025-07-29, 12:36:51](https://news.ycombinator.com/item?id=44722556) - [Union Pacific to buy Norfolk in $85B mega U.S. railroad deal](https://www.cnbc.com/2025/07/29/union-pacific-to-buy-norfolk.html)
