@@ -40,6 +40,7 @@
 * [2025-07-30, 14:51:10](https://news.ycombinator.com/item?id=44734983) - [Show HN: A High-Altitude Low-Power Flight Computer for High-Altitude Balloons](https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK)
 * [2025-07-30, 14:44:13](https://news.ycombinator.com/item?id=44734891) - [Show HN: Sourcebot – Self-hosted Perplexity for your codebase](https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0)
 * [2025-07-30, 14:15:07](https://news.ycombinator.com/item?id=44734522) - [A short post on short trains](https://shakeddown.substack.com/p/a-short-post-on-short-trains)
+* [2025-07-30, 14:14:56](https://news.ycombinator.com/item?id=44734515) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-30, 14:12:09](https://news.ycombinator.com/item?id=44734475) - [Opsqueue: Lightweight batch processing queue for heavy loads – now open-source](https://www.channable.com/tech/introducing-opsqueue)
 * [2025-07-30, 14:11:36](https://news.ycombinator.com/item?id=44734471) - [Show HN: State of the Art Open-source alternative to ChatGPT Agents for browsing](https://github.com/trymeka/agent)
 * [2025-07-30, 13:55:33](https://news.ycombinator.com/item?id=44734263) - [The Rising Cost of Child and Pet Day Care](https://marginalrevolution.com/marginalrevolution/2025/07/the-rising-cost-of-child-and-pet-day-care.html)

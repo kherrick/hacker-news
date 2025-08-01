@@ -14,6 +14,7 @@
 * [2025-08-01, 20:21:29](https://news.ycombinator.com/item?id=44762022) - [Does the Bitter Lesson Have Limits?](https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html)
 * [2025-08-01, 20:01:53](https://news.ycombinator.com/item?id=44761760) - [When Flatpak's Sandbox Cracks](https://www.linuxjournal.com/content/when-flatpaks-sandbox-cracks-real-life-security-issues-beyond-ideal)
 * [2025-08-01, 19:49:48](https://news.ycombinator.com/item?id=44761576) - [Tested: Microsoft Recall can still capture credit cards and passwords](https://www.theregister.com/2025/08/01/microsoft_recall_captures_credit_card_info/)
+* [2025-08-01, 19:48:06](https://news.ycombinator.com/item?id=44761548) - [DeepSeek won the best paper award at ACL 2025](https://arxiv.org/abs/2502.11089)
 * [2025-08-01, 19:28:45](https://news.ycombinator.com/item?id=44761299) - [Deep Agents](https://blog.langchain.com/deep-agents/)
 * [2025-08-01, 19:21:36](https://news.ycombinator.com/item?id=44761205) - [Atlassian terminates 150 staff with pre-recorded video](https://www.cyberdaily.au/digital-transformation/12441-atlassian-terminates-150-staff-with-pre-recorded-video-will-be-largely-replaced-by-ai)
 * [2025-08-01, 18:54:59](https://news.ycombinator.com/item?id=44760902) - [Philz Coffee close to closing deal to sell to private equity firm for $145M](https://missionlocal.org/2025/07/philz-coffee-private-equity-sell/)
