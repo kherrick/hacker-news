@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 14:28:11](https://news.ycombinator.com/item?id=44757316) - [Long Term Support](https://www.sqlite.org/lts.html)
+* [2025-08-01, 14:24:04](https://news.ycombinator.com/item?id=44757262) - [IRS head says free Direct File tax service is 'gone'](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
+* [2025-08-01, 14:00:55](https://news.ycombinator.com/item?id=44756989) - [Online Safety Act: What went wrong?](https://therectangle.substack.com/p/online-safety-act-what-went-wrong)
 * [2025-08-01, 13:13:33](https://news.ycombinator.com/item?id=44756314) - [GPT-5 is already (ostensibly) available via API](https://old.reddit.com/r/OpenAI/comments/1mettre/gpt5_is_already_ostensibly_available_via_api/)
 * [2025-08-01, 12:51:38](https://news.ycombinator.com/item?id=44756045) - [Live coding interviews measure stress, not coding skills](https://hadid.dev/posts/living-coding/)
 * [2025-08-01, 12:13:12](https://news.ycombinator.com/item?id=44755654) - [Launch HN: Societies.io (YC W25) – AI simulations of your target audience](https://news.ycombinator.com/item?id=44755654)
