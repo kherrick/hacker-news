@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 16:35:40](https://news.ycombinator.com/item?id=44759152) - [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
+* [2025-08-01, 16:29:20](https://news.ycombinator.com/item?id=44759085) - [Design patterns you should unlearn in Python](https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part1/)
 * [2025-08-01, 16:20:07](https://news.ycombinator.com/item?id=44758957) - [Free Security Audits for Erlang and Elixir open source projects](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
 * [2025-08-01, 16:10:33](https://news.ycombinator.com/item?id=44758842) - [Rollercoaster Tycoon (Or, MicroProse's Last Hurrah)](https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/)
 * [2025-08-01, 15:44:27](https://news.ycombinator.com/item?id=44758511) - [OpenAI Leaks 120B Open Model on Hugging Face](https://twitter.com/main_horse/status/1951201925778776530)
@@ -12,6 +14,7 @@
 * [2025-08-01, 15:28:53](https://news.ycombinator.com/item?id=44758281) - [Show HN: Pontoon – open-source customer data syncs](https://github.com/pontoon-data/Pontoon)
 * [2025-08-01, 15:19:43](https://news.ycombinator.com/item?id=44758132) - [Fast (2019)](https://patrickcollison.com/fast)
 * [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757794) - [Ask HN: Who is hiring? (August 2025)](https://news.ycombinator.com/item?id=44757794)
+* [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757792) - [Ask HN: Who wants to be hired? (August 2025)](https://news.ycombinator.com/item?id=44757792)
 * [2025-08-01, 14:58:06](https://news.ycombinator.com/item?id=44757755) - [Hyrum's Law](https://www.hyrumslaw.com)
 * [2025-08-01, 14:28:11](https://news.ycombinator.com/item?id=44757316) - [Long Term Support](https://www.sqlite.org/lts.html)
 * [2025-08-01, 14:24:04](https://news.ycombinator.com/item?id=44757262) - [IRS head says free Direct File tax service is 'gone'](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
