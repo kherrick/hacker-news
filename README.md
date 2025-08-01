@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-01, 09:46:08](https://news.ycombinator.com/item?id=44754717) - [Pride Versioning 0.3.0](https://pridever.org/)
 * [2025-08-01, 09:04:16](https://news.ycombinator.com/item?id=44754492) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
 * [2025-08-01, 05:31:20](https://news.ycombinator.com/item?id=44753298) - [Every satellite orbiting earth and who owns them (2023)](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
 * [2025-08-01, 02:45:52](https://news.ycombinator.com/item?id=44752546) - [LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others](https://artificialanalysis.ai/leaderboards/models)
@@ -24,7 +25,6 @@
 * [2025-07-29, 23:32:10](https://news.ycombinator.com/item?id=44729452) - [PHP-ORT: Machine learning inference for the web](https://krakjoe.github.io/ort/)
 * [2025-07-29, 17:51:22](https://news.ycombinator.com/item?id=44726347) - [Programmers aren’t so humble anymore, maybe because nobody codes in Perl](https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/)
 * [2025-07-29, 13:12:19](https://news.ycombinator.com/item?id=44722910) - [Rao Reading Algorithm (2024)](https://raohacker.com/rao-reading-algorithm/)
-* [2025-07-29, 07:10:59](https://news.ycombinator.com/item?id=44720077) - [Mountain of Ink](https://mountainofink.com)
 * [2025-07-28, 22:30:32](https://news.ycombinator.com/item?id=44716521) - [Living with an Apple Lisa [video]](https://www.youtube.com/watch?v=KISxcJ2DydY)
 * [2025-07-28, 19:51:11](https://news.ycombinator.com/item?id=44714796) - [Scientists and engineers craft radio telescope bound for the moon](https://www.bnl.gov/newsroom/news.php?a=122408)
 * [2025-07-28, 13:23:35](https://news.ycombinator.com/item?id=44710651) - [Face it: you're a crazy person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
