@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 12:51:38](https://news.ycombinator.com/item?id=44756045) - [Live coding interviews measure stress, not coding skills](https://hadid.dev/posts/living-coding/)
+* [2025-08-01, 12:12:04](https://news.ycombinator.com/item?id=44755644) - [The Untold Impact of Cancellation](https://pretty.direct/impact)
+* [2025-08-01, 11:57:23](https://news.ycombinator.com/item?id=44755551) - [Navy demonstrates multi-day solar UAS flight](https://www.navair.navy.mil/news/Navy-demonstrates-multi-day-solar-UAS-flight/Tue-07292025-1554)
+* [2025-08-01, 11:41:05](https://news.ycombinator.com/item?id=44755441) - [Belgium Bans Internet Archive's 'Open Library' in Site Blocking Order](https://torrentfreak.com/belgium-bans-internet-archives-open-library-in-sweeping-site-blocking-order/)
 * [2025-08-01, 11:39:09](https://news.ycombinator.com/item?id=44755429) - [Terence Tao's NSF grants suspended](https://bsky.app/profile/dangaristo.bsky.social/post/3lvc7ldavhk2o)
+* [2025-08-01, 11:22:52](https://news.ycombinator.com/item?id=44755341) - [Gemini 2.5 Deep Think](https://twitter.com/GoogleDeepMind/status/1951239132950204439)
 * [2025-08-01, 11:14:37](https://news.ycombinator.com/item?id=44755298) - [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [2025-08-01, 09:46:08](https://news.ycombinator.com/item?id=44754717) - [Pride Versioning 0.3.0](https://pridever.org/)
 * [2025-08-01, 09:27:46](https://news.ycombinator.com/item?id=44754631) - [Vibe Coding Is the Fast Fashion Industry of Software Engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html)
+* [2025-08-01, 09:08:59](https://news.ycombinator.com/item?id=44754523) - [Secuso – Our Farewell from Google Play](https://secuso.aifb.kit.edu/english/2809.php)
 * [2025-08-01, 09:04:16](https://news.ycombinator.com/item?id=44754492) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
 * [2025-08-01, 08:56:17](https://news.ycombinator.com/item?id=44754433) - [Palantir gets $10B contract from U.S. Army](https://www.washingtonpost.com/technology/2025/07/31/palantir-army-contract-10bn/)
 * [2025-08-01, 05:31:20](https://news.ycombinator.com/item?id=44753298) - [Every Satellite Orbiting Earth and Who Owns Them](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
