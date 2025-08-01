@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-08-01, 19:28:45",
+      "https://news.ycombinator.com/item?id=44761299"
+    ],
+    [
+      "Deep Agents",
+      "https://blog.langchain.com/deep-agents/"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 19:21:36",
+      "https://news.ycombinator.com/item?id=44761205"
+    ],
+    [
+      "Atlassian terminates 150 staff with pre-recorded video",
+      "https://www.cyberdaily.au/digital-transformation/12441-atlassian-terminates-150-staff-with-pre-recorded-video-will-be-largely-replaced-by-ai"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 18:54:59",
       "https://news.ycombinator.com/item?id=44760902"
     ],
     [
       "Philz Coffee close to closing deal to sell to private equity firm for $145M",
       "https://missionlocal.org/2025/07/philz-coffee-private-equity-sell/"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 18:48:42",
+      "https://news.ycombinator.com/item?id=44760821"
+    ],
+    [
+      "If you Google 'bad UX', all the results appear in Comic Sans",
+      "https://www.google.com/search?q=bad+UX&sca_esv=3d1e29cf7e253e0e&sxsrf=AE3TifPI3Zlb9DuAvgLQfOsNJAeRxALXIQ%3A1754074055107&ei=xwuNaPmrBuyIkdUPoKuEuQQ&ved=0ahUKEwi5q9uHo-qOAxVsRKQEHaAVIUcQ4dUDCBA&uact=5&oq=bad+UX&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmJhZCBVWEgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQCYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-08-01, 16:29:20",
-      "https://news.ycombinator.com/item?id=44759085"
-    ],
-    [
-      "Design patterns you should unlearn in Python",
-      "https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part1/"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 16:20:07",
       "https://news.ycombinator.com/item?id=44758957"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-08-01, 09:04:16",
-      "https://news.ycombinator.com/item?id=44754492"
-    ],
-    [
-      "Replacing tmux in my dev workflow",
-      "https://bower.sh/you-might-not-need-tmux"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 05:31:20",
       "https://news.ycombinator.com/item?id=44753298"
     ],
     [
       "Every satellite orbiting earth and who owns them (2023)",
       "https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 19:00:58",
-      "https://news.ycombinator.com/item?id=44748934"
-    ],
-    [
-      "Slow",
-      "https://michaelnotebook.com/slow/index.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-07-28, 18:22:26",
-      "https://news.ycombinator.com/item?id=44713701"
+      "2025-07-28, 18:23:51",
+      "https://news.ycombinator.com/item?id=44713716"
     ],
     [
-      "Yes in My Bamako Yard",
-      "https://asteriskmag.com/issues/11/yes-in-my-bamako-yard"
+      "Replacing cron jobs with a centralized task scheduler",
+      "https://mayhul.com/posts/scheduled-tasks/"
     ]
   ]
 ]
