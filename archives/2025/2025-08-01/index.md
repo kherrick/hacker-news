@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 15:32:37](https://news.ycombinator.com/item?id=44758339) - [FBI seized $40k from Linda Martin without charging her with a crime](https://reason.com/2025/07/28/the-fbi-took-her-40000-without-explaining-why-she-fought-back-and-lost/)
+* [2025-08-01, 15:28:53](https://news.ycombinator.com/item?id=44758281) - [Show HN: Pontoon – open-source customer data syncs](https://github.com/pontoon-data/Pontoon)
+* [2025-08-01, 15:19:43](https://news.ycombinator.com/item?id=44758132) - [Fast (2019)](https://patrickcollison.com/fast)
+* [2025-08-01, 14:58:06](https://news.ycombinator.com/item?id=44757755) - [Hyrum's Law](https://www.hyrumslaw.com)
 * [2025-08-01, 14:28:11](https://news.ycombinator.com/item?id=44757316) - [Long Term Support](https://www.sqlite.org/lts.html)
 * [2025-08-01, 14:24:04](https://news.ycombinator.com/item?id=44757262) - [IRS head says free Direct File tax service is 'gone'](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
 * [2025-08-01, 14:22:39](https://news.ycombinator.com/item?id=44757247) - [OpenAI raises $8.3B at $300B valuation](https://www.nytimes.com/2025/08/01/business/dealbook/openai-ai-mega-funding-deal.html)
