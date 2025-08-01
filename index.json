@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-01, 20:33:02",
+      "https://news.ycombinator.com/item?id=44762157"
+    ],
+    [
+      "HTTP Methods",
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 20:21:42",
       "https://news.ycombinator.com/item?id=44762026"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44762022"
     ],
     [
-      "Does the bitter lesson have limits?",
+      "Does the Bitter Lesson Have Limits?",
       "https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "Deep Agents",
       "https://blog.langchain.com/deep-agents/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 19:21:36",
-      "https://news.ycombinator.com/item?id=44761205"
-    ],
-    [
-      "Atlassian terminates 150 staff",
-      "https://www.cyberdaily.au/digital-transformation/12441-atlassian-terminates-150-staff-with-pre-recorded-video-will-be-largely-replaced-by-ai"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=44737965"
     ],
     [
-      "Dynamic Programming Bursting Balloons",
+      "Dynamic programming bursting balloons",
       "https://sylhare.github.io/2025/07/29/bursting-balloons.html"
     ]
   ],
