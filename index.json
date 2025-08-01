@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-08-01, 19:49:48",
-      "https://news.ycombinator.com/item?id=44761576"
+      "2025-08-01, 20:21:42",
+      "https://news.ycombinator.com/item?id=44762026"
     ],
     [
-      "Tested: Microsoft Recall can still capture credit cards and passwords",
-      "https://www.theregister.com/2025/08/01/microsoft_recall_captures_credit_card_info/"
+      "Researchers Map Where Solar Energy Delivers the Biggest Climate Payoff",
+      "https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 20:21:29",
+      "https://news.ycombinator.com/item?id=44762022"
+    ],
+    [
+      "Does the Bitter Lesson Have Limits?",
+      "https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 20:01:53",
+      "https://news.ycombinator.com/item?id=44761760"
+    ],
+    [
+      "When Flatpak's Sandbox Cracks",
+      "https://www.linuxjournal.com/content/when-flatpaks-sandbox-cracks-real-life-security-issues-beyond-ideal"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44761205"
     ],
     [
-      "Atlassian terminates 150 staff with pre-recorded video",
+      "Atlassian terminates 150 staff",
       "https://www.cyberdaily.au/digital-transformation/12441-atlassian-terminates-150-staff-with-pre-recorded-video-will-be-largely-replaced-by-ai"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "If you Google 'bad UX', all the results appear in Comic Sans",
       "https://www.google.com/search?q=bad+UX&sca_esv=3d1e29cf7e253e0e&sxsrf=AE3TifPI3Zlb9DuAvgLQfOsNJAeRxALXIQ%3A1754074055107&ei=xwuNaPmrBuyIkdUPoKuEuQQ&ved=0ahUKEwi5q9uHo-qOAxVsRKQEHaAVIUcQ4dUDCBA&uact=5&oq=bad+UX&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmJhZCBVWEgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQCYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 18:38:38",
-      "https://news.ycombinator.com/item?id=44760697"
-    ],
-    [
-      "Unemployment rising in remote-friendly occupations (2024)",
-      "https://jedkolko.com/2024/09/24/unemployment-rising-in-remote-friendly-occupations/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-08-01, 09:08:59",
-      "https://news.ycombinator.com/item?id=44754523"
-    ],
-    [
-      "Our Farewell from Google Play",
-      "https://secuso.aifb.kit.edu/english/2809.php"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 05:31:20",
       "https://news.ycombinator.com/item?id=44753298"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=44737372"
     ],
     [
-      "Build an AI Voice Agent for Calls with Open Source",
+      "Build an AI telephony agent for inbound and outbound calls",
       "https://github.com/videosdk-community/ai-telephony-demo"
     ]
   ],
