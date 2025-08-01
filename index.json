@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-01, 14:28:11",
+      "https://news.ycombinator.com/item?id=44757316"
+    ],
+    [
+      "Long Term Support",
+      "https://www.sqlite.org/lts.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 14:24:04",
+      "https://news.ycombinator.com/item?id=44757262"
+    ],
+    [
+      "IRS head says free Direct File tax service is 'gone'",
+      "https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 14:00:55",
+      "https://news.ycombinator.com/item?id=44756989"
+    ],
+    [
+      "Online Safety Act: What went wrong?",
+      "https://therectangle.substack.com/p/online-safety-act-what-went-wrong"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 13:13:33",
       "https://news.ycombinator.com/item?id=44756314"
     ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44755528"
     ],
     [
-      "How did Facebook intercept competitor's encrypted mobile app traffic? (2014)",
+      "How did Facebook intercept competitor's encrypted mobile app traffic? (2024)",
       "https://haxrob.net/onavo-facebook-ssl-mitm-technical-analysis/"
     ]
   ],
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=44754492"
     ],
     [
-      "You might not need tmux",
+      "Replacing tmux in my dev workflow",
       "https://bower.sh/you-might-not-need-tmux"
     ]
   ],
@@ -147,16 +177,6 @@
     [
       "Gemini Embedding: Powering RAG and context engineering",
       "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 16:25:51",
-      "https://news.ycombinator.com/item?id=44747229"
-    ],
-    [
-      "Show HN: Mcp-use – Connect any LLM to any MCP",
-      "https://github.com/mcp-use/mcp-use"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Show HN: Draw A Fish and watch it swim with the others",
       "https://drawafish.com"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 22:30:32",
-      "https://news.ycombinator.com/item?id=44716521"
-    ],
-    [
-      "Living with an Apple Lisa [video]",
-      "https://www.youtube.com/watch?v=KISxcJ2DydY"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 03:49:47",
-      "https://news.ycombinator.com/item?id=44707062"
-    ],
-    [
-      "Raspberry Pi 5 Gets a MicroSD Express Hat",
-      "https://www.cnx-software.com/2025/07/28/raspberry-pi-5-gets-a-microsd-express-hat/"
     ]
   ],
   [
