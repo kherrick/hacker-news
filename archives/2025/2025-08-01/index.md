@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 18:28:53](https://news.ycombinator.com/item?id=44760573) - [Tesla must pay $329M in damages in fatal Autopilot case, jury says](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
 * [2025-08-01, 17:56:14](https://news.ycombinator.com/item?id=44760111) - [NSF suspends nearly 300 UCLA grants (Terence Tao, Plasma Science Facility, etc.)](https://grant-witness.us/nsf-data.html)
 * [2025-08-01, 17:43:02](https://news.ycombinator.com/item?id=44759918) - [Google Shifts goo.gl Policy: Inactive Links Deactivated, Active Links Preserved](https://blog.google/technology/developers/googl-link-shortening-update/)
 * [2025-08-01, 17:01:08](https://news.ycombinator.com/item?id=44759432) - [Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer](https://www.coveragecat.com/careers/engineering/software-engineer)
 * [2025-08-01, 16:59:51](https://news.ycombinator.com/item?id=44759417) - [I couldn't submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
+* [2025-08-01, 16:58:51](https://news.ycombinator.com/item?id=44759406) - [Show HN: TraceRoot – Open-source agentic debugging for distributed services](https://github.com/traceroot-ai/traceroot)
 * [2025-08-01, 16:56:40](https://news.ycombinator.com/item?id=44759382) - [Corporation for Public Broadcasting Ceasing Operations](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding)
 * [2025-08-01, 16:36:51](https://news.ycombinator.com/item?id=44759171) - [Ergonomic keyboarding with the Svalboard: a half-year retrospective](https://twey.io/hci/svalboard/)
 * [2025-08-01, 16:35:40](https://news.ycombinator.com/item?id=44759152) - [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
