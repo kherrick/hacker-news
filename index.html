@@ -129,22 +129,24 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="44760111">
+        <section id="44760573">
           <h3>
-            <a class="item" href="https://grant-witness.us/nsf-data.html"
-              >NSF suspends nearly 300 UCLA grants (Terence Tao, Plasma Science
-              Facility, etc.)</a
+            <a
+              class="item"
+              href="https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html"
+              >Tesla must pay $329M in damages in fatal Autopilot case, jury
+              says</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-08-01 @ 17:56:14</span
+              <span>2025-08-01 @ 18:28:53</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44760111"
+                ><a href="https://news.ycombinator.com/item?id=44760573"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -162,11 +164,11 @@
             <h4>
               <span>2025-08-01 @ 17:43:02</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44759918"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -201,13 +203,111 @@
             <h4>
               <span>2025-08-01 @ 16:59:51</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44759417"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44759406">
+          <h3>
+            <a class="item" href="https://github.com/traceroot-ai/traceroot"
+              >Show HN: TraceRoot – Open-source agentic debugging for
+              distributed services</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-01 @ 16:58:51</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44759406"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/traceroot-ai/traceroot"
+                >https://github.com/traceroot-ai/traceroot</a
+              >).
+              <p>
+                TraceRoot (<a href="https://traceroot.ai"
+                  >https://traceroot.ai</a
+                >) is an open-source debugging platform that helps engineers fix
+                production issues faster by combining structured traces, logs,
+                source code contexts and discussions in Github PRs, issues and
+                Slack channels, etc. with AI Agents.
+              </p>
+              <p>
+                At the heart are our lightweight Python (<a
+                  href="https://github.com/traceroot-ai/traceroot-sdk"
+                  >https://github.com/traceroot-ai/traceroot-sdk</a
+                >) and TypeScript (<a
+                  href="https://github.com/traceroot-ai/traceroot-sdk-ts"
+                  >https://github.com/traceroot-ai/traceroot-sdk-ts</a
+                >) SDKs - they can hook into your app using OpenTelemetry and
+                captures logs and traces. These are either sent to a local
+                Jaeger (<a href="https://www.jaegertracing.io/"
+                  >https://www.jaegertracing.io/</a
+                >) + SQLite backend or to our cloud backend, where we correlate
+                them into a single view. From there, our custom agent takes
+                over.
+              </p>
+              <p>
+                The agent builds a heterogeneous execution tree that merges
+                spans, logs, and GitHub context into one internal structure.
+                This allows it to model the control and data flow of a request
+                across services. It then uses LLMs to reason over this tree -
+                pruning irrelevant branches, surfacing anomalous spans, and
+                identifying likely root causes. You can ask questions like “what
+                caused this timeout?” or “summarize the errors in these 3
+                spans”, and it can trace the failure back to a specific commit,
+                summarize the chain of events, or even propose a fix via a draft
+                PR.
+              </p>
+              <p>
+                We also built a debugging UI that ties everything together - you
+                explore traces visually, pick spans of interest, and get
+                AI-assisted insights with full context: logs, timings, metadata,
+                and surrounding code. Unlike most tools, TraceRoot stores
+                long-term debugging history and builds structured context for
+                each company - something we haven’t seen many others do in this
+                space.
+              </p>
+              <p>What’s live today:</p>
+              <p>
+                - Python and TypeScript SDKs for structured logs and traces.
+              </p>
+              <p>- AI summaries, GitHub issue generation, and PR creation.</p>
+              <p>- Debugging UI that ties everything together</p>
+              <p>
+                TraceRoot is MIT licensed and easy to self-host (via Docker). We
+                support both local mode (Jaeger + SQLite) and cloud mode.
+                Inspired by OSS projects like PostHog and Supabase - core is
+                free, enterprise features like agent mode multi-tenant and slack
+                integration are paid.
+              </p>
+              <p>
+                If you find it interesting, you can see a demo video here:
+                <a href="https://www.youtube.com/watch?v=nb-D3LM0sJM"
+                  >https://www.youtube.com/watch?v=nb-D3LM0sJM</a
+                >
+              </p>
+              <p>
+                We’d love you to try TraceRoot (<a href="https://traceroot.ai"
+                  >https://traceroot.ai</a
+                >) and share any feedback. If you're interested, our code is
+                available here:
+                <a href="https://github.com/traceroot-ai/traceroot"
+                  >https://github.com/traceroot-ai/traceroot</a
+                >. If we don’t have something, let us know and we’d be happy to
+                build it for you. We look forward to your comments!
+              </p>
+            </div>
           </section>
         </section>
         <section id="44759382">
@@ -222,11 +322,11 @@
             <h4>
               <span>2025-08-01 @ 16:56:40</span
               ><span class="points-container"
-                >Points: <span class="points">309</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44759382"
                   >Comments</a
-                ><span class="descendants">: 265</span></span
+                ><span class="descendants">: 302</span></span
               >
             </h4>
           </section>
@@ -242,11 +342,11 @@
             <h4>
               <span>2025-08-01 @ 16:36:51</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44759171"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -263,11 +363,11 @@
             <h4>
               <span>2025-08-01 @ 16:35:40</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44759152"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -284,11 +384,11 @@
             <h4>
               <span>2025-08-01 @ 16:20:07</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44758957"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -305,11 +405,11 @@
             <h4>
               <span>2025-08-01 @ 16:10:33</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44758842"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -326,11 +426,11 @@
             <h4>
               <span>2025-08-01 @ 15:44:27</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44758511"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -349,7 +449,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44758281"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -456,11 +556,11 @@
             <h4>
               <span>2025-08-01 @ 15:19:43</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44758132"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -475,11 +575,11 @@
             <h4>
               <span>2025-08-01 @ 15:00:05</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44757794"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
             <div class="text">
@@ -554,11 +654,11 @@
             <h4>
               <span>2025-08-01 @ 15:00:05</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44757792"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
             <div class="text">
@@ -593,30 +693,11 @@
             <h4>
               <span>2025-08-01 @ 14:58:06</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44757755"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44757316">
-          <h3>
-            <a class="item" href="https://www.sqlite.org/lts.html"
-              >Long Term Support</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-01 @ 14:28:11</span
-              ><span class="points-container"
-                >Points: <span class="points">135</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44757316"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -631,11 +712,11 @@
             <h4>
               <span>2025-08-01 @ 12:51:38</span
               ><span class="points-container"
-                >Points: <span class="points">403</span></span
+                >Points: <span class="points">405</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44756045"
                   >Comments</a
-                ><span class="descendants">: 411</span></span
+                ><span class="descendants">: 416</span></span
               >
             </h4>
           </section>
@@ -651,7 +732,7 @@
             <h4>
               <span>2025-08-01 @ 12:13:12</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44755654"
                   >Comments</a
@@ -750,11 +831,11 @@
             <h4>
               <span>2025-08-01 @ 12:12:04</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">261</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44755644"
                   >Comments</a
-                ><span class="descendants">: 270</span></span
+                ><span class="descendants">: 285</span></span
               >
             </h4>
           </section>
@@ -771,11 +852,11 @@
             <h4>
               <span>2025-08-01 @ 11:10:38</span
               ><span class="points-container"
-                >Points: <span class="points">296</span></span
+                >Points: <span class="points">307</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44755279"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -790,11 +871,11 @@
             <h4>
               <span>2025-08-01 @ 09:08:59</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44754523"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -809,11 +890,11 @@
             <h4>
               <span>2025-08-01 @ 09:04:16</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44754492"
                   >Comments</a
-                ><span class="descendants">: 219</span></span
+                ><span class="descendants">: 224</span></span
               >
             </h4>
           </section>
@@ -830,11 +911,32 @@
             <h4>
               <span>2025-08-01 @ 05:31:20</span
               ><span class="points-container"
-                >Points: <span class="points">238</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44753298"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 107</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44750416">
+          <h3>
+            <a
+              class="item"
+              href="https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing"
+              >The anti-abundance critique on housing is wrong</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-31 @ 21:28:07</span
+              ><span class="points-container"
+                >Points: <span class="points">478</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44750416"
+                  >Comments</a
+                ><span class="descendants">: 721</span></span
               >
             </h4>
           </section>
@@ -849,11 +951,11 @@
             <h4>
               <span>2025-07-31 @ 19:00:58</span
               ><span class="points-container"
-                >Points: <span class="points">907</span></span
+                >Points: <span class="points">911</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44748934"
                   >Comments</a
-                ><span class="descendants">: 214</span></span
+                ><span class="descendants">: 215</span></span
               >
             </h4>
           </section>
@@ -872,7 +974,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44730691"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
             <div class="text">
@@ -913,7 +1015,7 @@
             <h4>
               <span>2025-07-29 @ 18:17:26</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44726641"
                   >Comments</a
@@ -935,7 +1037,7 @@
             <h4>
               <span>2025-07-29 @ 07:42:56</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44720285"
                   >Comments</a
@@ -954,11 +1056,11 @@
             <h4>
               <span>2025-07-29 @ 04:57:22</span
               ><span class="points-container"
-                >Points: <span class="points">509</span></span
+                >Points: <span class="points">531</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44719222"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
             <div class="text">
@@ -983,27 +1085,6 @@
             </div>
           </section>
         </section>
-        <section id="44719175">
-          <h3>
-            <a
-              class="item"
-              href="https://airmail.news/issues/2025-7-26/fakes-nazis-and-fake-nazis"
-              >Fakes, Nazis, and Fake Nazis</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-29 @ 04:48:35</span
-              ><span class="points-container"
-                >Points: <span class="points">16</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44719175"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44713701">
           <h3>
             <a
@@ -1016,11 +1097,11 @@
             <h4>
               <span>2025-07-28 @ 18:22:26</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44713701"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
