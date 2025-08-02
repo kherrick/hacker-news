@@ -86,6 +86,7 @@
 * [2025-07-30, 08:06:01](https://news.ycombinator.com/item?id=44731883) - [One diet soda a day increases type 2 diabetes risk by 38%](https://newatlas.com/diet-nutrition/one-drink-diabetes-risk/)
 * [2025-07-30, 06:37:39](https://news.ycombinator.com/item?id=44731424) - [State Capacity and Eight Parking Spaces](https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/)
 * [2025-07-30, 06:08:20](https://news.ycombinator.com/item?id=44731272) - [Man creates featured multi-user fileserver using his phone. Whilst commuting](https://www.youtube.com/watch?v=15_-hgsX2V0)
+* [2025-07-30, 05:29:05](https://news.ycombinator.com/item?id=44731116) - [I Do Support and Community](https://pketh.org/support-community.html)
 * [2025-07-30, 03:33:09](https://news.ycombinator.com/item?id=44730691) - [Show HN: An interactive dashboard to explore NYC rentals data](https://leaseswap.nyc/analytics)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
 * [2025-07-30, 01:05:46](https://news.ycombinator.com/item?id=44730021) - [Pkgbase Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)

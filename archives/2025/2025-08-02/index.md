@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 22:26:47](https://news.ycombinator.com/item?id=44772177) - [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
 * [2025-08-02, 20:39:38](https://news.ycombinator.com/item?id=44771235) - [The \"cracked coder\" fetish: Epistemic arrogance in Silicon Valley](https://maxread.substack.com/p/the-cracked-coder-fetish)
 * [2025-08-02, 20:21:38](https://news.ycombinator.com/item?id=44771060) - [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)
 * [2025-08-02, 18:49:17](https://news.ycombinator.com/item?id=44770250) - [AWS deleted my 10-year account and all data without warning](https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/)
