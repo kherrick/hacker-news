@@ -140,7 +140,7 @@
             <h4>
               <span>2025-08-02 @ 20:21:38</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44771060"
                   >Comments</a
@@ -161,11 +161,11 @@
             <h4>
               <span>2025-08-02 @ 18:49:17</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44770250"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -214,11 +214,11 @@
             <h4>
               <span>2025-08-02 @ 16:40:51</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">328</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44769039"
                   >Comments</a
-                ><span class="descendants">: 279</span></span
+                ><span class="descendants">: 290</span></span
               >
             </h4>
           </section>
@@ -234,11 +234,11 @@
             <h4>
               <span>2025-08-02 @ 16:03:31</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44768714"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -255,11 +255,11 @@
             <h4>
               <span>2025-08-02 @ 15:40:27</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44768513"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -276,7 +276,7 @@
             <h4>
               <span>2025-08-02 @ 14:37:51</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44767959"
                   >Comments</a
@@ -350,11 +350,11 @@
             <h4>
               <span>2025-08-02 @ 14:00:28</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44767702"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -371,7 +371,7 @@
             <h4>
               <span>2025-08-02 @ 13:43:10</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44767555"
                   >Comments</a
@@ -390,13 +390,69 @@
             <h4>
               <span>2025-08-02 @ 13:27:25</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44767433"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44767304">
+          <h3>
+            <a class="item" href="https://github.com/hugoj0s3/NaturalCron"
+              >Show HN: NaturalCron – Human-Readable Scheduling for .NET (With
+              Fluent Builder)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-02 @ 13:09:06</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44767304"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I built NaturalCron because I was tired of writing and debugging
+                CRON syntax like:
+              </p>
+              <p><i>/5 </i> * * 5</p>
+              <p>Now you can write something human-readable in .NET:</p>
+              <p>
+                var expression = new NaturalCronExpression("every 5 minutes on
+                friday");
+              </p>
+              <p>Or use a Fluent Builder for strong typing and IDE support:</p>
+              <p>
+                var expression = NaturalCronExpressionBuilder
+                .Every().Minutes(5) .On(DayOfWeek.Friday) .Build();
+              </p>
+              <p>
+                Great for: - Code-based scheduling in .NET apps - Overriding
+                schedules from configs or databases - Displaying easy-to-read
+                rules in UIs
+              </p>
+              <p>
+                NuGet:
+                <a href="https://www.nuget.org/packages/NaturalCron"
+                  >https://www.nuget.org/packages/NaturalCron</a
+                >
+                GitHub:
+                <a href="https://github.com/hugoj0s3/NaturalCron"
+                  >https://github.com/hugoj0s3/NaturalCron</a
+                >
+              </p>
+              <p>
+                Would love your feedback on syntax, builder design, and what
+                features you'd like to see next!
+              </p>
+            </div>
           </section>
         </section>
         <section id="44767125">
@@ -411,7 +467,7 @@
             <h4>
               <span>2025-08-02 @ 12:40:11</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44767125"
                   >Comments</a
@@ -433,11 +489,11 @@
             <h4>
               <span>2025-08-02 @ 12:12:27</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44766962"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
             <div class="text">
@@ -459,11 +515,11 @@
             <h4>
               <span>2025-08-02 @ 11:34:39</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44766758"
                   >Comments</a
-                ><span class="descendants">: 231</span></span
+                ><span class="descendants">: 239</span></span
               >
             </h4>
           </section>
@@ -481,7 +537,7 @@
             <h4>
               <span>2025-08-02 @ 11:28:33</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44766718"
                   >Comments</a
@@ -524,11 +580,11 @@
             <h4>
               <span>2025-07-31 @ 19:49:35</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44749387"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -538,18 +594,18 @@
             <a
               class="item"
               href="https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/"
-              >6 Weeks of Claude Code</a
+              >6 weeks of Claude Code</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-07-31 @ 15:25:49</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44746621"
                   >Comments</a
-                ><span class="descendants">: 237</span></span
+                ><span class="descendants">: 242</span></span
               >
             </h4>
           </section>
@@ -566,11 +622,11 @@
             <h4>
               <span>2025-07-31 @ 15:21:31</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44746583"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -587,11 +643,11 @@
             <h4>
               <span>2025-07-31 @ 15:15:03</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44746529"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -612,36 +668,9 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44745490"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44745067">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nucnet.org/news/microsoft-backed-fusion-company-begins-work-on-washington-nuclear-fusion-plant-7-4-2025"
-              >Helion begins work on Washington nuclear fusion plant</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-31 @ 12:41:50</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44745067"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://www.helionenergy.com/articles/helion-secures-land-and-begins-building-site-of-worlds-first-fusion-power-plant/"
-                >https://www.helionenergy.com/articles/helion-secures-land-an...</a
-              >
-            </div>
           </section>
         </section>
         <section id="44743432">
@@ -657,7 +686,7 @@
             <h4>
               <span>2025-07-31 @ 08:00:19</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44743432"
                   >Comments</a
@@ -676,30 +705,11 @@
             <h4>
               <span>2025-07-31 @ 00:23:34</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44741078"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44740034">
-          <h3>
-            <a class="item" href="http://www.xdobry.de/tclsqueak/"
-              >TclSqueak – Program in Tcl the Smalltalk Way</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-30 @ 22:04:08</span
-              ><span class="points-container"
-                >Points: <span class="points">11</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44740034"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -714,7 +724,7 @@
             <h4>
               <span>2025-07-30 @ 19:00:54</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44738216"
                   >Comments</a
@@ -735,11 +745,30 @@
             <h4>
               <span>2025-07-30 @ 16:08:02</span
               ><span class="points-container"
-                >Points: <span class="points">323</span></span
+                >Points: <span class="points">326</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44736025"
                   >Comments</a
-                ><span class="descendants">: 224</span></span
+                ><span class="descendants">: 228</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44734450">
+          <h3>
+            <a class="item" href="https://github.com/froggey/Mezzano"
+              >Mezzano, an operating system written in Common Lisp</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-30 @ 14:09:40</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44734450"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -760,7 +789,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44732508"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -775,11 +804,11 @@
             <h4>
               <span>2025-07-30 @ 02:53:10</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44730544"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
