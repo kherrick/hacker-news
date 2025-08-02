@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-02, 06:34:25](https://news.ycombinator.com/item?id=44765292) - [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
 * [2025-08-02, 06:03:23](https://news.ycombinator.com/item?id=44765193) - [At $250M, top AI salaries dwarf the Manhattan Project and the Space Race](https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/)
 * [2025-08-02, 02:57:27](https://news.ycombinator.com/item?id=44764568) - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 * [2025-08-02, 02:12:05](https://news.ycombinator.com/item?id=44764376) - [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
@@ -11,7 +12,6 @@
 * [2025-08-01, 20:21:42](https://news.ycombinator.com/item?id=44762026) - [Researchers map where solar energy delivers the biggest climate payoff](https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff)
 * [2025-08-01, 20:21:29](https://news.ycombinator.com/item?id=44762022) - [Does the Bitter Lesson Have Limits?](https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html)
 * [2025-08-01, 19:48:06](https://news.ycombinator.com/item?id=44761548) - [Native Sparse Attention](https://aclanthology.org/2025.acl-long.1126/)
-* [2025-08-01, 19:28:45](https://news.ycombinator.com/item?id=44761299) - [Deep Agents](https://blog.langchain.com/deep-agents/)
 * [2025-08-01, 18:27:59](https://news.ycombinator.com/item?id=44760561) - [Self-Signed JWTs](https://www.selfref.com/self-signed-jwts)
 * [2025-08-01, 17:43:02](https://news.ycombinator.com/item?id=44759918) - [Google shifts goo.gl policy: Inactive links deactivated, active links preserved](https://blog.google/technology/developers/googl-link-shortening-update/)
 * [2025-08-01, 16:59:51](https://news.ycombinator.com/item?id=44759417) - [I couldn't submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
