@@ -13,6 +13,7 @@
 * [2025-07-31, 21:04:23](https://news.ycombinator.com/item?id=44750121) - [A Hitchhiker's Guide to the AI Bubble](https://fluxus.io/article/a-hitchhikers-guide-to-the-ai-bubble)
 * [2025-07-31, 20:29:55](https://news.ycombinator.com/item?id=44749772) - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
 * [2025-07-31, 19:54:42](https://news.ycombinator.com/item?id=44749438) - [Radiant Nuclear – Portable Power](https://radiantnuclear.com/)
+* [2025-07-31, 19:49:35](https://news.ycombinator.com/item?id=44749387) - [The Big Oops in type systems: This problem extends to FP as well](https://danieltan.weblog.lol/2025/07/the-big-oops-in-type-systems-this-problem-extends-to-fp-as-well)
 * [2025-07-31, 19:34:19](https://news.ycombinator.com/item?id=44749241) - [Show HN: SafeRate – AI chat-native mortgage lender](https://saferate.com/)
 * [2025-07-31, 19:00:58](https://news.ycombinator.com/item?id=44748934) - [Slow](https://michaelnotebook.com/slow/index.html)
 * [2025-07-31, 18:31:10](https://news.ycombinator.com/item?id=44748634) - [Astronomical Telescope \"Hadley\" – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
