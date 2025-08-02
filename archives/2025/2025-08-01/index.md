@@ -7,6 +7,7 @@
 * [2025-08-01, 22:10:07](https://news.ycombinator.com/item?id=44763016) - [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
 * [2025-08-01, 22:04:38](https://news.ycombinator.com/item?id=44762959) - [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
 * [2025-08-01, 21:53:13](https://news.ycombinator.com/item?id=44762880) - [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
+* [2025-08-01, 21:50:44](https://news.ycombinator.com/item?id=44762859) - [Tim Cook rallying Apple employees around AI efforts](https://www.bloomberg.com/news/articles/2025-08-01/apple-ceo-tells-staff-ai-is-ours-to-grab-in-hourlong-pep-talk)
 * [2025-08-01, 21:50:28](https://news.ycombinator.com/item?id=44762856) - [Anthropic Revokes OpenAI's Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
 * [2025-08-01, 21:06:09](https://news.ycombinator.com/item?id=44762504) - [JSON is not a YAML subset](https://john-millikin.com/json-is-not-a-yaml-subset)
 * [2025-08-01, 20:33:02](https://news.ycombinator.com/item?id=44762157) - [HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
