@@ -65,6 +65,7 @@
 * [2025-07-31, 11:19:54](https://news.ycombinator.com/item?id=44744454) - [How was the Universal Pictures 1936 opening logo created?](https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created)
 * [2025-07-31, 10:57:58](https://news.ycombinator.com/item?id=44744331) - [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution)
 * [2025-07-31, 10:56:21](https://news.ycombinator.com/item?id=44744324) - [I tried Servo, the undercover web browser engine made with Rust](https://www.spacebar.news/servo-undercover-web-browser-engine/)
+* [2025-07-31, 10:10:52](https://news.ycombinator.com/item?id=44744121) - [Why leather is best motorbike protection – whilst being dragged along concrete](https://www.youtube.com/watch?v=xwuRUcAGIEU)
 * [2025-07-31, 10:07:19](https://news.ycombinator.com/item?id=44744096) - [GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban](https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/)
 * [2025-07-31, 10:03:54](https://news.ycombinator.com/item?id=44744079) - [How to trigger a command on Linux when disconnected from power](https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html)
 * [2025-07-31, 05:54:04](https://news.ycombinator.com/item?id=44742710) - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
