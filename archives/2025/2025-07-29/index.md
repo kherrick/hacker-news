@@ -24,6 +24,7 @@
 * [2025-07-29, 19:13:32](https://news.ycombinator.com/item?id=44727191) - [How the Brain Increases Blood Flow on Demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 * [2025-07-29, 19:07:59](https://news.ycombinator.com/item?id=44727130) - [A Quantum Gravimeter for GPS Backup](https://spectrum.ieee.org/quantum-gravity-sensor)
 * [2025-07-29, 19:01:25](https://news.ycombinator.com/item?id=44727066) - [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)
+* [2025-07-29, 18:52:08](https://news.ycombinator.com/item?id=44726981) - [Aerodynamic drag in small cyclist formations: shielding the protected rider [pdf]](http://www.urbanphysics.net/2025_Formation_Paper_Preprint_v1.pdf)
 * [2025-07-29, 18:45:42](https://news.ycombinator.com/item?id=44726921) - [Why CI/CD Still Doesn't Include Continuous Documentation?](https://deepdocs.dev/why-ci-cd-still-doesnt-include-continuous-documentation/)
 * [2025-07-29, 18:36:51](https://news.ycombinator.com/item?id=44726838) - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
 * [2025-07-29, 18:36:34](https://news.ycombinator.com/item?id=44726837) - [The Making of Dario Amodei](https://www.bigtechnology.com/p/the-making-of-dario-amodei)
