@@ -1,12 +1,52 @@
 [
   [
     [
-      "2025-08-02, 00:40:38",
-      "https://news.ycombinator.com/item?id=44763965"
+      "2025-08-02, 02:35:56",
+      "https://news.ycombinator.com/item?id=44764479"
     ],
     [
-      "Contrarian climate assessment from U.S. government draws Swift pushback",
-      "https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback"
+      "Peak Energy just shipped the US's first grid-scale sodium-ion battery",
+      "https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 02:20:22",
+      "https://news.ycombinator.com/item?id=44764410"
+    ],
+    [
+      "Tesla owes small businesses millions in unpaid bills [video]",
+      "https://www.cnn.com/2025/08/01/politics/video/inv-musk-unpaid-bills"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 02:12:05",
+      "https://news.ycombinator.com/item?id=44764376"
+    ],
+    [
+      "Hardening Mode for the Compiler",
+      "https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 00:59:57",
+      "https://news.ycombinator.com/item?id=44764077"
+    ],
+    [
+      "The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos",
+      "https://rickovercorpus.org/"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 00:38:23",
+      "https://news.ycombinator.com/item?id=44763949"
+    ],
+    [
+      "Meta violated privacy law, jury says in menstrual data fight",
+      "https://www.courthousenews.com/meta-violated-privacy-law-jury-says-in-menstrual-data-fight/"
     ]
   ],
   [
@@ -45,18 +85,8 @@
       "https://news.ycombinator.com/item?id=44762856"
     ],
     [
-      "Anthropic Revokes OpenAI's Access to Claude",
+      "Anthropic revokes OpenAI's access to Claude",
       "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 21:06:09",
-      "https://news.ycombinator.com/item?id=44762504"
-    ],
-    [
-      "JSON is not a YAML subset (2022)",
-      "https://john-millikin.com/json-is-not-a-yaml-subset"
     ]
   ],
   [
@@ -85,8 +115,8 @@
       "https://news.ycombinator.com/item?id=44761548"
     ],
     [
-      "DeepSeek won the best paper award at ACL 2025",
-      "https://arxiv.org/abs/2502.11089"
+      "Native Sparse Attention",
+      "https://aclanthology.org/2025.acl-long.1126/"
     ]
   ],
   [
@@ -141,6 +171,16 @@
   ],
   [
     [
+      "2025-08-01, 16:58:51",
+      "https://news.ycombinator.com/item?id=44759406"
+    ],
+    [
+      "Show HN: TraceRoot – Open-source agentic debugging for distributed services",
+      "https://github.com/traceroot-ai/traceroot"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 16:36:51",
       "https://news.ycombinator.com/item?id=44759171"
     ],
@@ -157,16 +197,6 @@
     [
       "At 17, Hannah Cairo solved a major math mystery",
       "https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 16:20:07",
-      "https://news.ycombinator.com/item?id=44758957"
-    ],
-    [
-      "Supporting the BEAM community with free CI/CD security audits",
-      "https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/"
     ]
   ],
   [
@@ -211,42 +241,22 @@
   ],
   [
     [
-      "2025-08-01, 09:08:59",
-      "https://news.ycombinator.com/item?id=44754523"
+      "2025-07-30, 17:00:42",
+      "https://news.ycombinator.com/item?id=44736668"
     ],
     [
-      "Our Farewell from Google Play",
-      "https://secuso.aifb.kit.edu/english/2809.php"
+      "What's Not to Like?",
+      "https://theamericanscholar.org/whats-not-to-like/"
     ]
   ],
   [
     [
-      "2025-08-01, 09:04:16",
-      "https://news.ycombinator.com/item?id=44754492"
+      "2025-07-30, 15:37:40",
+      "https://news.ycombinator.com/item?id=44735613"
     ],
     [
-      "Replacing tmux in my dev workflow",
-      "https://bower.sh/you-might-not-need-tmux"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 21:55:53",
-      "https://news.ycombinator.com/item?id=44739965"
-    ],
-    [
-      "The criminal enterprise run by monkeys",
-      "https://www.wsj.com/lifestyle/monkeys-thieves-bali-temple-0b63a432"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 17:52:37",
-      "https://news.ycombinator.com/item?id=44737372"
-    ],
-    [
-      "Build an AI telephony agent for inbound and outbound calls",
-      "https://github.com/videosdk-community/ai-telephony-demo"
+      "The tradeoff between human and AI context",
+      "https://softwaredoug.com/blog/2025/07/30/layers-of-ai-coding"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Weather Model based on ADS-B",
       "https://obrhubr.org/adsb-weather-model"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 20:14:07",
-      "https://news.ycombinator.com/item?id=44727756"
-    ],
-    [
-      "A DH106 1A Comet has been restored at the de Havilland Aircraft Museum",
-      "https://www.cnn.com/travel/de-havilland-comet-dh106-first-passenger-jet"
     ]
   ],
   [
