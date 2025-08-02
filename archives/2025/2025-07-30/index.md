@@ -6,6 +6,7 @@
 
 * [2025-07-30, 22:24:58](https://news.ycombinator.com/item?id=44740222) - [Figma Announces IPO](https://www.figma.com/blog/ipo-pricing/)
 * [2025-07-30, 22:21:03](https://news.ycombinator.com/item?id=44740185) - [Pentagon Pizza Index](https://www.pizzint.watch/)
+* [2025-07-30, 22:04:08](https://news.ycombinator.com/item?id=44740034) - [TclSqueak – Program in Tcl the Smalltalk Way](http://www.xdobry.de/tclsqueak/)
 * [2025-07-30, 21:55:53](https://news.ycombinator.com/item?id=44739965) - [The criminal enterprise run by monkeys](https://www.wsj.com/lifestyle/monkeys-thieves-bali-temple-0b63a432)
 * [2025-07-30, 21:52:10](https://news.ycombinator.com/item?id=44739927) - [Lyon Is Replacing Windows and Microsoft Office with Linux and OnlyOffice](https://www.zdnet.com/article/this-city-is-dumping-microsoft-office-and-windows-for-onlyoffice-and-linux-heres-why/)
 * [2025-07-30, 21:19:03](https://news.ycombinator.com/item?id=44739632) - [Ollama has a native front end chatbot now](https://ollama.com/blog/new-app)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-02, 20:21:38](https://news.ycombinator.com/item?id=44771060) - [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)
 * [2025-08-02, 17:11:39](https://news.ycombinator.com/item?id=44769338) - [Show HN: Wordle-style game for Fermi questions](https://www.fermiquestions.org/)
 * [2025-08-02, 17:00:36](https://news.ycombinator.com/item?id=44769231) - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
 * [2025-08-02, 16:52:57](https://news.ycombinator.com/item?id=44769145) - [Linear Types for Programmers (2023)](https://twey.io/for-programmers/linear-types/)
@@ -16,8 +17,6 @@
 * [2025-08-02, 11:34:39](https://news.ycombinator.com/item?id=44766758) - [A.I. researchers are negotiating $250M pay packages](https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html)
 * [2025-08-02, 11:28:33](https://news.ycombinator.com/item?id=44766718) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 * [2025-08-02, 10:52:36](https://news.ycombinator.com/item?id=44766508) - [We may not like what we become if A.I. solves loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
-* [2025-08-02, 10:18:46](https://news.ycombinator.com/item?id=44766326) - [North Korea sent him abroad to be a secret IT worker](https://www.bbc.com/news/articles/c15wk77zxngo)
-* [2025-08-02, 07:52:40](https://news.ycombinator.com/item?id=44765600) - [Microsoft is open sourcing Windows 11's UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
 * [2025-08-01, 14:22:45](https://news.ycombinator.com/item?id=44757249) - [Introduction to Unikernel: Building, deploying lightweight, secure applications](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
 * [2025-07-31, 19:49:35](https://news.ycombinator.com/item?id=44749387) - [The Big Oops in type systems: This problem extends to FP as well](https://danieltan.weblog.lol/2025/07/the-big-oops-in-type-systems-this-problem-extends-to-fp-as-well)
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
@@ -25,6 +24,7 @@
 * [2025-07-31, 15:15:03](https://news.ycombinator.com/item?id=44746529) - [I tried living on IPv6 for a day, and here's what happened](https://www.xda-developers.com/the-internet-isnt-fully-ipv6-ready/)
 * [2025-07-31, 12:41:50](https://news.ycombinator.com/item?id=44745067) - [Helion begins work on Washington nuclear fusion plant](https://www.nucnet.org/news/microsoft-backed-fusion-company-begins-work-on-washington-nuclear-fusion-plant-7-4-2025)
 * [2025-07-31, 08:00:19](https://news.ycombinator.com/item?id=44743432) - [Double-slit experiment holds up when stripped to its quantum essentials](https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728)
+* [2025-07-30, 22:04:08](https://news.ycombinator.com/item?id=44740034) - [TclSqueak – Program in Tcl the Smalltalk Way](http://www.xdobry.de/tclsqueak/)
 * [2025-07-30, 19:00:54](https://news.ycombinator.com/item?id=44738216) - [A dive into open chat protocols](https://wiki.alopex.li/ADiveIntoOpenChat)
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
 * [2025-07-30, 10:06:58](https://news.ycombinator.com/item?id=44732508) - [Australia’s gains in wheat-farm productivity](https://www.reuters.com/investigations/less-rain-more-wheat-how-australian-farmers-defied-climate-doom-2025-07-29/)
