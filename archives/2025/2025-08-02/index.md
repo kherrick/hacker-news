@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 * [2025-08-02, 07:52:40](https://news.ycombinator.com/item?id=44765600) - [Microsoft is open sourcing Windows 11's UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
 * [2025-08-02, 06:34:25](https://news.ycombinator.com/item?id=44765292) - [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
 * [2025-08-02, 06:28:31](https://news.ycombinator.com/item?id=44765264) - [Terence Tao weighs in on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
