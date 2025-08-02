@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2025-08-02, 16:55:14",
-      "https://news.ycombinator.com/item?id=44769170"
+      "2025-08-02, 16:52:57",
+      "https://news.ycombinator.com/item?id=44769145"
     ],
     [
-      "The unreasonable likelihood of being: origin of life, terraforming, and AI",
-      "https://arxiv.org/abs/2507.18545"
+      "Linear Types for Programmers",
+      "https://twey.io/for-programmers/linear-types/"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-08-02, 15:40:27",
-      "https://news.ycombinator.com/item?id=44768513"
-    ],
-    [
-      "Hiding secret codes in light protects against fake videos",
-      "https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 14:47:54",
       "https://news.ycombinator.com/item?id=44768048"
     ],
@@ -101,21 +91,11 @@
   ],
   [
     [
-      "2025-08-02, 14:36:04",
-      "https://news.ycombinator.com/item?id=44767947"
-    ],
-    [
-      "Unikernel Guide: Build and Deploy Lightweight, Secure Apps",
-      "https://tallysolutions.com/technology/introduction-to-unikernel-2/"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 14:31:58",
       "https://news.ycombinator.com/item?id=44767928"
     ],
     [
-      "The Rubik's Cube Perfect Scramble",
+      "The Rubik's Cube Perfect Scramble (2024)",
       "https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble"
     ]
   ],
@@ -125,8 +105,18 @@
       "https://news.ycombinator.com/item?id=44767888"
     ],
     [
-      "Iceberg, the Right Idea – The Wrong Spec – Part 2 of 2: The Spec",
+      "Iceberg, the right idea – the wrong spec – Part 2 of 2: The spec",
       "https://www.database-doctor.com/posts/iceberg-is-wrong-2.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 14:22:11",
+      "https://news.ycombinator.com/item?id=44767858"
+    ],
+    [
+      "The case for having roommates even when you can afford to live alone",
+      "https://supernuclear.substack.com/p/the-case-for-having-roommates-even"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=44767775"
     ],
     [
-      "WebGPU enables local LLM in the browser. Demo site with AI chat",
+      "Show HN: WebGPU enables local LLM in the browser – demo site with AI chat",
       "https://andreinwald.github.io/browser-llm/"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=44767702"
     ],
     [
-      "Financial Lessons from My Family's Experience with Long-Term Care Insurance",
+      "Financial lessons from my family's experience with long-term care insurance",
       "https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/"
     ]
   ],
@@ -161,32 +151,22 @@
   ],
   [
     [
-      "2025-08-02, 13:36:21",
-      "https://news.ycombinator.com/item?id=44767488"
-    ],
-    [
-      "Character Bitmap Graphics on the Pet 2001",
-      "https://www.masswerk.at/nowgobang/2025/character-bitmaps-on-the-pet2001"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 12:40:11",
       "https://news.ycombinator.com/item?id=44767125"
     ],
     [
-      "ThinkPad designer David Hill spills secrets, designs that never made it",
+      "ThinkPad designer David Hill on unreleased models",
       "https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/"
     ]
   ],
   [
     [
-      "2025-08-02, 12:20:59",
-      "https://news.ycombinator.com/item?id=44767003"
+      "2025-08-02, 12:12:27",
+      "https://news.ycombinator.com/item?id=44766962"
     ],
     [
-      "6 Weeks of Claude Code",
-      "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/"
+      "At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)",
+      "https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading"
     ]
   ],
   [
@@ -241,22 +221,32 @@
   ],
   [
     [
-      "2025-08-01, 21:53:13",
-      "https://news.ycombinator.com/item?id=44762880"
+      "2025-08-01, 14:22:45",
+      "https://news.ycombinator.com/item?id=44757249"
     ],
     [
-      "Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU",
-      "https://www.dougmacdowell.com/coffeematic-pc.html"
+      "Introduction to Unikernel: Building, deploying lightweight, secure applications",
+      "https://tallysolutions.com/technology/introduction-to-unikernel-2/"
     ]
   ],
   [
     [
-      "2025-08-01, 16:35:40",
-      "https://news.ycombinator.com/item?id=44759152"
+      "2025-07-31, 15:25:49",
+      "https://news.ycombinator.com/item?id=44746621"
     ],
     [
-      "At 17, Hannah Cairo solved a major math mystery",
-      "https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/"
+      "6 Weeks of Claude Code",
+      "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 12:41:50",
+      "https://news.ycombinator.com/item?id=44745067"
+    ],
+    [
+      "Helion begins work on Washington nuclear fusion plant",
+      "https://www.nucnet.org/news/microsoft-backed-fusion-company-begins-work-on-washington-nuclear-fusion-plant-7-4-2025"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "'Communities' of extreme life seen for first time in deep ocean",
       "https://www.bbc.com/news/articles/c3wnqe5j99do"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 16:40:41",
+      "https://news.ycombinator.com/item?id=44736428"
+    ],
+    [
+      "The Garlic Bread Hack",
+      "https://suntreeapps.com/blog/posts/garlic-bread-hack/"
     ]
   ],
   [
