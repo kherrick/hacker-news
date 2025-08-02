@@ -14,6 +14,7 @@
 * [2025-07-30, 21:07:13](https://news.ycombinator.com/item?id=44739494) - [150 years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen)
 * [2025-07-30, 20:46:49](https://news.ycombinator.com/item?id=44739315) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
 * [2025-07-30, 20:27:57](https://news.ycombinator.com/item?id=44739117) - [Actions Reflect Your Priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)
+* [2025-07-30, 20:19:44](https://news.ycombinator.com/item?id=44739041) - [Palo Alto Networks agrees to buy CyberArk for $25B](https://techcrunch.com/2025/07/30/palo-alto-networks-agrees-to-buy-cyberark-for-25-billion/)
 * [2025-07-30, 18:55:43](https://news.ycombinator.com/item?id=44738161) - [The Preserving Machine by Philip K. Dick (1953)](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
 * [2025-07-30, 18:52:51](https://news.ycombinator.com/item?id=44738132) - [Scammers Unleash Flood of Slick Online Gaming Sites](https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/)
 * [2025-07-30, 18:39:06](https://news.ycombinator.com/item?id=44737965) - [Dynamic Programming Bursting Balloons](https://sylhare.github.io/2025/07/29/bursting-balloons.html)
