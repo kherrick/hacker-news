@@ -2,7 +2,6 @@
 
 * [2025-08-02, 10:16:15](https://news.ycombinator.com/item?id=44766313) - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
-* [2025-08-02, 07:52:40](https://news.ycombinator.com/item?id=44765600) - [Microsoft is open sourcing Windows 11's UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
 * [2025-08-02, 06:34:25](https://news.ycombinator.com/item?id=44765292) - [This Month in Ladybird](https://ladybird.org/newsletter/2025-07-31/)
 * [2025-08-02, 02:57:27](https://news.ycombinator.com/item?id=44764568) - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 * [2025-08-02, 02:12:05](https://news.ycombinator.com/item?id=44764376) - [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
@@ -14,6 +13,7 @@
 * [2025-08-01, 20:21:29](https://news.ycombinator.com/item?id=44762022) - [Does the Bitter Lesson Have Limits?](https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html)
 * [2025-08-01, 19:48:06](https://news.ycombinator.com/item?id=44761548) - [Native Sparse Attention](https://aclanthology.org/2025.acl-long.1126/)
 * [2025-08-01, 16:59:51](https://news.ycombinator.com/item?id=44759417) - [I couldn't submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
+* [2025-08-01, 16:36:51](https://news.ycombinator.com/item?id=44759171) - [Ergonomic keyboarding with the Svalboard: a half-year retrospective](https://twey.io/hci/svalboard/)
 * [2025-08-01, 16:35:40](https://news.ycombinator.com/item?id=44759152) - [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
 * [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757794) - [Ask HN: Who is hiring? (August 2025)](https://news.ycombinator.com/item?id=44757794)
 * [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757792) - [Ask HN: Who wants to be hired? (August 2025)](https://news.ycombinator.com/item?id=44757792)
