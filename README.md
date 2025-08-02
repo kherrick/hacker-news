@@ -2,7 +2,6 @@
 
 * [2025-08-02, 22:26:47](https://news.ycombinator.com/item?id=44772177) - [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
 * [2025-08-02, 21:39:42](https://news.ycombinator.com/item?id=44771808) - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
-* [2025-08-02, 20:21:38](https://news.ycombinator.com/item?id=44771060) - [Modeling open-world cognition as on-demand synthesis of probabilistic models](https://arxiv.org/abs/2507.12547)
 * [2025-08-02, 17:00:36](https://news.ycombinator.com/item?id=44769231) - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
 * [2025-08-02, 16:40:51](https://news.ycombinator.com/item?id=44769039) - [Telo MT1](https://www.telotrucks.com/)
 * [2025-08-02, 16:03:31](https://news.ycombinator.com/item?id=44768714) - [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
@@ -22,6 +21,7 @@
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-07-31, 15:21:31](https://news.ycombinator.com/item?id=44746583) - [PixiEditor 2.0 – A FOSS universal 2D graphics editor](https://pixieditor.net/blog/2025/07/30/20-release/)
 * [2025-07-31, 15:15:03](https://news.ycombinator.com/item?id=44746529) - [I tried living on IPv6 for a day](https://www.xda-developers.com/the-internet-isnt-fully-ipv6-ready/)
+* [2025-07-31, 13:59:41](https://news.ycombinator.com/item?id=44745727) - [Fermat's Last Theorem in Lean – Imperial College London](https://github.com/ImperialCollegeLondon/FLT)
 * [2025-07-31, 13:35:14](https://news.ycombinator.com/item?id=44745490) - [OpenAI's \"Study Mode\" and the risks of flattery](https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks)
 * [2025-07-31, 08:00:19](https://news.ycombinator.com/item?id=44743432) - [Double-slit experiment holds up when stripped to its quantum essentials](https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728)
 * [2025-07-31, 00:23:34](https://news.ycombinator.com/item?id=44741078) - [Remote hosting for your telescope](https://www.sierra-remote.com/)

@@ -51,6 +51,7 @@
 * [2025-07-31, 14:11:29](https://news.ycombinator.com/item?id=44745843) - [Orion Browser by Kagi](https://kagi.com/orion/)
 * [2025-07-31, 14:08:33](https://news.ycombinator.com/item?id=44745820) - [Show HN: AgentMail – Email infra for AI agents](https://chat.agentmail.to/)
 * [2025-07-31, 14:03:04](https://news.ycombinator.com/item?id=44745766) - [Stack Overflow data reveals the hidden productivity tax of almost right AI code](https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/)
+* [2025-07-31, 13:59:41](https://news.ycombinator.com/item?id=44745727) - [Fermat's Last Theorem in Lean – Imperial College London](https://github.com/ImperialCollegeLondon/FLT)
 * [2025-07-31, 13:43:22](https://news.ycombinator.com/item?id=44745571) - [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
 * [2025-07-31, 13:41:45](https://news.ycombinator.com/item?id=44745555) - [Releasing open weights for FLUX.1 Krea](https://www.krea.ai/blog/flux-krea-open-source-release)
 * [2025-07-31, 13:40:22](https://news.ycombinator.com/item?id=44745539) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
