@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-02, 16:02:16](https://news.ycombinator.com/item?id=44768704) - [Why Exercise Is a Miracle Drug](https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise)
 * [2025-08-02, 15:15:27](https://news.ycombinator.com/item?id=44768302) - [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
 * [2025-08-02, 14:47:54](https://news.ycombinator.com/item?id=44768048) - [VSCode extension for syntax highlighting multi-line YAML strings](https://github.com/harrydowning/vscode-yaml-embedded-languages)
 * [2025-08-02, 14:37:51](https://news.ycombinator.com/item?id=44767959) - [The /o in Ruby regex stands for \"oh the humanity \"](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
@@ -21,15 +22,14 @@
 * [2025-08-01, 21:53:13](https://news.ycombinator.com/item?id=44762880) - [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
 * [2025-08-01, 16:59:51](https://news.ycombinator.com/item?id=44759417) - [I couldn't submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
 * [2025-08-01, 16:35:40](https://news.ycombinator.com/item?id=44759152) - [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
-* [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757794) - [Ask HN: Who is hiring? (August 2025)](https://news.ycombinator.com/item?id=44757794)
 * [2025-07-31, 10:10:52](https://news.ycombinator.com/item?id=44744121) - [Why leather is best motorcycle protection [video]](https://www.youtube.com/watch?v=xwuRUcAGIEU)
 * [2025-07-31, 06:45:02](https://news.ycombinator.com/item?id=44743034) - [Caches: LRU vs. Random](https://danluu.com/2choices-eviction/)
 * [2025-07-31, 01:50:42](https://news.ycombinator.com/item?id=44741570) - [Go's race detector has a mutex blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
 * [2025-07-30, 14:14:56](https://news.ycombinator.com/item?id=44734515) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
+* [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
 * [2025-07-29, 20:26:00](https://news.ycombinator.com/item?id=44727871) - [Palo Alto Networks closing on over $20B acquisition of CyberArk](https://www.calcalistech.com/ctechnews/article/hksugkiwxe)
 * [2025-07-29, 18:52:08](https://news.ycombinator.com/item?id=44726981) - [Aerodynamic drag in small cyclist formations: shielding the protected rider [pdf]](http://www.urbanphysics.net/2025_Formation_Paper_Preprint_v1.pdf)
 * [2025-07-29, 11:30:26](https://news.ycombinator.com/item?id=44721932) - [JavaScript retro sound effects generator](https://github.grumdrig.com/jsfxr/)
-* [2025-07-29, 08:23:10](https://news.ycombinator.com/item?id=44720619) - [Yearly Organiser](https://neatnik.net/calendar/)
 
 ## [Archives](archives/index.md)
 

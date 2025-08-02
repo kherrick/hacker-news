@@ -81,5 +81,6 @@
 * [2025-07-30, 06:37:39](https://news.ycombinator.com/item?id=44731424) - [State Capacity and Eight Parking Spaces](https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/)
 * [2025-07-30, 06:08:20](https://news.ycombinator.com/item?id=44731272) - [Man creates featured multi-user fileserver using his phone. Whilst commuting](https://www.youtube.com/watch?v=15_-hgsX2V0)
 * [2025-07-30, 03:33:09](https://news.ycombinator.com/item?id=44730691) - [Show HN: An interactive dashboard to explore NYC rentals data](https://leaseswap.nyc/analytics)
+* [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
 * [2025-07-30, 01:05:46](https://news.ycombinator.com/item?id=44730021) - [Pkgbase Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
 * [2025-07-30, 00:38:25](https://news.ycombinator.com/item?id=44729865) - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
