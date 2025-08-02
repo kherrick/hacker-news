@@ -20,6 +20,7 @@
 * [2025-07-30, 18:39:06](https://news.ycombinator.com/item?id=44737965) - [Dynamic Programming Bursting Balloons](https://sylhare.github.io/2025/07/29/bursting-balloons.html)
 * [2025-07-30, 18:27:56](https://news.ycombinator.com/item?id=44737839) - [Drawing for the New Yorker](https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker)
 * [2025-07-30, 18:27:01](https://news.ycombinator.com/item?id=44737823) - [Polarizing Parsers](https://flak.tedunangst.com/post/polarizing-parsers)
+* [2025-07-30, 18:21:37](https://news.ycombinator.com/item?id=44737759) - [Microsoft Has a Surface Laptop 'Smurface Edition' for Smurfs Fans](https://www.theverge.com/news/715741/microsoft-surface-laptop-smurface-edition)
 * [2025-07-30, 18:15:35](https://news.ycombinator.com/item?id=44737676) - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 18:05:29](https://news.ycombinator.com/item?id=44737546) - [Maintaining Weight Loss](https://macrofactorapp.com/maintain-weight-loss/)
 * [2025-07-30, 18:00:13](https://news.ycombinator.com/item?id=44737474) - [Every Champion Needs a Rival](https://tombrady.com/posts/every-champion-needs-a-rival)

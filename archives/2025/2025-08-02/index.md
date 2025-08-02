@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 10:57:37](https://news.ycombinator.com/item?id=44766538) - [Warning: Gmail tampers with incoming email body content](https://news.ycombinator.com/item?id=44766538)
 * [2025-08-02, 10:16:15](https://news.ycombinator.com/item?id=44766313) - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 * [2025-08-02, 09:12:28](https://news.ycombinator.com/item?id=44765939) - [EU kills Android bootloader unlock starting August 1](https://xiaomitime.com/eu-kills-android-bootloader-unlock-starting-august-1-59449/)
