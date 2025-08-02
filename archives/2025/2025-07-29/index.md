@@ -88,6 +88,7 @@
 * [2025-07-29, 10:08:34](https://news.ycombinator.com/item?id=44721378) - [The Longest Sightline on Earth](https://calgaryvisioncentre.com/news/2017/6/23/tdgft1bsbdlm8496ov7tn73kr0ci1q)
 * [2025-07-29, 09:42:14](https://news.ycombinator.com/item?id=44721204) - [Nothing to watch – Experimental gallery visualizing 50k film posters](https://nothing-to-watch.port80.ch)
 * [2025-07-29, 09:15:19](https://news.ycombinator.com/item?id=44721003) - [Stop promising \"unlimited\", when you mean \"until we change our minds\"](https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again)
+* [2025-07-29, 08:23:10](https://news.ycombinator.com/item?id=44720619) - [Yearly Organiser](https://neatnik.net/calendar/)
 * [2025-07-29, 07:42:56](https://news.ycombinator.com/item?id=44720285) - [Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold](https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/)
 * [2025-07-29, 07:29:13](https://news.ycombinator.com/item?id=44720200) - [EU Commission finds Temu in breach of online platform rules](https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules)
 * [2025-07-29, 07:15:05](https://news.ycombinator.com/item?id=44720103) - [The EU could be scanning your chats by October 2025](https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know)
