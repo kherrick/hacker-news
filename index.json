@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-02, 02:57:27",
+      "https://news.ycombinator.com/item?id=44764568"
+    ],
+    [
+      "Robert Wilson has died",
+      "https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary"
+    ]
+  ],
+  [
+    [
       "2025-08-02, 02:35:56",
       "https://news.ycombinator.com/item?id=44764479"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44764376"
     ],
     [
-      "Hardening Mode for the Compiler",
+      "Hardening mode for the compiler",
       "https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos",
       "https://rickovercorpus.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 00:38:23",
-      "https://news.ycombinator.com/item?id=44763949"
-    ],
-    [
-      "Meta violated privacy law, jury says in menstrual data fight",
-      "https://www.courthousenews.com/meta-violated-privacy-law-jury-says-in-menstrual-data-fight/"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-08-01, 19:28:45",
-      "https://news.ycombinator.com/item?id=44761299"
-    ],
-    [
-      "Deep Agents",
-      "https://blog.langchain.com/deep-agents/"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 18:27:59",
       "https://news.ycombinator.com/item?id=44760561"
     ],
@@ -177,16 +167,6 @@
     [
       "Show HN: TraceRoot – Open-source agentic debugging for distributed services",
       "https://github.com/traceroot-ai/traceroot"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 16:36:51",
-      "https://news.ycombinator.com/item?id=44759171"
-    ],
-    [
-      "Ergonomic keyboarding with the Svalboard: a half-year retrospective",
-      "https://twey.io/hci/svalboard/"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2025-07-29, 13:33:07",
+      "https://news.ycombinator.com/item?id=44723163"
+    ],
+    [
+      "Processing: Mattie Lubchansky Wrote and Illustrated Simplicity",
+      "https://countercraft.substack.com/p/processing-how-mattie-lubchansky"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 13:15:42",
       "https://news.ycombinator.com/item?id=44722950"
     ],
     [
       "Ethersync: Peer-to-peer collaborative editing of local text files",
       "https://github.com/ethersync/ethersync"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 11:30:26",
+      "https://news.ycombinator.com/item?id=44721932"
+    ],
+    [
+      "JavaScript retro sound effects generator",
+      "https://github.grumdrig.com/jsfxr/"
     ]
   ],
   [
