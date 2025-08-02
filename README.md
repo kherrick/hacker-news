@@ -28,7 +28,7 @@
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
 * [2025-07-30, 14:09:40](https://news.ycombinator.com/item?id=44734450) - [Mezzano, an operating system written in Common Lisp](https://github.com/froggey/Mezzano)
 * [2025-07-30, 10:06:58](https://news.ycombinator.com/item?id=44732508) - [Australia’s gains in wheat-farm productivity](https://www.reuters.com/investigations/less-rain-more-wheat-how-australian-farmers-defied-climate-doom-2025-07-29/)
-* [2025-07-30, 05:29:05](https://news.ycombinator.com/item?id=44731116) - [I Do Support and Community](https://pketh.org/support-community.html)
+* [2025-07-30, 05:29:05](https://news.ycombinator.com/item?id=44731116) - [How I do support and community](https://pketh.org/support-community.html)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
 
 ## [Archives](archives/index.md)
