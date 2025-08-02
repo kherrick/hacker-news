@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-02, 17:00:36](https://news.ycombinator.com/item?id=44769231) - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
+* [2025-08-02, 16:40:51](https://news.ycombinator.com/item?id=44769039) - [Telo MT1](https://www.telotrucks.com/)
 * [2025-08-02, 16:02:16](https://news.ycombinator.com/item?id=44768704) - [Why Exercise Is a Miracle Drug](https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise)
 * [2025-08-02, 15:40:27](https://news.ycombinator.com/item?id=44768513) - [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos)
 * [2025-08-02, 15:15:27](https://news.ycombinator.com/item?id=44768302) - [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
@@ -7,6 +9,7 @@
 * [2025-08-02, 14:37:51](https://news.ycombinator.com/item?id=44767959) - [The /o in Ruby regex stands for \"oh the humanity \"](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
 * [2025-08-02, 14:36:04](https://news.ycombinator.com/item?id=44767947) - [Unikernel Guide: Build and Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
 * [2025-08-02, 14:31:58](https://news.ycombinator.com/item?id=44767928) - [The Rubik's Cube Perfect Scramble](https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble)
+* [2025-08-02, 14:26:37](https://news.ycombinator.com/item?id=44767888) - [Iceberg, the Right Idea – The Wrong Spec – Part 2 of 2: The Spec](https://www.database-doctor.com/posts/iceberg-is-wrong-2.html)
 * [2025-08-02, 14:09:12](https://news.ycombinator.com/item?id=44767775) - [WebGPU enables local LLM in the browser. Demo site with AI chat](https://andreinwald.github.io/browser-llm/)
 * [2025-08-02, 14:00:28](https://news.ycombinator.com/item?id=44767702) - [Financial Lessons from My Family's Experience with Long-Term Care Insurance](https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/)
 * [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
@@ -17,7 +20,6 @@
 * [2025-08-02, 10:52:36](https://news.ycombinator.com/item?id=44766508) - [We may not like what we become if A.I. solves loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
 * [2025-08-02, 07:52:40](https://news.ycombinator.com/item?id=44765600) - [Microsoft is open sourcing Windows 11's UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
 * [2025-08-02, 06:34:25](https://news.ycombinator.com/item?id=44765292) - [This Month in Ladybird](https://ladybird.org/newsletter/2025-07-31/)
-* [2025-08-02, 02:12:05](https://news.ycombinator.com/item?id=44764376) - [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
 * [2025-08-01, 22:04:38](https://news.ycombinator.com/item?id=44762959) - [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
 * [2025-08-01, 21:53:13](https://news.ycombinator.com/item?id=44762880) - [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
 * [2025-08-01, 16:59:51](https://news.ycombinator.com/item?id=44759417) - [I couldn't submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
@@ -27,9 +29,7 @@
 * [2025-07-31, 01:50:42](https://news.ycombinator.com/item?id=44741570) - [Go's race detector has a mutex blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
 * [2025-07-30, 14:14:56](https://news.ycombinator.com/item?id=44734515) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
-* [2025-07-29, 18:52:08](https://news.ycombinator.com/item?id=44726981) - [Aerodynamic drag in small cyclist formations: shielding the protected rider [pdf]](http://www.urbanphysics.net/2025_Formation_Paper_Preprint_v1.pdf)
 * [2025-07-29, 11:30:26](https://news.ycombinator.com/item?id=44721932) - [JavaScript retro sound effects generator](https://github.grumdrig.com/jsfxr/)
-* [2025-07-29, 08:23:10](https://news.ycombinator.com/item?id=44720619) - [Yearly Organiser](https://neatnik.net/calendar/)
 
 ## [Archives](archives/index.md)
 

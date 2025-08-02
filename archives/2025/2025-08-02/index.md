@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 17:00:36](https://news.ycombinator.com/item?id=44769231) - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
+* [2025-08-02, 16:40:51](https://news.ycombinator.com/item?id=44769039) - [Telo MT1](https://www.telotrucks.com/)
 * [2025-08-02, 16:02:16](https://news.ycombinator.com/item?id=44768704) - [Why Exercise Is a Miracle Drug](https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise)
 * [2025-08-02, 15:40:27](https://news.ycombinator.com/item?id=44768513) - [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos)
 * [2025-08-02, 15:15:27](https://news.ycombinator.com/item?id=44768302) - [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
@@ -11,6 +13,7 @@
 * [2025-08-02, 14:37:51](https://news.ycombinator.com/item?id=44767959) - [The /o in Ruby regex stands for \"oh the humanity \"](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
 * [2025-08-02, 14:36:04](https://news.ycombinator.com/item?id=44767947) - [Unikernel Guide: Build and Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
 * [2025-08-02, 14:31:58](https://news.ycombinator.com/item?id=44767928) - [The Rubik's Cube Perfect Scramble](https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble)
+* [2025-08-02, 14:26:37](https://news.ycombinator.com/item?id=44767888) - [Iceberg, the Right Idea – The Wrong Spec – Part 2 of 2: The Spec](https://www.database-doctor.com/posts/iceberg-is-wrong-2.html)
 * [2025-08-02, 14:22:11](https://news.ycombinator.com/item?id=44767858) - [The case for having roommates (even when you can afford to live alone)](https://supernuclear.substack.com/p/the-case-for-having-roommates-even)
 * [2025-08-02, 14:09:12](https://news.ycombinator.com/item?id=44767775) - [WebGPU enables local LLM in the browser. Demo site with AI chat](https://andreinwald.github.io/browser-llm/)
 * [2025-08-02, 14:00:28](https://news.ycombinator.com/item?id=44767702) - [Financial Lessons from My Family's Experience with Long-Term Care Insurance](https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/)
