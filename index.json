@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-08-02, 20:39:38",
-      "https://news.ycombinator.com/item?id=44771235"
-    ],
-    [
-      "The \"cracked coder\" fetish: Epistemic arrogance in Silicon Valley",
-      "https://maxread.substack.com/p/the-cracked-coder-fetish"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 20:21:38",
       "https://news.ycombinator.com/item?id=44771060"
     ],
     [
-      "Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models",
+      "Modeling open-world cognition as on-demand synthesis of probabilistic models",
       "https://arxiv.org/abs/2507.12547"
     ]
   ],
@@ -87,16 +77,6 @@
     [
       "The /o in Ruby regex stands for \"oh the humanity \"",
       "https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 14:31:58",
-      "https://news.ycombinator.com/item?id=44767928"
-    ],
-    [
-      "The Rubik's Cube Perfect Scramble (2024)",
-      "https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-07-31, 15:15:03",
+      "https://news.ycombinator.com/item?id=44746529"
+    ],
+    [
+      "I tried living on IPv6 for a day",
+      "https://www.xda-developers.com/the-internet-isnt-fully-ipv6-ready/"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 13:35:14",
       "https://news.ycombinator.com/item?id=44745490"
     ],
@@ -255,8 +245,18 @@
       "https://news.ycombinator.com/item?id=44741078"
     ],
     [
-      "Remote Hosting for Your Telescope",
+      "Remote hosting for your telescope",
       "https://www.sierra-remote.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 22:04:08",
+      "https://news.ycombinator.com/item?id=44740034"
+    ],
+    [
+      "TclSqueak – Program in Tcl the Smalltalk Way",
+      "http://www.xdobry.de/tclsqueak/"
     ]
   ],
   [
