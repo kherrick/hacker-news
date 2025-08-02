@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-02, 17:00:36",
+      "https://news.ycombinator.com/item?id=44769231"
+    ],
+    [
+      "Great Question (YC W21) Is Hiring a VP of Engineering (Remote)",
+      "https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 16:40:51",
+      "https://news.ycombinator.com/item?id=44769039"
+    ],
+    [
+      "Telo MT1",
+      "https://www.telotrucks.com/"
+    ]
+  ],
+  [
+    [
       "2025-08-02, 16:02:16",
       "https://news.ycombinator.com/item?id=44768704"
     ],
@@ -67,6 +87,16 @@
     [
       "The Rubik's Cube Perfect Scramble",
       "https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 14:26:37",
+      "https://news.ycombinator.com/item?id=44767888"
+    ],
+    [
+      "Iceberg, the Right Idea – The Wrong Spec – Part 2 of 2: The Spec",
+      "https://www.database-doctor.com/posts/iceberg-is-wrong-2.html"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-08-02, 02:12:05",
-      "https://news.ycombinator.com/item?id=44764376"
-    ],
-    [
-      "Hardening mode for the compiler",
-      "https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 22:04:38",
       "https://news.ycombinator.com/item?id=44762959"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-07-29, 18:52:08",
-      "https://news.ycombinator.com/item?id=44726981"
-    ],
-    [
-      "Aerodynamic drag in small cyclist formations: shielding the protected rider [pdf]",
-      "http://www.urbanphysics.net/2025_Formation_Paper_Preprint_v1.pdf"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 11:30:26",
       "https://news.ycombinator.com/item?id=44721932"
     ],
     [
       "JavaScript retro sound effects generator",
       "https://github.grumdrig.com/jsfxr/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 08:23:10",
-      "https://news.ycombinator.com/item?id=44720619"
-    ],
-    [
-      "Yearly Organiser",
-      "https://neatnik.net/calendar/"
     ]
   ]
 ]
