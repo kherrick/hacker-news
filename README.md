@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-02, 20:39:38](https://news.ycombinator.com/item?id=44771235) - [The \"cracked coder\" fetish: Epistemic arrogance in Silicon Valley](https://maxread.substack.com/p/the-cracked-coder-fetish)
 * [2025-08-02, 20:21:38](https://news.ycombinator.com/item?id=44771060) - [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)
 * [2025-08-02, 17:00:36](https://news.ycombinator.com/item?id=44769231) - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
 * [2025-08-02, 16:52:57](https://news.ycombinator.com/item?id=44769145) - [Linear Types for Programmers (2023)](https://twey.io/for-programmers/linear-types/)
@@ -24,12 +25,11 @@
 * [2025-07-31, 13:35:14](https://news.ycombinator.com/item?id=44745490) - [OpenAI's \"Study Mode\" and the risks of flattery](https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks)
 * [2025-07-31, 12:41:50](https://news.ycombinator.com/item?id=44745067) - [Helion begins work on Washington nuclear fusion plant](https://www.nucnet.org/news/microsoft-backed-fusion-company-begins-work-on-washington-nuclear-fusion-plant-7-4-2025)
 * [2025-07-31, 08:00:19](https://news.ycombinator.com/item?id=44743432) - [Double-slit experiment holds up when stripped to its quantum essentials](https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728)
-* [2025-07-30, 22:04:08](https://news.ycombinator.com/item?id=44740034) - [TclSqueak – Program in Tcl the Smalltalk Way](http://www.xdobry.de/tclsqueak/)
+* [2025-07-31, 00:23:34](https://news.ycombinator.com/item?id=44741078) - [Remote Hosting for Your Telescope](https://www.sierra-remote.com/)
 * [2025-07-30, 19:00:54](https://news.ycombinator.com/item?id=44738216) - [A dive into open chat protocols](https://wiki.alopex.li/ADiveIntoOpenChat)
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
 * [2025-07-30, 10:06:58](https://news.ycombinator.com/item?id=44732508) - [Australia’s gains in wheat-farm productivity](https://www.reuters.com/investigations/less-rain-more-wheat-how-australian-farmers-defied-climate-doom-2025-07-29/)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
-* [2025-07-26, 15:54:53](https://news.ycombinator.com/item?id=44695015) - [Write \"Freehold\" Software](https://deadbeef.io/freehold_software)
 
 ## [Archives](archives/index.md)
 

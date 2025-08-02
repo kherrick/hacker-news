@@ -87,3 +87,4 @@
 * [2025-07-31, 01:22:28](https://news.ycombinator.com/item?id=44741442) - [You know what: Microsoft became miserably incompetent in IT](https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/)
 * [2025-07-31, 01:02:13](https://news.ycombinator.com/item?id=44741314) - [Paradise Lost](https://alexandermigdal.com/paradise-lost/)
 * [2025-07-31, 01:01:02](https://news.ycombinator.com/item?id=44741305) - [Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
+* [2025-07-31, 00:23:34](https://news.ycombinator.com/item?id=44741078) - [Remote Hosting for Your Telescope](https://www.sierra-remote.com/)
