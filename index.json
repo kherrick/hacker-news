@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-08-01, 19:28:45",
+      "https://news.ycombinator.com/item?id=44761299"
+    ],
+    [
+      "Deep Agents",
+      "https://blog.langchain.com/deep-agents/"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 18:27:59",
       "https://news.ycombinator.com/item?id=44760561"
     ],
@@ -137,16 +147,6 @@
     [
       "I couldn't submit a PR, so I got hired and fixed it myself",
       "https://www.skeptrune.com/posts/doing-the-little-things/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 16:58:51",
-      "https://news.ycombinator.com/item?id=44759406"
-    ],
-    [
-      "Show HN: TraceRoot – Open-source agentic debugging for distributed services",
-      "https://github.com/traceroot-ai/traceroot"
     ]
   ],
   [
