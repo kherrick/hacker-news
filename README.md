@@ -2,6 +2,7 @@
 
 * [2025-08-02, 20:39:38](https://news.ycombinator.com/item?id=44771235) - [The \"cracked coder\" fetish: Epistemic arrogance in Silicon Valley](https://maxread.substack.com/p/the-cracked-coder-fetish)
 * [2025-08-02, 20:21:38](https://news.ycombinator.com/item?id=44771060) - [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)
+* [2025-08-02, 18:49:17](https://news.ycombinator.com/item?id=44770250) - [AWS deleted my 10-year account and all data without warning](https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/)
 * [2025-08-02, 17:00:36](https://news.ycombinator.com/item?id=44769231) - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
 * [2025-08-02, 16:52:57](https://news.ycombinator.com/item?id=44769145) - [Linear Types for Programmers (2023)](https://twey.io/for-programmers/linear-types/)
 * [2025-08-02, 16:40:51](https://news.ycombinator.com/item?id=44769039) - [Telo MT1](https://www.telotrucks.com/)
@@ -21,7 +22,6 @@
 * [2025-07-31, 19:49:35](https://news.ycombinator.com/item?id=44749387) - [The Big Oops in type systems: This problem extends to FP as well](https://danieltan.weblog.lol/2025/07/the-big-oops-in-type-systems-this-problem-extends-to-fp-as-well)
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-07-31, 15:21:31](https://news.ycombinator.com/item?id=44746583) - [PixiEditor 2.0 – A FOSS universal 2D graphics editor](https://pixieditor.net/blog/2025/07/30/20-release/)
-* [2025-07-31, 15:15:03](https://news.ycombinator.com/item?id=44746529) - [I tried living on IPv6 for a day](https://www.xda-developers.com/the-internet-isnt-fully-ipv6-ready/)
 * [2025-07-31, 13:35:14](https://news.ycombinator.com/item?id=44745490) - [OpenAI's \"Study Mode\" and the risks of flattery](https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks)
 * [2025-07-31, 12:41:50](https://news.ycombinator.com/item?id=44745067) - [Helion begins work on Washington nuclear fusion plant](https://www.nucnet.org/news/microsoft-backed-fusion-company-begins-work-on-washington-nuclear-fusion-plant-7-4-2025)
 * [2025-07-31, 08:00:19](https://news.ycombinator.com/item?id=44743432) - [Double-slit experiment holds up when stripped to its quantum essentials](https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728)
