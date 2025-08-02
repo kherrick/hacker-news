@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 11:34:39](https://news.ycombinator.com/item?id=44766758) - [A.I. Researchers Are Negotiating $250M Pay Packages](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html&ved=2ahUKEwid9PrYg-yOAxW6i68BHZ5DJDUQxfQBKAB6BAgIEAE&usg=AOvVaw3TIWf02i_O62uVAXT2FTEp)
+* [2025-08-02, 11:28:33](https://news.ycombinator.com/item?id=44766718) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 * [2025-08-02, 10:57:37](https://news.ycombinator.com/item?id=44766538) - [Warning: Gmail tampers with incoming email body content](https://news.ycombinator.com/item?id=44766538)
 * [2025-08-02, 10:16:15](https://news.ycombinator.com/item?id=44766313) - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
