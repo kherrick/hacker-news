@@ -50,6 +50,7 @@
 * [2025-07-31, 13:43:22](https://news.ycombinator.com/item?id=44745571) - [Anaconda Raises $150M Series C](https://www.anaconda.com/press/anaconda-raises-150m-series-c-funding-ai-enterprise)
 * [2025-07-31, 13:41:45](https://news.ycombinator.com/item?id=44745555) - [Releasing open weights for FLUX.1 Krea](https://www.krea.ai/blog/flux-krea-open-source-release)
 * [2025-07-31, 13:40:22](https://news.ycombinator.com/item?id=44745539) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
+* [2025-07-31, 13:35:14](https://news.ycombinator.com/item?id=44745490) - [OpenAI's \"Study Mode\" and the risks of flattery](https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks)
 * [2025-07-31, 13:32:40](https://news.ycombinator.com/item?id=44745465) - [Turbulence forces Delta plane to make emergency landing, 25 passengers injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
 * [2025-07-31, 13:22:22](https://news.ycombinator.com/item?id=44745383) - [GenosDB (GDB) – Decentralized P2P Graph Database](https://www.npmjs.com/package/genosdb)
 * [2025-07-31, 13:17:35](https://news.ycombinator.com/item?id=44745347) - [NSW Fair Trading – Dark Patterns](https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns)
