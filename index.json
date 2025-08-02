@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-08-02, 13:09:06",
+      "https://news.ycombinator.com/item?id=44767304"
+    ],
+    [
+      "Show HN: NaturalCron – Human-Readable Scheduling for .NET (With Fluent Builder)",
+      "https://github.com/hugoj0s3/NaturalCron"
+    ]
+  ],
+  [
+    [
       "2025-08-02, 12:40:11",
       "https://news.ycombinator.com/item?id=44767125"
     ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=44746621"
     ],
     [
-      "6 Weeks of Claude Code",
+      "6 weeks of Claude Code",
       "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-07-31, 12:41:50",
-      "https://news.ycombinator.com/item?id=44745067"
-    ],
-    [
-      "Helion begins work on Washington nuclear fusion plant",
-      "https://www.nucnet.org/news/microsoft-backed-fusion-company-begins-work-on-washington-nuclear-fusion-plant-7-4-2025"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 08:00:19",
       "https://news.ycombinator.com/item?id=44743432"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-07-30, 22:04:08",
-      "https://news.ycombinator.com/item?id=44740034"
-    ],
-    [
-      "TclSqueak – Program in Tcl the Smalltalk Way",
-      "http://www.xdobry.de/tclsqueak/"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 19:00:54",
       "https://news.ycombinator.com/item?id=44738216"
     ],
@@ -277,6 +267,16 @@
     [
       "Helsinki records zero traffic deaths for full year",
       "https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 14:09:40",
+      "https://news.ycombinator.com/item?id=44734450"
+    ],
+    [
+      "Mezzano, an operating system written in Common Lisp",
+      "https://github.com/froggey/Mezzano"
     ]
   ],
   [
