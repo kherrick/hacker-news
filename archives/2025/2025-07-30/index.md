@@ -51,6 +51,7 @@
 * [2025-07-30, 14:14:56](https://news.ycombinator.com/item?id=44734515) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-30, 14:12:09](https://news.ycombinator.com/item?id=44734475) - [Opsqueue: Lightweight batch processing queue for heavy loads – now open-source](https://www.channable.com/tech/introducing-opsqueue)
 * [2025-07-30, 14:11:36](https://news.ycombinator.com/item?id=44734471) - [Show HN: State of the Art Open-source alternative to ChatGPT Agents for browsing](https://github.com/trymeka/agent)
+* [2025-07-30, 14:09:40](https://news.ycombinator.com/item?id=44734450) - [Mezzano, an operating system written in Common Lisp](https://github.com/froggey/Mezzano)
 * [2025-07-30, 13:55:33](https://news.ycombinator.com/item?id=44734263) - [The Rising Cost of Child and Pet Day Care](https://marginalrevolution.com/marginalrevolution/2025/07/the-rising-cost-of-child-and-pet-day-care.html)
 * [2025-07-30, 13:55:25](https://news.ycombinator.com/item?id=44734260) - [NMDA Receptor Antagonists: Slightly More Than You Wanted to Know](https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more)
 * [2025-07-30, 13:33:37](https://news.ycombinator.com/item?id=44733983) - [Bitmapist: We built an open-source cohorts analytics tool that saved millions](https://www.doist.dev/bitmapist/)

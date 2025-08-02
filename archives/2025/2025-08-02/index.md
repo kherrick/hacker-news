@@ -29,6 +29,7 @@
 * [2025-08-02, 13:36:21](https://news.ycombinator.com/item?id=44767488) - [Character Bitmap Graphics on the Pet 2001](https://www.masswerk.at/nowgobang/2025/character-bitmaps-on-the-pet2001)
 * [2025-08-02, 13:32:36](https://news.ycombinator.com/item?id=44767461) - [Cadence Guilty, Pays $140M for Exporting Semi Design Tools to PRC Military Uni](https://www.justice.gov/opa/pr/cadence-design-systems-agrees-plead-guilty-and-pay-over-140-million-unlawfully-exporting)
 * [2025-08-02, 13:27:25](https://news.ycombinator.com/item?id=44767433) - [Anandtech.com now redirects to its forums](https://forums.anandtech.com/)
+* [2025-08-02, 13:09:06](https://news.ycombinator.com/item?id=44767304) - [Show HN: NaturalCron – Human-Readable Scheduling for .NET (With Fluent Builder)](https://github.com/hugoj0s3/NaturalCron)
 * [2025-08-02, 12:40:11](https://news.ycombinator.com/item?id=44767125) - [ThinkPad designer David Hill spills secrets, designs that never made it](https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/)
 * [2025-08-02, 12:20:59](https://news.ycombinator.com/item?id=44767003) - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-08-02, 12:12:27](https://news.ycombinator.com/item?id=44766962) - [At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
