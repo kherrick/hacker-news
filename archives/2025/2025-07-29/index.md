@@ -73,6 +73,7 @@
 * [2025-07-29, 13:15:42](https://news.ycombinator.com/item?id=44722950) - [Ethersync: Peer-to-peer collaborative editing of local text files](https://github.com/ethersync/ethersync)
 * [2025-07-29, 13:12:19](https://news.ycombinator.com/item?id=44722910) - [Rao Reading Algorithm](https://raohacker.com/rao-reading-algorithm/)
 * [2025-07-29, 12:40:13](https://news.ycombinator.com/item?id=44722602) - [Ask HN: How will the OSA affect small Mastadon instances?](https://news.ycombinator.com/item?id=44722602)
+* [2025-07-29, 12:39:50](https://news.ycombinator.com/item?id=44722594) - [Ferroelectric Helps Break Transistor Limits](https://spectrum.ieee.org/negative-capacitance-schottky-limit)
 * [2025-07-29, 12:38:46](https://news.ycombinator.com/item?id=44722584) - [Wish you could escape the planet? Too bad life in space would suck](https://www.salon.com/2024/11/22/wish-you-could-escape-the-planet-too-life-in-space-would-suck/)
 * [2025-07-29, 12:36:51](https://news.ycombinator.com/item?id=44722556) - [Union Pacific to buy Norfolk in $85B mega U.S. railroad deal](https://www.cnbc.com/2025/07/29/union-pacific-to-buy-norfolk.html)
 * [2025-07-29, 12:33:00](https://news.ycombinator.com/item?id=44722518) - [KernelScript eBPF-centric programming language](https://github.com/multikernel/kernelscript)
