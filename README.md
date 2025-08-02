@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-02, 16:02:16](https://news.ycombinator.com/item?id=44768704) - [Why Exercise Is a Miracle Drug](https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise)
+* [2025-08-02, 15:40:27](https://news.ycombinator.com/item?id=44768513) - [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos)
 * [2025-08-02, 15:15:27](https://news.ycombinator.com/item?id=44768302) - [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
 * [2025-08-02, 14:47:54](https://news.ycombinator.com/item?id=44768048) - [VSCode extension for syntax highlighting multi-line YAML strings](https://github.com/harrydowning/vscode-yaml-embedded-languages)
 * [2025-08-02, 14:37:51](https://news.ycombinator.com/item?id=44767959) - [The /o in Ruby regex stands for \"oh the humanity \"](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
@@ -10,7 +11,6 @@
 * [2025-08-02, 14:00:28](https://news.ycombinator.com/item?id=44767702) - [Financial Lessons from My Family's Experience with Long-Term Care Insurance](https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/)
 * [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
 * [2025-08-02, 13:36:21](https://news.ycombinator.com/item?id=44767488) - [Character Bitmap Graphics on the Pet 2001](https://www.masswerk.at/nowgobang/2025/character-bitmaps-on-the-pet2001)
-* [2025-08-02, 13:32:36](https://news.ycombinator.com/item?id=44767461) - [Cadence Guilty, Pays $140M for Exporting Semi Design Tools to PRC Military Uni](https://www.justice.gov/opa/pr/cadence-design-systems-agrees-plead-guilty-and-pay-over-140-million-unlawfully-exporting)
 * [2025-08-02, 12:40:11](https://news.ycombinator.com/item?id=44767125) - [ThinkPad designer David Hill spills secrets, designs that never made it](https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/)
 * [2025-08-02, 12:20:59](https://news.ycombinator.com/item?id=44767003) - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-08-02, 11:28:33](https://news.ycombinator.com/item?id=44766718) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
@@ -27,9 +27,9 @@
 * [2025-07-31, 01:50:42](https://news.ycombinator.com/item?id=44741570) - [Go's race detector has a mutex blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
 * [2025-07-30, 14:14:56](https://news.ycombinator.com/item?id=44734515) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
-* [2025-07-29, 20:26:00](https://news.ycombinator.com/item?id=44727871) - [Palo Alto Networks closing on over $20B acquisition of CyberArk](https://www.calcalistech.com/ctechnews/article/hksugkiwxe)
 * [2025-07-29, 18:52:08](https://news.ycombinator.com/item?id=44726981) - [Aerodynamic drag in small cyclist formations: shielding the protected rider [pdf]](http://www.urbanphysics.net/2025_Formation_Paper_Preprint_v1.pdf)
 * [2025-07-29, 11:30:26](https://news.ycombinator.com/item?id=44721932) - [JavaScript retro sound effects generator](https://github.grumdrig.com/jsfxr/)
+* [2025-07-29, 08:23:10](https://news.ycombinator.com/item?id=44720619) - [Yearly Organiser](https://neatnik.net/calendar/)
 
 ## [Archives](archives/index.md)
 

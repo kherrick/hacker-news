@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
 * [2025-08-02, 16:02:16](https://news.ycombinator.com/item?id=44768704) - [Why Exercise Is a Miracle Drug](https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise)
+* [2025-08-02, 15:40:27](https://news.ycombinator.com/item?id=44768513) - [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos)
 * [2025-08-02, 15:15:27](https://news.ycombinator.com/item?id=44768302) - [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
 * [2025-08-02, 14:47:54](https://news.ycombinator.com/item?id=44768048) - [VSCode extension for syntax highlighting multi-line YAML strings](https://github.com/harrydowning/vscode-yaml-embedded-languages)
 * [2025-08-02, 14:37:51](https://news.ycombinator.com/item?id=44767959) - [The /o in Ruby regex stands for \"oh the humanity \"](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
