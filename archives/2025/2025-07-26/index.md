@@ -32,6 +32,7 @@
 * [2025-07-26, 16:19:11](https://news.ycombinator.com/item?id=44695190) - [Ageing accelerates around age 50 ― some organs faster than others](https://www.nature.com/articles/d41586-025-02333-z)
 * [2025-07-26, 16:15:17](https://news.ycombinator.com/item?id=44695159) - [Is the Interstellar Object 3I/Atlas Alien Technology?](https://arxiv.org/abs/2507.12213)
 * [2025-07-26, 16:06:09](https://news.ycombinator.com/item?id=44695098) - [How We Rooted Copilot](https://research.eye.security/how-we-rooted-copilot/)
+* [2025-07-26, 15:54:53](https://news.ycombinator.com/item?id=44695015) - [Write \"Freehold\" Software](https://deadbeef.io/freehold_software)
 * [2025-07-26, 14:58:49](https://news.ycombinator.com/item?id=44694606) - [Clj-coll: Clojure collections and sequences in Common Lisp](https://github.com/dtenny/clj-coll)
 * [2025-07-26, 13:50:26](https://news.ycombinator.com/item?id=44694085) - [Consciousness and being: How humans and AI influence each other](https://habr.com/en/articles/930946/)
 * [2025-07-26, 13:08:44](https://news.ycombinator.com/item?id=44693815) - [The Rise of Shippable Microfactories](https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories)
