@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
 * [2025-08-02, 11:44:42](https://news.ycombinator.com/item?id=44766831) - [New research finds that ivermectin could help control malaria transmission](https://www.ndm.ox.ac.uk/news/new-research-supports-ivermectin-as-an-effective-strategy-to-control-malaria-transmission)
 * [2025-08-02, 11:28:33](https://news.ycombinator.com/item?id=44766718) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 * [2025-08-02, 10:52:36](https://news.ycombinator.com/item?id=44766508) - [We may not like what we become if A.I. solves loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
@@ -18,10 +19,9 @@
 * [2025-08-01, 16:35:40](https://news.ycombinator.com/item?id=44759152) - [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
 * [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757794) - [Ask HN: Who is hiring? (August 2025)](https://news.ycombinator.com/item?id=44757794)
 * [2025-08-01, 12:13:12](https://news.ycombinator.com/item?id=44755654) - [Launch HN: Societies.io (YC W25) – AI simulations of your target audience](https://news.ycombinator.com/item?id=44755654)
-* [2025-08-01, 09:08:59](https://news.ycombinator.com/item?id=44754523) - [Our Farewell from Google Play](https://secuso.aifb.kit.edu/english/2809.php)
-* [2025-08-01, 09:04:16](https://news.ycombinator.com/item?id=44754492) - [Replacing tmux in my dev workflow](https://bower.sh/you-might-not-need-tmux)
 * [2025-07-31, 13:35:14](https://news.ycombinator.com/item?id=44745490) - [OpenAI's \"Study Mode\" and the risks of flattery](https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks)
 * [2025-07-31, 10:10:52](https://news.ycombinator.com/item?id=44744121) - [Why leather is best motorcycle protection [video]](https://www.youtube.com/watch?v=xwuRUcAGIEU)
+* [2025-07-31, 06:45:02](https://news.ycombinator.com/item?id=44743034) - [Caches: LRU vs. Random](https://danluu.com/2choices-eviction/)
 * [2025-07-30, 20:19:44](https://news.ycombinator.com/item?id=44739041) - [Palo Alto Networks agrees to buy CyberArk for $25B](https://techcrunch.com/2025/07/30/palo-alto-networks-agrees-to-buy-cyberark-for-25-billion/)
 * [2025-07-30, 14:14:56](https://news.ycombinator.com/item?id=44734515) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-29, 18:52:08](https://news.ycombinator.com/item?id=44726981) - [Aerodynamic drag in small cyclist formations: shielding the protected rider [pdf]](http://www.urbanphysics.net/2025_Formation_Paper_Preprint_v1.pdf)
