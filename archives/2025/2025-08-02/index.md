@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
 * [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
+* [2025-08-02, 13:32:36](https://news.ycombinator.com/item?id=44767461) - [Cadence Guilty, Pays $140M for Exporting Semi Design Tools to PRC Military Uni](https://www.justice.gov/opa/pr/cadence-design-systems-agrees-plead-guilty-and-pay-over-140-million-unlawfully-exporting)
+* [2025-08-02, 12:40:11](https://news.ycombinator.com/item?id=44767125) - [ThinkPad designer David Hill spills secrets, designs that never made it](https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/)
+* [2025-08-02, 12:20:59](https://news.ycombinator.com/item?id=44767003) - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-08-02, 11:44:42](https://news.ycombinator.com/item?id=44766831) - [New research finds that ivermectin could help control malaria transmission](https://www.ndm.ox.ac.uk/news/new-research-supports-ivermectin-as-an-effective-strategy-to-control-malaria-transmission)
 * [2025-08-02, 11:34:39](https://news.ycombinator.com/item?id=44766758) - [A.I. Researchers Are Negotiating $250M Pay Packages](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html&ved=2ahUKEwid9PrYg-yOAxW6i68BHZ5DJDUQxfQBKAB6BAgIEAE&usg=AOvVaw3TIWf02i_O62uVAXT2FTEp)
 * [2025-08-02, 11:34:39](https://news.ycombinator.com/item?id=44766758) - [A.I. Researchers Are Negotiating $250 Million Pay Packages](https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html)
