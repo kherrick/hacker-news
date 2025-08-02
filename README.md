@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-02, 00:40:38](https://news.ycombinator.com/item?id=44763965) - [Contrarian climate assessment from U.S. government draws Swift pushback](https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback)
 * [2025-08-01, 22:10:07](https://news.ycombinator.com/item?id=44763016) - [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
 * [2025-08-01, 22:04:38](https://news.ycombinator.com/item?id=44762959) - [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
 * [2025-08-01, 21:53:13](https://news.ycombinator.com/item?id=44762880) - [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
@@ -18,7 +19,6 @@
 * [2025-08-01, 16:20:07](https://news.ycombinator.com/item?id=44758957) - [Supporting the BEAM community with free CI/CD security audits](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
 * [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757794) - [Ask HN: Who is hiring? (August 2025)](https://news.ycombinator.com/item?id=44757794)
 * [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757792) - [Ask HN: Who wants to be hired? (August 2025)](https://news.ycombinator.com/item?id=44757792)
-* [2025-08-01, 14:58:06](https://news.ycombinator.com/item?id=44757755) - [Hyrum's Law](https://www.hyrumslaw.com)
 * [2025-08-01, 12:13:12](https://news.ycombinator.com/item?id=44755654) - [Launch HN: Societies.io (YC W25) – AI simulations of your target audience](https://news.ycombinator.com/item?id=44755654)
 * [2025-08-01, 11:10:38](https://news.ycombinator.com/item?id=44755279) - [Gemini 2.5 Deep Think](https://blog.google/products/gemini/gemini-2-5-deep-think/)
 * [2025-08-01, 09:08:59](https://news.ycombinator.com/item?id=44754523) - [Our Farewell from Google Play](https://secuso.aifb.kit.edu/english/2809.php)
@@ -27,9 +27,9 @@
 * [2025-07-30, 17:52:37](https://news.ycombinator.com/item?id=44737372) - [Build an AI telephony agent for inbound and outbound calls](https://github.com/videosdk-community/ai-telephony-demo)
 * [2025-07-30, 14:14:56](https://news.ycombinator.com/item?id=44734515) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-29, 20:14:07](https://news.ycombinator.com/item?id=44727756) - [A DH106 1A Comet has been restored at the de Havilland Aircraft Museum](https://www.cnn.com/travel/de-havilland-comet-dh106-first-passenger-jet)
+* [2025-07-29, 13:15:42](https://news.ycombinator.com/item?id=44722950) - [Ethersync: Peer-to-peer collaborative editing of local text files](https://github.com/ethersync/ethersync)
 * [2025-07-29, 07:42:56](https://news.ycombinator.com/item?id=44720285) - [Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold](https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/)
 * [2025-07-29, 04:57:22](https://news.ycombinator.com/item?id=44719222) - [Show HN: Draw a fish and watch it swim with the others](https://drawafish.com)
-* [2025-07-28, 18:23:51](https://news.ycombinator.com/item?id=44713716) - [Replacing cron jobs with a centralized task scheduler](https://mayhul.com/posts/scheduled-tasks/)
 
 ## [Archives](archives/index.md)
 
