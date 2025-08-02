@@ -51,26 +51,6 @@
   ],
   [
     [
-      "2025-08-02, 16:02:16",
-      "https://news.ycombinator.com/item?id=44768704"
-    ],
-    [
-      "Why Exercise Is a Miracle Drug",
-      "https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 15:59:51",
-      "https://news.ycombinator.com/item?id=44768677"
-    ],
-    [
-      "How to reverse engineer an analog chip: the TDA7000 FM radio receiver",
-      "https://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 14:37:51",
       "https://news.ycombinator.com/item?id=44767959"
     ],
@@ -87,26 +67,6 @@
     [
       "The Rubik's Cube Perfect Scramble (2024)",
       "https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 14:26:37",
-      "https://news.ycombinator.com/item?id=44767888"
-    ],
-    [
-      "Iceberg, the right idea – the wrong spec – Part 2 of 2: The spec",
-      "https://www.database-doctor.com/posts/iceberg-is-wrong-2.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 14:22:11",
-      "https://news.ycombinator.com/item?id=44767858"
-    ],
-    [
-      "The case for having roommates even when you can afford to live alone",
-      "https://supernuclear.substack.com/p/the-case-for-having-roommates-even"
     ]
   ],
   [
@@ -137,6 +97,16 @@
     [
       "The Art of Multiprocessor Programming 2nd Edition Book Club",
       "https://eatonphil.com/2025-art-of-multiprocessor-programming.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 13:27:25",
+      "https://news.ycombinator.com/item?id=44767433"
+    ],
+    [
+      "Anandtech.com now redirects to its forums",
+      "https://forums.anandtech.com/"
     ]
   ],
   [
@@ -211,16 +181,6 @@
   ],
   [
     [
-      "2025-08-01, 22:04:38",
-      "https://news.ycombinator.com/item?id=44762959"
-    ],
-    [
-      "Cerebras Code",
-      "https://www.cerebras.ai/blog/introducing-cerebras-code"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 14:22:45",
       "https://news.ycombinator.com/item?id=44757249"
     ],
@@ -237,6 +197,16 @@
     [
       "6 Weeks of Claude Code",
       "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 15:21:31",
+      "https://news.ycombinator.com/item?id=44746583"
+    ],
+    [
+      "PixiEditor 2.0 – A FOSS universal 2D graphics editor",
+      "https://pixieditor.net/blog/2025/07/30/20-release/"
     ]
   ],
   [
@@ -261,22 +231,22 @@
   ],
   [
     [
-      "2025-07-31, 06:45:02",
-      "https://news.ycombinator.com/item?id=44743034"
-    ],
-    [
-      "Caches: LRU vs. Random",
-      "https://danluu.com/2choices-eviction/"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 03:34:33",
       "https://news.ycombinator.com/item?id=44742092"
     ],
     [
       "'Communities' of extreme life seen for first time in deep ocean",
       "https://www.bbc.com/news/articles/c3wnqe5j99do"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 19:00:54",
+      "https://news.ycombinator.com/item?id=44738216"
+    ],
+    [
+      "A dive into open chat protocols",
+      "https://wiki.alopex.li/ADiveIntoOpenChat"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2025-07-30, 16:08:02",
+      "https://news.ycombinator.com/item?id=44736025"
+    ],
+    [
+      "Helsinki records zero traffic deaths for full year",
+      "https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 10:06:58",
+      "https://news.ycombinator.com/item?id=44732508"
+    ],
+    [
+      "Australia’s gains in wheat-farm productivity",
+      "https://www.reuters.com/investigations/less-rain-more-wheat-how-australian-farmers-defied-climate-doom-2025-07-29/"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 02:53:10",
       "https://news.ycombinator.com/item?id=44730544"
     ],
     [
       "Online Collection of Keygen Music",
       "https://keygenmusic.tk"
+    ]
+  ],
+  [
+    [
+      "2025-07-26, 15:54:53",
+      "https://news.ycombinator.com/item?id=44695015"
+    ],
+    [
+      "Write \"Freehold\" Software",
+      "https://deadbeef.io/freehold_software"
     ]
   ]
 ]
