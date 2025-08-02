@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
 * [2025-08-02, 17:00:36](https://news.ycombinator.com/item?id=44769231) - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
+* [2025-08-02, 16:55:14](https://news.ycombinator.com/item?id=44769170) - [The unreasonable likelihood of being: origin of life, terraforming, and AI](https://arxiv.org/abs/2507.18545)
 * [2025-08-02, 16:40:51](https://news.ycombinator.com/item?id=44769039) - [Telo MT1](https://www.telotrucks.com/)
+* [2025-08-02, 16:03:31](https://news.ycombinator.com/item?id=44768714) - [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
 * [2025-08-02, 16:02:16](https://news.ycombinator.com/item?id=44768704) - [Why Exercise Is a Miracle Drug](https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise)
+* [2025-08-02, 15:59:51](https://news.ycombinator.com/item?id=44768677) - [How to reverse engineer an analog chip: the TDA7000 FM radio receiver](https://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html)
 * [2025-08-02, 15:40:27](https://news.ycombinator.com/item?id=44768513) - [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos)
 * [2025-08-02, 15:15:27](https://news.ycombinator.com/item?id=44768302) - [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
 * [2025-08-02, 14:47:54](https://news.ycombinator.com/item?id=44768048) - [VSCode extension for syntax highlighting multi-line YAML strings](https://github.com/harrydowning/vscode-yaml-embedded-languages)
