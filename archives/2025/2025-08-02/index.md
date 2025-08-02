@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 06:03:23](https://news.ycombinator.com/item?id=44765193) - [At $250M, top AI salaries dwarf the Manhattan Project and the Space Race](https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/)
 * [2025-08-02, 02:57:27](https://news.ycombinator.com/item?id=44764568) - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 * [2025-08-02, 02:35:56](https://news.ycombinator.com/item?id=44764479) - [Peak Energy just shipped the US's first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
 * [2025-08-02, 02:20:22](https://news.ycombinator.com/item?id=44764410) - [Tesla owes small businesses millions in unpaid bills [video]](https://www.cnn.com/2025/08/01/politics/video/inv-musk-unpaid-bills)
