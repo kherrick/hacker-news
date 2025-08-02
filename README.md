@@ -2,7 +2,6 @@
 
 * [2025-08-02, 02:57:27](https://news.ycombinator.com/item?id=44764568) - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 * [2025-08-02, 02:35:56](https://news.ycombinator.com/item?id=44764479) - [Peak Energy just shipped the US's first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
-* [2025-08-02, 02:20:22](https://news.ycombinator.com/item?id=44764410) - [Tesla owes small businesses millions in unpaid bills [video]](https://www.cnn.com/2025/08/01/politics/video/inv-musk-unpaid-bills)
 * [2025-08-02, 02:12:05](https://news.ycombinator.com/item?id=44764376) - [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
 * [2025-08-02, 00:59:57](https://news.ycombinator.com/item?id=44764077) - [The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos](https://rickovercorpus.org/)
 * [2025-08-01, 22:10:07](https://news.ycombinator.com/item?id=44763016) - [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
@@ -17,6 +16,7 @@
 * [2025-08-01, 17:01:08](https://news.ycombinator.com/item?id=44759432) - [Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer](https://www.coveragecat.com/careers/engineering/software-engineer)
 * [2025-08-01, 16:59:51](https://news.ycombinator.com/item?id=44759417) - [I couldn't submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
 * [2025-08-01, 16:58:51](https://news.ycombinator.com/item?id=44759406) - [Show HN: TraceRoot – Open-source agentic debugging for distributed services](https://github.com/traceroot-ai/traceroot)
+* [2025-08-01, 16:36:51](https://news.ycombinator.com/item?id=44759171) - [Ergonomic keyboarding with the Svalboard: a half-year retrospective](https://twey.io/hci/svalboard/)
 * [2025-08-01, 16:35:40](https://news.ycombinator.com/item?id=44759152) - [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
 * [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757794) - [Ask HN: Who is hiring? (August 2025)](https://news.ycombinator.com/item?id=44757794)
 * [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757792) - [Ask HN: Who wants to be hired? (August 2025)](https://news.ycombinator.com/item?id=44757792)
