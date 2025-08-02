@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 14:09:12](https://news.ycombinator.com/item?id=44767775) - [WebGPU enables local LLM in the browser. Demo site with AI chat](https://andreinwald.github.io/browser-llm/)
 * [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
 * [2025-08-02, 13:32:36](https://news.ycombinator.com/item?id=44767461) - [Cadence Guilty, Pays $140M for Exporting Semi Design Tools to PRC Military Uni](https://www.justice.gov/opa/pr/cadence-design-systems-agrees-plead-guilty-and-pay-over-140-million-unlawfully-exporting)
 * [2025-08-02, 12:40:11](https://news.ycombinator.com/item?id=44767125) - [ThinkPad designer David Hill spills secrets, designs that never made it](https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/)

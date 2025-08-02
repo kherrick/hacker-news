@@ -14,6 +14,7 @@
 * [2025-07-29, 21:34:28](https://news.ycombinator.com/item?id=44728513) - [CodeCrafters (YC S22) is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
 * [2025-07-29, 21:19:19](https://news.ycombinator.com/item?id=44728369) - [Microsoft bans LibreOffice developer's account without warning, rejects appeal](https://www.neowin.net/news/microsoft-bans-libreoffice-developers-account-without-warning-rejects-appeal/)
 * [2025-07-29, 20:57:47](https://news.ycombinator.com/item?id=44728188) - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
+* [2025-07-29, 20:26:00](https://news.ycombinator.com/item?id=44727871) - [Palo Alto Networks closing on over $20B acquisition of CyberArk](https://www.calcalistech.com/ctechnews/article/hksugkiwxe)
 * [2025-07-29, 20:18:23](https://news.ycombinator.com/item?id=44727788) - [Supervised Fine Tuning on Curated Data Is Reinforcement Learning](https://arxiv.org/abs/2507.12856)
 * [2025-07-29, 20:14:07](https://news.ycombinator.com/item?id=44727756) - [The world's first passenger jet was a death trap. Now it's brought back to life](https://www.cnn.com/travel/de-havilland-comet-dh106-first-passenger-jet)
 * [2025-07-29, 20:03:29](https://news.ycombinator.com/item?id=44727653) - [Dropbox Passwords discontinuation](https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation)
