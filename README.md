@@ -2,12 +2,12 @@
 
 * [2025-08-03, 13:24:58](https://news.ycombinator.com/item?id=44776434) - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
 * [2025-08-03, 13:06:15](https://news.ycombinator.com/item?id=44776314) - [$83B Wasted: Showing Up at the Airport 3 Hours Before Your Flight](https://viewfromthewing.com/83-billion-wasted-showing-up-at-the-airport-3-hours-before-your-flight-is-a-system-failure-no-ones-trying-to-fix/)
+* [2025-08-03, 12:27:54](https://news.ycombinator.com/item?id=44776086) - [Falcon-H1: A Family of Hybrid-Head Models Redefining Efficiency and Performance](https://arxiv.org/abs/2507.22448)
 * [2025-08-03, 11:28:29](https://news.ycombinator.com/item?id=44775830) - [How To Make (almost) Anything (2019)](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
 * [2025-08-03, 11:01:37](https://news.ycombinator.com/item?id=44775700) - [Tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
 * [2025-08-03, 10:32:51](https://news.ycombinator.com/item?id=44775563) - [If you're remote, ramble](https://stephango.com/ramblings)
 * [2025-08-03, 06:38:43](https://news.ycombinator.com/item?id=44774567) - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 * [2025-08-03, 04:34:36](https://news.ycombinator.com/item?id=44774104) - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
-* [2025-08-03, 04:11:55](https://news.ycombinator.com/item?id=44774027) - [Seed7 – The Extensible Programming Language](https://seed7.net)
 * [2025-08-03, 03:43:42](https://news.ycombinator.com/item?id=44773919) - [Writing a basic service for GNU Guix](https://tannerhoelzel.com/gnu-shepherd-simple-service.html)
 * [2025-08-03, 00:12:15](https://news.ycombinator.com/item?id=44772917) - [C++26 Reflections adventures and compile-time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
 * [2025-08-02, 22:26:47](https://news.ycombinator.com/item?id=44772177) - [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
