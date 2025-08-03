@@ -11,6 +11,7 @@
 * [2025-08-02, 21:39:42](https://news.ycombinator.com/item?id=44771808) - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
 * [2025-08-02, 16:40:51](https://news.ycombinator.com/item?id=44769039) - [Telo MT1](https://www.telotrucks.com/)
 * [2025-08-02, 16:03:31](https://news.ycombinator.com/item?id=44768714) - [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
+* [2025-08-02, 14:09:12](https://news.ycombinator.com/item?id=44767775) - [Show HN: WebGPU enables local LLM in the browser – demo site with AI chat](https://andreinwald.github.io/browser-llm/)
 * [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
 * [2025-08-02, 13:27:25](https://news.ycombinator.com/item?id=44767433) - [Anandtech.com now redirects to its forums](https://forums.anandtech.com/)
 * [2025-08-02, 12:12:27](https://news.ycombinator.com/item?id=44766962) - [At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
@@ -28,7 +29,6 @@
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
 * [2025-07-30, 14:56:46](https://news.ycombinator.com/item?id=44735059) - [LangExtract: Python library for extracting structured data from language models](https://github.com/google/langextract)
 * [2025-07-30, 14:09:40](https://news.ycombinator.com/item?id=44734450) - [Mezzano, an operating system written in Common Lisp](https://github.com/froggey/Mezzano)
-* [2025-07-30, 09:47:20](https://news.ycombinator.com/item?id=44732429) - [A Quantum Gravimeter for GPS Backup](https://spectrum.ieee.org/quantum-gravity-sensor)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
 
 ## [Archives](archives/index.md)
