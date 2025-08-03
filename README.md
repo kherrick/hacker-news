@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-03, 23:25:54](https://news.ycombinator.com/item?id=44780706) - [Texas House Democrats flee state in bid to block GOP proposed congressional map](https://www.texastribune.org/2025/08/03/texas-democrats-quorum-break-redistricting-map/)
 * [2025-08-03, 22:55:05](https://news.ycombinator.com/item?id=44780540) - [How to Grow Almost Anything](https://howtogrowalmostanything.notion.site/htgaa25)
 * [2025-08-03, 22:50:53](https://news.ycombinator.com/item?id=44780515) - [A study of lights at night suggests dictators lie about economic growth (2022)](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
 * [2025-08-03, 22:24:29](https://news.ycombinator.com/item?id=44780353) - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
@@ -19,7 +20,6 @@
 * [2025-08-03, 11:28:29](https://news.ycombinator.com/item?id=44775830) - [How to make almost anything (2019)](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
 * [2025-08-03, 11:01:37](https://news.ycombinator.com/item?id=44775700) - [Tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
 * [2025-08-03, 10:32:51](https://news.ycombinator.com/item?id=44775563) - [If you're remote, ramble](https://stephango.com/ramblings)
-* [2025-08-03, 10:07:44](https://news.ycombinator.com/item?id=44775485) - [EHRs: The hidden distraction in your doctor's office](https://spectrum.ieee.org/electronic-health-records)
 * [2025-08-03, 06:38:43](https://news.ycombinator.com/item?id=44774567) - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 * [2025-08-03, 04:34:36](https://news.ycombinator.com/item?id=44774104) - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 * [2025-08-02, 21:39:42](https://news.ycombinator.com/item?id=44771808) - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
