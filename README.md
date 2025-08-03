@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-03, 02:52:09](https://news.ycombinator.com/item?id=44773690) - [Parsing Without ASTs and Optimizing with Sea of Nodes [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
 * [2025-08-03, 00:29:22](https://news.ycombinator.com/item?id=44772997) - [Show HN: Voltpeek – Vim-inspired oscilloscope software](https://github.com/schuyler4/voltpeek)
 * [2025-08-03, 00:12:15](https://news.ycombinator.com/item?id=44772917) - [C++26 Reflections adventures and compile-time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
 * [2025-08-02, 22:37:01](https://news.ycombinator.com/item?id=44772249) - [The Crisis of Professional Skepticism](https://mitchhorowitz.substack.com/p/the-crisis-of-professional-skepticism)
@@ -21,14 +22,13 @@
 * [2025-07-31, 19:49:35](https://news.ycombinator.com/item?id=44749387) - [The Big Oops in type systems: This problem extends to FP as well](https://danieltan.weblog.lol/2025/07/the-big-oops-in-type-systems-this-problem-extends-to-fp-as-well)
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-07-31, 15:21:31](https://news.ycombinator.com/item?id=44746583) - [PixiEditor 2.0 – A FOSS universal 2D graphics editor](https://pixieditor.net/blog/2025/07/30/20-release/)
-* [2025-07-31, 14:49:07](https://news.ycombinator.com/item?id=44746270) - [Speed up suspend/resume for FreeBSD](https://eugene-andrienko.com/it/2025/07/28/speed-up-suspend-resume-freebsd.html)
 * [2025-07-31, 13:59:41](https://news.ycombinator.com/item?id=44745727) - [Ongoing Lean formalisation of the proof of Fermat's Last Theorem](https://github.com/ImperialCollegeLondon/FLT)
-* [2025-07-31, 08:00:19](https://news.ycombinator.com/item?id=44743432) - [Double-slit experiment holds up when stripped to its quantum essentials](https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728)
+* [2025-07-31, 04:43:26](https://news.ycombinator.com/item?id=44742373) - [Super-resolution of Sentinel-2 images (10M –> 5M)](https://github.com/Topping1/L1BSR-GUI)
 * [2025-07-31, 00:23:34](https://news.ycombinator.com/item?id=44741078) - [Remote hosting for your telescope](https://www.sierra-remote.com/)
+* [2025-07-30, 21:59:23](https://news.ycombinator.com/item?id=44739998) - [Neural networks that learn non-linearity without activation functions [pdf]](https://www.tahabouhsine.com/nmn/assets/deep_learning_two_point_o_point_one.pdf)
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
 * [2025-07-30, 14:56:46](https://news.ycombinator.com/item?id=44735059) - [LangExtract: Python library for extracting structured data from language models](https://github.com/google/langextract)
 * [2025-07-30, 14:09:40](https://news.ycombinator.com/item?id=44734450) - [Mezzano, an operating system written in Common Lisp](https://github.com/froggey/Mezzano)
-* [2025-07-30, 05:29:05](https://news.ycombinator.com/item?id=44731116) - [How I do support and community](https://pketh.org/support-community.html)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
 
 ## [Archives](archives/index.md)

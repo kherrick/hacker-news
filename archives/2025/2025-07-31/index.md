@@ -80,6 +80,7 @@
 * [2025-07-31, 06:45:02](https://news.ycombinator.com/item?id=44743034) - [Caches: LRU vs. Random](https://danluu.com/2choices-eviction/)
 * [2025-07-31, 05:54:04](https://news.ycombinator.com/item?id=44742710) - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
 * [2025-07-31, 05:08:56](https://news.ycombinator.com/item?id=44742513) - [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
+* [2025-07-31, 04:43:26](https://news.ycombinator.com/item?id=44742373) - [Super-resolution of Sentinel-2 images (10M –> 5M)](https://github.com/Topping1/L1BSR-GUI)
 * [2025-07-31, 04:40:31](https://news.ycombinator.com/item?id=44742359) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
 * [2025-07-31, 04:16:40](https://news.ycombinator.com/item?id=44742251) - [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 * [2025-07-31, 03:34:33](https://news.ycombinator.com/item?id=44742092) - ['Communities' of extreme life seen for first time in deep ocean](https://www.bbc.com/news/articles/c3wnqe5j99do)
