@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-03, 06:38:43](https://news.ycombinator.com/item?id=44774567) - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 * [2025-08-03, 04:34:36](https://news.ycombinator.com/item?id=44774104) - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 * [2025-08-03, 04:11:55](https://news.ycombinator.com/item?id=44774027) - [Seed7 – The Extensible Programming Language](https://seed7.net)
 * [2025-08-03, 03:43:42](https://news.ycombinator.com/item?id=44773919) - [Writing a basic service for GNU Guix](https://tannerhoelzel.com/gnu-shepherd-simple-service.html)
@@ -22,7 +23,6 @@
 * [2025-07-31, 13:59:41](https://news.ycombinator.com/item?id=44745727) - [Ongoing Lean formalisation of the proof of Fermat's Last Theorem](https://github.com/ImperialCollegeLondon/FLT)
 * [2025-07-31, 04:43:26](https://news.ycombinator.com/item?id=44742373) - [Super-resolution of Sentinel-2 images (10M –> 5M)](https://github.com/Topping1/L1BSR-GUI)
 * [2025-07-31, 00:23:34](https://news.ycombinator.com/item?id=44741078) - [Remote hosting for your telescope](https://www.sierra-remote.com/)
-* [2025-07-30, 21:59:23](https://news.ycombinator.com/item?id=44739998) - [Neural networks that learn non-linearity without activation functions [pdf]](https://www.tahabouhsine.com/nmn/assets/deep_learning_two_point_o_point_one.pdf)
 * [2025-07-30, 21:54:00](https://news.ycombinator.com/item?id=44739944) - [Micron rolls out 276-layer SSD trio for speed, scale, and stability](https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/)
 * [2025-07-30, 17:14:04](https://news.ycombinator.com/item?id=44736854) - [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)

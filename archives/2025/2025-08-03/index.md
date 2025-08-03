@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 06:38:43](https://news.ycombinator.com/item?id=44774567) - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 * [2025-08-03, 04:39:34](https://news.ycombinator.com/item?id=44774121) - [Useful AI coding guide with Claude Code](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)
 * [2025-08-03, 04:34:36](https://news.ycombinator.com/item?id=44774104) - [28th International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 * [2025-08-03, 04:11:55](https://news.ycombinator.com/item?id=44774027) - [Seed7 – The Extensible Programming Language](https://seed7.net)
