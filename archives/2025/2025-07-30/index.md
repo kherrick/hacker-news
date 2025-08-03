@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
 * [2025-07-30, 23:10:01](https://news.ycombinator.com/item?id=44740617) - [People still use our old-fashioned Unix login servers](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed)
+* [2025-07-30, 22:34:47](https://news.ycombinator.com/item?id=44740325) - [The Ski Rental Problem](https://lesves.github.io/articles/ski-rental/)
 * [2025-07-30, 22:24:58](https://news.ycombinator.com/item?id=44740222) - [Figma Announces IPO](https://www.figma.com/blog/ipo-pricing/)
 * [2025-07-30, 22:21:03](https://news.ycombinator.com/item?id=44740185) - [Pentagon Pizza Index](https://www.pizzint.watch/)
 * [2025-07-30, 22:04:08](https://news.ycombinator.com/item?id=44740034) - [TclSqueak – Program in Tcl the Smalltalk Way](http://www.xdobry.de/tclsqueak/)
