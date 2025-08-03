@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 18:04:49](https://news.ycombinator.com/item?id=44778408) - [We Paid Users $300K to Upload Their Camera Rolls, Homework, and Dashcam Footage](https://www.kled.ai/)
 * [2025-08-03, 17:17:14](https://news.ycombinator.com/item?id=44778088) - [Time Theft at the Terminal](https://marginalrevolution.com/marginalrevolution/2025/08/time-theft-at-the-terminal.html)
+* [2025-08-03, 17:17:05](https://news.ycombinator.com/item?id=44778087) - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
 * [2025-08-03, 17:00:32](https://news.ycombinator.com/item?id=44777965) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-08-03, 16:49:08](https://news.ycombinator.com/item?id=44777869) - [UN Report Finds UN Reports Are Not Widely Read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
 * [2025-08-03, 16:38:06](https://news.ycombinator.com/item?id=44777760) - [Anthropic: Persona Vectors](https://www.anthropic.com/research/persona-vectors)
@@ -19,6 +21,7 @@
 * [2025-08-03, 11:01:37](https://news.ycombinator.com/item?id=44775700) - [Tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
 * [2025-08-03, 10:43:13](https://news.ycombinator.com/item?id=44775596) - [Tesla loses Autopilot wrongful death case in $329M verdict](https://arstechnica.com/cars/2025/08/tesla-loses-autopilot-wrongful-death-case-in-329-million-verdict/)
 * [2025-08-03, 10:32:51](https://news.ycombinator.com/item?id=44775563) - [If You're Remote, Ramble](https://stephango.com/ramblings)
+* [2025-08-03, 10:07:44](https://news.ycombinator.com/item?id=44775485) - [EHRs – The Hidden Distraction in Your Doctor's Office](https://spectrum.ieee.org/electronic-health-records)
 * [2025-08-03, 09:14:39](https://news.ycombinator.com/item?id=44775255) - [Self-Employed, Self-Exhausted](https://theisolationjournals.substack.com/p/self-employed-self-exhausted)
 * [2025-08-03, 06:38:43](https://news.ycombinator.com/item?id=44774567) - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 * [2025-08-03, 04:39:34](https://news.ycombinator.com/item?id=44774121) - [Useful AI coding guide with Claude Code](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)
