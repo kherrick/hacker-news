@@ -9,6 +9,7 @@
 * [2025-08-03, 19:58:55](https://news.ycombinator.com/item?id=44779240) - [Critcl – C Runtime in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 19:49:34](https://news.ycombinator.com/item?id=44779178) - [Freshwater loss from land is the lead driver of sea-level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming)
 * [2025-08-03, 19:48:08](https://news.ycombinator.com/item?id=44779169) - [The Dollar Is Dead](https://mathmeetsmoney.substack.com/p/the-dollar-is-dead)
+* [2025-08-03, 19:28:25](https://news.ycombinator.com/item?id=44779017) - [Show HN: Spatial Web Browser Engine](https://m-creativelab.github.io/jsar-runtime/)
 * [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/)
 * [2025-08-03, 19:13:03](https://news.ycombinator.com/item?id=44778911) - [Caracas on the Potomac](https://paulkrugman.substack.com/p/caracas-on-the-potomac)
 * [2025-08-03, 18:53:28](https://news.ycombinator.com/item?id=44778764) - [ChatGPT Chats Were Indexed Then Removed from Search but Still Remain Online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
