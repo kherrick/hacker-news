@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 04:39:34](https://news.ycombinator.com/item?id=44774121) - [Useful AI coding guide with Claude Code](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)
+* [2025-08-03, 04:34:36](https://news.ycombinator.com/item?id=44774104) - [28th International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
+* [2025-08-03, 04:11:55](https://news.ycombinator.com/item?id=44774027) - [Seed7 – The Extensible Programming Language](https://seed7.net)
 * [2025-08-03, 03:43:42](https://news.ycombinator.com/item?id=44773919) - [Writing a basic service for GNU Guix](https://tannerhoelzel.com/gnu-shepherd-simple-service.html)
 * [2025-08-03, 02:52:09](https://news.ycombinator.com/item?id=44773690) - [Parsing Without ASTs and Optimizing with Sea of Nodes [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
 * [2025-08-03, 00:29:22](https://news.ycombinator.com/item?id=44772997) - [Show HN: Voltpeek – Vim-inspired oscilloscope software](https://github.com/schuyler4/voltpeek)
