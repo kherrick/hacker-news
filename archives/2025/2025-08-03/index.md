@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
 * [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/)
+* [2025-08-03, 19:13:03](https://news.ycombinator.com/item?id=44778911) - [Caracas on the Potomac](https://paulkrugman.substack.com/p/caracas-on-the-potomac)
 * [2025-08-03, 18:53:28](https://news.ycombinator.com/item?id=44778764) - [ChatGPT Chats Were Indexed Then Removed from Search but Still Remain Online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
 * [2025-08-03, 18:45:34](https://news.ycombinator.com/item?id=44778710) - [Ex-Barclays VP who completed a PhD in prison: \"All my former colleagues ignore\"](https://www.efinancialcareers.com/news/carlo-palombo)
 * [2025-08-03, 18:04:49](https://news.ycombinator.com/item?id=44778408) - [We Paid Users $300K to Upload Their Camera Rolls, Homework, and Dashcam Footage](https://www.kled.ai/)
