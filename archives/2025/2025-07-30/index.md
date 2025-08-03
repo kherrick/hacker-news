@@ -44,6 +44,7 @@
 * [2025-07-30, 15:17:17](https://news.ycombinator.com/item?id=44735359) - [Startup failed. Relationship ended. 29 lessons from the wreckage](https://burnedchris.com/blog/29-lessons)
 * [2025-07-30, 15:15:30](https://news.ycombinator.com/item?id=44735334) - [Words about Arrays and Tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
 * [2025-07-30, 14:58:04](https://news.ycombinator.com/item?id=44735081) - [Big Tech Killed the Golden Age of Programming](https://www.taylor.gl/blog/29)
+* [2025-07-30, 14:56:46](https://news.ycombinator.com/item?id=44735059) - [LangExtract: Python library for extracting structured data from language models](https://github.com/google/langextract)
 * [2025-07-30, 14:51:10](https://news.ycombinator.com/item?id=44734983) - [Show HN: A High-Altitude Low-Power Flight Computer for High-Altitude Balloons](https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK)
 * [2025-07-30, 14:44:13](https://news.ycombinator.com/item?id=44734891) - [Show HN: Sourcebot – Self-hosted Perplexity for your codebase](https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0)
 * [2025-07-30, 14:34:51](https://news.ycombinator.com/item?id=44734791) - [Show HN: Print the daily weather forecast on a thermal receipt printer](https://github.com/chr15m/print-weather)

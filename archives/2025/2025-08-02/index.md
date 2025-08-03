@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 22:37:01](https://news.ycombinator.com/item?id=44772249) - [The Crisis of Professional Skepticism](https://mitchhorowitz.substack.com/p/the-crisis-of-professional-skepticism)
 * [2025-08-02, 22:26:47](https://news.ycombinator.com/item?id=44772177) - [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
 * [2025-08-02, 21:39:42](https://news.ycombinator.com/item?id=44771808) - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
 * [2025-08-02, 20:39:38](https://news.ycombinator.com/item?id=44771235) - [The \"cracked coder\" fetish: Epistemic arrogance in Silicon Valley](https://maxread.substack.com/p/the-cracked-coder-fetish)

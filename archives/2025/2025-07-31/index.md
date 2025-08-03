@@ -46,6 +46,7 @@
 * [2025-07-31, 14:54:33](https://news.ycombinator.com/item?id=44746326) - [Do PE firms create value? How?](https://www.gain.pro/insight-reports/value-creation)
 * [2025-07-31, 14:54:27](https://news.ycombinator.com/item?id=44746321) - [Magentic-UI: Towards Human-in-the-Loop Agentic Systems](https://arxiv.org/abs/2507.22358)
 * [2025-07-31, 14:49:18](https://news.ycombinator.com/item?id=44746272) - [Italy Armed to the Teeth: My Top Nine Poliziotteschi](https://multiglom.com/2020/04/12/italy-armed-to-the-teeth-my-top-ten-poliziotteschi/)
+* [2025-07-31, 14:49:07](https://news.ycombinator.com/item?id=44746270) - [Speed up suspend/resume for FreeBSD](https://eugene-andrienko.com/it/2025/07/28/speed-up-suspend-resume-freebsd.html)
 * [2025-07-31, 14:23:40](https://news.ycombinator.com/item?id=44745984) - [Carbon Language: An experimental successor to C++](https://docs.carbon-lang.dev/)
 * [2025-07-31, 14:16:07](https://news.ycombinator.com/item?id=44745897) - [MacBook Pro Insomnia](https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia)
 * [2025-07-31, 14:11:29](https://news.ycombinator.com/item?id=44745843) - [Orion Browser by Kagi](https://kagi.com/orion/)
