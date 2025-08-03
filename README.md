@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-03, 13:24:58](https://news.ycombinator.com/item?id=44776434) - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
-* [2025-08-03, 12:27:54](https://news.ycombinator.com/item?id=44776086) - [Falcon-H1: A Family of Hybrid-Head Models Redefining Efficiency and Performance](https://arxiv.org/abs/2507.22448)
 * [2025-08-03, 11:28:29](https://news.ycombinator.com/item?id=44775830) - [How To Make (almost) Anything (2019)](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
 * [2025-08-03, 10:32:51](https://news.ycombinator.com/item?id=44775563) - [If you're remote, ramble](https://stephango.com/ramblings)
 * [2025-08-03, 06:38:43](https://news.ycombinator.com/item?id=44774567) - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
@@ -19,6 +18,7 @@
 * [2025-08-02, 10:52:36](https://news.ycombinator.com/item?id=44766508) - [We may not like what we become if A.I. solves loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-07-31, 15:21:31](https://news.ycombinator.com/item?id=44746583) - [PixiEditor 2.0 – A FOSS universal 2D graphics editor](https://pixieditor.net/blog/2025/07/30/20-release/)
+* [2025-07-31, 14:28:58](https://news.ycombinator.com/item?id=44746062) - [Show HN: Implementation of DDPM (Denoising Diffusion Probabilistic Models)](https://github.com/alenMangattu/DDPM-Denoising-Diffusion-Probabilistic-Models)
 * [2025-07-31, 13:59:41](https://news.ycombinator.com/item?id=44745727) - [Ongoing Lean formalisation of the proof of Fermat's Last Theorem](https://github.com/ImperialCollegeLondon/FLT)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [Imaging reveals intricate tattoos of 2,500-year-old Siberian ice mummy](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-30, 22:34:47](https://news.ycombinator.com/item?id=44740325) - [The Ski Rental Problem](https://lesves.github.io/articles/ski-rental/)
