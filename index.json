@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44774121"
     ],
     [
-      "Useful AI coding guide with Claude Code",
+      "How I use Claude Code to implement new features in an existing complex codebase",
       "https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44774104"
     ],
     [
-      "28th International Obfuscated C Code Contest",
+      "Twenty Eighth International Obfuscated C Code Contest",
       "https://www.ioccc.org/2024/index.html"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "The /o in Ruby regex stands for \"oh the humanity \"",
       "https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 14:09:12",
-      "https://news.ycombinator.com/item?id=44767775"
-    ],
-    [
-      "Show HN: WebGPU enables local LLM in the browser – demo site with AI chat",
-      "https://andreinwald.github.io/browser-llm/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Mezzano, an operating system written in Common Lisp",
       "https://github.com/froggey/Mezzano"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 09:47:20",
+      "https://news.ycombinator.com/item?id=44732429"
+    ],
+    [
+      "A Quantum Gravimeter for GPS Backup",
+      "https://spectrum.ieee.org/quantum-gravity-sensor"
     ]
   ],
   [
