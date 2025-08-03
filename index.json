@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-08-02, 14:09:12",
-      "https://news.ycombinator.com/item?id=44767775"
-    ],
-    [
-      "Show HN: WebGPU enables local LLM in the browser – demo site with AI chat",
-      "https://andreinwald.github.io/browser-llm/"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 13:43:10",
       "https://news.ycombinator.com/item?id=44767555"
     ],
@@ -137,6 +127,16 @@
     [
       "Anandtech.com now redirects to its forums",
       "https://forums.anandtech.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 12:37:01",
+      "https://news.ycombinator.com/item?id=44767097"
+    ],
+    [
+      "A Bytecode VM for Arithmetic: The Parser",
+      "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/"
     ]
   ],
   [
