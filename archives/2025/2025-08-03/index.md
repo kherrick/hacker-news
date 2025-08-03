@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 18:53:28](https://news.ycombinator.com/item?id=44778764) - [ChatGPT Chats Were Indexed Then Removed from Search but Still Remain Online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
+* [2025-08-03, 18:45:34](https://news.ycombinator.com/item?id=44778710) - [Ex-Barclays VP who completed a PhD in prison: \"All my former colleagues ignore\"](https://www.efinancialcareers.com/news/carlo-palombo)
 * [2025-08-03, 18:04:49](https://news.ycombinator.com/item?id=44778408) - [We Paid Users $300K to Upload Their Camera Rolls, Homework, and Dashcam Footage](https://www.kled.ai/)
 * [2025-08-03, 17:17:14](https://news.ycombinator.com/item?id=44778088) - [Time Theft at the Terminal](https://marginalrevolution.com/marginalrevolution/2025/08/time-theft-at-the-terminal.html)
 * [2025-08-03, 17:17:05](https://news.ycombinator.com/item?id=44778087) - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
@@ -12,6 +14,7 @@
 * [2025-08-03, 16:38:06](https://news.ycombinator.com/item?id=44777760) - [Anthropic: Persona Vectors](https://www.anthropic.com/research/persona-vectors)
 * [2025-08-03, 16:11:01](https://news.ycombinator.com/item?id=44777537) - [Palantir: The Most Evil Company](https://politicaleconomist.substack.com/p/palantir-the-worlds-most-evil-company)
 * [2025-08-03, 15:33:56](https://news.ycombinator.com/item?id=44777274) - [Time is running out for Tim Cook: Apple lacks strategic vision](https://unherd.com/2025/08/time-is-running-out-for-tim-cook/?lang=us)
+* [2025-08-03, 15:04:05](https://news.ycombinator.com/item?id=44777055) - [This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)](https://archive.irixnet.org/thisoldsgi/)
 * [2025-08-03, 13:49:00](https://news.ycombinator.com/item?id=44776574) - [One Third of the Web Will Stop Working in 4 Days](https://lowendbox.com/blog/one-third-of-the-web-will-stop-working-in-4-days-massive-scale-cdn-compromise-starts-wednesday/)
 * [2025-08-03, 13:24:58](https://news.ycombinator.com/item?id=44776434) - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
 * [2025-08-03, 13:06:15](https://news.ycombinator.com/item?id=44776314) - [$83B Wasted: Showing Up at the Airport 3 Hours Before Your Flight](https://viewfromthewing.com/83-billion-wasted-showing-up-at-the-airport-3-hours-before-your-flight-is-a-system-failure-no-ones-trying-to-fix/)
