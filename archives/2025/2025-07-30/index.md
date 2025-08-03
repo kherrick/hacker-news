@@ -32,6 +32,7 @@
 * [2025-07-30, 17:51:21](https://news.ycombinator.com/item?id=44737353) - [Most Illinois farmland is not owned by farmers](https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/)
 * [2025-07-30, 17:50:48](https://news.ycombinator.com/item?id=44737346) - [The Hype is the Product](https://rys.io/en/180.html)
 * [2025-07-30, 17:21:17](https://news.ycombinator.com/item?id=44736967) - [Fast](https://www.catherinejue.com/fast)
+* [2025-07-30, 17:14:04](https://news.ycombinator.com/item?id=44736854) - [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 * [2025-07-30, 17:01:10](https://news.ycombinator.com/item?id=44736673) - [Artie (YC S23) Is Hiring Founding AEs](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae)
 * [2025-07-30, 17:00:42](https://news.ycombinator.com/item?id=44736668) - [What's Not to Like?](https://theamericanscholar.org/whats-not-to-like/)
 * [2025-07-30, 16:59:09](https://news.ycombinator.com/item?id=44736646) - [Australia widens teen social media ban to YouTube, scraps exemption](https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/)
