@@ -35,6 +35,7 @@
 * [2025-07-31, 16:20:34](https://news.ycombinator.com/item?id=44747181) - [Restaurant Industry Report from Square](https://squareup.com/us/en/press/summer-restaurant-report-2025)
 * [2025-07-31, 16:11:29](https://news.ycombinator.com/item?id=44747091) - [Hundreds of agencies tap Atherton surveillance system for feds; Fails own rules](https://www.almanacnews.com/investigative-story/2025/07/30/hundreds-of-agencies-tap-athertons-surveillance-system-for-feds-town-fails-to-follow-own-rules/)
 * [2025-07-31, 16:03:16](https://news.ycombinator.com/item?id=44747004) - [How Not to Study a Disease (2023)](https://neurofrontiers.blog/book-review-how-not-to-study-a-disease/)
+* [2025-07-31, 16:03:01](https://news.ycombinator.com/item?id=44747000) - [A 3D Model of the Human Airways via a Digital Light Processing Bioprinter](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.29013)
 * [2025-07-31, 15:57:32](https://news.ycombinator.com/item?id=44746948) - [QUIC for the Kernel](https://lwn.net/Articles/1029851/)
 * [2025-07-31, 15:43:38](https://news.ycombinator.com/item?id=44746821) - [The Future of Programming (2013)](https://worrydream.com/dbx/)
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)

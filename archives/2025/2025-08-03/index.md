@@ -9,6 +9,7 @@
 * [2025-08-03, 18:53:28](https://news.ycombinator.com/item?id=44778764) - [ChatGPT Chats Were Indexed Then Removed from Search but Still Remain Online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
 * [2025-08-03, 18:45:34](https://news.ycombinator.com/item?id=44778710) - [Ex-Barclays VP who completed a PhD in prison: \"All my former colleagues ignore\"](https://www.efinancialcareers.com/news/carlo-palombo)
 * [2025-08-03, 18:04:49](https://news.ycombinator.com/item?id=44778408) - [We Paid Users $300K to Upload Their Camera Rolls, Homework, and Dashcam Footage](https://www.kled.ai/)
+* [2025-08-03, 18:00:16](https://news.ycombinator.com/item?id=44778366) - [The AI Mirage: July Jobs Report vs. Tech Hiring Truths](https://layoffnation.substack.com/p/the-ai-mirage-july-jobs-report-vs)
 * [2025-08-03, 17:17:14](https://news.ycombinator.com/item?id=44778088) - [Time Theft at the Terminal](https://marginalrevolution.com/marginalrevolution/2025/08/time-theft-at-the-terminal.html)
 * [2025-08-03, 17:17:05](https://news.ycombinator.com/item?id=44778087) - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
 * [2025-08-03, 17:00:32](https://news.ycombinator.com/item?id=44777965) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
