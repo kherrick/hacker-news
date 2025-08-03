@@ -22,6 +22,7 @@
 * [2025-07-31, 17:21:07](https://news.ycombinator.com/item?id=44747843) - [Secure boot certificate rollover is real but probably won't hurt you](https://mjg59.dreamwidth.org/72892.html)
 * [2025-07-31, 17:17:50](https://news.ycombinator.com/item?id=44747816) - [How Long Before Superintelligence?](https://nickbostrom.com/superintelligence)
 * [2025-07-31, 17:17:25](https://news.ycombinator.com/item?id=44747809) - [Introduction to XEphem (Motif)](http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html)
+* [2025-07-31, 17:15:25](https://news.ycombinator.com/item?id=44747786) - [Show HN: My Bytecode Optimizer Beats Copilot by 2X](https://deviantabstraction.com/2025/07/29/how-my-bytecode-optimizer-beats-copilot-by-2x/)
 * [2025-07-31, 17:10:21](https://news.ycombinator.com/item?id=44747728) - [How to Scan Force Pushed Commits for Secrets](https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets)
 * [2025-07-31, 17:08:10](https://news.ycombinator.com/item?id=44747699) - [Show HN: Astro dev blog template with 60 interactive colorschemes](https://multiterm.stelclementine.com)
 * [2025-07-31, 17:01:37](https://news.ycombinator.com/item?id=44747634) - [AI Is a Floor Raiser, Not a Ceiling Raiser](https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html)
