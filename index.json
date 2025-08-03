@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-03, 02:52:09",
+      "https://news.ycombinator.com/item?id=44773690"
+    ],
+    [
+      "Parsing Without ASTs and Optimizing with Sea of Nodes [video]",
+      "https://www.youtube.com/watch?v=NxiKlnUtyio"
+    ]
+  ],
+  [
+    [
       "2025-08-03, 00:29:22",
       "https://news.ycombinator.com/item?id=44772997"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-07-31, 14:49:07",
-      "https://news.ycombinator.com/item?id=44746270"
-    ],
-    [
-      "Speed up suspend/resume for FreeBSD",
-      "https://eugene-andrienko.com/it/2025/07/28/speed-up-suspend-resume-freebsd.html"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 13:59:41",
       "https://news.ycombinator.com/item?id=44745727"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2025-07-31, 08:00:19",
-      "https://news.ycombinator.com/item?id=44743432"
+      "2025-07-31, 04:43:26",
+      "https://news.ycombinator.com/item?id=44742373"
     ],
     [
-      "Double-slit experiment holds up when stripped to its quantum essentials",
-      "https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728"
+      "Super-resolution of Sentinel-2 images (10M –> 5M)",
+      "https://github.com/Topping1/L1BSR-GUI"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "Remote hosting for your telescope",
       "https://www.sierra-remote.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 21:59:23",
+      "https://news.ycombinator.com/item?id=44739998"
+    ],
+    [
+      "Neural networks that learn non-linearity without activation functions [pdf]",
+      "https://www.tahabouhsine.com/nmn/assets/deep_learning_two_point_o_point_one.pdf"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Mezzano, an operating system written in Common Lisp",
       "https://github.com/froggey/Mezzano"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 05:29:05",
-      "https://news.ycombinator.com/item?id=44731116"
-    ],
-    [
-      "How I do support and community",
-      "https://pketh.org/support-community.html"
     ]
   ],
   [
