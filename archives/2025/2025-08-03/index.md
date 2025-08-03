@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 21:23:27](https://news.ycombinator.com/item?id=44779949) - [Happy Bees Make Delicious Honey](https://shop.bouldervalleyhoney.com/pages/boulder-valley-honey-happy-bees-make-delicious-honey%e2%84%a2)
 * [2025-08-03, 20:21:54](https://news.ycombinator.com/item?id=44779428) - [Writing a Good Design Document](https://grantslatton.com/how-to-design-document)
 * [2025-08-03, 19:58:55](https://news.ycombinator.com/item?id=44779240) - [Critcl – C Runtime in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 19:49:34](https://news.ycombinator.com/item?id=44779178) - [Freshwater loss from land is the lead driver of sea-level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming)
