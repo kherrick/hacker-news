@@ -11,6 +11,7 @@
 * [2025-08-03, 18:53:28](https://news.ycombinator.com/item?id=44778764) - [ChatGPT Chats Were Indexed Then Removed from Search but Still Remain Online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
 * [2025-08-03, 18:47:50](https://news.ycombinator.com/item?id=44778730) - [The US Relies on 51 Forty-five-year-old ships to Transport its Military Overseas [video]](https://www.youtube.com/watch?v=tDHsfDCWWcE)
 * [2025-08-03, 18:45:34](https://news.ycombinator.com/item?id=44778710) - [Ex-Barclays VP who completed a PhD in prison: \"All my former colleagues ignore\"](https://www.efinancialcareers.com/news/carlo-palombo)
+* [2025-08-03, 18:23:04](https://news.ycombinator.com/item?id=44778534) - [How to Leave Substack](https://leavesubstack.com/)
 * [2025-08-03, 18:15:53](https://news.ycombinator.com/item?id=44778485) - [Show HN: Turn impulse buys into dream investments](https://www.nopeit.app)
 * [2025-08-03, 18:04:49](https://news.ycombinator.com/item?id=44778408) - [We Paid Users $300K to Upload Their Camera Rolls, Homework, and Dashcam Footage](https://www.kled.ai/)
 * [2025-08-03, 18:00:16](https://news.ycombinator.com/item?id=44778366) - [The AI Mirage: July Jobs Report vs. Tech Hiring Truths](https://layoffnation.substack.com/p/the-ai-mirage-july-jobs-report-vs)

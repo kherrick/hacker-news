@@ -48,6 +48,7 @@
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 * [2025-08-02, 09:12:28](https://news.ycombinator.com/item?id=44765939) - [EU kills Android bootloader unlock starting August 1](https://xiaomitime.com/eu-kills-android-bootloader-unlock-starting-august-1-59449/)
 * [2025-08-02, 07:52:40](https://news.ycombinator.com/item?id=44765600) - [Microsoft is open sourcing Windows 11's UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
+* [2025-08-02, 07:39:42](https://news.ycombinator.com/item?id=44765562) - [Collections: Life, Work, Death and the Peasant, Part IIIa: Family Formation](https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/)
 * [2025-08-02, 06:34:25](https://news.ycombinator.com/item?id=44765292) - [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
 * [2025-08-02, 06:28:31](https://news.ycombinator.com/item?id=44765264) - [Terence Tao weighs in on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
 * [2025-08-02, 06:03:23](https://news.ycombinator.com/item?id=44765193) - [At $250M, top AI salaries dwarf the Manhattan Project and the Space Race](https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/)
