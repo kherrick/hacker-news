@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 22:55:05](https://news.ycombinator.com/item?id=44780540) - [How to Grow Almost Anything](https://howtogrowalmostanything.notion.site/htgaa25)
+* [2025-08-03, 22:50:53](https://news.ycombinator.com/item?id=44780515) - [A study of lights at night suggests dictators lie about economic growth (2022)](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
+* [2025-08-03, 22:24:29](https://news.ycombinator.com/item?id=44780353) - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 * [2025-08-03, 22:11:58](https://news.ycombinator.com/item?id=44780286) - [Google has dropped more than 50 DEI-related orgs from one of its funding lists](https://www.cnbc.com/2025/08/01/google-dropped-50-dei-groups-from-funding-list-.html)
 * [2025-08-03, 21:45:48](https://news.ycombinator.com/item?id=44780106) - ['A black hole': New graduates discover a dismal job market](https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693)
 * [2025-08-03, 21:23:27](https://news.ycombinator.com/item?id=44779949) - [Happy Bees Make Delicious Honey](https://shop.bouldervalleyhoney.com/pages/boulder-valley-honey-happy-bees-make-delicious-honey%e2%84%a2)

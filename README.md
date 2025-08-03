@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-03, 22:11:58](https://news.ycombinator.com/item?id=44780286) - [Google has dropped more than 50 DEI-related orgs from one of its funding lists](https://www.cnbc.com/2025/08/01/google-dropped-50-dei-groups-from-funding-list-.html)
+* [2025-08-03, 22:55:05](https://news.ycombinator.com/item?id=44780540) - [How to Grow Almost Anything](https://howtogrowalmostanything.notion.site/htgaa25)
+* [2025-08-03, 22:50:53](https://news.ycombinator.com/item?id=44780515) - [A study of lights at night suggests dictators lie about economic growth (2022)](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
+* [2025-08-03, 22:24:29](https://news.ycombinator.com/item?id=44780353) - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 * [2025-08-03, 21:45:48](https://news.ycombinator.com/item?id=44780106) - ['A black hole': New graduates discover a dismal job market](https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693)
 * [2025-08-03, 21:09:02](https://news.ycombinator.com/item?id=44779839) - [\"If you can rack it, you can run UniFi OS\" Ubiquiti self-hosted UniFi OS release](https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/)
 * [2025-08-03, 20:21:54](https://news.ycombinator.com/item?id=44779428) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
@@ -24,11 +26,9 @@
 * [2025-08-02, 08:24:29](https://news.ycombinator.com/item?id=44765730) - [Welcome to url.town, population 465](https://url.town/)
 * [2025-08-02, 07:39:42](https://news.ycombinator.com/item?id=44765562) - [Life, Work, Death and the Peasant: Family Formation](https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/)
 * [2025-08-01, 20:56:28](https://news.ycombinator.com/item?id=44762397) - [Schematra: A Sinatra love letter in Scheme](https://github.com/rolandoam/schematra)
-* [2025-07-31, 17:15:25](https://news.ycombinator.com/item?id=44747786) - [My bytecode optimizer beats Copilot by 2x](https://deviantabstraction.com/2025/07/29/how-my-bytecode-optimizer-beats-copilot-by-2x/)
 * [2025-07-31, 16:03:01](https://news.ycombinator.com/item?id=44747000) - [A 3D model of the human airways via a digital light processing bioprinter](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.29013)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-30, 22:34:47](https://news.ycombinator.com/item?id=44740325) - [The Ski Rental Problem](https://lesves.github.io/articles/ski-rental/)
-* [2025-07-30, 19:02:19](https://news.ycombinator.com/item?id=44738228) - [The Subway Game (1980)](https://www.gricer.com/subway_game/subway_game.html)
 * [2025-07-30, 17:14:04](https://news.ycombinator.com/item?id=44736854) - [Build Your Own Minisforum N5 Inspired Mini NAS](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 
 ## [Archives](archives/index.md)
