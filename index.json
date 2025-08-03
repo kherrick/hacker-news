@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-08-03, 02:52:09",
-      "https://news.ycombinator.com/item?id=44773690"
+      "2025-08-03, 03:43:42",
+      "https://news.ycombinator.com/item?id=44773919"
     ],
     [
-      "Parsing Without ASTs and Optimizing with Sea of Nodes [video]",
-      "https://www.youtube.com/watch?v=NxiKlnUtyio"
+      "Writing a basic service for GNU Guix",
+      "https://tannerhoelzel.com/gnu-shepherd-simple-service.html"
     ]
   ],
   [
     [
-      "2025-08-03, 00:29:22",
-      "https://news.ycombinator.com/item?id=44772997"
+      "2025-08-03, 02:52:09",
+      "https://news.ycombinator.com/item?id=44773690"
     ],
     [
-      "Show HN: Voltpeek – Vim-inspired oscilloscope software",
-      "https://github.com/schuyler4/voltpeek"
+      "Parsing without ASTs and Optimizing with Sea of Nodes  [video]",
+      "https://www.youtube.com/watch?v=NxiKlnUtyio"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Browser extension and local backend that automatically archives YouTube videos",
       "https://github.com/andrewarrow/starchive"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 15:40:27",
-      "https://news.ycombinator.com/item?id=44768513"
-    ],
-    [
-      "Hiding secret codes in light protects against fake videos",
-      "https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Neural networks that learn non-linearity without activation functions [pdf]",
       "https://www.tahabouhsine.com/nmn/assets/deep_learning_two_point_o_point_one.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 21:54:00",
+      "https://news.ycombinator.com/item?id=44739944"
+    ],
+    [
+      "Micron rolls out 276-layer SSD trio for speed, scale, and stability",
+      "https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/"
     ]
   ],
   [
