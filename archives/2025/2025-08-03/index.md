@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 15:33:56](https://news.ycombinator.com/item?id=44777274) - [Time is running out for Tim Cook: Apple lacks strategic vision](https://unherd.com/2025/08/time-is-running-out-for-tim-cook/?lang=us)
 * [2025-08-03, 13:49:00](https://news.ycombinator.com/item?id=44776574) - [One Third of the Web Will Stop Working in 4 Days](https://lowendbox.com/blog/one-third-of-the-web-will-stop-working-in-4-days-massive-scale-cdn-compromise-starts-wednesday/)
 * [2025-08-03, 13:24:58](https://news.ycombinator.com/item?id=44776434) - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
 * [2025-08-03, 13:06:15](https://news.ycombinator.com/item?id=44776314) - [$83B Wasted: Showing Up at the Airport 3 Hours Before Your Flight](https://viewfromthewing.com/83-billion-wasted-showing-up-at-the-airport-3-hours-before-your-flight-is-a-system-failure-no-ones-trying-to-fix/)

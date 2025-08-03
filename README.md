@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-03, 15:33:56](https://news.ycombinator.com/item?id=44777274) - [Time is running out for Tim Cook: Apple lacks strategic vision](https://unherd.com/2025/08/time-is-running-out-for-tim-cook/?lang=us)
 * [2025-08-03, 13:24:58](https://news.ycombinator.com/item?id=44776434) - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
 * [2025-08-03, 11:28:29](https://news.ycombinator.com/item?id=44775830) - [How To Make (almost) Anything (2019)](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
 * [2025-08-03, 10:32:51](https://news.ycombinator.com/item?id=44775563) - [If you're remote, ramble](https://stephango.com/ramblings)
@@ -14,7 +15,6 @@
 * [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
 * [2025-08-02, 13:27:25](https://news.ycombinator.com/item?id=44767433) - [Anandtech.com now redirects to its forums](https://forums.anandtech.com/)
 * [2025-08-02, 12:12:27](https://news.ycombinator.com/item?id=44766962) - [At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
-* [2025-08-02, 11:34:39](https://news.ycombinator.com/item?id=44766758) - [A.I. researchers are negotiating $250M pay packages](https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html)
 * [2025-08-02, 10:52:36](https://news.ycombinator.com/item?id=44766508) - [We may not like what we become if A.I. solves loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-07-31, 15:21:31](https://news.ycombinator.com/item?id=44746583) - [PixiEditor 2.0 – A FOSS universal 2D graphics editor](https://pixieditor.net/blog/2025/07/30/20-release/)
