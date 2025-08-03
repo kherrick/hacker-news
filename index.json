@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-03, 10:32:51",
+      "https://news.ycombinator.com/item?id=44775563"
+    ],
+    [
+      "If You're Remote, Ramble",
+      "https://stephango.com/ramblings"
+    ]
+  ],
+  [
+    [
       "2025-08-03, 09:14:39",
       "https://news.ycombinator.com/item?id=44775255"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-08-02, 16:03:31",
-      "https://news.ycombinator.com/item?id=44768714"
-    ],
-    [
-      "Browser extension and local backend that automatically archives YouTube videos",
-      "https://github.com/andrewarrow/starchive"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 13:43:10",
       "https://news.ycombinator.com/item?id=44767555"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-07-31, 12:40:05",
+      "https://news.ycombinator.com/item?id=44745045"
+    ],
+    [
+      "Benchmarks in CI: Escaping the Cloud Chaos",
+      "https://codspeed.io/blog/benchmarks-in-ci-without-noise"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 00:23:34",
       "https://news.ycombinator.com/item?id=44741078"
     ],
@@ -277,16 +287,6 @@
     [
       "LangExtract: Python library for extracting structured data from language models",
       "https://github.com/google/langextract"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 14:09:40",
-      "https://news.ycombinator.com/item?id=44734450"
-    ],
-    [
-      "Mezzano, an operating system written in Common Lisp",
-      "https://github.com/froggey/Mezzano"
     ]
   ],
   [
