@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-08-03, 12:27:54",
-      "https://news.ycombinator.com/item?id=44776086"
-    ],
-    [
-      "Falcon-H1: A Family of Hybrid-Head Models Redefining Efficiency and Performance",
-      "https://arxiv.org/abs/2507.22448"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 11:28:29",
       "https://news.ycombinator.com/item?id=44775830"
     ],
@@ -187,6 +177,16 @@
     [
       "PixiEditor 2.0 – A FOSS universal 2D graphics editor",
       "https://pixieditor.net/blog/2025/07/30/20-release/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 14:28:58",
+      "https://news.ycombinator.com/item?id=44746062"
+    ],
+    [
+      "Show HN: Implementation of DDPM (Denoising Diffusion Probabilistic Models)",
+      "https://github.com/alenMangattu/DDPM-Denoising-Diffusion-Probabilistic-Models"
     ]
   ],
   [
