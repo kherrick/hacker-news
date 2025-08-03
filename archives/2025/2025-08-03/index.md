@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 12:07:53](https://news.ycombinator.com/item?id=44775987) - [Why you're going to see more swimming pools in strip malls](https://thehustle.co/originals/why-youre-going-to-see-a-lot-more-swimming-pools-in-strip-malls)
+* [2025-08-03, 11:28:29](https://news.ycombinator.com/item?id=44775830) - [How to Make Almost Anything Course at MIT (TA Perspective)](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
 * [2025-08-03, 11:01:37](https://news.ycombinator.com/item?id=44775700) - [Tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
 * [2025-08-03, 10:43:13](https://news.ycombinator.com/item?id=44775596) - [Tesla loses Autopilot wrongful death case in $329M verdict](https://arstechnica.com/cars/2025/08/tesla-loses-autopilot-wrongful-death-case-in-329-million-verdict/)
 * [2025-08-03, 10:32:51](https://news.ycombinator.com/item?id=44775563) - [If You're Remote, Ramble](https://stephango.com/ramblings)
