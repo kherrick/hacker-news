@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-03, 00:29:22",
+      "https://news.ycombinator.com/item?id=44772997"
+    ],
+    [
+      "Show HN: Voltpeek – Vim-inspired oscilloscope software",
+      "https://github.com/schuyler4/voltpeek"
+    ]
+  ],
+  [
+    [
+      "2025-08-03, 00:12:15",
+      "https://news.ycombinator.com/item?id=44772917"
+    ],
+    [
+      "C++26 Reflections adventures and compile-time UML",
+      "https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 22:37:01",
+      "https://news.ycombinator.com/item?id=44772249"
+    ],
+    [
+      "The Crisis of Professional Skepticism",
+      "https://mitchhorowitz.substack.com/p/the-crisis-of-professional-skepticism"
+    ]
+  ],
+  [
+    [
       "2025-08-02, 22:26:47",
       "https://news.ycombinator.com/item?id=44772177"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2025-08-02, 14:00:28",
-      "https://news.ycombinator.com/item?id=44767702"
-    ],
-    [
-      "Financial lessons from my family's experience with long-term care insurance",
-      "https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 13:43:10",
       "https://news.ycombinator.com/item?id=44767555"
     ],
@@ -117,16 +137,6 @@
     [
       "Show HN: NaturalCron – Human-Readable Scheduling for .NET (With Fluent Builder)",
       "https://github.com/hugoj0s3/NaturalCron"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 12:40:11",
-      "https://news.ycombinator.com/item?id=44767125"
-    ],
-    [
-      "ThinkPad designer David Hill on unreleased models",
-      "https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-07-31, 15:15:03",
-      "https://news.ycombinator.com/item?id=44746529"
+      "2025-07-31, 14:49:07",
+      "https://news.ycombinator.com/item?id=44746270"
     ],
     [
-      "I tried living on IPv6 for a day",
-      "https://www.xda-developers.com/the-internet-isnt-fully-ipv6-ready/"
+      "Speed up suspend/resume for FreeBSD",
+      "https://eugene-andrienko.com/it/2025/07/28/speed-up-suspend-resume-freebsd.html"
     ]
   ],
   [
@@ -215,18 +225,8 @@
       "https://news.ycombinator.com/item?id=44745727"
     ],
     [
-      "Fermat's Last Theorem in Lean – Imperial College London",
+      "Ongoing Lean formalisation of the proof of Fermat's Last Theorem",
       "https://github.com/ImperialCollegeLondon/FLT"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 13:35:14",
-      "https://news.ycombinator.com/item?id=44745490"
-    ],
-    [
-      "OpenAI's \"Study Mode\" and the risks of flattery",
-      "https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-07-30, 19:00:54",
-      "https://news.ycombinator.com/item?id=44738216"
-    ],
-    [
-      "A dive into open chat protocols",
-      "https://wiki.alopex.li/ADiveIntoOpenChat"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 16:08:02",
       "https://news.ycombinator.com/item?id=44736025"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2025-07-30, 10:06:58",
-      "https://news.ycombinator.com/item?id=44732508"
+      "2025-07-30, 14:56:46",
+      "https://news.ycombinator.com/item?id=44735059"
     ],
     [
-      "Australia’s gains in wheat-farm productivity",
-      "https://www.reuters.com/investigations/less-rain-more-wheat-how-australian-farmers-defied-climate-doom-2025-07-29/"
+      "LangExtract: Python library for extracting structured data from language models",
+      "https://github.com/google/langextract"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 14:09:40",
+      "https://news.ycombinator.com/item?id=44734450"
+    ],
+    [
+      "Mezzano, an operating system written in Common Lisp",
+      "https://github.com/froggey/Mezzano"
     ]
   ],
   [
