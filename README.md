@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-03, 20:21:54](https://news.ycombinator.com/item?id=44779428) - [Writing a Good Design Document](https://grantslatton.com/how-to-design-document)
+* [2025-08-03, 19:58:55](https://news.ycombinator.com/item?id=44779240) - [Critcl – C Runtime in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 19:49:34](https://news.ycombinator.com/item?id=44779178) - [Freshwater loss from land is the lead driver of sea-level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming)
 * [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
 * [2025-08-03, 18:53:28](https://news.ycombinator.com/item?id=44778764) - [ChatGPT chats were indexed then removed from search but still remain online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
 * [2025-08-03, 18:47:50](https://news.ycombinator.com/item?id=44778730) - [The US Relies on 51 Forty-five-year-old ships to Transport its Military Overseas [video]](https://www.youtube.com/watch?v=tDHsfDCWWcE)
-* [2025-08-03, 18:15:53](https://news.ycombinator.com/item?id=44778485) - [Show HN: Turn impulse buys into dream investments](https://www.nopeit.app)
 * [2025-08-03, 17:17:05](https://news.ycombinator.com/item?id=44778087) - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
 * [2025-08-03, 17:00:32](https://news.ycombinator.com/item?id=44777965) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-08-03, 16:49:08](https://news.ycombinator.com/item?id=44777869) - [UN report finds UN reports are not widely read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
