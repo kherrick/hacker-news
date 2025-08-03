@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-03, 22:11:58](https://news.ycombinator.com/item?id=44780286) - [Google has dropped more than 50 DEI-related orgs from one of its funding lists](https://www.cnbc.com/2025/08/01/google-dropped-50-dei-groups-from-funding-list-.html)
+* [2025-08-03, 21:45:48](https://news.ycombinator.com/item?id=44780106) - ['A black hole': New graduates discover a dismal job market](https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693)
+* [2025-08-03, 21:09:02](https://news.ycombinator.com/item?id=44779839) - [\"If you can rack it, you can run UniFi OS\" Ubiquiti self-hosted UniFi OS release](https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/)
 * [2025-08-03, 20:21:54](https://news.ycombinator.com/item?id=44779428) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
 * [2025-08-03, 19:58:55](https://news.ycombinator.com/item?id=44779240) - [Critcl – C Runtime in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 19:49:34](https://news.ycombinator.com/item?id=44779178) - [Freshwater loss from land is the lead driver of sea-level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming)
 * [2025-08-03, 19:28:25](https://news.ycombinator.com/item?id=44779017) - [Show HN: Spatial Web Browser Engine](https://m-creativelab.github.io/jsar-runtime/)
 * [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
-* [2025-08-03, 18:53:28](https://news.ycombinator.com/item?id=44778764) - [ChatGPT chats were indexed then removed from search but still remain online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
-* [2025-08-03, 18:47:50](https://news.ycombinator.com/item?id=44778730) - [The US Relies on 51 Forty-five-year-old ships to Transport its Military Overseas [video]](https://www.youtube.com/watch?v=tDHsfDCWWcE)
 * [2025-08-03, 17:17:05](https://news.ycombinator.com/item?id=44778087) - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
 * [2025-08-03, 17:00:32](https://news.ycombinator.com/item?id=44777965) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-08-03, 16:49:08](https://news.ycombinator.com/item?id=44777869) - [UN report finds UN reports are not widely read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
@@ -28,8 +29,7 @@
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-30, 22:34:47](https://news.ycombinator.com/item?id=44740325) - [The Ski Rental Problem](https://lesves.github.io/articles/ski-rental/)
-* [2025-07-30, 19:02:19](https://news.ycombinator.com/item?id=44738228) - [The Subway Game (1980)](https://www.gricer.com/subway_game/subway_game.html)
-* [2025-07-30, 18:20:03](https://news.ycombinator.com/item?id=44737738) - [Flourishing chemosynthetic life at the greatest depths of hadal trenches](https://www.nature.com/articles/s41586-025-09317-z)
+* [2025-07-30, 17:14:04](https://news.ycombinator.com/item?id=44736854) - [Build Your Own Minisforum N5 Inspired Mini NAS](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 
 ## [Archives](archives/index.md)
 
