@@ -58,6 +58,7 @@
 * [2025-07-31, 13:40:22](https://news.ycombinator.com/item?id=44745539) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
 * [2025-07-31, 13:35:14](https://news.ycombinator.com/item?id=44745490) - [OpenAI's \"Study Mode\" and the risks of flattery](https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks)
 * [2025-07-31, 13:32:40](https://news.ycombinator.com/item?id=44745465) - [Turbulence forces Delta plane to make emergency landing, 25 passengers injured](https://www.theguardian.com/world/2025/jul/31/severe-turbulence-delta-25-passengers-injured)
+* [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [Imaging reveals intricate tattoos of 2,500-year-old Siberian ice mummy](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-31, 13:22:22](https://news.ycombinator.com/item?id=44745383) - [GenosDB (GDB) – Decentralized P2P Graph Database](https://www.npmjs.com/package/genosdb)
 * [2025-07-31, 13:17:35](https://news.ycombinator.com/item?id=44745347) - [NSW Fair Trading – Dark Patterns](https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns)
 * [2025-07-31, 13:06:16](https://news.ycombinator.com/item?id=44745250) - [Nova: A New Web Framework for Erlang](https://news.ycombinator.com/item?id=44745250)
