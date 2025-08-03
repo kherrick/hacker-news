@@ -34,6 +34,7 @@
 * [2025-08-02, 13:27:25](https://news.ycombinator.com/item?id=44767433) - [Anandtech.com now redirects to its forums](https://forums.anandtech.com/)
 * [2025-08-02, 13:09:06](https://news.ycombinator.com/item?id=44767304) - [Show HN: NaturalCron – Human-Readable Scheduling for .NET (With Fluent Builder)](https://github.com/hugoj0s3/NaturalCron)
 * [2025-08-02, 12:40:11](https://news.ycombinator.com/item?id=44767125) - [ThinkPad designer David Hill spills secrets, designs that never made it](https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/)
+* [2025-08-02, 12:37:01](https://news.ycombinator.com/item?id=44767097) - [A Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/)
 * [2025-08-02, 12:20:59](https://news.ycombinator.com/item?id=44767003) - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-08-02, 12:12:27](https://news.ycombinator.com/item?id=44766962) - [At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [2025-08-02, 11:44:42](https://news.ycombinator.com/item?id=44766831) - [New research finds that ivermectin could help control malaria transmission](https://www.ndm.ox.ac.uk/news/new-research-supports-ivermectin-as-an-effective-strategy-to-control-malaria-transmission)
