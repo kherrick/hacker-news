@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-03, 04:39:34](https://news.ycombinator.com/item?id=44774121) - [Useful AI coding guide with Claude Code](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)
-* [2025-08-03, 04:34:36](https://news.ycombinator.com/item?id=44774104) - [28th International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
+* [2025-08-03, 04:39:34](https://news.ycombinator.com/item?id=44774121) - [How I use Claude Code to implement new features in an existing complex codebase](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)
+* [2025-08-03, 04:34:36](https://news.ycombinator.com/item?id=44774104) - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 * [2025-08-03, 04:11:55](https://news.ycombinator.com/item?id=44774027) - [Seed7 – The Extensible Programming Language](https://seed7.net)
 * [2025-08-03, 03:43:42](https://news.ycombinator.com/item?id=44773919) - [Writing a basic service for GNU Guix](https://tannerhoelzel.com/gnu-shepherd-simple-service.html)
 * [2025-08-03, 02:52:09](https://news.ycombinator.com/item?id=44773690) - [Parsing without ASTs and Optimizing with Sea of Nodes  [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
@@ -12,7 +12,6 @@
 * [2025-08-02, 16:40:51](https://news.ycombinator.com/item?id=44769039) - [Telo MT1](https://www.telotrucks.com/)
 * [2025-08-02, 16:03:31](https://news.ycombinator.com/item?id=44768714) - [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
 * [2025-08-02, 14:37:51](https://news.ycombinator.com/item?id=44767959) - [The /o in Ruby regex stands for \"oh the humanity \"](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
-* [2025-08-02, 14:09:12](https://news.ycombinator.com/item?id=44767775) - [Show HN: WebGPU enables local LLM in the browser – demo site with AI chat](https://andreinwald.github.io/browser-llm/)
 * [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
 * [2025-08-02, 13:27:25](https://news.ycombinator.com/item?id=44767433) - [Anandtech.com now redirects to its forums](https://forums.anandtech.com/)
 * [2025-08-02, 12:12:27](https://news.ycombinator.com/item?id=44766962) - [At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
@@ -29,6 +28,7 @@
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
 * [2025-07-30, 14:56:46](https://news.ycombinator.com/item?id=44735059) - [LangExtract: Python library for extracting structured data from language models](https://github.com/google/langextract)
 * [2025-07-30, 14:09:40](https://news.ycombinator.com/item?id=44734450) - [Mezzano, an operating system written in Common Lisp](https://github.com/froggey/Mezzano)
+* [2025-07-30, 09:47:20](https://news.ycombinator.com/item?id=44732429) - [A Quantum Gravimeter for GPS Backup](https://spectrum.ieee.org/quantum-gravity-sensor)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
 
 ## [Archives](archives/index.md)

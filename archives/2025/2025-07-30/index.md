@@ -82,6 +82,7 @@
 * [2025-07-30, 10:31:12](https://news.ycombinator.com/item?id=44732593) - [From XML to JSON to CBOR](https://cborbook.com/introduction/from_xml_to_json_to_cbor.html)
 * [2025-07-30, 10:06:58](https://news.ycombinator.com/item?id=44732508) - [Australia’s gains in wheat-farm productivity](https://www.reuters.com/investigations/less-rain-more-wheat-how-australian-farmers-defied-climate-doom-2025-07-29/)
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
+* [2025-07-30, 09:47:20](https://news.ycombinator.com/item?id=44732429) - [A Quantum Gravimeter for GPS Backup](https://spectrum.ieee.org/quantum-gravity-sensor)
 * [2025-07-30, 09:29:38](https://news.ycombinator.com/item?id=44732345) - [PanamaPlaylists – Leaked Tech CEOs Spotify Profiles](https://panamaplaylists.com/)
 * [2025-07-30, 08:37:09](https://news.ycombinator.com/item?id=44732031) - [Seriously, Why Do Some AI Chatbot Subscriptions Cost More Than $200?](https://www.wired.com/story/seriously-why-do-some-ai-chatbot-subscriptions-cost-more-than-200/)
 * [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
