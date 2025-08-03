@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 17:00:32](https://news.ycombinator.com/item?id=44777965) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+* [2025-08-03, 16:38:06](https://news.ycombinator.com/item?id=44777760) - [Anthropic: Persona Vectors](https://www.anthropic.com/research/persona-vectors)
 * [2025-08-03, 15:33:56](https://news.ycombinator.com/item?id=44777274) - [Time is running out for Tim Cook: Apple lacks strategic vision](https://unherd.com/2025/08/time-is-running-out-for-tim-cook/?lang=us)
 * [2025-08-03, 13:49:00](https://news.ycombinator.com/item?id=44776574) - [One Third of the Web Will Stop Working in 4 Days](https://lowendbox.com/blog/one-third-of-the-web-will-stop-working-in-4-days-massive-scale-cdn-compromise-starts-wednesday/)
 * [2025-08-03, 13:24:58](https://news.ycombinator.com/item?id=44776434) - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
