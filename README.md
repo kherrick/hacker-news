@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/)
 * [2025-08-03, 18:53:28](https://news.ycombinator.com/item?id=44778764) - [ChatGPT Chats Were Indexed Then Removed from Search but Still Remain Online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
 * [2025-08-03, 18:45:34](https://news.ycombinator.com/item?id=44778710) - [Ex-Barclays VP who completed a PhD in prison: \"All my former colleagues ignore\"](https://www.efinancialcareers.com/news/carlo-palombo)
 * [2025-08-03, 17:17:05](https://news.ycombinator.com/item?id=44778087) - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
@@ -26,7 +27,6 @@
 * [2025-07-30, 21:54:00](https://news.ycombinator.com/item?id=44739944) - [Micron rolls out 276-layer SSD trio for speed, scale, and stability](https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/)
 * [2025-07-30, 19:02:19](https://news.ycombinator.com/item?id=44738228) - [A game that can be played riding the New York Subway (1980)](https://www.gricer.com/subway_game/subway_game.html)
 * [2025-07-30, 18:20:03](https://news.ycombinator.com/item?id=44737738) - [Flourishing chemosynthetic life at the greatest depths of hadal trenches](https://www.nature.com/articles/s41586-025-09317-z)
-* [2025-07-30, 17:14:04](https://news.ycombinator.com/item?id=44736854) - [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
 * [2025-07-30, 14:56:46](https://news.ycombinator.com/item?id=44735059) - [LangExtract: Python library for extracting structured data from language models](https://github.com/google/langextract)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
