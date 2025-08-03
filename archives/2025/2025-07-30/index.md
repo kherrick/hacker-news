@@ -12,6 +12,7 @@
 * [2025-07-30, 21:55:53](https://news.ycombinator.com/item?id=44739965) - [The criminal enterprise run by monkeys](https://www.wsj.com/lifestyle/monkeys-thieves-bali-temple-0b63a432)
 * [2025-07-30, 21:54:00](https://news.ycombinator.com/item?id=44739944) - [Micron rolls out 276-layer SSD trio for speed, scale, and stability](https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/)
 * [2025-07-30, 21:52:10](https://news.ycombinator.com/item?id=44739927) - [Lyon Is Replacing Windows and Microsoft Office with Linux and OnlyOffice](https://www.zdnet.com/article/this-city-is-dumping-microsoft-office-and-windows-for-onlyoffice-and-linux-heres-why/)
+* [2025-07-30, 21:38:24](https://news.ycombinator.com/item?id=44739813) - [Flipping Bits in the World](https://opuslabs.substack.com/p/how-to-flip-bits-in-the-world)
 * [2025-07-30, 21:19:03](https://news.ycombinator.com/item?id=44739632) - [Ollama has a native front end chatbot now](https://ollama.com/blog/new-app)
 * [2025-07-30, 21:18:21](https://news.ycombinator.com/item?id=44739618) - [Early universe's 'little red dots' may be black hole stars – Science – AAAS](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
 * [2025-07-30, 21:13:20](https://news.ycombinator.com/item?id=44739556) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
