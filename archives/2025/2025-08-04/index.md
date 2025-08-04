@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 15:30:01](https://news.ycombinator.com/item?id=44787209) - [Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up](https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8)
+* [2025-08-04, 15:25:32](https://news.ycombinator.com/item?id=44787143) - [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
 * [2025-08-04, 15:12:20](https://news.ycombinator.com/item?id=44786962) - [Part 1: A Deep Dive into Rust and C Memory Interoperability](https://notashes.me/blog/part-1-memory-management/)
 * [2025-08-04, 14:44:06](https://news.ycombinator.com/item?id=44786516) - [Mozilla Firefox's extension store being flooded with malware](https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/)
 * [2025-08-04, 14:33:49](https://news.ycombinator.com/item?id=44786367) - [Objects should shut the fuck up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
