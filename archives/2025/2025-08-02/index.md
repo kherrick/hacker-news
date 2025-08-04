@@ -47,6 +47,7 @@
 * [2025-08-02, 10:16:15](https://news.ycombinator.com/item?id=44766313) - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 * [2025-08-02, 09:12:28](https://news.ycombinator.com/item?id=44765939) - [EU kills Android bootloader unlock starting August 1](https://xiaomitime.com/eu-kills-android-bootloader-unlock-starting-august-1-59449/)
+* [2025-08-02, 08:42:31](https://news.ycombinator.com/item?id=44765807) - [System-Wide Safety Project](https://www.nasa.gov/directorates/armd/aosp/sws/)
 * [2025-08-02, 08:24:29](https://news.ycombinator.com/item?id=44765730) - [Welcome to Url.town, Population 465](https://url.town/)
 * [2025-08-02, 07:52:40](https://news.ycombinator.com/item?id=44765600) - [Microsoft is open sourcing Windows 11's UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
 * [2025-08-02, 07:39:42](https://news.ycombinator.com/item?id=44765562) - [Collections: Life, Work, Death and the Peasant, Part IIIa: Family Formation](https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/)

@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 23:55:31](https://news.ycombinator.com/item?id=44780878) - [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
 * [2025-08-03, 23:25:54](https://news.ycombinator.com/item?id=44780706) - [Texas House Democrats flee state in bid to block GOP proposed congressional map](https://www.texastribune.org/2025/08/03/texas-democrats-quorum-break-redistricting-map/)
+* [2025-08-03, 22:57:22](https://news.ycombinator.com/item?id=44780552) - [Learnable Programming (2012)](https://worrydream.com/LearnableProgramming/)
+* [2025-08-03, 22:55:28](https://news.ycombinator.com/item?id=44780544) - [Names are not type safety (2020)](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
 * [2025-08-03, 22:55:05](https://news.ycombinator.com/item?id=44780540) - [How to Grow Almost Anything](https://howtogrowalmostanything.notion.site/htgaa25)
 * [2025-08-03, 22:50:53](https://news.ycombinator.com/item?id=44780515) - [A study of lights at night suggests dictators lie about economic growth (2022)](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
 * [2025-08-03, 22:24:29](https://news.ycombinator.com/item?id=44780353) - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
