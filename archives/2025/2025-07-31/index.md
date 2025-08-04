@@ -16,6 +16,7 @@
 * [2025-07-31, 19:54:42](https://news.ycombinator.com/item?id=44749438) - [Radiant Nuclear – Portable Power](https://radiantnuclear.com/)
 * [2025-07-31, 19:49:35](https://news.ycombinator.com/item?id=44749387) - [The Big Oops in type systems: This problem extends to FP as well](https://danieltan.weblog.lol/2025/07/the-big-oops-in-type-systems-this-problem-extends-to-fp-as-well)
 * [2025-07-31, 19:34:19](https://news.ycombinator.com/item?id=44749241) - [Show HN: SafeRate – AI chat-native mortgage lender](https://saferate.com/)
+* [2025-07-31, 19:31:39](https://news.ycombinator.com/item?id=44749211) - [What Can a Cell Remember?](https://www.quantamagazine.org/what-can-a-cell-remember-20250730/)
 * [2025-07-31, 19:00:58](https://news.ycombinator.com/item?id=44748934) - [Slow](https://michaelnotebook.com/slow/index.html)
 * [2025-07-31, 18:31:10](https://news.ycombinator.com/item?id=44748634) - [Astronomical Telescope \"Hadley\" – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
 * [2025-07-31, 17:53:54](https://news.ycombinator.com/item?id=44748226) - [Watching the World in a Dark Room: The Early Modern Camera Obscura](https://publicdomainreview.org/essay/the-early-modern-camera-obscura)
