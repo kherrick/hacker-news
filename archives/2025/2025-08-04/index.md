@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 08:30:22](https://news.ycombinator.com/item?id=44783266) - [Htmx is hard, so let's get it right (Part 1)](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
 * [2025-08-04, 08:04:20](https://news.ycombinator.com/item?id=44783155) - [Candidates say they'd rather risk staying unemployed than talk to another robot](https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/)
 * [2025-08-04, 04:11:17](https://news.ycombinator.com/item?id=44782046) - [Rising Young Worker Despair in the United States](https://www.nber.org/papers/w34071)
 * [2025-08-04, 02:12:58](https://news.ycombinator.com/item?id=44781523) - [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)

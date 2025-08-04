@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-04, 08:30:22](https://news.ycombinator.com/item?id=44783266) - [Htmx is hard, so let's get it right (Part 1)](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
 * [2025-08-04, 08:04:20](https://news.ycombinator.com/item?id=44783155) - [Candidates say they'd rather risk staying unemployed than talk to another robot](https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/)
-* [2025-08-04, 04:11:17](https://news.ycombinator.com/item?id=44782046) - [Rising Young Worker Despair in the United States](https://www.nber.org/papers/w34071)
 * [2025-08-04, 02:12:58](https://news.ycombinator.com/item?id=44781523) - [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)
 * [2025-08-04, 00:57:21](https://news.ycombinator.com/item?id=44781189) - [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
 * [2025-08-04, 00:41:28](https://news.ycombinator.com/item?id=44781116) - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
@@ -12,7 +12,6 @@
 * [2025-08-03, 21:09:02](https://news.ycombinator.com/item?id=44779839) - [Everything to know about UniFi OS Server](https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/)
 * [2025-08-03, 20:21:54](https://news.ycombinator.com/item?id=44779428) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
 * [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
-* [2025-08-03, 16:49:08](https://news.ycombinator.com/item?id=44777869) - [UN report finds UN reports are not widely read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
 * [2025-08-03, 16:38:53](https://news.ycombinator.com/item?id=44777766) - [How Python grew from a language to a community](https://thenewstack.io/how-python-grew-from-a-language-to-a-community/)
 * [2025-08-03, 16:38:06](https://news.ycombinator.com/item?id=44777760) - [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors)
 * [2025-08-03, 15:04:05](https://news.ycombinator.com/item?id=44777055) - [This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)](https://archive.irixnet.org/thisoldsgi/)
@@ -28,6 +27,7 @@
 * [2025-08-01, 20:56:28](https://news.ycombinator.com/item?id=44762397) - [Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme](https://github.com/rolandoam/schematra)
 * [2025-08-01, 18:29:40](https://news.ycombinator.com/item?id=44760583) - [Survival at High Altitudes: Wheel-Well Passengers (1996)](https://rosap.ntl.bts.gov/view/dot/57536)
 * [2025-08-01, 09:42:00](https://news.ycombinator.com/item?id=44754697) - [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
+* [2025-08-01, 07:54:32](https://news.ycombinator.com/item?id=44754092) - [I Configure BorgBackup and Borgmatic](https://www.justus.pw/garden/borgbackup.html)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-31, 08:36:36](https://news.ycombinator.com/item?id=44743631) - [C++: \"model of the hardware\" vs. \"model of the compiler\" (2018)](http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/)
 

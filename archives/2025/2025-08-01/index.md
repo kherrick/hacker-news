@@ -72,6 +72,7 @@
 * [2025-08-01, 09:08:59](https://news.ycombinator.com/item?id=44754523) - [Secuso – Our Farewell from Google Play](https://secuso.aifb.kit.edu/english/2809.php)
 * [2025-08-01, 09:04:16](https://news.ycombinator.com/item?id=44754492) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
 * [2025-08-01, 08:56:17](https://news.ycombinator.com/item?id=44754433) - [Palantir gets $10B contract from U.S. Army](https://www.washingtonpost.com/technology/2025/07/31/palantir-army-contract-10bn/)
+* [2025-08-01, 07:54:32](https://news.ycombinator.com/item?id=44754092) - [I Configure BorgBackup and Borgmatic](https://www.justus.pw/garden/borgbackup.html)
 * [2025-08-01, 05:31:20](https://news.ycombinator.com/item?id=44753298) - [Every Satellite Orbiting Earth and Who Owns Them](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
 * [2025-08-01, 02:45:52](https://news.ycombinator.com/item?id=44752546) - [LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others](https://artificialanalysis.ai/leaderboards/models)
 * [2025-08-01, 02:30:59](https://news.ycombinator.com/item?id=44752469) - [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
