@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-04, 22:18:58](https://news.ycombinator.com/item?id=44791969) - [An Investigation into the Firm at the Heart of the Democratic Spam Machine](https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation)
 * [2025-08-04, 21:34:29](https://news.ycombinator.com/item?id=44791622) - [What Does One Billion Dollars Look Like?](https://whatdoesonebilliondollarslooklike.website/)
 * [2025-08-04, 21:26:23](https://news.ycombinator.com/item?id=44791554) - [Is It FOSS?](https://isitreallyfoss.com/)
 * [2025-08-04, 20:44:58](https://news.ycombinator.com/item?id=44791143) - [AWS European Sovereign Cloud to be operated by EU citizens](https://www.aboutamazon.eu/news/aws/aws-european-sovereign-cloud-to-be-operated-by-eu-citizens)
@@ -26,6 +25,7 @@
 * [2025-08-02, 20:43:07](https://news.ycombinator.com/item?id=44771268) - [Show HN: Mathpad – Physical keypad for typing math symbols](https://www.crowdsupply.com/summa-cogni/mathpad)
 * [2025-08-02, 14:03:06](https://news.ycombinator.com/item?id=44767727) - [Indian Sign Painting: A typeface designer's take on the craft](https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/)
 * [2025-08-02, 10:59:38](https://news.ycombinator.com/item?id=44766551) - [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
+* [2025-08-02, 07:27:18](https://news.ycombinator.com/item?id=44765498) - [Meejah/shwim: Peer-to-peer terminal sharing](https://github.com/meejah/shwim)
 * [2025-08-01, 15:41:50](https://news.ycombinator.com/item?id=44758463) - [OpenIPC: Open IP Camera Firmware](https://openipc.org/à)
 * [2025-08-01, 12:33:20](https://news.ycombinator.com/item?id=44755827) - [How we built Bluey’s world](https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725)
 * [2025-08-01, 11:32:52](https://news.ycombinator.com/item?id=44755394) - [Cellular Starlink expands to support IoT devices](https://me.pcmag.com/en/networking/31452/spacexs-cellular-starlink-expands-to-support-iot-devices)
