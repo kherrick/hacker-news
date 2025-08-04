@@ -12,6 +12,7 @@
 * [2025-08-02, 20:21:38](https://news.ycombinator.com/item?id=44771060) - [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)
 * [2025-08-02, 19:01:58](https://news.ycombinator.com/item?id=44770372) - [Gigabyte removes PCIe 5.0 support from B650 motherboards in latest BIOS update](https://videocardz.com/newz/gigabyte-removes-unofficial-pcie-5-0-support-from-b650-motherboards-in-latest-bios-update)
 * [2025-08-02, 18:49:17](https://news.ycombinator.com/item?id=44770250) - [AWS deleted my 10-year account and all data without warning](https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/)
+* [2025-08-02, 17:32:25](https://news.ycombinator.com/item?id=44769547) - [What Happened When I Tried to Replace Myself with ChatGPT in My English Class](https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/)
 * [2025-08-02, 17:11:39](https://news.ycombinator.com/item?id=44769338) - [Show HN: Wordle-style game for Fermi questions](https://www.fermiquestions.org/)
 * [2025-08-02, 17:00:36](https://news.ycombinator.com/item?id=44769231) - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
 * [2025-08-02, 16:55:14](https://news.ycombinator.com/item?id=44769170) - [The unreasonable likelihood of being: origin of life, terraforming, and AI](https://arxiv.org/abs/2507.18545)
