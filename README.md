@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-04, 18:27:26](https://news.ycombinator.com/item?id=44789668) - [Circadian Justice](https://eprints.lse.ac.uk/112431/)
+* [2025-08-04, 17:50:05](https://news.ycombinator.com/item?id=44789192) - [Offline.kids – screen-free activities for kids](https://offline.kids/)
 * [2025-08-04, 17:18:41](https://news.ycombinator.com/item?id=44788783) - [I Asked Four Former Friends Why We Stopped Speaking-Here's What I Learned (2023)](https://www.vogue.com/article/reconnecting-with-ex-friends)
 * [2025-08-04, 16:27:40](https://news.ycombinator.com/item?id=44788065) - [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
 * [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
-* [2025-08-04, 16:07:15](https://news.ycombinator.com/item?id=44787780) - [Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash](https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/)
 * [2025-08-04, 15:41:30](https://news.ycombinator.com/item?id=44787374) - [Customizing tmux and making it less dreadful](https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/)
 * [2025-08-04, 15:30:01](https://news.ycombinator.com/item?id=44787209) - [Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up](https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8)
 * [2025-08-04, 15:25:32](https://news.ycombinator.com/item?id=44787143) - [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
@@ -28,7 +29,6 @@
 * [2025-08-01, 18:16:18](https://news.ycombinator.com/item?id=44760411) - [Facts will not Save You - AI, History and Soviet Sci-Fi](https://hegemon.substack.com/p/facts-will-not-save-you)
 * [2025-08-01, 15:41:50](https://news.ycombinator.com/item?id=44758463) - [Open IP Camera Firmware](https://openipc.org/à)
 * [2025-08-01, 12:33:20](https://news.ycombinator.com/item?id=44755827) - [How we built Bluey’s world](https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725)
-* [2025-08-01, 09:42:00](https://news.ycombinator.com/item?id=44754697) - [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
 * [2025-07-31, 14:56:24](https://news.ycombinator.com/item?id=44746347) - [Do LLMs identify fonts?](https://maxhalford.github.io/blog/llm-font-identification/)
 
 ## [Archives](archives/index.md)
