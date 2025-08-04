@@ -26,6 +26,7 @@
 * [2025-08-01, 18:48:42](https://news.ycombinator.com/item?id=44760821) - [If you Google 'bad UX', all the results appear in Comic Sans](https://www.google.com/search?q=bad+UX&sca_esv=3d1e29cf7e253e0e&sxsrf=AE3TifPI3Zlb9DuAvgLQfOsNJAeRxALXIQ%3A1754074055107&ei=xwuNaPmrBuyIkdUPoKuEuQQ&ved=0ahUKEwi5q9uHo-qOAxVsRKQEHaAVIUcQ4dUDCBA&uact=5&oq=bad+UX&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmJhZCBVWEgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQCYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp)
 * [2025-08-01, 18:48:42](https://news.ycombinator.com/item?id=44760821) - [Bad UX](https://www.google.com/search?q=bad+UX)
 * [2025-08-01, 18:38:38](https://news.ycombinator.com/item?id=44760697) - [Unemployment rising in remote-friendly occupations (2024)](https://jedkolko.com/2024/09/24/unemployment-rising-in-remote-friendly-occupations/)
+* [2025-08-01, 18:29:40](https://news.ycombinator.com/item?id=44760583) - [Survival at High Altitudes: Wheel-Well Passengers (1996)](https://rosap.ntl.bts.gov/view/dot/57536)
 * [2025-08-01, 18:28:53](https://news.ycombinator.com/item?id=44760573) - [Tesla must pay $329M in damages in fatal Autopilot case, jury says](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
 * [2025-08-01, 18:27:59](https://news.ycombinator.com/item?id=44760561) - [Self-Signed JWTs](https://www.selfref.com/self-signed-jwts)
 * [2025-08-01, 17:56:14](https://news.ycombinator.com/item?id=44760111) - [NSF suspends nearly 300 UCLA grants (Terence Tao, Plasma Science Facility, etc.)](https://grant-witness.us/nsf-data.html)
