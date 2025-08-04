@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-04, 22:18:58](https://news.ycombinator.com/item?id=44791969) - [An Investigation into the Firm at the Heart of the Democratic Spam Machine](https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation)
+* [2025-08-04, 21:34:29](https://news.ycombinator.com/item?id=44791622) - [What Does One Billion Dollars Look Like?](https://whatdoesonebilliondollarslooklike.website/)
 * [2025-08-04, 21:26:23](https://news.ycombinator.com/item?id=44791554) - [Is It FOSS?](https://isitreallyfoss.com/)
 * [2025-08-04, 20:44:58](https://news.ycombinator.com/item?id=44791143) - [AWS European Sovereign Cloud to be operated by EU citizens](https://www.aboutamazon.eu/news/aws/aws-european-sovereign-cloud-to-be-operated-by-eu-citizens)
 * [2025-08-04, 20:23:20](https://news.ycombinator.com/item?id=44790944) - [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)
@@ -12,7 +14,6 @@
 * [2025-08-04, 15:39:49](https://news.ycombinator.com/item?id=44787343) - [Show HN: Sidequest.js – Background jobs for Node.js using your database](https://docs.sidequestjs.com/quick-start)
 * [2025-08-04, 15:25:32](https://news.ycombinator.com/item?id=44787143) - [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
 * [2025-08-04, 15:12:20](https://news.ycombinator.com/item?id=44786962) - [A deep dive into Rust and C memory interoperability](https://notashes.me/blog/part-1-memory-management/)
-* [2025-08-04, 14:40:07](https://news.ycombinator.com/item?id=44786462) - [Lidar-based GIS map of New Hampshire stone walls](https://nhgranit.maps.arcgis.com/apps/webappviewer/index.html?id=25930044fe2b4d8fb5cab3ec07565e83)
 * [2025-08-04, 14:33:49](https://news.ycombinator.com/item?id=44786367) - [Objects should shut up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
 * [2025-08-04, 14:09:33](https://news.ycombinator.com/item?id=44786005) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
@@ -23,7 +24,6 @@
 * [2025-08-04, 12:10:22](https://news.ycombinator.com/item?id=44784743) - [DrawAFish.com Postmortem](https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html)
 * [2025-08-04, 08:04:20](https://news.ycombinator.com/item?id=44783155) - [Job-seekers are dodging AI interviewers](https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/)
 * [2025-08-02, 20:43:07](https://news.ycombinator.com/item?id=44771268) - [Show HN: Mathpad – Physical keypad for typing math symbols](https://www.crowdsupply.com/summa-cogni/mathpad)
-* [2025-08-02, 17:32:25](https://news.ycombinator.com/item?id=44769547) - [What Happened When I Tried to Replace Myself with ChatGPT in My English Class](https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/)
 * [2025-08-02, 14:03:06](https://news.ycombinator.com/item?id=44767727) - [Indian Sign Painting: A typeface designer's take on the craft](https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/)
 * [2025-08-02, 10:59:38](https://news.ycombinator.com/item?id=44766551) - [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
 * [2025-08-01, 15:41:50](https://news.ycombinator.com/item?id=44758463) - [OpenIPC: Open IP Camera Firmware](https://openipc.org/à)
