@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-08-04, 08:30:22",
+      "https://news.ycombinator.com/item?id=44783266"
+    ],
+    [
+      "Htmx is hard, so let's get it right (Part 1)",
+      "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 08:04:20",
       "https://news.ycombinator.com/item?id=44783155"
     ],
     [
       "Candidates say they'd rather risk staying unemployed than talk to another robot",
       "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 04:11:17",
-      "https://news.ycombinator.com/item?id=44782046"
-    ],
-    [
-      "Rising Young Worker Despair in the United States",
-      "https://www.nber.org/papers/w34071"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Modern Node.js Patterns",
       "https://kashw1n.com/blog/nodejs-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 16:49:08",
-      "https://news.ycombinator.com/item?id=44777869"
-    ],
-    [
-      "UN report finds UN reports are not widely read",
-      "https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "New quantum state of matter found at interface of exotic materials",
       "https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 07:54:32",
+      "https://news.ycombinator.com/item?id=44754092"
+    ],
+    [
+      "I Configure BorgBackup and Borgmatic",
+      "https://www.justus.pw/garden/borgbackup.html"
     ]
   ],
   [
