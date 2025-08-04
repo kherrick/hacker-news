@@ -13,7 +13,6 @@
 * [2025-08-03, 20:21:54](https://news.ycombinator.com/item?id=44779428) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
 * [2025-08-03, 19:49:34](https://news.ycombinator.com/item?id=44779178) - [Shrinking freshwater availability increasing land contribution to sea level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming)
 * [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
-* [2025-08-03, 17:00:32](https://news.ycombinator.com/item?id=44777965) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-08-03, 16:49:08](https://news.ycombinator.com/item?id=44777869) - [UN report finds UN reports are not widely read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
 * [2025-08-03, 16:38:53](https://news.ycombinator.com/item?id=44777766) - [How Python grew from a language to a community](https://thenewstack.io/how-python-grew-from-a-language-to-a-community/)
 * [2025-08-03, 16:38:06](https://news.ycombinator.com/item?id=44777760) - [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors)
@@ -30,6 +29,7 @@
 * [2025-08-01, 20:56:28](https://news.ycombinator.com/item?id=44762397) - [Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme](https://github.com/rolandoam/schematra)
 * [2025-08-01, 09:42:00](https://news.ycombinator.com/item?id=44754697) - [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals](https://www.bbc.com/news/articles/c4gzx0zm68vo)
+* [2025-07-31, 08:36:36](https://news.ycombinator.com/item?id=44743631) - [C++: \"model of the hardware\" vs. \"model of the compiler\" (2018)](http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/)
 
 ## [Archives](archives/index.md)
 

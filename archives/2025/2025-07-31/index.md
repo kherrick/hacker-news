@@ -81,6 +81,7 @@
 * [2025-07-31, 10:10:52](https://news.ycombinator.com/item?id=44744121) - [Why leather is best motorbike protection – whilst being dragged along concrete](https://www.youtube.com/watch?v=xwuRUcAGIEU)
 * [2025-07-31, 10:07:19](https://news.ycombinator.com/item?id=44744096) - [GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban](https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/)
 * [2025-07-31, 10:03:54](https://news.ycombinator.com/item?id=44744079) - [How to trigger a command on Linux when disconnected from power](https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html)
+* [2025-07-31, 08:36:36](https://news.ycombinator.com/item?id=44743631) - [C++: \"model of the hardware\" vs. \"model of the compiler\" (2018)](http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/)
 * [2025-07-31, 08:00:19](https://news.ycombinator.com/item?id=44743432) - [Double-slit experiment holds up when stripped to its quantum essentials](https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728)
 * [2025-07-31, 06:45:02](https://news.ycombinator.com/item?id=44743034) - [Caches: LRU vs. Random](https://danluu.com/2choices-eviction/)
 * [2025-07-31, 05:54:04](https://news.ycombinator.com/item?id=44742710) - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
