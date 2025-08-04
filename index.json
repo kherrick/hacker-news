@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-08-04, 10:10:54",
+      "https://news.ycombinator.com/item?id=44783862"
+    ],
+    [
+      "ThinkBook Plus Gen 6 – Lenovo’s rollable laptop",
+      "https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 09:49:42",
+      "https://news.ycombinator.com/item?id=44783729"
+    ],
+    [
+      "Lightning on Earth is sparked by a powerful chain reaction from outer space",
+      "https://www.livescience.com/physics-mathematics/lightning-on-earth-is-sparked-by-a-powerful-chain-reaction-from-outer-space-simulations-show"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 09:27:49",
+      "https://news.ycombinator.com/item?id=44783566"
+    ],
+    [
+      "Mastercard deflects blame for NSFW games being taken down",
+      "https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 08:30:22",
       "https://news.ycombinator.com/item?id=44783266"
     ],
     [
-      "Htmx is hard, so let's get it right (Part 1)",
+      "HTMX is hard, so let's get it right",
       "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md"
     ]
   ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44783155"
     ],
     [
-      "Candidates say they'd rather risk staying unemployed than talk to another robot",
+      "Job-seekers are dodging AI interviewers",
       "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/"
     ]
   ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-08-03, 16:38:53",
-      "https://news.ycombinator.com/item?id=44777766"
-    ],
-    [
-      "How Python grew from a language to a community",
-      "https://thenewstack.io/how-python-grew-from-a-language-to-a-community/"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 16:38:06",
       "https://news.ycombinator.com/item?id=44777760"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-08-02, 21:39:42",
-      "https://news.ycombinator.com/item?id=44771808"
-    ],
-    [
-      "Lina Khan points to Figma IPO as vindication of M&A scrutiny",
-      "https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 13:38:14",
       "https://news.ycombinator.com/item?id=44767508"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-08-01, 20:56:28",
-      "https://news.ycombinator.com/item?id=44762397"
-    ],
-    [
-      "Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme",
-      "https://github.com/rolandoam/schematra"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 18:29:40",
       "https://news.ycombinator.com/item?id=44760583"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44754092"
     ],
     [
-      "I Configure BorgBackup and Borgmatic",
+      "How I configure BorgBackup and borgmatic (2023)",
       "https://www.justus.pw/garden/borgbackup.html"
     ]
   ],
