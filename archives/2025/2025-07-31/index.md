@@ -9,6 +9,7 @@
 * [2025-07-31, 22:19:54](https://news.ycombinator.com/item?id=44750817) - [Age verification doesn't need to be a privacy footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
 * [2025-07-31, 21:47:27](https://news.ycombinator.com/item?id=44750563) - [\"No Tax on Tips\" Is an Industry Plant](https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant)
 * [2025-07-31, 21:41:55](https://news.ycombinator.com/item?id=44750516) - [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython)
+* [2025-07-31, 21:35:19](https://news.ycombinator.com/item?id=44750462) - [Nonogram: Complexity of Inference and Phase Transition Behavior](https://arxiv.org/abs/2507.07283)
 * [2025-07-31, 21:28:07](https://news.ycombinator.com/item?id=44750416) - [The Anti-Abundance Critique on Housing Is Dead Wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
 * [2025-07-31, 21:04:23](https://news.ycombinator.com/item?id=44750121) - [A Hitchhiker's Guide to the AI Bubble](https://fluxus.io/article/a-hitchhikers-guide-to-the-ai-bubble)
 * [2025-07-31, 20:29:55](https://news.ycombinator.com/item?id=44749772) - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
