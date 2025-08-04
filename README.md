@@ -26,10 +26,10 @@
 * [2025-08-02, 07:39:42](https://news.ycombinator.com/item?id=44765562) - [Life, Work, Death and the Peasant: Family Formation](https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/)
 * [2025-08-02, 03:31:50](https://news.ycombinator.com/item?id=44764696) - [A dedicated skin-to-brain circuit for cool sensation in mice](https://www.sciencedaily.com/releases/2025/07/250730030354.htm)
 * [2025-08-01, 20:56:28](https://news.ycombinator.com/item?id=44762397) - [Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme](https://github.com/rolandoam/schematra)
+* [2025-08-01, 09:59:49](https://news.ycombinator.com/item?id=44754789) - [The First Lunar Road Trip](https://nautil.us/the-first-lunar-road-trip-1227738/)
 * [2025-08-01, 09:42:00](https://news.ycombinator.com/item?id=44754697) - [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-31, 08:36:36](https://news.ycombinator.com/item?id=44743631) - [C++: \"model of the hardware\" vs. \"model of the compiler\" (2018)](http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/)
-* [2025-07-30, 22:34:47](https://news.ycombinator.com/item?id=44740325) - [The Ski Rental Problem](https://lesves.github.io/articles/ski-rental/)
 
 ## [Archives](archives/index.md)
 
