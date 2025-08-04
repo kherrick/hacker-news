@@ -41,6 +41,7 @@
 * [2025-08-01, 16:20:07](https://news.ycombinator.com/item?id=44758957) - [Free Security Audits for Erlang and Elixir open source projects](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
 * [2025-08-01, 16:10:33](https://news.ycombinator.com/item?id=44758842) - [Rollercoaster Tycoon (Or, MicroProse's Last Hurrah)](https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/)
 * [2025-08-01, 15:44:27](https://news.ycombinator.com/item?id=44758511) - [OpenAI Leaks 120B Open Model on Hugging Face](https://twitter.com/main_horse/status/1951201925778776530)
+* [2025-08-01, 15:41:50](https://news.ycombinator.com/item?id=44758463) - [Open IP Camera Firmware](https://openipc.org/à)
 * [2025-08-01, 15:41:08](https://news.ycombinator.com/item?id=44758453) - [Rate, Price Drops Won't Substantially Improve Affordability](https://www.zillow.com/research/rate-drops-35389/)
 * [2025-08-01, 15:32:37](https://news.ycombinator.com/item?id=44758339) - [FBI seized $40k from Linda Martin without charging her with a crime](https://reason.com/2025/07/28/the-fbi-took-her-40000-without-explaining-why-she-fought-back-and-lost/)
 * [2025-08-01, 15:28:53](https://news.ycombinator.com/item?id=44758281) - [Show HN: Pontoon – open-source customer data syncs](https://github.com/pontoon-data/Pontoon)
