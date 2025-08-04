@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
+* [2025-08-04, 16:11:36](https://news.ycombinator.com/item?id=44787831) - [Microsoft tops $4T in valuation: Great news for MSFT, not so great for workers](https://www.computerworld.com/article/4032921/microsoft-tops-4t-in-valuation-great-news-for-the-company-not-so-great-for-its-workers.html)
+* [2025-08-04, 16:07:15](https://news.ycombinator.com/item?id=44787780) - [Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash](https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/)
 * [2025-08-04, 15:30:01](https://news.ycombinator.com/item?id=44787209) - [Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up](https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8)
 * [2025-08-04, 15:25:32](https://news.ycombinator.com/item?id=44787143) - [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
 * [2025-08-04, 15:12:20](https://news.ycombinator.com/item?id=44786962) - [Part 1: A Deep Dive into Rust and C Memory Interoperability](https://notashes.me/blog/part-1-memory-management/)
+* [2025-08-04, 15:01:52](https://news.ycombinator.com/item?id=44786790) - [AI promised efficiency. Instead, it's making us work harder](https://afterburnout.co/p/ai-promised-to-make-us-more-efficient)
 * [2025-08-04, 14:44:06](https://news.ycombinator.com/item?id=44786516) - [Mozilla Firefox's extension store being flooded with malware](https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/)
+* [2025-08-04, 14:40:07](https://news.ycombinator.com/item?id=44786462) - [Lidar-based GIS map of New Hampshire stone walls](https://nhgranit.maps.arcgis.com/apps/webappviewer/index.html?id=25930044fe2b4d8fb5cab3ec07565e83)
 * [2025-08-04, 14:33:49](https://news.ycombinator.com/item?id=44786367) - [Objects should shut the fuck up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
 * [2025-08-04, 13:49:00](https://news.ycombinator.com/item?id=44785759) - [The Toyota Corolla of programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
@@ -20,6 +25,7 @@
 * [2025-08-04, 12:48:19](https://news.ycombinator.com/item?id=44785080) - [Is the Interstellar Object 3I/Atlas Alien Technology? [pdf]](https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf)
 * [2025-08-04, 12:41:13](https://news.ycombinator.com/item?id=44785016) - [Genetic correlates of social stratification in Great Britain [pdf]](https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf)
 * [2025-08-04, 12:19:51](https://news.ycombinator.com/item?id=44784809) - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
+* [2025-08-04, 12:10:22](https://news.ycombinator.com/item?id=44784743) - [Drawafish.com Postmortem: Whoops](https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html)
 * [2025-08-04, 11:50:46](https://news.ycombinator.com/item?id=44784565) - [The US military’s on-base slot machines](https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/)
 * [2025-08-04, 11:44:49](https://news.ycombinator.com/item?id=44784498) - [Palantir Is Extending Its Reach Even Further into Government](https://www.wired.com/story/palantir-government-contracting-push/)
 * [2025-08-04, 11:22:25](https://news.ycombinator.com/item?id=44784312) - [KDE Plasma prepares crackdown on focus-stealing window behavior under Wayland](https://www.neowin.net/news/kde-plasma-prepares-crackdown-on-focus-stealing-window-behavior-under-wayland/)
