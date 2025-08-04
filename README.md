@@ -24,7 +24,7 @@
 * [2025-08-03, 22:24:29](https://news.ycombinator.com/item?id=44780353) - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 * [2025-08-03, 20:21:54](https://news.ycombinator.com/item?id=44779428) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
 * [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
-* [2025-08-03, 16:38:06](https://news.ycombinator.com/item?id=44777760) - [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors)
+* [2025-08-02, 19:01:58](https://news.ycombinator.com/item?id=44770372) - [Gigabyte removes PCIe 5.0 support from B650 motherboards in latest BIOS update](https://videocardz.com/newz/gigabyte-removes-unofficial-pcie-5-0-support-from-b650-motherboards-in-latest-bios-update)
 * [2025-08-01, 18:16:18](https://news.ycombinator.com/item?id=44760411) - [Facts will not Save You - AI, History and Soviet Sci-Fi](https://hegemon.substack.com/p/facts-will-not-save-you)
 * [2025-08-01, 15:41:50](https://news.ycombinator.com/item?id=44758463) - [Open IP Camera Firmware](https://openipc.org/à)
 * [2025-08-01, 12:33:20](https://news.ycombinator.com/item?id=44755827) - [How we built Bluey’s world](https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725)
