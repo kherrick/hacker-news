@@ -65,6 +65,7 @@
 * [2025-08-01, 11:10:38](https://news.ycombinator.com/item?id=44755279) - [Try Deep Think in the Gemini App](https://blog.google/products/gemini/gemini-2-5-deep-think/)
 * [2025-08-01, 10:45:59](https://news.ycombinator.com/item?id=44755110) - [Onshape – Product Development Platform](https://www.onshape.com/en/)
 * [2025-08-01, 09:46:08](https://news.ycombinator.com/item?id=44754717) - [Pride Versioning 0.3.0](https://pridever.org/)
+* [2025-08-01, 09:42:00](https://news.ycombinator.com/item?id=44754697) - [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
 * [2025-08-01, 09:27:46](https://news.ycombinator.com/item?id=44754631) - [Vibe Coding Is the Fast Fashion Industry of Software Engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html)
 * [2025-08-01, 09:08:59](https://news.ycombinator.com/item?id=44754523) - [Secuso – Our Farewell from Google Play](https://secuso.aifb.kit.edu/english/2809.php)
 * [2025-08-01, 09:04:16](https://news.ycombinator.com/item?id=44754492) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
