@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-04, 02:12:58](https://news.ycombinator.com/item?id=44781523) - [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)
 * [2025-08-04, 00:57:21](https://news.ycombinator.com/item?id=44781189) - [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
 * [2025-08-04, 00:41:28](https://news.ycombinator.com/item?id=44781116) - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [2025-08-03, 23:55:31](https://news.ycombinator.com/item?id=44780878) - [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
@@ -26,10 +27,9 @@
 * [2025-08-02, 08:42:31](https://news.ycombinator.com/item?id=44765807) - [System-Wide Safety Project](https://www.nasa.gov/directorates/armd/aosp/sws/)
 * [2025-08-02, 08:24:29](https://news.ycombinator.com/item?id=44765730) - [Welcome to url.town, population 465](https://url.town/)
 * [2025-08-02, 07:39:42](https://news.ycombinator.com/item?id=44765562) - [Life, Work, Death and the Peasant: Family Formation](https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/)
+* [2025-08-02, 01:43:14](https://news.ycombinator.com/item?id=44764261) - [Cube: Packing a 5x5x5 cube with Y-pentominoes](https://kociemba.org/themen/125puzzle/index.html)
 * [2025-08-01, 20:56:28](https://news.ycombinator.com/item?id=44762397) - [Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme](https://github.com/rolandoam/schematra)
-* [2025-08-01, 20:45:59](https://news.ycombinator.com/item?id=44762299) - [CloudGazing](https://cloudgazing.online/)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals](https://www.bbc.com/news/articles/c4gzx0zm68vo)
-* [2025-07-30, 22:34:47](https://news.ycombinator.com/item?id=44740325) - [The Ski Rental Problem](https://lesves.github.io/articles/ski-rental/)
 
 ## [Archives](archives/index.md)
 
