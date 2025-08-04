@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-04, 00:57:21",
+      "https://news.ycombinator.com/item?id=44781189"
+    ],
+    [
+      "Poorest US workers hit hardest by slowing wage growth",
+      "https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 00:41:28",
+      "https://news.ycombinator.com/item?id=44781116"
+    ],
+    [
+      "Why doctors hate their computers (2018)",
+      "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
+    ]
+  ],
+  [
+    [
       "2025-08-03, 23:55:31",
       "https://news.ycombinator.com/item?id=44780878"
     ],
@@ -47,6 +67,16 @@
     [
       "A study of lights at night suggests dictators lie about economic growth (2022)",
       "https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth"
+    ]
+  ],
+  [
+    [
+      "2025-08-03, 22:27:57",
+      "https://news.ycombinator.com/item?id=44780377"
+    ],
+    [
+      "Human speech may have a universal transmission rate (2019)",
+      "https://www.science.org/content/article/human-speech-may-have-universal-transmission-rate-39-bits-second"
     ]
   ],
   [
@@ -121,6 +151,16 @@
   ],
   [
     [
+      "2025-08-03, 16:38:53",
+      "https://news.ycombinator.com/item?id=44777766"
+    ],
+    [
+      "How Python grew from a language to a community",
+      "https://thenewstack.io/how-python-grew-from-a-language-to-a-community/"
+    ]
+  ],
+  [
+    [
       "2025-08-03, 16:38:06",
       "https://news.ycombinator.com/item?id=44777760"
     ],
@@ -137,16 +177,6 @@
     [
       "This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)",
       "https://archive.irixnet.org/thisoldsgi/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 13:24:58",
-      "https://news.ycombinator.com/item?id=44776434"
-    ],
-    [
-      "The Fulbright Program: Chock Full of Bright Ideas",
-      "https://bastian.rieck.me/blog/2025/fulbright/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-08-03, 06:38:43",
-      "https://news.ycombinator.com/item?id=44774567"
-    ],
-    [
-      "A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop",
-      "http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 04:34:36",
       "https://news.ycombinator.com/item?id=44774104"
     ],
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2025-08-02, 21:39:42",
-      "https://news.ycombinator.com/item?id=44771808"
+      "2025-08-02, 13:38:14",
+      "https://news.ycombinator.com/item?id=44767508"
     ],
     [
-      "Lina Khan points to Figma IPO as vindication of M&A scrutiny",
-      "https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/"
+      "Efficiently Generating a Number in a Range (2018)",
+      "https://www.pcg-random.org/posts/bounded-rands.html"
     ]
   ],
   [
@@ -245,7 +265,7 @@
       "https://news.ycombinator.com/item?id=44762397"
     ],
     [
-      "Schematra: A Sinatra love letter in Scheme",
+      "Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme",
       "https://github.com/rolandoam/schematra"
     ]
   ],
@@ -255,18 +275,8 @@
       "https://news.ycombinator.com/item?id=44762299"
     ],
     [
-      "Cloud Drawing Gallery",
+      "CloudGazing",
       "https://cloudgazing.online/"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 16:03:01",
-      "https://news.ycombinator.com/item?id=44747000"
-    ],
-    [
-      "A 3D model of the human airways via a digital light processing bioprinter",
-      "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.29013"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Ski Rental Problem",
       "https://lesves.github.io/articles/ski-rental/"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 17:14:04",
-      "https://news.ycombinator.com/item?id=44736854"
-    ],
-    [
-      "Build Your Own Minisforum N5 Inspired Mini NAS",
-      "https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/"
     ]
   ]
 ]
