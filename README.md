@@ -4,7 +4,6 @@
 * [2025-08-04, 00:57:21](https://news.ycombinator.com/item?id=44781189) - [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
 * [2025-08-04, 00:41:28](https://news.ycombinator.com/item?id=44781116) - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [2025-08-03, 23:55:31](https://news.ycombinator.com/item?id=44780878) - [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
-* [2025-08-03, 22:57:22](https://news.ycombinator.com/item?id=44780552) - [Learnable Programming (2012)](https://worrydream.com/LearnableProgramming/)
 * [2025-08-03, 22:55:05](https://news.ycombinator.com/item?id=44780540) - [How to grow almost anything](https://howtogrowalmostanything.notion.site/htgaa25)
 * [2025-08-03, 22:50:53](https://news.ycombinator.com/item?id=44780515) - [A study of lights at night suggests dictators lie about economic growth (2022)](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
 * [2025-08-03, 22:27:57](https://news.ycombinator.com/item?id=44780377) - [Human speech may have a universal transmission rate (2019)](https://www.science.org/content/article/human-speech-may-have-universal-transmission-rate-39-bits-second)
@@ -30,6 +29,7 @@
 * [2025-08-01, 09:42:00](https://news.ycombinator.com/item?id=44754697) - [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-31, 08:36:36](https://news.ycombinator.com/item?id=44743631) - [C++: \"model of the hardware\" vs. \"model of the compiler\" (2018)](http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/)
+* [2025-07-30, 22:34:47](https://news.ycombinator.com/item?id=44740325) - [The Ski Rental Problem](https://lesves.github.io/articles/ski-rental/)
 
 ## [Archives](archives/index.md)
 
