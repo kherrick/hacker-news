@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-08-04, 12:19:51",
-      "https://news.ycombinator.com/item?id=44784809"
+      "2025-08-04, 13:07:18",
+      "https://news.ycombinator.com/item?id=44785238"
     ],
     [
-      "Every Reason Why I Hate AI and You Should Too",
-      "https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html"
+      "Scientists Shine a Laser Through a Human Head",
+      "https://spectrum.ieee.org/optical-brain-imaging"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 12:51:20",
+      "https://news.ycombinator.com/item?id=44785107"
+    ],
+    [
+      "Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline (2015)",
+      "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 12:48:19",
+      "https://news.ycombinator.com/item?id=44785080"
+    ],
+    [
+      "Is the Interstellar Object 3I/Atlas Alien Technology? [pdf]",
+      "https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 12:41:13",
+      "https://news.ycombinator.com/item?id=44785016"
+    ],
+    [
+      "Genetic correlates of social stratification in Great Britain [pdf]",
+      "https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf"
     ]
   ],
   [
@@ -31,6 +61,16 @@
   ],
   [
     [
+      "2025-08-04, 11:22:25",
+      "https://news.ycombinator.com/item?id=44784312"
+    ],
+    [
+      "KDE Plasma prepares crackdown on focus-stealing window behavior under Wayland",
+      "https://www.neowin.net/news/kde-plasma-prepares-crackdown-on-focus-stealing-window-behavior-under-wayland/"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 11:21:05",
       "https://news.ycombinator.com/item?id=44784297"
     ],
@@ -47,6 +87,16 @@
     [
       "Perfecting anti-aliasing on signed distance functions",
       "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 10:10:54",
+      "https://news.ycombinator.com/item?id=44783862"
+    ],
+    [
+      "ThinkBook Plus Gen 6 – Lenovo’s rollable laptop",
+      "https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review"
     ]
   ],
   [
@@ -71,22 +121,22 @@
   ],
   [
     [
-      "2025-08-04, 08:53:44",
-      "https://news.ycombinator.com/item?id=44783372"
-    ],
-    [
-      "Splatshop: Efficiently Editing Large Gaussian Splat Models",
-      "https://momentsingraphics.de/HPG2025.html"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 08:30:22",
       "https://news.ycombinator.com/item?id=44783266"
     ],
     [
       "HTMX is hard, so let's get it right",
       "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 08:04:20",
+      "https://news.ycombinator.com/item?id=44783155"
+    ],
+    [
+      "Job-seekers are dodging AI interviewers",
+      "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/"
     ]
   ],
   [
@@ -131,6 +181,16 @@
   ],
   [
     [
+      "2025-08-03, 22:27:57",
+      "https://news.ycombinator.com/item?id=44780377"
+    ],
+    [
+      "Human speech may have a universal transmission rate (2019)",
+      "https://www.science.org/content/article/human-speech-may-have-universal-transmission-rate-39-bits-second"
+    ]
+  ],
+  [
+    [
       "2025-08-03, 22:24:29",
       "https://news.ycombinator.com/item?id=44780353"
     ],
@@ -161,52 +221,22 @@
   ],
   [
     [
+      "2025-08-03, 16:38:53",
+      "https://news.ycombinator.com/item?id=44777766"
+    ],
+    [
+      "How Python grew from a language to a community",
+      "https://thenewstack.io/how-python-grew-from-a-language-to-a-community/"
+    ]
+  ],
+  [
+    [
       "2025-08-03, 16:38:06",
       "https://news.ycombinator.com/item?id=44777760"
     ],
     [
       "Persona vectors: Monitoring and controlling character traits in language models",
       "https://www.anthropic.com/research/persona-vectors"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 15:04:05",
-      "https://news.ycombinator.com/item?id=44777055"
-    ],
-    [
-      "This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)",
-      "https://archive.irixnet.org/thisoldsgi/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 04:34:36",
-      "https://news.ycombinator.com/item?id=44774104"
-    ],
-    [
-      "Twenty Eighth International Obfuscated C Code Contest",
-      "https://www.ioccc.org/2024/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 13:38:14",
-      "https://news.ycombinator.com/item?id=44767508"
-    ],
-    [
-      "Efficiently Generating a Number in a Range (2018)",
-      "https://www.pcg-random.org/posts/bounded-rands.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 08:24:29",
-      "https://news.ycombinator.com/item?id=44765730"
-    ],
-    [
-      "Welcome to url.town, population 465",
-      "https://url.town/"
     ]
   ],
   [
@@ -221,22 +251,12 @@
   ],
   [
     [
-      "2025-08-02, 03:31:50",
-      "https://news.ycombinator.com/item?id=44764696"
+      "2025-08-01, 12:33:20",
+      "https://news.ycombinator.com/item?id=44755827"
     ],
     [
-      "A dedicated skin-to-brain circuit for cool sensation in mice",
-      "https://www.sciencedaily.com/releases/2025/07/250730030354.htm"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 18:29:40",
-      "https://news.ycombinator.com/item?id=44760583"
-    ],
-    [
-      "Survival at High Altitudes: Wheel-Well Passengers (1996)",
-      "https://rosap.ntl.bts.gov/view/dot/57536"
+      "How we built Bluey’s world",
+      "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-08-01, 03:58:40",
-      "https://news.ycombinator.com/item?id=44752897"
-    ],
-    [
-      "Show HN: Gmap: Explore Git Repos Visually from the CLI",
-      "https://github.com/seeyebe/gmap"
-    ]
-  ],
-  [
-    [
       "2025-07-31, 21:35:19",
       "https://news.ycombinator.com/item?id=44750462"
     ],
     [
       "Nonogram: Complexity of Inference and Phase Transition Behavior",
       "https://arxiv.org/abs/2507.07283"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 13:29:40",
-      "https://news.ycombinator.com/item?id=44745441"
-    ],
-    [
-      "2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals",
-      "https://www.bbc.com/news/articles/c4gzx0zm68vo"
     ]
   ],
   [
