@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-08-03, 22:57:22",
-      "https://news.ycombinator.com/item?id=44780552"
-    ],
-    [
-      "Learnable Programming (2012)",
-      "https://worrydream.com/LearnableProgramming/"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 22:55:05",
       "https://news.ycombinator.com/item?id=44780540"
     ],
@@ -297,6 +287,16 @@
     [
       "C++: \"model of the hardware\" vs. \"model of the compiler\" (2018)",
       "http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 22:34:47",
+      "https://news.ycombinator.com/item?id=44740325"
+    ],
+    [
+      "The Ski Rental Problem",
+      "https://lesves.github.io/articles/ski-rental/"
     ]
   ]
 ]
