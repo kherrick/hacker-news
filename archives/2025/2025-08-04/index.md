@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 17:18:41](https://news.ycombinator.com/item?id=44788783) - [I Asked Four Former Friends Why We Stopped Speaking-Here's What I Learned (2023)](https://www.vogue.com/article/reconnecting-with-ex-friends)
+* [2025-08-04, 16:27:40](https://news.ycombinator.com/item?id=44788065) - [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
 * [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
 * [2025-08-04, 16:11:36](https://news.ycombinator.com/item?id=44787831) - [Microsoft tops $4T in valuation: Great news for MSFT, not so great for workers](https://www.computerworld.com/article/4032921/microsoft-tops-4t-in-valuation-great-news-for-the-company-not-so-great-for-its-workers.html)
 * [2025-08-04, 16:07:15](https://news.ycombinator.com/item?id=44787780) - [Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash](https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/)
+* [2025-08-04, 15:41:30](https://news.ycombinator.com/item?id=44787374) - [Customizing tmux and making it less dreadful](https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/)
 * [2025-08-04, 15:30:01](https://news.ycombinator.com/item?id=44787209) - [Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up](https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8)
 * [2025-08-04, 15:25:32](https://news.ycombinator.com/item?id=44787143) - [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
 * [2025-08-04, 15:19:09](https://news.ycombinator.com/item?id=44787053) - [1981 BASIC adventure game comes to a new platform, the TRS-80 MC-10](https://www.arctic81.com/arctic-adventure-mc10.html)
