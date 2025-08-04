@@ -29,6 +29,7 @@
 * [2025-08-02, 14:26:37](https://news.ycombinator.com/item?id=44767888) - [Iceberg, the Right Idea – The Wrong Spec – Part 2 of 2: The Spec](https://www.database-doctor.com/posts/iceberg-is-wrong-2.html)
 * [2025-08-02, 14:22:11](https://news.ycombinator.com/item?id=44767858) - [The case for having roommates (even when you can afford to live alone)](https://supernuclear.substack.com/p/the-case-for-having-roommates-even)
 * [2025-08-02, 14:09:12](https://news.ycombinator.com/item?id=44767775) - [WebGPU enables local LLM in the browser. Demo site with AI chat](https://andreinwald.github.io/browser-llm/)
+* [2025-08-02, 14:03:06](https://news.ycombinator.com/item?id=44767727) - [Indian Sign Painting: A Typeface Designer's Take on the Craft](https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/)
 * [2025-08-02, 14:00:28](https://news.ycombinator.com/item?id=44767702) - [Financial Lessons from My Family's Experience with Long-Term Care Insurance](https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/)
 * [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
 * [2025-08-02, 13:38:14](https://news.ycombinator.com/item?id=44767508) - [Efficiently Generating a Number in a Range (2018)](https://www.pcg-random.org/posts/bounded-rands.html)
