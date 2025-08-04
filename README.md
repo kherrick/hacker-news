@@ -24,10 +24,10 @@
 * [2025-08-02, 08:24:29](https://news.ycombinator.com/item?id=44765730) - [Welcome to url.town, population 465](https://url.town/)
 * [2025-08-02, 07:39:42](https://news.ycombinator.com/item?id=44765562) - [Life, Work, Death and the Peasant: Family Formation](https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/)
 * [2025-08-02, 03:31:50](https://news.ycombinator.com/item?id=44764696) - [A dedicated skin-to-brain circuit for cool sensation in mice](https://www.sciencedaily.com/releases/2025/07/250730030354.htm)
-* [2025-08-01, 20:56:28](https://news.ycombinator.com/item?id=44762397) - [Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme](https://github.com/rolandoam/schematra)
 * [2025-08-01, 18:29:40](https://news.ycombinator.com/item?id=44760583) - [Survival at High Altitudes: Wheel-Well Passengers (1996)](https://rosap.ntl.bts.gov/view/dot/57536)
 * [2025-08-01, 09:42:00](https://news.ycombinator.com/item?id=44754697) - [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
 * [2025-08-01, 07:54:32](https://news.ycombinator.com/item?id=44754092) - [How I configure BorgBackup and borgmatic (2023)](https://www.justus.pw/garden/borgbackup.html)
+* [2025-08-01, 03:58:40](https://news.ycombinator.com/item?id=44752897) - [Show HN: Gmap: Explore Git Repos Visually from the CLI](https://github.com/seeyebe/gmap)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-31, 08:36:36](https://news.ycombinator.com/item?id=44743631) - [C++: \"model of the hardware\" vs. \"model of the compiler\" (2018)](http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/)
 
