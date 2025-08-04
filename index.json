@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-04, 11:21:05",
+      "https://news.ycombinator.com/item?id=44784297"
+    ],
+    [
+      "Photonic SNN chip reaches 1 GHz and supports on-chip learning",
+      "https://arxiv.org/abs/2506.14272"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 10:55:47",
+      "https://news.ycombinator.com/item?id=44784141"
+    ],
+    [
+      "Perfecting anti-aliasing on signed distance functions",
+      "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 10:10:54",
       "https://news.ycombinator.com/item?id=44783862"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-08-04, 00:57:21",
-      "https://news.ycombinator.com/item?id=44781189"
-    ],
-    [
-      "Poorest US workers hit hardest by slowing wage growth",
-      "https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 00:41:28",
       "https://news.ycombinator.com/item?id=44781116"
     ],
@@ -77,16 +87,6 @@
     [
       "Typed languages are better suited for vibecoding",
       "https://solmaz.io/typed-languages-are-better-suited-for-vibecoding"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 22:57:22",
-      "https://news.ycombinator.com/item?id=44780552"
-    ],
-    [
-      "Learnable Programming (2012)",
-      "https://worrydream.com/LearnableProgramming/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-08-01, 20:56:28",
-      "https://news.ycombinator.com/item?id=44762397"
-    ],
-    [
-      "Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme",
-      "https://github.com/rolandoam/schematra"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 18:29:40",
       "https://news.ycombinator.com/item?id=44760583"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: Gmap: Explore Git Repos Visually from the CLI",
       "https://github.com/seeyebe/gmap"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 21:35:19",
+      "https://news.ycombinator.com/item?id=44750462"
+    ],
+    [
+      "Nonogram: Complexity of Inference and Phase Transition Behavior",
+      "https://arxiv.org/abs/2507.07283"
     ]
   ],
   [
