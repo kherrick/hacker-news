@@ -2,6 +2,7 @@
 
 * [2025-08-04, 18:27:26](https://news.ycombinator.com/item?id=44789668) - [Circadian justice](https://eprints.lse.ac.uk/112431/)
 * [2025-08-04, 17:50:05](https://news.ycombinator.com/item?id=44789192) - [Offline.kids – Screen-free activities for kids](https://offline.kids/)
+* [2025-08-04, 17:39:59](https://news.ycombinator.com/item?id=44789068) - [Ask HN: What trick of the trade took you too long to learn?](https://news.ycombinator.com/item?id=44789068)
 * [2025-08-04, 17:18:41](https://news.ycombinator.com/item?id=44788783) - [I asked four former friends why we stopped speaking (2023)](https://www.vogue.com/article/reconnecting-with-ex-friends)
 * [2025-08-04, 16:27:40](https://news.ycombinator.com/item?id=44788065) - [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
 * [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
@@ -12,7 +13,6 @@
 * [2025-08-04, 15:25:32](https://news.ycombinator.com/item?id=44787143) - [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
 * [2025-08-04, 15:12:20](https://news.ycombinator.com/item?id=44786962) - [A deep dive into Rust and C memory interoperability](https://notashes.me/blog/part-1-memory-management/)
 * [2025-08-04, 14:40:07](https://news.ycombinator.com/item?id=44786462) - [Lidar-based GIS map of New Hampshire stone walls](https://nhgranit.maps.arcgis.com/apps/webappviewer/index.html?id=25930044fe2b4d8fb5cab3ec07565e83)
-* [2025-08-04, 13:49:00](https://news.ycombinator.com/item?id=44785759) - [PHP: The Toyota Corolla of programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 13:12:27](https://news.ycombinator.com/item?id=44785292) - [ScreenCoder: An intelligent UI-to-code generation system](https://github.com/leigest519/ScreenCoder)
 * [2025-08-04, 13:07:18](https://news.ycombinator.com/item?id=44785238) - [Scientists shine a laser through a human head](https://spectrum.ieee.org/optical-brain-imaging)

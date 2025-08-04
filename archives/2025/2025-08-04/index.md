@@ -8,6 +8,7 @@
 * [2025-08-04, 18:48:04](https://news.ycombinator.com/item?id=44789903) - [Europe is breaking its reliance on American science](https://www.reuters.com/sustainability/climate-energy/europe-is-breaking-its-reliance-american-science-2025-08-01/)
 * [2025-08-04, 18:27:26](https://news.ycombinator.com/item?id=44789668) - [Circadian Justice](https://eprints.lse.ac.uk/112431/)
 * [2025-08-04, 17:50:05](https://news.ycombinator.com/item?id=44789192) - [Offline.kids – screen-free activities for kids](https://offline.kids/)
+* [2025-08-04, 17:39:59](https://news.ycombinator.com/item?id=44789068) - [Ask HN: What trick of the trade took you too long to learn?](https://news.ycombinator.com/item?id=44789068)
 * [2025-08-04, 17:18:41](https://news.ycombinator.com/item?id=44788783) - [I Asked Four Former Friends Why We Stopped Speaking-Here's What I Learned (2023)](https://www.vogue.com/article/reconnecting-with-ex-friends)
 * [2025-08-04, 16:27:40](https://news.ycombinator.com/item?id=44788065) - [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
 * [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
