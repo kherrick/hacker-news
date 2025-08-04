@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 19:32:11](https://news.ycombinator.com/item?id=44790422) - [Content-Aware Spaced Repetition](https://www.giacomoran.com/blog/content-aware-sr/)
+* [2025-08-04, 19:20:38](https://news.ycombinator.com/item?id=44790271) - [NASA's Curiosity picks up new skills](https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/)
 * [2025-08-04, 18:49:09](https://news.ycombinator.com/item?id=44789917) - [Belgium's Arrest of IDF Soldiers Could Be a Watershed Moment](https://jacobin.com/2025/08/belgium-israeli-soldiers-arrest-gaza)
 * [2025-08-04, 18:48:04](https://news.ycombinator.com/item?id=44789903) - [Europe is breaking its reliance on American science](https://www.reuters.com/sustainability/climate-energy/europe-is-breaking-its-reliance-american-science-2025-08-01/)
 * [2025-08-04, 18:27:26](https://news.ycombinator.com/item?id=44789668) - [Circadian Justice](https://eprints.lse.ac.uk/112431/)
@@ -22,11 +24,13 @@
 * [2025-08-04, 15:25:32](https://news.ycombinator.com/item?id=44787143) - [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
 * [2025-08-04, 15:19:09](https://news.ycombinator.com/item?id=44787053) - [1981 BASIC adventure game comes to a new platform, the TRS-80 MC-10](https://www.arctic81.com/arctic-adventure-mc10.html)
 * [2025-08-04, 15:12:20](https://news.ycombinator.com/item?id=44786962) - [Part 1: A Deep Dive into Rust and C Memory Interoperability](https://notashes.me/blog/part-1-memory-management/)
+* [2025-08-04, 15:05:31](https://news.ycombinator.com/item?id=44786843) - [The Revolution of Token-Level Rewards](https://www.levroai.com/blog/revolution-of-token-rewards-08-01-2025)
 * [2025-08-04, 15:01:52](https://news.ycombinator.com/item?id=44786790) - [AI promised efficiency. Instead, it's making us work harder](https://afterburnout.co/p/ai-promised-to-make-us-more-efficient)
 * [2025-08-04, 14:44:06](https://news.ycombinator.com/item?id=44786516) - [Mozilla Firefox's extension store being flooded with malware](https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/)
 * [2025-08-04, 14:43:57](https://news.ycombinator.com/item?id=44786514) - [Software needs an \"independent auditor\"](https://www.greptile.com/blog/auditor)
 * [2025-08-04, 14:40:07](https://news.ycombinator.com/item?id=44786462) - [Lidar-based GIS map of New Hampshire stone walls](https://nhgranit.maps.arcgis.com/apps/webappviewer/index.html?id=25930044fe2b4d8fb5cab3ec07565e83)
 * [2025-08-04, 14:33:49](https://news.ycombinator.com/item?id=44786367) - [Objects should shut the fuck up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
+* [2025-08-04, 14:09:33](https://news.ycombinator.com/item?id=44786005) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
 * [2025-08-04, 13:49:00](https://news.ycombinator.com/item?id=44785759) - [The Toyota Corolla of programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 13:33:20](https://news.ycombinator.com/item?id=44785562) - [Read That Fucking Code (Stop vibe-coding blindly)](https://etsd.tech/posts/rtfc/)

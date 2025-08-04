@@ -64,6 +64,7 @@
 * [2025-08-01, 11:54:06](https://news.ycombinator.com/item?id=44755528) - [How did Facebook intercept competitor's encrypted mobile app traffic? (2014)](https://haxrob.net/onavo-facebook-ssl-mitm-technical-analysis/)
 * [2025-08-01, 11:41:05](https://news.ycombinator.com/item?id=44755441) - [Belgium Bans Internet Archive's 'Open Library' in Site Blocking Order](https://torrentfreak.com/belgium-bans-internet-archives-open-library-in-sweeping-site-blocking-order/)
 * [2025-08-01, 11:39:09](https://news.ycombinator.com/item?id=44755429) - [Terence Tao's NSF grants suspended](https://bsky.app/profile/dangaristo.bsky.social/post/3lvc7ldavhk2o)
+* [2025-08-01, 11:32:52](https://news.ycombinator.com/item?id=44755394) - [Cellular Starlink expands to support IoT devices](https://me.pcmag.com/en/networking/31452/spacexs-cellular-starlink-expands-to-support-iot-devices)
 * [2025-08-01, 11:22:52](https://news.ycombinator.com/item?id=44755341) - [Gemini 2.5 Deep Think](https://twitter.com/GoogleDeepMind/status/1951239132950204439)
 * [2025-08-01, 11:14:37](https://news.ycombinator.com/item?id=44755298) - [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [2025-08-01, 11:10:38](https://news.ycombinator.com/item?id=44755279) - [Try Deep Think in the Gemini App](https://blog.google/products/gemini/gemini-2-5-deep-think/)
