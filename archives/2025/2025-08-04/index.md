@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 13:07:18](https://news.ycombinator.com/item?id=44785238) - [Scientists Shine a Laser Through a Human Head](https://spectrum.ieee.org/optical-brain-imaging)
+* [2025-08-04, 12:51:20](https://news.ycombinator.com/item?id=44785107) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
+* [2025-08-04, 12:48:19](https://news.ycombinator.com/item?id=44785080) - [Is the Interstellar Object 3I/Atlas Alien Technology? [pdf]](https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf)
+* [2025-08-04, 12:41:13](https://news.ycombinator.com/item?id=44785016) - [Genetic correlates of social stratification in Great Britain [pdf]](https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf)
 * [2025-08-04, 12:19:51](https://news.ycombinator.com/item?id=44784809) - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 * [2025-08-04, 11:50:46](https://news.ycombinator.com/item?id=44784565) - [The US military’s on-base slot machines](https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/)
 * [2025-08-04, 11:44:49](https://news.ycombinator.com/item?id=44784498) - [Palantir Is Extending Its Reach Even Further into Government](https://www.wired.com/story/palantir-government-contracting-push/)
+* [2025-08-04, 11:22:25](https://news.ycombinator.com/item?id=44784312) - [KDE Plasma prepares crackdown on focus-stealing window behavior under Wayland](https://www.neowin.net/news/kde-plasma-prepares-crackdown-on-focus-stealing-window-behavior-under-wayland/)
 * [2025-08-04, 11:21:05](https://news.ycombinator.com/item?id=44784297) - [Photonic SNN chip reaches 1 GHz and supports on-chip learning](https://arxiv.org/abs/2506.14272)
 * [2025-08-04, 10:55:47](https://news.ycombinator.com/item?id=44784141) - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
 * [2025-08-04, 10:10:54](https://news.ycombinator.com/item?id=44783862) - [ThinkBook Plus Gen 6 – Lenovo’s rollable laptop](https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review)

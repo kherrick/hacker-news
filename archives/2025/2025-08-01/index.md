@@ -55,6 +55,7 @@
 * [2025-08-01, 14:00:55](https://news.ycombinator.com/item?id=44756989) - [Online Safety Act: What went wrong?](https://therectangle.substack.com/p/online-safety-act-what-went-wrong)
 * [2025-08-01, 13:13:33](https://news.ycombinator.com/item?id=44756314) - [GPT-5 is already (ostensibly) available via API](https://old.reddit.com/r/OpenAI/comments/1mettre/gpt5_is_already_ostensibly_available_via_api/)
 * [2025-08-01, 12:51:38](https://news.ycombinator.com/item?id=44756045) - [Live coding interviews measure stress, not coding skills](https://hadid.dev/posts/living-coding/)
+* [2025-08-01, 12:33:20](https://news.ycombinator.com/item?id=44755827) - [How we built Bluey’s world](https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725)
 * [2025-08-01, 12:13:12](https://news.ycombinator.com/item?id=44755654) - [Launch HN: Societies.io (YC W25) – AI simulations of your target audience](https://news.ycombinator.com/item?id=44755654)
 * [2025-08-01, 12:12:04](https://news.ycombinator.com/item?id=44755644) - [The Untold Impact of Cancellation](https://pretty.direct/impact)
 * [2025-08-01, 11:57:23](https://news.ycombinator.com/item?id=44755551) - [Navy demonstrates multi-day solar UAS flight](https://www.navair.navy.mil/news/Navy-demonstrates-multi-day-solar-UAS-flight/Tue-07292025-1554)
