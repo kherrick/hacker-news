@@ -45,6 +45,7 @@
 * [2025-07-31, 15:15:03](https://news.ycombinator.com/item?id=44746529) - [I tried living on IPv6 for a day, and here's what happened](https://www.xda-developers.com/the-internet-isnt-fully-ipv6-ready/)
 * [2025-07-31, 15:04:20](https://news.ycombinator.com/item?id=44746443) - [Rotten Apple: Former Israeli Spies Hired by Silicon Valley Giant](https://www.mintpressnews.com/apple-israel-unit-8200-hiring/290226/)
 * [2025-07-31, 15:01:08](https://news.ycombinator.com/item?id=44746415) - [Ursa: A Leaderless, Object Storage–Based Alternative to Kafka](https://streamnative.io/products/ursa)
+* [2025-07-31, 14:56:24](https://news.ycombinator.com/item?id=44746347) - [Do LLMs identify fonts?](https://maxhalford.github.io/blog/llm-font-identification/)
 * [2025-07-31, 14:55:34](https://news.ycombinator.com/item?id=44746338) - [GCP CloudQuarry: Searching for Secrets in Public GCP Images](https://trufflesecurity.com/blog/guest-post-gcp-cloudquarry-searching-for-secrets-in-public-gcp-images)
 * [2025-07-31, 14:55:16](https://news.ycombinator.com/item?id=44746334) - [U.S. Senators Introduce New Pirate Site Blocking Bill: Block Beard](https://torrentfreak.com/u-s-senators-introduce-new-pirate-site-blocking-bill-block-beard/)
 * [2025-07-31, 14:54:33](https://news.ycombinator.com/item?id=44746326) - [Do PE firms create value? How?](https://www.gain.pro/insight-reports/value-creation)

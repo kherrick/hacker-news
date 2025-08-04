@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
+* [2025-08-04, 13:33:20](https://news.ycombinator.com/item?id=44785562) - [Read That Fucking Code (Stop vibe-coding blindly)](https://etsd.tech/posts/rtfc/)
 * [2025-08-04, 13:07:18](https://news.ycombinator.com/item?id=44785238) - [Scientists Shine a Laser Through a Human Head](https://spectrum.ieee.org/optical-brain-imaging)
+* [2025-08-04, 13:05:08](https://news.ycombinator.com/item?id=44785224) - [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
 * [2025-08-04, 12:51:20](https://news.ycombinator.com/item?id=44785107) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
+* [2025-08-04, 12:49:30](https://news.ycombinator.com/item?id=44785093) - [Why I'm Leaving NixOS After a Year?](https://www.rugu.dev/en/blog/leaving-nixos/)
 * [2025-08-04, 12:48:19](https://news.ycombinator.com/item?id=44785080) - [Is the Interstellar Object 3I/Atlas Alien Technology? [pdf]](https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf)
 * [2025-08-04, 12:41:13](https://news.ycombinator.com/item?id=44785016) - [Genetic correlates of social stratification in Great Britain [pdf]](https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf)
 * [2025-08-04, 12:19:51](https://news.ycombinator.com/item?id=44784809) - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
