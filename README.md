@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-04, 20:23:20](https://news.ycombinator.com/item?id=44790944) - [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)
 * [2025-08-04, 19:32:11](https://news.ycombinator.com/item?id=44790422) - [Content-Aware Spaced Repetition](https://www.giacomoran.com/blog/content-aware-sr/)
 * [2025-08-04, 19:20:38](https://news.ycombinator.com/item?id=44790271) - [NASA's Curiosity picks up new skills](https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/)
 * [2025-08-04, 18:27:26](https://news.ycombinator.com/item?id=44789668) - [Circadian justice](https://eprints.lse.ac.uk/112431/)
@@ -21,7 +22,6 @@
 * [2025-08-04, 12:48:19](https://news.ycombinator.com/item?id=44785080) - [Is the interstellar object 3I/ATLAS alien technology? [pdf]](https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf)
 * [2025-08-04, 12:10:22](https://news.ycombinator.com/item?id=44784743) - [DrawAFish.com Postmortem](https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html)
 * [2025-08-04, 11:44:49](https://news.ycombinator.com/item?id=44784498) - [Palantir is extending its reach even further into government](https://www.wired.com/story/palantir-government-contracting-push/)
-* [2025-08-04, 11:21:05](https://news.ycombinator.com/item?id=44784297) - [GHz spiking neuromorphic photonic chip with in-situ training](https://arxiv.org/abs/2506.14272)
 * [2025-08-04, 08:04:20](https://news.ycombinator.com/item?id=44783155) - [Job-seekers are dodging AI interviewers](https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/)
 * [2025-08-02, 20:43:07](https://news.ycombinator.com/item?id=44771268) - [Show HN: Mathpad – Physical keypad for typing math symbols](https://www.crowdsupply.com/summa-cogni/mathpad)
 * [2025-08-02, 14:03:06](https://news.ycombinator.com/item?id=44767727) - [Indian Sign Painting: A typeface designer's take on the craft](https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/)
