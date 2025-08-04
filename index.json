@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-04, 15:12:20",
+      "https://news.ycombinator.com/item?id=44786962"
+    ],
+    [
+      "Part 1: A Deep Dive into Rust and C Memory Interoperability",
+      "https://notashes.me/blog/part-1-memory-management/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 14:44:06",
+      "https://news.ycombinator.com/item?id=44786516"
+    ],
+    [
+      "Mozilla Firefox's extension store being flooded with malware",
+      "https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 14:33:49",
       "https://news.ycombinator.com/item?id=44786367"
     ],
@@ -37,6 +57,16 @@
     [
       "Read your code",
       "https://etsd.tech/posts/rtfc/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 13:12:27",
+      "https://news.ycombinator.com/item?id=44785292"
+    ],
+    [
+      "ScreenCoder: An intelligent UI-to-code generation system",
+      "https://github.com/leigest519/ScreenCoder"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2025-08-04, 11:44:49",
-      "https://news.ycombinator.com/item?id=44784498"
-    ],
-    [
-      "Palantir Is Extending Its Reach Even Further into Government",
-      "https://www.wired.com/story/palantir-government-contracting-push/"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 11:22:25",
       "https://news.ycombinator.com/item?id=44784312"
     ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2025-08-04, 10:10:54",
-      "https://news.ycombinator.com/item?id=44783862"
-    ],
-    [
-      "ThinkBook Plus Gen 6 – Lenovo’s rollable laptop",
-      "https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 09:27:49",
       "https://news.ycombinator.com/item?id=44783566"
     ],
     [
       "Mastercard deflects blame for NSFW games being taken down",
       "https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 08:30:22",
-      "https://news.ycombinator.com/item?id=44783266"
-    ],
-    [
-      "HTMX is hard, so let's get it right",
-      "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Why doctors hate their computers (2018)",
       "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 23:55:31",
-      "https://news.ycombinator.com/item?id=44780878"
-    ],
-    [
-      "Typed languages are better suited for vibecoding",
-      "https://solmaz.io/typed-languages-are-better-suited-for-vibecoding"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Life, Work, Death and the Peasant: Family Formation",
       "https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 15:41:50",
+      "https://news.ycombinator.com/item?id=44758463"
+    ],
+    [
+      "Open IP Camera Firmware",
+      "https://openipc.org/à"
     ]
   ],
   [
