@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 14:33:49](https://news.ycombinator.com/item?id=44786367) - [Objects should shut the fuck up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
 * [2025-08-04, 13:49:00](https://news.ycombinator.com/item?id=44785759) - [The Toyota Corolla of programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 13:33:20](https://news.ycombinator.com/item?id=44785562) - [Read That Fucking Code (Stop vibe-coding blindly)](https://etsd.tech/posts/rtfc/)

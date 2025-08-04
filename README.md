@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-04, 14:33:49](https://news.ycombinator.com/item?id=44786367) - [Objects should shut the fuck up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
 * [2025-08-04, 13:49:00](https://news.ycombinator.com/item?id=44785759) - [The Toyota Corolla of programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 13:33:20](https://news.ycombinator.com/item?id=44785562) - [Read your code](https://etsd.tech/posts/rtfc/)
 * [2025-08-04, 13:07:18](https://news.ycombinator.com/item?id=44785238) - [Scientists shine a laser through a human head](https://spectrum.ieee.org/optical-brain-imaging)
 * [2025-08-04, 13:05:08](https://news.ycombinator.com/item?id=44785224) - [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
 * [2025-08-04, 12:51:20](https://news.ycombinator.com/item?id=44785107) - [Century-Old Stone “Tsunami Stones” Dot Japan's Coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
-* [2025-08-04, 12:49:30](https://news.ycombinator.com/item?id=44785093) - [Why I'm Leaving NixOS After a Year?](https://www.rugu.dev/en/blog/leaving-nixos/)
 * [2025-08-04, 12:41:13](https://news.ycombinator.com/item?id=44785016) - [Genetic correlates of social stratification in Great Britain (2019) [pdf]](https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf)
 * [2025-08-04, 11:44:49](https://news.ycombinator.com/item?id=44784498) - [Palantir Is Extending Its Reach Even Further into Government](https://www.wired.com/story/palantir-government-contracting-push/)
 * [2025-08-04, 11:22:25](https://news.ycombinator.com/item?id=44784312) - [KDE Plasma prepares crackdown on focus-stealing window behavior under Wayland](https://www.neowin.net/news/kde-plasma-prepares-crackdown-on-focus-stealing-window-behavior-under-wayland/)
