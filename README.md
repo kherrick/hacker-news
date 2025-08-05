@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 17:44:01](https://news.ycombinator.com/item?id=44801486) - [US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief](https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html)
 * [2025-08-05, 17:18:37](https://news.ycombinator.com/item?id=44801027) - [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
-* [2025-08-05, 17:02:02](https://news.ycombinator.com/item?id=44800746) - [OpenAI Open Models](https://openai.com/open-models/)
+* [2025-08-05, 17:02:02](https://news.ycombinator.com/item?id=44800746) - [Open models by OpenAI](https://openai.com/open-models/)
+* [2025-08-05, 17:00:49](https://news.ycombinator.com/item?id=44800730) - [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/)
 * [2025-08-05, 16:28:05](https://news.ycombinator.com/item?id=44800185) - [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
 * [2025-08-05, 16:18:57](https://news.ycombinator.com/item?id=44800051) - [Google agrees to pause AI workloads when power demand spikes](https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/)
 * [2025-08-05, 16:07:58](https://news.ycombinator.com/item?id=44799869) - [OpenAI Harmony](https://github.com/openai/harmony)
@@ -11,7 +13,6 @@
 * [2025-08-05, 15:42:40](https://news.ycombinator.com/item?id=44799479) - [Eleven Music Is Here](https://elevenlabs.io/blog/eleven-music-is-here)
 * [2025-08-05, 14:47:35](https://news.ycombinator.com/item?id=44798705) - [US Coast Guard Report on Titan Submersible](https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/)
 * [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos is capturing real-time images of explosions at 7mths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
-* [2025-08-05, 14:38:36](https://news.ycombinator.com/item?id=44798553) - [Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases](https://github.com/stagewise-io/stagewise)
 * [2025-08-05, 14:30:19](https://news.ycombinator.com/item?id=44798434) - [No Comment (2010)](https://prog21.dadgum.com/57.html)
 * [2025-08-05, 14:28:39](https://news.ycombinator.com/item?id=44798410) - [Ozempic Shows Anti-Aging Effects in Trial, Reversing Biological Age by 3.1 Years](https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years)
 * [2025-08-05, 14:12:51](https://news.ycombinator.com/item?id=44798215) - [Enough is enough–I dumped Google's worsening search for Kagi](https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/)
@@ -28,7 +29,6 @@
 * [2025-08-05, 06:33:04](https://news.ycombinator.com/item?id=44794926) - [Apache ECharts 6](https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/)
 * [2025-08-05, 05:05:23](https://news.ycombinator.com/item?id=44794508) - [Monitor your security cameras with locally processed AI](https://frigate.video/)
 * [2025-08-05, 04:13:43](https://news.ycombinator.com/item?id=44794271) - [PHP 8.5 adds pipe operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
-* [2025-08-03, 03:53:56](https://news.ycombinator.com/item?id=44773965) - [Renaming this file changes what it does [video]](https://www.youtube.com/watch?v=o7qx-wgl3jo)
 * [2025-08-02, 18:45:14](https://news.ycombinator.com/item?id=44770215) - [A Carnival Attraction That Saved Premature Babies (2016)](https://www.smithsonianmag.com/history/man-who-pretended-be-doctor-ran-worlds-fair-attraction-saved-lives-thousands-premature-babies-180960200/)
 
 ## [Archives](archives/index.md)
