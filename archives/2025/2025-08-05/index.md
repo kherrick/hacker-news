@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 18:20:23](https://news.ycombinator.com/item?id=44802063) - [Show HN: I built a tool to replace capcut audio transcription](https://meetcosmos.com/free-audio-transcription/)
+* [2025-08-05, 18:14:41](https://news.ycombinator.com/item?id=44801980) - [Show HN: Tambo – build generative UX web apps](https://github.com/tambo-ai/tambo)
 * [2025-08-05, 17:57:55](https://news.ycombinator.com/item?id=44801718) - [The 'Contrarian Friend' Is Real, and They're Driving Everyone Crazy](https://www.self.com/story/contrarian-friend-trend)
 * [2025-08-05, 17:44:01](https://news.ycombinator.com/item?id=44801486) - [US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief](https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html)
 * [2025-08-05, 17:39:26](https://news.ycombinator.com/item?id=44801399) - [Show HN: Whittle – A Shrinking Word Game](https://playwhittle.com/)
