@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 12:07:25](https://news.ycombinator.com/item?id=44797050) - [C10kday](https://daniel.haxx.se/blog/2025/08/05/c10kday/)
+* [2025-08-05, 11:55:20](https://news.ycombinator.com/item?id=44796953) - [Build Your Own Lisp](https://www.buildyourownlisp.com/)
+* [2025-08-05, 10:56:07](https://news.ycombinator.com/item?id=44796526) - [Scientific fraud has become an 'industry,' alarming analysis finds](https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds)
 * [2025-08-05, 10:13:23](https://news.ycombinator.com/item?id=44796281) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
 * [2025-08-05, 09:01:54](https://news.ycombinator.com/item?id=44795825) - [uBlock Origin Lite now available for Safari](https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698)
+* [2025-08-05, 09:01:54](https://news.ycombinator.com/item?id=44795825) - [uBlock Origin Lite now available for Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698)
 * [2025-08-05, 06:37:15](https://news.ycombinator.com/item?id=44794943) - [Where to find ideas – by Rob Snyder](https://howtogrow.substack.com/p/where-to-find-ideas)
 * [2025-08-05, 06:33:04](https://news.ycombinator.com/item?id=44794926) - [Apache ECharts 6 New Features](https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/)
 * [2025-08-05, 05:31:47](https://news.ycombinator.com/item?id=44794615) - [Welcome to the IPv4 Games](https://ipv4.games/)
