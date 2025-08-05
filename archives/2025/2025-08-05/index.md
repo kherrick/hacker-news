@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 13:19:08](https://news.ycombinator.com/item?id=44797628) - [Swarm robotics could spell the end of the assembly line](https://www.therobotreport.com/swarm-robotics-could-spell-end-aerospace-assembly-line/)
+* [2025-08-05, 12:59:01](https://news.ycombinator.com/item?id=44797466) - [Can you block it? A simple Ad Block Tester](https://canyoublockit.com/)
+* [2025-08-05, 12:53:15](https://news.ycombinator.com/item?id=44797408) - [TSMC says employees tried to steal trade secrets on iPhone 18 chip process](https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/)
 * [2025-08-05, 12:07:25](https://news.ycombinator.com/item?id=44797050) - [C10kday](https://daniel.haxx.se/blog/2025/08/05/c10kday/)
 * [2025-08-05, 11:55:20](https://news.ycombinator.com/item?id=44796953) - [Build Your Own Lisp](https://www.buildyourownlisp.com/)
+* [2025-08-05, 11:19:27](https://news.ycombinator.com/item?id=44796698) - [More than two hard disks in DOS](https://www.os2museum.com/wp/more-than-two-hard-disks-in-dos/)
 * [2025-08-05, 10:56:07](https://news.ycombinator.com/item?id=44796526) - [Scientific fraud has become an 'industry,' alarming analysis finds](https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds)
 * [2025-08-05, 10:13:23](https://news.ycombinator.com/item?id=44796281) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
 * [2025-08-05, 09:01:54](https://news.ycombinator.com/item?id=44795825) - [uBlock Origin Lite now available for Safari](https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698)
