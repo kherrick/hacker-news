@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 14:30:19](https://news.ycombinator.com/item?id=44798434) - [No Comment](https://prog21.dadgum.com/57.html)
 * [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:08:52](https://news.ycombinator.com/item?id=44798166) - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 * [2025-08-05, 13:57:15](https://news.ycombinator.com/item?id=44798040) - [Show HN: I built a text-based birthday reminder app](https://birthdays.app)
@@ -19,17 +20,16 @@
 * [2025-08-05, 06:33:04](https://news.ycombinator.com/item?id=44794926) - [Apache ECharts 6](https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/)
 * [2025-08-05, 05:05:23](https://news.ycombinator.com/item?id=44794508) - [Monitor your security cameras with locally processed AI](https://frigate.video/)
 * [2025-08-05, 04:13:43](https://news.ycombinator.com/item?id=44794271) - [PHP 8.5 adds pipe operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
-* [2025-08-04, 23:16:12](https://news.ycombinator.com/item?id=44792441) - [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings)
 * [2025-08-04, 22:22:00](https://news.ycombinator.com/item?id=44791984) - [Thingino: Open-Source Firmware for IP Cameras](https://thingino.com/)
 * [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
 * [2025-08-04, 15:56:40](https://news.ycombinator.com/item?id=44787631) - [Qwen-Image: Crafting with native text rendering](https://qwenlm.github.io/blog/qwen-image/)
 * [2025-08-04, 14:09:33](https://news.ycombinator.com/item?id=44786005) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
 * [2025-08-02, 18:45:14](https://news.ycombinator.com/item?id=44770215) - [A Carnival Attraction That Saved Premature Babies (2016)](https://www.smithsonianmag.com/history/man-who-pretended-be-doctor-ran-worlds-fair-attraction-saved-lives-thousands-premature-babies-180960200/)
 * [2025-08-02, 17:32:25](https://news.ycombinator.com/item?id=44769547) - [I tried to replace myself with ChatGPT in my English class](https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/)
+* [2025-08-02, 16:10:28](https://news.ycombinator.com/item?id=44768778) - [Weather satellites detect 515-mile-long lightning flash](https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash)
 * [2025-08-02, 11:53:46](https://news.ycombinator.com/item?id=44766875) - [Chris Curry interviewed by Your Computer magazine (1981)](https://computeradsfromthepast.substack.com/p/your-computer-interviewed-chris-curry)
 * [2025-08-02, 09:30:49](https://news.ycombinator.com/item?id=44766031) - [Tell HN: I underestimated how lonely building solo can be](https://news.ycombinator.com/item?id=44766031)
 * [2025-08-02, 09:06:47](https://news.ycombinator.com/item?id=44765904) - [The Disappearance of Saturday Morning (2003)](https://www.awn.com/animationworld/disappearance-saturday-morning)
-* [2025-08-02, 02:33:21](https://news.ycombinator.com/item?id=44764465) - [Clojure Civitas – Publish Clojure Ideas and Explorations](https://github.com/ClojureCivitas/clojurecivitas.github.io)
 
 ## [Archives](archives/index.md)
 
