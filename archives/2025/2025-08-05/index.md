@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 17:18:37](https://news.ycombinator.com/item?id=44801027) - [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
 * [2025-08-05, 17:02:02](https://news.ycombinator.com/item?id=44800746) - [OpenAI Open Models](https://openai.com/open-models/)
 * [2025-08-05, 16:28:05](https://news.ycombinator.com/item?id=44800185) - [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
 * [2025-08-05, 16:18:57](https://news.ycombinator.com/item?id=44800051) - [Google agrees to pause AI workloads when power demand spikes](https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/)
@@ -19,6 +20,7 @@
 * [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos Is Capturing Real-Time Images of Explosions at 7Mths of a Second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
 * [2025-08-05, 14:38:36](https://news.ycombinator.com/item?id=44798553) - [Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases](https://github.com/stagewise-io/stagewise)
 * [2025-08-05, 14:30:19](https://news.ycombinator.com/item?id=44798434) - [No Comment](https://prog21.dadgum.com/57.html)
+* [2025-08-05, 14:28:39](https://news.ycombinator.com/item?id=44798410) - [Ozempic Shows Anti-Aging Effects in Trial, Reversing Biological Age by 3.1 Years](https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years)
 * [2025-08-05, 14:12:51](https://news.ycombinator.com/item?id=44798215) - [Enough is enough–I dumped Google's worsening search for Kagi](https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/)
 * [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:08:52](https://news.ycombinator.com/item?id=44798166) - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
