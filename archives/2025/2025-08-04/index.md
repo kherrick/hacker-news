@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 23:16:12](https://news.ycombinator.com/item?id=44792441) - [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings)
 * [2025-08-04, 23:10:51](https://news.ycombinator.com/item?id=44792399) - [EconTeen – Financial Literacy Lessons and Tools for Teens](https://econteen.com/)
 * [2025-08-04, 22:24:20](https://news.ycombinator.com/item?id=44792005) - [Show HN: I've been building an ERP for manufacturing for the last 3 years](https://github.com/crbnos/carbon)
 * [2025-08-04, 22:22:00](https://news.ycombinator.com/item?id=44791984) - [Thingino: Open-Source Firmware for IP Cameras](https://thingino.com/)
