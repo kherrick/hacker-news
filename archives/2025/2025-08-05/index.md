@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
+* [2025-08-05, 20:46:38](https://news.ycombinator.com/item?id=44804043) - [What's wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
+* [2025-08-05, 20:32:58](https://news.ycombinator.com/item?id=44803885) - [Germany's identity crisis: The trains no longer run on time](https://www.washingtonpost.com/world/2025/08/05/germany-trains-delays-broken-railroad/)
 * [2025-08-05, 19:38:25](https://news.ycombinator.com/item?id=44803196) - [New Database Reveals 1.5M Pages of Once-Secret Police Use of Force Records](https://journalism.berkeley.edu/police-records-access/)
 * [2025-08-05, 19:29:04](https://news.ycombinator.com/item?id=44803065) - [A zoo in Denmark wants to feed your pets to its predators](https://www.nytimes.com/2025/08/04/science/zoos-denmark-food-pets.html)
 * [2025-08-05, 19:19:25](https://news.ycombinator.com/item?id=44802916) - [The AI bubble is so big it's propping up the US economy (for now)](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
