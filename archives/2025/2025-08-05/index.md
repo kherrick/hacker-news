@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
 * [2025-08-05, 19:38:25](https://news.ycombinator.com/item?id=44803196) - [New Database Reveals 1.5M Pages of Once-Secret Police Use of Force Records](https://journalism.berkeley.edu/police-records-access/)
+* [2025-08-05, 19:29:04](https://news.ycombinator.com/item?id=44803065) - [A zoo in Denmark wants to feed your pets to its predators](https://www.nytimes.com/2025/08/04/science/zoos-denmark-food-pets.html)
 * [2025-08-05, 19:19:25](https://news.ycombinator.com/item?id=44802916) - [The AI bubble is so big it's propping up the US economy (for now)](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
 * [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
