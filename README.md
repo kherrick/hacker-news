@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 06:37:15](https://news.ycombinator.com/item?id=44794943) - [Where to find ideas – by Rob Snyder](https://howtogrow.substack.com/p/where-to-find-ideas)
+* [2025-08-05, 05:31:47](https://news.ycombinator.com/item?id=44794615) - [Welcome to the IPv4 Games](https://ipv4.games/)
 * [2025-08-05, 05:05:23](https://news.ycombinator.com/item?id=44794508) - [Monitor your security cameras with locally processed AI](https://frigate.video/)
 * [2025-08-05, 04:13:43](https://news.ycombinator.com/item?id=44794271) - [PHP 8.5 adds pipe operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
 * [2025-08-05, 03:47:18](https://news.ycombinator.com/item?id=44794138) - [Kyoto University team develops pain reliever comparable to morphine](https://www.japantimes.co.jp/news/2025/08/05/japan/japan-new-painkiller-comparable-to-morphine/)
@@ -12,7 +14,6 @@
 * [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
 * [2025-08-04, 15:56:40](https://news.ycombinator.com/item?id=44787631) - [Qwen-Image: Crafting with native text rendering](https://qwenlm.github.io/blog/qwen-image/)
 * [2025-08-04, 15:41:30](https://news.ycombinator.com/item?id=44787374) - [Customizing tmux](https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/)
-* [2025-08-04, 14:33:49](https://news.ycombinator.com/item?id=44786367) - [Objects should shut up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
 * [2025-08-04, 14:09:33](https://news.ycombinator.com/item?id=44786005) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 13:05:08](https://news.ycombinator.com/item?id=44785224) - [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
@@ -24,7 +25,6 @@
 * [2025-08-02, 10:59:38](https://news.ycombinator.com/item?id=44766551) - [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
 * [2025-08-02, 02:33:21](https://news.ycombinator.com/item?id=44764465) - [Clojure Civitas – Publish Clojure Ideas and Explorations](https://github.com/ClojureCivitas/clojurecivitas.github.io)
 * [2025-08-01, 20:22:18](https://news.ycombinator.com/item?id=44762035) - [Using drone imagery and AI to rapidly assess damage after hurricanes and floods](https://stories.tamu.edu/news/2025/07/28/ai-turns-drone-footage-into-disaster-response-maps-in-minutes/)
-* [2025-08-01, 16:36:58](https://news.ycombinator.com/item?id=44759172) - [Deterministic Simulation Testing in Rust: A Theater of State Machines](https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust)
 * [2025-08-01, 15:41:50](https://news.ycombinator.com/item?id=44758463) - [OpenIPC: Open IP Camera Firmware](https://openipc.org/à)
 * [2025-08-01, 15:15:38](https://news.ycombinator.com/item?id=44758068) - [The history of the Schwartzian Transform (2016)](https://www.perl.com/article/the-history-of-the-schwartzian-transform/)
 * [2025-08-01, 14:22:45](https://news.ycombinator.com/item?id=44757249) - [Introduction to Unikernel: Building, deploying lightweight, secure applications](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
