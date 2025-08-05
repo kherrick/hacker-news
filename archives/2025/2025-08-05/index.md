@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 17:02:02](https://news.ycombinator.com/item?id=44800746) - [OpenAI Open Models](https://openai.com/open-models/)
 * [2025-08-05, 16:28:05](https://news.ycombinator.com/item?id=44800185) - [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
 * [2025-08-05, 16:18:57](https://news.ycombinator.com/item?id=44800051) - [Google agrees to pause AI workloads when power demand spikes](https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/)
 * [2025-08-05, 16:07:58](https://news.ycombinator.com/item?id=44799869) - [OpenAI Harmony](https://github.com/openai/harmony)
