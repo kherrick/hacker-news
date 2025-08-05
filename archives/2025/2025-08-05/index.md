@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 13:39:57](https://news.ycombinator.com/item?id=44797834) - [SimpleW – Web Server Library .NET Core](https://github.com/stratdev3/SimpleW)
+* [2025-08-05, 13:34:28](https://news.ycombinator.com/item?id=44797767) - [Itch.io seeks payment processors who work with with adult material](https://www.rockpapershotgun.com/itchio-are-seeking-out-new-payment-processors-who-are-more-comfortable-with-adult-material)
 * [2025-08-05, 13:19:08](https://news.ycombinator.com/item?id=44797628) - [Swarm robotics could spell the end of the assembly line](https://www.therobotreport.com/swarm-robotics-could-spell-end-aerospace-assembly-line/)
 * [2025-08-05, 12:59:01](https://news.ycombinator.com/item?id=44797466) - [Can you block it? A simple Ad Block Tester](https://canyoublockit.com/)
 * [2025-08-05, 12:53:15](https://news.ycombinator.com/item?id=44797408) - [TSMC says employees tried to steal trade secrets on iPhone 18 chip process](https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/)
