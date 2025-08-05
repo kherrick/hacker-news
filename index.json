@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-05, 17:18:37",
+      "https://news.ycombinator.com/item?id=44801027"
+    ],
+    [
+      "Consider using Zstandard and/or LZ4 instead of Deflate",
+      "https://github.com/w3c/png/issues/39"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 17:02:02",
       "https://news.ycombinator.com/item?id=44800746"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-08-05, 15:39:25",
-      "https://news.ycombinator.com/item?id=44799435"
-    ],
-    [
-      "GitHub pull requests are down",
-      "https://github.com/github/site-policy/pull/582"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 14:47:35",
       "https://news.ycombinator.com/item?id=44798705"
     ],
@@ -127,6 +127,16 @@
     [
       "No Comment (2010)",
       "https://prog21.dadgum.com/57.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 14:28:39",
+      "https://news.ycombinator.com/item?id=44798410"
+    ],
+    [
+      "Ozempic Shows Anti-Aging Effects in Trial, Reversing Biological Age by 3.1 Years",
+      "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "SimpleW – Web Server Library .NET Core",
       "https://github.com/stratdev3/SimpleW"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 12:59:01",
-      "https://news.ycombinator.com/item?id=44797466"
-    ],
-    [
-      "Can you block it? A simple Ad Block Tester",
-      "https://canyoublockit.com/"
     ]
   ],
   [
