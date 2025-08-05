@@ -10,6 +10,7 @@
 * [2025-08-02, 21:16:40](https://news.ycombinator.com/item?id=44771569) - [As a linguist, I want to find the words to measure chronic illness](https://thesicktimes.org/2025/08/01/as-a-linguist-i-want-to-find-the-words-to-measure-chronic-illness/)
 * [2025-08-02, 20:43:07](https://news.ycombinator.com/item?id=44771268) - [Show HN: Mathpad – Physical keypad for typing 100+ math symbols anywhere](https://www.crowdsupply.com/summa-cogni/mathpad)
 * [2025-08-02, 20:39:38](https://news.ycombinator.com/item?id=44771235) - [The \"cracked coder\" fetish: Epistemic arrogance in Silicon Valley](https://maxread.substack.com/p/the-cracked-coder-fetish)
+* [2025-08-02, 20:27:59](https://news.ycombinator.com/item?id=44771116) - [Cow vs. Water Buffalo Mozzarella](http://itscheese.com/reviews/mozzarella)
 * [2025-08-02, 20:21:38](https://news.ycombinator.com/item?id=44771060) - [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)
 * [2025-08-02, 19:01:58](https://news.ycombinator.com/item?id=44770372) - [Gigabyte removes PCIe 5.0 support from B650 motherboards in latest BIOS update](https://videocardz.com/newz/gigabyte-removes-unofficial-pcie-5-0-support-from-b650-motherboards-in-latest-bios-update)
 * [2025-08-02, 18:49:17](https://news.ycombinator.com/item?id=44770250) - [AWS deleted my 10-year account and all data without warning](https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/)

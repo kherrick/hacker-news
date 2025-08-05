@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 22:46:47](https://news.ycombinator.com/item?id=44805436) - [Quantum machine learning via vector embeddings](https://arxiv.org/abs/2508.00024)
 * [2025-08-05, 22:29:49](https://news.ycombinator.com/item?id=44805261) - [HHS Winds Down mRNA Vaccine Development Under BARDA](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)
 * [2025-08-05, 21:42:29](https://news.ycombinator.com/item?id=44804761) - [OpenAI's new open weight (Apache 2) models are good](https://simonwillison.net/2025/Aug/5/gpt-oss/)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
@@ -14,9 +15,8 @@
 * [2025-08-05, 16:28:05](https://news.ycombinator.com/item?id=44800185) - [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
 * [2025-08-05, 15:44:09](https://news.ycombinator.com/item?id=44799494) - [GitHub pull requests were down](https://www.githubstatus.com/incidents/6swp0zf7lk8h)
 * [2025-08-05, 15:42:40](https://news.ycombinator.com/item?id=44799479) - [Eleven Music](https://elevenlabs.io/blog/eleven-music-is-here)
-* [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos is capturing real-time images of explosions at 7mths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
+* [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos is capturing images of explosions at 7 millionths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
 * [2025-08-05, 14:38:36](https://news.ycombinator.com/item?id=44798553) - [Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases](https://github.com/stagewise-io/stagewise)
-* [2025-08-05, 14:30:19](https://news.ycombinator.com/item?id=44798434) - [No Comment (2010)](https://prog21.dadgum.com/57.html)
 * [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [Things that helped me get out of the AI 10x engineer imposter syndrome](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:08:52](https://news.ycombinator.com/item?id=44798166) - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 * [2025-08-05, 11:55:20](https://news.ycombinator.com/item?id=44796953) - [Build Your Own Lisp](https://www.buildyourownlisp.com/)
@@ -27,7 +27,7 @@
 * [2025-08-03, 18:59:47](https://news.ycombinator.com/item?id=44778810) - [Cannibal Modernity: Oswald de Andrade's Manifesto Antropófago (1928)](https://publicdomainreview.org/collection/manifesto-antropofago/)
 * [2025-08-03, 14:06:47](https://news.ycombinator.com/item?id=44776695) - [Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces](https://leftarcode.com/posts/afd-reverse-engineering-part1/)
 * [2025-08-03, 13:35:40](https://news.ycombinator.com/item?id=44776505) - [The mystery of Winston Churchill's dead platypus was unsolved until now](https://www.bbc.com/news/articles/cglzl1ez283o)
-* [2025-08-02, 16:06:33](https://news.ycombinator.com/item?id=44768745) - [The X11 Security extension from the 1990s](https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html)
+* [2025-08-02, 20:27:59](https://news.ycombinator.com/item?id=44771116) - [Cow vs. Water Buffalo Mozzarella](http://itscheese.com/reviews/mozzarella)
 * [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 
