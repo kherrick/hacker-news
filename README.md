@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
+* [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
 * [2025-08-05, 18:20:23](https://news.ycombinator.com/item?id=44802063) - [Show HN: I built a tool to replace capcut audio transcription](https://meetcosmos.com/free-audio-transcription/)
 * [2025-08-05, 18:14:41](https://news.ycombinator.com/item?id=44801980) - [Show HN: Tambo – build generative UX web apps](https://github.com/tambo-ai/tambo)
-* [2025-08-05, 17:57:55](https://news.ycombinator.com/item?id=44801718) - [The 'Contrarian Friend' Is Real, and They're Driving Everyone Crazy](https://www.self.com/story/contrarian-friend-trend)
-* [2025-08-05, 17:44:01](https://news.ycombinator.com/item?id=44801486) - [US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief](https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html)
 * [2025-08-05, 17:39:26](https://news.ycombinator.com/item?id=44801399) - [Show HN: Whittle – A Shrinking Word Game](https://playwhittle.com/)
 * [2025-08-05, 17:18:37](https://news.ycombinator.com/item?id=44801027) - [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
 * [2025-08-05, 17:14:00](https://news.ycombinator.com/item?id=44800943) - [Small Changes That Made Our Daily Stand-Ups More Useful](https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/)
@@ -29,7 +29,7 @@
 * [2025-08-05, 05:05:23](https://news.ycombinator.com/item?id=44794508) - [Monitor your security cameras with locally processed AI](https://frigate.video/)
 * [2025-08-05, 04:13:43](https://news.ycombinator.com/item?id=44794271) - [PHP 8.5 adds pipe operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
 * [2025-08-05, 01:43:40](https://news.ycombinator.com/item?id=44793446) - [Tell HN: Anthropic expires paid credits after a year](https://news.ycombinator.com/item?id=44793446)
-* [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
+* [2025-08-02, 16:06:33](https://news.ycombinator.com/item?id=44768745) - [The X11 SECURITY extension from the 1990ies](https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html)
 
 ## [Archives](archives/index.md)
 

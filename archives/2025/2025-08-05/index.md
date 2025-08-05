@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
+* [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
 * [2025-08-05, 18:20:23](https://news.ycombinator.com/item?id=44802063) - [Show HN: I built a tool to replace capcut audio transcription](https://meetcosmos.com/free-audio-transcription/)
 * [2025-08-05, 18:14:41](https://news.ycombinator.com/item?id=44801980) - [Show HN: Tambo – build generative UX web apps](https://github.com/tambo-ai/tambo)
 * [2025-08-05, 17:57:55](https://news.ycombinator.com/item?id=44801718) - [The 'Contrarian Friend' Is Real, and They're Driving Everyone Crazy](https://www.self.com/story/contrarian-friend-trend)
