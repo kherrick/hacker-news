@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-05, 13:19:08",
+      "https://news.ycombinator.com/item?id=44797628"
+    ],
+    [
+      "Swarm robotics could spell the end of the assembly line",
+      "https://www.therobotreport.com/swarm-robotics-could-spell-end-aerospace-assembly-line/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 12:59:01",
+      "https://news.ycombinator.com/item?id=44797466"
+    ],
+    [
+      "Can you block it? A simple Ad Block Tester",
+      "https://canyoublockit.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 12:53:15",
+      "https://news.ycombinator.com/item?id=44797408"
+    ],
+    [
+      "TSMC says employees tried to steal trade secrets on iPhone 18 chip process",
+      "https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 12:07:25",
       "https://news.ycombinator.com/item?id=44797050"
     ],
@@ -17,6 +47,16 @@
     [
       "Build Your Own Lisp",
       "https://www.buildyourownlisp.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 11:19:27",
+      "https://news.ycombinator.com/item?id=44796698"
+    ],
+    [
+      "More than two hard disks in DOS",
+      "https://www.os2museum.com/wp/more-than-two-hard-disks-in-dos/"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "Apache ECharts 6",
       "https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 05:31:47",
-      "https://news.ycombinator.com/item?id=44794615"
-    ],
-    [
-      "Welcome to the IPv4 Games",
-      "https://ipv4.games/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-08-04, 19:32:11",
-      "https://news.ycombinator.com/item?id=44790422"
-    ],
-    [
-      "Content-Aware Spaced Repetition",
-      "https://www.giacomoran.com/blog/content-aware-sr/"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 19:20:38",
       "https://news.ycombinator.com/item?id=44790271"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-08-04, 15:41:30",
-      "https://news.ycombinator.com/item?id=44787374"
-    ],
-    [
-      "Customizing tmux",
-      "https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 14:09:33",
       "https://news.ycombinator.com/item?id=44786005"
     ],
     [
       "How we made JSON.stringify more than twice as fast",
       "https://v8.dev/blog/json-stringify"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 13:39:30",
-      "https://news.ycombinator.com/item?id=44785636"
-    ],
-    [
-      "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
-      "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-08-02, 11:53:46",
+      "https://news.ycombinator.com/item?id=44766875"
+    ],
+    [
+      "Computer Interviews Chris Curry",
+      "https://computeradsfromthepast.substack.com/p/your-computer-interviewed-chris-curry"
+    ]
+  ],
+  [
+    [
       "2025-08-02, 09:06:47",
       "https://news.ycombinator.com/item?id=44765904"
     ],
@@ -277,16 +287,6 @@
     [
       "Clojure Civitas – Publish Clojure Ideas and Explorations",
       "https://github.com/ClojureCivitas/clojurecivitas.github.io"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 20:22:18",
-      "https://news.ycombinator.com/item?id=44762035"
-    ],
-    [
-      "Using drone imagery and AI to rapidly assess damage after hurricanes and floods",
-      "https://stories.tamu.edu/news/2025/07/28/ai-turns-drone-footage-into-disaster-response-maps-in-minutes/"
     ]
   ],
   [
