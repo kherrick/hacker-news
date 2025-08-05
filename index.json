@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-08-05, 14:10:42",
+      "https://news.ycombinator.com/item?id=44798189"
+    ],
+    [
+      "AI is not Making Engineers 10x as Productive",
+      "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 14:08:52",
+      "https://news.ycombinator.com/item?id=44798166"
+    ],
+    [
+      "Genie 3: A new frontier for world models",
+      "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 13:57:15",
+      "https://news.ycombinator.com/item?id=44798040"
+    ],
+    [
+      "Show HN: I built a text-based birthday reminder app",
+      "https://birthdays.app"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 13:57:00",
+      "https://news.ycombinator.com/item?id=44798035"
+    ],
+    [
+      "Proxmox Virtual Environment 9.0 with Debian 13 released",
+      "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 13:46:30",
+      "https://news.ycombinator.com/item?id=44797917"
+    ],
+    [
+      "AI Stands for Artificial Inanity",
+      "https://lambdaland.org/posts/2025-08-04_artifical_inanity/"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 13:39:57",
       "https://news.ycombinator.com/item?id=44797834"
     ],
@@ -11,22 +61,22 @@
   ],
   [
     [
+      "2025-08-05, 13:35:42",
+      "https://news.ycombinator.com/item?id=44797784"
+    ],
+    [
+      "Backblaze Drive Stats for Q2 2025",
+      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2025/"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 13:34:28",
       "https://news.ycombinator.com/item?id=44797767"
     ],
     [
       "Itch.io seeks payment processors who work with with adult material",
       "https://www.rockpapershotgun.com/itchio-are-seeking-out-new-payment-processors-who-are-more-comfortable-with-adult-material"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 13:19:08",
-      "https://news.ycombinator.com/item?id=44797628"
-    ],
-    [
-      "Swarm robotics could spell the end of the assembly line",
-      "https://www.therobotreport.com/swarm-robotics-could-spell-end-aerospace-assembly-line/"
     ]
   ],
   [
@@ -151,32 +201,12 @@
   ],
   [
     [
-      "2025-08-04, 22:24:20",
-      "https://news.ycombinator.com/item?id=44792005"
-    ],
-    [
-      "Show HN: I've been building an ERP for manufacturing for the last 3 years",
-      "https://github.com/crbnos/carbon"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 22:22:00",
       "https://news.ycombinator.com/item?id=44791984"
     ],
     [
       "Thingino: Open-Source Firmware for IP Cameras",
       "https://thingino.com/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 17:39:59",
-      "https://news.ycombinator.com/item?id=44789068"
-    ],
-    [
-      "Ask HN: What trick of the trade took you too long to learn?",
-      "https://news.ycombinator.com/item?id=44789068"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2025-08-04, 12:10:22",
-      "https://news.ycombinator.com/item?id=44784743"
-    ],
-    [
-      "DrawAFish.com Postmortem",
-      "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 21:16:40",
-      "https://news.ycombinator.com/item?id=44771569"
-    ],
-    [
-      "As a linguist, I want to find the words to measure chronic illness",
-      "https://thesicktimes.org/2025/08/01/as-a-linguist-i-want-to-find-the-words-to-measure-chronic-illness/"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 18:45:14",
       "https://news.ycombinator.com/item?id=44770215"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2025-08-02, 16:10:28",
-      "https://news.ycombinator.com/item?id=44768778"
-    ],
-    [
-      "Weather satellites detect 515-mile-long lightning flash",
-      "https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 11:53:46",
       "https://news.ycombinator.com/item?id=44766875"
     ],
     [
       "Chris Curry interviewed by Your Computer magazine (1981)",
       "https://computeradsfromthepast.substack.com/p/your-computer-interviewed-chris-curry"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 09:30:49",
+      "https://news.ycombinator.com/item?id=44766031"
+    ],
+    [
+      "Tell HN: I underestimated how lonely building solo can be",
+      "https://news.ycombinator.com/item?id=44766031"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Clojure Civitas – Publish Clojure Ideas and Explorations",
       "https://github.com/ClojureCivitas/clojurecivitas.github.io"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 15:41:50",
-      "https://news.ycombinator.com/item?id=44758463"
-    ],
-    [
-      "OpenIPC: Open IP Camera Firmware",
-      "https://openipc.org/à"
     ]
   ]
 ]
