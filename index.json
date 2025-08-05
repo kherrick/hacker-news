@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=44803196"
     ],
     [
-      "New Database Reveals 1.5M Pages of Once-Secret Police Use of Force Records",
+      "A new database on police use of force and misconduct in California",
       "https://journalism.berkeley.edu/police-records-access/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 19:29:04",
+      "https://news.ycombinator.com/item?id=44803065"
+    ],
+    [
+      "A zoo in Denmark wants to feed your pets to its predators",
+      "https://www.nytimes.com/2025/08/04/science/zoos-denmark-food-pets.html"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44802916"
     ],
     [
-      "The AI bubble is so big it's propping up the US economy (for now)",
+      "The AI bubble is so big it's propping up the US economy",
       "https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44802886"
     ],
     [
-      "TIL that You can spot base64 encoded JSON, certificates, and private keys",
+      "Base64 encoded JSON, certificates, and private keys",
       "https://ergaster.org/til/base64-encoded-json/"
     ]
   ],
@@ -47,6 +57,16 @@
     [
       "Show HN: I built a tool to replace capcut audio transcription",
       "https://meetcosmos.com/free-audio-transcription/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 17:44:01",
+      "https://news.ycombinator.com/item?id=44801486"
+    ],
+    [
+      "US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief",
+      "https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44800943"
     ],
     [
-      "Small Changes That Made Our Daily Stand-Ups More Useful",
+      "Small changes that made our daily stand-ups more useful",
       "https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-08-05, 14:47:35",
-      "https://news.ycombinator.com/item?id=44798705"
-    ],
-    [
-      "US Coast Guard Report on Titan Submersible",
-      "https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 14:47:07",
       "https://news.ycombinator.com/item?id=44798695"
     ],
@@ -185,8 +195,18 @@
       "https://news.ycombinator.com/item?id=44798410"
     ],
     [
-      "Ozempic Shows Anti-Aging Effects in Trial, Reversing Biological Age by 3.1 Years",
+      "Ozempic shows anti-aging effects in trial",
       "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 14:12:51",
+      "https://news.ycombinator.com/item?id=44798215"
+    ],
+    [
+      "I dumped Google for Kagi",
+      "https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/"
     ]
   ],
   [
@@ -251,26 +271,6 @@
   ],
   [
     [
-      "2025-08-05, 05:05:23",
-      "https://news.ycombinator.com/item?id=44794508"
-    ],
-    [
-      "Monitor your security cameras with locally processed AI",
-      "https://frigate.video/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 04:13:43",
-      "https://news.ycombinator.com/item?id=44794271"
-    ],
-    [
-      "PHP 8.5 adds pipe operator",
-      "https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 01:43:40",
       "https://news.ycombinator.com/item?id=44793446"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=44768745"
     ],
     [
-      "The X11 SECURITY extension from the 1990ies",
+      "The X11 Security extension from the 1990s",
       "https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html"
     ]
   ]
