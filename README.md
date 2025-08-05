@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-05, 22:29:49](https://news.ycombinator.com/item?id=44805261) - [HHS Winds Down mRNA Vaccine Development Under BARDA](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)
+* [2025-08-05, 21:42:29](https://news.ycombinator.com/item?id=44804761) - [OpenAI's new open weight (Apache 2) models are good](https://simonwillison.net/2025/Aug/5/gpt-oss/)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
 * [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
 * [2025-08-05, 20:46:38](https://news.ycombinator.com/item?id=44804043) - [What's wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
-* [2025-08-05, 20:32:58](https://news.ycombinator.com/item?id=44803885) - [Germany's identity crisis: The trains no longer run on time](https://www.washingtonpost.com/world/2025/08/05/germany-trains-delays-broken-railroad/)
 * [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [Spotting base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
 * [2025-08-05, 17:44:01](https://news.ycombinator.com/item?id=44801486) - [US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief](https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html)
