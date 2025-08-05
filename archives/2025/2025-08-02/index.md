@@ -61,6 +61,7 @@
 * [2025-08-02, 06:34:25](https://news.ycombinator.com/item?id=44765292) - [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
 * [2025-08-02, 06:28:31](https://news.ycombinator.com/item?id=44765264) - [Terence Tao weighs in on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
 * [2025-08-02, 06:03:23](https://news.ycombinator.com/item?id=44765193) - [At $250M, top AI salaries dwarf the Manhattan Project and the Space Race](https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/)
+* [2025-08-02, 04:03:52](https://news.ycombinator.com/item?id=44764823) - [Before Sebald Was Great](https://www.thenation.com/article/culture/wg-sebald-silent-catastrophes/)
 * [2025-08-02, 03:31:50](https://news.ycombinator.com/item?id=44764696) - [A dedicated skin-to-brain circuit for cool sensation in mice](https://www.sciencedaily.com/releases/2025/07/250730030354.htm)
 * [2025-08-02, 02:57:27](https://news.ycombinator.com/item?id=44764568) - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 * [2025-08-02, 02:35:56](https://news.ycombinator.com/item?id=44764479) - [Peak Energy just shipped the US's first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
