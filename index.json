@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-05, 16:28:05",
+      "https://news.ycombinator.com/item?id=44800185"
+    ],
+    [
+      "Claude Opus 4.1",
+      "https://www.anthropic.com/news/claude-opus-4-1"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 16:18:57",
+      "https://news.ycombinator.com/item?id=44800051"
+    ],
+    [
+      "Google agrees to pause AI workloads when power demand spikes",
+      "https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 16:07:58",
       "https://news.ycombinator.com/item?id=44799869"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2025-08-05, 15:42:40",
+      "https://news.ycombinator.com/item?id=44799479"
+    ],
+    [
+      "Eleven Music Is Here",
+      "https://elevenlabs.io/blog/eleven-music-is-here"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 15:39:25",
       "https://news.ycombinator.com/item?id=44799435"
     ],
@@ -85,8 +115,18 @@
       "https://news.ycombinator.com/item?id=44798695"
     ],
     [
-      "Los Alamos Is Capturing Real-Time Images of Explosions at 7Mths of a Second",
+      "Los Alamos is capturing real-time images of explosions at 7mths of a second",
       "https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 14:38:36",
+      "https://news.ycombinator.com/item?id=44798553"
+    ],
+    [
+      "Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases",
+      "https://github.com/stagewise-io/stagewise"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2025-08-05, 06:37:15",
-      "https://news.ycombinator.com/item?id=44794943"
-    ],
-    [
-      "Where to find ideas",
-      "https://howtogrow.substack.com/p/where-to-find-ideas"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 06:33:04",
       "https://news.ycombinator.com/item?id=44794926"
     ],
@@ -251,26 +281,6 @@
   ],
   [
     [
-      "2025-08-04, 16:16:21",
-      "https://news.ycombinator.com/item?id=44787902"
-    ],
-    [
-      "Show HN: I spent 6 years building a ridiculous wooden pixel display",
-      "https://benholmen.com/blog/kilopixel/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 14:09:33",
-      "https://news.ycombinator.com/item?id=44786005"
-    ],
-    [
-      "How we made JSON.stringify more than twice as fast",
-      "https://v8.dev/blog/json-stringify"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 06:18:24",
       "https://news.ycombinator.com/item?id=44782596"
     ],
@@ -287,16 +297,6 @@
     [
       "A Carnival Attraction That Saved Premature Babies (2016)",
       "https://www.smithsonianmag.com/history/man-who-pretended-be-doctor-ran-worlds-fair-attraction-saved-lives-thousands-premature-babies-180960200/"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 11:53:46",
-      "https://news.ycombinator.com/item?id=44766875"
-    ],
-    [
-      "Chris Curry interviewed by Your Computer magazine (1981)",
-      "https://computeradsfromthepast.substack.com/p/your-computer-interviewed-chris-curry"
     ]
   ]
 ]
