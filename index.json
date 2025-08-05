@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-08-05, 12:07:25",
+      "https://news.ycombinator.com/item?id=44797050"
+    ],
+    [
+      "C10kday",
+      "https://daniel.haxx.se/blog/2025/08/05/c10kday/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 11:55:20",
+      "https://news.ycombinator.com/item?id=44796953"
+    ],
+    [
+      "Build Your Own Lisp",
+      "https://www.buildyourownlisp.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 10:56:07",
+      "https://news.ycombinator.com/item?id=44796526"
+    ],
+    [
+      "Scientific fraud has become an 'industry,' alarming analysis finds",
+      "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 09:01:54",
       "https://news.ycombinator.com/item?id=44795825"
     ],
     [
       "uBlock Origin Lite now available for Safari",
-      "https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698"
+      "https://apps.apple.com/app/ublock-origin-lite/id6745342698"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44794926"
     ],
     [
-      "Apache ECharts 6 New Features",
+      "Apache ECharts 6",
       "https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/"
     ]
   ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-08-04, 12:48:19",
-      "https://news.ycombinator.com/item?id=44785080"
-    ],
-    [
-      "Is the interstellar object 3I/ATLAS alien technology? [pdf]",
-      "https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 12:10:22",
       "https://news.ycombinator.com/item?id=44784743"
     ],
@@ -225,7 +245,7 @@
       "https://news.ycombinator.com/item?id=44768778"
     ],
     [
-      "New world record Weather satellites detect 515-mile-long lightning flash",
+      "Weather satellites detect 515-mile-long lightning flash",
       "https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash"
     ]
   ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2025-08-02, 10:59:38",
-      "https://news.ycombinator.com/item?id=44766551"
+      "2025-08-02, 09:06:47",
+      "https://news.ycombinator.com/item?id=44765904"
     ],
     [
-      "Hiroshima (1946)",
-      "https://www.newyorker.com/magazine/1946/08/31/hiroshima"
+      "The Disappearance of Saturday Morning (2003)",
+      "https://www.awn.com/animationworld/disappearance-saturday-morning"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "OpenIPC: Open IP Camera Firmware",
       "https://openipc.org/à"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 15:15:38",
-      "https://news.ycombinator.com/item?id=44758068"
-    ],
-    [
-      "The history of the Schwartzian Transform (2016)",
-      "https://www.perl.com/article/the-history-of-the-schwartzian-transform/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 14:22:45",
-      "https://news.ycombinator.com/item?id=44757249"
-    ],
-    [
-      "Introduction to Unikernel: Building, deploying lightweight, secure applications",
-      "https://tallysolutions.com/technology/introduction-to-unikernel-2/"
     ]
   ]
 ]
