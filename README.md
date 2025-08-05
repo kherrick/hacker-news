@@ -2,7 +2,6 @@
 
 * [2025-08-05, 22:46:47](https://news.ycombinator.com/item?id=44805436) - [Quantum machine learning via vector embeddings](https://arxiv.org/abs/2508.00024)
 * [2025-08-05, 22:29:49](https://news.ycombinator.com/item?id=44805261) - [HHS Winds Down mRNA Vaccine Development Under BARDA](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)
-* [2025-08-05, 21:42:29](https://news.ycombinator.com/item?id=44804761) - [OpenAI's new open weight (Apache 2) models are good](https://simonwillison.net/2025/Aug/5/gpt-oss/)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
 * [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
 * [2025-08-05, 20:46:38](https://news.ycombinator.com/item?id=44804043) - [What's wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
@@ -17,6 +16,7 @@
 * [2025-08-05, 15:42:40](https://news.ycombinator.com/item?id=44799479) - [Eleven Music](https://elevenlabs.io/blog/eleven-music-is-here)
 * [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos is capturing images of explosions at 7 millionths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
 * [2025-08-05, 14:38:36](https://news.ycombinator.com/item?id=44798553) - [Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases](https://github.com/stagewise-io/stagewise)
+* [2025-08-05, 14:30:19](https://news.ycombinator.com/item?id=44798434) - [No Comment (2010)](https://prog21.dadgum.com/57.html)
 * [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [Things that helped me get out of the AI 10x engineer imposter syndrome](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:08:52](https://news.ycombinator.com/item?id=44798166) - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 * [2025-08-05, 11:55:20](https://news.ycombinator.com/item?id=44796953) - [Build Your Own Lisp](https://www.buildyourownlisp.com/)
