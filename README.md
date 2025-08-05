@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 10:13:23](https://news.ycombinator.com/item?id=44796281) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
 * [2025-08-05, 09:01:54](https://news.ycombinator.com/item?id=44795825) - [uBlock Origin Lite now available for Safari](https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698)
 * [2025-08-05, 06:37:15](https://news.ycombinator.com/item?id=44794943) - [Where to find ideas – by Rob Snyder](https://howtogrow.substack.com/p/where-to-find-ideas)
 * [2025-08-05, 06:33:04](https://news.ycombinator.com/item?id=44794926) - [Apache ECharts 6 New Features](https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/)
@@ -15,13 +16,13 @@
 * [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
 * [2025-08-04, 15:56:40](https://news.ycombinator.com/item?id=44787631) - [Qwen-Image: Crafting with native text rendering](https://qwenlm.github.io/blog/qwen-image/)
 * [2025-08-04, 15:41:30](https://news.ycombinator.com/item?id=44787374) - [Customizing tmux](https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/)
-* [2025-08-04, 14:33:49](https://news.ycombinator.com/item?id=44786367) - [Objects should shut up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
 * [2025-08-04, 14:09:33](https://news.ycombinator.com/item?id=44786005) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 12:48:19](https://news.ycombinator.com/item?id=44785080) - [Is the interstellar object 3I/ATLAS alien technology? [pdf]](https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf)
 * [2025-08-04, 12:10:22](https://news.ycombinator.com/item?id=44784743) - [DrawAFish.com Postmortem](https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html)
 * [2025-08-02, 21:16:40](https://news.ycombinator.com/item?id=44771569) - [As a linguist, I want to find the words to measure chronic illness](https://thesicktimes.org/2025/08/01/as-a-linguist-i-want-to-find-the-words-to-measure-chronic-illness/)
 * [2025-08-02, 17:32:25](https://news.ycombinator.com/item?id=44769547) - [I tried to replace myself with ChatGPT in my English class](https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/)
+* [2025-08-02, 16:10:28](https://news.ycombinator.com/item?id=44768778) - [New world record Weather satellites detect 515-mile-long lightning flash](https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash)
 * [2025-08-02, 14:03:06](https://news.ycombinator.com/item?id=44767727) - [Indian Sign Painting: A typeface designer's take on the craft](https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/)
 * [2025-08-02, 10:59:38](https://news.ycombinator.com/item?id=44766551) - [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
 * [2025-08-02, 02:33:21](https://news.ycombinator.com/item?id=44764465) - [Clojure Civitas – Publish Clojure Ideas and Explorations](https://github.com/ClojureCivitas/clojurecivitas.github.io)
@@ -29,7 +30,6 @@
 * [2025-08-01, 15:41:50](https://news.ycombinator.com/item?id=44758463) - [OpenIPC: Open IP Camera Firmware](https://openipc.org/à)
 * [2025-08-01, 15:15:38](https://news.ycombinator.com/item?id=44758068) - [The history of the Schwartzian Transform (2016)](https://www.perl.com/article/the-history-of-the-schwartzian-transform/)
 * [2025-08-01, 14:22:45](https://news.ycombinator.com/item?id=44757249) - [Introduction to Unikernel: Building, deploying lightweight, secure applications](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
-* [2025-07-31, 19:31:39](https://news.ycombinator.com/item?id=44749211) - [What Can a Cell Remember?](https://www.quantamagazine.org/what-can-a-cell-remember-20250730/)
 
 ## [Archives](archives/index.md)
 

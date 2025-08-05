@@ -20,6 +20,7 @@
 * [2025-08-02, 16:52:57](https://news.ycombinator.com/item?id=44769145) - [Linear Types for Programmers](https://twey.io/for-programmers/linear-types/)
 * [2025-08-02, 16:40:51](https://news.ycombinator.com/item?id=44769039) - [Telo MT1](https://www.telotrucks.com/)
 * [2025-08-02, 16:37:35](https://news.ycombinator.com/item?id=44769009) - [The creative tension between developer and language](https://krishna.github.io/posts/creative-tension-between-developer-and-language/)
+* [2025-08-02, 16:10:28](https://news.ycombinator.com/item?id=44768778) - [New world record Weather satellites detect 515-mile-long lightning flash](https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash)
 * [2025-08-02, 16:03:31](https://news.ycombinator.com/item?id=44768714) - [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
 * [2025-08-02, 16:02:16](https://news.ycombinator.com/item?id=44768704) - [Why Exercise Is a Miracle Drug](https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise)
 * [2025-08-02, 15:59:51](https://news.ycombinator.com/item?id=44768677) - [How to reverse engineer an analog chip: the TDA7000 FM radio receiver](https://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html)
