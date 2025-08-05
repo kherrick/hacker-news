@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 19:19:25](https://news.ycombinator.com/item?id=44802916) - [The AI bubble is so big it's propping up the US economy (for now)](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
 * [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
 * [2025-08-05, 18:20:23](https://news.ycombinator.com/item?id=44802063) - [Show HN: I built a tool to replace capcut audio transcription](https://meetcosmos.com/free-audio-transcription/)
-* [2025-08-05, 18:14:41](https://news.ycombinator.com/item?id=44801980) - [Show HN: Tambo – build generative UX web apps](https://github.com/tambo-ai/tambo)
 * [2025-08-05, 17:39:26](https://news.ycombinator.com/item?id=44801399) - [Show HN: Whittle – A Shrinking Word Game](https://playwhittle.com/)
 * [2025-08-05, 17:18:37](https://news.ycombinator.com/item?id=44801027) - [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
 * [2025-08-05, 17:14:00](https://news.ycombinator.com/item?id=44800943) - [Small Changes That Made Our Daily Stand-Ups More Useful](https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/)
@@ -17,7 +17,6 @@
 * [2025-08-05, 15:42:40](https://news.ycombinator.com/item?id=44799479) - [Eleven Music](https://elevenlabs.io/blog/eleven-music-is-here)
 * [2025-08-05, 14:47:35](https://news.ycombinator.com/item?id=44798705) - [US Coast Guard Report on Titan Submersible](https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/)
 * [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos is capturing real-time images of explosions at 7mths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
-* [2025-08-05, 14:30:19](https://news.ycombinator.com/item?id=44798434) - [No Comment (2010)](https://prog21.dadgum.com/57.html)
 * [2025-08-05, 14:28:39](https://news.ycombinator.com/item?id=44798410) - [Ozempic Shows Anti-Aging Effects in Trial, Reversing Biological Age by 3.1 Years](https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years)
 * [2025-08-05, 14:12:51](https://news.ycombinator.com/item?id=44798215) - [I dumped Google for Kagi](https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/)
 * [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [Things that helped me get out of the AI 10x engineer imposter syndrome](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
@@ -29,6 +28,7 @@
 * [2025-08-05, 05:05:23](https://news.ycombinator.com/item?id=44794508) - [Monitor your security cameras with locally processed AI](https://frigate.video/)
 * [2025-08-05, 04:13:43](https://news.ycombinator.com/item?id=44794271) - [PHP 8.5 adds pipe operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
 * [2025-08-05, 01:43:40](https://news.ycombinator.com/item?id=44793446) - [Tell HN: Anthropic expires paid credits after a year](https://news.ycombinator.com/item?id=44793446)
+* [2025-08-03, 17:27:33](https://news.ycombinator.com/item?id=44778149) - [Create space-saving clones on macOS with Python](https://alexwlchan.net/2025/cloning-with-python/)
 * [2025-08-02, 16:06:33](https://news.ycombinator.com/item?id=44768745) - [The X11 SECURITY extension from the 1990ies](https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html)
 
 ## [Archives](archives/index.md)
