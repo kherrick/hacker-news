@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
+* [2025-08-05, 21:04:39](https://news.ycombinator.com/item?id=44804269) - [Trouble with Elections: Everything We Thought We Knew About Democracy Is Wrong](https://democracycreative.substack.com/p/the-trouble-with-elections)
 * [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
 * [2025-08-05, 20:46:38](https://news.ycombinator.com/item?id=44804043) - [What's wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
 * [2025-08-05, 20:32:58](https://news.ycombinator.com/item?id=44803885) - [Germany's identity crisis: The trains no longer run on time](https://www.washingtonpost.com/world/2025/08/05/germany-trains-delays-broken-railroad/)
@@ -16,7 +18,6 @@
 * [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos is capturing real-time images of explosions at 7mths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
 * [2025-08-05, 14:38:36](https://news.ycombinator.com/item?id=44798553) - [Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases](https://github.com/stagewise-io/stagewise)
 * [2025-08-05, 14:30:19](https://news.ycombinator.com/item?id=44798434) - [No Comment (2010)](https://prog21.dadgum.com/57.html)
-* [2025-08-05, 14:12:51](https://news.ycombinator.com/item?id=44798215) - [I dumped Google for Kagi](https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/)
 * [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [Things that helped me get out of the AI 10x engineer imposter syndrome](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:08:52](https://news.ycombinator.com/item?id=44798166) - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 * [2025-08-05, 11:55:20](https://news.ycombinator.com/item?id=44796953) - [Build Your Own Lisp](https://www.buildyourownlisp.com/)
@@ -25,7 +26,6 @@
 * [2025-08-05, 06:33:04](https://news.ycombinator.com/item?id=44794926) - [Apache ECharts 6](https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/)
 * [2025-08-05, 01:43:40](https://news.ycombinator.com/item?id=44793446) - [Tell HN: Anthropic expires paid credits after a year](https://news.ycombinator.com/item?id=44793446)
 * [2025-08-03, 18:59:47](https://news.ycombinator.com/item?id=44778810) - [Cannibal Modernity: Oswald de Andrade's Manifesto Antropófago (1928)](https://publicdomainreview.org/collection/manifesto-antropofago/)
-* [2025-08-03, 17:27:33](https://news.ycombinator.com/item?id=44778149) - [Create space-saving clones on macOS with Python](https://alexwlchan.net/2025/cloning-with-python/)
 * [2025-08-03, 14:06:47](https://news.ycombinator.com/item?id=44776695) - [Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces](https://leftarcode.com/posts/afd-reverse-engineering-part1/)
 * [2025-08-03, 13:35:40](https://news.ycombinator.com/item?id=44776505) - [The mystery of Winston Churchill's dead platypus was unsolved until now](https://www.bbc.com/news/articles/cglzl1ez283o)
 * [2025-08-02, 16:06:33](https://news.ycombinator.com/item?id=44768745) - [The X11 Security extension from the 1990s](https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html)

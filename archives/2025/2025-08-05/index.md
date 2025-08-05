@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
+* [2025-08-05, 21:04:39](https://news.ycombinator.com/item?id=44804269) - [Trouble with Elections: Everything We Thought We Knew About Democracy Is Wrong](https://democracycreative.substack.com/p/the-trouble-with-elections)
 * [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
 * [2025-08-05, 20:46:38](https://news.ycombinator.com/item?id=44804043) - [What's wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
 * [2025-08-05, 20:32:58](https://news.ycombinator.com/item?id=44803885) - [Germany's identity crisis: The trains no longer run on time](https://www.washingtonpost.com/world/2025/08/05/germany-trains-delays-broken-railroad/)
