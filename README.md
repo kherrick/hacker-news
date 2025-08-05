@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-05, 05:05:23](https://news.ycombinator.com/item?id=44794508) - [Monitor your security cameras with locally processed AI](https://frigate.video/)
-* [2025-08-05, 04:13:43](https://news.ycombinator.com/item?id=44794271) - [PHP 8.5 Adds Pipe Operator: What it means](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
+* [2025-08-05, 04:13:43](https://news.ycombinator.com/item?id=44794271) - [PHP 8.5 Adds Pipe Operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
 * [2025-08-05, 03:47:18](https://news.ycombinator.com/item?id=44794138) - [Kyoto University team develops pain reliever comparable to morphine](https://www.japantimes.co.jp/news/2025/08/05/japan/japan-new-painkiller-comparable-to-morphine/)
 * [2025-08-04, 23:16:12](https://news.ycombinator.com/item?id=44792441) - [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings)
 * [2025-08-04, 23:10:51](https://news.ycombinator.com/item?id=44792399) - [EconTeen – Financial literacy lessons and tools for teens](https://econteen.com/)
@@ -24,7 +24,7 @@
 * [2025-08-02, 17:32:25](https://news.ycombinator.com/item?id=44769547) - [I tried to replace myself with ChatGPT in my English class](https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/)
 * [2025-08-02, 14:03:06](https://news.ycombinator.com/item?id=44767727) - [Indian Sign Painting: A typeface designer's take on the craft](https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/)
 * [2025-08-02, 10:59:38](https://news.ycombinator.com/item?id=44766551) - [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
-* [2025-08-01, 20:22:18](https://news.ycombinator.com/item?id=44762035) - [AI Turns Drone Footage into Disaster Response Maps in Minutes](https://stories.tamu.edu/news/2025/07/28/ai-turns-drone-footage-into-disaster-response-maps-in-minutes/)
+* [2025-08-01, 20:22:18](https://news.ycombinator.com/item?id=44762035) - [Using drone imagery and AI to rapidly assess damage after hurricanes and floods](https://stories.tamu.edu/news/2025/07/28/ai-turns-drone-footage-into-disaster-response-maps-in-minutes/)
 * [2025-08-01, 16:36:58](https://news.ycombinator.com/item?id=44759172) - [Deterministic Simulation Testing in Rust: A Theater of State Machines](https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust)
 * [2025-08-01, 15:41:50](https://news.ycombinator.com/item?id=44758463) - [OpenIPC: Open IP Camera Firmware](https://openipc.org/à)
 * [2025-08-01, 15:15:38](https://news.ycombinator.com/item?id=44758068) - [The history of the Schwartzian Transform (2016)](https://www.perl.com/article/the-history-of-the-schwartzian-transform/)
