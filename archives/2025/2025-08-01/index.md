@@ -13,6 +13,7 @@
 * [2025-08-01, 20:56:28](https://news.ycombinator.com/item?id=44762397) - [Schematra: A Sinatra love letter in Scheme](https://github.com/rolandoam/schematra)
 * [2025-08-01, 20:45:59](https://news.ycombinator.com/item?id=44762299) - [Cloud Drawing Gallery](https://cloudgazing.online/)
 * [2025-08-01, 20:33:02](https://news.ycombinator.com/item?id=44762157) - [HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
+* [2025-08-01, 20:22:18](https://news.ycombinator.com/item?id=44762035) - [AI Turns Drone Footage into Disaster Response Maps in Minutes](https://stories.tamu.edu/news/2025/07/28/ai-turns-drone-footage-into-disaster-response-maps-in-minutes/)
 * [2025-08-01, 20:21:42](https://news.ycombinator.com/item?id=44762026) - [Researchers Map Where Solar Energy Delivers the Biggest Climate Payoff](https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff)
 * [2025-08-01, 20:21:29](https://news.ycombinator.com/item?id=44762022) - [Does the Bitter Lesson Have Limits?](https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html)
 * [2025-08-01, 20:01:53](https://news.ycombinator.com/item?id=44761760) - [When Flatpak's Sandbox Cracks](https://www.linuxjournal.com/content/when-flatpaks-sandbox-cracks-real-life-security-issues-beyond-ideal)
