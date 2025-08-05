@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 14:47:35](https://news.ycombinator.com/item?id=44798705) - [US Coast Guard Report on Titan Submersible](https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/)
+* [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos Is Capturing Real-Time Images of Explosions at 7Mths of a Second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
 * [2025-08-05, 14:30:19](https://news.ycombinator.com/item?id=44798434) - [No Comment](https://prog21.dadgum.com/57.html)
 * [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:08:52](https://news.ycombinator.com/item?id=44798166) - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
@@ -14,7 +16,6 @@
 * [2025-08-05, 12:07:25](https://news.ycombinator.com/item?id=44797050) - [C10kday](https://daniel.haxx.se/blog/2025/08/05/c10kday/)
 * [2025-08-05, 11:55:20](https://news.ycombinator.com/item?id=44796953) - [Build Your Own Lisp](https://www.buildyourownlisp.com/)
 * [2025-08-05, 11:19:27](https://news.ycombinator.com/item?id=44796698) - [More than two hard disks in DOS](https://www.os2museum.com/wp/more-than-two-hard-disks-in-dos/)
-* [2025-08-05, 10:56:07](https://news.ycombinator.com/item?id=44796526) - [Scientific fraud has become an 'industry,' alarming analysis finds](https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds)
 * [2025-08-05, 09:01:54](https://news.ycombinator.com/item?id=44795825) - [uBlock Origin Lite now available for Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698)
 * [2025-08-05, 06:37:15](https://news.ycombinator.com/item?id=44794943) - [Where to find ideas](https://howtogrow.substack.com/p/where-to-find-ideas)
 * [2025-08-05, 06:33:04](https://news.ycombinator.com/item?id=44794926) - [Apache ECharts 6](https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/)
@@ -24,11 +25,10 @@
 * [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
 * [2025-08-04, 15:56:40](https://news.ycombinator.com/item?id=44787631) - [Qwen-Image: Crafting with native text rendering](https://qwenlm.github.io/blog/qwen-image/)
 * [2025-08-04, 14:09:33](https://news.ycombinator.com/item?id=44786005) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
+* [2025-08-04, 06:18:24](https://news.ycombinator.com/item?id=44782596) - [The Age of Bronze and Steel](https://blog.zarfhome.com/2025/08/age-of-bronze-and-steel)
 * [2025-08-02, 18:45:14](https://news.ycombinator.com/item?id=44770215) - [A Carnival Attraction That Saved Premature Babies (2016)](https://www.smithsonianmag.com/history/man-who-pretended-be-doctor-ran-worlds-fair-attraction-saved-lives-thousands-premature-babies-180960200/)
 * [2025-08-02, 17:32:25](https://news.ycombinator.com/item?id=44769547) - [I tried to replace myself with ChatGPT in my English class](https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/)
-* [2025-08-02, 16:10:28](https://news.ycombinator.com/item?id=44768778) - [Weather satellites detect 515-mile-long lightning flash](https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash)
 * [2025-08-02, 11:53:46](https://news.ycombinator.com/item?id=44766875) - [Chris Curry interviewed by Your Computer magazine (1981)](https://computeradsfromthepast.substack.com/p/your-computer-interviewed-chris-curry)
-* [2025-08-02, 09:30:49](https://news.ycombinator.com/item?id=44766031) - [Tell HN: I underestimated how lonely building solo can be](https://news.ycombinator.com/item?id=44766031)
 * [2025-08-02, 09:06:47](https://news.ycombinator.com/item?id=44765904) - [The Disappearance of Saturday Morning (2003)](https://www.awn.com/animationworld/disappearance-saturday-morning)
 
 ## [Archives](archives/index.md)
