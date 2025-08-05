@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 15:39:25](https://news.ycombinator.com/item?id=44799435) - [GitHub Pull Requests Are Down](https://github.com/github/site-policy/pull/582)
 * [2025-08-05, 14:47:35](https://news.ycombinator.com/item?id=44798705) - [US Coast Guard Report on Titan Submersible](https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/)
 * [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos Is Capturing Real-Time Images of Explosions at 7Mths of a Second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
 * [2025-08-05, 14:30:19](https://news.ycombinator.com/item?id=44798434) - [No Comment](https://prog21.dadgum.com/57.html)
