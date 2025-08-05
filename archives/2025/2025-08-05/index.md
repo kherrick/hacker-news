@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 22:29:49](https://news.ycombinator.com/item?id=44805261) - [HHS Winds Down mRNA Vaccine Development Under Barda](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
 * [2025-08-05, 21:04:39](https://news.ycombinator.com/item?id=44804269) - [Trouble with Elections: Everything We Thought We Knew About Democracy Is Wrong](https://democracycreative.substack.com/p/the-trouble-with-elections)
 * [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)

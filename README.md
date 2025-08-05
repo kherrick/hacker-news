@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-05, 22:29:49](https://news.ycombinator.com/item?id=44805261) - [HHS Winds Down mRNA Vaccine Development Under Barda](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
-* [2025-08-05, 21:04:39](https://news.ycombinator.com/item?id=44804269) - [Trouble with Elections: Everything We Thought We Knew About Democracy Is Wrong](https://democracycreative.substack.com/p/the-trouble-with-elections)
 * [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
 * [2025-08-05, 20:46:38](https://news.ycombinator.com/item?id=44804043) - [What's wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
 * [2025-08-05, 20:32:58](https://news.ycombinator.com/item?id=44803885) - [Germany's identity crisis: The trains no longer run on time](https://www.washingtonpost.com/world/2025/08/05/germany-trains-delays-broken-railroad/)
-* [2025-08-05, 19:38:25](https://news.ycombinator.com/item?id=44803196) - [A new database on police use of force and misconduct in California](https://journalism.berkeley.edu/police-records-access/)
 * [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [Spotting base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
 * [2025-08-05, 17:44:01](https://news.ycombinator.com/item?id=44801486) - [US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief](https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html)
@@ -30,6 +29,7 @@
 * [2025-08-03, 13:35:40](https://news.ycombinator.com/item?id=44776505) - [The mystery of Winston Churchill's dead platypus was unsolved until now](https://www.bbc.com/news/articles/cglzl1ez283o)
 * [2025-08-02, 16:06:33](https://news.ycombinator.com/item?id=44768745) - [The X11 Security extension from the 1990s](https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html)
 * [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
+* [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 
 ## [Archives](archives/index.md)
 
