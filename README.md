@@ -19,6 +19,7 @@
 * [2025-08-04, 13:05:08](https://news.ycombinator.com/item?id=44785224) - [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
 * [2025-08-04, 12:48:19](https://news.ycombinator.com/item?id=44785080) - [Is the interstellar object 3I/ATLAS alien technology? [pdf]](https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf)
 * [2025-08-04, 12:10:22](https://news.ycombinator.com/item?id=44784743) - [DrawAFish.com Postmortem](https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html)
+* [2025-08-02, 21:16:40](https://news.ycombinator.com/item?id=44771569) - [As a linguist, I want to find the words to measure chronic illness](https://thesicktimes.org/2025/08/01/as-a-linguist-i-want-to-find-the-words-to-measure-chronic-illness/)
 * [2025-08-02, 17:32:25](https://news.ycombinator.com/item?id=44769547) - [I tried to replace myself with ChatGPT in my English class](https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/)
 * [2025-08-02, 14:03:06](https://news.ycombinator.com/item?id=44767727) - [Indian Sign Painting: A typeface designer's take on the craft](https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/)
 * [2025-08-02, 12:46:37](https://news.ycombinator.com/item?id=44767163) - [Lamport's Byzantine Generals Algorithm in Python](https://bytepawn.com/lamport-byzantine-generals.html)
@@ -28,7 +29,6 @@
 * [2025-08-01, 15:41:50](https://news.ycombinator.com/item?id=44758463) - [OpenIPC: Open IP Camera Firmware](https://openipc.org/à)
 * [2025-08-01, 15:15:38](https://news.ycombinator.com/item?id=44758068) - [The history of the Schwartzian Transform (2016)](https://www.perl.com/article/the-history-of-the-schwartzian-transform/)
 * [2025-08-01, 14:22:45](https://news.ycombinator.com/item?id=44757249) - [Introduction to Unikernel: Building, deploying lightweight, secure applications](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
-* [2025-08-01, 11:32:52](https://news.ycombinator.com/item?id=44755394) - [Cellular Starlink expands to support IoT devices](https://me.pcmag.com/en/networking/31452/spacexs-cellular-starlink-expands-to-support-iot-devices)
 * [2025-07-31, 19:31:39](https://news.ycombinator.com/item?id=44749211) - [What Can a Cell Remember?](https://www.quantamagazine.org/what-can-a-cell-remember-20250730/)
 
 ## [Archives](archives/index.md)

@@ -7,6 +7,7 @@
 * [2025-08-02, 22:37:01](https://news.ycombinator.com/item?id=44772249) - [The Crisis of Professional Skepticism](https://mitchhorowitz.substack.com/p/the-crisis-of-professional-skepticism)
 * [2025-08-02, 22:26:47](https://news.ycombinator.com/item?id=44772177) - [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
 * [2025-08-02, 21:39:42](https://news.ycombinator.com/item?id=44771808) - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
+* [2025-08-02, 21:16:40](https://news.ycombinator.com/item?id=44771569) - [As a linguist, I want to find the words to measure chronic illness](https://thesicktimes.org/2025/08/01/as-a-linguist-i-want-to-find-the-words-to-measure-chronic-illness/)
 * [2025-08-02, 20:43:07](https://news.ycombinator.com/item?id=44771268) - [Show HN: Mathpad – Physical keypad for typing 100+ math symbols anywhere](https://www.crowdsupply.com/summa-cogni/mathpad)
 * [2025-08-02, 20:39:38](https://news.ycombinator.com/item?id=44771235) - [The \"cracked coder\" fetish: Epistemic arrogance in Silicon Valley](https://maxread.substack.com/p/the-cracked-coder-fetish)
 * [2025-08-02, 20:21:38](https://news.ycombinator.com/item?id=44771060) - [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)
