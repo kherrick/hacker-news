@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-05, 19:17:38",
+      "https://news.ycombinator.com/item?id=44802886"
+    ],
+    [
+      "TIL that You can spot base64 encoded JSON, certificates, and private keys",
+      "https://ergaster.org/til/base64-encoded-json/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 18:46:18",
+      "https://news.ycombinator.com/item?id=44802414"
+    ],
+    [
+      "Ollama Turbo",
+      "https://ollama.com/turbo"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 18:20:23",
       "https://news.ycombinator.com/item?id=44802063"
     ],
@@ -17,26 +37,6 @@
     [
       "Show HN: Tambo – build generative UX web apps",
       "https://github.com/tambo-ai/tambo"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 17:57:55",
-      "https://news.ycombinator.com/item?id=44801718"
-    ],
-    [
-      "The 'Contrarian Friend' Is Real, and They're Driving Everyone Crazy",
-      "https://www.self.com/story/contrarian-friend-trend"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 17:44:01",
-      "https://news.ycombinator.com/item?id=44801486"
-    ],
-    [
-      "US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief",
-      "https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-02, 11:37:00",
-      "https://news.ycombinator.com/item?id=44766771"
+      "2025-08-02, 16:06:33",
+      "https://news.ycombinator.com/item?id=44768745"
     ],
     [
-      "Ask HN: Have you ever regretted open-sourcing something?",
-      "https://news.ycombinator.com/item?id=44766771"
+      "The X11 SECURITY extension from the 1990ies",
+      "https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html"
     ]
   ]
 ]
