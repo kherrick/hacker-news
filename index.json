@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-05, 17:57:55",
+      "https://news.ycombinator.com/item?id=44801718"
+    ],
+    [
+      "The 'Contrarian Friend' Is Real, and They're Driving Everyone Crazy",
+      "https://www.self.com/story/contrarian-friend-trend"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 17:44:01",
       "https://news.ycombinator.com/item?id=44801486"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-08-05, 17:39:26",
+      "https://news.ycombinator.com/item?id=44801399"
+    ],
+    [
+      "Show HN: Whittle – A Shrinking Word Game",
+      "https://playwhittle.com/"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 17:18:37",
       "https://news.ycombinator.com/item?id=44801027"
     ],
     [
       "Consider using Zstandard and/or LZ4 instead of Deflate",
       "https://github.com/w3c/png/issues/39"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 17:14:00",
+      "https://news.ycombinator.com/item?id=44800943"
+    ],
+    [
+      "Small Changes That Made Our Daily Stand-Ups More Useful",
+      "https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/"
     ]
   ],
   [
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2025-08-05, 16:18:57",
-      "https://news.ycombinator.com/item?id=44800051"
-    ],
-    [
-      "Google agrees to pause AI workloads when power demand spikes",
-      "https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 16:07:58",
       "https://news.ycombinator.com/item?id=44799869"
     ],
     [
       "OpenAI Harmony",
       "https://github.com/openai/harmony"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 16:07:46",
-      "https://news.ycombinator.com/item?id=44799861"
-    ],
-    [
-      "Why is GitHub UI getting slower?",
-      "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/"
     ]
   ],
   [
@@ -95,8 +105,18 @@
       "https://news.ycombinator.com/item?id=44799756"
     ],
     [
-      "FCC Abandons Efforts to Make U.S. Broadband Fast and Affordable",
+      "FCC abandons efforts to make U.S. broadband fast and affordable",
       "https://www.techdirt.com/2025/08/05/trump-fcc-abandons-efforts-to-make-u-s-broadband-fast-and-affordable/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 15:44:09",
+      "https://news.ycombinator.com/item?id=44799494"
+    ],
+    [
+      "GitHub pull requests were down",
+      "https://www.githubstatus.com/incidents/6swp0zf7lk8h"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=44799479"
     ],
     [
-      "Eleven Music Is Here",
+      "Eleven Music",
       "https://elevenlabs.io/blog/eleven-music-is-here"
     ]
   ],
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=44798215"
     ],
     [
-      "Enough is enough–I dumped Google's worsening search for Kagi",
+      "I dumped Google for Kagi",
       "https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/"
     ]
   ],
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=44798189"
     ],
     [
-      "AI is not making engineers 10x as productive",
+      "Things that helped me get out of the AI 10x engineer imposter syndrome",
       "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
     ]
   ],
@@ -177,26 +197,6 @@
     [
       "Genie 3: A new frontier for world models",
       "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 13:57:00",
-      "https://news.ycombinator.com/item?id=44798035"
-    ],
-    [
-      "Proxmox Virtual Environment 9.0 with Debian 13 released",
-      "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 13:46:30",
-      "https://news.ycombinator.com/item?id=44797917"
-    ],
-    [
-      "Lack of intent is what makes reading LLM-generated text exhausting",
-      "https://lambdaland.org/posts/2025-08-04_artifical_inanity/"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Build Your Own Lisp",
       "https://www.buildyourownlisp.com/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 11:19:27",
-      "https://news.ycombinator.com/item?id=44796698"
-    ],
-    [
-      "More than two hard disks in DOS",
-      "https://www.os2museum.com/wp/more-than-two-hard-disks-in-dos/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2025-08-02, 18:45:14",
-      "https://news.ycombinator.com/item?id=44770215"
+      "2025-08-05, 01:43:40",
+      "https://news.ycombinator.com/item?id=44793446"
     ],
     [
-      "A Carnival Attraction That Saved Premature Babies (2016)",
-      "https://www.smithsonianmag.com/history/man-who-pretended-be-doctor-ran-worlds-fair-attraction-saved-lives-thousands-premature-babies-180960200/"
+      "Tell HN: Anthropic expires paid credits after a year",
+      "https://news.ycombinator.com/item?id=44793446"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 11:37:00",
+      "https://news.ycombinator.com/item?id=44766771"
+    ],
+    [
+      "Ask HN: Have you ever regretted open-sourcing something?",
+      "https://news.ycombinator.com/item?id=44766771"
     ]
   ]
 ]
