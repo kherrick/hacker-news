@@ -57,6 +57,7 @@
 * [2025-08-02, 10:52:36](https://news.ycombinator.com/item?id=44766508) - [We may not like what we become if A.I. solves Loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
 * [2025-08-02, 10:18:46](https://news.ycombinator.com/item?id=44766326) - [North Korea sent me abroad to be a secret IT worker. My wages funded the regime](https://www.bbc.com/news/articles/c15wk77zxngo)
 * [2025-08-02, 10:16:15](https://news.ycombinator.com/item?id=44766313) - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
+* [2025-08-02, 09:30:49](https://news.ycombinator.com/item?id=44766031) - [Tell HN: I underestimated how lonely building solo can be](https://news.ycombinator.com/item?id=44766031)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 * [2025-08-02, 09:12:28](https://news.ycombinator.com/item?id=44765939) - [EU kills Android bootloader unlock starting August 1](https://xiaomitime.com/eu-kills-android-bootloader-unlock-starting-august-1-59449/)
 * [2025-08-02, 09:06:47](https://news.ycombinator.com/item?id=44765904) - [The Disappearance of Saturday Morning (2003)](https://www.awn.com/animationworld/disappearance-saturday-morning)

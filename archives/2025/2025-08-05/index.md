@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
+* [2025-08-05, 14:08:52](https://news.ycombinator.com/item?id=44798166) - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
+* [2025-08-05, 13:57:15](https://news.ycombinator.com/item?id=44798040) - [Show HN: I built a text-based birthday reminder app](https://birthdays.app)
+* [2025-08-05, 13:57:00](https://news.ycombinator.com/item?id=44798035) - [Proxmox Virtual Environment 9.0 with Debian 13 released](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0)
+* [2025-08-05, 13:46:30](https://news.ycombinator.com/item?id=44797917) - [AI Stands for Artificial Inanity](https://lambdaland.org/posts/2025-08-04_artifical_inanity/)
 * [2025-08-05, 13:39:57](https://news.ycombinator.com/item?id=44797834) - [SimpleW – Web Server Library .NET Core](https://github.com/stratdev3/SimpleW)
+* [2025-08-05, 13:35:42](https://news.ycombinator.com/item?id=44797784) - [Backblaze Drive Stats for Q2 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2025/)
 * [2025-08-05, 13:34:28](https://news.ycombinator.com/item?id=44797767) - [Itch.io seeks payment processors who work with with adult material](https://www.rockpapershotgun.com/itchio-are-seeking-out-new-payment-processors-who-are-more-comfortable-with-adult-material)
 * [2025-08-05, 13:19:08](https://news.ycombinator.com/item?id=44797628) - [Swarm robotics could spell the end of the assembly line](https://www.therobotreport.com/swarm-robotics-could-spell-end-aerospace-assembly-line/)
 * [2025-08-05, 12:59:01](https://news.ycombinator.com/item?id=44797466) - [Can you block it? A simple Ad Block Tester](https://canyoublockit.com/)
