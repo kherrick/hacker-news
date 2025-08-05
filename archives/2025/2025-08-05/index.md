@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 16:07:58](https://news.ycombinator.com/item?id=44799869) - [OpenAI Harmony](https://github.com/openai/harmony)
+* [2025-08-05, 16:07:46](https://news.ycombinator.com/item?id=44799861) - [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
+* [2025-08-05, 16:05:56](https://news.ycombinator.com/item?id=44799834) - [SAML Shield: Drop-in protection that works for any stack](https://samlshield.com/)
+* [2025-08-05, 15:59:50](https://news.ycombinator.com/item?id=44799756) - [FCC Abandons Efforts to Make U.S. Broadband Fast and Affordable](https://www.techdirt.com/2025/08/05/trump-fcc-abandons-efforts-to-make-u-s-broadband-fast-and-affordable/)
+* [2025-08-05, 15:44:09](https://news.ycombinator.com/item?id=44799494) - [GitHub is having an ongoing incident with loading pull requests](https://www.githubstatus.com/incidents/6swp0zf7lk8h)
 * [2025-08-05, 15:39:25](https://news.ycombinator.com/item?id=44799435) - [GitHub Pull Requests Are Down](https://github.com/github/site-policy/pull/582)
 * [2025-08-05, 15:29:28](https://news.ycombinator.com/item?id=44799290) - [EPA Moves to Cancel $7B in Grants for Solar Energy](https://www.nytimes.com/2025/08/05/climate/epa-cancels-solar-energy-grants.html)
 * [2025-08-05, 14:47:35](https://news.ycombinator.com/item?id=44798705) - [US Coast Guard Report on Titan Submersible](https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/)
