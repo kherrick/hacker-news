@@ -67,6 +67,7 @@
 * [2025-08-02, 03:31:50](https://news.ycombinator.com/item?id=44764696) - [A dedicated skin-to-brain circuit for cool sensation in mice](https://www.sciencedaily.com/releases/2025/07/250730030354.htm)
 * [2025-08-02, 02:57:27](https://news.ycombinator.com/item?id=44764568) - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
 * [2025-08-02, 02:35:56](https://news.ycombinator.com/item?id=44764479) - [Peak Energy just shipped the US's first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
+* [2025-08-02, 02:33:21](https://news.ycombinator.com/item?id=44764465) - [Clojure Civitas – Publish Clojure Ideas and Explorations](https://github.com/ClojureCivitas/clojurecivitas.github.io)
 * [2025-08-02, 02:20:22](https://news.ycombinator.com/item?id=44764410) - [Tesla owes small businesses millions in unpaid bills [video]](https://www.cnn.com/2025/08/01/politics/video/inv-musk-unpaid-bills)
 * [2025-08-02, 02:12:05](https://news.ycombinator.com/item?id=44764376) - [Hardening Mode for the Compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
 * [2025-08-02, 01:43:14](https://news.ycombinator.com/item?id=44764261) - [Cube: Packing a 5x5x5 cube with Y-pentominoes](https://kociemba.org/themen/125puzzle/index.html)
