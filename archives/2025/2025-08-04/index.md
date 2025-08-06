@@ -14,6 +14,7 @@
 * [2025-08-04, 21:07:50](https://news.ycombinator.com/item?id=44791356) - [Show HN: I made a competitive debating game(like chess.com but for debating)](https://crs-prod-rankeddebate-l4dnggfaca-nn.a.run.app/)
 * [2025-08-04, 20:44:58](https://news.ycombinator.com/item?id=44791143) - [AWS European Sovereign Cloud to be operated by EU citizens](https://www.aboutamazon.eu/news/aws/aws-european-sovereign-cloud-to-be-operated-by-eu-citizens)
 * [2025-08-04, 20:23:20](https://news.ycombinator.com/item?id=44790944) - [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)
+* [2025-08-04, 20:20:26](https://news.ycombinator.com/item?id=44790918) - [Speedhunters was a car culture juggernaut](https://www.thedrive.com/news/speedhunters-was-a-car-culture-juggernaut-this-is-how-it-died)
 * [2025-08-04, 19:32:11](https://news.ycombinator.com/item?id=44790422) - [Content-Aware Spaced Repetition](https://www.giacomoran.com/blog/content-aware-sr/)
 * [2025-08-04, 19:29:47](https://news.ycombinator.com/item?id=44790385) - [Passkeys are just passwords that require a password manager](https://danfabulich.medium.com/passkeys-are-just-passwords-that-require-a-password-manager-ebb7f2fdcadf)
 * [2025-08-04, 19:20:38](https://news.ycombinator.com/item?id=44790271) - [NASA's Curiosity picks up new skills](https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/)

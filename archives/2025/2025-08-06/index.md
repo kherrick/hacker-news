@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 13:40:14](https://news.ycombinator.com/item?id=44811877) - [The Constitution Has Been Changed](https://slrpnk.net/post/25696399)
+* [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE Integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
+* [2025-08-06, 13:08:01](https://news.ycombinator.com/item?id=44811457) - [Ask HN: Do you struggle with flow state when using AI assisted coding tools?](https://news.ycombinator.com/item?id=44811457)
 * [2025-08-06, 13:03:16](https://news.ycombinator.com/item?id=44811406) - [Electric bikes might just be the healthiest thing to ever happen to teenagers](https://electrek.co/2025/08/05/electric-bikes-might-just-be-the-healthiest-thing-to-ever-happen-to-teenagers/)
+* [2025-08-06, 13:01:36](https://news.ycombinator.com/item?id=44811387) - [Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM](https://github.com/shutootaki/bookwith)
+* [2025-08-06, 12:50:06](https://news.ycombinator.com/item?id=44811280) - [303Gen – 303 acid loops generator](https://303-gen-06a668.netlify.app/)
 * [2025-08-06, 12:37:00](https://news.ycombinator.com/item?id=44811151) - [Grok generates fake Taylor Swift nudes without being asked](https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/)
 * [2025-08-06, 11:44:52](https://news.ycombinator.com/item?id=44810708) - [Israel relying on Microsoft cloud for expansive surveillance of Palestinians](https://www.theguardian.com/world/2025/aug/06/microsoft-israeli-military-palestinian-phone-calls-cloud)
 * [2025-08-06, 11:43:12](https://news.ycombinator.com/item?id=44810695) - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
