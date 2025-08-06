@@ -10,6 +10,7 @@
 * [2025-08-06, 18:43:29](https://news.ycombinator.com/item?id=44815967) - [States and Cities Decimated Americans' Lowest-Cost Housing Option](https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option)
 * [2025-08-06, 18:37:21](https://news.ycombinator.com/item?id=44815877) - [Cognitive Decline Can Be Slowed Down with Lifestyle Changes](https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/)
 * [2025-08-06, 18:32:27](https://news.ycombinator.com/item?id=44815823) - [Did we just lose $7 billion for solar?](https://www.vox.com/the-logoff-newsletter-trump/422456/trump-epa-solar-panels-grants-funding-attack)
+* [2025-08-06, 18:23:19](https://news.ycombinator.com/item?id=44815718) - [Vibe Coding the MIT Course Catalog](https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/)
 * [2025-08-06, 18:21:28](https://news.ycombinator.com/item?id=44815702) - [A Fast, Growable Array with Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
 * [2025-08-06, 17:57:57](https://news.ycombinator.com/item?id=44815405) - [Gleam v1.12.0 Released](https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md)
 * [2025-08-06, 17:38:09](https://news.ycombinator.com/item?id=44815125) - [Why blocking LLMs from your website is dumb](https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d)
