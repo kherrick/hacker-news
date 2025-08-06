@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 17:28:56](https://news.ycombinator.com/item?id=44814993) - [Wild pigs' flesh turning neon blue in California: Authorities sounding the alarm](https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html)
 * [2025-08-06, 16:32:50](https://news.ycombinator.com/item?id=44814278) - [The Internet Wants to Check Your ID](https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id)
 * [2025-08-06, 16:08:23](https://news.ycombinator.com/item?id=44813905) - [Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist](https://github.com/berbyte/sinkzone)
+* [2025-08-06, 16:05:39](https://news.ycombinator.com/item?id=44813854) - [Jules, our asynchronous coding agent, is now available for everyone](https://blog.google/technology/google-labs/jules-now-available/)
 * [2025-08-06, 16:00:54](https://news.ycombinator.com/item?id=44813789) - [Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work](https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/)
 * [2025-08-06, 15:50:47](https://news.ycombinator.com/item?id=44813627) - [Qwen3-4B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507)
+* [2025-08-06, 15:50:09](https://news.ycombinator.com/item?id=44813615) - [When is the next caltrain? (minimal webapp)](https://erikschluntz.com/caltrain)
 * [2025-08-06, 15:33:37](https://news.ycombinator.com/item?id=44813397) - [We shouldn't have needed lockfiles](https://tonsky.me/blog/lockfiles/)
 * [2025-08-06, 15:13:30](https://news.ycombinator.com/item?id=44813110) - [NetBird Is Embracing the AGPLv3 License](https://netbird.io/knowledge-hub/netbird-agpl-announcement)
 * [2025-08-06, 15:03:19](https://news.ycombinator.com/item?id=44812985) - [Zig-Error-Patterns](https://glfmn.io/posts/zig-error-patterns/)
