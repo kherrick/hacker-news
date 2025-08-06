@@ -1,12 +1,62 @@
 [
   [
     [
-      "2025-08-06, 01:30:04",
-      "https://news.ycombinator.com/item?id=44806669"
+      "2025-08-06, 03:05:17",
+      "https://news.ycombinator.com/item?id=44807154"
     ],
     [
-      "Science Titan sub firm used intimidation tactics and flawed safety practices",
-      "https://www.bbc.com/news/live/cdjxp4n2371t"
+      "Marines now have an official drone-fighting handbook",
+      "https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 02:57:05",
+      "https://news.ycombinator.com/item?id=44807115"
+    ],
+    [
+      "I built a tool to help people remove their info from the Tea App",
+      "https://www.suetea.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 02:35:19",
+      "https://news.ycombinator.com/item?id=44807002"
+    ],
+    [
+      "Software Rot",
+      "https://permacomputing.net/software_rot/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 02:34:10",
+      "https://news.ycombinator.com/item?id=44806996"
+    ],
+    [
+      "US tech rules the European market",
+      "https://proton.me/blog/us-tech-rules-europe"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 02:07:27",
+      "https://news.ycombinator.com/item?id=44806862"
+    ],
+    [
+      "Drivers who appeal school speed zone camera fines almost guaranteed to lose",
+      "https://www.abcactionnews.com/news/state/theres-no-point-in-fighting-drivers-who-appeal-school-speed-zone-camera-fines-almost-guaranteed-to-lose"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 01:50:22",
+      "https://news.ycombinator.com/item?id=44806764"
+    ],
+    [
+      "If you're a direct employee of HP/Compaq you're not allowed to look at this code",
+      "https://www.ukcert.org.uk/repository/exploits/NETSYS_COM%20-%20The%20Intelligent%20Hacker%27s%20Choice%20-%20http--www_netsys_com-library-alerts-2002-08-05-dxchpwd.txt"
     ]
   ],
   [
@@ -17,26 +67,6 @@
     [
       "Kitten TTS: 25MB CPU-Only, Open-Source Voice Model",
       "https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 00:14:59",
-      "https://news.ycombinator.com/item?id=44806136"
-    ],
-    [
-      "Model Collapse and the Need for Human-Generated Training Data",
-      "https://glthr.com/model-collapse-and-the-need-for-human-generated-training-data"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 22:46:47",
-      "https://news.ycombinator.com/item?id=44805436"
-    ],
-    [
-      "Quantum machine learning via vector embeddings",
-      "https://arxiv.org/abs/2508.00024"
     ]
   ],
   [
@@ -111,6 +141,16 @@
   ],
   [
     [
+      "2025-08-05, 17:39:26",
+      "https://news.ycombinator.com/item?id=44801399"
+    ],
+    [
+      "Show HN: Whittle – A shrinking word game",
+      "https://playwhittle.com/"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 17:18:37",
       "https://news.ycombinator.com/item?id=44801027"
     ],
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2025-08-05, 15:42:40",
-      "https://news.ycombinator.com/item?id=44799479"
-    ],
-    [
-      "Eleven Music",
-      "https://elevenlabs.io/blog/eleven-music-is-here"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 14:47:07",
       "https://news.ycombinator.com/item?id=44798695"
     ],
@@ -171,12 +201,12 @@
   ],
   [
     [
-      "2025-08-05, 14:30:19",
-      "https://news.ycombinator.com/item?id=44798434"
+      "2025-08-05, 14:28:39",
+      "https://news.ycombinator.com/item?id=44798410"
     ],
     [
-      "No Comment (2010)",
-      "https://prog21.dadgum.com/57.html"
+      "Ozempic shows anti-aging effects in trial",
+      "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years"
     ]
   ],
   [
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2025-08-05, 01:43:40",
-      "https://news.ycombinator.com/item?id=44793446"
+      "2025-08-04, 05:03:12",
+      "https://news.ycombinator.com/item?id=44782260"
     ],
     [
-      "Tell HN: Anthropic expires paid credits after a year",
-      "https://news.ycombinator.com/item?id=44793446"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 18:59:47",
-      "https://news.ycombinator.com/item?id=44778810"
-    ],
-    [
-      "Cannibal Modernity: Oswald de Andrade's Manifesto Antropófago (1928)",
-      "https://publicdomainreview.org/collection/manifesto-antropofago/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 14:06:47",
-      "https://news.ycombinator.com/item?id=44776695"
-    ],
-    [
-      "Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces",
-      "https://leftarcode.com/posts/afd-reverse-engineering-part1/"
+      "When Disney Went Digital",
+      "https://animationobsessive.substack.com/p/when-disney-went-digital"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44771116"
     ],
     [
-      "Cow vs. Water Buffalo Mozzarella",
+      "Cow vs. Water Buffalo Mozzarella (2011)",
       "http://itscheese.com/reviews/mozzarella"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The First Widespread Cure for HIV Could Be in Children",
       "https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 07:31:11",
-      "https://news.ycombinator.com/item?id=44765514"
-    ],
-    [
-      "Termagotchi – A terminal-based Tamagotchi simulation written in Go",
-      "https://github.com/ezeoleaf/termagotchi"
     ]
   ]
 ]
