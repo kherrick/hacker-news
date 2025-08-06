@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 05:44:29](https://news.ycombinator.com/item?id=44808122) - [Teacher AI Use Is Already Out of Control and It's Not Ok](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 * [2025-08-06, 03:59:11](https://news.ycombinator.com/item?id=44807480) - [PlayReady DRM leak triggers Microsoft takedown and Amazon account suspensions](https://torrentfreak.com/playready-drm-leak-triggers-microsoft-takedown-and-amazon-account-suspensions/)
 * [2025-08-06, 03:49:02](https://news.ycombinator.com/item?id=44807410) - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)

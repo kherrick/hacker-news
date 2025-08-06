@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-06, 05:44:29](https://news.ycombinator.com/item?id=44808122) - [Teacher AI Use Is Already Out of Control and It's Not Ok](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 * [2025-08-06, 03:49:02](https://news.ycombinator.com/item?id=44807410) - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
 * [2025-08-06, 03:14:22](https://news.ycombinator.com/item?id=44807210) - [I'm Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
 * [2025-08-06, 03:05:17](https://news.ycombinator.com/item?id=44807154) - [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
 * [2025-08-06, 02:35:19](https://news.ycombinator.com/item?id=44807002) - [Software Rot](https://permacomputing.net/software_rot/)
-* [2025-08-06, 02:34:10](https://news.ycombinator.com/item?id=44806996) - [US tech rules the European market](https://proton.me/blog/us-tech-rules-europe)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
 * [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
 * [2025-08-05, 19:19:25](https://news.ycombinator.com/item?id=44802916) - [AI is propping up the US economy](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
