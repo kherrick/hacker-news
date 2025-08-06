@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-08-06, 11:44:52",
-      "https://news.ycombinator.com/item?id=44810708"
+      "2025-08-06, 13:03:16",
+      "https://news.ycombinator.com/item?id=44811406"
     ],
     [
-      "Israel relying on Microsoft cloud for expansive surveillance of Palestinians",
-      "https://www.theguardian.com/world/2025/aug/06/microsoft-israeli-military-palestinian-phone-calls-cloud"
+      "Electric bikes might just be the healthiest thing to ever happen to teenagers",
+      "https://electrek.co/2025/08/05/electric-bikes-might-just-be-the-healthiest-thing-to-ever-happen-to-teenagers/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 12:37:00",
+      "https://news.ycombinator.com/item?id=44811151"
+    ],
+    [
+      "Grok generates fake Taylor Swift nudes without being asked",
+      "https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44810552"
     ],
     [
-      "NautilusTrader: Open-Source, High-Performance Algorithmic Trading Platform",
+      "NautilusTrader: Open-source algorithmic trading platform",
       "https://nautilustrader.io/"
     ]
   ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2025-08-06, 08:36:28",
-      "https://news.ycombinator.com/item?id=44809387"
-    ],
-    [
-      "Python performance myths and fairy tales",
-      "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 07:25:43",
       "https://news.ycombinator.com/item?id=44808794"
     ],
@@ -95,18 +95,8 @@
       "https://news.ycombinator.com/item?id=44808693"
     ],
     [
-      "Some thoughts on journals, refereeing, and the P vs. NP problem",
+      "Some thoughts on journals, refereeing, and the P vs NP problem",
       "https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 05:44:29",
-      "https://news.ycombinator.com/item?id=44808122"
-    ],
-    [
-      "Teacher AI Use Is Already Out of Control and It's Not Ok",
-      "https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Kart – Distributed version-control for geospatial and tabular data",
       "https://kartproject.org/"
+    ]
+  ],
+  [
+    [
+      "2025-08-03, 15:08:58",
+      "https://news.ycombinator.com/item?id=44777086"
+    ],
+    [
+      "Automerge 3.0",
+      "https://automerge.org/blog/automerge-3/"
     ]
   ],
   [
