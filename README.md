@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-06, 10:41:01](https://news.ycombinator.com/item?id=44810281) - [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
 * [2025-08-06, 08:36:28](https://news.ycombinator.com/item?id=44809387) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
 * [2025-08-06, 07:25:43](https://news.ycombinator.com/item?id=44808794) - [I gave the AI arms and legs then it rejected me](https://grell.dev/blog/ai_rejection)
 * [2025-08-06, 07:12:08](https://news.ycombinator.com/item?id=44808693) - [Some thoughts on journals, refereeing, and the P vs. NP problem](https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html)
@@ -9,6 +10,7 @@
 * [2025-08-06, 03:14:22](https://news.ycombinator.com/item?id=44807210) - [I'm Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
 * [2025-08-06, 02:35:19](https://news.ycombinator.com/item?id=44807002) - [Software Rot](https://permacomputing.net/software_rot/)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
+* [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
 * [2025-08-05, 19:19:25](https://news.ycombinator.com/item?id=44802916) - [AI is propping up the US economy](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
 * [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [Spotting base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
@@ -16,8 +18,6 @@
 * [2025-08-05, 17:18:37](https://news.ycombinator.com/item?id=44801027) - [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
 * [2025-08-05, 17:02:02](https://news.ycombinator.com/item?id=44800746) - [Open models by OpenAI](https://openai.com/open-models/)
 * [2025-08-05, 16:28:05](https://news.ycombinator.com/item?id=44800185) - [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
-* [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos is capturing images of explosions at 7 millionths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
-* [2025-08-05, 14:38:36](https://news.ycombinator.com/item?id=44798553) - [Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases](https://github.com/stagewise-io/stagewise)
 * [2025-08-05, 14:28:39](https://news.ycombinator.com/item?id=44798410) - [Ozempic shows anti-aging effects in trial](https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years)
 * [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [Things that helped me get out of the AI 10x engineer imposter syndrome](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:08:52](https://news.ycombinator.com/item?id=44798166) - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
