@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 16:32:50](https://news.ycombinator.com/item?id=44814278) - [The Internet Wants to Check Your ID](https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id)
 * [2025-08-06, 16:08:23](https://news.ycombinator.com/item?id=44813905) - [Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist](https://github.com/berbyte/sinkzone)
 * [2025-08-06, 16:00:54](https://news.ycombinator.com/item?id=44813789) - [Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work](https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/)
 * [2025-08-06, 15:50:47](https://news.ycombinator.com/item?id=44813627) - [Qwen3-4B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507)
