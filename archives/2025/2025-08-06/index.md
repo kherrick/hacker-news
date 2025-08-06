@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 16:08:23](https://news.ycombinator.com/item?id=44813905) - [Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist](https://github.com/berbyte/sinkzone)
+* [2025-08-06, 16:00:54](https://news.ycombinator.com/item?id=44813789) - [Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work](https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/)
+* [2025-08-06, 15:50:47](https://news.ycombinator.com/item?id=44813627) - [Qwen3-4B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507)
 * [2025-08-06, 15:33:37](https://news.ycombinator.com/item?id=44813397) - [We shouldn't have needed lockfiles](https://tonsky.me/blog/lockfiles/)
 * [2025-08-06, 15:13:30](https://news.ycombinator.com/item?id=44813110) - [NetBird Is Embracing the AGPLv3 License](https://netbird.io/knowledge-hub/netbird-agpl-announcement)
 * [2025-08-06, 15:03:19](https://news.ycombinator.com/item?id=44812985) - [Zig-Error-Patterns](https://glfmn.io/posts/zig-error-patterns/)
@@ -26,6 +29,7 @@
 * [2025-08-06, 13:01:36](https://news.ycombinator.com/item?id=44811387) - [Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM](https://github.com/shutootaki/bookwith)
 * [2025-08-06, 12:50:06](https://news.ycombinator.com/item?id=44811280) - [303Gen – 303 acid loops generator](https://303-gen-06a668.netlify.app/)
 * [2025-08-06, 12:37:00](https://news.ycombinator.com/item?id=44811151) - [Grok generates fake Taylor Swift nudes without being asked](https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/)
+* [2025-08-06, 11:57:21](https://news.ycombinator.com/item?id=44810804) - [The Future of Small Presses in the Aftermath of the NEA Grant Chaos](https://lithub.com/on-the-future-of-small-presses-in-the-aftermath-of-the-nea-grant-chaos/)
 * [2025-08-06, 11:44:52](https://news.ycombinator.com/item?id=44810708) - [Israel relying on Microsoft cloud for expansive surveillance of Palestinians](https://www.theguardian.com/world/2025/aug/06/microsoft-israeli-military-palestinian-phone-calls-cloud)
 * [2025-08-06, 11:43:12](https://news.ycombinator.com/item?id=44810695) - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
 * [2025-08-06, 11:27:27](https://news.ycombinator.com/item?id=44810574) - [Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
