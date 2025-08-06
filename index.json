@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-06, 20:54:39",
+      "https://news.ycombinator.com/item?id=44817725"
+    ],
+    [
+      "301party.com: The Intentionally Open Redirect",
+      "https://301party.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 20:43:08",
+      "https://news.ycombinator.com/item?id=44817583"
+    ],
+    [
+      "The Bluesky Dictionary",
+      "https://www.avibagla.com/blueskydictionary/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 20:40:17",
       "https://news.ycombinator.com/item?id=44817539"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-08-06, 18:43:29",
-      "https://news.ycombinator.com/item?id=44815967"
-    ],
-    [
-      "States and cities decimated SROs, Americans' lowest-cost housing option",
-      "https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 18:23:19",
       "https://news.ycombinator.com/item?id=44815718"
     ],
@@ -107,16 +117,6 @@
     [
       "Multics",
       "https://www.multicians.org/multics.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 16:57:08",
-      "https://news.ycombinator.com/item?id=44814587"
-    ],
-    [
-      "Consistency over Availability: How rqlite Handles the CAP theorem",
-      "https://philipotoole.com/consistency-over-availability-how-rqlite-handles-the-cap-theorem/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=44783717"
     ],
     [
-      "The Real Origin of Cisco Systems",
+      "The Real Origin of Cisco Systems (1999)",
       "https://www.tcracs.org/tcrwp/1origin-of-cisco/"
     ]
   ],
