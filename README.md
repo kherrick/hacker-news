@@ -25,9 +25,9 @@
 * [2025-08-05, 10:56:07](https://news.ycombinator.com/item?id=44796526) - [Scientific fraud has become an 'industry,' analysis finds](https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds)
 * [2025-08-05, 09:01:54](https://news.ycombinator.com/item?id=44795825) - [uBlock Origin Lite now available for Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698)
 * [2025-08-05, 01:43:40](https://news.ycombinator.com/item?id=44793446) - [Tell HN: Anthropic expires paid credits after a year](https://news.ycombinator.com/item?id=44793446)
-* [2025-08-04, 05:03:12](https://news.ycombinator.com/item?id=44782260) - [When Disney Went Digital](https://animationobsessive.substack.com/p/when-disney-went-digital)
+* [2025-08-04, 06:35:17](https://news.ycombinator.com/item?id=44782690) - [Kart – Distributed version-control for geospatial and tabular data](https://kartproject.org/)
 * [2025-08-03, 17:51:41](https://news.ycombinator.com/item?id=44778304) - [Bourdain, My Camera, and Me (2021)](https://www.melaniedunea.com/essays/blog-post-title-one-phd62)
-* [2025-08-03, 14:06:47](https://news.ycombinator.com/item?id=44776695) - [Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces](https://leftarcode.com/posts/afd-reverse-engineering-part1/)
+* [2025-08-02, 20:27:59](https://news.ycombinator.com/item?id=44771116) - [Cow vs. Water Buffalo Mozzarella (2011)](http://itscheese.com/reviews/mozzarella)
 * [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The first widespread cure for HIV could be in children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 
