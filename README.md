@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-06, 07:25:43](https://news.ycombinator.com/item?id=44808794) - [Anthropic rejects the main developer of the library they use](https://grell.dev/blog/ai_rejection)
+* [2025-08-06, 06:51:13](https://news.ycombinator.com/item?id=44808542) - [HTML Is Dead, Long Live HTML](https://acko.net/blog/html-is-dead-long-live-html/)
 * [2025-08-06, 06:29:21](https://news.ycombinator.com/item?id=44808423) - [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
 * [2025-08-06, 05:44:29](https://news.ycombinator.com/item?id=44808122) - [Teacher AI Use Is Already Out of Control and It's Not Ok](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
@@ -26,7 +27,6 @@
 * [2025-08-05, 09:01:54](https://news.ycombinator.com/item?id=44795825) - [uBlock Origin Lite now available for Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698)
 * [2025-08-04, 06:35:17](https://news.ycombinator.com/item?id=44782690) - [Kart – Distributed version-control for geospatial and tabular data](https://kartproject.org/)
 * [2025-08-03, 17:51:41](https://news.ycombinator.com/item?id=44778304) - [Bourdain, My Camera, and Me (2021)](https://www.melaniedunea.com/essays/blog-post-title-one-phd62)
-* [2025-08-02, 20:27:59](https://news.ycombinator.com/item?id=44771116) - [Cow vs. Water Buffalo Mozzarella (2011)](http://itscheese.com/reviews/mozzarella)
 * [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
 * [2025-08-02, 10:56:33](https://news.ycombinator.com/item?id=44766528) - [Coding Agents 101](https://devin.ai/agents101)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The first widespread cure for HIV could be in children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
