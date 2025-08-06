@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-08-05, 21:02:21",
-      "https://news.ycombinator.com/item?id=44804230"
-    ],
-    [
-      "Kyber (YC W23) is hiring enterprise account executives",
-      "https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 19:19:25",
       "https://news.ycombinator.com/item?id=44802916"
     ],
@@ -167,6 +157,16 @@
     [
       "Claude Opus 4.1",
       "https://www.anthropic.com/news/claude-opus-4-1"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 14:47:07",
+      "https://news.ycombinator.com/item?id=44798695"
+    ],
+    [
+      "Los Alamos is capturing images of explosions at 7 millionths of a second",
+      "https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-08-02, 12:50:26",
+      "https://news.ycombinator.com/item?id=44767197"
+    ],
+    [
+      "UR5 with Robotiq 85 Gripper: Object Grasping and Placement Simulation",
+      "https://github.com/leesweqq/ur5_grasp_object_pybullet"
+    ]
+  ],
+  [
+    [
       "2025-08-02, 11:37:00",
       "https://news.ycombinator.com/item?id=44766771"
     ],
@@ -287,16 +297,6 @@
     [
       "The first widespread cure for HIV could be in children",
       "https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 08:29:23",
-      "https://news.ycombinator.com/item?id=44765748"
-    ],
-    [
-      "C++26 Reflections adventures and compile time UML",
-      "https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/"
     ]
   ]
 ]
