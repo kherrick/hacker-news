@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-06, 20:40:17",
+      "https://news.ycombinator.com/item?id=44817539"
+    ],
+    [
+      "Project Hyperion: Interstellar ship design competition",
+      "https://www.projecthyperion.org"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 20:01:37",
       "https://news.ycombinator.com/item?id=44816977"
     ],
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2025-08-06, 19:38:11",
-      "https://news.ycombinator.com/item?id=44816670"
+      "2025-08-06, 19:39:20",
+      "https://news.ycombinator.com/item?id=44816692"
     ],
     [
-      "How and Why to Ditch GitHub",
-      "https://taggart-tech.com/migrate-to-codeberg/"
+      "We'd be better off with 9-bit bytes",
+      "https://pavpanchekha.com/blog/9bit.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 18:51:54",
+      "https://news.ycombinator.com/item?id=44816060"
+    ],
+    [
+      "The arcane alphabets of Black Sabbath",
+      "https://fontsinuse.com/uses/35835/the-arcane-alphabets-of-black-sabbath"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2025-08-06, 17:28:56",
+      "https://news.ycombinator.com/item?id=44814993"
+    ],
+    [
+      "Wild pigs' flesh turning neon blue in California",
+      "https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 16:57:55",
       "https://news.ycombinator.com/item?id=44814596"
     ],
@@ -81,12 +111,12 @@
   ],
   [
     [
-      "2025-08-06, 16:32:50",
-      "https://news.ycombinator.com/item?id=44814278"
+      "2025-08-06, 16:57:08",
+      "https://news.ycombinator.com/item?id=44814587"
     ],
     [
-      "The internet wants to check your ID",
-      "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id"
+      "Consistency over Availability: How rqlite Handles the CAP theorem",
+      "https://philipotoole.com/consistency-over-availability-how-rqlite-handles-the-cap-theorem/"
     ]
   ],
   [
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2025-08-06, 15:50:47",
-      "https://news.ycombinator.com/item?id=44813627"
-    ],
-    [
-      "Qwen3-4B-Thinking-2507",
-      "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 15:50:09",
-      "https://news.ycombinator.com/item?id=44813615"
-    ],
-    [
-      "When is the next caltrain? (minimal webapp)",
-      "https://erikschluntz.com/caltrain"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 15:33:37",
       "https://news.ycombinator.com/item?id=44813397"
     ],
@@ -171,42 +181,12 @@
   ],
   [
     [
-      "2025-08-06, 14:36:01",
-      "https://news.ycombinator.com/item?id=44812611"
-    ],
-    [
-      "Dotfiles feel too personal to share",
-      "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 14:04:13",
-      "https://news.ycombinator.com/item?id=44812198"
-    ],
-    [
-      "Google suffers data breach in ongoing Salesforce data theft attacks",
-      "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 13:17:38",
       "https://news.ycombinator.com/item?id=44811567"
     ],
     [
       "Claude Code IDE integration for Emacs",
       "https://github.com/manzaltu/claude-code-ide.el"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 13:01:36",
-      "https://news.ycombinator.com/item?id=44811387"
-    ],
-    [
-      "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
-      "https://github.com/shutootaki/bookwith"
     ]
   ],
   [
@@ -227,6 +207,26 @@
     [
       "About the BLOBs in Ventoy",
       "https://github.com/ventoy/Ventoy/issues/3224"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 07:25:43",
+      "https://news.ycombinator.com/item?id=44808794"
+    ],
+    [
+      "I gave the AI arms and legs then it rejected me",
+      "https://grell.dev/blog/ai_rejection"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 06:51:13",
+      "https://news.ycombinator.com/item?id=44808542"
+    ],
+    [
+      "Rethinking DOM from first principles",
+      "https://acko.net/blog/html-is-dead-long-live-html/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-08-04, 02:47:02",
-      "https://news.ycombinator.com/item?id=44781683"
-    ],
-    [
-      "Realizing we needed two sorts of alerts for our temperature monitoring",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomTempTwoSortsOfAlerts"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 19:11:40",
       "https://news.ycombinator.com/item?id=44778898"
     ],
@@ -287,6 +277,16 @@
     [
       "The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals",
       "https://books.open.tudelft.nl/home/catalog/book/11"
+    ]
+  ],
+  [
+    [
+      "2025-08-03, 15:08:58",
+      "https://news.ycombinator.com/item?id=44777086"
+    ],
+    [
+      "Automerge 3.0",
+      "https://automerge.org/blog/automerge-3/"
     ]
   ],
   [
