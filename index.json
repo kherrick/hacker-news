@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-06, 15:33:37",
+      "https://news.ycombinator.com/item?id=44813397"
+    ],
+    [
+      "We shouldn't have needed lockfiles",
+      "https://tonsky.me/blog/lockfiles/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 15:13:30",
+      "https://news.ycombinator.com/item?id=44813110"
+    ],
+    [
+      "NetBird Is Embracing the AGPLv3 License",
+      "https://netbird.io/knowledge-hub/netbird-agpl-announcement"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 15:03:19",
+      "https://news.ycombinator.com/item?id=44812985"
+    ],
+    [
+      "Zig-Error-Patterns",
+      "https://glfmn.io/posts/zig-error-patterns/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 14:43:02",
       "https://news.ycombinator.com/item?id=44812695"
     ],
@@ -17,6 +47,16 @@
     [
       "Dotfiles feel too intimate and personal to share",
       "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 14:18:44",
+      "https://news.ycombinator.com/item?id=44812375"
+    ],
+    [
+      "Constitution.congress.gov/constitution 6/8/25 –> 8/4/25 Diff",
+      "https://web.archive.org/web/diff/20250601021212/20250806023110/https://constitution.congress.gov/constitution/"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Omarchy, a Linux Distribution by DHH",
       "https://omarchy.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 13:41:40",
-      "https://news.ycombinator.com/item?id=44811901"
-    ],
-    [
-      "Diffuse-CLoC: Guided Diffusion for Physics-Based Character Look-Ahead Control",
-      "https://diffusecloc.github.io/website/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-08-06, 07:12:08",
-      "https://news.ycombinator.com/item?id=44808693"
-    ],
-    [
-      "Some thoughts on journals, refereeing, and the P vs NP problem",
-      "https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 06:51:13",
       "https://news.ycombinator.com/item?id=44808542"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-08-05, 19:17:38",
-      "https://news.ycombinator.com/item?id=44802886"
-    ],
-    [
-      "Spotting base64 encoded JSON, certificates, and private keys",
-      "https://ergaster.org/til/base64-encoded-json/"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 18:46:18",
       "https://news.ycombinator.com/item?id=44802414"
     ],
@@ -257,16 +267,6 @@
     [
       "Open models by OpenAI",
       "https://openai.com/open-models/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 20:20:26",
-      "https://news.ycombinator.com/item?id=44790918"
-    ],
-    [
-      "Speedhunters was a car culture juggernaut",
-      "https://www.thedrive.com/news/speedhunters-was-a-car-culture-juggernaut-this-is-how-it-died"
     ]
   ],
   [
