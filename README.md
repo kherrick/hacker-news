@@ -26,7 +26,7 @@
 * [2025-08-05, 01:43:40](https://news.ycombinator.com/item?id=44793446) - [Tell HN: Anthropic expires paid credits after a year](https://news.ycombinator.com/item?id=44793446)
 * [2025-08-03, 18:59:47](https://news.ycombinator.com/item?id=44778810) - [Cannibal Modernity: Oswald de Andrade's Manifesto Antropófago (1928)](https://publicdomainreview.org/collection/manifesto-antropofago/)
 * [2025-08-03, 14:06:47](https://news.ycombinator.com/item?id=44776695) - [Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces](https://leftarcode.com/posts/afd-reverse-engineering-part1/)
-* [2025-08-03, 13:35:40](https://news.ycombinator.com/item?id=44776505) - [The mystery of Winston Churchill's dead platypus was unsolved until now](https://www.bbc.com/news/articles/cglzl1ez283o)
+* [2025-08-03, 13:35:40](https://news.ycombinator.com/item?id=44776505) - [The mystery of Winston Churchill's dead platypus was finally solved](https://www.bbc.com/news/articles/cglzl1ez283o)
 * [2025-08-02, 20:27:59](https://news.ycombinator.com/item?id=44771116) - [Cow vs. Water Buffalo Mozzarella](http://itscheese.com/reviews/mozzarella)
 * [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
