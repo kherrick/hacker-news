@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 15:33:37](https://news.ycombinator.com/item?id=44813397) - [We shouldn't have needed lockfiles](https://tonsky.me/blog/lockfiles/)
+* [2025-08-06, 15:13:30](https://news.ycombinator.com/item?id=44813110) - [NetBird Is Embracing the AGPLv3 License](https://netbird.io/knowledge-hub/netbird-agpl-announcement)
+* [2025-08-06, 15:03:19](https://news.ycombinator.com/item?id=44812985) - [Zig-Error-Patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:43:02](https://news.ycombinator.com/item?id=44812695) - [Breaking the sorting barrier for directed single-source shortest paths](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
 * [2025-08-06, 14:36:01](https://news.ycombinator.com/item?id=44812611) - [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
+* [2025-08-06, 14:18:44](https://news.ycombinator.com/item?id=44812375) - [Constitution.congress.gov/constitution 6/8/25 –> 8/4/25 Diff](https://web.archive.org/web/diff/20250601021212/20250806023110/https://constitution.congress.gov/constitution/)
 * [2025-08-06, 14:13:39](https://news.ycombinator.com/item?id=44812315) - [The Militarization of Silicon Valley](https://www.nytimes.com/2025/08/04/technology/google-meta-openai-military-war.html)
 * [2025-08-06, 14:12:09](https://news.ycombinator.com/item?id=44812297) - [Providing ChatGPT to the entire U.S. federal workforce](https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce/)
 * [2025-08-06, 14:04:13](https://news.ycombinator.com/item?id=44812198) - [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
