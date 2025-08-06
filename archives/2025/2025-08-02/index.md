@@ -33,6 +33,7 @@
 * [2025-08-02, 14:37:51](https://news.ycombinator.com/item?id=44767959) - [The /o in Ruby regex stands for \"oh the humanity \"](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
 * [2025-08-02, 14:36:04](https://news.ycombinator.com/item?id=44767947) - [Unikernel Guide: Build and Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
 * [2025-08-02, 14:31:58](https://news.ycombinator.com/item?id=44767928) - [The Rubik's Cube Perfect Scramble](https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble)
+* [2025-08-02, 14:27:16](https://news.ycombinator.com/item?id=44767895) - [Zigzag Number Spiral - Closed Form Expression](https://susam.net/zigzag-number-spiral.html)
 * [2025-08-02, 14:26:37](https://news.ycombinator.com/item?id=44767888) - [Iceberg, the Right Idea – The Wrong Spec – Part 2 of 2: The Spec](https://www.database-doctor.com/posts/iceberg-is-wrong-2.html)
 * [2025-08-02, 14:22:11](https://news.ycombinator.com/item?id=44767858) - [The case for having roommates (even when you can afford to live alone)](https://supernuclear.substack.com/p/the-case-for-having-roommates-even)
 * [2025-08-02, 14:09:12](https://news.ycombinator.com/item?id=44767775) - [WebGPU enables local LLM in the browser. Demo site with AI chat](https://andreinwald.github.io/browser-llm/)
