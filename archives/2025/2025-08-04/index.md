@@ -19,6 +19,7 @@
 * [2025-08-04, 19:29:47](https://news.ycombinator.com/item?id=44790385) - [Passkeys are just passwords that require a password manager](https://danfabulich.medium.com/passkeys-are-just-passwords-that-require-a-password-manager-ebb7f2fdcadf)
 * [2025-08-04, 19:20:38](https://news.ycombinator.com/item?id=44790271) - [NASA's Curiosity picks up new skills](https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/)
 * [2025-08-04, 19:13:35](https://news.ycombinator.com/item?id=44790191) - [Show HN: FFlags – Feature flags as code, served from the edge](https://fflags.com)
+* [2025-08-04, 19:08:19](https://news.ycombinator.com/item?id=44790132) - [You know more Finnish than you think](https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/)
 * [2025-08-04, 18:49:09](https://news.ycombinator.com/item?id=44789917) - [Belgium's Arrest of IDF Soldiers Could Be a Watershed Moment](https://jacobin.com/2025/08/belgium-israeli-soldiers-arrest-gaza)
 * [2025-08-04, 18:48:04](https://news.ycombinator.com/item?id=44789903) - [Europe is breaking its reliance on American science](https://www.reuters.com/sustainability/climate-energy/europe-is-breaking-its-reliance-american-science-2025-08-01/)
 * [2025-08-04, 18:27:26](https://news.ycombinator.com/item?id=44789668) - [Circadian Justice](https://eprints.lse.ac.uk/112431/)
