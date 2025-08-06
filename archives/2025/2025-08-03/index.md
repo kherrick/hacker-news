@@ -45,6 +45,7 @@
 * [2025-08-03, 15:33:56](https://news.ycombinator.com/item?id=44777274) - [Time is running out for Tim Cook: Apple lacks strategic vision](https://unherd.com/2025/08/time-is-running-out-for-tim-cook/?lang=us)
 * [2025-08-03, 15:08:58](https://news.ycombinator.com/item?id=44777086) - [Automerge 3.0](https://automerge.org/blog/automerge-3/)
 * [2025-08-03, 15:04:05](https://news.ycombinator.com/item?id=44777055) - [This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)](https://archive.irixnet.org/thisoldsgi/)
+* [2025-08-03, 14:38:36](https://news.ycombinator.com/item?id=44776871) - [Show HN: Write lead sheets in a Markdown way and transpose in a second](https://cord.land/landing)
 * [2025-08-03, 14:06:47](https://news.ycombinator.com/item?id=44776695) - [Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces](https://leftarcode.com/posts/afd-reverse-engineering-part1/)
 * [2025-08-03, 13:49:00](https://news.ycombinator.com/item?id=44776574) - [One Third of the Web Will Stop Working in 4 Days](https://lowendbox.com/blog/one-third-of-the-web-will-stop-working-in-4-days-massive-scale-cdn-compromise-starts-wednesday/)
 * [2025-08-03, 13:35:40](https://news.ycombinator.com/item?id=44776505) - [The mystery of Winston Churchill's dead platypus was unsolved until now](https://www.bbc.com/news/articles/cglzl1ez283o)
