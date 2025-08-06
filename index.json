@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-08-06, 16:32:50",
-      "https://news.ycombinator.com/item?id=44814278"
+      "2025-08-06, 17:28:56",
+      "https://news.ycombinator.com/item?id=44814993"
     ],
     [
-      "The Internet Wants to Check Your ID",
-      "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id"
+      "Wild pigs' flesh turning neon blue in California: Authorities sounding the alarm",
+      "https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist",
       "https://github.com/berbyte/sinkzone"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 16:05:39",
+      "https://news.ycombinator.com/item?id=44813854"
+    ],
+    [
+      "Jules, our asynchronous coding agent, is now available for everyone",
+      "https://blog.google/technology/google-labs/jules-now-available/"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Qwen3-4B-Thinking-2507",
       "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 15:50:09",
+      "https://news.ycombinator.com/item?id=44813615"
+    ],
+    [
+      "When is the next caltrain? (minimal webapp)",
+      "https://erikschluntz.com/caltrain"
     ]
   ],
   [
@@ -211,42 +231,12 @@
   ],
   [
     [
-      "2025-08-06, 07:25:43",
-      "https://news.ycombinator.com/item?id=44808794"
-    ],
-    [
-      "I gave the AI arms and legs then it rejected me",
-      "https://grell.dev/blog/ai_rejection"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 06:51:13",
-      "https://news.ycombinator.com/item?id=44808542"
-    ],
-    [
-      "Rethinking DOM from first principles",
-      "https://acko.net/blog/html-is-dead-long-live-html/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 05:04:36",
       "https://news.ycombinator.com/item?id=44807868"
     ],
     [
       "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
       "https://github.com/KittenML/KittenTTS"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 03:14:22",
-      "https://news.ycombinator.com/item?id=44807210"
-    ],
-    [
-      "I'm Archiving Picocrypt",
-      "https://github.com/Picocrypt/Picocrypt/issues/134"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Open models by OpenAI",
       "https://openai.com/open-models/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 16:46:10",
+      "https://news.ycombinator.com/item?id=44788321"
+    ],
+    [
+      "Why is it worth spending time on type theory?",
+      "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory"
     ]
   ],
   [
