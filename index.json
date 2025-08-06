@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44816755"
     ],
     [
-      "Litestar Is Worth a Look",
+      "Litestar is worth a look",
       "https://www.b-list.org/weblog/2025/aug/06/litestar/"
     ]
   ],
@@ -31,51 +31,11 @@
   ],
   [
     [
-      "2025-08-06, 19:16:30",
-      "https://news.ycombinator.com/item?id=44816396"
-    ],
-    [
-      "Is Economics education fit for the 21st Century?",
-      "https://rethinkeconomics.org/resources/educational-material/is-economics-education-fit-for-the-21st-century-executive-summary/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 19:15:30",
-      "https://news.ycombinator.com/item?id=44816385"
-    ],
-    [
-      "19% of California houses are owned by investors",
-      "https://www.ocregister.com/2025/07/21/19-of-california-houses-are-owned-by-investors/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 19:00:09",
-      "https://news.ycombinator.com/item?id=44816165"
-    ],
-    [
-      "Brennan Center for Justice Report: The Campaign to Undermine the Next Election",
-      "https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 18:57:02",
-      "https://news.ycombinator.com/item?id=44816122"
-    ],
-    [
-      "\"This question has been retired\"",
-      "https://learn.microsoft.com/en-us/answers/questions/009ae104-47ff-475c-adc1-d5f9604927de/can-i-open-16-bit-application-in-windows-8?forum=windows-all&referrer=answers"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 18:43:29",
       "https://news.ycombinator.com/item?id=44815967"
     ],
     [
-      "States and Cities Decimated Americans' Lowest-Cost Housing Option",
+      "States and cities decimated SROs, Americans' lowest-cost housing option",
       "https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option"
     ]
   ],
@@ -85,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44815718"
     ],
     [
-      "Vibe Coding the MIT Course Catalog",
+      "Vibe coding the MIT course catalog",
       "https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/"
     ]
   ],
@@ -95,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44815702"
     ],
     [
-      "A Fast, Growable Array with Stable Pointers in C",
+      "A fast, growable array with stable pointers in C",
       "https://danielchasehooper.com/posts/segment_array/"
     ]
   ],
@@ -105,18 +65,8 @@
       "https://news.ycombinator.com/item?id=44815405"
     ],
     [
-      "Gleam v1.12.0 Released",
+      "Gleam v1.12",
       "https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 17:38:09",
-      "https://news.ycombinator.com/item?id=44815125"
-    ],
-    [
-      "Blocking LLMs from your website cuts you off from next-generation search",
-      "https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d"
     ]
   ],
   [
@@ -127,6 +77,16 @@
     [
       "Multics",
       "https://www.multicians.org/multics.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 16:32:50",
+      "https://news.ycombinator.com/item?id=44814278"
+    ],
+    [
+      "The internet wants to check your ID",
+      "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id"
     ]
   ],
   [
@@ -211,6 +171,26 @@
   ],
   [
     [
+      "2025-08-06, 14:36:01",
+      "https://news.ycombinator.com/item?id=44812611"
+    ],
+    [
+      "Dotfiles feel too personal to share",
+      "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 14:04:13",
+      "https://news.ycombinator.com/item?id=44812198"
+    ],
+    [
+      "Google suffers data breach in ongoing Salesforce data theft attacks",
+      "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 13:17:38",
       "https://news.ycombinator.com/item?id=44811567"
     ],
@@ -275,8 +255,18 @@
       "https://news.ycombinator.com/item?id=44783717"
     ],
     [
-      "The Origin of Cisco Systems",
+      "The Real Origin of Cisco Systems",
       "https://www.tcracs.org/tcrwp/1origin-of-cisco/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 02:47:02",
+      "https://news.ycombinator.com/item?id=44781683"
+    ],
+    [
+      "Realizing we needed two sorts of alerts for our temperature monitoring",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomTempTwoSortsOfAlerts"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals",
       "https://books.open.tudelft.nl/home/catalog/book/11"
+    ]
+  ],
+  [
+    [
+      "2025-08-03, 14:38:36",
+      "https://news.ycombinator.com/item?id=44776871"
+    ],
+    [
+      "Show HN: Write lead sheets in a Markdown way and transpose in a second",
+      "https://cord.land/landing"
     ]
   ]
 ]
