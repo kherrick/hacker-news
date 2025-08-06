@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-08-06, 07:12:08",
+      "https://news.ycombinator.com/item?id=44808693"
+    ],
+    [
+      "Some thoughts on journals, refereeing, and the P vs. NP problem",
+      "https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 06:52:49",
+      "https://news.ycombinator.com/item?id=44808550"
+    ],
+    [
+      "Why there are so many more South Asian CEOs than East Asian CEOs in the US",
+      "https://www.davelu.com/p/learn-to-embrace-conflict"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 06:51:13",
       "https://news.ycombinator.com/item?id=44808542"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-08-05, 17:39:26",
-      "https://news.ycombinator.com/item?id=44801399"
-    ],
-    [
-      "Show HN: Whittle – A shrinking word game",
-      "https://playwhittle.com/"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 17:18:37",
       "https://news.ycombinator.com/item?id=44801027"
     ],
@@ -177,16 +187,6 @@
     [
       "Claude Opus 4.1",
       "https://www.anthropic.com/news/claude-opus-4-1"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 14:38:36",
-      "https://news.ycombinator.com/item?id=44798553"
-    ],
-    [
-      "Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases",
-      "https://github.com/stagewise-io/stagewise"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-08-02, 10:56:33",
-      "https://news.ycombinator.com/item?id=44766528"
-    ],
-    [
-      "Coding Agents 101",
-      "https://devin.ai/agents101"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 09:20:42",
       "https://news.ycombinator.com/item?id=44765981"
     ],
     [
       "The first widespread cure for HIV could be in children",
       "https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 08:29:23",
+      "https://news.ycombinator.com/item?id=44765748"
+    ],
+    [
+      "C++26 Reflections adventures and compile time UML",
+      "https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/"
     ]
   ]
 ]
