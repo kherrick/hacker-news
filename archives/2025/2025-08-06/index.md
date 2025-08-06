@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 03:49:02](https://news.ycombinator.com/item?id=44807410) - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
+* [2025-08-06, 03:14:22](https://news.ycombinator.com/item?id=44807210) - [I'm Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
 * [2025-08-06, 03:05:17](https://news.ycombinator.com/item?id=44807154) - [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
 * [2025-08-06, 02:57:05](https://news.ycombinator.com/item?id=44807115) - [I built a tool to help people remove their info from the Tea App](https://www.suetea.com/)
 * [2025-08-06, 02:35:19](https://news.ycombinator.com/item?id=44807002) - [Software Rot](https://permacomputing.net/software_rot/)
