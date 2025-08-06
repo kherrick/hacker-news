@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 08:36:28](https://news.ycombinator.com/item?id=44809387) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
 * [2025-08-06, 07:25:43](https://news.ycombinator.com/item?id=44808794) - [Anthropic rejects the main developer of the library they use](https://grell.dev/blog/ai_rejection)
 * [2025-08-06, 07:12:08](https://news.ycombinator.com/item?id=44808693) - [Some thoughts on journals, refereeing, and the P vs. NP problem](https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html)
 * [2025-08-06, 06:52:49](https://news.ycombinator.com/item?id=44808550) - [Why there are so many more South Asian CEOs than East Asian CEOs in the US](https://www.davelu.com/p/learn-to-embrace-conflict)

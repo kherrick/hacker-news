@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-06, 08:36:28](https://news.ycombinator.com/item?id=44809387) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
 * [2025-08-06, 07:25:43](https://news.ycombinator.com/item?id=44808794) - [I gave the AI arms and legs then it rejected me](https://grell.dev/blog/ai_rejection)
 * [2025-08-06, 07:12:08](https://news.ycombinator.com/item?id=44808693) - [Some thoughts on journals, refereeing, and the P vs. NP problem](https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html)
-* [2025-08-06, 06:29:21](https://news.ycombinator.com/item?id=44808423) - [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
 * [2025-08-06, 05:44:29](https://news.ycombinator.com/item?id=44808122) - [Teacher AI Use Is Already Out of Control and It's Not Ok](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 * [2025-08-06, 03:49:02](https://news.ycombinator.com/item?id=44807410) - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
