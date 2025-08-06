@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-06, 11:43:12](https://news.ycombinator.com/item?id=44810695) - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
+* [2025-08-06, 10:44:38](https://news.ycombinator.com/item?id=44810307) - [LLM Inflation](https://tratt.net/laurie/blog/2025/llm_inflation.html)
 * [2025-08-06, 10:41:01](https://news.ycombinator.com/item?id=44810281) - [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
 * [2025-08-06, 10:07:40](https://news.ycombinator.com/item?id=44810061) - [Japan: Apple Must Lift Browser Engine Ban by December](https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/)
 * [2025-08-06, 08:36:28](https://news.ycombinator.com/item?id=44809387) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
@@ -12,7 +14,6 @@
 * [2025-08-06, 02:35:19](https://news.ycombinator.com/item?id=44807002) - [Software Rot](https://permacomputing.net/software_rot/)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
 * [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
-* [2025-08-05, 19:19:25](https://news.ycombinator.com/item?id=44802916) - [AI is propping up the US economy](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
 * [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [Spotting base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
 * [2025-08-05, 17:18:37](https://news.ycombinator.com/item?id=44801027) - [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
@@ -29,7 +30,6 @@
 * [2025-08-02, 14:27:16](https://news.ycombinator.com/item?id=44767895) - [Zigzag Number Spiral - Closed Form Expression](https://susam.net/zigzag-number-spiral.html)
 * [2025-08-02, 12:50:26](https://news.ycombinator.com/item?id=44767197) - [UR5 with Robotiq 85 Gripper: Object Grasping and Placement Simulation](https://github.com/leesweqq/ur5_grasp_object_pybullet)
 * [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
-* [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The first widespread cure for HIV could be in children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 
 ## [Archives](archives/index.md)
 

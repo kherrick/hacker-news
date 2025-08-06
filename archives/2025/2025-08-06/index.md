@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 11:43:12](https://news.ycombinator.com/item?id=44810695) - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
+* [2025-08-06, 10:44:38](https://news.ycombinator.com/item?id=44810307) - [LLM Inflation](https://tratt.net/laurie/blog/2025/llm_inflation.html)
 * [2025-08-06, 10:41:01](https://news.ycombinator.com/item?id=44810281) - [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
 * [2025-08-06, 10:07:40](https://news.ycombinator.com/item?id=44810061) - [Japan: Apple Must Lift Browser Engine Ban by December](https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/)
 * [2025-08-06, 08:36:28](https://news.ycombinator.com/item?id=44809387) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
