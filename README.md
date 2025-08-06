@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-06, 14:43:02](https://news.ycombinator.com/item?id=44812695) - [Breaking the sorting barrier for directed single-source shortest paths](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
 * [2025-08-06, 14:36:01](https://news.ycombinator.com/item?id=44812611) - [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
 * [2025-08-06, 14:13:39](https://news.ycombinator.com/item?id=44812315) - [The Militarization of Silicon Valley](https://www.nytimes.com/2025/08/04/technology/google-meta-openai-military-war.html)
 * [2025-08-06, 14:04:13](https://news.ycombinator.com/item?id=44812198) - [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
@@ -9,7 +10,6 @@
 * [2025-08-06, 13:17:30](https://news.ycombinator.com/item?id=44811564) - [EU proposal to scan all private messages gains momentum](https://cointelegraph.com/news/eu-chat-control-plan-gains-support-threatens-encryption)
 * [2025-08-06, 13:01:36](https://news.ycombinator.com/item?id=44811387) - [Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM](https://github.com/shutootaki/bookwith)
 * [2025-08-06, 12:50:06](https://news.ycombinator.com/item?id=44811280) - [303Gen – 303 acid loops generator](https://303-gen-06a668.netlify.app/)
-* [2025-08-06, 11:27:27](https://news.ycombinator.com/item?id=44810574) - [Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
 * [2025-08-06, 11:23:42](https://news.ycombinator.com/item?id=44810552) - [NautilusTrader: Open-source algorithmic trading platform](https://nautilustrader.io/)
 * [2025-08-06, 10:44:38](https://news.ycombinator.com/item?id=44810307) - [LLM Inflation](https://tratt.net/laurie/blog/2025/llm_inflation.html)
 * [2025-08-06, 10:41:01](https://news.ycombinator.com/item?id=44810281) - [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
