@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 14:36:01](https://news.ycombinator.com/item?id=44812611) - [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
+* [2025-08-06, 14:13:39](https://news.ycombinator.com/item?id=44812315) - [The Militarization of Silicon Valley](https://www.nytimes.com/2025/08/04/technology/google-meta-openai-military-war.html)
 * [2025-08-06, 14:04:13](https://news.ycombinator.com/item?id=44812198) - [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
 * [2025-08-06, 13:41:46](https://news.ycombinator.com/item?id=44811905) - [Omarchy, a Linux Distribution by DHH](https://omarchy.org/)
 * [2025-08-06, 13:40:14](https://news.ycombinator.com/item?id=44811877) - [The Constitution Has Been Changed](https://slrpnk.net/post/25696399)

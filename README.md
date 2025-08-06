@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-06, 14:36:01](https://news.ycombinator.com/item?id=44812611) - [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
+* [2025-08-06, 14:13:39](https://news.ycombinator.com/item?id=44812315) - [The Militarization of Silicon Valley](https://www.nytimes.com/2025/08/04/technology/google-meta-openai-military-war.html)
 * [2025-08-06, 14:04:13](https://news.ycombinator.com/item?id=44812198) - [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
 * [2025-08-06, 13:41:46](https://news.ycombinator.com/item?id=44811905) - [Omarchy, a Linux Distribution by DHH](https://omarchy.org/)
-* [2025-08-06, 13:30:11](https://news.ycombinator.com/item?id=44811733) - [Constitution of the United States Website has removed sections (web.archive.org)](https://old.reddit.com/r/law/comments/1mj3ttx/constitution_of_the_united_states_website_has/)
 * [2025-08-06, 13:20:21](https://news.ycombinator.com/item?id=44811602) - [Coffee-shop pitch change helped founder unlock traction for laptop campers](https://iwantproductmarketfit.substack.com/p/how-one-pitch-change-helped-this)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE Integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 * [2025-08-06, 13:17:30](https://news.ycombinator.com/item?id=44811564) - [EU proposal to scan all private messages gains momentum](https://cointelegraph.com/news/eu-chat-control-plan-gains-support-threatens-encryption)
@@ -25,9 +26,8 @@
 * [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
 * [2025-08-05, 17:02:02](https://news.ycombinator.com/item?id=44800746) - [Open models by OpenAI](https://openai.com/open-models/)
 * [2025-08-05, 14:28:39](https://news.ycombinator.com/item?id=44798410) - [Ozempic shows anti-aging effects in trial](https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years)
-* [2025-08-05, 10:56:07](https://news.ycombinator.com/item?id=44796526) - [Scientific fraud has become an 'industry,' analysis finds](https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds)
 * [2025-08-04, 20:20:26](https://news.ycombinator.com/item?id=44790918) - [Speedhunters was a car culture juggernaut](https://www.thedrive.com/news/speedhunters-was-a-car-culture-juggernaut-this-is-how-it-died)
-* [2025-08-04, 06:35:17](https://news.ycombinator.com/item?id=44782690) - [Kart – Distributed version-control for geospatial and tabular data](https://kartproject.org/)
+* [2025-08-03, 18:54:34](https://news.ycombinator.com/item?id=44778772) - [The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals](https://books.open.tudelft.nl/home/catalog/book/11)
 * [2025-08-03, 15:08:58](https://news.ycombinator.com/item?id=44777086) - [Automerge 3.0](https://automerge.org/blog/automerge-3/)
 * [2025-08-02, 12:50:26](https://news.ycombinator.com/item?id=44767197) - [UR5 with Robotiq 85 Gripper: Object Grasping and Placement Simulation](https://github.com/leesweqq/ur5_grasp_object_pybullet)
 
