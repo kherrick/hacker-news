@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 17:57:57](https://news.ycombinator.com/item?id=44815405) - [Gleam v1.12.0 Released](https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md)
+* [2025-08-06, 17:38:09](https://news.ycombinator.com/item?id=44815125) - [Why blocking LLMs from your website is dumb](https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d)
 * [2025-08-06, 17:28:56](https://news.ycombinator.com/item?id=44814993) - [Wild pigs' flesh turning neon blue in California: Authorities sounding the alarm](https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html)
 * [2025-08-06, 16:57:55](https://news.ycombinator.com/item?id=44814596) - [Multics](https://www.multicians.org/multics.html)
 * [2025-08-06, 16:32:50](https://news.ycombinator.com/item?id=44814278) - [The Internet Wants to Check Your ID](https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id)

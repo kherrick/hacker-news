@@ -74,6 +74,7 @@
 * [2025-08-04, 06:18:24](https://news.ycombinator.com/item?id=44782596) - [The Age of Bronze and Steel](https://blog.zarfhome.com/2025/08/age-of-bronze-and-steel)
 * [2025-08-04, 05:03:12](https://news.ycombinator.com/item?id=44782260) - [When Disney Went Digital](https://animationobsessive.substack.com/p/when-disney-went-digital)
 * [2025-08-04, 04:11:17](https://news.ycombinator.com/item?id=44782046) - [Rising Young Worker Despair in the United States](https://www.nber.org/papers/w34071)
+* [2025-08-04, 02:47:02](https://news.ycombinator.com/item?id=44781683) - [Realizing we needed two sorts of alerts for our temperature monitoring](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomTempTwoSortsOfAlerts)
 * [2025-08-04, 02:12:58](https://news.ycombinator.com/item?id=44781523) - [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)
 * [2025-08-04, 00:57:21](https://news.ycombinator.com/item?id=44781189) - [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
 * [2025-08-04, 00:41:28](https://news.ycombinator.com/item?id=44781116) - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
