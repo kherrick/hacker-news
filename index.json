@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-08-06, 01:30:04",
+      "https://news.ycombinator.com/item?id=44806669"
+    ],
+    [
+      "Science Titan sub firm used intimidation tactics and flawed safety practices",
+      "https://www.bbc.com/news/live/cdjxp4n2371t"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 01:13:17",
+      "https://news.ycombinator.com/item?id=44806543"
+    ],
+    [
+      "Kitten TTS: 25MB CPU-Only, Open-Source Voice Model",
+      "https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 00:14:59",
+      "https://news.ycombinator.com/item?id=44806136"
+    ],
+    [
+      "Model Collapse and the Need for Human-Generated Training Data",
+      "https://glthr.com/model-collapse-and-the-need-for-human-generated-training-data"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 22:46:47",
       "https://news.ycombinator.com/item?id=44805436"
     ],
     [
       "Quantum machine learning via vector embeddings",
       "https://arxiv.org/abs/2508.00024"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 22:29:49",
-      "https://news.ycombinator.com/item?id=44805261"
-    ],
-    [
-      "HHS Winds Down mRNA Vaccine Development Under BARDA",
-      "https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html"
     ]
   ],
   [
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2025-08-05, 19:19:25",
+      "https://news.ycombinator.com/item?id=44802916"
+    ],
+    [
+      "AI is propping up the US economy",
+      "https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 19:17:38",
       "https://news.ycombinator.com/item?id=44802886"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2025-08-05, 17:39:26",
-      "https://news.ycombinator.com/item?id=44801399"
-    ],
-    [
-      "Show HN: Whittle – A Shrinking Word Game",
-      "https://playwhittle.com/"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 17:18:37",
       "https://news.ycombinator.com/item?id=44801027"
     ],
@@ -117,16 +137,6 @@
     [
       "Claude Opus 4.1",
       "https://www.anthropic.com/news/claude-opus-4-1"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 15:44:09",
-      "https://news.ycombinator.com/item?id=44799494"
-    ],
-    [
-      "GitHub pull requests were down",
-      "https://www.githubstatus.com/incidents/6swp0zf7lk8h"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-08-05, 06:33:04",
-      "https://news.ycombinator.com/item?id=44794926"
-    ],
-    [
-      "Apache ECharts 6",
-      "https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 01:43:40",
       "https://news.ycombinator.com/item?id=44793446"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-08-03, 13:35:40",
-      "https://news.ycombinator.com/item?id=44776505"
-    ],
-    [
-      "The mystery of Winston Churchill's dead platypus was finally solved",
-      "https://www.bbc.com/news/articles/cglzl1ez283o"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 20:27:59",
       "https://news.ycombinator.com/item?id=44771116"
     ],
@@ -297,6 +287,16 @@
     [
       "The First Widespread Cure for HIV Could Be in Children",
       "https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 07:31:11",
+      "https://news.ycombinator.com/item?id=44765514"
+    ],
+    [
+      "Termagotchi – A terminal-based Tamagotchi simulation written in Go",
+      "https://github.com/ezeoleaf/termagotchi"
     ]
   ]
 ]
