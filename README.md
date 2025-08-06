@@ -25,10 +25,10 @@
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 * [2025-08-04, 16:46:10](https://news.ycombinator.com/item?id=44788321) - [Why is it worth spending time on type theory? (2013)](https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory)
 * [2025-08-04, 09:48:15](https://news.ycombinator.com/item?id=44783717) - [The Real Origin of Cisco Systems (1999)](https://www.tcracs.org/tcrwp/1origin-of-cisco/)
+* [2025-08-04, 01:31:42](https://news.ycombinator.com/item?id=44781343) - [A Man Who Beat IBM](https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm)
 * [2025-08-03, 19:11:40](https://news.ycombinator.com/item?id=44778898) - [Comptime.ts: compile-time expressions for TypeScript](https://comptime.js.org/)
 * [2025-08-03, 18:54:34](https://news.ycombinator.com/item?id=44778772) - [The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals](https://books.open.tudelft.nl/home/catalog/book/11)
 * [2025-08-03, 15:08:58](https://news.ycombinator.com/item?id=44777086) - [Automerge 3.0](https://automerge.org/blog/automerge-3/)
-* [2025-08-03, 14:38:36](https://news.ycombinator.com/item?id=44776871) - [Show HN: Write lead sheets in a Markdown way and transpose in a second](https://cord.land/landing)
 * [2025-08-03, 02:00:51](https://news.ycombinator.com/item?id=44773480) - [Converting Existing Users to systemd-homed](https://systemd.io/CONVERTING_TO_HOMED/)
 
 ## [Archives](archives/index.md)
