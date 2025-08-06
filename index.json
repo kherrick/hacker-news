@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-08-06, 15:33:37",
-      "https://news.ycombinator.com/item?id=44813397"
+      "2025-08-06, 16:08:23",
+      "https://news.ycombinator.com/item?id=44813905"
     ],
     [
-      "We shouldn't have needed lockfiles",
-      "https://tonsky.me/blog/lockfiles/"
+      "Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist",
+      "https://github.com/berbyte/sinkzone"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 16:00:54",
+      "https://news.ycombinator.com/item?id=44813789"
+    ],
+    [
+      "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
+      "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 15:50:47",
+      "https://news.ycombinator.com/item?id=44813627"
+    ],
+    [
+      "Qwen3-4B-Thinking-2507",
+      "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507"
     ]
   ],
   [
@@ -47,26 +67,6 @@
     [
       "Dotfiles feel too intimate and personal to share",
       "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 14:18:44",
-      "https://news.ycombinator.com/item?id=44812375"
-    ],
-    [
-      "Constitution.congress.gov/constitution 6/8/25 –> 8/4/25 Diff",
-      "https://web.archive.org/web/diff/20250601021212/20250806023110/https://constitution.congress.gov/constitution/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 14:13:39",
-      "https://news.ycombinator.com/item?id=44812315"
-    ],
-    [
-      "The Militarization of Silicon Valley",
-      "https://www.nytimes.com/2025/08/04/technology/google-meta-openai-military-war.html"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-08-06, 11:57:21",
+      "https://news.ycombinator.com/item?id=44810804"
+    ],
+    [
+      "The Future of Small Presses in the Aftermath of the NEA Grant Chaos",
+      "https://lithub.com/on-the-future-of-small-presses-in-the-aftermath-of-the-nea-grant-chaos/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 11:23:42",
       "https://news.ycombinator.com/item?id=44810552"
     ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2025-08-06, 07:12:08",
+      "https://news.ycombinator.com/item?id=44808693"
+    ],
+    [
+      "Some thoughts on journals, refereeing, and the P vs NP problem",
+      "https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 06:51:13",
       "https://news.ycombinator.com/item?id=44808542"
     ],
@@ -237,26 +257,6 @@
     [
       "Software Rot",
       "https://permacomputing.net/software_rot/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 21:02:21",
-      "https://news.ycombinator.com/item?id=44804230"
-    ],
-    [
-      "Kyber (YC W23) is hiring enterprise account executives",
-      "https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 18:46:18",
-      "https://news.ycombinator.com/item?id=44802414"
-    ],
-    [
-      "Ollama Turbo",
-      "https://ollama.com/turbo"
     ]
   ],
   [
