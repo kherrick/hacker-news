@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-06, 17:57:57",
+      "https://news.ycombinator.com/item?id=44815405"
+    ],
+    [
+      "Gleam v1.12.0 Released",
+      "https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 17:38:09",
+      "https://news.ycombinator.com/item?id=44815125"
+    ],
+    [
+      "Why blocking LLMs from your website is dumb",
+      "https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 17:28:56",
       "https://news.ycombinator.com/item?id=44814993"
     ],
@@ -21,11 +41,21 @@
   ],
   [
     [
+      "2025-08-06, 16:32:50",
+      "https://news.ycombinator.com/item?id=44814278"
+    ],
+    [
+      "The internet wants to check your ID",
+      "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 16:08:23",
       "https://news.ycombinator.com/item?id=44813905"
     ],
     [
-      "Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist",
+      "Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist",
       "https://github.com/berbyte/sinkzone"
     ]
   ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44813854"
     ],
     [
-      "Jules, our asynchronous coding agent, is now available for everyone",
+      "Jules, our asynchronous coding agent",
       "https://blog.google/technology/google-labs/jules-now-available/"
     ]
   ],
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=44812985"
     ],
     [
-      "Zig-Error-Patterns",
+      "Zig Error Patterns",
       "https://glfmn.io/posts/zig-error-patterns/"
     ]
   ],
@@ -115,18 +145,8 @@
       "https://news.ycombinator.com/item?id=44812611"
     ],
     [
-      "Dotfiles feel too intimate and personal to share",
+      "Dotfiles feel too personal to share",
       "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 14:12:09",
-      "https://news.ycombinator.com/item?id=44812297"
-    ],
-    [
-      "Providing ChatGPT to the U.S. federal workforce",
-      "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce/"
     ]
   ],
   [
@@ -151,22 +171,22 @@
   ],
   [
     [
-      "2025-08-06, 13:41:46",
-      "https://news.ycombinator.com/item?id=44811905"
-    ],
-    [
-      "Omarchy, a Linux Distribution by DHH",
-      "https://omarchy.org/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 13:17:38",
       "https://news.ycombinator.com/item?id=44811567"
     ],
     [
       "Claude Code IDE integration for Emacs",
       "https://github.com/manzaltu/claude-code-ide.el"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 13:01:36",
+      "https://news.ycombinator.com/item?id=44811387"
+    ],
+    [
+      "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
+      "https://github.com/shutootaki/bookwith"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-08-06, 10:44:38",
-      "https://news.ycombinator.com/item?id=44810307"
-    ],
-    [
-      "LLM Inflation",
-      "https://tratt.net/laurie/blog/2025/llm_inflation.html"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 10:41:01",
       "https://news.ycombinator.com/item?id=44810281"
     ],
@@ -217,16 +227,6 @@
     [
       "Python performance myths and fairy tales",
       "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 07:25:43",
-      "https://news.ycombinator.com/item?id=44808794"
-    ],
-    [
-      "I gave the AI arms and legs then it rejected me",
-      "https://grell.dev/blog/ai_rejection"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=44788321"
     ],
     [
-      "Why is it worth spending time on type theory?",
+      "Why is it worth spending time on type theory? (2013)",
       "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory"
     ]
   ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-08-03, 19:58:55",
-      "https://news.ycombinator.com/item?id=44779240"
+      "2025-08-04, 02:47:02",
+      "https://news.ycombinator.com/item?id=44781683"
     ],
     [
-      "Critcl – C Runtime in Tcl",
-      "https://andreas-kupries.github.io/critcl/"
+      "Realizing we needed two sorts of alerts for our temperature monitoring",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomTempTwoSortsOfAlerts"
     ]
   ],
   [
