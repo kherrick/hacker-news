@@ -1,32 +1,52 @@
 [
   [
     [
-      "2025-08-06, 13:03:16",
-      "https://news.ycombinator.com/item?id=44811406"
+      "2025-08-06, 13:40:14",
+      "https://news.ycombinator.com/item?id=44811877"
     ],
     [
-      "Electric bikes might just be the healthiest thing to ever happen to teenagers",
-      "https://electrek.co/2025/08/05/electric-bikes-might-just-be-the-healthiest-thing-to-ever-happen-to-teenagers/"
+      "The Constitution Has Been Changed",
+      "https://slrpnk.net/post/25696399"
     ]
   ],
   [
     [
-      "2025-08-06, 12:37:00",
-      "https://news.ycombinator.com/item?id=44811151"
+      "2025-08-06, 13:17:38",
+      "https://news.ycombinator.com/item?id=44811567"
     ],
     [
-      "Grok generates fake Taylor Swift nudes without being asked",
-      "https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/"
+      "Claude Code IDE Integration for Emacs",
+      "https://github.com/manzaltu/claude-code-ide.el"
     ]
   ],
   [
     [
-      "2025-08-06, 11:43:12",
-      "https://news.ycombinator.com/item?id=44810695"
+      "2025-08-06, 13:08:01",
+      "https://news.ycombinator.com/item?id=44811457"
     ],
     [
-      "Slopsquatting",
-      "https://en.wikipedia.org/wiki/Slopsquatting"
+      "Ask HN: Do you struggle with flow state when using AI assisted coding tools?",
+      "https://news.ycombinator.com/item?id=44811457"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 13:01:36",
+      "https://news.ycombinator.com/item?id=44811387"
+    ],
+    [
+      "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
+      "https://github.com/shutootaki/bookwith"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 12:50:06",
+      "https://news.ycombinator.com/item?id=44811280"
+    ],
+    [
+      "303Gen – 303 acid loops generator",
+      "https://303-gen-06a668.netlify.app/"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2025-08-06, 08:36:28",
+      "https://news.ycombinator.com/item?id=44809387"
+    ],
+    [
+      "Python performance myths and fairy tales",
+      "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 07:25:43",
       "https://news.ycombinator.com/item?id=44808794"
     ],
@@ -97,6 +127,16 @@
     [
       "Some thoughts on journals, refereeing, and the P vs NP problem",
       "https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 06:51:13",
+      "https://news.ycombinator.com/item?id=44808542"
+    ],
+    [
+      "Rethinking DOM from first principles",
+      "https://acko.net/blog/html-is-dead-long-live-html/"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2025-08-05, 17:18:37",
-      "https://news.ycombinator.com/item?id=44801027"
-    ],
-    [
-      "Consider using Zstandard and/or LZ4 instead of Deflate",
-      "https://github.com/w3c/png/issues/39"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 17:02:02",
       "https://news.ycombinator.com/item?id=44800746"
     ],
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2025-08-05, 16:28:05",
-      "https://news.ycombinator.com/item?id=44800185"
-    ],
-    [
-      "Claude Opus 4.1",
-      "https://www.anthropic.com/news/claude-opus-4-1"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 14:28:39",
       "https://news.ycombinator.com/item?id=44798410"
     ],
     [
       "Ozempic shows anti-aging effects in trial",
       "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 14:10:42",
-      "https://news.ycombinator.com/item?id=44798189"
-    ],
-    [
-      "Things that helped me get out of the AI 10x engineer imposter syndrome",
-      "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2025-08-05, 09:01:54",
-      "https://news.ycombinator.com/item?id=44795825"
+      "2025-08-04, 20:20:26",
+      "https://news.ycombinator.com/item?id=44790918"
     ],
     [
-      "uBlock Origin Lite now available for Safari",
-      "https://apps.apple.com/app/ublock-origin-lite/id6745342698"
+      "Speedhunters was a car culture juggernaut",
+      "https://www.thedrive.com/news/speedhunters-was-a-car-culture-juggernaut-this-is-how-it-died"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "UR5 with Robotiq 85 Gripper: Object Grasping and Placement Simulation",
       "https://github.com/leesweqq/ur5_grasp_object_pybullet"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 11:37:00",
-      "https://news.ycombinator.com/item?id=44766771"
-    ],
-    [
-      "Ask HN: Have you ever regretted open-sourcing something?",
-      "https://news.ycombinator.com/item?id=44766771"
     ]
   ]
 ]
