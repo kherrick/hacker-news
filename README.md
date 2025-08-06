@@ -4,6 +4,7 @@
 * [2025-08-06, 16:08:23](https://news.ycombinator.com/item?id=44813905) - [Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist](https://github.com/berbyte/sinkzone)
 * [2025-08-06, 16:00:54](https://news.ycombinator.com/item?id=44813789) - [Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work](https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/)
 * [2025-08-06, 15:50:47](https://news.ycombinator.com/item?id=44813627) - [Qwen3-4B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507)
+* [2025-08-06, 15:33:37](https://news.ycombinator.com/item?id=44813397) - [We shouldn't have needed lockfiles](https://tonsky.me/blog/lockfiles/)
 * [2025-08-06, 15:13:30](https://news.ycombinator.com/item?id=44813110) - [NetBird Is Embracing the AGPLv3 License](https://netbird.io/knowledge-hub/netbird-agpl-announcement)
 * [2025-08-06, 15:03:19](https://news.ycombinator.com/item?id=44812985) - [Zig-Error-Patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:43:02](https://news.ycombinator.com/item?id=44812695) - [Breaking the sorting barrier for directed single-source shortest paths](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
@@ -12,7 +13,7 @@
 * [2025-08-06, 14:04:13](https://news.ycombinator.com/item?id=44812198) - [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
 * [2025-08-06, 13:47:33](https://news.ycombinator.com/item?id=44811996) - [How to Scale Proteomics](https://www.asimov.press/p/proteomics)
 * [2025-08-06, 13:41:46](https://news.ycombinator.com/item?id=44811905) - [Omarchy, a Linux Distribution by DHH](https://omarchy.org/)
-* [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE Integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
+* [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 * [2025-08-06, 13:01:36](https://news.ycombinator.com/item?id=44811387) - [Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM](https://github.com/shutootaki/bookwith)
 * [2025-08-06, 12:50:06](https://news.ycombinator.com/item?id=44811280) - [303Gen – 303 acid loops generator](https://303-gen-06a668.netlify.app/)
 * [2025-08-06, 11:23:42](https://news.ycombinator.com/item?id=44810552) - [NautilusTrader: Open-source algorithmic trading platform](https://nautilustrader.io/)
@@ -29,7 +30,6 @@
 * [2025-08-04, 09:48:15](https://news.ycombinator.com/item?id=44783717) - [The Origin of Cisco Systems](https://www.tcracs.org/tcrwp/1origin-of-cisco/)
 * [2025-08-03, 19:58:55](https://news.ycombinator.com/item?id=44779240) - [Critcl – C Runtime in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 18:54:34](https://news.ycombinator.com/item?id=44778772) - [The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals](https://books.open.tudelft.nl/home/catalog/book/11)
-* [2025-08-03, 15:08:58](https://news.ycombinator.com/item?id=44777086) - [Automerge 3.0](https://automerge.org/blog/automerge-3/)
 
 ## [Archives](archives/index.md)
 
