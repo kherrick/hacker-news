@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-06, 05:04:36",
+      "https://news.ycombinator.com/item?id=44807868"
+    ],
+    [
+      "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+      "https://github.com/KittenML/KittenTTS"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 03:59:11",
+      "https://news.ycombinator.com/item?id=44807480"
+    ],
+    [
+      "PlayReady DRM leak triggers Microsoft takedown and Amazon account suspensions",
+      "https://torrentfreak.com/playready-drm-leak-triggers-microsoft-takedown-and-amazon-account-suspensions/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 03:49:02",
       "https://news.ycombinator.com/item?id=44807410"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-08-04, 10:58:27",
-      "https://news.ycombinator.com/item?id=44784163"
+      "2025-08-03, 14:06:47",
+      "https://news.ycombinator.com/item?id=44776695"
     ],
     [
-      "Fun with MeshBlend",
-      "https://www.c0de517e.com/024_meshblend.htm"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 05:03:12",
-      "https://news.ycombinator.com/item?id=44782260"
-    ],
-    [
-      "When Disney Went Digital",
-      "https://animationobsessive.substack.com/p/when-disney-went-digital"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 20:27:59",
-      "https://news.ycombinator.com/item?id=44771116"
-    ],
-    [
-      "Cow vs. Water Buffalo Mozzarella (2011)",
-      "http://itscheese.com/reviews/mozzarella"
+      "Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces",
+      "https://leftarcode.com/posts/afd-reverse-engineering-part1/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=44765981"
     ],
     [
-      "The First Widespread Cure for HIV Could Be in Children",
+      "The first widespread cure for HIV could be in children",
       "https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/"
     ]
   ]
