@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-08-06, 15:33:37",
+      "https://news.ycombinator.com/item?id=44813397"
+    ],
+    [
+      "We shouldn't have needed lockfiles",
+      "https://tonsky.me/blog/lockfiles/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 15:13:30",
       "https://news.ycombinator.com/item?id=44813110"
     ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=44811567"
     ],
     [
-      "Claude Code IDE Integration for Emacs",
+      "Claude Code IDE integration for Emacs",
       "https://github.com/manzaltu/claude-code-ide.el"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals",
       "https://books.open.tudelft.nl/home/catalog/book/11"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 15:08:58",
-      "https://news.ycombinator.com/item?id=44777086"
-    ],
-    [
-      "Automerge 3.0",
-      "https://automerge.org/blog/automerge-3/"
     ]
   ]
 ]
