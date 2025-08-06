@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 14:04:13](https://news.ycombinator.com/item?id=44812198) - [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
+* [2025-08-06, 13:41:46](https://news.ycombinator.com/item?id=44811905) - [Omarchy, a Linux Distribution by DHH](https://omarchy.org/)
 * [2025-08-06, 13:40:14](https://news.ycombinator.com/item?id=44811877) - [The Constitution Has Been Changed](https://slrpnk.net/post/25696399)
+* [2025-08-06, 13:30:11](https://news.ycombinator.com/item?id=44811733) - [Constitution of the United States Website has removed sections (web.archive.org)](https://old.reddit.com/r/law/comments/1mj3ttx/constitution_of_the_united_states_website_has/)
+* [2025-08-06, 13:20:21](https://news.ycombinator.com/item?id=44811602) - [Coffee-shop pitch change helped founder unlock traction for laptop campers](https://iwantproductmarketfit.substack.com/p/how-one-pitch-change-helped-this)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE Integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
+* [2025-08-06, 13:17:30](https://news.ycombinator.com/item?id=44811564) - [EU proposal to scan all private messages gains momentum](https://cointelegraph.com/news/eu-chat-control-plan-gains-support-threatens-encryption)
 * [2025-08-06, 13:08:01](https://news.ycombinator.com/item?id=44811457) - [Ask HN: Do you struggle with flow state when using AI assisted coding tools?](https://news.ycombinator.com/item?id=44811457)
 * [2025-08-06, 13:03:16](https://news.ycombinator.com/item?id=44811406) - [Electric bikes might just be the healthiest thing to ever happen to teenagers](https://electrek.co/2025/08/05/electric-bikes-might-just-be-the-healthiest-thing-to-ever-happen-to-teenagers/)
 * [2025-08-06, 13:01:36](https://news.ycombinator.com/item?id=44811387) - [Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM](https://github.com/shutootaki/bookwith)
