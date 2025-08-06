@@ -68,6 +68,7 @@
 * [2025-08-02, 08:24:29](https://news.ycombinator.com/item?id=44765730) - [Welcome to Url.town, Population 465](https://url.town/)
 * [2025-08-02, 07:52:40](https://news.ycombinator.com/item?id=44765600) - [Microsoft is open sourcing Windows 11's UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
 * [2025-08-02, 07:39:42](https://news.ycombinator.com/item?id=44765562) - [Collections: Life, Work, Death and the Peasant, Part IIIa: Family Formation](https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/)
+* [2025-08-02, 07:31:11](https://news.ycombinator.com/item?id=44765514) - [Termagotchi – A terminal-based Tamagotchi simulation written in Go](https://github.com/ezeoleaf/termagotchi)
 * [2025-08-02, 07:27:18](https://news.ycombinator.com/item?id=44765498) - [Meejah/shwim: Peer-to-peer terminal sharing](https://github.com/meejah/shwim)
 * [2025-08-02, 06:34:25](https://news.ycombinator.com/item?id=44765292) - [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
 * [2025-08-02, 06:28:31](https://news.ycombinator.com/item?id=44765264) - [Terence Tao weighs in on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
