@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 18:43:29](https://news.ycombinator.com/item?id=44815967) - [States and Cities Decimated Americans' Lowest-Cost Housing Option](https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option)
 * [2025-08-06, 18:37:21](https://news.ycombinator.com/item?id=44815877) - [Cognitive Decline Can Be Slowed Down with Lifestyle Changes](https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/)
 * [2025-08-06, 18:32:27](https://news.ycombinator.com/item?id=44815823) - [Did we just lose $7 billion for solar?](https://www.vox.com/the-logoff-newsletter-trump/422456/trump-epa-solar-panels-grants-funding-attack)
 * [2025-08-06, 18:21:28](https://news.ycombinator.com/item?id=44815702) - [A Fast, Growable Array with Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
