@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-06, 21:29:30",
+      "https://news.ycombinator.com/item?id=44818077"
+    ],
+    [
+      "The new shape of Mixxx 3.0 – take part in the future of Open Source DJing",
+      "https://mixxx.org/news/2025-08-06-qml-project/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 21:26:04",
+      "https://news.ycombinator.com/item?id=44818044"
+    ],
+    [
+      "Analyzing Control Flow More Like a Human [video]",
+      "http://wonks.github.io/germane/summer2025/2025/08/06/germane.html"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 20:54:39",
       "https://news.ycombinator.com/item?id=44817725"
     ],
@@ -27,6 +47,16 @@
     [
       "Project Hyperion: Interstellar ship design competition",
       "https://www.projecthyperion.org"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 20:38:22",
+      "https://news.ycombinator.com/item?id=44817508"
+    ],
+    [
+      "40 Years of the Amiga, from Commodore",
+      "https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-08-06, 16:08:23",
-      "https://news.ycombinator.com/item?id=44813905"
-    ],
-    [
-      "Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist",
-      "https://github.com/berbyte/sinkzone"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 16:05:39",
       "https://news.ycombinator.com/item?id=44813854"
     ],
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2025-08-06, 10:41:01",
-      "https://news.ycombinator.com/item?id=44810281"
-    ],
-    [
-      "About the BLOBs in Ventoy",
-      "https://github.com/ventoy/Ventoy/issues/3224"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 07:25:43",
-      "https://news.ycombinator.com/item?id=44808794"
-    ],
-    [
-      "I gave the AI arms and legs then it rejected me",
-      "https://grell.dev/blog/ai_rejection"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 06:51:13",
       "https://news.ycombinator.com/item?id=44808542"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-08-03, 18:54:34",
-      "https://news.ycombinator.com/item?id=44778772"
-    ],
-    [
-      "The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals",
-      "https://books.open.tudelft.nl/home/catalog/book/11"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 15:08:58",
       "https://news.ycombinator.com/item?id=44777086"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: Write lead sheets in a Markdown way and transpose in a second",
       "https://cord.land/landing"
+    ]
+  ],
+  [
+    [
+      "2025-08-03, 02:00:51",
+      "https://news.ycombinator.com/item?id=44773480"
+    ],
+    [
+      "Converting Existing Users to systemd-homed",
+      "https://systemd.io/CONVERTING_TO_HOMED/"
     ]
   ]
 ]
