@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-08-06, 03:49:02",
+      "https://news.ycombinator.com/item?id=44807410"
+    ],
+    [
+      "The Amaranth hardware description language",
+      "https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 03:14:22",
+      "https://news.ycombinator.com/item?id=44807210"
+    ],
+    [
+      "I'm Archiving Picocrypt",
+      "https://github.com/Picocrypt/Picocrypt/issues/134"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 03:05:17",
       "https://news.ycombinator.com/item?id=44807154"
     ],
     [
       "Marines now have an official drone-fighting handbook",
       "https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 02:57:05",
-      "https://news.ycombinator.com/item?id=44807115"
-    ],
-    [
-      "I built a tool to help people remove their info from the Tea App",
-      "https://www.suetea.com/"
     ]
   ],
   [
@@ -51,26 +61,6 @@
   ],
   [
     [
-      "2025-08-06, 01:50:22",
-      "https://news.ycombinator.com/item?id=44806764"
-    ],
-    [
-      "If you're a direct employee of HP/Compaq you're not allowed to look at this code",
-      "https://www.ukcert.org.uk/repository/exploits/NETSYS_COM%20-%20The%20Intelligent%20Hacker%27s%20Choice%20-%20http--www_netsys_com-library-alerts-2002-08-05-dxchpwd.txt"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 01:13:17",
-      "https://news.ycombinator.com/item?id=44806543"
-    ],
-    [
-      "Kitten TTS: 25MB CPU-Only, Open-Source Voice Model",
-      "https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 21:14:49",
       "https://news.ycombinator.com/item?id=44804411"
     ],
@@ -87,16 +77,6 @@
     [
       "Kyber (YC W23) is hiring enterprise account executives",
       "https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 20:46:38",
-      "https://news.ycombinator.com/item?id=44804043"
-    ],
-    [
-      "What's wrong with the JSON gem API?",
-      "https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html"
     ]
   ],
   [
@@ -257,6 +237,26 @@
     [
       "uBlock Origin Lite now available for Safari",
       "https://apps.apple.com/app/ublock-origin-lite/id6745342698"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 01:43:40",
+      "https://news.ycombinator.com/item?id=44793446"
+    ],
+    [
+      "Tell HN: Anthropic expires paid credits after a year",
+      "https://news.ycombinator.com/item?id=44793446"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 10:58:27",
+      "https://news.ycombinator.com/item?id=44784163"
+    ],
+    [
+      "Fun with MeshBlend",
+      "https://www.c0de517e.com/024_meshblend.htm"
     ]
   ],
   [
