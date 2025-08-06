@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
+* [2025-08-06, 03:59:11](https://news.ycombinator.com/item?id=44807480) - [PlayReady DRM leak triggers Microsoft takedown and Amazon account suspensions](https://torrentfreak.com/playready-drm-leak-triggers-microsoft-takedown-and-amazon-account-suspensions/)
 * [2025-08-06, 03:49:02](https://news.ycombinator.com/item?id=44807410) - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
 * [2025-08-06, 03:14:22](https://news.ycombinator.com/item?id=44807210) - [I'm Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
 * [2025-08-06, 03:05:17](https://news.ycombinator.com/item?id=44807154) - [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
@@ -25,11 +27,9 @@
 * [2025-08-05, 10:56:07](https://news.ycombinator.com/item?id=44796526) - [Scientific fraud has become an 'industry,' analysis finds](https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds)
 * [2025-08-05, 09:01:54](https://news.ycombinator.com/item?id=44795825) - [uBlock Origin Lite now available for Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698)
 * [2025-08-05, 01:43:40](https://news.ycombinator.com/item?id=44793446) - [Tell HN: Anthropic expires paid credits after a year](https://news.ycombinator.com/item?id=44793446)
-* [2025-08-04, 10:58:27](https://news.ycombinator.com/item?id=44784163) - [Fun with MeshBlend](https://www.c0de517e.com/024_meshblend.htm)
-* [2025-08-04, 05:03:12](https://news.ycombinator.com/item?id=44782260) - [When Disney Went Digital](https://animationobsessive.substack.com/p/when-disney-went-digital)
-* [2025-08-02, 20:27:59](https://news.ycombinator.com/item?id=44771116) - [Cow vs. Water Buffalo Mozzarella (2011)](http://itscheese.com/reviews/mozzarella)
+* [2025-08-03, 14:06:47](https://news.ycombinator.com/item?id=44776695) - [Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces](https://leftarcode.com/posts/afd-reverse-engineering-part1/)
 * [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
-* [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
+* [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The first widespread cure for HIV could be in children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 
 ## [Archives](archives/index.md)
 

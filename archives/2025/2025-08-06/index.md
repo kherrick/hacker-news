@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
+* [2025-08-06, 03:59:11](https://news.ycombinator.com/item?id=44807480) - [PlayReady DRM leak triggers Microsoft takedown and Amazon account suspensions](https://torrentfreak.com/playready-drm-leak-triggers-microsoft-takedown-and-amazon-account-suspensions/)
 * [2025-08-06, 03:49:02](https://news.ycombinator.com/item?id=44807410) - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
 * [2025-08-06, 03:14:22](https://news.ycombinator.com/item?id=44807210) - [I'm Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
 * [2025-08-06, 03:05:17](https://news.ycombinator.com/item?id=44807154) - [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
