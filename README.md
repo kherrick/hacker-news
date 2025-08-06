@@ -9,7 +9,6 @@
 * [2025-08-06, 03:14:22](https://news.ycombinator.com/item?id=44807210) - [I'm Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
 * [2025-08-06, 02:35:19](https://news.ycombinator.com/item?id=44807002) - [Software Rot](https://permacomputing.net/software_rot/)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
-* [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
 * [2025-08-05, 19:19:25](https://news.ycombinator.com/item?id=44802916) - [AI is propping up the US economy](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
 * [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [Spotting base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
@@ -17,6 +16,7 @@
 * [2025-08-05, 17:18:37](https://news.ycombinator.com/item?id=44801027) - [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
 * [2025-08-05, 17:02:02](https://news.ycombinator.com/item?id=44800746) - [Open models by OpenAI](https://openai.com/open-models/)
 * [2025-08-05, 16:28:05](https://news.ycombinator.com/item?id=44800185) - [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
+* [2025-08-05, 14:47:07](https://news.ycombinator.com/item?id=44798695) - [Los Alamos is capturing images of explosions at 7 millionths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging)
 * [2025-08-05, 14:38:36](https://news.ycombinator.com/item?id=44798553) - [Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases](https://github.com/stagewise-io/stagewise)
 * [2025-08-05, 14:28:39](https://news.ycombinator.com/item?id=44798410) - [Ozempic shows anti-aging effects in trial](https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years)
 * [2025-08-05, 14:10:42](https://news.ycombinator.com/item?id=44798189) - [Things that helped me get out of the AI 10x engineer imposter syndrome](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
@@ -27,9 +27,9 @@
 * [2025-08-05, 01:43:40](https://news.ycombinator.com/item?id=44793446) - [Tell HN: Anthropic expires paid credits after a year](https://news.ycombinator.com/item?id=44793446)
 * [2025-08-04, 19:13:35](https://news.ycombinator.com/item?id=44790191) - [Show HN: FFlags – Feature flags as code, served from the edge](https://fflags.com)
 * [2025-08-04, 06:35:17](https://news.ycombinator.com/item?id=44782690) - [Kart – Distributed version-control for geospatial and tabular data](https://kartproject.org/)
+* [2025-08-02, 12:50:26](https://news.ycombinator.com/item?id=44767197) - [UR5 with Robotiq 85 Gripper: Object Grasping and Placement Simulation](https://github.com/leesweqq/ur5_grasp_object_pybullet)
 * [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
 * [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The first widespread cure for HIV could be in children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
-* [2025-08-02, 08:29:23](https://news.ycombinator.com/item?id=44765748) - [C++26 Reflections adventures and compile time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
 
 ## [Archives](archives/index.md)
 

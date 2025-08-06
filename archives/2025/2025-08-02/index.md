@@ -44,6 +44,7 @@
 * [2025-08-02, 13:32:36](https://news.ycombinator.com/item?id=44767461) - [Cadence Guilty, Pays $140M for Exporting Semi Design Tools to PRC Military Uni](https://www.justice.gov/opa/pr/cadence-design-systems-agrees-plead-guilty-and-pay-over-140-million-unlawfully-exporting)
 * [2025-08-02, 13:27:25](https://news.ycombinator.com/item?id=44767433) - [Anandtech.com now redirects to its forums](https://forums.anandtech.com/)
 * [2025-08-02, 13:09:06](https://news.ycombinator.com/item?id=44767304) - [Show HN: NaturalCron – Human-Readable Scheduling for .NET (With Fluent Builder)](https://github.com/hugoj0s3/NaturalCron)
+* [2025-08-02, 12:50:26](https://news.ycombinator.com/item?id=44767197) - [UR5 with Robotiq 85 Gripper: Object Grasping and Placement Simulation](https://github.com/leesweqq/ur5_grasp_object_pybullet)
 * [2025-08-02, 12:46:37](https://news.ycombinator.com/item?id=44767163) - [Lamport's Byzantine Generals Algorithm in Python](https://bytepawn.com/lamport-byzantine-generals.html)
 * [2025-08-02, 12:40:11](https://news.ycombinator.com/item?id=44767125) - [ThinkPad designer David Hill spills secrets, designs that never made it](https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/)
 * [2025-08-02, 12:37:01](https://news.ycombinator.com/item?id=44767097) - [A Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/)
