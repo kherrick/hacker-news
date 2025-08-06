@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 19:16:30](https://news.ycombinator.com/item?id=44816396) - [Is Economics education fit for the 21st Century?](https://rethinkeconomics.org/resources/educational-material/is-economics-education-fit-for-the-21st-century-executive-summary/)
 * [2025-08-06, 19:15:30](https://news.ycombinator.com/item?id=44816385) - [19% of California houses are owned by investors](https://www.ocregister.com/2025/07/21/19-of-california-houses-are-owned-by-investors/)
 * [2025-08-06, 19:00:09](https://news.ycombinator.com/item?id=44816165) - [Brennan Center for Justice Report: The Campaign to Undermine the Next Election](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election)
 * [2025-08-06, 18:57:02](https://news.ycombinator.com/item?id=44816122) - [\"This question has been retired\"](https://learn.microsoft.com/en-us/answers/questions/009ae104-47ff-475c-adc1-d5f9604927de/can-i-open-16-bit-application-in-windows-8?forum=windows-all&referrer=answers)

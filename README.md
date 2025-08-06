@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-06, 19:16:30](https://news.ycombinator.com/item?id=44816396) - [Is Economics education fit for the 21st Century?](https://rethinkeconomics.org/resources/educational-material/is-economics-education-fit-for-the-21st-century-executive-summary/)
 * [2025-08-06, 19:15:30](https://news.ycombinator.com/item?id=44816385) - [19% of California houses are owned by investors](https://www.ocregister.com/2025/07/21/19-of-california-houses-are-owned-by-investors/)
 * [2025-08-06, 19:00:09](https://news.ycombinator.com/item?id=44816165) - [Brennan Center for Justice Report: The Campaign to Undermine the Next Election](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election)
 * [2025-08-06, 18:57:02](https://news.ycombinator.com/item?id=44816122) - [\"This question has been retired\"](https://learn.microsoft.com/en-us/answers/questions/009ae104-47ff-475c-adc1-d5f9604927de/can-i-open-16-bit-application-in-windows-8?forum=windows-all&referrer=answers)
@@ -10,7 +11,6 @@
 * [2025-08-06, 17:57:57](https://news.ycombinator.com/item?id=44815405) - [Gleam v1.12.0 Released](https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md)
 * [2025-08-06, 17:38:09](https://news.ycombinator.com/item?id=44815125) - [Blocking LLMs from your website cuts you off from next-generation search](https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d)
 * [2025-08-06, 16:57:55](https://news.ycombinator.com/item?id=44814596) - [Multics](https://www.multicians.org/multics.html)
-* [2025-08-06, 16:32:50](https://news.ycombinator.com/item?id=44814278) - [The internet wants to check your ID](https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id)
 * [2025-08-06, 16:08:23](https://news.ycombinator.com/item?id=44813905) - [Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist](https://github.com/berbyte/sinkzone)
 * [2025-08-06, 16:05:39](https://news.ycombinator.com/item?id=44813854) - [Jules, our asynchronous coding agent](https://blog.google/technology/google-labs/jules-now-available/)
 * [2025-08-06, 16:00:54](https://news.ycombinator.com/item?id=44813789) - [Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work](https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/)
