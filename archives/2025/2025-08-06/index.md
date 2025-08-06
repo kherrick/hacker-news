@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 20:01:37](https://news.ycombinator.com/item?id=44816977) - [The History of F1 Design](https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026)
+* [2025-08-06, 19:43:01](https://news.ycombinator.com/item?id=44816755) - [Litestar Is Worth a Look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
+* [2025-08-06, 19:38:11](https://news.ycombinator.com/item?id=44816670) - [How and Why to Ditch GitHub](https://taggart-tech.com/migrate-to-codeberg/)
 * [2025-08-06, 19:16:30](https://news.ycombinator.com/item?id=44816396) - [Is Economics education fit for the 21st Century?](https://rethinkeconomics.org/resources/educational-material/is-economics-education-fit-for-the-21st-century-executive-summary/)
 * [2025-08-06, 19:15:30](https://news.ycombinator.com/item?id=44816385) - [19% of California houses are owned by investors](https://www.ocregister.com/2025/07/21/19-of-california-houses-are-owned-by-investors/)
 * [2025-08-06, 19:00:09](https://news.ycombinator.com/item?id=44816165) - [Brennan Center for Justice Report: The Campaign to Undermine the Next Election](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election)
