@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
 * [2025-08-06, 17:28:56](https://news.ycombinator.com/item?id=44814993) - [Wild pigs' flesh turning neon blue in California: Authorities sounding the alarm](https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html)
+* [2025-08-06, 16:57:55](https://news.ycombinator.com/item?id=44814596) - [Multics](https://www.multicians.org/multics.html)
 * [2025-08-06, 16:32:50](https://news.ycombinator.com/item?id=44814278) - [The Internet Wants to Check Your ID](https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id)
 * [2025-08-06, 16:08:23](https://news.ycombinator.com/item?id=44813905) - [Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist](https://github.com/berbyte/sinkzone)
 * [2025-08-06, 16:05:39](https://news.ycombinator.com/item?id=44813854) - [Jules, our asynchronous coding agent, is now available for everyone](https://blog.google/technology/google-labs/jules-now-available/)
