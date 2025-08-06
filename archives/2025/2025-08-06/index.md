@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 13:03:16](https://news.ycombinator.com/item?id=44811406) - [Electric bikes might just be the healthiest thing to ever happen to teenagers](https://electrek.co/2025/08/05/electric-bikes-might-just-be-the-healthiest-thing-to-ever-happen-to-teenagers/)
+* [2025-08-06, 12:37:00](https://news.ycombinator.com/item?id=44811151) - [Grok generates fake Taylor Swift nudes without being asked](https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/)
 * [2025-08-06, 11:44:52](https://news.ycombinator.com/item?id=44810708) - [Israel relying on Microsoft cloud for expansive surveillance of Palestinians](https://www.theguardian.com/world/2025/aug/06/microsoft-israeli-military-palestinian-phone-calls-cloud)
 * [2025-08-06, 11:43:12](https://news.ycombinator.com/item?id=44810695) - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
 * [2025-08-06, 11:27:27](https://news.ycombinator.com/item?id=44810574) - [Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
