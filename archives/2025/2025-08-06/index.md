@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 21:29:30](https://news.ycombinator.com/item?id=44818077) - [The new shape of Mixxx 3.0 – take part in the future of Open Source DJing](https://mixxx.org/news/2025-08-06-qml-project/)
+* [2025-08-06, 21:26:04](https://news.ycombinator.com/item?id=44818044) - [Analyzing Control Flow More Like a Human [video]](http://wonks.github.io/germane/summer2025/2025/08/06/germane.html)
 * [2025-08-06, 20:54:39](https://news.ycombinator.com/item?id=44817725) - [301party.com: The Intentionally Open Redirect](https://301party.com/)
 * [2025-08-06, 20:43:08](https://news.ycombinator.com/item?id=44817583) - [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
 * [2025-08-06, 20:40:17](https://news.ycombinator.com/item?id=44817539) - [Project Hyperion: Interstellar ship design competition](https://www.projecthyperion.org)
+* [2025-08-06, 20:38:22](https://news.ycombinator.com/item?id=44817508) - [40 Years of the Amiga, from Commodore](https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore)
 * [2025-08-06, 20:01:37](https://news.ycombinator.com/item?id=44816977) - [The History of F1 Design](https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026)
 * [2025-08-06, 19:43:01](https://news.ycombinator.com/item?id=44816755) - [Litestar Is Worth a Look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
 * [2025-08-06, 19:39:20](https://news.ycombinator.com/item?id=44816692) - [We'd be better off with 9-bit bytes](https://pavpanchekha.com/blog/9bit.html)

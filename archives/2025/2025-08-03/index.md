@@ -67,5 +67,6 @@
 * [2025-08-03, 03:53:56](https://news.ycombinator.com/item?id=44773965) - [Renaming this file changes what it does [video]](https://www.youtube.com/watch?v=o7qx-wgl3jo)
 * [2025-08-03, 03:43:42](https://news.ycombinator.com/item?id=44773919) - [Writing a basic service for GNU Guix](https://tannerhoelzel.com/gnu-shepherd-simple-service.html)
 * [2025-08-03, 02:52:09](https://news.ycombinator.com/item?id=44773690) - [Parsing Without ASTs and Optimizing with Sea of Nodes [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
+* [2025-08-03, 02:00:51](https://news.ycombinator.com/item?id=44773480) - [Converting Existing Users to systemd-homed](https://systemd.io/CONVERTING_TO_HOMED/)
 * [2025-08-03, 00:29:22](https://news.ycombinator.com/item?id=44772997) - [Show HN: Voltpeek – Vim-inspired oscilloscope software](https://github.com/schuyler4/voltpeek)
 * [2025-08-03, 00:12:15](https://news.ycombinator.com/item?id=44772917) - [C++26 Reflections adventures and compile-time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
