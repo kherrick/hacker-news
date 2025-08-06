@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-06, 18:37:21",
+      "https://news.ycombinator.com/item?id=44815877"
+    ],
+    [
+      "Cognitive Decline Can Be Slowed Down with Lifestyle Changes",
+      "https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 18:32:27",
+      "https://news.ycombinator.com/item?id=44815823"
+    ],
+    [
+      "Did we just lose $7 billion for solar?",
+      "https://www.vox.com/the-logoff-newsletter-trump/422456/trump-epa-solar-panels-grants-funding-attack"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 18:21:28",
+      "https://news.ycombinator.com/item?id=44815702"
+    ],
+    [
+      "A Fast, Growable Array with Stable Pointers in C",
+      "https://danielchasehooper.com/posts/segment_array/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 17:57:57",
       "https://news.ycombinator.com/item?id=44815405"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2025-08-06, 17:38:09",
-      "https://news.ycombinator.com/item?id=44815125"
+      "2025-08-06, 17:32:42",
+      "https://news.ycombinator.com/item?id=44815046"
     ],
     [
-      "Why blocking LLMs from your website is dumb",
-      "https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d"
+      "Google says AI in Search is driving more queries and higher quality clicks",
+      "https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "We shouldn't have needed lockfiles",
       "https://tonsky.me/blog/lockfiles/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 15:13:30",
-      "https://news.ycombinator.com/item?id=44813110"
-    ],
-    [
-      "NetBird Is Embracing the AGPLv3 License",
-      "https://netbird.io/knowledge-hub/netbird-agpl-announcement"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
       "https://github.com/KittenML/KittenTTS"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 02:35:19",
-      "https://news.ycombinator.com/item?id=44807002"
-    ],
-    [
-      "Software Rot",
-      "https://permacomputing.net/software_rot/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 17:02:02",
-      "https://news.ycombinator.com/item?id=44800746"
-    ],
-    [
-      "Open models by OpenAI",
-      "https://openai.com/open-models/"
     ]
   ],
   [
