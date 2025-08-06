@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-06, 19:15:30",
+      "https://news.ycombinator.com/item?id=44816385"
+    ],
+    [
+      "19% of California houses are owned by investors",
+      "https://www.ocregister.com/2025/07/21/19-of-california-houses-are-owned-by-investors/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 19:00:09",
+      "https://news.ycombinator.com/item?id=44816165"
+    ],
+    [
+      "Brennan Center for Justice Report: The Campaign to Undermine the Next Election",
+      "https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 18:57:02",
+      "https://news.ycombinator.com/item?id=44816122"
+    ],
+    [
+      "\"This question has been retired\"",
+      "https://learn.microsoft.com/en-us/answers/questions/009ae104-47ff-475c-adc1-d5f9604927de/can-i-open-16-bit-application-in-windows-8?forum=windows-all&referrer=answers"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 18:43:29",
       "https://news.ycombinator.com/item?id=44815967"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44815877"
     ],
     [
-      "Cognitive Decline Can Be Slowed Down with Lifestyle Changes",
+      "Cognitive decline can be slowed down with lifestyle changes",
       "https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Multics",
       "https://www.multicians.org/multics.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 16:32:50",
-      "https://news.ycombinator.com/item?id=44814278"
-    ],
-    [
-      "The internet wants to check your ID",
-      "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-08-06, 11:23:42",
-      "https://news.ycombinator.com/item?id=44810552"
-    ],
-    [
-      "NautilusTrader: Open-source algorithmic trading platform",
-      "https://nautilustrader.io/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 10:41:01",
       "https://news.ycombinator.com/item?id=44810281"
     ],
     [
       "About the BLOBs in Ventoy",
       "https://github.com/ventoy/Ventoy/issues/3224"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 08:36:28",
-      "https://news.ycombinator.com/item?id=44809387"
-    ],
-    [
-      "Python performance myths and fairy tales",
-      "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-08-04, 02:47:02",
-      "https://news.ycombinator.com/item?id=44781683"
+      "2025-08-03, 19:11:40",
+      "https://news.ycombinator.com/item?id=44778898"
     ],
     [
-      "Realizing we needed two sorts of alerts for our temperature monitoring",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomTempTwoSortsOfAlerts"
+      "Comptime.ts: compile-time expressions for TypeScript",
+      "https://comptime.js.org/"
     ]
   ],
   [
