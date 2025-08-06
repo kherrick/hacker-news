@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-06, 23:18:07",
+      "https://news.ycombinator.com/item?id=44818957"
+    ],
+    [
+      "Out-Fibbing CPython with the Plush Interpreter",
+      "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 22:45:27",
+      "https://news.ycombinator.com/item?id=44818734"
+    ],
+    [
+      "Git-fetch-file – Sync files from other repos with commit tracking and safety",
+      "https://github.com/andrewmcwattersandco/git-fetch-file"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 21:29:30",
       "https://news.ycombinator.com/item?id=44818077"
     ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2025-08-06, 17:28:56",
-      "https://news.ycombinator.com/item?id=44814993"
-    ],
-    [
-      "Wild pigs' flesh turning neon blue in California",
-      "https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 16:57:55",
       "https://news.ycombinator.com/item?id=44814596"
     ],
     [
       "Multics",
       "https://www.multicians.org/multics.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 16:08:23",
-      "https://news.ycombinator.com/item?id=44813905"
-    ],
-    [
-      "Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist",
-      "https://github.com/berbyte/sinkzone"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
       "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 15:33:37",
-      "https://news.ycombinator.com/item?id=44813397"
-    ],
-    [
-      "We shouldn't have needed lockfiles",
-      "https://tonsky.me/blog/lockfiles/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
       "https://github.com/KittenML/KittenTTS"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 19:08:19",
+      "https://news.ycombinator.com/item?id=44790132"
+    ],
+    [
+      "You know more Finnish than you think",
+      "https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/"
     ]
   ],
   [
