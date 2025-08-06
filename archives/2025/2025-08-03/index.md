@@ -23,6 +23,7 @@
 * [2025-08-03, 19:28:25](https://news.ycombinator.com/item?id=44779017) - [Show HN: Spatial Web Browser Engine](https://m-creativelab.github.io/jsar-runtime/)
 * [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/)
 * [2025-08-03, 19:13:03](https://news.ycombinator.com/item?id=44778911) - [Caracas on the Potomac](https://paulkrugman.substack.com/p/caracas-on-the-potomac)
+* [2025-08-03, 19:11:40](https://news.ycombinator.com/item?id=44778898) - [Comptime.ts: compile-time expressions for TypeScript](https://comptime.js.org/)
 * [2025-08-03, 18:59:47](https://news.ycombinator.com/item?id=44778810) - [Cannibal Modernity: Oswald de Andrade's Manifesto Antropófago (1928)](https://publicdomainreview.org/collection/manifesto-antropofago/)
 * [2025-08-03, 18:54:34](https://news.ycombinator.com/item?id=44778772) - [The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals](https://books.open.tudelft.nl/home/catalog/book/11)
 * [2025-08-03, 18:53:28](https://news.ycombinator.com/item?id=44778764) - [ChatGPT Chats Were Indexed Then Removed from Search but Still Remain Online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
