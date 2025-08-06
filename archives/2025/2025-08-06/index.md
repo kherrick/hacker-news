@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
 * [2025-08-06, 07:25:43](https://news.ycombinator.com/item?id=44808794) - [Anthropic rejects the main developer of the library they use](https://grell.dev/blog/ai_rejection)
+* [2025-08-06, 07:12:08](https://news.ycombinator.com/item?id=44808693) - [Some thoughts on journals, refereeing, and the P vs. NP problem](https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html)
+* [2025-08-06, 06:52:49](https://news.ycombinator.com/item?id=44808550) - [Why there are so many more South Asian CEOs than East Asian CEOs in the US](https://www.davelu.com/p/learn-to-embrace-conflict)
 * [2025-08-06, 06:51:13](https://news.ycombinator.com/item?id=44808542) - [HTML Is Dead, Long Live HTML](https://acko.net/blog/html-is-dead-long-live-html/)
 * [2025-08-06, 06:29:21](https://news.ycombinator.com/item?id=44808423) - [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
 * [2025-08-06, 05:44:29](https://news.ycombinator.com/item?id=44808122) - [Teacher AI Use Is Already Out of Control and It's Not Ok](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)

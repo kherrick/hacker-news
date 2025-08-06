@@ -66,6 +66,7 @@
 * [2025-08-02, 09:12:28](https://news.ycombinator.com/item?id=44765939) - [EU kills Android bootloader unlock starting August 1](https://xiaomitime.com/eu-kills-android-bootloader-unlock-starting-august-1-59449/)
 * [2025-08-02, 09:06:47](https://news.ycombinator.com/item?id=44765904) - [The Disappearance of Saturday Morning (2003)](https://www.awn.com/animationworld/disappearance-saturday-morning)
 * [2025-08-02, 08:42:31](https://news.ycombinator.com/item?id=44765807) - [System-Wide Safety Project](https://www.nasa.gov/directorates/armd/aosp/sws/)
+* [2025-08-02, 08:29:23](https://news.ycombinator.com/item?id=44765748) - [C++26 Reflections adventures and compile time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
 * [2025-08-02, 08:24:29](https://news.ycombinator.com/item?id=44765730) - [Welcome to Url.town, Population 465](https://url.town/)
 * [2025-08-02, 07:52:40](https://news.ycombinator.com/item?id=44765600) - [Microsoft is open sourcing Windows 11's UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
 * [2025-08-02, 07:39:42](https://news.ycombinator.com/item?id=44765562) - [Collections: Life, Work, Death and the Peasant, Part IIIa: Family Formation](https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/)
