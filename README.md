@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-07, 13:55:41](https://news.ycombinator.com/item?id=44824507) - [Outdated Software, Nationwide Chaos: United Grounds Flights After Meltdown](https://allchronology.com/2025/08/07/outdated-software-nationwide-chaos-united-airlines-grounds-flights-after-system-meltdown/)
+* [2025-08-07, 13:55:18](https://news.ycombinator.com/item?id=44824502) - [Laptop Support and Usability (LSU): July 2025 Report from the FreeBSD Foundation](https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md)
 * [2025-08-07, 13:12:42](https://news.ycombinator.com/item?id=44824056) - [Infinite Pixels](https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/)
 * [2025-08-07, 13:10:09](https://news.ycombinator.com/item?id=44824034) - [Fastmail breaks UI in production](https://twitter.com/licyeus/status/1953438985381974493)
 * [2025-08-07, 12:52:24](https://news.ycombinator.com/item?id=44823850) - [An LLM does not need to understand MCP](https://hackteam.io/blog/your-llm-does-not-care-about-mcp/)
@@ -19,8 +21,6 @@
 * [2025-08-07, 01:42:18](https://news.ycombinator.com/item?id=44819738) - [A candidate giant planet imaged in the habitable zone of α  Cen A](https://arxiv.org/abs/2508.03814)
 * [2025-08-06, 23:29:11](https://news.ycombinator.com/item?id=44819037) - [Rules by which a great empire may be reduced to a small one (1773)](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
 * [2025-08-06, 20:40:17](https://news.ycombinator.com/item?id=44817539) - [Project Hyperion: Interstellar ship design competition](https://www.projecthyperion.org)
-* [2025-08-06, 19:43:01](https://news.ycombinator.com/item?id=44816755) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
-* [2025-08-06, 16:05:39](https://news.ycombinator.com/item?id=44813854) - [Jules, our asynchronous coding agent](https://blog.google/technology/google-labs/jules-now-available/)
 * [2025-08-06, 13:37:47](https://news.ycombinator.com/item?id=44811840) - [Show HN: Aura – Like robots.txt, but for AI actions](https://github.com/osmandkitay/aura)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)

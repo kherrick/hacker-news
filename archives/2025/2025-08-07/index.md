@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 13:55:41](https://news.ycombinator.com/item?id=44824507) - [Outdated Software, Nationwide Chaos: United Grounds Flights After Meltdown](https://allchronology.com/2025/08/07/outdated-software-nationwide-chaos-united-airlines-grounds-flights-after-system-meltdown/)
+* [2025-08-07, 13:55:18](https://news.ycombinator.com/item?id=44824502) - [Laptop Support and Usability (LSU): July 2025 Report from the FreeBSD Foundation](https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md)
 * [2025-08-07, 13:12:42](https://news.ycombinator.com/item?id=44824056) - [Infinite Pixels](https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/)
 * [2025-08-07, 13:10:09](https://news.ycombinator.com/item?id=44824034) - [Fastmail breaks UI in production](https://twitter.com/licyeus/status/1953438985381974493)
 * [2025-08-07, 12:52:24](https://news.ycombinator.com/item?id=44823850) - [LLM Does Not Care About MCP](https://hackteam.io/blog/your-llm-does-not-care-about-mcp/)
