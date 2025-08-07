@@ -39,6 +39,7 @@
 * [2025-08-04, 15:39:49](https://news.ycombinator.com/item?id=44787343) - [Show HN: Sidequest.js – Background jobs for Node.js using your database](https://docs.sidequestjs.com/quick-start)
 * [2025-08-04, 15:30:01](https://news.ycombinator.com/item?id=44787209) - [Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up](https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8)
 * [2025-08-04, 15:25:32](https://news.ycombinator.com/item?id=44787143) - [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
+* [2025-08-04, 15:20:51](https://news.ycombinator.com/item?id=44787073) - [Scientists just recreated the Universe's first molecule](https://www.sciencedaily.com/releases/2025/08/250803011840.htm)
 * [2025-08-04, 15:19:09](https://news.ycombinator.com/item?id=44787053) - [1981 BASIC adventure game comes to a new platform, the TRS-80 MC-10](https://www.arctic81.com/arctic-adventure-mc10.html)
 * [2025-08-04, 15:12:20](https://news.ycombinator.com/item?id=44786962) - [Part 1: A Deep Dive into Rust and C Memory Interoperability](https://notashes.me/blog/part-1-memory-management/)
 * [2025-08-04, 15:05:31](https://news.ycombinator.com/item?id=44786843) - [The Revolution of Token-Level Rewards](https://www.levroai.com/blog/revolution-of-token-rewards-08-01-2025)
