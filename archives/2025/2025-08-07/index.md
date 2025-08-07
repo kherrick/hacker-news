@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 13:12:42](https://news.ycombinator.com/item?id=44824056) - [Infinite Pixels](https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/)
+* [2025-08-07, 13:10:09](https://news.ycombinator.com/item?id=44824034) - [Fastmail breaks UI in production](https://twitter.com/licyeus/status/1953438985381974493)
 * [2025-08-07, 12:52:24](https://news.ycombinator.com/item?id=44823850) - [LLM Does Not Care About MCP](https://hackteam.io/blog/your-llm-does-not-care-about-mcp/)
 * [2025-08-07, 12:44:19](https://news.ycombinator.com/item?id=44823761) - [You Don't Need Monads](https://muratkasimov.art/Ya/Articles/You-don%27t-really-need-monads)
+* [2025-08-07, 12:35:34](https://news.ycombinator.com/item?id=44823672) - [Baltimore Assessments Accidentally Subsidize Blight–and How We Can Fix It](https://progressandpoverty.substack.com/p/how-baltimore-assessments-accidentally)
 * [2025-08-07, 12:30:23](https://news.ycombinator.com/item?id=44823614) - [Maybe we should do an updated Super Cars](https://spillhistorie.no/2025/07/31/maybe-we-should-do-an-updated-version/)
+* [2025-08-07, 12:26:56](https://news.ycombinator.com/item?id=44823580) - [Arm Desktop: x86 Emulation](https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/)
 * [2025-08-07, 12:01:09](https://news.ycombinator.com/item?id=44823354) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=44823354)
 * [2025-08-07, 11:52:28](https://news.ycombinator.com/item?id=44823288) - [Ultra-Processed Foods Make Up More Than 60% of US Kids' Diets](https://www.bloomberg.com/news/articles/2025-08-07/sugar-snacks-and-ultra-processed-foods-are-majority-of-us-diet)
 * [2025-08-07, 11:48:11](https://news.ycombinator.com/item?id=44823262) - [Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust](https://github.com/stasher-dev/stasher-cli)

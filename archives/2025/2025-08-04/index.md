@@ -29,6 +29,7 @@
 * [2025-08-04, 17:34:19](https://news.ycombinator.com/item?id=44788997) - [SQLite offline sync for Android quick start](https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration)
 * [2025-08-04, 17:18:41](https://news.ycombinator.com/item?id=44788783) - [I Asked Four Former Friends Why We Stopped Speaking-Here's What I Learned (2023)](https://www.vogue.com/article/reconnecting-with-ex-friends)
 * [2025-08-04, 16:46:10](https://news.ycombinator.com/item?id=44788321) - [Why is it worth spending time on type theory?](https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory)
+* [2025-08-04, 16:30:48](https://news.ycombinator.com/item?id=44788107) - [Synthetic Biology for Space Exploration](https://www.nature.com/articles/s41526-025-00488-7)
 * [2025-08-04, 16:27:40](https://news.ycombinator.com/item?id=44788065) - [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
 * [2025-08-04, 16:16:21](https://news.ycombinator.com/item?id=44787902) - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
 * [2025-08-04, 16:11:36](https://news.ycombinator.com/item?id=44787831) - [Microsoft tops $4T in valuation: Great news for MSFT, not so great for workers](https://www.computerworld.com/article/4032921/microsoft-tops-4t-in-valuation-great-news-for-the-company-not-so-great-for-its-workers.html)
