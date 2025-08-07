@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 18:34:21",
+      "https://news.ycombinator.com/item?id=44828568"
+    ],
+    [
+      "Show HN: Octofriend, a cute coding agent that can swap between GPT-5 and Claude",
+      "https://github.com/synthetic-lab/octofriend"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 17:51:59",
       "https://news.ycombinator.com/item?id=44827898"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44826465"
     ],
     [
-      "PyPI: Preventing ZIP parser confusion attacks on Python package installers",
+      "Preventing ZIP parser confusion attacks on Python package installers",
       "https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=44825175"
     ],
     [
-      "More shell tricks: first class lists and jq",
+      "Moreshell tricks: first class lists, jq, and the es shell",
       "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html"
     ]
   ],
@@ -137,26 +147,6 @@
     [
       "Jepsen: Capela dda5892",
       "https://jepsen.io/analyses/capela-dda5892"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 14:33:39",
-      "https://news.ycombinator.com/item?id=44824981"
-    ],
-    [
-      "Let's stop pretending that managers and executives care about productivity",
-      "https://www.baldurbjarnason.com/2025/disingenuous-discourse/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 14:14:30",
-      "https://news.ycombinator.com/item?id=44824728"
-    ],
-    [
-      "Global Trade Dynamics",
-      "https://alhadaqa.github.io/globaltradedynamics/"
     ]
   ],
   [
@@ -211,11 +201,21 @@
   ],
   [
     [
+      "2025-08-07, 11:17:32",
+      "https://news.ycombinator.com/item?id=44823066"
+    ],
+    [
+      "School AI surveillance can lead to false alarms, arrests",
+      "https://apnews.com/article/ai-school-surveillance-gaggle-goguardian-bark-8c531cde8f9aee0b1ef06cfce109724a"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 10:16:28",
       "https://news.ycombinator.com/item?id=44822684"
     ],
     [
-      "The Whispering Earring (Scott Alexander)",
+      "The Whispering Earring",
       "https://croissanthology.com/earring"
     ]
   ],
