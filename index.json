@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 05:00:32",
+      "https://news.ycombinator.com/item?id=44820753"
+    ],
+    [
+      "How ChatGPT spoiled my semester (2024)",
+      "https://benborgers.com/chatgpt-semester"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 03:38:18",
       "https://news.ycombinator.com/item?id=44820341"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-08-07, 00:20:53",
-      "https://news.ycombinator.com/item?id=44819352"
-    ],
-    [
-      "The Inkhaven Blogging Residency",
-      "https://www.inkhaven.blog/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 23:29:11",
       "https://news.ycombinator.com/item?id=44819037"
     ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44818925"
     ],
     [
-      "Apple increases US commitment to $600B, announces American Manufacturing Program",
+      "Apple announces American Manufacturing Program",
       "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/"
     ]
   ],
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2025-08-06, 12:50:06",
-      "https://news.ycombinator.com/item?id=44811280"
-    ],
-    [
-      "303Gen – 303 acid loops generator",
-      "https://303-gen-06a668.netlify.app/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 10:41:43",
       "https://news.ycombinator.com/item?id=44810284"
     ],
     [
       "Show HN: HMPL – Small Template Language for Rendering UI from Server to Client",
       "https://github.com/hmpl-language/hmpl"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 06:51:13",
+      "https://news.ycombinator.com/item?id=44808542"
+    ],
+    [
+      "Rethinking DOM from first principles",
+      "https://acko.net/blog/html-is-dead-long-live-html/"
     ]
   ],
   [
