@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 10:09:41](https://news.ycombinator.com/item?id=44822637) - [\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"](https://leonardo.chiariglione.org/)
+* [2025-08-07, 09:28:46](https://news.ycombinator.com/item?id=44822389) - [New AI Coding Teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
+* [2025-08-07, 09:05:43](https://news.ycombinator.com/item?id=44822258) - [About AI](https://priver.dev/blog/ai/about-ai/)
 * [2025-08-07, 08:06:48](https://news.ycombinator.com/item?id=44821869) - [OpenAI's new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)
 * [2025-08-07, 07:36:15](https://news.ycombinator.com/item?id=44821642) - [40 Years of the Amiga, from Commodore – By Paul Lefebvre](https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore)
 * [2025-08-07, 07:01:42](https://news.ycombinator.com/item?id=44821434) - [Cracking the Vault: How we found zero-day flaws in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
