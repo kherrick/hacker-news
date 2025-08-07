@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
 * [2025-08-07, 19:24:49](https://news.ycombinator.com/item?id=44829185) - [Historical Tech Tree](https://www.historicaltechtree.com/)
+* [2025-08-07, 19:20:43](https://news.ycombinator.com/item?id=44829144) - [GPT-5 Demo Mistake About Bernoulli Effect](https://bren.blog/gpt-5-demo-mistake-about-bernoulli-effect)
 * [2025-08-07, 18:34:21](https://news.ycombinator.com/item?id=44828568) - [Show HN: Octofriend, a cute coding agent that can swap between GPT-5 and Claude](https://github.com/synthetic-lab/octofriend)
 * [2025-08-07, 18:30:04](https://news.ycombinator.com/item?id=44828504) - [Encryption made for police and military radios may be easily cracked](https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/)
 * [2025-08-07, 18:06:50](https://news.ycombinator.com/item?id=44828158) - [Exit Tax: Leave Germany before your business gets big](https://eidel.io/exit-tax-leave-germany-before-your-business-gets-big/)
