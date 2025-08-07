@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-07, 15:20:56](https://news.ycombinator.com/item?id=44825660) - [AWS Restored My Account: The Human Who Made the Difference](https://www.seuros.com/blog/aws-restored-account-plot-twist/)
 * [2025-08-07, 15:09:02](https://news.ycombinator.com/item?id=44825491) - [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
-* [2025-08-07, 14:55:06](https://news.ycombinator.com/item?id=44825309) - [Open AI Announces $1.5M Bonus for Every Employee](https://medium.com/activated-thinker/breaking-open-ai-announces-1-5-million-bonus-for-every-employee-29d057b9d590)
+* [2025-08-07, 14:33:39](https://news.ycombinator.com/item?id=44824981) - [Let's stop pretending that managers and executives care about productivity](https://www.baldurbjarnason.com/2025/disingenuous-discourse/)
 * [2025-08-07, 14:14:30](https://news.ycombinator.com/item?id=44824728) - [Global Trade Dynamics](https://alhadaqa.github.io/globaltradedynamics/)
 * [2025-08-07, 14:11:14](https://news.ycombinator.com/item?id=44824684) - [Honesty Boxes in Scotland (2024)](https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/)
 * [2025-08-07, 14:00:20](https://news.ycombinator.com/item?id=44824560) - [Sweatshop Data Is Over](https://www.mechanize.work/blog/sweatshop-data-is-over/)
@@ -16,7 +17,6 @@
 * [2025-08-07, 11:48:11](https://news.ycombinator.com/item?id=44823262) - [Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust](https://github.com/stasher-dev/stasher-cli)
 * [2025-08-07, 11:20:35](https://news.ycombinator.com/item?id=44823094) - [AI Ethics is being narrowed on purpose, like privacy was](https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose)
 * [2025-08-07, 10:16:28](https://news.ycombinator.com/item?id=44822684) - [The Whispering Earring (Scott Alexander)](https://croissanthology.com/earring)
-* [2025-08-07, 10:12:54](https://news.ycombinator.com/item?id=44822665) - [How AI Conquered the US Economy: A Visual FAQ](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)
 * [2025-08-07, 10:09:41](https://news.ycombinator.com/item?id=44822637) - [Leonardo Chiariglione: “I closed MPEG on 2 June 2020”](https://leonardo.chiariglione.org/)
 * [2025-08-07, 09:28:46](https://news.ycombinator.com/item?id=44822389) - [New AI Coding Teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
 * [2025-08-07, 07:01:42](https://news.ycombinator.com/item?id=44821434) - [Cracking the Vault: How we found zero-day flaws in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
@@ -26,8 +26,8 @@
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 * [2025-08-04, 18:52:28](https://news.ycombinator.com/item?id=44789964) - [PastVu: Historical Photographs on Current Maps](https://pastvu.com/?_nojs=1)
+* [2025-08-04, 18:34:22](https://news.ycombinator.com/item?id=44789750) - [Hopfield Networks Is All You Need (2020)](https://arxiv.org/abs/2008.02217)
 * [2025-08-04, 16:04:13](https://news.ycombinator.com/item?id=44787738) - [Debounce](https://developer.mozilla.org/en-US/docs/Glossary/Debounce)
-* [2025-08-04, 08:53:44](https://news.ycombinator.com/item?id=44783372) - [Splatshop: Efficiently Editing Large Gaussian Splat Models](https://momentsingraphics.de/HPG2025.html)
 * [2025-08-04, 04:21:00](https://news.ycombinator.com/item?id=44782097) - [Children's movie leads art historian to long-lost Hungarian masterpiece (2014)](https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece)
 * [2025-08-03, 20:53:08](https://news.ycombinator.com/item?id=44779688) - [Monte Carlo Crash Course: Quasi-Monte Carlo](https://thenumb.at/QMC/)
 

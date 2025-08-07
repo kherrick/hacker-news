@@ -23,6 +23,7 @@
 * [2025-08-04, 18:52:28](https://news.ycombinator.com/item?id=44789964) - [PastVu: Historical Photographs on Current Maps](https://pastvu.com/?_nojs=1)
 * [2025-08-04, 18:49:09](https://news.ycombinator.com/item?id=44789917) - [Belgium's Arrest of IDF Soldiers Could Be a Watershed Moment](https://jacobin.com/2025/08/belgium-israeli-soldiers-arrest-gaza)
 * [2025-08-04, 18:48:04](https://news.ycombinator.com/item?id=44789903) - [Europe is breaking its reliance on American science](https://www.reuters.com/sustainability/climate-energy/europe-is-breaking-its-reliance-american-science-2025-08-01/)
+* [2025-08-04, 18:34:22](https://news.ycombinator.com/item?id=44789750) - [Hopfield Networks Is All You Need (2020)](https://arxiv.org/abs/2008.02217)
 * [2025-08-04, 18:27:26](https://news.ycombinator.com/item?id=44789668) - [Circadian Justice](https://eprints.lse.ac.uk/112431/)
 * [2025-08-04, 17:50:05](https://news.ycombinator.com/item?id=44789192) - [Offline.kids – screen-free activities for kids](https://offline.kids/)
 * [2025-08-04, 17:39:59](https://news.ycombinator.com/item?id=44789068) - [Ask HN: What trick of the trade took you too long to learn?](https://news.ycombinator.com/item?id=44789068)
