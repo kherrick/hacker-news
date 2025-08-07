@@ -79,6 +79,7 @@
 * [2025-08-06, 06:52:49](https://news.ycombinator.com/item?id=44808550) - [Why there are so many more South Asian CEOs than East Asian CEOs in the US](https://www.davelu.com/p/learn-to-embrace-conflict)
 * [2025-08-06, 06:51:13](https://news.ycombinator.com/item?id=44808542) - [HTML Is Dead, Long Live HTML](https://acko.net/blog/html-is-dead-long-live-html/)
 * [2025-08-06, 06:29:21](https://news.ycombinator.com/item?id=44808423) - [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
+* [2025-08-06, 06:00:40](https://news.ycombinator.com/item?id=44808232) - [The Bus Station That Didn't Exist, and Other Data Epiphanies](https://nightingaledvs.com/bus-station-didnt-exist/)
 * [2025-08-06, 05:44:29](https://news.ycombinator.com/item?id=44808122) - [Teacher AI Use Is Already Out of Control and It's Not Ok](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 * [2025-08-06, 03:59:11](https://news.ycombinator.com/item?id=44807480) - [PlayReady DRM leak triggers Microsoft takedown and Amazon account suspensions](https://torrentfreak.com/playready-drm-leak-triggers-microsoft-takedown-and-amazon-account-suspensions/)
