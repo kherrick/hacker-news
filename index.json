@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-08-07, 19:20:43",
-      "https://news.ycombinator.com/item?id=44829144"
+      "2025-08-07, 18:59:46",
+      "https://news.ycombinator.com/item?id=44828884"
     ],
     [
-      "GPT-5 Demo Mistake About Bernoulli Effect",
-      "https://bren.blog/gpt-5-demo-mistake-about-bernoulli-effect"
+      "OpenAI's new open-source model is basically Phi-5",
+      "https://www.seangoedecke.com/gpt-oss-is-phi-5/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44827692"
     ],
     [
-      "DNA tests are uncovering the true prevalence of incest",
+      "DNA tests are uncovering the true prevalence of incest (2024)",
       "https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/"
     ]
   ],
@@ -215,8 +215,28 @@
       "https://news.ycombinator.com/item?id=44823580"
     ],
     [
-      "Arm Desktop: x86 Emulation",
+      "Arm desktop: emulation",
       "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 10:12:54",
+      "https://news.ycombinator.com/item?id=44822665"
+    ],
+    [
+      "How AI conquered the US economy: A visual FAQ",
+      "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 10:09:41",
+      "https://news.ycombinator.com/item?id=44822637"
+    ],
+    [
+      "Leonardo Chiariglione: “I closed MPEG on 2 June 2020”",
+      "https://leonardo.chiariglione.org/"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2025-08-07, 02:19:25",
-      "https://news.ycombinator.com/item?id=44819917"
+      "2025-08-06, 13:17:38",
+      "https://news.ycombinator.com/item?id=44811567"
     ],
     [
-      "Emailing a one-time code is worse than passwords",
-      "https://blog.danielh.cc/blog/passwords"
+      "Claude Code IDE integration for Emacs",
+      "https://github.com/manzaltu/claude-code-ide.el"
     ]
   ],
   [
@@ -265,18 +285,8 @@
       "https://news.ycombinator.com/item?id=44784090"
     ],
     [
-      "Open Music Foundation Models for Full-Song Generation",
+      "Open music foundation models for full-song generation",
       "https://map-yue.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 08:53:44",
-      "https://news.ycombinator.com/item?id=44783372"
-    ],
-    [
-      "Splatshop: Efficiently Editing Large Gaussian Splat Models",
-      "https://momentsingraphics.de/HPG2025.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Monte Carlo Crash Course: Quasi-Monte Carlo",
       "https://thenumb.at/QMC/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 20:17:26",
-      "https://news.ycombinator.com/item?id=44779396"
-    ],
-    [
-      "Italy's pizza detectives",
-      "https://www.bbc.com/travel/article/20250801-italys-undercover-pizza-detectives"
     ]
   ]
 ]
