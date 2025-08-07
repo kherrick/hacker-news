@@ -51,11 +51,21 @@
   ],
   [
     [
+      "2025-08-07, 02:19:25",
+      "https://news.ycombinator.com/item?id=44819917"
+    ],
+    [
+      "We replaced passwords with something worse",
+      "https://blog.danielh.cc/blog/passwords"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 01:42:18",
       "https://news.ycombinator.com/item?id=44819738"
     ],
     [
-      "A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A",
+      "A candidate giant planet imaged in the habitable zone of α  Cen A",
       "https://arxiv.org/abs/2508.03814"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44819037"
     ],
     [
-      "Rules by Which a Great Empire May Be Reduced to a Small One (1773)",
+      "Rules by which a great empire may be reduced to a small one (1773)",
       "https://founders.archives.gov/documents/Franklin/01-20-02-0213"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Out-Fibbing CPython with the Plush Interpreter",
       "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 23:13:33",
-      "https://news.ycombinator.com/item?id=44818925"
-    ],
-    [
-      "Apple announces American Manufacturing Program",
-      "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2025-08-06, 10:41:43",
-      "https://news.ycombinator.com/item?id=44810284"
+      "2025-08-06, 12:50:06",
+      "https://news.ycombinator.com/item?id=44811280"
     ],
     [
-      "Show HN: HMPL – Small Template Language for Rendering UI from Server to Client",
-      "https://github.com/hmpl-language/hmpl"
+      "303Gen – 303 acid loops generator",
+      "https://303-gen-06a668.netlify.app/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-08-04, 17:34:19",
+      "https://news.ycombinator.com/item?id=44788997"
+    ],
+    [
+      "SQLite offline sync for Android quick start",
+      "https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 04:55:11",
       "https://news.ycombinator.com/item?id=44782229"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44781343"
     ],
     [
-      "A Man Who Beat IBM",
+      "Compaq’s Rod Canion broke IBM's hold on the PC market",
       "https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Comptime.ts: compile-time expressions for TypeScript",
       "https://comptime.js.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 17:23:21",
-      "https://news.ycombinator.com/item?id=44778125"
-    ],
-    [
-      "The Day MOOCs Died: Coursera's Preview Mode Kills Free Learning",
-      "https://www.classcentral.com/report/coursera-preview-mode-paywall/"
     ]
   ],
   [
