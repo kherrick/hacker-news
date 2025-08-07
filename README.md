@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-07, 06:25:35](https://news.ycombinator.com/item?id=44821250) - [Researchers Uncover RCE Attack Chains in HashiCorp Vault and CyberArk Conjur](https://www.csoonline.com/article/4035274/researchers-uncover-rce-attack-chains-in-popular-enterprise-credential-vaults.html)
 * [2025-08-07, 05:00:32](https://news.ycombinator.com/item?id=44820753) - [How ChatGPT spoiled my semester (2024)](https://benborgers.com/chatgpt-semester)
 * [2025-08-07, 03:38:18](https://news.ycombinator.com/item?id=44820341) - [Show HN: Rust framework for advanced file recognition and identification](https://crates.io/crates/magical_rs)
 * [2025-08-07, 03:34:58](https://news.ycombinator.com/item?id=44820325) - [FDA approves eye drops that fix near vision without glasses](https://newatlas.com/aging/age-related-near-sighted-drops-vizz/)
@@ -9,7 +10,6 @@
 * [2025-08-07, 01:42:18](https://news.ycombinator.com/item?id=44819738) - [A candidate giant planet imaged in the habitable zone of α  Cen A](https://arxiv.org/abs/2508.03814)
 * [2025-08-06, 23:29:11](https://news.ycombinator.com/item?id=44819037) - [Rules by which a great empire may be reduced to a small one (1773)](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
 * [2025-08-06, 23:18:07](https://news.ycombinator.com/item?id=44818957) - [Out-Fibbing CPython with the Plush Interpreter](https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/)
-* [2025-08-06, 20:54:39](https://news.ycombinator.com/item?id=44817725) - [301party.com: Intentionally open redirect](https://301party.com/)
 * [2025-08-06, 20:43:08](https://news.ycombinator.com/item?id=44817583) - [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
 * [2025-08-06, 20:40:17](https://news.ycombinator.com/item?id=44817539) - [Project Hyperion: Interstellar ship design competition](https://www.projecthyperion.org)
 * [2025-08-06, 19:43:01](https://news.ycombinator.com/item?id=44816755) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
@@ -21,7 +21,6 @@
 * [2025-08-06, 15:03:19](https://news.ycombinator.com/item?id=44812985) - [Zig Error Patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:43:02](https://news.ycombinator.com/item?id=44812695) - [Breaking the sorting barrier for directed single-source shortest paths](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
-* [2025-08-06, 12:50:06](https://news.ycombinator.com/item?id=44811280) - [303Gen – 303 acid loops generator](https://303-gen-06a668.netlify.app/)
 * [2025-08-06, 06:51:13](https://news.ycombinator.com/item?id=44808542) - [Rethinking DOM from first principles](https://acko.net/blog/html-is-dead-long-live-html/)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 * [2025-08-04, 19:08:19](https://news.ycombinator.com/item?id=44790132) - [You know more Finnish than you think](https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/)
@@ -29,6 +28,7 @@
 * [2025-08-04, 04:55:11](https://news.ycombinator.com/item?id=44782229) - [What is the average length of a queue of cars? (2023)](https://e-dorigatti.github.io/math/2023/11/01/queue-length.html)
 * [2025-08-04, 01:31:42](https://news.ycombinator.com/item?id=44781343) - [Compaq’s Rod Canion broke IBM's hold on the PC market](https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm)
 * [2025-08-03, 19:11:40](https://news.ycombinator.com/item?id=44778898) - [Comptime.ts: compile-time expressions for TypeScript](https://comptime.js.org/)
+* [2025-08-03, 15:54:30](https://news.ycombinator.com/item?id=44777419) - [Herbie detects inaccurate expressions and finds more accurate replacements](https://herbie.uwplse.org/)
 * [2025-08-03, 15:08:58](https://news.ycombinator.com/item?id=44777086) - [Automerge 3.0](https://automerge.org/blog/automerge-3/)
 
 ## [Archives](archives/index.md)

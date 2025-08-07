@@ -44,6 +44,7 @@
 * [2025-08-03, 16:38:53](https://news.ycombinator.com/item?id=44777766) - [How Python grew from a language to a community](https://thenewstack.io/how-python-grew-from-a-language-to-a-community/)
 * [2025-08-03, 16:38:06](https://news.ycombinator.com/item?id=44777760) - [Anthropic: Persona Vectors](https://www.anthropic.com/research/persona-vectors)
 * [2025-08-03, 16:11:01](https://news.ycombinator.com/item?id=44777537) - [Palantir: The Most Evil Company](https://politicaleconomist.substack.com/p/palantir-the-worlds-most-evil-company)
+* [2025-08-03, 15:54:30](https://news.ycombinator.com/item?id=44777419) - [Herbie detects inaccurate expressions and finds more accurate replacements](https://herbie.uwplse.org/)
 * [2025-08-03, 15:33:56](https://news.ycombinator.com/item?id=44777274) - [Time is running out for Tim Cook: Apple lacks strategic vision](https://unherd.com/2025/08/time-is-running-out-for-tim-cook/?lang=us)
 * [2025-08-03, 15:08:58](https://news.ycombinator.com/item?id=44777086) - [Automerge 3.0](https://automerge.org/blog/automerge-3/)
 * [2025-08-03, 15:04:05](https://news.ycombinator.com/item?id=44777055) - [This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)](https://archive.irixnet.org/thisoldsgi/)
