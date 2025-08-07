@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 15:51:00](https://news.ycombinator.com/item?id=44826095) - [Google confirms it has been hacked](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)
+* [2025-08-07, 15:32:24](https://news.ycombinator.com/item?id=44825809) - [Budget Car Buyers Want Automakers to K.I.S.S](https://www.thedrive.com/news/budget-car-buyers-want-automakers-to-k-i-s-s)
 * [2025-08-07, 15:20:56](https://news.ycombinator.com/item?id=44825660) - [AWS Restored My Account: The Human Who Made the Difference](https://www.seuros.com/blog/aws-restored-account-plot-twist/)
 * [2025-08-07, 15:09:02](https://news.ycombinator.com/item?id=44825491) - [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
 * [2025-08-07, 14:55:06](https://news.ycombinator.com/item?id=44825309) - [Open AI Announces $1.5M Bonus for Every Employee](https://medium.com/activated-thinker/breaking-open-ai-announces-1-5-million-bonus-for-every-employee-29d057b9d590)
