@@ -4,7 +4,6 @@
 * [2025-08-07, 19:20:43](https://news.ycombinator.com/item?id=44829144) - [GPT-5 Demo Mistake About Bernoulli Effect](https://bren.blog/gpt-5-demo-mistake-about-bernoulli-effect)
 * [2025-08-07, 18:34:21](https://news.ycombinator.com/item?id=44828568) - [Show HN: Octofriend, a cute coding agent that can swap between GPT-5 and Claude](https://github.com/synthetic-lab/octofriend)
 * [2025-08-07, 18:30:04](https://news.ycombinator.com/item?id=44828504) - [Encryption made for police and military radios may be easily cracked](https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/)
-* [2025-08-07, 18:06:50](https://news.ycombinator.com/item?id=44828158) - [Exit Tax: Leave Germany before your business gets big](https://eidel.io/exit-tax-leave-germany-before-your-business-gets-big/)
 * [2025-08-07, 17:51:59](https://news.ycombinator.com/item?id=44827898) - [Lightweight LSAT](https://lightweightlsat.com/)
 * [2025-08-07, 17:49:49](https://news.ycombinator.com/item?id=44827862) - [Benchmark Framework Desktop Mainboard and 4-node cluster](https://github.com/geerlingguy/ollama-benchmark/issues/21)
 * [2025-08-07, 17:46:18](https://news.ycombinator.com/item?id=44827794) - [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/)
@@ -28,6 +27,7 @@
 * [2025-08-07, 02:19:25](https://news.ycombinator.com/item?id=44819917) - [Emailing a one-time code is worse than passwords](https://blog.danielh.cc/blog/passwords)
 * [2025-08-04, 13:08:24](https://news.ycombinator.com/item?id=44785248) - [A generic non-invasive neuromotor interface for human-computer interaction](https://www.nature.com/articles/s41586-025-09255-w)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open Music Foundation Models for Full-Song Generation](https://map-yue.github.io/)
+* [2025-08-04, 08:53:44](https://news.ycombinator.com/item?id=44783372) - [Splatshop: Efficiently Editing Large Gaussian Splat Models](https://momentsingraphics.de/HPG2025.html)
 * [2025-08-03, 20:53:08](https://news.ycombinator.com/item?id=44779688) - [Monte Carlo Crash Course: Quasi-Monte Carlo](https://thenumb.at/QMC/)
 * [2025-08-03, 20:17:26](https://news.ycombinator.com/item?id=44779396) - [Italy's pizza detectives](https://www.bbc.com/travel/article/20250801-italys-undercover-pizza-detectives)
 
