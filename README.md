@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-07, 20:16:26](https://news.ycombinator.com/item?id=44829803) - [What makes Israel's starvation of Gaza stand apart](https://www.vox.com/policy/422622/israel-famine-gaza-history-weaponizing-starvation-war)
 * [2025-08-07, 19:24:49](https://news.ycombinator.com/item?id=44829185) - [Historical Tech Tree](https://www.historicaltechtree.com/)
 * [2025-08-07, 18:59:46](https://news.ycombinator.com/item?id=44828884) - [OpenAI's new open-source model is basically Phi-5](https://www.seangoedecke.com/gpt-oss-is-phi-5/)
 * [2025-08-07, 18:34:21](https://news.ycombinator.com/item?id=44828568) - [Show HN: Octofriend, a cute coding agent that can swap between GPT-5 and Claude](https://github.com/synthetic-lab/octofriend)
@@ -12,11 +13,9 @@
 * [2025-08-07, 17:06:39](https://news.ycombinator.com/item?id=44827101) - [GPT-5 for Developers](https://openai.com/index/introducing-gpt-5-for-developers)
 * [2025-08-07, 17:00:58](https://news.ycombinator.com/item?id=44827003) - [Foundry (YC F24) is hiring staff-level product engineers](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer)
 * [2025-08-07, 17:00:21](https://news.ycombinator.com/item?id=44826997) - [GPT-5](https://openai.com/gpt-5/)
-* [2025-08-07, 16:16:42](https://news.ycombinator.com/item?id=44826465) - [Preventing ZIP parser confusion attacks on Python package installers](https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/)
 * [2025-08-07, 16:15:41](https://news.ycombinator.com/item?id=44826455) - [The Sunlight Budget of Earth](https://www.asimov.press/p/sunlight-budget)
 * [2025-08-07, 15:56:01](https://news.ycombinator.com/item?id=44826164) - [Building Bluesky comments for my blog](https://natalie.sh/posts/bluesky-comments/)
 * [2025-08-07, 15:09:02](https://news.ycombinator.com/item?id=44825491) - [How to sell if your user is not the buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
-* [2025-08-07, 14:56:05](https://news.ycombinator.com/item?id=44825326) - [Lithium compound can reverse Alzheimer’s in mice: study](https://hms.harvard.edu/news/could-lithium-explain-treat-alzheimers-disease)
 * [2025-08-07, 14:44:23](https://news.ycombinator.com/item?id=44825146) - [Jepsen: Capela dda5892](https://jepsen.io/analyses/capela-dda5892)
 * [2025-08-07, 13:58:25](https://news.ycombinator.com/item?id=44824539) - [Windows XP Professional](https://win32.run/)
 * [2025-08-07, 13:55:18](https://news.ycombinator.com/item?id=44824502) - [Laptop Support and Usability (LSU): July 2025 Report](https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md)
@@ -28,6 +27,7 @@
 * [2025-08-07, 07:01:42](https://news.ycombinator.com/item?id=44821434) - [Zero-day flaws in authentication, identity, authorization in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 * [2025-08-04, 13:08:24](https://news.ycombinator.com/item?id=44785248) - [A generic non-invasive neuromotor interface for human-computer interaction](https://www.nature.com/articles/s41586-025-09255-w)
+* [2025-08-04, 11:07:10](https://news.ycombinator.com/item?id=44784215) - [The Q Programming Language](https://git.urbach.dev/cli/q)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open music foundation models for full-song generation](https://map-yue.github.io/)
 * [2025-08-03, 20:53:08](https://news.ycombinator.com/item?id=44779688) - [Monte Carlo Crash Course: Quasi-Monte Carlo](https://thenumb.at/QMC/)
 

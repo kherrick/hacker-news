@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 20:16:26](https://news.ycombinator.com/item?id=44829803) - [What makes Israel's starvation of Gaza stand apart](https://www.vox.com/policy/422622/israel-famine-gaza-history-weaponizing-starvation-war)
 * [2025-08-07, 19:24:49](https://news.ycombinator.com/item?id=44829185) - [Historical Tech Tree](https://www.historicaltechtree.com/)
 * [2025-08-07, 19:20:43](https://news.ycombinator.com/item?id=44829144) - [GPT-5 Demo Mistake About Bernoulli Effect](https://bren.blog/gpt-5-demo-mistake-about-bernoulli-effect)
 * [2025-08-07, 18:59:46](https://news.ycombinator.com/item?id=44828884) - [OpenAI's new open-source model is basically Phi-5](https://www.seangoedecke.com/gpt-oss-is-phi-5/)

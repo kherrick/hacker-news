@@ -69,6 +69,7 @@
 * [2025-08-04, 11:44:49](https://news.ycombinator.com/item?id=44784498) - [Palantir Is Extending Its Reach Even Further into Government](https://www.wired.com/story/palantir-government-contracting-push/)
 * [2025-08-04, 11:22:25](https://news.ycombinator.com/item?id=44784312) - [KDE Plasma prepares crackdown on focus-stealing window behavior under Wayland](https://www.neowin.net/news/kde-plasma-prepares-crackdown-on-focus-stealing-window-behavior-under-wayland/)
 * [2025-08-04, 11:21:05](https://news.ycombinator.com/item?id=44784297) - [Photonic SNN chip reaches 1 GHz and supports on-chip learning](https://arxiv.org/abs/2506.14272)
+* [2025-08-04, 11:07:10](https://news.ycombinator.com/item?id=44784215) - [The Q Programming Language](https://git.urbach.dev/cli/q)
 * [2025-08-04, 10:58:27](https://news.ycombinator.com/item?id=44784163) - [Fun with MeshBlend](https://www.c0de517e.com/024_meshblend.htm)
 * [2025-08-04, 10:55:47](https://news.ycombinator.com/item?id=44784141) - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open Music Foundation Models for Full-Song Generation](https://map-yue.github.io/)
