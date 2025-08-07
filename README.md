@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-07, 23:34:52](https://news.ycombinator.com/item?id=44831704) - [Immich – Cursed Knowledge](https://immich.app/cursed-knowledge/)
 * [2025-08-07, 21:36:45](https://news.ycombinator.com/item?id=44830684) - [Vibechart](https://www.vibechart.net/)
 * [2025-08-07, 21:11:20](https://news.ycombinator.com/item?id=44830418) - [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
 * [2025-08-07, 21:10:42](https://news.ycombinator.com/item?id=44830408) - [Flipper Zero DarkWeb Firmware Bypasses Rolling Code Security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
@@ -29,7 +30,6 @@
 * [2025-08-04, 11:07:10](https://news.ycombinator.com/item?id=44784215) - [The Q Programming Language](https://git.urbach.dev/cli/q)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open music foundation models for full-song generation](https://map-yue.github.io/)
 * [2025-08-04, 06:03:29](https://news.ycombinator.com/item?id=44782530) - [Squashing my dumb bugs and why I log build IDs](https://rachelbythebay.com/w/2025/08/03/scope/)
-* [2025-08-03, 20:53:08](https://news.ycombinator.com/item?id=44779688) - [Monte Carlo Crash Course: Quasi-Monte Carlo](https://thenumb.at/QMC/)
 
 ## [Archives](archives/index.md)
 
