@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-07, 11:01:19](https://news.ycombinator.com/item?id=44822954) - [Gaybreaking](https://twitter.com/AlexReibman/status/1953229500973740058)
 * [2025-08-07, 10:09:41](https://news.ycombinator.com/item?id=44822637) - [\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"](https://leonardo.chiariglione.org/)
 * [2025-08-07, 09:28:46](https://news.ycombinator.com/item?id=44822389) - [New AI Coding Teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
 * [2025-08-07, 09:05:43](https://news.ycombinator.com/item?id=44822258) - [About AI](https://priver.dev/blog/ai/about-ai/)
@@ -21,7 +22,6 @@
 * [2025-08-06, 14:43:02](https://news.ycombinator.com/item?id=44812695) - [Breaking the sorting barrier for directed single-source shortest paths](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
-* [2025-08-04, 17:34:19](https://news.ycombinator.com/item?id=44788997) - [SQLite offline sync for Android quick start](https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration)
 * [2025-08-04, 16:04:13](https://news.ycombinator.com/item?id=44787738) - [Debounce](https://developer.mozilla.org/en-US/docs/Glossary/Debounce)
 * [2025-08-04, 15:20:51](https://news.ycombinator.com/item?id=44787073) - [Scientists have recreated the Universe's first molecule](https://www.sciencedaily.com/releases/2025/08/250803011840.htm)
 * [2025-08-04, 04:55:11](https://news.ycombinator.com/item?id=44782229) - [What is the average length of a queue of cars? (2023)](https://e-dorigatti.github.io/math/2023/11/01/queue-length.html)

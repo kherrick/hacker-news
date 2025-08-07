@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 11:01:19](https://news.ycombinator.com/item?id=44822954) - [Gaybreaking](https://twitter.com/AlexReibman/status/1953229500973740058)
 * [2025-08-07, 10:09:41](https://news.ycombinator.com/item?id=44822637) - [\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"](https://leonardo.chiariglione.org/)
 * [2025-08-07, 09:28:46](https://news.ycombinator.com/item?id=44822389) - [New AI Coding Teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
 * [2025-08-07, 09:05:43](https://news.ycombinator.com/item?id=44822258) - [About AI](https://priver.dev/blog/ai/about-ai/)
