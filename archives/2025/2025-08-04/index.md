@@ -83,6 +83,7 @@
 * [2025-08-04, 08:04:20](https://news.ycombinator.com/item?id=44783155) - [Candidates say they'd rather risk staying unemployed than talk to another robot](https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/)
 * [2025-08-04, 06:35:17](https://news.ycombinator.com/item?id=44782690) - [Kart – Distributed version-control for geospatial and tabular data](https://kartproject.org/)
 * [2025-08-04, 06:18:24](https://news.ycombinator.com/item?id=44782596) - [The Age of Bronze and Steel](https://blog.zarfhome.com/2025/08/age-of-bronze-and-steel)
+* [2025-08-04, 06:03:29](https://news.ycombinator.com/item?id=44782530) - [Squashing my dumb bugs and why I log build IDs](https://rachelbythebay.com/w/2025/08/03/scope/)
 * [2025-08-04, 05:03:12](https://news.ycombinator.com/item?id=44782260) - [When Disney Went Digital](https://animationobsessive.substack.com/p/when-disney-went-digital)
 * [2025-08-04, 04:55:11](https://news.ycombinator.com/item?id=44782229) - [What is the average length of a queue of cars? (2023)](https://e-dorigatti.github.io/math/2023/11/01/queue-length.html)
 * [2025-08-04, 04:21:00](https://news.ycombinator.com/item?id=44782097) - [Children's movie leads art historian to long-lost Hungarian masterpiece (2014)](https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece)

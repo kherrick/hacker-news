@@ -25,10 +25,10 @@
 * [2025-08-07, 10:09:41](https://news.ycombinator.com/item?id=44822637) - [Leonardo Chiariglione – Co-founder of MPEG](https://leonardo.chiariglione.org/)
 * [2025-08-07, 09:28:46](https://news.ycombinator.com/item?id=44822389) - [Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
 * [2025-08-07, 00:20:53](https://news.ycombinator.com/item?id=44819352) - [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
-* [2025-08-06, 06:00:40](https://news.ycombinator.com/item?id=44808232) - [The Bus Station That Didn't Exist, and Other Data Epiphanies](https://nightingaledvs.com/bus-station-didnt-exist/)
 * [2025-08-04, 13:08:24](https://news.ycombinator.com/item?id=44785248) - [A generic non-invasive neuromotor interface for human-computer interaction](https://www.nature.com/articles/s41586-025-09255-w)
 * [2025-08-04, 11:07:10](https://news.ycombinator.com/item?id=44784215) - [The Q Programming Language](https://git.urbach.dev/cli/q)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open music foundation models for full-song generation](https://map-yue.github.io/)
+* [2025-08-04, 06:03:29](https://news.ycombinator.com/item?id=44782530) - [Squashing my dumb bugs and why I log build IDs](https://rachelbythebay.com/w/2025/08/03/scope/)
 * [2025-08-03, 20:53:08](https://news.ycombinator.com/item?id=44779688) - [Monte Carlo Crash Course: Quasi-Monte Carlo](https://thenumb.at/QMC/)
 
 ## [Archives](archives/index.md)
