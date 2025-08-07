@@ -52,6 +52,7 @@
 * [2025-08-03, 13:24:58](https://news.ycombinator.com/item?id=44776434) - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
 * [2025-08-03, 13:06:15](https://news.ycombinator.com/item?id=44776314) - [$83B Wasted: Showing Up at the Airport 3 Hours Before Your Flight](https://viewfromthewing.com/83-billion-wasted-showing-up-at-the-airport-3-hours-before-your-flight-is-a-system-failure-no-ones-trying-to-fix/)
 * [2025-08-03, 12:27:54](https://news.ycombinator.com/item?id=44776086) - [Falcon-H1: A Family of Hybrid-Head Models Redefining Efficiency and Performance](https://arxiv.org/abs/2507.22448)
+* [2025-08-03, 12:21:58](https://news.ycombinator.com/item?id=44776058) - [That Squiggly, Treacherous Line](https://fi-le.net/squiggly/)
 * [2025-08-03, 12:07:53](https://news.ycombinator.com/item?id=44775987) - [Why you're going to see more swimming pools in strip malls](https://thehustle.co/originals/why-youre-going-to-see-a-lot-more-swimming-pools-in-strip-malls)
 * [2025-08-03, 11:28:29](https://news.ycombinator.com/item?id=44775830) - [How to Make Almost Anything Course at MIT (TA Perspective)](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
 * [2025-08-03, 11:01:37](https://news.ycombinator.com/item?id=44775700) - [Tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)

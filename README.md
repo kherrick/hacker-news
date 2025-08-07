@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-07, 00:20:53](https://news.ycombinator.com/item?id=44819352) - [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
+* [2025-08-06, 23:29:11](https://news.ycombinator.com/item?id=44819037) - [Rules by Which a Great Empire May Be Reduced to a Small One](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
 * [2025-08-06, 23:18:07](https://news.ycombinator.com/item?id=44818957) - [Out-Fibbing CPython with the Plush Interpreter](https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/)
 * [2025-08-06, 22:45:27](https://news.ycombinator.com/item?id=44818734) - [Git-fetch-file – Sync files from other repos with commit tracking and safety](https://github.com/andrewmcwattersandco/git-fetch-file)
 * [2025-08-06, 21:29:30](https://news.ycombinator.com/item?id=44818077) - [The new shape of Mixxx 3.0 – Open Source DJing](https://mixxx.org/news/2025-08-06-qml-project/)
@@ -12,7 +14,6 @@
 * [2025-08-06, 18:51:54](https://news.ycombinator.com/item?id=44816060) - [The arcane alphabets of Black Sabbath](https://fontsinuse.com/uses/35835/the-arcane-alphabets-of-black-sabbath)
 * [2025-08-06, 18:23:19](https://news.ycombinator.com/item?id=44815718) - [Vibe coding the MIT course catalog](https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/)
 * [2025-08-06, 18:21:28](https://news.ycombinator.com/item?id=44815702) - [A fast, growable array with stable pointers in C](https://danielchasehooper.com/posts/segment_array/)
-* [2025-08-06, 17:57:57](https://news.ycombinator.com/item?id=44815405) - [Gleam v1.12](https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md)
 * [2025-08-06, 16:57:55](https://news.ycombinator.com/item?id=44814596) - [Multics](https://www.multicians.org/multics.html)
 * [2025-08-06, 16:05:39](https://news.ycombinator.com/item?id=44813854) - [Jules, our asynchronous coding agent](https://blog.google/technology/google-labs/jules-now-available/)
 * [2025-08-06, 16:00:54](https://news.ycombinator.com/item?id=44813789) - [Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work](https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/)
@@ -24,11 +25,10 @@
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 * [2025-08-04, 19:08:19](https://news.ycombinator.com/item?id=44790132) - [You know more Finnish than you think](https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/)
 * [2025-08-04, 16:46:10](https://news.ycombinator.com/item?id=44788321) - [Why is it worth spending time on type theory? (2013)](https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory)
-* [2025-08-04, 09:48:15](https://news.ycombinator.com/item?id=44783717) - [The Real Origin of Cisco Systems (1999)](https://www.tcracs.org/tcrwp/1origin-of-cisco/)
 * [2025-08-04, 01:31:42](https://news.ycombinator.com/item?id=44781343) - [A Man Who Beat IBM](https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm)
 * [2025-08-03, 19:11:40](https://news.ycombinator.com/item?id=44778898) - [Comptime.ts: compile-time expressions for TypeScript](https://comptime.js.org/)
-* [2025-08-03, 18:54:34](https://news.ycombinator.com/item?id=44778772) - [The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals](https://books.open.tudelft.nl/home/catalog/book/11)
 * [2025-08-03, 15:08:58](https://news.ycombinator.com/item?id=44777086) - [Automerge 3.0](https://automerge.org/blog/automerge-3/)
+* [2025-08-03, 12:21:58](https://news.ycombinator.com/item?id=44776058) - [That Squiggly, Treacherous Line](https://fi-le.net/squiggly/)
 * [2025-08-03, 02:00:51](https://news.ycombinator.com/item?id=44773480) - [Converting Existing Users to systemd-homed](https://systemd.io/CONVERTING_TO_HOMED/)
 
 ## [Archives](archives/index.md)
