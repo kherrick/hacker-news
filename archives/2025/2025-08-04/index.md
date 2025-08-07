@@ -74,6 +74,7 @@
 * [2025-08-04, 06:35:17](https://news.ycombinator.com/item?id=44782690) - [Kart – Distributed version-control for geospatial and tabular data](https://kartproject.org/)
 * [2025-08-04, 06:18:24](https://news.ycombinator.com/item?id=44782596) - [The Age of Bronze and Steel](https://blog.zarfhome.com/2025/08/age-of-bronze-and-steel)
 * [2025-08-04, 05:03:12](https://news.ycombinator.com/item?id=44782260) - [When Disney Went Digital](https://animationobsessive.substack.com/p/when-disney-went-digital)
+* [2025-08-04, 04:55:11](https://news.ycombinator.com/item?id=44782229) - [What is the average length of a queue of cars? (2023)](https://e-dorigatti.github.io/math/2023/11/01/queue-length.html)
 * [2025-08-04, 04:11:17](https://news.ycombinator.com/item?id=44782046) - [Rising Young Worker Despair in the United States](https://www.nber.org/papers/w34071)
 * [2025-08-04, 02:47:02](https://news.ycombinator.com/item?id=44781683) - [Realizing we needed two sorts of alerts for our temperature monitoring](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomTempTwoSortsOfAlerts)
 * [2025-08-04, 02:12:58](https://news.ycombinator.com/item?id=44781523) - [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)
