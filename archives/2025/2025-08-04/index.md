@@ -55,6 +55,7 @@
 * [2025-08-04, 13:49:00](https://news.ycombinator.com/item?id=44785759) - [The Toyota Corolla of programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 13:33:20](https://news.ycombinator.com/item?id=44785562) - [Read That Fucking Code (Stop vibe-coding blindly)](https://etsd.tech/posts/rtfc/)
+* [2025-08-04, 13:25:54](https://news.ycombinator.com/item?id=44785464) - [Touch Mapper – open-source 3D printed tactile maps for the visually impaired](https://touch-mapper.org)
 * [2025-08-04, 13:12:27](https://news.ycombinator.com/item?id=44785292) - [ScreenCoder: An intelligent UI-to-code generation system](https://github.com/leigest519/ScreenCoder)
 * [2025-08-04, 13:08:24](https://news.ycombinator.com/item?id=44785248) - [A generic non-invasive neuromotor interface for human-computer interaction](https://www.nature.com/articles/s41586-025-09255-w)
 * [2025-08-04, 13:07:18](https://news.ycombinator.com/item?id=44785238) - [Scientists Shine a Laser Through a Human Head](https://spectrum.ieee.org/optical-brain-imaging)
