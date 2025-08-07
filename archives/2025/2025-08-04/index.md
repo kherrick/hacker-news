@@ -56,6 +56,7 @@
 * [2025-08-04, 13:39:30](https://news.ycombinator.com/item?id=44785636) - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 13:33:20](https://news.ycombinator.com/item?id=44785562) - [Read That Fucking Code (Stop vibe-coding blindly)](https://etsd.tech/posts/rtfc/)
 * [2025-08-04, 13:12:27](https://news.ycombinator.com/item?id=44785292) - [ScreenCoder: An intelligent UI-to-code generation system](https://github.com/leigest519/ScreenCoder)
+* [2025-08-04, 13:08:24](https://news.ycombinator.com/item?id=44785248) - [A generic non-invasive neuromotor interface for human-computer interaction](https://www.nature.com/articles/s41586-025-09255-w)
 * [2025-08-04, 13:07:18](https://news.ycombinator.com/item?id=44785238) - [Scientists Shine a Laser Through a Human Head](https://spectrum.ieee.org/optical-brain-imaging)
 * [2025-08-04, 13:05:08](https://news.ycombinator.com/item?id=44785224) - [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
 * [2025-08-04, 12:51:20](https://news.ycombinator.com/item?id=44785107) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
