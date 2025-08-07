@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 17:03:15](https://news.ycombinator.com/item?id=44827046) - [GPT-5 System Card](https://openai.com/index/gpt-5-system-card)
+* [2025-08-07, 17:00:58](https://news.ycombinator.com/item?id=44827003) - [Foundry (YC F24) Is Hiring Staff Level Product Engineers](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer)
+* [2025-08-07, 17:00:21](https://news.ycombinator.com/item?id=44826997) - [GPT-5](http://openai.com/gpt-5)
 * [2025-08-07, 16:18:40](https://news.ycombinator.com/item?id=44826484) - [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
 * [2025-08-07, 16:16:42](https://news.ycombinator.com/item?id=44826465) - [PyPI: Preventing ZIP parser confusion attacks on Python package installers](https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/)
 * [2025-08-07, 16:16:32](https://news.ycombinator.com/item?id=44826463) - [Live: GPT-5](https://www.youtube.com/watch?v=0Uu_VJeVVfo)
+* [2025-08-07, 16:15:41](https://news.ycombinator.com/item?id=44826455) - [The Sunlight Budget of Earth](https://www.asimov.press/p/sunlight-budget)
 * [2025-08-07, 15:56:01](https://news.ycombinator.com/item?id=44826164) - [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/)
 * [2025-08-07, 15:51:00](https://news.ycombinator.com/item?id=44826095) - [Google confirms it has been hacked](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)
 * [2025-08-07, 15:32:24](https://news.ycombinator.com/item?id=44825809) - [Budget Car Buyers Want Automakers to K.I.S.S](https://www.thedrive.com/news/budget-car-buyers-want-automakers-to-k-i-s-s)
