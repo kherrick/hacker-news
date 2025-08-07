@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-07, 15:09:02](https://news.ycombinator.com/item?id=44825491) - [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
+* [2025-08-07, 14:55:06](https://news.ycombinator.com/item?id=44825309) - [Open AI Announces $1.5M Bonus for Every Employee](https://medium.com/activated-thinker/breaking-open-ai-announces-1-5-million-bonus-for-every-employee-29d057b9d590)
 * [2025-08-07, 14:14:30](https://news.ycombinator.com/item?id=44824728) - [Global Trade Dynamics](https://alhadaqa.github.io/globaltradedynamics/)
 * [2025-08-07, 14:11:14](https://news.ycombinator.com/item?id=44824684) - [Honesty Boxes in Scotland (2024)](https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/)
 * [2025-08-07, 14:00:20](https://news.ycombinator.com/item?id=44824560) - [Sweatshop Data Is Over](https://www.mechanize.work/blog/sweatshop-data-is-over/)
@@ -18,9 +20,7 @@
 * [2025-08-07, 10:09:41](https://news.ycombinator.com/item?id=44822637) - [Leonardo Chiariglione: “I closed MPEG on 2 June 2020”](https://leonardo.chiariglione.org/)
 * [2025-08-07, 09:28:46](https://news.ycombinator.com/item?id=44822389) - [New AI Coding Teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
 * [2025-08-07, 07:01:42](https://news.ycombinator.com/item?id=44821434) - [Cracking the Vault: How we found zero-day flaws in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
-* [2025-08-07, 02:28:47](https://news.ycombinator.com/item?id=44819968) - [Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs](https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/)
 * [2025-08-07, 02:19:25](https://news.ycombinator.com/item?id=44819917) - [We replaced passwords with something worse](https://blog.danielh.cc/blog/passwords)
-* [2025-08-06, 23:29:11](https://news.ycombinator.com/item?id=44819037) - [Rules by which a great empire may be reduced to a small one (1773)](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
 * [2025-08-06, 20:40:17](https://news.ycombinator.com/item?id=44817539) - [Project Hyperion: Interstellar ship design competition](https://www.projecthyperion.org)
 * [2025-08-06, 13:37:47](https://news.ycombinator.com/item?id=44811840) - [Show HN: Aura – Like robots.txt, but for AI actions](https://github.com/osmandkitay/aura)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)

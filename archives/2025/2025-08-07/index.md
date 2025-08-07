@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 15:09:02](https://news.ycombinator.com/item?id=44825491) - [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
+* [2025-08-07, 14:55:06](https://news.ycombinator.com/item?id=44825309) - [Open AI Announces $1.5M Bonus for Every Employee](https://medium.com/activated-thinker/breaking-open-ai-announces-1-5-million-bonus-for-every-employee-29d057b9d590)
 * [2025-08-07, 14:14:30](https://news.ycombinator.com/item?id=44824728) - [Global Trade Dynamics](https://alhadaqa.github.io/globaltradedynamics/)
 * [2025-08-07, 14:11:14](https://news.ycombinator.com/item?id=44824684) - [Honesty Boxes in Scotland (2024)](https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/)
 * [2025-08-07, 14:02:58](https://news.ycombinator.com/item?id=44824583) - [No One Is Working](https://www.humaninvariant.com/blog/working)
