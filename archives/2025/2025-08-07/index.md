@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 17:12:21](https://news.ycombinator.com/item?id=44827216) - [Show HN: Browser AI agent platform designed for reliability](https://github.com/nottelabs/notte)
+* [2025-08-07, 17:06:39](https://news.ycombinator.com/item?id=44827101) - [GPT-5 for Developers](https://openai.com/index/introducing-gpt-5-for-developers)
 * [2025-08-07, 17:03:15](https://news.ycombinator.com/item?id=44827046) - [GPT-5 System Card](https://openai.com/index/gpt-5-system-card)
 * [2025-08-07, 17:00:58](https://news.ycombinator.com/item?id=44827003) - [Foundry (YC F24) Is Hiring Staff Level Product Engineers](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer)
 * [2025-08-07, 17:00:21](https://news.ycombinator.com/item?id=44826997) - [GPT-5](http://openai.com/gpt-5)

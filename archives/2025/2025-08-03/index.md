@@ -20,6 +20,7 @@
 * [2025-08-03, 20:53:08](https://news.ycombinator.com/item?id=44779688) - [Monte Carlo Crash Course: Quasi-Monte Carlo](https://thenumb.at/QMC/)
 * [2025-08-03, 20:30:05](https://news.ycombinator.com/item?id=44779494) - [More than two hard disks in DOS](https://www.os2museum.com/wp/more-than-two-hard-disks-in-dos/)
 * [2025-08-03, 20:21:54](https://news.ycombinator.com/item?id=44779428) - [Writing a Good Design Document](https://grantslatton.com/how-to-design-document)
+* [2025-08-03, 20:17:26](https://news.ycombinator.com/item?id=44779396) - [Italy's Undercover Pizza Detectives](https://www.bbc.com/travel/article/20250801-italys-undercover-pizza-detectives)
 * [2025-08-03, 19:58:55](https://news.ycombinator.com/item?id=44779240) - [Critcl – C Runtime in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 19:49:34](https://news.ycombinator.com/item?id=44779178) - [Freshwater loss from land is the lead driver of sea-level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming)
 * [2025-08-03, 19:48:08](https://news.ycombinator.com/item?id=44779169) - [The Dollar Is Dead](https://mathmeetsmoney.substack.com/p/the-dollar-is-dead)
