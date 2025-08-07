@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-08-07, 16:16:42",
+      "https://news.ycombinator.com/item?id=44826465"
+    ],
+    [
+      "PyPI: Preventing ZIP parser confusion attacks on Python package installers",
+      "https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 16:16:32",
       "https://news.ycombinator.com/item?id=44826463"
     ],
@@ -27,26 +37,6 @@
     [
       "Building Bluesky Comments for My Blog",
       "https://natalie.sh/posts/bluesky-comments/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 15:32:24",
-      "https://news.ycombinator.com/item?id=44825809"
-    ],
-    [
-      "Budget Car Buyers Want Automakers to K.I.S.S",
-      "https://www.thedrive.com/news/budget-car-buyers-want-automakers-to-k-i-s-s"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 15:20:56",
-      "https://news.ycombinator.com/item?id=44825660"
-    ],
-    [
-      "AWS Restored My Account: The Human Who Made the Difference",
-      "https://www.seuros.com/blog/aws-restored-account-plot-twist/"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "More shell tricks: first class lists and jq",
       "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 14:44:23",
+      "https://news.ycombinator.com/item?id=44825146"
+    ],
+    [
+      "Jepsen: Capela dda5892",
+      "https://jepsen.io/analyses/capela-dda5892"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-08-07, 10:09:41",
-      "https://news.ycombinator.com/item?id=44822637"
-    ],
-    [
-      "Leonardo Chiariglione: “I closed MPEG on 2 June 2020”",
-      "https://leonardo.chiariglione.org/"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 09:28:46",
       "https://news.ycombinator.com/item?id=44822389"
     ],
@@ -257,6 +247,16 @@
     [
       "Claude Code IDE integration for Emacs",
       "https://github.com/manzaltu/claude-code-ide.el"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 05:04:36",
+      "https://news.ycombinator.com/item?id=44807868"
+    ],
+    [
+      "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+      "https://github.com/KittenML/KittenTTS"
     ]
   ],
   [
