@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 14:14:30](https://news.ycombinator.com/item?id=44824728) - [Global Trade Dynamics](https://alhadaqa.github.io/globaltradedynamics/)
+* [2025-08-07, 14:11:14](https://news.ycombinator.com/item?id=44824684) - [Honesty Boxes in Scotland (2024)](https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/)
+* [2025-08-07, 14:02:58](https://news.ycombinator.com/item?id=44824583) - [No One Is Working](https://www.humaninvariant.com/blog/working)
+* [2025-08-07, 14:00:20](https://news.ycombinator.com/item?id=44824560) - [Sweatshop Data Is Over](https://www.mechanize.work/blog/sweatshop-data-is-over/)
+* [2025-08-07, 13:58:25](https://news.ycombinator.com/item?id=44824539) - [Windows XP Professional](https://win32.run/)
 * [2025-08-07, 13:55:41](https://news.ycombinator.com/item?id=44824507) - [Outdated Software, Nationwide Chaos: United Grounds Flights After Meltdown](https://allchronology.com/2025/08/07/outdated-software-nationwide-chaos-united-airlines-grounds-flights-after-system-meltdown/)
 * [2025-08-07, 13:55:18](https://news.ycombinator.com/item?id=44824502) - [Laptop Support and Usability (LSU): July 2025 Report from the FreeBSD Foundation](https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md)
 * [2025-08-07, 13:12:42](https://news.ycombinator.com/item?id=44824056) - [Infinite Pixels](https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/)
