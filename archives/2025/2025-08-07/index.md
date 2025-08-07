@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 12:01:09](https://news.ycombinator.com/item?id=44823354) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=44823354)
+* [2025-08-07, 11:52:28](https://news.ycombinator.com/item?id=44823288) - [Ultra-Processed Foods Make Up More Than 60% of US Kids' Diets](https://www.bloomberg.com/news/articles/2025-08-07/sugar-snacks-and-ultra-processed-foods-are-majority-of-us-diet)
+* [2025-08-07, 11:48:11](https://news.ycombinator.com/item?id=44823262) - [Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust](https://github.com/stasher-dev/stasher-cli)
+* [2025-08-07, 11:47:41](https://news.ycombinator.com/item?id=44823260) - [\"AI hype\" is the true AI product](https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is)
+* [2025-08-07, 11:26:33](https://news.ycombinator.com/item?id=44823130) - [The Emperor's New Trade Deal – Paul Krugman](https://paulkrugman.substack.com/p/the-emperors-new-trade-deal)
+* [2025-08-07, 11:20:35](https://news.ycombinator.com/item?id=44823094) - [AI ethics is being narrowed on purpose – just like privacy was](https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose)
 * [2025-08-07, 11:17:32](https://news.ycombinator.com/item?id=44823066) - [Schools are using AI surveillance to protect students. Sometimes arresting them](https://apnews.com/article/ai-school-surveillance-gaggle-goguardian-bark-8c531cde8f9aee0b1ef06cfce109724a)
 * [2025-08-07, 11:01:19](https://news.ycombinator.com/item?id=44822954) - [Gaybreaking](https://twitter.com/AlexReibman/status/1953229500973740058)
 * [2025-08-07, 10:09:41](https://news.ycombinator.com/item?id=44822637) - [\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"](https://leonardo.chiariglione.org/)

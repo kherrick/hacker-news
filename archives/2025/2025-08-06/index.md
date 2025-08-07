@@ -54,6 +54,7 @@
 * [2025-08-06, 13:41:46](https://news.ycombinator.com/item?id=44811905) - [Omarchy, a Linux Distribution by DHH](https://omarchy.org/)
 * [2025-08-06, 13:41:40](https://news.ycombinator.com/item?id=44811901) - [Diffuse-CLoC: Guided Diffusion for Physics-Based Character Look-Ahead Control](https://diffusecloc.github.io/website/)
 * [2025-08-06, 13:40:14](https://news.ycombinator.com/item?id=44811877) - [The Constitution Has Been Changed](https://slrpnk.net/post/25696399)
+* [2025-08-06, 13:37:47](https://news.ycombinator.com/item?id=44811840) - [Show HN: Aura – Like robots.txt, but for AI actions](https://github.com/osmandkitay/aura)
 * [2025-08-06, 13:30:11](https://news.ycombinator.com/item?id=44811733) - [Constitution of the United States Website has removed sections (web.archive.org)](https://old.reddit.com/r/law/comments/1mj3ttx/constitution_of_the_united_states_website_has/)
 * [2025-08-06, 13:20:21](https://news.ycombinator.com/item?id=44811602) - [Coffee-shop pitch change helped founder unlock traction for laptop campers](https://iwantproductmarketfit.substack.com/p/how-one-pitch-change-helped-this)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE Integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
