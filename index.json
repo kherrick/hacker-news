@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 02:28:47",
+      "https://news.ycombinator.com/item?id=44819968"
+    ],
+    [
+      "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
+      "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 02:27:51",
       "https://news.ycombinator.com/item?id=44819962"
     ],
@@ -17,16 +27,6 @@
     [
       "A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A",
       "https://arxiv.org/abs/2508.03814"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 01:26:14",
-      "https://news.ycombinator.com/item?id=44819668"
-    ],
-    [
-      "VIN: The 17-character code that runs the automotive world",
-      "https://cardog.app/blog/whats-a-vin"
     ]
   ],
   [
@@ -61,22 +61,12 @@
   ],
   [
     [
-      "2025-08-06, 22:58:53",
-      "https://news.ycombinator.com/item?id=44818836"
+      "2025-08-06, 23:13:33",
+      "https://news.ycombinator.com/item?id=44818925"
     ],
     [
-      "Why Building Billing Systems Is So Painful (2024)",
-      "https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 22:45:27",
-      "https://news.ycombinator.com/item?id=44818734"
-    ],
-    [
-      "Git-fetch-file – Sync files from other repos with commit tracking and safety",
-      "https://github.com/andrewmcwattersandco/git-fetch-file"
+      "Apple increases US commitment to $600B, announces American Manufacturing Program",
+      "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/"
     ]
   ],
   [
@@ -107,16 +97,6 @@
     [
       "Project Hyperion: Interstellar ship design competition",
       "https://www.projecthyperion.org"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 20:01:37",
-      "https://news.ycombinator.com/item?id=44816977"
-    ],
-    [
-      "The History of F1 Design",
-      "https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-08-06, 10:41:43",
+      "https://news.ycombinator.com/item?id=44810284"
+    ],
+    [
+      "Show HN: HMPL – Small Template Language for Rendering UI from Server to Client",
+      "https://github.com/hmpl-language/hmpl"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 06:51:13",
       "https://news.ycombinator.com/item?id=44808542"
     ],
@@ -267,6 +257,16 @@
     [
       "A Man Who Beat IBM",
       "https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm"
+    ]
+  ],
+  [
+    [
+      "2025-08-03, 20:30:05",
+      "https://news.ycombinator.com/item?id=44779494"
+    ],
+    [
+      "More than two hard disks in DOS",
+      "https://www.os2museum.com/wp/more-than-two-hard-disks-in-dos/"
     ]
   ],
   [
