@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 17:49:49](https://news.ycombinator.com/item?id=44827862) - [Benchmark Framework Desktop Mainboard and 4-node cluster](https://github.com/geerlingguy/ollama-benchmark/issues/21)
 * [2025-08-07, 17:12:21](https://news.ycombinator.com/item?id=44827216) - [Show HN: Browser AI agent platform designed for reliability](https://github.com/nottelabs/notte)
 * [2025-08-07, 17:06:39](https://news.ycombinator.com/item?id=44827101) - [GPT-5 for Developers](https://openai.com/index/introducing-gpt-5-for-developers)
 * [2025-08-07, 17:03:15](https://news.ycombinator.com/item?id=44827046) - [GPT-5 System Card](https://openai.com/index/gpt-5-system-card)
+* [2025-08-07, 17:03:15](https://news.ycombinator.com/item?id=44827046) - [GPT-5 System Card [pdf]](https://cdn.openai.com/pdf/8124a3ce-ab78-4f06-96eb-49ea29ffb52f/gpt5-system-card-aug7.pdf)
 * [2025-08-07, 17:00:58](https://news.ycombinator.com/item?id=44827003) - [Foundry (YC F24) Is Hiring Staff Level Product Engineers](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer)
 * [2025-08-07, 17:00:21](https://news.ycombinator.com/item?id=44826997) - [GPT-5](http://openai.com/gpt-5)
 * [2025-08-07, 16:18:40](https://news.ycombinator.com/item?id=44826484) - [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
