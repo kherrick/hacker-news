@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-07, 17:12:21",
+      "https://news.ycombinator.com/item?id=44827216"
+    ],
+    [
+      "Show HN: Browser AI agent platform designed for reliability",
+      "https://github.com/nottelabs/notte"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 17:06:39",
+      "https://news.ycombinator.com/item?id=44827101"
+    ],
+    [
+      "GPT-5 for Developers",
+      "https://openai.com/index/introducing-gpt-5-for-developers"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 17:03:15",
       "https://news.ycombinator.com/item?id=44827046"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44826484"
     ],
     [
-      "Ditching GitHub",
+      "Ditching GitHub (2024)",
       "https://tomscii.sig7.se/2024/01/Ditching-GitHub"
     ]
   ],
@@ -47,16 +67,6 @@
     [
       "PyPI: Preventing ZIP parser confusion attacks on Python package installers",
       "https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 16:16:32",
-      "https://news.ycombinator.com/item?id=44826463"
-    ],
-    [
-      "Live: GPT-5",
-      "https://www.youtube.com/watch?v=0Uu_VJeVVfo"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44826164"
     ],
     [
-      "Building Bluesky Comments for My Blog",
+      "Building Bluesky comments for my blog",
       "https://natalie.sh/posts/bluesky-comments/"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-08-07, 12:52:24",
-      "https://news.ycombinator.com/item?id=44823850"
-    ],
-    [
-      "An LLM does not need to understand MCP",
-      "https://hackteam.io/blog/your-llm-does-not-care-about-mcp/"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 12:26:56",
       "https://news.ycombinator.com/item?id=44823580"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-08-04, 16:04:13",
-      "https://news.ycombinator.com/item?id=44787738"
-    ],
-    [
-      "Debounce",
-      "https://developer.mozilla.org/en-US/docs/Glossary/Debounce"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 09:03:11",
       "https://news.ycombinator.com/item?id=44783442"
     ],
@@ -297,6 +287,16 @@
     [
       "Monte Carlo Crash Course: Quasi-Monte Carlo",
       "https://thenumb.at/QMC/"
+    ]
+  ],
+  [
+    [
+      "2025-08-03, 20:17:26",
+      "https://news.ycombinator.com/item?id=44779396"
+    ],
+    [
+      "Italy's Undercover Pizza Detectives",
+      "https://www.bbc.com/travel/article/20250801-italys-undercover-pizza-detectives"
     ]
   ]
 ]
