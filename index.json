@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 17:49:49",
+      "https://news.ycombinator.com/item?id=44827862"
+    ],
+    [
+      "Benchmark Framework Desktop Mainboard and 4-node cluster",
+      "https://github.com/geerlingguy/ollama-benchmark/issues/21"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 17:12:21",
       "https://news.ycombinator.com/item?id=44827216"
     ],
@@ -25,8 +35,8 @@
       "https://news.ycombinator.com/item?id=44827046"
     ],
     [
-      "GPT-5 System Card",
-      "https://openai.com/index/gpt-5-system-card"
+      "GPT-5 System Card [pdf]",
+      "https://cdn.openai.com/pdf/8124a3ce-ab78-4f06-96eb-49ea29ffb52f/gpt5-system-card-aug7.pdf"
     ]
   ],
   [
@@ -231,21 +241,11 @@
   ],
   [
     [
-      "2025-08-07, 07:01:42",
-      "https://news.ycombinator.com/item?id=44821434"
-    ],
-    [
-      "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
-      "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 02:19:25",
       "https://news.ycombinator.com/item?id=44819917"
     ],
     [
-      "We replaced passwords with something worse",
+      "Emailing a one-time code is worse than passwords",
       "https://blog.danielh.cc/blog/passwords"
     ]
   ],
