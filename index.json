@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-08-07, 12:52:24",
+      "https://news.ycombinator.com/item?id=44823850"
+    ],
+    [
+      "LLM Does Not Care About MCP",
+      "https://hackteam.io/blog/your-llm-does-not-care-about-mcp/"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 12:44:19",
+      "https://news.ycombinator.com/item?id=44823761"
+    ],
+    [
+      "You Don't Need Monads",
+      "https://muratkasimov.art/Ya/Articles/You-don%27t-really-need-monads"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 12:30:23",
+      "https://news.ycombinator.com/item?id=44823614"
+    ],
+    [
+      "Maybe we should do an updated Super Cars",
+      "https://spillhistorie.no/2025/07/31/maybe-we-should-do-an-updated-version/"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 12:01:09",
       "https://news.ycombinator.com/item?id=44823354"
     ],
     [
       "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
       "https://news.ycombinator.com/item?id=44823354"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 11:52:28",
-      "https://news.ycombinator.com/item?id=44823288"
-    ],
-    [
-      "Ultra-Processed Foods Make Up More Than 60% of US Kids' Diets",
-      "https://www.bloomberg.com/news/articles/2025-08-07/sugar-snacks-and-ultra-processed-foods-are-majority-of-us-diet"
     ]
   ],
   [
@@ -31,22 +51,12 @@
   ],
   [
     [
-      "2025-08-07, 11:47:41",
-      "https://news.ycombinator.com/item?id=44823260"
+      "2025-08-07, 11:24:58",
+      "https://news.ycombinator.com/item?id=44823123"
     ],
     [
-      "\"AI hype\" is the true AI product",
-      "https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 11:26:33",
-      "https://news.ycombinator.com/item?id=44823130"
-    ],
-    [
-      "The Emperor's New Trade Deal – Paul Krugman",
-      "https://paulkrugman.substack.com/p/the-emperors-new-trade-deal"
+      "Photographer spends years on street corner capturing same commuters daily (2017)",
+      "https://mymodernmet.com/peter-funch-candid-photographs-commuters/"
     ]
   ],
   [
@@ -55,18 +65,28 @@
       "https://news.ycombinator.com/item?id=44823094"
     ],
     [
-      "AI ethics is being narrowed on purpose – just like privacy was",
+      "AI Ethics is being narrowed on purpose, like privacy was",
       "https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose"
     ]
   ],
   [
     [
-      "2025-08-07, 11:17:32",
-      "https://news.ycombinator.com/item?id=44823066"
+      "2025-08-07, 10:16:28",
+      "https://news.ycombinator.com/item?id=44822684"
     ],
     [
-      "Schools are using AI surveillance to protect students. Sometimes arresting them",
-      "https://apnews.com/article/ai-school-surveillance-gaggle-goguardian-bark-8c531cde8f9aee0b1ef06cfce109724a"
+      "The Whispering Earring (Scott Alexander)",
+      "https://croissanthology.com/earring"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 10:12:54",
+      "https://news.ycombinator.com/item?id=44822665"
+    ],
+    [
+      "How AI Conquered the US Economy: A Visual FAQ",
+      "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44822637"
     ],
     [
-      "\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"",
+      "Leonardo Chiariglione: “I closed MPEG on 2 June 2020”",
       "https://leonardo.chiariglione.org/"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-08-06, 20:43:08",
-      "https://news.ycombinator.com/item?id=44817583"
-    ],
-    [
-      "The Bluesky Dictionary",
-      "https://www.avibagla.com/blueskydictionary/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 20:40:17",
       "https://news.ycombinator.com/item?id=44817539"
     ],
@@ -187,16 +197,6 @@
     [
       "We'd be better off with 9-bit bytes",
       "https://pavpanchekha.com/blog/9bit.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 18:21:28",
-      "https://news.ycombinator.com/item?id=44815702"
-    ],
-    [
-      "A fast, growable array with stable pointers in C",
-      "https://danielchasehooper.com/posts/segment_array/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-08-04, 18:52:28",
+      "https://news.ycombinator.com/item?id=44789964"
+    ],
+    [
+      "PastVu: Historical Photographs on Current Maps",
+      "https://pastvu.com/?_nojs=1"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 16:04:13",
       "https://news.ycombinator.com/item?id=44787738"
     ],
@@ -287,16 +297,6 @@
     [
       "Did Craigslist decimate newspapers? Legend meets reality",
       "https://www.poynter.org/business-work/2025/did-craigslist-kill-newspapers-poynter-50/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 15:54:30",
-      "https://news.ycombinator.com/item?id=44777419"
-    ],
-    [
-      "Herbie detects inaccurate expressions and finds more accurate replacements",
-      "https://herbie.uwplse.org/"
     ]
   ]
 ]
