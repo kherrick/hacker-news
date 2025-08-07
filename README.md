@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-07, 21:36:45](https://news.ycombinator.com/item?id=44830684) - [Vibechart](https://www.vibechart.net/)
 * [2025-08-07, 21:10:42](https://news.ycombinator.com/item?id=44830408) - [Flipper Zero DarkWeb Firmware Bypasses Rolling Code Security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
 * [2025-08-07, 20:53:54](https://news.ycombinator.com/item?id=44830221) - [Cursor CLI](https://cursor.com/cli)
 * [2025-08-07, 19:32:10](https://news.ycombinator.com/item?id=44829272) - [Spatio-temporal indexing the Bluesky firehose](https://joelgustafson.com/posts/2025-08-07/spatio-temporal-indexing-the-bluesky-firehose)
@@ -23,7 +24,6 @@
 * [2025-08-07, 10:12:54](https://news.ycombinator.com/item?id=44822665) - [How AI conquered the US economy: A visual FAQ](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)
 * [2025-08-07, 10:09:41](https://news.ycombinator.com/item?id=44822637) - [Leonardo Chiariglione – Co-founder of MPEG](https://leonardo.chiariglione.org/)
 * [2025-08-07, 09:28:46](https://news.ycombinator.com/item?id=44822389) - [Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
-* [2025-08-07, 07:01:42](https://news.ycombinator.com/item?id=44821434) - [Zero-day flaws in authentication, identity, authorization in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
 * [2025-08-07, 00:20:53](https://news.ycombinator.com/item?id=44819352) - [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
 * [2025-08-06, 06:00:40](https://news.ycombinator.com/item?id=44808232) - [The Bus Station That Didn't Exist, and Other Data Epiphanies](https://nightingaledvs.com/bus-station-didnt-exist/)
 * [2025-08-04, 13:08:24](https://news.ycombinator.com/item?id=44785248) - [A generic non-invasive neuromotor interface for human-computer interaction](https://www.nature.com/articles/s41586-025-09255-w)
