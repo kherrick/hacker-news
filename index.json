@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-08-07, 03:38:18",
-      "https://news.ycombinator.com/item?id=44820341"
-    ],
-    [
-      "Show HN: Rust framework for advanced file recognition and identification",
-      "https://crates.io/crates/magical_rs"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 02:28:47",
       "https://news.ycombinator.com/item?id=44819968"
     ],
@@ -187,6 +177,16 @@
     [
       "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
       "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 14:43:02",
+      "https://news.ycombinator.com/item?id=44812695"
+    ],
+    [
+      "Breaking the sorting barrier for directed single-source shortest paths",
+      "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/"
     ]
   ],
   [
