@@ -6,6 +6,7 @@
 
 * [2025-08-06, 23:29:11](https://news.ycombinator.com/item?id=44819037) - [Rules by Which a Great Empire May Be Reduced to a Small One](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
 * [2025-08-06, 23:18:07](https://news.ycombinator.com/item?id=44818957) - [Out-Fibbing CPython with the Plush Interpreter](https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/)
+* [2025-08-06, 23:13:33](https://news.ycombinator.com/item?id=44818925) - [Apple increases US commitment to $600B, announces American Manufacturing Program](https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/)
 * [2025-08-06, 22:58:53](https://news.ycombinator.com/item?id=44818836) - [Why Building Billing Systems Is So Painful (2024)](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful)
 * [2025-08-06, 22:45:27](https://news.ycombinator.com/item?id=44818734) - [Git-fetch-file – Sync files from other repos with commit tracking and safety](https://github.com/andrewmcwattersandco/git-fetch-file)
 * [2025-08-06, 21:29:30](https://news.ycombinator.com/item?id=44818077) - [The new shape of Mixxx 3.0 – take part in the future of Open Source DJing](https://mixxx.org/news/2025-08-06-qml-project/)
@@ -68,6 +69,7 @@
 * [2025-08-06, 11:27:27](https://news.ycombinator.com/item?id=44810574) - [Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
 * [2025-08-06, 11:23:42](https://news.ycombinator.com/item?id=44810552) - [NautilusTrader: Open-Source, High-Performance Algorithmic Trading Platform](https://nautilustrader.io/)
 * [2025-08-06, 10:44:38](https://news.ycombinator.com/item?id=44810307) - [LLM Inflation](https://tratt.net/laurie/blog/2025/llm_inflation.html)
+* [2025-08-06, 10:41:43](https://news.ycombinator.com/item?id=44810284) - [Show HN: HMPL – Small Template Language for Rendering UI from Server to Client](https://github.com/hmpl-language/hmpl)
 * [2025-08-06, 10:41:01](https://news.ycombinator.com/item?id=44810281) - [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
 * [2025-08-06, 10:07:40](https://news.ycombinator.com/item?id=44810061) - [Japan: Apple Must Lift Browser Engine Ban by December](https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/)
 * [2025-08-06, 08:36:28](https://news.ycombinator.com/item?id=44809387) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
