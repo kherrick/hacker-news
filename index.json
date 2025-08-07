@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 07:01:42",
+      "https://news.ycombinator.com/item?id=44821434"
+    ],
+    [
+      "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
+      "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 06:25:35",
       "https://news.ycombinator.com/item?id=44821250"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-08-06, 23:18:07",
-      "https://news.ycombinator.com/item?id=44818957"
-    ],
-    [
-      "Out-Fibbing CPython with the Plush Interpreter",
-      "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 20:43:08",
       "https://news.ycombinator.com/item?id=44817583"
     ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-08-06, 15:03:19",
-      "https://news.ycombinator.com/item?id=44812985"
-    ],
-    [
-      "Zig Error Patterns",
-      "https://glfmn.io/posts/zig-error-patterns/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 14:43:02",
       "https://news.ycombinator.com/item?id=44812695"
     ],
@@ -207,6 +197,16 @@
     [
       "Claude Code IDE integration for Emacs",
       "https://github.com/manzaltu/claude-code-ide.el"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 12:50:06",
+      "https://news.ycombinator.com/item?id=44811280"
+    ],
+    [
+      "303Gen – 303 acid loops generator",
+      "https://303-gen-06a668.netlify.app/"
     ]
   ],
   [
