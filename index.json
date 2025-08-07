@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-08-07, 15:51:00",
-      "https://news.ycombinator.com/item?id=44826095"
+      "2025-08-07, 16:18:40",
+      "https://news.ycombinator.com/item?id=44826484"
     ],
     [
-      "Google confirms it has been hacked",
-      "https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/"
+      "Ditching GitHub",
+      "https://tomscii.sig7.se/2024/01/Ditching-GitHub"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 16:16:32",
+      "https://news.ycombinator.com/item?id=44826463"
+    ],
+    [
+      "Live: GPT-5",
+      "https://www.youtube.com/watch?v=0Uu_VJeVVfo"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 15:56:01",
+      "https://news.ycombinator.com/item?id=44826164"
+    ],
+    [
+      "Building Bluesky Comments for My Blog",
+      "https://natalie.sh/posts/bluesky-comments/"
     ]
   ],
   [
@@ -41,12 +61,42 @@
   ],
   [
     [
+      "2025-08-07, 14:56:05",
+      "https://news.ycombinator.com/item?id=44825326"
+    ],
+    [
+      "Lithium Reverses Alzheimer's in Mice",
+      "https://hms.harvard.edu/news/could-lithium-explain-treat-alzheimers-disease"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 14:46:14",
+      "https://news.ycombinator.com/item?id=44825175"
+    ],
+    [
+      "More shell tricks: first class lists and jq",
+      "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 14:33:39",
       "https://news.ycombinator.com/item?id=44824981"
     ],
     [
       "Let's stop pretending that managers and executives care about productivity",
       "https://www.baldurbjarnason.com/2025/disingenuous-discourse/"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 14:20:56",
+      "https://news.ycombinator.com/item?id=44824802"
+    ],
+    [
+      "SUSE Donates USD 11,500 to the Perl and Raku Foundation",
+      "https://www.perl.com/article/suse-donates-to-tprf/"
     ]
   ],
   [
@@ -111,26 +161,6 @@
   ],
   [
     [
-      "2025-08-07, 12:35:34",
-      "https://news.ycombinator.com/item?id=44823672"
-    ],
-    [
-      "Baltimore Assessments Accidentally Subsidize Blight–and How We Can Fix It",
-      "https://progressandpoverty.substack.com/p/how-baltimore-assessments-accidentally"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 12:30:23",
-      "https://news.ycombinator.com/item?id=44823614"
-    ],
-    [
-      "Maybe we should do an updated Super Cars",
-      "https://spillhistorie.no/2025/07/31/maybe-we-should-do-an-updated-version/"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 12:26:56",
       "https://news.ycombinator.com/item?id=44823580"
     ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2025-08-07, 11:20:35",
-      "https://news.ycombinator.com/item?id=44823094"
-    ],
-    [
-      "AI Ethics is being narrowed on purpose, like privacy was",
-      "https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 10:16:28",
       "https://news.ycombinator.com/item?id=44822684"
     ],
     [
       "The Whispering Earring (Scott Alexander)",
       "https://croissanthology.com/earring"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 10:12:54",
-      "https://news.ycombinator.com/item?id=44822665"
-    ],
-    [
-      "How AI Conquered the US Economy: A Visual FAQ",
-      "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a"
     ]
   ],
   [
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2025-08-06, 05:04:36",
-      "https://news.ycombinator.com/item?id=44807868"
-    ],
-    [
-      "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
-      "https://github.com/KittenML/KittenTTS"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 18:52:28",
-      "https://news.ycombinator.com/item?id=44789964"
-    ],
-    [
-      "PastVu: Historical Photographs on Current Maps",
-      "https://pastvu.com/?_nojs=1"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 18:34:22",
       "https://news.ycombinator.com/item?id=44789750"
     ],
@@ -287,6 +277,16 @@
     [
       "Debounce",
       "https://developer.mozilla.org/en-US/docs/Glossary/Debounce"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 09:03:11",
+      "https://news.ycombinator.com/item?id=44783442"
+    ],
+    [
+      "Koalas vs. Crows: An Evolutionary Theory of Software",
+      "https://ajmoon.com/posts/koalas-vs-crows-an-evolutionary-theory-of-software"
     ]
   ],
   [
