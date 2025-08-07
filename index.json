@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 21:36:45",
+      "https://news.ycombinator.com/item?id=44830684"
+    ],
+    [
+      "Vibechart",
+      "https://www.vibechart.net/"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 21:10:42",
       "https://news.ycombinator.com/item?id=44830408"
     ],
@@ -227,16 +237,6 @@
     [
       "Gemini CLI GitHub Actions",
       "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 07:01:42",
-      "https://news.ycombinator.com/item?id=44821434"
-    ],
-    [
-      "Zero-day flaws in authentication, identity, authorization in HashiCorp Vault",
-      "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/"
     ]
   ],
   [
