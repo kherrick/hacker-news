@@ -35,6 +35,7 @@
 * [2025-08-03, 18:00:16](https://news.ycombinator.com/item?id=44778366) - [The AI Mirage: July Jobs Report vs. Tech Hiring Truths](https://layoffnation.substack.com/p/the-ai-mirage-july-jobs-report-vs)
 * [2025-08-03, 17:51:41](https://news.ycombinator.com/item?id=44778304) - [Bourdain, My Camera, and Me (2021)](https://www.melaniedunea.com/essays/blog-post-title-one-phd62)
 * [2025-08-03, 17:27:33](https://news.ycombinator.com/item?id=44778149) - [Create space-saving clones on macOS with Python](https://alexwlchan.net/2025/cloning-with-python/)
+* [2025-08-03, 17:23:21](https://news.ycombinator.com/item?id=44778125) - [The Day MOOCs Died: Coursera's Preview Mode Kills Free Learning](https://www.classcentral.com/report/coursera-preview-mode-paywall/)
 * [2025-08-03, 17:17:14](https://news.ycombinator.com/item?id=44778088) - [Time Theft at the Terminal](https://marginalrevolution.com/marginalrevolution/2025/08/time-theft-at-the-terminal.html)
 * [2025-08-03, 17:17:05](https://news.ycombinator.com/item?id=44778087) - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
 * [2025-08-03, 17:00:32](https://news.ycombinator.com/item?id=44777965) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
