@@ -25,6 +25,7 @@
 * [2025-08-04, 18:27:26](https://news.ycombinator.com/item?id=44789668) - [Circadian Justice](https://eprints.lse.ac.uk/112431/)
 * [2025-08-04, 17:50:05](https://news.ycombinator.com/item?id=44789192) - [Offline.kids – screen-free activities for kids](https://offline.kids/)
 * [2025-08-04, 17:39:59](https://news.ycombinator.com/item?id=44789068) - [Ask HN: What trick of the trade took you too long to learn?](https://news.ycombinator.com/item?id=44789068)
+* [2025-08-04, 17:34:19](https://news.ycombinator.com/item?id=44788997) - [SQLite offline sync for Android quick start](https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration)
 * [2025-08-04, 17:18:41](https://news.ycombinator.com/item?id=44788783) - [I Asked Four Former Friends Why We Stopped Speaking-Here's What I Learned (2023)](https://www.vogue.com/article/reconnecting-with-ex-friends)
 * [2025-08-04, 16:46:10](https://news.ycombinator.com/item?id=44788321) - [Why is it worth spending time on type theory?](https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory)
 * [2025-08-04, 16:27:40](https://news.ycombinator.com/item?id=44788065) - [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
