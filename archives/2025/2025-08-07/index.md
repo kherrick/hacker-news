@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 05:00:32](https://news.ycombinator.com/item?id=44820753) - [How ChatGPT spoiled my semester (2024)](https://benborgers.com/chatgpt-semester)
 * [2025-08-07, 03:38:18](https://news.ycombinator.com/item?id=44820341) - [Show HN: Rust framework for advanced file recognition and identification](https://crates.io/crates/magical_rs)
 * [2025-08-07, 03:34:58](https://news.ycombinator.com/item?id=44820325) - [FDA approves eye drops that fix near vision without glasses](https://newatlas.com/aging/age-related-near-sighted-drops-vizz/)
 * [2025-08-07, 02:28:47](https://news.ycombinator.com/item?id=44819968) - [Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs](https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/)
