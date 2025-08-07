@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 08:06:48",
+      "https://news.ycombinator.com/item?id=44821869"
+    ],
+    [
+      "OpenAI's new GPT-5 models announced early by GitHub",
+      "https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 07:36:15",
       "https://news.ycombinator.com/item?id=44821642"
     ],
@@ -17,36 +27,6 @@
     [
       "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
       "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 06:48:13",
-      "https://news.ycombinator.com/item?id=44821351"
-    ],
-    [
-      "\"I met a founder who writes 10k lines of code a day thanks to AI\"",
-      "https://twitter.com/paulg/status/1953289830982664236"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 06:25:35",
-      "https://news.ycombinator.com/item?id=44821250"
-    ],
-    [
-      "Researchers Uncover RCE Attack Chains in HashiCorp Vault and CyberArk Conjur",
-      "https://www.csoonline.com/article/4035274/researchers-uncover-rce-attack-chains-in-popular-enterprise-credential-vaults.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 05:00:32",
-      "https://news.ycombinator.com/item?id=44820753"
-    ],
-    [
-      "How ChatGPT spoiled my semester (2024)",
-      "https://benborgers.com/chatgpt-semester"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-08-06, 15:03:19",
+      "https://news.ycombinator.com/item?id=44812985"
+    ],
+    [
+      "Zig Error Patterns",
+      "https://glfmn.io/posts/zig-error-patterns/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 14:43:02",
       "https://news.ycombinator.com/item?id=44812695"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2025-08-06, 06:51:13",
-      "https://news.ycombinator.com/item?id=44808542"
+      "2025-08-06, 12:50:06",
+      "https://news.ycombinator.com/item?id=44811280"
     ],
     [
-      "Rethinking DOM from first principles",
-      "https://acko.net/blog/html-is-dead-long-live-html/"
+      "303Gen – 303 acid loops generator",
+      "https://303-gen-06a668.netlify.app/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Debounce",
       "https://developer.mozilla.org/en-US/docs/Glossary/Debounce"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 15:20:51",
+      "https://news.ycombinator.com/item?id=44787073"
+    ],
+    [
+      "Scientists just recreated the Universe's first molecule",
+      "https://www.sciencedaily.com/releases/2025/08/250803011840.htm"
     ]
   ],
   [
