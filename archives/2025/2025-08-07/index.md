@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 07:01:42](https://news.ycombinator.com/item?id=44821434) - [Cracking the Vault: How we found zero-day flaws in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
 * [2025-08-07, 06:25:35](https://news.ycombinator.com/item?id=44821250) - [Researchers Uncover RCE Attack Chains in HashiCorp Vault and CyberArk Conjur](https://www.csoonline.com/article/4035274/researchers-uncover-rce-attack-chains-in-popular-enterprise-credential-vaults.html)
 * [2025-08-07, 05:00:32](https://news.ycombinator.com/item?id=44820753) - [How ChatGPT spoiled my semester (2024)](https://benborgers.com/chatgpt-semester)
 * [2025-08-07, 03:38:18](https://news.ycombinator.com/item?id=44820341) - [Show HN: Rust framework for advanced file recognition and identification](https://crates.io/crates/magical_rs)
