@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-07, 17:51:59",
+      "https://news.ycombinator.com/item?id=44827898"
+    ],
+    [
+      "Lightweight LSAT",
+      "https://lightweightlsat.com/"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 17:49:49",
       "https://news.ycombinator.com/item?id=44827862"
     ],
     [
       "Benchmark Framework Desktop Mainboard and 4-node cluster",
       "https://github.com/geerlingguy/ollama-benchmark/issues/21"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 17:46:18",
+      "https://news.ycombinator.com/item?id=44827794"
+    ],
+    [
+      "GPT-5: Key characteristics, pricing and system card",
+      "https://simonwillison.net/2025/Aug/7/gpt-5/"
     ]
   ],
   [
@@ -31,21 +51,11 @@
   ],
   [
     [
-      "2025-08-07, 17:03:15",
-      "https://news.ycombinator.com/item?id=44827046"
-    ],
-    [
-      "GPT-5 System Card [pdf]",
-      "https://cdn.openai.com/pdf/8124a3ce-ab78-4f06-96eb-49ea29ffb52f/gpt5-system-card-aug7.pdf"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 17:00:58",
       "https://news.ycombinator.com/item?id=44827003"
     ],
     [
-      "Foundry (YC F24) Is Hiring Staff Level Product Engineers",
+      "Foundry (YC F24) is hiring staff-level product engineers",
       "https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer"
     ]
   ],
@@ -56,17 +66,7 @@
     ],
     [
       "GPT-5",
-      "http://openai.com/gpt-5"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 16:18:40",
-      "https://news.ycombinator.com/item?id=44826484"
-    ],
-    [
-      "Ditching GitHub (2024)",
-      "https://tomscii.sig7.se/2024/01/Ditching-GitHub"
+      "https://openai.com/gpt-5/"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44825491"
     ],
     [
-      "How to Sell if Your User is not the Buyer",
+      "How to sell if your user is not the buyer",
       "https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=44825326"
     ],
     [
-      "Lithium Reverses Alzheimer's in Mice",
+      "Lithium compound can reverse Alzheimer’s in mice: study",
       "https://hms.harvard.edu/news/could-lithium-explain-treat-alzheimers-disease"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "Let's stop pretending that managers and executives care about productivity",
       "https://www.baldurbjarnason.com/2025/disingenuous-discourse/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 14:20:56",
-      "https://news.ycombinator.com/item?id=44824802"
-    ],
-    [
-      "SUSE Donates USD 11,500 to the Perl and Raku Foundation",
-      "https://www.perl.com/article/suse-donates-to-tprf/"
     ]
   ],
   [
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=44824502"
     ],
     [
-      "Laptop Support and Usability (LSU): July 2025 Report from the FreeBSD Foundation",
+      "Laptop Support and Usability (LSU): July 2025 Report",
       "https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md"
     ]
   ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=44822389"
     ],
     [
-      "New AI Coding Teammate: Gemini CLI GitHub Actions",
+      "Gemini CLI GitHub Actions",
       "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/"
     ]
   ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-08-04, 13:08:24",
+      "https://news.ycombinator.com/item?id=44785248"
+    ],
+    [
+      "A generic non-invasive neuromotor interface for human-computer interaction",
+      "https://www.nature.com/articles/s41586-025-09255-w"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 09:03:11",
       "https://news.ycombinator.com/item?id=44783442"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=44779396"
     ],
     [
-      "Italy's Undercover Pizza Detectives",
+      "Italy's pizza detectives",
       "https://www.bbc.com/travel/article/20250801-italys-undercover-pizza-detectives"
     ]
   ]
