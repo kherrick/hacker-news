@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-08-07, 13:12:42",
+      "https://news.ycombinator.com/item?id=44824056"
+    ],
+    [
+      "Infinite Pixels",
+      "https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 13:10:09",
+      "https://news.ycombinator.com/item?id=44824034"
+    ],
+    [
+      "Fastmail breaks UI in production",
+      "https://twitter.com/licyeus/status/1953438985381974493"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 12:52:24",
       "https://news.ycombinator.com/item?id=44823850"
     ],
     [
-      "LLM Does Not Care About MCP",
+      "An LLM does not need to understand MCP",
       "https://hackteam.io/blog/your-llm-does-not-care-about-mcp/"
     ]
   ],
   [
     [
-      "2025-08-07, 12:44:19",
-      "https://news.ycombinator.com/item?id=44823761"
+      "2025-08-07, 12:35:34",
+      "https://news.ycombinator.com/item?id=44823672"
     ],
     [
-      "You Don't Need Monads",
-      "https://muratkasimov.art/Ya/Articles/You-don%27t-really-need-monads"
+      "Baltimore Assessments Accidentally Subsidize Blight–and How We Can Fix It",
+      "https://progressandpoverty.substack.com/p/how-baltimore-assessments-accidentally"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Maybe we should do an updated Super Cars",
       "https://spillhistorie.no/2025/07/31/maybe-we-should-do-an-updated-version/"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 12:26:56",
+      "https://news.ycombinator.com/item?id=44823580"
+    ],
+    [
+      "Arm Desktop: x86 Emulation",
+      "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust",
       "https://github.com/stasher-dev/stasher-cli"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 11:24:58",
-      "https://news.ycombinator.com/item?id=44823123"
-    ],
-    [
-      "Photographer spends years on street corner capturing same commuters daily (2017)",
-      "https://mymodernmet.com/peter-funch-candid-photographs-commuters/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "New AI Coding Teammate: Gemini CLI GitHub Actions",
       "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 09:05:43",
-      "https://news.ycombinator.com/item?id=44822258"
-    ],
-    [
-      "About AI",
-      "https://priver.dev/blog/ai/about-ai/"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2025-08-06, 19:39:20",
-      "https://news.ycombinator.com/item?id=44816692"
-    ],
-    [
-      "We'd be better off with 9-bit bytes",
-      "https://pavpanchekha.com/blog/9bit.html"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 16:05:39",
       "https://news.ycombinator.com/item?id=44813854"
     ],
     [
       "Jules, our asynchronous coding agent",
       "https://blog.google/technology/google-labs/jules-now-available/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 16:00:54",
-      "https://news.ycombinator.com/item?id=44813789"
-    ],
-    [
-      "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
-      "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "PastVu: Historical Photographs on Current Maps",
       "https://pastvu.com/?_nojs=1"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 16:30:48",
+      "https://news.ycombinator.com/item?id=44788107"
+    ],
+    [
+      "Synthetic Biology for Space Exploration",
+      "https://www.nature.com/articles/s41526-025-00488-7"
     ]
   ],
   [
