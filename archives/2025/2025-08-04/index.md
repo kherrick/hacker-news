@@ -10,6 +10,7 @@
 * [2025-08-04, 22:24:20](https://news.ycombinator.com/item?id=44792005) - [Show HN: I've been building an ERP for manufacturing for the last 3 years](https://github.com/crbnos/carbon)
 * [2025-08-04, 22:22:00](https://news.ycombinator.com/item?id=44791984) - [Thingino: Open-Source Firmware for IP Cameras](https://thingino.com/)
 * [2025-08-04, 22:18:58](https://news.ycombinator.com/item?id=44791969) - [An Investigation into the Firm at the Heart of the Democratic Spam Machine](https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation)
+* [2025-08-04, 22:14:02](https://news.ycombinator.com/item?id=44791923) - [FLUX.1-Krea and the Rise of Opinionated Models](https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html)
 * [2025-08-04, 21:34:29](https://news.ycombinator.com/item?id=44791622) - [What Does One Billion Dollars Look Like?](https://whatdoesonebilliondollarslooklike.website/)
 * [2025-08-04, 21:26:23](https://news.ycombinator.com/item?id=44791554) - [Is It FOSS?](https://isitreallyfoss.com/)
 * [2025-08-04, 21:11:25](https://news.ycombinator.com/item?id=44791391) - [AST-Driven Python Testing](https://jazzberry.ai/blog/ast-driven-python-testing)
