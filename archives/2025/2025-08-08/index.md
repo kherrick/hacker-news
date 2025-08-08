@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
 * [2025-08-08, 18:57:56](https://news.ycombinator.com/item?id=44840428) - [Job growth has slowed sharply; the question is why](https://stayathomemacro.substack.com/p/job-growth-has-slowed-sharply-the)
+* [2025-08-08, 18:49:45](https://news.ycombinator.com/item?id=44840335) - [ChatGPT users hate GPT-5's overworked secretary energy, miss their GPT-4o buddy](https://arstechnica.com/ai/2025/08/chatgpt-users-outraged-as-gpt-5-replaces-the-models-they-love/)
 * [2025-08-08, 18:46:11](https://news.ycombinator.com/item?id=44840307) - [json2dir: a JSON-to-directory converter, a fast alternative to home-manager](https://github.com/alurm/json2dir)
 * [2025-08-08, 18:43:32](https://news.ycombinator.com/item?id=44840281) - [M5 MacBook Pro No Longer Coming in 2025](https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/)
 * [2025-08-08, 18:19:05](https://news.ycombinator.com/item?id=44840013) - [I Want Everything Local – Building My Offline AI Workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
