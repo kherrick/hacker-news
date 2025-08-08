@@ -72,6 +72,7 @@
 * [2025-08-04, 11:56:30](https://news.ycombinator.com/item?id=44784619) - [Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?](https://news.ycombinator.com/item?id=44784619)
 * [2025-08-04, 11:50:46](https://news.ycombinator.com/item?id=44784565) - [The US military’s on-base slot machines](https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/)
 * [2025-08-04, 11:44:49](https://news.ycombinator.com/item?id=44784498) - [Palantir Is Extending Its Reach Even Further into Government](https://www.wired.com/story/palantir-government-contracting-push/)
+* [2025-08-04, 11:44:43](https://news.ycombinator.com/item?id=44784495) - [Lessons from writing a Kubernetes Security book](https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037)
 * [2025-08-04, 11:22:25](https://news.ycombinator.com/item?id=44784312) - [KDE Plasma prepares crackdown on focus-stealing window behavior under Wayland](https://www.neowin.net/news/kde-plasma-prepares-crackdown-on-focus-stealing-window-behavior-under-wayland/)
 * [2025-08-04, 11:21:05](https://news.ycombinator.com/item?id=44784297) - [Photonic SNN chip reaches 1 GHz and supports on-chip learning](https://arxiv.org/abs/2506.14272)
 * [2025-08-04, 11:07:10](https://news.ycombinator.com/item?id=44784215) - [The Q Programming Language](https://git.urbach.dev/cli/q)
