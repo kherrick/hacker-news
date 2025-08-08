@@ -52,6 +52,7 @@
 * [2025-08-05, 13:35:42](https://news.ycombinator.com/item?id=44797784) - [Backblaze Drive Stats for Q2 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2025/)
 * [2025-08-05, 13:34:28](https://news.ycombinator.com/item?id=44797767) - [Itch.io seeks payment processors who work with with adult material](https://www.rockpapershotgun.com/itchio-are-seeking-out-new-payment-processors-who-are-more-comfortable-with-adult-material)
 * [2025-08-05, 13:19:08](https://news.ycombinator.com/item?id=44797628) - [Swarm robotics could spell the end of the assembly line](https://www.therobotreport.com/swarm-robotics-could-spell-end-aerospace-assembly-line/)
+* [2025-08-05, 13:10:17](https://news.ycombinator.com/item?id=44797566) - [Unmasking the Sea Star Killer](https://www.biographic.com/unmasking-the-sea-star-killer/)
 * [2025-08-05, 12:59:01](https://news.ycombinator.com/item?id=44797466) - [Can you block it? A simple Ad Block Tester](https://canyoublockit.com/)
 * [2025-08-05, 12:53:15](https://news.ycombinator.com/item?id=44797408) - [TSMC says employees tried to steal trade secrets on iPhone 18 chip process](https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/)
 * [2025-08-05, 12:07:25](https://news.ycombinator.com/item?id=44797050) - [C10kday](https://daniel.haxx.se/blog/2025/08/05/c10kday/)
