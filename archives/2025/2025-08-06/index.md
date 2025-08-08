@@ -51,6 +51,7 @@
 * [2025-08-06, 14:12:09](https://news.ycombinator.com/item?id=44812297) - [Providing ChatGPT to the entire U.S. federal workforce](https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce/)
 * [2025-08-06, 14:04:13](https://news.ycombinator.com/item?id=44812198) - [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
 * [2025-08-06, 13:47:33](https://news.ycombinator.com/item?id=44811996) - [How to Scale Proteomics](https://www.asimov.press/p/proteomics)
+* [2025-08-06, 13:47:26](https://news.ycombinator.com/item?id=44811993) - [My DIY modular charging station](https://arun.is/blog/diy-modular-charging-station/)
 * [2025-08-06, 13:41:46](https://news.ycombinator.com/item?id=44811905) - [Omarchy, a Linux Distribution by DHH](https://omarchy.org/)
 * [2025-08-06, 13:41:40](https://news.ycombinator.com/item?id=44811901) - [Diffuse-CLoC: Guided Diffusion for Physics-Based Character Look-Ahead Control](https://diffusecloc.github.io/website/)
 * [2025-08-06, 13:40:14](https://news.ycombinator.com/item?id=44811877) - [The Constitution Has Been Changed](https://slrpnk.net/post/25696399)
