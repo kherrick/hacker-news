@@ -63,6 +63,7 @@
 * [2025-08-04, 13:08:24](https://news.ycombinator.com/item?id=44785248) - [A generic non-invasive neuromotor interface for human-computer interaction](https://www.nature.com/articles/s41586-025-09255-w)
 * [2025-08-04, 13:07:18](https://news.ycombinator.com/item?id=44785238) - [Scientists Shine a Laser Through a Human Head](https://spectrum.ieee.org/optical-brain-imaging)
 * [2025-08-04, 13:05:08](https://news.ycombinator.com/item?id=44785224) - [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
+* [2025-08-04, 12:55:52](https://news.ycombinator.com/item?id=44785144) - [What Is Popover=Hint?](https://una.im/popover-hint/)
 * [2025-08-04, 12:54:44](https://news.ycombinator.com/item?id=44785132) - [Satellite Scanning](http://www.geoscaninc.com/default.asp?page=satellite_scanning)
 * [2025-08-04, 12:51:20](https://news.ycombinator.com/item?id=44785107) - [Century-Old Stone \"Tsunami Stones\" Dot Japan's Coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
 * [2025-08-04, 12:49:30](https://news.ycombinator.com/item?id=44785093) - [Why I'm Leaving NixOS After a Year?](https://www.rugu.dev/en/blog/leaving-nixos/)
