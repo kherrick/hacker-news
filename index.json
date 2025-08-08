@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-08, 14:29:54",
+      "https://news.ycombinator.com/item?id=44837434"
+    ],
+    [
+      "Astronomy Photographer of the Year 2025 shortlist",
+      "https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 13:52:49",
       "https://news.ycombinator.com/item?id=44836972"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-08-08, 05:10:46",
+      "https://news.ycombinator.com/item?id=44833655"
+    ],
+    [
+      "Turn any website into an API",
+      "https://www.parse.bot"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 21:10:42",
       "https://news.ycombinator.com/item?id=44830408"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-08-07, 15:56:01",
-      "https://news.ycombinator.com/item?id=44826164"
-    ],
-    [
-      "Building Bluesky comments for my blog",
-      "https://natalie.sh/posts/bluesky-comments/"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 14:49:32",
       "https://news.ycombinator.com/item?id=44825221"
     ],
@@ -287,16 +297,6 @@
     [
       "Virtual Linux Devices on ARM64",
       "https://underjord.io/500-virtual-linux-devices-on-arm64.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 08:53:15",
-      "https://news.ycombinator.com/item?id=44783368"
-    ],
-    [
-      "Writing a storage engine for Postgres: An in-memory table access method (2023)",
-      "https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html"
     ]
   ]
 ]
