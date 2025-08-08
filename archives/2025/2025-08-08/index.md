@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
 * [2025-08-08, 21:26:16](https://news.ycombinator.com/item?id=44841853) - [Texas politicians warn Smithsonian it must not lobby to retain its space shuttle](https://arstechnica.com/space/2025/08/texas-politicians-warn-smithsonian-it-must-not-lobby-to-retain-its-space-shuttle/)
+* [2025-08-08, 20:40:39](https://news.ycombinator.com/item?id=44841479) - [Must democracy \"deliver the goods\" to beat autocracy?](https://democracyorbust.bearblog.dev/must-democracy-deliver-the-goods/)
 * [2025-08-08, 20:28:40](https://news.ycombinator.com/item?id=44841371) - [ChatGPT Is Still a Bullshit Machine](https://gizmodo.com/chatgpt-is-still-a-bullshit-machine-2000640488)
 * [2025-08-08, 20:22:56](https://news.ycombinator.com/item?id=44841308) - [Study finds flavor bans cut youth vaping but slow decline in cigarette smoking](https://medicalxpress.com/news/2025-07-flavor-youth-vaping-decline-cigarette.html)
 * [2025-08-08, 19:53:47](https://news.ycombinator.com/item?id=44840993) - [GPT-5 Under Fire: Red Teaming OpenAI's Model Reveals Surprising Weaknesses](https://splx.ai/blog/gpt-5-red-teaming-results)
