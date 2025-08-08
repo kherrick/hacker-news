@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-08, 10:02:49](https://news.ycombinator.com/item?id=44835287) - [US to rewrite its past national climate reports](https://www.france24.com/en/live-news/20250807-us-to-rewrite-its-past-national-climate-reports)
 * [2025-08-08, 06:01:30](https://news.ycombinator.com/item?id=44833932) - [A love letter to my future employer (2020)](https://catzkorn.dev/blog/love-letter/)
 * [2025-08-08, 06:00:22](https://news.ycombinator.com/item?id=44833929) - [Benchmarking GPT-5 on 400 real-world code reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
 * [2025-08-08, 05:45:42](https://news.ycombinator.com/item?id=44833834) - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
 * [2025-08-08, 05:10:46](https://news.ycombinator.com/item?id=44833655) - [Turn Any Website into an API](https://www.parse.bot)
-* [2025-08-08, 02:55:28](https://news.ycombinator.com/item?id=44832927) - [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
 * [2025-08-07, 23:34:52](https://news.ycombinator.com/item?id=44831704) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 * [2025-08-07, 21:36:45](https://news.ycombinator.com/item?id=44830684) - [Vibechart](https://www.vibechart.net/)
 * [2025-08-07, 21:11:20](https://news.ycombinator.com/item?id=44830418) - [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
