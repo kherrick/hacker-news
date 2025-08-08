@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-08-08, 12:25:12",
-      "https://news.ycombinator.com/item?id=44836196"
+      "2025-08-08, 12:57:50",
+      "https://news.ycombinator.com/item?id=44836463"
     ],
     [
-      "Apple's Favoritism to Fastmail",
-      "https://xcancel.com/mxroute/status/1952890684660203830"
+      "HorizonDB, a geocoding engine in Rust that replaces Elasticsearch",
+      "https://radar.com/blog/high-performance-geocoding-in-rust"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 12:52:27",
+      "https://news.ycombinator.com/item?id=44836414"
+    ],
+    [
+      "The BLS Can't Be Replaced by the Private Sector",
+      "https://www.bloomberg.com/opinion/articles/2025-08-08/the-bls-can-t-be-replaced-by-the-private-sector"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 12:27:56",
+      "https://news.ycombinator.com/item?id=44836219"
+    ],
+    [
+      "Food, housing, & health care costs are a source of major stress for many people",
+      "https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 11:51:17",
+      "https://news.ycombinator.com/item?id=44835938"
+    ],
+    [
+      "The Windows 10 emoji picker has been broken for a month",
+      "https://rozab.dev/blog/emoji-search/"
     ]
   ],
   [
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2025-08-08, 11:30:23",
-      "https://news.ycombinator.com/item?id=44835806"
+      "2025-08-08, 11:33:02",
+      "https://news.ycombinator.com/item?id=44835827"
     ],
     [
-      "Amtrak NextGen Acela Debuts on August 28",
-      "https://media.amtrak.com/2025/08/amtrak-nextgen-acela-debuts-on-august-28/"
+      "The GPT-5 Launch Was Concerning",
+      "https://blog.charliemeyer.co/the-gpt-5-launch-was-concerning/"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Turn any website into an API",
       "https://www.parse.bot"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 23:34:52",
-      "https://news.ycombinator.com/item?id=44831704"
-    ],
-    [
-      "Cursed Knowledge",
-      "https://immich.app/cursed-knowledge/"
     ]
   ],
   [
@@ -201,36 +221,6 @@
   ],
   [
     [
-      "2025-08-07, 13:58:25",
-      "https://news.ycombinator.com/item?id=44824539"
-    ],
-    [
-      "Windows XP Professional",
-      "https://win32.run/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 10:12:54",
-      "https://news.ycombinator.com/item?id=44822665"
-    ],
-    [
-      "How AI conquered the US economy: A visual FAQ",
-      "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 13:17:38",
-      "https://news.ycombinator.com/item?id=44811567"
-    ],
-    [
-      "Claude Code IDE integration for Emacs",
-      "https://github.com/manzaltu/claude-code-ide.el"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 22:14:02",
       "https://news.ycombinator.com/item?id=44791923"
     ],
@@ -247,6 +237,16 @@
     [
       "How we enforce .NET coding standards to improve productivity",
       "https://anthonysimmon.com/workleap-dotnet-coding-standards/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 17:50:36",
+      "https://news.ycombinator.com/item?id=44789202"
+    ],
+    [
+      "Telefon Hírmondó: Listen to news and music electronically, in 1893",
+      "https://en.wikipedia.org/wiki/Telefon_H%C3%ADrmond%C3%B3"
     ]
   ],
   [
