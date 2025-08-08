@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 11:41:04](https://news.ycombinator.com/item?id=44835879) - [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
+* [2025-08-08, 11:15:11](https://news.ycombinator.com/item?id=44835709) - [I Don't Read Your Email Threads](https://loganmarek.com/i-dont-read-your-threads/)
 * [2025-08-08, 10:02:49](https://news.ycombinator.com/item?id=44835287) - [US to rewrite its past national climate reports](https://www.france24.com/en/live-news/20250807-us-to-rewrite-its-past-national-climate-reports)
 * [2025-08-08, 08:53:10](https://news.ycombinator.com/item?id=44834918) - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
 * [2025-08-08, 07:23:35](https://news.ycombinator.com/item?id=44834442) - [GPT-5 thinks that Windsurf's original name was OpenAI](https://chatgpt.com/share/6895a143-b770-8002-8826-823e45f04c79)
