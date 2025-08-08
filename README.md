@@ -11,6 +11,7 @@
 * [2025-08-07, 20:53:54](https://news.ycombinator.com/item?id=44830221) - [Cursor CLI](https://cursor.com/cli)
 * [2025-08-07, 19:24:49](https://news.ycombinator.com/item?id=44829185) - [Historical Tech Tree](https://www.historicaltechtree.com/)
 * [2025-08-07, 18:59:46](https://news.ycombinator.com/item?id=44828884) - [OpenAI's new open-source model is basically Phi-5](https://www.seangoedecke.com/gpt-oss-is-phi-5/)
+* [2025-08-07, 18:34:21](https://news.ycombinator.com/item?id=44828568) - [Show HN: Octofriend, a cute coding agent that can swap between GPT-5 and Claude](https://github.com/synthetic-lab/octofriend)
 * [2025-08-07, 18:30:04](https://news.ycombinator.com/item?id=44828504) - [Encryption made for police and military radios may be easily cracked](https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/)
 * [2025-08-07, 18:06:50](https://news.ycombinator.com/item?id=44828158) - [Exit Tax: Leave Germany before your business gets big](https://eidel.io/exit-tax-leave-germany-before-your-business-gets-big/)
 * [2025-08-07, 17:49:49](https://news.ycombinator.com/item?id=44827862) - [Benchmark Framework Desktop Mainboard and 4-node cluster](https://github.com/geerlingguy/ollama-benchmark/issues/21)
@@ -28,7 +29,6 @@
 * [2025-08-04, 11:56:30](https://news.ycombinator.com/item?id=44784619) - [Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?](https://news.ycombinator.com/item?id=44784619)
 * [2025-08-04, 11:51:00](https://news.ycombinator.com/item?id=44784570) - [Virtual Linux Devices on ARM64](https://underjord.io/500-virtual-linux-devices-on-arm64.html)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open music foundation models for full-song generation](https://map-yue.github.io/)
-* [2025-08-04, 10:05:53](https://news.ycombinator.com/item?id=44783820) - [MCDB – full-stack web servers in Minecraft](https://github.com/NoahCagle/MCDB)
 * [2025-08-04, 08:53:15](https://news.ycombinator.com/item?id=44783368) - [Writing a storage engine for Postgres: An in-memory table access method (2023)](https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html)
 
 ## [Archives](archives/index.md)
