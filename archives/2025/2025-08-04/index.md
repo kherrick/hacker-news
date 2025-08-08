@@ -21,6 +21,7 @@
 * [2025-08-04, 20:20:26](https://news.ycombinator.com/item?id=44790918) - [Speedhunters was a car culture juggernaut](https://www.thedrive.com/news/speedhunters-was-a-car-culture-juggernaut-this-is-how-it-died)
 * [2025-08-04, 19:32:11](https://news.ycombinator.com/item?id=44790422) - [Content-Aware Spaced Repetition](https://www.giacomoran.com/blog/content-aware-sr/)
 * [2025-08-04, 19:29:47](https://news.ycombinator.com/item?id=44790385) - [Passkeys are just passwords that require a password manager](https://danfabulich.medium.com/passkeys-are-just-passwords-that-require-a-password-manager-ebb7f2fdcadf)
+* [2025-08-04, 19:21:25](https://news.ycombinator.com/item?id=44790282) - [Show HN: Aha Domain Search](https://www.ahadomainsearch.com/)
 * [2025-08-04, 19:20:38](https://news.ycombinator.com/item?id=44790271) - [NASA's Curiosity picks up new skills](https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/)
 * [2025-08-04, 19:13:35](https://news.ycombinator.com/item?id=44790191) - [Show HN: FFlags – Feature flags as code, served from the edge](https://fflags.com)
 * [2025-08-04, 19:08:19](https://news.ycombinator.com/item?id=44790132) - [You know more Finnish than you think](https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/)
