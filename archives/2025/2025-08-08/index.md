@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 15:38:48](https://news.ycombinator.com/item?id=44838303) - [GPT-5 vs. Sonnet: Complex Agentic Coding](https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet)
 * [2025-08-08, 15:04:40](https://news.ycombinator.com/item?id=44837875) - [AI must RTFM: Why tech writers are becoming context curators](https://passo.uno/from-tech-writers-to-ai-context-curators/)
 * [2025-08-08, 14:57:06](https://news.ycombinator.com/item?id=44837783) - [AI is impressive because we've failed at personal computing](https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing)
 * [2025-08-08, 14:29:54](https://news.ycombinator.com/item?id=44837434) - [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
