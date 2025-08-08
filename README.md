@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-08, 11:41:04](https://news.ycombinator.com/item?id=44835879) - [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
-* [2025-08-08, 11:15:11](https://news.ycombinator.com/item?id=44835709) - [I Don't Read Your Email Threads](https://loganmarek.com/i-dont-read-your-threads/)
+* [2025-08-08, 11:15:11](https://news.ycombinator.com/item?id=44835709) - [I don't read your email threads](https://loganmarek.com/i-dont-read-your-threads/)
 * [2025-08-08, 08:53:10](https://news.ycombinator.com/item?id=44834918) - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
 * [2025-08-08, 06:01:30](https://news.ycombinator.com/item?id=44833932) - [A love letter to my future employer (2020)](https://catzkorn.dev/blog/love-letter/)
 * [2025-08-08, 05:45:42](https://news.ycombinator.com/item?id=44833834) - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
