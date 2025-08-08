@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-08, 23:20:56",
+      "https://news.ycombinator.com/item?id=44842700"
+    ],
+    [
+      "Little-known leguminous plant can increase beef production by 60% (2022)",
+      "https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 19:29:10",
       "https://news.ycombinator.com/item?id=44840746"
     ],
@@ -57,16 +67,6 @@
     [
       "Json2dir: a JSON-to-directory converter, a fast alternative to home-manager",
       "https://github.com/alurm/json2dir"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 18:43:32",
-      "https://news.ycombinator.com/item?id=44840281"
-    ],
-    [
-      "M5 MacBook Pro No Longer Coming in 2025",
-      "https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/"
     ]
   ],
   [
@@ -181,22 +181,22 @@
   ],
   [
     [
-      "2025-08-08, 08:53:10",
-      "https://news.ycombinator.com/item?id=44834918"
-    ],
-    [
-      "How attention sinks keep language models stable",
-      "https://hanlab.mit.edu/blog/streamingllm"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 06:29:21",
       "https://news.ycombinator.com/item?id=44808423"
     ],
     [
       "Fire hazard of WHY2025 badge due to 18650 Li-Ion cells",
       "https://wiki.why2025.org/Badge/Fire_hazard"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 03:51:22",
+      "https://news.ycombinator.com/item?id=44807429"
+    ],
+    [
+      "Backpropagating through a maze with candle and WASM",
+      "https://yberreby.com/discrete-maze-backprop-candle-wasm/"
     ]
   ],
   [
