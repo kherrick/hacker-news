@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-08, 13:52:49",
+      "https://news.ycombinator.com/item?id=44836972"
+    ],
+    [
+      "What Does Consulting Do?",
+      "https://www.nber.org/papers/w34072"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 13:45:57",
+      "https://news.ycombinator.com/item?id=44836879"
+    ],
+    [
+      "Getting Good Results from Claude Code",
+      "https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 13:26:01",
       "https://news.ycombinator.com/item?id=44836675"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-08-08, 11:51:17",
-      "https://news.ycombinator.com/item?id=44835938"
-    ],
-    [
-      "The Windows 10 emoji picker has been broken for a month",
-      "https://rozab.dev/blog/emoji-search/"
-    ]
-  ],
-  [
-    [
       "2025-08-08, 11:41:04",
       "https://news.ycombinator.com/item?id=44835879"
     ],
@@ -97,26 +107,6 @@
     [
       "Linear sent me down a local-first rabbit hole",
       "https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 05:10:46",
-      "https://news.ycombinator.com/item?id=44833655"
-    ],
-    [
-      "Turn any website into an API",
-      "https://www.parse.bot"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 21:11:20",
-      "https://news.ycombinator.com/item?id=44830418"
-    ],
-    [
-      "Achieving 10,000x training data reduction with high-fidelity labels",
-      "https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "FLUX.1-Krea and the Rise of Opinionated Models",
       "https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 19:21:25",
+      "https://news.ycombinator.com/item?id=44790282"
+    ],
+    [
+      "Show HN: Aha Domain Search",
+      "https://www.ahadomainsearch.com/"
     ]
   ],
   [
