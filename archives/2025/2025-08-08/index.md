@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 19:46:48](https://news.ycombinator.com/item?id=44840924) - [My ancestors fought in WWII. Hiroshima is plagued by shallow reading](https://www.washingtonpost.com/opinions/2025/08/08/world-war-ii-hiroshima-history-memories/)
+* [2025-08-08, 19:29:10](https://news.ycombinator.com/item?id=44840746) - [GPU-Rich Labs Have Won: What's Left for the Rest of Us Is Distillation](https://inference.net/blog/what-s-left-is-distillation)
 * [2025-08-08, 19:27:28](https://news.ycombinator.com/item?id=44840728) - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
 * [2025-08-08, 19:24:07](https://news.ycombinator.com/item?id=44840693) - [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
 * [2025-08-08, 19:22:12](https://news.ycombinator.com/item?id=44840662) - [Gold futures jump to record high after US tariffs on cast bars – Gold](https://www.theguardian.com/business/2025/aug/08/gold-futures-soar-to-record-high-after-reports-of-us-tariffs-on-swiss-bars)

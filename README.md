@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-08, 19:46:48](https://news.ycombinator.com/item?id=44840924) - [My ancestors fought in WWII. Hiroshima is plagued by shallow reading](https://www.washingtonpost.com/opinions/2025/08/08/world-war-ii-hiroshima-history-memories/)
+* [2025-08-08, 19:29:10](https://news.ycombinator.com/item?id=44840746) - [GPU-Rich Labs Have Won: What's Left for the Rest of Us Is Distillation](https://inference.net/blog/what-s-left-is-distillation)
 * [2025-08-08, 19:27:28](https://news.ycombinator.com/item?id=44840728) - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
 * [2025-08-08, 19:24:07](https://news.ycombinator.com/item?id=44840693) - [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
 * [2025-08-08, 19:12:18](https://news.ycombinator.com/item?id=44840582) - [Apollo 13 Commander Jim Lovell has passed away](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
@@ -8,7 +10,6 @@
 * [2025-08-08, 18:43:32](https://news.ycombinator.com/item?id=44840281) - [M5 MacBook Pro No Longer Coming in 2025](https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/)
 * [2025-08-08, 18:19:05](https://news.ycombinator.com/item?id=44840013) - [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
 * [2025-08-08, 18:04:26](https://news.ycombinator.com/item?id=44839842) - [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/)
-* [2025-08-08, 17:48:29](https://news.ycombinator.com/item?id=44839705) - [A message from Intel CEO Lip-Bu Tan to all company employees](https://newsroom.intel.com/corporate/my-commitment-to-you-and-our-company)
 * [2025-08-08, 17:45:26](https://news.ycombinator.com/item?id=44839681) - [Someone keeps stealing, flying, fixing and returning this man's 1958 Cessna](https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief)
 * [2025-08-08, 16:16:20](https://news.ycombinator.com/item?id=44838733) - [Open SWE: An open-source asynchronous coding agent](https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/)
 * [2025-08-08, 16:12:03](https://news.ycombinator.com/item?id=44838687) - [HRT's Python fork: Leveraging PEP 690 for faster imports](https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/)
@@ -24,7 +25,6 @@
 * [2025-08-07, 14:49:32](https://news.ycombinator.com/item?id=44825221) - [Show HN: Trayce – Burp Suite for developers](https://trayce.dev?resubmit=hn)
 * [2025-08-06, 06:29:21](https://news.ycombinator.com/item?id=44808423) - [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
 * [2025-08-04, 23:14:15](https://news.ycombinator.com/item?id=44792419) - [Overengineering my homelab so I don't pay cloud providers](https://ergaster.org/posts/2025/08/04-overegineering-homelab/)
-* [2025-08-04, 22:14:02](https://news.ycombinator.com/item?id=44791923) - [FLUX.1-Krea and the Rise of Opinionated Models](https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html)
 * [2025-08-04, 21:14:55](https://news.ycombinator.com/item?id=44791444) - [Voice Controlled Swarms](https://jasonfantl.com/posts/Voice-Controlled-Swarms/)
 * [2025-08-04, 19:36:09](https://news.ycombinator.com/item?id=44790472) - [A robust, open-source framework for Spiking Neural Networks on low-end FPGAs](https://arxiv.org/abs/2507.07284)
 * [2025-08-04, 17:50:36](https://news.ycombinator.com/item?id=44789202) - [Telefon Hírmondó](https://en.wikipedia.org/wiki/Telefon_H%C3%ADrmond%C3%B3)
