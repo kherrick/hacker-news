@@ -2,9 +2,9 @@
 
 * [2025-08-08, 19:27:28](https://news.ycombinator.com/item?id=44840728) - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
 * [2025-08-08, 19:24:07](https://news.ycombinator.com/item?id=44840693) - [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
-* [2025-08-08, 19:22:12](https://news.ycombinator.com/item?id=44840662) - [Gold futures jump to record high after US tariffs on cast bars – Gold](https://www.theguardian.com/business/2025/aug/08/gold-futures-soar-to-record-high-after-reports-of-us-tariffs-on-swiss-bars)
+* [2025-08-08, 19:12:18](https://news.ycombinator.com/item?id=44840582) - [Apollo 13 Commander Jim Lovell has passed away](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
 * [2025-08-08, 18:57:56](https://news.ycombinator.com/item?id=44840428) - [Job growth has slowed sharply; the question is why](https://stayathomemacro.substack.com/p/job-growth-has-slowed-sharply-the)
-* [2025-08-08, 18:46:11](https://news.ycombinator.com/item?id=44840307) - [json2dir: a JSON-to-directory converter, a fast alternative to home-manager](https://github.com/alurm/json2dir)
+* [2025-08-08, 18:46:11](https://news.ycombinator.com/item?id=44840307) - [Json2dir: a JSON-to-directory converter, a fast alternative to home-manager](https://github.com/alurm/json2dir)
 * [2025-08-08, 18:43:32](https://news.ycombinator.com/item?id=44840281) - [M5 MacBook Pro No Longer Coming in 2025](https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/)
 * [2025-08-08, 18:19:05](https://news.ycombinator.com/item?id=44840013) - [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
 * [2025-08-08, 18:04:26](https://news.ycombinator.com/item?id=44839842) - [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/)

@@ -7,6 +7,7 @@
 * [2025-08-08, 19:27:28](https://news.ycombinator.com/item?id=44840728) - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
 * [2025-08-08, 19:24:07](https://news.ycombinator.com/item?id=44840693) - [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
 * [2025-08-08, 19:22:12](https://news.ycombinator.com/item?id=44840662) - [Gold futures jump to record high after US tariffs on cast bars – Gold](https://www.theguardian.com/business/2025/aug/08/gold-futures-soar-to-record-high-after-reports-of-us-tariffs-on-swiss-bars)
+* [2025-08-08, 19:12:18](https://news.ycombinator.com/item?id=44840582) - [Apollo 13 Commander Jim Lovell has passed away](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
 * [2025-08-08, 18:57:56](https://news.ycombinator.com/item?id=44840428) - [Job growth has slowed sharply; the question is why](https://stayathomemacro.substack.com/p/job-growth-has-slowed-sharply-the)
 * [2025-08-08, 18:49:45](https://news.ycombinator.com/item?id=44840335) - [ChatGPT users hate GPT-5's overworked secretary energy, miss their GPT-4o buddy](https://arstechnica.com/ai/2025/08/chatgpt-users-outraged-as-gpt-5-replaces-the-models-they-love/)
 * [2025-08-08, 18:46:11](https://news.ycombinator.com/item?id=44840307) - [json2dir: a JSON-to-directory converter, a fast alternative to home-manager](https://github.com/alurm/json2dir)
