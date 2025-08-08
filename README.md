@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-08, 19:53:47](https://news.ycombinator.com/item?id=44840993) - [GPT-5 Under Fire: Red Teaming OpenAI's Model Reveals Surprising Weaknesses](https://splx.ai/blog/gpt-5-red-teaming-results)
+* [2025-08-08, 20:22:56](https://news.ycombinator.com/item?id=44841308) - [Study finds flavor bans cut youth vaping but slow decline in cigarette smoking](https://medicalxpress.com/news/2025-07-flavor-youth-vaping-decline-cigarette.html)
 * [2025-08-08, 19:52:07](https://news.ycombinator.com/item?id=44840982) - [Disney 1985 film The Black Cauldron was an experiment that failed](https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney)
 * [2025-08-08, 19:29:10](https://news.ycombinator.com/item?id=44840746) - [GPU-rich labs have won: What's left for the rest of us is distillation](https://inference.net/blog/what-s-left-is-distillation)
 * [2025-08-08, 19:27:28](https://news.ycombinator.com/item?id=44840728) - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
@@ -8,7 +8,6 @@
 * [2025-08-08, 19:20:51](https://news.ycombinator.com/item?id=44840654) - [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
 * [2025-08-08, 19:12:18](https://news.ycombinator.com/item?id=44840582) - [Jim Lovell, Apollo 13 commander, has died](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
 * [2025-08-08, 18:46:11](https://news.ycombinator.com/item?id=44840307) - [Json2dir: a JSON-to-directory converter, a fast alternative to home-manager](https://github.com/alurm/json2dir)
-* [2025-08-08, 18:43:32](https://news.ycombinator.com/item?id=44840281) - [M5 MacBook Pro No Longer Coming in 2025](https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/)
 * [2025-08-08, 18:19:05](https://news.ycombinator.com/item?id=44840013) - [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
 * [2025-08-08, 18:04:26](https://news.ycombinator.com/item?id=44839842) - [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/)
 * [2025-08-08, 17:48:29](https://news.ycombinator.com/item?id=44839705) - [A message from Intel CEO Lip-Bu Tan to all company employees](https://newsroom.intel.com/corporate/my-commitment-to-you-and-our-company)
@@ -22,6 +21,7 @@
 * [2025-08-08, 11:41:04](https://news.ycombinator.com/item?id=44835879) - [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
 * [2025-08-08, 08:53:10](https://news.ycombinator.com/item?id=44834918) - [How attention sinks keep language models stable](https://hanlab.mit.edu/blog/streamingllm)
 * [2025-08-08, 05:45:42](https://news.ycombinator.com/item?id=44833834) - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
+* [2025-08-07, 14:49:32](https://news.ycombinator.com/item?id=44825221) - [Show HN: Trayce – Burp Suite for developers](https://trayce.dev?resubmit=hn)
 * [2025-08-06, 06:29:21](https://news.ycombinator.com/item?id=44808423) - [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
 * [2025-08-05, 16:09:02](https://news.ycombinator.com/item?id=44799886) - [Poltergeist: File watcher with auto-rebuild for any language or build system](https://github.com/steipete/poltergeist)
 * [2025-08-04, 23:14:15](https://news.ycombinator.com/item?id=44792419) - [Overengineering my homelab so I don't pay cloud providers](https://ergaster.org/posts/2025/08/04-overegineering-homelab/)
