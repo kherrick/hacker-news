@@ -28,6 +28,7 @@
 * [2025-08-05, 17:00:49](https://news.ycombinator.com/item?id=44800730) - [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/)
 * [2025-08-05, 16:28:05](https://news.ycombinator.com/item?id=44800185) - [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
 * [2025-08-05, 16:18:57](https://news.ycombinator.com/item?id=44800051) - [Google agrees to pause AI workloads when power demand spikes](https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/)
+* [2025-08-05, 16:09:02](https://news.ycombinator.com/item?id=44799886) - [Poltergeist: File watcher with auto-rebuild for any language or build system](https://github.com/steipete/poltergeist)
 * [2025-08-05, 16:07:58](https://news.ycombinator.com/item?id=44799869) - [OpenAI Harmony](https://github.com/openai/harmony)
 * [2025-08-05, 16:07:46](https://news.ycombinator.com/item?id=44799861) - [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
 * [2025-08-05, 16:05:56](https://news.ycombinator.com/item?id=44799834) - [SAML Shield: Drop-in protection that works for any stack](https://samlshield.com/)
