@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-08, 14:29:54](https://news.ycombinator.com/item?id=44837434) - [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
 * [2025-08-08, 13:52:49](https://news.ycombinator.com/item?id=44836972) - [What Does Consulting Do?](https://www.nber.org/papers/w34072)
 * [2025-08-08, 13:45:57](https://news.ycombinator.com/item?id=44836879) - [Getting Good Results from Claude Code](https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/)
 * [2025-08-08, 13:26:01](https://news.ycombinator.com/item?id=44836675) - [The Rise of Ritual Features: Why Platforms Are Adding Daily Puzzle Games](https://productpickle.online/2025/07/20/ritual-features-the-quiet-strategy-behind-daily-puzzle-games-on-linkedin-and-beyond/)
@@ -11,6 +12,7 @@
 * [2025-08-08, 08:53:10](https://news.ycombinator.com/item?id=44834918) - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
 * [2025-08-08, 06:01:30](https://news.ycombinator.com/item?id=44833932) - [A love letter to my future employer (2020)](https://catzkorn.dev/blog/love-letter/)
 * [2025-08-08, 05:45:42](https://news.ycombinator.com/item?id=44833834) - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
+* [2025-08-08, 05:10:46](https://news.ycombinator.com/item?id=44833655) - [Turn any website into an API](https://www.parse.bot)
 * [2025-08-07, 21:10:42](https://news.ycombinator.com/item?id=44830408) - [Flipper Zero dark web firmware bypasses rolling code security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
 * [2025-08-07, 20:53:54](https://news.ycombinator.com/item?id=44830221) - [Cursor CLI](https://cursor.com/cli)
 * [2025-08-07, 19:24:49](https://news.ycombinator.com/item?id=44829185) - [Historical Tech Tree](https://www.historicaltechtree.com/)
@@ -20,7 +22,6 @@
 * [2025-08-07, 17:46:18](https://news.ycombinator.com/item?id=44827794) - [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/)
 * [2025-08-07, 17:06:39](https://news.ycombinator.com/item?id=44827101) - [GPT-5 for Developers](https://openai.com/index/introducing-gpt-5-for-developers)
 * [2025-08-07, 17:00:21](https://news.ycombinator.com/item?id=44826997) - [GPT-5](https://openai.com/gpt-5/)
-* [2025-08-07, 15:56:01](https://news.ycombinator.com/item?id=44826164) - [Building Bluesky comments for my blog](https://natalie.sh/posts/bluesky-comments/)
 * [2025-08-07, 14:49:32](https://news.ycombinator.com/item?id=44825221) - [Show HN: Trayce – “Burp Suite for developers”](https://trayce.dev?resubmit=hn)
 * [2025-08-04, 22:14:02](https://news.ycombinator.com/item?id=44791923) - [FLUX.1-Krea and the Rise of Opinionated Models](https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html)
 * [2025-08-04, 19:21:25](https://news.ycombinator.com/item?id=44790282) - [Show HN: Aha Domain Search](https://www.ahadomainsearch.com/)
@@ -29,7 +30,6 @@
 * [2025-08-04, 12:55:52](https://news.ycombinator.com/item?id=44785144) - [What Is Popover=Hint?](https://una.im/popover-hint/)
 * [2025-08-04, 12:03:24](https://news.ycombinator.com/item?id=44784685) - [Window Activation](https://blog.broulik.de/2025/08/on-window-activation/)
 * [2025-08-04, 11:51:00](https://news.ycombinator.com/item?id=44784570) - [Virtual Linux Devices on ARM64](https://underjord.io/500-virtual-linux-devices-on-arm64.html)
-* [2025-08-04, 08:53:15](https://news.ycombinator.com/item?id=44783368) - [Writing a storage engine for Postgres: An in-memory table access method (2023)](https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html)
 
 ## [Archives](archives/index.md)
 
