@@ -13,6 +13,7 @@
 * [2025-08-04, 22:14:02](https://news.ycombinator.com/item?id=44791923) - [FLUX.1-Krea and the Rise of Opinionated Models](https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html)
 * [2025-08-04, 21:34:29](https://news.ycombinator.com/item?id=44791622) - [What Does One Billion Dollars Look Like?](https://whatdoesonebilliondollarslooklike.website/)
 * [2025-08-04, 21:26:23](https://news.ycombinator.com/item?id=44791554) - [Is It FOSS?](https://isitreallyfoss.com/)
+* [2025-08-04, 21:14:55](https://news.ycombinator.com/item?id=44791444) - [Voice Controlled Swarms](https://jasonfantl.com/posts/Voice-Controlled-Swarms/)
 * [2025-08-04, 21:11:25](https://news.ycombinator.com/item?id=44791391) - [AST-Driven Python Testing](https://jazzberry.ai/blog/ast-driven-python-testing)
 * [2025-08-04, 21:07:50](https://news.ycombinator.com/item?id=44791356) - [Show HN: I made a competitive debating game(like chess.com but for debating)](https://crs-prod-rankeddebate-l4dnggfaca-nn.a.run.app/)
 * [2025-08-04, 21:03:50](https://news.ycombinator.com/item?id=44791301) - [How we enforce .NET coding standards to improve productivity](https://anthonysimmon.com/workleap-dotnet-coding-standards/)
