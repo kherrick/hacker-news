@@ -24,12 +24,12 @@
 * [2025-08-07, 13:58:25](https://news.ycombinator.com/item?id=44824539) - [Windows XP Professional](https://win32.run/)
 * [2025-08-07, 13:12:42](https://news.ycombinator.com/item?id=44824056) - [Infinite Pixels](https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/)
 * [2025-08-07, 10:12:54](https://news.ycombinator.com/item?id=44822665) - [How AI conquered the US economy: A visual FAQ](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)
-* [2025-08-07, 00:20:53](https://news.ycombinator.com/item?id=44819352) - [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 * [2025-08-04, 23:14:15](https://news.ycombinator.com/item?id=44792419) - [Over engineering my homelab so I don't pay cloud providers](https://ergaster.org/posts/2025/08/04-overegineering-homelab/)
+* [2025-08-04, 11:56:30](https://news.ycombinator.com/item?id=44784619) - [Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?](https://news.ycombinator.com/item?id=44784619)
 * [2025-08-04, 11:07:10](https://news.ycombinator.com/item?id=44784215) - [The Q Programming Language](https://git.urbach.dev/cli/q)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open music foundation models for full-song generation](https://map-yue.github.io/)
-* [2025-08-04, 08:53:15](https://news.ycombinator.com/item?id=44783368) - [Writing a storage engine for Postgres: an in-memory Table Access Method](https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html)
+* [2025-08-04, 08:53:15](https://news.ycombinator.com/item?id=44783368) - [Writing a storage engine for Postgres: An in-memory table access method (2023)](https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html)
 
 ## [Archives](archives/index.md)
 
