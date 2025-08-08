@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-08, 15:49:28",
+      "https://news.ycombinator.com/item?id=44838431"
+    ],
+    [
+      "AWS's sudden removal of a 10-year account and all of its data: lessons learned",
+      "https://www.suramya.com/blog/2025/08/lessons-learnt-from-aws-deleting-a-10-year-account-and-all-that-data-without-warning/"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 15:45:27",
+      "https://news.ycombinator.com/item?id=44838378"
+    ],
+    [
+      "Tor: How a Military Project Became a Lifeline for Privacy",
+      "https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 15:38:48",
       "https://news.ycombinator.com/item?id=44838303"
     ],
@@ -31,6 +51,26 @@
   ],
   [
     [
+      "2025-08-08, 14:46:53",
+      "https://news.ycombinator.com/item?id=44837646"
+    ],
+    [
+      "Google's Genie is more impressive than GPT5",
+      "https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 14:43:01",
+      "https://news.ycombinator.com/item?id=44837601"
+    ],
+    [
+      "Open SWE by LangChain",
+      "https://swe.langchain.com/"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 14:29:54",
       "https://news.ycombinator.com/item?id=44837434"
     ],
@@ -47,16 +87,6 @@
     [
       "What Does Consulting Do?",
       "https://www.nber.org/papers/w34072"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 13:45:57",
-      "https://news.ycombinator.com/item?id=44836879"
-    ],
-    [
-      "Getting Good Results from Claude Code",
-      "https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-08-04, 14:46:28",
-      "https://news.ycombinator.com/item?id=44786553"
-    ],
-    [
-      "Complex Iterators Are Slow",
-      "https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 12:55:52",
-      "https://news.ycombinator.com/item?id=44785144"
-    ],
-    [
-      "What Is Popover=Hint?",
-      "https://una.im/popover-hint/"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 12:03:24",
       "https://news.ycombinator.com/item?id=44784685"
     ],
     [
       "Window Activation",
       "https://blog.broulik.de/2025/08/on-window-activation/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 11:51:00",
-      "https://news.ycombinator.com/item?id=44784570"
-    ],
-    [
-      "Virtual Linux Devices on ARM64",
-      "https://underjord.io/500-virtual-linux-devices-on-arm64.html"
     ]
   ]
 ]
