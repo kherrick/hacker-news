@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 17:20:39](https://news.ycombinator.com/item?id=44839459) - [I clustered four Framework Mainboards to test LLMs](https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms)
 * [2025-08-08, 16:16:20](https://news.ycombinator.com/item?id=44838733) - [We built an open-source asynchronous coding agent](https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/)
 * [2025-08-08, 16:12:03](https://news.ycombinator.com/item?id=44838687) - [HRT's Python Fork: Leveraging PEP 690 for Faster Imports](https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/)
 * [2025-08-08, 15:49:28](https://news.ycombinator.com/item?id=44838431) - [AWS's sudden removal of a 10-year account and all of its data: lessons learned](https://www.suramya.com/blog/2025/08/lessons-learnt-from-aws-deleting-a-10-year-account-and-all-that-data-without-warning/)

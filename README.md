@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-08, 17:20:39](https://news.ycombinator.com/item?id=44839459) - [I clustered four Framework Mainboards to test LLMs](https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms)
 * [2025-08-08, 16:16:20](https://news.ycombinator.com/item?id=44838733) - [We built an open-source asynchronous coding agent](https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/)
 * [2025-08-08, 16:12:03](https://news.ycombinator.com/item?id=44838687) - [HRT's Python Fork: Leveraging PEP 690 for Faster Imports](https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/)
 * [2025-08-08, 15:45:27](https://news.ycombinator.com/item?id=44838378) - [Tor: How a Military Project Became a Lifeline for Privacy](https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/)
@@ -18,7 +19,6 @@
 * [2025-08-07, 21:10:42](https://news.ycombinator.com/item?id=44830408) - [Flipper Zero dark web firmware bypasses rolling code security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
 * [2025-08-07, 20:53:54](https://news.ycombinator.com/item?id=44830221) - [Cursor CLI](https://cursor.com/cli)
 * [2025-08-07, 19:24:49](https://news.ycombinator.com/item?id=44829185) - [Historical Tech Tree](https://www.historicaltechtree.com/)
-* [2025-08-07, 18:59:46](https://news.ycombinator.com/item?id=44828884) - [OpenAI's new open-source model is basically Phi-5](https://www.seangoedecke.com/gpt-oss-is-phi-5/)
 * [2025-08-07, 18:06:50](https://news.ycombinator.com/item?id=44828158) - [Exit Tax: Leave Germany before your business gets big](https://eidel.io/exit-tax-leave-germany-before-your-business-gets-big/)
 * [2025-08-07, 17:46:18](https://news.ycombinator.com/item?id=44827794) - [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/)
 * [2025-08-07, 17:00:21](https://news.ycombinator.com/item?id=44826997) - [GPT-5](https://openai.com/gpt-5/)
