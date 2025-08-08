@@ -80,6 +80,7 @@
 * [2025-08-04, 10:55:47](https://news.ycombinator.com/item?id=44784141) - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open Music Foundation Models for Full-Song Generation](https://map-yue.github.io/)
 * [2025-08-04, 10:10:54](https://news.ycombinator.com/item?id=44783862) - [ThinkBook Plus Gen 6 – Lenovo’s rollable laptop](https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review)
+* [2025-08-04, 10:05:53](https://news.ycombinator.com/item?id=44783820) - [MCDB – full-stack web servers in Minecraft](https://github.com/NoahCagle/MCDB)
 * [2025-08-04, 09:49:42](https://news.ycombinator.com/item?id=44783729) - [Lightning on Earth is sparked by a powerful chain reaction from outer space](https://www.livescience.com/physics-mathematics/lightning-on-earth-is-sparked-by-a-powerful-chain-reaction-from-outer-space-simulations-show)
 * [2025-08-04, 09:48:15](https://news.ycombinator.com/item?id=44783717) - [The Origin of Cisco Systems](https://www.tcracs.org/tcrwp/1origin-of-cisco/)
 * [2025-08-04, 09:27:49](https://news.ycombinator.com/item?id=44783566) - [Mastercard deflects blame for NSFW games being taken down](https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/)

@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-08, 06:00:22](https://news.ycombinator.com/item?id=44833929) - [Benchmarking GPT-5 on 400 Real-World Code Reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
-* [2025-08-08, 03:09:05](https://news.ycombinator.com/item?id=44832990) - [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
+* [2025-08-08, 05:45:42](https://news.ycombinator.com/item?id=44833834) - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
+* [2025-08-08, 03:09:05](https://news.ycombinator.com/item?id=44832990) - [GPT-5 leaked system prompt?](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
 * [2025-08-08, 02:55:28](https://news.ycombinator.com/item?id=44832927) - [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
 * [2025-08-08, 02:37:12](https://news.ycombinator.com/item?id=44832829) - [New executive order puts all grants under political control](https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/)
 * [2025-08-07, 23:34:52](https://news.ycombinator.com/item?id=44831704) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
@@ -17,7 +18,6 @@
 * [2025-08-07, 17:46:18](https://news.ycombinator.com/item?id=44827794) - [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/)
 * [2025-08-07, 17:12:21](https://news.ycombinator.com/item?id=44827216) - [Show HN: Browser AI agent platform designed for reliability](https://github.com/nottelabs/notte)
 * [2025-08-07, 17:06:39](https://news.ycombinator.com/item?id=44827101) - [GPT-5 for Developers](https://openai.com/index/introducing-gpt-5-for-developers)
-* [2025-08-07, 17:00:58](https://news.ycombinator.com/item?id=44827003) - [Foundry (YC F24) is hiring staff-level product engineers](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer)
 * [2025-08-07, 17:00:21](https://news.ycombinator.com/item?id=44826997) - [GPT-5](https://openai.com/gpt-5/)
 * [2025-08-07, 15:56:01](https://news.ycombinator.com/item?id=44826164) - [Building Bluesky comments for my blog](https://natalie.sh/posts/bluesky-comments/)
 * [2025-08-07, 15:09:02](https://news.ycombinator.com/item?id=44825491) - [How to sell if your user is not the buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
@@ -27,8 +27,8 @@
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
 * [2025-08-04, 23:14:15](https://news.ycombinator.com/item?id=44792419) - [Over engineering my homelab so I don't pay cloud providers](https://ergaster.org/posts/2025/08/04-overegineering-homelab/)
 * [2025-08-04, 11:56:30](https://news.ycombinator.com/item?id=44784619) - [Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?](https://news.ycombinator.com/item?id=44784619)
-* [2025-08-04, 11:44:43](https://news.ycombinator.com/item?id=44784495) - [Lessons from writing a Kubernetes Security book](https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open music foundation models for full-song generation](https://map-yue.github.io/)
+* [2025-08-04, 10:05:53](https://news.ycombinator.com/item?id=44783820) - [MCDB – full-stack web servers in Minecraft](https://github.com/NoahCagle/MCDB)
 * [2025-08-04, 08:53:15](https://news.ycombinator.com/item?id=44783368) - [Writing a storage engine for Postgres: An in-memory table access method (2023)](https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html)
 
 ## [Archives](archives/index.md)
