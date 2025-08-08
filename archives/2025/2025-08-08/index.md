@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 19:52:07](https://news.ycombinator.com/item?id=44840982) - [How The Black Cauldron became a notorious Disney flop](https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney)
 * [2025-08-08, 19:46:48](https://news.ycombinator.com/item?id=44840924) - [My ancestors fought in WWII. Hiroshima is plagued by shallow reading](https://www.washingtonpost.com/opinions/2025/08/08/world-war-ii-hiroshima-history-memories/)
 * [2025-08-08, 19:29:10](https://news.ycombinator.com/item?id=44840746) - [GPU-Rich Labs Have Won: What's Left for the Rest of Us Is Distillation](https://inference.net/blog/what-s-left-is-distillation)
 * [2025-08-08, 19:27:28](https://news.ycombinator.com/item?id=44840728) - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
