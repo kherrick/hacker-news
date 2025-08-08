@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 18:57:56](https://news.ycombinator.com/item?id=44840428) - [Job growth has slowed sharply; the question is why](https://stayathomemacro.substack.com/p/job-growth-has-slowed-sharply-the)
+* [2025-08-08, 18:46:11](https://news.ycombinator.com/item?id=44840307) - [json2dir: a JSON-to-directory converter, a fast alternative to home-manager](https://github.com/alurm/json2dir)
+* [2025-08-08, 18:43:32](https://news.ycombinator.com/item?id=44840281) - [M5 MacBook Pro No Longer Coming in 2025](https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/)
 * [2025-08-08, 18:19:05](https://news.ycombinator.com/item?id=44840013) - [I Want Everything Local – Building My Offline AI Workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
 * [2025-08-08, 18:04:26](https://news.ycombinator.com/item?id=44839842) - [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/)
 * [2025-08-08, 17:58:30](https://news.ycombinator.com/item?id=44839787) - [AI industry horrified to face largest copyright class action ever certified](https://arstechnica.com/tech-policy/2025/08/ai-industry-horrified-to-face-largest-copyright-class-action-ever-certified/)
