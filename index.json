@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-08-08, 19:46:48",
-      "https://news.ycombinator.com/item?id=44840924"
+      "2025-08-08, 19:52:07",
+      "https://news.ycombinator.com/item?id=44840982"
     ],
     [
-      "My ancestors fought in WWII. Hiroshima is plagued by shallow reading",
-      "https://www.washingtonpost.com/opinions/2025/08/08/world-war-ii-hiroshima-history-memories/"
+      "How The Black Cauldron became a notorious Disney flop",
+      "https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44840746"
     ],
     [
-      "GPU-Rich Labs Have Won: What's Left for the Rest of Us Is Distillation",
+      "GPU-rich labs have won: What's left for the rest of us is distillation",
       "https://inference.net/blog/what-s-left-is-distillation"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44840582"
     ],
     [
-      "Apollo 13 Commander Jim Lovell has passed away",
+      "Jim Lovell, Apollo 13 commander, has died",
       "https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "Open SWE: An open-source asynchronous coding agent",
       "https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 16:12:03",
-      "https://news.ycombinator.com/item?id=44838687"
-    ],
-    [
-      "HRT's Python fork: Leveraging PEP 690 for faster imports",
-      "https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Overengineering my homelab so I don't pay cloud providers",
       "https://ergaster.org/posts/2025/08/04-overegineering-homelab/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 22:14:02",
+      "https://news.ycombinator.com/item?id=44791923"
+    ],
+    [
+      "FLUX.1-Krea and the Rise of Opinionated Models",
+      "https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html"
     ]
   ],
   [
