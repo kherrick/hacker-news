@@ -51,6 +51,7 @@
 * [2025-08-04, 15:12:20](https://news.ycombinator.com/item?id=44786962) - [Part 1: A Deep Dive into Rust and C Memory Interoperability](https://notashes.me/blog/part-1-memory-management/)
 * [2025-08-04, 15:05:31](https://news.ycombinator.com/item?id=44786843) - [The Revolution of Token-Level Rewards](https://www.levroai.com/blog/revolution-of-token-rewards-08-01-2025)
 * [2025-08-04, 15:01:52](https://news.ycombinator.com/item?id=44786790) - [AI promised efficiency. Instead, it's making us work harder](https://afterburnout.co/p/ai-promised-to-make-us-more-efficient)
+* [2025-08-04, 14:46:28](https://news.ycombinator.com/item?id=44786553) - [Complex Iterators Are Slow](https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm)
 * [2025-08-04, 14:44:06](https://news.ycombinator.com/item?id=44786516) - [Mozilla Firefox's extension store being flooded with malware](https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/)
 * [2025-08-04, 14:43:57](https://news.ycombinator.com/item?id=44786514) - [Software needs an \"independent auditor\"](https://www.greptile.com/blog/auditor)
 * [2025-08-04, 14:40:07](https://news.ycombinator.com/item?id=44786462) - [Lidar-based GIS map of New Hampshire stone walls](https://nhgranit.maps.arcgis.com/apps/webappviewer/index.html?id=25930044fe2b4d8fb5cab3ec07565e83)

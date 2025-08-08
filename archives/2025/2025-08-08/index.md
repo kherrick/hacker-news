@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 12:25:12](https://news.ycombinator.com/item?id=44836196) - [Apple's Favoritism to Fastmail](https://xcancel.com/mxroute/status/1952890684660203830)
 * [2025-08-08, 11:41:04](https://news.ycombinator.com/item?id=44835879) - [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
+* [2025-08-08, 11:30:23](https://news.ycombinator.com/item?id=44835806) - [Amtrak NextGen Acela Debuts on August 28](https://media.amtrak.com/2025/08/amtrak-nextgen-acela-debuts-on-august-28/)
 * [2025-08-08, 11:15:11](https://news.ycombinator.com/item?id=44835709) - [I Don't Read Your Email Threads](https://loganmarek.com/i-dont-read-your-threads/)
 * [2025-08-08, 10:02:49](https://news.ycombinator.com/item?id=44835287) - [US to rewrite its past national climate reports](https://www.france24.com/en/live-news/20250807-us-to-rewrite-its-past-national-climate-reports)
 * [2025-08-08, 08:53:10](https://news.ycombinator.com/item?id=44834918) - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)

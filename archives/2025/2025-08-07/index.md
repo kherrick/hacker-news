@@ -40,6 +40,7 @@
 * [2025-08-07, 15:09:02](https://news.ycombinator.com/item?id=44825491) - [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
 * [2025-08-07, 14:56:05](https://news.ycombinator.com/item?id=44825326) - [Lithium Reverses Alzheimer's in Mice](https://hms.harvard.edu/news/could-lithium-explain-treat-alzheimers-disease)
 * [2025-08-07, 14:55:06](https://news.ycombinator.com/item?id=44825309) - [Open AI Announces $1.5M Bonus for Every Employee](https://medium.com/activated-thinker/breaking-open-ai-announces-1-5-million-bonus-for-every-employee-29d057b9d590)
+* [2025-08-07, 14:49:32](https://news.ycombinator.com/item?id=44825221) - [Show HN: Trayce – “Burp Suite for developers”](https://trayce.dev?resubmit=hn)
 * [2025-08-07, 14:46:14](https://news.ycombinator.com/item?id=44825175) - [More shell tricks: first class lists and jq](https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html)
 * [2025-08-07, 14:44:23](https://news.ycombinator.com/item?id=44825146) - [Jepsen: Capela dda5892](https://jepsen.io/analyses/capela-dda5892)
 * [2025-08-07, 14:33:39](https://news.ycombinator.com/item?id=44824981) - [Let's stop pretending that managers and executives care about productivity](https://www.baldurbjarnason.com/2025/disingenuous-discourse/)
