@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-08-07, 23:54:21",
+      "https://news.ycombinator.com/item?id=44831843"
+    ],
+    [
+      "Hubble catches sharpest image yet of 3I/ATLAS",
+      "https://www.skyatnightmagazine.com/news/hubble-3i-atlas-july-2025"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 23:34:52",
       "https://news.ycombinator.com/item?id=44831704"
     ],
     [
-      "Immich – Cursed Knowledge",
+      "Cursed Knowledge",
       "https://immich.app/cursed-knowledge/"
     ]
   ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-08-07, 17:40:51",
-      "https://news.ycombinator.com/item?id=44827692"
-    ],
-    [
-      "DNA tests are uncovering the true prevalence of incest (2024)",
-      "https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 17:12:21",
       "https://news.ycombinator.com/item?id=44827216"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-08-04, 21:11:25",
+      "https://news.ycombinator.com/item?id=44791391"
+    ],
+    [
+      "AST-Driven Python Testing",
+      "https://jazzberry.ai/blog/ast-driven-python-testing"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 13:25:54",
       "https://news.ycombinator.com/item?id=44785464"
     ],
@@ -287,16 +297,6 @@
     [
       "Open music foundation models for full-song generation",
       "https://map-yue.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 06:03:29",
-      "https://news.ycombinator.com/item?id=44782530"
-    ],
-    [
-      "Squashing my dumb bugs and why I log build IDs",
-      "https://rachelbythebay.com/w/2025/08/03/scope/"
     ]
   ]
 ]
