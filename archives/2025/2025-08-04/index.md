@@ -70,6 +70,7 @@
 * [2025-08-04, 12:19:51](https://news.ycombinator.com/item?id=44784809) - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 * [2025-08-04, 12:10:22](https://news.ycombinator.com/item?id=44784743) - [Drawafish.com Postmortem: Whoops](https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html)
 * [2025-08-04, 11:56:30](https://news.ycombinator.com/item?id=44784619) - [Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?](https://news.ycombinator.com/item?id=44784619)
+* [2025-08-04, 11:51:00](https://news.ycombinator.com/item?id=44784570) - [Virtual Linux Devices on ARM64](https://underjord.io/500-virtual-linux-devices-on-arm64.html)
 * [2025-08-04, 11:50:46](https://news.ycombinator.com/item?id=44784565) - [The US military’s on-base slot machines](https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/)
 * [2025-08-04, 11:44:49](https://news.ycombinator.com/item?id=44784498) - [Palantir Is Extending Its Reach Even Further into Government](https://www.wired.com/story/palantir-government-contracting-push/)
 * [2025-08-04, 11:44:43](https://news.ycombinator.com/item?id=44784495) - [Lessons from writing a Kubernetes Security book](https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037)
