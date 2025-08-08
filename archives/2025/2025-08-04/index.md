@@ -29,6 +29,7 @@
 * [2025-08-04, 18:48:04](https://news.ycombinator.com/item?id=44789903) - [Europe is breaking its reliance on American science](https://www.reuters.com/sustainability/climate-energy/europe-is-breaking-its-reliance-american-science-2025-08-01/)
 * [2025-08-04, 18:34:22](https://news.ycombinator.com/item?id=44789750) - [Hopfield Networks Is All You Need (2020)](https://arxiv.org/abs/2008.02217)
 * [2025-08-04, 18:27:26](https://news.ycombinator.com/item?id=44789668) - [Circadian Justice](https://eprints.lse.ac.uk/112431/)
+* [2025-08-04, 17:50:36](https://news.ycombinator.com/item?id=44789202) - [Telefon Hírmondó: Listen to news and music electronically, in 1893](https://en.wikipedia.org/wiki/Telefon_H%C3%ADrmond%C3%B3)
 * [2025-08-04, 17:50:05](https://news.ycombinator.com/item?id=44789192) - [Offline.kids – screen-free activities for kids](https://offline.kids/)
 * [2025-08-04, 17:39:59](https://news.ycombinator.com/item?id=44789068) - [Ask HN: What trick of the trade took you too long to learn?](https://news.ycombinator.com/item?id=44789068)
 * [2025-08-04, 17:34:19](https://news.ycombinator.com/item?id=44788997) - [SQLite offline sync for Android quick start](https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration)
