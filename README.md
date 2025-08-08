@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-08, 15:49:28](https://news.ycombinator.com/item?id=44838431) - [AWS's sudden removal of a 10-year account and all of its data: lessons learned](https://www.suramya.com/blog/2025/08/lessons-learnt-from-aws-deleting-a-10-year-account-and-all-that-data-without-warning/)
+* [2025-08-08, 16:16:20](https://news.ycombinator.com/item?id=44838733) - [We built an open-source asynchronous coding agent](https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/)
+* [2025-08-08, 16:12:03](https://news.ycombinator.com/item?id=44838687) - [HRT's Python Fork: Leveraging PEP 690 for Faster Imports](https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/)
 * [2025-08-08, 15:45:27](https://news.ycombinator.com/item?id=44838378) - [Tor: How a Military Project Became a Lifeline for Privacy](https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/)
 * [2025-08-08, 15:38:48](https://news.ycombinator.com/item?id=44838303) - [GPT-5 vs. Sonnet: Complex Agentic Coding](https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet)
 * [2025-08-08, 15:04:40](https://news.ycombinator.com/item?id=44837875) - [AI must RTFM: Why tech writers are becoming context curators](https://passo.uno/from-tech-writers-to-ai-context-curators/)
@@ -8,7 +9,6 @@
 * [2025-08-08, 14:46:53](https://news.ycombinator.com/item?id=44837646) - [Google's Genie is more impressive than GPT5](https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant)
 * [2025-08-08, 14:43:01](https://news.ycombinator.com/item?id=44837601) - [Open SWE by LangChain](https://swe.langchain.com/)
 * [2025-08-08, 14:29:54](https://news.ycombinator.com/item?id=44837434) - [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
-* [2025-08-08, 13:52:49](https://news.ycombinator.com/item?id=44836972) - [What Does Consulting Do?](https://www.nber.org/papers/w34072)
 * [2025-08-08, 13:26:01](https://news.ycombinator.com/item?id=44836675) - [The Rise of Ritual Features: Why Platforms Are Adding Daily Puzzle Games](https://productpickle.online/2025/07/20/ritual-features-the-quiet-strategy-behind-daily-puzzle-games-on-linkedin-and-beyond/)
 * [2025-08-08, 12:57:50](https://news.ycombinator.com/item?id=44836463) - [HorizonDB, a geocoding engine in Rust that replaces Elasticsearch](https://radar.com/blog/high-performance-geocoding-in-rust)
 * [2025-08-08, 12:54:23](https://news.ycombinator.com/item?id=44836433) - [Show HN: Synchrotron, a real-time DSP engine in pure Python](https://synchrotron.thatother.dev/)

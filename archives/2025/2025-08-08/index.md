@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 16:16:20](https://news.ycombinator.com/item?id=44838733) - [We built an open-source asynchronous coding agent](https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/)
+* [2025-08-08, 16:12:03](https://news.ycombinator.com/item?id=44838687) - [HRT's Python Fork: Leveraging PEP 690 for Faster Imports](https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/)
 * [2025-08-08, 15:49:28](https://news.ycombinator.com/item?id=44838431) - [AWS's sudden removal of a 10-year account and all of its data: lessons learned](https://www.suramya.com/blog/2025/08/lessons-learnt-from-aws-deleting-a-10-year-account-and-all-that-data-without-warning/)
 * [2025-08-08, 15:45:27](https://news.ycombinator.com/item?id=44838378) - [Tor: How a Military Project Became a Lifeline for Privacy](https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/)
 * [2025-08-08, 15:38:48](https://news.ycombinator.com/item?id=44838303) - [GPT-5 vs. Sonnet: Complex Agentic Coding](https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet)
