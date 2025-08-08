@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 13:26:01](https://news.ycombinator.com/item?id=44836675) - [The Rise of Ritual Features: Why Platforms Are Adding Daily Puzzle Games](https://productpickle.online/2025/07/20/ritual-features-the-quiet-strategy-behind-daily-puzzle-games-on-linkedin-and-beyond/)
 * [2025-08-08, 12:57:50](https://news.ycombinator.com/item?id=44836463) - [HorizonDB, a geocoding engine in Rust that replaces Elasticsearch](https://radar.com/blog/high-performance-geocoding-in-rust)
+* [2025-08-08, 12:54:23](https://news.ycombinator.com/item?id=44836433) - [Show HN: Synchrotron, a real-time DSP engine in pure Python](https://synchrotron.thatother.dev/)
 * [2025-08-08, 12:52:27](https://news.ycombinator.com/item?id=44836414) - [The BLS Can't Be Replaced by the Private Sector](https://www.bloomberg.com/opinion/articles/2025-08-08/the-bls-can-t-be-replaced-by-the-private-sector)
 * [2025-08-08, 12:27:56](https://news.ycombinator.com/item?id=44836219) - [Food, housing, & health care costs are a source of major stress for many people](https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/)
 * [2025-08-08, 12:25:12](https://news.ycombinator.com/item?id=44836196) - [Apple's Favoritism to Fastmail](https://xcancel.com/mxroute/status/1952890684660203830)
