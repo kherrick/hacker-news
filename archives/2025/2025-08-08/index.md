@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 07:23:35](https://news.ycombinator.com/item?id=44834442) - [GPT-5 thinks that Windsurf's original name was OpenAI](https://chatgpt.com/share/6895a143-b770-8002-8826-823e45f04c79)
 * [2025-08-08, 06:00:22](https://news.ycombinator.com/item?id=44833929) - [Benchmarking GPT-5 on 400 Real-World Code Reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
 * [2025-08-08, 05:45:42](https://news.ycombinator.com/item?id=44833834) - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
 * [2025-08-08, 03:09:05](https://news.ycombinator.com/item?id=44832990) - [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
