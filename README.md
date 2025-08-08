@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-07, 23:34:52](https://news.ycombinator.com/item?id=44831704) - [Immich – Cursed Knowledge](https://immich.app/cursed-knowledge/)
+* [2025-08-07, 23:54:21](https://news.ycombinator.com/item?id=44831843) - [Hubble catches sharpest image yet of 3I/ATLAS](https://www.skyatnightmagazine.com/news/hubble-3i-atlas-july-2025)
+* [2025-08-07, 23:34:52](https://news.ycombinator.com/item?id=44831704) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 * [2025-08-07, 21:36:45](https://news.ycombinator.com/item?id=44830684) - [Vibechart](https://www.vibechart.net/)
 * [2025-08-07, 21:11:20](https://news.ycombinator.com/item?id=44830418) - [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
 * [2025-08-07, 21:10:42](https://news.ycombinator.com/item?id=44830408) - [Flipper Zero DarkWeb Firmware Bypasses Rolling Code Security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
@@ -13,7 +14,6 @@
 * [2025-08-07, 17:51:59](https://news.ycombinator.com/item?id=44827898) - [Lightweight LSAT](https://lightweightlsat.com/)
 * [2025-08-07, 17:49:49](https://news.ycombinator.com/item?id=44827862) - [Benchmark Framework Desktop Mainboard and 4-node cluster](https://github.com/geerlingguy/ollama-benchmark/issues/21)
 * [2025-08-07, 17:46:18](https://news.ycombinator.com/item?id=44827794) - [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/)
-* [2025-08-07, 17:40:51](https://news.ycombinator.com/item?id=44827692) - [DNA tests are uncovering the true prevalence of incest (2024)](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/)
 * [2025-08-07, 17:12:21](https://news.ycombinator.com/item?id=44827216) - [Show HN: Browser AI agent platform designed for reliability](https://github.com/nottelabs/notte)
 * [2025-08-07, 17:06:39](https://news.ycombinator.com/item?id=44827101) - [GPT-5 for Developers](https://openai.com/index/introducing-gpt-5-for-developers)
 * [2025-08-07, 17:00:58](https://news.ycombinator.com/item?id=44827003) - [Foundry (YC F24) is hiring staff-level product engineers](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer)
@@ -26,10 +26,10 @@
 * [2025-08-07, 10:12:54](https://news.ycombinator.com/item?id=44822665) - [How AI conquered the US economy: A visual FAQ](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)
 * [2025-08-07, 09:28:46](https://news.ycombinator.com/item?id=44822389) - [Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
 * [2025-08-07, 00:20:53](https://news.ycombinator.com/item?id=44819352) - [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
+* [2025-08-04, 21:11:25](https://news.ycombinator.com/item?id=44791391) - [AST-Driven Python Testing](https://jazzberry.ai/blog/ast-driven-python-testing)
 * [2025-08-04, 13:25:54](https://news.ycombinator.com/item?id=44785464) - [Touch Mapper – open-source 3D printed tactile maps for the visually impaired](https://touch-mapper.org)
 * [2025-08-04, 11:07:10](https://news.ycombinator.com/item?id=44784215) - [The Q Programming Language](https://git.urbach.dev/cli/q)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open music foundation models for full-song generation](https://map-yue.github.io/)
-* [2025-08-04, 06:03:29](https://news.ycombinator.com/item?id=44782530) - [Squashing my dumb bugs and why I log build IDs](https://rachelbythebay.com/w/2025/08/03/scope/)
 
 ## [Archives](archives/index.md)
 

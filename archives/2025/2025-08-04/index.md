@@ -11,6 +11,7 @@
 * [2025-08-04, 22:18:58](https://news.ycombinator.com/item?id=44791969) - [An Investigation into the Firm at the Heart of the Democratic Spam Machine](https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation)
 * [2025-08-04, 21:34:29](https://news.ycombinator.com/item?id=44791622) - [What Does One Billion Dollars Look Like?](https://whatdoesonebilliondollarslooklike.website/)
 * [2025-08-04, 21:26:23](https://news.ycombinator.com/item?id=44791554) - [Is It FOSS?](https://isitreallyfoss.com/)
+* [2025-08-04, 21:11:25](https://news.ycombinator.com/item?id=44791391) - [AST-Driven Python Testing](https://jazzberry.ai/blog/ast-driven-python-testing)
 * [2025-08-04, 21:07:50](https://news.ycombinator.com/item?id=44791356) - [Show HN: I made a competitive debating game(like chess.com but for debating)](https://crs-prod-rankeddebate-l4dnggfaca-nn.a.run.app/)
 * [2025-08-04, 20:44:58](https://news.ycombinator.com/item?id=44791143) - [AWS European Sovereign Cloud to be operated by EU citizens](https://www.aboutamazon.eu/news/aws/aws-european-sovereign-cloud-to-be-operated-by-eu-citizens)
 * [2025-08-04, 20:23:20](https://news.ycombinator.com/item?id=44790944) - [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 23:54:21](https://news.ycombinator.com/item?id=44831843) - [Hubble catches sharpest image yet of 3I/ATLAS](https://www.skyatnightmagazine.com/news/hubble-3i-atlas-july-2025)
 * [2025-08-07, 23:34:52](https://news.ycombinator.com/item?id=44831704) - [Immich – Cursed Knowledge](https://immich.app/cursed-knowledge/)
 * [2025-08-07, 21:36:45](https://news.ycombinator.com/item?id=44830684) - [Vibechart](https://www.vibechart.net/)
 * [2025-08-07, 21:11:20](https://news.ycombinator.com/item?id=44830418) - [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
