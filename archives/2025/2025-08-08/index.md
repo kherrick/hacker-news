@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 20:28:40](https://news.ycombinator.com/item?id=44841371) - [ChatGPT Is Still a Bullshit Machine](https://gizmodo.com/chatgpt-is-still-a-bullshit-machine-2000640488)
+* [2025-08-08, 20:22:56](https://news.ycombinator.com/item?id=44841308) - [Study finds flavor bans cut youth vaping but slow decline in cigarette smoking](https://medicalxpress.com/news/2025-07-flavor-youth-vaping-decline-cigarette.html)
 * [2025-08-08, 19:52:07](https://news.ycombinator.com/item?id=44840982) - [How The Black Cauldron became a notorious Disney flop](https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney)
 * [2025-08-08, 19:46:48](https://news.ycombinator.com/item?id=44840924) - [My ancestors fought in WWII. Hiroshima is plagued by shallow reading](https://www.washingtonpost.com/opinions/2025/08/08/world-war-ii-hiroshima-history-memories/)
 * [2025-08-08, 19:29:10](https://news.ycombinator.com/item?id=44840746) - [GPU-Rich Labs Have Won: What's Left for the Rest of Us Is Distillation](https://inference.net/blog/what-s-left-is-distillation)
 * [2025-08-08, 19:27:28](https://news.ycombinator.com/item?id=44840728) - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
 * [2025-08-08, 19:24:07](https://news.ycombinator.com/item?id=44840693) - [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
 * [2025-08-08, 19:22:12](https://news.ycombinator.com/item?id=44840662) - [Gold futures jump to record high after US tariffs on cast bars – Gold](https://www.theguardian.com/business/2025/aug/08/gold-futures-soar-to-record-high-after-reports-of-us-tariffs-on-swiss-bars)
+* [2025-08-08, 19:20:51](https://news.ycombinator.com/item?id=44840654) - [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
 * [2025-08-08, 19:12:18](https://news.ycombinator.com/item?id=44840582) - [Apollo 13 Commander Jim Lovell has passed away](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
 * [2025-08-08, 18:57:56](https://news.ycombinator.com/item?id=44840428) - [Job growth has slowed sharply; the question is why](https://stayathomemacro.substack.com/p/job-growth-has-slowed-sharply-the)
 * [2025-08-08, 18:49:45](https://news.ycombinator.com/item?id=44840335) - [ChatGPT users hate GPT-5's overworked secretary energy, miss their GPT-4o buddy](https://arstechnica.com/ai/2025/08/chatgpt-users-outraged-as-gpt-5-replaces-the-models-they-love/)
