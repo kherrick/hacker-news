@@ -77,6 +77,7 @@
 * [2025-08-06, 10:41:43](https://news.ycombinator.com/item?id=44810284) - [Show HN: HMPL – Small Template Language for Rendering UI from Server to Client](https://github.com/hmpl-language/hmpl)
 * [2025-08-06, 10:41:01](https://news.ycombinator.com/item?id=44810281) - [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
 * [2025-08-06, 10:07:40](https://news.ycombinator.com/item?id=44810061) - [Japan: Apple Must Lift Browser Engine Ban by December](https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/)
+* [2025-08-06, 10:06:45](https://news.ycombinator.com/item?id=44810057) - [Which Colors Are Primary?](https://jamesgurney.substack.com/p/which-colors-are-primary)
 * [2025-08-06, 10:06:03](https://news.ycombinator.com/item?id=44810047) - [Installing a Mini-Split AC in a Brooklyn Apartment](https://probablydance.com/2025/08/04/installing-a-mini-split-ac-in-a-brooklyn-apartment/)
 * [2025-08-06, 08:36:28](https://news.ycombinator.com/item?id=44809387) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
 * [2025-08-06, 07:25:43](https://news.ycombinator.com/item?id=44808794) - [Anthropic rejects the main developer of the library they use](https://grell.dev/blog/ai_rejection)

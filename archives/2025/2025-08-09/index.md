@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 18:09:56](https://news.ycombinator.com/item?id=44848698) - [Residents cheer as Tucson rejects data center campus](https://www.datacenterdynamics.com/en/news/residents-cheer-as-tucson-rejects-amazons-massive-project-blue-data-center-campus-in-arizona/)
 * [2025-08-09, 17:17:07](https://news.ycombinator.com/item?id=44848293) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 17:13:14](https://news.ycombinator.com/item?id=44848259) - [Don Knuth on ChatGPT(07 April 2023)](https://cs.stanford.edu/~knuth/chatGPT20.txt)
+* [2025-08-09, 16:52:02](https://news.ycombinator.com/item?id=44848058) - [Ask HN: What Toolchains Are People Using for Desktop App Development in 2025?](https://news.ycombinator.com/item?id=44848058)
 * [2025-08-09, 16:44:01](https://news.ycombinator.com/item?id=44847971) - [Accessibility and the Agentic Web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
 * [2025-08-09, 16:17:16](https://news.ycombinator.com/item?id=44847741) - [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
 * [2025-08-09, 15:52:22](https://news.ycombinator.com/item?id=44847481) - [Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union](https://laurivahtre.ee/empire-of-the-absurd/)
