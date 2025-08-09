@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-09, 21:59:43](https://news.ycombinator.com/item?id=44850681) - [Consent and Compromise: How We Got Access to 22 Internal Microsoft Services](https://research.eye.security/consent-and-compromise/)
+* [2025-08-09, 21:59:43](https://news.ycombinator.com/item?id=44850681) - [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
 * [2025-08-09, 20:48:00](https://news.ycombinator.com/item?id=44850063) - [\"The Hollow Men\" at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
 * [2025-08-09, 18:59:37](https://news.ycombinator.com/item?id=44849129) - [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
 * [2025-08-09, 18:18:45](https://news.ycombinator.com/item?id=44848782) - [Debian 13 \"Trixie\"](https://www.debian.org/News/2025/20250809)
@@ -20,7 +20,7 @@
 * [2025-08-09, 11:58:52](https://news.ycombinator.com/item?id=44845839) - [Ratfactor's illustrated guide to folding fitted sheets](https://ratfactor.com/cards/fitted-sheets)
 * [2025-08-09, 09:54:31](https://news.ycombinator.com/item?id=44845273) - [Did California's fast food minimum wage reduce employment?](https://www.nber.org/papers/w34033)
 * [2025-08-09, 09:49:11](https://news.ycombinator.com/item?id=44845251) - [An engineer's perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
-* [2025-08-08, 02:51:33](https://news.ycombinator.com/item?id=44832908) - [GPT-5: \"How many times does the letter b appear in blueberry?\"](https://kieranhealy.org/blog/archives/2025/08/07/blueberry-hill/)
+* [2025-08-08, 02:51:33](https://news.ycombinator.com/item?id=44832908) - [GPT-5: \"How many times does the letter b appear in blueberry?\"](https://bsky.app/profile/kjhealy.co/post/3lvtxbtexg226)
 * [2025-08-07, 13:16:52](https://news.ycombinator.com/item?id=44824088) - [People returned to live in Pompeii's ruins, archaeologists say](https://www.bbc.com/news/articles/c62wx23y2v1o)
 * [2025-08-06, 17:40:40](https://news.ycombinator.com/item?id=44815164) - [Testing Bitchat at the music festival](https://primal.net/saunter/testing-bitchat-at-the-music-festival)
 * [2025-08-06, 15:17:22](https://news.ycombinator.com/item?id=44813175) - [A Simple CPU on the Game of Life (2021)](https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html)
