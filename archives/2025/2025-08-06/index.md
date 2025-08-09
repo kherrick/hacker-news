@@ -30,6 +30,7 @@
 * [2025-08-06, 18:23:19](https://news.ycombinator.com/item?id=44815718) - [Vibe Coding the MIT Course Catalog](https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/)
 * [2025-08-06, 18:21:28](https://news.ycombinator.com/item?id=44815702) - [A Fast, Growable Array with Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
 * [2025-08-06, 17:57:57](https://news.ycombinator.com/item?id=44815405) - [Gleam v1.12.0 Released](https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md)
+* [2025-08-06, 17:40:40](https://news.ycombinator.com/item?id=44815164) - [Testing Bitchat at the music festival](https://primal.net/saunter/testing-bitchat-at-the-music-festival)
 * [2025-08-06, 17:38:43](https://news.ycombinator.com/item?id=44815136) - [Pirating Books in the 1600s](https://www.swanngalleries.com/news/books/2024/04/a-brief-publishing-history-of-don-quixote/)
 * [2025-08-06, 17:38:09](https://news.ycombinator.com/item?id=44815125) - [Why blocking LLMs from your website is dumb](https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d)
 * [2025-08-06, 17:32:42](https://news.ycombinator.com/item?id=44815046) - [Google says AI in Search is driving more queries and higher quality clicks](https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/)
