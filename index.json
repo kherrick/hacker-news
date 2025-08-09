@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-09, 20:23:25",
-      "https://news.ycombinator.com/item?id=44849845"
-    ],
-    [
-      "Jen Pawol becomes first woman to umpire a Major League Baseball game",
-      "https://apnews.com/article/pawol-female-umpire-marlins-braves-0ae34533ea49f1e400a1c39e8be6f30e"
-    ]
-  ],
-  [
-    [
       "2025-08-09, 19:16:27",
       "https://news.ycombinator.com/item?id=44849259"
     ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=44846922"
     ],
     [
-      "Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup",
+      "My Lethal Trifecta talk at the Bay Area AI Security Meetup",
       "https://simonwillison.net/2025/Aug/9/bay-area-ai/"
     ]
   ],
@@ -137,26 +127,6 @@
     [
       "MCP overlooks hard-won lessons from distributed systems",
       "https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b"
-    ]
-  ],
-  [
-    [
-      "2025-08-09, 14:30:49",
-      "https://news.ycombinator.com/item?id=44846758"
-    ],
-    [
-      "Mexico to US livestock trade halted due to screwworm spread",
-      "https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due"
-    ]
-  ],
-  [
-    [
-      "2025-08-09, 13:32:02",
-      "https://news.ycombinator.com/item?id=44846323"
-    ],
-    [
-      "The dead need right to delete their data so they can't be AI-ified, lawyer says",
-      "https://www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/"
     ]
   ],
   [
@@ -221,22 +191,12 @@
   ],
   [
     [
-      "2025-08-09, 06:06:56",
-      "https://news.ycombinator.com/item?id=44844394"
+      "2025-08-08, 20:19:10",
+      "https://news.ycombinator.com/item?id=44841262"
     ],
     [
-      "Sandstorm- self-hostable web productivity suite",
-      "https://sandstorm.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 18:19:05",
-      "https://news.ycombinator.com/item?id=44840013"
-    ],
-    [
-      "I want everything local – Building my offline AI workspace",
-      "https://instavm.io/blog/building-my-offline-ai-workspace"
+      "The Framework Desktop is a beast",
+      "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff"
     ]
   ],
   [
@@ -251,22 +211,62 @@
   ],
   [
     [
+      "2025-08-06, 15:17:22",
+      "https://news.ycombinator.com/item?id=44813175"
+    ],
+    [
+      "A Simple CPU on the Game of Life (2021)",
+      "https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 12:30:50",
+      "https://news.ycombinator.com/item?id=44811098"
+    ],
+    [
+      "Gateway pattern for external service calls",
+      "http://rednafi.com/go/gateway_pattern/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 12:14:47",
+      "https://news.ycombinator.com/item?id=44810945"
+    ],
+    [
+      "Who got arrested in the raid on the XSS crime forum?",
+      "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 12:02:14",
+      "https://news.ycombinator.com/item?id=44810847"
+    ],
+    [
+      "Caligra Workbench",
+      "https://caligra.com/workbench/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 10:39:01",
+      "https://news.ycombinator.com/item?id=44810260"
+    ],
+    [
+      "The Magic of Herding",
+      "https://nautil.us/the-magic-of-herding-1229248/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 04:20:22",
       "https://news.ycombinator.com/item?id=44807603"
     ],
     [
       "Isle FPGA Computer: creating a simple, open, modern computer",
       "https://projectf.io/isle/fpga-computer.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 00:53:44",
-      "https://news.ycombinator.com/item?id=44806422"
-    ],
-    [
-      "Car has more than 1.2M km on it – and it's still going strong",
-      "https://www.cbc.ca/news/canada/nova-scotia/1985-toyota-tercel-high-mileage-1.7597168"
     ]
   ],
   [
