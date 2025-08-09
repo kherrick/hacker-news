@@ -6,6 +6,7 @@
 
 * [2025-08-05, 22:46:47](https://news.ycombinator.com/item?id=44805436) - [Quantum machine learning via vector embeddings](https://arxiv.org/abs/2508.00024)
 * [2025-08-05, 22:29:49](https://news.ycombinator.com/item?id=44805261) - [HHS Winds Down mRNA Vaccine Development Under Barda](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)
+* [2025-08-05, 21:43:10](https://news.ycombinator.com/item?id=44804768) - [The mystery of Alice in Wonderland syndrome](https://www.bbc.com/future/article/20230313-the-mystery-of-alice-in-wonderland-syndrome)
 * [2025-08-05, 21:42:29](https://news.ycombinator.com/item?id=44804761) - [OpenAI's new open weight (Apache 2) models are good](https://simonwillison.net/2025/Aug/5/gpt-oss/)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
 * [2025-08-05, 21:04:39](https://news.ycombinator.com/item?id=44804269) - [Trouble with Elections: Everything We Thought We Knew About Democracy Is Wrong](https://democracycreative.substack.com/p/the-trouble-with-elections)

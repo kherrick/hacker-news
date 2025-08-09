@@ -23,11 +23,11 @@
 * [2025-08-09, 09:54:13](https://news.ycombinator.com/item?id=44845272) - [Jan – Ollama alternative with local UI](https://github.com/menloresearch/jan)
 * [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
 * [2025-08-09, 06:06:56](https://news.ycombinator.com/item?id=44844394) - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
-* [2025-08-09, 05:34:09](https://news.ycombinator.com/item?id=44844257) - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
 * [2025-08-08, 18:19:05](https://news.ycombinator.com/item?id=44840013) - [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
 * [2025-08-06, 17:40:40](https://news.ycombinator.com/item?id=44815164) - [Testing Bitchat at the music festival](https://primal.net/saunter/testing-bitchat-at-the-music-festival)
 * [2025-08-06, 10:06:45](https://news.ycombinator.com/item?id=44810057) - [Which Colors Are Primary?](https://jamesgurney.substack.com/p/which-colors-are-primary)
 * [2025-08-06, 00:53:44](https://news.ycombinator.com/item?id=44806422) - [Car has more than 1.2M km on it – and it's still going strong](https://www.cbc.ca/news/canada/nova-scotia/1985-toyota-tercel-high-mileage-1.7597168)
+* [2025-08-05, 21:43:10](https://news.ycombinator.com/item?id=44804768) - [The mystery of Alice in Wonderland syndrome](https://www.bbc.com/future/article/20230313-the-mystery-of-alice-in-wonderland-syndrome)
 * [2025-08-05, 19:00:51](https://news.ycombinator.com/item?id=44802657) - [Cordoomceps – replacing an Amiga's brain with Doom](https://mjg59.dreamwidth.org/73001.html)
 * [2025-08-05, 16:18:53](https://news.ycombinator.com/item?id=44800048) - [Quickshell – building blocks for your desktop](https://quickshell.org/)
 
