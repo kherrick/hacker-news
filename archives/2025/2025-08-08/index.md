@@ -12,6 +12,7 @@
 * [2025-08-08, 20:40:39](https://news.ycombinator.com/item?id=44841479) - [Must democracy \"deliver the goods\" to beat autocracy?](https://democracyorbust.bearblog.dev/must-democracy-deliver-the-goods/)
 * [2025-08-08, 20:28:40](https://news.ycombinator.com/item?id=44841371) - [ChatGPT Is Still a Bullshit Machine](https://gizmodo.com/chatgpt-is-still-a-bullshit-machine-2000640488)
 * [2025-08-08, 20:22:56](https://news.ycombinator.com/item?id=44841308) - [Study finds flavor bans cut youth vaping but slow decline in cigarette smoking](https://medicalxpress.com/news/2025-07-flavor-youth-vaping-decline-cigarette.html)
+* [2025-08-08, 20:19:10](https://news.ycombinator.com/item?id=44841262) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
 * [2025-08-08, 19:53:47](https://news.ycombinator.com/item?id=44840993) - [GPT-5 Under Fire: Red Teaming OpenAI's Model Reveals Surprising Weaknesses](https://splx.ai/blog/gpt-5-red-teaming-results)
 * [2025-08-08, 19:52:07](https://news.ycombinator.com/item?id=44840982) - [How The Black Cauldron became a notorious Disney flop](https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney)
 * [2025-08-08, 19:46:48](https://news.ycombinator.com/item?id=44840924) - [My ancestors fought in WWII. Hiroshima is plagued by shallow reading](https://www.washingtonpost.com/opinions/2025/08/08/world-war-ii-hiroshima-history-memories/)
