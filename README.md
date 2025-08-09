@@ -7,10 +7,9 @@
 * [2025-08-09, 13:25:16](https://news.ycombinator.com/item?id=44846281) - [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)
 * [2025-08-09, 13:14:57](https://news.ycombinator.com/item?id=44846226) - [Intermittent fasting strategies and their effects on body weight](https://www.bmj.com/content/389/bmj-2024-082007)
 * [2025-08-09, 13:01:31](https://news.ycombinator.com/item?id=44846164) - [Long-term exposure to outdoor air pollution linked to increased risk of dementia](https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia)
-* [2025-08-09, 12:55:52](https://news.ycombinator.com/item?id=44846140) - [AGI is not coming [video]](https://www.youtube.com/watch?v=hkAH7-u7t5k)
 * [2025-08-09, 12:25:24](https://news.ycombinator.com/item?id=44845975) - [Private Welsh island with 19th century fort goes on the market](https://www.cnn.com/2025/08/08/business/thorne-island-fort-wales-scli-intl)
+* [2025-08-09, 12:25:19](https://news.ycombinator.com/item?id=44845973) - [Yet Another LLM Rant](https://overengineer.dev/txt/2025-08-09-another-llm-rant/)
 * [2025-08-09, 12:20:16](https://news.ycombinator.com/item?id=44845953) - [A subtle bug with Go's errgroup](https://gaultier.github.io/blog/subtle_bug_with_go_errgroup.html)
-* [2025-08-09, 11:58:52](https://news.ycombinator.com/item?id=44845839) - [Ratfactor's Illustrated Guide to Folding Fitted Sheets](https://ratfactor.com/cards/fitted-sheets)
 * [2025-08-09, 09:54:13](https://news.ycombinator.com/item?id=44845272) - [Jan – Ollama alternative with local UI](https://github.com/menloresearch/jan)
 * [2025-08-09, 08:50:33](https://news.ycombinator.com/item?id=44845017) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
 * [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
@@ -30,6 +29,7 @@
 * [2025-08-05, 17:39:09](https://news.ycombinator.com/item?id=44801392) - [Representing Python notebooks as dataflow graphs](https://marimo.io/blog/dataflow)
 * [2025-08-05, 16:18:53](https://news.ycombinator.com/item?id=44800048) - [Quickshell – building blocks for your desktop](https://quickshell.org/)
 * [2025-08-05, 16:11:52](https://news.ycombinator.com/item?id=44799929) - [A SPARC makes a little fire](https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html)
+* [2025-08-05, 14:43:12](https://news.ycombinator.com/item?id=44798624) - [Hacking Diffusion into Qwen3 for the Arc Challenge](https://www.matthewnewton.com/blog/arc-challenge-diffusion)
 
 ## [Archives](archives/index.md)
 

@@ -16,6 +16,7 @@
 * [2025-08-09, 12:55:52](https://news.ycombinator.com/item?id=44846140) - [AGI is not coming [video]](https://www.youtube.com/watch?v=hkAH7-u7t5k)
 * [2025-08-09, 12:54:09](https://news.ycombinator.com/item?id=44846130) - [Stanford to continue legacy admissions and withdraw from Cal Grants](https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/)
 * [2025-08-09, 12:25:24](https://news.ycombinator.com/item?id=44845975) - [Private Welsh island with 19th century fort goes on the market](https://www.cnn.com/2025/08/08/business/thorne-island-fort-wales-scli-intl)
+* [2025-08-09, 12:25:19](https://news.ycombinator.com/item?id=44845973) - [Yet Another LLM Rant](https://overengineer.dev/txt/2025-08-09-another-llm-rant/)
 * [2025-08-09, 12:20:16](https://news.ycombinator.com/item?id=44845953) - [A subtle bug with Go's errgroup](https://gaultier.github.io/blog/subtle_bug_with_go_errgroup.html)
 * [2025-08-09, 11:58:52](https://news.ycombinator.com/item?id=44845839) - [Ratfactor's Illustrated Guide to Folding Fitted Sheets](https://ratfactor.com/cards/fitted-sheets)
 * [2025-08-09, 09:54:31](https://news.ycombinator.com/item?id=44845273) - [Did California's Fast Food Minimum Wage Reduce Employment?](https://www.nber.org/papers/w34033)
