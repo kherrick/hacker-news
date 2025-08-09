@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-09, 08:50:33](https://news.ycombinator.com/item?id=44845017) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
 * [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
 * [2025-08-09, 06:06:56](https://news.ycombinator.com/item?id=44844394) - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
 * [2025-08-09, 05:34:09](https://news.ycombinator.com/item?id=44844257) - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
@@ -24,7 +25,6 @@
 * [2025-08-06, 00:53:44](https://news.ycombinator.com/item?id=44806422) - [Car has more than 1.2M km on it – and it's still going strong](https://www.cbc.ca/news/canada/nova-scotia/1985-toyota-tercel-high-mileage-1.7597168)
 * [2025-08-05, 17:39:09](https://news.ycombinator.com/item?id=44801392) - [Representing Python notebooks as dataflow graphs](https://marimo.io/blog/dataflow)
 * [2025-08-05, 17:37:24](https://news.ycombinator.com/item?id=44801363) - [Debugging a mysterious HTTP streaming issue](https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything)
-* [2025-08-05, 16:36:07](https://news.ycombinator.com/item?id=44800336) - [The Day Novartis Chose Discovery](https://www.alexkesin.com/p/the-day-novartis-chose-discovery)
 * [2025-08-05, 16:11:52](https://news.ycombinator.com/item?id=44799929) - [A SPARC makes a little fire](https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html)
 * [2025-08-05, 14:43:12](https://news.ycombinator.com/item?id=44798624) - [Hacking Diffusion into Qwen3 for the Arc Challenge](https://www.matthewnewton.com/blog/arc-challenge-diffusion)
 * [2025-08-05, 13:10:17](https://news.ycombinator.com/item?id=44797566) - [Unmasking the Sea Star Killer](https://www.biographic.com/unmasking-the-sea-star-killer/)
