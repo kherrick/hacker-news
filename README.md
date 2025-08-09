@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-09, 09:49:11](https://news.ycombinator.com/item?id=44845251) - [An Engineer's Perspective on Hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
 * [2025-08-09, 09:13:48](https://news.ycombinator.com/item?id=44845112) - [I prefer human-readable file formats](https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
 * [2025-08-09, 08:50:33](https://news.ycombinator.com/item?id=44845017) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
 * [2025-08-09, 08:18:58](https://news.ycombinator.com/item?id=44844897) - [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
@@ -15,6 +14,7 @@
 * [2025-08-08, 19:20:51](https://news.ycombinator.com/item?id=44840654) - [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
 * [2025-08-08, 19:12:18](https://news.ycombinator.com/item?id=44840582) - [Jim Lovell, Apollo 13 commander, has died](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
 * [2025-08-08, 18:19:05](https://news.ycombinator.com/item?id=44840013) - [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
+* [2025-08-08, 18:04:26](https://news.ycombinator.com/item?id=44839842) - [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/)
 * [2025-08-08, 15:45:27](https://news.ycombinator.com/item?id=44838378) - [Tor: How a military project became a lifeline for privacy](https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/)
 * [2025-08-08, 14:29:54](https://news.ycombinator.com/item?id=44837434) - [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
 * [2025-08-08, 13:45:57](https://news.ycombinator.com/item?id=44836879) - [Getting good results from Claude Code](https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/)
