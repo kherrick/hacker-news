@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-09, 01:37:30",
+      "https://news.ycombinator.com/item?id=44843369"
+    ],
+    [
+      "Dial-up Internet to be discontinued",
+      "https://help.aol.com/articles/dial-up-internet-to-be-discontinued"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 00:58:21",
+      "https://news.ycombinator.com/item?id=44843186"
+    ],
+    [
+      "What makes a SuperAger?",
+      "https://news.northwestern.edu/stories/2025/08/what-makes-a-superager/"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 23:20:56",
       "https://news.ycombinator.com/item?id=44842700"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2025-08-08, 19:29:10",
-      "https://news.ycombinator.com/item?id=44840746"
+      "2025-08-08, 23:11:24",
+      "https://news.ycombinator.com/item?id=44842633"
     ],
     [
-      "GPU-rich labs have won: What's left for the rest of us is distillation",
-      "https://inference.net/blog/what-s-left-is-distillation"
+      "GPT 5 vs. Opus 4.1 for Vibe-Coded Apps",
+      "https://www.instantdb.com/essays/gpt_5_vs_opus_4"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "The surprise deprecation of GPT-4o for ChatGPT consumers",
       "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 17:45:26",
-      "https://news.ycombinator.com/item?id=44839681"
-    ],
-    [
-      "Someone keeps stealing, flying, fixing and returning this man's 1958 Cessna",
-      "https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2025-08-06, 03:51:22",
-      "https://news.ycombinator.com/item?id=44807429"
+      "2025-08-05, 16:36:07",
+      "https://news.ycombinator.com/item?id=44800336"
     ],
     [
-      "Backpropagating through a maze with candle and WASM",
-      "https://yberreby.com/discrete-maze-backprop-candle-wasm/"
+      "The Day Novartis Chose Discovery",
+      "https://www.alexkesin.com/p/the-day-novartis-chose-discovery"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
+      "2025-08-05, 16:05:24",
+      "https://news.ycombinator.com/item?id=44799823"
+    ],
+    [
+      "Why you shouldn't use Redis as a rate limiter",
+      "https://medium.com/ratelimitly/why-you-shouldnt-use-redis-as-a-rate-limiter-part-1-of-2-3d4261f5b38a"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 15:58:02",
       "https://news.ycombinator.com/item?id=44799727"
     ],
     [
       "Why building a self-hosted SaaS is harder",
       "https://www.getlago.com/blog/self-hosted-saas"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 14:51:30",
-      "https://news.ycombinator.com/item?id=44798766"
-    ],
-    [
-      "Motif-Index of Folk-Literature (1958) [pdf]",
-      "https://ia600301.us.archive.org/18/items/Thompson2016MotifIndex/Thompson_2016_Motif-Index.pdf"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Unmasking the Sea Star Killer",
       "https://www.biographic.com/unmasking-the-sea-star-killer/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 23:14:15",
-      "https://news.ycombinator.com/item?id=44792419"
-    ],
-    [
-      "Overengineering my homelab so I don't pay cloud providers",
-      "https://ergaster.org/posts/2025/08/04-overegineering-homelab/"
     ]
   ],
   [
