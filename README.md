@@ -8,7 +8,7 @@
 * [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
 * [2025-08-09, 06:06:56](https://news.ycombinator.com/item?id=44844394) - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
 * [2025-08-09, 05:34:09](https://news.ycombinator.com/item?id=44844257) - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
-* [2025-08-09, 03:24:16](https://news.ycombinator.com/item?id=44843801) - [What the windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called)
+* [2025-08-09, 03:24:16](https://news.ycombinator.com/item?id=44843801) - [What the Windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called)
 * [2025-08-09, 02:30:57](https://news.ycombinator.com/item?id=44843605) - [Let's properly analyze an AI article for once](https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html)
 * [2025-08-08, 21:12:47](https://news.ycombinator.com/item?id=44841741) - [Our European search index goes live](https://blog.ecosia.org/launching-our-european-search-index/)
 * [2025-08-08, 19:27:28](https://news.ycombinator.com/item?id=44840728) - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
