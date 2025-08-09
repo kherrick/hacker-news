@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 17:17:07](https://news.ycombinator.com/item?id=44848293) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 16:44:01](https://news.ycombinator.com/item?id=44847971) - [Accessibility and the Agentic Web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
 * [2025-08-09, 15:52:22](https://news.ycombinator.com/item?id=44847481) - [Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union](https://laurivahtre.ee/empire-of-the-absurd/)
 * [2025-08-09, 15:41:57](https://news.ycombinator.com/item?id=44847368) - [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)

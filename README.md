@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-09, 17:17:07](https://news.ycombinator.com/item?id=44848293) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 16:44:01](https://news.ycombinator.com/item?id=44847971) - [Accessibility and the Agentic Web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
 * [2025-08-09, 15:52:22](https://news.ycombinator.com/item?id=44847481) - [Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union](https://laurivahtre.ee/empire-of-the-absurd/)
 * [2025-08-09, 15:41:57](https://news.ycombinator.com/item?id=44847368) - [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)
@@ -12,7 +13,6 @@
 * [2025-08-09, 13:32:02](https://news.ycombinator.com/item?id=44846323) - [The dead need right to delete their data so they can't be AI-ified, lawyer says](https://www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/)
 * [2025-08-09, 13:31:30](https://news.ycombinator.com/item?id=44846318) - [OpenFreeMap survived 100k requests per second](https://blog.hyperknot.com/p/openfreemap-survived-100000-requests)
 * [2025-08-09, 13:25:16](https://news.ycombinator.com/item?id=44846281) - [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)
-* [2025-08-09, 13:14:57](https://news.ycombinator.com/item?id=44846226) - [Intermittent fasting strategies and their effects on body weight](https://www.bmj.com/content/389/bmj-2024-082007)
 * [2025-08-09, 13:01:31](https://news.ycombinator.com/item?id=44846164) - [Long-term exposure to outdoor air pollution linked to increased risk of dementia](https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia)
 * [2025-08-09, 11:58:52](https://news.ycombinator.com/item?id=44845839) - [Ratfactor's Illustrated Guide to Folding Fitted Sheets](https://ratfactor.com/cards/fitted-sheets)
 * [2025-08-09, 09:54:13](https://news.ycombinator.com/item?id=44845272) - [Jan – Ollama alternative with local UI](https://github.com/menloresearch/jan)
