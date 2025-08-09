@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-08-08, 21:12:47",
+      "https://news.ycombinator.com/item?id=44841741"
+    ],
+    [
+      "Our European search index goes live",
+      "https://blog.ecosia.org/launching-our-european-search-index/"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 19:27:28",
       "https://news.ycombinator.com/item?id=44840728"
     ],
@@ -117,16 +127,6 @@
     [
       "The surprise deprecation of GPT-4o for ChatGPT consumers",
       "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 16:16:20",
-      "https://news.ycombinator.com/item?id=44838733"
-    ],
-    [
-      "Open SWE: An open-source asynchronous coding agent",
-      "https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-08-05, 18:13:45",
-      "https://news.ycombinator.com/item?id=44801960"
-    ],
-    [
-      "Technical issues of separation in function cells and value cells (1988)",
-      "https://dreamsongs.com/Separation.html"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 17:39:09",
       "https://news.ycombinator.com/item?id=44801392"
     ],
     [
       "Representing Python notebooks as dataflow graphs",
       "https://marimo.io/blog/dataflow"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 17:37:24",
+      "https://news.ycombinator.com/item?id=44801363"
+    ],
+    [
+      "Debugging a mysterious HTTP streaming issue",
+      "https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything"
     ]
   ],
   [
