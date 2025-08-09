@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 15:52:22](https://news.ycombinator.com/item?id=44847481) - [Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union](https://laurivahtre.ee/empire-of-the-absurd/)
 * [2025-08-09, 15:41:57](https://news.ycombinator.com/item?id=44847368) - [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)
+* [2025-08-09, 15:36:21](https://news.ycombinator.com/item?id=44847334) - [End-User Programmable AI](https://queue.acm.org/detail.cfm?id=3746223)
 * [2025-08-09, 15:30:14](https://news.ycombinator.com/item?id=44847284) - [60% of medal of honor recipients are Irish or Irish-American](https://en.wikipedia.org/wiki/List_of_Irish-American_Medal_of_Honor_recipients)
+* [2025-08-09, 14:56:16](https://news.ycombinator.com/item?id=44847001) - [ESP32 Bus Pirate 0.5 – A Hardware Hacking Tool That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
 * [2025-08-09, 14:47:38](https://news.ycombinator.com/item?id=44846922) - [Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup](https://simonwillison.net/2025/Aug/9/bay-area-ai/)
 * [2025-08-09, 14:30:49](https://news.ycombinator.com/item?id=44846758) - [Mexico to US Livestock Trade halted due to Screwworm spread](https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due)
 * [2025-08-09, 14:04:41](https://news.ycombinator.com/item?id=44846544) - [Why Cargo Check Is So Slow](https://eveeifyeve.pages.dev/blogs/cargo-check-slow.mdx/)
