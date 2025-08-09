@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-09, 09:54:31](https://news.ycombinator.com/item?id=44845273) - [Did California's Fast Food Minimum Wage Reduce Employment?](https://www.nber.org/papers/w34033)
 * [2025-08-09, 09:49:11](https://news.ycombinator.com/item?id=44845251) - [An Engineer's Perspective on Hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
 * [2025-08-09, 09:13:48](https://news.ycombinator.com/item?id=44845112) - [I prefer human-readable file formats](https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
 * [2025-08-09, 08:50:33](https://news.ycombinator.com/item?id=44845017) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
@@ -23,6 +22,7 @@
 * [2025-08-08, 11:41:04](https://news.ycombinator.com/item?id=44835879) - [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
 * [2025-08-06, 12:12:04](https://news.ycombinator.com/item?id=44810916) - [I bought a £16 smartwatch just because it used USB-C](https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/)
 * [2025-08-05, 20:46:38](https://news.ycombinator.com/item?id=44804043) - [What's wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
+* [2025-08-05, 18:50:43](https://news.ycombinator.com/item?id=44802484) - [Why Wisconsin's county highways are lettered, not numbered (2019)](https://www.wpr.org/transportation/why-wisconsins-county-roads-are-lettered-not-numbered)
 * [2025-08-05, 17:39:09](https://news.ycombinator.com/item?id=44801392) - [Representing Python notebooks as dataflow graphs](https://marimo.io/blog/dataflow)
 * [2025-08-05, 17:37:24](https://news.ycombinator.com/item?id=44801363) - [Debugging a mysterious HTTP streaming issue](https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything)
 * [2025-08-05, 16:11:52](https://news.ycombinator.com/item?id=44799929) - [A SPARC makes a little fire](https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html)
