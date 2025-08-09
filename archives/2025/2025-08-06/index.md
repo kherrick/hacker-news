@@ -65,6 +65,7 @@
 * [2025-08-06, 13:01:36](https://news.ycombinator.com/item?id=44811387) - [Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM](https://github.com/shutootaki/bookwith)
 * [2025-08-06, 12:50:06](https://news.ycombinator.com/item?id=44811280) - [303Gen – 303 acid loops generator](https://303-gen-06a668.netlify.app/)
 * [2025-08-06, 12:37:00](https://news.ycombinator.com/item?id=44811151) - [Grok generates fake Taylor Swift nudes without being asked](https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/)
+* [2025-08-06, 12:12:04](https://news.ycombinator.com/item?id=44810916) - [I bought a £16 smartwatch just because it used USB-C](https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/)
 * [2025-08-06, 11:57:21](https://news.ycombinator.com/item?id=44810804) - [The Future of Small Presses in the Aftermath of the NEA Grant Chaos](https://lithub.com/on-the-future-of-small-presses-in-the-aftermath-of-the-nea-grant-chaos/)
 * [2025-08-06, 11:44:52](https://news.ycombinator.com/item?id=44810708) - [Israel relying on Microsoft cloud for expansive surveillance of Palestinians](https://www.theguardian.com/world/2025/aug/06/microsoft-israeli-military-palestinian-phone-calls-cloud)
 * [2025-08-06, 11:43:12](https://news.ycombinator.com/item?id=44810695) - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
