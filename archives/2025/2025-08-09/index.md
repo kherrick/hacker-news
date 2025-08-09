@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 18:18:45](https://news.ycombinator.com/item?id=44848782) - [Debian 13 \"Trixie\"](https://www.debian.org/News/2025/20250809)
 * [2025-08-09, 18:09:56](https://news.ycombinator.com/item?id=44848698) - [Residents cheer as Tucson rejects data center campus](https://www.datacenterdynamics.com/en/news/residents-cheer-as-tucson-rejects-amazons-massive-project-blue-data-center-campus-in-arizona/)
 * [2025-08-09, 17:17:07](https://news.ycombinator.com/item?id=44848293) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 17:13:14](https://news.ycombinator.com/item?id=44848259) - [Don Knuth on ChatGPT(07 April 2023)](https://cs.stanford.edu/~knuth/chatGPT20.txt)

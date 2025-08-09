@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-09, 18:18:45](https://news.ycombinator.com/item?id=44848782) - [Debian 13 \"Trixie\"](https://www.debian.org/News/2025/20250809)
 * [2025-08-09, 18:09:56](https://news.ycombinator.com/item?id=44848698) - [Residents cheer as Tucson rejects data center campus](https://www.datacenterdynamics.com/en/news/residents-cheer-as-tucson-rejects-amazons-massive-project-blue-data-center-campus-in-arizona/)
 * [2025-08-09, 17:17:07](https://news.ycombinator.com/item?id=44848293) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 17:13:14](https://news.ycombinator.com/item?id=44848259) - [Don Knuth on ChatGPT(07 April 2023)](https://cs.stanford.edu/~knuth/chatGPT20.txt)
@@ -9,7 +10,6 @@
 * [2025-08-09, 15:52:22](https://news.ycombinator.com/item?id=44847481) - [Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union](https://laurivahtre.ee/empire-of-the-absurd/)
 * [2025-08-09, 15:41:57](https://news.ycombinator.com/item?id=44847368) - [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)
 * [2025-08-09, 15:36:21](https://news.ycombinator.com/item?id=44847334) - [End-User Programmable AI](https://queue.acm.org/detail.cfm?id=3746223)
-* [2025-08-09, 15:30:14](https://news.ycombinator.com/item?id=44847284) - [60% of medal of honor recipients are Irish or Irish-American](https://en.wikipedia.org/wiki/List_of_Irish-American_Medal_of_Honor_recipients)
 * [2025-08-09, 14:56:16](https://news.ycombinator.com/item?id=44847001) - [ESP32 Bus Pirate 0.5 – A Hardware Hacking Tool That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
 * [2025-08-09, 14:47:38](https://news.ycombinator.com/item?id=44846922) - [Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup](https://simonwillison.net/2025/Aug/9/bay-area-ai/)
 * [2025-08-09, 14:42:10](https://news.ycombinator.com/item?id=44846871) - [MCP's Disregard for 40 Years of RPC Best Practices](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)
