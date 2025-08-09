@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-09, 08:50:33",
+      "https://news.ycombinator.com/item?id=44845017"
+    ],
+    [
+      "Partially Matching Zig Enums",
+      "https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html"
+    ]
+  ],
+  [
+    [
       "2025-08-09, 06:46:14",
       "https://news.ycombinator.com/item?id=44844561"
     ],
@@ -237,16 +247,6 @@
     [
       "Debugging a mysterious HTTP streaming issue",
       "https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 16:36:07",
-      "https://news.ycombinator.com/item?id=44800336"
-    ],
-    [
-      "The Day Novartis Chose Discovery",
-      "https://www.alexkesin.com/p/the-day-novartis-chose-discovery"
     ]
   ],
   [
