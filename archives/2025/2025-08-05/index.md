@@ -23,6 +23,7 @@
 * [2025-08-05, 17:57:55](https://news.ycombinator.com/item?id=44801718) - [The 'Contrarian Friend' Is Real, and They're Driving Everyone Crazy](https://www.self.com/story/contrarian-friend-trend)
 * [2025-08-05, 17:44:01](https://news.ycombinator.com/item?id=44801486) - [US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief](https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html)
 * [2025-08-05, 17:39:26](https://news.ycombinator.com/item?id=44801399) - [Show HN: Whittle – A Shrinking Word Game](https://playwhittle.com/)
+* [2025-08-05, 17:37:24](https://news.ycombinator.com/item?id=44801363) - [Debugging a mysterious HTTP streaming issue](https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything)
 * [2025-08-05, 17:18:37](https://news.ycombinator.com/item?id=44801027) - [Consider using Zstandard and/or LZ4 instead of Deflate](https://github.com/w3c/png/issues/39)
 * [2025-08-05, 17:14:00](https://news.ycombinator.com/item?id=44800943) - [Small Changes That Made Our Daily Stand-Ups More Useful](https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/)
 * [2025-08-05, 17:02:02](https://news.ycombinator.com/item?id=44800746) - [OpenAI Open Models](https://openai.com/open-models/)
