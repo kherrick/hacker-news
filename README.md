@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-09, 20:48:00](https://news.ycombinator.com/item?id=44850063) - [\"The Hollow Men\" at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
+* [2025-08-09, 21:59:43](https://news.ycombinator.com/item?id=44850681) - [Consent and Compromise: How We Got Access to 22 Internal Microsoft Services](https://research.eye.security/consent-and-compromise/)
 * [2025-08-09, 18:59:37](https://news.ycombinator.com/item?id=44849129) - [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
 * [2025-08-09, 18:18:45](https://news.ycombinator.com/item?id=44848782) - [Debian 13 \"Trixie\"](https://www.debian.org/News/2025/20250809)
 * [2025-08-09, 17:17:07](https://news.ycombinator.com/item?id=44848293) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
@@ -13,7 +13,6 @@
 * [2025-08-09, 13:31:30](https://news.ycombinator.com/item?id=44846318) - [OpenFreeMap survived 100k requests per second](https://blog.hyperknot.com/p/openfreemap-survived-100000-requests)
 * [2025-08-09, 13:25:16](https://news.ycombinator.com/item?id=44846281) - [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)
 * [2025-08-09, 13:01:31](https://news.ycombinator.com/item?id=44846164) - [Long-term exposure to outdoor air pollution linked to increased risk of dementia](https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia)
-* [2025-08-09, 12:55:52](https://news.ycombinator.com/item?id=44846140) - [The era of boundary-breaking advancements is over? [video]](https://www.youtube.com/watch?v=hkAH7-u7t5k)
 * [2025-08-09, 12:54:09](https://news.ycombinator.com/item?id=44846130) - [Stanford to continue legacy admissions and withdraw from Cal Grants](https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/)
 * [2025-08-09, 12:21:31](https://news.ycombinator.com/item?id=44845957) - [R0ML's Ratio](https://blog.glyph.im/2025/08/r0mls-ratio.html)
 * [2025-08-09, 11:58:52](https://news.ycombinator.com/item?id=44845839) - [Ratfactor's illustrated guide to folding fitted sheets](https://ratfactor.com/cards/fitted-sheets)
@@ -22,6 +21,7 @@
 * [2025-08-08, 02:51:33](https://news.ycombinator.com/item?id=44832908) - [GPT-5: \"How many times does the letter b appear in blueberry?\"](https://kieranhealy.org/blog/archives/2025/08/07/blueberry-hill/)
 * [2025-08-07, 13:16:52](https://news.ycombinator.com/item?id=44824088) - [People returned to live in Pompeii's ruins, archaeologists say](https://www.bbc.com/news/articles/c62wx23y2v1o)
 * [2025-08-06, 17:40:40](https://news.ycombinator.com/item?id=44815164) - [Testing Bitchat at the music festival](https://primal.net/saunter/testing-bitchat-at-the-music-festival)
+* [2025-08-06, 17:29:25](https://news.ycombinator.com/item?id=44815002) - [The Scroll Art (Animated ASCII) Museum](https://scrollart.org/)
 * [2025-08-06, 15:17:22](https://news.ycombinator.com/item?id=44813175) - [A Simple CPU on the Game of Life (2021)](https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html)
 * [2025-08-06, 12:14:47](https://news.ycombinator.com/item?id=44810945) - [Who got arrested in the raid on the XSS crime forum?](https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/)
 * [2025-08-06, 10:06:45](https://news.ycombinator.com/item?id=44810057) - [Which colors are primary?](https://jamesgurney.substack.com/p/which-colors-are-primary)

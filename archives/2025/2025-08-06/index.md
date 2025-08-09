@@ -34,6 +34,7 @@
 * [2025-08-06, 17:38:43](https://news.ycombinator.com/item?id=44815136) - [Pirating Books in the 1600s](https://www.swanngalleries.com/news/books/2024/04/a-brief-publishing-history-of-don-quixote/)
 * [2025-08-06, 17:38:09](https://news.ycombinator.com/item?id=44815125) - [Why blocking LLMs from your website is dumb](https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d)
 * [2025-08-06, 17:32:42](https://news.ycombinator.com/item?id=44815046) - [Google says AI in Search is driving more queries and higher quality clicks](https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/)
+* [2025-08-06, 17:29:25](https://news.ycombinator.com/item?id=44815002) - [The Scroll Art (Animated ASCII) Museum](https://scrollart.org/)
 * [2025-08-06, 17:28:56](https://news.ycombinator.com/item?id=44814993) - [Wild pigs' flesh turning neon blue in California: Authorities sounding the alarm](https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html)
 * [2025-08-06, 16:57:55](https://news.ycombinator.com/item?id=44814596) - [Multics](https://www.multicians.org/multics.html)
 * [2025-08-06, 16:57:08](https://news.ycombinator.com/item?id=44814587) - [Consistency over Availability: How rqlite Handles the CAP theorem](https://philipotoole.com/consistency-over-availability-how-rqlite-handles-the-cap-theorem/)
