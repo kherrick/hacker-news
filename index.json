@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-08-09, 12:54:09",
+      "https://news.ycombinator.com/item?id=44846130"
+    ],
+    [
+      "Stanford to continue legacy admissions and withdraw from Cal Grants",
+      "https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 12:25:24",
+      "https://news.ycombinator.com/item?id=44845975"
+    ],
+    [
+      "Private Welsh island with 19th century fort goes on the market",
+      "https://www.cnn.com/2025/08/08/business/thorne-island-fort-wales-scli-intl"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 09:54:13",
+      "https://news.ycombinator.com/item?id=44845272"
+    ],
+    [
+      "Jan – Ollama alternative with local UI",
+      "https://github.com/menloresearch/jan"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 09:49:11",
+      "https://news.ycombinator.com/item?id=44845251"
+    ],
+    [
+      "An engineer's perspective on hiring",
+      "https://jyn.dev/an-engineers-perspective-on-hiring"
+    ]
+  ],
+  [
+    [
       "2025-08-09, 09:13:48",
       "https://news.ycombinator.com/item?id=44845112"
     ],
@@ -17,16 +57,6 @@
     [
       "Partially Matching Zig Enums",
       "https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-09, 08:18:58",
-      "https://news.ycombinator.com/item?id=44844897"
-    ],
-    [
-      "Virtual 6NF",
-      "https://minimalmodeling.substack.com/p/virtual-6nf"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-08-08, 19:24:07",
-      "https://news.ycombinator.com/item?id=44840693"
-    ],
-    [
-      "Build durable workflows with Postgres",
-      "https://www.dbos.dev/blog/why-postgres-durable-execution"
-    ]
-  ],
-  [
-    [
       "2025-08-08, 19:20:51",
       "https://news.ycombinator.com/item?id=44840654"
     ],
@@ -137,16 +157,6 @@
     [
       "I want everything local – Building my offline AI workspace",
       "https://instavm.io/blog/building-my-offline-ai-workspace"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 18:04:26",
-      "https://news.ycombinator.com/item?id=44839842"
-    ],
-    [
-      "The surprise deprecation of GPT-4o for ChatGPT consumers",
-      "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/"
     ]
   ],
   [
@@ -201,12 +211,32 @@
   ],
   [
     [
+      "2025-08-06, 17:38:43",
+      "https://news.ycombinator.com/item?id=44815136"
+    ],
+    [
+      "Pirating Books in the 1600s",
+      "https://www.swanngalleries.com/news/books/2024/04/a-brief-publishing-history-of-don-quixote/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 12:12:04",
       "https://news.ycombinator.com/item?id=44810916"
     ],
     [
       "I bought a £16 smartwatch just because it used USB-C",
       "https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 00:53:44",
+      "https://news.ycombinator.com/item?id=44806422"
+    ],
+    [
+      "Car has more than 1.2M km on it – and it's still going strong",
+      "https://www.cbc.ca/news/canada/nova-scotia/1985-toyota-tercel-high-mileage-1.7597168"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2025-08-05, 17:37:24",
-      "https://news.ycombinator.com/item?id=44801363"
-    ],
-    [
-      "Debugging a mysterious HTTP streaming issue",
-      "https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 16:11:52",
       "https://news.ycombinator.com/item?id=44799929"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-08-05, 15:58:02",
-      "https://news.ycombinator.com/item?id=44799727"
-    ],
-    [
-      "Why building a self-hosted SaaS is harder",
-      "https://www.getlago.com/blog/self-hosted-saas"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 14:43:12",
       "https://news.ycombinator.com/item?id=44798624"
     ],
     [
       "Hacking Diffusion into Qwen3 for the Arc Challenge",
       "https://www.matthewnewton.com/blog/arc-challenge-diffusion"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 13:10:17",
-      "https://news.ycombinator.com/item?id=44797566"
-    ],
-    [
-      "Unmasking the Sea Star Killer",
-      "https://www.biographic.com/unmasking-the-sea-star-killer/"
     ]
   ],
   [
