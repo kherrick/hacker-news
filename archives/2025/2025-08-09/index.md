@@ -10,6 +10,7 @@
 * [2025-08-09, 09:54:13](https://news.ycombinator.com/item?id=44845272) - [Jan – Ollama alternative with local UI](https://github.com/menloresearch/jan)
 * [2025-08-09, 09:49:11](https://news.ycombinator.com/item?id=44845251) - [An Engineer's Perspective on Hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
 * [2025-08-09, 09:13:48](https://news.ycombinator.com/item?id=44845112) - [I prefer human-readable file formats](https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
+* [2025-08-09, 08:58:40](https://news.ycombinator.com/item?id=44845043) - [Datalog-Based Binary Equivalence](https://github.com/binaryeq/daleq)
 * [2025-08-09, 08:50:33](https://news.ycombinator.com/item?id=44845017) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
 * [2025-08-09, 08:18:58](https://news.ycombinator.com/item?id=44844897) - [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
 * [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
