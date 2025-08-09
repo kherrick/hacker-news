@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
+* [2025-08-09, 06:06:56](https://news.ycombinator.com/item?id=44844394) - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
 * [2025-08-09, 05:34:09](https://news.ycombinator.com/item?id=44844257) - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
 * [2025-08-09, 03:24:16](https://news.ycombinator.com/item?id=44843801) - [What the windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called)
 * [2025-08-09, 02:30:57](https://news.ycombinator.com/item?id=44843605) - [Let's properly analyze an AI article for once](https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html)
@@ -22,12 +24,10 @@
 * [2025-08-06, 01:12:42](https://news.ycombinator.com/item?id=44806537) - [Engineer restores pay phones for free public use](https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use)
 * [2025-08-05, 18:13:45](https://news.ycombinator.com/item?id=44801960) - [Technical issues of separation in function cells and value cells (1988)](https://dreamsongs.com/Separation.html)
 * [2025-08-05, 17:39:09](https://news.ycombinator.com/item?id=44801392) - [Representing Python notebooks as dataflow graphs](https://marimo.io/blog/dataflow)
-* [2025-08-05, 17:37:24](https://news.ycombinator.com/item?id=44801363) - [Debugging a mysterious HTTP streaming issue](https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything)
 * [2025-08-05, 16:09:02](https://news.ycombinator.com/item?id=44799886) - [Poltergeist: File watcher with auto-rebuild for any language or build system](https://github.com/steipete/poltergeist)
 * [2025-08-05, 14:43:12](https://news.ycombinator.com/item?id=44798624) - [Hacking Diffusion into Qwen3 for the Arc Challenge](https://www.matthewnewton.com/blog/arc-challenge-diffusion)
 * [2025-08-05, 13:10:17](https://news.ycombinator.com/item?id=44797566) - [Unmasking the Sea Star Killer](https://www.biographic.com/unmasking-the-sea-star-killer/)
 * [2025-08-04, 19:36:09](https://news.ycombinator.com/item?id=44790472) - [A robust, open-source framework for Spiking Neural Networks on low-end FPGAs](https://arxiv.org/abs/2507.07284)
-* [2025-08-04, 17:50:36](https://news.ycombinator.com/item?id=44789202) - [Telefon Hírmondó](https://en.wikipedia.org/wiki/Telefon_H%C3%ADrmond%C3%B3)
 * [2025-08-04, 17:31:54](https://news.ycombinator.com/item?id=44788972) - [Apple's history is hiding in a Mac font](https://www.spacebar.news/apple-history-hiding-in-mac-font/)
 * [2025-08-04, 12:03:24](https://news.ycombinator.com/item?id=44784685) - [Window Activation](https://blog.broulik.de/2025/08/on-window-activation/)
 

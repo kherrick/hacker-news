@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
+* [2025-08-09, 06:06:56](https://news.ycombinator.com/item?id=44844394) - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
 * [2025-08-09, 05:34:09](https://news.ycombinator.com/item?id=44844257) - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
 * [2025-08-09, 03:37:17](https://news.ycombinator.com/item?id=44843842) - [Tesla used car prices keep plumetting, dips below average used car](https://electrek.co/2025/08/08/tesla-used-car-prices-keep-plumetting-now-literrally-cheaper-than-average-used-car/)
 * [2025-08-09, 03:24:16](https://news.ycombinator.com/item?id=44843801) - [What the windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called)
