@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 09:54:31](https://news.ycombinator.com/item?id=44845273) - [Did California's Fast Food Minimum Wage Reduce Employment?](https://www.nber.org/papers/w34033)
 * [2025-08-09, 09:49:11](https://news.ycombinator.com/item?id=44845251) - [An Engineer's Perspective on Hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
 * [2025-08-09, 09:13:48](https://news.ycombinator.com/item?id=44845112) - [I prefer human-readable file formats](https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
 * [2025-08-09, 08:50:33](https://news.ycombinator.com/item?id=44845017) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
