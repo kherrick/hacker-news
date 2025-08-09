@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-09, 05:34:09",
+      "https://news.ycombinator.com/item?id=44844257"
+    ],
+    [
+      "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
+      "https://arxiv.org/abs/2504.17033"
+    ]
+  ],
+  [
+    [
       "2025-08-09, 03:37:17",
       "https://news.ycombinator.com/item?id=44843842"
     ],
@@ -27,16 +37,6 @@
     [
       "Let's properly analyze an AI article for once",
       "https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 23:20:56",
-      "https://news.ycombinator.com/item?id=44842700"
-    ],
-    [
-      "Little-known leguminous plant can increase beef production by 60% (2022)",
-      "https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-08-05, 17:37:24",
+      "https://news.ycombinator.com/item?id=44801363"
+    ],
+    [
+      "Debugging a mysterious HTTP streaming issue",
+      "https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 16:36:07",
       "https://news.ycombinator.com/item?id=44800336"
     ],
@@ -267,16 +277,6 @@
     [
       "A robust, open-source framework for Spiking Neural Networks on low-end FPGAs",
       "https://arxiv.org/abs/2507.07284"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 17:50:36",
-      "https://news.ycombinator.com/item?id=44789202"
-    ],
-    [
-      "Telefon Hírmondó",
-      "https://en.wikipedia.org/wiki/Telefon_H%C3%ADrmond%C3%B3"
     ]
   ],
   [
