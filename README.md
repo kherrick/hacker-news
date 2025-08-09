@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
-* [2025-08-09, 06:42:38](https://news.ycombinator.com/item?id=44844544) - [Many women have 'lost' their boyfriends because of OpenAI's GPT-5](https://old.reddit.com/r/MyBoyfriendIsAI/comments/1mkweq4/a_note_to_the_community_from_someone_whos_gone/)
 * [2025-08-09, 06:06:56](https://news.ycombinator.com/item?id=44844394) - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
 * [2025-08-09, 05:34:09](https://news.ycombinator.com/item?id=44844257) - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
 * [2025-08-09, 03:24:16](https://news.ycombinator.com/item?id=44843801) - [What the windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called)
@@ -22,6 +21,7 @@
 * [2025-08-06, 12:12:04](https://news.ycombinator.com/item?id=44810916) - [I bought a £16 smartwatch just because it used USB-C](https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/)
 * [2025-08-06, 06:29:21](https://news.ycombinator.com/item?id=44808423) - [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
 * [2025-08-06, 01:12:42](https://news.ycombinator.com/item?id=44806537) - [Engineer restores pay phones for free public use](https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use)
+* [2025-08-06, 00:53:44](https://news.ycombinator.com/item?id=44806422) - [Car has more than 1.2M km on it – and it's still going strong](https://www.cbc.ca/news/canada/nova-scotia/1985-toyota-tercel-high-mileage-1.7597168)
 * [2025-08-05, 17:39:09](https://news.ycombinator.com/item?id=44801392) - [Representing Python notebooks as dataflow graphs](https://marimo.io/blog/dataflow)
 * [2025-08-05, 17:37:24](https://news.ycombinator.com/item?id=44801363) - [Debugging a mysterious HTTP streaming issue](https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything)
 * [2025-08-05, 16:36:07](https://news.ycombinator.com/item?id=44800336) - [The Day Novartis Chose Discovery](https://www.alexkesin.com/p/the-day-novartis-chose-discovery)

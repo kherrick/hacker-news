@@ -97,4 +97,5 @@
 * [2025-08-06, 01:30:04](https://news.ycombinator.com/item?id=44806669) - [Science Titan sub firm used intimidation tactics and flawed safety practices](https://www.bbc.com/news/live/cdjxp4n2371t)
 * [2025-08-06, 01:13:17](https://news.ycombinator.com/item?id=44806543) - [Kitten TTS: 25MB CPU-Only, Open-Source Voice Model](https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/)
 * [2025-08-06, 01:12:42](https://news.ycombinator.com/item?id=44806537) - [Engineer restores pay phones for free public use](https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use)
+* [2025-08-06, 00:53:44](https://news.ycombinator.com/item?id=44806422) - [Car has more than 1.2M km on it – and it's still going strong](https://www.cbc.ca/news/canada/nova-scotia/1985-toyota-tercel-high-mileage-1.7597168)
 * [2025-08-06, 00:14:59](https://news.ycombinator.com/item?id=44806136) - [Model Collapse and the Need for Human-Generated Training Data](https://glthr.com/model-collapse-and-the-need-for-human-generated-training-data)
