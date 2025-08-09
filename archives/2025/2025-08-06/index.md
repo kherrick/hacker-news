@@ -88,6 +88,7 @@
 * [2025-08-06, 06:00:40](https://news.ycombinator.com/item?id=44808232) - [The Bus Station That Didn't Exist, and Other Data Epiphanies](https://nightingaledvs.com/bus-station-didnt-exist/)
 * [2025-08-06, 05:44:29](https://news.ycombinator.com/item?id=44808122) - [Teacher AI Use Is Already Out of Control and It's Not Ok](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
 * [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
+* [2025-08-06, 04:20:22](https://news.ycombinator.com/item?id=44807603) - [Isle FPGA Computer: creating a simple, open, modern computer](https://projectf.io/isle/fpga-computer.html)
 * [2025-08-06, 03:59:11](https://news.ycombinator.com/item?id=44807480) - [PlayReady DRM leak triggers Microsoft takedown and Amazon account suspensions](https://torrentfreak.com/playready-drm-leak-triggers-microsoft-takedown-and-amazon-account-suspensions/)
 * [2025-08-06, 03:51:22](https://news.ycombinator.com/item?id=44807429) - [Backpropagating through a maze with candle and WASM](https://yberreby.com/discrete-maze-backprop-candle-wasm/)
 * [2025-08-06, 03:49:02](https://news.ycombinator.com/item?id=44807410) - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
