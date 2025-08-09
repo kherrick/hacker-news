@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 20:48:00](https://news.ycombinator.com/item?id=44850063) - [\"The Hollow Men\" at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
 * [2025-08-09, 20:23:25](https://news.ycombinator.com/item?id=44849845) - [Jen Pawol becomes first woman to umpire a Major League Baseball game](https://apnews.com/article/pawol-female-umpire-marlins-braves-0ae34533ea49f1e400a1c39e8be6f30e)
 * [2025-08-09, 19:17:32](https://news.ycombinator.com/item?id=44849269) - [JD Vance's team had water level of Ohio river raised for family's boating trip](https://www.theguardian.com/us-news/2025/aug/06/jd-vance-ohio-lake-water-levels)
 * [2025-08-09, 19:16:27](https://news.ycombinator.com/item?id=44849259) - [Physical Media Is Cool Again. Streaming Services Have Themselves to Blame](https://www.rollingstone.com/culture/culture-features/physical-media-collectors-trend-viral-streamers-1235387314/)
