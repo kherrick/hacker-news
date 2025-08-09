@@ -8,6 +8,7 @@
 * [2025-08-08, 23:11:24](https://news.ycombinator.com/item?id=44842633) - [GPT 5 vs. Opus 4.1 for Vibe-Coded Apps](https://www.instantdb.com/essays/gpt_5_vs_opus_4)
 * [2025-08-08, 22:42:42](https://news.ycombinator.com/item?id=44842442) - [How to safely escape JSON inside HTML SCRIPT elements](https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/)
 * [2025-08-08, 21:26:16](https://news.ycombinator.com/item?id=44841853) - [Texas politicians warn Smithsonian it must not lobby to retain its space shuttle](https://arstechnica.com/space/2025/08/texas-politicians-warn-smithsonian-it-must-not-lobby-to-retain-its-space-shuttle/)
+* [2025-08-08, 21:12:47](https://news.ycombinator.com/item?id=44841741) - [Our European search index goes live](https://blog.ecosia.org/launching-our-european-search-index/)
 * [2025-08-08, 20:40:39](https://news.ycombinator.com/item?id=44841479) - [Must democracy \"deliver the goods\" to beat autocracy?](https://democracyorbust.bearblog.dev/must-democracy-deliver-the-goods/)
 * [2025-08-08, 20:28:40](https://news.ycombinator.com/item?id=44841371) - [ChatGPT Is Still a Bullshit Machine](https://gizmodo.com/chatgpt-is-still-a-bullshit-machine-2000640488)
 * [2025-08-08, 20:22:56](https://news.ycombinator.com/item?id=44841308) - [Study finds flavor bans cut youth vaping but slow decline in cigarette smoking](https://medicalxpress.com/news/2025-07-flavor-youth-vaping-decline-cigarette.html)
