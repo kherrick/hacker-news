@@ -16,6 +16,7 @@
 * [2025-08-05, 19:29:04](https://news.ycombinator.com/item?id=44803065) - [A zoo in Denmark wants to feed your pets to its predators](https://www.nytimes.com/2025/08/04/science/zoos-denmark-food-pets.html)
 * [2025-08-05, 19:19:25](https://news.ycombinator.com/item?id=44802916) - [The AI bubble is so big it's propping up the US economy (for now)](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
 * [2025-08-05, 19:17:38](https://news.ycombinator.com/item?id=44802886) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
+* [2025-08-05, 19:00:51](https://news.ycombinator.com/item?id=44802657) - [Cordoomceps – replacing an Amiga's brain with Doom](https://mjg59.dreamwidth.org/73001.html)
 * [2025-08-05, 18:50:43](https://news.ycombinator.com/item?id=44802484) - [Why Wisconsin's county highways are lettered, not numbered (2019)](https://www.wpr.org/transportation/why-wisconsins-county-roads-are-lettered-not-numbered)
 * [2025-08-05, 18:46:18](https://news.ycombinator.com/item?id=44802414) - [Ollama Turbo](https://ollama.com/turbo)
 * [2025-08-05, 18:20:23](https://news.ycombinator.com/item?id=44802063) - [Show HN: I built a tool to replace capcut audio transcription](https://meetcosmos.com/free-audio-transcription/)
