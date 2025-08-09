@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-09, 15:30:14](https://news.ycombinator.com/item?id=44847284) - [60% of medal of honor recipients are Irish or Irish-American](https://en.wikipedia.org/wiki/List_of_Irish-American_Medal_of_Honor_recipients)
 * [2025-08-09, 14:30:49](https://news.ycombinator.com/item?id=44846758) - [Mexico to US Livestock Trade halted due to Screwworm spread](https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due)
-* [2025-08-09, 14:04:41](https://news.ycombinator.com/item?id=44846544) - [Why Cargo Check Is So Slow](https://eveeifyeve.pages.dev/blogs/cargo-check-slow.mdx/)
 * [2025-08-09, 13:32:02](https://news.ycombinator.com/item?id=44846323) - [The dead need right to delete their data so they can't be AI-ified, lawyer says](https://www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/)
 * [2025-08-09, 13:31:30](https://news.ycombinator.com/item?id=44846318) - [OpenFreeMap survived 100k requests per second](https://blog.hyperknot.com/p/openfreemap-survived-100000-requests)
 * [2025-08-09, 13:25:16](https://news.ycombinator.com/item?id=44846281) - [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)

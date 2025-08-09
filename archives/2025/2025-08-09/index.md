@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 15:30:14](https://news.ycombinator.com/item?id=44847284) - [60% of medal of honor recipients are Irish or Irish-American](https://en.wikipedia.org/wiki/List_of_Irish-American_Medal_of_Honor_recipients)
 * [2025-08-09, 14:30:49](https://news.ycombinator.com/item?id=44846758) - [Mexico to US Livestock Trade halted due to Screwworm spread](https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due)
 * [2025-08-09, 14:04:41](https://news.ycombinator.com/item?id=44846544) - [Why Cargo Check Is So Slow](https://eveeifyeve.pages.dev/blogs/cargo-check-slow.mdx/)
 * [2025-08-09, 13:47:20](https://news.ycombinator.com/item?id=44846413) - [Reuters reports that the entry-level software eng job market has collapsed](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
