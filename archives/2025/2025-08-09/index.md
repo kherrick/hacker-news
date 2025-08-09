@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 13:47:20](https://news.ycombinator.com/item?id=44846413) - [Reuters reports that the entry-level software eng job market has collapsed](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
+* [2025-08-09, 13:37:44](https://news.ycombinator.com/item?id=44846360) - [The conservative women who are having it all](https://www.wsj.com/lifestyle/relationships/the-conservative-women-who-are-having-it-all-84077b73)
+* [2025-08-09, 13:32:02](https://news.ycombinator.com/item?id=44846323) - [The dead need right to delete their data so they can't be AI-ified, lawyer says](https://www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/)
+* [2025-08-09, 13:25:16](https://news.ycombinator.com/item?id=44846281) - [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)
 * [2025-08-09, 12:54:09](https://news.ycombinator.com/item?id=44846130) - [Stanford to continue legacy admissions and withdraw from Cal Grants](https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/)
 * [2025-08-09, 12:25:24](https://news.ycombinator.com/item?id=44845975) - [Private Welsh island with 19th century fort goes on the market](https://www.cnn.com/2025/08/08/business/thorne-island-fort-wales-scli-intl)
 * [2025-08-09, 09:54:31](https://news.ycombinator.com/item?id=44845273) - [Did California's Fast Food Minimum Wage Reduce Employment?](https://www.nber.org/papers/w34033)

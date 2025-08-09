@@ -33,6 +33,7 @@
 * [2025-08-05, 16:36:07](https://news.ycombinator.com/item?id=44800336) - [The Day Novartis Chose Discovery](https://www.alexkesin.com/p/the-day-novartis-chose-discovery)
 * [2025-08-05, 16:28:05](https://news.ycombinator.com/item?id=44800185) - [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
 * [2025-08-05, 16:18:57](https://news.ycombinator.com/item?id=44800051) - [Google agrees to pause AI workloads when power demand spikes](https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/)
+* [2025-08-05, 16:18:53](https://news.ycombinator.com/item?id=44800048) - [Quickshell – building blocks for your desktop](https://quickshell.org/)
 * [2025-08-05, 16:11:52](https://news.ycombinator.com/item?id=44799929) - [A SPARC makes a little fire](https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html)
 * [2025-08-05, 16:09:02](https://news.ycombinator.com/item?id=44799886) - [Poltergeist: File watcher with auto-rebuild for any language or build system](https://github.com/steipete/poltergeist)
 * [2025-08-05, 16:07:58](https://news.ycombinator.com/item?id=44799869) - [OpenAI Harmony](https://github.com/openai/harmony)
