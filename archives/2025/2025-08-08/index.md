@@ -74,3 +74,4 @@
 * [2025-08-08, 02:37:12](https://news.ycombinator.com/item?id=44832829) - [New executive order puts all grants under political control](https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/)
 * [2025-08-08, 01:22:40](https://news.ycombinator.com/item?id=44832378) - [The Fundamentals Still Matter](https://jordangoodman.bearblog.dev/fundamentals-still-matter/)
 * [2025-08-08, 01:16:12](https://news.ycombinator.com/item?id=44832338) - [How to Not Build the Torment Nexus](https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/)
+* [2025-08-08, 00:29:19](https://news.ycombinator.com/item?id=44832060) - [Reflections on Soviet Amateur Photography](https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/)

@@ -10,6 +10,7 @@
 * [2025-08-06, 23:13:33](https://news.ycombinator.com/item?id=44818925) - [Apple increases US commitment to $600B, announces American Manufacturing Program](https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/)
 * [2025-08-06, 22:58:53](https://news.ycombinator.com/item?id=44818836) - [Why Building Billing Systems Is So Painful (2024)](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful)
 * [2025-08-06, 22:45:27](https://news.ycombinator.com/item?id=44818734) - [Git-fetch-file – Sync files from other repos with commit tracking and safety](https://github.com/andrewmcwattersandco/git-fetch-file)
+* [2025-08-06, 22:16:00](https://news.ycombinator.com/item?id=44818501) - [ECScape: Understanding IAM Privilege Boundaries in Amazon ECS](https://www.sweet.security/blog/ecscape-understanding-iam-privilege-boundaries-in-amazon-ecs)
 * [2025-08-06, 21:29:30](https://news.ycombinator.com/item?id=44818077) - [The new shape of Mixxx 3.0 – take part in the future of Open Source DJing](https://mixxx.org/news/2025-08-06-qml-project/)
 * [2025-08-06, 21:26:04](https://news.ycombinator.com/item?id=44818044) - [Analyzing Control Flow More Like a Human [video]](http://wonks.github.io/germane/summer2025/2025/08/06/germane.html)
 * [2025-08-06, 21:18:52](https://news.ycombinator.com/item?id=44817979) - [P-fast trie, but smaller](https://dotat.at/@/2025-08-06-p-fast-trie.html)

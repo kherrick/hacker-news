@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-10, 21:20:53](https://news.ycombinator.com/item?id=44858401) - [Data Shows Only 12% of Ethereum, 25% of Solana Protocols Have Revenue](https://www.coindesk.com/markets/2025/07/23/disguised-unemployment-in-blockchain-data-shows-only-12-of-ethereum-25-of-solana-protocols-have-revenue)
+* [2025-08-10, 21:20:53](https://news.ycombinator.com/item?id=44858401) - [A large number of protocols on Ethereum and Solana blockchains have no revenue](https://www.coindesk.com/markets/2025/07/23/disguised-unemployment-in-blockchain-data-shows-only-12-of-ethereum-25-of-solana-protocols-have-revenue)
 * [2025-08-10, 20:48:46](https://news.ycombinator.com/item?id=44858154) - [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
 * [2025-08-10, 20:30:34](https://news.ycombinator.com/item?id=44858067) - [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
 * [2025-08-10, 20:22:24](https://news.ycombinator.com/item?id=44858009) - [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
@@ -11,7 +11,6 @@
 * [2025-08-10, 16:50:34](https://news.ycombinator.com/item?id=44856426) - [Fight Chat Control](https://fightchatcontrol.eu/)
 * [2025-08-10, 16:31:27](https://news.ycombinator.com/item?id=44856301) - [Sunlight-activated material turns PFAS in water into harmless fluoride](https://phys.org/news/2025-08-sunlight-material-pfas-harmless-fluoride.html)
 * [2025-08-10, 16:04:05](https://news.ycombinator.com/item?id=44856101) - [Diffusion language models are super data learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
-* [2025-08-10, 15:33:06](https://news.ycombinator.com/item?id=44855881) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
 * [2025-08-10, 15:30:48](https://news.ycombinator.com/item?id=44855868) - [Flintlock – Create and manage the lifecycle of MicroVMs, backed by containerd](https://github.com/liquidmetal-dev/flintlock)
 * [2025-08-10, 15:06:07](https://news.ycombinator.com/item?id=44855690) - [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
 * [2025-08-10, 13:44:05](https://news.ycombinator.com/item?id=44855157) - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
@@ -21,15 +20,16 @@
 * [2025-08-10, 11:41:34](https://news.ycombinator.com/item?id=44854525) - [Booting 5000 Erlangs on Ampere One 192-core](https://underjord.io/booting-5000-erlangs-on-ampere-one.html)
 * [2025-08-10, 10:10:54](https://news.ycombinator.com/item?id=44854120) - [Open Lovable](https://github.com/mendableai/open-lovable)
 * [2025-08-10, 09:50:25](https://news.ycombinator.com/item?id=44854035) - [Writing simple tab-completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
-* [2025-08-10, 06:26:42](https://news.ycombinator.com/item?id=44853184) - [POML: Prompt Orchestration Markup Language](https://github.com/microsoft/poml)
 * [2025-08-10, 05:56:14](https://news.ycombinator.com/item?id=44853064) - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
 * [2025-08-09, 22:27:37](https://news.ycombinator.com/item?id=44850913) - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 * [2025-08-09, 21:59:43](https://news.ycombinator.com/item?id=44850681) - [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
 * [2025-08-09, 21:10:16](https://news.ycombinator.com/item?id=44850260) - [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
 * [2025-08-08, 20:19:10](https://news.ycombinator.com/item?id=44841262) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
+* [2025-08-08, 00:29:19](https://news.ycombinator.com/item?id=44832060) - [Reflections on Soviet Amateur Photography](https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/)
 * [2025-08-07, 14:57:34](https://news.ycombinator.com/item?id=44825347) - [Creating the Longest Possible Ski Jump in \"The Games: Winter Challenge\"](https://mrwint.github.io/winter/writeup/writeup2.html)
 * [2025-08-07, 11:49:17](https://news.ycombinator.com/item?id=44823272) - [PHP compile time generics: yay or nay?](https://thephp.foundation/blog/2025/08/05/compile-generics/)
 * [2025-08-06, 23:31:17](https://news.ycombinator.com/item?id=44819057) - [My Dream Productivity Device Is Done – and It's Becoming a Kit [video]](https://www.youtube.com/watch?v=pf3BxNq1cp4)
+* [2025-08-06, 22:16:00](https://news.ycombinator.com/item?id=44818501) - [ECScape: Understanding IAM Privilege Boundaries in Amazon ECS](https://www.sweet.security/blog/ecscape-understanding-iam-privilege-boundaries-in-amazon-ecs)
 
 ## [Archives](archives/index.md)
 
