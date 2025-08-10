@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 16:04:05](https://news.ycombinator.com/item?id=44856101) - [Diffusion Language Models Are Super Data Learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
+* [2025-08-10, 16:02:17](https://news.ycombinator.com/item?id=44856090) - [AOL closes its dial up internet service](https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html)
 * [2025-08-10, 15:33:06](https://news.ycombinator.com/item?id=44855881) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
+* [2025-08-10, 15:30:48](https://news.ycombinator.com/item?id=44855868) - [Flintlock – Create and manage the lifecycle of MicroVMs, backed by containerd](https://github.com/liquidmetal-dev/flintlock)
 * [2025-08-10, 15:06:07](https://news.ycombinator.com/item?id=44855690) - [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
 * [2025-08-10, 14:42:46](https://news.ycombinator.com/item?id=44855530) - [NASA finds multi-billion-year-old 'coral' on Mars](https://www.livescience.com/space/mars/nasa-finds-multi-billion-year-old-coral-on-mars)
+* [2025-08-10, 14:33:26](https://news.ycombinator.com/item?id=44855469) - [LHC's New Chip Tackles Radiation Challenges](https://spectrum.ieee.org/lhc-radiation-chip)
 * [2025-08-10, 13:44:05](https://news.ycombinator.com/item?id=44855157) - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
 * [2025-08-10, 13:32:13](https://news.ycombinator.com/item?id=44855079) - [Try and](https://ygdp.yale.edu/phenomena/try-and)
 * [2025-08-10, 13:15:33](https://news.ycombinator.com/item?id=44854989) - [Inside OS/2](https://gitpi.us/article-archive/inside-os2/)
