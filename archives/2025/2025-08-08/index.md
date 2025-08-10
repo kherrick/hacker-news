@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
 * [2025-08-08, 23:20:56](https://news.ycombinator.com/item?id=44842700) - [Little-known leguminous plant can increase beef production by 60% (2022)](https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60)
+* [2025-08-08, 23:11:28](https://news.ycombinator.com/item?id=44842635) - [GTP Blind Voting: GPT-5 vs. 4o](https://gptblindvoting.vercel.app/)
 * [2025-08-08, 23:11:24](https://news.ycombinator.com/item?id=44842633) - [GPT 5 vs. Opus 4.1 for Vibe-Coded Apps](https://www.instantdb.com/essays/gpt_5_vs_opus_4)
 * [2025-08-08, 22:42:42](https://news.ycombinator.com/item?id=44842442) - [How to safely escape JSON inside HTML SCRIPT elements](https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/)
 * [2025-08-08, 21:26:16](https://news.ycombinator.com/item?id=44841853) - [Texas politicians warn Smithsonian it must not lobby to retain its space shuttle](https://arstechnica.com/space/2025/08/texas-politicians-warn-smithsonian-it-must-not-lobby-to-retain-its-space-shuttle/)
