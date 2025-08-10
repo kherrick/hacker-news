@@ -24,10 +24,10 @@
 * [2025-08-06, 17:40:40](https://news.ycombinator.com/item?id=44815164) - [Testing Bitchat at the music festival](https://primal.net/saunter/testing-bitchat-at-the-music-festival)
 * [2025-08-06, 16:57:08](https://news.ycombinator.com/item?id=44814587) - [Consistency over Availability: How rqlite Handles the CAP theorem](https://philipotoole.com/consistency-over-availability-how-rqlite-handles-the-cap-theorem/)
 * [2025-08-06, 15:17:22](https://news.ycombinator.com/item?id=44813175) - [A Simple CPU on the Game of Life (2021)](https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html)
+* [2025-08-06, 14:36:08](https://news.ycombinator.com/item?id=44812613) - [How Potatoes Evolved](https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html)
 * [2025-08-06, 12:14:47](https://news.ycombinator.com/item?id=44810945) - [Who got arrested in the raid on the XSS crime forum?](https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/)
 * [2025-08-06, 12:08:22](https://news.ycombinator.com/item?id=44810890) - [Don't “let it crash”, let it heal](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
 * [2025-08-06, 11:26:18](https://news.ycombinator.com/item?id=44810565) - [Suzhou Imperial Kiln Ruins Park and Museum of Imperial Kiln Brick (2018)](https://www.theplan.it/eng/award-2018-Culture/suzhou-imperial-kiln-ruins-park-museum-of-imperial-kiln-brick-1)
-* [2025-08-06, 10:06:03](https://news.ycombinator.com/item?id=44810047) - [Installing a mini-split AC in a Brooklyn apartment](https://probablydance.com/2025/08/04/installing-a-mini-split-ac-in-a-brooklyn-apartment/)
 * [2025-08-06, 08:09:09](https://news.ycombinator.com/item?id=44809166) - [How I use Tailscale](https://chameth.com/how-i-use-tailscale/)
 * [2025-08-05, 16:18:53](https://news.ycombinator.com/item?id=44800048) - [Quickshell – building blocks for your desktop](https://quickshell.org/)
 
