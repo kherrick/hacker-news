@@ -72,6 +72,7 @@
 * [2025-08-06, 12:30:50](https://news.ycombinator.com/item?id=44811098) - [Gateway pattern for external service calls](http://rednafi.com/go/gateway_pattern/)
 * [2025-08-06, 12:14:47](https://news.ycombinator.com/item?id=44810945) - [Who got arrested in the raid on the XSS crime forum?](https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/)
 * [2025-08-06, 12:12:04](https://news.ycombinator.com/item?id=44810916) - [I bought a £16 smartwatch just because it used USB-C](https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/)
+* [2025-08-06, 12:08:22](https://news.ycombinator.com/item?id=44810890) - [Don't “let it crash”, let it heal](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
 * [2025-08-06, 12:02:14](https://news.ycombinator.com/item?id=44810847) - [Caligra Workbench](https://caligra.com/workbench/)
 * [2025-08-06, 11:57:21](https://news.ycombinator.com/item?id=44810804) - [The Future of Small Presses in the Aftermath of the NEA Grant Chaos](https://lithub.com/on-the-future-of-small-presses-in-the-aftermath-of-the-nea-grant-chaos/)
 * [2025-08-06, 11:44:52](https://news.ycombinator.com/item?id=44810708) - [Israel relying on Microsoft cloud for expansive surveillance of Palestinians](https://www.theguardian.com/world/2025/aug/06/microsoft-israeli-military-palestinian-phone-calls-cloud)
