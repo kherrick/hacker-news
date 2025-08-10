@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-10, 22:38:35](https://news.ycombinator.com/item?id=44858915) - [Prominent Al Jazeera journalist killed in Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)
 * [2025-08-10, 22:35:03](https://news.ycombinator.com/item?id=44858892) - [Compiling a Lisp: Lambda Lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
 * [2025-08-10, 21:54:56](https://news.ycombinator.com/item?id=44858641) - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
-* [2025-08-10, 21:50:13](https://news.ycombinator.com/item?id=44858612) - [Hire People Who Care](https://alexw.substack.com/p/hire)
 * [2025-08-10, 21:20:53](https://news.ycombinator.com/item?id=44858401) - [A large number of protocols on Ethereum and Solana blockchains have no revenue](https://www.coindesk.com/markets/2025/07/23/disguised-unemployment-in-blockchain-data-shows-only-12-of-ethereum-25-of-solana-protocols-have-revenue)
 * [2025-08-10, 21:19:06](https://news.ycombinator.com/item?id=44858385) - [Why insurers worry the world could soon become uninsurable](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html)
 * [2025-08-10, 20:48:46](https://news.ycombinator.com/item?id=44858154) - [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
