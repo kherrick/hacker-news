@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-10, 13:44:05](https://news.ycombinator.com/item?id=44855157) - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
 * [2025-08-10, 13:15:33](https://news.ycombinator.com/item?id=44854989) - [Inside OS/2](https://gitpi.us/article-archive/inside-os2/)
 * [2025-08-10, 12:02:46](https://news.ycombinator.com/item?id=44854623) - [The 5 stages of SaaS Death](https://arnon.dk/the-5-stages-of-saas-death/)
 * [2025-08-10, 11:45:41](https://news.ycombinator.com/item?id=44854545) - [Adult sites are stashing exploit code inside racy .svg files](https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/)
@@ -22,7 +23,6 @@
 * [2025-08-09, 13:31:30](https://news.ycombinator.com/item?id=44846318) - [OpenFreeMap survived 100k requests per second](https://blog.hyperknot.com/p/openfreemap-survived-100000-requests)
 * [2025-08-09, 13:25:16](https://news.ycombinator.com/item?id=44846281) - [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)
 * [2025-08-09, 13:01:31](https://news.ycombinator.com/item?id=44846164) - [Long-term exposure to outdoor air pollution linked to increased risk of dementia](https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia)
-* [2025-08-09, 09:54:31](https://news.ycombinator.com/item?id=44845273) - [Did California's fast food minimum wage reduce employment?](https://www.nber.org/papers/w34033)
 * [2025-08-08, 20:19:10](https://news.ycombinator.com/item?id=44841262) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
 * [2025-08-07, 13:16:52](https://news.ycombinator.com/item?id=44824088) - [People returned to live in Pompeii's ruins, archaeologists say](https://www.bbc.com/news/articles/c62wx23y2v1o)
 * [2025-08-06, 21:18:52](https://news.ycombinator.com/item?id=44817979) - [P-fast trie, but smaller](https://dotat.at/@/2025-08-06-p-fast-trie.html)
