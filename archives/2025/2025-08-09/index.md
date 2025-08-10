@@ -7,6 +7,7 @@
 * [2025-08-09, 23:07:58](https://news.ycombinator.com/item?id=44851214) - [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
 * [2025-08-09, 22:27:37](https://news.ycombinator.com/item?id=44850913) - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 * [2025-08-09, 21:59:43](https://news.ycombinator.com/item?id=44850681) - [Consent and Compromise: How We Got Access to 22 Internal Microsoft Services](https://research.eye.security/consent-and-compromise/)
+* [2025-08-09, 21:10:16](https://news.ycombinator.com/item?id=44850260) - [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
 * [2025-08-09, 20:48:00](https://news.ycombinator.com/item?id=44850063) - [\"The Hollow Men\" at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
 * [2025-08-09, 20:23:25](https://news.ycombinator.com/item?id=44849845) - [Jen Pawol becomes first woman to umpire a Major League Baseball game](https://apnews.com/article/pawol-female-umpire-marlins-braves-0ae34533ea49f1e400a1c39e8be6f30e)
 * [2025-08-09, 19:17:32](https://news.ycombinator.com/item?id=44849269) - [JD Vance's team had water level of Ohio river raised for family's boating trip](https://www.theguardian.com/us-news/2025/aug/06/jd-vance-ohio-lake-water-levels)

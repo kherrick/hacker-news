@@ -78,6 +78,7 @@
 * [2025-08-06, 11:44:52](https://news.ycombinator.com/item?id=44810708) - [Israel relying on Microsoft cloud for expansive surveillance of Palestinians](https://www.theguardian.com/world/2025/aug/06/microsoft-israeli-military-palestinian-phone-calls-cloud)
 * [2025-08-06, 11:43:12](https://news.ycombinator.com/item?id=44810695) - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
 * [2025-08-06, 11:27:27](https://news.ycombinator.com/item?id=44810574) - [Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
+* [2025-08-06, 11:26:18](https://news.ycombinator.com/item?id=44810565) - [Suzhou Imperial Kiln Ruins Park and Museum of Imperial Kiln Brick (2018)](https://www.theplan.it/eng/award-2018-Culture/suzhou-imperial-kiln-ruins-park-museum-of-imperial-kiln-brick-1)
 * [2025-08-06, 11:23:42](https://news.ycombinator.com/item?id=44810552) - [NautilusTrader: Open-Source, High-Performance Algorithmic Trading Platform](https://nautilustrader.io/)
 * [2025-08-06, 10:44:38](https://news.ycombinator.com/item?id=44810307) - [LLM Inflation](https://tratt.net/laurie/blog/2025/llm_inflation.html)
 * [2025-08-06, 10:41:43](https://news.ycombinator.com/item?id=44810284) - [Show HN: HMPL – Small Template Language for Rendering UI from Server to Client](https://github.com/hmpl-language/hmpl)
