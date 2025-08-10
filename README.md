@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-10, 10:10:54](https://news.ycombinator.com/item?id=44854120) - [Open Lovable](https://github.com/mendableai/open-lovable)
 * [2025-08-10, 09:50:25](https://news.ycombinator.com/item?id=44854035) - [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
 * [2025-08-10, 06:26:42](https://news.ycombinator.com/item?id=44853184) - [Microsoft POML – Prompt Orchestration Markup Language](https://github.com/microsoft/poml)
 * [2025-08-10, 05:56:14](https://news.ycombinator.com/item?id=44853064) - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
@@ -18,7 +19,6 @@
 * [2025-08-09, 12:54:09](https://news.ycombinator.com/item?id=44846130) - [Stanford to continue legacy admissions and withdraw from Cal Grants](https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/)
 * [2025-08-09, 12:21:31](https://news.ycombinator.com/item?id=44845957) - [R0ML's Ratio](https://blog.glyph.im/2025/08/r0mls-ratio.html)
 * [2025-08-09, 09:54:31](https://news.ycombinator.com/item?id=44845273) - [Did California's fast food minimum wage reduce employment?](https://www.nber.org/papers/w34033)
-* [2025-08-09, 09:49:11](https://news.ycombinator.com/item?id=44845251) - [An engineer's perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
 * [2025-08-08, 23:11:28](https://news.ycombinator.com/item?id=44842635) - [GTP Blind Voting: GPT-5 vs. 4o](https://gptblindvoting.vercel.app/)
 * [2025-08-08, 20:19:10](https://news.ycombinator.com/item?id=44841262) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
 * [2025-08-07, 13:16:52](https://news.ycombinator.com/item?id=44824088) - [People returned to live in Pompeii's ruins, archaeologists say](https://www.bbc.com/news/articles/c62wx23y2v1o)
