@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 23:31:17](https://news.ycombinator.com/item?id=44819057) - [My Dream Productivity Device Is Done – and It's Becoming a Kit [video]](https://www.youtube.com/watch?v=pf3BxNq1cp4)
 * [2025-08-06, 23:29:11](https://news.ycombinator.com/item?id=44819037) - [Rules by Which a Great Empire May Be Reduced to a Small One](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
 * [2025-08-06, 23:18:07](https://news.ycombinator.com/item?id=44818957) - [Out-Fibbing CPython with the Plush Interpreter](https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/)
 * [2025-08-06, 23:13:33](https://news.ycombinator.com/item?id=44818925) - [Apple increases US commitment to $600B, announces American Manufacturing Program](https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/)
