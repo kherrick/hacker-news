@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 18:31:05](https://news.ycombinator.com/item?id=44857205) - [South Korea's military has shrunk by 20% in six years as male population drops](https://www.channelnewsasia.com/east-asia/south-koreas-military-has-shrunk-20-in-six-years-male-population-drops-5287301)
 * [2025-08-10, 17:53:09](https://news.ycombinator.com/item?id=44856935) - [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
 * [2025-08-10, 17:19:25](https://news.ycombinator.com/item?id=44856667) - [Type (YC W23) is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
 * [2025-08-10, 16:50:34](https://news.ycombinator.com/item?id=44856426) - [Fight Chat Control](https://fightchatcontrol.eu/)
