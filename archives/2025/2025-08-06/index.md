@@ -29,6 +29,7 @@
 * [2025-08-06, 18:32:27](https://news.ycombinator.com/item?id=44815823) - [Did we just lose $7 billion for solar?](https://www.vox.com/the-logoff-newsletter-trump/422456/trump-epa-solar-panels-grants-funding-attack)
 * [2025-08-06, 18:23:19](https://news.ycombinator.com/item?id=44815718) - [Vibe Coding the MIT Course Catalog](https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/)
 * [2025-08-06, 18:21:28](https://news.ycombinator.com/item?id=44815702) - [A Fast, Growable Array with Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
+* [2025-08-06, 18:03:19](https://news.ycombinator.com/item?id=44815480) - [How to interactively debug GitHub Actions with netcat](https://jacobtomlinson.dev/posts/2021/how-to-interactively-debug-github-actions-with-netcat/)
 * [2025-08-06, 17:57:57](https://news.ycombinator.com/item?id=44815405) - [Gleam v1.12.0 Released](https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md)
 * [2025-08-06, 17:40:40](https://news.ycombinator.com/item?id=44815164) - [Testing Bitchat at the music festival](https://primal.net/saunter/testing-bitchat-at-the-music-festival)
 * [2025-08-06, 17:38:43](https://news.ycombinator.com/item?id=44815136) - [Pirating Books in the 1600s](https://www.swanngalleries.com/news/books/2024/04/a-brief-publishing-history-of-don-quixote/)
