@@ -63,6 +63,7 @@
 * [2025-08-07, 12:26:56](https://news.ycombinator.com/item?id=44823580) - [Arm Desktop: x86 Emulation](https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/)
 * [2025-08-07, 12:01:09](https://news.ycombinator.com/item?id=44823354) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=44823354)
 * [2025-08-07, 11:52:28](https://news.ycombinator.com/item?id=44823288) - [Ultra-Processed Foods Make Up More Than 60% of US Kids' Diets](https://www.bloomberg.com/news/articles/2025-08-07/sugar-snacks-and-ultra-processed-foods-are-majority-of-us-diet)
+* [2025-08-07, 11:49:17](https://news.ycombinator.com/item?id=44823272) - [PHP compile time generics: yay or nay?](https://thephp.foundation/blog/2025/08/05/compile-generics/)
 * [2025-08-07, 11:48:11](https://news.ycombinator.com/item?id=44823262) - [Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust](https://github.com/stasher-dev/stasher-cli)
 * [2025-08-07, 11:47:41](https://news.ycombinator.com/item?id=44823260) - [\"AI hype\" is the true AI product](https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is)
 * [2025-08-07, 11:26:33](https://news.ycombinator.com/item?id=44823130) - [The Emperor's New Trade Deal – Paul Krugman](https://paulkrugman.substack.com/p/the-emperors-new-trade-deal)

@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 20:48:46](https://news.ycombinator.com/item?id=44858154) - [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
+* [2025-08-10, 20:30:34](https://news.ycombinator.com/item?id=44858067) - [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
+* [2025-08-10, 20:22:24](https://news.ycombinator.com/item?id=44858009) - [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
+* [2025-08-10, 20:06:05](https://news.ycombinator.com/item?id=44857882) - [The great myth of empire collapse](https://aeon.co/essays/the-great-myth-of-empire-collapse)
 * [2025-08-10, 18:31:05](https://news.ycombinator.com/item?id=44857205) - [South Korea's military has shrunk by 20% in six years as male population drops](https://www.channelnewsasia.com/east-asia/south-koreas-military-has-shrunk-20-in-six-years-male-population-drops-5287301)
 * [2025-08-10, 17:53:09](https://news.ycombinator.com/item?id=44856935) - [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
 * [2025-08-10, 17:19:25](https://news.ycombinator.com/item?id=44856667) - [Type (YC W23) is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
