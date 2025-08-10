@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-10, 17:53:09",
+      "https://news.ycombinator.com/item?id=44856935"
+    ],
+    [
+      "Show HN: Bolt – A super-fast, statically-typed scripting language written in C",
+      "https://github.com/Beariish/bolt"
+    ]
+  ],
+  [
+    [
       "2025-08-10, 17:19:25",
       "https://news.ycombinator.com/item?id=44856667"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-08-10, 16:02:17",
-      "https://news.ycombinator.com/item?id=44856090"
-    ],
-    [
-      "AOL closes its dial up internet service",
-      "https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html"
-    ]
-  ],
-  [
-    [
       "2025-08-10, 15:33:06",
       "https://news.ycombinator.com/item?id=44855881"
     ],
@@ -87,6 +87,16 @@
     [
       "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
       "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the"
+    ]
+  ],
+  [
+    [
+      "2025-08-10, 14:33:26",
+      "https://news.ycombinator.com/item?id=44855469"
+    ],
+    [
+      "LHC's New Chip Tackles Radiation Challenges",
+      "https://spectrum.ieee.org/lhc-radiation-chip"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2025-08-09, 20:48:00",
-      "https://news.ycombinator.com/item?id=44850063"
-    ],
-    [
-      "“The Hollow Men” at 100",
-      "https://prufrock.substack.com/p/the-the-hollow-men-at-100"
-    ]
-  ],
-  [
-    [
       "2025-08-09, 17:17:07",
       "https://news.ycombinator.com/item?id=44848293"
     ],
     [
       "A CT scanner reveals surprises inside the 386 processor's ceramic package",
       "https://www.righto.com/2025/08/intel-386-package-ct-scan.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 16:17:16",
+      "https://news.ycombinator.com/item?id=44847741"
+    ],
+    [
+      "The current state of LLM-driven development",
+      "http://blog.tolki.dev/posts/2025/08-07-llms/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Framework Desktop is a beast",
       "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 14:54:50",
-      "https://news.ycombinator.com/item?id=44837750"
-    ],
-    [
-      "Show HN: A free physics puzzle game with ragdoll mechanics",
-      "https://plonky.top/"
     ]
   ],
   [
