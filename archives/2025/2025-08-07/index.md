@@ -91,3 +91,4 @@
 * [2025-08-07, 01:42:18](https://news.ycombinator.com/item?id=44819738) - [A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A](https://arxiv.org/abs/2508.03814)
 * [2025-08-07, 01:26:14](https://news.ycombinator.com/item?id=44819668) - [VIN: The 17-character code that runs the automotive world](https://cardog.app/blog/whats-a-vin)
 * [2025-08-07, 00:20:53](https://news.ycombinator.com/item?id=44819352) - [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
+* [2025-08-07, 00:19:29](https://news.ycombinator.com/item?id=44819346) - [Microsoft's Windows XP Crocs](https://www.theverge.com/microsoft/717965/microsoft-crocs-windows-xp-bliss-wallpaper-theme)

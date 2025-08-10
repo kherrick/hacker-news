@@ -2,7 +2,6 @@
 
 * [2025-08-10, 22:35:03](https://news.ycombinator.com/item?id=44858892) - [Compiling a Lisp: Lambda Lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
 * [2025-08-10, 21:54:56](https://news.ycombinator.com/item?id=44858641) - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
-* [2025-08-10, 21:10:19](https://news.ycombinator.com/item?id=44858310) - [Ask HN: Would you get a CS degree today?](https://news.ycombinator.com/item?id=44858310)
 * [2025-08-10, 20:48:46](https://news.ycombinator.com/item?id=44858154) - [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
 * [2025-08-10, 20:30:34](https://news.ycombinator.com/item?id=44858067) - [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
 * [2025-08-10, 20:22:24](https://news.ycombinator.com/item?id=44858009) - [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
@@ -28,6 +27,7 @@
 * [2025-08-07, 15:31:42](https://news.ycombinator.com/item?id=44825801) - [Battery charge limiter for Apple Silicon MacBook devices](https://github.com/actuallymentor/battery)
 * [2025-08-07, 14:57:34](https://news.ycombinator.com/item?id=44825347) - [Creating the Longest Possible Ski Jump in \"The Games: Winter Challenge\"](https://mrwint.github.io/winter/writeup/writeup2.html)
 * [2025-08-07, 11:49:17](https://news.ycombinator.com/item?id=44823272) - [PHP compile time generics: yay or nay?](https://thephp.foundation/blog/2025/08/05/compile-generics/)
+* [2025-08-07, 00:19:29](https://news.ycombinator.com/item?id=44819346) - [Microsoft's Windows XP Crocs](https://www.theverge.com/microsoft/717965/microsoft-crocs-windows-xp-bliss-wallpaper-theme)
 * [2025-08-06, 23:31:17](https://news.ycombinator.com/item?id=44819057) - [My Dream Productivity Device Is Done – and It's Becoming a Kit [video]](https://www.youtube.com/watch?v=pf3BxNq1cp4)
 * [2025-08-06, 22:16:00](https://news.ycombinator.com/item?id=44818501) - [ECScape: Understanding IAM Privilege Boundaries in Amazon ECS](https://www.sweet.security/blog/ecscape-understanding-iam-privilege-boundaries-in-amazon-ecs)
 
