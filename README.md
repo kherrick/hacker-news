@@ -23,7 +23,7 @@
 * [2025-08-08, 20:19:10](https://news.ycombinator.com/item?id=44841262) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
 * [2025-08-07, 13:16:52](https://news.ycombinator.com/item?id=44824088) - [People returned to live in Pompeii's ruins, archaeologists say](https://www.bbc.com/news/articles/c62wx23y2v1o)
 * [2025-08-06, 21:18:52](https://news.ycombinator.com/item?id=44817979) - [P-fast trie, but smaller](https://dotat.at/@/2025-08-06-p-fast-trie.html)
-* [2025-08-06, 15:17:22](https://news.ycombinator.com/item?id=44813175) - [A Simple CPU on the Game of Life (2021)](https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html)
+* [2025-08-06, 18:03:19](https://news.ycombinator.com/item?id=44815480) - [How to interactively debug GitHub Actions with netcat](https://jacobtomlinson.dev/posts/2021/how-to-interactively-debug-github-actions-with-netcat/)
 * [2025-08-06, 14:36:08](https://news.ycombinator.com/item?id=44812613) - [How Potatoes Evolved](https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html)
 * [2025-08-06, 12:14:47](https://news.ycombinator.com/item?id=44810945) - [Who got arrested in the raid on the XSS crime forum?](https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/)
 * [2025-08-06, 12:08:22](https://news.ycombinator.com/item?id=44810890) - [Don't “let it crash”, let it heal](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
