@@ -42,6 +42,7 @@
 * [2025-08-08, 15:26:45](https://news.ycombinator.com/item?id=44838170) - [Programming with AI: You're Probably Doing It Wrong](https://www.devroom.io/2025/08/08/programming-with-ai-youre-probably-doing-it-wrong/)
 * [2025-08-08, 15:04:40](https://news.ycombinator.com/item?id=44837875) - [AI must RTFM: Why tech writers are becoming context curators](https://passo.uno/from-tech-writers-to-ai-context-curators/)
 * [2025-08-08, 14:57:06](https://news.ycombinator.com/item?id=44837783) - [AI is impressive because we've failed at personal computing](https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing)
+* [2025-08-08, 14:54:50](https://news.ycombinator.com/item?id=44837750) - [Show HN: A free physics puzzle game with ragdoll mechanics](https://plonky.top/)
 * [2025-08-08, 14:46:53](https://news.ycombinator.com/item?id=44837646) - [Google's Genie is more impressive than GPT5](https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant)
 * [2025-08-08, 14:43:01](https://news.ycombinator.com/item?id=44837601) - [Open SWE by LangChain](https://swe.langchain.com/)
 * [2025-08-08, 14:29:54](https://news.ycombinator.com/item?id=44837434) - [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
