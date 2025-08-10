@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-10, 17:19:25](https://news.ycombinator.com/item?id=44856667) - [Type (YC W23) is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
+* [2025-08-10, 16:31:27](https://news.ycombinator.com/item?id=44856301) - [Sunlight-activated material turns PFAS in water into harmless fluoride](https://phys.org/news/2025-08-sunlight-material-pfas-harmless-fluoride.html)
 * [2025-08-10, 16:23:35](https://news.ycombinator.com/item?id=44856233) - [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff)
 * [2025-08-10, 16:04:05](https://news.ycombinator.com/item?id=44856101) - [Diffusion Language Models Are Super Data Learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 * [2025-08-10, 16:02:17](https://news.ycombinator.com/item?id=44856090) - [AOL closes its dial up internet service](https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html)
@@ -22,7 +23,6 @@
 * [2025-08-09, 21:59:43](https://news.ycombinator.com/item?id=44850681) - [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
 * [2025-08-09, 21:10:16](https://news.ycombinator.com/item?id=44850260) - [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
 * [2025-08-09, 20:48:00](https://news.ycombinator.com/item?id=44850063) - [“The Hollow Men” at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
-* [2025-08-09, 18:59:37](https://news.ycombinator.com/item?id=44849129) - [Ch.at – A lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
 * [2025-08-09, 17:17:07](https://news.ycombinator.com/item?id=44848293) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 16:17:16](https://news.ycombinator.com/item?id=44847741) - [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
 * [2025-08-09, 14:47:38](https://news.ycombinator.com/item?id=44846922) - [My Lethal Trifecta talk at the Bay Area AI Security Meetup](https://simonwillison.net/2025/Aug/9/bay-area-ai/)
