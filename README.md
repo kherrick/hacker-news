@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-10, 15:33:06](https://news.ycombinator.com/item?id=44855881) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
 * [2025-08-10, 15:06:07](https://news.ycombinator.com/item?id=44855690) - [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
 * [2025-08-10, 13:44:05](https://news.ycombinator.com/item?id=44855157) - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
 * [2025-08-10, 13:32:13](https://news.ycombinator.com/item?id=44855079) - [Try and](https://ygdp.yale.edu/phenomena/try-and)
@@ -25,7 +26,6 @@
 * [2025-08-09, 13:01:31](https://news.ycombinator.com/item?id=44846164) - [Long-term exposure to outdoor air pollution linked to increased risk of dementia](https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia)
 * [2025-08-09, 09:54:31](https://news.ycombinator.com/item?id=44845273) - [Did California's fast food minimum wage reduce employment?](https://www.nber.org/papers/w34033)
 * [2025-08-08, 20:19:10](https://news.ycombinator.com/item?id=44841262) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
-* [2025-08-07, 13:16:52](https://news.ycombinator.com/item?id=44824088) - [People returned to live in Pompeii's ruins, archaeologists say](https://www.bbc.com/news/articles/c62wx23y2v1o)
 * [2025-08-06, 21:18:52](https://news.ycombinator.com/item?id=44817979) - [P-fast trie, but smaller](https://dotat.at/@/2025-08-06-p-fast-trie.html)
 * [2025-08-06, 14:36:08](https://news.ycombinator.com/item?id=44812613) - [How Potatoes Evolved](https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html)
 * [2025-08-06, 12:08:22](https://news.ycombinator.com/item?id=44810890) - [Don't “let it crash”, let it heal](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
