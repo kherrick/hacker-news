@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 15:06:07](https://news.ycombinator.com/item?id=44855690) - [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
 * [2025-08-10, 14:42:46](https://news.ycombinator.com/item?id=44855530) - [NASA finds multi-billion-year-old 'coral' on Mars](https://www.livescience.com/space/mars/nasa-finds-multi-billion-year-old-coral-on-mars)
 * [2025-08-10, 13:44:05](https://news.ycombinator.com/item?id=44855157) - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
 * [2025-08-10, 13:32:13](https://news.ycombinator.com/item?id=44855079) - [Try and](https://ygdp.yale.edu/phenomena/try-and)
