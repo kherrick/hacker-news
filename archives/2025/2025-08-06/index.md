@@ -78,6 +78,7 @@
 * [2025-08-06, 11:57:21](https://news.ycombinator.com/item?id=44810804) - [The Future of Small Presses in the Aftermath of the NEA Grant Chaos](https://lithub.com/on-the-future-of-small-presses-in-the-aftermath-of-the-nea-grant-chaos/)
 * [2025-08-06, 11:44:52](https://news.ycombinator.com/item?id=44810708) - [Israel relying on Microsoft cloud for expansive surveillance of Palestinians](https://www.theguardian.com/world/2025/aug/06/microsoft-israeli-military-palestinian-phone-calls-cloud)
 * [2025-08-06, 11:43:12](https://news.ycombinator.com/item?id=44810695) - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
+* [2025-08-06, 11:29:13](https://news.ycombinator.com/item?id=44810587) - [Boundaries Are in the Eye of the Beholder (2024)](https://planktonvalhalla.com/20240227-boundaries-are-in-the-eye-of-the-beholder/)
 * [2025-08-06, 11:27:27](https://news.ycombinator.com/item?id=44810574) - [Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
 * [2025-08-06, 11:26:18](https://news.ycombinator.com/item?id=44810565) - [Suzhou Imperial Kiln Ruins Park and Museum of Imperial Kiln Brick (2018)](https://www.theplan.it/eng/award-2018-Culture/suzhou-imperial-kiln-ruins-park-museum-of-imperial-kiln-brick-1)
 * [2025-08-06, 11:23:42](https://news.ycombinator.com/item?id=44810552) - [NautilusTrader: Open-Source, High-Performance Algorithmic Trading Platform](https://nautilustrader.io/)
