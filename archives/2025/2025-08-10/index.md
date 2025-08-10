@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 21:50:13](https://news.ycombinator.com/item?id=44858612) - [Hire People Who Care](https://alexw.substack.com/p/hire)
 * [2025-08-10, 21:20:53](https://news.ycombinator.com/item?id=44858401) - [Data Shows Only 12% of Ethereum, 25% of Solana Protocols Have Revenue](https://www.coindesk.com/markets/2025/07/23/disguised-unemployment-in-blockchain-data-shows-only-12-of-ethereum-25-of-solana-protocols-have-revenue)
 * [2025-08-10, 21:19:06](https://news.ycombinator.com/item?id=44858385) - [Why insurers worry the world could soon become uninsurable](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html)
+* [2025-08-10, 21:10:19](https://news.ycombinator.com/item?id=44858310) - [Ask HN: Would you get a CS degree today?](https://news.ycombinator.com/item?id=44858310)
 * [2025-08-10, 20:48:46](https://news.ycombinator.com/item?id=44858154) - [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
 * [2025-08-10, 20:30:34](https://news.ycombinator.com/item?id=44858067) - [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
 * [2025-08-10, 20:22:24](https://news.ycombinator.com/item?id=44858009) - [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
