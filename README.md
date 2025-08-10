@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-10, 18:31:05](https://news.ycombinator.com/item?id=44857205) - [South Korea's military has shrunk by 20% in six years as male population drops](https://www.channelnewsasia.com/east-asia/south-koreas-military-has-shrunk-20-in-six-years-male-population-drops-5287301)
 * [2025-08-10, 17:53:09](https://news.ycombinator.com/item?id=44856935) - [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
 * [2025-08-10, 17:19:25](https://news.ycombinator.com/item?id=44856667) - [Type (YC W23) is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
 * [2025-08-10, 16:50:34](https://news.ycombinator.com/item?id=44856426) - [Fight Chat Control](https://fightchatcontrol.eu/)
@@ -15,6 +14,7 @@
 * [2025-08-10, 13:15:33](https://news.ycombinator.com/item?id=44854989) - [Inside OS/2 (1987)](https://gitpi.us/article-archive/inside-os2/)
 * [2025-08-10, 12:53:27](https://news.ycombinator.com/item?id=44854860) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin)
 * [2025-08-10, 11:41:34](https://news.ycombinator.com/item?id=44854525) - [Booting 5000 Erlangs on Ampere One 192-core](https://underjord.io/booting-5000-erlangs-on-ampere-one.html)
+* [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs Aren't World Models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-10, 10:10:54](https://news.ycombinator.com/item?id=44854120) - [Open Lovable](https://github.com/mendableai/open-lovable)
 * [2025-08-10, 09:50:25](https://news.ycombinator.com/item?id=44854035) - [Writing simple tab-completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
 * [2025-08-10, 06:26:42](https://news.ycombinator.com/item?id=44853184) - [POML: Prompt Orchestration Markup Language](https://github.com/microsoft/poml)
@@ -24,10 +24,10 @@
 * [2025-08-09, 21:59:43](https://news.ycombinator.com/item?id=44850681) - [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
 * [2025-08-09, 21:10:16](https://news.ycombinator.com/item?id=44850260) - [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
 * [2025-08-09, 20:48:00](https://news.ycombinator.com/item?id=44850063) - [“The Hollow Men” at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
-* [2025-08-09, 18:59:37](https://news.ycombinator.com/item?id=44849129) - [Ch.at – A lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
 * [2025-08-09, 17:17:07](https://news.ycombinator.com/item?id=44848293) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 16:17:16](https://news.ycombinator.com/item?id=44847741) - [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
 * [2025-08-08, 20:19:10](https://news.ycombinator.com/item?id=44841262) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
+* [2025-08-07, 14:57:34](https://news.ycombinator.com/item?id=44825347) - [Creating the Longest Possible Ski Jump in \"The Games: Winter Challenge\"](https://mrwint.github.io/winter/writeup/writeup2.html)
 * [2025-08-06, 23:31:17](https://news.ycombinator.com/item?id=44819057) - [My Dream Productivity Device Is Done – and It's Becoming a Kit [video]](https://www.youtube.com/watch?v=pf3BxNq1cp4)
 * [2025-08-06, 14:36:08](https://news.ycombinator.com/item?id=44812613) - [How Potatoes Evolved](https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html)
 

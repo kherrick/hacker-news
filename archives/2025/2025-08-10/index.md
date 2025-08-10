@@ -25,6 +25,7 @@
 * [2025-08-10, 12:02:46](https://news.ycombinator.com/item?id=44854623) - [The 5 stages of SaaS Death](https://arnon.dk/the-5-stages-of-saas-death/)
 * [2025-08-10, 11:45:41](https://news.ycombinator.com/item?id=44854545) - [Adult sites are stashing exploit code inside racy .svg files](https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/)
 * [2025-08-10, 11:41:34](https://news.ycombinator.com/item?id=44854525) - [Booting 5000 Erlangs on Ampere One 192-core](https://underjord.io/booting-5000-erlangs-on-ampere-one.html)
+* [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs Aren't World Models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-10, 11:38:44](https://news.ycombinator.com/item?id=44854508) - [Hyprland: Latest Wayland features, dynamic tiling, eyecandy, powerful plugins](https://hypr.land/)
 * [2025-08-10, 10:10:54](https://news.ycombinator.com/item?id=44854120) - [Open Lovable](https://github.com/mendableai/open-lovable)
 * [2025-08-10, 09:50:25](https://news.ycombinator.com/item?id=44854035) - [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
