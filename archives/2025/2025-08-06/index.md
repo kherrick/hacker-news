@@ -86,6 +86,7 @@
 * [2025-08-06, 10:41:43](https://news.ycombinator.com/item?id=44810284) - [Show HN: HMPL – Small Template Language for Rendering UI from Server to Client](https://github.com/hmpl-language/hmpl)
 * [2025-08-06, 10:41:01](https://news.ycombinator.com/item?id=44810281) - [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
 * [2025-08-06, 10:39:01](https://news.ycombinator.com/item?id=44810260) - [The Magic of Herding](https://nautil.us/the-magic-of-herding-1229248/)
+* [2025-08-06, 10:20:10](https://news.ycombinator.com/item?id=44810144) - [The importance of offtopic](https://blog.tadzik.net/the-importance-of-offtopic.html)
 * [2025-08-06, 10:07:40](https://news.ycombinator.com/item?id=44810061) - [Japan: Apple Must Lift Browser Engine Ban by December](https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/)
 * [2025-08-06, 10:06:45](https://news.ycombinator.com/item?id=44810057) - [Which Colors Are Primary?](https://jamesgurney.substack.com/p/which-colors-are-primary)
 * [2025-08-06, 10:06:03](https://news.ycombinator.com/item?id=44810047) - [Installing a Mini-Split AC in a Brooklyn Apartment](https://probablydance.com/2025/08/04/installing-a-mini-split-ac-in-a-brooklyn-apartment/)
