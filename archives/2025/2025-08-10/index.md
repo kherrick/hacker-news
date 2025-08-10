@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 22:35:03](https://news.ycombinator.com/item?id=44858892) - [Compiling a Lisp: Lambda Lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
+* [2025-08-10, 21:54:56](https://news.ycombinator.com/item?id=44858641) - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
 * [2025-08-10, 21:50:13](https://news.ycombinator.com/item?id=44858612) - [Hire People Who Care](https://alexw.substack.com/p/hire)
 * [2025-08-10, 21:20:53](https://news.ycombinator.com/item?id=44858401) - [Data Shows Only 12% of Ethereum, 25% of Solana Protocols Have Revenue](https://www.coindesk.com/markets/2025/07/23/disguised-unemployment-in-blockchain-data-shows-only-12-of-ethereum-25-of-solana-protocols-have-revenue)
 * [2025-08-10, 21:19:06](https://news.ycombinator.com/item?id=44858385) - [Why insurers worry the world could soon become uninsurable](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html)

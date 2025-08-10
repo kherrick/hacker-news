@@ -36,6 +36,7 @@
 * [2025-08-07, 15:56:01](https://news.ycombinator.com/item?id=44826164) - [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/)
 * [2025-08-07, 15:51:00](https://news.ycombinator.com/item?id=44826095) - [Google confirms it has been hacked](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)
 * [2025-08-07, 15:32:24](https://news.ycombinator.com/item?id=44825809) - [Budget Car Buyers Want Automakers to K.I.S.S](https://www.thedrive.com/news/budget-car-buyers-want-automakers-to-k-i-s-s)
+* [2025-08-07, 15:31:42](https://news.ycombinator.com/item?id=44825801) - [Battery charge limiter for Apple Silicon MacBook devices](https://github.com/actuallymentor/battery)
 * [2025-08-07, 15:20:56](https://news.ycombinator.com/item?id=44825660) - [AWS Restored My Account: The Human Who Made the Difference](https://www.seuros.com/blog/aws-restored-account-plot-twist/)
 * [2025-08-07, 15:09:02](https://news.ycombinator.com/item?id=44825491) - [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
 * [2025-08-07, 14:57:34](https://news.ycombinator.com/item?id=44825347) - [Creating the Longest Possible Ski Jump in \"The Games: Winter Challenge\"](https://mrwint.github.io/winter/writeup/writeup2.html)
