@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-10, 16:23:35](https://news.ycombinator.com/item?id=44856233) - [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff)
 * [2025-08-10, 16:04:05](https://news.ycombinator.com/item?id=44856101) - [Diffusion Language Models Are Super Data Learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 * [2025-08-10, 16:02:17](https://news.ycombinator.com/item?id=44856090) - [AOL closes its dial up internet service](https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html)
 * [2025-08-10, 15:33:06](https://news.ycombinator.com/item?id=44855881) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
@@ -28,7 +29,6 @@
 * [2025-08-09, 13:25:16](https://news.ycombinator.com/item?id=44846281) - [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)
 * [2025-08-08, 20:19:10](https://news.ycombinator.com/item?id=44841262) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
 * [2025-08-06, 14:36:08](https://news.ycombinator.com/item?id=44812613) - [How Potatoes Evolved](https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html)
-* [2025-08-06, 12:08:22](https://news.ycombinator.com/item?id=44810890) - [Don't “let it crash”, let it heal](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
 * [2025-08-05, 16:18:53](https://news.ycombinator.com/item?id=44800048) - [Quickshell – building blocks for your desktop](https://quickshell.org/)
 
 ## [Archives](archives/index.md)

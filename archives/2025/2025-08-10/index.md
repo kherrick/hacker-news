@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 16:23:35](https://news.ycombinator.com/item?id=44856233) - [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff)
 * [2025-08-10, 16:04:05](https://news.ycombinator.com/item?id=44856101) - [Diffusion Language Models Are Super Data Learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 * [2025-08-10, 16:02:17](https://news.ycombinator.com/item?id=44856090) - [AOL closes its dial up internet service](https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html)
 * [2025-08-10, 15:33:06](https://news.ycombinator.com/item?id=44855881) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
