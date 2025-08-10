@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 17:53:09](https://news.ycombinator.com/item?id=44856935) - [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
 * [2025-08-10, 17:19:25](https://news.ycombinator.com/item?id=44856667) - [Type (YC W23) is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
 * [2025-08-10, 16:31:27](https://news.ycombinator.com/item?id=44856301) - [Sunlight-activated material turns PFAS in water into harmless fluoride](https://phys.org/news/2025-08-sunlight-material-pfas-harmless-fluoride.html)
 * [2025-08-10, 16:23:35](https://news.ycombinator.com/item?id=44856233) - [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff)
