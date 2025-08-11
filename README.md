@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-11, 06:55:37](https://news.ycombinator.com/item?id=44861412) - [Theft is not fair use](https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063)
+* [2025-08-11, 08:41:39](https://news.ycombinator.com/item?id=44862001) - [Al Jazeera condemns the assassination of its journalists by the IOF](https://network.aljazeera.net/en/press-releases/al-jazeera-condemns-assassination-its-journalists-israeli-occupation-forces)
+* [2025-08-11, 06:11:59](https://news.ycombinator.com/item?id=44861175) - [A ChatGPT Pro subscription costs 38.6 months of income in low-income countries](https://policykahani.substack.com/p/a-chatgpt-pro-subscription-costs)
 * [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
 * [2025-08-11, 05:19:01](https://news.ycombinator.com/item?id=44860932) - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 * [2025-08-11, 05:14:06](https://news.ycombinator.com/item?id=44860908) - [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
@@ -24,10 +25,9 @@
 * [2025-08-09, 22:27:37](https://news.ycombinator.com/item?id=44850913) - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 * [2025-08-08, 11:14:33](https://news.ycombinator.com/item?id=44835703) - [Dropbox announces new gen server hardware for higher efficiency and scalability](https://dropbox.tech/infrastructure/seventh-generation-server-hardware)
 * [2025-08-08, 05:02:23](https://news.ycombinator.com/item?id=44833607) - [The enduring puzzle of static electricity](https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven)
-* [2025-08-08, 04:34:54](https://news.ycombinator.com/item?id=44833448) - [Digital Foundry leaves IGN, now independent [video]](https://www.youtube.com/watch?v=tl7bIJ2yu4I)
-* [2025-08-08, 00:29:19](https://news.ycombinator.com/item?id=44832060) - [Reflections on Soviet Amateur Photography](https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/)
 * [2025-08-07, 14:57:34](https://news.ycombinator.com/item?id=44825347) - [Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”](https://mrwint.github.io/winter/writeup/writeup2.html)
 * [2025-08-07, 11:49:17](https://news.ycombinator.com/item?id=44823272) - [PHP compile time generics: yay or nay?](https://thephp.foundation/blog/2025/08/05/compile-generics/)
+* [2025-08-07, 10:23:12](https://news.ycombinator.com/item?id=44822730) - [Millau Viaduct](https://www.fosterandpartners.com/projects/millau-viaduct)
 * [2025-08-07, 08:37:29](https://news.ycombinator.com/item?id=44822076) - [Bouncing on trampolines to run eBPF programs](https://bootlin.com/blog/bouncing-on-trampolines-to-run-ebpf-programs/)
 * [2025-08-07, 08:04:04](https://news.ycombinator.com/item?id=44821848) - [Lists and Lists: Basics of Lisp through interactive fiction (1996)](https://eblong.com/zarf/zweb/lists/)
 

@@ -74,6 +74,7 @@
 * [2025-08-07, 11:20:35](https://news.ycombinator.com/item?id=44823094) - [AI ethics is being narrowed on purpose – just like privacy was](https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose)
 * [2025-08-07, 11:17:32](https://news.ycombinator.com/item?id=44823066) - [Schools are using AI surveillance to protect students. Sometimes arresting them](https://apnews.com/article/ai-school-surveillance-gaggle-goguardian-bark-8c531cde8f9aee0b1ef06cfce109724a)
 * [2025-08-07, 11:01:19](https://news.ycombinator.com/item?id=44822954) - [Gaybreaking](https://twitter.com/AlexReibman/status/1953229500973740058)
+* [2025-08-07, 10:23:12](https://news.ycombinator.com/item?id=44822730) - [Millau Viaduct](https://www.fosterandpartners.com/projects/millau-viaduct)
 * [2025-08-07, 10:16:28](https://news.ycombinator.com/item?id=44822684) - [The Whispering Earring (Scott Alexander)](https://croissanthology.com/earring)
 * [2025-08-07, 10:12:54](https://news.ycombinator.com/item?id=44822665) - [How AI Conquered the US Economy: A Visual FAQ](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)
 * [2025-08-07, 10:09:41](https://news.ycombinator.com/item?id=44822637) - [\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"](https://leonardo.chiariglione.org/)
