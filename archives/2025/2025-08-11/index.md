@@ -8,6 +8,7 @@
 * [2025-08-11, 18:13:51](https://news.ycombinator.com/item?id=44867494) - [Washington, DC police put under federal control, National Guard deployed](https://www.cnbc.com/2025/08/11/trump-washington-crime-fed-national-guard-homeless.html)
 * [2025-08-11, 18:03:57](https://news.ycombinator.com/item?id=44867374) - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
 * [2025-08-11, 17:59:42](https://news.ycombinator.com/item?id=44867312) - [Future AI bills of $100k/yr per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
+* [2025-08-11, 17:54:08](https://news.ycombinator.com/item?id=44867238) - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
 * [2025-08-11, 17:31:43](https://news.ycombinator.com/item?id=44866970) - [Cloudflare Is Not a CDN](https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/)
 * [2025-08-11, 17:25:57](https://news.ycombinator.com/item?id=44866894) - [The Associated Press tells its book critics that it's ending weekly reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 * [2025-08-11, 17:07:34](https://news.ycombinator.com/item?id=44866677) - [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
