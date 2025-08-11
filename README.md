@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-11, 18:13:51](https://news.ycombinator.com/item?id=44867494) - [Washington, DC police put under federal control, National Guard deployed](https://www.cnbc.com/2025/08/11/trump-washington-crime-fed-national-guard-homeless.html)
+* [2025-08-11, 18:54:26](https://news.ycombinator.com/item?id=44867997) - [Grok Has Been Suspended](https://x.com/grok)
 * [2025-08-11, 18:03:57](https://news.ycombinator.com/item?id=44867374) - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
-* [2025-08-11, 17:59:42](https://news.ycombinator.com/item?id=44867312) - [Future AI bills of $100k/yr per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
+* [2025-08-11, 17:59:42](https://news.ycombinator.com/item?id=44867312) - [Token growth indicates future AI spend per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
 * [2025-08-11, 17:25:57](https://news.ycombinator.com/item?id=44866894) - [The Associated Press tells its book critics that it's ending weekly reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 * [2025-08-11, 17:07:34](https://news.ycombinator.com/item?id=44866677) - [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
-* [2025-08-11, 17:03:33](https://news.ycombinator.com/item?id=44866621) - [The Demographic Future of Humanity: Facts and Consequences [pdf]](https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf)
 * [2025-08-11, 17:00:04](https://news.ycombinator.com/item?id=44866587) - [Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
 * [2025-08-11, 16:53:43](https://news.ycombinator.com/item?id=44866500) - [The Value of Institutional Memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
 * [2025-08-11, 16:33:26](https://news.ycombinator.com/item?id=44866208) - [Wikipedia loses challenge against Online Safety Act verification rules](https://www.bbc.com/news/articles/cjr11qqvvwlo)
@@ -28,6 +27,7 @@
 * [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [The Chrome VRP Panel has decided to award $250k for this report](https://issues.chromium.org/issues/412578726)
 * [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
 * [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
+* [2025-08-08, 07:44:57](https://news.ycombinator.com/item?id=44834570) - [White Mountain Direttissima](https://whitemountainski.co/pages/white-mountain-direttissima)
 * [2025-08-07, 20:14:09](https://news.ycombinator.com/item?id=44829783) - [Porting to OS/2 – GitPius](https://gitpi.us/article-archive/porting-to-os2/)
 * [2025-08-07, 14:21:39](https://news.ycombinator.com/item?id=44824811) - [A simple pixel physics simulator in Rust using Macroquad](https://github.com/gale93/sbixel)
 
