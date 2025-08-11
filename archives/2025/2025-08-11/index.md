@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 12:43:27](https://news.ycombinator.com/item?id=44863525) - [Amazon Drone Beehive Concept (2019)](https://etrr.springeropen.com/articles/10.1186/s12544-019-0368-2)
+* [2025-08-11, 12:27:08](https://news.ycombinator.com/item?id=44863409) - [Pricing Pages – A Curated Gallery of Pricing Page Designs](https://pricingpages.design/)
+* [2025-08-11, 12:01:58](https://news.ycombinator.com/item?id=44863242) - [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
 * [2025-08-11, 10:02:08](https://news.ycombinator.com/item?id=44862542) - [GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM](https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/)
 * [2025-08-11, 09:41:13](https://news.ycombinator.com/item?id=44862414) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
 * [2025-08-11, 09:20:50](https://news.ycombinator.com/item?id=44862263) - [Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR](https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant)

@@ -67,6 +67,7 @@
 * [2025-08-08, 07:23:35](https://news.ycombinator.com/item?id=44834442) - [GPT-5 thinks that Windsurf's original name was OpenAI](https://chatgpt.com/share/6895a143-b770-8002-8826-823e45f04c79)
 * [2025-08-08, 06:01:30](https://news.ycombinator.com/item?id=44833932) - [A love letter to my future employer (2020)](https://catzkorn.dev/blog/love-letter/)
 * [2025-08-08, 06:00:22](https://news.ycombinator.com/item?id=44833929) - [Benchmarking GPT-5 on 400 Real-World Code Reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
+* [2025-08-08, 05:55:50](https://news.ycombinator.com/item?id=44833899) - [Fitzgerald's Follies](https://libertiesjournal.com/articles/fitzgeralds-follies/)
 * [2025-08-08, 05:45:42](https://news.ycombinator.com/item?id=44833834) - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
 * [2025-08-08, 05:10:46](https://news.ycombinator.com/item?id=44833655) - [Turn Any Website into an API](https://www.parse.bot)
 * [2025-08-08, 05:02:23](https://news.ycombinator.com/item?id=44833607) - [The enduring puzzle of static electricity](https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven)
