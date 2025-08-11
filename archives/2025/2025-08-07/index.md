@@ -80,6 +80,7 @@
 * [2025-08-07, 09:39:42](https://news.ycombinator.com/item?id=44822486) - [\"McKinsey in a Box\": The End of Strategic Consulting?](https://knowledge.insead.edu/strategy/mckinsey-box-end-strategic-consulting)
 * [2025-08-07, 09:28:46](https://news.ycombinator.com/item?id=44822389) - [New AI Coding Teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
 * [2025-08-07, 09:05:43](https://news.ycombinator.com/item?id=44822258) - [About AI](https://priver.dev/blog/ai/about-ai/)
+* [2025-08-07, 08:37:29](https://news.ycombinator.com/item?id=44822076) - [Bouncing on trampolines to run eBPF programs](https://bootlin.com/blog/bouncing-on-trampolines-to-run-ebpf-programs/)
 * [2025-08-07, 08:06:48](https://news.ycombinator.com/item?id=44821869) - [OpenAI's new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)
 * [2025-08-07, 08:04:04](https://news.ycombinator.com/item?id=44821848) - [Lists and Lists: Basics of Lisp through interactive fiction (1996)](https://eblong.com/zarf/zweb/lists/)
 * [2025-08-07, 07:36:15](https://news.ycombinator.com/item?id=44821642) - [40 Years of the Amiga, from Commodore – By Paul Lefebvre](https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore)

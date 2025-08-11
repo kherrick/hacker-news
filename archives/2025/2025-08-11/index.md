@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
+* [2025-08-11, 05:19:01](https://news.ycombinator.com/item?id=44860932) - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 * [2025-08-11, 05:14:06](https://news.ycombinator.com/item?id=44860908) - [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
 * [2025-08-11, 04:59:03](https://news.ycombinator.com/item?id=44860847) - [Going Faster Than Memcpy](https://squadrick.dev/journal/going-faster-than-memcpy)
 * [2025-08-11, 04:54:20](https://news.ycombinator.com/item?id=44860832) - [Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]](https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf)
