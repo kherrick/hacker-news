@@ -17,7 +17,6 @@
 * [2025-08-10, 15:06:07](https://news.ycombinator.com/item?id=44855690) - [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
 * [2025-08-10, 13:44:05](https://news.ycombinator.com/item?id=44855157) - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
 * [2025-08-10, 13:32:13](https://news.ycombinator.com/item?id=44855079) - [Try and](https://ygdp.yale.edu/phenomena/try-and)
-* [2025-08-10, 13:15:33](https://news.ycombinator.com/item?id=44854989) - [Inside OS/2 (1987)](https://gitpi.us/article-archive/inside-os2/)
 * [2025-08-10, 11:41:34](https://news.ycombinator.com/item?id=44854525) - [Booting 5000 Erlangs on Ampere One 192-core](https://underjord.io/booting-5000-erlangs-on-ampere-one.html)
 * [2025-08-10, 09:50:25](https://news.ycombinator.com/item?id=44854035) - [Writing simple tab-completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
 * [2025-08-10, 05:56:14](https://news.ycombinator.com/item?id=44853064) - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
@@ -29,6 +28,7 @@
 * [2025-08-07, 14:57:34](https://news.ycombinator.com/item?id=44825347) - [Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”](https://mrwint.github.io/winter/writeup/writeup2.html)
 * [2025-08-07, 13:39:25](https://news.ycombinator.com/item?id=44824321) - [Easily run Windows software on Linux with Bottles](https://usebottles.com/)
 * [2025-08-07, 11:49:17](https://news.ycombinator.com/item?id=44823272) - [PHP compile time generics: yay or nay?](https://thephp.foundation/blog/2025/08/05/compile-generics/)
+* [2025-08-07, 09:39:42](https://news.ycombinator.com/item?id=44822486) - [\"McKinsey in a Box\": The End of Strategic Consulting?](https://knowledge.insead.edu/strategy/mckinsey-box-end-strategic-consulting)
 * [2025-08-07, 08:04:04](https://news.ycombinator.com/item?id=44821848) - [Lists and Lists: Basics of Lisp through interactive fiction (1996)](https://eblong.com/zarf/zweb/lists/)
 
 ## [Archives](archives/index.md)
