@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-11, 17:07:34",
+      "https://news.ycombinator.com/item?id=44866677"
+    ],
+    [
+      "Apache Iceberg V3 Spec new features for more efficient and flexible data lakes",
+      "https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 17:00:04",
+      "https://news.ycombinator.com/item?id=44866587"
+    ],
+    [
+      "Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare",
+      "https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 16:53:43",
+      "https://news.ycombinator.com/item?id=44866500"
+    ],
+    [
+      "The Value of Institutional Memory",
+      "https://timharford.com/2025/05/the-value-of-institutional-memory/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 16:16:56",
       "https://news.ycombinator.com/item?id=44865997"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2025-08-11, 15:59:08",
-      "https://news.ycombinator.com/item?id=44865731"
+      "2025-08-11, 16:11:50",
+      "https://news.ycombinator.com/item?id=44865916"
     ],
     [
-      "Ford reveals breakthrough process for lower priced EVs",
-      "https://www.theverge.com/ford-motor-company/757243/ford-ev-truck-breakthrough-model-t"
+      "UI vs. API. vs. UAI",
+      "https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2025-08-11, 05:14:06",
-      "https://news.ycombinator.com/item?id=44860908"
-    ],
-    [
-      "Generic Containers in C: Safe Division Using Maybe",
-      "https://uecker.codeberg.page/2025-08-10.html"
-    ]
-  ],
-  [
-    [
       "2025-08-11, 04:59:03",
       "https://news.ycombinator.com/item?id=44860847"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-08-10, 22:35:03",
-      "https://news.ycombinator.com/item?id=44858892"
+      "2025-08-07, 20:14:09",
+      "https://news.ycombinator.com/item?id=44829783"
     ],
     [
-      "Compiling a Lisp: Lambda lifting",
-      "https://bernsteinbear.com/blog/compiling-a-lisp-12/"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 21:55:28",
-      "https://news.ycombinator.com/item?id=44858645"
-    ],
-    [
-      "Flowers of Fealty: Commemoration of the Christening of Elisabeth of Hesse (1598)",
-      "https://publicdomainreview.org/collection/christening-of-lady-elisabeth-of-hesse/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 15:59:01",
-      "https://news.ycombinator.com/item?id=44826208"
-    ],
-    [
-      "Optimizing My Disk Usage Program",
-      "https://healeycodes.com/optimizing-my-disk-usage-program"
+      "Porting to OS/2 – GitPius",
+      "https://gitpi.us/article-archive/porting-to-os2/"
     ]
   ],
   [
