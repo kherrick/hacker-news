@@ -11,6 +11,7 @@
 * [2025-08-07, 21:10:42](https://news.ycombinator.com/item?id=44830408) - [Flipper Zero DarkWeb Firmware Bypasses Rolling Code Security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
 * [2025-08-07, 20:53:54](https://news.ycombinator.com/item?id=44830221) - [Cursor CLI](https://cursor.com/cli)
 * [2025-08-07, 20:16:26](https://news.ycombinator.com/item?id=44829803) - [What makes Israel's starvation of Gaza stand apart](https://www.vox.com/policy/422622/israel-famine-gaza-history-weaponizing-starvation-war)
+* [2025-08-07, 20:14:09](https://news.ycombinator.com/item?id=44829783) - [Porting to OS/2 – GitPius](https://gitpi.us/article-archive/porting-to-os2/)
 * [2025-08-07, 19:32:10](https://news.ycombinator.com/item?id=44829272) - [Spatio-temporal indexing the Bluesky firehose](https://joelgustafson.com/posts/2025-08-07/spatio-temporal-indexing-the-bluesky-firehose)
 * [2025-08-07, 19:24:49](https://news.ycombinator.com/item?id=44829185) - [Historical Tech Tree](https://www.historicaltechtree.com/)
 * [2025-08-07, 19:20:43](https://news.ycombinator.com/item?id=44829144) - [GPT-5 Demo Mistake About Bernoulli Effect](https://bren.blog/gpt-5-demo-mistake-about-bernoulli-effect)
