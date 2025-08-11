@@ -67,6 +67,7 @@
 * [2025-08-08, 06:00:22](https://news.ycombinator.com/item?id=44833929) - [Benchmarking GPT-5 on 400 Real-World Code Reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
 * [2025-08-08, 05:45:42](https://news.ycombinator.com/item?id=44833834) - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
 * [2025-08-08, 05:10:46](https://news.ycombinator.com/item?id=44833655) - [Turn Any Website into an API](https://www.parse.bot)
+* [2025-08-08, 04:34:54](https://news.ycombinator.com/item?id=44833448) - [Digital Foundry leaves IGN, now independent [video]](https://www.youtube.com/watch?v=tl7bIJ2yu4I)
 * [2025-08-08, 03:09:05](https://news.ycombinator.com/item?id=44832990) - [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
 * [2025-08-08, 02:55:28](https://news.ycombinator.com/item?id=44832927) - [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
 * [2025-08-08, 02:51:33](https://news.ycombinator.com/item?id=44832908) - [GPT-5: \"How many times does the letter b appear in blueberry?\"](https://kieranhealy.org/blog/archives/2025/08/07/blueberry-hill/)
