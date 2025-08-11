@@ -11,7 +11,7 @@
 * [2025-08-11, 16:16:56](https://news.ycombinator.com/item?id=44865997) - [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)
 * [2025-08-11, 16:11:50](https://news.ycombinator.com/item?id=44865916) - [UI vs. API. vs. UAI](https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai)
 * [2025-08-11, 16:06:04](https://news.ycombinator.com/item?id=44865834) - [Learn, Reflect, Apply, Prepare: The Four Daily Practices That Changed How I Live](https://opuslabs.substack.com/p/learn-reflect-apply-prepare)
-* [2025-08-11, 16:04:34](https://news.ycombinator.com/item?id=44865813) - [Claude Is the Drug, Cursor Is the Dealer](https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the)
+* [2025-08-11, 16:04:34](https://news.ycombinator.com/item?id=44865813) - [Claude is the drug, Cursor is the dealer](https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the)
 * [2025-08-11, 15:47:48](https://news.ycombinator.com/item?id=44865560) - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
 * [2025-08-11, 15:30:49](https://news.ycombinator.com/item?id=44865290) - [Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
 * [2025-08-11, 14:42:27](https://news.ycombinator.com/item?id=44864680) - [36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens](https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false)
