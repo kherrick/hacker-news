@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 18:03:57](https://news.ycombinator.com/item?id=44867374) - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
+* [2025-08-11, 17:59:42](https://news.ycombinator.com/item?id=44867312) - [Future AI bills of $100k/yr per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
 * [2025-08-11, 17:31:43](https://news.ycombinator.com/item?id=44866970) - [Cloudflare Is Not a CDN](https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/)
+* [2025-08-11, 17:25:57](https://news.ycombinator.com/item?id=44866894) - [The Associated Press tells its book critics that it's ending weekly reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 * [2025-08-11, 17:07:34](https://news.ycombinator.com/item?id=44866677) - [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
+* [2025-08-11, 17:03:33](https://news.ycombinator.com/item?id=44866621) - [The Demographic Future of Humanity: Facts and Consequences [pdf]](https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf)
 * [2025-08-11, 17:00:04](https://news.ycombinator.com/item?id=44866587) - [Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
+* [2025-08-11, 16:56:12](https://news.ycombinator.com/item?id=44866544) - [Failover to Human Intelligence](https://max.engineer/failover-to-hi)
 * [2025-08-11, 16:53:43](https://news.ycombinator.com/item?id=44866500) - [The Value of Institutional Memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
 * [2025-08-11, 16:33:26](https://news.ycombinator.com/item?id=44866208) - [Wikipedia loses challenge against Online Safety Act verification rules](https://www.bbc.com/news/articles/cjr11qqvvwlo)
 * [2025-08-11, 16:16:56](https://news.ycombinator.com/item?id=44865997) - [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)

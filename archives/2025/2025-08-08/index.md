@@ -32,6 +32,7 @@
 * [2025-08-08, 17:58:30](https://news.ycombinator.com/item?id=44839787) - [AI industry horrified to face largest copyright class action ever certified](https://arstechnica.com/tech-policy/2025/08/ai-industry-horrified-to-face-largest-copyright-class-action-ever-certified/)
 * [2025-08-08, 17:48:29](https://news.ycombinator.com/item?id=44839705) - [My commitment to you and our company](https://newsroom.intel.com/corporate/my-commitment-to-you-and-our-company)
 * [2025-08-08, 17:45:26](https://news.ycombinator.com/item?id=44839681) - [Someone keeps stealing, flying, fixing and returning this man's plane. But why?](https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief)
+* [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
 * [2025-08-08, 17:20:39](https://news.ycombinator.com/item?id=44839459) - [I clustered four Framework Mainboards to test LLMs](https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms)
 * [2025-08-08, 17:03:50](https://news.ycombinator.com/item?id=44839302) - [Lurk – A Turing-complete programming language for ZK-SNARKs](https://github.com/lurk-lab/lurk)
 * [2025-08-08, 16:16:20](https://news.ycombinator.com/item?id=44838733) - [We built an open-source asynchronous coding agent](https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/)
