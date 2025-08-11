@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-07, 20:14:09",
-      "https://news.ycombinator.com/item?id=44829783"
+      "2025-08-07, 14:21:39",
+      "https://news.ycombinator.com/item?id=44824811"
     ],
     [
-      "Porting to OS/2 (1987)",
-      "https://gitpi.us/article-archive/porting-to-os2/"
+      "A simple pixel physics simulator in Rust using Macroquad",
+      "https://github.com/gale93/sbixel"
     ]
   ]
 ]
