@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-08-11, 20:50:13",
+      "https://news.ycombinator.com/item?id=44869323"
+    ],
+    [
+      "I've seen 12 people hospitalized after losing touch with reality because of AI",
+      "https://twitter.com/KeithSakata/status/1954884361695719474"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 18:03:57",
       "https://news.ycombinator.com/item?id=44867374"
     ],
     [
       "Neki – sharded Postgres by the team behind Vitess",
       "https://planetscale.com/blog/announcing-neki"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 17:59:42",
-      "https://news.ycombinator.com/item?id=44867312"
-    ],
-    [
-      "Token growth indicates future AI spend per dev",
-      "https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-08-08, 15:10:54",
+      "https://news.ycombinator.com/item?id=44837949"
+    ],
+    [
+      "Why Tail-Recursive Functions Are Loops",
+      "https://kmicinski.com/functional-programming/2025/08/01/loops/"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 07:44:57",
       "https://news.ycombinator.com/item?id=44834570"
     ],
@@ -287,16 +297,6 @@
     [
       "Porting to OS/2 (1987)",
       "https://gitpi.us/article-archive/porting-to-os2/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 14:21:39",
-      "https://news.ycombinator.com/item?id=44824811"
-    ],
-    [
-      "A simple pixel physics simulator in Rust using Macroquad",
-      "https://github.com/gale93/sbixel"
     ]
   ]
 ]
