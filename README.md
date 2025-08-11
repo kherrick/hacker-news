@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-11, 18:54:26](https://news.ycombinator.com/item?id=44867997) - [Grok Has Been Suspended](https://x.com/grok)
 * [2025-08-11, 18:03:57](https://news.ycombinator.com/item?id=44867374) - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
 * [2025-08-11, 17:59:42](https://news.ycombinator.com/item?id=44867312) - [Token growth indicates future AI spend per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
 * [2025-08-11, 17:25:57](https://news.ycombinator.com/item?id=44866894) - [The Associated Press tells its book critics that it's ending weekly reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
@@ -25,6 +24,7 @@
 * [2025-08-11, 10:10:46](https://news.ycombinator.com/item?id=44862583) - [Mistral Integration Improved in Llama.cpp](https://github.com/ggml-org/llama.cpp/pull/14737)
 * [2025-08-11, 09:41:13](https://news.ycombinator.com/item?id=44862414) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
 * [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [The Chrome VRP Panel has decided to award $250k for this report](https://issues.chromium.org/issues/412578726)
+* [2025-08-11, 01:32:31](https://news.ycombinator.com/item?id=44860015) - [Optimizing my sleep around Claude usage limits](https://mattwie.se/no-sleep-till-agi)
 * [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
 * [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
 * [2025-08-08, 07:44:57](https://news.ycombinator.com/item?id=44834570) - [White Mountain Direttissima](https://whitemountainski.co/pages/white-mountain-direttissima)
