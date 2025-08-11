@@ -49,6 +49,7 @@
 * [2025-08-07, 14:46:14](https://news.ycombinator.com/item?id=44825175) - [More shell tricks: first class lists and jq](https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html)
 * [2025-08-07, 14:44:23](https://news.ycombinator.com/item?id=44825146) - [Jepsen: Capela dda5892](https://jepsen.io/analyses/capela-dda5892)
 * [2025-08-07, 14:33:39](https://news.ycombinator.com/item?id=44824981) - [Let's stop pretending that managers and executives care about productivity](https://www.baldurbjarnason.com/2025/disingenuous-discourse/)
+* [2025-08-07, 14:21:39](https://news.ycombinator.com/item?id=44824811) - [A simple pixel physics simulator in Rust using Macroquad](https://github.com/gale93/sbixel)
 * [2025-08-07, 14:20:56](https://news.ycombinator.com/item?id=44824802) - [SUSE Donates USD 11,500 to the Perl and Raku Foundation](https://www.perl.com/article/suse-donates-to-tprf/)
 * [2025-08-07, 14:14:30](https://news.ycombinator.com/item?id=44824728) - [Global Trade Dynamics](https://alhadaqa.github.io/globaltradedynamics/)
 * [2025-08-07, 14:11:14](https://news.ycombinator.com/item?id=44824684) - [Honesty Boxes in Scotland (2024)](https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 13:18:51](https://news.ycombinator.com/item?id=44863753) - [TeaOnHer, a rival Tea app for men, is leaking users' personal data](https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/)
 * [2025-08-11, 12:55:30](https://news.ycombinator.com/item?id=44863585) - [Operation Costs in CPU Clock Cycles (2016)](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 * [2025-08-11, 12:50:53](https://news.ycombinator.com/item?id=44863568) - [Justice Dept. Settles with Greystar to End Participation in Algorithmic Pricing](https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-greystar-largest-us-landlord-end-its)
 * [2025-08-11, 12:43:27](https://news.ycombinator.com/item?id=44863525) - [Amazon Drone Beehive Concept (2019)](https://etrr.springeropen.com/articles/10.1186/s12544-019-0368-2)
