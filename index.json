@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-08-11, 10:02:08",
+      "https://news.ycombinator.com/item?id=44862542"
+    ],
+    [
+      "GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM",
+      "https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 09:41:13",
       "https://news.ycombinator.com/item?id=44862414"
     ],
     [
       "Faster substring search with SIMD in Zig",
       "https://aarol.dev/posts/zig-simd-substr/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 09:20:50",
-      "https://news.ycombinator.com/item?id=44862263"
-    ],
-    [
-      "Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR",
-      "https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Show HN: A Sinclair ZX81 retro web assembler+simulator",
       "https://news.ycombinator.com/item?id=44859761"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 00:33:09",
+      "https://news.ycombinator.com/item?id=44859710"
+    ],
+    [
+      "TCP Client Self-Connect (2013)",
+      "http://sgros.blogspot.com/2013/08/tcp-client-self-connect.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "How I code with AI on a budget/free",
       "https://wuu73.org/blog/aiguide1.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 11:14:33",
-      "https://news.ycombinator.com/item?id=44835703"
-    ],
-    [
-      "Dropbox announces new gen server hardware for higher efficiency and scalability",
-      "https://dropbox.tech/infrastructure/seventh-generation-server-hardware"
     ]
   ],
   [
