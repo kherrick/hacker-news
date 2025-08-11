@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-08-11, 17:03:33",
+      "https://news.ycombinator.com/item?id=44866621"
+    ],
+    [
+      "The demographic future of humanity: facts and consequences [pdf]",
+      "https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 17:00:04",
       "https://news.ycombinator.com/item?id=44866587"
     ],
@@ -107,16 +117,6 @@
     [
       "Learn, Reflect, Apply, Prepare: The Four Daily Practices That Changed How I Live",
       "https://opuslabs.substack.com/p/learn-reflect-apply-prepare"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 16:04:34",
-      "https://news.ycombinator.com/item?id=44865813"
-    ],
-    [
-      "Claude is the drug, Cursor is the dealer",
-      "https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44837949"
     ],
     [
-      "Why Tail-Recursive Functions Are Loops",
+      "Why tail-recursive functions are loops",
       "https://kmicinski.com/functional-programming/2025/08/01/loops/"
     ]
   ],
