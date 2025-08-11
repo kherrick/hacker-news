@@ -129,6 +129,153 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44865290">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44865290"
+              >Launch HN: Halluminate (YC S25) – Simulating the internet to
+              train computer use</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-11 @ 15:30:49</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44865290"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://halluminate.ai/">https://halluminate.ai/</a>). We
+              help AI labs train computer use agents with high quality data and
+              RL environments.
+              <p>
+                Training AI agents to use computers, browsers, and software is
+                one of the highest-potential opportunities for AI. To date,
+                however, this capability is still unreliable. The emerging
+                method to improve this is called Reinforcement Learning with
+                Verifiable Rewards (RLVR). However, researchers are currently
+                bottlenecked by a lack of high-quality simulators and task +
+                verifiers.
+              </p>
+              <p>
+                To solve this problem, we’re building Westworld, a
+                fully-simulated internet made up of synthetic versions of the
+                most common consumer and enterprise apps. Agents use Westworld
+                to learn how to do economically valuable tasks.
+              </p>
+              <p>
+                For example, AI agents can practice planning vacations on a
+                simulated flight booking site (<a
+                  href="https://flights.halluminate.ai/"
+                  >https://flights.halluminate.ai/</a
+                >), or learn how to reorganize outdated information in your
+                sales platform, or train to do financial modeling directly in a
+                spreadsheet.
+              </p>
+              <p>
+                Here’s a demo showing our flight booking simulation:
+                <a
+                  href="https://www.loom.com/share/74a3b28067e24c1b886054ba90a90aa5"
+                  >https://www.loom.com/share/74a3b28067e24c1b886054ba90a90aa5</a
+                >.
+              </p>
+              <p>
+                How it works: AI agents access our environment and are given a
+                task + verifier. A task is basically an objective for the agent
+                to achieve, for example "Book me a flight from SF to NYC on this
+                date with x, y, z filters.” A verifier is a programmatic way to
+                determine if the task was successfully completed. For example,
+                in this case it might be a json that checks if the final flight
+                data matches expectations. These signals can then be used to
+                calculate a reward in RL.
+              </p>
+              <p>
+                The more simulators we build, the more AI labs can improve on
+                capabilities that computer use agents are currently weak at. One
+                of our customers saw a ~20% improvement in date-picking
+                performance when training on our flight booking simulator.
+              </p>
+              <p>Two things make this hard so far:</p>
+              <p>
+                (1) The simulations have to be realistic. You can’t get away
+                with a vibe-coded “80% solution” because even small divergences
+                impact performance. Generating simulated data is even harder.
+                For example, massaging flight data to look realistic took a lot
+                of trial and experimentation.
+              </p>
+              <p>
+                (2) The tasks you train agents on have to be well-chosen. They
+                are only valuable if they reflect work that people actually want
+                solved. We need a lot of feedback from domain experts to get
+                this right.
+              </p>
+              <p>
+                That said, we find this work incredibly interesting and are
+                excited to tackle these issues. A few things we are pumped to
+                ship in the near term: - Ability to train on long-horizon tasks
+                by stringing multiple simulators together for extended
+                workflows; - Procedural data generation. Instead of
+                synthetically generating all the data upfront, how can we model
+                data generation so that our simulators are populated
+                procedurally as agents explore (think Minecraft); - Open source!
+                We plan to release our environments to the public so
+                developers/researchers can hack them for their own
+                experimentation.
+              </p>
+              <p>
+                RL simulators are just one part of our business. The other part
+                is around human data creation (think Scale AI but for computer
+                use). We produce off-the-shelf pre-training/fine-tuning
+                datasets, expert human evaluation/error analysis, or any other
+                data needs for our customers. There are also a lot of exciting
+                overlaps between the two - for example, using human experts to
+                help create our simulators/tasks. Happy to go in more detail,
+                but we thought that simulators would make for the more
+                interesting HackerNews post :)
+              </p>
+              <p>
+                Finally, about us: Wyatt and I met while studying CS at Cornell
+                and have been living and working together for over 7 years. I
+                previously led product/research at Capital One Labs, where I
+                launched one of the first AI agents in banking. Wyatt previously
+                was a Cornell Milstein scholar and did large-scale data
+                engineering for 2 early-stage startups in NYC. We left our jobs
+                last year, and faced these problems first-hand while building
+                evals for our customers who were browser/computer use agent
+                companies.
+              </p>
+              <p>
+                If anyone has any questions, feedback, or thoughts please let us
+                know! Looking forward to your comments.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44864981">
+          <h3>
+            <a
+              class="item"
+              href="https://reason.com/2025/08/09/child-protective-services-investigated-her-4-times-because-she-let-her-kids-play-outside/"
+              >CPS Investigated Her 4 Times Because She Let Her Kids Play
+              Outside</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-11 @ 15:06:12</span
+              ><span class="points-container"
+                >Points: <span class="points">45</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44864981"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44864929">
           <h3>
             <a
@@ -141,11 +288,32 @@
             <h4>
               <span>2025-08-11 @ 15:01:39</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44864929"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 30</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44864803">
+          <h3>
+            <a
+              class="item"
+              href="https://arstechnica.com/ai/2025/08/apple-brings-openais-gpt-5-to-ios-and-macos/"
+              >Apple brings OpenAI's GPT-5 to iOS and macOS</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-11 @ 14:51:53</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44864803"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -163,11 +331,11 @@
             <h4>
               <span>2025-08-11 @ 14:42:27</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44864680"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -184,13 +352,39 @@
             <h4>
               <span>2025-08-11 @ 14:25:58</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44864467"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44864291">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44864291"
+              >Ask HN: Do you think differently about working on open source
+              these days?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-11 @ 14:13:02</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44864291"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I don't know yet what I think, but my latest side project I
+                decided to create privately on github.
+              </p>
+            </div>
           </section>
         </section>
         <section id="44864185">
@@ -205,11 +399,11 @@
             <h4>
               <span>2025-08-11 @ 14:03:46</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44864185"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -224,11 +418,33 @@
             <h4>
               <span>2025-08-11 @ 13:59:02</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44864134"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 131</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44863633">
+          <h3>
+            <a
+              class="item"
+              href="https://www.windowscentral.com/artificial-intelligence/former-google-exec-even-ceo-on-tech-chopping-block"
+              >Ex-Google Exec Says "The Idea That AI Will Create New Jobs Is
+              100% Crap"</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-11 @ 13:02:10</span
+              ><span class="points-container"
+                >Points: <span class="points">53</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44863633"
+                  >Comments</a
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -267,11 +483,11 @@
             <h4>
               <span>2025-08-11 @ 12:38:15</span
               ><span class="points-container"
-                >Points: <span class="points">265</span></span
+                >Points: <span class="points">287</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44863487"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -286,7 +502,7 @@
             <h4>
               <span>2025-08-11 @ 12:27:08</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44863409"
                   >Comments</a
@@ -309,7 +525,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44863323"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -324,11 +540,11 @@
             <h4>
               <span>2025-08-11 @ 12:01:58</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44863242"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -347,7 +563,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44862861"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -364,11 +580,11 @@
             <h4>
               <span>2025-08-11 @ 10:10:46</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44862583"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -385,11 +601,11 @@
             <h4>
               <span>2025-08-11 @ 10:02:08</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44862542"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -404,7 +620,7 @@
             <h4>
               <span>2025-08-11 @ 09:41:13</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44862414"
                   >Comments</a
@@ -423,30 +639,11 @@
             <h4>
               <span>2025-08-11 @ 08:59:46</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44862112"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44861780">
-          <h3>
-            <a class="item" href="https://stephango.com/self-guarantee"
-              >Self-Guaranteeing Promises</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-11 @ 08:03:06</span
-              ><span class="points-container"
-                >Points: <span class="points">54</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44861780"
-                  >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -463,11 +660,11 @@
             <h4>
               <span>2025-08-11 @ 07:15:38</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44861521"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -483,11 +680,11 @@
             <h4>
               <span>2025-08-11 @ 05:56:33</span
               ><span class="points-container"
-                >Points: <span class="points">382</span></span
+                >Points: <span class="points">388</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44861106"
                   >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 211</span></span
               >
             </h4>
           </section>
@@ -502,11 +699,11 @@
             <h4>
               <span>2025-08-11 @ 05:14:06</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44860908"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -523,7 +720,7 @@
             <h4>
               <span>2025-08-11 @ 04:59:03</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44860847"
                   >Comments</a
@@ -544,11 +741,11 @@
             <h4>
               <span>2025-08-11 @ 01:55:26</span
               ><span class="points-container"
-                >Points: <span class="points">364</span></span
+                >Points: <span class="points">366</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44860139"
                   >Comments</a
-                ><span class="descendants">: 179</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
           </section>
@@ -565,11 +762,11 @@
             <h4>
               <span>2025-08-10 @ 22:35:03</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">141</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44858892"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -587,114 +784,11 @@
             <h4>
               <span>2025-08-10 @ 21:55:28</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44858645"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44856935">
-          <h3>
-            <a class="item" href="https://github.com/Beariish/bolt"
-              >Show HN: Bolt – A super-fast, statically-typed scripting language
-              written in C</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-10 @ 17:53:09</span
-              ><span class="points-container"
-                >Points: <span class="points">244</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44856935"
-                  >Comments</a
-                ><span class="descendants">: 84</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I've felt like most embedded languages have been moving towards
-                safety and typing over years, with things like Python type
-                hints, the explosive popularity of typescript, and even typing
-                in Luau, which powers one of the largest scripted evironments in
-                the world.
-              </p>
-              <p>
-                Bolt attempts to harness this directly in the lagnauge rather
-                than as a preprocessing step, and reap benefits in terms of both
-                safety and performance.
-              </p>
-              <p>
-                I intend to be publishing toys and examples of applications
-                embedding Bolt over the coming few weeks, but be sure to check
-                out the examples and the programming guide in the repo if you're
-                interested!
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="44855690">
-          <h3>
-            <a
-              class="item"
-              href="https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the"
-              >GPT-OSS vs. Qwen3 and a detailed look how things evolved since
-              GPT-2</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-10 @ 15:06:07</span
-              ><span class="points-container"
-                >Points: <span class="points">451</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44855690"
-                  >Comments</a
-                ><span class="descendants">: 95</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44855079">
-          <h3>
-            <a class="item" href="https://ygdp.yale.edu/phenomena/try-and"
-              >Try and</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-10 @ 13:32:13</span
-              ><span class="points-container"
-                >Points: <span class="points">612</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44855079"
-                  >Comments</a
-                ><span class="descendants">: 306</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44825347">
-          <h3>
-            <a
-              class="item"
-              href="https://mrwint.github.io/winter/writeup/writeup2.html"
-              >Creating the Longest Possible Ski Jump in “The Games: Winter
-              Challenge”</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-07 @ 14:57:34</span
-              ><span class="points-container"
-                >Points: <span class="points">230</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44825347"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -709,7 +803,7 @@
             <h4>
               <span>2025-08-07 @ 14:21:39</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44824811"
                   >Comments</a
@@ -734,7 +828,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44822730"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
