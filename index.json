@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-11, 17:31:43",
+      "https://news.ycombinator.com/item?id=44866970"
+    ],
+    [
+      "Cloudflare Is Not a CDN",
+      "https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 17:07:34",
       "https://news.ycombinator.com/item?id=44866677"
     ],
@@ -71,12 +81,32 @@
   ],
   [
     [
+      "2025-08-11, 16:04:34",
+      "https://news.ycombinator.com/item?id=44865813"
+    ],
+    [
+      "Claude Is the Drug, Cursor Is the Dealer",
+      "https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 15:47:48",
       "https://news.ycombinator.com/item?id=44865560"
     ],
     [
       "GitHub is no longer independent at Microsoft after CEO resignation",
       "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 15:33:02",
+      "https://news.ycombinator.com/item?id=44865319"
+    ],
+    [
+      "Hard Drive Shortage in Canada?",
+      "https://www.vogons.org/viewtopic.php?t=107758"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-08-11, 10:02:08",
-      "https://news.ycombinator.com/item?id=44862542"
-    ],
-    [
-      "GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM",
-      "https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/"
-    ]
-  ],
-  [
-    [
       "2025-08-11, 09:41:13",
       "https://news.ycombinator.com/item?id=44862414"
     ],
@@ -227,16 +247,6 @@
     [
       "The Chrome VRP Panel has decided to award $250k for this report",
       "https://issues.chromium.org/issues/412578726"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 04:59:03",
-      "https://news.ycombinator.com/item?id=44860847"
-    ],
-    [
-      "Going faster than memcpy",
-      "https://squadrick.dev/journal/going-faster-than-memcpy"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A simple pixel physics simulator in Rust using Macroquad",
       "https://github.com/gale93/sbixel"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 10:23:12",
-      "https://news.ycombinator.com/item?id=44822730"
-    ],
-    [
-      "Millau Viaduct",
-      "https://www.fosterandpartners.com/projects/millau-viaduct"
     ]
   ]
 ]
