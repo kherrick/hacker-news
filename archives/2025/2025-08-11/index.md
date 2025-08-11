@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
 * [2025-08-11, 15:53:55](https://news.ycombinator.com/item?id=44865655) - [Beloved by bands and bank robbers, the Ford Transit turns 60](https://www.bbc.com/news/articles/c0j97xegz5no)
+* [2025-08-11, 15:47:48](https://news.ycombinator.com/item?id=44865560) - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
 * [2025-08-11, 15:30:49](https://news.ycombinator.com/item?id=44865290) - [Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
+* [2025-08-11, 15:20:13](https://news.ycombinator.com/item?id=44865140) - [Ford Aims for Revolution with $30k Electric Truck](https://www.thedrive.com/news/ford-aims-for-revolution-with-30000-electric-truck)
 * [2025-08-11, 15:06:12](https://news.ycombinator.com/item?id=44864981) - [CPS Investigated Her 4 Times Because She Let Her Kids Play Outside](https://reason.com/2025/08/09/child-protective-services-investigated-her-4-times-because-she-let-her-kids-play-outside/)
 * [2025-08-11, 15:01:39](https://news.ycombinator.com/item?id=44864929) - [Auf Wiedersehen, GitHub – CEO Steps Down](https://github.blog/news-insights/company-news/goodbye-github/)
 * [2025-08-11, 14:51:53](https://news.ycombinator.com/item?id=44864803) - [Apple brings OpenAI's GPT-5 to iOS and macOS](https://arstechnica.com/ai/2025/08/apple-brings-openais-gpt-5-to-ios-and-macos/)
+* [2025-08-11, 14:47:14](https://news.ycombinator.com/item?id=44864745) - [We are all mercantilists now](https://www.bridgewater.com/what-trumps-global-order-could-look-like)
 * [2025-08-11, 14:42:27](https://news.ycombinator.com/item?id=44864680) - [36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens](https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false)
 * [2025-08-11, 14:25:58](https://news.ycombinator.com/item?id=44864467) - [Designing Software in the Large](https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/)
 * [2025-08-11, 14:22:16](https://news.ycombinator.com/item?id=44864419) - [Meta Leaks Part 1: Israel and Meta, the Greatest Global Mass Censorship Campaign](https://archive.org/details/meta_leaks_part_1)
