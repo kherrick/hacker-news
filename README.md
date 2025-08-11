@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-11, 20:50:13](https://news.ycombinator.com/item?id=44869323) - [I've seen 12 people hospitalized after losing touch with reality because of AI](https://twitter.com/KeithSakata/status/1954884361695719474)
 * [2025-08-11, 18:03:57](https://news.ycombinator.com/item?id=44867374) - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
-* [2025-08-11, 17:59:42](https://news.ycombinator.com/item?id=44867312) - [Token growth indicates future AI spend per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
 * [2025-08-11, 17:54:08](https://news.ycombinator.com/item?id=44867238) - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
 * [2025-08-11, 17:25:57](https://news.ycombinator.com/item?id=44866894) - [AP to end its weekly book reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 * [2025-08-11, 17:07:34](https://news.ycombinator.com/item?id=44866677) - [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
@@ -27,9 +27,9 @@
 * [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
 * [2025-08-08, 20:26:47](https://news.ycombinator.com/item?id=44841354) - [A Guide Dog for the Face-Blind](https://asimov.blog/a-guide-dog-for-the-face-blind/)
 * [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
+* [2025-08-08, 15:10:54](https://news.ycombinator.com/item?id=44837949) - [Why Tail-Recursive Functions Are Loops](https://kmicinski.com/functional-programming/2025/08/01/loops/)
 * [2025-08-08, 07:44:57](https://news.ycombinator.com/item?id=44834570) - [White Mountain Direttissima](https://whitemountainski.co/pages/white-mountain-direttissima)
 * [2025-08-07, 20:14:09](https://news.ycombinator.com/item?id=44829783) - [Porting to OS/2 (1987)](https://gitpi.us/article-archive/porting-to-os2/)
-* [2025-08-07, 14:21:39](https://news.ycombinator.com/item?id=44824811) - [A simple pixel physics simulator in Rust using Macroquad](https://github.com/gale93/sbixel)
 
 ## [Archives](archives/index.md)
 
