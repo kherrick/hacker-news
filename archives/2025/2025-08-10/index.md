@@ -6,6 +6,7 @@
 
 * [2025-08-10, 22:38:35](https://news.ycombinator.com/item?id=44858915) - [Prominent Al Jazeera journalist killed in Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)
 * [2025-08-10, 22:35:03](https://news.ycombinator.com/item?id=44858892) - [Compiling a Lisp: Lambda Lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
+* [2025-08-10, 21:55:28](https://news.ycombinator.com/item?id=44858645) - [Flowers of Fealty: Commemoration of the Christening of Elisabeth of Hesse (1598)](https://publicdomainreview.org/collection/christening-of-lady-elisabeth-of-hesse/)
 * [2025-08-10, 21:54:56](https://news.ycombinator.com/item?id=44858641) - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
 * [2025-08-10, 21:50:13](https://news.ycombinator.com/item?id=44858612) - [Hire People Who Care](https://alexw.substack.com/p/hire)
 * [2025-08-10, 21:20:53](https://news.ycombinator.com/item?id=44858401) - [Data Shows Only 12% of Ethereum, 25% of Solana Protocols Have Revenue](https://www.coindesk.com/markets/2025/07/23/disguised-unemployment-in-blockchain-data-shows-only-12-of-ethereum-25-of-solana-protocols-have-revenue)

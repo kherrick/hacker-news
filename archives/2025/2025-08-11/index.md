@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 15:01:39](https://news.ycombinator.com/item?id=44864929) - [Auf Wiedersehen, GitHub – CEO Steps Down](https://github.blog/news-insights/company-news/goodbye-github/)
+* [2025-08-11, 14:42:27](https://news.ycombinator.com/item?id=44864680) - [36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens](https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false)
 * [2025-08-11, 14:25:58](https://news.ycombinator.com/item?id=44864467) - [Designing Software in the Large](https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/)
 * [2025-08-11, 14:22:16](https://news.ycombinator.com/item?id=44864419) - [Meta Leaks Part 1: Israel and Meta, the Greatest Global Mass Censorship Campaign](https://archive.org/details/meta_leaks_part_1)
 * [2025-08-11, 14:03:46](https://news.ycombinator.com/item?id=44864185) - [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
