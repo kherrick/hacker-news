@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 10:02:08](https://news.ycombinator.com/item?id=44862542) - [GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM](https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/)
 * [2025-08-11, 09:41:13](https://news.ycombinator.com/item?id=44862414) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
 * [2025-08-11, 09:20:50](https://news.ycombinator.com/item?id=44862263) - [Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR](https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant)
 * [2025-08-11, 08:41:39](https://news.ycombinator.com/item?id=44862001) - [Al Jazeera condemns the assassination of its journalists by the IOF](https://network.aljazeera.net/en/press-releases/al-jazeera-condemns-assassination-its-journalists-israeli-occupation-forces)
