@@ -34,6 +34,7 @@
 * [2025-08-07, 16:16:42](https://news.ycombinator.com/item?id=44826465) - [PyPI: Preventing ZIP parser confusion attacks on Python package installers](https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/)
 * [2025-08-07, 16:16:32](https://news.ycombinator.com/item?id=44826463) - [Live: GPT-5](https://www.youtube.com/watch?v=0Uu_VJeVVfo)
 * [2025-08-07, 16:15:41](https://news.ycombinator.com/item?id=44826455) - [The Sunlight Budget of Earth](https://www.asimov.press/p/sunlight-budget)
+* [2025-08-07, 15:59:01](https://news.ycombinator.com/item?id=44826208) - [Optimizing My Disk Usage Program](https://healeycodes.com/optimizing-my-disk-usage-program)
 * [2025-08-07, 15:56:01](https://news.ycombinator.com/item?id=44826164) - [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/)
 * [2025-08-07, 15:51:00](https://news.ycombinator.com/item?id=44826095) - [Google confirms it has been hacked](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)
 * [2025-08-07, 15:44:32](https://news.ycombinator.com/item?id=44826001) - [Dear String-to-Integer Parsers](https://owl.billpg.com/dear-string-to-integer-parsers/)

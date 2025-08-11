@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 15:53:55](https://news.ycombinator.com/item?id=44865655) - [Beloved by bands and bank robbers, the Ford Transit turns 60](https://www.bbc.com/news/articles/c0j97xegz5no)
 * [2025-08-11, 15:30:49](https://news.ycombinator.com/item?id=44865290) - [Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
 * [2025-08-11, 15:06:12](https://news.ycombinator.com/item?id=44864981) - [CPS Investigated Her 4 Times Because She Let Her Kids Play Outside](https://reason.com/2025/08/09/child-protective-services-investigated-her-4-times-because-she-let-her-kids-play-outside/)
 * [2025-08-11, 15:01:39](https://news.ycombinator.com/item?id=44864929) - [Auf Wiedersehen, GitHub – CEO Steps Down](https://github.blog/news-insights/company-news/goodbye-github/)
