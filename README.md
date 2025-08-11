@@ -2,6 +2,7 @@
 
 * [2025-08-11, 10:02:08](https://news.ycombinator.com/item?id=44862542) - [GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM](https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/)
 * [2025-08-11, 09:41:13](https://news.ycombinator.com/item?id=44862414) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
+* [2025-08-11, 08:59:46](https://news.ycombinator.com/item?id=44862112) - [Hand-picked selection of articles on AI fundamentals/concepts](https://aman.ai/primers/ai/)
 * [2025-08-11, 08:03:06](https://news.ycombinator.com/item?id=44861780) - [Self-Guaranteeing Promises](https://stephango.com/self-guarantee)
 * [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [The Chrome VRP Panel has decided to award $250k for this report](https://issues.chromium.org/issues/412578726)
 * [2025-08-11, 05:19:01](https://news.ycombinator.com/item?id=44860932) - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
@@ -24,7 +25,6 @@
 * [2025-08-10, 09:50:25](https://news.ycombinator.com/item?id=44854035) - [Writing simple tab-completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
 * [2025-08-09, 22:27:37](https://news.ycombinator.com/item?id=44850913) - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 * [2025-08-08, 05:02:23](https://news.ycombinator.com/item?id=44833607) - [The enduring puzzle of static electricity](https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven)
-* [2025-08-07, 17:36:00](https://news.ycombinator.com/item?id=44827617) - [Against the UUID](https://github.com/firasd/alphadec/blob/main/docs/against-the-uuid.md)
 * [2025-08-07, 14:57:34](https://news.ycombinator.com/item?id=44825347) - [Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”](https://mrwint.github.io/winter/writeup/writeup2.html)
 * [2025-08-07, 11:49:17](https://news.ycombinator.com/item?id=44823272) - [PHP compile time generics: yay or nay?](https://thephp.foundation/blog/2025/08/05/compile-generics/)
 * [2025-08-07, 10:23:12](https://news.ycombinator.com/item?id=44822730) - [Millau Viaduct](https://www.fosterandpartners.com/projects/millau-viaduct)
