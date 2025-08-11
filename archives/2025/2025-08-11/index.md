@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 16:16:56](https://news.ycombinator.com/item?id=44865997) - [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)
+* [2025-08-11, 15:59:08](https://news.ycombinator.com/item?id=44865731) - [Ford reveals breakthrough process for lower priced EVs](https://www.theverge.com/ford-motor-company/757243/ford-ev-truck-breakthrough-model-t)
 * [2025-08-11, 15:53:55](https://news.ycombinator.com/item?id=44865655) - [Beloved by bands and bank robbers, the Ford Transit turns 60](https://www.bbc.com/news/articles/c0j97xegz5no)
 * [2025-08-11, 15:47:48](https://news.ycombinator.com/item?id=44865560) - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
 * [2025-08-11, 15:30:49](https://news.ycombinator.com/item?id=44865290) - [Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
