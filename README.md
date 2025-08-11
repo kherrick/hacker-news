@@ -28,7 +28,7 @@
 * [2025-08-08, 20:26:47](https://news.ycombinator.com/item?id=44841354) - [A Guide Dog for the Face-Blind](https://asimov.blog/a-guide-dog-for-the-face-blind/)
 * [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
 * [2025-08-08, 07:44:57](https://news.ycombinator.com/item?id=44834570) - [White Mountain Direttissima](https://whitemountainski.co/pages/white-mountain-direttissima)
-* [2025-08-07, 20:14:09](https://news.ycombinator.com/item?id=44829783) - [Porting to OS/2 – GitPius](https://gitpi.us/article-archive/porting-to-os2/)
+* [2025-08-07, 20:14:09](https://news.ycombinator.com/item?id=44829783) - [Porting to OS/2 (1987)](https://gitpi.us/article-archive/porting-to-os2/)
 * [2025-08-07, 14:21:39](https://news.ycombinator.com/item?id=44824811) - [A simple pixel physics simulator in Rust using Macroquad](https://github.com/gale93/sbixel)
 
 ## [Archives](archives/index.md)
