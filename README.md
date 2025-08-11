@@ -2,7 +2,6 @@
 
 * [2025-08-11, 18:03:57](https://news.ycombinator.com/item?id=44867374) - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
 * [2025-08-11, 17:54:08](https://news.ycombinator.com/item?id=44867238) - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
-* [2025-08-11, 17:49:38](https://news.ycombinator.com/item?id=44867184) - [Show HN: ServerBuddy – GUI SSH client for managing Linux servers from macOS](https://serverbuddy.app)
 * [2025-08-11, 17:25:57](https://news.ycombinator.com/item?id=44866894) - [AP to end its weekly book reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 * [2025-08-11, 17:03:33](https://news.ycombinator.com/item?id=44866621) - [The demographic future of humanity: facts and consequences [pdf]](https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf)
 * [2025-08-11, 17:00:04](https://news.ycombinator.com/item?id=44866587) - [Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
@@ -25,6 +24,7 @@
 * [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
 * [2025-08-10, 12:15:01](https://news.ycombinator.com/item?id=44854686) - [Show HN: Play Pokémon to unlock your Wayland session](https://github.com/AdoPi/wlgblock)
 * [2025-08-08, 20:26:47](https://news.ycombinator.com/item?id=44841354) - [A Guide Dog for the Face-Blind](https://asimov.blog/a-guide-dog-for-the-face-blind/)
+* [2025-08-08, 19:11:13](https://news.ycombinator.com/item?id=44840573) - [How to Teach Your Kids to Play Poker: Start with One Card](https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four)
 * [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
 * [2025-08-08, 15:10:54](https://news.ycombinator.com/item?id=44837949) - [Why tail-recursive functions are loops](https://kmicinski.com/functional-programming/2025/08/01/loops/)
 * [2025-08-08, 07:44:57](https://news.ycombinator.com/item?id=44834570) - [White Mountain Direttissima](https://whitemountainski.co/pages/white-mountain-direttissima)
