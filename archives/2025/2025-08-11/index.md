@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 14:03:46](https://news.ycombinator.com/item?id=44864185) - [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
+* [2025-08-11, 13:59:02](https://news.ycombinator.com/item?id=44864134) - [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
 * [2025-08-11, 13:18:51](https://news.ycombinator.com/item?id=44863753) - [TeaOnHer, a rival Tea app for men, is leaking users' personal data](https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/)
 * [2025-08-11, 12:55:30](https://news.ycombinator.com/item?id=44863585) - [Operation Costs in CPU Clock Cycles (2016)](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 * [2025-08-11, 12:50:53](https://news.ycombinator.com/item?id=44863568) - [Justice Dept. Settles with Greystar to End Participation in Algorithmic Pricing](https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-greystar-largest-us-landlord-end-its)
@@ -14,12 +16,14 @@
 * [2025-08-11, 12:11:01](https://news.ycombinator.com/item?id=44863303) - [Why Is Web Performance Undervalued?](https://blaines-blog.com/post-2)
 * [2025-08-11, 12:01:58](https://news.ycombinator.com/item?id=44863242) - [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
 * [2025-08-11, 11:01:23](https://news.ycombinator.com/item?id=44862861) - [A Global Look at Teletext](https://text-mode.org/?p=23643)
+* [2025-08-11, 10:10:46](https://news.ycombinator.com/item?id=44862583) - [Mistral Integration Improved in Llama.cpp](https://github.com/ggml-org/llama.cpp/pull/14737)
 * [2025-08-11, 10:02:08](https://news.ycombinator.com/item?id=44862542) - [GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM](https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/)
 * [2025-08-11, 09:41:13](https://news.ycombinator.com/item?id=44862414) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
 * [2025-08-11, 09:20:50](https://news.ycombinator.com/item?id=44862263) - [Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR](https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant)
 * [2025-08-11, 08:59:46](https://news.ycombinator.com/item?id=44862112) - [Hand-picked selection of articles on AI fundamentals/concepts](https://aman.ai/primers/ai/)
 * [2025-08-11, 08:41:39](https://news.ycombinator.com/item?id=44862001) - [Al Jazeera condemns the assassination of its journalists by the IOF](https://network.aljazeera.net/en/press-releases/al-jazeera-condemns-assassination-its-journalists-israeli-occupation-forces)
 * [2025-08-11, 08:03:06](https://news.ycombinator.com/item?id=44861780) - [Self-Guaranteeing Promises](https://stephango.com/self-guarantee)
+* [2025-08-11, 07:15:38](https://news.ycombinator.com/item?id=44861521) - [AOL to discontinue dial-up internet](https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html)
 * [2025-08-11, 06:55:37](https://news.ycombinator.com/item?id=44861412) - [Theft is not fair use](https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063)
 * [2025-08-11, 06:11:59](https://news.ycombinator.com/item?id=44861175) - [A ChatGPT Pro subscription costs 38.6 months of income in low-income countries](https://policykahani.substack.com/p/a-chatgpt-pro-subscription-costs)
 * [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
