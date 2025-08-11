@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-08-11, 00:56:37",
-      "https://news.ycombinator.com/item?id=44859807"
+      "2025-08-11, 01:55:26",
+      "https://news.ycombinator.com/item?id=44860139"
     ],
     [
-      "Tesla remotely deactivates rapper's vehicle for singing about the Cybertruck",
-      "https://www.threads.com/@brittainforsenate/post/DNMcEZ9yOxk"
+      "Vanishing from Hyundai’s data network",
+      "http://techno-fandom.org/~hobbit/cars/ev/offnet.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 01:32:31",
+      "https://news.ycombinator.com/item?id=44860015"
+    ],
+    [
+      "Optimizing My Sleep Around Claude Usage Limits",
+      "https://mattwie.se/no-sleep-till-agi"
     ]
   ],
   [
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=44859763"
     ],
     [
-      "Show HN: Reactive: A React Book for the Reluctant – a book written by Claude",
+      "Show HN: Reactive: A React Book for the Reluctant (written by Claude)",
       "https://github.com/cloudstreet-dev/React-is-Awful"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 00:44:20",
+      "https://news.ycombinator.com/item?id=44859761"
+    ],
+    [
+      "Show HN: A Sinclair ZX81 retro web assembler+simulator",
+      "https://news.ycombinator.com/item?id=44859761"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44858892"
     ],
     [
-      "Compiling a Lisp: Lambda Lifting",
+      "Compiling a Lisp: Lambda lifting",
       "https://bernsteinbear.com/blog/compiling-a-lisp-12/"
     ]
   ],
@@ -107,16 +127,6 @@
     [
       "Diffusion language models are super data learners",
       "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 15:30:48",
-      "https://news.ycombinator.com/item?id=44855868"
-    ],
-    [
-      "Flintlock – Create and manage the lifecycle of MicroVMs, backed by containerd",
-      "https://github.com/liquidmetal-dev/flintlock"
     ]
   ],
   [
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2025-08-09, 21:59:43",
-      "https://news.ycombinator.com/item?id=44850681"
+      "2025-08-08, 04:34:54",
+      "https://news.ycombinator.com/item?id=44833448"
     ],
     [
-      "Abusing Entra OAuth for fun and access to internal Microsoft applications",
-      "https://research.eye.security/consent-and-compromise/"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 20:19:10",
-      "https://news.ycombinator.com/item?id=44841262"
-    ],
-    [
-      "The Framework Desktop is a beast",
-      "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff"
+      "Digital Foundry leaves IGN, now independent [video]",
+      "https://www.youtube.com/watch?v=tl7bIJ2yu4I"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-08-06, 23:31:17",
-      "https://news.ycombinator.com/item?id=44819057"
+      "2025-08-07, 08:04:04",
+      "https://news.ycombinator.com/item?id=44821848"
     ],
     [
-      "My Dream Productivity Device Is Done – and It's Becoming a Kit [video]",
-      "https://www.youtube.com/watch?v=pf3BxNq1cp4"
+      "Lists and Lists: Basics of Lisp through interactive fiction (1996)",
+      "https://eblong.com/zarf/zweb/lists/"
     ]
   ],
   [
