@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-08-11, 00:33:09",
-      "https://news.ycombinator.com/item?id=44859710"
-    ],
-    [
-      "TCP Client Self-Connect (2013)",
-      "http://sgros.blogspot.com/2013/08/tcp-client-self-connect.html"
-    ]
-  ],
-  [
-    [
       "2025-08-10, 22:35:03",
       "https://news.ycombinator.com/item?id=44858892"
     ],
@@ -227,6 +217,16 @@
     [
       "Writing simple tab-completions for Bash and Zsh",
       "https://mill-build.org/blog/14-bash-zsh-completion.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-10, 05:56:14",
+      "https://news.ycombinator.com/item?id=44853064"
+    ],
+    [
+      "Abogen – Generate audiobooks from EPUBs, PDFs and text",
+      "https://github.com/denizsafak/abogen"
     ]
   ],
   [
