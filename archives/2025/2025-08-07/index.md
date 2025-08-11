@@ -22,6 +22,7 @@
 * [2025-08-07, 17:49:49](https://news.ycombinator.com/item?id=44827862) - [Benchmark Framework Desktop Mainboard and 4-node cluster](https://github.com/geerlingguy/ollama-benchmark/issues/21)
 * [2025-08-07, 17:46:18](https://news.ycombinator.com/item?id=44827794) - [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/)
 * [2025-08-07, 17:40:51](https://news.ycombinator.com/item?id=44827692) - [DNA tests are uncovering the true prevalence of incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/)
+* [2025-08-07, 17:36:00](https://news.ycombinator.com/item?id=44827617) - [Against the UUID](https://github.com/firasd/alphadec/blob/main/docs/against-the-uuid.md)
 * [2025-08-07, 17:12:21](https://news.ycombinator.com/item?id=44827216) - [Show HN: Browser AI agent platform designed for reliability](https://github.com/nottelabs/notte)
 * [2025-08-07, 17:06:39](https://news.ycombinator.com/item?id=44827101) - [GPT-5 for Developers](https://openai.com/index/introducing-gpt-5-for-developers)
 * [2025-08-07, 17:03:15](https://news.ycombinator.com/item?id=44827046) - [GPT-5 System Card](https://openai.com/index/gpt-5-system-card)
