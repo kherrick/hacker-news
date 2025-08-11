@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-11, 13:18:51",
+      "https://news.ycombinator.com/item?id=44863753"
+    ],
+    [
+      "TeaOnHer, a rival Tea app for men, is leaking users' personal data",
+      "https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 12:55:30",
       "https://news.ycombinator.com/item?id=44863585"
     ],
@@ -37,16 +47,6 @@
     [
       "Pricing Pages – A Curated Gallery of Pricing Page Designs",
       "https://pricingpages.design/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 12:17:00",
-      "https://news.ycombinator.com/item?id=44863341"
-    ],
-    [
-      "Nukes, Nubs and Coners: The Unique Social Hierarchy Aboard a Nuclear Submarine",
-      "https://www.twz.com/34104/nukes-nubs-and-coners-the-unique-social-hierarchy-aboard-a-nuclear-submarine"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-08-11, 00:44:20",
-      "https://news.ycombinator.com/item?id=44859761"
-    ],
-    [
-      "Show HN: A Sinclair ZX81 retro web assembler+simulator",
-      "https://news.ycombinator.com/item?id=44859761"
-    ]
-  ],
-  [
-    [
       "2025-08-10, 22:35:03",
       "https://news.ycombinator.com/item?id=44858892"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2025-08-10, 16:04:05",
-      "https://news.ycombinator.com/item?id=44856101"
-    ],
-    [
-      "Diffusion language models are super data learners",
-      "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac"
-    ]
-  ],
-  [
-    [
       "2025-08-10, 15:06:07",
       "https://news.ycombinator.com/item?id=44855690"
     ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2025-08-08, 05:55:50",
+      "https://news.ycombinator.com/item?id=44833899"
+    ],
+    [
+      "Fitzgerald's Follies",
+      "https://libertiesjournal.com/articles/fitzgeralds-follies/"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 05:02:23",
       "https://news.ycombinator.com/item?id=44833607"
     ],
@@ -277,6 +267,16 @@
     [
       "Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”",
       "https://mrwint.github.io/winter/writeup/writeup2.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-07, 14:21:39",
+      "https://news.ycombinator.com/item?id=44824811"
+    ],
+    [
+      "A simple pixel physics simulator in Rust using Macroquad",
+      "https://github.com/gale93/sbixel"
     ]
   ],
   [
