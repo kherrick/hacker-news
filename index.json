@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-11, 14:25:58",
+      "https://news.ycombinator.com/item?id=44864467"
+    ],
+    [
+      "Designing Software in the Large",
+      "https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 14:22:16",
+      "https://news.ycombinator.com/item?id=44864419"
+    ],
+    [
+      "Meta Leaks Part 1: Israel and Meta, the Greatest Global Mass Censorship Campaign",
+      "https://archive.org/details/meta_leaks_part_1"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 14:03:46",
       "https://news.ycombinator.com/item?id=44864185"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2025-08-11, 12:50:53",
-      "https://news.ycombinator.com/item?id=44863568"
-    ],
-    [
-      "Justice Dept. Settles with Greystar to End Participation in Algorithmic Pricing",
-      "https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-greystar-largest-us-landlord-end-its"
-    ]
-  ],
-  [
-    [
       "2025-08-11, 12:38:15",
       "https://news.ycombinator.com/item?id=44863487"
     ],
@@ -67,6 +77,16 @@
     [
       "Pricing Pages – A Curated Gallery of Pricing Page Designs",
       "https://pricingpages.design/"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 12:14:44",
+      "https://news.ycombinator.com/item?id=44863323"
+    ],
+    [
+      "Show HN: 1 Million Rows",
+      "https://1mrows.pages.dev"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-08-11, 04:54:20",
-      "https://news.ycombinator.com/item?id=44860832"
-    ],
-    [
-      "Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]",
-      "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf"
-    ]
-  ],
-  [
-    [
       "2025-08-11, 01:55:26",
       "https://news.ycombinator.com/item?id=44860139"
     ],
@@ -237,16 +247,6 @@
     [
       "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
       "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 13:44:05",
-      "https://news.ycombinator.com/item?id=44855157"
-    ],
-    [
-      "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
-      "https://engineering.fyi/"
     ]
   ],
   [
