@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-11, 06:55:37](https://news.ycombinator.com/item?id=44861412) - [Theft is not fair use](https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063)
 * [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
 * [2025-08-11, 05:19:01](https://news.ycombinator.com/item?id=44860932) - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 * [2025-08-11, 05:14:06](https://news.ycombinator.com/item?id=44860908) - [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
@@ -20,7 +21,6 @@
 * [2025-08-10, 13:32:13](https://news.ycombinator.com/item?id=44855079) - [Try and](https://ygdp.yale.edu/phenomena/try-and)
 * [2025-08-10, 11:41:34](https://news.ycombinator.com/item?id=44854525) - [Booting 5000 Erlangs on Ampere One 192-core](https://underjord.io/booting-5000-erlangs-on-ampere-one.html)
 * [2025-08-10, 09:50:25](https://news.ycombinator.com/item?id=44854035) - [Writing simple tab-completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
-* [2025-08-10, 05:56:14](https://news.ycombinator.com/item?id=44853064) - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
 * [2025-08-09, 22:27:37](https://news.ycombinator.com/item?id=44850913) - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 * [2025-08-08, 11:14:33](https://news.ycombinator.com/item?id=44835703) - [Dropbox announces new gen server hardware for higher efficiency and scalability](https://dropbox.tech/infrastructure/seventh-generation-server-hardware)
 * [2025-08-08, 05:02:23](https://news.ycombinator.com/item?id=44833607) - [The enduring puzzle of static electricity](https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven)

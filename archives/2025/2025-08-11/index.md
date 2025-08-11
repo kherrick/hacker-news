@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 06:55:37](https://news.ycombinator.com/item?id=44861412) - [Theft is not fair use](https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063)
 * [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
 * [2025-08-11, 05:19:01](https://news.ycombinator.com/item?id=44860932) - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 * [2025-08-11, 05:14:06](https://news.ycombinator.com/item?id=44860908) - [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
