@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 17:31:43](https://news.ycombinator.com/item?id=44866970) - [Cloudflare Is Not a CDN](https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/)
 * [2025-08-11, 17:07:34](https://news.ycombinator.com/item?id=44866677) - [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
 * [2025-08-11, 17:00:04](https://news.ycombinator.com/item?id=44866587) - [Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
 * [2025-08-11, 16:53:43](https://news.ycombinator.com/item?id=44866500) - [The Value of Institutional Memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
@@ -11,9 +12,11 @@
 * [2025-08-11, 16:16:56](https://news.ycombinator.com/item?id=44865997) - [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)
 * [2025-08-11, 16:11:50](https://news.ycombinator.com/item?id=44865916) - [UI vs. API. vs. UAI](https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai)
 * [2025-08-11, 16:06:04](https://news.ycombinator.com/item?id=44865834) - [Learn, Reflect, Apply, Prepare: The Four Daily Practices That Changed How I Live](https://opuslabs.substack.com/p/learn-reflect-apply-prepare)
+* [2025-08-11, 16:04:34](https://news.ycombinator.com/item?id=44865813) - [Claude Is the Drug, Cursor Is the Dealer](https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the)
 * [2025-08-11, 15:59:08](https://news.ycombinator.com/item?id=44865731) - [Ford reveals breakthrough process for lower priced EVs](https://www.theverge.com/ford-motor-company/757243/ford-ev-truck-breakthrough-model-t)
 * [2025-08-11, 15:53:55](https://news.ycombinator.com/item?id=44865655) - [Beloved by bands and bank robbers, the Ford Transit turns 60](https://www.bbc.com/news/articles/c0j97xegz5no)
 * [2025-08-11, 15:47:48](https://news.ycombinator.com/item?id=44865560) - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
+* [2025-08-11, 15:33:02](https://news.ycombinator.com/item?id=44865319) - [Hard Drive Shortage in Canada?](https://www.vogons.org/viewtopic.php?t=107758)
 * [2025-08-11, 15:30:49](https://news.ycombinator.com/item?id=44865290) - [Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
 * [2025-08-11, 15:20:13](https://news.ycombinator.com/item?id=44865140) - [Ford Aims for Revolution with $30k Electric Truck](https://www.thedrive.com/news/ford-aims-for-revolution-with-30000-electric-truck)
 * [2025-08-11, 15:06:12](https://news.ycombinator.com/item?id=44864981) - [CPS Investigated Her 4 Times Because She Let Her Kids Play Outside](https://reason.com/2025/08/09/child-protective-services-investigated-her-4-times-because-she-let-her-kids-play-outside/)
