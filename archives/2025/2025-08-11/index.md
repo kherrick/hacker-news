@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 12:55:30](https://news.ycombinator.com/item?id=44863585) - [Operation Costs in CPU Clock Cycles (2016)](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
+* [2025-08-11, 12:50:53](https://news.ycombinator.com/item?id=44863568) - [Justice Dept. Settles with Greystar to End Participation in Algorithmic Pricing](https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-greystar-largest-us-landlord-end-its)
 * [2025-08-11, 12:43:27](https://news.ycombinator.com/item?id=44863525) - [Amazon Drone Beehive Concept (2019)](https://etrr.springeropen.com/articles/10.1186/s12544-019-0368-2)
+* [2025-08-11, 12:38:15](https://news.ycombinator.com/item?id=44863487) - [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
 * [2025-08-11, 12:27:08](https://news.ycombinator.com/item?id=44863409) - [Pricing Pages – A Curated Gallery of Pricing Page Designs](https://pricingpages.design/)
+* [2025-08-11, 12:17:00](https://news.ycombinator.com/item?id=44863341) - [Nukes, Nubs and Coners: The Unique Social Hierarchy Aboard a Nuclear Submarine](https://www.twz.com/34104/nukes-nubs-and-coners-the-unique-social-hierarchy-aboard-a-nuclear-submarine)
+* [2025-08-11, 12:11:01](https://news.ycombinator.com/item?id=44863303) - [Why Is Web Performance Undervalued?](https://blaines-blog.com/post-2)
 * [2025-08-11, 12:01:58](https://news.ycombinator.com/item?id=44863242) - [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
+* [2025-08-11, 11:01:23](https://news.ycombinator.com/item?id=44862861) - [A Global Look at Teletext](https://text-mode.org/?p=23643)
 * [2025-08-11, 10:02:08](https://news.ycombinator.com/item?id=44862542) - [GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM](https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/)
 * [2025-08-11, 09:41:13](https://news.ycombinator.com/item?id=44862414) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
 * [2025-08-11, 09:20:50](https://news.ycombinator.com/item?id=44862263) - [Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR](https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant)
