@@ -12,6 +12,7 @@
 * [2025-08-08, 21:12:47](https://news.ycombinator.com/item?id=44841741) - [Our European search index goes live](https://blog.ecosia.org/launching-our-european-search-index/)
 * [2025-08-08, 20:40:39](https://news.ycombinator.com/item?id=44841479) - [Must democracy \"deliver the goods\" to beat autocracy?](https://democracyorbust.bearblog.dev/must-democracy-deliver-the-goods/)
 * [2025-08-08, 20:28:40](https://news.ycombinator.com/item?id=44841371) - [ChatGPT Is Still a Bullshit Machine](https://gizmodo.com/chatgpt-is-still-a-bullshit-machine-2000640488)
+* [2025-08-08, 20:26:47](https://news.ycombinator.com/item?id=44841354) - [A Guide Dog for the Face-Blind](https://asimov.blog/a-guide-dog-for-the-face-blind/)
 * [2025-08-08, 20:22:56](https://news.ycombinator.com/item?id=44841308) - [Study finds flavor bans cut youth vaping but slow decline in cigarette smoking](https://medicalxpress.com/news/2025-07-flavor-youth-vaping-decline-cigarette.html)
 * [2025-08-08, 20:19:10](https://news.ycombinator.com/item?id=44841262) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
 * [2025-08-08, 19:53:47](https://news.ycombinator.com/item?id=44840993) - [GPT-5 Under Fire: Red Teaming OpenAI's Model Reveals Surprising Weaknesses](https://splx.ai/blog/gpt-5-red-teaming-results)
