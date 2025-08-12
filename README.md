@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-12, 00:07:09](https://news.ycombinator.com/item?id=44870895) - [Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations](https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/)
+* [2025-08-11, 23:33:18](https://news.ycombinator.com/item?id=44870679) - [How Kentucky bourbon went from boom to bust](https://www.bbc.com/news/articles/ckglnk6yxlko)
+* [2025-08-11, 22:47:40](https://news.ycombinator.com/item?id=44870332) - [Mouthguards that flash red with head impacts to be used at Rugby World Cup](https://www.rnz.co.nz/news/sport/569695/mouthguards-that-flash-red-with-head-impacts-to-be-used-at-rugby-world-cup)
 * [2025-08-11, 22:21:53](https://news.ycombinator.com/item?id=44870137) - [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
 * [2025-08-11, 18:03:57](https://news.ycombinator.com/item?id=44867374) - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
 * [2025-08-11, 17:54:08](https://news.ycombinator.com/item?id=44867238) - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
-* [2025-08-11, 17:25:57](https://news.ycombinator.com/item?id=44866894) - [AP to end its weekly book reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
 * [2025-08-11, 17:03:33](https://news.ycombinator.com/item?id=44866621) - [The demographic future of humanity: facts and consequences [pdf]](https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf)
 * [2025-08-11, 17:00:04](https://news.ycombinator.com/item?id=44866587) - [Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
 * [2025-08-11, 16:53:43](https://news.ycombinator.com/item?id=44866500) - [The Value of Institutional Memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
@@ -24,12 +26,10 @@
 * [2025-08-11, 01:32:31](https://news.ycombinator.com/item?id=44860015) - [Optimizing my sleep around Claude usage limits](https://mattwie.se/no-sleep-till-agi)
 * [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
 * [2025-08-10, 12:15:01](https://news.ycombinator.com/item?id=44854686) - [Show HN: Play Pokémon to unlock your Wayland session](https://github.com/AdoPi/wlgblock)
-* [2025-08-08, 20:26:47](https://news.ycombinator.com/item?id=44841354) - [A Guide Dog for the Face-Blind](https://asimov.blog/a-guide-dog-for-the-face-blind/)
+* [2025-08-10, 10:22:23](https://news.ycombinator.com/item?id=44854171) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
 * [2025-08-08, 19:11:13](https://news.ycombinator.com/item?id=44840573) - [How to Teach Your Kids to Play Poker: Start with One Card](https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four)
 * [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
-* [2025-08-08, 15:10:54](https://news.ycombinator.com/item?id=44837949) - [Why tail-recursive functions are loops](https://kmicinski.com/functional-programming/2025/08/01/loops/)
 * [2025-08-08, 07:44:57](https://news.ycombinator.com/item?id=44834570) - [White Mountain Direttissima](https://whitemountainski.co/pages/white-mountain-direttissima)
-* [2025-08-07, 14:21:39](https://news.ycombinator.com/item?id=44824811) - [A simple pixel physics simulator in Rust using Macroquad](https://github.com/gale93/sbixel)
 
 ## [Archives](archives/index.md)
 
