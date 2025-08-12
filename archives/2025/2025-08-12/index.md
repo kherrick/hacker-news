@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 05:52:47](https://news.ycombinator.com/item?id=44872850) - [LLMs' \"simulated reasoning\" abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
 * [2025-08-12, 04:08:13](https://news.ycombinator.com/item?id=44872313) - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
 * [2025-08-12, 03:05:22](https://news.ycombinator.com/item?id=44871901) - [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
 * [2025-08-12, 02:58:04](https://news.ycombinator.com/item?id=44871856) - [Supreme Court formally asked to overturn same-sex marriage ruling](https://abcnews.go.com/Politics/supreme-court-formally-asked-overturn-landmark-same-sex/story?id=124465302)

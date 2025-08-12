@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-12, 05:52:47](https://news.ycombinator.com/item?id=44872850) - [LLMs' \"simulated reasoning\" abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
 * [2025-08-12, 04:08:13](https://news.ycombinator.com/item?id=44872313) - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
 * [2025-08-12, 03:05:22](https://news.ycombinator.com/item?id=44871901) - [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
 * [2025-08-12, 02:51:53](https://news.ycombinator.com/item?id=44871817) - [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488)
@@ -12,7 +13,6 @@
 * [2025-08-11, 17:54:08](https://news.ycombinator.com/item?id=44867238) - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
 * [2025-08-11, 16:53:43](https://news.ycombinator.com/item?id=44866500) - [The value of institutional memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
 * [2025-08-11, 16:33:26](https://news.ycombinator.com/item?id=44866208) - [Wikipedia loses challenge against Online Safety Act](https://www.bbc.com/news/articles/cjr11qqvvwlo)
-* [2025-08-11, 16:16:56](https://news.ycombinator.com/item?id=44865997) - [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)
 * [2025-08-11, 15:47:48](https://news.ycombinator.com/item?id=44865560) - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
 * [2025-08-11, 15:30:49](https://news.ycombinator.com/item?id=44865290) - [Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
 * [2025-08-11, 14:42:27](https://news.ycombinator.com/item?id=44864680) - [36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens](https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false)
@@ -20,7 +20,6 @@
 * [2025-08-11, 13:59:02](https://news.ycombinator.com/item?id=44864134) - [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
 * [2025-08-11, 12:01:58](https://news.ycombinator.com/item?id=44863242) - [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
 * [2025-08-11, 07:15:38](https://news.ycombinator.com/item?id=44861521) - [AOL to discontinue dial-up internet](https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html)
-* [2025-08-11, 01:32:31](https://news.ycombinator.com/item?id=44860015) - [Optimizing my sleep around Claude usage limits](https://mattwie.se/no-sleep-till-agi)
 * [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
 * [2025-08-10, 12:15:01](https://news.ycombinator.com/item?id=44854686) - [Show HN: Play Pokémon to unlock your Wayland session](https://github.com/AdoPi/wlgblock)
 * [2025-08-10, 10:22:23](https://news.ycombinator.com/item?id=44854171) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
@@ -28,6 +27,7 @@
 * [2025-08-08, 19:11:13](https://news.ycombinator.com/item?id=44840573) - [How to teach your kids to play poker: Start with one card](https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four)
 * [2025-08-08, 17:32:57](https://news.ycombinator.com/item?id=44839575) - [All known 49-year-old Apple-1 computer](https://www.apple1registry.com/en/list.html)
 * [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
+* [2025-08-08, 15:17:40](https://news.ycombinator.com/item?id=44838029) - [You're Wrong About Dates – and Your Code Is Lying to You](https://metaduck.com/youre-wrong-about-dates/)
 * [2025-08-08, 15:10:54](https://news.ycombinator.com/item?id=44837949) - [Why tail-recursive functions are loops](https://kmicinski.com/functional-programming/2025/08/01/loops/)
 * [2025-08-08, 05:51:02](https://news.ycombinator.com/item?id=44833869) - [FreeBSD Scheduling on Hybrid CPUs](https://wiki.freebsd.org/Scheduler/Hybrid)
 

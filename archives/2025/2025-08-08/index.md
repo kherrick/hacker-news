@@ -45,6 +45,7 @@
 * [2025-08-08, 15:45:27](https://news.ycombinator.com/item?id=44838378) - [Tor: How a Military Project Became a Lifeline for Privacy](https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/)
 * [2025-08-08, 15:38:48](https://news.ycombinator.com/item?id=44838303) - [GPT-5 vs. Sonnet: Complex Agentic Coding](https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet)
 * [2025-08-08, 15:26:45](https://news.ycombinator.com/item?id=44838170) - [Programming with AI: You're Probably Doing It Wrong](https://www.devroom.io/2025/08/08/programming-with-ai-youre-probably-doing-it-wrong/)
+* [2025-08-08, 15:17:40](https://news.ycombinator.com/item?id=44838029) - [You're Wrong About Dates – and Your Code Is Lying to You](https://metaduck.com/youre-wrong-about-dates/)
 * [2025-08-08, 15:10:54](https://news.ycombinator.com/item?id=44837949) - [Why Tail-Recursive Functions Are Loops](https://kmicinski.com/functional-programming/2025/08/01/loops/)
 * [2025-08-08, 15:04:40](https://news.ycombinator.com/item?id=44837875) - [AI must RTFM: Why tech writers are becoming context curators](https://passo.uno/from-tech-writers-to-ai-context-curators/)
 * [2025-08-08, 14:57:06](https://news.ycombinator.com/item?id=44837783) - [AI is impressive because we've failed at personal computing](https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing)
