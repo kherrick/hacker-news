@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 13:39:42](https://news.ycombinator.com/item?id=44876075) - [We keep reinventing CSS, but styling was never the problem](https://denodell.com/blog/we-keep-reinventing-css)
+* [2025-08-12, 13:30:10](https://news.ycombinator.com/item?id=44875961) - [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
 * [2025-08-12, 13:01:47](https://news.ycombinator.com/item?id=44875712) - [Sloppy AI defenses take cybersecurity back to the 1990s, researchers say](https://www.scworld.com/news/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say)
 * [2025-08-12, 12:19:47](https://news.ycombinator.com/item?id=44875311) - [High-severity WinRAR 0-day exploited for weeks by 2 groups](https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/)
 * [2025-08-12, 12:18:22](https://news.ycombinator.com/item?id=44875294) - [Outside of the top stocks, S&P 500 forward profits haven't grown in 3 years](https://insight-public.sgmarkets.com/quant-motion-pictures/outside-of-the-top-10-stocks-sp500-forward-profits-haven-t-grown-in-three-years)
