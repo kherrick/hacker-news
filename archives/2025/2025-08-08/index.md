@@ -33,6 +33,7 @@
 * [2025-08-08, 18:19:05](https://news.ycombinator.com/item?id=44840013) - [I Want Everything Local – Building My Offline AI Workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
 * [2025-08-08, 18:04:26](https://news.ycombinator.com/item?id=44839842) - [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/)
 * [2025-08-08, 17:58:30](https://news.ycombinator.com/item?id=44839787) - [AI industry horrified to face largest copyright class action ever certified](https://arstechnica.com/tech-policy/2025/08/ai-industry-horrified-to-face-largest-copyright-class-action-ever-certified/)
+* [2025-08-08, 17:55:45](https://news.ycombinator.com/item?id=44839776) - [The Best Line Length](https://blog.glyph.im/2025/08/the-best-line-length.html)
 * [2025-08-08, 17:48:29](https://news.ycombinator.com/item?id=44839705) - [My commitment to you and our company](https://newsroom.intel.com/corporate/my-commitment-to-you-and-our-company)
 * [2025-08-08, 17:45:26](https://news.ycombinator.com/item?id=44839681) - [Someone keeps stealing, flying, fixing and returning this man's plane. But why?](https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief)
 * [2025-08-08, 17:32:57](https://news.ycombinator.com/item?id=44839575) - [All known 49-year-old Apple-1 computer](https://www.apple1registry.com/en/list.html)
