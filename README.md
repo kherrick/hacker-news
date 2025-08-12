@@ -8,6 +8,7 @@
 * [2025-08-12, 16:02:40](https://news.ycombinator.com/item?id=44878151) - [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
 * [2025-08-12, 16:02:23](https://news.ycombinator.com/item?id=44878147) - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
 * [2025-08-12, 15:33:51](https://news.ycombinator.com/item?id=44877656) - [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22)
+* [2025-08-12, 15:24:51](https://news.ycombinator.com/item?id=44877512) - [New 3D Laser Scanner Developed for Harvesting Robots](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/3d-laserscan-harvestingrobots/)
 * [2025-08-12, 15:19:35](https://news.ycombinator.com/item?id=44877404) - [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
 * [2025-08-12, 14:56:53](https://news.ycombinator.com/item?id=44877076) - [Why are there so many rationalist cults?](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)
 * [2025-08-12, 14:52:54](https://news.ycombinator.com/item?id=44877021) - [Enlisting in the Fight Against Link Rot](https://jszym.com/blog/archiving_googl/)
@@ -28,7 +29,6 @@
 * [2025-08-09, 07:07:51](https://news.ycombinator.com/item?id=44844647) - [The Article in the Most Languages](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report)
 * [2025-08-09, 01:07:48](https://news.ycombinator.com/item?id=44843223) - [A Spellchecker Used to Be a Major Feat of Software Engineering](https://prog21.dadgum.com/29.html)
 * [2025-08-08, 21:59:18](https://news.ycombinator.com/item?id=44842114) - [RISC-V single-board computer for less than 40 euros](https://www.heise.de/en/news/RISC-V-single-board-computer-for-less-than-40-euros-10515044.html)
-* [2025-08-08, 14:06:18](https://news.ycombinator.com/item?id=44837124) - [Artificial biosensor can better measure the body's main stress hormone](https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html)
 * [2025-08-08, 12:38:11](https://news.ycombinator.com/item?id=44836294) - [Modos Paper Monitor – Open-hardware e-paper monitor and dev kit](https://www.crowdsupply.com/modos-tech/modos-paper-monitor)
 
 ## [Archives](archives/index.md)
