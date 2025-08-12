@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 14:12:24](https://news.ycombinator.com/item?id=44876449) - [That viral video of a 'deactivated' Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
+* [2025-08-12, 13:59:34](https://news.ycombinator.com/item?id=44876289) - [Ask HN: What alternatives to GitHub are you using?](https://news.ycombinator.com/item?id=44876289)
 * [2025-08-12, 13:39:42](https://news.ycombinator.com/item?id=44876075) - [We keep reinventing CSS, but styling was never the problem](https://denodell.com/blog/we-keep-reinventing-css)
 * [2025-08-12, 13:30:10](https://news.ycombinator.com/item?id=44875961) - [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
 * [2025-08-12, 13:01:47](https://news.ycombinator.com/item?id=44875712) - [Sloppy AI defenses take cybersecurity back to the 1990s, researchers say](https://www.scworld.com/news/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say)
