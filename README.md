@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-12, 03:05:22](https://news.ycombinator.com/item?id=44871901) - [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
 * [2025-08-12, 02:51:53](https://news.ycombinator.com/item?id=44871817) - [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488)
 * [2025-08-12, 01:26:18](https://news.ycombinator.com/item?id=44871337) - [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
 * [2025-08-12, 00:07:09](https://news.ycombinator.com/item?id=44870895) - [Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations](https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/)
@@ -25,10 +26,9 @@
 * [2025-08-10, 12:15:01](https://news.ycombinator.com/item?id=44854686) - [Show HN: Play Pokémon to unlock your Wayland session](https://github.com/AdoPi/wlgblock)
 * [2025-08-10, 10:22:23](https://news.ycombinator.com/item?id=44854171) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
 * [2025-08-08, 19:11:13](https://news.ycombinator.com/item?id=44840573) - [How to teach your kids to play poker: Start with one card](https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four)
+* [2025-08-08, 17:32:57](https://news.ycombinator.com/item?id=44839575) - [All known 49-year-old Apple-1 computer](https://www.apple1registry.com/en/list.html)
 * [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
-* [2025-08-08, 16:09:39](https://news.ycombinator.com/item?id=44838646) - [U.S. preparing IPO for Fannie Mae and Freddie Mac later this year](https://www.wsj.com/finance/regulation/trump-aiming-to-ipo-fannie-mae-and-freddie-mac-later-this-year-13b138cf)
 * [2025-08-08, 15:10:54](https://news.ycombinator.com/item?id=44837949) - [Why tail-recursive functions are loops](https://kmicinski.com/functional-programming/2025/08/01/loops/)
-* [2025-08-08, 07:44:57](https://news.ycombinator.com/item?id=44834570) - [White Mountain Direttissima](https://whitemountainski.co/pages/white-mountain-direttissima)
 * [2025-08-08, 05:51:02](https://news.ycombinator.com/item?id=44833869) - [FreeBSD Scheduling on Hybrid CPUs](https://wiki.freebsd.org/Scheduler/Hybrid)
 
 ## [Archives](archives/index.md)
