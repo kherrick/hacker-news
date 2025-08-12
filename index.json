@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-12, 01:26:18",
+      "https://news.ycombinator.com/item?id=44871337"
+    ],
+    [
+      "GLM-4.5: Agentic, Reasoning, and Coding (Arc) Foundation Models [pdf]",
+      "https://www.arxiv.org/pdf/2508.06471"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 00:07:09",
       "https://news.ycombinator.com/item?id=44870895"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2025-08-11, 23:33:18",
-      "https://news.ycombinator.com/item?id=44870679"
+      "2025-08-11, 23:45:09",
+      "https://news.ycombinator.com/item?id=44870759"
     ],
     [
-      "How Kentucky bourbon went from boom to bust",
-      "https://www.bbc.com/news/articles/ckglnk6yxlko"
+      "Show HN: Keeps – Mail a postcard that plays your voice",
+      "https://www.sendkeeps.com/"
     ]
   ],
   [
     [
-      "2025-08-11, 22:47:40",
-      "https://news.ycombinator.com/item?id=44870332"
+      "2025-08-11, 23:03:37",
+      "https://news.ycombinator.com/item?id=44870445"
     ],
     [
-      "Mouthguards that flash red with head impacts to be used at Rugby World Cup",
-      "https://www.rnz.co.nz/news/sport/569695/mouthguards-that-flash-red-with-head-impacts-to-be-used-at-rugby-world-cup"
+      "What does it mean to be thirsty?",
+      "https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44866500"
     ],
     [
-      "The Value of Institutional Memory",
+      "The value of institutional memory",
       "https://timharford.com/2025/05/the-value-of-institutional-memory/"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "The Joy of Mixing Custom Elements, Web Components, and Markdown",
       "https://deanebarker.net/tech/blog/custom-elements-markdown/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 16:11:50",
-      "https://news.ycombinator.com/item?id=44865916"
-    ],
-    [
-      "UI vs. API. vs. UAI",
-      "https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai"
     ]
   ],
   [
@@ -161,12 +161,12 @@
   ],
   [
     [
-      "2025-08-11, 14:25:58",
-      "https://news.ycombinator.com/item?id=44864467"
+      "2025-08-11, 14:04:25",
+      "https://news.ycombinator.com/item?id=44864192"
     ],
     [
-      "Designing Software in the Large",
-      "https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/"
+      "Trump Orders National Guard to Washington and Takeover of Capital’s Police",
+      "https://www.nytimes.com/live/2025/08/11/us/trump-news"
     ]
   ],
   [
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2025-08-11, 10:10:46",
-      "https://news.ycombinator.com/item?id=44862583"
+      "2025-08-11, 07:15:38",
+      "https://news.ycombinator.com/item?id=44861521"
     ],
     [
-      "Mistral Integration Improved in Llama.cpp",
-      "https://github.com/ggml-org/llama.cpp/pull/14737"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 09:41:13",
-      "https://news.ycombinator.com/item?id=44862414"
-    ],
-    [
-      "Faster substring search with SIMD in Zig",
-      "https://aarol.dev/posts/zig-simd-substr/"
+      "AOL to discontinue dial-up internet",
+      "https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html"
     ]
   ],
   [
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2025-08-08, 19:11:13",
-      "https://news.ycombinator.com/item?id=44840573"
-    ],
-    [
-      "How to Teach Your Kids to Play Poker: Start with One Card",
-      "https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four"
-    ]
-  ],
-  [
-    [
       "2025-08-08, 17:25:03",
       "https://news.ycombinator.com/item?id=44839496"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-08-08, 15:10:54",
+      "https://news.ycombinator.com/item?id=44837949"
+    ],
+    [
+      "Why tail-recursive functions are loops",
+      "https://kmicinski.com/functional-programming/2025/08/01/loops/"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 07:44:57",
       "https://news.ycombinator.com/item?id=44834570"
     ],
     [
       "White Mountain Direttissima",
       "https://whitemountainski.co/pages/white-mountain-direttissima"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 05:51:02",
+      "https://news.ycombinator.com/item?id=44833869"
+    ],
+    [
+      "FreeBSD Scheduling on Hybrid CPUs",
+      "https://wiki.freebsd.org/Scheduler/Hybrid"
     ]
   ]
 ]
