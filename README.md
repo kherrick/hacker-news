@@ -21,7 +21,6 @@
 * [2025-08-11, 13:59:02](https://news.ycombinator.com/item?id=44864134) - [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
 * [2025-08-11, 12:01:58](https://news.ycombinator.com/item?id=44863242) - [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
 * [2025-08-11, 07:15:38](https://news.ycombinator.com/item?id=44861521) - [AOL to discontinue dial-up internet](https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html)
-* [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
 * [2025-08-10, 12:15:01](https://news.ycombinator.com/item?id=44854686) - [Show HN: Play Pokémon to unlock your Wayland session](https://github.com/AdoPi/wlgblock)
 * [2025-08-10, 10:22:23](https://news.ycombinator.com/item?id=44854171) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
 * [2025-08-09, 07:07:51](https://news.ycombinator.com/item?id=44844647) - [The Article in the Most Languages](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report)
@@ -29,6 +28,7 @@
 * [2025-08-08, 19:11:13](https://news.ycombinator.com/item?id=44840573) - [How to teach your kids to play poker: Start with one card](https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four)
 * [2025-08-08, 17:32:57](https://news.ycombinator.com/item?id=44839575) - [All known 49-year-old Apple-1 computer](https://www.apple1registry.com/en/list.html)
 * [2025-08-08, 15:10:54](https://news.ycombinator.com/item?id=44837949) - [Why tail-recursive functions are loops](https://kmicinski.com/functional-programming/2025/08/01/loops/)
+* [2025-08-08, 12:38:11](https://news.ycombinator.com/item?id=44836294) - [A fast, low-latency, open-hardware e-paper monitor and dev kit](https://www.crowdsupply.com/modos-tech/modos-paper-monitor)
 * [2025-08-08, 05:51:02](https://news.ycombinator.com/item?id=44833869) - [FreeBSD Scheduling on Hybrid CPUs](https://wiki.freebsd.org/Scheduler/Hybrid)
 
 ## [Archives](archives/index.md)
