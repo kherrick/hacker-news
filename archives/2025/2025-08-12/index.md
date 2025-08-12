@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 17:01:10](https://news.ycombinator.com/item?id=44879015) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from Anywhere](https://github.com/omnara-ai/omnara)
 * [2025-08-12, 16:12:02](https://news.ycombinator.com/item?id=44878290) - [Can modern LLMs count the number of b's in \"blueberry\"?](https://minimaxir.com/2025/08/llm-blueberry/)
 * [2025-08-12, 16:10:03](https://news.ycombinator.com/item?id=44878257) - [Launch HN: Design Arena (YC S25) – Head-to-Head AI Benchmark for Aesthetics](https://news.ycombinator.com/item?id=44878257)
