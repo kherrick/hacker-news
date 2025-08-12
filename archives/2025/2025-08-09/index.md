@@ -23,6 +23,7 @@
 * [2025-08-09, 16:17:16](https://news.ycombinator.com/item?id=44847741) - [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
 * [2025-08-09, 15:52:22](https://news.ycombinator.com/item?id=44847481) - [Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union](https://laurivahtre.ee/empire-of-the-absurd/)
 * [2025-08-09, 15:41:57](https://news.ycombinator.com/item?id=44847368) - [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)
+* [2025-08-09, 15:36:24](https://news.ycombinator.com/item?id=44847335) - [The Ancient Art and Intimate Craft of Artificial Eyes](https://thereader.mitpress.mit.edu/the-ancient-art-and-intimate-craft-of-artificial-eyes/)
 * [2025-08-09, 15:36:21](https://news.ycombinator.com/item?id=44847334) - [End-User Programmable AI](https://queue.acm.org/detail.cfm?id=3746223)
 * [2025-08-09, 15:30:14](https://news.ycombinator.com/item?id=44847284) - [60% of medal of honor recipients are Irish or Irish-American](https://en.wikipedia.org/wiki/List_of_Irish-American_Medal_of_Honor_recipients)
 * [2025-08-09, 14:56:16](https://news.ycombinator.com/item?id=44847001) - [ESP32 Bus Pirate 0.5 – A Hardware Hacking Tool That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
