@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-12, 17:07:43](https://news.ycombinator.com/item?id=44879113) - [The \"high-level CPU\" challenge](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
 * [2025-08-12, 17:01:10](https://news.ycombinator.com/item?id=44879015) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-08-12, 16:59:58](https://news.ycombinator.com/item?id=44878999) - [Claude vs. Gemini: Testing on 1M Tokens of Context](https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window)
 * [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from Anywhere](https://github.com/omnara-ai/omnara)
@@ -8,7 +9,6 @@
 * [2025-08-12, 16:02:23](https://news.ycombinator.com/item?id=44878147) - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
 * [2025-08-12, 15:33:51](https://news.ycombinator.com/item?id=44877656) - [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22)
 * [2025-08-12, 15:19:35](https://news.ycombinator.com/item?id=44877404) - [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
-* [2025-08-12, 15:02:03](https://news.ycombinator.com/item?id=44877147) - [Why We Migrated from Neon to PlanetScale](https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/)
 * [2025-08-12, 14:56:53](https://news.ycombinator.com/item?id=44877076) - [Why are there so many rationalist cults?](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)
 * [2025-08-12, 14:52:54](https://news.ycombinator.com/item?id=44877021) - [Enlisting in the Fight Against Link Rot](https://jszym.com/blog/archiving_googl/)
 * [2025-08-12, 14:41:12](https://news.ycombinator.com/item?id=44876844) - [Nexus: An Open-Source AI Router for Governance, Control and Observability](https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router)

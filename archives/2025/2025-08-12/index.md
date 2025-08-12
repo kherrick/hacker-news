@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 17:07:43](https://news.ycombinator.com/item?id=44879113) - [The \"high-level CPU\" challenge](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
 * [2025-08-12, 17:01:10](https://news.ycombinator.com/item?id=44879015) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-08-12, 16:59:58](https://news.ycombinator.com/item?id=44878999) - [Claude vs. Gemini: Testing on 1M Tokens of Context](https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window)
 * [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from Anywhere](https://github.com/omnara-ai/omnara)
