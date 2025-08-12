@@ -34,6 +34,7 @@
 * [2025-08-12, 14:41:12](https://news.ycombinator.com/item?id=44876844) - [Nexus: An Open-Source AI Router for Governance, Control and Observability](https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router)
 * [2025-08-12, 14:37:19](https://news.ycombinator.com/item?id=44876784) - [GitHub is (again) having issues](https://www.githubstatus.com/incidents/9rfydl2xdqqj)
 * [2025-08-12, 14:12:24](https://news.ycombinator.com/item?id=44876449) - [That viral video of a 'deactivated' Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
+* [2025-08-12, 14:04:40](https://news.ycombinator.com/item?id=44876356) - [Journaling using Nix, Vim and coreutils](https://tangled.sh/@oppi.li/journal)
 * [2025-08-12, 13:59:34](https://news.ycombinator.com/item?id=44876289) - [Ask HN: What alternatives to GitHub are you using?](https://news.ycombinator.com/item?id=44876289)
 * [2025-08-12, 13:39:42](https://news.ycombinator.com/item?id=44876075) - [We keep reinventing CSS, but styling was never the problem](https://denodell.com/blog/we-keep-reinventing-css)
 * [2025-08-12, 13:32:16](https://news.ycombinator.com/item?id=44875992) - [Training language models to be warm and empathetic makes them less reliable](https://arxiv.org/abs/2507.21919)
