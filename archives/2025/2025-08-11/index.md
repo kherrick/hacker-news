@@ -8,6 +8,7 @@
 * [2025-08-11, 23:33:18](https://news.ycombinator.com/item?id=44870679) - [How Kentucky bourbon went from boom to bust](https://www.bbc.com/news/articles/ckglnk6yxlko)
 * [2025-08-11, 23:03:37](https://news.ycombinator.com/item?id=44870445) - [What does it mean to be thirsty?](https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/)
 * [2025-08-11, 22:47:40](https://news.ycombinator.com/item?id=44870332) - [Mouthguards that flash red with head impacts to be used at Rugby World Cup](https://www.rnz.co.nz/news/sport/569695/mouthguards-that-flash-red-with-head-impacts-to-be-used-at-rugby-world-cup)
+* [2025-08-11, 22:39:41](https://news.ycombinator.com/item?id=44870277) - [Starbucks in Korea asks customers to stop bringing in printers/desktop computers](https://fortune.com/2025/08/11/starbucks-south-korea-policy-desktop-computer-printer-ban-cagongjok/)
 * [2025-08-11, 22:21:53](https://news.ycombinator.com/item?id=44870137) - [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
 * [2025-08-11, 20:50:13](https://news.ycombinator.com/item?id=44869323) - [I've seen 12 people hospitalized after losing touch with reality because of AI](https://twitter.com/KeithSakata/status/1954884361695719474)
 * [2025-08-11, 18:54:26](https://news.ycombinator.com/item?id=44867997) - [Grok Has Been Suspended](https://x.com/grok)
