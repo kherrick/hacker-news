@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-12, 21:25:01](https://news.ycombinator.com/item?id=44881977) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 * [2025-08-12, 20:15:17](https://news.ycombinator.com/item?id=44881287) - [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 * [2025-08-12, 19:26:00](https://news.ycombinator.com/item?id=44880777) - [Exile Economics: If Globalisation Fails](https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang)
 * [2025-08-12, 18:56:38](https://news.ycombinator.com/item?id=44880401) - [Ashet Home Computer](https://ashet.computer/)
 * [2025-08-12, 18:27:50](https://news.ycombinator.com/item?id=44880081) - [The Equality Delete Problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
-* [2025-08-12, 18:09:43](https://news.ycombinator.com/item?id=44879853) - [Let's get real about the one-person billion dollar company](https://www.marcrand.com/p/lets-get-real-about-the-one-person)
 * [2025-08-12, 17:01:10](https://news.ycombinator.com/item?id=44879015) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-08-12, 16:59:58](https://news.ycombinator.com/item?id=44878999) - [Claude vs. Gemini: Testing on 1M Tokens of Context](https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window)
 * [2025-08-12, 16:53:37](https://news.ycombinator.com/item?id=44878916) - [WHY2025: How to become your own ISP [video]](https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp)
