@@ -26,8 +26,8 @@
 * [2025-08-08, 21:30:31](https://news.ycombinator.com/item?id=44841891) - [Undefined Behavior in C and C++](https://russellw.github.io/undefined-behavior)
 * [2025-08-08, 19:11:13](https://news.ycombinator.com/item?id=44840573) - [How to teach your kids to play poker: Start with one card](https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four)
 * [2025-08-08, 17:32:57](https://news.ycombinator.com/item?id=44839575) - [All known 49-year-old Apple-1 computer](https://www.apple1registry.com/en/list.html)
-* [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
 * [2025-08-08, 15:10:54](https://news.ycombinator.com/item?id=44837949) - [Why tail-recursive functions are loops](https://kmicinski.com/functional-programming/2025/08/01/loops/)
+* [2025-08-08, 14:06:18](https://news.ycombinator.com/item?id=44837124) - [Artificial biosensor can better measure the body's main stress hormone](https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html)
 * [2025-08-08, 12:38:11](https://news.ycombinator.com/item?id=44836294) - [A fast, low-latency, open-hardware e-paper monitor and dev kit](https://www.crowdsupply.com/modos-tech/modos-paper-monitor)
 * [2025-08-08, 05:51:02](https://news.ycombinator.com/item?id=44833869) - [FreeBSD Scheduling on Hybrid CPUs](https://wiki.freebsd.org/Scheduler/Hybrid)
 
