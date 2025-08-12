@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-08-10, 19:37:25",
-      "https://news.ycombinator.com/item?id=44857643"
-    ],
-    [
-      "How Boom uses software to accelerate hardware development",
-      "https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical"
-    ]
-  ],
-  [
-    [
       "2025-08-10, 12:15:01",
       "https://news.ycombinator.com/item?id=44854686"
     ],
@@ -287,6 +277,16 @@
     [
       "Why tail-recursive functions are loops",
       "https://kmicinski.com/functional-programming/2025/08/01/loops/"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 12:38:11",
+      "https://news.ycombinator.com/item?id=44836294"
+    ],
+    [
+      "A fast, low-latency, open-hardware e-paper monitor and dev kit",
+      "https://www.crowdsupply.com/modos-tech/modos-paper-monitor"
     ]
   ],
   [
