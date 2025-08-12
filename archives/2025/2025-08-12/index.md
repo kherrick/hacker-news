@@ -14,6 +14,7 @@
 * [2025-08-12, 16:59:58](https://news.ycombinator.com/item?id=44878999) - [Claude vs. Gemini: Testing on 1M Tokens of Context](https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window)
 * [2025-08-12, 16:53:37](https://news.ycombinator.com/item?id=44878916) - [How to become your own ISP (WHY2025) [video]](https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp)
 * [2025-08-12, 16:42:01](https://news.ycombinator.com/item?id=44878757) - [Writing is power transfer technology](https://danco.substack.com/p/im-joining-a16z)
+* [2025-08-12, 16:40:46](https://news.ycombinator.com/item?id=44878744) - [OpenAI Burns the Boats](https://ethanding.substack.com/p/openai-burns-the-boats)
 * [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from Anywhere](https://github.com/omnara-ai/omnara)
 * [2025-08-12, 16:12:02](https://news.ycombinator.com/item?id=44878290) - [Can modern LLMs count the number of b's in \"blueberry\"?](https://minimaxir.com/2025/08/llm-blueberry/)
 * [2025-08-12, 16:10:03](https://news.ycombinator.com/item?id=44878257) - [Launch HN: Design Arena (YC S25) – Head-to-Head AI Benchmark for Aesthetics](https://news.ycombinator.com/item?id=44878257)
