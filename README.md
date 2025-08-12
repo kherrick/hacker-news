@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-12, 21:25:01](https://news.ycombinator.com/item?id=44881977) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
+* [2025-08-12, 21:15:11](https://news.ycombinator.com/item?id=44881878) - [Crypto founder Do Kwon pleads guilty to US fraud charges](https://www.ft.com/content/2e6fdc73-1083-48fb-b258-d22fc7ef8ad8)
 * [2025-08-12, 20:15:17](https://news.ycombinator.com/item?id=44881287) - [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 * [2025-08-12, 19:26:00](https://news.ycombinator.com/item?id=44880777) - [Exile Economics: If Globalisation Fails](https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang)
 * [2025-08-12, 18:56:38](https://news.ycombinator.com/item?id=44880401) - [Ashet Home Computer](https://ashet.computer/)
