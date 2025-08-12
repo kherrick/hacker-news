@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 19:26:00](https://news.ycombinator.com/item?id=44880777) - [Exile Economics: If Globalisation Fails](https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang)
 * [2025-08-12, 18:56:38](https://news.ycombinator.com/item?id=44880401) - [Ashet Home Computer](https://ashet.computer/)
 * [2025-08-12, 18:27:50](https://news.ycombinator.com/item?id=44880081) - [The Equality Delete Problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
 * [2025-08-12, 18:09:43](https://news.ycombinator.com/item?id=44879853) - [Let's get real about the one-person billion dollar company](https://www.marcrand.com/p/lets-get-real-about-the-one-person)
