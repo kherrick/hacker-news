@@ -6,6 +6,7 @@
 
 * [2025-08-09, 23:07:58](https://news.ycombinator.com/item?id=44851214) - [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
 * [2025-08-09, 23:02:33](https://news.ycombinator.com/item?id=44851181) - [Debian GNU/Hurd 2025 released](https://lists.gnu.org/archive/html/bug-hurd/2025-08/msg00008.html)
+* [2025-08-09, 23:02:33](https://news.ycombinator.com/item?id=44851181) - [Debian GNU/Hurd 2025 released](https://lists.debian.org/debian-hurd/2025/08/msg00038.html)
 * [2025-08-09, 22:27:37](https://news.ycombinator.com/item?id=44850913) - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 * [2025-08-09, 21:59:43](https://news.ycombinator.com/item?id=44850681) - [Consent and Compromise: How We Got Access to 22 Internal Microsoft Services](https://research.eye.security/consent-and-compromise/)
 * [2025-08-09, 21:10:16](https://news.ycombinator.com/item?id=44850260) - [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
@@ -54,6 +55,7 @@
 * [2025-08-09, 08:58:40](https://news.ycombinator.com/item?id=44845043) - [Datalog-Based Binary Equivalence](https://github.com/binaryeq/daleq)
 * [2025-08-09, 08:50:33](https://news.ycombinator.com/item?id=44845017) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
 * [2025-08-09, 08:18:58](https://news.ycombinator.com/item?id=44844897) - [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
+* [2025-08-09, 07:31:42](https://news.ycombinator.com/item?id=44844733) - [Dumb to Managed Switch Conversion](https://spritesmods.com/?art=rtl8366sb&page=1)
 * [2025-08-09, 07:07:51](https://news.ycombinator.com/item?id=44844647) - [The Article in the Most Languages](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report)
 * [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
 * [2025-08-09, 06:42:38](https://news.ycombinator.com/item?id=44844544) - [Many women have 'lost' their boyfriends because of OpenAI's GPT-5](https://old.reddit.com/r/MyBoyfriendIsAI/comments/1mkweq4/a_note_to_the_community_from_someone_whos_gone/)
