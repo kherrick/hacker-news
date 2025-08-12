@@ -60,6 +60,7 @@
 * [2025-08-08, 13:45:57](https://news.ycombinator.com/item?id=44836879) - [Getting Good Results from Claude Code](https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/)
 * [2025-08-08, 13:26:01](https://news.ycombinator.com/item?id=44836675) - [The Rise of Ritual Features: Why Platforms Are Adding Daily Puzzle Games](https://productpickle.online/2025/07/20/ritual-features-the-quiet-strategy-behind-daily-puzzle-games-on-linkedin-and-beyond/)
 * [2025-08-08, 13:16:40](https://news.ycombinator.com/item?id=44836608) - [Docker for Developers: Essential Commands in One Cheatsheet](https://jsdev.space/docker-commands-cheatsheet/)
+* [2025-08-08, 13:11:52](https://news.ycombinator.com/item?id=44836560) - [OOP is not Design Patterns](https://iaziz786.com/blog/oop-is-not-design-patterns/)
 * [2025-08-08, 12:57:50](https://news.ycombinator.com/item?id=44836463) - [HorizonDB, a geocoding engine in Rust that replaces Elasticsearch](https://radar.com/blog/high-performance-geocoding-in-rust)
 * [2025-08-08, 12:54:23](https://news.ycombinator.com/item?id=44836433) - [Show HN: Synchrotron, a real-time DSP engine in pure Python](https://synchrotron.thatother.dev/)
 * [2025-08-08, 12:52:27](https://news.ycombinator.com/item?id=44836414) - [The BLS Can't Be Replaced by the Private Sector](https://www.bloomberg.com/opinion/articles/2025-08-08/the-bls-can-t-be-replaced-by-the-private-sector)
