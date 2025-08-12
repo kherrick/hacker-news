@@ -24,6 +24,7 @@
 * [2025-08-09, 16:44:01](https://news.ycombinator.com/item?id=44847971) - [Accessibility and the Agentic Web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
 * [2025-08-09, 16:17:16](https://news.ycombinator.com/item?id=44847741) - [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
 * [2025-08-09, 15:52:22](https://news.ycombinator.com/item?id=44847481) - [Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union](https://laurivahtre.ee/empire-of-the-absurd/)
+* [2025-08-09, 15:47:02](https://news.ycombinator.com/item?id=44847419) - [All-In on Omarchy at 37signals](https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450)
 * [2025-08-09, 15:41:57](https://news.ycombinator.com/item?id=44847368) - [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)
 * [2025-08-09, 15:36:24](https://news.ycombinator.com/item?id=44847335) - [The Ancient Art and Intimate Craft of Artificial Eyes](https://thereader.mitpress.mit.edu/the-ancient-art-and-intimate-craft-of-artificial-eyes/)
 * [2025-08-09, 15:36:21](https://news.ycombinator.com/item?id=44847334) - [End-User Programmable AI](https://queue.acm.org/detail.cfm?id=3746223)
