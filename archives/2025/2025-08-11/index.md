@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 23:45:09](https://news.ycombinator.com/item?id=44870759) - [Show HN: Keeps – Mail a postcard that plays your voice](https://www.sendkeeps.com/)
 * [2025-08-11, 23:33:18](https://news.ycombinator.com/item?id=44870679) - [How Kentucky bourbon went from boom to bust](https://www.bbc.com/news/articles/ckglnk6yxlko)
+* [2025-08-11, 23:03:37](https://news.ycombinator.com/item?id=44870445) - [What does it mean to be thirsty?](https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/)
 * [2025-08-11, 22:47:40](https://news.ycombinator.com/item?id=44870332) - [Mouthguards that flash red with head impacts to be used at Rugby World Cup](https://www.rnz.co.nz/news/sport/569695/mouthguards-that-flash-red-with-head-impacts-to-be-used-at-rugby-world-cup)
 * [2025-08-11, 22:21:53](https://news.ycombinator.com/item?id=44870137) - [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
 * [2025-08-11, 20:50:13](https://news.ycombinator.com/item?id=44869323) - [I've seen 12 people hospitalized after losing touch with reality because of AI](https://twitter.com/KeithSakata/status/1954884361695719474)
@@ -40,6 +42,7 @@
 * [2025-08-11, 14:25:58](https://news.ycombinator.com/item?id=44864467) - [Designing Software in the Large](https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/)
 * [2025-08-11, 14:22:16](https://news.ycombinator.com/item?id=44864419) - [Meta Leaks Part 1: Israel and Meta, the Greatest Global Mass Censorship Campaign](https://archive.org/details/meta_leaks_part_1)
 * [2025-08-11, 14:13:02](https://news.ycombinator.com/item?id=44864291) - [Ask HN: Do you think differently about working on open source these days?](https://news.ycombinator.com/item?id=44864291)
+* [2025-08-11, 14:04:25](https://news.ycombinator.com/item?id=44864192) - [Trump Orders National Guard to Washington and Takeover of Capital’s Police](https://www.nytimes.com/live/2025/08/11/us/trump-news)
 * [2025-08-11, 14:03:46](https://news.ycombinator.com/item?id=44864185) - [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
 * [2025-08-11, 13:59:02](https://news.ycombinator.com/item?id=44864134) - [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
 * [2025-08-11, 13:18:51](https://news.ycombinator.com/item?id=44863753) - [TeaOnHer, a rival Tea app for men, is leaking users' personal data](https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/)
