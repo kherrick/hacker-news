@@ -51,6 +51,7 @@
 * [2025-08-09, 08:58:40](https://news.ycombinator.com/item?id=44845043) - [Datalog-Based Binary Equivalence](https://github.com/binaryeq/daleq)
 * [2025-08-09, 08:50:33](https://news.ycombinator.com/item?id=44845017) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
 * [2025-08-09, 08:18:58](https://news.ycombinator.com/item?id=44844897) - [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
+* [2025-08-09, 07:07:51](https://news.ycombinator.com/item?id=44844647) - [The Article in the Most Languages](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report)
 * [2025-08-09, 06:46:14](https://news.ycombinator.com/item?id=44844561) - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
 * [2025-08-09, 06:42:38](https://news.ycombinator.com/item?id=44844544) - [Many women have 'lost' their boyfriends because of OpenAI's GPT-5](https://old.reddit.com/r/MyBoyfriendIsAI/comments/1mkweq4/a_note_to_the_community_from_someone_whos_gone/)
 * [2025-08-09, 06:06:56](https://news.ycombinator.com/item?id=44844394) - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)

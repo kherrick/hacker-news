@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 04:08:13](https://news.ycombinator.com/item?id=44872313) - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
 * [2025-08-12, 03:05:22](https://news.ycombinator.com/item?id=44871901) - [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
 * [2025-08-12, 02:58:04](https://news.ycombinator.com/item?id=44871856) - [Supreme Court formally asked to overturn same-sex marriage ruling](https://abcnews.go.com/Politics/supreme-court-formally-asked-overturn-landmark-same-sex/story?id=124465302)
 * [2025-08-12, 02:51:53](https://news.ycombinator.com/item?id=44871817) - [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488)
