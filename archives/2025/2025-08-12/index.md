@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 15:19:35](https://news.ycombinator.com/item?id=44877404) - [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
+* [2025-08-12, 15:12:47](https://news.ycombinator.com/item?id=44877292) - [UK government advises deleting emails to save water](https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall)
+* [2025-08-12, 15:07:34](https://news.ycombinator.com/item?id=44877221) - [The ex-CIA agents deciding Facebook's content policy](https://mronline.org/2022/07/14/meet-the-ex-cia-agents-deciding-facebooks-content-policy/)
+* [2025-08-12, 15:02:03](https://news.ycombinator.com/item?id=44877147) - [Why We Migrated from Neon to PlanetScale](https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/)
+* [2025-08-12, 14:56:53](https://news.ycombinator.com/item?id=44877076) - [Why Are There So Many Rationalist Cults?](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)
+* [2025-08-12, 14:52:54](https://news.ycombinator.com/item?id=44877021) - [Where were you when goo.gl shutdown?](https://jszym.com/blog/archiving_googl/)
+* [2025-08-12, 14:41:12](https://news.ycombinator.com/item?id=44876844) - [Nexus: An Open-Source AI Router for Governance, Control and Observability](https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router)
 * [2025-08-12, 14:37:19](https://news.ycombinator.com/item?id=44876784) - [GitHub is (again) having issues](https://www.githubstatus.com/incidents/9rfydl2xdqqj)
 * [2025-08-12, 14:12:24](https://news.ycombinator.com/item?id=44876449) - [That viral video of a 'deactivated' Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
 * [2025-08-12, 13:59:34](https://news.ycombinator.com/item?id=44876289) - [Ask HN: What alternatives to GitHub are you using?](https://news.ycombinator.com/item?id=44876289)

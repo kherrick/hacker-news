@@ -61,4 +61,5 @@
 * [2025-08-09, 03:17:33](https://news.ycombinator.com/item?id=44843774) - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)
 * [2025-08-09, 02:30:57](https://news.ycombinator.com/item?id=44843605) - [Let's properly analyze an AI article for once](https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html)
 * [2025-08-09, 01:37:30](https://news.ycombinator.com/item?id=44843369) - [Dial-up Internet to be discontinued](https://help.aol.com/articles/dial-up-internet-to-be-discontinued)
+* [2025-08-09, 01:07:48](https://news.ycombinator.com/item?id=44843223) - [A Spellchecker Used to Be a Major Feat of Software Engineering](https://prog21.dadgum.com/29.html)
 * [2025-08-09, 00:58:21](https://news.ycombinator.com/item?id=44843186) - [What makes a SuperAger?](https://news.northwestern.edu/stories/2025/08/what-makes-a-superager/)
