@@ -45,6 +45,7 @@
 * [2025-08-09, 12:21:31](https://news.ycombinator.com/item?id=44845957) - [R0ML's Ratio](https://blog.glyph.im/2025/08/r0mls-ratio.html)
 * [2025-08-09, 12:20:16](https://news.ycombinator.com/item?id=44845953) - [A subtle bug with Go's errgroup](https://gaultier.github.io/blog/subtle_bug_with_go_errgroup.html)
 * [2025-08-09, 11:58:52](https://news.ycombinator.com/item?id=44845839) - [Ratfactor's Illustrated Guide to Folding Fitted Sheets](https://ratfactor.com/cards/fitted-sheets)
+* [2025-08-09, 11:48:24](https://news.ycombinator.com/item?id=44845787) - [Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²](https://www.sdo.group/study)
 * [2025-08-09, 09:54:31](https://news.ycombinator.com/item?id=44845273) - [Did California's Fast Food Minimum Wage Reduce Employment?](https://www.nber.org/papers/w34033)
 * [2025-08-09, 09:54:13](https://news.ycombinator.com/item?id=44845272) - [Jan – Ollama alternative with local UI](https://github.com/menloresearch/jan)
 * [2025-08-09, 09:49:11](https://news.ycombinator.com/item?id=44845251) - [An Engineer's Perspective on Hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
