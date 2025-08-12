@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-12, 18:56:38",
+      "https://news.ycombinator.com/item?id=44880401"
+    ],
+    [
+      "Ashet Home Computer",
+      "https://ashet.computer/"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 18:27:50",
+      "https://news.ycombinator.com/item?id=44880081"
+    ],
+    [
+      "The Equality Delete Problem in Apache Iceberg",
+      "https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 18:09:43",
       "https://news.ycombinator.com/item?id=44879853"
     ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2025-08-12, 16:42:01",
+      "https://news.ycombinator.com/item?id=44878757"
+    ],
+    [
+      "Writing is power transfer technology",
+      "https://danco.substack.com/p/im-joining-a16z"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 16:33:38",
       "https://news.ycombinator.com/item?id=44878650"
     ],
@@ -117,16 +147,6 @@
     [
       "Evaluating LLMs Playing Text Adventures",
       "https://entropicthoughts.com/evaluating-llms-playing-text-adventures"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 15:07:34",
-      "https://news.ycombinator.com/item?id=44877221"
-    ],
-    [
-      "The ex-CIA agents deciding Facebook's content policy (2022)",
-      "https://mronline.org/2022/07/14/meet-the-ex-cia-agents-deciding-facebooks-content-policy/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-08-12, 11:05:59",
-      "https://news.ycombinator.com/item?id=44874736"
-    ],
-    [
-      "Qodo CLI agent scores 71.2% on SWE-bench Verified",
-      "https://www.qodo.ai/blog/qodo-command-swe-bench-verified/"
-    ]
-  ],
-  [
-    [
       "2025-08-12, 04:08:13",
       "https://news.ycombinator.com/item?id=44872313"
     ],
     [
       "StarDict sends X11 clipboard to remote servers",
       "https://lwn.net/SubscriberLink/1032732/3334850da49689e1/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 01:26:18",
-      "https://news.ycombinator.com/item?id=44871337"
-    ],
-    [
-      "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]",
-      "https://www.arxiv.org/pdf/2508.06471"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-08-09, 07:07:51",
-      "https://news.ycombinator.com/item?id=44844647"
+      "2025-08-09, 02:26:48",
+      "https://news.ycombinator.com/item?id=44843586"
     ],
     [
-      "The Article in the Most Languages",
-      "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report"
+      "Blender is Native on Windows 11 on Arm",
+      "https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm"
     ]
   ],
   [
