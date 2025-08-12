@@ -1,6 +1,76 @@
 [
   [
     [
+      "2025-08-12, 15:19:35",
+      "https://news.ycombinator.com/item?id=44877404"
+    ],
+    [
+      "Evaluating LLMs Playing Text Adventures",
+      "https://entropicthoughts.com/evaluating-llms-playing-text-adventures"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 15:12:47",
+      "https://news.ycombinator.com/item?id=44877292"
+    ],
+    [
+      "UK government advises deleting emails to save water",
+      "https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 15:07:34",
+      "https://news.ycombinator.com/item?id=44877221"
+    ],
+    [
+      "The ex-CIA agents deciding Facebook's content policy",
+      "https://mronline.org/2022/07/14/meet-the-ex-cia-agents-deciding-facebooks-content-policy/"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 15:02:03",
+      "https://news.ycombinator.com/item?id=44877147"
+    ],
+    [
+      "Why We Migrated from Neon to PlanetScale",
+      "https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 14:56:53",
+      "https://news.ycombinator.com/item?id=44877076"
+    ],
+    [
+      "Why Are There So Many Rationalist Cults?",
+      "https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 14:52:54",
+      "https://news.ycombinator.com/item?id=44877021"
+    ],
+    [
+      "Where were you when goo.gl shutdown?",
+      "https://jszym.com/blog/archiving_googl/"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 14:41:12",
+      "https://news.ycombinator.com/item?id=44876844"
+    ],
+    [
+      "Nexus: An Open-Source AI Router for Governance, Control and Observability",
+      "https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 14:37:19",
       "https://news.ycombinator.com/item?id=44876784"
     ],
@@ -27,16 +97,6 @@
     [
       "Australian court finds Apple, Google guilty of being anticompetitive",
       "https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 12:43:37",
-      "https://news.ycombinator.com/item?id=44875520"
-    ],
-    [
-      "US influencer stranded in Antarctica after landing plane without permission",
-      "https://www.independent.co.uk/travel/news-and-advice/antarctica-ethan-guo-teen-pilot-detained-b2805884.html"
     ]
   ],
   [
@@ -101,32 +161,12 @@
   ],
   [
     [
-      "2025-08-12, 03:05:22",
-      "https://news.ycombinator.com/item?id=44871901"
-    ],
-    [
-      "Weathering Software Winter (2022)",
-      "https://100r.co/site/weathering_software_winter.html"
-    ]
-  ],
-  [
-    [
       "2025-08-12, 01:26:18",
       "https://news.ycombinator.com/item?id=44871337"
     ],
     [
       "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]",
       "https://www.arxiv.org/pdf/2508.06471"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 23:03:37",
-      "https://news.ycombinator.com/item?id=44870445"
-    ],
-    [
-      "What does it mean to be thirsty?",
-      "https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/"
     ]
   ],
   [
@@ -147,26 +187,6 @@
     [
       "Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python",
       "https://github.com/danterolle/tilf"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 18:03:57",
-      "https://news.ycombinator.com/item?id=44867374"
-    ],
-    [
-      "Neki – Sharded Postgres by the team behind Vitess",
-      "https://planetscale.com/blog/announcing-neki"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 16:53:43",
-      "https://news.ycombinator.com/item?id=44866500"
-    ],
-    [
-      "The value of institutional memory",
-      "https://timharford.com/2025/05/the-value-of-institutional-memory/"
     ]
   ],
   [
@@ -211,32 +231,22 @@
   ],
   [
     [
-      "2025-08-11, 12:01:58",
-      "https://news.ycombinator.com/item?id=44863242"
-    ],
-    [
-      "OpenSSH Post-Quantum Cryptography",
-      "https://www.openssh.com/pq.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 10:22:23",
-      "https://news.ycombinator.com/item?id=44854171"
-    ],
-    [
-      "The History of Windows XP",
-      "https://www.abortretry.fail/p/the-history-of-windows-xp"
-    ]
-  ],
-  [
-    [
       "2025-08-09, 07:07:51",
       "https://news.ycombinator.com/item?id=44844647"
     ],
     [
       "The Article in the Most Languages",
       "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 01:07:48",
+      "https://news.ycombinator.com/item?id=44843223"
+    ],
+    [
+      "A Spellchecker Used to Be a Major Feat of Software Engineering",
+      "https://prog21.dadgum.com/29.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Modos Paper Monitor – Open-hardware e-paper monitor and dev kit",
       "https://www.crowdsupply.com/modos-tech/modos-paper-monitor"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 05:51:02",
-      "https://news.ycombinator.com/item?id=44833869"
-    ],
-    [
-      "FreeBSD Scheduling on Hybrid CPUs",
-      "https://wiki.freebsd.org/Scheduler/Hybrid"
     ]
   ]
 ]
