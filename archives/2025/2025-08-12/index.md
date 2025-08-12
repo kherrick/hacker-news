@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from Anywhere](https://github.com/omnara-ai/omnara)
+* [2025-08-12, 16:12:02](https://news.ycombinator.com/item?id=44878290) - [Can modern LLMs count the number of b's in \"blueberry\"?](https://minimaxir.com/2025/08/llm-blueberry/)
 * [2025-08-12, 16:10:03](https://news.ycombinator.com/item?id=44878257) - [Launch HN: Design Arena (YC S25) – Head-to-Head AI Benchmark for Aesthetics](https://news.ycombinator.com/item?id=44878257)
+* [2025-08-12, 16:02:40](https://news.ycombinator.com/item?id=44878151) - [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
 * [2025-08-12, 16:02:23](https://news.ycombinator.com/item?id=44878147) - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
 * [2025-08-12, 15:54:08](https://news.ycombinator.com/item?id=44878010) - [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22)
 * [2025-08-12, 15:33:51](https://news.ycombinator.com/item?id=44877656) - [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22)
