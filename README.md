@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-12, 22:18:55](https://news.ycombinator.com/item?id=44882438) - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
 * [2025-08-12, 21:25:01](https://news.ycombinator.com/item?id=44881977) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 * [2025-08-12, 21:15:11](https://news.ycombinator.com/item?id=44881878) - [Crypto founder Do Kwon pleads guilty to US fraud charges](https://www.ft.com/content/2e6fdc73-1083-48fb-b258-d22fc7ef8ad8)
 * [2025-08-12, 20:29:23](https://news.ycombinator.com/item?id=44881440) - [Show HN: I accidentally built a startup idea validation tool](https://validationly.com/)
@@ -8,7 +9,6 @@
 * [2025-08-12, 18:56:38](https://news.ycombinator.com/item?id=44880401) - [Ashet Home Computer](https://ashet.computer/)
 * [2025-08-12, 18:27:50](https://news.ycombinator.com/item?id=44880081) - [The Equality Delete Problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
 * [2025-08-12, 17:01:10](https://news.ycombinator.com/item?id=44879015) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-* [2025-08-12, 16:59:58](https://news.ycombinator.com/item?id=44878999) - [Claude vs. Gemini: Testing on 1M Tokens of Context](https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window)
 * [2025-08-12, 16:53:37](https://news.ycombinator.com/item?id=44878916) - [WHY2025: How to become your own ISP [video]](https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp)
 * [2025-08-12, 16:42:01](https://news.ycombinator.com/item?id=44878757) - [Writing is power transfer technology](https://danco.substack.com/p/im-joining-a16z)
 * [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from anywhere](https://github.com/omnara-ai/omnara)
@@ -22,7 +22,7 @@
 * [2025-08-12, 13:32:16](https://news.ycombinator.com/item?id=44875992) - [Training language models to be warm and empathetic makes them less reliable](https://arxiv.org/abs/2507.21919)
 * [2025-08-12, 13:30:10](https://news.ycombinator.com/item?id=44875961) - [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
 * [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs aren't world models](https://yosefk.com/blog/llms-arent-world-models.html)
-* [2025-08-10, 01:33:43](https://news.ycombinator.com/item?id=44852058) - [Galileo's telescopes: Seeing is believing (2010)](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
+* [2025-08-10, 01:33:43](https://news.ycombinator.com/item?id=44852058) - [Galileo’s telescopes: Seeing is believing (2010)](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
 * [2025-08-09, 23:02:33](https://news.ycombinator.com/item?id=44851181) - [Debian GNU/Hurd 2025 released](https://lists.debian.org/debian-hurd/2025/08/msg00038.html)
 * [2025-08-09, 11:48:24](https://news.ycombinator.com/item?id=44845787) - [Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²](https://www.sdo.group/study)
 * [2025-08-09, 07:31:42](https://news.ycombinator.com/item?id=44844733) - [Dumb to managed switch conversion (2010)](https://spritesmods.com/?art=rtl8366sb&page=1)
