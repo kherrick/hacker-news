@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-12, 13:39:42",
+      "https://news.ycombinator.com/item?id=44876075"
+    ],
+    [
+      "We keep reinventing CSS, but styling was never the problem",
+      "https://denodell.com/blog/we-keep-reinventing-css"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 13:30:10",
+      "https://news.ycombinator.com/item?id=44875961"
+    ],
+    [
+      "Australian court finds Apple, Google guilty of being anticompetitive",
+      "https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 13:01:47",
       "https://news.ycombinator.com/item?id=44875712"
     ],
@@ -67,16 +87,6 @@
     [
       "Qodo CLI agent scores 71.2% on SWE-bench Verified",
       "https://www.qodo.ai/blog/qodo-command-swe-bench-verified/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 08:18:25",
-      "https://news.ycombinator.com/item?id=44873721"
-    ],
-    [
-      "Show HN: Move to dodge the bullets. How long can you survive?",
-      "https://dodge.trickle.host"
     ]
   ],
   [
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=44867374"
     ],
     [
-      "Neki – sharded Postgres by the team behind Vitess",
+      "Neki – Sharded Postgres by the team behind Vitess",
       "https://planetscale.com/blog/announcing-neki"
     ]
   ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=44839575"
     ],
     [
-      "All known 49-year-old Apple-1 computer",
+      "All known 49-year-old Apple-1 computers",
       "https://www.apple1registry.com/en/list.html"
     ]
   ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2025-08-08, 13:11:52",
-      "https://news.ycombinator.com/item?id=44836560"
-    ],
-    [
-      "OOP is not Design Patterns",
-      "https://iaziz786.com/blog/oop-is-not-design-patterns/"
-    ]
-  ],
-  [
-    [
       "2025-08-08, 12:38:11",
       "https://news.ycombinator.com/item?id=44836294"
     ],
     [
-      "A fast, low-latency, open-hardware e-paper monitor and dev kit",
+      "Modos Paper Monitor – Open-hardware e-paper monitor and dev kit",
       "https://www.crowdsupply.com/modos-tech/modos-paper-monitor"
     ]
   ],
