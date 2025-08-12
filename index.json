@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-12, 00:07:09",
+      "https://news.ycombinator.com/item?id=44870895"
+    ],
+    [
+      "Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations",
+      "https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 23:33:18",
+      "https://news.ycombinator.com/item?id=44870679"
+    ],
+    [
+      "How Kentucky bourbon went from boom to bust",
+      "https://www.bbc.com/news/articles/ckglnk6yxlko"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 22:47:40",
+      "https://news.ycombinator.com/item?id=44870332"
+    ],
+    [
+      "Mouthguards that flash red with head impacts to be used at Rugby World Cup",
+      "https://www.rnz.co.nz/news/sport/569695/mouthguards-that-flash-red-with-head-impacts-to-be-used-at-rugby-world-cup"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 22:21:53",
       "https://news.ycombinator.com/item?id=44870137"
     ],
@@ -27,16 +57,6 @@
     [
       "Ollama and gguf",
       "https://github.com/ollama/ollama/issues/11714"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 17:25:57",
-      "https://news.ycombinator.com/item?id=44866894"
-    ],
-    [
-      "AP to end its weekly book reviews",
-      "https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2025-08-08, 20:26:47",
-      "https://news.ycombinator.com/item?id=44841354"
+      "2025-08-10, 10:22:23",
+      "https://news.ycombinator.com/item?id=44854171"
     ],
     [
-      "A Guide Dog for the Face-Blind",
-      "https://asimov.blog/a-guide-dog-for-the-face-blind/"
+      "The History of Windows XP",
+      "https://www.abortretry.fail/p/the-history-of-windows-xp"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-08-08, 15:10:54",
-      "https://news.ycombinator.com/item?id=44837949"
-    ],
-    [
-      "Why tail-recursive functions are loops",
-      "https://kmicinski.com/functional-programming/2025/08/01/loops/"
-    ]
-  ],
-  [
-    [
       "2025-08-08, 07:44:57",
       "https://news.ycombinator.com/item?id=44834570"
     ],
     [
       "White Mountain Direttissima",
       "https://whitemountainski.co/pages/white-mountain-direttissima"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 14:21:39",
-      "https://news.ycombinator.com/item?id=44824811"
-    ],
-    [
-      "A simple pixel physics simulator in Rust using Macroquad",
-      "https://github.com/gale93/sbixel"
     ]
   ]
 ]
