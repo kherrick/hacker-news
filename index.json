@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-08-12, 12:15:13",
-      "https://news.ycombinator.com/item?id=44875270"
+      "2025-08-12, 13:01:47",
+      "https://news.ycombinator.com/item?id=44875712"
     ],
     [
-      "133-year old Kodak says it might have to cease operations",
-      "https://www.cnn.com/2025/08/12/business/kodak-survival-warning"
+      "Sloppy AI defenses take cybersecurity back to the 1990s, researchers say",
+      "https://www.scworld.com/news/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 12:19:47",
+      "https://news.ycombinator.com/item?id=44875311"
+    ],
+    [
+      "High-severity WinRAR 0-day exploited for weeks by 2 groups",
+      "https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 12:18:22",
+      "https://news.ycombinator.com/item?id=44875294"
+    ],
+    [
+      "Outside of the top stocks, S&P 500 forward profits haven't grown in 3 years",
+      "https://insight-public.sgmarkets.com/quant-motion-pictures/outside-of-the-top-10-stocks-sp500-forward-profits-haven-t-grown-in-three-years"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44872850"
     ],
     [
-      "LLMs' \"simulated reasoning\" abilities are a brittle mirage",
+      "Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens",
       "https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/"
     ]
   ],
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2025-08-11, 22:39:41",
+      "https://news.ycombinator.com/item?id=44870277"
+    ],
+    [
+      "Starbucks in Korea asks customers to stop bringing in printers/desktop computers",
+      "https://fortune.com/2025/08/11/starbucks-south-korea-policy-desktop-computer-printer-ban-cagongjok/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 22:21:53",
       "https://news.ycombinator.com/item?id=44870137"
     ],
@@ -127,16 +157,6 @@
     [
       "Neki – sharded Postgres by the team behind Vitess",
       "https://planetscale.com/blog/announcing-neki"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 17:54:08",
-      "https://news.ycombinator.com/item?id=44867238"
-    ],
-    [
-      "Ollama and gguf",
-      "https://github.com/ollama/ollama/issues/11714"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "GitHub is no longer independent at Microsoft after CEO resignation",
       "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 15:30:49",
-      "https://news.ycombinator.com/item?id=44865290"
-    ],
-    [
-      "Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use",
-      "https://news.ycombinator.com/item?id=44865290"
     ]
   ],
   [
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2025-08-09, 03:17:33",
-      "https://news.ycombinator.com/item?id=44843774"
-    ],
-    [
-      "Reflecting on My Failure to Build a Billion-Dollar Company (2019)",
-      "https://sahillavingia.com/reflecting"
-    ]
-  ],
-  [
-    [
       "2025-08-08, 21:30:31",
       "https://news.ycombinator.com/item?id=44841891"
     ],
     [
-      "Undefined Behavior in C and C++",
+      "Undefined Behavior in C and C++ (2024)",
       "https://russellw.github.io/undefined-behavior"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 17:55:45",
-      "https://news.ycombinator.com/item?id=44839776"
-    ],
-    [
-      "The Best Line Length",
-      "https://blog.glyph.im/2025/08/the-best-line-length.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Artificial biosensor can better measure the body's main stress hormone",
       "https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 13:11:52",
+      "https://news.ycombinator.com/item?id=44836560"
+    ],
+    [
+      "OOP is not Design Patterns",
+      "https://iaziz786.com/blog/oop-is-not-design-patterns/"
     ]
   ],
   [
