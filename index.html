@@ -129,22 +129,130 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44878650">
+          <h3>
+            <a class="item" href="https://github.com/omnara-ai/omnara"
+              >Show HN: Omnara – Run Claude Code from Anywhere</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-12 @ 16:33:38</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44878650"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://omnara.com/">https://omnara.com/</a>), an “agent
+              command center” that lets you launch and control Claude Code from
+              anywhere: terminal, web, or mobile — and easily switch between
+              them.
+              <p>
+                Run 'pip install omnara &amp;&amp; omnara', and you'll have a
+                regular Claude Code session. But you can continue that same
+                session from our web dashboard (<a href="https://omnara.com/"
+                  >https://omnara.com/</a
+                >) or mobile app (<a
+                  href="https://apps.apple.com/us/app/omnara-ai-command-center/id6748426727"
+                  >https://apps.apple.com/us/app/omnara-ai-command-center/id674...</a
+                >).
+              </p>
+              <p>
+                Check out a demo here:
+                <a
+                  href="https://www.loom.com/share/03d30efcf8e44035af03cbfebf840c73"
+                  >https://www.loom.com/share/03d30efcf8e44035af03cbfebf840c73</a
+                >.
+              </p>
+              <p>
+                Before Omnara, we felt stuck watching Claude Code think and
+                write code, waiting 5-10 minutes just to provide input when
+                needed. Now with Omnara, I can start a Claude Code session and
+                if I need to leave my laptop, I can respond from my phone
+                anywhere. Some places I've coded from include my bed, on a walk,
+                in an Uber, while doing laundry, and even on the toilet.
+              </p>
+              <p>
+                There are many new Claude Code wrappers (e.g., Crystal,
+                Conductor), but none keep the native Claude Code terminal
+                experience while allowing interaction outside the terminal,
+                especially on mobile. On the other hand, tools like Vibetunnel
+                or Termius replicate the terminal experience but lack push
+                notifications, clean UIs for answering questions or viewing git
+                diffs, and easy setup.
+              </p>
+              <p>
+                We wanted our integration to fully mirror the native Claude Code
+                experience, including terminal output, permissions,
+                notifications, and mode switching. The Claude Code SDK and hooks
+                don't support all of this, so we made a CLI wrapper that parses
+                the session file at ~/.claude/projects and the terminal output
+                to capture user and agent messages. We send these messages to
+                our platform, where they're displayed in the web and mobile apps
+                in real time via SSE. Our CLI wrapper monitors for input from
+                both the Omnara platform and the Claude Code CLI, continuing
+                execution when the user responds from either location. Our
+                entire backend is open source:
+                <a href="https://github.com/omnara-ai/omnara"
+                  >https://github.com/omnara-ai/omnara</a
+                >.
+              </p>
+              <p>
+                Omnara isn't just for Claude Code. It's a general framework for
+                any AI agent to send messages and push notifications to humans
+                when they need input. For example, I've been using it as a
+                human-in-the-loop node in n8n workflows for replying to emails.
+                But every Claude Code user we show it to gets excited about that
+                application specifically so that’s why we’re launching that
+                first :)
+              </p>
+              <p>
+                Omnara is free for up to 10 agent sessions per month, then
+                $9/month for unlimited sessions. Looking forward to your
+                feedback and hearing your thoughts and comments!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44878290">
+          <h3>
+            <a class="item" href="https://minimaxir.com/2025/08/llm-blueberry/"
+              >Can modern LLMs count the number of b's in "blueberry"?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-12 @ 16:12:02</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44878290"
+                  >Comments</a
+                ><span class="descendants">: 23</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44878257">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=44878257"
-              >Launch HN: Design Arena (YC S25) – Head-to-Head AI Benchmark for
-              Aesthetics</a
+              >Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for
+              aesthetics</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-08-12 @ 16:10:03</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44878257"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -233,6 +341,26 @@
             </div>
           </section>
         </section>
+        <section id="44878151">
+          <h3>
+            <a class="item" href="https://blog.wilsonl.in/search-engine/"
+              >Show HN: Building a web search engine from scratch with 3B neural
+              embeddings</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-12 @ 16:02:40</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44878151"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44878147">
           <h3>
             <a class="item" href="https://www.anthropic.com/news/1m-context"
@@ -243,11 +371,11 @@
             <h4>
               <span>2025-08-12 @ 16:02:23</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44878147"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -264,11 +392,11 @@
             <h4>
               <span>2025-08-12 @ 15:54:08</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44878010"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -285,11 +413,11 @@
             <h4>
               <span>2025-08-12 @ 15:33:51</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44877656"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -306,11 +434,11 @@
             <h4>
               <span>2025-08-12 @ 15:19:35</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44877404"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -327,11 +455,11 @@
             <h4>
               <span>2025-08-12 @ 15:07:34</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44877221"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -348,11 +476,11 @@
             <h4>
               <span>2025-08-12 @ 15:02:03</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44877147"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -360,18 +488,18 @@
         <section id="44877021">
           <h3>
             <a class="item" href="https://jszym.com/blog/archiving_googl/"
-              >Where were you when goo.gl shutdown?</a
+              >Enlisting in the Fight Against Link Rot</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-08-12 @ 14:52:54</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44877021"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -389,11 +517,11 @@
             <h4>
               <span>2025-08-12 @ 14:41:12</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44876844"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -410,11 +538,11 @@
             <h4>
               <span>2025-08-12 @ 14:37:19</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">262</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44876784"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -431,11 +559,11 @@
             <h4>
               <span>2025-08-12 @ 14:12:24</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44876449"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -451,11 +579,11 @@
             <h4>
               <span>2025-08-12 @ 13:32:16</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44875992"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -473,32 +601,11 @@
             <h4>
               <span>2025-08-12 @ 13:30:10</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44875961"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44875311">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/"
-              >High-severity WinRAR 0-day exploited for weeks by 2 groups</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-12 @ 12:19:47</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44875311"
-                  >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -533,11 +640,11 @@
             <h4>
               <span>2025-08-12 @ 11:56:52</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44875109"
                   >Comments</a
-                ><span class="descendants">: 131</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -554,7 +661,7 @@
             <h4>
               <span>2025-08-12 @ 11:05:59</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44874736"
                   >Comments</a
@@ -575,11 +682,11 @@
             <h4>
               <span>2025-08-12 @ 04:08:13</span
               ><span class="points-container"
-                >Points: <span class="points">390</span></span
+                >Points: <span class="points">393</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44872313"
                   >Comments</a
-                ><span class="descendants">: 268</span></span
+                ><span class="descendants">: 270</span></span
               >
             </h4>
           </section>
@@ -595,33 +702,11 @@
             <h4>
               <span>2025-08-12 @ 01:26:18</span
               ><span class="points-container"
-                >Points: <span class="points">370</span></span
+                >Points: <span class="points">371</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44871337"
                   >Comments</a
                 ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44870277">
-          <h3>
-            <a
-              class="item"
-              href="https://fortune.com/2025/08/11/starbucks-south-korea-policy-desktop-computer-printer-ban-cagongjok/"
-              >Starbucks in Korea asks customers to stop bringing in
-              printers/desktop computers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-11 @ 22:39:41</span
-              ><span class="points-container"
-                >Points: <span class="points">147</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44870277"
-                  >Comments</a
-                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -638,33 +723,11 @@
             <h4>
               <span>2025-08-11 @ 16:33:26</span
               ><span class="points-container"
-                >Points: <span class="points">1007</span></span
+                >Points: <span class="points">1012</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44866208"
                   >Comments</a
-                ><span class="descendants">: 780</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44865560">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition"
-              >GitHub is no longer independent at Microsoft after CEO
-              resignation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-11 @ 15:47:48</span
-              ><span class="points-container"
-                >Points: <span class="points">1351</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44865560"
-                  >Comments</a
-                ><span class="descendants">: 1022</span></span
+                ><span class="descendants">: 782</span></span
               >
             </h4>
           </section>
@@ -681,11 +744,11 @@
             <h4>
               <span>2025-08-11 @ 14:03:46</span
               ><span class="points-container"
-                >Points: <span class="points">762</span></span
+                >Points: <span class="points">764</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44864185"
                   >Comments</a
-                ><span class="descendants">: 455</span></span
+                ><span class="descendants">: 456</span></span
               >
             </h4>
           </section>
@@ -700,11 +763,11 @@
             <h4>
               <span>2025-08-11 @ 13:59:02</span
               ><span class="points-container"
-                >Points: <span class="points">1228</span></span
+                >Points: <span class="points">1232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44864134"
                   >Comments</a
-                ><span class="descendants">: 711</span></span
+                ><span class="descendants">: 713</span></span
               >
             </h4>
           </section>
@@ -721,7 +784,7 @@
             <h4>
               <span>2025-08-09 @ 15:36:24</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44847335"
                   >Comments</a
@@ -742,7 +805,7 @@
             <h4>
               <span>2025-08-09 @ 07:07:51</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44844647"
                   >Comments</a
@@ -761,11 +824,11 @@
             <h4>
               <span>2025-08-09 @ 01:07:48</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44843223"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -782,11 +845,11 @@
             <h4>
               <span>2025-08-08 @ 21:59:18</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44842114"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -804,11 +867,11 @@
             <h4>
               <span>2025-08-08 @ 14:06:18</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44837124"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -826,11 +889,11 @@
             <h4>
               <span>2025-08-08 @ 12:38:11</span
               ><span class="points-container"
-                >Points: <span class="points">249</span></span
+                >Points: <span class="points">251</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44836294"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
