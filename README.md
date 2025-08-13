@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-13, 14:44:02](https://news.ycombinator.com/item?id=44889117) - [AI is already replacing thousands of jobs per month, report finds](https://www.independent.co.uk/news/world/americas/artificial-intelligence-replacing-jobs-report-b2800709.html)
+* [2025-08-13, 15:20:57](https://news.ycombinator.com/item?id=44889645) - [Rubberduck: Emulate OpenAI/Anthropic locally with caching and failure injection](https://github.com/Zipstack/rubberduck)
+* [2025-08-13, 14:30:40](https://news.ycombinator.com/item?id=44888949) - [Alaska's Juneau orders evacuations as record glacier flood looms](https://www.theguardian.com/us-news/2025/aug/13/alaskas-juneau-glacier-flood-record-climate)
 * [2025-08-13, 14:23:56](https://news.ycombinator.com/item?id=44888847) - [How Well Do Coding Agents Use Your Library?](https://stackbench.ai/)
 * [2025-08-13, 13:50:35](https://news.ycombinator.com/item?id=44888445) - [We caught companies making it harder to delete your personal data online](https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data)
-* [2025-08-13, 13:43:44](https://news.ycombinator.com/item?id=44888368) - [Farmers want California to change its autonomous tractor ban](https://www.nbcnews.com/video/farmers-want-california-to-change-its-autonomous-tractor-ban-244658757726)
 * [2025-08-13, 13:33:45](https://news.ycombinator.com/item?id=44888236) - [When DEF CON partners with the U.S. Army](https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge)
 * [2025-08-13, 13:31:16](https://news.ycombinator.com/item?id=44888210) - [DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls](https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e)
 * [2025-08-13, 13:26:34](https://news.ycombinator.com/item?id=44888167) - [The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 15:20:57](https://news.ycombinator.com/item?id=44889645) - [Rubberduck: Emulate OpenAI/Anthropic locally with caching and failure injection](https://github.com/Zipstack/rubberduck)
 * [2025-08-13, 14:44:02](https://news.ycombinator.com/item?id=44889117) - [AI is already replacing thousands of jobs per month, report finds](https://www.independent.co.uk/news/world/americas/artificial-intelligence-replacing-jobs-report-b2800709.html)
 * [2025-08-13, 14:39:02](https://news.ycombinator.com/item?id=44889050) - [The case for shorter .com domains](https://www.nklswbr.com/blog/dot-com-diet)
+* [2025-08-13, 14:30:40](https://news.ycombinator.com/item?id=44888949) - [Alaska's Juneau orders evacuations as record glacier flood looms](https://www.theguardian.com/us-news/2025/aug/13/alaskas-juneau-glacier-flood-record-climate)
 * [2025-08-13, 14:25:48](https://news.ycombinator.com/item?id=44888874) - [I'm Worried It Might Get Bad](https://danielmiessler.com/blog/im-worried-it-might-get-bad)
 * [2025-08-13, 14:23:56](https://news.ycombinator.com/item?id=44888847) - [How Well Do Coding Agents Use Your Library?](https://stackbench.ai/)
 * [2025-08-13, 13:50:35](https://news.ycombinator.com/item?id=44888445) - [We caught companies making it harder to delete your personal data online](https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data)
