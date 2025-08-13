@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-13, 15:41:55](https://news.ycombinator.com/item?id=44889941) - [Nginx Introduces Native Support for Acme Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-13, 15:26:28](https://news.ycombinator.com/item?id=44889715) - [Study: Social media probably can't be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
 * [2025-08-13, 15:23:15](https://news.ycombinator.com/item?id=44889676) - [OpenIndiana: Community-Driven Illumos Distribution](https://www.openindiana.org/)
 * [2025-08-13, 15:19:53](https://news.ycombinator.com/item?id=44889627) - [Website Is for Humans](https://localghost.dev/blog/this-website-is-for-humans/)
@@ -29,7 +30,6 @@
 * [2025-08-09, 18:22:45](https://news.ycombinator.com/item?id=44848821) - [The Rock Art of Serrania De La Lindosa](https://www.earthasweknowit.com/pages/serrania_de_la_lindosa_rock_art)
 * [2025-08-09, 16:36:29](https://news.ycombinator.com/item?id=44847903) - [Fingerjigger](https://fingerjigger.com/play)
 * [2025-08-09, 14:33:12](https://news.ycombinator.com/item?id=44846781) - [Bezier-rs – algorithms for Bézier segments and shapes](https://graphite.rs/libraries/bezier-rs/)
-* [2025-08-09, 11:48:24](https://news.ycombinator.com/item?id=44845787) - [Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²](https://www.sdo.group/study)
 
 ## [Archives](archives/index.md)
 

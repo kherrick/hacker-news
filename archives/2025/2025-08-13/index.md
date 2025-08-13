@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 15:41:55](https://news.ycombinator.com/item?id=44889941) - [Nginx Introduces Native Support for Acme Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-13, 15:26:28](https://news.ycombinator.com/item?id=44889715) - [Study: Social media probably can't be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
 * [2025-08-13, 15:23:15](https://news.ycombinator.com/item?id=44889676) - [OpenIndiana: Community-Driven Illumos Distribution](https://www.openindiana.org/)
 * [2025-08-13, 15:20:57](https://news.ycombinator.com/item?id=44889645) - [Rubberduck: Emulate OpenAI/Anthropic locally with caching and failure injection](https://github.com/Zipstack/rubberduck)
