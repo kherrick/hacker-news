@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-13, 02:30:30](https://news.ycombinator.com/item?id=44884107) - [GPT-5 is a joke. Will it matter?](https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter)
 * [2025-08-13, 02:09:18](https://news.ycombinator.com/item?id=44883987) - [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
+* [2025-08-13, 01:50:17](https://news.ycombinator.com/item?id=44883870) - [Is Meta Scraping the Fediverse for AI?](https://wedistribute.org/2025/08/is-meta-scraping-the-fediverse-for-ai/)
 * [2025-08-13, 00:17:33](https://news.ycombinator.com/item?id=44883304) - [Search all text in New York City](https://www.alltext.nyc/)
 * [2025-08-12, 22:18:55](https://news.ycombinator.com/item?id=44882438) - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
 * [2025-08-12, 21:25:01](https://news.ycombinator.com/item?id=44881977) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
@@ -18,8 +18,8 @@
 * [2025-08-12, 14:56:53](https://news.ycombinator.com/item?id=44877076) - [Why are there so many rationalist cults?](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)
 * [2025-08-12, 14:04:40](https://news.ycombinator.com/item?id=44876356) - [Journaling using Nix, Vim and coreutils](https://tangled.sh/@oppi.li/journal)
 * [2025-08-12, 13:32:16](https://news.ycombinator.com/item?id=44875992) - [Training language models to be warm and empathetic makes them less reliable](https://arxiv.org/abs/2507.21919)
-* [2025-08-12, 13:30:10](https://news.ycombinator.com/item?id=44875961) - [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
 * [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs aren't world models](https://yosefk.com/blog/llms-arent-world-models.html)
+* [2025-08-10, 03:47:31](https://news.ycombinator.com/item?id=44852612) - [So You Bought a Fancy Vintage Car. Now Who's Going to Restore It?](https://www.bloomberg.com/news/features/2025-08-08/from-porsche-to-aston-martin-classic-car-mechanics-are-a-dying-breed)
 * [2025-08-10, 01:33:43](https://news.ycombinator.com/item?id=44852058) - [Galileo’s telescopes: Seeing is believing (2010)](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
 * [2025-08-09, 23:02:33](https://news.ycombinator.com/item?id=44851181) - [Debian GNU/Hurd 2025 released](https://lists.debian.org/debian-hurd/2025/08/msg00038.html)
 * [2025-08-09, 22:35:16](https://news.ycombinator.com/item?id=44850976) - [Fixing a loud PSU fan without dying](https://chameth.com/fixing-a-loud-psu-fan-without-dying/)
