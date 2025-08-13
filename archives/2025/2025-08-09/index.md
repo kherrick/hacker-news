@@ -18,6 +18,7 @@
 * [2025-08-09, 19:17:32](https://news.ycombinator.com/item?id=44849269) - [JD Vance's team had water level of Ohio river raised for family's boating trip](https://www.theguardian.com/us-news/2025/aug/06/jd-vance-ohio-lake-water-levels)
 * [2025-08-09, 19:16:27](https://news.ycombinator.com/item?id=44849259) - [Physical Media Is Cool Again. Streaming Services Have Themselves to Blame](https://www.rollingstone.com/culture/culture-features/physical-media-collectors-trend-viral-streamers-1235387314/)
 * [2025-08-09, 18:59:37](https://news.ycombinator.com/item?id=44849129) - [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
+* [2025-08-09, 18:22:45](https://news.ycombinator.com/item?id=44848821) - [The Rock Art of Serrania De La Lindosa](https://www.earthasweknowit.com/pages/serrania_de_la_lindosa_rock_art)
 * [2025-08-09, 18:18:45](https://news.ycombinator.com/item?id=44848782) - [Debian 13 \"Trixie\"](https://www.debian.org/News/2025/20250809)
 * [2025-08-09, 18:11:00](https://news.ycombinator.com/item?id=44848706) - [How AI is upending the software development industry](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
 * [2025-08-09, 18:09:56](https://news.ycombinator.com/item?id=44848698) - [Residents cheer as Tucson rejects data center campus](https://www.datacenterdynamics.com/en/news/residents-cheer-as-tucson-rejects-amazons-massive-project-blue-data-center-campus-in-arizona/)
