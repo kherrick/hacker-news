@@ -9,6 +9,7 @@
 * [2025-08-09, 23:02:33](https://news.ycombinator.com/item?id=44851181) - [Debian GNU/Hurd 2025 released](https://lists.debian.org/debian-hurd/2025/08/msg00038.html)
 * [2025-08-09, 22:35:16](https://news.ycombinator.com/item?id=44850976) - [Fixing a loud PSU fan without dying](https://chameth.com/fixing-a-loud-psu-fan-without-dying/)
 * [2025-08-09, 22:27:37](https://news.ycombinator.com/item?id=44850913) - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
+* [2025-08-09, 22:22:00](https://news.ycombinator.com/item?id=44850873) - [Improving Geographical Resilience for Distributed Open Source Teams with Freon](https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/)
 * [2025-08-09, 22:18:21](https://news.ycombinator.com/item?id=44850843) - [Lördagsgodis (Saturday Sweets)](https://en.wikipedia.org/wiki/L%C3%B6rdagsgodis)
 * [2025-08-09, 21:59:43](https://news.ycombinator.com/item?id=44850681) - [Consent and Compromise: How We Got Access to 22 Internal Microsoft Services](https://research.eye.security/consent-and-compromise/)
 * [2025-08-09, 21:10:16](https://news.ycombinator.com/item?id=44850260) - [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
