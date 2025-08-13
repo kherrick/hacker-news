@@ -2,7 +2,6 @@
 
 * [2025-08-13, 08:38:18](https://news.ycombinator.com/item?id=44885991) - [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
 * [2025-08-13, 08:03:14](https://news.ycombinator.com/item?id=44885761) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
-* [2025-08-13, 06:55:18](https://news.ycombinator.com/item?id=44885367) - [Sheet0, a data agent transform webpages to structured spreadsheets](https://www.sheet0.com/)
 * [2025-08-13, 06:40:38](https://news.ycombinator.com/item?id=44885295) - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
 * [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 * [2025-08-13, 04:03:18](https://news.ycombinator.com/item?id=44884546) - [Fennel libraries as single files (2023)](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
@@ -24,6 +23,7 @@
 * [2025-08-10, 16:14:40](https://news.ycombinator.com/item?id=44856161) - [The Anti-Pattern Game](https://hakon.gylterud.net/antipattern/)
 * [2025-08-10, 15:55:54](https://news.ycombinator.com/item?id=44856046) - [QNX: The Incredible 1.44M Demo](https://archive.org/details/QNX_incredible_1.44m_demo_v4.0)
 * [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs aren't world models](https://yosefk.com/blog/llms-arent-world-models.html)
+* [2025-08-09, 22:18:21](https://news.ycombinator.com/item?id=44850843) - [Lördagsgodis (Saturday Sweets)](https://en.wikipedia.org/wiki/L%C3%B6rdagsgodis)
 * [2025-08-09, 16:36:29](https://news.ycombinator.com/item?id=44847903) - [Fingerjigger](https://fingerjigger.com/play)
 * [2025-08-09, 14:33:12](https://news.ycombinator.com/item?id=44846781) - [Bezier-rs – algorithms for Bézier segments and shapes](https://graphite.rs/libraries/bezier-rs/)
 * [2025-08-09, 11:48:24](https://news.ycombinator.com/item?id=44845787) - [Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²](https://www.sdo.group/study)
