@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-13, 17:34:08](https://news.ycombinator.com/item?id=44891336) - [Maga's boss class think they are immune to American carnage](https://pluralistic.net/2025/08/13/then-they-came-for-me/#boss-politics)
 * [2025-08-13, 17:31:08](https://news.ycombinator.com/item?id=44891302) - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
 * [2025-08-13, 17:20:39](https://news.ycombinator.com/item?id=44891182) - [U.S. alcohol consumption drops to a 90-year low, new poll finds](https://www.sfchronicle.com/food/wine/article/drink-alcohol-americans-poll-20812180.php)
 * [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
@@ -28,7 +29,6 @@
 * [2025-08-10, 13:20:00](https://news.ycombinator.com/item?id=44855016) - [Mesmerizing Hypnoloid, a Kinetic Desktop Sculpture](https://www.core77.com/posts/138054/This-Mesmerizing-Hypnoloid-a-Kinetic-Desktop-Sculpture)
 * [2025-08-09, 20:22:37](https://news.ycombinator.com/item?id=44849834) - [Myths About Floating-Point Numbers (2021)](https://www.asawicki.info/news_1741_myths_about_floating-point_numbers)
 * [2025-08-09, 19:20:35](https://news.ycombinator.com/item?id=44849291) - [Honky-Tonk Tokyo (2020)](https://www.afar.com/magazine/in-tokyo-japan-country-music-finds-an-audience)
-* [2025-08-09, 18:22:45](https://news.ycombinator.com/item?id=44848821) - [The Rock Art of Serrania De La Lindosa](https://www.earthasweknowit.com/pages/serrania_de_la_lindosa_rock_art)
 * [2025-08-09, 14:33:12](https://news.ycombinator.com/item?id=44846781) - [Bezier-rs – algorithms for Bézier segments and shapes](https://graphite.rs/libraries/bezier-rs/)
 
 ## [Archives](archives/index.md)
