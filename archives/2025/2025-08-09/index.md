@@ -7,6 +7,7 @@
 * [2025-08-09, 23:07:58](https://news.ycombinator.com/item?id=44851214) - [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
 * [2025-08-09, 23:02:33](https://news.ycombinator.com/item?id=44851181) - [Debian GNU/Hurd 2025 released](https://lists.gnu.org/archive/html/bug-hurd/2025-08/msg00008.html)
 * [2025-08-09, 23:02:33](https://news.ycombinator.com/item?id=44851181) - [Debian GNU/Hurd 2025 released](https://lists.debian.org/debian-hurd/2025/08/msg00038.html)
+* [2025-08-09, 22:41:36](https://news.ycombinator.com/item?id=44851019) - [PCIe 8.0 Announced by the PCI-Sig Will Double Throughput Again – ServeTheHome](https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/)
 * [2025-08-09, 22:35:16](https://news.ycombinator.com/item?id=44850976) - [Fixing a loud PSU fan without dying](https://chameth.com/fixing-a-loud-psu-fan-without-dying/)
 * [2025-08-09, 22:27:37](https://news.ycombinator.com/item?id=44850913) - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 * [2025-08-09, 22:22:00](https://news.ycombinator.com/item?id=44850873) - [Improving Geographical Resilience for Distributed Open Source Teams with Freon](https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/)

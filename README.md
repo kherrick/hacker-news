@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-13, 18:30:12](https://news.ycombinator.com/item?id=44892070) - [29 years later, Settlers II gets Amiga release](https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/)
+* [2025-08-13, 18:23:51](https://news.ycombinator.com/item?id=44891997) - [Man develops rare condition after ChatGPT query over stopping eating salt](https://www.theguardian.com/technology/2025/aug/12/us-man-bromism-salt-diet-chatgpt-openai-health-information)
 * [2025-08-13, 18:05:05](https://news.ycombinator.com/item?id=44891759) - [I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
-* [2025-08-13, 17:57:11](https://news.ycombinator.com/item?id=44891655) - [Tesla Diner Drops Most Menu Options and Cuts Hours Just Weeks After Opening](https://www.jalopnik.com/1938650/tesla-diner-drops-most-menu-options-cuts-hours/)
 * [2025-08-13, 17:46:40](https://news.ycombinator.com/item?id=44891509) - [April Fools 2014: The *Real* Test Driven Development](https://testing.googleblog.com/2014/04/the-real-test-driven-development.html)
 * [2025-08-13, 17:32:03](https://news.ycombinator.com/item?id=44891314) - [How Stock Options Work](https://web.stanford.edu/class/e145/2007_fall/materials/stockoptions.html)
 * [2025-08-13, 17:31:08](https://news.ycombinator.com/item?id=44891302) - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
@@ -19,7 +20,6 @@
 * [2025-08-13, 13:31:16](https://news.ycombinator.com/item?id=44888210) - [DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls](https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e)
 * [2025-08-13, 13:26:34](https://news.ycombinator.com/item?id=44888167) - [The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
 * [2025-08-13, 13:06:29](https://news.ycombinator.com/item?id=44887965) - [So what's the difference between plotted and printed artwork?](https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork)
-* [2025-08-13, 13:03:04](https://news.ycombinator.com/item?id=44887930) - [Supporting org.apache.xml.security in graalVM](https://guust.ysebie.be/blog/supporting-apache-xml-security-algorithms.html)
 * [2025-08-13, 12:54:45](https://news.ycombinator.com/item?id=44887853) - [Pebble Time 2 Design Reveal [video]](https://www.youtube.com/watch?v=pcPzmDePH3E)
 * [2025-08-13, 10:19:35](https://news.ycombinator.com/item?id=44886647) - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
 * [2025-08-13, 08:12:48](https://news.ycombinator.com/item?id=44885821) - [Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band](https://astrobites.org/2025/08/12/starlink-ska-low/)
@@ -27,8 +27,8 @@
 * [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 * [2025-08-12, 16:02:23](https://news.ycombinator.com/item?id=44878147) - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
 * [2025-08-10, 13:20:00](https://news.ycombinator.com/item?id=44855016) - [Mesmerizing Hypnoloid, a Kinetic Desktop Sculpture](https://www.core77.com/posts/138054/This-Mesmerizing-Hypnoloid-a-Kinetic-Desktop-Sculpture)
+* [2025-08-09, 22:41:36](https://news.ycombinator.com/item?id=44851019) - [PCIe 8.0 Announced by the PCI-Sig Will Double Throughput Again – ServeTheHome](https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/)
 * [2025-08-09, 19:20:35](https://news.ycombinator.com/item?id=44849291) - [Honky-Tonk Tokyo (2020)](https://www.afar.com/magazine/in-tokyo-japan-country-music-finds-an-audience)
-* [2025-08-09, 18:22:45](https://news.ycombinator.com/item?id=44848821) - [The Rock Art of Serrania De La Lindosa](https://www.earthasweknowit.com/pages/serrania_de_la_lindosa_rock_art)
 * [2025-08-09, 14:33:12](https://news.ycombinator.com/item?id=44846781) - [Bezier-rs – algorithms for Bézier segments and shapes](https://graphite.rs/libraries/bezier-rs/)
 
 ## [Archives](archives/index.md)

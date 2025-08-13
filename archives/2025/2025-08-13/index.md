@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 18:30:12](https://news.ycombinator.com/item?id=44892070) - [29 years later, Settlers II gets Amiga release](https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/)
+* [2025-08-13, 18:23:51](https://news.ycombinator.com/item?id=44891997) - [Man develops rare condition after ChatGPT query over stopping eating salt](https://www.theguardian.com/technology/2025/aug/12/us-man-bromism-salt-diet-chatgpt-openai-health-information)
 * [2025-08-13, 18:05:05](https://news.ycombinator.com/item?id=44891759) - [I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 * [2025-08-13, 17:57:11](https://news.ycombinator.com/item?id=44891655) - [Tesla Diner Drops Most Menu Options and Cuts Hours Just Weeks After Opening](https://www.jalopnik.com/1938650/tesla-diner-drops-most-menu-options-cuts-hours/)
 * [2025-08-13, 17:46:40](https://news.ycombinator.com/item?id=44891509) - [April Fools 2014: The *Real* Test Driven Development](https://testing.googleblog.com/2014/04/the-real-test-driven-development.html)
