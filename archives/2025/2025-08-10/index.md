@@ -17,6 +17,7 @@
 * [2025-08-10, 20:30:34](https://news.ycombinator.com/item?id=44858067) - [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
 * [2025-08-10, 20:22:24](https://news.ycombinator.com/item?id=44858009) - [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
 * [2025-08-10, 20:06:05](https://news.ycombinator.com/item?id=44857882) - [The great myth of empire collapse](https://aeon.co/essays/the-great-myth-of-empire-collapse)
+* [2025-08-10, 20:02:57](https://news.ycombinator.com/item?id=44857858) - [What to Do When Critical Open Source Projects Go End of Life](https://thenewstack.io/what-to-do-when-critical-open-source-projects-go-end-of-life/)
 * [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
 * [2025-08-10, 18:31:05](https://news.ycombinator.com/item?id=44857205) - [South Korea's military has shrunk by 20% in six years as male population drops](https://www.channelnewsasia.com/east-asia/south-koreas-military-has-shrunk-20-in-six-years-male-population-drops-5287301)
 * [2025-08-10, 18:14:38](https://news.ycombinator.com/item?id=44857100) - [Conversations remotely detected from cell phone vibrations, researchers report](https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report)

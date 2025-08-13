@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 14:39:02](https://news.ycombinator.com/item?id=44889050) - [The case for shorter .com domains](https://www.nklswbr.com/blog/dot-com-diet)
+* [2025-08-13, 14:25:48](https://news.ycombinator.com/item?id=44888874) - [I'm Worried It Might Get Bad](https://danielmiessler.com/blog/im-worried-it-might-get-bad)
+* [2025-08-13, 14:23:56](https://news.ycombinator.com/item?id=44888847) - [How Well Do Coding Agents Use Your Library?](https://stackbench.ai/)
 * [2025-08-13, 13:50:35](https://news.ycombinator.com/item?id=44888445) - [We caught companies making it harder to delete your personal data online](https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data)
 * [2025-08-13, 13:46:18](https://news.ycombinator.com/item?id=44888396) - [Netflix Recommendations Mastery: Complete Implementation Guide](https://github.com/codeverseproo/Demo-Codes/tree/master/netflix)
 * [2025-08-13, 13:43:44](https://news.ycombinator.com/item?id=44888368) - [Farmers want California to change its autonomous tractor ban](https://www.nbcnews.com/video/farmers-want-california-to-change-its-autonomous-tractor-ban-244658757726)
