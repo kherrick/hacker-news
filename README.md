@@ -22,12 +22,12 @@
 * [2025-08-13, 12:54:45](https://news.ycombinator.com/item?id=44887853) - [Pebble Time 2 Design Reveal [video]](https://www.youtube.com/watch?v=pcPzmDePH3E)
 * [2025-08-13, 10:56:50](https://news.ycombinator.com/item?id=44886913) - [Facial recognition vans to be rolled out across the UK](https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613)
 * [2025-08-13, 10:19:35](https://news.ycombinator.com/item?id=44886647) - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
+* [2025-08-13, 06:59:35](https://news.ycombinator.com/item?id=44885398) - [Claude says “You're absolutely right!” about everything](https://github.com/anthropics/claude-code/issues/3382)
 * [2025-08-13, 01:14:36](https://news.ycombinator.com/item?id=44883634) - [VC-backed company just killed my EU trademark for a small OSS project](https://news.ycombinator.com/item?id=44883634)
 * [2025-08-12, 21:52:10](https://news.ycombinator.com/item?id=44882209) - [Mubook – N100 x86 NAS Carrier Board Designed for Hackclub Highway](https://github.com/LtBrain/MuBook)
 * [2025-08-12, 12:15:13](https://news.ycombinator.com/item?id=44875270) - [Kodak says it might have to cease operations](https://www.cnn.com/2025/08/12/business/kodak-survival-warning)
 * [2025-08-12, 06:12:32](https://news.ycombinator.com/item?id=44872984) - [Rerank-2.5 and rerank-2.5-lite: instruction-following rerankers](https://blog.voyageai.com/2025/08/11/rerank-2-5/)
 * [2025-08-11, 16:11:16](https://news.ycombinator.com/item?id=44865908) - [Fighting with YouTube to show a preview image](https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/)
-* [2025-08-10, 23:47:56](https://news.ycombinator.com/item?id=44859499) - [Electrically controlled heat transport in graphite films](https://www.science.org/doi/10.1126/sciadv.adw8588)
 * [2025-08-09, 22:41:36](https://news.ycombinator.com/item?id=44851019) - [PCIe 8.0 announced by the PCI-Sig will double throughput again](https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/)
 * [2025-08-09, 20:22:37](https://news.ycombinator.com/item?id=44849834) - [Myths About Floating-Point Numbers (2021)](https://www.asawicki.info/news_1741_myths_about_floating-point_numbers)
 
