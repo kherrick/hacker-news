@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-08-13, 18:52:33",
-      "https://news.ycombinator.com/item?id=44892321"
-    ],
-    [
-      "Job Listing Site Highlighting H-1B Positions So Americans Can Apply",
-      "https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 18:42:49",
       "https://news.ycombinator.com/item?id=44892209"
     ],
@@ -51,32 +41,12 @@
   ],
   [
     [
-      "2025-08-13, 18:30:12",
-      "https://news.ycombinator.com/item?id=44892070"
-    ],
-    [
-      "29 years later, Settlers II gets Amiga release",
-      "https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 18:05:05",
       "https://news.ycombinator.com/item?id=44891759"
     ],
     [
       "OCaml as my primary language",
       "https://xvw.lol/en/articles/why-ocaml.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 17:46:40",
-      "https://news.ycombinator.com/item?id=44891509"
-    ],
-    [
-      "April Fools 2014: The *Real* Test Driven Development (2014)",
-      "https://testing.googleblog.com/2014/04/the-real-test-driven-development.html"
     ]
   ],
   [
@@ -111,32 +81,22 @@
   ],
   [
     [
-      "2025-08-13, 16:42:13",
-      "https://news.ycombinator.com/item?id=44890722"
-    ],
-    [
-      "A case study in bad hiring practice and how to fix it",
-      "https://www.tomkranz.com/blog1/a-case-study-in-bad-hiring-practice-and-how-to-fix-it"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 15:47:33",
-      "https://news.ycombinator.com/item?id=44890012"
-    ],
-    [
-      "Gartner's grift is about to unravel",
-      "https://dx.tips/gartner"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 15:41:55",
       "https://news.ycombinator.com/item?id=44889941"
     ],
     [
       "Nginx introduces native support for ACME protocol",
       "https://blog.nginx.org/blog/native-support-for-acme-protocol"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 15:26:28",
+      "https://news.ycombinator.com/item?id=44889715"
+    ],
+    [
+      "Study: Social media probably can't be fixed",
+      "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/"
     ]
   ],
   [
@@ -181,12 +141,22 @@
   ],
   [
     [
-      "2025-08-13, 13:50:35",
-      "https://news.ycombinator.com/item?id=44888445"
+      "2025-08-13, 14:23:56",
+      "https://news.ycombinator.com/item?id=44888847"
     ],
     [
-      "We caught companies making it harder to delete your personal data online",
-      "https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data"
+      "How well do coding agents use your library?",
+      "https://stackbench.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 13:33:45",
+      "https://news.ycombinator.com/item?id=44888236"
+    ],
+    [
+      "When DEF CON partners with the U.S. Army",
+      "https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge"
     ]
   ],
   [
@@ -231,6 +201,16 @@
   ],
   [
     [
+      "2025-08-13, 10:56:50",
+      "https://news.ycombinator.com/item?id=44886913"
+    ],
+    [
+      "Facial recognition vans to be rolled out across the UK",
+      "https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 10:19:35",
       "https://news.ycombinator.com/item?id=44886647"
     ],
@@ -257,6 +237,16 @@
     [
       "VC-backed company just killed my EU trademark for a small OSS project",
       "https://news.ycombinator.com/item?id=44883634"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 12:15:13",
+      "https://news.ycombinator.com/item?id=44875270"
+    ],
+    [
+      "Kodak says it might have to cease operations",
+      "https://www.cnn.com/2025/08/12/business/kodak-survival-warning"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "PCIe 8.0 announced by the PCI-Sig will double throughput again",
       "https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 20:22:37",
+      "https://news.ycombinator.com/item?id=44849834"
+    ],
+    [
+      "Myths About Floating-Point Numbers (2021)",
+      "https://www.asawicki.info/news_1741_myths_about_floating-point_numbers"
     ]
   ]
 ]
