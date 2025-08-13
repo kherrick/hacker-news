@@ -7,6 +7,7 @@
 * [2025-08-12, 23:44:53](https://news.ycombinator.com/item?id=44883083) - [Scapegoating the Algorithm](https://asteriskmag.com/issues/11/scapegoating-the-algorithm)
 * [2025-08-12, 22:19:08](https://news.ycombinator.com/item?id=44882441) - [Show HN: Doom port to pure Go – Gore](https://github.com/AndreRenaud/gore)
 * [2025-08-12, 22:18:55](https://news.ycombinator.com/item?id=44882438) - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
+* [2025-08-12, 21:52:10](https://news.ycombinator.com/item?id=44882209) - [Mubook – N100 x86 NAS Carrier Board Designed for Hackclub Highway](https://github.com/LtBrain/MuBook)
 * [2025-08-12, 21:37:37](https://news.ycombinator.com/item?id=44882084) - [A Suicide Cult's Surviving Members Still Maintain Its 90s Website](https://www.vice.com/en/article/a-suicide-cults-surviving-members-still-maintain-its-90s-website/)
 * [2025-08-12, 21:25:01](https://news.ycombinator.com/item?id=44881977) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 * [2025-08-12, 21:15:11](https://news.ycombinator.com/item?id=44881878) - [Crypto founder Do Kwon pleads guilty to US fraud charges](https://www.ft.com/content/2e6fdc73-1083-48fb-b258-d22fc7ef8ad8)
