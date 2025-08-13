@@ -1,12 +1,62 @@
 [
   [
     [
-      "2025-08-13, 12:11:20",
-      "https://news.ycombinator.com/item?id=44887459"
+      "2025-08-13, 13:33:45",
+      "https://news.ycombinator.com/item?id=44888236"
     ],
     [
-      "His psychosis was a mystery–until doctors learned about ChatGPT's health advice",
-      "https://www.psypost.org/his-psychosis-was-a-mystery-until-doctors-learned-about-chatgpts-health-advice/"
+      "When DEF CON partners with the U.S. Army",
+      "https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 13:31:16",
+      "https://news.ycombinator.com/item?id=44888210"
+    ],
+    [
+      "DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls",
+      "https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 13:26:34",
+      "https://news.ycombinator.com/item?id=44888167"
+    ],
+    [
+      "The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation",
+      "https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 13:06:29",
+      "https://news.ycombinator.com/item?id=44887965"
+    ],
+    [
+      "So what's the difference between plotted and printed artwork?",
+      "https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 13:05:42",
+      "https://news.ycombinator.com/item?id=44887954"
+    ],
+    [
+      "Geneva makes public transport temporarily free to combat pollution spike",
+      "https://www.reuters.com/sustainability/climate-energy/geneva-makes-public-transport-temporarily-free-combat-pollution-spike-2025-08-13/"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 13:03:04",
+      "https://news.ycombinator.com/item?id=44887930"
+    ],
+    [
+      "Supporting org.apache.xml.security in graalVM",
+      "https://guust.ysebie.be/blog/supporting-apache-xml-security-algorithms.html"
     ]
   ],
   [
@@ -55,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44885398"
     ],
     [
-      "[BUG] Claude says \"You're absolutely right!\" about everything",
+      "Claude says “You're absolutely right!” about everything",
       "https://github.com/anthropics/claude-code/issues/3382"
     ]
   ],
@@ -81,16 +131,6 @@
   ],
   [
     [
-      "2025-08-13, 02:26:32",
-      "https://news.ycombinator.com/item?id=44884091"
-    ],
-    [
-      "A Comprehensive Survey of Self-Evolving AI Agents [pdf]",
-      "https://arxiv.org/abs/2508.07407"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 00:17:33",
       "https://news.ycombinator.com/item?id=44883304"
     ],
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2025-08-12, 20:15:17",
-      "https://news.ycombinator.com/item?id=44881287"
-    ],
-    [
-      "The Missing Protocol: Let Me Know",
-      "https://deanebarker.net/tech/blog/let-me-know/"
-    ]
-  ],
-  [
-    [
       "2025-08-12, 18:56:38",
       "https://news.ycombinator.com/item?id=44880401"
     ],
     [
       "Ashet Home Computer",
       "https://ashet.computer/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 16:53:37",
-      "https://news.ycombinator.com/item?id=44878916"
-    ],
-    [
-      "WHY2025: How to become your own ISP [video]",
-      "https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp"
     ]
   ],
   [
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2025-08-12, 13:52:51",
+      "https://news.ycombinator.com/item?id=44876205"
+    ],
+    [
+      "Evaluating GPT5's reasoning ability using the Only Connect game show",
+      "https://ingram.tech/posts/evaluating-gpt5-reasoning-ability"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 13:32:16",
       "https://news.ycombinator.com/item?id=44875992"
     ],
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2025-08-10, 18:14:38",
-      "https://news.ycombinator.com/item?id=44857100"
-    ],
-    [
-      "Conversations remotely detected from cell phone vibrations, researchers report",
-      "https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 15:55:54",
-      "https://news.ycombinator.com/item?id=44856046"
-    ],
-    [
-      "QNX: The Incredible 1.44M Demo",
-      "https://archive.org/details/QNX_incredible_1.44m_demo_v4.0"
-    ]
-  ],
-  [
-    [
       "2025-08-09, 22:22:00",
       "https://news.ycombinator.com/item?id=44850873"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2025-08-09, 20:22:37",
+      "https://news.ycombinator.com/item?id=44849834"
+    ],
+    [
+      "Myths About Floating-Point Numbers (2021)",
+      "https://www.asawicki.info/news_1741_myths_about_floating-point_numbers"
+    ]
+  ],
+  [
+    [
       "2025-08-09, 18:22:45",
       "https://news.ycombinator.com/item?id=44848821"
     ],
     [
       "The Rock Art of Serrania De La Lindosa",
       "https://www.earthasweknowit.com/pages/serrania_de_la_lindosa_rock_art"
-    ]
-  ],
-  [
-    [
-      "2025-08-09, 17:30:09",
-      "https://news.ycombinator.com/item?id=44848389"
-    ],
-    [
-      "The Data in a Dino's Smile",
-      "https://nautil.us/the-data-in-a-dinos-smile-1229729/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Bezier-rs – algorithms for Bézier segments and shapes",
       "https://graphite.rs/libraries/bezier-rs/"
-    ]
-  ],
-  [
-    [
-      "2025-08-09, 11:48:24",
-      "https://news.ycombinator.com/item?id=44845787"
-    ],
-    [
-      "Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²",
-      "https://www.sdo.group/study"
     ]
   ],
   [
