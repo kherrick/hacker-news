@@ -6,7 +6,6 @@
 * [2025-08-13, 06:40:38](https://news.ycombinator.com/item?id=44885295) - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
 * [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 * [2025-08-13, 04:03:18](https://news.ycombinator.com/item?id=44884546) - [Fennel libraries as single files (2023)](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
-* [2025-08-13, 03:26:53](https://news.ycombinator.com/item?id=44884393) - [1948: Catholic Church publishes final edition of “Index Librorum Prohibitorum”](https://historyofinformation.com/detail.php?entryid=856)
 * [2025-08-13, 02:26:32](https://news.ycombinator.com/item?id=44884091) - [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
 * [2025-08-13, 00:17:33](https://news.ycombinator.com/item?id=44883304) - [Search all text in New York City](https://www.alltext.nyc/)
 * [2025-08-12, 22:19:08](https://news.ycombinator.com/item?id=44882441) - [Show HN: Doom port to pure Go – Gore](https://github.com/AndreRenaud/gore)
@@ -23,13 +22,14 @@
 * [2025-08-10, 18:14:38](https://news.ycombinator.com/item?id=44857100) - [Conversations remotely detected from cell phone vibrations, researchers report](https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report)
 * [2025-08-10, 16:14:40](https://news.ycombinator.com/item?id=44856161) - [The Anti-Pattern Game](https://hakon.gylterud.net/antipattern/)
 * [2025-08-10, 15:55:54](https://news.ycombinator.com/item?id=44856046) - [QNX: The Incredible 1.44M Demo](https://archive.org/details/QNX_incredible_1.44m_demo_v4.0)
-* [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs aren't world models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-09, 22:18:21](https://news.ycombinator.com/item?id=44850843) - [Lördagsgodis (Saturday Sweets)](https://en.wikipedia.org/wiki/L%C3%B6rdagsgodis)
 * [2025-08-09, 16:36:29](https://news.ycombinator.com/item?id=44847903) - [Fingerjigger](https://fingerjigger.com/play)
 * [2025-08-09, 14:33:12](https://news.ycombinator.com/item?id=44846781) - [Bezier-rs – algorithms for Bézier segments and shapes](https://graphite.rs/libraries/bezier-rs/)
 * [2025-08-09, 11:48:24](https://news.ycombinator.com/item?id=44845787) - [Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²](https://www.sdo.group/study)
 * [2025-08-09, 08:20:00](https://news.ycombinator.com/item?id=44844903) - [Visualizing quaternions: An explorable video series (2018)](https://eater.net/quaternions)
 * [2025-08-09, 02:26:48](https://news.ycombinator.com/item?id=44843586) - [Blender is Native on Windows 11 on Arm](https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm)
+* [2025-08-09, 01:07:48](https://news.ycombinator.com/item?id=44843223) - [A spellchecker used to be a major feat of software engineering (2008)](https://prog21.dadgum.com/29.html)
+* [2025-08-08, 21:59:18](https://news.ycombinator.com/item?id=44842114) - [RISC-V single-board computer for less than 40 euros](https://www.heise.de/en/news/RISC-V-single-board-computer-for-less-than-40-euros-10515044.html)
 
 ## [Archives](archives/index.md)
 
