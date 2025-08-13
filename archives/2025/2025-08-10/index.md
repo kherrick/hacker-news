@@ -38,6 +38,7 @@
 * [2025-08-10, 14:33:26](https://news.ycombinator.com/item?id=44855469) - [LHC's New Chip Tackles Radiation Challenges](https://spectrum.ieee.org/lhc-radiation-chip)
 * [2025-08-10, 13:44:05](https://news.ycombinator.com/item?id=44855157) - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
 * [2025-08-10, 13:32:13](https://news.ycombinator.com/item?id=44855079) - [Try and](https://ygdp.yale.edu/phenomena/try-and)
+* [2025-08-10, 13:20:00](https://news.ycombinator.com/item?id=44855016) - [Mesmerizing Hypnoloid, a Kinetic Desktop Sculpture](https://www.core77.com/posts/138054/This-Mesmerizing-Hypnoloid-a-Kinetic-Desktop-Sculpture)
 * [2025-08-10, 13:15:33](https://news.ycombinator.com/item?id=44854989) - [Inside OS/2](https://gitpi.us/article-archive/inside-os2/)
 * [2025-08-10, 12:53:27](https://news.ycombinator.com/item?id=44854860) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin)
 * [2025-08-10, 12:15:01](https://news.ycombinator.com/item?id=44854686) - [Show HN: Play Pokémon to unlock your Wayland session](https://github.com/AdoPi/wlgblock)

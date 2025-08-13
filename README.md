@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-13, 17:31:08](https://news.ycombinator.com/item?id=44891302) - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
 * [2025-08-13, 17:20:39](https://news.ycombinator.com/item?id=44891182) - [U.S. alcohol consumption drops to a 90-year low, new poll finds](https://www.sfchronicle.com/food/wine/article/drink-alcohol-americans-poll-20812180.php)
 * [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
 * [2025-08-13, 17:00:37](https://news.ycombinator.com/item?id=44890956) - [ReadMe (YC W15) Is Hiring a Developer Experience PM](https://readme.com/careers#product-manager-developer-experience)
@@ -24,8 +25,7 @@
 * [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 * [2025-08-13, 00:17:33](https://news.ycombinator.com/item?id=44883304) - [Search all text in New York City](https://www.alltext.nyc/)
 * [2025-08-12, 16:02:23](https://news.ycombinator.com/item?id=44878147) - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
-* [2025-08-12, 14:04:40](https://news.ycombinator.com/item?id=44876356) - [Journaling using Nix, Vim and coreutils](https://tangled.sh/@oppi.li/journal)
-* [2025-08-09, 22:22:00](https://news.ycombinator.com/item?id=44850873) - [Improving Geographical Resilience for Distributed Open Source Teams with Freon](https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/)
+* [2025-08-10, 13:20:00](https://news.ycombinator.com/item?id=44855016) - [Mesmerizing Hypnoloid, a Kinetic Desktop Sculpture](https://www.core77.com/posts/138054/This-Mesmerizing-Hypnoloid-a-Kinetic-Desktop-Sculpture)
 * [2025-08-09, 20:22:37](https://news.ycombinator.com/item?id=44849834) - [Myths About Floating-Point Numbers (2021)](https://www.asawicki.info/news_1741_myths_about_floating-point_numbers)
 * [2025-08-09, 19:20:35](https://news.ycombinator.com/item?id=44849291) - [Honky-Tonk Tokyo (2020)](https://www.afar.com/magazine/in-tokyo-japan-country-music-finds-an-audience)
 * [2025-08-09, 18:22:45](https://news.ycombinator.com/item?id=44848821) - [The Rock Art of Serrania De La Lindosa](https://www.earthasweknowit.com/pages/serrania_de_la_lindosa_rock_art)
