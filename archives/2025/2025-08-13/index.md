@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 18:05:05](https://news.ycombinator.com/item?id=44891759) - [I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
+* [2025-08-13, 17:57:11](https://news.ycombinator.com/item?id=44891655) - [Tesla Diner Drops Most Menu Options and Cuts Hours Just Weeks After Opening](https://www.jalopnik.com/1938650/tesla-diner-drops-most-menu-options-cuts-hours/)
+* [2025-08-13, 17:46:40](https://news.ycombinator.com/item?id=44891509) - [April Fools 2014: The *Real* Test Driven Development](https://testing.googleblog.com/2014/04/the-real-test-driven-development.html)
 * [2025-08-13, 17:34:08](https://news.ycombinator.com/item?id=44891336) - [Maga's boss class think they are immune to American carnage](https://pluralistic.net/2025/08/13/then-they-came-for-me/#boss-politics)
+* [2025-08-13, 17:32:03](https://news.ycombinator.com/item?id=44891314) - [How Stock Options Work](https://web.stanford.edu/class/e145/2007_fall/materials/stockoptions.html)
 * [2025-08-13, 17:31:08](https://news.ycombinator.com/item?id=44891302) - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
 * [2025-08-13, 17:20:39](https://news.ycombinator.com/item?id=44891182) - [U.S. alcohol consumption drops to a 90-year low, new poll finds](https://www.sfchronicle.com/food/wine/article/drink-alcohol-americans-poll-20812180.php)
 * [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
