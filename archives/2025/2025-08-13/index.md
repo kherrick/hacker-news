@@ -69,5 +69,6 @@
 * [2025-08-13, 02:26:32](https://news.ycombinator.com/item?id=44884091) - [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
 * [2025-08-13, 02:09:18](https://news.ycombinator.com/item?id=44883987) - [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
 * [2025-08-13, 01:50:17](https://news.ycombinator.com/item?id=44883870) - [Is Meta Scraping the Fediverse for AI?](https://wedistribute.org/2025/08/is-meta-scraping-the-fediverse-for-ai/)
+* [2025-08-13, 01:14:36](https://news.ycombinator.com/item?id=44883634) - [VC-backed company just killed my EU trademark for a small OSS project](https://news.ycombinator.com/item?id=44883634)
 * [2025-08-13, 00:51:21](https://news.ycombinator.com/item?id=44883475) - [AI Eroded Doctors' Ability to Spot Cancer Within Months in Study](https://www.bloomberg.com/news/articles/2025-08-12/ai-eroded-doctors-ability-to-spot-cancer-within-months-in-study)
 * [2025-08-13, 00:17:33](https://news.ycombinator.com/item?id=44883304) - [Search all text in New York City](https://www.alltext.nyc/)
