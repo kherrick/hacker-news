@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-13, 19:26:02",
+      "https://news.ycombinator.com/item?id=44892701"
+    ],
+    [
+      "New downgrade attack can bypass FIDO auth in Microsoft Entra ID",
+      "https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 19:14:31",
+      "https://news.ycombinator.com/item?id=44892580"
+    ],
+    [
+      "Fuse is 95% cheaper and 10x faster than NFS",
+      "https://nilesh-agarwal.com/storage-in-cloud-for-llms-2/"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 19:07:54",
       "https://news.ycombinator.com/item?id=44892497"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-08-13, 12:54:45",
-      "https://news.ycombinator.com/item?id=44887853"
-    ],
-    [
-      "Pebble Time 2 Design Reveal [video]",
-      "https://www.youtube.com/watch?v=pcPzmDePH3E"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 10:19:35",
       "https://news.ycombinator.com/item?id=44886647"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-08-10, 13:20:00",
-      "https://news.ycombinator.com/item?id=44855016"
+      "2025-08-12, 06:12:32",
+      "https://news.ycombinator.com/item?id=44872984"
     ],
     [
-      "Mesmerizing Hypnoloid, a Kinetic Desktop Sculpture",
-      "https://www.core77.com/posts/138054/This-Mesmerizing-Hypnoloid-a-Kinetic-Desktop-Sculpture"
+      "rerank-2.5 and rerank-2.5-lite: instruction-following rerankers",
+      "https://blog.voyageai.com/2025/08/11/rerank-2-5/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Honky-Tonk Tokyo (2020)",
       "https://www.afar.com/magazine/in-tokyo-japan-country-music-finds-an-audience"
-    ]
-  ],
-  [
-    [
-      "2025-08-09, 14:33:12",
-      "https://news.ycombinator.com/item?id=44846781"
-    ],
-    [
-      "Bezier-rs – algorithms for Bézier segments and shapes",
-      "https://graphite.rs/libraries/bezier-rs/"
     ]
   ]
 ]
