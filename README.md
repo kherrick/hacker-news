@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-13, 08:38:18](https://news.ycombinator.com/item?id=44885991) - [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
+* [2025-08-13, 08:12:48](https://news.ycombinator.com/item?id=44885821) - [Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band](https://astrobites.org/2025/08/12/starlink-ska-low/)
 * [2025-08-13, 08:03:14](https://news.ycombinator.com/item?id=44885761) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-13, 06:40:38](https://news.ycombinator.com/item?id=44885295) - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
 * [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
@@ -29,7 +30,6 @@
 * [2025-08-09, 11:48:24](https://news.ycombinator.com/item?id=44845787) - [Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²](https://www.sdo.group/study)
 * [2025-08-09, 08:20:00](https://news.ycombinator.com/item?id=44844903) - [Visualizing quaternions: An explorable video series (2018)](https://eater.net/quaternions)
 * [2025-08-09, 02:26:48](https://news.ycombinator.com/item?id=44843586) - [Blender is Native on Windows 11 on Arm](https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm)
-* [2025-08-09, 01:07:48](https://news.ycombinator.com/item?id=44843223) - [A spellchecker used to be a major feat of software engineering (2008)](https://prog21.dadgum.com/29.html)
 
 ## [Archives](archives/index.md)
 
