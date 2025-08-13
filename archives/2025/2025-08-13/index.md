@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 17:20:39](https://news.ycombinator.com/item?id=44891182) - [U.S. alcohol consumption drops to a 90-year low, new poll finds](https://www.sfchronicle.com/food/wine/article/drink-alcohol-americans-poll-20812180.php)
 * [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
 * [2025-08-13, 17:00:37](https://news.ycombinator.com/item?id=44890956) - [ReadMe (YC W15) Is Hiring a Developer Experience PM](https://readme.com/careers#product-manager-developer-experience)
 * [2025-08-13, 16:42:13](https://news.ycombinator.com/item?id=44890722) - [A case study in bad hiring practice and how to fix it](https://www.tomkranz.com/blog1/a-case-study-in-bad-hiring-practice-and-how-to-fix-it)
