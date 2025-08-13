@@ -3,7 +3,6 @@
 * [2025-08-13, 20:43:46](https://news.ycombinator.com/item?id=44893600) - [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 * [2025-08-13, 20:11:50](https://news.ycombinator.com/item?id=44893254) - [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
 * [2025-08-13, 18:52:33](https://news.ycombinator.com/item?id=44892321) - [Job Listing Site Highlighting H-1B Positions So Americans Can Apply](https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404)
-* [2025-08-13, 18:47:24](https://news.ycombinator.com/item?id=44892254) - [Google Play Store Bans Wallets That Don't Have Banking License](https://www.therage.co/google-play-store-ban-wallets/)
 * [2025-08-13, 18:42:49](https://news.ycombinator.com/item?id=44892209) - [PYX: The next step in Python packaging](https://astral.sh/pyx)
 * [2025-08-13, 18:31:19](https://news.ycombinator.com/item?id=44892086) - [US national debt reaches a record $37T, the Treasury Department reports](https://apnews.com/article/treasury-debt-spending-trump-obbb-6f807c4aae78dcc96f29ff07a3c926f4)
 * [2025-08-13, 18:30:12](https://news.ycombinator.com/item?id=44892070) - [29 years later, Settlers II gets Amiga release](https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/)
@@ -29,6 +28,7 @@
 * [2025-08-13, 01:14:36](https://news.ycombinator.com/item?id=44883634) - [VC-backed company just killed my EU trademark for a small OSS project](https://news.ycombinator.com/item?id=44883634)
 * [2025-08-12, 06:12:32](https://news.ycombinator.com/item?id=44872984) - [Rerank-2.5 and rerank-2.5-lite: instruction-following rerankers](https://blog.voyageai.com/2025/08/11/rerank-2-5/)
 * [2025-08-11, 16:11:16](https://news.ycombinator.com/item?id=44865908) - [Fighting with YouTube to show a preview image](https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/)
+* [2025-08-10, 23:47:56](https://news.ycombinator.com/item?id=44859499) - [Electrically controlled heat transport in graphite films](https://www.science.org/doi/10.1126/sciadv.adw8588)
 * [2025-08-09, 22:41:36](https://news.ycombinator.com/item?id=44851019) - [PCIe 8.0 announced by the PCI-Sig will double throughput again](https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/)
 
 ## [Archives](archives/index.md)
