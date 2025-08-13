@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-13, 08:07:40",
+      "https://news.ycombinator.com/item?id=44885790"
+    ],
+    [
+      "Exploding Cucumber",
+      "https://en.wikipedia.org/wiki/Cyclanthera_brachystachya"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 08:03:14",
+      "https://news.ycombinator.com/item?id=44885761"
+    ],
+    [
+      "The Factory Timezone",
+      "https://data.iana.org/time-zones/tzdb-2025a/factory"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 06:55:18",
       "https://news.ycombinator.com/item?id=44885367"
     ],
@@ -107,26 +127,6 @@
     [
       "Ashet Home Computer",
       "https://ashet.computer/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 18:27:50",
-      "https://news.ycombinator.com/item?id=44880081"
-    ],
-    [
-      "The equality delete problem in Apache Iceberg",
-      "https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 17:01:10",
-      "https://news.ycombinator.com/item?id=44879015"
-    ],
-    [
-      "Weave (YC W25) is hiring a founding AI engineer",
-      "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-08-09, 16:36:29",
+      "https://news.ycombinator.com/item?id=44847903"
+    ],
+    [
+      "Fingerjigger",
+      "https://fingerjigger.com/play"
+    ]
+  ],
+  [
+    [
       "2025-08-09, 14:33:12",
       "https://news.ycombinator.com/item?id=44846781"
     ],
@@ -287,16 +297,6 @@
     [
       "A spellchecker used to be a major feat of software engineering (2008)",
       "https://prog21.dadgum.com/29.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 21:59:18",
-      "https://news.ycombinator.com/item?id=44842114"
-    ],
-    [
-      "RISC-V single-board computer for less than 40 euros",
-      "https://www.heise.de/en/news/RISC-V-single-board-computer-for-less-than-40-euros-10515044.html"
     ]
   ]
 ]
