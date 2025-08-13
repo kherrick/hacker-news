@@ -13,6 +13,7 @@
 * [2025-08-10, 21:19:06](https://news.ycombinator.com/item?id=44858385) - [Why insurers worry the world could soon become uninsurable](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html)
 * [2025-08-10, 21:10:19](https://news.ycombinator.com/item?id=44858310) - [Ask HN: Would you get a CS degree today?](https://news.ycombinator.com/item?id=44858310)
 * [2025-08-10, 20:48:46](https://news.ycombinator.com/item?id=44858154) - [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
+* [2025-08-10, 20:42:32](https://news.ycombinator.com/item?id=44858120) - [Comparing baseball greats across eras, who comes out on top?](https://phys.org/news/2025-07-baseball-greats-eras.html)
 * [2025-08-10, 20:30:34](https://news.ycombinator.com/item?id=44858067) - [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
 * [2025-08-10, 20:22:24](https://news.ycombinator.com/item?id=44858009) - [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
 * [2025-08-10, 20:06:05](https://news.ycombinator.com/item?id=44857882) - [The great myth of empire collapse](https://aeon.co/essays/the-great-myth-of-empire-collapse)
