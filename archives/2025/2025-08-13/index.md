@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 12:11:20](https://news.ycombinator.com/item?id=44887459) - [His psychosis was a mystery–until doctors learned about ChatGPT's health advice](https://www.psypost.org/his-psychosis-was-a-mystery-until-doctors-learned-about-chatgpts-health-advice/)
+* [2025-08-13, 11:59:16](https://news.ycombinator.com/item?id=44887373) - [UK expands police facial recognition rollout with 10 new facial recognition vans](https://www.theregister.com/2025/08/13/uk_expands_police_facial_recognition/)
 * [2025-08-13, 10:19:35](https://news.ycombinator.com/item?id=44886647) - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
 * [2025-08-13, 08:38:18](https://news.ycombinator.com/item?id=44885991) - [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
 * [2025-08-13, 08:12:48](https://news.ycombinator.com/item?id=44885821) - [Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band](https://astrobites.org/2025/08/12/starlink-ska-low/)

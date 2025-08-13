@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-13, 12:11:20](https://news.ycombinator.com/item?id=44887459) - [His psychosis was a mystery–until doctors learned about ChatGPT's health advice](https://www.psypost.org/his-psychosis-was-a-mystery-until-doctors-learned-about-chatgpts-health-advice/)
+* [2025-08-13, 11:59:16](https://news.ycombinator.com/item?id=44887373) - [UK expands police facial recognition rollout with 10 new facial recognition vans](https://www.theregister.com/2025/08/13/uk_expands_police_facial_recognition/)
 * [2025-08-13, 10:19:35](https://news.ycombinator.com/item?id=44886647) - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
-* [2025-08-13, 08:38:18](https://news.ycombinator.com/item?id=44885991) - [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
 * [2025-08-13, 08:12:48](https://news.ycombinator.com/item?id=44885821) - [Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band](https://astrobites.org/2025/08/12/starlink-ska-low/)
 * [2025-08-13, 08:03:14](https://news.ycombinator.com/item?id=44885761) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-13, 06:59:35](https://news.ycombinator.com/item?id=44885398) - [[BUG] Claude says \"You're absolutely right!\" about everything](https://github.com/anthropics/claude-code/issues/3382)
@@ -20,7 +21,6 @@
 * [2025-08-12, 13:32:16](https://news.ycombinator.com/item?id=44875992) - [Training language models to be warm and empathetic makes them less reliable](https://arxiv.org/abs/2507.21919)
 * [2025-08-12, 03:35:52](https://news.ycombinator.com/item?id=44872114) - [From Here?](https://www.dirtyfeed.org/2025/07/from-here/)
 * [2025-08-10, 18:14:38](https://news.ycombinator.com/item?id=44857100) - [Conversations remotely detected from cell phone vibrations, researchers report](https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report)
-* [2025-08-10, 16:14:40](https://news.ycombinator.com/item?id=44856161) - [The Anti-Pattern Game](https://hakon.gylterud.net/antipattern/)
 * [2025-08-10, 15:55:54](https://news.ycombinator.com/item?id=44856046) - [QNX: The Incredible 1.44M Demo](https://archive.org/details/QNX_incredible_1.44m_demo_v4.0)
 * [2025-08-09, 22:22:00](https://news.ycombinator.com/item?id=44850873) - [Improving Geographical Resilience for Distributed Open Source Teams with Freon](https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/)
 * [2025-08-09, 18:22:45](https://news.ycombinator.com/item?id=44848821) - [The Rock Art of Serrania De La Lindosa](https://www.earthasweknowit.com/pages/serrania_de_la_lindosa_rock_art)
