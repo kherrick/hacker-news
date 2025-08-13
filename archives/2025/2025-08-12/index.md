@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
 * [2025-08-12, 23:44:53](https://news.ycombinator.com/item?id=44883083) - [Scapegoating the Algorithm](https://asteriskmag.com/issues/11/scapegoating-the-algorithm)
+* [2025-08-12, 22:19:08](https://news.ycombinator.com/item?id=44882441) - [Show HN: Doom port to pure Go – Gore](https://github.com/AndreRenaud/gore)
 * [2025-08-12, 22:18:55](https://news.ycombinator.com/item?id=44882438) - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
 * [2025-08-12, 21:37:37](https://news.ycombinator.com/item?id=44882084) - [A Suicide Cult's Surviving Members Still Maintain Its 90s Website](https://www.vice.com/en/article/a-suicide-cults-surviving-members-still-maintain-its-90s-website/)
 * [2025-08-12, 21:25:01](https://news.ycombinator.com/item?id=44881977) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
