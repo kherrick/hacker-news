@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 13:33:45](https://news.ycombinator.com/item?id=44888236) - [When DEF CON partners with the U.S. Army](https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge)
+* [2025-08-13, 13:31:16](https://news.ycombinator.com/item?id=44888210) - [DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls](https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e)
+* [2025-08-13, 13:26:34](https://news.ycombinator.com/item?id=44888167) - [The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
+* [2025-08-13, 13:06:29](https://news.ycombinator.com/item?id=44887965) - [So what's the difference between plotted and printed artwork?](https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork)
+* [2025-08-13, 13:05:42](https://news.ycombinator.com/item?id=44887954) - [Geneva makes public transport temporarily free to combat pollution spike](https://www.reuters.com/sustainability/climate-energy/geneva-makes-public-transport-temporarily-free-combat-pollution-spike-2025-08-13/)
+* [2025-08-13, 13:03:04](https://news.ycombinator.com/item?id=44887930) - [Supporting org.apache.xml.security in graalVM](https://guust.ysebie.be/blog/supporting-apache-xml-security-algorithms.html)
 * [2025-08-13, 12:11:20](https://news.ycombinator.com/item?id=44887459) - [His psychosis was a mystery–until doctors learned about ChatGPT's health advice](https://www.psypost.org/his-psychosis-was-a-mystery-until-doctors-learned-about-chatgpts-health-advice/)
 * [2025-08-13, 11:59:16](https://news.ycombinator.com/item?id=44887373) - [UK expands police facial recognition rollout with 10 new facial recognition vans](https://www.theregister.com/2025/08/13/uk_expands_police_facial_recognition/)
 * [2025-08-13, 10:19:35](https://news.ycombinator.com/item?id=44886647) - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)

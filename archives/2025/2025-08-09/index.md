@@ -15,6 +15,7 @@
 * [2025-08-09, 21:10:16](https://news.ycombinator.com/item?id=44850260) - [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
 * [2025-08-09, 20:48:00](https://news.ycombinator.com/item?id=44850063) - [\"The Hollow Men\" at 100](https://prufrock.substack.com/p/the-the-hollow-men-at-100)
 * [2025-08-09, 20:23:25](https://news.ycombinator.com/item?id=44849845) - [Jen Pawol becomes first woman to umpire a Major League Baseball game](https://apnews.com/article/pawol-female-umpire-marlins-braves-0ae34533ea49f1e400a1c39e8be6f30e)
+* [2025-08-09, 20:22:37](https://news.ycombinator.com/item?id=44849834) - [Myths About Floating-Point Numbers (2021)](https://www.asawicki.info/news_1741_myths_about_floating-point_numbers)
 * [2025-08-09, 19:17:32](https://news.ycombinator.com/item?id=44849269) - [JD Vance's team had water level of Ohio river raised for family's boating trip](https://www.theguardian.com/us-news/2025/aug/06/jd-vance-ohio-lake-water-levels)
 * [2025-08-09, 19:16:27](https://news.ycombinator.com/item?id=44849259) - [Physical Media Is Cool Again. Streaming Services Have Themselves to Blame](https://www.rollingstone.com/culture/culture-features/physical-media-collectors-trend-viral-streamers-1235387314/)
 * [2025-08-09, 18:59:37](https://news.ycombinator.com/item?id=44849129) - [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
