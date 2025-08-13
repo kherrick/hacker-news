@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-13, 08:07:40](https://news.ycombinator.com/item?id=44885790) - [Exploding Cucumber](https://en.wikipedia.org/wiki/Cyclanthera_brachystachya)
+* [2025-08-13, 08:03:14](https://news.ycombinator.com/item?id=44885761) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-13, 06:55:18](https://news.ycombinator.com/item?id=44885367) - [Sheet0, a data agent transform webpages to structured spreadsheets](https://www.sheet0.com/)
 * [2025-08-13, 06:40:38](https://news.ycombinator.com/item?id=44885295) - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
 * [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
@@ -11,8 +13,6 @@
 * [2025-08-12, 22:18:55](https://news.ycombinator.com/item?id=44882438) - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
 * [2025-08-12, 20:15:17](https://news.ycombinator.com/item?id=44881287) - [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 * [2025-08-12, 18:56:38](https://news.ycombinator.com/item?id=44880401) - [Ashet Home Computer](https://ashet.computer/)
-* [2025-08-12, 18:27:50](https://news.ycombinator.com/item?id=44880081) - [The equality delete problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
-* [2025-08-12, 17:01:10](https://news.ycombinator.com/item?id=44879015) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-08-12, 16:53:37](https://news.ycombinator.com/item?id=44878916) - [WHY2025: How to become your own ISP [video]](https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp)
 * [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from anywhere](https://github.com/omnara-ai/omnara)
 * [2025-08-12, 16:02:40](https://news.ycombinator.com/item?id=44878151) - [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
@@ -24,12 +24,12 @@
 * [2025-08-10, 16:14:40](https://news.ycombinator.com/item?id=44856161) - [The Anti-Pattern Game](https://hakon.gylterud.net/antipattern/)
 * [2025-08-10, 15:55:54](https://news.ycombinator.com/item?id=44856046) - [QNX: The Incredible 1.44M Demo](https://archive.org/details/QNX_incredible_1.44m_demo_v4.0)
 * [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs aren't world models](https://yosefk.com/blog/llms-arent-world-models.html)
+* [2025-08-09, 16:36:29](https://news.ycombinator.com/item?id=44847903) - [Fingerjigger](https://fingerjigger.com/play)
 * [2025-08-09, 14:33:12](https://news.ycombinator.com/item?id=44846781) - [Bezier-rs – algorithms for Bézier segments and shapes](https://graphite.rs/libraries/bezier-rs/)
 * [2025-08-09, 11:48:24](https://news.ycombinator.com/item?id=44845787) - [Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²](https://www.sdo.group/study)
 * [2025-08-09, 08:20:00](https://news.ycombinator.com/item?id=44844903) - [Visualizing quaternions: An explorable video series (2018)](https://eater.net/quaternions)
 * [2025-08-09, 02:26:48](https://news.ycombinator.com/item?id=44843586) - [Blender is Native on Windows 11 on Arm](https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm)
 * [2025-08-09, 01:07:48](https://news.ycombinator.com/item?id=44843223) - [A spellchecker used to be a major feat of software engineering (2008)](https://prog21.dadgum.com/29.html)
-* [2025-08-08, 21:59:18](https://news.ycombinator.com/item?id=44842114) - [RISC-V single-board computer for less than 40 euros](https://www.heise.de/en/news/RISC-V-single-board-computer-for-less-than-40-euros-10515044.html)
 
 ## [Archives](archives/index.md)
 

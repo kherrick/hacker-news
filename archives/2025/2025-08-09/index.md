@@ -23,6 +23,7 @@
 * [2025-08-09, 17:13:14](https://news.ycombinator.com/item?id=44848259) - [Don Knuth on ChatGPT(07 April 2023)](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 * [2025-08-09, 16:52:02](https://news.ycombinator.com/item?id=44848058) - [Ask HN: What Toolchains Are People Using for Desktop App Development in 2025?](https://news.ycombinator.com/item?id=44848058)
 * [2025-08-09, 16:44:01](https://news.ycombinator.com/item?id=44847971) - [Accessibility and the Agentic Web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
+* [2025-08-09, 16:36:29](https://news.ycombinator.com/item?id=44847903) - [Fingerjigger](https://fingerjigger.com/play)
 * [2025-08-09, 16:17:16](https://news.ycombinator.com/item?id=44847741) - [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
 * [2025-08-09, 15:52:22](https://news.ycombinator.com/item?id=44847481) - [Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union](https://laurivahtre.ee/empire-of-the-absurd/)
 * [2025-08-09, 15:47:02](https://news.ycombinator.com/item?id=44847419) - [All-In on Omarchy at 37signals](https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450)
