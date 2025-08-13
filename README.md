@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-13, 06:40:38](https://news.ycombinator.com/item?id=44885295) - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
 * [2025-08-13, 05:12:58](https://news.ycombinator.com/item?id=44884825) - [Why does AI feel so different?](https://blog.nilenso.com/blog/2025/08/12/why-does-ai-feel-so-different/)
 * [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 * [2025-08-13, 04:03:18](https://news.ycombinator.com/item?id=44884546) - [Fennel libraries as single files (2023)](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
@@ -11,10 +12,9 @@
 * [2025-08-12, 22:18:55](https://news.ycombinator.com/item?id=44882438) - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
 * [2025-08-12, 20:15:17](https://news.ycombinator.com/item?id=44881287) - [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 * [2025-08-12, 18:56:38](https://news.ycombinator.com/item?id=44880401) - [Ashet Home Computer](https://ashet.computer/)
-* [2025-08-12, 18:27:50](https://news.ycombinator.com/item?id=44880081) - [The equality delete problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
-* [2025-08-12, 17:01:10](https://news.ycombinator.com/item?id=44879015) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-08-12, 16:53:37](https://news.ycombinator.com/item?id=44878916) - [WHY2025: How to become your own ISP [video]](https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp)
 * [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from anywhere](https://github.com/omnara-ai/omnara)
+* [2025-08-12, 16:10:03](https://news.ycombinator.com/item?id=44878257) - [Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics](https://news.ycombinator.com/item?id=44878257)
 * [2025-08-12, 16:02:40](https://news.ycombinator.com/item?id=44878151) - [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
 * [2025-08-12, 16:02:23](https://news.ycombinator.com/item?id=44878147) - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
 * [2025-08-12, 14:56:53](https://news.ycombinator.com/item?id=44877076) - [Why are there so many rationalist cults?](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)

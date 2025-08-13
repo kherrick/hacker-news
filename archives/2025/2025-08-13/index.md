@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 06:40:38](https://news.ycombinator.com/item?id=44885295) - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
 * [2025-08-13, 05:12:58](https://news.ycombinator.com/item?id=44884825) - [Why does AI feel so different?](https://blog.nilenso.com/blog/2025/08/12/why-does-ai-feel-so-different/)
 * [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 * [2025-08-13, 04:03:18](https://news.ycombinator.com/item?id=44884546) - [Fennel Libraries as Single Files](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
