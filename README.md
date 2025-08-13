@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What Does Palantir Actually Do?](https://www.wired.com/story/palantir-what-the-company-does/)
-* [2025-08-13, 23:00:25](https://news.ycombinator.com/item?id=44894893) - [After losing company stock Philz Coffee baristas get $525 'thank you' payments](https://missionlocal.org/2025/08/philz-coffee-baristas-thank-you-payments/)
 * [2025-08-13, 20:54:51](https://news.ycombinator.com/item?id=44893717) - [Eca: Editor Code Assistant – AI pair programming capabilities agnostic of editor](https://github.com/editor-code-assistant/eca)
 * [2025-08-13, 20:43:46](https://news.ycombinator.com/item?id=44893600) - [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 * [2025-08-13, 20:11:50](https://news.ycombinator.com/item?id=44893254) - [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
@@ -15,6 +14,7 @@
 * [2025-08-13, 15:19:53](https://news.ycombinator.com/item?id=44889627) - [This website is for humans](https://localghost.dev/blog/this-website-is-for-humans/)
 * [2025-08-13, 15:16:59](https://news.ycombinator.com/item?id=44889580) - [New treatment eliminates bladder cancer in 82% of patients](https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/)
 * [2025-08-13, 15:00:33](https://news.ycombinator.com/item?id=44889359) - [Coalton Playground: Type-Safe Lisp in the Browser](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/)
+* [2025-08-13, 14:23:56](https://news.ycombinator.com/item?id=44888847) - [How well do coding agents use your library?](https://stackbench.ai/)
 * [2025-08-13, 13:33:45](https://news.ycombinator.com/item?id=44888236) - [When DEF CON partners with the U.S. Army](https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge)
 * [2025-08-13, 13:31:16](https://news.ycombinator.com/item?id=44888210) - [DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls](https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e)
 * [2025-08-13, 13:26:34](https://news.ycombinator.com/item?id=44888167) - [The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
