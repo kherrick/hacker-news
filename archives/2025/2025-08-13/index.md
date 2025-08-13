@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 18:42:49](https://news.ycombinator.com/item?id=44892209) - [PYX: The next step in Python packaging](https://astral.sh/pyx)
 * [2025-08-13, 18:30:12](https://news.ycombinator.com/item?id=44892070) - [29 years later, Settlers II gets Amiga release](https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/)
 * [2025-08-13, 18:23:51](https://news.ycombinator.com/item?id=44891997) - [Man develops rare condition after ChatGPT query over stopping eating salt](https://www.theguardian.com/technology/2025/aug/12/us-man-bromism-salt-diet-chatgpt-openai-health-information)
 * [2025-08-13, 18:05:05](https://news.ycombinator.com/item?id=44891759) - [I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
