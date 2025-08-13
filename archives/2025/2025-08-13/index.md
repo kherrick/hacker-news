@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 14:44:02](https://news.ycombinator.com/item?id=44889117) - [AI is already replacing thousands of jobs per month, report finds](https://www.independent.co.uk/news/world/americas/artificial-intelligence-replacing-jobs-report-b2800709.html)
 * [2025-08-13, 14:39:02](https://news.ycombinator.com/item?id=44889050) - [The case for shorter .com domains](https://www.nklswbr.com/blog/dot-com-diet)
 * [2025-08-13, 14:25:48](https://news.ycombinator.com/item?id=44888874) - [I'm Worried It Might Get Bad](https://danielmiessler.com/blog/im-worried-it-might-get-bad)
 * [2025-08-13, 14:23:56](https://news.ycombinator.com/item?id=44888847) - [How Well Do Coding Agents Use Your Library?](https://stackbench.ai/)
