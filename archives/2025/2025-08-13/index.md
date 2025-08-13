@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 19:26:02](https://news.ycombinator.com/item?id=44892701) - [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/)
+* [2025-08-13, 19:14:31](https://news.ycombinator.com/item?id=44892580) - [Fuse is 95% cheaper and 10x faster than NFS](https://nilesh-agarwal.com/storage-in-cloud-for-llms-2/)
 * [2025-08-13, 19:07:54](https://news.ycombinator.com/item?id=44892497) - [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)
 * [2025-08-13, 18:52:33](https://news.ycombinator.com/item?id=44892321) - [Job Listing Site Highlighting H-1B Positions So Americans Can Apply](https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404)
 * [2025-08-13, 18:47:24](https://news.ycombinator.com/item?id=44892254) - [Google Play Store Bans Wallets That Don't Have Banking License](https://www.therage.co/google-play-store-ban-wallets/)

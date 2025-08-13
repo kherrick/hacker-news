@@ -58,6 +58,7 @@
 * [2025-08-12, 11:05:59](https://news.ycombinator.com/item?id=44874736) - [Qodo CLI agent scores 71.2% on SWE-bench Verified](https://www.qodo.ai/blog/qodo-command-swe-bench-verified/)
 * [2025-08-12, 08:18:25](https://news.ycombinator.com/item?id=44873721) - [Show HN: Move to dodge the bullets. How long can you survive?](https://dodge.trickle.host)
 * [2025-08-12, 07:00:06](https://news.ycombinator.com/item?id=44873222) - [CoLoop (YC S21) Is Hiring AI Engineers in London](https://news.ycombinator.com/item?id=44873222)
+* [2025-08-12, 06:12:32](https://news.ycombinator.com/item?id=44872984) - [rerank-2.5 and rerank-2.5-lite: instruction-following rerankers](https://blog.voyageai.com/2025/08/11/rerank-2-5/)
 * [2025-08-12, 05:52:47](https://news.ycombinator.com/item?id=44872850) - [LLMs' \"simulated reasoning\" abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
 * [2025-08-12, 04:08:13](https://news.ycombinator.com/item?id=44872313) - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
 * [2025-08-12, 03:35:52](https://news.ycombinator.com/item?id=44872114) - [From Here?](https://www.dirtyfeed.org/2025/07/from-here/)
