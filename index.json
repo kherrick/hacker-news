@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-08-13, 05:12:58",
-      "https://news.ycombinator.com/item?id=44884825"
-    ],
-    [
-      "Why does AI feel so different?",
-      "https://blog.nilenso.com/blog/2025/08/12/why-does-ai-feel-so-different/"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 04:43:39",
       "https://news.ycombinator.com/item?id=44884709"
     ],
@@ -57,16 +47,6 @@
     [
       "A Comprehensive Survey of Self-Evolving AI Agents [pdf]",
       "https://arxiv.org/abs/2508.07407"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 02:09:18",
-      "https://news.ycombinator.com/item?id=44883987"
-    ],
-    [
-      "Blender on iPad Is Finally Happening",
-      "https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs"
     ]
   ],
   [
@@ -121,6 +101,26 @@
   ],
   [
     [
+      "2025-08-12, 18:27:50",
+      "https://news.ycombinator.com/item?id=44880081"
+    ],
+    [
+      "The equality delete problem in Apache Iceberg",
+      "https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 17:01:10",
+      "https://news.ycombinator.com/item?id=44879015"
+    ],
+    [
+      "Weave (YC W25) is hiring a founding AI engineer",
+      "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 16:53:37",
       "https://news.ycombinator.com/item?id=44878916"
     ],
@@ -137,16 +137,6 @@
     [
       "Show HN: Omnara – Run Claude Code from anywhere",
       "https://github.com/omnara-ai/omnara"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 16:10:03",
-      "https://news.ycombinator.com/item?id=44878257"
-    ],
-    [
-      "Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics",
-      "https://news.ycombinator.com/item?id=44878257"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "The Anti-Pattern Game",
       "https://hakon.gylterud.net/antipattern/"
+    ]
+  ],
+  [
+    [
+      "2025-08-10, 15:55:54",
+      "https://news.ycombinator.com/item?id=44856046"
+    ],
+    [
+      "QNX: The Incredible 1.44M Demo",
+      "https://archive.org/details/QNX_incredible_1.44m_demo_v4.0"
     ]
   ],
   [
