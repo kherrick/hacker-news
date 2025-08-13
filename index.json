@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-08-13, 00:51:21",
-      "https://news.ycombinator.com/item?id=44883475"
+      "2025-08-13, 02:30:30",
+      "https://news.ycombinator.com/item?id=44884107"
     ],
     [
-      "AI Eroded Doctors' Ability to Spot Cancer Within Months in Study",
-      "https://www.bloomberg.com/news/articles/2025-08-12/ai-eroded-doctors-ability-to-spot-cancer-within-months-in-study"
+      "GPT-5 is a joke. Will it matter?",
+      "https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 02:09:18",
+      "https://news.ycombinator.com/item?id=44883987"
+    ],
+    [
+      "Blender on iPad Is Finally Happening",
+      "https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Search all text in New York City",
       "https://www.alltext.nyc/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 23:44:53",
-      "https://news.ycombinator.com/item?id=44883083"
-    ],
-    [
-      "Scapegoating the Algorithm",
-      "https://asteriskmag.com/issues/11/scapegoating-the-algorithm"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Go 1.25 Release Notes",
       "https://go.dev/doc/go1.25"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 21:15:11",
-      "https://news.ycombinator.com/item?id=44881878"
-    ],
-    [
-      "Crypto founder Do Kwon pleads guilty to US fraud charges",
-      "https://www.ft.com/content/2e6fdc73-1083-48fb-b258-d22fc7ef8ad8"
     ]
   ],
   [
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44880081"
     ],
     [
-      "The Equality Delete Problem in Apache Iceberg",
+      "The equality delete problem in Apache Iceberg",
       "https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974"
     ]
   ],
@@ -151,22 +141,22 @@
   ],
   [
     [
+      "2025-08-12, 15:19:35",
+      "https://news.ycombinator.com/item?id=44877404"
+    ],
+    [
+      "Evaluating LLMs playing text adventures",
+      "https://entropicthoughts.com/evaluating-llms-playing-text-adventures"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 14:56:53",
       "https://news.ycombinator.com/item?id=44877076"
     ],
     [
       "Why are there so many rationalist cults?",
       "https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 14:41:12",
-      "https://news.ycombinator.com/item?id=44876844"
-    ],
-    [
-      "Nexus: An Open-Source AI Router for Governance, Control and Observability",
-      "https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router"
     ]
   ],
   [
@@ -197,16 +187,6 @@
     [
       "Australian court finds Apple, Google guilty of being anticompetitive",
       "https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 20:42:32",
-      "https://news.ycombinator.com/item?id=44858120"
-    ],
-    [
-      "Comparing baseball greats across eras, who comes out on top?",
-      "https://phys.org/news/2025-07-baseball-greats-eras.html"
     ]
   ],
   [
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2025-08-09, 14:33:12",
+      "https://news.ycombinator.com/item?id=44846781"
+    ],
+    [
+      "Bezier-rs – algorithms for Bézier segments and shapes",
+      "https://graphite.rs/libraries/bezier-rs/"
+    ]
+  ],
+  [
+    [
       "2025-08-09, 11:48:24",
       "https://news.ycombinator.com/item?id=44845787"
     ],
     [
       "Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²",
       "https://www.sdo.group/study"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 08:20:00",
+      "https://news.ycombinator.com/item?id=44844903"
+    ],
+    [
+      "Visualizing quaternions: An explorable video series (2018)",
+      "https://eater.net/quaternions"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-08-08, 22:42:42",
-      "https://news.ycombinator.com/item?id=44842442"
+      "2025-08-09, 01:07:48",
+      "https://news.ycombinator.com/item?id=44843223"
     ],
     [
-      "How to safely escape JSON inside HTML SCRIPT elements",
-      "https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/"
+      "A spellchecker used to be a major feat of software engineering (2008)",
+      "https://prog21.dadgum.com/29.html"
     ]
   ],
   [
