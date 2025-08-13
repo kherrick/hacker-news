@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-08-13, 14:39:02",
-      "https://news.ycombinator.com/item?id=44889050"
+      "2025-08-13, 14:44:02",
+      "https://news.ycombinator.com/item?id=44889117"
     ],
     [
-      "The case for shorter .com domains",
-      "https://www.nklswbr.com/blog/dot-com-diet"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 14:25:48",
-      "https://news.ycombinator.com/item?id=44888874"
-    ],
-    [
-      "I'm Worried It Might Get Bad",
-      "https://danielmiessler.com/blog/im-worried-it-might-get-bad"
+      "AI is already replacing thousands of jobs per month, report finds",
+      "https://www.independent.co.uk/news/world/americas/artificial-intelligence-replacing-jobs-report-b2800709.html"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2025-08-13, 04:03:18",
+      "https://news.ycombinator.com/item?id=44884546"
+    ],
+    [
+      "Fennel libraries as single files (2023)",
+      "https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 00:17:33",
       "https://news.ycombinator.com/item?id=44883304"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-08-10, 20:02:57",
-      "https://news.ycombinator.com/item?id=44857858"
-    ],
-    [
-      "What to Do When Critical Open Source Projects Go End of Life",
-      "https://thenewstack.io/what-to-do-when-critical-open-source-projects-go-end-of-life/"
-    ]
-  ],
-  [
-    [
       "2025-08-09, 22:22:00",
       "https://news.ycombinator.com/item?id=44850873"
     ],
@@ -297,6 +287,16 @@
     [
       "Bezier-rs – algorithms for Bézier segments and shapes",
       "https://graphite.rs/libraries/bezier-rs/"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 02:26:48",
+      "https://news.ycombinator.com/item?id=44843586"
+    ],
+    [
+      "Blender is Native on Windows 11 on Arm",
+      "https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm"
     ]
   ]
 ]
