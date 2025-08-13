@@ -27,6 +27,7 @@
 * [2025-08-11, 16:33:26](https://news.ycombinator.com/item?id=44866208) - [Wikipedia loses challenge against Online Safety Act verification rules](https://www.bbc.com/news/articles/cjr11qqvvwlo)
 * [2025-08-11, 16:16:56](https://news.ycombinator.com/item?id=44865997) - [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)
 * [2025-08-11, 16:11:50](https://news.ycombinator.com/item?id=44865916) - [UI vs. API. vs. UAI](https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai)
+* [2025-08-11, 16:11:16](https://news.ycombinator.com/item?id=44865908) - [Fighting with YouTube to show a preview image](https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/)
 * [2025-08-11, 16:06:04](https://news.ycombinator.com/item?id=44865834) - [Learn, Reflect, Apply, Prepare: The Four Daily Practices That Changed How I Live](https://opuslabs.substack.com/p/learn-reflect-apply-prepare)
 * [2025-08-11, 16:04:34](https://news.ycombinator.com/item?id=44865813) - [Claude Is the Drug, Cursor Is the Dealer](https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the)
 * [2025-08-11, 15:59:08](https://news.ycombinator.com/item?id=44865731) - [Ford reveals breakthrough process for lower priced EVs](https://www.theverge.com/ford-motor-company/757243/ford-ev-truck-breakthrough-model-t)

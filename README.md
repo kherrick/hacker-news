@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-13, 20:11:50](https://news.ycombinator.com/item?id=44893254) - [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
 * [2025-08-13, 19:14:31](https://news.ycombinator.com/item?id=44892580) - [Fuse is 95% cheaper and 10x faster than NFS](https://nilesh-agarwal.com/storage-in-cloud-for-llms-2/)
 * [2025-08-13, 19:07:54](https://news.ycombinator.com/item?id=44892497) - [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)
 * [2025-08-13, 18:52:33](https://news.ycombinator.com/item?id=44892321) - [Job Listing Site Highlighting H-1B Positions So Americans Can Apply](https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404)
@@ -13,7 +14,6 @@
 * [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
 * [2025-08-13, 17:00:37](https://news.ycombinator.com/item?id=44890956) - [ReadMe (YC W15) Is Hiring a Developer Experience PM](https://readme.com/careers#product-manager-developer-experience)
 * [2025-08-13, 16:42:13](https://news.ycombinator.com/item?id=44890722) - [A case study in bad hiring practice and how to fix it](https://www.tomkranz.com/blog1/a-case-study-in-bad-hiring-practice-and-how-to-fix-it)
-* [2025-08-13, 15:47:33](https://news.ycombinator.com/item?id=44890012) - [Gartner's Grift Is About to Unravel](https://dx.tips/gartner)
 * [2025-08-13, 15:41:55](https://news.ycombinator.com/item?id=44889941) - [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-13, 15:23:15](https://news.ycombinator.com/item?id=44889676) - [OpenIndiana: Community-Driven Illumos Distribution](https://www.openindiana.org/)
 * [2025-08-13, 15:19:53](https://news.ycombinator.com/item?id=44889627) - [This website is for humans](https://localghost.dev/blog/this-website-is-for-humans/)
@@ -26,8 +26,8 @@
 * [2025-08-13, 13:06:29](https://news.ycombinator.com/item?id=44887965) - [So what's the difference between plotted and printed artwork?](https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork)
 * [2025-08-13, 10:19:35](https://news.ycombinator.com/item?id=44886647) - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
 * [2025-08-13, 06:59:35](https://news.ycombinator.com/item?id=44885398) - [Claude says “You're absolutely right!” about everything](https://github.com/anthropics/claude-code/issues/3382)
-* [2025-08-12, 16:02:23](https://news.ycombinator.com/item?id=44878147) - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
 * [2025-08-12, 06:12:32](https://news.ycombinator.com/item?id=44872984) - [rerank-2.5 and rerank-2.5-lite: instruction-following rerankers](https://blog.voyageai.com/2025/08/11/rerank-2-5/)
+* [2025-08-11, 16:11:16](https://news.ycombinator.com/item?id=44865908) - [Fighting with YouTube to show a preview image](https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/)
 * [2025-08-09, 22:41:36](https://news.ycombinator.com/item?id=44851019) - [PCIe 8.0 Announced by the PCI-Sig Will Double Throughput Again – ServeTheHome](https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/)
 * [2025-08-09, 19:20:35](https://news.ycombinator.com/item?id=44849291) - [Honky-Tonk Tokyo (2020)](https://www.afar.com/magazine/in-tokyo-japan-country-music-finds-an-audience)
 
