@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 * [2025-08-13, 04:03:18](https://news.ycombinator.com/item?id=44884546) - [Fennel Libraries as Single Files](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
 * [2025-08-13, 02:30:30](https://news.ycombinator.com/item?id=44884107) - [GPT-5 is a joke. Will it matter?](https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter)
 * [2025-08-13, 02:26:32](https://news.ycombinator.com/item?id=44884091) - [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)

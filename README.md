@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
 * [2025-08-13, 04:03:18](https://news.ycombinator.com/item?id=44884546) - [Fennel libraries as single files (2023)](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
 * [2025-08-13, 02:26:32](https://news.ycombinator.com/item?id=44884091) - [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
 * [2025-08-13, 02:09:18](https://news.ycombinator.com/item?id=44883987) - [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
@@ -22,7 +23,6 @@
 * [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs aren't world models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-10, 03:47:31](https://news.ycombinator.com/item?id=44852612) - [So You Bought a Fancy Vintage Car. Now Who's Going to Restore It?](https://www.bloomberg.com/news/features/2025-08-08/from-porsche-to-aston-martin-classic-car-mechanics-are-a-dying-breed)
 * [2025-08-10, 01:33:43](https://news.ycombinator.com/item?id=44852058) - [Galileo’s telescopes: Seeing is believing (2010)](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
-* [2025-08-09, 23:02:33](https://news.ycombinator.com/item?id=44851181) - [Debian GNU/Hurd 2025 released](https://lists.debian.org/debian-hurd/2025/08/msg00038.html)
 * [2025-08-09, 14:33:12](https://news.ycombinator.com/item?id=44846781) - [Bezier-rs – algorithms for Bézier segments and shapes](https://graphite.rs/libraries/bezier-rs/)
 * [2025-08-09, 11:48:24](https://news.ycombinator.com/item?id=44845787) - [Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²](https://www.sdo.group/study)
 * [2025-08-09, 08:20:00](https://news.ycombinator.com/item?id=44844903) - [Visualizing quaternions: An explorable video series (2018)](https://eater.net/quaternions)
