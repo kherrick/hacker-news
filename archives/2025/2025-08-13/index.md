@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
 * [2025-08-13, 15:26:28](https://news.ycombinator.com/item?id=44889715) - [Study: Social media probably can't be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
+* [2025-08-13, 15:23:15](https://news.ycombinator.com/item?id=44889676) - [OpenIndiana: Community-Driven Illumos Distribution](https://www.openindiana.org/)
 * [2025-08-13, 15:20:57](https://news.ycombinator.com/item?id=44889645) - [Rubberduck: Emulate OpenAI/Anthropic locally with caching and failure injection](https://github.com/Zipstack/rubberduck)
+* [2025-08-13, 15:19:53](https://news.ycombinator.com/item?id=44889627) - [Website Is for Humans](https://localghost.dev/blog/this-website-is-for-humans/)
 * [2025-08-13, 15:16:59](https://news.ycombinator.com/item?id=44889580) - [New treatment eliminates bladder cancer in 82% of patients](https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/)
 * [2025-08-13, 14:44:02](https://news.ycombinator.com/item?id=44889117) - [AI is already replacing thousands of jobs per month, report finds](https://www.independent.co.uk/news/world/americas/artificial-intelligence-replacing-jobs-report-b2800709.html)
 * [2025-08-13, 14:39:02](https://news.ycombinator.com/item?id=44889050) - [The case for shorter .com domains](https://www.nklswbr.com/blog/dot-com-diet)
