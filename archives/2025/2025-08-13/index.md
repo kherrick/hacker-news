@@ -52,6 +52,7 @@
 * [2025-08-13, 12:54:45](https://news.ycombinator.com/item?id=44887853) - [Pebble Time 2 Design Reveal](https://www.youtube.com/watch?v=pcPzmDePH3E)
 * [2025-08-13, 12:11:20](https://news.ycombinator.com/item?id=44887459) - [His psychosis was a mystery–until doctors learned about ChatGPT's health advice](https://www.psypost.org/his-psychosis-was-a-mystery-until-doctors-learned-about-chatgpts-health-advice/)
 * [2025-08-13, 11:59:16](https://news.ycombinator.com/item?id=44887373) - [UK expands police facial recognition rollout with 10 new facial recognition vans](https://www.theregister.com/2025/08/13/uk_expands_police_facial_recognition/)
+* [2025-08-13, 10:56:50](https://news.ycombinator.com/item?id=44886913) - [Facial recognition vans to be rolled out across the UK](https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613)
 * [2025-08-13, 10:19:35](https://news.ycombinator.com/item?id=44886647) - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
 * [2025-08-13, 09:44:03](https://news.ycombinator.com/item?id=44886409) - [What If A.I. Doesn't Get Better Than This?](https://www.newyorker.com/culture/open-questions/what-if-ai-doesnt-get-much-better-than-this)
 * [2025-08-13, 08:38:18](https://news.ycombinator.com/item?id=44885991) - [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
