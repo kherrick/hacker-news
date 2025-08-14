@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 22:11:47](https://news.ycombinator.com/item?id=44906305) - [Your Mac Game Is Probably Rendering Blurry](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
 * [2025-08-14, 21:19:00](https://news.ycombinator.com/item?id=44905808) - [We Rewrote the Ghostty GTK Application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
+* [2025-08-14, 21:17:21](https://news.ycombinator.com/item?id=44905791) - [Where Are All the Tourists from 3025?](https://arxiv.org/abs/2508.09157)
 * [2025-08-14, 21:01:04](https://news.ycombinator.com/item?id=44905647) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-08-14, 20:54:57](https://news.ycombinator.com/item?id=44905595) - [Big Tech's A.I. Data Centers Are Driving Up Electricity Bills for Everyone](https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html)
 * [2025-08-14, 20:02:46](https://news.ycombinator.com/item?id=44904993) - [DINOv3](https://github.com/facebookresearch/dinov3)
