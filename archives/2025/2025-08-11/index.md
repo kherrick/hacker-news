@@ -6,6 +6,7 @@
 
 * [2025-08-11, 23:45:09](https://news.ycombinator.com/item?id=44870759) - [Show HN: Keeps – Mail a postcard that plays your voice](https://www.sendkeeps.com/)
 * [2025-08-11, 23:33:18](https://news.ycombinator.com/item?id=44870679) - [How Kentucky bourbon went from boom to bust](https://www.bbc.com/news/articles/ckglnk6yxlko)
+* [2025-08-11, 23:31:24](https://news.ycombinator.com/item?id=44870664) - [Lambdas, Nested Functions, and Blocks](https://thephd.dev/lambdas-nested-functions-block-expressions-oh-my)
 * [2025-08-11, 23:03:37](https://news.ycombinator.com/item?id=44870445) - [What does it mean to be thirsty?](https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/)
 * [2025-08-11, 22:47:40](https://news.ycombinator.com/item?id=44870332) - [Mouthguards that flash red with head impacts to be used at Rugby World Cup](https://www.rnz.co.nz/news/sport/569695/mouthguards-that-flash-red-with-head-impacts-to-be-used-at-rugby-world-cup)
 * [2025-08-11, 22:39:41](https://news.ycombinator.com/item?id=44870277) - [Starbucks in Korea asks customers to stop bringing in printers/desktop computers](https://fortune.com/2025/08/11/starbucks-south-korea-policy-desktop-computer-printer-ban-cagongjok/)
