@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-14, 18:48:17",
-      "https://news.ycombinator.com/item?id=44904113"
-    ],
-    [
-      "Meta Leaks Part 2: How to Kill a Social Movement",
-      "https://archive.org/details/meta_leaks_part_2"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 18:19:42",
       "https://news.ycombinator.com/item?id=44903803"
     ],
@@ -267,6 +257,16 @@
     [
       "Architecting large software projects [video]",
       "https://www.youtube.com/watch?v=sSpULGNHyoI"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 00:09:32",
+      "https://news.ycombinator.com/item?id=44870905"
+    ],
+    [
+      "SIMD Binary Heap Operations",
+      "http://0x80.pl/notesen/2025-01-18-simd-heap.html"
     ]
   ],
   [
