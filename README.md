@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-14, 14:09:08](https://news.ycombinator.com/item?id=44900581) - [Lessons learned from implementing SIMD-accelerated algorithms in pure Rust](https://kerkour.com/rust-simd?hn=1)
 * [2025-08-14, 13:58:26](https://news.ycombinator.com/item?id=44900455) - [Jujutsu and Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
 * [2025-08-14, 13:45:07](https://news.ycombinator.com/item?id=44900302) - [\"None of These Books Are Obscene\": Judge Strikes Down Much of FL's Book Ban Bill](https://bookriot.com/penguin-random-house-florida-lawsuit/)
+* [2025-08-14, 13:26:09](https://news.ycombinator.com/item?id=44900116) - [Why LLMs Can't Build Software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 13:22:05](https://news.ycombinator.com/item?id=44900084) - [Passion over Profits](https://dillonshook.com/passion-over-profits/)
 * [2025-08-14, 13:08:16](https://news.ycombinator.com/item?id=44899935) - [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
 * [2025-08-14, 12:38:21](https://news.ycombinator.com/item?id=44899685) - [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
@@ -22,7 +22,7 @@
 * [2025-08-14, 00:29:46](https://news.ycombinator.com/item?id=44895497) - [What Medieval People Got Right About Learning (2019)](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
 * [2025-08-13, 18:42:49](https://news.ycombinator.com/item?id=44892209) - [PYX: The next step in Python packaging](https://astral.sh/blog/introducing-pyx)
 * [2025-08-13, 18:05:05](https://news.ycombinator.com/item?id=44891759) - [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
-* [2025-08-12, 18:33:20](https://news.ycombinator.com/item?id=44880139) - [500 Days of Math](https://gmays.com/500-days-of-math/)
+* [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
 * [2025-08-12, 13:15:34](https://news.ycombinator.com/item?id=44875848) - [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/)
 * [2025-08-12, 12:15:13](https://news.ycombinator.com/item?id=44875270) - [Kodak says it might have to cease operations](https://www.cnn.com/2025/08/12/business/kodak-survival-warning)
 * [2025-08-12, 06:07:14](https://news.ycombinator.com/item?id=44872948) - [Show HN: XR2000: A science fiction programming challenge](https://clearsky.dev/blog/xr2000/)
