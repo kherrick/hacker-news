@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-08-14, 20:02:46",
-      "https://news.ycombinator.com/item?id=44904993"
-    ],
-    [
-      "DINOv3",
-      "https://github.com/facebookresearch/dinov3"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 20:01:33",
       "https://news.ycombinator.com/item?id=44904974"
     ],
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2025-08-14, 03:24:17",
-      "https://news.ycombinator.com/item?id=44896433"
+      "2025-08-14, 08:47:27",
+      "https://news.ycombinator.com/item?id=44898242"
     ],
     [
-      "Funding Open Source like public infrastructure",
-      "https://dri.es/funding-open-source-like-public-infrastructure"
+      "iPhone DevOps (2023)",
+      "https://clearsky.dev/blog/iphone-devops-ssh/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Architecting large software projects [video]",
       "https://www.youtube.com/watch?v=sSpULGNHyoI"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 23:31:24",
+      "https://news.ycombinator.com/item?id=44870664"
+    ],
+    [
+      "Lambdas, Nested Functions, and Blocks",
+      "https://thephd.dev/lambdas-nested-functions-block-expressions-oh-my"
     ]
   ],
   [
