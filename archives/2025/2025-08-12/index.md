@@ -50,6 +50,7 @@
 * [2025-08-12, 13:39:42](https://news.ycombinator.com/item?id=44876075) - [We keep reinventing CSS, but styling was never the problem](https://denodell.com/blog/we-keep-reinventing-css)
 * [2025-08-12, 13:32:16](https://news.ycombinator.com/item?id=44875992) - [Training language models to be warm and empathetic makes them less reliable](https://arxiv.org/abs/2507.21919)
 * [2025-08-12, 13:30:10](https://news.ycombinator.com/item?id=44875961) - [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
+* [2025-08-12, 13:15:34](https://news.ycombinator.com/item?id=44875848) - [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/)
 * [2025-08-12, 13:01:47](https://news.ycombinator.com/item?id=44875712) - [Sloppy AI defenses take cybersecurity back to the 1990s, researchers say](https://www.scworld.com/news/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say)
 * [2025-08-12, 12:43:37](https://news.ycombinator.com/item?id=44875520) - [US influencer stranded in Antarctica after landing plane without permission](https://www.independent.co.uk/travel/news-and-advice/antarctica-ethan-guo-teen-pilot-detained-b2805884.html)
 * [2025-08-12, 12:19:47](https://news.ycombinator.com/item?id=44875311) - [High-severity WinRAR 0-day exploited for weeks by 2 groups](https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/)
