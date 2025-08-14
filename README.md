@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-14, 18:48:17](https://news.ycombinator.com/item?id=44904113) - [Meta Leaks Part 2: How to Kill a Social Movement](https://archive.org/details/meta_leaks_part_2)
 * [2025-08-14, 18:19:42](https://news.ycombinator.com/item?id=44903803) - [Steve Wozniak: 'I am the happiest person ever' and 'I never sold out'](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
 * [2025-08-14, 18:03:13](https://news.ycombinator.com/item?id=44903626) - [What are the real numbers, really? (2024)](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
 * [2025-08-14, 17:40:51](https://news.ycombinator.com/item?id=44903351) - [\"Privacy preserving age verification\" is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
@@ -27,6 +26,7 @@
 * [2025-08-12, 13:49:57](https://news.ycombinator.com/item?id=44876174) - [Show HN: Zig-DbC – A design by contract library for Zig](https://news.ycombinator.com/item?id=44876174)
 * [2025-08-12, 13:15:34](https://news.ycombinator.com/item?id=44875848) - [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/)
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
+* [2025-08-12, 00:09:32](https://news.ycombinator.com/item?id=44870905) - [SIMD Binary Heap Operations](http://0x80.pl/notesen/2025-01-18-simd-heap.html)
 * [2025-08-11, 14:05:24](https://news.ycombinator.com/item?id=44864212) - [Reverse Proxy Deep Dive: Why Load Balancing at Scale Is Hard](https://startwithawhy.com/reverseproxy/2025/08/08/ReverseProxy-Deep-Dive-Part4.html)
 * [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
 * [2025-08-10, 22:54:35](https://news.ycombinator.com/item?id=44859049) - [1976 Soviet edition of 'The Hobbit' (2015)](https://mashable.com/archive/soviet-hobbit)
