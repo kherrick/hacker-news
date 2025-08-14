@@ -21,6 +21,7 @@
 * [2025-08-10, 20:06:05](https://news.ycombinator.com/item?id=44857882) - [The great myth of empire collapse](https://aeon.co/essays/the-great-myth-of-empire-collapse)
 * [2025-08-10, 20:02:57](https://news.ycombinator.com/item?id=44857858) - [What to Do When Critical Open Source Projects Go End of Life](https://thenewstack.io/what-to-do-when-critical-open-source-projects-go-end-of-life/)
 * [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
+* [2025-08-10, 18:42:34](https://news.ycombinator.com/item?id=44857267) - [Usage – a shell completion / manpage / help documentation generator](https://usage.jdx.dev/)
 * [2025-08-10, 18:31:05](https://news.ycombinator.com/item?id=44857205) - [South Korea's military has shrunk by 20% in six years as male population drops](https://www.channelnewsasia.com/east-asia/south-koreas-military-has-shrunk-20-in-six-years-male-population-drops-5287301)
 * [2025-08-10, 18:14:38](https://news.ycombinator.com/item?id=44857100) - [Conversations remotely detected from cell phone vibrations, researchers report](https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report)
 * [2025-08-10, 17:53:09](https://news.ycombinator.com/item?id=44856935) - [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)

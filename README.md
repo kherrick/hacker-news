@@ -27,7 +27,7 @@
 * [2025-08-12, 06:07:14](https://news.ycombinator.com/item?id=44872948) - [Show HN: XR2000: A science fiction programming challenge](https://clearsky.dev/blog/xr2000/)
 * [2025-08-11, 19:40:47](https://news.ycombinator.com/item?id=44868563) - [Show HN: Real-time privacy protection for smart glasses](https://github.com/PrivacyIsAllYouNeed/protector)
 * [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
-* [2025-08-10, 22:01:49](https://news.ycombinator.com/item?id=44858693) - [A telephony agent for my parents. Should I turn it into a full-fledged service?](https://sutrasphere.com/)
+* [2025-08-10, 18:42:34](https://news.ycombinator.com/item?id=44857267) - [Usage – a shell completion / manpage / help documentation generator](https://usage.jdx.dev/)
 * [2025-08-10, 11:35:10](https://news.ycombinator.com/item?id=44854498) - [Index 1.6B Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
 * [2025-08-09, 22:41:36](https://news.ycombinator.com/item?id=44851019) - [PCIe 8.0 announced by the PCI-Sig will double throughput again](https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/)
 
