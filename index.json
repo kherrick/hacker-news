@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-14, 14:09:08",
-      "https://news.ycombinator.com/item?id=44900581"
-    ],
-    [
-      "Lessons learned from implementing SIMD-accelerated algorithms in pure Rust",
-      "https://kerkour.com/rust-simd?hn=1"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 13:58:26",
       "https://news.ycombinator.com/item?id=44900455"
     ],
@@ -27,6 +17,16 @@
     [
       "\"None of These Books Are Obscene\": Judge Strikes Down Much of FL's Book Ban Bill",
       "https://bookriot.com/penguin-random-house-florida-lawsuit/"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 13:26:09",
+      "https://news.ycombinator.com/item?id=44900116"
+    ],
+    [
+      "Why LLMs Can't Build Software",
+      "https://zed.dev/blog/why-llms-cant-build-software"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-08-12, 18:33:20",
-      "https://news.ycombinator.com/item?id=44880139"
+      "2025-08-13, 17:11:35",
+      "https://news.ycombinator.com/item?id=44891090"
     ],
     [
-      "500 Days of Math",
-      "https://gmays.com/500-days-of-math/"
+      "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+      "https://video.golpoai.com/"
     ]
   ],
   [
