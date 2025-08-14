@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44904974"
     ],
     [
-      "Show HN: OSS MCP Security Scanner – Don't Blindly Trust, Verify",
+      "Show HN: MCP Security Suite",
       "https://github.com/NineSunsInc/mighty-security"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Airbrush art of the 80s was Chrome-tastic (2015)",
       "https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 19:36:53",
-      "https://news.ycombinator.com/item?id=44904665"
-    ],
-    [
-      "Fundamental Flaw of Hustle Culture",
-      "https://brodzinski.com/2025/08/ai-hustle-culture.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Reverse Proxy Deep Dive: Why Load Balancing at Scale Is Hard",
       "https://startwithawhy.com/reverseproxy/2025/08/08/ReverseProxy-Deep-Dive-Part4.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 07:18:13",
+      "https://news.ycombinator.com/item?id=44861536"
+    ],
+    [
+      "Homekit-steam-user-switcher: A way to remotely switch Steam users using HomeKit",
+      "https://github.com/rcarmo/homekit-steam-user-switcher"
     ]
   ],
   [
