@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-14, 16:08:36",
+      "https://news.ycombinator.com/item?id=44902148"
+    ],
+    [
+      "Gemma 3 270M: The compact model for hyper-efficient AI",
+      "https://developers.googleblog.com/en/introducing-gemma-3-270m/"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 15:49:41",
+      "https://news.ycombinator.com/item?id=44901885"
+    ],
+    [
+      "JetBrains working on higher-abstraction programming language",
+      "https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 15:24:53",
       "https://news.ycombinator.com/item?id=44901528"
     ],
@@ -141,26 +161,6 @@
   ],
   [
     [
-      "2025-08-14, 08:47:27",
-      "https://news.ycombinator.com/item?id=44898242"
-    ],
-    [
-      "iPhone DevOps",
-      "https://clearsky.dev/blog/iphone-devops-ssh/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 08:11:51",
-      "https://news.ycombinator.com/item?id=44897998"
-    ],
-    [
-      "What I look for in typeface licenses",
-      "https://davesmyth.com/typeface-licenses"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 05:40:19",
       "https://news.ycombinator.com/item?id=44897098"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-08-12, 06:37:56",
+      "https://news.ycombinator.com/item?id=44873103"
+    ],
+    [
+      "KosmicKrisp a Vulkan on Metal Mesa 3D Graphics Driver",
+      "https://www.lunarg.com/a-vulkan-on-metal-mesa-3d-graphics-driver/"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 06:07:14",
       "https://news.ycombinator.com/item?id=44872948"
     ],
@@ -267,16 +277,6 @@
     [
       "SIMD Binary Heap Operations",
       "http://0x80.pl/notesen/2025-01-18-simd-heap.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 19:21:29",
-      "https://news.ycombinator.com/item?id=44868353"
-    ],
-    [
-      "Great Myths #16: The Conflict Thesis",
-      "https://historyforatheists.com/2025/08/the-great-myths-16-the-conflict-between-science-and-religion/"
     ]
   ],
   [
