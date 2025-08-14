@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-14, 16:08:36](https://news.ycombinator.com/item?id=44902148) - [Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
+* [2025-08-14, 15:49:41](https://news.ycombinator.com/item?id=44901885) - [JetBrains working on higher-abstraction programming language](https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html)
 * [2025-08-14, 15:24:53](https://news.ycombinator.com/item?id=44901528) - [Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
 * [2025-08-14, 15:09:23](https://news.ycombinator.com/item?id=44901330) - [Statement Regarding Misleading Media Reports](https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/)
 * [2025-08-14, 13:58:26](https://news.ycombinator.com/item?id=44900455) - [Jujutsu and Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
@@ -14,8 +16,6 @@
 * [2025-08-14, 10:55:35](https://news.ycombinator.com/item?id=44898955) - [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-14, 10:51:40](https://news.ycombinator.com/item?id=44898934) - [Meta accessed women's health data from Flo app without consent, says court](https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court)
 * [2025-08-14, 08:58:39](https://news.ycombinator.com/item?id=44898300) - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
-* [2025-08-14, 08:47:27](https://news.ycombinator.com/item?id=44898242) - [iPhone DevOps](https://clearsky.dev/blog/iphone-devops-ssh/)
-* [2025-08-14, 08:11:51](https://news.ycombinator.com/item?id=44897998) - [What I look for in typeface licenses](https://davesmyth.com/typeface-licenses)
 * [2025-08-14, 05:40:19](https://news.ycombinator.com/item?id=44897098) - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
 * [2025-08-14, 03:34:11](https://news.ycombinator.com/item?id=44896489) - [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams)
 * [2025-08-14, 03:24:17](https://news.ycombinator.com/item?id=44896433) - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
@@ -25,9 +25,9 @@
 * [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
 * [2025-08-12, 13:49:57](https://news.ycombinator.com/item?id=44876174) - [Show HN: Zig-DbC – A design by contract library for Zig](https://news.ycombinator.com/item?id=44876174)
 * [2025-08-12, 13:15:34](https://news.ycombinator.com/item?id=44875848) - [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/)
+* [2025-08-12, 06:37:56](https://news.ycombinator.com/item?id=44873103) - [KosmicKrisp a Vulkan on Metal Mesa 3D Graphics Driver](https://www.lunarg.com/a-vulkan-on-metal-mesa-3d-graphics-driver/)
 * [2025-08-12, 06:07:14](https://news.ycombinator.com/item?id=44872948) - [Show HN: XR2000: A science fiction programming challenge](https://clearsky.dev/blog/xr2000/)
 * [2025-08-12, 00:09:32](https://news.ycombinator.com/item?id=44870905) - [SIMD Binary Heap Operations](http://0x80.pl/notesen/2025-01-18-simd-heap.html)
-* [2025-08-11, 19:21:29](https://news.ycombinator.com/item?id=44868353) - [Great Myths #16: The Conflict Thesis](https://historyforatheists.com/2025/08/the-great-myths-16-the-conflict-between-science-and-religion/)
 * [2025-08-11, 07:03:31](https://news.ycombinator.com/item?id=44861460) - [A new poverty line shifted the World Bank's poverty data. What changed and why?](https://ourworldindata.org/new-international-poverty-line-3-dollars-per-day)
 * [2025-08-10, 22:54:35](https://news.ycombinator.com/item?id=44859049) - [Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life (2015)](https://mashable.com/archive/soviet-hobbit)
 
