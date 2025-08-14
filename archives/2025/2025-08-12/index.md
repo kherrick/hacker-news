@@ -16,6 +16,7 @@
 * [2025-08-12, 19:53:17](https://news.ycombinator.com/item?id=44881109) - [Print, a one-line BASIC program](https://10print.org)
 * [2025-08-12, 19:26:00](https://news.ycombinator.com/item?id=44880777) - [Exile Economics: If Globalisation Fails](https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang)
 * [2025-08-12, 18:56:38](https://news.ycombinator.com/item?id=44880401) - [Ashet Home Computer](https://ashet.computer/)
+* [2025-08-12, 18:33:20](https://news.ycombinator.com/item?id=44880139) - [500 Days of Math](https://gmays.com/500-days-of-math/)
 * [2025-08-12, 18:27:50](https://news.ycombinator.com/item?id=44880081) - [The Equality Delete Problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
 * [2025-08-12, 18:09:43](https://news.ycombinator.com/item?id=44879853) - [Let's get real about the one-person billion dollar company](https://www.marcrand.com/p/lets-get-real-about-the-one-person)
 * [2025-08-12, 17:58:35](https://news.ycombinator.com/item?id=44879746) - [H-1B Visa Changes Approved by White House](https://www.newsweek.com/h-1b-visas-changes-approved-white-house-report-2112216)
