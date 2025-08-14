@@ -47,6 +47,7 @@
 * [2025-08-11, 14:25:58](https://news.ycombinator.com/item?id=44864467) - [Designing Software in the Large](https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/)
 * [2025-08-11, 14:22:16](https://news.ycombinator.com/item?id=44864419) - [Meta Leaks Part 1: Israel and Meta, the Greatest Global Mass Censorship Campaign](https://archive.org/details/meta_leaks_part_1)
 * [2025-08-11, 14:13:02](https://news.ycombinator.com/item?id=44864291) - [Ask HN: Do you think differently about working on open source these days?](https://news.ycombinator.com/item?id=44864291)
+* [2025-08-11, 14:05:24](https://news.ycombinator.com/item?id=44864212) - [Reverse Proxy Deep Dive: Why Load Balancing at Scale Is Hard](https://startwithawhy.com/reverseproxy/2025/08/08/ReverseProxy-Deep-Dive-Part4.html)
 * [2025-08-11, 14:04:25](https://news.ycombinator.com/item?id=44864192) - [Trump Orders National Guard to Washington and Takeover of Capital’s Police](https://www.nytimes.com/live/2025/08/11/us/trump-news)
 * [2025-08-11, 14:03:46](https://news.ycombinator.com/item?id=44864185) - [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
 * [2025-08-11, 13:59:02](https://news.ycombinator.com/item?id=44864134) - [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
