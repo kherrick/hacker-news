@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-08-13, 23:03:16",
-      "https://news.ycombinator.com/item?id=44894910"
+      "2025-08-13, 23:44:18",
+      "https://news.ycombinator.com/item?id=44895222"
     ],
     [
-      "What Does Palantir Actually Do?",
-      "https://www.wired.com/story/palantir-what-the-company-does/"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 20:54:51",
-      "https://news.ycombinator.com/item?id=44893717"
-    ],
-    [
-      "Eca: Editor Code Assistant – AI pair programming capabilities agnostic of editor",
-      "https://github.com/editor-code-assistant/eca"
+      "Open Banking and Payments Competition",
+      "https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/"
     ]
   ],
   [
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2025-08-13, 14:23:56",
-      "https://news.ycombinator.com/item?id=44888847"
-    ],
-    [
-      "How well do coding agents use your library?",
-      "https://stackbench.ai/"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 13:33:45",
       "https://news.ycombinator.com/item?id=44888236"
     ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2025-08-12, 00:42:04",
+      "https://news.ycombinator.com/item?id=44871093"
+    ],
+    [
+      "Why top and free in containers don't show the correct container memory (2018)",
+      "https://ops.tips/blog/why-top-inside-container-wrong-memory/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 16:11:16",
       "https://news.ycombinator.com/item?id=44865908"
     ],
@@ -277,6 +267,16 @@
     [
       "Angle brackets in a Nix flake world",
       "https://fzakaria.com/2025/08/10/angle-brackets-in-a-nix-flake-world"
+    ]
+  ],
+  [
+    [
+      "2025-08-10, 11:35:10",
+      "https://news.ycombinator.com/item?id=44854498"
+    ],
+    [
+      "Index 1.6B Keys with Automata and Rust (2015)",
+      "https://burntsushi.net/transducers/"
     ]
   ],
   [
