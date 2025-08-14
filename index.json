@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-08-14, 13:45:07",
+      "https://news.ycombinator.com/item?id=44900302"
+    ],
+    [
+      "\"None of These Books Are Obscene\": Judge Strikes Down Much of FL's Book Ban Bill",
+      "https://bookriot.com/penguin-random-house-florida-lawsuit/"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 13:22:05",
+      "https://news.ycombinator.com/item?id=44900084"
+    ],
+    [
+      "Passion over Profits",
+      "https://dillonshook.com/passion-over-profits/"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 12:38:21",
       "https://news.ycombinator.com/item?id=44899685"
     ],
     [
       "US Wholesale Inflation Rises by Most in 3 Years",
       "https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 12:33:49",
+      "https://news.ycombinator.com/item?id=44899639"
+    ],
+    [
+      "Wholesale prices rose 0.9% in July, more than expected",
+      "https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44899339"
     ],
     [
-      "New Protein Therapy Shows Promise as Antidote for Carbon Monoxide Poisoning",
+      "New protein therapy shows promise as antidote for carbon monoxide poisoning",
       "https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html"
     ]
   ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2025-08-13, 23:44:18",
-      "https://news.ycombinator.com/item?id=44895222"
-    ],
-    [
-      "Open Banking and Payments Competition",
-      "https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 20:43:46",
-      "https://news.ycombinator.com/item?id=44893600"
-    ],
-    [
-      "NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices",
-      "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 18:42:49",
       "https://news.ycombinator.com/item?id=44892209"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-08-12, 07:19:13",
-      "https://news.ycombinator.com/item?id=44873341"
-    ],
-    [
-      "ForgeFed: ActivityPub-based forge federation protocol",
-      "https://forgefed.org"
-    ]
-  ],
-  [
-    [
       "2025-08-12, 06:07:14",
       "https://news.ycombinator.com/item?id=44872948"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-08-12, 00:09:32",
+      "https://news.ycombinator.com/item?id=44870905"
+    ],
+    [
+      "SIMD Binary Heap Operations",
+      "http://0x80.pl/notesen/2025-01-18-simd-heap.html"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 07:03:31",
       "https://news.ycombinator.com/item?id=44861460"
     ],
     [
       "A new poverty line shifted the World Bank's poverty data. What changed and why?",
       "https://ourworldindata.org/new-international-poverty-line-3-dollars-per-day"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 01:46:22",
-      "https://news.ycombinator.com/item?id=44860080"
-    ],
-    [
-      "Nyxt: The Emacs-like web browser",
-      "https://lwn.net/Articles/1001773/"
     ]
   ],
   [
