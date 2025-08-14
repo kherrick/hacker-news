@@ -6,6 +6,7 @@
 
 * [2025-08-14, 13:45:07](https://news.ycombinator.com/item?id=44900302) - [\"None of These Books Are Obscene\": Judge Strikes Down Much of FL's Book Ban Bill](https://bookriot.com/penguin-random-house-florida-lawsuit/)
 * [2025-08-14, 13:22:05](https://news.ycombinator.com/item?id=44900084) - [Passion over Profits](https://dillonshook.com/passion-over-profits/)
+* [2025-08-14, 13:08:16](https://news.ycombinator.com/item?id=44899935) - [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
 * [2025-08-14, 12:38:21](https://news.ycombinator.com/item?id=44899685) - [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
 * [2025-08-14, 12:33:49](https://news.ycombinator.com/item?id=44899639) - [Wholesale prices rose 0.9% in July, more than expected](https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html)
 * [2025-08-14, 12:14:21](https://news.ycombinator.com/item?id=44899488) - [Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%](https://www.phoronix.com/news/Linux-ASI-Lower-Overhead)
