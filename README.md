@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-14, 07:42:57](https://news.ycombinator.com/item?id=44897802) - [Optimizing Your Debian 13 Desktop](https://teejeetech.com/2025/08/14/debian_13_tips/)
 * [2025-08-14, 05:40:19](https://news.ycombinator.com/item?id=44897098) - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
 * [2025-08-14, 03:34:11](https://news.ycombinator.com/item?id=44896489) - [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams)
 * [2025-08-14, 03:24:17](https://news.ycombinator.com/item?id=44896433) - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
@@ -15,6 +14,7 @@
 * [2025-08-13, 15:41:55](https://news.ycombinator.com/item?id=44889941) - [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-13, 15:37:04](https://news.ycombinator.com/item?id=44889874) - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/)
 * [2025-08-13, 15:26:28](https://news.ycombinator.com/item?id=44889715) - [Study: Social media probably can't be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
+* [2025-08-13, 13:33:45](https://news.ycombinator.com/item?id=44888236) - [When DEF CON partners with the U.S. Army](https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge)
 * [2025-08-13, 13:06:29](https://news.ycombinator.com/item?id=44887965) - [So what's the difference between plotted and printed artwork?](https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork)
 * [2025-08-13, 12:54:45](https://news.ycombinator.com/item?id=44887853) - [Pebble Time 2 Design Reveal [video]](https://www.youtube.com/watch?v=pcPzmDePH3E)
 * [2025-08-13, 10:56:50](https://news.ycombinator.com/item?id=44886913) - [Facial recognition vans to be rolled out across police forces in England](https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613)
