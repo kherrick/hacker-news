@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 12:38:21](https://news.ycombinator.com/item?id=44899685) - [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
 * [2025-08-14, 12:14:21](https://news.ycombinator.com/item?id=44899488) - [Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%](https://www.phoronix.com/news/Linux-ASI-Lower-Overhead)
 * [2025-08-14, 12:00:53](https://news.ycombinator.com/item?id=44899381) - [Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer)
 * [2025-08-14, 11:56:20](https://news.ycombinator.com/item?id=44899339) - [New Protein Therapy Shows Promise as Antidote for Carbon Monoxide Poisoning](https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html)

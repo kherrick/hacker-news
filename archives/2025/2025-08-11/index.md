@@ -69,6 +69,7 @@
 * [2025-08-11, 08:41:39](https://news.ycombinator.com/item?id=44862001) - [Al Jazeera condemns the assassination of its journalists by the IOF](https://network.aljazeera.net/en/press-releases/al-jazeera-condemns-assassination-its-journalists-israeli-occupation-forces)
 * [2025-08-11, 08:03:06](https://news.ycombinator.com/item?id=44861780) - [Self-Guaranteeing Promises](https://stephango.com/self-guarantee)
 * [2025-08-11, 07:15:38](https://news.ycombinator.com/item?id=44861521) - [AOL to discontinue dial-up internet](https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html)
+* [2025-08-11, 07:03:31](https://news.ycombinator.com/item?id=44861460) - [A new poverty line shifted the World Bank's poverty data. What changed and why?](https://ourworldindata.org/new-international-poverty-line-3-dollars-per-day)
 * [2025-08-11, 06:55:37](https://news.ycombinator.com/item?id=44861412) - [Theft is not fair use](https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063)
 * [2025-08-11, 06:11:59](https://news.ycombinator.com/item?id=44861175) - [A ChatGPT Pro subscription costs 38.6 months of income in low-income countries](https://policykahani.substack.com/p/a-chatgpt-pro-subscription-costs)
 * [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)

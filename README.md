@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-14, 12:38:21](https://news.ycombinator.com/item?id=44899685) - [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
 * [2025-08-14, 12:14:21](https://news.ycombinator.com/item?id=44899488) - [Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%](https://www.phoronix.com/news/Linux-ASI-Lower-Overhead)
 * [2025-08-14, 12:00:53](https://news.ycombinator.com/item?id=44899381) - [Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer)
 * [2025-08-14, 11:56:20](https://news.ycombinator.com/item?id=44899339) - [New Protein Therapy Shows Promise as Antidote for Carbon Monoxide Poisoning](https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html)
@@ -21,13 +22,12 @@
 * [2025-08-13, 15:41:55](https://news.ycombinator.com/item?id=44889941) - [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-13, 15:37:04](https://news.ycombinator.com/item?id=44889874) - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/)
 * [2025-08-13, 10:56:50](https://news.ycombinator.com/item?id=44886913) - [Facial recognition vans to be rolled out across police forces in England](https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613)
-* [2025-08-13, 10:19:35](https://news.ycombinator.com/item?id=44886647) - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
-* [2025-08-12, 19:53:17](https://news.ycombinator.com/item?id=44881109) - [Print, a one-line BASIC program](https://10print.org)
 * [2025-08-12, 18:33:20](https://news.ycombinator.com/item?id=44880139) - [500 Days of Math](https://gmays.com/500-days-of-math/)
 * [2025-08-12, 13:15:34](https://news.ycombinator.com/item?id=44875848) - [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/)
 * [2025-08-12, 12:15:13](https://news.ycombinator.com/item?id=44875270) - [Kodak says it might have to cease operations](https://www.cnn.com/2025/08/12/business/kodak-survival-warning)
 * [2025-08-12, 07:19:13](https://news.ycombinator.com/item?id=44873341) - [ForgeFed: ActivityPub-based forge federation protocol](https://forgefed.org)
 * [2025-08-12, 06:07:14](https://news.ycombinator.com/item?id=44872948) - [Show HN: XR2000: A science fiction programming challenge](https://clearsky.dev/blog/xr2000/)
+* [2025-08-11, 07:03:31](https://news.ycombinator.com/item?id=44861460) - [A new poverty line shifted the World Bank's poverty data. What changed and why?](https://ourworldindata.org/new-international-poverty-line-3-dollars-per-day)
 * [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
 * [2025-08-10, 22:54:35](https://news.ycombinator.com/item?id=44859049) - [Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life](https://mashable.com/archive/soviet-hobbit)
 
