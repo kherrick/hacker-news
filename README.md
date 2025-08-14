@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-14, 14:09:08](https://news.ycombinator.com/item?id=44900581) - [Lessons learned from implementing SIMD-accelerated algorithms in pure Rust](https://kerkour.com/rust-simd?hn=1)
+* [2025-08-14, 13:45:07](https://news.ycombinator.com/item?id=44900302) - [\"None of These Books Are Obscene\": Judge Strikes Down Much of FL's Book Ban Bill](https://bookriot.com/penguin-random-house-florida-lawsuit/)
 * [2025-08-14, 13:22:05](https://news.ycombinator.com/item?id=44900084) - [Passion over Profits](https://dillonshook.com/passion-over-profits/)
 * [2025-08-14, 13:08:16](https://news.ycombinator.com/item?id=44899935) - [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
 * [2025-08-14, 12:38:21](https://news.ycombinator.com/item?id=44899685) - [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
@@ -20,8 +22,6 @@
 * [2025-08-13, 18:42:49](https://news.ycombinator.com/item?id=44892209) - [PYX: The next step in Python packaging](https://astral.sh/blog/introducing-pyx)
 * [2025-08-13, 18:05:05](https://news.ycombinator.com/item?id=44891759) - [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 * [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
-* [2025-08-13, 15:41:55](https://news.ycombinator.com/item?id=44889941) - [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
-* [2025-08-13, 15:37:04](https://news.ycombinator.com/item?id=44889874) - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/)
 * [2025-08-13, 10:56:50](https://news.ycombinator.com/item?id=44886913) - [Facial recognition vans to be rolled out across police forces in England](https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613)
 * [2025-08-12, 18:33:20](https://news.ycombinator.com/item?id=44880139) - [500 Days of Math](https://gmays.com/500-days-of-math/)
 * [2025-08-12, 13:15:34](https://news.ycombinator.com/item?id=44875848) - [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/)
@@ -29,7 +29,7 @@
 * [2025-08-12, 06:07:14](https://news.ycombinator.com/item?id=44872948) - [Show HN: XR2000: A science fiction programming challenge](https://clearsky.dev/blog/xr2000/)
 * [2025-08-12, 00:09:32](https://news.ycombinator.com/item?id=44870905) - [SIMD Binary Heap Operations](http://0x80.pl/notesen/2025-01-18-simd-heap.html)
 * [2025-08-11, 07:03:31](https://news.ycombinator.com/item?id=44861460) - [A new poverty line shifted the World Bank's poverty data. What changed and why?](https://ourworldindata.org/new-international-poverty-line-3-dollars-per-day)
-* [2025-08-10, 22:54:35](https://news.ycombinator.com/item?id=44859049) - [Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life](https://mashable.com/archive/soviet-hobbit)
+* [2025-08-10, 22:54:35](https://news.ycombinator.com/item?id=44859049) - [Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life (2015)](https://mashable.com/archive/soviet-hobbit)
 
 ## [Archives](archives/index.md)
 
