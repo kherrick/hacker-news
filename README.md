@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What Does Palantir Actually Do?](https://www.wired.com/story/palantir-what-the-company-does/)
-* [2025-08-13, 20:54:51](https://news.ycombinator.com/item?id=44893717) - [Eca: Editor Code Assistant – AI pair programming capabilities agnostic of editor](https://github.com/editor-code-assistant/eca)
+* [2025-08-13, 23:44:18](https://news.ycombinator.com/item?id=44895222) - [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
 * [2025-08-13, 20:43:46](https://news.ycombinator.com/item?id=44893600) - [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 * [2025-08-13, 20:11:50](https://news.ycombinator.com/item?id=44893254) - [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
 * [2025-08-13, 18:42:49](https://news.ycombinator.com/item?id=44892209) - [PYX: The next step in Python packaging](https://astral.sh/pyx)
@@ -14,7 +13,6 @@
 * [2025-08-13, 15:19:53](https://news.ycombinator.com/item?id=44889627) - [This website is for humans](https://localghost.dev/blog/this-website-is-for-humans/)
 * [2025-08-13, 15:16:59](https://news.ycombinator.com/item?id=44889580) - [New treatment eliminates bladder cancer in 82% of patients](https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/)
 * [2025-08-13, 15:00:33](https://news.ycombinator.com/item?id=44889359) - [Coalton Playground: Type-Safe Lisp in the Browser](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/)
-* [2025-08-13, 14:23:56](https://news.ycombinator.com/item?id=44888847) - [How well do coding agents use your library?](https://stackbench.ai/)
 * [2025-08-13, 13:33:45](https://news.ycombinator.com/item?id=44888236) - [When DEF CON partners with the U.S. Army](https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge)
 * [2025-08-13, 13:31:16](https://news.ycombinator.com/item?id=44888210) - [DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls](https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e)
 * [2025-08-13, 13:26:34](https://news.ycombinator.com/item?id=44888167) - [The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
@@ -26,8 +24,10 @@
 * [2025-08-13, 01:14:36](https://news.ycombinator.com/item?id=44883634) - [VC-backed company just killed my EU trademark for a small OSS project](https://news.ycombinator.com/item?id=44883634)
 * [2025-08-12, 12:15:13](https://news.ycombinator.com/item?id=44875270) - [Kodak says it might have to cease operations](https://www.cnn.com/2025/08/12/business/kodak-survival-warning)
 * [2025-08-12, 06:12:32](https://news.ycombinator.com/item?id=44872984) - [Rerank-2.5 and rerank-2.5-lite: instruction-following rerankers](https://blog.voyageai.com/2025/08/11/rerank-2-5/)
+* [2025-08-12, 00:42:04](https://news.ycombinator.com/item?id=44871093) - [Why top and free in containers don't show the correct container memory (2018)](https://ops.tips/blog/why-top-inside-container-wrong-memory/)
 * [2025-08-11, 16:11:16](https://news.ycombinator.com/item?id=44865908) - [Fighting with YouTube to show a preview image](https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/)
 * [2025-08-11, 01:06:25](https://news.ycombinator.com/item?id=44859849) - [Angle brackets in a Nix flake world](https://fzakaria.com/2025/08/10/angle-brackets-in-a-nix-flake-world)
+* [2025-08-10, 11:35:10](https://news.ycombinator.com/item?id=44854498) - [Index 1.6B Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
 * [2025-08-09, 22:41:36](https://news.ycombinator.com/item?id=44851019) - [PCIe 8.0 announced by the PCI-Sig will double throughput again](https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/)
 * [2025-08-09, 20:22:37](https://news.ycombinator.com/item?id=44849834) - [Myths About Floating-Point Numbers (2021)](https://www.asawicki.info/news_1741_myths_about_floating-point_numbers)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 23:44:18](https://news.ycombinator.com/item?id=44895222) - [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
 * [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What Does Palantir Actually Do?](https://www.wired.com/story/palantir-what-the-company-does/)
 * [2025-08-13, 23:00:25](https://news.ycombinator.com/item?id=44894893) - [After losing company stock Philz Coffee baristas get $525 'thank you' payments](https://missionlocal.org/2025/08/philz-coffee-baristas-thank-you-payments/)
 * [2025-08-13, 20:54:51](https://news.ycombinator.com/item?id=44893717) - [Eca: Editor Code Assistant – AI pair programming capabilities agnostic of editor](https://github.com/editor-code-assistant/eca)

@@ -48,6 +48,7 @@
 * [2025-08-10, 11:41:34](https://news.ycombinator.com/item?id=44854525) - [Booting 5000 Erlangs on Ampere One 192-core](https://underjord.io/booting-5000-erlangs-on-ampere-one.html)
 * [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs Aren't World Models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-10, 11:38:44](https://news.ycombinator.com/item?id=44854508) - [Hyprland: Latest Wayland features, dynamic tiling, eyecandy, powerful plugins](https://hypr.land/)
+* [2025-08-10, 11:35:10](https://news.ycombinator.com/item?id=44854498) - [Index 1.6B Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
 * [2025-08-10, 10:22:23](https://news.ycombinator.com/item?id=44854171) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
 * [2025-08-10, 10:10:54](https://news.ycombinator.com/item?id=44854120) - [Open Lovable](https://github.com/mendableai/open-lovable)
 * [2025-08-10, 09:50:25](https://news.ycombinator.com/item?id=44854035) - [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
