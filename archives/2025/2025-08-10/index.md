@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
 * [2025-08-10, 23:47:56](https://news.ycombinator.com/item?id=44859499) - [Electrically controlled heat transport in graphite films](https://www.science.org/doi/10.1126/sciadv.adw8588)
+* [2025-08-10, 22:54:35](https://news.ycombinator.com/item?id=44859049) - [Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life](https://mashable.com/archive/soviet-hobbit)
 * [2025-08-10, 22:38:35](https://news.ycombinator.com/item?id=44858915) - [Prominent Al Jazeera journalist killed in Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)
 * [2025-08-10, 22:35:03](https://news.ycombinator.com/item?id=44858892) - [Compiling a Lisp: Lambda Lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
 * [2025-08-10, 22:01:49](https://news.ycombinator.com/item?id=44858693) - [A telephony agent for my parents. Should I turn it into a full-fledged service?](https://sutrasphere.com/)

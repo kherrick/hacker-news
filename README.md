@@ -27,7 +27,7 @@
 * [2025-08-12, 07:19:13](https://news.ycombinator.com/item?id=44873341) - [ForgeFed: ActivityPub-based forge federation protocol](https://forgefed.org)
 * [2025-08-12, 06:07:14](https://news.ycombinator.com/item?id=44872948) - [Show HN: XR2000: A science fiction programming challenge](https://clearsky.dev/blog/xr2000/)
 * [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
-* [2025-08-10, 18:42:34](https://news.ycombinator.com/item?id=44857267) - [Usage – a shell completion / manpage / help documentation generator](https://usage.jdx.dev/)
+* [2025-08-10, 22:54:35](https://news.ycombinator.com/item?id=44859049) - [Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life](https://mashable.com/archive/soviet-hobbit)
 * [2025-08-10, 11:35:10](https://news.ycombinator.com/item?id=44854498) - [Index 1.6B Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
 * [2025-08-09, 22:41:36](https://news.ycombinator.com/item?id=44851019) - [PCIe 8.0 announced by the PCI-Sig will double throughput again](https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/)
 
