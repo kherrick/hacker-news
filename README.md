@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-14, 15:24:53](https://news.ycombinator.com/item?id=44901528) - [Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
 * [2025-08-14, 15:15:10](https://news.ycombinator.com/item?id=44901387) - [Ask HN: How do you tune your personality to get better at interviews?](https://news.ycombinator.com/item?id=44901387)
 * [2025-08-14, 15:09:23](https://news.ycombinator.com/item?id=44901330) - [Statement Regarding Misleading Media Reports](https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/)
 * [2025-08-14, 14:53:17](https://news.ycombinator.com/item?id=44901123) - [Meta's flirty AI chatbot invited a retiree to New York](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/)
@@ -10,7 +11,6 @@
 * [2025-08-14, 13:22:05](https://news.ycombinator.com/item?id=44900084) - [Passion over Profits](https://dillonshook.com/passion-over-profits/)
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood Oxygen Monitoring Returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
 * [2025-08-14, 13:08:16](https://news.ycombinator.com/item?id=44899935) - [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
-* [2025-08-14, 12:33:49](https://news.ycombinator.com/item?id=44899639) - [Wholesale prices rose 0.9% in July, more than expected](https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html)
 * [2025-08-14, 12:14:21](https://news.ycombinator.com/item?id=44899488) - [Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%](https://www.phoronix.com/news/Linux-ASI-Lower-Overhead)
 * [2025-08-14, 12:00:53](https://news.ycombinator.com/item?id=44899381) - [Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer)
 * [2025-08-14, 11:56:20](https://news.ycombinator.com/item?id=44899339) - [New protein therapy shows promise as antidote for carbon monoxide poisoning](https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html)
