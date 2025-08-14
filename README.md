@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-14, 07:42:57](https://news.ycombinator.com/item?id=44897802) - [Optimizing Your Debian 13 Desktop](https://teejeetech.com/2025/08/14/debian_13_tips/)
 * [2025-08-14, 05:40:19](https://news.ycombinator.com/item?id=44897098) - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
 * [2025-08-14, 03:34:11](https://news.ycombinator.com/item?id=44896489) - [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams)
 * [2025-08-14, 03:24:17](https://news.ycombinator.com/item?id=44896433) - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
 * [2025-08-14, 02:19:37](https://news.ycombinator.com/item?id=44896085) - [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
 * [2025-08-14, 00:29:46](https://news.ycombinator.com/item?id=44895497) - [What Medieval People Got Right About Learning (2019)](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
-* [2025-08-13, 23:51:33](https://news.ycombinator.com/item?id=44895270) - [Igor Babuschkin, a co-founder of xAI, has announced his departure](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
 * [2025-08-13, 23:44:18](https://news.ycombinator.com/item?id=44895222) - [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
 * [2025-08-13, 20:43:46](https://news.ycombinator.com/item?id=44893600) - [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 * [2025-08-13, 20:11:50](https://news.ycombinator.com/item?id=44893254) - [Illinois limits the use of AI in therapy and psychotherapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
@@ -15,7 +15,6 @@
 * [2025-08-13, 15:41:55](https://news.ycombinator.com/item?id=44889941) - [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-13, 15:37:04](https://news.ycombinator.com/item?id=44889874) - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/)
 * [2025-08-13, 15:26:28](https://news.ycombinator.com/item?id=44889715) - [Study: Social media probably can't be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
-* [2025-08-13, 13:33:45](https://news.ycombinator.com/item?id=44888236) - [When DEF CON partners with the U.S. Army](https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge)
 * [2025-08-13, 13:06:29](https://news.ycombinator.com/item?id=44887965) - [So what's the difference between plotted and printed artwork?](https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork)
 * [2025-08-13, 12:54:45](https://news.ycombinator.com/item?id=44887853) - [Pebble Time 2 Design Reveal [video]](https://www.youtube.com/watch?v=pcPzmDePH3E)
 * [2025-08-13, 10:56:50](https://news.ycombinator.com/item?id=44886913) - [Facial recognition vans to be rolled out across police forces in England](https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613)
@@ -28,6 +27,7 @@
 * [2025-08-11, 20:37:07](https://news.ycombinator.com/item?id=44869184) - [Debian 13 arrives with major updates for Linux users – what's new in 'Trixie'](https://www.zdnet.com/article/debian-13-arrives-with-major-updates-for-linux-users-whats-new-in-trixie/)
 * [2025-08-11, 19:40:47](https://news.ycombinator.com/item?id=44868563) - [Show HN: Real-time privacy protection for smart glasses](https://github.com/PrivacyIsAllYouNeed/protector)
 * [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
+* [2025-08-10, 22:01:49](https://news.ycombinator.com/item?id=44858693) - [A telephony agent for my parents. Should I turn it into a full-fledged service?](https://sutrasphere.com/)
 * [2025-08-10, 11:35:10](https://news.ycombinator.com/item?id=44854498) - [Index 1.6B Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
 * [2025-08-09, 22:41:36](https://news.ycombinator.com/item?id=44851019) - [PCIe 8.0 announced by the PCI-Sig will double throughput again](https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/)
 
