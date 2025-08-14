@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 17:40:51](https://news.ycombinator.com/item?id=44903351) - [\"Privacy preserving age verification\" is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
 * [2025-08-14, 17:35:41](https://news.ycombinator.com/item?id=44903290) - [Meta appoints anti-LGBTQ+ conspiracy theorist Robby Starbuck as AI bias advisor](https://www.thepinknews.com/2025/08/14/meta-robby-starbuck-ai/)
 * [2025-08-14, 17:00:30](https://news.ycombinator.com/item?id=44902853) - [Axle (YC S22) Is Hiring Product Engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
+* [2025-08-14, 16:56:31](https://news.ycombinator.com/item?id=44902797) - [Can't pay, won't pay: streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
 * [2025-08-14, 16:54:14](https://news.ycombinator.com/item?id=44902763) - [Bluesky: Updated Terms and Policies](https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies)
 * [2025-08-14, 16:29:43](https://news.ycombinator.com/item?id=44902438) - [Meta appoints anti-LGBTQ+ conspiracy theorist Robby Starbuck as AI bias advisor](https://www.thepinknews.com/2025/08/14/meta-robby-starbuck-ai/)
+* [2025-08-14, 16:13:29](https://news.ycombinator.com/item?id=44902227) - [Show HN: Modelence – Supabase for MongoDB](https://github.com/modelence/modelence)
 * [2025-08-14, 16:08:36](https://news.ycombinator.com/item?id=44902148) - [Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
+* [2025-08-14, 16:06:55](https://news.ycombinator.com/item?id=44902127) - [I Made a Realtime C/C++ Build Visualizer](https://danielchasehooper.com/posts/syscall-build-snooping/)
 * [2025-08-14, 15:49:41](https://news.ycombinator.com/item?id=44901885) - [JetBrains working on higher-abstraction programming language](https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html)
 * [2025-08-14, 15:34:46](https://news.ycombinator.com/item?id=44901683) - [Show HN: I built a free alternative to Adobe Acrobat PDF viewer](https://github.com/embedpdf/embed-pdf-viewer)
 * [2025-08-14, 15:24:53](https://news.ycombinator.com/item?id=44901528) - [Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
