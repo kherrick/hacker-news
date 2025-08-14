@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 12:14:21](https://news.ycombinator.com/item?id=44899488) - [Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%](https://www.phoronix.com/news/Linux-ASI-Lower-Overhead)
+* [2025-08-14, 12:00:53](https://news.ycombinator.com/item?id=44899381) - [Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer)
+* [2025-08-14, 11:56:20](https://news.ycombinator.com/item?id=44899339) - [New Protein Therapy Shows Promise as Antidote for Carbon Monoxide Poisoning](https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html)
+* [2025-08-14, 10:55:35](https://news.ycombinator.com/item?id=44898955) - [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-14, 10:51:40](https://news.ycombinator.com/item?id=44898934) - [Meta accessed women's health data from Flo app without consent, says court](https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court)
 * [2025-08-14, 08:58:39](https://news.ycombinator.com/item?id=44898300) - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
 * [2025-08-14, 08:56:03](https://news.ycombinator.com/item?id=44898283) - [Social Media Apps Engineered Like Narcotics: The Dopamine Addiction Crisis](https://www.lookatmyprofile.org/blog/social-media-apps-engineered-like-narcotics-the-dopamine-add-1755157203663)
