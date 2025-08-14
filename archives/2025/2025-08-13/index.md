@@ -41,6 +41,7 @@
 * [2025-08-13, 15:19:53](https://news.ycombinator.com/item?id=44889627) - [Website Is for Humans](https://localghost.dev/blog/this-website-is-for-humans/)
 * [2025-08-13, 15:16:59](https://news.ycombinator.com/item?id=44889580) - [New treatment eliminates bladder cancer in 82% of patients](https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/)
 * [2025-08-13, 15:00:33](https://news.ycombinator.com/item?id=44889359) - [Coalton Playground: Type-Safe Lisp in the Browser](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/)
+* [2025-08-13, 15:00:25](https://news.ycombinator.com/item?id=44889354) - [Org-social is a decentralized social network that runs on Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-13, 14:44:02](https://news.ycombinator.com/item?id=44889117) - [AI is already replacing thousands of jobs per month, report finds](https://www.independent.co.uk/news/world/americas/artificial-intelligence-replacing-jobs-report-b2800709.html)
 * [2025-08-13, 14:40:18](https://news.ycombinator.com/item?id=44889073) - [Pebble Time 2* Design Reveal](https://ericmigi.com/blog/pebble-time-2-design-reveal/)
 * [2025-08-13, 14:39:02](https://news.ycombinator.com/item?id=44889050) - [The case for shorter .com domains](https://www.nklswbr.com/blog/dot-com-diet)

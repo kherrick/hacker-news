@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 18:48:17](https://news.ycombinator.com/item?id=44904113) - [Meta Leaks Part 2: How to Kill a Social Movement](https://archive.org/details/meta_leaks_part_2)
 * [2025-08-14, 18:19:42](https://news.ycombinator.com/item?id=44903803) - [Steve Wozniak: 'I am the happiest person ever' and 'I never sold out'](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
 * [2025-08-14, 18:03:13](https://news.ycombinator.com/item?id=44903626) - [What are the real numbers, really? (2024)](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
 * [2025-08-14, 17:40:51](https://news.ycombinator.com/item?id=44903351) - [\"Privacy preserving age verification\" is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
