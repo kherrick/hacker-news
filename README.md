@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-14, 20:01:33](https://news.ycombinator.com/item?id=44904974) - [Show HN: OSS MCP Security Scanner – Don't Blindly Trust, Verify](https://github.com/NineSunsInc/mighty-security)
+* [2025-08-14, 20:01:33](https://news.ycombinator.com/item?id=44904974) - [Show HN: MCP Security Suite](https://github.com/NineSunsInc/mighty-security)
 * [2025-08-14, 19:53:12](https://news.ycombinator.com/item?id=44904869) - [Airbrush art of the 80s was Chrome-tastic (2015)](https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/)
-* [2025-08-14, 19:36:53](https://news.ycombinator.com/item?id=44904665) - [Fundamental Flaw of Hustle Culture](https://brodzinski.com/2025/08/ai-hustle-culture.html)
 * [2025-08-14, 18:19:42](https://news.ycombinator.com/item?id=44903803) - [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
 * [2025-08-14, 17:40:51](https://news.ycombinator.com/item?id=44903351) - [\"Privacy preserving age verification\" is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
 * [2025-08-14, 17:00:30](https://news.ycombinator.com/item?id=44902853) - [Axle (YC S22) is hiring product engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
@@ -28,6 +27,7 @@
 * [2025-08-12, 13:14:14](https://news.ycombinator.com/item?id=44875837) - [Why and how to write things on the Internet (2022)](https://www.benkuhn.net/writing/)
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
 * [2025-08-11, 14:05:24](https://news.ycombinator.com/item?id=44864212) - [Reverse Proxy Deep Dive: Why Load Balancing at Scale Is Hard](https://startwithawhy.com/reverseproxy/2025/08/08/ReverseProxy-Deep-Dive-Part4.html)
+* [2025-08-11, 07:18:13](https://news.ycombinator.com/item?id=44861536) - [Homekit-steam-user-switcher: A way to remotely switch Steam users using HomeKit](https://github.com/rcarmo/homekit-steam-user-switcher)
 * [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
 * [2025-08-10, 22:54:35](https://news.ycombinator.com/item?id=44859049) - [1976 Soviet edition of 'The Hobbit' (2015)](https://mashable.com/archive/soviet-hobbit)
 
