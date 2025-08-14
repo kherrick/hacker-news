@@ -55,6 +55,7 @@
 * [2025-08-12, 13:14:14](https://news.ycombinator.com/item?id=44875837) - [Why and how to write things on the Internet (2022)](https://www.benkuhn.net/writing/)
 * [2025-08-12, 13:01:47](https://news.ycombinator.com/item?id=44875712) - [Sloppy AI defenses take cybersecurity back to the 1990s, researchers say](https://www.scworld.com/news/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say)
 * [2025-08-12, 12:43:37](https://news.ycombinator.com/item?id=44875520) - [US influencer stranded in Antarctica after landing plane without permission](https://www.independent.co.uk/travel/news-and-advice/antarctica-ethan-guo-teen-pilot-detained-b2805884.html)
+* [2025-08-12, 12:28:15](https://news.ycombinator.com/item?id=44875388) - [Managing Time Shiftable Devices](https://bitsandtheorems.com/managing-time-shiftable-devices/)
 * [2025-08-12, 12:19:47](https://news.ycombinator.com/item?id=44875311) - [High-severity WinRAR 0-day exploited for weeks by 2 groups](https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/)
 * [2025-08-12, 12:18:22](https://news.ycombinator.com/item?id=44875294) - [Outside of the top stocks, S&P 500 forward profits haven't grown in 3 years](https://insight-public.sgmarkets.com/quant-motion-pictures/outside-of-the-top-10-stocks-sp500-forward-profits-haven-t-grown-in-three-years)
 * [2025-08-12, 12:15:13](https://news.ycombinator.com/item?id=44875270) - [133-year old Kodak says it might have to cease operations](https://www.cnn.com/2025/08/12/business/kodak-survival-warning)
