@@ -129,24 +129,150 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44904974">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/NineSunsInc/mighty-security"
+              >Show HN: OSS MCP Security – Don't Blind Trust, Verify</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-14 @ 20:01:33</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44904974"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We kept seeing devs get pwned through MCP tools in ways that
+                security scanners completely miss. So we built an open-source
+                analyzer to catch these attacks. Our first OSS by Mighty team.
+              </p>
+              <p>
+                The problem: At Defcon, we saw MCP exploits with 100% success
+                rate against Claude and Llama. Three attack patterns:
+              </p>
+              <p>
+                Hidden Unicode in "error messages" - Paste a colleague's error
+                into Claude, your SSH keys get exfiltrated Trusted tool updates
+                - That database tool you've used for months? Last week's update
+                added credential theft Tool redefinition - Malicious tool
+                redefines "deploy to prod" to run attacker's script
+              </p>
+              <p>
+                Traditional scanners (CodeQL, SonarQube) catch &lt;15% of these.
+                They're looking for SQLi, not prompt injections hidden in tool
+                descriptions.
+              </p>
+              <p>
+                What we built: git clone
+                <a href="https://github.com/NineSunsInc/mighty-security"
+                  >https://github.com/NineSunsInc/mighty-security</a
+                >
+              </p>
+              <p>
+                python analyzers/comprehensive_mcp_analyzer.py
+                /path/to/your/mcp/tool
+              </p>
+              <p>
+                Scans for prompt injection, credential exfil, suspicious
+                updates, tool shadowing. Runtime wrapper adds &lt;10ms overhead.
+                Fully local, no telemetry.
+              </p>
+              <p>
+                Why this matters: 43% of MCP tools have command injection vulns.
+                GitHub's own MCP server was exploitable. We found Fortune 500s
+                running database-connected MCP tools that hadn't been audited
+                since installation. We went from paranoid code review to "AI
+                said it works" in 18 months. The magic is real, but so are the
+                vulnerabilities.
+              </p>
+              <p>
+                Demo:
+                <a
+                  href="https://www.loom.com/share/e830c56d39254a788776358c5b03fdc3"
+                  >https://www.loom.com/share/e830c56d39254a788776358c5b03fdc3</a
+                >
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/NineSunsInc/mighty-security"
+                  >https://github.com/NineSunsInc/mighty-security</a
+                >
+              </p>
+              <p>
+                Would love feedback - what MCP security issues have you seen?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44904893">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cnn.com/2025/08/14/business/chatgpt-rollout-problems"
+              >Sam Altman is in damage-control mode after latest ChatGPT
+              release</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-14 @ 19:55:39</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44904893"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44904665">
+          <h3>
+            <a
+              class="item"
+              href="https://brodzinski.com/2025/08/ai-hustle-culture.html"
+              >Fundamental Flaw of Hustle Culture</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-14 @ 19:36:53</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44904665"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44903803">
           <h3>
             <a
               class="item"
               href="https://yro.slashdot.org/comments.pl?sid=23765914&amp;cid=65583466"
-              >Steve Wozniak: 'I am the happiest person ever' and 'I never sold
-              out'</a
+              >Steve Wozniak: Life to me was never about accomplishment, but
+              about happiness</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-08-14 @ 18:19:42</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44903803"
                   >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 183</span></span
               >
             </h4>
           </section>
@@ -163,11 +289,11 @@
             <h4>
               <span>2025-08-14 @ 18:03:13</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44903626"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -182,11 +308,11 @@
             <h4>
               <span>2025-08-14 @ 17:40:51</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44903351"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -208,6 +334,27 @@
             </h4>
           </section>
         </section>
+        <section id="44902797">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy"
+              >Streaming services are driving viewers back to piracy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-14 @ 16:56:31</span
+              ><span class="points-container"
+                >Points: <span class="points">57</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44902797"
+                  >Comments</a
+                ><span class="descendants">: 72</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44902227">
           <h3>
             <a class="item" href="https://github.com/modelence/modelence"
@@ -222,7 +369,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44902227"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
             <div class="text">
@@ -293,11 +440,11 @@
             <h4>
               <span>2025-08-14 @ 16:08:36</span
               ><span class="points-container"
-                >Points: <span class="points">349</span></span
+                >Points: <span class="points">365</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44902148"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -307,18 +454,18 @@
             <a
               class="item"
               href="https://danielchasehooper.com/posts/syscall-build-snooping/"
-              >I Made a Realtime C/C++ Build Visualizer</a
+              >I made a real-time C/C++/Rust build visualizer</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-08-14 @ 16:06:55</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44902127"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -335,11 +482,11 @@
             <h4>
               <span>2025-08-14 @ 15:47:43</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44901853"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
             <div class="text">
@@ -397,11 +544,11 @@
             <h4>
               <span>2025-08-14 @ 15:34:46</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44901683"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
             <div class="text">
@@ -444,11 +591,11 @@
             <h4>
               <span>2025-08-14 @ 15:24:53</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44901528"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
             <div class="text">
@@ -586,55 +733,6 @@
             </div>
           </section>
         </section>
-        <section id="44901330">
-          <h3>
-            <a
-              class="item"
-              href="https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/"
-              >Kodak has no plans to cease, go out of business, or file for
-              bankruptcy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-14 @ 15:09:23</span
-              ><span class="points-container"
-                >Points: <span class="points">262</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44901330"
-                  >Comments</a
-                ><span class="descendants">: 123</span></span
-              >
-            </h4>
-            <div class="text">
-              <i>Kodak says it might have to cease operations</i> -
-              <a href="https://news.ycombinator.com/item?id=44875270"
-                >https://news.ycombinator.com/item?id=44875270</a
-              >
-            </div>
-          </section>
-        </section>
-        <section id="44900455">
-          <h3>
-            <a
-              class="item"
-              href="https://radicle.xyz/2025/08/14/jujutsu-with-radicle"
-              >Jujutsu and Radicle</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-14 @ 13:58:26</span
-              ><span class="points-container"
-                >Points: <span class="points">108</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44900455"
-                  >Comments</a
-                ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44899999">
           <h3>
             <a
@@ -647,11 +745,11 @@
             <h4>
               <span>2025-08-14 @ 13:14:35</span
               ><span class="points-container"
-                >Points: <span class="points">276</span></span
+                >Points: <span class="points">280</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44899999"
                   >Comments</a
-                ><span class="descendants">: 194</span></span
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -671,7 +769,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44899935"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -688,11 +786,11 @@
             <h4>
               <span>2025-08-14 @ 12:04:05</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44899415"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -710,32 +808,11 @@
             <h4>
               <span>2025-08-14 @ 11:56:20</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44899339"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44898300">
-          <h3>
-            <a
-              class="item"
-              href="https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/"
-              >Arch shares its wiki strategy with Debian</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-14 @ 08:58:39</span
-              ><span class="points-container"
-                >Points: <span class="points">322</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44898300"
-                  >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -759,6 +836,27 @@
             </h4>
           </section>
         </section>
+        <section id="44896433">
+          <h3>
+            <a
+              class="item"
+              href="https://dri.es/funding-open-source-like-public-infrastructure"
+              >Funding Open Source like public infrastructure</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-14 @ 03:24:17</span
+              ><span class="points-container"
+                >Points: <span class="points">232</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44896433"
+                  >Comments</a
+                ><span class="descendants">: 94</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44894910">
           <h3>
             <a
@@ -771,11 +869,11 @@
             <h4>
               <span>2025-08-13 @ 23:03:16</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44894910"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -792,11 +890,11 @@
             <h4>
               <span>2025-08-13 @ 20:34:27</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44893522"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -812,11 +910,11 @@
             <h4>
               <span>2025-08-13 @ 15:00:25</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44889354"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -824,75 +922,20 @@
         <section id="44880139">
           <h3>
             <a class="item" href="https://gmays.com/500-days-of-math/"
-              >500 Days of Math</a
+              >500 days of math</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-08-12 @ 18:33:20</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44880139"
                   >Comments</a
                 ><span class="descendants">: 79</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44876174">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=44876174"
-              >Show HN: Zig-DbC – A design by contract library for Zig</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-12 @ 13:49:57</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44876174"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I've made an open-source library for using design by contract
-                (DbC) principles in the Zig programming language.
-              </p>
-              <p>
-                It's called Zig-DbC, and it currently provides the following
-                features:
-              </p>
-              <p>
-                - A simple API to define preconditions, postconditions, and
-                invariants.
-              </p>
-              <p>
-                - Contracts are active in `Debug`, `ReleaseSafe`, and
-                `ReleaseSmall` modes to catch bugs early.
-              </p>
-              <p>
-                - All checks are removed at compile time in `ReleaseFast` mode
-                for zero performance cost.
-              </p>
-              <p>
-                - An optional mode to handle partial state changes in functions
-                that return errors.
-              </p>
-              <p>
-                - Transparent error handling that propagates errors from your
-                code to the caller.
-              </p>
-              <p>
-                Project's GitHub repo:
-                <a href="https://github.com/habedi/zig-dbc"
-                  >https://github.com/habedi/zig-dbc</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="44875848">
@@ -906,11 +949,11 @@
             <h4>
               <span>2025-08-12 @ 13:15:34</span
               ><span class="points-container"
-                >Points: <span class="points">420</span></span
+                >Points: <span class="points">430</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44875848"
                   >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -925,7 +968,7 @@
             <h4>
               <span>2025-08-12 @ 13:14:14</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44875837"
                   >Comments</a
@@ -944,32 +987,11 @@
             <h4>
               <span>2025-08-12 @ 08:05:39</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44873635"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44870905">
-          <h3>
-            <a
-              class="item"
-              href="http://0x80.pl/notesen/2025-01-18-simd-heap.html"
-              >SIMD Binary Heap Operations</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-12 @ 00:09:32</span
-              ><span class="points-container"
-                >Points: <span class="points">48</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44870905"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -986,7 +1008,7 @@
             <h4>
               <span>2025-08-11 @ 14:05:24</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44864212"
                   >Comments</a
@@ -1005,11 +1027,11 @@
             <h4>
               <span>2025-08-11 @ 01:46:22</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44860080"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -1024,7 +1046,7 @@
             <h4>
               <span>2025-08-10 @ 22:54:35</span
               ><span class="points-container"
-                >Points: <span class="points">212</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44859049"
                   >Comments</a
