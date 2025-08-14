@@ -54,6 +54,7 @@
 * [2025-08-12, 12:19:47](https://news.ycombinator.com/item?id=44875311) - [High-severity WinRAR 0-day exploited for weeks by 2 groups](https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/)
 * [2025-08-12, 12:18:22](https://news.ycombinator.com/item?id=44875294) - [Outside of the top stocks, S&P 500 forward profits haven't grown in 3 years](https://insight-public.sgmarkets.com/quant-motion-pictures/outside-of-the-top-10-stocks-sp500-forward-profits-haven-t-grown-in-three-years)
 * [2025-08-12, 12:15:13](https://news.ycombinator.com/item?id=44875270) - [133-year old Kodak says it might have to cease operations](https://www.cnn.com/2025/08/12/business/kodak-survival-warning)
+* [2025-08-12, 12:01:56](https://news.ycombinator.com/item?id=44875154) - [Le Lamp – an open source expressive robot](https://github.com/humancomputerlab/LeLamp)
 * [2025-08-12, 12:00:48](https://news.ycombinator.com/item?id=44875145) - [Depot (YC W23) Is Hiring a Community and Events Manager (Remote)](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager)
 * [2025-08-12, 11:56:52](https://news.ycombinator.com/item?id=44875109) - [Monero appears to be in the midst of a successful 51% attack](https://twitter.com/p3b7_/status/1955173413992984988)
 * [2025-08-12, 11:33:42](https://news.ycombinator.com/item?id=44874945) - [Radicle 1.3.0](https://radicle.xyz/2025/08/12/radicle-1.3.0)
