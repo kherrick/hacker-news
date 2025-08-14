@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-08-14, 17:35:41",
-      "https://news.ycombinator.com/item?id=44903290"
+      "2025-08-14, 17:40:51",
+      "https://news.ycombinator.com/item?id=44903351"
     ],
     [
-      "Meta appoints anti-LGBTQ+ conspiracy theorist Robby Starbuck as AI bias advisor",
-      "https://www.thepinknews.com/2025/08/14/meta-robby-starbuck-ai/"
+      "\"Privacy preserving age verification\" is bullshit",
+      "https://pluralistic.net/2025/08/14/bellovin/"
     ]
   ],
   [
@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-08-14, 16:56:31",
+      "https://news.ycombinator.com/item?id=44902797"
+    ],
+    [
+      "Can't pay, won't pay: streaming services are driving viewers back to piracy",
+      "https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 16:54:14",
       "https://news.ycombinator.com/item?id=44902763"
     ],
@@ -31,22 +41,32 @@
   ],
   [
     [
+      "2025-08-14, 16:13:29",
+      "https://news.ycombinator.com/item?id=44902227"
+    ],
+    [
+      "Show HN: Modelence – Supabase for MongoDB",
+      "https://github.com/modelence/modelence"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 16:08:36",
       "https://news.ycombinator.com/item?id=44902148"
     ],
     [
-      "Gemma 3 270M: The compact model for hyper-efficient AI",
+      "Gemma 3 270M: Compact model for hyper-efficient AI",
       "https://developers.googleblog.com/en/introducing-gemma-3-270m/"
     ]
   ],
   [
     [
-      "2025-08-14, 15:49:41",
-      "https://news.ycombinator.com/item?id=44901885"
+      "2025-08-14, 16:06:55",
+      "https://news.ycombinator.com/item?id=44902127"
     ],
     [
-      "JetBrains working on higher-abstraction programming language",
-      "https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html"
+      "I Made a Realtime C/C++ Build Visualizer",
+      "https://danielchasehooper.com/posts/syscall-build-snooping/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-08-14, 05:40:19",
-      "https://news.ycombinator.com/item?id=44897098"
-    ],
-    [
-      "Convo-Lang: LLM Programming Language and Runtime",
-      "https://learn.convo-lang.ai/"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 03:34:11",
       "https://news.ycombinator.com/item?id=44896489"
     ],
@@ -217,16 +227,6 @@
     [
       "Zenobia Pay – A mission to build an alternative to high-fee card networks",
       "https://zenobiapay.com/blog/open-source-payments"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 17:11:35",
-      "https://news.ycombinator.com/item?id=44891090"
-    ],
-    [
-      "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-      "https://video.golpoai.com/"
     ]
   ],
   [
