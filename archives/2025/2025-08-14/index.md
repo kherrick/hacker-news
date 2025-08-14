@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 05:40:19](https://news.ycombinator.com/item?id=44897098) - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
 * [2025-08-14, 03:44:55](https://news.ycombinator.com/item?id=44896539) - [My AI-Driven Identity Crisis](https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/)
 * [2025-08-14, 03:34:11](https://news.ycombinator.com/item?id=44896489) - [Show HN: Yet Another Memory System for LLM's](https://github.com/trvon/yams)
 * [2025-08-14, 03:24:17](https://news.ycombinator.com/item?id=44896433) - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
