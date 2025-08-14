@@ -11,6 +11,7 @@
 * [2025-08-11, 22:39:41](https://news.ycombinator.com/item?id=44870277) - [Starbucks in Korea asks customers to stop bringing in printers/desktop computers](https://fortune.com/2025/08/11/starbucks-south-korea-policy-desktop-computer-printer-ban-cagongjok/)
 * [2025-08-11, 22:21:53](https://news.ycombinator.com/item?id=44870137) - [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
 * [2025-08-11, 20:50:13](https://news.ycombinator.com/item?id=44869323) - [I've seen 12 people hospitalized after losing touch with reality because of AI](https://twitter.com/KeithSakata/status/1954884361695719474)
+* [2025-08-11, 19:40:47](https://news.ycombinator.com/item?id=44868563) - [Show HN: Real-time privacy protection for smart glasses](https://github.com/PrivacyIsAllYouNeed/protector)
 * [2025-08-11, 18:54:26](https://news.ycombinator.com/item?id=44867997) - [Grok Has Been Suspended](https://x.com/grok)
 * [2025-08-11, 18:13:51](https://news.ycombinator.com/item?id=44867494) - [Washington, DC police put under federal control, National Guard deployed](https://www.cnbc.com/2025/08/11/trump-washington-crime-fed-national-guard-homeless.html)
 * [2025-08-11, 18:03:57](https://news.ycombinator.com/item?id=44867374) - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
