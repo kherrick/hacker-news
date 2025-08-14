@@ -129,6 +129,161 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44901528">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44901528"
+              >Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop
+              apps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-14 @ 15:24:53</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44901528"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.cyberdesk.io/">https://www.cyberdesk.io/</a
+              >), a deterministic computer use agent for automating Windows
+              desktop applications. Developers use us to automate repetitive
+              tasks in legacy software in healthcare, accounting, construction,
+              and more, by executing clicks and keystrokes directly into the
+              desktop.
+              <p>Here’s a couple demos of Cyberdesk’s computer use agent:</p>
+              <p>
+                Completing a lightning fast file import automation into a legacy
+                desktop app:
+                <a href="https://youtu.be/H_lRzrCCN0E"
+                  >https://youtu.be/H_lRzrCCN0E</a
+                >
+              </p>
+              <p>
+                Working on a monster of a Windows monolith called OpenDental
+                (showcases agent learning process as well):
+                <a href="https://youtu.be/nXiJDebOJD0"
+                  >https://youtu.be/nXiJDebOJD0</a
+                >.
+              </p>
+              <p>
+                Filing a W-2 tax form:
+                <a href="https://youtu.be/6VNEzHdc8mc"
+                  >https://youtu.be/6VNEzHdc8mc</a
+                >
+              </p>
+              <p>
+                Many industries are stuck with legacy Windows desktop
+                applications, with staff plagued by repetitive tasks that are
+                incredibly time consuming. Vendors offering automations for
+                these end up writing brittle Robotic Process Automation (RPA)
+                scripts or hiring off-shore teams for manual task execution. RPA
+                often breaks due to inevitable UI changes or unexpected popups
+                like a Windows update or a random in-app notification. Off-shore
+                teams are often unreliable and costlier than software, plus
+                they’re not always an option for regulated industries.
+              </p>
+              <p>
+                I previously built RPA scripts impacting 20K+ employees at a
+                Fortune 100 company where I experienced first hand RPA’s
+                brittleness and inflexibility. It was obvious to me that this
+                was a bandaid solution to an unsolved problem. Alan was building
+                a computer use agent for his previous startup and realized its
+                huge potential to automate a ton of manual computer tasks across
+                many industries, so we started working on Cyberdesk.
+              </p>
+              <p>
+                Computer use models can struggle with abstract, long-horizon
+                tasks, but they excel at making context-aware decisions on a
+                screen-by-screen basis, so they’re a good fit for automating
+                these desktop apps.
+              </p>
+              <p>
+                The key to reliability is crafting prompts that are highly
+                specific and well thought out. Much like with ChatGPT, vague or
+                ambiguous prompts won’t get you the results you want. This is
+                especially true in computer use because the model is processing
+                nearly an entire desktop screen’s worth of extra visual
+                information; without precise instructions, it doesn’t know which
+                details to focus on or how to act.
+              </p>
+              <p>
+                Unlike RPA, Cyberdesk’s agents don’t blindly replay clicks. They
+                read the screen state before every action and self-correct when
+                flows drift (pop-ups, latency, UI changes). Unlike off-the-shelf
+                computer use AIs, Cyberdesk runs deterministically in
+                production: the agent primarily follows the steps it has learned
+                and only falls back to reasoning when anomalies occur. Cyberdesk
+                learns workflows from natural-language instructions, capturing
+                nuance and handling dynamic tasks - far beyond what a simple
+                screen recording of a few runs can encode.
+              </p>
+              <p>
+                This approach is good for both reliability and cost:
+                reliability, because we fall back to a computer use model in
+                unexpected situations; and cost because the computer use models
+                are expensive and we only use them when we need to. Otherwise we
+                leverage faster, more affordable visual LLMs for checking the
+                screen state step-by-step during deterministic runs. Our agents
+                are also equipped with tools like failsafes, data extraction,
+                screen evaluation to handle dynamic and sensitive situations.
+              </p>
+              <p>
+                How it works: you install our open source driver on any Windows
+                machine (<a
+                  href="https://github.com/cyberdeyyoyoubackhackersk-hq/cyberdriver"
+                  >https://github.com/cyberdeyyoyoubackhackersk-hq/cyberdriver</a
+                >). It communicates with our backend to receive commands (click,
+                type, scroll, screenshot) and sends back data (screenshots, API
+                responses, etc). You give our computer use agent a detailed
+                natural language description of the process for a given task,
+                just like an SOP for an employee learning a new task for the
+                first time. The agent then leverages computer use AI models to
+                learn the steps and memorizes them by saving each screenshot
+                alongside its action (click on these coordinates, type XYZ, wait
+                for page to load, etc).
+              </p>
+              <p>
+                The agent deterministically runs through these steps to run fast
+                and predictably. In order to account for popups and UI changes,
+                our agent checks the live screen state against the memorized
+                state to determine whether it’s safe to proceed with the
+                memorized step. If no major changes prevent safe execution of
+                the memorized step, it proceeds; otherwise, it falls back to a
+                computer use model with context on past actions and the
+                remaining task.
+              </p>
+              <p>
+                Customers are currently using us for manual tasks like importing
+                and exporting files from legacy desktop applications, booking
+                appointments for patients on a desktop PMS, and data entry for
+                filling our forms like patient profiles and such in an EMR.
+              </p>
+              <p>
+                We don't have a self-serve option yet but we'd love to onboard
+                you manually. Book a demo here to learn more! (<a
+                  href="https://www.cyberdesk.io/"
+                  >https://www.cyberdesk.io/</a
+                >) If you’d rather wait for the self-serve option a little later
+                down the line, please do submit your email here (<a
+                  href="https://forms.gle/HfQLxMXKcv9Eh8Gs8"
+                  >https://forms.gle/HfQLxMXKcv9Eh8Gs8</a
+                >) so you can be notified as soon as that’s ready. You can also
+                check out our docs here:
+                <a href="https://docs.cyberdesk.io/"
+                  >https://docs.cyberdesk.io/</a
+                >.
+              </p>
+              <p>
+                We’d absolutely love to hear your thoughts on our approach and
+                on desktop automation for legacy industries!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="44901387">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=44901387"
@@ -140,11 +295,11 @@
             <h4>
               <span>2025-08-14 @ 15:15:10</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44901387"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
             <div class="text">
@@ -191,11 +346,11 @@
             <h4>
               <span>2025-08-14 @ 15:09:23</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44901330"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -212,11 +367,11 @@
             <h4>
               <span>2025-08-14 @ 14:53:17</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44901123"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -237,7 +392,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44900455"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -252,11 +407,11 @@
             <h4>
               <span>2025-08-14 @ 13:48:24</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44900340"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -274,11 +429,11 @@
             <h4>
               <span>2025-08-14 @ 13:45:07</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">201</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44900302"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 197</span></span
               >
             </h4>
           </section>
@@ -295,11 +450,11 @@
             <h4>
               <span>2025-08-14 @ 13:26:09</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44900116"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -314,11 +469,11 @@
             <h4>
               <span>2025-08-14 @ 13:22:05</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44900084"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -335,11 +490,11 @@
             <h4>
               <span>2025-08-14 @ 13:14:35</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44899999"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -355,32 +510,11 @@
             <h4>
               <span>2025-08-14 @ 13:08:16</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44899935"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44899639">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html"
-              >Wholesale prices rose 0.9% in July, more than expected</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-14 @ 12:33:49</span
-              ><span class="points-container"
-                >Points: <span class="points">93</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44899639"
-                  >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -398,11 +532,11 @@
             <h4>
               <span>2025-08-14 @ 12:14:21</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44899488"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -438,11 +572,11 @@
             <h4>
               <span>2025-08-14 @ 11:56:20</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44899339"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -458,7 +592,7 @@
             <h4>
               <span>2025-08-14 @ 10:55:35</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44898955"
                   >Comments</a
@@ -480,11 +614,11 @@
             <h4>
               <span>2025-08-14 @ 10:51:40</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44898934"
                   >Comments</a
-                ><span class="descendants">: 123</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -501,11 +635,11 @@
             <h4>
               <span>2025-08-14 @ 08:58:39</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44898300"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -524,7 +658,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44898242"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -566,7 +700,7 @@
             <h4>
               <span>2025-08-14 @ 03:24:17</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44896433"
                   >Comments</a
@@ -588,11 +722,11 @@
             <h4>
               <span>2025-08-14 @ 02:19:37</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44896085"
                   >Comments</a
-                ><span class="descendants">: 211</span></span
+                ><span class="descendants">: 215</span></span
               >
             </h4>
           </section>
@@ -613,7 +747,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44895497"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -628,11 +762,11 @@
             <h4>
               <span>2025-08-13 @ 18:42:49</span
               ><span class="points-container"
-                >Points: <span class="points">698</span></span
+                >Points: <span class="points">700</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44892209"
                   >Comments</a
-                ><span class="descendants">: 424</span></span
+                ><span class="descendants">: 426</span></span
               >
             </h4>
           </section>
@@ -647,7 +781,7 @@
             <h4>
               <span>2025-08-13 @ 18:05:05</span
               ><span class="points-container"
-                >Points: <span class="points">352</span></span
+                >Points: <span class="points">353</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44891759"
                   >Comments</a
@@ -667,11 +801,11 @@
             <h4>
               <span>2025-08-12 @ 13:15:34</span
               ><span class="points-container"
-                >Points: <span class="points">287</span></span
+                >Points: <span class="points">292</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44875848"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -688,11 +822,11 @@
             <h4>
               <span>2025-08-12 @ 12:15:13</span
               ><span class="points-container"
-                >Points: <span class="points">297</span></span
+                >Points: <span class="points">300</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44875270"
                   >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 206</span></span
               >
             </h4>
           </section>
@@ -709,11 +843,11 @@
             <h4>
               <span>2025-08-12 @ 00:09:32</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44870905"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -730,7 +864,7 @@
             <h4>
               <span>2025-08-11 @ 19:21:29</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44868353"
                   >Comments</a
@@ -752,7 +886,7 @@
             <h4>
               <span>2025-08-11 @ 07:03:31</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44861460"
                   >Comments</a
@@ -772,7 +906,7 @@
             <h4>
               <span>2025-08-10 @ 22:54:35</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44859049"
                   >Comments</a
