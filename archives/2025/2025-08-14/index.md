@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 17:35:41](https://news.ycombinator.com/item?id=44903290) - [Meta appoints anti-LGBTQ+ conspiracy theorist Robby Starbuck as AI bias advisor](https://www.thepinknews.com/2025/08/14/meta-robby-starbuck-ai/)
 * [2025-08-14, 17:00:30](https://news.ycombinator.com/item?id=44902853) - [Axle (YC S22) Is Hiring Product Engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
 * [2025-08-14, 16:54:14](https://news.ycombinator.com/item?id=44902763) - [Bluesky: Updated Terms and Policies](https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies)
 * [2025-08-14, 16:29:43](https://news.ycombinator.com/item?id=44902438) - [Meta appoints anti-LGBTQ+ conspiracy theorist Robby Starbuck as AI bias advisor](https://www.thepinknews.com/2025/08/14/meta-robby-starbuck-ai/)

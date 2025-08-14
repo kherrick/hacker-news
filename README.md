@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-14, 17:35:41](https://news.ycombinator.com/item?id=44903290) - [Meta appoints anti-LGBTQ+ conspiracy theorist Robby Starbuck as AI bias advisor](https://www.thepinknews.com/2025/08/14/meta-robby-starbuck-ai/)
 * [2025-08-14, 17:00:30](https://news.ycombinator.com/item?id=44902853) - [Axle (YC S22) Is Hiring Product Engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
 * [2025-08-14, 16:54:14](https://news.ycombinator.com/item?id=44902763) - [Bluesky: Updated Terms and Policies](https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies)
 * [2025-08-14, 16:08:36](https://news.ycombinator.com/item?id=44902148) - [Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
@@ -21,14 +22,13 @@
 * [2025-08-14, 03:34:11](https://news.ycombinator.com/item?id=44896489) - [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams)
 * [2025-08-14, 03:24:17](https://news.ycombinator.com/item?id=44896433) - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
 * [2025-08-14, 02:19:37](https://news.ycombinator.com/item?id=44896085) - [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
-* [2025-08-13, 18:42:49](https://news.ycombinator.com/item?id=44892209) - [PYX: The next step in Python packaging](https://astral.sh/blog/introducing-pyx)
-* [2025-08-13, 18:05:05](https://news.ycombinator.com/item?id=44891759) - [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
+* [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
 * [2025-08-12, 13:49:57](https://news.ycombinator.com/item?id=44876174) - [Show HN: Zig-DbC – A design by contract library for Zig](https://news.ycombinator.com/item?id=44876174)
 * [2025-08-12, 13:15:34](https://news.ycombinator.com/item?id=44875848) - [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/)
+* [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting LARGE software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
 * [2025-08-12, 06:37:56](https://news.ycombinator.com/item?id=44873103) - [KosmicKrisp a Vulkan on Metal Mesa 3D Graphics Driver](https://www.lunarg.com/a-vulkan-on-metal-mesa-3d-graphics-driver/)
 * [2025-08-12, 06:07:14](https://news.ycombinator.com/item?id=44872948) - [Show HN: XR2000: A science fiction programming challenge](https://clearsky.dev/blog/xr2000/)
 * [2025-08-12, 00:09:32](https://news.ycombinator.com/item?id=44870905) - [SIMD Binary Heap Operations](http://0x80.pl/notesen/2025-01-18-simd-heap.html)
-* [2025-08-11, 07:03:31](https://news.ycombinator.com/item?id=44861460) - [A new poverty line shifted the World Bank's poverty data. What changed and why?](https://ourworldindata.org/new-international-poverty-line-3-dollars-per-day)
 * [2025-08-10, 22:54:35](https://news.ycombinator.com/item?id=44859049) - [Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life (2015)](https://mashable.com/archive/soviet-hobbit)
 
 ## [Archives](archives/index.md)
