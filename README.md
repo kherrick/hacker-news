@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-14, 21:19:00](https://news.ycombinator.com/item?id=44905808) - [We Rewrote the Ghostty GTK Application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
 * [2025-08-14, 21:01:04](https://news.ycombinator.com/item?id=44905647) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-08-14, 20:02:46](https://news.ycombinator.com/item?id=44904993) - [DINOv3](https://github.com/facebookresearch/dinov3)
 * [2025-08-14, 20:01:33](https://news.ycombinator.com/item?id=44904974) - [Show HN: MCP Security Suite](https://github.com/NineSunsInc/mighty-security)
@@ -17,7 +18,6 @@
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood oxygen monitoring returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
 * [2025-08-14, 12:04:05](https://news.ycombinator.com/item?id=44899415) - [How to rig elections [video]](https://media.ccc.de/v/why2025-218-how-to-rig-elections)
 * [2025-08-14, 11:56:20](https://news.ycombinator.com/item?id=44899339) - [New protein therapy shows promise as antidote for carbon monoxide poisoning](https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html)
-* [2025-08-14, 08:47:27](https://news.ycombinator.com/item?id=44898242) - [iPhone DevOps (2023)](https://clearsky.dev/blog/iphone-devops-ssh/)
 * [2025-08-14, 03:24:17](https://news.ycombinator.com/item?id=44896433) - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
 * [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What does Palantir actually do?](https://www.wired.com/story/palantir-what-the-company-does/)
 * [2025-08-13, 20:34:27](https://news.ycombinator.com/item?id=44893522) - [All Souls exam questions and the limits of machine reasoning](https://resobscura.substack.com/p/all-souls-exam-questions-and-the)

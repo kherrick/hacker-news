@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 21:19:00](https://news.ycombinator.com/item?id=44905808) - [We Rewrote the Ghostty GTK Application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
 * [2025-08-14, 21:01:04](https://news.ycombinator.com/item?id=44905647) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-08-14, 20:02:46](https://news.ycombinator.com/item?id=44904993) - [DINOv3](https://github.com/facebookresearch/dinov3)
 * [2025-08-14, 20:01:33](https://news.ycombinator.com/item?id=44904974) - [Show HN: OSS MCP Security – Don't Blind Trust, Verify](https://github.com/NineSunsInc/mighty-security)
