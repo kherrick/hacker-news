@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-14, 18:19:42",
+      "https://news.ycombinator.com/item?id=44903803"
+    ],
+    [
+      "Steve Wozniak: 'I am the happiest person ever' and 'I never sold out'",
+      "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 18:03:13",
+      "https://news.ycombinator.com/item?id=44903626"
+    ],
+    [
+      "What are the real numbers, really? (2024)",
+      "https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 17:40:51",
       "https://news.ycombinator.com/item?id=44903351"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44902853"
     ],
     [
-      "Axle (YC S22) Is Hiring Product Engineers",
+      "Axle (YC S22) is hiring product engineers",
       "https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer"
     ]
   ],
@@ -27,16 +47,6 @@
     [
       "Can't pay, won't pay: streaming services are driving viewers back to piracy",
       "https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 16:54:14",
-      "https://news.ycombinator.com/item?id=44902763"
-    ],
-    [
-      "Bluesky: Updated Terms and Policies",
-      "https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "I Made a Realtime C/C++ Build Visualizer",
       "https://danielchasehooper.com/posts/syscall-build-snooping/"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 15:47:43",
+      "https://news.ycombinator.com/item?id=44901853"
+    ],
+    [
+      "Show HN: OWhisper – Ollama for realtime speech-to-text",
+      "https://docs.hyprnote.com/owhisper/what-is-this"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-08-14, 13:26:09",
-      "https://news.ycombinator.com/item?id=44900116"
-    ],
-    [
-      "Why LLMs can't really build software",
-      "https://zed.dev/blog/why-llms-cant-build-software"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 13:14:35",
       "https://news.ycombinator.com/item?id=44899999"
     ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=44898955"
     ],
     [
-      "Org-social is a decentralized social network that runs on an Org Mode",
+      "Org-social is a decentralized social network that runs on Org Mode",
       "https://github.com/tanrax/org-social"
     ]
   ],
@@ -255,28 +265,8 @@
       "https://news.ycombinator.com/item?id=44873635"
     ],
     [
-      "Architecting LARGE software projects [video]",
+      "Architecting large software projects [video]",
       "https://www.youtube.com/watch?v=sSpULGNHyoI"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 06:37:56",
-      "https://news.ycombinator.com/item?id=44873103"
-    ],
-    [
-      "KosmicKrisp a Vulkan on Metal Mesa 3D Graphics Driver",
-      "https://www.lunarg.com/a-vulkan-on-metal-mesa-3d-graphics-driver/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 06:07:14",
-      "https://news.ycombinator.com/item?id=44872948"
-    ],
-    [
-      "Show HN: XR2000: A science fiction programming challenge",
-      "https://clearsky.dev/blog/xr2000/"
     ]
   ],
   [
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2025-08-11, 14:05:24",
+      "https://news.ycombinator.com/item?id=44864212"
+    ],
+    [
+      "Reverse Proxy Deep Dive: Why Load Balancing at Scale Is Hard",
+      "https://startwithawhy.com/reverseproxy/2025/08/08/ReverseProxy-Deep-Dive-Part4.html"
+    ]
+  ],
+  [
+    [
       "2025-08-10, 22:54:35",
       "https://news.ycombinator.com/item?id=44859049"
     ],
     [
-      "Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life (2015)",
+      "1976 Soviet edition of 'The Hobbit' (2015)",
       "https://mashable.com/archive/soviet-hobbit"
     ]
   ]
