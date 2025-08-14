@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-14, 03:34:11",
+      "https://news.ycombinator.com/item?id=44896489"
+    ],
+    [
+      "Show HN: Yet Another Memory System for LLM's",
+      "https://github.com/trvon/yams"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 02:19:37",
+      "https://news.ycombinator.com/item?id=44896085"
+    ],
+    [
+      "Zenobia Pay – A mission to build an alternative to high-fee card networks",
+      "https://zenobiapay.com/blog/open-source-payments"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 00:29:46",
       "https://news.ycombinator.com/item?id=44895497"
     ],
@@ -56,7 +76,7 @@
     ],
     [
       "PYX: The next step in Python packaging",
-      "https://astral.sh/pyx"
+      "https://astral.sh/blog/introducing-pyx"
     ]
   ],
   [
@@ -117,26 +137,6 @@
     [
       "Study: Social media probably can't be fixed",
       "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 15:19:53",
-      "https://news.ycombinator.com/item?id=44889627"
-    ],
-    [
-      "This website is for humans",
-      "https://localghost.dev/blog/this-website-is-for-humans/"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 15:00:33",
-      "https://news.ycombinator.com/item?id=44889359"
-    ],
-    [
-      "Coalton Playground: Type-Safe Lisp in the Browser",
-      "https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/"
     ]
   ],
   [
