@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44915824"
     ],
     [
-      "Is OpenBSD 10x faster than Linux?",
+      "OpenBSD is so fast, I had to modify the program slightly to measure itself",
       "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=44913682"
     ],
     [
-      "Letting inmates run the asylum: Using AI to secure AI",
+      "Using AI to secure AI",
       "https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/"
     ]
   ],
@@ -221,12 +221,32 @@
   ],
   [
     [
+      "2025-08-15, 12:13:39",
+      "https://news.ycombinator.com/item?id=44911412"
+    ],
+    [
+      "When the CIA got away with building a heart attack gun",
+      "https://wisewolfmedia.substack.com/p/the-investigation-that-should-have"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 06:11:51",
       "https://news.ycombinator.com/item?id=44909133"
     ],
     [
       "Simulating and Visualising the Central Limit Theorem",
       "https://blog.foletta.net/post/2025-07-14-clt/"
+    ]
+  ],
+  [
+    [
+      "2025-08-15, 01:01:13",
+      "https://news.ycombinator.com/item?id=44907531"
+    ],
+    [
+      "I used to know how to write in Japanese",
+      "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2025-08-14, 21:19:00",
-      "https://news.ycombinator.com/item?id=44905808"
+      "2025-08-13, 13:59:23",
+      "https://news.ycombinator.com/item?id=44888548"
     ],
     [
-      "We rewrote the Ghostty GTK application",
-      "https://mitchellh.com/writing/ghostty-gtk-rewrite"
+      "Show HN: Prime Number Grid Visualizer",
+      "https://enda.sh/primegrid/"
     ]
   ],
   [
@@ -257,16 +277,6 @@
     [
       "In-depth analysis on Valorant's Guarded Regions",
       "https://reversing.info/posts/guardedregions/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 15:06:08",
-      "https://news.ycombinator.com/item?id=44877201"
-    ],
-    [
-      "Recto – A Truly 2D Language",
-      "https://masatohagiwara.net/recto.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
       "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 21:21:01",
-      "https://news.ycombinator.com/item?id=44869601"
-    ],
-    [
-      "The Lifecycle of a Pull Request",
-      "https://blog.tangled.sh/pulls"
     ]
   ]
 ]
