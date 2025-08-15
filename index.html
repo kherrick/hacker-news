@@ -129,6 +129,169 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44915206">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44915206"
+              >Launch HN: Embedder (YC S25) – Claude Code for Embedded
+              Software</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-15 @ 17:38:05</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44915206"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://embedder.dev">https://embedder.dev</a>), a
+              hardware-aware AI coding agent that can write firmware and test it
+              on physical hardware.
+              <p>
+                Here’s a demo in which we integrate a magnetometer for the
+                Pebble 2 smartwatch:
+                <a href="https://www.youtube.com/watch?v=WOpAfeiFQkQ"
+                  >https://www.youtube.com/watch?v=WOpAfeiFQkQ</a
+                >
+              </p>
+              <p>
+                We were frustrated by the gap between coding agents and the
+                realities of writing firmware. We'd ask Cursor to, say, write an
+                I2C driver for a new sensor on an STM32, and it would
+                confidently spit out code that used non-existent registers or
+                HAL functions from the wrong chip family. It had no context, so
+                it would just guess and the code is always wrong.
+              </p>
+              <p>
+                Even when it wrote the right code, the agent had no way of
+                interacting with your board and the developer would have to
+                manually test it and prompt the agent again to fix any bugs they
+                found. Making current solutions not ideal when working in an
+                embedded context.
+              </p>
+              <p>
+                That’s why we are building Embedder, a hardware-aware coding
+                agent that is optimized for work in embedded contexts. It
+                understands your datasheets and schematics and can also flash
+                and test on your hardware.
+              </p>
+              <p>
+                First, you give it context by uploading datasheets, reference
+                manuals, schematics, or any other documentation on our web
+                console and our coding agent will automatically have context
+                when it executes tasks in the command line.
+              </p>
+              <p>
+                Second, Embedder can directly interact with your hardware to
+                close the development loop. The agent is able to use a serial
+                console just like a regular developer to read from your board
+                and verify outputs. To solve more complex bugs or identify
+                hardware issues the coding agent is also able to launch a
+                debugging agent optimized for step through debugging workloads
+                and interact with local or remote gbdservers.
+              </p>
+              <p>
+                You can try it out today. It’s an npm package you can install
+                and run from your terminal:
+              </p>
+              <p></p>
+              <pre><code>  npm i -g @embedder/embedder &amp;&amp; embedder
+</code></pre>
+              It's free for the rest of this month while we're in beta. After
+              that, we're planning a usage based model for individual developers
+              and a team plan with more advanced features.
+              <p>
+                We’d love to get feedback from the community, or hear about your
+                experiences of embedded development. We’ll be in the comments to
+                respond!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44915164">
+          <h3>
+            <a class="item" href="https://edka.io"
+              >Show HN: Edka – Deploy Kubernetes on your own Hetzner account in
+              minutes</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-15 @ 17:34:54</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44915164"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I’ve been working with Kubernetes for over a decade, since the
+                alpha days, and was involved in kube-aws project before AWS
+                launched EKS. For the past four years, I’ve been helping friends
+                and small businesses cut costs by running Kubernetes on Hetzner
+                Cloud, which I’ve found to be rock solid and by far the best
+                priced provider.
+              </p>
+              <p>
+                Provisioning a cluster on Hetzner is now straightforward, thanks
+                to tools like k3s and hetzner-k3s, but configuring it for your
+                specific needs still takes time and expertise. I built Edka to
+                make that part easy: spin up a production ready cluster in ~2
+                minutes, then choose how low level or automated you want to go.
+              </p>
+              <p>How it works:</p>
+              <p>
+                Layer 1 – Cluster provisioning - Creates a k3s-based Kubernetes
+                cluster on Hetzner (lightweight, easy to manage, scales well).
+              </p>
+              <p>
+                Layer 2 – Add-ons - One-click deploy for metrics-server,
+                cert-manager, and various operators; preconfigured for Hetzner,
+                no extra setup needed.
+              </p>
+              <p>
+                Layer 3 – Applications - Minimal config UIs for apps built on
+                top of add-ons. - Example: Need PostgreSQL? Fill a few fields →
+                platform installs CloudNativePG → provisions HA PostgreSQL with
+                PITR → gives ready to use endpoints. Backups can be restored to
+                any point in time with a click. Quick demo:
+                <a href="https://edka.io/apps/">https://edka.io/apps/</a>
+              </p>
+              <p>
+                Layer 4 – Deployments - Connect your CI to push container images
+                to a public/private registry. - Edka updates deployments
+                automatically (with semantic versioning rules), supports instant
+                rollbacks, autoscaling, persistent volumes, secrets/env imports,
+                and quick public exposure. Quick demo:
+                <a href="https://edka.io/deployments/"
+                  >https://edka.io/deployments/</a
+                >
+              </p>
+              <p>
+                Tech stack: TypeScript, React + Tailwind CSS, PostgreSQL, Redis,
+                BullMQ, Vault + AWS KMS to encrypted sensitive data.
+              </p>
+              <p>
+                The platform is still in beta and I’m building it in my spare
+                time, so there are some rough edges, but I’d love feedback from
+                anyone running Kubernetes on Hetzner, exploring alternatives to
+                EKS/GKE/AKS or looking to automate their infrastructure with
+                Kubernetes.
+              </p>
+              <p>
+                More details: <a href="https://edka.io/">https://edka.io/</a>
+              </p>
+              <p>Thank you!</p>
+            </div>
+          </section>
+        </section>
         <section id="44914773">
           <h3>
             <a
@@ -141,11 +304,11 @@
             <h4>
               <span>2025-08-15 @ 17:01:40</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44914773"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -165,28 +328,6 @@
             </h4>
           </section>
         </section>
-        <section id="44914671">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wired.com/story/xai-grok-government-contract-hitler/"
-              >XAI Was About to Land a Major Government Contract. Then Grok
-              Praised Hitler</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-15 @ 16:52:52</span
-              ><span class="points-container"
-                >Points: <span class="points">9</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44914671"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44914176">
           <h3>
             <a
@@ -200,7 +341,7 @@
             <h4>
               <span>2025-08-15 @ 16:12:47</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44914176"
                   >Comments</a
@@ -221,11 +362,11 @@
             <h4>
               <span>2025-08-15 @ 16:11:36</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44914163"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -263,11 +404,11 @@
             <h4>
               <span>2025-08-15 @ 16:03:36</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44914061"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -284,11 +425,11 @@
             <h4>
               <span>2025-08-15 @ 16:02:25</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44914040"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -305,11 +446,11 @@
             <h4>
               <span>2025-08-15 @ 15:36:06</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44913682"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -324,11 +465,11 @@
             <h4>
               <span>2025-08-15 @ 15:34:43</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44913663"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -343,7 +484,7 @@
             <h4>
               <span>2025-08-15 @ 15:07:04</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44913359"
                   >Comments</a
@@ -364,11 +505,11 @@
             <h4>
               <span>2025-08-15 @ 15:05:02</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44913340"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -383,7 +524,7 @@
             <h4>
               <span>2025-08-15 @ 14:17:07</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44912727"
                   >Comments</a
@@ -400,11 +541,11 @@
             <h4>
               <span>2025-08-15 @ 14:10:45</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44912646"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
@@ -422,33 +563,11 @@
             <h4>
               <span>2025-08-15 @ 13:06:33</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44911941"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44911571">
-          <h3>
-            <a
-              class="item"
-              href="https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false"
-              >Non-invasive vagus nerve stimulation and exercise capacity in
-              healthy volunteers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-15 @ 12:32:43</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44911571"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -465,11 +584,11 @@
             <h4>
               <span>2025-08-15 @ 12:31:54</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44911560"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -486,11 +605,11 @@
             <h4>
               <span>2025-08-15 @ 12:14:46</span
               ><span class="points-container"
-                >Points: <span class="points">522</span></span
+                >Points: <span class="points">525</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44911423"
                   >Comments</a
-                ><span class="descendants">: 300</span></span
+                ><span class="descendants">: 302</span></span
               >
             </h4>
           </section>
@@ -507,7 +626,7 @@
             <h4>
               <span>2025-08-15 @ 11:46:17</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44911169"
                   >Comments</a
@@ -528,11 +647,11 @@
             <h4>
               <span>2025-08-15 @ 11:32:40</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44911069"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -547,11 +666,11 @@
             <h4>
               <span>2025-08-15 @ 06:11:51</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44909133"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -572,7 +691,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44907531"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -609,7 +728,7 @@
             <h4>
               <span>2025-08-14 @ 22:11:47</span
               ><span class="points-container"
-                >Points: <span class="points">406</span></span
+                >Points: <span class="points">407</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44906305"
                   >Comments</a
@@ -630,11 +749,11 @@
             <h4>
               <span>2025-08-14 @ 21:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">398</span></span
+                >Points: <span class="points">401</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44905808"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 188</span></span
               >
             </h4>
           </section>
@@ -670,11 +789,11 @@
             <h4>
               <span>2025-08-12 @ 15:06:08</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44877201"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -691,7 +810,7 @@
             <h4>
               <span>2025-08-12 @ 14:03:47</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44876346"
                   >Comments</a
@@ -713,7 +832,7 @@
             <h4>
               <span>2025-08-12 @ 05:04:21</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44872584"
                   >Comments</a
