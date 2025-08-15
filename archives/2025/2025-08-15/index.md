@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 16:11:36](https://news.ycombinator.com/item?id=44914163) - [Steam can't escape the fallout from its censorship controversy](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)
+* [2025-08-15, 16:10:41](https://news.ycombinator.com/item?id=44914153) - [People do not believe that adding supply reduces housing prices](https://www.aeaweb.org/articles?id=10.1257/jep.20241428)
+* [2025-08-15, 16:02:25](https://news.ycombinator.com/item?id=44914040) - [I let LLMs write an Elixir NIF in C; it mostly worked](https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/)
 * [2025-08-15, 15:39:12](https://news.ycombinator.com/item?id=44913726) - [Have you ever noticed that people dressed better in the past?](https://twitter.com/dieworkwear/status/1955756224030630264)
 * [2025-08-15, 15:36:06](https://news.ycombinator.com/item?id=44913682) - [Letting inmates run the asylum: Using AI to secure AI](https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/)
 * [2025-08-15, 15:34:43](https://news.ycombinator.com/item?id=44913663) - [The Electric Fence Stopped Working Years Ago](https://soonly.com/electric-fences/)
+* [2025-08-15, 15:30:14](https://news.ycombinator.com/item?id=44913606) - [SC's proposed nuclear reboot: 'We're going to finish these reactors'](https://scdailygazette.com/2025/08/14/sen-graham-on-scs-proposed-nuclear-reboot-were-going-to-finish-these-reactors/)
 * [2025-08-15, 15:07:04](https://news.ycombinator.com/item?id=44913359) - [Do Things That Don't Scale](https://paulgraham.com/ds.html)
 * [2025-08-15, 15:05:02](https://news.ycombinator.com/item?id=44913340) - [The beauty of a text only webpage](https://albanbrooke.com/the-beauty-of-a-text-only-webpage/)
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
