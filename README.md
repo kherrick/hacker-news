@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-15, 11:04:13](https://news.ycombinator.com/item?id=44910848) - [Are you willing to pay $100k a year per developer on AI?](https://www.theregister.com/2025/08/15/are_you_willing_to_pay/)
 * [2025-08-15, 10:19:08](https://news.ycombinator.com/item?id=44910562) - [The U.S. grid is so weak, the AI race may be over](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/)
 * [2025-08-15, 09:50:13](https://news.ycombinator.com/item?id=44910393) - [Swiss vs. UK approach to major tranport projects](https://www.freewheeling.info/blog/swiss-hs2)
 * [2025-08-15, 09:10:43](https://news.ycombinator.com/item?id=44910161) - [UK government states that 'safety' act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
@@ -10,7 +11,6 @@
 * [2025-08-14, 22:51:16](https://news.ycombinator.com/item?id=44906662) - [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound)
 * [2025-08-14, 22:11:47](https://news.ycombinator.com/item?id=44906305) - [Blurry rendering of games on Mac](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
 * [2025-08-14, 21:19:00](https://news.ycombinator.com/item?id=44905808) - [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
-* [2025-08-14, 21:01:04](https://news.ycombinator.com/item?id=44905647) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-08-14, 20:02:46](https://news.ycombinator.com/item?id=44904993) - [DINOv3](https://github.com/facebookresearch/dinov3)
 * [2025-08-14, 19:53:12](https://news.ycombinator.com/item?id=44904869) - [Airbrush art of the 80s was Chrome-tastic (2015)](https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/)
 * [2025-08-14, 18:19:42](https://news.ycombinator.com/item?id=44903803) - [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
@@ -28,7 +28,7 @@
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
 * [2025-08-12, 07:01:01](https://news.ycombinator.com/item?id=44873225) - [\"Death and What Comes Next\" by Terry Pratchett](https://www.lspace.org/books/dawcn/dawcn-english.html)
 * [2025-08-12, 05:03:34](https://news.ycombinator.com/item?id=44872578) - [Galileo's Telescopes: Seeing Is Believing](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
-* [2025-08-11, 20:37:20](https://news.ycombinator.com/item?id=44869188) - [Snapshots of Kids Bike Jumping in the 1970s](https://flashbak.com/snapshots-of-kids-bike-jumping-in-the-1970s-476580/)
+* [2025-08-11, 13:18:52](https://news.ycombinator.com/item?id=44863754) - [The Kuzma Self-Playing Guitar System](https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
 
 ## [Archives](archives/index.md)
