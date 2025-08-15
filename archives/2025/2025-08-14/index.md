@@ -21,6 +21,7 @@
 * [2025-08-14, 18:03:13](https://news.ycombinator.com/item?id=44903626) - [What are the real numbers, really? (2024)](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
 * [2025-08-14, 17:40:51](https://news.ycombinator.com/item?id=44903351) - [\"Privacy preserving age verification\" is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
 * [2025-08-14, 17:35:41](https://news.ycombinator.com/item?id=44903290) - [Meta appoints anti-LGBTQ+ conspiracy theorist Robby Starbuck as AI bias advisor](https://www.thepinknews.com/2025/08/14/meta-robby-starbuck-ai/)
+* [2025-08-14, 17:33:58](https://news.ycombinator.com/item?id=44903265) - [Show HN: Evaluating LLMs on creative writing via reader usage, not benchmarks](https://www.narrator.sh/)
 * [2025-08-14, 17:00:30](https://news.ycombinator.com/item?id=44902853) - [Axle (YC S22) Is Hiring Product Engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
 * [2025-08-14, 16:56:31](https://news.ycombinator.com/item?id=44902797) - [Can't pay, won't pay: streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
 * [2025-08-14, 16:54:14](https://news.ycombinator.com/item?id=44902763) - [Bluesky: Updated Terms and Policies](https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies)
