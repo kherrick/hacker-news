@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-15, 10:22:23](https://news.ycombinator.com/item?id=44910589) - [What makes you still work for Meta, when it's clear how toxic the company is?](https://news.ycombinator.com/item?id=44910589)
 * [2025-08-15, 09:10:43](https://news.ycombinator.com/item?id=44910161) - [UK government states that 'safety' act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
 * [2025-08-15, 06:11:51](https://news.ycombinator.com/item?id=44909133) - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
 * [2025-08-15, 01:08:42](https://news.ycombinator.com/item?id=44907569) - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
@@ -13,6 +12,7 @@
 * [2025-08-14, 20:02:46](https://news.ycombinator.com/item?id=44904993) - [DINOv3](https://github.com/facebookresearch/dinov3)
 * [2025-08-14, 19:53:12](https://news.ycombinator.com/item?id=44904869) - [Airbrush art of the 80s was Chrome-tastic (2015)](https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/)
 * [2025-08-14, 18:19:42](https://news.ycombinator.com/item?id=44903803) - [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
+* [2025-08-14, 17:33:58](https://news.ycombinator.com/item?id=44903265) - [Show HN: Evaluating LLMs on creative writing via reader usage, not benchmarks](https://www.narrator.sh/)
 * [2025-08-14, 16:56:31](https://news.ycombinator.com/item?id=44902797) - [Streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
 * [2025-08-14, 16:08:36](https://news.ycombinator.com/item?id=44902148) - [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
 * [2025-08-14, 16:06:55](https://news.ycombinator.com/item?id=44902127) - [I made a real-time C/C++/Rust build visualizer](https://danielchasehooper.com/posts/syscall-build-snooping/)
@@ -24,10 +24,10 @@
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood oxygen monitoring returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
 * [2025-08-13, 15:00:25](https://news.ycombinator.com/item?id=44889354) - [Org-social is a decentralized social network that runs on Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-12, 12:35:07](https://news.ycombinator.com/item?id=44875440) - [Lessons learned from buying an open source repo](https://www.coplay.dev/blog/lessons-learned-from-buying-an-open-source-repo)
-* [2025-08-12, 12:00:04](https://news.ycombinator.com/item?id=44875137) - [Progress towards universal Copy/Paste shortcuts on Linux](https://mark.stosberg.com/universal-copy-paste/)
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
 * [2025-08-12, 05:03:34](https://news.ycombinator.com/item?id=44872578) - [Galileo's Telescopes: Seeing Is Believing](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
 * [2025-08-11, 20:37:20](https://news.ycombinator.com/item?id=44869188) - [Snapshots of Kids Bike Jumping in the 1970s](https://flashbak.com/snapshots-of-kids-bike-jumping-in-the-1970s-476580/)
+* [2025-08-11, 13:18:52](https://news.ycombinator.com/item?id=44863754) - [The Kuzma Self-Playing Guitar System](https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
 * [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
 
