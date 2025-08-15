@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-15, 01:27:29",
-      "https://news.ycombinator.com/item?id=44907660"
-    ],
-    [
-      "Nobody’s buying homes, nobody’s switching jobs, America’s mobility is stalling",
-      "https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc"
-    ]
-  ],
-  [
-    [
       "2025-08-15, 01:08:42",
       "https://news.ycombinator.com/item?id=44907569"
     ],
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2025-08-14, 17:33:58",
+      "https://news.ycombinator.com/item?id=44903265"
+    ],
+    [
+      "Show HN: Evaluating LLMs on creative writing via reader usage, not benchmarks",
+      "https://www.narrator.sh/"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 16:56:31",
       "https://news.ycombinator.com/item?id=44902797"
     ],
@@ -167,16 +167,6 @@
     [
       "Show HN: I built a free alternative to Adobe Acrobat PDF viewer",
       "https://github.com/embedpdf/embed-pdf-viewer"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 15:24:53",
-      "https://news.ycombinator.com/item?id=44901528"
-    ],
-    [
-      "Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps",
-      "https://news.ycombinator.com/item?id=44901528"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Org-social is a decentralized social network that runs on Org Mode",
       "https://github.com/tanrax/org-social"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 12:43:43",
+      "https://news.ycombinator.com/item?id=44875522"
+    ],
+    [
+      "Show HN: Understanding the Spatial Web Browser Engine",
+      "https://m-creativelab.github.io/jsar-runtime/blogs/spatial-browser-engine.html"
     ]
   ],
   [
