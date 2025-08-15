@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-15, 17:01:40",
+      "https://news.ycombinator.com/item?id=44914773"
+    ],
+    [
+      "AI crawlers now solves the Anubis challenges crawling Codeberg",
+      "https://social.anoxinon.de/@Codeberg/115033790447125787"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 17:01:23",
       "https://news.ycombinator.com/item?id=44914771"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-08-15, 16:33:26",
-      "https://news.ycombinator.com/item?id=44914435"
+      "2025-08-15, 16:52:52",
+      "https://news.ycombinator.com/item?id=44914671"
     ],
     [
-      "German court declares Karl Marx's teachings unconstitutional",
-      "https://harici.com.tr/en/german-court-declares-karl-marxs-teachings-unconstitutional/"
+      "XAI Was About to Land a Major Government Contract. Then Grok Praised Hitler",
+      "https://www.wired.com/story/xai-grok-government-contract-hitler/"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Steam can't escape the fallout from its censorship controversy",
       "https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/"
+    ]
+  ],
+  [
+    [
+      "2025-08-15, 16:10:18",
+      "https://news.ycombinator.com/item?id=44914149"
+    ],
+    [
+      "Bullfrog in the Dungeon",
+      "https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/"
     ]
   ],
   [
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2025-08-15, 12:32:43",
+      "https://news.ycombinator.com/item?id=44911571"
+    ],
+    [
+      "Non-invasive vagus nerve stimulation and exercise capacity in healthy volunteers",
+      "https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 12:31:54",
       "https://news.ycombinator.com/item?id=44911560"
     ],
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2025-08-14, 16:08:36",
-      "https://news.ycombinator.com/item?id=44902148"
-    ],
-    [
-      "Gemma 3 270M: Compact model for hyper-efficient AI",
-      "https://developers.googleblog.com/en/introducing-gemma-3-270m/"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 16:06:55",
       "https://news.ycombinator.com/item?id=44902127"
     ],
     [
       "I made a real-time C/C++/Rust build visualizer",
       "https://danielchasehooper.com/posts/syscall-build-snooping/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 15:47:43",
-      "https://news.ycombinator.com/item?id=44901853"
-    ],
-    [
-      "Show HN: OWhisper – Ollama for realtime speech-to-text",
-      "https://docs.hyprnote.com/owhisper/what-is-this"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Lifecycle of a Pull Request",
       "https://blog.tangled.sh/pulls"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 04:20:57",
-      "https://news.ycombinator.com/item?id=44860732"
-    ],
-    [
-      "Making reliable distributed systems in the presence of software errors (2003) [pdf]",
-      "http://erlang.org/download/armstrong_thesis_2003.pdf"
     ]
   ]
 ]
