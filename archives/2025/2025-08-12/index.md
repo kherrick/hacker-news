@@ -67,6 +67,7 @@
 * [2025-08-12, 12:00:04](https://news.ycombinator.com/item?id=44875137) - [Progress towards universal Copy/Paste shortcuts on Linux](https://mark.stosberg.com/universal-copy-paste/)
 * [2025-08-12, 11:56:52](https://news.ycombinator.com/item?id=44875109) - [Monero appears to be in the midst of a successful 51% attack](https://twitter.com/p3b7_/status/1955173413992984988)
 * [2025-08-12, 11:33:42](https://news.ycombinator.com/item?id=44874945) - [Radicle 1.3.0](https://radicle.xyz/2025/08/12/radicle-1.3.0)
+* [2025-08-12, 11:19:00](https://news.ycombinator.com/item?id=44874838) - [Good Justifications Write Themselves](https://oblique.security/blog/justification-fields/)
 * [2025-08-12, 11:05:59](https://news.ycombinator.com/item?id=44874736) - [Qodo CLI agent scores 71.2% on SWE-bench Verified](https://www.qodo.ai/blog/qodo-command-swe-bench-verified/)
 * [2025-08-12, 08:18:25](https://news.ycombinator.com/item?id=44873721) - [Show HN: Move to dodge the bullets. How long can you survive?](https://dodge.trickle.host)
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting LARGE software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
