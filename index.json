@@ -41,32 +41,12 @@
   ],
   [
     [
-      "2025-08-15, 17:17:08",
-      "https://news.ycombinator.com/item?id=44914980"
-    ],
-    [
-      "Iceland supermarket offering £1 reward for reporting shoplifters",
-      "https://www.bbc.com/news/articles/c707rzen2zvo"
-    ]
-  ],
-  [
-    [
       "2025-08-15, 17:01:23",
       "https://news.ycombinator.com/item?id=44914771"
     ],
     [
       "EasyPost (YC S13) Is Hiring",
       "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 16:11:36",
-      "https://news.ycombinator.com/item?id=44914163"
-    ],
-    [
-      "Steam can't escape the fallout from its censorship controversy",
-      "https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-08-15, 11:32:40",
+      "https://news.ycombinator.com/item?id=44911069"
+    ],
+    [
+      "Court Records Reveal Sig Sauer Knew of Pistol Risks for Years",
+      "https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 06:11:51",
       "https://news.ycombinator.com/item?id=44909133"
     ],
@@ -247,6 +237,16 @@
     [
       "I made a real-time C/C++/Rust build visualizer",
       "https://danielchasehooper.com/posts/syscall-build-snooping/"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 23:00:46",
+      "https://news.ycombinator.com/item?id=44882754"
+    ],
+    [
+      "In-depth analysis on Valorant's Guarded Regions",
+      "https://reversing.info/posts/guardedregions/"
     ]
   ],
   [
