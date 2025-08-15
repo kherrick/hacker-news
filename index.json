@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-15, 04:27:50",
+      "https://news.ycombinator.com/item?id=44908623"
+    ],
+    [
+      "South Park and the Greatest TV Contract Clause",
+      "https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 04:25:59",
       "https://news.ycombinator.com/item?id=44908610"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-08-14, 11:56:20",
-      "https://news.ycombinator.com/item?id=44899339"
-    ],
-    [
-      "New protein therapy shows promise as antidote for carbon monoxide poisoning",
-      "https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 23:03:16",
       "https://news.ycombinator.com/item?id=44894910"
     ],
@@ -237,6 +237,16 @@
     [
       "Show HN: Understanding the Spatial Web Browser Engine",
       "https://m-creativelab.github.io/jsar-runtime/blogs/spatial-browser-engine.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 12:00:04",
+      "https://news.ycombinator.com/item?id=44875137"
+    ],
+    [
+      "Progress towards universal Copy/Paste shortcuts on Linux",
+      "https://mark.stosberg.com/universal-copy-paste/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Making reliable distributed systems in the presence of software errors (2003) [pdf]",
       "http://erlang.org/download/armstrong_thesis_2003.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 01:46:22",
-      "https://news.ycombinator.com/item?id=44860080"
-    ],
-    [
-      "Nyxt: The Emacs-like web browser",
-      "https://lwn.net/Articles/1001773/"
     ]
   ]
 ]
