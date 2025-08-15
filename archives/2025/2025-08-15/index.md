@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 22:10:26](https://news.ycombinator.com/item?id=44917835) - [California unemployment rises to 5.5%, worst in the U.S. as tech falters](https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php)
 * [2025-08-15, 21:53:08](https://news.ycombinator.com/item?id=44917673) - [Israeli unit tasked with smearing Gaza journalists as Hamas fighters – report](https://www.theguardian.com/world/2025/aug/15/israeli-military-unit-reportedly-tasked-with-linking-journalists-in-gaza-to-hamas)
 * [2025-08-15, 21:26:53](https://news.ycombinator.com/item?id=44917450) - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-08-15, 21:11:42](https://news.ycombinator.com/item?id=44917308) - [US F-16s lose out as Thai Air Force seals US$600M deal for Swedish Gripen jets](https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-15, 22:10:26](https://news.ycombinator.com/item?id=44917835) - [California unemployment rises to 5.5%, worst in the U.S. as tech falters](https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php)
 * [2025-08-15, 21:26:53](https://news.ycombinator.com/item?id=44917450) - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-08-15, 21:11:42](https://news.ycombinator.com/item?id=44917308) - [US F-16s lose out as Thai Air Force seals US$600M deal for Swedish Gripen jets](https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets)
 * [2025-08-15, 20:21:27](https://news.ycombinator.com/item?id=44916900) - [Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot](https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/)
@@ -10,7 +11,6 @@
 * [2025-08-15, 17:38:05](https://news.ycombinator.com/item?id=44915206) - [Launch HN: Embedder (YC S25) – Claude code for embedded software](https://news.ycombinator.com/item?id=44915206)
 * [2025-08-15, 17:36:15](https://news.ycombinator.com/item?id=44915187) - [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
 * [2025-08-15, 17:34:54](https://news.ycombinator.com/item?id=44915164) - [Show HN: Edka – Kubernetes clusters on your own Hetzner account](https://edka.io)
-* [2025-08-15, 17:01:40](https://news.ycombinator.com/item?id=44914773) - [It seems like the AI crawlers learned how to solve the Anubis challenges](https://social.anoxinon.de/@Codeberg/115033790447125787)
 * [2025-08-15, 17:01:23](https://news.ycombinator.com/item?id=44914771) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-08-15, 16:10:18](https://news.ycombinator.com/item?id=44914149) - [Bullfrog in the Dungeon](https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/)
 * [2025-08-15, 16:03:36](https://news.ycombinator.com/item?id=44914061) - [Occult books digitized and put online by Amsterdam’s Ritman Library](https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html)
@@ -20,7 +20,6 @@
 * [2025-08-15, 14:44:49](https://news.ycombinator.com/item?id=44913081) - [Model intelligence is no longer the constraint for automation](https://latentintent.substack.com/p/model-intelligence-is-no-longer-the)
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
 * [2025-08-15, 14:17:07](https://news.ycombinator.com/item?id=44912727) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
-* [2025-08-15, 14:10:45](https://news.ycombinator.com/item?id=44912646) - [The Timmy Trap](https://jenson.org/timmy/)
 * [2025-08-15, 13:06:33](https://news.ycombinator.com/item?id=44911941) - [Is air travel getting worse?](https://www.maximum-progress.com/p/is-air-travel-getting-worse)
 * [2025-08-15, 12:31:54](https://news.ycombinator.com/item?id=44911560) - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 * [2025-08-15, 12:14:46](https://news.ycombinator.com/item?id=44911423) - [Open hardware desktop 3D printing is dead?](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
@@ -30,6 +29,7 @@
 * [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
 * [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
 * [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
+* [2025-08-12, 04:53:10](https://news.ycombinator.com/item?id=44872522) - ['Constantine Cavafy' Review: A Poet's Odyssey Within](https://www.wsj.com/arts-culture/books/constantine-cavafy-review-a-poets-odyssey-within-1e341d7c)
 
 ## [Archives](archives/index.md)
 

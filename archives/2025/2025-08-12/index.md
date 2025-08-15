@@ -85,6 +85,7 @@
 * [2025-08-12, 05:52:47](https://news.ycombinator.com/item?id=44872850) - [LLMs' \"simulated reasoning\" abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
 * [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
 * [2025-08-12, 05:03:34](https://news.ycombinator.com/item?id=44872578) - [Galileo's Telescopes: Seeing Is Believing](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
+* [2025-08-12, 04:53:10](https://news.ycombinator.com/item?id=44872522) - ['Constantine Cavafy' Review: A Poet's Odyssey Within](https://www.wsj.com/arts-culture/books/constantine-cavafy-review-a-poets-odyssey-within-1e341d7c)
 * [2025-08-12, 04:08:13](https://news.ycombinator.com/item?id=44872313) - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
 * [2025-08-12, 03:35:52](https://news.ycombinator.com/item?id=44872114) - [From Here?](https://www.dirtyfeed.org/2025/07/from-here/)
 * [2025-08-12, 03:05:22](https://news.ycombinator.com/item?id=44871901) - [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
