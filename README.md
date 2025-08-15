@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-15, 17:38:05](https://news.ycombinator.com/item?id=44915206) - [Launch HN: Embedder (YC S25) – Claude Code for Embedded Software](https://news.ycombinator.com/item?id=44915206)
+* [2025-08-15, 17:34:54](https://news.ycombinator.com/item?id=44915164) - [Show HN: Edka – Deploy Kubernetes on your own Hetzner account in minutes](https://edka.io)
 * [2025-08-15, 17:01:40](https://news.ycombinator.com/item?id=44914773) - [AI crawlers now solves the Anubis challenges crawling Codeberg](https://social.anoxinon.de/@Codeberg/115033790447125787)
 * [2025-08-15, 17:01:23](https://news.ycombinator.com/item?id=44914771) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2025-08-15, 16:52:52](https://news.ycombinator.com/item?id=44914671) - [XAI Was About to Land a Major Government Contract. Then Grok Praised Hitler](https://www.wired.com/story/xai-grok-government-contract-hitler/)
 * [2025-08-15, 16:12:47](https://news.ycombinator.com/item?id=44914176) - [Ransomware crews don't care about your endpoint security they killed it](https://www.theregister.com/2025/08/14/edr_killers_ransomware/)
 * [2025-08-15, 16:11:36](https://news.ycombinator.com/item?id=44914163) - [Steam can't escape the fallout from its censorship controversy](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)
 * [2025-08-15, 16:10:18](https://news.ycombinator.com/item?id=44914149) - [Bullfrog in the Dungeon](https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/)
@@ -15,7 +16,6 @@
 * [2025-08-15, 14:17:07](https://news.ycombinator.com/item?id=44912727) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
 * [2025-08-15, 14:10:45](https://news.ycombinator.com/item?id=44912646) - [The Timmy Trap](https://jenson.org/timmy/)
 * [2025-08-15, 13:06:33](https://news.ycombinator.com/item?id=44911941) - [Is Air Travel Getting Worse? More delays, fewer accidents, and lower prices](https://www.maximum-progress.com/p/is-air-travel-getting-worse)
-* [2025-08-15, 12:32:43](https://news.ycombinator.com/item?id=44911571) - [Non-invasive vagus nerve stimulation and exercise capacity in healthy volunteers](https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false)
 * [2025-08-15, 12:31:54](https://news.ycombinator.com/item?id=44911560) - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 * [2025-08-15, 12:14:46](https://news.ycombinator.com/item?id=44911423) - [Open hardware desktop 3D printing is dead?](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
 * [2025-08-15, 11:46:17](https://news.ycombinator.com/item?id=44911169) - [Fairness is what the powerful 'can get away with' study shows](https://phys.org/news/2025-07-fairness-powerful.html)
