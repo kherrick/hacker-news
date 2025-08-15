@@ -20,6 +20,7 @@
 * [2025-08-14, 15:47:43](https://news.ycombinator.com/item?id=44901853) - [Show HN: OWhisper – Ollama for realtime speech-to-text](https://docs.hyprnote.com/owhisper/what-is-this)
 * [2025-08-14, 15:34:46](https://news.ycombinator.com/item?id=44901683) - [Show HN: I built a free alternative to Adobe Acrobat PDF viewer](https://github.com/embedpdf/embed-pdf-viewer)
 * [2025-08-14, 15:24:53](https://news.ycombinator.com/item?id=44901528) - [Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
+* [2025-08-14, 13:48:24](https://news.ycombinator.com/item?id=44900340) - [Is chain-of-thought AI reasoning a mirage?](https://www.seangoedecke.com/real-reasoning/)
 * [2025-08-14, 13:26:09](https://news.ycombinator.com/item?id=44900116) - [Why LLMs can't really build software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood oxygen monitoring returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
 * [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What does Palantir actually do?](https://www.wired.com/story/palantir-what-the-company-does/)
@@ -28,7 +29,6 @@
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
 * [2025-08-12, 05:03:34](https://news.ycombinator.com/item?id=44872578) - [Galileo's Telescopes: Seeing Is Believing](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
 * [2025-08-11, 20:37:20](https://news.ycombinator.com/item?id=44869188) - [Snapshots of Kids Bike Jumping in the 1970s](https://flashbak.com/snapshots-of-kids-bike-jumping-in-the-1970s-476580/)
-* [2025-08-11, 13:18:52](https://news.ycombinator.com/item?id=44863754) - [The Kuzma Self-Playing Guitar System](https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
 
 ## [Archives](archives/index.md)
