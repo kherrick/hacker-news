@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 17:39:02](https://news.ycombinator.com/item?id=44915220) - [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
 * [2025-08-15, 17:38:05](https://news.ycombinator.com/item?id=44915206) - [Launch HN: Embedder (YC S25) – Claude Code for Embedded Software](https://news.ycombinator.com/item?id=44915206)
 * [2025-08-15, 17:36:15](https://news.ycombinator.com/item?id=44915187) - [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
 * [2025-08-15, 17:34:54](https://news.ycombinator.com/item?id=44915164) - [Show HN: Edka – Deploy Kubernetes on your own Hetzner account in minutes](https://edka.io)
