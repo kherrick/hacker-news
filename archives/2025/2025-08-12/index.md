@@ -47,6 +47,7 @@
 * [2025-08-12, 14:37:19](https://news.ycombinator.com/item?id=44876784) - [GitHub is (again) having issues](https://www.githubstatus.com/incidents/9rfydl2xdqqj)
 * [2025-08-12, 14:12:24](https://news.ycombinator.com/item?id=44876449) - [That viral video of a 'deactivated' Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
 * [2025-08-12, 14:04:40](https://news.ycombinator.com/item?id=44876356) - [Journaling using Nix, Vim and coreutils](https://tangled.sh/@oppi.li/journal)
+* [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
 * [2025-08-12, 13:59:34](https://news.ycombinator.com/item?id=44876289) - [Ask HN: What alternatives to GitHub are you using?](https://news.ycombinator.com/item?id=44876289)
 * [2025-08-12, 13:52:51](https://news.ycombinator.com/item?id=44876205) - [Evaluating GPT5's reasoning ability using the Only Connect game show](https://ingram.tech/posts/evaluating-gpt5-reasoning-ability)
 * [2025-08-12, 13:49:57](https://news.ycombinator.com/item?id=44876174) - [Show HN: Zig-DbC – A design by contract library for Zig](https://news.ycombinator.com/item?id=44876174)
