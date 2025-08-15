@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
 * [2025-08-12, 23:44:53](https://news.ycombinator.com/item?id=44883083) - [Scapegoating the Algorithm](https://asteriskmag.com/issues/11/scapegoating-the-algorithm)
+* [2025-08-12, 23:00:46](https://news.ycombinator.com/item?id=44882754) - [In-depth analysis on Valorant's Guarded Regions](https://reversing.info/posts/guardedregions/)
 * [2025-08-12, 22:29:16](https://news.ycombinator.com/item?id=44882520) - [AWS vs. GCP VPC architecture deep dive](https://kaamvaam.com/infrastructure/aws-gcp-architecture/)
 * [2025-08-12, 22:19:08](https://news.ycombinator.com/item?id=44882441) - [Show HN: Doom port to pure Go – Gore](https://github.com/AndreRenaud/gore)
 * [2025-08-12, 22:18:55](https://news.ycombinator.com/item?id=44882438) - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
