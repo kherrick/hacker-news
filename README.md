@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-15, 13:20:03](https://news.ycombinator.com/item?id=44912085) - [Is Germany on the Brink of Banning Ad Blockers?](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
+* [2025-08-15, 12:31:54](https://news.ycombinator.com/item?id=44911560) - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 * [2025-08-15, 12:31:34](https://news.ycombinator.com/item?id=44911554) - [Submerged Roman bathhouse in Baiae may be part of Cicero's villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
+* [2025-08-15, 12:29:56](https://news.ycombinator.com/item?id=44911538) - [AI‐Induced Dehumanization](https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1441)
 * [2025-08-15, 12:25:01](https://news.ycombinator.com/item?id=44911505) - [With waters at 32C, Mediterranean tropicalization shifts into high gear](https://phys.org/news/2025-08-32c-mediterranean-tropicalization-shifts-high.html)
 * [2025-08-15, 12:14:46](https://news.ycombinator.com/item?id=44911423) - [Open hardware desktop 3D printing is dead – you just don't know it yet](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
 * [2025-08-15, 12:01:09](https://news.ycombinator.com/item?id=44911302) - [Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
@@ -24,10 +26,8 @@
 * [2025-08-14, 15:34:46](https://news.ycombinator.com/item?id=44901683) - [Show HN: I built a free alternative to Adobe Acrobat PDF viewer](https://github.com/embedpdf/embed-pdf-viewer)
 * [2025-08-14, 13:26:09](https://news.ycombinator.com/item?id=44900116) - [Why LLMs can't really build software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood oxygen monitoring returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
-* [2025-08-13, 15:00:25](https://news.ycombinator.com/item?id=44889354) - [Org-social is a decentralized social network that runs on Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 * [2025-08-12, 12:35:07](https://news.ycombinator.com/item?id=44875440) - [Lessons learned from buying an open source repo](https://www.coplay.dev/blog/lessons-learned-from-buying-an-open-source-repo)
-* [2025-08-12, 07:01:01](https://news.ycombinator.com/item?id=44873225) - [Death and What Comes Next (2002)](https://www.lspace.org/books/dawcn/dawcn-english.html)
 * [2025-08-12, 05:03:34](https://news.ycombinator.com/item?id=44872578) - [Galileo's Telescopes: Seeing Is Believing](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
 

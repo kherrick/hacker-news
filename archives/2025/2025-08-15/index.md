@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
 * [2025-08-15, 13:20:03](https://news.ycombinator.com/item?id=44912085) - [Is Germany on the Brink of Banning Ad Blockers?](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
+* [2025-08-15, 12:31:54](https://news.ycombinator.com/item?id=44911560) - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 * [2025-08-15, 12:31:34](https://news.ycombinator.com/item?id=44911554) - [Submerged Roman bathhouse in Baiae may be part of Cicero's villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
+* [2025-08-15, 12:29:56](https://news.ycombinator.com/item?id=44911538) - [AI‐Induced Dehumanization](https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1441)
 * [2025-08-15, 12:25:01](https://news.ycombinator.com/item?id=44911505) - [With waters at 32C, Mediterranean tropicalization shifts into high gear](https://phys.org/news/2025-08-32c-mediterranean-tropicalization-shifts-high.html)
 * [2025-08-15, 12:14:46](https://news.ycombinator.com/item?id=44911423) - [Open hardware desktop 3D printing is dead – you just don't know it yet](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
 * [2025-08-15, 12:03:10](https://news.ycombinator.com/item?id=44911325) - [It is time to 'Correct the Map'](https://correctthemap.org/)
