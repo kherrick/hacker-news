@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-08-15, 05:26:41",
-      "https://news.ycombinator.com/item?id=44908896"
+      "2025-08-15, 06:11:51",
+      "https://news.ycombinator.com/item?id=44909133"
     ],
     [
-      "Lessons learned from implementing SIMD-accelerated algorithms in pure Rust",
-      "https://kerkour.com/rust-simd?hn=1"
+      "Simulating and Visualising the Central Limit Theorem",
+      "https://blog.foletta.net/post/2025-07-14-clt/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Time to End Roundtripping by Big Pharma",
       "https://www.cfr.org/blog/time-end-roundtripping-big-pharma"
+    ]
+  ],
+  [
+    [
+      "2025-08-15, 01:01:13",
+      "https://news.ycombinator.com/item?id=44907531"
+    ],
+    [
+      "I used to know how to write in Japanese",
+      "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Org-social is a decentralized social network that runs on Org Mode",
       "https://github.com/tanrax/org-social"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 12:43:43",
-      "https://news.ycombinator.com/item?id=44875522"
-    ],
-    [
-      "Show HN: Understanding the Spatial Web Browser Engine",
-      "https://m-creativelab.github.io/jsar-runtime/blogs/spatial-browser-engine.html"
     ]
   ],
   [
