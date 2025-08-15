@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 17:01:23](https://news.ycombinator.com/item?id=44914771) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2025-08-15, 16:33:26](https://news.ycombinator.com/item?id=44914435) - [German court declares Karl Marx's teachings unconstitutional](https://harici.com.tr/en/german-court-declares-karl-marxs-teachings-unconstitutional/)
 * [2025-08-15, 16:12:47](https://news.ycombinator.com/item?id=44914176) - [Ransomware crews don't care about your endpoint security they killed it](https://www.theregister.com/2025/08/14/edr_killers_ransomware/)
 * [2025-08-15, 16:11:36](https://news.ycombinator.com/item?id=44914163) - [Steam can't escape the fallout from its censorship controversy](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)
 * [2025-08-15, 16:10:41](https://news.ycombinator.com/item?id=44914153) - [People do not believe that adding supply reduces housing prices](https://www.aeaweb.org/articles?id=10.1257/jep.20241428)
+* [2025-08-15, 16:03:36](https://news.ycombinator.com/item?id=44914061) - [2,178 Occult Books Now Digitized and Put Online](https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html)
 * [2025-08-15, 16:02:25](https://news.ycombinator.com/item?id=44914040) - [I let LLMs write an Elixir NIF in C; it mostly worked](https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/)
 * [2025-08-15, 15:39:12](https://news.ycombinator.com/item?id=44913726) - [Have you ever noticed that people dressed better in the past?](https://twitter.com/dieworkwear/status/1955756224030630264)
 * [2025-08-15, 15:36:06](https://news.ycombinator.com/item?id=44913682) - [Letting inmates run the asylum: Using AI to secure AI](https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/)
@@ -19,6 +22,7 @@
 * [2025-08-15, 14:10:45](https://news.ycombinator.com/item?id=44912646) - [The Timmy Trap](https://jenson.org/timmy/)
 * [2025-08-15, 13:47:03](https://news.ycombinator.com/item?id=44912369) - [White House loyalty rating for companies](https://www.axios.com/2025/08/15/white-house-rating-big-beautiful-bill)
 * [2025-08-15, 13:20:03](https://news.ycombinator.com/item?id=44912085) - [Is Germany on the Brink of Banning Ad Blockers?](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
+* [2025-08-15, 13:06:33](https://news.ycombinator.com/item?id=44911941) - [Is Air Travel Getting Worse? More delays, fewer accidents, and lower prices](https://www.maximum-progress.com/p/is-air-travel-getting-worse)
 * [2025-08-15, 13:01:23](https://news.ycombinator.com/item?id=44911873) - [What Kids Told Us About How to Get Them Off Their Phones](https://www.theatlantic.com/ideas/archive/2025/08/kids-smartphones-play-freedom/683742/)
 * [2025-08-15, 12:31:54](https://news.ycombinator.com/item?id=44911560) - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 * [2025-08-15, 12:31:34](https://news.ycombinator.com/item?id=44911554) - [Submerged Roman bathhouse in Baiae may be part of Cicero's villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
