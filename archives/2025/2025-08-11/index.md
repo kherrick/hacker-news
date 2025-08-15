@@ -19,6 +19,7 @@
 * [2025-08-11, 19:40:47](https://news.ycombinator.com/item?id=44868563) - [Show HN: Real-time privacy protection for smart glasses](https://github.com/PrivacyIsAllYouNeed/protector)
 * [2025-08-11, 19:21:29](https://news.ycombinator.com/item?id=44868353) - [Great Myths #16: The Conflict Thesis](https://historyforatheists.com/2025/08/the-great-myths-16-the-conflict-between-science-and-religion/)
 * [2025-08-11, 18:54:26](https://news.ycombinator.com/item?id=44867997) - [Grok Has Been Suspended](https://x.com/grok)
+* [2025-08-11, 18:42:11](https://news.ycombinator.com/item?id=44867842) - [Rain: Transiently Leaking Data from Public Clouds Using Old Vulnerabilities](https://openreview.net/forum?id=4tDNvQe2G0)
 * [2025-08-11, 18:13:51](https://news.ycombinator.com/item?id=44867494) - [Washington, DC police put under federal control, National Guard deployed](https://www.cnbc.com/2025/08/11/trump-washington-crime-fed-national-guard-homeless.html)
 * [2025-08-11, 18:03:57](https://news.ycombinator.com/item?id=44867374) - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
 * [2025-08-11, 17:59:42](https://news.ycombinator.com/item?id=44867312) - [Future AI bills of $100k/yr per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)

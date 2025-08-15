@@ -8,6 +8,7 @@
 * [2025-08-15, 17:36:15](https://news.ycombinator.com/item?id=44915187) - [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
 * [2025-08-15, 17:34:54](https://news.ycombinator.com/item?id=44915164) - [Show HN: Edka – Deploy Kubernetes on your own Hetzner account in minutes](https://edka.io)
 * [2025-08-15, 17:27:18](https://news.ycombinator.com/item?id=44915090) - [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)
+* [2025-08-15, 17:20:08](https://news.ycombinator.com/item?id=44915015) - [Are We Creating Entrepreneurs or Just Privileged Risk-Takers?](https://luolink.substack.com/p/the-million-dollar-safety-net-how)
 * [2025-08-15, 17:17:08](https://news.ycombinator.com/item?id=44914980) - [Iceland supermarket offering £1 reward for reporting shoplifters](https://www.bbc.com/news/articles/c707rzen2zvo)
 * [2025-08-15, 17:01:40](https://news.ycombinator.com/item?id=44914773) - [AI crawlers now solves the Anubis challenges crawling Codeberg](https://social.anoxinon.de/@Codeberg/115033790447125787)
 * [2025-08-15, 17:01:23](https://news.ycombinator.com/item?id=44914771) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
