@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 10:22:23](https://news.ycombinator.com/item?id=44910589) - [What makes you still work for Meta, when it's clear how toxic the company is?](https://news.ycombinator.com/item?id=44910589)
 * [2025-08-15, 09:10:43](https://news.ycombinator.com/item?id=44910161) - [UK government states that 'safety' act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
 * [2025-08-15, 07:37:13](https://news.ycombinator.com/item?id=44909599) - [Should we remove XSLT from the web platform?](https://github.com/whatwg/html/issues/11523)
 * [2025-08-15, 06:11:51](https://news.ycombinator.com/item?id=44909133) - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)

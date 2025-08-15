@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-15, 10:22:23](https://news.ycombinator.com/item?id=44910589) - [What makes you still work for Meta, when it's clear how toxic the company is?](https://news.ycombinator.com/item?id=44910589)
 * [2025-08-15, 09:10:43](https://news.ycombinator.com/item?id=44910161) - [UK government states that 'safety' act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
 * [2025-08-15, 06:11:51](https://news.ycombinator.com/item?id=44909133) - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
-* [2025-08-15, 04:25:59](https://news.ycombinator.com/item?id=44908610) - [Teenage Engineering's free computer case](https://teenage.engineering/store/computer-2)
 * [2025-08-15, 01:08:42](https://news.ycombinator.com/item?id=44907569) - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
 * [2025-08-15, 01:01:13](https://news.ycombinator.com/item?id=44907531) - [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
 * [2025-08-14, 23:25:51](https://news.ycombinator.com/item?id=44906918) - [The new science of “emergent misalignment”](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
@@ -22,7 +22,6 @@
 * [2025-08-14, 13:48:24](https://news.ycombinator.com/item?id=44900340) - [Is chain-of-thought AI reasoning a mirage?](https://www.seangoedecke.com/real-reasoning/)
 * [2025-08-14, 13:26:09](https://news.ycombinator.com/item?id=44900116) - [Why LLMs can't really build software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood oxygen monitoring returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
-* [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What does Palantir actually do?](https://www.wired.com/story/palantir-what-the-company-does/)
 * [2025-08-13, 15:00:25](https://news.ycombinator.com/item?id=44889354) - [Org-social is a decentralized social network that runs on Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-12, 12:35:07](https://news.ycombinator.com/item?id=44875440) - [Lessons learned from buying an open source repo](https://www.coplay.dev/blog/lessons-learned-from-buying-an-open-source-repo)
 * [2025-08-12, 12:00:04](https://news.ycombinator.com/item?id=44875137) - [Progress towards universal Copy/Paste shortcuts on Linux](https://mark.stosberg.com/universal-copy-paste/)
@@ -30,6 +29,7 @@
 * [2025-08-12, 05:03:34](https://news.ycombinator.com/item?id=44872578) - [Galileo's Telescopes: Seeing Is Believing](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
 * [2025-08-11, 20:37:20](https://news.ycombinator.com/item?id=44869188) - [Snapshots of Kids Bike Jumping in the 1970s](https://flashbak.com/snapshots-of-kids-bike-jumping-in-the-1970s-476580/)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
+* [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
 
 ## [Archives](archives/index.md)
 
