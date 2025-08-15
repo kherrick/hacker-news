@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-15, 20:19:49](https://news.ycombinator.com/item?id=44916887) - [Steve Wozniak:I gave all my Apple wealth away because that's not what I live for](https://m.slashdot.org/story/445414)
 * [2025-08-15, 20:12:13](https://news.ycombinator.com/item?id=44916813) - [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations)
 * [2025-08-15, 19:01:36](https://news.ycombinator.com/item?id=44916233) - [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
 * [2025-08-15, 18:25:02](https://news.ycombinator.com/item?id=44915824) - [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
@@ -12,9 +13,7 @@
 * [2025-08-15, 16:10:41](https://news.ycombinator.com/item?id=44914153) - [The Folk Economics of Housing](https://www.aeaweb.org/articles?id=10.1257/jep.20241428)
 * [2025-08-15, 16:10:18](https://news.ycombinator.com/item?id=44914149) - [Bullfrog in the Dungeon](https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/)
 * [2025-08-15, 16:03:36](https://news.ycombinator.com/item?id=44914061) - [Occult books digitized and put online by Amsterdam’s Ritman Library](https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html)
-* [2025-08-15, 16:02:25](https://news.ycombinator.com/item?id=44914040) - [I let LLMs write an Elixir NIF in C; it mostly worked](https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/)
 * [2025-08-15, 15:36:06](https://news.ycombinator.com/item?id=44913682) - [Using AI to secure AI](https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/)
-* [2025-08-15, 15:34:43](https://news.ycombinator.com/item?id=44913663) - [The electric fence stopped working years ago](https://soonly.com/electric-fences/)
 * [2025-08-15, 15:07:04](https://news.ycombinator.com/item?id=44913359) - [Do Things That Don't Scale (2013)](https://paulgraham.com/ds.html)
 * [2025-08-15, 15:05:02](https://news.ycombinator.com/item?id=44913340) - [The beauty of a text only webpage](https://albanbrooke.com/the-beauty-of-a-text-only-webpage/)
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
@@ -28,6 +27,7 @@
 * [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
 * [2025-08-12, 23:00:46](https://news.ycombinator.com/item?id=44882754) - [In-depth analysis on Valorant's Guarded Regions](https://reversing.info/posts/guardedregions/)
 * [2025-08-12, 16:51:42](https://news.ycombinator.com/item?id=44878887) - [Dexter Cows and Kefir Cheese](https://smallfarmersjournal.com/dexter-cows-and-kefir-cheese/)
+* [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 * [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
 * [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
 
