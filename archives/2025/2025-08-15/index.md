@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 21:11:42](https://news.ycombinator.com/item?id=44917308) - [US F-16s lose out as Thai Air Force seals US$600M deal for Swedish Gripen jets](https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets)
+* [2025-08-15, 20:38:59](https://news.ycombinator.com/item?id=44917011) - [ICE Adds Random Person to Group Chat, Exposes Details of Manhunt in Real-Time](https://www.404media.co/ice-adds-random-person-to-group-chat-exposes-details-of-manhunt-in-real-time/)
 * [2025-08-15, 20:19:49](https://news.ycombinator.com/item?id=44916887) - [Steve Wozniak:I gave all my Apple wealth away because that's not what I live for](https://m.slashdot.org/story/445414)
 * [2025-08-15, 20:12:13](https://news.ycombinator.com/item?id=44916813) - [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations)
 * [2025-08-15, 19:01:36](https://news.ycombinator.com/item?id=44916233) - [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)

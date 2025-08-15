@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-15, 20:19:49](https://news.ycombinator.com/item?id=44916887) - [Steve Wozniak:I gave all my Apple wealth away because that's not what I live for](https://m.slashdot.org/story/445414)
+* [2025-08-15, 21:11:42](https://news.ycombinator.com/item?id=44917308) - [US F-16s lose out as Thai Air Force seals US$600M deal for Swedish Gripen jets](https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets)
+* [2025-08-15, 20:38:59](https://news.ycombinator.com/item?id=44917011) - [ICE Adds Random Person to Group Chat, Exposes Details of Manhunt in Real-Time](https://www.404media.co/ice-adds-random-person-to-group-chat-exposes-details-of-manhunt-in-real-time/)
 * [2025-08-15, 20:12:13](https://news.ycombinator.com/item?id=44916813) - [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations)
 * [2025-08-15, 19:01:36](https://news.ycombinator.com/item?id=44916233) - [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
 * [2025-08-15, 18:25:02](https://news.ycombinator.com/item?id=44915824) - [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
@@ -27,7 +28,6 @@
 * [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
 * [2025-08-12, 23:00:46](https://news.ycombinator.com/item?id=44882754) - [In-depth analysis on Valorant's Guarded Regions](https://reversing.info/posts/guardedregions/)
 * [2025-08-12, 16:51:42](https://news.ycombinator.com/item?id=44878887) - [Dexter Cows and Kefir Cheese](https://smallfarmersjournal.com/dexter-cows-and-kefir-cheese/)
-* [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 * [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
 * [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
 
