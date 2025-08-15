@@ -27,6 +27,7 @@
 * [2025-08-12, 17:01:10](https://news.ycombinator.com/item?id=44879015) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-08-12, 16:59:58](https://news.ycombinator.com/item?id=44878999) - [Claude vs. Gemini: Testing on 1M Tokens of Context](https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window)
 * [2025-08-12, 16:53:37](https://news.ycombinator.com/item?id=44878916) - [How to become your own ISP (WHY2025) [video]](https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp)
+* [2025-08-12, 16:51:42](https://news.ycombinator.com/item?id=44878887) - [Dexter Cows and Kefir Cheese](https://smallfarmersjournal.com/dexter-cows-and-kefir-cheese/)
 * [2025-08-12, 16:42:01](https://news.ycombinator.com/item?id=44878757) - [Writing is power transfer technology](https://danco.substack.com/p/im-joining-a16z)
 * [2025-08-12, 16:40:46](https://news.ycombinator.com/item?id=44878744) - [OpenAI Burns the Boats](https://ethanding.substack.com/p/openai-burns-the-boats)
 * [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from Anywhere](https://github.com/omnara-ai/omnara)
