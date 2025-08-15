@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-15, 17:39:02",
+      "https://news.ycombinator.com/item?id=44915220"
+    ],
+    [
+      "Show HN: JMAP MCP – Email for your agents",
+      "https://github.com/wyattjoh/jmap-mcp"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 17:38:05",
       "https://news.ycombinator.com/item?id=44915206"
     ],
@@ -31,22 +41,12 @@
   ],
   [
     [
-      "2025-08-15, 17:27:18",
-      "https://news.ycombinator.com/item?id=44915090"
+      "2025-08-15, 17:17:08",
+      "https://news.ycombinator.com/item?id=44914980"
     ],
     [
-      "HTTP/1.1 must die: the desync endgame",
-      "https://portswigger.net/research/http1-must-die"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 17:20:08",
-      "https://news.ycombinator.com/item?id=44915015"
-    ],
-    [
-      "Are We Creating Entrepreneurs or Just Privileged Risk-Takers?",
-      "https://luolink.substack.com/p/the-million-dollar-safety-net-how"
+      "Iceland supermarket offering £1 reward for reporting shoplifters",
+      "https://www.bbc.com/news/articles/c707rzen2zvo"
     ]
   ],
   [
@@ -161,12 +161,12 @@
   ],
   [
     [
-      "2025-08-15, 13:06:33",
-      "https://news.ycombinator.com/item?id=44911941"
+      "2025-08-15, 12:32:43",
+      "https://news.ycombinator.com/item?id=44911571"
     ],
     [
-      "Is Air Travel Getting Worse? More delays, fewer accidents, and lower prices",
-      "https://www.maximum-progress.com/p/is-air-travel-getting-worse"
+      "Non-invasive vagus nerve stimulation and exercise capacity in healthy volunteers",
+      "https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "Fairness is what the powerful 'can get away with' study shows",
       "https://phys.org/news/2025-07-fairness-powerful.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 11:32:40",
-      "https://news.ycombinator.com/item?id=44911069"
-    ],
-    [
-      "Court Records Reveal Sig Sauer Knew of Pistol Risks for Years",
-      "https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "We rewrote the Ghostty GTK application",
       "https://mitchellh.com/writing/ghostty-gtk-rewrite"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 16:06:55",
+      "https://news.ycombinator.com/item?id=44902127"
+    ],
+    [
+      "I made a real-time C/C++/Rust build visualizer",
+      "https://danielchasehooper.com/posts/syscall-build-snooping/"
     ]
   ],
   [
