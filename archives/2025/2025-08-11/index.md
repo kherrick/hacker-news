@@ -13,6 +13,7 @@
 * [2025-08-11, 22:21:53](https://news.ycombinator.com/item?id=44870137) - [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
 * [2025-08-11, 21:03:39](https://news.ycombinator.com/item?id=44869448) - [The Interactive Digital Transcription and Analysis Platform (2024)](https://osf.io/preprints/osf/jx3pk_v1)
 * [2025-08-11, 20:50:13](https://news.ycombinator.com/item?id=44869323) - [I've seen 12 people hospitalized after losing touch with reality because of AI](https://twitter.com/KeithSakata/status/1954884361695719474)
+* [2025-08-11, 20:37:20](https://news.ycombinator.com/item?id=44869188) - [Snapshots of Kids Bike Jumping in the 1970s](https://flashbak.com/snapshots-of-kids-bike-jumping-in-the-1970s-476580/)
 * [2025-08-11, 20:37:07](https://news.ycombinator.com/item?id=44869184) - [Debian 13 arrives with major updates for Linux users – what's new in 'Trixie'](https://www.zdnet.com/article/debian-13-arrives-with-major-updates-for-linux-users-whats-new-in-trixie/)
 * [2025-08-11, 19:40:47](https://news.ycombinator.com/item?id=44868563) - [Show HN: Real-time privacy protection for smart glasses](https://github.com/PrivacyIsAllYouNeed/protector)
 * [2025-08-11, 19:21:29](https://news.ycombinator.com/item?id=44868353) - [Great Myths #16: The Conflict Thesis](https://historyforatheists.com/2025/08/the-great-myths-16-the-conflict-between-science-and-religion/)
