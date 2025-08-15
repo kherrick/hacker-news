@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 13:20:03](https://news.ycombinator.com/item?id=44912085) - [Is Germany on the Brink of Banning Ad Blockers?](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
 * [2025-08-15, 12:31:34](https://news.ycombinator.com/item?id=44911554) - [Submerged Roman bathhouse in Baiae may be part of Cicero's villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
+* [2025-08-15, 12:25:01](https://news.ycombinator.com/item?id=44911505) - [With waters at 32C, Mediterranean tropicalization shifts into high gear](https://phys.org/news/2025-08-32c-mediterranean-tropicalization-shifts-high.html)
 * [2025-08-15, 12:14:46](https://news.ycombinator.com/item?id=44911423) - [Open hardware desktop 3D printing is dead – you just don't know it yet](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
 * [2025-08-15, 12:03:10](https://news.ycombinator.com/item?id=44911325) - [It is time to 'Correct the Map'](https://correctthemap.org/)
 * [2025-08-15, 12:01:09](https://news.ycombinator.com/item?id=44911302) - [Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2025-08-15, 11:46:17](https://news.ycombinator.com/item?id=44911169) - [Fairness is what the powerful 'can get away with' study shows](https://phys.org/news/2025-07-fairness-powerful.html)
 * [2025-08-15, 11:32:40](https://news.ycombinator.com/item?id=44911069) - [Court Records Reveal Sig Sauer Knew of Pistol Risks for Years](https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/)
 * [2025-08-15, 11:04:13](https://news.ycombinator.com/item?id=44910848) - [Are you willing to pay $100k a year per developer on AI?](https://www.theregister.com/2025/08/15/are_you_willing_to_pay/)
 * [2025-08-15, 10:42:57](https://news.ycombinator.com/item?id=44910719) - [Some users report their Firefox browser is scoffing CPU power](https://www.theregister.com/2025/08/13/firefox_ai_scoffing_power/)

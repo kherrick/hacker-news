@@ -38,6 +38,7 @@
 * [2025-08-12, 15:19:35](https://news.ycombinator.com/item?id=44877404) - [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
 * [2025-08-12, 15:12:47](https://news.ycombinator.com/item?id=44877292) - [UK government advises deleting emails to save water](https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall)
 * [2025-08-12, 15:07:34](https://news.ycombinator.com/item?id=44877221) - [The ex-CIA agents deciding Facebook's content policy](https://mronline.org/2022/07/14/meet-the-ex-cia-agents-deciding-facebooks-content-policy/)
+* [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 * [2025-08-12, 15:02:03](https://news.ycombinator.com/item?id=44877147) - [Why We Migrated from Neon to PlanetScale](https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/)
 * [2025-08-12, 14:56:53](https://news.ycombinator.com/item?id=44877076) - [Why Are There So Many Rationalist Cults?](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)
 * [2025-08-12, 14:52:54](https://news.ycombinator.com/item?id=44877021) - [Where were you when goo.gl shutdown?](https://jszym.com/blog/archiving_googl/)
