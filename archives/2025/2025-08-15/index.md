@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
 * [2025-08-15, 10:22:23](https://news.ycombinator.com/item?id=44910589) - [What makes you still work for Meta, when it's clear how toxic the company is?](https://news.ycombinator.com/item?id=44910589)
+* [2025-08-15, 10:19:08](https://news.ycombinator.com/item?id=44910562) - [The U.S. grid is so weak, the AI race may be over](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/)
 * [2025-08-15, 09:50:13](https://news.ycombinator.com/item?id=44910393) - [Swiss vs. UK approach to major tranport projects](https://www.freewheeling.info/blog/swiss-hs2)
 * [2025-08-15, 09:10:43](https://news.ycombinator.com/item?id=44910161) - [UK government states that 'safety' act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
 * [2025-08-15, 07:37:13](https://news.ycombinator.com/item?id=44909599) - [Should we remove XSLT from the web platform?](https://github.com/whatwg/html/issues/11523)

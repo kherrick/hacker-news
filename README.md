@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-15, 10:19:08](https://news.ycombinator.com/item?id=44910562) - [The U.S. grid is so weak, the AI race may be over](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/)
 * [2025-08-15, 09:50:13](https://news.ycombinator.com/item?id=44910393) - [Swiss vs. UK approach to major tranport projects](https://www.freewheeling.info/blog/swiss-hs2)
 * [2025-08-15, 09:10:43](https://news.ycombinator.com/item?id=44910161) - [UK government states that 'safety' act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
 * [2025-08-15, 06:11:51](https://news.ycombinator.com/item?id=44909133) - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
@@ -29,7 +30,6 @@
 * [2025-08-12, 05:03:34](https://news.ycombinator.com/item?id=44872578) - [Galileo's Telescopes: Seeing Is Believing](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
 * [2025-08-11, 20:37:20](https://news.ycombinator.com/item?id=44869188) - [Snapshots of Kids Bike Jumping in the 1970s](https://flashbak.com/snapshots-of-kids-bike-jumping-in-the-1970s-476580/)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
-* [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
 
 ## [Archives](archives/index.md)
 
