@@ -57,6 +57,7 @@
 * [2025-08-15, 12:01:09](https://news.ycombinator.com/item?id=44911302) - [Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2025-08-15, 11:46:17](https://news.ycombinator.com/item?id=44911169) - [Fairness is what the powerful 'can get away with' study shows](https://phys.org/news/2025-07-fairness-powerful.html)
 * [2025-08-15, 11:32:40](https://news.ycombinator.com/item?id=44911069) - [Court Records Reveal Sig Sauer Knew of Pistol Risks for Years](https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/)
+* [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-08-15, 11:04:13](https://news.ycombinator.com/item?id=44910848) - [Are you willing to pay $100k a year per developer on AI?](https://www.theregister.com/2025/08/15/are_you_willing_to_pay/)
 * [2025-08-15, 10:42:57](https://news.ycombinator.com/item?id=44910719) - [Some users report their Firefox browser is scoffing CPU power](https://www.theregister.com/2025/08/13/firefox_ai_scoffing_power/)
 * [2025-08-15, 10:22:23](https://news.ycombinator.com/item?id=44910589) - [What makes you still work for Meta, when it's clear how toxic the company is?](https://news.ycombinator.com/item?id=44910589)

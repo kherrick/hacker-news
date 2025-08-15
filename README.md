@@ -25,9 +25,9 @@
 * [2025-08-15, 12:31:54](https://news.ycombinator.com/item?id=44911560) - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 * [2025-08-15, 12:14:46](https://news.ycombinator.com/item?id=44911423) - [Open hardware desktop 3D printing is dead?](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
 * [2025-08-15, 12:13:39](https://news.ycombinator.com/item?id=44911412) - [When the CIA got away with building a heart attack gun](https://wisewolfmedia.substack.com/p/the-investigation-that-should-have)
+* [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-08-15, 00:32:21](https://news.ycombinator.com/item?id=44907358) - [A mind–reading brain implant that comes with password protection](https://www.nature.com/articles/d41586-025-02589-5)
 * [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
-* [2025-08-12, 16:51:42](https://news.ycombinator.com/item?id=44878887) - [Dexter Cows and Kefir Cheese](https://smallfarmersjournal.com/dexter-cows-and-kefir-cheese/)
 * [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
 * [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
 
