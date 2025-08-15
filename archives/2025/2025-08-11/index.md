@@ -38,6 +38,7 @@
 * [2025-08-11, 15:59:08](https://news.ycombinator.com/item?id=44865731) - [Ford reveals breakthrough process for lower priced EVs](https://www.theverge.com/ford-motor-company/757243/ford-ev-truck-breakthrough-model-t)
 * [2025-08-11, 15:53:55](https://news.ycombinator.com/item?id=44865655) - [Beloved by bands and bank robbers, the Ford Transit turns 60](https://www.bbc.com/news/articles/c0j97xegz5no)
 * [2025-08-11, 15:47:48](https://news.ycombinator.com/item?id=44865560) - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
+* [2025-08-11, 15:38:12](https://news.ycombinator.com/item?id=44865400) - [Map of Wales and Pronunciation from Wikipedia](https://www.mapiau.cymru/mapiau/MapLlais/index.html)
 * [2025-08-11, 15:33:02](https://news.ycombinator.com/item?id=44865319) - [Hard Drive Shortage in Canada?](https://www.vogons.org/viewtopic.php?t=107758)
 * [2025-08-11, 15:30:49](https://news.ycombinator.com/item?id=44865290) - [Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
 * [2025-08-11, 15:20:13](https://news.ycombinator.com/item?id=44865140) - [Ford Aims for Revolution with $30k Electric Truck](https://www.thedrive.com/news/ford-aims-for-revolution-with-30000-electric-truck)

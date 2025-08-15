@@ -27,8 +27,8 @@
 * [2025-08-12, 12:43:43](https://news.ycombinator.com/item?id=44875522) - [Show HN: Understanding the Spatial Web Browser Engine](https://m-creativelab.github.io/jsar-runtime/blogs/spatial-browser-engine.html)
 * [2025-08-12, 12:00:04](https://news.ycombinator.com/item?id=44875137) - [Progress towards universal Copy/Paste shortcuts on Linux](https://mark.stosberg.com/universal-copy-paste/)
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
+* [2025-08-11, 15:38:12](https://news.ycombinator.com/item?id=44865400) - [Map of Wales and Pronunciation from Wikipedia](https://www.mapiau.cymru/mapiau/MapLlais/index.html)
 * [2025-08-11, 13:18:52](https://news.ycombinator.com/item?id=44863754) - [The Kuzma Self-Playing Guitar System](https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System)
-* [2025-08-11, 07:18:13](https://news.ycombinator.com/item?id=44861536) - [Homekit-steam-user-switcher: A way to remotely switch Steam users using HomeKit](https://github.com/rcarmo/homekit-steam-user-switcher)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
 
 ## [Archives](archives/index.md)
