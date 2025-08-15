@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
 * [2025-08-15, 17:38:05](https://news.ycombinator.com/item?id=44915206) - [Launch HN: Embedder (YC S25) – Claude Code for Embedded Software](https://news.ycombinator.com/item?id=44915206)
+* [2025-08-15, 17:36:15](https://news.ycombinator.com/item?id=44915187) - [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
 * [2025-08-15, 17:34:54](https://news.ycombinator.com/item?id=44915164) - [Show HN: Edka – Deploy Kubernetes on your own Hetzner account in minutes](https://edka.io)
+* [2025-08-15, 17:27:18](https://news.ycombinator.com/item?id=44915090) - [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)
+* [2025-08-15, 17:17:08](https://news.ycombinator.com/item?id=44914980) - [Iceland supermarket offering £1 reward for reporting shoplifters](https://www.bbc.com/news/articles/c707rzen2zvo)
 * [2025-08-15, 17:01:40](https://news.ycombinator.com/item?id=44914773) - [AI crawlers now solves the Anubis challenges crawling Codeberg](https://social.anoxinon.de/@Codeberg/115033790447125787)
 * [2025-08-15, 17:01:23](https://news.ycombinator.com/item?id=44914771) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-08-15, 16:52:52](https://news.ycombinator.com/item?id=44914671) - [XAI Was About to Land a Major Government Contract. Then Grok Praised Hitler](https://www.wired.com/story/xai-grok-government-contract-hitler/)
@@ -26,6 +29,7 @@
 * [2025-08-15, 14:17:07](https://news.ycombinator.com/item?id=44912727) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
 * [2025-08-15, 14:10:45](https://news.ycombinator.com/item?id=44912646) - [The Timmy Trap](https://jenson.org/timmy/)
 * [2025-08-15, 13:47:03](https://news.ycombinator.com/item?id=44912369) - [White House loyalty rating for companies](https://www.axios.com/2025/08/15/white-house-rating-big-beautiful-bill)
+* [2025-08-15, 13:43:19](https://news.ycombinator.com/item?id=44912324) - [They're Killing the Humanities on Purpose](https://www.chronicle.com/article/theyre-killing-the-humanities-on-purpose)
 * [2025-08-15, 13:20:03](https://news.ycombinator.com/item?id=44912085) - [Is Germany on the Brink of Banning Ad Blockers?](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
 * [2025-08-15, 13:06:33](https://news.ycombinator.com/item?id=44911941) - [Is Air Travel Getting Worse? More delays, fewer accidents, and lower prices](https://www.maximum-progress.com/p/is-air-travel-getting-worse)
 * [2025-08-15, 13:01:23](https://news.ycombinator.com/item?id=44911873) - [What Kids Told Us About How to Get Them Off Their Phones](https://www.theatlantic.com/ideas/archive/2025/08/kids-smartphones-play-freedom/683742/)
