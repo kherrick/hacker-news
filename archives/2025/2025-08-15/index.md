@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 21:53:08](https://news.ycombinator.com/item?id=44917673) - [Israeli unit tasked with smearing Gaza journalists as Hamas fighters – report](https://www.theguardian.com/world/2025/aug/15/israeli-military-unit-reportedly-tasked-with-linking-journalists-in-gaza-to-hamas)
+* [2025-08-15, 21:26:53](https://news.ycombinator.com/item?id=44917450) - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-08-15, 21:11:42](https://news.ycombinator.com/item?id=44917308) - [US F-16s lose out as Thai Air Force seals US$600M deal for Swedish Gripen jets](https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets)
 * [2025-08-15, 20:38:59](https://news.ycombinator.com/item?id=44917011) - [ICE Adds Random Person to Group Chat, Exposes Details of Manhunt in Real-Time](https://www.404media.co/ice-adds-random-person-to-group-chat-exposes-details-of-manhunt-in-real-time/)
 * [2025-08-15, 20:21:27](https://news.ycombinator.com/item?id=44916900) - [Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot](https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/)
@@ -71,3 +73,4 @@
 * [2025-08-15, 01:08:42](https://news.ycombinator.com/item?id=44907569) - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
 * [2025-08-15, 01:01:13](https://news.ycombinator.com/item?id=44907531) - [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
 * [2025-08-15, 00:33:47](https://news.ycombinator.com/item?id=44907366) - [The secret code behind the CIA's Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451)
+* [2025-08-15, 00:32:21](https://news.ycombinator.com/item?id=44907358) - [A mind–reading brain implant that comes with password protection](https://www.nature.com/articles/d41586-025-02589-5)
