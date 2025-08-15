@@ -48,6 +48,7 @@
 * [2025-08-12, 13:59:34](https://news.ycombinator.com/item?id=44876289) - [Ask HN: What alternatives to GitHub are you using?](https://news.ycombinator.com/item?id=44876289)
 * [2025-08-12, 13:52:51](https://news.ycombinator.com/item?id=44876205) - [Evaluating GPT5's reasoning ability using the Only Connect game show](https://ingram.tech/posts/evaluating-gpt5-reasoning-ability)
 * [2025-08-12, 13:49:57](https://news.ycombinator.com/item?id=44876174) - [Show HN: Zig-DbC – A design by contract library for Zig](https://news.ycombinator.com/item?id=44876174)
+* [2025-08-12, 13:44:29](https://news.ycombinator.com/item?id=44876115) - [Stylish Bugs](https://flak.tedunangst.com/post/stylish-bugs)
 * [2025-08-12, 13:39:42](https://news.ycombinator.com/item?id=44876075) - [We keep reinventing CSS, but styling was never the problem](https://denodell.com/blog/we-keep-reinventing-css)
 * [2025-08-12, 13:32:16](https://news.ycombinator.com/item?id=44875992) - [Training language models to be warm and empathetic makes them less reliable](https://arxiv.org/abs/2507.21919)
 * [2025-08-12, 13:30:10](https://news.ycombinator.com/item?id=44875961) - [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
