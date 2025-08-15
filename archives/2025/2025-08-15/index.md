@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 16:12:47](https://news.ycombinator.com/item?id=44914176) - [Ransomware crews don't care about your endpoint security they killed it](https://www.theregister.com/2025/08/14/edr_killers_ransomware/)
 * [2025-08-15, 16:11:36](https://news.ycombinator.com/item?id=44914163) - [Steam can't escape the fallout from its censorship controversy](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)
 * [2025-08-15, 16:10:41](https://news.ycombinator.com/item?id=44914153) - [People do not believe that adding supply reduces housing prices](https://www.aeaweb.org/articles?id=10.1257/jep.20241428)
 * [2025-08-15, 16:02:25](https://news.ycombinator.com/item?id=44914040) - [I let LLMs write an Elixir NIF in C; it mostly worked](https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/)
@@ -14,6 +15,7 @@
 * [2025-08-15, 15:07:04](https://news.ycombinator.com/item?id=44913359) - [Do Things That Don't Scale](https://paulgraham.com/ds.html)
 * [2025-08-15, 15:05:02](https://news.ycombinator.com/item?id=44913340) - [The beauty of a text only webpage](https://albanbrooke.com/the-beauty-of-a-text-only-webpage/)
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
+* [2025-08-15, 14:17:07](https://news.ycombinator.com/item?id=44912727) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
 * [2025-08-15, 14:10:45](https://news.ycombinator.com/item?id=44912646) - [The Timmy Trap](https://jenson.org/timmy/)
 * [2025-08-15, 13:47:03](https://news.ycombinator.com/item?id=44912369) - [White House loyalty rating for companies](https://www.axios.com/2025/08/15/white-house-rating-big-beautiful-bill)
 * [2025-08-15, 13:20:03](https://news.ycombinator.com/item?id=44912085) - [Is Germany on the Brink of Banning Ad Blockers?](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
