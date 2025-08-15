@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 19:01:36](https://news.ycombinator.com/item?id=44916233) - [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
 * [2025-08-15, 17:39:02](https://news.ycombinator.com/item?id=44915220) - [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
 * [2025-08-15, 17:38:05](https://news.ycombinator.com/item?id=44915206) - [Launch HN: Embedder (YC S25) – Claude Code for Embedded Software](https://news.ycombinator.com/item?id=44915206)
 * [2025-08-15, 17:36:15](https://news.ycombinator.com/item?id=44915187) - [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
@@ -41,6 +42,7 @@
 * [2025-08-15, 12:29:56](https://news.ycombinator.com/item?id=44911538) - [AI‐Induced Dehumanization](https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1441)
 * [2025-08-15, 12:25:01](https://news.ycombinator.com/item?id=44911505) - [With waters at 32C, Mediterranean tropicalization shifts into high gear](https://phys.org/news/2025-08-32c-mediterranean-tropicalization-shifts-high.html)
 * [2025-08-15, 12:14:46](https://news.ycombinator.com/item?id=44911423) - [Open hardware desktop 3D printing is dead – you just don't know it yet](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
+* [2025-08-15, 12:13:39](https://news.ycombinator.com/item?id=44911412) - [When the CIA got away with building a heart attack gun](https://wisewolfmedia.substack.com/p/the-investigation-that-should-have)
 * [2025-08-15, 12:03:10](https://news.ycombinator.com/item?id=44911325) - [It is time to 'Correct the Map'](https://correctthemap.org/)
 * [2025-08-15, 12:01:09](https://news.ycombinator.com/item?id=44911302) - [Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2025-08-15, 11:46:17](https://news.ycombinator.com/item?id=44911169) - [Fairness is what the powerful 'can get away with' study shows](https://phys.org/news/2025-07-fairness-powerful.html)
