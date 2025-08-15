@@ -71,6 +71,7 @@
 * [2025-08-12, 08:18:25](https://news.ycombinator.com/item?id=44873721) - [Show HN: Move to dodge the bullets. How long can you survive?](https://dodge.trickle.host)
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting LARGE software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
 * [2025-08-12, 07:19:13](https://news.ycombinator.com/item?id=44873341) - [ForgeFed: ActivityPub-based forge federation protocol](https://forgefed.org)
+* [2025-08-12, 07:01:01](https://news.ycombinator.com/item?id=44873225) - [\"Death and What Comes Next\" by Terry Pratchett](https://www.lspace.org/books/dawcn/dawcn-english.html)
 * [2025-08-12, 07:00:06](https://news.ycombinator.com/item?id=44873222) - [CoLoop (YC S21) Is Hiring AI Engineers in London](https://news.ycombinator.com/item?id=44873222)
 * [2025-08-12, 06:37:56](https://news.ycombinator.com/item?id=44873103) - [KosmicKrisp a Vulkan on Metal Mesa 3D Graphics Driver](https://www.lunarg.com/a-vulkan-on-metal-mesa-3d-graphics-driver/)
 * [2025-08-12, 06:12:32](https://news.ycombinator.com/item?id=44872984) - [rerank-2.5 and rerank-2.5-lite: instruction-following rerankers](https://blog.voyageai.com/2025/08/11/rerank-2-5/)
