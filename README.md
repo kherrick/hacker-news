@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-15, 04:27:50](https://news.ycombinator.com/item?id=44908623) - [South Park and the Greatest TV Contract Clause](https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract)
 * [2025-08-15, 04:25:59](https://news.ycombinator.com/item?id=44908610) - [Teenage Engineering's free computer case](https://teenage.engineering/store/computer-2)
 * [2025-08-15, 01:08:42](https://news.ycombinator.com/item?id=44907569) - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
 * [2025-08-15, 00:33:47](https://news.ycombinator.com/item?id=44907366) - [The secret code behind the CIA's Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451)
@@ -19,17 +20,16 @@
 * [2025-08-14, 13:48:24](https://news.ycombinator.com/item?id=44900340) - [Is chain-of-thought AI reasoning a mirage?](https://www.seangoedecke.com/real-reasoning/)
 * [2025-08-14, 13:26:09](https://news.ycombinator.com/item?id=44900116) - [Why LLMs can't really build software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood oxygen monitoring returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
-* [2025-08-14, 11:56:20](https://news.ycombinator.com/item?id=44899339) - [New protein therapy shows promise as antidote for carbon monoxide poisoning](https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html)
 * [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What does Palantir actually do?](https://www.wired.com/story/palantir-what-the-company-does/)
 * [2025-08-13, 20:34:27](https://news.ycombinator.com/item?id=44893522) - [All Souls exam questions and the limits of machine reasoning](https://resobscura.substack.com/p/all-souls-exam-questions-and-the)
 * [2025-08-13, 15:00:25](https://news.ycombinator.com/item?id=44889354) - [Org-social is a decentralized social network that runs on Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-12, 12:43:43](https://news.ycombinator.com/item?id=44875522) - [Show HN: Understanding the Spatial Web Browser Engine](https://m-creativelab.github.io/jsar-runtime/blogs/spatial-browser-engine.html)
+* [2025-08-12, 12:00:04](https://news.ycombinator.com/item?id=44875137) - [Progress towards universal Copy/Paste shortcuts on Linux](https://mark.stosberg.com/universal-copy-paste/)
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
 * [2025-08-11, 23:31:24](https://news.ycombinator.com/item?id=44870664) - [Lambdas, Nested Functions, and Blocks (2021)](https://thephd.dev/lambdas-nested-functions-block-expressions-oh-my)
 * [2025-08-11, 13:18:52](https://news.ycombinator.com/item?id=44863754) - [The Kuzma Self-Playing Guitar System](https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System)
 * [2025-08-11, 07:18:13](https://news.ycombinator.com/item?id=44861536) - [Homekit-steam-user-switcher: A way to remotely switch Steam users using HomeKit](https://github.com/rcarmo/homekit-steam-user-switcher)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
-* [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
 
 ## [Archives](archives/index.md)
 

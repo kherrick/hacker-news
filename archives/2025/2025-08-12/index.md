@@ -62,6 +62,7 @@
 * [2025-08-12, 12:15:13](https://news.ycombinator.com/item?id=44875270) - [133-year old Kodak says it might have to cease operations](https://www.cnn.com/2025/08/12/business/kodak-survival-warning)
 * [2025-08-12, 12:01:56](https://news.ycombinator.com/item?id=44875154) - [Le Lamp – an open source expressive robot](https://github.com/humancomputerlab/LeLamp)
 * [2025-08-12, 12:00:48](https://news.ycombinator.com/item?id=44875145) - [Depot (YC W23) Is Hiring a Community and Events Manager (Remote)](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager)
+* [2025-08-12, 12:00:04](https://news.ycombinator.com/item?id=44875137) - [Progress towards universal Copy/Paste shortcuts on Linux](https://mark.stosberg.com/universal-copy-paste/)
 * [2025-08-12, 11:56:52](https://news.ycombinator.com/item?id=44875109) - [Monero appears to be in the midst of a successful 51% attack](https://twitter.com/p3b7_/status/1955173413992984988)
 * [2025-08-12, 11:33:42](https://news.ycombinator.com/item?id=44874945) - [Radicle 1.3.0](https://radicle.xyz/2025/08/12/radicle-1.3.0)
 * [2025-08-12, 11:05:59](https://news.ycombinator.com/item?id=44874736) - [Qodo CLI agent scores 71.2% on SWE-bench Verified](https://www.qodo.ai/blog/qodo-command-swe-bench-verified/)
