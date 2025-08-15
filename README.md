@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-15, 05:26:41](https://news.ycombinator.com/item?id=44908896) - [Lessons learned from implementing SIMD-accelerated algorithms in pure Rust](https://kerkour.com/rust-simd?hn=1)
 * [2025-08-15, 04:27:50](https://news.ycombinator.com/item?id=44908623) - [South Park and the greatest TV contract clause](https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract)
 * [2025-08-15, 04:25:59](https://news.ycombinator.com/item?id=44908610) - [Teenage Engineering's free computer case](https://teenage.engineering/store/computer-2)
 * [2025-08-15, 01:08:42](https://news.ycombinator.com/item?id=44907569) - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
@@ -28,7 +29,6 @@
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
 * [2025-08-11, 23:31:24](https://news.ycombinator.com/item?id=44870664) - [Lambdas, Nested Functions, and Blocks (2021)](https://thephd.dev/lambdas-nested-functions-block-expressions-oh-my)
 * [2025-08-11, 13:18:52](https://news.ycombinator.com/item?id=44863754) - [The Kuzma Self-Playing Guitar System](https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System)
-* [2025-08-11, 07:18:13](https://news.ycombinator.com/item?id=44861536) - [Homekit-steam-user-switcher: A way to remotely switch Steam users using HomeKit](https://github.com/rcarmo/homekit-steam-user-switcher)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
 
 ## [Archives](archives/index.md)

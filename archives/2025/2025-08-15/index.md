@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 05:26:41](https://news.ycombinator.com/item?id=44908896) - [Lessons learned from implementing SIMD-accelerated algorithms in pure Rust](https://kerkour.com/rust-simd?hn=1)
 * [2025-08-15, 04:27:50](https://news.ycombinator.com/item?id=44908623) - [South Park and the Greatest TV Contract Clause](https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract)
 * [2025-08-15, 04:25:59](https://news.ycombinator.com/item?id=44908610) - [Teenage Engineering's free computer case](https://teenage.engineering/store/computer-2)
 * [2025-08-15, 01:27:29](https://news.ycombinator.com/item?id=44907660) - [Nobody’s buying homes, nobody’s switching jobs, America’s mobility is stalling](https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc)
