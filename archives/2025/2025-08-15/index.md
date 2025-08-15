@@ -6,6 +6,7 @@
 
 * [2025-08-15, 13:47:03](https://news.ycombinator.com/item?id=44912369) - [White House loyalty rating for companies](https://www.axios.com/2025/08/15/white-house-rating-big-beautiful-bill)
 * [2025-08-15, 13:20:03](https://news.ycombinator.com/item?id=44912085) - [Is Germany on the Brink of Banning Ad Blockers?](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
+* [2025-08-15, 13:01:23](https://news.ycombinator.com/item?id=44911873) - [What Kids Told Us About How to Get Them Off Their Phones](https://www.theatlantic.com/ideas/archive/2025/08/kids-smartphones-play-freedom/683742/)
 * [2025-08-15, 12:31:54](https://news.ycombinator.com/item?id=44911560) - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 * [2025-08-15, 12:31:34](https://news.ycombinator.com/item?id=44911554) - [Submerged Roman bathhouse in Baiae may be part of Cicero's villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
 * [2025-08-15, 12:29:56](https://news.ycombinator.com/item?id=44911538) - [AI‐Induced Dehumanization](https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1441)
