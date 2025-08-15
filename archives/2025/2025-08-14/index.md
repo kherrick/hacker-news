@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 23:25:51](https://news.ycombinator.com/item?id=44906918) - [The new science of “emergent misalignment”](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
+* [2025-08-14, 22:51:16](https://news.ycombinator.com/item?id=44906662) - [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound)
 * [2025-08-14, 22:11:47](https://news.ycombinator.com/item?id=44906305) - [Your Mac Game Is Probably Rendering Blurry](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
 * [2025-08-14, 21:19:00](https://news.ycombinator.com/item?id=44905808) - [We Rewrote the Ghostty GTK Application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
 * [2025-08-14, 21:17:21](https://news.ycombinator.com/item?id=44905791) - [Where Are All the Tourists from 3025?](https://arxiv.org/abs/2508.09157)
