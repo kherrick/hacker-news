@@ -26,7 +26,7 @@
 * [2025-08-13, 15:00:25](https://news.ycombinator.com/item?id=44889354) - [Org-social is a decentralized social network that runs on Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-12, 12:35:07](https://news.ycombinator.com/item?id=44875440) - [Lessons learned from buying an open source repo](https://www.coplay.dev/blog/lessons-learned-from-buying-an-open-source-repo)
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
-* [2025-08-12, 07:01:01](https://news.ycombinator.com/item?id=44873225) - [\"Death and What Comes Next\" by Terry Pratchett](https://www.lspace.org/books/dawcn/dawcn-english.html)
+* [2025-08-12, 07:01:01](https://news.ycombinator.com/item?id=44873225) - [Death and What Comes Next (2002)](https://www.lspace.org/books/dawcn/dawcn-english.html)
 * [2025-08-12, 05:03:34](https://news.ycombinator.com/item?id=44872578) - [Galileo's Telescopes: Seeing Is Believing](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
 * [2025-08-11, 13:18:52](https://news.ycombinator.com/item?id=44863754) - [The Kuzma Self-Playing Guitar System](https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System)
 * [2025-08-11, 04:20:57](https://news.ycombinator.com/item?id=44860732) - [Making reliable distributed systems in the presence of software errors (2003) [pdf]](http://erlang.org/download/armstrong_thesis_2003.pdf)
