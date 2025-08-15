@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-15, 16:12:47",
+      "https://news.ycombinator.com/item?id=44914176"
+    ],
+    [
+      "Ransomware crews don't care about your endpoint security they killed it",
+      "https://www.theregister.com/2025/08/14/edr_killers_ransomware/"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 16:11:36",
       "https://news.ycombinator.com/item?id=44914163"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44913359"
     ],
     [
-      "Do Things That Don't Scale",
+      "Do Things That Don't Scale (2013)",
       "https://paulgraham.com/ds.html"
     ]
   ],
@@ -77,6 +87,16 @@
     [
       "The beauty of a text only webpage",
       "https://albanbrooke.com/the-beauty-of-a-text-only-webpage/"
+    ]
+  ],
+  [
+    [
+      "2025-08-15, 14:17:07",
+      "https://news.ycombinator.com/item?id=44912727"
+    ],
+    [
+      "An interactive guide to sensor fusion with quaternions",
+      "https://quaternion.cafe/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-08-14, 18:19:42",
-      "https://news.ycombinator.com/item?id=44903803"
-    ],
-    [
-      "Steve Wozniak: Life to me was never about accomplishment, but about happiness",
-      "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 16:08:36",
       "https://news.ycombinator.com/item?id=44902148"
     ],
@@ -247,16 +257,6 @@
     [
       "Show HN: OWhisper – Ollama for realtime speech-to-text",
       "https://docs.hyprnote.com/owhisper/what-is-this"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 15:34:46",
-      "https://news.ycombinator.com/item?id=44901683"
-    ],
-    [
-      "Show HN: I built a free alternative to Adobe Acrobat PDF viewer",
-      "https://github.com/embedpdf/embed-pdf-viewer"
     ]
   ],
   [
