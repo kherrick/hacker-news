@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-15, 05:26:41",
+      "https://news.ycombinator.com/item?id=44908896"
+    ],
+    [
+      "Lessons learned from implementing SIMD-accelerated algorithms in pure Rust",
+      "https://kerkour.com/rust-simd?hn=1"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 04:27:50",
       "https://news.ycombinator.com/item?id=44908623"
     ],
@@ -277,16 +287,6 @@
     [
       "The Kuzma Self-Playing Guitar System",
       "https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 07:18:13",
-      "https://news.ycombinator.com/item?id=44861536"
-    ],
-    [
-      "Homekit-steam-user-switcher: A way to remotely switch Steam users using HomeKit",
-      "https://github.com/rcarmo/homekit-steam-user-switcher"
     ]
   ],
   [
