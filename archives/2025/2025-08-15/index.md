@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 15:39:12](https://news.ycombinator.com/item?id=44913726) - [Have you ever noticed that people dressed better in the past?](https://twitter.com/dieworkwear/status/1955756224030630264)
 * [2025-08-15, 15:36:06](https://news.ycombinator.com/item?id=44913682) - [Letting inmates run the asylum: Using AI to secure AI](https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/)
+* [2025-08-15, 15:34:43](https://news.ycombinator.com/item?id=44913663) - [The Electric Fence Stopped Working Years Ago](https://soonly.com/electric-fences/)
 * [2025-08-15, 15:07:04](https://news.ycombinator.com/item?id=44913359) - [Do Things That Don't Scale](https://paulgraham.com/ds.html)
 * [2025-08-15, 15:05:02](https://news.ycombinator.com/item?id=44913340) - [The beauty of a text only webpage](https://albanbrooke.com/the-beauty-of-a-text-only-webpage/)
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
