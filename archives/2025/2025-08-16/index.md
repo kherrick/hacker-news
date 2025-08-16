@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 16:01:30](https://news.ycombinator.com/item?id=44924581) - [Woz: 'I Am the Happiest Person'](https://daringfireball.net/linked/2025/08/15/woz-on-slashdot)
 * [2025-08-16, 15:47:12](https://news.ycombinator.com/item?id=44924461) - [OpenAI Progress](https://progress.openai.com)
 * [2025-08-16, 15:41:47](https://news.ycombinator.com/item?id=44924409) - [Apple Working on All-New Operating System](https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/)
 * [2025-08-16, 15:01:20](https://news.ycombinator.com/item?id=44924055) - [Payment Processor Fun 2025 – Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
