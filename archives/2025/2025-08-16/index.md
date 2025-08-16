@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 21:59:28](https://news.ycombinator.com/item?id=44927222) - [AI apps are like music](https://aimode.substack.com/p/ai-apps-are-like-music)
 * [2025-08-16, 21:12:40](https://news.ycombinator.com/item?id=44926965) - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
+* [2025-08-16, 20:42:28](https://news.ycombinator.com/item?id=44926758) - [Apple's new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
 * [2025-08-16, 19:50:15](https://news.ycombinator.com/item?id=44926414) - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 18:50:07](https://news.ycombinator.com/item?id=44925966) - [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
+* [2025-08-16, 18:37:17](https://news.ycombinator.com/item?id=44925853) - [A Lisp in 99LOC](https://github.com/Robert-van-Engelen/tinylisp)
 * [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
 * [2025-08-16, 18:33:12](https://news.ycombinator.com/item?id=44925822) - [Living with 12 Strangers to Ease a Housing Crunch](http://www.bloomberg.com/news/articles/2025-08-15/cohousing-in-europe-is-helping-ease-the-housing-crunch)
 * [2025-08-16, 18:16:27](https://news.ycombinator.com/item?id=44925716) - [CBP Is Deporting Cruise Ship Crew over CSAM Allegations Without Evidence](https://reason.com/2025/08/13/cbp-is-deporting-cruise-ship-crew-over-child-pornography-allegations-without-evidence/)
