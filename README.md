@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-16, 13:23:10](https://news.ycombinator.com/item?id=44923187) - [Blue-collar jobs are gaining popularity as AI threatens office work](https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249)
-* [2025-08-16, 13:08:04](https://news.ycombinator.com/item?id=44923063) - [Boy riding bubble realizes what he's on, asks for more air](https://www.theregister.com/2025/08/15/boy_riding_bubble_realizes_what/)
 * [2025-08-16, 12:56:19](https://news.ycombinator.com/item?id=44922968) - [Books will soon be obsolete in school](https://shkspr.mobi/blog/2025/08/books-will-soon-be-obsolete-in-school/)
 * [2025-08-16, 12:51:27](https://news.ycombinator.com/item?id=44922929) - [Should You Take Creatine?](https://www.economist.com/science-and-technology/2025/07/11/should-you-take-creatine)
-* [2025-08-16, 12:41:17](https://news.ycombinator.com/item?id=44922819) - [Seagate spins up a raid on a counterfeit hard drive workshop](https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans)
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
 * [2025-08-16, 11:36:27](https://news.ycombinator.com/item?id=44922342) - [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
 * [2025-08-16, 11:34:06](https://news.ycombinator.com/item?id=44922324) - [Open Office Is Giving You Secondhand ADHD](https://floustate.com/blog/open-office-secondhand-adhd)
@@ -22,6 +20,7 @@
 * [2025-08-15, 16:03:36](https://news.ycombinator.com/item?id=44914061) - [Occult books digitized and put online by Amsterdam’s Ritman Library](https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html)
 * [2025-08-15, 15:34:43](https://news.ycombinator.com/item?id=44913663) - [The electric fence stopped working years ago](https://soonly.com/electric-fences/)
 * [2025-08-15, 15:07:04](https://news.ycombinator.com/item?id=44913359) - [Do Things That Don't Scale (2013)](https://paulgraham.com/ds.html)
+* [2025-08-15, 14:44:49](https://news.ycombinator.com/item?id=44913081) - [Model intelligence is no longer the constraint for automation](https://latentintent.substack.com/p/model-intelligence-is-no-longer-the)
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
 * [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How Randomness Improves Algorithms?](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
@@ -30,6 +29,7 @@
 * [2025-08-13, 02:24:18](https://news.ycombinator.com/item?id=44884077) - [Dokploy is the sweet spot between PaaS and EC2](https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy))
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
+* [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
 
 ## [Archives](archives/index.md)
 
