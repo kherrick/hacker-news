@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-08-16, 14:04:12",
+      "https://news.ycombinator.com/item?id=44923543"
+    ],
+    [
+      "Climate Action Tracker",
+      "https://climateactiontracker.org/"
+    ]
+  ],
+  [
+    [
       "2025-08-16, 13:23:10",
       "https://news.ycombinator.com/item?id=44923187"
     ],
     [
       "Blue-collar jobs are gaining popularity as AI threatens office work",
       "https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 13:08:04",
-      "https://news.ycombinator.com/item?id=44923063"
-    ],
-    [
-      "Boy riding bubble realizes what he's on, asks for more air",
-      "https://www.theregister.com/2025/08/15/boy_riding_bubble_realizes_what/"
     ]
   ],
   [
@@ -51,26 +51,6 @@
   ],
   [
     [
-      "2025-08-16, 11:34:06",
-      "https://news.ycombinator.com/item?id=44922324"
-    ],
-    [
-      "Open Office Is Giving You Secondhand ADHD",
-      "https://floustate.com/blog/open-office-secondhand-adhd"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 11:16:30",
-      "https://news.ycombinator.com/item?id=44922241"
-    ],
-    [
-      "Microsoft keeps adding stuff into Windows we don't need",
-      "https://www.theregister.com/2025/08/16/microsoft_windows_features_help_productivity/"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 10:34:35",
       "https://news.ycombinator.com/item?id=44922020"
     ],
@@ -85,18 +65,18 @@
       "https://news.ycombinator.com/item?id=44921945"
     ],
     [
-      "Forget Netflix, Volkswagen locks horsepower behind paid subscription",
+      "Volkswagen locks horsepower behind paid subscription",
       "https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription"
     ]
   ],
   [
     [
-      "2025-08-16, 07:39:32",
-      "https://news.ycombinator.com/item?id=44921142"
+      "2025-08-16, 09:07:49",
+      "https://news.ycombinator.com/item?id=44921609"
     ],
     [
-      "Once Again, Oil States Thwart Agreement on Plastics",
-      "https://e360.yale.edu/digest/global-plastics-treaty"
+      "Pfeilstorch",
+      "https://en.wikipedia.org/wiki/Pfeilstorch"
     ]
   ],
   [
@@ -117,6 +97,16 @@
     [
       "PuTTY has a new website",
       "https://putty.software/"
+    ]
+  ],
+  [
+    [
+      "2025-08-15, 22:34:17",
+      "https://news.ycombinator.com/item?id=44918060"
+    ],
+    [
+      "A privacy VPN you can verify",
+      "https://vp.net/l/en-US/blog/Don%27t-Trust-Verify"
     ]
   ],
   [
@@ -235,18 +225,8 @@
       "https://news.ycombinator.com/item?id=44898560"
     ],
     [
-      "How Randomness Improves Algorithms?",
+      "How randomness improves algorithms (2023)",
       "https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 23:50:06",
-      "https://news.ycombinator.com/item?id=44895263"
-    ],
-    [
-      "Our Paint – A Natural Painting Program",
-      "https://www.wellobserve.com/OurPaint/index_en.html"
     ]
   ],
   [
@@ -267,6 +247,16 @@
     [
       "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
       "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 13:59:23",
+      "https://news.ycombinator.com/item?id=44888548"
+    ],
+    [
+      "Show HN: Prime Number Grid Visualizer",
+      "https://enda.sh/primegrid/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Recto – A Truly 2D Language",
       "https://masatohagiwara.net/recto.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 05:04:21",
+      "https://news.ycombinator.com/item?id=44872584"
+    ],
+    [
+      "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
+      "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/"
     ]
   ]
 ]
