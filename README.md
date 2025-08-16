@@ -25,7 +25,7 @@
 * [2025-08-15, 00:32:21](https://news.ycombinator.com/item?id=44907358) - [A mind–reading brain implant that comes with password protection](https://www.nature.com/articles/d41586-025-02589-5)
 * [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI is different](https://www.antirez.com/news/155)
 * [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
-* [2025-08-13, 12:14:27](https://news.ycombinator.com/item?id=44887490) - [Bird signs and cycles, February, 2024](https://subject.space/projects-static/winter-bird-cycles/)
+* [2025-08-13, 13:28:25](https://news.ycombinator.com/item?id=44888184) - [Prompting by Activation Maximization](https://joecooper.me/blog/activation/)
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 * [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)

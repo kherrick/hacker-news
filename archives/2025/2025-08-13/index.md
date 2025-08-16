@@ -57,6 +57,7 @@
 * [2025-08-13, 13:43:44](https://news.ycombinator.com/item?id=44888368) - [Farmers want California to change its autonomous tractor ban](https://www.nbcnews.com/video/farmers-want-california-to-change-its-autonomous-tractor-ban-244658757726)
 * [2025-08-13, 13:33:45](https://news.ycombinator.com/item?id=44888236) - [When DEF CON partners with the U.S. Army](https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge)
 * [2025-08-13, 13:31:16](https://news.ycombinator.com/item?id=44888210) - [DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls](https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e)
+* [2025-08-13, 13:28:25](https://news.ycombinator.com/item?id=44888184) - [Prompting by Activation Maximization](https://joecooper.me/blog/activation/)
 * [2025-08-13, 13:26:34](https://news.ycombinator.com/item?id=44888167) - [The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
 * [2025-08-13, 13:06:29](https://news.ycombinator.com/item?id=44887965) - [So what's the difference between plotted and printed artwork?](https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork)
 * [2025-08-13, 13:05:42](https://news.ycombinator.com/item?id=44887954) - [Geneva makes public transport temporarily free to combat pollution spike](https://www.reuters.com/sustainability/climate-energy/geneva-makes-public-transport-temporarily-free-combat-pollution-spike-2025-08-13/)
