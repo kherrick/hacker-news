@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-16, 14:04:12](https://news.ycombinator.com/item?id=44923543) - [Climate Action Tracker](https://climateactiontracker.org/)
-* [2025-08-16, 13:23:10](https://news.ycombinator.com/item?id=44923187) - [Blue-collar jobs are gaining popularity as AI threatens office work](https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249)
+* [2025-08-16, 13:48:32](https://news.ycombinator.com/item?id=44923404) - [A Race to Save a Signature American Tree from a Deadly Disease](https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html)
 * [2025-08-16, 12:41:17](https://news.ycombinator.com/item?id=44922819) - [Seagate spins up a raid on a counterfeit hard drive workshop](https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans)
+* [2025-08-16, 12:13:12](https://news.ycombinator.com/item?id=44922571) - [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
-* [2025-08-16, 11:36:27](https://news.ycombinator.com/item?id=44922342) - [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 * [2025-08-16, 10:19:39](https://news.ycombinator.com/item?id=44921945) - [Volkswagen locks horsepower behind paid subscription](https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription)
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
@@ -29,6 +28,7 @@
 * [2025-08-13, 02:24:18](https://news.ycombinator.com/item?id=44884077) - [Dokploy is the sweet spot between PaaS and EC2](https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy))
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
+* [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
 * [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
 
 ## [Archives](archives/index.md)

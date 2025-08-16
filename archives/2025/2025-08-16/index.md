@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
 * [2025-08-16, 14:04:12](https://news.ycombinator.com/item?id=44923543) - [Climate Action Tracker](https://climateactiontracker.org/)
+* [2025-08-16, 13:48:32](https://news.ycombinator.com/item?id=44923404) - [A Race to Save a Signature American Tree from a Deadly Disease](https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html)
 * [2025-08-16, 13:23:10](https://news.ycombinator.com/item?id=44923187) - [Blue-collar jobs are gaining popularity as AI threatens office work](https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249)
 * [2025-08-16, 13:08:04](https://news.ycombinator.com/item?id=44923063) - [Boy riding bubble realizes what he's on, asks for more air](https://www.theregister.com/2025/08/15/boy_riding_bubble_realizes_what/)
 * [2025-08-16, 12:56:19](https://news.ycombinator.com/item?id=44922968) - [Books will soon be obsolete in school](https://shkspr.mobi/blog/2025/08/books-will-soon-be-obsolete-in-school/)
 * [2025-08-16, 12:51:27](https://news.ycombinator.com/item?id=44922929) - [Should You Take Creatine?](https://www.economist.com/science-and-technology/2025/07/11/should-you-take-creatine)
 * [2025-08-16, 12:41:17](https://news.ycombinator.com/item?id=44922819) - [Seagate spins up a raid on a counterfeit hard drive workshop](https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans)
+* [2025-08-16, 12:13:12](https://news.ycombinator.com/item?id=44922571) - [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
 * [2025-08-16, 11:36:27](https://news.ycombinator.com/item?id=44922342) - [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
 * [2025-08-16, 11:35:08](https://news.ycombinator.com/item?id=44922333) - [African Union joins calls to end use of Mercator map that shrinks Africa's size](https://www.theguardian.com/world/2025/aug/15/african-union-true-size-world-map-replace-mercator-version)
