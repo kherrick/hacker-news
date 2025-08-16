@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-08-16, 18:16:27",
+      "https://news.ycombinator.com/item?id=44925716"
+    ],
+    [
+      "CBP Is Deporting Cruise Ship Crew over CSAM Allegations Without Evidence",
+      "https://reason.com/2025/08/13/cbp-is-deporting-cruise-ship-crew-over-child-pornography-allegations-without-evidence/"
+    ]
+  ],
+  [
+    [
+      "2025-08-16, 18:00:33",
+      "https://news.ycombinator.com/item?id=44925597"
+    ],
+    [
+      "Show HN: Lue – Terminal eBook Reader with Text-to-Speech",
+      "https://github.com/superstarryeyes/lue"
+    ]
+  ],
+  [
+    [
+      "2025-08-16, 17:46:32",
+      "https://news.ycombinator.com/item?id=44925476"
+    ],
+    [
+      "ChatGPT Monday",
+      "https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday"
+    ]
+  ],
+  [
+    [
+      "2025-08-16, 17:45:00",
+      "https://news.ycombinator.com/item?id=44925466"
+    ],
+    [
+      "Rust in 2025: Targeting foundational software",
+      "https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/"
+    ]
+  ],
+  [
+    [
+      "2025-08-16, 17:41:58",
+      "https://news.ycombinator.com/item?id=44925438"
+    ],
+    [
+      "Ask HN: Do you still bookmark websites?",
+      "https://news.ycombinator.com/item?id=44925438"
+    ]
+  ],
+  [
+    [
       "2025-08-16, 17:33:08",
       "https://news.ycombinator.com/item?id=44925380"
     ],
@@ -41,22 +91,22 @@
   ],
   [
     [
+      "2025-08-16, 14:49:49",
+      "https://news.ycombinator.com/item?id=44923962"
+    ],
+    [
+      "Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material",
+      "https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/"
+    ]
+  ],
+  [
+    [
       "2025-08-16, 13:54:19",
       "https://news.ycombinator.com/item?id=44923465"
     ],
     [
       "Dicing an Onion, the Mathematically Optimal Way",
       "https://pudding.cool/2025/08/onions/"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 13:48:32",
-      "https://news.ycombinator.com/item?id=44923404"
-    ],
-    [
-      "A Race to Save a Signature American Tree from a Deadly Disease",
-      "https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html"
     ]
   ],
   [
@@ -181,26 +231,6 @@
   ],
   [
     [
-      "2025-08-15, 15:07:04",
-      "https://news.ycombinator.com/item?id=44913359"
-    ],
-    [
-      "Do Things That Don't Scale (2013)",
-      "https://paulgraham.com/ds.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 14:44:49",
-      "https://news.ycombinator.com/item?id=44913081"
-    ],
-    [
-      "Model intelligence is no longer the constraint for automation",
-      "https://latentintent.substack.com/p/model-intelligence-is-no-longer-the"
-    ]
-  ],
-  [
-    [
       "2025-08-15, 14:27:44",
       "https://news.ycombinator.com/item?id=44912861"
     ],
@@ -217,16 +247,6 @@
     [
       "I accidentally became PureGym’s unofficial Apple Wallet developer",
       "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 19:36:57",
-      "https://news.ycombinator.com/item?id=44904667"
-    ],
-    [
-      "Solving the Nostr web clients attack vector",
-      "https://fiatjaf.com/6829ad8b.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Dokploy is the sweet spot between PaaS and EC2",
       "https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy)"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 00:08:33",
-      "https://news.ycombinator.com/item?id=44883256"
-    ],
-    [
-      "Deep-Sea Desalination Pulls Fresh Water from the Depths",
-      "https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 20:47:25",
-      "https://news.ycombinator.com/item?id=44881638"
-    ],
-    [
-      "Low-latency, high-throughput garbage collection",
-      "https://danglingpointers.substack.com/p/low-latency-high-throughput-garbage"
     ]
   ]
 ]
