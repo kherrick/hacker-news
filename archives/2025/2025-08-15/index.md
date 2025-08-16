@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 22:48:45](https://news.ycombinator.com/item?id=44918163) - [Building a watch from scratch in a Brooklyn basement](https://kottke.org/25/08/building-a-watch-from-scratch-in-a-brooklyn-basement)
 * [2025-08-15, 22:34:17](https://news.ycombinator.com/item?id=44918060) - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
 * [2025-08-15, 22:10:26](https://news.ycombinator.com/item?id=44917835) - [California unemployment rises to 5.5%, worst in the U.S. as tech falters](https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php)
 * [2025-08-15, 21:53:08](https://news.ycombinator.com/item?id=44917673) - [Israeli unit tasked with smearing Gaza journalists as Hamas fighters – report](https://www.theguardian.com/world/2025/aug/15/israeli-military-unit-reportedly-tasked-with-linking-journalists-in-gaza-to-hamas)

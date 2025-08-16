@@ -16,6 +16,7 @@
 * [2025-08-13, 19:14:31](https://news.ycombinator.com/item?id=44892580) - [Fuse is 95% cheaper and 10x faster than NFS](https://nilesh-agarwal.com/storage-in-cloud-for-llms-2/)
 * [2025-08-13, 19:07:54](https://news.ycombinator.com/item?id=44892497) - [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)
 * [2025-08-13, 18:52:33](https://news.ycombinator.com/item?id=44892321) - [Job Listing Site Highlighting H-1B Positions So Americans Can Apply](https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404)
+* [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI Is Different](https://www.antirez.com/news/155)
 * [2025-08-13, 18:47:24](https://news.ycombinator.com/item?id=44892254) - [Google Play Store Bans Wallets That Don't Have Banking License](https://www.therage.co/google-play-store-ban-wallets/)
 * [2025-08-13, 18:44:37](https://news.ycombinator.com/item?id=44892223) - [How Silicon Valley can prove it is pro-family](https://www.thenewatlantis.com/publications/how-silicon-valley-can-prove-it-is-pro-family)
 * [2025-08-13, 18:42:49](https://news.ycombinator.com/item?id=44892209) - [PYX: The next step in Python packaging](https://astral.sh/pyx)
