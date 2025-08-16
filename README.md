@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-16, 04:42:51](https://news.ycombinator.com/item?id=44920245) - [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
 * [2025-08-16, 02:39:34](https://news.ycombinator.com/item?id=44919647) - [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
 * [2025-08-15, 22:34:17](https://news.ycombinator.com/item?id=44918060) - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
@@ -18,7 +19,6 @@
 * [2025-08-15, 15:07:04](https://news.ycombinator.com/item?id=44913359) - [Do Things That Don't Scale (2013)](https://paulgraham.com/ds.html)
 * [2025-08-15, 14:44:49](https://news.ycombinator.com/item?id=44913081) - [Model intelligence is no longer the constraint for automation](https://latentintent.substack.com/p/model-intelligence-is-no-longer-the)
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
-* [2025-08-15, 13:06:33](https://news.ycombinator.com/item?id=44911941) - [Is air travel getting worse?](https://www.maximum-progress.com/p/is-air-travel-getting-worse)
 * [2025-08-15, 12:31:54](https://news.ycombinator.com/item?id=44911560) - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 * [2025-08-15, 12:14:46](https://news.ycombinator.com/item?id=44911423) - [Open hardware desktop 3D printing is dead?](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
 * [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
