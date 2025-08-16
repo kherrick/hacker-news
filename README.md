@@ -25,7 +25,7 @@
 * [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI is different](https://www.antirez.com/news/155)
 * [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
 * [2025-08-13, 13:28:25](https://news.ycombinator.com/item?id=44888184) - [Prompting by Activation Maximization](https://joecooper.me/blog/activation/)
-* [2025-08-13, 00:13:26](https://news.ycombinator.com/item?id=44883281) - [Why Metaflow?](https://docs.metaflow.org/introduction/why-metaflow)
+* [2025-08-13, 02:24:18](https://news.ycombinator.com/item?id=44884077) - [Dokploy is the sweet spot between PaaS and EC2](https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy))
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 * [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)

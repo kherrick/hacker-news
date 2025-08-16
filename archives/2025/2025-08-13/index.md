@@ -82,6 +82,7 @@
 * [2025-08-13, 03:26:53](https://news.ycombinator.com/item?id=44884393) - [1948: Catholic Church publishes final edition of “Index Librorum Prohibitorum”](https://historyofinformation.com/detail.php?entryid=856)
 * [2025-08-13, 02:30:30](https://news.ycombinator.com/item?id=44884107) - [GPT-5 is a joke. Will it matter?](https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter)
 * [2025-08-13, 02:26:32](https://news.ycombinator.com/item?id=44884091) - [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
+* [2025-08-13, 02:24:18](https://news.ycombinator.com/item?id=44884077) - [Dokploy is the sweet spot between PaaS and EC2](https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy))
 * [2025-08-13, 02:09:18](https://news.ycombinator.com/item?id=44883987) - [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
 * [2025-08-13, 01:50:17](https://news.ycombinator.com/item?id=44883870) - [Is Meta Scraping the Fediverse for AI?](https://wedistribute.org/2025/08/is-meta-scraping-the-fediverse-for-ai/)
 * [2025-08-13, 01:14:36](https://news.ycombinator.com/item?id=44883634) - [VC-backed company just killed my EU trademark for a small OSS project](https://news.ycombinator.com/item?id=44883634)
