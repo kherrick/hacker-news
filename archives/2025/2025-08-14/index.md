@@ -62,6 +62,7 @@
 * [2025-08-14, 08:11:51](https://news.ycombinator.com/item?id=44897998) - [What I look for in typeface licenses](https://davesmyth.com/typeface-licenses)
 * [2025-08-14, 07:42:57](https://news.ycombinator.com/item?id=44897802) - [Optimizing Your Debian 13 Desktop](https://teejeetech.com/2025/08/14/debian_13_tips/)
 * [2025-08-14, 07:23:34](https://news.ycombinator.com/item?id=44897682) - [AI Efficiency? Give Me a Break](https://luolink.substack.com/p/ai-efficiency-give-me-a-break)
+* [2025-08-14, 06:14:34](https://news.ycombinator.com/item?id=44897255) - [James Baldwin's Apotheosis](https://hudsonreview.com/2025/08/james-baldwins-apotheosis/)
 * [2025-08-14, 05:40:19](https://news.ycombinator.com/item?id=44897098) - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
 * [2025-08-14, 03:44:55](https://news.ycombinator.com/item?id=44896539) - [My AI-Driven Identity Crisis](https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/)
 * [2025-08-14, 03:34:11](https://news.ycombinator.com/item?id=44896489) - [Show HN: Yet Another Memory System for LLM's](https://github.com/trvon/yams)
