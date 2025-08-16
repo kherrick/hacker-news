@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
-* [2025-08-16, 11:35:08](https://news.ycombinator.com/item?id=44922333) - [African Union joins calls to end use of Mercator map that shrinks Africa's size](https://www.theguardian.com/world/2025/aug/15/african-union-true-size-world-map-replace-mercator-version)
+* [2025-08-16, 11:36:27](https://news.ycombinator.com/item?id=44922342) - [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
 * [2025-08-16, 11:34:06](https://news.ycombinator.com/item?id=44922324) - [Open Office Is Giving You Secondhand ADHD](https://floustate.com/blog/open-office-secondhand-adhd)
 * [2025-08-16, 11:16:30](https://news.ycombinator.com/item?id=44922241) - [Microsoft keeps adding stuff into Windows we don't need](https://www.theregister.com/2025/08/16/microsoft_windows_features_help_productivity/)
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
-* [2025-08-16, 10:28:43](https://news.ycombinator.com/item?id=44921985) - [VW introduces monthly subscription to increase car power](https://www.bbc.com/news/articles/c62weyp4qqgo)
 * [2025-08-16, 10:19:39](https://news.ycombinator.com/item?id=44921945) - [Forget Netflix, Volkswagen locks horsepower behind paid subscription](https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription)
 * [2025-08-16, 07:39:32](https://news.ycombinator.com/item?id=44921142) - [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
 * [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
@@ -29,6 +28,7 @@
 * [2025-08-13, 02:24:18](https://news.ycombinator.com/item?id=44884077) - [Dokploy is the sweet spot between PaaS and EC2](https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy))
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
+* [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
 * [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
 
 ## [Archives](archives/index.md)
