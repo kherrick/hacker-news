@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-16, 17:33:08",
+      "https://news.ycombinator.com/item?id=44925380"
+    ],
+    [
+      "Do things that don't scale, and then don't scale",
+      "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156"
+    ]
+  ],
+  [
+    [
+      "2025-08-16, 16:59:51",
+      "https://news.ycombinator.com/item?id=44925123"
+    ],
+    [
+      "Tversky Neural Networks",
+      "https://gonzoml.substack.com/p/tversky-neural-networks"
+    ]
+  ],
+  [
+    [
       "2025-08-16, 16:01:30",
       "https://news.ycombinator.com/item?id=44924581"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-08-15, 17:38:05",
-      "https://news.ycombinator.com/item?id=44915206"
-    ],
-    [
-      "Launch HN: Embedder (YC S25) – Claude code for embedded software",
-      "https://news.ycombinator.com/item?id=44915206"
-    ]
-  ],
-  [
-    [
       "2025-08-15, 17:34:54",
       "https://news.ycombinator.com/item?id=44915164"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2025-08-14, 12:17:18",
+      "https://news.ycombinator.com/item?id=44899516"
+    ],
+    [
+      "A single lock of hair could rewrite what we know about Inca record-keeping",
+      "https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 09:43:53",
       "https://news.ycombinator.com/item?id=44898560"
     ],
@@ -277,26 +297,6 @@
     [
       "Low-latency, high-throughput garbage collection",
       "https://danglingpointers.substack.com/p/low-latency-high-throughput-garbage"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 15:06:08",
-      "https://news.ycombinator.com/item?id=44877201"
-    ],
-    [
-      "Recto – A Truly 2D Language",
-      "https://masatohagiwara.net/recto.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 05:04:21",
-      "https://news.ycombinator.com/item?id=44872584"
-    ],
-    [
-      "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
-      "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/"
     ]
   ]
 ]
