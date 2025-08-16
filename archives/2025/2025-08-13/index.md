@@ -32,6 +32,7 @@
 * [2025-08-13, 17:34:08](https://news.ycombinator.com/item?id=44891336) - [Maga's boss class think they are immune to American carnage](https://pluralistic.net/2025/08/13/then-they-came-for-me/#boss-politics)
 * [2025-08-13, 17:32:03](https://news.ycombinator.com/item?id=44891314) - [How Stock Options Work](https://web.stanford.edu/class/e145/2007_fall/materials/stockoptions.html)
 * [2025-08-13, 17:31:08](https://news.ycombinator.com/item?id=44891302) - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
+* [2025-08-13, 17:30:46](https://news.ycombinator.com/item?id=44891296) - [Implementing a basic equivalent of OpenBSD's pflog in Linux nftables](https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesImplementingAPflog)
 * [2025-08-13, 17:20:39](https://news.ycombinator.com/item?id=44891182) - [U.S. alcohol consumption drops to a 90-year low, new poll finds](https://www.sfchronicle.com/food/wine/article/drink-alcohol-americans-poll-20812180.php)
 * [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
 * [2025-08-13, 17:00:37](https://news.ycombinator.com/item?id=44890956) - [ReadMe (YC W15) Is Hiring a Developer Experience PM](https://readme.com/careers#product-manager-developer-experience)
