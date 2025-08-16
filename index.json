@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-08-16, 13:08:04",
-      "https://news.ycombinator.com/item?id=44923063"
-    ],
-    [
-      "Boy riding bubble realizes what he's on, asks for more air",
-      "https://www.theregister.com/2025/08/15/boy_riding_bubble_realizes_what/"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 12:56:19",
       "https://news.ycombinator.com/item?id=44922968"
     ],
@@ -37,16 +27,6 @@
     [
       "Should You Take Creatine?",
       "https://www.economist.com/science-and-technology/2025/07/11/should-you-take-creatine"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 12:41:17",
-      "https://news.ycombinator.com/item?id=44922819"
-    ],
-    [
-      "Seagate spins up a raid on a counterfeit hard drive workshop",
-      "https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-08-15, 14:44:49",
+      "https://news.ycombinator.com/item?id=44913081"
+    ],
+    [
+      "Model intelligence is no longer the constraint for automation",
+      "https://latentintent.substack.com/p/model-intelligence-is-no-longer-the"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 14:27:44",
       "https://news.ycombinator.com/item?id=44912861"
     ],
@@ -297,6 +287,16 @@
     [
       "Recto – A Truly 2D Language",
       "https://masatohagiwara.net/recto.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 05:04:21",
+      "https://news.ycombinator.com/item?id=44872584"
+    ],
+    [
+      "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
+      "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/"
     ]
   ]
 ]
