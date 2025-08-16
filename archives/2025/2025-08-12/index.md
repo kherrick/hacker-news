@@ -37,6 +37,7 @@
 * [2025-08-12, 16:02:23](https://news.ycombinator.com/item?id=44878147) - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
 * [2025-08-12, 15:54:08](https://news.ycombinator.com/item?id=44878010) - [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22)
 * [2025-08-12, 15:33:51](https://news.ycombinator.com/item?id=44877656) - [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22)
+* [2025-08-12, 15:28:20](https://news.ycombinator.com/item?id=44877567) - [The Role of Feature Normalization in Ijepa](https://github.com/theAdamColton/elucidating-featurenorm-ijepa)
 * [2025-08-12, 15:24:51](https://news.ycombinator.com/item?id=44877512) - [New 3D Laser Scanner Developed for Harvesting Robots](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/3d-laserscan-harvestingrobots/)
 * [2025-08-12, 15:19:35](https://news.ycombinator.com/item?id=44877404) - [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
 * [2025-08-12, 15:12:47](https://news.ycombinator.com/item?id=44877292) - [UK government advises deleting emails to save water](https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall)
