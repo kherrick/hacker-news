@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-16, 21:59:28](https://news.ycombinator.com/item?id=44927222) - [AI apps are like music](https://aimode.substack.com/p/ai-apps-are-like-music)
+* [2025-08-16, 22:04:29](https://news.ycombinator.com/item?id=44927244) - [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
 * [2025-08-16, 21:12:40](https://news.ycombinator.com/item?id=44926965) - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
+* [2025-08-16, 20:46:15](https://news.ycombinator.com/item?id=44926785) - [Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi](http://unsafehttp.benren.au)
 * [2025-08-16, 20:42:28](https://news.ycombinator.com/item?id=44926758) - [Apple's new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
 * [2025-08-16, 19:50:15](https://news.ycombinator.com/item?id=44926414) - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 18:50:07](https://news.ycombinator.com/item?id=44925966) - [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
@@ -24,12 +25,11 @@
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
 * [2025-08-14, 15:21:47](https://news.ycombinator.com/item?id=44901485) - [Remediation the hardest problem in Non-Human Identity Security](https://www.token.security/blog/why-remediation-is-the-hardest-problem-in-nhi-security)
 * [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
-* [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How randomness improves algorithms (2023)](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2025-08-14, 06:14:34](https://news.ycombinator.com/item?id=44897255) - [James Baldwin's Apotheosis](https://hudsonreview.com/2025/08/james-baldwins-apotheosis/)
 * [2025-08-13, 20:01:21](https://news.ycombinator.com/item?id=44893118) - [That 16 Billion Password Story (AKA \"Data Troll\")](https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/)
 * [2025-08-13, 14:47:01](https://news.ycombinator.com/item?id=44889163) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2](https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html)
 * [2025-08-13, 09:09:34](https://news.ycombinator.com/item?id=44886202) - [The Raft Consensus Algorithm (2015)](https://raft.github.io/)
-* [2025-08-13, 02:24:18](https://news.ycombinator.com/item?id=44884077) - [Dokploy is the sweet spot between PaaS and EC2](https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy))
+* [2025-08-13, 06:12:08](https://news.ycombinator.com/item?id=44885127) - [Why Love Matters Most](https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules)
 
 ## [Archives](archives/index.md)
 
