@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-16, 13:48:32](https://news.ycombinator.com/item?id=44923404) - [A Race to Save a Signature American Tree from a Deadly Disease](https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html)
+* [2025-08-16, 13:34:43](https://news.ycombinator.com/item?id=44923277) - [The catfishing scam putting fans and female golfers in danger](https://www.nytimes.com/athletic/6554056/2025/08/15/womens-golf-catfishing-social-media-stalking-cases/)
 * [2025-08-16, 12:41:17](https://news.ycombinator.com/item?id=44922819) - [Seagate spins up a raid on a counterfeit hard drive workshop](https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans)
 * [2025-08-16, 12:13:12](https://news.ycombinator.com/item?id=44922571) - [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 * [2025-08-16, 10:19:39](https://news.ycombinator.com/item?id=44921945) - [Volkswagen locks horsepower behind paid subscription](https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription)
-* [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
 * [2025-08-15, 22:34:17](https://news.ycombinator.com/item?id=44918060) - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)

@@ -6,6 +6,7 @@
 
 * [2025-08-16, 14:04:12](https://news.ycombinator.com/item?id=44923543) - [Climate Action Tracker](https://climateactiontracker.org/)
 * [2025-08-16, 13:48:32](https://news.ycombinator.com/item?id=44923404) - [A Race to Save a Signature American Tree from a Deadly Disease](https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html)
+* [2025-08-16, 13:34:43](https://news.ycombinator.com/item?id=44923277) - [The catfishing scam putting fans and female golfers in danger](https://www.nytimes.com/athletic/6554056/2025/08/15/womens-golf-catfishing-social-media-stalking-cases/)
 * [2025-08-16, 13:23:10](https://news.ycombinator.com/item?id=44923187) - [Blue-collar jobs are gaining popularity as AI threatens office work](https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249)
 * [2025-08-16, 13:08:04](https://news.ycombinator.com/item?id=44923063) - [Boy riding bubble realizes what he's on, asks for more air](https://www.theregister.com/2025/08/15/boy_riding_bubble_realizes_what/)
 * [2025-08-16, 12:56:19](https://news.ycombinator.com/item?id=44922968) - [Books will soon be obsolete in school](https://shkspr.mobi/blog/2025/08/books-will-soon-be-obsolete-in-school/)
