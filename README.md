@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-16, 04:28:37](https://news.ycombinator.com/item?id=44920179) - [America's Stock-Market Dominance Is an Emergency for Europe](https://www.wsj.com/finance/investing/americas-stock-market-dominance-is-an-emergency-for-europe-627b3221)
+* [2025-08-16, 04:28:37](https://news.ycombinator.com/item?id=44920179) - [America's stock-market dominance is an emergency for Europe](https://www.wsj.com/finance/investing/americas-stock-market-dominance-is-an-emergency-for-europe-627b3221)
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
 * [2025-08-16, 02:39:34](https://news.ycombinator.com/item?id=44919647) - [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
 * [2025-08-15, 22:34:17](https://news.ycombinator.com/item?id=44918060) - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
