@@ -15,6 +15,7 @@
 * [2025-08-14, 20:01:33](https://news.ycombinator.com/item?id=44904974) - [Show HN: OSS MCP Security – Don't Blind Trust, Verify](https://github.com/NineSunsInc/mighty-security)
 * [2025-08-14, 19:55:39](https://news.ycombinator.com/item?id=44904893) - [Sam Altman is in damage-control mode after latest ChatGPT release](https://www.cnn.com/2025/08/14/business/chatgpt-rollout-problems)
 * [2025-08-14, 19:53:12](https://news.ycombinator.com/item?id=44904869) - [Airbrush art of the 80s was Chrome-tastic (2015)](https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/)
+* [2025-08-14, 19:36:57](https://news.ycombinator.com/item?id=44904667) - [Solving the Nostr web clients attack vector](https://fiatjaf.com/6829ad8b.html)
 * [2025-08-14, 19:36:53](https://news.ycombinator.com/item?id=44904665) - [Fundamental Flaw of Hustle Culture](https://brodzinski.com/2025/08/ai-hustle-culture.html)
 * [2025-08-14, 18:48:17](https://news.ycombinator.com/item?id=44904113) - [Meta Leaks Part 2: How to Kill a Social Movement](https://archive.org/details/meta_leaks_part_2)
 * [2025-08-14, 18:19:42](https://news.ycombinator.com/item?id=44903803) - [Steve Wozniak: 'I am the happiest person ever' and 'I never sold out'](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
