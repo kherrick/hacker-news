@@ -4,12 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 18:16:27](https://news.ycombinator.com/item?id=44925716) - [CBP Is Deporting Cruise Ship Crew over CSAM Allegations Without Evidence](https://reason.com/2025/08/13/cbp-is-deporting-cruise-ship-crew-over-child-pornography-allegations-without-evidence/)
+* [2025-08-16, 18:00:33](https://news.ycombinator.com/item?id=44925597) - [Show HN: Lue – Terminal eBook Reader with Text-to-Speech](https://github.com/superstarryeyes/lue)
+* [2025-08-16, 17:46:32](https://news.ycombinator.com/item?id=44925476) - [ChatGPT Monday](https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday)
+* [2025-08-16, 17:45:00](https://news.ycombinator.com/item?id=44925466) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
+* [2025-08-16, 17:41:58](https://news.ycombinator.com/item?id=44925438) - [Ask HN: Do you still bookmark websites?](https://news.ycombinator.com/item?id=44925438)
 * [2025-08-16, 17:33:08](https://news.ycombinator.com/item?id=44925380) - [Do things that don't scale, and then don't scale](https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156)
 * [2025-08-16, 16:59:51](https://news.ycombinator.com/item?id=44925123) - [Tversky Neural Networks](https://gonzoml.substack.com/p/tversky-neural-networks)
 * [2025-08-16, 16:01:30](https://news.ycombinator.com/item?id=44924581) - [Woz: 'I Am the Happiest Person'](https://daringfireball.net/linked/2025/08/15/woz-on-slashdot)
 * [2025-08-16, 15:47:12](https://news.ycombinator.com/item?id=44924461) - [OpenAI Progress](https://progress.openai.com)
 * [2025-08-16, 15:41:47](https://news.ycombinator.com/item?id=44924409) - [Apple Working on All-New Operating System](https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/)
 * [2025-08-16, 15:01:20](https://news.ycombinator.com/item?id=44924055) - [Payment Processor Fun 2025 – Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
+* [2025-08-16, 14:49:49](https://news.ycombinator.com/item?id=44923962) - [Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material](https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/)
 * [2025-08-16, 14:49:33](https://news.ycombinator.com/item?id=44923957) - [SpaceX Gets Billions from the Government, Gives Little to Nothing Back in Taxes](https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html)
 * [2025-08-16, 14:22:28](https://news.ycombinator.com/item?id=44923703) - [Satoshi Nakamoto Translated into English Means \"Central Intelligence\"](https://wisewolfmedia.substack.com/p/did-the-cia-create-bitcoin)
 * [2025-08-16, 14:04:12](https://news.ycombinator.com/item?id=44923543) - [Climate Action Tracker](https://climateactiontracker.org/)
