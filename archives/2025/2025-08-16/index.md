@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 14:04:12](https://news.ycombinator.com/item?id=44923543) - [Climate Action Tracker](https://climateactiontracker.org/)
 * [2025-08-16, 13:23:10](https://news.ycombinator.com/item?id=44923187) - [Blue-collar jobs are gaining popularity as AI threatens office work](https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249)
 * [2025-08-16, 13:08:04](https://news.ycombinator.com/item?id=44923063) - [Boy riding bubble realizes what he's on, asks for more air](https://www.theregister.com/2025/08/15/boy_riding_bubble_realizes_what/)
 * [2025-08-16, 12:56:19](https://news.ycombinator.com/item?id=44922968) - [Books will soon be obsolete in school](https://shkspr.mobi/blog/2025/08/books-will-soon-be-obsolete-in-school/)
@@ -18,6 +19,7 @@
 * [2025-08-16, 10:28:43](https://news.ycombinator.com/item?id=44921985) - [VW introduces monthly subscription to increase car power](https://www.bbc.com/news/articles/c62weyp4qqgo)
 * [2025-08-16, 10:19:39](https://news.ycombinator.com/item?id=44921945) - [Forget Netflix, Volkswagen locks horsepower behind paid subscription](https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription)
 * [2025-08-16, 09:50:24](https://news.ycombinator.com/item?id=44921825) - [Anthropic's CEO says in 3-6 months, AI will write 90% of the code (March 2025)](https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3)
+* [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2025-08-16, 07:39:32](https://news.ycombinator.com/item?id=44921142) - [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
 * [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 04:42:51](https://news.ycombinator.com/item?id=44920245) - [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
