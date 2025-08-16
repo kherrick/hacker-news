@@ -87,4 +87,5 @@
 * [2025-08-13, 01:14:36](https://news.ycombinator.com/item?id=44883634) - [VC-backed company just killed my EU trademark for a small OSS project](https://news.ycombinator.com/item?id=44883634)
 * [2025-08-13, 00:51:21](https://news.ycombinator.com/item?id=44883475) - [AI Eroded Doctors' Ability to Spot Cancer Within Months in Study](https://www.bloomberg.com/news/articles/2025-08-12/ai-eroded-doctors-ability-to-spot-cancer-within-months-in-study)
 * [2025-08-13, 00:17:33](https://news.ycombinator.com/item?id=44883304) - [Search all text in New York City](https://www.alltext.nyc/)
+* [2025-08-13, 00:13:26](https://news.ycombinator.com/item?id=44883281) - [Why Metaflow?](https://docs.metaflow.org/introduction/why-metaflow)
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
