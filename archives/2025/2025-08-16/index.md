@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
 * [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
+* [2025-08-16, 18:33:12](https://news.ycombinator.com/item?id=44925822) - [Living with 12 Strangers to Ease a Housing Crunch](http://www.bloomberg.com/news/articles/2025-08-15/cohousing-in-europe-is-helping-ease-the-housing-crunch)
 * [2025-08-16, 18:16:27](https://news.ycombinator.com/item?id=44925716) - [CBP Is Deporting Cruise Ship Crew over CSAM Allegations Without Evidence](https://reason.com/2025/08/13/cbp-is-deporting-cruise-ship-crew-over-child-pornography-allegations-without-evidence/)
 * [2025-08-16, 18:00:33](https://news.ycombinator.com/item?id=44925597) - [Show HN: Lue – Terminal eBook Reader with Text-to-Speech](https://github.com/superstarryeyes/lue)
 * [2025-08-16, 17:57:55](https://news.ycombinator.com/item?id=44925570) - [One person was able to claim 20M IPs, or 9% of all IPv4 hosts](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS/#MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS)
@@ -28,6 +29,7 @@
 * [2025-08-16, 13:08:04](https://news.ycombinator.com/item?id=44923063) - [Boy riding bubble realizes what he's on, asks for more air](https://www.theregister.com/2025/08/15/boy_riding_bubble_realizes_what/)
 * [2025-08-16, 12:56:19](https://news.ycombinator.com/item?id=44922968) - [Books will soon be obsolete in school](https://shkspr.mobi/blog/2025/08/books-will-soon-be-obsolete-in-school/)
 * [2025-08-16, 12:51:27](https://news.ycombinator.com/item?id=44922929) - [Should You Take Creatine?](https://www.economist.com/science-and-technology/2025/07/11/should-you-take-creatine)
+* [2025-08-16, 12:48:13](https://news.ycombinator.com/item?id=44922897) - [European Capitals Are Heating Up](https://public.tableau.com/app/profile/lomska/viz/EuropeanCapitalsAreHeatingUp/EuroHeating)
 * [2025-08-16, 12:41:17](https://news.ycombinator.com/item?id=44922819) - [Seagate spins up a raid on a counterfeit hard drive workshop](https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans)
 * [2025-08-16, 12:13:12](https://news.ycombinator.com/item?id=44922571) - [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
