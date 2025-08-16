@@ -13,6 +13,7 @@
 * [2025-08-12, 21:37:37](https://news.ycombinator.com/item?id=44882084) - [A Suicide Cult's Surviving Members Still Maintain Its 90s Website](https://www.vice.com/en/article/a-suicide-cults-surviving-members-still-maintain-its-90s-website/)
 * [2025-08-12, 21:25:01](https://news.ycombinator.com/item?id=44881977) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 * [2025-08-12, 21:15:11](https://news.ycombinator.com/item?id=44881878) - [Crypto founder Do Kwon pleads guilty to US fraud charges](https://www.ft.com/content/2e6fdc73-1083-48fb-b258-d22fc7ef8ad8)
+* [2025-08-12, 20:47:25](https://news.ycombinator.com/item?id=44881638) - [Low-latency, high-throughput garbage collection](https://danglingpointers.substack.com/p/low-latency-high-throughput-garbage)
 * [2025-08-12, 20:29:23](https://news.ycombinator.com/item?id=44881440) - [Show HN: I accidentally built a startup idea validation tool](https://validationly.com/)
 * [2025-08-12, 20:15:17](https://news.ycombinator.com/item?id=44881287) - [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 * [2025-08-12, 19:53:17](https://news.ycombinator.com/item?id=44881109) - [Print, a one-line BASIC program](https://10print.org)
