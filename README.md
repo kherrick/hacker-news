@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-16, 19:50:15](https://news.ycombinator.com/item?id=44926414) - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 18:50:07](https://news.ycombinator.com/item?id=44925966) - [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
 * [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
-* [2025-08-16, 18:33:12](https://news.ycombinator.com/item?id=44925822) - [Living with 12 Strangers to Ease a Housing Crunch](http://www.bloomberg.com/news/articles/2025-08-15/cohousing-in-europe-is-helping-ease-the-housing-crunch)
 * [2025-08-16, 18:00:33](https://news.ycombinator.com/item?id=44925597) - [Show HN: Lue – Terminal eBook Reader with Text-to-Speech](https://github.com/superstarryeyes/lue)
 * [2025-08-16, 17:57:55](https://news.ycombinator.com/item?id=44925570) - [One person was able to claim 20M IPs, or 9% of all IPv4 hosts](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS/#MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS)
 * [2025-08-16, 17:45:00](https://news.ycombinator.com/item?id=44925466) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)

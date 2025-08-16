@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 19:50:15](https://news.ycombinator.com/item?id=44926414) - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 18:50:07](https://news.ycombinator.com/item?id=44925966) - [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
 * [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
 * [2025-08-16, 18:33:12](https://news.ycombinator.com/item?id=44925822) - [Living with 12 Strangers to Ease a Housing Crunch](http://www.bloomberg.com/news/articles/2025-08-15/cohousing-in-europe-is-helping-ease-the-housing-crunch)
