@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-08-14, 11:44:20",
-      "https://news.ycombinator.com/item?id=44899258"
-    ],
-    [
-      "Document.write",
-      "https://vladimirslepnev.me/write"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 23:11:57",
       "https://news.ycombinator.com/item?id=44894983"
     ],
@@ -237,6 +227,16 @@
     [
       "AI is different",
       "https://www.antirez.com/news/155"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 17:30:46",
+      "https://news.ycombinator.com/item?id=44891296"
+    ],
+    [
+      "Implementing a basic equivalent of OpenBSD's pflog in Linux nftables",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesImplementingAPflog"
     ]
   ],
   [
