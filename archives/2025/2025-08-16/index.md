@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
 * [2025-08-16, 18:16:27](https://news.ycombinator.com/item?id=44925716) - [CBP Is Deporting Cruise Ship Crew over CSAM Allegations Without Evidence](https://reason.com/2025/08/13/cbp-is-deporting-cruise-ship-crew-over-child-pornography-allegations-without-evidence/)
 * [2025-08-16, 18:00:33](https://news.ycombinator.com/item?id=44925597) - [Show HN: Lue – Terminal eBook Reader with Text-to-Speech](https://github.com/superstarryeyes/lue)
+* [2025-08-16, 17:57:55](https://news.ycombinator.com/item?id=44925570) - [One person was able to claim 20M IPs, or 9% of all IPv4 hosts](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS/#MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS)
 * [2025-08-16, 17:46:32](https://news.ycombinator.com/item?id=44925476) - [ChatGPT Monday](https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday)
 * [2025-08-16, 17:45:00](https://news.ycombinator.com/item?id=44925466) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
 * [2025-08-16, 17:41:58](https://news.ycombinator.com/item?id=44925438) - [Ask HN: Do you still bookmark websites?](https://news.ycombinator.com/item?id=44925438)
