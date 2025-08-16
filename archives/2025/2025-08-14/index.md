@@ -47,6 +47,7 @@
 * [2025-08-14, 13:08:16](https://news.ycombinator.com/item?id=44899935) - [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
 * [2025-08-14, 12:38:21](https://news.ycombinator.com/item?id=44899685) - [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
 * [2025-08-14, 12:33:49](https://news.ycombinator.com/item?id=44899639) - [Wholesale prices rose 0.9% in July, more than expected](https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html)
+* [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
 * [2025-08-14, 12:14:21](https://news.ycombinator.com/item?id=44899488) - [Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%](https://www.phoronix.com/news/Linux-ASI-Lower-Overhead)
 * [2025-08-14, 12:04:05](https://news.ycombinator.com/item?id=44899415) - [How to rig elections [video]](https://media.ccc.de/v/why2025-218-how-to-rig-elections)
 * [2025-08-14, 12:00:53](https://news.ycombinator.com/item?id=44899381) - [Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 17:33:08](https://news.ycombinator.com/item?id=44925380) - [Do things that don't scale, and then don't scale](https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156)
+* [2025-08-16, 16:59:51](https://news.ycombinator.com/item?id=44925123) - [Tversky Neural Networks](https://gonzoml.substack.com/p/tversky-neural-networks)
 * [2025-08-16, 16:01:30](https://news.ycombinator.com/item?id=44924581) - [Woz: 'I Am the Happiest Person'](https://daringfireball.net/linked/2025/08/15/woz-on-slashdot)
 * [2025-08-16, 15:47:12](https://news.ycombinator.com/item?id=44924461) - [OpenAI Progress](https://progress.openai.com)
 * [2025-08-16, 15:41:47](https://news.ycombinator.com/item?id=44924409) - [Apple Working on All-New Operating System](https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/)

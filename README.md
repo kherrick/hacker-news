@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-16, 17:33:08](https://news.ycombinator.com/item?id=44925380) - [Do things that don't scale, and then don't scale](https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156)
+* [2025-08-16, 16:59:51](https://news.ycombinator.com/item?id=44925123) - [Tversky Neural Networks](https://gonzoml.substack.com/p/tversky-neural-networks)
 * [2025-08-16, 16:01:30](https://news.ycombinator.com/item?id=44924581) - [Woz: 'I Am the Happiest Person'](https://daringfireball.net/linked/2025/08/15/woz-on-slashdot)
 * [2025-08-16, 15:01:20](https://news.ycombinator.com/item?id=44924055) - [Payment Processor Fun 2025 – Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 * [2025-08-16, 13:54:19](https://news.ycombinator.com/item?id=44923465) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
@@ -13,7 +15,6 @@
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
 * [2025-08-15, 20:07:06](https://news.ycombinator.com/item?id=44916783) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
 * [2025-08-15, 18:25:02](https://news.ycombinator.com/item?id=44915824) - [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
-* [2025-08-15, 17:38:05](https://news.ycombinator.com/item?id=44915206) - [Launch HN: Embedder (YC S25) – Claude code for embedded software](https://news.ycombinator.com/item?id=44915206)
 * [2025-08-15, 17:34:54](https://news.ycombinator.com/item?id=44915164) - [Show HN: Edka – Kubernetes clusters on your own Hetzner account](https://edka.io)
 * [2025-08-15, 16:03:36](https://news.ycombinator.com/item?id=44914061) - [Occult books digitized and put online by Amsterdam’s Ritman Library](https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html)
 * [2025-08-15, 15:34:43](https://news.ycombinator.com/item?id=44913663) - [The electric fence stopped working years ago](https://soonly.com/electric-fences/)
@@ -22,14 +23,13 @@
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
 * [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-08-14, 19:36:57](https://news.ycombinator.com/item?id=44904667) - [Solving the Nostr web clients attack vector](https://fiatjaf.com/6829ad8b.html)
+* [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
 * [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How randomness improves algorithms (2023)](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI is different](https://www.antirez.com/news/155)
 * [2025-08-13, 14:47:01](https://news.ycombinator.com/item?id=44889163) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2](https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html)
 * [2025-08-13, 02:24:18](https://news.ycombinator.com/item?id=44884077) - [Dokploy is the sweet spot between PaaS and EC2](https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy))
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
 * [2025-08-12, 20:47:25](https://news.ycombinator.com/item?id=44881638) - [Low-latency, high-throughput garbage collection](https://danglingpointers.substack.com/p/low-latency-high-throughput-garbage)
-* [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
-* [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
 
 ## [Archives](archives/index.md)
 
