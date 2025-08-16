@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
-* [2025-08-16, 18:33:12](https://news.ycombinator.com/item?id=44925822) - [Living with 12 Strangers to Ease a Housing Crunch](http://www.bloomberg.com/news/articles/2025-08-15/cohousing-in-europe-is-helping-ease-the-housing-crunch)
 * [2025-08-16, 18:00:33](https://news.ycombinator.com/item?id=44925597) - [Show HN: Lue – Terminal eBook Reader with Text-to-Speech](https://github.com/superstarryeyes/lue)
 * [2025-08-16, 17:57:55](https://news.ycombinator.com/item?id=44925570) - [One person was able to claim 20M IPs, or 9% of all IPv4 hosts](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS/#MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS)
 * [2025-08-16, 17:45:00](https://news.ycombinator.com/item?id=44925466) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
@@ -22,6 +21,7 @@
 * [2025-08-15, 20:07:06](https://news.ycombinator.com/item?id=44916783) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
 * [2025-08-15, 17:34:54](https://news.ycombinator.com/item?id=44915164) - [Show HN: Edka – Kubernetes clusters on your own Hetzner account](https://edka.io)
 * [2025-08-15, 16:03:36](https://news.ycombinator.com/item?id=44914061) - [Occult books digitized and put online by Amsterdam’s Ritman Library](https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html)
+* [2025-08-15, 15:34:43](https://news.ycombinator.com/item?id=44913663) - [The electric fence stopped working years ago](https://soonly.com/electric-fences/)
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
 * [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
