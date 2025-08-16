@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2025-08-16, 15:47:12",
-      "https://news.ycombinator.com/item?id=44924461"
-    ],
-    [
-      "OpenAI Progress",
-      "https://progress.openai.com"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 15:41:47",
-      "https://news.ycombinator.com/item?id=44924409"
-    ],
-    [
-      "Apple Working on All-New Operating System",
-      "https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 15:01:20",
       "https://news.ycombinator.com/item?id=44924055"
     ],
@@ -127,16 +107,6 @@
     [
       "PuTTY has a new website",
       "https://putty.software/"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 21:26:53",
-      "https://news.ycombinator.com/item?id=44917450"
-    ],
-    [
-      "TextKit 2 – The Promised Land",
-      "https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/"
     ]
   ],
   [
@@ -297,6 +267,36 @@
     [
       "Deep-Sea Desalination Pulls Fresh Water from the Depths",
       "https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 20:47:25",
+      "https://news.ycombinator.com/item?id=44881638"
+    ],
+    [
+      "Low-latency, high-throughput garbage collection",
+      "https://danglingpointers.substack.com/p/low-latency-high-throughput-garbage"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 15:06:08",
+      "https://news.ycombinator.com/item?id=44877201"
+    ],
+    [
+      "Recto – A Truly 2D Language",
+      "https://masatohagiwara.net/recto.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 05:04:21",
+      "https://news.ycombinator.com/item?id=44872584"
+    ],
+    [
+      "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
+      "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/"
     ]
   ]
 ]
