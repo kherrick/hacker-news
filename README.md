@@ -22,7 +22,7 @@
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
-* [2025-08-14, 15:21:47](https://news.ycombinator.com/item?id=44901485) - [Why Remediation Is the Hardest Problem in NHI Security](https://www.token.security/blog/why-remediation-is-the-hardest-problem-in-nhi-security)
+* [2025-08-14, 15:21:47](https://news.ycombinator.com/item?id=44901485) - [Remediation the hardest problem in Non-Human Identity Security](https://www.token.security/blog/why-remediation-is-the-hardest-problem-in-nhi-security)
 * [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
 * [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How randomness improves algorithms (2023)](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2025-08-14, 06:14:34](https://news.ycombinator.com/item?id=44897255) - [James Baldwin's Apotheosis](https://hudsonreview.com/2025/08/james-baldwins-apotheosis/)
