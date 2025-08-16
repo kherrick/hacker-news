@@ -53,6 +53,7 @@
 * [2025-08-14, 11:44:20](https://news.ycombinator.com/item?id=44899258) - [Document.write](https://vladimirslepnev.me/write)
 * [2025-08-14, 10:55:35](https://news.ycombinator.com/item?id=44898955) - [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-14, 10:51:40](https://news.ycombinator.com/item?id=44898934) - [Meta accessed women's health data from Flo app without consent, says court](https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court)
+* [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How Randomness Improves Algorithms?](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2025-08-14, 08:58:39](https://news.ycombinator.com/item?id=44898300) - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
 * [2025-08-14, 08:56:03](https://news.ycombinator.com/item?id=44898283) - [Social Media Apps Engineered Like Narcotics: The Dopamine Addiction Crisis](https://www.lookatmyprofile.org/blog/social-media-apps-engineered-like-narcotics-the-dopamine-add-1755157203663)
 * [2025-08-14, 08:47:27](https://news.ycombinator.com/item?id=44898242) - [iPhone DevOps](https://clearsky.dev/blog/iphone-devops-ssh/)
