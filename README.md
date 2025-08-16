@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY Has a New Website](https://putty.software/)
 * [2025-08-16, 02:39:34](https://news.ycombinator.com/item?id=44919647) - [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
 * [2025-08-15, 21:26:53](https://news.ycombinator.com/item?id=44917450) - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-08-15, 20:21:27](https://news.ycombinator.com/item?id=44916900) - [Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot](https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/)
@@ -14,7 +15,6 @@
 * [2025-08-15, 16:03:36](https://news.ycombinator.com/item?id=44914061) - [Occult books digitized and put online by Amsterdam’s Ritman Library](https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html)
 * [2025-08-15, 16:02:25](https://news.ycombinator.com/item?id=44914040) - [I let LLMs write an Elixir NIF in C; it mostly worked](https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/)
 * [2025-08-15, 15:07:04](https://news.ycombinator.com/item?id=44913359) - [Do Things That Don't Scale (2013)](https://paulgraham.com/ds.html)
-* [2025-08-15, 14:44:49](https://news.ycombinator.com/item?id=44913081) - [Model intelligence is no longer the constraint for automation](https://latentintent.substack.com/p/model-intelligence-is-no-longer-the)
 * [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
 * [2025-08-15, 14:17:07](https://news.ycombinator.com/item?id=44912727) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
 * [2025-08-15, 13:06:33](https://news.ycombinator.com/item?id=44911941) - [Is air travel getting worse?](https://www.maximum-progress.com/p/is-air-travel-getting-worse)
@@ -24,7 +24,7 @@
 * [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-08-15, 00:32:21](https://news.ycombinator.com/item?id=44907358) - [A mind–reading brain implant that comes with password protection](https://www.nature.com/articles/d41586-025-02589-5)
 * [2025-08-13, 23:19:00](https://news.ycombinator.com/item?id=44895037) - [Secret Messengers: Disseminating Sigint in the Second World War [pdf]](https://media.defense.gov/2025/Jul/25/2003761271/-1/-1/0/SECRET_MESSENGERS.PDF)
-* [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI Is Different](https://www.antirez.com/news/155)
+* [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI is different](https://www.antirez.com/news/155)
 * [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 * [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
