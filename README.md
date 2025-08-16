@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-16, 22:11:09](https://news.ycombinator.com/item?id=44927271) - [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
 * [2025-08-16, 22:04:29](https://news.ycombinator.com/item?id=44927244) - [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
 * [2025-08-16, 21:12:40](https://news.ycombinator.com/item?id=44926965) - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
 * [2025-08-16, 20:46:15](https://news.ycombinator.com/item?id=44926785) - [Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi](http://unsafehttp.benren.au)
@@ -24,7 +25,6 @@
 * [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
 * [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
-* [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How randomness improves algorithms (2023)](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2025-08-14, 06:14:34](https://news.ycombinator.com/item?id=44897255) - [James Baldwin's Apotheosis](https://hudsonreview.com/2025/08/james-baldwins-apotheosis/)
 * [2025-08-13, 20:01:21](https://news.ycombinator.com/item?id=44893118) - [That 16 Billion Password Story (AKA \"Data Troll\")](https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/)
 * [2025-08-13, 14:47:01](https://news.ycombinator.com/item?id=44889163) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2](https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html)

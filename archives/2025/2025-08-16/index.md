@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 22:11:09](https://news.ycombinator.com/item?id=44927271) - [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
 * [2025-08-16, 22:04:29](https://news.ycombinator.com/item?id=44927244) - [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
 * [2025-08-16, 21:59:28](https://news.ycombinator.com/item?id=44927222) - [AI apps are like music](https://aimode.substack.com/p/ai-apps-are-like-music)
 * [2025-08-16, 21:12:40](https://news.ycombinator.com/item?id=44926965) - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
