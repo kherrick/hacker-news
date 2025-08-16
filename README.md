@@ -12,6 +12,7 @@
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
+* [2025-08-15, 22:34:17](https://news.ycombinator.com/item?id=44918060) - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
 * [2025-08-15, 21:26:53](https://news.ycombinator.com/item?id=44917450) - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-08-15, 20:07:06](https://news.ycombinator.com/item?id=44916783) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
 * [2025-08-15, 18:25:02](https://news.ycombinator.com/item?id=44915824) - [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
@@ -29,7 +30,6 @@
 * [2025-08-13, 14:47:01](https://news.ycombinator.com/item?id=44889163) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2](https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html)
 * [2025-08-13, 02:24:18](https://news.ycombinator.com/item?id=44884077) - [Dokploy is the sweet spot between PaaS and EC2](https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy))
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
-* [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 
 ## [Archives](archives/index.md)
 
