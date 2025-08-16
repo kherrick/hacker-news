@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
 * [2025-08-13, 23:51:33](https://news.ycombinator.com/item?id=44895270) - [Igor Babuschkin, a co-founder of xAI, has announced his departure](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
+* [2025-08-13, 23:50:06](https://news.ycombinator.com/item?id=44895263) - [Our Paint – A Natural Painting Program](https://www.wellobserve.com/OurPaint/index_en.html)
 * [2025-08-13, 23:44:18](https://news.ycombinator.com/item?id=44895222) - [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
 * [2025-08-13, 23:19:00](https://news.ycombinator.com/item?id=44895037) - [Secret Messengers: Disseminating Sigint in the Second World War [pdf]](https://media.defense.gov/2025/Jul/25/2003761271/-1/-1/0/SECRET_MESSENGERS.PDF)
 * [2025-08-13, 23:11:57](https://news.ycombinator.com/item?id=44894983) - [Tiny flyers levitate on the Sun's heat alone](https://www.nature.com/articles/d41586-025-02576-w)
