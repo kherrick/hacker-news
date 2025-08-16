@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-16, 15:47:12",
+      "https://news.ycombinator.com/item?id=44924461"
+    ],
+    [
+      "OpenAI Progress",
+      "https://progress.openai.com"
+    ]
+  ],
+  [
+    [
+      "2025-08-16, 15:41:47",
+      "https://news.ycombinator.com/item?id=44924409"
+    ],
+    [
+      "Apple Working on All-New Operating System",
+      "https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/"
+    ]
+  ],
+  [
+    [
       "2025-08-16, 15:01:20",
       "https://news.ycombinator.com/item?id=44924055"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-08-15, 22:34:17",
-      "https://news.ycombinator.com/item?id=44918060"
-    ],
-    [
-      "A privacy VPN you can verify",
-      "https://vp.net/l/en-US/blog/Don%27t-Trust-Verify"
-    ]
-  ],
-  [
-    [
       "2025-08-15, 21:26:53",
       "https://news.ycombinator.com/item?id=44917450"
     ],
@@ -157,16 +167,6 @@
     [
       "Show HN: Edka – Kubernetes clusters on your own Hetzner account",
       "https://edka.io"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 16:10:18",
-      "https://news.ycombinator.com/item?id=44914149"
-    ],
-    [
-      "Bullfrog in the Dungeon",
-      "https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-08-14, 19:36:57",
+      "https://news.ycombinator.com/item?id=44904667"
+    ],
+    [
+      "Solving the Nostr web clients attack vector",
+      "https://fiatjaf.com/6829ad8b.html"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 09:43:53",
       "https://news.ycombinator.com/item?id=44898560"
     ],
@@ -287,16 +297,6 @@
     [
       "Recto – A Truly 2D Language",
       "https://masatohagiwara.net/recto.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 05:04:21",
-      "https://news.ycombinator.com/item?id=44872584"
-    ],
-    [
-      "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
-      "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/"
     ]
   ]
 ]
