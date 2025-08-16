@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-15, 22:48:45](https://news.ycombinator.com/item?id=44918163) - [Building a watch from scratch in a Brooklyn basement](https://kottke.org/25/08/building-a-watch-from-scratch-in-a-brooklyn-basement)
+* [2025-08-16, 02:39:34](https://news.ycombinator.com/item?id=44919647) - [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
 * [2025-08-15, 21:26:53](https://news.ycombinator.com/item?id=44917450) - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-08-15, 20:21:27](https://news.ycombinator.com/item?id=44916900) - [Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot](https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/)
 * [2025-08-15, 20:12:13](https://news.ycombinator.com/item?id=44916813) - [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations)
@@ -23,9 +23,9 @@
 * [2025-08-15, 12:13:39](https://news.ycombinator.com/item?id=44911412) - [When the CIA got away with building a heart attack gun](https://wisewolfmedia.substack.com/p/the-investigation-that-should-have)
 * [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-08-15, 00:32:21](https://news.ycombinator.com/item?id=44907358) - [A mind–reading brain implant that comes with password protection](https://www.nature.com/articles/d41586-025-02589-5)
+* [2025-08-13, 23:19:00](https://news.ycombinator.com/item?id=44895037) - [Secret Messengers: Disseminating Sigint in the Second World War [pdf]](https://media.defense.gov/2025/Jul/25/2003761271/-1/-1/0/SECRET_MESSENGERS.PDF)
 * [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI Is Different](https://www.antirez.com/news/155)
 * [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
-* [2025-08-12, 15:28:20](https://news.ycombinator.com/item?id=44877567) - [The Role of Feature Normalization in Ijepa](https://github.com/theAdamColton/elucidating-featurenorm-ijepa)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 * [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
 * [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
