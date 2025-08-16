@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 21:12:40](https://news.ycombinator.com/item?id=44926965) - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
 * [2025-08-16, 19:50:15](https://news.ycombinator.com/item?id=44926414) - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 18:50:07](https://news.ycombinator.com/item?id=44925966) - [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
 * [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)

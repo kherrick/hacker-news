@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-16, 21:12:40](https://news.ycombinator.com/item?id=44926965) - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
 * [2025-08-16, 19:50:15](https://news.ycombinator.com/item?id=44926414) - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 18:50:07](https://news.ycombinator.com/item?id=44925966) - [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
 * [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
@@ -8,7 +9,7 @@
 * [2025-08-16, 17:45:00](https://news.ycombinator.com/item?id=44925466) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
 * [2025-08-16, 17:33:08](https://news.ycombinator.com/item?id=44925380) - [Do things that don't scale, and then don't scale](https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156)
 * [2025-08-16, 16:59:51](https://news.ycombinator.com/item?id=44925123) - [Tversky Neural Networks](https://gonzoml.substack.com/p/tversky-neural-networks)
-* [2025-08-16, 15:01:20](https://news.ycombinator.com/item?id=44924055) - [Payment Processor Fun 2025 – Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
+* [2025-08-16, 15:01:20](https://news.ycombinator.com/item?id=44924055) - [Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 * [2025-08-16, 13:54:19](https://news.ycombinator.com/item?id=44923465) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
 * [2025-08-16, 12:13:12](https://news.ycombinator.com/item?id=44922571) - [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
@@ -20,7 +21,6 @@
 * [2025-08-15, 17:34:54](https://news.ycombinator.com/item?id=44915164) - [Show HN: Edka – Kubernetes clusters on your own Hetzner account](https://edka.io)
 * [2025-08-15, 16:03:36](https://news.ycombinator.com/item?id=44914061) - [Occult books digitized and put online by Amsterdam’s Ritman Library](https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html)
 * [2025-08-15, 15:34:43](https://news.ycombinator.com/item?id=44913663) - [The electric fence stopped working years ago](https://soonly.com/electric-fences/)
-* [2025-08-15, 14:27:44](https://news.ycombinator.com/item?id=44912861) - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
 * [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
 * [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How randomness improves algorithms (2023)](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
