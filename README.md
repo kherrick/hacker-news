@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-16, 04:42:51](https://news.ycombinator.com/item?id=44920245) - [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
 * [2025-08-16, 02:39:34](https://news.ycombinator.com/item?id=44919647) - [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
 * [2025-08-15, 22:34:17](https://news.ycombinator.com/item?id=44918060) - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
@@ -26,6 +25,7 @@
 * [2025-08-13, 23:19:00](https://news.ycombinator.com/item?id=44895037) - [Secret Messengers: Disseminating Sigint in the Second World War [pdf]](https://media.defense.gov/2025/Jul/25/2003761271/-1/-1/0/SECRET_MESSENGERS.PDF)
 * [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI is different](https://www.antirez.com/news/155)
 * [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
+* [2025-08-13, 12:14:27](https://news.ycombinator.com/item?id=44887490) - [Bird signs and cycles, February, 2024](https://subject.space/projects-static/winter-bird-cycles/)
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
 * [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
