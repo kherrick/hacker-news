@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-16, 13:23:10](https://news.ycombinator.com/item?id=44923187) - [Blue-collar jobs are gaining popularity as AI threatens office work](https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249)
-* [2025-08-16, 12:56:19](https://news.ycombinator.com/item?id=44922968) - [Books will soon be obsolete in school](https://shkspr.mobi/blog/2025/08/books-will-soon-be-obsolete-in-school/)
-* [2025-08-16, 12:51:27](https://news.ycombinator.com/item?id=44922929) - [Should You Take Creatine?](https://www.economist.com/science-and-technology/2025/07/11/should-you-take-creatine)
+* [2025-08-16, 13:08:04](https://news.ycombinator.com/item?id=44923063) - [Boy riding bubble realizes what he's on, asks for more air](https://www.theregister.com/2025/08/15/boy_riding_bubble_realizes_what/)
+* [2025-08-16, 12:41:17](https://news.ycombinator.com/item?id=44922819) - [Seagate spins up a raid on a counterfeit hard drive workshop](https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans)
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
 * [2025-08-16, 11:36:27](https://news.ycombinator.com/item?id=44922342) - [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
 * [2025-08-16, 11:34:06](https://news.ycombinator.com/item?id=44922324) - [Open Office Is Giving You Secondhand ADHD](https://floustate.com/blog/open-office-secondhand-adhd)
@@ -10,7 +10,7 @@
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 * [2025-08-16, 10:19:39](https://news.ycombinator.com/item?id=44921945) - [Forget Netflix, Volkswagen locks horsepower behind paid subscription](https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription)
 * [2025-08-16, 07:39:32](https://news.ycombinator.com/item?id=44921142) - [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
-* [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
+* [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY has a new website](https://putty.software/)
 * [2025-08-15, 21:26:53](https://news.ycombinator.com/item?id=44917450) - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-08-15, 20:07:06](https://news.ycombinator.com/item?id=44916783) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
@@ -26,10 +26,10 @@
 * [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How Randomness Improves Algorithms?](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2025-08-13, 23:50:06](https://news.ycombinator.com/item?id=44895263) - [Our Paint – A Natural Painting Program](https://www.wellobserve.com/OurPaint/index_en.html)
 * [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI is different](https://www.antirez.com/news/155)
+* [2025-08-13, 14:47:01](https://news.ycombinator.com/item?id=44889163) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2](https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html)
 * [2025-08-13, 02:24:18](https://news.ycombinator.com/item?id=44884077) - [Dokploy is the sweet spot between PaaS and EC2](https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy))
 * [2025-08-13, 00:08:33](https://news.ycombinator.com/item?id=44883256) - [Deep-Sea Desalination Pulls Fresh Water from the Depths](https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
-* [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
 
 ## [Archives](archives/index.md)
 
