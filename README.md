@@ -13,6 +13,7 @@
 * [2025-08-16, 21:12:40](https://news.ycombinator.com/item?id=44926965) - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
 * [2025-08-16, 19:50:15](https://news.ycombinator.com/item?id=44926414) - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 18:37:17](https://news.ycombinator.com/item?id=44925853) - [A Lisp in 99LOC](https://github.com/Robert-van-Engelen/tinylisp)
+* [2025-08-16, 17:33:08](https://news.ycombinator.com/item?id=44925380) - [Do things that don't scale, and then don't scale](https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156)
 * [2025-08-16, 16:59:51](https://news.ycombinator.com/item?id=44925123) - [Tversky Neural Networks](https://gonzoml.substack.com/p/tversky-neural-networks)
 * [2025-08-16, 15:47:12](https://news.ycombinator.com/item?id=44924461) - [OpenAI Progress](https://progress.openai.com)
 * [2025-08-16, 13:54:19](https://news.ycombinator.com/item?id=44923465) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
@@ -20,7 +21,7 @@
 * [2025-08-16, 11:44:42](https://news.ycombinator.com/item?id=44922383) - [Eliminating JavaScript cold starts on AWS Lambda](https://goose.icu/lambda/)
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
-* [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
+* [2025-08-14, 18:30:27](https://news.ycombinator.com/item?id=44903923) - [Running Wayland Clients as Non-Root Users on Yocto](https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/)
 * [2025-08-14, 05:32:35](https://news.ycombinator.com/item?id=44897043) - [Clinical genetics and the problem of uncertain significance](https://stetson.substack.com/p/solving-the-problem-of-uncertain)
 * [2025-08-14, 03:43:05](https://news.ycombinator.com/item?id=44896529) - [Good multipliers for congruential pseudorandom number generators](https://arxiv.org/abs/2001.05304)
 * [2025-08-13, 20:01:21](https://news.ycombinator.com/item?id=44893118) - [That 16B password story (a.k.a. \"data troll\")](https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/)
@@ -29,7 +30,6 @@
 * [2025-08-13, 12:42:00](https://news.ycombinator.com/item?id=44887744) - [SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"](https://marnetto.net/2025/02/20/broderbund-stunts-1)
 * [2025-08-13, 12:30:31](https://news.ycombinator.com/item?id=44887643) - [Counting Words at SIMD Speed](https://healeycodes.com/counting-words-at-simd-speed)
 * [2025-08-13, 09:09:34](https://news.ycombinator.com/item?id=44886202) - [The Raft Consensus Algorithm (2015)](https://raft.github.io/)
-* [2025-08-13, 06:12:08](https://news.ycombinator.com/item?id=44885127) - [For Iris Murdoch, morality is about love, not duties and rules](https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules)
 
 ## [Archives](archives/index.md)
 
