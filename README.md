@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-17, 22:35:03](https://news.ycombinator.com/item?id=44935544) - [The decline of high-tech manufacturing in the United States](https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing)
 * [2025-08-17, 21:40:47](https://news.ycombinator.com/item?id=44935169) - [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
 * [2025-08-17, 20:08:56](https://news.ycombinator.com/item?id=44934518) - [HN Search isn't ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
 * [2025-08-17, 19:52:03](https://news.ycombinator.com/item?id=44934391) - [Show HN: Doxx – Terminal .docx viewer inspired by Glow](https://github.com/bgreenwell/doxx)
@@ -14,9 +15,7 @@
 * [2025-08-17, 16:03:21](https://news.ycombinator.com/item?id=44932565) - [Does OLAP Need an ORM](https://clickhouse.com/blog/moosestack-does-olap-need-an-orm)
 * [2025-08-17, 15:40:04](https://news.ycombinator.com/item?id=44932375) - [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](https://fallinorg.com/#)
 * [2025-08-17, 15:34:10](https://news.ycombinator.com/item?id=44932342) - [Here be dragons: Preventing static damage, latchup, and metastability in the 386](http://www.righto.com/2025/08/static-latchup-metastability-386.html)
-* [2025-08-17, 15:14:02](https://news.ycombinator.com/item?id=44932200) - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
 * [2025-08-17, 14:29:22](https://news.ycombinator.com/item?id=44931824) - [Show HN: NextDNS Adds \"Bypass Age Verification\"](https://news.ycombinator.com/item?id=44931824)
-* [2025-08-17, 14:21:42](https://news.ycombinator.com/item?id=44931763) - [Electricity prices are climbing more than twice as fast as inflation](https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai)
 * [2025-08-17, 14:08:18](https://news.ycombinator.com/item?id=44931666) - [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/)
 * [2025-08-17, 13:28:29](https://news.ycombinator.com/item?id=44931415) - [Why Nim?](https://undefined.pyfy.ch/why-nim)
 * [2025-08-17, 13:17:20](https://news.ycombinator.com/item?id=44931368) - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
@@ -30,6 +29,7 @@
 * [2025-08-15, 16:29:25](https://news.ycombinator.com/item?id=44914362) - [The Oldest Mask in the World (Pre-Pottery Neolithic B)](https://www.imj.org.il/en/collections/334459-0)
 * [2025-08-15, 15:28:10](https://news.ycombinator.com/item?id=44913587) - [Teaching GPT-5 to Use a Computer](https://prava.co/archon/)
 * [2025-08-15, 10:13:46](https://news.ycombinator.com/item?id=44910530) - [He found a bomb under a playground – and there were 176 more](https://www.bbc.co.uk/news/articles/c36x08jezw5o)
+* [2025-08-14, 01:55:11](https://news.ycombinator.com/item?id=44895954) - [Two sizes fit most: PostgreSQL and ClickHouse](https://about.gitlab.com/blog/two-sizes-fit-most-postgresql-and-clickhouse/)
 
 ## [Archives](archives/index.md)
 

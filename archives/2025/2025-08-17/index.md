@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 22:35:03](https://news.ycombinator.com/item?id=44935544) - [The decline of high-tech manufacturing in the United States](https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing)
 * [2025-08-17, 21:40:47](https://news.ycombinator.com/item?id=44935169) - [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
 * [2025-08-17, 21:31:06](https://news.ycombinator.com/item?id=44935107) - [Investigation into 4chan and its compliance with duties to protect its users](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/investigation-into-4chan-and-its-compliance-with-duties-to-protect-its-users-from-illegal-content)
 * [2025-08-17, 21:12:26](https://news.ycombinator.com/item?id=44934988) - [Show HN: A iOS Native Bluesky App](https://github.com/0xatrilla/LiquidSky)
