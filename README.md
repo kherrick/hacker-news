@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-17, 09:36:22](https://news.ycombinator.com/item?id=44930222) - [IQ Tests Results for AI](https://www.trackingai.org/home)
 * [2025-08-17, 09:29:56](https://news.ycombinator.com/item?id=44930186) - [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
 * [2025-08-17, 09:15:31](https://news.ycombinator.com/item?id=44930111) - [Nuvistor Valves](http://www.r-type.org/articles/art-150.htm)
 * [2025-08-17, 06:51:50](https://news.ycombinator.com/item?id=44929478) - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
@@ -13,6 +12,7 @@
 * [2025-08-16, 21:12:40](https://news.ycombinator.com/item?id=44926965) - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
 * [2025-08-16, 19:50:15](https://news.ycombinator.com/item?id=44926414) - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 18:37:17](https://news.ycombinator.com/item?id=44925853) - [A Lisp in 99LOC](https://github.com/Robert-van-Engelen/tinylisp)
+* [2025-08-16, 17:33:08](https://news.ycombinator.com/item?id=44925380) - [Do things that don't scale, and then don't scale](https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156)
 * [2025-08-16, 16:59:51](https://news.ycombinator.com/item?id=44925123) - [Tversky Neural Networks](https://gonzoml.substack.com/p/tversky-neural-networks)
 * [2025-08-16, 15:47:12](https://news.ycombinator.com/item?id=44924461) - [OpenAI Progress](https://progress.openai.com)
 * [2025-08-16, 13:54:19](https://news.ycombinator.com/item?id=44923465) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
