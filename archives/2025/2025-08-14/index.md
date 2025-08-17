@@ -46,6 +46,7 @@
 * [2025-08-14, 13:45:07](https://news.ycombinator.com/item?id=44900302) - [\"None of These Books Are Obscene\": Judge Strikes Down Much of FL's Book Ban Bill](https://bookriot.com/penguin-random-house-florida-lawsuit/)
 * [2025-08-14, 13:26:09](https://news.ycombinator.com/item?id=44900116) - [Why LLMs Can't Build Software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 13:22:05](https://news.ycombinator.com/item?id=44900084) - [Passion over Profits](https://dillonshook.com/passion-over-profits/)
+* [2025-08-14, 13:15:49](https://news.ycombinator.com/item?id=44900023) - [The Photographic Periodic Table of the Elements](https://periodictable.com)
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood Oxygen Monitoring Returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
 * [2025-08-14, 13:08:16](https://news.ycombinator.com/item?id=44899935) - [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
 * [2025-08-14, 12:38:21](https://news.ycombinator.com/item?id=44899685) - [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
