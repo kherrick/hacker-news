@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-08-16, 17:33:08",
+      "https://news.ycombinator.com/item?id=44925380"
+    ],
+    [
+      "Do things that don't scale, and then don't scale",
+      "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156"
+    ]
+  ],
+  [
+    [
       "2025-08-16, 16:59:51",
       "https://news.ycombinator.com/item?id=44925123"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-08-14, 12:17:18",
-      "https://news.ycombinator.com/item?id=44899516"
+      "2025-08-14, 18:30:27",
+      "https://news.ycombinator.com/item?id=44903923"
     ],
     [
-      "A single lock of hair could rewrite what we know about Inca record-keeping",
-      "https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping"
+      "Running Wayland Clients as Non-Root Users on Yocto",
+      "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Raft Consensus Algorithm (2015)",
       "https://raft.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 06:12:08",
-      "https://news.ycombinator.com/item?id=44885127"
-    ],
-    [
-      "For Iris Murdoch, morality is about love, not duties and rules",
-      "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules"
     ]
   ]
 ]
