@@ -70,6 +70,7 @@
 * [2025-08-13, 13:05:42](https://news.ycombinator.com/item?id=44887954) - [Geneva makes public transport temporarily free to combat pollution spike](https://www.reuters.com/sustainability/climate-energy/geneva-makes-public-transport-temporarily-free-combat-pollution-spike-2025-08-13/)
 * [2025-08-13, 13:03:04](https://news.ycombinator.com/item?id=44887930) - [Supporting org.apache.xml.security in graalVM](https://guust.ysebie.be/blog/supporting-apache-xml-security-algorithms.html)
 * [2025-08-13, 12:54:45](https://news.ycombinator.com/item?id=44887853) - [Pebble Time 2 Design Reveal](https://www.youtube.com/watch?v=pcPzmDePH3E)
+* [2025-08-13, 12:42:00](https://news.ycombinator.com/item?id=44887744) - [SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"](https://marnetto.net/2025/02/20/broderbund-stunts-1)
 * [2025-08-13, 12:30:31](https://news.ycombinator.com/item?id=44887643) - [Counting Words at SIMD Speed](https://healeycodes.com/counting-words-at-simd-speed)
 * [2025-08-13, 12:14:27](https://news.ycombinator.com/item?id=44887490) - [Bird signs and cycles, February, 2024](https://subject.space/projects-static/winter-bird-cycles/)
 * [2025-08-13, 12:11:20](https://news.ycombinator.com/item?id=44887459) - [His psychosis was a mystery–until doctors learned about ChatGPT's health advice](https://www.psypost.org/his-psychosis-was-a-mystery-until-doctors-learned-about-chatgpts-health-advice/)
