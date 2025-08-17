@@ -2,7 +2,6 @@
 
 * [2025-08-17, 20:08:56](https://news.ycombinator.com/item?id=44934518) - [HN Search isn't ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
 * [2025-08-17, 19:45:35](https://news.ycombinator.com/item?id=44934337) - [When did AI take over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
-* [2025-08-17, 19:30:26](https://news.ycombinator.com/item?id=44934207) - [Endoscopist deskilling risk after exposure to AI in colonoscopy](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract)
 * [2025-08-17, 19:15:44](https://news.ycombinator.com/item?id=44934093) - ['Safety Today Is a Luxury,' Giorgetto Giugiaro Says After His Crash](https://www.jalopnik.com/1930930/giorgetto-giugiaro-crash-op-ed/)
 * [2025-08-17, 17:52:43](https://news.ycombinator.com/item?id=44933452) - [ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs](https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql)
 * [2025-08-17, 17:46:04](https://news.ycombinator.com/item?id=44933401) - [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
@@ -24,6 +23,7 @@
 * [2025-08-17, 09:29:56](https://news.ycombinator.com/item?id=44930186) - [Sunny days are warm: why LinkedIn rewards mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
 * [2025-08-17, 06:51:50](https://news.ycombinator.com/item?id=44929478) - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
 * [2025-08-17, 05:00:40](https://news.ycombinator.com/item?id=44928997) - [Wan – Open-source alternative to VEO 3](https://github.com/Wan-Video/Wan2.2)
+* [2025-08-16, 12:10:30](https://news.ycombinator.com/item?id=44922556) - [PG Auto Upgrade – Docker (and K8s) container to auto upgrade your database](https://github.com/pgautoupgrade/docker-pgautoupgrade)
 * [2025-08-16, 11:44:42](https://news.ycombinator.com/item?id=44922383) - [Eliminating JavaScript cold starts on AWS Lambda](https://goose.icu/lambda/)
 * [2025-08-16, 03:21:43](https://news.ycombinator.com/item?id=44919831) - [A Visual Exploration of Gaussian Processes (2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [2025-08-15, 16:29:25](https://news.ycombinator.com/item?id=44914362) - [The Oldest Mask in the World (Pre-Pottery Neolithic B)](https://www.imj.org.il/en/collections/334459-0)
