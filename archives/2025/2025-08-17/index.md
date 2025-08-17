@@ -6,6 +6,7 @@
 
 * [2025-08-17, 09:36:22](https://news.ycombinator.com/item?id=44930222) - [IQ Tests Results for AI](https://www.trackingai.org/home)
 * [2025-08-17, 09:29:56](https://news.ycombinator.com/item?id=44930186) - [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
+* [2025-08-17, 09:15:31](https://news.ycombinator.com/item?id=44930111) - [Nuvistor Valves](http://www.r-type.org/articles/art-150.htm)
 * [2025-08-17, 08:44:08](https://news.ycombinator.com/item?id=44929986) - [Simulator of the life of a 30-year-old in the UK](https://nicksimulator.com/)
 * [2025-08-17, 06:51:50](https://news.ycombinator.com/item?id=44929478) - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
 * [2025-08-17, 06:37:10](https://news.ycombinator.com/item?id=44929424) - [OpenAI Misled You on RLHF](https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff)

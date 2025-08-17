@@ -68,6 +68,7 @@
 * [2025-08-14, 05:40:19](https://news.ycombinator.com/item?id=44897098) - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
 * [2025-08-14, 05:32:35](https://news.ycombinator.com/item?id=44897043) - [Clinical genetics and the problem of uncertain significance](https://stetson.substack.com/p/solving-the-problem-of-uncertain)
 * [2025-08-14, 03:44:55](https://news.ycombinator.com/item?id=44896539) - [My AI-Driven Identity Crisis](https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/)
+* [2025-08-14, 03:43:05](https://news.ycombinator.com/item?id=44896529) - [Good multipliers for congruential pseudorandom number generators](https://arxiv.org/abs/2001.05304)
 * [2025-08-14, 03:34:11](https://news.ycombinator.com/item?id=44896489) - [Show HN: Yet Another Memory System for LLM's](https://github.com/trvon/yams)
 * [2025-08-14, 03:24:17](https://news.ycombinator.com/item?id=44896433) - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
 * [2025-08-14, 02:19:37](https://news.ycombinator.com/item?id=44896085) - [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
