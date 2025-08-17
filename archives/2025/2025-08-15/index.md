@@ -39,6 +39,7 @@
 * [2025-08-15, 15:36:06](https://news.ycombinator.com/item?id=44913682) - [Letting inmates run the asylum: Using AI to secure AI](https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/)
 * [2025-08-15, 15:34:43](https://news.ycombinator.com/item?id=44913663) - [The Electric Fence Stopped Working Years Ago](https://soonly.com/electric-fences/)
 * [2025-08-15, 15:30:14](https://news.ycombinator.com/item?id=44913606) - [SC's proposed nuclear reboot: 'We're going to finish these reactors'](https://scdailygazette.com/2025/08/14/sen-graham-on-scs-proposed-nuclear-reboot-were-going-to-finish-these-reactors/)
+* [2025-08-15, 15:28:10](https://news.ycombinator.com/item?id=44913587) - [Why Computer-Use Agents Should Think Less](https://prava.co/archon/)
 * [2025-08-15, 15:07:04](https://news.ycombinator.com/item?id=44913359) - [Do Things That Don't Scale](https://paulgraham.com/ds.html)
 * [2025-08-15, 15:05:02](https://news.ycombinator.com/item?id=44913340) - [The beauty of a text only webpage](https://albanbrooke.com/the-beauty-of-a-text-only-webpage/)
 * [2025-08-15, 14:44:49](https://news.ycombinator.com/item?id=44913081) - [Model intelligence is no longer the constraint for automation](https://latentintent.substack.com/p/model-intelligence-is-no-longer-the)
