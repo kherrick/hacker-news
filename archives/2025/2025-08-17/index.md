@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 06:03:27](https://news.ycombinator.com/item?id=44929260) - [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
 * [2025-08-17, 04:46:11](https://news.ycombinator.com/item?id=44928937) - [In one command use 500 open source tools](https://www.x-cmd.com/)
 * [2025-08-17, 04:19:47](https://news.ycombinator.com/item?id=44928829) - [CIA's 'Kryptos' sculpture, unsolved for 35 years, is up for sale](https://www.washingtonpost.com/entertainment/art/2025/08/14/kryptos-code-k4-solution-jim-sanborn-auction)
 * [2025-08-17, 02:53:23](https://news.ycombinator.com/item?id=44928504) - [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)
