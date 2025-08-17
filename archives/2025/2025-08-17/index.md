@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
 * [2025-08-17, 15:06:15](https://news.ycombinator.com/item?id=44932134) - [The Zizians' deadly fusion of transgender ideology, rationalism and veganism](https://www.spiked-online.com/2025/08/16/inside-the-trans-vegan-death-cult/)
+* [2025-08-17, 14:55:18](https://news.ycombinator.com/item?id=44932040) - [Sharp Hubble Images Confirm 3I/Atlas as Comet](https://www.sciencealert.com/nasa-probe-could-intercept-interstellar-comet-scientists-say)
+* [2025-08-17, 14:21:42](https://news.ycombinator.com/item?id=44931763) - [Electricity prices are climbing more than twice as fast as inflation](https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai)
 * [2025-08-17, 14:08:18](https://news.ycombinator.com/item?id=44931666) - [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/)
 * [2025-08-17, 13:28:29](https://news.ycombinator.com/item?id=44931415) - [Why Nim?](https://undefined.pyfy.ch/why-nim)
 * [2025-08-17, 13:20:43](https://news.ycombinator.com/item?id=44931383) - [Microsoft's latest Windows 11 24H2 update breaks SSDs/HDDs, may corrupt data](https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/)
