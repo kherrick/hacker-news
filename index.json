@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-17, 11:20:20",
+      "https://news.ycombinator.com/item?id=44930808"
+    ],
+    [
+      "LL3M: Large Language 3D Modelers",
+      "https://threedle.github.io/ll3m/"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 09:29:56",
       "https://news.ycombinator.com/item?id=44930186"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-08-16, 17:33:08",
-      "https://news.ycombinator.com/item?id=44925380"
-    ],
-    [
-      "Do things that don't scale, and then don't scale",
-      "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 16:59:51",
       "https://news.ycombinator.com/item?id=44925123"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-08-14, 18:30:27",
-      "https://news.ycombinator.com/item?id=44903923"
+      "2025-08-14, 12:17:18",
+      "https://news.ycombinator.com/item?id=44899516"
     ],
     [
-      "Running Wayland Clients as Non-Root Users on Yocto",
-      "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/"
+      "A single lock of hair could rewrite what we know about Inca record-keeping",
+      "https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping"
     ]
   ],
   [
