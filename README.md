@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-17, 16:03:21](https://news.ycombinator.com/item?id=44932565) - [Does OLAP Need an ORM](https://clickhouse.com/blog/moosestack-does-olap-need-an-orm)
 * [2025-08-17, 15:42:20](https://news.ycombinator.com/item?id=44932398) - [Robin Lakoff, expert on language and gender, dead at 82](https://www.nytimes.com/2025/08/15/us/robin-lakoff-dead.html)
 * [2025-08-17, 15:40:04](https://news.ycombinator.com/item?id=44932375) - [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](https://fallinorg.com/#)
 * [2025-08-17, 15:34:10](https://news.ycombinator.com/item?id=44932342) - [Here be dragons: Preventing static damage, latchup, and metastability in the 386](http://www.righto.com/2025/08/static-latchup-metastability-386.html)
@@ -29,7 +30,6 @@
 * [2025-08-13, 17:53:12](https://news.ycombinator.com/item?id=44891596) - [LLMs tell bad jokes because they avoid surprises](https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96)
 * [2025-08-13, 14:45:15](https://news.ycombinator.com/item?id=44889132) - [Comparison of different C libraries providing generic containers capabilities](https://github.com/P-p-H-d/c-stl-comparison)
 * [2025-08-13, 12:42:00](https://news.ycombinator.com/item?id=44887744) - [SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"](https://marnetto.net/2025/02/20/broderbund-stunts-1)
-* [2025-08-13, 09:09:34](https://news.ycombinator.com/item?id=44886202) - [The Raft Consensus Algorithm (2015)](https://raft.github.io/)
 
 ## [Archives](archives/index.md)
 
