@@ -3,6 +3,7 @@
 * [2025-08-17, 13:28:29](https://news.ycombinator.com/item?id=44931415) - [Why Nim?](https://undefined.pyfy.ch/why-nim)
 * [2025-08-17, 13:20:43](https://news.ycombinator.com/item?id=44931383) - [Microsoft's latest Windows 11 24H2 update breaks SSDs/HDDs, may corrupt data](https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/)
 * [2025-08-17, 13:17:20](https://news.ycombinator.com/item?id=44931368) - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
+* [2025-08-17, 13:14:00](https://news.ycombinator.com/item?id=44931353) - [Refine your initial prompt instead of course-correcting](https://elite-ai-assisted-coding.dev/p/refine-your-initial-prompt-instead-of-course-correcting)
 * [2025-08-17, 13:08:44](https://news.ycombinator.com/item?id=44931321) - [BBC Micro: The Ancestor to a Device You Are Guaranteed to Own](https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/)
 * [2025-08-17, 11:20:20](https://news.ycombinator.com/item?id=44930808) - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 * [2025-08-17, 10:49:14](https://news.ycombinator.com/item?id=44930625) - [VictoriaLogs Practical Ingestion Guide for Message, Time and Streams](https://victoriametrics.com/blog/victorialogs-concepts-message-time-stream/index.html)
@@ -28,7 +29,6 @@
 * [2025-08-13, 15:23:11](https://news.ycombinator.com/item?id=44889673) - [An argument for increasing TCP's initial congestion window (2024)](https://jeclark.net/articles/tcp-initcwnd/?tag=performance)
 * [2025-08-13, 14:45:15](https://news.ycombinator.com/item?id=44889132) - [Comparison of different C libraries providing generic containers capabilities](https://github.com/P-p-H-d/c-stl-comparison)
 * [2025-08-13, 12:42:00](https://news.ycombinator.com/item?id=44887744) - [SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"](https://marnetto.net/2025/02/20/broderbund-stunts-1)
-* [2025-08-13, 11:08:50](https://news.ycombinator.com/item?id=44886997) - [FFmpeg moves to Forgejo](https://code.ffmpeg.org/FFmpeg/FFmpeg)
 * [2025-08-13, 09:09:34](https://news.ycombinator.com/item?id=44886202) - [The Raft Consensus Algorithm (2015)](https://raft.github.io/)
 
 ## [Archives](archives/index.md)
