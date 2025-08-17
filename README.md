@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-17, 20:29:42](https://news.ycombinator.com/item?id=44934685) - [JOMO – The Joy of Missing Out](https://jomo.lol)
 * [2025-08-17, 20:08:56](https://news.ycombinator.com/item?id=44934518) - [HN Search isn't ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
 * [2025-08-17, 19:45:35](https://news.ycombinator.com/item?id=44934337) - [When Did AI Take Over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
 * [2025-08-17, 19:30:26](https://news.ycombinator.com/item?id=44934207) - [Endoscopist deskilling risk after exposure to AI in colonoscopy](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract)
@@ -23,7 +24,6 @@
 * [2025-08-17, 09:36:22](https://news.ycombinator.com/item?id=44930222) - [IQ Tests Results for AI](https://www.trackingai.org/home)
 * [2025-08-17, 09:29:56](https://news.ycombinator.com/item?id=44930186) - [LinkedIn rewards mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
 * [2025-08-17, 06:51:50](https://news.ycombinator.com/item?id=44929478) - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
-* [2025-08-17, 05:00:40](https://news.ycombinator.com/item?id=44928997) - [Wan – Open-source alternative to VEO 3](https://github.com/Wan-Video/Wan2.2)
 * [2025-08-16, 11:44:42](https://news.ycombinator.com/item?id=44922383) - [Eliminating JavaScript cold starts on AWS Lambda](https://goose.icu/lambda/)
 * [2025-08-16, 03:21:43](https://news.ycombinator.com/item?id=44919831) - [A Visual Exploration of Gaussian Processes (2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [2025-08-15, 16:29:25](https://news.ycombinator.com/item?id=44914362) - [The Oldest Mask in the World (Pre-Pottery Neolithic B)](https://www.imj.org.il/en/collections/334459-0)

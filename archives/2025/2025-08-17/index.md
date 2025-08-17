@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 20:29:42](https://news.ycombinator.com/item?id=44934685) - [JOMO – The Joy of Missing Out](https://jomo.lol)
 * [2025-08-17, 20:08:56](https://news.ycombinator.com/item?id=44934518) - [HN Search isn't ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
 * [2025-08-17, 19:45:35](https://news.ycombinator.com/item?id=44934337) - [When Did AI Take Over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
 * [2025-08-17, 19:30:26](https://news.ycombinator.com/item?id=44934207) - [Endoscopist deskilling risk after exposure to AI in colonoscopy](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract)
