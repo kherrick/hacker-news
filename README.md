@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-17, 02:53:23](https://news.ycombinator.com/item?id=44928504) - [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)
 * [2025-08-17, 02:49:48](https://news.ycombinator.com/item?id=44928497) - [Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move](https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/)
 * [2025-08-17, 00:25:27](https://news.ycombinator.com/item?id=44927953) - [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
 * [2025-08-17, 00:21:50](https://news.ycombinator.com/item?id=44927934) - [GDPR meant nothing: chat control ends privacy for the EU [video]](https://www.youtube.com/watch?v=3NyUgv6dpJc)
@@ -15,6 +14,7 @@
 * [2025-08-16, 17:33:08](https://news.ycombinator.com/item?id=44925380) - [Do things that don't scale, and then don't scale](https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156)
 * [2025-08-16, 16:59:51](https://news.ycombinator.com/item?id=44925123) - [Tversky Neural Networks](https://gonzoml.substack.com/p/tversky-neural-networks)
 * [2025-08-16, 15:47:12](https://news.ycombinator.com/item?id=44924461) - [OpenAI Progress](https://progress.openai.com)
+* [2025-08-16, 15:01:20](https://news.ycombinator.com/item?id=44924055) - [Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 * [2025-08-16, 14:49:49](https://news.ycombinator.com/item?id=44923962) - [Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material](https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/)
 * [2025-08-16, 13:54:19](https://news.ycombinator.com/item?id=44923465) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
 * [2025-08-16, 12:13:12](https://news.ycombinator.com/item?id=44922571) - [Toothpaste made with keratin may protect and repair damaged teeth: study](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
