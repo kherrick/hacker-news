@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-17, 20:29:42",
-      "https://news.ycombinator.com/item?id=44934685"
-    ],
-    [
-      "JOMO – The Joy of Missing Out",
-      "https://jomo.lol"
-    ]
-  ],
-  [
-    [
       "2025-08-17, 20:08:56",
       "https://news.ycombinator.com/item?id=44934518"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44934337"
     ],
     [
-      "When Did AI Take Over Hacker News?",
+      "When did AI take over Hacker News?",
       "https://zachperk.com/blog/when-did-ai-take-over-hn"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44933070"
     ],
     [
-      "AI Doesn't Lighten the Burden of Mastery; AI Makes It Easy to Stop Valuing It",
+      "AI doesn't lighten the burden of mastery",
       "https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html"
     ]
   ],
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=44930186"
     ],
     [
-      "LinkedIn rewards mediocrity",
+      "Sunny days are warm: why LinkedIn rewards mediocrity",
       "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "Lessons learned from building a sync-engine and reactivity system with SQLite",
       "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 05:00:40",
+      "https://news.ycombinator.com/item?id=44928997"
+    ],
+    [
+      "Wan – Open-source alternative to VEO 3",
+      "https://github.com/Wan-Video/Wan2.2"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44913587"
     ],
     [
-      "Why Computer-Use Agents Should Think Less",
+      "Teaching GPT-5 to Use a Computer",
       "https://prava.co/archon/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=44900023"
     ],
     [
-      "The Photographic Periodic Table of the Elements",
+      "The Photographic Periodic Table of the Elements (2017)",
       "https://periodictable.com"
     ]
   ]
