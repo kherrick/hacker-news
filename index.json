@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-17, 20:08:56",
+      "https://news.ycombinator.com/item?id=44934518"
+    ],
+    [
+      "HN Search isn't ingesting new data since Friday",
+      "https://github.com/algolia/hn-search/issues/248"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 19:45:35",
       "https://news.ycombinator.com/item?id=44934337"
     ],
@@ -227,16 +237,6 @@
     [
       "Lessons learned from building a sync-engine and reactivity system with SQLite",
       "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 06:37:10",
-      "https://news.ycombinator.com/item?id=44929424"
-    ],
-    [
-      "Dispelling misconceptions about RLHF",
-      "https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff"
     ]
   ],
   [
