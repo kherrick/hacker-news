@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 13:28:29](https://news.ycombinator.com/item?id=44931415) - [Why Nim?](https://undefined.pyfy.ch/why-nim)
+* [2025-08-17, 13:20:43](https://news.ycombinator.com/item?id=44931383) - [Microsoft's latest Windows 11 24H2 update breaks SSDs/HDDs, may corrupt data](https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/)
+* [2025-08-17, 13:17:20](https://news.ycombinator.com/item?id=44931368) - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
+* [2025-08-17, 13:08:44](https://news.ycombinator.com/item?id=44931321) - [BBC Micro: The Ancestor to a Device You Are Guaranteed to Own](https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/)
 * [2025-08-17, 11:20:20](https://news.ycombinator.com/item?id=44930808) - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 * [2025-08-17, 10:49:14](https://news.ycombinator.com/item?id=44930625) - [VictoriaLogs Practical Ingestion Guide for Message, Time and Streams](https://victoriametrics.com/blog/victorialogs-concepts-message-time-stream/index.html)
 * [2025-08-17, 10:41:12](https://news.ycombinator.com/item?id=44930581) - [GPT-4o quoted deleted GPT-5 content. Model isolation appears brok](https://news.ycombinator.com/item?id=44930581)
