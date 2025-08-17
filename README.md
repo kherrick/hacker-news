@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-17, 09:36:22](https://news.ycombinator.com/item?id=44930222) - [IQ Tests Results for AI](https://www.trackingai.org/home)
-* [2025-08-17, 08:44:08](https://news.ycombinator.com/item?id=44929986) - [Simulator of the life of a 30-year-old in the UK](https://nicksimulator.com/)
 * [2025-08-17, 06:51:50](https://news.ycombinator.com/item?id=44929478) - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
 * [2025-08-17, 06:03:27](https://news.ycombinator.com/item?id=44929260) - [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
 * [2025-08-17, 05:00:40](https://news.ycombinator.com/item?id=44928997) - [Wan – Open-source alternative to VEO 3](https://github.com/Wan-Video/Wan2.2)
@@ -17,6 +16,7 @@
 * [2025-08-16, 16:59:51](https://news.ycombinator.com/item?id=44925123) - [Tversky Neural Networks](https://gonzoml.substack.com/p/tversky-neural-networks)
 * [2025-08-16, 15:47:12](https://news.ycombinator.com/item?id=44924461) - [OpenAI Progress](https://progress.openai.com)
 * [2025-08-16, 13:54:19](https://news.ycombinator.com/item?id=44923465) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
+* [2025-08-16, 12:13:12](https://news.ycombinator.com/item?id=44922571) - [Toothpaste made with keratin may protect and repair damaged teeth: study](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2025-08-14, 18:30:27](https://news.ycombinator.com/item?id=44903923) - [Running Wayland Clients as Non-Root Users on Yocto](https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/)
