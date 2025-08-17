@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-17, 04:46:11",
+      "https://news.ycombinator.com/item?id=44928937"
+    ],
+    [
+      "In one command use 500 open source tools",
+      "https://www.x-cmd.com/"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 02:49:48",
       "https://news.ycombinator.com/item?id=44928497"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-08-16, 18:36:46",
-      "https://news.ycombinator.com/item?id=44925847"
-    ],
-    [
-      "Office on HP-UX and Unix",
-      "https://www.openpa.net/hp-ux_office.html"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 18:00:33",
       "https://news.ycombinator.com/item?id=44925597"
     ],
@@ -137,16 +137,6 @@
     [
       "OpenAI Progress",
       "https://progress.openai.com"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 15:01:20",
-      "https://news.ycombinator.com/item?id=44924055"
-    ],
-    [
-      "Making Your Own Merchant Service Provider",
-      "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
       "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 12:30:31",
+      "https://news.ycombinator.com/item?id=44887643"
+    ],
+    [
+      "Counting Words at SIMD Speed",
+      "https://healeycodes.com/counting-words-at-simd-speed"
     ]
   ],
   [
