@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-17, 19:15:44",
+      "https://news.ycombinator.com/item?id=44934093"
+    ],
+    [
+      "'Safety Today Is a Luxury,' Giorgetto Giugiaro Says After His Crash",
+      "https://www.jalopnik.com/1930930/giorgetto-giugiaro-crash-op-ed/"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 17:52:43",
       "https://news.ycombinator.com/item?id=44933452"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2025-08-17, 17:32:12",
-      "https://news.ycombinator.com/item?id=44933297"
+      "2025-08-17, 17:45:32",
+      "https://news.ycombinator.com/item?id=44933394"
     ],
     [
-      "Americans Are Ignoring Their Student Loan Bills",
-      "https://news.bloomberglaw.com/banking-law/millions-of-americans-are-ignoring-their-student-loan-bills"
+      "\"Email is Easy\" email address quiz",
+      "https://e-mail.wtf"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "The Enterprise Experience",
       "https://churchofturing.github.io/the-enterprise-experience.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 16:13:06",
+      "https://news.ycombinator.com/item?id=44932651"
+    ],
+    [
+      "Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea",
+      "https://news.ycombinator.com/item?id=44932651"
     ]
   ],
   [
@@ -241,22 +261,22 @@
   ],
   [
     [
+      "2025-08-16, 03:21:43",
+      "https://news.ycombinator.com/item?id=44919831"
+    ],
+    [
+      "A Visual Exploration of Gaussian Processes (2019)",
+      "https://distill.pub/2019/visual-exploration-gaussian-processes/"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 15:28:10",
       "https://news.ycombinator.com/item?id=44913587"
     ],
     [
       "Why Computer-Use Agents Should Think Less",
       "https://prava.co/archon/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 19:43:01",
-      "https://news.ycombinator.com/item?id=44904742"
-    ],
-    [
-      "Show HN: Rust macro utility for batching expensive async operations",
-      "https://github.com/hackermondev/batched"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "The Photographic Periodic Table of the Elements",
       "https://periodictable.com"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 17:53:12",
-      "https://news.ycombinator.com/item?id=44891596"
-    ],
-    [
-      "LLMs tell bad jokes because they avoid surprises",
-      "https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 12:42:00",
-      "https://news.ycombinator.com/item?id=44887744"
-    ],
-    [
-      "SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"",
-      "https://marnetto.net/2025/02/20/broderbund-stunts-1"
     ]
   ]
 ]
