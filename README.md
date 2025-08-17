@@ -2,7 +2,6 @@
 
 * [2025-08-17, 11:20:20](https://news.ycombinator.com/item?id=44930808) - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 * [2025-08-17, 10:49:14](https://news.ycombinator.com/item?id=44930625) - [VictoriaLogs Practical Ingestion Guide for Message, Time and Streams](https://victoriametrics.com/blog/victorialogs-concepts-message-time-stream/index.html)
-* [2025-08-17, 10:41:12](https://news.ycombinator.com/item?id=44930581) - [GPT-4o quoted deleted GPT-5 content. Model isolation appears brok](https://news.ycombinator.com/item?id=44930581)
 * [2025-08-17, 09:29:56](https://news.ycombinator.com/item?id=44930186) - [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
 * [2025-08-17, 09:15:31](https://news.ycombinator.com/item?id=44930111) - [Nuvistor Valves](http://www.r-type.org/articles/art-150.htm)
 * [2025-08-17, 06:51:50](https://news.ycombinator.com/item?id=44929478) - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
@@ -21,6 +20,7 @@
 * [2025-08-16, 11:44:42](https://news.ycombinator.com/item?id=44922383) - [Eliminating JavaScript cold starts on AWS Lambda](https://goose.icu/lambda/)
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
+* [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-14, 05:32:35](https://news.ycombinator.com/item?id=44897043) - [Clinical genetics and the problem of uncertain significance](https://stetson.substack.com/p/solving-the-problem-of-uncertain)
 * [2025-08-14, 03:43:05](https://news.ycombinator.com/item?id=44896529) - [Good multipliers for congruential pseudorandom number generators](https://arxiv.org/abs/2001.05304)
 * [2025-08-13, 20:01:21](https://news.ycombinator.com/item?id=44893118) - [That 16B password story (a.k.a. \"data troll\")](https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/)
