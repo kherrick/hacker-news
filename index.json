@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-08-17, 10:49:14",
+      "https://news.ycombinator.com/item?id=44930625"
+    ],
+    [
+      "VictoriaLogs Practical Ingestion Guide for Message, Time and Streams",
+      "https://victoriametrics.com/blog/victorialogs-concepts-message-time-stream/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 10:41:12",
+      "https://news.ycombinator.com/item?id=44930581"
+    ],
+    [
+      "GPT-4o quoted deleted GPT-5 content. Model isolation appears brok",
+      "https://news.ycombinator.com/item?id=44930581"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 09:29:56",
       "https://news.ycombinator.com/item?id=44930186"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2025-08-17, 02:49:48",
-      "https://news.ycombinator.com/item?id=44928497"
-    ],
-    [
-      "Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move",
-      "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 22:11:09",
       "https://news.ycombinator.com/item?id=44927271"
     ],
@@ -97,16 +107,6 @@
     [
       "Dev Compass – Programming Philosophy Quiz",
       "https://treeform.github.io/devcompas/"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 21:12:40",
-      "https://news.ycombinator.com/item?id=44926965"
-    ],
-    [
-      "Living with Williams Syndrome, the 'opposite of autism' (2014)",
-      "https://www.bbc.com/news/health-26888280"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-08-14, 18:30:27",
-      "https://news.ycombinator.com/item?id=44903923"
-    ],
-    [
-      "Running Wayland Clients as Non-Root Users on Yocto",
-      "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 05:32:35",
       "https://news.ycombinator.com/item?id=44897043"
     ],
@@ -267,6 +257,16 @@
     [
       "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
       "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 14:45:15",
+      "https://news.ycombinator.com/item?id=44889132"
+    ],
+    [
+      "Comparison of Generic Container Libraries for C",
+      "https://github.com/P-p-H-d/c-stl-comparison"
     ]
   ],
   [
