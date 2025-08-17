@@ -16,6 +16,7 @@
 * [2025-08-13, 20:34:27](https://news.ycombinator.com/item?id=44893522) - [All Souls exam questions and the limits of machine reasoning](https://resobscura.substack.com/p/all-souls-exam-questions-and-the)
 * [2025-08-13, 20:11:50](https://news.ycombinator.com/item?id=44893254) - [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
 * [2025-08-13, 20:01:21](https://news.ycombinator.com/item?id=44893118) - [That 16 Billion Password Story (AKA \"Data Troll\")](https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/)
+* [2025-08-13, 19:55:29](https://news.ycombinator.com/item?id=44893045) - [Modern Cars Wreak Havoc on Radar Detectors](https://www.thedrive.com/news/modern-cars-wreak-havoc-on-radar-detectors-heres-how-escort-adapts)
 * [2025-08-13, 19:26:02](https://news.ycombinator.com/item?id=44892701) - [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/)
 * [2025-08-13, 19:14:31](https://news.ycombinator.com/item?id=44892580) - [Fuse is 95% cheaper and 10x faster than NFS](https://nilesh-agarwal.com/storage-in-cloud-for-llms-2/)
 * [2025-08-13, 19:07:54](https://news.ycombinator.com/item?id=44892497) - [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)
