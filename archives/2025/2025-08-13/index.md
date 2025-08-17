@@ -11,6 +11,7 @@
 * [2025-08-13, 23:11:57](https://news.ycombinator.com/item?id=44894983) - [Tiny flyers levitate on the Sun's heat alone](https://www.nature.com/articles/d41586-025-02576-w)
 * [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What Does Palantir Actually Do?](https://www.wired.com/story/palantir-what-the-company-does/)
 * [2025-08-13, 23:00:25](https://news.ycombinator.com/item?id=44894893) - [After losing company stock Philz Coffee baristas get $525 'thank you' payments](https://missionlocal.org/2025/08/philz-coffee-baristas-thank-you-payments/)
+* [2025-08-13, 22:53:02](https://news.ycombinator.com/item?id=44894827) - [ResurrectedGod: The Ruby Framework for Process Management](https://github.com/mishina2228/resurrected_god)
 * [2025-08-13, 20:54:51](https://news.ycombinator.com/item?id=44893717) - [Eca: Editor Code Assistant – AI pair programming capabilities agnostic of editor](https://github.com/editor-code-assistant/eca)
 * [2025-08-13, 20:43:46](https://news.ycombinator.com/item?id=44893600) - [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 * [2025-08-13, 20:34:27](https://news.ycombinator.com/item?id=44893522) - [All Souls exam questions and the limits of machine reasoning](https://resobscura.substack.com/p/all-souls-exam-questions-and-the)
