@@ -68,6 +68,7 @@
 * [2025-08-15, 10:42:57](https://news.ycombinator.com/item?id=44910719) - [Some users report their Firefox browser is scoffing CPU power](https://www.theregister.com/2025/08/13/firefox_ai_scoffing_power/)
 * [2025-08-15, 10:22:23](https://news.ycombinator.com/item?id=44910589) - [What makes you still work for Meta, when it's clear how toxic the company is?](https://news.ycombinator.com/item?id=44910589)
 * [2025-08-15, 10:19:08](https://news.ycombinator.com/item?id=44910562) - [The U.S. grid is so weak, the AI race may be over](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/)
+* [2025-08-15, 10:13:46](https://news.ycombinator.com/item?id=44910530) - [He found a bomb under a playground – and there were 176 more](https://www.bbc.co.uk/news/articles/c36x08jezw5o)
 * [2025-08-15, 09:50:13](https://news.ycombinator.com/item?id=44910393) - [Swiss vs. UK approach to major tranport projects](https://www.freewheeling.info/blog/swiss-hs2)
 * [2025-08-15, 09:38:52](https://news.ycombinator.com/item?id=44910322) - [US Government agency drops Grok after MechaHitler backlash, report says](https://arstechnica.com/tech-policy/2025/08/us-government-agency-drops-grok-after-mechahitler-backlash-report-says/)
 * [2025-08-15, 09:10:43](https://news.ycombinator.com/item?id=44910161) - [UK government states that 'safety' act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
