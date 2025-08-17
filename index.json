@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-17, 02:53:23",
+      "https://news.ycombinator.com/item?id=44928504"
+    ],
+    [
+      "Hardening Systemd Services",
+      "https://us.jlcarveth.dev/post/hardening-systemd.md"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 00:25:27",
+      "https://news.ycombinator.com/item?id=44927953"
+    ],
+    [
+      "Passive Microwave Repeaters",
+      "https://computer.rip/2025-08-16-passive-microwave-repeaters.html"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 00:21:50",
       "https://news.ycombinator.com/item?id=44927934"
     ],
@@ -27,6 +47,16 @@
     [
       "Dev Compass – Programming Philosophy Quiz",
       "https://treeform.github.io/devcompas/"
+    ]
+  ],
+  [
+    [
+      "2025-08-16, 21:52:16",
+      "https://news.ycombinator.com/item?id=44927182"
+    ],
+    [
+      "Please Keep Humans in the Loop (on GitHub Issues)",
+      "https://github.com/microsoft/vscode/issues/261976"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-08-16, 17:46:32",
-      "https://news.ycombinator.com/item?id=44925476"
-    ],
-    [
-      "Monday – A personality experiment",
-      "https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 17:33:08",
       "https://news.ycombinator.com/item?id=44925380"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-08-16, 12:00:59",
-      "https://news.ycombinator.com/item?id=44922484"
-    ],
-    [
-      "Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA",
-      "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 10:34:35",
       "https://news.ycombinator.com/item?id=44922020"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2025-08-16, 03:35:06",
-      "https://news.ycombinator.com/item?id=44919891"
-    ],
-    [
-      "PuTTY has a new website",
-      "https://putty.software/"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 12:17:18",
       "https://news.ycombinator.com/item?id=44899516"
     ],
     [
       "A single lock of hair could rewrite what we know about Inca record-keeping",
       "https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 06:14:34",
-      "https://news.ycombinator.com/item?id=44897255"
-    ],
-    [
-      "James Baldwin's Apotheosis",
-      "https://hudsonreview.com/2025/08/james-baldwins-apotheosis/"
     ]
   ],
   [
@@ -261,12 +251,32 @@
   ],
   [
     [
+      "2025-08-13, 15:23:11",
+      "https://news.ycombinator.com/item?id=44889673"
+    ],
+    [
+      "An Argument for Increasing TCP's Initial Congestion Window Again",
+      "https://jeclark.net/articles/tcp-initcwnd/?tag=performance"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 14:47:01",
       "https://news.ycombinator.com/item?id=44889163"
     ],
     [
       "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
       "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 11:08:50",
+      "https://news.ycombinator.com/item?id=44886997"
+    ],
+    [
+      "FFmpeg moves to Forgejo",
+      "https://code.ffmpeg.org/FFmpeg/FFmpeg"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "For Iris Murdoch, morality is about love, not duties and rules",
       "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 05:17:55",
-      "https://news.ycombinator.com/item?id=44884857"
-    ],
-    [
-      "Stylish Bugs",
-      "https://flak.tedunangst.com/post/stylish-bugs"
     ]
   ]
 ]
