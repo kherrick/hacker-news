@@ -29,6 +29,7 @@
 * [2025-08-15, 17:01:23](https://news.ycombinator.com/item?id=44914771) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-08-15, 16:52:52](https://news.ycombinator.com/item?id=44914671) - [XAI Was About to Land a Major Government Contract. Then Grok Praised Hitler](https://www.wired.com/story/xai-grok-government-contract-hitler/)
 * [2025-08-15, 16:33:26](https://news.ycombinator.com/item?id=44914435) - [German court declares Karl Marx's teachings unconstitutional](https://harici.com.tr/en/german-court-declares-karl-marxs-teachings-unconstitutional/)
+* [2025-08-15, 16:29:25](https://news.ycombinator.com/item?id=44914362) - [The Oldest Mask in the World (Pre-Pottery Neolithic B)](https://www.imj.org.il/en/collections/334459-0)
 * [2025-08-15, 16:12:47](https://news.ycombinator.com/item?id=44914176) - [Ransomware crews don't care about your endpoint security they killed it](https://www.theregister.com/2025/08/14/edr_killers_ransomware/)
 * [2025-08-15, 16:11:36](https://news.ycombinator.com/item?id=44914163) - [Steam can't escape the fallout from its censorship controversy](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)
 * [2025-08-15, 16:10:41](https://news.ycombinator.com/item?id=44914153) - [People do not believe that adding supply reduces housing prices](https://www.aeaweb.org/articles?id=10.1257/jep.20241428)
