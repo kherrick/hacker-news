@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 17:52:43](https://news.ycombinator.com/item?id=44933452) - [ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs](https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql)
+* [2025-08-17, 17:46:04](https://news.ycombinator.com/item?id=44933401) - [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
+* [2025-08-17, 17:32:12](https://news.ycombinator.com/item?id=44933297) - [Americans Are Ignoring Their Student Loan Bills](https://news.bloomberglaw.com/banking-law/millions-of-americans-are-ignoring-their-student-loan-bills)
 * [2025-08-17, 17:26:56](https://news.ycombinator.com/item?id=44933255) - [Claudia – Elegant Desktop Companion for Claude Code](https://claudiacode.com/)
+* [2025-08-17, 17:22:16](https://news.ycombinator.com/item?id=44933219) - [Review of Anti-Aging Drugs](https://scienceblog.com/joshmitteldorf/2025/08/17/review-of-anti-aging-drugs/)
 * [2025-08-17, 17:16:48](https://news.ycombinator.com/item?id=44933179) - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/)
+* [2025-08-17, 17:03:20](https://news.ycombinator.com/item?id=44933070) - [AI Doesn't Lighten the Burden of Mastery; AI Makes It Easy to Stop Valuing It](https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html)
 * [2025-08-17, 16:53:03](https://news.ycombinator.com/item?id=44932980) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-17, 16:03:21](https://news.ycombinator.com/item?id=44932565) - [Does OLAP Need an ORM](https://clickhouse.com/blog/moosestack-does-olap-need-an-orm)
 * [2025-08-17, 15:54:42](https://news.ycombinator.com/item?id=44932487) - [US state department stops issuing visas for Gaza’s children to get medical care](https://www.theguardian.com/us-news/2025/aug/16/gaza-children-visas-medical-care-laura-loomer)
