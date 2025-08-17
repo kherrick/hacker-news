@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 08:44:08](https://news.ycombinator.com/item?id=44929986) - [Simulator of the life of a 30-year-old in the UK](https://nicksimulator.com/)
 * [2025-08-17, 06:51:50](https://news.ycombinator.com/item?id=44929478) - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
+* [2025-08-17, 06:37:10](https://news.ycombinator.com/item?id=44929424) - [OpenAI Misled You on RLHF](https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff)
 * [2025-08-17, 06:03:27](https://news.ycombinator.com/item?id=44929260) - [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
 * [2025-08-17, 05:00:40](https://news.ycombinator.com/item?id=44928997) - [Wan – Open-source alternative to VEO 3](https://github.com/Wan-Video/Wan2.2)
 * [2025-08-17, 04:46:11](https://news.ycombinator.com/item?id=44928937) - [In one command use 500 open source tools](https://www.x-cmd.com/)
