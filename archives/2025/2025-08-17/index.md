@@ -6,6 +6,7 @@
 
 * [2025-08-17, 15:42:20](https://news.ycombinator.com/item?id=44932398) - [Robin Lakoff, expert on language and gender, dead at 82](https://www.nytimes.com/2025/08/15/us/robin-lakoff-dead.html)
 * [2025-08-17, 15:40:04](https://news.ycombinator.com/item?id=44932375) - [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](https://fallinorg.com/#)
+* [2025-08-17, 15:14:02](https://news.ycombinator.com/item?id=44932200) - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
 * [2025-08-17, 15:06:15](https://news.ycombinator.com/item?id=44932134) - [The Zizians' deadly fusion of transgender ideology, rationalism and veganism](https://www.spiked-online.com/2025/08/16/inside-the-trans-vegan-death-cult/)
 * [2025-08-17, 14:55:18](https://news.ycombinator.com/item?id=44932040) - [Sharp Hubble Images Confirm 3I/Atlas as Comet](https://www.sciencealert.com/nasa-probe-could-intercept-interstellar-comet-scientists-say)
 * [2025-08-17, 14:21:42](https://news.ycombinator.com/item?id=44931763) - [Electricity prices are climbing more than twice as fast as inflation](https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai)
