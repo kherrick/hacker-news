@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-17, 16:03:21",
+      "https://news.ycombinator.com/item?id=44932565"
+    ],
+    [
+      "Does OLAP Need an ORM",
+      "https://clickhouse.com/blog/moosestack-does-olap-need-an-orm"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 15:42:20",
       "https://news.ycombinator.com/item?id=44932398"
     ],
@@ -287,16 +297,6 @@
     [
       "SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"",
       "https://marnetto.net/2025/02/20/broderbund-stunts-1"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 09:09:34",
-      "https://news.ycombinator.com/item?id=44886202"
-    ],
-    [
-      "The Raft Consensus Algorithm (2015)",
-      "https://raft.github.io/"
     ]
   ]
 ]
