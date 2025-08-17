@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-17, 06:51:50](https://news.ycombinator.com/item?id=44929478) - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
 * [2025-08-17, 06:03:27](https://news.ycombinator.com/item?id=44929260) - [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
 * [2025-08-17, 02:49:48](https://news.ycombinator.com/item?id=44928497) - [Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move](https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/)
 * [2025-08-17, 00:25:27](https://news.ycombinator.com/item?id=44927953) - [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
@@ -19,7 +20,6 @@
 * [2025-08-16, 12:13:12](https://news.ycombinator.com/item?id=44922571) - [Toothpaste made with keratin may protect and repair damaged teeth: study](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
-* [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-14, 18:30:27](https://news.ycombinator.com/item?id=44903923) - [Running Wayland Clients as Non-Root Users on Yocto](https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/)
 * [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
 * [2025-08-13, 20:01:21](https://news.ycombinator.com/item?id=44893118) - [That 16B password story (a.k.a. \"data troll\")](https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/)
