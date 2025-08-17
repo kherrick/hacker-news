@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 11:20:20](https://news.ycombinator.com/item?id=44930808) - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 * [2025-08-17, 09:36:22](https://news.ycombinator.com/item?id=44930222) - [IQ Tests Results for AI](https://www.trackingai.org/home)
 * [2025-08-17, 09:29:56](https://news.ycombinator.com/item?id=44930186) - [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
 * [2025-08-17, 09:15:31](https://news.ycombinator.com/item?id=44930111) - [Nuvistor Valves](http://www.r-type.org/articles/art-150.htm)
