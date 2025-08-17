@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-17, 21:12:26",
+      "https://news.ycombinator.com/item?id=44934988"
+    ],
+    [
+      "Show HN: A iOS Native Bluesky App",
+      "https://github.com/0xatrilla/LiquidSky"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 20:08:56",
       "https://news.ycombinator.com/item?id=44934518"
     ],
@@ -151,12 +161,32 @@
   ],
   [
     [
+      "2025-08-17, 14:21:42",
+      "https://news.ycombinator.com/item?id=44931763"
+    ],
+    [
+      "Electricity prices are climbing more than twice as fast as inflation",
+      "https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 14:08:18",
       "https://news.ycombinator.com/item?id=44931666"
     ],
     [
       "Derivatives, Gradients, Jacobians and Hessians",
       "https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 13:28:29",
+      "https://news.ycombinator.com/item?id=44931415"
+    ],
+    [
+      "Why Nim?",
+      "https://undefined.pyfy.ch/why-nim"
     ]
   ],
   [
@@ -175,7 +205,7 @@
       "https://news.ycombinator.com/item?id=44931321"
     ],
     [
-      "BBC Micro: The Ancestor to a Device You Are Guaranteed to Own",
+      "BBC Micro, the ancestor to ARM",
       "https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/"
     ]
   ],
@@ -217,16 +247,6 @@
     [
       "Lessons learned from building a sync-engine and reactivity system with SQLite",
       "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 05:00:40",
-      "https://news.ycombinator.com/item?id=44928997"
-    ],
-    [
-      "Wan – Open-source alternative to VEO 3",
-      "https://github.com/Wan-Video/Wan2.2"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Teaching GPT-5 to Use a Computer",
       "https://prava.co/archon/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 13:16:29",
-      "https://news.ycombinator.com/item?id=44900029"
-    ],
-    [
-      "Dynasties, Selection, and Talent Allocation Among Classical Composers",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5304251"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 13:15:49",
-      "https://news.ycombinator.com/item?id=44900023"
-    ],
-    [
-      "The Photographic Periodic Table of the Elements (2017)",
-      "https://periodictable.com"
     ]
   ]
 ]
