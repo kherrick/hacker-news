@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-08-17, 17:52:43",
+      "https://news.ycombinator.com/item?id=44933452"
+    ],
+    [
+      "ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs",
+      "https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 17:46:04",
+      "https://news.ycombinator.com/item?id=44933401"
+    ],
+    [
+      "ArchiveTeam has finished archiving all goo.gl short links",
+      "https://tracker.archiveteam.org/goo-gl/"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 17:32:12",
+      "https://news.ycombinator.com/item?id=44933297"
+    ],
+    [
+      "Americans Are Ignoring Their Student Loan Bills",
+      "https://news.bloomberglaw.com/banking-law/millions-of-americans-are-ignoring-their-student-loan-bills"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 17:26:56",
       "https://news.ycombinator.com/item?id=44933255"
     ],
     [
-      "Claudia – Elegant Desktop Companion for Claude Code",
+      "Claudia – Desktop companion for Claude code",
       "https://claudiacode.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 17:22:16",
+      "https://news.ycombinator.com/item?id=44933219"
+    ],
+    [
+      "Review of Anti-Aging Drugs",
+      "https://scienceblog.com/joshmitteldorf/2025/08/17/review-of-anti-aging-drugs/"
     ]
   ],
   [
@@ -17,6 +57,16 @@
     [
       "Secure Boot, TPM and Anti-Cheat Engines",
       "https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 17:03:20",
+      "https://news.ycombinator.com/item?id=44933070"
+    ],
+    [
+      "AI Doesn't Lighten the Burden of Mastery; AI Makes It Easy to Stop Valuing It",
+      "https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html"
     ]
   ],
   [
@@ -37,16 +87,6 @@
     [
       "Does OLAP Need an ORM",
       "https://clickhouse.com/blog/moosestack-does-olap-need-an-orm"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 15:42:20",
-      "https://news.ycombinator.com/item?id=44932398"
-    ],
-    [
-      "Robin Lakoff, expert on language and gender, dead at 82",
-      "https://www.nytimes.com/2025/08/15/us/robin-lakoff-dead.html"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Who does your assistant serve?",
       "https://xeiaso.net/blog/2025/who-assistant-serve/"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 14:21:42",
-      "https://news.ycombinator.com/item?id=44931763"
-    ],
-    [
-      "Electricity prices are climbing more than twice as fast as inflation",
-      "https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-08-17, 09:15:31",
-      "https://news.ycombinator.com/item?id=44930111"
-    ],
-    [
-      "Nuvistor Valves",
-      "http://www.r-type.org/articles/art-150.htm"
-    ]
-  ],
-  [
-    [
       "2025-08-17, 06:51:50",
       "https://news.ycombinator.com/item?id=44929478"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-08-16, 22:11:09",
-      "https://news.ycombinator.com/item?id=44927271"
-    ],
-    [
-      "Guid Smash",
-      "https://www.guidsmash.com"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 22:04:29",
       "https://news.ycombinator.com/item?id=44927244"
     ],
     [
       "Dev Compass – Programming Philosophy Quiz",
       "https://treeform.github.io/devcompas/"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 15:47:12",
-      "https://news.ycombinator.com/item?id=44924461"
-    ],
-    [
-      "OpenAI Progress",
-      "https://progress.openai.com"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-08-14, 13:16:29",
+      "https://news.ycombinator.com/item?id=44900029"
+    ],
+    [
+      "Dynasties, Selection, and Talent Allocation Among Classical Composers",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5304251"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 13:15:49",
       "https://news.ycombinator.com/item?id=44900023"
     ],
@@ -277,16 +287,6 @@
     [
       "LLMs tell bad jokes because they avoid surprises",
       "https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 14:45:15",
-      "https://news.ycombinator.com/item?id=44889132"
-    ],
-    [
-      "Comparison of different C libraries providing generic containers capabilities",
-      "https://github.com/P-p-H-d/c-stl-comparison"
     ]
   ],
   [
