@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-17, 19:45:35](https://news.ycombinator.com/item?id=44934337) - [When Did AI Take Over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
 * [2025-08-17, 19:15:44](https://news.ycombinator.com/item?id=44934093) - ['Safety Today Is a Luxury,' Giorgetto Giugiaro Says After His Crash](https://www.jalopnik.com/1930930/giorgetto-giugiaro-crash-op-ed/)
 * [2025-08-17, 17:52:43](https://news.ycombinator.com/item?id=44933452) - [ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs](https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql)
 * [2025-08-17, 17:46:04](https://news.ycombinator.com/item?id=44933401) - [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
-* [2025-08-17, 17:45:32](https://news.ycombinator.com/item?id=44933394) - [\"Email is Easy\" email address quiz](https://e-mail.wtf)
 * [2025-08-17, 17:26:56](https://news.ycombinator.com/item?id=44933255) - [Claudia – Desktop companion for Claude code](https://claudiacode.com/)
 * [2025-08-17, 17:22:16](https://news.ycombinator.com/item?id=44933219) - [Review of Anti-Aging Drugs](https://scienceblog.com/joshmitteldorf/2025/08/17/review-of-anti-aging-drugs/)
 * [2025-08-17, 17:16:48](https://news.ycombinator.com/item?id=44933179) - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/)
@@ -23,13 +23,13 @@
 * [2025-08-17, 09:36:22](https://news.ycombinator.com/item?id=44930222) - [IQ Tests Results for AI](https://www.trackingai.org/home)
 * [2025-08-17, 09:29:56](https://news.ycombinator.com/item?id=44930186) - [LinkedIn rewards mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
 * [2025-08-17, 06:51:50](https://news.ycombinator.com/item?id=44929478) - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
+* [2025-08-17, 06:37:10](https://news.ycombinator.com/item?id=44929424) - [Dispelling misconceptions about RLHF](https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff)
 * [2025-08-17, 05:00:40](https://news.ycombinator.com/item?id=44928997) - [Wan – Open-source alternative to VEO 3](https://github.com/Wan-Video/Wan2.2)
 * [2025-08-16, 11:44:42](https://news.ycombinator.com/item?id=44922383) - [Eliminating JavaScript cold starts on AWS Lambda](https://goose.icu/lambda/)
 * [2025-08-16, 03:21:43](https://news.ycombinator.com/item?id=44919831) - [A Visual Exploration of Gaussian Processes (2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [2025-08-15, 15:28:10](https://news.ycombinator.com/item?id=44913587) - [Why Computer-Use Agents Should Think Less](https://prava.co/archon/)
 * [2025-08-14, 13:16:29](https://news.ycombinator.com/item?id=44900029) - [Dynasties, Selection, and Talent Allocation Among Classical Composers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5304251)
 * [2025-08-14, 13:15:49](https://news.ycombinator.com/item?id=44900023) - [The Photographic Periodic Table of the Elements](https://periodictable.com)
-* [2025-08-13, 12:42:00](https://news.ycombinator.com/item?id=44887744) - [SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"](https://marnetto.net/2025/02/20/broderbund-stunts-1)
 
 ## [Archives](archives/index.md)
 
