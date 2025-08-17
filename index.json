@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-08-16, 22:04:29",
-      "https://news.ycombinator.com/item?id=44927244"
-    ],
-    [
-      "Dev Compass – Programming Philosophy Quiz",
-      "https://treeform.github.io/devcompas/"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 11:44:42",
       "https://news.ycombinator.com/item?id=44922383"
     ],
@@ -257,6 +247,16 @@
     [
       "Why Computer-Use Agents Should Think Less",
       "https://prava.co/archon/"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 19:43:01",
+      "https://news.ycombinator.com/item?id=44904742"
+    ],
+    [
+      "Show HN: Rust macro utility for batching expensive async operations",
+      "https://github.com/hackermondev/batched"
     ]
   ],
   [
