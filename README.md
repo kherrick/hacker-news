@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-17, 21:40:47](https://news.ycombinator.com/item?id=44935169) - [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
-* [2025-08-17, 21:31:06](https://news.ycombinator.com/item?id=44935107) - [Investigation into 4chan and its compliance with duties to protect its users](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/investigation-into-4chan-and-its-compliance-with-duties-to-protect-its-users-from-illegal-content)
 * [2025-08-17, 20:08:56](https://news.ycombinator.com/item?id=44934518) - [HN Search isn't ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
 * [2025-08-17, 19:52:03](https://news.ycombinator.com/item?id=44934391) - [Show HN: Doxx – Terminal .docx viewer inspired by Glow](https://github.com/bgreenwell/doxx)
 * [2025-08-17, 19:45:35](https://news.ycombinator.com/item?id=44934337) - [When did AI take over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
@@ -25,6 +24,7 @@
 * [2025-08-17, 11:20:20](https://news.ycombinator.com/item?id=44930808) - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 * [2025-08-17, 09:36:22](https://news.ycombinator.com/item?id=44930222) - [IQ Tests Results for AI](https://www.trackingai.org/home)
 * [2025-08-17, 09:29:56](https://news.ycombinator.com/item?id=44930186) - [Sunny days are warm: why LinkedIn rewards mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
+* [2025-08-16, 12:10:30](https://news.ycombinator.com/item?id=44922556) - [PG Auto Upgrade – Docker (and K8s) container to auto upgrade your database](https://github.com/pgautoupgrade/docker-pgautoupgrade)
 * [2025-08-16, 11:44:42](https://news.ycombinator.com/item?id=44922383) - [Eliminating JavaScript cold starts on AWS Lambda](https://goose.icu/lambda/)
 * [2025-08-16, 03:21:43](https://news.ycombinator.com/item?id=44919831) - [A Visual Exploration of Gaussian Processes (2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [2025-08-15, 16:29:25](https://news.ycombinator.com/item?id=44914362) - [The Oldest Mask in the World (Pre-Pottery Neolithic B)](https://www.imj.org.il/en/collections/334459-0)
