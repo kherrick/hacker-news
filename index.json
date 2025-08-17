@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-17, 06:51:50",
+      "https://news.ycombinator.com/item?id=44929478"
+    ],
+    [
+      "Lessons learned from building a sync-engine and reactivity system with SQLite",
+      "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 06:03:27",
       "https://news.ycombinator.com/item?id=44929260"
     ],
@@ -187,16 +197,6 @@
     [
       "Pfeilstorch",
       "https://en.wikipedia.org/wiki/Pfeilstorch"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 07:38:46",
-      "https://news.ycombinator.com/item?id=44921137"
-    ],
-    [
-      "Good system design",
-      "https://www.seangoedecke.com/good-system-design/"
     ]
   ],
   [
