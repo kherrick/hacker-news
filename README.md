@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-18, 15:54:09](https://news.ycombinator.com/item?id=44942008) - [Win10 users looking for a new OS? Apple $599 MacBook can't come at a better time](https://www.zdnet.com/article/windows-10-users-looking-for-a-new-os-apples-599-macbook-cant-come-at-a-better-time/)
+* [2025-08-18, 15:50:21](https://news.ycombinator.com/item?id=44941963) - [Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
+* [2025-08-18, 15:46:11](https://news.ycombinator.com/item?id=44941907) - [The administration's assault on science feels eerily Soviet](https://grist.org/politics/the-trump-administrations-assault-on-science-feels-eerily-soviet/)
 * [2025-08-18, 15:33:31](https://news.ycombinator.com/item?id=44941766) - [The Road That Killed Legend Jenkins Was Working as Designed](https://www.strongtowns.org/journal/2025/8/18/the-road-that-killed-legend-jenkins-was-working-exactly-as-designed)
-* [2025-08-18, 15:32:04](https://news.ycombinator.com/item?id=44941750) - [Apple Finally Destroyed Steve Jobs’ Vision of the iPad. Good](https://www.wired.com/story/apple-finally-destroyed-steve-jobss-vision-of-the-ipad-good/)
+* [2025-08-18, 15:32:25](https://news.ycombinator.com/item?id=44941755) - [Show HN: Open-Source Framework for Real-Time AI Video Avatars](https://github.com/videosdk-community/ai-avatar-demo)
 * [2025-08-18, 15:29:27](https://news.ycombinator.com/item?id=44941711) - [The Weight of a Cell](https://www.asimov.press/p/cell-weight)
-* [2025-08-18, 15:21:52](https://news.ycombinator.com/item?id=44941629) - [How to ingest 1B rows/s in ClickHouse](https://www.tinybird.co/blog-posts/1b-rows-per-second-clickhouse)
 * [2025-08-18, 15:16:34](https://news.ycombinator.com/item?id=44941580) - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api)
-* [2025-08-18, 14:36:03](https://news.ycombinator.com/item?id=44941118) - [95% of AI Pilots Failing](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
 * [2025-08-18, 14:22:48](https://news.ycombinator.com/item?id=44940974) - [Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI](https://github.com/wieslawsoltes/HackerNewsWatch)
 * [2025-08-18, 14:20:33](https://news.ycombinator.com/item?id=44940944) - [AI is predominantly replacing outsourced, offshore workers](https://www.axios.com/2025/08/18/ai-jobs-layoffs)
 * [2025-08-18, 13:56:33](https://news.ycombinator.com/item?id=44940646) - [The Coming Robot Home Invasion](https://www.andykessler.com/andy_kessler/2025/08/wsj-home-robots.html)
@@ -29,7 +30,6 @@
 * [2025-08-15, 19:11:16](https://news.ycombinator.com/item?id=44916339) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 14:24:29](https://news.ycombinator.com/item?id=44912822) - [Sky Calendar](https://abramsplanetarium.org/SkyCalendar/index.html)
 * [2025-08-15, 04:11:48](https://news.ycombinator.com/item?id=44908528) - [A gigantic jet caught on camera: A spritacular moment for NASA astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
-* [2025-08-14, 13:02:49](https://news.ycombinator.com/item?id=44899886) - [Scientists discover surprising language 'shortcuts' in birdsong – like humans](https://www.manchester.ac.uk/about/news/scientists-discover-surprising-language-shortcuts-in-birdsong--just-like-humans/)
 
 ## [Archives](archives/index.md)
 

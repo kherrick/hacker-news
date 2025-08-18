@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 15:54:09](https://news.ycombinator.com/item?id=44942008) - [Win10 users looking for a new OS? Apple $599 MacBook can't come at a better time](https://www.zdnet.com/article/windows-10-users-looking-for-a-new-os-apples-599-macbook-cant-come-at-a-better-time/)
+* [2025-08-18, 15:50:21](https://news.ycombinator.com/item?id=44941963) - [Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
+* [2025-08-18, 15:46:11](https://news.ycombinator.com/item?id=44941907) - [The administration's assault on science feels eerily Soviet](https://grist.org/politics/the-trump-administrations-assault-on-science-feels-eerily-soviet/)
 * [2025-08-18, 15:33:31](https://news.ycombinator.com/item?id=44941766) - [The Road That Killed Legend Jenkins Was Working as Designed](https://www.strongtowns.org/journal/2025/8/18/the-road-that-killed-legend-jenkins-was-working-exactly-as-designed)
+* [2025-08-18, 15:32:25](https://news.ycombinator.com/item?id=44941755) - [Show HN: Open-Source Framework for Real-Time AI Video Avatars](https://github.com/videosdk-community/ai-avatar-demo)
 * [2025-08-18, 15:32:04](https://news.ycombinator.com/item?id=44941750) - [Apple Finally Destroyed Steve Jobs’ Vision of the iPad. Good](https://www.wired.com/story/apple-finally-destroyed-steve-jobss-vision-of-the-ipad-good/)
 * [2025-08-18, 15:29:27](https://news.ycombinator.com/item?id=44941711) - [The Weight of a Cell](https://www.asimov.press/p/cell-weight)
 * [2025-08-18, 15:21:52](https://news.ycombinator.com/item?id=44941629) - [How to ingest 1B rows/s in ClickHouse](https://www.tinybird.co/blog-posts/1b-rows-per-second-clickhouse)
