@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 13:47:38](https://news.ycombinator.com/item?id=44940554) - [Class-action suit claims Otter AI records private work conversations](https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit)
+* [2025-08-18, 13:39:53](https://news.ycombinator.com/item?id=44940485) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-08-18, 13:28:04](https://news.ycombinator.com/item?id=44940372) - [AI accounts impersonating doctors on social media [video]](https://www.youtube.com/watch?v=iNNA-66vKPE)
 * [2025-08-18, 13:27:42](https://news.ycombinator.com/item?id=44940363) - [The biggest bet in tech](https://gmays.com/the-biggest-bet-in-tech/)
 * [2025-08-18, 13:16:07](https://news.ycombinator.com/item?id=44940245) - [The billionaire developer closing London's pubs](https://www.the-londoner.co.uk/exclusive-the-billionaire-developer-closing-londons-pubs/)
