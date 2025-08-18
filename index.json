@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-08-17, 21:41:42",
+      "https://news.ycombinator.com/item?id=44935171"
+    ],
+    [
+      "AI vs. Professional Authors Results",
+      "http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 21:40:47",
       "https://news.ycombinator.com/item?id=44935169"
     ],
@@ -41,22 +51,12 @@
   ],
   [
     [
-      "2025-08-17, 19:45:35",
-      "https://news.ycombinator.com/item?id=44934337"
+      "2025-08-17, 19:51:39",
+      "https://news.ycombinator.com/item?id=44934386"
     ],
     [
-      "When did AI take over Hacker News?",
-      "https://zachperk.com/blog/when-did-ai-take-over-hn"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 17:52:43",
-      "https://news.ycombinator.com/item?id=44933452"
-    ],
-    [
-      "ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs",
-      "https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql"
+      "I Prefer RST to Markdown (2024)",
+      "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Claudia – Desktop companion for Claude code",
       "https://claudiacode.com/"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 17:22:16",
-      "https://news.ycombinator.com/item?id=44933219"
-    ],
-    [
-      "Review of Anti-Aging Drugs",
-      "https://scienceblog.com/joshmitteldorf/2025/08/17/review-of-anti-aging-drugs/"
     ]
   ],
   [
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=44931321"
     ],
     [
-      "BBC Micro, the ancestor to ARM",
+      "BBC Micro, ancestor to ARM",
       "https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/"
     ]
   ],
@@ -231,12 +221,32 @@
   ],
   [
     [
-      "2025-08-16, 12:10:30",
-      "https://news.ycombinator.com/item?id=44922556"
+      "2025-08-17, 06:51:50",
+      "https://news.ycombinator.com/item?id=44929478"
     ],
     [
-      "PG Auto Upgrade – Docker (and K8s) container to auto upgrade your database",
-      "https://github.com/pgautoupgrade/docker-pgautoupgrade"
+      "Lessons learned from building a sync-engine and reactivity system with SQLite",
+      "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 06:03:27",
+      "https://news.ycombinator.com/item?id=44929260"
+    ],
+    [
+      "Node.js is able to execute TypeScript files without additional configuration",
+      "https://nodejs.org/en/blog/release/v22.18.0"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 05:00:40",
+      "https://news.ycombinator.com/item?id=44928997"
+    ],
+    [
+      "Wan – Open-source alternative to VEO 3",
+      "https://github.com/Wan-Video/Wan2.2"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44914362"
     ],
     [
-      "The Oldest Mask in the World (Pre-Pottery Neolithic B)",
+      "Carved stone mask  – Pre-pottery, Neolithic B period",
       "https://www.imj.org.il/en/collections/334459-0"
     ]
   ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2025-08-15, 10:13:46",
-      "https://news.ycombinator.com/item?id=44910530"
+      "2025-08-14, 03:32:18",
+      "https://news.ycombinator.com/item?id=44896472"
     ],
     [
-      "He found a bomb under a playground – and there were 176 more",
-      "https://www.bbc.co.uk/news/articles/c36x08jezw5o"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 01:55:11",
-      "https://news.ycombinator.com/item?id=44895954"
-    ],
-    [
-      "Two sizes fit most: PostgreSQL and ClickHouse",
-      "https://about.gitlab.com/blog/two-sizes-fit-most-postgresql-and-clickhouse/"
+      "Modifying other people's software",
+      "https://natkr.com/2025-08-14-modifying-other-peoples-software/"
     ]
   ]
 ]
