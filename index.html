@@ -129,6 +129,155 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44943986">
+          <h3>
+            <a class="item" href="https://www.youtube.com/watch?v=sRPnX_f2V_c"
+              >Show HN: We started building an AI dev tool but it turned into a
+              Sims-style game</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-18 @ 18:51:23</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44943986"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.theinterface.com/"
+                >https://www.theinterface.com/</a
+              >).
+              <p>
+                We started out building an AI agent dev tool, but somewhere
+                along the way it turned into Sims for AI agents.
+              </p>
+              <p>
+                Demo video:
+                <a href="https://youtu.be/sRPnX_f2V_c"
+                  >https://youtu.be/sRPnX_f2V_c</a
+                >
+              </p>
+              <p>
+                The original idea was simple: make it easy to create AI agents.
+                We started with Jupyter Notebooks, where each cell could be
+                callable by MCP—so agents could turn them into tools for
+                themselves. It worked well enough that the system became
+                self-improving, churning out content, and acting like a co-pilot
+                that helped you build new agents.
+              </p>
+              <p>
+                But when we stepped back, what we had was these endless walls of
+                text. And even though it worked, honestly, it was just boring.
+                We were also convinced that it would be swallowed up by the next
+                model’s capabilities. We wanted to build something
+                else—something that made AI less of a black box and more
+                engaging. Why type into a chat box all day if you could look
+                your agents in the face, see their confusion, and watch when and
+                how they interact?
+              </p>
+              <p>
+                Both of us grew up on simulation games—RollerCoaster Tycoon 3,
+                Age of Empires, SimCity—so we started experimenting with running
+                LLM agents inside a 3D world. At first it was pure curiosity,
+                but right away, watching agents interact in real time was much
+                more interesting than anything we’d done before.
+              </p>
+              <p>
+                The very first version was small: a single Unity room, an MCP
+                server, and a chat box. Even getting two agents to take turns
+                took weeks. Every run surfaced quirks—agents refusing to talk at
+                all, or only “speaking” by dancing or pulling facial expressions
+                to show emotion. That unpredictability kept us building.
+              </p>
+              <p>
+                Now it’s a desktop app (Tauri + Unity via WebGL) where humans
+                and agents share 3D tile-based rooms. Agents receive structured
+                observations every tick and can take actions that change the
+                world. You can edit the rules between runs—prompts, decision
+                logic, even how they see chat history—without rebuilding.
+              </p>
+              <p>
+                On the technical side, we built a Unity bridge with MCP and
+                multi-provider routing via LiteLLM, with local model support via
+                Mistral.rs coming next. All system prompts are editable, so you
+                can directly experiment with coordination strategies—tuning how
+                “chatty” agents are versus how much they move or manipulate the
+                environment.
+              </p>
+              <p>
+                We then added a tilemap editor so you can design custom rooms,
+                set tile-based events with conditions and actions, and turn them
+                into puzzles or hazards. There’s community sharing built in, so
+                you can post rooms you make.
+              </p>
+              <p>
+                Watching agents collude or negotiate through falling tiles,
+                teleports, landmines, fire, “win” and “lose” tiles, and tool
+                calls for things like lethal fires or disco floors is a much
+                more fun way to spend our days.
+              </p>
+              <p>
+                Under the hood, Unity’s ECS drives a whole state machine and
+                event system. And because humans and AI share the same space in
+                real time, every negotiation, success, or failure also becomes
+                useful multi-agent, multimodal data for post-training or world
+                models.
+              </p>
+              <p>
+                Our early users are already using it for prompt-injection
+                testing, social engineering scenarios, cooperative games, and
+                model comparisons. The bigger vision is to build an open-ended,
+                AI-native sim-game where you can build and interact with
+                anything or anyone. You can design puzzles, levels, and
+                environments, have agents compete or collaborate, set up games,
+                or even replay your favorite TV shows.
+              </p>
+              <p>
+                The fun part is that no two interactions are ever the same.
+                Everything is emergent, not hard-coded, so the same level played
+                six times will play out differently each time.
+              </p>
+              <p>
+                The plan is to keep expanding—bigger rooms, more in-world tools
+                for agents, and then multiplayer hosting. It’s live now, no
+                waitlist. Free to play. You can bring your own API keys, or
+                start with $10 in credits and run agents right away:
+                www.TheInterface.com.
+              </p>
+              <p>
+                We’d love feedback on scenarios worth testing and what to build
+                next. Tell us the weird stuff you’d throw at this—we’ll be in
+                the comments.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44943868">
+          <h3>
+            <a
+              class="item"
+              href="https://www.dexerto.com/entertainment/volkswagen-gating-a-new-vehicles-full-horsepower-behind-monthly-subscription-3239138/"
+              >Volkswagen gates a new vehicle's full horsepower behind monthly
+              subscription</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-18 @ 18:40:07</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44943868"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44943420">
           <h3>
             <a
@@ -141,11 +290,11 @@
             <h4>
               <span>2025-08-18 @ 17:53:20</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44943420"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -161,32 +310,11 @@
             <h4>
               <span>2025-08-18 @ 17:29:16</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44943160"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44943079">
-          <h3>
-            <a
-              class="item"
-              href="https://wiki.archiveteam.org/index.php/Robots.txt"
-              >Robots.txt is a suicide note (2011)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-18 @ 17:20:56</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44943079"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -203,7 +331,7 @@
             <h4>
               <span>2025-08-18 @ 17:09:36</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44942954"
                   >Comments</a
@@ -225,11 +353,11 @@
             <h4>
               <span>2025-08-18 @ 16:52:29</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44942731"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
             <div class="text">
@@ -328,11 +456,11 @@
             <h4>
               <span>2025-08-18 @ 16:40:48</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44942602"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -350,11 +478,11 @@
             <h4>
               <span>2025-08-18 @ 16:40:44</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44942600"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -371,11 +499,11 @@
             <h4>
               <span>2025-08-18 @ 16:31:48</span
               ><span class="points-container"
-                >Points: <span class="points">459</span></span
+                >Points: <span class="points">499</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44942501"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 173</span></span
               >
             </h4>
           </section>
@@ -392,11 +520,11 @@
             <h4>
               <span>2025-08-18 @ 15:50:21</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44941963"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -431,7 +559,7 @@
             <h4>
               <span>2025-08-18 @ 15:16:34</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44941580"
                   >Comments</a
@@ -591,11 +719,11 @@
             <h4>
               <span>2025-08-18 @ 13:47:38</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44940554"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -610,11 +738,11 @@
             <h4>
               <span>2025-08-18 @ 13:39:53</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44940485"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -631,7 +759,7 @@
             <h4>
               <span>2025-08-18 @ 12:57:28</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44940089"
                   >Comments</a
@@ -650,7 +778,7 @@
             <h4>
               <span>2025-08-18 @ 09:53:03</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44938920"
                   >Comments</a
@@ -672,7 +800,7 @@
             <h4>
               <span>2025-08-18 @ 09:35:17</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44938818"
                   >Comments</a
@@ -693,11 +821,11 @@
             <h4>
               <span>2025-08-18 @ 06:48:40</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44938046"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -713,11 +841,11 @@
             <h4>
               <span>2025-08-18 @ 06:38:11</span
               ><span class="points-container"
-                >Points: <span class="points">536</span></span
+                >Points: <span class="points">539</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44937991"
                   >Comments</a
-                ><span class="descendants">: 190</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -734,11 +862,11 @@
             <h4>
               <span>2025-08-18 @ 04:57:47</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44937550"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -755,7 +883,7 @@
             <h4>
               <span>2025-08-17 @ 22:53:21</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44935658"
                   >Comments</a
@@ -770,28 +898,6 @@
             </div>
           </section>
         </section>
-        <section id="44924031">
-          <h3>
-            <a
-              class="item"
-              href="https://www.rainviewer.com/blog/weather-radar-apis-2025-overview.html"
-              >Weather Radar APIs in 2025: A Founder's Complete Market
-              Overview</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-16 @ 14:57:41</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44924031"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44923520">
           <h3>
             <a class="item" href="https://scrollguard.app/"
@@ -802,11 +908,11 @@
             <h4>
               <span>2025-08-16 @ 14:01:38</span
               ><span class="points-container"
-                >Points: <span class="points">340</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44923520"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
             <div class="text">
@@ -847,11 +953,11 @@
             <h4>
               <span>2025-08-16 @ 12:08:45</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44922540"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -873,7 +979,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44921879"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -890,11 +996,11 @@
             <h4>
               <span>2025-08-16 @ 09:41:57</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44921780"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -911,7 +1017,7 @@
             <h4>
               <span>2025-08-16 @ 06:26:08</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44920747"
                   >Comments</a
@@ -932,7 +1038,7 @@
             <h4>
               <span>2025-08-16 @ 02:44:22</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44919666"
                   >Comments</a
@@ -951,11 +1057,11 @@
             <h4>
               <span>2025-08-15 @ 19:11:16</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44916339"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -994,11 +1100,11 @@
             <h4>
               <span>2025-08-15 @ 04:11:48</span
               ><span class="points-container"
-                >Points: <span class="points">361</span></span
+                >Points: <span class="points">362</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44908528"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
