@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 12:00:06](https://news.ycombinator.com/item?id=44939669) - [It's the Housing, Stupid](https://ofdollarsanddata.com/its-the-housing-stupid/)
+* [2025-08-18, 11:42:31](https://news.ycombinator.com/item?id=44939551) - [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678)
 * [2025-08-18, 11:04:34](https://news.ycombinator.com/item?id=44939331) - [LLMs and Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
+* [2025-08-18, 11:03:22](https://news.ycombinator.com/item?id=44939324) - [Website Is Served from Nine Neovim Buffers on My Old ThinkPad](https://vim.gabornyeki.com/)
 * [2025-08-18, 10:05:43](https://news.ycombinator.com/item?id=44938986) - [Gamblers Now Bet on AI Models Like Racehorses](https://www.wsj.com/tech/ai/top-ai-model-betting-markets-kalshi-b2964992)
 * [2025-08-18, 10:02:31](https://news.ycombinator.com/item?id=44938963) - [MCP Tools and Dependent Types](https://vlaaad.github.io/mcp-tools-with-dependent-types)
 * [2025-08-18, 09:53:03](https://news.ycombinator.com/item?id=44938920) - [MCP Doesn't Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
