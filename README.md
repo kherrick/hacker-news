@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-18, 16:40:44](https://news.ycombinator.com/item?id=44942600) - [AWS pricing for Kiro dev tool dubbed 'a wallet-wrecking tragedy'](https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/)
+* [2025-08-18, 16:31:48](https://news.ycombinator.com/item?id=44942501) - [Anna's Archive: An Update from the Team](https://annas-archive.org/blog/an-update-from-the-team.html)
 * [2025-08-18, 15:50:21](https://news.ycombinator.com/item?id=44941963) - [Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 * [2025-08-18, 15:29:27](https://news.ycombinator.com/item?id=44941711) - [The Weight of a Cell](https://www.asimov.press/p/cell-weight)
 * [2025-08-18, 15:16:34](https://news.ycombinator.com/item?id=44941580) - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api)
@@ -9,7 +11,6 @@
 * [2025-08-18, 13:47:38](https://news.ycombinator.com/item?id=44940554) - [Class-action suit claims Otter AI records private work conversations](https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit)
 * [2025-08-18, 13:39:53](https://news.ycombinator.com/item?id=44940485) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-08-18, 13:34:06](https://news.ycombinator.com/item?id=44940416) - [Texas law gives grid operator power to disconnect data centers during crisis](https://www.utilitydive.com/news/texas-law-gives-grid-operator-power-to-disconnect-data-centers-during-crisi/751587/)
-* [2025-08-18, 13:28:04](https://news.ycombinator.com/item?id=44940372) - [AI accounts impersonating doctors on social media [video]](https://www.youtube.com/watch?v=iNNA-66vKPE)
 * [2025-08-18, 12:57:28](https://news.ycombinator.com/item?id=44940089) - [Vibe coding tips and tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
 * [2025-08-18, 11:58:17](https://news.ycombinator.com/item?id=44939660) - [When you're asking AI chatbots for answers, they're data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)
 * [2025-08-18, 11:04:34](https://news.ycombinator.com/item?id=44939331) - [LLMs and coding agents are a security nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
@@ -29,7 +30,6 @@
 * [2025-08-15, 19:11:16](https://news.ycombinator.com/item?id=44916339) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 14:24:29](https://news.ycombinator.com/item?id=44912822) - [Sky Calendar](https://abramsplanetarium.org/SkyCalendar/index.html)
 * [2025-08-15, 04:11:48](https://news.ycombinator.com/item?id=44908528) - [A gigantic jet caught on camera: A spritacular moment for NASA astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
-* [2025-08-14, 23:36:46](https://news.ycombinator.com/item?id=44906985) - [Nvidia Tilus: A Tile-Level GPU Kernel Programming Language](https://github.com/NVIDIA/tilus)
 
 ## [Archives](archives/index.md)
 
