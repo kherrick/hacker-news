@@ -16,6 +16,7 @@
 * [2025-08-15, 20:19:49](https://news.ycombinator.com/item?id=44916887) - [Steve Wozniak:I gave all my Apple wealth away because that's not what I live for](https://m.slashdot.org/story/445414)
 * [2025-08-15, 20:12:13](https://news.ycombinator.com/item?id=44916813) - [Claude Opus 4 and 4.1 can now end a rare subset of conversations](https://www.anthropic.com/research/end-subset-conversations)
 * [2025-08-15, 20:07:06](https://news.ycombinator.com/item?id=44916783) - [The Future of Large Files in Git Is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
+* [2025-08-15, 19:11:16](https://news.ycombinator.com/item?id=44916339) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 19:01:36](https://news.ycombinator.com/item?id=44916233) - [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
 * [2025-08-15, 18:38:25](https://news.ycombinator.com/item?id=44915993) - [LibreOffice says Microsoft Office exploits you, offers free ODF migration guide](https://www.neowin.net/news/libreoffice-says-microsoft-exploits-you-via-vendor-lock-in-offers-free-odf-migration-guide/)
 * [2025-08-15, 18:25:02](https://news.ycombinator.com/item?id=44915824) - [Is OpenBSD 10x faster than Linux?](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
