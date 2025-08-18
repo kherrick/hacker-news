@@ -6,6 +6,7 @@
 
 * [2025-08-18, 21:31:49](https://news.ycombinator.com/item?id=44945562) - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
 * [2025-08-18, 21:28:05](https://news.ycombinator.com/item?id=44945532) - [Obsidian Bases](https://help.obsidian.md/bases)
+* [2025-08-18, 21:10:39](https://news.ycombinator.com/item?id=44945379) - [Show HN: Fractional jobs – part-time roles for engineers](https://www.fractionaljobs.io)
 * [2025-08-18, 20:43:13](https://news.ycombinator.com/item?id=44945113) - [Show HN: Xbow raised $117M to build AI hackers, I open-sourced it for free](https://github.com/usestrix/strix)
 * [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
 * [2025-08-18, 19:55:34](https://news.ycombinator.com/item?id=44944627) - [White House in Talks with Intel for 10% U.S. Government Stake](https://www.wsj.com/tech/intel-us-government-stake-22a7f987)
