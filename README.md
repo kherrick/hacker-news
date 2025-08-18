@@ -23,13 +23,13 @@
 * [2025-08-18, 13:39:53](https://news.ycombinator.com/item?id=44940485) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-08-18, 09:35:17](https://news.ycombinator.com/item?id=44938818) - [Electromechanical reshaping,  an alternative to laser eye surgery](https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html)
 * [2025-08-18, 07:47:44](https://news.ycombinator.com/item?id=44938309) - [Mindless Machines, Mindless Myths](https://lareviewofbooks.org/article/mindless-machines-mindless-myths/)
-* [2025-08-18, 06:48:40](https://news.ycombinator.com/item?id=44938046) - [Finding a Successor to the FHS](https://lwn.net/SubscriberLink/1032947/67e23ce1a3f9f129/)
 * [2025-08-18, 06:38:11](https://news.ycombinator.com/item?id=44937991) - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
 * [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 10:02:35](https://news.ycombinator.com/item?id=44921879) - [Countrywide natural experiment links built environment to physical activity](https://www.nature.com/articles/s41586-025-09321-3)
 * [2025-08-16, 09:41:57](https://news.ycombinator.com/item?id=44921780) - [The Cutaway Illustrations of Fred Freeman](https://5wgraphicsblog.com/2016/10/24/the-cutaway-illustrations-of-fred-freeman/)
 * [2025-08-15, 19:11:16](https://news.ycombinator.com/item?id=44916339) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 18:34:24](https://news.ycombinator.com/item?id=44915939) - [Sikkim and the Himalayan Chess Game](https://www.historytoday.com/archive/feature/sikkim-and-himalayan-chess-game)
+* [2025-08-14, 23:58:12](https://news.ycombinator.com/item?id=44907133) - [The Rising Returns to R&D: Ideas Are Not Getting Harder to Find](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171)
 
 ## [Archives](archives/index.md)
 
