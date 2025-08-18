@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-18, 19:55:34](https://news.ycombinator.com/item?id=44944627) - [White House in Talks with Intel for 10% U.S. Government Stake](https://www.wsj.com/tech/intel-us-government-stake-22a7f987)
+* [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
 * [2025-08-18, 19:54:53](https://news.ycombinator.com/item?id=44944620) - [GenAI FOMO has spurred businesses to light nearly $40B on fire](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/)
+* [2025-08-18, 19:52:14](https://news.ycombinator.com/item?id=44944592) - [Show HN: I built a toy TPU that can do inference and training on the XOR problem](https://www.tinytpu.com)
 * [2025-08-18, 19:25:01](https://news.ycombinator.com/item?id=44944291) - [T-Mobile claimed selling location data without consent is legal–judges disagree](https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/)
 * [2025-08-18, 18:51:23](https://news.ycombinator.com/item?id=44943986) - [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
 * [2025-08-18, 17:53:20](https://news.ycombinator.com/item?id=44943420) - [How much do electric car batteries degrade?](https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation)
@@ -18,7 +19,6 @@
 * [2025-08-18, 15:16:34](https://news.ycombinator.com/item?id=44941580) - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api)
 * [2025-08-18, 14:59:26](https://news.ycombinator.com/item?id=44941369) - [Counter-Strike: A billion-dollar game built in a dorm room](https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html)
 * [2025-08-18, 13:39:53](https://news.ycombinator.com/item?id=44940485) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
-* [2025-08-18, 12:57:28](https://news.ycombinator.com/item?id=44940089) - [Vibe coding tips and tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
 * [2025-08-18, 09:35:17](https://news.ycombinator.com/item?id=44938818) - [Electromechanical reshaping,  an alternative to laser eye surgery](https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html)
 * [2025-08-18, 07:47:44](https://news.ycombinator.com/item?id=44938309) - [Mindless Machines, Mindless Myths](https://lareviewofbooks.org/article/mindless-machines-mindless-myths/)
 * [2025-08-18, 06:48:40](https://news.ycombinator.com/item?id=44938046) - [Finding a Successor to the FHS](https://lwn.net/SubscriberLink/1032947/67e23ce1a3f9f129/)
@@ -29,7 +29,7 @@
 * [2025-08-16, 09:41:57](https://news.ycombinator.com/item?id=44921780) - [The Cutaway Illustrations of Fred Freeman](https://5wgraphicsblog.com/2016/10/24/the-cutaway-illustrations-of-fred-freeman/)
 * [2025-08-16, 06:26:08](https://news.ycombinator.com/item?id=44920747) - [Image Fulgurator (2011)](https://juliusvonbismarck.com/bank/index.php/projects/image-fulgurator/2/)
 * [2025-08-15, 19:11:16](https://news.ycombinator.com/item?id=44916339) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
-* [2025-08-15, 14:24:29](https://news.ycombinator.com/item?id=44912822) - [Sky Calendar](https://abramsplanetarium.org/SkyCalendar/index.html)
+* [2025-08-15, 18:34:24](https://news.ycombinator.com/item?id=44915939) - [Sikkim and the Himalayan Chess Game](https://www.historytoday.com/archive/feature/sikkim-and-himalayan-chess-game)
 
 ## [Archives](archives/index.md)
 

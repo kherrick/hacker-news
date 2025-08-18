@@ -19,6 +19,7 @@
 * [2025-08-15, 19:11:16](https://news.ycombinator.com/item?id=44916339) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 19:01:36](https://news.ycombinator.com/item?id=44916233) - [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
 * [2025-08-15, 18:38:25](https://news.ycombinator.com/item?id=44915993) - [LibreOffice says Microsoft Office exploits you, offers free ODF migration guide](https://www.neowin.net/news/libreoffice-says-microsoft-exploits-you-via-vendor-lock-in-offers-free-odf-migration-guide/)
+* [2025-08-15, 18:34:24](https://news.ycombinator.com/item?id=44915939) - [Sikkim and the Himalayan Chess Game](https://www.historytoday.com/archive/feature/sikkim-and-himalayan-chess-game)
 * [2025-08-15, 18:25:02](https://news.ycombinator.com/item?id=44915824) - [Is OpenBSD 10x faster than Linux?](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
 * [2025-08-15, 17:39:02](https://news.ycombinator.com/item?id=44915220) - [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
 * [2025-08-15, 17:38:05](https://news.ycombinator.com/item?id=44915206) - [Launch HN: Embedder (YC S25) – Claude Code for Embedded Software](https://news.ycombinator.com/item?id=44915206)

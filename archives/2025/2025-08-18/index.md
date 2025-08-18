@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
 * [2025-08-18, 19:55:34](https://news.ycombinator.com/item?id=44944627) - [White House in Talks with Intel for 10% U.S. Government Stake](https://www.wsj.com/tech/intel-us-government-stake-22a7f987)
 * [2025-08-18, 19:54:53](https://news.ycombinator.com/item?id=44944620) - [GenAI FOMO has spurred businesses to light nearly $40B on fire](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/)
+* [2025-08-18, 19:52:14](https://news.ycombinator.com/item?id=44944592) - [Show HN: I built a toy TPU that can do inference and training on the XOR problem](https://www.tinytpu.com)
 * [2025-08-18, 19:25:01](https://news.ycombinator.com/item?id=44944291) - [T-Mobile claimed selling location data without consent is legal–judges disagree](https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/)
 * [2025-08-18, 18:51:23](https://news.ycombinator.com/item?id=44943986) - [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
 * [2025-08-18, 18:40:07](https://news.ycombinator.com/item?id=44943868) - [Volkswagen gates a new vehicle's full horsepower behind monthly subscription](https://www.dexerto.com/entertainment/volkswagen-gating-a-new-vehicles-full-horsepower-behind-monthly-subscription-3239138/)
