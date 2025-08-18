@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 15:29:27](https://news.ycombinator.com/item?id=44941711) - [The Weight of a Cell](https://www.asimov.press/p/cell-weight)
+* [2025-08-18, 15:21:52](https://news.ycombinator.com/item?id=44941629) - [How to ingest 1B rows/s in ClickHouse](https://www.tinybird.co/blog-posts/1b-rows-per-second-clickhouse)
+* [2025-08-18, 15:16:34](https://news.ycombinator.com/item?id=44941580) - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api)
 * [2025-08-18, 14:36:03](https://news.ycombinator.com/item?id=44941118) - [95% of AI Pilots Failing](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
 * [2025-08-18, 14:22:48](https://news.ycombinator.com/item?id=44940974) - [Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI](https://github.com/wieslawsoltes/HackerNewsWatch)
 * [2025-08-18, 14:20:33](https://news.ycombinator.com/item?id=44940944) - [AI is predominantly replacing outsourced, offshore workers](https://www.axios.com/2025/08/18/ai-jobs-layoffs)
