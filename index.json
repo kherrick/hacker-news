@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-18, 06:39:52",
-      "https://news.ycombinator.com/item?id=44938004"
-    ],
-    [
-      "Sam Altman says 'yes,' AI is in a bubble",
-      "https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 06:38:11",
       "https://news.ycombinator.com/item?id=44937991"
     ],
@@ -27,6 +17,16 @@
     [
       "Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner",
       "https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 04:57:47",
+      "https://news.ycombinator.com/item?id=44937550"
+    ],
+    [
+      "SystemD Service Hardening",
+      "https://roguesecurity.dev/blog/systemd-hardening"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-08-17, 14:21:42",
-      "https://news.ycombinator.com/item?id=44931763"
-    ],
-    [
-      "Electricity prices are climbing more than twice as fast as inflation",
-      "https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai"
-    ]
-  ],
-  [
-    [
       "2025-08-17, 14:08:18",
       "https://news.ycombinator.com/item?id=44931666"
     ],
@@ -267,6 +257,16 @@
     [
       "A gigantic jet caught on camera: A spritacular moment for NASA astronaut",
       "https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 23:36:46",
+      "https://news.ycombinator.com/item?id=44906985"
+    ],
+    [
+      "Nvidia Tilus: A Tile-Level GPU Kernel Programming Language",
+      "https://github.com/NVIDIA/tilus"
     ]
   ],
   [
