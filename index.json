@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-18, 14:36:03",
+      "https://news.ycombinator.com/item?id=44941118"
+    ],
+    [
+      "95% of AI Pilots Failing",
+      "https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 14:22:48",
+      "https://news.ycombinator.com/item?id=44940974"
+    ],
+    [
+      "Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI",
+      "https://github.com/wieslawsoltes/HackerNewsWatch"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 14:20:33",
       "https://news.ycombinator.com/item?id=44940944"
     ],
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2025-08-18, 02:54:55",
-      "https://news.ycombinator.com/item?id=44936945"
-    ],
-    [
-      "Google admits anti-competitive conduct involving Google Search in Australia",
-      "https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 00:52:03",
-      "https://news.ycombinator.com/item?id=44936309"
-    ],
-    [
-      "Clojure Async Flow Guide",
-      "https://clojure.github.io/core.async/flow-guide.html"
-    ]
-  ],
-  [
-    [
       "2025-08-17, 22:53:21",
       "https://news.ycombinator.com/item?id=44935658"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-08-17, 16:13:06",
-      "https://news.ycombinator.com/item?id=44932651"
-    ],
-    [
-      "Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea",
-      "https://news.ycombinator.com/item?id=44932651"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 14:57:41",
       "https://news.ycombinator.com/item?id=44924031"
     ],
@@ -257,6 +247,16 @@
     [
       "8x19 Text Mode Font Origins",
       "https://www.os2museum.com/wp/8x19-text-mode-font-origins/"
+    ]
+  ],
+  [
+    [
+      "2025-08-15, 19:11:16",
+      "https://news.ycombinator.com/item?id=44916339"
+    ],
+    [
+      "Typechecker Zoo",
+      "https://sdiehl.github.io/typechecker-zoo/"
     ]
   ],
   [
