@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 22:53:21](https://news.ycombinator.com/item?id=44935658) - [The Lives and Loves of James Baldwin](https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review)
 * [2025-08-17, 22:35:03](https://news.ycombinator.com/item?id=44935544) - [The decline of high-tech manufacturing in the United States](https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing)
 * [2025-08-17, 21:41:42](https://news.ycombinator.com/item?id=44935171) - [AI vs. Professional Authors Results](http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html)
 * [2025-08-17, 21:40:47](https://news.ycombinator.com/item?id=44935169) - [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
