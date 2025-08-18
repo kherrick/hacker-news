@@ -37,6 +37,7 @@
 * [2025-08-14, 15:49:41](https://news.ycombinator.com/item?id=44901885) - [JetBrains working on higher-abstraction programming language](https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html)
 * [2025-08-14, 15:47:43](https://news.ycombinator.com/item?id=44901853) - [Show HN: OWhisper – Ollama for realtime speech-to-text](https://docs.hyprnote.com/owhisper/what-is-this)
 * [2025-08-14, 15:34:46](https://news.ycombinator.com/item?id=44901683) - [Show HN: I built a free alternative to Adobe Acrobat PDF viewer](https://github.com/embedpdf/embed-pdf-viewer)
+* [2025-08-14, 15:29:55](https://news.ycombinator.com/item?id=44901608) - [Leeches and the Legitimizing of Folk-Medicine](https://press.asimov.com/articles/leeches-and-the-legitimizing-of-folk-medicine)
 * [2025-08-14, 15:24:53](https://news.ycombinator.com/item?id=44901528) - [Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
 * [2025-08-14, 15:21:47](https://news.ycombinator.com/item?id=44901485) - [Why Remediation Is the Hardest Problem in NHI Security](https://www.token.security/blog/why-remediation-is-the-hardest-problem-in-nhi-security)
 * [2025-08-14, 15:15:10](https://news.ycombinator.com/item?id=44901387) - [Ask HN: How do you tune your personality to get better at interviews?](https://news.ycombinator.com/item?id=44901387)
