@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-18, 18:51:23](https://news.ycombinator.com/item?id=44943986) - [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
+* [2025-08-18, 18:40:07](https://news.ycombinator.com/item?id=44943868) - [Volkswagen gates a new vehicle's full horsepower behind monthly subscription](https://www.dexerto.com/entertainment/volkswagen-gating-a-new-vehicles-full-horsepower-behind-monthly-subscription-3239138/)
 * [2025-08-18, 17:53:20](https://news.ycombinator.com/item?id=44943420) - [How much do electric car batteries degrade?](https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation)
 * [2025-08-18, 17:29:16](https://news.ycombinator.com/item?id=44943160) - [TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training](https://arxiv.org/abs/2501.04765)
-* [2025-08-18, 17:20:56](https://news.ycombinator.com/item?id=44943079) - [Robots.txt is a suicide note (2011)](https://wiki.archiveteam.org/index.php/Robots.txt)
 * [2025-08-18, 17:09:36](https://news.ycombinator.com/item?id=44942954) - [Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 * [2025-08-18, 16:52:29](https://news.ycombinator.com/item?id=44942731) - [Show HN: Whispering – Open-source, local-first dictation you can trust](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering)
 * [2025-08-18, 16:40:48](https://news.ycombinator.com/item?id=44942602) - [My Retro TVs](https://www.myretrotvs.com/)
@@ -20,7 +21,6 @@
 * [2025-08-18, 06:38:11](https://news.ycombinator.com/item?id=44937991) - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
 * [2025-08-18, 04:57:47](https://news.ycombinator.com/item?id=44937550) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
 * [2025-08-17, 22:53:21](https://news.ycombinator.com/item?id=44935658) - [The Lives and Loves of James Baldwin](https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review)
-* [2025-08-16, 14:57:41](https://news.ycombinator.com/item?id=44924031) - [Weather Radar APIs in 2025: A Founder's Complete Market Overview](https://www.rainviewer.com/blog/weather-radar-apis-2025-overview.html)
 * [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 12:08:45](https://news.ycombinator.com/item?id=44922540) - [Walkie-Textie Wireless Communicator](http://www.technoblogy.com/show?2AON)
 * [2025-08-16, 10:02:35](https://news.ycombinator.com/item?id=44921879) - [Countrywide natural experiment links built environment to physical activity](https://www.nature.com/articles/s41586-025-09321-3)
