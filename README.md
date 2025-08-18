@@ -2,6 +2,7 @@
 
 * [2025-08-18, 04:13:56](https://news.ycombinator.com/item?id=44937346) - [IMDB Terminal Browser](https://github.com/isene/IMDB)
 * [2025-08-18, 02:54:55](https://news.ycombinator.com/item?id=44936945) - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
+* [2025-08-18, 02:52:29](https://news.ycombinator.com/item?id=44936932) - [Show HN: ASCII Tree Editor](https://asciitree.reorx.com/)
 * [2025-08-18, 01:40:29](https://news.ycombinator.com/item?id=44936575) - [NUMA Is the New Network: Reshaping Per-Socket Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
 * [2025-08-18, 00:55:35](https://news.ycombinator.com/item?id=44936333) - [Mangle – a language for deductive database programming](https://github.com/google/mangle)
 * [2025-08-18, 00:52:03](https://news.ycombinator.com/item?id=44936309) - [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
@@ -25,9 +26,8 @@
 * [2025-08-17, 06:03:27](https://news.ycombinator.com/item?id=44929260) - [Node.js is able to execute TypeScript files without additional configuration](https://nodejs.org/en/blog/release/v22.18.0)
 * [2025-08-16, 03:21:43](https://news.ycombinator.com/item?id=44919831) - [A Visual Exploration of Gaussian Processes (2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [2025-08-15, 20:37:14](https://news.ycombinator.com/item?id=44916995) - [Primitive Streaming Gods](https://tedium.co/2018/01/30/legal-music-streaming-history/)
-* [2025-08-15, 15:28:10](https://news.ycombinator.com/item?id=44913587) - [Teaching GPT-5 to Use a Computer](https://prava.co/archon/)
 * [2025-08-15, 12:51:58](https://news.ycombinator.com/item?id=44911757) - [The Microscopic Forces That Break Hearts](https://thewaitlist.substack.com/p/the-microscopic-forces-that-break)
-* [2025-08-15, 04:11:48](https://news.ycombinator.com/item?id=44908528) - [A Gigantic Jet Caught on Camera: A Spritacular Moment for NASA Astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
+* [2025-08-15, 04:11:48](https://news.ycombinator.com/item?id=44908528) - [A gigantic jet caught on camera: A spritacular moment for NASA astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
 * [2025-08-14, 17:30:12](https://news.ycombinator.com/item?id=44903227) - [Fun with Finite State Transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers)
 * [2025-08-14, 03:32:18](https://news.ycombinator.com/item?id=44896472) - [Modifying other people's software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
 
