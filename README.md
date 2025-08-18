@@ -18,7 +18,6 @@
 * [2025-08-17, 16:53:03](https://news.ycombinator.com/item?id=44932980) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-17, 16:13:06](https://news.ycombinator.com/item?id=44932651) - [Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea](https://news.ycombinator.com/item?id=44932651)
 * [2025-08-17, 16:10:37](https://news.ycombinator.com/item?id=44932624) - [MS-DOS development resources](https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md)
-* [2025-08-17, 15:34:10](https://news.ycombinator.com/item?id=44932342) - [Here be dragons: Preventing static damage, latchup, and metastability in the 386](http://www.righto.com/2025/08/static-latchup-metastability-386.html)
 * [2025-08-17, 14:29:22](https://news.ycombinator.com/item?id=44931824) - [Show HN: NextDNS Adds \"Bypass Age Verification\"](https://news.ycombinator.com/item?id=44931824)
 * [2025-08-17, 14:08:18](https://news.ycombinator.com/item?id=44931666) - [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/)
 * [2025-08-17, 13:28:29](https://news.ycombinator.com/item?id=44931415) - [Why Nim?](https://undefined.pyfy.ch/why-nim)
@@ -29,6 +28,7 @@
 * [2025-08-14, 23:36:46](https://news.ycombinator.com/item?id=44906985) - [Nvidia Tilus: A Tile-Level GPU Kernel Programming Language](https://github.com/NVIDIA/tilus)
 * [2025-08-14, 17:30:12](https://news.ycombinator.com/item?id=44903227) - [Fun with Finite State Transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers)
 * [2025-08-14, 15:29:55](https://news.ycombinator.com/item?id=44901608) - [Leeches and the Legitimizing of Folk-Medicine](https://press.asimov.com/articles/leeches-and-the-legitimizing-of-folk-medicine)
+* [2025-08-14, 13:02:49](https://news.ycombinator.com/item?id=44899886) - [Scientists discover surprising language 'shortcuts' in birdsong – like humans](https://www.manchester.ac.uk/about/news/scientists-discover-surprising-language-shortcuts-in-birdsong--just-like-humans/)
 * [2025-08-14, 03:32:18](https://news.ycombinator.com/item?id=44896472) - [Modifying other people's software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
 
 ## [Archives](archives/index.md)

@@ -54,6 +54,7 @@
 * [2025-08-14, 13:15:49](https://news.ycombinator.com/item?id=44900023) - [The Photographic Periodic Table of the Elements](https://periodictable.com)
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood Oxygen Monitoring Returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
 * [2025-08-14, 13:08:16](https://news.ycombinator.com/item?id=44899935) - [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
+* [2025-08-14, 13:02:49](https://news.ycombinator.com/item?id=44899886) - [Scientists discover surprising language 'shortcuts' in birdsong – like humans](https://www.manchester.ac.uk/about/news/scientists-discover-surprising-language-shortcuts-in-birdsong--just-like-humans/)
 * [2025-08-14, 12:38:21](https://news.ycombinator.com/item?id=44899685) - [US Wholesale Inflation Rises by Most in 3 Years](https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services)
 * [2025-08-14, 12:33:49](https://news.ycombinator.com/item?id=44899639) - [Wholesale prices rose 0.9% in July, more than expected](https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html)
 * [2025-08-14, 12:17:18](https://news.ycombinator.com/item?id=44899516) - [A single lock of hair could rewrite what we know about Inca record-keeping](https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping)
