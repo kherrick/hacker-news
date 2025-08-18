@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-18, 21:31:49](https://news.ycombinator.com/item?id=44945562) - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
+* [2025-08-18, 21:28:05](https://news.ycombinator.com/item?id=44945532) - [Obsidian Bases](https://help.obsidian.md/bases)
 * [2025-08-18, 20:43:13](https://news.ycombinator.com/item?id=44945113) - [Show HN: Xbow raised $117M to build AI hackers, I open-sourced it for free](https://github.com/usestrix/strix)
 * [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
 * [2025-08-18, 19:54:53](https://news.ycombinator.com/item?id=44944620) - [GenAI FOMO has spurred businesses to light nearly $40B on fire](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/)
@@ -23,11 +25,9 @@
 * [2025-08-18, 07:47:44](https://news.ycombinator.com/item?id=44938309) - [Mindless Machines, Mindless Myths](https://lareviewofbooks.org/article/mindless-machines-mindless-myths/)
 * [2025-08-18, 06:48:40](https://news.ycombinator.com/item?id=44938046) - [Finding a Successor to the FHS](https://lwn.net/SubscriberLink/1032947/67e23ce1a3f9f129/)
 * [2025-08-18, 06:38:11](https://news.ycombinator.com/item?id=44937991) - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
-* [2025-08-18, 04:57:47](https://news.ycombinator.com/item?id=44937550) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
 * [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 10:02:35](https://news.ycombinator.com/item?id=44921879) - [Countrywide natural experiment links built environment to physical activity](https://www.nature.com/articles/s41586-025-09321-3)
 * [2025-08-16, 09:41:57](https://news.ycombinator.com/item?id=44921780) - [The Cutaway Illustrations of Fred Freeman](https://5wgraphicsblog.com/2016/10/24/the-cutaway-illustrations-of-fred-freeman/)
-* [2025-08-16, 06:26:08](https://news.ycombinator.com/item?id=44920747) - [Image Fulgurator (2011)](https://juliusvonbismarck.com/bank/index.php/projects/image-fulgurator/2/)
 * [2025-08-15, 19:11:16](https://news.ycombinator.com/item?id=44916339) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 18:34:24](https://news.ycombinator.com/item?id=44915939) - [Sikkim and the Himalayan Chess Game](https://www.historytoday.com/archive/feature/sikkim-and-himalayan-chess-game)
 
