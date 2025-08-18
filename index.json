@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-18, 06:39:52",
+      "https://news.ycombinator.com/item?id=44938004"
+    ],
+    [
+      "Sam Altman says 'yes,' AI is in a bubble",
+      "https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 06:38:11",
+      "https://news.ycombinator.com/item?id=44937991"
+    ],
+    [
+      "Web apps in a single, portable, self-updating, vanilla HTML file",
+      "https://hyperclay.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 06:26:07",
+      "https://news.ycombinator.com/item?id=44937933"
+    ],
+    [
+      "Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner",
+      "https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 02:54:55",
       "https://news.ycombinator.com/item?id=44936945"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-08-17, 20:08:56",
-      "https://news.ycombinator.com/item?id=44934518"
-    ],
-    [
-      "HN Search isn't ingesting new data since Friday",
-      "https://github.com/algolia/hn-search/issues/248"
-    ]
-  ],
-  [
-    [
       "2025-08-17, 19:52:03",
       "https://news.ycombinator.com/item?id=44934391"
     ],
@@ -127,16 +147,6 @@
     [
       "MS-DOS development resources",
       "https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 15:40:04",
-      "https://news.ycombinator.com/item?id=44932375"
-    ],
-    [
-      "Show HN: Fallinorg - Offline Mac app that organizes files by meaning",
-      "https://fallinorg.com/#"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Fun with Finite State Transducers",
       "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 16:51:52",
-      "https://news.ycombinator.com/item?id=44902731"
-    ],
-    [
-      "How Keeta processes 11M financial transactions per second with Spanner",
-      "https://cloud.google.com/blog/topics/financial-services/how-blockchain-network-keeta-processes-11-million-transactions-per-second-with-spanner"
     ]
   ],
   [
