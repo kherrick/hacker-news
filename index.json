@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-18, 09:53:03",
+      "https://news.ycombinator.com/item?id=44938920"
+    ],
+    [
+      "MCP Doesn't Need 30 Tools: It Needs Code",
+      "https://lucumr.pocoo.org/2025/8/18/code-mcps/"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 07:11:00",
       "https://news.ycombinator.com/item?id=44938156"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-08-17, 16:10:37",
-      "https://news.ycombinator.com/item?id=44932624"
-    ],
-    [
-      "MS-DOS development resources",
-      "https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md"
-    ]
-  ],
-  [
-    [
       "2025-08-17, 14:29:22",
       "https://news.ycombinator.com/item?id=44931824"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-08-16, 02:44:22",
+      "https://news.ycombinator.com/item?id=44919666"
+    ],
+    [
+      "8x19 Text Mode Font Origins",
+      "https://www.os2museum.com/wp/8x19-text-mode-font-origins/"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 12:34:27",
       "https://news.ycombinator.com/item?id=44911582"
     ],
@@ -257,16 +267,6 @@
     [
       "Nvidia Tilus: A Tile-Level GPU Kernel Programming Language",
       "https://github.com/NVIDIA/tilus"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 17:30:12",
-      "https://news.ycombinator.com/item?id=44903227"
-    ],
-    [
-      "Fun with Finite State Transducers",
-      "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers"
     ]
   ],
   [
