@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification](https://eli.thegreenplace.net/2018/unification/)
+* [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification (2018)](https://eli.thegreenplace.net/2018/unification/)
+* [2025-08-18, 06:55:55](https://news.ycombinator.com/item?id=44938083) - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
 * [2025-08-18, 06:38:11](https://news.ycombinator.com/item?id=44937991) - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
 * [2025-08-18, 06:26:07](https://news.ycombinator.com/item?id=44937933) - [Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner](https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/)
 * [2025-08-18, 04:57:47](https://news.ycombinator.com/item?id=44937550) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
@@ -23,7 +24,6 @@
 * [2025-08-17, 14:08:18](https://news.ycombinator.com/item?id=44931666) - [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/)
 * [2025-08-17, 13:28:29](https://news.ycombinator.com/item?id=44931415) - [Why Nim?](https://undefined.pyfy.ch/why-nim)
 * [2025-08-17, 13:08:44](https://news.ycombinator.com/item?id=44931321) - [BBC Micro, ancestor to ARM](https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/)
-* [2025-08-17, 11:20:20](https://news.ycombinator.com/item?id=44930808) - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 * [2025-08-16, 03:21:43](https://news.ycombinator.com/item?id=44919831) - [A Visual Exploration of Gaussian Processes (2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [2025-08-15, 04:11:48](https://news.ycombinator.com/item?id=44908528) - [A gigantic jet caught on camera: A spritacular moment for NASA astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
 * [2025-08-14, 23:36:46](https://news.ycombinator.com/item?id=44906985) - [Nvidia Tilus: A Tile-Level GPU Kernel Programming Language](https://github.com/NVIDIA/tilus)

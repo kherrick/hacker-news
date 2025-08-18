@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
 * [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification](https://eli.thegreenplace.net/2018/unification/)
+* [2025-08-18, 06:55:55](https://news.ycombinator.com/item?id=44938083) - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
 * [2025-08-18, 06:39:52](https://news.ycombinator.com/item?id=44938004) - [Sam Altman says 'yes,' AI is in a bubble](https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview)
 * [2025-08-18, 06:38:11](https://news.ycombinator.com/item?id=44937991) - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
 * [2025-08-18, 06:26:07](https://news.ycombinator.com/item?id=44937933) - [Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner](https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/)
