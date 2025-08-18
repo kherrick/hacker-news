@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-18, 15:29:27",
+      "https://news.ycombinator.com/item?id=44941711"
+    ],
+    [
+      "The Weight of a Cell",
+      "https://www.asimov.press/p/cell-weight"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 15:21:52",
+      "https://news.ycombinator.com/item?id=44941629"
+    ],
+    [
+      "How to ingest 1B rows/s in ClickHouse",
+      "https://www.tinybird.co/blog-posts/1b-rows-per-second-clickhouse"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 15:16:34",
+      "https://news.ycombinator.com/item?id=44941580"
+    ],
+    [
+      "Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection",
+      "https://www.realitydefender.com/platform/api"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 14:36:03",
       "https://news.ycombinator.com/item?id=44941118"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-08-18, 11:03:22",
-      "https://news.ycombinator.com/item?id=44939324"
-    ],
-    [
-      "Website is served from nine Neovim buffers on my old ThinkPad",
-      "https://vim.gabornyeki.com/"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 10:02:31",
       "https://news.ycombinator.com/item?id=44938963"
     ],
@@ -187,26 +207,6 @@
     [
       "Llama-Scan: Convert PDFs to Text W Local LLMs",
       "https://github.com/ngafar/llama-scan"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 17:26:56",
-      "https://news.ycombinator.com/item?id=44933255"
-    ],
-    [
-      "Claudia – Desktop companion for Claude code",
-      "https://claudiacode.com/"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 16:53:03",
-      "https://news.ycombinator.com/item?id=44932980"
-    ],
-    [
-      "The Enterprise Experience",
-      "https://churchofturing.github.io/the-enterprise-experience.html"
     ]
   ],
   [
