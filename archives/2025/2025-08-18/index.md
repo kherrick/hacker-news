@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 18:06:37](https://news.ycombinator.com/item?id=44943545) - [US helped Netanyahu's cyber chief evade child sex crime charges: Report](https://www.presstv.ir/Detail/2025/08/17/753255/Trump-admin--helped-Netanyahu%E2%80%99s-cyber-chief-go-free-after-his-arrest-for-child-sex-crimes--Report)
 * [2025-08-18, 17:34:11](https://news.ycombinator.com/item?id=44943228) - [RFK Jr.'s Wi-Fi and 5G conspiracies appear to make it into MAHA report draft](https://arstechnica.com/health/2025/08/maha-draft-takes-on-electromagnetic-radiation-echoing-rfk-jr-s-conspiracies/)
 * [2025-08-18, 17:29:16](https://news.ycombinator.com/item?id=44943160) - [TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training](https://arxiv.org/abs/2501.04765)
 * [2025-08-18, 17:20:56](https://news.ycombinator.com/item?id=44943079) - [Robots.txt Is a Suicide Note](https://wiki.archiveteam.org/index.php/Robots.txt)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-18, 17:34:11](https://news.ycombinator.com/item?id=44943228) - [RFK Jr.'s Wi-Fi and 5G conspiracies appear to make it into MAHA report draft](https://arstechnica.com/health/2025/08/maha-draft-takes-on-electromagnetic-radiation-echoing-rfk-jr-s-conspiracies/)
+* [2025-08-18, 18:06:37](https://news.ycombinator.com/item?id=44943545) - [US helped Netanyahu's cyber chief evade child sex crime charges: Report](https://www.presstv.ir/Detail/2025/08/17/753255/Trump-admin--helped-Netanyahu%E2%80%99s-cyber-chief-go-free-after-his-arrest-for-child-sex-crimes--Report)
 * [2025-08-18, 17:29:16](https://news.ycombinator.com/item?id=44943160) - [TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training](https://arxiv.org/abs/2501.04765)
-* [2025-08-18, 17:20:56](https://news.ycombinator.com/item?id=44943079) - [Robots.txt Is a Suicide Note (2011)](https://wiki.archiveteam.org/index.php/Robots.txt)
+* [2025-08-18, 17:20:56](https://news.ycombinator.com/item?id=44943079) - [Robots.txt is a suicide note (2011)](https://wiki.archiveteam.org/index.php/Robots.txt)
 * [2025-08-18, 17:09:36](https://news.ycombinator.com/item?id=44942954) - [Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 * [2025-08-18, 17:08:36](https://news.ycombinator.com/item?id=44942936) - [Left to Right Programming: Programs Should Be Valid as They Are Typed](https://graic.net/p/left-to-right-programming)
 * [2025-08-18, 16:52:29](https://news.ycombinator.com/item?id=44942731) - [Show HN: Whispering – Open-source, local-first dictation you can trust](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering)
