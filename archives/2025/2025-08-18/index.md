@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
 * [2025-08-18, 22:29:44](https://news.ycombinator.com/item?id=44945966) - [Even if snap out of the AI bubble, we are never going to get these years back](https://coppolaemilio.com/entries/what-could-have-been/)
+* [2025-08-18, 22:29:14](https://news.ycombinator.com/item?id=44945959) - [Lab-Grown Salmon Hits the Menu at an Oregon Restaurant as the FDA Greenlights](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
 * [2025-08-18, 22:27:01](https://news.ycombinator.com/item?id=44945943) - [Shamelessness as a strategy (2019)](https://nadia.xyz/shameless)
 * [2025-08-18, 22:23:37](https://news.ycombinator.com/item?id=44945925) - [Newsmax agrees to pay $67M in defamation case over bogus 2020 election claims](https://apnews.com/article/dominion-voting-newsmax-defamation-trump-2020-3b2366dfdae3a8432afe822bf14fe1ef)
+* [2025-08-18, 22:02:15](https://news.ycombinator.com/item?id=44945783) - [Structured (Synchronous) Concurrency](https://fsantanna.github.io/sc.html)
 * [2025-08-18, 21:43:22](https://news.ycombinator.com/item?id=44945660) - [Phrack 72](https://phrack.org/issues/72/1)
 * [2025-08-18, 21:36:02](https://news.ycombinator.com/item?id=44945599) - [Google Is Watching](https://not-a-tech-bro.ghost.io/google-is-watching/)
 * [2025-08-18, 21:31:49](https://news.ycombinator.com/item?id=44945562) - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
