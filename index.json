@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44936575"
     ],
     [
-      "NUMA Is the New Network: Reshaping Per-Socket Microservice Placement",
+      "Non-Uniform Memory Access (NUMA) is reshaping microservice placement",
       "https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement"
     ]
   ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-08-17, 06:03:27",
-      "https://news.ycombinator.com/item?id=44929260"
-    ],
-    [
-      "Node.js is able to execute TypeScript files without additional configuration",
-      "https://nodejs.org/en/blog/release/v22.18.0"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 03:21:43",
       "https://news.ycombinator.com/item?id=44919831"
     ],
@@ -287,6 +277,16 @@
     [
       "How Keeta processes 11M financial transactions per second with Spanner",
       "https://cloud.google.com/blog/topics/financial-services/how-blockchain-network-keeta-processes-11-million-transactions-per-second-with-spanner"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 15:29:55",
+      "https://news.ycombinator.com/item?id=44901608"
+    ],
+    [
+      "Leeches and the Legitimizing of Folk-Medicine",
+      "https://press.asimov.com/articles/leeches-and-the-legitimizing-of-folk-medicine"
     ]
   ],
   [
