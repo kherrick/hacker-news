@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 17:09:36](https://news.ycombinator.com/item?id=44942954) - [Turning an iPad Pro into the Ultimate Classic Macintosh](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
+* [2025-08-18, 17:08:36](https://news.ycombinator.com/item?id=44942936) - [Left to Right Programming: Programs Should Be Valid as They Are Typed](https://graic.net/p/left-to-right-programming)
+* [2025-08-18, 16:40:48](https://news.ycombinator.com/item?id=44942602) - [My Retro TVs](https://www.myretrotvs.com/)
 * [2025-08-18, 16:40:44](https://news.ycombinator.com/item?id=44942600) - [AWS pricing for Kiro dev tool dubbed 'a wallet-wrecking tragedy'](https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/)
 * [2025-08-18, 16:31:48](https://news.ycombinator.com/item?id=44942501) - [Anna's Archive: An Update from the Team](https://annas-archive.org/blog/an-update-from-the-team.html)
 * [2025-08-18, 15:54:09](https://news.ycombinator.com/item?id=44942008) - [Win10 users looking for a new OS? Apple $599 MacBook can't come at a better time](https://www.zdnet.com/article/windows-10-users-looking-for-a-new-os-apples-599-macbook-cant-come-at-a-better-time/)
