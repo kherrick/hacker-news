@@ -13,6 +13,7 @@
 * [2025-08-18, 17:29:16](https://news.ycombinator.com/item?id=44943160) - [TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training](https://arxiv.org/abs/2501.04765)
 * [2025-08-18, 17:20:56](https://news.ycombinator.com/item?id=44943079) - [Robots.txt Is a Suicide Note](https://wiki.archiveteam.org/index.php/Robots.txt)
 * [2025-08-18, 17:09:36](https://news.ycombinator.com/item?id=44942954) - [Turning an iPad Pro into the Ultimate Classic Macintosh](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
+* [2025-08-18, 17:09:17](https://news.ycombinator.com/item?id=44942949) - [Macintosh Drawing Software Compared](https://blog.gingerbeardman.com/2021/04/24/macintosh-drawing-software-compared/)
 * [2025-08-18, 17:08:36](https://news.ycombinator.com/item?id=44942936) - [Left to Right Programming: Programs Should Be Valid as They Are Typed](https://graic.net/p/left-to-right-programming)
 * [2025-08-18, 16:54:25](https://news.ycombinator.com/item?id=44942761) - [The lottery ticket hypothesis: why neural networks work](https://nearlyright.com/how-ai-researchers-accidentally-discovered-that-everything-they-thought-about-learning-was-wrong/)
 * [2025-08-18, 16:52:29](https://news.ycombinator.com/item?id=44942731) - [Show HN: Whispering – Open-source, local-first dictation you can trust](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering)
