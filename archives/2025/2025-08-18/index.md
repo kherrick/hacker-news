@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
 * [2025-08-18, 11:04:34](https://news.ycombinator.com/item?id=44939331) - [LLMs and Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
+* [2025-08-18, 10:05:43](https://news.ycombinator.com/item?id=44938986) - [Gamblers Now Bet on AI Models Like Racehorses](https://www.wsj.com/tech/ai/top-ai-model-betting-markets-kalshi-b2964992)
 * [2025-08-18, 10:02:31](https://news.ycombinator.com/item?id=44938963) - [MCP Tools and Dependent Types](https://vlaaad.github.io/mcp-tools-with-dependent-types)
 * [2025-08-18, 09:53:03](https://news.ycombinator.com/item?id=44938920) - [MCP Doesn't Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
+* [2025-08-18, 09:35:17](https://news.ycombinator.com/item?id=44938818) - [An alternative to LASIK eye surgery – electromechanical remodelling](https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html)
 * [2025-08-18, 07:47:44](https://news.ycombinator.com/item?id=44938309) - [Mindless Machines, Mindless Myths](https://lareviewofbooks.org/article/mindless-machines-mindless-myths/)
 * [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification](https://eli.thegreenplace.net/2018/unification/)
 * [2025-08-18, 06:55:55](https://news.ycombinator.com/item?id=44938083) - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
