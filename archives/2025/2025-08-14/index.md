@@ -29,6 +29,7 @@
 * [2025-08-14, 17:00:30](https://news.ycombinator.com/item?id=44902853) - [Axle (YC S22) Is Hiring Product Engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
 * [2025-08-14, 16:56:31](https://news.ycombinator.com/item?id=44902797) - [Can't pay, won't pay: streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
 * [2025-08-14, 16:54:14](https://news.ycombinator.com/item?id=44902763) - [Bluesky: Updated Terms and Policies](https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies)
+* [2025-08-14, 16:51:52](https://news.ycombinator.com/item?id=44902731) - [How Keeta processes 11M financial transactions per second with Spanner](https://cloud.google.com/blog/topics/financial-services/how-blockchain-network-keeta-processes-11-million-transactions-per-second-with-spanner)
 * [2025-08-14, 16:29:43](https://news.ycombinator.com/item?id=44902438) - [Meta appoints anti-LGBTQ+ conspiracy theorist Robby Starbuck as AI bias advisor](https://www.thepinknews.com/2025/08/14/meta-robby-starbuck-ai/)
 * [2025-08-14, 16:13:29](https://news.ycombinator.com/item?id=44902227) - [Show HN: Modelence – Supabase for MongoDB](https://github.com/modelence/modelence)
 * [2025-08-14, 16:08:36](https://news.ycombinator.com/item?id=44902148) - [Gemma 3 270M: The compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
