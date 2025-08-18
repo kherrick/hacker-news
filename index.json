@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-08-18, 19:55:34",
-      "https://news.ycombinator.com/item?id=44944627"
+      "2025-08-18, 20:34:37",
+      "https://news.ycombinator.com/item?id=44945008"
     ],
     [
-      "White House in Talks with Intel for 10% U.S. Government Stake",
-      "https://www.wsj.com/tech/intel-us-government-stake-22a7f987"
+      "A minimal tensor processing unit (TPU), inspired by Google's TPU",
+      "https://github.com/tiny-tpu-v2/tiny-tpu"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "GenAI FOMO has spurred businesses to light nearly $40B on fire",
       "https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 19:52:14",
+      "https://news.ycombinator.com/item?id=44944592"
+    ],
+    [
+      "Show HN: I built a toy TPU that can do inference and training on the XOR problem",
+      "https://www.tinytpu.com"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-08-18, 12:57:28",
-      "https://news.ycombinator.com/item?id=44940089"
-    ],
-    [
-      "Vibe coding tips and tricks",
-      "https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 09:35:17",
       "https://news.ycombinator.com/item?id=44938818"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-15, 14:24:29",
-      "https://news.ycombinator.com/item?id=44912822"
+      "2025-08-15, 18:34:24",
+      "https://news.ycombinator.com/item?id=44915939"
     ],
     [
-      "Sky Calendar",
-      "https://abramsplanetarium.org/SkyCalendar/index.html"
+      "Sikkim and the Himalayan Chess Game",
+      "https://www.historytoday.com/archive/feature/sikkim-and-himalayan-chess-game"
     ]
   ]
 ]
