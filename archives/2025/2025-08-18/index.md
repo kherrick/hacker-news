@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 19:25:01](https://news.ycombinator.com/item?id=44944291) - [T-Mobile claimed selling location data without consent is legal–judges disagree](https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/)
 * [2025-08-18, 18:51:23](https://news.ycombinator.com/item?id=44943986) - [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
 * [2025-08-18, 18:40:07](https://news.ycombinator.com/item?id=44943868) - [Volkswagen gates a new vehicle's full horsepower behind monthly subscription](https://www.dexerto.com/entertainment/volkswagen-gating-a-new-vehicles-full-horsepower-behind-monthly-subscription-3239138/)
 * [2025-08-18, 18:06:37](https://news.ycombinator.com/item?id=44943545) - [US helped Netanyahu's cyber chief evade child sex crime charges: Report](https://www.presstv.ir/Detail/2025/08/17/753255/Trump-admin--helped-Netanyahu%E2%80%99s-cyber-chief-go-free-after-his-arrest-for-child-sex-crimes--Report)
