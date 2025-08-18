@@ -28,6 +28,7 @@
 * [2025-08-16, 15:47:12](https://news.ycombinator.com/item?id=44924461) - [OpenAI Progress](https://progress.openai.com)
 * [2025-08-16, 15:41:47](https://news.ycombinator.com/item?id=44924409) - [Apple Working on All-New Operating System](https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/)
 * [2025-08-16, 15:01:20](https://news.ycombinator.com/item?id=44924055) - [Payment Processor Fun 2025 – Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
+* [2025-08-16, 14:57:41](https://news.ycombinator.com/item?id=44924031) - [Weather Radar APIs in 2025: A Founder's Complete Market Overview](https://www.rainviewer.com/blog/weather-radar-apis-2025-overview.html)
 * [2025-08-16, 14:49:49](https://news.ycombinator.com/item?id=44923962) - [Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material](https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/)
 * [2025-08-16, 14:49:33](https://news.ycombinator.com/item?id=44923957) - [SpaceX Gets Billions from the Government, Gives Little to Nothing Back in Taxes](https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html)
 * [2025-08-16, 14:22:28](https://news.ycombinator.com/item?id=44923703) - [Satoshi Nakamoto Translated into English Means \"Central Intelligence\"](https://wisewolfmedia.substack.com/p/did-the-cia-create-bitcoin)

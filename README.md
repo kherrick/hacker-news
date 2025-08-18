@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-18, 13:28:04](https://news.ycombinator.com/item?id=44940372) - [AI accounts impersonating doctors on social media [video]](https://www.youtube.com/watch?v=iNNA-66vKPE)
+* [2025-08-18, 13:27:42](https://news.ycombinator.com/item?id=44940363) - [The biggest bet in tech](https://gmays.com/the-biggest-bet-in-tech/)
+* [2025-08-18, 13:16:07](https://news.ycombinator.com/item?id=44940245) - [The billionaire developer closing London's pubs](https://www.the-londoner.co.uk/exclusive-the-billionaire-developer-closing-londons-pubs/)
+* [2025-08-18, 12:57:28](https://news.ycombinator.com/item?id=44940089) - [AWS Vibe Coding Tips and Tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
 * [2025-08-18, 11:58:17](https://news.ycombinator.com/item?id=44939660) - [When you're asking AI chatbots for answers, they're data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)
-* [2025-08-18, 11:42:31](https://news.ycombinator.com/item?id=44939551) - [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678)
 * [2025-08-18, 11:04:34](https://news.ycombinator.com/item?id=44939331) - [LLMs and coding agents are a security nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
 * [2025-08-18, 11:03:22](https://news.ycombinator.com/item?id=44939324) - [Website is served from nine Neovim buffers on my old ThinkPad](https://vim.gabornyeki.com/)
 * [2025-08-18, 10:02:31](https://news.ycombinator.com/item?id=44938963) - [MCP tools with dependent types](https://vlaaad.github.io/mcp-tools-with-dependent-types)
@@ -11,7 +14,6 @@
 * [2025-08-18, 06:38:11](https://news.ycombinator.com/item?id=44937991) - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
 * [2025-08-18, 04:57:47](https://news.ycombinator.com/item?id=44937550) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
 * [2025-08-18, 02:54:55](https://news.ycombinator.com/item?id=44936945) - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
-* [2025-08-18, 01:40:29](https://news.ycombinator.com/item?id=44936575) - [Non-Uniform Memory Access (NUMA) is reshaping microservice placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
 * [2025-08-18, 00:55:35](https://news.ycombinator.com/item?id=44936333) - [Mangle – a language for deductive database programming](https://github.com/google/mangle)
 * [2025-08-18, 00:52:03](https://news.ycombinator.com/item?id=44936309) - [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
 * [2025-08-17, 22:53:21](https://news.ycombinator.com/item?id=44935658) - [The Lives and Loves of James Baldwin](https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review)
@@ -20,8 +22,7 @@
 * [2025-08-17, 17:26:56](https://news.ycombinator.com/item?id=44933255) - [Claudia – Desktop companion for Claude code](https://claudiacode.com/)
 * [2025-08-17, 16:53:03](https://news.ycombinator.com/item?id=44932980) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-17, 16:13:06](https://news.ycombinator.com/item?id=44932651) - [Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea](https://news.ycombinator.com/item?id=44932651)
-* [2025-08-17, 14:29:22](https://news.ycombinator.com/item?id=44931824) - [Show HN: NextDNS Adds \"Bypass Age Verification\"](https://news.ycombinator.com/item?id=44931824)
-* [2025-08-17, 14:08:18](https://news.ycombinator.com/item?id=44931666) - [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/)
+* [2025-08-16, 14:57:41](https://news.ycombinator.com/item?id=44924031) - [Weather Radar APIs in 2025: A Founder's Complete Market Overview](https://www.rainviewer.com/blog/weather-radar-apis-2025-overview.html)
 * [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 12:08:45](https://news.ycombinator.com/item?id=44922540) - [Walkie-Textie Wireless Communicator](http://www.technoblogy.com/show?2AON)
 * [2025-08-16, 02:44:22](https://news.ycombinator.com/item?id=44919666) - [8x19 Text Mode Font Origins](https://www.os2museum.com/wp/8x19-text-mode-font-origins/)
@@ -29,7 +30,6 @@
 * [2025-08-15, 04:11:48](https://news.ycombinator.com/item?id=44908528) - [A gigantic jet caught on camera: A spritacular moment for NASA astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
 * [2025-08-14, 23:36:46](https://news.ycombinator.com/item?id=44906985) - [Nvidia Tilus: A Tile-Level GPU Kernel Programming Language](https://github.com/NVIDIA/tilus)
 * [2025-08-14, 13:02:49](https://news.ycombinator.com/item?id=44899886) - [Scientists discover surprising language 'shortcuts' in birdsong – like humans](https://www.manchester.ac.uk/about/news/scientists-discover-surprising-language-shortcuts-in-birdsong--just-like-humans/)
-* [2025-08-14, 03:32:18](https://news.ycombinator.com/item?id=44896472) - [Modifying other people's software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
 
 ## [Archives](archives/index.md)
 

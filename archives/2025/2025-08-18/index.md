@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 13:28:04](https://news.ycombinator.com/item?id=44940372) - [AI accounts impersonating doctors on social media [video]](https://www.youtube.com/watch?v=iNNA-66vKPE)
+* [2025-08-18, 13:27:42](https://news.ycombinator.com/item?id=44940363) - [The biggest bet in tech](https://gmays.com/the-biggest-bet-in-tech/)
+* [2025-08-18, 13:16:07](https://news.ycombinator.com/item?id=44940245) - [The billionaire developer closing London's pubs](https://www.the-londoner.co.uk/exclusive-the-billionaire-developer-closing-londons-pubs/)
+* [2025-08-18, 12:57:28](https://news.ycombinator.com/item?id=44940089) - [AWS Vibe Coding Tips and Tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
 * [2025-08-18, 12:00:06](https://news.ycombinator.com/item?id=44939669) - [It's the Housing, Stupid](https://ofdollarsanddata.com/its-the-housing-stupid/)
 * [2025-08-18, 11:58:17](https://news.ycombinator.com/item?id=44939660) - [When you're asking AI chatbots for answers, they're data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)
 * [2025-08-18, 11:42:31](https://news.ycombinator.com/item?id=44939551) - [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678)
