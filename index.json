@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-18, 04:13:56",
-      "https://news.ycombinator.com/item?id=44937346"
-    ],
-    [
-      "IMDB Terminal Browser",
-      "https://github.com/isene/IMDB"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 02:54:55",
       "https://news.ycombinator.com/item?id=44936945"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2025-08-15, 12:51:58",
-      "https://news.ycombinator.com/item?id=44911757"
+      "2025-08-15, 15:28:10",
+      "https://news.ycombinator.com/item?id=44913587"
     ],
     [
-      "The Microscopic Forces That Break Hearts",
-      "https://thewaitlist.substack.com/p/the-microscopic-forces-that-break"
+      "Teaching GPT-5 to Use a Computer",
+      "https://prava.co/archon/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Fun with Finite State Transducers",
       "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 16:51:52",
+      "https://news.ycombinator.com/item?id=44902731"
+    ],
+    [
+      "How Keeta processes 11M financial transactions per second with Spanner",
+      "https://cloud.google.com/blog/topics/financial-services/how-blockchain-network-keeta-processes-11-million-transactions-per-second-with-spanner"
     ]
   ],
   [
