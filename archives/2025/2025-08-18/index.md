@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
 * [2025-08-18, 18:06:37](https://news.ycombinator.com/item?id=44943545) - [US helped Netanyahu's cyber chief evade child sex crime charges: Report](https://www.presstv.ir/Detail/2025/08/17/753255/Trump-admin--helped-Netanyahu%E2%80%99s-cyber-chief-go-free-after-his-arrest-for-child-sex-crimes--Report)
+* [2025-08-18, 17:53:20](https://news.ycombinator.com/item?id=44943420) - [How much do electric car batteries degrade?](https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation)
 * [2025-08-18, 17:34:11](https://news.ycombinator.com/item?id=44943228) - [RFK Jr.'s Wi-Fi and 5G conspiracies appear to make it into MAHA report draft](https://arstechnica.com/health/2025/08/maha-draft-takes-on-electromagnetic-radiation-echoing-rfk-jr-s-conspiracies/)
 * [2025-08-18, 17:29:16](https://news.ycombinator.com/item?id=44943160) - [TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training](https://arxiv.org/abs/2501.04765)
 * [2025-08-18, 17:20:56](https://news.ycombinator.com/item?id=44943079) - [Robots.txt Is a Suicide Note](https://wiki.archiveteam.org/index.php/Robots.txt)
@@ -47,6 +48,7 @@
 * [2025-08-18, 07:47:44](https://news.ycombinator.com/item?id=44938309) - [Mindless Machines, Mindless Myths](https://lareviewofbooks.org/article/mindless-machines-mindless-myths/)
 * [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification](https://eli.thegreenplace.net/2018/unification/)
 * [2025-08-18, 06:55:55](https://news.ycombinator.com/item?id=44938083) - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
+* [2025-08-18, 06:48:40](https://news.ycombinator.com/item?id=44938046) - [Finding a Successor to the FHS](https://lwn.net/SubscriberLink/1032947/67e23ce1a3f9f129/)
 * [2025-08-18, 06:39:52](https://news.ycombinator.com/item?id=44938004) - [Sam Altman says 'yes,' AI is in a bubble](https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview)
 * [2025-08-18, 06:38:11](https://news.ycombinator.com/item?id=44937991) - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
 * [2025-08-18, 06:26:07](https://news.ycombinator.com/item?id=44937933) - [Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner](https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/)
