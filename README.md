@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-18, 11:04:34](https://news.ycombinator.com/item?id=44939331) - [LLMs and Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
-* [2025-08-18, 10:05:43](https://news.ycombinator.com/item?id=44938986) - [Gamblers Now Bet on AI Models Like Racehorses](https://www.wsj.com/tech/ai/top-ai-model-betting-markets-kalshi-b2964992)
 * [2025-08-18, 10:02:31](https://news.ycombinator.com/item?id=44938963) - [MCP Tools and Dependent Types](https://vlaaad.github.io/mcp-tools-with-dependent-types)
 * [2025-08-18, 09:53:03](https://news.ycombinator.com/item?id=44938920) - [MCP Doesn't Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
 * [2025-08-18, 09:35:17](https://news.ycombinator.com/item?id=44938818) - [An alternative to LASIK eye surgery – electromechanical remodelling](https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html)
@@ -17,6 +16,7 @@
 * [2025-08-17, 22:53:21](https://news.ycombinator.com/item?id=44935658) - [The Lives and Loves of James Baldwin](https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review)
 * [2025-08-17, 21:40:47](https://news.ycombinator.com/item?id=44935169) - [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
 * [2025-08-17, 19:52:03](https://news.ycombinator.com/item?id=44934391) - [Show HN: Doxx – Terminal .docx viewer inspired by Glow](https://github.com/bgreenwell/doxx)
+* [2025-08-17, 17:46:04](https://news.ycombinator.com/item?id=44933401) - [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
 * [2025-08-17, 17:26:56](https://news.ycombinator.com/item?id=44933255) - [Claudia – Desktop companion for Claude code](https://claudiacode.com/)
 * [2025-08-17, 16:53:03](https://news.ycombinator.com/item?id=44932980) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-17, 16:13:06](https://news.ycombinator.com/item?id=44932651) - [Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea](https://news.ycombinator.com/item?id=44932651)
