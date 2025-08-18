@@ -59,6 +59,7 @@
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2025-08-16, 07:39:32](https://news.ycombinator.com/item?id=44921142) - [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
 * [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
+* [2025-08-16, 06:26:08](https://news.ycombinator.com/item?id=44920747) - [Image Fulgurator (2011)](https://juliusvonbismarck.com/bank/index.php/projects/image-fulgurator/2/)
 * [2025-08-16, 04:42:51](https://news.ycombinator.com/item?id=44920245) - [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
 * [2025-08-16, 04:28:37](https://news.ycombinator.com/item?id=44920179) - [America's Stock-Market Dominance Is an Emergency for Europe](https://www.wsj.com/finance/investing/americas-stock-market-dominance-is-an-emergency-for-europe-627b3221)
 * [2025-08-16, 03:35:06](https://news.ycombinator.com/item?id=44919891) - [PuTTY Has a New Website](https://putty.software/)
