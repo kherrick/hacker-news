@@ -79,6 +79,7 @@
 * [2025-08-15, 05:26:41](https://news.ycombinator.com/item?id=44908896) - [Lessons learned from implementing SIMD-accelerated algorithms in pure Rust](https://kerkour.com/rust-simd?hn=1)
 * [2025-08-15, 04:27:50](https://news.ycombinator.com/item?id=44908623) - [South Park and the Greatest TV Contract Clause](https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract)
 * [2025-08-15, 04:25:59](https://news.ycombinator.com/item?id=44908610) - [Teenage Engineering's free computer case](https://teenage.engineering/store/computer-2)
+* [2025-08-15, 04:11:48](https://news.ycombinator.com/item?id=44908528) - [A Gigantic Jet Caught on Camera: A Spritacular Moment for NASA Astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
 * [2025-08-15, 01:27:29](https://news.ycombinator.com/item?id=44907660) - [Nobody’s buying homes, nobody’s switching jobs, America’s mobility is stalling](https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc)
 * [2025-08-15, 01:08:42](https://news.ycombinator.com/item?id=44907569) - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
 * [2025-08-15, 01:01:13](https://news.ycombinator.com/item?id=44907531) - [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
