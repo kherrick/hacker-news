@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-08-17, 22:35:03",
-      "https://news.ycombinator.com/item?id=44935544"
+      "2025-08-18, 01:40:29",
+      "https://news.ycombinator.com/item?id=44936575"
     ],
     [
-      "The decline of high-tech manufacturing in the United States",
-      "https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing"
+      "NUMA Is the New Network: Reshaping Per-Socket Microservice Placement",
+      "https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 00:55:35",
+      "https://news.ycombinator.com/item?id=44936333"
+    ],
+    [
+      "Mangle – a language for deductive database programming",
+      "https://github.com/google/mangle"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 00:52:03",
+      "https://news.ycombinator.com/item?id=44936309"
+    ],
+    [
+      "Clojure Async Flow Guide",
+      "https://clojure.github.io/core.async/flow-guide.html"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-08-17, 16:03:21",
-      "https://news.ycombinator.com/item?id=44932565"
-    ],
-    [
-      "Does OLAP Need an ORM",
-      "https://clickhouse.com/blog/moosestack-does-olap-need-an-orm"
-    ]
-  ],
-  [
-    [
       "2025-08-17, 15:40:04",
       "https://news.ycombinator.com/item?id=44932375"
     ],
@@ -147,6 +157,16 @@
     [
       "Show HN: NextDNS Adds \"Bypass Age Verification\"",
       "https://news.ycombinator.com/item?id=44931824"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 14:21:42",
+      "https://news.ycombinator.com/item?id=44931763"
+    ],
+    [
+      "Electricity prices are climbing more than twice as fast as inflation",
+      "https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai"
     ]
   ],
   [
@@ -205,28 +225,8 @@
       "https://news.ycombinator.com/item?id=44930222"
     ],
     [
-      "IQ Tests Results for AI",
+      "IQ tests results for AI",
       "https://www.trackingai.org/home"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 09:29:56",
-      "https://news.ycombinator.com/item?id=44930186"
-    ],
-    [
-      "Sunny days are warm: why LinkedIn rewards mediocrity",
-      "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 06:51:50",
-      "https://news.ycombinator.com/item?id=44929478"
-    ],
-    [
-      "Lessons learned from building a sync-engine and reactivity system with SQLite",
-      "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity"
     ]
   ],
   [
@@ -241,32 +241,22 @@
   ],
   [
     [
-      "2025-08-17, 05:00:40",
-      "https://news.ycombinator.com/item?id=44928997"
-    ],
-    [
-      "Wan – Open-source alternative to VEO 3",
-      "https://github.com/Wan-Video/Wan2.2"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 11:44:42",
-      "https://news.ycombinator.com/item?id=44922383"
-    ],
-    [
-      "Eliminating JavaScript cold starts on AWS Lambda",
-      "https://goose.icu/lambda/"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 03:21:43",
       "https://news.ycombinator.com/item?id=44919831"
     ],
     [
       "A Visual Exploration of Gaussian Processes (2019)",
       "https://distill.pub/2019/visual-exploration-gaussian-processes/"
+    ]
+  ],
+  [
+    [
+      "2025-08-15, 20:37:14",
+      "https://news.ycombinator.com/item?id=44916995"
+    ],
+    [
+      "Primitive Streaming Gods",
+      "https://tedium.co/2018/01/30/legal-music-streaming-history/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Teaching GPT-5 to Use a Computer",
       "https://prava.co/archon/"
+    ]
+  ],
+  [
+    [
+      "2025-08-15, 12:51:58",
+      "https://news.ycombinator.com/item?id=44911757"
+    ],
+    [
+      "The Microscopic Forces That Break Hearts",
+      "https://thewaitlist.substack.com/p/the-microscopic-forces-that-break"
     ]
   ],
   [
