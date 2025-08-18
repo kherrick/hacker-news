@@ -55,6 +55,7 @@
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 * [2025-08-16, 10:28:43](https://news.ycombinator.com/item?id=44921985) - [VW introduces monthly subscription to increase car power](https://www.bbc.com/news/articles/c62weyp4qqgo)
 * [2025-08-16, 10:19:39](https://news.ycombinator.com/item?id=44921945) - [Forget Netflix, Volkswagen locks horsepower behind paid subscription](https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription)
+* [2025-08-16, 10:02:35](https://news.ycombinator.com/item?id=44921879) - [Countrywide natural experiment links built environment to physical activity](https://www.nature.com/articles/s41586-025-09321-3)
 * [2025-08-16, 09:50:24](https://news.ycombinator.com/item?id=44921825) - [Anthropic's CEO says in 3-6 months, AI will write 90% of the code (March 2025)](https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3)
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2025-08-16, 07:39:32](https://news.ycombinator.com/item?id=44921142) - [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
