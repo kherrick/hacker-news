@@ -32,6 +32,7 @@
 * [2025-08-16, 14:49:33](https://news.ycombinator.com/item?id=44923957) - [SpaceX Gets Billions from the Government, Gives Little to Nothing Back in Taxes](https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html)
 * [2025-08-16, 14:22:28](https://news.ycombinator.com/item?id=44923703) - [Satoshi Nakamoto Translated into English Means \"Central Intelligence\"](https://wisewolfmedia.substack.com/p/did-the-cia-create-bitcoin)
 * [2025-08-16, 14:04:12](https://news.ycombinator.com/item?id=44923543) - [Climate Action Tracker](https://climateactiontracker.org/)
+* [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 13:54:19](https://news.ycombinator.com/item?id=44923465) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
 * [2025-08-16, 13:48:32](https://news.ycombinator.com/item?id=44923404) - [A Race to Save a Signature American Tree from a Deadly Disease](https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html)
 * [2025-08-16, 13:34:43](https://news.ycombinator.com/item?id=44923277) - [The catfishing scam putting fans and female golfers in danger](https://www.nytimes.com/athletic/6554056/2025/08/15/womens-golf-catfishing-social-media-stalking-cases/)
