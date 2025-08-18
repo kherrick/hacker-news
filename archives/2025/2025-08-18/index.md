@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 20:43:13](https://news.ycombinator.com/item?id=44945113) - [Show HN: Xbow raised $117M to build AI hackers, I open-sourced it for free](https://github.com/usestrix/strix)
 * [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
 * [2025-08-18, 19:55:34](https://news.ycombinator.com/item?id=44944627) - [White House in Talks with Intel for 10% U.S. Government Stake](https://www.wsj.com/tech/intel-us-government-stake-22a7f987)
 * [2025-08-18, 19:54:53](https://news.ycombinator.com/item?id=44944620) - [GenAI FOMO has spurred businesses to light nearly $40B on fire](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/)

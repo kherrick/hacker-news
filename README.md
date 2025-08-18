@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-18, 20:43:13](https://news.ycombinator.com/item?id=44945113) - [Show HN: Xbow raised $117M to build AI hackers, I open-sourced it for free](https://github.com/usestrix/strix)
 * [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
 * [2025-08-18, 19:54:53](https://news.ycombinator.com/item?id=44944620) - [GenAI FOMO has spurred businesses to light nearly $40B on fire](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/)
 * [2025-08-18, 19:52:14](https://news.ycombinator.com/item?id=44944592) - [Show HN: I built a toy TPU that can do inference and training on the XOR problem](https://www.tinytpu.com)
@@ -7,7 +8,6 @@
 * [2025-08-18, 18:51:23](https://news.ycombinator.com/item?id=44943986) - [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
 * [2025-08-18, 17:53:20](https://news.ycombinator.com/item?id=44943420) - [How much do electric car batteries degrade?](https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation)
 * [2025-08-18, 17:29:16](https://news.ycombinator.com/item?id=44943160) - [TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training](https://arxiv.org/abs/2501.04765)
-* [2025-08-18, 17:09:36](https://news.ycombinator.com/item?id=44942954) - [Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 * [2025-08-18, 17:09:17](https://news.ycombinator.com/item?id=44942949) - [Macintosh Drawing Software Compared](https://blog.gingerbeardman.com/2021/04/24/macintosh-drawing-software-compared/)
 * [2025-08-18, 17:08:36](https://news.ycombinator.com/item?id=44942936) - [Left to Right Programming](https://graic.net/p/left-to-right-programming)
 * [2025-08-18, 16:54:25](https://news.ycombinator.com/item?id=44942761) - [The lottery ticket hypothesis: why neural networks work](https://nearlyright.com/how-ai-researchers-accidentally-discovered-that-everything-they-thought-about-learning-was-wrong/)
