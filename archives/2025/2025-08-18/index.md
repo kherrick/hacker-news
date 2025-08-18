@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 21:43:22](https://news.ycombinator.com/item?id=44945660) - [Phrack 72](https://phrack.org/issues/72/1)
+* [2025-08-18, 21:36:02](https://news.ycombinator.com/item?id=44945599) - [Google Is Watching](https://not-a-tech-bro.ghost.io/google-is-watching/)
 * [2025-08-18, 21:31:49](https://news.ycombinator.com/item?id=44945562) - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
 * [2025-08-18, 21:28:05](https://news.ycombinator.com/item?id=44945532) - [Obsidian Bases](https://help.obsidian.md/bases)
 * [2025-08-18, 21:10:39](https://news.ycombinator.com/item?id=44945379) - [Show HN: Fractional jobs – part-time roles for engineers](https://www.fractionaljobs.io)
