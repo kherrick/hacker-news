@@ -54,6 +54,7 @@
 * [2025-08-15, 13:06:33](https://news.ycombinator.com/item?id=44911941) - [Is Air Travel Getting Worse? More delays, fewer accidents, and lower prices](https://www.maximum-progress.com/p/is-air-travel-getting-worse)
 * [2025-08-15, 13:01:23](https://news.ycombinator.com/item?id=44911873) - [What Kids Told Us About How to Get Them Off Their Phones](https://www.theatlantic.com/ideas/archive/2025/08/kids-smartphones-play-freedom/683742/)
 * [2025-08-15, 12:51:58](https://news.ycombinator.com/item?id=44911757) - [The Microscopic Forces That Break Hearts](https://thewaitlist.substack.com/p/the-microscopic-forces-that-break)
+* [2025-08-15, 12:34:27](https://news.ycombinator.com/item?id=44911582) - [Viking-Age hoard reveals trade between England and the Islamic World](https://www.heritagedaily.com/2025/08/viking-age-hoard-reveals-trade-between-england-and-the-islamic-world/155786)
 * [2025-08-15, 12:32:43](https://news.ycombinator.com/item?id=44911571) - [Non-invasive vagus nerve stimulation and exercise capacity in healthy volunteers](https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false)
 * [2025-08-15, 12:31:54](https://news.ycombinator.com/item?id=44911560) - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 * [2025-08-15, 12:31:34](https://news.ycombinator.com/item?id=44911554) - [Submerged Roman bathhouse in Baiae may be part of Cicero's villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
