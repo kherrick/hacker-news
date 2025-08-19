@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-08-19, 13:20:56",
+      "https://news.ycombinator.com/item?id=44951204"
+    ],
+    [
+      "Ballot Hand Counts Lead to Inaccuracy",
+      "https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 12:56:47",
+      "https://news.ycombinator.com/item?id=44950981"
+    ],
+    [
+      "Critical Cache Poisoning Vulnerability in Dnsmasq",
+      "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 12:18:50",
       "https://news.ycombinator.com/item?id=44950742"
     ],
     [
       "Apple has not destroyed Steve Jobs' vision for iPad",
       "https://victorwynne.com/vision-for-ipad/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 12:10:09",
+      "https://news.ycombinator.com/item?id=44950661"
+    ],
+    [
+      "Launch HN: Uplift (YC S25) – Voice models for under-served languages",
+      "https://news.ycombinator.com/item?id=44950661"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-08-18, 16:31:48",
-      "https://news.ycombinator.com/item?id=44942501"
-    ],
-    [
-      "Anna's Archive: An Update from the Team",
-      "https://annas-archive.org/blog/an-update-from-the-team.html"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 14:59:26",
       "https://news.ycombinator.com/item?id=44941369"
     ],
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2025-08-16, 23:48:35",
-      "https://news.ycombinator.com/item?id=44927778"
+      "2025-08-18, 06:35:02",
+      "https://news.ycombinator.com/item?id=44937978"
     ],
     [
-      "An IRC-Enabled Lawn Mower (2021)",
-      "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/"
+      "EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)",
+      "https://github.com/eloqdata/eloqkv"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls",
       "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 15:27:27",
-      "https://news.ycombinator.com/item?id=44924261"
-    ],
-    [
-      "Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store",
-      "https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Life and Death of London's Crystal Palace (2021)",
       "https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 23:58:12",
-      "https://news.ycombinator.com/item?id=44907133"
-    ],
-    [
-      "The rising returns to R&D: Ideas are not getting harder to find",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171"
     ]
   ]
 ]
