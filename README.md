@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-19, 07:33:09](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
 * [2025-08-19, 00:35:08](https://news.ycombinator.com/item?id=44946996) - [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower)
 * [2025-08-19, 00:12:17](https://news.ycombinator.com/item?id=44946813) - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
 * [2025-08-19, 00:05:59](https://news.ycombinator.com/item?id=44946774) - [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
 * [2025-08-19, 00:04:11](https://news.ycombinator.com/item?id=44946762) - [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
-* [2025-08-18, 22:29:14](https://news.ycombinator.com/item?id=44945959) - [Lab-grown salmon hits the menu](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
 * [2025-08-18, 22:27:01](https://news.ycombinator.com/item?id=44945943) - [Shamelessness as a strategy (2019)](https://nadia.xyz/shameless)
 * [2025-08-18, 21:54:13](https://news.ycombinator.com/item?id=44945730) - [Newgrounds: Flash Forward 2025](https://www.newgrounds.com/bbs/topic/1542140)
 * [2025-08-18, 21:31:49](https://news.ycombinator.com/item?id=44945562) - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
