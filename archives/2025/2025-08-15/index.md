@@ -22,6 +22,7 @@
 * [2025-08-15, 18:38:25](https://news.ycombinator.com/item?id=44915993) - [LibreOffice says Microsoft Office exploits you, offers free ODF migration guide](https://www.neowin.net/news/libreoffice-says-microsoft-exploits-you-via-vendor-lock-in-offers-free-odf-migration-guide/)
 * [2025-08-15, 18:34:24](https://news.ycombinator.com/item?id=44915939) - [Sikkim and the Himalayan Chess Game](https://www.historytoday.com/archive/feature/sikkim-and-himalayan-chess-game)
 * [2025-08-15, 18:25:02](https://news.ycombinator.com/item?id=44915824) - [Is OpenBSD 10x faster than Linux?](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
+* [2025-08-15, 17:39:24](https://news.ycombinator.com/item?id=44915228) - [Precision mapping tracks woody plant spread across Great Plains grasslands](https://phys.org/news/2025-07-precision-tracks-woody-great-plains.html)
 * [2025-08-15, 17:39:02](https://news.ycombinator.com/item?id=44915220) - [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
 * [2025-08-15, 17:38:05](https://news.ycombinator.com/item?id=44915206) - [Launch HN: Embedder (YC S25) – Claude Code for Embedded Software](https://news.ycombinator.com/item?id=44915206)
 * [2025-08-15, 17:36:15](https://news.ycombinator.com/item?id=44915187) - [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
