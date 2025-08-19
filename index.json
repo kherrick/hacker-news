@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2025-08-19, 19:38:45",
+      "https://news.ycombinator.com/item?id=44955459"
+    ],
+    [
+      "CRDT: Text Buffer by Evan Wallace",
+      "https://madebyevan.com/algos/crdt-text-buffer/"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 19:38:38",
       "https://news.ycombinator.com/item?id=44955457"
     ],
     [
-      "The SSO Wall of Shame – Vendors that treat SSO as luxury feature",
+      "Vendors that treat single sign-on as a luxury feature",
       "https://sso.tax/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 18:42:25",
+      "https://news.ycombinator.com/item?id=44954823"
+    ],
+    [
+      "AnduinOS",
+      "https://www.anduinos.com/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "D2 (text to diagram tool) now supports ASCII renders",
       "https://d2lang.com/blog/ascii/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 17:30:26",
-      "https://news.ycombinator.com/item?id=44954040"
-    ],
-    [
-      "Forklifts require training",
-      "https://www.zacsweers.dev/forklifts-require-training/"
     ]
   ],
   [
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2025-08-19, 12:52:11",
-      "https://news.ycombinator.com/item?id=44950952"
+      "2025-08-19, 12:56:47",
+      "https://news.ycombinator.com/item?id=44950981"
     ],
     [
-      "Vim Macros for Beancount",
-      "https://tangled.sh/@adam.tngl.sh/vim-beancounting"
+      "Critical Cache Poisoning Vulnerability in Dnsmasq",
+      "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Launch HN: Uplift (YC S25) – Voice models for under-served languages",
       "https://news.ycombinator.com/item?id=44950661"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 10:32:41",
-      "https://news.ycombinator.com/item?id=44950091"
-    ],
-    [
-      "PyPI Preventing Domain Resurrection Attacks",
-      "https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-08-18, 07:57:30",
+      "https://news.ycombinator.com/item?id=44938354"
+    ],
+    [
+      "The joy of recursion, immutable data, & pure functions: Making mazes with JS",
+      "https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes/"
+    ]
+  ],
+  [
+    [
       "2025-08-16, 11:41:02",
       "https://news.ycombinator.com/item?id=44922362"
     ],
     [
       "How Figma’s multiplayer technology works (2019)",
       "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 08:43:19",
-      "https://news.ycombinator.com/item?id=44921467"
-    ],
-    [
-      "Guile bindings for Sway window manager",
-      "https://github.com/ebeem/guile-swayer"
     ]
   ],
   [
