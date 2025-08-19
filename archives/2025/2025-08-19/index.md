@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
 * [2025-08-19, 09:46:27](https://news.ycombinator.com/item?id=44949895) - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
+* [2025-08-19, 09:38:48](https://news.ycombinator.com/item?id=44949857) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 * [2025-08-19, 07:50:59](https://news.ycombinator.com/item?id=44949264) - [BBC witnesses settlers attack on Palestinian farm in West Bank](https://www.bbc.com/news/articles/cewy88jle0eo)
 * [2025-08-19, 07:33:09](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
