@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-19, 07:50:59",
-      "https://news.ycombinator.com/item?id=44949264"
-    ],
-    [
-      "BBC witnesses settlers attack on Palestinian farm in West Bank",
-      "https://www.bbc.com/news/articles/cewy88jle0eo"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 07:33:09",
       "https://news.ycombinator.com/item?id=44949162"
     ],
@@ -117,6 +107,16 @@
     [
       "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
       "https://github.com/tiny-tpu-v2/tiny-tpu"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 19:52:14",
+      "https://news.ycombinator.com/item?id=44944592"
+    ],
+    [
+      "Show HN: I built a toy TPU that can do inference and training on the XOR problem",
+      "https://www.tinytpu.com"
     ]
   ],
   [
