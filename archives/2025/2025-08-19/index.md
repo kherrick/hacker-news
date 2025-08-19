@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
+* [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the Futex, It's Futile](https://h4x0r.org/futex/)
 * [2025-08-19, 13:20:56](https://news.ycombinator.com/item?id=44951204) - [Ballot Hand Counts Lead to Inaccuracy](https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/)
 * [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
+* [2025-08-19, 12:52:11](https://news.ycombinator.com/item?id=44950952) - [Vim Macros for Beancount](https://tangled.sh/@adam.tngl.sh/vim-beancounting)
 * [2025-08-19, 12:18:50](https://news.ycombinator.com/item?id=44950742) - [Apple has not destroyed Steve Jobs' vision for iPad](https://victorwynne.com/vision-for-ipad/)
 * [2025-08-19, 12:13:10](https://news.ycombinator.com/item?id=44950695) - ['Ad Blocking Is Not Piracy' Decision Overturned by Top German Court](https://torrentfreak.com/ad-blocking-is-not-piracy-decision-overturned-by-top-german-court-250819/)
 * [2025-08-19, 12:10:09](https://news.ycombinator.com/item?id=44950661) - [Launch HN: Uplift (YC S25) – Voice models for under-served languages](https://news.ycombinator.com/item?id=44950661)
