@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-19, 18:42:25",
+      "https://news.ycombinator.com/item?id=44954823"
+    ],
+    [
+      "AnduinOS",
+      "https://www.anduinos.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 18:14:41",
+      "https://news.ycombinator.com/item?id=44954524"
+    ],
+    [
+      "D2 (text to diagram tool) now supports ASCII renders",
+      "https://d2lang.com/blog/ascii/"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 16:22:01",
       "https://news.ycombinator.com/item?id=44953316"
     ],
@@ -97,16 +117,6 @@
     [
       "Without the futex, it's futile",
       "https://h4x0r.org/futex/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 13:29:58",
-      "https://news.ycombinator.com/item?id=44951287"
-    ],
-    [
-      "Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering",
-      "https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Show HN: Whispering – Open-source, local-first dictation you can trust",
       "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 14:59:26",
-      "https://news.ycombinator.com/item?id=44941369"
-    ],
-    [
-      "Counter-Strike: A billion-dollar game built in a dorm room",
-      "https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html"
     ]
   ],
   [
