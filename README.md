@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-19, 18:42:25](https://news.ycombinator.com/item?id=44954823) - [AnduinOS](https://www.anduinos.com/)
 * [2025-08-19, 18:30:57](https://news.ycombinator.com/item?id=44954702) - [Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
 * [2025-08-19, 18:27:34](https://news.ycombinator.com/item?id=44954665) - [Notion Releases Offline Mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
 * [2025-08-19, 18:14:41](https://news.ycombinator.com/item?id=44954524) - [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
@@ -14,6 +13,7 @@
 * [2025-08-19, 14:53:11](https://news.ycombinator.com/item?id=44952246) - [Launch HN: Parachute (YC S25) – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
 * [2025-08-19, 14:48:54](https://news.ycombinator.com/item?id=44952185) - [\"Remove mentions of XSLT from the html spec\"](https://github.com/whatwg/html/pull/11563)
 * [2025-08-19, 14:20:25](https://news.ycombinator.com/item?id=44951862) - [Positron, a New Data Science IDE](https://posit.co/blog/positron-product-announcement-aug-2025/)
+* [2025-08-19, 14:14:44](https://news.ycombinator.com/item?id=44951799) - [Why I'm all-in on Zen Browser](https://werd.io/why-im-all-in-on-zen-browser/)
 * [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the futex, it's futile](https://h4x0r.org/futex/)
 * [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 * [2025-08-19, 12:52:11](https://news.ycombinator.com/item?id=44950952) - [Vim Macros for Beancount](https://tangled.sh/@adam.tngl.sh/vim-beancounting)
