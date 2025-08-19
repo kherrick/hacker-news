@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
+* [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
 * [2025-08-19, 01:25:03](https://news.ycombinator.com/item?id=44947276) - [Starting game development in JavaScript with no experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
 * [2025-08-19, 00:35:08](https://news.ycombinator.com/item?id=44946996) - [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower)
 * [2025-08-19, 00:12:17](https://news.ycombinator.com/item?id=44946813) - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
