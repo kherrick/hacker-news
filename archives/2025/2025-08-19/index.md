@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
+* [2025-08-19, 12:18:50](https://news.ycombinator.com/item?id=44950742) - [Apple has not destroyed Steve Jobs' vision for iPad](https://victorwynne.com/vision-for-ipad/)
+* [2025-08-19, 11:58:34](https://news.ycombinator.com/item?id=44950600) - [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)
+* [2025-08-19, 10:32:41](https://news.ycombinator.com/item?id=44950091) - [PyPI Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
 * [2025-08-19, 09:46:27](https://news.ycombinator.com/item?id=44949895) - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
 * [2025-08-19, 09:38:48](https://news.ycombinator.com/item?id=44949857) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
+* [2025-08-19, 08:53:23](https://news.ycombinator.com/item?id=44949617) - [Intel 80286 emulator for Raspberry Pico](https://github.com/xrip/pico-286)
 * [2025-08-19, 07:50:59](https://news.ycombinator.com/item?id=44949264) - [BBC witnesses settlers attack on Palestinian farm in West Bank](https://www.bbc.com/news/articles/cewy88jle0eo)
 * [2025-08-19, 07:33:09](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
