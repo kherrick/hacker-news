@@ -54,6 +54,7 @@
 * [2025-08-16, 12:08:45](https://news.ycombinator.com/item?id=44922540) - [Walkie-Textie Wireless Communicator](http://www.technoblogy.com/show?2AON)
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
 * [2025-08-16, 11:44:42](https://news.ycombinator.com/item?id=44922383) - [Eliminating JavaScript cold starts on AWS Lambda](https://goose.icu/lambda/)
+* [2025-08-16, 11:41:02](https://news.ycombinator.com/item?id=44922362) - [Figma's Multiplayer Technology (2019)](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 * [2025-08-16, 11:36:27](https://news.ycombinator.com/item?id=44922342) - [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
 * [2025-08-16, 11:35:08](https://news.ycombinator.com/item?id=44922333) - [African Union joins calls to end use of Mercator map that shrinks Africa's size](https://www.theguardian.com/world/2025/aug/15/african-union-true-size-world-map-replace-mercator-version)
 * [2025-08-16, 11:34:06](https://news.ycombinator.com/item?id=44922324) - [Open Office Is Giving You Secondhand ADHD](https://floustate.com/blog/open-office-secondhand-adhd)

@@ -6,6 +6,7 @@
 
 * [2025-08-19, 17:32:39](https://news.ycombinator.com/item?id=44954065) - [Porn censorship is going to destroy the internet](https://mashable.com/article/age-verification-is-going-to-destroy-the-entire-internet)
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
+* [2025-08-19, 16:18:27](https://news.ycombinator.com/item?id=44953282) - [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
 * [2025-08-19, 16:16:22](https://news.ycombinator.com/item?id=44953264) - [CEO pay at top US companies accelerates at fastest pace in 4 years](https://www.ft.com/content/d8da9877-a5d0-4ac2-87cd-236ff33d7269)
 * [2025-08-19, 16:03:59](https://news.ycombinator.com/item?id=44953125) - [Octopolis and Octlantis](https://en.wikipedia.org/wiki/Octopolis_and_Octlantis)
 * [2025-08-19, 15:55:15](https://news.ycombinator.com/item?id=44953032) - [How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)

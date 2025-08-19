@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-19, 17:32:39](https://news.ycombinator.com/item?id=44954065) - [Porn censorship is going to destroy the internet](https://mashable.com/article/age-verification-is-going-to-destroy-the-entire-internet)
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
-* [2025-08-19, 16:03:59](https://news.ycombinator.com/item?id=44953125) - [Octopolis and Octlantis](https://en.wikipedia.org/wiki/Octopolis_and_Octlantis)
+* [2025-08-19, 16:18:27](https://news.ycombinator.com/item?id=44953282) - [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
 * [2025-08-19, 15:55:15](https://news.ycombinator.com/item?id=44953032) - [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
 * [2025-08-19, 15:34:55](https://news.ycombinator.com/item?id=44952789) - [A renovation project in Turkey led to the discovery of a lost city (2023)](https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps)
 * [2025-08-19, 15:25:42](https://news.ycombinator.com/item?id=44952672) - [As Alaska's salmon plummet, scientists home in on the killer – Science – AAAS](https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer)
@@ -26,6 +25,7 @@
 * [2025-08-18, 14:59:26](https://news.ycombinator.com/item?id=44941369) - [Counter-Strike: A billion-dollar game built in a dorm room](https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html)
 * [2025-08-18, 08:54:48](https://news.ycombinator.com/item?id=44938622) - [Geotoy – Shadertoy for 3D Geometry](https://3d.ameo.design/geotoy)
 * [2025-08-18, 06:18:58](https://news.ycombinator.com/item?id=44937893) - [Staff disquiet as Alan Turing Institute faces identity crisis](https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis)
+* [2025-08-16, 11:41:02](https://news.ycombinator.com/item?id=44922362) - [Figma's Multiplayer Technology (2019)](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 * [2025-08-16, 08:43:19](https://news.ycombinator.com/item?id=44921467) - [Guile bindings for Sway window manager](https://github.com/ebeem/guile-swayer)
 * [2025-08-16, 07:49:51](https://news.ycombinator.com/item?id=44921195) - [Candle Flame Oscillations as a Clock](https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/)
 * [2025-08-15, 18:30:47](https://news.ycombinator.com/item?id=44915897) - [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net)
