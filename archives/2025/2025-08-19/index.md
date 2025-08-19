@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
+* [2025-08-19, 17:32:39](https://news.ycombinator.com/item?id=44954065) - [Porn censorship is going to destroy the internet](https://mashable.com/article/age-verification-is-going-to-destroy-the-entire-internet)
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 * [2025-08-19, 16:16:22](https://news.ycombinator.com/item?id=44953264) - [CEO pay at top US companies accelerates at fastest pace in 4 years](https://www.ft.com/content/d8da9877-a5d0-4ac2-87cd-236ff33d7269)
 * [2025-08-19, 16:03:59](https://news.ycombinator.com/item?id=44953125) - [Octopolis and Octlantis](https://en.wikipedia.org/wiki/Octopolis_and_Octlantis)
