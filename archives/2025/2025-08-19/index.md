@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
 * [2025-08-19, 18:42:25](https://news.ycombinator.com/item?id=44954823) - [AnduinOS](https://www.anduinos.com/)
+* [2025-08-19, 18:30:57](https://news.ycombinator.com/item?id=44954702) - [Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
 * [2025-08-19, 18:27:34](https://news.ycombinator.com/item?id=44954665) - [Notion Releases Offline Mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
 * [2025-08-19, 18:14:41](https://news.ycombinator.com/item?id=44954524) - [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
 * [2025-08-19, 17:32:39](https://news.ycombinator.com/item?id=44954065) - [Porn censorship is going to destroy the internet](https://mashable.com/article/age-verification-is-going-to-destroy-the-entire-internet)
 * [2025-08-19, 17:30:26](https://news.ycombinator.com/item?id=44954040) - [Forklifts Require Training](https://www.zacsweers.dev/forklifts-require-training/)
 * [2025-08-19, 17:25:24](https://news.ycombinator.com/item?id=44953971) - [Small Objects, Big Gains: Benchmarking Tigris Against AWS S3 and Cloudflare R2](https://www.tigrisdata.com/blog/benchmark-small-objects/)
+* [2025-08-19, 16:49:15](https://news.ycombinator.com/item?id=44953575) - [Why Semantic Layers Matter (and how to build one with DuckDB)](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/)
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 * [2025-08-19, 16:18:27](https://news.ycombinator.com/item?id=44953282) - [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
 * [2025-08-19, 16:16:22](https://news.ycombinator.com/item?id=44953264) - [CEO pay at top US companies accelerates at fastest pace in 4 years](https://www.ft.com/content/d8da9877-a5d0-4ac2-87cd-236ff33d7269)
