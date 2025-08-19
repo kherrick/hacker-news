@@ -129,6 +129,48 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44951204">
+          <h3>
+            <a
+              class="item"
+              href="https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/"
+              >Ballot Hand Counts Lead to Inaccuracy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-19 @ 13:20:56</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44951204"
+                  >Comments</a
+                ><span class="descendants">: 32</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44950981">
+          <h3>
+            <a
+              class="item"
+              href="https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
+              >Critical Cache Poisoning Vulnerability in Dnsmasq</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-19 @ 12:56:47</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44950981"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44950742">
           <h3>
             <a class="item" href="https://victorwynne.com/vision-for-ipad/"
@@ -139,13 +181,118 @@
             <h4>
               <span>2025-08-19 @ 12:18:50</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44950742"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44950661">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44950661"
+              >Launch HN: Uplift (YC S25) – Voice models for under-served
+              languages</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-19 @ 12:10:09</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44950661"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://upliftai.org">https://upliftai.org</a>). We build
+              models that speak underserved languages — today: Urdu, Sindhi, and
+              Balochi.
+              <p>
+                A billion people worldwide can't read. In countries like
+                Pakistan – the 5th most populous country – 42% of adults are
+                illiterate. This holds back the entire economy: patients can't
+                read medical reports, parents can't help with homework, banks
+                can't go fully digital, farmers can't research best practices,
+                and people memorize smartphone app button sequences. Voice AI
+                interfaces can fix all of this, and we think this will perhaps
+                be one of the great benefits of modern AI.
+              </p>
+              <p>
+                Right now, existing voice models barely work for these
+                languages, and big tech is moving slowly.
+              </p>
+              <p>
+                Uplift AI was originally a side project to make datasets for
+                translation and voice models. For us it was a "cool side-thing"
+                to work on, not an "important full-time thing" to work on. With
+                some initial data we hacked together a Urdu Voice Bot on
+                Whatsapp and gave it to one domestic worker. In two days 800
+                people were using it. When we dived deeper into understanding
+                the users, we learned that text interfaces don't work for sooo
+                many. So we started Uplift AI to solve this problem fulltime.
+              </p>
+              <p>
+                The most challenging part is that all the building blocks needed
+                for great voice models are broken for these languages. For
+                example, if you are creating a speech synthesis model, you will
+                scrape a lot of data from youtube and auto-label it using a
+                transcription model… all very easy to do in English. But it
+                doesn't work in under-served languages because the transcription
+                modes are not accurate.
+              </p>
+              <p>
+                There are many other challenges. Like when you hire human
+                transcribers to label the data, often they don't have any spell
+                correctors for their languages, and this creates lots of noise
+                in the data… making it hard to train models with low data. There
+                are many more challenges in phonemes, silence detection,
+                diacritization etc.
+              </p>
+              <p>
+                We solve these problems by making great internal tooling to help
+                with data labeling. Also, we source our own data and don't buy
+                it. This is counterintuitive, but a big advantage over companies
+                buying data and then training. By sourcing our own data we
+                create the right data distributions and get much better models
+                with much less data. By doing the entire thing inhouse, (data,
+                labeling, training, deploying) we are able to make a lot faster
+                progress.
+              </p>
+              <p>
+                Today we publicly offer a text to speech APIs for Urdu, Sindhi,
+                and Balochi. Here's a video which shows this:
+                <a
+                  href="https://www.loom.com/share/dcd5020967444c228e9c127151e7a9f5"
+                  >https://www.loom.com/share/dcd5020967444c228e9c127151e7a9f5</a
+                >.
+              </p>
+              <p>
+                Khan Academy is using our tech to dub videos to Urdu (<a
+                  href="https://ur.khanacademy.org"
+                  >https://ur.khanacademy.org</a
+                >).
+              </p>
+              <p>
+                Our models excel at informational use cases (like AI bots) but
+                need more work in emotive use-cases like poetry.
+              </p>
+              <p>
+                We have been giving a lot of people private access in beta mode,
+                and today are launching our models publicly. We believe this
+                will be the fastest way for us to learn about areas that are not
+                performing well so we can fix them quickly.
+              </p>
+              <p>
+                We'd love to hear from all of you, especially around your
+                experiences with under-served languages (not just the Pakistani
+                ones we're starting with) and your comments in general.
+              </p>
+            </div>
           </section>
         </section>
         <section id="44950600">
@@ -160,11 +307,11 @@
             <h4>
               <span>2025-08-19 @ 11:58:34</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44950600"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -181,7 +328,7 @@
             <h4>
               <span>2025-08-19 @ 10:32:41</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44950091"
                   >Comments</a
@@ -202,11 +349,11 @@
             <h4>
               <span>2025-08-19 @ 09:46:27</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44949895"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -221,11 +368,11 @@
             <h4>
               <span>2025-08-19 @ 08:53:23</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44949617"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -240,7 +387,7 @@
             <h4>
               <span>2025-08-19 @ 07:33:09</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44949162"
                   >Comments</a
@@ -261,11 +408,11 @@
             <h4>
               <span>2025-08-19 @ 04:49:35</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44948352"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -280,11 +427,11 @@
             <h4>
               <span>2025-08-19 @ 00:35:08</span
               ><span class="points-container"
-                >Points: <span class="points">415</span></span
+                >Points: <span class="points">429</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44946996"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -301,11 +448,11 @@
             <h4>
               <span>2025-08-19 @ 00:05:59</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44946774"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -322,11 +469,11 @@
             <h4>
               <span>2025-08-19 @ 00:04:11</span
               ><span class="points-container"
-                >Points: <span class="points">256</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44946762"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -341,7 +488,7 @@
             <h4>
               <span>2025-08-18 @ 21:28:05</span
               ><span class="points-container"
-                >Points: <span class="points">588</span></span
+                >Points: <span class="points">592</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44945532"
                   >Comments</a
@@ -361,7 +508,7 @@
             <h4>
               <span>2025-08-18 @ 20:34:37</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44945008"
                   >Comments</a
@@ -381,7 +528,7 @@
             <h4>
               <span>2025-08-18 @ 18:51:23</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44943986"
                   >Comments</a
@@ -507,11 +654,11 @@
             <h4>
               <span>2025-08-18 @ 17:08:36</span
               ><span class="points-container"
-                >Points: <span class="points">370</span></span
+                >Points: <span class="points">371</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44942936"
                   >Comments</a
-                ><span class="descendants">: 299</span></span
+                ><span class="descendants">: 302</span></span
               >
             </h4>
           </section>
@@ -529,7 +676,7 @@
             <h4>
               <span>2025-08-18 @ 16:52:29</span
               ><span class="points-container"
-                >Points: <span class="points">462</span></span
+                >Points: <span class="points">466</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44942731"
                   >Comments</a
@@ -626,27 +773,6 @@
             </div>
           </section>
         </section>
-        <section id="44942501">
-          <h3>
-            <a
-              class="item"
-              href="https://annas-archive.org/blog/an-update-from-the-team.html"
-              >Anna's Archive: An Update from the Team</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-18 @ 16:31:48</span
-              ><span class="points-container"
-                >Points: <span class="points">984</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44942501"
-                  >Comments</a
-                ><span class="descendants">: 472</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44941369">
           <h3>
             <a
@@ -659,11 +785,11 @@
             <h4>
               <span>2025-08-18 @ 14:59:26</span
               ><span class="points-container"
-                >Points: <span class="points">408</span></span
+                >Points: <span class="points">414</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44941369"
                   >Comments</a
-                ><span class="descendants">: 344</span></span
+                ><span class="descendants">: 345</span></span
               >
             </h4>
           </section>
@@ -678,7 +804,7 @@
             <h4>
               <span>2025-08-18 @ 13:39:53</span
               ><span class="points-container"
-                >Points: <span class="points">389</span></span
+                >Points: <span class="points">390</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44940485"
                   >Comments</a
@@ -700,32 +826,31 @@
             <h4>
               <span>2025-08-18 @ 09:35:17</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44938818"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44927778">
+        <section id="44937978">
           <h3>
-            <a
-              class="item"
-              href="https://jotunheimr.idlerpg.net/users/jotun/lawnmower/"
-              >An IRC-Enabled Lawn Mower (2021)</a
+            <a class="item" href="https://github.com/eloqdata/eloqkv"
+              >EloqKV, a distributed database with Redis compatible API (GPLv2
+              and AGPLv3)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-08-16 @ 23:48:35</span
+              <span>2025-08-18 @ 06:35:02</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44927778"
+                ><a href="https://news.ycombinator.com/item?id=44937978"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -743,33 +868,11 @@
             <h4>
               <span>2025-08-16 @ 20:54:54</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44926855"
                   >Comments</a
                 ><span class="descendants">: 47</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44924261">
-          <h3>
-            <a
-              class="item"
-              href="https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/"
-              >Netflix Revamps Tudum's CQRS Architecture with Raw Hollow
-              In-Memory Object Store</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-16 @ 15:27:27</span
-              ><span class="points-container"
-                >Points: <span class="points">49</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44924261"
-                  >Comments</a
-                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -805,11 +908,11 @@
             <h4>
               <span>2025-08-16 @ 14:01:38</span
               ><span class="points-container"
-                >Points: <span class="points">615</span></span
+                >Points: <span class="points">619</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44923520"
                   >Comments</a
-                ><span class="descendants">: 260</span></span
+                ><span class="descendants">: 262</span></span
               >
             </h4>
             <div class="text">
@@ -850,11 +953,11 @@
             <h4>
               <span>2025-08-16 @ 13:53:39</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44923451"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -869,7 +972,7 @@
             <h4>
               <span>2025-08-16 @ 12:08:45</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44922540"
                   >Comments</a
@@ -888,7 +991,7 @@
             <h4>
               <span>2025-08-15 @ 18:30:47</span
               ><span class="points-container"
-                >Points: <span class="points">340</span></span
+                >Points: <span class="points">354</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44915897"
                   >Comments</a
@@ -907,7 +1010,7 @@
             <h4>
               <span>2025-08-15 @ 14:28:56</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44912881"
                   >Comments</a
@@ -928,33 +1031,11 @@
             <h4>
               <span>2025-08-15 @ 09:35:15</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44910300"
                   >Comments</a
                 ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44907133">
-          <h3>
-            <a
-              class="item"
-              href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171"
-              >The rising returns to R&amp;amp;D: Ideas are not getting harder
-              to find</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-14 @ 23:58:12</span
-              ><span class="points-container"
-                >Points: <span class="points">115</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44907133"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
