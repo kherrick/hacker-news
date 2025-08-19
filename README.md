@@ -5,7 +5,6 @@
 * [2025-08-19, 00:05:59](https://news.ycombinator.com/item?id=44946774) - [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
 * [2025-08-19, 00:04:11](https://news.ycombinator.com/item?id=44946762) - [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
 * [2025-08-18, 22:29:14](https://news.ycombinator.com/item?id=44945959) - [Lab-grown salmon hits the menu](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
-* [2025-08-18, 22:02:15](https://news.ycombinator.com/item?id=44945783) - [Structured (Synchronous) Concurrency](https://fsantanna.github.io/sc.html)
 * [2025-08-18, 21:54:13](https://news.ycombinator.com/item?id=44945730) - [Newgrounds: Flash Forward 2025](https://www.newgrounds.com/bbs/topic/1542140)
 * [2025-08-18, 21:31:49](https://news.ycombinator.com/item?id=44945562) - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
 * [2025-08-18, 21:28:05](https://news.ycombinator.com/item?id=44945532) - [Obsidian Bases](https://help.obsidian.md/bases)
@@ -28,6 +27,7 @@
 * [2025-08-16, 12:08:45](https://news.ycombinator.com/item?id=44922540) - [Walkie-Textie Wireless Communicator](http://www.technoblogy.com/show?2AON)
 * [2025-08-16, 09:22:34](https://news.ycombinator.com/item?id=44921674) - [dbcrust: The modern database CLI that speaks your language](https://github.com/clement-tourriere/dbcrust)
 * [2025-08-16, 02:12:45](https://news.ycombinator.com/item?id=44919527) - [Association for the Preservation of Spiritualist and Occult Periodicals](https://iapsop.com)
+* [2025-08-15, 18:30:47](https://news.ycombinator.com/item?id=44915897) - [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net)
 * [2025-08-15, 17:39:24](https://news.ycombinator.com/item?id=44915228) - [Precision mapping tracks woody plant spread across Great Plains grasslands](https://phys.org/news/2025-07-precision-tracks-woody-great-plains.html)
 * [2025-08-14, 23:58:12](https://news.ycombinator.com/item?id=44907133) - [The Rising Returns to R&D: Ideas Are Not Getting Harder to Find](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171)
 
