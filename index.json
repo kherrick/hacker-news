@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-08-19, 14:02:41",
-      "https://news.ycombinator.com/item?id=44951681"
-    ],
-    [
-      "U.K. 30-Year Yield Tops U.S. as Pressure Mounts on Government Borrowing",
-      "https://www.coindesk.com/markets/2025/08/19/u-k-30-year-yield-tops-u-s-as-pressure-mounts-on-government-borrowing"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 13:53:42",
       "https://news.ycombinator.com/item?id=44951563"
     ],
@@ -97,6 +87,16 @@
     [
       "Custom telescope mount using harmonic drives and ESP32",
       "https://www.svendewaerhert.com/blog/telescope-mount/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 08:53:23",
+      "https://news.ycombinator.com/item?id=44949617"
+    ],
+    [
+      "Intel 80286 emulator for Raspberry Pico",
+      "https://github.com/xrip/pico-286"
     ]
   ],
   [
