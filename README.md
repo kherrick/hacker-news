@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-19, 19:53:51](https://news.ycombinator.com/item?id=44955624) - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
 * [2025-08-19, 19:48:38](https://news.ycombinator.com/item?id=44955576) - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
+* [2025-08-19, 19:38:38](https://news.ycombinator.com/item?id=44955457) - [The SSO Wall of Shame – Vendors that treat SSO as luxury feature](https://sso.tax/)
 * [2025-08-19, 18:30:57](https://news.ycombinator.com/item?id=44954702) - [Medical cannabis patient data exposed by unsecured database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
 * [2025-08-19, 18:27:34](https://news.ycombinator.com/item?id=44954665) - [Notion releases offline mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
 * [2025-08-19, 18:14:41](https://news.ycombinator.com/item?id=44954524) - [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
 * [2025-08-19, 17:30:26](https://news.ycombinator.com/item?id=44954040) - [Forklifts require training](https://www.zacsweers.dev/forklifts-require-training/)
-* [2025-08-19, 17:25:24](https://news.ycombinator.com/item?id=44953971) - [Small Objects, Big Gains: Benchmarking Tigris Against AWS S3 and Cloudflare R2](https://www.tigrisdata.com/blog/benchmark-small-objects/)
 * [2025-08-19, 16:49:15](https://news.ycombinator.com/item?id=44953575) - [Why Semantic Layers Matter (and how to build one with DuckDB)](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/)
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 * [2025-08-19, 16:18:27](https://news.ycombinator.com/item?id=44953282) - [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
@@ -15,7 +16,6 @@
 * [2025-08-19, 14:48:54](https://news.ycombinator.com/item?id=44952185) - [\"Remove mentions of XSLT from the html spec\"](https://github.com/whatwg/html/pull/11563)
 * [2025-08-19, 14:20:25](https://news.ycombinator.com/item?id=44951862) - [Positron, a New Data Science IDE](https://posit.co/blog/positron-product-announcement-aug-2025/)
 * [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the futex, it's futile](https://h4x0r.org/futex/)
-* [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 * [2025-08-19, 12:52:11](https://news.ycombinator.com/item?id=44950952) - [Vim Macros for Beancount](https://tangled.sh/@adam.tngl.sh/vim-beancounting)
 * [2025-08-19, 12:10:09](https://news.ycombinator.com/item?id=44950661) - [Launch HN: Uplift (YC S25) – Voice models for under-served languages](https://news.ycombinator.com/item?id=44950661)
 * [2025-08-19, 10:32:41](https://news.ycombinator.com/item?id=44950091) - [PyPI Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
@@ -28,8 +28,8 @@
 * [2025-08-16, 11:41:02](https://news.ycombinator.com/item?id=44922362) - [How Figma’s multiplayer technology works (2019)](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 * [2025-08-16, 08:43:19](https://news.ycombinator.com/item?id=44921467) - [Guile bindings for Sway window manager](https://github.com/ebeem/guile-swayer)
 * [2025-08-16, 07:49:51](https://news.ycombinator.com/item?id=44921195) - [Candle Flame Oscillations as a Clock](https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/)
+* [2025-08-16, 05:45:25](https://news.ycombinator.com/item?id=44920539) - [Branch prediction: Why CPUs can't wait?](https://namvdo.ai/cpu-branch-prediction/)
 * [2025-08-15, 18:30:47](https://news.ycombinator.com/item?id=44915897) - [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net)
-* [2025-08-15, 14:28:56](https://news.ycombinator.com/item?id=44912881) - [In 2006, Hitachi developed a 0.15mm-sized RFID chip](https://www.hitachi.com/New/cnews/060206.html)
 
 ## [Archives](archives/index.md)
 
