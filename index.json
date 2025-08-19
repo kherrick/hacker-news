@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-19, 17:32:39",
+      "https://news.ycombinator.com/item?id=44954065"
+    ],
+    [
+      "Porn censorship is going to destroy the internet",
+      "https://mashable.com/article/age-verification-is-going-to-destroy-the-entire-internet"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 16:22:01",
       "https://news.ycombinator.com/item?id=44953316"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44953032"
     ],
     [
-      "How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos",
+      "How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos",
       "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44951563"
     ],
     [
-      "Without the Futex, It's Futile",
+      "Without the futex, it's futile",
       "https://h4x0r.org/futex/"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Ted Chiang: The Secret Third Thing",
       "https://linch.substack.com/p/ted-chiang-review"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 20:34:37",
-      "https://news.ycombinator.com/item?id=44945008"
-    ],
-    [
-      "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
-      "https://github.com/tiny-tpu-v2/tiny-tpu"
     ]
   ],
   [
