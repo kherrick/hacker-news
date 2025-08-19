@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
+* [2025-08-19, 14:24:31](https://news.ycombinator.com/item?id=44951911) - [End well, this won't: UK commissioner suggests govt stops kids from using VPNs](https://www.theregister.com/2025/08/19/uk_commissioner_suggests_govt_stop/)
 * [2025-08-19, 14:14:44](https://news.ycombinator.com/item?id=44951799) - [Why I'm all-in on Zen Browser](https://werd.io/why-im-all-in-on-zen-browser/)
+* [2025-08-19, 14:02:41](https://news.ycombinator.com/item?id=44951681) - [U.K. 30-Year Yield Tops U.S. as Pressure Mounts on Government Borrowing](https://www.coindesk.com/markets/2025/08/19/u-k-30-year-yield-tops-u-s-as-pressure-mounts-on-government-borrowing)
 * [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the Futex, It's Futile](https://h4x0r.org/futex/)
 * [2025-08-19, 13:20:56](https://news.ycombinator.com/item?id=44951204) - [Ballot Hand Counts Lead to Inaccuracy](https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/)
 * [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
