@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-19, 16:22:01",
+      "https://news.ycombinator.com/item?id=44953316"
+    ],
+    [
+      "Emacs as your video-trimming tool",
+      "https://xenodium.com/emacs-as-your-video-trimming-tool"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 16:03:59",
       "https://news.ycombinator.com/item?id=44953125"
     ],
     [
       "Octopolis and Octlantis",
       "https://en.wikipedia.org/wiki/Octopolis_and_Octlantis"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 15:55:15",
+      "https://news.ycombinator.com/item?id=44953032"
+    ],
+    [
+      "How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos",
+      "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2025-08-18, 21:31:49",
-      "https://news.ycombinator.com/item?id=44945562"
-    ],
-    [
-      "Spice Data (YC S19) Is Hiring a Product Associate (New Grad)",
-      "https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 20:34:37",
       "https://news.ycombinator.com/item?id=44945008"
     ],
     [
       "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
       "https://github.com/tiny-tpu-v2/tiny-tpu"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 17:08:36",
-      "https://news.ycombinator.com/item?id=44942936"
-    ],
-    [
-      "Left to Right Programming",
-      "https://graic.net/p/left-to-right-programming"
     ]
   ],
   [
