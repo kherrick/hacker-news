@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-19, 19:53:51",
+      "https://news.ycombinator.com/item?id=44955624"
+    ],
+    [
+      "Perfect Freehand – Draw perfect pressure-sensitive freehand lines",
+      "https://www.perfectfreehand.com/"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 19:48:38",
       "https://news.ycombinator.com/item?id=44955576"
     ],
     [
       "Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life",
       "https://github.com/openai/openai-reflect"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 19:38:38",
+      "https://news.ycombinator.com/item?id=44955457"
+    ],
+    [
+      "The SSO Wall of Shame – Vendors that treat SSO as luxury feature",
+      "https://sso.tax/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Forklifts require training",
       "https://www.zacsweers.dev/forklifts-require-training/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 17:25:24",
-      "https://news.ycombinator.com/item?id=44953971"
-    ],
-    [
-      "Small Objects, Big Gains: Benchmarking Tigris Against AWS S3 and Cloudflare R2",
-      "https://www.tigrisdata.com/blog/benchmark-small-objects/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Without the futex, it's futile",
       "https://h4x0r.org/futex/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 12:56:47",
-      "https://news.ycombinator.com/item?id=44950981"
-    ],
-    [
-      "Critical Cache Poisoning Vulnerability in Dnsmasq",
-      "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-08-16, 05:45:25",
+      "https://news.ycombinator.com/item?id=44920539"
+    ],
+    [
+      "Branch prediction: Why CPUs can't wait?",
+      "https://namvdo.ai/cpu-branch-prediction/"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 18:30:47",
       "https://news.ycombinator.com/item?id=44915897"
     ],
     [
       "Lazy-brush – smooth drawing with mouse or finger",
       "https://lazybrush.dulnan.net"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 14:28:56",
-      "https://news.ycombinator.com/item?id=44912881"
-    ],
-    [
-      "In 2006, Hitachi developed a 0.15mm-sized RFID chip",
-      "https://www.hitachi.com/New/cnews/060206.html"
     ]
   ]
 ]
