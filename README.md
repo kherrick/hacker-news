@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-19, 20:45:14](https://news.ycombinator.com/item?id=44956098) - [Stop Paywalling SSO: It Is a Basic Right, Not an Enterprise Perk](https://oneuptime.com/blog/post/2025-08-19-sso-is-a-security-basic-not-an-enterprise-perk/view)
 * [2025-08-19, 19:53:51](https://news.ycombinator.com/item?id=44955624) - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
 * [2025-08-19, 19:48:38](https://news.ycombinator.com/item?id=44955576) - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
 * [2025-08-19, 19:38:45](https://news.ycombinator.com/item?id=44955459) - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
@@ -20,6 +19,7 @@
 * [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the futex, it's futile](https://h4x0r.org/futex/)
 * [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 * [2025-08-19, 12:10:09](https://news.ycombinator.com/item?id=44950661) - [Launch HN: Uplift (YC S25) – Voice models for under-served languages](https://news.ycombinator.com/item?id=44950661)
+* [2025-08-19, 10:32:41](https://news.ycombinator.com/item?id=44950091) - [PyPI Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
 * [2025-08-19, 09:46:27](https://news.ycombinator.com/item?id=44949895) - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
 * [2025-08-19, 07:33:09](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
