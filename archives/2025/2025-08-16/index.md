@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
 * [2025-08-16, 23:48:35](https://news.ycombinator.com/item?id=44927778) - [An IRC-Enabled Lawn Mower](https://jotunheimr.idlerpg.net/users/jotun/lawnmower/)
+* [2025-08-16, 23:15:25](https://news.ycombinator.com/item?id=44927629) - [Free up space (effortlessly) on WSL2](https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/)
 * [2025-08-16, 22:11:09](https://news.ycombinator.com/item?id=44927271) - [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
 * [2025-08-16, 22:04:29](https://news.ycombinator.com/item?id=44927244) - [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
 * [2025-08-16, 21:59:28](https://news.ycombinator.com/item?id=44927222) - [AI apps are like music](https://aimode.substack.com/p/ai-apps-are-like-music)
