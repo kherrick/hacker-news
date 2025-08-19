@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-19, 07:50:59](https://news.ycombinator.com/item?id=44949264) - [BBC witnesses settlers attack on Palestinian farm in West Bank](https://www.bbc.com/news/articles/cewy88jle0eo)
 * [2025-08-19, 07:33:09](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
 * [2025-08-19, 00:35:08](https://news.ycombinator.com/item?id=44946996) - [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower)
@@ -12,6 +11,7 @@
 * [2025-08-18, 21:31:49](https://news.ycombinator.com/item?id=44945562) - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
 * [2025-08-18, 21:28:05](https://news.ycombinator.com/item?id=44945532) - [Obsidian Bases](https://help.obsidian.md/bases)
 * [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
+* [2025-08-18, 19:52:14](https://news.ycombinator.com/item?id=44944592) - [Show HN: I built a toy TPU that can do inference and training on the XOR problem](https://www.tinytpu.com)
 * [2025-08-18, 18:51:23](https://news.ycombinator.com/item?id=44943986) - [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
 * [2025-08-18, 17:08:36](https://news.ycombinator.com/item?id=44942936) - [Left to Right Programming](https://graic.net/p/left-to-right-programming)
 * [2025-08-18, 16:52:29](https://news.ycombinator.com/item?id=44942731) - [Show HN: Whispering – Open-source, local-first dictation you can trust](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering)
