@@ -6,10 +6,10 @@
 * [2025-08-19, 00:05:59](https://news.ycombinator.com/item?id=44946774) - [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
 * [2025-08-19, 00:04:11](https://news.ycombinator.com/item?id=44946762) - [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
 * [2025-08-18, 22:29:14](https://news.ycombinator.com/item?id=44945959) - [Lab-grown salmon hits the menu](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
+* [2025-08-18, 22:27:01](https://news.ycombinator.com/item?id=44945943) - [Shamelessness as a strategy (2019)](https://nadia.xyz/shameless)
 * [2025-08-18, 21:54:13](https://news.ycombinator.com/item?id=44945730) - [Newgrounds: Flash Forward 2025](https://www.newgrounds.com/bbs/topic/1542140)
 * [2025-08-18, 21:31:49](https://news.ycombinator.com/item?id=44945562) - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
 * [2025-08-18, 21:28:05](https://news.ycombinator.com/item?id=44945532) - [Obsidian Bases](https://help.obsidian.md/bases)
-* [2025-08-18, 21:10:39](https://news.ycombinator.com/item?id=44945379) - [Show HN: Fractional jobs – part-time roles for engineers](https://www.fractionaljobs.io)
 * [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
 * [2025-08-18, 19:52:14](https://news.ycombinator.com/item?id=44944592) - [Show HN: I built a toy TPU that can do inference and training on the XOR problem](https://www.tinytpu.com)
 * [2025-08-18, 18:51:23](https://news.ycombinator.com/item?id=44943986) - [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
@@ -29,7 +29,7 @@
 * [2025-08-16, 02:12:45](https://news.ycombinator.com/item?id=44919527) - [Association for the Preservation of Spiritualist and Occult Periodicals](https://iapsop.com)
 * [2025-08-15, 18:30:47](https://news.ycombinator.com/item?id=44915897) - [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net)
 * [2025-08-15, 17:39:24](https://news.ycombinator.com/item?id=44915228) - [Precision mapping tracks woody plant spread across Great Plains grasslands](https://phys.org/news/2025-07-precision-tracks-woody-great-plains.html)
-* [2025-08-14, 23:58:12](https://news.ycombinator.com/item?id=44907133) - [The Rising Returns to R&D: Ideas Are Not Getting Harder to Find](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171)
+* [2025-08-14, 23:58:12](https://news.ycombinator.com/item?id=44907133) - [The rising returns to R&D: Ideas are not getting harder to find](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171)
 
 ## [Archives](archives/index.md)
 
