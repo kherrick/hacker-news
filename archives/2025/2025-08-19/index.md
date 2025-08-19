@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
+* [2025-08-19, 18:42:25](https://news.ycombinator.com/item?id=44954823) - [AnduinOS](https://www.anduinos.com/)
+* [2025-08-19, 18:14:41](https://news.ycombinator.com/item?id=44954524) - [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
 * [2025-08-19, 17:32:39](https://news.ycombinator.com/item?id=44954065) - [Porn censorship is going to destroy the internet](https://mashable.com/article/age-verification-is-going-to-destroy-the-entire-internet)
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 * [2025-08-19, 16:18:27](https://news.ycombinator.com/item?id=44953282) - [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)

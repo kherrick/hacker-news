@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-19, 18:42:25](https://news.ycombinator.com/item?id=44954823) - [AnduinOS](https://www.anduinos.com/)
+* [2025-08-19, 18:14:41](https://news.ycombinator.com/item?id=44954524) - [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 * [2025-08-19, 16:18:27](https://news.ycombinator.com/item?id=44953282) - [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
 * [2025-08-19, 15:55:15](https://news.ycombinator.com/item?id=44953032) - [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
@@ -10,7 +12,6 @@
 * [2025-08-19, 14:20:25](https://news.ycombinator.com/item?id=44951862) - [Positron, a New Data Science IDE](https://posit.co/blog/positron-product-announcement-aug-2025/)
 * [2025-08-19, 14:14:44](https://news.ycombinator.com/item?id=44951799) - [Why I'm all-in on Zen Browser](https://werd.io/why-im-all-in-on-zen-browser/)
 * [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the futex, it's futile](https://h4x0r.org/futex/)
-* [2025-08-19, 13:29:58](https://news.ycombinator.com/item?id=44951287) - [Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering](https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27)
 * [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 * [2025-08-19, 12:52:11](https://news.ycombinator.com/item?id=44950952) - [Vim Macros for Beancount](https://tangled.sh/@adam.tngl.sh/vim-beancounting)
 * [2025-08-19, 12:10:09](https://news.ycombinator.com/item?id=44950661) - [Launch HN: Uplift (YC S25) – Voice models for under-served languages](https://news.ycombinator.com/item?id=44950661)
@@ -22,7 +23,6 @@
 * [2025-08-19, 00:05:59](https://news.ycombinator.com/item?id=44946774) - [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
 * [2025-08-18, 19:20:01](https://news.ycombinator.com/item?id=44944241) - [Show HN: Chroma Cloud – serverless search database for AI](https://trychroma.com/cloud)
 * [2025-08-18, 16:52:29](https://news.ycombinator.com/item?id=44942731) - [Show HN: Whispering – Open-source, local-first dictation you can trust](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering)
-* [2025-08-18, 14:59:26](https://news.ycombinator.com/item?id=44941369) - [Counter-Strike: A billion-dollar game built in a dorm room](https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html)
 * [2025-08-18, 08:54:48](https://news.ycombinator.com/item?id=44938622) - [Geotoy – Shadertoy for 3D Geometry](https://3d.ameo.design/geotoy)
 * [2025-08-18, 06:18:58](https://news.ycombinator.com/item?id=44937893) - [Staff disquiet as Alan Turing Institute faces identity crisis](https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis)
 * [2025-08-16, 11:41:02](https://news.ycombinator.com/item?id=44922362) - [Figma's Multiplayer Technology (2019)](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
