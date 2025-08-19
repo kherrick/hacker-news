@@ -23,11 +23,11 @@
 * [2025-08-16, 23:48:35](https://news.ycombinator.com/item?id=44927778) - [An IRC-Enabled Lawn Mower (2021)](https://jotunheimr.idlerpg.net/users/jotun/lawnmower/)
 * [2025-08-16, 23:15:25](https://news.ycombinator.com/item?id=44927629) - [How to free up and automatically manage disk space for WSL](https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/)
 * [2025-08-16, 20:54:54](https://news.ycombinator.com/item?id=44926855) - [X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls](https://www.popsci.com/technology/tibetan-prayer-scroll-scans/)
+* [2025-08-16, 15:27:27](https://news.ycombinator.com/item?id=44924261) - [Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store](https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/)
 * [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 12:08:45](https://news.ycombinator.com/item?id=44922540) - [Walkie-Textie Wireless Communicator](http://www.technoblogy.com/show?2AON)
 * [2025-08-16, 02:12:45](https://news.ycombinator.com/item?id=44919527) - [Association for the Preservation of Spiritualist and Occult Periodicals](https://iapsop.com)
 * [2025-08-15, 18:30:47](https://news.ycombinator.com/item?id=44915897) - [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net)
-* [2025-08-15, 17:55:24](https://news.ycombinator.com/item?id=44915452) - [Croatia just revised its digital nomad visa to last up to 3 years](https://www.cnbc.com/2025/08/15/croatia-digital-nomad-visa.html)
 * [2025-08-15, 17:39:24](https://news.ycombinator.com/item?id=44915228) - [Precision mapping tracks woody plant spread across Great Plains grasslands](https://phys.org/news/2025-07-precision-tracks-woody-great-plains.html)
 * [2025-08-14, 23:58:12](https://news.ycombinator.com/item?id=44907133) - [The rising returns to R&D: Ideas are not getting harder to find](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171)
 
