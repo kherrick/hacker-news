@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-19, 04:49:35",
+      "https://news.ycombinator.com/item?id=44948352"
+    ],
+    [
+      "How to Build a Medieval Castle",
+      "https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 00:35:08",
       "https://news.ycombinator.com/item?id=44946996"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-08-18, 19:25:01",
-      "https://news.ycombinator.com/item?id=44944291"
-    ],
-    [
-      "T-Mobile claimed selling location data without consent is legal–judges disagree",
-      "https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 18:51:23",
       "https://news.ycombinator.com/item?id=44943986"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=44927629"
     ],
     [
-      "Free up space (effortlessly) on WSL2",
+      "How to free up and automatically manage disk space for WSL",
       "https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=44921674"
     ],
     [
-      "dbcrust: The modern database CLI that speaks your language",
+      "DBCrust – A modern database CLI",
       "https://github.com/clement-tourriere/dbcrust"
     ]
   ],
