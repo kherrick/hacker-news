@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 23:22:14](https://news.ycombinator.com/item?id=44946404) - [HR Giant Workday Got Hacked](https://gizmodo.com/hr-giant-workday-got-hacked-2000644474)
 * [2025-08-18, 22:29:44](https://news.ycombinator.com/item?id=44945966) - [Even if snap out of the AI bubble, we are never going to get these years back](https://coppolaemilio.com/entries/what-could-have-been/)
 * [2025-08-18, 22:29:14](https://news.ycombinator.com/item?id=44945959) - [Lab-Grown Salmon Hits the Menu at an Oregon Restaurant as the FDA Greenlights](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
 * [2025-08-18, 22:27:01](https://news.ycombinator.com/item?id=44945943) - [Shamelessness as a strategy (2019)](https://nadia.xyz/shameless)
