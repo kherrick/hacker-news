@@ -35,6 +35,7 @@
 * [2025-08-16, 14:57:41](https://news.ycombinator.com/item?id=44924031) - [Weather Radar APIs in 2025: A Founder's Complete Market Overview](https://www.rainviewer.com/blog/weather-radar-apis-2025-overview.html)
 * [2025-08-16, 14:49:49](https://news.ycombinator.com/item?id=44923962) - [Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material](https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/)
 * [2025-08-16, 14:49:33](https://news.ycombinator.com/item?id=44923957) - [SpaceX Gets Billions from the Government, Gives Little to Nothing Back in Taxes](https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html)
+* [2025-08-16, 14:31:49](https://news.ycombinator.com/item?id=44923777) - [A Case for Protecting Computer Games with SGX (2016)](https://dl.acm.org/doi/10.1145/3007788.3007792)
 * [2025-08-16, 14:22:28](https://news.ycombinator.com/item?id=44923703) - [Satoshi Nakamoto Translated into English Means \"Central Intelligence\"](https://wisewolfmedia.substack.com/p/did-the-cia-create-bitcoin)
 * [2025-08-16, 14:04:12](https://news.ycombinator.com/item?id=44923543) - [Climate Action Tracker](https://climateactiontracker.org/)
 * [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)

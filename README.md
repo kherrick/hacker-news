@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-19, 09:46:27](https://news.ycombinator.com/item?id=44949895) - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
-* [2025-08-19, 09:38:48](https://news.ycombinator.com/item?id=44949857) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 * [2025-08-19, 07:33:09](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
 * [2025-08-19, 00:35:08](https://news.ycombinator.com/item?id=44946996) - [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower)
@@ -22,6 +21,7 @@
 * [2025-08-16, 23:48:35](https://news.ycombinator.com/item?id=44927778) - [An IRC-Enabled Lawn Mower (2021)](https://jotunheimr.idlerpg.net/users/jotun/lawnmower/)
 * [2025-08-16, 20:54:54](https://news.ycombinator.com/item?id=44926855) - [X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls](https://www.popsci.com/technology/tibetan-prayer-scroll-scans/)
 * [2025-08-16, 15:27:27](https://news.ycombinator.com/item?id=44924261) - [Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store](https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/)
+* [2025-08-16, 14:31:49](https://news.ycombinator.com/item?id=44923777) - [A Case for Protecting Computer Games with SGX (2016)](https://dl.acm.org/doi/10.1145/3007788.3007792)
 * [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 13:53:39](https://news.ycombinator.com/item?id=44923451) - [How to Use Snprintf](https://bernsteinbear.com/blog/snprintf/)
 * [2025-08-16, 12:08:45](https://news.ycombinator.com/item?id=44922540) - [Walkie-Textie Wireless Communicator](http://www.technoblogy.com/show?2AON)
