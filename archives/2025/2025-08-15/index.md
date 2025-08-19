@@ -23,6 +23,7 @@
 * [2025-08-15, 18:34:24](https://news.ycombinator.com/item?id=44915939) - [Sikkim and the Himalayan Chess Game](https://www.historytoday.com/archive/feature/sikkim-and-himalayan-chess-game)
 * [2025-08-15, 18:30:47](https://news.ycombinator.com/item?id=44915897) - [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net)
 * [2025-08-15, 18:25:02](https://news.ycombinator.com/item?id=44915824) - [Is OpenBSD 10x faster than Linux?](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
+* [2025-08-15, 17:55:24](https://news.ycombinator.com/item?id=44915452) - [Croatia just revised its digital nomad visa to last up to 3 years](https://www.cnbc.com/2025/08/15/croatia-digital-nomad-visa.html)
 * [2025-08-15, 17:39:24](https://news.ycombinator.com/item?id=44915228) - [Precision mapping tracks woody plant spread across Great Plains grasslands](https://phys.org/news/2025-07-precision-tracks-woody-great-plains.html)
 * [2025-08-15, 17:39:02](https://news.ycombinator.com/item?id=44915220) - [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
 * [2025-08-15, 17:38:05](https://news.ycombinator.com/item?id=44915206) - [Launch HN: Embedder (YC S25) – Claude Code for Embedded Software](https://news.ycombinator.com/item?id=44915206)
