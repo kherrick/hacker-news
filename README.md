@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-19, 22:11:29](https://news.ycombinator.com/item?id=44956730) - [The Forgotten Meaning of \"Jerk.\"](https://languagehat.com/the-forgotten-meaning-of-jerk/)
 * [2025-08-19, 21:48:30](https://news.ycombinator.com/item?id=44956581) - [Drunken Bishop (2023)](https://re.factorcode.org/2023/08/drunken-bishop.html)
 * [2025-08-19, 19:53:51](https://news.ycombinator.com/item?id=44955624) - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
 * [2025-08-19, 19:48:38](https://news.ycombinator.com/item?id=44955576) - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
@@ -20,7 +21,6 @@
 * [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 * [2025-08-19, 12:10:09](https://news.ycombinator.com/item?id=44950661) - [Launch HN: Uplift (YC S25) – Voice models for under-served languages](https://news.ycombinator.com/item?id=44950661)
 * [2025-08-19, 09:46:27](https://news.ycombinator.com/item?id=44949895) - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
-* [2025-08-19, 07:33:09](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
 * [2025-08-18, 19:20:01](https://news.ycombinator.com/item?id=44944241) - [Show HN: Chroma Cloud – serverless search database for AI](https://trychroma.com/cloud)
 * [2025-08-18, 11:29:13](https://news.ycombinator.com/item?id=44939460) - [The new geography of stolen goods](https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods)
