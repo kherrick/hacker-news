@@ -71,3 +71,4 @@
 * [2025-08-16, 03:21:43](https://news.ycombinator.com/item?id=44919831) - [A Visual Exploration of Gaussian Processes (2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [2025-08-16, 02:44:22](https://news.ycombinator.com/item?id=44919666) - [8x19 Text Mode Font Origins](https://www.os2museum.com/wp/8x19-text-mode-font-origins/)
 * [2025-08-16, 02:39:34](https://news.ycombinator.com/item?id=44919647) - [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
+* [2025-08-16, 02:12:45](https://news.ycombinator.com/item?id=44919527) - [Int. Association for the Preservation of Spiritualist and Occult Periodicals](https://iapsop.com)
