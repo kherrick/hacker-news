@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-19, 20:45:14",
+      "https://news.ycombinator.com/item?id=44956098"
+    ],
+    [
+      "Stop Paywalling SSO: It Is a Basic Right, Not an Enterprise Perk",
+      "https://oneuptime.com/blog/post/2025-08-19-sso-is-a-security-basic-not-an-enterprise-perk/view"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 19:53:51",
       "https://news.ycombinator.com/item?id=44955624"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44955459"
     ],
     [
-      "CRDT: Text Buffer by Evan Wallace",
+      "CRDT: Text Buffer",
       "https://madebyevan.com/algos/crdt-text-buffer/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Branch prediction: Why CPUs can't wait?",
       "https://namvdo.ai/cpu-branch-prediction/"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 18:30:47",
-      "https://news.ycombinator.com/item?id=44915897"
-    ],
-    [
-      "Lazy-brush – smooth drawing with mouse or finger",
-      "https://lazybrush.dulnan.net"
     ]
   ]
 ]
