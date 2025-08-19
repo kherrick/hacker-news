@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-19, 21:48:30",
+      "https://news.ycombinator.com/item?id=44956581"
+    ],
+    [
+      "Drunken Bishop (2023)",
+      "https://re.factorcode.org/2023/08/drunken-bishop.html"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 19:53:51",
       "https://news.ycombinator.com/item?id=44955624"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-08-19, 14:48:54",
-      "https://news.ycombinator.com/item?id=44952185"
-    ],
-    [
-      "\"Remove mentions of XSLT from the html spec\"",
-      "https://github.com/whatwg/html/pull/11563"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 14:20:25",
       "https://news.ycombinator.com/item?id=44951862"
     ],
@@ -187,16 +187,6 @@
     [
       "Launch HN: Uplift (YC S25) – Voice models for under-served languages",
       "https://news.ycombinator.com/item?id=44950661"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 10:32:41",
-      "https://news.ycombinator.com/item?id=44950091"
-    ],
-    [
-      "PyPI Preventing Domain Resurrection Attacks",
-      "https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The joy of recursion, immutable data, & pure functions: Making mazes with JS",
       "https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes/"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 00:25:27",
+      "https://news.ycombinator.com/item?id=44927953"
+    ],
+    [
+      "Passive Microwave Repeaters",
+      "https://computer.rip/2025-08-16-passive-microwave-repeaters.html"
     ]
   ],
   [
