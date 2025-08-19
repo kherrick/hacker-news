@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-08-19, 14:52:35",
-      "https://news.ycombinator.com/item?id=44952240"
-    ],
-    [
-      "Google President Praised MAGA Speech Slamming 'Climate Extremist Agenda'",
-      "https://www.desmog.com/2025/08/19/google-president-praised-maga-speech-slamming-climate-extremist-agenda/"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 14:51:39",
       "https://news.ycombinator.com/item?id=44952225"
     ],
@@ -31,12 +21,12 @@
   ],
   [
     [
-      "2025-08-19, 14:14:44",
-      "https://news.ycombinator.com/item?id=44951799"
+      "2025-08-19, 14:48:54",
+      "https://news.ycombinator.com/item?id=44952185"
     ],
     [
-      "Why I'm all-in on Zen Browser",
-      "https://werd.io/why-im-all-in-on-zen-browser/"
+      "Chrome intends to remove XSLT from the HTML spec",
+      "https://github.com/whatwg/html/pull/11563"
     ]
   ],
   [
@@ -47,6 +37,16 @@
     [
       "Without the Futex, It's Futile",
       "https://h4x0r.org/futex/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 13:29:58",
+      "https://news.ycombinator.com/item?id=44951287"
+    ],
+    [
+      "Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering",
+      "https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Launch HN: Uplift (YC S25) – Voice models for under-served languages",
       "https://news.ycombinator.com/item?id=44950661"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 11:58:34",
-      "https://news.ycombinator.com/item?id=44950600"
-    ],
-    [
-      "UK drops demand for backdoor into Apple encryption",
-      "https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Counter-Strike: A billion-dollar game built in a dorm room",
       "https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 13:39:53",
+      "https://news.ycombinator.com/item?id=44940485"
+    ],
+    [
+      "FFmpeg Assembly Language Lessons",
+      "https://github.com/FFmpeg/asm-lessons"
     ]
   ],
   [
