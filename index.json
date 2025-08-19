@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-08-19, 01:25:03",
-      "https://news.ycombinator.com/item?id=44947276"
-    ],
-    [
-      "Starting game development in JavaScript with no experience",
-      "https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 00:35:08",
       "https://news.ycombinator.com/item?id=44946996"
     ],
     [
-      "OpenMower – An Open Source Lawn Mower",
+      "OpenMower – An open source lawn mower",
       "https://github.com/ClemensElflein/OpenMower"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "Lab-grown salmon hits the menu",
       "https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 22:02:15",
+      "https://news.ycombinator.com/item?id=44945783"
+    ],
+    [
+      "Structured (Synchronous) Concurrency",
+      "https://fsantanna.github.io/sc.html"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=44927778"
     ],
     [
-      "An IRC-Enabled Lawn Mower",
+      "An IRC-Enabled Lawn Mower (2021)",
       "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/"
     ]
   ],
