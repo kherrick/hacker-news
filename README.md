@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-19, 13:20:56](https://news.ycombinator.com/item?id=44951204) - [Ballot Hand Counts Lead to Inaccuracy](https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/)
+* [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 * [2025-08-19, 12:18:50](https://news.ycombinator.com/item?id=44950742) - [Apple has not destroyed Steve Jobs' vision for iPad](https://victorwynne.com/vision-for-ipad/)
+* [2025-08-19, 12:10:09](https://news.ycombinator.com/item?id=44950661) - [Launch HN: Uplift (YC S25) – Voice models for under-served languages](https://news.ycombinator.com/item?id=44950661)
 * [2025-08-19, 11:58:34](https://news.ycombinator.com/item?id=44950600) - [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)
 * [2025-08-19, 10:32:41](https://news.ycombinator.com/item?id=44950091) - [PyPI Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
 * [2025-08-19, 09:46:27](https://news.ycombinator.com/item?id=44949895) - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
@@ -15,13 +18,11 @@
 * [2025-08-18, 18:51:23](https://news.ycombinator.com/item?id=44943986) - [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
 * [2025-08-18, 17:08:36](https://news.ycombinator.com/item?id=44942936) - [Left to Right Programming](https://graic.net/p/left-to-right-programming)
 * [2025-08-18, 16:52:29](https://news.ycombinator.com/item?id=44942731) - [Show HN: Whispering – Open-source, local-first dictation you can trust](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering)
-* [2025-08-18, 16:31:48](https://news.ycombinator.com/item?id=44942501) - [Anna's Archive: An Update from the Team](https://annas-archive.org/blog/an-update-from-the-team.html)
 * [2025-08-18, 14:59:26](https://news.ycombinator.com/item?id=44941369) - [Counter-Strike: A billion-dollar game built in a dorm room](https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html)
 * [2025-08-18, 13:39:53](https://news.ycombinator.com/item?id=44940485) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-08-18, 09:35:17](https://news.ycombinator.com/item?id=44938818) - [Electromechanical reshaping,  an alternative to laser eye surgery](https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html)
-* [2025-08-16, 23:48:35](https://news.ycombinator.com/item?id=44927778) - [An IRC-Enabled Lawn Mower (2021)](https://jotunheimr.idlerpg.net/users/jotun/lawnmower/)
+* [2025-08-18, 06:35:02](https://news.ycombinator.com/item?id=44937978) - [EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)](https://github.com/eloqdata/eloqkv)
 * [2025-08-16, 20:54:54](https://news.ycombinator.com/item?id=44926855) - [X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls](https://www.popsci.com/technology/tibetan-prayer-scroll-scans/)
-* [2025-08-16, 15:27:27](https://news.ycombinator.com/item?id=44924261) - [Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store](https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/)
 * [2025-08-16, 14:31:49](https://news.ycombinator.com/item?id=44923777) - [A Case for Protecting Computer Games with SGX (2016)](https://dl.acm.org/doi/10.1145/3007788.3007792)
 * [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 13:53:39](https://news.ycombinator.com/item?id=44923451) - [How to Use Snprintf](https://bernsteinbear.com/blog/snprintf/)
@@ -29,7 +30,6 @@
 * [2025-08-15, 18:30:47](https://news.ycombinator.com/item?id=44915897) - [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net)
 * [2025-08-15, 14:28:56](https://news.ycombinator.com/item?id=44912881) - [In 2006, Hitachi developed a 0.15mm-sized RFID chip](https://www.hitachi.com/New/cnews/060206.html)
 * [2025-08-15, 09:35:15](https://news.ycombinator.com/item?id=44910300) - [The Life and Death of London's Crystal Palace (2021)](https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/)
-* [2025-08-14, 23:58:12](https://news.ycombinator.com/item?id=44907133) - [The rising returns to R&D: Ideas are not getting harder to find](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171)
 
 ## [Archives](archives/index.md)
 

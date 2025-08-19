@@ -73,6 +73,7 @@
 * [2025-08-18, 06:48:40](https://news.ycombinator.com/item?id=44938046) - [Finding a Successor to the FHS](https://lwn.net/SubscriberLink/1032947/67e23ce1a3f9f129/)
 * [2025-08-18, 06:39:52](https://news.ycombinator.com/item?id=44938004) - [Sam Altman says 'yes,' AI is in a bubble](https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview)
 * [2025-08-18, 06:38:11](https://news.ycombinator.com/item?id=44937991) - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
+* [2025-08-18, 06:35:02](https://news.ycombinator.com/item?id=44937978) - [EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)](https://github.com/eloqdata/eloqkv)
 * [2025-08-18, 06:26:07](https://news.ycombinator.com/item?id=44937933) - [Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner](https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/)
 * [2025-08-18, 04:57:47](https://news.ycombinator.com/item?id=44937550) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
 * [2025-08-18, 04:13:56](https://news.ycombinator.com/item?id=44937346) - [IMDB Terminal Browser](https://github.com/isene/IMDB)
