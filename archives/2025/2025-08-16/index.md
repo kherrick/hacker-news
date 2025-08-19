@@ -66,6 +66,7 @@
 * [2025-08-16, 09:41:57](https://news.ycombinator.com/item?id=44921780) - [The Cutaway Illustrations of Fred Freeman](https://5wgraphicsblog.com/2016/10/24/the-cutaway-illustrations-of-fred-freeman/)
 * [2025-08-16, 09:22:34](https://news.ycombinator.com/item?id=44921674) - [dbcrust: The modern database CLI that speaks your language](https://github.com/clement-tourriere/dbcrust)
 * [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
+* [2025-08-16, 07:49:51](https://news.ycombinator.com/item?id=44921195) - [Candle Flame Oscillations as a Clock](https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/)
 * [2025-08-16, 07:39:32](https://news.ycombinator.com/item?id=44921142) - [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
 * [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 06:26:08](https://news.ycombinator.com/item?id=44920747) - [Image Fulgurator (2011)](https://juliusvonbismarck.com/bank/index.php/projects/image-fulgurator/2/)
