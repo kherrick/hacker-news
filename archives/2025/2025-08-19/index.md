@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
+* [2025-08-19, 16:16:22](https://news.ycombinator.com/item?id=44953264) - [CEO pay at top US companies accelerates at fastest pace in 4 years](https://www.ft.com/content/d8da9877-a5d0-4ac2-87cd-236ff33d7269)
 * [2025-08-19, 16:03:59](https://news.ycombinator.com/item?id=44953125) - [Octopolis and Octlantis](https://en.wikipedia.org/wiki/Octopolis_and_Octlantis)
 * [2025-08-19, 15:55:15](https://news.ycombinator.com/item?id=44953032) - [How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
+* [2025-08-19, 15:34:55](https://news.ycombinator.com/item?id=44952789) - [The Mysterious Underground City Found in a Man's Basement](https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps)
+* [2025-08-19, 15:25:42](https://news.ycombinator.com/item?id=44952672) - [As Alaska's salmon plummet, scientists home in on the killer – Science – AAAS](https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer)
 * [2025-08-19, 14:53:11](https://news.ycombinator.com/item?id=44952246) - [Launch HN: Parachute (YC S25) – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
 * [2025-08-19, 14:52:35](https://news.ycombinator.com/item?id=44952240) - [Google President Praised MAGA Speech Slamming 'Climate Extremist Agenda'](https://www.desmog.com/2025/08/19/google-president-praised-maga-speech-slamming-climate-extremist-agenda/)
 * [2025-08-19, 14:51:39](https://news.ycombinator.com/item?id=44952225) - [Ask HN: Have any successful startups been made by 'vibe coding'?](https://news.ycombinator.com/item?id=44952225)
