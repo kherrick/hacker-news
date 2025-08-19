@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
+* [2025-08-19, 22:41:16](https://news.ycombinator.com/item?id=44956915) - [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
 * [2025-08-19, 22:11:29](https://news.ycombinator.com/item?id=44956730) - [The Forgotten Meaning of \"Jerk.\"](https://languagehat.com/the-forgotten-meaning-of-jerk/)
 * [2025-08-19, 21:48:30](https://news.ycombinator.com/item?id=44956581) - [Drunken Bishop (2023)](https://re.factorcode.org/2023/08/drunken-bishop.html)
 * [2025-08-19, 20:45:14](https://news.ycombinator.com/item?id=44956098) - [Stop Paywalling SSO: It Is a Basic Right, Not an Enterprise Perk](https://oneuptime.com/blog/post/2025-08-19-sso-is-a-security-basic-not-an-enterprise-perk/view)
