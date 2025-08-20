@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
+* [2025-08-20, 14:01:26](https://news.ycombinator.com/item?id=44962059) - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
 * [2025-08-20, 13:37:15](https://news.ycombinator.com/item?id=44961847) - [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
 * [2025-08-20, 13:05:39](https://news.ycombinator.com/item?id=44961584) - [RFK Jr. is waging a misguided war on mRNA vaccine technology](https://www.wsj.com/opinion/rfk-jr-mrna-vaccines-hhs-covid-jay-bhattacharya-e9fa1ac3)
 * [2025-08-20, 12:00:09](https://news.ycombinator.com/item?id=44961054) - [GiveCampus (YC S15) Hiring Rails engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)

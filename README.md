@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
+* [2025-08-20, 14:01:26](https://news.ycombinator.com/item?id=44962059) - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
 * [2025-08-20, 13:37:15](https://news.ycombinator.com/item?id=44961847) - [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
 * [2025-08-20, 10:32:12](https://news.ycombinator.com/item?id=44960594) - [Show HN: Project management system for Claude Code](https://github.com/automazeio/ccpm)
 * [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
@@ -17,9 +18,9 @@
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 * [2025-08-19, 15:55:15](https://news.ycombinator.com/item?id=44953032) - [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
 * [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the futex, it's futile](https://h4x0r.org/futex/)
-* [2025-08-19, 13:20:37](https://news.ycombinator.com/item?id=44951200) - [Show HN: I've made an easy to extend and flexible JavaScript logger](https://github.com/inshinrei/halua)
 * [2025-08-18, 18:18:36](https://news.ycombinator.com/item?id=44943666) - [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 * [2025-08-18, 12:37:06](https://news.ycombinator.com/item?id=44939902) - [Gaussian Processes for Machine Learning (2006) [pdf]](https://gaussianprocess.org/gpml/chapters/RW.pdf)
+* [2025-08-18, 12:34:36](https://news.ycombinator.com/item?id=44939873) - [Show HN: Typed-arrow – compile‑time Arrow schemas for Rust](https://github.com/tonbo-io/typed-arrow)
 * [2025-08-18, 12:31:18](https://news.ycombinator.com/item?id=44939849) - [Intel Foundry Demonstrates First Arm-Based Chip on 18A Node](https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc)
 * [2025-08-18, 11:57:19](https://news.ycombinator.com/item?id=44939654) - [Customizing Lisp REPLs](https://aartaka.me/customize-repl.html)
 * [2025-08-18, 11:28:32](https://news.ycombinator.com/item?id=44939456) - [MapLibre Tile: A next generation geospatial format optimized for rendering](https://arxiv.org/abs/2508.10791)
@@ -28,7 +29,6 @@
 * [2025-08-18, 09:11:16](https://news.ycombinator.com/item?id=44938718) - [Fast and observable background job processing for .NET](https://github.com/mikasjp/BusyBee)
 * [2025-08-18, 09:00:53](https://news.ycombinator.com/item?id=44938667) - [Rails Charts Using ECharts from Apache](https://github.com/railsjazz/rails_charts)
 * [2025-08-18, 06:01:44](https://news.ycombinator.com/item?id=44937819) - [The Block Stacking Problem](https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html)
-* [2025-08-16, 16:52:54](https://news.ycombinator.com/item?id=44925066) - [Graphene capacitors achieve rapid, high-depth modulation of terahertz waves](https://phys.org/news/2025-08-graphene-capacitors-rapid-high-depth.html)
 * [2025-08-16, 07:49:51](https://news.ycombinator.com/item?id=44921195) - [Candle Flame Oscillations as a Clock](https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/)
 
 ## [Archives](archives/index.md)
