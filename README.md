@@ -2,7 +2,6 @@
 
 * [2025-08-20, 06:06:15](https://news.ycombinator.com/item?id=44959092) - [Databricks is raising a Series K Investment at >$100B valuation](https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation)
 * [2025-08-20, 06:03:03](https://news.ycombinator.com/item?id=44959073) - [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
-* [2025-08-20, 06:02:29](https://news.ycombinator.com/item?id=44959069) - [Vibe Coding Is the Worst Idea of 2025 [video]](https://www.youtube.com/watch?v=1A6uPztchXk)
 * [2025-08-20, 04:59:27](https://news.ycombinator.com/item?id=44958752) - [Type-machine](https://arthi-chaud.github.io/posts/type-machine/)
 * [2025-08-20, 04:27:29](https://news.ycombinator.com/item?id=44958621) - [Analysis of the GFW's Unconditional Port 443 Block on August 20, 2025](https://gfw.report/blog/gfw_unconditional_rst_20250820/en/)
 * [2025-08-20, 04:04:20](https://news.ycombinator.com/item?id=44958543) - [Show HN: Hanaco Weather – A poetic weather SNS from the OS Yamato project](https://github.com/osyamato/os-yamato)
@@ -19,6 +18,7 @@
 * [2025-08-19, 19:38:45](https://news.ycombinator.com/item?id=44955459) - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
 * [2025-08-19, 18:42:25](https://news.ycombinator.com/item?id=44954823) - [AnduinOS](https://www.anduinos.com/)
 * [2025-08-19, 18:14:41](https://news.ycombinator.com/item?id=44954524) - [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
+* [2025-08-19, 16:49:15](https://news.ycombinator.com/item?id=44953575) - [Why Semantic Layers Matter (and how to build one with DuckDB)](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/)
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 * [2025-08-19, 15:55:15](https://news.ycombinator.com/item?id=44953032) - [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
 * [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the futex, it's futile](https://h4x0r.org/futex/)
