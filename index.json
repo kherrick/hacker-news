@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-08-19, 16:49:15",
-      "https://news.ycombinator.com/item?id=44953575"
-    ],
-    [
-      "Why Semantic Layers Matter (and how to build one with DuckDB)",
-      "https://motherduck.com/blog/semantic-layer-duckdb-tutorial/"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 16:22:01",
       "https://news.ycombinator.com/item?id=44953316"
     ],
@@ -247,6 +237,16 @@
     [
       "Intel Foundry Demonstrates First Arm-Based Chip on 18A Node",
       "https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 11:57:19",
+      "https://news.ycombinator.com/item?id=44939654"
+    ],
+    [
+      "Customizing Lisp REPLs",
+      "https://aartaka.me/customize-repl.html"
     ]
   ],
   [
