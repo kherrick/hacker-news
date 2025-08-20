@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-20, 18:12:52](https://news.ycombinator.com/item?id=44964548) - [Say farewell to the AI bubble, and get ready for the crash](https://www.latimes.com/business/story/2025-08-20/say-farewell-to-the-ai-bubble-and-get-ready-for-the-crash)
 * [2025-08-20, 17:24:10](https://news.ycombinator.com/item?id=44963939) - [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 * [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
 * [2025-08-20, 17:01:10](https://news.ycombinator.com/item?id=44963693) - [14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk](https://14.ai/careers)
@@ -23,7 +24,6 @@
 * [2025-08-20, 04:27:29](https://news.ycombinator.com/item?id=44958621) - [Analysis of the GFW's Unconditional Port 443 Block on August 20, 2025](https://gfw.report/blog/gfw_unconditional_rst_20250820/en/)
 * [2025-08-20, 00:15:03](https://news.ycombinator.com/item?id=44957443) - [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
 * [2025-08-19, 22:41:16](https://news.ycombinator.com/item?id=44956915) - [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
-* [2025-08-19, 12:54:47](https://news.ycombinator.com/item?id=44950972) - [Ordered Insertion Optimization in OrioleDB](https://www.orioledb.com/blog/batch-inserts)
 * [2025-08-18, 18:18:36](https://news.ycombinator.com/item?id=44943666) - [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 * [2025-08-18, 12:34:43](https://news.ycombinator.com/item?id=44939874) - [Show HN: Strudel Flow, a pattern sequencer built with Strudel and React Flow](https://github.com/xyflow/strudel-flow)
 * [2025-08-18, 12:34:36](https://news.ycombinator.com/item?id=44939873) - [Show HN: Typed-arrow – compile‑time Arrow schemas for Rust](https://github.com/tonbo-io/typed-arrow)
