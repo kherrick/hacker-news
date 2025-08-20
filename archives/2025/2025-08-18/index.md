@@ -64,6 +64,7 @@
 * [2025-08-18, 11:42:31](https://news.ycombinator.com/item?id=44939551) - [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678)
 * [2025-08-18, 11:34:18](https://news.ycombinator.com/item?id=44939502) - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.md.html#overview)
 * [2025-08-18, 11:29:13](https://news.ycombinator.com/item?id=44939460) - [The new geography of stolen goods](https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods)
+* [2025-08-18, 11:22:22](https://news.ycombinator.com/item?id=44939423) - [How I Made Ruby Faster Than Ruby](https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster)
 * [2025-08-18, 11:04:34](https://news.ycombinator.com/item?id=44939331) - [LLMs and Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
 * [2025-08-18, 11:03:22](https://news.ycombinator.com/item?id=44939324) - [Website Is Served from Nine Neovim Buffers on My Old ThinkPad](https://vim.gabornyeki.com/)
 * [2025-08-18, 10:37:25](https://news.ycombinator.com/item?id=44939165) - [The End of Handwriting](https://www.wired.com/story/the-end-of-handwriting/)

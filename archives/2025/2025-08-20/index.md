@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 04:27:29](https://news.ycombinator.com/item?id=44958621) - [China blocked all HTTPS connection abroad for 1 hour in midnight](https://gfw.report/blog/gfw_unconditional_rst_20250820/en/)
 * [2025-08-20, 03:55:53](https://news.ycombinator.com/item?id=44958506) - [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)
 * [2025-08-20, 03:43:20](https://news.ycombinator.com/item?id=44958452) - [The Troubling Lines That Columbia Is Drawing](https://www.newyorker.com/news/the-lede/the-troubling-lines-that-columbia-is-drawing)
 * [2025-08-20, 03:35:20](https://news.ycombinator.com/item?id=44958421) - [Monoid-Augmented FIFOs, Deamortised](https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/)
