@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-20, 21:00:14](https://news.ycombinator.com/item?id=44966408) - [Coris (YC S22) Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
+* [2025-08-20, 20:37:58](https://news.ycombinator.com/item?id=44966170) - [Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to Bluesky's AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-08-20, 18:47:03](https://news.ycombinator.com/item?id=44964916) - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Lean proof of Fermat's Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
@@ -7,7 +9,6 @@
 * [2025-08-20, 17:50:21](https://news.ycombinator.com/item?id=44964266) - [Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links](https://nestable.dev/about)
 * [2025-08-20, 17:24:10](https://news.ycombinator.com/item?id=44963939) - [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 * [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
-* [2025-08-20, 17:01:10](https://news.ycombinator.com/item?id=44963693) - [14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk](https://14.ai/careers)
 * [2025-08-20, 16:29:27](https://news.ycombinator.com/item?id=44963391) - [Best Options for Using AI in Chip Design](https://semiengineering.com/best-options-for-using-ai-in-chip-design/)
 * [2025-08-20, 16:13:18](https://news.ycombinator.com/item?id=44963226) - [Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates](https://anchor.dev/relay)
 * [2025-08-20, 16:01:13](https://news.ycombinator.com/item?id=44963135) - [Show HN: Luminal – Open-source, search-based GPU compiler](https://github.com/luminal-ai/luminal)
@@ -26,7 +27,6 @@
 * [2025-08-20, 08:15:00](https://news.ycombinator.com/item?id=44959833) - [Mirrorshades: The Cyberpunk Anthology (1986)](https://www.rudyrucker.com/mirrorshades/HTML/)
 * [2025-08-20, 01:57:09](https://news.ycombinator.com/item?id=44958004) - [Skill issues – Dialectical Behavior Therapy and its discontents (2024)](https://www.thedriftmag.com/skill-issues/)
 * [2025-08-18, 18:18:36](https://news.ycombinator.com/item?id=44943666) - [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
-* [2025-08-18, 11:28:32](https://news.ycombinator.com/item?id=44939456) - [MapLibre Tile: A next generation geospatial format optimized for rendering](https://arxiv.org/abs/2508.10791)
 * [2025-08-17, 23:29:54](https://news.ycombinator.com/item?id=44935850) - [The Rise and Fall of Music Ringtones: A Statistical Analysis](https://www.statsignificant.com/p/the-rise-and-fall-of-music-ringtones)
 * [2025-08-17, 15:56:36](https://news.ycombinator.com/item?id=44932509) - [Visualizing GPT-OSS-20B embeddings](https://melonmars.github.io/LatentExplorer/embedding_viewer.html)
 * [2025-08-17, 12:17:37](https://news.ycombinator.com/item?id=44931079) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)

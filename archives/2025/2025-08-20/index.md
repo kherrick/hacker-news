@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 21:00:14](https://news.ycombinator.com/item?id=44966408) - [Coris (YC S22) Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
+* [2025-08-20, 20:37:58](https://news.ycombinator.com/item?id=44966170) - [Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to Bluesky's AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-08-20, 18:47:03](https://news.ycombinator.com/item?id=44964916) - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Lean proof of Fermat's Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
