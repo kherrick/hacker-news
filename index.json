@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-08-20, 17:56:27",
-      "https://news.ycombinator.com/item?id=44964366"
-    ],
-    [
-      "Zed for Windows: What's Taking So Long?",
-      "https://zed.dev/blog/windows-progress-report"
-    ]
-  ],
-  [
-    [
       "2025-08-20, 17:54:22",
       "https://news.ycombinator.com/item?id=44964332"
     ],
@@ -97,16 +87,6 @@
     [
       "Best Options for Using AI in Chip Design",
       "https://semiengineering.com/best-options-for-using-ai-in-chip-design/"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 16:13:18",
-      "https://news.ycombinator.com/item?id=44963226"
-    ],
-    [
-      "Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates",
-      "https://anchor.dev/relay"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2025-08-20, 01:57:09",
+      "https://news.ycombinator.com/item?id=44958004"
+    ],
+    [
+      "Skill issues – Dialectical Behavior Therapy and its discontents (2024)",
+      "https://www.thedriftmag.com/skill-issues/"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 00:15:03",
       "https://news.ycombinator.com/item?id=44957443"
     ],
@@ -297,6 +287,16 @@
     [
       "Visualizing GPT-OSS-20B embeddings",
       "https://melonmars.github.io/LatentExplorer/embedding_viewer.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 12:17:37",
+      "https://news.ycombinator.com/item?id=44931079"
+    ],
+    [
+      "Linear scan register allocation on SSA",
+      "https://bernsteinbear.com/blog/linear-scan/"
     ]
   ]
 ]
