@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-20, 06:06:15",
+      "https://news.ycombinator.com/item?id=44959092"
+    ],
+    [
+      "Databricks is raising a Series K Investment at >$100B valuation",
+      "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 06:03:03",
       "https://news.ycombinator.com/item?id=44959073"
     ],
@@ -35,8 +45,18 @@
       "https://news.ycombinator.com/item?id=44958621"
     ],
     [
-      "China blocked all HTTPS connection abroad for 1 hour in midnight",
+      "Analysis of the GFW's Unconditional Port 443 Block on August 20, 2025",
       "https://gfw.report/blog/gfw_unconditional_rst_20250820/en/"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 04:04:20",
+      "https://news.ycombinator.com/item?id=44958543"
+    ],
+    [
+      "Show HN: Hanaco Weather – A poetic weather SNS from the OS Yamato project",
+      "https://github.com/osyamato/os-yamato"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-08-19, 12:10:09",
-      "https://news.ycombinator.com/item?id=44950661"
-    ],
-    [
-      "Launch HN: Uplift (YC S25) – Voice models for under-served languages",
-      "https://news.ycombinator.com/item?id=44950661"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 09:46:27",
       "https://news.ycombinator.com/item?id=44949895"
     ],
@@ -247,16 +257,6 @@
     [
       "Intel Foundry Demonstrates First Arm-Based Chip on 18A Node",
       "https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 11:34:18",
-      "https://news.ycombinator.com/item?id=44939502"
-    ],
-    [
-      "Physically Based Rendering in Filament",
-      "https://google.github.io/filament/Filament.md.html#overview"
     ]
   ],
   [
