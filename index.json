@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-08-20, 04:27:29",
-      "https://news.ycombinator.com/item?id=44958621"
-    ],
-    [
-      "Analysis of the GFW's Unconditional Port 443 Block on August 20, 2025",
-      "https://gfw.report/blog/gfw_unconditional_rst_20250820/en/"
-    ]
-  ],
-  [
-    [
       "2025-08-20, 04:04:20",
       "https://news.ycombinator.com/item?id=44958543"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44958400"
     ],
     [
-      "Modern CI Is Too Complex and Misdirected",
+      "Modern CI is too complex and misdirected (2021)",
       "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Without the futex, it's futile",
       "https://h4x0r.org/futex/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 13:20:37",
+      "https://news.ycombinator.com/item?id=44951200"
+    ],
+    [
+      "Show HN: I've made an easy to extend and flexible JavaScript logger",
+      "https://github.com/inshinrei/halua"
     ]
   ],
   [
