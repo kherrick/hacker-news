@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-20, 21:00:14",
+      "https://news.ycombinator.com/item?id=44966408"
+    ],
+    [
+      "Coris (YC S22) Is Hiring",
+      "https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 20:37:58",
+      "https://news.ycombinator.com/item?id=44966170"
+    ],
+    [
+      "Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python",
+      "https://github.com/plutoprint/plutoprint"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 19:13:09",
       "https://news.ycombinator.com/item?id=44965233"
     ],
@@ -67,16 +87,6 @@
     [
       "An Update on Pytype",
       "https://github.com/google/pytype"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 17:01:10",
-      "https://news.ycombinator.com/item?id=44963693"
-    ],
-    [
-      "14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk",
-      "https://14.ai/careers"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "How to Think About GPUs",
       "https://jax-ml.github.io/scaling-book/gpus/"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 11:28:32",
-      "https://news.ycombinator.com/item?id=44939456"
-    ],
-    [
-      "MapLibre Tile: A next generation geospatial format optimized for rendering",
-      "https://arxiv.org/abs/2508.10791"
     ]
   ],
   [
