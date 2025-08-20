@@ -90,6 +90,7 @@
 * [2025-08-18, 06:35:02](https://news.ycombinator.com/item?id=44937978) - [EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)](https://github.com/eloqdata/eloqkv)
 * [2025-08-18, 06:26:07](https://news.ycombinator.com/item?id=44937933) - [Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner](https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/)
 * [2025-08-18, 06:18:58](https://news.ycombinator.com/item?id=44937893) - [Staff disquiet as Alan Turing Institute faces identity crisis](https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis)
+* [2025-08-18, 06:01:44](https://news.ycombinator.com/item?id=44937819) - [The Block Stacking Problem](https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html)
 * [2025-08-18, 04:57:47](https://news.ycombinator.com/item?id=44937550) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
 * [2025-08-18, 04:13:56](https://news.ycombinator.com/item?id=44937346) - [IMDB Terminal Browser](https://github.com/isene/IMDB)
 * [2025-08-18, 02:54:55](https://news.ycombinator.com/item?id=44936945) - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
