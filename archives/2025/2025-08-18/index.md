@@ -76,6 +76,7 @@
 * [2025-08-18, 09:53:03](https://news.ycombinator.com/item?id=44938920) - [MCP Doesn't Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
 * [2025-08-18, 09:35:33](https://news.ycombinator.com/item?id=44938822) - [Fast Type-Aware Linting in Oxlint](https://oxc.rs/blog/2025-08-17-oxlint-type-aware)
 * [2025-08-18, 09:35:17](https://news.ycombinator.com/item?id=44938818) - [An alternative to LASIK eye surgery – electromechanical remodelling](https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html)
+* [2025-08-18, 09:11:16](https://news.ycombinator.com/item?id=44938718) - [Fast and observable background job processing for .NET](https://github.com/mikasjp/BusyBee)
 * [2025-08-18, 09:00:53](https://news.ycombinator.com/item?id=44938667) - [Rails Charts Using ECharts from Apache](https://github.com/railsjazz/rails_charts)
 * [2025-08-18, 08:54:48](https://news.ycombinator.com/item?id=44938622) - [Geotoy – Shadertoy for 3D Geometry](https://3d.ameo.design/geotoy)
 * [2025-08-18, 07:57:30](https://news.ycombinator.com/item?id=44938354) - [The joy of recursion, immutable data, & pure functions: Making mazes with JS](https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes/)
