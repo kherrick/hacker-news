@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 13:05:39](https://news.ycombinator.com/item?id=44961584) - [RFK Jr. is waging a misguided war on mRNA vaccine technology](https://www.wsj.com/opinion/rfk-jr-mrna-vaccines-hhs-covid-jay-bhattacharya-e9fa1ac3)
 * [2025-08-20, 12:00:09](https://news.ycombinator.com/item?id=44961054) - [GiveCampus (YC S15) Hiring Rails engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
 * [2025-08-20, 10:32:12](https://news.ycombinator.com/item?id=44960594) - [Show HN: Claude Code workflow: PRDs → GitHub Issues → parallel execution](https://github.com/automazeio/ccpm)
 * [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
