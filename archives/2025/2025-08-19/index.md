@@ -41,6 +41,7 @@
 * [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the Futex, It's Futile](https://h4x0r.org/futex/)
 * [2025-08-19, 13:29:58](https://news.ycombinator.com/item?id=44951287) - [Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering](https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27)
 * [2025-08-19, 13:20:56](https://news.ycombinator.com/item?id=44951204) - [Ballot Hand Counts Lead to Inaccuracy](https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/)
+* [2025-08-19, 13:20:37](https://news.ycombinator.com/item?id=44951200) - [Show HN: I've made an easy to extend and flexible JavaScript logger](https://github.com/inshinrei/halua)
 * [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 * [2025-08-19, 12:52:11](https://news.ycombinator.com/item?id=44950952) - [Vim Macros for Beancount](https://tangled.sh/@adam.tngl.sh/vim-beancounting)
 * [2025-08-19, 12:18:50](https://news.ycombinator.com/item?id=44950742) - [Apple has not destroyed Steve Jobs' vision for iPad](https://victorwynne.com/vision-for-ipad/)
