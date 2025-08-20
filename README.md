@@ -2,7 +2,7 @@
 
 * [2025-08-20, 17:24:10](https://news.ycombinator.com/item?id=44963939) - [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 * [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
-* [2025-08-20, 17:01:10](https://news.ycombinator.com/item?id=44963693) - [14.ai (YC W24) is hiring eng (TS/Effect) in SF to build the AI-native Zendesk](https://14.ai/careers)
+* [2025-08-20, 17:01:10](https://news.ycombinator.com/item?id=44963693) - [14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk](https://14.ai/careers)
 * [2025-08-20, 16:53:35](https://news.ycombinator.com/item?id=44963594) - [Debugging Behind the Iron Curtain (2010)](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 * [2025-08-20, 16:29:27](https://news.ycombinator.com/item?id=44963391) - [Best Options for Using AI in Chip Design](https://semiengineering.com/best-options-for-using-ai-in-chip-design/)
 * [2025-08-20, 16:13:18](https://news.ycombinator.com/item?id=44963226) - [Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates](https://anchor.dev/relay)
@@ -10,6 +10,7 @@
 * [2025-08-20, 15:44:33](https://news.ycombinator.com/item?id=44962969) - [OPA maintainers and Styra employees hired by Apple](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
 * [2025-08-20, 15:34:07](https://news.ycombinator.com/item?id=44962881) - [Launch HN: Channel3 (YC S25) – A database of every product on the internet](https://news.ycombinator.com/item?id=44962881)
 * [2025-08-20, 15:32:44](https://news.ycombinator.com/item?id=44962869) - [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
+* [2025-08-20, 15:30:07](https://news.ycombinator.com/item?id=44962844) - [AWS in 2025: Stuff you think you know that's now wrong](https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/)
 * [2025-08-20, 15:23:01](https://news.ycombinator.com/item?id=44962767) - [Show HN: What country you would hit if you went straight where you're pointing](https://apps.apple.com/us/app/leascope/id6608979884)
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
 * [2025-08-20, 14:01:26](https://news.ycombinator.com/item?id=44962059) - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
@@ -19,9 +20,7 @@
 * [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
 * [2025-08-20, 08:15:00](https://news.ycombinator.com/item?id=44959833) - [Mirrorshades: The Cyberpunk Anthology (1986)](https://www.rudyrucker.com/mirrorshades/HTML/)
 * [2025-08-20, 06:06:15](https://news.ycombinator.com/item?id=44959092) - [Databricks is raising a Series K Investment at >$100B valuation](https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation)
-* [2025-08-20, 06:03:03](https://news.ycombinator.com/item?id=44959073) - [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
-* [2025-08-20, 03:30:06](https://news.ycombinator.com/item?id=44958400) - [Modern CI is too complex and misdirected (2021)](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
-* [2025-08-20, 00:18:00](https://news.ycombinator.com/item?id=44957454) - [Copilot broke audit logs, but Microsoft won't tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
+* [2025-08-20, 04:27:29](https://news.ycombinator.com/item?id=44958621) - [Analysis of the GFW's Unconditional Port 443 Block on August 20, 2025](https://gfw.report/blog/gfw_unconditional_rst_20250820/en/)
 * [2025-08-20, 00:15:03](https://news.ycombinator.com/item?id=44957443) - [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
 * [2025-08-19, 22:41:16](https://news.ycombinator.com/item?id=44956915) - [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
 * [2025-08-19, 12:54:47](https://news.ycombinator.com/item?id=44950972) - [Ordered Insertion Optimization in OrioleDB](https://www.orioledb.com/blog/batch-inserts)
@@ -30,6 +29,7 @@
 * [2025-08-18, 12:34:36](https://news.ycombinator.com/item?id=44939873) - [Show HN: Typed-arrow – compile‑time Arrow schemas for Rust](https://github.com/tonbo-io/typed-arrow)
 * [2025-08-18, 11:28:32](https://news.ycombinator.com/item?id=44939456) - [MapLibre Tile: A next generation geospatial format optimized for rendering](https://arxiv.org/abs/2508.10791)
 * [2025-08-18, 06:01:44](https://news.ycombinator.com/item?id=44937819) - [The Block Stacking Problem](https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html)
+* [2025-08-17, 23:29:54](https://news.ycombinator.com/item?id=44935850) - [The Rise and Fall of Music Ringtones: A Statistical Analysis](https://www.statsignificant.com/p/the-rise-and-fall-of-music-ringtones)
 
 ## [Archives](archives/index.md)
 
