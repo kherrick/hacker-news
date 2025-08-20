@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
 * [2025-08-20, 06:03:03](https://news.ycombinator.com/item?id=44959073) - [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
 * [2025-08-20, 04:59:27](https://news.ycombinator.com/item?id=44958752) - [Type-machine](https://arthi-chaud.github.io/posts/type-machine/)
-* [2025-08-20, 04:04:20](https://news.ycombinator.com/item?id=44958543) - [Show HN: Hanaco Weather – A poetic weather SNS from the OS Yamato project](https://github.com/osyamato/os-yamato)
 * [2025-08-20, 03:30:06](https://news.ycombinator.com/item?id=44958400) - [Modern CI is too complex and misdirected (2021)](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
 * [2025-08-20, 02:25:53](https://news.ycombinator.com/item?id=44958145) - [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
 * [2025-08-20, 02:00:11](https://news.ycombinator.com/item?id=44958020) - [The Value of Hitting the HN Front Page](https://www.mooreds.com/wordpress/archives/3530)
