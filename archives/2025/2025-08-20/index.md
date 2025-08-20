@@ -7,6 +7,7 @@
 * [2025-08-20, 17:24:10](https://news.ycombinator.com/item?id=44963939) - [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 * [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
 * [2025-08-20, 17:01:10](https://news.ycombinator.com/item?id=44963693) - [14.ai (YC W24) is hiring eng (TS/Effect) in SF to build the AI-native Zendesk](https://14.ai/careers)
+* [2025-08-20, 16:53:35](https://news.ycombinator.com/item?id=44963594) - [Debugging Behind the Iron Curtain (2010)](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 * [2025-08-20, 16:53:35](https://news.ycombinator.com/item?id=44963594) - [Crash Cows](https://beza1e1.tuxen.de/lore/crash_cows.html)
 * [2025-08-20, 16:35:17](https://news.ycombinator.com/item?id=44963430) - [Digg.com Is Back](https://www.digg.com/)
 * [2025-08-20, 16:29:27](https://news.ycombinator.com/item?id=44963391) - [Best Options for Using AI in Chip Design](https://semiengineering.com/best-options-for-using-ai-in-chip-design/)
