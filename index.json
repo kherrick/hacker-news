@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-20, 12:00:09",
+      "https://news.ycombinator.com/item?id=44961054"
+    ],
+    [
+      "GiveCampus (YC S15) Hiring Rails engineers passionate about education",
+      "https://givecampus.breezy.hr/p/0c4a97691730"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 10:32:12",
+      "https://news.ycombinator.com/item?id=44960594"
+    ],
+    [
+      "Show HN: Claude Code workflow: PRDs → GitHub Issues → parallel execution",
+      "https://github.com/automazeio/ccpm"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 09:43:04",
       "https://news.ycombinator.com/item?id=44960316"
     ],
@@ -47,16 +67,6 @@
     [
       "Type-machine",
       "https://arthi-chaud.github.io/posts/type-machine/"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 03:30:06",
-      "https://news.ycombinator.com/item?id=44958400"
-    ],
-    [
-      "Modern CI is too complex and misdirected (2021)",
-      "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/"
     ]
   ],
   [
@@ -111,32 +121,12 @@
   ],
   [
     [
-      "2025-08-19, 21:48:30",
-      "https://news.ycombinator.com/item?id=44956581"
-    ],
-    [
-      "Drunken Bishop (2023)",
-      "https://re.factorcode.org/2023/08/drunken-bishop.html"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 19:38:45",
       "https://news.ycombinator.com/item?id=44955459"
     ],
     [
       "CRDT: Text Buffer",
       "https://madebyevan.com/algos/crdt-text-buffer/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 18:42:25",
-      "https://news.ycombinator.com/item?id=44954823"
-    ],
-    [
-      "AnduinOS",
-      "https://www.anduinos.com/"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2025-08-19, 13:20:37",
+      "https://news.ycombinator.com/item?id=44951200"
+    ],
+    [
+      "Show HN: I've made an easy to extend and flexible JavaScript logger",
+      "https://github.com/inshinrei/halua"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 18:18:36",
       "https://news.ycombinator.com/item?id=44943666"
     ],
@@ -217,6 +217,16 @@
     [
       "Customizing Lisp REPLs",
       "https://aartaka.me/customize-repl.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 11:28:32",
+      "https://news.ycombinator.com/item?id=44939456"
+    ],
+    [
+      "MapLibre Tile: A next generation geospatial format optimized for rendering",
+      "https://arxiv.org/abs/2508.10791"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Tiny, removable \"mini SSD\" could eventually be a big deal for gaming handhelds",
       "https://arstechnica.com/gadgets/2025/08/tiny-removable-mini-ssd-could-eventually-be-a-big-deal-for-gaming-handhelds/"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 11:41:02",
-      "https://news.ycombinator.com/item?id=44922362"
-    ],
-    [
-      "How Figma’s multiplayer technology works (2019)",
-      "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/"
     ]
   ],
   [
