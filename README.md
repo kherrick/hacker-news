@@ -22,7 +22,7 @@
 * [2025-08-19, 13:20:37](https://news.ycombinator.com/item?id=44951200) - [Show HN: I've made an easy to extend and flexible JavaScript logger](https://github.com/inshinrei/halua)
 * [2025-08-19, 09:46:27](https://news.ycombinator.com/item?id=44949895) - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
 * [2025-08-18, 18:18:36](https://news.ycombinator.com/item?id=44943666) - [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
-* [2025-08-18, 12:37:06](https://news.ycombinator.com/item?id=44939902) - [Gaussian Processes for Machine Learning [pdf]](https://gaussianprocess.org/gpml/chapters/RW.pdf)
+* [2025-08-18, 12:37:06](https://news.ycombinator.com/item?id=44939902) - [Gaussian Processes for Machine Learning (2006) [pdf]](https://gaussianprocess.org/gpml/chapters/RW.pdf)
 * [2025-08-18, 12:31:18](https://news.ycombinator.com/item?id=44939849) - [Intel Foundry Demonstrates First Arm-Based Chip on 18A Node](https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc)
 * [2025-08-18, 11:57:19](https://news.ycombinator.com/item?id=44939654) - [Customizing Lisp REPLs](https://aartaka.me/customize-repl.html)
 * [2025-08-18, 11:22:22](https://news.ycombinator.com/item?id=44939423) - [How I Made Ruby Faster Than Ruby](https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster)
