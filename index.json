@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-08-20, 14:01:26",
+      "https://news.ycombinator.com/item?id=44962059"
+    ],
+    [
+      "Gemma 3 270M re-implemented in pure PyTorch for local tinkering",
+      "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 13:37:15",
       "https://news.ycombinator.com/item?id=44961847"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-08-19, 13:20:37",
-      "https://news.ycombinator.com/item?id=44951200"
-    ],
-    [
-      "Show HN: I've made an easy to extend and flexible JavaScript logger",
-      "https://github.com/inshinrei/halua"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 18:18:36",
       "https://news.ycombinator.com/item?id=44943666"
     ],
@@ -197,6 +197,16 @@
     [
       "Gaussian Processes for Machine Learning (2006) [pdf]",
       "https://gaussianprocess.org/gpml/chapters/RW.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 12:34:36",
+      "https://news.ycombinator.com/item?id=44939873"
+    ],
+    [
+      "Show HN: Typed-arrow – compile‑time Arrow schemas for Rust",
+      "https://github.com/tonbo-io/typed-arrow"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Block Stacking Problem",
       "https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 16:52:54",
-      "https://news.ycombinator.com/item?id=44925066"
-    ],
-    [
-      "Graphene capacitors achieve rapid, high-depth modulation of terahertz waves",
-      "https://phys.org/news/2025-08-graphene-capacitors-rapid-high-depth.html"
     ]
   ],
   [
