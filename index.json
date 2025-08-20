@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-08-20, 14:35:18",
+      "https://news.ycombinator.com/item?id=44962361"
+    ],
+    [
+      "Learning about GPUs through measuring memory bandwidth",
+      "https://www.evolvebenchmark.com/blog-posts/learning-about-gpus-through-measuring-memory-bandwidth"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 14:02:47",
       "https://news.ycombinator.com/item?id=44962066"
     ],
@@ -257,16 +267,6 @@
     [
       "How to Think About GPUs",
       "https://jax-ml.github.io/scaling-book/gpus/"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 12:34:43",
-      "https://news.ycombinator.com/item?id=44939874"
-    ],
-    [
-      "Show HN: Strudel Flow, a pattern sequencer built with Strudel and React Flow",
-      "https://github.com/xyflow/strudel-flow"
     ]
   ],
   [
