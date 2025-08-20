@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-08-20, 03:30:06",
+      "https://news.ycombinator.com/item?id=44958400"
+    ],
+    [
+      "Modern CI Is Too Complex and Misdirected",
+      "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 02:25:53",
       "https://news.ycombinator.com/item?id=44958145"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-08-19, 16:49:15",
-      "https://news.ycombinator.com/item?id=44953575"
-    ],
-    [
-      "Why Semantic Layers Matter (and how to build one with DuckDB)",
-      "https://motherduck.com/blog/semantic-layer-duckdb-tutorial/"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 16:22:01",
       "https://news.ycombinator.com/item?id=44953316"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-08-19, 09:46:27",
-      "https://news.ycombinator.com/item?id=44949895"
-    ],
-    [
-      "Custom telescope mount using harmonic drives and ESP32",
-      "https://www.svendewaerhert.com/blog/telescope-mount/"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 18:18:36",
       "https://news.ycombinator.com/item?id=44943666"
     ],
     [
       "How to Think About GPUs",
       "https://jax-ml.github.io/scaling-book/gpus/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 12:37:06",
+      "https://news.ycombinator.com/item?id=44939902"
+    ],
+    [
+      "Gaussian Processes for Machine Learning [pdf]",
+      "https://gaussianprocess.org/gpml/chapters/RW.pdf"
     ]
   ],
   [
