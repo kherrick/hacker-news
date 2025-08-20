@@ -64,6 +64,7 @@
 * [2025-08-18, 12:31:18](https://news.ycombinator.com/item?id=44939849) - [Intel Foundry Demonstrates First Arm-Based Chip on 18A Node](https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc)
 * [2025-08-18, 12:00:06](https://news.ycombinator.com/item?id=44939669) - [It's the Housing, Stupid](https://ofdollarsanddata.com/its-the-housing-stupid/)
 * [2025-08-18, 11:58:17](https://news.ycombinator.com/item?id=44939660) - [When you're asking AI chatbots for answers, they're data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)
+* [2025-08-18, 11:57:19](https://news.ycombinator.com/item?id=44939654) - [Customizing Lisp REPLs](https://aartaka.me/customize-repl.html)
 * [2025-08-18, 11:42:31](https://news.ycombinator.com/item?id=44939551) - [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678)
 * [2025-08-18, 11:34:18](https://news.ycombinator.com/item?id=44939502) - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.md.html#overview)
 * [2025-08-18, 11:29:13](https://news.ycombinator.com/item?id=44939460) - [The new geography of stolen goods](https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods)
