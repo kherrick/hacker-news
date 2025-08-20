@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-08-19, 16:49:15",
-      "https://news.ycombinator.com/item?id=44953575"
-    ],
-    [
-      "Why Semantic Layers Matter (and how to build one with DuckDB)",
-      "https://motherduck.com/blog/semantic-layer-duckdb-tutorial/"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 16:22:01",
       "https://news.ycombinator.com/item?id=44953316"
     ],
@@ -267,6 +257,16 @@
     [
       "How I Made Ruby Faster Than Ruby",
       "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 09:11:16",
+      "https://news.ycombinator.com/item?id=44938718"
+    ],
+    [
+      "Fast and observable background job processing for .NET",
+      "https://github.com/mikasjp/BusyBee"
     ]
   ],
   [
