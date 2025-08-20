@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-20, 16:13:18](https://news.ycombinator.com/item?id=44963226) - [Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates](https://anchor.dev/relay)
 * [2025-08-20, 15:44:33](https://news.ycombinator.com/item?id=44962969) - [OPA maintainers and Styra employees hired by Apple](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
 * [2025-08-20, 15:32:44](https://news.ycombinator.com/item?id=44962869) - [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
 * [2025-08-20, 15:30:07](https://news.ycombinator.com/item?id=44962844) - [AWS in 2025: The Stuff You Think You Know That's Now Wrong](https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/)
@@ -12,7 +13,6 @@
 * [2025-08-20, 08:15:00](https://news.ycombinator.com/item?id=44959833) - [Mirrorshades: The Cyberpunk Anthology (1986)](https://www.rudyrucker.com/mirrorshades/HTML/)
 * [2025-08-20, 06:03:03](https://news.ycombinator.com/item?id=44959073) - [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
 * [2025-08-20, 03:30:06](https://news.ycombinator.com/item?id=44958400) - [Modern CI is too complex and misdirected (2021)](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
-* [2025-08-20, 02:00:11](https://news.ycombinator.com/item?id=44958020) - [The value of hitting the HN front page](https://www.mooreds.com/wordpress/archives/3530)
 * [2025-08-20, 00:18:00](https://news.ycombinator.com/item?id=44957454) - [Copilot broke audit logs, but Microsoft won't tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
 * [2025-08-20, 00:15:03](https://news.ycombinator.com/item?id=44957443) - [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
 * [2025-08-19, 23:18:48](https://news.ycombinator.com/item?id=44957157) - [Tiny microbe challenges the definition of cellular life](https://nautil.us/a-rogue-new-life-form-1232095/)
