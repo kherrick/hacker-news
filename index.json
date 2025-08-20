@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-08-20, 17:04:51",
+      "https://news.ycombinator.com/item?id=44963724"
+    ],
+    [
+      "An Update on Pytype",
+      "https://github.com/google/pytype"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 17:01:10",
+      "https://news.ycombinator.com/item?id=44963693"
+    ],
+    [
+      "14.ai (YC W24) is hiring eng (TS/Effect) in SF to build the AI-native Zendesk",
+      "https://14.ai/careers"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 16:53:35",
+      "https://news.ycombinator.com/item?id=44963594"
+    ],
+    [
+      "Crash Cows",
+      "https://beza1e1.tuxen.de/lore/crash_cows.html"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 16:35:17",
       "https://news.ycombinator.com/item?id=44963430"
     ],
     [
       "Digg.com Is Back",
       "https://www.digg.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 16:29:27",
+      "https://news.ycombinator.com/item?id=44963391"
+    ],
+    [
+      "Best Options for Using AI in Chip Design",
+      "https://semiengineering.com/best-options-for-using-ai-in-chip-design/"
     ]
   ],
   [
@@ -51,6 +91,16 @@
   ],
   [
     [
+      "2025-08-20, 15:34:07",
+      "https://news.ycombinator.com/item?id=44962881"
+    ],
+    [
+      "Launch HN: Channel3 (YC S25) – A database of every product on the internet",
+      "https://news.ycombinator.com/item?id=44962881"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 15:32:44",
       "https://news.ycombinator.com/item?id=44962869"
     ],
@@ -67,6 +117,16 @@
     [
       "AWS in 2025: The Stuff You Think You Know That's Now Wrong",
       "https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 15:23:01",
+      "https://news.ycombinator.com/item?id=44962767"
+    ],
+    [
+      "Show HN: What country you would hit if you went straight where you're pointing",
+      "https://apps.apple.com/us/app/leascope/id6608979884"
     ]
   ],
   [
@@ -107,16 +167,6 @@
     [
       "Sequoia Backs Zed's Vision for Collaborative Coding",
       "https://zed.dev/blog/sequoia-backs-zed"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 10:32:12",
-      "https://news.ycombinator.com/item?id=44960594"
-    ],
-    [
-      "Show HN: Project management system for Claude Code",
-      "https://github.com/automazeio/ccpm"
     ]
   ],
   [
@@ -181,16 +231,6 @@
   ],
   [
     [
-      "2025-08-19, 23:18:48",
-      "https://news.ycombinator.com/item?id=44957157"
-    ],
-    [
-      "Tiny microbe challenges the definition of cellular life",
-      "https://nautil.us/a-rogue-new-life-form-1232095/"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 22:41:16",
       "https://news.ycombinator.com/item?id=44956915"
     ],
@@ -201,22 +241,12 @@
   ],
   [
     [
-      "2025-08-19, 18:14:41",
-      "https://news.ycombinator.com/item?id=44954524"
+      "2025-08-19, 12:54:47",
+      "https://news.ycombinator.com/item?id=44950972"
     ],
     [
-      "D2 (text to diagram tool) now supports ASCII renders",
-      "https://d2lang.com/blog/ascii/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 15:55:15",
-      "https://news.ycombinator.com/item?id=44953032"
-    ],
-    [
-      "How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos",
-      "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"
+      "Ordered Insertion Optimization in OrioleDB",
+      "https://www.orioledb.com/blog/batch-inserts"
     ]
   ],
   [
@@ -257,36 +287,6 @@
     [
       "MapLibre Tile: A next generation geospatial format optimized for rendering",
       "https://arxiv.org/abs/2508.10791"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 11:22:22",
-      "https://news.ycombinator.com/item?id=44939423"
-    ],
-    [
-      "How I Made Ruby Faster Than Ruby",
-      "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 10:37:25",
-      "https://news.ycombinator.com/item?id=44939165"
-    ],
-    [
-      "The End of Handwriting",
-      "https://www.wired.com/story/the-end-of-handwriting/"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 09:11:16",
-      "https://news.ycombinator.com/item?id=44938718"
-    ],
-    [
-      "Fast and observable background job processing for .NET",
-      "https://github.com/mikasjp/BusyBee"
     ]
   ],
   [
