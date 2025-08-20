@@ -5,7 +5,6 @@
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-08-20, 18:47:03](https://news.ycombinator.com/item?id=44964916) - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Lean proof of Fermat's Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
-* [2025-08-20, 17:54:22](https://news.ycombinator.com/item?id=44964332) - [Show HN: Bizcardz.ai – Custom metal business cards](https://github.com/rhodey/bizcardz.ai)
 * [2025-08-20, 17:50:21](https://news.ycombinator.com/item?id=44964266) - [Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links](https://nestable.dev/about)
 * [2025-08-20, 17:24:10](https://news.ycombinator.com/item?id=44963939) - [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 * [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
@@ -28,6 +27,7 @@
 * [2025-08-18, 18:18:36](https://news.ycombinator.com/item?id=44943666) - [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 * [2025-08-18, 01:32:44](https://news.ycombinator.com/item?id=44936535) - [Gouach wants you to insert and pluck the cells from its Infinite e-bike battery](https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/)
 * [2025-08-17, 23:29:54](https://news.ycombinator.com/item?id=44935850) - [The Rise and Fall of Music Ringtones: A Statistical Analysis](https://www.statsignificant.com/p/the-rise-and-fall-of-music-ringtones)
+* [2025-08-17, 18:36:51](https://news.ycombinator.com/item?id=44933802) - [Understanding Moravec's Paradox](https://hexhowells.com/posts/moravecs-paradox.html)
 * [2025-08-17, 15:56:36](https://news.ycombinator.com/item?id=44932509) - [Visualizing GPT-OSS-20B embeddings](https://melonmars.github.io/LatentExplorer/embedding_viewer.html)
 * [2025-08-17, 12:17:37](https://news.ycombinator.com/item?id=44931079) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
 
