@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-08-20, 16:35:17",
+      "https://news.ycombinator.com/item?id=44963430"
+    ],
+    [
+      "Digg.com Is Back",
+      "https://www.digg.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 16:19:53",
+      "https://news.ycombinator.com/item?id=44963292"
+    ],
+    [
+      "Phone Searches at the US Border Hit a Record High",
+      "https://www.wired.com/story/phone-searches-at-the-us-border-hit-a-record-high/"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 16:13:18",
       "https://news.ycombinator.com/item?id=44963226"
     ],
     [
       "Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates",
       "https://anchor.dev/relay"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 16:01:13",
+      "https://news.ycombinator.com/item?id=44963135"
+    ],
+    [
+      "Show HN: Luminal – Open-source, search-based GPU compiler",
+      "https://github.com/luminal-ai/luminal"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-08-19, 16:22:01",
-      "https://news.ycombinator.com/item?id=44953316"
-    ],
-    [
-      "Emacs as your video-trimming tool",
-      "https://xenodium.com/emacs-as-your-video-trimming-tool"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 15:55:15",
       "https://news.ycombinator.com/item?id=44953032"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-08-18, 11:57:19",
-      "https://news.ycombinator.com/item?id=44939654"
-    ],
-    [
-      "Customizing Lisp REPLs",
-      "https://aartaka.me/customize-repl.html"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 11:28:32",
       "https://news.ycombinator.com/item?id=44939456"
     ],
@@ -277,16 +287,6 @@
     [
       "Fast and observable background job processing for .NET",
       "https://github.com/mikasjp/BusyBee"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 09:00:53",
-      "https://news.ycombinator.com/item?id=44938667"
-    ],
-    [
-      "Rails Charts Using ECharts from Apache",
-      "https://github.com/railsjazz/rails_charts"
     ]
   ],
   [
