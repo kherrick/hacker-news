@@ -46,6 +46,7 @@
 * [2025-08-17, 13:17:20](https://news.ycombinator.com/item?id=44931368) - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
 * [2025-08-17, 13:14:00](https://news.ycombinator.com/item?id=44931353) - [Refine your initial prompt instead of course-correcting](https://elite-ai-assisted-coding.dev/p/refine-your-initial-prompt-instead-of-course-correcting)
 * [2025-08-17, 13:08:44](https://news.ycombinator.com/item?id=44931321) - [BBC Micro: The Ancestor to a Device You Are Guaranteed to Own](https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/)
+* [2025-08-17, 12:17:37](https://news.ycombinator.com/item?id=44931079) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
 * [2025-08-17, 11:20:20](https://news.ycombinator.com/item?id=44930808) - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 * [2025-08-17, 10:49:14](https://news.ycombinator.com/item?id=44930625) - [VictoriaLogs Practical Ingestion Guide for Message, Time and Streams](https://victoriametrics.com/blog/victorialogs-concepts-message-time-stream/index.html)
 * [2025-08-17, 10:41:12](https://news.ycombinator.com/item?id=44930581) - [GPT-4o quoted deleted GPT-5 content. Model isolation appears brok](https://news.ycombinator.com/item?id=44930581)
