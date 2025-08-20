@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 06:03:03](https://news.ycombinator.com/item?id=44959073) - [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
+* [2025-08-20, 06:02:29](https://news.ycombinator.com/item?id=44959069) - [Vibe Coding Is the Worst Idea of 2025 [video]](https://www.youtube.com/watch?v=1A6uPztchXk)
+* [2025-08-20, 04:59:27](https://news.ycombinator.com/item?id=44958752) - [Type-machine](https://arthi-chaud.github.io/posts/type-machine/)
 * [2025-08-20, 04:27:29](https://news.ycombinator.com/item?id=44958621) - [China blocked all HTTPS connection abroad for 1 hour in midnight](https://gfw.report/blog/gfw_unconditional_rst_20250820/en/)
 * [2025-08-20, 03:55:53](https://news.ycombinator.com/item?id=44958506) - [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)
 * [2025-08-20, 03:43:20](https://news.ycombinator.com/item?id=44958452) - [The Troubling Lines That Columbia Is Drawing](https://www.newyorker.com/news/the-lede/the-troubling-lines-that-columbia-is-drawing)
