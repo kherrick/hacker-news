@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-08-20, 18:12:52",
-      "https://news.ycombinator.com/item?id=44964548"
+      "2025-08-20, 18:47:03",
+      "https://news.ycombinator.com/item?id=44964916"
     ],
     [
-      "Say farewell to the AI bubble, and get ready for the crash",
-      "https://www.latimes.com/business/story/2025-08-20/say-farewell-to-the-ai-bubble-and-get-ready-for-the-crash"
+      "Zedless: Zed fork focused on privacy and being local-first",
+      "https://github.com/zedless-editor/zed"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 18:27:25",
+      "https://news.ycombinator.com/item?id=44964693"
+    ],
+    [
+      "Lean proof of Fermat's Last Theorem [pdf]",
+      "https://imperialcollegelondon.github.io/FLT/blueprint.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 17:56:27",
+      "https://news.ycombinator.com/item?id=44964366"
+    ],
+    [
+      "Zed for Windows: What's Taking So Long?",
+      "https://zed.dev/blog/windows-progress-report"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 17:50:21",
+      "https://news.ycombinator.com/item?id=44964266"
+    ],
+    [
+      "Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links",
+      "https://nestable.dev/about"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk",
       "https://14.ai/careers"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 16:53:35",
-      "https://news.ycombinator.com/item?id=44963594"
-    ],
-    [
-      "Debugging Behind the Iron Curtain (2010)",
-      "https://www.jakepoz.com/debugging-behind-the-iron-curtain/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-08-20, 10:32:12",
-      "https://news.ycombinator.com/item?id=44960594"
-    ],
-    [
-      "Show HN: Project management system for Claude Code",
-      "https://github.com/automazeio/ccpm"
-    ]
-  ],
-  [
-    [
       "2025-08-20, 09:43:04",
       "https://news.ycombinator.com/item?id=44960316"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-08-19, 22:41:16",
-      "https://news.ycombinator.com/item?id=44956915"
-    ],
-    [
-      "How to Draw a Space Invader",
-      "https://muffinman.io/blog/invaders/"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 18:18:36",
       "https://news.ycombinator.com/item?id=44943666"
     ],
@@ -257,16 +257,6 @@
     [
       "Show HN: Strudel Flow, a pattern sequencer built with Strudel and React Flow",
       "https://github.com/xyflow/strudel-flow"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 12:34:36",
-      "https://news.ycombinator.com/item?id=44939873"
-    ],
-    [
-      "Show HN: Typed-arrow – compile‑time Arrow schemas for Rust",
-      "https://github.com/tonbo-io/typed-arrow"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Rise and Fall of Music Ringtones: A Statistical Analysis",
       "https://www.statsignificant.com/p/the-rise-and-fall-of-music-ringtones"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 15:56:36",
+      "https://news.ycombinator.com/item?id=44932509"
+    ],
+    [
+      "Visualizing GPT-OSS-20B embeddings",
+      "https://melonmars.github.io/LatentExplorer/embedding_viewer.html"
     ]
   ]
 ]
