@@ -25,9 +25,9 @@
 * [2025-08-20, 12:13:16](https://news.ycombinator.com/item?id=44961172) - [Sequoia backs Zed](https://zed.dev/blog/sequoia-backs-zed)
 * [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
 * [2025-08-20, 08:15:00](https://news.ycombinator.com/item?id=44959833) - [Mirrorshades: The Cyberpunk Anthology (1986)](https://www.rudyrucker.com/mirrorshades/HTML/)
-* [2025-08-20, 01:57:09](https://news.ycombinator.com/item?id=44958004) - [Skill issues – Dialectical Behavior Therapy and its discontents (2024)](https://www.thedriftmag.com/skill-issues/)
 * [2025-08-18, 18:18:36](https://news.ycombinator.com/item?id=44943666) - [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 * [2025-08-18, 01:32:44](https://news.ycombinator.com/item?id=44936535) - [Gouach wants you to insert and pluck the cells from its Infinite e-bike battery](https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/)
+* [2025-08-17, 23:29:54](https://news.ycombinator.com/item?id=44935850) - [The Rise and Fall of Music Ringtones: A Statistical Analysis](https://www.statsignificant.com/p/the-rise-and-fall-of-music-ringtones)
 * [2025-08-17, 15:56:36](https://news.ycombinator.com/item?id=44932509) - [Visualizing GPT-OSS-20B embeddings](https://melonmars.github.io/LatentExplorer/embedding_viewer.html)
 * [2025-08-17, 12:17:37](https://news.ycombinator.com/item?id=44931079) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
 
