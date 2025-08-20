@@ -30,6 +30,7 @@
 * [2025-08-17, 16:13:06](https://news.ycombinator.com/item?id=44932651) - [Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea](https://news.ycombinator.com/item?id=44932651)
 * [2025-08-17, 16:10:37](https://news.ycombinator.com/item?id=44932624) - [MS-DOS Development Resources](https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md)
 * [2025-08-17, 16:03:21](https://news.ycombinator.com/item?id=44932565) - [Does OLAP Need an ORM](https://clickhouse.com/blog/moosestack-does-olap-need-an-orm)
+* [2025-08-17, 15:56:36](https://news.ycombinator.com/item?id=44932509) - [Visualizing GPT-OSS-20B embeddings](https://melonmars.github.io/LatentExplorer/embedding_viewer.html)
 * [2025-08-17, 15:54:42](https://news.ycombinator.com/item?id=44932487) - [US state department stops issuing visas for Gaza’s children to get medical care](https://www.theguardian.com/us-news/2025/aug/16/gaza-children-visas-medical-care-laura-loomer)
 * [2025-08-17, 15:42:20](https://news.ycombinator.com/item?id=44932398) - [Robin Lakoff, expert on language and gender, dead at 82](https://www.nytimes.com/2025/08/15/us/robin-lakoff-dead.html)
 * [2025-08-17, 15:40:04](https://news.ycombinator.com/item?id=44932375) - [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](https://fallinorg.com/#)
