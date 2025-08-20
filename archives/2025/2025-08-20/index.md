@@ -27,6 +27,7 @@
 * [2025-08-20, 15:23:01](https://news.ycombinator.com/item?id=44962767) - [Show HN: What country you would hit if you went straight where you're pointing](https://apps.apple.com/us/app/leascope/id6608979884)
 * [2025-08-20, 14:57:44](https://news.ycombinator.com/item?id=44962552) - [Ask HN: What are you biggest mental / relational challenges?](https://news.ycombinator.com/item?id=44962552)
 * [2025-08-20, 14:54:45](https://news.ycombinator.com/item?id=44962529) - [Why are anime catgirls blocking my access to the Linux kernel?](https://lock.cmpxchg8b.com/anubis.html)
+* [2025-08-20, 14:35:18](https://news.ycombinator.com/item?id=44962361) - [Learning about GPUs through measuring memory bandwidth](https://www.evolvebenchmark.com/blog-posts/learning-about-gpus-through-measuring-memory-bandwidth)
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
 * [2025-08-20, 14:01:26](https://news.ycombinator.com/item?id=44962059) - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
 * [2025-08-20, 13:37:15](https://news.ycombinator.com/item?id=44961847) - [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
