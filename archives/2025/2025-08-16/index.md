@@ -15,6 +15,7 @@
 * [2025-08-16, 20:46:15](https://news.ycombinator.com/item?id=44926785) - [Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi](http://unsafehttp.benren.au)
 * [2025-08-16, 20:42:28](https://news.ycombinator.com/item?id=44926758) - [Apple's new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
 * [2025-08-16, 19:50:15](https://news.ycombinator.com/item?id=44926414) - [Dyna – Logic Programming for Machine Learning](https://dyna.org/)
+* [2025-08-16, 19:14:01](https://news.ycombinator.com/item?id=44926143) - [Tiny, removable \"mini SSD\" could eventually be a big deal for gaming handhelds](https://arstechnica.com/gadgets/2025/08/tiny-removable-mini-ssd-could-eventually-be-a-big-deal-for-gaming-handhelds/)
 * [2025-08-16, 18:50:07](https://news.ycombinator.com/item?id=44925966) - [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
 * [2025-08-16, 18:37:17](https://news.ycombinator.com/item?id=44925853) - [A Lisp in 99LOC](https://github.com/Robert-van-Engelen/tinylisp)
 * [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
