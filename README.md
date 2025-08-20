@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-20, 23:15:55](https://news.ycombinator.com/item?id=44967505) - [SimpleIDE](https://github.com/jamesplotts/simpleide)
 * [2025-08-20, 21:47:05](https://news.ycombinator.com/item?id=44966856) - [\"AI first\" and the Bus Factor of 0](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
 * [2025-08-20, 21:00:14](https://news.ycombinator.com/item?id=44966408) - [Coris (YC S22) Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
 * [2025-08-20, 20:37:58](https://news.ycombinator.com/item?id=44966170) - [Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-08-20, 18:47:03](https://news.ycombinator.com/item?id=44964916) - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Lean proof of Fermat's Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
-* [2025-08-20, 17:50:21](https://news.ycombinator.com/item?id=44964266) - [Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links](https://nestable.dev/about)
 * [2025-08-20, 17:24:10](https://news.ycombinator.com/item?id=44963939) - [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 * [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
 * [2025-08-20, 16:13:18](https://news.ycombinator.com/item?id=44963226) - [Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates](https://anchor.dev/relay)

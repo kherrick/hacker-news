@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 23:15:55](https://news.ycombinator.com/item?id=44967505) - [SimpleIDE](https://github.com/jamesplotts/simpleide)
 * [2025-08-20, 21:47:05](https://news.ycombinator.com/item?id=44966856) - [\"AI first\" and the Bus Factor of 0](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
 * [2025-08-20, 21:00:14](https://news.ycombinator.com/item?id=44966408) - [Coris (YC S22) Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
 * [2025-08-20, 20:37:58](https://news.ycombinator.com/item?id=44966170) - [Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
