@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-08-20, 00:18:00",
+      "https://news.ycombinator.com/item?id=44957454"
+    ],
+    [
+      "Copilot broke audit logs, but Microsoft won't tell customers",
+      "https://pistachioapp.com/blog/copilot-broke-your-audit-log"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 00:15:03",
+      "https://news.ycombinator.com/item?id=44957443"
+    ],
+    [
+      "AGENTS.md – Open format for guiding coding agents",
+      "https://agents.md/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 23:18:48",
+      "https://news.ycombinator.com/item?id=44957157"
+    ],
+    [
+      "Tiny microbe challenges the definition of cellular life",
+      "https://nautil.us/a-rogue-new-life-form-1232095/"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 22:41:16",
       "https://news.ycombinator.com/item?id=44956915"
     ],
     [
       "How to Draw a Space Invader",
       "https://muffinman.io/blog/invaders/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 22:17:38",
+      "https://news.ycombinator.com/item?id=44956774"
+    ],
+    [
+      "How to Scale Your Model: How to Think About GPUs",
+      "https://jax-ml.github.io/scaling-book/gpus/"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2025-08-19, 18:30:57",
-      "https://news.ycombinator.com/item?id=44954702"
-    ],
-    [
-      "Medical cannabis patient data exposed by unsecured database",
-      "https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 18:27:34",
       "https://news.ycombinator.com/item?id=44954665"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-08-19, 16:18:27",
-      "https://news.ycombinator.com/item?id=44953282"
-    ],
-    [
-      "CRLite: Certificate Revocation Checking in Firefox",
-      "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 15:55:15",
       "https://news.ycombinator.com/item?id=44953032"
     ],
@@ -157,26 +177,6 @@
     [
       "A renovation project in Turkey led to the discovery of a lost city (2023)",
       "https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 14:53:11",
-      "https://news.ycombinator.com/item?id=44952246"
-    ],
-    [
-      "Launch HN: Parachute (YC S25) – Guardrails for Clinical AI",
-      "https://news.ycombinator.com/item?id=44952246"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 14:20:25",
-      "https://news.ycombinator.com/item?id=44951862"
-    ],
-    [
-      "Positron, a New Data Science IDE",
-      "https://posit.co/blog/positron-product-announcement-aug-2025/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-08-19, 07:33:09",
-      "https://news.ycombinator.com/item?id=44949162"
-    ],
-    [
-      "Prime Number Grid",
-      "https://susam.net/primegrid.html"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 19:20:01",
       "https://news.ycombinator.com/item?id=44944241"
     ],
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2025-08-18, 11:29:13",
-      "https://news.ycombinator.com/item?id=44939460"
+      "2025-08-18, 11:34:18",
+      "https://news.ycombinator.com/item?id=44939502"
     ],
     [
-      "The new geography of stolen goods",
-      "https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods"
+      "Physically Based Rendering in Filament",
+      "https://google.github.io/filament/Filament.md.html#overview"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 09:35:33",
+      "https://news.ycombinator.com/item?id=44938822"
+    ],
+    [
+      "Fast Type-Aware Linting in Oxlint",
+      "https://oxc.rs/blog/2025-08-17-oxlint-type-aware"
     ]
   ],
   [
