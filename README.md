@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-20, 15:44:33](https://news.ycombinator.com/item?id=44962969) - [OPA maintainers and Styra employees hired by Apple](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
 * [2025-08-20, 15:32:44](https://news.ycombinator.com/item?id=44962869) - [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
-* [2025-08-20, 14:57:44](https://news.ycombinator.com/item?id=44962552) - [Ask HN: What are you biggest mental / relational challenges?](https://news.ycombinator.com/item?id=44962552)
+* [2025-08-20, 15:30:07](https://news.ycombinator.com/item?id=44962844) - [AWS in 2025: The Stuff You Think You Know That's Now Wrong](https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/)
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
 * [2025-08-20, 14:01:26](https://news.ycombinator.com/item?id=44962059) - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
 * [2025-08-20, 13:37:15](https://news.ycombinator.com/item?id=44961847) - [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
@@ -19,8 +20,8 @@
 * [2025-08-19, 18:14:41](https://news.ycombinator.com/item?id=44954524) - [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
 * [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 * [2025-08-19, 15:55:15](https://news.ycombinator.com/item?id=44953032) - [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
-* [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the futex, it's futile](https://h4x0r.org/futex/)
 * [2025-08-18, 18:18:36](https://news.ycombinator.com/item?id=44943666) - [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
+* [2025-08-18, 12:34:43](https://news.ycombinator.com/item?id=44939874) - [Show HN: Strudel Flow, a pattern sequencer built with Strudel and React Flow](https://github.com/xyflow/strudel-flow)
 * [2025-08-18, 12:34:36](https://news.ycombinator.com/item?id=44939873) - [Show HN: Typed-arrow – compile‑time Arrow schemas for Rust](https://github.com/tonbo-io/typed-arrow)
 * [2025-08-18, 11:57:19](https://news.ycombinator.com/item?id=44939654) - [Customizing Lisp REPLs](https://aartaka.me/customize-repl.html)
 * [2025-08-18, 11:28:32](https://news.ycombinator.com/item?id=44939456) - [MapLibre Tile: A next generation geospatial format optimized for rendering](https://arxiv.org/abs/2508.10791)
@@ -29,7 +30,6 @@
 * [2025-08-18, 09:11:16](https://news.ycombinator.com/item?id=44938718) - [Fast and observable background job processing for .NET](https://github.com/mikasjp/BusyBee)
 * [2025-08-18, 09:00:53](https://news.ycombinator.com/item?id=44938667) - [Rails Charts Using ECharts from Apache](https://github.com/railsjazz/rails_charts)
 * [2025-08-18, 06:01:44](https://news.ycombinator.com/item?id=44937819) - [The Block Stacking Problem](https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html)
-* [2025-08-16, 07:49:51](https://news.ycombinator.com/item?id=44921195) - [Candle Flame Oscillations as a Clock](https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/)
 
 ## [Archives](archives/index.md)
 

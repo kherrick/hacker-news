@@ -62,6 +62,7 @@
 * [2025-08-18, 12:57:28](https://news.ycombinator.com/item?id=44940089) - [AWS Vibe Coding Tips and Tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
 * [2025-08-18, 12:42:31](https://news.ycombinator.com/item?id=44939939) - [Why we still build with Ruby in 2025](https://www.getlago.com/blog/why-we-still-build-with-ruby-in-2025)
 * [2025-08-18, 12:37:06](https://news.ycombinator.com/item?id=44939902) - [Gaussian Processes for Machine Learning [pdf]](https://gaussianprocess.org/gpml/chapters/RW.pdf)
+* [2025-08-18, 12:34:43](https://news.ycombinator.com/item?id=44939874) - [Show HN: Strudel Flow, a pattern sequencer built with Strudel and React Flow](https://github.com/xyflow/strudel-flow)
 * [2025-08-18, 12:34:36](https://news.ycombinator.com/item?id=44939873) - [Show HN: Typed-arrow – compile‑time Arrow schemas for Rust](https://github.com/tonbo-io/typed-arrow)
 * [2025-08-18, 12:31:18](https://news.ycombinator.com/item?id=44939849) - [Intel Foundry Demonstrates First Arm-Based Chip on 18A Node](https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc)
 * [2025-08-18, 12:00:06](https://news.ycombinator.com/item?id=44939669) - [It's the Housing, Stupid](https://ofdollarsanddata.com/its-the-housing-stupid/)

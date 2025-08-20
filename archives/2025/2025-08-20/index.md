@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 15:44:33](https://news.ycombinator.com/item?id=44962969) - [OPA maintainers and Styra employees hired by Apple](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
 * [2025-08-20, 15:32:44](https://news.ycombinator.com/item?id=44962869) - [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
+* [2025-08-20, 15:30:07](https://news.ycombinator.com/item?id=44962844) - [AWS in 2025: The Stuff You Think You Know That's Now Wrong](https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/)
 * [2025-08-20, 14:57:44](https://news.ycombinator.com/item?id=44962552) - [Ask HN: What are you biggest mental / relational challenges?](https://news.ycombinator.com/item?id=44962552)
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
 * [2025-08-20, 14:01:26](https://news.ycombinator.com/item?id=44962059) - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
