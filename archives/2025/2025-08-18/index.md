@@ -60,6 +60,7 @@
 * [2025-08-18, 13:27:42](https://news.ycombinator.com/item?id=44940363) - [The biggest bet in tech](https://gmays.com/the-biggest-bet-in-tech/)
 * [2025-08-18, 13:16:07](https://news.ycombinator.com/item?id=44940245) - [The billionaire developer closing London's pubs](https://www.the-londoner.co.uk/exclusive-the-billionaire-developer-closing-londons-pubs/)
 * [2025-08-18, 12:57:28](https://news.ycombinator.com/item?id=44940089) - [AWS Vibe Coding Tips and Tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
+* [2025-08-18, 12:37:06](https://news.ycombinator.com/item?id=44939902) - [Gaussian Processes for Machine Learning [pdf]](https://gaussianprocess.org/gpml/chapters/RW.pdf)
 * [2025-08-18, 12:31:18](https://news.ycombinator.com/item?id=44939849) - [Intel Foundry Demonstrates First Arm-Based Chip on 18A Node](https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc)
 * [2025-08-18, 12:00:06](https://news.ycombinator.com/item?id=44939669) - [It's the Housing, Stupid](https://ofdollarsanddata.com/its-the-housing-stupid/)
 * [2025-08-18, 11:58:17](https://news.ycombinator.com/item?id=44939660) - [When you're asking AI chatbots for answers, they're data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)

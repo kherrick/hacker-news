@@ -13,6 +13,7 @@
 * [2025-08-20, 03:55:53](https://news.ycombinator.com/item?id=44958506) - [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)
 * [2025-08-20, 03:43:20](https://news.ycombinator.com/item?id=44958452) - [The Troubling Lines That Columbia Is Drawing](https://www.newyorker.com/news/the-lede/the-troubling-lines-that-columbia-is-drawing)
 * [2025-08-20, 03:35:20](https://news.ycombinator.com/item?id=44958421) - [Monoid-Augmented FIFOs, Deamortised](https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/)
+* [2025-08-20, 03:30:06](https://news.ycombinator.com/item?id=44958400) - [Modern CI Is Too Complex and Misdirected](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
 * [2025-08-20, 02:25:53](https://news.ycombinator.com/item?id=44958145) - [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
 * [2025-08-20, 02:00:11](https://news.ycombinator.com/item?id=44958020) - [The Value of Hitting the HN Front Page](https://www.mooreds.com/wordpress/archives/3530)
 * [2025-08-20, 01:19:43](https://news.ycombinator.com/item?id=44957818) - [Calling Their Bluff](https://anguscheng.com/post/2025-08-13-calling-their-bluff/)
