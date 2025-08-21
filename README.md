@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 17:13:56](https://news.ycombinator.com/item?id=44975378) - [Physics Grifters: Eric Weinstein, Sabine Hossenfelder a Crisis of Credibility](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
 * [2025-08-21, 17:01:03](https://news.ycombinator.com/item?id=44975180) - [Cua (YC X25) Is Hiring Founding Design Engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
 * [2025-08-21, 15:58:55](https://news.ycombinator.com/item?id=44974365) - [Bank forced to rehire workers after lying about chatbot productivity, union says](https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/)
 * [2025-08-21, 15:54:15](https://news.ycombinator.com/item?id=44974330) - [Adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
@@ -8,7 +9,7 @@
 * [2025-08-21, 15:36:51](https://news.ycombinator.com/item?id=44974109) - [Unmasking the Privacy Risks of Apple Intelligence](https://www.lumia.security/blog/applestorm)
 * [2025-08-21, 15:36:24](https://news.ycombinator.com/item?id=44974104) - [95% of Companies See 'Zero Return' on $30B Generative AI Spend](https://thedailyadda.com/95-of-companies-see-zero-return-on-30-billion-generative-ai-spend-mit-report-finds/)
 * [2025-08-21, 15:09:38](https://news.ycombinator.com/item?id=44973758) - [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758)
-* [2025-08-21, 14:39:45](https://news.ycombinator.com/item?id=44973375) - [Apple Watch wearable foundation model](https://arxiv.org/abs/2507.00191)
+* [2025-08-21, 14:39:45](https://news.ycombinator.com/item?id=44973375) - [Beyond sensor data: Foundation models of behavioral data from wearables](https://arxiv.org/abs/2507.00191)
 * [2025-08-21, 14:31:18](https://news.ycombinator.com/item?id=44973269) - [Unity reintroduces the Runtime Fee through its Industry license](https://unity.com/products/unity-industry)
 * [2025-08-21, 13:18:12](https://news.ycombinator.com/item?id=44972406) - [A Conceptual Model for Storage Unification](https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification)
 * [2025-08-21, 13:01:11](https://news.ycombinator.com/item?id=44972238) - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
@@ -24,10 +25,9 @@
 * [2025-08-21, 06:20:11](https://news.ycombinator.com/item?id=44969622) - [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem)
 * [2025-08-20, 15:23:19](https://news.ycombinator.com/item?id=44962771) - [Home Depot sued for 'secretly' using facial recognition at self-checkouts](https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/)
 * [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)
-* [2025-08-18, 15:21:52](https://news.ycombinator.com/item?id=44941629) - [How to ingest 1B rows/s in ClickHouse](https://www.tinybird.co/blog-posts/1b-rows-per-second-clickhouse)
+* [2025-08-18, 15:19:05](https://news.ycombinator.com/item?id=44941605) - [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
 * [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification (2018)](https://eli.thegreenplace.net/2018/unification/)
 * [2025-08-17, 20:04:00](https://news.ycombinator.com/item?id=44934476) - [You Should Add Debug Views to Your DB](https://chrispenner.ca/posts/views-for-debugging)
-* [2025-08-17, 16:57:50](https://news.ycombinator.com/item?id=44933019) - [Sixteen bottles of wine riddle](https://chriskw.xyz/2025/08/11/Wine/)
 * [2025-08-17, 15:42:32](https://news.ycombinator.com/item?id=44932401) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 * [2025-08-17, 13:18:21](https://news.ycombinator.com/item?id=44931371) - [Epson MX-80 Fonts](https://mw.rat.bz/MX-80/)
 
