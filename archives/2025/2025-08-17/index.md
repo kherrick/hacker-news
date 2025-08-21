@@ -14,6 +14,7 @@
 * [2025-08-17, 20:29:42](https://news.ycombinator.com/item?id=44934685) - [JOMO – The Joy of Missing Out](https://jomo.lol)
 * [2025-08-17, 20:11:00](https://news.ycombinator.com/item?id=44934529) - [The rise and fall of the Seagaia Ocean Dome wave pool](https://www.surfertoday.com/surfing/the-untold-story-of-the-seagaia-ocean-dome-indoor-wave-pool)
 * [2025-08-17, 20:08:56](https://news.ycombinator.com/item?id=44934518) - [HN Search isn't ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
+* [2025-08-17, 20:04:00](https://news.ycombinator.com/item?id=44934476) - [You Should Add Debug Views to Your DB](https://chrispenner.ca/posts/views-for-debugging)
 * [2025-08-17, 19:52:03](https://news.ycombinator.com/item?id=44934391) - [Show HN: Doxx – Terminal .docx viewer inspired by Glow](https://github.com/bgreenwell/doxx)
 * [2025-08-17, 19:51:39](https://news.ycombinator.com/item?id=44934386) - [I Prefer RST to Markdown (2024)](https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
 * [2025-08-17, 19:45:35](https://news.ycombinator.com/item?id=44934337) - [When Did AI Take Over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
