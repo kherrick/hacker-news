@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 20:18:29](https://news.ycombinator.com/item?id=44977543) - [In Defense of Car-Centered Society](https://sweatofthebrow.blogspot.com/2025/08/in-defense-of-car-centered-society.html)
+* [2025-08-21, 19:47:02](https://news.ycombinator.com/item?id=44977189) - [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
 * [2025-08-21, 19:27:24](https://news.ycombinator.com/item?id=44976972) - [Grug Design](https://www.grug.design/know)
+* [2025-08-21, 19:22:26](https://news.ycombinator.com/item?id=44976929) - [A Decoder Ring for AI Job Titles](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html)
 * [2025-08-21, 19:06:09](https://news.ycombinator.com/item?id=44976764) - [DeepSeek-v3.1 Release](https://api-docs.deepseek.com/news/news250821)
 * [2025-08-21, 18:49:57](https://news.ycombinator.com/item?id=44976568) - [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
 * [2025-08-21, 18:42:10](https://news.ycombinator.com/item?id=44976468) - [Building AI Products in the Probabilistic Era](https://giansegato.com/essays/probabilistic-era)
