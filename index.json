@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-08-20, 15:44:33",
-      "https://news.ycombinator.com/item?id=44962969"
-    ],
-    [
-      "OPA maintainers and Styra employees hired by Apple",
-      "https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371"
-    ]
-  ],
-  [
-    [
       "2025-08-20, 15:34:07",
       "https://news.ycombinator.com/item?id=44962881"
     ],
@@ -227,6 +217,16 @@
     [
       "Tidewave Web: in-browser coding agent for Rails and Phoenix",
       "https://tidewave.ai/blog/tidewave-web-phoenix-rails"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 14:17:01",
+      "https://news.ycombinator.com/item?id=44940896"
+    ],
+    [
+      "Basic dependency injection in OCaml with objects",
+      "https://gr-im.github.io/a/dependency-injection.html"
     ]
   ],
   [
