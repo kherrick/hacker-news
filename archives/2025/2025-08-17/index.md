@@ -23,6 +23,7 @@
 * [2025-08-17, 17:46:04](https://news.ycombinator.com/item?id=44933401) - [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
 * [2025-08-17, 17:45:32](https://news.ycombinator.com/item?id=44933394) - [\"Email is Easy\" email address quiz](https://e-mail.wtf)
 * [2025-08-17, 17:32:12](https://news.ycombinator.com/item?id=44933297) - [Americans Are Ignoring Their Student Loan Bills](https://news.bloomberglaw.com/banking-law/millions-of-americans-are-ignoring-their-student-loan-bills)
+* [2025-08-17, 17:31:33](https://news.ycombinator.com/item?id=44933290) - [SK hynix dethrones Samsung as top DRAM maker for first time in 30 years](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
 * [2025-08-17, 17:26:56](https://news.ycombinator.com/item?id=44933255) - [Claudia – Elegant Desktop Companion for Claude Code](https://claudiacode.com/)
 * [2025-08-17, 17:22:16](https://news.ycombinator.com/item?id=44933219) - [Review of Anti-Aging Drugs](https://scienceblog.com/joshmitteldorf/2025/08/17/review-of-anti-aging-drugs/)
 * [2025-08-17, 17:16:48](https://news.ycombinator.com/item?id=44933179) - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/)

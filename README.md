@@ -25,9 +25,9 @@
 * [2025-08-20, 12:13:16](https://news.ycombinator.com/item?id=44961172) - [Sequoia backs Zed](https://zed.dev/blog/sequoia-backs-zed)
 * [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
 * [2025-08-20, 08:15:00](https://news.ycombinator.com/item?id=44959833) - [Mirrorshades: The Cyberpunk Anthology (1986)](https://www.rudyrucker.com/mirrorshades/HTML/)
-* [2025-08-18, 18:18:36](https://news.ycombinator.com/item?id=44943666) - [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 * [2025-08-17, 23:29:54](https://news.ycombinator.com/item?id=44935850) - [The Rise and Fall of Music Ringtones: A Statistical Analysis](https://www.statsignificant.com/p/the-rise-and-fall-of-music-ringtones)
 * [2025-08-17, 18:36:51](https://news.ycombinator.com/item?id=44933802) - [Understanding Moravec's Paradox](https://hexhowells.com/posts/moravecs-paradox.html)
+* [2025-08-17, 17:31:33](https://news.ycombinator.com/item?id=44933290) - [SK hynix dethrones Samsung as top DRAM maker for first time in 30 years](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
 * [2025-08-17, 15:56:36](https://news.ycombinator.com/item?id=44932509) - [Visualizing GPT-OSS-20B embeddings](https://melonmars.github.io/LatentExplorer/embedding_viewer.html)
 * [2025-08-17, 12:17:37](https://news.ycombinator.com/item?id=44931079) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
 
