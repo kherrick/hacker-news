@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 05:06:05](https://news.ycombinator.com/item?id=44969211) - [Contrasting Data and Objects (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 * [2025-08-21, 03:53:47](https://news.ycombinator.com/item?id=44968883) - [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
-* [2025-08-21, 02:01:00](https://news.ycombinator.com/item?id=44968354) - [I've Never Had a Real Adversary](https://inoticeiamconfused.substack.com/p/ive-never-had-a-real-adversary)
+* [2025-08-21, 02:01:00](https://news.ycombinator.com/item?id=44968354) - [I've never had a real adversary](https://inoticeiamconfused.substack.com/p/ive-never-had-a-real-adversary)
 * [2025-08-21, 01:28:56](https://news.ycombinator.com/item?id=44968190) - [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
 * [2025-08-21, 01:14:49](https://news.ycombinator.com/item?id=44968129) - [Creating 3D Worlds with HTML and CSS (2013)](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
 * [2025-08-21, 00:30:45](https://news.ycombinator.com/item?id=44967923) - [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
@@ -25,11 +26,10 @@
 * [2025-08-20, 14:01:26](https://news.ycombinator.com/item?id=44962059) - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
 * [2025-08-20, 12:13:16](https://news.ycombinator.com/item?id=44961172) - [Sequoia backs Zed](https://zed.dev/blog/sequoia-backs-zed)
 * [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
-* [2025-08-20, 08:15:00](https://news.ycombinator.com/item?id=44959833) - [Mirrorshades: The Cyberpunk Anthology (1986)](https://www.rudyrucker.com/mirrorshades/HTML/)
-* [2025-08-18, 13:38:04](https://news.ycombinator.com/item?id=44940451) - [Visualizing distributions with pepperoni pizza and JavaScript](https://ntietz.com/blog/visualizing-distributions-with-pepperoni-pizza/)
 * [2025-08-18, 01:32:44](https://news.ycombinator.com/item?id=44936535) - [French firm Gouach is pitching an Infinite Battery with replaceable cells](https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/)
 * [2025-08-17, 17:31:33](https://news.ycombinator.com/item?id=44933290) - [SK hynix dethrones Samsung as world’s top DRAM maker](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
 * [2025-08-17, 13:18:21](https://news.ycombinator.com/item?id=44931371) - [Epson MX-80 Fonts](https://mw.rat.bz/MX-80/)
+* [2025-08-17, 13:05:31](https://news.ycombinator.com/item?id=44931305) - [Mirror Ball Emoji Proposal (2018) [pdf]](https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf)
 
 ## [Archives](archives/index.md)
 
