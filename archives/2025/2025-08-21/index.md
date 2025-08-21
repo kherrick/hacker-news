@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 21:04:39](https://news.ycombinator.com/item?id=44978073) - [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
+* [2025-08-21, 20:53:29](https://news.ycombinator.com/item?id=44977949) - [How Delphi achieved sub 100ms retrieval with Pinecone](https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/)
 * [2025-08-21, 20:26:44](https://news.ycombinator.com/item?id=44977645) - [Uv format: Code Formatting Comes to uv (experimentally)](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
 * [2025-08-21, 20:18:29](https://news.ycombinator.com/item?id=44977543) - [In Defense of Car-Centered Society](https://sweatofthebrow.blogspot.com/2025/08/in-defense-of-car-centered-society.html)
 * [2025-08-21, 20:07:51](https://news.ycombinator.com/item?id=44977417) - [Administration will review all 55M visa holders for deportable violations](https://apnews.com/article/trump-visas-deportations-068ad6cd5724e7248577f17592327ca4)
