@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 03:24:40](https://news.ycombinator.com/item?id=44968754) - [Family Farm Wins Historic Case After Feds Violate Constitution and Ruin Business](https://www.agweb.com/news/business/family-farm-wins-historic-case-after-feds-violate-constitution-and-ruin-business)
 * [2025-08-21, 01:28:56](https://news.ycombinator.com/item?id=44968190) - [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
 * [2025-08-21, 01:14:49](https://news.ycombinator.com/item?id=44968129) - [Creating 3D Worlds with HTML and CSS (2013)](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
 * [2025-08-21, 00:30:45](https://news.ycombinator.com/item?id=44967923) - [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
 * [2025-08-21, 00:10:07](https://news.ycombinator.com/item?id=44967796) - [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
 * [2025-08-20, 23:15:55](https://news.ycombinator.com/item?id=44967505) - [SimpleIDE](https://github.com/jamesplotts/simpleide)
 * [2025-08-20, 23:10:37](https://news.ycombinator.com/item?id=44967469) - [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
-* [2025-08-20, 21:47:05](https://news.ycombinator.com/item?id=44966856) - [Vibe coding creates a bus factor of zero](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
 * [2025-08-20, 21:00:14](https://news.ycombinator.com/item?id=44966408) - [Coris (YC S22) Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
 * [2025-08-20, 20:37:58](https://news.ycombinator.com/item?id=44966170) - [Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
