@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 05:19:47](https://news.ycombinator.com/item?id=44969277) - ['Reading crisis' prompts Denmark to end 25% tax on books](https://www.rte.ie/news/world/2025/0820/1529397-denmark-book-tax/)
 * [2025-08-21, 05:06:05](https://news.ycombinator.com/item?id=44969211) - [Contrasting Data and Objects (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 * [2025-08-21, 03:53:47](https://news.ycombinator.com/item?id=44968883) - [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
 * [2025-08-21, 03:24:40](https://news.ycombinator.com/item?id=44968754) - [Family Farm Wins Historic Case After Feds Violate Constitution and Ruin Business](https://www.agweb.com/news/business/family-farm-wins-historic-case-after-feds-violate-constitution-and-ruin-business)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 05:19:47](https://news.ycombinator.com/item?id=44969277) - ['Reading crisis' prompts Denmark to end 25% tax on books](https://www.rte.ie/news/world/2025/0820/1529397-denmark-book-tax/)
 * [2025-08-21, 05:06:05](https://news.ycombinator.com/item?id=44969211) - [Contrasting Data and Objects (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 * [2025-08-21, 03:53:47](https://news.ycombinator.com/item?id=44968883) - [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
 * [2025-08-21, 02:01:00](https://news.ycombinator.com/item?id=44968354) - [I've never had a real adversary](https://inoticeiamconfused.substack.com/p/ive-never-had-a-real-adversary)
@@ -19,7 +20,6 @@
 * [2025-08-20, 16:01:13](https://news.ycombinator.com/item?id=44963135) - [Show HN: Luminal – Open-source, search-based GPU compiler](https://github.com/luminal-ai/luminal)
 * [2025-08-20, 15:44:33](https://news.ycombinator.com/item?id=44962969) - [OPA maintainers and Styra employees hired by Apple](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
 * [2025-08-20, 15:34:07](https://news.ycombinator.com/item?id=44962881) - [Launch HN: Channel3 (YC S25) – A database of every product on the internet](https://news.ycombinator.com/item?id=44962881)
-* [2025-08-20, 15:32:44](https://news.ycombinator.com/item?id=44962869) - [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
 * [2025-08-20, 15:23:19](https://news.ycombinator.com/item?id=44962771) - [Home Depot sued for 'secretly' using facial recognition at self-checkouts](https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/)
 * [2025-08-20, 14:54:45](https://news.ycombinator.com/item?id=44962529) - [Why are anime catgirls blocking my access to the Linux kernel?](https://lock.cmpxchg8b.com/anubis.html)
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
