@@ -39,6 +39,7 @@
 * [2025-08-18, 16:40:48](https://news.ycombinator.com/item?id=44942602) - [My Retro TVs](https://www.myretrotvs.com/)
 * [2025-08-18, 16:40:44](https://news.ycombinator.com/item?id=44942600) - [AWS pricing for Kiro dev tool dubbed 'a wallet-wrecking tragedy'](https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/)
 * [2025-08-18, 16:31:48](https://news.ycombinator.com/item?id=44942501) - [Anna's Archive: An Update from the Team](https://annas-archive.org/blog/an-update-from-the-team.html)
+* [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)
 * [2025-08-18, 15:54:09](https://news.ycombinator.com/item?id=44942008) - [Win10 users looking for a new OS? Apple $599 MacBook can't come at a better time](https://www.zdnet.com/article/windows-10-users-looking-for-a-new-os-apples-599-macbook-cant-come-at-a-better-time/)
 * [2025-08-18, 15:50:21](https://news.ycombinator.com/item?id=44941963) - [Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 * [2025-08-18, 15:46:11](https://news.ycombinator.com/item?id=44941907) - [The administration's assault on science feels eerily Soviet](https://grist.org/politics/the-trump-administrations-assault-on-science-feels-eerily-soviet/)
