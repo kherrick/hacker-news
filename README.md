@@ -2,7 +2,6 @@
 
 * [2025-08-21, 09:30:52](https://news.ycombinator.com/item?id=44970751) - [To Infinity but Not Beyond](https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/)
 * [2025-08-21, 08:21:35](https://news.ycombinator.com/item?id=44970401) - [Dev Reveals Secrets Behind New \"3D\" Platformer for the ZX Spectrum](https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum)
-* [2025-08-21, 07:56:30](https://news.ycombinator.com/item?id=44970269) - [Australia Post halts transit shipping to US as 'chaotic' tariff deadline looms](https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456)
 * [2025-08-21, 06:20:11](https://news.ycombinator.com/item?id=44969622) - [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem)
 * [2025-08-21, 05:08:08](https://news.ycombinator.com/item?id=44969221) - [Python f-string cheat sheets (2022)](https://fstring.help/cheat/)
 * [2025-08-21, 05:06:05](https://news.ycombinator.com/item?id=44969211) - [Data, objects, and how we're railroaded into poor design (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
@@ -23,6 +22,7 @@
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
 * [2025-08-20, 14:01:26](https://news.ycombinator.com/item?id=44962059) - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
 * [2025-08-20, 12:13:16](https://news.ycombinator.com/item?id=44961172) - [Sequoia backs Zed](https://zed.dev/blog/sequoia-backs-zed)
+* [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
 * [2025-08-18, 14:17:01](https://news.ycombinator.com/item?id=44940896) - [Basic dependency injection in OCaml with objects](https://gr-im.github.io/a/dependency-injection.html)
 * [2025-08-18, 01:32:44](https://news.ycombinator.com/item?id=44936535) - [French firm Gouach is pitching an Infinite Battery with replaceable cells](https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/)
 * [2025-08-17, 17:31:33](https://news.ycombinator.com/item?id=44933290) - [SK hynix dethrones Samsung as world’s top DRAM maker](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
