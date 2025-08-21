@@ -129,6 +129,68 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44969622">
+          <h3>
+            <a class="item" href="https://github.com/Growth-Kinetics/DiffMem"
+              >Show HN: I replaced vector databases with Git for AI memory
+              (PoC)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-21 @ 06:20:11</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44969622"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The insight: Git already solved versioned document management.
+                Why are we building complex vector stores when we could just use
+                markdown files with Git's built-in diff/blame/history?
+              </p>
+              <p>How it works:</p>
+              <p>
+                Memories stored as markdown files in a Git repo Each
+                conversation = one commit git diff shows how understanding
+                evolves over time BM25 for search (no embeddings needed) LLMs
+                generate search queries from conversation context Example: Ask
+                "how has my project evolved?" and it uses git diff to show
+                actual changes in understanding, not just similarity scores.
+              </p>
+              <p>
+                This is very much a PoC - rough edges everywhere, not production
+                ready. But it's been working surprisingly well for personal use.
+                The entire index for a year of conversations fits in ~100MB RAM
+                with sub-second retrieval.
+              </p>
+              <p>
+                The cool part: You can git checkout to any point in time and see
+                exactly what the AI knew then. Perfect reproducibility,
+                human-readable storage, and you can manually edit memories if
+                needed.
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/Growth-Kinetics/DiffMem"
+                  >https://github.com/Growth-Kinetics/DiffMem</a
+                >
+              </p>
+              <p>
+                Stack: Python, GitPython, rank-bm25, OpenRouter for LLM
+                orchestration. MIT licensed.
+              </p>
+              <p>
+                Would love feedback on the approach. Is this crazy or clever?
+                What am I missing that will bite me later?
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="44969277">
           <h3>
             <a
@@ -141,11 +203,30 @@
             <h4>
               <span>2025-08-21 @ 05:19:47</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44969277"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 41</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44969221">
+          <h3>
+            <a class="item" href="https://fstring.help/cheat/"
+              >Python f-string cheat sheet</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-21 @ 05:08:08</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44969221"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -162,11 +243,11 @@
             <h4>
               <span>2025-08-21 @ 05:06:05</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44969211"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -183,32 +264,11 @@
             <h4>
               <span>2025-08-21 @ 03:53:47</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44968883"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44968190">
-          <h3>
-            <a
-              class="item"
-              href="https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech"
-              >How to stop feeling lost in tech: the wafflehouse method</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-21 @ 01:28:56</span
-              ><span class="points-container"
-                >Points: <span class="points">106</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44968190"
-                  >Comments</a
-                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -225,7 +285,7 @@
             <h4>
               <span>2025-08-21 @ 01:14:49</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44968129"
                   >Comments</a
@@ -246,7 +306,7 @@
             <h4>
               <span>2025-08-21 @ 00:30:45</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44967923"
                   >Comments</a
@@ -267,11 +327,11 @@
             <h4>
               <span>2025-08-21 @ 00:10:07</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44967796"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -286,7 +346,7 @@
             <h4>
               <span>2025-08-20 @ 23:15:55</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44967505"
                   >Comments</a
@@ -307,11 +367,11 @@
             <h4>
               <span>2025-08-20 @ 23:10:37</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44967469"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -344,11 +404,11 @@
             <h4>
               <span>2025-08-20 @ 20:37:58</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44966170"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
@@ -378,7 +438,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44965233"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -393,7 +453,7 @@
             <h4>
               <span>2025-08-20 @ 18:47:03</span
               ><span class="points-container"
-                >Points: <span class="points">462</span></span
+                >Points: <span class="points">467</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44964916"
                   >Comments</a
@@ -413,32 +473,11 @@
             <h4>
               <span>2025-08-20 @ 18:27:25</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44964693"
                   >Comments</a
                 ><span class="descendants">: 71</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44963939">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.google/products/pixel/google-pixel-10-pro-xl/"
-              >Pixel 10 Phones</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-20 @ 17:24:10</span
-              ><span class="points-container"
-                >Points: <span class="points">386</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44963939"
-                  >Comments</a
-                ><span class="descendants">: 767</span></span
               >
             </h4>
           </section>
@@ -453,11 +492,11 @@
             <h4>
               <span>2025-08-20 @ 17:04:51</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44963724"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -472,11 +511,11 @@
             <h4>
               <span>2025-08-20 @ 16:01:13</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44963135"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
             <div class="text">
@@ -538,11 +577,11 @@
             <h4>
               <span>2025-08-20 @ 15:44:33</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44962969"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -558,11 +597,11 @@
             <h4>
               <span>2025-08-20 @ 15:34:07</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44962881"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
             <div class="text">
@@ -677,11 +716,11 @@
             <h4>
               <span>2025-08-20 @ 15:23:19</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44962771"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -696,11 +735,11 @@
             <h4>
               <span>2025-08-20 @ 14:54:45</span
               ><span class="points-container"
-                >Points: <span class="points">436</span></span
+                >Points: <span class="points">452</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44962529"
                   >Comments</a
-                ><span class="descendants">: 441</span></span
+                ><span class="descendants">: 468</span></span
               >
             </h4>
           </section>
@@ -718,7 +757,7 @@
             <h4>
               <span>2025-08-20 @ 14:02:47</span
               ><span class="points-container"
-                >Points: <span class="points">728</span></span
+                >Points: <span class="points">734</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44962066"
                   >Comments</a
@@ -752,11 +791,11 @@
             <h4>
               <span>2025-08-20 @ 14:01:26</span
               ><span class="points-container"
-                >Points: <span class="points">357</span></span
+                >Points: <span class="points">362</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44962059"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -771,11 +810,11 @@
             <h4>
               <span>2025-08-20 @ 12:13:16</span
               ><span class="points-container"
-                >Points: <span class="points">365</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44961172"
                   >Comments</a
-                ><span class="descendants">: 220</span></span
+                ><span class="descendants">: 226</span></span
               >
             </h4>
           </section>
@@ -792,7 +831,7 @@
             <h4>
               <span>2025-08-20 @ 09:43:04</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">280</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44960316"
                   >Comments</a
@@ -813,11 +852,11 @@
             <h4>
               <span>2025-08-18 @ 11:56:03</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44939642"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -835,11 +874,11 @@
             <h4>
               <span>2025-08-18 @ 01:32:44</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44936535"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -856,11 +895,11 @@
             <h4>
               <span>2025-08-17 @ 17:31:33</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44933290"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -875,11 +914,11 @@
             <h4>
               <span>2025-08-17 @ 13:18:21</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44931371"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -896,11 +935,11 @@
             <h4>
               <span>2025-08-17 @ 13:05:31</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44931305"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
