@@ -75,6 +75,7 @@
 * [2025-08-18, 12:34:43](https://news.ycombinator.com/item?id=44939874) - [Show HN: Strudel Flow, a pattern sequencer built with Strudel and React Flow](https://github.com/xyflow/strudel-flow)
 * [2025-08-18, 12:34:36](https://news.ycombinator.com/item?id=44939873) - [Show HN: Typed-arrow – compile‑time Arrow schemas for Rust](https://github.com/tonbo-io/typed-arrow)
 * [2025-08-18, 12:31:18](https://news.ycombinator.com/item?id=44939849) - [Intel Foundry Demonstrates First Arm-Based Chip on 18A Node](https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc)
+* [2025-08-18, 12:03:12](https://news.ycombinator.com/item?id=44939688) - [Philosophical Thoughts on Kolmogorov-Arnold Networks (2024)](https://kindxiaoming.github.io/blog/2024/kolmogorov-arnold-networks/)
 * [2025-08-18, 12:00:06](https://news.ycombinator.com/item?id=44939669) - [It's the Housing, Stupid](https://ofdollarsanddata.com/its-the-housing-stupid/)
 * [2025-08-18, 11:58:17](https://news.ycombinator.com/item?id=44939660) - [When you're asking AI chatbots for answers, they're data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)
 * [2025-08-18, 11:57:19](https://news.ycombinator.com/item?id=44939654) - [Customizing Lisp REPLs](https://aartaka.me/customize-repl.html)
