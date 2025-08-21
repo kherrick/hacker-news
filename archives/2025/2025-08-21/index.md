@@ -6,6 +6,7 @@
 
 * [2025-08-21, 17:13:56](https://news.ycombinator.com/item?id=44975378) - [Physics Grifters: Eric Weinstein, Sabine Hossenfelder a Crisis of Credibility](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
 * [2025-08-21, 17:01:03](https://news.ycombinator.com/item?id=44975180) - [Cua (YC X25) Is Hiring Founding Design Engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
+* [2025-08-21, 16:59:30](https://news.ycombinator.com/item?id=44975164) - [Marines managed to get past an AI powered camera \"undetected\" by hiding in boxes](https://rudevulture.com/marines-managed-to-get-past-an-ai-powered-camera-undetected-thanks-to-hiding-in-boxes/)
 * [2025-08-21, 16:29:07](https://news.ycombinator.com/item?id=44974717) - [AI SRE Needs More Than AI: It Needs Operational Context](https://rootly.com/blog/ai-sre-needs-more-than-ai-it-needs-operational-context)
 * [2025-08-21, 15:58:55](https://news.ycombinator.com/item?id=44974365) - [Bank forced to rehire workers after lying about chatbot productivity, union says](https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/)
 * [2025-08-21, 15:54:15](https://news.ycombinator.com/item?id=44974330) - [Adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)

@@ -2,12 +2,12 @@
 
 * [2025-08-21, 17:13:56](https://news.ycombinator.com/item?id=44975378) - [Physics Grifters: Eric Weinstein, Sabine Hossenfelder a Crisis of Credibility](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
 * [2025-08-21, 17:01:03](https://news.ycombinator.com/item?id=44975180) - [Cua (YC X25) Is Hiring Founding Design Engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
+* [2025-08-21, 16:59:30](https://news.ycombinator.com/item?id=44975164) - [Marines managed to get past an AI powered camera \"undetected\" by hiding in boxes](https://rudevulture.com/marines-managed-to-get-past-an-ai-powered-camera-undetected-thanks-to-hiding-in-boxes/)
 * [2025-08-21, 15:58:55](https://news.ycombinator.com/item?id=44974365) - [Bank forced to rehire workers after lying about chatbot productivity, union says](https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/)
 * [2025-08-21, 15:54:15](https://news.ycombinator.com/item?id=44974330) - [Adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
 * [2025-08-21, 15:47:42](https://news.ycombinator.com/item?id=44974251) - [A summary of recent AI research (2016)](https://blog.plan99.net/the-science-of-westworld-ec624585e47)
 * [2025-08-21, 15:46:16](https://news.ycombinator.com/item?id=44974230) - [Forced every engineer to take sales calls.They rewrote our platform in 2 weeks](https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/)
 * [2025-08-21, 15:36:51](https://news.ycombinator.com/item?id=44974109) - [Unmasking the Privacy Risks of Apple Intelligence](https://www.lumia.security/blog/applestorm)
-* [2025-08-21, 15:36:24](https://news.ycombinator.com/item?id=44974104) - [95% of Companies See 'Zero Return' on $30B Generative AI Spend](https://thedailyadda.com/95-of-companies-see-zero-return-on-30-billion-generative-ai-spend-mit-report-finds/)
 * [2025-08-21, 15:09:38](https://news.ycombinator.com/item?id=44973758) - [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758)
 * [2025-08-21, 14:39:45](https://news.ycombinator.com/item?id=44973375) - [Beyond sensor data: Foundation models of behavioral data from wearables](https://arxiv.org/abs/2507.00191)
 * [2025-08-21, 14:31:18](https://news.ycombinator.com/item?id=44973269) - [Unity reintroduces the Runtime Fee through its Industry license](https://unity.com/products/unity-industry)
