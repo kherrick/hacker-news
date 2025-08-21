@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-08-20, 15:44:33",
+      "https://news.ycombinator.com/item?id=44962969"
+    ],
+    [
+      "OPA maintainers and Styra employees hired by Apple",
+      "https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 15:34:07",
       "https://news.ycombinator.com/item?id=44962881"
     ],
@@ -227,16 +237,6 @@
     [
       "Basic dependency injection in OCaml with objects",
       "https://gr-im.github.io/a/dependency-injection.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 11:56:03",
-      "https://news.ycombinator.com/item?id=44939642"
-    ],
-    [
-      "Universal Tool Calling Protocol (UTCP)",
-      "https://github.com/universal-tool-calling-protocol/python-utcp"
     ]
   ],
   [
