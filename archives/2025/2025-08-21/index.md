@@ -29,6 +29,7 @@
 * [2025-08-21, 12:58:17](https://news.ycombinator.com/item?id=44972213) - [How Well Does the Money Laundering Control System Work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
 * [2025-08-21, 12:53:16](https://news.ycombinator.com/item?id=44972151) - [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
 * [2025-08-21, 12:31:46](https://news.ycombinator.com/item?id=44971954) - [Ride in Your Privately-Owned Train Cars to See North America](https://www.amtrak.com/privately-owned-rail-cars)
+* [2025-08-21, 12:21:38](https://news.ycombinator.com/item?id=44971850) - [How does the US use water?](https://www.construction-physics.com/p/how-does-the-us-use-water)
 * [2025-08-21, 12:20:53](https://news.ycombinator.com/item?id=44971845) - [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
 * [2025-08-21, 12:08:30](https://news.ycombinator.com/item?id=44971744) - [Show HN: Using Common Lisp from Inside the Browser](https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html)
 * [2025-08-21, 12:00:31](https://news.ycombinator.com/item?id=44971670) - [Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering](https://careers.activeloop.ai/)
