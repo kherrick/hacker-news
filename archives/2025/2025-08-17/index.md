@@ -28,6 +28,7 @@
 * [2025-08-17, 17:22:16](https://news.ycombinator.com/item?id=44933219) - [Review of Anti-Aging Drugs](https://scienceblog.com/joshmitteldorf/2025/08/17/review-of-anti-aging-drugs/)
 * [2025-08-17, 17:16:48](https://news.ycombinator.com/item?id=44933179) - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/)
 * [2025-08-17, 17:03:20](https://news.ycombinator.com/item?id=44933070) - [AI Doesn't Lighten the Burden of Mastery; AI Makes It Easy to Stop Valuing It](https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html)
+* [2025-08-17, 16:57:50](https://news.ycombinator.com/item?id=44933019) - [Sixteen Bottles of Wine Riddle](https://chriskw.xyz/2025/08/11/Wine/)
 * [2025-08-17, 16:53:03](https://news.ycombinator.com/item?id=44932980) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-17, 16:13:06](https://news.ycombinator.com/item?id=44932651) - [Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea](https://news.ycombinator.com/item?id=44932651)
 * [2025-08-17, 16:10:37](https://news.ycombinator.com/item?id=44932624) - [MS-DOS Development Resources](https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md)
