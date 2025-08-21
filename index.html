@@ -129,6 +129,150 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44973758">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44973758"
+              >Launch HN: Skope (YC S25) – Outcome-based pricing for software
+              products</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-21 @ 15:09:38</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44973758"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.useskope.com/">https://www.useskope.com/</a
+              >), a billing system that supports outcome-based pricing for
+              software—that is, which charges your customers only when your
+              software actually works. We’re an alternative to Stripe Billing,
+              Orb, and Metronome that natively supports this pricing model,
+              because we believe it’s especially needed for the AI products
+              which are flooding the market and that will continue to be built
+              in the future.
+              <p>
+                Here’s a demo video:
+                <a href="https://www.youtube.com/watch?v=ORxhACQbu64"
+                  >https://www.youtube.com/watch?v=ORxhACQbu64</a
+                >
+              </p>
+              <p>
+                Prior to working on Skope, we built AI agents that fundraised
+                for nonprofits. We weren’t able to find our stride within the
+                nonprofit world, one reason being that there was no incentive
+                for a nonprofit (with an already small budget) to take on the
+                risk of buying expensive software claiming to replace humans at
+                a high upfront cost, without proving its value first.
+              </p>
+              <p>
+                Instead, they should’ve been able to pay every time our product
+                really worked (in this case by securing a donation or booking a
+                meeting). With this model, we wouldn’t profit off of nonprofits
+                with a mediocre product. At the same time, we’d give ourselves
+                more upside if what we were selling truly did its job. All while
+                taking all the risk off of our buyers.
+              </p>
+              <p>
+                Although we really wanted to, there was no easy way to make this
+                happen at scale. It would have had to rely on trust, and depend
+                on every single customer reporting each outcome quickly and
+                accurately. Not the best recipe.
+              </p>
+              <p>
+                So, we decided to build it…which turned out to mean rebuilding
+                billing from scratch. But we think a world where people pay for
+                software doing its job is a good one, in which case
+                outcome-based pricing will catch on, but don’t think it’ll
+                happen overnight. There are a ton of wrinkles to figure out
+                still. In the meantime, we’ve also built the rails to support
+                traditional subscriptions and usage/credit based models with a
+                focus on making iteration on price really easy.
+              </p>
+              <p>
+                How it works: Our users can easily track customer usage through
+                units (like tokens consumed or emails sent) and set pricing
+                rules such as the price of each unit or a limit for usage per
+                month. These pricing rules are designed to be flexible items
+                that can be modified easily for each customer. Usage is recorded
+                as events uploaded via our API/SDK, which are mapped to pricing
+                rules for accurate, immutable billing calculations. Invoices are
+                automatically generated at the end of each billing period based
+                on the events logged during the given period. We are working to
+                develop integrations with LLM observability platforms such as
+                Helicone and Langfuse to make it easy to record customer usage
+                data. Finally, we make it easy to collect payments via Stripe
+                (disconnected from Stripe Billing).
+              </p>
+              <p>
+                For outcomes specifically, we’re working on acting as a middle
+                layer between our customers and their users. The same process
+                for setting prices and units follows as said before, but we’ll
+                have access to both our users’ and their customers’ systems of
+                record to verify that these outcomes actually happened. We built
+                a customer portal so that once outcomes are verified by us, the
+                customer can see and validate them as they happen. If a customer
+                of a company using Skope, wants to dispute a charge, we plan to
+                handle it ourselves through the platform. Transparency and trust
+                are really important between all parties within this model, so
+                we want to do everything possible to encourage that.
+              </p>
+              <p>
+                We really like the outcome-based model because it encourages
+                truly good software and aligns incentives between buyers and
+                sellers. We think that the bar for software will become higher
+                as more companies adopt it and it’ll lead to cool things. At the
+                same time, neither buyers nor sellers can pull a fast one on the
+                other to get a better deal. It’s similar to Google Ads, which
+                introduced pay per click pricing to online advertising for the
+                first time. We’re trying to make it possible for the entire
+                software industry to come into the pay per performance realm,
+                just like Google did over 20 years ago.
+              </p>
+              <p>
+                We’re rolling out at a flat subscription price.
+                Counterintuitively, we don’t think the outcome-based model makes
+                sense for Skope itself. A billing product isn’t one that “may or
+                may not work”, it needs to just work.
+              </p>
+              <p>
+                The way AI companies do business needs new billing
+                infrastructure, and that's what we’re working to provide. We
+                have a ton to learn and are eager to hear how others see the
+                future playing out.
+              </p>
+              <p>
+                Please let us know if you have any thoughts on things you’d like
+                to see. Always excited to riff on this and we’d absolutely love
+                your comments!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44973375">
+          <h3>
+            <a class="item" href="https://arxiv.org/abs/2507.00191"
+              >Apple Watch wearable foundation model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-21 @ 14:39:45</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44973375"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44972808">
           <h3>
             <a
@@ -142,11 +286,11 @@
             <h4>
               <span>2025-08-21 @ 13:52:50</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44972808"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -163,7 +307,7 @@
             <h4>
               <span>2025-08-21 @ 13:18:12</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44972406"
                   >Comments</a
@@ -182,11 +326,11 @@
             <h4>
               <span>2025-08-21 @ 13:01:11</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44972238"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
             <div class="text">
@@ -232,11 +376,11 @@
             <h4>
               <span>2025-08-21 @ 12:58:17</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44972213"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -254,11 +398,11 @@
             <h4>
               <span>2025-08-21 @ 12:53:16</span
               ><span class="points-container"
-                >Points: <span class="points">502</span></span
+                >Points: <span class="points">588</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44972151"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 210</span></span
               >
             </h4>
           </section>
@@ -275,11 +419,11 @@
             <h4>
               <span>2025-08-21 @ 12:20:53</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44971845"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -296,11 +440,11 @@
             <h4>
               <span>2025-08-21 @ 12:08:30</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44971744"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -334,11 +478,11 @@
             <h4>
               <span>2025-08-21 @ 11:35:22</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44971487"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -355,11 +499,11 @@
             <h4>
               <span>2025-08-21 @ 11:22:50</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44971396"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 140</span></span
               >
             </h4>
           </section>
@@ -376,11 +520,11 @@
             <h4>
               <span>2025-08-21 @ 11:04:08</span
               ><span class="points-container"
-                >Points: <span class="points">320</span></span
+                >Points: <span class="points">338</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44971273"
                   >Comments</a
-                ><span class="descendants">: 304</span></span
+                ><span class="descendants">: 339</span></span
               >
             </h4>
           </section>
@@ -397,11 +541,11 @@
             <h4>
               <span>2025-08-21 @ 10:54:13</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44971212"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -418,11 +562,11 @@
             <h4>
               <span>2025-08-21 @ 10:12:35</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44970981"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -459,7 +603,7 @@
             <h4>
               <span>2025-08-21 @ 06:20:11</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44969622"
                   >Comments</a
@@ -520,11 +664,11 @@
             <h4>
               <span>2025-08-21 @ 05:08:08</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44969221"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -541,11 +685,11 @@
             <h4>
               <span>2025-08-21 @ 00:10:07</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44967796"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -562,11 +706,11 @@
             <h4>
               <span>2025-08-20 @ 23:10:37</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">344</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44967469"
                   >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 202</span></span
               >
             </h4>
           </section>
@@ -584,11 +728,11 @@
             <h4>
               <span>2025-08-20 @ 15:23:19</span
               ><span class="points-container"
-                >Points: <span class="points">264</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44962771"
                   >Comments</a
-                ><span class="descendants">: 358</span></span
+                ><span class="descendants">: 367</span></span
               >
             </h4>
           </section>
@@ -603,11 +747,11 @@
             <h4>
               <span>2025-08-20 @ 14:54:45</span
               ><span class="points-container"
-                >Points: <span class="points">698</span></span
+                >Points: <span class="points">704</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44962529"
                   >Comments</a
-                ><span class="descendants">: 742</span></span
+                ><span class="descendants">: 749</span></span
               >
             </h4>
           </section>
@@ -625,7 +769,7 @@
             <h4>
               <span>2025-08-20 @ 14:02:47</span
               ><span class="points-container"
-                >Points: <span class="points">818</span></span
+                >Points: <span class="points">821</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44962066"
                   >Comments</a
@@ -656,11 +800,11 @@
             <h4>
               <span>2025-08-18 @ 16:01:44</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44942099"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -675,32 +819,11 @@
             <h4>
               <span>2025-08-18 @ 13:56:44</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44940649"
                   >Comments</a
                 ><span class="descendants">: 31</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44939642">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/universal-tool-calling-protocol/python-utcp"
-              >Universal Tool Calling Protocol (UTCP)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-18 @ 11:56:03</span
-              ><span class="points-container"
-                >Points: <span class="points">57</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44939642"
-                  >Comments</a
-                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -717,7 +840,7 @@
             <h4>
               <span>2025-08-17 @ 20:11:00</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44934529"
                   >Comments</a
@@ -738,32 +861,11 @@
             <h4>
               <span>2025-08-17 @ 20:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44934476"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44933290">
-          <h3>
-            <a
-              class="item"
-              href="https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834"
-              >SK hynix dethrones Samsung as world’s top DRAM maker</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-17 @ 17:31:33</span
-              ><span class="points-container"
-                >Points: <span class="points">164</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44933290"
-                  >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -778,11 +880,11 @@
             <h4>
               <span>2025-08-17 @ 16:57:50</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44933019"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -797,11 +899,11 @@
             <h4>
               <span>2025-08-17 @ 15:42:32</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44932401"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -816,11 +918,11 @@
             <h4>
               <span>2025-08-17 @ 13:18:21</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44931371"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
