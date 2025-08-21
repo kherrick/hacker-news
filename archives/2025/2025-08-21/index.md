@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 22:28:47](https://news.ycombinator.com/item?id=44978869) - [The Onion Brought Back Its Print Edition. The Gamble Is Paying Off](https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c)
 * [2025-08-21, 22:04:39](https://news.ycombinator.com/item?id=44978655) - [CEO pay and stock buybacks have soared at the 100 largest low-wage corporations](https://ips-dc.org/report-executive-excess-2025/)
 * [2025-08-21, 21:17:28](https://news.ycombinator.com/item?id=44978214) - [Libre-Chip Awarded NLnet Grant to Prototype a CPU Isn't Vulnerable to Spectre](https://www.phoronix.com/news/Libre-Chip-NLnet-Grant)
 * [2025-08-21, 21:10:34](https://news.ycombinator.com/item?id=44978140) - [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
