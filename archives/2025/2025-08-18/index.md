@@ -87,6 +87,7 @@
 * [2025-08-18, 09:11:16](https://news.ycombinator.com/item?id=44938718) - [Fast and observable background job processing for .NET](https://github.com/mikasjp/BusyBee)
 * [2025-08-18, 09:00:53](https://news.ycombinator.com/item?id=44938667) - [Rails Charts Using ECharts from Apache](https://github.com/railsjazz/rails_charts)
 * [2025-08-18, 08:54:48](https://news.ycombinator.com/item?id=44938622) - [Geotoy – Shadertoy for 3D Geometry](https://3d.ameo.design/geotoy)
+* [2025-08-18, 08:27:57](https://news.ycombinator.com/item?id=44938499) - [The Illumos Cafe: Another Cozy Corner for OS Diversity](https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/)
 * [2025-08-18, 07:57:30](https://news.ycombinator.com/item?id=44938354) - [The joy of recursion, immutable data, & pure functions: Making mazes with JS](https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes/)
 * [2025-08-18, 07:47:44](https://news.ycombinator.com/item?id=44938309) - [Mindless Machines, Mindless Myths](https://lareviewofbooks.org/article/mindless-machines-mindless-myths/)
 * [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification](https://eli.thegreenplace.net/2018/unification/)
