@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-21, 13:52:50",
+      "https://news.ycombinator.com/item?id=44972808"
+    ],
+    [
+      "In a first, Google has released data on how much energy an AI prompt uses",
+      "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 13:18:12",
       "https://news.ycombinator.com/item?id=44972406"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-08-21, 10:16:39",
-      "https://news.ycombinator.com/item?id=44970998"
-    ],
-    [
-      "The Open-Office Trap (2014)",
-      "https://www.newyorker.com/business/currency/the-open-office-trap"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 10:12:35",
       "https://news.ycombinator.com/item?id=44970981"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-08-20, 14:01:26",
-      "https://news.ycombinator.com/item?id=44962059"
-    ],
-    [
-      "Gemma 3 270M re-implemented in pure PyTorch for local tinkering",
-      "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 16:01:44",
       "https://news.ycombinator.com/item?id=44942099"
     ],
@@ -257,6 +247,16 @@
     [
       "The rise and fall of the Seagaia Ocean Dome wave pool",
       "https://www.surfertoday.com/surfing/the-untold-story-of-the-seagaia-ocean-dome-indoor-wave-pool"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 20:04:00",
+      "https://news.ycombinator.com/item?id=44934476"
+    ],
+    [
+      "You Should Add Debug Views to Your DB",
+      "https://chrispenner.ca/posts/views-for-debugging"
     ]
   ],
   [
