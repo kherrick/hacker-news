@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-21, 17:13:56](https://news.ycombinator.com/item?id=44975378) - [Physics Grifters: Eric Weinstein, Sabine Hossenfelder a Crisis of Credibility](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
-* [2025-08-21, 17:01:03](https://news.ycombinator.com/item?id=44975180) - [Cua (YC X25) Is Hiring Founding Design Engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
+* [2025-08-21, 17:01:03](https://news.ycombinator.com/item?id=44975180) - [Cua (YC X25) is hiring design engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
 * [2025-08-21, 16:59:30](https://news.ycombinator.com/item?id=44975164) - [Marines managed to get past an AI powered camera \"undetected\" by hiding in boxes](https://rudevulture.com/marines-managed-to-get-past-an-ai-powered-camera-undetected-thanks-to-hiding-in-boxes/)
 * [2025-08-21, 16:27:22](https://news.ycombinator.com/item?id=44974688) - [The Core of Rust](https://jyn.dev/the-core-of-rust/)
+* [2025-08-21, 16:16:54](https://news.ycombinator.com/item?id=44974565) - [I did 98,000 Anki reviews. Anki is already dead](https://miguelconner.substack.com/p/anki-is-already-dead)
 * [2025-08-21, 15:58:55](https://news.ycombinator.com/item?id=44974365) - [Bank forced to rehire workers after lying about chatbot productivity, union says](https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/)
 * [2025-08-21, 15:54:15](https://news.ycombinator.com/item?id=44974330) - [Adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
 * [2025-08-21, 15:47:42](https://news.ycombinator.com/item?id=44974251) - [A summary of recent AI research (2016)](https://blog.plan99.net/the-science-of-westworld-ec624585e47)
@@ -22,6 +22,7 @@
 * [2025-08-21, 11:04:08](https://news.ycombinator.com/item?id=44971273) - [Mark Zuckerberg freezes AI hiring amid bubble fears](https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/)
 * [2025-08-21, 10:54:13](https://news.ycombinator.com/item?id=44971212) - [Using Podman, Compose and BuildKit](https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/)
 * [2025-08-21, 10:12:35](https://news.ycombinator.com/item?id=44970981) - [Why is D3 so Verbose?](https://theheasman.com/short_stories/why-is-d3-code-so-long-and-complicated-or-why-is-it-so-verbose/)
+* [2025-08-21, 08:54:06](https://news.ycombinator.com/item?id=44970563) - [My other email client is a daemon](https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/)
 * [2025-08-21, 06:20:11](https://news.ycombinator.com/item?id=44969622) - [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem)
 * [2025-08-20, 15:23:19](https://news.ycombinator.com/item?id=44962771) - [Home Depot sued for 'secretly' using facial recognition at self-checkouts](https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/)
 * [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)
@@ -29,7 +30,6 @@
 * [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification (2018)](https://eli.thegreenplace.net/2018/unification/)
 * [2025-08-17, 20:04:00](https://news.ycombinator.com/item?id=44934476) - [You Should Add Debug Views to Your DB](https://chrispenner.ca/posts/views-for-debugging)
 * [2025-08-17, 15:42:32](https://news.ycombinator.com/item?id=44932401) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
-* [2025-08-17, 13:18:21](https://news.ycombinator.com/item?id=44931371) - [Epson MX-80 Fonts](https://mw.rat.bz/MX-80/)
 
 ## [Archives](archives/index.md)
 
