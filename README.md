@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-21, 11:04:08](https://news.ycombinator.com/item?id=44971273) - [Mark Zuckerberg freezes AI hiring amid bubble fears](https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/)
+* [2025-08-21, 10:54:13](https://news.ycombinator.com/item?id=44971212) - [Using Podman, Compose and BuildKit](https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/)
 * [2025-08-21, 09:30:52](https://news.ycombinator.com/item?id=44970751) - [To Infinity but Not Beyond](https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/)
 * [2025-08-21, 08:21:35](https://news.ycombinator.com/item?id=44970401) - [Dev Reveals Secrets Behind New \"3D\" Platformer for the ZX Spectrum](https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum)
 * [2025-08-21, 06:20:11](https://news.ycombinator.com/item?id=44969622) - [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem)
@@ -14,7 +15,6 @@
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-08-20, 18:47:03](https://news.ycombinator.com/item?id=44964916) - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover](https://imperialcollegelondon.github.io/FLT/)
-* [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
 * [2025-08-20, 16:01:13](https://news.ycombinator.com/item?id=44963135) - [Show HN: Luminal – Open-source, search-based GPU compiler](https://github.com/luminal-ai/luminal)
 * [2025-08-20, 15:34:07](https://news.ycombinator.com/item?id=44962881) - [Launch HN: Channel3 (YC S25) – A database of every product on the internet](https://news.ycombinator.com/item?id=44962881)
 * [2025-08-20, 15:23:19](https://news.ycombinator.com/item?id=44962771) - [Home Depot sued for 'secretly' using facial recognition at self-checkouts](https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/)
