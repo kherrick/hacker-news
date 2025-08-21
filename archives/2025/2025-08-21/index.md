@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 13:01:11](https://news.ycombinator.com/item?id=44972238) - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
+* [2025-08-21, 12:53:16](https://news.ycombinator.com/item?id=44972151) - [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
+* [2025-08-21, 12:31:46](https://news.ycombinator.com/item?id=44971954) - [Ride in Your Privately-Owned Train Cars to See North America](https://www.amtrak.com/privately-owned-rail-cars)
+* [2025-08-21, 12:20:53](https://news.ycombinator.com/item?id=44971845) - [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
+* [2025-08-21, 12:08:30](https://news.ycombinator.com/item?id=44971744) - [Show HN: Using Common Lisp from Inside the Browser](https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html)
 * [2025-08-21, 12:00:31](https://news.ycombinator.com/item?id=44971670) - [Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering](https://careers.activeloop.ai/)
 * [2025-08-21, 11:52:29](https://news.ycombinator.com/item?id=44971607) - [1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]](https://www.youtube.com/watch?v=jHG_I-9a7FY)
 * [2025-08-21, 11:35:22](https://news.ycombinator.com/item?id=44971487) - [AI crawlers, fetchers are blowing up websites; Meta, OpenAI are worst offenders](https://www.theregister.com/2025/08/21/ai_crawler_traffic/)
