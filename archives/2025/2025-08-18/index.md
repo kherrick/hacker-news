@@ -56,6 +56,7 @@
 * [2025-08-18, 13:56:33](https://news.ycombinator.com/item?id=44940646) - [The Coming Robot Home Invasion](https://www.andykessler.com/andy_kessler/2025/08/wsj-home-robots.html)
 * [2025-08-18, 13:47:38](https://news.ycombinator.com/item?id=44940554) - [Class-action suit claims Otter AI records private work conversations](https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit)
 * [2025-08-18, 13:39:53](https://news.ycombinator.com/item?id=44940485) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
+* [2025-08-18, 13:38:04](https://news.ycombinator.com/item?id=44940451) - [Visualizing distributions with pepperoni pizza and JavaScript](https://ntietz.com/blog/visualizing-distributions-with-pepperoni-pizza/)
 * [2025-08-18, 13:34:06](https://news.ycombinator.com/item?id=44940416) - [Texas law gives grid operator power to disconnect data centers during crisis](https://www.utilitydive.com/news/texas-law-gives-grid-operator-power-to-disconnect-data-centers-during-crisi/751587/)
 * [2025-08-18, 13:28:04](https://news.ycombinator.com/item?id=44940372) - [AI accounts impersonating doctors on social media [video]](https://www.youtube.com/watch?v=iNNA-66vKPE)
 * [2025-08-18, 13:27:42](https://news.ycombinator.com/item?id=44940363) - [The biggest bet in tech](https://gmays.com/the-biggest-bet-in-tech/)
