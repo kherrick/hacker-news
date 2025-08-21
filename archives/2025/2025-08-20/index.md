@@ -31,6 +31,7 @@
 * [2025-08-20, 15:34:07](https://news.ycombinator.com/item?id=44962881) - [Launch HN: Channel3 (YC S25) – A database of every product on the internet](https://news.ycombinator.com/item?id=44962881)
 * [2025-08-20, 15:32:44](https://news.ycombinator.com/item?id=44962869) - [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
 * [2025-08-20, 15:30:07](https://news.ycombinator.com/item?id=44962844) - [AWS in 2025: The Stuff You Think You Know That's Now Wrong](https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/)
+* [2025-08-20, 15:23:19](https://news.ycombinator.com/item?id=44962771) - [Home Depot sued for 'secretly' using facial recognition at self-checkouts](https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/)
 * [2025-08-20, 15:23:01](https://news.ycombinator.com/item?id=44962767) - [Show HN: What country you would hit if you went straight where you're pointing](https://apps.apple.com/us/app/leascope/id6608979884)
 * [2025-08-20, 14:57:44](https://news.ycombinator.com/item?id=44962552) - [Ask HN: What are you biggest mental / relational challenges?](https://news.ycombinator.com/item?id=44962552)
 * [2025-08-20, 14:54:45](https://news.ycombinator.com/item?id=44962529) - [Why are anime catgirls blocking my access to the Linux kernel?](https://lock.cmpxchg8b.com/anubis.html)

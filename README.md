@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-21, 03:24:40](https://news.ycombinator.com/item?id=44968754) - [Family Farm Wins Historic Case After Feds Violate Constitution and Ruin Business](https://www.agweb.com/news/business/family-farm-wins-historic-case-after-feds-violate-constitution-and-ruin-business)
 * [2025-08-21, 01:28:56](https://news.ycombinator.com/item?id=44968190) - [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
 * [2025-08-21, 01:14:49](https://news.ycombinator.com/item?id=44968129) - [Creating 3D Worlds with HTML and CSS (2013)](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
 * [2025-08-21, 00:30:45](https://news.ycombinator.com/item?id=44967923) - [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
@@ -18,6 +17,7 @@
 * [2025-08-20, 15:44:33](https://news.ycombinator.com/item?id=44962969) - [OPA maintainers and Styra employees hired by Apple](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
 * [2025-08-20, 15:34:07](https://news.ycombinator.com/item?id=44962881) - [Launch HN: Channel3 (YC S25) – A database of every product on the internet](https://news.ycombinator.com/item?id=44962881)
 * [2025-08-20, 15:32:44](https://news.ycombinator.com/item?id=44962869) - [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
+* [2025-08-20, 15:23:19](https://news.ycombinator.com/item?id=44962771) - [Home Depot sued for 'secretly' using facial recognition at self-checkouts](https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/)
 * [2025-08-20, 14:54:45](https://news.ycombinator.com/item?id=44962529) - [Why are anime catgirls blocking my access to the Linux kernel?](https://lock.cmpxchg8b.com/anubis.html)
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
 * [2025-08-20, 14:01:26](https://news.ycombinator.com/item?id=44962059) - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
@@ -27,9 +27,9 @@
 * [2025-08-18, 13:38:04](https://news.ycombinator.com/item?id=44940451) - [Visualizing distributions with pepperoni pizza and JavaScript](https://ntietz.com/blog/visualizing-distributions-with-pepperoni-pizza/)
 * [2025-08-18, 01:32:44](https://news.ycombinator.com/item?id=44936535) - [French firm Gouach is pitching an Infinite Battery with replaceable cells](https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/)
 * [2025-08-17, 17:31:33](https://news.ycombinator.com/item?id=44933290) - [SK hynix dethrones Samsung as world’s top DRAM maker](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
-* [2025-08-17, 15:56:36](https://news.ycombinator.com/item?id=44932509) - [Visualizing GPT-OSS-20B embeddings](https://melonmars.github.io/LatentExplorer/embedding_viewer.html)
 * [2025-08-17, 14:21:37](https://news.ycombinator.com/item?id=44931761) - [Parallel Reduce and Scan on the GPU](https://cachemiss.xyz/blog/parallel-reduce-and-scan-on-the-GPU)
 * [2025-08-17, 13:18:21](https://news.ycombinator.com/item?id=44931371) - [Epson MX-80 Fonts](https://mw.rat.bz/MX-80/)
+* [2025-08-17, 07:26:12](https://news.ycombinator.com/item?id=44929633) - [Still want to be a London cabbie?](https://www.economist.com/britain/2025/08/08/still-want-to-be-a-london-cabbie)
 
 ## [Archives](archives/index.md)
 
