@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 22:52:14](https://news.ycombinator.com/item?id=44979107) - [From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
 * [2025-08-21, 22:28:47](https://news.ycombinator.com/item?id=44978869) - [The Onion Brought Back Its Print Edition. The Gamble Is Paying Off](https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c)
-* [2025-08-21, 22:04:39](https://news.ycombinator.com/item?id=44978655) - [CEO pay and stock buybacks have soared at the largest low-wage corporations](https://ips-dc.org/report-executive-excess-2025/)
+* [2025-08-21, 21:25:25](https://news.ycombinator.com/item?id=44978286) - [Mirage 2 – Generative World Engine](https://demo.dynamicslab.ai/chaos)
 * [2025-08-21, 21:10:34](https://news.ycombinator.com/item?id=44978140) - [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
 * [2025-08-21, 21:04:39](https://news.ycombinator.com/item?id=44978073) - [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
 * [2025-08-21, 20:26:44](https://news.ycombinator.com/item?id=44977645) - [Uv format: Code Formatting Comes to uv (experimentally)](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
@@ -12,7 +13,6 @@
 * [2025-08-21, 18:42:10](https://news.ycombinator.com/item?id=44976468) - [Building AI products in the probabilistic era](https://giansegato.com/essays/probabilistic-era)
 * [2025-08-21, 17:13:56](https://news.ycombinator.com/item?id=44975378) - [The contrarian physics podcast subculture](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
 * [2025-08-21, 16:27:22](https://news.ycombinator.com/item?id=44974688) - [The Core of Rust](https://jyn.dev/the-core-of-rust/)
-* [2025-08-21, 15:46:16](https://news.ycombinator.com/item?id=44974230) - [I forced every engineer to take sales calls and they rewrote our platform](https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/)
 * [2025-08-21, 15:09:38](https://news.ycombinator.com/item?id=44973758) - [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758)
 * [2025-08-21, 14:39:45](https://news.ycombinator.com/item?id=44973375) - [Beyond sensor data: Foundation models of behavioral data from wearables](https://arxiv.org/abs/2507.00191)
 * [2025-08-21, 13:01:11](https://news.ycombinator.com/item?id=44972238) - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
