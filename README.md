@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 15:09:38](https://news.ycombinator.com/item?id=44973758) - [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758)
+* [2025-08-21, 14:39:45](https://news.ycombinator.com/item?id=44973375) - [Apple Watch wearable foundation model](https://arxiv.org/abs/2507.00191)
 * [2025-08-21, 13:52:50](https://news.ycombinator.com/item?id=44972808) - [In a first, Google has released data on how much energy an AI prompt uses](https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/)
 * [2025-08-21, 13:18:12](https://news.ycombinator.com/item?id=44972406) - [A Conceptual Model for Storage Unification](https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification)
 * [2025-08-21, 13:01:11](https://news.ycombinator.com/item?id=44972238) - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
@@ -23,10 +25,8 @@
 * [2025-08-20, 14:02:47](https://news.ycombinator.com/item?id=44962066) - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
 * [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)
 * [2025-08-18, 13:56:44](https://news.ycombinator.com/item?id=44940649) - [Sütterlin](https://en.wikipedia.org/wiki/S%C3%BCtterlin)
-* [2025-08-18, 11:56:03](https://news.ycombinator.com/item?id=44939642) - [Universal Tool Calling Protocol (UTCP)](https://github.com/universal-tool-calling-protocol/python-utcp)
 * [2025-08-17, 20:11:00](https://news.ycombinator.com/item?id=44934529) - [The rise and fall of the Seagaia Ocean Dome wave pool](https://www.surfertoday.com/surfing/the-untold-story-of-the-seagaia-ocean-dome-indoor-wave-pool)
 * [2025-08-17, 20:04:00](https://news.ycombinator.com/item?id=44934476) - [You Should Add Debug Views to Your DB](https://chrispenner.ca/posts/views-for-debugging)
-* [2025-08-17, 17:31:33](https://news.ycombinator.com/item?id=44933290) - [SK hynix dethrones Samsung as world’s top DRAM maker](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
 * [2025-08-17, 16:57:50](https://news.ycombinator.com/item?id=44933019) - [Sixteen bottles of wine riddle](https://chriskw.xyz/2025/08/11/Wine/)
 * [2025-08-17, 15:42:32](https://news.ycombinator.com/item?id=44932401) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 * [2025-08-17, 13:18:21](https://news.ycombinator.com/item?id=44931371) - [Epson MX-80 Fonts](https://mw.rat.bz/MX-80/)
