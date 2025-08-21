@@ -11,6 +11,7 @@
 * [2025-08-20, 20:37:58](https://news.ycombinator.com/item?id=44966170) - [Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to Bluesky's AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-08-20, 18:47:03](https://news.ycombinator.com/item?id=44964916) - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
+* [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover](https://imperialcollegelondon.github.io/FLT/)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Lean proof of Fermat's Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
 * [2025-08-20, 18:12:52](https://news.ycombinator.com/item?id=44964548) - [Say farewell to the AI bubble, and get ready for the crash](https://www.latimes.com/business/story/2025-08-20/say-farewell-to-the-ai-bubble-and-get-ready-for-the-crash)
 * [2025-08-20, 17:56:27](https://news.ycombinator.com/item?id=44964366) - [Zed for Windows: What's Taking So Long?](https://zed.dev/blog/windows-progress-report)

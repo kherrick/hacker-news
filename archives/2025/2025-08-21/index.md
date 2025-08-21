@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 02:43:18](https://news.ycombinator.com/item?id=44968562) - [ICE Budget Now Bigger Than Most of the Militaries](https://www.newsweek.com/immigration-ice-bill-trump-2093456)
 * [2025-08-21, 01:28:56](https://news.ycombinator.com/item?id=44968190) - [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
+* [2025-08-21, 01:14:49](https://news.ycombinator.com/item?id=44968129) - [Creating 3D Worlds with HTML and CSS (2013)](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
 * [2025-08-21, 00:10:07](https://news.ycombinator.com/item?id=44967796) - [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
