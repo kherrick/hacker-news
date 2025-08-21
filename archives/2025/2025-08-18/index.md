@@ -55,6 +55,7 @@
 * [2025-08-18, 14:22:48](https://news.ycombinator.com/item?id=44940974) - [Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI](https://github.com/wieslawsoltes/HackerNewsWatch)
 * [2025-08-18, 14:20:33](https://news.ycombinator.com/item?id=44940944) - [AI is predominantly replacing outsourced, offshore workers](https://www.axios.com/2025/08/18/ai-jobs-layoffs)
 * [2025-08-18, 14:17:01](https://news.ycombinator.com/item?id=44940896) - [Basic dependency injection in OCaml with objects](https://gr-im.github.io/a/dependency-injection.html)
+* [2025-08-18, 13:56:44](https://news.ycombinator.com/item?id=44940649) - [Sütterlin](https://en.wikipedia.org/wiki/S%C3%BCtterlin)
 * [2025-08-18, 13:56:33](https://news.ycombinator.com/item?id=44940646) - [The Coming Robot Home Invasion](https://www.andykessler.com/andy_kessler/2025/08/wsj-home-robots.html)
 * [2025-08-18, 13:47:38](https://news.ycombinator.com/item?id=44940554) - [Class-action suit claims Otter AI records private work conversations](https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit)
 * [2025-08-18, 13:39:53](https://news.ycombinator.com/item?id=44940485) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)

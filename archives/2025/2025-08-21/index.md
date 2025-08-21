@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 12:00:31](https://news.ycombinator.com/item?id=44971670) - [Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering](https://careers.activeloop.ai/)
+* [2025-08-21, 11:52:29](https://news.ycombinator.com/item?id=44971607) - [1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]](https://www.youtube.com/watch?v=jHG_I-9a7FY)
+* [2025-08-21, 11:35:22](https://news.ycombinator.com/item?id=44971487) - [AI crawlers, fetchers are blowing up websites; Meta, OpenAI are worst offenders](https://www.theregister.com/2025/08/21/ai_crawler_traffic/)
+* [2025-08-21, 11:22:50](https://news.ycombinator.com/item?id=44971396) - [Margin Debt Surges 9.5% in June to Record High](https://www.advisorperspectives.com/dshort/updates/2025/07/23/margin-debt-surges-record-high-june-2025)
 * [2025-08-21, 11:04:08](https://news.ycombinator.com/item?id=44971273) - [Mark Zuckerberg freezes AI hiring amid bubble fears](https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/)
 * [2025-08-21, 11:03:37](https://news.ycombinator.com/item?id=44971270) - [AI Mode in Search gets new agentic features and expands globally](https://blog.google/products/search/ai-mode-agentic-personalized/)
 * [2025-08-21, 10:54:13](https://news.ycombinator.com/item?id=44971212) - [Using Podman, Compose and BuildKit](https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/)
