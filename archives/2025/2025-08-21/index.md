@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
 * [2025-08-21, 13:01:11](https://news.ycombinator.com/item?id=44972238) - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
+* [2025-08-21, 12:58:17](https://news.ycombinator.com/item?id=44972213) - [How Well Does the Money Laundering Control System Work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
 * [2025-08-21, 12:53:16](https://news.ycombinator.com/item?id=44972151) - [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
 * [2025-08-21, 12:31:46](https://news.ycombinator.com/item?id=44971954) - [Ride in Your Privately-Owned Train Cars to See North America](https://www.amtrak.com/privately-owned-rail-cars)
 * [2025-08-21, 12:20:53](https://news.ycombinator.com/item?id=44971845) - [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
@@ -17,6 +18,7 @@
 * [2025-08-21, 11:03:37](https://news.ycombinator.com/item?id=44971270) - [AI Mode in Search gets new agentic features and expands globally](https://blog.google/products/search/ai-mode-agentic-personalized/)
 * [2025-08-21, 10:54:13](https://news.ycombinator.com/item?id=44971212) - [Using Podman, Compose and BuildKit](https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/)
 * [2025-08-21, 10:16:39](https://news.ycombinator.com/item?id=44970998) - [The Open-Office Trap](https://www.newyorker.com/business/currency/the-open-office-trap)
+* [2025-08-21, 10:12:35](https://news.ycombinator.com/item?id=44970981) - [Why is D3 so Verbose?](https://theheasman.com/short_stories/why-is-d3-code-so-long-and-complicated-or-why-is-it-so-verbose/)
 * [2025-08-21, 09:30:52](https://news.ycombinator.com/item?id=44970751) - [To Infinity but Not Beyond](https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/)
 * [2025-08-21, 08:21:35](https://news.ycombinator.com/item?id=44970401) - [Dev Reveals Secrets Behind New \"3D\" Platformer for the ZX Spectrum](https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum)
 * [2025-08-21, 07:56:30](https://news.ycombinator.com/item?id=44970269) - [Australia Post halts transit shipping to US as 'chaotic' tariff deadline looms](https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456)
