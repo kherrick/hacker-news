@@ -39,6 +39,7 @@
 * [2025-08-18, 16:42:53](https://news.ycombinator.com/item?id=44942627) - [Miles from the ocean, there's diving beneath the streets of Budapest](https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave)
 * [2025-08-18, 16:40:48](https://news.ycombinator.com/item?id=44942602) - [My Retro TVs](https://www.myretrotvs.com/)
 * [2025-08-18, 16:40:44](https://news.ycombinator.com/item?id=44942600) - [AWS pricing for Kiro dev tool dubbed 'a wallet-wrecking tragedy'](https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/)
+* [2025-08-18, 16:36:10](https://news.ycombinator.com/item?id=44942547) - [Elegant mathematics bending the future of design](https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/)
 * [2025-08-18, 16:31:48](https://news.ycombinator.com/item?id=44942501) - [Anna's Archive: An Update from the Team](https://annas-archive.org/blog/an-update-from-the-team.html)
 * [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)
 * [2025-08-18, 15:54:09](https://news.ycombinator.com/item?id=44942008) - [Win10 users looking for a new OS? Apple $599 MacBook can't come at a better time](https://www.zdnet.com/article/windows-10-users-looking-for-a-new-os-apples-599-macbook-cant-come-at-a-better-time/)
