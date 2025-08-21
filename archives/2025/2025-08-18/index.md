@@ -68,6 +68,7 @@
 * [2025-08-18, 13:27:42](https://news.ycombinator.com/item?id=44940363) - [The biggest bet in tech](https://gmays.com/the-biggest-bet-in-tech/)
 * [2025-08-18, 13:16:07](https://news.ycombinator.com/item?id=44940245) - [The billionaire developer closing London's pubs](https://www.the-londoner.co.uk/exclusive-the-billionaire-developer-closing-londons-pubs/)
 * [2025-08-18, 12:57:28](https://news.ycombinator.com/item?id=44940089) - [AWS Vibe Coding Tips and Tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
+* [2025-08-18, 12:43:31](https://news.ycombinator.com/item?id=44939948) - [Beyond the Logo: How We're Weaving Full Images Inside QR Codes](https://blog.nitroqr.com/beyond-the-logo-how-were-weaving-full-images-inside-qr-codes)
 * [2025-08-18, 12:42:31](https://news.ycombinator.com/item?id=44939939) - [Why we still build with Ruby in 2025](https://www.getlago.com/blog/why-we-still-build-with-ruby-in-2025)
 * [2025-08-18, 12:37:06](https://news.ycombinator.com/item?id=44939902) - [Gaussian Processes for Machine Learning [pdf]](https://gaussianprocess.org/gpml/chapters/RW.pdf)
 * [2025-08-18, 12:34:43](https://news.ycombinator.com/item?id=44939874) - [Show HN: Strudel Flow, a pattern sequencer built with Strudel and React Flow](https://github.com/xyflow/strudel-flow)
