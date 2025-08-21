@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-08-21, 16:29:07",
-      "https://news.ycombinator.com/item?id=44974717"
-    ],
-    [
-      "AI SRE Needs More Than AI: It Needs Operational Context",
-      "https://rootly.com/blog/ai-sre-needs-more-than-ai-it-needs-operational-context"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 15:58:55",
       "https://news.ycombinator.com/item?id=44974365"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: OS X Mavericks Forever",
       "https://mavericksforever.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 15:21:52",
+      "https://news.ycombinator.com/item?id=44941629"
+    ],
+    [
+      "How to ingest 1B rows/s in ClickHouse",
+      "https://www.tinybird.co/blog-posts/1b-rows-per-second-clickhouse"
     ]
   ],
   [
