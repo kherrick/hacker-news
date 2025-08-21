@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 03:53:47](https://news.ycombinator.com/item?id=44968883) - [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
 * [2025-08-21, 03:24:40](https://news.ycombinator.com/item?id=44968754) - [Family Farm Wins Historic Case After Feds Violate Constitution and Ruin Business](https://www.agweb.com/news/business/family-farm-wins-historic-case-after-feds-violate-constitution-and-ruin-business)
 * [2025-08-21, 02:43:18](https://news.ycombinator.com/item?id=44968562) - [ICE Budget Now Bigger Than Most of the Militaries](https://www.newsweek.com/immigration-ice-bill-trump-2093456)
 * [2025-08-21, 01:28:56](https://news.ycombinator.com/item?id=44968190) - [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)

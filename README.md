@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 03:53:47](https://news.ycombinator.com/item?id=44968883) - [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
 * [2025-08-21, 01:28:56](https://news.ycombinator.com/item?id=44968190) - [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
 * [2025-08-21, 01:14:49](https://news.ycombinator.com/item?id=44968129) - [Creating 3D Worlds with HTML and CSS (2013)](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
 * [2025-08-21, 00:30:45](https://news.ycombinator.com/item?id=44967923) - [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
@@ -27,7 +28,6 @@
 * [2025-08-18, 13:38:04](https://news.ycombinator.com/item?id=44940451) - [Visualizing distributions with pepperoni pizza and JavaScript](https://ntietz.com/blog/visualizing-distributions-with-pepperoni-pizza/)
 * [2025-08-18, 01:32:44](https://news.ycombinator.com/item?id=44936535) - [French firm Gouach is pitching an Infinite Battery with replaceable cells](https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/)
 * [2025-08-17, 17:31:33](https://news.ycombinator.com/item?id=44933290) - [SK hynix dethrones Samsung as world’s top DRAM maker](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
-* [2025-08-17, 14:21:37](https://news.ycombinator.com/item?id=44931761) - [Parallel Reduce and Scan on the GPU](https://cachemiss.xyz/blog/parallel-reduce-and-scan-on-the-GPU)
 * [2025-08-17, 13:18:21](https://news.ycombinator.com/item?id=44931371) - [Epson MX-80 Fonts](https://mw.rat.bz/MX-80/)
 * [2025-08-17, 07:26:12](https://news.ycombinator.com/item?id=44929633) - [Still want to be a London cabbie?](https://www.economist.com/britain/2025/08/08/still-want-to-be-a-london-cabbie)
 
