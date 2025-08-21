@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-08-21, 17:13:56",
-      "https://news.ycombinator.com/item?id=44975378"
-    ],
-    [
-      "Physics Grifters: Eric Weinstein, Sabine Hossenfelder a Crisis of Credibility",
-      "https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 17:01:03",
       "https://news.ycombinator.com/item?id=44975180"
     ],
     [
-      "Cua (YC X25) Is Hiring Founding Design Engineers in SF",
+      "Cua (YC X25) is hiring design engineers in SF",
       "https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design"
     ]
   ],
@@ -37,6 +27,16 @@
     [
       "The Core of Rust",
       "https://jyn.dev/the-core-of-rust/"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 16:16:54",
+      "https://news.ycombinator.com/item?id=44974565"
+    ],
+    [
+      "I did 98,000 Anki reviews. Anki is already dead",
+      "https://miguelconner.substack.com/p/anki-is-already-dead"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-08-21, 08:54:06",
+      "https://news.ycombinator.com/item?id=44970563"
+    ],
+    [
+      "My other email client is a daemon",
+      "https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 06:20:11",
       "https://news.ycombinator.com/item?id=44969622"
     ],
@@ -287,16 +297,6 @@
     [
       "D4d4",
       "https://www.nmichaels.org/musings/d4d4/d4d4/"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 13:18:21",
-      "https://news.ycombinator.com/item?id=44931371"
-    ],
-    [
-      "Epson MX-80 Fonts",
-      "https://mw.rat.bz/MX-80/"
     ]
   ]
 ]
