@@ -51,6 +51,7 @@
 * [2025-08-18, 15:21:52](https://news.ycombinator.com/item?id=44941629) - [How to ingest 1B rows/s in ClickHouse](https://www.tinybird.co/blog-posts/1b-rows-per-second-clickhouse)
 * [2025-08-18, 15:19:05](https://news.ycombinator.com/item?id=44941605) - [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
 * [2025-08-18, 15:16:34](https://news.ycombinator.com/item?id=44941580) - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api)
+* [2025-08-18, 15:14:11](https://news.ycombinator.com/item?id=44941553) - [Show HN: Playing Piano with Prime Numbers](https://nabraj.com/demo/prime-piano/)
 * [2025-08-18, 14:59:26](https://news.ycombinator.com/item?id=44941369) - [Counter-Strike: A billion-dollar game built in a dorm room](https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html)
 * [2025-08-18, 14:36:03](https://news.ycombinator.com/item?id=44941118) - [95% of AI Pilots Failing](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
 * [2025-08-18, 14:29:56](https://news.ycombinator.com/item?id=44941049) - [How Does a Blind Model See the Earth?](https://www.lesswrong.com/posts/xwdRzJxyqFqgXTWbH/how-does-a-blind-model-see-the-earth)
