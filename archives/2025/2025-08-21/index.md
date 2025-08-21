@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 07:56:30](https://news.ycombinator.com/item?id=44970269) - [Australia Post halts transit shipping to US as 'chaotic' tariff deadline looms](https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456)
 * [2025-08-21, 06:20:11](https://news.ycombinator.com/item?id=44969622) - [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem)
 * [2025-08-21, 05:19:47](https://news.ycombinator.com/item?id=44969277) - ['Reading crisis' prompts Denmark to end 25% tax on books](https://www.rte.ie/news/world/2025/0820/1529397-denmark-book-tax/)
 * [2025-08-21, 05:08:08](https://news.ycombinator.com/item?id=44969221) - [Python f-string cheat sheet](https://fstring.help/cheat/)

@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 07:56:30](https://news.ycombinator.com/item?id=44970269) - [Australia Post halts transit shipping to US as 'chaotic' tariff deadline looms](https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456)
 * [2025-08-21, 06:20:11](https://news.ycombinator.com/item?id=44969622) - [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem)
 * [2025-08-21, 05:08:08](https://news.ycombinator.com/item?id=44969221) - [Python f-string cheat sheets (2022)](https://fstring.help/cheat/)
 * [2025-08-21, 05:06:05](https://news.ycombinator.com/item?id=44969211) - [Data, objects, and how we're railroaded into poor design (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 * [2025-08-21, 03:53:47](https://news.ycombinator.com/item?id=44968883) - [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
-* [2025-08-21, 00:30:45](https://news.ycombinator.com/item?id=44967923) - [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
 * [2025-08-21, 00:10:07](https://news.ycombinator.com/item?id=44967796) - [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
 * [2025-08-20, 23:15:55](https://news.ycombinator.com/item?id=44967505) - [SimpleIDE](https://github.com/jamesplotts/simpleide)
 * [2025-08-20, 23:10:37](https://news.ycombinator.com/item?id=44967469) - [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
@@ -13,7 +13,6 @@
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-08-20, 18:47:03](https://news.ycombinator.com/item?id=44964916) - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover](https://imperialcollegelondon.github.io/FLT/)
-* [2025-08-20, 17:24:10](https://news.ycombinator.com/item?id=44963939) - [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 * [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
 * [2025-08-20, 16:01:13](https://news.ycombinator.com/item?id=44963135) - [Show HN: Luminal – Open-source, search-based GPU compiler](https://github.com/luminal-ai/luminal)
 * [2025-08-20, 15:44:33](https://news.ycombinator.com/item?id=44962969) - [OPA maintainers and Styra employees hired by Apple](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
@@ -28,6 +27,7 @@
 * [2025-08-18, 08:27:57](https://news.ycombinator.com/item?id=44938499) - [The Illumos Cafe: Another Cozy Corner for OS Diversity](https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/)
 * [2025-08-18, 01:32:44](https://news.ycombinator.com/item?id=44936535) - [French firm Gouach is pitching an Infinite Battery with replaceable cells](https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/)
 * [2025-08-17, 17:31:33](https://news.ycombinator.com/item?id=44933290) - [SK hynix dethrones Samsung as world’s top DRAM maker](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
+* [2025-08-17, 15:42:32](https://news.ycombinator.com/item?id=44932401) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 * [2025-08-17, 13:18:21](https://news.ycombinator.com/item?id=44931371) - [Epson MX-80 Fonts](https://mw.rat.bz/MX-80/)
 * [2025-08-17, 13:05:31](https://news.ycombinator.com/item?id=44931305) - [Mirror Ball Emoji Proposal (2018) [pdf]](https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf)
 
