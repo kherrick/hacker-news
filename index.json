@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-21, 02:43:18",
+      "https://news.ycombinator.com/item?id=44968562"
+    ],
+    [
+      "ICE Budget Now Bigger Than Most of the Militaries",
+      "https://www.newsweek.com/immigration-ice-bill-trump-2093456"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 01:28:56",
       "https://news.ycombinator.com/item?id=44968190"
     ],
     [
       "How to stop feeling lost in tech: the wafflehouse method",
       "https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 01:14:49",
+      "https://news.ycombinator.com/item?id=44968129"
+    ],
+    [
+      "Creating 3D Worlds with HTML and CSS (2013)",
+      "https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/"
     ]
   ],
   [
@@ -95,8 +115,8 @@
       "https://news.ycombinator.com/item?id=44964693"
     ],
     [
-      "Lean proof of Fermat's Last Theorem [pdf]",
-      "https://imperialcollegelondon.github.io/FLT/blueprint.pdf"
+      "Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover",
+      "https://imperialcollegelondon.github.io/FLT/"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2025-08-20, 15:30:07",
-      "https://news.ycombinator.com/item?id=44962844"
-    ],
-    [
-      "AWS in 2025: Stuff you think you know that's now wrong",
-      "https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/"
-    ]
-  ],
-  [
-    [
       "2025-08-20, 14:54:45",
       "https://news.ycombinator.com/item?id=44962529"
     ],
     [
       "Why are anime catgirls blocking my access to the Linux kernel?",
       "https://lock.cmpxchg8b.com/anubis.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 14:35:18",
-      "https://news.ycombinator.com/item?id=44962361"
-    ],
-    [
-      "Learning about GPUs through measuring memory bandwidth",
-      "https://www.evolvebenchmark.com/blog-posts/learning-about-gpus-through-measuring-memory-bandwidth"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-08-17, 18:36:51",
-      "https://news.ycombinator.com/item?id=44933802"
-    ],
-    [
-      "Understanding Moravec's Paradox",
-      "https://hexhowells.com/posts/moravecs-paradox.html"
-    ]
-  ],
-  [
-    [
       "2025-08-17, 17:31:33",
       "https://news.ycombinator.com/item?id=44933290"
     ],
@@ -297,6 +287,16 @@
     [
       "Parallel Reduce and Scan on the GPU",
       "https://cachemiss.xyz/blog/parallel-reduce-and-scan-on-the-GPU"
+    ]
+  ],
+  [
+    [
+      "2025-08-17, 13:18:21",
+      "https://news.ycombinator.com/item?id=44931371"
+    ],
+    [
+      "Epson MX-80 Fonts",
+      "https://mw.rat.bz/MX-80/"
     ]
   ]
 ]
