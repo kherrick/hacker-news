@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 18:49:57](https://news.ycombinator.com/item?id=44976568) - [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
+* [2025-08-21, 18:42:10](https://news.ycombinator.com/item?id=44976468) - [Building AI Products in the Probabilistic Era](https://giansegato.com/essays/probabilistic-era)
+* [2025-08-21, 18:39:31](https://news.ycombinator.com/item?id=44976437) - [The Unbearable Slowness of AI Coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
 * [2025-08-21, 17:13:56](https://news.ycombinator.com/item?id=44975378) - [Physics Grifters: Eric Weinstein, Sabine Hossenfelder a Crisis of Credibility](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
 * [2025-08-21, 17:01:03](https://news.ycombinator.com/item?id=44975180) - [Cua (YC X25) Is Hiring Founding Design Engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
 * [2025-08-21, 16:59:30](https://news.ycombinator.com/item?id=44975164) - [Marines managed to get past an AI powered camera \"undetected\" by hiding in boxes](https://rudevulture.com/marines-managed-to-get-past-an-ai-powered-camera-undetected-thanks-to-hiding-in-boxes/)

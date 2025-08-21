@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 18:49:57](https://news.ycombinator.com/item?id=44976568) - [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
+* [2025-08-21, 18:42:10](https://news.ycombinator.com/item?id=44976468) - [Building AI Products in the Probabilistic Era](https://giansegato.com/essays/probabilistic-era)
+* [2025-08-21, 18:39:31](https://news.ycombinator.com/item?id=44976437) - [The Unbearable Slowness of AI Coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
 * [2025-08-21, 17:13:56](https://news.ycombinator.com/item?id=44975378) - [The contrarian physics podcast subculture](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
 * [2025-08-21, 17:01:03](https://news.ycombinator.com/item?id=44975180) - [Cua (YC X25) is hiring design engineers in SF](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design)
 * [2025-08-21, 16:27:22](https://news.ycombinator.com/item?id=44974688) - [The Core of Rust](https://jyn.dev/the-core-of-rust/)
@@ -13,10 +16,8 @@
 * [2025-08-21, 14:39:45](https://news.ycombinator.com/item?id=44973375) - [Beyond sensor data: Foundation models of behavioral data from wearables](https://arxiv.org/abs/2507.00191)
 * [2025-08-21, 14:31:18](https://news.ycombinator.com/item?id=44973269) - [Unity reintroduces the Runtime Fee through its Industry license](https://unity.com/products/unity-industry)
 * [2025-08-21, 13:01:11](https://news.ycombinator.com/item?id=44972238) - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
-* [2025-08-21, 12:53:16](https://news.ycombinator.com/item?id=44972151) - [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
 * [2025-08-21, 12:20:53](https://news.ycombinator.com/item?id=44971845) - [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
 * [2025-08-21, 12:08:30](https://news.ycombinator.com/item?id=44971744) - [Show HN: Using Common Lisp from Inside the Browser](https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html)
-* [2025-08-21, 11:35:22](https://news.ycombinator.com/item?id=44971487) - [AI crawlers, fetchers are blowing up websites; Meta, OpenAI are worst offenders](https://www.theregister.com/2025/08/21/ai_crawler_traffic/)
 * [2025-08-21, 11:22:50](https://news.ycombinator.com/item?id=44971396) - [Margin debt surges to record high](https://www.advisorperspectives.com/dshort/updates/2025/07/23/margin-debt-surges-record-high-june-2025)
 * [2025-08-21, 11:04:08](https://news.ycombinator.com/item?id=44971273) - [Mark Zuckerberg freezes AI hiring amid bubble fears](https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/)
 * [2025-08-21, 10:54:13](https://news.ycombinator.com/item?id=44971212) - [Using Podman, Compose and BuildKit](https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/)
@@ -27,7 +28,6 @@
 * [2025-08-18, 16:42:53](https://news.ycombinator.com/item?id=44942627) - [Miles from the ocean, there's diving beneath the streets of Budapest](https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave)
 * [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)
 * [2025-08-18, 15:19:05](https://news.ycombinator.com/item?id=44941605) - [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
-* [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification (2018)](https://eli.thegreenplace.net/2018/unification/)
 * [2025-08-17, 20:04:00](https://news.ycombinator.com/item?id=44934476) - [You Should Add Debug Views to Your DB](https://chrispenner.ca/posts/views-for-debugging)
 * [2025-08-17, 15:42:32](https://news.ycombinator.com/item?id=44932401) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 
