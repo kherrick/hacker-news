@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-08-21, 02:01:00",
-      "https://news.ycombinator.com/item?id=44968354"
-    ],
-    [
-      "I've never had a real adversary",
-      "https://inoticeiamconfused.substack.com/p/ive-never-had-a-real-adversary"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 01:28:56",
       "https://news.ycombinator.com/item?id=44968190"
     ],
@@ -257,6 +247,16 @@
     [
       "Tidewave Web: in-browser coding agent for Rails and Phoenix",
       "https://tidewave.ai/blog/tidewave-web-phoenix-rails"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 11:56:03",
+      "https://news.ycombinator.com/item?id=44939642"
+    ],
+    [
+      "Universal Tool Calling Protocol (UTCP)",
+      "https://github.com/universal-tool-calling-protocol/python-utcp"
     ]
   ],
   [
