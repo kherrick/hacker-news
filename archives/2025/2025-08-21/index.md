@@ -6,6 +6,7 @@
 
 * [2025-08-21, 22:04:39](https://news.ycombinator.com/item?id=44978655) - [CEO pay and stock buybacks have soared at the 100 largest low-wage corporations](https://ips-dc.org/report-executive-excess-2025/)
 * [2025-08-21, 21:17:28](https://news.ycombinator.com/item?id=44978214) - [Libre-Chip Awarded NLnet Grant to Prototype a CPU Isn't Vulnerable to Spectre](https://www.phoronix.com/news/Libre-Chip-NLnet-Grant)
+* [2025-08-21, 21:10:34](https://news.ycombinator.com/item?id=44978140) - [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
 * [2025-08-21, 21:04:39](https://news.ycombinator.com/item?id=44978073) - [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
 * [2025-08-21, 20:53:29](https://news.ycombinator.com/item?id=44977949) - [How Delphi achieved sub 100ms retrieval with Pinecone](https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/)
 * [2025-08-21, 20:26:44](https://news.ycombinator.com/item?id=44977645) - [Uv format: Code Formatting Comes to uv (experimentally)](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
