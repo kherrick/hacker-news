@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 19:27:24](https://news.ycombinator.com/item?id=44976972) - [Grug Design](https://www.grug.design/know)
 * [2025-08-21, 18:49:57](https://news.ycombinator.com/item?id=44976568) - [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
 * [2025-08-21, 18:42:10](https://news.ycombinator.com/item?id=44976468) - [Building AI Products in the Probabilistic Era](https://giansegato.com/essays/probabilistic-era)
 * [2025-08-21, 18:39:31](https://news.ycombinator.com/item?id=44976437) - [The Unbearable Slowness of AI Coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
@@ -10,7 +11,6 @@
 * [2025-08-21, 15:58:55](https://news.ycombinator.com/item?id=44974365) - [Bank forced to rehire workers after lying about chatbot productivity, union says](https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/)
 * [2025-08-21, 15:54:15](https://news.ycombinator.com/item?id=44974330) - [Adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
 * [2025-08-21, 15:47:42](https://news.ycombinator.com/item?id=44974251) - [A summary of recent AI research (2016)](https://blog.plan99.net/the-science-of-westworld-ec624585e47)
-* [2025-08-21, 15:46:16](https://news.ycombinator.com/item?id=44974230) - [Forced every engineer to take sales calls.They rewrote our platform in 2 weeks](https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/)
 * [2025-08-21, 15:36:51](https://news.ycombinator.com/item?id=44974109) - [Unmasking the Privacy Risks of Apple Intelligence](https://www.lumia.security/blog/applestorm)
 * [2025-08-21, 15:09:38](https://news.ycombinator.com/item?id=44973758) - [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758)
 * [2025-08-21, 14:39:45](https://news.ycombinator.com/item?id=44973375) - [Beyond sensor data: Foundation models of behavioral data from wearables](https://arxiv.org/abs/2507.00191)
@@ -27,7 +27,7 @@
 * [2025-08-18, 16:42:53](https://news.ycombinator.com/item?id=44942627) - [Miles from the ocean, there's diving beneath the streets of Budapest](https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave)
 * [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)
 * [2025-08-18, 15:19:05](https://news.ycombinator.com/item?id=44941605) - [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
-* [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification (2018)](https://eli.thegreenplace.net/2018/unification/)
+* [2025-08-18, 01:49:43](https://news.ycombinator.com/item?id=44936627) - [The power of two random choices](https://brooker.co.za/blog/2012/01/17/two-random.html)
 * [2025-08-17, 20:04:00](https://news.ycombinator.com/item?id=44934476) - [You Should Add Debug Views to Your DB](https://chrispenner.ca/posts/views-for-debugging)
 * [2025-08-17, 15:42:32](https://news.ycombinator.com/item?id=44932401) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 

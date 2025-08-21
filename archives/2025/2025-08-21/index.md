@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 19:27:24](https://news.ycombinator.com/item?id=44976972) - [Grug Design](https://www.grug.design/know)
 * [2025-08-21, 18:49:57](https://news.ycombinator.com/item?id=44976568) - [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
 * [2025-08-21, 18:42:10](https://news.ycombinator.com/item?id=44976468) - [Building AI Products in the Probabilistic Era](https://giansegato.com/essays/probabilistic-era)
 * [2025-08-21, 18:39:31](https://news.ycombinator.com/item?id=44976437) - [The Unbearable Slowness of AI Coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
