@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-21, 16:29:07](https://news.ycombinator.com/item?id=44974717) - [AI SRE Needs More Than AI: It Needs Operational Context](https://rootly.com/blog/ai-sre-needs-more-than-ai-it-needs-operational-context)
 * [2025-08-21, 15:58:55](https://news.ycombinator.com/item?id=44974365) - [Bank forced to rehire workers after lying about chatbot productivity, union says](https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/)
 * [2025-08-21, 15:54:15](https://news.ycombinator.com/item?id=44974330) - [Adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
 * [2025-08-21, 15:47:42](https://news.ycombinator.com/item?id=44974251) - [A summary of recent AI research (2016)](https://blog.plan99.net/the-science-of-westworld-ec624585e47)
@@ -9,6 +10,7 @@
 * [2025-08-21, 15:09:38](https://news.ycombinator.com/item?id=44973758) - [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758)
 * [2025-08-21, 14:39:45](https://news.ycombinator.com/item?id=44973375) - [Apple Watch wearable foundation model](https://arxiv.org/abs/2507.00191)
 * [2025-08-21, 14:31:18](https://news.ycombinator.com/item?id=44973269) - [Unity reintroduces the Runtime Fee through its Industry license](https://unity.com/products/unity-industry)
+* [2025-08-21, 13:18:12](https://news.ycombinator.com/item?id=44972406) - [A Conceptual Model for Storage Unification](https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification)
 * [2025-08-21, 13:01:11](https://news.ycombinator.com/item?id=44972238) - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
 * [2025-08-21, 12:58:17](https://news.ycombinator.com/item?id=44972213) - [How Well Does the Money Laundering Control System Work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
 * [2025-08-21, 12:53:16](https://news.ycombinator.com/item?id=44972151) - [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
@@ -27,9 +29,7 @@
 * [2025-08-18, 13:56:44](https://news.ycombinator.com/item?id=44940649) - [Sütterlin](https://en.wikipedia.org/wiki/S%C3%BCtterlin)
 * [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification (2018)](https://eli.thegreenplace.net/2018/unification/)
 * [2025-08-17, 20:04:00](https://news.ycombinator.com/item?id=44934476) - [You Should Add Debug Views to Your DB](https://chrispenner.ca/posts/views-for-debugging)
-* [2025-08-17, 16:57:50](https://news.ycombinator.com/item?id=44933019) - [Sixteen bottles of wine riddle](https://chriskw.xyz/2025/08/11/Wine/)
 * [2025-08-17, 15:42:32](https://news.ycombinator.com/item?id=44932401) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
-* [2025-08-17, 13:18:21](https://news.ycombinator.com/item?id=44931371) - [Epson MX-80 Fonts](https://mw.rat.bz/MX-80/)
 
 ## [Archives](archives/index.md)
 
