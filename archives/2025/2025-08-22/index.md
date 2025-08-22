@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
 * [2025-08-22, 07:18:48](https://news.ycombinator.com/item?id=44981802) - [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
+* [2025-08-22, 06:30:19](https://news.ycombinator.com/item?id=44981572) - [Nano Banana](https://nanobanana.ai/)
 * [2025-08-22, 06:18:56](https://news.ycombinator.com/item?id=44981525) - [It's Not Wrong that \" \".length == 7](https://hsivonen.fi/string-length/)
 * [2025-08-22, 05:46:44](https://news.ycombinator.com/item?id=44981383) - [Is moderate drinking healthy? Scientists say the idea is outdated](https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research)
 * [2025-08-22, 03:51:44](https://news.ycombinator.com/item?id=44980865) - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
