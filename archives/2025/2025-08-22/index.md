@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 14:43:31](https://news.ycombinator.com/item?id=44985278) - [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
 * [2025-08-22, 14:29:40](https://news.ycombinator.com/item?id=44985131) - [Thunderbird Pro August 2025 Update](https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/)
 * [2025-08-22, 14:20:27](https://news.ycombinator.com/item?id=44985028) - [US to review all 55M visas to check if holders broke rules](https://www.bbc.com/news/articles/cvg04gm92d3o)
 * [2025-08-22, 13:14:06](https://news.ycombinator.com/item?id=44984270) - [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
