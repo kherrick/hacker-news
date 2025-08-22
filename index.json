@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-08-22, 00:59:04",
+      "https://news.ycombinator.com/item?id=44980004"
+    ],
+    [
+      "Control shopping cart wheels with your phone (2021)",
+      "https://www.begaydocrime.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-22, 00:34:33",
+      "https://news.ycombinator.com/item?id=44979855"
+    ],
+    [
+      "Google scores six-year Meta cloud deal worth over $10B",
+      "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 22:52:14",
       "https://news.ycombinator.com/item?id=44979107"
     ],
     [
-      "From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]",
+      "From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]",
       "https://www.fertrevino.com/docs/gpt5_medhelm.pdf"
     ]
   ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2025-08-21, 19:22:53",
-      "https://news.ycombinator.com/item?id=44976932"
-    ],
-    [
-      "Show HN: Changefly ID + Anonymized Identity and Age Verification",
-      "https://www.changefly.com/blog/2025/08/anonymized-identity-and-age-verification-a-new-era-of-privacy-for-changefly-id"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 19:06:09",
       "https://news.ycombinator.com/item?id=44976764"
     ],
@@ -107,46 +117,6 @@
     [
       "Building AI products in the probabilistic era",
       "https://giansegato.com/essays/probabilistic-era"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 17:13:56",
-      "https://news.ycombinator.com/item?id=44975378"
-    ],
-    [
-      "The contrarian physics podcast subculture",
-      "https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 16:27:22",
-      "https://news.ycombinator.com/item?id=44974688"
-    ],
-    [
-      "The Core of Rust",
-      "https://jyn.dev/the-core-of-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 15:46:16",
-      "https://news.ycombinator.com/item?id=44974230"
-    ],
-    [
-      "I forced every engineer to take sales calls and they rewrote our platform",
-      "https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 15:09:38",
-      "https://news.ycombinator.com/item?id=44973758"
-    ],
-    [
-      "Launch HN: Skope (YC S25) – Outcome-based pricing for software products",
-      "https://news.ycombinator.com/item?id=44973758"
     ]
   ],
   [
@@ -181,12 +151,32 @@
   ],
   [
     [
+      "2025-08-21, 12:21:38",
+      "https://news.ycombinator.com/item?id=44971850"
+    ],
+    [
+      "How does the US use water?",
+      "https://www.construction-physics.com/p/how-does-the-us-use-water"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 12:20:53",
       "https://news.ycombinator.com/item?id=44971845"
     ],
     [
       "Weaponizing image scaling against production AI systems",
       "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 11:52:29",
+      "https://news.ycombinator.com/item?id=44971607"
+    ],
+    [
+      "1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]",
+      "https://www.youtube.com/watch?v=jHG_I-9a7FY"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-08-18, 15:13:39",
+      "https://news.ycombinator.com/item?id=44941546"
+    ],
+    [
+      "Benchmarks for Golang SQLite Drivers",
+      "https://github.com/cvilsmeier/go-sqlite-bench"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 12:43:31",
       "https://news.ycombinator.com/item?id=44939948"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44937530"
     ],
     [
-      "Happy 0b100000th Birthday, Debian",
+      "Happy 100000th birthday, Debian",
       "https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html"
     ]
   ],
