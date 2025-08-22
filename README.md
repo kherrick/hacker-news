@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-22, 13:14:06](https://news.ycombinator.com/item?id=44984270) - [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
+* [2025-08-22, 12:59:07](https://news.ycombinator.com/item?id=44984096) - [Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
 * [2025-08-22, 12:50:39](https://news.ycombinator.com/item?id=44983986) - [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
 * [2025-08-22, 12:14:35](https://news.ycombinator.com/item?id=44983570) - [Being confidently wrong is holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
 * [2025-08-22, 11:49:08](https://news.ycombinator.com/item?id=44983364) - [What about using rel=\"share-url\" to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
@@ -10,7 +10,7 @@
 * [2025-08-22, 02:05:53](https://news.ycombinator.com/item?id=44980339) - [Everything Is Correlated](https://gwern.net/everything)
 * [2025-08-22, 00:59:04](https://news.ycombinator.com/item?id=44980004) - [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
 * [2025-08-21, 22:52:14](https://news.ycombinator.com/item?id=44979107) - [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
-* [2025-08-21, 22:22:56](https://news.ycombinator.com/item?id=44978815) - [Scientists No Longer Find X Professionally Useful, and Have Switched to Bluesky](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icaf127/8196180?redirectedFrom=fulltext&login=false)
+* [2025-08-21, 21:04:39](https://news.ycombinator.com/item?id=44978073) - [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
 * [2025-08-21, 20:26:44](https://news.ycombinator.com/item?id=44977645) - [Code formatting comes to uv experimentally](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
 * [2025-08-21, 19:47:02](https://news.ycombinator.com/item?id=44977189) - [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
 * [2025-08-21, 19:06:09](https://news.ycombinator.com/item?id=44976764) - [DeepSeek-v3.1](https://api-docs.deepseek.com/news/news250821)
