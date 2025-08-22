@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-22, 13:14:06",
-      "https://news.ycombinator.com/item?id=44984270"
-    ],
-    [
-      "My development team costs $41.73 a month",
-      "https://philipotoole.com/my-development-team-costs-41-73-a-month/"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 12:59:07",
       "https://news.ycombinator.com/item?id=44984096"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44983986"
     ],
     [
-      "The Management Skill Nobody Talks About",
+      "All managers make mistakes; good managers acknowledge and repair",
       "https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44983570"
     ],
     [
-      "Being confidently wrong is holding AI back",
+      "Being “Confidently Wrong” is holding AI back",
       "https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back"
     ]
   ],
@@ -47,6 +37,16 @@
     [
       "What about using rel=\"share-url\" to expose sharing intents?",
       "https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/"
+    ]
+  ],
+  [
+    [
+      "2025-08-22, 09:25:23",
+      "https://news.ycombinator.com/item?id=44982491"
+    ],
+    [
+      "Go is still not good",
+      "https://blog.habets.se/2025/07/Go-is-still-not-good.html"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44981747"
     ],
     [
-      "What the Hell Is Going On?",
+      "What is going on right now?",
       "https://catskull.net/what-the-hell-is-going-on-right-now.html"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44980339"
     ],
     [
-      "Everything Is Correlated",
+      "Everything Is Correlated (2014–23)",
       "https://gwern.net/everything"
     ]
   ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-08-21, 12:31:46",
-      "https://news.ycombinator.com/item?id=44971954"
-    ],
-    [
-      "Privately-Owned Rail Cars",
-      "https://www.amtrak.com/privately-owned-rail-cars"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 12:21:38",
       "https://news.ycombinator.com/item?id=44971850"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-08-18, 16:49:59",
+      "https://news.ycombinator.com/item?id=44942709"
+    ],
+    [
+      "How Not to Buy a SSD",
+      "https://andrei.xyz/post/how-not-to-buy-a-ssd/"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 16:36:10",
       "https://news.ycombinator.com/item?id=44942547"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-18, 15:13:39",
-      "https://news.ycombinator.com/item?id=44941546"
+      "2025-08-18, 14:30:28",
+      "https://news.ycombinator.com/item?id=44941056"
     ],
     [
-      "Benchmarks for Golang SQLite Drivers",
-      "https://github.com/cvilsmeier/go-sqlite-bench"
+      "VHS-C: when a lazy idea stumbles towards perfection [video]",
+      "https://www.youtube.com/watch?v=HFYWHeBhYbM"
     ]
   ]
 ]
