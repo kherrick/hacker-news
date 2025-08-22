@@ -35,8 +35,18 @@
       "https://news.ycombinator.com/item?id=44978869"
     ],
     [
-      "The Onion Brought Back Its Print Edition. The Gamble Is Paying Off",
+      "The Onion brought back its print edition and the gamble is paying off",
       "https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 21:25:25",
+      "https://news.ycombinator.com/item?id=44978286"
+    ],
+    [
+      "Mirage 2 – Generative World Engine",
+      "https://demo.dynamicslab.ai/chaos"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=44941899"
     ],
     [
-      "My AI Had Fixed the Code Before I Saw It",
+      "My AI had fixed the code before I saw it",
       "https://every.to/source-code/my-ai-had-already-fixed-the-code-before-i-saw-it"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Benchmarks for Golang SQLite Drivers",
       "https://github.com/cvilsmeier/go-sqlite-bench"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 13:54:29",
-      "https://news.ycombinator.com/item?id=44940619"
-    ],
-    [
-      "The attr() function in CSS now supports types",
-      "https://www.amitmerchant.com/attr-function-types-css/"
     ]
   ],
   [
