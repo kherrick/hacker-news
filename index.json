@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-08-22, 20:00:10",
+      "https://news.ycombinator.com/item?id=44989125"
+    ],
+    [
+      "Our Response to Mississippi's Age Assurance Law",
+      "https://bsky.social/about/blog/08-22-2025-mississippi-hb1126"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 19:06:29",
       "https://news.ycombinator.com/item?id=44988530"
     ],
@@ -227,16 +237,6 @@
     [
       "Top Secret: Automatically filter sensitive information",
       "https://thoughtbot.com/blog/top-secret"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 03:51:44",
-      "https://news.ycombinator.com/item?id=44980865"
-    ],
-    [
-      "Io_uring, kTLS and Rust for zero syscall HTTPS server",
-      "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html"
     ]
   ],
   [
