@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-22, 10:14:59](https://news.ycombinator.com/item?id=44982748) - [Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?](https://github.com/henrygabriels/FMLLM/blob/main/README.md)
+* [2025-08-22, 09:25:23](https://news.ycombinator.com/item?id=44982491) - [Go is still not good](https://blog.habets.se/2025/07/Go-is-still-not-good.html)
 * [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 07:18:48](https://news.ycombinator.com/item?id=44981802) - [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
 * [2025-08-22, 03:51:44](https://news.ycombinator.com/item?id=44980865) - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
