@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-08-22, 18:24:16",
+      "https://news.ycombinator.com/item?id=44987924"
+    ],
+    [
+      "The First Media over QUIC CDN: Cloudflare",
+      "https://moq.dev/blog/first-cdn/"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 17:56:12",
       "https://news.ycombinator.com/item?id=44987552"
     ],
@@ -167,16 +177,6 @@
     [
       "Build Log: Macintosh Classic",
       "https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 13:59:02",
-      "https://news.ycombinator.com/item?id=44984785"
-    ],
-    [
-      "Media over QUIC (MoQ): Refactoring the Internet's real-time media stack",
-      "https://blog.cloudflare.com/moq/"
     ]
   ],
   [
