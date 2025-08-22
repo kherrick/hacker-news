@@ -17,6 +17,7 @@
 * [2025-08-21, 20:07:51](https://news.ycombinator.com/item?id=44977417) - [Administration will review all 55M visa holders for deportable violations](https://apnews.com/article/trump-visas-deportations-068ad6cd5724e7248577f17592327ca4)
 * [2025-08-21, 19:47:02](https://news.ycombinator.com/item?id=44977189) - [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
 * [2025-08-21, 19:27:24](https://news.ycombinator.com/item?id=44976972) - [Grug Design](https://www.grug.design/know)
+* [2025-08-21, 19:22:53](https://news.ycombinator.com/item?id=44976932) - [Show HN: Changefly ID + Anonymized Identity and Age Verification](https://www.changefly.com/blog/2025/08/anonymized-identity-and-age-verification-a-new-era-of-privacy-for-changefly-id)
 * [2025-08-21, 19:22:26](https://news.ycombinator.com/item?id=44976929) - [A Decoder Ring for AI Job Titles](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html)
 * [2025-08-21, 19:10:39](https://news.ycombinator.com/item?id=44976815) - [In the long run, LLMs make us dumber](https://desunit.com/blog/in-the-long-run-llms-make-us-dumber/)
 * [2025-08-21, 19:06:09](https://news.ycombinator.com/item?id=44976764) - [DeepSeek-v3.1 Release](https://api-docs.deepseek.com/news/news250821)

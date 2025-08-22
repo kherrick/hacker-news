@@ -109,6 +109,7 @@
 * [2025-08-18, 06:18:58](https://news.ycombinator.com/item?id=44937893) - [Staff disquiet as Alan Turing Institute faces identity crisis](https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis)
 * [2025-08-18, 06:01:44](https://news.ycombinator.com/item?id=44937819) - [The Block Stacking Problem](https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html)
 * [2025-08-18, 04:57:47](https://news.ycombinator.com/item?id=44937550) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
+* [2025-08-18, 04:53:20](https://news.ycombinator.com/item?id=44937530) - [Happy 0b100000th Birthday, Debian](https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html)
 * [2025-08-18, 04:13:56](https://news.ycombinator.com/item?id=44937346) - [IMDB Terminal Browser](https://github.com/isene/IMDB)
 * [2025-08-18, 02:54:55](https://news.ycombinator.com/item?id=44936945) - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
 * [2025-08-18, 02:52:29](https://news.ycombinator.com/item?id=44936932) - [Show HN: ASCII Tree Editor](https://asciitree.reorx.com/)
