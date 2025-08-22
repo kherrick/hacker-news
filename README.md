@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-22, 18:20:47](https://news.ycombinator.com/item?id=44987871) - [US probes delays in Tesla crash reports involving driver-assistance systems](https://www.reuters.com/legal/litigation/us-probes/delays-tesla-crash-reports-involving-driver-assistance-systems-2025-08-21/)
 * [2025-08-22, 18:07:10](https://news.ycombinator.com/item?id=44987692) - [Essential Reading for Agentic Engineers – August 2025](https://steipete.me/posts/2025/essential-reading-august-2025)
 * [2025-08-22, 17:55:32](https://news.ycombinator.com/item?id=44987539) - [The US Department of Agriculture Bans Support for Renewables](https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/)
 * [2025-08-22, 17:45:27](https://news.ycombinator.com/item?id=44987422) - [Sprinkling Self-Doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
@@ -15,7 +16,6 @@
 * [2025-08-22, 14:37:11](https://news.ycombinator.com/item?id=44985207) - [A Guide to Gen AI / LLM Vibecoding for Expert Programmers](https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/)
 * [2025-08-22, 14:14:26](https://news.ycombinator.com/item?id=44984958) - [Build Log: Macintosh Classic](https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic)
 * [2025-08-22, 12:59:07](https://news.ycombinator.com/item?id=44984096) - [Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
-* [2025-08-22, 12:50:39](https://news.ycombinator.com/item?id=44983986) - [All managers make mistakes; good managers acknowledge and repair](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
 * [2025-08-22, 11:49:08](https://news.ycombinator.com/item?id=44983364) - [What about using rel=\"share-url\" to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
 * [2025-08-22, 10:02:21](https://news.ycombinator.com/item?id=44982681) - [4chan will refuse to pay daily online safety fines, lawyer tells BBC](https://www.bbc.co.uk/news/articles/cq68j5g2nr1o)
 * [2025-08-22, 09:25:23](https://news.ycombinator.com/item?id=44982491) - [Go is still not good](https://blog.habets.se/2025/07/Go-is-still-not-good.html)
