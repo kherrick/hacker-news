@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-22, 10:14:59](https://news.ycombinator.com/item?id=44982748) - [Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?](https://github.com/henrygabriels/FMLLM/blob/main/README.md)
 * [2025-08-22, 08:55:52](https://news.ycombinator.com/item?id=44982304) - [Zuckerberg Squandered His AI Talent. Now He's Spending Billions to Replace It](https://www.forbes.com/sites/rashishrivastava/2025/08/13/zuckerberg-squandered-his-ai-talent-now-hes-spending-billions-to-replace-it/)
 * [2025-08-22, 07:18:48](https://news.ycombinator.com/item?id=44981802) - [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
 * [2025-08-22, 03:51:44](https://news.ycombinator.com/item?id=44980865) - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
@@ -7,7 +8,6 @@
 * [2025-08-22, 00:59:04](https://news.ycombinator.com/item?id=44980004) - [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
 * [2025-08-21, 22:52:14](https://news.ycombinator.com/item?id=44979107) - [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
 * [2025-08-21, 22:22:56](https://news.ycombinator.com/item?id=44978815) - [Scientists No Longer Find X Professionally Useful, and Have Switched to Bluesky](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icaf127/8196180?redirectedFrom=fulltext&login=false)
-* [2025-08-21, 21:10:34](https://news.ycombinator.com/item?id=44978140) - [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
 * [2025-08-21, 21:04:39](https://news.ycombinator.com/item?id=44978073) - [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
 * [2025-08-21, 20:26:44](https://news.ycombinator.com/item?id=44977645) - [Code formatting comes to uv experimentally](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
 * [2025-08-21, 19:47:02](https://news.ycombinator.com/item?id=44977189) - [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
