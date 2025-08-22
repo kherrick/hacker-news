@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-22, 17:41:48](https://news.ycombinator.com/item?id=44987380) - [Away from Gmail, Leaving Gmail for Mailbox.org](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
+* [2025-08-22, 17:38:57](https://news.ycombinator.com/item?id=44987346) - [XSLT removal will break multiple government and regulatory sites](https://github.com/whatwg/html/issues/11582)
 * [2025-08-22, 17:02:48](https://news.ycombinator.com/item?id=44986949) - [Waymo granted permit to begin testing in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
 * [2025-08-22, 16:53:30](https://news.ycombinator.com/item?id=44986809) - [Launch HN: BlankBio (YC S25) - Making RNA Programmable](https://news.ycombinator.com/item?id=44986809)
 * [2025-08-22, 16:03:26](https://news.ycombinator.com/item?id=44986205) - [Show HN: Clyp – Clipboard Manager for Linux](https://github.com/murat-cileli/clyp)
@@ -22,9 +24,7 @@
 * [2025-08-22, 00:59:04](https://news.ycombinator.com/item?id=44980004) - [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
 * [2025-08-21, 22:52:14](https://news.ycombinator.com/item?id=44979107) - [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
 * [2025-08-21, 20:26:44](https://news.ycombinator.com/item?id=44977645) - [Code formatting comes to uv experimentally](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
-* [2025-08-21, 19:47:02](https://news.ycombinator.com/item?id=44977189) - [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
 * [2025-08-21, 19:06:09](https://news.ycombinator.com/item?id=44976764) - [DeepSeek-v3.1](https://api-docs.deepseek.com/news/news250821)
-* [2025-08-21, 12:21:38](https://news.ycombinator.com/item?id=44971850) - [How does the US use water?](https://www.construction-physics.com/p/how-does-the-us-use-water)
 * [2025-08-21, 12:20:53](https://news.ycombinator.com/item?id=44971845) - [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
 * [2025-08-20, 12:10:58](https://news.ycombinator.com/item?id=44961153) - [Show HN: Pinch – macOS voice translation for real-time conversations](https://www.startpinch.com/)
 * [2025-08-18, 16:49:59](https://news.ycombinator.com/item?id=44942709) - [How Not to Buy a SSD](https://andrei.xyz/post/how-not-to-buy-a-ssd/)

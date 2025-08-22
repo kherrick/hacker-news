@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 17:41:48](https://news.ycombinator.com/item?id=44987380) - [Away from Gmail, Leaving Gmail for Mailbox.org](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
+* [2025-08-22, 17:38:57](https://news.ycombinator.com/item?id=44987346) - [XSLT removal will break multiple government and regulatory sites](https://github.com/whatwg/html/issues/11582)
 * [2025-08-22, 17:12:53](https://news.ycombinator.com/item?id=44987057) - [Artificial light has essentially lengthened birds' day](https://www.npr.org/2025/08/21/nx-s1-5507165/light-pollution-bird-day-hour-longer)
 * [2025-08-22, 17:02:48](https://news.ycombinator.com/item?id=44986949) - [Waymo granted first permit to begin testing autonomous vehicles in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
 * [2025-08-22, 16:53:30](https://news.ycombinator.com/item?id=44986809) - [Launch HN: BlankBio (YC S25) - Making RNA Programmable](https://news.ycombinator.com/item?id=44986809)
