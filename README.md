@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-22, 20:23:35](https://news.ycombinator.com/item?id=44989373) - [Ejabberd 25.08 / ProcessOne – Erlang Jabber/XMPP/Matrix Server – Communication](https://www.process-one.net/blog/ejabberd-25-08/)
 * [2025-08-22, 19:06:29](https://news.ycombinator.com/item?id=44988530) - [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
 * [2025-08-22, 19:04:10](https://news.ycombinator.com/item?id=44988496) - [Harper Evolves](https://elijahpotter.dev/articles/harper_evolves)
 * [2025-08-22, 18:56:27](https://news.ycombinator.com/item?id=44988393) - [Scientists just found a protein that reverses brain aging](https://www.sciencedaily.com/releases/2025/08/250820000808.htm)
@@ -19,7 +20,6 @@
 * [2025-08-22, 13:59:02](https://news.ycombinator.com/item?id=44984785) - [Media over QUIC (MoQ): Refactoring the Internet's real-time media stack](https://blog.cloudflare.com/moq/)
 * [2025-08-22, 12:59:07](https://news.ycombinator.com/item?id=44984096) - [Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
 * [2025-08-22, 11:49:08](https://news.ycombinator.com/item?id=44983364) - [What about using rel=\"share-url\" to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
-* [2025-08-22, 10:02:21](https://news.ycombinator.com/item?id=44982681) - [4chan will refuse to pay daily online safety fines, lawyer tells BBC](https://www.bbc.co.uk/news/articles/cq68j5g2nr1o)
 * [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 07:18:48](https://news.ycombinator.com/item?id=44981802) - [The Minecraft Code (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
 * [2025-08-22, 06:18:56](https://news.ycombinator.com/item?id=44981525) - [It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019)](https://hsivonen.fi/string-length/)
