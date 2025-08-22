@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 17:02:48](https://news.ycombinator.com/item?id=44986949) - [Waymo granted first permit to begin testing autonomous vehicles in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
 * [2025-08-22, 16:34:23](https://news.ycombinator.com/item?id=44986576) - [The warning signs the AI bubble is about to burst](https://www.telegraph.co.uk/business/2025/08/20/ai-report-triggering-panic-and-fear-on-wall-street/)
 * [2025-08-22, 16:03:26](https://news.ycombinator.com/item?id=44986205) - [Show HN: Clyp – Clipboard Manager for Linux](https://github.com/murat-cileli/clyp)
 * [2025-08-22, 15:52:56](https://news.ycombinator.com/item?id=44986087) - [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
 * [2025-08-22, 15:46:58](https://news.ycombinator.com/item?id=44986013) - [Vibe Debugging: Enterprises' Up and Coming Nightmare](https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and)
 * [2025-08-22, 15:22:42](https://news.ycombinator.com/item?id=44985730) - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
+* [2025-08-22, 14:47:05](https://news.ycombinator.com/item?id=44985323) - [Does MHz Still Matter?](https://www.ubicloud.com/blog/does-mhz-still-matter)
 * [2025-08-22, 14:43:31](https://news.ycombinator.com/item?id=44985278) - [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
 * [2025-08-22, 14:37:11](https://news.ycombinator.com/item?id=44985207) - [A Guide to Gen AI / LLM Vibecoding for Expert Programmers](https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/)
 * [2025-08-22, 14:29:40](https://news.ycombinator.com/item?id=44985131) - [Thunderbird Pro August 2025 Update](https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/)
