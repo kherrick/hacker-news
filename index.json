@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-08-21, 21:25:25",
-      "https://news.ycombinator.com/item?id=44978286"
-    ],
-    [
-      "Mirage 2 – Generative World Engine",
-      "https://demo.dynamicslab.ai/chaos"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 21:10:34",
       "https://news.ycombinator.com/item?id=44978140"
     ],
@@ -91,11 +81,21 @@
   ],
   [
     [
+      "2025-08-21, 19:22:26",
+      "https://news.ycombinator.com/item?id=44976929"
+    ],
+    [
+      "The AI Job Title Decoder Ring",
+      "https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 19:06:09",
       "https://news.ycombinator.com/item?id=44976764"
     ],
     [
-      "DeepSeek-v3.1 Release",
+      "DeepSeek-v3.1",
       "https://api-docs.deepseek.com/news/news250821"
     ]
   ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-08-18, 16:49:59",
+      "https://news.ycombinator.com/item?id=44942709"
+    ],
+    [
+      "How Not to Buy a SSD",
+      "https://andrei.xyz/post/how-not-to-buy-a-ssd/"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 16:42:53",
       "https://news.ycombinator.com/item?id=44942627"
     ],
@@ -287,16 +297,6 @@
     [
       "Philosophical Thoughts on Kolmogorov-Arnold Networks (2024)",
       "https://kindxiaoming.github.io/blog/2024/kolmogorov-arnold-networks/"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 04:53:20",
-      "https://news.ycombinator.com/item?id=44937530"
-    ],
-    [
-      "Happy 100000th birthday, Debian",
-      "https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html"
     ]
   ]
 ]
