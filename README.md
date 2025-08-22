@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-22, 21:01:52](https://news.ycombinator.com/item?id=44989773) - [US takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
 * [2025-08-22, 20:56:16](https://news.ycombinator.com/item?id=44989706) - [From $479 to $2,800 a month for ACA health insurance next year](https://www.npr.org/sections/shots-health-news/2025/08/22/nx-s1-5511182/aca-tax-credits-health-insurance-open-enrollment)
 * [2025-08-22, 20:23:35](https://news.ycombinator.com/item?id=44989373) - [Ejabberd 25.08 / ProcessOne – Erlang Jabber/XMPP/Matrix Server – Communication](https://www.process-one.net/blog/ejabberd-25-08/)
 * [2025-08-22, 19:06:29](https://news.ycombinator.com/item?id=44988530) - [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
@@ -17,7 +18,6 @@
 * [2025-08-22, 15:22:42](https://news.ycombinator.com/item?id=44985730) - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
 * [2025-08-22, 14:47:05](https://news.ycombinator.com/item?id=44985323) - [Does MHz Still Matter?](https://www.ubicloud.com/blog/does-mhz-still-matter)
 * [2025-08-22, 14:43:31](https://news.ycombinator.com/item?id=44985278) - [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
-* [2025-08-22, 14:37:11](https://news.ycombinator.com/item?id=44985207) - [A guide to Gen AI / LLM vibecoding for expert programmers](https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/)
 * [2025-08-22, 14:14:26](https://news.ycombinator.com/item?id=44984958) - [Build Log: Macintosh Classic](https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic)
 * [2025-08-22, 12:59:07](https://news.ycombinator.com/item?id=44984096) - [Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
 * [2025-08-22, 11:49:08](https://news.ycombinator.com/item?id=44983364) - [What about using rel=\"share-url\" to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
