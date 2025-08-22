@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-22, 13:14:06](https://news.ycombinator.com/item?id=44984270) - [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
 * [2025-08-22, 12:59:07](https://news.ycombinator.com/item?id=44984096) - [Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
 * [2025-08-22, 12:50:39](https://news.ycombinator.com/item?id=44983986) - [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
 * [2025-08-22, 12:14:35](https://news.ycombinator.com/item?id=44983570) - [Being confidently wrong is holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
@@ -25,7 +26,6 @@
 * [2025-08-21, 11:52:29](https://news.ycombinator.com/item?id=44971607) - [1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]](https://www.youtube.com/watch?v=jHG_I-9a7FY)
 * [2025-08-21, 10:54:13](https://news.ycombinator.com/item?id=44971212) - [Using Podman, Compose and BuildKit](https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/)
 * [2025-08-21, 08:54:06](https://news.ycombinator.com/item?id=44970563) - [My other email client is a daemon](https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/)
-* [2025-08-18, 16:42:53](https://news.ycombinator.com/item?id=44942627) - [Miles from the ocean, there's diving beneath the streets of Budapest](https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave)
 * [2025-08-18, 16:36:10](https://news.ycombinator.com/item?id=44942547) - [Elegant mathematics bending the future of design](https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/)
 * [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)
 * [2025-08-18, 15:19:05](https://news.ycombinator.com/item?id=44941605) - [An interactive guide to SVG paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
