@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-22, 03:51:44",
+      "https://news.ycombinator.com/item?id=44980865"
+    ],
+    [
+      "Io_uring, kTLS and Rust for zero syscall HTTPS server",
+      "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 00:59:04",
       "https://news.ycombinator.com/item?id=44980004"
     ],
@@ -277,16 +287,6 @@
     [
       "Benchmarks for Golang SQLite Drivers",
       "https://github.com/cvilsmeier/go-sqlite-bench"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 12:43:31",
-      "https://news.ycombinator.com/item?id=44939948"
-    ],
-    [
-      "Beyond the Logo: How We're Weaving Full Images Inside QR Codes",
-      "https://blog.nitroqr.com/beyond-the-logo-how-were-weaving-full-images-inside-qr-codes"
     ]
   ],
   [
