@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-22, 19:04:10",
+      "https://news.ycombinator.com/item?id=44988496"
+    ],
+    [
+      "Evolution Is Still a Valid Machine Learning Technique",
+      "https://elijahpotter.dev/articles/harper_evolves"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 18:56:27",
       "https://news.ycombinator.com/item?id=44988393"
     ],
@@ -27,16 +37,6 @@
     [
       "Essential Reading for Agentic Engineers – August 2025",
       "https://steipete.me/posts/2025/essential-reading-august-2025"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 17:55:32",
-      "https://news.ycombinator.com/item?id=44987539"
-    ],
-    [
-      "The US Department of Agriculture Bans Support for Renewables",
-      "https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Show HN: Clyp – Clipboard Manager for Linux",
       "https://github.com/murat-cileli/clyp"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 15:46:58",
-      "https://news.ycombinator.com/item?id=44986013"
-    ],
-    [
-      "Vibe Debugging: Enterprises' Up and Coming Nightmare",
-      "https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and"
     ]
   ],
   [
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2025-08-22, 09:25:23",
-      "https://news.ycombinator.com/item?id=44982491"
-    ],
-    [
-      "Go is still not good",
-      "https://blog.habets.se/2025/07/Go-is-still-not-good.html"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 09:11:26",
       "https://news.ycombinator.com/item?id=44982409"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2025-08-21, 12:20:53",
+      "https://news.ycombinator.com/item?id=44971845"
+    ],
+    [
+      "Weaponizing image scaling against production AI systems",
+      "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 12:10:58",
       "https://news.ycombinator.com/item?id=44961153"
     ],
     [
       "Show HN: Pinch – macOS voice translation for real-time conversations",
       "https://www.startpinch.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 15:19:05",
+      "https://news.ycombinator.com/item?id=44941605"
+    ],
+    [
+      "An interactive guide to SVG paths",
+      "https://www.joshwcomeau.com/svg/interactive-guide-to-paths/"
     ]
   ],
   [
