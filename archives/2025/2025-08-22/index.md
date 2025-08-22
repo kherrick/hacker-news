@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 12:20:27](https://news.ycombinator.com/item?id=44983620) - [Florida lawmaker floats ban on HOAs amid growing backlash](https://www.tampabay28.com/news/state/florida-lawmaker-floats-ban-on-hoas-amid-growing-backlash)
+* [2025-08-22, 12:14:35](https://news.ycombinator.com/item?id=44983570) - [Being confidently wrong is holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
+* [2025-08-22, 11:49:08](https://news.ycombinator.com/item?id=44983364) - [What about using rel=\"share-url\" to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
 * [2025-08-22, 10:14:59](https://news.ycombinator.com/item?id=44982748) - [Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?](https://github.com/henrygabriels/FMLLM/blob/main/README.md)
 * [2025-08-22, 10:02:21](https://news.ycombinator.com/item?id=44982681) - [4chan will refuse to pay daily online safety fines, lawyer tells BBC](https://www.bbc.co.uk/news/articles/cq68j5g2nr1o)
 * [2025-08-22, 09:25:23](https://news.ycombinator.com/item?id=44982491) - [Go is still not good](https://blog.habets.se/2025/07/Go-is-still-not-good.html)
 * [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 08:55:52](https://news.ycombinator.com/item?id=44982304) - [Zuckerberg Squandered His AI Talent. Now He's Spending Billions to Replace It](https://www.forbes.com/sites/rashishrivastava/2025/08/13/zuckerberg-squandered-his-ai-talent-now-hes-spending-billions-to-replace-it/)
 * [2025-08-22, 07:18:48](https://news.ycombinator.com/item?id=44981802) - [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
+* [2025-08-22, 07:08:01](https://news.ycombinator.com/item?id=44981747) - [What the Hell Is Going On?](https://catskull.net/what-the-hell-is-going-on-right-now.html)
 * [2025-08-22, 06:30:19](https://news.ycombinator.com/item?id=44981572) - [Nano Banana](https://nanobanana.ai/)
 * [2025-08-22, 06:18:56](https://news.ycombinator.com/item?id=44981525) - [It's Not Wrong that \" \".length == 7](https://hsivonen.fi/string-length/)
 * [2025-08-22, 05:46:44](https://news.ycombinator.com/item?id=44981383) - [Is moderate drinking healthy? Scientists say the idea is outdated](https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research)
