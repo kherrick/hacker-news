@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 22:41:20](https://news.ycombinator.com/item?id=44990798) - [Transcribe music in abc with syntax highlighting](https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597)
+* [2025-08-22, 22:29:28](https://news.ycombinator.com/item?id=44990680) - [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
 * [2025-08-22, 22:18:54](https://news.ycombinator.com/item?id=44990559) - [Tesla Hasn't Filed Crash Reports on Time. Federal Investigators Want to Know Why](https://www.wsj.com/business/autos/tesla-hasnt-filed-crash-reports-on-time-federal-investigators-want-to-know-why-f526045c)
 * [2025-08-22, 22:06:59](https://news.ycombinator.com/item?id=44990435) - [Will AI Destroy the World Wide Web?](https://cacm.acm.org/opinion/will-ai-destroy-the-world-wide-web/)
 * [2025-08-22, 21:01:52](https://news.ycombinator.com/item?id=44989773) - [US takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
