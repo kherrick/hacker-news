@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
 * [2025-08-22, 10:14:59](https://news.ycombinator.com/item?id=44982748) - [Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?](https://github.com/henrygabriels/FMLLM/blob/main/README.md)
+* [2025-08-22, 10:02:21](https://news.ycombinator.com/item?id=44982681) - [4chan will refuse to pay daily online safety fines, lawyer tells BBC](https://www.bbc.co.uk/news/articles/cq68j5g2nr1o)
 * [2025-08-22, 09:25:23](https://news.ycombinator.com/item?id=44982491) - [Go is still not good](https://blog.habets.se/2025/07/Go-is-still-not-good.html)
 * [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 08:55:52](https://news.ycombinator.com/item?id=44982304) - [Zuckerberg Squandered His AI Talent. Now He's Spending Billions to Replace It](https://www.forbes.com/sites/rashishrivastava/2025/08/13/zuckerberg-squandered-his-ai-talent-now-hes-spending-billions-to-replace-it/)
