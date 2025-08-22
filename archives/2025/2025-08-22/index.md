@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 20:56:16](https://news.ycombinator.com/item?id=44989706) - [From $479 to $2,800 a month for ACA health insurance next year](https://www.npr.org/sections/shots-health-news/2025/08/22/nx-s1-5511182/aca-tax-credits-health-insurance-open-enrollment)
 * [2025-08-22, 20:23:35](https://news.ycombinator.com/item?id=44989373) - [Ejabberd 25.08 / ProcessOne – Erlang Jabber/XMPP/Matrix Server – Communication](https://www.process-one.net/blog/ejabberd-25-08/)
 * [2025-08-22, 19:06:29](https://news.ycombinator.com/item?id=44988530) - [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
 * [2025-08-22, 19:04:10](https://news.ycombinator.com/item?id=44988496) - [Evolution Is Still a Valid Machine Learning Technique](https://elijahpotter.dev/articles/harper_evolves)
@@ -22,6 +23,7 @@
 * [2025-08-22, 17:00:04](https://news.ycombinator.com/item?id=44986911) - [Ask HN: How do you find early stage startups to join](https://news.ycombinator.com/item?id=44986911)
 * [2025-08-22, 16:53:30](https://news.ycombinator.com/item?id=44986809) - [Launch HN: BlankBio (YC S25) - Making RNA Programmable](https://news.ycombinator.com/item?id=44986809)
 * [2025-08-22, 16:34:23](https://news.ycombinator.com/item?id=44986576) - [The warning signs the AI bubble is about to burst](https://www.telegraph.co.uk/business/2025/08/20/ai-report-triggering-panic-and-fear-on-wall-street/)
+* [2025-08-22, 16:08:59](https://news.ycombinator.com/item?id=44986291) - [DeepSeek v3.1 is not having a moment](https://thezvi.wordpress.com/2025/08/22/deepseek-v3-1-is-not-having-a-moment/)
 * [2025-08-22, 16:06:15](https://news.ycombinator.com/item?id=44986251) - [Closing the Nix Gap: From Environments to Packaged Applications for Rust](https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/)
 * [2025-08-22, 16:03:26](https://news.ycombinator.com/item?id=44986205) - [Show HN: Clyp – Clipboard Manager for Linux](https://github.com/murat-cileli/clyp)
 * [2025-08-22, 15:52:56](https://news.ycombinator.com/item?id=44986087) - [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
