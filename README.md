@@ -16,7 +16,6 @@
 * [2025-08-21, 14:39:45](https://news.ycombinator.com/item?id=44973375) - [Beyond sensor data: Foundation models of behavioral data from wearables](https://arxiv.org/abs/2507.00191)
 * [2025-08-21, 12:58:17](https://news.ycombinator.com/item?id=44972213) - [How well does the money laundering control system work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
 * [2025-08-21, 12:53:16](https://news.ycombinator.com/item?id=44972151) - [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
-* [2025-08-21, 12:31:46](https://news.ycombinator.com/item?id=44971954) - [Privately-Owned Rail Cars](https://www.amtrak.com/privately-owned-rail-cars)
 * [2025-08-21, 12:21:38](https://news.ycombinator.com/item?id=44971850) - [How does the US use water?](https://www.construction-physics.com/p/how-does-the-us-use-water)
 * [2025-08-21, 12:20:53](https://news.ycombinator.com/item?id=44971845) - [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
 * [2025-08-21, 11:52:29](https://news.ycombinator.com/item?id=44971607) - [1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]](https://www.youtube.com/watch?v=jHG_I-9a7FY)
@@ -30,6 +29,7 @@
 * [2025-08-18, 15:40:35](https://news.ycombinator.com/item?id=44941847) - [24,000-Watt Scooter Is Going for a 100 MPH Speed Record at Bonneville](https://www.thedrive.com/news/this-24000-watt-scooter-is-going-for-a-100-mph-speed-record-at-bonneville)
 * [2025-08-18, 15:19:05](https://news.ycombinator.com/item?id=44941605) - [An interactive guide to SVG paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
 * [2025-08-18, 15:13:39](https://news.ycombinator.com/item?id=44941546) - [Benchmarks for Golang SQLite Drivers](https://github.com/cvilsmeier/go-sqlite-bench)
+* [2025-08-18, 14:30:28](https://news.ycombinator.com/item?id=44941056) - [VHS-C: when a lazy idea stumbles towards perfection [video]](https://www.youtube.com/watch?v=HFYWHeBhYbM)
 
 ## [Archives](archives/index.md)
 
