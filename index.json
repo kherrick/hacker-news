@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44989373"
     ],
     [
-      "Ejabberd 25.08 / ProcessOne – Erlang Jabber/XMPP/Matrix Server – Communication",
+      "Ejabberd 25.08",
       "https://www.process-one.net/blog/ejabberd-25-08/"
     ]
   ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-08-22, 04:48:29",
+      "https://news.ycombinator.com/item?id=44981088"
+    ],
+    [
+      "Top Secret: Automatically filter sensitive information",
+      "https://thoughtbot.com/blog/top-secret"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 03:51:44",
       "https://news.ycombinator.com/item?id=44980865"
     ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=44980064"
     ],
     [
-      "The issue of anti-cheat on Linux",
+      "The issue of anti-cheat on Linux (2024)",
       "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Code formatting comes to uv experimentally",
       "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 12:20:53",
-      "https://news.ycombinator.com/item?id=44971845"
-    ],
-    [
-      "Weaponizing image scaling against production AI systems",
-      "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/"
     ]
   ],
   [
