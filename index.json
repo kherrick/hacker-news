@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44988496"
     ],
     [
-      "Evolution is still a valid machine learning technique",
+      "Harper Evolves",
       "https://elijahpotter.dev/articles/harper_evolves"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44987422"
     ],
     [
-      "Sprinkling Self-Doubt on ChatGPT",
+      "Sprinkling self-doubt on ChatGPT",
       "https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/"
     ]
   ],
@@ -41,12 +41,32 @@
   ],
   [
     [
+      "2025-08-22, 17:28:55",
+      "https://news.ycombinator.com/item?id=44987239"
+    ],
+    [
+      "Google Did Not Unilaterally Decide to Kill XSLT",
+      "https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 17:02:48",
       "https://news.ycombinator.com/item?id=44986949"
     ],
     [
       "Waymo granted permit to begin testing in New York City",
       "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-22, 17:00:04",
+      "https://news.ycombinator.com/item?id=44986911"
+    ],
+    [
+      "Ask HN: How do you find early stage startups to join",
+      "https://news.ycombinator.com/item?id=44986911"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-08-22, 09:25:23",
-      "https://news.ycombinator.com/item?id=44982491"
-    ],
-    [
-      "Go is still not good",
-      "https://blog.habets.se/2025/07/Go-is-still-not-good.html"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 09:11:26",
       "https://news.ycombinator.com/item?id=44982409"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=44981525"
     ],
     [
-      "It’s not wrong that \"🤦🏼‍♂️\".length == 7 (2019)",
+      "It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019)",
       "https://hsivonen.fi/string-length/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "DeepSeek-v3.1",
       "https://api-docs.deepseek.com/news/news250821"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 12:20:53",
-      "https://news.ycombinator.com/item?id=44971845"
-    ],
-    [
-      "Weaponizing image scaling against production AI systems",
-      "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/"
     ]
   ],
   [
