@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 13:14:06](https://news.ycombinator.com/item?id=44984270) - [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
+* [2025-08-22, 12:50:39](https://news.ycombinator.com/item?id=44983986) - [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
 * [2025-08-22, 12:20:27](https://news.ycombinator.com/item?id=44983620) - [Florida lawmaker floats ban on HOAs amid growing backlash](https://www.tampabay28.com/news/state/florida-lawmaker-floats-ban-on-hoas-amid-growing-backlash)
 * [2025-08-22, 12:14:35](https://news.ycombinator.com/item?id=44983570) - [Being confidently wrong is holding AI back](https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back)
 * [2025-08-22, 11:49:08](https://news.ycombinator.com/item?id=44983364) - [What about using rel=\"share-url\" to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
