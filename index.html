@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44987057">
+          <h3>
+            <a
+              class="item"
+              href="https://www.npr.org/2025/08/21/nx-s1-5507165/light-pollution-bird-day-hour-longer"
+              >Artificial light has essentially lengthened birds' day</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-22 @ 17:12:53</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44987057"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44986949">
           <h3>
             <a
@@ -142,13 +163,159 @@
             <h4>
               <span>2025-08-22 @ 17:02:48</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44986949"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44986809">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44986809"
+              >Launch HN: BlankBio (YC S25) - Making RNA Programmable</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-22 @ 16:53:30</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44986809"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://blank.bio">https://blank.bio</a>). We're training
+              RNA foundation models to power a computational toolkit for
+              therapeutics. The first application is in mRNA design where our
+              vision is for any biologist to design an effective therapeutic
+              sequence (<a href="https://www.youtube.com/watch?v=ZgI7WJ1SygI"
+                >https://www.youtube.com/watch?v=ZgI7WJ1SygI</a
+              >).
+              <p>
+                BlankBio started from our PhD work in this area, which is
+                open-sourced. There’s a model [2] and a benchmark with APIs
+                access [0].
+              </p>
+              <p>
+                mRNA has the potential to encode vaccines, gene therapies, and
+                cancer treatments. Yet designing effective mRNA remains a
+                bottleneck. Today, scientists design mRNA by manually editing
+                sequences AUGCGUAC... and testing the results through trial and
+                error. It's like writing assembly code and managing individual
+                memory addresses. The field is flooded with capital aimed at
+                therapeutics companies: Strand ($153M), Orna ($221M), Sail
+                Biomedicines ($440M) but the tooling to approach these problems
+                remains low-level. That’s what we’re aiming to solve.
+              </p>
+              <p>
+                The big problem is that mRNA sequences are incomprehensible.
+                They encode properties like half-life (how long RNA survives in
+                cells) and translation efficiency (protein output), but we don't
+                know how to optimize them. To get effective treatments, we need
+                more precision. Scientists need sequences that target specific
+                cell types to reduce dosage and side effects.
+              </p>
+              <p>
+                We envision a future where RNA designers operate at a higher
+                level of abstraction. Imagine code like this:
+              </p>
+              <p></p>
+              <pre><code>  seq = "AUGCAUGCAUGC..."
+  seq = BB.half_life(seq, target="6 hours")
+  seq = BB.cell_type(seq, target="hepatocytes")
+  seq = BB.expression(seq, level="high")
+</code></pre>
+              To get there we need generalizable RNA embeddings from pre-trained
+              models. During our PhDs, Ian and I worked on self-supervised
+              learning (SSL) objectives for RNA. This approach allows us to
+              train on unlabeled data and has advantages: (1) we don't require
+              noisy experimental data, and (2) the amount of unlabeled data is
+              significantly greater than labeled. However the challenge is that
+              standard NLP approaches don't work well on genomic sequences.
+              <p>
+                Using joint embedding architecture approaches (contrastive
+                learning), we trained model to recognize functionally similar
+                sequences rather than predict every nucleotide. This worked
+                remarkably well. Our 10M parameter model, Orthrus, trained on 4
+                GPUs for 14 hours, beats Evo2, a 40B parameter model trained on
+                1000 GPUs for a month [0]. On mRNA half-life prediction, just by
+                fitting a linear regression on our embeddings, we outperform
+                supervised models. This work done during our academic days is
+                the foundation for what we're building. We're improving training
+                algorithms, growing the pre-training dataset, and making use of
+                parameter scaling with the goal of designing effective mRNA
+                therapeutics.
+              </p>
+              <p>
+                We have a lot to say about why other SSL approaches work better
+                than next-token prediction and masked language modeling: some of
+                which you can check out in Ian's blog post [1] and our paper
+                [2]. The big takeaway is that the current approaches of applying
+                NLP to scaling models for biological sequences won't get us all
+                the way there. 90% of the genome can mutate without affecting
+                fitness so training models to predict this noisy sequence
+                results in suboptimal embeddings [3].
+              </p>
+              <p>
+                We think there are strong parallels between the digital and RNA
+                revolutions. In the early days of computing, programmers wrote
+                assembly code, managing registers and memory addresses directly.
+                Today's RNA designers are manually tweaking sequences, improving
+                stability or reduce immunogenicity through trial and error. As
+                compilers freed programmers from low-level details, we're
+                building the abstraction layer for RNA.
+              </p>
+              <p>
+                We currently have pilots with a few early stage biotechs proving
+                out utility of our embeddings and our open source model is used
+                by folks at Sanofi &amp; GSK. We're looking for: (1) partners
+                working on RNA adjacent modalities (2) feedback from anyone
+                who's tried to design RNA sequences what were your pain points?,
+                and (3) Ideas for other applications! We chatted with some
+                biomarker providing companies, and some preliminary analyses
+                demonstrate improved stratification.
+              </p>
+              <p>
+                Thanks for reading. Happy to answer questions about the
+                technical approach, why genomics is different from language, or
+                anything else.
+              </p>
+              <p>- Phil, Ian, and Jonny</p>
+              <p>founders@blankbio.com</p>
+              <p>
+                [0] mRNABench:
+                <a
+                  href="https://www.biorxiv.org/content/10.1101/2025.07.05.662870v1"
+                  >https://www.biorxiv.org/content/10.1101/2025.07.05.662870v1</a
+                >
+              </p>
+              <p>
+                [1] Ian’s Blog on Scaling:
+                <a
+                  href="https://quietflamingo.substack.com/p/scaling-is-dead-long-live-scaling"
+                  >https://quietflamingo.substack.com/p/scaling-is-dead-long-li...</a
+                >
+              </p>
+              <p>
+                [2] Orthrus:
+                <a
+                  href="https://www.biorxiv.org/content/10.1101/2024.10.10.617658v3"
+                  >https://www.biorxiv.org/content/10.1101/2024.10.10.617658v3</a
+                >
+              </p>
+              <p>
+                [3] Zoonomia:
+                <a href="https://www.science.org/doi/10.1126/science.abn3943"
+                  >https://www.science.org/doi/10.1126/science.abn3943</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="44986205">
@@ -161,11 +328,11 @@
             <h4>
               <span>2025-08-22 @ 16:03:26</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44986205"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -182,11 +349,11 @@
             <h4>
               <span>2025-08-22 @ 15:52:56</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44986087"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -203,11 +370,11 @@
             <h4>
               <span>2025-08-22 @ 15:46:58</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44986013"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -222,11 +389,11 @@
             <h4>
               <span>2025-08-22 @ 15:22:42</span
               ><span class="points-container"
-                >Points: <span class="points">313</span></span
+                >Points: <span class="points">322</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44985730"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -263,7 +430,7 @@
             <h4>
               <span>2025-08-22 @ 14:43:31</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44985278"
                   >Comments</a
@@ -284,11 +451,11 @@
             <h4>
               <span>2025-08-22 @ 14:37:11</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44985207"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -305,11 +472,11 @@
             <h4>
               <span>2025-08-22 @ 14:29:40</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44985131"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -326,7 +493,7 @@
             <h4>
               <span>2025-08-22 @ 14:14:26</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44984958"
                   >Comments</a
@@ -454,11 +621,11 @@
             <h4>
               <span>2025-08-22 @ 12:50:39</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44983986"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -479,7 +646,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44983364"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -497,11 +664,11 @@
             <h4>
               <span>2025-08-22 @ 10:02:21</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44982681"
                   >Comments</a
-                ><span class="descendants">: 252</span></span
+                ><span class="descendants">: 258</span></span
               >
             </h4>
           </section>
@@ -518,11 +685,11 @@
             <h4>
               <span>2025-08-22 @ 09:25:23</span
               ><span class="points-container"
-                >Points: <span class="points">403</span></span
+                >Points: <span class="points">408</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44982491"
                   >Comments</a
-                ><span class="descendants">: 532</span></span
+                ><span class="descendants">: 544</span></span
               >
             </h4>
           </section>
@@ -538,11 +705,11 @@
             <h4>
               <span>2025-08-22 @ 09:11:26</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44982409"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -559,7 +726,7 @@
             <h4>
               <span>2025-08-22 @ 03:51:44</span
               ><span class="points-container"
-                >Points: <span class="points">388</span></span
+                >Points: <span class="points">390</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44980865"
                   >Comments</a
@@ -578,7 +745,7 @@
             <h4>
               <span>2025-08-22 @ 02:05:53</span
               ><span class="points-container"
-                >Points: <span class="points">213</span></span
+                >Points: <span class="points">214</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44980339"
                   >Comments</a
@@ -597,11 +764,11 @@
             <h4>
               <span>2025-08-22 @ 00:59:04</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44980004"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
             <div class="text">
@@ -623,11 +790,11 @@
             <h4>
               <span>2025-08-21 @ 22:52:14</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44979107"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
             <div class="text">
@@ -653,11 +820,11 @@
             <h4>
               <span>2025-08-21 @ 20:26:44</span
               ><span class="points-container"
-                >Points: <span class="points">320</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44977645"
                   >Comments</a
-                ><span class="descendants">: 226</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
           </section>
@@ -672,7 +839,7 @@
             <h4>
               <span>2025-08-21 @ 19:47:02</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44977189"
                   >Comments</a
@@ -691,75 +858,11 @@
             <h4>
               <span>2025-08-21 @ 19:06:09</span
               ><span class="points-container"
-                >Points: <span class="points">680</span></span
+                >Points: <span class="points">682</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44976764"
                   >Comments</a
                 ><span class="descendants">: 225</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44976468">
-          <h3>
-            <a
-              class="item"
-              href="https://giansegato.com/essays/probabilistic-era"
-              >Building AI products in the probabilistic era</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-21 @ 18:42:10</span
-              ><span class="points-container"
-                >Points: <span class="points">176</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44976468"
-                  >Comments</a
-                ><span class="descendants">: 97</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44972151">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/"
-              >AWS CEO says using AI to replace junior staff is 'Dumbest thing
-              I've ever heard'</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-21 @ 12:53:16</span
-              ><span class="points-container"
-                >Points: <span class="points">1574</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44972151"
-                  >Comments</a
-                ><span class="descendants">: 693</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44971850">
-          <h3>
-            <a
-              class="item"
-              href="https://www.construction-physics.com/p/how-does-the-us-use-water"
-              >How does the US use water?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-21 @ 12:21:38</span
-              ><span class="points-container"
-                >Points: <span class="points">221</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44971850"
-                  >Comments</a
-                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -776,13 +879,108 @@
             <h4>
               <span>2025-08-21 @ 12:20:53</span
               ><span class="points-container"
-                >Points: <span class="points">462</span></span
+                >Points: <span class="points">464</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44971845"
                   >Comments</a
                 ><span class="descendants">: 129</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44961153">
+          <h3>
+            <a class="item" href="https://www.startpinch.com/"
+              >Show HN: Pinch – macOS voice translation for real-time
+              conversations</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-20 @ 12:10:58</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44961153"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://news.ycombinator.com/item?id=42935355"
+                >https://news.ycombinator.com/item?id=42935355</a
+              >). Today we're launching Pinch for Mac, which we believe is a
+              step-change improvement in real-time AI translation. Our vision is
+              to make cross-lingual conversations feel as natural as regular
+              conversations.
+              <p>
+                TL:DR During an online meeting, the app instantly transcribes
+                and translates all audio you hear, and allows you to decide when
+                you translate your voice and when you don't. It's invisible to
+                others (like Granola), and works everywhere without any meeting
+                bots. Try it at startpinch.com
+              </p>
+              <p>
+                Here's a live demo we recorded this morning, without cuts:
+                <a href="https://youtu.be/ltM2p-SosLc"
+                  >https://youtu.be/ltM2p-SosLc</a
+                >
+              </p>
+              <p>
+                When we first launched Pinch, we shipped a video conferencing
+                solution with a human-like AI interpreter that was an active
+                participant in your call. Our users hold the spacebar down while
+                speaking to the translator, and when they release the spacebar
+                the translator speaks out to the entire room.
+              </p>
+              <p>
+                That design was intentional - it puts the task of context
+                selection on the user and prevents people from interrupting each
+                other awkwardly (only one person can press spacebar at a time).
+                It also comes with heavy tradeoffs, namely:
+              </p>
+              <p>
+                * Latency - Up to 2x longer meeting lengths due to everyone
+                hearing your full sentence and then the translation of your full
+                sentence
+              </p>
+              <p>
+                * Friction with first-time users - Customers using Pinch for
+                external communication often meet with new people each time, and
+                we've learned of several that send out an instruction doc
+                pre-meeting on how to join and use translation in the Pinch
+                call. Bad signal for our UX.
+              </p>
+              <p>
+                * Restricting our customers to those who are meeting creators
+              </p>
+              <p>Benefits of the desktop app:</p>
+              <p>
+                1. It creates a virtual microphone that you can use in any
+                meeting app
+              </p>
+              <p>
+                2. Instant transcription+translation means you can understand
+                what's going on in real-time and interrupt where necessary
+              </p>
+              <p>
+                3. Simultaneous translation - after you start speaking, the
+                others will hear your translated audio as fast as we can
+                generate it, without interrupting your flow.
+              </p>
+              <p>
+                Over the last months our focus has been on developing a model
+                and UX to support high translation accuracy while automating
+                context selection - knowing exactly when it has enough words to
+                start the translated sentence. We’ve rolled this out to the
+                desktop app first.
+              </p>
+              <p>
+                We're incredibly excited to go public beta today, you can give
+                it a try at www.startpinch.com
+              </p>
+              <p>Cheers, - Christian</p>
+            </div>
           </section>
         </section>
         <section id="44942709">
@@ -795,11 +993,11 @@
             <h4>
               <span>2025-08-18 @ 16:49:59</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44942709"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -816,7 +1014,7 @@
             <h4>
               <span>2025-08-18 @ 15:19:05</span
               ><span class="points-container"
-                >Points: <span class="points">409</span></span
+                >Points: <span class="points">411</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44941605"
                   >Comments</a
@@ -835,7 +1033,7 @@
             <h4>
               <span>2025-08-18 @ 14:30:28</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44941056"
                   >Comments</a
