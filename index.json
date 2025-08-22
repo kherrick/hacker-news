@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-08-21, 11:04:08",
-      "https://news.ycombinator.com/item?id=44971273"
-    ],
-    [
-      "Mark Zuckerberg freezes AI hiring amid bubble fears",
-      "https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 10:54:13",
       "https://news.ycombinator.com/item?id=44971212"
     ],
@@ -257,6 +247,16 @@
     [
       "Benchmarks for Golang SQLite Drivers",
       "https://github.com/cvilsmeier/go-sqlite-bench"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 13:54:29",
+      "https://news.ycombinator.com/item?id=44940619"
+    ],
+    [
+      "The attr() function in CSS now supports types",
+      "https://www.amitmerchant.com/attr-function-types-css/"
     ]
   ],
   [
