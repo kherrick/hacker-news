@@ -56,6 +56,7 @@
 * [2025-08-19, 07:50:59](https://news.ycombinator.com/item?id=44949264) - [BBC witnesses settlers attack on Palestinian farm in West Bank](https://www.bbc.com/news/articles/cewy88jle0eo)
 * [2025-08-19, 07:33:09](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
+* [2025-08-19, 02:00:32](https://news.ycombinator.com/item?id=44947484) - [Writing Micro Compiler in OCaml (2014)](http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/)
 * [2025-08-19, 01:25:03](https://news.ycombinator.com/item?id=44947276) - [Starting game development in JavaScript with no experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
 * [2025-08-19, 00:35:08](https://news.ycombinator.com/item?id=44946996) - [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower)
 * [2025-08-19, 00:12:17](https://news.ycombinator.com/item?id=44946813) - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
