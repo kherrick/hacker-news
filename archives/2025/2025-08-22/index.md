@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 18:07:10](https://news.ycombinator.com/item?id=44987692) - [Essential Reading for Agentic Engineers – August 2025](https://steipete.me/posts/2025/essential-reading-august-2025)
+* [2025-08-22, 17:55:32](https://news.ycombinator.com/item?id=44987539) - [The US Department of Agriculture Bans Support for Renewables](https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/)
+* [2025-08-22, 17:45:27](https://news.ycombinator.com/item?id=44987422) - [Sprinkling Self-Doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
 * [2025-08-22, 17:41:48](https://news.ycombinator.com/item?id=44987380) - [Away from Gmail, Leaving Gmail for Mailbox.org](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
 * [2025-08-22, 17:38:57](https://news.ycombinator.com/item?id=44987346) - [XSLT removal will break multiple government and regulatory sites](https://github.com/whatwg/html/issues/11582)
 * [2025-08-22, 17:12:53](https://news.ycombinator.com/item?id=44987057) - [Artificial light has essentially lengthened birds' day](https://www.npr.org/2025/08/21/nx-s1-5507165/light-pollution-bird-day-hour-longer)
 * [2025-08-22, 17:02:48](https://news.ycombinator.com/item?id=44986949) - [Waymo granted first permit to begin testing autonomous vehicles in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
 * [2025-08-22, 16:53:30](https://news.ycombinator.com/item?id=44986809) - [Launch HN: BlankBio (YC S25) - Making RNA Programmable](https://news.ycombinator.com/item?id=44986809)
 * [2025-08-22, 16:34:23](https://news.ycombinator.com/item?id=44986576) - [The warning signs the AI bubble is about to burst](https://www.telegraph.co.uk/business/2025/08/20/ai-report-triggering-panic-and-fear-on-wall-street/)
+* [2025-08-22, 16:06:15](https://news.ycombinator.com/item?id=44986251) - [Closing the Nix Gap: From Environments to Packaged Applications for Rust](https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/)
 * [2025-08-22, 16:03:26](https://news.ycombinator.com/item?id=44986205) - [Show HN: Clyp – Clipboard Manager for Linux](https://github.com/murat-cileli/clyp)
 * [2025-08-22, 15:52:56](https://news.ycombinator.com/item?id=44986087) - [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
 * [2025-08-22, 15:46:58](https://news.ycombinator.com/item?id=44986013) - [Vibe Debugging: Enterprises' Up and Coming Nightmare](https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and)
@@ -38,5 +42,6 @@
 * [2025-08-22, 05:46:44](https://news.ycombinator.com/item?id=44981383) - [Is moderate drinking healthy? Scientists say the idea is outdated](https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research)
 * [2025-08-22, 03:51:44](https://news.ycombinator.com/item?id=44980865) - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 * [2025-08-22, 02:05:53](https://news.ycombinator.com/item?id=44980339) - [Everything Is Correlated](https://gwern.net/everything)
+* [2025-08-22, 01:09:33](https://news.ycombinator.com/item?id=44980064) - [The issue of anti-cheat on Linux](https://tulach.cc/the-issue-of-anti-cheat-on-linux/)
 * [2025-08-22, 00:59:04](https://news.ycombinator.com/item?id=44980004) - [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
 * [2025-08-22, 00:34:33](https://news.ycombinator.com/item?id=44979855) - [Google scores six-year Meta cloud deal worth over $10B](https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html)
