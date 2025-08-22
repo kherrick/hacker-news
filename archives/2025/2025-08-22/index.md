@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 19:06:29](https://news.ycombinator.com/item?id=44988530) - [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
 * [2025-08-22, 19:04:10](https://news.ycombinator.com/item?id=44988496) - [Evolution Is Still a Valid Machine Learning Technique](https://elijahpotter.dev/articles/harper_evolves)
 * [2025-08-22, 18:56:27](https://news.ycombinator.com/item?id=44988393) - [Scientists just found a protein that reverses brain aging](https://www.sciencedaily.com/releases/2025/08/250820000808.htm)
 * [2025-08-22, 18:24:16](https://news.ycombinator.com/item?id=44987924) - [The First Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
