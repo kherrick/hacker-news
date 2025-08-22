@@ -36,6 +36,7 @@
 * [2025-08-18, 17:08:36](https://news.ycombinator.com/item?id=44942936) - [Left to Right Programming: Programs Should Be Valid as They Are Typed](https://graic.net/p/left-to-right-programming)
 * [2025-08-18, 16:54:25](https://news.ycombinator.com/item?id=44942761) - [The lottery ticket hypothesis: why neural networks work](https://nearlyright.com/how-ai-researchers-accidentally-discovered-that-everything-they-thought-about-learning-was-wrong/)
 * [2025-08-18, 16:52:29](https://news.ycombinator.com/item?id=44942731) - [Show HN: Whispering – Open-source, local-first dictation you can trust](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering)
+* [2025-08-18, 16:49:59](https://news.ycombinator.com/item?id=44942709) - [How Not to Buy a SSD](https://andrei.xyz/post/how-not-to-buy-a-ssd/)
 * [2025-08-18, 16:42:53](https://news.ycombinator.com/item?id=44942627) - [Miles from the ocean, there's diving beneath the streets of Budapest](https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave)
 * [2025-08-18, 16:40:48](https://news.ycombinator.com/item?id=44942602) - [My Retro TVs](https://www.myretrotvs.com/)
 * [2025-08-18, 16:40:44](https://news.ycombinator.com/item?id=44942600) - [AWS pricing for Kiro dev tool dubbed 'a wallet-wrecking tragedy'](https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/)
