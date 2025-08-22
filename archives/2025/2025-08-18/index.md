@@ -47,6 +47,7 @@
 * [2025-08-18, 15:50:21](https://news.ycombinator.com/item?id=44941963) - [Who Invented Backpropagation?](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 * [2025-08-18, 15:46:11](https://news.ycombinator.com/item?id=44941907) - [The administration's assault on science feels eerily Soviet](https://grist.org/politics/the-trump-administrations-assault-on-science-feels-eerily-soviet/)
 * [2025-08-18, 15:45:32](https://news.ycombinator.com/item?id=44941899) - [My AI Had Fixed the Code Before I Saw It](https://every.to/source-code/my-ai-had-already-fixed-the-code-before-i-saw-it)
+* [2025-08-18, 15:40:35](https://news.ycombinator.com/item?id=44941847) - [24,000-Watt Scooter Is Going for a 100 MPH Speed Record at Bonneville](https://www.thedrive.com/news/this-24000-watt-scooter-is-going-for-a-100-mph-speed-record-at-bonneville)
 * [2025-08-18, 15:33:31](https://news.ycombinator.com/item?id=44941766) - [The Road That Killed Legend Jenkins Was Working as Designed](https://www.strongtowns.org/journal/2025/8/18/the-road-that-killed-legend-jenkins-was-working-exactly-as-designed)
 * [2025-08-18, 15:32:25](https://news.ycombinator.com/item?id=44941755) - [Show HN: Open-Source Framework for Real-Time AI Video Avatars](https://github.com/videosdk-community/ai-avatar-demo)
 * [2025-08-18, 15:32:04](https://news.ycombinator.com/item?id=44941750) - [Apple Finally Destroyed Steve Jobs’ Vision of the iPad. Good](https://www.wired.com/story/apple-finally-destroyed-steve-jobss-vision-of-the-ipad-good/)
