@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-22, 06:18:56",
+      "https://news.ycombinator.com/item?id=44981525"
+    ],
+    [
+      "It's Not Wrong that \" \".length == 7",
+      "https://hsivonen.fi/string-length/"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 03:51:44",
       "https://news.ycombinator.com/item?id=44980865"
     ],
@@ -287,16 +297,6 @@
     [
       "Benchmarks for Golang SQLite Drivers",
       "https://github.com/cvilsmeier/go-sqlite-bench"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 12:03:12",
-      "https://news.ycombinator.com/item?id=44939688"
-    ],
-    [
-      "Philosophical Thoughts on Kolmogorov-Arnold Networks (2024)",
-      "https://kindxiaoming.github.io/blog/2024/kolmogorov-arnold-networks/"
     ]
   ]
 ]
