@@ -62,6 +62,7 @@
 * [2025-08-18, 14:17:01](https://news.ycombinator.com/item?id=44940896) - [Basic dependency injection in OCaml with objects](https://gr-im.github.io/a/dependency-injection.html)
 * [2025-08-18, 13:56:44](https://news.ycombinator.com/item?id=44940649) - [Sütterlin](https://en.wikipedia.org/wiki/S%C3%BCtterlin)
 * [2025-08-18, 13:56:33](https://news.ycombinator.com/item?id=44940646) - [The Coming Robot Home Invasion](https://www.andykessler.com/andy_kessler/2025/08/wsj-home-robots.html)
+* [2025-08-18, 13:54:29](https://news.ycombinator.com/item?id=44940619) - [The attr() function in CSS now supports types](https://www.amitmerchant.com/attr-function-types-css/)
 * [2025-08-18, 13:47:38](https://news.ycombinator.com/item?id=44940554) - [Class-action suit claims Otter AI records private work conversations](https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit)
 * [2025-08-18, 13:39:53](https://news.ycombinator.com/item?id=44940485) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-08-18, 13:38:04](https://news.ycombinator.com/item?id=44940451) - [Visualizing distributions with pepperoni pizza and JavaScript](https://ntietz.com/blog/visualizing-distributions-with-pepperoni-pizza/)
