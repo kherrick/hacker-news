@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-22, 23:12:59](https://news.ycombinator.com/item?id=44991082) - [Coinbase CEO explains why he fired engineers who didn't try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/)
 * [2025-08-22, 22:41:20](https://news.ycombinator.com/item?id=44990798) - [Transcribe music in abc with syntax highlighting](https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597)
 * [2025-08-22, 22:29:28](https://news.ycombinator.com/item?id=44990680) - [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
 * [2025-08-22, 21:01:52](https://news.ycombinator.com/item?id=44989773) - [U.S. government takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
@@ -29,7 +30,6 @@
 * [2025-08-20, 12:10:58](https://news.ycombinator.com/item?id=44961153) - [Show HN: Pinch – macOS voice translation for real-time conversations](https://www.startpinch.com/)
 * [2025-08-19, 20:25:06](https://news.ycombinator.com/item?id=44955923) - [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)
 * [2025-08-19, 02:00:32](https://news.ycombinator.com/item?id=44947484) - [Writing Micro Compiler in OCaml (2014)](http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/)
-* [2025-08-18, 14:30:28](https://news.ycombinator.com/item?id=44941056) - [VHS-C: When a lazy idea stumbles towards perfection [video]](https://www.youtube.com/watch?v=HFYWHeBhYbM)
 
 ## [Archives](archives/index.md)
 
