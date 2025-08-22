@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-22, 03:51:44](https://news.ycombinator.com/item?id=44980865) - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 * [2025-08-22, 00:59:04](https://news.ycombinator.com/item?id=44980004) - [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
 * [2025-08-22, 00:34:33](https://news.ycombinator.com/item?id=44979855) - [Google scores six-year Meta cloud deal worth over $10B](https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html)
 * [2025-08-21, 22:52:14](https://news.ycombinator.com/item?id=44979107) - [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
@@ -28,7 +29,6 @@
 * [2025-08-18, 15:45:32](https://news.ycombinator.com/item?id=44941899) - [My AI had fixed the code before I saw it](https://every.to/source-code/my-ai-had-already-fixed-the-code-before-i-saw-it)
 * [2025-08-18, 15:19:05](https://news.ycombinator.com/item?id=44941605) - [An interactive guide to SVG paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
 * [2025-08-18, 15:13:39](https://news.ycombinator.com/item?id=44941546) - [Benchmarks for Golang SQLite Drivers](https://github.com/cvilsmeier/go-sqlite-bench)
-* [2025-08-18, 12:43:31](https://news.ycombinator.com/item?id=44939948) - [Beyond the Logo: How We're Weaving Full Images Inside QR Codes](https://blog.nitroqr.com/beyond-the-logo-how-were-weaving-full-images-inside-qr-codes)
 * [2025-08-18, 12:03:12](https://news.ycombinator.com/item?id=44939688) - [Philosophical Thoughts on Kolmogorov-Arnold Networks (2024)](https://kindxiaoming.github.io/blog/2024/kolmogorov-arnold-networks/)
 
 ## [Archives](archives/index.md)
