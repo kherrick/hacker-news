@@ -9,6 +9,7 @@
 * [2025-08-22, 21:01:52](https://news.ycombinator.com/item?id=44989773) - [US takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
 * [2025-08-22, 20:56:16](https://news.ycombinator.com/item?id=44989706) - [From $479 to $2,800 a month for ACA health insurance next year](https://www.npr.org/sections/shots-health-news/2025/08/22/nx-s1-5511182/aca-tax-credits-health-insurance-open-enrollment)
 * [2025-08-22, 20:23:35](https://news.ycombinator.com/item?id=44989373) - [Ejabberd 25.08 / ProcessOne – Erlang Jabber/XMPP/Matrix Server – Communication](https://www.process-one.net/blog/ejabberd-25-08/)
+* [2025-08-22, 20:00:10](https://news.ycombinator.com/item?id=44989125) - [Our Response to Mississippi's Age Assurance Law](https://bsky.social/about/blog/08-22-2025-mississippi-hb1126)
 * [2025-08-22, 19:06:29](https://news.ycombinator.com/item?id=44988530) - [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
 * [2025-08-22, 19:04:10](https://news.ycombinator.com/item?id=44988496) - [Evolution Is Still a Valid Machine Learning Technique](https://elijahpotter.dev/articles/harper_evolves)
 * [2025-08-22, 18:56:27](https://news.ycombinator.com/item?id=44988393) - [Scientists just found a protein that reverses brain aging](https://www.sciencedaily.com/releases/2025/08/250820000808.htm)
