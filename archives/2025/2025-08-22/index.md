@@ -9,6 +9,7 @@
 * [2025-08-22, 18:24:16](https://news.ycombinator.com/item?id=44987924) - [The First Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 * [2025-08-22, 18:20:47](https://news.ycombinator.com/item?id=44987871) - [US probes delays in Tesla crash reports involving driver-assistance systems](https://www.reuters.com/legal/litigation/us-probes/delays-tesla-crash-reports-involving-driver-assistance-systems-2025-08-21/)
 * [2025-08-22, 18:07:10](https://news.ycombinator.com/item?id=44987692) - [Essential Reading for Agentic Engineers – August 2025](https://steipete.me/posts/2025/essential-reading-august-2025)
+* [2025-08-22, 17:56:12](https://news.ycombinator.com/item?id=44987552) - [Should the web platform adopt XSLT 3.0?](https://github.com/whatwg/html/issues/11578)
 * [2025-08-22, 17:55:32](https://news.ycombinator.com/item?id=44987539) - [The US Department of Agriculture Bans Support for Renewables](https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/)
 * [2025-08-22, 17:45:27](https://news.ycombinator.com/item?id=44987422) - [Sprinkling Self-Doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
 * [2025-08-22, 17:41:48](https://news.ycombinator.com/item?id=44987380) - [Away from Gmail, Leaving Gmail for Mailbox.org](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)

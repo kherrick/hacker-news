@@ -2,11 +2,11 @@
 
 * [2025-08-22, 19:04:10](https://news.ycombinator.com/item?id=44988496) - [Harper Evolves](https://elijahpotter.dev/articles/harper_evolves)
 * [2025-08-22, 18:56:27](https://news.ycombinator.com/item?id=44988393) - [Scientists just found a protein that reverses brain aging](https://www.sciencedaily.com/releases/2025/08/250820000808.htm)
+* [2025-08-22, 17:56:12](https://news.ycombinator.com/item?id=44987552) - [Should the web platform adopt XSLT 3.0?](https://github.com/whatwg/html/issues/11578)
 * [2025-08-22, 17:45:27](https://news.ycombinator.com/item?id=44987422) - [Sprinkling self-doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
 * [2025-08-22, 17:38:57](https://news.ycombinator.com/item?id=44987346) - [XSLT removal will break multiple government and regulatory sites](https://github.com/whatwg/html/issues/11582)
 * [2025-08-22, 17:28:55](https://news.ycombinator.com/item?id=44987239) - [Google Did Not Unilaterally Decide to Kill XSLT](https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/)
 * [2025-08-22, 17:02:48](https://news.ycombinator.com/item?id=44986949) - [Waymo granted permit to begin testing in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
-* [2025-08-22, 17:00:04](https://news.ycombinator.com/item?id=44986911) - [Ask HN: How do you find early stage startups to join](https://news.ycombinator.com/item?id=44986911)
 * [2025-08-22, 16:53:30](https://news.ycombinator.com/item?id=44986809) - [Launch HN: BlankBio (YC S25) - Making RNA Programmable](https://news.ycombinator.com/item?id=44986809)
 * [2025-08-22, 16:06:15](https://news.ycombinator.com/item?id=44986251) - [Closing the Nix Gap: From Environments to Packaged Applications for Rust](https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/)
 * [2025-08-22, 16:03:26](https://news.ycombinator.com/item?id=44986205) - [Show HN: Clyp – Clipboard Manager for Linux](https://github.com/murat-cileli/clyp)
