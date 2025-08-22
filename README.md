@@ -7,7 +7,7 @@
 * [2025-08-21, 22:52:14](https://news.ycombinator.com/item?id=44979107) - [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
 * [2025-08-21, 21:10:34](https://news.ycombinator.com/item?id=44978140) - [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
 * [2025-08-21, 21:04:39](https://news.ycombinator.com/item?id=44978073) - [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
-* [2025-08-21, 20:26:44](https://news.ycombinator.com/item?id=44977645) - [Uv format: Code Formatting Comes to uv (experimentally)](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
+* [2025-08-21, 20:26:44](https://news.ycombinator.com/item?id=44977645) - [Code formatting comes to uv experimentally](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
 * [2025-08-21, 19:47:02](https://news.ycombinator.com/item?id=44977189) - [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
 * [2025-08-21, 19:22:26](https://news.ycombinator.com/item?id=44976929) - [The AI Job Title Decoder Ring](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html)
 * [2025-08-21, 19:06:09](https://news.ycombinator.com/item?id=44976764) - [DeepSeek-v3.1](https://api-docs.deepseek.com/news/news250821)
