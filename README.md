@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-22, 10:14:59](https://news.ycombinator.com/item?id=44982748) - [Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?](https://github.com/henrygabriels/FMLLM/blob/main/README.md)
+* [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 08:55:52](https://news.ycombinator.com/item?id=44982304) - [Zuckerberg Squandered His AI Talent. Now He's Spending Billions to Replace It](https://www.forbes.com/sites/rashishrivastava/2025/08/13/zuckerberg-squandered-his-ai-talent-now-hes-spending-billions-to-replace-it/)
 * [2025-08-22, 07:18:48](https://news.ycombinator.com/item?id=44981802) - [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
 * [2025-08-22, 03:51:44](https://news.ycombinator.com/item?id=44980865) - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
@@ -23,7 +24,6 @@
 * [2025-08-21, 11:52:29](https://news.ycombinator.com/item?id=44971607) - [1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]](https://www.youtube.com/watch?v=jHG_I-9a7FY)
 * [2025-08-21, 10:54:13](https://news.ycombinator.com/item?id=44971212) - [Using Podman, Compose and BuildKit](https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/)
 * [2025-08-21, 08:54:06](https://news.ycombinator.com/item?id=44970563) - [My other email client is a daemon](https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/)
-* [2025-08-20, 01:57:09](https://news.ycombinator.com/item?id=44958004) - [Skill issues – Dialectical Behavior Therapy and its discontents (2024)](https://www.thedriftmag.com/skill-issues/)
 * [2025-08-18, 16:42:53](https://news.ycombinator.com/item?id=44942627) - [Miles from the ocean, there's diving beneath the streets of Budapest](https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave)
 * [2025-08-18, 16:36:10](https://news.ycombinator.com/item?id=44942547) - [Elegant mathematics bending the future of design](https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/)
 * [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)

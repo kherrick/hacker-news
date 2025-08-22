@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
 * [2025-08-22, 10:14:59](https://news.ycombinator.com/item?id=44982748) - [Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?](https://github.com/henrygabriels/FMLLM/blob/main/README.md)
+* [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 08:55:52](https://news.ycombinator.com/item?id=44982304) - [Zuckerberg Squandered His AI Talent. Now He's Spending Billions to Replace It](https://www.forbes.com/sites/rashishrivastava/2025/08/13/zuckerberg-squandered-his-ai-talent-now-hes-spending-billions-to-replace-it/)
 * [2025-08-22, 07:18:48](https://news.ycombinator.com/item?id=44981802) - [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
 * [2025-08-22, 06:30:19](https://news.ycombinator.com/item?id=44981572) - [Nano Banana](https://nanobanana.ai/)
