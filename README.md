@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-22, 06:18:56](https://news.ycombinator.com/item?id=44981525) - [It's Not Wrong that \" \".length == 7](https://hsivonen.fi/string-length/)
 * [2025-08-22, 03:51:44](https://news.ycombinator.com/item?id=44980865) - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 * [2025-08-22, 02:05:53](https://news.ycombinator.com/item?id=44980339) - [Everything Is Correlated](https://gwern.net/everything)
 * [2025-08-22, 00:59:04](https://news.ycombinator.com/item?id=44980004) - [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
@@ -29,7 +30,6 @@
 * [2025-08-18, 15:40:35](https://news.ycombinator.com/item?id=44941847) - [24,000-Watt Scooter Is Going for a 100 MPH Speed Record at Bonneville](https://www.thedrive.com/news/this-24000-watt-scooter-is-going-for-a-100-mph-speed-record-at-bonneville)
 * [2025-08-18, 15:19:05](https://news.ycombinator.com/item?id=44941605) - [An interactive guide to SVG paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
 * [2025-08-18, 15:13:39](https://news.ycombinator.com/item?id=44941546) - [Benchmarks for Golang SQLite Drivers](https://github.com/cvilsmeier/go-sqlite-bench)
-* [2025-08-18, 12:03:12](https://news.ycombinator.com/item?id=44939688) - [Philosophical Thoughts on Kolmogorov-Arnold Networks (2024)](https://kindxiaoming.github.io/blog/2024/kolmogorov-arnold-networks/)
 
 ## [Archives](archives/index.md)
 
