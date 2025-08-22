@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-08-22, 22:06:59",
-      "https://news.ycombinator.com/item?id=44990435"
+      "2025-08-22, 22:41:20",
+      "https://news.ycombinator.com/item?id=44990798"
     ],
     [
-      "If we can find information by asking GenAI, who needs the Web?",
-      "https://cacm.acm.org/opinion/will-ai-destroy-the-world-wide-web/"
+      "Transcribe music in abc with syntax highlighting",
+      "https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597"
+    ]
+  ],
+  [
+    [
+      "2025-08-22, 22:29:28",
+      "https://news.ycombinator.com/item?id=44990680"
+    ],
+    [
+      "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
+      "https://github.com/mbuhot/glyn"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Launch HN: BlankBio (YC S25) - Making RNA Programmable",
       "https://news.ycombinator.com/item?id=44986809"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 16:08:59",
-      "https://news.ycombinator.com/item?id=44986291"
-    ],
-    [
-      "DeepSeek v3.1 is not having a moment",
-      "https://thezvi.wordpress.com/2025/08/22/deepseek-v3-1-is-not-having-a-moment/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-08-21, 20:26:44",
-      "https://news.ycombinator.com/item?id=44977645"
-    ],
-    [
-      "Code formatting comes to uv experimentally",
-      "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/"
-    ]
-  ],
-  [
-    [
       "2025-08-20, 12:10:58",
       "https://news.ycombinator.com/item?id=44961153"
     ],
     [
       "Show HN: Pinch – macOS voice translation for real-time conversations",
       "https://www.startpinch.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 20:25:06",
+      "https://news.ycombinator.com/item?id=44955923"
+    ],
+    [
+      "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent",
+      "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/"
     ]
   ],
   [
