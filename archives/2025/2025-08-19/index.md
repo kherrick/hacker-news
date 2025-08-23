@@ -57,6 +57,7 @@
 * [2025-08-19, 09:38:48](https://news.ycombinator.com/item?id=44949857) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 * [2025-08-19, 08:53:23](https://news.ycombinator.com/item?id=44949617) - [Intel 80286 emulator for Raspberry Pico](https://github.com/xrip/pico-286)
 * [2025-08-19, 07:50:59](https://news.ycombinator.com/item?id=44949264) - [BBC witnesses settlers attack on Palestinian farm in West Bank](https://www.bbc.com/news/articles/cewy88jle0eo)
+* [2025-08-19, 07:41:49](https://news.ycombinator.com/item?id=44949203) - [Embedding Text Documents with Qwen3](https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3)
 * [2025-08-19, 07:33:09](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 04:49:35](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
 * [2025-08-19, 02:00:32](https://news.ycombinator.com/item?id=44947484) - [Writing Micro Compiler in OCaml (2014)](http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/)
