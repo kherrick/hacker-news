@@ -17,6 +17,7 @@
 * [2025-08-20, 18:12:52](https://news.ycombinator.com/item?id=44964548) - [Say farewell to the AI bubble, and get ready for the crash](https://www.latimes.com/business/story/2025-08-20/say-farewell-to-the-ai-bubble-and-get-ready-for-the-crash)
 * [2025-08-20, 17:56:27](https://news.ycombinator.com/item?id=44964366) - [Zed for Windows: What's Taking So Long?](https://zed.dev/blog/windows-progress-report)
 * [2025-08-20, 17:54:22](https://news.ycombinator.com/item?id=44964332) - [Show HN: Bizcardz.ai – Custom metal business cards](https://github.com/rhodey/bizcardz.ai)
+* [2025-08-20, 17:52:00](https://news.ycombinator.com/item?id=44964294) - [The theory and practice of selling the Aga cooker (1935) [pdf]](https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf)
 * [2025-08-20, 17:50:21](https://news.ycombinator.com/item?id=44964266) - [Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links](https://nestable.dev/about)
 * [2025-08-20, 17:24:10](https://news.ycombinator.com/item?id=44963939) - [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
 * [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
