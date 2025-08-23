@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-23](index.md)
 
+* [2025-08-23, 21:51:00](https://news.ycombinator.com/item?id=44999419) - [Actually Good Regulations](https://www.actuallygoodregulations.eu/)
+* [2025-08-23, 21:45:06](https://news.ycombinator.com/item?id=44999373) - [Interruptions cost 23 minutes 15 seconds, right?](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
 * [2025-08-23, 21:40:09](https://news.ycombinator.com/item?id=44999350) - [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
 * [2025-08-23, 21:06:23](https://news.ycombinator.com/item?id=44999138) - [Europe's Free-Speech Problem](https://www.theatlantic.com/ideas/archive/2025/08/europe-free-speech-republicans/683915/)
 * [2025-08-23, 21:00:33](https://news.ycombinator.com/item?id=44999094) - [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
