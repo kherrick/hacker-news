@@ -29,7 +29,7 @@
 * [2025-08-19, 20:25:06](https://news.ycombinator.com/item?id=44955923) - [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)
 * [2025-08-19, 11:39:47](https://news.ycombinator.com/item?id=44950482) - [I run a full Linux desktop in Docker just because I can](https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/)
 * [2025-08-19, 07:41:49](https://news.ycombinator.com/item?id=44949203) - [Embedding Text Documents with Qwen3](https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3)
-* [2025-08-19, 07:35:49](https://news.ycombinator.com/item?id=44949172) - [The world regulated sulfur in ship fuels − and the lightning stopped](https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445)
+* [2025-08-19, 07:35:49](https://news.ycombinator.com/item?id=44949172) - [Lightning declines over shipping lanes following regulation of sulfur emissions](https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445)
 
 ## [Archives](archives/index.md)
 
