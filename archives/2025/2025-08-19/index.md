@@ -15,6 +15,7 @@
 * [2025-08-19, 19:48:38](https://news.ycombinator.com/item?id=44955576) - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
 * [2025-08-19, 19:38:45](https://news.ycombinator.com/item?id=44955459) - [CRDT: Text Buffer by Evan Wallace](https://madebyevan.com/algos/crdt-text-buffer/)
 * [2025-08-19, 19:38:38](https://news.ycombinator.com/item?id=44955457) - [The SSO Wall of Shame – Vendors that treat SSO as luxury feature](https://sso.tax/)
+* [2025-08-19, 19:12:50](https://news.ycombinator.com/item?id=44955159) - [ArduinoOS (2017)](https://github.com/DrBubble/ArduinoOS)
 * [2025-08-19, 18:42:25](https://news.ycombinator.com/item?id=44954823) - [AnduinOS](https://www.anduinos.com/)
 * [2025-08-19, 18:30:57](https://news.ycombinator.com/item?id=44954702) - [Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
 * [2025-08-19, 18:27:34](https://news.ycombinator.com/item?id=44954665) - [Notion Releases Offline Mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
