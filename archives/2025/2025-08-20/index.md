@@ -44,6 +44,7 @@
 * [2025-08-20, 12:13:16](https://news.ycombinator.com/item?id=44961172) - [Sequoia Backs Zed's Vision for Collaborative Coding](https://zed.dev/blog/sequoia-backs-zed)
 * [2025-08-20, 12:10:58](https://news.ycombinator.com/item?id=44961153) - [Show HN: Pinch – macOS voice translation for real-time conversations](https://www.startpinch.com/)
 * [2025-08-20, 12:00:09](https://news.ycombinator.com/item?id=44961054) - [GiveCampus (YC S15) Hiring Rails engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
+* [2025-08-20, 11:08:15](https://news.ycombinator.com/item?id=44960750) - [Shader Academy: Learn computer graphics by solving challenges](https://shaderacademy.com/)
 * [2025-08-20, 10:32:12](https://news.ycombinator.com/item?id=44960594) - [Show HN: Claude Code workflow: PRDs → GitHub Issues → parallel execution](https://github.com/automazeio/ccpm)
 * [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
 * [2025-08-20, 08:15:00](https://news.ycombinator.com/item?id=44959833) - [Mirrorshades, the Cyberpunk Anthology](https://www.rudyrucker.com/mirrorshades/HTML/)

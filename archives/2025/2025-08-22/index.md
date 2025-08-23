@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
 * [2025-08-22, 23:50:13](https://news.ycombinator.com/item?id=44991384) - [70% of Japan smartphone games bypass in-app payment to avoid US tech giants](https://english.kyodonews.net/articles/-/59689)
+* [2025-08-22, 23:16:10](https://news.ycombinator.com/item?id=44991117) - [Why the Internet Is Turning to Shit](https://www.currentaffairs.org/news/why-the-internet-is-turning-to-shit)
 * [2025-08-22, 23:12:59](https://news.ycombinator.com/item?id=44991082) - [Coinbase CEO explains why he fired engineers who didn't try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/)
 * [2025-08-22, 23:09:04](https://news.ycombinator.com/item?id=44991039) - [Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion](https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end)
 * [2025-08-22, 23:02:43](https://news.ycombinator.com/item?id=44990986) - [I don't buy Macs anymore](https://jasonsaidwhat.substack.com/p/the-story-of-why-i-dont-buy-macs)
+* [2025-08-22, 22:51:27](https://news.ycombinator.com/item?id=44990886) - [Bluesky Goes Dark in Mississippi over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
 * [2025-08-22, 22:41:20](https://news.ycombinator.com/item?id=44990798) - [Transcribe music in abc with syntax highlighting](https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597)
 * [2025-08-22, 22:29:28](https://news.ycombinator.com/item?id=44990680) - [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
 * [2025-08-22, 22:18:54](https://news.ycombinator.com/item?id=44990559) - [Tesla Hasn't Filed Crash Reports on Time. Federal Investigators Want to Know Why](https://www.wsj.com/business/autos/tesla-hasnt-filed-crash-reports-on-time-federal-investigators-want-to-know-why-f526045c)
