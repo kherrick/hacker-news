@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-23, 21:40:09](https://news.ycombinator.com/item?id=44999350) - [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
 * [2025-08-23, 21:00:33](https://news.ycombinator.com/item?id=44999094) - [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
 * [2025-08-23, 20:49:06](https://news.ycombinator.com/item?id=44999018) - [The Amiga games and demo scene collection](https://amiga.vision/)
 * [2025-08-23, 20:43:01](https://news.ycombinator.com/item?id=44998982) - [Romhack.ing's Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
@@ -12,7 +13,6 @@
 * [2025-08-23, 11:22:15](https://news.ycombinator.com/item?id=44995147) - [Librebox: An open source, Roblox-compatible game engine](https://github.com/librebox-devs/librebox-demo)
 * [2025-08-23, 10:37:04](https://news.ycombinator.com/item?id=44994935) - [Determinants and causal effects of admission to selective private colleges [pdf] (2023)](https://www.nber.org/system/files/working_papers/w31492/w31492.pdf)
 * [2025-08-23, 10:32:43](https://news.ycombinator.com/item?id=44994918) - [I made a floppy disk from scratch](https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch)
-* [2025-08-23, 09:20:26](https://news.ycombinator.com/item?id=44994590) - [Developer's block](https://underlap.org/developers-block/)
 * [2025-08-23, 07:35:49](https://news.ycombinator.com/item?id=44994071) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 * [2025-08-22, 17:14:56](https://news.ycombinator.com/item?id=44987078) - [Texas Instruments' $60B U.S. project, the next iPhone chips fabric](https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html)
 * [2025-08-22, 16:57:49](https://news.ycombinator.com/item?id=44986875) - [Ergonomic errors in Rust: write fast, debug with ease, handle precisely](https://gmcgoldr.github.io/2025/08/21/stackerror.html)
