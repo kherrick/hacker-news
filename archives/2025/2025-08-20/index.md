@@ -51,6 +51,7 @@
 * [2025-08-20, 10:32:12](https://news.ycombinator.com/item?id=44960594) - [Show HN: Claude Code workflow: PRDs → GitHub Issues → parallel execution](https://github.com/automazeio/ccpm)
 * [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
 * [2025-08-20, 08:15:00](https://news.ycombinator.com/item?id=44959833) - [Mirrorshades, the Cyberpunk Anthology](https://www.rudyrucker.com/mirrorshades/HTML/)
+* [2025-08-20, 06:43:43](https://news.ycombinator.com/item?id=44959292) - [Echidna Enters a New Era of Symbolic Execution](https://gustavo-grieco.github.io/blog/echidna-symexec/)
 * [2025-08-20, 06:06:15](https://news.ycombinator.com/item?id=44959092) - [Databricks is raising a Series K Investment at >$100B valuation](https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation)
 * [2025-08-20, 06:03:03](https://news.ycombinator.com/item?id=44959073) - [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
 * [2025-08-20, 06:02:29](https://news.ycombinator.com/item?id=44959069) - [Vibe Coding Is the Worst Idea of 2025 [video]](https://www.youtube.com/watch?v=1A6uPztchXk)
