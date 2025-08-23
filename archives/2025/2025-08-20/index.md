@@ -8,6 +8,7 @@
 * [2025-08-20, 23:10:37](https://news.ycombinator.com/item?id=44967469) - [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
 * [2025-08-20, 21:47:05](https://news.ycombinator.com/item?id=44966856) - [\"AI first\" and the Bus Factor of 0](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
 * [2025-08-20, 21:00:14](https://news.ycombinator.com/item?id=44966408) - [Coris (YC S22) Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
+* [2025-08-20, 20:42:03](https://news.ycombinator.com/item?id=44966208) - [Game math: precise control over numeric springing](https://allenchou.net/2015/04/game-math-precise-control-over-numeric-springing/)
 * [2025-08-20, 20:37:58](https://news.ycombinator.com/item?id=44966170) - [Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to Bluesky's AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-08-20, 18:59:49](https://news.ycombinator.com/item?id=44965079) - [Show HN: Tool shows UK properties matching group commute/time preferences](https://closemove.com)
