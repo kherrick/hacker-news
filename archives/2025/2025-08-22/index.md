@@ -32,6 +32,7 @@
 * [2025-08-22, 17:41:48](https://news.ycombinator.com/item?id=44987380) - [Away from Gmail, Leaving Gmail for Mailbox.org](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
 * [2025-08-22, 17:38:57](https://news.ycombinator.com/item?id=44987346) - [XSLT removal will break multiple government and regulatory sites](https://github.com/whatwg/html/issues/11582)
 * [2025-08-22, 17:28:55](https://news.ycombinator.com/item?id=44987239) - [Google Did Not Unilaterally Decide to Kill XSLT](https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/)
+* [2025-08-22, 17:14:56](https://news.ycombinator.com/item?id=44987078) - [Texas Instruments' $60B U.S. project, the next iPhone chips fabric](https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html)
 * [2025-08-22, 17:12:53](https://news.ycombinator.com/item?id=44987057) - [Artificial light has essentially lengthened birds' day](https://www.npr.org/2025/08/21/nx-s1-5507165/light-pollution-bird-day-hour-longer)
 * [2025-08-22, 17:02:48](https://news.ycombinator.com/item?id=44986949) - [Waymo granted first permit to begin testing autonomous vehicles in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
 * [2025-08-22, 17:00:04](https://news.ycombinator.com/item?id=44986911) - [Ask HN: How do you find early stage startups to join](https://news.ycombinator.com/item?id=44986911)
