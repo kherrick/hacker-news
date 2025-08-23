@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-08-23, 12:29:02",
+      "https://news.ycombinator.com/item?id=44995508"
+    ],
+    [
+      "Writing Speed-of-Light Flash Attention for 5090 in CUDA C++",
+      "https://gau-nernst.github.io/fa-5090/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 11:39:15",
       "https://news.ycombinator.com/item?id=44995234"
     ],
@@ -127,16 +137,6 @@
     [
       "My tips for using LLM agents to create software",
       "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 22:29:28",
-      "https://news.ycombinator.com/item?id=44990680"
-    ],
-    [
-      "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
-      "https://github.com/mbuhot/glyn"
     ]
   ],
   [
