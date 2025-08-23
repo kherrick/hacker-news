@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-23, 15:21:51](https://news.ycombinator.com/item?id=44996623) - [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
 * [2025-08-23, 14:01:53](https://news.ycombinator.com/item?id=44996058) - [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)
 * [2025-08-23, 12:54:01](https://news.ycombinator.com/item?id=44995640) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 * [2025-08-23, 12:29:02](https://news.ycombinator.com/item?id=44995508) - [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
@@ -16,7 +17,6 @@
 * [2025-08-22, 18:47:30](https://news.ycombinator.com/item?id=44988271) - [Show HN: JavaScript-free (X)HTML Includes](https://github.com/Evidlo/xsl-website)
 * [2025-08-22, 18:24:16](https://news.ycombinator.com/item?id=44987924) - [The first Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 * [2025-08-22, 15:22:42](https://news.ycombinator.com/item?id=44985730) - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
-* [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 04:48:29](https://news.ycombinator.com/item?id=44981088) - [Top Secret: Automatically filter sensitive information](https://thoughtbot.com/blog/top-secret)
 * [2025-08-20, 17:52:00](https://news.ycombinator.com/item?id=44964294) - [The theory and practice of selling the Aga cooker (1935) [pdf]](https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf)
 * [2025-08-20, 13:38:00](https://news.ycombinator.com/item?id=44961853) - [You can't grow cool-climate plants in hot climates](https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates)
