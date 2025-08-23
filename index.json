@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 15:21:51",
+      "https://news.ycombinator.com/item?id=44996623"
+    ],
+    [
+      "Waitgroups: What they are, how to use them and what changed with Go 1.25",
+      "https://mfbmina.dev/en/posts/waitgroups/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 14:01:53",
       "https://news.ycombinator.com/item?id=44996058"
     ],
@@ -157,16 +167,6 @@
     [
       "FFmpeg 8.0",
       "https://ffmpeg.org/index.html#pr8.0"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 09:11:26",
-      "https://news.ycombinator.com/item?id=44982409"
-    ],
-    [
-      "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
-      "https://labplot.org/"
     ]
   ],
   [
