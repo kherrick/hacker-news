@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 03:08:42",
+      "https://news.ycombinator.com/item?id=44992752"
+    ],
+    [
+      "The Evolution of AI Software Engineering",
+      "https://medium.com/commbank-technology/the-evolution-of-ai-software-engineering-75a8a5a02c14"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 02:20:09",
       "https://news.ycombinator.com/item?id=44992446"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-08-23, 00:19:08",
-      "https://news.ycombinator.com/item?id=44991643"
+      "2025-08-23, 00:59:02",
+      "https://news.ycombinator.com/item?id=44991884"
     ],
     [
-      "South Korea deploys hologram police officer",
-      "https://www.scmp.com/week-asia/lifestyle-culture/article/3322654/south-korea-deploys-hologram-police-officer-fight-crime-and-its-working"
+      "My tips for using LLM agents to create software",
+      "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-08-22, 06:18:56",
-      "https://news.ycombinator.com/item?id=44981525"
-    ],
-    [
-      "It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019)",
-      "https://hsivonen.fi/string-length/"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 04:48:29",
       "https://news.ycombinator.com/item?id=44981088"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-08-20, 12:47:06",
+      "https://news.ycombinator.com/item?id=44961443"
+    ],
+    [
+      "Why Is This Hard?",
+      "https://programmersstone.blog/posts/why-is-this-hard/"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 11:08:15",
       "https://news.ycombinator.com/item?id=44960750"
     ],
@@ -277,16 +287,6 @@
     [
       "I Run a Full Linux Desktop in Docker Just Because I Can",
       "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 02:00:32",
-      "https://news.ycombinator.com/item?id=44947484"
-    ],
-    [
-      "Writing Micro Compiler in OCaml (2014)",
-      "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/"
     ]
   ],
   [
