@@ -44,6 +44,7 @@
 * [2025-08-22, 16:08:59](https://news.ycombinator.com/item?id=44986291) - [DeepSeek v3.1 is not having a moment](https://thezvi.wordpress.com/2025/08/22/deepseek-v3-1-is-not-having-a-moment/)
 * [2025-08-22, 16:06:15](https://news.ycombinator.com/item?id=44986251) - [Closing the Nix Gap: From Environments to Packaged Applications for Rust](https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/)
 * [2025-08-22, 16:03:26](https://news.ycombinator.com/item?id=44986205) - [Show HN: Clyp – Clipboard Manager for Linux](https://github.com/murat-cileli/clyp)
+* [2025-08-22, 15:54:44](https://news.ycombinator.com/item?id=44986098) - [Hacker and physicist – a tale of \"common sense\"](https://www.supasaf.com/blog/general/hacker_physicist)
 * [2025-08-22, 15:52:56](https://news.ycombinator.com/item?id=44986087) - [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
 * [2025-08-22, 15:46:58](https://news.ycombinator.com/item?id=44986013) - [Vibe Debugging: Enterprises' Up and Coming Nightmare](https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and)
 * [2025-08-22, 15:22:42](https://news.ycombinator.com/item?id=44985730) - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
