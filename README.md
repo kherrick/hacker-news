@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-23, 16:22:09](https://news.ycombinator.com/item?id=44997011) - [Europe's crusade against air conditioning is insane](https://www.noahpinion.blog/p/europes-crusade-against-air-conditioning)
+* [2025-08-23, 17:00:14](https://news.ycombinator.com/item?id=44997289) - [Bild AI (YC W25) Is Hiring Applied AI Founding Engineer](https://www.workatastartup.com/jobs/75647)
 * [2025-08-23, 16:03:13](https://news.ycombinator.com/item?id=44996892) - [Building A16Z's Personal AI Workstation](https://a16z.com/building-a16zs-personal-ai-workstation-with-four-nvidia-rtx-6000-pro-blackwell-max-q-gpus/)
 * [2025-08-23, 15:21:51](https://news.ycombinator.com/item?id=44996623) - [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
 * [2025-08-23, 15:14:39](https://news.ycombinator.com/item?id=44996571) - [Robots can now learn to use tools just by watching us](https://techxplore.com/news/2025-08-robots-tools.html)
