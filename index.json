@@ -41,26 +41,6 @@
   ],
   [
     [
-      "2025-08-23, 15:21:51",
-      "https://news.ycombinator.com/item?id=44996623"
-    ],
-    [
-      "Waitgroups: What they are, how to use them and what changed with Go 1.25",
-      "https://mfbmina.dev/en/posts/waitgroups/"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 15:10:03",
-      "https://news.ycombinator.com/item?id=44996548"
-    ],
-    [
-      "The JWST Rocky Worlds DDT Program reveals GJ 3929B to likely be a bare rock",
-      "https://arxiv.org/abs/2508.12516"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 12:54:01",
       "https://news.ycombinator.com/item?id=44995640"
     ],
@@ -137,16 +117,6 @@
     [
       "Manim: Animation engine for explanatory math videos",
       "https://github.com/3b1b/manim"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 00:59:02",
-      "https://news.ycombinator.com/item?id=44991884"
-    ],
-    [
-      "My experience creating software with LLM coding agents – Part 2 (Tips)",
-      "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html"
     ]
   ],
   [
@@ -241,12 +211,42 @@
   ],
   [
     [
+      "2025-08-20, 14:03:51",
+      "https://news.ycombinator.com/item?id=44962077"
+    ],
+    [
+      "Children of the Geissler Tube",
+      "https://www.hopefulmons.com/p/children-of-the-geissler-tube"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 11:08:15",
       "https://news.ycombinator.com/item?id=44960750"
     ],
     [
       "Shader Academy: Learn computer graphics by solving challenges",
       "https://shaderacademy.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 11:00:14",
+      "https://news.ycombinator.com/item?id=44960718"
+    ],
+    [
+      "Acronis True Image costs performance when not used",
+      "https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 21:11:31",
+      "https://news.ycombinator.com/item?id=44956297"
+    ],
+    [
+      "A simple way to generate random points on a sphere",
+      "https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/"
     ]
   ],
   [
