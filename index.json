@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 16:03:13",
+      "https://news.ycombinator.com/item?id=44996892"
+    ],
+    [
+      "Building A16Z's Personal AI Workstation",
+      "https://a16z.com/building-a16zs-personal-ai-workstation-with-four-nvidia-rtx-6000-pro-blackwell-max-q-gpus/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 15:21:51",
       "https://news.ycombinator.com/item?id=44996623"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-08-23, 05:09:11",
-      "https://news.ycombinator.com/item?id=44993353"
-    ],
-    [
-      "Websites and web developers mostly don't care about client-side problems",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 00:59:02",
       "https://news.ycombinator.com/item?id=44991884"
     ],
@@ -167,16 +167,6 @@
     [
       "FFmpeg 8.0",
       "https://ffmpeg.org/index.html#pr8.0"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 04:48:29",
-      "https://news.ycombinator.com/item?id=44981088"
-    ],
-    [
-      "Top Secret: Automatically filter sensitive information",
-      "https://thoughtbot.com/blog/top-secret"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "ArduinoOS (2017)",
       "https://github.com/DrBubble/ArduinoOS"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 18:51:42",
+      "https://news.ycombinator.com/item?id=44954913"
+    ],
+    [
+      "I Hacked McDonald's (Security Contact Was Harder to Find Than Secret Recipe)",
+      "https://bobdahacker.com/blog/mcdonalds-security-vulnerabilities"
     ]
   ],
   [
