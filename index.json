@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 12:54:01",
+      "https://news.ycombinator.com/item?id=44995640"
+    ],
+    [
+      "RFC 9839 and Bad Unicode",
+      "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 11:39:15",
       "https://news.ycombinator.com/item?id=44995234"
     ],
@@ -17,6 +27,16 @@
     [
       "Self-driving cars begin testing on NYC streets",
       "https://www.amny.com/nyc-transit/self-driving-cars-nyc-first-permit-waymo/"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 11:22:15",
+      "https://news.ycombinator.com/item?id=44995147"
+    ],
+    [
+      "Librebox: An open source, Roblox-compatible game engine",
+      "https://github.com/librebox-devs/librebox-demo"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-08-22, 23:02:05",
-      "https://news.ycombinator.com/item?id=44990981"
-    ],
-    [
-      "The use of LLM assistants for kernel development",
-      "https://lwn.net/Articles/1032612/"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 22:29:28",
       "https://news.ycombinator.com/item?id=44990680"
     ],
@@ -177,16 +187,6 @@
     [
       "FFmpeg 8.0",
       "https://ffmpeg.org/index.html#pr8.0"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 09:11:26",
-      "https://news.ycombinator.com/item?id=44982409"
-    ],
-    [
-      "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
-      "https://labplot.org/"
     ]
   ],
   [
