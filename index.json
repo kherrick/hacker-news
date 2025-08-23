@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 00:19:08",
+      "https://news.ycombinator.com/item?id=44991643"
+    ],
+    [
+      "South Korea deploys hologram police officer to fight crime – and it's working",
+      "https://www.scmp.com/week-asia/lifestyle-culture/article/3322654/south-korea-deploys-hologram-police-officer-fight-crime-and-its-working"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 00:04:56",
       "https://news.ycombinator.com/item?id=44991542"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-08-22, 23:16:10",
+      "https://news.ycombinator.com/item?id=44991117"
+    ],
+    [
+      "Why the Internet Is Turning to Shit",
+      "https://www.currentaffairs.org/news/why-the-internet-is-turning-to-shit"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 23:09:04",
       "https://news.ycombinator.com/item?id=44991039"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2025-08-22, 23:02:43",
-      "https://news.ycombinator.com/item?id=44990986"
+      "2025-08-22, 22:51:27",
+      "https://news.ycombinator.com/item?id=44990886"
     ],
     [
-      "I don't buy Macs anymore",
-      "https://jasonsaidwhat.substack.com/p/the-story-of-why-i-dont-buy-macs"
+      "Bluesky Goes Dark in Mississippi over Age Verification Law",
+      "https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "U.S. government takes 10% stake in Intel",
       "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 20:00:10",
-      "https://news.ycombinator.com/item?id=44989125"
-    ],
-    [
-      "Our Response to Mississippi's Age Assurance Law",
-      "https://bsky.social/about/blog/08-22-2025-mississippi-hb1126"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Closing the Nix gap: From environments to packaged applications for rust",
       "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 16:03:26",
-      "https://news.ycombinator.com/item?id=44986205"
-    ],
-    [
-      "Show HN: Clyp – Clipboard Manager for Linux",
-      "https://github.com/murat-cileli/clyp"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-08-22, 00:59:04",
-      "https://news.ycombinator.com/item?id=44980004"
+      "2025-08-20, 11:08:15",
+      "https://news.ycombinator.com/item?id=44960750"
     ],
     [
-      "Control shopping cart wheels with your phone (2021)",
-      "https://www.begaydocrime.com/"
+      "Shader Academy: Learn computer graphics by solving challenges",
+      "https://shaderacademy.com/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-19, 02:00:32",
-      "https://news.ycombinator.com/item?id=44947484"
+      "2025-08-18, 14:30:28",
+      "https://news.ycombinator.com/item?id=44941056"
     ],
     [
-      "Writing Micro Compiler in OCaml (2014)",
-      "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/"
+      "VHS-C: When a lazy idea stumbles towards perfection [video]",
+      "https://www.youtube.com/watch?v=HFYWHeBhYbM"
     ]
   ]
 ]
