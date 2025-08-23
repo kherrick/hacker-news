@@ -9,6 +9,7 @@
 * [2025-08-19, 22:17:38](https://news.ycombinator.com/item?id=44956774) - [How to Scale Your Model: How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 * [2025-08-19, 22:11:29](https://news.ycombinator.com/item?id=44956730) - [The Forgotten Meaning of \"Jerk.\"](https://languagehat.com/the-forgotten-meaning-of-jerk/)
 * [2025-08-19, 21:48:30](https://news.ycombinator.com/item?id=44956581) - [Drunken Bishop (2023)](https://re.factorcode.org/2023/08/drunken-bishop.html)
+* [2025-08-19, 21:11:31](https://news.ycombinator.com/item?id=44956297) - [A simple way to generate random points on a sphere](https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/)
 * [2025-08-19, 20:45:14](https://news.ycombinator.com/item?id=44956098) - [Stop Paywalling SSO: It Is a Basic Right, Not an Enterprise Perk](https://oneuptime.com/blog/post/2025-08-19-sso-is-a-security-basic-not-an-enterprise-perk/view)
 * [2025-08-19, 20:25:06](https://news.ycombinator.com/item?id=44955923) - [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)
 * [2025-08-19, 19:53:51](https://news.ycombinator.com/item?id=44955624) - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
