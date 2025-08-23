@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-08-23](index.md)
+
+* [2025-08-23, 00:04:56](https://news.ycombinator.com/item?id=44991542) - [Computer Fraud Laws Used to Prosecute Leaking Air Crash Footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)

@@ -30,6 +30,7 @@
 * [2025-08-19, 15:55:15](https://news.ycombinator.com/item?id=44953032) - [How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
 * [2025-08-19, 15:34:55](https://news.ycombinator.com/item?id=44952789) - [The Mysterious Underground City Found in a Man's Basement](https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps)
 * [2025-08-19, 15:25:42](https://news.ycombinator.com/item?id=44952672) - [As Alaska's salmon plummet, scientists home in on the killer – Science – AAAS](https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer)
+* [2025-08-19, 15:18:18](https://news.ycombinator.com/item?id=44952572) - [What Happened to Egghead Software](https://dfarq.homeip.net/what-happened-to-egghead-software/)
 * [2025-08-19, 15:13:15](https://news.ycombinator.com/item?id=44952496) - [Giving people money helped less than I thought it would](https://www.theargumentmag.com/p/giving-people-money-helped-less-than)
 * [2025-08-19, 14:53:11](https://news.ycombinator.com/item?id=44952246) - [Launch HN: Parachute (YC S25) – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
 * [2025-08-19, 14:52:35](https://news.ycombinator.com/item?id=44952240) - [Google President Praised MAGA Speech Slamming 'Climate Extremist Agenda'](https://www.desmog.com/2025/08/19/google-president-praised-maga-speech-slamming-climate-extremist-agenda/)
