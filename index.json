@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-23, 17:15:24",
+      "https://news.ycombinator.com/item?id=44997435"
+    ],
+    [
+      "RFK Jr demanded a vaccine study be retracted – the journal said no",
+      "https://www.nature.com/articles/d41586-025-02682-9"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 17:00:14",
       "https://news.ycombinator.com/item?id=44997289"
     ],
     [
       "Bild AI (YC W25) Is Hiring Applied AI Founding Engineer",
       "https://www.workatastartup.com/jobs/75647"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 16:49:52",
+      "https://news.ycombinator.com/item?id=44997194"
+    ],
+    [
+      "Libre – An anonymous social experiment without likes, followers, or ads",
+      "https://libreantisocial.com"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2025-08-23, 15:14:39",
-      "https://news.ycombinator.com/item?id=44996571"
+      "2025-08-23, 15:10:03",
+      "https://news.ycombinator.com/item?id=44996548"
     ],
     [
-      "Robots can now learn to use tools just by watching us",
-      "https://techxplore.com/news/2025-08-robots-tools.html"
+      "The JWST Rocky Worlds DDT Program reveals GJ 3929B to likely be a bare rock",
+      "https://arxiv.org/abs/2508.12516"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Librebox: An open source, Roblox-compatible game engine",
       "https://github.com/librebox-devs/librebox-demo"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 10:37:04",
+      "https://news.ycombinator.com/item?id=44994935"
+    ],
+    [
+      "Determinants and causal effects of admission to selective private colleges [pdf]",
+      "https://www.nber.org/system/files/working_papers/w31492/w31492.pdf"
     ]
   ],
   [
@@ -115,7 +145,7 @@
       "https://news.ycombinator.com/item?id=44991884"
     ],
     [
-      "My tips for using LLM agents to create software",
+      "My experience creating software with LLM coding agents – Part 2 (Tips)",
       "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html"
     ]
   ],
@@ -157,16 +187,6 @@
     [
       "FFmpeg 8.0",
       "https://ffmpeg.org/index.html#pr8.0"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 04:48:29",
-      "https://news.ycombinator.com/item?id=44981088"
-    ],
-    [
-      "Top Secret: Automatically filter sensitive information",
-      "https://thoughtbot.com/blog/top-secret"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-08-19, 20:25:06",
-      "https://news.ycombinator.com/item?id=44955923"
-    ],
-    [
-      "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent",
-      "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/"
-    ]
-  ],
-  [
-    [
       "2025-08-19, 15:43:37",
       "https://news.ycombinator.com/item?id=44952895"
     ],
@@ -277,16 +287,6 @@
     [
       "WebR – R in the Browser",
       "https://docs.r-wasm.org/webr/latest/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 11:39:47",
-      "https://news.ycombinator.com/item?id=44950482"
-    ],
-    [
-      "I run a full Linux desktop in Docker just because I can",
-      "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/"
     ]
   ],
   [
