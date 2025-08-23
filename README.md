@@ -1,12 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-23, 04:05:30](https://news.ycombinator.com/item?id=44993042) - [Developer gets 4 years for activating network \"kill switch\" to avenge his firing](https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/)
+* [2025-08-23, 03:39:37](https://news.ycombinator.com/item?id=44992930) - [A visual history of Visual C++ (2017)](http://www.malsmith.net/blog/visual-c-visual-history/)
 * [2025-08-23, 03:22:33](https://news.ycombinator.com/item?id=44992832) - [Google says it dropped the energy cost of AI queries by 33x in one year](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
 * [2025-08-23, 02:20:09](https://news.ycombinator.com/item?id=44992446) - [Japan city drafts ordinance to cap smartphone use at 2 hours per day](https://english.kyodonews.net/articles/-/59582)
+* [2025-08-23, 01:41:27](https://news.ycombinator.com/item?id=44992186) - [Show HN: Creao – Vibe coding product for founders](https://creao.ai/)
 * [2025-08-23, 00:59:02](https://news.ycombinator.com/item?id=44991884) - [My tips for using LLM agents to create software](https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html)
 * [2025-08-23, 00:04:56](https://news.ycombinator.com/item?id=44991542) - [Computer fraud laws used to prosecute leaking air crash footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)
 * [2025-08-22, 23:50:13](https://news.ycombinator.com/item?id=44991384) - [Popular Japanese smartphone games have introduced external payment systems](https://english.kyodonews.net/articles/-/59689)
 * [2025-08-22, 23:09:04](https://news.ycombinator.com/item?id=44991039) - [Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion](https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end)
+* [2025-08-22, 23:02:05](https://news.ycombinator.com/item?id=44990981) - [The use of LLM assistants for kernel development](https://lwn.net/Articles/1032612/)
 * [2025-08-22, 22:51:27](https://news.ycombinator.com/item?id=44990886) - [Bluesky Goes Dark in Mississippi over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
 * [2025-08-22, 22:41:20](https://news.ycombinator.com/item?id=44990798) - [Transcribe music in abc with syntax highlighting](https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597)
 * [2025-08-22, 22:29:28](https://news.ycombinator.com/item?id=44990680) - [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
@@ -14,7 +17,6 @@
 * [2025-08-22, 19:06:29](https://news.ycombinator.com/item?id=44988530) - [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
 * [2025-08-22, 18:47:30](https://news.ycombinator.com/item?id=44988271) - [Show HN: JavaScript-free (X)HTML Includes](https://github.com/Evidlo/xsl-website)
 * [2025-08-22, 18:24:16](https://news.ycombinator.com/item?id=44987924) - [The first Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
-* [2025-08-22, 17:56:12](https://news.ycombinator.com/item?id=44987552) - [Should the web platform adopt XSLT 3.0?](https://github.com/whatwg/html/issues/11578)
 * [2025-08-22, 17:41:48](https://news.ycombinator.com/item?id=44987380) - [Leaving Gmail for Mailbox.org](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
 * [2025-08-22, 16:53:30](https://news.ycombinator.com/item?id=44986809) - [Launch HN: BlankBio (YC S25) - Making RNA Programmable](https://news.ycombinator.com/item?id=44986809)
 * [2025-08-22, 16:06:15](https://news.ycombinator.com/item?id=44986251) - [Closing the Nix gap: From environments to packaged applications for rust](https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/)
@@ -27,9 +29,7 @@
 * [2025-08-20, 12:47:06](https://news.ycombinator.com/item?id=44961443) - [Why is this hard?](https://programmersstone.blog/posts/why-is-this-hard/)
 * [2025-08-20, 11:08:15](https://news.ycombinator.com/item?id=44960750) - [Shader Academy: Learn computer graphics by solving challenges](https://shaderacademy.com/)
 * [2025-08-19, 20:25:06](https://news.ycombinator.com/item?id=44955923) - [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)
-* [2025-08-19, 15:18:18](https://news.ycombinator.com/item?id=44952572) - [What Happened to Egghead Software](https://dfarq.homeip.net/what-happened-to-egghead-software/)
 * [2025-08-19, 11:39:47](https://news.ycombinator.com/item?id=44950482) - [I Run a Full Linux Desktop in Docker Just Because I Can](https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/)
-* [2025-08-18, 14:30:28](https://news.ycombinator.com/item?id=44941056) - [VHS-C: When a lazy idea stumbles towards perfection [video]](https://www.youtube.com/watch?v=HFYWHeBhYbM)
 
 ## [Archives](archives/index.md)
 
