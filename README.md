@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-23, 18:38:48](https://news.ycombinator.com/item?id=44998075) - [The F-35 is losing the trade war](https://www.jalopnik.com/1945910/f-35-fighter-jet-losing-trade-war/)
 * [2025-08-23, 17:00:14](https://news.ycombinator.com/item?id=44997289) - [Bild AI (YC W25) Is Hiring an Applied AI Engineer](https://www.workatastartup.com/jobs/75647)
 * [2025-08-23, 16:49:52](https://news.ycombinator.com/item?id=44997194) - [Libre – An anonymous social experiment without likes, followers, or ads](https://libreantisocial.com)
 * [2025-08-23, 16:42:18](https://news.ycombinator.com/item?id=44997145) - [I hacked Monster Energy](https://bobdahacker.com/blog/monster-energy)
@@ -21,6 +20,7 @@
 * [2025-08-21, 19:25:58](https://news.ycombinator.com/item?id=44976957) - [Exploring EXIF (2023)](https://hturan.com/writing/exploring-exif)
 * [2025-08-21, 19:04:50](https://news.ycombinator.com/item?id=44976747) - [Reserve First](https://matklad.github.io/2025/08/16/reserve-first.html)
 * [2025-08-21, 11:30:59](https://news.ycombinator.com/item?id=44971451) - [Stepanov's biggest blunder? The curious case of adjacent difference](https://mmapped.blog/posts/43-stepanovs-biggest-blunder)
+* [2025-08-20, 21:14:12](https://news.ycombinator.com/item?id=44966543) - [Recreationally overengineering my location history](https://overengineer.dev/blog/2025/08/19/overengineering-location-history/)
 * [2025-08-20, 14:03:51](https://news.ycombinator.com/item?id=44962077) - [Children of the Geissler Tube](https://www.hopefulmons.com/p/children-of-the-geissler-tube)
 * [2025-08-20, 11:00:14](https://news.ycombinator.com/item?id=44960718) - [Acronis True Image costs performance when not used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
 * [2025-08-20, 03:52:39](https://news.ycombinator.com/item?id=44958492) - [The Fancy Rug Dilemma](https://epan.land/essays/2025-8_FancyRugDilemma)
