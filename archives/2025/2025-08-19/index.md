@@ -37,6 +37,7 @@
 * [2025-08-19, 14:52:35](https://news.ycombinator.com/item?id=44952240) - [Google President Praised MAGA Speech Slamming 'Climate Extremist Agenda'](https://www.desmog.com/2025/08/19/google-president-praised-maga-speech-slamming-climate-extremist-agenda/)
 * [2025-08-19, 14:51:39](https://news.ycombinator.com/item?id=44952225) - [Ask HN: Have any successful startups been made by 'vibe coding'?](https://news.ycombinator.com/item?id=44952225)
 * [2025-08-19, 14:48:54](https://news.ycombinator.com/item?id=44952185) - [Chrome intends to remove XSLT from the HTML spec](https://github.com/whatwg/html/pull/11563)
+* [2025-08-19, 14:36:10](https://news.ycombinator.com/item?id=44952018) - [WebR – R in the Browser](https://docs.r-wasm.org/webr/latest/)
 * [2025-08-19, 14:24:31](https://news.ycombinator.com/item?id=44951911) - [End well, this won't: UK commissioner suggests govt stops kids from using VPNs](https://www.theregister.com/2025/08/19/uk_commissioner_suggests_govt_stop/)
 * [2025-08-19, 14:20:25](https://news.ycombinator.com/item?id=44951862) - [Positron, a New Data Science IDE](https://posit.co/blog/positron-product-announcement-aug-2025/)
 * [2025-08-19, 14:14:44](https://news.ycombinator.com/item?id=44951799) - [Why I'm all-in on Zen Browser](https://werd.io/why-im-all-in-on-zen-browser/)

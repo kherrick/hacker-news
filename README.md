@@ -10,7 +10,6 @@
 * [2025-08-23, 03:22:33](https://news.ycombinator.com/item?id=44992832) - [Measuring the environmental impact of AI inference](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
 * [2025-08-23, 00:59:02](https://news.ycombinator.com/item?id=44991884) - [My tips for using LLM agents to create software](https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html)
 * [2025-08-23, 00:04:56](https://news.ycombinator.com/item?id=44991542) - [Computer fraud laws used to prosecute leaking air crash footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)
-* [2025-08-22, 23:50:13](https://news.ycombinator.com/item?id=44991384) - [Popular Japanese smartphone games have introduced external payment systems](https://english.kyodonews.net/articles/-/59689)
 * [2025-08-22, 23:02:05](https://news.ycombinator.com/item?id=44990981) - [The use of LLM assistants for kernel development](https://lwn.net/Articles/1032612/)
 * [2025-08-22, 22:51:27](https://news.ycombinator.com/item?id=44990886) - [Bluesky Goes Dark in Mississippi over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
 * [2025-08-22, 22:29:28](https://news.ycombinator.com/item?id=44990680) - [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
@@ -28,6 +27,7 @@
 * [2025-08-20, 03:52:39](https://news.ycombinator.com/item?id=44958492) - [The Fancy Rug Dilemma](https://epan.land/essays/2025-8_FancyRugDilemma)
 * [2025-08-19, 20:25:06](https://news.ycombinator.com/item?id=44955923) - [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)
 * [2025-08-19, 15:27:33](https://news.ycombinator.com/item?id=44952696) - [David Klein's TWA Posters (2018)](https://flashbak.com/david-kleins-magnificent-twa-posters-404428/)
+* [2025-08-19, 14:36:10](https://news.ycombinator.com/item?id=44952018) - [WebR – R in the Browser](https://docs.r-wasm.org/webr/latest/)
 * [2025-08-19, 11:39:47](https://news.ycombinator.com/item?id=44950482) - [I run a full Linux desktop in Docker just because I can](https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/)
 * [2025-08-19, 07:35:49](https://news.ycombinator.com/item?id=44949172) - [Lightning declines over shipping lanes following regulation of sulfur emissions](https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445)
 
