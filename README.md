@@ -2,7 +2,6 @@
 
 * [2025-08-23, 09:20:26](https://news.ycombinator.com/item?id=44994590) - [Developer's Block](https://underlap.org/developers-block/)
 * [2025-08-23, 09:18:46](https://news.ycombinator.com/item?id=44994587) - [Building a Computer in the 90s (2019)](https://dfarq.homeip.net/building-a-computer-in-the-90s/)
-* [2025-08-23, 09:02:49](https://news.ycombinator.com/item?id=44994515) - [Asking three LLMs a simple question](https://sethops1.net/post/asking-three-llms-a-simple-question/)
 * [2025-08-23, 08:04:29](https://news.ycombinator.com/item?id=44994217) - [California teens are ditching office jobs – and making $100K before they turn 21](https://www.sfgate.com/bayarea/article/young-adults-changing-career-paths-ai-20824566.php)
 * [2025-08-23, 07:40:44](https://news.ycombinator.com/item?id=44994090) - [World Wide Lightning Location Network](https://wwlln.net/)
 * [2025-08-23, 07:35:49](https://news.ycombinator.com/item?id=44994071) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
@@ -12,6 +11,7 @@
 * [2025-08-23, 03:22:33](https://news.ycombinator.com/item?id=44992832) - [Measuring the environmental impact of AI inference](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
 * [2025-08-23, 00:59:02](https://news.ycombinator.com/item?id=44991884) - [My tips for using LLM agents to create software](https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html)
 * [2025-08-23, 00:04:56](https://news.ycombinator.com/item?id=44991542) - [Computer fraud laws used to prosecute leaking air crash footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)
+* [2025-08-22, 23:50:13](https://news.ycombinator.com/item?id=44991384) - [Popular Japanese smartphone games have introduced external payment systems](https://english.kyodonews.net/articles/-/59689)
 * [2025-08-22, 23:02:05](https://news.ycombinator.com/item?id=44990981) - [The use of LLM assistants for kernel development](https://lwn.net/Articles/1032612/)
 * [2025-08-22, 22:51:27](https://news.ycombinator.com/item?id=44990886) - [Bluesky Goes Dark in Mississippi over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
 * [2025-08-22, 22:29:28](https://news.ycombinator.com/item?id=44990680) - [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
@@ -19,6 +19,7 @@
 * [2025-08-22, 18:47:30](https://news.ycombinator.com/item?id=44988271) - [Show HN: JavaScript-free (X)HTML Includes](https://github.com/Evidlo/xsl-website)
 * [2025-08-22, 18:24:16](https://news.ycombinator.com/item?id=44987924) - [The first Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 * [2025-08-22, 17:41:48](https://news.ycombinator.com/item?id=44987380) - [Leaving Gmail for Mailbox.org](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
+* [2025-08-22, 16:53:30](https://news.ycombinator.com/item?id=44986809) - [Launch HN: BlankBio (YC S25) – Making RNA Programmable](https://news.ycombinator.com/item?id=44986809)
 * [2025-08-22, 15:22:42](https://news.ycombinator.com/item?id=44985730) - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
 * [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 04:48:29](https://news.ycombinator.com/item?id=44981088) - [Top Secret: Automatically filter sensitive information](https://thoughtbot.com/blog/top-secret)
@@ -28,7 +29,6 @@
 * [2025-08-19, 20:25:06](https://news.ycombinator.com/item?id=44955923) - [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)
 * [2025-08-19, 15:27:33](https://news.ycombinator.com/item?id=44952696) - [David Klein's TWA Posters (2018)](https://flashbak.com/david-kleins-magnificent-twa-posters-404428/)
 * [2025-08-19, 11:39:47](https://news.ycombinator.com/item?id=44950482) - [I run a full Linux desktop in Docker just because I can](https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/)
-* [2025-08-19, 07:41:49](https://news.ycombinator.com/item?id=44949203) - [Embedding Text Documents with Qwen3](https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3)
 * [2025-08-19, 07:35:49](https://news.ycombinator.com/item?id=44949172) - [Lightning declines over shipping lanes following regulation of sulfur emissions](https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445)
 
 ## [Archives](archives/index.md)
