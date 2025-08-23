@@ -58,6 +58,7 @@
 * [2025-08-20, 04:27:29](https://news.ycombinator.com/item?id=44958621) - [China blocked all HTTPS connection abroad for 1 hour in midnight](https://gfw.report/blog/gfw_unconditional_rst_20250820/en/)
 * [2025-08-20, 04:04:20](https://news.ycombinator.com/item?id=44958543) - [Show HN: Hanaco Weather – A poetic weather SNS from the OS Yamato project](https://github.com/osyamato/os-yamato)
 * [2025-08-20, 03:55:53](https://news.ycombinator.com/item?id=44958506) - [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)
+* [2025-08-20, 03:52:39](https://news.ycombinator.com/item?id=44958492) - [The Fancy Rug Dilemma](https://epan.land/essays/2025-8_FancyRugDilemma)
 * [2025-08-20, 03:43:20](https://news.ycombinator.com/item?id=44958452) - [The Troubling Lines That Columbia Is Drawing](https://www.newyorker.com/news/the-lede/the-troubling-lines-that-columbia-is-drawing)
 * [2025-08-20, 03:35:20](https://news.ycombinator.com/item?id=44958421) - [Monoid-Augmented FIFOs, Deamortised](https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/)
 * [2025-08-20, 03:30:06](https://news.ycombinator.com/item?id=44958400) - [Modern CI Is Too Complex and Misdirected](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
