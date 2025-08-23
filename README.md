@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-23, 21:00:33](https://news.ycombinator.com/item?id=44999094) - [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2025-08-23, 19:35:31](https://news.ycombinator.com/item?id=44998514) - [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
 * [2025-08-23, 19:10:32](https://news.ycombinator.com/item?id=44998316) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 * [2025-08-23, 19:07:42](https://news.ycombinator.com/item?id=44998295) - [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
-* [2025-08-23, 17:00:14](https://news.ycombinator.com/item?id=44997289) - [Bild AI (YC W25) Is Hiring an Applied AI Engineer](https://www.workatastartup.com/jobs/75647)
 * [2025-08-23, 16:09:21](https://news.ycombinator.com/item?id=44996938) - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-23, 12:54:01](https://news.ycombinator.com/item?id=44995640) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 * [2025-08-23, 12:29:02](https://news.ycombinator.com/item?id=44995508) - [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
