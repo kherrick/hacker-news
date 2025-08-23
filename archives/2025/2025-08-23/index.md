@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-23](index.md)
 
+* [2025-08-23, 11:39:15](https://news.ycombinator.com/item?id=44995234) - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 * [2025-08-23, 11:25:31](https://news.ycombinator.com/item?id=44995168) - [Self-driving cars begin testing on NYC streets](https://www.amny.com/nyc-transit/self-driving-cars-nyc-first-permit-waymo/)
 * [2025-08-23, 10:32:43](https://news.ycombinator.com/item?id=44994918) - [I Made a Floppy Disk from Scratch](https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch)
 * [2025-08-23, 09:20:26](https://news.ycombinator.com/item?id=44994590) - [Developer's Block](https://underlap.org/developers-block/)
