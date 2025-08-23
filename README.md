@@ -15,7 +15,6 @@
 * [2025-08-23, 11:22:15](https://news.ycombinator.com/item?id=44995147) - [Librebox: An open source, Roblox-compatible game engine](https://github.com/librebox-devs/librebox-demo)
 * [2025-08-23, 10:37:04](https://news.ycombinator.com/item?id=44994935) - [Determinants and causal effects of admission to selective private colleges [pdf] (2023)](https://www.nber.org/system/files/working_papers/w31492/w31492.pdf)
 * [2025-08-23, 10:32:43](https://news.ycombinator.com/item?id=44994918) - [I made a floppy disk from scratch](https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch)
-* [2025-08-23, 09:20:26](https://news.ycombinator.com/item?id=44994590) - [Developer's block](https://underlap.org/developers-block/)
 * [2025-08-23, 07:35:49](https://news.ycombinator.com/item?id=44994071) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 * [2025-08-22, 16:57:49](https://news.ycombinator.com/item?id=44986875) - [Ergonomic errors in Rust: write fast, debug with ease, handle precisely](https://gmcgoldr.github.io/2025/08/21/stackerror.html)
 * [2025-08-22, 15:54:44](https://news.ycombinator.com/item?id=44986098) - [Hacker and physicist – a tale of \"common sense\"](https://www.supasaf.com/blog/general/hacker_physicist)
@@ -28,6 +27,7 @@
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
 * [2025-08-20, 14:03:51](https://news.ycombinator.com/item?id=44962077) - [Children of the Geissler Tube](https://www.hopefulmons.com/p/children-of-the-geissler-tube)
 * [2025-08-20, 11:00:14](https://news.ycombinator.com/item?id=44960718) - [Acronis True Image costs performance when not used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
+* [2025-08-19, 19:51:40](https://news.ycombinator.com/item?id=44955612) - [Practical approach for streaming UI from LLMs](https://www.timetler.com/2025/08/19/unlocking-rich-ui-components-in-ai/)
 * [2025-08-19, 15:43:37](https://news.ycombinator.com/item?id=44952895) - [450× Faster Joins with Index Condition Pushdown](https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown)
 * [2025-08-19, 14:36:10](https://news.ycombinator.com/item?id=44952018) - [WebR – R in the Browser](https://docs.r-wasm.org/webr/latest/)
 
