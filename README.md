@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-23, 17:00:14](https://news.ycombinator.com/item?id=44997289) - [Bild AI (YC W25) Is Hiring Applied AI Founding Engineer](https://www.workatastartup.com/jobs/75647)
-* [2025-08-23, 16:42:18](https://news.ycombinator.com/item?id=44997145) - [I Hacked Monster Energy and You Won't Believe What They Think You Look Like](https://bobdahacker.com/blog/monster-energy)
 * [2025-08-23, 15:21:51](https://news.ycombinator.com/item?id=44996623) - [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
 * [2025-08-23, 15:14:39](https://news.ycombinator.com/item?id=44996571) - [Robots can now learn to use tools just by watching us](https://techxplore.com/news/2025-08-robots-tools.html)
 * [2025-08-23, 12:54:01](https://news.ycombinator.com/item?id=44995640) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
@@ -17,6 +16,7 @@
 * [2025-08-22, 18:47:30](https://news.ycombinator.com/item?id=44988271) - [Show HN: JavaScript-free (X)HTML Includes](https://github.com/Evidlo/xsl-website)
 * [2025-08-22, 18:24:16](https://news.ycombinator.com/item?id=44987924) - [The first Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 * [2025-08-22, 15:22:42](https://news.ycombinator.com/item?id=44985730) - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
+* [2025-08-22, 04:48:29](https://news.ycombinator.com/item?id=44981088) - [Top Secret: Automatically filter sensitive information](https://thoughtbot.com/blog/top-secret)
 * [2025-08-20, 20:42:03](https://news.ycombinator.com/item?id=44966208) - [Game math: precise control over numeric springing](https://allenchou.net/2015/04/game-math-precise-control-over-numeric-springing/)
 * [2025-08-20, 17:52:00](https://news.ycombinator.com/item?id=44964294) - [The theory and practice of selling the Aga cooker (1935) [pdf]](https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf)
 * [2025-08-20, 13:38:00](https://news.ycombinator.com/item?id=44961853) - [You can't grow cool-climate plants in hot climates](https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates)
