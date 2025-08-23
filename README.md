@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-23, 16:22:09](https://news.ycombinator.com/item?id=44997011) - [Europe's crusade against air conditioning is insane](https://www.noahpinion.blog/p/europes-crusade-against-air-conditioning)
 * [2025-08-23, 16:03:13](https://news.ycombinator.com/item?id=44996892) - [Building A16Z's Personal AI Workstation](https://a16z.com/building-a16zs-personal-ai-workstation-with-four-nvidia-rtx-6000-pro-blackwell-max-q-gpus/)
 * [2025-08-23, 15:21:51](https://news.ycombinator.com/item?id=44996623) - [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
 * [2025-08-23, 15:14:39](https://news.ycombinator.com/item?id=44996571) - [Robots can now learn to use tools just by watching us](https://techxplore.com/news/2025-08-robots-tools.html)
-* [2025-08-23, 14:01:53](https://news.ycombinator.com/item?id=44996058) - [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)
 * [2025-08-23, 12:54:01](https://news.ycombinator.com/item?id=44995640) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 * [2025-08-23, 12:29:02](https://news.ycombinator.com/item?id=44995508) - [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
 * [2025-08-23, 11:39:15](https://news.ycombinator.com/item?id=44995234) - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
