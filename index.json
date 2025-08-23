@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-08-23, 17:15:24",
-      "https://news.ycombinator.com/item?id=44997435"
-    ],
-    [
-      "RFK Jr demanded a vaccine study be retracted – the journal said no",
-      "https://www.nature.com/articles/d41586-025-02682-9"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 17:00:14",
       "https://news.ycombinator.com/item?id=44997289"
     ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=44994918"
     ],
     [
-      "I Made a Floppy Disk from Scratch",
+      "I made a floppy disk from scratch",
       "https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch"
     ]
   ],
@@ -171,42 +161,22 @@
   ],
   [
     [
-      "2025-08-22, 19:06:29",
-      "https://news.ycombinator.com/item?id=44988530"
-    ],
-    [
-      "Nitro: A tiny but flexible init system and process supervisor",
-      "https://git.vuxu.org/nitro/about/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 18:47:30",
-      "https://news.ycombinator.com/item?id=44988271"
-    ],
-    [
-      "Show HN: JavaScript-free (X)HTML Includes",
-      "https://github.com/Evidlo/xsl-website"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 18:24:16",
-      "https://news.ycombinator.com/item?id=44987924"
-    ],
-    [
-      "The first Media over QUIC CDN: Cloudflare",
-      "https://moq.dev/blog/first-cdn/"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 17:14:56",
       "https://news.ycombinator.com/item?id=44987078"
     ],
     [
       "Texas Instruments' $60B U.S. project, the next iPhone chips fabric",
       "https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-22, 16:45:11",
+      "https://news.ycombinator.com/item?id=44986704"
+    ],
+    [
+      "Punch cards and dollar bills",
+      "https://www.johndcook.com/blog/2025/08/22/punch-card-dollar/"
     ]
   ],
   [
@@ -221,22 +191,52 @@
   ],
   [
     [
+      "2025-08-21, 19:25:58",
+      "https://news.ycombinator.com/item?id=44976957"
+    ],
+    [
+      "Exploring EXIF (2023)",
+      "https://hturan.com/writing/exploring-exif"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 19:04:50",
+      "https://news.ycombinator.com/item?id=44976747"
+    ],
+    [
+      "Reserve First",
+      "https://matklad.github.io/2025/08/16/reserve-first.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 11:30:59",
+      "https://news.ycombinator.com/item?id=44971451"
+    ],
+    [
+      "Stepanov's biggest blunder? The curious case of adjacent difference",
+      "https://mmapped.blog/posts/43-stepanovs-biggest-blunder"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 21:14:12",
+      "https://news.ycombinator.com/item?id=44966543"
+    ],
+    [
+      "Recreationally overengineering my location history",
+      "https://overengineer.dev/blog/2025/08/19/overengineering-location-history/"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 19:58:09",
       "https://news.ycombinator.com/item?id=44965773"
     ],
     [
       "Arrays in Practice (2024)",
       "https://programming-journal.org/2024/8/14/"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 13:38:00",
-      "https://news.ycombinator.com/item?id=44961853"
-    ],
-    [
-      "You can't grow cool-climate plants in hot climates",
-      "https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-08-19, 19:51:40",
+      "https://news.ycombinator.com/item?id=44955612"
+    ],
+    [
+      "Practical approach for streaming UI from LLMs",
+      "https://www.timetler.com/2025/08/19/unlocking-rich-ui-components-in-ai/"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 15:43:37",
       "https://news.ycombinator.com/item?id=44952895"
     ],
     [
       "450× Faster Joins with Index Condition Pushdown",
       "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 15:39:15",
-      "https://news.ycombinator.com/item?id=44952836"
-    ],
-    [
-      "Converting an online game to work without any JavaScript",
-      "https://bejofo.com/blog/no-js-game-case-study"
     ]
   ],
   [
