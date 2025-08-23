@@ -6,6 +6,8 @@
 
 * [2025-08-23, 08:04:29](https://news.ycombinator.com/item?id=44994217) - [California teens are ditching office jobs – and making $100K before they turn 21](https://www.sfgate.com/bayarea/article/young-adults-changing-career-paths-ai-20824566.php)
 * [2025-08-23, 08:01:31](https://news.ycombinator.com/item?id=44994204) - [It's okay to solve a problem twice](https://til.andrew-quinn.me/posts/it-s-okay-to-solve-a-problem-twice/)
+* [2025-08-23, 07:40:44](https://news.ycombinator.com/item?id=44994090) - [World Wide Lightning Location Network](https://wwlln.net/)
+* [2025-08-23, 07:35:49](https://news.ycombinator.com/item?id=44994071) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 * [2025-08-23, 06:53:22](https://news.ycombinator.com/item?id=44993874) - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
 * [2025-08-23, 06:39:38](https://news.ycombinator.com/item?id=44993797) - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
 * [2025-08-23, 06:31:00](https://news.ycombinator.com/item?id=44993761) - [Show HN: OctaneDB – Fast, Open-Source Vector Database for Python](https://github.com/RijinRaju/octanedb)
