@@ -48,6 +48,7 @@
 * [2025-08-21, 13:18:12](https://news.ycombinator.com/item?id=44972406) - [A Conceptual Model for Storage Unification](https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification)
 * [2025-08-21, 13:01:11](https://news.ycombinator.com/item?id=44972238) - [Show HN: ChartDB Cloud – Visualize and Share Database Diagrams](https://app.chartdb.io)
 * [2025-08-21, 12:58:17](https://news.ycombinator.com/item?id=44972213) - [How Well Does the Money Laundering Control System Work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
+* [2025-08-21, 12:56:47](https://news.ycombinator.com/item?id=44972192) - [The Cornervery: A 90-Degree Stapler](https://www.core77.com/posts/138232/The-Cornervery-A-90-Degree-Stapler)
 * [2025-08-21, 12:53:16](https://news.ycombinator.com/item?id=44972151) - [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
 * [2025-08-21, 12:31:46](https://news.ycombinator.com/item?id=44971954) - [Ride in Your Privately-Owned Train Cars to See North America](https://www.amtrak.com/privately-owned-rail-cars)
 * [2025-08-21, 12:21:38](https://news.ycombinator.com/item?id=44971850) - [How does the US use water?](https://www.construction-physics.com/p/how-does-the-us-use-water)

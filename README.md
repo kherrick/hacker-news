@@ -22,12 +22,12 @@
 * [2025-08-22, 13:42:01](https://news.ycombinator.com/item?id=44984599) - [Optimizing our way through Metroid](https://antithesis.com/blog/2025/metroid/)
 * [2025-08-21, 20:37:13](https://news.ycombinator.com/item?id=44977758) - [Reproducing prospect theory with 'differentiable decision theories'](https://www.science.org/doi/full/10.1126/science.abe2629)
 * [2025-08-21, 19:25:58](https://news.ycombinator.com/item?id=44976957) - [Exploring EXIF (2023)](https://hturan.com/writing/exploring-exif)
+* [2025-08-21, 12:56:47](https://news.ycombinator.com/item?id=44972192) - [The Cornervery: A 90-Degree Stapler](https://www.core77.com/posts/138232/The-Cornervery-A-90-Degree-Stapler)
 * [2025-08-21, 11:30:59](https://news.ycombinator.com/item?id=44971451) - [Stepanov's biggest blunder? The curious case of adjacent difference](https://mmapped.blog/posts/43-stepanovs-biggest-blunder)
 * [2025-08-20, 21:14:12](https://news.ycombinator.com/item?id=44966543) - [Recreationally overengineering my location history](https://overengineer.dev/blog/2025/08/19/overengineering-location-history/)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
 * [2025-08-20, 14:03:51](https://news.ycombinator.com/item?id=44962077) - [Children of the Geissler Tube](https://www.hopefulmons.com/p/children-of-the-geissler-tube)
 * [2025-08-20, 11:00:14](https://news.ycombinator.com/item?id=44960718) - [Acronis True Image costs performance when not used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
-* [2025-08-19, 19:51:40](https://news.ycombinator.com/item?id=44955612) - [Practical approach for streaming UI from LLMs](https://www.timetler.com/2025/08/19/unlocking-rich-ui-components-in-ai/)
 * [2025-08-19, 15:43:37](https://news.ycombinator.com/item?id=44952895) - [450× Faster Joins with Index Condition Pushdown](https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown)
 * [2025-08-19, 14:36:10](https://news.ycombinator.com/item?id=44952018) - [WebR – R in the Browser](https://docs.r-wasm.org/webr/latest/)
 
