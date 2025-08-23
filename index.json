@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 19:10:32",
+      "https://news.ycombinator.com/item?id=44998316"
+    ],
+    [
+      "Optimizing FizzBuzz in Rust",
+      "https://github.com/nrposner/fizzcrate"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 19:07:42",
       "https://news.ycombinator.com/item?id=44998295"
     ],
@@ -17,26 +27,6 @@
     [
       "Bild AI (YC W25) Is Hiring an Applied AI Engineer",
       "https://www.workatastartup.com/jobs/75647"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 16:49:52",
-      "https://news.ycombinator.com/item?id=44997194"
-    ],
-    [
-      "Libre – An anonymous social experiment without likes, followers, or ads",
-      "https://libreantisocial.com"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 16:42:18",
-      "https://news.ycombinator.com/item?id=44997145"
-    ],
-    [
-      "I hacked Monster Energy",
-      "https://bobdahacker.com/blog/monster-energy"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Stepanov's biggest blunder? The curious case of adjacent difference",
       "https://mmapped.blog/posts/43-stepanovs-biggest-blunder"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 21:14:12",
+      "https://news.ycombinator.com/item?id=44966543"
+    ],
+    [
+      "Recreationally overengineering my location history",
+      "https://overengineer.dev/blog/2025/08/19/overengineering-location-history/"
     ]
   ],
   [
