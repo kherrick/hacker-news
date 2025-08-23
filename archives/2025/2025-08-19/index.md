@@ -51,6 +51,7 @@
 * [2025-08-19, 12:13:10](https://news.ycombinator.com/item?id=44950695) - ['Ad Blocking Is Not Piracy' Decision Overturned by Top German Court](https://torrentfreak.com/ad-blocking-is-not-piracy-decision-overturned-by-top-german-court-250819/)
 * [2025-08-19, 12:10:09](https://news.ycombinator.com/item?id=44950661) - [Launch HN: Uplift (YC S25) – Voice models for under-served languages](https://news.ycombinator.com/item?id=44950661)
 * [2025-08-19, 11:58:34](https://news.ycombinator.com/item?id=44950600) - [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)
+* [2025-08-19, 11:39:47](https://news.ycombinator.com/item?id=44950482) - [I Run a Full Linux Desktop in Docker Just Because I Can](https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/)
 * [2025-08-19, 10:32:41](https://news.ycombinator.com/item?id=44950091) - [PyPI Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
 * [2025-08-19, 09:46:27](https://news.ycombinator.com/item?id=44949895) - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
 * [2025-08-19, 09:38:48](https://news.ycombinator.com/item?id=44949857) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
