@@ -7,6 +7,7 @@
 * [2025-08-20, 23:15:55](https://news.ycombinator.com/item?id=44967505) - [SimpleIDE](https://github.com/jamesplotts/simpleide)
 * [2025-08-20, 23:10:37](https://news.ycombinator.com/item?id=44967469) - [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
 * [2025-08-20, 21:47:05](https://news.ycombinator.com/item?id=44966856) - [\"AI first\" and the Bus Factor of 0](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
+* [2025-08-20, 21:14:12](https://news.ycombinator.com/item?id=44966543) - [Recreationally overengineering my location history](https://overengineer.dev/blog/2025/08/19/overengineering-location-history/)
 * [2025-08-20, 21:00:14](https://news.ycombinator.com/item?id=44966408) - [Coris (YC S22) Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
 * [2025-08-20, 20:42:03](https://news.ycombinator.com/item?id=44966208) - [Game math: precise control over numeric springing](https://allenchou.net/2015/04/game-math-precise-control-over-numeric-springing/)
 * [2025-08-20, 20:37:58](https://news.ycombinator.com/item?id=44966170) - [Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)

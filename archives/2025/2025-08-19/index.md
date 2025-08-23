@@ -12,6 +12,7 @@
 * [2025-08-19, 20:45:14](https://news.ycombinator.com/item?id=44956098) - [Stop Paywalling SSO: It Is a Basic Right, Not an Enterprise Perk](https://oneuptime.com/blog/post/2025-08-19-sso-is-a-security-basic-not-an-enterprise-perk/view)
 * [2025-08-19, 20:25:06](https://news.ycombinator.com/item?id=44955923) - [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)
 * [2025-08-19, 19:53:51](https://news.ycombinator.com/item?id=44955624) - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
+* [2025-08-19, 19:51:40](https://news.ycombinator.com/item?id=44955612) - [Practical approach for streaming UI from LLMs](https://www.timetler.com/2025/08/19/unlocking-rich-ui-components-in-ai/)
 * [2025-08-19, 19:48:38](https://news.ycombinator.com/item?id=44955576) - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
 * [2025-08-19, 19:38:45](https://news.ycombinator.com/item?id=44955459) - [CRDT: Text Buffer by Evan Wallace](https://madebyevan.com/algos/crdt-text-buffer/)
 * [2025-08-19, 19:38:38](https://news.ycombinator.com/item?id=44955457) - [The SSO Wall of Shame – Vendors that treat SSO as luxury feature](https://sso.tax/)
