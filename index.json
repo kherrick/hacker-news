@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-08-23, 08:04:29",
+      "https://news.ycombinator.com/item?id=44994217"
+    ],
+    [
+      "California teens are ditching office jobs – and making $100K before they turn 21",
+      "https://www.sfgate.com/bayarea/article/young-adults-changing-career-paths-ai-20824566.php"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 08:01:31",
+      "https://news.ycombinator.com/item?id=44994204"
+    ],
+    [
+      "It's okay to solve a problem twice",
+      "https://til.andrew-quinn.me/posts/it-s-okay-to-solve-a-problem-twice/"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 06:53:22",
+      "https://news.ycombinator.com/item?id=44993874"
+    ],
+    [
+      "DeepCode: Open Agentic Coding",
+      "https://github.com/HKUDS/DeepCode"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 06:39:38",
       "https://news.ycombinator.com/item?id=44993797"
     ],
     [
       "I'm too dumb for Zig's new IO interface",
       "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 06:31:00",
+      "https://news.ycombinator.com/item?id=44993761"
+    ],
+    [
+      "Show HN: OctaneDB – Fast, Open-Source Vector Database for Python",
+      "https://github.com/RijinRaju/octanedb"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2025-08-22, 22:41:20",
-      "https://news.ycombinator.com/item?id=44990798"
-    ],
-    [
-      "Transcribe music in abc with syntax highlighting",
-      "https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 22:29:28",
       "https://news.ycombinator.com/item?id=44990680"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-08-22, 16:06:15",
-      "https://news.ycombinator.com/item?id=44986251"
-    ],
-    [
-      "Closing the Nix gap: From environments to packaged applications for rust",
-      "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 15:22:42",
       "https://news.ycombinator.com/item?id=44985730"
     ],
@@ -187,16 +207,6 @@
     [
       "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
       "https://labplot.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 06:18:56",
-      "https://news.ycombinator.com/item?id=44981525"
-    ],
-    [
-      "It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019)",
-      "https://hsivonen.fi/string-length/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-08-20, 14:36:52",
-      "https://news.ycombinator.com/item?id=44962373"
-    ],
-    [
-      "Now, Together",
-      "https://natashajaffe.substack.com/p/now-together"
-    ]
-  ],
-  [
-    [
       "2025-08-20, 12:47:06",
       "https://news.ycombinator.com/item?id=44961443"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-08-19, 15:27:33",
+      "https://news.ycombinator.com/item?id=44952696"
+    ],
+    [
+      "David Klein's TWA Posters (2018)",
+      "https://flashbak.com/david-kleins-magnificent-twa-posters-404428/"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 11:39:47",
       "https://news.ycombinator.com/item?id=44950482"
     ],
     [
       "I run a full Linux desktop in Docker just because I can",
       "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 07:41:49",
-      "https://news.ycombinator.com/item?id=44949203"
-    ],
-    [
-      "Embedding Text Documents with Qwen3",
-      "https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3"
     ]
   ],
   [
