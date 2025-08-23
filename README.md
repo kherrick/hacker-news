@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-23, 21:06:23](https://news.ycombinator.com/item?id=44999138) - [Europe's Free-Speech Problem](https://www.theatlantic.com/ideas/archive/2025/08/europe-free-speech-republicans/683915/)
 * [2025-08-23, 21:00:33](https://news.ycombinator.com/item?id=44999094) - [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2025-08-23, 19:35:31](https://news.ycombinator.com/item?id=44998514) - [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
 * [2025-08-23, 19:10:32](https://news.ycombinator.com/item?id=44998316) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
@@ -15,6 +14,7 @@
 * [2025-08-23, 07:35:49](https://news.ycombinator.com/item?id=44994071) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 * [2025-08-22, 19:31:41](https://news.ycombinator.com/item?id=44988845) - [Why was Apache Kafka created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
 * [2025-08-22, 17:14:56](https://news.ycombinator.com/item?id=44987078) - [Texas Instruments' $60B U.S. project, the next iPhone chips fabric](https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html)
+* [2025-08-22, 16:57:49](https://news.ycombinator.com/item?id=44986875) - [Ergonomic errors in Rust: write fast, debug with ease, handle precisely](https://gmcgoldr.github.io/2025/08/21/stackerror.html)
 * [2025-08-22, 15:15:57](https://news.ycombinator.com/item?id=44985653) - [Static sites with Python, uv, Caddy, and Docker](https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/)
 * [2025-08-22, 13:42:01](https://news.ycombinator.com/item?id=44984599) - [Optimizing our way through Metroid](https://antithesis.com/blog/2025/metroid/)
 * [2025-08-21, 20:37:13](https://news.ycombinator.com/item?id=44977758) - [Reproducing prospect theory with 'differentiable decision theories'](https://www.science.org/doi/full/10.1126/science.abe2629)
