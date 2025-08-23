@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-23](index.md)
 
+* [2025-08-23, 19:35:31](https://news.ycombinator.com/item?id=44998514) - [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
 * [2025-08-23, 19:10:32](https://news.ycombinator.com/item?id=44998316) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 * [2025-08-23, 19:07:42](https://news.ycombinator.com/item?id=44998295) - [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
 * [2025-08-23, 18:38:48](https://news.ycombinator.com/item?id=44998075) - [The F-35 Is Losing the (Trade) War](https://www.jalopnik.com/1945910/f-35-fighter-jet-losing-trade-war/)
