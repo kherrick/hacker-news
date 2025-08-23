@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-23, 03:08:42",
-      "https://news.ycombinator.com/item?id=44992752"
-    ],
-    [
-      "The Evolution of AI Software Engineering",
-      "https://medium.com/commbank-technology/the-evolution-of-ai-software-engineering-75a8a5a02c14"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 02:20:09",
       "https://news.ycombinator.com/item?id=44992446"
     ],
@@ -221,22 +211,22 @@
   ],
   [
     [
+      "2025-08-22, 06:18:56",
+      "https://news.ycombinator.com/item?id=44981525"
+    ],
+    [
+      "It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019)",
+      "https://hsivonen.fi/string-length/"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 04:48:29",
       "https://news.ycombinator.com/item?id=44981088"
     ],
     [
       "Top Secret: Automatically filter sensitive information",
       "https://thoughtbot.com/blog/top-secret"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 02:05:53",
-      "https://news.ycombinator.com/item?id=44980339"
-    ],
-    [
-      "Everything is correlated (2014–23)",
-      "https://gwern.net/everything"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=44961443"
     ],
     [
-      "Why Is This Hard?",
+      "Why is this hard?",
       "https://programmersstone.blog/posts/why-is-this-hard/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Shader Academy: Learn computer graphics by solving challenges",
       "https://shaderacademy.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 20:25:06",
+      "https://news.ycombinator.com/item?id=44955923"
+    ],
+    [
+      "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent",
+      "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/"
     ]
   ],
   [
