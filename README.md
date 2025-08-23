@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-23, 09:20:26](https://news.ycombinator.com/item?id=44994590) - [Developer's Block](https://underlap.org/developers-block/)
-* [2025-08-23, 09:18:46](https://news.ycombinator.com/item?id=44994587) - [Building a Computer in the 90s (2019)](https://dfarq.homeip.net/building-a-computer-in-the-90s/)
-* [2025-08-23, 08:04:29](https://news.ycombinator.com/item?id=44994217) - [California teens are ditching office jobs – and making $100K before they turn 21](https://www.sfgate.com/bayarea/article/young-adults-changing-career-paths-ai-20824566.php)
+* [2025-08-23, 09:20:26](https://news.ycombinator.com/item?id=44994590) - [Developer's block](https://underlap.org/developers-block/)
+* [2025-08-23, 09:18:46](https://news.ycombinator.com/item?id=44994587) - [Building a computer in the 90s (2019)](https://dfarq.homeip.net/building-a-computer-in-the-90s/)
 * [2025-08-23, 07:40:44](https://news.ycombinator.com/item?id=44994090) - [World Wide Lightning Location Network](https://wwlln.net/)
 * [2025-08-23, 07:35:49](https://news.ycombinator.com/item?id=44994071) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 * [2025-08-23, 06:39:38](https://news.ycombinator.com/item?id=44993797) - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
@@ -23,6 +22,7 @@
 * [2025-08-22, 15:22:42](https://news.ycombinator.com/item?id=44985730) - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
 * [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 04:48:29](https://news.ycombinator.com/item?id=44981088) - [Top Secret: Automatically filter sensitive information](https://thoughtbot.com/blog/top-secret)
+* [2025-08-22, 01:09:33](https://news.ycombinator.com/item?id=44980064) - [The issue of anti-cheat on Linux (2024)](https://tulach.cc/the-issue-of-anti-cheat-on-linux/)
 * [2025-08-20, 17:52:00](https://news.ycombinator.com/item?id=44964294) - [The theory and practice of selling the Aga cooker (1935) [pdf]](https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf)
 * [2025-08-20, 11:08:15](https://news.ycombinator.com/item?id=44960750) - [Shader Academy: Learn computer graphics by solving challenges](https://shaderacademy.com/)
 * [2025-08-20, 03:52:39](https://news.ycombinator.com/item?id=44958492) - [The Fancy Rug Dilemma](https://epan.land/essays/2025-8_FancyRugDilemma)
