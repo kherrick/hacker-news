@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-23](index.md)
 
+* [2025-08-23, 06:39:38](https://news.ycombinator.com/item?id=44993797) - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
 * [2025-08-23, 04:05:30](https://news.ycombinator.com/item?id=44993042) - [Developer gets 4 years for activating network \"kill switch\" to avenge his firing](https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/)
 * [2025-08-23, 03:39:37](https://news.ycombinator.com/item?id=44992930) - [A visual history of Visual C++ (2017)](http://www.malsmith.net/blog/visual-c-visual-history/)
 * [2025-08-23, 03:22:33](https://news.ycombinator.com/item?id=44992832) - [Google says it dropped the energy cost of AI queries by 33x in one year](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
