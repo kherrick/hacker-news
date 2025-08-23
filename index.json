@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 21:06:23",
+      "https://news.ycombinator.com/item?id=44999138"
+    ],
+    [
+      "Europe's Free-Speech Problem",
+      "https://www.theatlantic.com/ideas/archive/2025/08/europe-free-speech-republicans/683915/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 21:00:33",
       "https://news.ycombinator.com/item?id=44999094"
     ],
@@ -27,16 +37,6 @@
     [
       "Optimizing FizzBuzz in Rust",
       "https://github.com/nrposner/fizzcrate"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 19:07:42",
-      "https://news.ycombinator.com/item?id=44998295"
-    ],
-    [
-      "What makes Claude Code so damn good",
-      "https://minusx.ai/blog/decoding-claude-code/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44994935"
     ],
     [
-      "Determinants and causal effects of admission to selective private colleges [pdf]",
+      "Determinants and causal effects of admission to selective private colleges [pdf] (2023)",
       "https://www.nber.org/system/files/working_papers/w31492/w31492.pdf"
     ]
   ],
