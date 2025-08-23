@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-23](index.md)
 
+* [2025-08-23, 08:04:29](https://news.ycombinator.com/item?id=44994217) - [California teens are ditching office jobs – and making $100K before they turn 21](https://www.sfgate.com/bayarea/article/young-adults-changing-career-paths-ai-20824566.php)
+* [2025-08-23, 08:01:31](https://news.ycombinator.com/item?id=44994204) - [It's okay to solve a problem twice](https://til.andrew-quinn.me/posts/it-s-okay-to-solve-a-problem-twice/)
+* [2025-08-23, 06:53:22](https://news.ycombinator.com/item?id=44993874) - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
 * [2025-08-23, 06:39:38](https://news.ycombinator.com/item?id=44993797) - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
+* [2025-08-23, 06:31:00](https://news.ycombinator.com/item?id=44993761) - [Show HN: OctaneDB – Fast, Open-Source Vector Database for Python](https://github.com/RijinRaju/octanedb)
 * [2025-08-23, 04:05:30](https://news.ycombinator.com/item?id=44993042) - [Developer gets 4 years for activating network \"kill switch\" to avenge his firing](https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/)
 * [2025-08-23, 03:39:37](https://news.ycombinator.com/item?id=44992930) - [A visual history of Visual C++ (2017)](http://www.malsmith.net/blog/visual-c-visual-history/)
 * [2025-08-23, 03:22:33](https://news.ycombinator.com/item?id=44992832) - [Google says it dropped the energy cost of AI queries by 33x in one year](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
