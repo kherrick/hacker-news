@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 10:31:09](https://news.ycombinator.com/item?id=45003052) - [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap)
+* [2025-08-24, 10:10:29](https://news.ycombinator.com/item?id=45002958) - [Writing with LLM is not a shame](https://reflexions.florianernotte.be/post/ai-transparency/)
 * [2025-08-24, 09:35:35](https://news.ycombinator.com/item?id=45002806) - [Declaration of famine in Gaza lays bare Israel's disregard for humanitarian duty](https://www.theguardian.com/world/2025/aug/24/gaza-famine-declaration-israel-humanitarian-duty-analysis)
 * [2025-08-24, 09:23:46](https://news.ycombinator.com/item?id=45002747) - [US halts work on almost finished wind farm because national security](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy)
 * [2025-08-24, 08:23:11](https://news.ycombinator.com/item?id=45002403) - [Israeli army database suggests at least 83% of Gaza dead were civilians](https://www.972mag.com/israeli-intelligence-database-83-percent-civilians-militants/)

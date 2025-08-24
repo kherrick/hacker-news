@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-24, 10:31:09](https://news.ycombinator.com/item?id=45003052) - [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap)
+* [2025-08-24, 10:10:29](https://news.ycombinator.com/item?id=45002958) - [Writing with LLM is not a shame](https://reflexions.florianernotte.be/post/ai-transparency/)
 * [2025-08-24, 09:23:46](https://news.ycombinator.com/item?id=45002747) - [US halts work on almost finished wind farm because national security](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy)
 * [2025-08-24, 08:06:03](https://news.ycombinator.com/item?id=45002315) - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
 * [2025-08-24, 08:02:12](https://news.ycombinator.com/item?id=45002301) - [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
@@ -26,10 +28,8 @@
 * [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
 * [2025-08-20, 23:00:14](https://news.ycombinator.com/item?id=44967396) - [Go-away – Customizable, conditional challenges to incoming requests](https://git.gammaspectra.live/git/go-away/wiki/Challenges)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
-* [2025-08-20, 18:31:14](https://news.ycombinator.com/item?id=44964731) - [My original Palm IIIx](https://www.goto10retro.com/p/taking-a-look-at-my-old-palm-iiix)
 * [2025-08-20, 12:11:00](https://news.ycombinator.com/item?id=44961155) - [Physics of badminton's new killer spin serve](https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/)
 * [2025-08-20, 11:41:33](https://news.ycombinator.com/item?id=44960942) - [Marshal madness: A brief history of Ruby deserialization exploits](https://blog.trailofbits.com/2025/08/20/marshal-madness-a-brief-history-of-ruby-deserialization-exploits/)
-* [2025-08-20, 11:00:14](https://news.ycombinator.com/item?id=44960718) - [Acronis True Image costs performance when not used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
 
 ## [Archives](archives/index.md)
 
