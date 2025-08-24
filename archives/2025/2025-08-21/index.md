@@ -72,6 +72,7 @@
 * [2025-08-21, 10:16:39](https://news.ycombinator.com/item?id=44970998) - [The Open-Office Trap](https://www.newyorker.com/business/currency/the-open-office-trap)
 * [2025-08-21, 10:12:35](https://news.ycombinator.com/item?id=44970981) - [Why is D3 so Verbose?](https://theheasman.com/short_stories/why-is-d3-code-so-long-and-complicated-or-why-is-it-so-verbose/)
 * [2025-08-21, 10:11:37](https://news.ycombinator.com/item?id=44970974) - [What if every city had a London Overground?](https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9)
+* [2025-08-21, 09:34:32](https://news.ycombinator.com/item?id=44970769) - [The two versions of Parquet](https://www.jeronimo.dev/the-two-versions-of-parquet/)
 * [2025-08-21, 09:30:52](https://news.ycombinator.com/item?id=44970751) - [To Infinity but Not Beyond](https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/)
 * [2025-08-21, 08:54:06](https://news.ycombinator.com/item?id=44970563) - [My other email client is a daemon](https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/)
 * [2025-08-21, 08:21:35](https://news.ycombinator.com/item?id=44970401) - [Dev Reveals Secrets Behind New \"3D\" Platformer for the ZX Spectrum](https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum)
