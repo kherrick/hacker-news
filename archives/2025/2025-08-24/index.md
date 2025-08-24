@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 22:27:11](https://news.ycombinator.com/item?id=45008367) - [\"I Hate Almost Everything They Do with a Passion\" James Pond Creator on Gameware](https://www.timeextension.com/news/2025/07/i-hate-almost-everything-they-do-with-a-passion-james-ponds-creator-isnt-a-fan-of-gamewares-ai-focused-sequel)
 * [2025-08-24, 21:40:35](https://news.ycombinator.com/item?id=45008056) - [Uncle Sam Shouldn't Own Intel Stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
 * [2025-08-24, 21:22:07](https://news.ycombinator.com/item?id=45007907) - [SpaceX Starship Orbital Flight Test 10](https://www.spacex.com/launches/starship-flight-10)
 * [2025-08-24, 20:22:26](https://news.ycombinator.com/item?id=45007437) - [Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)
