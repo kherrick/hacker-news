@@ -27,9 +27,9 @@
 * [2025-08-21, 23:15:03](https://news.ycombinator.com/item?id=44979301) - [A short introduction to optimal transport and Wasserstein distance (2020)](https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/)
 * [2025-08-21, 20:54:11](https://news.ycombinator.com/item?id=44977956) - [The oldest unopened bottle of wine in the world](https://www.openculture.com/2025/08/the-oldest-unopened-bottle-of-wine-in-the-world.html)
 * [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
+* [2025-08-21, 12:23:38](https://news.ycombinator.com/item?id=44971867) - [NASA's Juno Mission Leaves Legacy of Science at Jupiter](https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/)
 * [2025-08-21, 10:11:37](https://news.ycombinator.com/item?id=44970974) - [What if every city had a London Overground?](https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
-* [2025-08-20, 12:11:00](https://news.ycombinator.com/item?id=44961155) - [Physics of badminton's new killer spin serve](https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/)
 
 ## [Archives](archives/index.md)
 
