@@ -2,7 +2,6 @@
 
 * [2025-08-24, 12:28:52](https://news.ycombinator.com/item?id=45003750) - [Dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
 * [2025-08-24, 12:06:17](https://news.ycombinator.com/item?id=45003602) - [Germany's Copyright Clearing House now requires courts for website blocks](https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html)
-* [2025-08-24, 11:40:37](https://news.ycombinator.com/item?id=45003458) - [Spending too much time at airports](https://thezvi.substack.com/p/spending-too-much-time-at-airports)
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
 * [2025-08-24, 11:15:26](https://news.ycombinator.com/item?id=45003296) - [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)
 * [2025-08-24, 10:27:19](https://news.ycombinator.com/item?id=45003033) - [A German ISP tampered with their DNS – specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
@@ -22,6 +21,7 @@
 * [2025-08-23, 16:09:21](https://news.ycombinator.com/item?id=44996938) - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-22, 19:31:41](https://news.ycombinator.com/item?id=44988845) - [Why was Apache Kafka created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
 * [2025-08-22, 18:01:02](https://news.ycombinator.com/item?id=44987617) - [A Family Project (2022)](https://bittersoutherner.com/feature/2022/a-family-project)
+* [2025-08-22, 17:14:56](https://news.ycombinator.com/item?id=44987078) - [Texas Instruments’ new plants where Apple will make iPhone chips](https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html)
 * [2025-08-22, 15:13:22](https://news.ycombinator.com/item?id=44985619) - [SSD-IQ: Uncovering the Hidden Side of SSD Performance [pdf]](https://www.vldb.org/pvldb/vol18/p4295-haas.pdf)
 * [2025-08-21, 23:15:03](https://news.ycombinator.com/item?id=44979301) - [A short introduction to optimal transport and Wasserstein distance (2020)](https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/)
 * [2025-08-21, 20:54:11](https://news.ycombinator.com/item?id=44977956) - [The oldest unopened bottle of wine in the world](https://www.openculture.com/2025/08/the-oldest-unopened-bottle-of-wine-in-the-world.html)
