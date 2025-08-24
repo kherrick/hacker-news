@@ -22,6 +22,7 @@
 * [2025-08-23, 17:00:14](https://news.ycombinator.com/item?id=44997289) - [Bild AI (YC W25) Is Hiring Applied AI Founding Engineer](https://www.workatastartup.com/jobs/75647)
 * [2025-08-23, 16:49:52](https://news.ycombinator.com/item?id=44997194) - [Libre – An anonymous social experiment without likes, followers, or ads](https://libreantisocial.com)
 * [2025-08-23, 16:42:18](https://news.ycombinator.com/item?id=44997145) - [I Hacked Monster Energy and You Won't Believe What They Think You Look Like](https://bobdahacker.com/blog/monster-energy)
+* [2025-08-23, 16:24:00](https://news.ycombinator.com/item?id=44997023) - [Setting serial baud rate on ESP-IDF does nothing](https://atomic14.substack.com/p/this-number-does-nothing)
 * [2025-08-23, 16:22:09](https://news.ycombinator.com/item?id=44997011) - [Europe's crusade against air conditioning is insane](https://www.noahpinion.blog/p/europes-crusade-against-air-conditioning)
 * [2025-08-23, 16:09:21](https://news.ycombinator.com/item?id=44996938) - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-23, 16:03:13](https://news.ycombinator.com/item?id=44996892) - [Building A16Z's Personal AI Workstation](https://a16z.com/building-a16zs-personal-ai-workstation-with-four-nvidia-rtx-6000-pro-blackwell-max-q-gpus/)
