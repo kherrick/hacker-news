@@ -78,6 +78,7 @@
 * [2025-08-22, 06:18:56](https://news.ycombinator.com/item?id=44981525) - [It's Not Wrong that \" \".length == 7](https://hsivonen.fi/string-length/)
 * [2025-08-22, 05:46:44](https://news.ycombinator.com/item?id=44981383) - [Is moderate drinking healthy? Scientists say the idea is outdated](https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research)
 * [2025-08-22, 04:48:29](https://news.ycombinator.com/item?id=44981088) - [Top Secret: Automatically filter sensitive information](https://thoughtbot.com/blog/top-secret)
+* [2025-08-22, 04:14:10](https://news.ycombinator.com/item?id=44980940) - [Cloudflare incident on August 21, 2025](https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/)
 * [2025-08-22, 03:51:44](https://news.ycombinator.com/item?id=44980865) - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 * [2025-08-22, 02:05:53](https://news.ycombinator.com/item?id=44980339) - [Everything Is Correlated](https://gwern.net/everything)
 * [2025-08-22, 01:09:33](https://news.ycombinator.com/item?id=44980064) - [The issue of anti-cheat on Linux](https://tulach.cc/the-issue-of-anti-cheat-on-linux/)

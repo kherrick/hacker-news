@@ -15,6 +15,7 @@
 * [2025-08-20, 20:42:03](https://news.ycombinator.com/item?id=44966208) - [Game math: precise control over numeric springing](https://allenchou.net/2015/04/game-math-precise-control-over-numeric-springing/)
 * [2025-08-20, 20:37:58](https://news.ycombinator.com/item?id=44966170) - [Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
 * [2025-08-20, 19:58:09](https://news.ycombinator.com/item?id=44965773) - [Arrays in Practice (2024)](https://programming-journal.org/2024/8/14/)
+* [2025-08-20, 19:42:45](https://news.ycombinator.com/item?id=44965577) - [Claim: GPT-5-pro can prove new interesting mathematics](https://twitter.com/SebastienBubeck/status/1958198661139009862)
 * [2025-08-20, 19:13:09](https://news.ycombinator.com/item?id=44965233) - [Introduction to Bluesky's AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-08-20, 18:59:49](https://news.ycombinator.com/item?id=44965079) - [Show HN: Tool shows UK properties matching group commute/time preferences](https://closemove.com)
 * [2025-08-20, 18:47:03](https://news.ycombinator.com/item?id=44964916) - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 17:44:55](https://news.ycombinator.com/item?id=45006147) - [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
 * [2025-08-24, 17:27:19](https://news.ycombinator.com/item?id=45006002) - [Update on My Racket Exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
 * [2025-08-24, 17:22:53](https://news.ycombinator.com/item?id=45005954) - [Y Combinator says Apple's App Store has hindered startup growth](https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/)
 * [2025-08-24, 17:16:09](https://news.ycombinator.com/item?id=45005902) - [People stuck using ancient Windows computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)
