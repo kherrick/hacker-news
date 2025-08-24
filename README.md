@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-24, 18:02:55](https://news.ycombinator.com/item?id=45006296) - [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
+* [2025-08-24, 17:44:55](https://news.ycombinator.com/item?id=45006147) - [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
 * [2025-08-24, 17:27:19](https://news.ycombinator.com/item?id=45006002) - [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
 * [2025-08-24, 17:16:09](https://news.ycombinator.com/item?id=45005902) - [People stuck using ancient Windows computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)
 * [2025-08-24, 16:30:18](https://news.ycombinator.com/item?id=45005545) - [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
@@ -9,7 +10,6 @@
 * [2025-08-24, 15:14:34](https://news.ycombinator.com/item?id=45004846) - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
 * [2025-08-24, 15:01:24](https://news.ycombinator.com/item?id=45004728) - [Making games in Go: 3 months without LLMs vs. 3 days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
 * [2025-08-24, 12:28:52](https://news.ycombinator.com/item?id=45003750) - [Dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
-* [2025-08-24, 11:40:37](https://news.ycombinator.com/item?id=45003458) - [Spending too much time at airports](https://thezvi.substack.com/p/spending-too-much-time-at-airports)
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI object detection to your IP CCTV cameras](https://github.com/roryclear/clearcam)
 * [2025-08-24, 11:15:26](https://news.ycombinator.com/item?id=45003296) - [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)
 * [2025-08-24, 10:27:19](https://news.ycombinator.com/item?id=45003033) - [A German ISP changed their DNS to block my website](https://lina.sh/blog/telefonica-sabotages-me)
