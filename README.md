@@ -2,8 +2,8 @@
 
 * [2025-08-24, 08:06:03](https://news.ycombinator.com/item?id=45002315) - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
 * [2025-08-24, 08:02:12](https://news.ycombinator.com/item?id=45002301) - [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+* [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 * [2025-08-24, 06:57:19](https://news.ycombinator.com/item?id=45001979) - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
-* [2025-08-24, 06:03:15](https://news.ycombinator.com/item?id=45001778) - [Buy a Faster CPU](https://blog.howardjohn.info/posts/buy-a-cpu/)
 * [2025-08-24, 05:54:15](https://news.ycombinator.com/item?id=45001751) - [Equal Earth – Political Wall Map (2018)](https://equal-earth.com/index.html)
 * [2025-08-24, 05:51:43](https://news.ycombinator.com/item?id=45001740) - [Wildthing – A model trained on role-reversed ChatGPT conversations](https://youaretheassistantnow.com/)
 * [2025-08-24, 04:23:33](https://news.ycombinator.com/item?id=45001371) - [ThinkMesh: A Python lib for parallel thinking in LLMs](https://github.com/martianlantern/ThinkMesh)
