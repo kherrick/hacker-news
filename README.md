@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-24, 00:36:38](https://news.ycombinator.com/item?id=45000248) - [Tesla insiders have sold more than 50% of their shares in the last year](https://electrek.co/2025/08/18/tesla-tsla-insiders-have-sold-more-than-50-of-their-shares-in-the-last-year/)
+* [2025-08-24, 00:18:52](https://news.ycombinator.com/item?id=45000176) - [AGI Is an Engineering Problem](https://www.vincirufus.com/posts/agi-is-engineering-problem/)
 * [2025-08-23, 21:51:00](https://news.ycombinator.com/item?id=44999419) - [Actually Good Regulations](https://www.actuallygoodregulations.eu/)
 * [2025-08-23, 21:45:06](https://news.ycombinator.com/item?id=44999373) - [Interruptions cost 23 minutes 15 seconds, right?](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
 * [2025-08-23, 21:40:09](https://news.ycombinator.com/item?id=44999350) - [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
@@ -13,9 +15,7 @@
 * [2025-08-23, 12:29:02](https://news.ycombinator.com/item?id=44995508) - [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
 * [2025-08-23, 11:39:15](https://news.ycombinator.com/item?id=44995234) - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 * [2025-08-23, 11:22:15](https://news.ycombinator.com/item?id=44995147) - [Librebox: An open source, Roblox-compatible game engine](https://github.com/librebox-devs/librebox-demo)
-* [2025-08-23, 10:37:04](https://news.ycombinator.com/item?id=44994935) - [Determinants and causal effects of admission to selective private colleges [pdf] (2023)](https://www.nber.org/system/files/working_papers/w31492/w31492.pdf)
 * [2025-08-23, 10:32:43](https://news.ycombinator.com/item?id=44994918) - [I made a floppy disk from scratch](https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch)
-* [2025-08-23, 07:35:49](https://news.ycombinator.com/item?id=44994071) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 * [2025-08-22, 16:57:49](https://news.ycombinator.com/item?id=44986875) - [Ergonomic errors in Rust: write fast, debug with ease, handle precisely](https://gmcgoldr.github.io/2025/08/21/stackerror.html)
 * [2025-08-22, 15:54:44](https://news.ycombinator.com/item?id=44986098) - [Hacker and physicist – a tale of \"common sense\"](https://www.supasaf.com/blog/general/hacker_physicist)
 * [2025-08-22, 15:15:57](https://news.ycombinator.com/item?id=44985653) - [Static sites with Python, uv, Caddy, and Docker](https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/)
@@ -27,9 +27,9 @@
 * [2025-08-20, 21:14:12](https://news.ycombinator.com/item?id=44966543) - [Recreationally overengineering my location history](https://overengineer.dev/blog/2025/08/19/overengineering-location-history/)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
 * [2025-08-20, 14:03:51](https://news.ycombinator.com/item?id=44962077) - [Children of the Geissler Tube](https://www.hopefulmons.com/p/children-of-the-geissler-tube)
+* [2025-08-20, 12:11:00](https://news.ycombinator.com/item?id=44961155) - [Physics of badminton's new killer spin serve](https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/)
 * [2025-08-20, 11:00:14](https://news.ycombinator.com/item?id=44960718) - [Acronis True Image costs performance when not used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
 * [2025-08-19, 15:43:37](https://news.ycombinator.com/item?id=44952895) - [450× Faster Joins with Index Condition Pushdown](https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown)
-* [2025-08-19, 14:36:10](https://news.ycombinator.com/item?id=44952018) - [WebR – R in the Browser](https://docs.r-wasm.org/webr/latest/)
 
 ## [Archives](archives/index.md)
 

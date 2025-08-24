@@ -51,6 +51,7 @@
 * [2025-08-20, 13:05:39](https://news.ycombinator.com/item?id=44961584) - [RFK Jr. is waging a misguided war on mRNA vaccine technology](https://www.wsj.com/opinion/rfk-jr-mrna-vaccines-hhs-covid-jay-bhattacharya-e9fa1ac3)
 * [2025-08-20, 12:47:06](https://news.ycombinator.com/item?id=44961443) - [Why Is This Hard?](https://programmersstone.blog/posts/why-is-this-hard/)
 * [2025-08-20, 12:13:16](https://news.ycombinator.com/item?id=44961172) - [Sequoia Backs Zed's Vision for Collaborative Coding](https://zed.dev/blog/sequoia-backs-zed)
+* [2025-08-20, 12:11:00](https://news.ycombinator.com/item?id=44961155) - [Physics of badminton's new killer spin serve](https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/)
 * [2025-08-20, 12:10:58](https://news.ycombinator.com/item?id=44961153) - [Show HN: Pinch – macOS voice translation for real-time conversations](https://www.startpinch.com/)
 * [2025-08-20, 12:00:09](https://news.ycombinator.com/item?id=44961054) - [GiveCampus (YC S15) Hiring Rails engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
 * [2025-08-20, 11:08:15](https://news.ycombinator.com/item?id=44960750) - [Shader Academy: Learn computer graphics by solving challenges](https://shaderacademy.com/)
