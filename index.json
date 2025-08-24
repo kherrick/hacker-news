@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 05:51:43",
+      "https://news.ycombinator.com/item?id=45001740"
+    ],
+    [
+      "Wildthing – A model trained on role-reversed ChatGPT conversations",
+      "https://youaretheassistantnow.com/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 05:08:19",
       "https://news.ycombinator.com/item?id=45001551"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45000988"
     ],
     [
-      "Kinds of Programming People",
+      "Programming People (2016)",
       "https://leftoversalad.com/c/015_programmingpeople/"
     ]
   ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-08-21, 19:25:58",
-      "https://news.ycombinator.com/item?id=44976957"
-    ],
-    [
-      "Exploring EXIF (2023)",
-      "https://hturan.com/writing/exploring-exif"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 10:11:37",
       "https://news.ycombinator.com/item?id=44970974"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=44964731"
     ],
     [
-      "Taking a look at my old Palm IIIx – by Paul Lefebvre",
+      "My original Palm IIIx",
       "https://www.goto10retro.com/p/taking-a-look-at-my-old-palm-iiix"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-19, 15:43:37",
-      "https://news.ycombinator.com/item?id=44952895"
+      "2025-08-19, 21:11:31",
+      "https://news.ycombinator.com/item?id=44956297"
     ],
     [
-      "450× Faster Joins with Index Condition Pushdown",
-      "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown"
+      "A simple way to generate random points on a sphere",
+      "https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/"
     ]
   ]
 ]
