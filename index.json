@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-24, 00:36:38",
+      "https://news.ycombinator.com/item?id=45000248"
+    ],
+    [
+      "Tesla insiders have sold more than 50% of their shares in the last year",
+      "https://electrek.co/2025/08/18/tesla-tsla-insiders-have-sold-more-than-50-of-their-shares-in-the-last-year/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 00:18:52",
+      "https://news.ycombinator.com/item?id=45000176"
+    ],
+    [
+      "AGI Is an Engineering Problem",
+      "https://www.vincirufus.com/posts/agi-is-engineering-problem/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 21:51:00",
       "https://news.ycombinator.com/item?id=44999419"
     ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2025-08-23, 10:37:04",
-      "https://news.ycombinator.com/item?id=44994935"
-    ],
-    [
-      "Determinants and causal effects of admission to selective private colleges [pdf] (2023)",
-      "https://www.nber.org/system/files/working_papers/w31492/w31492.pdf"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 10:32:43",
       "https://news.ycombinator.com/item?id=44994918"
     ],
     [
       "I made a floppy disk from scratch",
       "https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 07:35:49",
-      "https://news.ycombinator.com/item?id=44994071"
-    ],
-    [
-      "Manim: Animation engine for explanatory math videos",
-      "https://github.com/3b1b/manim"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-08-20, 12:11:00",
+      "https://news.ycombinator.com/item?id=44961155"
+    ],
+    [
+      "Physics of badminton's new killer spin serve",
+      "https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 11:00:14",
       "https://news.ycombinator.com/item?id=44960718"
     ],
@@ -287,16 +297,6 @@
     [
       "450× Faster Joins with Index Condition Pushdown",
       "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 14:36:10",
-      "https://news.ycombinator.com/item?id=44952018"
-    ],
-    [
-      "WebR – R in the Browser",
-      "https://docs.r-wasm.org/webr/latest/"
     ]
   ]
 ]
