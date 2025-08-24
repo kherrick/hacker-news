@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 23:27:52",
+      "https://news.ycombinator.com/item?id=45008740"
+    ],
+    [
+      "Ghrc.io Appears to Be Malicious",
+      "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 21:22:07",
       "https://news.ycombinator.com/item?id=45007907"
     ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2025-08-24, 16:30:18",
-      "https://news.ycombinator.com/item?id=45005545"
+      "2025-08-24, 17:38:30",
+      "https://news.ycombinator.com/item?id=45006098"
     ],
     [
-      "Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?",
-      "https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/"
+      "Show HN: I Built a XSLT Blog Framework",
+      "https://vgr.land/content/posts/20250821.xml"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "A German ISP changed their DNS to block my website",
       "https://lina.sh/blog/telefonica-sabotages-me"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 06:57:19",
-      "https://news.ycombinator.com/item?id=45001979"
-    ],
-    [
-      "Seed: Interactive software environment based on Common Lisp",
-      "https://github.com/phantomics/seed"
     ]
   ],
   [
