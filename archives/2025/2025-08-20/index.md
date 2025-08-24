@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 23:25:58](https://news.ycombinator.com/item?id=44967543) - [Burner Phone 101](https://rebeccawilliams.info/burner-phone-101/)
 * [2025-08-20, 23:15:55](https://news.ycombinator.com/item?id=44967505) - [SimpleIDE](https://github.com/jamesplotts/simpleide)
 * [2025-08-20, 23:10:37](https://news.ycombinator.com/item?id=44967469) - [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
 * [2025-08-20, 23:00:14](https://news.ycombinator.com/item?id=44967396) - [Go-away – Customizable, conditional challenges to incoming requests](https://git.gammaspectra.live/git/go-away/wiki/Challenges)

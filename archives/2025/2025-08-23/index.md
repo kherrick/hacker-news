@@ -17,6 +17,7 @@
 * [2025-08-23, 19:35:31](https://news.ycombinator.com/item?id=44998514) - [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
 * [2025-08-23, 19:10:32](https://news.ycombinator.com/item?id=44998316) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 * [2025-08-23, 19:07:42](https://news.ycombinator.com/item?id=44998295) - [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
+* [2025-08-23, 18:42:32](https://news.ycombinator.com/item?id=44998092) - [Will at centre of legal battle over Shakespeare’s home unearthed after 150 years](https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years)
 * [2025-08-23, 18:38:48](https://news.ycombinator.com/item?id=44998075) - [The F-35 Is Losing the (Trade) War](https://www.jalopnik.com/1945910/f-35-fighter-jet-losing-trade-war/)
 * [2025-08-23, 17:15:24](https://news.ycombinator.com/item?id=44997435) - [RFK Jr demanded a vaccine study be retracted – the journal said no](https://www.nature.com/articles/d41586-025-02682-9)
 * [2025-08-23, 17:00:14](https://news.ycombinator.com/item?id=44997289) - [Bild AI (YC W25) Is Hiring Applied AI Founding Engineer](https://www.workatastartup.com/jobs/75647)
