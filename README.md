@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-24, 21:40:35](https://news.ycombinator.com/item?id=45008056) - [Uncle Sam Shouldn't Own Intel Stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
 * [2025-08-24, 21:22:07](https://news.ycombinator.com/item?id=45007907) - [SpaceX Starship Orbital Flight Test 10](https://www.spacex.com/launches/starship-flight-10)
 * [2025-08-24, 20:19:55](https://news.ycombinator.com/item?id=45007414) - [Halt and Catch Fire Syllabus (2021)](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 * [2025-08-24, 19:23:19](https://news.ycombinator.com/item?id=45006902) - [A brilliant and nearby one-off fast radio burst localized to 13pc precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
@@ -19,7 +20,6 @@
 * [2025-08-24, 06:57:19](https://news.ycombinator.com/item?id=45001979) - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
 * [2025-08-24, 06:03:15](https://news.ycombinator.com/item?id=45001778) - [It is worth it to buy the fast CPU](https://blog.howardjohn.info/posts/buy-a-cpu/)
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [How to build a coding agent](https://ghuntley.com/agent/)
-* [2025-08-23, 21:45:06](https://news.ycombinator.com/item?id=44999373) - [The cost of interrupted work (2023)](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
 * [2025-08-23, 21:13:39](https://news.ycombinator.com/item?id=44999194) - [Materialized views are obviously useful](https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful)
 * [2025-08-23, 18:42:32](https://news.ycombinator.com/item?id=44998092) - [Will at centre of legal battle over Shakespeare’s home unearthed after 150 years](https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years)
 * [2025-08-22, 21:33:12](https://news.ycombinator.com/item?id=44990089) - [Show HN: My first game made with my homemade engine](https://reprobate.site/)
@@ -27,7 +27,7 @@
 * [2025-08-22, 16:46:42](https://news.ycombinator.com/item?id=44986723) - [Trees on city streets cope with drought by drinking from leaky pipes](https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/)
 * [2025-08-22, 04:14:10](https://news.ycombinator.com/item?id=44980940) - [Cloudflare incident on August 21, 2025](https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/)
 * [2025-08-22, 00:42:44](https://news.ycombinator.com/item?id=44979906) - [NASA's Juno mission leaves legacy of science at Jupiter](https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/)
-* [2025-08-21, 12:36:36](https://news.ycombinator.com/item?id=44972000) - [Don't pick weird subnets for embedded networks, use VRFs](https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/)
+* [2025-08-21, 17:09:08](https://news.ycombinator.com/item?id=44975313) - [Iterative DFS with stack-based graph traversal (2024)](https://dwf.dev/blog/2024/09/23/2024/dfs-iterative-stack-based)
 * [2025-08-21, 09:34:32](https://news.ycombinator.com/item?id=44970769) - [The two versions of Parquet](https://www.jeronimo.dev/the-two-versions-of-parquet/)
 * [2025-08-20, 23:25:58](https://news.ycombinator.com/item?id=44967543) - [Burner Phone 101](https://rebeccawilliams.info/burner-phone-101/)
 
