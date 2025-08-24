@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-24, 10:31:09](https://news.ycombinator.com/item?id=45003052) - [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap)
+* [2025-08-24, 10:27:19](https://news.ycombinator.com/item?id=45003033) - [A German ISP tampered with their DNS – specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 10:10:29](https://news.ycombinator.com/item?id=45002958) - [Writing with LLM is not a shame](https://reflexions.florianernotte.be/post/ai-transparency/)
 * [2025-08-24, 09:23:46](https://news.ycombinator.com/item?id=45002747) - [US halts work on almost finished wind farm because national security](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy)
 * [2025-08-24, 08:06:03](https://news.ycombinator.com/item?id=45002315) - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
@@ -23,8 +24,7 @@
 * [2025-08-23, 16:09:21](https://news.ycombinator.com/item?id=44996938) - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-23, 12:54:01](https://news.ycombinator.com/item?id=44995640) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 * [2025-08-22, 19:31:41](https://news.ycombinator.com/item?id=44988845) - [Why was Apache Kafka created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
-* [2025-08-22, 17:14:56](https://news.ycombinator.com/item?id=44987078) - [Texas Instruments’ new plants where Apple will make iPhone chips](https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html)
-* [2025-08-22, 07:10:15](https://news.ycombinator.com/item?id=44981757) - [Insights from research with probiotic E. coli (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5063008/)
+* [2025-08-21, 20:54:11](https://news.ycombinator.com/item?id=44977956) - [The oldest unopened bottle of wine in the world](https://www.openculture.com/2025/08/the-oldest-unopened-bottle-of-wine-in-the-world.html)
 * [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
 * [2025-08-20, 23:00:14](https://news.ycombinator.com/item?id=44967396) - [Go-away – Customizable, conditional challenges to incoming requests](https://git.gammaspectra.live/git/go-away/wiki/Challenges)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)

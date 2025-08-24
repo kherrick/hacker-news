@@ -14,6 +14,7 @@
 * [2025-08-21, 21:10:34](https://news.ycombinator.com/item?id=44978140) - [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
 * [2025-08-21, 21:04:39](https://news.ycombinator.com/item?id=44978073) - [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
 * [2025-08-21, 20:54:34](https://news.ycombinator.com/item?id=44977960) - [Open Source Maintenance Fee business model example from WiX Toolset](https://github.com/wixtoolset)
+* [2025-08-21, 20:54:11](https://news.ycombinator.com/item?id=44977956) - [The oldest unopened bottle of wine in the world](https://www.openculture.com/2025/08/the-oldest-unopened-bottle-of-wine-in-the-world.html)
 * [2025-08-21, 20:53:29](https://news.ycombinator.com/item?id=44977949) - [How Delphi achieved sub 100ms retrieval with Pinecone](https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/)
 * [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
 * [2025-08-21, 20:37:13](https://news.ycombinator.com/item?id=44977758) - [Reproducing prospect theory with 'differentiable decision theories'](https://www.science.org/doi/full/10.1126/science.abe2629)
