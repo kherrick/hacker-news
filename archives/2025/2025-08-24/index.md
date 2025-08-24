@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 05:54:15](https://news.ycombinator.com/item?id=45001751) - [Equal Earth – Political Wall Map (2018)](https://equal-earth.com/index.html)
 * [2025-08-24, 05:51:43](https://news.ycombinator.com/item?id=45001740) - [Wildthing – A model trained on role-reversed ChatGPT conversations](https://youaretheassistantnow.com/)
 * [2025-08-24, 05:08:19](https://news.ycombinator.com/item?id=45001551) - [Ask HN: Best codebases to study to learn software design?](https://news.ycombinator.com/item?id=45001551)
 * [2025-08-24, 04:23:33](https://news.ycombinator.com/item?id=45001371) - [ThinkMesh: A Python lib for parallel thinking in LLMs](https://github.com/martianlantern/ThinkMesh)
