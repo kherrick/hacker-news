@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-24, 09:35:35](https://news.ycombinator.com/item?id=45002806) - [Declaration of famine in Gaza lays bare Israel's disregard for humanitarian duty](https://www.theguardian.com/world/2025/aug/24/gaza-famine-declaration-israel-humanitarian-duty-analysis)
+* [2025-08-24, 09:23:46](https://news.ycombinator.com/item?id=45002747) - [US halts work on almost finished wind farm because national security](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy)
 * [2025-08-24, 08:06:03](https://news.ycombinator.com/item?id=45002315) - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
 * [2025-08-24, 08:02:12](https://news.ycombinator.com/item?id=45002301) - [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
 * [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
