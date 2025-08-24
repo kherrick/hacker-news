@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-24, 12:40:49",
+      "https://news.ycombinator.com/item?id=45003819"
+    ],
+    [
+      "ICE Uses Celebrity Loophole to Hide Deportation Flights",
+      "https://jacobin.com/2025/08/ice-uses-celebrities-loophole-to-hide-deportation-flights/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 12:28:52",
+      "https://news.ycombinator.com/item?id=45003750"
+    ],
+    [
+      "Dynamically patch a Python function's source code at runtime",
+      "https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 12:06:17",
+      "https://news.ycombinator.com/item?id=45003602"
+    ],
+    [
+      "Germany's Copyright Clearing House now requires courts for website blocks",
+      "https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 11:40:37",
       "https://news.ycombinator.com/item?id=45003458"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-08-24, 00:40:33",
-      "https://news.ycombinator.com/item?id=45000270"
-    ],
-    [
-      "Evaluating LLMs for my personal use case",
-      "https://darkcoding.net/software/personal-ai-evals-aug-2025/"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 21:45:06",
       "https://news.ycombinator.com/item?id=44999373"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-08-22, 17:14:56",
-      "https://news.ycombinator.com/item?id=44987078"
+      "2025-08-22, 15:13:22",
+      "https://news.ycombinator.com/item?id=44985619"
     ],
     [
-      "Texas Instruments’ new plants where Apple will make iPhone chips",
-      "https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 15:15:57",
-      "https://news.ycombinator.com/item?id=44985653"
-    ],
-    [
-      "Static sites with Python, uv, Caddy, and Docker",
-      "https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 22:55:05",
-      "https://news.ycombinator.com/item?id=44979136"
-    ],
-    [
-      "A Clash Course in Solving Sudoku (Functional Pearl) [pdf]",
-      "https://unsafeperform.io/papers/2025-hs-clash-sudoku/2025-hs-clash-sudoku.pdf"
+      "SSD-IQ: Uncovering the Hidden Side of SSD Performance [pdf]",
+      "https://www.vldb.org/pvldb/vol18/p4295-haas.pdf"
     ]
   ],
   [
