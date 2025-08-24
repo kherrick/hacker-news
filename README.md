@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-24, 18:32:43](https://news.ycombinator.com/item?id=45006507) - [How Does a Firewall Work Step by Step](https://kalilinuxtutorials.com/how-firewall-works-step-by-step/)
 * [2025-08-24, 18:02:55](https://news.ycombinator.com/item?id=45006296) - [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
-* [2025-08-24, 17:44:55](https://news.ycombinator.com/item?id=45006147) - [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
 * [2025-08-24, 17:27:19](https://news.ycombinator.com/item?id=45006002) - [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
-* [2025-08-24, 17:16:09](https://news.ycombinator.com/item?id=45005902) - [People stuck using ancient Windows computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)
 * [2025-08-24, 16:30:18](https://news.ycombinator.com/item?id=45005545) - [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
 * [2025-08-24, 16:18:53](https://news.ycombinator.com/item?id=45005434) - [We put a coding agent in a while loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
 * [2025-08-24, 15:14:34](https://news.ycombinator.com/item?id=45004846) - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
@@ -13,6 +12,7 @@
 * [2025-08-24, 11:15:26](https://news.ycombinator.com/item?id=45003296) - [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)
 * [2025-08-24, 10:27:19](https://news.ycombinator.com/item?id=45003033) - [A German ISP changed their DNS to block my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 10:10:29](https://news.ycombinator.com/item?id=45002958) - [Writing with LLM is not a shame](https://reflexions.florianernotte.be/post/ai-transparency/)
+* [2025-08-24, 08:02:12](https://news.ycombinator.com/item?id=45002301) - [Valve Software handbook for new employees [pdf] (2012)](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
 * [2025-08-24, 06:57:19](https://news.ycombinator.com/item?id=45001979) - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
 * [2025-08-24, 06:03:15](https://news.ycombinator.com/item?id=45001778) - [It is worth it to buy the fast CPU](https://blog.howardjohn.info/posts/buy-a-cpu/)
 * [2025-08-24, 05:54:15](https://news.ycombinator.com/item?id=45001751) - [Equal Earth – Political Wall Map (2018)](https://equal-earth.com/index.html)
