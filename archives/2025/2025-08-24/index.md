@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 20:22:26](https://news.ycombinator.com/item?id=45007437) - [Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)
+* [2025-08-24, 19:23:19](https://news.ycombinator.com/item?id=45006902) - [A Brilliant and Nearby One-Off Fast Radio Burst Localized to 13pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
 * [2025-08-24, 18:32:43](https://news.ycombinator.com/item?id=45006507) - [How Does a Firewall Work Step by Step](https://kalilinuxtutorials.com/how-firewall-works-step-by-step/)
 * [2025-08-24, 18:26:55](https://news.ycombinator.com/item?id=45006468) - [Walmart Fires VP for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)
 * [2025-08-24, 18:02:55](https://news.ycombinator.com/item?id=45006296) - [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
