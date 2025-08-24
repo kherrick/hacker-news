@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 14:22:36](https://news.ycombinator.com/item?id=45004466) - [US attack on renewables will lead to power crunch that spikes electricity prices](https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html)
 * [2025-08-24, 13:49:06](https://news.ycombinator.com/item?id=45004235) - [US Supreme Court allows NIH to cut $2B in research grants](https://www.nature.com/articles/d41586-025-02721-5)
 * [2025-08-24, 13:35:58](https://news.ycombinator.com/item?id=45004155) - [Show HN: Next.js internationalization – next-internationalizationext VS next-intl VS intlayer](https://intlayer.org/blog/next-i18next-vs-next-intl-vs-intlayer)
 * [2025-08-24, 12:40:49](https://news.ycombinator.com/item?id=45003819) - [ICE Uses Celebrity Loophole to Hide Deportation Flights](https://jacobin.com/2025/08/ice-uses-celebrities-loophole-to-hide-deportation-flights/)
