@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 21:40:35",
+      "https://news.ycombinator.com/item?id=45008056"
+    ],
+    [
+      "Uncle Sam Shouldn't Own Intel Stock",
+      "https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 21:22:07",
       "https://news.ycombinator.com/item?id=45007907"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-08-23, 21:45:06",
-      "https://news.ycombinator.com/item?id=44999373"
-    ],
-    [
-      "The cost of interrupted work (2023)",
-      "https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 21:13:39",
       "https://news.ycombinator.com/item?id=44999194"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-08-21, 12:36:36",
-      "https://news.ycombinator.com/item?id=44972000"
+      "2025-08-21, 17:09:08",
+      "https://news.ycombinator.com/item?id=44975313"
     ],
     [
-      "Don't pick weird subnets for embedded networks, use VRFs",
-      "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/"
+      "Iterative DFS with stack-based graph traversal (2024)",
+      "https://dwf.dev/blog/2024/09/23/2024/dfs-iterative-stack-based"
     ]
   ],
   [
