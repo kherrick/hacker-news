@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 13:35:58",
+      "https://news.ycombinator.com/item?id=45004155"
+    ],
+    [
+      "Show HN: Next.js internationalization – next-internationalizationext VS next-intl VS intlayer",
+      "https://intlayer.org/blog/next-i18next-vs-next-intl-vs-intlayer"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 12:40:49",
       "https://news.ycombinator.com/item?id=45003819"
     ],
@@ -46,6 +56,16 @@
     ],
     [
       "Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute",
+      "https://github.com/roryclear/clearcam"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 11:25:21",
+      "https://news.ycombinator.com/item?id=45003360"
+    ],
+    [
+      "Show HN: Clearcam – Add AI object detection to Your IP CCTV cameras in a minute",
       "https://github.com/roryclear/clearcam"
     ]
   ],
@@ -137,16 +157,6 @@
     [
       "Programming People (2016)",
       "https://leftoversalad.com/c/015_programmingpeople/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 03:08:15",
-      "https://news.ycombinator.com/item?id=45000982"
-    ],
-    [
-      "Show HN: Port Kill – A lightweight macOS status bar development port monitor",
-      "https://github.com/kagehq/port-kill"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Marshal madness: A brief history of Ruby deserialization exploits",
       "https://blog.trailofbits.com/2025/08/20/marshal-madness-a-brief-history-of-ruby-deserialization-exploits/"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 11:00:14",
-      "https://news.ycombinator.com/item?id=44960718"
-    ],
-    [
-      "Acronis True Image costs performance when not used",
-      "https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/"
     ]
   ]
 ]
