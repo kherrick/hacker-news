@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-08-24, 13:35:58",
-      "https://news.ycombinator.com/item?id=45004155"
-    ],
-    [
-      "Show HN: Next.js internationalization – next-internationalizationext VS next-intl VS intlayer",
-      "https://intlayer.org/blog/next-i18next-vs-next-intl-vs-intlayer"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 12:40:49",
       "https://news.ycombinator.com/item?id=45003819"
     ],
     [
-      "ICE Uses Celebrity Loophole to Hide Deportation Flights",
+      "ICE uses celebrity loophole to hide deportation flights",
       "https://jacobin.com/2025/08/ice-uses-celebrities-loophole-to-hide-deportation-flights/"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45003458"
     ],
     [
-      "Spending Too Much Time at Airports",
+      "Spending too much time at airports",
       "https://thezvi.substack.com/p/spending-too-much-time-at-airports"
     ]
   ],
@@ -56,16 +46,6 @@
     ],
     [
       "Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute",
-      "https://github.com/roryclear/clearcam"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 11:25:21",
-      "https://news.ycombinator.com/item?id=45003360"
-    ],
-    [
-      "Show HN: Clearcam – Add AI object detection to Your IP CCTV cameras in a minute",
       "https://github.com/roryclear/clearcam"
     ]
   ],
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45002315"
     ],
     [
-      "Turning Claude Code into My Best Design Partner",
+      "Turning Claude Code into my best design partner",
       "https://betweentheprompts.com/design-partner/"
     ]
   ],
@@ -117,6 +97,16 @@
     [
       "Seed: Interactive software environment based on Common Lisp",
       "https://github.com/phantomics/seed"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 05:54:15",
+      "https://news.ycombinator.com/item?id=45001751"
+    ],
+    [
+      "Equal Earth – Political Wall Map (2018)",
+      "https://equal-earth.com/index.html"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2025-08-21, 23:15:03",
+      "https://news.ycombinator.com/item?id=44979301"
+    ],
+    [
+      "A short introduction to optimal transport and Wasserstein distance",
+      "https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 20:54:11",
       "https://news.ycombinator.com/item?id=44977956"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-20, 11:41:33",
-      "https://news.ycombinator.com/item?id=44960942"
+      "2025-08-20, 11:00:14",
+      "https://news.ycombinator.com/item?id=44960718"
     ],
     [
-      "Marshal madness: A brief history of Ruby deserialization exploits",
-      "https://blog.trailofbits.com/2025/08/20/marshal-madness-a-brief-history-of-ruby-deserialization-exploits/"
+      "Acronis True Image costs performance when not used",
+      "https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/"
     ]
   ]
 ]
