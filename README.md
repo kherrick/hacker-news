@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-24, 08:23:11](https://news.ycombinator.com/item?id=45002403) - [Israeli army database suggests at least 83% of Gaza dead were civilians](https://www.972mag.com/israeli-intelligence-database-83-percent-civilians-militants/)
 * [2025-08-24, 08:06:03](https://news.ycombinator.com/item?id=45002315) - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
 * [2025-08-24, 08:02:12](https://news.ycombinator.com/item?id=45002301) - [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
 * [2025-08-24, 06:57:19](https://news.ycombinator.com/item?id=45001979) - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
@@ -23,6 +22,7 @@
 * [2025-08-22, 19:31:41](https://news.ycombinator.com/item?id=44988845) - [Why was Apache Kafka created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
 * [2025-08-22, 17:14:56](https://news.ycombinator.com/item?id=44987078) - [Texas Instruments’ new plants where Apple will make iPhone chips](https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html)
 * [2025-08-22, 15:15:57](https://news.ycombinator.com/item?id=44985653) - [Static sites with Python, uv, Caddy, and Docker](https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/)
+* [2025-08-21, 22:55:05](https://news.ycombinator.com/item?id=44979136) - [A Clash Course in Solving Sudoku (Functional Pearl) [pdf]](https://unsafeperform.io/papers/2025-hs-clash-sudoku/2025-hs-clash-sudoku.pdf)
 * [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
 * [2025-08-21, 10:11:37](https://news.ycombinator.com/item?id=44970974) - [What if every city had a London Overground?](https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
