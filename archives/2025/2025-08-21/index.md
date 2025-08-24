@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 23:15:03](https://news.ycombinator.com/item?id=44979301) - [A short introduction to optimal transport and Wasserstein distance](https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/)
 * [2025-08-21, 22:55:05](https://news.ycombinator.com/item?id=44979136) - [A Clash Course in Solving Sudoku (Functional Pearl) [pdf]](https://unsafeperform.io/papers/2025-hs-clash-sudoku/2025-hs-clash-sudoku.pdf)
 * [2025-08-21, 22:52:14](https://news.ycombinator.com/item?id=44979107) - [From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
 * [2025-08-21, 22:28:47](https://news.ycombinator.com/item?id=44978869) - [The Onion Brought Back Its Print Edition. The Gamble Is Paying Off](https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c)
