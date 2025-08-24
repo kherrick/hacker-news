@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 12:40:49](https://news.ycombinator.com/item?id=45003819) - [ICE Uses Celebrity Loophole to Hide Deportation Flights](https://jacobin.com/2025/08/ice-uses-celebrities-loophole-to-hide-deportation-flights/)
+* [2025-08-24, 12:28:52](https://news.ycombinator.com/item?id=45003750) - [Dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
+* [2025-08-24, 12:06:17](https://news.ycombinator.com/item?id=45003602) - [Germany's Copyright Clearing House now requires courts for website blocks](https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html)
 * [2025-08-24, 11:40:37](https://news.ycombinator.com/item?id=45003458) - [Spending Too Much Time at Airports](https://thezvi.substack.com/p/spending-too-much-time-at-airports)
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
 * [2025-08-24, 11:15:26](https://news.ycombinator.com/item?id=45003296) - [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)

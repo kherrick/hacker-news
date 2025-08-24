@@ -50,6 +50,7 @@
 * [2025-08-22, 15:46:58](https://news.ycombinator.com/item?id=44986013) - [Vibe Debugging: Enterprises' Up and Coming Nightmare](https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and)
 * [2025-08-22, 15:22:42](https://news.ycombinator.com/item?id=44985730) - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
 * [2025-08-22, 15:15:57](https://news.ycombinator.com/item?id=44985653) - [Static sites with Python, uv, Caddy, and Docker](https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/)
+* [2025-08-22, 15:13:22](https://news.ycombinator.com/item?id=44985619) - [SSD-IQ: Uncovering the Hidden Side of SSD Performance [pdf]](https://www.vldb.org/pvldb/vol18/p4295-haas.pdf)
 * [2025-08-22, 14:47:05](https://news.ycombinator.com/item?id=44985323) - [Does MHz Still Matter?](https://www.ubicloud.com/blog/does-mhz-still-matter)
 * [2025-08-22, 14:43:31](https://news.ycombinator.com/item?id=44985278) - [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
 * [2025-08-22, 14:37:11](https://news.ycombinator.com/item?id=44985207) - [A Guide to Gen AI / LLM Vibecoding for Expert Programmers](https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/)
