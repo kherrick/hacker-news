@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-24, 16:18:53",
-      "https://news.ycombinator.com/item?id=45005434"
-    ],
-    [
-      "We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight",
-      "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 15:40:38",
       "https://news.ycombinator.com/item?id=45005071"
     ],
@@ -227,6 +217,16 @@
     [
       "Line scan camera image processing for train photography",
       "https://daniel.lawrence.lu/blog/y2025m09d21/"
+    ]
+  ],
+  [
+    [
+      "2025-08-22, 19:31:41",
+      "https://news.ycombinator.com/item?id=44988845"
+    ],
+    [
+      "Why was Apache Kafka created?",
+      "https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created"
     ]
   ],
   [
