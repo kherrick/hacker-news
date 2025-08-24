@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-08-24, 03:21:14",
+      "https://news.ycombinator.com/item?id=45001051"
+    ],
+    [
+      "Show HN: How to Build a Coding Agent (free workshop)",
+      "https://ghuntley.com/agent/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 01:35:54",
       "https://news.ycombinator.com/item?id=45000546"
     ],
     [
       "Not so prompt: Prompt optimization as model selection (2024)",
       "https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 01:09:06",
+      "https://news.ycombinator.com/item?id=45000400"
+    ],
+    [
+      "DeepCode: Open Agentic Coding",
+      "https://github.com/HKUDS/DeepCode"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 00:40:33",
+      "https://news.ycombinator.com/item?id=45000270"
+    ],
+    [
+      "Evaluating LLMs for my personal use case",
+      "https://darkcoding.net/software/personal-ai-evals-aug-2025/"
     ]
   ],
   [
@@ -31,32 +61,12 @@
   ],
   [
     [
-      "2025-08-23, 21:51:00",
-      "https://news.ycombinator.com/item?id=44999419"
-    ],
-    [
-      "Good EU regulations",
-      "https://www.actuallygoodregulations.eu/"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 21:45:06",
       "https://news.ycombinator.com/item?id=44999373"
     ],
     [
       "The cost of interrupted work (2023)",
       "https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 21:40:09",
-      "https://news.ycombinator.com/item?id=44999350"
-    ],
-    [
-      "Gutenprint Discontinues macOS Support",
-      "https://gimp-print.sourceforge.io/p_FAQ_OS_X.php"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Librebox: An open source, Roblox-compatible game engine",
       "https://github.com/librebox-devs/librebox-demo"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 10:32:43",
-      "https://news.ycombinator.com/item?id=44994918"
-    ],
-    [
-      "I made a floppy disk from scratch",
-      "https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch"
     ]
   ],
   [
