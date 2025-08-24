@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 15:14:34](https://news.ycombinator.com/item?id=45004846) - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
+* [2025-08-24, 14:41:58](https://news.ycombinator.com/item?id=45004617) - [Deep Think with Confidence](https://arxiviq.substack.com/p/deep-think-with-confidence)
 * [2025-08-24, 14:22:36](https://news.ycombinator.com/item?id=45004466) - [US attack on renewables will lead to power crunch that spikes electricity prices](https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html)
 * [2025-08-24, 13:49:06](https://news.ycombinator.com/item?id=45004235) - [US Supreme Court allows NIH to cut $2B in research grants](https://www.nature.com/articles/d41586-025-02721-5)
 * [2025-08-24, 13:35:58](https://news.ycombinator.com/item?id=45004155) - [Show HN: Next.js internationalization – next-internationalizationext VS next-intl VS intlayer](https://intlayer.org/blog/next-i18next-vs-next-intl-vs-intlayer)

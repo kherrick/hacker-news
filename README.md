@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-24, 15:14:34](https://news.ycombinator.com/item?id=45004846) - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
+* [2025-08-24, 14:41:58](https://news.ycombinator.com/item?id=45004617) - [Deep Think with Confidence](https://arxiviq.substack.com/p/deep-think-with-confidence)
 * [2025-08-24, 14:22:36](https://news.ycombinator.com/item?id=45004466) - [US attack on renewables will lead to power crunch that spikes electricity prices](https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html)
-* [2025-08-24, 13:49:06](https://news.ycombinator.com/item?id=45004235) - [US Supreme Court allows NIH to cut $2B in research grants](https://www.nature.com/articles/d41586-025-02721-5)
 * [2025-08-24, 12:28:52](https://news.ycombinator.com/item?id=45003750) - [Dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
 * [2025-08-24, 12:06:17](https://news.ycombinator.com/item?id=45003602) - [Germany's Copyright Clearing House now requires courts for website blocks](https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html)
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
@@ -21,7 +22,6 @@
 * [2025-08-23, 16:24:00](https://news.ycombinator.com/item?id=44997023) - [Setting serial baud rate on ESP-IDF does nothing](https://atomic14.substack.com/p/this-number-does-nothing)
 * [2025-08-23, 16:09:21](https://news.ycombinator.com/item?id=44996938) - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-22, 19:31:41](https://news.ycombinator.com/item?id=44988845) - [Why was Apache Kafka created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
-* [2025-08-22, 18:01:02](https://news.ycombinator.com/item?id=44987617) - [A Family Project (2022)](https://bittersoutherner.com/feature/2022/a-family-project)
 * [2025-08-22, 16:46:42](https://news.ycombinator.com/item?id=44986723) - [Trees on city streets cope with drought by drinking from leaky pipes](https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/)
 * [2025-08-22, 15:13:22](https://news.ycombinator.com/item?id=44985619) - [SSD-IQ: Uncovering the Hidden Side of SSD Performance [pdf]](https://www.vldb.org/pvldb/vol18/p4295-haas.pdf)
 * [2025-08-21, 23:15:03](https://news.ycombinator.com/item?id=44979301) - [A short introduction to optimal transport and Wasserstein distance (2020)](https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/)
