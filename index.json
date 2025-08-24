@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-24, 08:23:11",
-      "https://news.ycombinator.com/item?id=45002403"
-    ],
-    [
-      "Israeli army database suggests at least 83% of Gaza dead were civilians",
-      "https://www.972mag.com/israeli-intelligence-database-83-percent-civilians-militants/"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 08:06:03",
       "https://news.ycombinator.com/item?id=45002315"
     ],
@@ -227,6 +217,16 @@
     [
       "Static sites with Python, uv, Caddy, and Docker",
       "https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 22:55:05",
+      "https://news.ycombinator.com/item?id=44979136"
+    ],
+    [
+      "A Clash Course in Solving Sudoku (Functional Pearl) [pdf]",
+      "https://unsafeperform.io/papers/2025-hs-clash-sudoku/2025-hs-clash-sudoku.pdf"
     ]
   ],
   [
