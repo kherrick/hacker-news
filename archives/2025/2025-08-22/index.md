@@ -15,6 +15,7 @@
 * [2025-08-22, 22:29:28](https://news.ycombinator.com/item?id=44990680) - [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
 * [2025-08-22, 22:18:54](https://news.ycombinator.com/item?id=44990559) - [Tesla Hasn't Filed Crash Reports on Time. Federal Investigators Want to Know Why](https://www.wsj.com/business/autos/tesla-hasnt-filed-crash-reports-on-time-federal-investigators-want-to-know-why-f526045c)
 * [2025-08-22, 22:06:59](https://news.ycombinator.com/item?id=44990435) - [Will AI Destroy the World Wide Web?](https://cacm.acm.org/opinion/will-ai-destroy-the-world-wide-web/)
+* [2025-08-22, 21:33:12](https://news.ycombinator.com/item?id=44990089) - [Show HN: My first game made with my homemade engine](https://reprobate.site/)
 * [2025-08-22, 21:01:52](https://news.ycombinator.com/item?id=44989773) - [US takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
 * [2025-08-22, 20:56:16](https://news.ycombinator.com/item?id=44989706) - [From $479 to $2,800 a month for ACA health insurance next year](https://www.npr.org/sections/shots-health-news/2025/08/22/nx-s1-5511182/aca-tax-credits-health-insurance-open-enrollment)
 * [2025-08-22, 20:23:35](https://news.ycombinator.com/item?id=44989373) - [Ejabberd 25.08 / ProcessOne – Erlang Jabber/XMPP/Matrix Server – Communication](https://www.process-one.net/blog/ejabberd-25-08/)
