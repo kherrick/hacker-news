@@ -16,6 +16,7 @@
 * [2025-08-20, 18:59:49](https://news.ycombinator.com/item?id=44965079) - [Show HN: Tool shows UK properties matching group commute/time preferences](https://closemove.com)
 * [2025-08-20, 18:47:03](https://news.ycombinator.com/item?id=44964916) - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How Can AI ID a Cat? An Illustrated Guide](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
+* [2025-08-20, 18:31:14](https://news.ycombinator.com/item?id=44964731) - [Taking a look at my old Palm IIIx – by Paul Lefebvre](https://www.goto10retro.com/p/taking-a-look-at-my-old-palm-iiix)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover](https://imperialcollegelondon.github.io/FLT/)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Lean proof of Fermat's Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
 * [2025-08-20, 18:12:52](https://news.ycombinator.com/item?id=44964548) - [Say farewell to the AI bubble, and get ready for the crash](https://www.latimes.com/business/story/2025-08-20/say-farewell-to-the-ai-bubble-and-get-ready-for-the-crash)
