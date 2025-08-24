@@ -22,6 +22,7 @@
 * [2025-08-22, 17:14:56](https://news.ycombinator.com/item?id=44987078) - [Texas Instruments’ new plants where Apple will make iPhone chips](https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html)
 * [2025-08-22, 15:15:57](https://news.ycombinator.com/item?id=44985653) - [Static sites with Python, uv, Caddy, and Docker](https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/)
 * [2025-08-22, 13:42:01](https://news.ycombinator.com/item?id=44984599) - [Optimizing our way through Metroid](https://antithesis.com/blog/2025/metroid/)
+* [2025-08-22, 07:10:15](https://news.ycombinator.com/item?id=44981757) - [Insights from 100 Years of Research with Probiotic E. Coli](https://pmc.ncbi.nlm.nih.gov/articles/PMC5063008/)
 * [2025-08-21, 20:54:34](https://news.ycombinator.com/item?id=44977960) - [Open Source Maintenance Fee business model example from WiX Toolset](https://github.com/wixtoolset)
 * [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
 * [2025-08-21, 10:11:37](https://news.ycombinator.com/item?id=44970974) - [What if every city had a London Overground?](https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9)
@@ -29,7 +30,6 @@
 * [2025-08-20, 18:31:14](https://news.ycombinator.com/item?id=44964731) - [My original Palm IIIx](https://www.goto10retro.com/p/taking-a-look-at-my-old-palm-iiix)
 * [2025-08-20, 12:11:00](https://news.ycombinator.com/item?id=44961155) - [Physics of badminton's new killer spin serve](https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/)
 * [2025-08-20, 11:00:14](https://news.ycombinator.com/item?id=44960718) - [Acronis True Image costs performance when not used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
-* [2025-08-19, 21:11:31](https://news.ycombinator.com/item?id=44956297) - [A simple way to generate random points on a sphere](https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/)
 
 ## [Archives](archives/index.md)
 

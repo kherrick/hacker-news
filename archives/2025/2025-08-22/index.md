@@ -69,6 +69,7 @@
 * [2025-08-22, 09:11:26](https://news.ycombinator.com/item?id=44982409) - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
 * [2025-08-22, 08:55:52](https://news.ycombinator.com/item?id=44982304) - [Zuckerberg Squandered His AI Talent. Now He's Spending Billions to Replace It](https://www.forbes.com/sites/rashishrivastava/2025/08/13/zuckerberg-squandered-his-ai-talent-now-hes-spending-billions-to-replace-it/)
 * [2025-08-22, 07:18:48](https://news.ycombinator.com/item?id=44981802) - [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
+* [2025-08-22, 07:10:15](https://news.ycombinator.com/item?id=44981757) - [Insights from 100 Years of Research with Probiotic E. Coli](https://pmc.ncbi.nlm.nih.gov/articles/PMC5063008/)
 * [2025-08-22, 07:08:01](https://news.ycombinator.com/item?id=44981747) - [What the Hell Is Going On?](https://catskull.net/what-the-hell-is-going-on-right-now.html)
 * [2025-08-22, 06:30:19](https://news.ycombinator.com/item?id=44981572) - [Nano Banana](https://nanobanana.ai/)
 * [2025-08-22, 06:18:56](https://news.ycombinator.com/item?id=44981525) - [It's Not Wrong that \" \".length == 7](https://hsivonen.fi/string-length/)
