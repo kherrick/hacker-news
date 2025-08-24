@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-24, 05:51:43](https://news.ycombinator.com/item?id=45001740) - [Wildthing – A model trained on role-reversed ChatGPT conversations](https://youaretheassistantnow.com/)
 * [2025-08-24, 05:08:19](https://news.ycombinator.com/item?id=45001551) - [Ask HN: Best codebases to study to learn software design?](https://news.ycombinator.com/item?id=45001551)
 * [2025-08-24, 04:23:33](https://news.ycombinator.com/item?id=45001371) - [ThinkMesh: A Python lib for parallel thinking in LLMs](https://github.com/martianlantern/ThinkMesh)
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [How to build a coding agent](https://ghuntley.com/agent/)
-* [2025-08-24, 03:09:01](https://news.ycombinator.com/item?id=45000988) - [Kinds of Programming People](https://leftoversalad.com/c/015_programmingpeople/)
+* [2025-08-24, 03:09:01](https://news.ycombinator.com/item?id=45000988) - [Programming People (2016)](https://leftoversalad.com/c/015_programmingpeople/)
 * [2025-08-24, 03:08:15](https://news.ycombinator.com/item?id=45000982) - [Show HN: Port Kill – A lightweight macOS status bar development port monitor](https://github.com/kagehq/port-kill)
 * [2025-08-24, 02:52:08](https://news.ycombinator.com/item?id=45000894) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
 * [2025-08-24, 00:40:33](https://news.ycombinator.com/item?id=45000270) - [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)
@@ -23,13 +24,12 @@
 * [2025-08-22, 13:42:01](https://news.ycombinator.com/item?id=44984599) - [Optimizing our way through Metroid](https://antithesis.com/blog/2025/metroid/)
 * [2025-08-21, 20:54:34](https://news.ycombinator.com/item?id=44977960) - [Open Source Maintenance Fee business model example from WiX Toolset](https://github.com/wixtoolset)
 * [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
-* [2025-08-21, 19:25:58](https://news.ycombinator.com/item?id=44976957) - [Exploring EXIF (2023)](https://hturan.com/writing/exploring-exif)
 * [2025-08-21, 10:11:37](https://news.ycombinator.com/item?id=44970974) - [What if every city had a London Overground?](https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
-* [2025-08-20, 18:31:14](https://news.ycombinator.com/item?id=44964731) - [Taking a look at my old Palm IIIx – by Paul Lefebvre](https://www.goto10retro.com/p/taking-a-look-at-my-old-palm-iiix)
+* [2025-08-20, 18:31:14](https://news.ycombinator.com/item?id=44964731) - [My original Palm IIIx](https://www.goto10retro.com/p/taking-a-look-at-my-old-palm-iiix)
 * [2025-08-20, 12:11:00](https://news.ycombinator.com/item?id=44961155) - [Physics of badminton's new killer spin serve](https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/)
 * [2025-08-20, 11:00:14](https://news.ycombinator.com/item?id=44960718) - [Acronis True Image costs performance when not used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
-* [2025-08-19, 15:43:37](https://news.ycombinator.com/item?id=44952895) - [450× Faster Joins with Index Condition Pushdown](https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown)
+* [2025-08-19, 21:11:31](https://news.ycombinator.com/item?id=44956297) - [A simple way to generate random points on a sphere](https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/)
 
 ## [Archives](archives/index.md)
 
