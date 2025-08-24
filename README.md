@@ -23,7 +23,7 @@
 * [2025-08-22, 13:42:01](https://news.ycombinator.com/item?id=44984599) - [Optimizing our way through Metroid](https://antithesis.com/blog/2025/metroid/)
 * [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
 * [2025-08-21, 19:25:58](https://news.ycombinator.com/item?id=44976957) - [Exploring EXIF (2023)](https://hturan.com/writing/exploring-exif)
-* [2025-08-21, 12:56:47](https://news.ycombinator.com/item?id=44972192) - [The Cornervery: A 90-Degree Stapler](https://www.core77.com/posts/138232/The-Cornervery-A-90-Degree-Stapler)
+* [2025-08-21, 10:11:37](https://news.ycombinator.com/item?id=44970974) - [What if every city had a London Overground?](https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
 * [2025-08-20, 18:31:14](https://news.ycombinator.com/item?id=44964731) - [Taking a look at my old Palm IIIx – by Paul Lefebvre](https://www.goto10retro.com/p/taking-a-look-at-my-old-palm-iiix)
 * [2025-08-20, 12:11:00](https://news.ycombinator.com/item?id=44961155) - [Physics of badminton's new killer spin serve](https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/)
