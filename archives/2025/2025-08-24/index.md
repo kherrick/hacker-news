@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
 * [2025-08-24, 18:26:55](https://news.ycombinator.com/item?id=45006468) - [Walmart Fires VP for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)
+* [2025-08-24, 18:02:55](https://news.ycombinator.com/item?id=45006296) - [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
 * [2025-08-24, 17:44:55](https://news.ycombinator.com/item?id=45006147) - [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
 * [2025-08-24, 17:27:19](https://news.ycombinator.com/item?id=45006002) - [Update on My Racket Exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
 * [2025-08-24, 17:22:53](https://news.ycombinator.com/item?id=45005954) - [Y Combinator says Apple's App Store has hindered startup growth](https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/)
