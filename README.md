@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-24, 22:27:11](https://news.ycombinator.com/item?id=45008367) - [\"I Hate Almost Everything They Do with a Passion\" James Pond Creator on Gameware](https://www.timeextension.com/news/2025/07/i-hate-almost-everything-they-do-with-a-passion-james-ponds-creator-isnt-a-fan-of-gamewares-ai-focused-sequel)
+* [2025-08-24, 22:22:26](https://news.ycombinator.com/item?id=45008323) - [2.5B Gmail users endangered after Google database hack](https://www.pcworld.com/article/2880822/2-5-billion-gmail-users-endangered-after-google-database-hack.html)
 * [2025-08-24, 21:40:35](https://news.ycombinator.com/item?id=45008056) - [Uncle Sam Shouldn't Own Intel Stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
 * [2025-08-24, 21:22:07](https://news.ycombinator.com/item?id=45007907) - [Starship's Tenth Flight Test](https://www.spacex.com/launches/starship-flight-10)
 * [2025-08-24, 20:19:55](https://news.ycombinator.com/item?id=45007414) - [Halt and Catch Fire Syllabus (2021)](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
@@ -17,9 +17,9 @@
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI object detection to your IP CCTV cameras](https://github.com/roryclear/clearcam)
 * [2025-08-24, 11:15:26](https://news.ycombinator.com/item?id=45003296) - [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)
 * [2025-08-24, 10:27:19](https://news.ycombinator.com/item?id=45003033) - [A German ISP changed their DNS to block my website](https://lina.sh/blog/telefonica-sabotages-me)
+* [2025-08-24, 06:57:19](https://news.ycombinator.com/item?id=45001979) - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
 * [2025-08-24, 06:03:15](https://news.ycombinator.com/item?id=45001778) - [It is worth it to buy the fast CPU](https://blog.howardjohn.info/posts/buy-a-cpu/)
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [How to build a coding agent](https://ghuntley.com/agent/)
-* [2025-08-23, 21:45:06](https://news.ycombinator.com/item?id=44999373) - [The cost of interrupted work (2023)](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
 * [2025-08-23, 21:13:39](https://news.ycombinator.com/item?id=44999194) - [Materialized views are obviously useful](https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful)
 * [2025-08-23, 18:42:32](https://news.ycombinator.com/item?id=44998092) - [Will at centre of legal battle over Shakespeare’s home unearthed after 150 years](https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years)
 * [2025-08-22, 21:33:12](https://news.ycombinator.com/item?id=44990089) - [Show HN: Game demo made with my homemade game engine](https://reprobate.site/)
