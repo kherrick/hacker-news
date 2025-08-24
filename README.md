@@ -3,7 +3,6 @@
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
 * [2025-08-24, 03:08:15](https://news.ycombinator.com/item?id=45000982) - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
 * [2025-08-24, 02:52:08](https://news.ycombinator.com/item?id=45000894) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
-* [2025-08-24, 01:35:54](https://news.ycombinator.com/item?id=45000546) - [Not so prompt: Prompt optimization as model selection (2024)](https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/)
 * [2025-08-24, 01:09:06](https://news.ycombinator.com/item?id=45000400) - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
 * [2025-08-24, 00:40:33](https://news.ycombinator.com/item?id=45000270) - [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)
 * [2025-08-24, 00:18:52](https://news.ycombinator.com/item?id=45000176) - [AGI is an engineering problem, not a model training problem](https://www.vincirufus.com/posts/agi-is-engineering-problem/)
@@ -13,7 +12,6 @@
 * [2025-08-23, 20:43:01](https://news.ycombinator.com/item?id=44998982) - [Romhack.ing's Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
 * [2025-08-23, 19:35:31](https://news.ycombinator.com/item?id=44998514) - [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
 * [2025-08-23, 19:07:42](https://news.ycombinator.com/item?id=44998295) - [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
-* [2025-08-23, 16:49:52](https://news.ycombinator.com/item?id=44997194) - [Libre – An anonymous social experiment without likes, followers, or ads](https://libreantisocial.com)
 * [2025-08-23, 16:09:21](https://news.ycombinator.com/item?id=44996938) - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-23, 12:54:01](https://news.ycombinator.com/item?id=44995640) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 * [2025-08-23, 12:29:02](https://news.ycombinator.com/item?id=44995508) - [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
@@ -30,6 +28,8 @@
 * [2025-08-20, 18:31:14](https://news.ycombinator.com/item?id=44964731) - [Taking a look at my old Palm IIIx – by Paul Lefebvre](https://www.goto10retro.com/p/taking-a-look-at-my-old-palm-iiix)
 * [2025-08-20, 12:11:00](https://news.ycombinator.com/item?id=44961155) - [Physics of badminton's new killer spin serve](https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/)
 * [2025-08-20, 11:00:14](https://news.ycombinator.com/item?id=44960718) - [Acronis True Image costs performance when not used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
+* [2025-08-19, 21:11:31](https://news.ycombinator.com/item?id=44956297) - [A simple way to generate random points on a sphere](https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/)
+* [2025-08-19, 15:43:37](https://news.ycombinator.com/item?id=44952895) - [450× Faster Joins with Index Condition Pushdown](https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown)
 
 ## [Archives](archives/index.md)
 
