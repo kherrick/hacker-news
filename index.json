@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-08-24, 16:18:53",
+      "https://news.ycombinator.com/item?id=45005434"
+    ],
+    [
+      "We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight",
+      "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 15:40:38",
+      "https://news.ycombinator.com/item?id=45005071"
+    ],
+    [
+      "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
+      "https://avi.im/blag/2025/sqlite-fsync/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 15:14:34",
       "https://news.ycombinator.com/item?id=45004846"
     ],
     [
       "Comet AI browser can get prompt injected from any site, drain your bank account",
       "https://twitter.com/zack_overflow/status/1959308058200551721"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 15:01:24",
+      "https://news.ycombinator.com/item?id=45004728"
+    ],
+    [
+      "Making Games in Go: 3 Months Without LLMs vs. 3 Days with LLMs",
+      "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-08-23, 19:35:31",
-      "https://news.ycombinator.com/item?id=44998514"
-    ],
-    [
-      "A 2k-year-old sun hat worn by a Roman soldier in Egypt",
-      "https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 19:07:42",
       "https://news.ycombinator.com/item?id=44998295"
     ],
@@ -207,16 +227,6 @@
     [
       "Line scan camera image processing for train photography",
       "https://daniel.lawrence.lu/blog/y2025m09d21/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 19:31:41",
-      "https://news.ycombinator.com/item?id=44988845"
-    ],
-    [
-      "Why was Apache Kafka created?",
-      "https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What if every city had a London Overground?",
       "https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 18:36:28",
-      "https://news.ycombinator.com/item?id=44964800"
-    ],
-    [
-      "How can AI ID a cat?",
-      "https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/"
     ]
   ]
 ]
