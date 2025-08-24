@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
+* [2025-08-24, 03:08:15](https://news.ycombinator.com/item?id=45000982) - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
+* [2025-08-24, 02:52:08](https://news.ycombinator.com/item?id=45000894) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
 * [2025-08-24, 01:35:54](https://news.ycombinator.com/item?id=45000546) - [Not so prompt: Prompt optimization as model selection (2024)](https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/)
 * [2025-08-24, 01:09:06](https://news.ycombinator.com/item?id=45000400) - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
 * [2025-08-24, 00:40:33](https://news.ycombinator.com/item?id=45000270) - [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)

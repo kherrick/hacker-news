@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
+* [2025-08-24, 03:08:15](https://news.ycombinator.com/item?id=45000982) - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
+* [2025-08-24, 02:52:08](https://news.ycombinator.com/item?id=45000894) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
 * [2025-08-24, 01:35:54](https://news.ycombinator.com/item?id=45000546) - [Not so prompt: Prompt optimization as model selection (2024)](https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/)
 * [2025-08-24, 01:09:06](https://news.ycombinator.com/item?id=45000400) - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
 * [2025-08-24, 00:40:33](https://news.ycombinator.com/item?id=45000270) - [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)
@@ -21,15 +23,13 @@
 * [2025-08-22, 15:54:44](https://news.ycombinator.com/item?id=44986098) - [Hacker and physicist – a tale of \"common sense\"](https://www.supasaf.com/blog/general/hacker_physicist)
 * [2025-08-22, 15:15:57](https://news.ycombinator.com/item?id=44985653) - [Static sites with Python, uv, Caddy, and Docker](https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/)
 * [2025-08-22, 13:42:01](https://news.ycombinator.com/item?id=44984599) - [Optimizing our way through Metroid](https://antithesis.com/blog/2025/metroid/)
+* [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
 * [2025-08-21, 19:25:58](https://news.ycombinator.com/item?id=44976957) - [Exploring EXIF (2023)](https://hturan.com/writing/exploring-exif)
 * [2025-08-21, 12:56:47](https://news.ycombinator.com/item?id=44972192) - [The Cornervery: A 90-Degree Stapler](https://www.core77.com/posts/138232/The-Cornervery-A-90-Degree-Stapler)
 * [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
 * [2025-08-20, 18:31:14](https://news.ycombinator.com/item?id=44964731) - [Taking a look at my old Palm IIIx – by Paul Lefebvre](https://www.goto10retro.com/p/taking-a-look-at-my-old-palm-iiix)
 * [2025-08-20, 12:11:00](https://news.ycombinator.com/item?id=44961155) - [Physics of badminton's new killer spin serve](https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/)
 * [2025-08-20, 11:00:14](https://news.ycombinator.com/item?id=44960718) - [Acronis True Image costs performance when not used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
-* [2025-08-20, 03:35:20](https://news.ycombinator.com/item?id=44958421) - [Monoid-Augmented FIFOs, Deamortised](https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/)
-* [2025-08-19, 21:11:31](https://news.ycombinator.com/item?id=44956297) - [A simple way to generate random points on a sphere](https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/)
-* [2025-08-19, 15:43:37](https://news.ycombinator.com/item?id=44952895) - [450× Faster Joins with Index Condition Pushdown](https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown)
 
 ## [Archives](archives/index.md)
 
