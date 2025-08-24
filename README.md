@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-24, 16:18:53](https://news.ycombinator.com/item?id=45005434) - [We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
 * [2025-08-24, 15:40:38](https://news.ycombinator.com/item?id=45005071) - [SQLite (with WAL) doesn't do `fsync` on each commit under default settings](https://avi.im/blag/2025/sqlite-fsync/)
 * [2025-08-24, 15:14:34](https://news.ycombinator.com/item?id=45004846) - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
 * [2025-08-24, 15:01:24](https://news.ycombinator.com/item?id=45004728) - [Making Games in Go: 3 Months Without LLMs vs. 3 Days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
@@ -23,6 +22,7 @@
 * [2025-08-23, 19:07:42](https://news.ycombinator.com/item?id=44998295) - [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
 * [2025-08-23, 16:24:00](https://news.ycombinator.com/item?id=44997023) - [Setting serial baud rate on ESP-IDF does nothing](https://atomic14.substack.com/p/this-number-does-nothing)
 * [2025-08-23, 16:09:21](https://news.ycombinator.com/item?id=44996938) - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
+* [2025-08-22, 19:31:41](https://news.ycombinator.com/item?id=44988845) - [Why was Apache Kafka created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
 * [2025-08-22, 16:46:42](https://news.ycombinator.com/item?id=44986723) - [Trees on city streets cope with drought by drinking from leaky pipes](https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/)
 * [2025-08-22, 15:13:22](https://news.ycombinator.com/item?id=44985619) - [SSD-IQ: Uncovering the Hidden Side of SSD Performance [pdf]](https://www.vldb.org/pvldb/vol18/p4295-haas.pdf)
 * [2025-08-21, 23:15:03](https://news.ycombinator.com/item?id=44979301) - [A short introduction to optimal transport and Wasserstein distance (2020)](https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/)
