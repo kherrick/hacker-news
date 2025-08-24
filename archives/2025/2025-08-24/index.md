@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 05:08:19](https://news.ycombinator.com/item?id=45001551) - [Ask HN: Best codebases to study to learn software design?](https://news.ycombinator.com/item?id=45001551)
+* [2025-08-24, 04:23:33](https://news.ycombinator.com/item?id=45001371) - [ThinkMesh: A Python lib for parallel thinking in LLMs](https://github.com/martianlantern/ThinkMesh)
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
+* [2025-08-24, 03:09:01](https://news.ycombinator.com/item?id=45000988) - [Kinds of Programming People](https://leftoversalad.com/c/015_programmingpeople/)
 * [2025-08-24, 03:08:15](https://news.ycombinator.com/item?id=45000982) - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
 * [2025-08-24, 02:52:08](https://news.ycombinator.com/item?id=45000894) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
 * [2025-08-24, 01:35:54](https://news.ycombinator.com/item?id=45000546) - [Not so prompt: Prompt optimization as model selection (2024)](https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/)
