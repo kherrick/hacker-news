@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-24, 16:18:53](https://news.ycombinator.com/item?id=45005434) - [We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
+* [2025-08-24, 15:40:38](https://news.ycombinator.com/item?id=45005071) - [SQLite (with WAL) doesn't do `fsync` on each commit under default settings](https://avi.im/blag/2025/sqlite-fsync/)
 * [2025-08-24, 15:14:34](https://news.ycombinator.com/item?id=45004846) - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
+* [2025-08-24, 15:01:24](https://news.ycombinator.com/item?id=45004728) - [Making Games in Go: 3 Months Without LLMs vs. 3 Days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
 * [2025-08-24, 14:41:58](https://news.ycombinator.com/item?id=45004617) - [Deep Think with Confidence](https://arxiviq.substack.com/p/deep-think-with-confidence)
 * [2025-08-24, 14:22:36](https://news.ycombinator.com/item?id=45004466) - [US attack on renewables will lead to power crunch that spikes electricity prices](https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html)
 * [2025-08-24, 12:28:52](https://news.ycombinator.com/item?id=45003750) - [Dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
@@ -17,11 +20,9 @@
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [How to build a coding agent](https://ghuntley.com/agent/)
 * [2025-08-24, 03:08:15](https://news.ycombinator.com/item?id=45000982) - [Show HN: Port Kill – A lightweight macOS status bar development port monitor](https://github.com/kagehq/port-kill)
 * [2025-08-23, 21:45:06](https://news.ycombinator.com/item?id=44999373) - [The cost of interrupted work (2023)](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
-* [2025-08-23, 19:35:31](https://news.ycombinator.com/item?id=44998514) - [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
 * [2025-08-23, 19:07:42](https://news.ycombinator.com/item?id=44998295) - [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
 * [2025-08-23, 16:24:00](https://news.ycombinator.com/item?id=44997023) - [Setting serial baud rate on ESP-IDF does nothing](https://atomic14.substack.com/p/this-number-does-nothing)
 * [2025-08-23, 16:09:21](https://news.ycombinator.com/item?id=44996938) - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
-* [2025-08-22, 19:31:41](https://news.ycombinator.com/item?id=44988845) - [Why was Apache Kafka created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
 * [2025-08-22, 16:46:42](https://news.ycombinator.com/item?id=44986723) - [Trees on city streets cope with drought by drinking from leaky pipes](https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/)
 * [2025-08-22, 15:13:22](https://news.ycombinator.com/item?id=44985619) - [SSD-IQ: Uncovering the Hidden Side of SSD Performance [pdf]](https://www.vldb.org/pvldb/vol18/p4295-haas.pdf)
 * [2025-08-21, 23:15:03](https://news.ycombinator.com/item?id=44979301) - [A short introduction to optimal transport and Wasserstein distance (2020)](https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/)
@@ -29,7 +30,6 @@
 * [2025-08-21, 20:43:51](https://news.ycombinator.com/item?id=44977833) - [Rolling the dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/)
 * [2025-08-21, 12:23:38](https://news.ycombinator.com/item?id=44971867) - [NASA's Juno Mission Leaves Legacy of Science at Jupiter](https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/)
 * [2025-08-21, 10:11:37](https://news.ycombinator.com/item?id=44970974) - [What if every city had a London Overground?](https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9)
-* [2025-08-20, 18:36:28](https://news.ycombinator.com/item?id=44964800) - [How can AI ID a cat?](https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/)
 
 ## [Archives](archives/index.md)
 

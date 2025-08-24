@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 16:18:53](https://news.ycombinator.com/item?id=45005434) - [We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
+* [2025-08-24, 15:40:38](https://news.ycombinator.com/item?id=45005071) - [SQLite (with WAL) doesn't do `fsync` on each commit under default settings](https://avi.im/blag/2025/sqlite-fsync/)
 * [2025-08-24, 15:14:34](https://news.ycombinator.com/item?id=45004846) - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
+* [2025-08-24, 15:01:24](https://news.ycombinator.com/item?id=45004728) - [Making Games in Go: 3 Months Without LLMs vs. 3 Days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
 * [2025-08-24, 14:41:58](https://news.ycombinator.com/item?id=45004617) - [Deep Think with Confidence](https://arxiviq.substack.com/p/deep-think-with-confidence)
 * [2025-08-24, 14:22:36](https://news.ycombinator.com/item?id=45004466) - [US attack on renewables will lead to power crunch that spikes electricity prices](https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html)
 * [2025-08-24, 13:49:06](https://news.ycombinator.com/item?id=45004235) - [US Supreme Court allows NIH to cut $2B in research grants](https://www.nature.com/articles/d41586-025-02721-5)
