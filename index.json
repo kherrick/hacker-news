@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-08-24, 03:08:15",
+      "https://news.ycombinator.com/item?id=45000982"
+    ],
+    [
+      "I built a tiny mac app to monitor and manage my development processes",
+      "https://github.com/kagehq/port-kill"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 02:52:08",
+      "https://news.ycombinator.com/item?id=45000894"
+    ],
+    [
+      "Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet",
+      "https://brave.com/blog/comet-prompt-injection/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 01:35:54",
       "https://news.ycombinator.com/item?id=45000546"
     ],
@@ -211,6 +231,16 @@
   ],
   [
     [
+      "2025-08-21, 20:43:51",
+      "https://news.ycombinator.com/item?id=44977833"
+    ],
+    [
+      "Rolling the dice with CSS random()",
+      "https://webkit.org/blog/17285/rolling-the-dice-with-css-random/"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 19:25:58",
       "https://news.ycombinator.com/item?id=44976957"
     ],
@@ -267,36 +297,6 @@
     [
       "Acronis True Image costs performance when not used",
       "https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 03:35:20",
-      "https://news.ycombinator.com/item?id=44958421"
-    ],
-    [
-      "Monoid-Augmented FIFOs, Deamortised",
-      "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 21:11:31",
-      "https://news.ycombinator.com/item?id=44956297"
-    ],
-    [
-      "A simple way to generate random points on a sphere",
-      "https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 15:43:37",
-      "https://news.ycombinator.com/item?id=44952895"
-    ],
-    [
-      "450× Faster Joins with Index Condition Pushdown",
-      "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown"
     ]
   ]
 ]
