@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 23:27:52](https://news.ycombinator.com/item?id=45008740) - [Ghrc.io Appears to Be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
 * [2025-08-24, 22:27:11](https://news.ycombinator.com/item?id=45008367) - [\"I Hate Almost Everything They Do with a Passion\" James Pond Creator on Gameware](https://www.timeextension.com/news/2025/07/i-hate-almost-everything-they-do-with-a-passion-james-ponds-creator-isnt-a-fan-of-gamewares-ai-focused-sequel)
 * [2025-08-24, 22:22:26](https://news.ycombinator.com/item?id=45008323) - [2.5B Gmail users endangered after Google database hack](https://www.pcworld.com/article/2880822/2-5-billion-gmail-users-endangered-after-google-database-hack.html)
 * [2025-08-24, 21:40:35](https://news.ycombinator.com/item?id=45008056) - [Uncle Sam Shouldn't Own Intel Stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
@@ -16,6 +17,7 @@
 * [2025-08-24, 18:26:55](https://news.ycombinator.com/item?id=45006468) - [Walmart Fires VP for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)
 * [2025-08-24, 18:02:55](https://news.ycombinator.com/item?id=45006296) - [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
 * [2025-08-24, 17:44:55](https://news.ycombinator.com/item?id=45006147) - [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
+* [2025-08-24, 17:38:30](https://news.ycombinator.com/item?id=45006098) - [Show HN: I Built a XSLT Blog Framework](https://vgr.land/content/posts/20250821.xml)
 * [2025-08-24, 17:27:19](https://news.ycombinator.com/item?id=45006002) - [Update on My Racket Exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
 * [2025-08-24, 17:22:53](https://news.ycombinator.com/item?id=45005954) - [Y Combinator says Apple's App Store has hindered startup growth](https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/)
 * [2025-08-24, 17:16:09](https://news.ycombinator.com/item?id=45005902) - [People stuck using ancient Windows computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)
