@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-08-25, 00:10:00",
+      "https://news.ycombinator.com/item?id=45008995"
+    ],
+    [
+      "I'm Fighting for My Freedom Using Outdated Technology",
+      "https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 23:44:47",
+      "https://news.ycombinator.com/item?id=45008832"
+    ],
+    [
+      "How to check if your Apple Silicon Mac is booting securely",
+      "https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 23:42:01",
       "https://news.ycombinator.com/item?id=45008819"
     ],
     [
-      "Show HN: Sping – A HTTP/TCP Latency Tool That's Easy on the Eye",
+      "Show HN: Sping – An HTTP/TCP Latency Tool That's Easy on the Eye",
       "https://dseltzer.gitlab.io/sping/docs/"
     ]
   ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=45008740"
     ],
     [
-      "Ghrc.io Appears to Be Malicious",
+      "Ghrc.io appears to be malicious",
       "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 22:31:22",
-      "https://news.ycombinator.com/item?id=45008406"
-    ],
-    [
-      "Introducing: VuIO – open-source UPNP/DLNA server written in Rust",
-      "https://github.com/vuiodev/vuio"
     ]
   ],
   [
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2025-08-24, 21:22:07",
-      "https://news.ycombinator.com/item?id=45007907"
+      "2025-08-24, 20:22:26",
+      "https://news.ycombinator.com/item?id=45007437"
     ],
     [
-      "Starship's Tenth Flight Test",
-      "https://www.spacex.com/launches/starship-flight-10"
+      "Looking back at my transition from Windows to Linux",
+      "https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/"
     ]
   ],
   [
@@ -61,11 +71,21 @@
   ],
   [
     [
+      "2025-08-24, 20:09:12",
+      "https://news.ycombinator.com/item?id=45007333"
+    ],
+    [
+      "How many paths of length K are there between A and B? (2021)",
+      "https://horace.io/walks"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 19:23:19",
       "https://news.ycombinator.com/item?id=45006902"
     ],
     [
-      "A brilliant and nearby one-off fast radio burst localized to 13pc precision",
+      "A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision",
       "https://iopscience.iop.org/article/10.3847/2041-8213/adf62f"
     ]
   ],
@@ -81,32 +101,32 @@
   ],
   [
     [
-      "2025-08-24, 18:02:55",
-      "https://news.ycombinator.com/item?id=45006296"
-    ],
-    [
-      "Paracetamol disrupts early embryogenesis by cell cycle inhibition",
-      "https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 17:44:55",
-      "https://news.ycombinator.com/item?id=45006147"
-    ],
-    [
-      "Bring Back the Blue-Book Exam",
-      "https://www.chronicle.com/article/bring-back-the-blue-book-exam"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 17:38:30",
       "https://news.ycombinator.com/item?id=45006098"
     ],
     [
       "Show HN: I Built a XSLT Blog Framework",
       "https://vgr.land/content/posts/20250821.xml"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 16:30:18",
+      "https://news.ycombinator.com/item?id=45005545"
+    ],
+    [
+      "Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?",
+      "https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 16:18:53",
+      "https://news.ycombinator.com/item?id=45005434"
+    ],
+    [
+      "We put a coding agent in a while loop",
+      "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-08-24, 06:03:15",
-      "https://news.ycombinator.com/item?id=45001778"
-    ],
-    [
-      "It is worth it to buy the fast CPU",
-      "https://blog.howardjohn.info/posts/buy-a-cpu/"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 03:21:14",
       "https://news.ycombinator.com/item?id=45001051"
     ],
@@ -181,42 +191,12 @@
   ],
   [
     [
-      "2025-08-23, 21:13:39",
-      "https://news.ycombinator.com/item?id=44999194"
-    ],
-    [
-      "Materialized views are obviously useful",
-      "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 18:42:32",
       "https://news.ycombinator.com/item?id=44998092"
     ],
     [
       "Will at centre of legal battle over Shakespeare’s home unearthed after 150 years",
       "https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 21:33:12",
-      "https://news.ycombinator.com/item?id=44990089"
-    ],
-    [
-      "Show HN: Game demo made with my homemade game engine",
-      "https://reprobate.site/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 17:24:34",
-      "https://news.ycombinator.com/item?id=44987195"
-    ],
-    [
-      "Math Not Required (2023)",
-      "https://programmersstone.blog/posts/math-not-required/"
     ]
   ],
   [
@@ -241,16 +221,6 @@
   ],
   [
     [
-      "2025-08-22, 01:06:56",
-      "https://news.ycombinator.com/item?id=44980042"
-    ],
-    [
-      "OS Yamato lets your data fade away",
-      "https://github.com/osyamato/os-yamato"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 00:42:44",
       "https://news.ycombinator.com/item?id=44979906"
     ],
@@ -261,12 +231,32 @@
   ],
   [
     [
+      "2025-08-22, 00:05:37",
+      "https://news.ycombinator.com/item?id=44979687"
+    ],
+    [
+      "Y Combinator files brief supporting Epic Games, says store fees stifle startups",
+      "https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 17:09:08",
       "https://news.ycombinator.com/item?id=44975313"
     ],
     [
       "Iterative DFS with stack-based graph traversal (2024)",
       "https://dwf.dev/blog/2024/09/23/2024/dfs-iterative-stack-based"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 11:30:59",
+      "https://news.ycombinator.com/item?id=44971451"
+    ],
+    [
+      "Stepanov's biggest blunder? The curious case of adjacent difference",
+      "https://mmapped.blog/posts/43-stepanovs-biggest-blunder"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Burner Phone 101",
       "https://rebeccawilliams.info/burner-phone-101/"
+    ]
+  ],
+  [
+    [
+      "2025-08-20, 19:42:45",
+      "https://news.ycombinator.com/item?id=44965577"
+    ],
+    [
+      "Claim: GPT-5-pro can prove new interesting mathematics",
+      "https://twitter.com/SebastienBubeck/status/1958198661139009862"
     ]
   ]
 ]
