@@ -2,12 +2,12 @@
 
 * [2025-08-25, 04:23:29](https://news.ycombinator.com/item?id=45010183) - [Bro, ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 04:18:56](https://news.ycombinator.com/item?id=45010161) - [Git-Annex](https://git-annex.branchable.com/)
-* [2025-08-25, 01:52:34](https://news.ycombinator.com/item?id=45009486) - [Show HN: Decentralized Bitcoin Incentives via QR Codes](https://github.com/DT7QR/Bitcoin-Rewards-System-Proposal)
 * [2025-08-25, 00:46:22](https://news.ycombinator.com/item?id=45009164) - [The Unix-Haters Handbook (1994) [pdf]](https://simson.net/ref/ugh.pdf)
 * [2025-08-24, 23:44:47](https://news.ycombinator.com/item?id=45008832) - [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
 * [2025-08-24, 23:42:01](https://news.ycombinator.com/item?id=45008819) - [Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye](https://dseltzer.gitlab.io/sping/docs/)
 * [2025-08-24, 23:27:52](https://news.ycombinator.com/item?id=45008740) - [Ghrc.io appears to be malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
 * [2025-08-24, 22:08:26](https://news.ycombinator.com/item?id=45008239) - [From Hackathon to YC](https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc)
+* [2025-08-24, 22:02:52](https://news.ycombinator.com/item?id=45008209) - [A bubble that knows it's a bubble](https://craigmccaskill.com/ai-bubble-history)
 * [2025-08-24, 21:40:35](https://news.ycombinator.com/item?id=45008056) - [Uncle Sam shouldn't own Intel stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
 * [2025-08-24, 20:19:55](https://news.ycombinator.com/item?id=45007414) - [Halt and Catch Fire Syllabus (2021)](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 * [2025-08-24, 20:09:12](https://news.ycombinator.com/item?id=45007333) - [How many paths of length K are there between A and B? (2021)](https://horace.io/walks)
@@ -26,8 +26,8 @@
 * [2025-08-22, 04:14:10](https://news.ycombinator.com/item?id=44980940) - [Cloudflare incident on August 21, 2025](https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/)
 * [2025-08-22, 00:42:44](https://news.ycombinator.com/item?id=44979906) - [NASA's Juno mission leaves legacy of science at Jupiter](https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/)
 * [2025-08-22, 00:05:37](https://news.ycombinator.com/item?id=44979687) - [Y Combinator files brief supporting Epic Games, says store fees stifle startups](https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/)
+* [2025-08-21, 11:30:59](https://news.ycombinator.com/item?id=44971451) - [Stepanov's biggest blunder? The curious case of adjacent difference](https://mmapped.blog/posts/43-stepanovs-biggest-blunder)
 * [2025-08-21, 09:34:32](https://news.ycombinator.com/item?id=44970769) - [The two versions of Parquet](https://www.jeronimo.dev/the-two-versions-of-parquet/)
-* [2025-08-21, 08:58:44](https://news.ycombinator.com/item?id=44970583) - [My ZIP isn't your ZIP: Identifying and exploiting semantic gaps between parsers](https://www.usenix.org/conference/usenixsecurity25/presentation/you)
 * [2025-08-20, 23:25:58](https://news.ycombinator.com/item?id=44967543) - [Burner Phone 101](https://rebeccawilliams.info/burner-phone-101/)
 * [2025-08-20, 19:42:45](https://news.ycombinator.com/item?id=44965577) - [Claim: GPT-5-pro can prove new interesting mathematics](https://twitter.com/SebastienBubeck/status/1958198661139009862)
 
