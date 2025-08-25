@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-25, 14:17:38",
+      "https://news.ycombinator.com/item?id=45014131"
+    ],
+    [
+      "Show HN: Base, an SQLite database editor for macOS",
+      "https://menial.co.uk/base/"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 14:05:45",
+      "https://news.ycombinator.com/item?id=45013989"
+    ],
+    [
+      "The air is hissing out of the overinflated AI balloon",
+      "https://www.theregister.com/2025/08/25/overinflated_ai_balloon/"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 13:44:58",
       "https://news.ycombinator.com/item?id=45013774"
     ],
@@ -27,6 +47,16 @@
     [
       "The unlikely revival of nuclear batteries",
       "https://spectrum.ieee.org/nuclear-battery-revival"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 12:33:13",
+      "https://news.ycombinator.com/item?id=45013154"
+    ],
+    [
+      "What Is a Color Space?",
+      "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2025-08-24, 15:01:24",
-      "https://news.ycombinator.com/item?id=45004728"
-    ],
-    [
-      "Making games in Go: 3 months without LLMs vs. 3 days with LLMs",
-      "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 11:34:15",
-      "https://news.ycombinator.com/item?id=45003420"
-    ],
-    [
-      "Show HN: Clearcam – Add AI object detection to your IP CCTV cameras",
-      "https://github.com/roryclear/clearcam"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 11:24:40",
       "https://news.ycombinator.com/item?id=45003358"
     ],
     [
       "Show HN: CasCache – multi-generational cache with optimistic concurrency control",
       "https://github.com/unkn0wn-root/cascache"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 10:37:15",
-      "https://news.ycombinator.com/item?id=45003073"
-    ],
-    [
-      "YouTube made AI enhancements to videos without warning or permission",
-      "https://www.bbc.com/future/article/20250822-youtube-is-using-ai-to-edit-videos-without-permission"
     ]
   ],
   [
