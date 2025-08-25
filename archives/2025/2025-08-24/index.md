@@ -59,6 +59,7 @@
 * [2025-08-24, 08:06:03](https://news.ycombinator.com/item?id=45002315) - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
 * [2025-08-24, 08:02:12](https://news.ycombinator.com/item?id=45002301) - [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
+* [2025-08-24, 07:23:30](https://news.ycombinator.com/item?id=45002092) - [DeepWiki: Understand Any Codebase](https://www.aitidbits.ai/p/deepwiki)
 * [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 * [2025-08-24, 06:57:19](https://news.ycombinator.com/item?id=45001979) - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
 * [2025-08-24, 06:33:35](https://news.ycombinator.com/item?id=45001883) - [In-Memory Filesystems in Rust](https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/)
