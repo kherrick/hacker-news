@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-08-25, 06:28:18",
-      "https://news.ycombinator.com/item?id=45010846"
-    ],
-    [
-      "Buypass Discontinues Issuance of TLS/SSL Certificates",
-      "https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 05:30:00",
       "https://news.ycombinator.com/item?id=45010524"
     ],
@@ -167,6 +157,16 @@
     [
       "We put a coding agent in a while loop",
       "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 15:14:34",
+      "https://news.ycombinator.com/item?id=45004846"
+    ],
+    [
+      "Comet AI browser can get prompt injected from any site, drain your bank account",
+      "https://twitter.com/zack_overflow/status/1959308058200551721"
     ]
   ],
   [
