@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-25, 19:33:13](https://news.ycombinator.com/item?id=45017969) - [Meta just suspended the Facebook account of Neal Stephenson](https://twitter.com/nealstephenson/status/1959759051732213812)
+* [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 18:15:41](https://news.ycombinator.com/item?id=45016999) - [With AI chatbots, Big Tech is moving fast and breaking people](https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/)
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 17:43:13](https://news.ycombinator.com/item?id=45016542) - [IBM's Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
@@ -14,7 +15,6 @@
 * [2025-08-25, 13:40:11](https://news.ycombinator.com/item?id=45013737) - [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
 * [2025-08-25, 12:33:13](https://news.ycombinator.com/item?id=45013154) - [What Is a Color Space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
 * [2025-08-25, 12:29:48](https://news.ycombinator.com/item?id=45013131) - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
-* [2025-08-25, 12:04:45](https://news.ycombinator.com/item?id=45012942) - [Standard Thermal: Energy Storage 500x Cheaper Than Batteries](https://austinvernon.site/blog/standardthermal.html)
 * [2025-08-25, 11:05:38](https://news.ycombinator.com/item?id=45012548) - [Prediction-Encoded Pixels image format](https://github.com/ENDESGA/PEP)
 * [2025-08-25, 10:43:50](https://news.ycombinator.com/item?id=45012430) - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
 * [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [Scamlexity: When agentic AI browsers get scammed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
