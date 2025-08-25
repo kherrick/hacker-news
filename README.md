@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-25, 21:52:36](https://news.ycombinator.com/item?id=45019513) - [How the Richest People in America Avoid Paying Taxes](https://www.theatlantic.com/economy/archive/2025/08/billionaire-tax-study/683987/)
 * [2025-08-25, 20:59:22](https://news.ycombinator.com/item?id=45018933) - [A short proof of the Hairy Ball theorem (2016) [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
 * [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Social media's next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
 * [2025-08-25, 20:40:39](https://news.ycombinator.com/item?id=45018708) - [Llama Fund: Crowdfund AI Models](https://llama.fund)
@@ -18,7 +19,6 @@
 * [2025-08-25, 13:40:11](https://news.ycombinator.com/item?id=45013737) - [A small change to improve browsers for keyboard navigation](https://b.43z.one/2025-07-22/)
 * [2025-08-25, 12:33:13](https://news.ycombinator.com/item?id=45013154) - [What is a color space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
 * [2025-08-25, 12:29:48](https://news.ycombinator.com/item?id=45013131) - [An illustrated guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
-* [2025-08-25, 10:43:50](https://news.ycombinator.com/item?id=45012430) - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
 * [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [Scamlexity: When agentic AI browsers get scammed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 05:17:44](https://news.ycombinator.com/item?id=45010461) - [Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
