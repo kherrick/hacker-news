@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-25, 22:31:50](https://news.ycombinator.com/item?id=45019950) - [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/)
 * [2025-08-25, 20:59:22](https://news.ycombinator.com/item?id=45018933) - [A short proof of the Hairy Ball theorem (2016) [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
 * [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Social media's next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
 * [2025-08-25, 20:40:39](https://news.ycombinator.com/item?id=45018708) - [Llama Fund: Crowdfund AI Models](https://llama.fund)
@@ -24,7 +25,6 @@
 * [2025-08-25, 04:23:29](https://news.ycombinator.com/item?id=45010183) - [Ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-24, 15:34:26](https://news.ycombinator.com/item?id=45005016) - [Playing every game of Wordle simultaneously](https://chriskw.xyz/2025/08/24/Hyper-Wordle/)
 * [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
-* [2025-08-24, 09:29:02](https://news.ycombinator.com/item?id=45002776) - [SmallJS: Smalltalk-80 that compiles to JavaScript](https://small-js.org/Home/Home.html)
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
 * [2025-08-24, 07:23:30](https://news.ycombinator.com/item?id=45002092) - [DeepWiki: Understand Any Codebase](https://www.aitidbits.ai/p/deepwiki)
 * [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
