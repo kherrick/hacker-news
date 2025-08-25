@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
+* [2025-08-25, 10:03:53](https://news.ycombinator.com/item?id=45012191) - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 05:30:00](https://news.ycombinator.com/item?id=45010524) - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
 * [2025-08-25, 04:23:29](https://news.ycombinator.com/item?id=45010183) - [Ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
@@ -14,9 +14,9 @@
 * [2025-08-24, 19:23:19](https://news.ycombinator.com/item?id=45006902) - [A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
 * [2025-08-24, 19:10:09](https://news.ycombinator.com/item?id=45006801) - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 * [2025-08-24, 17:38:30](https://news.ycombinator.com/item?id=45006098) - [Show HN: I Built a XSLT Blog Framework](https://vgr.land/content/posts/20250821.xml)
+* [2025-08-24, 17:25:47](https://news.ycombinator.com/item?id=45005986) - [The great medieval water myth (2013)](https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html)
 * [2025-08-24, 16:30:18](https://news.ycombinator.com/item?id=45005545) - [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
 * [2025-08-24, 16:18:53](https://news.ycombinator.com/item?id=45005434) - [We put a coding agent in a while loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
-* [2025-08-24, 15:14:34](https://news.ycombinator.com/item?id=45004846) - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
 * [2025-08-24, 15:01:24](https://news.ycombinator.com/item?id=45004728) - [Making games in Go: 3 months without LLMs vs. 3 days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI object detection to your IP CCTV cameras](https://github.com/roryclear/clearcam)
 * [2025-08-24, 11:24:40](https://news.ycombinator.com/item?id=45003358) - [Show HN: CasCache – multi-generational cache with optimistic concurrency control](https://github.com/unkn0wn-root/cascache)

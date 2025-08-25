@@ -26,6 +26,7 @@
 * [2025-08-24, 17:44:55](https://news.ycombinator.com/item?id=45006147) - [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
 * [2025-08-24, 17:38:30](https://news.ycombinator.com/item?id=45006098) - [Show HN: I Built a XSLT Blog Framework](https://vgr.land/content/posts/20250821.xml)
 * [2025-08-24, 17:27:19](https://news.ycombinator.com/item?id=45006002) - [Update on My Racket Exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
+* [2025-08-24, 17:25:47](https://news.ycombinator.com/item?id=45005986) - [The great medieval water myth (2013)](https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html)
 * [2025-08-24, 17:22:53](https://news.ycombinator.com/item?id=45005954) - [Y Combinator says Apple's App Store has hindered startup growth](https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/)
 * [2025-08-24, 17:16:09](https://news.ycombinator.com/item?id=45005902) - [People stuck using ancient Windows computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)
 * [2025-08-24, 16:30:18](https://news.ycombinator.com/item?id=45005545) - [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
