@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 12:23:37](https://news.ycombinator.com/item?id=45013076) - [Walmart Fires VP in Tech for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)
+* [2025-08-25, 12:18:11](https://news.ycombinator.com/item?id=45013036) - [Why I'm Now Running Enterprise AI on My Laptop (Without Internet)](https://medium.com/@klaudibregu/beyond-the-cloud-why-im-now-running-enterprise-ai-on-my-laptop-without-internet-16929a585328)
+* [2025-08-25, 12:04:45](https://news.ycombinator.com/item?id=45012942) - [Standard Thermal: Energy Storage 500x Cheaper Than Batteries](https://austinvernon.site/blog/standardthermal.html)
 * [2025-08-25, 10:43:50](https://news.ycombinator.com/item?id=45012430) - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
 * [2025-08-25, 10:03:53](https://news.ycombinator.com/item?id=45012191) - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the Screen, Libyans Learned About Everything but Themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)

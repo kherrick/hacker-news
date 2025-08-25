@@ -14,6 +14,7 @@
 * [2025-08-24, 22:08:26](https://news.ycombinator.com/item?id=45008239) - [From Hackathon to YC](https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc)
 * [2025-08-24, 22:02:52](https://news.ycombinator.com/item?id=45008209) - [A bubble that knows it's a bubble](https://craigmccaskill.com/ai-bubble-history)
 * [2025-08-24, 21:40:35](https://news.ycombinator.com/item?id=45008056) - [Uncle Sam Shouldn't Own Intel Stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
+* [2025-08-24, 21:31:34](https://news.ycombinator.com/item?id=45007992) - [Mathematical secrets of ancient tablet unlocked after nearly a century of study (2017)](https://www.theguardian.com/science/2017/aug/24/mathematical-secrets-of-ancient-tablet-unlocked-after-nearly-a-century-of-study)
 * [2025-08-24, 21:22:07](https://news.ycombinator.com/item?id=45007907) - [SpaceX Starship Orbital Flight Test 10](https://www.spacex.com/launches/starship-flight-10)
 * [2025-08-24, 20:22:26](https://news.ycombinator.com/item?id=45007437) - [Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)
 * [2025-08-24, 20:19:55](https://news.ycombinator.com/item?id=45007414) - [Halt and Catch Fire Syllabus (2021)](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
