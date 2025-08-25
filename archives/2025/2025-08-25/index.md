@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 14:50:21](https://news.ycombinator.com/item?id=45014489) - [Hundreds lose water source in Colorado's poorest county with no notice](https://coloradosun.com/2025/08/25/costilla-county-water-cutoff/)
 * [2025-08-25, 14:17:38](https://news.ycombinator.com/item?id=45014131) - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
 * [2025-08-25, 14:05:45](https://news.ycombinator.com/item?id=45013989) - [The air is hissing out of the overinflated AI balloon](https://www.theregister.com/2025/08/25/overinflated_ai_balloon/)
 * [2025-08-25, 13:44:58](https://news.ycombinator.com/item?id=45013774) - [Japan's Creepiest Station](https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station)
