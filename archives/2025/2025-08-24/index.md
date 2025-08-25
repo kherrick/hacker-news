@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 23:44:47](https://news.ycombinator.com/item?id=45008832) - [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
 * [2025-08-24, 23:42:01](https://news.ycombinator.com/item?id=45008819) - [Show HN: Sping – A HTTP/TCP Latency Tool That's Easy on the Eye](https://dseltzer.gitlab.io/sping/docs/)
 * [2025-08-24, 23:27:52](https://news.ycombinator.com/item?id=45008740) - [Ghrc.io Appears to Be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
 * [2025-08-24, 22:31:22](https://news.ycombinator.com/item?id=45008406) - [Introducing: VuIO – open-source UPNP/DLNA server written in Rust](https://github.com/vuiodev/vuio)
@@ -14,6 +15,7 @@
 * [2025-08-24, 21:22:07](https://news.ycombinator.com/item?id=45007907) - [SpaceX Starship Orbital Flight Test 10](https://www.spacex.com/launches/starship-flight-10)
 * [2025-08-24, 20:22:26](https://news.ycombinator.com/item?id=45007437) - [Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)
 * [2025-08-24, 20:19:55](https://news.ycombinator.com/item?id=45007414) - [Halt and Catch Fire Syllabus (2021)](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
+* [2025-08-24, 20:09:12](https://news.ycombinator.com/item?id=45007333) - [How many paths of length K are there between A and B? (2021)](https://horace.io/walks)
 * [2025-08-24, 19:23:19](https://news.ycombinator.com/item?id=45006902) - [A Brilliant and Nearby One-Off Fast Radio Burst Localized to 13pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
 * [2025-08-24, 19:10:09](https://news.ycombinator.com/item?id=45006801) - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 * [2025-08-24, 18:32:43](https://news.ycombinator.com/item?id=45006507) - [How Does a Firewall Work Step by Step](https://kalilinuxtutorials.com/how-firewall-works-step-by-step/)
