@@ -12,7 +12,6 @@
 * [2025-08-25, 12:33:13](https://news.ycombinator.com/item?id=45013154) - [What Is a Color Space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
 * [2025-08-25, 12:29:48](https://news.ycombinator.com/item?id=45013131) - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 * [2025-08-25, 12:04:45](https://news.ycombinator.com/item?id=45012942) - [Standard Thermal: Energy Storage 500x Cheaper Than Batteries](https://austinvernon.site/blog/standardthermal.html)
-* [2025-08-25, 12:03:30](https://news.ycombinator.com/item?id=45012931) - [The Size of Adobe Reader Installers Through the Years](https://sigwait.org/~alex/blog/2025/08/25/zw6z4E.html)
 * [2025-08-25, 11:05:38](https://news.ycombinator.com/item?id=45012548) - [Prediction-Encoded Pixels image format](https://github.com/ENDESGA/PEP)
 * [2025-08-25, 10:43:50](https://news.ycombinator.com/item?id=45012430) - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
 * [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [We put agentic AI browsers to the test – They clicked, they paid, they failed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
@@ -30,6 +29,7 @@
 * [2025-08-24, 04:43:34](https://news.ycombinator.com/item?id=45001466) - [A lightweight TypeScript library for assertion-based runtime data validation](https://github.com/nimeshnayaju/decode-kit)
 * [2025-08-24, 04:36:54](https://news.ycombinator.com/item?id=45001434) - [Omarchy Is Out](https://world.hey.com/dhh/omarchy-is-out-4666dd31)
 * [2025-08-22, 22:47:08](https://news.ycombinator.com/item?id=44990839) - [Busy beaver hunters reach numbers that overwhelm ordinary math](https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/)
+* [2025-08-22, 16:46:42](https://news.ycombinator.com/item?id=44986723) - [Trees on city streets cope with drought by drinking from leaky pipes](https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/)
 
 ## [Archives](archives/index.md)
 
