@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 13:44:58](https://news.ycombinator.com/item?id=45013774) - [Japan's Creepiest Station](https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station)
 * [2025-08-25, 13:40:11](https://news.ycombinator.com/item?id=45013737) - [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
 * [2025-08-25, 13:37:22](https://news.ycombinator.com/item?id=45013714) - [The Unlikely Revival of Nuclear Batteries](https://spectrum.ieee.org/nuclear-battery-revival)
 * [2025-08-25, 12:29:48](https://news.ycombinator.com/item?id=45013131) - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
