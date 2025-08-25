@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-25, 21:52:36](https://news.ycombinator.com/item?id=45019513) - [How the Richest People in America Avoid Paying Taxes](https://www.theatlantic.com/economy/archive/2025/08/billionaire-tax-study/683987/)
 * [2025-08-25, 20:59:22](https://news.ycombinator.com/item?id=45018933) - [A short proof of the Hairy Ball theorem (2016) [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
 * [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Social media's next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
 * [2025-08-25, 20:40:39](https://news.ycombinator.com/item?id=45018708) - [Llama Fund: Crowdfund AI Models](https://llama.fund)
@@ -11,6 +10,7 @@
 * [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 18:02:51](https://news.ycombinator.com/item?id=45016794) - [How RubyGems.org protects OSS infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html)
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
+* [2025-08-25, 16:47:11](https://news.ycombinator.com/item?id=45015838) - [Show HN: Stagewise – frontend coding agent for real codebases](https://stagewise.io/)
 * [2025-08-25, 16:45:19](https://news.ycombinator.com/item?id=45015814) - [The MiniPC Revolution](https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/)
 * [2025-08-25, 16:06:24](https://news.ycombinator.com/item?id=45015354) - [FCC bars providers for non-compliance with robocall protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
 * [2025-08-25, 15:56:26](https://news.ycombinator.com/item?id=45015230) - [Launch HN: April (YC S25) – Voice AI to manage your email and calendar](https://news.ycombinator.com/item?id=45015230)
