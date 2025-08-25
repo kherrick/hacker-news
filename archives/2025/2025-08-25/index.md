@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 19:33:13](https://news.ycombinator.com/item?id=45017969) - [Meta just suspended the Facebook account of Neal Stephenson](https://twitter.com/nealstephenson/status/1959759051732213812)
+* [2025-08-25, 19:29:50](https://news.ycombinator.com/item?id=45017930) - [By Birth Alone: The Original Meaning of Birthright Citizenship](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5394605)
 * [2025-08-25, 18:15:41](https://news.ycombinator.com/item?id=45016999) - [With AI chatbots, Big Tech is moving fast and breaking people](https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/)
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling at Hot Chips 2025](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 17:43:13](https://news.ycombinator.com/item?id=45016542) - [IBM's Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
