@@ -2,7 +2,7 @@
 
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling at Hot Chips 2025](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 17:43:13](https://news.ycombinator.com/item?id=45016542) - [IBM's Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
-* [2025-08-25, 17:41:48](https://news.ycombinator.com/item?id=45016517) - [Japan Post to temporarily stop accepting US shipments over $100](https://www.post.japanpost.jp/int/information/2025/0825_01_en.html)
+* [2025-08-25, 17:41:48](https://news.ycombinator.com/item?id=45016517) - [Temporary suspension of acceptance of mail to the United States](https://www.post.japanpost.jp/int/information/2025/0825_01_en.html)
 * [2025-08-25, 16:47:11](https://news.ycombinator.com/item?id=45015838) - [Show HN: Stagewise – frontend coding agent for real codebases](https://stagewise.io/)
 * [2025-08-25, 16:19:36](https://news.ycombinator.com/item?id=45015532) - [Nvidia's new 'robot brain' goes on sale for $3,499](https://www.cnbc.com/2025/08/25/nvidias-thor-t5000-robot-brain-chip.html)
 * [2025-08-25, 16:06:24](https://news.ycombinator.com/item?id=45015354) - [FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
