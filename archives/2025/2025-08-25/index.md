@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the Screen, Libyans Learned About Everything but Themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
+* [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What Are OKLCH Colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 06:28:18](https://news.ycombinator.com/item?id=45010846) - [Buypass Discontinues Issuance of TLS/SSL Certificates](https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates)
 * [2025-08-25, 05:30:00](https://news.ycombinator.com/item?id=45010524) - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
