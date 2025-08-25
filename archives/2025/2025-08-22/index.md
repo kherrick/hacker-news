@@ -91,3 +91,4 @@
 * [2025-08-22, 00:42:44](https://news.ycombinator.com/item?id=44979906) - [NASA's Juno mission leaves legacy of science at Jupiter](https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/)
 * [2025-08-22, 00:34:33](https://news.ycombinator.com/item?id=44979855) - [Google scores six-year Meta cloud deal worth over $10B](https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html)
 * [2025-08-22, 00:05:37](https://news.ycombinator.com/item?id=44979687) - [Y Combinator files brief supporting Epic Games, says store fees stifle startups](https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/)
+* [2025-08-22, 00:05:23](https://news.ycombinator.com/item?id=44979685) - [German contest to live in depopulated Soviet-era city proves global hit](https://www.theguardian.com/world/2025/aug/21/german-contest-to-live-in-depopulated-soviet-era-city-proves-global-hit)
