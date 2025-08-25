@@ -11,6 +11,7 @@
 * [2025-08-24, 22:08:26](https://news.ycombinator.com/item?id=45008239) - [From Hackathon to YC](https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc)
 * [2025-08-24, 22:02:52](https://news.ycombinator.com/item?id=45008209) - [A bubble that knows it's a bubble](https://craigmccaskill.com/ai-bubble-history)
 * [2025-08-24, 21:40:35](https://news.ycombinator.com/item?id=45008056) - [Uncle Sam shouldn't own Intel stock](https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d)
+* [2025-08-24, 20:19:55](https://news.ycombinator.com/item?id=45007414) - [Halt and Catch Fire Syllabus (2021)](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 * [2025-08-24, 19:23:19](https://news.ycombinator.com/item?id=45006902) - [A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
 * [2025-08-24, 19:10:09](https://news.ycombinator.com/item?id=45006801) - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 * [2025-08-24, 17:38:30](https://news.ycombinator.com/item?id=45006098) - [Show HN: I Built a XSLT Blog Framework](https://vgr.land/content/posts/20250821.xml)
@@ -28,7 +29,6 @@
 * [2025-08-22, 00:05:37](https://news.ycombinator.com/item?id=44979687) - [Y Combinator files brief supporting Epic Games, says store fees stifle startups](https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/)
 * [2025-08-21, 11:30:59](https://news.ycombinator.com/item?id=44971451) - [Stepanov's biggest blunder? The curious case of adjacent difference](https://mmapped.blog/posts/43-stepanovs-biggest-blunder)
 * [2025-08-21, 09:34:32](https://news.ycombinator.com/item?id=44970769) - [The two versions of Parquet](https://www.jeronimo.dev/the-two-versions-of-parquet/)
-* [2025-08-20, 23:25:58](https://news.ycombinator.com/item?id=44967543) - [Burner Phone 101](https://rebeccawilliams.info/burner-phone-101/)
 * [2025-08-20, 19:42:45](https://news.ycombinator.com/item?id=44965577) - [Claim: GPT-5-pro can prove new interesting mathematics](https://twitter.com/SebastienBubeck/status/1958198661139009862)
 
 ## [Archives](archives/index.md)
