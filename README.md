@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-25, 15:36:38](https://news.ycombinator.com/item?id=45015016) - [Barking Up the Ratchet Tree – MLS Is Neither Royal nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
 * [2025-08-25, 14:50:21](https://news.ycombinator.com/item?id=45014489) - [Hundreds lose water source in Colorado's poorest county with no notice](https://coloradosun.com/2025/08/25/costilla-county-water-cutoff/)
 * [2025-08-25, 14:17:38](https://news.ycombinator.com/item?id=45014131) - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
 * [2025-08-25, 13:44:58](https://news.ycombinator.com/item?id=45013774) - [Japan's Creepiest Station](https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station)
@@ -28,7 +29,6 @@
 * [2025-08-24, 04:43:34](https://news.ycombinator.com/item?id=45001466) - [A lightweight TypeScript library for assertion-based runtime data validation](https://github.com/nimeshnayaju/decode-kit)
 * [2025-08-22, 22:47:08](https://news.ycombinator.com/item?id=44990839) - [Busy beaver hunters reach numbers that overwhelm ordinary math](https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/)
 * [2025-08-22, 16:46:42](https://news.ycombinator.com/item?id=44986723) - [Trees on city streets cope with drought by drinking from leaky pipes](https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/)
-* [2025-08-21, 09:34:32](https://news.ycombinator.com/item?id=44970769) - [The two versions of Parquet](https://www.jeronimo.dev/the-two-versions-of-parquet/)
 * [2025-08-20, 19:42:45](https://news.ycombinator.com/item?id=44965577) - [Claim: GPT-5-pro can prove new interesting mathematics](https://twitter.com/SebastienBubeck/status/1958198661139009862)
 
 ## [Archives](archives/index.md)
