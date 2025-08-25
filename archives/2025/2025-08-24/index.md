@@ -43,6 +43,7 @@
 * [2025-08-24, 11:40:37](https://news.ycombinator.com/item?id=45003458) - [Spending Too Much Time at Airports](https://thezvi.substack.com/p/spending-too-much-time-at-airports)
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
 * [2025-08-24, 11:15:26](https://news.ycombinator.com/item?id=45003296) - [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)
+* [2025-08-24, 10:37:15](https://news.ycombinator.com/item?id=45003073) - [YouTube used AI to edit videos without telling users](https://www.bbc.com/future/article/20250822-youtube-is-using-ai-to-edit-videos-without-permission)
 * [2025-08-24, 10:31:09](https://news.ycombinator.com/item?id=45003052) - [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap)
 * [2025-08-24, 10:27:19](https://news.ycombinator.com/item?id=45003033) - [A German ISP tampered with their DNS – specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 10:10:29](https://news.ycombinator.com/item?id=45002958) - [Writing with LLM is not a shame](https://reflexions.florianernotte.be/post/ai-transparency/)
