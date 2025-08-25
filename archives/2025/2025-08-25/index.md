@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 16:06:24](https://news.ycombinator.com/item?id=45015354) - [FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
+* [2025-08-25, 15:56:26](https://news.ycombinator.com/item?id=45015230) - [Launch HN: April (YC S25) – Voice AI to manage your email and calendar](https://news.ycombinator.com/item?id=45015230)
 * [2025-08-25, 15:36:38](https://news.ycombinator.com/item?id=45015016) - [Barking Up the Ratchet Tree – MLS Is Neither Royal nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
+* [2025-08-25, 15:34:50](https://news.ycombinator.com/item?id=45014993) - [Building the mouse Logitech won't make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
 * [2025-08-25, 14:50:21](https://news.ycombinator.com/item?id=45014489) - [Hundreds lose water source in Colorado's poorest county with no notice](https://coloradosun.com/2025/08/25/costilla-county-water-cutoff/)
 * [2025-08-25, 14:17:38](https://news.ycombinator.com/item?id=45014131) - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
 * [2025-08-25, 14:05:45](https://news.ycombinator.com/item?id=45013989) - [The air is hissing out of the overinflated AI balloon](https://www.theregister.com/2025/08/25/overinflated_ai_balloon/)

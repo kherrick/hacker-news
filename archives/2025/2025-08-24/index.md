@@ -66,6 +66,7 @@
 * [2025-08-24, 05:10:10](https://news.ycombinator.com/item?id=45001556) - [How to Make Things Slower So They Go Faster](https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/)
 * [2025-08-24, 05:08:19](https://news.ycombinator.com/item?id=45001551) - [Ask HN: Best codebases to study to learn software design?](https://news.ycombinator.com/item?id=45001551)
 * [2025-08-24, 04:43:34](https://news.ycombinator.com/item?id=45001466) - [A lightweight TypeScript library for assertion-based runtime data validation](https://github.com/nimeshnayaju/decode-kit)
+* [2025-08-24, 04:36:54](https://news.ycombinator.com/item?id=45001434) - [Omarchy Is Out](https://world.hey.com/dhh/omarchy-is-out-4666dd31)
 * [2025-08-24, 04:23:33](https://news.ycombinator.com/item?id=45001371) - [ThinkMesh: A Python lib for parallel thinking in LLMs](https://github.com/martianlantern/ThinkMesh)
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
 * [2025-08-24, 03:09:01](https://news.ycombinator.com/item?id=45000988) - [Kinds of Programming People](https://leftoversalad.com/c/015_programmingpeople/)
