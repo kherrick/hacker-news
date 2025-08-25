@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Social media's next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
 * [2025-08-25, 20:40:39](https://news.ycombinator.com/item?id=45018708) - [Llama Fund: Crowdfund AI Models](https://llama.fund)
-* [2025-08-25, 20:05:14](https://news.ycombinator.com/item?id=45018343) - [Google to require developer verification for Android apps outside the Play Store](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
+* [2025-08-25, 20:40:04](https://news.ycombinator.com/item?id=45018701) - [Make the Easy Change Hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
+* [2025-08-25, 20:17:44](https://news.ycombinator.com/item?id=45018474) - [Reading for pleasure plummets by 40% in the US](https://medicalxpress.com/news/2025-08-pleasure-plummets.html)
 * [2025-08-25, 19:33:13](https://news.ycombinator.com/item?id=45017969) - [Meta just suspended the Facebook account of Neal Stephenson](https://twitter.com/nealstephenson/status/1959759051732213812)
+* [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 18:02:51](https://news.ycombinator.com/item?id=45016794) - [How RubyGems.org protects OSS infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html)
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 17:43:13](https://news.ycombinator.com/item?id=45016542) - [IBM's Power11 Processor Architecture](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
-* [2025-08-25, 17:41:48](https://news.ycombinator.com/item?id=45016517) - [Temporary suspension of acceptance of mail to the United States](https://www.post.japanpost.jp/int/information/2025/0825_01_en.html)
 * [2025-08-25, 16:47:11](https://news.ycombinator.com/item?id=45015838) - [Show HN: Stagewise – frontend coding agent for real codebases](https://stagewise.io/)
 * [2025-08-25, 16:45:19](https://news.ycombinator.com/item?id=45015814) - [The MiniPC Revolution](https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/)
 * [2025-08-25, 16:06:24](https://news.ycombinator.com/item?id=45015354) - [FCC bars providers for non-compliance with robocall protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
@@ -28,8 +30,6 @@
 * [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 * [2025-08-24, 06:13:33](https://news.ycombinator.com/item?id=45001815) - [Turning a Decommissioned iPhone into a UniFi Protect Camera](https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera)
 * [2025-08-24, 05:10:10](https://news.ycombinator.com/item?id=45001556) - [How to make things slower so they go faster](https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/)
-* [2025-08-24, 04:36:54](https://news.ycombinator.com/item?id=45001434) - [Omarchy Is Out](https://world.hey.com/dhh/omarchy-is-out-4666dd31)
-* [2025-08-22, 22:47:08](https://news.ycombinator.com/item?id=44990839) - [Busy beaver hunters reach numbers that overwhelm ordinary math](https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/)
 
 ## [Archives](archives/index.md)
 
