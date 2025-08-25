@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-25, 13:40:11",
+      "https://news.ycombinator.com/item?id=45013737"
+    ],
+    [
+      "A Small Change to Improve Browsers for Keyboard Navigation",
+      "https://b.43z.one/2025-07-22/"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 13:37:22",
+      "https://news.ycombinator.com/item?id=45013714"
+    ],
+    [
+      "The Unlikely Revival of Nuclear Batteries",
+      "https://spectrum.ieee.org/nuclear-battery-revival"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 12:29:48",
       "https://news.ycombinator.com/item?id=45013131"
     ],
@@ -17,6 +37,26 @@
     [
       "Standard Thermal: Energy Storage 500x Cheaper Than Batteries",
       "https://austinvernon.site/blog/standardthermal.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 12:03:30",
+      "https://news.ycombinator.com/item?id=45012931"
+    ],
+    [
+      "The Size of Adobe Reader Installers Through the Years",
+      "https://sigwait.org/~alex/blog/2025/08/25/zw6z4E.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 11:05:38",
+      "https://news.ycombinator.com/item?id=45012548"
+    ],
+    [
+      "Prediction-Encoded Pixels image format",
+      "https://github.com/ENDESGA/PEP"
     ]
   ],
   [
@@ -101,52 +141,12 @@
   ],
   [
     [
-      "2025-08-24, 21:40:35",
-      "https://news.ycombinator.com/item?id=45008056"
-    ],
-    [
-      "Uncle Sam shouldn't own Intel stock",
-      "https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 21:31:34",
       "https://news.ycombinator.com/item?id=45007992"
     ],
     [
       "Mathematical secrets of ancient tablet unlocked after nearly a century of study (2017)",
       "https://www.theguardian.com/science/2017/aug/24/mathematical-secrets-of-ancient-tablet-unlocked-after-nearly-a-century-of-study"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 19:23:19",
-      "https://news.ycombinator.com/item?id=45006902"
-    ],
-    [
-      "A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision",
-      "https://iopscience.iop.org/article/10.3847/2041-8213/adf62f"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 19:10:09",
-      "https://news.ycombinator.com/item?id=45006801"
-    ],
-    [
-      "Everything I know about good API design",
-      "https://www.seangoedecke.com/good-api-design/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 17:38:30",
-      "https://news.ycombinator.com/item?id=45006098"
-    ],
-    [
-      "Show HN: I Built a XSLT Blog Framework",
-      "https://vgr.land/content/posts/20250821.xml"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-08-24, 04:43:34",
+      "https://news.ycombinator.com/item?id=45001466"
+    ],
+    [
+      "A lightweight TypeScript library for assertion-based runtime data validation",
+      "https://github.com/nimeshnayaju/decode-kit"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 22:47:08",
       "https://news.ycombinator.com/item?id=44990839"
     ],
@@ -267,16 +277,6 @@
     [
       "Trees on city streets cope with drought by drinking from leaky pipes",
       "https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 04:14:10",
-      "https://news.ycombinator.com/item?id=44980940"
-    ],
-    [
-      "Cloudflare incident on August 21, 2025",
-      "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/"
     ]
   ],
   [
