@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-25, 16:19:36](https://news.ycombinator.com/item?id=45015532) - [Nvidia's new 'robot brain' goes on sale for $3,499](https://www.cnbc.com/2025/08/25/nvidias-thor-t5000-robot-brain-chip.html)
 * [2025-08-25, 16:06:24](https://news.ycombinator.com/item?id=45015354) - [FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
 * [2025-08-25, 15:56:26](https://news.ycombinator.com/item?id=45015230) - [Launch HN: April (YC S25) – Voice AI to manage your email and calendar](https://news.ycombinator.com/item?id=45015230)
 * [2025-08-25, 15:36:38](https://news.ycombinator.com/item?id=45015016) - [Barking Up the Ratchet Tree – MLS Is Neither Royal nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
@@ -17,7 +18,6 @@
 * [2025-08-25, 10:43:50](https://news.ycombinator.com/item?id=45012430) - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
 * [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [We put agentic AI browsers to the test – They clicked, they paid, they failed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
-* [2025-08-25, 04:23:29](https://news.ycombinator.com/item?id=45010183) - [Ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 04:18:56](https://news.ycombinator.com/item?id=45010161) - [Git-Annex](https://git-annex.branchable.com/)
 * [2025-08-25, 00:46:22](https://news.ycombinator.com/item?id=45009164) - [The Unix-Haters Handbook (1994) [pdf]](https://simson.net/ref/ugh.pdf)
 * [2025-08-24, 23:42:01](https://news.ycombinator.com/item?id=45008819) - [Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye](https://dseltzer.gitlab.io/sping/docs/)
