@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 10:43:50](https://news.ycombinator.com/item?id=45012430) - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
 * [2025-08-25, 10:03:53](https://news.ycombinator.com/item?id=45012191) - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the Screen, Libyans Learned About Everything but Themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
 * [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
