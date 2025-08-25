@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-25, 03:33:01](https://news.ycombinator.com/item?id=45009949) - [We need a new theory of democracy – because this version has failed](https://www.salon.com/2025/08/24/we-need-a-new-theory-of-democracy-because-this-version-has-failed/)
 * [2025-08-25, 01:52:34](https://news.ycombinator.com/item?id=45009486) - [Show HN: Decentralized Bitcoin Incentives via QR Codes](https://github.com/DT7QR/Bitcoin-Rewards-System-Proposal)
 * [2025-08-25, 00:46:22](https://news.ycombinator.com/item?id=45009164) - [The Unix-Haters Handbook (1994) [pdf]](https://simson.net/ref/ugh.pdf)
 * [2025-08-25, 00:10:00](https://news.ycombinator.com/item?id=45008995) - [Prison isn’t set up for today’s tech so we have to do legal work the old way](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
@@ -21,6 +20,7 @@
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI object detection to your IP CCTV cameras](https://github.com/roryclear/clearcam)
 * [2025-08-22, 22:47:08](https://news.ycombinator.com/item?id=44990839) - [Busy beaver hunters reach numbers that overwhelm ordinary math](https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/)
 * [2025-08-22, 16:46:42](https://news.ycombinator.com/item?id=44986723) - [Trees on city streets cope with drought by drinking from leaky pipes](https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/)
+* [2025-08-22, 14:02:43](https://news.ycombinator.com/item?id=44984823) - [Why is choral music harder to appreciate?](https://marginalrevolution.com/marginalrevolution/2025/08/why-is-choral-music-harder-to-appreciate.html)
 * [2025-08-22, 11:58:36](https://news.ycombinator.com/item?id=44983442) - [Bash Strict Mode (2014)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [2025-08-22, 04:14:10](https://news.ycombinator.com/item?id=44980940) - [Cloudflare incident on August 21, 2025](https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/)
 * [2025-08-22, 00:42:44](https://news.ycombinator.com/item?id=44979906) - [NASA's Juno mission leaves legacy of science at Jupiter](https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/)

@@ -61,6 +61,7 @@
 * [2025-08-22, 14:29:40](https://news.ycombinator.com/item?id=44985131) - [Thunderbird Pro August 2025 Update](https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/)
 * [2025-08-22, 14:20:27](https://news.ycombinator.com/item?id=44985028) - [US to review all 55M visas to check if holders broke rules](https://www.bbc.com/news/articles/cvg04gm92d3o)
 * [2025-08-22, 14:14:26](https://news.ycombinator.com/item?id=44984958) - [Build Log: Macintosh Classic](https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic)
+* [2025-08-22, 14:02:43](https://news.ycombinator.com/item?id=44984823) - [Why is choral music harder to appreciate?](https://marginalrevolution.com/marginalrevolution/2025/08/why-is-choral-music-harder-to-appreciate.html)
 * [2025-08-22, 13:59:02](https://news.ycombinator.com/item?id=44984785) - [Media over QUIC (MoQ): Refactoring the Internet's real-time media stack](https://blog.cloudflare.com/moq/)
 * [2025-08-22, 13:42:01](https://news.ycombinator.com/item?id=44984599) - [Optimizing our way through Metroid](https://antithesis.com/blog/2025/metroid/)
 * [2025-08-22, 13:14:06](https://news.ycombinator.com/item?id=44984270) - [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)
