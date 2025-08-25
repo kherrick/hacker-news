@@ -42,6 +42,7 @@
 * [2025-08-24, 12:06:17](https://news.ycombinator.com/item?id=45003602) - [Germany's Copyright Clearing House now requires courts for website blocks](https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html)
 * [2025-08-24, 11:40:37](https://news.ycombinator.com/item?id=45003458) - [Spending Too Much Time at Airports](https://thezvi.substack.com/p/spending-too-much-time-at-airports)
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
+* [2025-08-24, 11:24:40](https://news.ycombinator.com/item?id=45003358) - [Show HN: CasCache – multi-generational cache with optimistic concurrency control](https://github.com/unkn0wn-root/cascache)
 * [2025-08-24, 11:15:26](https://news.ycombinator.com/item?id=45003296) - [Show HN: Bicyclopedia](https://bicyclopedia.lemoing.ca/)
 * [2025-08-24, 10:37:15](https://news.ycombinator.com/item?id=45003073) - [YouTube used AI to edit videos without telling users](https://www.bbc.com/future/article/20250822-youtube-is-using-ai-to-edit-videos-without-permission)
 * [2025-08-24, 10:31:09](https://news.ycombinator.com/item?id=45003052) - [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap)
