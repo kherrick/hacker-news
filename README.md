@@ -2,7 +2,6 @@
 
 * [2025-08-25, 10:03:53](https://news.ycombinator.com/item?id=45012191) - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
-* [2025-08-25, 05:30:00](https://news.ycombinator.com/item?id=45010524) - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
 * [2025-08-25, 04:23:29](https://news.ycombinator.com/item?id=45010183) - [Ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 04:18:56](https://news.ycombinator.com/item?id=45010161) - [Git-Annex](https://git-annex.branchable.com/)
 * [2025-08-25, 00:46:22](https://news.ycombinator.com/item?id=45009164) - [The Unix-Haters Handbook (1994) [pdf]](https://simson.net/ref/ugh.pdf)
@@ -20,6 +19,7 @@
 * [2025-08-24, 15:01:24](https://news.ycombinator.com/item?id=45004728) - [Making games in Go: 3 months without LLMs vs. 3 days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
 * [2025-08-24, 11:34:15](https://news.ycombinator.com/item?id=45003420) - [Show HN: Clearcam – Add AI object detection to your IP CCTV cameras](https://github.com/roryclear/clearcam)
 * [2025-08-24, 11:24:40](https://news.ycombinator.com/item?id=45003358) - [Show HN: CasCache – multi-generational cache with optimistic concurrency control](https://github.com/unkn0wn-root/cascache)
+* [2025-08-24, 10:37:15](https://news.ycombinator.com/item?id=45003073) - [YouTube made AI enhancements to videos without warning or permission](https://www.bbc.com/future/article/20250822-youtube-is-using-ai-to-edit-videos-without-permission)
 * [2025-08-24, 09:29:02](https://news.ycombinator.com/item?id=45002776) - [SmallJS: Smalltalk-80 that compiles to JavaScript](https://small-js.org/Home/Home.html)
 * [2025-08-24, 08:55:56](https://news.ycombinator.com/item?id=45002584) - [The SD Association has an official SD card format utility [Win/OS X/Linux]](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
 * [2025-08-24, 06:33:35](https://news.ycombinator.com/item?id=45001883) - [In-Memory Filesystems in Rust](https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/)
