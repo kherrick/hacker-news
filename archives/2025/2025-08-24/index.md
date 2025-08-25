@@ -33,6 +33,7 @@
 * [2025-08-24, 16:30:18](https://news.ycombinator.com/item?id=45005545) - [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
 * [2025-08-24, 16:18:53](https://news.ycombinator.com/item?id=45005434) - [We Put a Coding Agent in a While Loop and It Shipped 6 Repos Overnight](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
 * [2025-08-24, 15:40:38](https://news.ycombinator.com/item?id=45005071) - [SQLite (with WAL) doesn't do `fsync` on each commit under default settings](https://avi.im/blag/2025/sqlite-fsync/)
+* [2025-08-24, 15:34:26](https://news.ycombinator.com/item?id=45005016) - [Playing every game of Wordle simultaneously](https://chriskw.xyz/2025/08/24/Hyper-Wordle/)
 * [2025-08-24, 15:14:34](https://news.ycombinator.com/item?id=45004846) - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
 * [2025-08-24, 15:01:24](https://news.ycombinator.com/item?id=45004728) - [Making Games in Go: 3 Months Without LLMs vs. 3 Days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
 * [2025-08-24, 14:41:58](https://news.ycombinator.com/item?id=45004617) - [Deep Think with Confidence](https://arxiviq.substack.com/p/deep-think-with-confidence)

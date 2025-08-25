@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-25, 18:15:41](https://news.ycombinator.com/item?id=45016999) - [With AI chatbots, Big Tech is moving fast and breaking people](https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/)
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling at Hot Chips 2025](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 17:43:13](https://news.ycombinator.com/item?id=45016542) - [IBM's Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
-* [2025-08-25, 17:41:48](https://news.ycombinator.com/item?id=45016517) - [Temporary suspension of acceptance of mail to the United States](https://www.post.japanpost.jp/int/information/2025/0825_01_en.html)
 * [2025-08-25, 16:47:11](https://news.ycombinator.com/item?id=45015838) - [Show HN: Stagewise – frontend coding agent for real codebases](https://stagewise.io/)
 * [2025-08-25, 16:19:36](https://news.ycombinator.com/item?id=45015532) - [Nvidia's new 'robot brain' goes on sale for $3,499](https://www.cnbc.com/2025/08/25/nvidias-thor-t5000-robot-brain-chip.html)
 * [2025-08-25, 16:06:24](https://news.ycombinator.com/item?id=45015354) - [FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
@@ -23,13 +23,13 @@
 * [2025-08-24, 21:31:34](https://news.ycombinator.com/item?id=45007992) - [Mathematical secrets of ancient tablet unlocked after nearly a century of study (2017)](https://www.theguardian.com/science/2017/aug/24/mathematical-secrets-of-ancient-tablet-unlocked-after-nearly-a-century-of-study)
 * [2025-08-24, 16:30:18](https://news.ycombinator.com/item?id=45005545) - [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
 * [2025-08-24, 16:18:53](https://news.ycombinator.com/item?id=45005434) - [We put a coding agent in a while loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
+* [2025-08-24, 15:34:26](https://news.ycombinator.com/item?id=45005016) - [Playing every game of Wordle simultaneously](https://chriskw.xyz/2025/08/24/Hyper-Wordle/)
 * [2025-08-24, 09:29:02](https://news.ycombinator.com/item?id=45002776) - [SmallJS: Smalltalk-80 that compiles to JavaScript](https://small-js.org/Home/Home.html)
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
 * [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 * [2025-08-24, 05:10:10](https://news.ycombinator.com/item?id=45001556) - [How to Make Things Slower So They Go Faster](https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/)
 * [2025-08-24, 04:36:54](https://news.ycombinator.com/item?id=45001434) - [Omarchy Is Out](https://world.hey.com/dhh/omarchy-is-out-4666dd31)
 * [2025-08-22, 22:47:08](https://news.ycombinator.com/item?id=44990839) - [Busy beaver hunters reach numbers that overwhelm ordinary math](https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/)
-* [2025-08-22, 16:46:42](https://news.ycombinator.com/item?id=44986723) - [Trees on city streets cope with drought by drinking from leaky pipes](https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/)
 
 ## [Archives](archives/index.md)
 
