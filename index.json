@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-25, 06:32:04",
+      "https://news.ycombinator.com/item?id=45010876"
+    ],
+    [
+      "What Are OKLCH Colors?",
+      "https://jakub.kr/components/oklch-colors"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 05:30:00",
+      "https://news.ycombinator.com/item?id=45010524"
+    ],
+    [
+      "MCP Gateway and Registry",
+      "https://github.com/IBM/mcp-context-forge"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 04:23:29",
       "https://news.ycombinator.com/item?id=45010183"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-08-24, 21:40:35",
-      "https://news.ycombinator.com/item?id=45008056"
-    ],
-    [
-      "Uncle Sam shouldn't own Intel stock",
-      "https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 20:19:55",
       "https://news.ycombinator.com/item?id=45007414"
     ],
@@ -157,16 +167,6 @@
     [
       "We put a coding agent in a while loop",
       "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 15:14:34",
-      "https://news.ycombinator.com/item?id=45004846"
-    ],
-    [
-      "Comet AI browser can get prompt injected from any site, drain your bank account",
-      "https://twitter.com/zack_overflow/status/1959308058200551721"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-08-22, 00:42:44",
-      "https://news.ycombinator.com/item?id=44979906"
-    ],
-    [
-      "NASA's Juno mission leaves legacy of science at Jupiter",
-      "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 00:05:37",
       "https://news.ycombinator.com/item?id=44979687"
     ],
     [
       "Y Combinator files brief supporting Epic Games, says store fees stifle startups",
       "https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 11:30:59",
+      "https://news.ycombinator.com/item?id=44971451"
+    ],
+    [
+      "Stepanov's biggest blunder? The curious case of adjacent difference",
+      "https://mmapped.blog/posts/43-stepanovs-biggest-blunder"
     ]
   ],
   [
