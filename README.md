@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-25, 20:19:23](https://news.ycombinator.com/item?id=45018495) - [Decide Now; We Won't Know More Later Re UFOs](https://www.overcomingbias.com/p/decide-now-we-wont-know-much-more)
+* [2025-08-25, 20:05:14](https://news.ycombinator.com/item?id=45018343) - [Google to require developer verification for Android apps outside the Play Store](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
 * [2025-08-25, 19:33:13](https://news.ycombinator.com/item?id=45017969) - [Meta just suspended the Facebook account of Neal Stephenson](https://twitter.com/nealstephenson/status/1959759051732213812)
-* [2025-08-25, 19:07:11](https://news.ycombinator.com/item?id=45017685) - [Angry Metal Guy Speaks: On Spotify](https://www.angrymetalguy.com/angry-metal-guy-speaks-on-spotify/)
-* [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 18:02:51](https://news.ycombinator.com/item?id=45016794) - [How RubyGems.org Protects Our Community’s Critical OSS Infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html)
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 17:43:13](https://news.ycombinator.com/item?id=45016542) - [IBM's Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
@@ -13,7 +13,7 @@
 * [2025-08-25, 15:56:26](https://news.ycombinator.com/item?id=45015230) - [Launch HN: April (YC S25) – Voice AI to manage your email and calendar](https://news.ycombinator.com/item?id=45015230)
 * [2025-08-25, 15:34:50](https://news.ycombinator.com/item?id=45014993) - [Building the mouse Logitech won't make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
 * [2025-08-25, 14:17:38](https://news.ycombinator.com/item?id=45014131) - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
-* [2025-08-25, 13:40:11](https://news.ycombinator.com/item?id=45013737) - [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
+* [2025-08-25, 13:40:11](https://news.ycombinator.com/item?id=45013737) - [A small change to improve browsers for keyboard navigation](https://b.43z.one/2025-07-22/)
 * [2025-08-25, 12:33:13](https://news.ycombinator.com/item?id=45013154) - [What Is a Color Space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
 * [2025-08-25, 12:29:48](https://news.ycombinator.com/item?id=45013131) - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 * [2025-08-25, 10:43:50](https://news.ycombinator.com/item?id=45012430) - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
@@ -27,7 +27,7 @@
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
 * [2025-08-24, 07:23:30](https://news.ycombinator.com/item?id=45002092) - [DeepWiki: Understand Any Codebase](https://www.aitidbits.ai/p/deepwiki)
 * [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
-* [2025-08-24, 05:10:10](https://news.ycombinator.com/item?id=45001556) - [How to Make Things Slower So They Go Faster](https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/)
+* [2025-08-24, 05:10:10](https://news.ycombinator.com/item?id=45001556) - [How to make things slower so they go faster](https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/)
 * [2025-08-24, 04:36:54](https://news.ycombinator.com/item?id=45001434) - [Omarchy Is Out](https://world.hey.com/dhh/omarchy-is-out-4666dd31)
 * [2025-08-22, 22:47:08](https://news.ycombinator.com/item?id=44990839) - [Busy beaver hunters reach numbers that overwhelm ordinary math](https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/)
 
