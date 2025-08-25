@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 04:23:29](https://news.ycombinator.com/item?id=45010183) - [Bro, ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 04:18:56](https://news.ycombinator.com/item?id=45010161) - [Git-Annex](https://git-annex.branchable.com/)
 * [2025-08-25, 03:33:01](https://news.ycombinator.com/item?id=45009949) - [We need a new theory of democracy – because this version has failed](https://www.salon.com/2025/08/24/we-need-a-new-theory-of-democracy-because-this-version-has-failed/)
 * [2025-08-25, 01:52:34](https://news.ycombinator.com/item?id=45009486) - [Show HN: Decentralized Bitcoin Incentives via QR Codes](https://github.com/DT7QR/Bitcoin-Rewards-System-Proposal)
