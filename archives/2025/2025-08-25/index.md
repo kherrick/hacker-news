@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling at Hot Chips 2025](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
+* [2025-08-25, 17:43:13](https://news.ycombinator.com/item?id=45016542) - [IBM's Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
+* [2025-08-25, 17:41:48](https://news.ycombinator.com/item?id=45016517) - [Japan Post to temporarily suspend mail to US over end of de minimis exemption](https://www.post.japanpost.jp/int/information/2025/0825_01_en.html)
+* [2025-08-25, 17:16:08](https://news.ycombinator.com/item?id=45016208) - [The Extraordinary Rise in the Wealth of Older American Households](https://www.nber.org/papers/w34131)
 * [2025-08-25, 16:45:19](https://news.ycombinator.com/item?id=45015814) - [The MiniPC Revolution](https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/)
 * [2025-08-25, 16:19:36](https://news.ycombinator.com/item?id=45015532) - [Nvidia's new 'robot brain' goes on sale for $3,499](https://www.cnbc.com/2025/08/25/nvidias-thor-t5000-robot-brain-chip.html)
 * [2025-08-25, 16:15:14](https://news.ycombinator.com/item?id=45015465) - [EU cave in on vehicle trade rules will cost European lives](https://www.transportenvironment.org/articles/eu-cave-in-on-vehicle-trade-rules-will-cost-european-lives-as-us-pick-up-trucks-flood-into-europe)
