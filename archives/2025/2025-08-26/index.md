@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 19:01:56](https://news.ycombinator.com/item?id=45030760) - [Claude for Chrome](https://claude.ai/chrome)
+* [2025-08-26, 18:53:03](https://news.ycombinator.com/item?id=45030664) - [IBM and AMD Join Forces to Build the Future of Computing](https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing)
 * [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
 * [2025-08-26, 17:45:21](https://news.ycombinator.com/item?id=45029868) - [Titles Matter](https://joshcollinsworth.com/blog/titles-matter)
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)

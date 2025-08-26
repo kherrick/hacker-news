@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 19:01:56](https://news.ycombinator.com/item?id=45030760) - [Claude for Chrome](https://claude.ai/chrome)
+* [2025-08-26, 18:53:03](https://news.ycombinator.com/item?id=45030664) - [IBM and AMD Join Forces to Build the Future of Computing](https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing)
 * [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
 * [2025-08-26, 17:45:21](https://news.ycombinator.com/item?id=45029868) - [Titles Matter](https://joshcollinsworth.com/blog/titles-matter)
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
@@ -21,14 +23,12 @@
 * [2025-08-26, 06:42:58](https://news.ycombinator.com/item?id=45023071) - [Interactive map of Paul's first century travels in Roman world](https://www.intofarlands.com/map-of-pauls-journeys)
 * [2025-08-25, 22:40:20](https://news.ycombinator.com/item?id=45020019) - [The Leverage Paradox in AI](https://www.indiehackers.com/post/lifestyle/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt)
 * [2025-08-25, 22:05:34](https://news.ycombinator.com/item?id=45019671) - [iOS 18.6.1 0-click RCE POC](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
-* [2025-08-25, 19:44:01](https://news.ycombinator.com/item?id=45018113) - [Show HN: Gonzo – A Go-based TUI for log analysis (OpenTelemetry/OTLP support)](https://github.com/control-theory/gonzo)
 * [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google will allow only apps from verified developers to be installed on Android](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 16:39:42](https://news.ycombinator.com/item?id=45015758) - [Show HN: SecretMemoryLocker – File Encryption Without Static Passwords](https://github.com/SecretML/SecretMemoryLocker)
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
 * [2025-08-25, 11:42:14](https://news.ycombinator.com/item?id=45012776) - [Show HN: Diggit.dev – Git history for architecture archaeologists](https://diggit.dev)
 * [2025-08-25, 10:03:53](https://news.ycombinator.com/item?id=45012191) - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
 * [2025-08-25, 02:53:35](https://news.ycombinator.com/item?id=45009760) - [Japan has opened its first osmotic power plant](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
-* [2025-08-24, 10:00:55](https://news.ycombinator.com/item?id=45002911) - [OOMProf: Profiling on the Brink](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [A bug saved the company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
 
 ## [Archives](archives/index.md)
