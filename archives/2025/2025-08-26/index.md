@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 23:22:14](https://news.ycombinator.com/item?id=45033563) - [Starship 10T minus 10 min](https://www.spacex.com/)
 * [2025-08-26, 22:25:06](https://news.ycombinator.com/item?id=45033114) - [The \"Wow!\" signal was likely from extraterrestrial source, and more powerful](https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561)
 * [2025-08-26, 21:45:58](https://news.ycombinator.com/item?id=45032715) - [Why I'm declining your AI generated MR](https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html)
 * [2025-08-26, 21:08:34](https://news.ycombinator.com/item?id=45032360) - [IETF Internet-Draft: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)

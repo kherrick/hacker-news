@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 23:22:14](https://news.ycombinator.com/item?id=45033563) - [Starship 10T minus 10 min](https://www.spacex.com/)
 * [2025-08-26, 22:25:06](https://news.ycombinator.com/item?id=45033114) - [The \"Wow!\" signal was likely from extraterrestrial source, and more powerful](https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561)
 * [2025-08-26, 21:45:58](https://news.ycombinator.com/item?id=45032715) - [Why I'm declining your AI generated MR](https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html)
 * [2025-08-26, 21:08:34](https://news.ycombinator.com/item?id=45032360) - [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
@@ -14,12 +15,10 @@
 * [2025-08-26, 16:57:44](https://news.ycombinator.com/item?id=45029241) - [Undisclosed financial conflicts of interest in DSM-5 (2024)](https://www.bmj.com/content/384/bmj-2023-076902)
 * [2025-08-26, 16:27:51](https://news.ycombinator.com/item?id=45028785) - [Proposal to Ban Ghost Jobs](https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html)
 * [2025-08-26, 15:34:55](https://news.ycombinator.com/item?id=45028002) - [Show HN: A zoomable, searchable archive of BYTE magazine](https://byte.tsundoku.io)
-* [2025-08-26, 15:12:30](https://news.ycombinator.com/item?id=45027725) - [Framework Laptop 16](https://frame.work/ro/en/laptop16?tab=whats-new)
 * [2025-08-26, 14:07:42](https://news.ycombinator.com/item?id=45026792) - [One universal antiviral to rule them all?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
 * [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
 * [2025-08-26, 10:47:46](https://news.ycombinator.com/item?id=45024786) - [US Intel](https://stratechery.com/2025/u-s-intel/)
 * [2025-08-26, 08:15:49](https://news.ycombinator.com/item?id=45023730) - [Rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
-* [2025-08-25, 22:40:20](https://news.ycombinator.com/item?id=45020019) - [The Leverage Paradox in AI](https://www.indiehackers.com/post/lifestyle/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt)
 * [2025-08-25, 22:05:34](https://news.ycombinator.com/item?id=45019671) - [iOS 18.6.1 0-click RCE POC](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
 * [2025-08-25, 13:21:19](https://news.ycombinator.com/item?id=45013572) - [Show HN: Async – Claude code and Linear and GitHub PRs in one opinionated tool](https://github.com/bkdevs/async-server)
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
@@ -30,6 +29,7 @@
 * [2025-08-24, 09:12:14](https://news.ycombinator.com/item?id=45002688) - [Neuralink 'Participant 1' says his life has changed](https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/)
 * [2025-08-23, 15:24:02](https://news.ycombinator.com/item?id=44996641) - [Cascata delle Marmore](https://en.wikipedia.org/wiki/Cascata_delle_Marmore)
 * [2025-08-23, 09:07:38](https://news.ycombinator.com/item?id=44994535) - [SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy)
+* [2025-08-23, 01:12:31](https://news.ycombinator.com/item?id=44991994) - [Eyecam](https://marcteyssier.com/projects/eyecam/)
 
 ## [Archives](archives/index.md)
 
