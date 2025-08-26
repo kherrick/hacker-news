@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 14:08:51](https://news.ycombinator.com/item?id=45026810) - [DSLRoot, Proxies, and the Threat of 'Legal Botnets'](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/)
+* [2025-08-26, 14:07:42](https://news.ycombinator.com/item?id=45026792) - [One Universal Antiviral to Rule Them All?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
+* [2025-08-26, 14:02:01](https://news.ycombinator.com/item?id=45026723) - [Show HN: Smart email filters to unfuck your email](https://unfuck.email)
+* [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
 * [2025-08-26, 13:52:13](https://news.ycombinator.com/item?id=45026584) - [Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)](https://www.laphamsquarterly.org/roundtable/deeper-deep)
 * [2025-08-26, 13:04:41](https://news.ycombinator.com/item?id=45025978) - [AI Is Wrecking Young Americans' Job Prospects](https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84)
 * [2025-08-26, 12:50:06](https://news.ycombinator.com/item?id=45025835) - [SSL certificate requirements are becoming obnoxious](https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/)
@@ -9,14 +13,12 @@
 * [2025-08-26, 10:47:46](https://news.ycombinator.com/item?id=45024786) - [US Intel](https://stratechery.com/2025/u-s-intel/)
 * [2025-08-26, 10:23:18](https://news.ycombinator.com/item?id=45024595) - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
-* [2025-08-26, 07:00:07](https://news.ycombinator.com/item?id=45023176) - [Do I not like Ruby anymore? (2024)](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2025-08-26, 06:24:30](https://news.ycombinator.com/item?id=45022931) - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
 * [2025-08-26, 04:49:36](https://news.ycombinator.com/item?id=45022383) - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-26, 01:02:59](https://news.ycombinator.com/item?id=45021078) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
 * [2025-08-26, 00:37:42](https://news.ycombinator.com/item?id=45020903) - [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
 * [2025-08-25, 21:50:41](https://news.ycombinator.com/item?id=45019483) - [Ask HN: Why hasn't x86 caught up with Apple M series?](https://news.ycombinator.com/item?id=45019483)
 * [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google will allow only apps from verified developers to be installed on Android](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
-* [2025-08-25, 18:02:51](https://news.ycombinator.com/item?id=45016794) - [How RubyGems.org protects OSS infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html)
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 14:17:38](https://news.ycombinator.com/item?id=45014131) - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
@@ -28,8 +30,6 @@
 * [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer (2022)](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [A bug saved the company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
-* [2025-08-24, 07:23:30](https://news.ycombinator.com/item?id=45002092) - [DeepWiki: Understand Any Codebase](https://www.aitidbits.ai/p/deepwiki)
-* [2025-08-24, 06:39:01](https://news.ycombinator.com/item?id=45001912) - [Neural Nets vs. Cellular Automata](https://www.nets-vs-automata.net/)
 
 ## [Archives](archives/index.md)
 
