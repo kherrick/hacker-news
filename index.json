@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-26, 17:22:33",
+      "https://news.ycombinator.com/item?id=45029579"
+    ],
+    [
+      "We regret but have to temporary suspend the shipments to USA",
+      "https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 16:55:44",
+      "https://news.ycombinator.com/item?id=45029203"
+    ],
+    [
+      "Google Release Nano Banana",
+      "https://blog.google/intl/en-mena/product-updates/explore-get-answers/nano-banana-image-editing-in-gemini-just-got-a-major-upgrade/"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 16:27:51",
       "https://news.ycombinator.com/item?id=45028785"
     ],
@@ -17,16 +37,6 @@
     [
       "No evidence ageing/declining populations compromise socio-economic performance",
       "https://arxiv.org/abs/2508.16872"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 15:53:22",
-      "https://news.ycombinator.com/item?id=45028261"
-    ],
-    [
-      "Show HN: My OSS P2P file transfer tool for learning Next.js (as a C++ dev)",
-      "https://www.privydrop.app/en"
     ]
   ],
   [
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2025-08-26, 14:35:35",
-      "https://news.ycombinator.com/item?id=45027136"
+      "2025-08-26, 14:10:42",
+      "https://news.ycombinator.com/item?id=45026833"
     ],
     [
-      "China's Share in Global Display Capacity to Reach 75% in 2028",
-      "https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028"
+      "Meta is spending $10B in rural Louisiana to build its largest data center",
+      "https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/"
     ]
   ],
   [
@@ -96,7 +106,7 @@
     ],
     [
       "Gemini 2.5 Flash Image",
-      "https://deepmind.google/models/gemini/image/"
+      "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"
     ]
   ],
   [
@@ -107,6 +117,16 @@
     [
       "Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)",
       "https://www.laphamsquarterly.org/roundtable/deeper-deep"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 12:27:55",
+      "https://news.ycombinator.com/item?id=45025600"
+    ],
+    [
+      "The Relativity of Wrong (1988)",
+      "https://hermiene.net/essays-trans/relativity_of_wrong.html"
     ]
   ],
   [
@@ -157,26 +177,6 @@
     [
       "Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step",
       "https://markdown-ui.com/"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 06:42:58",
-      "https://news.ycombinator.com/item?id=45023071"
-    ],
-    [
-      "Interactive map of Paul's first century travels in Roman world",
-      "https://www.intofarlands.com/map-of-pauls-journeys"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 06:24:30",
-      "https://news.ycombinator.com/item?id=45022931"
-    ],
-    [
-      "Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS",
-      "https://github.com/pandax381/xv6-riscv-net"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-08-25, 06:48:34",
-      "https://news.ycombinator.com/item?id=45011004"
+      "2025-08-25, 10:03:53",
+      "https://news.ycombinator.com/item?id=45012191"
     ],
     [
-      "Spoon-Bending, a logical framework for analyzing GPT-5 alignment behavior",
-      "https://github.com/pablo-chacon/Spoon-Bending"
+      "Cornell's world-first 'microwave brain' computes differently",
+      "https://newatlas.com/computers/cornell-microwave-brain/"
     ]
   ],
   [
