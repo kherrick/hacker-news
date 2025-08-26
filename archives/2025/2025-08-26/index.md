@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 22:25:06](https://news.ycombinator.com/item?id=45033114) - [The \"Wow!\" signal was likely from extraterrestrial source, and more powerful](https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561)
 * [2025-08-26, 21:45:58](https://news.ycombinator.com/item?id=45032715) - [Why I'm declining your AI generated MR](https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html)
 * [2025-08-26, 21:08:34](https://news.ycombinator.com/item?id=45032360) - [IETF Internet-Draft: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
 * [2025-08-26, 21:00:46](https://news.ycombinator.com/item?id=45032276) - [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
+* [2025-08-26, 20:59:35](https://news.ycombinator.com/item?id=45032261) - [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
 * [2025-08-26, 20:06:29](https://news.ycombinator.com/item?id=45031673) - [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
 * [2025-08-26, 19:52:36](https://news.ycombinator.com/item?id=45031496) - [What happens when ambassadors are summoned by the host country?](https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host)
 * [2025-08-26, 19:07:48](https://news.ycombinator.com/item?id=45030836) - [Doge uploaded live copy of Social Security database to 'vulnerable' cloud server](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
