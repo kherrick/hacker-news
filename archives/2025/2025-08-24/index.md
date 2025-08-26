@@ -54,6 +54,7 @@
 * [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [2025-08-24, 09:35:35](https://news.ycombinator.com/item?id=45002806) - [Declaration of famine in Gaza lays bare Israel's disregard for humanitarian duty](https://www.theguardian.com/world/2025/aug/24/gaza-famine-declaration-israel-humanitarian-duty-analysis)
 * [2025-08-24, 09:29:02](https://news.ycombinator.com/item?id=45002776) - [SmallJS: Smalltalk-80 that compiles to JavaScript](https://small-js.org/Home/Home.html)
+* [2025-08-24, 09:26:31](https://news.ycombinator.com/item?id=45002760) - [MetaScope Build 10: Revolutionary File Processing and External Drive Support](https://zalodesignstudio.com/portfolio/metascope/releases/metascope-v1-0-2-build-10/)
 * [2025-08-24, 09:23:46](https://news.ycombinator.com/item?id=45002747) - [US halts work on almost finished wind farm because national security](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy)
 * [2025-08-24, 08:55:56](https://news.ycombinator.com/item?id=45002584) - [The SD Association has an official SD card format utility [Win/OS X/Linux]](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
 * [2025-08-24, 08:23:11](https://news.ycombinator.com/item?id=45002403) - [Israeli army database suggests at least 83% of Gaza dead were civilians](https://www.972mag.com/israeli-intelligence-database-83-percent-civilians-militants/)
