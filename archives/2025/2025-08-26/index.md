@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 21:00:46](https://news.ycombinator.com/item?id=45032276) - [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
 * [2025-08-26, 20:06:29](https://news.ycombinator.com/item?id=45031673) - [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
 * [2025-08-26, 19:52:36](https://news.ycombinator.com/item?id=45031496) - [What happens when ambassadors are summoned by the host country?](https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host)
 * [2025-08-26, 19:07:48](https://news.ycombinator.com/item?id=45030836) - [Doge uploaded live copy of Social Security database to 'vulnerable' cloud server](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
@@ -28,6 +29,7 @@
 * [2025-08-26, 15:05:02](https://news.ycombinator.com/item?id=45027597) - [Show HN: Smooth – Faster, cheaper browser agent API](https://www.smooth.sh/)
 * [2025-08-26, 14:53:38](https://news.ycombinator.com/item?id=45027427) - [Blast from the past: Facit A2400 terminal](https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/)
 * [2025-08-26, 14:35:35](https://news.ycombinator.com/item?id=45027136) - [China's Share in Global Display Capacity to Reach 75% in 2028](https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028)
+* [2025-08-26, 14:15:54](https://news.ycombinator.com/item?id=45026886) - [A teen was suicidal. ChatGPT was the friend he confided in](https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html)
 * [2025-08-26, 14:10:42](https://news.ycombinator.com/item?id=45026833) - [Meta is sinking $10B into rural Louisiana to build its wildest AI aspirations](https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/)
 * [2025-08-26, 14:08:51](https://news.ycombinator.com/item?id=45026810) - [DSLRoot, Proxies, and the Threat of 'Legal Botnets'](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/)
 * [2025-08-26, 14:07:42](https://news.ycombinator.com/item?id=45026792) - [One Universal Antiviral to Rule Them All?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
@@ -48,6 +50,7 @@
 * [2025-08-26, 10:23:18](https://news.ycombinator.com/item?id=45024595) - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 * [2025-08-26, 09:36:15](https://news.ycombinator.com/item?id=45024271) - [I Bought an N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/)
+* [2025-08-26, 08:15:49](https://news.ycombinator.com/item?id=45023730) - [Rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [2025-08-26, 07:15:47](https://news.ycombinator.com/item?id=45023292) - [Thailand Is Using Long Range Acoustic Devices (LRAD)](https://twitter.com/BongSeiha/status/1959953357277470757?t=kKBVeXW8s6CJNg7Wv4TonA&s=19)
 * [2025-08-26, 07:15:47](https://news.ycombinator.com/item?id=45023292) - [Thailand Is Using Long Range Acoustic Devices (LRAD)](https://news.ycombinator.com/item?id=45023292)
 * [2025-08-26, 07:00:07](https://news.ycombinator.com/item?id=45023176) - [Do I not like Ruby anymore? (2024)](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
