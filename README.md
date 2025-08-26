@@ -23,11 +23,11 @@
 * [2025-08-26, 10:47:46](https://news.ycombinator.com/item?id=45024786) - [US Intel](https://stratechery.com/2025/u-s-intel/)
 * [2025-08-25, 22:40:20](https://news.ycombinator.com/item?id=45020019) - [The Leverage Paradox in AI](https://www.indiehackers.com/post/lifestyle/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt)
 * [2025-08-25, 22:05:34](https://news.ycombinator.com/item?id=45019671) - [iOS 18.6.1 0-click RCE POC](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
+* [2025-08-25, 13:21:19](https://news.ycombinator.com/item?id=45013572) - [Show HN: Async – Claude code and Linear and GitHub PRs in one opinionated tool](https://github.com/bkdevs/async-server)
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
 * [2025-08-25, 12:39:46](https://news.ycombinator.com/item?id=45013199) - [Connecting M.2 drives to various things (and not doing so)](https://utcc.utoronto.ca/~cks/space/blog/tech/M2ToVariousThings)
 * [2025-08-25, 12:35:41](https://news.ycombinator.com/item?id=45013170) - [All the world’s polygons](https://www.sum.si/journal-articles/all-the-worlds-polygons)
 * [2025-08-25, 11:42:14](https://news.ycombinator.com/item?id=45012776) - [Show HN: Diggit.dev – Git history for architecture archaeologists](https://diggit.dev)
-* [2025-08-25, 10:03:53](https://news.ycombinator.com/item?id=45012191) - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
 * [2025-08-25, 02:53:35](https://news.ycombinator.com/item?id=45009760) - [Japan has opened its first osmotic power plant](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
 * [2025-08-24, 09:12:14](https://news.ycombinator.com/item?id=45002688) - [Neuralink 'Participant 1' says his life has changed](https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/)
 
