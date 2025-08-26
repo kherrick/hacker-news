@@ -56,6 +56,7 @@
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What Are OKLCH Colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 06:28:18](https://news.ycombinator.com/item?id=45010846) - [Buypass Discontinues Issuance of TLS/SSL Certificates](https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates)
 * [2025-08-25, 05:30:00](https://news.ycombinator.com/item?id=45010524) - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
+* [2025-08-25, 05:22:15](https://news.ycombinator.com/item?id=45010484) - [Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
 * [2025-08-25, 05:17:44](https://news.ycombinator.com/item?id=45010461) - [Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
 * [2025-08-25, 04:23:29](https://news.ycombinator.com/item?id=45010183) - [Bro, ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 04:18:56](https://news.ycombinator.com/item?id=45010161) - [Git-Annex](https://git-annex.branchable.com/)
