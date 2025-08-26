@@ -51,6 +51,7 @@
 * [2025-08-24, 10:31:09](https://news.ycombinator.com/item?id=45003052) - [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap)
 * [2025-08-24, 10:27:19](https://news.ycombinator.com/item?id=45003033) - [A German ISP tampered with their DNS – specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 10:10:29](https://news.ycombinator.com/item?id=45002958) - [Writing with LLM is not a shame](https://reflexions.florianernotte.be/post/ai-transparency/)
+* [2025-08-24, 10:00:55](https://news.ycombinator.com/item?id=45002911) - [OOMProf: Profiling on the Brink](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-24, 10:00:04](https://news.ycombinator.com/item?id=45002905) - [Explanation of the Linux-Kernel Memory Consistency Model](https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt)
 * [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [When a Bug Saved the Company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)

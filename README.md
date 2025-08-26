@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 15:34:55](https://news.ycombinator.com/item?id=45028002) - [Show HN: A zoomable, searchable archive of BYTE magazine](https://byte.tsundoku.io)
 * [2025-08-26, 15:25:36](https://news.ycombinator.com/item?id=45027904) - [Silicon Valley is pouring millions into pro-AI PACs to sway midterms](https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/)
 * [2025-08-26, 15:12:30](https://news.ycombinator.com/item?id=45027725) - [Framework Laptop 16. Upgraded!](https://frame.work/ro/en/laptop16?tab=whats-new)
 * [2025-08-26, 14:53:38](https://news.ycombinator.com/item?id=45027427) - [Blast from the past: Facit A2400 terminal](https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/)
@@ -14,7 +15,6 @@
 * [2025-08-26, 12:27:55](https://news.ycombinator.com/item?id=45025600) - [The Relativity of Wrong (1988)](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2025-08-26, 12:00:52](https://news.ycombinator.com/item?id=45025331) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7)
 * [2025-08-26, 10:56:23](https://news.ycombinator.com/item?id=45024847) - [The TTY Demystified (2008)](https://www.linusakesson.net/programming/tty/)
-* [2025-08-26, 10:47:46](https://news.ycombinator.com/item?id=45024786) - [US Intel](https://stratechery.com/2025/u-s-intel/)
 * [2025-08-26, 10:23:18](https://news.ycombinator.com/item?id=45024595) - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 * [2025-08-26, 06:24:30](https://news.ycombinator.com/item?id=45022931) - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
@@ -24,10 +24,10 @@
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
 * [2025-08-25, 11:22:56](https://news.ycombinator.com/item?id=45012635) - [Linear Scan with Lifetime Holes](https://bernsteinbear.com/blog/linear-scan-lifetime-holes/)
-* [2025-08-25, 11:20:38](https://news.ycombinator.com/item?id=45012615) - [Teletext in North America](https://computer.rip/2025-08-25-teletext-in-north-america.html)
 * [2025-08-25, 09:42:10](https://news.ycombinator.com/item?id=45012035) - [The physics of parabolic microphones: Frequency dependence of gain (2023)](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
 * [2025-08-25, 06:48:34](https://news.ycombinator.com/item?id=45011004) - [Spoon-Bending, a logical framework for analyzing GPT-5 alignment behavior](https://github.com/pablo-chacon/Spoon-Bending)
 * [2025-08-25, 06:41:42](https://news.ycombinator.com/item?id=45010951) - [Ask HN: How can I recover and run my old mobile game from the 2010s?](https://news.ycombinator.com/item?id=45010951)
+* [2025-08-24, 10:00:55](https://news.ycombinator.com/item?id=45002911) - [OOMProf: Profiling on the Brink](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-24, 10:00:04](https://news.ycombinator.com/item?id=45002905) - [Explanation of the Linux-kernel memory consistency model (2017)](https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt)
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [A bug saved the company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
 
