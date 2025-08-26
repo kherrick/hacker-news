@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-26, 00:31:11",
+      "https://news.ycombinator.com/item?id=45020866"
+    ],
+    [
+      "MAID in Canada",
+      "https://nathansnelgrove.com/2025/08/maid-in-canada"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 00:03:25",
+      "https://news.ycombinator.com/item?id=45020685"
+    ],
+    [
+      "macOS 26 Tahoe's Dead Canary Utility App Icons",
+      "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 23:26:42",
+      "https://news.ycombinator.com/item?id=45020457"
+    ],
+    [
+      "WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi",
+      "https://github.com/MaliosDark/wifi-3d-fusion"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 22:31:50",
       "https://news.ycombinator.com/item?id=45019950"
     ],
@@ -37,16 +67,6 @@
     [
       "Llama Fund: Crowdfund AI Models",
       "https://llama.fund"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 20:40:04",
-      "https://news.ycombinator.com/item?id=45018701"
-    ],
-    [
-      "Make the Easy Change Hard",
-      "https://blog.appliedcomputing.io/p/make-the-easy-change-hard"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-08-25, 16:45:19",
-      "https://news.ycombinator.com/item?id=45015814"
-    ],
-    [
-      "The MiniPC Revolution",
-      "https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 16:06:24",
       "https://news.ycombinator.com/item?id=45015354"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-08-25, 12:29:48",
-      "https://news.ycombinator.com/item?id=45013131"
-    ],
-    [
-      "An illustrated guide to OAuth",
-      "https://www.ducktyped.org/p/an-illustrated-guide-to-oauth"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 07:03:56",
       "https://news.ycombinator.com/item?id=45011096"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-08-25, 04:23:29",
-      "https://news.ycombinator.com/item?id=45010183"
-    ],
-    [
-      "Ban me at the IP level if you don't like me",
-      "https://boston.conman.org/2025/08/21.1"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 15:34:26",
       "https://news.ycombinator.com/item?id=45005016"
     ],
@@ -247,6 +237,16 @@
     [
       "The Annotated Transformer",
       "https://nlp.seas.harvard.edu/annotated-transformer/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 09:26:31",
+      "https://news.ycombinator.com/item?id=45002760"
+    ],
+    [
+      "MetaScope Build 10: Revolutionary File Processing and External Drive Support",
+      "https://zalodesignstudio.com/portfolio/metascope/releases/metascope-v1-0-2-build-10/"
     ]
   ],
   [
