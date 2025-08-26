@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 14:35:35](https://news.ycombinator.com/item?id=45027136) - [China's Share in Global Display Capacity to Reach 75% in 2028](https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028)
 * [2025-08-26, 14:08:51](https://news.ycombinator.com/item?id=45026810) - [DSLRoot, Proxies, and the Threat of 'Legal Botnets'](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/)
 * [2025-08-26, 14:07:42](https://news.ycombinator.com/item?id=45026792) - [One Universal Antiviral to Rule Them All?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
 * [2025-08-26, 14:02:01](https://news.ycombinator.com/item?id=45026723) - [Show HN: Smart email filters to unfuck your email](https://unfuck.email)
 * [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
+* [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://deepmind.google/models/gemini/image/)
 * [2025-08-26, 13:52:13](https://news.ycombinator.com/item?id=45026584) - [Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)](https://www.laphamsquarterly.org/roundtable/deeper-deep)
 * [2025-08-26, 13:37:07](https://news.ycombinator.com/item?id=45026372) - [DOGE Put Critical Social Security Data at Risk, Whistle-Blower Says](https://www.nytimes.com/2025/08/26/us/politics/doge-social-security-data.html)
 * [2025-08-26, 13:04:41](https://news.ycombinator.com/item?id=45025978) - [AI Is Wrecking Young Americans' Job Prospects](https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84)

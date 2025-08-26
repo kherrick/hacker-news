@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 14:35:35](https://news.ycombinator.com/item?id=45027136) - [China's Share in Global Display Capacity to Reach 75% in 2028](https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028)
 * [2025-08-26, 14:08:51](https://news.ycombinator.com/item?id=45026810) - [DSLRoot, Proxies, and the Threat of 'Legal Botnets'](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/)
 * [2025-08-26, 14:07:42](https://news.ycombinator.com/item?id=45026792) - [One Universal Antiviral to Rule Them All?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
 * [2025-08-26, 14:02:01](https://news.ycombinator.com/item?id=45026723) - [Show HN: Smart email filters to unfuck your email](https://unfuck.email)
-* [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
+* [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://deepmind.google/models/gemini/image/)
 * [2025-08-26, 13:52:13](https://news.ycombinator.com/item?id=45026584) - [Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)](https://www.laphamsquarterly.org/roundtable/deeper-deep)
 * [2025-08-26, 13:04:41](https://news.ycombinator.com/item?id=45025978) - [AI Is Wrecking Young Americans' Job Prospects](https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84)
 * [2025-08-26, 12:50:06](https://news.ycombinator.com/item?id=45025835) - [SSL certificate requirements are becoming obnoxious](https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/)
@@ -27,7 +28,6 @@
 * [2025-08-25, 09:42:10](https://news.ycombinator.com/item?id=45012035) - [The physics of parabolic microphones: Frequency dependence of gain (2023)](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
 * [2025-08-25, 06:41:42](https://news.ycombinator.com/item?id=45010951) - [Ask HN: How can I recover and run my old mobile game from the 2010s?](https://news.ycombinator.com/item?id=45010951)
 * [2025-08-24, 10:00:04](https://news.ycombinator.com/item?id=45002905) - [Explanation of the Linux-kernel memory consistency model (2017)](https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt)
-* [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer (2022)](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [A bug saved the company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
 
