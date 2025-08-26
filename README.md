@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 10:23:18](https://news.ycombinator.com/item?id=45024595) - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 * [2025-08-26, 07:00:07](https://news.ycombinator.com/item?id=45023176) - [Do I not like Ruby anymore? (2024)](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2025-08-26, 06:42:58](https://news.ycombinator.com/item?id=45023071) - [Interactive Map of Paul's First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
@@ -10,7 +11,6 @@
 * [2025-08-26, 01:02:59](https://news.ycombinator.com/item?id=45021078) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
 * [2025-08-26, 00:37:42](https://news.ycombinator.com/item?id=45020903) - [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
 * [2025-08-26, 00:03:25](https://news.ycombinator.com/item?id=45020685) - [macOS 26 Tahoe's Dead Canary Utility App Icons](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons)
-* [2025-08-25, 23:26:42](https://news.ycombinator.com/item?id=45020457) - [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
 * [2025-08-25, 21:50:41](https://news.ycombinator.com/item?id=45019483) - [Ask HN: Why hasn't x86 caught up with Apple M series?](https://news.ycombinator.com/item?id=45019483)
 * [2025-08-25, 20:20:35](https://news.ycombinator.com/item?id=45018509) - [Reverse Engineering All the Raspberry Pis](https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis)
 * [2025-08-25, 19:41:51](https://news.ycombinator.com/item?id=45018081) - [Fenster: Most minimal cross-platform GUI library](https://github.com/zserge/fenster)
@@ -22,6 +22,7 @@
 * [2025-08-25, 11:20:38](https://news.ycombinator.com/item?id=45012615) - [Teletext in North America](https://computer.rip/2025-08-25-teletext-in-north-america.html)
 * [2025-08-25, 10:42:01](https://news.ycombinator.com/item?id=45012414) - [Memory optimizations to reduce CPU costs](https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs)
 * [2025-08-25, 09:42:10](https://news.ycombinator.com/item?id=45012035) - [The Physics of Parabolic Microphones: Frequency Dependence of Gain](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
+* [2025-08-25, 09:02:12](https://news.ycombinator.com/item?id=45011793) - [Paying attention to feature distribution alignment (pun intended)](https://alexshtf.github.io/2025/08/19/Orthogonality.html)
 * [2025-08-25, 05:22:15](https://news.ycombinator.com/item?id=45010484) - [Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
 * [2025-08-24, 10:00:04](https://news.ycombinator.com/item?id=45002905) - [Explanation of the Linux-Kernel Memory Consistency Model](https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt)
 * [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer (2022)](https://nlp.seas.harvard.edu/annotated-transformer/)
@@ -29,7 +30,6 @@
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
 * [2025-08-24, 07:23:30](https://news.ycombinator.com/item?id=45002092) - [DeepWiki: Understand Any Codebase](https://www.aitidbits.ai/p/deepwiki)
 * [2025-08-24, 06:39:01](https://news.ycombinator.com/item?id=45001912) - [Neural Nets vs. Cellular Automata](https://www.nets-vs-automata.net/)
-* [2025-08-24, 06:13:33](https://news.ycombinator.com/item?id=45001815) - [Turning a Decommissioned iPhone into a UniFi Protect Camera](https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera)
 
 ## [Archives](archives/index.md)
 

@@ -55,6 +55,7 @@
 * [2025-08-25, 10:42:01](https://news.ycombinator.com/item?id=45012414) - [Memory optimizations to reduce CPU costs](https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs)
 * [2025-08-25, 10:03:53](https://news.ycombinator.com/item?id=45012191) - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
 * [2025-08-25, 09:42:10](https://news.ycombinator.com/item?id=45012035) - [The Physics of Parabolic Microphones: Frequency Dependence of Gain](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
+* [2025-08-25, 09:02:12](https://news.ycombinator.com/item?id=45011793) - [Paying attention to feature distribution alignment (pun intended)](https://alexshtf.github.io/2025/08/19/Orthogonality.html)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the Screen, Libyans Learned About Everything but Themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
 * [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What Are OKLCH Colors?](https://jakub.kr/components/oklch-colors)
