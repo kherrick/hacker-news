@@ -49,6 +49,7 @@
 * [2025-08-25, 12:18:11](https://news.ycombinator.com/item?id=45013036) - [Why I'm Now Running Enterprise AI on My Laptop (Without Internet)](https://medium.com/@klaudibregu/beyond-the-cloud-why-im-now-running-enterprise-ai-on-my-laptop-without-internet-16929a585328)
 * [2025-08-25, 12:04:45](https://news.ycombinator.com/item?id=45012942) - [Standard Thermal: Energy Storage 500x Cheaper Than Batteries](https://austinvernon.site/blog/standardthermal.html)
 * [2025-08-25, 12:03:30](https://news.ycombinator.com/item?id=45012931) - [The Size of Adobe Reader Installers Through the Years](https://sigwait.org/~alex/blog/2025/08/25/zw6z4E.html)
+* [2025-08-25, 11:20:38](https://news.ycombinator.com/item?id=45012615) - [Teletext in North America](https://computer.rip/2025-08-25-teletext-in-north-america.html)
 * [2025-08-25, 11:05:38](https://news.ycombinator.com/item?id=45012548) - [Prediction-Encoded Pixels image format](https://github.com/ENDESGA/PEP)
 * [2025-08-25, 10:43:50](https://news.ycombinator.com/item?id=45012430) - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
 * [2025-08-25, 10:42:01](https://news.ycombinator.com/item?id=45012414) - [Memory optimizations to reduce CPU costs](https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs)

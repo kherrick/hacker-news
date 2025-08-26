@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 09:36:15](https://news.ycombinator.com/item?id=45024271) - [I Bought an N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/)
 * [2025-08-26, 07:00:07](https://news.ycombinator.com/item?id=45023176) - [Do I not like Ruby anymore? (2024)](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2025-08-26, 06:42:58](https://news.ycombinator.com/item?id=45023071) - [Interactive Map of Paul's First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
 * [2025-08-26, 06:24:30](https://news.ycombinator.com/item?id=45022931) - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
@@ -18,7 +19,7 @@
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 15:56:26](https://news.ycombinator.com/item?id=45015230) - [Launch HN: April (YC S25) – Voice AI to manage your email and calendar](https://news.ycombinator.com/item?id=45015230)
 * [2025-08-25, 14:17:38](https://news.ycombinator.com/item?id=45014131) - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
-* [2025-08-25, 13:40:11](https://news.ycombinator.com/item?id=45013737) - [A small change to improve browsers for keyboard navigation](https://b.43z.one/2025-07-22/)
+* [2025-08-25, 11:20:38](https://news.ycombinator.com/item?id=45012615) - [Teletext in North America](https://computer.rip/2025-08-25-teletext-in-north-america.html)
 * [2025-08-25, 10:42:01](https://news.ycombinator.com/item?id=45012414) - [Memory optimizations to reduce CPU costs](https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs)
 * [2025-08-25, 09:42:10](https://news.ycombinator.com/item?id=45012035) - [The Physics of Parabolic Microphones: Frequency Dependence of Gain](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
 * [2025-08-25, 05:22:15](https://news.ycombinator.com/item?id=45010484) - [Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
@@ -29,7 +30,6 @@
 * [2025-08-24, 07:23:30](https://news.ycombinator.com/item?id=45002092) - [DeepWiki: Understand Any Codebase](https://www.aitidbits.ai/p/deepwiki)
 * [2025-08-24, 06:39:01](https://news.ycombinator.com/item?id=45001912) - [Neural Nets vs. Cellular Automata](https://www.nets-vs-automata.net/)
 * [2025-08-24, 06:13:33](https://news.ycombinator.com/item?id=45001815) - [Turning a Decommissioned iPhone into a UniFi Protect Camera](https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera)
-* [2025-08-24, 03:22:16](https://news.ycombinator.com/item?id=45001057) - [What Are Oklch Colors?](https://jakub.kr/components/oklch-colors)
 
 ## [Archives](archives/index.md)
 
