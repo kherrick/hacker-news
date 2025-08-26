@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 13:37:07](https://news.ycombinator.com/item?id=45026372) - [DOGE Put Critical Social Security Data at Risk, Whistle-Blower Says](https://www.nytimes.com/2025/08/26/us/politics/doge-social-security-data.html)
 * [2025-08-26, 12:50:06](https://news.ycombinator.com/item?id=45025835) - [SSL certificate requirements are becoming obnoxious](https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/)
 * [2025-08-26, 12:27:55](https://news.ycombinator.com/item?id=45025600) - [The Relativity of Wrong (1988)](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2025-08-26, 12:00:52](https://news.ycombinator.com/item?id=45025331) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7)
@@ -9,7 +10,6 @@
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 * [2025-08-26, 07:00:07](https://news.ycombinator.com/item?id=45023176) - [Do I not like Ruby anymore? (2024)](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2025-08-26, 06:24:30](https://news.ycombinator.com/item?id=45022931) - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
-* [2025-08-26, 06:15:17](https://news.ycombinator.com/item?id=45022874) - [Dangerous Advice for Software Engineers](https://www.seangoedecke.com/dangerous-advice/)
 * [2025-08-26, 04:49:36](https://news.ycombinator.com/item?id=45022383) - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-26, 04:11:10](https://news.ycombinator.com/item?id=45022184) - [Will Smith's concert crowds are real, but AI is blurring the lines](https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/)
 * [2025-08-26, 01:02:59](https://news.ycombinator.com/item?id=45021078) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)

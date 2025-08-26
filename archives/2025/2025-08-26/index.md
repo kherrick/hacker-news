@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 13:37:07](https://news.ycombinator.com/item?id=45026372) - [DOGE Put Critical Social Security Data at Risk, Whistle-Blower Says](https://www.nytimes.com/2025/08/26/us/politics/doge-social-security-data.html)
 * [2025-08-26, 12:50:06](https://news.ycombinator.com/item?id=45025835) - [SSL certificate requirements are becoming obnoxious](https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/)
 * [2025-08-26, 12:27:55](https://news.ycombinator.com/item?id=45025600) - [The Relativity of Wrong (1988)](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2025-08-26, 12:06:54](https://news.ycombinator.com/item?id=45025406) - [In the Matter of Lisa Cook](https://paulkrugman.substack.com/p/in-the-matter-of-lisa-cook)
