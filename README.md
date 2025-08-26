@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 07:15:47](https://news.ycombinator.com/item?id=45023292) - [Thailand Is Using Long Range Acoustic Devices (LRAD)](https://news.ycombinator.com/item?id=45023292)
 * [2025-08-26, 06:42:58](https://news.ycombinator.com/item?id=45023071) - [Interactive Map of Paul's First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
 * [2025-08-26, 06:24:30](https://news.ycombinator.com/item?id=45022931) - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
 * [2025-08-26, 04:49:36](https://news.ycombinator.com/item?id=45022383) - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
@@ -22,7 +23,6 @@
 * [2025-08-25, 10:42:01](https://news.ycombinator.com/item?id=45012414) - [Memory optimizations to reduce CPU costs](https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs)
 * [2025-08-25, 09:42:10](https://news.ycombinator.com/item?id=45012035) - [The Physics of Parabolic Microphones: Frequency Dependence of Gain](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
 * [2025-08-25, 05:22:15](https://news.ycombinator.com/item?id=45010484) - [Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
-* [2025-08-25, 05:17:44](https://news.ycombinator.com/item?id=45010461) - [Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
 * [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer (2022)](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [A bug saved the company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
