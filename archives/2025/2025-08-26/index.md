@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 * [2025-08-26, 09:36:15](https://news.ycombinator.com/item?id=45024271) - [I Bought an N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/)
 * [2025-08-26, 07:15:47](https://news.ycombinator.com/item?id=45023292) - [Thailand Is Using Long Range Acoustic Devices (LRAD)](https://twitter.com/BongSeiha/status/1959953357277470757?t=kKBVeXW8s6CJNg7Wv4TonA&s=19)
 * [2025-08-26, 07:15:47](https://news.ycombinator.com/item?id=45023292) - [Thailand Is Using Long Range Acoustic Devices (LRAD)](https://news.ycombinator.com/item?id=45023292)
