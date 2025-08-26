@@ -6,7 +6,6 @@
 * [2025-08-26, 14:02:01](https://news.ycombinator.com/item?id=45026723) - [Show HN: Smart email filters to unfuck your email](https://unfuck.email)
 * [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://deepmind.google/models/gemini/image/)
 * [2025-08-26, 13:52:13](https://news.ycombinator.com/item?id=45026584) - [Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)](https://www.laphamsquarterly.org/roundtable/deeper-deep)
-* [2025-08-26, 13:04:41](https://news.ycombinator.com/item?id=45025978) - [AI Is Wrecking Young Americans' Job Prospects](https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84)
 * [2025-08-26, 12:50:06](https://news.ycombinator.com/item?id=45025835) - [SSL certificate requirements are becoming obnoxious](https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/)
 * [2025-08-26, 12:27:55](https://news.ycombinator.com/item?id=45025600) - [The Relativity of Wrong (1988)](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2025-08-26, 12:00:52](https://news.ycombinator.com/item?id=45025331) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7)
@@ -28,6 +27,7 @@
 * [2025-08-25, 09:42:10](https://news.ycombinator.com/item?id=45012035) - [The physics of parabolic microphones: Frequency dependence of gain (2023)](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
 * [2025-08-25, 06:41:42](https://news.ycombinator.com/item?id=45010951) - [Ask HN: How can I recover and run my old mobile game from the 2010s?](https://news.ycombinator.com/item?id=45010951)
 * [2025-08-24, 10:00:04](https://news.ycombinator.com/item?id=45002905) - [Explanation of the Linux-kernel memory consistency model (2017)](https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt)
+* [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer (2022)](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [A bug saved the company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
 
