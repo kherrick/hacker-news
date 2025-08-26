@@ -7,6 +7,8 @@
 * [2025-08-26, 16:27:51](https://news.ycombinator.com/item?id=45028785) - [Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act](https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html)
 * [2025-08-26, 16:05:54](https://news.ycombinator.com/item?id=45028439) - [No evidence ageing/declining populations compromise socio-economic performance](https://arxiv.org/abs/2508.16872)
 * [2025-08-26, 15:53:22](https://news.ycombinator.com/item?id=45028261) - [Show HN: My OSS P2P file transfer tool for learning Next.js (as a C++ dev)](https://www.privydrop.app/en)
+* [2025-08-26, 15:46:51](https://news.ycombinator.com/item?id=45028163) - [Apple´s Tim Cook battle results](https://hugston.com/articles/Apple_2016_Stand_Was_Never_About_One_Case)
+* [2025-08-26, 15:40:49](https://news.ycombinator.com/item?id=45028078) - [Windows 7 x64 Extended Support Page](https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram)
 * [2025-08-26, 15:34:55](https://news.ycombinator.com/item?id=45028002) - [Show HN: A zoomable, searchable archive of BYTE magazine](https://byte.tsundoku.io)
 * [2025-08-26, 15:25:36](https://news.ycombinator.com/item?id=45027904) - [Silicon Valley is pouring millions into pro-AI PACs to sway midterms](https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/)
 * [2025-08-26, 15:12:30](https://news.ycombinator.com/item?id=45027725) - [Framework Laptop 16. Upgraded!](https://frame.work/ro/en/laptop16?tab=whats-new)
