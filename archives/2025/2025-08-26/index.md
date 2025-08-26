@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 12:06:54](https://news.ycombinator.com/item?id=45025406) - [In the Matter of Lisa Cook](https://paulkrugman.substack.com/p/in-the-matter-of-lisa-cook)
+* [2025-08-26, 12:00:52](https://news.ycombinator.com/item?id=45025331) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7)
 * [2025-08-26, 11:33:19](https://news.ycombinator.com/item?id=45025099) - [US threatens extra tariffs, export bans, for nations that regulate Big Tech](https://www.theregister.com/2025/08/26/trump_tech_tax_threat/)
 * [2025-08-26, 10:23:18](https://news.ycombinator.com/item?id=45024595) - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
