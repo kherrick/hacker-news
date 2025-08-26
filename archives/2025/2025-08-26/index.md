@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 15:12:30](https://news.ycombinator.com/item?id=45027725) - [Framework Laptop 16. Upgraded!](https://frame.work/ro/en/laptop16?tab=whats-new)
+* [2025-08-26, 14:53:38](https://news.ycombinator.com/item?id=45027427) - [Blast from the past: Facit A2400 terminal](https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/)
 * [2025-08-26, 14:35:35](https://news.ycombinator.com/item?id=45027136) - [China's Share in Global Display Capacity to Reach 75% in 2028](https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028)
+* [2025-08-26, 14:10:42](https://news.ycombinator.com/item?id=45026833) - [Meta is sinking $10B into rural Louisiana to build its wildest AI aspirations](https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/)
 * [2025-08-26, 14:08:51](https://news.ycombinator.com/item?id=45026810) - [DSLRoot, Proxies, and the Threat of 'Legal Botnets'](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/)
 * [2025-08-26, 14:07:42](https://news.ycombinator.com/item?id=45026792) - [One Universal Antiviral to Rule Them All?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
 * [2025-08-26, 14:02:01](https://news.ycombinator.com/item?id=45026723) - [Show HN: Smart email filters to unfuck your email](https://unfuck.email)

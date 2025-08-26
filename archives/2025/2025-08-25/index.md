@@ -60,6 +60,7 @@
 * [2025-08-25, 09:02:12](https://news.ycombinator.com/item?id=45011793) - [Paying attention to feature distribution alignment (pun intended)](https://alexshtf.github.io/2025/08/19/Orthogonality.html)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the Screen, Libyans Learned About Everything but Themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
 * [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
+* [2025-08-25, 06:48:34](https://news.ycombinator.com/item?id=45011004) - [Spoon-Bending, a logical framework for analyzing GPT-5 alignment behavior](https://github.com/pablo-chacon/Spoon-Bending)
 * [2025-08-25, 06:41:42](https://news.ycombinator.com/item?id=45010951) - [Ask HN: How can I recover and run my old mobile game from the 2010s?](https://news.ycombinator.com/item?id=45010951)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What Are OKLCH Colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 06:28:18](https://news.ycombinator.com/item?id=45010846) - [Buypass Discontinues Issuance of TLS/SSL Certificates](https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates)
