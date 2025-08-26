@@ -3,7 +3,6 @@
 * [2025-08-26, 20:06:29](https://news.ycombinator.com/item?id=45031673) - [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
 * [2025-08-26, 19:52:36](https://news.ycombinator.com/item?id=45031496) - [What happens when ambassadors are summoned by the host country?](https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host)
 * [2025-08-26, 19:01:56](https://news.ycombinator.com/item?id=45030760) - [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
-* [2025-08-26, 18:57:22](https://news.ycombinator.com/item?id=45030714) - [\"Special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
 * [2025-08-26, 18:53:03](https://news.ycombinator.com/item?id=45030664) - [IBM and AMD to work on quantum-centric supercomputing](https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing)
 * [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
 * [2025-08-26, 17:45:21](https://news.ycombinator.com/item?id=45029868) - [Titles matter](https://joshcollinsworth.com/blog/titles-matter)
@@ -29,6 +28,7 @@
 * [2025-08-25, 12:35:41](https://news.ycombinator.com/item?id=45013170) - [All the world’s polygons](https://www.sum.si/journal-articles/all-the-worlds-polygons)
 * [2025-08-25, 11:42:14](https://news.ycombinator.com/item?id=45012776) - [Show HN: Diggit.dev – Git history for architecture archaeologists](https://diggit.dev)
 * [2025-08-25, 02:53:35](https://news.ycombinator.com/item?id=45009760) - [Japan has opened its first osmotic power plant](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
+* [2025-08-24, 17:54:47](https://news.ycombinator.com/item?id=45006229) - [Chinese astronauts make rocket fuel and oxygen in space](https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis)
 * [2025-08-24, 09:12:14](https://news.ycombinator.com/item?id=45002688) - [Neuralink 'Participant 1' says his life has changed](https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/)
 
 ## [Archives](archives/index.md)

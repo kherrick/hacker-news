@@ -24,6 +24,7 @@
 * [2025-08-24, 18:32:43](https://news.ycombinator.com/item?id=45006507) - [How Does a Firewall Work Step by Step](https://kalilinuxtutorials.com/how-firewall-works-step-by-step/)
 * [2025-08-24, 18:26:55](https://news.ycombinator.com/item?id=45006468) - [Walmart Fires VP for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)
 * [2025-08-24, 18:02:55](https://news.ycombinator.com/item?id=45006296) - [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
+* [2025-08-24, 17:54:47](https://news.ycombinator.com/item?id=45006229) - [Chinese astronauts make rocket fuel and oxygen in space](https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis)
 * [2025-08-24, 17:44:55](https://news.ycombinator.com/item?id=45006147) - [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
 * [2025-08-24, 17:38:30](https://news.ycombinator.com/item?id=45006098) - [Show HN: I Built a XSLT Blog Framework](https://vgr.land/content/posts/20250821.xml)
 * [2025-08-24, 17:27:19](https://news.ycombinator.com/item?id=45006002) - [Update on My Racket Exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
