@@ -3,7 +3,6 @@
 * [2025-08-26, 10:23:18](https://news.ycombinator.com/item?id=45024595) - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 * [2025-08-26, 07:00:07](https://news.ycombinator.com/item?id=45023176) - [Do I not like Ruby anymore? (2024)](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
-* [2025-08-26, 06:42:58](https://news.ycombinator.com/item?id=45023071) - [Interactive Map of Paul's First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
 * [2025-08-26, 06:24:30](https://news.ycombinator.com/item?id=45022931) - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
 * [2025-08-26, 06:15:17](https://news.ycombinator.com/item?id=45022874) - [Dangerous Advice for Software Engineers](https://www.seangoedecke.com/dangerous-advice/)
 * [2025-08-26, 04:49:36](https://news.ycombinator.com/item?id=45022383) - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
@@ -30,6 +29,7 @@
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
 * [2025-08-24, 07:23:30](https://news.ycombinator.com/item?id=45002092) - [DeepWiki: Understand Any Codebase](https://www.aitidbits.ai/p/deepwiki)
 * [2025-08-24, 06:39:01](https://news.ycombinator.com/item?id=45001912) - [Neural Nets vs. Cellular Automata](https://www.nets-vs-automata.net/)
+* [2025-08-24, 06:13:33](https://news.ycombinator.com/item?id=45001815) - [Turning a Decommissioned iPhone into a UniFi Protect Camera](https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera)
 
 ## [Archives](archives/index.md)
 
