@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-08-26, 11:33:19",
-      "https://news.ycombinator.com/item?id=45025099"
+      "2025-08-26, 12:06:54",
+      "https://news.ycombinator.com/item?id=45025406"
     ],
     [
-      "US threatens extra tariffs, export bans, for nations that regulate Big Tech",
-      "https://www.theregister.com/2025/08/26/trump_tech_tax_threat/"
+      "In the Matter of Lisa Cook",
+      "https://paulkrugman.substack.com/p/in-the-matter-of-lisa-cook"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 12:00:52",
+      "https://news.ycombinator.com/item?id=45025331"
+    ],
+    [
+      "SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)",
+      "https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2025-08-26, 00:03:25",
-      "https://news.ycombinator.com/item?id=45020685"
-    ],
-    [
-      "macOS 26 Tahoe's Dead Canary Utility App Icons",
-      "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 21:50:41",
       "https://news.ycombinator.com/item?id=45019483"
     ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-08-25, 11:22:56",
+      "https://news.ycombinator.com/item?id=45012635"
+    ],
+    [
+      "Linear Scan with Lifetime Holes",
+      "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 11:20:38",
       "https://news.ycombinator.com/item?id=45012615"
     ],
@@ -217,16 +227,6 @@
     [
       "Paying attention to feature distribution alignment (pun intended)",
       "https://alexshtf.github.io/2025/08/19/Orthogonality.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 05:22:15",
-      "https://news.ycombinator.com/item?id=45010484"
-    ],
-    [
-      "Capture Checking in Scala",
-      "https://nrinaudo.github.io/articles/capture_checking.html"
     ]
   ],
   [
