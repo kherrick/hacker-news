@@ -6,6 +6,7 @@
 
 * [2025-08-26, 04:49:36](https://news.ycombinator.com/item?id=45022383) - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-26, 04:48:58](https://news.ycombinator.com/item?id=45022380) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
+* [2025-08-26, 04:11:10](https://news.ycombinator.com/item?id=45022184) - [Will Smith's concert crowds are real, but AI is blurring the lines](https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/)
 * [2025-08-26, 03:28:36](https://news.ycombinator.com/item?id=45021955) - [US retail giants raise prices due to tariffs](https://english.elpais.com/economy-and-business/2025-08-25/us-retail-giants-raise-prices-and-seek-new-import-sources-due-to-tariffs.html)
 * [2025-08-26, 01:37:28](https://news.ycombinator.com/item?id=45021300) - [Apple vs. Facebook Is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
 * [2025-08-26, 01:02:59](https://news.ycombinator.com/item?id=45021078) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)

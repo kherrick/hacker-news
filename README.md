@@ -2,6 +2,7 @@
 
 * [2025-08-26, 04:49:36](https://news.ycombinator.com/item?id=45022383) - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-26, 04:48:58](https://news.ycombinator.com/item?id=45022380) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
+* [2025-08-26, 04:11:10](https://news.ycombinator.com/item?id=45022184) - [Will Smith's concert crowds are real, but AI is blurring the lines](https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/)
 * [2025-08-26, 01:02:59](https://news.ycombinator.com/item?id=45021078) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
 * [2025-08-26, 00:37:42](https://news.ycombinator.com/item?id=45020903) - [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
 * [2025-08-26, 00:03:25](https://news.ycombinator.com/item?id=45020685) - [macOS 26 Tahoe's Dead Canary Utility App Icons](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons)
@@ -26,7 +27,6 @@
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [When a Bug Saved the Company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
 * [2025-08-24, 07:23:30](https://news.ycombinator.com/item?id=45002092) - [DeepWiki: Understand Any Codebase](https://www.aitidbits.ai/p/deepwiki)
-* [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 * [2025-08-24, 06:39:01](https://news.ycombinator.com/item?id=45001912) - [Neural Nets vs. Cellular Automata](https://www.nets-vs-automata.net/)
 * [2025-08-24, 06:13:33](https://news.ycombinator.com/item?id=45001815) - [Turning a Decommissioned iPhone into a UniFi Protect Camera](https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera)
 * [2025-08-24, 05:45:13](https://news.ycombinator.com/item?id=45001710) - [Mob Programming (2018)](https://mobprogramming.org/)
