@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-08-25, 13:40:11",
-      "https://news.ycombinator.com/item?id=45013737"
-    ],
-    [
-      "A small change to improve browsers for keyboard navigation",
-      "https://b.43z.one/2025-07-22/"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 10:42:01",
       "https://news.ycombinator.com/item?id=45012414"
     ],
@@ -227,6 +217,16 @@
     [
       "Capture Checking in Scala",
       "https://nrinaudo.github.io/articles/capture_checking.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 10:00:04",
+      "https://news.ycombinator.com/item?id=45002905"
+    ],
+    [
+      "Explanation of the Linux-Kernel Memory Consistency Model",
+      "https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt"
     ]
   ],
   [
