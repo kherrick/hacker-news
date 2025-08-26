@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-26, 01:37:28",
+      "https://news.ycombinator.com/item?id=45021300"
+    ],
+    [
+      "Apple vs. Facebook Is Kayfabe",
+      "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 01:02:59",
+      "https://news.ycombinator.com/item?id=45021078"
+    ],
+    [
+      "The Limits of NTP Accuracy on Linux",
+      "https://scottstuff.net/posts/2025/05/19/ntp-limits/"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 00:37:42",
       "https://news.ycombinator.com/item?id=45020903"
     ],
@@ -37,26 +57,6 @@
     [
       "Exploring the tragedy of the Counter-Strike 2 server browser",
       "https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 22:11:26",
-      "https://news.ycombinator.com/item?id=45019724"
-    ],
-    [
-      "AI Is Slowing Down Tracker",
-      "https://aislowdown.replit.app/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 20:59:22",
-      "https://news.ycombinator.com/item?id=45018933"
-    ],
-    [
-      "A short proof of the Hairy Ball theorem (2016) [pdf]",
-      "https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-08-25, 05:22:15",
+      "https://news.ycombinator.com/item?id=45010484"
+    ],
+    [
+      "Capture Checking in Scala",
+      "https://nrinaudo.github.io/articles/capture_checking.html"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 05:17:44",
       "https://news.ycombinator.com/item?id=45010461"
     ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45002896"
     ],
     [
-      "The Annotated Transformer",
+      "The Annotated Transformer (2022)",
       "https://nlp.seas.harvard.edu/annotated-transformer/"
     ]
   ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=45001710"
     ],
     [
-      "Mob Programming",
+      "Mob Programming (2018)",
       "https://mobprogramming.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 05:10:10",
-      "https://news.ycombinator.com/item?id=45001556"
-    ],
-    [
-      "How to make things slower so they go faster",
-      "https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/"
     ]
   ]
 ]
