@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
 * [2025-08-26, 17:22:33](https://news.ycombinator.com/item?id=45029579) - [We regret but have to temporary suspend the shipments to USA](https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/)
 * [2025-08-26, 16:55:44](https://news.ycombinator.com/item?id=45029203) - [Google Release Nano Banana](https://blog.google/intl/en-mena/product-updates/explore-get-answers/nano-banana-image-editing-in-gemini-just-got-a-major-upgrade/)
 * [2025-08-26, 16:27:51](https://news.ycombinator.com/item?id=45028785) - [Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act](https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html)
@@ -21,7 +22,6 @@
 * [2025-08-25, 22:40:20](https://news.ycombinator.com/item?id=45020019) - [The Leverage Paradox in AI](https://www.indiehackers.com/post/lifestyle/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt)
 * [2025-08-25, 22:05:34](https://news.ycombinator.com/item?id=45019671) - [iOS 18.6.1 0-click RCE POC](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
 * [2025-08-25, 19:44:01](https://news.ycombinator.com/item?id=45018113) - [Show HN: Gonzo – A Go-based TUI for log analysis (OpenTelemetry/OTLP support)](https://github.com/control-theory/gonzo)
-* [2025-08-25, 19:35:35](https://news.ycombinator.com/item?id=45018008) - [Anonymous structavaganza in Zig](https://lirk.top/blog/structs)
 * [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google will allow only apps from verified developers to be installed on Android](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
 * [2025-08-25, 11:42:14](https://news.ycombinator.com/item?id=45012776) - [Show HN: Diggit.dev – Git history for architecture archaeologists](https://diggit.dev)
