@@ -52,6 +52,7 @@
 * [2025-08-24, 10:27:19](https://news.ycombinator.com/item?id=45003033) - [A German ISP tampered with their DNS – specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 10:10:29](https://news.ycombinator.com/item?id=45002958) - [Writing with LLM is not a shame](https://reflexions.florianernotte.be/post/ai-transparency/)
 * [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
+* [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [When a Bug Saved the Company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
 * [2025-08-24, 09:35:35](https://news.ycombinator.com/item?id=45002806) - [Declaration of famine in Gaza lays bare Israel's disregard for humanitarian duty](https://www.theguardian.com/world/2025/aug/24/gaza-famine-declaration-israel-humanitarian-duty-analysis)
 * [2025-08-24, 09:29:02](https://news.ycombinator.com/item?id=45002776) - [SmallJS: Smalltalk-80 that compiles to JavaScript](https://small-js.org/Home/Home.html)
 * [2025-08-24, 09:26:31](https://news.ycombinator.com/item?id=45002760) - [MetaScope Build 10: Revolutionary File Processing and External Drive Support](https://zalodesignstudio.com/portfolio/metascope/releases/metascope-v1-0-2-build-10/)
