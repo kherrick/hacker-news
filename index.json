@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-26, 20:06:29",
+      "https://news.ycombinator.com/item?id=45031673"
+    ],
+    [
+      "GNU Artanis – A fast web application framework for Scheme",
+      "https://artanis.dev/index.html"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 19:52:36",
       "https://news.ycombinator.com/item?id=45031496"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2025-08-26, 19:07:48",
-      "https://news.ycombinator.com/item?id=45030836"
-    ],
-    [
-      "Doge uploaded live copy of Social Security database to 'vulnerable' cloud server",
-      "https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 19:01:56",
       "https://news.ycombinator.com/item?id=45030760"
     ],
     [
       "Claude for Chrome",
       "https://www.anthropic.com/news/claude-for-chrome"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 18:57:22",
+      "https://news.ycombinator.com/item?id=45030714"
+    ],
+    [
+      "\"Special register groups\" invaded computer dictionaries for decades (2019)",
+      "https://www.righto.com/2019/10/how-special-register-groups-invaded.html"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45029868"
     ],
     [
-      "Titles Matter",
+      "Titles matter",
       "https://joshcollinsworth.com/blog/titles-matter"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45029764"
     ],
     [
-      "Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment",
+      "Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment",
       "https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific"
     ]
   ],
@@ -95,18 +105,8 @@
       "https://news.ycombinator.com/item?id=45028785"
     ],
     [
-      "Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act",
+      "Proposal to Ban Ghost Jobs",
       "https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 15:40:49",
-      "https://news.ycombinator.com/item?id=45028078"
-    ],
-    [
-      "Windows 7 x64 Extended Support Page",
-      "https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-08-26, 15:12:30",
+      "https://news.ycombinator.com/item?id=45027725"
+    ],
+    [
+      "Framework Laptop 16",
+      "https://frame.work/ro/en/laptop16?tab=whats-new"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 15:05:02",
       "https://news.ycombinator.com/item?id=45027597"
     ],
@@ -131,21 +141,11 @@
   ],
   [
     [
-      "2025-08-26, 14:10:42",
-      "https://news.ycombinator.com/item?id=45026833"
-    ],
-    [
-      "Meta is spending $10B in rural Louisiana to build its largest data center",
-      "https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 14:08:51",
       "https://news.ycombinator.com/item?id=45026810"
     ],
     [
-      "DSLRoot, Proxies, and the Threat of 'Legal Botnets'",
+      "DSLRoot, proxies, and the threat of 'legal botnets'",
       "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/"
     ]
   ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-08-26, 12:27:55",
-      "https://news.ycombinator.com/item?id=45025600"
-    ],
-    [
-      "The Relativity of Wrong (1988)",
-      "https://hermiene.net/essays-trans/relativity_of_wrong.html"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 12:00:52",
       "https://news.ycombinator.com/item?id=45025331"
     ],
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2025-08-25, 18:18:18",
-      "https://news.ycombinator.com/item?id=45017028"
-    ],
-    [
-      "Google will allow only apps from verified developers to be installed on Android",
-      "https://9to5google.com/2025/08/25/android-apps-developer-verification/"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 13:17:40",
       "https://news.ycombinator.com/item?id=45013535"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2025-08-25, 12:39:46",
+      "https://news.ycombinator.com/item?id=45013199"
+    ],
+    [
+      "Connecting M.2 drives to various things (and not doing so)",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/M2ToVariousThings"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 12:35:41",
       "https://news.ycombinator.com/item?id=45013170"
     ],
     [
-      "All the Polygons",
+      "All the world’s polygons",
       "https://www.sum.si/journal-articles/all-the-worlds-polygons"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 11:42:14",
+      "https://news.ycombinator.com/item?id=45012776"
+    ],
+    [
+      "Show HN: Diggit.dev – Git history for architecture archaeologists",
+      "https://diggit.dev"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-24, 09:55:56",
-      "https://news.ycombinator.com/item?id=45002888"
+      "2025-08-24, 09:12:14",
+      "https://news.ycombinator.com/item?id=45002688"
     ],
     [
-      "A bug saved the company",
-      "https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/"
+      "Neuralink 'Participant 1' says his life has changed",
+      "https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/"
     ]
   ]
 ]
