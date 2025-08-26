@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-26, 14:35:35",
+      "https://news.ycombinator.com/item?id=45027136"
+    ],
+    [
+      "China's Share in Global Display Capacity to Reach 75% in 2028",
+      "https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 14:08:51",
       "https://news.ycombinator.com/item?id=45026810"
     ],
@@ -36,7 +46,7 @@
     ],
     [
       "Gemini 2.5 Flash Image",
-      "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"
+      "https://deepmind.google/models/gemini/image/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Explanation of the Linux-kernel memory consistency model (2017)",
       "https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 09:58:13",
-      "https://news.ycombinator.com/item?id=45002896"
-    ],
-    [
-      "The Annotated Transformer (2022)",
-      "https://nlp.seas.harvard.edu/annotated-transformer/"
     ]
   ],
   [
