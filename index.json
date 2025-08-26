@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-08-26, 12:06:54",
-      "https://news.ycombinator.com/item?id=45025406"
+      "2025-08-26, 12:50:06",
+      "https://news.ycombinator.com/item?id=45025835"
     ],
     [
-      "In the Matter of Lisa Cook",
-      "https://paulkrugman.substack.com/p/in-the-matter-of-lisa-cook"
+      "SSL certificate requirements are becoming obnoxious",
+      "https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 12:27:55",
+      "https://news.ycombinator.com/item?id=45025600"
+    ],
+    [
+      "The Relativity of Wrong (1988)",
+      "https://hermiene.net/essays-trans/relativity_of_wrong.html"
     ]
   ],
   [
@@ -17,6 +27,26 @@
     [
       "SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)",
       "https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 10:56:23",
+      "https://news.ycombinator.com/item?id=45024847"
+    ],
+    [
+      "The TTY Demystified (2008)",
+      "https://www.linusakesson.net/programming/tty/"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 10:47:46",
+      "https://news.ycombinator.com/item?id=45024786"
+    ],
+    [
+      "US Intel",
+      "https://stratechery.com/2025/u-s-intel/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step",
       "https://markdown-ui.com/"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 07:00:07",
-      "https://news.ycombinator.com/item?id=45023176"
-    ],
-    [
-      "Do I not like Ruby anymore? (2024)",
-      "https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-08-25, 15:56:26",
-      "https://news.ycombinator.com/item?id=45015230"
-    ],
-    [
-      "Launch HN: April (YC S25) – Voice AI to manage your email and calendar",
-      "https://news.ycombinator.com/item?id=45015230"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 14:17:38",
       "https://news.ycombinator.com/item?id=45014131"
     ],
@@ -215,18 +225,18 @@
       "https://news.ycombinator.com/item?id=45012035"
     ],
     [
-      "The Physics of Parabolic Microphones: Frequency Dependence of Gain",
+      "The physics of parabolic microphones: Frequency dependence of gain (2023)",
       "https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/"
     ]
   ],
   [
     [
-      "2025-08-25, 09:02:12",
-      "https://news.ycombinator.com/item?id=45011793"
+      "2025-08-25, 06:41:42",
+      "https://news.ycombinator.com/item?id=45010951"
     ],
     [
-      "Paying attention to feature distribution alignment (pun intended)",
-      "https://alexshtf.github.io/2025/08/19/Orthogonality.html"
+      "Ask HN: How can I recover and run my old mobile game from the 2010s?",
+      "https://news.ycombinator.com/item?id=45010951"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45002905"
     ],
     [
-      "Explanation of the Linux-Kernel Memory Consistency Model",
+      "Explanation of the Linux-kernel memory consistency model (2017)",
       "https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Neural Nets vs. Cellular Automata",
       "https://www.nets-vs-automata.net/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 06:13:33",
-      "https://news.ycombinator.com/item?id=45001815"
-    ],
-    [
-      "Turning a Decommissioned iPhone into a UniFi Protect Camera",
-      "https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera"
     ]
   ]
 ]
