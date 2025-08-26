@@ -35,6 +35,7 @@
 * [2025-08-25, 17:16:08](https://news.ycombinator.com/item?id=45016208) - [The Extraordinary Rise in the Wealth of Older American Households](https://www.nber.org/papers/w34131)
 * [2025-08-25, 16:47:11](https://news.ycombinator.com/item?id=45015838) - [Show HN: Stagewise – frontend coding agent for real codebases](https://stagewise.io/)
 * [2025-08-25, 16:45:19](https://news.ycombinator.com/item?id=45015814) - [The MiniPC Revolution](https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/)
+* [2025-08-25, 16:39:42](https://news.ycombinator.com/item?id=45015758) - [Show HN: SecretMemoryLocker – File Encryption Without Static Passwords](https://github.com/SecretML/SecretMemoryLocker)
 * [2025-08-25, 16:19:36](https://news.ycombinator.com/item?id=45015532) - [Nvidia's new 'robot brain' goes on sale for $3,499](https://www.cnbc.com/2025/08/25/nvidias-thor-t5000-robot-brain-chip.html)
 * [2025-08-25, 16:15:14](https://news.ycombinator.com/item?id=45015465) - [EU cave in on vehicle trade rules will cost European lives](https://www.transportenvironment.org/articles/eu-cave-in-on-vehicle-trade-rules-will-cost-european-lives-as-us-pick-up-trucks-flood-into-europe)
 * [2025-08-25, 16:06:24](https://news.ycombinator.com/item?id=45015354) - [FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)

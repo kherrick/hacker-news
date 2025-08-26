@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
 * [2025-08-26, 17:22:33](https://news.ycombinator.com/item?id=45029579) - [We regret but have to temporary suspend the shipments to USA](https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/)
 * [2025-08-26, 16:57:44](https://news.ycombinator.com/item?id=45029241) - [Undisclosed financial conflicts of interest in DSM-5](https://www.bmj.com/content/384/bmj-2023-076902)
