@@ -71,22 +71,22 @@
   ],
   [
     [
+      "2025-08-25, 20:40:39",
+      "https://news.ycombinator.com/item?id=45018708"
+    ],
+    [
+      "Llama Fund: Crowdfund AI Models",
+      "https://llama.fund"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 20:20:35",
       "https://news.ycombinator.com/item?id=45018509"
     ],
     [
       "Reverse Engineering All the Raspberry Pis",
       "https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 20:19:21",
-      "https://news.ycombinator.com/item?id=45018494"
-    ],
-    [
-      "Study finds gaps in evidence for air-cleaning technologies to prevent infections",
-      "https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-08-25, 07:03:56",
-      "https://news.ycombinator.com/item?id=45011096"
-    ],
-    [
-      "Scamlexity: When agentic AI browsers get scammed",
-      "https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 06:32:04",
       "https://news.ycombinator.com/item?id=45010876"
     ],
@@ -297,6 +287,16 @@
     [
       "Mob Programming (2018)",
       "https://mobprogramming.org/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 05:10:10",
+      "https://news.ycombinator.com/item?id=45001556"
+    ],
+    [
+      "How to make things slower so they go faster",
+      "https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/"
     ]
   ]
 ]
