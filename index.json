@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-26, 03:28:36",
+      "https://news.ycombinator.com/item?id=45021955"
+    ],
+    [
+      "US retail giants raise prices due to tariffs",
+      "https://english.elpais.com/economy-and-business/2025-08-25/us-retail-giants-raise-prices-and-seek-new-import-sources-due-to-tariffs.html"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 01:37:28",
       "https://news.ycombinator.com/item?id=45021300"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2025-08-25, 20:40:39",
-      "https://news.ycombinator.com/item?id=45018708"
-    ],
-    [
-      "Llama Fund: Crowdfund AI Models",
-      "https://llama.fund"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 20:20:35",
       "https://news.ycombinator.com/item?id=45018509"
     ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45017028"
     ],
     [
-      "Google to require developer verification to install and sideload Android apps",
+      "Google will allow only apps from verified developers to be installed on Android",
       "https://9to5google.com/2025/08/25/android-apps-developer-verification/"
     ]
   ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-08-24, 06:39:01",
+      "https://news.ycombinator.com/item?id=45001912"
+    ],
+    [
+      "Neural Nets vs. Cellular Automata",
+      "https://www.nets-vs-automata.net/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 06:13:33",
       "https://news.ycombinator.com/item?id=45001815"
     ],
@@ -287,16 +297,6 @@
     [
       "Mob Programming (2018)",
       "https://mobprogramming.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 05:10:10",
-      "https://news.ycombinator.com/item?id=45001556"
-    ],
-    [
-      "How to make things slower so they go faster",
-      "https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/"
     ]
   ]
 ]
