@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 11:33:19](https://news.ycombinator.com/item?id=45025099) - [US threatens extra tariffs, export bans, for nations that regulate Big Tech](https://www.theregister.com/2025/08/26/trump_tech_tax_threat/)
 * [2025-08-26, 10:23:18](https://news.ycombinator.com/item?id=45024595) - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 * [2025-08-26, 09:36:15](https://news.ycombinator.com/item?id=45024271) - [I Bought an N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/)
