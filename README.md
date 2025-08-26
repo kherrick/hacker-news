@@ -17,7 +17,6 @@
 * [2025-08-26, 14:08:51](https://news.ycombinator.com/item?id=45026810) - [DSLRoot, proxies, and the threat of 'legal botnets'](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/)
 * [2025-08-26, 14:07:42](https://news.ycombinator.com/item?id=45026792) - [One universal antiviral to rule them all?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
 * [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
-* [2025-08-26, 12:36:20](https://news.ycombinator.com/item?id=45025678) - [Show HN: Sideko – Hybrid deterministic/LLM generator for API SDKs and docs](https://github.com/Sideko-Inc/sideko/tree/main/releases/determinism-plus-llms)
 * [2025-08-26, 10:47:46](https://news.ycombinator.com/item?id=45024786) - [US Intel](https://stratechery.com/2025/u-s-intel/)
 * [2025-08-26, 08:15:49](https://news.ycombinator.com/item?id=45023730) - [Rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [2025-08-25, 22:40:20](https://news.ycombinator.com/item?id=45020019) - [The Leverage Paradox in AI](https://www.indiehackers.com/post/lifestyle/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt)
@@ -30,6 +29,7 @@
 * [2025-08-24, 17:54:47](https://news.ycombinator.com/item?id=45006229) - [Chinese astronauts make rocket fuel and oxygen in space](https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis)
 * [2025-08-24, 09:12:14](https://news.ycombinator.com/item?id=45002688) - [Neuralink 'Participant 1' says his life has changed](https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/)
 * [2025-08-23, 15:24:02](https://news.ycombinator.com/item?id=44996641) - [Cascata delle Marmore](https://en.wikipedia.org/wiki/Cascata_delle_Marmore)
+* [2025-08-23, 09:07:38](https://news.ycombinator.com/item?id=44994535) - [SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy)
 
 ## [Archives](archives/index.md)
 

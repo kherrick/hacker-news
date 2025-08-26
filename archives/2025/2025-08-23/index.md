@@ -45,6 +45,7 @@
 * [2025-08-23, 10:15:14](https://news.ycombinator.com/item?id=44994835) - [Marital happiness = lovemaking rate – argument rate [pdf]](https://www.cmu.edu/dietrich/sds/docs/dawes/the-robust-beauty-of-improper-linear-models-in-decision-making.pdf)
 * [2025-08-23, 09:20:26](https://news.ycombinator.com/item?id=44994590) - [Developer's Block](https://underlap.org/developers-block/)
 * [2025-08-23, 09:18:46](https://news.ycombinator.com/item?id=44994587) - [Building a Computer in the 90s (2019)](https://dfarq.homeip.net/building-a-computer-in-the-90s/)
+* [2025-08-23, 09:07:38](https://news.ycombinator.com/item?id=44994535) - [SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy)
 * [2025-08-23, 09:02:49](https://news.ycombinator.com/item?id=44994515) - [Asking three LLMs a simple question](https://sethops1.net/post/asking-three-llms-a-simple-question/)
 * [2025-08-23, 08:04:29](https://news.ycombinator.com/item?id=44994217) - [California teens are ditching office jobs – and making $100K before they turn 21](https://www.sfgate.com/bayarea/article/young-adults-changing-career-paths-ai-20824566.php)
 * [2025-08-23, 08:01:31](https://news.ycombinator.com/item?id=44994204) - [It's okay to solve a problem twice](https://til.andrew-quinn.me/posts/it-s-okay-to-solve-a-problem-twice/)
