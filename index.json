@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-08-26, 13:04:41",
-      "https://news.ycombinator.com/item?id=45025978"
-    ],
-    [
-      "AI Is Wrecking Young Americans' Job Prospects",
-      "https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 12:50:06",
       "https://news.ycombinator.com/item?id=45025835"
     ],
@@ -277,6 +267,16 @@
     [
       "Explanation of the Linux-kernel memory consistency model (2017)",
       "https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 09:58:13",
+      "https://news.ycombinator.com/item?id=45002896"
+    ],
+    [
+      "The Annotated Transformer (2022)",
+      "https://nlp.seas.harvard.edu/annotated-transformer/"
     ]
   ],
   [
