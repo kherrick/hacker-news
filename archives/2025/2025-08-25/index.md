@@ -6,6 +6,7 @@
 
 * [2025-08-25, 23:26:42](https://news.ycombinator.com/item?id=45020457) - [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
 * [2025-08-25, 22:31:50](https://news.ycombinator.com/item?id=45019950) - [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/)
+* [2025-08-25, 22:11:26](https://news.ycombinator.com/item?id=45019724) - [AI Is Slowing Down Tracker](https://aislowdown.replit.app/)
 * [2025-08-25, 21:52:36](https://news.ycombinator.com/item?id=45019513) - [How the Richest People in America Avoid Paying Taxes](https://www.theatlantic.com/economy/archive/2025/08/billionaire-tax-study/683987/)
 * [2025-08-25, 20:59:22](https://news.ycombinator.com/item?id=45018933) - [Hairy Ball Theorem [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
 * [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Social media's next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
