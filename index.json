@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-08-26, 04:49:36",
+      "https://news.ycombinator.com/item?id=45022383"
+    ],
+    [
+      "macOS dotfiles should not go in –/Library/Application Support",
+      "https://becca.ooo/blog/macos-dotfiles/"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 04:48:58",
+      "https://news.ycombinator.com/item?id=45022380"
+    ],
+    [
+      "Multi-Path TCP: revolutionizing connectivity, one path at a time",
+      "https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 03:28:36",
       "https://news.ycombinator.com/item?id=45021955"
     ],
     [
       "US retail giants raise prices due to tariffs",
       "https://english.elpais.com/economy-and-business/2025-08-25/us-retail-giants-raise-prices-and-seek-new-import-sources-due-to-tariffs.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 01:37:28",
-      "https://news.ycombinator.com/item?id=45021300"
-    ],
-    [
-      "Apple vs. Facebook Is Kayfabe",
-      "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi",
       "https://github.com/MaliosDark/wifi-3d-fusion"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 22:31:50",
-      "https://news.ycombinator.com/item?id=45019950"
-    ],
-    [
-      "Exploring the tragedy of the Counter-Strike 2 server browser",
-      "https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-08-24, 15:34:26",
-      "https://news.ycombinator.com/item?id=45005016"
-    ],
-    [
-      "Playing every game of Wordle simultaneously",
-      "https://chriskw.xyz/2025/08/24/Hyper-Wordle/"
-    ]
-  ],
-  [
-    [
       "2025-08-24, 09:58:13",
       "https://news.ycombinator.com/item?id=45002896"
     ],
     [
       "The Annotated Transformer (2022)",
       "https://nlp.seas.harvard.edu/annotated-transformer/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 09:55:56",
+      "https://news.ycombinator.com/item?id=45002888"
+    ],
+    [
+      "When a Bug Saved the Company",
+      "https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/"
     ]
   ],
   [
