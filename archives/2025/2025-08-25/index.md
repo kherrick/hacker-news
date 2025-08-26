@@ -43,6 +43,7 @@
 * [2025-08-25, 13:44:58](https://news.ycombinator.com/item?id=45013774) - [Japan's Creepiest Station](https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station)
 * [2025-08-25, 13:40:11](https://news.ycombinator.com/item?id=45013737) - [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
 * [2025-08-25, 13:37:22](https://news.ycombinator.com/item?id=45013714) - [The Unlikely Revival of Nuclear Batteries](https://spectrum.ieee.org/nuclear-battery-revival)
+* [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
 * [2025-08-25, 12:33:13](https://news.ycombinator.com/item?id=45013154) - [What Is a Color Space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
 * [2025-08-25, 12:29:48](https://news.ycombinator.com/item?id=45013131) - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 * [2025-08-25, 12:23:37](https://news.ycombinator.com/item?id=45013076) - [Walmart Fires VP in Tech for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)
