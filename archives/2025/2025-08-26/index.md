@@ -6,6 +6,7 @@
 
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
 * [2025-08-26, 17:22:33](https://news.ycombinator.com/item?id=45029579) - [We regret but have to temporary suspend the shipments to USA](https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/)
+* [2025-08-26, 16:57:44](https://news.ycombinator.com/item?id=45029241) - [Undisclosed financial conflicts of interest in DSM-5](https://www.bmj.com/content/384/bmj-2023-076902)
 * [2025-08-26, 16:55:44](https://news.ycombinator.com/item?id=45029203) - [Google Release Nano Banana](https://blog.google/intl/en-mena/product-updates/explore-get-answers/nano-banana-image-editing-in-gemini-just-got-a-major-upgrade/)
 * [2025-08-26, 16:27:51](https://news.ycombinator.com/item?id=45028785) - [Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act](https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html)
 * [2025-08-26, 16:05:54](https://news.ycombinator.com/item?id=45028439) - [No evidence ageing/declining populations compromise socio-economic performance](https://arxiv.org/abs/2508.16872)

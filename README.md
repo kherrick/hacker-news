@@ -2,10 +2,9 @@
 
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
 * [2025-08-26, 17:22:33](https://news.ycombinator.com/item?id=45029579) - [We regret but have to temporary suspend the shipments to USA](https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/)
-* [2025-08-26, 16:55:44](https://news.ycombinator.com/item?id=45029203) - [Google Release Nano Banana](https://blog.google/intl/en-mena/product-updates/explore-get-answers/nano-banana-image-editing-in-gemini-just-got-a-major-upgrade/)
+* [2025-08-26, 16:57:44](https://news.ycombinator.com/item?id=45029241) - [Undisclosed financial conflicts of interest in DSM-5](https://www.bmj.com/content/384/bmj-2023-076902)
 * [2025-08-26, 16:27:51](https://news.ycombinator.com/item?id=45028785) - [Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act](https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html)
 * [2025-08-26, 16:05:54](https://news.ycombinator.com/item?id=45028439) - [No evidence ageing/declining populations compromise socio-economic performance](https://arxiv.org/abs/2508.16872)
-* [2025-08-26, 15:46:51](https://news.ycombinator.com/item?id=45028163) - [Apple´s Tim Cook battle results](https://hugston.com/articles/Apple_2016_Stand_Was_Never_About_One_Case)
 * [2025-08-26, 15:40:49](https://news.ycombinator.com/item?id=45028078) - [Windows 7 x64 Extended Support Page](https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram)
 * [2025-08-26, 15:34:55](https://news.ycombinator.com/item?id=45028002) - [Show HN: A zoomable, searchable archive of BYTE magazine](https://byte.tsundoku.io)
 * [2025-08-26, 14:10:42](https://news.ycombinator.com/item?id=45026833) - [Meta is spending $10B in rural Louisiana to build its largest data center](https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/)
@@ -19,9 +18,11 @@
 * [2025-08-26, 10:47:46](https://news.ycombinator.com/item?id=45024786) - [US Intel](https://stratechery.com/2025/u-s-intel/)
 * [2025-08-26, 10:23:18](https://news.ycombinator.com/item?id=45024595) - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
+* [2025-08-26, 06:42:58](https://news.ycombinator.com/item?id=45023071) - [Interactive map of Paul's first century travels in Roman world](https://www.intofarlands.com/map-of-pauls-journeys)
 * [2025-08-25, 22:40:20](https://news.ycombinator.com/item?id=45020019) - [The Leverage Paradox in AI](https://www.indiehackers.com/post/lifestyle/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt)
 * [2025-08-25, 22:05:34](https://news.ycombinator.com/item?id=45019671) - [iOS 18.6.1 0-click RCE POC](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
 * [2025-08-25, 19:44:01](https://news.ycombinator.com/item?id=45018113) - [Show HN: Gonzo – A Go-based TUI for log analysis (OpenTelemetry/OTLP support)](https://github.com/control-theory/gonzo)
+* [2025-08-25, 19:35:35](https://news.ycombinator.com/item?id=45018008) - [Anonymous structavaganza in Zig](https://lirk.top/blog/structs)
 * [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google will allow only apps from verified developers to be installed on Android](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
 * [2025-08-25, 11:42:14](https://news.ycombinator.com/item?id=45012776) - [Show HN: Diggit.dev – Git history for architecture archaeologists](https://diggit.dev)
@@ -29,7 +30,6 @@
 * [2025-08-25, 02:53:35](https://news.ycombinator.com/item?id=45009760) - [Japan has opened its first osmotic power plant](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
 * [2025-08-24, 10:00:55](https://news.ycombinator.com/item?id=45002911) - [OOMProf: Profiling on the Brink](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [A bug saved the company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
-* [2025-08-24, 09:12:14](https://news.ycombinator.com/item?id=45002688) - [Neuralink 'Participant 1' says his life has changed](https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/)
 
 ## [Archives](archives/index.md)
 
