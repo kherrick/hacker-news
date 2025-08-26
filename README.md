@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-26, 15:25:36](https://news.ycombinator.com/item?id=45027904) - [Silicon Valley is pouring millions into pro-AI PACs to sway midterms](https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/)
 * [2025-08-26, 15:12:30](https://news.ycombinator.com/item?id=45027725) - [Framework Laptop 16. Upgraded!](https://frame.work/ro/en/laptop16?tab=whats-new)
 * [2025-08-26, 14:53:38](https://news.ycombinator.com/item?id=45027427) - [Blast from the past: Facit A2400 terminal](https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/)
 * [2025-08-26, 14:35:35](https://news.ycombinator.com/item?id=45027136) - [China's Share in Global Display Capacity to Reach 75% in 2028](https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028)
@@ -17,7 +18,6 @@
 * [2025-08-26, 10:23:18](https://news.ycombinator.com/item?id=45024595) - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
 * [2025-08-26, 10:13:24](https://news.ycombinator.com/item?id=45024532) - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
 * [2025-08-26, 06:24:30](https://news.ycombinator.com/item?id=45022931) - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
-* [2025-08-26, 04:49:36](https://news.ycombinator.com/item?id=45022383) - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-26, 00:37:42](https://news.ycombinator.com/item?id=45020903) - [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
 * [2025-08-25, 21:50:41](https://news.ycombinator.com/item?id=45019483) - [Ask HN: Why hasn't x86 caught up with Apple M series?](https://news.ycombinator.com/item?id=45019483)
 * [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google will allow only apps from verified developers to be installed on Android](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
