@@ -29,6 +29,7 @@
 * [2025-08-23, 16:22:09](https://news.ycombinator.com/item?id=44997011) - [Europe's crusade against air conditioning is insane](https://www.noahpinion.blog/p/europes-crusade-against-air-conditioning)
 * [2025-08-23, 16:09:21](https://news.ycombinator.com/item?id=44996938) - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-23, 16:03:13](https://news.ycombinator.com/item?id=44996892) - [Building A16Z's Personal AI Workstation](https://a16z.com/building-a16zs-personal-ai-workstation-with-four-nvidia-rtx-6000-pro-blackwell-max-q-gpus/)
+* [2025-08-23, 15:24:02](https://news.ycombinator.com/item?id=44996641) - [Cascata Delle Marmore](https://en.wikipedia.org/wiki/Cascata_delle_Marmore)
 * [2025-08-23, 15:21:51](https://news.ycombinator.com/item?id=44996623) - [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
 * [2025-08-23, 15:15:38](https://news.ycombinator.com/item?id=44996583) - [Using game theory to explain how institutions arise to manage limited resources](https://phys.org/news/2025-08-game-theory-naturally-limited-resources.html)
 * [2025-08-23, 15:14:39](https://news.ycombinator.com/item?id=44996571) - [Robots can now learn to use tools just by watching us](https://techxplore.com/news/2025-08-robots-tools.html)
