@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
 * [2025-08-26, 19:01:56](https://news.ycombinator.com/item?id=45030760) - [Claude for Chrome](https://claude.ai/chrome)
+* [2025-08-26, 18:57:22](https://news.ycombinator.com/item?id=45030714) - [\"special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
 * [2025-08-26, 18:53:03](https://news.ycombinator.com/item?id=45030664) - [IBM and AMD Join Forces to Build the Future of Computing](https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing)
 * [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
 * [2025-08-26, 17:45:21](https://news.ycombinator.com/item?id=45029868) - [Titles Matter](https://joshcollinsworth.com/blog/titles-matter)
@@ -32,6 +33,7 @@
 * [2025-08-26, 13:37:07](https://news.ycombinator.com/item?id=45026372) - [DOGE Put Critical Social Security Data at Risk, Whistle-Blower Says](https://www.nytimes.com/2025/08/26/us/politics/doge-social-security-data.html)
 * [2025-08-26, 13:04:41](https://news.ycombinator.com/item?id=45025978) - [AI Is Wrecking Young Americans' Job Prospects](https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84)
 * [2025-08-26, 12:50:06](https://news.ycombinator.com/item?id=45025835) - [SSL certificate requirements are becoming obnoxious](https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/)
+* [2025-08-26, 12:36:20](https://news.ycombinator.com/item?id=45025678) - [Show HN: Sideko – Hybrid deterministic/LLM generator for API SDKs and docs](https://github.com/Sideko-Inc/sideko/tree/main/releases/determinism-plus-llms)
 * [2025-08-26, 12:27:55](https://news.ycombinator.com/item?id=45025600) - [The Relativity of Wrong (1988)](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2025-08-26, 12:06:54](https://news.ycombinator.com/item?id=45025406) - [In the Matter of Lisa Cook](https://paulkrugman.substack.com/p/in-the-matter-of-lisa-cook)
 * [2025-08-26, 12:00:52](https://news.ycombinator.com/item?id=45025331) - [SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7)
