@@ -7,8 +7,8 @@
 * [2025-08-25, 23:26:42](https://news.ycombinator.com/item?id=45020457) - [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
 * [2025-08-25, 22:31:50](https://news.ycombinator.com/item?id=45019950) - [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/)
 * [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Blacksky grew to millions of users without spending a dollar](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
+* [2025-08-25, 20:40:39](https://news.ycombinator.com/item?id=45018708) - [Llama Fund: Crowdfund AI Models](https://llama.fund)
 * [2025-08-25, 20:20:35](https://news.ycombinator.com/item?id=45018509) - [Reverse Engineering All the Raspberry Pis](https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis)
-* [2025-08-25, 20:19:21](https://news.ycombinator.com/item?id=45018494) - [Study finds gaps in evidence for air-cleaning technologies to prevent infections](https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections)
 * [2025-08-25, 19:41:51](https://news.ycombinator.com/item?id=45018081) - [Fenster: Most minimal cross-platform GUI library](https://github.com/zserge/fenster)
 * [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 18:02:51](https://news.ycombinator.com/item?id=45016794) - [How RubyGems.org protects OSS infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html)
@@ -19,7 +19,6 @@
 * [2025-08-25, 14:17:38](https://news.ycombinator.com/item?id=45014131) - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
 * [2025-08-25, 13:40:11](https://news.ycombinator.com/item?id=45013737) - [A small change to improve browsers for keyboard navigation](https://b.43z.one/2025-07-22/)
 * [2025-08-25, 12:33:13](https://news.ycombinator.com/item?id=45013154) - [What is a color space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
-* [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [Scamlexity: When agentic AI browsers get scammed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 05:22:15](https://news.ycombinator.com/item?id=45010484) - [Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
 * [2025-08-25, 05:17:44](https://news.ycombinator.com/item?id=45010461) - [Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
@@ -30,6 +29,7 @@
 * [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 * [2025-08-24, 06:13:33](https://news.ycombinator.com/item?id=45001815) - [Turning a Decommissioned iPhone into a UniFi Protect Camera](https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera)
 * [2025-08-24, 05:45:13](https://news.ycombinator.com/item?id=45001710) - [Mob Programming (2018)](https://mobprogramming.org/)
+* [2025-08-24, 05:10:10](https://news.ycombinator.com/item?id=45001556) - [How to make things slower so they go faster](https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/)
 
 ## [Archives](archives/index.md)
 
