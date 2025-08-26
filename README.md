@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
+* [2025-08-26, 17:45:21](https://news.ycombinator.com/item?id=45029868) - [Titles Matter](https://joshcollinsworth.com/blog/titles-matter)
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
 * [2025-08-26, 17:22:33](https://news.ycombinator.com/item?id=45029579) - [We regret but have to temporary suspend the shipments to USA](https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/)
 * [2025-08-26, 16:57:44](https://news.ycombinator.com/item?id=45029241) - [Undisclosed financial conflicts of interest in DSM-5](https://www.bmj.com/content/384/bmj-2023-076902)
 * [2025-08-26, 16:27:51](https://news.ycombinator.com/item?id=45028785) - [Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act](https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html)
-* [2025-08-26, 16:05:54](https://news.ycombinator.com/item?id=45028439) - [No evidence ageing/declining populations compromise socio-economic performance](https://arxiv.org/abs/2508.16872)
 * [2025-08-26, 15:40:49](https://news.ycombinator.com/item?id=45028078) - [Windows 7 x64 Extended Support Page](https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram)
 * [2025-08-26, 15:34:55](https://news.ycombinator.com/item?id=45028002) - [Show HN: A zoomable, searchable archive of BYTE magazine](https://byte.tsundoku.io)
 * [2025-08-26, 14:10:42](https://news.ycombinator.com/item?id=45026833) - [Meta is spending $10B in rural Louisiana to build its largest data center](https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/)
