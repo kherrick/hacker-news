@@ -61,6 +61,7 @@
 * [2025-08-24, 10:00:04](https://news.ycombinator.com/item?id=45002905) - [Explanation of the Linux-Kernel Memory Consistency Model](https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt)
 * [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [2025-08-24, 09:55:56](https://news.ycombinator.com/item?id=45002888) - [When a Bug Saved the Company](https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/)
+* [2025-08-24, 09:49:54](https://news.ycombinator.com/item?id=45002866) - [Adventures in State Space [video]](https://www.youtube.com/watch?v=YGLNyHd2w10)
 * [2025-08-24, 09:35:35](https://news.ycombinator.com/item?id=45002806) - [Declaration of famine in Gaza lays bare Israel's disregard for humanitarian duty](https://www.theguardian.com/world/2025/aug/24/gaza-famine-declaration-israel-humanitarian-duty-analysis)
 * [2025-08-24, 09:29:02](https://news.ycombinator.com/item?id=45002776) - [SmallJS: Smalltalk-80 that compiles to JavaScript](https://small-js.org/Home/Home.html)
 * [2025-08-24, 09:26:31](https://news.ycombinator.com/item?id=45002760) - [MetaScope Build 10: Revolutionary File Processing and External Drive Support](https://zalodesignstudio.com/portfolio/metascope/releases/metascope-v1-0-2-build-10/)
