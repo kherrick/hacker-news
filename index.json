@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-27, 08:41:01",
-      "https://news.ycombinator.com/item?id=45036957"
-    ],
-    [
-      "Denmark summons top US diplomat over alleged Greenland influence operation",
-      "https://www.bbc.com/news/articles/c0j9l08902eo"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 08:38:58",
       "https://news.ycombinator.com/item?id=45036939"
     ],
@@ -237,6 +227,16 @@
     [
       "Reverse Engineered Raspberry Pi Compute Module 5",
       "https://github.com/schlae/cm5-reveng"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 18:55:01",
+      "https://news.ycombinator.com/item?id=45006686"
+    ],
+    [
+      "Show HN: FilterQL – A tiny query language for filtering structured data",
+      "https://github.com/adamhl8/filterql"
     ]
   ],
   [
