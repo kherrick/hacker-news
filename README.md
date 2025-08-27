@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-27, 14:17:22](https://news.ycombinator.com/item?id=45040076) - [Why Aren't People Going to Local and Regional In-Person Events Anymore?](https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/)
+* [2025-08-27, 13:50:59](https://news.ycombinator.com/item?id=45039661) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 * [2025-08-27, 13:19:11](https://news.ycombinator.com/item?id=45039301) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
 * [2025-08-27, 13:01:57](https://news.ycombinator.com/item?id=45039075) - [SpaceX's giant Starship Mars rocket nails critical 10th test flight](https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video)
 * [2025-08-27, 12:18:47](https://news.ycombinator.com/item?id=45038653) - [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
@@ -14,7 +16,6 @@
 * [2025-08-27, 08:38:58](https://news.ycombinator.com/item?id=45036939) - [WebLibre: The Privacy-Focused Browser](https://docs.weblibre.eu/)
 * [2025-08-27, 08:04:02](https://news.ycombinator.com/item?id=45036754) - [Malleable Software](https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/)
 * [2025-08-27, 06:57:56](https://news.ycombinator.com/item?id=45036294) - [The Therac-25 Incident (2021)](https://thedailywtf.com/articles/the-therac-25-incident)
-* [2025-08-27, 05:11:18](https://news.ycombinator.com/item?id=45035685) - [The man with a Home Computer (1967) [video]](https://www.youtube.com/watch?v=w6Ka42eyudA)
 * [2025-08-27, 01:44:16](https://news.ycombinator.com/item?id=45034537) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
 * [2025-08-26, 22:25:06](https://news.ycombinator.com/item?id=45033114) - [The “Wow!” signal was likely from extraterrestrial source, and more powerful](https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561)
 * [2025-08-26, 20:06:29](https://news.ycombinator.com/item?id=45031673) - [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
@@ -22,7 +23,6 @@
 * [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
 * [2025-08-26, 08:34:15](https://news.ycombinator.com/item?id=45023857) - [Object-oriented design patterns in C and kernel development](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-26, 08:15:49](https://news.ycombinator.com/item?id=45023730) - [Rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
-* [2025-08-25, 18:04:54](https://news.ycombinator.com/item?id=45016826) - [First absolute superconducting switch developed in a magnetic device](https://phys.org/news/2025-08-absolute-superconducting-magnetic-device.html)
 * [2025-08-24, 19:20:46](https://news.ycombinator.com/item?id=45006882) - [Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox](https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm)
 * [2025-08-24, 18:55:01](https://news.ycombinator.com/item?id=45006686) - [Show HN: FilterQL – A tiny query language for filtering structured data](https://github.com/adamhl8/filterql)
 * [2025-08-24, 17:54:47](https://news.ycombinator.com/item?id=45006229) - [Chinese astronauts make rocket fuel and oxygen in space](https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis)

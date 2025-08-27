@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 14:17:22](https://news.ycombinator.com/item?id=45040076) - [Why Aren't People Going to Local and Regional In-Person Events Anymore?](https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/)
+* [2025-08-27, 13:50:59](https://news.ycombinator.com/item?id=45039661) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 * [2025-08-27, 13:28:45](https://news.ycombinator.com/item?id=45039397) - [Bluesky now platform of choice for science community](https://arstechnica.com/science/2025/08/more-scientists-choose-bluesky-over-twitter/)
 * [2025-08-27, 13:19:11](https://news.ycombinator.com/item?id=45039301) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
 * [2025-08-27, 13:13:23](https://news.ycombinator.com/item?id=45039228) - [A vibe-coding tool for serious developers](https://appjet.ai)
