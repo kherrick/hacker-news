@@ -22,6 +22,7 @@
 * [2025-08-24, 20:09:12](https://news.ycombinator.com/item?id=45007333) - [How many paths of length K are there between A and B? (2021)](https://horace.io/walks)
 * [2025-08-24, 19:23:19](https://news.ycombinator.com/item?id=45006902) - [A Brilliant and Nearby One-Off Fast Radio Burst Localized to 13pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
 * [2025-08-24, 19:10:09](https://news.ycombinator.com/item?id=45006801) - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
+* [2025-08-24, 18:55:01](https://news.ycombinator.com/item?id=45006686) - [Show HN: FilterQL – A tiny query language for filtering structured data](https://github.com/adamhl8/filterql)
 * [2025-08-24, 18:32:43](https://news.ycombinator.com/item?id=45006507) - [How Does a Firewall Work Step by Step](https://kalilinuxtutorials.com/how-firewall-works-step-by-step/)
 * [2025-08-24, 18:26:55](https://news.ycombinator.com/item?id=45006468) - [Walmart Fires VP for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)
 * [2025-08-24, 18:02:55](https://news.ycombinator.com/item?id=45006296) - [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
