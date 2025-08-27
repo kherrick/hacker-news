@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
 * [2025-08-27, 11:02:33](https://news.ycombinator.com/item?id=45037947) - [QEMU 10.1.0](https://wiki.qemu.org/ChangeLog/10.1)
+* [2025-08-27, 10:58:00](https://news.ycombinator.com/item?id=45037925) - [John Roberts and the death of rule of law in America](https://www.theguardian.com/us-news/ng-interactive/2025/aug/21/justice-john-roberts-supreme-court)
 * [2025-08-27, 10:54:41](https://news.ycombinator.com/item?id=45037904) - [Monodraw](https://monodraw.helftone.com/)
 * [2025-08-27, 10:19:14](https://news.ycombinator.com/item?id=45037621) - [Word documents will be saved to the cloud automatically on Windows going forward](https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/)
 * [2025-08-27, 08:41:01](https://news.ycombinator.com/item?id=45036957) - [Denmark summons top US diplomat over alleged Greenland influence operation](https://www.bbc.com/news/articles/c0j9l08902eo)
