@@ -2,7 +2,7 @@
 
 * [2025-08-27, 22:29:00](https://news.ycombinator.com/item?id=45046124) - [Asahi Linux Lead Developer Steps Down](https://linuxiac.com/asahi-linux-lead-developer-steps-down/)
 * [2025-08-27, 21:16:56](https://news.ycombinator.com/item?id=45045398) - [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
-* [2025-08-27, 21:11:27](https://news.ycombinator.com/item?id=45045328) - [Nvidia sales jump 56%](https://www.nytimes.com/2025/08/27/technology/nvidia-earnings-ai-chips.html)
+* [2025-08-27, 21:11:27](https://news.ycombinator.com/item?id=45045328) - [Nvidia results show spending on A.I. infrastructure remains robust](https://www.nytimes.com/2025/08/27/technology/nvidia-earnings-ai-chips.html)
 * [2025-08-27, 21:08:49](https://news.ycombinator.com/item?id=45045307) - [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
 * [2025-08-27, 20:53:51](https://news.ycombinator.com/item?id=45045116) - [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
 * [2025-08-27, 17:28:20](https://news.ycombinator.com/item?id=45042461) - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
