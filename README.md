@@ -22,7 +22,7 @@
 * [2025-08-27, 08:38:58](https://news.ycombinator.com/item?id=45036939) - [WebLibre: The Privacy-Focused Browser](https://docs.weblibre.eu/)
 * [2025-08-27, 08:04:02](https://news.ycombinator.com/item?id=45036754) - [Malleable Software](https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/)
 * [2025-08-27, 06:57:56](https://news.ycombinator.com/item?id=45036294) - [The Therac-25 Incident (2021)](https://thedailywtf.com/articles/the-therac-25-incident)
-* [2025-08-27, 01:44:16](https://news.ycombinator.com/item?id=45034537) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
+* [2025-08-27, 01:38:48](https://news.ycombinator.com/item?id=45034496) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 * [2025-08-26, 19:01:56](https://news.ycombinator.com/item?id=45030760) - [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
 * [2025-08-26, 08:34:15](https://news.ycombinator.com/item?id=45023857) - [Object-oriented design patterns in C and kernel development](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-24, 19:20:46](https://news.ycombinator.com/item?id=45006882) - [Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox](https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm)
