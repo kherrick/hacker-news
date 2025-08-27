@@ -1,22 +1,62 @@
 [
   [
     [
+      "2025-08-27, 15:56:40",
+      "https://news.ycombinator.com/item?id=45041397"
+    ],
+    [
+      "Kiwi.com releases the first commercial Flight Search MCP server",
+      "https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 15:50:54",
+      "https://news.ycombinator.com/item?id=45041315"
+    ],
+    [
+      "VIMMaster",
+      "https://github.com/renzorlive/vimmaster"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 15:48:07",
+      "https://news.ycombinator.com/item?id=45041286"
+    ],
+    [
+      "The unexpected productivity boost of Rust",
+      "https://lubeno.dev/blog/rusts-productivity-curve"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 15:18:29",
+      "https://news.ycombinator.com/item?id=45040905"
+    ],
+    [
+      "We Rebuilt Cloud Life's Infrastructure Delivery with System Initiative",
+      "https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 15:16:18",
+      "https://news.ycombinator.com/item?id=45040875"
+    ],
+    [
+      "Efficient Array Programming",
+      "https://github.com/razetime/efficient-array-programming"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 14:42:14",
       "https://news.ycombinator.com/item?id=45040404"
     ],
     [
       "Show HN: React Web Camera – Fix <input type=file> single-photo limit",
       "https://shivantra.com/react-web-camera/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 14:37:21",
-      "https://news.ycombinator.com/item?id=45040338"
-    ],
-    [
-      "AI Bubble 2027",
-      "https://www.wheresyoured.at/ai-bubble-2027/"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2025-08-26, 22:25:06",
-      "https://news.ycombinator.com/item?id=45033114"
-    ],
-    [
-      "The “Wow!” signal was likely from extraterrestrial source, and more powerful",
-      "https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 19:01:56",
       "https://news.ycombinator.com/item?id=45030760"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2025-08-26, 14:01:46",
-      "https://news.ycombinator.com/item?id=45026719"
-    ],
-    [
-      "Gemini 2.5 Flash Image",
-      "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 08:34:15",
       "https://news.ycombinator.com/item?id=45023857"
     ],
     [
       "Object-oriented design patterns in C and kernel development",
       "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 08:15:49",
-      "https://news.ycombinator.com/item?id=45023730"
-    ],
-    [
-      "Rv, a new kind of Ruby management tool",
-      "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 18:04:54",
-      "https://news.ycombinator.com/item?id=45016826"
-    ],
-    [
-      "First absolute superconducting switch developed in a magnetic device",
-      "https://phys.org/news/2025-08-absolute-superconducting-magnetic-device.html"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-08-24, 17:03:44",
+      "https://news.ycombinator.com/item?id=45005823"
+    ],
+    [
+      "Why 'rocks as big as cars' are flying down the Dolomites",
+      "https://www.bbc.com/future/article/20250819-why-italys-beloved-ancient-monolith-is-falling"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 09:49:54",
       "https://news.ycombinator.com/item?id=45002866"
     ],
@@ -287,16 +297,6 @@
     [
       "Using information theory to solve Mastermind",
       "https://www.goranssongaspar.com/mastermind"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 13:32:36",
-      "https://news.ycombinator.com/item?id=44995865"
-    ],
-    [
-      "Light pollution prolongs avian activity",
-      "https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257"
     ]
   ]
 ]
