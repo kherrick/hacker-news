@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-08-27, 17:01:06",
+      "https://news.ycombinator.com/item?id=45042175"
+    ],
+    [
+      "Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)",
+      "https://www.ycombinator.com/companies/lago/jobs"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 16:28:20",
+      "https://news.ycombinator.com/item?id=45041807"
+    ],
+    [
+      "Typepad Is Shutting Down",
+      "https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 16:26:34",
+      "https://news.ycombinator.com/item?id=45041779"
+    ],
+    [
+      "Desktop Linux Keeps Winning the Wrong Battles",
+      "https://www.howtogeek.com/desktop-linux-keeps-winning-the-wrong-battles/"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 15:56:40",
       "https://news.ycombinator.com/item?id=45041397"
     ],
     [
-      "Kiwi.com releases the first commercial Flight Search MCP server",
+      "Kiwi.com flight search MCP server",
       "https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search"
     ]
   ],
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2025-08-27, 15:48:07",
-      "https://news.ycombinator.com/item?id=45041286"
+      "2025-08-27, 15:39:33",
+      "https://news.ycombinator.com/item?id=45041185"
     ],
     [
-      "The unexpected productivity boost of Rust",
-      "https://lubeno.dev/blog/rusts-productivity-curve"
+      "Launch HN: Bitrig (YC S25) – Build Swift Apps on Your iPhone",
+      "https://news.ycombinator.com/item?id=45041185"
     ]
   ],
   [
@@ -81,22 +111,22 @@
   ],
   [
     [
+      "2025-08-27, 13:38:03",
+      "https://news.ycombinator.com/item?id=45039510"
+    ],
+    [
+      "Tipping point in Gulf Stream may be reached as early as mid-century",
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022651"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 13:19:11",
       "https://news.ycombinator.com/item?id=45039301"
     ],
     [
       "Implementing Forth in Go and C",
       "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 13:01:57",
-      "https://news.ycombinator.com/item?id=45039075"
-    ],
-    [
-      "SpaceX's giant Starship Mars rocket nails critical 10th test flight",
-      "https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "ASCIIFlow",
       "https://asciiflow.com/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 12:00:18",
-      "https://news.ycombinator.com/item?id=45038463"
-    ],
-    [
-      "Ember (YC F24) Is Hiring Full Stack Engineer",
-      "https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Monodraw",
       "https://monodraw.helftone.com/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 10:19:14",
-      "https://news.ycombinator.com/item?id=45037621"
-    ],
-    [
-      "Word documents will be saved to the cloud automatically on Windows going forward",
-      "https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox",
       "https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 18:55:01",
-      "https://news.ycombinator.com/item?id=45006686"
-    ],
-    [
-      "Show HN: FilterQL – A tiny query language for filtering structured data",
-      "https://github.com/adamhl8/filterql"
     ]
   ],
   [
