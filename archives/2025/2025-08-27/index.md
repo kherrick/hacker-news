@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
 * [2025-08-27, 08:41:01](https://news.ycombinator.com/item?id=45036957) - [Denmark summons top US diplomat over alleged Greenland influence operation](https://www.bbc.com/news/articles/c0j9l08902eo)
+* [2025-08-27, 08:04:02](https://news.ycombinator.com/item?id=45036754) - [Malleable Software Will Eat the SaaS World](https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/)
 * [2025-08-27, 06:57:56](https://news.ycombinator.com/item?id=45036294) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2025-08-27, 06:49:23](https://news.ycombinator.com/item?id=45036231) - [Scientist exposes anti-wind groups as oil-funded. Now they want to silence him](https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/)
 * [2025-08-27, 05:50:24](https://news.ycombinator.com/item?id=45035856) - [Whistleblower says DOGE officials copied Social Security numbers](https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy)
