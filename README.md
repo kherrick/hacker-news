@@ -2,7 +2,6 @@
 
 * [2025-08-27, 02:54:07](https://news.ycombinator.com/item?id=45034957) - [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
 * [2025-08-27, 01:44:16](https://news.ycombinator.com/item?id=45034537) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
-* [2025-08-27, 00:56:25](https://news.ycombinator.com/item?id=45034216) - [Stop talking to technology executives like they have anything to say](https://www.stilldrinking.org/stop-talking-to-technology-executives-like-they-have-anything-to-say)
 * [2025-08-26, 23:22:14](https://news.ycombinator.com/item?id=45033563) - [Starship's Tenth Flight Test](https://www.spacex.com/)
 * [2025-08-26, 21:08:34](https://news.ycombinator.com/item?id=45032360) - [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
 * [2025-08-26, 21:00:46](https://news.ycombinator.com/item?id=45032276) - [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
@@ -30,6 +29,7 @@
 * [2025-08-23, 15:24:02](https://news.ycombinator.com/item?id=44996641) - [Cascata delle Marmore](https://en.wikipedia.org/wiki/Cascata_delle_Marmore)
 * [2025-08-23, 13:32:36](https://news.ycombinator.com/item?id=44995865) - [Light pollution prolongs avian activity](https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257)
 * [2025-08-23, 09:07:38](https://news.ycombinator.com/item?id=44994535) - [SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy)
+* [2025-08-23, 08:19:23](https://news.ycombinator.com/item?id=44994303) - [How to store weather forecast data for fast time-series APIs (2022)](https://openmeteo.substack.com/p/how-to-store-weather-forecast-data)
 
 ## [Archives](archives/index.md)
 
