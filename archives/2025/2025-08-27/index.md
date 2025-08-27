@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 19:10:37](https://news.ycombinator.com/item?id=45043741) - [I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
 * [2025-08-27, 18:56:03](https://news.ycombinator.com/item?id=45043545) - [Firefox Has Moved to Firefox.com](https://www.firefox.com)
 * [2025-08-27, 18:52:04](https://news.ycombinator.com/item?id=45043500) - [RFK Jr. Promises to Reveal the 'Cause' of Autism Next Month](https://gizmodo.com/rfk-jr-promises-to-reveal-the-cause-of-autism-next-month-2000648934)
 * [2025-08-27, 18:25:27](https://news.ycombinator.com/item?id=45043164) - [House to investigate Wikipedia over allegations of organized bias](https://thehill.com/homenews/house/5473331-wikipedia-bias-probe-republicans/)
 * [2025-08-27, 17:40:08](https://news.ycombinator.com/item?id=45042611) - [Astrophysicists find no 'hair' on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
 * [2025-08-27, 17:28:20](https://news.ycombinator.com/item?id=45042461) - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
+* [2025-08-27, 17:13:43](https://news.ycombinator.com/item?id=45042324) - [Show HN: Chat with Nano Banana Directly from WhatsApp](https://wassist.app/agents/07429b42-e979-41a1-be07-e7be35f404de/)
 * [2025-08-27, 17:01:06](https://news.ycombinator.com/item?id=45042175) - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
 * [2025-08-27, 16:28:20](https://news.ycombinator.com/item?id=45041807) - [Typepad Is Shutting Down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
 * [2025-08-27, 16:26:34](https://news.ycombinator.com/item?id=45041779) - [Desktop Linux Keeps Winning the Wrong Battles](https://www.howtogeek.com/desktop-linux-keeps-winning-the-wrong-battles/)
