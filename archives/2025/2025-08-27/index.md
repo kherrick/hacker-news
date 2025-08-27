@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 14:42:14](https://news.ycombinator.com/item?id=45040404) - [Show HN: React Web Camera – Fix <input type=file> single-photo limit](https://shivantra.com/react-web-camera/)
+* [2025-08-27, 14:37:21](https://news.ycombinator.com/item?id=45040338) - [AI Bubble 2027](https://www.wheresyoured.at/ai-bubble-2027/)
 * [2025-08-27, 14:17:22](https://news.ycombinator.com/item?id=45040076) - [Why Aren't People Going to Local and Regional In-Person Events Anymore?](https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/)
 * [2025-08-27, 14:15:54](https://news.ycombinator.com/item?id=45040064) - [Apple Revokes EU Distribution Rights for an App on the Alt Store](https://torrentfreak.com/apple-revokes-eu-distribution-rights-for-torrent-client-developer-left-in-the-dark/)
 * [2025-08-27, 13:50:59](https://news.ycombinator.com/item?id=45039661) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
