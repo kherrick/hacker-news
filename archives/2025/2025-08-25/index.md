@@ -77,6 +77,7 @@
 * [2025-08-25, 06:41:42](https://news.ycombinator.com/item?id=45010951) - [Ask HN: How can I recover and run my old mobile game from the 2010s?](https://news.ycombinator.com/item?id=45010951)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What Are OKLCH Colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 06:28:18](https://news.ycombinator.com/item?id=45010846) - [Buypass Discontinues Issuance of TLS/SSL Certificates](https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates)
+* [2025-08-25, 05:55:35](https://news.ycombinator.com/item?id=45010658) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer (2023)](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2025-08-25, 05:30:00](https://news.ycombinator.com/item?id=45010524) - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
 * [2025-08-25, 05:22:15](https://news.ycombinator.com/item?id=45010484) - [Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
 * [2025-08-25, 05:17:44](https://news.ycombinator.com/item?id=45010461) - [Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
