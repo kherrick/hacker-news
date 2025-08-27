@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-08-25, 12:39:46",
-      "https://news.ycombinator.com/item?id=45013199"
-    ],
-    [
-      "Connecting M.2 drives to various things (and not doing so)",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/M2ToVariousThings"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 02:53:35",
       "https://news.ycombinator.com/item?id=45009760"
     ],
@@ -267,6 +257,16 @@
     [
       "Integer continued fractions for complex numbers",
       "https://arxiv.org/abs/2508.15078"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 19:05:31",
+      "https://news.ycombinator.com/item?id=44998276"
+    ],
+    [
+      "Bypass PostgreSQL catalog overhead with direct partition hash calculations",
+      "https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/"
     ]
   ],
   [
