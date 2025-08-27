@@ -90,6 +90,7 @@
 * [2025-08-24, 04:23:33](https://news.ycombinator.com/item?id=45001371) - [ThinkMesh: A Python lib for parallel thinking in LLMs](https://github.com/martianlantern/ThinkMesh)
 * [2025-08-24, 03:22:16](https://news.ycombinator.com/item?id=45001057) - [What Are Oklch Colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
+* [2025-08-24, 03:12:05](https://news.ycombinator.com/item?id=45001005) - [You shouldn't salt a leech that's sucking your blood](https://www.cbc.ca/news/science/bloodsuckers-1.5361074)
 * [2025-08-24, 03:09:01](https://news.ycombinator.com/item?id=45000988) - [Kinds of Programming People](https://leftoversalad.com/c/015_programmingpeople/)
 * [2025-08-24, 03:08:15](https://news.ycombinator.com/item?id=45000982) - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
 * [2025-08-24, 02:54:11](https://news.ycombinator.com/item?id=45000904) - [Using information theory to solve Mastermind](https://www.goranssongaspar.com/mastermind)

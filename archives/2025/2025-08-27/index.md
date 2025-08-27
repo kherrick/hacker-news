@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 20:03:01](https://news.ycombinator.com/item?id=45044440) - [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
 * [2025-08-27, 19:44:12](https://news.ycombinator.com/item?id=45044168) - [Mapping Connections of Anti-Offshore Wind Groups and Their Lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
 * [2025-08-27, 19:10:37](https://news.ycombinator.com/item?id=45043741) - [I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
 * [2025-08-27, 18:56:03](https://news.ycombinator.com/item?id=45043545) - [Firefox Has Moved to Firefox.com](https://www.firefox.com)

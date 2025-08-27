@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-27, 20:03:01](https://news.ycombinator.com/item?id=45044440) - [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
 * [2025-08-27, 19:44:12](https://news.ycombinator.com/item?id=45044168) - [Mapping Connections of Anti-Offshore Wind Groups and Their Lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
 * [2025-08-27, 19:10:37](https://news.ycombinator.com/item?id=45043741) - [I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
 * [2025-08-27, 18:56:03](https://news.ycombinator.com/item?id=45043545) - [Firefox Has Moved to Firefox.com](https://www.firefox.com)
 * [2025-08-27, 17:40:08](https://news.ycombinator.com/item?id=45042611) - [Astrophysicists find no 'hair' on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
 * [2025-08-27, 17:28:20](https://news.ycombinator.com/item?id=45042461) - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
-* [2025-08-27, 17:13:43](https://news.ycombinator.com/item?id=45042324) - [Show HN: Chat with Nano Banana Directly from WhatsApp](https://wassist.app/agents/07429b42-e979-41a1-be07-e7be35f404de/)
 * [2025-08-27, 17:01:06](https://news.ycombinator.com/item?id=45042175) - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
 * [2025-08-27, 16:28:20](https://news.ycombinator.com/item?id=45041807) - [Typepad is shutting down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
 * [2025-08-27, 16:24:12](https://news.ycombinator.com/item?id=45041743) - [GMP damaging Zen 5 CPUs?](https://gmplib.org/gmp-zen5)
@@ -19,7 +19,6 @@
 * [2025-08-27, 13:19:11](https://news.ycombinator.com/item?id=45039301) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
 * [2025-08-27, 12:25:38](https://news.ycombinator.com/item?id=45038710) - [Bring Your Own Agent to Zed – Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed)
 * [2025-08-27, 11:38:35](https://news.ycombinator.com/item?id=45038260) - [How to slow down a program and why it can be useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
-* [2025-08-27, 11:02:33](https://news.ycombinator.com/item?id=45037947) - [QEMU 10.1.0](https://wiki.qemu.org/ChangeLog/10.1)
 * [2025-08-27, 10:54:41](https://news.ycombinator.com/item?id=45037904) - [Monodraw](https://monodraw.helftone.com/)
 * [2025-08-27, 06:57:56](https://news.ycombinator.com/item?id=45036294) - [The Therac-25 Incident (2021)](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2025-08-27, 01:38:48](https://news.ycombinator.com/item?id=45034496) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
@@ -28,6 +27,7 @@
 * [2025-08-25, 12:11:38](https://news.ycombinator.com/item?id=45012995) - [Areal, Are.na's New Typeface](https://www.are.na/editorial/introducing-areal-are-nas-new-typeface)
 * [2025-08-24, 19:20:46](https://news.ycombinator.com/item?id=45006882) - [Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox](https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm)
 * [2025-08-24, 17:03:44](https://news.ycombinator.com/item?id=45005823) - ['Rocks as big as cars' are flying down the Dolomites](https://www.bbc.com/future/article/20250819-why-italys-beloved-ancient-monolith-is-falling)
+* [2025-08-24, 03:12:05](https://news.ycombinator.com/item?id=45001005) - [You shouldn't salt a leech that's sucking your blood](https://www.cbc.ca/news/science/bloodsuckers-1.5361074)
 * [2025-08-24, 02:54:11](https://news.ycombinator.com/item?id=45000904) - [Using information theory to solve Mastermind](https://www.goranssongaspar.com/mastermind)
 * [2025-08-23, 18:29:05](https://news.ycombinator.com/item?id=44998010) - [Toyota is recycling old EV batteries to help power Mazda's production line](https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line)
 
