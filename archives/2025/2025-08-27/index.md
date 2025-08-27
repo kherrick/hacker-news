@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 21:27:13](https://news.ycombinator.com/item?id=45045500) - [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
 * [2025-08-27, 21:25:01](https://news.ycombinator.com/item?id=45045480) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
 * [2025-08-27, 21:16:56](https://news.ycombinator.com/item?id=45045398) - [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
 * [2025-08-27, 21:08:49](https://news.ycombinator.com/item?id=45045307) - [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
+* [2025-08-27, 20:53:51](https://news.ycombinator.com/item?id=45045116) - [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
 * [2025-08-27, 20:39:48](https://news.ycombinator.com/item?id=45044919) - [Ask HN: GitHub Copilot Down?](https://news.ycombinator.com/item?id=45044919)
 * [2025-08-27, 20:03:01](https://news.ycombinator.com/item?id=45044440) - [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
 * [2025-08-27, 19:44:12](https://news.ycombinator.com/item?id=45044168) - [Mapping Connections of Anti-Offshore Wind Groups and Their Lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)

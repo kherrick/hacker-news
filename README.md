@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-27, 21:25:01](https://news.ycombinator.com/item?id=45045480) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
+* [2025-08-27, 21:27:13](https://news.ycombinator.com/item?id=45045500) - [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
 * [2025-08-27, 21:16:56](https://news.ycombinator.com/item?id=45045398) - [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
 * [2025-08-27, 21:08:49](https://news.ycombinator.com/item?id=45045307) - [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
+* [2025-08-27, 20:53:51](https://news.ycombinator.com/item?id=45045116) - [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
 * [2025-08-27, 20:39:48](https://news.ycombinator.com/item?id=45044919) - [Ask HN: GitHub Copilot down?](https://news.ycombinator.com/item?id=45044919)
 * [2025-08-27, 20:03:01](https://news.ycombinator.com/item?id=45044440) - [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
 * [2025-08-27, 19:44:12](https://news.ycombinator.com/item?id=45044168) - [Mapping connections of anti-offshore wind groups and their lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
@@ -10,7 +11,6 @@
 * [2025-08-27, 17:01:06](https://news.ycombinator.com/item?id=45042175) - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
 * [2025-08-27, 16:28:20](https://news.ycombinator.com/item?id=45041807) - [Typepad is shutting down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
 * [2025-08-27, 16:24:12](https://news.ycombinator.com/item?id=45041743) - [GMP damaging Zen 5 CPUs?](https://gmplib.org/gmp-zen5)
-* [2025-08-27, 15:56:40](https://news.ycombinator.com/item?id=45041397) - [Kiwi.com flight search MCP server](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)
 * [2025-08-27, 15:50:54](https://news.ycombinator.com/item?id=45041315) - [VIM Master](https://github.com/renzorlive/vimmaster)
 * [2025-08-27, 15:48:07](https://news.ycombinator.com/item?id=45041286) - [Unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 15:39:33](https://news.ycombinator.com/item?id=45041185) - [Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone](https://news.ycombinator.com/item?id=45041185)
