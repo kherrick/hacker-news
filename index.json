@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45034216"
     ],
     [
-      "Stop Talking to Technology Executives Like They Have Anything to Say",
+      "Stop talking to technology executives like they have anything to say",
       "https://www.stilldrinking.org/stop-talking-to-technology-executives-like-they-have-anything-to-say"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "LiteLLM (YC W23) is hiring a back end engineer",
       "https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 20:59:35",
+      "https://news.ycombinator.com/item?id=45032261"
+    ],
+    [
+      "Das Problem mit German Strings",
+      "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings"
     ]
   ],
   [
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44995865"
     ],
     [
-      "Birds are singing an average of 50 minutes longer per day",
+      "Light pollution prolongs avian activity",
       "https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python",
       "https://github.com/explosion/spaCy"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 08:19:23",
-      "https://news.ycombinator.com/item?id=44994303"
-    ],
-    [
-      "How to store weather forecast data for fast time-series APIs (2022)",
-      "https://openmeteo.substack.com/p/how-to-store-weather-forecast-data"
     ]
   ]
 ]
