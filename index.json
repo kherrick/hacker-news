@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-27, 01:44:16",
+      "https://news.ycombinator.com/item?id=45034537"
+    ],
+    [
+      "Dissecting the Apple M1 GPU, the end",
+      "https://rosenzweig.io/blog/asahi-gpu-part-n.html"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 23:22:14",
       "https://news.ycombinator.com/item?id=45033563"
     ],
@@ -17,16 +27,6 @@
     [
       "The \"Wow!\" signal was likely from extraterrestrial source, and more powerful",
       "https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 21:45:58",
-      "https://news.ycombinator.com/item?id=45032715"
-    ],
-    [
-      "Why I'm declining your AI generated MR",
-      "https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "GNU Artanis – A fast web application framework for Scheme",
       "https://artanis.dev/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 19:52:36",
-      "https://news.ycombinator.com/item?id=45031496"
-    ],
-    [
-      "What happens when ambassadors are summoned by the host country?",
-      "https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Show HN: A zoomable, searchable archive of BYTE magazine",
       "https://byte.tsundoku.io"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 15:12:30",
+      "https://news.ycombinator.com/item?id=45027725"
+    ],
+    [
+      "Framework Laptop 16",
+      "https://frame.work/ro/en/laptop16?tab=whats-new"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-08-25, 12:35:41",
-      "https://news.ycombinator.com/item?id=45013170"
-    ],
-    [
-      "All the world’s polygons",
-      "https://www.sum.si/journal-articles/all-the-worlds-polygons"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 02:53:35",
       "https://news.ycombinator.com/item?id=45009760"
     ],
@@ -257,6 +247,16 @@
     [
       "Chinese astronauts make rocket fuel and oxygen in space",
       "https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 17:43:14",
+      "https://news.ycombinator.com/item?id=45006128"
+    ],
+    [
+      "China's Guowang megaconstellation is more than another version of Starlink",
+      "https://arstechnica.com/space/2025/08/china-may-have-taken-an-early-lead-in-the-race-for-a-military-megaconstellation/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-23, 06:50:55",
-      "https://news.ycombinator.com/item?id=44993861"
+      "2025-08-23, 08:19:23",
+      "https://news.ycombinator.com/item?id=44994303"
     ],
     [
-      "YouTube's sneaky AI 'experiment'",
-      "https://www.theatlantic.com/technology/archive/2025/08/youtube-shorts-ai-upscaling/683946/"
+      "How to store weather forecast data for fast time-series APIs (2022)",
+      "https://openmeteo.substack.com/p/how-to-store-weather-forecast-data"
     ]
   ]
 ]
