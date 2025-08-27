@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 10:19:14](https://news.ycombinator.com/item?id=45037621) - [Word documents will be saved to the cloud automatically on Windows going forward](https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/)
 * [2025-08-27, 08:41:01](https://news.ycombinator.com/item?id=45036957) - [Denmark summons top US diplomat over alleged Greenland influence operation](https://www.bbc.com/news/articles/c0j9l08902eo)
 * [2025-08-27, 08:38:58](https://news.ycombinator.com/item?id=45036939) - [WebLibre: The Privacy-Focused Browser](https://docs.weblibre.eu/)
 * [2025-08-27, 08:04:02](https://news.ycombinator.com/item?id=45036754) - [Malleable Software Will Eat the SaaS World](https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/)
