@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-26, 23:22:14](https://news.ycombinator.com/item?id=45033563) - [Starship 10T minus 10 min](https://www.spacex.com/)
+* [2025-08-26, 23:22:14](https://news.ycombinator.com/item?id=45033563) - [Starship's Tenth Flight Test](https://www.spacex.com/)
 * [2025-08-26, 22:25:06](https://news.ycombinator.com/item?id=45033114) - [The \"Wow!\" signal was likely from extraterrestrial source, and more powerful](https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561)
 * [2025-08-26, 21:45:58](https://news.ycombinator.com/item?id=45032715) - [Why I'm declining your AI generated MR](https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html)
 * [2025-08-26, 21:08:34](https://news.ycombinator.com/item?id=45032360) - [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
@@ -29,7 +29,7 @@
 * [2025-08-24, 09:12:14](https://news.ycombinator.com/item?id=45002688) - [Neuralink 'Participant 1' says his life has changed](https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/)
 * [2025-08-23, 15:24:02](https://news.ycombinator.com/item?id=44996641) - [Cascata delle Marmore](https://en.wikipedia.org/wiki/Cascata_delle_Marmore)
 * [2025-08-23, 09:07:38](https://news.ycombinator.com/item?id=44994535) - [SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy)
-* [2025-08-23, 01:12:31](https://news.ycombinator.com/item?id=44991994) - [Eyecam](https://marcteyssier.com/projects/eyecam/)
+* [2025-08-23, 06:50:55](https://news.ycombinator.com/item?id=44993861) - [YouTube's sneaky AI 'experiment'](https://www.theatlantic.com/technology/archive/2025/08/youtube-shorts-ai-upscaling/683946/)
 
 ## [Archives](archives/index.md)
 

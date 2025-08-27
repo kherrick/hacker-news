@@ -52,6 +52,7 @@
 * [2025-08-23, 07:40:44](https://news.ycombinator.com/item?id=44994090) - [World Wide Lightning Location Network](https://wwlln.net/)
 * [2025-08-23, 07:35:49](https://news.ycombinator.com/item?id=44994071) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 * [2025-08-23, 06:53:22](https://news.ycombinator.com/item?id=44993874) - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
+* [2025-08-23, 06:50:55](https://news.ycombinator.com/item?id=44993861) - [YouTube's sneaky AI 'experiment'](https://www.theatlantic.com/technology/archive/2025/08/youtube-shorts-ai-upscaling/683946/)
 * [2025-08-23, 06:39:38](https://news.ycombinator.com/item?id=44993797) - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
 * [2025-08-23, 06:31:00](https://news.ycombinator.com/item?id=44993761) - [Show HN: OctaneDB – Fast, Open-Source Vector Database for Python](https://github.com/RijinRaju/octanedb)
 * [2025-08-23, 06:19:15](https://news.ycombinator.com/item?id=44993692) - [The ROI of Exercise](https://herman.bearblog.dev/exercise/)
