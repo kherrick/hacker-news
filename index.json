@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-08-24, 20:34:49",
+      "https://news.ycombinator.com/item?id=45007525"
+    ],
+    [
+      "Reverse Engineered Raspberry Pi Compute Module 5",
+      "https://github.com/schlae/cm5-reveng"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 17:54:47",
       "https://news.ycombinator.com/item?id=45006229"
     ],
@@ -287,16 +297,6 @@
     [
       "SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python",
       "https://github.com/explosion/spaCy"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 08:19:23",
-      "https://news.ycombinator.com/item?id=44994303"
-    ],
-    [
-      "How to store weather forecast data for fast time-series APIs (2022)",
-      "https://openmeteo.substack.com/p/how-to-store-weather-forecast-data"
     ]
   ]
 ]
