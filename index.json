@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-27, 18:25:27",
+      "https://news.ycombinator.com/item?id=45043164"
+    ],
+    [
+      "House to investigate Wikipedia over allegations of organized bias",
+      "https://thehill.com/homenews/house/5473331-wikipedia-bias-probe-republicans/"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 17:40:08",
       "https://news.ycombinator.com/item?id=45042611"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2025-08-27, 12:25:38",
+      "https://news.ycombinator.com/item?id=45038710"
+    ],
+    [
+      "Bring Your Own Agent to Zed – Featuring Gemini CLI",
+      "https://zed.dev/blog/bring-your-own-agent-to-zed"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 11:38:42",
       "https://news.ycombinator.com/item?id=45038261"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-08-27, 08:04:02",
-      "https://news.ycombinator.com/item?id=45036754"
-    ],
-    [
-      "Malleable Software",
-      "https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 06:57:56",
       "https://news.ycombinator.com/item?id=45036294"
     ],
     [
       "The Therac-25 Incident (2021)",
       "https://thedailywtf.com/articles/the-therac-25-incident"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 01:44:16",
-      "https://news.ycombinator.com/item?id=45034537"
-    ],
-    [
-      "Dissecting the Apple M1 GPU, the end",
-      "https://rosenzweig.io/blog/asahi-gpu-part-n.html"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-08-25, 15:27:59",
+      "https://news.ycombinator.com/item?id=45014911"
+    ],
+    [
+      "Antirez/sds: Simple Dynamic Strings library for C",
+      "https://github.com/antirez/sds"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 19:20:46",
       "https://news.ycombinator.com/item?id=45006882"
     ],
     [
       "Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox",
       "https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 18:55:01",
-      "https://news.ycombinator.com/item?id=45006686"
-    ],
-    [
-      "Show HN: FilterQL – A tiny query language for filtering structured data",
-      "https://github.com/adamhl8/filterql"
     ]
   ],
   [
