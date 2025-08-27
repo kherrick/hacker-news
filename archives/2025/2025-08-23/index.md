@@ -36,6 +36,7 @@
 * [2025-08-23, 15:14:39](https://news.ycombinator.com/item?id=44996571) - [Robots can now learn to use tools just by watching us](https://techxplore.com/news/2025-08-robots-tools.html)
 * [2025-08-23, 15:10:03](https://news.ycombinator.com/item?id=44996548) - [The JWST Rocky Worlds DDT Program reveals GJ 3929B to likely be a bare rock](https://arxiv.org/abs/2508.12516)
 * [2025-08-23, 14:01:53](https://news.ycombinator.com/item?id=44996058) - [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)
+* [2025-08-23, 14:00:34](https://news.ycombinator.com/item?id=44996045) - [Retry Loop Retry](https://matklad.github.io/2025/08/23/retry-loop-retry.html)
 * [2025-08-23, 13:32:36](https://news.ycombinator.com/item?id=44995865) - [Birds are singing an average of 50 minutes longer per day](https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257)
 * [2025-08-23, 12:54:01](https://news.ycombinator.com/item?id=44995640) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 * [2025-08-23, 12:29:02](https://news.ycombinator.com/item?id=44995508) - [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)

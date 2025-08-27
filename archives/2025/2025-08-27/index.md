@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 05:50:24](https://news.ycombinator.com/item?id=45035856) - [Whistleblower says DOGE officials copied Social Security numbers](https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy)
 * [2025-08-27, 05:14:19](https://news.ycombinator.com/item?id=45035699) - [Uncomfortable Questions About Android Developer Verification](https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html)
 * [2025-08-27, 05:11:18](https://news.ycombinator.com/item?id=45035685) - [The man with a Home Computer (1967) [video]](https://www.youtube.com/watch?v=w6Ka42eyudA)
 * [2025-08-27, 05:10:53](https://news.ycombinator.com/item?id=45035684) - [AI coding made me faster, but I can't code to music anymore](https://www.praf.me/ai-coding)
