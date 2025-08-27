@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 17:01:06](https://news.ycombinator.com/item?id=45042175) - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
+* [2025-08-27, 16:28:20](https://news.ycombinator.com/item?id=45041807) - [Typepad Is Shutting Down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
+* [2025-08-27, 16:26:34](https://news.ycombinator.com/item?id=45041779) - [Desktop Linux Keeps Winning the Wrong Battles](https://www.howtogeek.com/desktop-linux-keeps-winning-the-wrong-battles/)
 * [2025-08-27, 15:56:40](https://news.ycombinator.com/item?id=45041397) - [Kiwi.com releases the first commercial Flight Search MCP server](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)
 * [2025-08-27, 15:50:54](https://news.ycombinator.com/item?id=45041315) - [VIMMaster](https://github.com/renzorlive/vimmaster)
 * [2025-08-27, 15:48:07](https://news.ycombinator.com/item?id=45041286) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
+* [2025-08-27, 15:39:33](https://news.ycombinator.com/item?id=45041185) - [Launch HN: Bitrig (YC S25) – Build Swift Apps on Your iPhone](https://news.ycombinator.com/item?id=45041185)
 * [2025-08-27, 15:18:29](https://news.ycombinator.com/item?id=45040905) - [We Rebuilt Cloud Life's Infrastructure Delivery with System Initiative](https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative)
 * [2025-08-27, 15:16:18](https://news.ycombinator.com/item?id=45040875) - [Efficient Array Programming](https://github.com/razetime/efficient-array-programming)
 * [2025-08-27, 14:42:14](https://news.ycombinator.com/item?id=45040404) - [Show HN: React Web Camera – Fix <input type=file> single-photo limit](https://shivantra.com/react-web-camera/)
@@ -14,6 +18,7 @@
 * [2025-08-27, 14:17:22](https://news.ycombinator.com/item?id=45040076) - [Why Aren't People Going to Local and Regional In-Person Events Anymore?](https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/)
 * [2025-08-27, 14:15:54](https://news.ycombinator.com/item?id=45040064) - [Apple Revokes EU Distribution Rights for an App on the Alt Store](https://torrentfreak.com/apple-revokes-eu-distribution-rights-for-torrent-client-developer-left-in-the-dark/)
 * [2025-08-27, 13:50:59](https://news.ycombinator.com/item?id=45039661) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
+* [2025-08-27, 13:38:03](https://news.ycombinator.com/item?id=45039510) - [Tipping point in Gulf Stream may be reached as early as mid-century](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022651)
 * [2025-08-27, 13:28:45](https://news.ycombinator.com/item?id=45039397) - [Bluesky now platform of choice for science community](https://arstechnica.com/science/2025/08/more-scientists-choose-bluesky-over-twitter/)
 * [2025-08-27, 13:19:11](https://news.ycombinator.com/item?id=45039301) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
 * [2025-08-27, 13:13:23](https://news.ycombinator.com/item?id=45039228) - [A vibe-coding tool for serious developers](https://appjet.ai)
