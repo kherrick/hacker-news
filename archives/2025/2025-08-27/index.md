@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 13:28:45](https://news.ycombinator.com/item?id=45039397) - [Bluesky now platform of choice for science community](https://arstechnica.com/science/2025/08/more-scientists-choose-bluesky-over-twitter/)
+* [2025-08-27, 13:19:11](https://news.ycombinator.com/item?id=45039301) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
+* [2025-08-27, 13:01:57](https://news.ycombinator.com/item?id=45039075) - [SpaceX's giant Starship Mars rocket nails critical 10th test flight](https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video)
 * [2025-08-27, 12:34:20](https://news.ycombinator.com/item?id=45038783) - [I Spent over $31,900 on Whiteout Survival – Here's Why I Regret It](https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/)
 * [2025-08-27, 12:18:47](https://news.ycombinator.com/item?id=45038653) - [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
+* [2025-08-27, 12:10:21](https://news.ycombinator.com/item?id=45038565) - [ASCIIFlow](https://asciiflow.com/)
 * [2025-08-27, 12:00:18](https://news.ycombinator.com/item?id=45038463) - [Ember (YC F24) Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026)
 * [2025-08-27, 11:38:42](https://news.ycombinator.com/item?id=45038261) - [F-35 pilot held 50-minute airborne conference call with engineers before crash](https://www.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml)
 * [2025-08-27, 11:38:35](https://news.ycombinator.com/item?id=45038260) - [How to Slow Down a Program? and Why It Can Be Useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)

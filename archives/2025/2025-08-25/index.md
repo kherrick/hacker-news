@@ -28,6 +28,7 @@
 * [2025-08-25, 19:07:11](https://news.ycombinator.com/item?id=45017685) - [Angry Metal Guy Speaks: On Spotify](https://www.angrymetalguy.com/angry-metal-guy-speaks-on-spotify/)
 * [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 18:15:41](https://news.ycombinator.com/item?id=45016999) - [With AI chatbots, Big Tech is moving fast and breaking people](https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/)
+* [2025-08-25, 18:04:54](https://news.ycombinator.com/item?id=45016826) - [First absolute superconducting switch developed in a magnetic device](https://phys.org/news/2025-08-absolute-superconducting-magnetic-device.html)
 * [2025-08-25, 18:02:51](https://news.ycombinator.com/item?id=45016794) - [How RubyGems.org Protects Our Community’s Critical OSS Infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html)
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling at Hot Chips 2025](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
 * [2025-08-25, 17:43:13](https://news.ycombinator.com/item?id=45016542) - [IBM's Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
