@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-27, 05:14:19](https://news.ycombinator.com/item?id=45035699) - [Uncomfortable Questions About Android Developer Verification](https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html)
 * [2025-08-27, 02:54:07](https://news.ycombinator.com/item?id=45034957) - [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
 * [2025-08-27, 01:44:16](https://news.ycombinator.com/item?id=45034537) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
 * [2025-08-26, 23:22:14](https://news.ycombinator.com/item?id=45033563) - [Starship's Tenth Flight Test](https://www.spacex.com/)
@@ -12,7 +13,6 @@
 * [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
 * [2025-08-26, 16:57:44](https://news.ycombinator.com/item?id=45029241) - [Undisclosed financial conflicts of interest in DSM-5 (2024)](https://www.bmj.com/content/384/bmj-2023-076902)
-* [2025-08-26, 15:34:55](https://news.ycombinator.com/item?id=45028002) - [Show HN: A zoomable, searchable archive of BYTE magazine](https://byte.tsundoku.io)
 * [2025-08-26, 14:15:54](https://news.ycombinator.com/item?id=45026886) - [A teen was suicidal. ChatGPT was the friend he confided in](https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html)
 * [2025-08-26, 14:07:42](https://news.ycombinator.com/item?id=45026792) - [One universal antiviral to rule them all?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
 * [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
