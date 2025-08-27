@@ -36,6 +36,7 @@
 * [2025-08-23, 15:15:38](https://news.ycombinator.com/item?id=44996583) - [Using game theory to explain how institutions arise to manage limited resources](https://phys.org/news/2025-08-game-theory-naturally-limited-resources.html)
 * [2025-08-23, 15:14:39](https://news.ycombinator.com/item?id=44996571) - [Robots can now learn to use tools just by watching us](https://techxplore.com/news/2025-08-robots-tools.html)
 * [2025-08-23, 15:10:03](https://news.ycombinator.com/item?id=44996548) - [The JWST Rocky Worlds DDT Program reveals GJ 3929B to likely be a bare rock](https://arxiv.org/abs/2508.12516)
+* [2025-08-23, 14:54:03](https://news.ycombinator.com/item?id=44996432) - [Delphi in the Age of AI](https://learndelphi.org/delphi-ai-ultimate-guide/)
 * [2025-08-23, 14:01:53](https://news.ycombinator.com/item?id=44996058) - [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)
 * [2025-08-23, 14:00:34](https://news.ycombinator.com/item?id=44996045) - [Retry Loop Retry](https://matklad.github.io/2025/08/23/retry-loop-retry.html)
 * [2025-08-23, 13:32:36](https://news.ycombinator.com/item?id=44995865) - [Birds are singing an average of 50 minutes longer per day](https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257)
