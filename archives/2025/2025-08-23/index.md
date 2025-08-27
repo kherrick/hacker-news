@@ -23,6 +23,7 @@
 * [2025-08-23, 19:05:31](https://news.ycombinator.com/item?id=44998276) - [Bypass PostgreSQL catalog overhead with direct partition hash calculations](https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/)
 * [2025-08-23, 18:42:32](https://news.ycombinator.com/item?id=44998092) - [Will at centre of legal battle over Shakespeare’s home unearthed after 150 years](https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years)
 * [2025-08-23, 18:38:48](https://news.ycombinator.com/item?id=44998075) - [The F-35 Is Losing the (Trade) War](https://www.jalopnik.com/1945910/f-35-fighter-jet-losing-trade-war/)
+* [2025-08-23, 18:29:05](https://news.ycombinator.com/item?id=44998010) - [Toyota Is Recycling Old EV Batteries to Help Power Mazda's Production Line](https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line)
 * [2025-08-23, 17:15:24](https://news.ycombinator.com/item?id=44997435) - [RFK Jr demanded a vaccine study be retracted – the journal said no](https://www.nature.com/articles/d41586-025-02682-9)
 * [2025-08-23, 17:00:14](https://news.ycombinator.com/item?id=44997289) - [Bild AI (YC W25) Is Hiring Applied AI Founding Engineer](https://www.workatastartup.com/jobs/75647)
 * [2025-08-23, 16:49:52](https://news.ycombinator.com/item?id=44997194) - [Libre – An anonymous social experiment without likes, followers, or ads](https://libreantisocial.com)
