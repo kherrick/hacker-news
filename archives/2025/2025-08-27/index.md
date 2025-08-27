@@ -6,6 +6,7 @@
 
 * [2025-08-27, 13:28:45](https://news.ycombinator.com/item?id=45039397) - [Bluesky now platform of choice for science community](https://arstechnica.com/science/2025/08/more-scientists-choose-bluesky-over-twitter/)
 * [2025-08-27, 13:19:11](https://news.ycombinator.com/item?id=45039301) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
+* [2025-08-27, 13:13:23](https://news.ycombinator.com/item?id=45039228) - [A vibe-coding tool for serious developers](https://appjet.ai)
 * [2025-08-27, 13:01:57](https://news.ycombinator.com/item?id=45039075) - [SpaceX's giant Starship Mars rocket nails critical 10th test flight](https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video)
 * [2025-08-27, 12:34:20](https://news.ycombinator.com/item?id=45038783) - [I Spent over $31,900 on Whiteout Survival – Here's Why I Regret It](https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/)
 * [2025-08-27, 12:18:47](https://news.ycombinator.com/item?id=45038653) - [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
