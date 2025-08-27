@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 18:56:03](https://news.ycombinator.com/item?id=45043545) - [Firefox Has Moved to Firefox.com](https://www.firefox.com)
 * [2025-08-27, 18:25:27](https://news.ycombinator.com/item?id=45043164) - [House to investigate Wikipedia over allegations of organized bias](https://thehill.com/homenews/house/5473331-wikipedia-bias-probe-republicans/)
 * [2025-08-27, 17:40:08](https://news.ycombinator.com/item?id=45042611) - [Astrophysicists find no 'hair' on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
 * [2025-08-27, 17:28:20](https://news.ycombinator.com/item?id=45042461) - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)

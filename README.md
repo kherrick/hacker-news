@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-27, 18:56:03](https://news.ycombinator.com/item?id=45043545) - [Firefox Has Moved to Firefox.com](https://www.firefox.com)
 * [2025-08-27, 18:25:27](https://news.ycombinator.com/item?id=45043164) - [House to investigate Wikipedia over allegations of organized bias](https://thehill.com/homenews/house/5473331-wikipedia-bias-probe-republicans/)
 * [2025-08-27, 17:40:08](https://news.ycombinator.com/item?id=45042611) - [Astrophysicists find no 'hair' on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
 * [2025-08-27, 17:28:20](https://news.ycombinator.com/item?id=45042461) - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
@@ -15,7 +16,6 @@
 * [2025-08-27, 13:50:59](https://news.ycombinator.com/item?id=45039661) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 * [2025-08-27, 13:19:11](https://news.ycombinator.com/item?id=45039301) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
 * [2025-08-27, 12:25:38](https://news.ycombinator.com/item?id=45038710) - [Bring Your Own Agent to Zed – Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed)
-* [2025-08-27, 11:38:42](https://news.ycombinator.com/item?id=45038261) - [F-35 pilot held 50-minute airborne conference call with engineers before crash](https://www.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml)
 * [2025-08-27, 11:38:35](https://news.ycombinator.com/item?id=45038260) - [How to slow down a program and why it can be useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
 * [2025-08-27, 11:02:33](https://news.ycombinator.com/item?id=45037947) - [QEMU 10.1.0](https://wiki.qemu.org/ChangeLog/10.1)
 * [2025-08-27, 10:54:41](https://news.ycombinator.com/item?id=45037904) - [Monodraw](https://monodraw.helftone.com/)
