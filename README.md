@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-27, 11:02:33](https://news.ycombinator.com/item?id=45037947) - [QEMU 10.1.0](https://wiki.qemu.org/ChangeLog/10.1)
+* [2025-08-27, 10:54:41](https://news.ycombinator.com/item?id=45037904) - [Monodraw](https://monodraw.helftone.com/)
 * [2025-08-27, 10:19:14](https://news.ycombinator.com/item?id=45037621) - [Word documents will be saved to the cloud automatically on Windows going forward](https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/)
 * [2025-08-27, 08:38:58](https://news.ycombinator.com/item?id=45036939) - [WebLibre: The Privacy-Focused Browser](https://docs.weblibre.eu/)
-* [2025-08-27, 08:04:02](https://news.ycombinator.com/item?id=45036754) - [Malleable Software Will Eat the SaaS World](https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/)
 * [2025-08-27, 06:57:56](https://news.ycombinator.com/item?id=45036294) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2025-08-27, 06:49:23](https://news.ycombinator.com/item?id=45036231) - [Scientist exposes anti-wind groups as oil-funded. Now they want to silence him](https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/)
-* [2025-08-27, 05:14:19](https://news.ycombinator.com/item?id=45035699) - [Uncomfortable Questions About Android Developer Verification](https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html)
 * [2025-08-27, 05:11:18](https://news.ycombinator.com/item?id=45035685) - [The man with a Home Computer (1967) [video]](https://www.youtube.com/watch?v=w6Ka42eyudA)
 * [2025-08-27, 02:54:07](https://news.ycombinator.com/item?id=45034957) - [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
 * [2025-08-27, 01:44:16](https://news.ycombinator.com/item?id=45034537) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
