@@ -90,6 +90,7 @@
 * [2025-08-24, 03:21:14](https://news.ycombinator.com/item?id=45001051) - [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
 * [2025-08-24, 03:09:01](https://news.ycombinator.com/item?id=45000988) - [Kinds of Programming People](https://leftoversalad.com/c/015_programmingpeople/)
 * [2025-08-24, 03:08:15](https://news.ycombinator.com/item?id=45000982) - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
+* [2025-08-24, 02:54:11](https://news.ycombinator.com/item?id=45000904) - [Using information theory to solve Mastermind](https://www.goranssongaspar.com/mastermind)
 * [2025-08-24, 02:52:08](https://news.ycombinator.com/item?id=45000894) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
 * [2025-08-24, 01:35:54](https://news.ycombinator.com/item?id=45000546) - [Not so prompt: Prompt optimization as model selection (2024)](https://www.gojiberries.io/not-so-prompt-prompt-optimization-as-model-selection/)
 * [2025-08-24, 01:09:06](https://news.ycombinator.com/item?id=45000400) - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
