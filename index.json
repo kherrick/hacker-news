@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-08-27, 13:28:45",
+      "https://news.ycombinator.com/item?id=45039397"
+    ],
+    [
+      "Bluesky now platform of choice for science community",
+      "https://arstechnica.com/science/2025/08/more-scientists-choose-bluesky-over-twitter/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 13:19:11",
+      "https://news.ycombinator.com/item?id=45039301"
+    ],
+    [
+      "Implementing Forth in Go and C",
+      "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 13:01:57",
+      "https://news.ycombinator.com/item?id=45039075"
+    ],
+    [
+      "SpaceX's giant Starship Mars rocket nails critical 10th test flight",
+      "https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 12:18:47",
       "https://news.ycombinator.com/item?id=45038653"
     ],
     [
       "Nx compromised: malware uses Claude code CLI to explore the filesystem",
       "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 12:10:21",
+      "https://news.ycombinator.com/item?id=45038565"
+    ],
+    [
+      "ASCIIFlow",
+      "https://asciiflow.com/"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2025-08-26, 14:07:42",
-      "https://news.ycombinator.com/item?id=45026792"
-    ],
-    [
-      "One universal antiviral to rule them all?",
-      "https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 14:01:46",
       "https://news.ycombinator.com/item?id=45026719"
     ],
@@ -181,12 +211,12 @@
   ],
   [
     [
-      "2025-08-26, 10:47:46",
-      "https://news.ycombinator.com/item?id=45024786"
+      "2025-08-26, 08:34:15",
+      "https://news.ycombinator.com/item?id=45023857"
     ],
     [
-      "US Intel",
-      "https://stratechery.com/2025/u-s-intel/"
+      "Object-oriented design patterns in C and kernel development",
+      "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev"
     ]
   ],
   [
@@ -201,22 +231,12 @@
   ],
   [
     [
-      "2025-08-25, 02:53:35",
-      "https://news.ycombinator.com/item?id=45009760"
+      "2025-08-25, 18:04:54",
+      "https://news.ycombinator.com/item?id=45016826"
     ],
     [
-      "Japan has opened its first osmotic power plant",
-      "https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 20:34:49",
-      "https://news.ycombinator.com/item?id=45007525"
-    ],
-    [
-      "Reverse Engineered Raspberry Pi Compute Module 5",
-      "https://github.com/schlae/cm5-reveng"
+      "First absolute superconducting switch developed in a magnetic device",
+      "https://phys.org/news/2025-08-absolute-superconducting-magnetic-device.html"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Molluscs of the Multiverse: molluscan diversity in Magic: The Gathering",
       "https://jgeekstudies.org/2025/08/24/molluscs-of-the-multiverse-molluscan-diversity-in-magic-the-gathering/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 09:12:14",
-      "https://news.ycombinator.com/item?id=45002688"
-    ],
-    [
-      "Neuralink 'Participant 1' says his life has changed",
-      "https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 19:05:31",
-      "https://news.ycombinator.com/item?id=44998276"
-    ],
-    [
-      "Bypass PostgreSQL catalog overhead with direct partition hash calculations",
-      "https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/"
     ]
   ],
   [
