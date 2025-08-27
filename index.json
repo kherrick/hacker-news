@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-08-27, 12:18:47",
-      "https://news.ycombinator.com/item?id=45038653"
-    ],
-    [
-      "Nx compromised: malware uses Claude code CLI to explore the filesystem",
-      "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 12:10:21",
       "https://news.ycombinator.com/item?id=45038565"
     ],
@@ -217,6 +207,16 @@
     [
       "The Therac-25 Incident (2021)",
       "https://thedailywtf.com/articles/the-therac-25-incident"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 01:44:16",
+      "https://news.ycombinator.com/item?id=45034537"
+    ],
+    [
+      "Dissecting the Apple M1 GPU, the end",
+      "https://rosenzweig.io/blog/asahi-gpu-part-n.html"
     ]
   ],
   [
