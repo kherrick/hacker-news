@@ -23,13 +23,13 @@
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
 * [2025-08-25, 12:39:46](https://news.ycombinator.com/item?id=45013199) - [Connecting M.2 drives to various things (and not doing so)](https://utcc.utoronto.ca/~cks/space/blog/tech/M2ToVariousThings)
 * [2025-08-25, 02:53:35](https://news.ycombinator.com/item?id=45009760) - [Japan has opened its first osmotic power plant](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
+* [2025-08-24, 20:34:49](https://news.ycombinator.com/item?id=45007525) - [Reverse Engineered Raspberry Pi Compute Module 5](https://github.com/schlae/cm5-reveng)
 * [2025-08-24, 17:54:47](https://news.ycombinator.com/item?id=45006229) - [Chinese astronauts make rocket fuel and oxygen in space](https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis)
 * [2025-08-24, 09:12:14](https://news.ycombinator.com/item?id=45002688) - [Neuralink 'Participant 1' says his life has changed](https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/)
 * [2025-08-24, 00:09:57](https://news.ycombinator.com/item?id=45000142) - [Integer continued fractions for complex numbers](https://arxiv.org/abs/2508.15078)
 * [2025-08-23, 15:24:02](https://news.ycombinator.com/item?id=44996641) - [Cascata delle Marmore](https://en.wikipedia.org/wiki/Cascata_delle_Marmore)
 * [2025-08-23, 13:32:36](https://news.ycombinator.com/item?id=44995865) - [Light pollution prolongs avian activity](https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257)
 * [2025-08-23, 09:07:38](https://news.ycombinator.com/item?id=44994535) - [SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy)
-* [2025-08-23, 08:19:23](https://news.ycombinator.com/item?id=44994303) - [How to store weather forecast data for fast time-series APIs (2022)](https://openmeteo.substack.com/p/how-to-store-weather-forecast-data)
 
 ## [Archives](archives/index.md)
 
