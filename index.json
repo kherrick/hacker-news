@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-08-27, 11:38:42",
-      "https://news.ycombinator.com/item?id=45038261"
+      "2025-08-27, 12:34:20",
+      "https://news.ycombinator.com/item?id=45038783"
     ],
     [
-      "F-35 pilot held 50-minute airborne conference call with engineers before crash",
-      "https://www.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml"
+      "I Spent over $31,900 on Whiteout Survival – Here's Why I Regret It",
+      "https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 12:18:47",
+      "https://news.ycombinator.com/item?id=45038653"
+    ],
+    [
+      "Nx compromised: malware uses Claude code CLI to explore the filesystem",
+      "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 12:00:18",
+      "https://news.ycombinator.com/item?id=45038463"
+    ],
+    [
+      "Ember (YC F24) Is Hiring Full Stack Engineer",
+      "https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 11:38:35",
+      "https://news.ycombinator.com/item?id=45038260"
+    ],
+    [
+      "How to Slow Down a Program? and Why It Can Be Useful",
+      "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45036294"
     ],
     [
-      "The Therac-25 Incident",
+      "The Therac-25 Incident (2021)",
       "https://thedailywtf.com/articles/the-therac-25-incident"
     ]
   ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-08-26, 21:00:46",
-      "https://news.ycombinator.com/item?id=45032276"
-    ],
-    [
-      "LiteLLM (YC W23) is hiring a back end engineer",
-      "https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 20:06:29",
       "https://news.ycombinator.com/item?id=45031673"
     ],
@@ -117,16 +137,6 @@
     [
       "Claude for Chrome",
       "https://www.anthropic.com/news/claude-for-chrome"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 17:36:57",
-      "https://news.ycombinator.com/item?id=45029764"
-    ],
-    [
-      "Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment",
-      "https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific"
     ]
   ],
   [
@@ -177,26 +187,6 @@
     [
       "Rv, a new kind of Ruby management tool",
       "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 22:05:34",
-      "https://news.ycombinator.com/item?id=45019671"
-    ],
-    [
-      "iOS 18.6.1 0-click RCE POC",
-      "https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 13:17:40",
-      "https://news.ycombinator.com/item?id=45013535"
-    ],
-    [
-      "The McPhee method for writing deeply reported nonfiction",
-      "https://jsomers.net/blog/the-mcphee-method"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Bypass PostgreSQL catalog overhead with direct partition hash calculations",
       "https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 14:54:03",
+      "https://news.ycombinator.com/item?id=44996432"
+    ],
+    [
+      "Delphi in the Age of AI",
+      "https://learndelphi.org/delphi-ai-ultimate-guide/"
     ]
   ],
   [
