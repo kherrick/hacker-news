@@ -2,7 +2,6 @@
 
 * [2025-08-27, 02:54:07](https://news.ycombinator.com/item?id=45034957) - [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
 * [2025-08-27, 01:44:16](https://news.ycombinator.com/item?id=45034537) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
-* [2025-08-27, 01:10:56](https://news.ycombinator.com/item?id=45034303) - [Game theory at work: When to talk and when to shut up (2024)](https://swaits.com/game-theory-at-work-and-when-to-shutup/)
 * [2025-08-26, 23:22:14](https://news.ycombinator.com/item?id=45033563) - [Starship's Tenth Flight Test](https://www.spacex.com/)
 * [2025-08-26, 21:08:34](https://news.ycombinator.com/item?id=45032360) - [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
 * [2025-08-26, 21:00:46](https://news.ycombinator.com/item?id=45032276) - [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
@@ -13,6 +12,7 @@
 * [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
 * [2025-08-26, 16:57:44](https://news.ycombinator.com/item?id=45029241) - [Undisclosed financial conflicts of interest in DSM-5 (2024)](https://www.bmj.com/content/384/bmj-2023-076902)
+* [2025-08-26, 16:27:51](https://news.ycombinator.com/item?id=45028785) - [Proposal to Ban Ghost Jobs](https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html)
 * [2025-08-26, 15:34:55](https://news.ycombinator.com/item?id=45028002) - [Show HN: A zoomable, searchable archive of BYTE magazine](https://byte.tsundoku.io)
 * [2025-08-26, 14:07:42](https://news.ycombinator.com/item?id=45026792) - [One universal antiviral to rule them all?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
 * [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
