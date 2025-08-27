@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 15:56:40](https://news.ycombinator.com/item?id=45041397) - [Kiwi.com releases the first commercial Flight Search MCP server](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)
+* [2025-08-27, 15:50:54](https://news.ycombinator.com/item?id=45041315) - [VIMMaster](https://github.com/renzorlive/vimmaster)
+* [2025-08-27, 15:48:07](https://news.ycombinator.com/item?id=45041286) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
+* [2025-08-27, 15:18:29](https://news.ycombinator.com/item?id=45040905) - [We Rebuilt Cloud Life's Infrastructure Delivery with System Initiative](https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative)
+* [2025-08-27, 15:16:18](https://news.ycombinator.com/item?id=45040875) - [Efficient Array Programming](https://github.com/razetime/efficient-array-programming)
 * [2025-08-27, 14:42:14](https://news.ycombinator.com/item?id=45040404) - [Show HN: React Web Camera – Fix <input type=file> single-photo limit](https://shivantra.com/react-web-camera/)
 * [2025-08-27, 14:37:21](https://news.ycombinator.com/item?id=45040338) - [AI Bubble 2027](https://www.wheresyoured.at/ai-bubble-2027/)
 * [2025-08-27, 14:17:22](https://news.ycombinator.com/item?id=45040076) - [Why Aren't People Going to Local and Regional In-Person Events Anymore?](https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/)
