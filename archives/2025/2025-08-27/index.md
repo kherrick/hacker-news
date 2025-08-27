@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 18:25:27](https://news.ycombinator.com/item?id=45043164) - [House to investigate Wikipedia over allegations of organized bias](https://thehill.com/homenews/house/5473331-wikipedia-bias-probe-republicans/)
 * [2025-08-27, 17:40:08](https://news.ycombinator.com/item?id=45042611) - [Astrophysicists find no 'hair' on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
 * [2025-08-27, 17:28:20](https://news.ycombinator.com/item?id=45042461) - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
 * [2025-08-27, 17:01:06](https://news.ycombinator.com/item?id=45042175) - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
@@ -27,6 +28,7 @@
 * [2025-08-27, 13:13:23](https://news.ycombinator.com/item?id=45039228) - [A vibe-coding tool for serious developers](https://appjet.ai)
 * [2025-08-27, 13:01:57](https://news.ycombinator.com/item?id=45039075) - [SpaceX's giant Starship Mars rocket nails critical 10th test flight](https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video)
 * [2025-08-27, 12:34:20](https://news.ycombinator.com/item?id=45038783) - [I Spent over $31,900 on Whiteout Survival – Here's Why I Regret It](https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/)
+* [2025-08-27, 12:25:38](https://news.ycombinator.com/item?id=45038710) - [Bring Your Own Agent to Zed – Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed)
 * [2025-08-27, 12:18:47](https://news.ycombinator.com/item?id=45038653) - [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
 * [2025-08-27, 12:10:21](https://news.ycombinator.com/item?id=45038565) - [ASCIIFlow](https://asciiflow.com/)
 * [2025-08-27, 12:00:18](https://news.ycombinator.com/item?id=45038463) - [Ember (YC F24) Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026)
