@@ -18,6 +18,7 @@
 * [2025-08-26, 10:47:46](https://news.ycombinator.com/item?id=45024786) - [US Intel](https://stratechery.com/2025/u-s-intel/)
 * [2025-08-26, 08:15:49](https://news.ycombinator.com/item?id=45023730) - [Rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [2025-08-25, 22:05:34](https://news.ycombinator.com/item?id=45019671) - [iOS 18.6.1 0-click RCE POC](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
+* [2025-08-25, 13:21:19](https://news.ycombinator.com/item?id=45013572) - [Show HN: Async – Claude code and Linear and GitHub PRs in one opinionated tool](https://github.com/bkdevs/async-server)
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
 * [2025-08-25, 02:53:35](https://news.ycombinator.com/item?id=45009760) - [Japan has opened its first osmotic power plant](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
 * [2025-08-24, 20:34:49](https://news.ycombinator.com/item?id=45007525) - [Reverse Engineered Raspberry Pi Compute Module 5](https://github.com/schlae/cm5-reveng)
@@ -27,7 +28,6 @@
 * [2025-08-23, 19:39:54](https://news.ycombinator.com/item?id=44998544) - [Culinary arts and Computer Science (2019) [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/food-and-cs.pdf)
 * [2025-08-23, 19:05:31](https://news.ycombinator.com/item?id=44998276) - [Bypass PostgreSQL catalog overhead with direct partition hash calculations](https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/)
 * [2025-08-23, 15:24:02](https://news.ycombinator.com/item?id=44996641) - [Cascata delle Marmore](https://en.wikipedia.org/wiki/Cascata_delle_Marmore)
-* [2025-08-23, 14:00:34](https://news.ycombinator.com/item?id=44996045) - [Retry Loop Retry](https://matklad.github.io/2025/08/23/retry-loop-retry.html)
 * [2025-08-23, 13:32:36](https://news.ycombinator.com/item?id=44995865) - [Light pollution prolongs avian activity](https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257)
 * [2025-08-23, 09:07:38](https://news.ycombinator.com/item?id=44994535) - [SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy)
 
