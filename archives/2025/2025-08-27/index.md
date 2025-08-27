@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 22:29:00](https://news.ycombinator.com/item?id=45046124) - [Asahi Linux Lead Developer Steps Down](https://linuxiac.com/asahi-linux-lead-developer-steps-down/)
 * [2025-08-27, 21:27:13](https://news.ycombinator.com/item?id=45045500) - [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
 * [2025-08-27, 21:25:01](https://news.ycombinator.com/item?id=45045480) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
 * [2025-08-27, 21:16:56](https://news.ycombinator.com/item?id=45045398) - [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
