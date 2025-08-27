@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-27, 06:57:56](https://news.ycombinator.com/item?id=45036294) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2025-08-27, 05:50:24](https://news.ycombinator.com/item?id=45035856) - [Whistleblower says DOGE officials copied Social Security numbers](https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy)
 * [2025-08-27, 05:14:19](https://news.ycombinator.com/item?id=45035699) - [Uncomfortable Questions About Android Developer Verification](https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html)
 * [2025-08-27, 05:11:18](https://news.ycombinator.com/item?id=45035685) - [The man with a Home Computer (1967) [video]](https://www.youtube.com/watch?v=w6Ka42eyudA)
@@ -8,7 +9,6 @@
 * [2025-08-26, 21:00:46](https://news.ycombinator.com/item?id=45032276) - [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
 * [2025-08-26, 20:06:29](https://news.ycombinator.com/item?id=45031673) - [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
 * [2025-08-26, 19:01:56](https://news.ycombinator.com/item?id=45030760) - [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
-* [2025-08-26, 18:57:22](https://news.ycombinator.com/item?id=45030714) - [\"Special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
 * [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
 * [2025-08-26, 16:57:44](https://news.ycombinator.com/item?id=45029241) - [Undisclosed financial conflicts of interest in DSM-5 (2024)](https://www.bmj.com/content/384/bmj-2023-076902)
