@@ -6,7 +6,6 @@
 * [2025-08-27, 20:53:51](https://news.ycombinator.com/item?id=45045116) - [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
 * [2025-08-27, 20:39:48](https://news.ycombinator.com/item?id=45044919) - [Ask HN: GitHub Copilot down?](https://news.ycombinator.com/item?id=45044919)
 * [2025-08-27, 20:03:01](https://news.ycombinator.com/item?id=45044440) - [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
-* [2025-08-27, 19:44:12](https://news.ycombinator.com/item?id=45044168) - [Mapping connections of anti-offshore wind groups and their lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
 * [2025-08-27, 17:28:20](https://news.ycombinator.com/item?id=45042461) - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
 * [2025-08-27, 17:01:06](https://news.ycombinator.com/item?id=45042175) - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
 * [2025-08-27, 16:28:20](https://news.ycombinator.com/item?id=45041807) - [Typepad is shutting down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
@@ -29,6 +28,7 @@
 * [2025-08-24, 17:03:44](https://news.ycombinator.com/item?id=45005823) - ['Rocks as big as cars' are flying down the Dolomites](https://www.bbc.com/future/article/20250819-why-italys-beloved-ancient-monolith-is-falling)
 * [2025-08-24, 03:12:05](https://news.ycombinator.com/item?id=45001005) - [You shouldn't salt a leech that's sucking your blood (2019)](https://www.cbc.ca/news/science/bloodsuckers-1.5361074)
 * [2025-08-24, 02:54:11](https://news.ycombinator.com/item?id=45000904) - [Using information theory to solve Mastermind](https://www.goranssongaspar.com/mastermind)
+* [2025-08-23, 22:31:41](https://news.ycombinator.com/item?id=44999644) - [3D printing a building with 756 windows](https://jero.zone/posts/cbr-building)
 * [2025-08-23, 18:29:05](https://news.ycombinator.com/item?id=44998010) - [Toyota is recycling old EV batteries to help power Mazda's production line](https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line)
 
 ## [Archives](archives/index.md)

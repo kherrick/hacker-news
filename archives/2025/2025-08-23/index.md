@@ -6,6 +6,7 @@
 
 * [2025-08-23, 23:03:42](https://news.ycombinator.com/item?id=44999815) - [Debdelta](https://debdelta.debian.net/)
 * [2025-08-23, 22:53:37](https://news.ycombinator.com/item?id=44999766) - [The problems that accountability can't fix](https://surfingcomplexity.blog/2025/08/23/the-problems-that-accountability-cant-fix/)
+* [2025-08-23, 22:31:41](https://news.ycombinator.com/item?id=44999644) - [3D printing a building with 756 windows](https://jero.zone/posts/cbr-building)
 * [2025-08-23, 21:51:00](https://news.ycombinator.com/item?id=44999419) - [Actually Good Regulations](https://www.actuallygoodregulations.eu/)
 * [2025-08-23, 21:45:06](https://news.ycombinator.com/item?id=44999373) - [Interruptions cost 23 minutes 15 seconds, right?](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
 * [2025-08-23, 21:40:09](https://news.ycombinator.com/item?id=44999350) - [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
