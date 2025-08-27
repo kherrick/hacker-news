@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-27, 12:34:20",
-      "https://news.ycombinator.com/item?id=45038783"
-    ],
-    [
-      "I Spent over $31,900 on Whiteout Survival – Here's Why I Regret It",
-      "https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 12:18:47",
       "https://news.ycombinator.com/item?id=45038653"
     ],
@@ -31,11 +21,21 @@
   ],
   [
     [
+      "2025-08-27, 11:38:42",
+      "https://news.ycombinator.com/item?id=45038261"
+    ],
+    [
+      "F-35 pilot held 50-minute airborne conference call with engineers before crash",
+      "https://www.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 11:38:35",
       "https://news.ycombinator.com/item?id=45038260"
     ],
     [
-      "How to Slow Down a Program? and Why It Can Be Useful",
+      "Slowing down programs is surprisingly useful",
       "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/"
     ]
   ],
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-08-27, 09:43:43",
+      "https://news.ycombinator.com/item?id=45037365"
+    ],
+    [
+      "The GitHub website is slow on Safari",
+      "https://github.com/orgs/community/discussions/170758"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 08:38:58",
       "https://news.ycombinator.com/item?id=45036939"
     ],
@@ -81,22 +91,22 @@
   ],
   [
     [
+      "2025-08-27, 08:04:02",
+      "https://news.ycombinator.com/item?id=45036754"
+    ],
+    [
+      "Malleable Software Will Eat the SaaS World",
+      "https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 06:57:56",
       "https://news.ycombinator.com/item?id=45036294"
     ],
     [
       "The Therac-25 Incident (2021)",
       "https://thedailywtf.com/articles/the-therac-25-incident"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 06:49:23",
-      "https://news.ycombinator.com/item?id=45036231"
-    ],
-    [
-      "Scientist exposes anti-wind groups as oil-funded. Now they want to silence him",
-      "https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/"
     ]
   ],
   [
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2025-08-26, 22:25:06",
+      "https://news.ycombinator.com/item?id=45033114"
+    ],
+    [
+      "The “Wow!” signal was likely from extraterrestrial source, and more powerful",
+      "https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 20:06:29",
       "https://news.ycombinator.com/item?id=45031673"
     ],
@@ -137,16 +157,6 @@
     [
       "Claude for Chrome",
       "https://www.anthropic.com/news/claude-for-chrome"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 14:15:54",
-      "https://news.ycombinator.com/item?id=45026886"
-    ],
-    [
-      "A teen was suicidal. ChatGPT was the friend he confided in",
-      "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Light pollution prolongs avian activity",
       "https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 09:07:38",
-      "https://news.ycombinator.com/item?id=44994535"
-    ],
-    [
-      "SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python",
-      "https://github.com/explosion/spaCy"
     ]
   ]
 ]
