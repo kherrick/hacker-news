@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
+* [2025-08-28, 21:02:28](https://news.ycombinator.com/item?id=45057002) - [There Goes the American Muscle Car](https://thedispatch.com/article/dodge-challenger-muscle-cars/)
+* [2025-08-28, 20:37:11](https://news.ycombinator.com/item?id=45056768) - [Spiped – secure pipe for SSH, SMTP, etc.](https://www.tarsnap.com/spiped.html)
 * [2025-08-28, 20:20:31](https://news.ycombinator.com/item?id=45056613) - [CDC Implosion Continues as Staff Stage Unprecedented Walk Out](https://gizmodo.com/the-cdc-implosion-continues-as-staff-plan-walkout-2000649819)
 * [2025-08-28, 19:38:20](https://news.ycombinator.com/item?id=45056177) - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
 * [2025-08-28, 19:35:22](https://news.ycombinator.com/item?id=45056142) - [RFC 8594: The Sunset HTTP Header Field](https://datatracker.ietf.org/doc/html/rfc8594)
