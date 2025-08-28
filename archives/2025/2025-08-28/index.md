@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 20:20:31](https://news.ycombinator.com/item?id=45056613) - [CDC Implosion Continues as Staff Stage Unprecedented Walk Out](https://gizmodo.com/the-cdc-implosion-continues-as-staff-plan-walkout-2000649819)
 * [2025-08-28, 19:38:20](https://news.ycombinator.com/item?id=45056177) - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
+* [2025-08-28, 19:35:22](https://news.ycombinator.com/item?id=45056142) - [RFC 8594: The Sunset HTTP Header Field](https://datatracker.ietf.org/doc/html/rfc8594)
 * [2025-08-28, 19:29:32](https://news.ycombinator.com/item?id=45056079) - [Engineers send quantum signals with standard Internet Protocol](https://phys.org/news/2025-08-quantum-standard-internet-protocol.html)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
 * [2025-08-28, 18:35:46](https://news.ycombinator.com/item?id=45055452) - [Web Bot Auth](https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/)
