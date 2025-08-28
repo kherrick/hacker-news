@@ -65,6 +65,7 @@
 * [2025-08-25, 12:04:45](https://news.ycombinator.com/item?id=45012942) - [Standard Thermal: Energy Storage 500x Cheaper Than Batteries](https://austinvernon.site/blog/standardthermal.html)
 * [2025-08-25, 12:03:30](https://news.ycombinator.com/item?id=45012931) - [The Size of Adobe Reader Installers Through the Years](https://sigwait.org/~alex/blog/2025/08/25/zw6z4E.html)
 * [2025-08-25, 11:42:14](https://news.ycombinator.com/item?id=45012776) - [Show HN: Diggit.dev – Git history for architecture archaeologists](https://diggit.dev)
+* [2025-08-25, 11:23:08](https://news.ycombinator.com/item?id=45012639) - [Pausing Insect Activity](https://www.asimov.press/p/insect-diapause)
 * [2025-08-25, 11:22:56](https://news.ycombinator.com/item?id=45012635) - [Linear Scan with Lifetime Holes](https://bernsteinbear.com/blog/linear-scan-lifetime-holes/)
 * [2025-08-25, 11:20:38](https://news.ycombinator.com/item?id=45012615) - [Teletext in North America](https://computer.rip/2025-08-25-teletext-in-north-america.html)
 * [2025-08-25, 11:05:38](https://news.ycombinator.com/item?id=45012548) - [Prediction-Encoded Pixels image format](https://github.com/ENDESGA/PEP)
