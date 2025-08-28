@@ -12,6 +12,7 @@
 * [2025-08-25, 21:52:36](https://news.ycombinator.com/item?id=45019513) - [How the Richest People in America Avoid Paying Taxes](https://www.theatlantic.com/economy/archive/2025/08/billionaire-tax-study/683987/)
 * [2025-08-25, 21:50:41](https://news.ycombinator.com/item?id=45019483) - [Ask HN: Why hasn't x86 caught up with Apple M series?](https://news.ycombinator.com/item?id=45019483)
 * [2025-08-25, 20:59:22](https://news.ycombinator.com/item?id=45018933) - [Hairy Ball Theorem [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
+* [2025-08-25, 20:54:42](https://news.ycombinator.com/item?id=45018869) - [Like Intel before it, AMD blames motherboard makers for burnt-out CPUs](https://arstechnica.com/gadgets/2025/08/like-intel-before-it-amd-blames-motherboard-makers-for-burnt-out-cpus/)
 * [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Social media's next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
 * [2025-08-25, 20:40:39](https://news.ycombinator.com/item?id=45018708) - [Llama Fund: Crowdfund AI Models](https://llama.fund)
 * [2025-08-25, 20:40:04](https://news.ycombinator.com/item?id=45018701) - [Make the Easy Change Hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)

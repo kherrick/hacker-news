@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 12:00:48](https://news.ycombinator.com/item?id=45051096) - [Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
+* [2025-08-28, 11:42:35](https://news.ycombinator.com/item?id=45050958) - [The Math Behind GANs](https://jaketae.github.io/study/gan-math/)
+* [2025-08-28, 11:38:44](https://news.ycombinator.com/item?id=45050931) - [The Most Important Machine Learning Equations: A Comprehensive Guide](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/)
 * [2025-08-28, 10:39:08](https://news.ycombinator.com/item?id=45050538) - [Fossjobs: A job board for Free and Open Source jobs](https://www.fossjobs.net/)
+* [2025-08-28, 10:32:51](https://news.ycombinator.com/item?id=45050502) - [Petition to stop Google from restricting sideloading and FOSS apps](https://news.ycombinator.com/item?id=45050502)
 * [2025-08-28, 10:17:59](https://news.ycombinator.com/item?id=45050428) - [OpenRouter is down](https://status.openrouter.ai)
 * [2025-08-28, 09:31:13](https://news.ycombinator.com/item?id=45050192) - [Windows 11 Update KB5063878 Causing SSD Failures](https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/)
+* [2025-08-28, 09:16:17](https://news.ycombinator.com/item?id=45050090) - [Claude Code Checkpoints](https://claude-checkpoints.com/)
 * [2025-08-28, 08:20:35](https://news.ycombinator.com/item?id=45049757) - [The Forecasting Company (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)
 * [2025-08-28, 07:08:05](https://news.ycombinator.com/item?id=45049320) - [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)
 * [2025-08-28, 06:58:55](https://news.ycombinator.com/item?id=45049265) - [AGI Overhyped?](https://news.ycombinator.com/item?id=45049265)
