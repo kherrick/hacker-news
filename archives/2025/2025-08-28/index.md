@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 16:21:53](https://news.ycombinator.com/item?id=45054037) - [American military service members deserve the right to repair](https://www.militarytimes.com/opinion/2025/07/11/why-service-members-deserve-the-right-to-repair/)
 * [2025-08-28, 16:05:13](https://news.ycombinator.com/item?id=45053872) - [PinePhone Pro [GNU/Linux smartphone] has been discontinued](https://social.treehouse.systems/@pine64/115027515081143369)
+* [2025-08-28, 15:55:49](https://news.ycombinator.com/item?id=45053771) - [China Is Eating the World](https://apropos.substack.com/p/china-is-eating-the-world)
+* [2025-08-28, 15:30:52](https://news.ycombinator.com/item?id=45053462) - [Optimising for maintainability – Gleam in production at Strand](https://gleam.run/case-studies/strand/)
 * [2025-08-28, 15:14:03](https://news.ycombinator.com/item?id=45053234) - [Anything can be a message queue if you use it wrongly enough (2023)](https://xeiaso.net/blog/anything-message-queue)
 * [2025-08-28, 14:59:14](https://news.ycombinator.com/item?id=45053040) - [Mosh (Mobile Shell)](https://mosh.org)
+* [2025-08-28, 14:40:58](https://news.ycombinator.com/item?id=45052784) - [Will AI Replace Human Thinking? The Case for Writing and Coding Manually](https://www.ssp.sh/brain/will-ai-replace-humans/)
 * [2025-08-28, 14:14:17](https://news.ycombinator.com/item?id=45052429) - [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
 * [2025-08-28, 14:13:44](https://news.ycombinator.com/item?id=45052423) - [AI adoption linked to 13% decline in jobs for young U.S. workers, Stanford study](https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html)
 * [2025-08-28, 14:12:21](https://news.ycombinator.com/item?id=45052407) - [Google Debuts Device-Bound Session Credentials Against Session Hijacking](https://www.feistyduck.com/newsletter/issue_128_google_debuts_device_bound_session_credentials_against_session_hijacking)
