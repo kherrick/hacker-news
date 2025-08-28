@@ -8,6 +8,7 @@
 * [2025-08-28, 16:22:02](https://news.ycombinator.com/item?id=45054040) - [Launch HN: Dedalus Labs (YC S25) – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
 * [2025-08-28, 16:21:53](https://news.ycombinator.com/item?id=45054037) - [American military service members deserve the right to repair](https://www.militarytimes.com/opinion/2025/07/11/why-service-members-deserve-the-right-to-repair/)
 * [2025-08-28, 16:05:13](https://news.ycombinator.com/item?id=45053872) - [PinePhone Pro [GNU/Linux smartphone] has been discontinued](https://social.treehouse.systems/@pine64/115027515081143369)
+* [2025-08-28, 15:59:11](https://news.ycombinator.com/item?id=45053806) - [Updates to Consumer Terms and Privacy Policy](https://www.anthropic.com/news/updates-to-our-consumer-terms)
 * [2025-08-28, 15:55:49](https://news.ycombinator.com/item?id=45053771) - [China Is Eating the World](https://apropos.substack.com/p/china-is-eating-the-world)
 * [2025-08-28, 15:30:52](https://news.ycombinator.com/item?id=45053462) - [Optimising for maintainability – Gleam in production at Strand](https://gleam.run/case-studies/strand/)
 * [2025-08-28, 15:14:03](https://news.ycombinator.com/item?id=45053234) - [Anything can be a message queue if you use it wrongly enough (2023)](https://xeiaso.net/blog/anything-message-queue)

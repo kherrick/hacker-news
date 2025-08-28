@@ -22,6 +22,7 @@
 * [2025-08-25, 20:17:44](https://news.ycombinator.com/item?id=45018474) - [Reading for pleasure plummets by 40% in the US](https://medicalxpress.com/news/2025-08-pleasure-plummets.html)
 * [2025-08-25, 20:05:14](https://news.ycombinator.com/item?id=45018343) - [Google to require developer verification for Android apps outside the Play Store](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
 * [2025-08-25, 19:44:01](https://news.ycombinator.com/item?id=45018113) - [Show HN: Gonzo – A Go-based TUI for log analysis (OpenTelemetry/OTLP support)](https://github.com/control-theory/gonzo)
+* [2025-08-25, 19:42:17](https://news.ycombinator.com/item?id=45018089) - [The Lobster Programming Language](https://www.strlen.com/lobster/)
 * [2025-08-25, 19:41:51](https://news.ycombinator.com/item?id=45018081) - [Fenster: Most minimal cross-platform GUI library](https://github.com/zserge/fenster)
 * [2025-08-25, 19:35:35](https://news.ycombinator.com/item?id=45018008) - [Anonymous structavaganza in Zig](https://lirk.top/blog/structs)
 * [2025-08-25, 19:33:13](https://news.ycombinator.com/item?id=45017969) - [Meta just suspended the Facebook account of Neal Stephenson](https://twitter.com/nealstephenson/status/1959759051732213812)
