@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-28, 19:29:32](https://news.ycombinator.com/item?id=45056079) - [Engineers send quantum signals with standard Internet Protocol](https://phys.org/news/2025-08-quantum-standard-internet-protocol.html)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
 * [2025-08-28, 18:34:29](https://news.ycombinator.com/item?id=45055439) - [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
 * [2025-08-28, 18:25:39](https://news.ycombinator.com/item?id=45055335) - [VLT observations of interstellar comet 3I/ATLAS II](https://arxiv.org/abs/2508.18382)
 * [2025-08-28, 17:22:54](https://news.ycombinator.com/item?id=45054703) - [Uncertain<T>](https://nshipster.com/uncertainty/)
 * [2025-08-28, 16:43:05](https://news.ycombinator.com/item?id=45054260) - [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
-* [2025-08-28, 16:31:23](https://news.ycombinator.com/item?id=45054138) - [Colleges see significant drop in international students as fall semester begins](https://text.npr.org/nx-s1-5498669)
 * [2025-08-28, 16:22:02](https://news.ycombinator.com/item?id=45054040) - [Launch HN: Dedalus Labs (YC S25) – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
 * [2025-08-28, 16:21:53](https://news.ycombinator.com/item?id=45054037) - [Service members deserve the right to repair](https://www.militarytimes.com/opinion/2025/07/11/why-service-members-deserve-the-right-to-repair/)
 * [2025-08-28, 16:05:13](https://news.ycombinator.com/item?id=45053872) - [PinePhone Pro [GNU/Linux smartphone] has been discontinued](https://social.treehouse.systems/@pine64/115027515081143369)
@@ -29,7 +29,7 @@
 * [2025-08-25, 19:42:17](https://news.ycombinator.com/item?id=45018089) - [The Lobster Programming Language](https://www.strlen.com/lobster/)
 * [2025-08-25, 13:00:15](https://news.ycombinator.com/item?id=45013373) - [Teams Grow Organically](https://frederickvanbrabant.com/blog/2025-08-22-how-teams-grow-organically/)
 * [2025-08-25, 12:22:52](https://news.ycombinator.com/item?id=45013064) - [The Unforgotten](https://www.espn.com/nfl/story/_/id/46012436/football-forever-young-college-high-school-nfl)
-* [2025-08-25, 10:35:24](https://news.ycombinator.com/item?id=45012376) - [iOS Elegantbouncer: When You Can't Get Samples but Still Need to Catch Threats](https://www.msuiche.com/posts/elegantbouncer-when-you-cant-get-the-samples-but-still-need-to-catch-the-threat/)
+* [2025-08-25, 10:35:24](https://news.ycombinator.com/item?id=45012376) - [iOS Elegantbouncer: When you can't get samples but still need to catch threats](https://www.msuiche.com/posts/elegantbouncer-when-you-cant-get-the-samples-but-still-need-to-catch-the-threat/)
 
 ## [Archives](archives/index.md)
 

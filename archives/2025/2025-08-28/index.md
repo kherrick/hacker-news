@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 19:29:32](https://news.ycombinator.com/item?id=45056079) - [Engineers send quantum signals with standard Internet Protocol](https://phys.org/news/2025-08-quantum-standard-internet-protocol.html)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
 * [2025-08-28, 18:34:29](https://news.ycombinator.com/item?id=45055439) - [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
 * [2025-08-28, 18:25:39](https://news.ycombinator.com/item?id=45055335) - [VLT observations of interstellar comet 3I/ATLAS II](https://arxiv.org/abs/2508.18382)
