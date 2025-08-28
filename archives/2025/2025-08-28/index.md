@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 09:31:13](https://news.ycombinator.com/item?id=45050192) - [Windows 11 Update KB5063878 Causing SSD Failures](https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/)
 * [2025-08-28, 08:20:35](https://news.ycombinator.com/item?id=45049757) - [The Forecasting Company (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)
 * [2025-08-28, 07:08:05](https://news.ycombinator.com/item?id=45049320) - [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)
 * [2025-08-28, 06:58:55](https://news.ycombinator.com/item?id=45049265) - [AGI Overhyped?](https://news.ycombinator.com/item?id=45049265)
