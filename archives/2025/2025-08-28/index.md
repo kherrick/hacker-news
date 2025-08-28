@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 12:10:14](https://news.ycombinator.com/item?id=45051188) - [Rendering an ASCII game in real-time with AI (100ms latency)](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
 * [2025-08-28, 12:00:48](https://news.ycombinator.com/item?id=45051096) - [Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
 * [2025-08-28, 11:42:35](https://news.ycombinator.com/item?id=45050958) - [The Math Behind GANs](https://jaketae.github.io/study/gan-math/)
 * [2025-08-28, 11:38:44](https://news.ycombinator.com/item?id=45050931) - [The Most Important Machine Learning Equations: A Comprehensive Guide](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/)
