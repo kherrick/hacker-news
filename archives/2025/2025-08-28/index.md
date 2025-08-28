@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 08:20:35](https://news.ycombinator.com/item?id=45049757) - [The Forecasting Company (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)
 * [2025-08-28, 07:08:05](https://news.ycombinator.com/item?id=45049320) - [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)
 * [2025-08-28, 06:58:55](https://news.ycombinator.com/item?id=45049265) - [AGI Overhyped?](https://news.ycombinator.com/item?id=45049265)
 * [2025-08-28, 05:30:23](https://news.ycombinator.com/item?id=45048736) - [Lesser known mobile adtech domains where data is sent](https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/)

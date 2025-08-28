@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-28, 07:08:05](https://news.ycombinator.com/item?id=45049320) - [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)
+* [2025-08-28, 08:20:35](https://news.ycombinator.com/item?id=45049757) - [The Forecasting Company (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)
 * [2025-08-28, 05:30:23](https://news.ycombinator.com/item?id=45048736) - [Lesser known mobile adtech domains where data is sent](https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/)
 * [2025-08-28, 04:47:01](https://news.ycombinator.com/item?id=45048473) - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
 * [2025-08-28, 04:37:12](https://news.ycombinator.com/item?id=45048419) - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
@@ -25,7 +25,7 @@
 * [2025-08-25, 17:46:15](https://news.ycombinator.com/item?id=45016579) - [Will Bardenwerper on Baseball's Betrayal of Its Minor League Roots](https://lithub.com/will-bardenwerper-on-baseballs-betrayal-of-its-minor-league-roots/)
 * [2025-08-25, 12:11:38](https://news.ycombinator.com/item?id=45012995) - [Areal, Are.na's new typeface](https://www.are.na/editorial/introducing-areal-are-nas-new-typeface)
 * [2025-08-25, 11:05:38](https://news.ycombinator.com/item?id=45012548) - [Prediction-Encoded Pixels image format](https://github.com/ENDESGA/PEP)
-* [2025-08-25, 08:43:55](https://news.ycombinator.com/item?id=45011679) - [What is this? The case for continually questioning our online experience](https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/)
+* [2025-08-25, 08:43:55](https://news.ycombinator.com/item?id=45011679) - [What is this? The case for continually questioning our online experience (2021)](https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the screen, Libyans learned about everything but themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
 * [2025-08-25, 02:28:14](https://news.ycombinator.com/item?id=45009629) - [Leeches and the Legitimizing of Folk-Medicine](https://www.asimov.press/p/leeches)
 * [2025-08-24, 22:35:23](https://news.ycombinator.com/item?id=45008434) - [Nvidia DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
