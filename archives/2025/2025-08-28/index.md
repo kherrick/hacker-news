@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 10:39:08](https://news.ycombinator.com/item?id=45050538) - [Fossjobs: A job board for Free and Open Source jobs](https://www.fossjobs.net/)
 * [2025-08-28, 10:17:59](https://news.ycombinator.com/item?id=45050428) - [OpenRouter is down](https://status.openrouter.ai)
 * [2025-08-28, 09:31:13](https://news.ycombinator.com/item?id=45050192) - [Windows 11 Update KB5063878 Causing SSD Failures](https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/)
 * [2025-08-28, 08:20:35](https://news.ycombinator.com/item?id=45049757) - [The Forecasting Company (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)

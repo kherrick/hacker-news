@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-28, 10:39:08](https://news.ycombinator.com/item?id=45050538) - [Fossjobs: A job board for Free and Open Source jobs](https://www.fossjobs.net/)
 * [2025-08-28, 10:17:59](https://news.ycombinator.com/item?id=45050428) - [OpenRouter is down](https://status.openrouter.ai)
 * [2025-08-28, 09:31:13](https://news.ycombinator.com/item?id=45050192) - [Windows 11 Update KB5063878 Causing SSD Failures](https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/)
 * [2025-08-28, 08:20:35](https://news.ycombinator.com/item?id=45049757) - [The Forecasting Company (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)
@@ -7,8 +8,6 @@
 * [2025-08-28, 04:47:01](https://news.ycombinator.com/item?id=45048473) - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
 * [2025-08-28, 04:37:12](https://news.ycombinator.com/item?id=45048419) - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 * [2025-08-28, 03:05:42](https://news.ycombinator.com/item?id=45047897) - [Certificates for Onion Services](https://onionservices.torproject.org/research/proposals/usability/certificates/)
-* [2025-08-28, 02:28:19](https://news.ycombinator.com/item?id=45047659) - [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
-* [2025-08-28, 02:12:23](https://news.ycombinator.com/item?id=45047572) - [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/soulim/bookmarks.txt)
 * [2025-08-28, 01:54:59](https://news.ycombinator.com/item?id=45047460) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
 * [2025-08-28, 00:22:24](https://news.ycombinator.com/item?id=45046916) - [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
 * [2025-08-27, 21:27:13](https://news.ycombinator.com/item?id=45045500) - [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
@@ -22,6 +21,7 @@
 * [2025-08-27, 09:43:43](https://news.ycombinator.com/item?id=45037365) - [The GitHub website is slow on Safari](https://github.com/orgs/community/discussions/170758)
 * [2025-08-27, 01:38:48](https://news.ycombinator.com/item?id=45034496) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 * [2025-08-26, 08:34:15](https://news.ycombinator.com/item?id=45023857) - [Object-oriented design patterns in C and kernel development](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
+* [2025-08-25, 14:31:50](https://news.ycombinator.com/item?id=45014275) - [What Is Synthetic Gasoline?](https://iere.org/what-is-synthetic-gasoline/)
 * [2025-08-25, 12:11:38](https://news.ycombinator.com/item?id=45012995) - [Areal, Are.na's new typeface](https://www.are.na/editorial/introducing-areal-are-nas-new-typeface)
 * [2025-08-25, 11:23:08](https://news.ycombinator.com/item?id=45012639) - [Pausing Insect Activity](https://www.asimov.press/p/insect-diapause)
 * [2025-08-25, 11:05:38](https://news.ycombinator.com/item?id=45012548) - [Prediction-Encoded Pixels image format](https://github.com/ENDESGA/PEP)
