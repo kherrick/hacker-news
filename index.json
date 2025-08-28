@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-08-28, 19:29:32",
-      "https://news.ycombinator.com/item?id=45056079"
+      "2025-08-28, 19:38:20",
+      "https://news.ycombinator.com/item?id=45056177"
     ],
     [
-      "Engineers send quantum signals with standard Internet Protocol",
-      "https://phys.org/news/2025-08-quantum-standard-internet-protocol.html"
+      "My startup banking story (2023)",
+      "https://mitchellh.com/writing/my-startup-banking-story"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Some thoughts on LLMs and software development",
       "https://martinfowler.com/articles/202508-ai-thoughts.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 18:35:46",
+      "https://news.ycombinator.com/item?id=45055452"
+    ],
+    [
+      "Web Bot Auth",
+      "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/"
     ]
   ],
   [
@@ -91,26 +101,6 @@
   ],
   [
     [
-      "2025-08-28, 15:55:49",
-      "https://news.ycombinator.com/item?id=45053771"
-    ],
-    [
-      "China is eating the world",
-      "https://apropos.substack.com/p/china-is-eating-the-world"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 15:38:07",
-      "https://news.ycombinator.com/item?id=45053553"
-    ],
-    [
-      "Show HN: Grammit – Local-only AI grammar checker (Chrome extension)",
-      "https://chromewebstore.google.com/detail/grammit-the-ai-grammar-ch/pkfmoknmnkbidlniedaloiijibdpjjmm"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 15:30:52",
       "https://news.ycombinator.com/item?id=45053462"
     ],
@@ -121,32 +111,32 @@
   ],
   [
     [
-      "2025-08-28, 15:14:03",
-      "https://news.ycombinator.com/item?id=45053234"
+      "2025-08-28, 14:13:44",
+      "https://news.ycombinator.com/item?id=45052423"
     ],
     [
-      "Anything can be a message queue if you use it wrongly enough (2023)",
-      "https://xeiaso.net/blog/anything-message-queue"
+      "AI adoption linked to 13% decline in jobs for young U.S. workers: study",
+      "https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html"
     ]
   ],
   [
     [
-      "2025-08-28, 14:59:14",
-      "https://news.ycombinator.com/item?id=45053040"
+      "2025-08-28, 13:51:51",
+      "https://news.ycombinator.com/item?id=45052200"
     ],
     [
-      "Mosh Mobile Shell",
-      "https://mosh.org"
+      "Show HN: SwiftAI – open-source library to easily build LLM features on iOS/macOS",
+      "https://github.com/mi12labs/SwiftAI"
     ]
   ],
   [
     [
-      "2025-08-28, 14:14:17",
-      "https://news.ycombinator.com/item?id=45052429"
+      "2025-08-28, 13:17:15",
+      "https://news.ycombinator.com/item?id=45051798"
     ],
     [
-      "How to install TrueNAS on a Raspberry Pi",
-      "https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi"
+      "The sisters \"paradox\" – counter-intuitive probability",
+      "https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html"
     ]
   ],
   [
@@ -157,6 +147,26 @@
     [
       "GPU Prefix Sums: A nearly complete collection",
       "https://github.com/b0nes164/GPUPrefixSums"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 12:31:15",
+      "https://news.ycombinator.com/item?id=45051361"
+    ],
+    [
+      "That boolean should probably be something else",
+      "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 12:29:15",
+      "https://news.ycombinator.com/item?id=45051345"
+    ],
+    [
+      "Group Borrowing: Zero-cost memory safety with fewer restrictions",
+      "https://verdagon.dev/blog/group-borrowing"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Charting Form Ds to roughly see the state of venture capital “fund” raising",
       "https://tj401.com/blog/formd/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 11:42:35",
-      "https://news.ycombinator.com/item?id=45050958"
-    ],
-    [
-      "The Math Behind GANs (2020)",
-      "https://jaketae.github.io/study/gan-math/"
     ]
   ],
   [
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2025-08-28, 04:37:12",
-      "https://news.ycombinator.com/item?id=45048419"
+      "2025-08-27, 16:34:31",
+      "https://news.ycombinator.com/item?id=45041879"
     ],
     [
-      "The Deletion of Docker.io/Bitnami",
-      "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 01:54:59",
-      "https://news.ycombinator.com/item?id=45047460"
-    ],
-    [
-      "Open Source is one person",
-      "https://opensourcesecurity.io/2025/08-oss-one-person/"
+      "A forgotten medieval fruit with a vulgar name (2021)",
+      "https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Das Problem mit German Strings",
       "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 14:30:50",
+      "https://news.ycombinator.com/item?id=45027072"
+    ],
+    [
+      "In Search of AI Psychosis",
+      "https://www.astralcodexten.com/p/in-search-of-ai-psychosis"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-25, 10:35:24",
-      "https://news.ycombinator.com/item?id=45012376"
+      "2025-08-25, 06:28:18",
+      "https://news.ycombinator.com/item?id=45010846"
     ],
     [
-      "iOS Elegantbouncer: When you can't get samples but still need to catch threats",
-      "https://www.msuiche.com/posts/elegantbouncer-when-you-cant-get-the-samples-but-still-need-to-catch-the-threat/"
+      "Buypass discontinues issuance of TLS/SSL certificates",
+      "https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates"
     ]
   ]
 ]
