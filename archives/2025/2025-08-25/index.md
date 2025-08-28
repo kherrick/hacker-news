@@ -72,6 +72,7 @@
 * [2025-08-25, 10:42:01](https://news.ycombinator.com/item?id=45012414) - [Memory optimizations to reduce CPU costs](https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs)
 * [2025-08-25, 10:03:53](https://news.ycombinator.com/item?id=45012191) - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
 * [2025-08-25, 09:42:10](https://news.ycombinator.com/item?id=45012035) - [The Physics of Parabolic Microphones: Frequency Dependence of Gain](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
+* [2025-08-25, 09:03:27](https://news.ycombinator.com/item?id=45011802) - [Partner with Product to pay down technical debt](https://dev.jimgrey.net/2025/08/19/unlocking-high-software-engineering-pace-partner-with-product-to-pay-down-technical-debt/)
 * [2025-08-25, 09:02:12](https://news.ycombinator.com/item?id=45011793) - [Paying attention to feature distribution alignment (pun intended)](https://alexshtf.github.io/2025/08/19/Orthogonality.html)
 * [2025-08-25, 07:58:56](https://news.ycombinator.com/item?id=45011404) - [About Containers and VMs](https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the Screen, Libyans Learned About Everything but Themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)

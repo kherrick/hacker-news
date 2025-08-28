@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-28, 04:47:01](https://news.ycombinator.com/item?id=45048473) - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
+* [2025-08-28, 04:37:12](https://news.ycombinator.com/item?id=45048419) - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 * [2025-08-28, 02:28:19](https://news.ycombinator.com/item?id=45047659) - [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
 * [2025-08-28, 02:12:23](https://news.ycombinator.com/item?id=45047572) - [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/soulim/bookmarks.txt)
 * [2025-08-28, 00:22:24](https://news.ycombinator.com/item?id=45046916) - [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
@@ -15,7 +17,6 @@
 * [2025-08-27, 15:48:07](https://news.ycombinator.com/item?id=45041286) - [Unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 15:39:33](https://news.ycombinator.com/item?id=45041185) - [Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone](https://news.ycombinator.com/item?id=45041185)
 * [2025-08-27, 13:19:11](https://news.ycombinator.com/item?id=45039301) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
-* [2025-08-27, 11:38:35](https://news.ycombinator.com/item?id=45038260) - [How to slow down a program and why it can be useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
 * [2025-08-27, 09:43:43](https://news.ycombinator.com/item?id=45037365) - [The GitHub website is slow on Safari](https://github.com/orgs/community/discussions/170758)
 * [2025-08-27, 06:57:56](https://news.ycombinator.com/item?id=45036294) - [The Therac-25 Incident (2021)](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2025-08-27, 01:38:48](https://news.ycombinator.com/item?id=45034496) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
@@ -23,11 +24,10 @@
 * [2025-08-25, 19:15:02](https://news.ycombinator.com/item?id=45017770) - [A mini-book on AWS networking](https://www.ducktyped.org/p/a-mini-book-on-aws-networking-introduction)
 * [2025-08-25, 17:46:15](https://news.ycombinator.com/item?id=45016579) - [Will Bardenwerper on Baseball's Betrayal of Its Minor League Roots](https://lithub.com/will-bardenwerper-on-baseballs-betrayal-of-its-minor-league-roots/)
 * [2025-08-25, 12:11:38](https://news.ycombinator.com/item?id=45012995) - [Areal, Are.na's new typeface](https://www.are.na/editorial/introducing-areal-are-nas-new-typeface)
+* [2025-08-25, 09:03:27](https://news.ycombinator.com/item?id=45011802) - [Partner with Product to pay down technical debt](https://dev.jimgrey.net/2025/08/19/unlocking-high-software-engineering-pace-partner-with-product-to-pay-down-technical-debt/)
 * [2025-08-25, 07:58:56](https://news.ycombinator.com/item?id=45011404) - [About Containers and VMs](https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the screen, Libyans learned about everything but themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
 * [2025-08-24, 22:35:23](https://news.ycombinator.com/item?id=45008434) - [Nvidia DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
-* [2025-08-24, 17:03:44](https://news.ycombinator.com/item?id=45005823) - ['Rocks as big as cars' are flying down the Dolomites](https://www.bbc.com/future/article/20250819-why-italys-beloved-ancient-monolith-is-falling)
-* [2025-08-24, 03:12:05](https://news.ycombinator.com/item?id=45001005) - [You shouldn't salt a leech that's sucking your blood (2019)](https://www.cbc.ca/news/science/bloodsuckers-1.5361074)
 * [2025-08-24, 02:54:11](https://news.ycombinator.com/item?id=45000904) - [Using information theory to solve Mastermind](https://www.goranssongaspar.com/mastermind)
 * [2025-08-23, 18:29:05](https://news.ycombinator.com/item?id=44998010) - [Toyota is recycling old EV batteries to help power Mazda's production line](https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line)
 
