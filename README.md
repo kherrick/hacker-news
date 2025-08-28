@@ -27,7 +27,7 @@
 * [2025-08-25, 11:05:38](https://news.ycombinator.com/item?id=45012548) - [Prediction-Encoded Pixels image format](https://github.com/ENDESGA/PEP)
 * [2025-08-25, 08:43:55](https://news.ycombinator.com/item?id=45011679) - [What is this? The case for continually questioning our online experience (2021)](https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the screen, Libyans learned about everything but themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
-* [2025-08-25, 02:28:14](https://news.ycombinator.com/item?id=45009629) - [Leeches and the Legitimizing of Folk-Medicine](https://www.asimov.press/p/leeches)
+* [2025-08-25, 05:08:22](https://news.ycombinator.com/item?id=45010406) - [A Fast Bytecode VM for Arithmetic: The Compiler](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/)
 * [2025-08-24, 22:35:23](https://news.ycombinator.com/item?id=45008434) - [Nvidia DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
 * [2025-08-23, 18:29:05](https://news.ycombinator.com/item?id=44998010) - [Toyota is recycling old EV batteries to help power Mazda's production line](https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line)
 

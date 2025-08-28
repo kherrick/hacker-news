@@ -86,6 +86,7 @@
 * [2025-08-25, 05:30:00](https://news.ycombinator.com/item?id=45010524) - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
 * [2025-08-25, 05:22:15](https://news.ycombinator.com/item?id=45010484) - [Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
 * [2025-08-25, 05:17:44](https://news.ycombinator.com/item?id=45010461) - [Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
+* [2025-08-25, 05:08:22](https://news.ycombinator.com/item?id=45010406) - [A Fast Bytecode VM for Arithmetic: The Compiler](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/)
 * [2025-08-25, 04:23:29](https://news.ycombinator.com/item?id=45010183) - [Bro, ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 04:18:56](https://news.ycombinator.com/item?id=45010161) - [Git-Annex](https://git-annex.branchable.com/)
 * [2025-08-25, 03:33:01](https://news.ycombinator.com/item?id=45009949) - [We need a new theory of democracy – because this version has failed](https://www.salon.com/2025/08/24/we-need-a-new-theory-of-democracy-because-this-version-has-failed/)
