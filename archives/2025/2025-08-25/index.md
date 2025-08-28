@@ -58,6 +58,7 @@
 * [2025-08-25, 13:33:49](https://news.ycombinator.com/item?id=45013682) - [Show HN: Spart – A Rust library for fast spatial search with Python bindings](https://news.ycombinator.com/item?id=45013682)
 * [2025-08-25, 13:21:19](https://news.ycombinator.com/item?id=45013572) - [Show HN: Async – Claude code and Linear and GitHub PRs in one opinionated tool](https://github.com/bkdevs/async-server)
 * [2025-08-25, 13:17:40](https://news.ycombinator.com/item?id=45013535) - [The McPhee method for writing deeply reported nonfiction](https://jsomers.net/blog/the-mcphee-method)
+* [2025-08-25, 13:00:15](https://news.ycombinator.com/item?id=45013373) - [Teams Grow Organically](https://frederickvanbrabant.com/blog/2025-08-22-how-teams-grow-organically/)
 * [2025-08-25, 12:39:46](https://news.ycombinator.com/item?id=45013199) - [Connecting M.2 drives to various things (and not doing so)](https://utcc.utoronto.ca/~cks/space/blog/tech/M2ToVariousThings)
 * [2025-08-25, 12:35:41](https://news.ycombinator.com/item?id=45013170) - [All the Polygons](https://www.sum.si/journal-articles/all-the-worlds-polygons)
 * [2025-08-25, 12:33:13](https://news.ycombinator.com/item?id=45013154) - [What Is a Color Space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)

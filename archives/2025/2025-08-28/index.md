@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 16:05:13](https://news.ycombinator.com/item?id=45053872) - [PinePhone Pro [GNU/Linux smartphone] has been discontinued](https://social.treehouse.systems/@pine64/115027515081143369)
+* [2025-08-28, 15:14:03](https://news.ycombinator.com/item?id=45053234) - [Anything can be a message queue if you use it wrongly enough (2023)](https://xeiaso.net/blog/anything-message-queue)
 * [2025-08-28, 14:59:14](https://news.ycombinator.com/item?id=45053040) - [Mosh (Mobile Shell)](https://mosh.org)
 * [2025-08-28, 14:14:17](https://news.ycombinator.com/item?id=45052429) - [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
 * [2025-08-28, 14:13:44](https://news.ycombinator.com/item?id=45052423) - [AI adoption linked to 13% decline in jobs for young U.S. workers, Stanford study](https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html)
