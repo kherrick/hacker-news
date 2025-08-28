@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-28, 13:17:15",
+      "https://news.ycombinator.com/item?id=45051798"
+    ],
+    [
+      "The sisters \"paradox\" – counter-intuitive probability",
+      "https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 13:15:28",
+      "https://news.ycombinator.com/item?id=45051777"
+    ],
+    [
+      "LLMs solving problems OCR+NLP couldn't",
+      "https://cloudsquid.substack.com/p/ocr-is-legacy-tech"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 12:53:37",
       "https://news.ycombinator.com/item?id=45051584"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45051188"
     ],
     [
-      "Rendering an ASCII game in real-time with AI (100ms latency)",
+      "Rendering a Game in Real-Time with AI",
       "https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45050958"
     ],
     [
-      "The Math Behind GANs",
+      "GAN Math (2020)",
       "https://jaketae.github.io/study/gan-math/"
     ]
   ],
@@ -85,8 +105,18 @@
       "https://news.ycombinator.com/item?id=45050931"
     ],
     [
-      "The most important machine learning equations: A comprehensive guide",
+      "Important machine learning equations",
       "https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 11:29:42",
+      "https://news.ycombinator.com/item?id=45050873"
+    ],
+    [
+      "Microbial metabolite repairs liver injury by restoring hepatic lipid metabolism",
+      "https://journals.asm.org/doi/10.1128/mbio.01718-25"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Petition to stop Google from restricting sideloading and FOSS apps",
       "https://news.ycombinator.com/item?id=45050502"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 10:15:22",
-      "https://news.ycombinator.com/item?id=45050415"
-    ],
-    [
-      "Are OpenAI and Anthropic Losing Money on Inference?",
-      "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-08-27, 15:50:54",
-      "https://news.ycombinator.com/item?id=45041315"
-    ],
-    [
-      "VIM Master",
-      "https://github.com/renzorlive/vimmaster"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 15:48:07",
       "https://news.ycombinator.com/item?id=45041286"
     ],
     [
       "Unexpected productivity boost of Rust",
       "https://lubeno.dev/blog/rusts-productivity-curve"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 15:39:33",
-      "https://news.ycombinator.com/item?id=45041185"
-    ],
-    [
-      "Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone",
-      "https://news.ycombinator.com/item?id=45041185"
     ]
   ],
   [
