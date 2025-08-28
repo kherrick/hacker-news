@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 02:09:06](https://news.ycombinator.com/item?id=45047549) - [White House fires CDC director Monarez after she refuses to resign](https://www.cnbc.com/2025/08/27/cdc-director-susan-monarez-.html)
 * [2025-08-28, 01:47:03](https://news.ycombinator.com/item?id=45047395) - [CDC officials’ resignation emails](https://insidemedicine.substack.com/p/breaking-news-read-three-top-cdc)
 * [2025-08-28, 01:03:23](https://news.ycombinator.com/item?id=45047129) - [The National Design Studio is a scam](https://www.chrbutler.com/the-national-design-studio-is-a-scam)
 * [2025-08-28, 00:55:59](https://news.ycombinator.com/item?id=45047080) - [Glow-in-the-dark succulents are here](https://www.popsci.com/science/glow-in-the-dark-plants-succulents/)
