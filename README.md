@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-28, 02:12:23](https://news.ycombinator.com/item?id=45047572) - [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/soulim/bookmarks.txt)
 * [2025-08-28, 02:09:06](https://news.ycombinator.com/item?id=45047549) - [White House fires CDC director Monarez after she refuses to resign](https://www.cnbc.com/2025/08/27/cdc-director-susan-monarez-.html)
 * [2025-08-28, 01:47:03](https://news.ycombinator.com/item?id=45047395) - [CDC officials’ resignation emails](https://insidemedicine.substack.com/p/breaking-news-read-three-top-cdc)
-* [2025-08-28, 01:03:23](https://news.ycombinator.com/item?id=45047129) - [The National Design Studio is a scam](https://www.chrbutler.com/the-national-design-studio-is-a-scam)
 * [2025-08-28, 00:22:24](https://news.ycombinator.com/item?id=45046916) - [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
 * [2025-08-27, 21:27:13](https://news.ycombinator.com/item?id=45045500) - [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
 * [2025-08-27, 21:16:56](https://news.ycombinator.com/item?id=45045398) - [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
@@ -24,7 +24,7 @@
 * [2025-08-25, 19:15:02](https://news.ycombinator.com/item?id=45017770) - [A mini-book on AWS networking](https://www.ducktyped.org/p/a-mini-book-on-aws-networking-introduction)
 * [2025-08-25, 12:11:38](https://news.ycombinator.com/item?id=45012995) - [Areal, Are.na's new typeface](https://www.are.na/editorial/introducing-areal-are-nas-new-typeface)
 * [2025-08-25, 07:58:56](https://news.ycombinator.com/item?id=45011404) - [About Containers and VMs](https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/)
-* [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the Screen, Libyans Learned About Everything but Themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
+* [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [The screen, Libyans learned about everything but themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
 * [2025-08-24, 22:35:23](https://news.ycombinator.com/item?id=45008434) - [Nvidia DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
 * [2025-08-24, 17:03:44](https://news.ycombinator.com/item?id=45005823) - ['Rocks as big as cars' are flying down the Dolomites](https://www.bbc.com/future/article/20250819-why-italys-beloved-ancient-monolith-is-falling)
 * [2025-08-24, 03:12:05](https://news.ycombinator.com/item?id=45001005) - [You shouldn't salt a leech that's sucking your blood (2019)](https://www.cbc.ca/news/science/bloodsuckers-1.5361074)
