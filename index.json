@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-08-28, 00:55:59",
-      "https://news.ycombinator.com/item?id=45047080"
+      "2025-08-28, 01:47:03",
+      "https://news.ycombinator.com/item?id=45047395"
     ],
     [
-      "Glow-in-the-dark succulents are here",
-      "https://www.popsci.com/science/glow-in-the-dark-plants-succulents/"
+      "CDC officials’ resignation emails",
+      "https://insidemedicine.substack.com/p/breaking-news-read-three-top-cdc"
     ]
   ],
   [
     [
-      "2025-08-28, 00:29:01",
-      "https://news.ycombinator.com/item?id=45046960"
+      "2025-08-28, 01:03:23",
+      "https://news.ycombinator.com/item?id=45047129"
     ],
     [
-      "As PBS Stations Confront Cuts, American History Takes a Hit",
-      "https://www.nytimes.com/2025/08/27/arts/television/american-experience.html"
+      "The National Design Studio is a scam",
+      "https://www.chrbutler.com/the-national-design-studio-is-a-scam"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Altered states of consciousness induced by breathwork accompanied by music",
       "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 21:27:13",
+      "https://news.ycombinator.com/item?id=45045500"
+    ],
+    [
+      "Researchers find evidence of ChatGPT buzzwords turning up in everyday speech",
+      "https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/"
     ]
   ],
   [
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2025-08-27, 20:03:01",
+      "https://news.ycombinator.com/item?id=45044440"
+    ],
+    [
+      "Beginning 1 September, we will need to geoblock Mississippi IPs",
+      "https://dw-news.dreamwidth.org/44429.html"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 17:28:20",
       "https://news.ycombinator.com/item?id=45042461"
     ],
@@ -81,12 +101,12 @@
   ],
   [
     [
-      "2025-08-27, 16:28:20",
-      "https://news.ycombinator.com/item?id=45041807"
+      "2025-08-27, 16:24:12",
+      "https://news.ycombinator.com/item?id=45041743"
     ],
     [
-      "Typepad is shutting down",
-      "https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html"
+      "GMP damaging Zen 5 CPUs?",
+      "https://gmplib.org/gmp-zen5"
     ]
   ],
   [
@@ -161,12 +181,12 @@
   ],
   [
     [
-      "2025-08-27, 10:54:41",
-      "https://news.ycombinator.com/item?id=45037904"
+      "2025-08-27, 09:43:43",
+      "https://news.ycombinator.com/item?id=45037365"
     ],
     [
-      "Monodraw",
-      "https://monodraw.helftone.com/"
+      "The GitHub website is slow on Safari",
+      "https://github.com/orgs/community/discussions/170758"
     ]
   ],
   [
@@ -201,22 +221,12 @@
   ],
   [
     [
-      "2025-08-25, 15:27:59",
-      "https://news.ycombinator.com/item?id=45014911"
+      "2025-08-25, 19:15:02",
+      "https://news.ycombinator.com/item?id=45017770"
     ],
     [
-      "SDS: Simple Dynamic Strings library for C",
-      "https://github.com/antirez/sds"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 13:33:49",
-      "https://news.ycombinator.com/item?id=45013682"
-    ],
-    [
-      "Show HN: Spart – A Rust library for fast spatial search with Python bindings",
-      "https://news.ycombinator.com/item?id=45013682"
+      "A mini-book on AWS networking",
+      "https://www.ducktyped.org/p/a-mini-book-on-aws-networking-introduction"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2025-08-25, 05:55:35",
-      "https://news.ycombinator.com/item?id=45010658"
+      "2025-08-24, 22:35:23",
+      "https://news.ycombinator.com/item?id=45008434"
     ],
     [
-      "Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer (2023)",
-      "https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 19:20:46",
-      "https://news.ycombinator.com/item?id=45006882"
-    ],
-    [
-      "Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox",
-      "https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm"
+      "Nvidia DGX Spark",
+      "https://www.nvidia.com/en-us/products/workstations/dgx-spark/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-08-24, 03:12:05",
+      "https://news.ycombinator.com/item?id=45001005"
+    ],
+    [
+      "You shouldn't salt a leech that's sucking your blood (2019)",
+      "https://www.cbc.ca/news/science/bloodsuckers-1.5361074"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 02:54:11",
       "https://news.ycombinator.com/item?id=45000904"
     ],
     [
       "Using information theory to solve Mastermind",
       "https://www.goranssongaspar.com/mastermind"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 22:31:41",
-      "https://news.ycombinator.com/item?id=44999644"
-    ],
-    [
-      "3D printing a building with 756 windows",
-      "https://jero.zone/posts/cbr-building"
     ]
   ],
   [
