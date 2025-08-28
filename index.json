@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-28, 14:12:21",
+      "https://news.ycombinator.com/item?id=45052407"
+    ],
+    [
+      "Google Debuts Device-Bound Session Credentials Against Session Hijacking",
+      "https://www.feistyduck.com/newsletter/issue_128_google_debuts_device_bound_session_credentials_against_session_hijacking"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 13:54:50",
+      "https://news.ycombinator.com/item?id=45052242"
+    ],
+    [
+      "US to put economic data on 9 blockchains",
+      "https://www.bloomberg.com/news/articles/2025-08-28/us-puts-gdp-data-on-the-blockchain-in-trump-crypto-push"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 13:17:15",
       "https://news.ycombinator.com/item?id=45051798"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-08-28, 11:51:30",
-      "https://news.ycombinator.com/item?id=45051034"
-    ],
-    [
-      "The startup bubble that no one is talking about",
-      "https://tj401.com/blog/formd/index.html"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 11:42:35",
       "https://news.ycombinator.com/item?id=45050958"
     ],
@@ -131,12 +141,12 @@
   ],
   [
     [
-      "2025-08-28, 10:32:51",
-      "https://news.ycombinator.com/item?id=45050502"
+      "2025-08-28, 10:15:22",
+      "https://news.ycombinator.com/item?id=45050415"
     ],
     [
-      "Petition to stop Google from restricting sideloading and FOSS apps",
-      "https://news.ycombinator.com/item?id=45050502"
+      "Are OpenAI and Anthropic Losing Money on Inference?",
+      "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-08-28, 05:30:23",
-      "https://news.ycombinator.com/item?id=45048736"
-    ],
-    [
-      "Lesser known mobile adtech domains where data is sent",
-      "https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 04:37:12",
       "https://news.ycombinator.com/item?id=45048419"
     ],
@@ -187,6 +187,16 @@
     [
       "Certificates for Onion Services",
       "https://onionservices.torproject.org/research/proposals/usability/certificates/"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 02:12:23",
+      "https://news.ycombinator.com/item?id=45047572"
+    ],
+    [
+      "Bookmarks.txt is a concept of keeping URLs in plain text files",
+      "https://github.com/soulim/bookmarks.txt"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-08-25, 14:31:50",
-      "https://news.ycombinator.com/item?id=45014275"
+      "2025-08-25, 10:35:24",
+      "https://news.ycombinator.com/item?id=45012376"
     ],
     [
-      "What Is Synthetic Gasoline?",
-      "https://iere.org/what-is-synthetic-gasoline/"
+      "iOS Elegantbouncer: When You Can't Get Samples but Still Need to Catch Threats",
+      "https://www.msuiche.com/posts/elegantbouncer-when-you-cant-get-the-samples-but-still-need-to-catch-the-threat/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Nvidia DGX Spark",
       "https://www.nvidia.com/en-us/products/workstations/dgx-spark/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 21:15:50",
-      "https://news.ycombinator.com/item?id=45007857"
-    ],
-    [
-      "A Ritzy L.A. Enclave Learned a Bitter Lesson About the Limits of Its Wealth",
-      "https://www.nytimes.com/2025/08/24/magazine/landfill-calabasas-los-angeles-wildfire-ash.html"
     ]
   ],
   [
