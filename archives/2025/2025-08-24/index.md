@@ -7,6 +7,7 @@
 * [2025-08-24, 23:44:47](https://news.ycombinator.com/item?id=45008832) - [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
 * [2025-08-24, 23:42:01](https://news.ycombinator.com/item?id=45008819) - [Show HN: Sping – A HTTP/TCP Latency Tool That's Easy on the Eye](https://dseltzer.gitlab.io/sping/docs/)
 * [2025-08-24, 23:27:52](https://news.ycombinator.com/item?id=45008740) - [Ghrc.io Appears to Be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
+* [2025-08-24, 22:35:23](https://news.ycombinator.com/item?id=45008434) - [Nvidia DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
 * [2025-08-24, 22:31:22](https://news.ycombinator.com/item?id=45008406) - [Introducing: VuIO – open-source UPNP/DLNA server written in Rust](https://github.com/vuiodev/vuio)
 * [2025-08-24, 22:27:11](https://news.ycombinator.com/item?id=45008367) - [\"I Hate Almost Everything They Do with a Passion\" James Pond Creator on Gameware](https://www.timeextension.com/news/2025/07/i-hate-almost-everything-they-do-with-a-passion-james-ponds-creator-isnt-a-fan-of-gamewares-ai-focused-sequel)
 * [2025-08-24, 22:22:26](https://news.ycombinator.com/item?id=45008323) - [2.5B Gmail users endangered after Google database hack](https://www.pcworld.com/article/2880822/2-5-billion-gmail-users-endangered-after-google-database-hack.html)
