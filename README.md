@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-28, 21:39:18](https://news.ycombinator.com/item?id=45057346) - [Sometimes CPU cores are odd – Anubis](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
+* [2025-08-28, 21:36:36](https://news.ycombinator.com/item?id=45057322) - [Expert LSP the official language server implementation for Elixir](https://github.com/elixir-lang/expert)
 * [2025-08-28, 21:24:42](https://news.ycombinator.com/item?id=45057209) - [Speed-coding for the 6502 – a simple example](https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/)
 * [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
 * [2025-08-28, 20:49:34](https://news.ycombinator.com/item?id=45056878) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
@@ -18,7 +19,6 @@
 * [2025-08-28, 14:40:58](https://news.ycombinator.com/item?id=45052784) - [Will AI Replace Human Thinking? The Case for Writing and Coding Manually](https://www.ssp.sh/brain/will-ai-replace-humans/)
 * [2025-08-28, 14:13:44](https://news.ycombinator.com/item?id=45052423) - [AI adoption linked to 13% decline in jobs for young U.S. workers: study](https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html)
 * [2025-08-28, 13:51:51](https://news.ycombinator.com/item?id=45052200) - [Show HN: SwiftAI – open-source library to easily build LLM features on iOS/macOS](https://github.com/mi12labs/SwiftAI)
-* [2025-08-28, 13:17:15](https://news.ycombinator.com/item?id=45051798) - [The sisters “paradox” – counter-intuitive probability](https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html)
 * [2025-08-28, 12:49:10](https://news.ycombinator.com/item?id=45051542) - [GPU Prefix Sums: A nearly complete collection](https://github.com/b0nes164/GPUPrefixSums)
 * [2025-08-28, 12:31:15](https://news.ycombinator.com/item?id=45051361) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-08-28, 12:29:15](https://news.ycombinator.com/item?id=45051345) - [Group Borrowing: Zero-cost memory safety with fewer restrictions](https://verdagon.dev/blog/group-borrowing)
