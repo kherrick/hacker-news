@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-28, 14:14:17](https://news.ycombinator.com/item?id=45052429) - [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
 * [2025-08-28, 14:12:21](https://news.ycombinator.com/item?id=45052407) - [Google Debuts Device-Bound Session Credentials Against Session Hijacking](https://www.feistyduck.com/newsletter/issue_128_google_debuts_device_bound_session_credentials_against_session_hijacking)
 * [2025-08-28, 13:54:50](https://news.ycombinator.com/item?id=45052242) - [US to put economic data on 9 blockchains](https://www.bloomberg.com/news/articles/2025-08-28/us-puts-gdp-data-on-the-blockchain-in-trump-crypto-push)
 * [2025-08-28, 13:17:15](https://news.ycombinator.com/item?id=45051798) - [The sisters \"paradox\" – counter-intuitive probability](https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html)
-* [2025-08-28, 13:15:28](https://news.ycombinator.com/item?id=45051777) - [LLMs solving problems OCR+NLP couldn't](https://cloudsquid.substack.com/p/ocr-is-legacy-tech)
 * [2025-08-28, 12:53:37](https://news.ycombinator.com/item?id=45051584) - [The cost of transparency: Living with schizoaffective disorder in tech](https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency)
 * [2025-08-28, 12:49:10](https://news.ycombinator.com/item?id=45051542) - [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
 * [2025-08-28, 12:31:15](https://news.ycombinator.com/item?id=45051361) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
