@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-28, 21:39:18](https://news.ycombinator.com/item?id=45057346) - [Sometimes CPU cores are odd – Anubis](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
+* [2025-08-28, 21:24:42](https://news.ycombinator.com/item?id=45057209) - [Speed-coding for the 6502 – a simple example](https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/)
 * [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
+* [2025-08-28, 20:49:34](https://news.ycombinator.com/item?id=45056878) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 * [2025-08-28, 20:37:11](https://news.ycombinator.com/item?id=45056768) - [Spiped – secure pipe for SSH, SMTP, etc.](https://www.tarsnap.com/spiped.html)
 * [2025-08-28, 19:38:20](https://news.ycombinator.com/item?id=45056177) - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
 * [2025-08-28, 19:35:22](https://news.ycombinator.com/item?id=45056142) - [RFC 8594: The Sunset HTTP Header Field (2019)](https://datatracker.ietf.org/doc/html/rfc8594)
@@ -26,9 +28,7 @@
 * [2025-08-28, 10:15:22](https://news.ycombinator.com/item?id=45050415) - [Are OpenAI and Anthropic losing money on inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
 * [2025-08-27, 16:34:31](https://news.ycombinator.com/item?id=45041879) - [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
-* [2025-08-25, 19:42:17](https://news.ycombinator.com/item?id=45018089) - [The Lobster Programming Language](https://www.strlen.com/lobster/)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
-* [2025-08-25, 12:22:52](https://news.ycombinator.com/item?id=45013064) - [The Unforgotten](https://www.espn.com/nfl/story/_/id/46012436/football-forever-young-college-high-school-nfl)
 * [2025-08-25, 02:06:10](https://news.ycombinator.com/item?id=45009546) - [Performance Speed Limits (2019)](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
 
 ## [Archives](archives/index.md)
