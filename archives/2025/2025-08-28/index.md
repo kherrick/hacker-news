@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 12:53:37](https://news.ycombinator.com/item?id=45051584) - [The Cost of Transparency: Living with Schizoaffective Disorder in Tech](https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency)
+* [2025-08-28, 12:49:10](https://news.ycombinator.com/item?id=45051542) - [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
+* [2025-08-28, 12:31:15](https://news.ycombinator.com/item?id=45051361) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
+* [2025-08-28, 12:29:15](https://news.ycombinator.com/item?id=45051345) - [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing)
 * [2025-08-28, 12:10:14](https://news.ycombinator.com/item?id=45051188) - [Rendering an ASCII game in real-time with AI (100ms latency)](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
 * [2025-08-28, 12:00:48](https://news.ycombinator.com/item?id=45051096) - [Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
 * [2025-08-28, 11:42:35](https://news.ycombinator.com/item?id=45050958) - [The Math Behind GANs](https://jaketae.github.io/study/gan-math/)
@@ -11,6 +15,7 @@
 * [2025-08-28, 10:39:08](https://news.ycombinator.com/item?id=45050538) - [Fossjobs: A job board for Free and Open Source jobs](https://www.fossjobs.net/)
 * [2025-08-28, 10:32:51](https://news.ycombinator.com/item?id=45050502) - [Petition to stop Google from restricting sideloading and FOSS apps](https://news.ycombinator.com/item?id=45050502)
 * [2025-08-28, 10:17:59](https://news.ycombinator.com/item?id=45050428) - [OpenRouter is down](https://status.openrouter.ai)
+* [2025-08-28, 10:15:22](https://news.ycombinator.com/item?id=45050415) - [Are OpenAI and Anthropic Losing Money on Inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
 * [2025-08-28, 09:31:13](https://news.ycombinator.com/item?id=45050192) - [Windows 11 Update KB5063878 Causing SSD Failures](https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/)
 * [2025-08-28, 09:16:17](https://news.ycombinator.com/item?id=45050090) - [Claude Code Checkpoints](https://claude-checkpoints.com/)
 * [2025-08-28, 08:20:35](https://news.ycombinator.com/item?id=45049757) - [The Forecasting Company (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer)
