@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-28, 16:43:05](https://news.ycombinator.com/item?id=45054260) - [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
+* [2025-08-28, 16:22:02](https://news.ycombinator.com/item?id=45054040) - [Launch HN: Dedalus Labs (YC S25) – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
 * [2025-08-28, 16:21:53](https://news.ycombinator.com/item?id=45054037) - [American military service members deserve the right to repair](https://www.militarytimes.com/opinion/2025/07/11/why-service-members-deserve-the-right-to-repair/)
 * [2025-08-28, 16:05:13](https://news.ycombinator.com/item?id=45053872) - [PinePhone Pro [GNU/Linux smartphone] has been discontinued](https://social.treehouse.systems/@pine64/115027515081143369)
 * [2025-08-28, 15:55:49](https://news.ycombinator.com/item?id=45053771) - [China Is Eating the World](https://apropos.substack.com/p/china-is-eating-the-world)
@@ -10,7 +12,6 @@
 * [2025-08-28, 14:14:17](https://news.ycombinator.com/item?id=45052429) - [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
 * [2025-08-28, 12:49:10](https://news.ycombinator.com/item?id=45051542) - [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
 * [2025-08-28, 12:29:15](https://news.ycombinator.com/item?id=45051345) - [Group Borrowing: Zero-cost memory safety with fewer restrictions](https://verdagon.dev/blog/group-borrowing)
-* [2025-08-28, 12:10:14](https://news.ycombinator.com/item?id=45051188) - [Rendering a Game in Real-Time with AI](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
 * [2025-08-28, 12:00:48](https://news.ycombinator.com/item?id=45051096) - [Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
 * [2025-08-28, 11:51:30](https://news.ycombinator.com/item?id=45051034) - [The startup bubble that no one is talking about](https://tj401.com/blog/formd/index.html)
 * [2025-08-28, 11:42:35](https://news.ycombinator.com/item?id=45050958) - [GAN Math (2020)](https://jaketae.github.io/study/gan-math/)
@@ -20,16 +21,15 @@
 * [2025-08-28, 10:15:22](https://news.ycombinator.com/item?id=45050415) - [Are OpenAI and Anthropic Losing Money on Inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
 * [2025-08-28, 09:16:17](https://news.ycombinator.com/item?id=45050090) - [Claude Code Checkpoints](https://claude-checkpoints.com/)
 * [2025-08-28, 04:37:12](https://news.ycombinator.com/item?id=45048419) - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
+* [2025-08-28, 03:05:42](https://news.ycombinator.com/item?id=45047897) - [Certificates for Onion Services](https://onionservices.torproject.org/research/proposals/usability/certificates/)
 * [2025-08-28, 02:12:23](https://news.ycombinator.com/item?id=45047572) - [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/soulim/bookmarks.txt)
 * [2025-08-28, 01:54:59](https://news.ycombinator.com/item?id=45047460) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
 * [2025-08-28, 00:22:24](https://news.ycombinator.com/item?id=45046916) - [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
 * [2025-08-27, 21:08:49](https://news.ycombinator.com/item?id=45045307) - [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
-* [2025-08-27, 01:38:48](https://news.ycombinator.com/item?id=45034496) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 * [2025-08-25, 15:48:08](https://news.ycombinator.com/item?id=45015156) - [Birth of 86-DOS – By Nemanja Trifunovic](https://nemanjatrifunovic.substack.com/p/birth-of-86-dos)
 * [2025-08-25, 13:00:15](https://news.ycombinator.com/item?id=45013373) - [Teams Grow Organically](https://frederickvanbrabant.com/blog/2025-08-22-how-teams-grow-organically/)
 * [2025-08-25, 10:35:24](https://news.ycombinator.com/item?id=45012376) - [iOS Elegantbouncer: When You Can't Get Samples but Still Need to Catch Threats](https://www.msuiche.com/posts/elegantbouncer-when-you-cant-get-the-samples-but-still-need-to-catch-the-threat/)
 * [2025-08-25, 05:08:22](https://news.ycombinator.com/item?id=45010406) - [A Fast Bytecode VM for Arithmetic: The Compiler](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/)
-* [2025-08-23, 18:29:05](https://news.ycombinator.com/item?id=44998010) - [Toyota is recycling old EV batteries to help power Mazda's production line](https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line)
 
 ## [Archives](archives/index.md)
 
