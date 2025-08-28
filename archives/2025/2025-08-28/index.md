@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 06:58:55](https://news.ycombinator.com/item?id=45049265) - [AGI Overhyped?](https://news.ycombinator.com/item?id=45049265)
 * [2025-08-28, 05:30:23](https://news.ycombinator.com/item?id=45048736) - [Lesser known mobile adtech domains where data is sent](https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/)
 * [2025-08-28, 04:47:01](https://news.ycombinator.com/item?id=45048473) - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
 * [2025-08-28, 04:37:12](https://news.ycombinator.com/item?id=45048419) - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)

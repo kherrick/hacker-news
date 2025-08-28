@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-28, 06:58:55](https://news.ycombinator.com/item?id=45049265) - [AGI Overhyped?](https://news.ycombinator.com/item?id=45049265)
 * [2025-08-28, 05:30:23](https://news.ycombinator.com/item?id=45048736) - [Lesser known mobile adtech domains where data is sent](https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/)
 * [2025-08-28, 04:47:01](https://news.ycombinator.com/item?id=45048473) - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
 * [2025-08-28, 04:37:12](https://news.ycombinator.com/item?id=45048419) - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
@@ -28,7 +29,6 @@
 * [2025-08-25, 08:43:55](https://news.ycombinator.com/item?id=45011679) - [What is this? The case for continually questioning our online experience](https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the screen, Libyans learned about everything but themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
 * [2025-08-24, 22:35:23](https://news.ycombinator.com/item?id=45008434) - [Nvidia DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
-* [2025-08-24, 02:54:11](https://news.ycombinator.com/item?id=45000904) - [Using information theory to solve Mastermind](https://www.goranssongaspar.com/mastermind)
 * [2025-08-23, 18:29:05](https://news.ycombinator.com/item?id=44998010) - [Toyota is recycling old EV batteries to help power Mazda's production line](https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line)
 
 ## [Archives](archives/index.md)
