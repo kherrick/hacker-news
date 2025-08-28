@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 19:38:20](https://news.ycombinator.com/item?id=45056177) - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
 * [2025-08-28, 19:29:32](https://news.ycombinator.com/item?id=45056079) - [Engineers send quantum signals with standard Internet Protocol](https://phys.org/news/2025-08-quantum-standard-internet-protocol.html)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
+* [2025-08-28, 18:35:46](https://news.ycombinator.com/item?id=45055452) - [Web Bot Auth](https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/)
 * [2025-08-28, 18:34:29](https://news.ycombinator.com/item?id=45055439) - [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
 * [2025-08-28, 18:25:39](https://news.ycombinator.com/item?id=45055335) - [VLT observations of interstellar comet 3I/ATLAS II](https://arxiv.org/abs/2508.18382)
 * [2025-08-28, 17:50:40](https://news.ycombinator.com/item?id=45054969) - [A Federal Appellate Court Finds the NLRB to Be Unconstitutional](https://prospect.org/justice/2025-08-25-federal-appellate-court-finds-nlrb-unconstitutional/)
@@ -28,6 +30,7 @@
 * [2025-08-28, 14:13:44](https://news.ycombinator.com/item?id=45052423) - [AI adoption linked to 13% decline in jobs for young U.S. workers, Stanford study](https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html)
 * [2025-08-28, 14:12:21](https://news.ycombinator.com/item?id=45052407) - [Google Debuts Device-Bound Session Credentials Against Session Hijacking](https://www.feistyduck.com/newsletter/issue_128_google_debuts_device_bound_session_credentials_against_session_hijacking)
 * [2025-08-28, 13:54:50](https://news.ycombinator.com/item?id=45052242) - [US to put economic data on 9 blockchains](https://www.bloomberg.com/news/articles/2025-08-28/us-puts-gdp-data-on-the-blockchain-in-trump-crypto-push)
+* [2025-08-28, 13:51:51](https://news.ycombinator.com/item?id=45052200) - [Show HN: SwiftAI – open-source library to easily build LLM features on iOS/macOS](https://github.com/mi12labs/SwiftAI)
 * [2025-08-28, 13:17:15](https://news.ycombinator.com/item?id=45051798) - [The sisters \"paradox\" – counter-intuitive probability](https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html)
 * [2025-08-28, 13:15:28](https://news.ycombinator.com/item?id=45051777) - [LLMs solving problems OCR+NLP couldn't](https://cloudsquid.substack.com/p/ocr-is-legacy-tech)
 * [2025-08-28, 12:53:37](https://news.ycombinator.com/item?id=45051584) - [The Cost of Transparency: Living with Schizoaffective Disorder in Tech](https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency)

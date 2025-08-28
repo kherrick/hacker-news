@@ -34,6 +34,7 @@
 * [2025-08-26, 15:05:02](https://news.ycombinator.com/item?id=45027597) - [Show HN: Smooth – Faster, cheaper browser agent API](https://www.smooth.sh/)
 * [2025-08-26, 14:53:38](https://news.ycombinator.com/item?id=45027427) - [Blast from the past: Facit A2400 terminal](https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/)
 * [2025-08-26, 14:35:35](https://news.ycombinator.com/item?id=45027136) - [China's Share in Global Display Capacity to Reach 75% in 2028](https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028)
+* [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
 * [2025-08-26, 14:15:54](https://news.ycombinator.com/item?id=45026886) - [A teen was suicidal. ChatGPT was the friend he confided in](https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html)
 * [2025-08-26, 14:10:42](https://news.ycombinator.com/item?id=45026833) - [Meta is sinking $10B into rural Louisiana to build its wildest AI aspirations](https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/)
 * [2025-08-26, 14:08:51](https://news.ycombinator.com/item?id=45026810) - [DSLRoot, Proxies, and the Threat of 'Legal Botnets'](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/)
