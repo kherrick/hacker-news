@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-28, 23:04:01](https://news.ycombinator.com/item?id=45058024) - [RSS Is Awesome](https://evanverma.com/rss-is-awesome)
 * [2025-08-28, 22:02:28](https://news.ycombinator.com/item?id=45057561) - [Rupert's Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
+* [2025-08-28, 21:44:47](https://news.ycombinator.com/item?id=45057404) - [Death by PowerPoint: the slide that killed seven people](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
 * [2025-08-28, 21:39:18](https://news.ycombinator.com/item?id=45057346) - [Sometimes CPU cores are odd – Anubis](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
 * [2025-08-28, 21:36:36](https://news.ycombinator.com/item?id=45057322) - [Expert LSP the official language server implementation for Elixir](https://github.com/elixir-lang/expert)
 * [2025-08-28, 21:24:42](https://news.ycombinator.com/item?id=45057209) - [Speed-coding for the 6502 – a simple example](https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/)
 * [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
 * [2025-08-28, 20:49:34](https://news.ycombinator.com/item?id=45056878) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
-* [2025-08-28, 20:37:11](https://news.ycombinator.com/item?id=45056768) - [Spiped – secure pipe for SSH, SMTP, etc.](https://www.tarsnap.com/spiped.html)
 * [2025-08-28, 19:38:20](https://news.ycombinator.com/item?id=45056177) - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
 * [2025-08-28, 19:35:22](https://news.ycombinator.com/item?id=45056142) - [RFC 8594: The Sunset HTTP Header Field (2019)](https://datatracker.ietf.org/doc/html/rfc8594)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
@@ -29,7 +30,6 @@
 * [2025-08-27, 07:55:43](https://news.ycombinator.com/item?id=45036704) - [Thrashing](https://exple.tive.org/blarg/2025/08/26/thrashing/)
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
-* [2025-08-25, 02:06:10](https://news.ycombinator.com/item?id=45009546) - [Performance Speed Limits (2019)](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
 
 ## [Archives](archives/index.md)
 
