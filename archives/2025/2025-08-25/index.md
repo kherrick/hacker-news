@@ -32,6 +32,7 @@
 * [2025-08-25, 18:04:54](https://news.ycombinator.com/item?id=45016826) - [First absolute superconducting switch developed in a magnetic device](https://phys.org/news/2025-08-absolute-superconducting-magnetic-device.html)
 * [2025-08-25, 18:02:51](https://news.ycombinator.com/item?id=45016794) - [How RubyGems.org Protects Our Community’s Critical OSS Infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html)
 * [2025-08-25, 17:57:18](https://news.ycombinator.com/item?id=45016720) - [Google's Liquid Cooling at Hot Chips 2025](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
+* [2025-08-25, 17:46:15](https://news.ycombinator.com/item?id=45016579) - [Will Bardenwerper on Baseball's Betrayal of Its Minor League Roots](https://lithub.com/will-bardenwerper-on-baseballs-betrayal-of-its-minor-league-roots/)
 * [2025-08-25, 17:43:13](https://news.ycombinator.com/item?id=45016542) - [IBM's Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
 * [2025-08-25, 17:41:48](https://news.ycombinator.com/item?id=45016517) - [Japan Post to temporarily suspend mail to US over end of de minimis exemption](https://www.post.japanpost.jp/int/information/2025/0825_01_en.html)
 * [2025-08-25, 17:16:08](https://news.ycombinator.com/item?id=45016208) - [The Extraordinary Rise in the Wealth of Older American Households](https://www.nber.org/papers/w34131)
