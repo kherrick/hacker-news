@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=45051542"
     ],
     [
-      "GPUPrefixSums – state of the art GPU prefix sum algorithms",
+      "GPU Prefix Sums: A nearly complete collection",
       "https://github.com/b0nes164/GPUPrefixSums"
     ]
   ],
@@ -187,16 +187,6 @@
     [
       "The startup bubble that no one is talking about",
       "https://tj401.com/blog/formd/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 11:42:35",
-      "https://news.ycombinator.com/item?id=45050958"
-    ],
-    [
-      "The Math Behind GANs (2020)",
-      "https://jaketae.github.io/study/gan-math/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Unforgotten",
       "https://www.espn.com/nfl/story/_/id/46012436/football-forever-young-college-high-school-nfl"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 10:35:24",
+      "https://news.ycombinator.com/item?id=45012376"
+    ],
+    [
+      "iOS Elegantbouncer: When You Can't Get Samples but Still Need to Catch Threats",
+      "https://www.msuiche.com/posts/elegantbouncer-when-you-cant-get-the-samples-but-still-need-to-catch-the-threat/"
     ]
   ]
 ]
