@@ -129,6 +129,177 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45054260">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=45054260"
+              >Ask HN: The government of my country blocked VPN access. What
+              should I use?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-28 @ 16:43:05</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45054260"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+            <div class="text">
+              Indonesia is currently in chaos. Earlier today, the government
+              blocked access to Twitter &amp;amp; Discord knowing news spread
+              mainly through those channels. Usually we can use Cloudflare's
+              WARP to avoid it, but just today they blocked the access as well.
+              What alternative should we use?
+            </div>
+          </section>
+        </section>
+        <section id="45054040">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=45054040"
+              >Launch HN: Dedalus Labs (YC S25) – Vercel for Agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-28 @ 16:22:02</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45054040"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.dedaluslabs.ai/"
+                >https://www.dedaluslabs.ai/</a
+              >), a cloud platform for developers to build agentic AI
+              applications. Our SDK allows you to connect any LLM to any MCP
+              tools – local or hosted by us. No Dockerfiles or YAML configs
+              required.
+              <p>
+                Here’s a demo:
+                <a
+                  href="https://youtu.be/s2khf1Monho?si=yiWnZh5OP4HQcAwL&amp;t=11"
+                  >https://youtu.be/s2khf1Monho?si=yiWnZh5OP4HQcAwL&amp;t=11</a
+                >
+              </p>
+              <p>
+                Last October, I (Windsor) was trying to build a stateful code
+                execution sandbox in the cloud that LLMs could tool-call into.
+                This was before MCP was released, and let’s just say it was
+                super annoying to build… I was thinking to myself the entire
+                time “Why can’t I just pass in `tools=code_execution` to the
+                model and just have it…work?
+              </p>
+              <p>
+                Even with MCP, you’re stuck running local servers and handwiring
+                API auth and formatting across OpenAI, Anthropic, Google, etc.
+                before you can ship anything. Every change means redeploys,
+                networking configs, and hours lost wrangling AWS. Hours of
+                reading docs and wrestling with cloud setup is not what you want
+                when building your product!
+              </p>
+              <p>
+                Dedalus simplifies this to just one API endpoint, so what used
+                to take 2 weeks of setup can take 5 minutes. We allow you to
+                upload streamable HTTP MCP servers to our platform. Once
+                deployed, we offer OpenAI-compatible SDKs that you can drop into
+                your codebase to use MCP-powered LLMs. The idea is to let
+                anyone, anywhere, equip their LLMs with powerful tools for
+                function calling.
+              </p>
+              <p>The code you write looks something like this:</p>
+              <p></p>
+              <pre><code>  python
+  client = Dedalus()
+  runner = DedalusRunner(client)
+  
+  result = runner.run(
+    input=prompt,
+    tools=[tool_1, tool_2],
+    mcp_servers=["author/server-1”, “author/server-2”],
+    model=["openai/gpt-4.1”, “anthropic/claude-sonnet-4-20250514”],  # Defaults to first model in list
+    stream=True,
+  )
+  stream_sync(result)  # Streams result, supports tool calling too
+</code></pre>
+              Our docs start at
+              <a href="https://docs.dedaluslabs.ai"
+                >https://docs.dedaluslabs.ai</a
+              >. Here’s a simple Hello World example:
+              <a href="https://docs.dedaluslabs.ai/examples/01-hello-world"
+                >https://docs.dedaluslabs.ai/examples/01-hello-world</a
+              >. For basic tool execution, see
+              <a href="https://docs.dedaluslabs.ai/examples/02-basic-tools"
+                >https://docs.dedaluslabs.ai/examples/02-basic-tools</a
+              >. There are lots more examples on the site, including more
+              complex ones like using the Open Meteo MCP to do weather
+              forecasts:
+              <a
+                href="https://docs.dedaluslabs.ai/examples/use-case/weather-forecaster"
+                >https://docs.dedaluslabs.ai/examples/use-case/weather-foreca...</a
+              >.
+              <p>
+                There are still a bunch of issues in the MCP landscape, no
+                doubt. One big one is authentication (my team and I joke that
+                the “S” in MCP stands for “security”). MCP servers right now are
+                expected to act as both the authentication server <i>and</i> the
+                resource server. This is tricky to implement correctly, and it’s
+                too much to ask of server writers, i.e. people just want to
+                expose a resource endpoint and be done.
+              </p>
+              <p>
+                Still, we are bullish on MCP. Current shortcomings are not
+                irrecoverable, and we expect future amendments to resolve most
+                qualms that people currently have. We think that useful AI
+                agents are bound to be habitual tool callers, and MCP is a
+                pretty decent way to equip models with tools.
+              </p>
+              <p>
+                We aren’t <i>quite</i> yet at the stateful code execution
+                sandbox that I wanted last October, but we’re getting there!
+                Shipping secure and stateful MCP servers is high on our priority
+                list, and we’ll be launching our auth solution next month. We’re
+                also working on an MCP marketplace, to let people monetize their
+                tools, while we handle billing and rev-share.
+              </p>
+              <p>
+                We’re big on open sourcing things and have these SDKs so far
+                (MIT licensed):
+              </p>
+              <p>
+                <a href="https://github.com/dedalus-labs/dedalus-sdk-python"
+                  >https://github.com/dedalus-labs/dedalus-sdk-python</a
+                >
+              </p>
+              <p>
+                <a href="https://github.com/dedalus-labs/dedalus-sdk-typescript"
+                  >https://github.com/dedalus-labs/dedalus-sdk-typescript</a
+                >
+              </p>
+              <p>
+                <a href="https://github.com/dedalus-labs/dedalus-sdk-go"
+                  >https://github.com/dedalus-labs/dedalus-sdk-go</a
+                >
+              </p>
+              <p>
+                <a href="https://github.com/dedalus-labs/dedalus-openapi"
+                  >https://github.com/dedalus-labs/dedalus-openapi</a
+                >
+              </p>
+              <p>
+                We would love feedback on what you guys think are the biggest
+                barriers that keep you from integrating MCP servers or using
+                tool calling LLMs into your current workflow.
+              </p>
+              <p>Thanks HN!</p>
+            </div>
+          </section>
+        </section>
         <section id="45054037">
           <h3>
             <a
@@ -141,11 +312,11 @@
             <h4>
               <span>2025-08-28 @ 16:21:53</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45054037"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -162,11 +333,11 @@
             <h4>
               <span>2025-08-28 @ 16:05:13</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45053872"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -183,11 +354,11 @@
             <h4>
               <span>2025-08-28 @ 15:55:49</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45053771"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -202,11 +373,11 @@
             <h4>
               <span>2025-08-28 @ 15:30:52</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45053462"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -224,11 +395,11 @@
             <h4>
               <span>2025-08-28 @ 15:14:03</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45053234"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -241,11 +412,11 @@
             <h4>
               <span>2025-08-28 @ 14:59:14</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45053040"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -263,11 +434,11 @@
             <h4>
               <span>2025-08-28 @ 14:40:58</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45052784"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -284,11 +455,11 @@
             <h4>
               <span>2025-08-28 @ 14:14:17</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45052429"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -303,7 +474,7 @@
             <h4>
               <span>2025-08-28 @ 12:49:10</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45051542"
                   >Comments</a
@@ -323,32 +494,11 @@
             <h4>
               <span>2025-08-28 @ 12:29:15</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45051345"
                   >Comments</a
                 ><span class="descendants">: 23</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45051188">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai"
-              >Rendering a Game in Real-Time with AI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-28 @ 12:10:14</span
-              ><span class="points-container"
-                >Points: <span class="points">93</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45051188"
-                  >Comments</a
-                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -381,11 +531,11 @@
             <h4>
               <span>2025-08-28 @ 11:51:30</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45051034"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -400,11 +550,11 @@
             <h4>
               <span>2025-08-28 @ 11:42:35</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45050958"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -421,11 +571,11 @@
             <h4>
               <span>2025-08-28 @ 11:38:44</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45050931"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -443,11 +593,11 @@
             <h4>
               <span>2025-08-28 @ 11:29:42</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45050873"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -462,11 +612,11 @@
             <h4>
               <span>2025-08-28 @ 10:39:08</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45050538"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -483,11 +633,11 @@
             <h4>
               <span>2025-08-28 @ 10:15:22</span
               ><span class="points-container"
-                >Points: <span class="points">231</span></span
+                >Points: <span class="points">253</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45050415"
                   >Comments</a
-                ><span class="descendants">: 228</span></span
+                ><span class="descendants">: 238</span></span
               >
             </h4>
           </section>
@@ -502,11 +652,11 @@
             <h4>
               <span>2025-08-28 @ 09:16:17</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45050090"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -523,11 +673,32 @@
             <h4>
               <span>2025-08-28 @ 04:37:12</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45048419"
                   >Comments</a
                 ><span class="descendants">: 205</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45047897">
+          <h3>
+            <a
+              class="item"
+              href="https://onionservices.torproject.org/research/proposals/usability/certificates/"
+              >Certificates for Onion Services</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-28 @ 03:05:42</span
+              ><span class="points-container"
+                >Points: <span class="points">117</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45047897"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -542,11 +713,11 @@
             <h4>
               <span>2025-08-28 @ 02:12:23</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45047572"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -563,11 +734,11 @@
             <h4>
               <span>2025-08-28 @ 01:54:59</span
               ><span class="points-container"
-                >Points: <span class="points">248</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45047460"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -585,11 +756,11 @@
             <h4>
               <span>2025-08-28 @ 00:22:24</span
               ><span class="points-container"
-                >Points: <span class="points">500</span></span
+                >Points: <span class="points">502</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45046916"
                   >Comments</a
-                ><span class="descendants">: 269</span></span
+                ><span class="descendants">: 270</span></span
               >
             </h4>
           </section>
@@ -605,49 +776,13 @@
             <h4>
               <span>2025-08-27 @ 21:08:49</span
               ><span class="points-container"
-                >Points: <span class="points">309</span></span
+                >Points: <span class="points">310</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45045307"
                   >Comments</a
                 ><span class="descendants">: 94</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="45034496">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c"
-              >Malicious versions of Nx and some supporting plugins were
-              published</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-27 @ 01:38:48</span
-              ><span class="points-container"
-                >Points: <span class="points">427</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45034496"
-                  >Comments</a
-                ><span class="descendants">: 422</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                <a
-                  href="https://www.stepsecurity.io/blog/supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware"
-                  >https://www.stepsecurity.io/blog/supply-chain-security-alert...</a
-                >
-              </p>
-              <p>
-                <a
-                  href="https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/"
-                  >https://semgrep.dev/blog/2025/security-alert-nx-compromised-...</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="45015156">
@@ -662,7 +797,7 @@
             <h4>
               <span>2025-08-25 @ 15:48:08</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45015156"
                   >Comments</a
@@ -683,11 +818,11 @@
             <h4>
               <span>2025-08-25 @ 13:00:15</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45013373"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -705,11 +840,11 @@
             <h4>
               <span>2025-08-25 @ 10:35:24</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45012376"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -726,33 +861,11 @@
             <h4>
               <span>2025-08-25 @ 05:08:22</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45010406"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44998010">
-          <h3>
-            <a
-              class="item"
-              href="https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line"
-              >Toyota is recycling old EV batteries to help power Mazda's
-              production line</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-23 @ 18:29:05</span
-              ><span class="points-container"
-                >Points: <span class="points">295</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44998010"
-                  >Comments</a
-                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
