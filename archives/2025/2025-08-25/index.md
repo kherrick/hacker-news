@@ -44,6 +44,7 @@
 * [2025-08-25, 16:15:14](https://news.ycombinator.com/item?id=45015465) - [EU cave in on vehicle trade rules will cost European lives](https://www.transportenvironment.org/articles/eu-cave-in-on-vehicle-trade-rules-will-cost-european-lives-as-us-pick-up-trucks-flood-into-europe)
 * [2025-08-25, 16:06:24](https://news.ycombinator.com/item?id=45015354) - [FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
 * [2025-08-25, 15:56:26](https://news.ycombinator.com/item?id=45015230) - [Launch HN: April (YC S25) – Voice AI to manage your email and calendar](https://news.ycombinator.com/item?id=45015230)
+* [2025-08-25, 15:48:08](https://news.ycombinator.com/item?id=45015156) - [Birth of 86-DOS – By Nemanja Trifunovic](https://nemanjatrifunovic.substack.com/p/birth-of-86-dos)
 * [2025-08-25, 15:36:38](https://news.ycombinator.com/item?id=45015016) - [Barking Up the Ratchet Tree – MLS Is Neither Royal nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
 * [2025-08-25, 15:34:50](https://news.ycombinator.com/item?id=45014993) - [Building the mouse Logitech won't make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
 * [2025-08-25, 15:27:59](https://news.ycombinator.com/item?id=45014911) - [Antirez/sds: Simple Dynamic Strings library for C](https://github.com/antirez/sds)
