@@ -25,10 +25,10 @@
 * [2025-08-28, 11:38:44](https://news.ycombinator.com/item?id=45050931) - [Important machine learning equations](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/)
 * [2025-08-28, 11:29:42](https://news.ycombinator.com/item?id=45050873) - [Microbial metabolite repairs liver injury by restoring hepatic lipid metabolism](https://journals.asm.org/doi/10.1128/mbio.01718-25)
 * [2025-08-28, 10:15:22](https://news.ycombinator.com/item?id=45050415) - [Are OpenAI and Anthropic losing money on inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
-* [2025-08-28, 09:16:17](https://news.ycombinator.com/item?id=45050090) - [Claude Code Checkpoints](https://claude-checkpoints.com/)
 * [2025-08-27, 16:34:31](https://news.ycombinator.com/item?id=45041879) - [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
 * [2025-08-25, 19:42:17](https://news.ycombinator.com/item?id=45018089) - [The Lobster Programming Language](https://www.strlen.com/lobster/)
+* [2025-08-25, 12:22:52](https://news.ycombinator.com/item?id=45013064) - [The Unforgotten](https://www.espn.com/nfl/story/_/id/46012436/football-forever-young-college-high-school-nfl)
 * [2025-08-25, 02:06:10](https://news.ycombinator.com/item?id=45009546) - [Performance Speed Limits (2019)](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
 
 ## [Archives](archives/index.md)
