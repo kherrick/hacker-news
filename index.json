@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-08-28, 12:53:37",
+      "https://news.ycombinator.com/item?id=45051584"
+    ],
+    [
+      "The Cost of Transparency: Living with Schizoaffective Disorder in Tech",
+      "https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 12:49:10",
+      "https://news.ycombinator.com/item?id=45051542"
+    ],
+    [
+      "GPUPrefixSums – state of the art GPU prefix sum algorithms",
+      "https://github.com/b0nes164/GPUPrefixSums"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 12:31:15",
+      "https://news.ycombinator.com/item?id=45051361"
+    ],
+    [
+      "That boolean should probably be something else",
+      "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 12:29:15",
+      "https://news.ycombinator.com/item?id=45051345"
+    ],
+    [
+      "Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions",
+      "https://verdagon.dev/blog/group-borrowing"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 12:10:14",
       "https://news.ycombinator.com/item?id=45051188"
     ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45050931"
     ],
     [
-      "The Most Important Machine Learning Equations: A Comprehensive Guide",
+      "The most important machine learning equations: A comprehensive guide",
       "https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/"
     ]
   ],
@@ -57,6 +97,16 @@
     [
       "Petition to stop Google from restricting sideloading and FOSS apps",
       "https://news.ycombinator.com/item?id=45050502"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 10:15:22",
+      "https://news.ycombinator.com/item?id=45050415"
+    ],
+    [
+      "Are OpenAI and Anthropic Losing Money on Inference?",
+      "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/"
     ]
   ],
   [
@@ -141,32 +191,12 @@
   ],
   [
     [
-      "2025-08-27, 21:16:56",
-      "https://news.ycombinator.com/item?id=45045398"
-    ],
-    [
-      "Google has eliminated 35% of managers overseeing small teams in past year",
-      "https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 21:08:49",
       "https://news.ycombinator.com/item?id=45045307"
     ],
     [
       "Yamanot.es: A music box of train station melodies from the JR Yamanote Line",
       "https://yamanot.es/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 16:24:12",
-      "https://news.ycombinator.com/item?id=45041743"
-    ],
-    [
-      "GMP damaging Zen 5 CPUs?",
-      "https://gmplib.org/gmp-zen5"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2025-08-27, 09:43:43",
-      "https://news.ycombinator.com/item?id=45037365"
-    ],
-    [
-      "The GitHub website is slow on Safari",
-      "https://github.com/orgs/community/discussions/170758"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 01:38:48",
       "https://news.ycombinator.com/item?id=45034496"
     ],
     [
       "Malicious versions of Nx and some supporting plugins were published",
       "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 08:34:15",
-      "https://news.ycombinator.com/item?id=45023857"
-    ],
-    [
-      "Object-oriented design patterns in C and kernel development",
-      "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev"
     ]
   ],
   [
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2025-08-25, 11:23:08",
-      "https://news.ycombinator.com/item?id=45012639"
-    ],
-    [
-      "Pausing Insect Activity",
-      "https://www.asimov.press/p/insect-diapause"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 08:43:55",
-      "https://news.ycombinator.com/item?id=45011679"
-    ],
-    [
-      "What is this? The case for continually questioning our online experience (2021)",
-      "https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 05:08:22",
       "https://news.ycombinator.com/item?id=45010406"
     ],
@@ -287,6 +277,16 @@
     [
       "Nvidia DGX Spark",
       "https://www.nvidia.com/en-us/products/workstations/dgx-spark/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 21:15:50",
+      "https://news.ycombinator.com/item?id=45007857"
+    ],
+    [
+      "A Ritzy L.A. Enclave Learned a Bitter Lesson About the Limits of Its Wealth",
+      "https://www.nytimes.com/2025/08/24/magazine/landfill-calabasas-los-angeles-wildfire-ash.html"
     ]
   ],
   [
