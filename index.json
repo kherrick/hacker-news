@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-08-28, 16:21:53",
+      "https://news.ycombinator.com/item?id=45054037"
+    ],
+    [
+      "American military service members deserve the right to repair",
+      "https://www.militarytimes.com/opinion/2025/07/11/why-service-members-deserve-the-right-to-repair/"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 16:05:13",
       "https://news.ycombinator.com/item?id=45053872"
     ],
     [
       "PinePhone Pro [GNU/Linux smartphone] has been discontinued",
       "https://social.treehouse.systems/@pine64/115027515081143369"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 15:55:49",
+      "https://news.ycombinator.com/item?id=45053771"
+    ],
+    [
+      "China Is Eating the World",
+      "https://apropos.substack.com/p/china-is-eating-the-world"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 15:30:52",
+      "https://news.ycombinator.com/item?id=45053462"
+    ],
+    [
+      "Optimising for maintainability – Gleam in production at Strand",
+      "https://gleam.run/case-studies/strand/"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Mosh (Mobile Shell)",
       "https://mosh.org"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 14:40:58",
+      "https://news.ycombinator.com/item?id=45052784"
+    ],
+    [
+      "Will AI Replace Human Thinking? The Case for Writing and Coding Manually",
+      "https://www.ssp.sh/brain/will-ai-replace-humans/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2025-08-28, 09:31:13",
-      "https://news.ycombinator.com/item?id=45050192"
-    ],
-    [
-      "Windows 11 Update KB5063878 Causing SSD Failures",
-      "https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 09:16:17",
       "https://news.ycombinator.com/item?id=45050090"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2025-08-28, 05:30:23",
-      "https://news.ycombinator.com/item?id=45048736"
-    ],
-    [
-      "Lesser known mobile adtech domains where data is sent",
-      "https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 04:37:12",
       "https://news.ycombinator.com/item?id=45048419"
     ],
     [
       "The Deletion of Docker.io/Bitnami",
       "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 03:05:42",
-      "https://news.ycombinator.com/item?id=45047897"
-    ],
-    [
-      "Certificates for Onion Services",
-      "https://onionservices.torproject.org/research/proposals/usability/certificates/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "A Fast Bytecode VM for Arithmetic: The Compiler",
       "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 22:35:23",
-      "https://news.ycombinator.com/item?id=45008434"
-    ],
-    [
-      "Nvidia DGX Spark",
-      "https://www.nvidia.com/en-us/products/workstations/dgx-spark/"
     ]
   ],
   [
