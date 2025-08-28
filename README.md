@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-28, 14:59:14](https://news.ycombinator.com/item?id=45053040) - [Mosh (Mobile Shell)](https://mosh.org)
 * [2025-08-28, 14:14:17](https://news.ycombinator.com/item?id=45052429) - [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
 * [2025-08-28, 12:49:10](https://news.ycombinator.com/item?id=45051542) - [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
 * [2025-08-28, 12:10:14](https://news.ycombinator.com/item?id=45051188) - [Rendering a Game in Real-Time with AI](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
@@ -19,7 +20,6 @@
 * [2025-08-28, 01:54:59](https://news.ycombinator.com/item?id=45047460) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
 * [2025-08-28, 00:22:24](https://news.ycombinator.com/item?id=45046916) - [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
 * [2025-08-27, 21:08:49](https://news.ycombinator.com/item?id=45045307) - [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
-* [2025-08-27, 16:24:12](https://news.ycombinator.com/item?id=45041743) - [GMP damaging Zen 5 CPUs?](https://gmplib.org/gmp-zen5)
 * [2025-08-27, 15:50:54](https://news.ycombinator.com/item?id=45041315) - [VIM Master](https://github.com/renzorlive/vimmaster)
 * [2025-08-27, 15:48:07](https://news.ycombinator.com/item?id=45041286) - [Unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 15:39:33](https://news.ycombinator.com/item?id=45041185) - [Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone](https://news.ycombinator.com/item?id=45041185)
