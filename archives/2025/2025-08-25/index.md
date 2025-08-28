@@ -90,6 +90,7 @@
 * [2025-08-25, 04:18:56](https://news.ycombinator.com/item?id=45010161) - [Git-Annex](https://git-annex.branchable.com/)
 * [2025-08-25, 03:33:01](https://news.ycombinator.com/item?id=45009949) - [We need a new theory of democracy – because this version has failed](https://www.salon.com/2025/08/24/we-need-a-new-theory-of-democracy-because-this-version-has-failed/)
 * [2025-08-25, 02:53:35](https://news.ycombinator.com/item?id=45009760) - [Japan has opened its first osmotic power plant](https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka)
+* [2025-08-25, 02:28:14](https://news.ycombinator.com/item?id=45009629) - [Leeches and the Legitimizing of Folk-Medicine](https://www.asimov.press/p/leeches)
 * [2025-08-25, 01:52:34](https://news.ycombinator.com/item?id=45009486) - [Show HN: Decentralized Bitcoin Incentives via QR Codes](https://github.com/DT7QR/Bitcoin-Rewards-System-Proposal)
 * [2025-08-25, 00:46:22](https://news.ycombinator.com/item?id=45009164) - [The Unix-Haters Handbook (1994) [pdf]](https://simson.net/ref/ugh.pdf)
 * [2025-08-25, 00:10:00](https://news.ycombinator.com/item?id=45008995) - [I'm Fighting for My Freedom Using Outdated Technology](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
