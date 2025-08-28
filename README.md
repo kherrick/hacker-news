@@ -28,8 +28,8 @@
 * [2025-08-28, 10:15:22](https://news.ycombinator.com/item?id=45050415) - [Are OpenAI and Anthropic losing money on inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
 * [2025-08-27, 16:34:31](https://news.ycombinator.com/item?id=45041879) - [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 * [2025-08-27, 07:55:43](https://news.ycombinator.com/item?id=45036704) - [Thrashing](https://exple.tive.org/blarg/2025/08/26/thrashing/)
+* [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
-* [2025-08-25, 02:06:10](https://news.ycombinator.com/item?id=45009546) - [Performance Speed Limits (2019)](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
 
 ## [Archives](archives/index.md)
 
