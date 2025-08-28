@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 21:39:18](https://news.ycombinator.com/item?id=45057346) - [Sometimes CPU cores are odd – Anubis](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
 * [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
 * [2025-08-28, 21:02:28](https://news.ycombinator.com/item?id=45057002) - [There Goes the American Muscle Car](https://thedispatch.com/article/dodge-challenger-muscle-cars/)
 * [2025-08-28, 20:37:11](https://news.ycombinator.com/item?id=45056768) - [Spiped – secure pipe for SSH, SMTP, etc.](https://www.tarsnap.com/spiped.html)

@@ -49,6 +49,7 @@
 * [2025-08-25, 15:36:38](https://news.ycombinator.com/item?id=45015016) - [Barking Up the Ratchet Tree – MLS Is Neither Royal nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
 * [2025-08-25, 15:34:50](https://news.ycombinator.com/item?id=45014993) - [Building the mouse Logitech won't make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
 * [2025-08-25, 15:27:59](https://news.ycombinator.com/item?id=45014911) - [Antirez/sds: Simple Dynamic Strings library for C](https://github.com/antirez/sds)
+* [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
 * [2025-08-25, 14:50:21](https://news.ycombinator.com/item?id=45014489) - [Hundreds lose water source in Colorado's poorest county with no notice](https://coloradosun.com/2025/08/25/costilla-county-water-cutoff/)
 * [2025-08-25, 14:31:50](https://news.ycombinator.com/item?id=45014275) - [What Is Synthetic Gasoline?](https://iere.org/what-is-synthetic-gasoline/)
 * [2025-08-25, 14:17:38](https://news.ycombinator.com/item?id=45014131) - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
