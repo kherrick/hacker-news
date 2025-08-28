@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-28, 20:20:31](https://news.ycombinator.com/item?id=45056613) - [CDC Implosion Continues as Staff Stage Unprecedented Walk Out](https://gizmodo.com/the-cdc-implosion-continues-as-staff-plan-walkout-2000649819)
 * [2025-08-28, 19:38:20](https://news.ycombinator.com/item?id=45056177) - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
 * [2025-08-28, 19:35:22](https://news.ycombinator.com/item?id=45056142) - [RFC 8594: The Sunset HTTP Header Field](https://datatracker.ietf.org/doc/html/rfc8594)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
@@ -23,6 +22,7 @@
 * [2025-08-28, 11:38:44](https://news.ycombinator.com/item?id=45050931) - [Important machine learning equations](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/)
 * [2025-08-28, 11:29:42](https://news.ycombinator.com/item?id=45050873) - [Microbial metabolite repairs liver injury by restoring hepatic lipid metabolism](https://journals.asm.org/doi/10.1128/mbio.01718-25)
 * [2025-08-28, 10:15:22](https://news.ycombinator.com/item?id=45050415) - [Are OpenAI and Anthropic losing money on inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
+* [2025-08-28, 09:16:17](https://news.ycombinator.com/item?id=45050090) - [Claude Code Checkpoints](https://claude-checkpoints.com/)
 * [2025-08-27, 16:34:31](https://news.ycombinator.com/item?id=45041879) - [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 * [2025-08-26, 20:59:35](https://news.ycombinator.com/item?id=45032261) - [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
