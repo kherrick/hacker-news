@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-28, 18:52:00",
+      "https://news.ycombinator.com/item?id=45055641"
+    ],
+    [
+      "Some thoughts on LLMs and software development",
+      "https://martinfowler.com/articles/202508-ai-thoughts.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 18:34:29",
+      "https://news.ycombinator.com/item?id=45055439"
+    ],
+    [
+      "Building your own CLI coding agent with Pydantic-AI",
+      "https://martinfowler.com/articles/build-own-coding-agent.html"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 18:25:39",
       "https://news.ycombinator.com/item?id=45055335"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45054037"
     ],
     [
-      "American military service members deserve the right to repair",
+      "Service members deserve the right to repair",
       "https://www.militarytimes.com/opinion/2025/07/11/why-service-members-deserve-the-right-to-repair/"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "PinePhone Pro [GNU/Linux smartphone] has been discontinued",
       "https://social.treehouse.systems/@pine64/115027515081143369"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 15:59:11",
-      "https://news.ycombinator.com/item?id=45053806"
-    ],
-    [
-      "Updates to Consumer Terms and Privacy Policy",
-      "https://www.anthropic.com/news/updates-to-our-consumer-terms"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=45052429"
     ],
     [
-      "How to Install TrueNAS on a Raspberry Pi",
+      "How to install TrueNAS on a Raspberry Pi",
       "https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi"
     ]
   ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=45050958"
     ],
     [
-      "GAN Math (2020)",
+      "The Math Behind GANs (2020)",
       "https://jaketae.github.io/study/gan-math/"
     ]
   ],
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2025-08-25, 15:48:08",
-      "https://news.ycombinator.com/item?id=45015156"
-    ],
-    [
-      "Birth of 86-DOS – By Nemanja Trifunovic",
-      "https://nemanjatrifunovic.substack.com/p/birth-of-86-dos"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 13:00:15",
       "https://news.ycombinator.com/item?id=45013373"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-25, 10:35:24",
-      "https://news.ycombinator.com/item?id=45012376"
+      "2025-08-25, 12:22:52",
+      "https://news.ycombinator.com/item?id=45013064"
     ],
     [
-      "iOS Elegantbouncer: When You Can't Get Samples but Still Need to Catch Threats",
-      "https://www.msuiche.com/posts/elegantbouncer-when-you-cant-get-the-samples-but-still-need-to-catch-the-threat/"
+      "The Unforgotten",
+      "https://www.espn.com/nfl/story/_/id/46012436/football-forever-young-college-high-school-nfl"
     ]
   ]
 ]
