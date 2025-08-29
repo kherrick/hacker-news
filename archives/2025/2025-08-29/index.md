@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 20:28:35](https://news.ycombinator.com/item?id=45069014) - [How to Stop Google from AI-Summarising Your Website](https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website)
 * [2025-08-29, 20:25:34](https://news.ycombinator.com/item?id=45068986) - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
 * [2025-08-29, 19:20:28](https://news.ycombinator.com/item?id=45068268) - [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
 * [2025-08-29, 19:15:55](https://news.ycombinator.com/item?id=45068215) - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
