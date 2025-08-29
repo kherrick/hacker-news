@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 15:28:47](https://news.ycombinator.com/item?id=45065391) - [Taco Bell rethinks AI drive-through after man orders 18,000 waters](https://www.bbc.com/news/articles/ckgyk2p55g8o)
 * [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 * [2025-08-29, 14:02:59](https://news.ycombinator.com/item?id=45064284) - [The Curious Case of Flunking My Anthropic Interview (Again)](https://taylor.town/flunking-anthropic)
 * [2025-08-29, 13:56:50](https://news.ycombinator.com/item?id=45064210) - [Show HN: Find Hidden Gems on HN](https://pj4533.com/hn-overlooked/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-29, 15:28:47](https://news.ycombinator.com/item?id=45065391) - [Taco Bell rethinks AI drive-through after man orders 18,000 waters](https://www.bbc.com/news/articles/ckgyk2p55g8o)
 * [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 * [2025-08-29, 13:56:50](https://news.ycombinator.com/item?id=45064210) - [Show HN: Find Hidden Gems on HN](https://pj4533.com/hn-overlooked/)
 * [2025-08-29, 13:37:53](https://news.ycombinator.com/item?id=45063972) - [Private Equity Snaps Up Disability Services, Challenging Regulators](https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators)
@@ -17,8 +18,6 @@
 * [2025-08-29, 03:57:46](https://news.ycombinator.com/item?id=45060004) - [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html)
 * [2025-08-29, 01:55:14](https://news.ycombinator.com/item?id=45059160) - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
 * [2025-08-29, 00:44:27](https://news.ycombinator.com/item?id=45058688) - [Claude Sonnet will ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
-* [2025-08-28, 21:44:47](https://news.ycombinator.com/item?id=45057404) - [The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
-* [2025-08-28, 21:36:36](https://news.ycombinator.com/item?id=45057322) - [Expert: LSP for Elixir](https://github.com/elixir-lang/expert)
 * [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
 * [2025-08-28, 17:22:54](https://news.ycombinator.com/item?id=45054703) - [Uncertain<T>](https://nshipster.com/uncertainty/)
@@ -28,6 +27,7 @@
 * [2025-08-27, 08:39:32](https://news.ycombinator.com/item?id=45036944) - [Show HN: Vectorless RAG](https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb)
 * [2025-08-27, 08:05:09](https://news.ycombinator.com/item?id=45036761) - [Show HN: Auto-Match – How We Built Receipt-to-Transaction Matching (Open Source)](https://midday.ai/updates/automatic-reconciliation-engine/)
 * [2025-08-27, 06:23:22](https://news.ycombinator.com/item?id=45036052) - [How do I get into the Game Industry – by Garry's Mod creator](https://garry.net/posts/how-do-i-get-into-the-game-industry)
+* [2025-08-25, 18:27:31](https://news.ycombinator.com/item?id=45017177) - [Nullable vs. Nullable in C#](https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/)
 * [2025-08-25, 17:20:05](https://news.ycombinator.com/item?id=45016263) - [It’s Not Wrong that (for HN) “[facepalm emoji]”.length == 36](https://zaerl.com/2025/08/24/its-not-wrong-that-for-hn-%f0%9f%a4%a6%f0%9f%8f%bc%e2%99%82%ef%b8%8f-length-36/)
 * [2025-08-25, 09:48:53](https://news.ycombinator.com/item?id=45012080) - [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://oxism.com/trystero/)
 
