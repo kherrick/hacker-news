@@ -21,7 +21,6 @@
 * [2025-08-28, 16:22:02](https://news.ycombinator.com/item?id=45054040) - [Launch HN: Dedalus Labs (YC S25) – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
 * [2025-08-28, 14:40:58](https://news.ycombinator.com/item?id=45052784) - [Will AI Replace Human Thinking? The Case for Writing and Coding Manually](https://www.ssp.sh/brain/will-ai-replace-humans/)
 * [2025-08-28, 14:13:44](https://news.ycombinator.com/item?id=45052423) - [AI adoption linked to 13% decline in jobs for young U.S. workers: study](https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html)
-* [2025-08-28, 13:51:51](https://news.ycombinator.com/item?id=45052200) - [Show HN: SwiftAI – open-source library to easily build LLM features on iOS/macOS](https://github.com/mi12labs/SwiftAI)
 * [2025-08-28, 10:15:22](https://news.ycombinator.com/item?id=45050415) - [Are OpenAI and Anthropic losing money on inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
 * [2025-08-27, 16:34:31](https://news.ycombinator.com/item?id=45041879) - [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 * [2025-08-27, 11:52:47](https://news.ycombinator.com/item?id=45038381) - [The King's Quarry: How Louis XVI Went from Hunter to Hunted](https://worldhistory.substack.com/p/the-kings-quarry)
@@ -30,6 +29,7 @@
 * [2025-08-27, 06:30:36](https://news.ycombinator.com/item?id=45036094) - [Dependent Types: Universes, or types of types](https://www.jonmsterling.com/01ET/index.xml)
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
+* [2025-08-25, 14:45:57](https://news.ycombinator.com/item?id=45014445) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 
 ## [Archives](archives/index.md)
 
