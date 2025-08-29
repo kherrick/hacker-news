@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-08-29, 17:00:04",
+      "https://news.ycombinator.com/item?id=45066592"
+    ],
+    [
+      "Thunder Compute (YC S24) Is Hiring",
+      "https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 16:45:21",
+      "https://news.ycombinator.com/item?id=45066395"
+    ],
+    [
+      "John Carmack's arguments against building a custom XR OS at Meta",
+      "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 16:35:24",
       "https://news.ycombinator.com/item?id=45066258"
     ],
     [
-      "The web does not need gatekeepers (Cloudflare)",
+      "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
       "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers"
     ]
   ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2025-08-29, 15:28:47",
-      "https://news.ycombinator.com/item?id=45065391"
-    ],
-    [
-      "Taco Bell rethinks AI drive-through after man orders 18,000 waters",
-      "https://www.bbc.com/news/articles/ckgyk2p55g8o"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 15:24:13",
       "https://news.ycombinator.com/item?id=45065343"
     ],
@@ -107,6 +117,16 @@
     [
       "Deploying DeepSeek on 96 H100 GPUs",
       "https://lmsys.org/blog/2025-05-05-large-scale-ep/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 14:02:59",
+      "https://news.ycombinator.com/item?id=45064284"
+    ],
+    [
+      "Flunking my Anthropic interview again",
+      "https://taylor.town/flunking-anthropic"
     ]
   ],
   [
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2025-08-29, 13:01:45",
+      "https://news.ycombinator.com/item?id=45063559"
+    ],
+    [
+      "Grok Code Fast 1",
+      "https://x.ai/news/grok-code-fast-1"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 13:00:49",
       "https://news.ycombinator.com/item?id=45063547"
     ],
@@ -155,18 +185,8 @@
       "https://news.ycombinator.com/item?id=45063431"
     ],
     [
-      "Gun Maker Sig Sauer Citing National Security to Keep Documents from Public",
+      "Sig Sauer citing national security to keep documents from public",
       "https://practicalshootinginsights.com/eighth-circuit-fmeca-update/"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 12:01:52",
-      "https://news.ycombinator.com/item?id=45062914"
-    ],
-    [
-      "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
-      "https://deepnote.com/join-us"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-08-29, 04:22:48",
-      "https://news.ycombinator.com/item?id=45060161"
+      "2025-08-29, 06:37:21",
+      "https://news.ycombinator.com/item?id=45060920"
     ],
     [
-      "Strange CW Keys",
-      "https://sites.google.com/site/oh6dccw/strangecwkeys"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 03:57:46",
-      "https://news.ycombinator.com/item?id=45060004"
-    ],
-    [
-      "PSA: Libxslt is unmaintained and has 5 unpatched security bugs",
-      "https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 01:55:14",
-      "https://news.ycombinator.com/item?id=45059160"
-    ],
-    [
-      "Lucky 13: a look at Debian trixie",
-      "https://lwn.net/Articles/1033474/"
+      "The Synology End Game",
+      "https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/"
     ]
   ],
   [
