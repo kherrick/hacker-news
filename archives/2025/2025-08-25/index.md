@@ -31,6 +31,7 @@
 * [2025-08-25, 19:29:50](https://news.ycombinator.com/item?id=45017930) - [By Birth Alone: The Original Meaning of Birthright Citizenship](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5394605)
 * [2025-08-25, 19:15:02](https://news.ycombinator.com/item?id=45017770) - [A mini-book on AWS networking](https://www.ducktyped.org/p/a-mini-book-on-aws-networking-introduction)
 * [2025-08-25, 19:07:11](https://news.ycombinator.com/item?id=45017685) - [Angry Metal Guy Speaks: On Spotify](https://www.angrymetalguy.com/angry-metal-guy-speaks-on-spotify/)
+* [2025-08-25, 18:27:31](https://news.ycombinator.com/item?id=45017177) - [Nullable vs. Nullable in C#](https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/)
 * [2025-08-25, 18:18:18](https://news.ycombinator.com/item?id=45017028) - [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
 * [2025-08-25, 18:15:41](https://news.ycombinator.com/item?id=45016999) - [With AI chatbots, Big Tech is moving fast and breaking people](https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/)
 * [2025-08-25, 18:04:54](https://news.ycombinator.com/item?id=45016826) - [First absolute superconducting switch developed in a magnetic device](https://phys.org/news/2025-08-absolute-superconducting-magnetic-device.html)
