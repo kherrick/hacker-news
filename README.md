@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-29, 02:39:44](https://news.ycombinator.com/item?id=45059470) - [A Deep Dive into Debian 13 /tmp: What's New, and What to Do If You Don't Like It](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
 * [2025-08-29, 00:44:27](https://news.ycombinator.com/item?id=45058688) - [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
 * [2025-08-28, 23:27:27](https://news.ycombinator.com/item?id=45058171) - [Python: The Documentary](https://lwn.net/Articles/1035537/)
 * [2025-08-28, 23:04:01](https://news.ycombinator.com/item?id=45058024) - [RSS is awesome](https://evanverma.com/rss-is-awesome)
@@ -15,7 +16,6 @@
 * [2025-08-28, 19:38:20](https://news.ycombinator.com/item?id=45056177) - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
 * [2025-08-28, 18:34:29](https://news.ycombinator.com/item?id=45055439) - [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
-* [2025-08-28, 18:25:39](https://news.ycombinator.com/item?id=45055335) - [VLT observations of interstellar comet 3I/ATLAS II](https://arxiv.org/abs/2508.18382)
 * [2025-08-28, 17:22:54](https://news.ycombinator.com/item?id=45054703) - [Uncertain<T>](https://nshipster.com/uncertainty/)
 * [2025-08-28, 16:43:05](https://news.ycombinator.com/item?id=45054260) - [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
 * [2025-08-28, 16:22:02](https://news.ycombinator.com/item?id=45054040) - [Launch HN: Dedalus Labs (YC S25) – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
