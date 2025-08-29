@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 13:30:16](https://news.ycombinator.com/item?id=45063874) - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
 * [2025-08-29, 13:00:49](https://news.ycombinator.com/item?id=45063547) - [Show HN: A minimal TS library that generates prompt injection attacks](https://prompt-injector.blueprintlab.io/)
 * [2025-08-29, 12:58:35](https://news.ycombinator.com/item?id=45063526) - [A Dark Money Group Is Funding High-Profile Democratic Influencers](https://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/)
 * [2025-08-29, 12:51:01](https://news.ycombinator.com/item?id=45063431) - [Gun Maker Sig Sauer Citing National Security to Keep Documents from Public](https://practicalshootinginsights.com/eighth-circuit-fmeca-update/)
