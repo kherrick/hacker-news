@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 12:01:52](https://news.ycombinator.com/item?id=45062914) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2025-08-29, 12:01:31](https://news.ycombinator.com/item?id=45062910) - [Meta might be secretly scanning your phone's camera roll](https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/)
 * [2025-08-29, 11:39:26](https://news.ycombinator.com/item?id=45062738) - [If you have a Claude account, they're going to train on your data moving forward](https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/)
 * [2025-08-29, 11:29:10](https://news.ycombinator.com/item?id=45062683) - [Anthropic reverses privacy stance, will train on Claude chats](https://www.perplexity.ai/page/anthropic-reverses-privacy-sta-xH4KWU9nS3KH4Aj9F12dvQ)
+* [2025-08-29, 11:15:39](https://news.ycombinator.com/item?id=45062614) - [Tesla said it didn't have key data in a fatal crash. Then a hacker found it](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/)
 * [2025-08-29, 10:15:58](https://news.ycombinator.com/item?id=45062274) - [What the interns have wrought, 2025](https://blog.janestreet.com/wrought-2025/)
 * [2025-08-29, 09:28:50](https://news.ycombinator.com/item?id=45061980) - [Probability of typing a wrong Bitcoin address](https://www.johndcook.com/blog/2025/08/28/wrong-address/)
 * [2025-08-29, 08:20:12](https://news.ycombinator.com/item?id=45061537) - [Reuters stopped sharing Gaza locations with Israel after IDF strikes](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)

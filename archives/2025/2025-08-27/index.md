@@ -58,6 +58,7 @@
 * [2025-08-27, 08:41:01](https://news.ycombinator.com/item?id=45036957) - [Denmark summons top US diplomat over alleged Greenland influence operation](https://www.bbc.com/news/articles/c0j9l08902eo)
 * [2025-08-27, 08:39:32](https://news.ycombinator.com/item?id=45036944) - [Show HN: Vectorless RAG](https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb)
 * [2025-08-27, 08:38:58](https://news.ycombinator.com/item?id=45036939) - [WebLibre: The Privacy-Focused Browser](https://docs.weblibre.eu/)
+* [2025-08-27, 08:05:09](https://news.ycombinator.com/item?id=45036761) - [Show HN: Auto-Match – How We Built Receipt-to-Transaction Matching (Open Source)](https://midday.ai/updates/automatic-reconciliation-engine/)
 * [2025-08-27, 08:04:02](https://news.ycombinator.com/item?id=45036754) - [Malleable Software Will Eat the SaaS World](https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/)
 * [2025-08-27, 07:57:01](https://news.ycombinator.com/item?id=45036708) - [Ask HN: What to Learn for Math for Modeling?](https://news.ycombinator.com/item?id=45036708)
 * [2025-08-27, 07:55:43](https://news.ycombinator.com/item?id=45036704) - [Thrashing](https://exple.tive.org/blarg/2025/08/26/thrashing/)
