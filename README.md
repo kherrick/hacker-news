@@ -23,13 +23,13 @@
 * [2025-08-28, 13:51:51](https://news.ycombinator.com/item?id=45052200) - [Show HN: SwiftAI – open-source library to easily build LLM features on iOS/macOS](https://github.com/mi12labs/SwiftAI)
 * [2025-08-28, 12:31:15](https://news.ycombinator.com/item?id=45051361) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-08-28, 12:00:48](https://news.ycombinator.com/item?id=45051096) - [Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
-* [2025-08-28, 11:51:30](https://news.ycombinator.com/item?id=45051034) - [Charting Form Ds to roughly see the state of venture capital “fund” raising](https://tj401.com/blog/formd/index.html)
 * [2025-08-28, 11:29:42](https://news.ycombinator.com/item?id=45050873) - [Microbial metabolite repairs liver injury by restoring hepatic lipid metabolism](https://journals.asm.org/doi/10.1128/mbio.01718-25)
 * [2025-08-28, 10:15:22](https://news.ycombinator.com/item?id=45050415) - [Are OpenAI and Anthropic losing money on inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
 * [2025-08-27, 16:34:31](https://news.ycombinator.com/item?id=45041879) - [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 * [2025-08-27, 07:55:43](https://news.ycombinator.com/item?id=45036704) - [Thrashing](https://exple.tive.org/blarg/2025/08/26/thrashing/)
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
+* [2025-08-25, 02:06:10](https://news.ycombinator.com/item?id=45009546) - [Performance Speed Limits (2019)](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
 
 ## [Archives](archives/index.md)
 
