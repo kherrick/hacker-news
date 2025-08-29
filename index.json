@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-08-29, 16:35:24",
+      "https://news.ycombinator.com/item?id=45066258"
+    ],
+    [
+      "The web does not need gatekeepers (Cloudflare)",
+      "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 16:25:13",
+      "https://news.ycombinator.com/item?id=45066126"
+    ],
+    [
+      "Show HN: FFmpeg Pages – because I was tired of fighting FFmpeg every time",
+      "https://ffmpegs.pages.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 16:24:14",
+      "https://news.ycombinator.com/item?id=45066113"
+    ],
+    [
+      "Bourbaki – A Secret Society of Mathematicians",
+      "https://books.google.com/books/about/Bourbaki.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 16:20:31",
+      "https://news.ycombinator.com/item?id=45066070"
+    ],
+    [
+      "Offline-First Landscape – 2025",
+      "https://marcoapp.io/blog/offline-first-landscape"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 16:19:56",
+      "https://news.ycombinator.com/item?id=45066060"
+    ],
+    [
+      "Wikipedia as a Graph",
+      "https://wikigrapher.com/paths"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 15:54:44",
       "https://news.ycombinator.com/item?id=45065717"
     ],
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2025-08-29, 13:15:10",
-      "https://news.ycombinator.com/item?id=45063704"
-    ],
-    [
-      "Apple Health lies to you about your six months sleep average",
-      "https://github.com/reschandreas/saverage"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 13:00:49",
       "https://news.ycombinator.com/item?id=45063547"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2025-08-29, 11:15:39",
-      "https://news.ycombinator.com/item?id=45062614"
-    ],
-    [
-      "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
-      "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 09:28:50",
       "https://news.ycombinator.com/item?id=45061980"
     ],
@@ -187,16 +217,6 @@
     [
       "Strange CW Keys",
       "https://sites.google.com/site/oh6dccw/strangecwkeys"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 03:57:46",
-      "https://news.ycombinator.com/item?id=45060004"
-    ],
-    [
-      "PSA: Libxslt is unmaintained and has 5 unpatched security bugs",
-      "https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-08-28, 17:22:54",
-      "https://news.ycombinator.com/item?id=45054703"
-    ],
-    [
-      "Uncertain<T>",
-      "https://nshipster.com/uncertainty/"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 10:59:37",
       "https://news.ycombinator.com/item?id=45037936"
     ],
@@ -267,16 +277,6 @@
     [
       "Show HN: Vectorless RAG",
       "https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 08:05:09",
-      "https://news.ycombinator.com/item?id=45036761"
-    ],
-    [
-      "Show HN: Auto-Match – How We Built Receipt-to-Transaction Matching (Open Source)",
-      "https://midday.ai/updates/automatic-reconciliation-engine/"
     ]
   ],
   [
