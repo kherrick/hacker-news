@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 16:35:24](https://news.ycombinator.com/item?id=45066258) - [The web does not need gatekeepers (Cloudflare)](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
+* [2025-08-29, 16:25:13](https://news.ycombinator.com/item?id=45066126) - [Show HN: FFmpeg Pages – because I was tired of fighting FFmpeg every time](https://ffmpegs.pages.dev/)
+* [2025-08-29, 16:24:14](https://news.ycombinator.com/item?id=45066113) - [Bourbaki – A Secret Society of Mathematicians](https://books.google.com/books/about/Bourbaki.html)
+* [2025-08-29, 16:20:31](https://news.ycombinator.com/item?id=45066070) - [Offline-First Landscape – 2025](https://marcoapp.io/blog/offline-first-landscape)
+* [2025-08-29, 16:19:56](https://news.ycombinator.com/item?id=45066060) - [Wikipedia as a Graph](https://wikigrapher.com/paths)
 * [2025-08-29, 15:54:44](https://news.ycombinator.com/item?id=45065717) - [Amtrak's New Acela Trains Are Here. They're Moving Slower Than the Old Ones](https://www.wsj.com/us-news/amtraks-new-acela-trains-are-here-theyre-moving-slower-than-the-old-ones-f0794127)
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [2025-08-29, 15:32:21](https://news.ycombinator.com/item?id=45065439) - [The Mattresses to Avoid Buying](https://www.choice.com.au/home-and-living/bedroom/mattresses/articles/mattresses-to-avoid-buying)
