@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-29, 21:13:50](https://news.ycombinator.com/item?id=45069452) - [MSNBC: Whistleblower accuses DOGE team of endangering Social Security data](https://whistleblower.org/in-the-news/msnbc-whistleblower-accuses-doge-team-of-endangering-critical-social-security-data/)
 * [2025-08-29, 20:28:35](https://news.ycombinator.com/item?id=45069014) - [How to Stop Google from AI-Summarising Your Website](https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website)
 * [2025-08-29, 20:25:34](https://news.ycombinator.com/item?id=45068986) - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
 * [2025-08-29, 19:20:28](https://news.ycombinator.com/item?id=45068268) - [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
@@ -9,8 +10,6 @@
 * [2025-08-29, 17:30:29](https://news.ycombinator.com/item?id=45066999) - [SQLite's Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
 * [2025-08-29, 17:00:04](https://news.ycombinator.com/item?id=45066592) - [Thunder Compute (YC S24) Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
 * [2025-08-29, 16:45:21](https://news.ycombinator.com/item?id=45066395) - [John Carmack's arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
-* [2025-08-29, 16:35:24](https://news.ycombinator.com/item?id=45066258) - [The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
-* [2025-08-29, 16:24:14](https://news.ycombinator.com/item?id=45066113) - [Bourbaki – A Secret Society of Mathematicians](https://books.google.com/books/about/Bourbaki.html)
 * [2025-08-29, 16:20:31](https://news.ycombinator.com/item?id=45066070) - [Offline-First Landscape – 2025](https://marcoapp.io/blog/offline-first-landscape)
 * [2025-08-29, 16:19:56](https://news.ycombinator.com/item?id=45066060) - [Wikipedia as a Graph](https://wikigrapher.com/paths)
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
@@ -30,6 +29,7 @@
 * [2025-08-27, 09:06:09](https://news.ycombinator.com/item?id=45037109) - [This is my brain on leeches](https://todaythings.substack.com/p/this-is-my-brain-on-leeches)
 * [2025-08-27, 08:58:38](https://news.ycombinator.com/item?id=45037064) - [Nous Research presents Hermes 4](https://hermes4.nousresearch.com/)
 * [2025-08-27, 06:23:22](https://news.ycombinator.com/item?id=45036052) - [How do I get into the Game Industry](https://garry.net/posts/how-do-i-get-into-the-game-industry)
+* [2025-08-26, 13:07:11](https://news.ycombinator.com/item?id=45026013) - [Why You Should Be Using XSLT 3.0 (2017)](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/)
 
 ## [Archives](archives/index.md)
 
