@@ -14,6 +14,7 @@
 * [2025-08-29, 15:54:44](https://news.ycombinator.com/item?id=45065717) - [Amtrak's New Acela Trains Are Here. They're Moving Slower Than the Old Ones](https://www.wsj.com/us-news/amtraks-new-acela-trains-are-here-theyre-moving-slower-than-the-old-ones-f0794127)
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [2025-08-29, 15:32:21](https://news.ycombinator.com/item?id=45065439) - [The Mattresses to Avoid Buying](https://www.choice.com.au/home-and-living/bedroom/mattresses/articles/mattresses-to-avoid-buying)
+* [2025-08-29, 15:31:15](https://news.ycombinator.com/item?id=45065425) - [God Created the Real Numbers](https://www.ethanheilman.com/x/34/index.html)
 * [2025-08-29, 15:28:47](https://news.ycombinator.com/item?id=45065391) - [Taco Bell rethinks AI drive-through after man orders 18,000 waters](https://www.bbc.com/news/articles/ckgyk2p55g8o)
 * [2025-08-29, 15:24:13](https://news.ycombinator.com/item?id=45065343) - [Why AI Isn't Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding)
 * [2025-08-29, 15:18:40](https://news.ycombinator.com/item?id=45065278) - [Seedbox Lite: A lightweight torrent streaming app with instant playback](https://github.com/hotheadhacker/seedbox-lite)
