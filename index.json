@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-08-29, 00:44:27",
+      "https://news.ycombinator.com/item?id=45058688"
+    ],
+    [
+      "Claude Sonnet Will Ship in Xcode",
+      "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 23:27:27",
+      "https://news.ycombinator.com/item?id=45058171"
+    ],
+    [
+      "Python: The Documentary",
+      "https://lwn.net/Articles/1035537/"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 23:04:01",
       "https://news.ycombinator.com/item?id=45058024"
     ],
     [
-      "RSS Is Awesome",
+      "RSS is awesome",
       "https://evanverma.com/rss-is-awesome"
     ]
   ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45057404"
     ],
     [
-      "Death by PowerPoint: the slide that killed seven people",
+      "The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)",
       "https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45057346"
     ],
     [
-      "Sometimes CPU cores are odd – Anubis",
+      "Sometimes CPU cores are odd",
       "https://anubis.techaro.lol/blog/2025/cpu-core-odd/"
     ]
   ],
@@ -67,6 +87,16 @@
     [
       "Fuck up my site – Turn any website into beautiful chaos",
       "https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 21:02:28",
+      "https://news.ycombinator.com/item?id=45057002"
+    ],
+    [
+      "There Goes the American Muscle Car",
+      "https://thedispatch.com/article/dodge-challenger-muscle-cars/"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Some thoughts on LLMs and software development",
       "https://martinfowler.com/articles/202508-ai-thoughts.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 18:35:46",
-      "https://news.ycombinator.com/item?id=45055452"
-    ],
-    [
-      "Web Bot Auth",
-      "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-08-28, 15:30:52",
-      "https://news.ycombinator.com/item?id=45053462"
-    ],
-    [
-      "Optimising for maintainability – Gleam in production at Strand",
-      "https://gleam.run/case-studies/strand/"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 14:40:58",
       "https://news.ycombinator.com/item?id=45052784"
     ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2025-08-28, 12:31:15",
-      "https://news.ycombinator.com/item?id=45051361"
-    ],
-    [
-      "That boolean should probably be something else",
-      "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 12:00:48",
       "https://news.ycombinator.com/item?id=45051096"
     ],
     [
       "Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)",
       "https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 11:29:42",
-      "https://news.ycombinator.com/item?id=45050873"
-    ],
-    [
-      "Microbial metabolite repairs liver injury by restoring hepatic lipid metabolism",
-      "https://journals.asm.org/doi/10.1128/mbio.01718-25"
     ]
   ],
   [
@@ -261,12 +251,32 @@
   ],
   [
     [
+      "2025-08-27, 07:57:01",
+      "https://news.ycombinator.com/item?id=45036708"
+    ],
+    [
+      "Ask HN: What to Learn for Math for Modeling?",
+      "https://news.ycombinator.com/item?id=45036708"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 07:55:43",
       "https://news.ycombinator.com/item?id=45036704"
     ],
     [
       "Thrashing",
       "https://exple.tive.org/blarg/2025/08/26/thrashing/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 06:30:36",
+      "https://news.ycombinator.com/item?id=45036094"
+    ],
+    [
+      "Dependent Types: Universes, or types of types",
+      "https://www.jonmsterling.com/01ET/index.xml"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "TuneD is a system tuning service for Linux",
       "https://tuned-project.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 02:06:10",
-      "https://news.ycombinator.com/item?id=45009546"
-    ],
-    [
-      "Performance Speed Limits (2019)",
-      "https://travisdowns.github.io/blog/2019/06/11/speed-limits.html"
     ]
   ]
 ]
