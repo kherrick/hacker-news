@@ -129,6 +129,65 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45063874">
+          <h3>
+            <a class="item" href="https://sosumi.ai/"
+              >Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable
+              Markdown</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-08-29 @ 13:30:16</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45063874"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The problem? Apple's docs are JavaScript-rendered, so when you
+                paste URLs into AI tools, they just see a blank page.
+                Copy-pasting works but... c'mon.
+              </p>
+              <p>
+                So I built something that converts Apple Developer docs to clean
+                markdown. Just swap developer.apple.com with sosumi.ai in any
+                Apple docs URL and you get AI-readable content.
+              </p>
+              <p>For example:</p>
+              <p>
+                - Before:
+                <a href="https://developer.apple.com/documentation/swift/double"
+                  >https://developer.apple.com/documentation/swift/double</a
+                >
+              </p>
+              <p>
+                - After:
+                <a href="https://sosumi.ai/documentation/swift/double"
+                  >https://sosumi.ai/documentation/swift/double</a
+                >
+              </p>
+              <p>
+                The site itself is a small Hono app running on Cloudflare
+                Workers. Apple's docs are actually available as structured data,
+                but Apple doesn't make it obvious how to get it. So what this
+                does is map the URLs, fetch the original JSON, and render as
+                Markdown.
+              </p>
+              <p>
+                It also provides an MCP interface that includes a tool to search
+                the Apple developer website, which is helpful.
+              </p>
+              <p>
+                Anyway, please give this a try and let me know what you think!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45063547">
           <h3>
             <a class="item" href="https://prompt-injector.blueprintlab.io/"
@@ -140,7 +199,7 @@
             <h4>
               <span>2025-08-29 @ 13:00:49</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">5</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45063547"
                   >Comments</a
@@ -168,11 +227,11 @@
             <h4>
               <span>2025-08-29 @ 12:58:35</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45063526"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -190,11 +249,11 @@
             <h4>
               <span>2025-08-29 @ 12:51:01</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45063431"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -227,11 +286,11 @@
             <h4>
               <span>2025-08-29 @ 12:01:31</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45062910"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -249,11 +308,11 @@
             <h4>
               <span>2025-08-29 @ 11:39:26</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45062738"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -270,11 +329,11 @@
             <h4>
               <span>2025-08-29 @ 11:29:10</span
               ><span class="points-container"
-                >Points: <span class="points">412</span></span
+                >Points: <span class="points">431</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45062683"
                   >Comments</a
-                ><span class="descendants">: 238</span></span
+                ><span class="descendants">: 257</span></span
               >
             </h4>
           </section>
@@ -292,11 +351,11 @@
             <h4>
               <span>2025-08-29 @ 11:15:39</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">273</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45062614"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -332,7 +391,7 @@
             <h4>
               <span>2025-08-29 @ 08:42:40</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45061689"
                   >Comments</a
@@ -353,11 +412,11 @@
             <h4>
               <span>2025-08-29 @ 06:37:21</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45060920"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 193</span></span
               >
             </h4>
           </section>
@@ -374,7 +433,7 @@
             <h4>
               <span>2025-08-29 @ 04:22:48</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45060161"
                   >Comments</a
@@ -414,7 +473,7 @@
             <h4>
               <span>2025-08-29 @ 01:55:14</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45059160"
                   >Comments</a
@@ -435,11 +494,11 @@
             <h4>
               <span>2025-08-29 @ 00:44:27</span
               ><span class="points-container"
-                >Points: <span class="points">401</span></span
+                >Points: <span class="points">404</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45058688"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 319</span></span
               >
             </h4>
           </section>
@@ -457,7 +516,7 @@
             <h4>
               <span>2025-08-28 @ 21:44:47</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45057404"
                   >Comments</a
@@ -476,7 +535,7 @@
             <h4>
               <span>2025-08-28 @ 21:36:36</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45057322"
                   >Comments</a
@@ -497,7 +556,7 @@
             <h4>
               <span>2025-08-28 @ 21:04:36</span
               ><span class="points-container"
-                >Points: <span class="points">284</span></span
+                >Points: <span class="points">286</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45057020"
                   >Comments</a
@@ -518,7 +577,7 @@
             <h4>
               <span>2025-08-28 @ 19:38:20</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">292</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45056177"
                   >Comments</a
@@ -558,7 +617,7 @@
             <h4>
               <span>2025-08-28 @ 17:22:54</span
               ><span class="points-container"
-                >Points: <span class="points">388</span></span
+                >Points: <span class="points">391</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45054703"
                   >Comments</a
@@ -578,11 +637,11 @@
             <h4>
               <span>2025-08-28 @ 16:43:05</span
               ><span class="points-container"
-                >Points: <span class="points">1168</span></span
+                >Points: <span class="points">1171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45054260"
                   >Comments</a
-                ><span class="descendants">: 634</span></span
+                ><span class="descendants">: 635</span></span
               >
             </h4>
             <div class="text">
@@ -591,149 +650,6 @@
               mainly through those channels. Usually we can use Cloudflare's
               WARP to avoid it, but just today they blocked the access as well.
               What alternative should we use?
-            </div>
-          </section>
-        </section>
-        <section id="45054040">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=45054040"
-              >Launch HN: Dedalus Labs (YC S25) – Vercel for Agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-08-28 @ 16:22:02</span
-              ><span class="points-container"
-                >Points: <span class="points">68</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45054040"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.dedaluslabs.ai/"
-                >https://www.dedaluslabs.ai/</a
-              >), a cloud platform for developers to build agentic AI
-              applications. Our SDK allows you to connect any LLM to any MCP
-              tools – local or hosted by us. No Dockerfiles or YAML configs
-              required.
-              <p>
-                Here’s a demo:
-                <a
-                  href="https://youtu.be/s2khf1Monho?si=yiWnZh5OP4HQcAwL&amp;t=11"
-                  >https://youtu.be/s2khf1Monho?si=yiWnZh5OP4HQcAwL&amp;t=11</a
-                >
-              </p>
-              <p>
-                Last October, I was trying to build a stateful code execution
-                sandbox in the cloud that LLMs could tool-call into. This was
-                before MCP was released, and let’s just say it was super
-                annoying to build… I was thinking to myself the entire time “Why
-                can’t I just pass in `tools=code_execution` to the model and
-                just have it…work?
-              </p>
-              <p>
-                Even with MCP, you’re stuck running local servers and handwiring
-                API auth and formatting across OpenAI, Anthropic, Google, etc.
-                before you can ship anything. Every change means redeploys,
-                networking configs, and hours lost wrangling AWS. Hours of
-                reading docs and wrestling with cloud setup is not what you want
-                when building your product!
-              </p>
-              <p>
-                Dedalus simplifies this to just one API endpoint, so what used
-                to take 2 weeks of setup can take 5 minutes. We allow you to
-                upload streamable HTTP MCP servers to our platform. Once
-                deployed, we offer OpenAI-compatible SDKs that you can drop into
-                your codebase to use MCP-powered LLMs. The idea is to let
-                anyone, anywhere, equip their LLMs with powerful tools for
-                function calling.
-              </p>
-              <p>The code you write looks something like this:</p>
-              <p></p>
-              <pre><code>  python
-  client = Dedalus()
-  runner = DedalusRunner(client)
-  
-  result = runner.run(
-    input=prompt,
-    tools=[tool_1, tool_2],
-    mcp_servers=["author/server-1”, “author/server-2”],
-    model=["openai/gpt-4.1”, “anthropic/claude-sonnet-4-20250514”],  # Defaults to first model in list
-    stream=True,
-  )
-  stream_sync(result)  # Streams result, supports tool calling too
-</code></pre>
-              Our docs start at
-              <a href="https://docs.dedaluslabs.ai"
-                >https://docs.dedaluslabs.ai</a
-              >. Here’s a simple Hello World example:
-              <a href="https://docs.dedaluslabs.ai/examples/01-hello-world"
-                >https://docs.dedaluslabs.ai/examples/01-hello-world</a
-              >. For basic tool execution, see
-              <a href="https://docs.dedaluslabs.ai/examples/02-basic-tools"
-                >https://docs.dedaluslabs.ai/examples/02-basic-tools</a
-              >. There are lots more examples on the site, including more
-              complex ones like using the Open Meteo MCP to do weather
-              forecasts:
-              <a
-                href="https://docs.dedaluslabs.ai/examples/use-case/weather-forecaster"
-                >https://docs.dedaluslabs.ai/examples/use-case/weather-foreca...</a
-              >.
-              <p>
-                There are still a bunch of issues in the MCP landscape, no
-                doubt. One big one is authentication (we joke that the “S” in
-                MCP stands for “security”). MCP servers right now are expected
-                to act as both the authentication server <i>and</i> the resource
-                server. That is too much to ask of server writers. People just
-                want to expose a resource endpoint and be done.
-              </p>
-              <p>
-                Still, we are bullish on MCP. Current shortcomings are not
-                irrecoverable, and we expect future amendments to resolve them.
-                We think that useful AI agents are bound to be habitual tool
-                callers, and MCP is a pretty decent way to equip models with
-                tools.
-              </p>
-              <p>
-                We aren’t <i>quite</i> yet at the stateful code execution
-                sandbox that I wanted last October, but we’re getting there!
-                Shipping secure and stateful MCP servers is high on our priority
-                list, and we’ll be launching our auth solution next month. We’re
-                also working on an MCP marketplace, so people can monetize their
-                tools, while we handle billing and rev-share.
-              </p>
-              <p>
-                We’re big on open sourcing things and have these SDKs so far
-                (MIT licensed):
-              </p>
-              <p>
-                <a href="https://github.com/dedalus-labs/dedalus-sdk-python"
-                  >https://github.com/dedalus-labs/dedalus-sdk-python</a
-                >
-              </p>
-              <p>
-                <a href="https://github.com/dedalus-labs/dedalus-sdk-typescript"
-                  >https://github.com/dedalus-labs/dedalus-sdk-typescript</a
-                >
-              </p>
-              <p>
-                <a href="https://github.com/dedalus-labs/dedalus-sdk-go"
-                  >https://github.com/dedalus-labs/dedalus-sdk-go</a
-                >
-              </p>
-              <p>
-                <a href="https://github.com/dedalus-labs/dedalus-openapi"
-                  >https://github.com/dedalus-labs/dedalus-openapi</a
-                >
-              </p>
-              <p>
-                We would love feedback on what you guys think are the biggest
-                barriers that keep you from integrating MCP servers or using
-                tool calling LLMs into your current workflow.
-              </p>
-              <p>Thanks HN!</p>
             </div>
           </section>
         </section>
@@ -750,11 +666,11 @@
             <h4>
               <span>2025-08-28 @ 14:13:44</span
               ><span class="points-container"
-                >Points: <span class="points">369</span></span
+                >Points: <span class="points">371</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45052423"
                   >Comments</a
-                ><span class="descendants">: 546</span></span
+                ><span class="descendants">: 548</span></span
               >
             </h4>
           </section>
@@ -771,11 +687,11 @@
             <h4>
               <span>2025-08-27 @ 08:39:32</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45036944"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
             <div class="text">
@@ -817,7 +733,7 @@
             <h4>
               <span>2025-08-27 @ 08:05:09</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45036761"
                   >Comments</a
@@ -840,11 +756,11 @@
             <h4>
               <span>2025-08-27 @ 05:10:53</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45035684"
                   >Comments</a
-                ><span class="descendants">: 215</span></span
+                ><span class="descendants">: 217</span></span
               >
             </h4>
           </section>
@@ -861,7 +777,7 @@
             <h4>
               <span>2025-08-25 @ 18:27:31</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45017177"
                   >Comments</a
@@ -886,7 +802,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45016263"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -902,7 +818,7 @@
             <h4>
               <span>2025-08-25 @ 09:48:53</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45012080"
                   >Comments</a
