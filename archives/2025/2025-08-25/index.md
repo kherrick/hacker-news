@@ -11,6 +11,7 @@
 * [2025-08-25, 22:05:34](https://news.ycombinator.com/item?id=45019671) - [iOS 18.6.1 0-click RCE POC](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
 * [2025-08-25, 21:52:36](https://news.ycombinator.com/item?id=45019513) - [How the Richest People in America Avoid Paying Taxes](https://www.theatlantic.com/economy/archive/2025/08/billionaire-tax-study/683987/)
 * [2025-08-25, 21:50:41](https://news.ycombinator.com/item?id=45019483) - [Ask HN: Why hasn't x86 caught up with Apple M series?](https://news.ycombinator.com/item?id=45019483)
+* [2025-08-25, 21:35:45](https://news.ycombinator.com/item?id=45019329) - [How life-size cows made of butter became an iconic symbol of the Midwest](https://www.smithsonianmag.com/smithsonian-institution/how-life-size-cows-made-of-butter-became-an-iconic-symbol-of-the-midwest-180987208/)
 * [2025-08-25, 20:59:22](https://news.ycombinator.com/item?id=45018933) - [Hairy Ball Theorem [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
 * [2025-08-25, 20:54:42](https://news.ycombinator.com/item?id=45018869) - [Like Intel before it, AMD blames motherboard makers for burnt-out CPUs](https://arstechnica.com/gadgets/2025/08/like-intel-before-it-amd-blames-motherboard-makers-for-burnt-out-cpus/)
 * [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Social media's next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
