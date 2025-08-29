@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 15:54:44](https://news.ycombinator.com/item?id=45065717) - [Amtrak's New Acela Trains Are Here. They're Moving Slower Than the Old Ones](https://www.wsj.com/us-news/amtraks-new-acela-trains-are-here-theyre-moving-slower-than-the-old-ones-f0794127)
+* [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [2025-08-29, 15:32:21](https://news.ycombinator.com/item?id=45065439) - [The Mattresses to Avoid Buying](https://www.choice.com.au/home-and-living/bedroom/mattresses/articles/mattresses-to-avoid-buying)
 * [2025-08-29, 15:28:47](https://news.ycombinator.com/item?id=45065391) - [Taco Bell rethinks AI drive-through after man orders 18,000 waters](https://www.bbc.com/news/articles/ckgyk2p55g8o)
+* [2025-08-29, 15:24:13](https://news.ycombinator.com/item?id=45065343) - [Why AI Isn't Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding)
+* [2025-08-29, 15:18:40](https://news.ycombinator.com/item?id=45065278) - [Seedbox Lite: A lightweight torrent streaming app with instant playback](https://github.com/hotheadhacker/seedbox-lite)
 * [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 * [2025-08-29, 14:02:59](https://news.ycombinator.com/item?id=45064284) - [The Curious Case of Flunking My Anthropic Interview (Again)](https://taylor.town/flunking-anthropic)
 * [2025-08-29, 13:56:50](https://news.ycombinator.com/item?id=45064210) - [Show HN: Find Hidden Gems on HN](https://pj4533.com/hn-overlooked/)
 * [2025-08-29, 13:37:53](https://news.ycombinator.com/item?id=45063972) - [Private Equity Snaps Up Disability Services, Challenging Regulators](https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators)
 * [2025-08-29, 13:30:16](https://news.ycombinator.com/item?id=45063874) - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
+* [2025-08-29, 13:15:10](https://news.ycombinator.com/item?id=45063704) - [Apple Health lies to you about your six months sleep average](https://github.com/reschandreas/saverage)
 * [2025-08-29, 13:01:45](https://news.ycombinator.com/item?id=45063559) - [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
 * [2025-08-29, 13:00:49](https://news.ycombinator.com/item?id=45063547) - [Show HN: A minimal TS library that generates prompt injection attacks](https://prompt-injector.blueprintlab.io/)
 * [2025-08-29, 12:58:35](https://news.ycombinator.com/item?id=45063526) - [A Dark Money Group Is Funding High-Profile Democratic Influencers](https://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/)
