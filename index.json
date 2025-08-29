@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-08-29, 02:39:44",
-      "https://news.ycombinator.com/item?id=45059470"
-    ],
-    [
-      "A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it",
-      "https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 01:55:14",
       "https://news.ycombinator.com/item?id=45059160"
     ],
@@ -157,6 +147,16 @@
     [
       "Fuck up my site – Turn any website into beautiful chaos",
       "https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 20:49:34",
+      "https://news.ycombinator.com/item?id=45056878"
+    ],
+    [
+      "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
+      "https://lyra.horse/blog/2025/08/you-dont-need-js/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2025-08-27, 07:57:01",
+      "https://news.ycombinator.com/item?id=45036708"
+    ],
+    [
+      "Ask HN: What to learn for math for modeling?",
+      "https://news.ycombinator.com/item?id=45036708"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 07:55:43",
       "https://news.ycombinator.com/item?id=45036704"
     ],
     [
       "Thrashing",
       "https://exple.tive.org/blarg/2025/08/26/thrashing/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 07:41:37",
-      "https://news.ycombinator.com/item?id=45036603"
-    ],
-    [
-      "Show HN: Envoy – Command Logger",
-      "https://github.com/heyyviv/envoy"
     ]
   ],
   [
