@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-29, 10:15:58](https://news.ycombinator.com/item?id=45062274) - [What the interns have wrought, 2025](https://blog.janestreet.com/wrought-2025/)
 * [2025-08-29, 06:37:21](https://news.ycombinator.com/item?id=45060920) - [The Synology End Game](https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/)
 * [2025-08-29, 04:22:48](https://news.ycombinator.com/item?id=45060161) - [Strange CW Keys](https://sites.google.com/site/oh6dccw/strangecwkeys)
 * [2025-08-29, 03:57:46](https://news.ycombinator.com/item?id=45060004) - [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html)
@@ -28,7 +29,6 @@
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
 * [2025-08-25, 18:27:31](https://news.ycombinator.com/item?id=45017177) - [Nullable vs. Nullable in C#](https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
-* [2025-08-25, 13:19:38](https://news.ycombinator.com/item?id=45013552) - [Wearmouse (Android Wear)](https://github.com/ginkage/wearmouse)
 * [2025-08-25, 09:48:53](https://news.ycombinator.com/item?id=45012080) - [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://oxism.com/trystero/)
 
 ## [Archives](archives/index.md)
