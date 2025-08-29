@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 06:37:21](https://news.ycombinator.com/item?id=45060920) - [The Synology End Game](https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/)
 * [2025-08-29, 04:53:01](https://news.ycombinator.com/item?id=45060344) - [Why Americans Under 30 Are So Miserable](https://questionsforum.com/americans-under-30-are-so-miserable-that-the-u-s-just-fell-to-a-historic-low-ranking-in-the-annual-world-happiness/)
 * [2025-08-29, 04:22:48](https://news.ycombinator.com/item?id=45060161) - [Strange CW Keys](https://sites.google.com/site/oh6dccw/strangecwkeys)
 * [2025-08-29, 03:57:46](https://news.ycombinator.com/item?id=45060004) - [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html)
