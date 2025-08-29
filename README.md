@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-29, 04:22:48](https://news.ycombinator.com/item?id=45060161) - [Strange CW Keys](https://sites.google.com/site/oh6dccw/strangecwkeys)
 * [2025-08-29, 02:39:44](https://news.ycombinator.com/item?id=45059470) - [A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
 * [2025-08-29, 01:55:14](https://news.ycombinator.com/item?id=45059160) - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
 * [2025-08-29, 00:44:27](https://news.ycombinator.com/item?id=45058688) - [Claude Sonnet will ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
@@ -8,7 +9,6 @@
 * [2025-08-28, 22:02:28](https://news.ycombinator.com/item?id=45057561) - [Rupert's Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
 * [2025-08-28, 21:39:18](https://news.ycombinator.com/item?id=45057346) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
 * [2025-08-28, 21:36:36](https://news.ycombinator.com/item?id=45057322) - [Expert: LSP for Elixir](https://github.com/elixir-lang/expert)
-* [2025-08-28, 21:24:42](https://news.ycombinator.com/item?id=45057209) - [Speed-coding for the 6502 – a simple example](https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/)
 * [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
 * [2025-08-28, 21:02:28](https://news.ycombinator.com/item?id=45057002) - [There Goes the American Muscle Car](https://thedispatch.com/article/dodge-challenger-muscle-cars/)
 * [2025-08-28, 20:49:34](https://news.ycombinator.com/item?id=45056878) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
