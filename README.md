@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-29, 02:39:44](https://news.ycombinator.com/item?id=45059470) - [A Deep Dive into Debian 13 /tmp: What's New, and What to Do If You Don't Like It](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
+* [2025-08-29, 02:39:44](https://news.ycombinator.com/item?id=45059470) - [A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
 * [2025-08-29, 01:55:14](https://news.ycombinator.com/item?id=45059160) - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
-* [2025-08-29, 00:44:27](https://news.ycombinator.com/item?id=45058688) - [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
-* [2025-08-28, 23:27:27](https://news.ycombinator.com/item?id=45058171) - [Python: The Documentary](https://lwn.net/Articles/1035537/)
+* [2025-08-29, 00:44:27](https://news.ycombinator.com/item?id=45058688) - [Claude Sonnet will ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
+* [2025-08-28, 23:27:27](https://news.ycombinator.com/item?id=45058171) - [Python: The Documentary [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 * [2025-08-28, 23:04:01](https://news.ycombinator.com/item?id=45058024) - [RSS is awesome](https://evanverma.com/rss-is-awesome)
 * [2025-08-28, 22:02:28](https://news.ycombinator.com/item?id=45057561) - [Rupert's Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
-* [2025-08-28, 21:44:47](https://news.ycombinator.com/item?id=45057404) - [The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
 * [2025-08-28, 21:39:18](https://news.ycombinator.com/item?id=45057346) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
-* [2025-08-28, 21:36:36](https://news.ycombinator.com/item?id=45057322) - [Expert LSP the official language server implementation for Elixir](https://github.com/elixir-lang/expert)
+* [2025-08-28, 21:36:36](https://news.ycombinator.com/item?id=45057322) - [Expert: LSP for Elixir](https://github.com/elixir-lang/expert)
 * [2025-08-28, 21:24:42](https://news.ycombinator.com/item?id=45057209) - [Speed-coding for the 6502 – a simple example](https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/)
 * [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
 * [2025-08-28, 21:02:28](https://news.ycombinator.com/item?id=45057002) - [There Goes the American Muscle Car](https://thedispatch.com/article/dodge-challenger-muscle-cars/)
@@ -30,6 +29,7 @@
 * [2025-08-27, 05:10:53](https://news.ycombinator.com/item?id=45035684) - [AI coding made me faster, but I can't code to music anymore](https://www.praf.me/ai-coding)
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
+* [2025-08-25, 14:45:57](https://news.ycombinator.com/item?id=45014445) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 
 ## [Archives](archives/index.md)
 
