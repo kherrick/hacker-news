@@ -47,6 +47,7 @@
 * [2025-08-27, 12:18:47](https://news.ycombinator.com/item?id=45038653) - [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
 * [2025-08-27, 12:10:21](https://news.ycombinator.com/item?id=45038565) - [ASCIIFlow](https://asciiflow.com/)
 * [2025-08-27, 12:00:18](https://news.ycombinator.com/item?id=45038463) - [Ember (YC F24) Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026)
+* [2025-08-27, 11:52:47](https://news.ycombinator.com/item?id=45038381) - [The King's Quarry: How Louis XVI Went from Hunter to Hunted](https://worldhistory.substack.com/p/the-kings-quarry)
 * [2025-08-27, 11:38:42](https://news.ycombinator.com/item?id=45038261) - [F-35 pilot held 50-minute airborne conference call with engineers before crash](https://www.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml)
 * [2025-08-27, 11:38:35](https://news.ycombinator.com/item?id=45038260) - [How to Slow Down a Program? and Why It Can Be Useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
 * [2025-08-27, 11:02:33](https://news.ycombinator.com/item?id=45037947) - [QEMU 10.1.0](https://wiki.qemu.org/ChangeLog/10.1)
