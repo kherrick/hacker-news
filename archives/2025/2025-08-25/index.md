@@ -81,6 +81,7 @@
 * [2025-08-25, 10:42:01](https://news.ycombinator.com/item?id=45012414) - [Memory optimizations to reduce CPU costs](https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs)
 * [2025-08-25, 10:35:24](https://news.ycombinator.com/item?id=45012376) - [iOS Elegantbouncer: When You Can't Get Samples but Still Need to Catch Threats](https://www.msuiche.com/posts/elegantbouncer-when-you-cant-get-the-samples-but-still-need-to-catch-the-threat/)
 * [2025-08-25, 10:03:53](https://news.ycombinator.com/item?id=45012191) - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
+* [2025-08-25, 09:48:53](https://news.ycombinator.com/item?id=45012080) - [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://oxism.com/trystero/)
 * [2025-08-25, 09:42:10](https://news.ycombinator.com/item?id=45012035) - [The Physics of Parabolic Microphones: Frequency Dependence of Gain](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
 * [2025-08-25, 09:03:27](https://news.ycombinator.com/item?id=45011802) - [Partner with Product to pay down technical debt](https://dev.jimgrey.net/2025/08/19/unlocking-high-software-engineering-pace-partner-with-product-to-pay-down-technical-debt/)
 * [2025-08-25, 09:02:12](https://news.ycombinator.com/item?id=45011793) - [Paying attention to feature distribution alignment (pun intended)](https://alexshtf.github.io/2025/08/19/Orthogonality.html)
