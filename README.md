@@ -2,10 +2,12 @@
 
 * [2025-08-29, 20:25:34](https://news.ycombinator.com/item?id=45068986) - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
 * [2025-08-29, 19:20:28](https://news.ycombinator.com/item?id=45068268) - [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
+* [2025-08-29, 19:15:55](https://news.ycombinator.com/item?id=45068215) - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 * [2025-08-29, 19:05:09](https://news.ycombinator.com/item?id=45068091) - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 * [2025-08-29, 18:43:42](https://news.ycombinator.com/item?id=45067867) - [Data engineering and software engineering are converging](https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure)
 * [2025-08-29, 17:30:29](https://news.ycombinator.com/item?id=45066999) - [SQLite's Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
 * [2025-08-29, 17:00:04](https://news.ycombinator.com/item?id=45066592) - [Thunder Compute (YC S24) Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
+* [2025-08-29, 16:45:21](https://news.ycombinator.com/item?id=45066395) - [John Carmack's arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
 * [2025-08-29, 16:35:24](https://news.ycombinator.com/item?id=45066258) - [The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
 * [2025-08-29, 16:24:14](https://news.ycombinator.com/item?id=45066113) - [Bourbaki – A Secret Society of Mathematicians](https://books.google.com/books/about/Bourbaki.html)
 * [2025-08-29, 16:20:31](https://news.ycombinator.com/item?id=45066070) - [Offline-First Landscape – 2025](https://marcoapp.io/blog/offline-first-landscape)
@@ -16,7 +18,6 @@
 * [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 * [2025-08-29, 14:02:59](https://news.ycombinator.com/item?id=45064284) - [Flunking my Anthropic interview again](https://taylor.town/flunking-anthropic)
 * [2025-08-29, 13:56:50](https://news.ycombinator.com/item?id=45064210) - [Show HN: Find Hidden Gems on HN](https://pj4533.com/hn-overlooked/)
-* [2025-08-29, 13:30:16](https://news.ycombinator.com/item?id=45063874) - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
 * [2025-08-29, 13:01:45](https://news.ycombinator.com/item?id=45063559) - [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
 * [2025-08-29, 12:01:31](https://news.ycombinator.com/item?id=45062910) - [Meta might be secretly scanning your phone's camera roll](https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/)
 * [2025-08-29, 11:39:26](https://news.ycombinator.com/item?id=45062738) - [If you have a Claude account, they're going to train on your data moving forward](https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/)
@@ -29,7 +30,6 @@
 * [2025-08-27, 08:58:38](https://news.ycombinator.com/item?id=45037064) - [Nous Research presents Hermes 4](https://hermes4.nousresearch.com/)
 * [2025-08-27, 06:23:22](https://news.ycombinator.com/item?id=45036052) - [How do I get into the Game Industry – by Garry's Mod creator](https://garry.net/posts/how-do-i-get-into-the-game-industry)
 * [2025-08-27, 04:51:26](https://news.ycombinator.com/item?id=45035578) - [Show HN: Magic links – Get video and dev logs without installing anything](https://news.ycombinator.com/item?id=45035578)
-* [2025-08-25, 09:48:53](https://news.ycombinator.com/item?id=45012080) - [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://oxism.com/trystero/)
 
 ## [Archives](archives/index.md)
 
