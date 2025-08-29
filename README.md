@@ -22,12 +22,12 @@
 * [2025-08-28, 16:43:05](https://news.ycombinator.com/item?id=45054260) - [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
 * [2025-08-28, 16:22:02](https://news.ycombinator.com/item?id=45054040) - [Launch HN: Dedalus Labs (YC S25) – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
 * [2025-08-28, 14:13:44](https://news.ycombinator.com/item?id=45052423) - [AI adoption linked to 13% decline in jobs for young U.S. workers: study](https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html)
+* [2025-08-27, 08:39:32](https://news.ycombinator.com/item?id=45036944) - [Show HN: Vectorless RAG](https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb)
 * [2025-08-27, 07:57:01](https://news.ycombinator.com/item?id=45036708) - [Ask HN: What to learn for math for modeling?](https://news.ycombinator.com/item?id=45036708)
 * [2025-08-27, 07:55:43](https://news.ycombinator.com/item?id=45036704) - [Thrashing](https://exple.tive.org/blarg/2025/08/26/thrashing/)
 * [2025-08-27, 07:41:37](https://news.ycombinator.com/item?id=45036603) - [Show HN: Envoy – Command Logger](https://github.com/heyyviv/envoy)
 * [2025-08-27, 05:10:53](https://news.ycombinator.com/item?id=45035684) - [AI coding made me faster, but I can't code to music anymore](https://www.praf.me/ai-coding)
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
-* [2025-08-25, 21:35:45](https://news.ycombinator.com/item?id=45019329) - [How life-size cows made of butter became an iconic symbol of the Midwest](https://www.smithsonianmag.com/smithsonian-institution/how-life-size-cows-made-of-butter-became-an-iconic-symbol-of-the-midwest-180987208/)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
 * [2025-08-25, 09:48:53](https://news.ycombinator.com/item?id=45012080) - [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://oxism.com/trystero/)
 
