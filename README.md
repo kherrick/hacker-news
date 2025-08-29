@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-29, 04:53:01](https://news.ycombinator.com/item?id=45060344) - [Why Americans Under 30 Are So Miserable](https://questionsforum.com/americans-under-30-are-so-miserable-that-the-u-s-just-fell-to-a-historic-low-ranking-in-the-annual-world-happiness/)
 * [2025-08-29, 04:22:48](https://news.ycombinator.com/item?id=45060161) - [Strange CW Keys](https://sites.google.com/site/oh6dccw/strangecwkeys)
 * [2025-08-29, 03:57:46](https://news.ycombinator.com/item?id=45060004) - [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html)
 * [2025-08-29, 02:39:44](https://news.ycombinator.com/item?id=45059470) - [A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
@@ -14,6 +13,7 @@
 * [2025-08-28, 21:39:18](https://news.ycombinator.com/item?id=45057346) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
 * [2025-08-28, 21:36:36](https://news.ycombinator.com/item?id=45057322) - [Expert: LSP for Elixir](https://github.com/elixir-lang/expert)
 * [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
+* [2025-08-28, 21:02:28](https://news.ycombinator.com/item?id=45057002) - [There Goes the American Muscle Car](https://thedispatch.com/article/dodge-challenger-muscle-cars/)
 * [2025-08-28, 19:38:20](https://news.ycombinator.com/item?id=45056177) - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
 * [2025-08-28, 18:35:46](https://news.ycombinator.com/item?id=45055452) - [Web Bot Auth](https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/)
