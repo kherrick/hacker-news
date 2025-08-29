@@ -8,7 +8,6 @@
 * [2025-08-29, 17:30:29](https://news.ycombinator.com/item?id=45066999) - [SQLite's documentation about its durability properties is unclear](https://www.agwa.name/blog/post/sqlite_durability)
 * [2025-08-29, 17:00:04](https://news.ycombinator.com/item?id=45066592) - [Thunder Compute (YC S24) Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
 * [2025-08-29, 16:45:21](https://news.ycombinator.com/item?id=45066395) - [John Carmack's arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
-* [2025-08-29, 16:24:14](https://news.ycombinator.com/item?id=45066113) - [Bourbaki – A Secret Society of Mathematicians](https://books.google.com/books/about/Bourbaki.html)
 * [2025-08-29, 16:20:31](https://news.ycombinator.com/item?id=45066070) - [Offline-First Landscape – 2025](https://marcoapp.io/blog/offline-first-landscape)
 * [2025-08-29, 16:19:56](https://news.ycombinator.com/item?id=45066060) - [Wikipedia as a Graph](https://wikigrapher.com/paths)
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
@@ -30,6 +29,7 @@
 * [2025-08-27, 08:58:38](https://news.ycombinator.com/item?id=45037064) - [Hermes 4](https://hermes4.nousresearch.com/)
 * [2025-08-26, 13:07:11](https://news.ycombinator.com/item?id=45026013) - [Why You Should Be Using XSLT 3.0 (2017)](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/)
 * [2025-08-26, 11:12:56](https://news.ycombinator.com/item?id=45024980) - [Reloading Classes in Python](https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/)
+* [2025-08-25, 09:48:53](https://news.ycombinator.com/item?id=45012080) - [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://oxism.com/trystero/)
 
 ## [Archives](archives/index.md)
 
