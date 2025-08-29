@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-29, 17:30:29",
+      "https://news.ycombinator.com/item?id=45066999"
+    ],
+    [
+      "SQLite's Durability Settings Are a Mess",
+      "https://www.agwa.name/blog/post/sqlite_durability"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 17:00:04",
       "https://news.ycombinator.com/item?id=45066592"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2025-08-29, 16:45:21",
-      "https://news.ycombinator.com/item?id=45066395"
-    ],
-    [
-      "John Carmack's arguments against building a custom XR OS at Meta",
-      "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 16:35:24",
       "https://news.ycombinator.com/item?id=45066258"
     ],
     [
       "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
       "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 16:25:13",
-      "https://news.ycombinator.com/item?id=45066126"
-    ],
-    [
-      "Show HN: FFmpeg Pages – because I was tired of fighting FFmpeg",
-      "https://ffmpegs.pages.dev/"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "Essential Coding Theory [pdf]",
       "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 15:31:15",
+      "https://news.ycombinator.com/item?id=45065425"
+    ],
+    [
+      "God Created the Real Numbers",
+      "https://www.ethanheilman.com/x/34/index.html"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-08-29, 01:55:14",
-      "https://news.ycombinator.com/item?id=45059160"
-    ],
-    [
-      "Lucky 13: a look at Debian trixie",
-      "https://lwn.net/Articles/1033474/"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 00:44:27",
       "https://news.ycombinator.com/item?id=45058688"
     ],
@@ -267,6 +257,16 @@
     [
       "Intel's \"Clearwater Forest\" Xeon 7 E-Core CPU Will Be a Beast",
       "https://www.nextplatform.com/2025/08/26/intels-clearwater-forest-xeon-7-e-core-cpu-will-be-a-beast/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 09:50:05",
+      "https://news.ycombinator.com/item?id=45037419"
+    ],
+    [
+      "Lisp from Nothing, Second Edition",
+      "http://t3x.org/lfn/index.html"
     ]
   ],
   [
