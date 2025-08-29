@@ -11,6 +11,7 @@
 * [2025-08-29, 11:15:39](https://news.ycombinator.com/item?id=45062614) - [Tesla said it didn't have key data in a fatal crash. Then a hacker found it](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/)
 * [2025-08-29, 10:15:58](https://news.ycombinator.com/item?id=45062274) - [What the interns have wrought, 2025](https://blog.janestreet.com/wrought-2025/)
 * [2025-08-29, 09:28:50](https://news.ycombinator.com/item?id=45061980) - [Probability of typing a wrong Bitcoin address](https://www.johndcook.com/blog/2025/08/28/wrong-address/)
+* [2025-08-29, 08:42:40](https://news.ycombinator.com/item?id=45061689) - [Contrastive Representations for Temporal Reasoning](https://princeton-rl.github.io/CRTR/)
 * [2025-08-29, 08:20:12](https://news.ycombinator.com/item?id=45061537) - [Reuters stopped sharing Gaza locations with Israel after IDF strikes](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)
 * [2025-08-29, 06:37:21](https://news.ycombinator.com/item?id=45060920) - [The Synology End Game](https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/)
 * [2025-08-29, 04:53:01](https://news.ycombinator.com/item?id=45060344) - [Why Americans Under 30 Are So Miserable](https://questionsforum.com/americans-under-30-are-so-miserable-that-the-u-s-just-fell-to-a-historic-low-ranking-in-the-annual-world-happiness/)
