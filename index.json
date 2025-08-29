@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=45059470"
     ],
     [
-      "A Deep Dive into Debian 13 /tmp: What's New, and What to Do If You Don't Like It",
+      "A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it",
       "https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45058688"
     ],
     [
-      "Claude Sonnet Will Ship in Xcode",
+      "Claude Sonnet will ship in Xcode",
       "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes"
     ]
   ],
@@ -35,8 +35,8 @@
       "https://news.ycombinator.com/item?id=45058171"
     ],
     [
-      "Python: The Documentary",
-      "https://lwn.net/Articles/1035537/"
+      "Python: The Documentary [video]",
+      "https://www.youtube.com/watch?v=GfH4QL4VqJ0"
     ]
   ],
   [
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-08-28, 21:44:47",
-      "https://news.ycombinator.com/item?id=45057404"
-    ],
-    [
-      "The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)",
-      "https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 21:39:18",
       "https://news.ycombinator.com/item?id=45057346"
     ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45057322"
     ],
     [
-      "Expert LSP the official language server implementation for Elixir",
+      "Expert: LSP for Elixir",
       "https://github.com/elixir-lang/expert"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "TuneD is a system tuning service for Linux",
       "https://tuned-project.org/"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 14:45:57",
+      "https://news.ycombinator.com/item?id=45014445"
+    ],
+    [
+      "What We Find in the Sewers",
+      "https://www.asimov.press/p/sewers"
     ]
   ]
 ]
