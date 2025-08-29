@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-08-29, 11:39:26",
+      "https://news.ycombinator.com/item?id=45062738"
+    ],
+    [
+      "If you have a Claude account, they're going to train on your data moving forward",
+      "https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 11:29:10",
+      "https://news.ycombinator.com/item?id=45062683"
+    ],
+    [
+      "Anthropic reverses privacy stance, will train on Claude chats",
+      "https://www.perplexity.ai/page/anthropic-reverses-privacy-sta-xH4KWU9nS3KH4Aj9F12dvQ"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 10:15:58",
       "https://news.ycombinator.com/item?id=45062274"
     ],
     [
       "What the interns have wrought, 2025",
       "https://blog.janestreet.com/wrought-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 09:28:50",
+      "https://news.ycombinator.com/item?id=45061980"
+    ],
+    [
+      "Probability of typing a wrong Bitcoin address",
+      "https://www.johndcook.com/blog/2025/08/28/wrong-address/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-08-28, 20:49:34",
-      "https://news.ycombinator.com/item?id=45056878"
-    ],
-    [
-      "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
-      "https://lyra.horse/blog/2025/08/you-dont-need-js/"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 19:38:20",
       "https://news.ycombinator.com/item?id=45056177"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-08-27, 07:57:01",
-      "https://news.ycombinator.com/item?id=45036708"
-    ],
-    [
-      "Ask HN: What to learn for math for modeling?",
-      "https://news.ycombinator.com/item?id=45036708"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 07:55:43",
       "https://news.ycombinator.com/item?id=45036704"
     ],
@@ -277,16 +287,6 @@
     [
       "Nullable vs. Nullable in C#",
       "https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 15:03:57",
-      "https://news.ycombinator.com/item?id=45014656"
-    ],
-    [
-      "TuneD is a system tuning service for Linux",
-      "https://tuned-project.org/"
     ]
   ],
   [
