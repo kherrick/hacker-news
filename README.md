@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-29, 02:39:44](https://news.ycombinator.com/item?id=45059470) - [A Deep Dive into Debian 13 /tmp: What's New, and What to Do If You Don't Like It](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
+* [2025-08-29, 01:55:14](https://news.ycombinator.com/item?id=45059160) - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
 * [2025-08-29, 00:44:27](https://news.ycombinator.com/item?id=45058688) - [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
 * [2025-08-28, 23:27:27](https://news.ycombinator.com/item?id=45058171) - [Python: The Documentary](https://lwn.net/Articles/1035537/)
 * [2025-08-28, 23:04:01](https://news.ycombinator.com/item?id=45058024) - [RSS is awesome](https://evanverma.com/rss-is-awesome)
-* [2025-08-28, 22:31:13](https://news.ycombinator.com/item?id=45057781) - [Every industry is an overcrowded airport lounge now](https://quoththeraven.substack.com/p/every-industry-is-an-overcrowded)
 * [2025-08-28, 22:02:28](https://news.ycombinator.com/item?id=45057561) - [Rupert's Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
 * [2025-08-28, 21:44:47](https://news.ycombinator.com/item?id=45057404) - [The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
 * [2025-08-28, 21:39:18](https://news.ycombinator.com/item?id=45057346) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
@@ -27,9 +27,9 @@
 * [2025-08-27, 07:57:01](https://news.ycombinator.com/item?id=45036708) - [Ask HN: What to Learn for Math for Modeling?](https://news.ycombinator.com/item?id=45036708)
 * [2025-08-27, 07:55:43](https://news.ycombinator.com/item?id=45036704) - [Thrashing](https://exple.tive.org/blarg/2025/08/26/thrashing/)
 * [2025-08-27, 06:30:36](https://news.ycombinator.com/item?id=45036094) - [Dependent Types: Universes, or types of types](https://www.jonmsterling.com/01ET/index.xml)
+* [2025-08-27, 05:10:53](https://news.ycombinator.com/item?id=45035684) - [AI coding made me faster, but I can't code to music anymore](https://www.praf.me/ai-coding)
 * [2025-08-26, 14:30:50](https://news.ycombinator.com/item?id=45027072) - [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
-* [2025-08-25, 14:45:57](https://news.ycombinator.com/item?id=45014445) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 
 ## [Archives](archives/index.md)
 
