@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-08-29, 15:32:21",
-      "https://news.ycombinator.com/item?id=45065439"
+      "2025-08-29, 15:54:44",
+      "https://news.ycombinator.com/item?id=45065717"
     ],
     [
-      "The Mattresses to Avoid Buying",
-      "https://www.choice.com.au/home-and-living/bedroom/mattresses/articles/mattresses-to-avoid-buying"
+      "Amtrak's New Acela Trains Are Here. They're Moving Slower Than the Old Ones",
+      "https://www.wsj.com/us-news/amtraks-new-acela-trains-are-here-theyre-moving-slower-than-the-old-ones-f0794127"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 15:53:41",
+      "https://news.ycombinator.com/item?id=45065705"
+    ],
+    [
+      "Essential Coding Theory [pdf]",
+      "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
     ]
   ],
   [
@@ -17,6 +27,26 @@
     [
       "Taco Bell rethinks AI drive-through after man orders 18,000 waters",
       "https://www.bbc.com/news/articles/ckgyk2p55g8o"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 15:24:13",
+      "https://news.ycombinator.com/item?id=45065343"
+    ],
+    [
+      "Why AI Isn't Ready to Be a Real Coder",
+      "https://spectrum.ieee.org/ai-for-coding"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 15:18:40",
+      "https://news.ycombinator.com/item?id=45065278"
+    ],
+    [
+      "Seedbox Lite: A lightweight torrent streaming app with instant playback",
+      "https://github.com/hotheadhacker/seedbox-lite"
     ]
   ],
   [
@@ -57,6 +87,16 @@
     [
       "Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown",
       "https://sosumi.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 13:15:10",
+      "https://news.ycombinator.com/item?id=45063704"
+    ],
+    [
+      "Apple Health lies to you about your six months sleep average",
+      "https://github.com/reschandreas/saverage"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2025-08-29, 08:42:40",
-      "https://news.ycombinator.com/item?id=45061689"
-    ],
-    [
-      "Contrastive Representations for Temporal Reasoning",
-      "https://princeton-rl.github.io/CRTR/"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 04:22:48",
       "https://news.ycombinator.com/item?id=45060161"
     ],
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2025-08-28, 21:36:36",
-      "https://news.ycombinator.com/item?id=45057322"
-    ],
-    [
-      "Expert: LSP for Elixir",
-      "https://github.com/elixir-lang/expert"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 21:04:36",
-      "https://news.ycombinator.com/item?id=45057020"
-    ],
-    [
-      "Fuck up my site – Turn any website into beautiful chaos",
-      "https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 18:52:00",
       "https://news.ycombinator.com/item?id=45055641"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-08-28, 16:43:05",
-      "https://news.ycombinator.com/item?id=45054260"
+      "2025-08-27, 10:59:37",
+      "https://news.ycombinator.com/item?id=45037936"
     ],
     [
-      "Ask HN: The government of my country blocked VPN access. What should I use?",
-      "https://news.ycombinator.com/item?id=45054260"
+      "Fixing an old .NET Core native library loading issue on Alpine",
+      "https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How do I get into the Game Industry – by Garry's Mod creator",
       "https://garry.net/posts/how-do-i-get-into-the-game-industry"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 17:20:05",
-      "https://news.ycombinator.com/item?id=45016263"
-    ],
-    [
-      "It’s Not Wrong that (for HN) “[facepalm emoji]”.length == 36",
-      "https://zaerl.com/2025/08/24/its-not-wrong-that-for-hn-%f0%9f%a4%a6%f0%9f%8f%bc%e2%99%82%ef%b8%8f-length-36/"
     ]
   ],
   [
