@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-29, 21:13:50](https://news.ycombinator.com/item?id=45069452) - [MSNBC: Whistleblower accuses DOGE team of endangering Social Security data](https://whistleblower.org/in-the-news/msnbc-whistleblower-accuses-doge-team-of-endangering-critical-social-security-data/)
-* [2025-08-29, 20:28:35](https://news.ycombinator.com/item?id=45069014) - [How to Stop Google from AI-Summarising Your Website](https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website)
 * [2025-08-29, 20:25:34](https://news.ycombinator.com/item?id=45068986) - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
 * [2025-08-29, 19:20:28](https://news.ycombinator.com/item?id=45068268) - [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
 * [2025-08-29, 19:15:55](https://news.ycombinator.com/item?id=45068215) - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
@@ -29,6 +28,7 @@
 * [2025-08-27, 09:07:49](https://news.ycombinator.com/item?id=45037120) - [What Does will-change In CSS Do?](https://jakub.kr/components/will-change-in-css)
 * [2025-08-27, 09:06:09](https://news.ycombinator.com/item?id=45037109) - [This is my brain on leeches](https://todaythings.substack.com/p/this-is-my-brain-on-leeches)
 * [2025-08-27, 08:58:38](https://news.ycombinator.com/item?id=45037064) - [Nous Research presents Hermes 4](https://hermes4.nousresearch.com/)
+* [2025-08-27, 06:23:22](https://news.ycombinator.com/item?id=45036052) - [How do I get into the Game Industry](https://garry.net/posts/how-do-i-get-into-the-game-industry)
 * [2025-08-26, 13:07:11](https://news.ycombinator.com/item?id=45026013) - [Why You Should Be Using XSLT 3.0 (2017)](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/)
 
 ## [Archives](archives/index.md)
