@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-29, 04:53:01",
+      "https://news.ycombinator.com/item?id=45060344"
+    ],
+    [
+      "Why Americans Under 30 Are So Miserable",
+      "https://questionsforum.com/americans-under-30-are-so-miserable-that-the-u-s-just-fell-to-a-historic-low-ranking-in-the-annual-world-happiness/"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 04:22:48",
       "https://news.ycombinator.com/item?id=45060161"
     ],
     [
       "Strange CW Keys",
       "https://sites.google.com/site/oh6dccw/strangecwkeys"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 03:57:46",
+      "https://news.ycombinator.com/item?id=45060004"
+    ],
+    [
+      "PSA: Libxslt is unmaintained and has 5 unpatched security bugs",
+      "https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2025-08-28, 21:57:40",
+      "https://news.ycombinator.com/item?id=45057513"
+    ],
+    [
+      "An eyecare foundation model for clinical assistance",
+      "https://www.nature.com/articles/s41591-025-03900-7"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 21:44:47",
       "https://news.ycombinator.com/item?id=45057404"
     ],
@@ -107,26 +137,6 @@
     [
       "Fuck up my site – Turn any website into beautiful chaos",
       "https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 21:02:28",
-      "https://news.ycombinator.com/item?id=45057002"
-    ],
-    [
-      "There Goes the American Muscle Car",
-      "https://thedispatch.com/article/dodge-challenger-muscle-cars/"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 20:49:34",
-      "https://news.ycombinator.com/item?id=45056878"
-    ],
-    [
-      "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
-      "https://lyra.horse/blog/2025/08/you-dont-need-js/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-08-27, 07:57:01",
-      "https://news.ycombinator.com/item?id=45036708"
-    ],
-    [
-      "Ask HN: What to learn for math for modeling?",
-      "https://news.ycombinator.com/item?id=45036708"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 07:55:43",
       "https://news.ycombinator.com/item?id=45036704"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-08-25, 14:45:57",
-      "https://news.ycombinator.com/item?id=45014445"
+      "2025-08-25, 09:48:53",
+      "https://news.ycombinator.com/item?id=45012080"
     ],
     [
-      "What We Find in the Sewers",
-      "https://www.asimov.press/p/sewers"
+      "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
+      "https://oxism.com/trystero/"
     ]
   ]
 ]
