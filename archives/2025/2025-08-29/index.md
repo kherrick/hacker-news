@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 19:15:55](https://news.ycombinator.com/item?id=45068215) - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 * [2025-08-29, 18:03:33](https://news.ycombinator.com/item?id=45067423) - [Income Equality in Nordic Countries: Myths, Facts, and Lessons](https://www.aeaweb.org/articles?id=10.1257/jel.20251636)
 * [2025-08-29, 18:01:23](https://news.ycombinator.com/item?id=45067395) - [Hardware Flaw in Apple A16 Chip: Debug Logic Active on Production Devices](https://github.com/JGoyd/A16-FuseBypass)
 * [2025-08-29, 17:30:29](https://news.ycombinator.com/item?id=45066999) - [SQLite's Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)

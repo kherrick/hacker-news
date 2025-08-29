@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-29, 19:15:55](https://news.ycombinator.com/item?id=45068215) - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 * [2025-08-29, 18:03:33](https://news.ycombinator.com/item?id=45067423) - [Income Equality in Nordic Countries: Myths, Facts, and Lessons](https://www.aeaweb.org/articles?id=10.1257/jel.20251636)
-* [2025-08-29, 18:01:23](https://news.ycombinator.com/item?id=45067395) - [Hardware Flaw in Apple A16 Chip: Debug Logic Active on Production Devices](https://github.com/JGoyd/A16-FuseBypass)
 * [2025-08-29, 17:30:29](https://news.ycombinator.com/item?id=45066999) - [SQLite's Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
 * [2025-08-29, 17:00:04](https://news.ycombinator.com/item?id=45066592) - [Thunder Compute (YC S24) Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
 * [2025-08-29, 16:35:24](https://news.ycombinator.com/item?id=45066258) - [The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
@@ -17,7 +17,6 @@
 * [2025-08-29, 13:56:50](https://news.ycombinator.com/item?id=45064210) - [Show HN: Find Hidden Gems on HN](https://pj4533.com/hn-overlooked/)
 * [2025-08-29, 13:30:16](https://news.ycombinator.com/item?id=45063874) - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
 * [2025-08-29, 13:01:45](https://news.ycombinator.com/item?id=45063559) - [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
-* [2025-08-29, 13:00:49](https://news.ycombinator.com/item?id=45063547) - [Show HN: A minimal TS library that generates prompt injection attacks](https://prompt-injector.blueprintlab.io/)
 * [2025-08-29, 12:51:01](https://news.ycombinator.com/item?id=45063431) - [Sig Sauer citing national security to keep documents from public](https://practicalshootinginsights.com/eighth-circuit-fmeca-update/)
 * [2025-08-29, 12:01:31](https://news.ycombinator.com/item?id=45062910) - [Meta might be secretly scanning your phone's camera roll](https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/)
 * [2025-08-29, 11:39:26](https://news.ycombinator.com/item?id=45062738) - [If you have a Claude account, they're going to train on your data moving forward](https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/)
@@ -29,6 +28,7 @@
 * [2025-08-27, 09:50:05](https://news.ycombinator.com/item?id=45037419) - [Lisp from Nothing, Second Edition](http://t3x.org/lfn/index.html)
 * [2025-08-27, 09:06:09](https://news.ycombinator.com/item?id=45037109) - [This is my brain on leeches](https://todaythings.substack.com/p/this-is-my-brain-on-leeches)
 * [2025-08-27, 06:23:22](https://news.ycombinator.com/item?id=45036052) - [How do I get into the Game Industry – by Garry's Mod creator](https://garry.net/posts/how-do-i-get-into-the-game-industry)
+* [2025-08-27, 04:51:26](https://news.ycombinator.com/item?id=45035578) - [Show HN: Magic links – Get video and dev logs without installing anything](https://news.ycombinator.com/item?id=45035578)
 * [2025-08-25, 09:48:53](https://news.ycombinator.com/item?id=45012080) - [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://oxism.com/trystero/)
 
 ## [Archives](archives/index.md)
