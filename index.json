@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-08-29, 19:15:55",
+      "https://news.ycombinator.com/item?id=45068215"
+    ],
+    [
+      "How did .agakhan, .ismaili and .imamat get their own TLDs?",
+      "https://data.iana.org/TLD/tlds-alpha-by-domain.txt"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 19:05:09",
       "https://news.ycombinator.com/item?id=45068091"
     ],
@@ -57,6 +67,16 @@
     [
       "Thunder Compute (YC S24) Is Hiring",
       "https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 16:45:21",
+      "https://news.ycombinator.com/item?id=45066395"
+    ],
+    [
+      "John Carmack's arguments against building a custom XR OS at Meta",
+      "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Show HN: Find Hidden Gems on HN",
       "https://pj4533.com/hn-overlooked/"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 13:30:16",
-      "https://news.ycombinator.com/item?id=45063874"
-    ],
-    [
-      "Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown",
-      "https://sosumi.ai/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Magic links – Get video and dev logs without installing anything",
       "https://news.ycombinator.com/item?id=45035578"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 09:48:53",
-      "https://news.ycombinator.com/item?id=45012080"
-    ],
-    [
-      "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
-      "https://oxism.com/trystero/"
     ]
   ]
 ]
