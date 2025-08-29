@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-08-29, 19:05:09",
+      "https://news.ycombinator.com/item?id=45068091"
+    ],
+    [
+      "Do the simplest thing that could possibly work",
+      "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 18:43:42",
+      "https://news.ycombinator.com/item?id=45067867"
+    ],
+    [
+      "Data engineering and software engineering are converging",
+      "https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 18:03:33",
       "https://news.ycombinator.com/item?id=45067423"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-08-29, 11:39:26",
-      "https://news.ycombinator.com/item?id=45062738"
-    ],
-    [
-      "If you have a Claude account, they're going to train on your data moving forward",
-      "https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 11:29:10",
       "https://news.ycombinator.com/item?id=45062683"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Magic links – Get video and dev logs without installing anything",
       "https://news.ycombinator.com/item?id=45035578"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 09:48:53",
-      "https://news.ycombinator.com/item?id=45012080"
-    ],
-    [
-      "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
-      "https://oxism.com/trystero/"
     ]
   ]
 ]
