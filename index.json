@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-30, 12:43:44",
-      "https://news.ycombinator.com/item?id=45074157"
-    ],
-    [
-      "FBI cyber cop: Salt Typhoon pwned 'nearly every American'",
-      "https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 12:42:30",
       "https://news.ycombinator.com/item?id=45074147"
     ],
@@ -51,16 +41,6 @@
   ],
   [
     [
-      "2025-08-30, 12:03:09",
-      "https://news.ycombinator.com/item?id=45073902"
-    ],
-    [
-      "Is it possible to allow sideloading and keep users safe?",
-      "https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 11:36:18",
       "https://news.ycombinator.com/item?id=45073791"
     ],
@@ -87,6 +67,16 @@
     [
       "From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms",
       "https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 03:40:23",
+      "https://news.ycombinator.com/item?id=45071722"
+    ],
+    [
+      "Show HN: Hacker News em dash user leaderboard pre-ChatGPT",
+      "https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html"
     ]
   ],
   [
@@ -137,6 +127,16 @@
     [
       "Do the simplest thing that could possibly work",
       "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 18:03:33",
+      "https://news.ycombinator.com/item?id=45067423"
+    ],
+    [
+      "Income Equality in Nordic Countries: Myths, Facts, and Lessons",
+      "https://www.aeaweb.org/articles?id=10.1257/jel.20251636"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45034148"
     ],
     [
-      "Why did dlclose not unload the library?",
+      "Why did dlclose not unload the library? (2023)",
       "https://kishoreganesh.com/post/why-dl-close-did-not-work/"
     ]
   ],
