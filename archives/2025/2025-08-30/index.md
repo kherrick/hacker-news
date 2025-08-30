@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 19:46:17](https://news.ycombinator.com/item?id=45077460) - [Sleeper AI agents and how Anthropic detects them [video]](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
+* [2025-08-30, 19:33:57](https://news.ycombinator.com/item?id=45077353) - [Meta and Yandex Disclosure: Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io?new)
 * [2025-08-30, 19:26:29](https://news.ycombinator.com/item?id=45077291) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
+* [2025-08-30, 19:02:44](https://news.ycombinator.com/item?id=45077143) - [The Rise of Hybrid PHP: Blending PHP with Go and Rust](https://yekdeveloper.com/p/4-the-rise-of-hybrid-php)
 * [2025-08-30, 17:20:32](https://news.ycombinator.com/item?id=45076367) - [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
 * [2025-08-30, 17:13:19](https://news.ycombinator.com/item?id=45076297) - [The Delusion Machine – What happened when I fed my soul into an LLM](https://hedgehogreview.com/web-features/thr/posts/the-delusion-machine)
 * [2025-08-30, 16:57:54](https://news.ycombinator.com/item?id=45076119) - [Fed up with macOS – it downloaded 47 GB of 4K 240FPS screensavers. Asahi FTW](https://news.ycombinator.com/item?id=45076119)
