@@ -92,6 +92,7 @@
 * [2025-08-27, 05:10:53](https://news.ycombinator.com/item?id=45035684) - [AI coding made me faster, but I can't code to music anymore](https://www.praf.me/ai-coding)
 * [2025-08-27, 04:59:08](https://news.ycombinator.com/item?id=45035618) - [SQL Design Patterns](https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/)
 * [2025-08-27, 04:51:26](https://news.ycombinator.com/item?id=45035578) - [Show HN: Magic links – Get video and dev logs without installing anything](https://news.ycombinator.com/item?id=45035578)
+* [2025-08-27, 03:04:43](https://news.ycombinator.com/item?id=45035021) - [A24's Empire of Auteurs](https://www.newyorker.com/magazine/2025/09/01/a24s-empire-of-auteurs)
 * [2025-08-27, 02:54:07](https://news.ycombinator.com/item?id=45034957) - [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
 * [2025-08-27, 01:44:16](https://news.ycombinator.com/item?id=45034537) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
 * [2025-08-27, 01:38:48](https://news.ycombinator.com/item?id=45034496) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)

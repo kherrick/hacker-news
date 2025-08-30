@@ -28,8 +28,8 @@
 * [2025-08-27, 13:18:04](https://news.ycombinator.com/item?id=45039292) - [Show HN: I made an Animal Crossing style letter editor](https://acmail.idreesinc.com)
 * [2025-08-27, 11:52:42](https://news.ycombinator.com/item?id=45038380) - [Bi-directional accountability: A leadership shift most organizations avoid](https://www.alnewkirk.com/bidirectional-accountability/)
 * [2025-08-27, 11:00:45](https://news.ycombinator.com/item?id=45037940) - [Pig lung transplanted into a human](https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first)
-* [2025-08-27, 09:50:05](https://news.ycombinator.com/item?id=45037419) - [Lisp from Nothing, Second Edition](http://t3x.org/lfn/index.html)
 * [2025-08-27, 04:59:08](https://news.ycombinator.com/item?id=45035618) - [SQL Design Patterns](https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/)
+* [2025-08-27, 03:04:43](https://news.ycombinator.com/item?id=45035021) - [A24's Empire of Auteurs](https://www.newyorker.com/magazine/2025/09/01/a24s-empire-of-auteurs)
 
 ## [Archives](archives/index.md)
 
