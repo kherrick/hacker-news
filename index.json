@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-30, 01:10:11",
+      "https://news.ycombinator.com/item?id=45071063"
+    ],
+    [
+      "Pentagon Docs: US Wants to \"Suppress Dissenting Arguments\" Using AI Propaganda",
+      "https://theintercept.com/2025/08/25/pentagon-military-ai-propaganda-influence/"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 00:09:43",
+      "https://news.ycombinator.com/item?id=45070793"
+    ],
+    [
+      "Why Romania excels in international Olympiads",
+      "https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 23:40:21",
+      "https://news.ycombinator.com/item?id=45070602"
+    ],
+    [
+      "Nginx-CGI brings support for CGI to Nginx and angie",
+      "https://github.com/pjincz/nginx-cgi"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 20:25:34",
       "https://news.ycombinator.com/item?id=45068986"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2025-08-29, 19:20:28",
-      "https://news.ycombinator.com/item?id=45068268"
+      "2025-08-29, 19:45:32",
+      "https://news.ycombinator.com/item?id=45068548"
     ],
     [
-      "The No-CPU Amiga Demo Challenge",
-      "https://github.com/askeksa/NoCpuChallenge"
+      "The First Inkjet Printer Was a Medical Device",
+      "https://spectrum.ieee.org/rune-elmqvist"
     ]
   ],
   [
@@ -81,6 +111,16 @@
   ],
   [
     [
+      "2025-08-29, 16:35:24",
+      "https://news.ycombinator.com/item?id=45066258"
+    ],
+    [
+      "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
+      "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 16:20:31",
       "https://news.ycombinator.com/item?id=45066070"
     ],
@@ -125,18 +165,8 @@
       "https://news.ycombinator.com/item?id=45065343"
     ],
     [
-      "Why AI Isn't Ready to Be a Real Coder",
+      "AI’s coding evolution hinges on collaboration and trust",
       "https://spectrum.ieee.org/ai-for-coding"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 15:18:40",
-      "https://news.ycombinator.com/item?id=45065278"
-    ],
-    [
-      "Seedbox Lite: A lightweight torrent streaming app with instant playback",
-      "https://github.com/hotheadhacker/seedbox-lite"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-08-29, 13:56:50",
-      "https://news.ycombinator.com/item?id=45064210"
-    ],
-    [
-      "Show HN: Find Hidden Gems on HN",
-      "https://pj4533.com/hn-overlooked/"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 13:30:16",
       "https://news.ycombinator.com/item?id=45063874"
     ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2025-08-29, 12:01:31",
-      "https://news.ycombinator.com/item?id=45062910"
-    ],
-    [
-      "Some users have noticed settings that let Meta analyze and retain phone photos",
-      "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 11:29:10",
-      "https://news.ycombinator.com/item?id=45062683"
-    ],
-    [
-      "Updates to Consumer Terms and Privacy Policy",
-      "https://www.anthropic.com/news/updates-to-our-consumer-terms"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 06:37:21",
       "https://news.ycombinator.com/item?id=45060920"
     ],
@@ -221,12 +221,22 @@
   ],
   [
     [
-      "2025-08-27, 10:59:37",
-      "https://news.ycombinator.com/item?id=45037936"
+      "2025-08-27, 16:24:13",
+      "https://news.ycombinator.com/item?id=45041744"
     ],
     [
-      "Fixing an old .NET Core native library loading issue on Alpine",
-      "https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/"
+      "I'm working on implementing a programming language all my own",
+      "https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 11:18:15",
+      "https://news.ycombinator.com/item?id=45038074"
+    ],
+    [
+      "Delete Tests",
+      "https://andre.arko.net/2025/06/30/you-should-delete-tests/"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2025-08-27, 09:06:09",
-      "https://news.ycombinator.com/item?id=45037109"
-    ],
-    [
-      "This is my brain on leeches",
-      "https://todaythings.substack.com/p/this-is-my-brain-on-leeches"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 08:58:38",
       "https://news.ycombinator.com/item?id=45037064"
     ],
     [
       "Hermes 4",
       "https://hermes4.nousresearch.com/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 06:23:22",
+      "https://news.ycombinator.com/item?id=45036052"
+    ],
+    [
+      "How do I get into the game industry",
+      "https://garry.net/posts/how-do-i-get-into-the-game-industry"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Reloading Classes in Python",
       "https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 09:48:53",
-      "https://news.ycombinator.com/item?id=45012080"
-    ],
-    [
-      "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
-      "https://oxism.com/trystero/"
     ]
   ]
 ]
