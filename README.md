@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-30, 07:19:31](https://news.ycombinator.com/item?id=45072599) - [Milan's expat 'explosion' brings new buzz to Italy's financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)
 * [2025-08-30, 05:45:24](https://news.ycombinator.com/item?id=45072160) - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 * [2025-08-30, 04:07:33](https://news.ycombinator.com/item?id=45071847) - [I sat down with Werner Vogels, the CTO of Amazon](https://everton.xyz/i-sat-down-with-werner-vogels/)
 * [2025-08-30, 04:05:22](https://news.ycombinator.com/item?id=45071838) - [Fun and Immersive Typing Game](https://keybara.io)
@@ -25,9 +24,10 @@
 * [2025-08-27, 09:50:05](https://news.ycombinator.com/item?id=45037419) - [Lisp from Nothing, Second Edition](http://t3x.org/lfn/index.html)
 * [2025-08-27, 08:58:38](https://news.ycombinator.com/item?id=45037064) - [Hermes 4](https://hermes4.nousresearch.com/)
 * [2025-08-27, 06:23:22](https://news.ycombinator.com/item?id=45036052) - [How do I get into the game industry](https://garry.net/posts/how-do-i-get-into-the-game-industry)
-* [2025-08-27, 00:34:42](https://news.ycombinator.com/item?id=45034060) - [Acoustic Panels as Wall Coverings in Star Trek: The Next Generation](https://www.ex-astris-scientia.org/database/acoustic-panels.htm)
 * [2025-08-26, 22:02:29](https://news.ycombinator.com/item?id=45032898) - [Trying to get error backtraces in Rust libraries right](https://www.iroh.computer/blog/error-handling-in-iroh)
 * [2025-08-26, 17:58:24](https://news.ycombinator.com/item?id=45030038) - [15-Fold increase in solar thermoelectric generator performance](https://www.nature.com/articles/s41377-025-01916-9)
+* [2025-08-26, 13:07:11](https://news.ycombinator.com/item?id=45026013) - [A look at XSLT 3.0 (2017)](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/)
+* [2025-08-26, 12:37:02](https://news.ycombinator.com/item?id=45025685) - [Taylor Otwell: What 14 Years of Laravel Taught Me About Maintainability](https://maintainable.fm/episodes/taylor-otwell-what-14-years-of-laravel-taught-me-about-maintainability)
 * [2025-08-26, 09:56:08](https://news.ycombinator.com/item?id=45024406) - [Who Gives a Sheaf?](https://www.youtube.com/playlist?list=PLnNqTHlK5sGJrRvH0YBxE4Oe1M9EoSTPQ)
 * [2025-08-26, 07:58:02](https://news.ycombinator.com/item?id=45023579) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 

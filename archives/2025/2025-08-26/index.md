@@ -49,6 +49,7 @@
 * [2025-08-26, 13:07:11](https://news.ycombinator.com/item?id=45026013) - [Why You Should Be Using XSLT 3.0 (2017)](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/)
 * [2025-08-26, 13:04:41](https://news.ycombinator.com/item?id=45025978) - [AI Is Wrecking Young Americans' Job Prospects](https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84)
 * [2025-08-26, 12:50:06](https://news.ycombinator.com/item?id=45025835) - [SSL certificate requirements are becoming obnoxious](https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/)
+* [2025-08-26, 12:37:02](https://news.ycombinator.com/item?id=45025685) - [Taylor Otwell: What 14 Years of Laravel Taught Me About Maintainability](https://maintainable.fm/episodes/taylor-otwell-what-14-years-of-laravel-taught-me-about-maintainability)
 * [2025-08-26, 12:36:20](https://news.ycombinator.com/item?id=45025678) - [Show HN: Sideko – Hybrid deterministic/LLM generator for API SDKs and docs](https://github.com/Sideko-Inc/sideko/tree/main/releases/determinism-plus-llms)
 * [2025-08-26, 12:27:55](https://news.ycombinator.com/item?id=45025600) - [The Relativity of Wrong (1988)](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2025-08-26, 12:06:54](https://news.ycombinator.com/item?id=45025406) - [In the Matter of Lisa Cook](https://paulkrugman.substack.com/p/in-the-matter-of-lisa-cook)
