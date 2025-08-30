@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 16:57:54](https://news.ycombinator.com/item?id=45076119) - [Fed up with macOS – it downloaded 47 GB of 4K 240FPS screensavers. Asahi FTW](https://news.ycombinator.com/item?id=45076119)
 * [2025-08-30, 16:15:44](https://news.ycombinator.com/item?id=45075813) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
 * [2025-08-30, 16:12:57](https://news.ycombinator.com/item?id=45075796) - [Reuters stopped sharing Gaza locations after IDF strikes killed many journalists](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)
 * [2025-08-30, 15:58:33](https://news.ycombinator.com/item?id=45075699) - [The Sex Recession: The Share of Americans Having Regular Sex Keeps Dropping](https://ifstudies.org/blog/the-sex-recession-the-share-of-americans-having-regular-sex-keeps-dropping)
 * [2025-08-30, 15:40:57](https://news.ycombinator.com/item?id=45075571) - [The V Programming Language](https://vlang.io/)
 * [2025-08-30, 15:25:10](https://news.ycombinator.com/item?id=45075430) - [New interpretations suggest the \"heat death\" hypothesis might not hold (2023)](https://www.noemamag.com/life-need-not-ever-end/)
+* [2025-08-30, 14:38:33](https://news.ycombinator.com/item?id=45075048) - [You Have to Feel It](https://mitchellh.com/writing/feel-it)
 * [2025-08-30, 14:28:06](https://news.ycombinator.com/item?id=45074967) - [Adafruit Fruit Jam – An RP2350 mini computer running classic Macintosh](https://www.cnx-software.com/2025/08/27/adafruit-fruit-jam-a-rp2350-mini-computer-running-classic-macintosh/)
 * [2025-08-30, 14:18:41](https://news.ycombinator.com/item?id=45074895) - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 * [2025-08-30, 14:10:33](https://news.ycombinator.com/item?id=45074840) - [Americans Are Having Less Sex](https://www.wsj.com/lifestyle/relationships/americans-are-having-less-sex-than-ever-785973ce)
