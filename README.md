@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-30, 22:47:27](https://news.ycombinator.com/item?id=45078651) - [Enrollment at trade schools is expected to grow 6.6% a year](https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html)
+* [2025-08-30, 22:24:58](https://news.ycombinator.com/item?id=45078530) - [Affiliates Flock to 'Soulless' Scam Gambling Machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
 * [2025-08-30, 20:56:40](https://news.ycombinator.com/item?id=45077937) - [Six Months into Tariffs, Businesses Have No Idea How to Price Anything](https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8)
 * [2025-08-30, 20:26:35](https://news.ycombinator.com/item?id=45077735) - [Why did books start being divided into chapters? A new history](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
-* [2025-08-30, 19:46:17](https://news.ycombinator.com/item?id=45077460) - [Sleeper AI agents and how Anthropic detects them [video]](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
 * [2025-08-30, 19:32:52](https://news.ycombinator.com/item?id=45077345) - [The space race is transforming Southern California's economy – again](https://www.latimes.com/business/story/2025-08-28/how-the-new-space-economy-is-transforming-southern-california)
 * [2025-08-30, 19:26:29](https://news.ycombinator.com/item?id=45077291) - [Are we decentralized yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 19:14:15](https://news.ycombinator.com/item?id=45077209) - [Anduril: Amusement Park for Engineers](https://joincolossus.com/article/the-amusement-park-for-engineers/)
@@ -14,7 +15,6 @@
 * [2025-08-30, 14:18:41](https://news.ycombinator.com/item?id=45074895) - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 * [2025-08-30, 13:25:39](https://news.ycombinator.com/item?id=45074467) - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
 * [2025-08-30, 12:58:48](https://news.ycombinator.com/item?id=45074248) - [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load)
-* [2025-08-30, 12:43:44](https://news.ycombinator.com/item?id=45074157) - [FBI cyber cop: Salt Typhoon pwned 'nearly every American'](https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/)
 * [2025-08-30, 12:42:30](https://news.ycombinator.com/item?id=45074147) - [Agent Client Protocol (ACP)](https://agentclientprotocol.com/overview/introduction)
 * [2025-08-30, 12:31:43](https://news.ycombinator.com/item?id=45074071) - [Nokia’s legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
 * [2025-08-30, 11:26:35](https://news.ycombinator.com/item?id=45073746) - [Hardening Firefox – a checklist for improved browser privacy](https://andrewmarder.net/firefox/)

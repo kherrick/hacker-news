@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 22:47:27](https://news.ycombinator.com/item?id=45078651) - [Enrollment at trade schools is expected to grow 6.6% a year](https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html)
+* [2025-08-30, 22:24:58](https://news.ycombinator.com/item?id=45078530) - [Affiliates Flock to 'Soulless' Scam Gambling Machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
 * [2025-08-30, 21:01:32](https://news.ycombinator.com/item?id=45077970) - [Verizon down for users across the US](https://www.dailymail.co.uk/news/article-15050499/Verizon-goes-tens-thousands-users-US.html)
 * [2025-08-30, 20:56:40](https://news.ycombinator.com/item?id=45077937) - [Six Months into Tariffs, Businesses Have No Idea How to Price Anything](https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8)
 * [2025-08-30, 20:26:35](https://news.ycombinator.com/item?id=45077735) - [Why did books start being divided into chapters? A new history](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
