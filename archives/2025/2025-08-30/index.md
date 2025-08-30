@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 17:13:19](https://news.ycombinator.com/item?id=45076297) - [The Delusion Machine – What happened when I fed my soul into an LLM](https://hedgehogreview.com/web-features/thr/posts/the-delusion-machine)
 * [2025-08-30, 16:57:54](https://news.ycombinator.com/item?id=45076119) - [Fed up with macOS – it downloaded 47 GB of 4K 240FPS screensavers. Asahi FTW](https://news.ycombinator.com/item?id=45076119)
 * [2025-08-30, 16:15:44](https://news.ycombinator.com/item?id=45075813) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
 * [2025-08-30, 16:12:57](https://news.ycombinator.com/item?id=45075796) - [Reuters stopped sharing Gaza locations after IDF strikes killed many journalists](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)
