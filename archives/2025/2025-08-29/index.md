@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 23:40:21](https://news.ycombinator.com/item?id=45070602) - [Nginx-CGI brings support for CGI to Nginx and angie](https://github.com/pjincz/nginx-cgi)
 * [2025-08-29, 21:13:50](https://news.ycombinator.com/item?id=45069452) - [MSNBC: Whistleblower accuses DOGE team of endangering Social Security data](https://whistleblower.org/in-the-news/msnbc-whistleblower-accuses-doge-team-of-endangering-critical-social-security-data/)
 * [2025-08-29, 21:04:13](https://news.ycombinator.com/item?id=45069361) - [AI is ummasking ICE officers. Can Washington do anything about it?](https://www.politico.com/news/2025/08/29/ai-unmasking-ice-officers-00519478)
 * [2025-08-29, 20:28:35](https://news.ycombinator.com/item?id=45069014) - [How to Stop Google from AI-Summarising Your Website](https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website)
 * [2025-08-29, 20:25:34](https://news.ycombinator.com/item?id=45068986) - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
+* [2025-08-29, 19:45:32](https://news.ycombinator.com/item?id=45068548) - [The First Inkjet Printer Was a Medical Device](https://spectrum.ieee.org/rune-elmqvist)
 * [2025-08-29, 19:20:28](https://news.ycombinator.com/item?id=45068268) - [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
 * [2025-08-29, 19:15:55](https://news.ycombinator.com/item?id=45068215) - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 * [2025-08-29, 19:05:09](https://news.ycombinator.com/item?id=45068091) - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
