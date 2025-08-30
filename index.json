@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-30, 13:25:39",
+      "https://news.ycombinator.com/item?id=45074467"
+    ],
+    [
+      "AI models need a virtual machine",
+      "https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 12:58:48",
+      "https://news.ycombinator.com/item?id=45074248"
+    ],
+    [
+      "Cognitive Load is what matters",
+      "https://github.com/zakirullin/cognitive-load"
+    ]
+  ],
+  [
+    [
       "2025-08-30, 12:42:30",
       "https://news.ycombinator.com/item?id=45074147"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45074115"
     ],
     [
-      "F-Stack and FreeBSD|Linux = ~10M requests, ~1-2M CPS",
+      "F-Stack – A network development kit with high performance based on DPDK",
       "https://www.f-stack.org/"
     ]
   ],
@@ -27,16 +47,6 @@
     [
       "Nokia’s legendary font makes for a great user interface font",
       "https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 11:36:18",
-      "https://news.ycombinator.com/item?id=45073791"
-    ],
-    [
-      "A blog does not need “analytics”",
-      "https://www.thisdaysportion.com/posts/contra-analytics/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Why Romania excels in international Olympiads",
       "https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 23:40:21",
-      "https://news.ycombinator.com/item?id=45070602"
-    ],
-    [
-      "Nginx-CGI brings support for CGI to Nginx and angie",
-      "https://github.com/pjincz/nginx-cgi"
     ]
   ],
   [
