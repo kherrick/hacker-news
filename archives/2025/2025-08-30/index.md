@@ -13,6 +13,7 @@
 * [2025-08-30, 14:10:33](https://news.ycombinator.com/item?id=45074840) - [Americans Are Having Less Sex](https://www.wsj.com/lifestyle/relationships/americans-are-having-less-sex-than-ever-785973ce)
 * [2025-08-30, 13:25:39](https://news.ycombinator.com/item?id=45074467) - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
 * [2025-08-30, 13:18:53](https://news.ycombinator.com/item?id=45074399) - [Show HN: OpenAnimation – KMP app for exploring and editing Lottie animations](https://github.com/orispok/OpenAnimationApp)
+* [2025-08-30, 13:07:41](https://news.ycombinator.com/item?id=45074312) - [Bcachefs Goes to \"Externally Maintained\"](https://lwn.net/Articles/1035736/)
 * [2025-08-30, 12:58:48](https://news.ycombinator.com/item?id=45074248) - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 * [2025-08-30, 12:43:44](https://news.ycombinator.com/item?id=45074157) - [FBI cyber cop: Salt Typhoon pwned 'nearly every American'](https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/)
 * [2025-08-30, 12:42:30](https://news.ycombinator.com/item?id=45074147) - [Agent Client Protocol](https://agentclientprotocol.com/overview/introduction)

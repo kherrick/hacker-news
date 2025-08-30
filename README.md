@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-30, 16:12:57](https://news.ycombinator.com/item?id=45075796) - [Reuters stopped sharing Gaza locations after IDF strikes killed many journalists](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)
 * [2025-08-30, 15:58:33](https://news.ycombinator.com/item?id=45075699) - [The Sex Recession: The Share of Americans Having Regular Sex Keeps Dropping](https://ifstudies.org/blog/the-sex-recession-the-share-of-americans-having-regular-sex-keeps-dropping)
 * [2025-08-30, 15:40:57](https://news.ycombinator.com/item?id=45075571) - [The V Programming Language](https://vlang.io/)
 * [2025-08-30, 15:25:10](https://news.ycombinator.com/item?id=45075430) - [New interpretations suggest the \"heat death\" hypothesis might not hold (2023)](https://www.noemamag.com/life-need-not-ever-end/)
 * [2025-08-30, 14:28:06](https://news.ycombinator.com/item?id=45074967) - [Adafruit Fruit Jam – An RP2350 mini computer running classic Macintosh](https://www.cnx-software.com/2025/08/27/adafruit-fruit-jam-a-rp2350-mini-computer-running-classic-macintosh/)
 * [2025-08-30, 14:18:41](https://news.ycombinator.com/item?id=45074895) - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 * [2025-08-30, 13:25:39](https://news.ycombinator.com/item?id=45074467) - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
+* [2025-08-30, 13:18:53](https://news.ycombinator.com/item?id=45074399) - [Show HN: OpenAnimation – KMP app for exploring and editing Lottie animations](https://github.com/orispok/OpenAnimationApp)
+* [2025-08-30, 13:07:41](https://news.ycombinator.com/item?id=45074312) - [Bcachefs Goes to \"Externally Maintained\"](https://lwn.net/Articles/1035736/)
 * [2025-08-30, 12:58:48](https://news.ycombinator.com/item?id=45074248) - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 * [2025-08-30, 12:43:44](https://news.ycombinator.com/item?id=45074157) - [FBI cyber cop: Salt Typhoon pwned 'nearly every American'](https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/)
 * [2025-08-30, 12:42:30](https://news.ycombinator.com/item?id=45074147) - [Agent Client Protocol](https://agentclientprotocol.com/overview/introduction)
@@ -29,7 +30,6 @@
 * [2025-08-26, 22:02:29](https://news.ycombinator.com/item?id=45032898) - [Trying to get error backtraces in Rust libraries right](https://www.iroh.computer/blog/error-handling-in-iroh)
 * [2025-08-26, 21:38:35](https://news.ycombinator.com/item?id=45032630) - [My Failures Onboarding at Splunk](https://people-work.io/blog/my-failures-onboarding-at-splunk/)
 * [2025-08-26, 12:37:02](https://news.ycombinator.com/item?id=45025685) - [Taylor Otwell: What 14 Years of Laravel Taught Me About Maintainability](https://maintainable.fm/episodes/taylor-otwell-what-14-years-of-laravel-taught-me-about-maintainability)
-* [2025-08-26, 07:58:02](https://news.ycombinator.com/item?id=45023579) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 
 ## [Archives](archives/index.md)
 
