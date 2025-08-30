@@ -87,3 +87,4 @@
 * [2025-08-27, 01:38:48](https://news.ycombinator.com/item?id=45034496) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 * [2025-08-27, 01:10:56](https://news.ycombinator.com/item?id=45034303) - [Game theory at work: When to talk and when to shut up (2024)](https://swaits.com/game-theory-at-work-and-when-to-shutup/)
 * [2025-08-27, 00:56:25](https://news.ycombinator.com/item?id=45034216) - [Stop Talking to Technology Executives Like They Have Anything to Say](https://www.stilldrinking.org/stop-talking-to-technology-executives-like-they-have-anything-to-say)
+* [2025-08-27, 00:34:42](https://news.ycombinator.com/item?id=45034060) - [Acoustic Panels as Wall Coverings in TNG](https://www.ex-astris-scientia.org/database/acoustic-panels.htm)

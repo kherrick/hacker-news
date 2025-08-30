@@ -27,8 +27,8 @@
 * [2025-08-27, 08:58:38](https://news.ycombinator.com/item?id=45037064) - [Hermes 4](https://hermes4.nousresearch.com/)
 * [2025-08-27, 06:23:22](https://news.ycombinator.com/item?id=45036052) - [How do I get into the game industry](https://garry.net/posts/how-do-i-get-into-the-game-industry)
 * [2025-08-27, 05:42:22](https://news.ycombinator.com/item?id=45035817) - [Anatomy of a Python Loop](https://orencodes.io/anatomy-of-a-python-loop/)
+* [2025-08-27, 00:34:42](https://news.ycombinator.com/item?id=45034060) - [Acoustic Panels as Wall Coverings in TNG](https://www.ex-astris-scientia.org/database/acoustic-panels.htm)
 * [2025-08-26, 17:58:24](https://news.ycombinator.com/item?id=45030038) - [15-Fold increase in solar thermoelectric generator performance](https://www.nature.com/articles/s41377-025-01916-9)
-* [2025-08-26, 13:07:11](https://news.ycombinator.com/item?id=45026013) - [Why You Should Be Using XSLT 3.0 (2017)](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/)
 * [2025-08-26, 11:12:56](https://news.ycombinator.com/item?id=45024980) - [Reloading Classes in Python](https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/)
 
 ## [Archives](archives/index.md)
