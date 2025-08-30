@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 21:01:32](https://news.ycombinator.com/item?id=45077970) - [Verizon down for users across the US](https://www.dailymail.co.uk/news/article-15050499/Verizon-goes-tens-thousands-users-US.html)
 * [2025-08-30, 20:56:40](https://news.ycombinator.com/item?id=45077937) - [Six Months into Tariffs, Businesses Have No Idea How to Price Anything](https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8)
 * [2025-08-30, 20:26:35](https://news.ycombinator.com/item?id=45077735) - [Why did books start being divided into chapters? A new history](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
 * [2025-08-30, 20:11:34](https://news.ycombinator.com/item?id=45077631) - [U.S. guided-missile cruiser crosses Panama Canal, warships deployed to Venezuela](https://www.cbsnews.com/news/us-guided-missile-cruiser-panama-canal-warships-deployed-venezuela/)
@@ -11,6 +12,7 @@
 * [2025-08-30, 19:33:57](https://news.ycombinator.com/item?id=45077353) - [Meta and Yandex Disclosure: Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io?new)
 * [2025-08-30, 19:32:52](https://news.ycombinator.com/item?id=45077345) - [The space race is transforming Southern California's economy – again](https://www.latimes.com/business/story/2025-08-28/how-the-new-space-economy-is-transforming-southern-california)
 * [2025-08-30, 19:26:29](https://news.ycombinator.com/item?id=45077291) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
+* [2025-08-30, 19:14:15](https://news.ycombinator.com/item?id=45077209) - [Anduril: Amusement Park for Engineers](https://joincolossus.com/article/the-amusement-park-for-engineers/)
 * [2025-08-30, 19:02:44](https://news.ycombinator.com/item?id=45077143) - [The Rise of Hybrid PHP: Blending PHP with Go and Rust](https://yekdeveloper.com/p/4-the-rise-of-hybrid-php)
 * [2025-08-30, 17:20:32](https://news.ycombinator.com/item?id=45076367) - [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
 * [2025-08-30, 17:13:19](https://news.ycombinator.com/item?id=45076297) - [The Delusion Machine – What happened when I fed my soul into an LLM](https://hedgehogreview.com/web-features/thr/posts/the-delusion-machine)
