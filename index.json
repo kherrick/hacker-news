@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-30, 12:43:44",
+      "https://news.ycombinator.com/item?id=45074157"
+    ],
+    [
+      "FBI cyber cop: Salt Typhoon pwned 'nearly every American'",
+      "https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/"
+    ]
+  ],
+  [
+    [
       "2025-08-30, 12:42:30",
       "https://news.ycombinator.com/item?id=45074147"
     ],
     [
       "Agent Client Protocol",
       "https://agentclientprotocol.com/overview/introduction"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 12:37:28",
+      "https://news.ycombinator.com/item?id=45074115"
+    ],
+    [
+      "F-Stack and FreeBSD|Linux = ~10M requests, ~1-2M CPS",
+      "https://www.f-stack.org/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45073902"
     ],
     [
-      "Is it possible to allow sideloading *and* keep users safe?",
+      "Is it possible to allow sideloading and keep users safe?",
       "https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms",
       "https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 03:40:23",
-      "https://news.ycombinator.com/item?id=45071722"
-    ],
-    [
-      "Show HN: Hacker News em dash user leaderboard pre-ChatGPT",
-      "https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-08-29, 18:03:33",
-      "https://news.ycombinator.com/item?id=45067423"
-    ],
-    [
-      "Income Equality in Nordic Countries: Myths, Facts, and Lessons",
-      "https://www.aeaweb.org/articles?id=10.1257/jel.20251636"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 16:45:21",
       "https://news.ycombinator.com/item?id=45066395"
     ],
@@ -187,16 +187,6 @@
     [
       "Deploying DeepSeek on 96 H100 GPUs",
       "https://lmsys.org/blog/2025-05-05-large-scale-ep/"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 13:30:16",
-      "https://news.ycombinator.com/item?id=45063874"
-    ],
-    [
-      "Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown",
-      "https://sosumi.ai/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "How do I get into the game industry",
       "https://garry.net/posts/how-do-i-get-into-the-game-industry"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 00:45:06",
+      "https://news.ycombinator.com/item?id=45034148"
+    ],
+    [
+      "Why did dlclose not unload the library?",
+      "https://kishoreganesh.com/post/why-dl-close-did-not-work/"
     ]
   ],
   [
