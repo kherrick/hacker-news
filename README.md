@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-30, 14:18:41](https://news.ycombinator.com/item?id=45074895) - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
+* [2025-08-30, 14:10:33](https://news.ycombinator.com/item?id=45074840) - [Americans Are Having Less Sex](https://www.wsj.com/lifestyle/relationships/americans-are-having-less-sex-than-ever-785973ce)
 * [2025-08-30, 13:25:39](https://news.ycombinator.com/item?id=45074467) - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
 * [2025-08-30, 13:18:53](https://news.ycombinator.com/item?id=45074399) - [Show HN: OpenAnimation – KMP app for exploring and editing Lottie animations](https://github.com/orispok/OpenAnimationApp)
 * [2025-08-30, 12:58:48](https://news.ycombinator.com/item?id=45074248) - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
@@ -24,7 +25,6 @@
 * [2025-08-27, 13:18:04](https://news.ycombinator.com/item?id=45039292) - [Show HN: I made an Animal Crossing style letter editor](https://acmail.idreesinc.com)
 * [2025-08-27, 09:50:05](https://news.ycombinator.com/item?id=45037419) - [Lisp from Nothing, Second Edition](http://t3x.org/lfn/index.html)
 * [2025-08-27, 08:58:38](https://news.ycombinator.com/item?id=45037064) - [Hermes 4](https://hermes4.nousresearch.com/)
-* [2025-08-27, 06:23:22](https://news.ycombinator.com/item?id=45036052) - [How do I get into the game industry](https://garry.net/posts/how-do-i-get-into-the-game-industry)
 * [2025-08-27, 00:45:06](https://news.ycombinator.com/item?id=45034148) - [Why did dlclose not unload the library? (2023)](https://kishoreganesh.com/post/why-dl-close-did-not-work/)
 * [2025-08-26, 22:02:29](https://news.ycombinator.com/item?id=45032898) - [Trying to get error backtraces in Rust libraries right](https://www.iroh.computer/blog/error-handling-in-iroh)
 * [2025-08-26, 21:38:35](https://news.ycombinator.com/item?id=45032630) - [My Failures Onboarding at Splunk](https://people-work.io/blog/my-failures-onboarding-at-splunk/)
