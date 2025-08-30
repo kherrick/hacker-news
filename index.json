@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-30, 16:12:57",
-      "https://news.ycombinator.com/item?id=45075796"
-    ],
-    [
-      "Reuters stopped sharing Gaza locations after IDF strikes killed many journalists",
-      "https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 15:58:33",
       "https://news.ycombinator.com/item?id=45075699"
     ],
@@ -67,6 +57,26 @@
     [
       "AI models need a virtual machine",
       "https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 13:18:53",
+      "https://news.ycombinator.com/item?id=45074399"
+    ],
+    [
+      "Show HN: OpenAnimation – KMP app for exploring and editing Lottie animations",
+      "https://github.com/orispok/OpenAnimationApp"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 13:07:41",
+      "https://news.ycombinator.com/item?id=45074312"
+    ],
+    [
+      "Bcachefs Goes to \"Externally Maintained\"",
+      "https://lwn.net/Articles/1035736/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Taylor Otwell: What 14 Years of Laravel Taught Me About Maintainability",
       "https://maintainable.fm/episodes/taylor-otwell-what-14-years-of-laravel-taught-me-about-maintainability"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 07:58:02",
-      "https://news.ycombinator.com/item?id=45023579"
-    ],
-    [
-      "Emulating aarch64 in software using JIT compilation and Rust",
-      "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html"
     ]
   ]
 ]
