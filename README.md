@@ -2,7 +2,8 @@
 
 * [2025-08-30, 19:46:17](https://news.ycombinator.com/item?id=45077460) - [Sleeper AI agents and how Anthropic detects them [video]](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
 * [2025-08-30, 19:33:57](https://news.ycombinator.com/item?id=45077353) - [Meta and Yandex Disclosure: Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io?new)
-* [2025-08-30, 19:26:29](https://news.ycombinator.com/item?id=45077291) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
+* [2025-08-30, 19:32:52](https://news.ycombinator.com/item?id=45077345) - [The space race is transforming Southern California's economy – again](https://www.latimes.com/business/story/2025-08-28/how-the-new-space-economy-is-transforming-southern-california)
+* [2025-08-30, 19:26:29](https://news.ycombinator.com/item?id=45077291) - [Are we decentralized yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 19:02:44](https://news.ycombinator.com/item?id=45077143) - [The Rise of Hybrid PHP: Blending PHP with Go and Rust](https://yekdeveloper.com/p/4-the-rise-of-hybrid-php)
 * [2025-08-30, 17:20:32](https://news.ycombinator.com/item?id=45076367) - [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
 * [2025-08-30, 15:53:05](https://news.ycombinator.com/item?id=45075664) - [GAO warns of privacy risks in using facial recognition in rental housing](https://files.gao.gov/reports/GAO-25-107196/index.html)
@@ -19,7 +20,6 @@
 * [2025-08-30, 11:26:35](https://news.ycombinator.com/item?id=45073746) - [Hardening Firefox – a checklist for improved browser privacy](https://andrewmarder.net/firefox/)
 * [2025-08-30, 05:45:24](https://news.ycombinator.com/item?id=45072160) - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 * [2025-08-30, 03:40:23](https://news.ycombinator.com/item?id=45071722) - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
-* [2025-08-29, 20:25:34](https://news.ycombinator.com/item?id=45068986) - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
 * [2025-08-29, 19:05:09](https://news.ycombinator.com/item?id=45068091) - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 * [2025-08-29, 16:45:21](https://news.ycombinator.com/item?id=45066395) - [John Carmack's arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
