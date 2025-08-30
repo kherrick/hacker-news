@@ -32,6 +32,7 @@
 * [2025-08-27, 15:50:54](https://news.ycombinator.com/item?id=45041315) - [VIMMaster](https://github.com/renzorlive/vimmaster)
 * [2025-08-27, 15:48:07](https://news.ycombinator.com/item?id=45041286) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 15:39:33](https://news.ycombinator.com/item?id=45041185) - [Launch HN: Bitrig (YC S25) – Build Swift Apps on Your iPhone](https://news.ycombinator.com/item?id=45041185)
+* [2025-08-27, 15:29:28](https://news.ycombinator.com/item?id=45041052) - [How to design a DBMS for Telco requirements](http://mikaelronstrom.blogspot.com/2025/08/how-to-design-dbms-for-telco.html)
 * [2025-08-27, 15:18:29](https://news.ycombinator.com/item?id=45040905) - [We Rebuilt Cloud Life's Infrastructure Delivery with System Initiative](https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative)
 * [2025-08-27, 15:16:18](https://news.ycombinator.com/item?id=45040875) - [Efficient Array Programming](https://github.com/razetime/efficient-array-programming)
 * [2025-08-27, 14:42:14](https://news.ycombinator.com/item?id=45040404) - [Show HN: React Web Camera – Fix <input type=file> single-photo limit](https://shivantra.com/react-web-camera/)
