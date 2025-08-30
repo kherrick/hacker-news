@@ -46,6 +46,7 @@
 * [2025-08-26, 14:01:46](https://news.ycombinator.com/item?id=45026719) - [Gemini 2.5 Flash Image](https://deepmind.google/models/gemini/image/)
 * [2025-08-26, 13:52:13](https://news.ycombinator.com/item?id=45026584) - [Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)](https://www.laphamsquarterly.org/roundtable/deeper-deep)
 * [2025-08-26, 13:37:07](https://news.ycombinator.com/item?id=45026372) - [DOGE Put Critical Social Security Data at Risk, Whistle-Blower Says](https://www.nytimes.com/2025/08/26/us/politics/doge-social-security-data.html)
+* [2025-08-26, 13:30:14](https://news.ycombinator.com/item?id=45026289) - [Automating Bug Bounty with N8n](https://www.lampysecurity.com/post/automating-bug-bounty-with-n8n)
 * [2025-08-26, 13:07:11](https://news.ycombinator.com/item?id=45026013) - [Why You Should Be Using XSLT 3.0 (2017)](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/)
 * [2025-08-26, 13:04:41](https://news.ycombinator.com/item?id=45025978) - [AI Is Wrecking Young Americans' Job Prospects](https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84)
 * [2025-08-26, 12:50:06](https://news.ycombinator.com/item?id=45025835) - [SSL certificate requirements are becoming obnoxious](https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/)
