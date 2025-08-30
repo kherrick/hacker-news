@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-30, 21:01:32",
+      "https://news.ycombinator.com/item?id=45077970"
+    ],
+    [
+      "Verizon down for users across the US",
+      "https://www.dailymail.co.uk/news/article-15050499/Verizon-goes-tens-thousands-users-US.html"
+    ]
+  ],
+  [
+    [
       "2025-08-30, 20:56:40",
       "https://news.ycombinator.com/item?id=45077937"
     ],
@@ -57,6 +67,16 @@
     [
       "Are we decentralized yet?",
       "https://arewedecentralizedyet.online/"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 19:14:15",
+      "https://news.ycombinator.com/item?id=45077209"
+    ],
+    [
+      "Anduril: Amusement Park for Engineers",
+      "https://joincolossus.com/article/the-amusement-park-for-engineers/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-08-30, 13:07:41",
-      "https://news.ycombinator.com/item?id=45074312"
-    ],
-    [
-      "Bcachefs Goes to \"Externally Maintained\"",
-      "https://lwn.net/Articles/1035736/"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 12:58:48",
       "https://news.ycombinator.com/item?id=45074248"
     ],
@@ -157,26 +167,6 @@
     [
       "Agent Client Protocol (ACP)",
       "https://agentclientprotocol.com/overview/introduction"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 12:37:28",
-      "https://news.ycombinator.com/item?id=45074115"
-    ],
-    [
-      "F-Stack – A network development kit with high performance based on DPDK",
-      "https://www.f-stack.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 12:36:10",
-      "https://news.ycombinator.com/item?id=45074110"
-    ],
-    [
-      "De minimis exemption ends",
-      "https://www.washingtonpost.com/business/2025/08/30/de-minimis-tax-canceled-orders-delays/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Can cheaper lasers handle short distances?",
       "https://semiengineering.com/can-cheaper-lasers-handle-short-distances/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 16:28:14",
+      "https://news.ycombinator.com/item?id=45041804"
+    ],
+    [
+      "Spectrum – catching clojure.spec conform errors at compile time",
+      "https://github.com/arohner/spectrum"
     ]
   ],
   [
