@@ -37,6 +37,7 @@
 * [2025-08-27, 14:37:21](https://news.ycombinator.com/item?id=45040338) - [AI Bubble 2027](https://www.wheresyoured.at/ai-bubble-2027/)
 * [2025-08-27, 14:17:22](https://news.ycombinator.com/item?id=45040076) - [Why Aren't People Going to Local and Regional In-Person Events Anymore?](https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/)
 * [2025-08-27, 14:15:54](https://news.ycombinator.com/item?id=45040064) - [Apple Revokes EU Distribution Rights for an App on the Alt Store](https://torrentfreak.com/apple-revokes-eu-distribution-rights-for-torrent-client-developer-left-in-the-dark/)
+* [2025-08-27, 13:51:05](https://news.ycombinator.com/item?id=45039662) - [The Grammar According to West](https://dwest.web.illinois.edu/grammar.html)
 * [2025-08-27, 13:50:59](https://news.ycombinator.com/item?id=45039661) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 * [2025-08-27, 13:38:03](https://news.ycombinator.com/item?id=45039510) - [Tipping point in Gulf Stream may be reached as early as mid-century](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022651)
 * [2025-08-27, 13:28:45](https://news.ycombinator.com/item?id=45039397) - [Bluesky now platform of choice for science community](https://arstechnica.com/science/2025/08/more-scientists-choose-bluesky-over-twitter/)
