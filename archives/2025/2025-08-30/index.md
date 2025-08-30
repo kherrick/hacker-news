@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 12:43:44](https://news.ycombinator.com/item?id=45074157) - [FBI cyber cop: Salt Typhoon pwned 'nearly every American'](https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/)
 * [2025-08-30, 12:42:30](https://news.ycombinator.com/item?id=45074147) - [Agent Client Protocol](https://agentclientprotocol.com/overview/introduction)
+* [2025-08-30, 12:37:28](https://news.ycombinator.com/item?id=45074115) - [F-Stack and FreeBSD|Linux = ~10M requests, ~1-2M CPS](https://www.f-stack.org/)
 * [2025-08-30, 12:36:10](https://news.ycombinator.com/item?id=45074110) - [De minimis has ended](https://www.washingtonpost.com/business/2025/08/30/de-minimis-tax-canceled-orders-delays/)
 * [2025-08-30, 12:31:43](https://news.ycombinator.com/item?id=45074071) - [It turns out Nokia's legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
 * [2025-08-30, 12:03:09](https://news.ycombinator.com/item?id=45073902) - [Is it possible to allow sideloading *and* keep users safe?](https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/)
