@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-08-29, 18:43:42",
-      "https://news.ycombinator.com/item?id=45067867"
-    ],
-    [
-      "Data engineering and software engineering are converging",
-      "https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 18:03:33",
       "https://news.ycombinator.com/item?id=45067423"
     ],
@@ -127,6 +117,16 @@
     [
       "SQLite's documentation about its durability properties is unclear",
       "https://www.agwa.name/blog/post/sqlite_durability"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 17:00:04",
+      "https://news.ycombinator.com/item?id=45066592"
+    ],
+    [
+      "Thunder Compute (YC S24) Is Hiring",
+      "https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Essential Coding Theory [pdf]",
       "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 15:24:13",
-      "https://news.ycombinator.com/item?id=45065343"
-    ],
-    [
-      "AI’s coding evolution hinges on collaboration and trust",
-      "https://spectrum.ieee.org/ai-for-coding"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Reloading Classes in Python",
       "https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 07:58:02",
+      "https://news.ycombinator.com/item?id=45023579"
+    ],
+    [
+      "Emulating aarch64 in software using JIT compilation and Rust",
+      "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html"
     ]
   ]
 ]
