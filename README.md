@@ -2,10 +2,10 @@
 
 * [2025-08-30, 12:42:30](https://news.ycombinator.com/item?id=45074147) - [Agent Client Protocol](https://agentclientprotocol.com/overview/introduction)
 * [2025-08-30, 12:37:28](https://news.ycombinator.com/item?id=45074115) - [F-Stack and FreeBSD|Linux = ~10M requests, ~1-2M CPS](https://www.f-stack.org/)
-* [2025-08-30, 12:36:10](https://news.ycombinator.com/item?id=45074110) - [De minimis has ended](https://www.washingtonpost.com/business/2025/08/30/de-minimis-tax-canceled-orders-delays/)
-* [2025-08-30, 12:31:43](https://news.ycombinator.com/item?id=45074071) - [It turns out Nokia's legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
-* [2025-08-30, 11:36:18](https://news.ycombinator.com/item?id=45073791) - [You do not need \"analytics\" for your blog](https://www.thisdaysportion.com/posts/contra-analytics/)
+* [2025-08-30, 12:31:43](https://news.ycombinator.com/item?id=45074071) - [Nokia’s legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
+* [2025-08-30, 11:36:18](https://news.ycombinator.com/item?id=45073791) - [A blog does not need “analytics”](https://www.thisdaysportion.com/posts/contra-analytics/)
 * [2025-08-30, 10:25:30](https://news.ycombinator.com/item?id=45073492) - [Amiga Hardware Reference Manual 3rd Edition (1991)](https://archive.org/details/amiga-hardware-reference-manual-3rd-edition)
+* [2025-08-30, 10:21:10](https://news.ycombinator.com/item?id=45073469) - [Computing simplified coverage polygons](https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html)
 * [2025-08-30, 05:45:24](https://news.ycombinator.com/item?id=45072160) - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 * [2025-08-30, 03:40:23](https://news.ycombinator.com/item?id=45071722) - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
 * [2025-08-30, 03:29:01](https://news.ycombinator.com/item?id=45071677) - [SynthID – A tool to watermark and identify content generated through AI](https://deepmind.google/science/synthid/)
