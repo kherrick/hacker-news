@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 12:42:30](https://news.ycombinator.com/item?id=45074147) - [Agent Client Protocol](https://agentclientprotocol.com/overview/introduction)
+* [2025-08-30, 12:36:10](https://news.ycombinator.com/item?id=45074110) - [De minimis has ended](https://www.washingtonpost.com/business/2025/08/30/de-minimis-tax-canceled-orders-delays/)
+* [2025-08-30, 12:31:43](https://news.ycombinator.com/item?id=45074071) - [It turns out Nokia's legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
+* [2025-08-30, 12:03:09](https://news.ycombinator.com/item?id=45073902) - [Is it possible to allow sideloading *and* keep users safe?](https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/)
 * [2025-08-30, 11:36:18](https://news.ycombinator.com/item?id=45073791) - [You do not need \"analytics\" for your blog](https://www.thisdaysportion.com/posts/contra-analytics/)
 * [2025-08-30, 10:46:15](https://news.ycombinator.com/item?id=45073589) - [Tell HN: My advice after I applied to 450 positions before getting hired](https://news.ycombinator.com/item?id=45073589)
 * [2025-08-30, 10:25:30](https://news.ycombinator.com/item?id=45073492) - [Amiga Hardware Reference Manual 3rd Edition (1991)](https://archive.org/details/amiga-hardware-reference-manual-3rd-edition)
