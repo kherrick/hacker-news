@@ -76,6 +76,7 @@
 * [2025-08-27, 06:30:36](https://news.ycombinator.com/item?id=45036094) - [Dependent Types: Universes, or types of types](https://www.jonmsterling.com/01ET/index.xml)
 * [2025-08-27, 06:23:22](https://news.ycombinator.com/item?id=45036052) - [How do I get into the Game Industry – by Garry's Mod creator](https://garry.net/posts/how-do-i-get-into-the-game-industry)
 * [2025-08-27, 05:50:24](https://news.ycombinator.com/item?id=45035856) - [Whistleblower says DOGE officials copied Social Security numbers](https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy)
+* [2025-08-27, 05:42:22](https://news.ycombinator.com/item?id=45035817) - [Anatomy of a Python Loop](https://orencodes.io/anatomy-of-a-python-loop/)
 * [2025-08-27, 05:26:06](https://news.ycombinator.com/item?id=45035741) - [We have become an authoritarian state, and our top newsrooms are in denial](https://presswatchers.org/2025/08/we-have-become-an-authoritarian-state-and-our-top-newsrooms-are-in-denial/)
 * [2025-08-27, 05:14:19](https://news.ycombinator.com/item?id=45035699) - [Uncomfortable Questions About Android Developer Verification](https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html)
 * [2025-08-27, 05:11:18](https://news.ycombinator.com/item?id=45035685) - [The man with a Home Computer (1967) [video]](https://www.youtube.com/watch?v=w6Ka42eyudA)
