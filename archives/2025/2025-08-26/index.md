@@ -62,6 +62,7 @@
 * [2025-08-26, 09:36:15](https://news.ycombinator.com/item?id=45024271) - [I Bought an N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/)
 * [2025-08-26, 08:34:15](https://news.ycombinator.com/item?id=45023857) - [Object-oriented design patterns in C and kernel development](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-26, 08:15:49](https://news.ycombinator.com/item?id=45023730) - [Rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
+* [2025-08-26, 07:58:02](https://news.ycombinator.com/item?id=45023579) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 * [2025-08-26, 07:15:47](https://news.ycombinator.com/item?id=45023292) - [Thailand Is Using Long Range Acoustic Devices (LRAD)](https://twitter.com/BongSeiha/status/1959953357277470757?t=kKBVeXW8s6CJNg7Wv4TonA&s=19)
 * [2025-08-26, 07:15:47](https://news.ycombinator.com/item?id=45023292) - [Thailand Is Using Long Range Acoustic Devices (LRAD)](https://news.ycombinator.com/item?id=45023292)
 * [2025-08-26, 07:00:07](https://news.ycombinator.com/item?id=45023176) - [Do I not like Ruby anymore? (2024)](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)

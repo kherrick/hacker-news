@@ -10,14 +10,13 @@
 * [2025-08-29, 20:25:34](https://news.ycombinator.com/item?id=45068986) - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
 * [2025-08-29, 19:15:55](https://news.ycombinator.com/item?id=45068215) - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 * [2025-08-29, 19:05:09](https://news.ycombinator.com/item?id=45068091) - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
-* [2025-08-29, 18:43:42](https://news.ycombinator.com/item?id=45067867) - [Data engineering and software engineering are converging](https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure)
 * [2025-08-29, 18:03:33](https://news.ycombinator.com/item?id=45067423) - [Income Equality in Nordic Countries: Myths, Facts, and Lessons](https://www.aeaweb.org/articles?id=10.1257/jel.20251636)
 * [2025-08-29, 17:30:29](https://news.ycombinator.com/item?id=45066999) - [SQLite's documentation about its durability properties is unclear](https://www.agwa.name/blog/post/sqlite_durability)
+* [2025-08-29, 17:00:04](https://news.ycombinator.com/item?id=45066592) - [Thunder Compute (YC S24) Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
 * [2025-08-29, 16:45:21](https://news.ycombinator.com/item?id=45066395) - [John Carmack's arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
 * [2025-08-29, 16:35:24](https://news.ycombinator.com/item?id=45066258) - [The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
 * [2025-08-29, 16:19:56](https://news.ycombinator.com/item?id=45066060) - [Wikipedia as a Graph](https://wikigrapher.com/paths)
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
-* [2025-08-29, 15:24:13](https://news.ycombinator.com/item?id=45065343) - [AI’s coding evolution hinges on collaboration and trust](https://spectrum.ieee.org/ai-for-coding)
 * [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 * [2025-08-29, 14:02:59](https://news.ycombinator.com/item?id=45064284) - [Flunking my Anthropic interview again](https://taylor.town/flunking-anthropic)
 * [2025-08-29, 13:30:16](https://news.ycombinator.com/item?id=45063874) - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
@@ -30,6 +29,7 @@
 * [2025-08-27, 00:34:42](https://news.ycombinator.com/item?id=45034060) - [Acoustic Panels as Wall Coverings in Star Trek: The Next Generation](https://www.ex-astris-scientia.org/database/acoustic-panels.htm)
 * [2025-08-26, 17:58:24](https://news.ycombinator.com/item?id=45030038) - [15-Fold increase in solar thermoelectric generator performance](https://www.nature.com/articles/s41377-025-01916-9)
 * [2025-08-26, 11:12:56](https://news.ycombinator.com/item?id=45024980) - [Reloading Classes in Python](https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/)
+* [2025-08-26, 07:58:02](https://news.ycombinator.com/item?id=45023579) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 
 ## [Archives](archives/index.md)
 
