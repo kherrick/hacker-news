@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-30, 10:46:15](https://news.ycombinator.com/item?id=45073589) - [Tell HN: My advice after I applied to 450 positions before getting hired](https://news.ycombinator.com/item?id=45073589)
+* [2025-08-30, 10:25:30](https://news.ycombinator.com/item?id=45073492) - [Amiga Hardware Reference Manual 3rd Edition (1991)](https://archive.org/details/amiga-hardware-reference-manual-3rd-edition)
 * [2025-08-30, 05:45:24](https://news.ycombinator.com/item?id=45072160) - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 * [2025-08-30, 03:40:23](https://news.ycombinator.com/item?id=45071722) - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
 * [2025-08-30, 03:29:01](https://news.ycombinator.com/item?id=45071677) - [SynthID – A tool to watermark and identify content generated through AI](https://deepmind.google/science/synthid/)
@@ -16,7 +17,6 @@
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 * [2025-08-29, 14:02:59](https://news.ycombinator.com/item?id=45064284) - [Flunking my Anthropic interview again](https://taylor.town/flunking-anthropic)
-* [2025-08-29, 13:30:16](https://news.ycombinator.com/item?id=45063874) - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
 * [2025-08-29, 13:01:45](https://news.ycombinator.com/item?id=45063559) - [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
 * [2025-08-27, 16:24:13](https://news.ycombinator.com/item?id=45041744) - [I'm working on implementing a programming language all my own](https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own)
 * [2025-08-27, 13:51:05](https://news.ycombinator.com/item?id=45039662) - [The Grammar According to West](https://dwest.web.illinois.edu/grammar.html)
