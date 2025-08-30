@@ -27,6 +27,7 @@
 * [2025-08-30, 15:53:05](https://news.ycombinator.com/item?id=45075664) - [GAO warns of privacy risks in using facial recognition in rental housing](https://files.gao.gov/reports/GAO-25-107196/index.html)
 * [2025-08-30, 15:40:57](https://news.ycombinator.com/item?id=45075571) - [The V Programming Language](https://vlang.io/)
 * [2025-08-30, 15:25:10](https://news.ycombinator.com/item?id=45075430) - [New interpretations suggest the \"heat death\" hypothesis might not hold (2023)](https://www.noemamag.com/life-need-not-ever-end/)
+* [2025-08-30, 15:18:25](https://news.ycombinator.com/item?id=45075384) - [LandChad, a site dedicated to turning internet peasants into Internet Landlords](https://landchad.net)
 * [2025-08-30, 14:38:33](https://news.ycombinator.com/item?id=45075048) - [You Have to Feel It](https://mitchellh.com/writing/feel-it)
 * [2025-08-30, 14:28:06](https://news.ycombinator.com/item?id=45074967) - [Adafruit Fruit Jam – An RP2350 mini computer running classic Macintosh](https://www.cnx-software.com/2025/08/27/adafruit-fruit-jam-a-rp2350-mini-computer-running-classic-macintosh/)
 * [2025-08-30, 14:18:41](https://news.ycombinator.com/item?id=45074895) - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
