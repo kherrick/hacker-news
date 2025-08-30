@@ -2,6 +2,7 @@
 
 * [2025-08-30, 17:20:32](https://news.ycombinator.com/item?id=45076367) - [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
 * [2025-08-30, 17:13:19](https://news.ycombinator.com/item?id=45076297) - [The Delusion Machine – What happened when I fed my soul into an LLM](https://hedgehogreview.com/web-features/thr/posts/the-delusion-machine)
+* [2025-08-30, 15:53:05](https://news.ycombinator.com/item?id=45075664) - [GAO warns of privacy risks in using facial recognition in rental housing](https://files.gao.gov/reports/GAO-25-107196/index.html)
 * [2025-08-30, 15:25:10](https://news.ycombinator.com/item?id=45075430) - [New interpretations suggest the \"heat death\" hypothesis might not hold (2023)](https://www.noemamag.com/life-need-not-ever-end/)
 * [2025-08-30, 14:38:33](https://news.ycombinator.com/item?id=45075048) - [You Have to Feel It](https://mitchellh.com/writing/feel-it)
 * [2025-08-30, 14:28:06](https://news.ycombinator.com/item?id=45074967) - [Adafruit Fruit Jam – An RP2350 mini computer running classic Macintosh](https://www.cnx-software.com/2025/08/27/adafruit-fruit-jam-a-rp2350-mini-computer-running-classic-macintosh/)
@@ -19,7 +20,6 @@
 * [2025-08-29, 19:05:09](https://news.ycombinator.com/item?id=45068091) - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 * [2025-08-29, 16:45:21](https://news.ycombinator.com/item?id=45066395) - [John Carmack's arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
-* [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 * [2025-08-29, 13:01:45](https://news.ycombinator.com/item?id=45063559) - [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
 * [2025-08-27, 15:29:28](https://news.ycombinator.com/item?id=45041052) - [How to design a DBMS for Telco requirements](http://mikaelronstrom.blogspot.com/2025/08/how-to-design-dbms-for-telco.html)
 * [2025-08-27, 13:51:05](https://news.ycombinator.com/item?id=45039662) - [The Grammar According to West](https://dwest.web.illinois.edu/grammar.html)
