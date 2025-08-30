@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 16:15:44](https://news.ycombinator.com/item?id=45075813) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
 * [2025-08-30, 16:12:57](https://news.ycombinator.com/item?id=45075796) - [Reuters stopped sharing Gaza locations after IDF strikes killed many journalists](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)
 * [2025-08-30, 15:58:33](https://news.ycombinator.com/item?id=45075699) - [The Sex Recession: The Share of Americans Having Regular Sex Keeps Dropping](https://ifstudies.org/blog/the-sex-recession-the-share-of-americans-having-regular-sex-keeps-dropping)
 * [2025-08-30, 15:40:57](https://news.ycombinator.com/item?id=45075571) - [The V Programming Language](https://vlang.io/)
@@ -22,6 +23,7 @@
 * [2025-08-30, 12:31:43](https://news.ycombinator.com/item?id=45074071) - [It turns out Nokia's legendary font makes for a great user interface font](https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/)
 * [2025-08-30, 12:03:09](https://news.ycombinator.com/item?id=45073902) - [Is it possible to allow sideloading *and* keep users safe?](https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/)
 * [2025-08-30, 11:36:18](https://news.ycombinator.com/item?id=45073791) - [You do not need \"analytics\" for your blog](https://www.thisdaysportion.com/posts/contra-analytics/)
+* [2025-08-30, 11:26:35](https://news.ycombinator.com/item?id=45073746) - [Hardening Firefox – a checklist for improved browser privacy](https://andrewmarder.net/firefox/)
 * [2025-08-30, 10:46:15](https://news.ycombinator.com/item?id=45073589) - [Tell HN: My advice after I applied to 450 positions before getting hired](https://news.ycombinator.com/item?id=45073589)
 * [2025-08-30, 10:25:30](https://news.ycombinator.com/item?id=45073492) - [Amiga Hardware Reference Manual 3rd Edition (1991)](https://archive.org/details/amiga-hardware-reference-manual-3rd-edition)
 * [2025-08-30, 10:21:10](https://news.ycombinator.com/item?id=45073469) - [Computing simplified coverage polygons](https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html)
