@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 15:58:33](https://news.ycombinator.com/item?id=45075699) - [The Sex Recession: The Share of Americans Having Regular Sex Keeps Dropping](https://ifstudies.org/blog/the-sex-recession-the-share-of-americans-having-regular-sex-keeps-dropping)
 * [2025-08-30, 15:25:10](https://news.ycombinator.com/item?id=45075430) - [New interpretations suggest the \"heat death\" hypothesis might not hold (2023)](https://www.noemamag.com/life-need-not-ever-end/)
 * [2025-08-30, 14:28:06](https://news.ycombinator.com/item?id=45074967) - [Adafruit Fruit Jam – An RP2350 mini computer running classic Macintosh](https://www.cnx-software.com/2025/08/27/adafruit-fruit-jam-a-rp2350-mini-computer-running-classic-macintosh/)
 * [2025-08-30, 14:18:41](https://news.ycombinator.com/item?id=45074895) - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)

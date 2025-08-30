@@ -57,6 +57,7 @@
 * [2025-08-27, 11:38:35](https://news.ycombinator.com/item?id=45038260) - [How to Slow Down a Program? and Why It Can Be Useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
 * [2025-08-27, 11:18:15](https://news.ycombinator.com/item?id=45038074) - [Delete Tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/)
 * [2025-08-27, 11:02:33](https://news.ycombinator.com/item?id=45037947) - [QEMU 10.1.0](https://wiki.qemu.org/ChangeLog/10.1)
+* [2025-08-27, 11:00:45](https://news.ycombinator.com/item?id=45037940) - [Pig Lung Transplanted into a Human in Major Scientific First: ScienceAlert](https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first)
 * [2025-08-27, 10:59:37](https://news.ycombinator.com/item?id=45037936) - [Fixing an old .NET Core native library loading issue on Alpine](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/)
 * [2025-08-27, 10:58:00](https://news.ycombinator.com/item?id=45037925) - [John Roberts and the death of rule of law in America](https://www.theguardian.com/us-news/ng-interactive/2025/aug/21/justice-john-roberts-supreme-court)
 * [2025-08-27, 10:54:41](https://news.ycombinator.com/item?id=45037904) - [Monodraw](https://monodraw.helftone.com/)
