@@ -5,5 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
 * [2025-08-30, 03:40:23](https://news.ycombinator.com/item?id=45071722) - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
+* [2025-08-30, 03:35:41](https://news.ycombinator.com/item?id=45071703) - [OpenAI tackling life extension with LLMs](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
+* [2025-08-30, 03:29:01](https://news.ycombinator.com/item?id=45071677) - [SynthID](https://deepmind.google/science/synthid/)
 * [2025-08-30, 01:10:11](https://news.ycombinator.com/item?id=45071063) - [Pentagon Docs: US Wants to \"Suppress Dissenting Arguments\" Using AI Propaganda](https://theintercept.com/2025/08/25/pentagon-military-ai-propaganda-influence/)
 * [2025-08-30, 00:09:43](https://news.ycombinator.com/item?id=45070793) - [Why Romania excels in international Olympiads](https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/)
