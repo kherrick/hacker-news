@@ -24,6 +24,7 @@
 * [2025-08-27, 17:13:43](https://news.ycombinator.com/item?id=45042324) - [Show HN: Chat with Nano Banana Directly from WhatsApp](https://wassist.app/agents/07429b42-e979-41a1-be07-e7be35f404de/)
 * [2025-08-27, 17:01:06](https://news.ycombinator.com/item?id=45042175) - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
 * [2025-08-27, 16:34:31](https://news.ycombinator.com/item?id=45041879) - [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
+* [2025-08-27, 16:28:55](https://news.ycombinator.com/item?id=45041812) - [Can cheaper lasers handle short distances?](https://semiengineering.com/can-cheaper-lasers-handle-short-distances/)
 * [2025-08-27, 16:28:20](https://news.ycombinator.com/item?id=45041807) - [Typepad Is Shutting Down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
 * [2025-08-27, 16:26:34](https://news.ycombinator.com/item?id=45041779) - [Desktop Linux Keeps Winning the Wrong Battles](https://www.howtogeek.com/desktop-linux-keeps-winning-the-wrong-battles/)
 * [2025-08-27, 16:24:13](https://news.ycombinator.com/item?id=45041744) - [I'm working on implementing a programming language all my own](https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own)

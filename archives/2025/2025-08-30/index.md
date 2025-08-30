@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 20:11:34](https://news.ycombinator.com/item?id=45077631) - [U.S. guided-missile cruiser crosses Panama Canal, warships deployed to Venezuela](https://www.cbsnews.com/news/us-guided-missile-cruiser-panama-canal-warships-deployed-venezuela/)
 * [2025-08-30, 19:46:17](https://news.ycombinator.com/item?id=45077460) - [Sleeper AI agents and how Anthropic detects them [video]](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
 * [2025-08-30, 19:33:57](https://news.ycombinator.com/item?id=45077353) - [Meta and Yandex Disclosure: Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io?new)
 * [2025-08-30, 19:32:52](https://news.ycombinator.com/item?id=45077345) - [The space race is transforming Southern California's economy – again](https://www.latimes.com/business/story/2025-08-28/how-the-new-space-economy-is-transforming-southern-california)
