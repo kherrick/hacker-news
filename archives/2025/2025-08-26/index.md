@@ -8,6 +8,7 @@
 * [2025-08-26, 22:25:06](https://news.ycombinator.com/item?id=45033114) - [The \"Wow!\" signal was likely from extraterrestrial source, and more powerful](https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561)
 * [2025-08-26, 22:02:29](https://news.ycombinator.com/item?id=45032898) - [Trying to get error backtraces in Rust libraries right](https://www.iroh.computer/blog/error-handling-in-iroh)
 * [2025-08-26, 21:45:58](https://news.ycombinator.com/item?id=45032715) - [Why I'm declining your AI generated MR](https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html)
+* [2025-08-26, 21:38:35](https://news.ycombinator.com/item?id=45032630) - [My Failures Onboarding at Splunk](https://people-work.io/blog/my-failures-onboarding-at-splunk/)
 * [2025-08-26, 21:08:34](https://news.ycombinator.com/item?id=45032360) - [IETF Internet-Draft: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
 * [2025-08-26, 21:00:46](https://news.ycombinator.com/item?id=45032276) - [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
 * [2025-08-26, 20:59:35](https://news.ycombinator.com/item?id=45032261) - [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
