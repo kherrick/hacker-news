@@ -18,6 +18,7 @@
 * [2025-08-26, 18:57:22](https://news.ycombinator.com/item?id=45030714) - [\"special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
 * [2025-08-26, 18:53:03](https://news.ycombinator.com/item?id=45030664) - [IBM and AMD Join Forces to Build the Future of Computing](https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing)
 * [2025-08-26, 18:07:07](https://news.ycombinator.com/item?id=45030144) - [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
+* [2025-08-26, 17:58:24](https://news.ycombinator.com/item?id=45030038) - [15-Fold increase in solar thermoelectric generator performance](https://www.nature.com/articles/s41377-025-01916-9)
 * [2025-08-26, 17:45:21](https://news.ycombinator.com/item?id=45029868) - [Titles Matter](https://joshcollinsworth.com/blog/titles-matter)
 * [2025-08-26, 17:36:57](https://news.ycombinator.com/item?id=45029764) - [Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
 * [2025-08-26, 17:22:33](https://news.ycombinator.com/item?id=45029579) - [We regret but have to temporary suspend the shipments to USA](https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/)
