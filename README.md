@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-30, 19:26:29](https://news.ycombinator.com/item?id=45077291) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 17:20:32](https://news.ycombinator.com/item?id=45076367) - [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
 * [2025-08-30, 17:13:19](https://news.ycombinator.com/item?id=45076297) - [The Delusion Machine – What happened when I fed my soul into an LLM](https://hedgehogreview.com/web-features/thr/posts/the-delusion-machine)
 * [2025-08-30, 15:53:05](https://news.ycombinator.com/item?id=45075664) - [GAO warns of privacy risks in using facial recognition in rental housing](https://files.gao.gov/reports/GAO-25-107196/index.html)
@@ -26,7 +27,6 @@
 * [2025-08-27, 11:52:42](https://news.ycombinator.com/item?id=45038380) - [Bi-Directional Accountability: The Leadership Shift Most Organizations Avoid](https://www.alnewkirk.com/bidirectional-accountability/)
 * [2025-08-27, 11:00:45](https://news.ycombinator.com/item?id=45037940) - [Pig Lung Transplanted into a Human in Major Scientific First: ScienceAlert](https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first)
 * [2025-08-27, 09:50:05](https://news.ycombinator.com/item?id=45037419) - [Lisp from Nothing, Second Edition](http://t3x.org/lfn/index.html)
-* [2025-08-27, 08:58:38](https://news.ycombinator.com/item?id=45037064) - [Hermes 4](https://hermes4.nousresearch.com/)
 * [2025-08-27, 04:59:08](https://news.ycombinator.com/item?id=45035618) - [SQL Design Patterns](https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/)
 * [2025-08-27, 00:45:06](https://news.ycombinator.com/item?id=45034148) - [Why did dlclose not unload the library? (2023)](https://kishoreganesh.com/post/why-dl-close-did-not-work/)
 * [2025-08-26, 12:37:02](https://news.ycombinator.com/item?id=45025685) - [Taylor Otwell: What 14 Years of Laravel Taught Me About Maintainability](https://maintainable.fm/episodes/taylor-otwell-what-14-years-of-laravel-taught-me-about-maintainability)
