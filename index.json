@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-30, 17:20:32",
+      "https://news.ycombinator.com/item?id=45076367"
+    ],
+    [
+      "University of Cambridge Cognitive Ability Test",
+      "https://planning.e-psychometrics.com/test/icar60"
+    ]
+  ],
+  [
+    [
       "2025-08-30, 17:13:19",
       "https://news.ycombinator.com/item?id=45076297"
     ],
@@ -17,16 +27,6 @@
     [
       "New research reveals longevity gains slowing, life expectancy of 100 unlikely",
       "https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 15:40:57",
-      "https://news.ycombinator.com/item?id=45075571"
-    ],
-    [
-      "The V Programming Language",
-      "https://vlang.io/"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-08-30, 11:26:35",
+      "https://news.ycombinator.com/item?id=45073746"
+    ],
+    [
+      "Hardening Firefox – a checklist for improved browser privacy",
+      "https://andrewmarder.net/firefox/"
+    ]
+  ],
+  [
+    [
       "2025-08-30, 05:45:24",
       "https://news.ycombinator.com/item?id=45072160"
     ],
@@ -187,16 +197,6 @@
     [
       "Essential Coding Theory [pdf]",
       "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 14:07:28",
-      "https://news.ycombinator.com/item?id=45064329"
-    ],
-    [
-      "Deploying DeepSeek on 96 H100 GPUs",
-      "https://lmsys.org/blog/2025-05-05-large-scale-ep/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2025-08-27, 04:59:08",
+      "https://news.ycombinator.com/item?id=45035618"
+    ],
+    [
+      "SQL Design Patterns",
+      "https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 00:45:06",
       "https://news.ycombinator.com/item?id=45034148"
     ],
     [
       "Why did dlclose not unload the library? (2023)",
       "https://kishoreganesh.com/post/why-dl-close-did-not-work/"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 22:02:29",
-      "https://news.ycombinator.com/item?id=45032898"
-    ],
-    [
-      "Trying to get error backtraces in Rust libraries right",
-      "https://www.iroh.computer/blog/error-handling-in-iroh"
     ]
   ],
   [
