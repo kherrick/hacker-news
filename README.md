@@ -15,6 +15,7 @@
 * [2025-08-29, 16:35:24](https://news.ycombinator.com/item?id=45066258) - [The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
 * [2025-08-29, 16:19:56](https://news.ycombinator.com/item?id=45066060) - [Wikipedia as a Graph](https://wikigrapher.com/paths)
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
+* [2025-08-29, 15:24:13](https://news.ycombinator.com/item?id=45065343) - [AI’s coding evolution hinges on collaboration and trust](https://spectrum.ieee.org/ai-for-coding)
 * [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 * [2025-08-29, 14:02:59](https://news.ycombinator.com/item?id=45064284) - [Flunking my Anthropic interview again](https://taylor.town/flunking-anthropic)
 * [2025-08-29, 13:30:16](https://news.ycombinator.com/item?id=45063874) - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
@@ -28,7 +29,6 @@
 * [2025-08-26, 17:58:24](https://news.ycombinator.com/item?id=45030038) - [15-Fold increase in solar thermoelectric generator performance](https://www.nature.com/articles/s41377-025-01916-9)
 * [2025-08-26, 13:07:11](https://news.ycombinator.com/item?id=45026013) - [A look at XSLT 3.0 (2017)](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/)
 * [2025-08-26, 12:37:02](https://news.ycombinator.com/item?id=45025685) - [Taylor Otwell: What 14 Years of Laravel Taught Me About Maintainability](https://maintainable.fm/episodes/taylor-otwell-what-14-years-of-laravel-taught-me-about-maintainability)
-* [2025-08-26, 09:56:08](https://news.ycombinator.com/item?id=45024406) - [Who Gives a Sheaf?](https://www.youtube.com/playlist?list=PLnNqTHlK5sGJrRvH0YBxE4Oe1M9EoSTPQ)
 * [2025-08-26, 07:58:02](https://news.ycombinator.com/item?id=45023579) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 
 ## [Archives](archives/index.md)
