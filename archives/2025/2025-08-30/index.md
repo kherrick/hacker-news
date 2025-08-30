@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 04:05:22](https://news.ycombinator.com/item?id=45071838) - [Fun and Immersive Typing Game](https://keybara.io)
 * [2025-08-30, 03:40:23](https://news.ycombinator.com/item?id=45071722) - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
 * [2025-08-30, 03:35:41](https://news.ycombinator.com/item?id=45071703) - [OpenAI tackling life extension with LLMs](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
 * [2025-08-30, 03:29:01](https://news.ycombinator.com/item?id=45071677) - [SynthID](https://deepmind.google/science/synthid/)
