@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 13:25:39](https://news.ycombinator.com/item?id=45074467) - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
+* [2025-08-30, 12:58:48](https://news.ycombinator.com/item?id=45074248) - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 * [2025-08-30, 12:43:44](https://news.ycombinator.com/item?id=45074157) - [FBI cyber cop: Salt Typhoon pwned 'nearly every American'](https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/)
 * [2025-08-30, 12:42:30](https://news.ycombinator.com/item?id=45074147) - [Agent Client Protocol](https://agentclientprotocol.com/overview/introduction)
 * [2025-08-30, 12:37:28](https://news.ycombinator.com/item?id=45074115) - [F-Stack and FreeBSD|Linux = ~10M requests, ~1-2M CPS](https://www.f-stack.org/)
