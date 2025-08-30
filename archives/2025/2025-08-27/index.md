@@ -14,6 +14,7 @@
 * [2025-08-27, 20:39:48](https://news.ycombinator.com/item?id=45044919) - [Ask HN: GitHub Copilot Down?](https://news.ycombinator.com/item?id=45044919)
 * [2025-08-27, 20:03:01](https://news.ycombinator.com/item?id=45044440) - [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
 * [2025-08-27, 19:44:12](https://news.ycombinator.com/item?id=45044168) - [Mapping Connections of Anti-Offshore Wind Groups and Their Lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
+* [2025-08-27, 19:43:22](https://news.ycombinator.com/item?id=45044155) - [Andrew Ng says bottleneck in AI startups isn't coding – it's product management](https://www.businessinsider.com/andrew-ng-product-management-bottleneck-coding-ai-startups-2025-8)
 * [2025-08-27, 19:10:37](https://news.ycombinator.com/item?id=45043741) - [I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
 * [2025-08-27, 18:56:03](https://news.ycombinator.com/item?id=45043545) - [Firefox Has Moved to Firefox.com](https://www.firefox.com)
 * [2025-08-27, 18:52:04](https://news.ycombinator.com/item?id=45043500) - [RFK Jr. Promises to Reveal the 'Cause' of Autism Next Month](https://gizmodo.com/rfk-jr-promises-to-reveal-the-cause-of-autism-next-month-2000648934)
