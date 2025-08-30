@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-30, 07:19:31](https://news.ycombinator.com/item?id=45072599) - [Milan's expat 'explosion' brings new buzz to Italy's financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)
 * [2025-08-30, 05:45:24](https://news.ycombinator.com/item?id=45072160) - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 * [2025-08-30, 04:05:22](https://news.ycombinator.com/item?id=45071838) - [Fun and Immersive Typing Game](https://keybara.io)
 * [2025-08-30, 03:40:23](https://news.ycombinator.com/item?id=45071722) - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
@@ -16,8 +17,6 @@
 * [2025-08-29, 16:19:56](https://news.ycombinator.com/item?id=45066060) - [Wikipedia as a Graph](https://wikigrapher.com/paths)
 * [2025-08-29, 15:53:41](https://news.ycombinator.com/item?id=45065705) - [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
-* [2025-08-29, 14:02:59](https://news.ycombinator.com/item?id=45064284) - [Flunking my Anthropic interview again](https://taylor.town/flunking-anthropic)
-* [2025-08-29, 13:30:16](https://news.ycombinator.com/item?id=45063874) - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
 * [2025-08-29, 13:01:45](https://news.ycombinator.com/item?id=45063559) - [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
 * [2025-08-27, 16:24:13](https://news.ycombinator.com/item?id=45041744) - [I'm working on implementing a programming language all my own](https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own)
 * [2025-08-27, 11:18:15](https://news.ycombinator.com/item?id=45038074) - [Delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/)
@@ -29,6 +28,7 @@
 * [2025-08-26, 17:58:24](https://news.ycombinator.com/item?id=45030038) - [15-Fold increase in solar thermoelectric generator performance](https://www.nature.com/articles/s41377-025-01916-9)
 * [2025-08-26, 13:07:11](https://news.ycombinator.com/item?id=45026013) - [A look at XSLT 3.0 (2017)](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/)
 * [2025-08-26, 11:12:56](https://news.ycombinator.com/item?id=45024980) - [Reloading Classes in Python](https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/)
+* [2025-08-26, 09:56:08](https://news.ycombinator.com/item?id=45024406) - [Who Gives a Sheaf?](https://www.youtube.com/playlist?list=PLnNqTHlK5sGJrRvH0YBxE4Oe1M9EoSTPQ)
 * [2025-08-26, 07:58:02](https://news.ycombinator.com/item?id=45023579) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 
 ## [Archives](archives/index.md)
