@@ -21,6 +21,7 @@
 * [2025-08-30, 12:42:30](https://news.ycombinator.com/item?id=45074147) - [Agent Client Protocol (ACP)](https://agentclientprotocol.com/overview/introduction)
 * [2025-08-30, 12:03:09](https://news.ycombinator.com/item?id=45073902) - [Is it possible to allow sideloading and keep users safe?](https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/)
 * [2025-08-30, 11:26:35](https://news.ycombinator.com/item?id=45073746) - [Hardening Firefox – a checklist for improved browser privacy](https://andrewmarder.net/firefox/)
+* [2025-08-28, 21:57:40](https://news.ycombinator.com/item?id=45057513) - [An eyecare foundation model for clinical assistance](https://www.nature.com/articles/s41591-025-03900-7)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe Coding as a Coding Veteran. From 8-Bit Assembly to English-as-Code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-27, 20:03:20](https://news.ycombinator.com/item?id=45044442) - [Show HN: An ncurses CUDA-based fluid simulation](https://github.com/seanwevans/fluid-sims)
 * [2025-08-27, 16:43:43](https://news.ycombinator.com/item?id=45041978) - [A convex polyhedron without Rupert's property](https://arxiv.org/abs/2508.18475)
@@ -29,7 +30,6 @@
 * [2025-08-27, 12:10:57](https://news.ycombinator.com/item?id=45038570) - [What Are Traces and Spans in OpenTelemetry?](https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view)
 * [2025-08-27, 12:10:31](https://news.ycombinator.com/item?id=45038567) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
 * [2025-08-27, 07:16:46](https://news.ycombinator.com/item?id=45036418) - [Terminal sessions you can bookmark](https://poor.dev/blog/building-zellij-web-terminal/)
-* [2025-08-27, 04:59:08](https://news.ycombinator.com/item?id=45035618) - [SQL Design Patterns (2010)](https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/)
 
 ## [Archives](archives/index.md)
 
