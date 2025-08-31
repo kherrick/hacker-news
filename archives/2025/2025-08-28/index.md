@@ -33,6 +33,7 @@
 * [2025-08-28, 17:02:31](https://news.ycombinator.com/item?id=45054482) - [GPT-realtime and Realtime API updates](https://openai.com/index/introducing-gpt-realtime/)
 * [2025-08-28, 16:43:05](https://news.ycombinator.com/item?id=45054260) - [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
 * [2025-08-28, 16:31:23](https://news.ycombinator.com/item?id=45054138) - [Colleges see significant drop in international students as fall semester begins](https://text.npr.org/nx-s1-5498669)
+* [2025-08-28, 16:29:31](https://news.ycombinator.com/item?id=45054119) - [Pong Clock](https://bigjobby.com/pong/?v=2.0/)
 * [2025-08-28, 16:22:02](https://news.ycombinator.com/item?id=45054040) - [Launch HN: Dedalus Labs (YC S25) – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
 * [2025-08-28, 16:21:53](https://news.ycombinator.com/item?id=45054037) - [American military service members deserve the right to repair](https://www.militarytimes.com/opinion/2025/07/11/why-service-members-deserve-the-right-to-repair/)
 * [2025-08-28, 16:05:13](https://news.ycombinator.com/item?id=45053872) - [PinePhone Pro [GNU/Linux smartphone] has been discontinued](https://social.treehouse.systems/@pine64/115027515081143369)
