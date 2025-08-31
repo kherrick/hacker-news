@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-31, 09:11:48](https://news.ycombinator.com/item?id=45081703) - [Sometimes Software Is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)
 * [2025-08-31, 06:17:26](https://news.ycombinator.com/item?id=45080808) - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 * [2025-08-31, 05:59:57](https://news.ycombinator.com/item?id=45080720) - [Git Diagramming \"The Weave\"](https://daverupert.com/2025/08/git-diagramming-the-weave/)
 * [2025-08-31, 05:35:59](https://news.ycombinator.com/item?id=45080618) - [Rick Beato is right to rant about music copyright strikes](https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/)
@@ -22,7 +23,6 @@
 * [2025-08-30, 12:03:09](https://news.ycombinator.com/item?id=45073902) - [Is it possible to allow sideloading and keep users safe?](https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/)
 * [2025-08-30, 11:26:35](https://news.ycombinator.com/item?id=45073746) - [Hardening Firefox – a checklist for improved browser privacy](https://andrewmarder.net/firefox/)
 * [2025-08-27, 20:09:50](https://news.ycombinator.com/item?id=45044525) - [Compositional Datalog on SQL: Relational Algebra of the Environment](https://www.philipzucker.com/compose_datalog/)
-* [2025-08-27, 15:18:29](https://news.ycombinator.com/item?id=45040905) - [We rebuilt Cloud Life's infrastructure delivery with System Initiative](https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative)
 * [2025-08-27, 13:51:14](https://news.ycombinator.com/item?id=45039666) - [Multi-Timer Gizmo](https://pgadey.ca/notes/multi-timer/)
 * [2025-08-27, 13:39:44](https://news.ycombinator.com/item?id=45039525) - [Bitwig Studio 6 details revealed, and editing gets a big boost](https://cdm.link/bitwig-studio-6-details/)
 * [2025-08-27, 12:10:57](https://news.ycombinator.com/item?id=45038570) - [What Are Traces and Spans in OpenTelemetry?](https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view)
