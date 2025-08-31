@@ -26,6 +26,7 @@
 * [2025-08-27, 17:28:20](https://news.ycombinator.com/item?id=45042461) - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
 * [2025-08-27, 17:13:43](https://news.ycombinator.com/item?id=45042324) - [Show HN: Chat with Nano Banana Directly from WhatsApp](https://wassist.app/agents/07429b42-e979-41a1-be07-e7be35f404de/)
 * [2025-08-27, 17:01:06](https://news.ycombinator.com/item?id=45042175) - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
+* [2025-08-27, 16:43:43](https://news.ycombinator.com/item?id=45041978) - [A convex polyhedron without Rupert's property](https://arxiv.org/abs/2508.18475)
 * [2025-08-27, 16:34:31](https://news.ycombinator.com/item?id=45041879) - [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 * [2025-08-27, 16:28:55](https://news.ycombinator.com/item?id=45041812) - [Can cheaper lasers handle short distances?](https://semiengineering.com/can-cheaper-lasers-handle-short-distances/)
 * [2025-08-27, 16:28:20](https://news.ycombinator.com/item?id=45041807) - [Typepad Is Shutting Down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
