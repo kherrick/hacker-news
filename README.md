@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-31, 19:08:39](https://news.ycombinator.com/item?id=45086071) - [It's So Easy to Prompt Inject Perplexity Comet](https://news.ycombinator.com/item?id=45086071)
 * [2025-08-31, 19:04:03](https://news.ycombinator.com/item?id=45086020) - [Eternal Struggle](https://yoavg.github.io/eternal/)
 * [2025-08-31, 18:10:37](https://news.ycombinator.com/item?id=45085446) - [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
 * [2025-08-31, 17:58:07](https://news.ycombinator.com/item?id=45085318) - [Code Is Debt](https://tornikeo.com/code-is-debt/)
@@ -22,7 +23,6 @@
 * [2025-08-31, 12:16:00](https://news.ycombinator.com/item?id=45082595) - [F-Droid site certificate expired](https://gitlab.com/fdroid/fdroid-website/-/issues/883)
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
 * [2025-08-31, 02:58:32](https://news.ycombinator.com/item?id=45079962) - [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
-* [2025-08-30, 12:58:48](https://news.ycombinator.com/item?id=45074248) - [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-28, 15:50:09](https://news.ycombinator.com/item?id=45053704) - [The Last Vestal Virgin and the Fall of Rome](https://debramaymacleod.com/blog/the-last-vestal-virgin-and-the-fall-of-rome)
 * [2025-08-28, 11:35:38](https://news.ycombinator.com/item?id=45050908) - [The Case for Crazy Philanthropy](https://www.palladiummag.com/2025/08/22/the-case-for-crazy-philanthropy/)
