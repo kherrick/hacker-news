@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-31, 09:21:35](https://news.ycombinator.com/item?id=45081764) - [Just use `git` to manage your dotfiles](https://ericgreer.info/post/2025-08-31-simple-dotfiles-script/)
 * [2025-08-31, 09:11:48](https://news.ycombinator.com/item?id=45081703) - [Sometimes Software Is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)
 * [2025-08-31, 06:17:26](https://news.ycombinator.com/item?id=45080808) - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 * [2025-08-31, 05:59:57](https://news.ycombinator.com/item?id=45080720) - [Git Diagramming \"The Weave\"](https://daverupert.com/2025/08/git-diagramming-the-weave/)
@@ -11,6 +10,7 @@
 * [2025-08-30, 20:56:40](https://news.ycombinator.com/item?id=45077937) - [Six months into tariffs, businesses have no idea how to price anything](https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8)
 * [2025-08-30, 20:26:35](https://news.ycombinator.com/item?id=45077735) - [Why did books start being divided into chapters? A new history](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
 * [2025-08-30, 19:26:29](https://news.ycombinator.com/item?id=45077291) - [Are we decentralized yet?](https://arewedecentralizedyet.online/)
+* [2025-08-30, 19:14:15](https://news.ycombinator.com/item?id=45077209) - [Anduril's product engineering machine](https://joincolossus.com/article/the-amusement-park-for-engineers/)
 * [2025-08-30, 17:12:06](https://news.ycombinator.com/item?id=45076274) - [The Default Trap: Why Anthropic's Data Policy Change Matters](https://natesnewsletter.substack.com/p/the-default-trap-why-anthropics-data)
 * [2025-08-30, 16:15:44](https://news.ycombinator.com/item?id=45075813) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
 * [2025-08-30, 15:18:25](https://news.ycombinator.com/item?id=45075384) - [LandChad, a site dedicated to turning internet peasants into Internet Landlords](https://landchad.net)
