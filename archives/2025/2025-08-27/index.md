@@ -48,6 +48,7 @@
 * [2025-08-27, 13:51:14](https://news.ycombinator.com/item?id=45039666) - [Multi-Timer Gizmo](https://pgadey.ca/notes/multi-timer/)
 * [2025-08-27, 13:51:05](https://news.ycombinator.com/item?id=45039662) - [The Grammar According to West](https://dwest.web.illinois.edu/grammar.html)
 * [2025-08-27, 13:50:59](https://news.ycombinator.com/item?id=45039661) - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
+* [2025-08-27, 13:39:44](https://news.ycombinator.com/item?id=45039525) - [Bitwig Studio 6 details revealed, and editing gets a big boost](https://cdm.link/bitwig-studio-6-details/)
 * [2025-08-27, 13:38:03](https://news.ycombinator.com/item?id=45039510) - [Tipping point in Gulf Stream may be reached as early as mid-century](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022651)
 * [2025-08-27, 13:28:45](https://news.ycombinator.com/item?id=45039397) - [Bluesky now platform of choice for science community](https://arstechnica.com/science/2025/08/more-scientists-choose-bluesky-over-twitter/)
 * [2025-08-27, 13:19:11](https://news.ycombinator.com/item?id=45039301) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)

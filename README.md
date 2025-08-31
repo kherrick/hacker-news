@@ -24,12 +24,12 @@
 * [2025-08-27, 20:09:50](https://news.ycombinator.com/item?id=45044525) - [Compositional Datalog on SQL: Relational Algebra of the Environment](https://www.philipzucker.com/compose_datalog/)
 * [2025-08-27, 15:18:29](https://news.ycombinator.com/item?id=45040905) - [We rebuilt Cloud Life's infrastructure delivery with System Initiative](https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative)
 * [2025-08-27, 13:51:14](https://news.ycombinator.com/item?id=45039666) - [Multi-Timer Gizmo](https://pgadey.ca/notes/multi-timer/)
+* [2025-08-27, 13:39:44](https://news.ycombinator.com/item?id=45039525) - [Bitwig Studio 6 details revealed, and editing gets a big boost](https://cdm.link/bitwig-studio-6-details/)
 * [2025-08-27, 12:10:57](https://news.ycombinator.com/item?id=45038570) - [What Are Traces and Spans in OpenTelemetry?](https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view)
 * [2025-08-27, 12:10:31](https://news.ycombinator.com/item?id=45038567) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
 * [2025-08-27, 11:00:45](https://news.ycombinator.com/item?id=45037940) - [Pig lung transplanted into a human](https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first)
 * [2025-08-27, 07:16:46](https://news.ycombinator.com/item?id=45036418) - [Terminal sessions you can bookmark](https://poor.dev/blog/building-zellij-web-terminal/)
 * [2025-08-27, 04:59:08](https://news.ycombinator.com/item?id=45035618) - [SQL Design Patterns](https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/)
-* [2025-08-26, 17:58:24](https://news.ycombinator.com/item?id=45030038) - [15-Fold increase in solar thermoelectric generator performance](https://www.nature.com/articles/s41377-025-01916-9)
 
 ## [Archives](archives/index.md)
 
