@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-31, 13:32:27](https://news.ycombinator.com/item?id=45083038) - [AI is just a next evolution of the computer](https://www.vincirufus.com/posts/ai-next-evolution-of-computers/)
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [\"This telegram must be closely paraphrased before being communicated\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
 * [2025-08-31, 12:00:21](https://news.ycombinator.com/item?id=45082508) - [Channel3 (YC S25) Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
@@ -14,7 +15,6 @@
 * [2025-08-30, 16:15:44](https://news.ycombinator.com/item?id=45075813) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
 * [2025-08-30, 15:18:25](https://news.ycombinator.com/item?id=45075384) - [LandChad, a site dedicated to turning internet peasants into Internet Landlords](https://landchad.net)
 * [2025-08-30, 14:38:33](https://news.ycombinator.com/item?id=45075048) - [You Have to Feel It](https://mitchellh.com/writing/feel-it)
-* [2025-08-30, 14:18:41](https://news.ycombinator.com/item?id=45074895) - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 * [2025-08-30, 13:25:39](https://news.ycombinator.com/item?id=45074467) - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
 * [2025-08-30, 13:07:41](https://news.ycombinator.com/item?id=45074312) - [Bcachefs Goes to \"Externally Maintained\"](https://lwn.net/Articles/1035736/)
 * [2025-08-30, 12:58:48](https://news.ycombinator.com/item?id=45074248) - [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load)
