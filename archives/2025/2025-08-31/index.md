@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 19:48:36](https://news.ycombinator.com/item?id=45086440) - [How to poop outdoors in a way that won't harm the environment and other hikers](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
 * [2025-08-31, 19:37:08](https://news.ycombinator.com/item?id=45086346) - [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
+* [2025-08-31, 19:24:49](https://news.ycombinator.com/item?id=45086238) - [Lunar soil machine developed to build bricks using sunlight](https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html)
 * [2025-08-31, 19:08:39](https://news.ycombinator.com/item?id=45086071) - [It's So Easy to Prompt Inject Perplexity Comet](https://news.ycombinator.com/item?id=45086071)
 * [2025-08-31, 19:04:03](https://news.ycombinator.com/item?id=45086020) - [Eternal Struggle](https://yoavg.github.io/eternal/)
 * [2025-08-31, 18:10:37](https://news.ycombinator.com/item?id=45085446) - [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
@@ -27,6 +29,7 @@
 * [2025-08-31, 15:37:24](https://news.ycombinator.com/item?id=45084016) - [No Clicks, No Content: The Unsustainable Future of AI Search](https://bradt.ca/blog/no-clicks-no-content/)
 * [2025-08-31, 15:31:04](https://news.ycombinator.com/item?id=45083952) - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 15:19:54](https://news.ycombinator.com/item?id=45083845) - [FDA official demands removal of YouTube videos of himself criticizing vaccines](https://www.theguardian.com/us-news/2025/aug/31/fda-official-youtube-videos)
+* [2025-08-31, 14:55:56](https://news.ycombinator.com/item?id=45083635) - [Survey: a third of senior developers say over half their code is AI-generated](https://www.fastly.com/blog/senior-developers-ship-more-ai-code)
 * [2025-08-31, 14:55:56](https://news.ycombinator.com/item?id=45083635) - [Older developers are down with the vibe coding vibe](https://www.theregister.com/2025/08/28/older_developers_ai_code/)
 * [2025-08-31, 14:41:15](https://news.ycombinator.com/item?id=45083495) - [Replacing a Cache Service with a Database](https://avi.im/blag/2025/db-cache/)
 * [2025-08-31, 13:49:11](https://news.ycombinator.com/item?id=45083135) - [Spacing Over Cards](https://smagin.fyi/posts/padding-over-cards/)
