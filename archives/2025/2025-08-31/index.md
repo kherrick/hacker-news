@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
 * [2025-08-31, 13:32:27](https://news.ycombinator.com/item?id=45083038) - [AI is just a next evolution of the computer](https://www.vincirufus.com/posts/ai-next-evolution-of-computers/)
+* [2025-08-31, 12:44:26](https://news.ycombinator.com/item?id=45082750) - [Google: 'Your $1000 phone needs our permission to install apps now' [video]](https://www.youtube.com/watch?v=QBEKlIV_70E)
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [\"This telegram must be closely paraphrased before being communicated\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
+* [2025-08-31, 12:16:00](https://news.ycombinator.com/item?id=45082595) - [F-Droid site certificate expired](https://gitlab.com/fdroid/fdroid-website/-/issues/883)
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
 * [2025-08-31, 12:00:21](https://news.ycombinator.com/item?id=45082508) - [Channel3 (YC S25) Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
 * [2025-08-31, 09:21:35](https://news.ycombinator.com/item?id=45081764) - [Just use `git` to manage your dotfiles](https://ericgreer.info/post/2025-08-31-simple-dotfiles-script/)

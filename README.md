@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-31, 13:32:27](https://news.ycombinator.com/item?id=45083038) - [AI is just a next evolution of the computer](https://www.vincirufus.com/posts/ai-next-evolution-of-computers/)
+* [2025-08-31, 12:44:26](https://news.ycombinator.com/item?id=45082750) - [Google: 'Your $1000 phone needs our permission to install apps now' [video]](https://www.youtube.com/watch?v=QBEKlIV_70E)
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [\"This telegram must be closely paraphrased before being communicated\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
+* [2025-08-31, 12:16:00](https://news.ycombinator.com/item?id=45082595) - [F-Droid site certificate expired](https://gitlab.com/fdroid/fdroid-website/-/issues/883)
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
 * [2025-08-31, 12:00:21](https://news.ycombinator.com/item?id=45082508) - [Channel3 (YC S25) Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
 * [2025-08-31, 09:13:13](https://news.ycombinator.com/item?id=45081711) - [Sniffly – Claude Code Analytics Dashboard](https://github.com/chiphuyen/sniffly)
@@ -9,7 +10,6 @@
 * [2025-08-31, 04:31:29](https://news.ycombinator.com/item?id=45080388) - [Sheafification – The optimal path to mathematical mastery: The fast track (2022)](https://sheafification.com/the-fast-track/)
 * [2025-08-31, 03:14:05](https://news.ycombinator.com/item?id=45080051) - [Red: A programming language inspired by REBOL](https://github.com/red/red)
 * [2025-08-31, 02:58:32](https://news.ycombinator.com/item?id=45079962) - [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
-* [2025-08-30, 20:56:40](https://news.ycombinator.com/item?id=45077937) - [Six months into tariffs, businesses have no idea how to price anything](https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8)
 * [2025-08-30, 20:26:35](https://news.ycombinator.com/item?id=45077735) - [Why did books start being divided into chapters? A new history](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
 * [2025-08-30, 19:26:29](https://news.ycombinator.com/item?id=45077291) - [Are we decentralized yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 16:15:44](https://news.ycombinator.com/item?id=45075813) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
