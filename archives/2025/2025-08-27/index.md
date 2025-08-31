@@ -56,6 +56,7 @@
 * [2025-08-27, 12:34:20](https://news.ycombinator.com/item?id=45038783) - [I Spent over $31,900 on Whiteout Survival – Here's Why I Regret It](https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/)
 * [2025-08-27, 12:25:38](https://news.ycombinator.com/item?id=45038710) - [Bring Your Own Agent to Zed – Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed)
 * [2025-08-27, 12:18:47](https://news.ycombinator.com/item?id=45038653) - [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
+* [2025-08-27, 12:10:57](https://news.ycombinator.com/item?id=45038570) - [What Are Traces and Spans in OpenTelemetry?](https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view)
 * [2025-08-27, 12:10:31](https://news.ycombinator.com/item?id=45038567) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
 * [2025-08-27, 12:10:21](https://news.ycombinator.com/item?id=45038565) - [ASCIIFlow](https://asciiflow.com/)
 * [2025-08-27, 12:00:18](https://news.ycombinator.com/item?id=45038463) - [Ember (YC F24) Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026)
