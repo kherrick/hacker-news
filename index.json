@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-08-31, 08:45:54",
+      "https://news.ycombinator.com/item?id=45081561"
+    ],
+    [
+      "Show HN: Banana AI – Completely free Nano Banana image editing",
+      "https://banana-ai.org/"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 06:17:26",
       "https://news.ycombinator.com/item?id=45080808"
     ],
@@ -97,16 +107,6 @@
     [
       "Are we decentralized yet?",
       "https://arewedecentralizedyet.online/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 17:12:06",
-      "https://news.ycombinator.com/item?id=45076274"
-    ],
-    [
-      "The Default Trap: Why Anthropic's Data Policy Change Matters",
-      "https://natesnewsletter.substack.com/p/the-default-trap-why-anthropics-data"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2025-08-27, 20:09:50",
-      "https://news.ycombinator.com/item?id=45044525"
-    ],
-    [
-      "Compositional Datalog on SQL: Relational Algebra of the Environment",
-      "https://www.philipzucker.com/compose_datalog/"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 20:03:20",
       "https://news.ycombinator.com/item?id=45044442"
     ],
     [
       "Show HN: An ncurses CUDA-based fluid simulation",
       "https://github.com/seanwevans/fluid-sims"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 16:43:43",
+      "https://news.ycombinator.com/item?id=45041978"
+    ],
+    [
+      "A convex polyhedron without Rupert's property",
+      "https://arxiv.org/abs/2508.18475"
     ]
   ],
   [
