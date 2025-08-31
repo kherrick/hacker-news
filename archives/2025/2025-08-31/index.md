@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 06:20:35](https://news.ycombinator.com/item?id=45080819) - [I Don't Like \"AI\"](https://ian.mccowan.space/2024/07/22/ai/)
+* [2025-08-31, 06:17:26](https://news.ycombinator.com/item?id=45080808) - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 * [2025-08-31, 05:59:57](https://news.ycombinator.com/item?id=45080720) - [Git Diagramming \"The Weave\"](https://daverupert.com/2025/08/git-diagramming-the-weave/)
 * [2025-08-31, 05:35:59](https://news.ycombinator.com/item?id=45080618) - [Rick Beato Is Right to Rant About Music Copyright Strikes](https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/)
 * [2025-08-31, 05:13:05](https://news.ycombinator.com/item?id=45080538) - [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
