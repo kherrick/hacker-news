@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 21:46:26](https://news.ycombinator.com/item?id=45087396) - [What Every Argument About Sideloading Gets Wrong](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
 * [2025-08-31, 21:42:29](https://news.ycombinator.com/item?id=45087365) - [Polish CEO's company review bombed after stealing hat from child at tennis game](https://www.dexerto.com/entertainment/polish-ceos-company-review-bombed-after-stealing-hat-from-a-child-at-tennis-game-3244263/)
 * [2025-08-31, 21:33:46](https://news.ycombinator.com/item?id=45087313) - [NetSurf on ReMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
 * [2025-08-31, 19:48:36](https://news.ycombinator.com/item?id=45086440) - [How to poop outdoors in a way that won't harm the environment and other hikers](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
