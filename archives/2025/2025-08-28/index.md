@@ -26,6 +26,7 @@
 * [2025-08-28, 18:35:46](https://news.ycombinator.com/item?id=45055452) - [Web Bot Auth](https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/)
 * [2025-08-28, 18:34:29](https://news.ycombinator.com/item?id=45055439) - [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
 * [2025-08-28, 18:25:39](https://news.ycombinator.com/item?id=45055335) - [VLT observations of interstellar comet 3I/ATLAS II](https://arxiv.org/abs/2508.18382)
+* [2025-08-28, 17:58:50](https://news.ycombinator.com/item?id=45055065) - [Cricket, Fandom, and the Unspoken Price of Fantasy Gaming](https://uselessmbaguy.substack.com/p/cricket-fandom-and-the-unspoken-price)
 * [2025-08-28, 17:50:40](https://news.ycombinator.com/item?id=45054969) - [A Federal Appellate Court Finds the NLRB to Be Unconstitutional](https://prospect.org/justice/2025-08-25-federal-appellate-court-finds-nlrb-unconstitutional/)
 * [2025-08-28, 17:50:01](https://news.ycombinator.com/item?id=45054963) - [Seeing infrared: contact lenses that grant 'super-vision'](https://www.theguardian.com/science/2025/may/22/infrared-contact-lenses-super-vision)
 * [2025-08-28, 17:22:54](https://news.ycombinator.com/item?id=45054703) - [Uncertain<T>](https://nshipster.com/uncertainty/)
