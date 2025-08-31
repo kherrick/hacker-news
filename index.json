@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-08-30, 19:14:15",
-      "https://news.ycombinator.com/item?id=45077209"
-    ],
-    [
-      "Anduril's product engineering machine",
-      "https://joincolossus.com/article/the-amusement-park-for-engineers/"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 17:12:06",
       "https://news.ycombinator.com/item?id=45076274"
     ],
@@ -227,6 +217,16 @@
     [
       "Compositional Datalog on SQL: Relational Algebra of the Environment",
       "https://www.philipzucker.com/compose_datalog/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 20:03:20",
+      "https://news.ycombinator.com/item?id=45044442"
+    ],
+    [
+      "Show HN: An ncurses CUDA-based fluid simulation",
+      "https://github.com/seanwevans/fluid-sims"
     ]
   ],
   [
