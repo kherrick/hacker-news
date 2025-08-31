@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-31, 12:00:21",
+      "https://news.ycombinator.com/item?id=45082508"
+    ],
+    [
+      "Channel3 (YC S25) Is Hiring a Founding Engineer, NYC",
+      "https://channel3.notion.site/founding-engineer"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 09:13:13",
       "https://news.ycombinator.com/item?id=45081711"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45080388"
     ],
     [
-      "Sheafification – The optimal path to mathematical mastery",
+      "Sheafification – The optimal path to mathematical mastery: The fast track (2022)",
       "https://sheafification.com/the-fast-track/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Shared_ptr<T>: the (not always) atomic reference counted smart pointer",
       "https://snf.github.io/2019/02/13/shared-ptr-optimization/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 13:51:14",
-      "https://news.ycombinator.com/item?id=45039666"
-    ],
-    [
-      "Multi-Timer Gizmo",
-      "https://pgadey.ca/notes/multi-timer/"
     ]
   ],
   [
