@@ -29,7 +29,7 @@
 * [2025-08-27, 12:10:31](https://news.ycombinator.com/item?id=45038567) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
 * [2025-08-27, 11:00:45](https://news.ycombinator.com/item?id=45037940) - [Pig lung transplanted into a human](https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first)
 * [2025-08-27, 07:16:46](https://news.ycombinator.com/item?id=45036418) - [Terminal sessions you can bookmark](https://poor.dev/blog/building-zellij-web-terminal/)
-* [2025-08-27, 04:59:08](https://news.ycombinator.com/item?id=45035618) - [SQL Design Patterns](https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/)
+* [2025-08-27, 04:59:08](https://news.ycombinator.com/item?id=45035618) - [SQL Design Patterns (2010)](https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/)
 
 ## [Archives](archives/index.md)
 
