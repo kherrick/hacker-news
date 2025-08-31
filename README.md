@@ -24,12 +24,12 @@
 * [2025-08-31, 12:16:00](https://news.ycombinator.com/item?id=45082595) - [F-Droid site certificate expired](https://gitlab.com/fdroid/fdroid-website/-/issues/883)
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
 * [2025-08-30, 00:10:27](https://news.ycombinator.com/item?id=45070798) - [Growing Up on Alcatraz](https://sf.gazetteer.co/growing-up-on-alcatraz)
-* [2025-08-28, 17:58:50](https://news.ycombinator.com/item?id=45055065) - [Cricket, Fandom, and the Unspoken Price of Fantasy Gaming](https://uselessmbaguy.substack.com/p/cricket-fandom-and-the-unspoken-price)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-28, 15:50:09](https://news.ycombinator.com/item?id=45053704) - [The Last Vestal Virgin and the Fall of Rome](https://debramaymacleod.com/blog/the-last-vestal-virgin-and-the-fall-of-rome)
 * [2025-08-27, 22:21:18](https://news.ycombinator.com/item?id=45046066) - [Lord of the Io_uring (2020)](https://unixism.net/loti/)
 * [2025-08-27, 18:21:39](https://news.ycombinator.com/item?id=45043126) - [How to run latest Vegas Pro 22 in Windows 7 x64](https://trackerninja.codeberg.page/post/how-to-run-latest-vegas-pro-22-in-windows-7-no-matter-what/)
 * [2025-08-27, 18:08:43](https://news.ycombinator.com/item?id=45042985) - [A 20-Year-Old Algorithm Can Help Us Understand Transformer Embeddings](http://ai.stanford.edu/blog/db-ksvd/)
+* [2025-08-27, 13:39:44](https://news.ycombinator.com/item?id=45039525) - [Bitwig Studio 6 details revealed, and editing gets a big boost](https://cdm.link/bitwig-studio-6-details/)
 
 ## [Archives](archives/index.md)
 
