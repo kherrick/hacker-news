@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-08-31, 21:42:29](https://news.ycombinator.com/item?id=45087365) - [Polish CEO's company review bombed after stealing hat from child at tennis game](https://www.dexerto.com/entertainment/polish-ceos-company-review-bombed-after-stealing-hat-from-a-child-at-tennis-game-3244263/)
 * [2025-08-31, 19:37:08](https://news.ycombinator.com/item?id=45086346) - [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
 * [2025-08-31, 19:29:23](https://news.ycombinator.com/item?id=45086276) - [New Ruby Curl bindings with Fiber native support](https://github.com/taf2/curb/blob/master/ChangeLog.md)
 * [2025-08-31, 19:24:49](https://news.ycombinator.com/item?id=45086238) - [Lunar soil machine developed to build bricks using sunlight](https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html)
@@ -14,6 +13,8 @@
 * [2025-08-31, 17:00:06](https://news.ycombinator.com/item?id=45084757) - [Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
 * [2025-08-31, 16:50:45](https://news.ycombinator.com/item?id=45084673) - [I Don't Have Spotify](https://idonthavespotify.sjdonado.com/)
 * [2025-08-31, 16:03:30](https://news.ycombinator.com/item?id=45084193) - [Plastic Before Plastic: How gutta-percha shaped the 19th century](https://worldhistory.substack.com/p/plastic-before-plastic)
+* [2025-08-31, 15:52:14](https://news.ycombinator.com/item?id=45084126) - [Nobody cares about decentralization until they do (2024)](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
+* [2025-08-31, 15:50:35](https://news.ycombinator.com/item?id=45084111) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-31, 15:31:04](https://news.ycombinator.com/item?id=45083952) - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 14:55:56](https://news.ycombinator.com/item?id=45083635) - [Survey: a third of senior developers say over half their code is AI-generated](https://www.fastly.com/blog/senior-developers-ship-more-ai-code)
 * [2025-08-31, 14:41:15](https://news.ycombinator.com/item?id=45083495) - [Replacing a cache service with a database](https://avi.im/blag/2025/db-cache/)
@@ -22,7 +23,6 @@
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [\"This telegram must be closely paraphrased before being communicated\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 * [2025-08-31, 12:16:00](https://news.ycombinator.com/item?id=45082595) - [F-Droid site certificate expired](https://gitlab.com/fdroid/fdroid-website/-/issues/883)
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
-* [2025-08-31, 02:58:32](https://news.ycombinator.com/item?id=45079962) - [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
 * [2025-08-30, 00:10:27](https://news.ycombinator.com/item?id=45070798) - [Growing Up on Alcatraz](https://sf.gazetteer.co/growing-up-on-alcatraz)
 * [2025-08-28, 17:58:50](https://news.ycombinator.com/item?id=45055065) - [Cricket, Fandom, and the Unspoken Price of Fantasy Gaming](https://uselessmbaguy.substack.com/p/cricket-fandom-and-the-unspoken-price)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)

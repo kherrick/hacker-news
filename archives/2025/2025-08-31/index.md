@@ -29,6 +29,7 @@
 * [2025-08-31, 16:17:07](https://news.ycombinator.com/item?id=45084328) - [eBPF 101: Your First Step into Kernel Programming](https://journal.hexmos.com/ebpf-introduction/)
 * [2025-08-31, 16:03:30](https://news.ycombinator.com/item?id=45084193) - [Plastic Before Plastic: How gutta-percha shaped the 19th century](https://worldhistory.substack.com/p/plastic-before-plastic)
 * [2025-08-31, 15:52:14](https://news.ycombinator.com/item?id=45084126) - [Nobody cares about decentralization until they do (2024)](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
+* [2025-08-31, 15:50:35](https://news.ycombinator.com/item?id=45084111) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-31, 15:37:24](https://news.ycombinator.com/item?id=45084016) - [No Clicks, No Content: The Unsustainable Future of AI Search](https://bradt.ca/blog/no-clicks-no-content/)
 * [2025-08-31, 15:31:04](https://news.ycombinator.com/item?id=45083952) - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 15:19:54](https://news.ycombinator.com/item?id=45083845) - [FDA official demands removal of YouTube videos of himself criticizing vaccines](https://www.theguardian.com/us-news/2025/aug/31/fda-official-youtube-videos)
