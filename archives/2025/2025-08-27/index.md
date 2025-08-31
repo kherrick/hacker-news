@@ -43,6 +43,7 @@
 * [2025-08-27, 15:16:18](https://news.ycombinator.com/item?id=45040875) - [Efficient Array Programming](https://github.com/razetime/efficient-array-programming)
 * [2025-08-27, 14:42:14](https://news.ycombinator.com/item?id=45040404) - [Show HN: React Web Camera – Fix <input type=file> single-photo limit](https://shivantra.com/react-web-camera/)
 * [2025-08-27, 14:37:21](https://news.ycombinator.com/item?id=45040338) - [AI Bubble 2027](https://www.wheresyoured.at/ai-bubble-2027/)
+* [2025-08-27, 14:34:13](https://news.ycombinator.com/item?id=45040290) - [Shared_ptr<T>: the (not always) atomic reference counted smart pointer](https://snf.github.io/2019/02/13/shared-ptr-optimization/)
 * [2025-08-27, 14:17:22](https://news.ycombinator.com/item?id=45040076) - [Why Aren't People Going to Local and Regional In-Person Events Anymore?](https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/)
 * [2025-08-27, 14:15:54](https://news.ycombinator.com/item?id=45040064) - [Apple Revokes EU Distribution Rights for an App on the Alt Store](https://torrentfreak.com/apple-revokes-eu-distribution-rights-for-torrent-client-developer-left-in-the-dark/)
 * [2025-08-27, 14:09:18](https://news.ycombinator.com/item?id=45039965) - [How Does Timecode Vinyl Work? (Pt. 3)](https://mixxx.org/news/2025-08-27-dvs-internals-pt3/)

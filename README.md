@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-31, 09:13:13](https://news.ycombinator.com/item?id=45081711) - [Sniffly – Claude Code Analytics Dashboard](https://github.com/chiphuyen/sniffly)
-* [2025-08-31, 09:11:48](https://news.ycombinator.com/item?id=45081703) - [Sometimes Software Is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)
 * [2025-08-31, 06:17:26](https://news.ycombinator.com/item?id=45080808) - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 * [2025-08-31, 05:59:57](https://news.ycombinator.com/item?id=45080720) - [Git Diagramming \"The Weave\"](https://daverupert.com/2025/08/git-diagramming-the-weave/)
 * [2025-08-31, 04:31:29](https://news.ycombinator.com/item?id=45080388) - [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
@@ -23,6 +22,7 @@
 * [2025-08-30, 11:26:35](https://news.ycombinator.com/item?id=45073746) - [Hardening Firefox – a checklist for improved browser privacy](https://andrewmarder.net/firefox/)
 * [2025-08-27, 20:09:50](https://news.ycombinator.com/item?id=45044525) - [Compositional Datalog on SQL: Relational Algebra of the Environment](https://www.philipzucker.com/compose_datalog/)
 * [2025-08-27, 20:03:20](https://news.ycombinator.com/item?id=45044442) - [Show HN: An ncurses CUDA-based fluid simulation](https://github.com/seanwevans/fluid-sims)
+* [2025-08-27, 14:34:13](https://news.ycombinator.com/item?id=45040290) - [Shared_ptr<T>: the (not always) atomic reference counted smart pointer](https://snf.github.io/2019/02/13/shared-ptr-optimization/)
 * [2025-08-27, 13:51:14](https://news.ycombinator.com/item?id=45039666) - [Multi-Timer Gizmo](https://pgadey.ca/notes/multi-timer/)
 * [2025-08-27, 13:39:44](https://news.ycombinator.com/item?id=45039525) - [Bitwig Studio 6 details revealed, and editing gets a big boost](https://cdm.link/bitwig-studio-6-details/)
 * [2025-08-27, 12:10:57](https://news.ycombinator.com/item?id=45038570) - [What Are Traces and Spans in OpenTelemetry?](https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view)
