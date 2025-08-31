@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 21:42:29](https://news.ycombinator.com/item?id=45087365) - [Polish CEO's company review bombed after stealing hat from child at tennis game](https://www.dexerto.com/entertainment/polish-ceos-company-review-bombed-after-stealing-hat-from-a-child-at-tennis-game-3244263/)
 * [2025-08-31, 19:48:36](https://news.ycombinator.com/item?id=45086440) - [How to poop outdoors in a way that won't harm the environment and other hikers](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
 * [2025-08-31, 19:37:08](https://news.ycombinator.com/item?id=45086346) - [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
 * [2025-08-31, 19:29:23](https://news.ycombinator.com/item?id=45086276) - [New Ruby Curl bindings with Fiber native support](https://github.com/taf2/curb/blob/master/ChangeLog.md)
