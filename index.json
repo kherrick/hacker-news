@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-31, 16:22:38",
+      "https://news.ycombinator.com/item?id=45084370"
+    ],
+    [
+      "Family of MSFT employee who died warn tech companies not to overwork workers",
+      "https://padailypost.com/2025/08/29/family-of-microsoft-employee-who-died-warn-tech-companies-not-to-overwork-workers/"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 16:17:07",
+      "https://news.ycombinator.com/item?id=45084328"
+    ],
+    [
+      "eBPF 101: Your First Step into Kernel Programming",
+      "https://journal.hexmos.com/ebpf-introduction/"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 15:37:24",
       "https://news.ycombinator.com/item?id=45084016"
     ],
@@ -107,16 +127,6 @@
     [
       "Channel3 (YC S25) Is Hiring a Founding Engineer, NYC",
       "https://channel3.notion.site/founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 09:13:13",
-      "https://news.ycombinator.com/item?id=45081711"
-    ],
-    [
-      "Sniffly – Claude Code Analytics Dashboard",
-      "https://github.com/chiphuyen/sniffly"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2025-08-27, 18:21:39",
+      "https://news.ycombinator.com/item?id=45043126"
+    ],
+    [
+      "How to run latest Vegas Pro 22 in Windows 7 x64",
+      "https://trackerninja.codeberg.page/post/how-to-run-latest-vegas-pro-22-in-windows-7-no-matter-what/"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 18:08:43",
       "https://news.ycombinator.com/item?id=45042985"
     ],
     [
       "A 20-Year-Old Algorithm Can Help Us Understand Transformer Embeddings",
       "http://ai.stanford.edu/blog/db-ksvd/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 16:43:43",
-      "https://news.ycombinator.com/item?id=45041978"
-    ],
-    [
-      "A convex polyhedron without Rupert's property",
-      "https://arxiv.org/abs/2508.18475"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Running our Docker registry on-prem with Harbor",
       "https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 07:16:46",
-      "https://news.ycombinator.com/item?id=45036418"
-    ],
-    [
-      "Terminal sessions you can bookmark",
-      "https://poor.dev/blog/building-zellij-web-terminal/"
     ]
   ]
 ]
