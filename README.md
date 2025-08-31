@@ -11,7 +11,6 @@
 * [2025-08-31, 15:37:24](https://news.ycombinator.com/item?id=45084016) - [No clicks, no content: The unsustainable future of AI search](https://bradt.ca/blog/no-clicks-no-content/)
 * [2025-08-31, 15:31:04](https://news.ycombinator.com/item?id=45083952) - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 15:19:54](https://news.ycombinator.com/item?id=45083845) - [FDA official demands removal of YouTube videos of himself criticizing vaccines](https://www.theguardian.com/us-news/2025/aug/31/fda-official-youtube-videos)
-* [2025-08-31, 14:55:56](https://news.ycombinator.com/item?id=45083635) - [Older developers are down with the vibe coding vibe](https://www.theregister.com/2025/08/28/older_developers_ai_code/)
 * [2025-08-31, 14:41:15](https://news.ycombinator.com/item?id=45083495) - [Replacing a Cache Service with a Database](https://avi.im/blag/2025/db-cache/)
 * [2025-08-31, 13:49:01](https://news.ycombinator.com/item?id=45083134) - [Notes on Managing ADHD](https://borretti.me/article/notes-on-managing-adhd)
 * [2025-08-31, 12:44:26](https://news.ycombinator.com/item?id=45082750) - [Google: 'Your $1000 phone needs our permission to install apps now' [video]](https://www.youtube.com/watch?v=QBEKlIV_70E)
@@ -29,6 +28,7 @@
 * [2025-08-27, 18:21:39](https://news.ycombinator.com/item?id=45043126) - [How to run latest Vegas Pro 22 in Windows 7 x64](https://trackerninja.codeberg.page/post/how-to-run-latest-vegas-pro-22-in-windows-7-no-matter-what/)
 * [2025-08-27, 18:08:43](https://news.ycombinator.com/item?id=45042985) - [A 20-Year-Old Algorithm Can Help Us Understand Transformer Embeddings](http://ai.stanford.edu/blog/db-ksvd/)
 * [2025-08-27, 13:39:44](https://news.ycombinator.com/item?id=45039525) - [Bitwig Studio 6 details revealed, and editing gets a big boost](https://cdm.link/bitwig-studio-6-details/)
+* [2025-08-27, 12:10:57](https://news.ycombinator.com/item?id=45038570) - [What Are Traces and Spans in OpenTelemetry?](https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view)
 * [2025-08-27, 12:10:31](https://news.ycombinator.com/item?id=45038567) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
 
 ## [Archives](archives/index.md)
