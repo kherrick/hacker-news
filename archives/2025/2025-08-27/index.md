@@ -85,6 +85,7 @@
 * [2025-08-27, 07:57:01](https://news.ycombinator.com/item?id=45036708) - [Ask HN: What to Learn for Math for Modeling?](https://news.ycombinator.com/item?id=45036708)
 * [2025-08-27, 07:55:43](https://news.ycombinator.com/item?id=45036704) - [Thrashing](https://exple.tive.org/blarg/2025/08/26/thrashing/)
 * [2025-08-27, 07:41:37](https://news.ycombinator.com/item?id=45036603) - [Show HN: Envoy – Command Logger](https://github.com/heyyviv/envoy)
+* [2025-08-27, 07:16:46](https://news.ycombinator.com/item?id=45036418) - [Terminal sessions you can bookmark](https://poor.dev/blog/building-zellij-web-terminal/)
 * [2025-08-27, 06:57:56](https://news.ycombinator.com/item?id=45036294) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2025-08-27, 06:49:23](https://news.ycombinator.com/item?id=45036231) - [Scientist exposes anti-wind groups as oil-funded. Now they want to silence him](https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/)
 * [2025-08-27, 06:30:36](https://news.ycombinator.com/item?id=45036094) - [Dependent Types: Universes, or types of types](https://www.jonmsterling.com/01ET/index.xml)

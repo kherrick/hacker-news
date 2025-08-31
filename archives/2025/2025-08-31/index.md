@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 05:13:05](https://news.ycombinator.com/item?id=45080538) - [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
 * [2025-08-31, 04:31:29](https://news.ycombinator.com/item?id=45080388) - [Sheafification - The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
 * [2025-08-31, 04:21:06](https://news.ycombinator.com/item?id=45080351) - [Josef Bacik Leaving Meta and Stepping Back from Kernel Development](https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta)
 * [2025-08-31, 02:47:47](https://news.ycombinator.com/item?id=45079911) - [Are people's bosses making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
