@@ -12,6 +12,8 @@
 * [2025-08-31, 17:27:17](https://news.ycombinator.com/item?id=45085014) - [How do you fight YouTube addiction and procrastination? I'm struggling with it](https://news.ycombinator.com/item?id=45085014)
 * [2025-08-31, 17:26:03](https://news.ycombinator.com/item?id=45085002) - [A 'Third Way' Between Buying or Renting? Swiss Co-Ops Say They've Found It](https://www.nytimes.com/2025/08/26/realestate/switzerland-rental-coops-nonprofit-lausanne.html)
 * [2025-08-31, 17:15:19](https://news.ycombinator.com/item?id=45084913) - [The Sun Sets on the British Empire](https://oikofuge.com/sun-sets-on-british-empire/)
+* [2025-08-31, 17:14:21](https://news.ycombinator.com/item?id=45084905) - [Show HN: Anonymous Age Verification](https://gist.github.com/JWally/bf4681f79c0725eb378ec3c246cf0664)
+* [2025-08-31, 17:06:30](https://news.ycombinator.com/item?id=45084822) - [Why Dishwashers Are Quietly Disappearing from American Homes](https://www.gadgetreview.com/why-dishwashers-are-quietly-disappearing-from-american-homes)
 * [2025-08-31, 17:00:19](https://news.ycombinator.com/item?id=45084759) - [Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows](https://news.ycombinator.com/item?id=45084759)
 * [2025-08-31, 17:00:06](https://news.ycombinator.com/item?id=45084757) - [Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
 * [2025-08-31, 16:50:45](https://news.ycombinator.com/item?id=45084673) - [I Don't Have Spotify](https://idonthavespotify.sjdonado.com/)

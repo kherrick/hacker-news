@@ -61,6 +61,7 @@
 * [2025-08-28, 11:51:30](https://news.ycombinator.com/item?id=45051034) - [The startup bubble that no one is talking about](https://tj401.com/blog/formd/index.html)
 * [2025-08-28, 11:42:35](https://news.ycombinator.com/item?id=45050958) - [The Math Behind GANs](https://jaketae.github.io/study/gan-math/)
 * [2025-08-28, 11:38:44](https://news.ycombinator.com/item?id=45050931) - [The Most Important Machine Learning Equations: A Comprehensive Guide](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/)
+* [2025-08-28, 11:35:38](https://news.ycombinator.com/item?id=45050908) - [The Case for Crazy Philanthropy](https://www.palladiummag.com/2025/08/22/the-case-for-crazy-philanthropy/)
 * [2025-08-28, 11:29:42](https://news.ycombinator.com/item?id=45050873) - [Microbial metabolite repairs liver injury by restoring hepatic lipid metabolism](https://journals.asm.org/doi/10.1128/mbio.01718-25)
 * [2025-08-28, 10:39:08](https://news.ycombinator.com/item?id=45050538) - [Fossjobs: A job board for Free and Open Source jobs](https://www.fossjobs.net/)
 * [2025-08-28, 10:32:51](https://news.ycombinator.com/item?id=45050502) - [Petition to stop Google from restricting sideloading and FOSS apps](https://news.ycombinator.com/item?id=45050502)
