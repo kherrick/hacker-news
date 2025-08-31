@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-31, 04:21:06",
+      "https://news.ycombinator.com/item?id=45080351"
+    ],
+    [
+      "Josef Bacik Leaving Meta and Stepping Back from Kernel Development",
+      "https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 01:31:07",
       "https://news.ycombinator.com/item?id=45079532"
     ],
@@ -67,16 +77,6 @@
     [
       "Are we decentralized yet?",
       "https://arewedecentralizedyet.online/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 19:02:44",
-      "https://news.ycombinator.com/item?id=45077143"
-    ],
-    [
-      "The Rise of Hybrid PHP: Blending PHP with Go and Rust",
-      "https://yekdeveloper.com/p/4-the-rise-of-hybrid-php"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-08-30, 12:03:09",
+      "https://news.ycombinator.com/item?id=45073902"
+    ],
+    [
+      "Is it possible to allow sideloading and keep users safe?",
+      "https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/"
+    ]
+  ],
+  [
+    [
       "2025-08-30, 11:26:35",
       "https://news.ycombinator.com/item?id=45073746"
     ],
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2025-08-27, 16:01:42",
-      "https://news.ycombinator.com/item?id=45041460"
-    ],
-    [
-      "The World Runs 20B Instances of Curl. Where's the Support?",
-      "https://thenewstack.io/the-world-runs-20-billion-instances-of-curl-wheres-the-support/"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 14:09:18",
       "https://news.ycombinator.com/item?id=45039965"
     ],
     [
       "How Does Timecode Vinyl Work? (Pt. 3)",
       "https://mixxx.org/news/2025-08-27-dvs-internals-pt3/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 13:18:04",
-      "https://news.ycombinator.com/item?id=45039292"
-    ],
-    [
-      "Show HN: I made an Animal Crossing style letter editor",
-      "https://acmail.idreesinc.com"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A24's Empire of Auteurs",
       "https://www.newyorker.com/magazine/2025/09/01/a24s-empire-of-auteurs"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 17:58:24",
+      "https://news.ycombinator.com/item?id=45030038"
+    ],
+    [
+      "15-Fold increase in solar thermoelectric generator performance",
+      "https://www.nature.com/articles/s41377-025-01916-9"
     ]
   ]
 ]
