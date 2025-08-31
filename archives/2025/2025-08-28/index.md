@@ -38,6 +38,7 @@
 * [2025-08-28, 15:59:11](https://news.ycombinator.com/item?id=45053806) - [Updates to Consumer Terms and Privacy Policy](https://www.anthropic.com/news/updates-to-our-consumer-terms)
 * [2025-08-28, 15:55:49](https://news.ycombinator.com/item?id=45053771) - [China Is Eating the World](https://apropos.substack.com/p/china-is-eating-the-world)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe Coding as a Coding Veteran. From 8-Bit Assembly to English-as-Code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
+* [2025-08-28, 15:50:09](https://news.ycombinator.com/item?id=45053704) - [The Last Vestal Virgin and the Fall of Rome](https://debramaymacleod.com/blog/the-last-vestal-virgin-and-the-fall-of-rome)
 * [2025-08-28, 15:38:07](https://news.ycombinator.com/item?id=45053553) - [Show HN: Grammit – Local-only AI grammar checker (Chrome extension)](https://chromewebstore.google.com/detail/grammit-the-ai-grammar-ch/pkfmoknmnkbidlniedaloiijibdpjjmm)
 * [2025-08-28, 15:30:52](https://news.ycombinator.com/item?id=45053462) - [Optimising for maintainability – Gleam in production at Strand](https://gleam.run/case-studies/strand/)
 * [2025-08-28, 15:14:03](https://news.ycombinator.com/item?id=45053234) - [Anything can be a message queue if you use it wrongly enough (2023)](https://xeiaso.net/blog/anything-message-queue)

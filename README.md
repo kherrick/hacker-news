@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-31, 17:42:43](https://news.ycombinator.com/item?id=45085156) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
 * [2025-08-31, 17:26:03](https://news.ycombinator.com/item?id=45085002) - [A 'Third Way' Between Buying or Renting? Swiss Co-Ops Say They've Found It](https://www.nytimes.com/2025/08/26/realestate/switzerland-rental-coops-nonprofit-lausanne.html)
 * [2025-08-31, 17:15:19](https://news.ycombinator.com/item?id=45084913) - [The Sun Sets on the British Empire](https://oikofuge.com/sun-sets-on-british-empire/)
 * [2025-08-31, 17:00:19](https://news.ycombinator.com/item?id=45084759) - [Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows](https://news.ycombinator.com/item?id=45084759)
@@ -21,14 +22,13 @@
 * [2025-08-31, 04:31:29](https://news.ycombinator.com/item?id=45080388) - [Sheafification – The optimal path to mathematical mastery: The fast track (2022)](https://sheafification.com/the-fast-track/)
 * [2025-08-31, 03:14:05](https://news.ycombinator.com/item?id=45080051) - [Red: A programming language inspired by REBOL](https://github.com/red/red)
 * [2025-08-31, 02:58:32](https://news.ycombinator.com/item?id=45079962) - [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
-* [2025-08-30, 14:38:33](https://news.ycombinator.com/item?id=45075048) - [You Have to Feel It](https://mitchellh.com/writing/feel-it)
 * [2025-08-30, 12:58:48](https://news.ycombinator.com/item?id=45074248) - [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
+* [2025-08-28, 15:50:09](https://news.ycombinator.com/item?id=45053704) - [The Last Vestal Virgin and the Fall of Rome](https://debramaymacleod.com/blog/the-last-vestal-virgin-and-the-fall-of-rome)
 * [2025-08-27, 20:03:20](https://news.ycombinator.com/item?id=45044442) - [Show HN: An ncurses CUDA-based fluid simulation](https://github.com/seanwevans/fluid-sims)
 * [2025-08-27, 18:21:39](https://news.ycombinator.com/item?id=45043126) - [How to run latest Vegas Pro 22 in Windows 7 x64](https://trackerninja.codeberg.page/post/how-to-run-latest-vegas-pro-22-in-windows-7-no-matter-what/)
 * [2025-08-27, 18:08:43](https://news.ycombinator.com/item?id=45042985) - [A 20-Year-Old Algorithm Can Help Us Understand Transformer Embeddings](http://ai.stanford.edu/blog/db-ksvd/)
 * [2025-08-27, 13:39:44](https://news.ycombinator.com/item?id=45039525) - [Bitwig Studio 6 details revealed, and editing gets a big boost](https://cdm.link/bitwig-studio-6-details/)
-* [2025-08-27, 12:10:57](https://news.ycombinator.com/item?id=45038570) - [What Are Traces and Spans in OpenTelemetry?](https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view)
 * [2025-08-27, 12:10:31](https://news.ycombinator.com/item?id=45038567) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
 
 ## [Archives](archives/index.md)

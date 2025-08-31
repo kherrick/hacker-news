@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 17:42:43](https://news.ycombinator.com/item?id=45085156) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
 * [2025-08-31, 17:26:03](https://news.ycombinator.com/item?id=45085002) - [A 'Third Way' Between Buying or Renting? Swiss Co-Ops Say They've Found It](https://www.nytimes.com/2025/08/26/realestate/switzerland-rental-coops-nonprofit-lausanne.html)
 * [2025-08-31, 17:15:19](https://news.ycombinator.com/item?id=45084913) - [The Sun Sets on the British Empire](https://oikofuge.com/sun-sets-on-british-empire/)
 * [2025-08-31, 17:00:19](https://news.ycombinator.com/item?id=45084759) - [Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows](https://news.ycombinator.com/item?id=45084759)
