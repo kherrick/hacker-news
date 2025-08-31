@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 09:21:35](https://news.ycombinator.com/item?id=45081764) - [Just use `git` to manage your dotfiles](https://ericgreer.info/post/2025-08-31-simple-dotfiles-script/)
 * [2025-08-31, 09:11:48](https://news.ycombinator.com/item?id=45081703) - [Sometimes Software Is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)
 * [2025-08-31, 06:20:35](https://news.ycombinator.com/item?id=45080819) - [I Don't Like \"AI\"](https://ian.mccowan.space/2024/07/22/ai/)
 * [2025-08-31, 06:17:26](https://news.ycombinator.com/item?id=45080808) - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
