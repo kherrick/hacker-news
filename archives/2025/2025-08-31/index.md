@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 18:10:37](https://news.ycombinator.com/item?id=45085446) - [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
+* [2025-08-31, 18:04:08](https://news.ycombinator.com/item?id=45085373) - [Mark Zuckerberg's AI dream team seems to be falling apart](https://arstechnica.com/ai/2025/08/zuckerbergs-ai-hires-disrupt-meta-with-swift-exits-and-threats-to-leave/)
 * [2025-08-31, 17:42:43](https://news.ycombinator.com/item?id=45085156) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
+* [2025-08-31, 17:29:07](https://news.ycombinator.com/item?id=45085029) - [Use One Big Server](https://specbranch.com/posts/one-big-server/)
+* [2025-08-31, 17:27:17](https://news.ycombinator.com/item?id=45085014) - [How do you fight YouTube addiction and procrastination? I'm struggling with it](https://news.ycombinator.com/item?id=45085014)
 * [2025-08-31, 17:26:03](https://news.ycombinator.com/item?id=45085002) - [A 'Third Way' Between Buying or Renting? Swiss Co-Ops Say They've Found It](https://www.nytimes.com/2025/08/26/realestate/switzerland-rental-coops-nonprofit-lausanne.html)
 * [2025-08-31, 17:15:19](https://news.ycombinator.com/item?id=45084913) - [The Sun Sets on the British Empire](https://oikofuge.com/sun-sets-on-british-empire/)
 * [2025-08-31, 17:00:19](https://news.ycombinator.com/item?id=45084759) - [Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows](https://news.ycombinator.com/item?id=45084759)
@@ -12,6 +16,7 @@
 * [2025-08-31, 16:50:45](https://news.ycombinator.com/item?id=45084673) - [I Don't Have Spotify](https://idonthavespotify.sjdonado.com/)
 * [2025-08-31, 16:22:38](https://news.ycombinator.com/item?id=45084370) - [Family of MSFT employee who died warn tech companies not to overwork workers](https://padailypost.com/2025/08/29/family-of-microsoft-employee-who-died-warn-tech-companies-not-to-overwork-workers/)
 * [2025-08-31, 16:17:07](https://news.ycombinator.com/item?id=45084328) - [eBPF 101: Your First Step into Kernel Programming](https://journal.hexmos.com/ebpf-introduction/)
+* [2025-08-31, 16:03:30](https://news.ycombinator.com/item?id=45084193) - [Plastic Before Plastic: How gutta-percha shaped the 19th century](https://worldhistory.substack.com/p/plastic-before-plastic)
 * [2025-08-31, 15:37:24](https://news.ycombinator.com/item?id=45084016) - [No Clicks, No Content: The Unsustainable Future of AI Search](https://bradt.ca/blog/no-clicks-no-content/)
 * [2025-08-31, 15:31:04](https://news.ycombinator.com/item?id=45083952) - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 15:19:54](https://news.ycombinator.com/item?id=45083845) - [FDA official demands removal of YouTube videos of himself criticizing vaccines](https://www.theguardian.com/us-news/2025/aug/31/fda-official-youtube-videos)
