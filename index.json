@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-08-31, 18:10:37",
+      "https://news.ycombinator.com/item?id=45085446"
+    ],
+    [
+      "How many HTTP requests/second can a Single Machine handle?",
+      "https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 18:04:08",
+      "https://news.ycombinator.com/item?id=45085373"
+    ],
+    [
+      "Mark Zuckerberg's AI dream team seems to be falling apart",
+      "https://arstechnica.com/ai/2025/08/zuckerbergs-ai-hires-disrupt-meta-with-swift-exits-and-threats-to-leave/"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 17:42:43",
       "https://news.ycombinator.com/item?id=45085156"
     ],
     [
       "How is Ultrassembler so fast?",
       "https://jghuff.com/articles/ultrassembler-so-fast/"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 17:29:07",
+      "https://news.ycombinator.com/item?id=45085029"
+    ],
+    [
+      "Use One Big Server",
+      "https://specbranch.com/posts/one-big-server/"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 17:27:17",
+      "https://news.ycombinator.com/item?id=45085014"
+    ],
+    [
+      "How do you fight YouTube addiction and procrastination? I'm struggling with it",
+      "https://news.ycombinator.com/item?id=45085014"
     ]
   ],
   [
@@ -61,22 +101,22 @@
   ],
   [
     [
-      "2025-08-31, 16:22:38",
-      "https://news.ycombinator.com/item?id=45084370"
-    ],
-    [
-      "Family of MSFT employee who died warn tech companies not to overwork workers",
-      "https://padailypost.com/2025/08/29/family-of-microsoft-employee-who-died-warn-tech-companies-not-to-overwork-workers/"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 16:17:07",
       "https://news.ycombinator.com/item?id=45084328"
     ],
     [
       "eBPF 101: Your First Step into Kernel Programming",
       "https://journal.hexmos.com/ebpf-introduction/"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 16:03:30",
+      "https://news.ycombinator.com/item?id=45084193"
+    ],
+    [
+      "Plastic Before Plastic: How gutta-percha shaped the 19th century",
+      "https://worldhistory.substack.com/p/plastic-before-plastic"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2025-08-31, 12:44:26",
-      "https://news.ycombinator.com/item?id=45082750"
-    ],
-    [
-      "Google: 'Your $1000 phone needs our permission to install apps now' [video]",
-      "https://www.youtube.com/watch?v=QBEKlIV_70E"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 12:39:47",
       "https://news.ycombinator.com/item?id=45082731"
     ],
@@ -177,26 +207,6 @@
     [
       "My Foray into Vlang",
       "https://kristun.dev/posts/my-foray-into-vlang/"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 04:31:29",
-      "https://news.ycombinator.com/item?id=45080388"
-    ],
-    [
-      "Sheafification – The optimal path to mathematical mastery: The fast track (2022)",
-      "https://sheafification.com/the-fast-track/"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 03:14:05",
-      "https://news.ycombinator.com/item?id=45080051"
-    ],
-    [
-      "Red: A programming language inspired by REBOL",
-      "https://github.com/red/red"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Bitwig Studio 6 details revealed, and editing gets a big boost",
       "https://cdm.link/bitwig-studio-6-details/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 12:10:57",
-      "https://news.ycombinator.com/item?id=45038570"
-    ],
-    [
-      "What Are Traces and Spans in OpenTelemetry?",
-      "https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view"
     ]
   ],
   [
