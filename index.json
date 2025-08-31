@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-08-31, 09:11:48",
-      "https://news.ycombinator.com/item?id=45081703"
-    ],
-    [
-      "Sometimes Software Is Done, or Why Hugo Why",
-      "https://commaok.xyz/post/on_hugo/"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 06:17:26",
       "https://news.ycombinator.com/item?id=45080808"
     ],
@@ -227,6 +217,16 @@
     [
       "Show HN: An ncurses CUDA-based fluid simulation",
       "https://github.com/seanwevans/fluid-sims"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 14:34:13",
+      "https://news.ycombinator.com/item?id=45040290"
+    ],
+    [
+      "Shared_ptr<T>: the (not always) atomic reference counted smart pointer",
+      "https://snf.github.io/2019/02/13/shared-ptr-optimization/"
     ]
   ],
   [
