@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-08-30, 17:20:32",
-      "https://news.ycombinator.com/item?id=45076367"
-    ],
-    [
-      "University of Cambridge Cognitive Ability Test",
-      "https://planning.e-psychometrics.com/test/icar60"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 17:12:06",
       "https://news.ycombinator.com/item?id=45076274"
     ],
@@ -247,6 +237,16 @@
     [
       "Spectrum – catching clojure.spec conform errors at compile time",
       "https://github.com/arohner/spectrum"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 14:09:18",
+      "https://news.ycombinator.com/item?id=45039965"
+    ],
+    [
+      "How Does Timecode Vinyl Work? (Pt. 3)",
+      "https://mixxx.org/news/2025-08-27-dvs-internals-pt3/"
     ]
   ],
   [
