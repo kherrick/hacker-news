@@ -32,6 +32,7 @@
 * [2025-08-27, 16:26:34](https://news.ycombinator.com/item?id=45041779) - [Desktop Linux Keeps Winning the Wrong Battles](https://www.howtogeek.com/desktop-linux-keeps-winning-the-wrong-battles/)
 * [2025-08-27, 16:24:13](https://news.ycombinator.com/item?id=45041744) - [I'm working on implementing a programming language all my own](https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own)
 * [2025-08-27, 16:24:12](https://news.ycombinator.com/item?id=45041743) - [GMP damaging Zen 5 CPUs?](https://gmplib.org/gmp-zen5)
+* [2025-08-27, 16:01:42](https://news.ycombinator.com/item?id=45041460) - [The World Runs 20B Instances of Curl. Where's the Support?](https://thenewstack.io/the-world-runs-20-billion-instances-of-curl-wheres-the-support/)
 * [2025-08-27, 15:56:40](https://news.ycombinator.com/item?id=45041397) - [Kiwi.com releases the first commercial Flight Search MCP server](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)
 * [2025-08-27, 15:50:54](https://news.ycombinator.com/item?id=45041315) - [VIMMaster](https://github.com/renzorlive/vimmaster)
 * [2025-08-27, 15:48:07](https://news.ycombinator.com/item?id=45041286) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
