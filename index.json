@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-31, 19:48:36",
+      "https://news.ycombinator.com/item?id=45086440"
+    ],
+    [
+      "How to poop outdoors in a way that won't harm the environment and other hikers",
+      "https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 19:37:08",
       "https://news.ycombinator.com/item?id=45086346"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-08-31, 19:08:39",
-      "https://news.ycombinator.com/item?id=45086071"
+      "2025-08-31, 19:24:49",
+      "https://news.ycombinator.com/item?id=45086238"
     ],
     [
-      "It's So Easy to Prompt Inject Perplexity Comet",
-      "https://news.ycombinator.com/item?id=45086071"
+      "Lunar soil machine developed to build bricks using sunlight",
+      "https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Eternal Struggle",
       "https://yoavg.github.io/eternal/"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 18:10:37",
-      "https://news.ycombinator.com/item?id=45085446"
-    ],
-    [
-      "How many HTTP requests/second can a Single Machine handle?",
-      "https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html"
     ]
   ],
   [
@@ -67,26 +67,6 @@
     [
       "Use One Big Server (2022)",
       "https://specbranch.com/posts/one-big-server/"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 17:27:17",
-      "https://news.ycombinator.com/item?id=45085014"
-    ],
-    [
-      "Ask HN: How do you fight YouTube addiction and procrastination? I'm struggling",
-      "https://news.ycombinator.com/item?id=45085014"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 17:26:03",
-      "https://news.ycombinator.com/item?id=45085002"
-    ],
-    [
-      "A 'Third Way' Between Buying or Renting? Swiss Co-Ops Say They've Found It",
-      "https://www.nytimes.com/2025/08/26/realestate/switzerland-rental-coops-nonprofit-lausanne.html"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2025-08-31, 15:52:14",
+      "https://news.ycombinator.com/item?id=45084126"
+    ],
+    [
+      "Nobody cares about decentralization until they do (2024)",
+      "https://kyefox.com/nobody-cares-about-decentralization-until-they-do/"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 15:37:24",
       "https://news.ycombinator.com/item?id=45084016"
     ],
@@ -167,6 +157,26 @@
     [
       "Jujutsu for Everyone",
       "https://jj-for-everyone.github.io/"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 14:55:56",
+      "https://news.ycombinator.com/item?id=45083635"
+    ],
+    [
+      "Survey: a third of senior developers say over half their code is AI-generated",
+      "https://www.fastly.com/blog/senior-developers-ship-more-ai-code"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 14:41:15",
+      "https://news.ycombinator.com/item?id=45083495"
+    ],
+    [
+      "Replacing a cache service with a database",
+      "https://avi.im/blag/2025/db-cache/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A 20-Year-Old Algorithm Can Help Us Understand Transformer Embeddings",
       "http://ai.stanford.edu/blog/db-ksvd/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 13:39:44",
-      "https://news.ycombinator.com/item?id=45039525"
-    ],
-    [
-      "Bitwig Studio 6 details revealed, and editing gets a big boost",
-      "https://cdm.link/bitwig-studio-6-details/"
     ]
   ]
 ]
