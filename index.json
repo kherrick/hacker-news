@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-31, 09:11:48",
+      "https://news.ycombinator.com/item?id=45081703"
+    ],
+    [
+      "Sometimes Software Is Done, or Why Hugo Why",
+      "https://commaok.xyz/post/on_hugo/"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 06:17:26",
       "https://news.ycombinator.com/item?id=45080808"
     ],
@@ -217,16 +227,6 @@
     [
       "Compositional Datalog on SQL: Relational Algebra of the Environment",
       "https://www.philipzucker.com/compose_datalog/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 15:18:29",
-      "https://news.ycombinator.com/item?id=45040905"
-    ],
-    [
-      "We rebuilt Cloud Life's infrastructure delivery with System Initiative",
-      "https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative"
     ]
   ],
   [
