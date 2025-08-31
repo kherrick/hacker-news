@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-31, 06:20:35",
-      "https://news.ycombinator.com/item?id=45080819"
-    ],
-    [
-      "I Don't Like \"AI\"",
-      "https://ian.mccowan.space/2024/07/22/ai/"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 06:17:26",
       "https://news.ycombinator.com/item?id=45080808"
     ],
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2025-08-31, 02:47:47",
-      "https://news.ycombinator.com/item?id=45079911"
-    ],
-    [
-      "Are people's bosses making them use AI tools?",
-      "https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 20:56:40",
       "https://news.ycombinator.com/item?id=45077937"
     ],
@@ -117,6 +97,16 @@
     [
       "Are we decentralized yet?",
       "https://arewedecentralizedyet.online/"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 19:14:15",
+      "https://news.ycombinator.com/item?id=45077209"
+    ],
+    [
+      "Anduril's product engineering machine",
+      "https://joincolossus.com/article/the-amusement-park-for-engineers/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Compositional Datalog on SQL: Relational Algebra of the Environment",
       "https://www.philipzucker.com/compose_datalog/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 13:51:14",
+      "https://news.ycombinator.com/item?id=45039666"
+    ],
+    [
+      "Multi-Timer Gizmo",
+      "https://pgadey.ca/notes/multi-timer/"
     ]
   ],
   [
