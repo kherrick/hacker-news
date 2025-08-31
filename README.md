@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-31, 19:04:03](https://news.ycombinator.com/item?id=45086020) - [Eternal Struggle](https://yoavg.github.io/eternal/)
 * [2025-08-31, 18:10:37](https://news.ycombinator.com/item?id=45085446) - [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
 * [2025-08-31, 17:58:07](https://news.ycombinator.com/item?id=45085318) - [Code Is Debt](https://tornikeo.com/code-is-debt/)
 * [2025-08-31, 17:42:43](https://news.ycombinator.com/item?id=45085156) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
@@ -16,7 +17,6 @@
 * [2025-08-31, 15:37:24](https://news.ycombinator.com/item?id=45084016) - [No clicks, no content: The unsustainable future of AI search](https://bradt.ca/blog/no-clicks-no-content/)
 * [2025-08-31, 15:31:04](https://news.ycombinator.com/item?id=45083952) - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 15:19:54](https://news.ycombinator.com/item?id=45083845) - [FDA official demands removal of YouTube videos of himself criticizing vaccines](https://www.theguardian.com/us-news/2025/aug/31/fda-official-youtube-videos)
-* [2025-08-31, 14:41:15](https://news.ycombinator.com/item?id=45083495) - [Replacing a Cache Service with a Database](https://avi.im/blag/2025/db-cache/)
 * [2025-08-31, 13:49:01](https://news.ycombinator.com/item?id=45083134) - [Notes on Managing ADHD](https://borretti.me/article/notes-on-managing-adhd)
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [\"This telegram must be closely paraphrased before being communicated\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 * [2025-08-31, 12:16:00](https://news.ycombinator.com/item?id=45082595) - [F-Droid site certificate expired](https://gitlab.com/fdroid/fdroid-website/-/issues/883)
