@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-08-31, 19:37:08](https://news.ycombinator.com/item?id=45086346) - [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
+* [2025-08-31, 19:08:39](https://news.ycombinator.com/item?id=45086071) - [It's So Easy to Prompt Inject Perplexity Comet](https://news.ycombinator.com/item?id=45086071)
 * [2025-08-31, 19:04:03](https://news.ycombinator.com/item?id=45086020) - [Eternal Struggle](https://yoavg.github.io/eternal/)
 * [2025-08-31, 18:10:37](https://news.ycombinator.com/item?id=45085446) - [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
 * [2025-08-31, 17:58:07](https://news.ycombinator.com/item?id=45085318) - [Code Is Debt](https://tornikeo.com/code-is-debt/)
@@ -14,7 +15,6 @@
 * [2025-08-31, 17:00:06](https://news.ycombinator.com/item?id=45084757) - [Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
 * [2025-08-31, 16:50:45](https://news.ycombinator.com/item?id=45084673) - [I Don't Have Spotify](https://idonthavespotify.sjdonado.com/)
 * [2025-08-31, 16:03:30](https://news.ycombinator.com/item?id=45084193) - [Plastic Before Plastic: How gutta-percha shaped the 19th century](https://worldhistory.substack.com/p/plastic-before-plastic)
-* [2025-08-31, 15:52:14](https://news.ycombinator.com/item?id=45084126) - [Nobody cares about decentralization until they do (2024)](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
 * [2025-08-31, 15:37:24](https://news.ycombinator.com/item?id=45084016) - [No clicks, no content: The unsustainable future of AI search](https://bradt.ca/blog/no-clicks-no-content/)
 * [2025-08-31, 15:31:04](https://news.ycombinator.com/item?id=45083952) - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 13:49:11](https://news.ycombinator.com/item?id=45083135) - [Spacing Over Cards](https://smagin.fyi/posts/padding-over-cards/)
