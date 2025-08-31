@@ -6,6 +6,7 @@
 
 * [2025-08-31, 18:10:37](https://news.ycombinator.com/item?id=45085446) - [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
 * [2025-08-31, 18:04:08](https://news.ycombinator.com/item?id=45085373) - [Mark Zuckerberg's AI dream team seems to be falling apart](https://arstechnica.com/ai/2025/08/zuckerbergs-ai-hires-disrupt-meta-with-swift-exits-and-threats-to-leave/)
+* [2025-08-31, 17:58:07](https://news.ycombinator.com/item?id=45085318) - [Code Is Debt](https://tornikeo.com/code-is-debt/)
 * [2025-08-31, 17:42:43](https://news.ycombinator.com/item?id=45085156) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
 * [2025-08-31, 17:29:07](https://news.ycombinator.com/item?id=45085029) - [Use One Big Server](https://specbranch.com/posts/one-big-server/)
 * [2025-08-31, 17:27:17](https://news.ycombinator.com/item?id=45085014) - [How do you fight YouTube addiction and procrastination? I'm struggling with it](https://news.ycombinator.com/item?id=45085014)

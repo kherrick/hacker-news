@@ -2,11 +2,11 @@
 
 * [2025-08-31, 18:10:37](https://news.ycombinator.com/item?id=45085446) - [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
 * [2025-08-31, 18:04:08](https://news.ycombinator.com/item?id=45085373) - [Mark Zuckerberg's AI dream team seems to be falling apart](https://arstechnica.com/ai/2025/08/zuckerbergs-ai-hires-disrupt-meta-with-swift-exits-and-threats-to-leave/)
+* [2025-08-31, 17:58:07](https://news.ycombinator.com/item?id=45085318) - [Code Is Debt](https://tornikeo.com/code-is-debt/)
 * [2025-08-31, 17:42:43](https://news.ycombinator.com/item?id=45085156) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
-* [2025-08-31, 17:29:07](https://news.ycombinator.com/item?id=45085029) - [Use One Big Server](https://specbranch.com/posts/one-big-server/)
+* [2025-08-31, 17:29:07](https://news.ycombinator.com/item?id=45085029) - [Use One Big Server (2022)](https://specbranch.com/posts/one-big-server/)
 * [2025-08-31, 17:27:17](https://news.ycombinator.com/item?id=45085014) - [How do you fight YouTube addiction and procrastination? I'm struggling with it](https://news.ycombinator.com/item?id=45085014)
 * [2025-08-31, 17:26:03](https://news.ycombinator.com/item?id=45085002) - [A 'Third Way' Between Buying or Renting? Swiss Co-Ops Say They've Found It](https://www.nytimes.com/2025/08/26/realestate/switzerland-rental-coops-nonprofit-lausanne.html)
-* [2025-08-31, 17:15:19](https://news.ycombinator.com/item?id=45084913) - [The Sun Sets on the British Empire](https://oikofuge.com/sun-sets-on-british-empire/)
 * [2025-08-31, 17:00:19](https://news.ycombinator.com/item?id=45084759) - [Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows](https://news.ycombinator.com/item?id=45084759)
 * [2025-08-31, 17:00:06](https://news.ycombinator.com/item?id=45084757) - [Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
 * [2025-08-31, 16:50:45](https://news.ycombinator.com/item?id=45084673) - [I Don't Have Spotify](https://idonthavespotify.sjdonado.com/)
@@ -25,11 +25,11 @@
 * [2025-08-30, 12:58:48](https://news.ycombinator.com/item?id=45074248) - [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-28, 15:50:09](https://news.ycombinator.com/item?id=45053704) - [The Last Vestal Virgin and the Fall of Rome](https://debramaymacleod.com/blog/the-last-vestal-virgin-and-the-fall-of-rome)
+* [2025-08-28, 12:47:17](https://news.ycombinator.com/item?id=45051523) - [ECG Interpretation Tools Compared – Why PMcardio Stands Out](https://www.powerfulmedical.com/blog/ecg-interpretation-tools-compared-why-pmcardio-stands-out/)
 * [2025-08-27, 20:03:20](https://news.ycombinator.com/item?id=45044442) - [Show HN: An ncurses CUDA-based fluid simulation](https://github.com/seanwevans/fluid-sims)
 * [2025-08-27, 18:21:39](https://news.ycombinator.com/item?id=45043126) - [How to run latest Vegas Pro 22 in Windows 7 x64](https://trackerninja.codeberg.page/post/how-to-run-latest-vegas-pro-22-in-windows-7-no-matter-what/)
 * [2025-08-27, 18:08:43](https://news.ycombinator.com/item?id=45042985) - [A 20-Year-Old Algorithm Can Help Us Understand Transformer Embeddings](http://ai.stanford.edu/blog/db-ksvd/)
 * [2025-08-27, 13:39:44](https://news.ycombinator.com/item?id=45039525) - [Bitwig Studio 6 details revealed, and editing gets a big boost](https://cdm.link/bitwig-studio-6-details/)
-* [2025-08-27, 12:10:31](https://news.ycombinator.com/item?id=45038567) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
 
 ## [Archives](archives/index.md)
 

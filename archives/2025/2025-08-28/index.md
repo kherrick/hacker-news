@@ -53,6 +53,7 @@
 * [2025-08-28, 13:15:28](https://news.ycombinator.com/item?id=45051777) - [LLMs solving problems OCR+NLP couldn't](https://cloudsquid.substack.com/p/ocr-is-legacy-tech)
 * [2025-08-28, 12:53:37](https://news.ycombinator.com/item?id=45051584) - [The Cost of Transparency: Living with Schizoaffective Disorder in Tech](https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency)
 * [2025-08-28, 12:49:10](https://news.ycombinator.com/item?id=45051542) - [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
+* [2025-08-28, 12:47:17](https://news.ycombinator.com/item?id=45051523) - [ECG Interpretation Tools Compared – Why PMcardio Stands Out](https://www.powerfulmedical.com/blog/ecg-interpretation-tools-compared-why-pmcardio-stands-out/)
 * [2025-08-28, 12:31:15](https://news.ycombinator.com/item?id=45051361) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-08-28, 12:29:15](https://news.ycombinator.com/item?id=45051345) - [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing)
 * [2025-08-28, 12:10:14](https://news.ycombinator.com/item?id=45051188) - [Rendering an ASCII game in real-time with AI (100ms latency)](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
