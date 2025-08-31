@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-08-31, 03:51:05",
-      "https://news.ycombinator.com/item?id=45080222"
-    ],
-    [
-      "Show HN: Q.js – Smaller than React/Vue, yet more powerful (40KB gzipped)",
-      "https://github.com/Qbix/Q.js"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 03:14:05",
       "https://news.ycombinator.com/item?id=45080051"
     ],
@@ -227,6 +217,16 @@
     [
       "Compositional Datalog on SQL: Relational Algebra of the Environment",
       "https://www.philipzucker.com/compose_datalog/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 15:18:29",
+      "https://news.ycombinator.com/item?id=45040905"
+    ],
+    [
+      "We rebuilt Cloud Life's infrastructure delivery with System Initiative",
+      "https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative"
     ]
   ],
   [
