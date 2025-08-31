@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-08-31, 17:26:03",
+      "https://news.ycombinator.com/item?id=45085002"
+    ],
+    [
+      "A 'Third Way' Between Buying or Renting? Swiss Co-Ops Say They've Found It",
+      "https://www.nytimes.com/2025/08/26/realestate/switzerland-rental-coops-nonprofit-lausanne.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 17:15:19",
+      "https://news.ycombinator.com/item?id=45084913"
+    ],
+    [
+      "The Sun Sets on the British Empire",
+      "https://oikofuge.com/sun-sets-on-british-empire/"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 17:00:19",
+      "https://news.ycombinator.com/item?id=45084759"
+    ],
+    [
+      "Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows",
+      "https://news.ycombinator.com/item?id=45084759"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 17:00:06",
       "https://news.ycombinator.com/item?id=45084757"
     ],
     [
       "Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack",
       "https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 16:50:45",
+      "https://news.ycombinator.com/item?id=45084673"
+    ],
+    [
+      "I Don't Have Spotify",
+      "https://idonthavespotify.sjdonado.com/"
     ]
   ],
   [
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45084016"
     ],
     [
-      "No Clicks, No Content: The Unsustainable Future of AI Search",
+      "No clicks, no content: The unsustainable future of AI search",
       "https://bradt.ca/blog/no-clicks-no-content/"
     ]
   ],
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2025-08-30, 16:15:44",
-      "https://news.ycombinator.com/item?id=45075813"
-    ],
-    [
-      "New research reveals longevity gains slowing, life expectancy of 100 unlikely",
-      "https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 14:38:33",
       "https://news.ycombinator.com/item?id=45075048"
     ],
@@ -201,31 +231,11 @@
   ],
   [
     [
-      "2025-08-30, 12:03:09",
-      "https://news.ycombinator.com/item?id=45073902"
-    ],
-    [
-      "Is it possible to allow sideloading and keep users safe?",
-      "https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 21:57:40",
-      "https://news.ycombinator.com/item?id=45057513"
-    ],
-    [
-      "An eyecare foundation model for clinical assistance",
-      "https://www.nature.com/articles/s41591-025-03900-7"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 15:55:15",
       "https://news.ycombinator.com/item?id=45053764"
     ],
     [
-      "Vibe Coding as a Coding Veteran. From 8-Bit Assembly to English-as-Code",
+      "Vibe coding as a coding veteran: from 8-bit assembly to English-as-code",
       "https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "A 20-Year-Old Algorithm Can Help Us Understand Transformer Embeddings",
       "http://ai.stanford.edu/blog/db-ksvd/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 14:34:13",
-      "https://news.ycombinator.com/item?id=45040290"
-    ],
-    [
-      "Shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
-      "https://snf.github.io/2019/02/13/shared-ptr-optimization/"
     ]
   ],
   [
