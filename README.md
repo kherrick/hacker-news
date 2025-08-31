@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-08-31, 05:35:59](https://news.ycombinator.com/item?id=45080618) - [Rick Beato Is Right to Rant About Music Copyright Strikes](https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/)
 * [2025-08-31, 05:13:05](https://news.ycombinator.com/item?id=45080538) - [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
 * [2025-08-31, 04:31:29](https://news.ycombinator.com/item?id=45080388) - [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
 * [2025-08-31, 04:21:06](https://news.ycombinator.com/item?id=45080351) - [Josef Bacik Leaving Meta and Stepping Back from Kernel Development](https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta)
@@ -28,7 +29,6 @@
 * [2025-08-27, 11:00:45](https://news.ycombinator.com/item?id=45037940) - [Pig lung transplanted into a human](https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first)
 * [2025-08-27, 07:16:46](https://news.ycombinator.com/item?id=45036418) - [Terminal sessions you can bookmark](https://poor.dev/blog/building-zellij-web-terminal/)
 * [2025-08-27, 04:59:08](https://news.ycombinator.com/item?id=45035618) - [SQL Design Patterns](https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/)
-* [2025-08-27, 03:04:43](https://news.ycombinator.com/item?id=45035021) - [A24's Empire of Auteurs](https://www.newyorker.com/magazine/2025/09/01/a24s-empire-of-auteurs)
 * [2025-08-26, 17:58:24](https://news.ycombinator.com/item?id=45030038) - [15-Fold increase in solar thermoelectric generator performance](https://www.nature.com/articles/s41377-025-01916-9)
 
 ## [Archives](archives/index.md)
