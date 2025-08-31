@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-08-30, 13:07:41",
-      "https://news.ycombinator.com/item?id=45074312"
-    ],
-    [
-      "Bcachefs Goes to \"Externally Maintained\"",
-      "https://lwn.net/Articles/1035736/"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 12:58:48",
       "https://news.ycombinator.com/item?id=45074248"
     ],
@@ -237,6 +227,16 @@
     [
       "Show HN: An ncurses CUDA-based fluid simulation",
       "https://github.com/seanwevans/fluid-sims"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 18:08:43",
+      "https://news.ycombinator.com/item?id=45042985"
+    ],
+    [
+      "A 20-Year-Old Algorithm Can Help Us Understand Transformer Embeddings",
+      "http://ai.stanford.edu/blog/db-ksvd/"
     ]
   ],
   [
