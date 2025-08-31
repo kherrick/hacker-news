@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 14:55:56](https://news.ycombinator.com/item?id=45083635) - [Older developers are down with the vibe coding vibe](https://www.theregister.com/2025/08/28/older_developers_ai_code/)
+* [2025-08-31, 14:41:15](https://news.ycombinator.com/item?id=45083495) - [Replacing a Cache Service with a Database](https://avi.im/blag/2025/db-cache/)
 * [2025-08-31, 13:32:27](https://news.ycombinator.com/item?id=45083038) - [AI is just a next evolution of the computer](https://www.vincirufus.com/posts/ai-next-evolution-of-computers/)
 * [2025-08-31, 12:44:26](https://news.ycombinator.com/item?id=45082750) - [Google: 'Your $1000 phone needs our permission to install apps now' [video]](https://www.youtube.com/watch?v=QBEKlIV_70E)
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [\"This telegram must be closely paraphrased before being communicated\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
