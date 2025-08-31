@@ -1,0 +1,8 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-08-31](index.md)
+
+* [2025-08-31, 01:31:07](https://news.ycombinator.com/item?id=45079532) - [ETFs now hold more than $3.1T worth of just top US companies](https://www.signalbloom.ai/etf/stats)
+* [2025-08-31, 00:51:24](https://news.ycombinator.com/item?id=45079365) - [Scottish brothers finish mammoth row across Pacific Ocean after 139 days](https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488)

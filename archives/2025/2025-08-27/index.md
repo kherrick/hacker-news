@@ -12,6 +12,7 @@
 * [2025-08-27, 21:08:49](https://news.ycombinator.com/item?id=45045307) - [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
 * [2025-08-27, 20:53:51](https://news.ycombinator.com/item?id=45045116) - [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
 * [2025-08-27, 20:39:48](https://news.ycombinator.com/item?id=45044919) - [Ask HN: GitHub Copilot Down?](https://news.ycombinator.com/item?id=45044919)
+* [2025-08-27, 20:09:50](https://news.ycombinator.com/item?id=45044525) - [Compositional Datalog on SQL: Relational Algebra of the Environment](https://www.philipzucker.com/compose_datalog/)
 * [2025-08-27, 20:03:01](https://news.ycombinator.com/item?id=45044440) - [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
 * [2025-08-27, 19:44:12](https://news.ycombinator.com/item?id=45044168) - [Mapping Connections of Anti-Offshore Wind Groups and Their Lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
 * [2025-08-27, 19:43:22](https://news.ycombinator.com/item?id=45044155) - [Andrew Ng says bottleneck in AI startups isn't coding – it's product management](https://www.businessinsider.com/andrew-ng-product-management-bottleneck-coding-ai-startups-2025-8)
