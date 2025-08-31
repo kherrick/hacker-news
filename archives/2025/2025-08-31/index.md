@@ -11,6 +11,7 @@
 * [2025-08-31, 05:13:05](https://news.ycombinator.com/item?id=45080538) - [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
 * [2025-08-31, 04:31:29](https://news.ycombinator.com/item?id=45080388) - [Sheafification - The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
 * [2025-08-31, 04:21:06](https://news.ycombinator.com/item?id=45080351) - [Josef Bacik Leaving Meta and Stepping Back from Kernel Development](https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta)
+* [2025-08-31, 03:51:05](https://news.ycombinator.com/item?id=45080222) - [Show HN: Q.js – Smaller than React/Vue, yet more powerful (40KB gzipped)](https://github.com/Qbix/Q.js)
 * [2025-08-31, 03:14:05](https://news.ycombinator.com/item?id=45080051) - [Red is a next-generation programming language strongly inspired by REBOL](https://github.com/red/red)
 * [2025-08-31, 02:58:32](https://news.ycombinator.com/item?id=45079962) - [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
 * [2025-08-31, 02:47:47](https://news.ycombinator.com/item?id=45079911) - [Are people's bosses making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
