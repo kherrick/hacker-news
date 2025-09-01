@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 21:03:51](https://news.ycombinator.com/item?id=45096585) - [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
 * [2025-09-01, 20:30:23](https://news.ycombinator.com/item?id=45096359) - [Gaza: AI Human Laboratory](https://www.thecairoreview.com/essays/gaza-israels-ai-human-laboratory/)
 * [2025-09-01, 20:17:45](https://news.ycombinator.com/item?id=45096254) - [The Physics of Sales](https://howtogrow.substack.com/p/the-physics-of-sales)
 * [2025-09-01, 20:09:49](https://news.ycombinator.com/item?id=45096186) - [Desiccant dehumidifiers are fascinating but not for everyone [video]](https://www.youtube.com/watch?v=JzClLWL-Eys)
