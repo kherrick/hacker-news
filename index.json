@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-01, 14:49:25",
+      "https://news.ycombinator.com/item?id=45093090"
+    ],
+    [
+      "Cloudflare Radar: AI Insights",
+      "https://radar.cloudflare.com/ai-insights"
+    ]
+  ],
+  [
+    [
       "2025-09-01, 14:27:17",
       "https://news.ycombinator.com/item?id=45092925"
     ],
@@ -37,6 +47,26 @@
     [
       "Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems",
       "https://github.com/gargakshit/zfsbackrest"
+    ]
+  ],
+  [
+    [
+      "2025-09-01, 13:17:56",
+      "https://news.ycombinator.com/item?id=45092490"
+    ],
+    [
+      "Bear is now source-available",
+      "https://herman.bearblog.dev/license/"
+    ]
+  ],
+  [
+    [
+      "2025-09-01, 12:49:57",
+      "https://news.ycombinator.com/item?id=45092324"
+    ],
+    [
+      "Tetris is NP-hard even with O(1) rows or columns [pdf]",
+      "https://martindemaine.org/papers/ThinTetris_JIP/paper.pdf"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-08-31, 23:21:46",
-      "https://news.ycombinator.com/item?id=45087971"
-    ],
-    [
-      "Nintendo Switch 2 Dock USB-C Compatibility",
-      "https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 22:54:26",
       "https://news.ycombinator.com/item?id=45087815"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-08-31, 19:22:01",
-      "https://news.ycombinator.com/item?id=45086210"
-    ],
-    [
-      "What to do with C++ modules?",
-      "https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 19:04:03",
       "https://news.ycombinator.com/item?id=45086020"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2025-08-31, 17:15:19",
-      "https://news.ycombinator.com/item?id=45084913"
-    ],
-    [
-      "When the sun will literally set on what's left of the British Empire",
-      "https://oikofuge.com/sun-sets-on-british-empire/"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 15:31:04",
       "https://news.ycombinator.com/item?id=45083952"
     ],
     [
       "Jujutsu for everyone",
       "https://jj-for-everyone.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 14:55:56",
-      "https://news.ycombinator.com/item?id=45083635"
-    ],
-    [
-      "Survey: a third of senior developers say over half their code is AI-generated",
-      "https://www.fastly.com/blog/senior-developers-ship-more-ai-code"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "The Qweremin",
       "https://www.linusakesson.net/qweremin/index.php"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 07:52:54",
+      "https://news.ycombinator.com/item?id=45061376"
+    ],
+    [
+      "India's billion-dollar e-waste empire",
+      "https://restofworld.org/2025/india-e-waste-recycling-electronics/"
     ]
   ],
   [
