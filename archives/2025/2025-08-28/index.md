@@ -56,6 +56,7 @@
 * [2025-08-28, 13:54:50](https://news.ycombinator.com/item?id=45052242) - [US to put economic data on 9 blockchains](https://www.bloomberg.com/news/articles/2025-08-28/us-puts-gdp-data-on-the-blockchain-in-trump-crypto-push)
 * [2025-08-28, 13:51:51](https://news.ycombinator.com/item?id=45052200) - [Show HN: SwiftAI – open-source library to easily build LLM features on iOS/macOS](https://github.com/mi12labs/SwiftAI)
 * [2025-08-28, 13:51:05](https://news.ycombinator.com/item?id=45052191) - [Bayes, Bits and Brains](https://bayesbitsbrains.github.io/)
+* [2025-08-28, 13:32:17](https://news.ycombinator.com/item?id=45051950) - [Hobbyist Maintainers with Thomas DePierre](https://opensourcesecurity.io/2025/2025-06-hobbyist-thomas-depierre/)
 * [2025-08-28, 13:17:15](https://news.ycombinator.com/item?id=45051798) - [The sisters \"paradox\" – counter-intuitive probability](https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html)
 * [2025-08-28, 13:15:28](https://news.ycombinator.com/item?id=45051777) - [LLMs solving problems OCR+NLP couldn't](https://cloudsquid.substack.com/p/ocr-is-legacy-tech)
 * [2025-08-28, 12:53:37](https://news.ycombinator.com/item?id=45051584) - [The Cost of Transparency: Living with Schizoaffective Disorder in Tech](https://kennethreitz.org/essays/2025-08-27-the_cost_of_transparency)
