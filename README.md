@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-01, 08:54:59](https://news.ycombinator.com/item?id=45090872) - [Show HN: Use \"-f**k\" to kill Google AI Overview](https://news.ycombinator.com/item?id=45090872)
+* [2025-09-01, 08:54:59](https://news.ycombinator.com/item?id=45090872) - [Tell HN: Use \"-f**k\" to kill Google AI Overview](https://news.ycombinator.com/item?id=45090872)
 * [2025-09-01, 07:01:13](https://news.ycombinator.com/item?id=45090216) - [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
 * [2025-09-01, 03:45:33](https://news.ycombinator.com/item?id=45089256) - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
 * [2025-08-31, 23:21:46](https://news.ycombinator.com/item?id=45087971) - [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
