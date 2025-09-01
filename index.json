@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-01, 15:37:10",
+      "https://news.ycombinator.com/item?id=45093590"
+    ],
+    [
+      "Isolated(any)",
+      "https://nshipster.com/isolated-any/"
+    ]
+  ],
+  [
+    [
       "2025-09-01, 14:49:25",
       "https://news.ycombinator.com/item?id=45093090"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45092925"
     ],
     [
-      "\"Turns out Google made up an elaborate story about me\"",
+      "Turns out Google made up an elaborate story about me",
       "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems",
       "https://github.com/gargakshit/zfsbackrest"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 13:17:56",
-      "https://news.ycombinator.com/item?id=45092490"
-    ],
-    [
-      "Bear is now source-available",
-      "https://herman.bearblog.dev/license/"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2025-08-31, 15:31:04",
-      "https://news.ycombinator.com/item?id=45083952"
-    ],
-    [
-      "Jujutsu for everyone",
-      "https://jj-for-everyone.github.io/"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 07:52:54",
       "https://news.ycombinator.com/item?id=45061376"
     ],
     [
       "India's billion-dollar e-waste empire",
       "https://restofworld.org/2025/india-e-waste-recycling-electronics/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 02:15:21",
+      "https://news.ycombinator.com/item?id=45059295"
+    ],
+    [
+      "Compiling Dinner",
+      "https://gist.github.com/breadchris/5877d1ab8381526bb81b551ffd5d1768"
     ]
   ],
   [
