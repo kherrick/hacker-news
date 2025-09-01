@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
 * [2025-09-01, 09:52:03](https://news.ycombinator.com/item?id=45091202) - [De-Googling TOTP Authenticator Codes](https://imrannazar.com/articles/degoogle-otp)
 * [2025-09-01, 09:40:47](https://news.ycombinator.com/item?id=45091119) - [National Grid: UK's largest battery storage facility at Tilbury substation](https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation)
 * [2025-09-01, 08:54:59](https://news.ycombinator.com/item?id=45090872) - [Show HN: Use \"-f**k\" to kill Google AI Overview](https://news.ycombinator.com/item?id=45090872)
