@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-01, 19:04:31](https://news.ycombinator.com/item?id=45095603) - [Amazon has mostly sat out the AI talent war. This internal document reveals why](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
+* [2025-09-01, 19:04:31](https://news.ycombinator.com/item?id=45095603) - [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
+* [2025-09-01, 18:56:39](https://news.ycombinator.com/item?id=45095545) - [Thoughts on (Amazonian) Leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
 * [2025-09-01, 18:48:22](https://news.ycombinator.com/item?id=45095475) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
 * [2025-09-01, 18:47:21](https://news.ycombinator.com/item?id=45095460) - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
 * [2025-09-01, 18:04:37](https://news.ycombinator.com/item?id=45095079) - [Territorial Markings as a Predictor of Driver Aggression and Road Rage (2008)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2008.00364.x?prevSearch=allfield%3A%28szlemko%29)
@@ -22,7 +23,6 @@
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 12:49:57](https://news.ycombinator.com/item?id=45092324) - [Tetris is NP-hard even with O(1) rows or columns (2020) [pdf]](https://martindemaine.org/papers/ThinTetris_JIP/paper.pdf)
 * [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods trunk read-only plan](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
-* [2025-09-01, 09:40:47](https://news.ycombinator.com/item?id=45091119) - [UK's largest battery storage facility at Tilbury substation](https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation)
 * [2025-09-01, 06:14:31](https://news.ycombinator.com/item?id=45089938) - [Preserving Order in Concurrent Go Apps: Three Approaches Compared](https://destel.dev/blog/preserving-order-in-concurrent-go)
 * [2025-08-29, 07:52:54](https://news.ycombinator.com/item?id=45061376) - [India's billion-dollar e-waste empire](https://restofworld.org/2025/india-e-waste-recycling-electronics/)
 * [2025-08-29, 03:38:35](https://news.ycombinator.com/item?id=45059888) - [An adventure in writing compatible systems](https://turso.tech/blog/an-adventure-in-writing-compatible-systems)
