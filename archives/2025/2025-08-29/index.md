@@ -61,5 +61,6 @@
 * [2025-08-29, 03:36:29](https://news.ycombinator.com/item?id=45059872) - [People Are the Point](https://whatwelost.substack.com/p/people-are-the-point)
 * [2025-08-29, 02:39:44](https://news.ycombinator.com/item?id=45059470) - [A Deep Dive into Debian 13 /tmp: What's New, and What to Do If You Don't Like It](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
 * [2025-08-29, 02:15:21](https://news.ycombinator.com/item?id=45059295) - [Compiling Dinner](https://gist.github.com/breadchris/5877d1ab8381526bb81b551ffd5d1768)
+* [2025-08-29, 02:12:25](https://news.ycombinator.com/item?id=45059272) - [Can You Develop Film in a Jägerbomb?](https://petapixel.com/2025/08/04/can-you-develop-film-in-a-jagerbomb/)
 * [2025-08-29, 01:55:14](https://news.ycombinator.com/item?id=45059160) - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
 * [2025-08-29, 00:44:27](https://news.ycombinator.com/item?id=45058688) - [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)

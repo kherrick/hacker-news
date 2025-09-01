@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 18:04:37](https://news.ycombinator.com/item?id=45095079) - [Territorial Markings as a Predictor of Driver Aggression and Road Rage (2008)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2008.00364.x?prevSearch=allfield%3A%28szlemko%29)
+* [2025-09-01, 17:51:27](https://news.ycombinator.com/item?id=45094953) - [The Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
+* [2025-09-01, 17:49:20](https://news.ycombinator.com/item?id=45094936) - [Show HN: woomarks, transfer your Pocket links to this app or self-host it](https://woomarks.com)
 * [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
 * [2025-09-01, 16:57:38](https://news.ycombinator.com/item?id=45094421) - [93% of GPT-4 performance at 1/4 cost: LLM routing with weak bandit feedback](https://arxiv.org/abs/2508.21141)
 * [2025-09-01, 16:51:14](https://news.ycombinator.com/item?id=45094351) - [The Car Is Not the Future: On the Myth of Motorized Freedom](https://blog.scaramuzza.me/articles/the_car_is_not_the_future.html)
+* [2025-09-01, 16:40:24](https://news.ycombinator.com/item?id=45094256) - [Lessons from building an AI data analyst](https://www.pedronasc.com/articles/lessons-building-ai-data-analyst)
 * [2025-09-01, 16:32:58](https://news.ycombinator.com/item?id=45094165) - [Israel committing genocide in Gaza, scholars group says](https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says)
 * [2025-09-01, 16:32:25](https://news.ycombinator.com/item?id=45094156) - [AI couldn't build my iPhone podcast app](https://beard.fm/blog/ai-failed-my-podcast-app)
 * [2025-09-01, 16:13:04](https://news.ycombinator.com/item?id=45093956) - [A Unique, High-Tech (Family) Computer](https://nicole.express/2025/a-computer-in-your-home.html)
