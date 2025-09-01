@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
 * [2025-09-01, 15:47:56](https://news.ycombinator.com/item?id=45093693) - [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
+* [2025-09-01, 15:37:10](https://news.ycombinator.com/item?id=45093590) - [Isolated(any)](https://nshipster.com/isolated-any/)
 * [2025-09-01, 14:49:25](https://news.ycombinator.com/item?id=45093090) - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
 * [2025-09-01, 14:43:37](https://news.ycombinator.com/item?id=45093022) - [Effective learning: Twenty rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
 * [2025-09-01, 14:30:50](https://news.ycombinator.com/item?id=45092942) - [Hackers demand Google fire 2 staff and halt probes, or they will leak databases](https://www.newsweek.com/hackers-issue-ultimatum-data-breach-2122489)
