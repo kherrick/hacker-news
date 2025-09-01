@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-01, 21:54:56](https://news.ycombinator.com/item?id=45096962) - [Don't Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 * [2025-09-01, 21:03:51](https://news.ycombinator.com/item?id=45096585) - [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
-* [2025-09-01, 20:17:45](https://news.ycombinator.com/item?id=45096254) - [The Physics of Sales](https://howtogrow.substack.com/p/the-physics-of-sales)
-* [2025-09-01, 20:08:34](https://news.ycombinator.com/item?id=45096173) - [Desert Graves](https://www.desertmountaineer.com/2021/08/06/graves/)
+* [2025-09-01, 20:17:45](https://news.ycombinator.com/item?id=45096254) - [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
+* [2025-09-01, 20:08:34](https://news.ycombinator.com/item?id=45096173) - [Desert Graves (2021)](https://www.desertmountaineer.com/2021/08/06/graves/)
 * [2025-09-01, 20:05:38](https://news.ycombinator.com/item?id=45096140) - [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
 * [2025-09-01, 19:32:17](https://news.ycombinator.com/item?id=45095849) - [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
 * [2025-09-01, 19:22:12](https://news.ycombinator.com/item?id=45095763) - [SparseLoCo: Communication-Efficient LLM Training](https://arxiv.org/abs/2508.15706)
@@ -11,7 +12,6 @@
 * [2025-09-01, 18:48:22](https://news.ycombinator.com/item?id=45095475) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
 * [2025-09-01, 18:47:21](https://news.ycombinator.com/item?id=45095460) - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
 * [2025-09-01, 17:51:27](https://news.ycombinator.com/item?id=45094953) - [Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
-* [2025-09-01, 17:49:20](https://news.ycombinator.com/item?id=45094936) - [Show HN: Woomarks, transfer your Pocket links to this app or self-host it](https://woomarks.com)
 * [2025-09-01, 17:25:08](https://news.ycombinator.com/item?id=45094692) - [One of Britain's largest stocks of second-hand books ever amassed](https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire)
 * [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
 * [2025-09-01, 16:57:38](https://news.ycombinator.com/item?id=45094421) - [Adaptive LLM routing under budget constraints](https://arxiv.org/abs/2508.21141)
@@ -24,12 +24,12 @@
 * [2025-09-01, 14:27:17](https://news.ycombinator.com/item?id=45092925) - [Google AI Overview made up an elaborate story about me](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods trunk read-only plan](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
-* [2025-08-29, 03:38:35](https://news.ycombinator.com/item?id=45059888) - [An adventure in writing compatible systems](https://turso.tech/blog/an-adventure-in-writing-compatible-systems)
 * [2025-08-28, 23:37:13](https://news.ycombinator.com/item?id=45058246) - [F1 in Hungary: Strategy and fast tire changes make all the difference](https://arstechnica.com/cars/2025/08/f1-in-hungary-strategy-and-fast-tire-changes-make-all-the-difference/)
 * [2025-08-28, 22:57:45](https://news.ycombinator.com/item?id=45057974) - [The ABC Programming Language](https://homepages.cwi.nl/~steven/abc/)
 * [2025-08-28, 22:25:10](https://news.ycombinator.com/item?id=45057734) - [A review of Nim 2: The good and bad with example code](https://miguel-martin.com/blog/nim2-review)
 * [2025-08-28, 19:58:49](https://news.ycombinator.com/item?id=45056377) - [Python: The Documentary – An origin story [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 * [2025-08-28, 18:12:34](https://news.ycombinator.com/item?id=45055205) - [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
+* [2025-08-24, 22:23:53](https://news.ycombinator.com/item?id=45008337) - [Through the Liquid Glass](https://www.flarup.email/p/through-the-liquid-glass)
 
 ## [Archives](archives/index.md)
 
