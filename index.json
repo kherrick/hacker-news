@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-01, 03:45:33",
+      "https://news.ycombinator.com/item?id=45089256"
+    ],
+    [
+      "What Is Complexity in Chess?",
+      "https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 23:21:46",
       "https://news.ycombinator.com/item?id=45087971"
     ],
     [
       "Nintendo Switch 2 Dock USB-C Compatibility",
       "https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 23:09:19",
+      "https://news.ycombinator.com/item?id=45087905"
+    ],
+    [
+      "Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code",
+      "https://github.com/therepanic/spotilyrics"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Installing UEFI Firmware on ARM SBCs",
       "https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 19:29:23",
-      "https://news.ycombinator.com/item?id=45086276"
-    ],
-    [
-      "New Ruby Curl bindings with Fiber native support",
-      "https://github.com/taf2/curb/blob/master/ChangeLog.md"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "“This telegram must be closely paraphrased before being communicated to anyone”",
       "https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 12:16:00",
-      "https://news.ycombinator.com/item?id=45082595"
-    ],
-    [
-      "F-Droid site certificate expired",
-      "https://gitlab.com/fdroid/fdroid-website/-/issues/883"
     ]
   ],
   [
