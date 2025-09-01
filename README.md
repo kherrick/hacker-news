@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-01, 07:01:13](https://news.ycombinator.com/item?id=45090216) - [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
-* [2025-09-01, 06:25:04](https://news.ycombinator.com/item?id=45090007) - [Catholic churches in France have a bad landlord: the French government](https://thecatholicherald.com/article/catholic-churches-in-france-suffer-from-a-bad-landlord-the-french-government)
 * [2025-09-01, 03:45:33](https://news.ycombinator.com/item?id=45089256) - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
 * [2025-08-31, 23:21:46](https://news.ycombinator.com/item?id=45087971) - [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
 * [2025-08-31, 23:09:19](https://news.ycombinator.com/item?id=45087905) - [Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code](https://github.com/therepanic/spotilyrics)
@@ -16,6 +15,7 @@
 * [2025-08-31, 17:29:07](https://news.ycombinator.com/item?id=45085029) - [Use One Big Server (2022)](https://specbranch.com/posts/one-big-server/)
 * [2025-08-31, 17:15:19](https://news.ycombinator.com/item?id=45084913) - [When the sun will literally set on what's left of the British Empire](https://oikofuge.com/sun-sets-on-british-empire/)
 * [2025-08-31, 17:00:19](https://news.ycombinator.com/item?id=45084759) - [Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows](https://news.ycombinator.com/item?id=45084759)
+* [2025-08-31, 16:03:30](https://news.ycombinator.com/item?id=45084193) - [Plastic Before Plastic: How gutta-percha shaped the 19th century](https://worldhistory.substack.com/p/plastic-before-plastic)
 * [2025-08-31, 15:31:04](https://news.ycombinator.com/item?id=45083952) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 14:55:56](https://news.ycombinator.com/item?id=45083635) - [Survey: a third of senior developers say over half their code is AI-generated](https://www.fastly.com/blog/senior-developers-ship-more-ai-code)
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [“This telegram must be closely paraphrased before being communicated to anyone”](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
