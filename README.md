@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-01, 19:04:31](https://news.ycombinator.com/item?id=45095603) - [Amazon has mostly sat out the AI talent war. This internal document reveals why](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
+* [2025-09-01, 18:48:22](https://news.ycombinator.com/item?id=45095475) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
 * [2025-09-01, 18:47:21](https://news.ycombinator.com/item?id=45095460) - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
 * [2025-09-01, 18:04:37](https://news.ycombinator.com/item?id=45095079) - [Territorial Markings as a Predictor of Driver Aggression and Road Rage (2008)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2008.00364.x?prevSearch=allfield%3A%28szlemko%29)
 * [2025-09-01, 17:51:27](https://news.ycombinator.com/item?id=45094953) - [The Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
@@ -18,7 +19,6 @@
 * [2025-09-01, 14:43:37](https://news.ycombinator.com/item?id=45093022) - [Effective learning: Rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
 * [2025-09-01, 14:27:17](https://news.ycombinator.com/item?id=45092925) - [Google AI Overview made up an elaborate story about me](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
 * [2025-09-01, 14:21:12](https://news.ycombinator.com/item?id=45092880) - [AI enters the grant game, picking winners](https://www.science.org/content/article/ai-enters-grant-game-picking-winners)
-* [2025-09-01, 13:35:52](https://news.ycombinator.com/item?id=45092605) - [Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 12:49:57](https://news.ycombinator.com/item?id=45092324) - [Tetris is NP-hard even with O(1) rows or columns (2020) [pdf]](https://martindemaine.org/papers/ThinTetris_JIP/paper.pdf)
 * [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods trunk read-only plan](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
