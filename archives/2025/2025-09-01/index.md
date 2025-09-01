@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
+* [2025-09-01, 16:51:14](https://news.ycombinator.com/item?id=45094351) - [The Car Is Not the Future: On the Myth of Motorized Freedom](https://blog.scaramuzza.me/articles/the_car_is_not_the_future.html)
 * [2025-09-01, 16:32:58](https://news.ycombinator.com/item?id=45094165) - [Israel committing genocide in Gaza, scholars group says](https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says)
+* [2025-09-01, 16:32:25](https://news.ycombinator.com/item?id=45094156) - [AI couldn't build my iPhone podcast app](https://beard.fm/blog/ai-failed-my-podcast-app)
 * [2025-09-01, 16:13:04](https://news.ycombinator.com/item?id=45093956) - [A Unique, High-Tech (Family) Computer](https://nicole.express/2025/a-computer-in-your-home.html)
 * [2025-09-01, 15:54:24](https://news.ycombinator.com/item?id=45093765) - [The time picker on the iPhone's alarm app isn't circular, it's just a long list](https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/)
 * [2025-09-01, 15:47:56](https://news.ycombinator.com/item?id=45093693) - [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
