@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 20:05:38](https://news.ycombinator.com/item?id=45096140) - [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
 * [2025-09-01, 19:32:17](https://news.ycombinator.com/item?id=45095849) - [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
 * [2025-09-01, 19:22:12](https://news.ycombinator.com/item?id=45095763) - [SparseLoCo: Communication-Efficient LLM Training](https://arxiv.org/abs/2508.15706)
 * [2025-09-01, 19:04:31](https://news.ycombinator.com/item?id=45095603) - [Amazon has mostly sat out the AI talent war. This internal document reveals why](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)

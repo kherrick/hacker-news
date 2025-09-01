@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-01, 20:05:38](https://news.ycombinator.com/item?id=45096140) - [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
 * [2025-09-01, 19:32:17](https://news.ycombinator.com/item?id=45095849) - [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
 * [2025-09-01, 19:22:12](https://news.ycombinator.com/item?id=45095763) - [SparseLoCo: Communication-Efficient LLM Training](https://arxiv.org/abs/2508.15706)
 * [2025-09-01, 19:04:31](https://news.ycombinator.com/item?id=45095603) - [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
@@ -7,7 +8,6 @@
 * [2025-09-01, 18:48:22](https://news.ycombinator.com/item?id=45095475) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
 * [2025-09-01, 18:47:21](https://news.ycombinator.com/item?id=45095460) - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
 * [2025-09-01, 18:04:37](https://news.ycombinator.com/item?id=45095079) - [Territorial Markings as a Predictor of Driver Aggression and Road Rage (2008)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2008.00364.x?prevSearch=allfield%3A%28szlemko%29)
-* [2025-09-01, 17:51:27](https://news.ycombinator.com/item?id=45094953) - [Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
 * [2025-09-01, 17:49:20](https://news.ycombinator.com/item?id=45094936) - [Show HN: woomarks, transfer your Pocket links to this app or self-host it](https://woomarks.com)
 * [2025-09-01, 17:25:08](https://news.ycombinator.com/item?id=45094692) - [One of Britain's largest stocks of second-hand books ever amassed](https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire)
 * [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
