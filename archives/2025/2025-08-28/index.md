@@ -10,6 +10,7 @@
 * [2025-08-28, 23:27:27](https://news.ycombinator.com/item?id=45058171) - [Python: The Documentary [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 * [2025-08-28, 23:04:01](https://news.ycombinator.com/item?id=45058024) - [RSS Is Awesome](https://evanverma.com/rss-is-awesome)
 * [2025-08-28, 22:31:13](https://news.ycombinator.com/item?id=45057781) - [Every industry is an overcrowded airport lounge now](https://quoththeraven.substack.com/p/every-industry-is-an-overcrowded)
+* [2025-08-28, 22:25:10](https://news.ycombinator.com/item?id=45057734) - [A Review of Nim 2: The Good and Bad with Example Code](https://miguel-martin.com/blog/nim2-review)
 * [2025-08-28, 22:02:28](https://news.ycombinator.com/item?id=45057561) - [Rupert's Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
 * [2025-08-28, 21:57:40](https://news.ycombinator.com/item?id=45057513) - [An eyecare foundation model for clinical assistance](https://www.nature.com/articles/s41591-025-03900-7)
 * [2025-08-28, 21:44:47](https://news.ycombinator.com/item?id=45057404) - [Death by PowerPoint: the slide that killed seven people](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)

@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-01, 09:52:03](https://news.ycombinator.com/item?id=45091202) - [De-Googling TOTP Authenticator Codes](https://imrannazar.com/articles/degoogle-otp)
 * [2025-09-01, 09:40:47](https://news.ycombinator.com/item?id=45091119) - [National Grid: UK's largest battery storage facility at Tilbury substation](https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation)
 * [2025-09-01, 07:01:13](https://news.ycombinator.com/item?id=45090216) - [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
 * [2025-09-01, 03:45:33](https://news.ycombinator.com/item?id=45089256) - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
@@ -15,6 +14,7 @@
 * [2025-08-31, 17:29:07](https://news.ycombinator.com/item?id=45085029) - [Use One Big Server (2022)](https://specbranch.com/posts/one-big-server/)
 * [2025-08-31, 17:15:19](https://news.ycombinator.com/item?id=45084913) - [When the sun will literally set on what's left of the British Empire](https://oikofuge.com/sun-sets-on-british-empire/)
 * [2025-08-31, 17:00:19](https://news.ycombinator.com/item?id=45084759) - [Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows](https://news.ycombinator.com/item?id=45084759)
+* [2025-08-31, 16:03:30](https://news.ycombinator.com/item?id=45084193) - [Plastic Before Plastic: How gutta-percha shaped the 19th century](https://worldhistory.substack.com/p/plastic-before-plastic)
 * [2025-08-31, 15:31:04](https://news.ycombinator.com/item?id=45083952) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 14:55:56](https://news.ycombinator.com/item?id=45083635) - [Survey: a third of senior developers say over half their code is AI-generated](https://www.fastly.com/blog/senior-developers-ship-more-ai-code)
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [“This telegram must be closely paraphrased before being communicated to anyone”](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
@@ -23,12 +23,12 @@
 * [2025-08-29, 08:45:21](https://news.ycombinator.com/item?id=45061702) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-08-28, 23:52:48](https://news.ycombinator.com/item?id=45058349) - [Ford and the Birth of the Model T](https://www.construction-physics.com/p/ford-and-the-birth-of-the-model-t)
 * [2025-08-28, 23:30:48](https://news.ycombinator.com/item?id=45058187) - [Mainframe upgrade done with wire cutters (2010)](https://alt.folklore.computers.narkive.com/nZagiUHj/mainframe-upgrade-done-with-wire-cutters)
+* [2025-08-28, 22:25:10](https://news.ycombinator.com/item?id=45057734) - [A Review of Nim 2: The Good and Bad with Example Code](https://miguel-martin.com/blog/nim2-review)
 * [2025-08-28, 16:29:31](https://news.ycombinator.com/item?id=45054119) - [Pong Clock](https://bigjobby.com/pong/?v=2.0/)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-28, 15:47:19](https://news.ycombinator.com/item?id=45053672) - [Bidirectional Signals from the Emitter's Perspective in PHP](https://medium.com/@MortezaPoussane/a-new-observer-pattern-bidirectional-signals-from-the-emitters-perspective-in-php-d8a555939e15)
 * [2025-08-28, 14:54:37](https://news.ycombinator.com/item?id=45052960) - [C++: Strongly Happens Before?](https://nekrozqliphort.github.io/posts/happens-b4/)
 * [2025-08-28, 13:51:05](https://news.ycombinator.com/item?id=45052191) - [Bayes, Bits and Brains](https://bayesbitsbrains.github.io/)
-* [2025-08-28, 13:32:17](https://news.ycombinator.com/item?id=45051950) - [Hobbyist Maintainers with Thomas DePierre](https://opensourcesecurity.io/2025/2025-06-hobbyist-thomas-depierre/)
 * [2025-08-28, 11:08:40](https://news.ycombinator.com/item?id=45050732) - [Ask HN: Best foundation model for CLM fine-tuning?](https://news.ycombinator.com/item?id=45050732)
 
 ## [Archives](archives/index.md)
