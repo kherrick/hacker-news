@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 19:32:17](https://news.ycombinator.com/item?id=45095849) - [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
 * [2025-09-01, 19:04:31](https://news.ycombinator.com/item?id=45095603) - [Amazon has mostly sat out the AI talent war. This internal document reveals why](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
 * [2025-09-01, 18:56:39](https://news.ycombinator.com/item?id=45095545) - [Thoughts on (Amazonian) Leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
 * [2025-09-01, 18:48:22](https://news.ycombinator.com/item?id=45095475) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
