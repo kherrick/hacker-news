@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-09-01, 19:22:12",
-      "https://news.ycombinator.com/item?id=45095763"
-    ],
-    [
-      "SparseLoCo: Communication-Efficient LLM Training",
-      "https://arxiv.org/abs/2508.15706"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 19:04:31",
       "https://news.ycombinator.com/item?id=45095603"
     ],
@@ -237,6 +227,16 @@
     [
       "CocoaPods trunk read-only plan",
       "https://blog.cocoapods.org/CocoaPods-Specs-Repo/"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 13:32:51",
+      "https://news.ycombinator.com/item?id=45063904"
+    ],
+    [
+      "Using JWT to establish a trusted context for Row Level Security",
+      "https://vondra.me/posts/using-jwt-to-establish-trusted-context-for-rls/"
     ]
   ],
   [
