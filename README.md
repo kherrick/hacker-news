@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-01, 22:44:21](https://news.ycombinator.com/item?id=45097263) - [Anthropic to counteract usage of Claude Code for \"vibe hacking\"](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
 * [2025-09-01, 21:54:56](https://news.ycombinator.com/item?id=45096962) - [Don't Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 * [2025-09-01, 21:03:51](https://news.ycombinator.com/item?id=45096585) - [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
 * [2025-09-01, 20:17:45](https://news.ycombinator.com/item?id=45096254) - [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
@@ -15,7 +16,6 @@
 * [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
 * [2025-09-01, 16:57:38](https://news.ycombinator.com/item?id=45094421) - [Adaptive LLM routing under budget constraints](https://arxiv.org/abs/2508.21141)
 * [2025-09-01, 16:13:04](https://news.ycombinator.com/item?id=45093956) - [A Unique, High-Tech (Family) Computer](https://nicole.express/2025/a-computer-in-your-home.html)
-* [2025-09-01, 15:47:56](https://news.ycombinator.com/item?id=45093693) - [Search engine referral report for 2025 Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
 * [2025-09-01, 15:01:02](https://news.ycombinator.com/item?id=45093192) - [Ask HN: Who is hiring? (September 2025)](https://news.ycombinator.com/item?id=45093192)
 * [2025-09-01, 15:01:02](https://news.ycombinator.com/item?id=45093190) - [Ask HN: Who wants to be hired? (September 2025)](https://news.ycombinator.com/item?id=45093190)
 * [2025-09-01, 14:49:25](https://news.ycombinator.com/item?id=45093090) - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
@@ -24,12 +24,12 @@
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods trunk read-only plan](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
 * [2025-08-29, 13:32:51](https://news.ycombinator.com/item?id=45063904) - [Using JWT to establish a trusted context for Row Level Security](https://vondra.me/posts/using-jwt-to-establish-trusted-context-for-rls/)
+* [2025-08-29, 02:52:54](https://news.ycombinator.com/item?id=45059593) - [The Tragic End of Natalia Nagovitsyna's Ordeal on Pobeda Peak](https://explorersweb.com/tragic-end-of-natalia-nagovitsynas-ordeal-on-pobeda-peak/)
 * [2025-08-28, 23:37:13](https://news.ycombinator.com/item?id=45058246) - [F1 in Hungary: Strategy and fast tire changes make all the difference](https://arstechnica.com/cars/2025/08/f1-in-hungary-strategy-and-fast-tire-changes-make-all-the-difference/)
 * [2025-08-28, 22:57:45](https://news.ycombinator.com/item?id=45057974) - [The ABC Programming Language](https://homepages.cwi.nl/~steven/abc/)
 * [2025-08-28, 22:25:10](https://news.ycombinator.com/item?id=45057734) - [A review of Nim 2: The good and bad with example code](https://miguel-martin.com/blog/nim2-review)
 * [2025-08-28, 19:58:49](https://news.ycombinator.com/item?id=45056377) - [Python: The Documentary – An origin story [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 * [2025-08-28, 18:12:34](https://news.ycombinator.com/item?id=45055205) - [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
-* [2025-08-24, 22:23:53](https://news.ycombinator.com/item?id=45008337) - [Through the Liquid Glass](https://www.flarup.email/p/through-the-liquid-glass)
 
 ## [Archives](archives/index.md)
 

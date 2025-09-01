@@ -60,6 +60,7 @@
 * [2025-08-29, 03:57:46](https://news.ycombinator.com/item?id=45060004) - [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html)
 * [2025-08-29, 03:38:35](https://news.ycombinator.com/item?id=45059888) - [An adventure in writing compatible systems](https://turso.tech/blog/an-adventure-in-writing-compatible-systems)
 * [2025-08-29, 03:36:29](https://news.ycombinator.com/item?id=45059872) - [People Are the Point](https://whatwelost.substack.com/p/people-are-the-point)
+* [2025-08-29, 02:52:54](https://news.ycombinator.com/item?id=45059593) - [The Tragic End of Natalia Nagovitsyna's Ordeal on Pobeda Peak](https://explorersweb.com/tragic-end-of-natalia-nagovitsynas-ordeal-on-pobeda-peak/)
 * [2025-08-29, 02:39:44](https://news.ycombinator.com/item?id=45059470) - [A Deep Dive into Debian 13 /tmp: What's New, and What to Do If You Don't Like It](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
 * [2025-08-29, 02:15:21](https://news.ycombinator.com/item?id=45059295) - [Compiling Dinner](https://gist.github.com/breadchris/5877d1ab8381526bb81b551ffd5d1768)
 * [2025-08-29, 02:12:25](https://news.ycombinator.com/item?id=45059272) - [Can You Develop Film in a Jägerbomb?](https://petapixel.com/2025/08/04/can-you-develop-film-in-a-jagerbomb/)

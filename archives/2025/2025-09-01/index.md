@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 22:44:21](https://news.ycombinator.com/item?id=45097263) - [Anthropic to counteract usage of Claude Code for \"vibe hacking\"](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
 * [2025-09-01, 21:54:56](https://news.ycombinator.com/item?id=45096962) - [Don't Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 * [2025-09-01, 21:03:51](https://news.ycombinator.com/item?id=45096585) - [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
 * [2025-09-01, 20:30:23](https://news.ycombinator.com/item?id=45096359) - [Gaza: AI Human Laboratory](https://www.thecairoreview.com/essays/gaza-israels-ai-human-laboratory/)
