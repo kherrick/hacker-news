@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 16:32:58](https://news.ycombinator.com/item?id=45094165) - [Israel committing genocide in Gaza, scholars group says](https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says)
+* [2025-09-01, 15:54:24](https://news.ycombinator.com/item?id=45093765) - [The time picker on the iPhone's alarm app isn't circular, it's just a long list](https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/)
 * [2025-09-01, 15:47:56](https://news.ycombinator.com/item?id=45093693) - [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
 * [2025-09-01, 15:37:10](https://news.ycombinator.com/item?id=45093590) - [Isolated(any)](https://nshipster.com/isolated-any/)
+* [2025-09-01, 15:19:36](https://news.ycombinator.com/item?id=45093408) - [Anti-establishment versus authoritarian populists and support for the strongman](https://www.frontiersin.org/articles/10.3389/fpos.2025.1605460)
 * [2025-09-01, 14:49:25](https://news.ycombinator.com/item?id=45093090) - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
 * [2025-09-01, 14:43:37](https://news.ycombinator.com/item?id=45093022) - [Effective learning: Twenty rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
 * [2025-09-01, 14:30:50](https://news.ycombinator.com/item?id=45092942) - [Hackers demand Google fire 2 staff and halt probes, or they will leak databases](https://www.newsweek.com/hackers-issue-ultimatum-data-breach-2122489)
