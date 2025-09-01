@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
 * [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
+* [2025-09-01, 16:57:38](https://news.ycombinator.com/item?id=45094421) - [93% of GPT-4 performance at 1/4 cost: LLM routing with weak bandit feedback](https://arxiv.org/abs/2508.21141)
 * [2025-09-01, 16:51:14](https://news.ycombinator.com/item?id=45094351) - [The Car Is Not the Future: On the Myth of Motorized Freedom](https://blog.scaramuzza.me/articles/the_car_is_not_the_future.html)
 * [2025-09-01, 16:32:58](https://news.ycombinator.com/item?id=45094165) - [Israel committing genocide in Gaza, scholars group says](https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says)
 * [2025-09-01, 16:32:25](https://news.ycombinator.com/item?id=45094156) - [AI couldn't build my iPhone podcast app](https://beard.fm/blog/ai-failed-my-podcast-app)
