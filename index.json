@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-08-31, 19:29:23",
+      "https://news.ycombinator.com/item?id=45086276"
+    ],
+    [
+      "New Ruby Curl bindings with Fiber native support",
+      "https://github.com/taf2/curb/blob/master/ChangeLog.md"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 19:24:49",
       "https://news.ycombinator.com/item?id=45086238"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-08-31, 15:50:35",
-      "https://news.ycombinator.com/item?id=45084111"
-    ],
-    [
-      "10-20x Faster LLVM -O0 Back-End (2020)",
-      "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 15:31:04",
       "https://news.ycombinator.com/item?id=45083952"
     ],
@@ -177,16 +177,6 @@
     [
       "“This telegram must be closely paraphrased before being communicated to anyone”",
       "https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 12:16:00",
-      "https://news.ycombinator.com/item?id=45082595"
-    ],
-    [
-      "F-Droid site certificate expired",
-      "https://gitlab.com/fdroid/fdroid-website/-/issues/883"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Mainframe upgrade done with wire cutters (2010)",
       "https://alt.folklore.computers.narkive.com/nZagiUHj/mainframe-upgrade-done-with-wire-cutters"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 20:53:36",
+      "https://news.ycombinator.com/item?id=45056917"
+    ],
+    [
+      "How to get help with Ruby questions",
+      "https://www.rubynewbie.org/how-to-get-help-with-ruby-questions"
     ]
   ],
   [
