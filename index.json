@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-01, 18:48:22",
+      "https://news.ycombinator.com/item?id=45095475"
+    ],
+    [
+      "The future of 32-bit support in the kernel",
+      "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/"
+    ]
+  ],
+  [
+    [
       "2025-09-01, 18:47:21",
       "https://news.ycombinator.com/item?id=45095460"
     ],
@@ -177,16 +187,6 @@
     [
       "AI enters the grant game, picking winners",
       "https://www.science.org/content/article/ai-enters-grant-game-picking-winners"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 13:35:52",
-      "https://news.ycombinator.com/item?id=45092605"
-    ],
-    [
-      "Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems",
-      "https://github.com/gargakshit/zfsbackrest"
     ]
   ],
   [
