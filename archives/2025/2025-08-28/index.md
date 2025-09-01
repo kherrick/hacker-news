@@ -9,6 +9,7 @@
 * [2025-08-28, 23:27:27](https://news.ycombinator.com/item?id=45058171) - [Python: The Documentary](https://lwn.net/Articles/1035537/)
 * [2025-08-28, 23:27:27](https://news.ycombinator.com/item?id=45058171) - [Python: The Documentary [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 * [2025-08-28, 23:04:01](https://news.ycombinator.com/item?id=45058024) - [RSS Is Awesome](https://evanverma.com/rss-is-awesome)
+* [2025-08-28, 22:57:45](https://news.ycombinator.com/item?id=45057974) - [The ABC Programming Language](https://homepages.cwi.nl/~steven/abc/)
 * [2025-08-28, 22:31:13](https://news.ycombinator.com/item?id=45057781) - [Every industry is an overcrowded airport lounge now](https://quoththeraven.substack.com/p/every-industry-is-an-overcrowded)
 * [2025-08-28, 22:25:10](https://news.ycombinator.com/item?id=45057734) - [A Review of Nim 2: The Good and Bad with Example Code](https://miguel-martin.com/blog/nim2-review)
 * [2025-08-28, 22:02:28](https://news.ycombinator.com/item?id=45057561) - [Rupert's Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
