@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 23:21:46](https://news.ycombinator.com/item?id=45087971) - [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
+* [2025-08-31, 22:54:26](https://news.ycombinator.com/item?id=45087815) - [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
+* [2025-08-31, 22:43:05](https://news.ycombinator.com/item?id=45087748) - [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
 * [2025-08-31, 21:46:26](https://news.ycombinator.com/item?id=45087396) - [What Every Argument About Sideloading Gets Wrong](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
 * [2025-08-31, 21:42:29](https://news.ycombinator.com/item?id=45087365) - [Polish CEO's company review bombed after stealing hat from child at tennis game](https://www.dexerto.com/entertainment/polish-ceos-company-review-bombed-after-stealing-hat-from-a-child-at-tennis-game-3244263/)
 * [2025-08-31, 21:33:46](https://news.ycombinator.com/item?id=45087313) - [NetSurf on ReMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
@@ -58,6 +61,7 @@
 * [2025-08-31, 05:13:05](https://news.ycombinator.com/item?id=45080538) - [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
 * [2025-08-31, 04:31:29](https://news.ycombinator.com/item?id=45080388) - [Sheafification - The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
 * [2025-08-31, 04:21:06](https://news.ycombinator.com/item?id=45080351) - [Josef Bacik Leaving Meta and Stepping Back from Kernel Development](https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta)
+* [2025-08-31, 04:11:05](https://news.ycombinator.com/item?id=45080313) - [A Crack in the Cosmos](https://drb.ie/articles/a-crack-in-the-cosmos/)
 * [2025-08-31, 03:51:05](https://news.ycombinator.com/item?id=45080222) - [Show HN: Q.js – Smaller than React/Vue, yet more powerful (40KB gzipped)](https://github.com/Qbix/Q.js)
 * [2025-08-31, 03:14:05](https://news.ycombinator.com/item?id=45080051) - [Red is a next-generation programming language strongly inspired by REBOL](https://github.com/red/red)
 * [2025-08-31, 02:58:32](https://news.ycombinator.com/item?id=45079962) - [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
