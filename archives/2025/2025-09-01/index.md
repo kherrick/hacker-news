@@ -11,6 +11,7 @@
 * [2025-09-01, 16:32:25](https://news.ycombinator.com/item?id=45094156) - [AI couldn't build my iPhone podcast app](https://beard.fm/blog/ai-failed-my-podcast-app)
 * [2025-09-01, 16:13:04](https://news.ycombinator.com/item?id=45093956) - [A Unique, High-Tech (Family) Computer](https://nicole.express/2025/a-computer-in-your-home.html)
 * [2025-09-01, 15:54:24](https://news.ycombinator.com/item?id=45093765) - [The time picker on the iPhone's alarm app isn't circular, it's just a long list](https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/)
+* [2025-09-01, 15:49:15](https://news.ycombinator.com/item?id=45093711) - [Welcome to the Technocracy: Dreams of forgotten movement from the 1930s live on](https://novum.substack.com/p/welcome-to-the-technocracy)
 * [2025-09-01, 15:47:56](https://news.ycombinator.com/item?id=45093693) - [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
 * [2025-09-01, 15:37:10](https://news.ycombinator.com/item?id=45093590) - [Isolated(any)](https://nshipster.com/isolated-any/)
 * [2025-09-01, 15:19:36](https://news.ycombinator.com/item?id=45093408) - [Anti-establishment versus authoritarian populists and support for the strongman](https://www.frontiersin.org/articles/10.3389/fpos.2025.1605460)

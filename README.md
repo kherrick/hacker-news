@@ -2,9 +2,9 @@
 
 * [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
 * [2025-09-01, 16:57:38](https://news.ycombinator.com/item?id=45094421) - [93% of GPT-4 performance at 1/4 cost: LLM routing with weak bandit feedback](https://arxiv.org/abs/2508.21141)
-* [2025-09-01, 16:51:14](https://news.ycombinator.com/item?id=45094351) - [The car is not the future: On the myth of motorized freedom](https://blog.scaramuzza.me/articles/the_car_is_not_the_future.html)
 * [2025-09-01, 16:13:04](https://news.ycombinator.com/item?id=45093956) - [A Unique, High-Tech (Family) Computer](https://nicole.express/2025/a-computer-in-your-home.html)
 * [2025-09-01, 15:54:24](https://news.ycombinator.com/item?id=45093765) - [The time picker on the iPhone's alarm app isn't circular, it's just a long list](https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/)
+* [2025-09-01, 15:49:15](https://news.ycombinator.com/item?id=45093711) - [Welcome to the Technocracy: Dreams of forgotten movement from the 1930s live on](https://novum.substack.com/p/welcome-to-the-technocracy)
 * [2025-09-01, 15:47:56](https://news.ycombinator.com/item?id=45093693) - [Search engine referral report for 2025 Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
 * [2025-09-01, 15:37:10](https://news.ycombinator.com/item?id=45093590) - [Isolated(any)](https://nshipster.com/isolated-any/)
 * [2025-09-01, 15:01:02](https://news.ycombinator.com/item?id=45093192) - [Ask HN: Who is hiring? (September 2025)](https://news.ycombinator.com/item?id=45093192)
