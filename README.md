@@ -24,12 +24,12 @@
 * [2025-08-28, 23:52:48](https://news.ycombinator.com/item?id=45058349) - [Ford and the Birth of the Model T](https://www.construction-physics.com/p/ford-and-the-birth-of-the-model-t)
 * [2025-08-28, 23:30:48](https://news.ycombinator.com/item?id=45058187) - [Mainframe upgrade done with wire cutters (2010)](https://alt.folklore.computers.narkive.com/nZagiUHj/mainframe-upgrade-done-with-wire-cutters)
 * [2025-08-28, 22:25:10](https://news.ycombinator.com/item?id=45057734) - [A Review of Nim 2: The Good and Bad with Example Code](https://miguel-martin.com/blog/nim2-review)
+* [2025-08-28, 16:37:02](https://news.ycombinator.com/item?id=45054202) - [Chronicle – idiomatic, type safe event sourcing framework for Go](https://github.com/DeluxeOwl/chronicle)
 * [2025-08-28, 16:29:31](https://news.ycombinator.com/item?id=45054119) - [Pong Clock](https://bigjobby.com/pong/?v=2.0/)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-28, 15:47:19](https://news.ycombinator.com/item?id=45053672) - [Bidirectional Signals from the Emitter's Perspective in PHP](https://medium.com/@MortezaPoussane/a-new-observer-pattern-bidirectional-signals-from-the-emitters-perspective-in-php-d8a555939e15)
 * [2025-08-28, 14:54:37](https://news.ycombinator.com/item?id=45052960) - [C++: Strongly Happens Before?](https://nekrozqliphort.github.io/posts/happens-b4/)
 * [2025-08-28, 13:51:05](https://news.ycombinator.com/item?id=45052191) - [Bayes, Bits and Brains](https://bayesbitsbrains.github.io/)
-* [2025-08-28, 11:08:40](https://news.ycombinator.com/item?id=45050732) - [Ask HN: Best foundation model for CLM fine-tuning?](https://news.ycombinator.com/item?id=45050732)
 
 ## [Archives](archives/index.md)
 
