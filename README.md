@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-01, 11:44:56](https://news.ycombinator.com/item?id=45091921) - [Intel Patents 'Software Defined Supercore'](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores)
+* [2025-09-01, 12:29:37](https://news.ycombinator.com/item?id=45092204) - [Ask HN: Do custom ROMs exist for electric cars, for example Teslas?](https://news.ycombinator.com/item?id=45092204)
 * [2025-09-01, 10:46:44](https://news.ycombinator.com/item?id=45091547) - [Show HN: Blueprint: Fast, Nunjucks-like templating engine for Java 8 and beyond](https://news.ycombinator.com/item?id=45091547)
 * [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
+* [2025-09-01, 09:52:03](https://news.ycombinator.com/item?id=45091202) - [De-Googling TOTP Authenticator Codes](https://imrannazar.com/articles/degoogle-otp)
+* [2025-09-01, 09:40:47](https://news.ycombinator.com/item?id=45091119) - [UK's largest battery storage facility at Tilbury substation](https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation)
 * [2025-09-01, 07:01:13](https://news.ycombinator.com/item?id=45090216) - [Telli (YC F24) is hiring engineers, designers, and interns (on-site in Berlin)](https://hi.telli.com/join-us)
 * [2025-09-01, 06:14:31](https://news.ycombinator.com/item?id=45089938) - [Preserving Order in Concurrent Go Apps: Three Approaches Compared](https://destel.dev/blog/preserving-order-in-concurrent-go)
 * [2025-09-01, 03:45:33](https://news.ycombinator.com/item?id=45089256) - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
 * [2025-08-31, 23:21:46](https://news.ycombinator.com/item?id=45087971) - [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
-* [2025-08-31, 23:09:19](https://news.ycombinator.com/item?id=45087905) - [Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code](https://github.com/therepanic/spotilyrics)
 * [2025-08-31, 22:54:26](https://news.ycombinator.com/item?id=45087815) - [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
 * [2025-08-31, 22:43:05](https://news.ycombinator.com/item?id=45087748) - [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
 * [2025-08-31, 21:46:26](https://news.ycombinator.com/item?id=45087396) - [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
@@ -26,10 +27,9 @@
 * [2025-08-28, 18:12:34](https://news.ycombinator.com/item?id=45055205) - [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
 * [2025-08-28, 16:37:02](https://news.ycombinator.com/item?id=45054202) - [Chronicle – Idiomatic, type safe event sourcing framework for Go](https://github.com/DeluxeOwl/chronicle)
 * [2025-08-28, 16:29:31](https://news.ycombinator.com/item?id=45054119) - [Pong Clock](https://bigjobby.com/pong/?v=2.0/)
-* [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-28, 15:38:21](https://news.ycombinator.com/item?id=45053555) - [Bash Prompts Collection](https://www.gilesorr.com/bashprompt/prompts/)
+* [2025-08-28, 14:58:28](https://news.ycombinator.com/item?id=45053029) - [Trade in War](https://news.mit.edu/2025/why-countries-trade-each-other-while-fighting-mariya-grinberg-book-0828)
 * [2025-08-28, 14:54:37](https://news.ycombinator.com/item?id=45052960) - [C++: Strongly Happens Before?](https://nekrozqliphort.github.io/posts/happens-b4/)
-* [2025-08-28, 13:51:05](https://news.ycombinator.com/item?id=45052191) - [Bayes, Bits and Brains](https://bayesbitsbrains.github.io/)
 
 ## [Archives](archives/index.md)
 
