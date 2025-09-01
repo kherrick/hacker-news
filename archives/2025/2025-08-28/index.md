@@ -50,6 +50,7 @@
 * [2025-08-28, 15:14:03](https://news.ycombinator.com/item?id=45053234) - [Anything can be a message queue if you use it wrongly enough (2023)](https://xeiaso.net/blog/anything-message-queue)
 * [2025-08-28, 14:59:14](https://news.ycombinator.com/item?id=45053040) - [Mosh (Mobile Shell)](https://mosh.org)
 * [2025-08-28, 14:58:28](https://news.ycombinator.com/item?id=45053029) - [Why countries trade with each other while fighting](https://news.mit.edu/2025/why-countries-trade-each-other-while-fighting-mariya-grinberg-book-0828)
+* [2025-08-28, 14:54:37](https://news.ycombinator.com/item?id=45052960) - [C++: Strongly Happens Before?](https://nekrozqliphort.github.io/posts/happens-b4/)
 * [2025-08-28, 14:40:58](https://news.ycombinator.com/item?id=45052784) - [Will AI Replace Human Thinking? The Case for Writing and Coding Manually](https://www.ssp.sh/brain/will-ai-replace-humans/)
 * [2025-08-28, 14:22:07](https://news.ycombinator.com/item?id=45052517) - [What brain surgery taught me about the fragile gift of consciousness](https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/)
 * [2025-08-28, 14:14:17](https://news.ycombinator.com/item?id=45052429) - [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
