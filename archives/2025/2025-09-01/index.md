@@ -5,7 +5,11 @@
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
 * [2025-09-01, 14:30:50](https://news.ycombinator.com/item?id=45092942) - [Hackers demand Google fire 2 staff and halt probes, or they will leak databases](https://www.newsweek.com/hackers-issue-ultimatum-data-breach-2122489)
+* [2025-09-01, 14:27:17](https://news.ycombinator.com/item?id=45092925) - [\"Turns out Google made up an elaborate story about me\"](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
+* [2025-09-01, 14:23:09](https://news.ycombinator.com/item?id=45092895) - [Git for Music – Using Version Control for Music Production (2023)](https://grechin.org/2023/05/06/git-and-reaper.html)
 * [2025-09-01, 14:10:27](https://news.ycombinator.com/item?id=45092814) - [Vibe coded a website to share vibe coding tips](https://vibecodinglearn.com)
+* [2025-09-01, 14:00:26](https://news.ycombinator.com/item?id=45092734) - [Show HN: Simple modenized .NET NuGet server reached RC](https://github.com/kekyo/nuget-server)
+* [2025-09-01, 13:35:52](https://news.ycombinator.com/item?id=45092605) - [Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 * [2025-09-01, 12:29:37](https://news.ycombinator.com/item?id=45092204) - [Ask HN: Do custom ROMs exist for electric cars, for example Teslas?](https://news.ycombinator.com/item?id=45092204)
 * [2025-09-01, 11:53:17](https://news.ycombinator.com/item?id=45091972) - [Show HN: AfriTales – Discover the Magic of African Storytelling](https://afritales.org/)
 * [2025-09-01, 11:44:56](https://news.ycombinator.com/item?id=45091921) - [Intel Patents 'Software Defined Supercore'](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores)
