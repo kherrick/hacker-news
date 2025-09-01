@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 15:47:56](https://news.ycombinator.com/item?id=45093693) - [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
 * [2025-09-01, 14:49:25](https://news.ycombinator.com/item?id=45093090) - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
 * [2025-09-01, 14:43:37](https://news.ycombinator.com/item?id=45093022) - [Effective learning: Twenty rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
 * [2025-09-01, 14:30:50](https://news.ycombinator.com/item?id=45092942) - [Hackers demand Google fire 2 staff and halt probes, or they will leak databases](https://www.newsweek.com/hackers-issue-ultimatum-data-breach-2122489)
 * [2025-09-01, 14:27:17](https://news.ycombinator.com/item?id=45092925) - [\"Turns out Google made up an elaborate story about me\"](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
 * [2025-09-01, 14:23:09](https://news.ycombinator.com/item?id=45092895) - [Git for Music – Using Version Control for Music Production (2023)](https://grechin.org/2023/05/06/git-and-reaper.html)
+* [2025-09-01, 14:21:12](https://news.ycombinator.com/item?id=45092880) - [AI enters the grant game, picking winners](https://www.science.org/content/article/ai-enters-grant-game-picking-winners)
 * [2025-09-01, 14:10:27](https://news.ycombinator.com/item?id=45092814) - [Vibe coded a website to share vibe coding tips](https://vibecodinglearn.com)
 * [2025-09-01, 14:00:26](https://news.ycombinator.com/item?id=45092734) - [Show HN: Simple modenized .NET NuGet server reached RC](https://github.com/kekyo/nuget-server)
 * [2025-09-01, 13:35:52](https://news.ycombinator.com/item?id=45092605) - [Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
