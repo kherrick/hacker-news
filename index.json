@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-01, 08:54:59",
-      "https://news.ycombinator.com/item?id=45090872"
+      "2025-09-01, 09:52:03",
+      "https://news.ycombinator.com/item?id=45091202"
     ],
     [
-      "Tell HN: Use \"-f**k\" to kill Google AI Overview",
-      "https://news.ycombinator.com/item?id=45090872"
+      "De-Googling TOTP Authenticator Codes",
+      "https://imrannazar.com/articles/degoogle-otp"
+    ]
+  ],
+  [
+    [
+      "2025-09-01, 09:40:47",
+      "https://news.ycombinator.com/item?id=45091119"
+    ],
+    [
+      "National Grid: UK's largest battery storage facility at Tilbury substation",
+      "https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "We should have the ability to run any code we want on hardware we own",
       "https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 19:29:23",
-      "https://news.ycombinator.com/item?id=45086276"
-    ],
-    [
-      "New Ruby Curl bindings with Fiber native support",
-      "https://github.com/taf2/curb/blob/master/ChangeLog.md"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-08-28, 15:47:19",
+      "https://news.ycombinator.com/item?id=45053672"
+    ],
+    [
+      "Bidirectional Signals from the Emitter's Perspective in PHP",
+      "https://medium.com/@MortezaPoussane/a-new-observer-pattern-bidirectional-signals-from-the-emitters-perspective-in-php-d8a555939e15"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 14:58:28",
       "https://news.ycombinator.com/item?id=45053029"
     ],
@@ -277,16 +287,6 @@
     [
       "Bayes, Bits and Brains",
       "https://bayesbitsbrains.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 13:32:17",
-      "https://news.ycombinator.com/item?id=45051950"
-    ],
-    [
-      "Hobbyist Maintainers with Thomas DePierre",
-      "https://opensourcesecurity.io/2025/2025-06-hobbyist-thomas-depierre/"
     ]
   ],
   [
