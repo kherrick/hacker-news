@@ -6,6 +6,7 @@
 
 * [2025-09-01, 11:53:17](https://news.ycombinator.com/item?id=45091972) - [Show HN: AfriTales – Discover the Magic of African Storytelling](https://afritales.org/)
 * [2025-09-01, 11:44:56](https://news.ycombinator.com/item?id=45091921) - [Intel Patents 'Software Defined Supercore'](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores)
+* [2025-09-01, 10:46:44](https://news.ycombinator.com/item?id=45091547) - [Show HN: Blueprint: Fast, Nunjucks-like templating engine for Java 8 and beyond](https://news.ycombinator.com/item?id=45091547)
 * [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
 * [2025-09-01, 09:52:03](https://news.ycombinator.com/item?id=45091202) - [De-Googling TOTP Authenticator Codes](https://imrannazar.com/articles/degoogle-otp)
 * [2025-09-01, 09:40:47](https://news.ycombinator.com/item?id=45091119) - [National Grid: UK's largest battery storage facility at Tilbury substation](https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation)

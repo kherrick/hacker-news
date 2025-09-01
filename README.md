@@ -2,6 +2,7 @@
 
 * [2025-09-01, 11:53:17](https://news.ycombinator.com/item?id=45091972) - [Show HN: AfriTales – Discover the Magic of African Storytelling](https://afritales.org/)
 * [2025-09-01, 11:44:56](https://news.ycombinator.com/item?id=45091921) - [Intel Patents 'Software Defined Supercore'](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores)
+* [2025-09-01, 10:46:44](https://news.ycombinator.com/item?id=45091547) - [Show HN: Blueprint: Fast, Nunjucks-like templating engine for Java 8 and beyond](https://news.ycombinator.com/item?id=45091547)
 * [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
 * [2025-09-01, 07:01:13](https://news.ycombinator.com/item?id=45090216) - [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
 * [2025-09-01, 03:45:33](https://news.ycombinator.com/item?id=45089256) - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
@@ -21,13 +22,12 @@
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
 * [2025-08-31, 04:11:05](https://news.ycombinator.com/item?id=45080313) - [A Crack in the Cosmos](https://drb.ie/articles/a-crack-in-the-cosmos/)
 * [2025-08-29, 08:45:21](https://news.ycombinator.com/item?id=45061702) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
-* [2025-08-28, 23:52:48](https://news.ycombinator.com/item?id=45058349) - [Ford and the Birth of the Model T](https://www.construction-physics.com/p/ford-and-the-birth-of-the-model-t)
 * [2025-08-28, 23:30:48](https://news.ycombinator.com/item?id=45058187) - [Mainframe upgrade done with wire cutters (2010)](https://alt.folklore.computers.narkive.com/nZagiUHj/mainframe-upgrade-done-with-wire-cutters)
 * [2025-08-28, 22:25:10](https://news.ycombinator.com/item?id=45057734) - [A Review of Nim 2: The Good and Bad with Example Code](https://miguel-martin.com/blog/nim2-review)
 * [2025-08-28, 16:37:02](https://news.ycombinator.com/item?id=45054202) - [Chronicle – idiomatic, type safe event sourcing framework for Go](https://github.com/DeluxeOwl/chronicle)
 * [2025-08-28, 16:29:31](https://news.ycombinator.com/item?id=45054119) - [Pong Clock](https://bigjobby.com/pong/?v=2.0/)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
-* [2025-08-28, 15:47:19](https://news.ycombinator.com/item?id=45053672) - [Bidirectional Signals from the Emitter's Perspective in PHP](https://medium.com/@MortezaPoussane/a-new-observer-pattern-bidirectional-signals-from-the-emitters-perspective-in-php-d8a555939e15)
+* [2025-08-28, 15:38:21](https://news.ycombinator.com/item?id=45053555) - [Bash Prompts Collection](https://www.gilesorr.com/bashprompt/prompts/)
 * [2025-08-28, 14:54:37](https://news.ycombinator.com/item?id=45052960) - [C++: Strongly Happens Before?](https://nekrozqliphort.github.io/posts/happens-b4/)
 * [2025-08-28, 13:51:05](https://news.ycombinator.com/item?id=45052191) - [Bayes, Bits and Brains](https://bayesbitsbrains.github.io/)
 
