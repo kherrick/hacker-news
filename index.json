@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-08-28, 16:37:02",
+      "https://news.ycombinator.com/item?id=45054202"
+    ],
+    [
+      "Chronicle – idiomatic, type safe event sourcing framework for Go",
+      "https://github.com/DeluxeOwl/chronicle"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 16:29:31",
       "https://news.ycombinator.com/item?id=45054119"
     ],
@@ -287,16 +297,6 @@
     [
       "Bayes, Bits and Brains",
       "https://bayesbitsbrains.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 11:08:40",
-      "https://news.ycombinator.com/item?id=45050732"
-    ],
-    [
-      "Ask HN: Best foundation model for CLM fine-tuning?",
-      "https://news.ycombinator.com/item?id=45050732"
     ]
   ]
 ]
