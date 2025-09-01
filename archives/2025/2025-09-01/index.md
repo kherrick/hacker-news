@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 09:52:03](https://news.ycombinator.com/item?id=45091202) - [De-Googling TOTP Authenticator Codes](https://imrannazar.com/articles/degoogle-otp)
+* [2025-09-01, 09:40:47](https://news.ycombinator.com/item?id=45091119) - [National Grid: UK's largest battery storage facility at Tilbury substation](https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation)
 * [2025-09-01, 08:54:59](https://news.ycombinator.com/item?id=45090872) - [Show HN: Use \"-f**k\" to kill Google AI Overview](https://news.ycombinator.com/item?id=45090872)
 * [2025-09-01, 07:01:13](https://news.ycombinator.com/item?id=45090216) - [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
 * [2025-09-01, 06:25:04](https://news.ycombinator.com/item?id=45090007) - [Catholic churches in France have a bad landlord: the French government](https://thecatholicherald.com/article/catholic-churches-in-france-suffer-from-a-bad-landlord-the-french-government)
