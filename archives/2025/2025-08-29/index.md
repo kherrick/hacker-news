@@ -52,6 +52,7 @@
 * [2025-08-29, 08:45:21](https://news.ycombinator.com/item?id=45061702) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-08-29, 08:42:40](https://news.ycombinator.com/item?id=45061689) - [Contrastive Representations for Temporal Reasoning](https://princeton-rl.github.io/CRTR/)
 * [2025-08-29, 08:20:12](https://news.ycombinator.com/item?id=45061537) - [Reuters stopped sharing Gaza locations with Israel after IDF strikes](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)
+* [2025-08-29, 07:52:54](https://news.ycombinator.com/item?id=45061376) - [India's billion-dollar e-waste empire](https://restofworld.org/2025/india-e-waste-recycling-electronics/)
 * [2025-08-29, 06:37:21](https://news.ycombinator.com/item?id=45060920) - [The Synology End Game](https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/)
 * [2025-08-29, 04:53:01](https://news.ycombinator.com/item?id=45060344) - [Why Americans Under 30 Are So Miserable](https://questionsforum.com/americans-under-30-are-so-miserable-that-the-u-s-just-fell-to-a-historic-low-ranking-in-the-annual-world-happiness/)
 * [2025-08-29, 04:22:48](https://news.ycombinator.com/item?id=45060161) - [Strange CW Keys](https://sites.google.com/site/oh6dccw/strangecwkeys)
