@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 16:08:31](https://news.ycombinator.com/item?id=45104974) - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974)
 * [2025-09-02, 16:04:15](https://news.ycombinator.com/item?id=45104907) - [Anthropic raises $13B Series F at $183B post-money valuation](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation)
 * [2025-09-02, 15:42:43](https://news.ycombinator.com/item?id=45104597) - [X(Twitter) Shadow Bans Turkish Presidential Candidate](https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish)
 * [2025-09-02, 15:27:22](https://news.ycombinator.com/item?id=45104330) - [US stocks fall as bond sell-off spills into equities](https://subs.ft.com/products)
 * [2025-09-02, 15:25:44](https://news.ycombinator.com/item?id=45104303) - [Static sites enable a good time travel experience](https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/)
 * [2025-09-02, 15:10:39](https://news.ycombinator.com/item?id=45104115) - [Why teach calculus in the age of AI](https://mappingignorance.org/2025/08/18/why-teach-calculus-in-the-age-of-ai/)
 * [2025-09-02, 15:07:47](https://news.ycombinator.com/item?id=45104082) - [Americans Lose Faith That Hard Work Leads to Economic Gains, WSJ-NORC Poll Finds](https://www.wsj.com/economy/wsj-norc-economic-poll-73bce003)
+* [2025-09-02, 14:49:40](https://news.ycombinator.com/item?id=45103857) - [Removing Guix from Debian](https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/)
 * [2025-09-02, 14:32:47](https://news.ycombinator.com/item?id=45103646) - [You don't want to hire \"the best engineers\"](https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers)
 * [2025-09-02, 14:17:07](https://news.ycombinator.com/item?id=45103436) - [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra)
+* [2025-09-02, 13:47:13](https://news.ycombinator.com/item?id=45103065) - [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/)
 * [2025-09-02, 13:33:54](https://news.ycombinator.com/item?id=45102905) - [Imgur's Community Is in Full Revolt Against Its Owner](https://www.404media.co/imgurs-community-is-in-full-revolt-against-its-owner/)
 * [2025-09-02, 13:10:51](https://news.ycombinator.com/item?id=45102664) - [Show HN: Moribito – A TUI for LDAP Viewing/Queries](https://github.com/ericschmar/moribito)
 * [2025-09-02, 13:10:24](https://news.ycombinator.com/item?id=45102657) - [How to Participate in the Ruby Community](https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community)
