@@ -33,6 +33,7 @@
 * [2025-08-29, 15:18:40](https://news.ycombinator.com/item?id=45065278) - [Seedbox Lite: A lightweight torrent streaming app with instant playback](https://github.com/hotheadhacker/seedbox-lite)
 * [2025-08-29, 14:07:28](https://news.ycombinator.com/item?id=45064329) - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 * [2025-08-29, 14:02:59](https://news.ycombinator.com/item?id=45064284) - [The Curious Case of Flunking My Anthropic Interview (Again)](https://taylor.town/flunking-anthropic)
+* [2025-08-29, 13:59:33](https://news.ycombinator.com/item?id=45064241) - [Primitive tortureboard: Untangling the myths and mysteries of Dvorak and QWERTY](https://aresluna.org/the-primitive-tortureboard/)
 * [2025-08-29, 13:56:50](https://news.ycombinator.com/item?id=45064210) - [Show HN: Find Hidden Gems on HN](https://pj4533.com/hn-overlooked/)
 * [2025-08-29, 13:37:53](https://news.ycombinator.com/item?id=45063972) - [Private Equity Snaps Up Disability Services, Challenging Regulators](https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators)
 * [2025-08-29, 13:32:51](https://news.ycombinator.com/item?id=45063904) - [Using JWT to establish a trusted context for Row Level Security](https://vondra.me/posts/using-jwt-to-establish-trusted-context-for-rls/)
