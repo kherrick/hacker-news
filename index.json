@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-09-02, 17:30:35",
-      "https://news.ycombinator.com/item?id=45106295"
-    ],
-    [
-      "Microsoft rewarded for security failures with another US Government contract",
-      "https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 17:24:57",
       "https://news.ycombinator.com/item?id=45106189"
     ],
@@ -277,6 +267,16 @@
     [
       "Triangle Grids",
       "https://kvachev.com/blog/posts/triangular-grid/"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 08:30:43",
+      "https://news.ycombinator.com/item?id=45072966"
+    ],
+    [
+      "Pearl – An Erlang lexer and syntax highlighter in Gleam",
+      "https://github.com/GearsDatapacks/pearl"
     ]
   ],
   [
