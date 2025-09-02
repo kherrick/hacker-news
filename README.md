@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-02, 03:31:34](https://news.ycombinator.com/item?id=45098867) - [The Wetware Crisis: The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 * [2025-09-02, 03:01:02](https://news.ycombinator.com/item?id=45098722) - [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
 * [2025-09-02, 02:12:12](https://news.ycombinator.com/item?id=45098411) - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
 * [2025-09-02, 02:09:20](https://news.ycombinator.com/item?id=45098399) - [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
@@ -20,7 +21,6 @@
 * [2025-09-01, 14:49:25](https://news.ycombinator.com/item?id=45093090) - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
 * [2025-09-01, 14:43:37](https://news.ycombinator.com/item?id=45093022) - [Effective learning: Rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
-* [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods trunk read-only plan](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
 * [2025-08-31, 21:46:26](https://news.ycombinator.com/item?id=45087396) - [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
 * [2025-08-29, 12:56:35](https://news.ycombinator.com/item?id=45063502) - [Growing the Java Language [video]](https://www.youtube.com/watch?v=Gz7Or9C0TpM)
 * [2025-08-29, 12:26:48](https://news.ycombinator.com/item?id=45063176) - [Ripple – A TypeScript UI framework that takes the best of React, Solid, Svelte](https://github.com/trueadm/ripple)
