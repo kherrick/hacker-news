@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-02, 02:12:12](https://news.ycombinator.com/item?id=45098411) - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
 * [2025-09-02, 00:20:26](https://news.ycombinator.com/item?id=45097827) - [I Miss Using Em Dashes](https://bassi.li/articles/i-miss-using-em-dashes)
 * [2025-09-01, 22:44:21](https://news.ycombinator.com/item?id=45097263) - [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
-* [2025-09-01, 21:54:56](https://news.ycombinator.com/item?id=45096962) - [Don't Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 * [2025-09-01, 21:03:51](https://news.ycombinator.com/item?id=45096585) - [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
 * [2025-09-01, 20:17:45](https://news.ycombinator.com/item?id=45096254) - [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
 * [2025-09-01, 20:08:34](https://news.ycombinator.com/item?id=45096173) - [Desert Graves (2021)](https://www.desertmountaineer.com/2021/08/06/graves/)
@@ -23,11 +23,11 @@
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods trunk read-only plan](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
 * [2025-08-31, 21:46:26](https://news.ycombinator.com/item?id=45087396) - [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
+* [2025-08-29, 12:26:48](https://news.ycombinator.com/item?id=45063176) - [Ripple is a TypeScript UI framework for web (If React and Svelte had a baby)](https://github.com/trueadm/ripple)
 * [2025-08-29, 12:12:57](https://news.ycombinator.com/item?id=45063037) - [The day Return became Enter (2023)](https://aresluna.org/the-day-return-became-enter/)
 * [2025-08-29, 07:39:52](https://news.ycombinator.com/item?id=45061290) - [Stone Age settlement found under the sea in Denmark](https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d)
 * [2025-08-29, 02:52:54](https://news.ycombinator.com/item?id=45059593) - [The Tragic End of Natalia Nagovitsyna's Ordeal on Pobeda Peak](https://explorersweb.com/tragic-end-of-natalia-nagovitsynas-ordeal-on-pobeda-peak/)
 * [2025-08-28, 22:57:45](https://news.ycombinator.com/item?id=45057974) - [The ABC Programming Language](https://homepages.cwi.nl/~steven/abc/)
-* [2025-08-28, 22:25:10](https://news.ycombinator.com/item?id=45057734) - [A review of Nim 2: The good and bad with example code](https://miguel-martin.com/blog/nim2-review)
 * [2025-08-28, 19:58:49](https://news.ycombinator.com/item?id=45056377) - [Python: The Documentary – An origin story [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 * [2025-08-28, 18:12:34](https://news.ycombinator.com/item?id=45055205) - [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
 
