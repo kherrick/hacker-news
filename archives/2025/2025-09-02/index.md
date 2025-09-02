@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 04:38:30](https://news.ycombinator.com/item?id=45099192) - [Keyboards from My Collection](https://aresluna.org/50-keyboards-from-my-collection/)
+* [2025-09-02, 04:24:07](https://news.ycombinator.com/item?id=45099124) - [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
 * [2025-09-02, 03:31:34](https://news.ycombinator.com/item?id=45098867) - [The Wetware Crisis: The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 * [2025-09-02, 03:01:02](https://news.ycombinator.com/item?id=45098722) - [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
 * [2025-09-02, 02:42:10](https://news.ycombinator.com/item?id=45098600) - [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
