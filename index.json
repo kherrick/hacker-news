@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-09-02, 13:47:13",
+      "https://news.ycombinator.com/item?id=45103065"
+    ],
+    [
+      "Passkeys and Modern Authentication",
+      "https://lucumr.pocoo.org/2025/9/2/passkeys/"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 13:10:51",
       "https://news.ycombinator.com/item?id=45102664"
     ],
@@ -227,16 +237,6 @@
     [
       "Light Sleep: Waking VMs in 200ms with eBPF and snapshots",
       "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 07:01:01",
-      "https://news.ycombinator.com/item?id=45099939"
-    ],
-    [
-      "Kapa.ai (YC S23) is hiring research and software engineers",
-      "https://www.ycombinator.com/companies/kapa-ai/jobs"
     ]
   ],
   [
