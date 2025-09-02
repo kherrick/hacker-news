@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-09-02, 13:10:24",
-      "https://news.ycombinator.com/item?id=45102657"
+      "2025-09-02, 13:33:54",
+      "https://news.ycombinator.com/item?id=45102905"
     ],
     [
-      "How to Participate in the Ruby Community",
-      "https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community"
+      "Imgur's Community Is in Full Revolt Against Its Owner",
+      "https://www.404media.co/imgurs-community-is-in-full-revolt-against-its-owner/"
     ]
   ],
   [
     [
-      "2025-09-02, 12:56:37",
-      "https://news.ycombinator.com/item?id=45102512"
+      "2025-09-02, 13:10:51",
+      "https://news.ycombinator.com/item?id=45102664"
     ],
     [
-      "You can try to like stuff",
-      "https://dynomight.net/liking/"
+      "Show HN: Moribito – A TUI for LDAP Viewing/Queries",
+      "https://github.com/ericschmar/moribito"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45102186"
     ],
     [
-      "RubyMine Is Now Free for Non-Commercial Use",
+      "RubyMine is now free for non-commercial use",
       "https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45101779"
     ],
     [
-      "Toronto's Underground Labyrinth",
+      "Toronto’s underground labyrinth",
       "https://www.worksinprogress.news/p/torontos-underground-labyrinth"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45099922"
     ],
     [
-      "Next.js Is Infuriating",
+      "Next.js is infuriating",
       "https://blog.meca.sh/3lxoty3shjc2z"
     ]
   ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-09-01, 16:57:38",
-      "https://news.ycombinator.com/item?id=45094421"
-    ],
-    [
-      "Adaptive LLM routing under budget constraints",
-      "https://arxiv.org/abs/2508.21141"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 15:01:02",
       "https://news.ycombinator.com/item?id=45093192"
     ],
@@ -247,6 +237,16 @@
     [
       "Quirks of Common Lisp Types",
       "https://www.fosskers.ca/en/blog/cl-type-quirks"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 17:50:01",
+      "https://news.ycombinator.com/item?id=45067251"
+    ],
+    [
+      "Memory is slow, Disk is fast – Part 1",
+      "https://www.bitflux.ai/blog/memory-is-slow-part1/"
     ]
   ],
   [
