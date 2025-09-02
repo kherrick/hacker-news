@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 20:39:50](https://news.ycombinator.com/item?id=45108727) - [Judge Orders Google to Share Search Results to Help Resolve Monopoly](https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html)
+* [2025-09-02, 20:26:47](https://news.ycombinator.com/item?id=45108548) - [Google gets to keep Chrome but is barred from exclusive search deals](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
 * [2025-09-02, 20:02:57](https://news.ycombinator.com/item?id=45108292) - [U.S. Emissions Rise 4.2%, China's Fall 2.7%](https://www.theenergymix.com/u-s-emissions-rise-chinas-fall-in-massive-shift-between-worlds-biggest-climate-polluters/)
 * [2025-09-02, 19:42:48](https://news.ycombinator.com/item?id=45108066) - [Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
 * [2025-09-02, 19:34:24](https://news.ycombinator.com/item?id=45107962) - [First attempt will be 95% garbage: 6 weeks with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
