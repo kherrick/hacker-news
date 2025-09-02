@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 10:19:31](https://news.ycombinator.com/item?id=45101117) - [Unfortunately, the ICEBlock app is activism theater](https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/)
+* [2025-09-02, 08:40:20](https://news.ycombinator.com/item?id=45100499) - [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 * [2025-09-02, 07:38:17](https://news.ycombinator.com/item?id=45100163) - [A motto for programmers: \"Tuere usorem, data, veritatem\"](https://koas.dev/a-motto-for-programming/)
 * [2025-09-02, 07:01:01](https://news.ycombinator.com/item?id=45099939) - [Kapa.ai (YC S23) is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
 * [2025-09-02, 06:57:41](https://news.ycombinator.com/item?id=45099922) - [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
