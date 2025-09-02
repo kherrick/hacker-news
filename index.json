@@ -1,32 +1,12 @@
 [
   [
     [
-      "2025-09-02, 17:43:24",
-      "https://news.ycombinator.com/item?id=45106490"
-    ],
-    [
-      "The Tariffs Are Still Illegal",
-      "https://www.bloomberg.com/opinion/newsletters/2025-09-02/the-tariffs-are-still-illegal"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 17:32:08",
       "https://news.ycombinator.com/item?id=45106314"
     ],
     [
       "Introduction to Ada: a project-based exploration with rosettas",
       "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 17:29:57",
-      "https://news.ycombinator.com/item?id=45106282"
-    ],
-    [
-      "Google did not warn 2.5B Gmail users to reset passwords",
-      "https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/"
     ]
   ],
   [
@@ -41,11 +21,21 @@
   ],
   [
     [
+      "2025-09-02, 17:16:42",
+      "https://news.ycombinator.com/item?id=45106049"
+    ],
+    [
+      "<template>: The Content Template element",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 17:14:51",
       "https://news.ycombinator.com/item?id=45106011"
     ],
     [
-      "Phone Has Social Credit. We Just Lie About It",
+      "We already live in social credit, we just don't call it that",
       "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/"
     ]
   ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45105710"
     ],
     [
-      "'World Models,' an Old Idea in AI, Mount a Comeback",
+      "'World Models,' an old idea in AI, mount a comeback",
       "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/"
     ]
   ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2025-09-02, 16:06:37",
+      "https://news.ycombinator.com/item?id=45104944"
+    ],
+    [
+      "REST and gRPC in 33 Languages, with code examples",
+      "https://github.com/cloudstreet-dev/REST-gRPC-in-33-Languages/blob/main/book/manuscript/chapters/08-python.md"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 16:04:15",
       "https://news.ycombinator.com/item?id=45104907"
     ],
@@ -117,16 +117,6 @@
     [
       "Static sites enable a good time travel experience",
       "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 15:24:48",
-      "https://news.ycombinator.com/item?id=45104289"
-    ],
-    [
-      "The staff ate it later",
-      "https://en.wikipedia.org/wiki/The_staff_ate_it_later"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2025-09-02, 13:33:54",
+      "https://news.ycombinator.com/item?id=45102905"
+    ],
+    [
+      "Imgur's community was in revolt",
+      "https://www.404media.co/imgurs-community-is-in-full-revolt-against-its-owner/"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 13:10:51",
       "https://news.ycombinator.com/item?id=45102664"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2025-09-02, 12:25:08",
-      "https://news.ycombinator.com/item?id=45102186"
+      "2025-09-02, 11:44:14",
+      "https://news.ycombinator.com/item?id=45101779"
     ],
     [
-      "RubyMine is now free for non-commercial use",
-      "https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/"
+      "Toronto’s network of pedestrian tunnels",
+      "https://www.worksinprogress.news/p/torontos-underground-labyrinth"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-08-29, 12:12:57",
-      "https://news.ycombinator.com/item?id=45063037"
+      "2025-08-29, 18:56:56",
+      "https://news.ycombinator.com/item?id=45068008"
     ],
     [
-      "The day Return became Enter (2023)",
-      "https://aresluna.org/the-day-return-became-enter/"
+      "AI Models Need a Virtual Machine",
+      "https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/"
     ]
   ],
   [
