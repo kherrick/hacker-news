@@ -4,7 +4,7 @@
 * [2025-09-02, 02:42:10](https://news.ycombinator.com/item?id=45098600) - [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
 * [2025-09-02, 02:12:12](https://news.ycombinator.com/item?id=45098411) - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
 * [2025-09-02, 02:09:20](https://news.ycombinator.com/item?id=45098399) - [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
-* [2025-09-01, 22:44:21](https://news.ycombinator.com/item?id=45097263) - [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
+* [2025-09-02, 01:44:22](https://news.ycombinator.com/item?id=45098269) - [Kazeta: An operating system that brings the console gaming experience of 90s](https://kazeta.org/)
 * [2025-09-01, 21:03:51](https://news.ycombinator.com/item?id=45096585) - [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
 * [2025-09-01, 20:17:45](https://news.ycombinator.com/item?id=45096254) - [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
 * [2025-09-01, 20:05:38](https://news.ycombinator.com/item?id=45096140) - [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
