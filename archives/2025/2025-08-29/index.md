@@ -41,6 +41,7 @@
 * [2025-08-29, 13:01:45](https://news.ycombinator.com/item?id=45063559) - [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
 * [2025-08-29, 13:00:49](https://news.ycombinator.com/item?id=45063547) - [Show HN: A minimal TS library that generates prompt injection attacks](https://prompt-injector.blueprintlab.io/)
 * [2025-08-29, 12:58:35](https://news.ycombinator.com/item?id=45063526) - [A Dark Money Group Is Funding High-Profile Democratic Influencers](https://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/)
+* [2025-08-29, 12:56:35](https://news.ycombinator.com/item?id=45063502) - [Growing the Java Language](https://www.youtube.com/watch?v=Gz7Or9C0TpM)
 * [2025-08-29, 12:51:01](https://news.ycombinator.com/item?id=45063431) - [Gun Maker Sig Sauer Citing National Security to Keep Documents from Public](https://practicalshootinginsights.com/eighth-circuit-fmeca-update/)
 * [2025-08-29, 12:26:48](https://news.ycombinator.com/item?id=45063176) - [Ripple is a TypeScript UI framework for web (If React and Svelte had a baby)](https://github.com/trueadm/ripple)
 * [2025-08-29, 12:12:57](https://news.ycombinator.com/item?id=45063037) - [The day Return became Enter (2023)](https://aresluna.org/the-day-return-became-enter/)
