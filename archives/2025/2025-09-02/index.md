@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 19:28:43](https://news.ycombinator.com/item?id=45107891) - [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
 * [2025-09-02, 19:15:45](https://news.ycombinator.com/item?id=45107712) - [FBI arrests US Army veteran for 'conspiracy' over protest against ICE](https://www.theguardian.com/us-news/2025/sep/02/fbi-arrest-us-army-veteran-ice-protest)
 * [2025-09-02, 18:48:26](https://news.ycombinator.com/item?id=45107364) - [Show HN: Amber – better Beeper, a modern all-in-one messenger](https://useamber.app/)
 * [2025-09-02, 18:47:26](https://news.ycombinator.com/item?id=45107353) - [The Kafka Replication Protocol with KIP-966](https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md)
 * [2025-09-02, 18:39:28](https://news.ycombinator.com/item?id=45107249) - [A gentle introduction to CP/M](https://eerielinux.wordpress.com/2025/08/28/a-gentle-introduction-to-cp-m/)
+* [2025-09-02, 18:18:10](https://news.ycombinator.com/item?id=45106981) - [OpenAI: Vijaye Raji to Become CTO of Applications with Acquisition of Statsig](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/)
 * [2025-09-02, 18:12:13](https://news.ycombinator.com/item?id=45106903) - [ICE obtains access to Israeli-made spyware that hack phones and encrypted apps](https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware)
+* [2025-09-02, 18:07:22](https://news.ycombinator.com/item?id=45106846) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 * [2025-09-02, 17:57:31](https://news.ycombinator.com/item?id=45106697) - [State of Permanent Fake Emergency](https://www.theatlantic.com/ideas/archive/2025/09/emergency-authority-power-trump-democracy/684053/)
 * [2025-09-02, 17:43:24](https://news.ycombinator.com/item?id=45106490) - [The Tariffs Are Still Illegal](https://www.bloomberg.com/opinion/newsletters/2025-09-02/the-tariffs-are-still-illegal)
 * [2025-09-02, 17:32:08](https://news.ycombinator.com/item?id=45106314) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
