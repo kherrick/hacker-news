@@ -49,6 +49,7 @@
 * [2025-08-30, 10:46:15](https://news.ycombinator.com/item?id=45073589) - [Tell HN: My advice after I applied to 450 positions before getting hired](https://news.ycombinator.com/item?id=45073589)
 * [2025-08-30, 10:25:30](https://news.ycombinator.com/item?id=45073492) - [Amiga Hardware Reference Manual 3rd Edition (1991)](https://archive.org/details/amiga-hardware-reference-manual-3rd-edition)
 * [2025-08-30, 10:21:10](https://news.ycombinator.com/item?id=45073469) - [Computing simplified coverage polygons](https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html)
+* [2025-08-30, 08:30:43](https://news.ycombinator.com/item?id=45072966) - [Pearl – An Erlang lexer and syntax highlighter in Gleam](https://github.com/GearsDatapacks/pearl)
 * [2025-08-30, 07:19:31](https://news.ycombinator.com/item?id=45072599) - [Milan's expat 'explosion' brings new buzz to Italy's financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)
 * [2025-08-30, 07:16:02](https://news.ycombinator.com/item?id=45072577) - [I got people to pay me $50K in 3 days with NFTs (2021)](https://paulstamatiou.com/how-i-made-50k-in-3-days-with-nfts)
 * [2025-08-30, 05:45:24](https://news.ycombinator.com/item?id=45072160) - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
