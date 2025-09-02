@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 17:43:24](https://news.ycombinator.com/item?id=45106490) - [The Tariffs Are Still Illegal](https://www.bloomberg.com/opinion/newsletters/2025-09-02/the-tariffs-are-still-illegal)
 * [2025-09-02, 17:32:08](https://news.ycombinator.com/item?id=45106314) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
+* [2025-09-02, 17:29:57](https://news.ycombinator.com/item?id=45106282) - [Google did not warn 2.5B Gmail users to reset passwords](https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/)
 * [2025-09-02, 17:24:57](https://news.ycombinator.com/item?id=45106189) - [Python has had async for 10 years – why isn't it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
 * [2025-09-02, 17:14:51](https://news.ycombinator.com/item?id=45106011) - [Phone Has Social Credit. We Just Lie About It](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/)
 * [2025-09-02, 17:12:25](https://news.ycombinator.com/item?id=45105983) - [Dozens of scientists find errors in a new Energy Department climate report](https://www.npr.org/2025/09/02/nx-s1-5521384/energy-report-scientists-climate-change)
