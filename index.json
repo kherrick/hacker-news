@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-09-02, 13:10:51",
-      "https://news.ycombinator.com/item?id=45102664"
-    ],
-    [
-      "Show HN: Moribito – A TUI for LDAP Viewing/Queries",
-      "https://github.com/ericschmar/moribito"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 12:56:37",
       "https://news.ycombinator.com/item?id=45102512"
     ],
@@ -277,6 +267,16 @@
     [
       "Light Sleep: Waking VMs in 200ms with eBPF and snapshots",
       "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 08:46:05",
+      "https://news.ycombinator.com/item?id=45073031"
+    ],
+    [
+      "Triangle Grids",
+      "https://kvachev.com/blog/posts/triangular-grid/"
     ]
   ],
   [
