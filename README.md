@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-02, 03:01:02](https://news.ycombinator.com/item?id=45098722) - [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
 * [2025-09-02, 02:12:12](https://news.ycombinator.com/item?id=45098411) - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
 * [2025-09-02, 02:09:20](https://news.ycombinator.com/item?id=45098399) - [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
 * [2025-09-01, 22:44:21](https://news.ycombinator.com/item?id=45097263) - [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
 * [2025-09-01, 21:03:51](https://news.ycombinator.com/item?id=45096585) - [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
 * [2025-09-01, 20:17:45](https://news.ycombinator.com/item?id=45096254) - [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
-* [2025-09-01, 20:08:34](https://news.ycombinator.com/item?id=45096173) - [Desert Graves (2021)](https://www.desertmountaineer.com/2021/08/06/graves/)
 * [2025-09-01, 20:05:38](https://news.ycombinator.com/item?id=45096140) - [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
 * [2025-09-01, 19:32:17](https://news.ycombinator.com/item?id=45095849) - [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
 * [2025-09-01, 19:04:31](https://news.ycombinator.com/item?id=45095603) - [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
