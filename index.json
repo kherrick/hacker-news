@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2025-09-02, 19:15:45",
-      "https://news.ycombinator.com/item?id=45107712"
-    ],
-    [
-      "FBI arrests US Army veteran for 'conspiracy' over protest against ICE",
-      "https://www.theguardian.com/us-news/2025/sep/02/fbi-arrest-us-army-veteran-ice-protest"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 18:58:00",
       "https://news.ycombinator.com/item?id=45107505"
     ],
     [
       "Civics Is Boring. So, Let's Encrypt Something",
       "https://queue.acm.org/detail.cfm?id=3703126"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 18:48:26",
-      "https://news.ycombinator.com/item?id=45107364"
-    ],
-    [
-      "Show HN: Amber – better Beeper, a modern all-in-one messenger",
-      "https://useamber.app/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-09-02, 08:25:47",
+      "https://news.ycombinator.com/item?id=45100421"
+    ],
+    [
+      "Light Sleep: Waking VMs in 200ms with eBPF and snapshots",
+      "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 07:01:01",
       "https://news.ycombinator.com/item?id=45099939"
     ],
@@ -267,6 +257,16 @@
     [
       "Quirks of Common Lisp Types",
       "https://www.fosskers.ca/en/blog/cl-type-quirks"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 08:30:43",
+      "https://news.ycombinator.com/item?id=45072966"
+    ],
+    [
+      "Pearl – An Erlang lexer and syntax highlighter in Gleam",
+      "https://github.com/GearsDatapacks/pearl"
     ]
   ],
   [
