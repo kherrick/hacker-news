@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-02, 10:21:42](https://news.ycombinator.com/item?id=45101127) - [Europol said ChatControl doesn't go far enough; they want to retain data forever](https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/)
 * [2025-09-02, 10:19:31](https://news.ycombinator.com/item?id=45101117) - [Unfortunately, the ICEBlock app is activism theater](https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/)
 * [2025-09-02, 08:40:20](https://news.ycombinator.com/item?id=45100499) - [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 * [2025-09-02, 07:01:01](https://news.ycombinator.com/item?id=45099939) - [Kapa.ai (YC S23) is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
@@ -24,7 +25,6 @@
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 03:08:07](https://news.ycombinator.com/item?id=45089072) - [The first inkjet printer was a medical device](https://spectrum.ieee.org/rune-elmqvist)
 * [2025-08-31, 21:46:26](https://news.ycombinator.com/item?id=45087396) - [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
-* [2025-08-29, 13:23:18](https://news.ycombinator.com/item?id=45063789) - [Animated Text in Voxel Space](https://www.splats.com/watch/635)
 * [2025-08-29, 12:12:57](https://news.ycombinator.com/item?id=45063037) - [The day Return became Enter (2023)](https://aresluna.org/the-day-return-became-enter/)
 * [2025-08-29, 09:40:19](https://news.ycombinator.com/item?id=45062046) - [An LLM is a lossy encyclopedia](https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/)
 * [2025-08-29, 07:39:52](https://news.ycombinator.com/item?id=45061290) - [Stone Age settlement found under the sea in Denmark](https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d)

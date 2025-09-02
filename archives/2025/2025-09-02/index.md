@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 10:21:42](https://news.ycombinator.com/item?id=45101127) - [Europol said ChatControl doesn't go far enough; they want to retain data forever](https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/)
 * [2025-09-02, 10:19:31](https://news.ycombinator.com/item?id=45101117) - [Unfortunately, the ICEBlock app is activism theater](https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/)
 * [2025-09-02, 08:40:20](https://news.ycombinator.com/item?id=45100499) - [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 * [2025-09-02, 07:38:17](https://news.ycombinator.com/item?id=45100163) - [A motto for programmers: \"Tuere usorem, data, veritatem\"](https://koas.dev/a-motto-for-programming/)
