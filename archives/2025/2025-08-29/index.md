@@ -54,6 +54,7 @@
 * [2025-08-29, 09:28:50](https://news.ycombinator.com/item?id=45061980) - [Probability of typing a wrong Bitcoin address](https://www.johndcook.com/blog/2025/08/28/wrong-address/)
 * [2025-08-29, 08:45:21](https://news.ycombinator.com/item?id=45061702) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-08-29, 08:42:40](https://news.ycombinator.com/item?id=45061689) - [Contrastive Representations for Temporal Reasoning](https://princeton-rl.github.io/CRTR/)
+* [2025-08-29, 08:41:38](https://news.ycombinator.com/item?id=45061680) - [Rare IBM Schools Computer 1969](https://retrocomputingforum.com/t/rare-ibm-schools-computer-1969/5209)
 * [2025-08-29, 08:20:12](https://news.ycombinator.com/item?id=45061537) - [Reuters stopped sharing Gaza locations with Israel after IDF strikes](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)
 * [2025-08-29, 07:52:54](https://news.ycombinator.com/item?id=45061376) - [India's billion-dollar e-waste empire](https://restofworld.org/2025/india-e-waste-recycling-electronics/)
 * [2025-08-29, 07:39:52](https://news.ycombinator.com/item?id=45061290) - [Stone Age settlement found under the sea in Denmark](https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d)
