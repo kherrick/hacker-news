@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-02, 20:39:50",
+      "https://news.ycombinator.com/item?id=45108727"
+    ],
+    [
+      "Judge Orders Google to Share Search Results to Help Resolve Monopoly",
+      "https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 20:26:47",
+      "https://news.ycombinator.com/item?id=45108548"
+    ],
+    [
+      "Google gets to keep Chrome but is barred from exclusive search deals",
+      "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 20:02:57",
       "https://news.ycombinator.com/item?id=45108292"
     ],
@@ -57,6 +77,16 @@
     [
       "Civics is boring, so, let's encrypt something (2024)",
       "https://queue.acm.org/detail.cfm?id=3703126"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 18:48:26",
+      "https://news.ycombinator.com/item?id=45107364"
+    ],
+    [
+      "Show HN: Amber – better Beeper, a modern all-in-one messenger",
+      "https://useamber.app/"
     ]
   ],
   [
@@ -131,6 +161,16 @@
   ],
   [
     [
+      "2025-09-02, 17:24:57",
+      "https://news.ycombinator.com/item?id=45106189"
+    ],
+    [
+      "Python has had async for 10 years – why isn't it more popular?",
+      "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 17:16:42",
       "https://news.ycombinator.com/item?id=45106049"
     ],
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2025-09-02, 17:14:51",
-      "https://news.ycombinator.com/item?id=45106011"
-    ],
-    [
-      "We already live in social credit, we just don't call it that",
-      "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 16:53:29",
       "https://news.ycombinator.com/item?id=45105710"
     ],
     [
       "'World Models,' an old idea in AI, mount a comeback",
       "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 16:24:44",
-      "https://news.ycombinator.com/item?id=45105230"
-    ],
-    [
-      "AI web crawlers are destroying websites in their never-ending content hunger",
-      "https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/"
     ]
   ],
   [
@@ -185,7 +205,7 @@
       "https://news.ycombinator.com/item?id=45104907"
     ],
     [
-      "Anthropic raises $13B Series F at $183B post-money valuation",
+      "Anthropic raises $13B Series F",
       "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"
     ]
   ],
@@ -231,22 +251,22 @@
   ],
   [
     [
+      "2025-09-02, 12:56:37",
+      "https://news.ycombinator.com/item?id=45102512"
+    ],
+    [
+      "Take something you don’t like and try to like it",
+      "https://dynomight.net/liking/"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 11:44:14",
       "https://news.ycombinator.com/item?id=45101779"
     ],
     [
       "Toronto’s network of pedestrian tunnels",
       "https://www.worksinprogress.news/p/torontos-underground-labyrinth"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 08:40:20",
-      "https://news.ycombinator.com/item?id=45100499"
-    ],
-    [
-      "Run Erlang/Elixir on Microcontrollers and Embedded Linux",
-      "https://www.grisp.org/software"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-08-30, 08:30:43",
-      "https://news.ycombinator.com/item?id=45072966"
-    ],
-    [
-      "Pearl – An Erlang lexer and syntax highlighter in Gleam",
-      "https://github.com/GearsDatapacks/pearl"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 22:12:51",
       "https://news.ycombinator.com/item?id=45070019"
     ],
     [
       "Writing a Hypervisor in 1k Lines",
       "https://seiya.me/blog/hypervisor-in-1000-lines"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 21:01:53",
-      "https://news.ycombinator.com/item?id=45069341"
-    ],
-    [
-      "Reusing Computation in Text-to-Image Diffusion for Efficient Image Generation",
-      "https://arxiv.org/abs/2508.21032"
     ]
   ],
   [
