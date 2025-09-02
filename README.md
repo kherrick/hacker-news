@@ -22,7 +22,7 @@
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods trunk read-only plan](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
 * [2025-08-31, 21:46:26](https://news.ycombinator.com/item?id=45087396) - [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
-* [2025-08-29, 12:56:35](https://news.ycombinator.com/item?id=45063502) - [Growing the Java Language](https://www.youtube.com/watch?v=Gz7Or9C0TpM)
+* [2025-08-29, 12:56:35](https://news.ycombinator.com/item?id=45063502) - [Growing the Java Language [video]](https://www.youtube.com/watch?v=Gz7Or9C0TpM)
 * [2025-08-29, 12:26:48](https://news.ycombinator.com/item?id=45063176) - [Ripple – A TypeScript UI framework that takes the best of React, Solid, Svelte](https://github.com/trueadm/ripple)
 * [2025-08-29, 12:12:57](https://news.ycombinator.com/item?id=45063037) - [The day Return became Enter (2023)](https://aresluna.org/the-day-return-became-enter/)
 * [2025-08-29, 07:39:52](https://news.ycombinator.com/item?id=45061290) - [Stone Age settlement found under the sea in Denmark](https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d)
