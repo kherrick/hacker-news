@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
 * [2025-08-29, 23:40:21](https://news.ycombinator.com/item?id=45070602) - [Nginx-CGI brings support for CGI to Nginx and angie](https://github.com/pjincz/nginx-cgi)
+* [2025-08-29, 22:12:51](https://news.ycombinator.com/item?id=45070019) - [Writing a Hypervisor in 1k Lines](https://seiya.me/blog/hypervisor-in-1000-lines)
 * [2025-08-29, 21:13:50](https://news.ycombinator.com/item?id=45069452) - [MSNBC: Whistleblower accuses DOGE team of endangering Social Security data](https://whistleblower.org/in-the-news/msnbc-whistleblower-accuses-doge-team-of-endangering-critical-social-security-data/)
 * [2025-08-29, 21:04:13](https://news.ycombinator.com/item?id=45069361) - [AI is ummasking ICE officers. Can Washington do anything about it?](https://www.politico.com/news/2025/08/29/ai-unmasking-ice-officers-00519478)
 * [2025-08-29, 21:01:53](https://news.ycombinator.com/item?id=45069341) - [Reusing Computation in Text-to-Image Diffusion for Efficient Image Generation](https://arxiv.org/abs/2508.21032)

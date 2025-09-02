@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-02, 16:39:59](https://news.ycombinator.com/item?id=45105495) - [How to Argue with an AI Booster](https://www.wheresyoured.at/how-to-argue-with-an-ai-booster/)
+* [2025-09-02, 17:12:25](https://news.ycombinator.com/item?id=45105983) - [Dozens of scientists find errors in a new Energy Department climate report](https://www.npr.org/2025/09/02/nx-s1-5521384/energy-report-scientists-climate-change)
 * [2025-09-02, 16:24:44](https://news.ycombinator.com/item?id=45105230) - [AI web crawlers are destroying websites in their never-ending content hunger](https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/)
 * [2025-09-02, 16:08:31](https://news.ycombinator.com/item?id=45104974) - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974)
 * [2025-09-02, 16:04:15](https://news.ycombinator.com/item?id=45104907) - [Anthropic raises $13B Series F at $183B post-money valuation](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation)
@@ -23,9 +23,9 @@
 * [2025-09-01, 19:32:17](https://news.ycombinator.com/item?id=45095849) - [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
 * [2025-09-01, 19:04:31](https://news.ycombinator.com/item?id=45095603) - [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
 * [2025-09-01, 18:47:21](https://news.ycombinator.com/item?id=45095460) - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
-* [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-08-31, 00:06:42](https://news.ycombinator.com/item?id=45079131) - [Quirks of Common Lisp Types](https://www.fosskers.ca/en/blog/cl-type-quirks)
 * [2025-08-30, 03:08:46](https://news.ycombinator.com/item?id=45071592) - [The easy way to make a website with Markdown](https://github.com/dtedesco1/nextjs-markdown-boilerplate)
+* [2025-08-29, 22:12:51](https://news.ycombinator.com/item?id=45070019) - [Writing a Hypervisor in 1k Lines](https://seiya.me/blog/hypervisor-in-1000-lines)
 * [2025-08-29, 21:01:53](https://news.ycombinator.com/item?id=45069341) - [Reusing Computation in Text-to-Image Diffusion for Efficient Image Generation](https://arxiv.org/abs/2508.21032)
 * [2025-08-29, 12:12:57](https://news.ycombinator.com/item?id=45063037) - [The day Return became Enter (2023)](https://aresluna.org/the-day-return-became-enter/)
 * [2025-08-29, 09:40:19](https://news.ycombinator.com/item?id=45062046) - [An LLM is a lossy encyclopedia](https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/)
