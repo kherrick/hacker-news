@@ -129,6 +129,118 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45104974">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=45104974"
+              >Launch HN: Datafruit (YC S25) – AI for DevOps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-02 @ 16:08:31</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45104974"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://datafruit.dev/">https://datafruit.dev/</a>), an
+              AI DevOps agent. We’re like Devin for DevOps. You can ask
+              Datafruit to check your cloud spend, look for loose security
+              policies, make changes to your IaC, and it can reason across your
+              deployment standards, design docs, and DevOps practices.
+              <p>
+                Demo video:
+                <a href="https://www.youtube.com/watch?v=2FitSggI7tg"
+                  >https://www.youtube.com/watch?v=2FitSggI7tg</a
+                >.
+              </p>
+              <p>
+                Right now, we have two main methods to interact with Datafruit:
+              </p>
+              <p>
+                (1) automated infrastructure audits— agents periodically scan
+                your environment to find cost optimization opportunities, detect
+                infrastructure drift, and validate your infra against compliance
+                requirements.
+              </p>
+              <p>
+                (2) chat interface (available as a web UI and through slack) —
+                ask the agent questions for real-time insights, or assign tasks
+                directly, such as investigating spend anomalies, reviewing
+                security posture, or applying changes to IaC resources.
+              </p>
+              <p>
+                Working at FAANG and various high-growth startups, we realized
+                that infra work requires an enormous amount of context, often
+                more than traditional software engineering. The business
+                decisions, codebase, and cloud itself are all extremely
+                important in any task that has been assigned. To maximize the
+                success of the agents, we do a fair amount of context
+                engineering. Not hallucinating is super important!
+              </p>
+              <p>
+                One thing which has worked incredibly well for us is a
+                multi-agent system where we have specialized sub-agents with
+                access to specific tool calls and documentation for their
+                specialty. Agents choose to “handoff” to each other when they
+                feel like another agent would be more specialized for the task.
+                However, all agents share the same context (<a
+                  href="https://cognition.ai/blog/dont-build-multi-agents"
+                  >https://cognition.ai/blog/dont-build-multi-agents</a
+                >). We’re pretty happy with this approach, and believe it could
+                work in other disciplines which require high amounts of
+                specialized expertise.
+              </p>
+              <p>
+                Infrastructure is probably the most mission-critical part of any
+                software organization, and needs extremely heavy guardrails to
+                keep it safe. Language models are not yet at the point where
+                they can be trusted to make changes (we’ve talked to a couple of
+                startups where the Claude Code + AWS CLI combo has taken their
+                infra down). Right now, Datafruit receives read-only access to
+                your infrastructure and can only make changes through pull
+                requests to your IaC repositories. The agent also operates in a
+                sandboxed virtual environment so that it could not write cloud
+                CLI commands if it wanted to!
+              </p>
+              <p>
+                Where LLMs <i>can</i> add significant value is in reducing the
+                constant operational inefficiencies that eat up cloud spend and
+                delay deadlines—the small-but-urgent ops work. Once Datafruit
+                indexes your environment, you can ask it to do things like:
+              </p>
+              <p></p>
+              <pre><code>  "Grant @User write access to analytics S3 bucket for 24 hours"
+    -&gt; Creates temporary IAM role, sends least-privilege credentials, auto-revokes tomorrow
+
+  "Find where this secret is used so I can rotate it without downtime"
+    -&gt; Discovers all instances of your secret, including old cron-jobs you might not know about, so you can safely rotate your keys
+
+
+  "Why did database costs spike yesterday?"
+    -&gt; Identifies expensive queries, shows optimization options, implements fixes
+
+</code></pre>
+              We charge a straightforward subscription model for a managed
+              version, but we also offer a bring-your-own-cloud model. All of
+              Datafruit can be deployed on Kubernetes using Helm charts for
+              enterprise customers where data can’t leave your VPC. For the time
+              being, we’re installing the product ourselves on customers'
+              clouds. It doesn’t exist in a self-serve form yet. We’ll get there
+              eventually, but in the meantime if you’re interested we’d love for
+              you guys to email us at founders@datafruit.dev.
+              <p>
+                We would love to hear your thoughts! If you work with cloud
+                infra, we are especially interested in learning about what kinds
+                of work you do which you wish could be offloaded onto an agent.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45104907">
           <h3>
             <a
@@ -141,11 +253,11 @@
             <h4>
               <span>2025-09-02 @ 16:04:15</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45104907"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -162,11 +274,11 @@
             <h4>
               <span>2025-09-02 @ 15:42:43</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45104597"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -183,7 +295,7 @@
             <h4>
               <span>2025-09-02 @ 15:25:44</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45104303"
                   >Comments</a
@@ -208,7 +320,28 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45104115"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 47</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45103857">
+          <h3>
+            <a
+              class="item"
+              href="https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/"
+              >Removing Guix from Debian</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-02 @ 14:49:40</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45103857"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -225,11 +358,11 @@
             <h4>
               <span>2025-09-02 @ 14:32:47</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45103646"
                   >Comments</a
-                ><span class="descendants">: 179</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
           </section>
@@ -246,11 +379,30 @@
             <h4>
               <span>2025-09-02 @ 14:17:07</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45103436"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45103065">
+          <h3>
+            <a class="item" href="https://lucumr.pocoo.org/2025/9/2/passkeys/"
+              >Passkeys and Modern Authentication</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-02 @ 13:47:13</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45103065"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -267,11 +419,11 @@
             <h4>
               <span>2025-09-02 @ 13:33:54</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45102905"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -286,11 +438,11 @@
             <h4>
               <span>2025-09-02 @ 13:10:51</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45102664"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -314,32 +466,11 @@
             <h4>
               <span>2025-09-02 @ 12:25:08</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45102186"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45101794">
-          <h3>
-            <a
-              class="item"
-              href="https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/"
-              >The Sudden Surges That Forge Evolutionary Trees</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-02 @ 11:45:37</span
-              ><span class="points-container"
-                >Points: <span class="points">16</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45101794"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -354,7 +485,7 @@
             <h4>
               <span>2025-09-02 @ 08:40:20</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45100499"
                   >Comments</a
@@ -390,11 +521,11 @@
             <h4>
               <span>2025-09-02 @ 06:57:41</span
               ><span class="points-container"
-                >Points: <span class="points">776</span></span
+                >Points: <span class="points">782</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45099922"
                   >Comments</a
-                ><span class="descendants">: 427</span></span
+                ><span class="descendants">: 429</span></span
               >
             </h4>
           </section>
@@ -409,11 +540,11 @@
             <h4>
               <span>2025-09-02 @ 05:26:04</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45099418"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -430,7 +561,7 @@
             <h4>
               <span>2025-09-02 @ 04:38:30</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45099192"
                   >Comments</a
@@ -469,32 +600,11 @@
             <h4>
               <span>2025-09-02 @ 01:44:22</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45098269"
                   >Comments</a
                 ><span class="descendants">: 122</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45096585">
-          <h3>
-            <a
-              class="item"
-              href="https://marc.info/?l=openbsd-cvs&amp;m=175675287220070&amp;w=2"
-              >Raspberry Pi 5 support (OpenBSD)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-01 @ 21:03:51</span
-              ><span class="points-container"
-                >Points: <span class="points">214</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45096585"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -509,7 +619,7 @@
             <h4>
               <span>2025-09-01 @ 19:32:17</span
               ><span class="points-container"
-                >Points: <span class="points">391</span></span
+                >Points: <span class="points">392</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45095849"
                   >Comments</a
@@ -530,37 +640,16 @@
             <h4>
               <span>2025-09-01 @ 19:04:31</span
               ><span class="points-container"
-                >Points: <span class="points">328</span></span
+                >Points: <span class="points">332</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45095603"
                   >Comments</a
-                ><span class="descendants">: 590</span></span
+                ><span class="descendants">: 596</span></span
               >
             </h4>
             <div class="text">
               <a href="https://archive.ph/ed8WJ">https://archive.ph/ed8WJ</a>
             </div>
-          </section>
-        </section>
-        <section id="45095475">
-          <h3>
-            <a
-              class="item"
-              href="https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/"
-              >The future of 32-bit support in the kernel</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-01 @ 18:48:22</span
-              ><span class="points-container"
-                >Points: <span class="points">248</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45095475"
-                  >Comments</a
-                ><span class="descendants">: 262</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="45095460">
@@ -575,7 +664,7 @@
             <h4>
               <span>2025-09-01 @ 18:47:21</span
               ><span class="points-container"
-                >Points: <span class="points">451</span></span
+                >Points: <span class="points">452</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45095460"
                   >Comments</a
@@ -594,11 +683,11 @@
             <h4>
               <span>2025-09-01 @ 13:17:56</span
               ><span class="points-container"
-                >Points: <span class="points">491</span></span
+                >Points: <span class="points">494</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45092490"
                   >Comments</a
-                ><span class="descendants">: 438</span></span
+                ><span class="descendants">: 439</span></span
               >
             </h4>
           </section>
@@ -636,11 +725,11 @@
             <h4>
               <span>2025-08-30 @ 03:08:46</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45071592"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -656,7 +745,7 @@
             <h4>
               <span>2025-08-29 @ 21:01:53</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45069341"
                   >Comments</a
@@ -677,11 +766,11 @@
             <h4>
               <span>2025-08-29 @ 12:12:57</span
               ><span class="points-container"
-                >Points: <span class="points">303</span></span
+                >Points: <span class="points">305</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45063037"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -698,11 +787,11 @@
             <h4>
               <span>2025-08-29 @ 09:40:19</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">319</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45062046"
                   >Comments</a
-                ><span class="descendants">: 227</span></span
+                ><span class="descendants">: 230</span></span
               >
             </h4>
           </section>
@@ -723,7 +812,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45061290"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
@@ -740,7 +829,7 @@
             <h4>
               <span>2025-08-28 @ 18:12:34</span
               ><span class="points-container"
-                >Points: <span class="points">818</span></span
+                >Points: <span class="points">820</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45055205"
                   >Comments</a
