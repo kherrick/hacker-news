@@ -49,6 +49,7 @@
 * [2025-08-30, 10:46:15](https://news.ycombinator.com/item?id=45073589) - [Tell HN: My advice after I applied to 450 positions before getting hired](https://news.ycombinator.com/item?id=45073589)
 * [2025-08-30, 10:25:30](https://news.ycombinator.com/item?id=45073492) - [Amiga Hardware Reference Manual 3rd Edition (1991)](https://archive.org/details/amiga-hardware-reference-manual-3rd-edition)
 * [2025-08-30, 10:21:10](https://news.ycombinator.com/item?id=45073469) - [Computing simplified coverage polygons](https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html)
+* [2025-08-30, 09:05:22](https://news.ycombinator.com/item?id=45073137) - [Google Pixel 10 series review: Don't call it an Android](https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/)
 * [2025-08-30, 08:46:05](https://news.ycombinator.com/item?id=45073031) - [Triangle Grids](https://kvachev.com/blog/posts/triangular-grid/)
 * [2025-08-30, 08:30:43](https://news.ycombinator.com/item?id=45072966) - [Pearl – An Erlang lexer and syntax highlighter in Gleam](https://github.com/GearsDatapacks/pearl)
 * [2025-08-30, 07:19:31](https://news.ycombinator.com/item?id=45072599) - [Milan's expat 'explosion' brings new buzz to Italy's financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)
