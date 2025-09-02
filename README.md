@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-02, 18:12:13](https://news.ycombinator.com/item?id=45106903) - [ICE obtains access to Israeli-made spyware that hack phones and encrypted apps](https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware)
 * [2025-09-02, 17:32:08](https://news.ycombinator.com/item?id=45106314) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
+* [2025-09-02, 17:30:35](https://news.ycombinator.com/item?id=45106295) - [Microsoft rewarded for security failures with another US Government contract](https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/)
 * [2025-09-02, 17:24:57](https://news.ycombinator.com/item?id=45106189) - [Python has had async for 10 years – why isn't it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
 * [2025-09-02, 17:22:01](https://news.ycombinator.com/item?id=45106132) - [The repercussions of a typo in C++ & Rust](https://www.nablag.com/rust_cpp_missing_ampersand)
 * [2025-09-02, 17:16:42](https://news.ycombinator.com/item?id=45106049) - [<template>: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template)
-* [2025-09-02, 17:14:51](https://news.ycombinator.com/item?id=45106011) - [We already live in social credit, we just don't call it that](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/)
 * [2025-09-02, 16:53:29](https://news.ycombinator.com/item?id=45105710) - ['World Models,' an old idea in AI, mount a comeback](https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/)
 * [2025-09-02, 16:24:44](https://news.ycombinator.com/item?id=45105230) - [AI web crawlers are destroying websites in their never-ending content hunger](https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/)
 * [2025-09-02, 16:15:54](https://news.ycombinator.com/item?id=45105081) - [OpenAI says it's scanning users' conversations and reporting content to police](https://futurism.com/openai-scanning-conversations-police)
@@ -28,7 +29,6 @@
 * [2025-08-30, 03:08:46](https://news.ycombinator.com/item?id=45071592) - [The easy way to make a website with Markdown](https://github.com/dtedesco1/nextjs-markdown-boilerplate)
 * [2025-08-29, 22:12:51](https://news.ycombinator.com/item?id=45070019) - [Writing a Hypervisor in 1k Lines](https://seiya.me/blog/hypervisor-in-1000-lines)
 * [2025-08-29, 21:01:53](https://news.ycombinator.com/item?id=45069341) - [Reusing Computation in Text-to-Image Diffusion for Efficient Image Generation](https://arxiv.org/abs/2508.21032)
-* [2025-08-29, 18:56:56](https://news.ycombinator.com/item?id=45068008) - [AI Models Need a Virtual Machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
 * [2025-08-29, 09:40:19](https://news.ycombinator.com/item?id=45062046) - [An LLM is a lossy encyclopedia](https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/)
 
 ## [Archives](archives/index.md)

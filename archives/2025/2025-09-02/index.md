@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 18:12:13](https://news.ycombinator.com/item?id=45106903) - [ICE obtains access to Israeli-made spyware that hack phones and encrypted apps](https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware)
 * [2025-09-02, 17:43:24](https://news.ycombinator.com/item?id=45106490) - [The Tariffs Are Still Illegal](https://www.bloomberg.com/opinion/newsletters/2025-09-02/the-tariffs-are-still-illegal)
 * [2025-09-02, 17:32:08](https://news.ycombinator.com/item?id=45106314) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
+* [2025-09-02, 17:30:35](https://news.ycombinator.com/item?id=45106295) - [Microsoft rewarded for security failures with another US Government contract](https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/)
 * [2025-09-02, 17:29:57](https://news.ycombinator.com/item?id=45106282) - [Google did not warn 2.5B Gmail users to reset passwords](https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/)
 * [2025-09-02, 17:24:57](https://news.ycombinator.com/item?id=45106189) - [Python has had async for 10 years – why isn't it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
 * [2025-09-02, 17:22:01](https://news.ycombinator.com/item?id=45106132) - [The repercussions of a typo in C++ & Rust](https://www.nablag.com/rust_cpp_missing_ampersand)
