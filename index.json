@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-09-02, 17:12:25",
-      "https://news.ycombinator.com/item?id=45105983"
+      "2025-09-02, 17:32:08",
+      "https://news.ycombinator.com/item?id=45106314"
     ],
     [
-      "Dozens of scientists find errors in a new Energy Department climate report",
-      "https://www.npr.org/2025/09/02/nx-s1-5521384/energy-report-scientists-climate-change"
+      "Introduction to Ada: a project-based exploration with rosettas",
+      "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 17:24:57",
+      "https://news.ycombinator.com/item?id=45106189"
+    ],
+    [
+      "Python has had async for 10 years – why isn't it more popular?",
+      "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 17:14:51",
+      "https://news.ycombinator.com/item?id=45106011"
+    ],
+    [
+      "Phone Has Social Credit. We Just Lie About It",
+      "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 16:53:29",
+      "https://news.ycombinator.com/item?id=45105710"
+    ],
+    [
+      "'World Models,' an Old Idea in AI, Mount a Comeback",
+      "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/"
     ]
   ],
   [
@@ -17,6 +47,16 @@
     [
       "AI web crawlers are destroying websites in their never-ending content hunger",
       "https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 16:15:54",
+      "https://news.ycombinator.com/item?id=45105081"
+    ],
+    [
+      "OpenAI says it's scanning users' conversations and reporting content to police",
+      "https://futurism.com/openai-scanning-conversations-police"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Removing Guix from Debian",
       "https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 14:32:47",
-      "https://news.ycombinator.com/item?id=45103646"
-    ],
-    [
-      "You don't want to hire \"the best engineers\"",
-      "https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2025-09-02, 03:01:02",
-      "https://news.ycombinator.com/item?id=45098722"
-    ],
-    [
-      "FreeDroidWarn",
-      "https://github.com/woheller69/FreeDroidWarn"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 01:44:22",
       "https://news.ycombinator.com/item?id=45098269"
     ],
     [
       "Kazeta: An operating system that brings the console gaming experience of 90s",
       "https://kazeta.org/"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 19:32:17",
-      "https://news.ycombinator.com/item?id=45095849"
-    ],
-    [
-      "Patrick Winston: How to Speak (2018) [video]",
-      "https://www.youtube.com/watch?v=Unzc731iCUY"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "An LLM is a lossy encyclopedia",
       "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 18:12:34",
-      "https://news.ycombinator.com/item?id=45055205"
-    ],
-    [
-      "Making Minecraft Spherical",
-      "https://www.bowerbyte.com/posts/blocky-planet/"
     ]
   ]
 ]
