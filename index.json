@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-02, 18:12:13",
+      "https://news.ycombinator.com/item?id=45106903"
+    ],
+    [
+      "ICE obtains access to Israeli-made spyware that hack phones and encrypted apps",
+      "https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 17:32:08",
       "https://news.ycombinator.com/item?id=45106314"
     ],
     [
       "Introduction to Ada: a project-based exploration with rosettas",
       "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 17:30:35",
+      "https://news.ycombinator.com/item?id=45106295"
+    ],
+    [
+      "Microsoft rewarded for security failures with another US Government contract",
+      "https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "<template>: The Content Template element",
       "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 17:14:51",
-      "https://news.ycombinator.com/item?id=45106011"
-    ],
-    [
-      "We already live in social credit, we just don't call it that",
-      "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Reusing Computation in Text-to-Image Diffusion for Efficient Image Generation",
       "https://arxiv.org/abs/2508.21032"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 18:56:56",
-      "https://news.ycombinator.com/item?id=45068008"
-    ],
-    [
-      "AI Models Need a Virtual Machine",
-      "https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/"
     ]
   ],
   [
