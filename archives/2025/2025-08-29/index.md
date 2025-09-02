@@ -16,6 +16,7 @@
 * [2025-08-29, 18:43:42](https://news.ycombinator.com/item?id=45067867) - [Data engineering and software engineering are converging](https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure)
 * [2025-08-29, 18:03:33](https://news.ycombinator.com/item?id=45067423) - [Income Equality in Nordic Countries: Myths, Facts, and Lessons](https://www.aeaweb.org/articles?id=10.1257/jel.20251636)
 * [2025-08-29, 18:01:23](https://news.ycombinator.com/item?id=45067395) - [Hardware Flaw in Apple A16 Chip: Debug Logic Active on Production Devices](https://github.com/JGoyd/A16-FuseBypass)
+* [2025-08-29, 17:50:01](https://news.ycombinator.com/item?id=45067251) - [Memory is slow, Disk is fast – Part 1](https://www.bitflux.ai/blog/memory-is-slow-part1/)
 * [2025-08-29, 17:30:29](https://news.ycombinator.com/item?id=45066999) - [SQLite's Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
 * [2025-08-29, 17:00:04](https://news.ycombinator.com/item?id=45066592) - [Thunder Compute (YC S24) Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
 * [2025-08-29, 16:45:21](https://news.ycombinator.com/item?id=45066395) - [John Carmack's arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
