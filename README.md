@@ -14,7 +14,6 @@
 * [2025-09-02, 18:12:13](https://news.ycombinator.com/item?id=45106903) - [ICE obtains access to Israeli-made spyware that hack phones and encrypted apps](https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware)
 * [2025-09-02, 18:07:22](https://news.ycombinator.com/item?id=45106846) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 * [2025-09-02, 17:32:08](https://news.ycombinator.com/item?id=45106314) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
-* [2025-09-02, 17:30:35](https://news.ycombinator.com/item?id=45106295) - [Microsoft rewarded for security failures with another US Government contract](https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/)
 * [2025-09-02, 17:24:57](https://news.ycombinator.com/item?id=45106189) - [Python has had async for 10 years – why isn't it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
 * [2025-09-02, 17:16:42](https://news.ycombinator.com/item?id=45106049) - [<template>: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template)
 * [2025-09-02, 17:14:51](https://news.ycombinator.com/item?id=45106011) - [We already live in social credit, we just don't call it that](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/)
@@ -28,6 +27,7 @@
 * [2025-09-02, 11:44:14](https://news.ycombinator.com/item?id=45101779) - [Toronto’s network of pedestrian tunnels](https://www.worksinprogress.news/p/torontos-underground-labyrinth)
 * [2025-09-02, 08:25:47](https://news.ycombinator.com/item?id=45100421) - [Light Sleep: Waking VMs in 200ms with eBPF and snapshots](https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots)
 * [2025-08-30, 08:46:05](https://news.ycombinator.com/item?id=45073031) - [Triangle Grids](https://kvachev.com/blog/posts/triangular-grid/)
+* [2025-08-30, 08:30:43](https://news.ycombinator.com/item?id=45072966) - [Pearl – An Erlang lexer and syntax highlighter in Gleam](https://github.com/GearsDatapacks/pearl)
 * [2025-08-29, 22:12:51](https://news.ycombinator.com/item?id=45070019) - [Writing a Hypervisor in 1k Lines](https://seiya.me/blog/hypervisor-in-1000-lines)
 * [2025-08-29, 09:40:19](https://news.ycombinator.com/item?id=45062046) - [An LLM is a lossy encyclopedia](https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/)
 
