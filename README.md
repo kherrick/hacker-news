@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-02, 04:38:30](https://news.ycombinator.com/item?id=45099192) - [Keyboards from My Collection](https://aresluna.org/50-keyboards-from-my-collection/)
+* [2025-09-02, 05:26:04](https://news.ycombinator.com/item?id=45099418) - [Collecting All Causal Knowledge](https://causenet.org/)
 * [2025-09-02, 04:24:07](https://news.ycombinator.com/item?id=45099124) - [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
 * [2025-09-02, 03:31:34](https://news.ycombinator.com/item?id=45098867) - [The Wetware Crisis: The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 * [2025-09-02, 03:01:02](https://news.ycombinator.com/item?id=45098722) - [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
@@ -13,8 +13,8 @@
 * [2025-09-01, 18:56:39](https://news.ycombinator.com/item?id=45095545) - [Thoughts on (Amazonian) leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
 * [2025-09-01, 18:48:22](https://news.ycombinator.com/item?id=45095475) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
 * [2025-09-01, 18:47:21](https://news.ycombinator.com/item?id=45095460) - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
+* [2025-09-01, 17:51:27](https://news.ycombinator.com/item?id=45094953) - [Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
 * [2025-09-01, 17:25:08](https://news.ycombinator.com/item?id=45094692) - [One of Britain's largest stocks of second-hand books ever amassed](https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire)
-* [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
 * [2025-09-01, 16:57:38](https://news.ycombinator.com/item?id=45094421) - [Adaptive LLM routing under budget constraints](https://arxiv.org/abs/2508.21141)
 * [2025-09-01, 15:01:02](https://news.ycombinator.com/item?id=45093192) - [Ask HN: Who is hiring? (September 2025)](https://news.ycombinator.com/item?id=45093192)
 * [2025-09-01, 14:49:25](https://news.ycombinator.com/item?id=45093090) - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
