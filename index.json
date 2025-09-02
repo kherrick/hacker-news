@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-09-02, 17:22:01",
+      "https://news.ycombinator.com/item?id=45106132"
+    ],
+    [
+      "The repercussions of a typo in C++ & Rust",
+      "https://www.nablag.com/rust_cpp_missing_ampersand"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 17:16:42",
       "https://news.ycombinator.com/item?id=45106049"
     ],
@@ -77,16 +87,6 @@
     [
       "Launch HN: Datafruit (YC S25) – AI for DevOps",
       "https://news.ycombinator.com/item?id=45104974"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 16:06:37",
-      "https://news.ycombinator.com/item?id=45104944"
-    ],
-    [
-      "REST and gRPC in 33 Languages, with code examples",
-      "https://github.com/cloudstreet-dev/REST-gRPC-in-33-Languages/blob/main/book/manuscript/chapters/08-python.md"
     ]
   ],
   [
