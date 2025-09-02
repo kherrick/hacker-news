@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-09-02, 18:12:13",
-      "https://news.ycombinator.com/item?id=45106903"
+      "2025-09-02, 18:48:26",
+      "https://news.ycombinator.com/item?id=45107364"
     ],
     [
-      "ICE obtains access to Israeli-made spyware that hack phones and encrypted apps",
-      "https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware"
+      "Show HN: Amber – better Beeper, a modern all-in-one messenger",
+      "https://useamber.app/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 18:47:26",
+      "https://news.ycombinator.com/item?id=45107353"
+    ],
+    [
+      "The Kafka Replication Protocol with KIP-966",
+      "https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 18:39:28",
+      "https://news.ycombinator.com/item?id=45107249"
+    ],
+    [
+      "A gentle introduction to CP/M",
+      "https://eerielinux.wordpress.com/2025/08/28/a-gentle-introduction-to-cp-m/"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "<template>: The Content Template element",
       "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 17:14:51",
+      "https://news.ycombinator.com/item?id=45106011"
+    ],
+    [
+      "We already live in social credit, we just don't call it that",
+      "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-09-02, 13:33:54",
-      "https://news.ycombinator.com/item?id=45102905"
-    ],
-    [
-      "Imgur's community was in revolt",
-      "https://www.404media.co/imgurs-community-is-in-full-revolt-against-its-owner/"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 13:10:51",
       "https://news.ycombinator.com/item?id=45102664"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-09-02, 04:38:30",
-      "https://news.ycombinator.com/item?id=45099192"
-    ],
-    [
-      "Keyboards from my collection (2023)",
-      "https://aresluna.org/50-keyboards-from-my-collection/"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 01:44:22",
       "https://news.ycombinator.com/item?id=45098269"
     ],
     [
       "Kazeta: An operating system that brings the console gaming experience of 90s",
       "https://kazeta.org/"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 19:04:31",
-      "https://news.ycombinator.com/item?id=45095603"
-    ],
-    [
-      "Amazon has mostly sat out the AI talent war",
-      "https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8"
     ]
   ],
   [
