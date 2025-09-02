@@ -60,4 +60,5 @@
 * [2025-09-01, 06:25:04](https://news.ycombinator.com/item?id=45090007) - [Catholic churches in France have a bad landlord: the French government](https://thecatholicherald.com/article/catholic-churches-in-france-suffer-from-a-bad-landlord-the-french-government)
 * [2025-09-01, 06:14:31](https://news.ycombinator.com/item?id=45089938) - [Preserving Order in Concurrent Go Apps: Three Approaches Compared](https://destel.dev/blog/preserving-order-in-concurrent-go)
 * [2025-09-01, 03:45:33](https://news.ycombinator.com/item?id=45089256) - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
+* [2025-09-01, 03:08:07](https://news.ycombinator.com/item?id=45089072) - [The first inkjet printer was a medical device](https://spectrum.ieee.org/rune-elmqvist)
 * [2025-09-01, 02:47:09](https://news.ycombinator.com/item?id=45088977) - [Substack just killed the creator economy](https://mail.bigdeskenergy.com/p/substack-just-killed-creator-economy)
