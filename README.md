@@ -2,7 +2,6 @@
 
 * [2025-09-02, 10:50:55](https://news.ycombinator.com/item?id=45101300) - [What's New with Firefox 142](https://www.mozilla.org/en-US/firefox/142.0.1/whatsnew/?oldversion=139.0.4&utm_medium=firefox-desktop&utm_source=update&utm_campaign=142)
 * [2025-09-02, 10:21:42](https://news.ycombinator.com/item?id=45101127) - [Europol said ChatControl doesn't go far enough; they want to retain data forever](https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/)
-* [2025-09-02, 10:19:31](https://news.ycombinator.com/item?id=45101117) - [Unfortunately, the ICEBlock app is activism theater](https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/)
 * [2025-09-02, 08:40:20](https://news.ycombinator.com/item?id=45100499) - [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 * [2025-09-02, 07:01:01](https://news.ycombinator.com/item?id=45099939) - [Kapa.ai (YC S23) is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
 * [2025-09-02, 06:57:41](https://news.ycombinator.com/item?id=45099922) - [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
@@ -18,6 +17,7 @@
 * [2025-09-01, 19:04:31](https://news.ycombinator.com/item?id=45095603) - [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
 * [2025-09-01, 18:48:22](https://news.ycombinator.com/item?id=45095475) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
 * [2025-09-01, 18:47:21](https://news.ycombinator.com/item?id=45095460) - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
+* [2025-09-01, 17:25:08](https://news.ycombinator.com/item?id=45094692) - [One of Britain's largest stocks of second-hand books ever amassed](https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire)
 * [2025-09-01, 16:57:38](https://news.ycombinator.com/item?id=45094421) - [Adaptive LLM routing under budget constraints](https://arxiv.org/abs/2508.21141)
 * [2025-09-01, 15:01:02](https://news.ycombinator.com/item?id=45093192) - [Ask HN: Who is hiring? (September 2025)](https://news.ycombinator.com/item?id=45093192)
 * [2025-09-01, 14:49:25](https://news.ycombinator.com/item?id=45093090) - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
