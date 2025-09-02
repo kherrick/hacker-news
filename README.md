@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-02, 22:44:50](https://news.ycombinator.com/item?id=45110075) - [Parallel AI Agents Are a Game Changer](https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html)
 * [2025-09-02, 20:26:47](https://news.ycombinator.com/item?id=45108548) - [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
 * [2025-09-02, 19:42:48](https://news.ycombinator.com/item?id=45108066) - [Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
 * [2025-09-02, 19:34:24](https://news.ycombinator.com/item?id=45107962) - [A staff engineer's journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
@@ -25,7 +26,6 @@
 * [2025-09-02, 14:17:07](https://news.ycombinator.com/item?id=45103436) - [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra)
 * [2025-09-02, 12:56:37](https://news.ycombinator.com/item?id=45102512) - [Take something you don’t like and try to like it](https://dynomight.net/liking/)
 * [2025-09-02, 11:44:14](https://news.ycombinator.com/item?id=45101779) - [Toronto’s network of pedestrian tunnels](https://www.worksinprogress.news/p/torontos-underground-labyrinth)
-* [2025-09-02, 08:40:20](https://news.ycombinator.com/item?id=45100499) - [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 * [2025-09-02, 08:25:47](https://news.ycombinator.com/item?id=45100421) - [Light Sleep: Waking VMs in 200ms with eBPF and snapshots](https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots)
 * [2025-08-30, 09:05:22](https://news.ycombinator.com/item?id=45073137) - [Google Pixel 10 series review: Don't call it an Android](https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/)
 * [2025-08-30, 08:46:05](https://news.ycombinator.com/item?id=45073031) - [Triangle Grids](https://kvachev.com/blog/posts/triangular-grid/)

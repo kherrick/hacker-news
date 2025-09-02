@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 22:44:50](https://news.ycombinator.com/item?id=45110075) - [Parallel AI Agents Are a Game Changer](https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html)
 * [2025-09-02, 20:39:50](https://news.ycombinator.com/item?id=45108727) - [Judge Orders Google to Share Search Results to Help Resolve Monopoly](https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html)
 * [2025-09-02, 20:26:47](https://news.ycombinator.com/item?id=45108548) - [Google gets to keep Chrome but is barred from exclusive search deals](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
 * [2025-09-02, 20:02:57](https://news.ycombinator.com/item?id=45108292) - [U.S. Emissions Rise 4.2%, China's Fall 2.7%](https://www.theenergymix.com/u-s-emissions-rise-chinas-fall-in-massive-shift-between-worlds-biggest-climate-polluters/)
