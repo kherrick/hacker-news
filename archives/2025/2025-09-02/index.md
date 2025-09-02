@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 15:07:47](https://news.ycombinator.com/item?id=45104082) - [Americans Lose Faith That Hard Work Leads to Economic Gains, WSJ-NORC Poll Finds](https://www.wsj.com/economy/wsj-norc-economic-poll-73bce003)
+* [2025-09-02, 14:32:47](https://news.ycombinator.com/item?id=45103646) - [You don't want to hire \"the best engineers\"](https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers)
 * [2025-09-02, 13:33:54](https://news.ycombinator.com/item?id=45102905) - [Imgur's Community Is in Full Revolt Against Its Owner](https://www.404media.co/imgurs-community-is-in-full-revolt-against-its-owner/)
 * [2025-09-02, 13:10:51](https://news.ycombinator.com/item?id=45102664) - [Show HN: Moribito – A TUI for LDAP Viewing/Queries](https://github.com/ericschmar/moribito)
 * [2025-09-02, 13:10:24](https://news.ycombinator.com/item?id=45102657) - [How to Participate in the Ruby Community](https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community)
