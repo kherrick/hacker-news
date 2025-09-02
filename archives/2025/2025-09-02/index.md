@@ -7,6 +7,7 @@
 * [2025-09-02, 13:10:24](https://news.ycombinator.com/item?id=45102657) - [How to Participate in the Ruby Community](https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community)
 * [2025-09-02, 12:56:37](https://news.ycombinator.com/item?id=45102512) - [You can try to like stuff](https://dynomight.net/liking/)
 * [2025-09-02, 12:25:08](https://news.ycombinator.com/item?id=45102186) - [RubyMine Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/)
+* [2025-09-02, 11:44:14](https://news.ycombinator.com/item?id=45101779) - [Toronto's Underground Labyrinth](https://www.worksinprogress.news/p/torontos-underground-labyrinth)
 * [2025-09-02, 10:50:55](https://news.ycombinator.com/item?id=45101300) - [What's New with Firefox 142](https://www.mozilla.org/en-US/firefox/142.0.1/whatsnew/?oldversion=139.0.4&utm_medium=firefox-desktop&utm_source=update&utm_campaign=142)
 * [2025-09-02, 10:21:42](https://news.ycombinator.com/item?id=45101127) - [Europol said ChatControl doesn't go far enough; they want to retain data forever](https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/)
 * [2025-09-02, 10:19:31](https://news.ycombinator.com/item?id=45101117) - [Unfortunately, the ICEBlock app is activism theater](https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/)
