@@ -24,10 +24,10 @@
 * [2025-09-02, 15:25:44](https://news.ycombinator.com/item?id=45104303) - [Static sites enable a good time travel experience](https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/)
 * [2025-09-02, 14:49:40](https://news.ycombinator.com/item?id=45103857) - [Removing Guix from Debian](https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/)
 * [2025-09-02, 14:17:07](https://news.ycombinator.com/item?id=45103436) - [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra)
-* [2025-09-02, 13:10:51](https://news.ycombinator.com/item?id=45102664) - [Show HN: Moribito – A TUI for LDAP Viewing/Queries](https://github.com/ericschmar/moribito)
 * [2025-09-02, 12:56:37](https://news.ycombinator.com/item?id=45102512) - [Take something you don’t like and try to like it](https://dynomight.net/liking/)
 * [2025-09-02, 11:44:14](https://news.ycombinator.com/item?id=45101779) - [Toronto’s network of pedestrian tunnels](https://www.worksinprogress.news/p/torontos-underground-labyrinth)
 * [2025-09-02, 08:25:47](https://news.ycombinator.com/item?id=45100421) - [Light Sleep: Waking VMs in 200ms with eBPF and snapshots](https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots)
+* [2025-08-30, 08:46:05](https://news.ycombinator.com/item?id=45073031) - [Triangle Grids](https://kvachev.com/blog/posts/triangular-grid/)
 * [2025-08-29, 22:12:51](https://news.ycombinator.com/item?id=45070019) - [Writing a Hypervisor in 1k Lines](https://seiya.me/blog/hypervisor-in-1000-lines)
 * [2025-08-29, 09:40:19](https://news.ycombinator.com/item?id=45062046) - [An LLM is a lossy encyclopedia](https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/)
 
