@@ -53,6 +53,7 @@
 * [2025-08-29, 11:29:10](https://news.ycombinator.com/item?id=45062683) - [Anthropic reverses privacy stance, will train on Claude chats](https://www.perplexity.ai/page/anthropic-reverses-privacy-sta-xH4KWU9nS3KH4Aj9F12dvQ)
 * [2025-08-29, 11:15:39](https://news.ycombinator.com/item?id=45062614) - [Tesla said it didn't have key data in a fatal crash. Then a hacker found it](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/)
 * [2025-08-29, 10:15:58](https://news.ycombinator.com/item?id=45062274) - [What the interns have wrought, 2025](https://blog.janestreet.com/wrought-2025/)
+* [2025-08-29, 09:40:19](https://news.ycombinator.com/item?id=45062046) - [An LLM is a lossy encyclopedia](https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/)
 * [2025-08-29, 09:28:50](https://news.ycombinator.com/item?id=45061980) - [Probability of typing a wrong Bitcoin address](https://www.johndcook.com/blog/2025/08/28/wrong-address/)
 * [2025-08-29, 08:45:21](https://news.ycombinator.com/item?id=45061702) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-08-29, 08:42:40](https://news.ycombinator.com/item?id=45061689) - [Contrastive Representations for Temporal Reasoning](https://princeton-rl.github.io/CRTR/)
