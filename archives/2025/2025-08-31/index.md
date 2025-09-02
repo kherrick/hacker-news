@@ -46,6 +46,7 @@
 * [2025-08-31, 13:49:11](https://news.ycombinator.com/item?id=45083135) - [Spacing Over Cards](https://smagin.fyi/posts/padding-over-cards/)
 * [2025-08-31, 13:49:01](https://news.ycombinator.com/item?id=45083134) - [Notes on Managing ADHD](https://borretti.me/article/notes-on-managing-adhd)
 * [2025-08-31, 13:32:27](https://news.ycombinator.com/item?id=45083038) - [AI is just a next evolution of the computer](https://www.vincirufus.com/posts/ai-next-evolution-of-computers/)
+* [2025-08-31, 13:16:12](https://news.ycombinator.com/item?id=45082929) - [Show HN: My first Go project, a useless animated bunny sign for your terminal](https://github.com/fsgreco/go-bunny-sign)
 * [2025-08-31, 12:44:26](https://news.ycombinator.com/item?id=45082750) - [Google: 'Your $1000 phone needs our permission to install apps now' [video]](https://www.youtube.com/watch?v=QBEKlIV_70E)
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [\"This telegram must be closely paraphrased before being communicated\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 * [2025-08-31, 12:16:00](https://news.ycombinator.com/item?id=45082595) - [F-Droid site certificate expired](https://gitlab.com/fdroid/fdroid-website/-/issues/883)
