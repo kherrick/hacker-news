@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-02, 15:07:47",
+      "https://news.ycombinator.com/item?id=45104082"
+    ],
+    [
+      "Americans Lose Faith That Hard Work Leads to Economic Gains, WSJ-NORC Poll Finds",
+      "https://www.wsj.com/economy/wsj-norc-economic-poll-73bce003"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 14:32:47",
+      "https://news.ycombinator.com/item?id=45103646"
+    ],
+    [
+      "You don't want to hire \"the best engineers\"",
+      "https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 13:33:54",
       "https://news.ycombinator.com/item?id=45102905"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-09-02, 04:21:51",
-      "https://news.ycombinator.com/item?id=45099112"
-    ],
-    [
-      "Intuitive find and replace CLI (sed alternative)",
-      "https://github.com/chmln/sd"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 03:01:02",
       "https://news.ycombinator.com/item?id=45098722"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-09-01, 15:01:02",
-      "https://news.ycombinator.com/item?id=45093192"
-    ],
-    [
-      "Ask HN: Who is hiring? (September 2025)",
-      "https://news.ycombinator.com/item?id=45093192"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 14:49:25",
       "https://news.ycombinator.com/item?id=45093090"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-08-31, 21:46:26",
-      "https://news.ycombinator.com/item?id=45087396"
-    ],
-    [
-      "We should have the ability to run any code we want on hardware we own",
-      "https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 00:06:42",
       "https://news.ycombinator.com/item?id=45079131"
     ],
     [
       "Quirks of Common Lisp Types",
       "https://www.fosskers.ca/en/blog/cl-type-quirks"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 21:01:53",
+      "https://news.ycombinator.com/item?id=45069341"
+    ],
+    [
+      "Reusing Computation in Text-to-Image Diffusion for Efficient Image Generation",
+      "https://arxiv.org/abs/2508.21032"
     ]
   ],
   [
