@@ -57,6 +57,7 @@
 * [2025-08-30, 03:40:23](https://news.ycombinator.com/item?id=45071722) - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
 * [2025-08-30, 03:35:41](https://news.ycombinator.com/item?id=45071703) - [OpenAI tackling life extension with LLMs](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
 * [2025-08-30, 03:29:01](https://news.ycombinator.com/item?id=45071677) - [SynthID](https://deepmind.google/science/synthid/)
+* [2025-08-30, 03:08:46](https://news.ycombinator.com/item?id=45071592) - [The easy way to make a website with Markdown](https://github.com/dtedesco1/nextjs-markdown-boilerplate)
 * [2025-08-30, 01:10:11](https://news.ycombinator.com/item?id=45071063) - [Pentagon Docs: US Wants to \"Suppress Dissenting Arguments\" Using AI Propaganda](https://theintercept.com/2025/08/25/pentagon-military-ai-propaganda-influence/)
 * [2025-08-30, 00:11:10](https://news.ycombinator.com/item?id=45070800) - [The ice cream truck's surprising history](https://longreads.com/2025/08/26/ice-cream-truck-history-hysteria/)
 * [2025-08-30, 00:10:27](https://news.ycombinator.com/item?id=45070798) - [Growing Up on Alcatraz](https://sf.gazetteer.co/growing-up-on-alcatraz)
