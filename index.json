@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-02, 19:32:46",
+      "https://news.ycombinator.com/item?id=45107939"
+    ],
+    [
+      "iNaturalist keeps full species classification models private",
+      "https://github.com/inaturalist/inatVisionAPI"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 19:28:43",
       "https://news.ycombinator.com/item?id=45107891"
     ],
     [
       "Amazon must face US nationwide class action over third-party sales",
       "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 19:15:45",
+      "https://news.ycombinator.com/item?id=45107712"
+    ],
+    [
+      "FBI arrests US Army veteran for 'conspiracy' over protest against ICE",
+      "https://www.theguardian.com/us-news/2025/sep/02/fbi-arrest-us-army-veteran-ice-protest"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 18:58:00",
+      "https://news.ycombinator.com/item?id=45107505"
+    ],
+    [
+      "Civics Is Boring. So, Let's Encrypt Something",
+      "https://queue.acm.org/detail.cfm?id=3703126"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "OpenAI: Vijaye Raji to Become CTO of Applications with Acquisition of Statsig",
       "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 18:12:13",
+      "https://news.ycombinator.com/item?id=45106903"
+    ],
+    [
+      "ICE obtains access to Israeli-made spyware that hack phones and encrypted apps",
+      "https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2025-09-02, 13:47:13",
-      "https://news.ycombinator.com/item?id=45103065"
-    ],
-    [
-      "Passkeys and Modern Authentication",
-      "https://lucumr.pocoo.org/2025/9/2/passkeys/"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 13:10:51",
       "https://news.ycombinator.com/item?id=45102664"
     ],
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2025-09-02, 01:44:22",
-      "https://news.ycombinator.com/item?id=45098269"
-    ],
-    [
-      "Kazeta: An operating system that brings the console gaming experience of 90s",
-      "https://kazeta.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 13:16:12",
-      "https://news.ycombinator.com/item?id=45082929"
-    ],
-    [
-      "Show HN: My first Go project, a useless animated bunny sign for your terminal",
-      "https://github.com/fsgreco/go-bunny-sign"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 00:06:42",
       "https://news.ycombinator.com/item?id=45079131"
     ],
     [
       "Quirks of Common Lisp Types",
       "https://www.fosskers.ca/en/blog/cl-type-quirks"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 03:08:46",
-      "https://news.ycombinator.com/item?id=45071592"
-    ],
-    [
-      "The easy way to make a website with Markdown",
-      "https://github.com/dtedesco1/nextjs-markdown-boilerplate"
     ]
   ],
   [
