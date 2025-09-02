@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 07:01:01](https://news.ycombinator.com/item?id=45099939) - [Kapa.ai (YC S23) is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
+* [2025-09-02, 06:05:35](https://news.ycombinator.com/item?id=45099619) - [Vibe coding as a VC](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)
 * [2025-09-02, 05:26:04](https://news.ycombinator.com/item?id=45099418) - [Collecting All Causal Knowledge](https://causenet.org/)
 * [2025-09-02, 04:38:30](https://news.ycombinator.com/item?id=45099192) - [Keyboards from My Collection](https://aresluna.org/50-keyboards-from-my-collection/)
 * [2025-09-02, 04:24:07](https://news.ycombinator.com/item?id=45099124) - [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)

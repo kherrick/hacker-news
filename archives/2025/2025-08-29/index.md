@@ -37,6 +37,7 @@
 * [2025-08-29, 13:37:53](https://news.ycombinator.com/item?id=45063972) - [Private Equity Snaps Up Disability Services, Challenging Regulators](https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators)
 * [2025-08-29, 13:32:51](https://news.ycombinator.com/item?id=45063904) - [Using JWT to establish a trusted context for Row Level Security](https://vondra.me/posts/using-jwt-to-establish-trusted-context-for-rls/)
 * [2025-08-29, 13:30:16](https://news.ycombinator.com/item?id=45063874) - [Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown](https://sosumi.ai/)
+* [2025-08-29, 13:23:18](https://news.ycombinator.com/item?id=45063789) - [Animated Text in Voxel Space](https://www.splats.com/watch/635)
 * [2025-08-29, 13:15:10](https://news.ycombinator.com/item?id=45063704) - [Apple Health lies to you about your six months sleep average](https://github.com/reschandreas/saverage)
 * [2025-08-29, 13:01:45](https://news.ycombinator.com/item?id=45063559) - [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
 * [2025-08-29, 13:00:49](https://news.ycombinator.com/item?id=45063547) - [Show HN: A minimal TS library that generates prompt injection attacks](https://prompt-injector.blueprintlab.io/)
