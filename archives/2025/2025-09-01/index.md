@@ -39,6 +39,7 @@
 * [2025-09-01, 15:01:02](https://news.ycombinator.com/item?id=45093190) - [Ask HN: Who wants to be hired? (September 2025)](https://news.ycombinator.com/item?id=45093190)
 * [2025-09-01, 14:49:25](https://news.ycombinator.com/item?id=45093090) - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
 * [2025-09-01, 14:43:37](https://news.ycombinator.com/item?id=45093022) - [Effective learning: Twenty rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
+* [2025-09-01, 14:36:11](https://news.ycombinator.com/item?id=45092967) - [Show HN: We built an open-source alternative to expensive pair programming apps](https://github.com/gethopp/hopp)
 * [2025-09-01, 14:30:50](https://news.ycombinator.com/item?id=45092942) - [Hackers demand Google fire 2 staff and halt probes, or they will leak databases](https://www.newsweek.com/hackers-issue-ultimatum-data-breach-2122489)
 * [2025-09-01, 14:27:17](https://news.ycombinator.com/item?id=45092925) - [\"Turns out Google made up an elaborate story about me\"](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
 * [2025-09-01, 14:23:09](https://news.ycombinator.com/item?id=45092895) - [Git for Music – Using Version Control for Music Production (2023)](https://grechin.org/2023/05/06/git-and-reaper.html)

@@ -55,6 +55,7 @@
 * [2025-08-30, 08:30:43](https://news.ycombinator.com/item?id=45072966) - [Pearl – An Erlang lexer and syntax highlighter in Gleam](https://github.com/GearsDatapacks/pearl)
 * [2025-08-30, 07:19:31](https://news.ycombinator.com/item?id=45072599) - [Milan's expat 'explosion' brings new buzz to Italy's financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)
 * [2025-08-30, 07:16:02](https://news.ycombinator.com/item?id=45072577) - [I got people to pay me $50K in 3 days with NFTs (2021)](https://paulstamatiou.com/how-i-made-50k-in-3-days-with-nfts)
+* [2025-08-30, 06:55:30](https://news.ycombinator.com/item?id=45072481) - [10-20x Faster LLVM -O0 Back-End – Code Generation](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-30, 05:45:24](https://news.ycombinator.com/item?id=45072160) - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 * [2025-08-30, 04:07:33](https://news.ycombinator.com/item?id=45071847) - [I sat down with Werner Vogels, the CTO of Amazon](https://everton.xyz/i-sat-down-with-werner-vogels/)
 * [2025-08-30, 04:05:22](https://news.ycombinator.com/item?id=45071838) - [Fun and Immersive Typing Game](https://keybara.io)
