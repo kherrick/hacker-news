@@ -2,7 +2,6 @@
 
 * [2025-09-03, 15:54:12](https://news.ycombinator.com/item?id=45117230) - [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
 * [2025-09-03, 15:31:31](https://news.ycombinator.com/item?id=45116978) - [Warp Code: the fastest way from prompt to production](https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod)
-* [2025-09-03, 15:24:52](https://news.ycombinator.com/item?id=45116893) - [Ask HN: Why does Google word privacy settings like you agree even when off?](https://news.ycombinator.com/item?id=45116893)
 * [2025-09-03, 15:21:35](https://news.ycombinator.com/item?id=45116859) - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859)
 * [2025-09-03, 15:20:34](https://news.ycombinator.com/item?id=45116849) - [A Random Walk in 10 Dimensions (2021)](https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/)
 * [2025-09-03, 15:07:20](https://news.ycombinator.com/item?id=45116688) - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
@@ -18,7 +17,6 @@
 * [2025-09-03, 10:44:01](https://news.ycombinator.com/item?id=45114245) - [Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
 * [2025-09-03, 10:02:11](https://news.ycombinator.com/item?id=45114003) - [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 * [2025-09-03, 08:18:07](https://news.ycombinator.com/item?id=45113418) - [Finding thousands of exposed Ollama instances using Shodan](https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama)
-* [2025-09-03, 07:47:10](https://news.ycombinator.com/item?id=45113251) - [Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim](https://github.com/awslabs/amazonq.nvim)
 * [2025-09-03, 06:58:51](https://news.ycombinator.com/item?id=45112996) - [Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 * [2025-09-03, 06:14:22](https://news.ycombinator.com/item?id=45112720) - [Lit: a library for building fast, lightweight web components](https://lit.dev)
 * [2025-09-03, 03:13:05](https://news.ycombinator.com/item?id=45111909) - [Comic Sans typeball designed to work with the IBM Selectric typewriters](https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit)
@@ -26,10 +24,12 @@
 * [2025-09-02, 22:58:23](https://news.ycombinator.com/item?id=45110209) - [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
 * [2025-09-02, 19:34:24](https://news.ycombinator.com/item?id=45107962) - [A staff engineer's journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
 * [2025-08-31, 13:34:36](https://news.ycombinator.com/item?id=45083053) - [Glow-in-the-dark houseplants shine in rainbow of colours](https://www.nature.com/articles/d41586-025-02740-2)
+* [2025-08-31, 09:19:52](https://news.ycombinator.com/item?id=45081752) - [Ask HN: Looking for Headless CMS Recommendation](https://news.ycombinator.com/item?id=45081752)
 * [2025-08-31, 02:20:10](https://news.ycombinator.com/item?id=45079767) - [Abstract Machine Models Also: what Rust got particularly right](https://dr-knz.net/abstract-machine-models.html)
 * [2025-08-30, 21:52:58](https://news.ycombinator.com/item?id=45078315) - [Magic Lantern Is Back](https://www.magiclantern.fm/forum/index.php?topic=27315.0)
 * [2025-08-30, 18:42:08](https://news.ycombinator.com/item?id=45076992) - [How to Give a Good Talk](https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/)
 * [2025-08-30, 14:48:58](https://news.ycombinator.com/item?id=45075123) - [With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz](https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/)
+* [2025-08-30, 06:55:30](https://news.ycombinator.com/item?id=45072481) - [TPDE-LLVM: Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 
 ## [Archives](archives/index.md)
 

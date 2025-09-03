@@ -54,6 +54,7 @@
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
 * [2025-08-31, 12:00:21](https://news.ycombinator.com/item?id=45082508) - [Channel3 (YC S25) Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
 * [2025-08-31, 09:21:35](https://news.ycombinator.com/item?id=45081764) - [Just use `git` to manage your dotfiles](https://ericgreer.info/post/2025-08-31-simple-dotfiles-script/)
+* [2025-08-31, 09:19:52](https://news.ycombinator.com/item?id=45081752) - [Ask HN: Looking for Headless CMS Recommendation](https://news.ycombinator.com/item?id=45081752)
 * [2025-08-31, 09:13:13](https://news.ycombinator.com/item?id=45081711) - [Sniffly – Claude Code Analytics Dashboard](https://github.com/chiphuyen/sniffly)
 * [2025-08-31, 09:11:48](https://news.ycombinator.com/item?id=45081703) - [Sometimes Software Is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)
 * [2025-08-31, 08:45:54](https://news.ycombinator.com/item?id=45081561) - [Show HN: Banana AI – Completely free Nano Banana image editing](https://banana-ai.org/)
