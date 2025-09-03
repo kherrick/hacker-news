@@ -141,7 +141,7 @@
             <h4>
               <span>2025-09-03 @ 17:48:27</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45118592"
                   >Comments</a
@@ -162,11 +162,11 @@
             <h4>
               <span>2025-09-03 @ 17:47:50</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45118585"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -181,13 +181,117 @@
             <h4>
               <span>2025-09-03 @ 17:28:32</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45118392"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="45118302">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/monostate/weave-logprobs-reasoning-loop"
+              >Show HN: Entropy-Guided Loop – How to make small models reason</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-03 @ 17:19:10</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45118302"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                - Captures logprobs/top-k during generation, computes perplexity
+                and token-level entropy.
+              </p>
+              <p>
+                - Triggers at most one refine when simple thresholds fire;
+                passes a compact “uncertainty report” (uncertain tokens + top-k
+                alts + local context) back to the model.
+              </p>
+              <p>
+                - In our tests on technical Q&amp;A / math / code, a small model
+                recovered much of “reasoning” quality at ~⅓ the cost while
+                refining ~⅓ of outputs.
+              </p>
+              <p>
+                I kept seeing “reasoning” models behave like expensive black
+                boxes. Meanwhile, standard inference already computes useful
+                signals both before softmax normalization and after
+                it(logprobs), which we usually throw away. This loop tries the
+                simplest thing that you could think of: use those signals to
+                decide when (and where) to think again.
+              </p>
+              <p>
+                GitHub (notebook + minimal code):
+                <a
+                  href="https://github.com/monostate/weave-logprobs-reasoning-loop"
+                  >https://github.com/monostate/weave-logprobs-reasoning-loop</a
+                >
+              </p>
+              <p>
+                Paper (short &amp; engineer made):
+                <a href="https://arxiv.org/abs/2509.00079"
+                  >https://arxiv.org/abs/2509.00079</a
+                >
+              </p>
+              <p>
+                Blog (more context):
+                <a href="https://monostate.ai/blog/entropy-refinement-blog"
+                  >https://monostate.ai/blog/entropy-refinement-blog</a
+                >
+              </p>
+              <p>
+                Requirements: Python, API that exposes logprobs (tested with
+                OpenAI non reasoning 4.1). OPENAI_API_KEY and WEAVE for
+                observability. Run the notebook; it prints metrics and shows
+                which tokens triggered refinement.
+              </p>
+              <p>- Python, simple loop (no retraining).</p>
+              <p>
+                - Uses Responses API logprobs/top-k; metrics: perplexity, max
+                token entropy, low-confidence counts.
+              </p>
+              <p>- Weave for lightweight logging/observability (optional).</p>
+              <p>
+                - Passing alternatives (not just “this looks uncertain”)
+                prevents over-correction.
+              </p>
+              <p>
+                - A simple OR rule (ppl / max-entropy / low-confidence count)
+                catches complementary failure modes.
+              </p>
+              <p>
+                - Numbers drift across vendors; keeping the method
+                vendor-agnostic is better than chasing fragile pairings.
+              </p>
+              <p>- Needs APIs that expose logprobs/top-k.</p>
+              <p>
+                - Results are indicative—not a leaderboard; focus is on
+                within-model gains (single-pass vs +loop).
+              </p>
+              <p>- Thresholds might need light tuning per domain.</p>
+              <p>- One pass only; not a chain-of-thought replacement.</p>
+              <p>
+                - Run it on your models and ideas (e.g., 4o-mini, v3, Llama
+                variants with logprobs) and share logs in a PR for our README in
+                GitHub if you'd like, PRs welcome - I’ll credit and link.
+              </p>
+              <p>
+                Overall let me know if you find making small models reason like
+                this useful!
+              </p>
+            </div>
           </section>
         </section>
         <section id="45118111">
@@ -195,7 +299,7 @@
             <a
               class="item"
               href="https://gimletlabs.ai/blog/ai-generated-metal-kernels"
-              >Speeding up PyTorch inference by 87% on Apple with AI-generated
+              >Speeding up PyTorch inference on Apple devices with AI-generated
               Metal kernels</a
             >
           </h3>
@@ -203,11 +307,11 @@
             <h4>
               <span>2025-09-03 @ 17:03:35</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45118111"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -242,11 +346,11 @@
             <h4>
               <span>2025-09-03 @ 16:51:05</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45117974"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -254,14 +358,14 @@
         <section id="45117668">
           <h3>
             <a class="item" href="https://vgel.me/posts/c500/"
-              >Writing a C compiler in 500 lines of Python</a
+              >Writing a C compiler in 500 lines of Python (2023)</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-09-03 @ 16:28:23</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45117668"
                   >Comments</a
@@ -281,11 +385,11 @@
             <h4>
               <span>2025-09-03 @ 15:54:12</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45117230"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -300,7 +404,7 @@
             <h4>
               <span>2025-09-03 @ 15:30:06</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45116957"
                   >Comments</a
@@ -319,11 +423,11 @@
             <h4>
               <span>2025-09-03 @ 15:21:35</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45116859"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -407,11 +511,11 @@
             <h4>
               <span>2025-09-03 @ 15:20:34</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45116849"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -426,11 +530,11 @@
             <h4>
               <span>2025-09-03 @ 15:07:20</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45116688"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -449,7 +553,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45115942"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -464,32 +568,11 @@
             <h4>
               <span>2025-09-03 @ 13:47:14</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45115760"
                   >Comments</a
                 ><span class="descendants">: 24</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45115557">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.lilyf.org/posts/python-mutable-reference/"
-              >Sharing a mutable reference between Rust and Python</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-03 @ 13:30:25</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45115557"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -506,33 +589,11 @@
             <h4>
               <span>2025-09-03 @ 12:38:47</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45115004"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45114753">
-          <h3>
-            <a
-              class="item"
-              href="https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/"
-              >MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive
-              Decline</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-03 @ 12:06:19</span
-              ><span class="points-container"
-                >Points: <span class="points">453</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45114753"
-                  >Comments</a
-                ><span class="descendants">: 442</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -547,11 +608,11 @@
             <h4>
               <span>2025-09-03 @ 11:40:41</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45114579"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -561,7 +622,7 @@
             <a
               class="item"
               href="https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager"
-              >Voyager is an interactive video generation model with realtime 3D
+              >Voyager – An interactive video generation model with realtime 3D
               reconstruction</a
             >
           </h3>
@@ -569,7 +630,7 @@
             <h4>
               <span>2025-09-03 @ 11:07:16</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">263</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45114379"
                   >Comments</a
@@ -588,7 +649,7 @@
             <h4>
               <span>2025-09-03 @ 10:49:48</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45114277"
                   >Comments</a
@@ -607,7 +668,7 @@
             <h4>
               <span>2025-09-03 @ 10:44:01</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45114245"
                   >Comments</a
@@ -628,11 +689,11 @@
             <h4>
               <span>2025-09-03 @ 10:02:11</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45114003"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -680,6 +741,88 @@
             </h4>
           </section>
         </section>
+        <section id="45103205">
+          <h3>
+            <a
+              class="item"
+              href="https://medium.com/@antonybrahin/grounding-ai-in-reality-how-vector-search-on-our-codebase-transformed-our-sdlc-automation-7d068b1244a8"
+              >Vector search on our codebase transformed our SDLC automation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-02 @ 13:58:27</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45103205"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                In software development, the process of turning a user story
+                into detailed documentation and actionable tasks is critical.
+                However, this manual process can often be a source of
+                inconsistency and a significant time investment. I was driven to
+                see if I could streamline and elevate it.
+              </p>
+              <p>
+                I know this is a hot space, with big players like GitHub and
+                Atlassian building integrated AI, and startups offering
+                specialized platforms. My goal wasn't to compete with them, but
+                to see what was possible by building a custom, "glass box"
+                solution using the best tools for each part of the job, without
+                being locked into a single ecosystem.
+              </p>
+              <p>
+                What makes this approach different is the flexibility and full
+                control. Instead of a pre-packaged product, this is a resilient
+                workflow built on Power Automate, which acts as the orchestrator
+                for a sequence of API calls:
+              </p>
+              <p>
+                Five calls to the Gemini API for the core generation steps
+                (requirements, tech spec, test strategy, etc.).
+              </p>
+              <p>
+                One call to an Azure OpenAI model to create vector embeddings of
+                our codebase.
+              </p>
+              <p>
+                One call to Azure AI Search to perform the Retrieval-Augmented
+                Generation (RAG). This was the key to getting context-aware,
+                non-generic outputs. It reads our actual code to inform the
+                technical spec and tasks.
+              </p>
+              <p>
+                A bunch of direct calls to the Azure DevOps REST API (using a
+                PAT) to create the wiki pages and work items, since the standard
+                connectors were a bit limited.
+              </p>
+              <p>
+                The biggest challenge was moving beyond simple prompts and
+                engineering a resilient system. Forcing the final output into a
+                rigid JSON schema instead of parsing text was a game-changer for
+                reliability.
+              </p>
+              <p>
+                The result is a system that saves us hours on every story and
+                produces remarkably consistent, high-quality documentation and
+                tasks.
+              </p>
+              <p>
+                The full write-up with all the challenges, final prompts, and
+                screenshots is in the linked blog post.
+              </p>
+              <p>
+                I’m here to answer any questions. Would love to hear your
+                feedback and ideas!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45083053">
           <h3>
             <a
@@ -692,11 +835,11 @@
             <h4>
               <span>2025-08-31 @ 13:34:36</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45083053"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -711,11 +854,11 @@
             <h4>
               <span>2025-08-31 @ 09:52:26</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45081904"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -730,11 +873,11 @@
             <h4>
               <span>2025-08-31 @ 09:19:52</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45081752"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -757,7 +900,7 @@
             <h4>
               <span>2025-08-31 @ 02:20:10</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45079767"
                   >Comments</a
@@ -778,7 +921,7 @@
             <h4>
               <span>2025-08-30 @ 21:52:58</span
               ><span class="points-container"
-                >Points: <span class="points">437</span></span
+                >Points: <span class="points">439</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45078315"
                   >Comments</a
@@ -799,11 +942,11 @@
             <h4>
               <span>2025-08-30 @ 18:42:08</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45076992"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
