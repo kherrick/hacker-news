@@ -24,10 +24,10 @@
 * [2025-09-03, 10:49:48](https://news.ycombinator.com/item?id=45114277) - [UK Electricity Generation Map](https://www.energydashboard.co.uk/map)
 * [2025-09-03, 10:44:01](https://news.ycombinator.com/item?id=45114245) - [VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
 * [2025-09-03, 10:02:11](https://news.ycombinator.com/item?id=45114003) - [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
-* [2025-09-02, 13:58:27](https://news.ycombinator.com/item?id=45103205) - [Vector search on our codebase transformed our SDLC automation](https://medium.com/@antonybrahin/grounding-ai-in-reality-how-vector-search-on-our-codebase-transformed-our-sdlc-automation-7d068b1244a8)
 * [2025-09-01, 08:14:53](https://news.ycombinator.com/item?id=45090654) - [OSMAnd vs. Organic Maps](https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html)
 * [2025-08-31, 09:52:26](https://news.ycombinator.com/item?id=45081904) - [This Page Is a Quine (2021)](https://pranavg.me/)
 * [2025-08-31, 09:19:52](https://news.ycombinator.com/item?id=45081752) - [Ask HN: Looking for Headless CMS Recommendation](https://news.ycombinator.com/item?id=45081752)
+* [2025-08-31, 02:20:10](https://news.ycombinator.com/item?id=45079767) - [Abstract Machine Models (2022)](https://dr-knz.net/abstract-machine-models.html)
 * [2025-08-31, 01:02:47](https://news.ycombinator.com/item?id=45079418) - [PFP: A Probabilistic Functional Programming Library for Haskell (2006)](https://web.engr.oregonstate.edu/~erwig/pfp/)
 * [2025-08-30, 18:42:08](https://news.ycombinator.com/item?id=45076992) - [How to Give a Good Talk](https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/)
 
