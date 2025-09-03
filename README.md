@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-03, 17:24:31](https://news.ycombinator.com/item?id=45118351) - [Stop Using Brave Browser](https://www.spacebar.news/stop-using-brave-browser/)
 * [2025-09-03, 17:03:35](https://news.ycombinator.com/item?id=45118111) - [Speeding up PyTorch inference by 87% on Apple with AI-generated Metal kernels](https://gimletlabs.ai/blog/ai-generated-metal-kernels)
 * [2025-09-03, 17:00:04](https://news.ycombinator.com/item?id=45118072) - [Svix (webhooks as a service) is hiring for a founding marketing lead](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22)
 * [2025-09-03, 16:51:05](https://news.ycombinator.com/item?id=45117974) - [Who Owns, Operates, and Develops Your VPN Matters](https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/)
@@ -16,6 +15,7 @@
 * [2025-09-03, 13:30:25](https://news.ycombinator.com/item?id=45115557) - [Sharing a mutable reference between Rust and Python](https://blog.lilyf.org/posts/python-mutable-reference/)
 * [2025-09-03, 12:38:47](https://news.ycombinator.com/item?id=45115004) - [John Coltrane's Tone Circle](https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/)
 * [2025-09-03, 12:06:19](https://news.ycombinator.com/item?id=45114753) - [MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline](https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/)
+* [2025-09-03, 11:40:41](https://news.ycombinator.com/item?id=45114579) - [The wall confronting large language models](https://arxiv.org/abs/2507.19703)
 * [2025-09-03, 11:07:16](https://news.ycombinator.com/item?id=45114379) - [Voyager is an interactive video generation model with realtime 3D reconstruction](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
 * [2025-09-03, 10:49:48](https://news.ycombinator.com/item?id=45114277) - [Energy Dashboard (UK)](https://www.energydashboard.co.uk/map)
 * [2025-09-03, 10:44:01](https://news.ycombinator.com/item?id=45114245) - [Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
