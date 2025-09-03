@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 13:29:42](https://news.ycombinator.com/item?id=45115549) - [No place in children's hands: <16s in UK to be banned from buying energy drinks](https://www.theguardian.com/business/2025/sep/02/children-energy-drinks-government-obesity-health)
+* [2025-09-03, 12:38:47](https://news.ycombinator.com/item?id=45115004) - [John Coltrane's Tone Circle](https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/)
 * [2025-09-03, 12:06:19](https://news.ycombinator.com/item?id=45114753) - [MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline](https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/)
 * [2025-09-03, 12:00:11](https://news.ycombinator.com/item?id=45114715) - [Dynamo AI (YC W22) Is Hiring for AI Product Managers](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai)
 * [2025-09-03, 11:07:16](https://news.ycombinator.com/item?id=45114379) - [Tencent Open Sourced a 3D World Model](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)

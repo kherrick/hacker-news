@@ -8,6 +8,7 @@
 * [2025-08-30, 23:35:32](https://news.ycombinator.com/item?id=45078962) - [Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)](https://github.com/krig/LISP)
 * [2025-08-30, 22:47:27](https://news.ycombinator.com/item?id=45078651) - [Enrollment at trade schools is expected to grow 6.6% a year](https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html)
 * [2025-08-30, 22:37:36](https://news.ycombinator.com/item?id=45078598) - [New Huawei 96GB GPU](https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo)
+* [2025-08-30, 22:25:36](https://news.ycombinator.com/item?id=45078533) - [Inside the World of \"The Great British Bake Off\"](https://www.newyorker.com/magazine/2025/09/01/inside-the-world-of-the-great-british-bake-off)
 * [2025-08-30, 22:24:58](https://news.ycombinator.com/item?id=45078530) - [Affiliates Flock to 'Soulless' Scam Gambling Machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
 * [2025-08-30, 22:13:01](https://news.ycombinator.com/item?id=45078452) - [Man declares country in unclaimed pocket of land between Serbia and Croatia](https://www.nbcnews.com/world/europe/viva-verdis-man-declares-country-unclaimed-pocket-land-serbia-croatia-rcna228004)
 * [2025-08-30, 21:52:58](https://news.ycombinator.com/item?id=45078315) - [Magic Lantern Is Back](https://www.magiclantern.fm/forum/index.php?topic=27315.0)
