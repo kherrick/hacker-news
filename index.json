@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-03, 00:26:15",
-      "https://news.ycombinator.com/item?id=45110864"
+      "2025-09-03, 01:45:47",
+      "https://news.ycombinator.com/item?id=45111405"
     ],
     [
-      "U.S. Military Strikes Drug Vessel from Venezuela, Killing 11",
-      "https://www.wsj.com/politics/national-security/u-s-military-strikes-drug-vessel-from-venezuela-killing-11-19661cc9"
+      "Zig Software Foundation 2025 Financial Report and Fundraiser",
+      "https://ziglang.org/news/2025-financials/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-09-02, 14:49:40",
-      "https://news.ycombinator.com/item?id=45103857"
-    ],
-    [
-      "Removing Guix from Debian",
-      "https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 14:17:07",
       "https://news.ycombinator.com/item?id=45103436"
     ],
@@ -237,6 +227,16 @@
     [
       "Toronto’s network of pedestrian tunnels",
       "https://www.worksinprogress.news/p/torontos-underground-labyrinth"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 08:25:47",
+      "https://news.ycombinator.com/item?id=45100421"
+    ],
+    [
+      "Light Sleep: Waking VMs in 200ms with eBPF and snapshots",
+      "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots"
     ]
   ],
   [
