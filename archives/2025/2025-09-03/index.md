@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 21:18:29](https://news.ycombinator.com/item?id=45120517) - [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
 * [2025-09-03, 21:00:27](https://news.ycombinator.com/item?id=45120373) - [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
 * [2025-09-03, 20:29:13](https://news.ycombinator.com/item?id=45120050) - [The worst possible antitrust outcome](https://pluralistic.net/2025/09/03/unpunishing-process/)
 * [2025-09-03, 19:26:45](https://news.ycombinator.com/item?id=45119552) - [The first Gleam Conference – Gathering 2026](https://gleamgathering.com/)
