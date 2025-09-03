@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-03, 19:26:45](https://news.ycombinator.com/item?id=45119552) - [The first Gleam Conference – Gathering 2026](https://gleamgathering.com/)
 * [2025-09-03, 19:09:29](https://news.ycombinator.com/item?id=45119397) - [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
 * [2025-09-03, 18:41:57](https://news.ycombinator.com/item?id=45119103) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 * [2025-09-03, 18:38:48](https://news.ycombinator.com/item?id=45119076) - [Another YC company was acquihired today by OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
@@ -27,7 +28,6 @@
 * [2025-09-01, 08:14:53](https://news.ycombinator.com/item?id=45090654) - [OSMAnd vs. Organic Maps](https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html)
 * [2025-08-31, 09:52:26](https://news.ycombinator.com/item?id=45081904) - [This Page Is a Quine (2021)](https://pranavg.me/)
 * [2025-08-31, 09:19:52](https://news.ycombinator.com/item?id=45081752) - [Ask HN: Looking for Headless CMS Recommendation](https://news.ycombinator.com/item?id=45081752)
-* [2025-08-31, 02:20:10](https://news.ycombinator.com/item?id=45079767) - [Abstract Machine Models (2022)](https://dr-knz.net/abstract-machine-models.html)
 * [2025-08-31, 01:02:47](https://news.ycombinator.com/item?id=45079418) - [PFP: A Probabilistic Functional Programming Library for Haskell (2006)](https://web.engr.oregonstate.edu/~erwig/pfp/)
 * [2025-08-30, 18:42:08](https://news.ycombinator.com/item?id=45076992) - [How to Give a Good Talk](https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/)
 
