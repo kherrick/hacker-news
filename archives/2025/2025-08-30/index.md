@@ -10,6 +10,7 @@
 * [2025-08-30, 22:37:36](https://news.ycombinator.com/item?id=45078598) - [New Huawei 96GB GPU](https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo)
 * [2025-08-30, 22:24:58](https://news.ycombinator.com/item?id=45078530) - [Affiliates Flock to 'Soulless' Scam Gambling Machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
 * [2025-08-30, 22:13:01](https://news.ycombinator.com/item?id=45078452) - [Man declares country in unclaimed pocket of land between Serbia and Croatia](https://www.nbcnews.com/world/europe/viva-verdis-man-declares-country-unclaimed-pocket-land-serbia-croatia-rcna228004)
+* [2025-08-30, 21:52:58](https://news.ycombinator.com/item?id=45078315) - [Magic Lantern Is Back](https://www.magiclantern.fm/forum/index.php?topic=27315.0)
 * [2025-08-30, 21:01:32](https://news.ycombinator.com/item?id=45077970) - [Verizon down for users across the US](https://www.dailymail.co.uk/news/article-15050499/Verizon-goes-tens-thousands-users-US.html)
 * [2025-08-30, 20:56:40](https://news.ycombinator.com/item?id=45077937) - [Six Months into Tariffs, Businesses Have No Idea How to Price Anything](https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8)
 * [2025-08-30, 20:26:35](https://news.ycombinator.com/item?id=45077735) - [Why did books start being divided into chapters? A new history](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
