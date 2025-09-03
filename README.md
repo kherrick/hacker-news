@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-03, 23:07:36](https://news.ycombinator.com/item?id=45121342) - [The Evidence That AI Is Destroying Jobs for Young People Just Got Stronger](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
 * [2025-09-03, 21:18:29](https://news.ycombinator.com/item?id=45120517) - [Where's the shovelware? Why AI coding claims don't add up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
 * [2025-09-03, 21:00:27](https://news.ycombinator.com/item?id=45120373) - [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
 * [2025-09-03, 20:29:13](https://news.ycombinator.com/item?id=45120050) - [The worst possible antitrust outcome](https://pluralistic.net/2025/09/03/unpunishing-process/)
@@ -21,7 +22,6 @@
 * [2025-09-03, 13:47:14](https://news.ycombinator.com/item?id=45115760) - [Building the most accurate DIY CNC lathe in the world [video]](https://www.youtube.com/watch?v=vEr2CJruwEM)
 * [2025-09-03, 12:38:47](https://news.ycombinator.com/item?id=45115004) - [John Coltrane's Tone Circle](https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/)
 * [2025-09-03, 11:07:16](https://news.ycombinator.com/item?id=45114379) - [Voyager – An interactive video generation model with realtime 3D reconstruction](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
-* [2025-09-03, 10:49:48](https://news.ycombinator.com/item?id=45114277) - [UK Electricity Generation Map](https://www.energydashboard.co.uk/map)
 * [2025-09-03, 10:44:01](https://news.ycombinator.com/item?id=45114245) - [VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
 * [2025-09-03, 10:02:11](https://news.ycombinator.com/item?id=45114003) - [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 * [2025-09-02, 11:35:22](https://news.ycombinator.com/item?id=45101675) - [New Knot Theory Discovery Overturns Long-Held Mathematical Assumption](https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/)
