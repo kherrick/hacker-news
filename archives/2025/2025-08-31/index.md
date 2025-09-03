@@ -45,6 +45,7 @@
 * [2025-08-31, 14:41:15](https://news.ycombinator.com/item?id=45083495) - [Replacing a Cache Service with a Database](https://avi.im/blag/2025/db-cache/)
 * [2025-08-31, 13:49:11](https://news.ycombinator.com/item?id=45083135) - [Spacing Over Cards](https://smagin.fyi/posts/padding-over-cards/)
 * [2025-08-31, 13:49:01](https://news.ycombinator.com/item?id=45083134) - [Notes on Managing ADHD](https://borretti.me/article/notes-on-managing-adhd)
+* [2025-08-31, 13:34:36](https://news.ycombinator.com/item?id=45083053) - [Glow-in-the-dark houseplants shine in rainbow of colours](https://www.nature.com/articles/d41586-025-02740-2)
 * [2025-08-31, 13:32:27](https://news.ycombinator.com/item?id=45083038) - [AI is just a next evolution of the computer](https://www.vincirufus.com/posts/ai-next-evolution-of-computers/)
 * [2025-08-31, 13:16:12](https://news.ycombinator.com/item?id=45082929) - [Show HN: My first Go project, a useless animated bunny sign for your terminal](https://github.com/fsgreco/go-bunny-sign)
 * [2025-08-31, 12:44:26](https://news.ycombinator.com/item?id=45082750) - [Google: 'Your $1000 phone needs our permission to install apps now' [video]](https://www.youtube.com/watch?v=QBEKlIV_70E)

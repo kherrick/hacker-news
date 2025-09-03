@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 15:21:35](https://news.ycombinator.com/item?id=45116859) - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859)
+* [2025-09-03, 15:20:34](https://news.ycombinator.com/item?id=45116849) - [A Random Walk in 10 Dimensions (2021)](https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/)
+* [2025-09-03, 15:07:20](https://news.ycombinator.com/item?id=45116688) - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
 * [2025-09-03, 14:02:28](https://news.ycombinator.com/item?id=45115942) - [Airbus B612 Cockpit Font](https://github.com/polarsys/b612)
 * [2025-09-03, 14:02:18](https://news.ycombinator.com/item?id=45115941) - [Today, I learned that eels are fish](https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08)
 * [2025-09-03, 13:47:14](https://news.ycombinator.com/item?id=45115760) - [Building the most accurate DIY CNC lathe in the world [video]](https://www.youtube.com/watch?v=vEr2CJruwEM)
