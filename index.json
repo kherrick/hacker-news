@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-09-02, 08:25:47",
-      "https://news.ycombinator.com/item?id=45100421"
-    ],
-    [
-      "Light Sleep: Waking VMs in 200ms with eBPF and snapshots",
-      "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 05:53:19",
       "https://news.ycombinator.com/item?id=45080683"
     ],
@@ -257,6 +247,16 @@
     [
       "Chicago has the most lead pipes in the nation",
       "https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 23:35:32",
+      "https://news.ycombinator.com/item?id=45078962"
+    ],
+    [
+      "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
+      "https://github.com/krig/LISP"
     ]
   ],
   [
