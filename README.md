@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-03, 10:02:11](https://news.ycombinator.com/item?id=45114003) - [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 * [2025-09-03, 08:18:07](https://news.ycombinator.com/item?id=45113418) - [Finding thousands of exposed Ollama instances using Shodan](https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama)
 * [2025-09-03, 07:47:10](https://news.ycombinator.com/item?id=45113251) - [Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim](https://github.com/awslabs/amazonq.nvim)
 * [2025-09-03, 07:07:03](https://news.ycombinator.com/item?id=45113043) - [AI is going great for the blind (2023)](https://robertkingett.com/posts/6230/)
@@ -18,7 +19,6 @@
 * [2025-09-02, 17:16:42](https://news.ycombinator.com/item?id=45106049) - [<template>: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template)
 * [2025-09-02, 17:14:51](https://news.ycombinator.com/item?id=45106011) - [We already live in social credit, we just don't call it that](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/)
 * [2025-09-02, 16:53:29](https://news.ycombinator.com/item?id=45105710) - ['World Models,' an old idea in AI, mount a comeback](https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/)
-* [2025-09-02, 16:08:31](https://news.ycombinator.com/item?id=45104974) - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974)
 * [2025-09-02, 15:25:44](https://news.ycombinator.com/item?id=45104303) - [Static sites enable a good time travel experience](https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/)
 * [2025-09-02, 15:24:48](https://news.ycombinator.com/item?id=45104289) - [The staff ate it later](https://en.wikipedia.org/wiki/The_staff_ate_it_later)
 * [2025-09-02, 14:17:07](https://news.ycombinator.com/item?id=45103436) - [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra)
