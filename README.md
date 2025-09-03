@@ -12,6 +12,7 @@
 * [2025-09-02, 20:26:47](https://news.ycombinator.com/item?id=45108548) - [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
 * [2025-09-02, 19:42:48](https://news.ycombinator.com/item?id=45108066) - [Making a Linux home server sleep on idle and wake on demand (2023)](https://dgross.ca/blog/linux-home-server-auto-sleep)
 * [2025-09-02, 19:34:24](https://news.ycombinator.com/item?id=45107962) - [A staff engineer's journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
+* [2025-09-02, 18:18:10](https://news.ycombinator.com/item?id=45106981) - [Vijaye Raji to become CTO of Applications with acquisition of Statsig](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/)
 * [2025-09-02, 18:07:22](https://news.ycombinator.com/item?id=45106846) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 * [2025-09-02, 17:32:08](https://news.ycombinator.com/item?id=45106314) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
 * [2025-09-02, 17:16:42](https://news.ycombinator.com/item?id=45106049) - [<template>: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template)
@@ -28,7 +29,6 @@
 * [2025-08-30, 21:52:58](https://news.ycombinator.com/item?id=45078315) - [Magic Lantern Is Back](https://www.magiclantern.fm/forum/index.php?topic=27315.0)
 * [2025-08-30, 08:46:05](https://news.ycombinator.com/item?id=45073031) - [Triangle Grids (2022)](https://kvachev.com/blog/posts/triangular-grid/)
 * [2025-08-30, 06:55:30](https://news.ycombinator.com/item?id=45072481) - [10-20x Faster LLVM -O0 Back-End – Code Generation](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
-* [2025-08-30, 02:35:00](https://news.ycombinator.com/item?id=45071457) - [What happens during startup?](https://eclecticlight.co/2025/08/29/what-happens-during-startup/)
 * [2025-08-29, 13:59:33](https://news.ycombinator.com/item?id=45064241) - [Untangling the myths and mysteries of Dvorak and QWERTY (2023)](https://aresluna.org/the-primitive-tortureboard/)
 
 ## [Archives](archives/index.md)
