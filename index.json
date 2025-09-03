@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-09-03, 15:24:52",
-      "https://news.ycombinator.com/item?id=45116893"
-    ],
-    [
-      "Ask HN: Why does Google word privacy settings like you agree even when off?",
-      "https://news.ycombinator.com/item?id=45116893"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 15:21:35",
       "https://news.ycombinator.com/item?id=45116859"
     ],
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2025-09-03, 07:47:10",
-      "https://news.ycombinator.com/item?id=45113251"
-    ],
-    [
-      "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
-      "https://github.com/awslabs/amazonq.nvim"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 06:58:51",
       "https://news.ycombinator.com/item?id=45112996"
     ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2025-08-31, 09:19:52",
+      "https://news.ycombinator.com/item?id=45081752"
+    ],
+    [
+      "Ask HN: Looking for Headless CMS Recommendation",
+      "https://news.ycombinator.com/item?id=45081752"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 02:20:10",
       "https://news.ycombinator.com/item?id=45079767"
     ],
@@ -297,6 +287,16 @@
     [
       "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
       "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 06:55:30",
+      "https://news.ycombinator.com/item?id=45072481"
+    ],
+    [
+      "TPDE-LLVM: Faster LLVM -O0 Back-End",
+      "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664"
     ]
   ]
 ]
