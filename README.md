@@ -28,7 +28,7 @@
 * [2025-08-30, 23:35:32](https://news.ycombinator.com/item?id=45078962) - [Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)](https://github.com/krig/LISP)
 * [2025-08-30, 08:46:05](https://news.ycombinator.com/item?id=45073031) - [Triangle Grids](https://kvachev.com/blog/posts/triangular-grid/)
 * [2025-08-30, 06:55:30](https://news.ycombinator.com/item?id=45072481) - [10-20x Faster LLVM -O0 Back-End – Code Generation](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
-* [2025-08-30, 02:35:00](https://news.ycombinator.com/item?id=45071457) - [What Happens During Startup?](https://eclecticlight.co/2025/08/29/what-happens-during-startup/)
+* [2025-08-30, 02:35:00](https://news.ycombinator.com/item?id=45071457) - [What happens during startup?](https://eclecticlight.co/2025/08/29/what-happens-during-startup/)
 * [2025-08-29, 13:59:33](https://news.ycombinator.com/item?id=45064241) - [Untangling the myths and mysteries of Dvorak and QWERTY (2023)](https://aresluna.org/the-primitive-tortureboard/)
 
 ## [Archives](archives/index.md)
