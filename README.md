@@ -20,7 +20,6 @@
 * [2025-09-03, 14:02:18](https://news.ycombinator.com/item?id=45115941) - [Eels are fish](https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08)
 * [2025-09-03, 13:47:14](https://news.ycombinator.com/item?id=45115760) - [Building the most accurate DIY CNC lathe in the world [video]](https://www.youtube.com/watch?v=vEr2CJruwEM)
 * [2025-09-03, 12:38:47](https://news.ycombinator.com/item?id=45115004) - [John Coltrane's Tone Circle](https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/)
-* [2025-09-03, 11:40:41](https://news.ycombinator.com/item?id=45114579) - [The wall confronting large language models](https://arxiv.org/abs/2507.19703)
 * [2025-09-03, 11:07:16](https://news.ycombinator.com/item?id=45114379) - [Voyager – An interactive video generation model with realtime 3D reconstruction](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
 * [2025-09-03, 10:44:01](https://news.ycombinator.com/item?id=45114245) - [VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
 * [2025-09-03, 10:02:11](https://news.ycombinator.com/item?id=45114003) - [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
@@ -28,6 +27,7 @@
 * [2025-09-01, 16:40:24](https://news.ycombinator.com/item?id=45094256) - [Lessons from building an AI data analyst](https://www.pedronasc.com/articles/lessons-building-ai-data-analyst)
 * [2025-09-01, 08:14:53](https://news.ycombinator.com/item?id=45090654) - [OSMAnd vs. Organic Maps](https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html)
 * [2025-08-31, 23:10:25](https://news.ycombinator.com/item?id=45087911) - [Lively Linear Lisp (1992) [pdf]](https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf)
+* [2025-08-31, 10:46:24](https://news.ycombinator.com/item?id=45082145) - [Ten Thousand Lifetimes with Roguelikes](https://ian.mccowan.space/study/essays/roguelikes/)
 * [2025-08-31, 09:52:26](https://news.ycombinator.com/item?id=45081904) - [This Page Is a Quine (2021)](https://pranavg.me/)
 * [2025-08-28, 21:32:10](https://news.ycombinator.com/item?id=45057283) - [The Bitter Lesson Is Misunderstood](https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood)
 

@@ -54,6 +54,7 @@
 * [2025-08-31, 12:16:00](https://news.ycombinator.com/item?id=45082595) - [F-Droid site certificate expired](https://gitlab.com/fdroid/fdroid-website/-/issues/883)
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
 * [2025-08-31, 12:00:21](https://news.ycombinator.com/item?id=45082508) - [Channel3 (YC S25) Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
+* [2025-08-31, 10:46:24](https://news.ycombinator.com/item?id=45082145) - [Ten Thousand Lifetimes with Roguelikes](https://ian.mccowan.space/study/essays/roguelikes/)
 * [2025-08-31, 09:52:26](https://news.ycombinator.com/item?id=45081904) - [This Page Is a Quine (2021)](https://pranavg.me/)
 * [2025-08-31, 09:21:35](https://news.ycombinator.com/item?id=45081764) - [Just use `git` to manage your dotfiles](https://ericgreer.info/post/2025-08-31-simple-dotfiles-script/)
 * [2025-08-31, 09:19:52](https://news.ycombinator.com/item?id=45081752) - [Ask HN: Looking for Headless CMS Recommendation](https://news.ycombinator.com/item?id=45081752)
