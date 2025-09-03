@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-03, 17:24:31",
+      "https://news.ycombinator.com/item?id=45118351"
+    ],
+    [
+      "Stop Using Brave Browser",
+      "https://www.spacebar.news/stop-using-brave-browser/"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 17:03:35",
+      "https://news.ycombinator.com/item?id=45118111"
+    ],
+    [
+      "Speeding up PyTorch inference by 87% on Apple with AI-generated Metal kernels",
+      "https://gimletlabs.ai/blog/ai-generated-metal-kernels"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 17:00:04",
       "https://news.ycombinator.com/item?id=45118072"
     ],
@@ -17,6 +37,16 @@
     [
       "Who Owns, Operates, and Develops Your VPN Matters",
       "https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 16:28:23",
+      "https://news.ycombinator.com/item?id=45117668"
+    ],
+    [
+      "Writing a C compiler in 500 lines of Python",
+      "https://vgel.me/posts/c500/"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2025-09-03, 06:14:22",
-      "https://news.ycombinator.com/item?id=45112720"
-    ],
-    [
-      "Lit: a library for building fast, lightweight web components",
-      "https://lit.dev"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 03:13:05",
-      "https://news.ycombinator.com/item?id=45111909"
-    ],
-    [
-      "Comic Sans typeball designed to work with the IBM Selectric typewriters",
-      "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 00:01:02",
       "https://news.ycombinator.com/item?id=45110688"
     ],
@@ -221,32 +231,22 @@
   ],
   [
     [
-      "2025-09-02, 22:58:23",
-      "https://news.ycombinator.com/item?id=45110209"
-    ],
-    [
-      "This blog is running on a recycled Google Pixel 5 (2024)",
-      "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 19:34:24",
-      "https://news.ycombinator.com/item?id=45107962"
-    ],
-    [
-      "A staff engineer's journey with Claude Code",
-      "https://www.sanity.io/blog/first-attempt-will-be-95-garbage"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 13:34:36",
       "https://news.ycombinator.com/item?id=45083053"
     ],
     [
       "Glow-in-the-dark houseplants shine in rainbow of colours",
       "https://www.nature.com/articles/d41586-025-02740-2"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 09:52:26",
+      "https://news.ycombinator.com/item?id=45081904"
+    ],
+    [
+      "This Page Is a Quine (2021)",
+      "https://pranavg.me/"
     ]
   ],
   [
