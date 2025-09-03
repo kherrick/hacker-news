@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-03, 07:47:10](https://news.ycombinator.com/item?id=45113251) - [Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim](https://github.com/awslabs/amazonq.nvim)
 * [2025-09-03, 06:58:51](https://news.ycombinator.com/item?id=45112996) - [Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 * [2025-09-03, 06:14:22](https://news.ycombinator.com/item?id=45112720) - [Lit: a library for building fast, lightweight web components](https://lit.dev)
 * [2025-09-03, 06:00:47](https://news.ycombinator.com/item?id=45112653) - [Finnish City Inaugurates 1 MW/100 MWh Sand Battery](https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/)
@@ -22,7 +23,6 @@
 * [2025-09-02, 15:24:48](https://news.ycombinator.com/item?id=45104289) - [The staff ate it later](https://en.wikipedia.org/wiki/The_staff_ate_it_later)
 * [2025-09-02, 14:17:07](https://news.ycombinator.com/item?id=45103436) - [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra)
 * [2025-09-02, 12:56:37](https://news.ycombinator.com/item?id=45102512) - [Take something you don’t like and try to like it](https://dynomight.net/liking/)
-* [2025-09-01, 14:36:11](https://news.ycombinator.com/item?id=45092967) - [Show HN: We built an open-source alternative to expensive pair programming apps](https://github.com/gethopp/hopp)
 * [2025-08-31, 05:53:19](https://news.ycombinator.com/item?id=45080683) - [Still Asking: How Good Are Query Optimizers, Really? [pdf]](https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf)
 * [2025-08-30, 23:35:32](https://news.ycombinator.com/item?id=45078962) - [Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)](https://github.com/krig/LISP)
 * [2025-08-30, 21:52:58](https://news.ycombinator.com/item?id=45078315) - [Magic Lantern Is Back](https://www.magiclantern.fm/forum/index.php?topic=27315.0)
