@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-03, 19:09:29](https://news.ycombinator.com/item?id=45119397) - [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
 * [2025-09-03, 18:41:57](https://news.ycombinator.com/item?id=45119103) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+* [2025-09-03, 18:38:48](https://news.ycombinator.com/item?id=45119076) - [Another YC company was acquihired today by OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
 * [2025-09-03, 17:49:08](https://news.ycombinator.com/item?id=45118598) - [6NF File Format](https://habr.com/en/articles/942516/)
 * [2025-09-03, 17:48:27](https://news.ycombinator.com/item?id=45118592) - [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 * [2025-09-03, 17:47:50](https://news.ycombinator.com/item?id=45118585) - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
@@ -15,7 +17,6 @@
 * [2025-09-03, 15:21:35](https://news.ycombinator.com/item?id=45116859) - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859)
 * [2025-09-03, 15:20:34](https://news.ycombinator.com/item?id=45116849) - [A Random Walk in 10 Dimensions (2021)](https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/)
 * [2025-09-03, 15:07:20](https://news.ycombinator.com/item?id=45116688) - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
-* [2025-09-03, 14:02:28](https://news.ycombinator.com/item?id=45115942) - [Airbus B612 Cockpit Font](https://github.com/polarsys/b612)
 * [2025-09-03, 13:47:14](https://news.ycombinator.com/item?id=45115760) - [Building the most accurate DIY CNC lathe in the world [video]](https://www.youtube.com/watch?v=vEr2CJruwEM)
 * [2025-09-03, 12:38:47](https://news.ycombinator.com/item?id=45115004) - [John Coltrane's Tone Circle](https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/)
 * [2025-09-03, 11:40:41](https://news.ycombinator.com/item?id=45114579) - [The wall confronting large language models](https://arxiv.org/abs/2507.19703)
@@ -28,7 +29,6 @@
 * [2025-08-31, 09:19:52](https://news.ycombinator.com/item?id=45081752) - [Ask HN: Looking for Headless CMS Recommendation](https://news.ycombinator.com/item?id=45081752)
 * [2025-08-31, 02:20:10](https://news.ycombinator.com/item?id=45079767) - [Abstract Machine Models (2022)](https://dr-knz.net/abstract-machine-models.html)
 * [2025-08-31, 01:02:47](https://news.ycombinator.com/item?id=45079418) - [PFP: A Probabilistic Functional Programming Library for Haskell (2006)](https://web.engr.oregonstate.edu/~erwig/pfp/)
-* [2025-08-30, 21:52:58](https://news.ycombinator.com/item?id=45078315) - [Magic Lantern Is Back](https://www.magiclantern.fm/forum/index.php?topic=27315.0)
 * [2025-08-30, 18:42:08](https://news.ycombinator.com/item?id=45076992) - [How to Give a Good Talk](https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/)
 
 ## [Archives](archives/index.md)
