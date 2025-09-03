@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-03, 14:02:28](https://news.ycombinator.com/item?id=45115942) - [Airbus B612 Cockpit Font](https://github.com/polarsys/b612)
 * [2025-09-03, 14:02:18](https://news.ycombinator.com/item?id=45115941) - [Today, I learned that eels are fish](https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08)
 * [2025-09-03, 13:47:14](https://news.ycombinator.com/item?id=45115760) - [Building the most accurate DIY CNC lathe in the world [video]](https://www.youtube.com/watch?v=vEr2CJruwEM)
 * [2025-09-03, 13:30:25](https://news.ycombinator.com/item?id=45115557) - [Sharing a mutable reference between Rust and Python](https://blog.lilyf.org/posts/python-mutable-reference/)
@@ -22,7 +23,6 @@
 * [2025-09-02, 22:58:23](https://news.ycombinator.com/item?id=45110209) - [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
 * [2025-09-02, 19:34:24](https://news.ycombinator.com/item?id=45107962) - [A staff engineer's journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
 * [2025-09-02, 17:14:51](https://news.ycombinator.com/item?id=45106011) - [We already live in social credit, we just don't call it that](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/)
-* [2025-09-02, 15:24:48](https://news.ycombinator.com/item?id=45104289) - [The staff ate it later](https://en.wikipedia.org/wiki/The_staff_ate_it_later)
 * [2025-08-31, 02:20:10](https://news.ycombinator.com/item?id=45079767) - [Abstract Machine Models Also: what Rust got particularly right](https://dr-knz.net/abstract-machine-models.html)
 * [2025-08-30, 22:25:36](https://news.ycombinator.com/item?id=45078533) - [Inside the World of \"The Great British Bake Off\"](https://www.newyorker.com/magazine/2025/09/01/inside-the-world-of-the-great-british-bake-off)
 * [2025-08-30, 21:52:58](https://news.ycombinator.com/item?id=45078315) - [Magic Lantern Is Back](https://www.magiclantern.fm/forum/index.php?topic=27315.0)
