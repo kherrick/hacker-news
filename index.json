@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-09-02, 22:44:50",
-      "https://news.ycombinator.com/item?id=45110075"
+      "2025-09-03, 00:08:54",
+      "https://news.ycombinator.com/item?id=45110748"
     ],
     [
-      "Parallel AI agents are a game changer",
-      "https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html"
+      "Show HN: LightCycle, a FOSS game in Rust based on Tron",
+      "https://github.com/Tortured-Metaphor/LightCycle"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 00:01:02",
+      "https://news.ycombinator.com/item?id=45110688"
+    ],
+    [
+      "%CPU utilization is a lie",
+      "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 23:21:30",
+      "https://news.ycombinator.com/item?id=45110386"
+    ],
+    [
+      "Indices, not Pointers",
+      "https://joegm.github.io/blog/indices-not-pointers/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 22:58:23",
+      "https://news.ycombinator.com/item?id=45110209"
+    ],
+    [
+      "This blog is running on a recycled Google Pixel 5 (2024)",
+      "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/"
     ]
   ],
   [
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2025-09-02, 19:32:46",
-      "https://news.ycombinator.com/item?id=45107939"
-    ],
-    [
-      "iNaturalist keeps full species classification models private",
-      "https://github.com/inaturalist/inatVisionAPI"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 19:28:43",
       "https://news.ycombinator.com/item?id=45107891"
     ],
@@ -87,16 +107,6 @@
     [
       "Show HN: Amber – better Beeper, a modern all-in-one messenger",
       "https://useamber.app/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 18:47:26",
-      "https://news.ycombinator.com/item?id=45107353"
-    ],
-    [
-      "The Kafka Replication Protocol with KIP-966",
-      "https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2025-08-30, 08:30:43",
-      "https://news.ycombinator.com/item?id=45072966"
+      "2025-08-30, 02:35:00",
+      "https://news.ycombinator.com/item?id=45071457"
     ],
     [
-      "Pearl – An Erlang lexer and syntax highlighter in Gleam",
-      "https://github.com/GearsDatapacks/pearl"
+      "What Happens During Startup?",
+      "https://eclecticlight.co/2025/08/29/what-happens-during-startup/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Untangling the myths and mysteries of Dvorak and QWERTY (2023)",
       "https://aresluna.org/the-primitive-tortureboard/"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 09:40:19",
-      "https://news.ycombinator.com/item?id=45062046"
-    ],
-    [
-      "An LLM is a lossy encyclopedia",
-      "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/"
     ]
   ]
 ]
