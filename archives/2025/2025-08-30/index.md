@@ -49,6 +49,7 @@
 * [2025-08-30, 11:36:18](https://news.ycombinator.com/item?id=45073791) - [You do not need \"analytics\" for your blog](https://www.thisdaysportion.com/posts/contra-analytics/)
 * [2025-08-30, 11:26:35](https://news.ycombinator.com/item?id=45073746) - [Hardening Firefox – a checklist for improved browser privacy](https://andrewmarder.net/firefox/)
 * [2025-08-30, 10:46:15](https://news.ycombinator.com/item?id=45073589) - [Tell HN: My advice after I applied to 450 positions before getting hired](https://news.ycombinator.com/item?id=45073589)
+* [2025-08-30, 10:44:33](https://news.ycombinator.com/item?id=45073579) - [Learning from Heuristics](https://emiruz.com/post/2025-05-11-soft-labels/)
 * [2025-08-30, 10:25:30](https://news.ycombinator.com/item?id=45073492) - [Amiga Hardware Reference Manual 3rd Edition (1991)](https://archive.org/details/amiga-hardware-reference-manual-3rd-edition)
 * [2025-08-30, 10:21:10](https://news.ycombinator.com/item?id=45073469) - [Computing simplified coverage polygons](https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html)
 * [2025-08-30, 09:05:22](https://news.ycombinator.com/item?id=45073137) - [Google Pixel 10 series review: Don't call it an Android](https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/)
