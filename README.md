@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-03, 15:54:12](https://news.ycombinator.com/item?id=45117230) - [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
 * [2025-09-03, 15:31:31](https://news.ycombinator.com/item?id=45116978) - [Warp Code: the fastest way from prompt to production](https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod)
+* [2025-09-03, 15:24:52](https://news.ycombinator.com/item?id=45116893) - [Ask HN: Why does Google word privacy settings like you agree even when off?](https://news.ycombinator.com/item?id=45116893)
 * [2025-09-03, 15:21:35](https://news.ycombinator.com/item?id=45116859) - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859)
 * [2025-09-03, 15:20:34](https://news.ycombinator.com/item?id=45116849) - [A Random Walk in 10 Dimensions (2021)](https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/)
 * [2025-09-03, 15:07:20](https://news.ycombinator.com/item?id=45116688) - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
@@ -27,9 +29,7 @@
 * [2025-08-31, 02:20:10](https://news.ycombinator.com/item?id=45079767) - [Abstract Machine Models Also: what Rust got particularly right](https://dr-knz.net/abstract-machine-models.html)
 * [2025-08-30, 21:52:58](https://news.ycombinator.com/item?id=45078315) - [Magic Lantern Is Back](https://www.magiclantern.fm/forum/index.php?topic=27315.0)
 * [2025-08-30, 18:42:08](https://news.ycombinator.com/item?id=45076992) - [How to Give a Good Talk](https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/)
-* [2025-08-30, 17:11:32](https://news.ycombinator.com/item?id=45076266) - [Sharing Is Scaring: Linking Cloud File-Sharing to Programming Language Semantics](https://cs.brown.edu/~sk/Publications/Papers/Published/akf-sharing-scaring/)
 * [2025-08-30, 14:48:58](https://news.ycombinator.com/item?id=45075123) - [With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz](https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/)
-* [2025-08-30, 06:55:30](https://news.ycombinator.com/item?id=45072481) - [TPDE-LLVM: Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 
 ## [Archives](archives/index.md)
 
