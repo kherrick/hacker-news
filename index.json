@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-03, 15:54:12",
+      "https://news.ycombinator.com/item?id=45117230"
+    ],
+    [
+      "Nuclear: Desktop music player focused on streaming from free sources",
+      "https://github.com/nukeop/nuclear"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 15:31:31",
       "https://news.ycombinator.com/item?id=45116978"
     ],
     [
       "Warp Code: the fastest way from prompt to production",
       "https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 15:24:52",
+      "https://news.ycombinator.com/item?id=45116893"
+    ],
+    [
+      "Ask HN: Why does Google word privacy settings like you agree even when off?",
+      "https://news.ycombinator.com/item?id=45116893"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-08-30, 17:11:32",
-      "https://news.ycombinator.com/item?id=45076266"
-    ],
-    [
-      "Sharing Is Scaring: Linking Cloud File-Sharing to Programming Language Semantics",
-      "https://cs.brown.edu/~sk/Publications/Papers/Published/akf-sharing-scaring/"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 14:48:58",
       "https://news.ycombinator.com/item?id=45075123"
     ],
     [
       "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
       "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 06:55:30",
-      "https://news.ycombinator.com/item?id=45072481"
-    ],
-    [
-      "TPDE-LLVM: Faster LLVM -O0 Back-End",
-      "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664"
     ]
   ]
 ]
