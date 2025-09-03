@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 23:21:30](https://news.ycombinator.com/item?id=45110386) - [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers/)
+* [2025-09-02, 22:58:23](https://news.ycombinator.com/item?id=45110209) - [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
 * [2025-09-02, 22:44:50](https://news.ycombinator.com/item?id=45110075) - [Parallel AI Agents Are a Game Changer](https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html)
 * [2025-09-02, 21:31:37](https://news.ycombinator.com/item?id=45109324) - [You're Not Interviewing for the Job. You're Auditioning for the Job Title](https://idiallo.com/blog/performing-for-the-job-title)
 * [2025-09-02, 20:39:50](https://news.ycombinator.com/item?id=45108727) - [Judge Orders Google to Share Search Results to Help Resolve Monopoly](https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html)
