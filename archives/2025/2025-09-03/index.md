@@ -8,6 +8,7 @@
 * [2025-09-03, 17:47:50](https://news.ycombinator.com/item?id=45118585) - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
 * [2025-09-03, 17:28:32](https://news.ycombinator.com/item?id=45118392) - [Microsoft Releases Historic 6502 Basic](https://github.com/microsoft/BASIC-M6502)
 * [2025-09-03, 17:24:31](https://news.ycombinator.com/item?id=45118351) - [Stop Using Brave Browser](https://www.spacebar.news/stop-using-brave-browser/)
+* [2025-09-03, 17:19:10](https://news.ycombinator.com/item?id=45118302) - [Show HN: Entropy-Guided Loop – How to make small models reason](https://github.com/monostate/weave-logprobs-reasoning-loop)
 * [2025-09-03, 17:03:35](https://news.ycombinator.com/item?id=45118111) - [Speeding up PyTorch inference by 87% on Apple with AI-generated Metal kernels](https://gimletlabs.ai/blog/ai-generated-metal-kernels)
 * [2025-09-03, 17:00:04](https://news.ycombinator.com/item?id=45118072) - [Svix (webhooks as a service) is hiring for a founding marketing lead](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22)
 * [2025-09-03, 16:51:05](https://news.ycombinator.com/item?id=45117974) - [Who Owns, Operates, and Develops Your VPN Matters](https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/)
