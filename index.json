@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-09-03, 15:30:06",
+      "https://news.ycombinator.com/item?id=45116957"
+    ],
+    [
+      "Understanding Transformers Using a Minimal Example",
+      "https://rti.github.io/gptvis/"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 15:21:35",
       "https://news.ycombinator.com/item?id=45116859"
     ],
@@ -287,16 +297,6 @@
     [
       "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
       "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 06:55:30",
-      "https://news.ycombinator.com/item?id=45072481"
-    ],
-    [
-      "TPDE-LLVM: Faster LLVM -O0 Back-End",
-      "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664"
     ]
   ]
 ]
