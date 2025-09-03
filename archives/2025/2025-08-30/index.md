@@ -27,6 +27,7 @@
 * [2025-08-30, 16:57:54](https://news.ycombinator.com/item?id=45076119) - [Fed up with macOS – it downloaded 47 GB of 4K 240FPS screensavers. Asahi FTW](https://news.ycombinator.com/item?id=45076119)
 * [2025-08-30, 16:15:44](https://news.ycombinator.com/item?id=45075813) - [New research reveals longevity gains slowing, life expectancy of 100 unlikely](https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/)
 * [2025-08-30, 16:12:57](https://news.ycombinator.com/item?id=45075796) - [Reuters stopped sharing Gaza locations after IDF strikes killed many journalists](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)
+* [2025-08-30, 16:06:37](https://news.ycombinator.com/item?id=45075751) - [Acorn and the future of (AI?) theorem proving](https://lmao.bearblog.dev/acorn-ai-proving/)
 * [2025-08-30, 15:58:33](https://news.ycombinator.com/item?id=45075699) - [The Sex Recession: The Share of Americans Having Regular Sex Keeps Dropping](https://ifstudies.org/blog/the-sex-recession-the-share-of-americans-having-regular-sex-keeps-dropping)
 * [2025-08-30, 15:53:05](https://news.ycombinator.com/item?id=45075664) - [GAO warns of privacy risks in using facial recognition in rental housing](https://files.gao.gov/reports/GAO-25-107196/index.html)
 * [2025-08-30, 15:40:57](https://news.ycombinator.com/item?id=45075571) - [The V Programming Language](https://vlang.io/)
