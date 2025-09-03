@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-03, 18:41:57](https://news.ycombinator.com/item?id=45119103) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 * [2025-09-03, 17:49:08](https://news.ycombinator.com/item?id=45118598) - [6NF File Format](https://habr.com/en/articles/942516/)
 * [2025-09-03, 17:48:27](https://news.ycombinator.com/item?id=45118592) - [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 * [2025-09-03, 17:47:50](https://news.ycombinator.com/item?id=45118585) - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
@@ -23,7 +24,6 @@
 * [2025-09-03, 10:44:01](https://news.ycombinator.com/item?id=45114245) - [VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
 * [2025-09-03, 10:02:11](https://news.ycombinator.com/item?id=45114003) - [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 * [2025-09-02, 13:58:27](https://news.ycombinator.com/item?id=45103205) - [Vector search on our codebase transformed our SDLC automation](https://medium.com/@antonybrahin/grounding-ai-in-reality-how-vector-search-on-our-codebase-transformed-our-sdlc-automation-7d068b1244a8)
-* [2025-08-31, 13:34:36](https://news.ycombinator.com/item?id=45083053) - [Glow-in-the-dark houseplants shine in rainbow of colours](https://www.nature.com/articles/d41586-025-02740-2)
 * [2025-08-31, 09:52:26](https://news.ycombinator.com/item?id=45081904) - [This Page Is a Quine (2021)](https://pranavg.me/)
 * [2025-08-31, 09:19:52](https://news.ycombinator.com/item?id=45081752) - [Ask HN: Looking for Headless CMS Recommendation](https://news.ycombinator.com/item?id=45081752)
 * [2025-08-31, 02:20:10](https://news.ycombinator.com/item?id=45079767) - [Abstract Machine Models (2022)](https://dr-knz.net/abstract-machine-models.html)

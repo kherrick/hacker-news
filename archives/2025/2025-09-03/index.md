@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 18:41:57](https://news.ycombinator.com/item?id=45119103) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 * [2025-09-03, 17:49:08](https://news.ycombinator.com/item?id=45118598) - [6NF File Format](https://habr.com/en/articles/942516/)
 * [2025-09-03, 17:48:27](https://news.ycombinator.com/item?id=45118592) - [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 * [2025-09-03, 17:47:50](https://news.ycombinator.com/item?id=45118585) - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
