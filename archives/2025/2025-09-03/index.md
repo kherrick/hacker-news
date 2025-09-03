@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 17:00:04](https://news.ycombinator.com/item?id=45118072) - [Svix (webhooks as a service) is hiring for a founding marketing lead](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22)
+* [2025-09-03, 16:21:04](https://news.ycombinator.com/item?id=45117573) - [SomaFM 25th Anniversary](https://somafm.com/XXV/)
 * [2025-09-03, 15:54:12](https://news.ycombinator.com/item?id=45117230) - [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
+* [2025-09-03, 15:41:33](https://news.ycombinator.com/item?id=45117086) - [Show HN: Chibi, AI that tells you why users churn](https://chibi.sh)
 * [2025-09-03, 15:31:31](https://news.ycombinator.com/item?id=45116978) - [Warp Code: the fastest way from prompt to production](https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod)
 * [2025-09-03, 15:30:06](https://news.ycombinator.com/item?id=45116957) - [Understanding Transformers Using a Minimal Example](https://rti.github.io/gptvis/)
 * [2025-09-03, 15:24:52](https://news.ycombinator.com/item?id=45116893) - [Ask HN: Why does Google word privacy settings like you agree even when off?](https://news.ycombinator.com/item?id=45116893)
