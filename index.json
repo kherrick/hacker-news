@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-03, 08:18:07",
+      "https://news.ycombinator.com/item?id=45113418"
+    ],
+    [
+      "Finding thousands of exposed Ollama instances using Shodan",
+      "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 07:47:10",
       "https://news.ycombinator.com/item?id=45113251"
     ],
     [
       "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
       "https://github.com/awslabs/amazonq.nvim"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 07:07:03",
+      "https://news.ycombinator.com/item?id=45113043"
+    ],
+    [
+      "AI is going great for the blind",
+      "https://robertkingett.com/posts/6230/"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2025-09-02, 11:44:14",
-      "https://news.ycombinator.com/item?id=45101779"
-    ],
-    [
-      "Toronto’s network of pedestrian tunnels",
-      "https://www.worksinprogress.news/p/torontos-underground-labyrinth"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 05:53:19",
-      "https://news.ycombinator.com/item?id=45080683"
-    ],
-    [
-      "Still Asking: How Good Are Query Optimizers, Really? [pdf]",
-      "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 23:35:32",
       "https://news.ycombinator.com/item?id=45078962"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45072481"
     ],
     [
-      "10-20x Faster LLVM -O0 Back-End – Code Generation",
+      "TPDE-LLVM: Faster LLVM -O0 Back-End",
       "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664"
     ]
   ],
