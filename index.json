@@ -31,11 +31,21 @@
   ],
   [
     [
+      "2025-09-03, 17:19:10",
+      "https://news.ycombinator.com/item?id=45118302"
+    ],
+    [
+      "Show HN: Entropy-Guided Loop – How to make small models reason",
+      "https://github.com/monostate/weave-logprobs-reasoning-loop"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 17:03:35",
       "https://news.ycombinator.com/item?id=45118111"
     ],
     [
-      "Speeding up PyTorch inference by 87% on Apple with AI-generated Metal kernels",
+      "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
       "https://gimletlabs.ai/blog/ai-generated-metal-kernels"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45117668"
     ],
     [
-      "Writing a C compiler in 500 lines of Python",
+      "Writing a C compiler in 500 lines of Python (2023)",
       "https://vgel.me/posts/c500/"
     ]
   ],
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2025-09-03, 13:30:25",
-      "https://news.ycombinator.com/item?id=45115557"
-    ],
-    [
-      "Sharing a mutable reference between Rust and Python",
-      "https://blog.lilyf.org/posts/python-mutable-reference/"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 12:38:47",
       "https://news.ycombinator.com/item?id=45115004"
     ],
     [
       "John Coltrane's Tone Circle",
       "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 12:06:19",
-      "https://news.ycombinator.com/item?id=45114753"
-    ],
-    [
-      "MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline",
-      "https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=45114379"
     ],
     [
-      "Voyager is an interactive video generation model with realtime 3D reconstruction",
+      "Voyager – An interactive video generation model with realtime 3D reconstruction",
       "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
       "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 13:58:27",
+      "https://news.ycombinator.com/item?id=45103205"
+    ],
+    [
+      "Vector search on our codebase transformed our SDLC automation",
+      "https://medium.com/@antonybrahin/grounding-ai-in-reality-how-vector-search-on-our-codebase-transformed-our-sdlc-automation-7d068b1244a8"
     ]
   ],
   [
