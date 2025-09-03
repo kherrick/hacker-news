@@ -70,5 +70,6 @@
 * [2025-08-31, 02:58:32](https://news.ycombinator.com/item?id=45079962) - [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
 * [2025-08-31, 02:47:47](https://news.ycombinator.com/item?id=45079911) - [Are people's bosses making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
 * [2025-08-31, 01:31:07](https://news.ycombinator.com/item?id=45079532) - [ETFs now hold more than $3.1T worth of just top US companies](https://www.signalbloom.ai/etf/stats)
+* [2025-08-31, 01:27:06](https://news.ycombinator.com/item?id=45079512) - [Chicago has the most lead pipes in the nation](https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/)
 * [2025-08-31, 00:51:24](https://news.ycombinator.com/item?id=45079365) - [Scottish brothers finish mammoth row across Pacific Ocean after 139 days](https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488)
 * [2025-08-31, 00:06:42](https://news.ycombinator.com/item?id=45079131) - [Quirks of Common Lisp Types](https://www.fosskers.ca/en/blog/cl-type-quirks)

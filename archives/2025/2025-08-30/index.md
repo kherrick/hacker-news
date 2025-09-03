@@ -57,6 +57,7 @@
 * [2025-08-30, 05:45:24](https://news.ycombinator.com/item?id=45072160) - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 * [2025-08-30, 04:07:33](https://news.ycombinator.com/item?id=45071847) - [I sat down with Werner Vogels, the CTO of Amazon](https://everton.xyz/i-sat-down-with-werner-vogels/)
 * [2025-08-30, 04:05:22](https://news.ycombinator.com/item?id=45071838) - [Fun and Immersive Typing Game](https://keybara.io)
+* [2025-08-30, 03:59:45](https://news.ycombinator.com/item?id=45071814) - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 * [2025-08-30, 03:40:23](https://news.ycombinator.com/item?id=45071722) - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
 * [2025-08-30, 03:35:41](https://news.ycombinator.com/item?id=45071703) - [OpenAI tackling life extension with LLMs](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
 * [2025-08-30, 03:29:01](https://news.ycombinator.com/item?id=45071677) - [SynthID](https://deepmind.google/science/synthid/)
