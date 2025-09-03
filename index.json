@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-09-03, 13:29:42",
-      "https://news.ycombinator.com/item?id=45115549"
+      "2025-09-03, 14:02:18",
+      "https://news.ycombinator.com/item?id=45115941"
     ],
     [
-      "No place in children's hands: <16s in UK to be banned from buying energy drinks",
-      "https://www.theguardian.com/business/2025/sep/02/children-energy-drinks-government-obesity-health"
+      "Today, I learned that eels are fish",
+      "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 13:47:14",
+      "https://news.ycombinator.com/item?id=45115760"
+    ],
+    [
+      "Building the most accurate DIY CNC lathe in the world [video]",
+      "https://www.youtube.com/watch?v=vEr2CJruwEM"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 13:30:25",
+      "https://news.ycombinator.com/item?id=45115557"
+    ],
+    [
+      "Sharing a mutable reference between Rust and Python",
+      "https://blog.lilyf.org/posts/python-mutable-reference/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45114379"
     ],
     [
-      "Tencent Open Sourced a 3D World Model",
+      "Voyager is an interactive video generation model with realtime 3D reconstruction",
       "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager"
     ]
   ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-08-30, 23:35:32",
-      "https://news.ycombinator.com/item?id=45078962"
-    ],
-    [
-      "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
-      "https://github.com/krig/LISP"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 22:25:36",
       "https://news.ycombinator.com/item?id=45078533"
     ],
@@ -277,16 +287,6 @@
     [
       "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
       "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 10:21:10",
-      "https://news.ycombinator.com/item?id=45073469"
-    ],
-    [
-      "Computing simplified coverage polygons",
-      "https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html"
     ]
   ],
   [
