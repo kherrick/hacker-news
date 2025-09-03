@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-03, 17:48:27",
+      "https://news.ycombinator.com/item?id=45118592"
+    ],
+    [
+      "What Is It Like to Be a Bat?",
+      "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 17:47:50",
+      "https://news.ycombinator.com/item?id=45118585"
+    ],
+    [
+      "Poor man's bitemporal data system in SQLite and Clojure",
+      "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 17:28:32",
+      "https://news.ycombinator.com/item?id=45118392"
+    ],
+    [
+      "Microsoft Releases Historic 6502 Basic",
+      "https://github.com/microsoft/BASIC-M6502"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 17:03:35",
       "https://news.ycombinator.com/item?id=45118111"
     ],
@@ -47,16 +77,6 @@
     [
       "Nuclear: Desktop music player focused on streaming from free sources",
       "https://github.com/nukeop/nuclear"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 15:31:31",
-      "https://news.ycombinator.com/item?id=45116978"
-    ],
-    [
-      "Warp Code: the fastest way from prompt to production",
-      "https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod"
     ]
   ],
   [
@@ -185,7 +205,7 @@
       "https://news.ycombinator.com/item?id=45114245"
     ],
     [
-      "Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model",
+      "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
       "https://microsoft.github.io/VibeVoice/"
     ]
   ],
@@ -217,16 +237,6 @@
     [
       "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
       "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 00:01:02",
-      "https://news.ycombinator.com/item?id=45110688"
-    ],
-    [
-      "%CPU utilization is a lie",
-      "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How to Give a Good Talk",
       "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 14:48:58",
-      "https://news.ycombinator.com/item?id=45075123"
-    ],
-    [
-      "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
-      "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/"
     ]
   ]
 ]
