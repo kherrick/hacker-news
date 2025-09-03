@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
 * [2025-08-30, 23:53:39](https://news.ycombinator.com/item?id=45079065) - [Hurricane category 6 could be introduced under new storm severity scale](https://www.livescience.com/planet-earth/hurricanes/now-is-the-time-hurricane-category-6-could-be-introduced-under-new-storm-severity-scale)
+* [2025-08-30, 23:35:32](https://news.ycombinator.com/item?id=45078962) - [Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)](https://github.com/krig/LISP)
 * [2025-08-30, 22:47:27](https://news.ycombinator.com/item?id=45078651) - [Enrollment at trade schools is expected to grow 6.6% a year](https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html)
 * [2025-08-30, 22:37:36](https://news.ycombinator.com/item?id=45078598) - [New Huawei 96GB GPU](https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo)
 * [2025-08-30, 22:24:58](https://news.ycombinator.com/item?id=45078530) - [Affiliates Flock to 'Soulless' Scam Gambling Machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
