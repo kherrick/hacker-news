@@ -21,6 +21,7 @@
 * [2025-08-30, 19:26:29](https://news.ycombinator.com/item?id=45077291) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 19:14:15](https://news.ycombinator.com/item?id=45077209) - [Anduril: Amusement Park for Engineers](https://joincolossus.com/article/the-amusement-park-for-engineers/)
 * [2025-08-30, 19:02:44](https://news.ycombinator.com/item?id=45077143) - [The Rise of Hybrid PHP: Blending PHP with Go and Rust](https://yekdeveloper.com/p/4-the-rise-of-hybrid-php)
+* [2025-08-30, 18:42:08](https://news.ycombinator.com/item?id=45076992) - [How to Give a Good Talk](https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/)
 * [2025-08-30, 17:20:32](https://news.ycombinator.com/item?id=45076367) - [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
 * [2025-08-30, 17:13:19](https://news.ycombinator.com/item?id=45076297) - [The Delusion Machine – What happened when I fed my soul into an LLM](https://hedgehogreview.com/web-features/thr/posts/the-delusion-machine)
 * [2025-08-30, 17:12:06](https://news.ycombinator.com/item?id=45076274) - [The Default Trap: Why Anthropic's Data Policy Change Matters](https://natesnewsletter.substack.com/p/the-default-trap-why-anthropics-data)
