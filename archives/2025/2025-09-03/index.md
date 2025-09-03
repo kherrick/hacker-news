@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 17:48:27](https://news.ycombinator.com/item?id=45118592) - [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
+* [2025-09-03, 17:47:50](https://news.ycombinator.com/item?id=45118585) - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
+* [2025-09-03, 17:28:32](https://news.ycombinator.com/item?id=45118392) - [Microsoft Releases Historic 6502 Basic](https://github.com/microsoft/BASIC-M6502)
 * [2025-09-03, 17:24:31](https://news.ycombinator.com/item?id=45118351) - [Stop Using Brave Browser](https://www.spacebar.news/stop-using-brave-browser/)
 * [2025-09-03, 17:03:35](https://news.ycombinator.com/item?id=45118111) - [Speeding up PyTorch inference by 87% on Apple with AI-generated Metal kernels](https://gimletlabs.ai/blog/ai-generated-metal-kernels)
 * [2025-09-03, 17:00:04](https://news.ycombinator.com/item?id=45118072) - [Svix (webhooks as a service) is hiring for a founding marketing lead](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22)
