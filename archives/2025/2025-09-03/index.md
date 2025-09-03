@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
 * [2025-09-03, 17:00:04](https://news.ycombinator.com/item?id=45118072) - [Svix (webhooks as a service) is hiring for a founding marketing lead](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22)
+* [2025-09-03, 16:51:05](https://news.ycombinator.com/item?id=45117974) - [Who Owns, Operates, and Develops Your VPN Matters](https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/)
 * [2025-09-03, 16:21:04](https://news.ycombinator.com/item?id=45117573) - [SomaFM 25th Anniversary](https://somafm.com/XXV/)
 * [2025-09-03, 15:54:12](https://news.ycombinator.com/item?id=45117230) - [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
 * [2025-09-03, 15:41:33](https://news.ycombinator.com/item?id=45117086) - [Show HN: Chibi, AI that tells you why users churn](https://chibi.sh)

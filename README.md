@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-03, 17:00:04](https://news.ycombinator.com/item?id=45118072) - [Svix (webhooks as a service) is hiring for a founding marketing lead](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22)
-* [2025-09-03, 16:21:04](https://news.ycombinator.com/item?id=45117573) - [SomaFM 25th Anniversary](https://somafm.com/XXV/)
+* [2025-09-03, 16:51:05](https://news.ycombinator.com/item?id=45117974) - [Who Owns, Operates, and Develops Your VPN Matters](https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/)
 * [2025-09-03, 15:54:12](https://news.ycombinator.com/item?id=45117230) - [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
-* [2025-09-03, 15:41:33](https://news.ycombinator.com/item?id=45117086) - [Show HN: Chibi, AI that tells you why users churn](https://chibi.sh)
 * [2025-09-03, 15:31:31](https://news.ycombinator.com/item?id=45116978) - [Warp Code: the fastest way from prompt to production](https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod)
 * [2025-09-03, 15:30:06](https://news.ycombinator.com/item?id=45116957) - [Understanding Transformers Using a Minimal Example](https://rti.github.io/gptvis/)
 * [2025-09-03, 15:21:35](https://news.ycombinator.com/item?id=45116859) - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859)
@@ -20,6 +19,7 @@
 * [2025-09-03, 10:02:11](https://news.ycombinator.com/item?id=45114003) - [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 * [2025-09-03, 08:18:07](https://news.ycombinator.com/item?id=45113418) - [Finding thousands of exposed Ollama instances using Shodan](https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama)
 * [2025-09-03, 06:58:51](https://news.ycombinator.com/item?id=45112996) - [Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
+* [2025-09-03, 06:14:22](https://news.ycombinator.com/item?id=45112720) - [Lit: a library for building fast, lightweight web components](https://lit.dev)
 * [2025-09-03, 03:13:05](https://news.ycombinator.com/item?id=45111909) - [Comic Sans typeball designed to work with the IBM Selectric typewriters](https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit)
 * [2025-09-03, 00:01:02](https://news.ycombinator.com/item?id=45110688) - [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
 * [2025-09-02, 22:58:23](https://news.ycombinator.com/item?id=45110209) - [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
