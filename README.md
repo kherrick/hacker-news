@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-04, 00:18:16](https://news.ycombinator.com/item?id=45121915) - [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
-* [2025-09-04, 00:06:01](https://news.ycombinator.com/item?id=45121824) - [Not paying with cash](https://rubenerd.com/not-paying-with-cash/)
+* [2025-09-04, 02:55:24](https://news.ycombinator.com/item?id=45123003) - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
 * [2025-09-03, 23:52:58](https://news.ycombinator.com/item?id=45121721) - [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
 * [2025-09-03, 23:32:57](https://news.ycombinator.com/item?id=45121547) - [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
 * [2025-09-03, 23:07:36](https://news.ycombinator.com/item?id=45121342) - [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
@@ -29,6 +28,7 @@
 * [2025-09-01, 08:14:53](https://news.ycombinator.com/item?id=45090654) - [OSMAnd vs. Organic Maps](https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html)
 * [2025-08-31, 23:10:25](https://news.ycombinator.com/item?id=45087911) - [Lively Linear Lisp (1992) [pdf]](https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf)
 * [2025-08-31, 22:52:17](https://news.ycombinator.com/item?id=45087803) - [Reverse engineering Solos smart glasses](https://jfloren.net/b/2025/8/28/0)
+* [2025-08-30, 21:52:58](https://news.ycombinator.com/item?id=45078315) - [Magic Lantern Is Back](https://www.magiclantern.fm/forum/index.php?topic=27315.0)
 * [2025-08-28, 21:32:10](https://news.ycombinator.com/item?id=45057283) - [The Bitter Lesson Is Misunderstood](https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood)
 
 ## [Archives](archives/index.md)
