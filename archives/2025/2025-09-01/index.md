@@ -52,6 +52,7 @@
 * [2025-09-01, 14:00:26](https://news.ycombinator.com/item?id=45092734) - [Show HN: Simple modenized .NET NuGet server reached RC](https://github.com/kekyo/nuget-server)
 * [2025-09-01, 13:35:52](https://news.ycombinator.com/item?id=45092605) - [Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
+* [2025-09-01, 13:14:23](https://news.ycombinator.com/item?id=45092471) - [Math Moments: Blaise Pascal](https://kidswholovemath.substack.com/p/math-moments-blaise-pascal)
 * [2025-09-01, 12:49:57](https://news.ycombinator.com/item?id=45092324) - [Tetris is NP-hard even with O(1) rows or columns [pdf]](https://martindemaine.org/papers/ThinTetris_JIP/paper.pdf)
 * [2025-09-01, 12:39:20](https://news.ycombinator.com/item?id=45092265) - [Polycyclic Aromatic Hydrocarbons](https://johncarlosbaez.wordpress.com/2025/09/01/polycyclic-aromatic-hydrocarbons/)
 * [2025-09-01, 12:29:37](https://news.ycombinator.com/item?id=45092204) - [Ask HN: Do custom ROMs exist for electric cars, for example Teslas?](https://news.ycombinator.com/item?id=45092204)
