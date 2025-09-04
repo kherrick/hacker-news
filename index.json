@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-09-03, 23:07:36",
-      "https://news.ycombinator.com/item?id=45121342"
-    ],
-    [
-      "Evidence that AI is destroying jobs for young people",
-      "https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 21:18:29",
       "https://news.ycombinator.com/item?id=45120517"
     ],
@@ -117,6 +107,16 @@
     [
       "What is it like to be a bat?",
       "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 17:47:50",
+      "https://news.ycombinator.com/item?id=45118585"
+    ],
+    [
+      "Poor man's bitemporal data system in SQLite and Clojure",
+      "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
     ]
   ],
   [
