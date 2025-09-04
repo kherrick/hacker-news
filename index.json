@@ -1,12 +1,72 @@
 [
   [
     [
+      "2025-09-04, 12:40:47",
+      "https://news.ycombinator.com/item?id=45126586"
+    ],
+    [
+      "How to build vector tiles from scratch",
+      "https://www.debuisne.com/writing/geo-tiles/"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 12:29:49",
+      "https://news.ycombinator.com/item?id=45126503"
+    ],
+    [
+      "Almost anything you give sustained attention to will begin to loop on itself",
+      "https://www.henrikkarlsson.xyz/p/attention"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 12:29:29",
+      "https://news.ycombinator.com/item?id=45126500"
+    ],
+    [
+      "The company behind the Dia and Arc browsers is being acquired",
+      "https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 12:12:31",
+      "https://news.ycombinator.com/item?id=45126358"
+    ],
+    [
+      "The Browser Company (Arc, Dia) Has Been Acquired by Atlassian",
+      "https://www.atlassian.com/blog/announcements/atlassian-acquires-the-browser-company"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 11:16:32",
+      "https://news.ycombinator.com/item?id=45125952"
+    ],
+    [
+      "Volkswagen to make EVs more affordable, starting with the ID.Polo and a new SUV",
+      "https://electrek.co/2025/09/03/meet-volkswagen-id-polo-affordable-ev-coming-soon/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 11:04:36",
       "https://news.ycombinator.com/item?id=45125859"
     ],
     [
       "Le Chat. Custom MCP Connectors. Memories",
       "https://mistral.ai/news/le-chat-mcp-connectors-memories"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 10:56:37",
+      "https://news.ycombinator.com/item?id=45125816"
+    ],
+    [
+      "Electromechanical Reshaping Offers Safer Eye Surgery",
+      "https://spectrum.ieee.org/electrochemistry-for-eye-surgeries"
     ]
   ],
   [
@@ -101,36 +161,6 @@
   ],
   [
     [
-      "2025-09-03, 23:52:58",
-      "https://news.ycombinator.com/item?id=45121721"
-    ],
-    [
-      "ReMarkable Paper Pro Move",
-      "https://remarkable.com/products/remarkable-paper/pro-move"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 17:48:27",
-      "https://news.ycombinator.com/item?id=45118592"
-    ],
-    [
-      "What is it like to be a bat?",
-      "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 17:03:35",
-      "https://news.ycombinator.com/item?id=45118111"
-    ],
-    [
-      "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
-      "https://gimletlabs.ai/blog/ai-generated-metal-kernels"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 16:28:23",
       "https://news.ycombinator.com/item?id=45117668"
     ],
@@ -171,52 +201,12 @@
   ],
   [
     [
-      "2025-09-03, 14:02:18",
-      "https://news.ycombinator.com/item?id=45115941"
-    ],
-    [
-      "Eels are fish",
-      "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 11:40:41",
-      "https://news.ycombinator.com/item?id=45114579"
-    ],
-    [
-      "The wall confronting large language models",
-      "https://arxiv.org/abs/2507.19703"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 16:26:48",
-      "https://news.ycombinator.com/item?id=45105272"
-    ],
-    [
-      "A Rebel Writer's First Revolt",
-      "https://www.vulture.com/article/arundhati-roy-mother-mary-comes-to-me-review.html"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 11:35:22",
       "https://news.ycombinator.com/item?id=45101675"
     ],
     [
       "New knot theory discovery overturns long-held mathematical assumption",
       "https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 17:12:03",
-      "https://news.ycombinator.com/item?id=45094559"
-    ],
-    [
-      "Half an year on Alpine: just musl aside",
-      "https://blog.jutty.dev/posts/half-an-year-on-alpine/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Reverse engineering Solos smart glasses",
       "https://jfloren.net/b/2025/8/28/0"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 18:49:38",
+      "https://news.ycombinator.com/item?id=45085867"
+    ],
+    [
+      "Inverting the Xorshift128 random number generator",
+      "https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/"
     ]
   ],
   [
