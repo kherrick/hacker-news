@@ -1,11 +1,51 @@
 [
   [
     [
+      "2025-09-04, 00:18:16",
+      "https://news.ycombinator.com/item?id=45121915"
+    ],
+    [
+      "Neovim Pack",
+      "https://neovim.io/doc/user/pack.html#vim.pack"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 00:06:01",
+      "https://news.ycombinator.com/item?id=45121824"
+    ],
+    [
+      "Not paying with cash",
+      "https://rubenerd.com/not-paying-with-cash/"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 23:52:58",
+      "https://news.ycombinator.com/item?id=45121721"
+    ],
+    [
+      "ReMarkable Paper Pro Move",
+      "https://remarkable.com/products/remarkable-paper/pro-move"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 23:32:57",
+      "https://news.ycombinator.com/item?id=45121547"
+    ],
+    [
+      "Evaluating Agents",
+      "https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 23:07:36",
       "https://news.ycombinator.com/item?id=45121342"
     ],
     [
-      "The Evidence That AI Is Destroying Jobs for Young People Just Got Stronger",
+      "Evidence that AI is destroying jobs for young people",
       "https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying"
     ]
   ],
@@ -27,26 +67,6 @@
     [
       "Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)",
       "https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 20:29:13",
-      "https://news.ycombinator.com/item?id=45120050"
-    ],
-    [
-      "The worst possible antitrust outcome",
-      "https://pluralistic.net/2025/09/03/unpunishing-process/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 19:09:29",
-      "https://news.ycombinator.com/item?id=45119397"
-    ],
-    [
-      "The Theoretical Limitations of Embedding-Based Retrieval",
-      "https://www.alphaxiv.org/abs/2508.21038v1"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-09-03, 15:21:35",
-      "https://news.ycombinator.com/item?id=45116859"
-    ],
-    [
-      "Launch HN: Risely (YC S25) – AI Agents for Universities",
-      "https://news.ycombinator.com/item?id=45116859"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 15:20:34",
       "https://news.ycombinator.com/item?id=45116849"
     ],
@@ -191,22 +201,12 @@
   ],
   [
     [
-      "2025-09-03, 13:47:14",
-      "https://news.ycombinator.com/item?id=45115760"
+      "2025-09-03, 11:40:41",
+      "https://news.ycombinator.com/item?id=45114579"
     ],
     [
-      "Building the most accurate DIY CNC lathe in the world [video]",
-      "https://www.youtube.com/watch?v=vEr2CJruwEM"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 12:38:47",
-      "https://news.ycombinator.com/item?id=45115004"
-    ],
-    [
-      "John Coltrane's Tone Circle",
-      "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/"
+      "The wall confronting large language models",
+      "https://arxiv.org/abs/2507.19703"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-09-01, 16:40:24",
-      "https://news.ycombinator.com/item?id=45094256"
+      "2025-09-01, 16:14:20",
+      "https://news.ycombinator.com/item?id=45093966"
     ],
     [
-      "Lessons from building an AI data analyst",
-      "https://www.pedronasc.com/articles/lessons-building-ai-data-analyst"
+      "Minesweeper thermodynamics",
+      "https://oscarcunningham.com/792/minesweeper-thermodynamics/"
     ]
   ],
   [
