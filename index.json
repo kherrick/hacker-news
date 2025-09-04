@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-09-03, 17:49:08",
+      "https://news.ycombinator.com/item?id=45118598"
+    ],
+    [
+      "6NF File Format",
+      "https://habr.com/en/articles/942516/"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 17:48:27",
       "https://news.ycombinator.com/item?id=45118592"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2025-09-01, 08:14:53",
-      "https://news.ycombinator.com/item?id=45090654"
-    ],
-    [
-      "OSMAnd vs. Organic Maps",
-      "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 04:38:53",
       "https://news.ycombinator.com/item?id=45089508"
     ],
     [
       "AR Fluid Simulation Demo",
       "https://danybittel.ch/fluid"
+    ]
+  ],
+  [
+    [
+      "2025-09-01, 00:51:50",
+      "https://news.ycombinator.com/item?id=45088427"
+    ],
+    [
+      "Show HN: A roguelike game that runs inside Notepad++",
+      "https://github.com/thelowsunoverthemoon/NeuroPriest"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Reverse engineering Solos smart glasses",
       "https://jfloren.net/b/2025/8/28/0"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 14:11:14",
-      "https://news.ycombinator.com/item?id=45083271"
-    ],
-    [
-      "Nyxstone: An LLVM-based (Dis)assembly Framework",
-      "https://www.emproof.com/introducing-nyxstone-an-llvm-based-disassembly-framework/"
     ]
   ],
   [
