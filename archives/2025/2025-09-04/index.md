@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 16:32:24](https://news.ycombinator.com/item?id=45129085) - [Stripe Launches L1 Blockchain: Tempo](https://tempo.xyz)
 * [2025-09-04, 16:27:41](https://news.ycombinator.com/item?id=45129031) - [Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks](https://news.ycombinator.com/item?id=45129031)
 * [2025-09-04, 15:52:43](https://news.ycombinator.com/item?id=45128652) - [Show HN: A Map of All YC Companies (5,300 Startups by Batch and Location)](https://yc.foundersaround.com/)
 * [2025-09-04, 15:51:26](https://news.ycombinator.com/item?id=45128640) - [Google deletes net-zero pledge from sustainability website](https://www.nationalobserver.com/2025/09/04/investigations/google-net-zero-sustainability)

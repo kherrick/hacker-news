@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-04, 16:32:24](https://news.ycombinator.com/item?id=45129085) - [Stripe Launches L1 Blockchain: Tempo](https://tempo.xyz)
 * [2025-09-04, 16:27:41](https://news.ycombinator.com/item?id=45129031) - [Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks](https://news.ycombinator.com/item?id=45129031)
 * [2025-09-04, 15:52:43](https://news.ycombinator.com/item?id=45128652) - [Show HN: A Map of All YC Companies (5,300 Startups by Batch and Location)](https://yc.foundersaround.com/)
 * [2025-09-04, 15:51:26](https://news.ycombinator.com/item?id=45128640) - [Google deletes net-zero pledge from sustainability website](https://www.nationalobserver.com/2025/09/04/investigations/google-net-zero-sustainability)
@@ -26,7 +27,6 @@
 * [2025-09-01, 16:14:20](https://news.ycombinator.com/item?id=45093966) - [Minesweeper thermodynamics](https://oscarcunningham.com/792/minesweeper-thermodynamics/)
 * [2025-09-01, 09:08:23](https://news.ycombinator.com/item?id=45090943) - [The Hand-Drawn Hits That Hollywood Isn't Making](https://animationobsessive.substack.com/p/the-hand-drawn-hits-that-hollywood)
 * [2025-09-01, 04:38:53](https://news.ycombinator.com/item?id=45089508) - [AR Fluid Simulation Demo](https://danybittel.ch/fluid)
-* [2025-08-31, 22:52:17](https://news.ycombinator.com/item?id=45087803) - [Reverse engineering Solos smart glasses](https://jfloren.net/b/2025/8/28/0)
 * [2025-08-31, 22:08:52](https://news.ycombinator.com/item?id=45087562) - [Introduction to Writing Good Puzzle Hunt Puzzles](https://www.mit.edu/~dwilson/puzzles/puzzlewriting.html)
 * [2025-08-31, 18:49:38](https://news.ycombinator.com/item?id=45085867) - [Inverting the Xorshift128 random number generator](https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/)
 * [2025-08-28, 21:32:10](https://news.ycombinator.com/item?id=45057283) - [The Bitter Lesson Is Misunderstood](https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood)
