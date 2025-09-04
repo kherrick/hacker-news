@@ -24,11 +24,11 @@
 * [2025-09-02, 03:31:34](https://news.ycombinator.com/item?id=45098867) - [The Wetware Crisis: The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 * [2025-09-01, 17:12:03](https://news.ycombinator.com/item?id=45094559) - [Half an year on Alpine: just musl aside](https://blog.jutty.dev/posts/half-an-year-on-alpine/)
 * [2025-09-01, 16:14:20](https://news.ycombinator.com/item?id=45093966) - [Minesweeper thermodynamics](https://oscarcunningham.com/792/minesweeper-thermodynamics/)
+* [2025-09-01, 09:12:13](https://news.ycombinator.com/item?id=45090963) - [I Should Have Loved Electrical Engineering](https://blog.tdhttt.com/post/love-ee/)
 * [2025-09-01, 08:38:35](https://news.ycombinator.com/item?id=45090777) - [Say Bye with JavaScript Beacon](https://hemath.dev/blog/say-bye-with-javascript-beacon/)
 * [2025-09-01, 04:38:53](https://news.ycombinator.com/item?id=45089508) - [AR Fluid Simulation Demo](https://danybittel.ch/fluid)
 * [2025-09-01, 00:51:50](https://news.ycombinator.com/item?id=45088427) - [Show HN: A roguelike game that runs inside Notepad++](https://github.com/thelowsunoverthemoon/NeuroPriest)
 * [2025-08-31, 22:52:17](https://news.ycombinator.com/item?id=45087803) - [Reverse engineering Solos smart glasses](https://jfloren.net/b/2025/8/28/0)
-* [2025-08-30, 18:42:08](https://news.ycombinator.com/item?id=45076992) - [How to Give a Good Talk](https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/)
 * [2025-08-28, 21:32:10](https://news.ycombinator.com/item?id=45057283) - [The Bitter Lesson Is Misunderstood](https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood)
 
 ## [Archives](archives/index.md)
