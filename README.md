@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-04, 10:12:09](https://news.ycombinator.com/item?id=45125555) - [Liquid Glass? That's what your M4 CPU is for](https://idiallo.com/byte-size/apple-liquid-glass)
 * [2025-09-04, 09:55:40](https://news.ycombinator.com/item?id=45125469) - [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
 * [2025-09-04, 09:27:53](https://news.ycombinator.com/item?id=45125312) - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
 * [2025-09-04, 08:23:35](https://news.ycombinator.com/item?id=45124955) - [Google was down in eastern EU and Turkey](https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29)
@@ -10,7 +11,6 @@
 * [2025-09-04, 02:55:24](https://news.ycombinator.com/item?id=45123003) - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
 * [2025-09-04, 00:18:16](https://news.ycombinator.com/item?id=45121915) - [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
 * [2025-09-03, 23:52:58](https://news.ycombinator.com/item?id=45121721) - [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
-* [2025-09-03, 21:00:27](https://news.ycombinator.com/item?id=45120373) - [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
 * [2025-09-03, 17:48:27](https://news.ycombinator.com/item?id=45118592) - [What is it like to be a bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 * [2025-09-03, 17:03:35](https://news.ycombinator.com/item?id=45118111) - [Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels](https://gimletlabs.ai/blog/ai-generated-metal-kernels)
 * [2025-09-03, 16:28:23](https://news.ycombinator.com/item?id=45117668) - [Writing a C compiler in 500 lines of Python (2023)](https://vgel.me/posts/c500/)
