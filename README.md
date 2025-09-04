@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-04, 17:44:49](https://news.ycombinator.com/item?id=45130018) - [The Atomic Bombs Exploded on Earth (2015)](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
+* [2025-09-04, 17:44:49](https://news.ycombinator.com/item?id=45130018) - [The thousands of atomic bombs exploded on Earth (2015)](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
 * [2025-09-04, 17:07:08](https://news.ycombinator.com/item?id=45129523) - [Saquon Is Playing for Equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
 * [2025-09-04, 17:01:21](https://news.ycombinator.com/item?id=45129442) - [Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
 * [2025-09-04, 16:47:45](https://news.ycombinator.com/item?id=45129267) - [AI Not Affecting Job Market Much So Far, New York Fed Says](https://money.usnews.com/investing/news/articles/2025-09-04/ai-not-affecting-job-market-much-so-far-new-york-fed-says)
