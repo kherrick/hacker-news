@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-04, 21:06:10](https://news.ycombinator.com/item?id=45132183) - [Non-Obviously Great Startups](https://postround.substack.com/p/rocketships-and-slingshots)
+* [2025-09-04, 21:06:10](https://news.ycombinator.com/item?id=45132183) - [Rocketships and Slingshots](https://postround.substack.com/p/rocketships-and-slingshots)
+* [2025-09-04, 20:56:41](https://news.ycombinator.com/item?id=45132093) - [Amazon RTO policy is costing it top tech talent, according to internal document](https://www.businessinsider.com/amazon-rto-policy-costing-it-top-tech-talent-ai-recruiters-2025-9)
 * [2025-09-04, 20:33:53](https://news.ycombinator.com/item?id=45131921) - [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
 * [2025-09-04, 19:53:42](https://news.ycombinator.com/item?id=45131538) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 19:25:54](https://news.ycombinator.com/item?id=45131243) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
@@ -24,12 +25,11 @@
 * [2025-09-04, 03:01:49](https://news.ycombinator.com/item?id=45123034) - [Polars Cloud and Distributed Polars now available](https://pola.rs/posts/polars-cloud-launch/)
 * [2025-09-04, 02:37:42](https://news.ycombinator.com/item?id=45122885) - [A high schooler writes about AI tools in the classroom](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
 * [2025-09-01, 20:30:19](https://news.ycombinator.com/item?id=45096358) - [The Paradigm](https://nonint.com/2025/03/16/the-paradigm/)
+* [2025-09-01, 16:48:12](https://news.ycombinator.com/item?id=45094324) - [Unix Conspiracy (2001)](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
 * [2025-09-01, 14:28:28](https://news.ycombinator.com/item?id=45092930) - [16-inch softball](https://en.wikipedia.org/wiki/16-inch_softball)
-* [2025-09-01, 09:12:13](https://news.ycombinator.com/item?id=45090963) - [I should have loved electrical engineering](https://blog.tdhttt.com/post/love-ee/)
 * [2025-09-01, 03:31:36](https://news.ycombinator.com/item?id=45089201) - [A programmable display using microfluidics [video]](https://www.youtube.com/watch?v=rf-efIZI_Dg)
 * [2025-09-01, 03:13:14](https://news.ycombinator.com/item?id=45089106) - [Mangrove Restoration Frustration (2021)](https://knowablemagazine.org/content/article/food-environment/2021/many-mangrove-restorations-fail)
 * [2025-09-01, 02:26:22](https://news.ycombinator.com/item?id=45088880) - [Berg's Card Sorting Task](https://www.neurobs.com/manager/content/docs/psychlab101_experiments/Berg%27s%20Card%20Sorting%20Task/description.html)
-* [2025-08-31, 18:49:38](https://news.ycombinator.com/item?id=45085867) - [Inverting the Xorshift128 random number generator](https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/)
 
 ## [Archives](archives/index.md)
 

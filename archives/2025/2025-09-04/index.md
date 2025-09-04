@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
 * [2025-09-04, 21:06:10](https://news.ycombinator.com/item?id=45132183) - [Non-Obviously Great Startups](https://postround.substack.com/p/rocketships-and-slingshots)
+* [2025-09-04, 20:56:41](https://news.ycombinator.com/item?id=45132093) - [Amazon RTO policy is costing it top tech talent, according to internal document](https://www.businessinsider.com/amazon-rto-policy-costing-it-top-tech-talent-ai-recruiters-2025-9)
 * [2025-09-04, 20:33:53](https://news.ycombinator.com/item?id=45131921) - [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
 * [2025-09-04, 19:53:42](https://news.ycombinator.com/item?id=45131538) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 19:25:54](https://news.ycombinator.com/item?id=45131243) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
