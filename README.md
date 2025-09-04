@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-04, 17:01:21](https://news.ycombinator.com/item?id=45129442) - [Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
+* [2025-09-04, 16:41:24](https://news.ycombinator.com/item?id=45129190) - [Age Simulation Suit](https://www.age-simulation-suit.com/)
 * [2025-09-04, 16:32:24](https://news.ycombinator.com/item?id=45129085) - [Stripe Launches L1 Blockchain: Tempo](https://tempo.xyz)
 * [2025-09-04, 16:27:41](https://news.ycombinator.com/item?id=45129031) - [Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks](https://news.ycombinator.com/item?id=45129031)
 * [2025-09-04, 15:52:43](https://news.ycombinator.com/item?id=45128652) - [Show HN: A Map of All YC Companies (5,300 Startups by Batch and Location)](https://yc.foundersaround.com/)
@@ -9,7 +11,6 @@
 * [2025-09-04, 15:46:23](https://news.ycombinator.com/item?id=45128578) - [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
 * [2025-09-04, 15:30:20](https://news.ycombinator.com/item?id=45128391) - [Wikipedia survives while the rest of the internet breaks](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales)
 * [2025-09-04, 15:22:03](https://news.ycombinator.com/item?id=45128299) - [Farewell to Meshnet](https://nordvpn.com/blog/meshnet-shutdown/)
-* [2025-09-04, 15:03:01](https://news.ycombinator.com/item?id=45128089) - [330+ data teams share what's working (and what's not)](https://www.metabase.com/data-stack-report-2025)
 * [2025-09-04, 14:53:50](https://news.ycombinator.com/item?id=45127983) - [WiFi signals can measure heart rate–no wearables needed](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
 * [2025-09-04, 14:39:38](https://news.ycombinator.com/item?id=45127816) - [Hollow Knight: Silksong Causes Server Chaos on Xbox, Steam, and Nintendo](https://www.eurogamer.net/silksong-causes-server-chaos-on-xbox-steam-and-nintendo-as-platforms-grind-to-a-halt)
 * [2025-09-04, 14:25:57](https://news.ycombinator.com/item?id=45127636) - [Atlassian is acquiring the Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
@@ -23,11 +24,10 @@
 * [2025-09-04, 05:56:29](https://news.ycombinator.com/item?id=45124003) - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
 * [2025-09-04, 03:01:49](https://news.ycombinator.com/item?id=45123034) - [Polars Cloud and Distributed Polars now available](https://pola.rs/posts/polars-cloud-launch/)
 * [2025-09-04, 02:55:24](https://news.ycombinator.com/item?id=45123003) - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
-* [2025-09-04, 00:18:16](https://news.ycombinator.com/item?id=45121915) - [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
 * [2025-09-03, 15:07:20](https://news.ycombinator.com/item?id=45116688) - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
 * [2025-09-01, 17:57:06](https://news.ycombinator.com/item?id=45095002) - [Thunk: Build Rust program to support Windows XP, Vista and more](https://github.com/felixmaker/thunk)
-* [2025-09-01, 16:14:20](https://news.ycombinator.com/item?id=45093966) - [Minesweeper thermodynamics](https://oscarcunningham.com/792/minesweeper-thermodynamics/)
 * [2025-09-01, 09:08:23](https://news.ycombinator.com/item?id=45090943) - [The Hand-Drawn Hits That Hollywood Isn't Making](https://animationobsessive.substack.com/p/the-hand-drawn-hits-that-hollywood)
+* [2025-09-01, 03:31:36](https://news.ycombinator.com/item?id=45089201) - [A programmable display using microfluidics](https://www.youtube.com/watch?v=rf-efIZI_Dg)
 * [2025-08-31, 22:08:52](https://news.ycombinator.com/item?id=45087562) - [Introduction to Writing Good Puzzle Hunt Puzzles](https://www.mit.edu/~dwilson/puzzles/puzzlewriting.html)
 * [2025-08-31, 18:49:38](https://news.ycombinator.com/item?id=45085867) - [Inverting the Xorshift128 random number generator](https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/)
 
