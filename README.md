@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-04, 14:25:57](https://news.ycombinator.com/item?id=45127636) - [Atlassian is acquiring the Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
 * [2025-09-04, 14:16:59](https://news.ycombinator.com/item?id=45127542) - [Calling your boss a dickhead is not a sackable offence, UK tribunal rules](https://www.theguardian.com/money/2025/sep/04/calling-your-boss-a-dickhead-is-not-a-sackable-offence-tribunal-rules)
 * [2025-09-04, 12:40:47](https://news.ycombinator.com/item?id=45126586) - [How to build vector tiles from scratch](https://www.debuisne.com/writing/geo-tiles/)
 * [2025-09-04, 12:33:41](https://news.ycombinator.com/item?id=45126531) - [We Found the Hidden Cost of Data Centers. It's in Your Electric Bill [video]](https://www.youtube.com/watch?v=YN6BEUA4jNU)
@@ -23,7 +24,6 @@
 * [2025-09-01, 12:39:20](https://news.ycombinator.com/item?id=45092265) - [Polycyclic Aromatic Hydrocarbons](https://johncarlosbaez.wordpress.com/2025/09/01/polycyclic-aromatic-hydrocarbons/)
 * [2025-09-01, 09:12:13](https://news.ycombinator.com/item?id=45090963) - [I Should Have Loved Electrical Engineering](https://blog.tdhttt.com/post/love-ee/)
 * [2025-09-01, 09:08:23](https://news.ycombinator.com/item?id=45090943) - [The Hand-Drawn Hits That Hollywood Isn't Making](https://animationobsessive.substack.com/p/the-hand-drawn-hits-that-hollywood)
-* [2025-09-01, 08:38:35](https://news.ycombinator.com/item?id=45090777) - [Say Bye with JavaScript Beacon](https://hemath.dev/blog/say-bye-with-javascript-beacon/)
 * [2025-09-01, 04:38:53](https://news.ycombinator.com/item?id=45089508) - [AR Fluid Simulation Demo](https://danybittel.ch/fluid)
 * [2025-09-01, 03:17:27](https://news.ycombinator.com/item?id=45089130) - [Use Bayes rule to mechanically solve probability riddles](https://cloud.disroot.org/s/Ec4xTMFDteTrFio)
 * [2025-09-01, 00:51:50](https://news.ycombinator.com/item?id=45088427) - [Show HN: A roguelike game that runs inside Notepad++](https://github.com/thelowsunoverthemoon/NeuroPriest)
