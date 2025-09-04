@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 12:40:47](https://news.ycombinator.com/item?id=45126586) - [How to build vector tiles from scratch](https://www.debuisne.com/writing/geo-tiles/)
+* [2025-09-04, 12:29:49](https://news.ycombinator.com/item?id=45126503) - [Almost anything you give sustained attention to will begin to loop on itself](https://www.henrikkarlsson.xyz/p/attention)
+* [2025-09-04, 12:29:29](https://news.ycombinator.com/item?id=45126500) - [The company behind the Dia and Arc browsers is being acquired](https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian)
+* [2025-09-04, 12:12:31](https://news.ycombinator.com/item?id=45126358) - [The Browser Company (Arc, Dia) Has Been Acquired by Atlassian](https://www.atlassian.com/blog/announcements/atlassian-acquires-the-browser-company)
+* [2025-09-04, 11:16:32](https://news.ycombinator.com/item?id=45125952) - [Volkswagen to make EVs more affordable, starting with the ID.Polo and a new SUV](https://electrek.co/2025/09/03/meet-volkswagen-id-polo-affordable-ev-coming-soon/)
 * [2025-09-04, 11:04:36](https://news.ycombinator.com/item?id=45125859) - [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
+* [2025-09-04, 10:56:37](https://news.ycombinator.com/item?id=45125816) - [Electromechanical Reshaping Offers Safer Eye Surgery](https://spectrum.ieee.org/electrochemistry-for-eye-surgeries)
 * [2025-09-04, 10:12:09](https://news.ycombinator.com/item?id=45125555) - [Liquid Glass? That's what your M4 CPU is for](https://idiallo.com/byte-size/apple-liquid-glass)
 * [2025-09-04, 09:55:40](https://news.ycombinator.com/item?id=45125469) - [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
 * [2025-09-04, 09:27:53](https://news.ycombinator.com/item?id=45125312) - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
