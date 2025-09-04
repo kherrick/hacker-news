@@ -75,4 +75,5 @@
 * [2025-09-01, 03:17:27](https://news.ycombinator.com/item?id=45089130) - [Use Bayes rule to mechanically solve probability riddles](https://cloud.disroot.org/s/Ec4xTMFDteTrFio)
 * [2025-09-01, 03:08:07](https://news.ycombinator.com/item?id=45089072) - [The first inkjet printer was a medical device](https://spectrum.ieee.org/rune-elmqvist)
 * [2025-09-01, 02:47:09](https://news.ycombinator.com/item?id=45088977) - [Substack just killed the creator economy](https://mail.bigdeskenergy.com/p/substack-just-killed-creator-economy)
+* [2025-09-01, 02:26:22](https://news.ycombinator.com/item?id=45088880) - [Berg's Card Sorting Task](https://www.neurobs.com/manager/content/docs/psychlab101_experiments/Berg%27s%20Card%20Sorting%20Task/description.html)
 * [2025-09-01, 00:51:50](https://news.ycombinator.com/item?id=45088427) - [Show HN: A roguelike game that runs inside Notepad++](https://github.com/thelowsunoverthemoon/NeuroPriest)
