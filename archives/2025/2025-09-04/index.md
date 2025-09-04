@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 14:16:59](https://news.ycombinator.com/item?id=45127542) - [Calling your boss a dickhead is not a sackable offence, UK tribunal rules](https://www.theguardian.com/money/2025/sep/04/calling-your-boss-a-dickhead-is-not-a-sackable-offence-tribunal-rules)
 * [2025-09-04, 12:40:47](https://news.ycombinator.com/item?id=45126586) - [How to build vector tiles from scratch](https://www.debuisne.com/writing/geo-tiles/)
 * [2025-09-04, 12:39:04](https://news.ycombinator.com/item?id=45126567) - [Google's $45M contract to spread Netanyahu's propaganda](https://jackpoulson.substack.com/p/googles-45-million-contract-with)
 * [2025-09-04, 12:33:41](https://news.ycombinator.com/item?id=45126531) - [We Found the Hidden Cost of Data Centers. It's in Your Electric Bill [video]](https://www.youtube.com/watch?v=YN6BEUA4jNU)

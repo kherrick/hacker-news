@@ -60,6 +60,7 @@
 * [2025-09-01, 09:52:03](https://news.ycombinator.com/item?id=45091202) - [De-Googling TOTP Authenticator Codes](https://imrannazar.com/articles/degoogle-otp)
 * [2025-09-01, 09:40:47](https://news.ycombinator.com/item?id=45091119) - [National Grid: UK's largest battery storage facility at Tilbury substation](https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation)
 * [2025-09-01, 09:12:13](https://news.ycombinator.com/item?id=45090963) - [I Should Have Loved Electrical Engineering](https://blog.tdhttt.com/post/love-ee/)
+* [2025-09-01, 09:08:23](https://news.ycombinator.com/item?id=45090943) - [The Hand-Drawn Hits That Hollywood Isn't Making](https://animationobsessive.substack.com/p/the-hand-drawn-hits-that-hollywood)
 * [2025-09-01, 08:54:59](https://news.ycombinator.com/item?id=45090872) - [Show HN: Use \"-f**k\" to kill Google AI Overview](https://news.ycombinator.com/item?id=45090872)
 * [2025-09-01, 08:38:35](https://news.ycombinator.com/item?id=45090777) - [Say Bye with JavaScript Beacon](https://hemath.dev/blog/say-bye-with-javascript-beacon/)
 * [2025-09-01, 08:14:53](https://news.ycombinator.com/item?id=45090654) - [OSMAnd vs. Organic Maps](https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html)
