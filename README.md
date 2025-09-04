@@ -3,7 +3,6 @@
 * [2025-09-04, 22:11:09](https://news.ycombinator.com/item?id=45132810) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
 * [2025-09-04, 21:36:50](https://news.ycombinator.com/item?id=45132498) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 * [2025-09-04, 21:06:10](https://news.ycombinator.com/item?id=45132183) - [Rocketships and Slingshots](https://postround.substack.com/p/rocketships-and-slingshots)
-* [2025-09-04, 20:56:41](https://news.ycombinator.com/item?id=45132093) - [Amazon RTO policy is costing it top tech talent, according to internal document](https://www.businessinsider.com/amazon-rto-policy-costing-it-top-tech-talent-ai-recruiters-2025-9)
 * [2025-09-04, 20:33:53](https://news.ycombinator.com/item?id=45131921) - [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
 * [2025-09-04, 19:53:42](https://news.ycombinator.com/item?id=45131538) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 19:25:54](https://news.ycombinator.com/item?id=45131243) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
@@ -30,6 +29,7 @@
 * [2025-09-01, 14:28:28](https://news.ycombinator.com/item?id=45092930) - [16-inch softball](https://en.wikipedia.org/wiki/16-inch_softball)
 * [2025-09-01, 03:31:36](https://news.ycombinator.com/item?id=45089201) - [A programmable display using microfluidics [video]](https://www.youtube.com/watch?v=rf-efIZI_Dg)
 * [2025-09-01, 02:26:22](https://news.ycombinator.com/item?id=45088880) - [Berg's Card Sorting Task](https://www.neurobs.com/manager/content/docs/psychlab101_experiments/Berg%27s%20Card%20Sorting%20Task/description.html)
+* [2025-08-31, 18:49:38](https://news.ycombinator.com/item?id=45085867) - [Inverting the Xorshift128 random number generator](https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/)
 
 ## [Archives](archives/index.md)
 
