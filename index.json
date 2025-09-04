@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-09-03, 17:47:50",
-      "https://news.ycombinator.com/item?id=45118585"
-    ],
-    [
-      "Poor man's bitemporal data system in SQLite and Clojure",
-      "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 17:28:32",
       "https://news.ycombinator.com/item?id=45118392"
     ],
@@ -237,6 +227,16 @@
     [
       "New knot theory discovery overturns long-held mathematical assumption",
       "https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/"
+    ]
+  ],
+  [
+    [
+      "2025-09-01, 17:12:03",
+      "https://news.ycombinator.com/item?id=45094559"
+    ],
+    [
+      "Half an year on Alpine: just musl aside",
+      "https://blog.jutty.dev/posts/half-an-year-on-alpine/"
     ]
   ],
   [
