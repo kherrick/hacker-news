@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-04, 11:04:36](https://news.ycombinator.com/item?id=45125859) - [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
-* [2025-09-04, 10:12:09](https://news.ycombinator.com/item?id=45125555) - [Liquid Glass? That's what your M4 CPU is for](https://idiallo.com/byte-size/apple-liquid-glass)
 * [2025-09-04, 09:55:40](https://news.ycombinator.com/item?id=45125469) - [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
 * [2025-09-04, 09:27:53](https://news.ycombinator.com/item?id=45125312) - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
 * [2025-09-04, 08:23:35](https://news.ycombinator.com/item?id=45124955) - [Google was down in eastern EU and Turkey](https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29)
@@ -25,6 +24,7 @@
 * [2025-09-01, 17:12:03](https://news.ycombinator.com/item?id=45094559) - [Half an year on Alpine: just musl aside](https://blog.jutty.dev/posts/half-an-year-on-alpine/)
 * [2025-09-01, 16:14:20](https://news.ycombinator.com/item?id=45093966) - [Minesweeper thermodynamics](https://oscarcunningham.com/792/minesweeper-thermodynamics/)
 * [2025-09-01, 09:12:13](https://news.ycombinator.com/item?id=45090963) - [I Should Have Loved Electrical Engineering](https://blog.tdhttt.com/post/love-ee/)
+* [2025-09-01, 08:38:35](https://news.ycombinator.com/item?id=45090777) - [Say Bye with JavaScript Beacon](https://hemath.dev/blog/say-bye-with-javascript-beacon/)
 * [2025-09-01, 04:38:53](https://news.ycombinator.com/item?id=45089508) - [AR Fluid Simulation Demo](https://danybittel.ch/fluid)
 * [2025-09-01, 03:17:27](https://news.ycombinator.com/item?id=45089130) - [Use Bayes rule to mechanically solve probability riddles](https://cloud.disroot.org/s/Ec4xTMFDteTrFio)
 * [2025-09-01, 00:51:50](https://news.ycombinator.com/item?id=45088427) - [Show HN: A roguelike game that runs inside Notepad++](https://github.com/thelowsunoverthemoon/NeuroPriest)
