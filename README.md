@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-04, 20:33:53](https://news.ycombinator.com/item?id=45131921) - [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
 * [2025-09-04, 19:53:42](https://news.ycombinator.com/item?id=45131538) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 19:25:54](https://news.ycombinator.com/item?id=45131243) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
 * [2025-09-04, 18:06:05](https://news.ycombinator.com/item?id=45130260) - [LLM Visualization](https://bbycroft.net/llm)
@@ -24,7 +25,6 @@
 * [2025-09-04, 03:01:49](https://news.ycombinator.com/item?id=45123034) - [Polars Cloud and Distributed Polars now available](https://pola.rs/posts/polars-cloud-launch/)
 * [2025-09-04, 02:37:42](https://news.ycombinator.com/item?id=45122885) - [A high schooler writes about AI tools in the classroom](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
 * [2025-09-01, 14:28:28](https://news.ycombinator.com/item?id=45092930) - [16-inch softball](https://en.wikipedia.org/wiki/16-inch_softball)
-* [2025-09-01, 13:14:23](https://news.ycombinator.com/item?id=45092471) - [Math Moments: Blaise Pascal](https://kidswholovemath.substack.com/p/math-moments-blaise-pascal)
 * [2025-09-01, 09:12:13](https://news.ycombinator.com/item?id=45090963) - [I should have loved electrical engineering](https://blog.tdhttt.com/post/love-ee/)
 * [2025-09-01, 03:31:36](https://news.ycombinator.com/item?id=45089201) - [A programmable display using microfluidics [video]](https://www.youtube.com/watch?v=rf-efIZI_Dg)
 * [2025-09-01, 03:13:14](https://news.ycombinator.com/item?id=45089106) - [Mangrove Restoration Frustration (2021)](https://knowablemagazine.org/content/article/food-environment/2021/many-mangrove-restorations-fail)

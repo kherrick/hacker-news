@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 20:33:53](https://news.ycombinator.com/item?id=45131921) - [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
 * [2025-09-04, 19:53:42](https://news.ycombinator.com/item?id=45131538) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 19:25:54](https://news.ycombinator.com/item?id=45131243) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
 * [2025-09-04, 18:06:05](https://news.ycombinator.com/item?id=45130260) - [LLM Visualization](https://bbycroft.net/llm)
