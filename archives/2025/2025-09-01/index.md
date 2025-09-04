@@ -23,6 +23,7 @@
 * [2025-09-01, 17:51:27](https://news.ycombinator.com/item?id=45094953) - [The Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
 * [2025-09-01, 17:49:20](https://news.ycombinator.com/item?id=45094936) - [Show HN: woomarks, transfer your Pocket links to this app or self-host it](https://woomarks.com)
 * [2025-09-01, 17:25:08](https://news.ycombinator.com/item?id=45094692) - [One of Britain's largest stocks of second-hand books ever amassed](https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire)
+* [2025-09-01, 17:12:03](https://news.ycombinator.com/item?id=45094559) - [Half an year on Alpine: just musl aside](https://blog.jutty.dev/posts/half-an-year-on-alpine/)
 * [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
 * [2025-09-01, 16:57:38](https://news.ycombinator.com/item?id=45094421) - [93% of GPT-4 performance at 1/4 cost: LLM routing with weak bandit feedback](https://arxiv.org/abs/2508.21141)
 * [2025-09-01, 16:51:14](https://news.ycombinator.com/item?id=45094351) - [The Car Is Not the Future: On the Myth of Motorized Freedom](https://blog.scaramuzza.me/articles/the_car_is_not_the_future.html)
