@@ -1,12 +1,82 @@
 [
   [
     [
+      "2025-09-04, 16:27:41",
+      "https://news.ycombinator.com/item?id=45129031"
+    ],
+    [
+      "Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks",
+      "https://news.ycombinator.com/item?id=45129031"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 15:52:43",
+      "https://news.ycombinator.com/item?id=45128652"
+    ],
+    [
+      "Show HN: A Map of All YC Companies (5,300 Startups by Batch and Location)",
+      "https://yc.foundersaround.com/"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 15:51:26",
+      "https://news.ycombinator.com/item?id=45128640"
+    ],
+    [
+      "Google deletes net-zero pledge from sustainability website",
+      "https://www.nationalobserver.com/2025/09/04/investigations/google-net-zero-sustainability"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 15:49:52",
+      "https://news.ycombinator.com/item?id=45128621"
+    ],
+    [
+      "Show HN: I built FlipCards – a flashcard app with variations to improve learning",
+      "https://flipcardsapp.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 15:48:35",
       "https://news.ycombinator.com/item?id=45128605"
     ],
     [
       "Pump the Brakes on Your Police Department's Use of Flock Safety",
       "https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 15:46:23",
+      "https://news.ycombinator.com/item?id=45128578"
+    ],
+    [
+      "Cache",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Cache"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 15:30:20",
+      "https://news.ycombinator.com/item?id=45128391"
+    ],
+    [
+      "Wikipedia survives while the rest of the internet breaks",
+      "https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 15:22:03",
+      "https://news.ycombinator.com/item?id=45128299"
+    ],
+    [
+      "Farewell to Meshnet",
+      "https://nordvpn.com/blog/meshnet-shutdown/"
     ]
   ],
   [
@@ -67,16 +137,6 @@
     [
       "Almost anything you give sustained attention to will begin to loop on itself",
       "https://www.henrikkarlsson.xyz/p/attention"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 12:29:29",
-      "https://news.ycombinator.com/item?id=45126500"
-    ],
-    [
-      "The company behind the Dia and Arc browsers is being acquired",
-      "https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian"
     ]
   ],
   [
@@ -151,46 +211,6 @@
   ],
   [
     [
-      "2025-09-03, 21:00:27",
-      "https://news.ycombinator.com/item?id=45120373"
-    ],
-    [
-      "Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)",
-      "https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 16:28:23",
-      "https://news.ycombinator.com/item?id=45117668"
-    ],
-    [
-      "Writing a C compiler in 500 lines of Python (2023)",
-      "https://vgel.me/posts/c500/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 15:54:12",
-      "https://news.ycombinator.com/item?id=45117230"
-    ],
-    [
-      "Nuclear: Desktop music player focused on streaming from free sources",
-      "https://github.com/nukeop/nuclear"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 15:30:06",
-      "https://news.ycombinator.com/item?id=45116957"
-    ],
-    [
-      "Understanding Transformers Using a Minimal Example",
-      "https://rti.github.io/gptvis/"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 15:07:20",
       "https://news.ycombinator.com/item?id=45116688"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-09-01, 09:12:13",
-      "https://news.ycombinator.com/item?id=45090963"
-    ],
-    [
-      "I Should Have Loved Electrical Engineering",
-      "https://blog.tdhttt.com/post/love-ee/"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 09:08:23",
       "https://news.ycombinator.com/item?id=45090943"
     ],
@@ -251,32 +261,22 @@
   ],
   [
     [
-      "2025-09-01, 03:17:27",
-      "https://news.ycombinator.com/item?id=45089130"
-    ],
-    [
-      "Use Bayes rule to mechanically solve probability riddles",
-      "https://cloud.disroot.org/s/Ec4xTMFDteTrFio"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 00:51:50",
-      "https://news.ycombinator.com/item?id=45088427"
-    ],
-    [
-      "Show HN: A roguelike game that runs inside Notepad++",
-      "https://github.com/thelowsunoverthemoon/NeuroPriest"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 22:52:17",
       "https://news.ycombinator.com/item?id=45087803"
     ],
     [
       "Reverse engineering Solos smart glasses",
       "https://jfloren.net/b/2025/8/28/0"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 22:08:52",
+      "https://news.ycombinator.com/item?id=45087562"
+    ],
+    [
+      "Introduction to Writing Good Puzzle Hunt Puzzles",
+      "https://www.mit.edu/~dwilson/puzzles/puzzlewriting.html"
     ]
   ],
   [
