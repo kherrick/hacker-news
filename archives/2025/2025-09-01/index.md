@@ -51,6 +51,7 @@
 * [2025-09-01, 13:35:52](https://news.ycombinator.com/item?id=45092605) - [Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 12:49:57](https://news.ycombinator.com/item?id=45092324) - [Tetris is NP-hard even with O(1) rows or columns [pdf]](https://martindemaine.org/papers/ThinTetris_JIP/paper.pdf)
+* [2025-09-01, 12:39:20](https://news.ycombinator.com/item?id=45092265) - [Polycyclic Aromatic Hydrocarbons](https://johncarlosbaez.wordpress.com/2025/09/01/polycyclic-aromatic-hydrocarbons/)
 * [2025-09-01, 12:29:37](https://news.ycombinator.com/item?id=45092204) - [Ask HN: Do custom ROMs exist for electric cars, for example Teslas?](https://news.ycombinator.com/item?id=45092204)
 * [2025-09-01, 11:53:17](https://news.ycombinator.com/item?id=45091972) - [Show HN: AfriTales – Discover the Magic of African Storytelling](https://afritales.org/)
 * [2025-09-01, 11:44:56](https://news.ycombinator.com/item?id=45091921) - [Intel Patents 'Software Defined Supercore'](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores)

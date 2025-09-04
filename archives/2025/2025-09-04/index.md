@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
 * [2025-09-04, 12:40:47](https://news.ycombinator.com/item?id=45126586) - [How to build vector tiles from scratch](https://www.debuisne.com/writing/geo-tiles/)
+* [2025-09-04, 12:33:41](https://news.ycombinator.com/item?id=45126531) - [We Found the Hidden Cost of Data Centers. It's in Your Electric Bill [video]](https://www.youtube.com/watch?v=YN6BEUA4jNU)
 * [2025-09-04, 12:29:49](https://news.ycombinator.com/item?id=45126503) - [Almost anything you give sustained attention to will begin to loop on itself](https://www.henrikkarlsson.xyz/p/attention)
 * [2025-09-04, 12:29:29](https://news.ycombinator.com/item?id=45126500) - [The company behind the Dia and Arc browsers is being acquired](https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian)
 * [2025-09-04, 12:12:31](https://news.ycombinator.com/item?id=45126358) - [The Browser Company (Arc, Dia) Has Been Acquired by Atlassian](https://www.atlassian.com/blog/announcements/atlassian-acquires-the-browser-company)
