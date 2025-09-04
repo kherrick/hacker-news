@@ -6,7 +6,9 @@
 
 * [2025-09-04, 17:07:08](https://news.ycombinator.com/item?id=45129523) - [Saquon Is Playing for Equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
 * [2025-09-04, 17:01:21](https://news.ycombinator.com/item?id=45129442) - [Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
+* [2025-09-04, 16:45:39](https://news.ycombinator.com/item?id=45129237) - [A PM's Guide to AI Agent Architecture](https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture)
 * [2025-09-04, 16:41:24](https://news.ycombinator.com/item?id=45129190) - [Age Simulation Suit](https://www.age-simulation-suit.com/)
+* [2025-09-04, 16:39:03](https://news.ycombinator.com/item?id=45129160) - [We built an interpreter for Swift (a compiled language)](https://www.bitrig.app/blog/swift-interpreter)
 * [2025-09-04, 16:32:24](https://news.ycombinator.com/item?id=45129085) - [Stripe Launches L1 Blockchain: Tempo](https://tempo.xyz)
 * [2025-09-04, 16:27:41](https://news.ycombinator.com/item?id=45129031) - [Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks](https://news.ycombinator.com/item?id=45129031)
 * [2025-09-04, 15:52:43](https://news.ycombinator.com/item?id=45128652) - [Show HN: A Map of All YC Companies (5,300 Startups by Batch and Location)](https://yc.foundersaround.com/)

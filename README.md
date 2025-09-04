@@ -2,8 +2,9 @@
 
 * [2025-09-04, 17:07:08](https://news.ycombinator.com/item?id=45129523) - [Saquon Is Playing for Equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
 * [2025-09-04, 17:01:21](https://news.ycombinator.com/item?id=45129442) - [Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
+* [2025-09-04, 16:45:39](https://news.ycombinator.com/item?id=45129237) - [A PM's Guide to AI Agent Architecture](https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture)
 * [2025-09-04, 16:41:24](https://news.ycombinator.com/item?id=45129190) - [Age Simulation Suit](https://www.age-simulation-suit.com/)
-* [2025-09-04, 16:32:24](https://news.ycombinator.com/item?id=45129085) - [Stripe Launches L1 Blockchain: Tempo](https://tempo.xyz)
+* [2025-09-04, 16:39:03](https://news.ycombinator.com/item?id=45129160) - [We built an interpreter for Swift (a compiled language)](https://www.bitrig.app/blog/swift-interpreter)
 * [2025-09-04, 16:27:41](https://news.ycombinator.com/item?id=45129031) - [Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks](https://news.ycombinator.com/item?id=45129031)
 * [2025-09-04, 15:52:43](https://news.ycombinator.com/item?id=45128652) - [Show HN: A Map of All YC Companies (5,300 Startups by Batch and Location)](https://yc.foundersaround.com/)
 * [2025-09-04, 15:51:26](https://news.ycombinator.com/item?id=45128640) - [Google deletes net-zero pledge from sustainability website](https://www.nationalobserver.com/2025/09/04/investigations/google-net-zero-sustainability)
@@ -25,7 +26,6 @@
 * [2025-09-04, 02:55:24](https://news.ycombinator.com/item?id=45123003) - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
 * [2025-09-03, 15:07:20](https://news.ycombinator.com/item?id=45116688) - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
 * [2025-09-01, 17:57:06](https://news.ycombinator.com/item?id=45095002) - [Thunk: Build Rust program to support Windows XP, Vista and more](https://github.com/felixmaker/thunk)
-* [2025-09-01, 16:14:20](https://news.ycombinator.com/item?id=45093966) - [Minesweeper thermodynamics](https://oscarcunningham.com/792/minesweeper-thermodynamics/)
 * [2025-09-01, 09:08:23](https://news.ycombinator.com/item?id=45090943) - [The Hand-Drawn Hits That Hollywood Isn't Making](https://animationobsessive.substack.com/p/the-hand-drawn-hits-that-hollywood)
 * [2025-09-01, 03:31:36](https://news.ycombinator.com/item?id=45089201) - [A programmable display using microfluidics](https://www.youtube.com/watch?v=rf-efIZI_Dg)
 * [2025-08-31, 22:08:52](https://news.ycombinator.com/item?id=45087562) - [Introduction to Writing Good Puzzle Hunt Puzzles](https://www.mit.edu/~dwilson/puzzles/puzzlewriting.html)
