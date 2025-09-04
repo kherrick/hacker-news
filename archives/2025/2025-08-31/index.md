@@ -10,6 +10,7 @@
 * [2025-08-31, 22:54:26](https://news.ycombinator.com/item?id=45087815) - [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
 * [2025-08-31, 22:52:17](https://news.ycombinator.com/item?id=45087803) - [Reverse engineering Solos smart glasses](https://jfloren.net/b/2025/8/28/0)
 * [2025-08-31, 22:43:05](https://news.ycombinator.com/item?id=45087748) - [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
+* [2025-08-31, 22:08:52](https://news.ycombinator.com/item?id=45087562) - [Introduction to Writing Good Puzzle Hunt Puzzles](https://www.mit.edu/~dwilson/puzzles/puzzlewriting.html)
 * [2025-08-31, 21:46:26](https://news.ycombinator.com/item?id=45087396) - [What Every Argument About Sideloading Gets Wrong](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
 * [2025-08-31, 21:42:29](https://news.ycombinator.com/item?id=45087365) - [Polish CEO's company review bombed after stealing hat from child at tennis game](https://www.dexerto.com/entertainment/polish-ceos-company-review-bombed-after-stealing-hat-from-a-child-at-tennis-game-3244263/)
 * [2025-08-31, 21:33:46](https://news.ycombinator.com/item?id=45087313) - [NetSurf on ReMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)

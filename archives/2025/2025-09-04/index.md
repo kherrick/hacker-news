@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 16:27:41](https://news.ycombinator.com/item?id=45129031) - [Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks](https://news.ycombinator.com/item?id=45129031)
+* [2025-09-04, 15:52:43](https://news.ycombinator.com/item?id=45128652) - [Show HN: A Map of All YC Companies (5,300 Startups by Batch and Location)](https://yc.foundersaround.com/)
+* [2025-09-04, 15:51:26](https://news.ycombinator.com/item?id=45128640) - [Google deletes net-zero pledge from sustainability website](https://www.nationalobserver.com/2025/09/04/investigations/google-net-zero-sustainability)
+* [2025-09-04, 15:49:52](https://news.ycombinator.com/item?id=45128621) - [Show HN: I built FlipCards – a flashcard app with variations to improve learning](https://flipcardsapp.vercel.app/)
 * [2025-09-04, 15:48:35](https://news.ycombinator.com/item?id=45128605) - [Pump the Brakes on Your Police Department's Use of Flock Safety](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
+* [2025-09-04, 15:46:23](https://news.ycombinator.com/item?id=45128578) - [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+* [2025-09-04, 15:30:20](https://news.ycombinator.com/item?id=45128391) - [Wikipedia survives while the rest of the internet breaks](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales)
+* [2025-09-04, 15:22:03](https://news.ycombinator.com/item?id=45128299) - [Farewell to Meshnet](https://nordvpn.com/blog/meshnet-shutdown/)
 * [2025-09-04, 14:39:38](https://news.ycombinator.com/item?id=45127816) - [Hollow Knight: Silksong Causes Server Chaos on Xbox, Steam, and Nintendo](https://www.eurogamer.net/silksong-causes-server-chaos-on-xbox-steam-and-nintendo-as-platforms-grind-to-a-halt)
 * [2025-09-04, 14:25:57](https://news.ycombinator.com/item?id=45127636) - [Atlassian is acquiring the Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
 * [2025-09-04, 14:16:59](https://news.ycombinator.com/item?id=45127542) - [Calling your boss a dickhead is not a sackable offence, UK tribunal rules](https://www.theguardian.com/money/2025/sep/04/calling-your-boss-a-dickhead-is-not-a-sackable-offence-tribunal-rules)
