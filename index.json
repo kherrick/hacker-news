@@ -91,6 +91,26 @@
   ],
   [
     [
+      "2025-09-04, 15:03:01",
+      "https://news.ycombinator.com/item?id=45128089"
+    ],
+    [
+      "330+ data teams share what's working (and what's not)",
+      "https://www.metabase.com/data-stack-report-2025"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 14:53:50",
+      "https://news.ycombinator.com/item?id=45127983"
+    ],
+    [
+      "WiFi signals can measure heart rate–no wearables needed",
+      "https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 14:39:38",
       "https://news.ycombinator.com/item?id=45127816"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-09-01, 04:38:53",
-      "https://news.ycombinator.com/item?id=45089508"
-    ],
-    [
-      "AR Fluid Simulation Demo",
-      "https://danybittel.ch/fluid"
-    ]
-  ],
-  [
-    [
       "2025-08-31, 22:08:52",
       "https://news.ycombinator.com/item?id=45087562"
     ],
@@ -287,16 +297,6 @@
     [
       "Inverting the Xorshift128 random number generator",
       "https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 21:32:10",
-      "https://news.ycombinator.com/item?id=45057283"
-    ],
-    [
-      "The Bitter Lesson Is Misunderstood",
-      "https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood"
     ]
   ]
 ]
