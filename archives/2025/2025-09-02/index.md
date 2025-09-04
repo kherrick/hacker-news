@@ -35,6 +35,7 @@
 * [2025-09-02, 17:12:25](https://news.ycombinator.com/item?id=45105983) - [Dozens of scientists find errors in a new Energy Department climate report](https://www.npr.org/2025/09/02/nx-s1-5521384/energy-report-scientists-climate-change)
 * [2025-09-02, 16:53:29](https://news.ycombinator.com/item?id=45105710) - ['World Models,' an Old Idea in AI, Mount a Comeback](https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/)
 * [2025-09-02, 16:39:59](https://news.ycombinator.com/item?id=45105495) - [How to Argue with an AI Booster](https://www.wheresyoured.at/how-to-argue-with-an-ai-booster/)
+* [2025-09-02, 16:26:48](https://news.ycombinator.com/item?id=45105272) - [A Rebel Writer's First Revolt](https://www.vulture.com/article/arundhati-roy-mother-mary-comes-to-me-review.html)
 * [2025-09-02, 16:24:44](https://news.ycombinator.com/item?id=45105230) - [AI web crawlers are destroying websites in their never-ending content hunger](https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/)
 * [2025-09-02, 16:15:54](https://news.ycombinator.com/item?id=45105081) - [OpenAI says it's scanning users' conversations and reporting content to police](https://futurism.com/openai-scanning-conversations-police)
 * [2025-09-02, 16:08:31](https://news.ycombinator.com/item?id=45104974) - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974)
