@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 11:04:36](https://news.ycombinator.com/item?id=45125859) - [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
 * [2025-09-04, 10:12:09](https://news.ycombinator.com/item?id=45125555) - [Liquid Glass? That's what your M4 CPU is for](https://idiallo.com/byte-size/apple-liquid-glass)
 * [2025-09-04, 09:55:40](https://news.ycombinator.com/item?id=45125469) - [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
 * [2025-09-04, 09:27:53](https://news.ycombinator.com/item?id=45125312) - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-04, 11:04:36](https://news.ycombinator.com/item?id=45125859) - [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
 * [2025-09-04, 10:12:09](https://news.ycombinator.com/item?id=45125555) - [Liquid Glass? That's what your M4 CPU is for](https://idiallo.com/byte-size/apple-liquid-glass)
 * [2025-09-04, 09:55:40](https://news.ycombinator.com/item?id=45125469) - [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
 * [2025-09-04, 09:27:53](https://news.ycombinator.com/item?id=45125312) - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
@@ -18,7 +19,6 @@
 * [2025-09-03, 15:30:06](https://news.ycombinator.com/item?id=45116957) - [Understanding Transformers Using a Minimal Example](https://rti.github.io/gptvis/)
 * [2025-09-03, 15:07:20](https://news.ycombinator.com/item?id=45116688) - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
 * [2025-09-03, 14:02:18](https://news.ycombinator.com/item?id=45115941) - [Eels are fish](https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08)
-* [2025-09-03, 11:40:41](https://news.ycombinator.com/item?id=45114579) - [The wall confronting large language models](https://arxiv.org/abs/2507.19703)
 * [2025-09-02, 16:26:48](https://news.ycombinator.com/item?id=45105272) - [A Rebel Writer's First Revolt](https://www.vulture.com/article/arundhati-roy-mother-mary-comes-to-me-review.html)
 * [2025-09-02, 11:35:22](https://news.ycombinator.com/item?id=45101675) - [New knot theory discovery overturns long-held mathematical assumption](https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/)
 * [2025-09-01, 17:12:03](https://news.ycombinator.com/item?id=45094559) - [Half an year on Alpine: just musl aside](https://blog.jutty.dev/posts/half-an-year-on-alpine/)
@@ -26,9 +26,9 @@
 * [2025-09-01, 09:12:13](https://news.ycombinator.com/item?id=45090963) - [I Should Have Loved Electrical Engineering](https://blog.tdhttt.com/post/love-ee/)
 * [2025-09-01, 08:38:35](https://news.ycombinator.com/item?id=45090777) - [Say Bye with JavaScript Beacon](https://hemath.dev/blog/say-bye-with-javascript-beacon/)
 * [2025-09-01, 04:38:53](https://news.ycombinator.com/item?id=45089508) - [AR Fluid Simulation Demo](https://danybittel.ch/fluid)
+* [2025-09-01, 03:17:27](https://news.ycombinator.com/item?id=45089130) - [Use Bayes rule to mechanically solve probability riddles](https://cloud.disroot.org/s/Ec4xTMFDteTrFio)
 * [2025-09-01, 00:51:50](https://news.ycombinator.com/item?id=45088427) - [Show HN: A roguelike game that runs inside Notepad++](https://github.com/thelowsunoverthemoon/NeuroPriest)
 * [2025-08-31, 22:52:17](https://news.ycombinator.com/item?id=45087803) - [Reverse engineering Solos smart glasses](https://jfloren.net/b/2025/8/28/0)
-* [2025-08-30, 18:42:08](https://news.ycombinator.com/item?id=45076992) - [How to Give a Good Talk](https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/)
 * [2025-08-28, 21:32:10](https://news.ycombinator.com/item?id=45057283) - [The Bitter Lesson Is Misunderstood](https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood)
 
 ## [Archives](archives/index.md)
