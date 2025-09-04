@@ -44,6 +44,7 @@
 * [2025-09-01, 14:43:37](https://news.ycombinator.com/item?id=45093022) - [Effective learning: Twenty rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
 * [2025-09-01, 14:36:11](https://news.ycombinator.com/item?id=45092967) - [Show HN: We built an open-source alternative to expensive pair programming apps](https://github.com/gethopp/hopp)
 * [2025-09-01, 14:30:50](https://news.ycombinator.com/item?id=45092942) - [Hackers demand Google fire 2 staff and halt probes, or they will leak databases](https://www.newsweek.com/hackers-issue-ultimatum-data-breach-2122489)
+* [2025-09-01, 14:28:28](https://news.ycombinator.com/item?id=45092930) - [16-Inch Softball](https://en.wikipedia.org/wiki/16-inch_softball)
 * [2025-09-01, 14:27:17](https://news.ycombinator.com/item?id=45092925) - [\"Turns out Google made up an elaborate story about me\"](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
 * [2025-09-01, 14:23:09](https://news.ycombinator.com/item?id=45092895) - [Git for Music – Using Version Control for Music Production (2023)](https://grechin.org/2023/05/06/git-and-reaper.html)
 * [2025-09-01, 14:21:12](https://news.ycombinator.com/item?id=45092880) - [AI enters the grant game, picking winners](https://www.science.org/content/article/ai-enters-grant-game-picking-winners)
