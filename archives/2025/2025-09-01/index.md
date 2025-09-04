@@ -29,6 +29,7 @@
 * [2025-09-01, 16:40:24](https://news.ycombinator.com/item?id=45094256) - [Lessons from building an AI data analyst](https://www.pedronasc.com/articles/lessons-building-ai-data-analyst)
 * [2025-09-01, 16:32:58](https://news.ycombinator.com/item?id=45094165) - [Israel committing genocide in Gaza, scholars group says](https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says)
 * [2025-09-01, 16:32:25](https://news.ycombinator.com/item?id=45094156) - [AI couldn't build my iPhone podcast app](https://beard.fm/blog/ai-failed-my-podcast-app)
+* [2025-09-01, 16:14:20](https://news.ycombinator.com/item?id=45093966) - [Minesweeper thermodynamics](https://oscarcunningham.com/792/minesweeper-thermodynamics/)
 * [2025-09-01, 16:13:04](https://news.ycombinator.com/item?id=45093956) - [A Unique, High-Tech (Family) Computer](https://nicole.express/2025/a-computer-in-your-home.html)
 * [2025-09-01, 15:54:24](https://news.ycombinator.com/item?id=45093765) - [The time picker on the iPhone's alarm app isn't circular, it's just a long list](https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/)
 * [2025-09-01, 15:49:15](https://news.ycombinator.com/item?id=45093711) - [Welcome to the Technocracy: Dreams of forgotten movement from the 1930s live on](https://novum.substack.com/p/welcome-to-the-technocracy)

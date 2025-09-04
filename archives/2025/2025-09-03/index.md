@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 23:52:58](https://news.ycombinator.com/item?id=45121721) - [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
+* [2025-09-03, 23:32:57](https://news.ycombinator.com/item?id=45121547) - [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
 * [2025-09-03, 23:07:36](https://news.ycombinator.com/item?id=45121342) - [The Evidence That AI Is Destroying Jobs for Young People Just Got Stronger](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
 * [2025-09-03, 21:18:29](https://news.ycombinator.com/item?id=45120517) - [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
 * [2025-09-03, 21:00:27](https://news.ycombinator.com/item?id=45120373) - [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
