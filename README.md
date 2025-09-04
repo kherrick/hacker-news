@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-04, 22:11:09](https://news.ycombinator.com/item?id=45132810) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
+* [2025-09-04, 22:03:00](https://news.ycombinator.com/item?id=45132729) - [They blew up a boat far offshore, killed eleven people, and called it justice](https://mitchthelawyer.substack.com/p/they-blew-up-a-boat-far-offshore)
+* [2025-09-04, 22:01:11](https://news.ycombinator.com/item?id=45132710) - [Memory is slow, Disk is fast – Part 2](https://www.bitflux.ai/blog/memory-is-slow-part2/)
 * [2025-09-04, 21:36:50](https://news.ycombinator.com/item?id=45132498) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 * [2025-09-04, 21:06:10](https://news.ycombinator.com/item?id=45132183) - [Rocketships and Slingshots](https://postround.substack.com/p/rocketships-and-slingshots)
 * [2025-09-04, 20:33:53](https://news.ycombinator.com/item?id=45131921) - [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
@@ -24,12 +26,10 @@
 * [2025-09-04, 05:56:29](https://news.ycombinator.com/item?id=45124003) - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
 * [2025-09-04, 03:01:49](https://news.ycombinator.com/item?id=45123034) - [Polars Cloud and Distributed Polars now available](https://pola.rs/posts/polars-cloud-launch/)
 * [2025-09-04, 02:37:42](https://news.ycombinator.com/item?id=45122885) - [A high schooler writes about AI tools in the classroom](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
-* [2025-09-01, 20:30:19](https://news.ycombinator.com/item?id=45096358) - [The Paradigm](https://nonint.com/2025/03/16/the-paradigm/)
 * [2025-09-01, 16:48:12](https://news.ycombinator.com/item?id=45094324) - [Unix Conspiracy (1991)](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
 * [2025-09-01, 14:28:28](https://news.ycombinator.com/item?id=45092930) - [16-inch softball](https://en.wikipedia.org/wiki/16-inch_softball)
 * [2025-09-01, 03:31:36](https://news.ycombinator.com/item?id=45089201) - [A programmable display using microfluidics [video]](https://www.youtube.com/watch?v=rf-efIZI_Dg)
 * [2025-09-01, 02:26:22](https://news.ycombinator.com/item?id=45088880) - [Berg's Card Sorting Task](https://www.neurobs.com/manager/content/docs/psychlab101_experiments/Berg%27s%20Card%20Sorting%20Task/description.html)
-* [2025-08-31, 18:49:38](https://news.ycombinator.com/item?id=45085867) - [Inverting the Xorshift128 random number generator](https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/)
 
 ## [Archives](archives/index.md)
 
