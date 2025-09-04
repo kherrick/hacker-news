@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-04, 22:47:45](https://news.ycombinator.com/item?id=45133109) - [Why I Ditched Spotify, and How I Set Up My Own Music Stack](https://leshicodes.github.io/blog/spotify-migration/)
+* [2025-09-04, 22:47:45](https://news.ycombinator.com/item?id=45133109) - [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
 * [2025-09-04, 22:11:09](https://news.ycombinator.com/item?id=45132810) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
 * [2025-09-04, 22:01:11](https://news.ycombinator.com/item?id=45132710) - [Memory is slow, Disk is fast – Part 2](https://www.bitflux.ai/blog/memory-is-slow-part2/)
 * [2025-09-04, 21:36:50](https://news.ycombinator.com/item?id=45132498) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
