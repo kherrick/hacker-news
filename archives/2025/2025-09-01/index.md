@@ -74,6 +74,7 @@
 * [2025-09-01, 03:45:33](https://news.ycombinator.com/item?id=45089256) - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
 * [2025-09-01, 03:31:36](https://news.ycombinator.com/item?id=45089201) - [A programmable display using microfluidics](https://www.youtube.com/watch?v=rf-efIZI_Dg)
 * [2025-09-01, 03:17:27](https://news.ycombinator.com/item?id=45089130) - [Use Bayes rule to mechanically solve probability riddles](https://cloud.disroot.org/s/Ec4xTMFDteTrFio)
+* [2025-09-01, 03:13:14](https://news.ycombinator.com/item?id=45089106) - [Mangrove Restoration Frustration (2021)](https://knowablemagazine.org/content/article/food-environment/2021/many-mangrove-restorations-fail)
 * [2025-09-01, 03:08:07](https://news.ycombinator.com/item?id=45089072) - [The first inkjet printer was a medical device](https://spectrum.ieee.org/rune-elmqvist)
 * [2025-09-01, 02:47:09](https://news.ycombinator.com/item?id=45088977) - [Substack just killed the creator economy](https://mail.bigdeskenergy.com/p/substack-just-killed-creator-economy)
 * [2025-09-01, 02:26:22](https://news.ycombinator.com/item?id=45088880) - [Berg's Card Sorting Task](https://www.neurobs.com/manager/content/docs/psychlab101_experiments/Berg%27s%20Card%20Sorting%20Task/description.html)
