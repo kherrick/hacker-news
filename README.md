@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-04, 12:40:47](https://news.ycombinator.com/item?id=45126586) - [How to build vector tiles from scratch](https://www.debuisne.com/writing/geo-tiles/)
+* [2025-09-04, 12:39:04](https://news.ycombinator.com/item?id=45126567) - [Google's $45M contract to spread Netanyahu's propaganda](https://jackpoulson.substack.com/p/googles-45-million-contract-with)
 * [2025-09-04, 12:33:41](https://news.ycombinator.com/item?id=45126531) - [We Found the Hidden Cost of Data Centers. It's in Your Electric Bill [video]](https://www.youtube.com/watch?v=YN6BEUA4jNU)
 * [2025-09-04, 12:29:49](https://news.ycombinator.com/item?id=45126503) - [Almost anything you give sustained attention to will begin to loop on itself](https://www.henrikkarlsson.xyz/p/attention)
 * [2025-09-04, 12:29:29](https://news.ycombinator.com/item?id=45126500) - [The company behind the Dia and Arc browsers is being acquired](https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian)
@@ -9,7 +10,6 @@
 * [2025-09-04, 10:56:37](https://news.ycombinator.com/item?id=45125816) - [Electromechanical Reshaping Offers Safer Eye Surgery](https://spectrum.ieee.org/electrochemistry-for-eye-surgeries)
 * [2025-09-04, 09:55:40](https://news.ycombinator.com/item?id=45125469) - [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
 * [2025-09-04, 09:27:53](https://news.ycombinator.com/item?id=45125312) - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
-* [2025-09-04, 08:23:35](https://news.ycombinator.com/item?id=45124955) - [Google was down in eastern EU and Turkey](https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29)
 * [2025-09-04, 06:18:13](https://news.ycombinator.com/item?id=45124143) - [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
 * [2025-09-04, 05:56:29](https://news.ycombinator.com/item?id=45124003) - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
 * [2025-09-04, 03:01:49](https://news.ycombinator.com/item?id=45123034) - [Polars Cloud and Distributed Polars now available](https://pola.rs/posts/polars-cloud-launch/)
