@@ -9,6 +9,8 @@
 * [2025-09-04, 15:46:23](https://news.ycombinator.com/item?id=45128578) - [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
 * [2025-09-04, 15:30:20](https://news.ycombinator.com/item?id=45128391) - [Wikipedia survives while the rest of the internet breaks](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales)
 * [2025-09-04, 15:22:03](https://news.ycombinator.com/item?id=45128299) - [Farewell to Meshnet](https://nordvpn.com/blog/meshnet-shutdown/)
+* [2025-09-04, 15:03:01](https://news.ycombinator.com/item?id=45128089) - [330+ data teams share what's working (and what's not)](https://www.metabase.com/data-stack-report-2025)
+* [2025-09-04, 14:53:50](https://news.ycombinator.com/item?id=45127983) - [WiFi signals can measure heart rate–no wearables needed](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
 * [2025-09-04, 14:39:38](https://news.ycombinator.com/item?id=45127816) - [Hollow Knight: Silksong Causes Server Chaos on Xbox, Steam, and Nintendo](https://www.eurogamer.net/silksong-causes-server-chaos-on-xbox-steam-and-nintendo-as-platforms-grind-to-a-halt)
 * [2025-09-04, 14:25:57](https://news.ycombinator.com/item?id=45127636) - [Atlassian is acquiring the Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
 * [2025-09-04, 14:16:59](https://news.ycombinator.com/item?id=45127542) - [Calling your boss a dickhead is not a sackable offence, UK tribunal rules](https://www.theguardian.com/money/2025/sep/04/calling-your-boss-a-dickhead-is-not-a-sackable-offence-tribunal-rules)
@@ -26,10 +28,8 @@
 * [2025-09-01, 17:57:06](https://news.ycombinator.com/item?id=45095002) - [Thunk: Build Rust program to support Windows XP, Vista and more](https://github.com/felixmaker/thunk)
 * [2025-09-01, 16:14:20](https://news.ycombinator.com/item?id=45093966) - [Minesweeper thermodynamics](https://oscarcunningham.com/792/minesweeper-thermodynamics/)
 * [2025-09-01, 09:08:23](https://news.ycombinator.com/item?id=45090943) - [The Hand-Drawn Hits That Hollywood Isn't Making](https://animationobsessive.substack.com/p/the-hand-drawn-hits-that-hollywood)
-* [2025-09-01, 04:38:53](https://news.ycombinator.com/item?id=45089508) - [AR Fluid Simulation Demo](https://danybittel.ch/fluid)
 * [2025-08-31, 22:08:52](https://news.ycombinator.com/item?id=45087562) - [Introduction to Writing Good Puzzle Hunt Puzzles](https://www.mit.edu/~dwilson/puzzles/puzzlewriting.html)
 * [2025-08-31, 18:49:38](https://news.ycombinator.com/item?id=45085867) - [Inverting the Xorshift128 random number generator](https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/)
-* [2025-08-28, 21:32:10](https://news.ycombinator.com/item?id=45057283) - [The Bitter Lesson Is Misunderstood](https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood)
 
 ## [Archives](archives/index.md)
 
