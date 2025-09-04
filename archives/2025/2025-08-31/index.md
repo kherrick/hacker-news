@@ -45,6 +45,7 @@
 * [2025-08-31, 14:55:56](https://news.ycombinator.com/item?id=45083635) - [Older developers are down with the vibe coding vibe](https://www.theregister.com/2025/08/28/older_developers_ai_code/)
 * [2025-08-31, 14:50:17](https://news.ycombinator.com/item?id=45083582) - [Cline and LM Studio: the local coding stack with Qwen3 Coder 30B](https://cline.bot/blog/local-models)
 * [2025-08-31, 14:41:15](https://news.ycombinator.com/item?id=45083495) - [Replacing a Cache Service with a Database](https://avi.im/blag/2025/db-cache/)
+* [2025-08-31, 14:11:14](https://news.ycombinator.com/item?id=45083271) - [Nyxstone: An LLVM-based (Dis)assembly Framework](https://www.emproof.com/introducing-nyxstone-an-llvm-based-disassembly-framework/)
 * [2025-08-31, 13:49:11](https://news.ycombinator.com/item?id=45083135) - [Spacing Over Cards](https://smagin.fyi/posts/padding-over-cards/)
 * [2025-08-31, 13:49:01](https://news.ycombinator.com/item?id=45083134) - [Notes on Managing ADHD](https://borretti.me/article/notes-on-managing-adhd)
 * [2025-08-31, 13:34:36](https://news.ycombinator.com/item?id=45083053) - [Glow-in-the-dark houseplants shine in rainbow of colours](https://www.nature.com/articles/d41586-025-02740-2)
