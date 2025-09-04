@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-04, 00:18:16",
+      "https://news.ycombinator.com/item?id=45121915"
+    ],
+    [
+      "Neovim Pack",
+      "https://neovim.io/doc/user/pack.html#vim.pack"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 23:52:58",
       "https://news.ycombinator.com/item?id=45121721"
     ],
@@ -67,16 +77,6 @@
     [
       "We're Joining OpenAI",
       "https://www.alexcodes.app/blog/alex-team-joins-openai"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 17:49:08",
-      "https://news.ycombinator.com/item?id=45118598"
-    ],
-    [
-      "6NF File Format",
-      "https://habr.com/en/articles/942516/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-09-03, 15:21:35",
-      "https://news.ycombinator.com/item?id=45116859"
-    ],
-    [
-      "Launch HN: Risely (YC S25) – AI Agents for Universities",
-      "https://news.ycombinator.com/item?id=45116859"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 15:20:34",
       "https://news.ycombinator.com/item?id=45116849"
     ],
@@ -177,6 +167,16 @@
     [
       "Claude Code: Now in Beta in Zed",
       "https://zed.dev/blog/claude-code-via-acp"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 14:02:28",
+      "https://news.ycombinator.com/item?id=45115942"
+    ],
+    [
+      "Airbus B612 Cockpit Font",
+      "https://github.com/polarsys/b612"
     ]
   ],
   [
