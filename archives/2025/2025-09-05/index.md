@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 15:51:27](https://news.ycombinator.com/item?id=45139954) - [South Korea: 'many' of its nationals detained in ICE raid on GA Hyundai facility](https://www.nbcnews.com/news/us-news/ice-hyundai-plant-georgia-enforcement-action-rcna229148)
 * [2025-09-05, 15:25:10](https://news.ycombinator.com/item?id=45139656) - [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
+* [2025-09-05, 15:23:29](https://news.ycombinator.com/item?id=45139640) - [Does anyone still use Morse code?](https://morse-coder.com/)
 * [2025-09-05, 14:52:37](https://news.ycombinator.com/item?id=45139270) - [A computer upgrade has shut down BART](https://www.bart.gov/news/articles/2025/news20250905)
 * [2025-09-05, 14:38:07](https://news.ycombinator.com/item?id=45139122) - [Why Browser Company at $610M is cheap](https://bigtechpr.substack.com/p/why-browser-co-610m-is-cheap)
+* [2025-09-05, 14:34:57](https://news.ycombinator.com/item?id=45139088) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-05, 14:20:07](https://news.ycombinator.com/item?id=45138932) - [1TB Raspberry Pi SSD on sale now for $70](https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/)
 * [2025-09-05, 14:01:34](https://news.ycombinator.com/item?id=45138703) - [US economy added just 22,000 jobs in August, unemployment highest in 4 yrs](https://www.cnn.com/2025/09/05/economy/us-jobs-report-august-final)
 * [2025-09-05, 13:13:41](https://news.ycombinator.com/item?id=45138156) - [Development Speed Has Never Been a Bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
