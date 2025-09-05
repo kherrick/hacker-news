@@ -14,6 +14,7 @@
 * [2025-09-02, 20:14:51](https://news.ycombinator.com/item?id=45108401) - [Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS](https://huggingface.co/swiss-ai/Apertus-70B-2509)
 * [2025-09-02, 20:02:57](https://news.ycombinator.com/item?id=45108292) - [U.S. Emissions Rise 4.2%, China's Fall 2.7%](https://www.theenergymix.com/u-s-emissions-rise-chinas-fall-in-massive-shift-between-worlds-biggest-climate-polluters/)
 * [2025-09-02, 19:42:48](https://news.ycombinator.com/item?id=45108066) - [Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
+* [2025-09-02, 19:39:47](https://news.ycombinator.com/item?id=45108026) - [How to Spot (and Fix) 5 Common Performance Bottlenecks in Pandas Workflows](https://developer.nvidia.com/blog/how-to-spot-and-fix-5-common-performance-bottlenecks-in-pandas-workflows/)
 * [2025-09-02, 19:34:24](https://news.ycombinator.com/item?id=45107962) - [First attempt will be 95% garbage: 6 weeks with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
 * [2025-09-02, 19:32:46](https://news.ycombinator.com/item?id=45107939) - [iNaturalist keeps full species classification models private](https://github.com/inaturalist/inatVisionAPI)
 * [2025-09-02, 19:28:43](https://news.ycombinator.com/item?id=45107891) - [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
