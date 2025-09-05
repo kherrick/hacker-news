@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-05, 09:40:08](https://news.ycombinator.com/item?id=45136728) - [I have two Amazon Echos that I never use, but they burn gbs a day of bandwidth](https://twitter.com/davepl1968/status/1963803025572770212)
 * [2025-09-05, 07:57:21](https://news.ycombinator.com/item?id=45136103) - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 * [2025-09-05, 07:44:26](https://news.ycombinator.com/item?id=45136008) - [Fiber Concurrency](https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency)
 * [2025-09-05, 06:43:38](https://news.ycombinator.com/item?id=45135623) - [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
@@ -8,7 +9,6 @@
 * [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-05, 00:54:55](https://news.ycombinator.com/item?id=45133935) - [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
 * [2025-09-05, 00:05:50](https://news.ycombinator.com/item?id=45133652) - [Evolving the OCaml Programming Language (2025) [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
-* [2025-09-04, 23:12:00](https://news.ycombinator.com/item?id=45133289) - [Unix Conspiracy (1991)](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
 * [2025-09-04, 22:11:09](https://news.ycombinator.com/item?id=45132810) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
 * [2025-09-04, 22:01:11](https://news.ycombinator.com/item?id=45132710) - [io_uring is faster than mmap](https://www.bitflux.ai/blog/memory-is-slow-part2/)
 * [2025-09-04, 21:36:50](https://news.ycombinator.com/item?id=45132498) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
