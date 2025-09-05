@@ -6,6 +6,7 @@
 
 * [2025-09-05, 09:40:08](https://news.ycombinator.com/item?id=45136728) - [I have two Amazon Echos that I never use, but they burn gbs a day of bandwidth](https://twitter.com/davepl1968/status/1963803025572770212)
 * [2025-09-05, 09:13:25](https://news.ycombinator.com/item?id=45136558) - [SAP splashes €20B on Euro sovereign cloud push](https://www.theregister.com/2025/09/04/sap_sovereign_cloud/)
+* [2025-09-05, 08:43:01](https://news.ycombinator.com/item?id=45136367) - [IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing](https://www.usenix.org/conference/atc25/presentation/landsberg)
 * [2025-09-05, 07:57:21](https://news.ycombinator.com/item?id=45136103) - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 * [2025-09-05, 07:44:26](https://news.ycombinator.com/item?id=45136008) - [Fiber Concurrency](https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency)
 * [2025-09-05, 06:43:38](https://news.ycombinator.com/item?id=45135623) - [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)

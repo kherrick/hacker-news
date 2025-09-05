@@ -41,6 +41,7 @@
 * [2025-09-01, 15:49:15](https://news.ycombinator.com/item?id=45093711) - [Welcome to the Technocracy: Dreams of forgotten movement from the 1930s live on](https://novum.substack.com/p/welcome-to-the-technocracy)
 * [2025-09-01, 15:47:56](https://news.ycombinator.com/item?id=45093693) - [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
 * [2025-09-01, 15:37:10](https://news.ycombinator.com/item?id=45093590) - [Isolated(any)](https://nshipster.com/isolated-any/)
+* [2025-09-01, 15:29:09](https://news.ycombinator.com/item?id=45093501) - [Vetinari's Clock (2011)](https://www.waitingforfriday.com/?p=264)
 * [2025-09-01, 15:19:36](https://news.ycombinator.com/item?id=45093408) - [Anti-establishment versus authoritarian populists and support for the strongman](https://www.frontiersin.org/articles/10.3389/fpos.2025.1605460)
 * [2025-09-01, 15:01:02](https://news.ycombinator.com/item?id=45093192) - [Ask HN: Who is hiring? (September 2025)](https://news.ycombinator.com/item?id=45093192)
 * [2025-09-01, 15:01:02](https://news.ycombinator.com/item?id=45093190) - [Ask HN: Who wants to be hired? (September 2025)](https://news.ycombinator.com/item?id=45093190)
