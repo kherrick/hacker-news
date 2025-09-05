@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-05, 16:55:46",
-      "https://news.ycombinator.com/item?id=45140767"
+      "2025-09-05, 16:52:34",
+      "https://news.ycombinator.com/item?id=45140730"
     ],
     [
-      "Why Everybody Is Losing Money on AI",
-      "https://www.wheresyoured.at/why-everybody-is-losing-money-on-ai/"
+      "European Commission fines Google €2.95B over abusive ad tech practices",
+      "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992"
     ]
   ],
   [
@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-09-05, 15:44:56",
-      "https://news.ycombinator.com/item?id=45139891"
-    ],
-    [
-      "Tech CEOs Take Turns Grovelling at Feast of Embarrassments",
-      "https://pxlnv.com/linklog/trump-feast-of-embarrassments/"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 15:25:10",
       "https://news.ycombinator.com/item?id=45139656"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45139640"
     ],
     [
-      "Does anyone still use Morse code?",
+      "Morse Code Translator",
       "https://morse-coder.com/"
     ]
   ],
@@ -75,18 +65,8 @@
       "https://news.ycombinator.com/item?id=45139088"
     ],
     [
-      "You Don't Need Animations",
+      "You don't need animations",
       "https://emilkowal.ski/ui/you-dont-need-animations"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 14:20:07",
-      "https://news.ycombinator.com/item?id=45138932"
-    ],
-    [
-      "1TB Raspberry Pi SSD on sale now for $70",
-      "https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/"
     ]
   ],
   [
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45138156"
     ],
     [
-      "Development Speed Has Never Been a Bottleneck",
+      "Development speed is not a bottleneck",
       "https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck"
     ]
   ],
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45137927"
     ],
     [
-      "Data Modeling Guide for Real-Time Analytics with ClickHouse",
+      "Data modeling guide for real-time analytics with ClickHouse",
       "https://www.ssp.sh/blog/practical-data-modeling-clickhouse/"
     ]
   ],
@@ -131,26 +111,6 @@
   ],
   [
     [
-      "2025-09-05, 12:17:22",
-      "https://news.ycombinator.com/item?id=45137658"
-    ],
-    [
-      "OpenAI eats jobs, then offers to help you find a new one at Walmart",
-      "https://www.theregister.com/2025/09/05/openai_jobs_board/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 12:17:16",
-      "https://news.ycombinator.com/item?id=45137656"
-    ],
-    [
-      "Using Your Phone on Toilet May Give You Hemorrhoids: Study",
-      "https://www.nbcnews.com/health/health-news/phone-use-hemorrhoids-bathroom-social-media-scrolling-rcna228080"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 12:01:09",
       "https://news.ycombinator.com/item?id=45137554"
     ],
@@ -165,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45137525"
     ],
     [
-      "I Ditched Docker for Podman",
+      "I ditched Docker for Podman",
       "https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too"
     ]
   ],
@@ -175,7 +135,7 @@
       "https://news.ycombinator.com/item?id=45137245"
     ],
     [
-      "Interview with Japanese Demoscener – 0b5vr",
+      "Interview with Japanese Demoscener 0b5vr",
       "https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html"
     ]
   ],
@@ -251,12 +211,32 @@
   ],
   [
     [
+      "2025-09-04, 14:53:50",
+      "https://news.ycombinator.com/item?id=45127983"
+    ],
+    [
+      "WiFi signals can measure heart rate",
+      "https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 09:16:28",
       "https://news.ycombinator.com/item?id=45125247"
     ],
     [
       "Show HN: Vapor – A notepad that fades away as you type",
       "https://enda.sh/vapor/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 11:45:46",
+      "https://news.ycombinator.com/item?id=45101797"
+    ],
+    [
+      "How big are our embeddings now and why?",
+      "https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/"
     ]
   ],
   [
@@ -275,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45098609"
     ],
     [
-      "The Old Robots Website",
+      "The Old Robots Web Site",
       "https://www.theoldrobots.com/index2.html"
     ]
   ],
@@ -297,6 +277,26 @@
     [
       "Vetinari's Clock (2011)",
       "https://www.waitingforfriday.com/?p=264"
+    ]
+  ],
+  [
+    [
+      "2025-09-01, 07:56:30",
+      "https://news.ycombinator.com/item?id=45090553"
+    ],
+    [
+      "Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC",
+      "https://github.com/mindbrix/Rasterizer"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 15:53:22",
+      "https://news.ycombinator.com/item?id=45084133"
+    ],
+    [
+      "Baby's first type checker",
+      "https://austinhenley.com/blog/babytypechecker.html"
     ]
   ]
 ]
