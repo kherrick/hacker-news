@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-05, 17:09:35",
+      "https://news.ycombinator.com/item?id=45140921"
+    ],
+    [
+      "Show HN: Open-sourcing our text-to-CAD app",
+      "https://github.com/Adam-CAD/CADAM"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 16:57:45",
+      "https://news.ycombinator.com/item?id=45140786"
+    ],
+    [
+      "Freeway guardrails are now a favorite target of thieves",
+      "https://laist.com/news/transportation/guardrails-aluminum-theft"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 16:52:34",
       "https://news.ycombinator.com/item?id=45140730"
     ],
@@ -17,6 +37,16 @@
     [
       "MentraOS – open-source Smart glasses OS",
       "https://github.com/Mentra-Community/MentraOS"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 15:23:29",
+      "https://news.ycombinator.com/item?id=45139640"
+    ],
+    [
+      "Morse Code Translator",
+      "https://morse-coder.com/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Development speed is not a bottleneck",
       "https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 12:51:27",
-      "https://news.ycombinator.com/item?id=45137927"
-    ],
-    [
-      "Data modeling guide for real-time analytics with ClickHouse",
-      "https://www.ssp.sh/blog/practical-data-modeling-clickhouse/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Interview with Japanese Demoscener 0b5vr",
       "https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 09:40:08",
-      "https://news.ycombinator.com/item?id=45136728"
-    ],
-    [
-      "I have two Amazon Echos that I never use, but they apparently burn GBs a day",
-      "https://twitter.com/davepl1968/status/1963803025572770212"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-09-04, 15:30:20",
-      "https://news.ycombinator.com/item?id=45128391"
+      "2025-09-02, 20:14:51",
+      "https://news.ycombinator.com/item?id=45108401"
     ],
     [
-      "Wikipedia survives while the rest of the internet breaks",
-      "https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales"
+      "Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS",
+      "https://huggingface.co/swiss-ai/Apertus-70B-2509"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Vetinari's Clock (2011)",
       "https://www.waitingforfriday.com/?p=264"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 15:53:22",
-      "https://news.ycombinator.com/item?id=45084133"
-    ],
-    [
-      "Baby's first type checker",
-      "https://austinhenley.com/blog/babytypechecker.html"
     ]
   ]
 ]
