@@ -9,6 +9,7 @@
 * [2025-09-05, 12:50:00](https://news.ycombinator.com/item?id=45137914) - [Lava RGB](https://amaiorano.io/2025/09/03/lava-rgb.html)
 * [2025-09-05, 12:36:47](https://news.ycombinator.com/item?id=45137802) - [You're absolutely Right!](https://absolutelyright.lol/)
 * [2025-09-05, 12:17:22](https://news.ycombinator.com/item?id=45137658) - [OpenAI eats jobs, then offers to help you find a new one at Walmart](https://www.theregister.com/2025/09/05/openai_jobs_board/)
+* [2025-09-05, 12:17:16](https://news.ycombinator.com/item?id=45137656) - [Using Your Phone on Toilet May Give You Hemorrhoids: Study](https://www.nbcnews.com/health/health-news/phone-use-hemorrhoids-bathroom-social-media-scrolling-rcna228080)
 * [2025-09-05, 12:01:09](https://news.ycombinator.com/item?id=45137554) - [Relace (YC W23) Is Hiring for Code LLM's (SF)](https://news.ycombinator.com/item?id=45137554)
 * [2025-09-05, 11:56:59](https://news.ycombinator.com/item?id=45137525) - [I Ditched Docker for Podman (and You Should Too)](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
 * [2025-09-05, 11:33:48](https://news.ycombinator.com/item?id=45137373) - [Why ML Needs a New Programming Language](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)

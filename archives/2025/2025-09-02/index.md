@@ -63,6 +63,7 @@
 * [2025-09-02, 10:50:55](https://news.ycombinator.com/item?id=45101300) - [What's New with Firefox 142](https://www.mozilla.org/en-US/firefox/142.0.1/whatsnew/?oldversion=139.0.4&utm_medium=firefox-desktop&utm_source=update&utm_campaign=142)
 * [2025-09-02, 10:21:42](https://news.ycombinator.com/item?id=45101127) - [Europol said ChatControl doesn't go far enough; they want to retain data forever](https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/)
 * [2025-09-02, 10:19:31](https://news.ycombinator.com/item?id=45101117) - [Unfortunately, the ICEBlock app is activism theater](https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/)
+* [2025-09-02, 08:42:43](https://news.ycombinator.com/item?id=45100516) - [Debugging Rustler on Illumos](https://system-illumination.org/01-rustler.html)
 * [2025-09-02, 08:40:20](https://news.ycombinator.com/item?id=45100499) - [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 * [2025-09-02, 08:25:47](https://news.ycombinator.com/item?id=45100421) - [Light Sleep: Waking VMs in 200ms with eBPF and snapshots](https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots)
 * [2025-09-02, 07:38:17](https://news.ycombinator.com/item?id=45100163) - [A motto for programmers: \"Tuere usorem, data, veritatem\"](https://koas.dev/a-motto-for-programming/)
