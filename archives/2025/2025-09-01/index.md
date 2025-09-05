@@ -27,6 +27,7 @@
 * [2025-09-01, 17:51:27](https://news.ycombinator.com/item?id=45094953) - [The Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
 * [2025-09-01, 17:49:20](https://news.ycombinator.com/item?id=45094936) - [Show HN: woomarks, transfer your Pocket links to this app or self-host it](https://woomarks.com)
 * [2025-09-01, 17:32:34](https://news.ycombinator.com/item?id=45094772) - [Simple design changes can make bat boxes safer](https://phys.org/news/2025-08-simple-safer.html)
+* [2025-09-01, 17:31:43](https://news.ycombinator.com/item?id=45094760) - [I made a drive to store files like 40 years ago –.but for ants [video]](https://www.youtube.com/watch?v=GQwTPH67YqY)
 * [2025-09-01, 17:25:08](https://news.ycombinator.com/item?id=45094692) - [One of Britain's largest stocks of second-hand books ever amassed](https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire)
 * [2025-09-01, 17:12:03](https://news.ycombinator.com/item?id=45094559) - [Half an year on Alpine: just musl aside](https://blog.jutty.dev/posts/half-an-year-on-alpine/)
 * [2025-09-01, 17:02:14](https://news.ycombinator.com/item?id=45094471) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)

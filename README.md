@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-05, 14:38:07](https://news.ycombinator.com/item?id=45139122) - [Why Browser Company at $610M is cheap](https://bigtechpr.substack.com/p/why-browser-co-610m-is-cheap)
 * [2025-09-05, 14:20:07](https://news.ycombinator.com/item?id=45138932) - [1TB Raspberry Pi SSD on sale now for $70](https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/)
 * [2025-09-05, 14:01:34](https://news.ycombinator.com/item?id=45138703) - [US economy added just 22,000 jobs in August, unemployment highest in 4 yrs](https://www.cnn.com/2025/09/05/economy/us-jobs-report-august-final)
 * [2025-09-05, 13:13:41](https://news.ycombinator.com/item?id=45138156) - [Development Speed Has Never Been a Bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
@@ -14,8 +13,8 @@
 * [2025-09-05, 11:33:48](https://news.ycombinator.com/item?id=45137373) - [Why ML Needs a New Programming Language](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
 * [2025-09-05, 11:31:58](https://news.ycombinator.com/item?id=45137363) - [Nepal moves to block Facebook, X, YouTube and others](https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others)
 * [2025-09-05, 11:08:26](https://news.ycombinator.com/item?id=45137245) - [Interview with Japanese Demoscener – 0b5vr](https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html)
-* [2025-09-05, 05:33:03](https://news.ycombinator.com/item?id=45135263) - [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
+* [2025-09-05, 00:54:55](https://news.ycombinator.com/item?id=45133935) - [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
 * [2025-09-05, 00:05:50](https://news.ycombinator.com/item?id=45133652) - [Evolving the OCaml Programming Language (2025) [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
 * [2025-09-04, 22:11:09](https://news.ycombinator.com/item?id=45132810) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
 * [2025-09-04, 22:01:11](https://news.ycombinator.com/item?id=45132710) - [io_uring is faster than mmap](https://www.bitflux.ai/blog/memory-is-slow-part2/)
@@ -28,6 +27,7 @@
 * [2025-09-02, 06:17:26](https://news.ycombinator.com/item?id=45099681) - [Making the most of a dumb fax switcher box in the old days](https://rachelbythebay.com/w/2025/09/01/fax/)
 * [2025-09-02, 02:43:00](https://news.ycombinator.com/item?id=45098609) - [The Old Robots Website](https://www.theoldrobots.com/index2.html)
 * [2025-09-01, 19:03:03](https://news.ycombinator.com/item?id=45095591) - [The Diffusion Dilemma](https://arenamag.com/articles/the-diffusion-dilemma)
+* [2025-09-01, 17:31:43](https://news.ycombinator.com/item?id=45094760) - [I made a drive to store files like 40 years ago –.but for ants [video]](https://www.youtube.com/watch?v=GQwTPH67YqY)
 * [2025-09-01, 15:29:09](https://news.ycombinator.com/item?id=45093501) - [Vetinari's Clock (2011)](https://www.waitingforfriday.com/?p=264)
 * [2025-09-01, 07:56:30](https://news.ycombinator.com/item?id=45090553) - [Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC](https://github.com/mindbrix/Rasterizer)
 
