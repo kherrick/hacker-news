@@ -14,7 +14,6 @@
 * [2025-09-05, 12:17:16](https://news.ycombinator.com/item?id=45137656) - [Using Your Phone on Toilet May Give You Hemorrhoids: Study](https://www.nbcnews.com/health/health-news/phone-use-hemorrhoids-bathroom-social-media-scrolling-rcna228080)
 * [2025-09-05, 12:01:09](https://news.ycombinator.com/item?id=45137554) - [Relace (YC W23) Is Hiring for Code LLM's (SF)](https://news.ycombinator.com/item?id=45137554)
 * [2025-09-05, 11:56:59](https://news.ycombinator.com/item?id=45137525) - [I Ditched Docker for Podman (and You Should Too)](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
-* [2025-09-05, 11:33:48](https://news.ycombinator.com/item?id=45137373) - [Why ML Needs a New Programming Language](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
 * [2025-09-05, 11:08:26](https://news.ycombinator.com/item?id=45137245) - [Interview with Japanese Demoscener – 0b5vr](https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html)
 * [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-04, 22:11:09](https://news.ycombinator.com/item?id=45132810) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
@@ -28,6 +27,7 @@
 * [2025-09-02, 08:42:43](https://news.ycombinator.com/item?id=45100516) - [Debugging Rustler on Illumos](https://system-illumination.org/01-rustler.html)
 * [2025-09-02, 06:17:26](https://news.ycombinator.com/item?id=45099681) - [Making the most of a dumb fax switcher box in the old days](https://rachelbythebay.com/w/2025/09/01/fax/)
 * [2025-09-02, 02:43:00](https://news.ycombinator.com/item?id=45098609) - [The Old Robots Website](https://www.theoldrobots.com/index2.html)
+* [2025-09-01, 19:03:03](https://news.ycombinator.com/item?id=45095591) - [The Diffusion Dilemma](https://arenamag.com/articles/the-diffusion-dilemma)
 * [2025-09-01, 15:29:09](https://news.ycombinator.com/item?id=45093501) - [Vetinari's Clock (2011)](https://www.waitingforfriday.com/?p=264)
 * [2025-09-01, 07:56:30](https://news.ycombinator.com/item?id=45090553) - [Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC](https://github.com/mindbrix/Rasterizer)
 
