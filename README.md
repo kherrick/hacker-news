@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-05, 06:04:42](https://news.ycombinator.com/item?id=45135427) - [Deciphering the Kelly Criterion](https://farhadg.com/blog/escaping-odds/)
+* [2025-09-05, 06:25:22](https://news.ycombinator.com/item?id=45135529) - [The Scam of Age Verification](https://pornbiz.com/post/17/the_scam_of_age_verification)
+* [2025-09-05, 06:04:42](https://news.ycombinator.com/item?id=45135427) - [Escaping the odds and a formula for life (2024)](https://farhadg.com/blog/escaping-odds/)
 * [2025-09-05, 05:39:37](https://news.ycombinator.com/item?id=45135302) - [Why RDF Is the Natural Knowledge Layer for AI Systems](https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5)
-* [2025-09-05, 05:33:03](https://news.ycombinator.com/item?id=45135263) - [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-05, 02:35:31](https://news.ycombinator.com/item?id=45134489) - [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
 * [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-05, 00:54:55](https://news.ycombinator.com/item?id=45133935) - [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
