@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 14:38:07](https://news.ycombinator.com/item?id=45139122) - [Why Browser Company at $610M is cheap](https://bigtechpr.substack.com/p/why-browser-co-610m-is-cheap)
 * [2025-09-05, 14:20:07](https://news.ycombinator.com/item?id=45138932) - [1TB Raspberry Pi SSD on sale now for $70](https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/)
 * [2025-09-05, 14:01:34](https://news.ycombinator.com/item?id=45138703) - [US economy added just 22,000 jobs in August, unemployment highest in 4 yrs](https://www.cnn.com/2025/09/05/economy/us-jobs-report-august-final)
 * [2025-09-05, 13:13:41](https://news.ycombinator.com/item?id=45138156) - [Development Speed Has Never Been a Bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
