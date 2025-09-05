@@ -2,12 +2,12 @@
 
 * [2025-09-05, 06:25:22](https://news.ycombinator.com/item?id=45135529) - [Age verification doesn’t work](https://pornbiz.com/post/17/the_scam_of_age_verification)
 * [2025-09-05, 06:04:42](https://news.ycombinator.com/item?id=45135427) - [Escaping the odds and a formula for life (2024)](https://farhadg.com/blog/escaping-odds/)
-* [2025-09-05, 05:39:37](https://news.ycombinator.com/item?id=45135302) - [Why RDF Is the Natural Knowledge Layer for AI Systems](https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5)
 * [2025-09-05, 04:48:24](https://news.ycombinator.com/item?id=45135061) - [Poisoning Well for LLMs](https://heydonworks.com/article/poisoning-well/)
 * [2025-09-05, 02:35:31](https://news.ycombinator.com/item?id=45134489) - [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
 * [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-05, 00:54:55](https://news.ycombinator.com/item?id=45133935) - [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
 * [2025-09-05, 00:05:50](https://news.ycombinator.com/item?id=45133652) - [Evolving the OCaml Programming Language (2025) [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
+* [2025-09-04, 22:47:45](https://news.ycombinator.com/item?id=45133109) - [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
 * [2025-09-04, 22:11:09](https://news.ycombinator.com/item?id=45132810) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
 * [2025-09-04, 22:01:11](https://news.ycombinator.com/item?id=45132710) - [io_uring is faster than mmap](https://www.bitflux.ai/blog/memory-is-slow-part2/)
 * [2025-09-04, 21:36:50](https://news.ycombinator.com/item?id=45132498) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
