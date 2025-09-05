@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-05, 22:20:37](https://news.ycombinator.com/item?id=45144337) - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
+* [2025-09-05, 21:38:50](https://news.ycombinator.com/item?id=45143945) - [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
 * [2025-09-05, 21:33:51](https://news.ycombinator.com/item?id=45143879) - [Google killing 2 million nest thermostats next month](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
-* [2025-09-05, 21:21:08](https://news.ycombinator.com/item?id=45143759) - [US special forces botched 2019 North Korean mission](https://www.reuters.com/world/asia-pacific/us-special-forces-killed-north-korean-civilians-in-botched-2019-mission-nyt-says-2025-09-05/)
+* [2025-09-05, 21:21:08](https://news.ycombinator.com/item?id=45143759) - [US special forces killed North Korean civilians in botched 2019 mission](https://www.reuters.com/world/asia-pacific/us-special-forces-killed-north-korean-civilians-in-botched-2019-mission-nyt-says-2025-09-05/)
 * [2025-09-05, 21:00:26](https://news.ycombinator.com/item?id=45143548) - [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
 * [2025-09-05, 20:11:39](https://news.ycombinator.com/item?id=45143077) - [I kissed comment culture goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
@@ -14,7 +16,6 @@
 * [2025-09-05, 16:25:48](https://news.ycombinator.com/item?id=45140381) - [MentraOS – open-source Smart glasses OS](https://github.com/Mentra-Community/MentraOS)
 * [2025-09-05, 14:52:37](https://news.ycombinator.com/item?id=45139270) - [A computer upgrade has shut down BART](https://www.bart.gov/news/articles/2025/news20250905)
 * [2025-09-05, 14:34:57](https://news.ycombinator.com/item?id=45139088) - [Purposeful animations](https://emilkowal.ski/ui/you-dont-need-animations)
-* [2025-09-05, 13:13:41](https://news.ycombinator.com/item?id=45138156) - [Development speed is not a bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
 * [2025-09-05, 12:36:47](https://news.ycombinator.com/item?id=45137802) - [I'm absolutely right](https://absolutelyright.lol/)
 * [2025-09-05, 11:56:59](https://news.ycombinator.com/item?id=45137525) - [I ditched Docker for Podman](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
 * [2025-09-05, 11:33:48](https://news.ycombinator.com/item?id=45137373) - [ML needs a new programming language – Interview with Chris Lattner](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
@@ -28,7 +29,6 @@
 * [2025-09-02, 20:14:51](https://news.ycombinator.com/item?id=45108401) - [Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS](https://huggingface.co/swiss-ai/Apertus-70B-2509)
 * [2025-09-02, 14:21:12](https://news.ycombinator.com/item?id=45103492) - [Rearchitecting GitHub Pages (2015)](https://github.blog/news-insights/rearchitecting-github-pages/)
 * [2025-09-02, 11:45:46](https://news.ycombinator.com/item?id=45101797) - [How big are our embeddings now and why?](https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/)
-* [2025-09-02, 08:42:43](https://news.ycombinator.com/item?id=45100516) - [Debugging Rustler on Illumos](https://system-illumination.org/01-rustler.html)
 * [2025-09-02, 02:43:00](https://news.ycombinator.com/item?id=45098609) - [The Old Robots Web Site](https://www.theoldrobots.com/index2.html)
 
 ## [Archives](archives/index.md)
