@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-05, 03:35:04",
+      "https://news.ycombinator.com/item?id=45134771"
+    ],
+    [
+      "Expanding Economic Opportunity with AI",
+      "https://openai.com/index/expanding-economic-opportunity-with-ai/"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 02:25:48",
+      "https://news.ycombinator.com/item?id=45134438"
+    ],
+    [
+      "simonw has vibe-coded 124 useful tools",
+      "https://simonwillison.net/2025/Sep/4/highlighted-tools/"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 00:55:52",
       "https://news.ycombinator.com/item?id=45133938"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-09-04, 21:06:10",
-      "https://news.ycombinator.com/item?id=45132183"
-    ],
-    [
-      "Rocketships and Slingshots",
-      "https://postround.substack.com/p/rocketships-and-slingshots"
-    ]
-  ],
-  [
-    [
       "2025-09-04, 20:33:53",
       "https://news.ycombinator.com/item?id=45131921"
     ],
@@ -147,16 +157,6 @@
     [
       "Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM",
       "https://www.ycombinator.com/companies/artie/jobs"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 16:55:06",
-      "https://news.ycombinator.com/item?id=45129369"
-    ],
-    [
-      "Wal3: A Write-Ahead Log for Chroma, Built on Object Storage",
-      "https://trychroma.com/engineering/wal3"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-09-04, 09:27:53",
-      "https://news.ycombinator.com/item?id=45125312"
-    ],
-    [
-      "The Color of the Future: A history of blue",
-      "https://www.hopefulmons.com/p/the-color-of-the-future"
-    ]
-  ],
-  [
-    [
       "2025-09-04, 02:37:42",
       "https://news.ycombinator.com/item?id=45122885"
     ],
@@ -287,6 +277,16 @@
     [
       "3D QR Codes",
       "https://erikdemaine.org/prints/QR/"
+    ]
+  ],
+  [
+    [
+      "2025-09-01, 07:56:30",
+      "https://news.ycombinator.com/item?id=45090553"
+    ],
+    [
+      "Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC",
+      "https://github.com/mindbrix/Rasterizer"
     ]
   ],
   [
