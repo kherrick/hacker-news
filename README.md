@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-05, 20:11:39](https://news.ycombinator.com/item?id=45143077) - [The Day I Kissed Comment Culture Goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
 * [2025-09-05, 19:08:49](https://news.ycombinator.com/item?id=45142397) - [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
 * [2025-09-05, 18:15:42](https://news.ycombinator.com/item?id=45141762) - [Fantastic Pretraining Optimizers and Where to Find Them](https://arxiv.org/abs/2509.02046)
@@ -20,7 +21,6 @@
 * [2025-09-05, 07:57:21](https://news.ycombinator.com/item?id=45136103) - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 * [2025-09-05, 06:43:38](https://news.ycombinator.com/item?id=45135623) - [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 05:56:19](https://news.ycombinator.com/item?id=45135391) - [Type checking is a symptom, not a solution](https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a)
-* [2025-09-05, 05:33:03](https://news.ycombinator.com/item?id=45135263) - [Show HN: Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-05, 04:48:24](https://news.ycombinator.com/item?id=45135061) - [Poisoning Well](https://heydonworks.com/article/poisoning-well/)
 * [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-02, 20:25:45](https://news.ycombinator.com/item?id=45108536) - [All of our lives overlap in the Network Of Time](https://networkoftime.com/)
