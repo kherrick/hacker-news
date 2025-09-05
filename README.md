@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-05, 22:27:46](https://news.ycombinator.com/item?id=45144403) - [Supercharger for Business – Tesla](https://www.tesla.com/supercharger-for-business)
 * [2025-09-05, 22:20:37](https://news.ycombinator.com/item?id=45144337) - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 * [2025-09-05, 22:09:10](https://news.ycombinator.com/item?id=45144234) - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
 * [2025-09-05, 21:38:50](https://news.ycombinator.com/item?id=45143945) - [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
@@ -14,7 +15,6 @@
 * [2025-09-05, 16:57:45](https://news.ycombinator.com/item?id=45140786) - [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
 * [2025-09-05, 16:52:34](https://news.ycombinator.com/item?id=45140730) - [European Commission fines Google €2.95B over abusive ad tech practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992)
 * [2025-09-05, 16:25:48](https://news.ycombinator.com/item?id=45140381) - [MentraOS – open-source Smart glasses OS](https://github.com/Mentra-Community/MentraOS)
-* [2025-09-05, 14:52:37](https://news.ycombinator.com/item?id=45139270) - [A computer upgrade has shut down BART](https://www.bart.gov/news/articles/2025/news20250905)
 * [2025-09-05, 14:34:57](https://news.ycombinator.com/item?id=45139088) - [Purposeful animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-05, 12:36:47](https://news.ycombinator.com/item?id=45137802) - [I'm absolutely right](https://absolutelyright.lol/)
 * [2025-09-05, 11:56:59](https://news.ycombinator.com/item?id=45137525) - [I ditched Docker for Podman](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
