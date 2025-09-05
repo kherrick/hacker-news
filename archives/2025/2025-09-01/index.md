@@ -53,6 +53,7 @@
 * [2025-09-01, 14:21:12](https://news.ycombinator.com/item?id=45092880) - [AI enters the grant game, picking winners](https://www.science.org/content/article/ai-enters-grant-game-picking-winners)
 * [2025-09-01, 14:10:27](https://news.ycombinator.com/item?id=45092814) - [Vibe coded a website to share vibe coding tips](https://vibecodinglearn.com)
 * [2025-09-01, 14:00:26](https://news.ycombinator.com/item?id=45092734) - [Show HN: Simple modenized .NET NuGet server reached RC](https://github.com/kekyo/nuget-server)
+* [2025-09-01, 13:38:49](https://news.ycombinator.com/item?id=45092621) - [Show HN: First Half of \"Swimming in Tech Debt\" (book about tech debt)](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-01, 13:35:52](https://news.ycombinator.com/item?id=45092605) - [Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 13:14:23](https://news.ycombinator.com/item?id=45092471) - [Math Moments: Blaise Pascal](https://kidswholovemath.substack.com/p/math-moments-blaise-pascal)
