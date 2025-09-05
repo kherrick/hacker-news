@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 11:31:58](https://news.ycombinator.com/item?id=45137363) - [Nepal moves to block Facebook, X, YouTube and others](https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others)
+* [2025-09-05, 10:18:31](https://news.ycombinator.com/item?id=45136949) - [U.S. imposes sanctions on 3 Palestinian human rights groups](https://www.reuters.com/world/middle-east/us-imposes-sanctions-palestinians-who-asked-israel-war-crimes-probe-2025-09-04/)
 * [2025-09-05, 09:40:08](https://news.ycombinator.com/item?id=45136728) - [I have two Amazon Echos that I never use, but they burn gbs a day of bandwidth](https://twitter.com/davepl1968/status/1963803025572770212)
 * [2025-09-05, 09:13:25](https://news.ycombinator.com/item?id=45136558) - [SAP splashes €20B on Euro sovereign cloud push](https://www.theregister.com/2025/09/04/sap_sovereign_cloud/)
 * [2025-09-05, 08:43:01](https://news.ycombinator.com/item?id=45136367) - [IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing](https://www.usenix.org/conference/atc25/presentation/landsberg)
