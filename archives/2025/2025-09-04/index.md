@@ -28,6 +28,7 @@
 * [2025-09-04, 16:39:03](https://news.ycombinator.com/item?id=45129160) - [We built an interpreter for Swift (a compiled language)](https://www.bitrig.app/blog/swift-interpreter)
 * [2025-09-04, 16:32:24](https://news.ycombinator.com/item?id=45129085) - [Stripe Launches L1 Blockchain: Tempo](https://tempo.xyz)
 * [2025-09-04, 16:27:41](https://news.ycombinator.com/item?id=45129031) - [Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks](https://news.ycombinator.com/item?id=45129031)
+* [2025-09-04, 16:13:53](https://news.ycombinator.com/item?id=45128889) - [Ask HN: What Arc/Dia features should we prioritize?](https://github.com/browseros-ai/BrowserOS/issues/99)
 * [2025-09-04, 15:52:43](https://news.ycombinator.com/item?id=45128652) - [Show HN: A Map of All YC Companies (5,300 Startups by Batch and Location)](https://yc.foundersaround.com/)
 * [2025-09-04, 15:51:26](https://news.ycombinator.com/item?id=45128640) - [Google deletes net-zero pledge from sustainability website](https://www.nationalobserver.com/2025/09/04/investigations/google-net-zero-sustainability)
 * [2025-09-04, 15:49:52](https://news.ycombinator.com/item?id=45128621) - [Show HN: I built FlipCards – a flashcard app with variations to improve learning](https://flipcardsapp.vercel.app/)
