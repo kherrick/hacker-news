@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-05, 07:57:21](https://news.ycombinator.com/item?id=45136103) - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 * [2025-09-05, 07:44:26](https://news.ycombinator.com/item?id=45136008) - [Fiber Concurrency](https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency)
 * [2025-09-05, 06:43:38](https://news.ycombinator.com/item?id=45135623) - [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 06:04:42](https://news.ycombinator.com/item?id=45135427) - [Escaping the odds and a formula for life (2024)](https://farhadg.com/blog/escaping-odds/)
-* [2025-09-05, 05:29:59](https://news.ycombinator.com/item?id=45135248) - [Show HN: Webapp to organize search for properties when renting/buying](https://dash.collabnest.app/demo_project/1b0b7472-b2c9-4de5-920d-b0020b7e2186)
 * [2025-09-05, 04:48:24](https://news.ycombinator.com/item?id=45135061) - [Poisoning Well for LLMs](https://heydonworks.com/article/poisoning-well/)
 * [2025-09-05, 02:35:31](https://news.ycombinator.com/item?id=45134489) - [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
 * [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)

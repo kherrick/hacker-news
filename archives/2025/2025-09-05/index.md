@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 07:57:21](https://news.ycombinator.com/item?id=45136103) - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 * [2025-09-05, 07:44:26](https://news.ycombinator.com/item?id=45136008) - [Fiber Concurrency](https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency)
 * [2025-09-05, 06:43:38](https://news.ycombinator.com/item?id=45135623) - [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 06:25:22](https://news.ycombinator.com/item?id=45135529) - [The Scam of Age Verification](https://pornbiz.com/post/17/the_scam_of_age_verification)
