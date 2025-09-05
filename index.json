@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-09-05, 12:17:16",
+      "https://news.ycombinator.com/item?id=45137656"
+    ],
+    [
+      "Using Your Phone on Toilet May Give You Hemorrhoids: Study",
+      "https://www.nbcnews.com/health/health-news/phone-use-hemorrhoids-bathroom-social-media-scrolling-rcna228080"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 12:01:09",
       "https://news.ycombinator.com/item?id=45137554"
     ],
@@ -97,26 +107,6 @@
     [
       "Interview with Japanese Demoscener – 0b5vr",
       "https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 10:39:41",
-      "https://news.ycombinator.com/item?id=45137097"
-    ],
-    [
-      "Heap-based buffer overflow in Kernel Streaming",
-      "https://www.crowdfense.com/cve-2025-53149-windows-ksthunk-heap-overflow/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 08:43:01",
-      "https://news.ycombinator.com/item?id=45136367"
-    ],
-    [
-      "IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing",
-      "https://www.usenix.org/conference/atc25/presentation/landsberg"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "WiFi signals can measure heart rate",
       "https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 08:42:43",
+      "https://news.ycombinator.com/item?id=45100516"
+    ],
+    [
+      "Debugging Rustler on Illumos",
+      "https://system-illumination.org/01-rustler.html"
     ]
   ],
   [
