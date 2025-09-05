@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 07:44:26](https://news.ycombinator.com/item?id=45136008) - [Fiber Concurrency](https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency)
+* [2025-09-05, 06:43:38](https://news.ycombinator.com/item?id=45135623) - [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 06:25:22](https://news.ycombinator.com/item?id=45135529) - [The Scam of Age Verification](https://pornbiz.com/post/17/the_scam_of_age_verification)
 * [2025-09-05, 06:04:42](https://news.ycombinator.com/item?id=45135427) - [Deciphering the Kelly Criterion](https://farhadg.com/blog/escaping-odds/)
 * [2025-09-05, 05:39:37](https://news.ycombinator.com/item?id=45135302) - [Why RDF Is the Natural Knowledge Layer for AI Systems](https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5)
 * [2025-09-05, 05:33:03](https://news.ycombinator.com/item?id=45135263) - [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
+* [2025-09-05, 05:29:59](https://news.ycombinator.com/item?id=45135248) - [Show HN: Webapp to organize search for properties when renting/buying](https://dash.collabnest.app/demo_project/1b0b7472-b2c9-4de5-920d-b0020b7e2186)
 * [2025-09-05, 04:48:24](https://news.ycombinator.com/item?id=45135061) - [Poisoning Well for LLMs](https://heydonworks.com/article/poisoning-well/)
 * [2025-09-05, 03:35:04](https://news.ycombinator.com/item?id=45134771) - [Expanding Economic Opportunity with AI](https://openai.com/index/expanding-economic-opportunity-with-ai/)
 * [2025-09-05, 02:35:31](https://news.ycombinator.com/item?id=45134489) - [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
