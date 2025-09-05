@@ -72,6 +72,7 @@
 * [2025-09-01, 08:54:59](https://news.ycombinator.com/item?id=45090872) - [Show HN: Use \"-f**k\" to kill Google AI Overview](https://news.ycombinator.com/item?id=45090872)
 * [2025-09-01, 08:38:35](https://news.ycombinator.com/item?id=45090777) - [Say Bye with JavaScript Beacon](https://hemath.dev/blog/say-bye-with-javascript-beacon/)
 * [2025-09-01, 08:14:53](https://news.ycombinator.com/item?id=45090654) - [OSMAnd vs. Organic Maps](https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html)
+* [2025-09-01, 07:56:30](https://news.ycombinator.com/item?id=45090553) - [Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC](https://github.com/mindbrix/Rasterizer)
 * [2025-09-01, 07:01:13](https://news.ycombinator.com/item?id=45090216) - [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
 * [2025-09-01, 06:39:37](https://news.ycombinator.com/item?id=45090093) - [What happens when 10k AI agents are left to self-govern in a virtual world?](https://aivilization.ai/)
 * [2025-09-01, 06:25:04](https://news.ycombinator.com/item?id=45090007) - [Catholic churches in France have a bad landlord: the French government](https://thecatholicherald.com/article/catholic-churches-in-france-suffer-from-a-bad-landlord-the-french-government)
