@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-05, 21:00:26](https://news.ycombinator.com/item?id=45143548) - [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
+* [2025-09-05, 20:24:39](https://news.ycombinator.com/item?id=45143209) - [California AG to OpenAI: Harm to Children Will Not Be Tolerated](https://oag.ca.gov/news/press-releases/attorney-general-bonta-openai-harm-children-will-not-be-tolerated)
 * [2025-09-05, 20:11:39](https://news.ycombinator.com/item?id=45143077) - [The Day I Kissed Comment Culture Goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
 * [2025-09-05, 19:08:49](https://news.ycombinator.com/item?id=45142397) - [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
@@ -13,7 +15,6 @@
 * [2025-09-05, 14:34:57](https://news.ycombinator.com/item?id=45139088) - [Purposeful animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-05, 13:13:41](https://news.ycombinator.com/item?id=45138156) - [Development speed is not a bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
 * [2025-09-05, 12:36:47](https://news.ycombinator.com/item?id=45137802) - [I'm absolutely right](https://absolutelyright.lol/)
-* [2025-09-05, 12:01:09](https://news.ycombinator.com/item?id=45137554) - [Relace (YC W23) Is Hiring for Code LLMs (SF)](https://news.ycombinator.com/item?id=45137554)
 * [2025-09-05, 11:56:59](https://news.ycombinator.com/item?id=45137525) - [I ditched Docker for Podman](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
 * [2025-09-05, 11:33:48](https://news.ycombinator.com/item?id=45137373) - [ML needs a new programming language – Interview with Chris Lattner](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
 * [2025-09-05, 11:31:58](https://news.ycombinator.com/item?id=45137363) - [Nepal moves to block Facebook, X, YouTube and others](https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others)
@@ -22,7 +23,6 @@
 * [2025-09-05, 06:43:38](https://news.ycombinator.com/item?id=45135623) - [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 05:56:19](https://news.ycombinator.com/item?id=45135391) - [Type checking is a symptom, not a solution](https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a)
 * [2025-09-05, 04:48:24](https://news.ycombinator.com/item?id=45135061) - [Poisoning Well](https://heydonworks.com/article/poisoning-well/)
-* [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-02, 20:25:45](https://news.ycombinator.com/item?id=45108536) - [All of our lives overlap in the Network Of Time](https://networkoftime.com/)
 * [2025-09-02, 20:14:51](https://news.ycombinator.com/item?id=45108401) - [Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS](https://huggingface.co/swiss-ai/Apertus-70B-2509)
 * [2025-09-02, 19:39:47](https://news.ycombinator.com/item?id=45108026) - [How to Spot (and Fix) 5 Common Performance Bottlenecks in Pandas Workflows](https://developer.nvidia.com/blog/how-to-spot-and-fix-5-common-performance-bottlenecks-in-pandas-workflows/)
