@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45141636"
     ],
     [
-      "Making a Font of My Handwriting",
+      "Making a font of my handwriting",
       "https://chameth.com/making-a-font-of-my-handwriting/"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Show HN: Open-sourcing our text-to-CAD app",
       "https://github.com/Adam-CAD/CADAM"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 16:57:45",
+      "https://news.ycombinator.com/item?id=45140786"
+    ],
+    [
+      "Freeway guardrails are now a favorite target of thieves",
+      "https://laist.com/news/transportation/guardrails-aluminum-theft"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "MentraOS – open-source Smart glasses OS",
       "https://github.com/Mentra-Community/MentraOS"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 15:23:29",
-      "https://news.ycombinator.com/item?id=45139640"
-    ],
-    [
-      "Morse Code Translator",
-      "https://morse-coder.com/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-09-04, 16:13:53",
-      "https://news.ycombinator.com/item?id=45128889"
-    ],
-    [
-      "Ask HN: What Arc/Dia features should we prioritize?",
-      "https://github.com/browseros-ai/BrowserOS/issues/99"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 20:25:45",
       "https://news.ycombinator.com/item?id=45108536"
     ],
@@ -247,6 +237,16 @@
     [
       "Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS",
       "https://huggingface.co/swiss-ai/Apertus-70B-2509"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 19:39:47",
+      "https://news.ycombinator.com/item?id=45108026"
+    ],
+    [
+      "How to Spot (and Fix) 5 Common Performance Bottlenecks in Pandas Workflows",
+      "https://developer.nvidia.com/blog/how-to-spot-and-fix-5-common-performance-bottlenecks-in-pandas-workflows/"
     ]
   ],
   [
