@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 12:51:27](https://news.ycombinator.com/item?id=45137927) - [Data Modeling Guide for Real-Time Analytics with ClickHouse](https://www.ssp.sh/blog/practical-data-modeling-clickhouse/)
+* [2025-09-05, 12:50:00](https://news.ycombinator.com/item?id=45137914) - [Lava RGB](https://amaiorano.io/2025/09/03/lava-rgb.html)
+* [2025-09-05, 12:36:47](https://news.ycombinator.com/item?id=45137802) - [You're absolutely Right!](https://absolutelyright.lol/)
 * [2025-09-05, 12:17:22](https://news.ycombinator.com/item?id=45137658) - [OpenAI eats jobs, then offers to help you find a new one at Walmart](https://www.theregister.com/2025/09/05/openai_jobs_board/)
 * [2025-09-05, 12:01:09](https://news.ycombinator.com/item?id=45137554) - [Relace (YC W23) Is Hiring for Code LLM's (SF)](https://news.ycombinator.com/item?id=45137554)
 * [2025-09-05, 11:56:59](https://news.ycombinator.com/item?id=45137525) - [I Ditched Docker for Podman (and You Should Too)](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
 * [2025-09-05, 11:33:48](https://news.ycombinator.com/item?id=45137373) - [Why ML Needs a New Programming Language](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
 * [2025-09-05, 11:31:58](https://news.ycombinator.com/item?id=45137363) - [Nepal moves to block Facebook, X, YouTube and others](https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others)
 * [2025-09-05, 11:08:26](https://news.ycombinator.com/item?id=45137245) - [Interview with Japanese Demoscener – 0b5vr](https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html)
+* [2025-09-05, 10:39:41](https://news.ycombinator.com/item?id=45137097) - [Heap-based buffer overflow in Kernel Streaming](https://www.crowdfense.com/cve-2025-53149-windows-ksthunk-heap-overflow/)
 * [2025-09-05, 10:18:31](https://news.ycombinator.com/item?id=45136949) - [U.S. imposes sanctions on 3 Palestinian human rights groups](https://www.reuters.com/world/middle-east/us-imposes-sanctions-palestinians-who-asked-israel-war-crimes-probe-2025-09-04/)
 * [2025-09-05, 09:40:08](https://news.ycombinator.com/item?id=45136728) - [I have two Amazon Echos that I never use, but they burn gbs a day of bandwidth](https://twitter.com/davepl1968/status/1963803025572770212)
 * [2025-09-05, 09:13:25](https://news.ycombinator.com/item?id=45136558) - [SAP splashes €20B on Euro sovereign cloud push](https://www.theregister.com/2025/09/04/sap_sovereign_cloud/)
