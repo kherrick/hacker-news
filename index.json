@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-09-05, 15:25:10",
-      "https://news.ycombinator.com/item?id=45139656"
-    ],
-    [
-      "Protobuffers Are Wrong (2018)",
-      "https://reasonablypolymorphic.com/blog/protos-are-wrong/"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 14:52:37",
       "https://news.ycombinator.com/item?id=45139270"
     ],
@@ -67,16 +57,6 @@
     [
       "Data modeling guide for real-time analytics with ClickHouse",
       "https://www.ssp.sh/blog/practical-data-modeling-clickhouse/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 12:50:00",
-      "https://news.ycombinator.com/item?id=45137914"
-    ],
-    [
-      "Lava RGB",
-      "https://amaiorano.io/2025/09/03/lava-rgb.html"
     ]
   ],
   [
@@ -151,6 +131,56 @@
   ],
   [
     [
+      "2025-09-05, 07:57:21",
+      "https://news.ycombinator.com/item?id=45136103"
+    ],
+    [
+      "I bought the cheapest EV, a used Nissan Leaf",
+      "https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 06:43:38",
+      "https://news.ycombinator.com/item?id=45135623"
+    ],
+    [
+      "SQL Needed Structure",
+      "https://www.scattered-thoughts.net/writing/sql-needed-structure/"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 05:56:19",
+      "https://news.ycombinator.com/item?id=45135391"
+    ],
+    [
+      "Type checking is a symptom, not a solution",
+      "https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 05:33:03",
+      "https://news.ycombinator.com/item?id=45135263"
+    ],
+    [
+      "Show HN: Swimming in Tech Debt",
+      "https://helpthisbook.com/lou-franco/swimming-in-tech-debt"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 04:48:24",
+      "https://news.ycombinator.com/item?id=45135061"
+    ],
+    [
+      "Poisoning Well",
+      "https://heydonworks.com/article/poisoning-well/"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 00:55:52",
       "https://news.ycombinator.com/item?id=45133938"
     ],
@@ -167,16 +197,6 @@
     [
       "What Is the Fourier Transform?",
       "https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 22:01:11",
-      "https://news.ycombinator.com/item?id=45132710"
-    ],
-    [
-      "io_uring is faster than mmap",
-      "https://www.bitflux.ai/blog/memory-is-slow-part2/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-09-04, 09:16:28",
-      "https://news.ycombinator.com/item?id=45125247"
-    ],
-    [
-      "Show HN: Vapor – A notepad that fades away as you type",
-      "https://enda.sh/vapor/"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 11:45:46",
       "https://news.ycombinator.com/item?id=45101797"
     ],
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2025-09-02, 06:17:26",
+      "https://news.ycombinator.com/item?id=45099681"
+    ],
+    [
+      "Making the most of a dumb fax switcher box in the old days",
+      "https://rachelbythebay.com/w/2025/09/01/fax/"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 02:43:00",
       "https://news.ycombinator.com/item?id=45098609"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-09-01, 22:49:26",
-      "https://news.ycombinator.com/item?id=45097303"
-    ],
-    [
-      "Building a WASM compiler in Roc (series)",
-      "https://dusty.phillips.codes/roc/"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 15:29:09",
       "https://news.ycombinator.com/item?id=45093501"
     ],
     [
       "Vetinari's Clock (2011)",
       "https://www.waitingforfriday.com/?p=264"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 07:56:30",
-      "https://news.ycombinator.com/item?id=45090553"
-    ],
-    [
-      "Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC",
-      "https://github.com/mindbrix/Rasterizer"
     ]
   ],
   [
