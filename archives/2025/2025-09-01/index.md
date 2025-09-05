@@ -56,6 +56,7 @@
 * [2025-09-01, 14:00:26](https://news.ycombinator.com/item?id=45092734) - [Show HN: Simple modenized .NET NuGet server reached RC](https://github.com/kekyo/nuget-server)
 * [2025-09-01, 13:38:49](https://news.ycombinator.com/item?id=45092621) - [Show HN: First Half of \"Swimming in Tech Debt\" (book about tech debt)](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-01, 13:35:52](https://news.ycombinator.com/item?id=45092605) - [Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
+* [2025-09-01, 13:24:07](https://news.ycombinator.com/item?id=45092515) - [Experimental Hook-and-Loop Attachment System for Walls and Floors](https://www.core77.com/posts/138350/Experimental-Hook-and-Loop-Attachment-System-for-Walls-and-Floors)
 * [2025-09-01, 13:17:56](https://news.ycombinator.com/item?id=45092490) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 13:14:23](https://news.ycombinator.com/item?id=45092471) - [Math Moments: Blaise Pascal](https://kidswholovemath.substack.com/p/math-moments-blaise-pascal)
 * [2025-09-01, 12:49:57](https://news.ycombinator.com/item?id=45092324) - [Tetris is NP-hard even with O(1) rows or columns [pdf]](https://martindemaine.org/papers/ThinTetris_JIP/paper.pdf)
