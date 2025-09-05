@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-09-05, 16:25:48",
+      "https://news.ycombinator.com/item?id=45140381"
+    ],
+    [
+      "MentraOS – open-source Smart glasses OS",
+      "https://github.com/Mentra-Community/MentraOS"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 15:51:27",
       "https://news.ycombinator.com/item?id=45139954"
     ],
     [
       "South Korea: 'many' of its nationals detained in ICE raid on GA Hyundai facility",
       "https://www.nbcnews.com/news/us-news/ice-hyundai-plant-georgia-enforcement-action-rcna229148"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 15:44:56",
+      "https://news.ycombinator.com/item?id=45139891"
+    ],
+    [
+      "Tech CEOs Take Turns Grovelling at Feast of Embarrassments",
+      "https://pxlnv.com/linklog/trump-feast-of-embarrassments/"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45137802"
     ],
     [
-      "You're absolutely Right!",
+      "I'm absolutely right",
       "https://absolutelyright.lol/"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=45137525"
     ],
     [
-      "I Ditched Docker for Podman (and You Should Too)",
+      "I Ditched Docker for Podman",
       "https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too"
     ]
   ],
@@ -211,22 +231,22 @@
   ],
   [
     [
+      "2025-09-04, 16:13:53",
+      "https://news.ycombinator.com/item?id=45128889"
+    ],
+    [
+      "Ask HN: What Arc/Dia features should we prioritize?",
+      "https://github.com/browseros-ai/BrowserOS/issues/99"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 15:30:20",
       "https://news.ycombinator.com/item?id=45128391"
     ],
     [
       "Wikipedia survives while the rest of the internet breaks",
       "https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 14:53:50",
-      "https://news.ycombinator.com/item?id=45127983"
-    ],
-    [
-      "WiFi signals can measure heart rate",
-      "https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/"
     ]
   ],
   [
@@ -247,16 +267,6 @@
     [
       "Debugging Rustler on Illumos",
       "https://system-illumination.org/01-rustler.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 06:17:26",
-      "https://news.ycombinator.com/item?id=45099681"
-    ],
-    [
-      "Making the most of a dumb fax switcher box in the old days",
-      "https://rachelbythebay.com/w/2025/09/01/fax/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Vetinari's Clock (2011)",
       "https://www.waitingforfriday.com/?p=264"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 07:56:30",
-      "https://news.ycombinator.com/item?id=45090553"
-    ],
-    [
-      "Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC",
-      "https://github.com/mindbrix/Rasterizer"
     ]
   ]
 ]
