@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
+* [2025-09-05, 19:08:49](https://news.ycombinator.com/item?id=45142397) - [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
 * [2025-09-05, 18:15:42](https://news.ycombinator.com/item?id=45141762) - [Fantastic Pretraining Optimizers and Where to Find Them](https://arxiv.org/abs/2509.02046)
 * [2025-09-05, 18:06:33](https://news.ycombinator.com/item?id=45141636) - [Making a Font of My Handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
 * [2025-09-05, 17:09:35](https://news.ycombinator.com/item?id=45140921) - [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)

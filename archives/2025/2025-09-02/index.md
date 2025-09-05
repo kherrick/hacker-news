@@ -52,6 +52,7 @@
 * [2025-09-02, 15:07:47](https://news.ycombinator.com/item?id=45104082) - [Americans Lose Faith That Hard Work Leads to Economic Gains, WSJ-NORC Poll Finds](https://www.wsj.com/economy/wsj-norc-economic-poll-73bce003)
 * [2025-09-02, 14:49:40](https://news.ycombinator.com/item?id=45103857) - [Removing Guix from Debian](https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/)
 * [2025-09-02, 14:32:47](https://news.ycombinator.com/item?id=45103646) - [You don't want to hire \"the best engineers\"](https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers)
+* [2025-09-02, 14:21:12](https://news.ycombinator.com/item?id=45103492) - [Rearchitecting GitHub Pages (2015)](https://github.blog/news-insights/rearchitecting-github-pages/)
 * [2025-09-02, 14:17:07](https://news.ycombinator.com/item?id=45103436) - [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra)
 * [2025-09-02, 13:58:27](https://news.ycombinator.com/item?id=45103205) - [Vector search on our codebase transformed our SDLC automation](https://medium.com/@antonybrahin/grounding-ai-in-reality-how-vector-search-on-our-codebase-transformed-our-sdlc-automation-7d068b1244a8)
 * [2025-09-02, 13:47:13](https://news.ycombinator.com/item?id=45103065) - [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/)
