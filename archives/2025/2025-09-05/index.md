@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 18:06:33](https://news.ycombinator.com/item?id=45141636) - [Making a Font of My Handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
 * [2025-09-05, 17:09:35](https://news.ycombinator.com/item?id=45140921) - [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
 * [2025-09-05, 16:57:45](https://news.ycombinator.com/item?id=45140786) - [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
 * [2025-09-05, 16:55:46](https://news.ycombinator.com/item?id=45140767) - [Why Everybody Is Losing Money on AI](https://www.wheresyoured.at/why-everybody-is-losing-money-on-ai/)

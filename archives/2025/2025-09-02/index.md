@@ -10,6 +10,7 @@
 * [2025-09-02, 21:31:37](https://news.ycombinator.com/item?id=45109324) - [You're Not Interviewing for the Job. You're Auditioning for the Job Title](https://idiallo.com/blog/performing-for-the-job-title)
 * [2025-09-02, 20:39:50](https://news.ycombinator.com/item?id=45108727) - [Judge Orders Google to Share Search Results to Help Resolve Monopoly](https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html)
 * [2025-09-02, 20:26:47](https://news.ycombinator.com/item?id=45108548) - [Google gets to keep Chrome but is barred from exclusive search deals](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
+* [2025-09-02, 20:25:45](https://news.ycombinator.com/item?id=45108536) - [All of our lives overlap in the Network Of Time](https://networkoftime.com/)
 * [2025-09-02, 20:14:51](https://news.ycombinator.com/item?id=45108401) - [Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS](https://huggingface.co/swiss-ai/Apertus-70B-2509)
 * [2025-09-02, 20:02:57](https://news.ycombinator.com/item?id=45108292) - [U.S. Emissions Rise 4.2%, China's Fall 2.7%](https://www.theenergymix.com/u-s-emissions-rise-chinas-fall-in-massive-shift-between-worlds-biggest-climate-polluters/)
 * [2025-09-02, 19:42:48](https://news.ycombinator.com/item?id=45108066) - [Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
