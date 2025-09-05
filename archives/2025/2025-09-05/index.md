@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 16:55:46](https://news.ycombinator.com/item?id=45140767) - [Why Everybody Is Losing Money on AI](https://www.wheresyoured.at/why-everybody-is-losing-money-on-ai/)
 * [2025-09-05, 15:51:27](https://news.ycombinator.com/item?id=45139954) - [South Korea: 'many' of its nationals detained in ICE raid on GA Hyundai facility](https://www.nbcnews.com/news/us-news/ice-hyundai-plant-georgia-enforcement-action-rcna229148)
 * [2025-09-05, 15:25:10](https://news.ycombinator.com/item?id=45139656) - [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
 * [2025-09-05, 15:23:29](https://news.ycombinator.com/item?id=45139640) - [Does anyone still use Morse code?](https://morse-coder.com/)
