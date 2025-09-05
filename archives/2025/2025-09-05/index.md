@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 13:13:41](https://news.ycombinator.com/item?id=45138156) - [Development Speed Has Never Been a Bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
 * [2025-09-05, 12:51:27](https://news.ycombinator.com/item?id=45137927) - [Data Modeling Guide for Real-Time Analytics with ClickHouse](https://www.ssp.sh/blog/practical-data-modeling-clickhouse/)
 * [2025-09-05, 12:50:00](https://news.ycombinator.com/item?id=45137914) - [Lava RGB](https://amaiorano.io/2025/09/03/lava-rgb.html)
 * [2025-09-05, 12:36:47](https://news.ycombinator.com/item?id=45137802) - [You're absolutely Right!](https://absolutelyright.lol/)

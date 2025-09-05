@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-05, 13:13:41](https://news.ycombinator.com/item?id=45138156) - [Development Speed Has Never Been a Bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
 * [2025-09-05, 12:51:27](https://news.ycombinator.com/item?id=45137927) - [Data Modeling Guide for Real-Time Analytics with ClickHouse](https://www.ssp.sh/blog/practical-data-modeling-clickhouse/)
 * [2025-09-05, 12:50:00](https://news.ycombinator.com/item?id=45137914) - [Lava RGB](https://amaiorano.io/2025/09/03/lava-rgb.html)
 * [2025-09-05, 12:36:47](https://news.ycombinator.com/item?id=45137802) - [You're absolutely Right!](https://absolutelyright.lol/)
@@ -25,7 +26,6 @@
 * [2025-09-04, 15:30:20](https://news.ycombinator.com/item?id=45128391) - [Wikipedia survives while the rest of the internet breaks](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales)
 * [2025-09-04, 14:53:50](https://news.ycombinator.com/item?id=45127983) - [WiFi signals can measure heart rate](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
 * [2025-09-02, 06:17:26](https://news.ycombinator.com/item?id=45099681) - [Making the most of a dumb fax switcher box in the old days](https://rachelbythebay.com/w/2025/09/01/fax/)
-* [2025-09-02, 04:29:15](https://news.ycombinator.com/item?id=45099151) - [The Anatomy of a Mach-O: Structure, Code Signing, and Pac](https://oliviagallucci.com/the-anatomy-of-a-mach-o-structure-code-signing-and-pac/)
 * [2025-09-02, 02:43:00](https://news.ycombinator.com/item?id=45098609) - [The Old Robots Website](https://www.theoldrobots.com/index2.html)
 * [2025-09-01, 19:03:03](https://news.ycombinator.com/item?id=45095591) - [The Diffusion Dilemma](https://arenamag.com/articles/the-diffusion-dilemma)
 * [2025-09-01, 15:29:09](https://news.ycombinator.com/item?id=45093501) - [Vetinari's Clock (2011)](https://www.waitingforfriday.com/?p=264)
