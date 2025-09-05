@@ -77,6 +77,7 @@
 * [2025-09-02, 04:21:51](https://news.ycombinator.com/item?id=45099112) - [Intuitive find and replace CLI (sed alternative)](https://github.com/chmln/sd)
 * [2025-09-02, 03:31:34](https://news.ycombinator.com/item?id=45098867) - [The Wetware Crisis: The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 * [2025-09-02, 03:01:02](https://news.ycombinator.com/item?id=45098722) - [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
+* [2025-09-02, 02:43:00](https://news.ycombinator.com/item?id=45098609) - [The Old Robots Website](https://www.theoldrobots.com/index2.html)
 * [2025-09-02, 02:42:10](https://news.ycombinator.com/item?id=45098600) - [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
 * [2025-09-02, 02:12:12](https://news.ycombinator.com/item?id=45098411) - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
 * [2025-09-02, 02:09:20](https://news.ycombinator.com/item?id=45098399) - [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
