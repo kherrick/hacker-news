@@ -72,6 +72,7 @@
 * [2025-09-02, 06:05:35](https://news.ycombinator.com/item?id=45099619) - [Vibe coding as a VC](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)
 * [2025-09-02, 05:26:04](https://news.ycombinator.com/item?id=45099418) - [Collecting All Causal Knowledge](https://causenet.org/)
 * [2025-09-02, 04:38:30](https://news.ycombinator.com/item?id=45099192) - [Keyboards from My Collection](https://aresluna.org/50-keyboards-from-my-collection/)
+* [2025-09-02, 04:29:15](https://news.ycombinator.com/item?id=45099151) - [The Anatomy of a Mach-O: Structure, Code Signing, and Pac](https://oliviagallucci.com/the-anatomy-of-a-mach-o-structure-code-signing-and-pac/)
 * [2025-09-02, 04:24:07](https://news.ycombinator.com/item?id=45099124) - [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
 * [2025-09-02, 04:21:51](https://news.ycombinator.com/item?id=45099112) - [Intuitive find and replace CLI (sed alternative)](https://github.com/chmln/sd)
 * [2025-09-02, 03:31:34](https://news.ycombinator.com/item?id=45098867) - [The Wetware Crisis: The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
