@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-05, 02:35:31](https://news.ycombinator.com/item?id=45134489) - [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
 * [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-05, 00:54:55](https://news.ycombinator.com/item?id=45133935) - [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
 * [2025-09-05, 00:05:50](https://news.ycombinator.com/item?id=45133652) - [Evolving the OCaml Programming Language (2025) [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
@@ -25,8 +26,7 @@
 * [2025-09-04, 12:12:31](https://news.ycombinator.com/item?id=45126358) - [Atlassian is acquiring The Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
 * [2025-09-04, 09:27:53](https://news.ycombinator.com/item?id=45125312) - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
 * [2025-09-04, 02:37:42](https://news.ycombinator.com/item?id=45122885) - [A high schooler writes about AI tools in the classroom](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
-* [2025-09-01, 17:32:34](https://news.ycombinator.com/item?id=45094772) - [Simple design changes can make bat boxes safer](https://phys.org/news/2025-08-simple-safer.html)
-* [2025-09-01, 13:38:49](https://news.ycombinator.com/item?id=45092621) - [Show HN: First Half of \"Swimming in Tech Debt\" (book about tech debt)](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
+* [2025-09-01, 13:38:49](https://news.ycombinator.com/item?id=45092621) - [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-01, 09:28:33](https://news.ycombinator.com/item?id=45091053) - [How to Build a High-Performance UR5 Inverse Kinematics Solver with IK-Geo](https://alexanderelias.com/ur5-ik/)
 * [2025-09-01, 07:56:30](https://news.ycombinator.com/item?id=45090553) - [Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC](https://github.com/mindbrix/Rasterizer)
 * [2025-09-01, 02:54:19](https://news.ycombinator.com/item?id=45089003) - [Type-safe and user-friendly error handling in Swift 6](https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/)

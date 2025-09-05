@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
 * [2025-09-05, 03:35:04](https://news.ycombinator.com/item?id=45134771) - [Expanding Economic Opportunity with AI](https://openai.com/index/expanding-economic-opportunity-with-ai/)
+* [2025-09-05, 02:35:31](https://news.ycombinator.com/item?id=45134489) - [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
 * [2025-09-05, 02:25:48](https://news.ycombinator.com/item?id=45134438) - [simonw has vibe-coded 124 useful tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/)
 * [2025-09-05, 00:55:52](https://news.ycombinator.com/item?id=45133938) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-05, 00:54:55](https://news.ycombinator.com/item?id=45133935) - [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
