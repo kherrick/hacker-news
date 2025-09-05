@@ -38,6 +38,7 @@
 * [2025-08-31, 16:22:38](https://news.ycombinator.com/item?id=45084370) - [Family of MSFT employee who died warn tech companies not to overwork workers](https://padailypost.com/2025/08/29/family-of-microsoft-employee-who-died-warn-tech-companies-not-to-overwork-workers/)
 * [2025-08-31, 16:17:07](https://news.ycombinator.com/item?id=45084328) - [eBPF 101: Your First Step into Kernel Programming](https://journal.hexmos.com/ebpf-introduction/)
 * [2025-08-31, 16:03:30](https://news.ycombinator.com/item?id=45084193) - [Plastic Before Plastic: How gutta-percha shaped the 19th century](https://worldhistory.substack.com/p/plastic-before-plastic)
+* [2025-08-31, 15:53:22](https://news.ycombinator.com/item?id=45084133) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
 * [2025-08-31, 15:52:14](https://news.ycombinator.com/item?id=45084126) - [Nobody cares about decentralization until they do (2024)](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
 * [2025-08-31, 15:50:35](https://news.ycombinator.com/item?id=45084111) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-31, 15:37:24](https://news.ycombinator.com/item?id=45084016) - [No Clicks, No Content: The Unsustainable Future of AI Search](https://bradt.ca/blog/no-clicks-no-content/)

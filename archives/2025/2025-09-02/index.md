@@ -57,6 +57,7 @@
 * [2025-09-02, 13:10:24](https://news.ycombinator.com/item?id=45102657) - [How to Participate in the Ruby Community](https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community)
 * [2025-09-02, 12:56:37](https://news.ycombinator.com/item?id=45102512) - [You can try to like stuff](https://dynomight.net/liking/)
 * [2025-09-02, 12:25:08](https://news.ycombinator.com/item?id=45102186) - [RubyMine Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/)
+* [2025-09-02, 11:45:46](https://news.ycombinator.com/item?id=45101797) - [How big are our embeddings now and why?](https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/)
 * [2025-09-02, 11:45:37](https://news.ycombinator.com/item?id=45101794) - [The Sudden Surges That Forge Evolutionary Trees](https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/)
 * [2025-09-02, 11:44:14](https://news.ycombinator.com/item?id=45101779) - [Toronto's Underground Labyrinth](https://www.worksinprogress.news/p/torontos-underground-labyrinth)
 * [2025-09-02, 11:35:22](https://news.ycombinator.com/item?id=45101675) - [New Knot Theory Discovery Overturns Long-Held Mathematical Assumption](https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
 * [2025-09-05, 16:55:46](https://news.ycombinator.com/item?id=45140767) - [Why Everybody Is Losing Money on AI](https://www.wheresyoured.at/why-everybody-is-losing-money-on-ai/)
+* [2025-09-05, 16:52:34](https://news.ycombinator.com/item?id=45140730) - [European Commission fines Google €2.95B over abusive ad tech practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992)
 * [2025-09-05, 16:25:48](https://news.ycombinator.com/item?id=45140381) - [MentraOS – open-source Smart glasses OS](https://github.com/Mentra-Community/MentraOS)
 * [2025-09-05, 15:51:27](https://news.ycombinator.com/item?id=45139954) - [South Korea: 'many' of its nationals detained in ICE raid on GA Hyundai facility](https://www.nbcnews.com/news/us-news/ice-hyundai-plant-georgia-enforcement-action-rcna229148)
 * [2025-09-05, 15:44:56](https://news.ycombinator.com/item?id=45139891) - [Tech CEOs Take Turns Grovelling at Feast of Embarrassments](https://pxlnv.com/linklog/trump-feast-of-embarrassments/)
