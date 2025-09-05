@@ -19,6 +19,7 @@
 * [2025-09-01, 18:56:39](https://news.ycombinator.com/item?id=45095545) - [Thoughts on (Amazonian) Leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
 * [2025-09-01, 18:48:22](https://news.ycombinator.com/item?id=45095475) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
 * [2025-09-01, 18:47:21](https://news.ycombinator.com/item?id=45095460) - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
+* [2025-09-01, 18:39:28](https://news.ycombinator.com/item?id=45095393) - [Liquid Cooling Exhibits](https://chipsandcheese.com/p/liquid-cooling-exhibits-at-hot-chips)
 * [2025-09-01, 18:23:08](https://news.ycombinator.com/item?id=45095240) - [MAGA declares war on the property tax](https://www.urbanproxima.com/p/maga-declares-war-on-the-property)
 * [2025-09-01, 18:04:37](https://news.ycombinator.com/item?id=45095079) - [Territorial Markings as a Predictor of Driver Aggression and Road Rage (2008)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2008.00364.x?prevSearch=allfield%3A%28szlemko%29)
 * [2025-09-01, 17:57:06](https://news.ycombinator.com/item?id=45095002) - [Thunk: Build Rust program to support Windows XP, Vista and more](https://github.com/felixmaker/thunk)

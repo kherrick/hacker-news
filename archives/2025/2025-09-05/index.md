@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 06:04:42](https://news.ycombinator.com/item?id=45135427) - [Deciphering the Kelly Criterion](https://farhadg.com/blog/escaping-odds/)
+* [2025-09-05, 05:39:37](https://news.ycombinator.com/item?id=45135302) - [Why RDF Is the Natural Knowledge Layer for AI Systems](https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5)
+* [2025-09-05, 05:33:03](https://news.ycombinator.com/item?id=45135263) - [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-05, 03:35:04](https://news.ycombinator.com/item?id=45134771) - [Expanding Economic Opportunity with AI](https://openai.com/index/expanding-economic-opportunity-with-ai/)
 * [2025-09-05, 02:35:31](https://news.ycombinator.com/item?id=45134489) - [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
 * [2025-09-05, 02:25:48](https://news.ycombinator.com/item?id=45134438) - [simonw has vibe-coded 124 useful tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/)
