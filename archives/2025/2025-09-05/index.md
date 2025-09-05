@@ -7,6 +7,7 @@
 * [2025-09-05, 22:27:46](https://news.ycombinator.com/item?id=45144403) - [Supercharger for Business – Tesla](https://www.tesla.com/supercharger-for-business)
 * [2025-09-05, 22:20:37](https://news.ycombinator.com/item?id=45144337) - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 * [2025-09-05, 22:09:10](https://news.ycombinator.com/item?id=45144234) - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
+* [2025-09-05, 22:00:56](https://news.ycombinator.com/item?id=45144160) - [Tesla offers mammoth $1T pay package to Musk, sets lofty targets](https://www.reuters.com/business/autos-transportation/tesla-offers-mammoth-1-trillion-pay-package-musk-sets-lofty-targets-2025-09-05/)
 * [2025-09-05, 21:38:50](https://news.ycombinator.com/item?id=45143945) - [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
 * [2025-09-05, 21:33:51](https://news.ycombinator.com/item?id=45143879) - [Google killing 2 million nest thermostats next month](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
 * [2025-09-05, 21:21:08](https://news.ycombinator.com/item?id=45143759) - [US special forces botched 2019 North Korean mission](https://www.reuters.com/world/asia-pacific/us-special-forces-killed-north-korean-civilians-in-botched-2019-mission-nyt-says-2025-09-05/)
