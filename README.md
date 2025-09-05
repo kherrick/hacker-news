@@ -26,7 +26,7 @@
 * [2025-09-04, 12:12:31](https://news.ycombinator.com/item?id=45126358) - [Atlassian is acquiring The Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
 * [2025-09-04, 09:27:53](https://news.ycombinator.com/item?id=45125312) - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
 * [2025-09-04, 02:37:42](https://news.ycombinator.com/item?id=45122885) - [A high schooler writes about AI tools in the classroom](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
-* [2025-09-01, 13:38:49](https://news.ycombinator.com/item?id=45092621) - [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
+* [2025-09-01, 13:38:49](https://news.ycombinator.com/item?id=45092621) - [Show HN: Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-01, 09:28:33](https://news.ycombinator.com/item?id=45091053) - [How to Build a High-Performance UR5 Inverse Kinematics Solver with IK-Geo](https://alexanderelias.com/ur5-ik/)
 * [2025-09-01, 07:56:30](https://news.ycombinator.com/item?id=45090553) - [Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC](https://github.com/mindbrix/Rasterizer)
 * [2025-09-01, 02:54:19](https://news.ycombinator.com/item?id=45089003) - [Type-safe and user-friendly error handling in Swift 6](https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/)
