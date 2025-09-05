@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-09-05, 00:44:11",
+      "https://news.ycombinator.com/item?id=45133869"
+    ],
+    [
+      "Coalition for Metabolic Health Launches with $50M",
+      "https://coalitionformetabolichealth.org/news/coalition-for-metabolic-health-launches-as-part-of-50-million-investment-to-tackle-americas-health-crisis/"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 00:05:50",
+      "https://news.ycombinator.com/item?id=45133652"
+    ],
+    [
+      "Evolving the OCaml Programming Language (2025)",
+      "https://kcsrk.info/talks#Evolution_Ashoka_2025"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 23:58:09",
+      "https://news.ycombinator.com/item?id=45133607"
+    ],
+    [
+      "We Investigated Tesla's Autopilot. It's Scarier Than You Think [video]",
+      "https://www.youtube.com/watch?v=6ltU9q1pKKM"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 23:20:43",
+      "https://news.ycombinator.com/item?id=45133344"
+    ],
+    [
+      "Updating restrictions of sales to unsupported regions",
+      "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 23:12:00",
+      "https://news.ycombinator.com/item?id=45133289"
+    ],
+    [
+      "Unix Conspiracy (1991)",
+      "http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 22:47:45",
       "https://news.ycombinator.com/item?id=45133109"
     ],
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2025-09-04, 16:39:03",
-      "https://news.ycombinator.com/item?id=45129160"
-    ],
-    [
-      "How we built an interpreter for Swift",
-      "https://www.bitrig.app/blog/swift-interpreter"
-    ]
-  ],
-  [
-    [
       "2025-09-04, 16:32:24",
       "https://news.ycombinator.com/item?id=45129085"
     ],
@@ -171,12 +211,12 @@
   ],
   [
     [
-      "2025-09-04, 15:22:03",
-      "https://news.ycombinator.com/item?id=45128299"
+      "2025-09-04, 15:30:20",
+      "https://news.ycombinator.com/item?id=45128391"
     ],
     [
-      "Farewell to Meshnet",
-      "https://nordvpn.com/blog/meshnet-shutdown/"
+      "Wikipedia survives while the rest of the internet breaks",
+      "https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales"
     ]
   ],
   [
@@ -221,62 +261,22 @@
   ],
   [
     [
+      "2025-09-04, 09:27:53",
+      "https://news.ycombinator.com/item?id=45125312"
+    ],
+    [
+      "The Color of the Future: A history of blue",
+      "https://www.hopefulmons.com/p/the-color-of-the-future"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 06:18:13",
       "https://news.ycombinator.com/item?id=45124143"
     ],
     [
       "Melvyn Bragg steps down from presenting In Our Time",
       "https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 05:56:29",
-      "https://news.ycombinator.com/item?id=45124003"
-    ],
-    [
-      "30 minutes with a stranger",
-      "https://pudding.cool/2025/06/hello-stranger/"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 03:01:49",
-      "https://news.ycombinator.com/item?id=45123034"
-    ],
-    [
-      "Polars Cloud and Distributed Polars now available",
-      "https://pola.rs/posts/polars-cloud-launch/"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 02:37:42",
-      "https://news.ycombinator.com/item?id=45122885"
-    ],
-    [
-      "A high schooler writes about AI tools in the classroom",
-      "https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 16:48:12",
-      "https://news.ycombinator.com/item?id=45094324"
-    ],
-    [
-      "Unix Conspiracy (1991)",
-      "http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 14:28:28",
-      "https://news.ycombinator.com/item?id=45092930"
-    ],
-    [
-      "16-inch softball",
-      "https://en.wikipedia.org/wiki/16-inch_softball"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-01, 03:31:36",
-      "https://news.ycombinator.com/item?id=45089201"
+      "2025-09-01, 02:54:19",
+      "https://news.ycombinator.com/item?id=45089003"
     ],
     [
-      "A programmable display using microfluidics [video]",
-      "https://www.youtube.com/watch?v=rf-efIZI_Dg"
+      "Type-safe and user-friendly error handling in Swift 6",
+      "https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/"
     ]
   ]
 ]
