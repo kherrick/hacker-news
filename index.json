@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-05, 18:15:42",
+      "https://news.ycombinator.com/item?id=45141762"
+    ],
+    [
+      "Fantastic Pretraining Optimizers and Where to Find Them",
+      "https://arxiv.org/abs/2509.02046"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 18:06:33",
       "https://news.ycombinator.com/item?id=45141636"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2025-09-04, 22:11:09",
-      "https://news.ycombinator.com/item?id=45132810"
+      "2025-09-04, 22:01:11",
+      "https://news.ycombinator.com/item?id=45132710"
     ],
     [
-      "What Is the Fourier Transform?",
-      "https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 18:06:05",
-      "https://news.ycombinator.com/item?id=45130260"
-    ],
-    [
-      "LLM Visualization",
-      "https://bbycroft.net/llm"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 16:32:24",
-      "https://news.ycombinator.com/item?id=45129085"
-    ],
-    [
-      "Stripe Launches L1 Blockchain: Tempo",
-      "https://tempo.xyz"
+      "io_uring is faster than mmap",
+      "https://www.bitflux.ai/blog/memory-is-slow-part2/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Debugging Rustler on Illumos",
       "https://system-illumination.org/01-rustler.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 06:17:26",
+      "https://news.ycombinator.com/item?id=45099681"
+    ],
+    [
+      "Making the most of a dumb fax switcher box in the old days",
+      "https://rachelbythebay.com/w/2025/09/01/fax/"
     ]
   ],
   [
