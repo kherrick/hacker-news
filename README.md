@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-05, 21:33:51](https://news.ycombinator.com/item?id=45143879) - [Google killing 2 million nest thermostats next month](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
+* [2025-09-05, 21:21:08](https://news.ycombinator.com/item?id=45143759) - [US special forces botched 2019 North Korean mission](https://www.reuters.com/world/asia-pacific/us-special-forces-killed-north-korean-civilians-in-botched-2019-mission-nyt-says-2025-09-05/)
 * [2025-09-05, 21:00:26](https://news.ycombinator.com/item?id=45143548) - [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
 * [2025-09-05, 20:11:39](https://news.ycombinator.com/item?id=45143077) - [I kissed comment culture goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
@@ -20,7 +22,6 @@
 * [2025-09-05, 11:08:26](https://news.ycombinator.com/item?id=45137245) - [Interview with Japanese Demoscener 0b5vr](https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html)
 * [2025-09-05, 07:57:21](https://news.ycombinator.com/item?id=45136103) - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 * [2025-09-05, 06:43:38](https://news.ycombinator.com/item?id=45135623) - [SQL needed structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
-* [2025-09-05, 05:33:03](https://news.ycombinator.com/item?id=45135263) - [Show HN: Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-05, 04:48:24](https://news.ycombinator.com/item?id=45135061) - [Poisoning Well](https://heydonworks.com/article/poisoning-well/)
 * [2025-09-03, 15:43:21](https://news.ycombinator.com/item?id=45117107) - [API Blueprint](https://apiblueprint.org)
 * [2025-09-02, 20:25:45](https://news.ycombinator.com/item?id=45108536) - [All of our lives overlap in the Network Of Time](https://networkoftime.com/)
@@ -29,7 +30,6 @@
 * [2025-09-02, 11:45:46](https://news.ycombinator.com/item?id=45101797) - [How big are our embeddings now and why?](https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/)
 * [2025-09-02, 08:42:43](https://news.ycombinator.com/item?id=45100516) - [Debugging Rustler on Illumos](https://system-illumination.org/01-rustler.html)
 * [2025-09-02, 02:43:00](https://news.ycombinator.com/item?id=45098609) - [The Old Robots Web Site](https://www.theoldrobots.com/index2.html)
-* [2025-09-01, 15:29:09](https://news.ycombinator.com/item?id=45093501) - [Vetinari's Clock (2011)](https://www.waitingforfriday.com/?p=264)
 
 ## [Archives](archives/index.md)
 
