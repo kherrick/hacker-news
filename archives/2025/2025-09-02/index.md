@@ -28,6 +28,7 @@
 * [2025-09-02, 18:07:22](https://news.ycombinator.com/item?id=45106846) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 * [2025-09-02, 17:57:31](https://news.ycombinator.com/item?id=45106697) - [State of Permanent Fake Emergency](https://www.theatlantic.com/ideas/archive/2025/09/emergency-authority-power-trump-democracy/684053/)
 * [2025-09-02, 17:43:24](https://news.ycombinator.com/item?id=45106490) - [The Tariffs Are Still Illegal](https://www.bloomberg.com/opinion/newsletters/2025-09-02/the-tariffs-are-still-illegal)
+* [2025-09-02, 17:40:02](https://news.ycombinator.com/item?id=45106429) - [Mac Clones History: A Tale of Poor Margins and Bad Timing](https://tedium.co/2025/09/02/apple-macintosh-clones-history/)
 * [2025-09-02, 17:32:08](https://news.ycombinator.com/item?id=45106314) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
 * [2025-09-02, 17:30:35](https://news.ycombinator.com/item?id=45106295) - [Microsoft rewarded for security failures with another US Government contract](https://www.theregister.com/2025/09/02/microsoft_rewarded_for_security_failures/)
 * [2025-09-02, 17:29:57](https://news.ycombinator.com/item?id=45106282) - [Google did not warn 2.5B Gmail users to reset passwords](https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/)
