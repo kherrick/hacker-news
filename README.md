@@ -24,10 +24,10 @@
 * [2025-09-04, 16:32:24](https://news.ycombinator.com/item?id=45129085) - [Stripe Launches L1 Blockchain: Tempo](https://tempo.xyz)
 * [2025-09-04, 15:30:20](https://news.ycombinator.com/item?id=45128391) - [Wikipedia survives while the rest of the internet breaks](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales)
 * [2025-09-04, 14:53:50](https://news.ycombinator.com/item?id=45127983) - [WiFi signals can measure heart rate](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
+* [2025-09-04, 09:16:28](https://news.ycombinator.com/item?id=45125247) - [Show HN: Vapor – A notepad that fades away as you type](https://enda.sh/vapor/)
 * [2025-09-02, 08:42:43](https://news.ycombinator.com/item?id=45100516) - [Debugging Rustler on Illumos](https://system-illumination.org/01-rustler.html)
 * [2025-09-02, 06:17:26](https://news.ycombinator.com/item?id=45099681) - [Making the most of a dumb fax switcher box in the old days](https://rachelbythebay.com/w/2025/09/01/fax/)
 * [2025-09-02, 02:43:00](https://news.ycombinator.com/item?id=45098609) - [The Old Robots Website](https://www.theoldrobots.com/index2.html)
-* [2025-09-01, 19:03:03](https://news.ycombinator.com/item?id=45095591) - [The Diffusion Dilemma](https://arenamag.com/articles/the-diffusion-dilemma)
 * [2025-09-01, 15:29:09](https://news.ycombinator.com/item?id=45093501) - [Vetinari's Clock (2011)](https://www.waitingforfriday.com/?p=264)
 * [2025-09-01, 07:56:30](https://news.ycombinator.com/item?id=45090553) - [Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC](https://github.com/mindbrix/Rasterizer)
 
