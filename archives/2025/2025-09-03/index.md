@@ -27,6 +27,7 @@
 * [2025-09-03, 16:28:23](https://news.ycombinator.com/item?id=45117668) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2025-09-03, 16:21:04](https://news.ycombinator.com/item?id=45117573) - [SomaFM 25th Anniversary](https://somafm.com/XXV/)
 * [2025-09-03, 15:54:12](https://news.ycombinator.com/item?id=45117230) - [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
+* [2025-09-03, 15:43:21](https://news.ycombinator.com/item?id=45117107) - [API Blueprint](https://apiblueprint.org)
 * [2025-09-03, 15:41:33](https://news.ycombinator.com/item?id=45117086) - [Show HN: Chibi, AI that tells you why users churn](https://chibi.sh)
 * [2025-09-03, 15:31:31](https://news.ycombinator.com/item?id=45116978) - [Warp Code: the fastest way from prompt to production](https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod)
 * [2025-09-03, 15:30:06](https://news.ycombinator.com/item?id=45116957) - [Understanding Transformers Using a Minimal Example](https://rti.github.io/gptvis/)
