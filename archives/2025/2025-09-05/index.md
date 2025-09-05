@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 15:25:10](https://news.ycombinator.com/item?id=45139656) - [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
 * [2025-09-05, 14:52:37](https://news.ycombinator.com/item?id=45139270) - [A computer upgrade has shut down BART](https://www.bart.gov/news/articles/2025/news20250905)
 * [2025-09-05, 14:38:07](https://news.ycombinator.com/item?id=45139122) - [Why Browser Company at $610M is cheap](https://bigtechpr.substack.com/p/why-browser-co-610m-is-cheap)
 * [2025-09-05, 14:20:07](https://news.ycombinator.com/item?id=45138932) - [1TB Raspberry Pi SSD on sale now for $70](https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/)
