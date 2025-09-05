@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-05, 12:51:27",
+      "https://news.ycombinator.com/item?id=45137927"
+    ],
+    [
+      "Data Modeling Guide for Real-Time Analytics with ClickHouse",
+      "https://www.ssp.sh/blog/practical-data-modeling-clickhouse/"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 12:50:00",
+      "https://news.ycombinator.com/item?id=45137914"
+    ],
+    [
+      "Lava RGB",
+      "https://amaiorano.io/2025/09/03/lava-rgb.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 12:36:47",
+      "https://news.ycombinator.com/item?id=45137802"
+    ],
+    [
+      "You're absolutely Right!",
+      "https://absolutelyright.lol/"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 12:17:22",
       "https://news.ycombinator.com/item?id=45137658"
     ],
@@ -61,22 +91,22 @@
   ],
   [
     [
+      "2025-09-05, 10:39:41",
+      "https://news.ycombinator.com/item?id=45137097"
+    ],
+    [
+      "Heap-based buffer overflow in Kernel Streaming",
+      "https://www.crowdfense.com/cve-2025-53149-windows-ksthunk-heap-overflow/"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 08:43:01",
       "https://news.ycombinator.com/item?id=45136367"
     ],
     [
       "IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing",
       "https://www.usenix.org/conference/atc25/presentation/landsberg"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 07:57:21",
-      "https://news.ycombinator.com/item?id=45136103"
-    ],
-    [
-      "I bought the cheapest EV, a used Nissan Leaf",
-      "https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2025-09-04, 13:18:36",
-      "https://news.ycombinator.com/item?id=45126950"
-    ],
-    [
-      "Building Supabase-Like OAuth Authentication for MCP Servers",
-      "https://hyprmcp.com/blog/mcp-server-authentication/"
-    ]
-  ],
-  [
-    [
       "2025-09-02, 06:17:26",
       "https://news.ycombinator.com/item?id=45099681"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-09-01, 18:39:28",
-      "https://news.ycombinator.com/item?id=45095393"
-    ],
-    [
-      "Liquid Cooling Exhibits",
-      "https://chipsandcheese.com/p/liquid-cooling-exhibits-at-hot-chips"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 15:29:09",
       "https://news.ycombinator.com/item?id=45093501"
     ],
@@ -287,16 +297,6 @@
     [
       "Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC",
       "https://github.com/mindbrix/Rasterizer"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 02:54:19",
-      "https://news.ycombinator.com/item?id=45089003"
-    ],
-    [
-      "Type-safe and user-friendly error handling in Swift 6",
-      "https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/"
     ]
   ]
 ]
