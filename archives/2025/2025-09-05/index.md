@@ -37,6 +37,7 @@
 * [2025-09-05, 06:43:38](https://news.ycombinator.com/item?id=45135623) - [SQL Needed Structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 06:25:22](https://news.ycombinator.com/item?id=45135529) - [The Scam of Age Verification](https://pornbiz.com/post/17/the_scam_of_age_verification)
 * [2025-09-05, 06:04:42](https://news.ycombinator.com/item?id=45135427) - [Deciphering the Kelly Criterion](https://farhadg.com/blog/escaping-odds/)
+* [2025-09-05, 05:56:19](https://news.ycombinator.com/item?id=45135391) - [Type checking is a symptom, not a solution](https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a)
 * [2025-09-05, 05:39:37](https://news.ycombinator.com/item?id=45135302) - [Why RDF Is the Natural Knowledge Layer for AI Systems](https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5)
 * [2025-09-05, 05:33:03](https://news.ycombinator.com/item?id=45135263) - [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)
 * [2025-09-05, 05:29:59](https://news.ycombinator.com/item?id=45135248) - [Show HN: Webapp to organize search for properties when renting/buying](https://dash.collabnest.app/demo_project/1b0b7472-b2c9-4de5-920d-b0020b7e2186)
