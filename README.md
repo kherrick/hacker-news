@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-06, 23:12:12](https://news.ycombinator.com/item?id=45153763) - [Microsoft confirms multiple subsea fiber cuts in the Red Sea](https://twitter.com/ns123abc/status/1964462207762386970)
 * [2025-09-06, 22:51:42](https://news.ycombinator.com/item?id=45153636) - [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 * [2025-09-06, 22:21:55](https://news.ycombinator.com/item?id=45153428) - [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
 * [2025-09-06, 21:56:05](https://news.ycombinator.com/item?id=45153237) - [Rust tool for generating random fractals](https://github.com/benjaminrall/chaos-game)
@@ -11,7 +12,6 @@
 * [2025-09-06, 20:37:16](https://news.ycombinator.com/item?id=45152648) - [Shipping textures as PNGs is suboptimal](https://gamesbymason.com/blog/2025/stop-shipping-pngs/)
 * [2025-09-06, 20:26:13](https://news.ycombinator.com/item?id=45152569) - [Utah's hottest new power source is 15k feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
 * [2025-09-06, 19:57:59](https://news.ycombinator.com/item?id=45152374) - [Over 80% of Sunscreen Performed Below Their Labelled Efficacy (2020)](https://www.consumer.org.hk/en/press-release/528-sunscreen-test)
-* [2025-09-06, 19:57:08](https://news.ycombinator.com/item?id=45152369) - [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
 * [2025-09-06, 19:14:26](https://news.ycombinator.com/item?id=45152066) - [How the \"Kim\" dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
 * [2025-09-06, 18:20:26](https://news.ycombinator.com/item?id=45151622) - [Stop writing CLI validation. Parse it right the first time](https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time)
 * [2025-09-06, 18:17:06](https://news.ycombinator.com/item?id=45151598) - [GigaByte CXL memory expansion card with up to 512GB DRAM](https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4)
