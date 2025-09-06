@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-09-05, 21:33:51",
-      "https://news.ycombinator.com/item?id=45143879"
-    ],
-    [
-      "Nest 1st gen and 2nd gen thermostats no longer supported from Oct 25",
-      "https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 21:00:26",
       "https://news.ycombinator.com/item?id=45143548"
     ],
@@ -287,6 +277,16 @@
     [
       "Meschers: Geometry Processing of Impossible Objects",
       "https://anadodik.github.io/publication/meschers/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 16:09:32",
+      "https://news.ycombinator.com/item?id=45104985"
+    ],
+    [
+      "Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format",
+      "https://github.com/man-group/sparrow"
     ]
   ],
   [
