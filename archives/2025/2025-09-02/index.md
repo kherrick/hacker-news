@@ -44,6 +44,7 @@
 * [2025-09-02, 16:24:44](https://news.ycombinator.com/item?id=45105230) - [AI web crawlers are destroying websites in their never-ending content hunger](https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/)
 * [2025-09-02, 16:15:54](https://news.ycombinator.com/item?id=45105081) - [OpenAI says it's scanning users' conversations and reporting content to police](https://futurism.com/openai-scanning-conversations-police)
 * [2025-09-02, 16:09:50](https://news.ycombinator.com/item?id=45104988) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
+* [2025-09-02, 16:09:32](https://news.ycombinator.com/item?id=45104985) - [Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format](https://github.com/man-group/sparrow)
 * [2025-09-02, 16:08:31](https://news.ycombinator.com/item?id=45104974) - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974)
 * [2025-09-02, 16:06:37](https://news.ycombinator.com/item?id=45104944) - [REST and gRPC in 33 Languages, with code examples](https://github.com/cloudstreet-dev/REST-gRPC-in-33-Languages/blob/main/book/manuscript/chapters/08-python.md)
 * [2025-09-02, 16:04:15](https://news.ycombinator.com/item?id=45104907) - [Anthropic raises $13B Series F at $183B post-money valuation](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation)
