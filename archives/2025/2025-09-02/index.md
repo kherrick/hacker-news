@@ -65,6 +65,7 @@
 * [2025-09-02, 13:33:54](https://news.ycombinator.com/item?id=45102905) - [Imgur's Community Is in Full Revolt Against Its Owner](https://www.404media.co/imgurs-community-is-in-full-revolt-against-its-owner/)
 * [2025-09-02, 13:10:51](https://news.ycombinator.com/item?id=45102664) - [Show HN: Moribito – A TUI for LDAP Viewing/Queries](https://github.com/ericschmar/moribito)
 * [2025-09-02, 13:10:24](https://news.ycombinator.com/item?id=45102657) - [How to Participate in the Ruby Community](https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community)
+* [2025-09-02, 12:58:33](https://news.ycombinator.com/item?id=45102536) - [Everything About Bitflags: How to store up to 32 booleans in one value?](https://neg4n.dev/blog/everything-about-bitflags)
 * [2025-09-02, 12:56:37](https://news.ycombinator.com/item?id=45102512) - [You can try to like stuff](https://dynomight.net/liking/)
 * [2025-09-02, 12:25:08](https://news.ycombinator.com/item?id=45102186) - [RubyMine Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/)
 * [2025-09-02, 11:45:46](https://news.ycombinator.com/item?id=45101797) - [How big are our embeddings now and why?](https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/)
