@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-06, 21:56:05",
+      "https://news.ycombinator.com/item?id=45153237"
+    ],
+    [
+      "Rust tool for generating random fractals",
+      "https://github.com/benjaminrall/chaos-game"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 21:19:30",
       "https://news.ycombinator.com/item?id=45152940"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-09-06, 18:25:23",
-      "https://news.ycombinator.com/item?id=45151661"
-    ],
-    [
-      "Normalization of deviance (2015)",
-      "https://danluu.com/wat/"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 18:20:26",
       "https://news.ycombinator.com/item?id=45151622"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-09-05, 21:56:46",
-      "https://news.ycombinator.com/item?id=45144123"
-    ],
-    [
-      "Kenvue stock drops on report RFK Jr will link autism to Tylenol during pregnancy",
-      "https://www.cnbc.com/2025/09/05/rfk-tylenol-autism-kenvue-stock-for-url.html"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 20:07:13",
       "https://news.ycombinator.com/item?id=45143019"
     ],
@@ -237,6 +227,16 @@
     [
       "Anthropic agrees to pay $1.5B to settle lawsuit with book authors",
       "https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 18:16:18",
+      "https://news.ycombinator.com/item?id=45141769"
+    ],
+    [
+      "Matmul on Blackwell: Part 2 – Using Hardware Features to Optimize Matmul",
+      "https://www.modular.com/blog/matrix-multiplication-on-nvidias-blackwell-part-2-using-hardware-features-to-optimize-matmul"
     ]
   ],
   [
