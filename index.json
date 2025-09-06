@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-06, 21:04:49",
+      "https://news.ycombinator.com/item?id=45152816"
+    ],
+    [
+      "Qantas slashes executive pay by 15% after data breach",
+      "https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 20:57:27",
       "https://news.ycombinator.com/item?id=45152779"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45152403"
     ],
     [
-      "How often do health insurers say no to patients?",
+      "How often do health insurers say no to patients? (2023)",
       "https://www.propublica.org/article/how-often-do-health-insurers-deny-patients-claims"
     ]
   ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=45122069"
     ],
     [
-      "Anonymous Recursive Functions in Racket",
+      "Anonymous recursive functions in Racket",
       "https://github.com/shriram/anonymous-recursive-function"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The maths you need to start understanding LLMs",
       "https://www.gilesthomas.com/2025/09/maths-for-llms"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 18:15:28",
-      "https://news.ycombinator.com/item?id=45106951"
-    ],
-    [
-      "Our love letter to Internet Relay Chat [video]",
-      "https://www.youtube.com/watch?v=6UbKenFipjo"
     ]
   ]
 ]
