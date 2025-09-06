@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45145965"
     ],
     [
-      "A noise attack on license plate readers (Flock AI)",
+      "PlateShapez – Tool for generating adversarially perturbed license plate overlays",
       "https://github.com/bennjordan/PlateShapez"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Developing a Space Flight Simulator in Clojure",
       "https://www.wedesoft.de/software/2025/09/05/clojure-game/"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 01:10:37",
+      "https://news.ycombinator.com/item?id=45145624"
+    ],
+    [
+      "A sunscreen scandal shocking Australia",
+      "https://www.bbc.com/news/articles/c4gzl41rpdqo"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=45121581"
     ],
     [
-      "Novel hollow-core optical fiber transmits data 45% faster with record low loss",
+      "Novel hollow-core optical fiber transmits data faster with record low loss",
       "https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html"
     ]
   ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45111273"
     ],
     [
-      "Speeding up Unreal Editor launch by not spawning 38000 tooltips",
+      "Speeding up Unreal Editor launch by not spawning tooltips",
       "https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Meschers: Geometry Processing of Impossible Objects",
       "https://anadodik.github.io/publication/meschers/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 11:45:46",
-      "https://news.ycombinator.com/item?id=45101797"
-    ],
-    [
-      "How big are our embeddings now and why?",
-      "https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/"
     ]
   ],
   [
