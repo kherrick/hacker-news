@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-06, 14:34:55",
+      "https://news.ycombinator.com/item?id=45149626"
+    ],
+    [
+      "Oldest Recorded Transaction",
+      "https://avi.im/blag/2025/oldest-txn/"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 14:01:25",
       "https://news.ycombinator.com/item?id=45149330"
     ],
     [
       "Vibe Coding Through the Berghain Challenge",
       "https://www.nibzard.com/berghain/"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 13:52:34",
+      "https://news.ycombinator.com/item?id=45149281"
+    ],
+    [
+      "DuckDuckGo founder: AI surveillance should be banned",
+      "https://gabrielweinberg.com/p/ai-surveillance-should-be-banned"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "GLM 4.5 with Claude Code",
       "https://docs.z.ai/guides/llm/glm-4.5"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 23:23:55",
-      "https://news.ycombinator.com/item?id=45144900"
-    ],
-    [
-      "Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy",
-      "https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Meschers: Geometry Processing of Impossible Objects",
       "https://anadodik.github.io/publication/meschers/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 16:09:32",
-      "https://news.ycombinator.com/item?id=45104985"
-    ],
-    [
-      "Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format",
-      "https://github.com/man-group/sparrow"
     ]
   ]
 ]
