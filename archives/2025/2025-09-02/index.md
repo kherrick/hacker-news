@@ -27,6 +27,7 @@
 * [2025-09-02, 18:47:26](https://news.ycombinator.com/item?id=45107353) - [The Kafka Replication Protocol with KIP-966](https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md)
 * [2025-09-02, 18:39:28](https://news.ycombinator.com/item?id=45107249) - [A gentle introduction to CP/M](https://eerielinux.wordpress.com/2025/08/28/a-gentle-introduction-to-cp-m/)
 * [2025-09-02, 18:18:10](https://news.ycombinator.com/item?id=45106981) - [OpenAI: Vijaye Raji to Become CTO of Applications with Acquisition of Statsig](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/)
+* [2025-09-02, 18:15:28](https://news.ycombinator.com/item?id=45106951) - [Our love letter to Internet Relay Chat [video]](https://www.youtube.com/watch?v=6UbKenFipjo)
 * [2025-09-02, 18:12:13](https://news.ycombinator.com/item?id=45106903) - [ICE obtains access to Israeli-made spyware that hack phones and encrypted apps](https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware)
 * [2025-09-02, 18:07:22](https://news.ycombinator.com/item?id=45106846) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 * [2025-09-02, 17:57:31](https://news.ycombinator.com/item?id=45106697) - [State of Permanent Fake Emergency](https://www.theatlantic.com/ideas/archive/2025/09/emergency-authority-power-trump-democracy/684053/)

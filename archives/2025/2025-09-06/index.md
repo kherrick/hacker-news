@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
+* [2025-09-06, 16:37:56](https://news.ycombinator.com/item?id=45150749) - [Stock buybacks are stock swindles](https://pluralistic.net/2025/09/06/computer-says-huh/#invisible-handcuffs)
 * [2025-09-06, 14:34:55](https://news.ycombinator.com/item?id=45149626) - [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 14:01:25](https://news.ycombinator.com/item?id=45149330) - [Vibe Coding Through the Berghain Challenge](https://www.nibzard.com/berghain/)
 * [2025-09-06, 13:52:34](https://news.ycombinator.com/item?id=45149281) - [DuckDuckGo founder: AI surveillance should be banned](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
