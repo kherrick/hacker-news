@@ -58,6 +58,7 @@
 * [2025-09-02, 15:24:48](https://news.ycombinator.com/item?id=45104289) - [The staff ate it later](https://en.wikipedia.org/wiki/The_staff_ate_it_later)
 * [2025-09-02, 15:10:39](https://news.ycombinator.com/item?id=45104115) - [Why teach calculus in the age of AI](https://mappingignorance.org/2025/08/18/why-teach-calculus-in-the-age-of-ai/)
 * [2025-09-02, 15:07:47](https://news.ycombinator.com/item?id=45104082) - [Americans Lose Faith That Hard Work Leads to Economic Gains, WSJ-NORC Poll Finds](https://www.wsj.com/economy/wsj-norc-economic-poll-73bce003)
+* [2025-09-02, 15:02:40](https://news.ycombinator.com/item?id=45104018) - [Clarity or accuracy – what makes a good scientific image?](https://www.nature.com/articles/d41586-025-02757-7)
 * [2025-09-02, 14:49:40](https://news.ycombinator.com/item?id=45103857) - [Removing Guix from Debian](https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/)
 * [2025-09-02, 14:32:47](https://news.ycombinator.com/item?id=45103646) - [You don't want to hire \"the best engineers\"](https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers)
 * [2025-09-02, 14:21:12](https://news.ycombinator.com/item?id=45103492) - [Rearchitecting GitHub Pages (2015)](https://github.blog/news-insights/rearchitecting-github-pages/)
