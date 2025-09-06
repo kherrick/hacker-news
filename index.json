@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-06, 14:01:25",
+      "https://news.ycombinator.com/item?id=45149330"
+    ],
+    [
+      "Vibe Coding Through the Berghain Challenge",
+      "https://www.nibzard.com/berghain/"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 13:20:57",
       "https://news.ycombinator.com/item?id=45149049"
     ],
@@ -287,16 +297,6 @@
     [
       "Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format",
       "https://github.com/man-group/sparrow"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 02:43:00",
-      "https://news.ycombinator.com/item?id=45098609"
-    ],
-    [
-      "The Old Robots Web Site",
-      "https://www.theoldrobots.com/index2.html"
     ]
   ]
 ]
