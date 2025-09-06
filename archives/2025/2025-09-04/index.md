@@ -61,6 +61,7 @@
 * [2025-09-04, 06:22:20](https://news.ycombinator.com/item?id=45124165) - [Kruci: Post-Mortem of a UI Library](https://pwy.io/posts/kruci-post-mortem/)
 * [2025-09-04, 06:18:13](https://news.ycombinator.com/item?id=45124143) - [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
 * [2025-09-04, 05:56:29](https://news.ycombinator.com/item?id=45124003) - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
+* [2025-09-04, 05:39:39](https://news.ycombinator.com/item?id=45123933) - [The life-changing Sarah Paine framework](https://www.valstech.blog/p/the-life-changing-sarah-paine-framework)
 * [2025-09-04, 05:23:47](https://news.ycombinator.com/item?id=45123857) - [William Wordsworth's letter: \"The Law of Copyright\" (1838)](https://gutenberg.org/cache/epub/76806/pg76806-images.html)
 * [2025-09-04, 03:01:49](https://news.ycombinator.com/item?id=45123034) - [Polars Cloud and Distributed Polars now available](https://pola.rs/posts/polars-cloud-launch/)
 * [2025-09-04, 02:55:24](https://news.ycombinator.com/item?id=45123003) - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
