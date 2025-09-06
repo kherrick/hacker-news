@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-06, 02:38:03](https://news.ycombinator.com/item?id=45146143) - [At least 475 workers detained in major ICE raid at US Hyundai factory](https://www.theguardian.com/us-news/2025/sep/05/immigration-ice-raid-hyundai-georgia)
+* [2025-09-06, 02:08:43](https://news.ycombinator.com/item?id=45145965) - [A noise attack on license plate readers (Flock AI)](https://github.com/bennjordan/PlateShapez)
 * [2025-09-06, 01:39:01](https://news.ycombinator.com/item?id=45145794) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 * [2025-09-06, 00:45:08](https://news.ycombinator.com/item?id=45145457) - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
 * [2025-09-05, 22:20:37](https://news.ycombinator.com/item?id=45144337) - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
@@ -8,7 +10,6 @@
 * [2025-09-05, 21:00:26](https://news.ycombinator.com/item?id=45143548) - [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
 * [2025-09-05, 19:08:49](https://news.ycombinator.com/item?id=45142397) - [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
-* [2025-09-05, 18:15:42](https://news.ycombinator.com/item?id=45141762) - [Fantastic pretraining optimizers and where to find them](https://arxiv.org/abs/2509.02046)
 * [2025-09-05, 18:06:33](https://news.ycombinator.com/item?id=45141636) - [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
 * [2025-09-05, 17:09:35](https://news.ycombinator.com/item?id=45140921) - [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
 * [2025-09-05, 16:57:45](https://news.ycombinator.com/item?id=45140786) - [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
@@ -19,7 +20,7 @@
 * [2025-09-05, 11:33:48](https://news.ycombinator.com/item?id=45137373) - [ML needs a new programming language – Interview with Chris Lattner](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
 * [2025-09-05, 11:08:26](https://news.ycombinator.com/item?id=45137245) - [Interview with Japanese Demoscener 0b5vr](https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html)
 * [2025-09-05, 07:57:21](https://news.ycombinator.com/item?id=45136103) - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
-* [2025-09-03, 15:43:21](https://news.ycombinator.com/item?id=45117107) - [API Blueprint](https://apiblueprint.org)
+* [2025-09-03, 23:37:54](https://news.ycombinator.com/item?id=45121581) - [Novel hollow-core optical fiber transmits data 45% faster with record low loss](https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html)
 * [2025-09-03, 14:04:56](https://news.ycombinator.com/item?id=45115974) - [Show HN: Writing Arabic in English](https://sherifelmetwally.com/writing/writing-arabic-in-english)
 * [2025-09-03, 11:27:56](https://news.ycombinator.com/item?id=45114498) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 01:28:08](https://news.ycombinator.com/item?id=45111273) - [Speeding up Unreal Editor launch by not spawning 38000 tooltips](https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/)
@@ -28,7 +29,6 @@
 * [2025-09-02, 19:05:27](https://news.ycombinator.com/item?id=45107605) - [Museum of Color](https://emergencemagazine.org/essay/museum-of-color/)
 * [2025-09-02, 17:40:02](https://news.ycombinator.com/item?id=45106429) - [Mac Clones History: A Tale of Poor Margins and Bad Timing](https://tedium.co/2025/09/02/apple-macintosh-clones-history/)
 * [2025-09-02, 16:09:50](https://news.ycombinator.com/item?id=45104988) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
-* [2025-09-02, 11:45:46](https://news.ycombinator.com/item?id=45101797) - [How big are our embeddings now and why?](https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/)
 * [2025-09-02, 02:43:00](https://news.ycombinator.com/item?id=45098609) - [The Old Robots Web Site](https://www.theoldrobots.com/index2.html)
 
 ## [Archives](archives/index.md)
