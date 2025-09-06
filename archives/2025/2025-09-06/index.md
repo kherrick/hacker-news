@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
+* [2025-09-06, 04:07:39](https://news.ycombinator.com/item?id=45146528) - [Ohio senator introduces 25% tax on companies that outsource jobs overseas](https://www.foxnews.com/politics/gop-senator-drops-hammer-companies-shipping-jobs-overseas-crucial-bill)
 * [2025-09-06, 03:32:01](https://news.ycombinator.com/item?id=45146375) - [GOP Cries Censorship over Spam Filters That Work](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/)
 * [2025-09-06, 02:41:31](https://news.ycombinator.com/item?id=45146165) - [AI and the Rise of Techno-Fascism in the United States](https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/)
 * [2025-09-06, 02:38:03](https://news.ycombinator.com/item?id=45146143) - [At least 475 workers detained in major ICE raid at US Hyundai factory](https://www.theguardian.com/us-news/2025/sep/05/immigration-ice-raid-hyundai-georgia)
