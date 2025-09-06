@@ -2,7 +2,7 @@
 
 * [2025-09-06, 16:38:43](https://news.ycombinator.com/item?id=45150759) - [Zuckerberg Caught in Revealing Hot Mic Moment During White House Dinner](https://www.pcmag.com/news/zuckerberg-caught-in-revealing-hot-mic-moment-during-white-house-dinner)
 * [2025-09-06, 14:34:55](https://news.ycombinator.com/item?id=45149626) - [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/)
-* [2025-09-06, 13:52:34](https://news.ycombinator.com/item?id=45149281) - [DuckDuckGo founder: AI surveillance should be banned](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
+* [2025-09-06, 13:52:34](https://news.ycombinator.com/item?id=45149281) - [AI surveillance should be banned while there is still time](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
 * [2025-09-06, 13:20:57](https://news.ycombinator.com/item?id=45149049) - [996](https://lucumr.pocoo.org/2025/9/4/996/)
 * [2025-09-06, 13:04:51](https://news.ycombinator.com/item?id=45148944) - [We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
 * [2025-09-06, 10:59:12](https://news.ycombinator.com/item?id=45148237) - [Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5](https://github.com/b4rtaz/distributed-llama/discussions/255)
