@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
+* [2025-09-06, 09:34:12](https://news.ycombinator.com/item?id=45147867) - [America Surrenders in the Global Information Wars](https://www.theatlantic.com/ideas/archive/2025/09/unilateral-disarmament/684086/)
 * [2025-09-06, 05:59:39](https://news.ycombinator.com/item?id=45146967) - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
 * [2025-09-06, 04:07:39](https://news.ycombinator.com/item?id=45146528) - [Ohio senator introduces 25% tax on companies that outsource jobs overseas](https://www.foxnews.com/politics/gop-senator-drops-hammer-companies-shipping-jobs-overseas-crucial-bill)
 * [2025-09-06, 03:32:01](https://news.ycombinator.com/item?id=45146375) - [GOP Cries Censorship over Spam Filters That Work](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/)

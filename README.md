@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-06, 09:34:12](https://news.ycombinator.com/item?id=45147867) - [America Surrenders in the Global Information Wars](https://www.theatlantic.com/ideas/archive/2025/09/unilateral-disarmament/684086/)
 * [2025-09-06, 05:59:39](https://news.ycombinator.com/item?id=45146967) - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
 * [2025-09-06, 01:39:01](https://news.ycombinator.com/item?id=45145794) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 * [2025-09-06, 00:45:08](https://news.ycombinator.com/item?id=45145457) - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
@@ -25,7 +26,6 @@
 * [2025-09-02, 23:10:47](https://news.ycombinator.com/item?id=45110311) - [The maths you need to start understanding LLMs](https://www.gilesthomas.com/2025/09/maths-for-llms)
 * [2025-09-02, 20:14:51](https://news.ycombinator.com/item?id=45108401) - [Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS](https://huggingface.co/swiss-ai/Apertus-70B-2509)
 * [2025-09-02, 19:05:27](https://news.ycombinator.com/item?id=45107605) - [Museum of Color](https://emergencemagazine.org/essay/museum-of-color/)
-* [2025-09-02, 19:00:01](https://news.ycombinator.com/item?id=45107534) - [Decoding UTF-8. Part III: Determining Sequence Length – A Lookup Table](https://nemanjatrifunovic.substack.com/p/decoding-utf-8-part-iii-determining)
 * [2025-09-02, 17:22:01](https://news.ycombinator.com/item?id=45106132) - [The repercussions of a typo in C++ & Rust](https://www.nablag.com/rust_cpp_missing_ampersand)
 * [2025-09-02, 16:09:50](https://news.ycombinator.com/item?id=45104988) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
 * [2025-09-02, 16:09:32](https://news.ycombinator.com/item?id=45104985) - [Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format](https://github.com/man-group/sparrow)
