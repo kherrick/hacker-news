@@ -8,6 +8,7 @@
 * [2025-09-03, 23:37:54](https://news.ycombinator.com/item?id=45121581) - [Novel hollow-core optical fiber transmits data 45% faster with record low loss](https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html)
 * [2025-09-03, 23:32:57](https://news.ycombinator.com/item?id=45121547) - [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
 * [2025-09-03, 23:07:36](https://news.ycombinator.com/item?id=45121342) - [The Evidence That AI Is Destroying Jobs for Young People Just Got Stronger](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
+* [2025-09-03, 22:07:12](https://news.ycombinator.com/item?id=45120905) - [Troubleshooting ZFS – Common Issues and How to Fix Them](https://klarasystems.com/articles/troubleshooting-zfs-common-issues-how-to-fix-them/)
 * [2025-09-03, 21:53:31](https://news.ycombinator.com/item?id=45120786) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
 * [2025-09-03, 21:18:29](https://news.ycombinator.com/item?id=45120517) - [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
 * [2025-09-03, 21:00:27](https://news.ycombinator.com/item?id=45120373) - [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)

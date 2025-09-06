@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-06, 23:12:12](https://news.ycombinator.com/item?id=45153763) - [Microsoft confirms multiple subsea fiber cuts in the Red Sea](https://twitter.com/ns123abc/status/1964462207762386970)
 * [2025-09-06, 22:51:42](https://news.ycombinator.com/item?id=45153636) - [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 * [2025-09-06, 22:21:55](https://news.ycombinator.com/item?id=45153428) - [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
 * [2025-09-06, 21:56:05](https://news.ycombinator.com/item?id=45153237) - [Rust tool for generating random fractals](https://github.com/benjaminrall/chaos-game)
@@ -12,6 +11,7 @@
 * [2025-09-06, 20:37:16](https://news.ycombinator.com/item?id=45152648) - [Shipping textures as PNGs is suboptimal](https://gamesbymason.com/blog/2025/stop-shipping-pngs/)
 * [2025-09-06, 20:26:13](https://news.ycombinator.com/item?id=45152569) - [Utah's hottest new power source is 15k feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
 * [2025-09-06, 19:57:59](https://news.ycombinator.com/item?id=45152374) - [Over 80% of Sunscreen Performed Below Their Labelled Efficacy (2020)](https://www.consumer.org.hk/en/press-release/528-sunscreen-test)
+* [2025-09-06, 19:57:08](https://news.ycombinator.com/item?id=45152369) - [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
 * [2025-09-06, 19:14:26](https://news.ycombinator.com/item?id=45152066) - [How the \"Kim\" dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
 * [2025-09-06, 18:20:26](https://news.ycombinator.com/item?id=45151622) - [Stop writing CLI validation. Parse it right the first time](https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time)
 * [2025-09-06, 18:17:06](https://news.ycombinator.com/item?id=45151598) - [GigaByte CXL memory expansion card with up to 512GB DRAM](https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4)
@@ -23,11 +23,11 @@
 * [2025-09-06, 07:41:48](https://news.ycombinator.com/item?id=45147385) - [Why language models hallucinate](https://openai.com/index/why-language-models-hallucinate/)
 * [2025-09-06, 05:59:39](https://news.ycombinator.com/item?id=45146967) - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
 * [2025-09-05, 20:07:13](https://news.ycombinator.com/item?id=45143019) - [William James at CERN (1995)](http://bactra.org/wm-james-at-cern/)
-* [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
 * [2025-09-05, 18:16:18](https://news.ycombinator.com/item?id=45141769) - [Matmul on Blackwell: Part 2 – Using Hardware Features to Optimize Matmul](https://www.modular.com/blog/matrix-multiplication-on-nvidias-blackwell-part-2-using-hardware-features-to-optimize-matmul)
 * [2025-09-05, 17:14:16](https://news.ycombinator.com/item?id=45140973) - [What to Do with an Old iPad](http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html)
 * [2025-09-04, 02:57:59](https://news.ycombinator.com/item?id=45123015) - [Processing Piano Tutorial Videos in the Browser](https://www.heyraviteja.com/post/portfolio/piano-reader/)
 * [2025-09-04, 00:39:33](https://news.ycombinator.com/item?id=45122069) - [Anonymous recursive functions in Racket](https://github.com/shriram/anonymous-recursive-function)
+* [2025-09-03, 22:07:12](https://news.ycombinator.com/item?id=45120905) - [Troubleshooting ZFS – Common Issues and How to Fix Them](https://klarasystems.com/articles/troubleshooting-zfs-common-issues-how-to-fix-them/)
 * [2025-09-03, 08:41:06](https://news.ycombinator.com/item?id=45113531) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
 * [2025-09-02, 23:10:47](https://news.ycombinator.com/item?id=45110311) - [The maths you need to start understanding LLMs](https://www.gilesthomas.com/2025/09/maths-for-llms)
 
