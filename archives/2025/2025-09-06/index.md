@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
+* [2025-09-06, 18:10:22](https://news.ycombinator.com/item?id=45151539) - [Microsoft BASIC, now open source](https://www.pcworld.com/article/2898698/microsofts-first-ever-programming-language-was-just-open-sourced.html)
+* [2025-09-06, 17:57:51](https://news.ycombinator.com/item?id=45151447) - [Using Claude Code SDK to Reduce E2E Test Time by 84%](https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude)
+* [2025-09-06, 17:17:38](https://news.ycombinator.com/item?id=45151096) - [Amid Mass Surveillance Debate in Congress, Americans Support Privacy Protections](https://demandprogresseducationfund.org/new-polling-as-mass-surveillance-debate-reaches-final-stages-in-congress-americans-demonstrate-overwhelming-support-for-increased-privacy-protections/)
 * [2025-09-06, 16:38:43](https://news.ycombinator.com/item?id=45150759) - [Zuckerberg Caught in Revealing Hot Mic Moment During White House Dinner](https://www.pcmag.com/news/zuckerberg-caught-in-revealing-hot-mic-moment-during-white-house-dinner)
 * [2025-09-06, 16:37:56](https://news.ycombinator.com/item?id=45150749) - [Stock buybacks are stock swindles](https://pluralistic.net/2025/09/06/computer-says-huh/#invisible-handcuffs)
 * [2025-09-06, 16:28:38](https://news.ycombinator.com/item?id=45150663) - [Statement on discourse about ActivityPub and AT Protocol](https://github.com/swicg/general/blob/master/statements%2F2025-09-05-activitypub-and-atproto-discourse.md)
