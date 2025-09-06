@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-06, 21:04:49](https://news.ycombinator.com/item?id=45152816) - [Qantas slashes executive pay by 15% after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
+* [2025-09-06, 20:57:27](https://news.ycombinator.com/item?id=45152779) - [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
 * [2025-09-06, 20:57:15](https://news.ycombinator.com/item?id=45152773) - [Microsoft Azure: \"Multiple international subsea cables were cut in the Red Sea\"](https://azure.status.microsoft/en-gb/status)
 * [2025-09-06, 20:37:16](https://news.ycombinator.com/item?id=45152648) - [Stop Shipping PNGs in Your Games](https://gamesbymason.com/blog/2025/stop-shipping-pngs/)
 * [2025-09-06, 20:26:13](https://news.ycombinator.com/item?id=45152569) - [Utah's hottest new power source is 15k feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
@@ -26,8 +26,8 @@
 * [2025-09-04, 05:39:39](https://news.ycombinator.com/item?id=45123933) - [The life-changing Sarah Paine framework](https://www.valstech.blog/p/the-life-changing-sarah-paine-framework)
 * [2025-09-04, 02:57:59](https://news.ycombinator.com/item?id=45123015) - [Processing Piano Tutorial Videos in the Browser](https://www.heyraviteja.com/post/portfolio/piano-reader/)
 * [2025-09-04, 00:39:33](https://news.ycombinator.com/item?id=45122069) - [Anonymous Recursive Functions in Racket](https://github.com/shriram/anonymous-recursive-function)
+* [2025-09-03, 11:27:56](https://news.ycombinator.com/item?id=45114498) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 08:41:06](https://news.ycombinator.com/item?id=45113531) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
-* [2025-09-03, 01:28:08](https://news.ycombinator.com/item?id=45111273) - [Speeding up Unreal Editor launch by not spawning unused tooltips](https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/)
 * [2025-09-02, 23:10:47](https://news.ycombinator.com/item?id=45110311) - [The maths you need to start understanding LLMs](https://www.gilesthomas.com/2025/09/maths-for-llms)
 * [2025-09-02, 18:15:28](https://news.ycombinator.com/item?id=45106951) - [Our love letter to Internet Relay Chat [video]](https://www.youtube.com/watch?v=6UbKenFipjo)
 

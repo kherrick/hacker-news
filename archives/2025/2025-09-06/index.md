@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
 * [2025-09-06, 21:04:49](https://news.ycombinator.com/item?id=45152816) - [Qantas slashes executive pay by 15% after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
+* [2025-09-06, 20:57:27](https://news.ycombinator.com/item?id=45152779) - [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
 * [2025-09-06, 20:57:15](https://news.ycombinator.com/item?id=45152773) - [Microsoft Azure: \"Multiple international subsea cables were cut in the Red Sea\"](https://azure.status.microsoft/en-gb/status)
 * [2025-09-06, 20:37:16](https://news.ycombinator.com/item?id=45152648) - [Stop Shipping PNGs in Your Games](https://gamesbymason.com/blog/2025/stop-shipping-pngs/)
 * [2025-09-06, 20:26:13](https://news.ycombinator.com/item?id=45152569) - [Utah's hottest new power source is 15,000 feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
