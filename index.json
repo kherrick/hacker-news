@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-09-05, 23:23:55",
-      "https://news.ycombinator.com/item?id=45144900"
+      "2025-09-06, 01:39:01",
+      "https://news.ycombinator.com/item?id=45145794"
     ],
     [
-      "Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy",
-      "https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/"
+      "Developing a Space Flight Simulator in Clojure",
+      "https://www.wedesoft.de/software/2025/09/05/clojure-game/"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 01:10:37",
+      "https://news.ycombinator.com/item?id=45145624"
+    ],
+    [
+      "The sunscreen scandal shocking Australia - the world's skin cancer capital",
+      "https://www.bbc.com/news/articles/c4gzl41rpdqo"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 00:45:08",
+      "https://news.ycombinator.com/item?id=45145457"
+    ],
+    [
+      "GLM 4.5 with Claude Code is a killer combination",
+      "https://docs.z.ai/guides/llm/glm-4.5"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45141762"
     ],
     [
-      "Fantastic Pretraining Optimizers and Where to Find Them",
+      "Fantastic pretraining optimizers and where to find them",
       "https://arxiv.org/abs/2509.02046"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-09-05, 12:36:47",
-      "https://news.ycombinator.com/item?id=45137802"
-    ],
-    [
-      "I'm absolutely right",
-      "https://absolutelyright.lol/"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 11:56:59",
       "https://news.ycombinator.com/item?id=45137525"
     ],
@@ -177,16 +187,6 @@
     [
       "ML needs a new programming language – Interview with Chris Lattner",
       "https://signalsandthreads.com/why-ml-needs-a-new-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 11:31:58",
-      "https://news.ycombinator.com/item?id=45137363"
-    ],
-    [
-      "Nepal moves to block Facebook, X, YouTube and others",
-      "https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-09-03, 11:27:56",
+      "https://news.ycombinator.com/item?id=45114498"
+    ],
+    [
+      "Video Game Blurs (and how the best one works)",
+      "https://blog.frost.kiwi/dual-kawase/"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 20:25:45",
       "https://news.ycombinator.com/item?id=45108536"
     ],
@@ -267,16 +277,6 @@
     [
       "Meschers: Geometry Processing of Impossible Objects",
       "https://anadodik.github.io/publication/meschers/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 14:21:12",
-      "https://news.ycombinator.com/item?id=45103492"
-    ],
-    [
-      "Rearchitecting GitHub Pages (2015)",
-      "https://github.blog/news-insights/rearchitecting-github-pages/"
     ]
   ],
   [
