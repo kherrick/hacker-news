@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-06, 19:57:08](https://news.ycombinator.com/item?id=45152369) - [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
-* [2025-09-06, 19:40:15](https://news.ycombinator.com/item?id=45152267) - [U.S. Open Orders Broadcasters to Censor Reactions to Trump](https://www.benrothenberg.com/p/us-open-donald-trump-mens-final-attendance-visit-appearance-censorship-tv-booing-protest-jannik-sinner-carlos-alcaraz)
 * [2025-09-06, 19:18:28](https://news.ycombinator.com/item?id=45152086) - [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
 * [2025-09-06, 19:06:13](https://news.ycombinator.com/item?id=45152001) - [AI hype is crashing into reality. Stay calm](https://www.businessinsider.com/ai-hype-crashing-into-reality-iphone-openai-2025-9)
 * [2025-09-06, 18:25:23](https://news.ycombinator.com/item?id=45151661) - [Normalization of deviance (2015)](https://danluu.com/wat/)
@@ -19,6 +18,7 @@
 * [2025-09-05, 22:20:37](https://news.ycombinator.com/item?id=45144337) - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 * [2025-09-05, 21:56:46](https://news.ycombinator.com/item?id=45144123) - [Kenvue stock drops on report RFK Jr will link autism to Tylenol during pregnancy](https://www.cnbc.com/2025/09/05/rfk-tylenol-autism-kenvue-stock-for-url.html)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
+* [2025-09-05, 18:06:33](https://news.ycombinator.com/item?id=45141636) - [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
 * [2025-09-05, 14:34:57](https://news.ycombinator.com/item?id=45139088) - [Purposeful animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-04, 05:39:39](https://news.ycombinator.com/item?id=45123933) - [The life-changing Sarah Paine framework](https://www.valstech.blog/p/the-life-changing-sarah-paine-framework)
 * [2025-09-04, 02:57:59](https://news.ycombinator.com/item?id=45123015) - [Processing Piano Tutorial Videos in the Browser](https://www.heyraviteja.com/post/portfolio/piano-reader/)
