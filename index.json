@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45145457"
     ],
     [
-      "GLM 4.5 with Claude Code is a killer combination",
+      "GLM 4.5 with Claude Code",
       "https://docs.z.ai/guides/llm/glm-4.5"
     ]
   ],
@@ -97,16 +97,6 @@
     [
       "My Own DNS Server at Home – Part 1: IPv4",
       "https://jan.wildeboer.net/2025/08/My-DNS-Part-1/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 18:15:42",
-      "https://news.ycombinator.com/item?id=45141762"
-    ],
-    [
-      "Fantastic pretraining optimizers and where to find them",
-      "https://arxiv.org/abs/2509.02046"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Video Game Blurs (and how the best one works)",
       "https://blog.frost.kiwi/dual-kawase/"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 01:28:08",
+      "https://news.ycombinator.com/item?id=45111273"
+    ],
+    [
+      "Speeding up Unreal Editor launch by not spawning 38000 tooltips",
+      "https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/"
     ]
   ],
   [
