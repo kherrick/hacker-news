@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-06, 22:21:55](https://news.ycombinator.com/item?id=45153428) - [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
 * [2025-09-06, 21:56:05](https://news.ycombinator.com/item?id=45153237) - [Rust tool for generating random fractals](https://github.com/benjaminrall/chaos-game)
 * [2025-09-06, 21:19:30](https://news.ycombinator.com/item?id=45152940) - [I'm Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese](https://kanadojo.com)
 * [2025-09-06, 21:04:49](https://news.ycombinator.com/item?id=45152816) - [Qantas is cutting executive bonuses after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
@@ -25,7 +26,6 @@
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
 * [2025-09-05, 18:16:18](https://news.ycombinator.com/item?id=45141769) - [Matmul on Blackwell: Part 2 – Using Hardware Features to Optimize Matmul](https://www.modular.com/blog/matrix-multiplication-on-nvidias-blackwell-part-2-using-hardware-features-to-optimize-matmul)
 * [2025-09-05, 17:14:16](https://news.ycombinator.com/item?id=45140973) - [What to Do with an Old iPad](http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html)
-* [2025-09-04, 05:39:39](https://news.ycombinator.com/item?id=45123933) - [The life-changing Sarah Paine framework](https://www.valstech.blog/p/the-life-changing-sarah-paine-framework)
 * [2025-09-04, 02:57:59](https://news.ycombinator.com/item?id=45123015) - [Processing Piano Tutorial Videos in the Browser](https://www.heyraviteja.com/post/portfolio/piano-reader/)
 * [2025-09-04, 00:39:33](https://news.ycombinator.com/item?id=45122069) - [Anonymous recursive functions in Racket](https://github.com/shriram/anonymous-recursive-function)
 * [2025-09-03, 08:41:06](https://news.ycombinator.com/item?id=45113531) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
