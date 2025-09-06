@@ -23,7 +23,7 @@
 * [2025-09-03, 14:04:56](https://news.ycombinator.com/item?id=45115974) - [Show HN: Writing Arabic in English](https://sherifelmetwally.com/writing/writing-arabic-in-english)
 * [2025-09-03, 11:27:56](https://news.ycombinator.com/item?id=45114498) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 01:28:08](https://news.ycombinator.com/item?id=45111273) - [Speeding up Unreal Editor launch by not spawning unused tooltips](https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/)
-* [2025-09-02, 20:14:51](https://news.ycombinator.com/item?id=45108401) - [Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS](https://huggingface.co/swiss-ai/Apertus-70B-2509)
+* [2025-09-02, 23:10:47](https://news.ycombinator.com/item?id=45110311) - [The maths you need to start understanding LLMs](https://www.gilesthomas.com/2025/09/maths-for-llms)
 * [2025-09-02, 19:05:27](https://news.ycombinator.com/item?id=45107605) - [Museum of Color](https://emergencemagazine.org/essay/museum-of-color/)
 * [2025-09-02, 19:00:01](https://news.ycombinator.com/item?id=45107534) - [Decoding UTF-8. Part III: Determining Sequence Length – A Lookup Table](https://nemanjatrifunovic.substack.com/p/decoding-utf-8-part-iii-determining)
 * [2025-09-02, 17:22:01](https://news.ycombinator.com/item?id=45106132) - [The repercussions of a typo in C++ & Rust](https://www.nablag.com/rust_cpp_missing_ampersand)
