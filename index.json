@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-09-06, 18:25:23",
-      "https://news.ycombinator.com/item?id=45151661"
+      "2025-09-06, 18:27:35",
+      "https://news.ycombinator.com/item?id=45151686"
     ],
     [
-      "Normalization of Deviance",
-      "https://danluu.com/wat/"
+      "Ghost sharks grow forehead teeth to help them have sex",
+      "https://news.ufl.edu/2025/09/ghost-shark-teeth/"
     ]
   ],
   [
     [
-      "2025-09-06, 18:10:22",
-      "https://news.ycombinator.com/item?id=45151539"
+      "2025-09-06, 18:25:23",
+      "https://news.ycombinator.com/item?id=45151661"
     ],
     [
-      "Microsoft BASIC, now open source",
-      "https://www.pcworld.com/article/2898698/microsofts-first-ever-programming-language-was-just-open-sourced.html"
+      "Normalization of deviance (2015)",
+      "https://danluu.com/wat/"
     ]
   ],
   [
@@ -25,18 +25,18 @@
       "https://news.ycombinator.com/item?id=45151447"
     ],
     [
-      "Using Claude Code SDK to Reduce E2E Test Time by 84%",
+      "Using Claude Code SDK to reduce E2E test time",
       "https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude"
     ]
   ],
   [
     [
-      "2025-09-06, 17:17:38",
-      "https://news.ycombinator.com/item?id=45151096"
+      "2025-09-06, 16:44:51",
+      "https://news.ycombinator.com/item?id=45150820"
     ],
     [
-      "Amid Mass Surveillance Debate, Americans Support Privacy Protections (2023)",
-      "https://demandprogresseducationfund.org/new-polling-as-mass-surveillance-debate-reaches-final-stages-in-congress-americans-demonstrate-overwhelming-support-for-increased-privacy-protections/"
+      "Patterns, Predictions, and Actions – A story about machine learning",
+      "https://mlstory.org/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45148944"
     ],
     [
-      "We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance",
+      "We hacked Burger King: How auth bypass led to drive-thru audio surveillance",
       "https://bobdahacker.com/blog/rbi-hacked-drive-thrus/"
     ]
   ],
@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2025-09-06, 10:44:07",
-      "https://news.ycombinator.com/item?id=45148167"
+      "2025-09-06, 07:41:48",
+      "https://news.ycombinator.com/item?id=45147385"
     ],
     [
-      "Let us git rid of it, angry GitHub users say of forced Copilot features",
-      "https://www.theregister.com/2025/09/05/github_copilot_complaints/"
+      "Why language models hallucinate",
+      "https://openai.com/index/why-language-models-hallucinate/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-09-05, 07:57:21",
-      "https://news.ycombinator.com/item?id=45136103"
-    ],
-    [
-      "I bought the cheapest EV, a used Nissan Leaf",
-      "https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf"
-    ]
-  ],
-  [
-    [
       "2025-09-04, 05:39:39",
       "https://news.ycombinator.com/item?id=45123933"
     ],
@@ -277,6 +267,16 @@
     [
       "Our love letter to Internet Relay Chat [video]",
       "https://www.youtube.com/watch?v=6UbKenFipjo"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 17:22:01",
+      "https://news.ycombinator.com/item?id=45106132"
+    ],
+    [
+      "The repercussions of missing an Ampersand in C++ and Rust",
+      "https://www.nablag.com/rust_cpp_missing_ampersand"
     ]
   ],
   [
