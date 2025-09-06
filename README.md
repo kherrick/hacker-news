@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-06, 21:04:49](https://news.ycombinator.com/item?id=45152816) - [Qantas slashes executive pay by 15% after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
+* [2025-09-06, 21:19:30](https://news.ycombinator.com/item?id=45152940) - [I'm Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese](https://kanadojo.com)
+* [2025-09-06, 21:04:49](https://news.ycombinator.com/item?id=45152816) - [Qantas is cutting executive bonuses after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
 * [2025-09-06, 20:57:27](https://news.ycombinator.com/item?id=45152779) - [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
 * [2025-09-06, 20:57:15](https://news.ycombinator.com/item?id=45152773) - [Microsoft Azure: \"Multiple international subsea cables were cut in the Red Sea\"](https://azure.status.microsoft/en-gb/status)
 * [2025-09-06, 20:37:16](https://news.ycombinator.com/item?id=45152648) - [Stop Shipping PNGs in Your Games](https://gamesbymason.com/blog/2025/stop-shipping-pngs/)
 * [2025-09-06, 20:26:13](https://news.ycombinator.com/item?id=45152569) - [Utah's hottest new power source is 15k feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
 * [2025-09-06, 20:01:46](https://news.ycombinator.com/item?id=45152403) - [How often do health insurers say no to patients? (2023)](https://www.propublica.org/article/how-often-do-health-insurers-deny-patients-claims)
-* [2025-09-06, 19:57:59](https://news.ycombinator.com/item?id=45152374) - [Over 80% of Sunscreen Performed Below Their Labelled Efficacy](https://www.consumer.org.hk/en/press-release/528-sunscreen-test)
+* [2025-09-06, 19:57:59](https://news.ycombinator.com/item?id=45152374) - [Over 80% of Sunscreen Performed Below Their Labelled Efficacy (2020)](https://www.consumer.org.hk/en/press-release/528-sunscreen-test)
 * [2025-09-06, 19:57:08](https://news.ycombinator.com/item?id=45152369) - [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
 * [2025-09-06, 19:18:28](https://news.ycombinator.com/item?id=45152086) - [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
 * [2025-09-06, 19:14:26](https://news.ycombinator.com/item?id=45152066) - [How the \"Kim\" dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
@@ -27,7 +28,6 @@
 * [2025-09-04, 05:39:39](https://news.ycombinator.com/item?id=45123933) - [The life-changing Sarah Paine framework](https://www.valstech.blog/p/the-life-changing-sarah-paine-framework)
 * [2025-09-04, 02:57:59](https://news.ycombinator.com/item?id=45123015) - [Processing Piano Tutorial Videos in the Browser](https://www.heyraviteja.com/post/portfolio/piano-reader/)
 * [2025-09-04, 00:39:33](https://news.ycombinator.com/item?id=45122069) - [Anonymous recursive functions in Racket](https://github.com/shriram/anonymous-recursive-function)
-* [2025-09-03, 11:27:56](https://news.ycombinator.com/item?id=45114498) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 08:41:06](https://news.ycombinator.com/item?id=45113531) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
 * [2025-09-02, 23:10:47](https://news.ycombinator.com/item?id=45110311) - [The maths you need to start understanding LLMs](https://www.gilesthomas.com/2025/09/maths-for-llms)
 

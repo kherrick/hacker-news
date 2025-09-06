@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
+* [2025-09-06, 21:19:30](https://news.ycombinator.com/item?id=45152940) - [I'm Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese](https://kanadojo.com)
 * [2025-09-06, 21:04:49](https://news.ycombinator.com/item?id=45152816) - [Qantas slashes executive pay by 15% after data breach](https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article)
 * [2025-09-06, 20:57:27](https://news.ycombinator.com/item?id=45152779) - [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
 * [2025-09-06, 20:57:15](https://news.ycombinator.com/item?id=45152773) - [Microsoft Azure: \"Multiple international subsea cables were cut in the Red Sea\"](https://azure.status.microsoft/en-gb/status)
