@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-06, 04:07:39",
-      "https://news.ycombinator.com/item?id=45146528"
-    ],
-    [
-      "Ohio senator introduces 25% tax on companies that outsource jobs overseas",
-      "https://www.foxnews.com/politics/gop-senator-drops-hammer-companies-shipping-jobs-overseas-crucial-bill"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 02:08:43",
       "https://news.ycombinator.com/item?id=45145965"
     ],
@@ -247,6 +237,16 @@
     [
       "Speeding up Unreal Editor launch by not spawning unused tooltips",
       "https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 20:14:51",
+      "https://news.ycombinator.com/item?id=45108401"
+    ],
+    [
+      "Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS",
+      "https://huggingface.co/swiss-ai/Apertus-70B-2509"
     ]
   ],
   [
