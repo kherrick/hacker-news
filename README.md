@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-06, 04:07:39](https://news.ycombinator.com/item?id=45146528) - [Ohio senator introduces 25% tax on companies that outsource jobs overseas](https://www.foxnews.com/politics/gop-senator-drops-hammer-companies-shipping-jobs-overseas-crucial-bill)
 * [2025-09-06, 02:08:43](https://news.ycombinator.com/item?id=45145965) - [PlateShapez – Tool for generating adversarially perturbed license plate overlays](https://github.com/bennjordan/PlateShapez)
 * [2025-09-06, 01:39:01](https://news.ycombinator.com/item?id=45145794) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 * [2025-09-06, 01:10:37](https://news.ycombinator.com/item?id=45145624) - [A sunscreen scandal shocking Australia](https://www.bbc.com/news/articles/c4gzl41rpdqo)
@@ -25,6 +24,7 @@
 * [2025-09-03, 14:04:56](https://news.ycombinator.com/item?id=45115974) - [Show HN: Writing Arabic in English](https://sherifelmetwally.com/writing/writing-arabic-in-english)
 * [2025-09-03, 11:27:56](https://news.ycombinator.com/item?id=45114498) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 01:28:08](https://news.ycombinator.com/item?id=45111273) - [Speeding up Unreal Editor launch by not spawning unused tooltips](https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/)
+* [2025-09-02, 20:14:51](https://news.ycombinator.com/item?id=45108401) - [Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS](https://huggingface.co/swiss-ai/Apertus-70B-2509)
 * [2025-09-02, 19:05:27](https://news.ycombinator.com/item?id=45107605) - [Museum of Color](https://emergencemagazine.org/essay/museum-of-color/)
 * [2025-09-02, 17:40:02](https://news.ycombinator.com/item?id=45106429) - [Mac Clones History: A Tale of Poor Margins and Bad Timing](https://tedium.co/2025/09/02/apple-macintosh-clones-history/)
 * [2025-09-02, 17:22:01](https://news.ycombinator.com/item?id=45106132) - [The repercussions of a typo in C++ & Rust](https://www.nablag.com/rust_cpp_missing_ampersand)
