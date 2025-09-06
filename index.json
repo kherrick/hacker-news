@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-06, 02:38:03",
+      "https://news.ycombinator.com/item?id=45146143"
+    ],
+    [
+      "At least 475 workers detained in major ICE raid at US Hyundai factory",
+      "https://www.theguardian.com/us-news/2025/sep/05/immigration-ice-raid-hyundai-georgia"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 02:08:43",
+      "https://news.ycombinator.com/item?id=45145965"
+    ],
+    [
+      "A noise attack on license plate readers (Flock AI)",
+      "https://github.com/bennjordan/PlateShapez"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 01:39:01",
       "https://news.ycombinator.com/item?id=45145794"
     ],
@@ -77,16 +97,6 @@
     [
       "My Own DNS Server at Home – Part 1: IPv4",
       "https://jan.wildeboer.net/2025/08/My-DNS-Part-1/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 18:15:42",
-      "https://news.ycombinator.com/item?id=45141762"
-    ],
-    [
-      "Fantastic pretraining optimizers and where to find them",
-      "https://arxiv.org/abs/2509.02046"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2025-09-03, 15:43:21",
-      "https://news.ycombinator.com/item?id=45117107"
+      "2025-09-03, 23:37:54",
+      "https://news.ycombinator.com/item?id=45121581"
     ],
     [
-      "API Blueprint",
-      "https://apiblueprint.org"
+      "Novel hollow-core optical fiber transmits data 45% faster with record low loss",
+      "https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Meschers: Geometry Processing of Impossible Objects",
       "https://anadodik.github.io/publication/meschers/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 11:45:46",
-      "https://news.ycombinator.com/item?id=45101797"
-    ],
-    [
-      "How big are our embeddings now and why?",
-      "https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/"
     ]
   ],
   [
