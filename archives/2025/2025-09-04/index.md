@@ -67,5 +67,6 @@
 * [2025-09-04, 02:57:59](https://news.ycombinator.com/item?id=45123015) - [Processing Piano Tutorial Videos in the Browser](https://www.heyraviteja.com/post/portfolio/piano-reader/)
 * [2025-09-04, 02:55:24](https://news.ycombinator.com/item?id=45123003) - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
 * [2025-09-04, 02:37:42](https://news.ycombinator.com/item?id=45122885) - [A high schooler writes about AI tools in the classroom](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
+* [2025-09-04, 00:39:33](https://news.ycombinator.com/item?id=45122069) - [Anonymous Recursive Functions in Racket](https://github.com/shriram/anonymous-recursive-function)
 * [2025-09-04, 00:18:16](https://news.ycombinator.com/item?id=45121915) - [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
 * [2025-09-04, 00:06:01](https://news.ycombinator.com/item?id=45121824) - [Not paying with cash](https://rubenerd.com/not-paying-with-cash/)

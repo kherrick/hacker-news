@@ -7,6 +7,7 @@
 * [2025-09-06, 19:57:08](https://news.ycombinator.com/item?id=45152369) - [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
 * [2025-09-06, 19:40:15](https://news.ycombinator.com/item?id=45152267) - [U.S. Open Orders Broadcasters to Censor Reactions to Trump](https://www.benrothenberg.com/p/us-open-donald-trump-mens-final-attendance-visit-appearance-censorship-tv-booing-protest-jannik-sinner-carlos-alcaraz)
 * [2025-09-06, 19:18:28](https://news.ycombinator.com/item?id=45152086) - [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
+* [2025-09-06, 19:14:26](https://news.ycombinator.com/item?id=45152066) - [How the \"Kim\" dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
 * [2025-09-06, 19:06:13](https://news.ycombinator.com/item?id=45152001) - [AI hype is crashing into reality. Stay calm](https://www.businessinsider.com/ai-hype-crashing-into-reality-iphone-openai-2025-9)
 * [2025-09-06, 18:27:35](https://news.ycombinator.com/item?id=45151686) - [Ghost sharks grow forehead teeth to help them have sex](https://news.ufl.edu/2025/09/ghost-shark-teeth/)
 * [2025-09-06, 18:25:23](https://news.ycombinator.com/item?id=45151661) - [Normalization of Deviance](https://danluu.com/wat/)
