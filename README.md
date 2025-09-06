@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-06, 19:18:28](https://news.ycombinator.com/item?id=45152086) - [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
 * [2025-09-06, 18:27:35](https://news.ycombinator.com/item?id=45151686) - [Ghost sharks grow forehead teeth to help them have sex](https://news.ufl.edu/2025/09/ghost-shark-teeth/)
 * [2025-09-06, 18:25:23](https://news.ycombinator.com/item?id=45151661) - [Normalization of deviance (2015)](https://danluu.com/wat/)
 * [2025-09-06, 17:57:51](https://news.ycombinator.com/item?id=45151447) - [Using Claude Code SDK to reduce E2E test time](https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude)
@@ -29,7 +30,6 @@
 * [2025-09-02, 18:15:28](https://news.ycombinator.com/item?id=45106951) - [Our love letter to Internet Relay Chat [video]](https://www.youtube.com/watch?v=6UbKenFipjo)
 * [2025-09-02, 17:22:01](https://news.ycombinator.com/item?id=45106132) - [The repercussions of missing an Ampersand in C++ and Rust](https://www.nablag.com/rust_cpp_missing_ampersand)
 * [2025-09-02, 16:09:50](https://news.ycombinator.com/item?id=45104988) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
-* [2025-09-02, 15:02:40](https://news.ycombinator.com/item?id=45104018) - [Clarity or accuracy – what makes a good scientific image?](https://www.nature.com/articles/d41586-025-02757-7)
 
 ## [Archives](archives/index.md)
 

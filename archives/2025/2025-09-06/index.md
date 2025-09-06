@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
+* [2025-09-06, 19:18:28](https://news.ycombinator.com/item?id=45152086) - [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
 * [2025-09-06, 18:27:35](https://news.ycombinator.com/item?id=45151686) - [Ghost sharks grow forehead teeth to help them have sex](https://news.ufl.edu/2025/09/ghost-shark-teeth/)
 * [2025-09-06, 18:25:23](https://news.ycombinator.com/item?id=45151661) - [Normalization of Deviance](https://danluu.com/wat/)
 * [2025-09-06, 18:10:22](https://news.ycombinator.com/item?id=45151539) - [Microsoft BASIC, now open source](https://www.pcworld.com/article/2898698/microsofts-first-ever-programming-language-was-just-open-sourced.html)
