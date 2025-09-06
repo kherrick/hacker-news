@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-06, 21:04:49",
+      "https://news.ycombinator.com/item?id=45152816"
+    ],
+    [
+      "Qantas slashes executive pay by 15% after data breach",
+      "https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 20:57:15",
+      "https://news.ycombinator.com/item?id=45152773"
+    ],
+    [
+      "Microsoft Azure: \"Multiple international subsea cables were cut in the Red Sea\"",
+      "https://azure.status.microsoft/en-gb/status"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 20:37:16",
+      "https://news.ycombinator.com/item?id=45152648"
+    ],
+    [
+      "Stop Shipping PNGs in Your Games",
+      "https://gamesbymason.com/blog/2025/stop-shipping-pngs/"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 20:26:13",
       "https://news.ycombinator.com/item?id=45152569"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-09-06, 16:44:51",
-      "https://news.ycombinator.com/item?id=45150820"
-    ],
-    [
-      "Patterns, Predictions, and Actions – A story about machine learning",
-      "https://mlstory.org/"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 14:34:55",
       "https://news.ycombinator.com/item?id=45149626"
     ],
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2025-09-05, 14:34:57",
-      "https://news.ycombinator.com/item?id=45139088"
+      "2025-09-05, 17:14:16",
+      "https://news.ycombinator.com/item?id=45140973"
     ],
     [
-      "Purposeful animations",
-      "https://emilkowal.ski/ui/you-dont-need-animations"
+      "What to Do with an Old iPad",
+      "http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "Anonymous Recursive Functions in Racket",
       "https://github.com/shriram/anonymous-recursive-function"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 11:27:56",
-      "https://news.ycombinator.com/item?id=45114498"
-    ],
-    [
-      "Video Game Blurs (and how the best one works)",
-      "https://blog.frost.kiwi/dual-kawase/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Our love letter to Internet Relay Chat [video]",
       "https://www.youtube.com/watch?v=6UbKenFipjo"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 17:22:01",
-      "https://news.ycombinator.com/item?id=45106132"
-    ],
-    [
-      "The repercussions of missing an Ampersand in C++ and Rust",
-      "https://www.nablag.com/rust_cpp_missing_ampersand"
     ]
   ]
 ]
