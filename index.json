@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-09-05, 20:11:39",
-      "https://news.ycombinator.com/item?id=45143077"
-    ],
-    [
-      "I kissed comment culture goodbye",
-      "https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 19:52:45",
       "https://news.ycombinator.com/item?id=45142885"
     ],
@@ -287,6 +277,16 @@
     [
       "Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format",
       "https://github.com/man-group/sparrow"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 12:58:33",
+      "https://news.ycombinator.com/item?id=45102536"
+    ],
+    [
+      "Everything About Bitflags: How to store up to 32 booleans in one value?",
+      "https://neg4n.dev/blog/everything-about-bitflags"
     ]
   ],
   [
