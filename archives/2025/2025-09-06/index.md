@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
 * [2025-09-06, 12:09:46](https://news.ycombinator.com/item?id=45148572) - [Tylenol-maker shares hit after report RFK Jr will suggest autism link](https://www.bbc.com/news/articles/cx25l92q9xgo)
+* [2025-09-06, 10:59:12](https://news.ycombinator.com/item?id=45148237) - [Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5](https://github.com/b4rtaz/distributed-llama/discussions/255)
 * [2025-09-06, 10:47:57](https://news.ycombinator.com/item?id=45148180) - [A Software Development Methodology for Disciplined LLM Collaboration](https://github.com/Varietyz/Disciplined-AI-Software-Development)
 * [2025-09-06, 10:44:07](https://news.ycombinator.com/item?id=45148167) - [Let us git rid of it, angry GitHub users say of forced Copilot features](https://www.theregister.com/2025/09/05/github_copilot_complaints/)
 * [2025-09-06, 09:34:12](https://news.ycombinator.com/item?id=45147867) - [America Surrenders in the Global Information Wars](https://www.theatlantic.com/ideas/archive/2025/09/unilateral-disarmament/684086/)
+* [2025-09-06, 07:41:48](https://news.ycombinator.com/item?id=45147385) - [Why Language Models Hallucinate](https://openai.com/index/why-language-models-hallucinate/)
 * [2025-09-06, 05:59:39](https://news.ycombinator.com/item?id=45146967) - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
 * [2025-09-06, 04:07:39](https://news.ycombinator.com/item?id=45146528) - [Ohio senator introduces 25% tax on companies that outsource jobs overseas](https://www.foxnews.com/politics/gop-senator-drops-hammer-companies-shipping-jobs-overseas-crucial-bill)
 * [2025-09-06, 03:32:01](https://news.ycombinator.com/item?id=45146375) - [GOP Cries Censorship over Spam Filters That Work](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/)
