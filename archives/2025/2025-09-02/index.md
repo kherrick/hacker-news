@@ -8,6 +8,7 @@
 * [2025-09-02, 23:10:47](https://news.ycombinator.com/item?id=45110311) - [The maths you need to start understanding LLMs](https://www.gilesthomas.com/2025/09/maths-for-llms)
 * [2025-09-02, 22:58:23](https://news.ycombinator.com/item?id=45110209) - [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
 * [2025-09-02, 22:44:50](https://news.ycombinator.com/item?id=45110075) - [Parallel AI Agents Are a Game Changer](https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html)
+* [2025-09-02, 22:26:25](https://news.ycombinator.com/item?id=45109927) - [The World War Two bomber that cost more than the atomic bomb](https://www.bbc.com/future/article/20250829-the-bomber-that-became-ww2s-most-expensive-weapon)
 * [2025-09-02, 21:31:37](https://news.ycombinator.com/item?id=45109324) - [You're Not Interviewing for the Job. You're Auditioning for the Job Title](https://idiallo.com/blog/performing-for-the-job-title)
 * [2025-09-02, 20:39:50](https://news.ycombinator.com/item?id=45108727) - [Judge Orders Google to Share Search Results to Help Resolve Monopoly](https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html)
 * [2025-09-02, 20:26:47](https://news.ycombinator.com/item?id=45108548) - [Google gets to keep Chrome but is barred from exclusive search deals](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
