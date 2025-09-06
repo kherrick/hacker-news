@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-06, 09:34:12",
-      "https://news.ycombinator.com/item?id=45147867"
-    ],
-    [
-      "America Surrenders in the Global Information Wars",
-      "https://www.theatlantic.com/ideas/archive/2025/09/unilateral-disarmament/684086/"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 05:59:39",
       "https://news.ycombinator.com/item?id=45146967"
     ],
@@ -71,6 +61,16 @@
   ],
   [
     [
+      "2025-09-05, 20:11:39",
+      "https://news.ycombinator.com/item?id=45143077"
+    ],
+    [
+      "I kissed comment culture goodbye",
+      "https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 19:52:45",
       "https://news.ycombinator.com/item?id=45142885"
     ],
@@ -107,6 +107,16 @@
     [
       "Show HN: Open-sourcing our text-to-CAD app",
       "https://github.com/Adam-CAD/CADAM"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 16:57:45",
+      "https://news.ycombinator.com/item?id=45140786"
+    ],
+    [
+      "Freeway guardrails are now a favorite target of thieves",
+      "https://laist.com/news/transportation/guardrails-aluminum-theft"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format",
       "https://github.com/man-group/sparrow"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 12:58:33",
-      "https://news.ycombinator.com/item?id=45102536"
-    ],
-    [
-      "Everything About Bitflags: How to store up to 32 booleans in one value?",
-      "https://neg4n.dev/blog/everything-about-bitflags"
     ]
   ],
   [
