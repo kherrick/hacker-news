@@ -46,6 +46,7 @@
 * [2025-09-03, 12:06:19](https://news.ycombinator.com/item?id=45114753) - [MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline](https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/)
 * [2025-09-03, 12:00:11](https://news.ycombinator.com/item?id=45114715) - [Dynamo AI (YC W22) Is Hiring for AI Product Managers](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai)
 * [2025-09-03, 11:40:41](https://news.ycombinator.com/item?id=45114579) - [The wall confronting large language models](https://arxiv.org/abs/2507.19703)
+* [2025-09-03, 11:27:56](https://news.ycombinator.com/item?id=45114498) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 11:07:16](https://news.ycombinator.com/item?id=45114379) - [Tencent Open Sourced a 3D World Model](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
 * [2025-09-03, 10:49:48](https://news.ycombinator.com/item?id=45114277) - [Energy Dashboard (UK)](https://www.energydashboard.co.uk/map)
 * [2025-09-03, 10:44:01](https://news.ycombinator.com/item?id=45114245) - [Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
