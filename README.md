@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-06, 14:34:55](https://news.ycombinator.com/item?id=45149626) - [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 14:01:25](https://news.ycombinator.com/item?id=45149330) - [Vibe Coding Through the Berghain Challenge](https://www.nibzard.com/berghain/)
+* [2025-09-06, 13:52:34](https://news.ycombinator.com/item?id=45149281) - [DuckDuckGo founder: AI surveillance should be banned](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
 * [2025-09-06, 13:20:57](https://news.ycombinator.com/item?id=45149049) - [996](https://lucumr.pocoo.org/2025/9/4/996/)
 * [2025-09-06, 13:04:51](https://news.ycombinator.com/item?id=45148944) - [We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
 * [2025-09-06, 10:59:12](https://news.ycombinator.com/item?id=45148237) - [Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5](https://github.com/b4rtaz/distributed-llama/discussions/255)
@@ -10,7 +12,6 @@
 * [2025-09-06, 05:59:39](https://news.ycombinator.com/item?id=45146967) - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
 * [2025-09-06, 01:39:01](https://news.ycombinator.com/item?id=45145794) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 * [2025-09-06, 00:45:08](https://news.ycombinator.com/item?id=45145457) - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
-* [2025-09-05, 23:23:55](https://news.ycombinator.com/item?id=45144900) - [Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy](https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/)
 * [2025-09-05, 22:20:37](https://news.ycombinator.com/item?id=45144337) - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
 * [2025-09-05, 19:08:49](https://news.ycombinator.com/item?id=45142397) - [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
@@ -29,7 +30,6 @@
 * [2025-09-02, 23:10:47](https://news.ycombinator.com/item?id=45110311) - [The maths you need to start understanding LLMs](https://www.gilesthomas.com/2025/09/maths-for-llms)
 * [2025-09-02, 19:05:27](https://news.ycombinator.com/item?id=45107605) - [Museum of Color](https://emergencemagazine.org/essay/museum-of-color/)
 * [2025-09-02, 16:09:50](https://news.ycombinator.com/item?id=45104988) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
-* [2025-09-02, 16:09:32](https://news.ycombinator.com/item?id=45104985) - [Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format](https://github.com/man-group/sparrow)
 
 ## [Archives](archives/index.md)
 

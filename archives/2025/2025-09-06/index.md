@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
+* [2025-09-06, 14:34:55](https://news.ycombinator.com/item?id=45149626) - [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 14:01:25](https://news.ycombinator.com/item?id=45149330) - [Vibe Coding Through the Berghain Challenge](https://www.nibzard.com/berghain/)
+* [2025-09-06, 13:52:34](https://news.ycombinator.com/item?id=45149281) - [DuckDuckGo founder: AI surveillance should be banned](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
 * [2025-09-06, 13:20:57](https://news.ycombinator.com/item?id=45149049) - [996](https://lucumr.pocoo.org/2025/9/4/996/)
 * [2025-09-06, 13:04:51](https://news.ycombinator.com/item?id=45148944) - [We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
 * [2025-09-06, 12:09:46](https://news.ycombinator.com/item?id=45148572) - [Tylenol-maker shares hit after report RFK Jr will suggest autism link](https://www.bbc.com/news/articles/cx25l92q9xgo)
