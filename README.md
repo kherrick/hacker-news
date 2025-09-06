@@ -21,6 +21,7 @@
 * [2025-09-05, 18:06:33](https://news.ycombinator.com/item?id=45141636) - [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
 * [2025-09-05, 14:34:57](https://news.ycombinator.com/item?id=45139088) - [Purposeful animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-04, 05:39:39](https://news.ycombinator.com/item?id=45123933) - [The life-changing Sarah Paine framework](https://www.valstech.blog/p/the-life-changing-sarah-paine-framework)
+* [2025-09-04, 02:57:59](https://news.ycombinator.com/item?id=45123015) - [Processing Piano Tutorial Videos in the Browser](https://www.heyraviteja.com/post/portfolio/piano-reader/)
 * [2025-09-03, 23:37:54](https://news.ycombinator.com/item?id=45121581) - [Novel hollow-core optical fiber transmits data faster with record low loss](https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html)
 * [2025-09-03, 11:27:56](https://news.ycombinator.com/item?id=45114498) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 08:41:06](https://news.ycombinator.com/item?id=45113531) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
@@ -29,7 +30,6 @@
 * [2025-09-02, 22:26:25](https://news.ycombinator.com/item?id=45109927) - [The World War Two bomber that cost more than the atomic bomb](https://www.bbc.com/future/article/20250829-the-bomber-that-became-ww2s-most-expensive-weapon)
 * [2025-09-02, 18:15:28](https://news.ycombinator.com/item?id=45106951) - [Our love letter to Internet Relay Chat [video]](https://www.youtube.com/watch?v=6UbKenFipjo)
 * [2025-09-02, 17:22:01](https://news.ycombinator.com/item?id=45106132) - [The repercussions of missing an Ampersand in C++ and Rust](https://www.nablag.com/rust_cpp_missing_ampersand)
-* [2025-09-02, 16:09:50](https://news.ycombinator.com/item?id=45104988) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
 
 ## [Archives](archives/index.md)
 
