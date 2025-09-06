@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-06, 02:08:43](https://news.ycombinator.com/item?id=45145965) - [PlateShapez – Tool for generating adversarially perturbed license plate overlays](https://github.com/bennjordan/PlateShapez)
 * [2025-09-06, 01:39:01](https://news.ycombinator.com/item?id=45145794) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 * [2025-09-06, 01:10:37](https://news.ycombinator.com/item?id=45145624) - [A sunscreen scandal shocking Australia](https://www.bbc.com/news/articles/c4gzl41rpdqo)
 * [2025-09-06, 00:45:08](https://news.ycombinator.com/item?id=45145457) - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
 * [2025-09-05, 22:20:37](https://news.ycombinator.com/item?id=45144337) - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 * [2025-09-05, 22:09:10](https://news.ycombinator.com/item?id=45144234) - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
+* [2025-09-05, 21:33:51](https://news.ycombinator.com/item?id=45143879) - [Nest 1st gen and 2nd gen thermostats no longer supported from Oct 25](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
 * [2025-09-05, 21:00:26](https://news.ycombinator.com/item?id=45143548) - [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
 * [2025-09-05, 20:11:39](https://news.ycombinator.com/item?id=45143077) - [I kissed comment culture goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
