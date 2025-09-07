@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-07, 16:49:14](https://news.ycombinator.com/item?id=45159812) - [US to target more businesses after Hyundai raid](https://www.reuters.com/business/autos-transportation/us-target-more-businesses-after-hyundai-raid-top-official-says-2025-09-07/)
 * [2025-09-07, 16:40:55](https://news.ycombinator.com/item?id=45159742) - [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 * [2025-09-07, 15:10:46](https://news.ycombinator.com/item?id=45158877) - [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
@@ -19,6 +18,8 @@
 * [2025-09-06, 21:19:30](https://news.ycombinator.com/item?id=45152940) - [Show HN: I'm making an open-source platform for learning Japanese](https://kanadojo.com)
 * [2025-09-06, 20:57:27](https://news.ycombinator.com/item?id=45152779) - [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
 * [2025-09-06, 19:14:26](https://news.ycombinator.com/item?id=45152066) - [How the “Kim” dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
+* [2025-09-06, 13:04:51](https://news.ycombinator.com/item?id=45148944) - [We hacked Burger King: How auth bypass led to drive-thru audio surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
+* [2025-09-05, 17:14:16](https://news.ycombinator.com/item?id=45140973) - [What to do with an old iPad](http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html)
 * [2025-09-05, 08:43:01](https://news.ycombinator.com/item?id=45136367) - [IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing](https://www.usenix.org/conference/atc25/presentation/landsberg)
 * [2025-09-04, 21:36:03](https://news.ycombinator.com/item?id=45132488) - [SQLite's File Format](https://www.sqlite.org/fileformat.html)
 * [2025-09-04, 19:15:10](https://news.ycombinator.com/item?id=45131121) - [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/)
@@ -28,7 +29,6 @@
 * [2025-09-03, 21:01:05](https://news.ycombinator.com/item?id=45120381) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
 * [2025-09-03, 19:01:36](https://news.ycombinator.com/item?id=45119310) - [A Technical Update on Submarine Cables [pdf]](https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf)
 * [2025-09-03, 17:18:09](https://news.ycombinator.com/item?id=45118286) - [Garmin Beats Apple to Market with Satellite-Connected Smartwatch](https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/)
-* [2025-09-03, 14:55:31](https://news.ycombinator.com/item?id=45116551) - [A Queasy Selling of the Family Heirlooms](https://commonreader.wustl.edu/a-queasy-selling-of-the-family-heirlooms/)
 * [2025-09-02, 22:26:25](https://news.ycombinator.com/item?id=45109927) - [The World War Two bomber that cost more than the atomic bomb](https://www.bbc.com/future/article/20250829-the-bomber-that-became-ww2s-most-expensive-weapon)
 
 ## [Archives](archives/index.md)
