@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-09-07, 11:20:37",
+      "https://news.ycombinator.com/item?id=45157223"
+    ],
+    [
+      "Show HN: Semantic grep with local embeddings",
+      "https://github.com/BeaconBay/ck"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 11:00:03",
       "https://news.ycombinator.com/item?id=45157110"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2025-09-06, 20:57:27",
-      "https://news.ycombinator.com/item?id=45152779"
-    ],
-    [
-      "A Navajo weaving of an integrated circuit: the 555 timer",
-      "https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 19:42:48",
       "https://news.ycombinator.com/item?id=45152284"
     ],
     [
-      "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search",
+      "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
       "https://simonwillison.net/2025/Sep/6/research-goblin/"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 19:14:26",
-      "https://news.ycombinator.com/item?id=45152066"
-    ],
-    [
-      "How the “Kim” dump exposed North Korea's credential theft playbook",
-      "https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "The race to build a distributed GPU runtime",
       "https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 19:15:10",
+      "https://news.ycombinator.com/item?id=45131121"
+    ],
+    [
+      "Hitting Peak File IO Performance with Zig",
+      "https://steelcake.com/blog/nvme-zig/"
     ]
   ],
   [
