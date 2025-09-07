@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
+* [2025-09-07, 18:17:29](https://news.ycombinator.com/item?id=45160780) - [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [2025-09-07, 18:16:30](https://news.ycombinator.com/item?id=45160774) - [Keeping secrets out of logs (2024)](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
 * [2025-09-07, 16:40:55](https://news.ycombinator.com/item?id=45159742) - [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
@@ -29,7 +30,6 @@
 * [2025-09-03, 19:01:36](https://news.ycombinator.com/item?id=45119310) - [A Technical Update on Submarine Cables [pdf]](https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf)
 * [2025-09-03, 17:18:09](https://news.ycombinator.com/item?id=45118286) - [Garmin Beats Apple to Market with Satellite-Connected Smartwatch](https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/)
 * [2025-09-03, 14:55:31](https://news.ycombinator.com/item?id=45116551) - [A queasy selling of the family heirlooms](https://commonreader.wustl.edu/a-queasy-selling-of-the-family-heirlooms/)
-* [2025-09-02, 22:26:25](https://news.ycombinator.com/item?id=45109927) - [The World War Two bomber that cost more than the atomic bomb](https://www.bbc.com/future/article/20250829-the-bomber-that-became-ww2s-most-expensive-weapon)
 
 ## [Archives](archives/index.md)
 
