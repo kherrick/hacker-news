@@ -2,10 +2,10 @@
 
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 * [2025-09-07, 15:10:46](https://news.ycombinator.com/item?id=45158877) - [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
+* [2025-09-07, 14:43:07](https://news.ycombinator.com/item?id=45158586) - [AI Mode Is Good](https://simonwillison.net/2025/Sep/7/ai-mode/)
 * [2025-09-07, 14:36:32](https://news.ycombinator.com/item?id=45158523) - [Delayed Security Patches for AOSP (Android Open Source Project)](https://twitter.com/grapheneos/status/1964561043906048183)
 * [2025-09-07, 13:15:35](https://news.ycombinator.com/item?id=45157906) - [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
 * [2025-09-07, 13:13:42](https://news.ycombinator.com/item?id=45157897) - [Air pollution directly linked to increased dementia risk](https://www.nature.com/articles/d41586-025-02844-9)
-* [2025-09-07, 13:04:51](https://news.ycombinator.com/item?id=45157837) - [Postal traffic to US down by over 80% amid tariffs, UN says](https://www.dw.com/en/postal-traffic-to-us-down-by-over-80-amid-tariffs-un-says/a-73905988)
 * [2025-09-07, 12:57:31](https://news.ycombinator.com/item?id=45157784) - [More and more people are tuning the news out: 'Now I don't have that anxiety](https://www.theguardian.com/society/ng-interactive/2025/sep/01/news-avoidance-high-anxiety)
 * [2025-09-07, 12:07:50](https://news.ycombinator.com/item?id=45157466) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
 * [2025-09-07, 11:20:37](https://news.ycombinator.com/item?id=45157223) - [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
