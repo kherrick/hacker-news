@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-07, 18:06:39](https://news.ycombinator.com/item?id=45160672) - [An empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
 * [2025-09-07, 16:40:55](https://news.ycombinator.com/item?id=45159742) - [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 * [2025-09-07, 15:10:46](https://news.ycombinator.com/item?id=45158877) - [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
@@ -18,7 +19,6 @@
 * [2025-09-06, 21:19:30](https://news.ycombinator.com/item?id=45152940) - [Show HN: I'm making an open-source platform for learning Japanese](https://kanadojo.com)
 * [2025-09-06, 20:57:27](https://news.ycombinator.com/item?id=45152779) - [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
 * [2025-09-06, 19:14:26](https://news.ycombinator.com/item?id=45152066) - [How the “Kim” dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
-* [2025-09-06, 13:04:51](https://news.ycombinator.com/item?id=45148944) - [We hacked Burger King: How auth bypass led to drive-thru audio surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
 * [2025-09-05, 17:14:16](https://news.ycombinator.com/item?id=45140973) - [What to do with an old iPad](http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html)
 * [2025-09-05, 08:43:01](https://news.ycombinator.com/item?id=45136367) - [IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing](https://www.usenix.org/conference/atc25/presentation/landsberg)
 * [2025-09-04, 21:36:03](https://news.ycombinator.com/item?id=45132488) - [SQLite's File Format](https://www.sqlite.org/fileformat.html)

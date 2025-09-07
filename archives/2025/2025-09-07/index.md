@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 18:06:39](https://news.ycombinator.com/item?id=45160672) - [An empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
 * [2025-09-07, 16:56:04](https://news.ycombinator.com/item?id=45159885) - [US Visa Applications Must Be Submitted from Country of Residence or Nationality](https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-nonimmigrant-visa-applicants-in-their-country-of-residence-sep-6-2025.html)
 * [2025-09-07, 16:49:14](https://news.ycombinator.com/item?id=45159812) - [US to target more businesses after Hyundai raid](https://www.reuters.com/business/autos-transportation/us-target-more-businesses-after-hyundai-raid-top-official-says-2025-09-07/)
 * [2025-09-07, 16:40:55](https://news.ycombinator.com/item?id=45159742) - [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire)
