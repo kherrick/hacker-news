@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-09-07, 06:28:04",
-      "https://news.ycombinator.com/item?id=45155877"
-    ],
-    [
-      "The Expression Problem and its solutions",
-      "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 05:38:30",
       "https://news.ycombinator.com/item?id=45155682"
     ],
@@ -247,6 +237,16 @@
     [
       "The race to build a distributed GPU runtime",
       "https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 19:15:10",
+      "https://news.ycombinator.com/item?id=45131121"
+    ],
+    [
+      "Hitting Peak File IO Performance with Zig",
+      "https://steelcake.com/blog/nvme-zig/"
     ]
   ],
   [
