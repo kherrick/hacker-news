@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
+* [2025-09-06, 23:32:22](https://news.ycombinator.com/item?id=45153863) - [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/)
 * [2025-09-06, 23:12:12](https://news.ycombinator.com/item?id=45153763) - [Microsoft confirms multiple subsea fiber cuts in the Red Sea](https://twitter.com/ns123abc/status/1964462207762386970)
 * [2025-09-06, 22:51:42](https://news.ycombinator.com/item?id=45153636) - [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 * [2025-09-06, 22:21:55](https://news.ycombinator.com/item?id=45153428) - [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
@@ -16,6 +17,7 @@
 * [2025-09-06, 20:37:16](https://news.ycombinator.com/item?id=45152648) - [Stop Shipping PNGs in Your Games](https://gamesbymason.com/blog/2025/stop-shipping-pngs/)
 * [2025-09-06, 20:26:13](https://news.ycombinator.com/item?id=45152569) - [Utah's hottest new power source is 15,000 feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
 * [2025-09-06, 20:01:46](https://news.ycombinator.com/item?id=45152403) - [How often do health insurers say no to patients?](https://www.propublica.org/article/how-often-do-health-insurers-deny-patients-claims)
+* [2025-09-06, 20:01:35](https://news.ycombinator.com/item?id=45152402) - [Being Good Isn't Enough](https://joshs.bearblog.dev/being-good-isnt-enough/)
 * [2025-09-06, 19:57:59](https://news.ycombinator.com/item?id=45152374) - [Over 80% of Sunscreen Performed Below Their Labelled Efficacy](https://www.consumer.org.hk/en/press-release/528-sunscreen-test)
 * [2025-09-06, 19:57:08](https://news.ycombinator.com/item?id=45152369) - [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
 * [2025-09-06, 19:40:15](https://news.ycombinator.com/item?id=45152267) - [U.S. Open Orders Broadcasters to Censor Reactions to Trump](https://www.benrothenberg.com/p/us-open-donald-trump-mens-final-attendance-visit-appearance-censorship-tv-booing-protest-jannik-sinner-carlos-alcaraz)
