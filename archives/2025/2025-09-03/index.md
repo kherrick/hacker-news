@@ -16,6 +16,7 @@
 * [2025-09-03, 20:29:13](https://news.ycombinator.com/item?id=45120050) - [The worst possible antitrust outcome](https://pluralistic.net/2025/09/03/unpunishing-process/)
 * [2025-09-03, 19:26:45](https://news.ycombinator.com/item?id=45119552) - [The first Gleam Conference – Gathering 2026](https://gleamgathering.com/)
 * [2025-09-03, 19:09:29](https://news.ycombinator.com/item?id=45119397) - [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
+* [2025-09-03, 19:01:36](https://news.ycombinator.com/item?id=45119310) - [A Technical Update on Submarine Cables [pdf]](https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf)
 * [2025-09-03, 18:41:57](https://news.ycombinator.com/item?id=45119103) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 * [2025-09-03, 18:38:48](https://news.ycombinator.com/item?id=45119076) - [Another YC company was acquihired today by OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
 * [2025-09-03, 17:58:25](https://news.ycombinator.com/item?id=45118689) - [Ask HN: Gandi is holding my domain hostage. What can I do?](https://news.ycombinator.com/item?id=45118689)
