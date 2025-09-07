@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-09-07, 16:40:55",
-      "https://news.ycombinator.com/item?id=45159742"
-    ],
-    [
-      "Campfire: Web-Based Chat Application",
-      "https://github.com/basecamp/once-campfire"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 15:20:29",
       "https://news.ycombinator.com/item?id=45158968"
     ],
@@ -207,6 +197,16 @@
     [
       "SQLite's File Format",
       "https://www.sqlite.org/fileformat.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 20:18:47",
+      "https://news.ycombinator.com/item?id=45131784"
+    ],
+    [
+      "The race to build a distributed GPU runtime",
+      "https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime"
     ]
   ],
   [
