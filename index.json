@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-07, 02:30:16",
+      "https://news.ycombinator.com/item?id=45154857"
+    ],
+    [
+      "Show HN: Lightweight tool for managing Linux virtual machines",
+      "https://github.com/ccheshirecat/flint"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 02:30:07",
       "https://news.ycombinator.com/item?id=45154856"
     ],
@@ -117,16 +127,6 @@
     [
       "Shipping textures as PNGs is suboptimal",
       "https://gamesbymason.com/blog/2025/stop-shipping-pngs/"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 20:26:13",
-      "https://news.ycombinator.com/item?id=45152569"
-    ],
-    [
-      "Cape Station, future home of an enhanced geothermal power plant, in Utah",
-      "https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-09-04, 06:22:20",
-      "https://news.ycombinator.com/item?id=45124165"
+      "2025-09-04, 19:15:10",
+      "https://news.ycombinator.com/item?id=45131121"
     ],
     [
-      "Kruci: Post-mortem of a UI library",
-      "https://pwy.io/posts/kruci-post-mortem/"
+      "Hitting Peak File IO Performance with Zig",
+      "https://steelcake.com/blog/nvme-zig/"
     ]
   ],
   [
