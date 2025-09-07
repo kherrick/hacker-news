@@ -22,7 +22,7 @@
 * [2025-09-07, 09:52:56](https://news.ycombinator.com/item?id=45156826) - [What is the origin of the private network address 192.168.*.*? (2009)](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
 * [2025-09-07, 06:54:29](https://news.ycombinator.com/item?id=45155986) - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 * [2025-09-07, 06:28:04](https://news.ycombinator.com/item?id=45155877) - [The Expression Problem and its solutions (2016)](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/)
-* [2025-09-07, 05:38:30](https://news.ycombinator.com/item?id=45155682) - [The \"impossibly small\" Microdot web framework](https://lwn.net/Articles/1034121/)
+* [2025-09-07, 05:38:30](https://news.ycombinator.com/item?id=45155682) - [The “impossibly small” Microdot web framework](https://lwn.net/Articles/1034121/)
 * [2025-09-06, 19:42:48](https://news.ycombinator.com/item?id=45152284) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search](https://simonwillison.net/2025/Sep/6/research-goblin/)
 * [2025-09-05, 20:16:10](https://news.ycombinator.com/item?id=45143124) - [Speed Brain: Helping web pages load faster (2024)](https://blog.cloudflare.com/introducing-speed-brain/)
 * [2025-09-05, 18:08:20](https://news.ycombinator.com/item?id=45141652) - [Requiem for an Exit](https://calls.ars.electronica.art/2025/prix/winners/15487/)
