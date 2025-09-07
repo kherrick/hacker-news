@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-09-07, 14:43:55",
+      "https://news.ycombinator.com/item?id=45158597"
+    ],
+    [
+      "The Expression Problem and its solution",
+      "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 14:43:07",
       "https://news.ycombinator.com/item?id=45158586"
     ],
@@ -57,16 +67,6 @@
     [
       "Air pollution directly linked to increased dementia risk",
       "https://www.nature.com/articles/d41586-025-02844-9"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 12:57:31",
-      "https://news.ycombinator.com/item?id=45157784"
-    ],
-    [
-      "More and more people are tuning the news out: 'Now I don't have that anxiety",
-      "https://www.theguardian.com/society/ng-interactive/2025/sep/01/news-avoidance-high-anxiety"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-09-06, 20:37:16",
-      "https://news.ycombinator.com/item?id=45152648"
-    ],
-    [
-      "Shipping textures as PNGs is suboptimal",
-      "https://gamesbymason.com/blog/2025/stop-shipping-pngs/"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 19:14:26",
       "https://news.ycombinator.com/item?id=45152066"
     ],
@@ -217,6 +207,16 @@
     [
       "What to do with an old iPad",
       "http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 08:43:01",
+      "https://news.ycombinator.com/item?id=45136367"
+    ],
+    [
+      "IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing",
+      "https://www.usenix.org/conference/atc25/presentation/landsberg"
     ]
   ],
   [
