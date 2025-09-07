@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 * [2025-09-07, 15:10:46](https://news.ycombinator.com/item?id=45158877) - [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
 * [2025-09-07, 14:36:48](https://news.ycombinator.com/item?id=45158525) - [Chrome extension that replaces occurrences of 'the cloud' with 'my butt'](https://github.com/panicsteve/cloud-to-butt)
 * [2025-09-07, 14:36:32](https://news.ycombinator.com/item?id=45158523) - [Delayed Security Patches for AOSP (Android Open Source Project)](https://twitter.com/grapheneos/status/1964561043906048183)
