@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-07, 22:45:51",
+      "https://news.ycombinator.com/item?id=45162886"
+    ],
+    [
+      "Detroit's Carmakers to Save Billions in Emissions Rollback",
+      "https://www.bloomberg.com/news/articles/2025-09-07/detroit-s-carmakers-to-save-billions-in-trump-emissions-rollback"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 22:06:35",
       "https://news.ycombinator.com/item?id=45162626"
     ],
     [
       "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
       "https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 21:50:30",
+      "https://news.ycombinator.com/item?id=45162501"
+    ],
+    [
+      "Creative Technology: The Sound Blaster",
+      "https://www.abortretry.fail/p/the-story-of-creative-technology"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45161816"
     ],
     [
-      "Everything from 1991 Radio Shack ad I now do with my phone",
+      "Everything from 1991 Radio Shack ad I now do with my phone (2014)",
       "https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "How to make metals from Martian dirt",
       "https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 18:50:03",
-      "https://news.ycombinator.com/item?id=45161055"
-    ],
-    [
-      "Electric bill may be paying for big data centers' energy use",
-      "https://theconversation.com/how-your-electric-bill-may-be-paying-for-big-data-centers-energy-use-257794"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45158814"
     ],
     [
-      "SQLite's Use of Tcl",
+      "SQLite's Use of Tcl (2017)",
       "https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-09-07, 06:28:04",
-      "https://news.ycombinator.com/item?id=45155877"
-    ],
-    [
-      "The Expression Problem and its solutions",
-      "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 05:38:30",
       "https://news.ycombinator.com/item?id=45155682"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=45143124"
     ],
     [
-      "Introducing Speed Brain: helping web pages load 45% faster",
+      "Speed Brain: Helping web pages load faster (2024)",
       "https://blog.cloudflare.com/introducing-speed-brain/"
     ]
   ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-09-04, 17:06:14",
+      "https://news.ycombinator.com/item?id=45129507"
+    ],
+    [
+      "Analog optical computer for AI inference and combinatorial optimization",
+      "https://www.nature.com/articles/s41586-025-09430-z"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 22:21:38",
       "https://news.ycombinator.com/item?id=45121010"
     ],
@@ -287,16 +297,6 @@
     [
       "A Technical Update on Submarine Cables [pdf]",
       "https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 14:55:31",
-      "https://news.ycombinator.com/item?id=45116551"
-    ],
-    [
-      "A queasy selling of the family heirlooms",
-      "https://commonreader.wustl.edu/a-queasy-selling-of-the-family-heirlooms/"
     ]
   ]
 ]
