@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 13:15:35](https://news.ycombinator.com/item?id=45157906) - [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
+* [2025-09-07, 13:13:42](https://news.ycombinator.com/item?id=45157897) - [Air pollution directly linked to increased dementia risk](https://www.nature.com/articles/d41586-025-02844-9)
 * [2025-09-07, 12:24:25](https://news.ycombinator.com/item?id=45157567) - [What Really Caused the Sriracha Shortage? (2024)](https://fortune.com/2024/01/30/sriracha-shortage-huy-fong-foods-tabasco-underwood-ranches/)
+* [2025-09-07, 12:07:50](https://news.ycombinator.com/item?id=45157466) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
 * [2025-09-07, 11:20:37](https://news.ycombinator.com/item?id=45157223) - [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
 * [2025-09-07, 11:06:11](https://news.ycombinator.com/item?id=45157142) - [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/)
 * [2025-09-07, 11:00:03](https://news.ycombinator.com/item?id=45157110) - [Serverless Horrors](https://serverlesshorrors.com/)
