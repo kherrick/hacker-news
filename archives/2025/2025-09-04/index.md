@@ -67,6 +67,7 @@
 * [2025-09-04, 05:56:29](https://news.ycombinator.com/item?id=45124003) - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
 * [2025-09-04, 05:39:39](https://news.ycombinator.com/item?id=45123933) - [The life-changing Sarah Paine framework](https://www.valstech.blog/p/the-life-changing-sarah-paine-framework)
 * [2025-09-04, 05:23:47](https://news.ycombinator.com/item?id=45123857) - [William Wordsworth's letter: \"The Law of Copyright\" (1838)](https://gutenberg.org/cache/epub/76806/pg76806-images.html)
+* [2025-09-04, 03:46:10](https://news.ycombinator.com/item?id=45123328) - [Purikura: The Japanese Grandmother of the Selfie](https://www.tokyocowboy.co/articles/purikura-the-grandmother-of-the-selfie)
 * [2025-09-04, 03:01:49](https://news.ycombinator.com/item?id=45123034) - [Polars Cloud and Distributed Polars now available](https://pola.rs/posts/polars-cloud-launch/)
 * [2025-09-04, 02:57:59](https://news.ycombinator.com/item?id=45123015) - [Processing Piano Tutorial Videos in the Browser](https://www.heyraviteja.com/post/portfolio/piano-reader/)
 * [2025-09-04, 02:55:24](https://news.ycombinator.com/item?id=45123003) - [Étoilé – desktop built on GNUStep](http://etoileos.com/)

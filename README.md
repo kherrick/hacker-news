@@ -23,11 +23,11 @@
 * [2025-09-06, 13:04:51](https://news.ycombinator.com/item?id=45148944) - [We hacked Burger King: How auth bypass led to drive-thru audio surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
 * [2025-09-05, 17:14:16](https://news.ycombinator.com/item?id=45140973) - [What to do with an old iPad](http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html)
 * [2025-09-04, 19:15:10](https://news.ycombinator.com/item?id=45131121) - [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/)
-* [2025-09-04, 19:08:23](https://news.ycombinator.com/item?id=45131040) - [X-COM creator Julian Gollop discusses his most important games](https://www.pcgamer.com/collected-works-julian-gollop/)
+* [2025-09-04, 19:08:23](https://news.ycombinator.com/item?id=45131040) - [X-COM creator Julian Gollop discusses his most important games (2019)](https://www.pcgamer.com/collected-works-julian-gollop/)
 * [2025-09-04, 07:52:22](https://news.ycombinator.com/item?id=45124743) - [A robot walks on water thanks to evolution's solution](https://arstechnica.com/science/2025/09/robotic-bug-literally-walks-on-water/)
+* [2025-09-04, 03:46:10](https://news.ycombinator.com/item?id=45123328) - [Purikura: The Japanese Grandmother of the Selfie](https://www.tokyocowboy.co/articles/purikura-the-grandmother-of-the-selfie)
 * [2025-09-04, 00:39:33](https://news.ycombinator.com/item?id=45122069) - [Anonymous recursive functions in Racket](https://github.com/shriram/anonymous-recursive-function)
 * [2025-09-03, 22:21:38](https://news.ycombinator.com/item?id=45121010) - [Like humans, every tree has its own microbiome, a new study has found](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html)
-* [2025-09-03, 16:31:51](https://news.ycombinator.com/item?id=45117718) - [Reveal – Read Eval Visualize Loop for Clojure](https://vlaaad.github.io/reveal/)
 * [2025-09-03, 07:31:11](https://news.ycombinator.com/item?id=45113181) - [Braincraft challenge – 1000 neurons, 100 seconds, 10 runs, 2 choices, no reward](https://github.com/rougier/braincraft)
 * [2025-09-02, 22:26:25](https://news.ycombinator.com/item?id=45109927) - [The World War Two bomber that cost more than the atomic bomb](https://www.bbc.com/future/article/20250829-the-bomber-that-became-ww2s-most-expensive-weapon)
 
