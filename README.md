@@ -11,7 +11,6 @@
 * [2025-09-07, 11:20:37](https://news.ycombinator.com/item?id=45157223) - [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
 * [2025-09-07, 11:00:03](https://news.ycombinator.com/item?id=45157110) - [Serverless Horrors](https://serverlesshorrors.com/)
 * [2025-09-07, 10:38:29](https://news.ycombinator.com/item?id=45157020) - [Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app](https://molecheck.info/)
-* [2025-09-07, 09:52:56](https://news.ycombinator.com/item?id=45156826) - [What is the origin of the private network address 192.168.*.*? (2009)](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
 * [2025-09-07, 06:28:04](https://news.ycombinator.com/item?id=45155877) - [The Expression Problem and its solutions](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/)
 * [2025-09-07, 05:38:30](https://news.ycombinator.com/item?id=45155682) - [The \"impossibly small\" Microdot web framework](https://lwn.net/Articles/1034121/)
 * [2025-09-07, 02:30:16](https://news.ycombinator.com/item?id=45154857) - [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
@@ -29,6 +28,7 @@
 * [2025-09-03, 22:21:38](https://news.ycombinator.com/item?id=45121010) - [Like humans, every tree has its own microbiome, a new study has found](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html)
 * [2025-09-03, 19:01:36](https://news.ycombinator.com/item?id=45119310) - [A Technical Update on Submarine Cables [pdf]](https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf)
 * [2025-09-03, 17:18:09](https://news.ycombinator.com/item?id=45118286) - [Garmin Beats Apple to Market with Satellite-Connected Smartwatch](https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/)
+* [2025-09-03, 14:55:31](https://news.ycombinator.com/item?id=45116551) - [A Queasy Selling of the Family Heirlooms](https://commonreader.wustl.edu/a-queasy-selling-of-the-family-heirlooms/)
 * [2025-09-02, 22:26:25](https://news.ycombinator.com/item?id=45109927) - [The World War Two bomber that cost more than the atomic bomb](https://www.bbc.com/future/article/20250829-the-bomber-that-became-ww2s-most-expensive-weapon)
 
 ## [Archives](archives/index.md)
