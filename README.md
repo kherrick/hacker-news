@@ -8,7 +8,7 @@
 * [2025-09-07, 09:52:56](https://news.ycombinator.com/item?id=45156826) - [What is the origin of the private network address 192.168.*.*? (2009)](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
 * [2025-09-07, 05:38:30](https://news.ycombinator.com/item?id=45155682) - [The \"impossibly small\" Microdot web framework](https://lwn.net/Articles/1034121/)
 * [2025-09-07, 04:05:02](https://news.ycombinator.com/item?id=45155302) - [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
-* [2025-09-07, 03:36:22](https://news.ycombinator.com/item?id=45155179) - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
+* [2025-09-07, 02:46:55](https://news.ycombinator.com/item?id=45154947) - [The world has a running Rational R1000/400 computer again (2019)](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
 * [2025-09-07, 02:30:16](https://news.ycombinator.com/item?id=45154857) - [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
 * [2025-09-07, 01:44:19](https://news.ycombinator.com/item?id=45154609) - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
 * [2025-09-07, 01:26:44](https://news.ycombinator.com/item?id=45154501) - [The key to getting MVC correct is understanding what models are](https://stlab.cc/tips/about-mvc.html)
