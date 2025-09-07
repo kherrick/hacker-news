@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-07, 03:36:22",
+      "https://news.ycombinator.com/item?id=45155179"
+    ],
+    [
+      "RFC 3339 vs. ISO 8601",
+      "https://ijmacd.github.io/rfc3339-iso8601/"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 02:46:55",
       "https://news.ycombinator.com/item?id=45154947"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-09-06, 10:59:12",
-      "https://news.ycombinator.com/item?id=45148237"
-    ],
-    [
-      "Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5",
-      "https://github.com/b4rtaz/distributed-llama/discussions/255"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 07:41:48",
       "https://news.ycombinator.com/item?id=45147385"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-09-04, 07:52:22",
+      "https://news.ycombinator.com/item?id=45124743"
+    ],
+    [
+      "A robot walks on water thanks to evolution's solution",
+      "https://arstechnica.com/science/2025/09/robotic-bug-literally-walks-on-water/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 06:22:20",
       "https://news.ycombinator.com/item?id=45124165"
     ],
@@ -277,16 +287,6 @@
     [
       "Braincraft challenge – 1000 neurons, 100 seconds, 10 runs, 2 choices, no reward",
       "https://github.com/rougier/braincraft"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 23:10:47",
-      "https://news.ycombinator.com/item?id=45110311"
-    ],
-    [
-      "The maths you need to start understanding LLMs",
-      "https://www.gilesthomas.com/2025/09/maths-for-llms"
     ]
   ],
   [
