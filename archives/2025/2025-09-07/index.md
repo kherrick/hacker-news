@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
 * [2025-09-07, 18:16:30](https://news.ycombinator.com/item?id=45160774) - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
 * [2025-09-07, 18:06:39](https://news.ycombinator.com/item?id=45160672) - [An empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
 * [2025-09-07, 16:56:04](https://news.ycombinator.com/item?id=45159885) - [US Visa Applications Must Be Submitted from Country of Residence or Nationality](https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-nonimmigrant-visa-applicants-in-their-country-of-residence-sep-6-2025.html)

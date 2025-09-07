@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
 * [2025-09-07, 18:16:30](https://news.ycombinator.com/item?id=45160774) - [Keeping secrets out of logs (2024)](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
 * [2025-09-07, 16:40:55](https://news.ycombinator.com/item?id=45159742) - [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
@@ -13,7 +14,6 @@
 * [2025-09-07, 06:28:04](https://news.ycombinator.com/item?id=45155877) - [The Expression Problem and its solutions](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/)
 * [2025-09-07, 05:38:30](https://news.ycombinator.com/item?id=45155682) - [The \"impossibly small\" Microdot web framework](https://lwn.net/Articles/1034121/)
 * [2025-09-07, 02:30:16](https://news.ycombinator.com/item?id=45154857) - [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
-* [2025-09-07, 01:44:19](https://news.ycombinator.com/item?id=45154609) - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
 * [2025-09-07, 01:26:44](https://news.ycombinator.com/item?id=45154501) - [The key to getting MVC correct is understanding what models are](https://stlab.cc/tips/about-mvc.html)
 * [2025-09-06, 21:19:30](https://news.ycombinator.com/item?id=45152940) - [Show HN: I'm making an open-source platform for learning Japanese](https://kanadojo.com)
 * [2025-09-06, 20:57:27](https://news.ycombinator.com/item?id=45152779) - [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
