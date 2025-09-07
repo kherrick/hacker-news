@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 21:31:29](https://news.ycombinator.com/item?id=45162368) - [Show HN: OpenCV over WebRTC (in Go)](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
+* [2025-09-07, 21:14:08](https://news.ycombinator.com/item?id=45162220) - [Taco Bell AI Drive-Thru](https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html)
 * [2025-09-07, 21:01:33](https://news.ycombinator.com/item?id=45162110) - [Print GitHub Repositories as Books](https://gitprint.me/)
 * [2025-09-07, 20:31:38](https://news.ycombinator.com/item?id=45161855) - [Pico CSS • Minimal CSS Framework for Semantic HTML](https://picocss.com)
 * [2025-09-07, 20:26:30](https://news.ycombinator.com/item?id=45161816) - [Everything from 1991 Radio Shack ad I now do with my phone](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)

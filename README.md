@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-07, 21:31:29](https://news.ycombinator.com/item?id=45162368) - [Show HN: OpenCV over WebRTC (in Go)](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
+* [2025-09-07, 21:14:08](https://news.ycombinator.com/item?id=45162220) - [Taco Bell AI Drive-Thru](https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html)
 * [2025-09-07, 21:01:33](https://news.ycombinator.com/item?id=45162110) - [Print GitHub Repositories as Books](https://gitprint.me/)
 * [2025-09-07, 20:31:38](https://news.ycombinator.com/item?id=45161855) - [Pico CSS – Minimal CSS Framework for Semantic HTML](https://picocss.com)
 * [2025-09-07, 20:26:30](https://news.ycombinator.com/item?id=45161816) - [Everything from 1991 Radio Shack ad I now do with my phone](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
@@ -23,8 +25,6 @@
 * [2025-09-05, 18:08:20](https://news.ycombinator.com/item?id=45141652) - [Requiem for an Exit](https://calls.ars.electronica.art/2025/prix/winners/15487/)
 * [2025-09-04, 21:36:03](https://news.ycombinator.com/item?id=45132488) - [SQLite's File Format](https://www.sqlite.org/fileformat.html)
 * [2025-09-04, 20:18:47](https://news.ycombinator.com/item?id=45131784) - [The race to build a distributed GPU runtime](https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime)
-* [2025-09-04, 19:15:10](https://news.ycombinator.com/item?id=45131121) - [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/)
-* [2025-09-04, 03:46:10](https://news.ycombinator.com/item?id=45123328) - [Purikura: The Japanese Grandmother of the Selfie](https://www.tokyocowboy.co/articles/purikura-the-grandmother-of-the-selfie)
 * [2025-09-03, 22:21:38](https://news.ycombinator.com/item?id=45121010) - [Like humans, every tree has its own microbiome, a new study has found](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html)
 * [2025-09-03, 21:01:05](https://news.ycombinator.com/item?id=45120381) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
 * [2025-09-03, 19:01:36](https://news.ycombinator.com/item?id=45119310) - [A Technical Update on Submarine Cables [pdf]](https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf)
