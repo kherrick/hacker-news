@@ -6,7 +6,6 @@
 * [2025-09-07, 03:36:22](https://news.ycombinator.com/item?id=45155179) - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 * [2025-09-07, 02:46:55](https://news.ycombinator.com/item?id=45154947) - [The world has a running Rational R1000/400 computer again (2019)](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
 * [2025-09-07, 02:30:16](https://news.ycombinator.com/item?id=45154857) - [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
-* [2025-09-07, 02:30:07](https://news.ycombinator.com/item?id=45154856) - [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html)
 * [2025-09-07, 01:44:19](https://news.ycombinator.com/item?id=45154609) - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
 * [2025-09-07, 01:26:44](https://news.ycombinator.com/item?id=45154501) - [The key to getting MVC correct is understanding what models are](https://stlab.cc/tips/about-mvc.html)
 * [2025-09-06, 22:21:55](https://news.ycombinator.com/item?id=45153428) - [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
@@ -28,6 +27,7 @@
 * [2025-09-04, 06:22:20](https://news.ycombinator.com/item?id=45124165) - [Kruci: Post-mortem of a UI library](https://pwy.io/posts/kruci-post-mortem/)
 * [2025-09-04, 00:39:33](https://news.ycombinator.com/item?id=45122069) - [Anonymous recursive functions in Racket](https://github.com/shriram/anonymous-recursive-function)
 * [2025-09-03, 22:21:38](https://news.ycombinator.com/item?id=45121010) - [Like humans, every tree has its own microbiome, a new study has found](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html)
+* [2025-09-03, 16:31:51](https://news.ycombinator.com/item?id=45117718) - [Reveal – Read Eval Visualize Loop for Clojure](https://vlaaad.github.io/reveal/)
 * [2025-09-03, 07:31:11](https://news.ycombinator.com/item?id=45113181) - [Braincraft challenge – 1000 neurons, 100 seconds, 10 runs, 2 choices, no reward](https://github.com/rougier/braincraft)
 * [2025-09-02, 22:26:25](https://news.ycombinator.com/item?id=45109927) - [The World War Two bomber that cost more than the atomic bomb](https://www.bbc.com/future/article/20250829-the-bomber-that-became-ww2s-most-expensive-weapon)
 

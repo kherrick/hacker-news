@@ -28,6 +28,7 @@
 * [2025-09-03, 17:03:35](https://news.ycombinator.com/item?id=45118111) - [Speeding up PyTorch inference by 87% on Apple with AI-generated Metal kernels](https://gimletlabs.ai/blog/ai-generated-metal-kernels)
 * [2025-09-03, 17:00:04](https://news.ycombinator.com/item?id=45118072) - [Svix (webhooks as a service) is hiring for a founding marketing lead](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22)
 * [2025-09-03, 16:51:05](https://news.ycombinator.com/item?id=45117974) - [Who Owns, Operates, and Develops Your VPN Matters](https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/)
+* [2025-09-03, 16:31:51](https://news.ycombinator.com/item?id=45117718) - [Reveal – Read Eval Visualize Loop for Clojure](https://vlaaad.github.io/reveal/)
 * [2025-09-03, 16:28:23](https://news.ycombinator.com/item?id=45117668) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2025-09-03, 16:21:04](https://news.ycombinator.com/item?id=45117573) - [SomaFM 25th Anniversary](https://somafm.com/XXV/)
 * [2025-09-03, 15:54:12](https://news.ycombinator.com/item?id=45117230) - [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
