@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
 * [2025-09-07, 02:46:55](https://news.ycombinator.com/item?id=45154947) - [The world has a running Rational R1000/400 computer again (2019)](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
+* [2025-09-07, 02:30:16](https://news.ycombinator.com/item?id=45154857) - [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
 * [2025-09-07, 02:30:07](https://news.ycombinator.com/item?id=45154856) - [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html)
 * [2025-09-07, 02:30:07](https://news.ycombinator.com/item?id=45154856) - [Navy SEALs Killed Fishermen to Hide Failed Mission to Wiretap North Korea](https://reason.com/2025/09/05/navy-seals-reportedly-killed-north-korean-fishermen-and-mutilated-their-bodies-to-hide-a-failed-mission/)
 * [2025-09-07, 01:44:19](https://news.ycombinator.com/item?id=45154609) - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)

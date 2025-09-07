@@ -17,6 +17,7 @@
 * [2025-09-04, 20:33:53](https://news.ycombinator.com/item?id=45131921) - [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
 * [2025-09-04, 19:53:42](https://news.ycombinator.com/item?id=45131538) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 19:25:54](https://news.ycombinator.com/item?id=45131243) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
+* [2025-09-04, 19:15:10](https://news.ycombinator.com/item?id=45131121) - [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/)
 * [2025-09-04, 18:06:05](https://news.ycombinator.com/item?id=45130260) - [LLM Visualization](https://bbycroft.net/llm)
 * [2025-09-04, 17:44:49](https://news.ycombinator.com/item?id=45130018) - [The Atomic Bombs Exploded on Earth](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
 * [2025-09-04, 17:07:08](https://news.ycombinator.com/item?id=45129523) - [Saquon Is Playing for Equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
