@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=45163043"
     ],
     [
-      "Formatting code should be unnecessary (and we knew this back in the 80s)",
+      "Formatting code should be unnecessary",
       "https://maxleiter.com/blog/formatting"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
       "https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 22:03:13",
+      "https://news.ycombinator.com/item?id=45162593"
+    ],
+    [
+      "Taking Buildkite from a side project to a global company",
+      "https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "SQLite's Use of Tcl (2017)",
       "https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 13:15:35",
-      "https://news.ycombinator.com/item?id=45157906"
-    ],
-    [
-      "Belling the Cat",
-      "https://en.wikipedia.org/wiki/Belling_the_Cat"
     ]
   ],
   [
