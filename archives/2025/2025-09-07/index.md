@@ -18,3 +18,4 @@
 * [2025-09-07, 01:13:32](https://news.ycombinator.com/item?id=45154402) - [Game launcher installs Root CA certificate on your machine (2024)](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/issues/276)
 * [2025-09-07, 00:45:22](https://news.ycombinator.com/item?id=45154270) - [Blogs used to be different](https://jetgirl.art/blogs-used-to-be-very-different/)
 * [2025-09-07, 00:29:16](https://news.ycombinator.com/item?id=45154176) - [mitchivin.com](https://mitchivin.com/)
+* [2025-09-07, 00:08:50](https://news.ycombinator.com/item?id=45154044) - [The CoPilot Productivity Paradox](https://www.marginalia.nu/log/a_125_ai_assistants/)
