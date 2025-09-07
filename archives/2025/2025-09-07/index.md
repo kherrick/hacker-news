@@ -6,6 +6,8 @@
 
 * [2025-09-07, 13:15:35](https://news.ycombinator.com/item?id=45157906) - [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
 * [2025-09-07, 13:13:42](https://news.ycombinator.com/item?id=45157897) - [Air pollution directly linked to increased dementia risk](https://www.nature.com/articles/d41586-025-02844-9)
+* [2025-09-07, 13:04:51](https://news.ycombinator.com/item?id=45157837) - [Postal traffic to US down by over 80% amid tariffs, UN says](https://www.dw.com/en/postal-traffic-to-us-down-by-over-80-amid-tariffs-un-says/a-73905988)
+* [2025-09-07, 12:57:31](https://news.ycombinator.com/item?id=45157784) - [More and more people are tuning the news out: 'Now I don't have that anxiety](https://www.theguardian.com/society/ng-interactive/2025/sep/01/news-avoidance-high-anxiety)
 * [2025-09-07, 12:24:25](https://news.ycombinator.com/item?id=45157567) - [What Really Caused the Sriracha Shortage? (2024)](https://fortune.com/2024/01/30/sriracha-shortage-huy-fong-foods-tabasco-underwood-ranches/)
 * [2025-09-07, 12:07:50](https://news.ycombinator.com/item?id=45157466) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
 * [2025-09-07, 11:20:37](https://news.ycombinator.com/item?id=45157223) - [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
