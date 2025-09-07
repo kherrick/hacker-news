@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-07, 23:08:42",
+      "https://news.ycombinator.com/item?id=45163043"
+    ],
+    [
+      "Formatting code should be unnecessary (and we knew this back in the 80s)",
+      "https://maxleiter.com/blog/formatting"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 23:00:00",
+      "https://news.ycombinator.com/item?id=45162980"
+    ],
+    [
+      "South Korea will bring home 300 workers detained in Hyundai plant raid",
+      "https://apnews.com/article/us-south-korea-ice-raid-georgia-hyundai-ee8781d965c74a5ee18525ce87959ba4"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 22:45:51",
       "https://news.ycombinator.com/item?id=45162886"
     ],
     [
       "Detroit's Carmakers to Save Billions in Emissions Rollback",
       "https://www.bloomberg.com/news/articles/2025-09-07/detroit-s-carmakers-to-save-billions-in-trump-emissions-rollback"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 22:34:23",
+      "https://news.ycombinator.com/item?id=45162803"
+    ],
+    [
+      "The demo scene is dying, but that's alright",
+      "https://www.datagubbe.se/sceneherit/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-09-07, 18:17:29",
-      "https://news.ycombinator.com/item?id=45160780"
-    ],
-    [
-      "Submarine Cable Map",
-      "https://www.submarinecablemap.com/"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 18:16:30",
       "https://news.ycombinator.com/item?id=45160774"
     ],
@@ -181,22 +201,32 @@
   ],
   [
     [
+      "2025-09-07, 06:54:29",
+      "https://news.ycombinator.com/item?id=45155986"
+    ],
+    [
+      "I am giving up on Intel and have bought an AMD Ryzen 9950X3D",
+      "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 06:28:04",
+      "https://news.ycombinator.com/item?id=45155877"
+    ],
+    [
+      "The Expression Problem and its solutions (2016)",
+      "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 05:38:30",
       "https://news.ycombinator.com/item?id=45155682"
     ],
     [
       "The \"impossibly small\" Microdot web framework",
       "https://lwn.net/Articles/1034121/"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 01:26:44",
-      "https://news.ycombinator.com/item?id=45154501"
-    ],
-    [
-      "The key to getting MVC correct is understanding what models are",
-      "https://stlab.cc/tips/about-mvc.html"
     ]
   ],
   [
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2025-09-04, 19:15:10",
-      "https://news.ycombinator.com/item?id=45131121"
-    ],
-    [
-      "Hitting Peak File IO Performance with Zig",
-      "https://steelcake.com/blog/nvme-zig/"
-    ]
-  ],
-  [
-    [
       "2025-09-04, 17:06:14",
       "https://news.ycombinator.com/item?id=45129507"
     ],
     [
       "Analog optical computer for AI inference and combinatorial optimization",
       "https://www.nature.com/articles/s41586-025-09430-z"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 22:21:38",
-      "https://news.ycombinator.com/item?id=45121010"
-    ],
-    [
-      "Like humans, every tree has its own microbiome, a new study has found",
-      "https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 21:01:05",
-      "https://news.ycombinator.com/item?id=45120381"
-    ],
-    [
-      "Action was the best 8-bit programming language",
-      "https://www.goto10retro.com/p/action-was-the-best-8-bit-programming"
     ]
   ],
   [
