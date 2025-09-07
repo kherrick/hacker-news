@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-07, 18:06:39",
-      "https://news.ycombinator.com/item?id=45160672"
+      "2025-09-07, 18:16:30",
+      "https://news.ycombinator.com/item?id=45160774"
     ],
     [
-      "An empty S3 bucket can make your AWS bill explode",
-      "https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1"
+      "Keeping Secrets Out of Logs",
+      "https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 16:56:04",
+      "https://news.ycombinator.com/item?id=45159885"
+    ],
+    [
+      "US Visa Applications Must Be Submitted from Country of Residence or Nationality",
+      "https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-nonimmigrant-visa-applicants-in-their-country-of-residence-sep-6-2025.html"
     ]
   ],
   [
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-09-07, 15:10:46",
-      "https://news.ycombinator.com/item?id=45158877"
-    ],
-    [
-      "Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube",
-      "https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 14:36:32",
       "https://news.ycombinator.com/item?id=45158523"
     ],
@@ -57,16 +57,6 @@
     [
       "Belling the Cat",
       "https://en.wikipedia.org/wiki/Belling_the_Cat"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 13:13:42",
-      "https://news.ycombinator.com/item?id=45157897"
-    ],
-    [
-      "Air pollution directly linked to increased dementia risk",
-      "https://www.nature.com/articles/d41586-025-02844-9"
     ]
   ],
   [
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2025-09-05, 17:14:16",
-      "https://news.ycombinator.com/item?id=45140973"
-    ],
-    [
-      "What to do with an old iPad",
-      "http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 08:43:01",
       "https://news.ycombinator.com/item?id=45136367"
     ],
@@ -227,6 +207,16 @@
     [
       "Hitting Peak File IO Performance with Zig",
       "https://steelcake.com/blog/nvme-zig/"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 07:08:29",
+      "https://news.ycombinator.com/item?id=45124445"
+    ],
+    [
+      "Show HN: rm-safely – A shell alias that moves files to trash instead of deleting",
+      "https://github.com/zdk/rm-safely"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Garmin Beats Apple to Market with Satellite-Connected Smartwatch",
       "https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 14:55:31",
+      "https://news.ycombinator.com/item?id=45116551"
+    ],
+    [
+      "A queasy selling of the family heirlooms",
+      "https://commonreader.wustl.edu/a-queasy-selling-of-the-family-heirlooms/"
     ]
   ],
   [
