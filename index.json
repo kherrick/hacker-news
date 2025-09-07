@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-07, 00:29:16",
+      "https://news.ycombinator.com/item?id=45154176"
+    ],
+    [
+      "mitchivin.com",
+      "https://mitchivin.com/"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 23:32:22",
+      "https://news.ycombinator.com/item?id=45153863"
+    ],
+    [
+      "Show HN: Send kind and aspirational words to a stranger who needs it",
+      "https://kindnesssender.com/"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 22:51:42",
       "https://news.ycombinator.com/item?id=45153636"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-09-06, 21:04:49",
-      "https://news.ycombinator.com/item?id=45152816"
-    ],
-    [
-      "Qantas is cutting executive bonuses after data breach",
-      "https://www.flightglobal.com/airlines/qantas-slashes-executive-pay-by-15-after-data-breach/164398.article"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 20:57:27",
       "https://news.ycombinator.com/item?id=45152779"
     ],
@@ -95,8 +105,18 @@
       "https://news.ycombinator.com/item?id=45152569"
     ],
     [
-      "Utah's hottest new power source is 15k feet below the ground",
+      "Cape Station, future home of an enhanced geothermal power plant, in Utah",
       "https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 20:01:35",
+      "https://news.ycombinator.com/item?id=45152402"
+    ],
+    [
+      "Being Good Isn't Enough",
+      "https://joshs.bearblog.dev/being-good-isnt-enough/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Over 80% of Sunscreen Performed Below Their Labelled Efficacy (2020)",
       "https://www.consumer.org.hk/en/press-release/528-sunscreen-test"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 19:57:08",
-      "https://news.ycombinator.com/item?id=45152369"
-    ],
-    [
-      "Europe enters the exascale supercomputing league with Jupiter",
-      "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Stop writing CLI validation. Parse it right the first time",
       "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 18:17:06",
-      "https://news.ycombinator.com/item?id=45151598"
-    ],
-    [
-      "GigaByte CXL memory expansion card with up to 512GB DRAM",
-      "https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-09-05, 20:07:13",
-      "https://news.ycombinator.com/item?id=45143019"
-    ],
-    [
-      "William James at CERN (1995)",
-      "http://bactra.org/wm-james-at-cern/"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 18:16:18",
       "https://news.ycombinator.com/item?id=45141769"
     ],
@@ -247,6 +237,16 @@
     [
       "What to Do with an Old iPad",
       "http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 06:22:20",
+      "https://news.ycombinator.com/item?id=45124165"
+    ],
+    [
+      "Kruci: Post-mortem of a UI library",
+      "https://pwy.io/posts/kruci-post-mortem/"
     ]
   ],
   [
