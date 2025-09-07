@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-07, 06:54:29](https://news.ycombinator.com/item?id=45155986) - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
+* [2025-09-07, 07:12:04](https://news.ycombinator.com/item?id=45156067) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research)
 * [2025-09-07, 05:38:30](https://news.ycombinator.com/item?id=45155682) - [The \"impossibly small\" Microdot web framework](https://lwn.net/Articles/1034121/)
 * [2025-09-07, 04:27:18](https://news.ycombinator.com/item?id=45155398) - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
 * [2025-09-07, 04:05:02](https://news.ycombinator.com/item?id=45155302) - [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
