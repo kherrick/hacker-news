@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 16:56:04](https://news.ycombinator.com/item?id=45159885) - [US Visa Applications Must Be Submitted from Country of Residence or Nationality](https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-nonimmigrant-visa-applicants-in-their-country-of-residence-sep-6-2025.html)
+* [2025-09-07, 16:49:14](https://news.ycombinator.com/item?id=45159812) - [US to target more businesses after Hyundai raid](https://www.reuters.com/business/autos-transportation/us-target-more-businesses-after-hyundai-raid-top-official-says-2025-09-07/)
 * [2025-09-07, 16:40:55](https://news.ycombinator.com/item?id=45159742) - [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 * [2025-09-07, 15:10:46](https://news.ycombinator.com/item?id=45158877) - [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
