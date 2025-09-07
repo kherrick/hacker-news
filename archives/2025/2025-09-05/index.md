@@ -16,6 +16,7 @@
 * [2025-09-05, 21:21:08](https://news.ycombinator.com/item?id=45143759) - [US special forces botched 2019 North Korean mission](https://www.reuters.com/world/asia-pacific/us-special-forces-killed-north-korean-civilians-in-botched-2019-mission-nyt-says-2025-09-05/)
 * [2025-09-05, 21:00:26](https://news.ycombinator.com/item?id=45143548) - [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
 * [2025-09-05, 20:24:39](https://news.ycombinator.com/item?id=45143209) - [California AG to OpenAI: Harm to Children Will Not Be Tolerated](https://oag.ca.gov/news/press-releases/attorney-general-bonta-openai-harm-children-will-not-be-tolerated)
+* [2025-09-05, 20:16:10](https://news.ycombinator.com/item?id=45143124) - [Introducing Speed Brain: helping web pages load 45% faster](https://blog.cloudflare.com/introducing-speed-brain/)
 * [2025-09-05, 20:11:39](https://news.ycombinator.com/item?id=45143077) - [The Day I Kissed Comment Culture Goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
 * [2025-09-05, 20:07:13](https://news.ycombinator.com/item?id=45143019) - [William James at CERN (1995)](http://bactra.org/wm-james-at-cern/)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
