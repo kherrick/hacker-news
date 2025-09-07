@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-07, 06:54:29](https://news.ycombinator.com/item?id=45155986) - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 * [2025-09-07, 04:27:18](https://news.ycombinator.com/item?id=45155398) - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
 * [2025-09-07, 04:05:02](https://news.ycombinator.com/item?id=45155302) - [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
 * [2025-09-07, 03:36:22](https://news.ycombinator.com/item?id=45155179) - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
@@ -13,7 +14,6 @@
 * [2025-09-06, 20:57:27](https://news.ycombinator.com/item?id=45152779) - [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
 * [2025-09-06, 20:37:16](https://news.ycombinator.com/item?id=45152648) - [Shipping textures as PNGs is suboptimal](https://gamesbymason.com/blog/2025/stop-shipping-pngs/)
 * [2025-09-06, 20:01:35](https://news.ycombinator.com/item?id=45152402) - [Being good isn't enough](https://joshs.bearblog.dev/being-good-isnt-enough/)
-* [2025-09-06, 19:57:59](https://news.ycombinator.com/item?id=45152374) - [Over 80% of sunscreen performed below their labelled efficacy (2020)](https://www.consumer.org.hk/en/press-release/528-sunscreen-test)
 * [2025-09-06, 19:14:26](https://news.ycombinator.com/item?id=45152066) - [How the “Kim” dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
 * [2025-09-06, 18:20:26](https://news.ycombinator.com/item?id=45151622) - [Stop writing CLI validation. Parse it right the first time](https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time)
 * [2025-09-06, 18:17:06](https://news.ycombinator.com/item?id=45151598) - [GigaByte CXL memory expansion card with up to 512GB DRAM](https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4)

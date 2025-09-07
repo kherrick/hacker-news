@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 06:54:29](https://news.ycombinator.com/item?id=45155986) - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 * [2025-09-07, 04:27:18](https://news.ycombinator.com/item?id=45155398) - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
 * [2025-09-07, 04:05:02](https://news.ycombinator.com/item?id=45155302) - [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
 * [2025-09-07, 03:36:22](https://news.ycombinator.com/item?id=45155179) - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
