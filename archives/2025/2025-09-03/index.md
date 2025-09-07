@@ -13,6 +13,7 @@
 * [2025-09-03, 22:07:12](https://news.ycombinator.com/item?id=45120905) - [Troubleshooting ZFS – Common Issues and How to Fix Them](https://klarasystems.com/articles/troubleshooting-zfs-common-issues-how-to-fix-them/)
 * [2025-09-03, 21:53:31](https://news.ycombinator.com/item?id=45120786) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
 * [2025-09-03, 21:18:29](https://news.ycombinator.com/item?id=45120517) - [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
+* [2025-09-03, 21:01:05](https://news.ycombinator.com/item?id=45120381) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
 * [2025-09-03, 21:00:27](https://news.ycombinator.com/item?id=45120373) - [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
 * [2025-09-03, 20:29:13](https://news.ycombinator.com/item?id=45120050) - [The worst possible antitrust outcome](https://pluralistic.net/2025/09/03/unpunishing-process/)
 * [2025-09-03, 19:26:45](https://news.ycombinator.com/item?id=45119552) - [The first Gleam Conference – Gathering 2026](https://gleamgathering.com/)
