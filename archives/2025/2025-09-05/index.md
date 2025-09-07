@@ -22,6 +22,7 @@
 * [2025-09-05, 19:08:49](https://news.ycombinator.com/item?id=45142397) - [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
 * [2025-09-05, 18:16:18](https://news.ycombinator.com/item?id=45141769) - [Matmul on Blackwell: Part 2 – Using Hardware Features to Optimize Matmul](https://www.modular.com/blog/matrix-multiplication-on-nvidias-blackwell-part-2-using-hardware-features-to-optimize-matmul)
 * [2025-09-05, 18:15:42](https://news.ycombinator.com/item?id=45141762) - [Fantastic Pretraining Optimizers and Where to Find Them](https://arxiv.org/abs/2509.02046)
+* [2025-09-05, 18:08:20](https://news.ycombinator.com/item?id=45141652) - [Requiem for an Exit](https://calls.ars.electronica.art/2025/prix/winners/15487/)
 * [2025-09-05, 18:06:33](https://news.ycombinator.com/item?id=45141636) - [Making a Font of My Handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
 * [2025-09-05, 17:14:16](https://news.ycombinator.com/item?id=45140973) - [What to Do with an Old iPad](http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html)
 * [2025-09-05, 17:09:35](https://news.ycombinator.com/item?id=45140921) - [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
