@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 13:35:44](https://news.ycombinator.com/item?id=45158030) - [South Korean workers detained in Hyundai plant raid to be freed and flown home](https://www.nbcnews.com/news/us-news/south-korea-deal-workers-detained-hyundai-rcna229610)
 * [2025-09-07, 13:15:35](https://news.ycombinator.com/item?id=45157906) - [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
 * [2025-09-07, 13:13:42](https://news.ycombinator.com/item?id=45157897) - [Air pollution directly linked to increased dementia risk](https://www.nature.com/articles/d41586-025-02844-9)
 * [2025-09-07, 13:04:51](https://news.ycombinator.com/item?id=45157837) - [Postal traffic to US down by over 80% amid tariffs, UN says](https://www.dw.com/en/postal-traffic-to-us-down-by-over-80-amid-tariffs-un-says/a-73905988)
 * [2025-09-07, 12:57:31](https://news.ycombinator.com/item?id=45157784) - [More and more people are tuning the news out: 'Now I don't have that anxiety](https://www.theguardian.com/society/ng-interactive/2025/sep/01/news-avoidance-high-anxiety)
+* [2025-09-07, 12:52:20](https://news.ycombinator.com/item?id=45157748) - [ChatGPT is NOT a LLM – GPT is](https://www.vincirufus.com/posts/chatgpt-is-not-an-llm/)
 * [2025-09-07, 12:24:25](https://news.ycombinator.com/item?id=45157567) - [What Really Caused the Sriracha Shortage? (2024)](https://fortune.com/2024/01/30/sriracha-shortage-huy-fong-foods-tabasco-underwood-ranches/)
 * [2025-09-07, 12:07:50](https://news.ycombinator.com/item?id=45157466) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
 * [2025-09-07, 11:20:37](https://news.ycombinator.com/item?id=45157223) - [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
@@ -18,6 +20,7 @@
 * [2025-09-07, 09:18:48](https://news.ycombinator.com/item?id=45156660) - [Nominees: The fastest legal way to lose your company](https://johnnydoe.is/threads/nominees-the-fastest-legal-way-to-lose-your-company.42278/)
 * [2025-09-07, 07:12:04](https://news.ycombinator.com/item?id=45156067) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research)
 * [2025-09-07, 06:54:29](https://news.ycombinator.com/item?id=45155986) - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
+* [2025-09-07, 06:28:04](https://news.ycombinator.com/item?id=45155877) - [The Expression Problem and its solutions](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/)
 * [2025-09-07, 05:38:30](https://news.ycombinator.com/item?id=45155682) - [The \"impossibly small\" Microdot web framework](https://lwn.net/Articles/1034121/)
 * [2025-09-07, 04:27:18](https://news.ycombinator.com/item?id=45155398) - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
 * [2025-09-07, 04:05:02](https://news.ycombinator.com/item?id=45155302) - [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
