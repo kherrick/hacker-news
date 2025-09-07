@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 23:59:15](https://news.ycombinator.com/item?id=45121776) - [Way to Address Product Design Failure](https://www.core77.com/posts/138379/The-Best-Way-to-Address-Product-Design-Failure)
 * [2025-09-03, 23:52:58](https://news.ycombinator.com/item?id=45121721) - [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
 * [2025-09-03, 23:37:54](https://news.ycombinator.com/item?id=45121581) - [Novel hollow-core optical fiber transmits data 45% faster with record low loss](https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html)
 * [2025-09-03, 23:32:57](https://news.ycombinator.com/item?id=45121547) - [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
