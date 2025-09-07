@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-07, 11:06:11](https://news.ycombinator.com/item?id=45157142) - [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/)
 * [2025-09-07, 09:52:56](https://news.ycombinator.com/item?id=45156826) - [What is the origin of the private network address 192.168.*.*?](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
 * [2025-09-07, 07:12:04](https://news.ycombinator.com/item?id=45156067) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research)
 * [2025-09-07, 05:38:30](https://news.ycombinator.com/item?id=45155682) - [The \"impossibly small\" Microdot web framework](https://lwn.net/Articles/1034121/)
@@ -17,7 +18,6 @@
 * [2025-09-06, 20:01:35](https://news.ycombinator.com/item?id=45152402) - [Being good isn't enough](https://joshs.bearblog.dev/being-good-isnt-enough/)
 * [2025-09-06, 19:14:26](https://news.ycombinator.com/item?id=45152066) - [How the “Kim” dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
 * [2025-09-06, 18:20:26](https://news.ycombinator.com/item?id=45151622) - [Stop writing CLI validation. Parse it right the first time](https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time)
-* [2025-09-06, 18:17:06](https://news.ycombinator.com/item?id=45151598) - [GigaByte CXL memory expansion card with up to 512GB DRAM](https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4)
 * [2025-09-06, 14:34:55](https://news.ycombinator.com/item?id=45149626) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 13:04:51](https://news.ycombinator.com/item?id=45148944) - [We hacked Burger King: How auth bypass led to drive-thru audio surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
 * [2025-09-05, 17:14:16](https://news.ycombinator.com/item?id=45140973) - [What to do with an old iPad](http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html)

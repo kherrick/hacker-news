@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 11:06:11](https://news.ycombinator.com/item?id=45157142) - [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/)
 * [2025-09-07, 09:52:56](https://news.ycombinator.com/item?id=45156826) - [What is the origin of the private network address 192.168.*.*?](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
 * [2025-09-07, 09:18:48](https://news.ycombinator.com/item?id=45156660) - [Nominees: The fastest legal way to lose your company](https://johnnydoe.is/threads/nominees-the-fastest-legal-way-to-lose-your-company.42278/)
 * [2025-09-07, 07:12:04](https://news.ycombinator.com/item?id=45156067) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research)
