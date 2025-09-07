@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-07, 20:11:06",
-      "https://news.ycombinator.com/item?id=45161702"
+      "2025-09-07, 20:31:38",
+      "https://news.ycombinator.com/item?id=45161855"
     ],
     [
-      "How did Tether profit $13B in 2024 from USDT?",
-      "https://antongolub.substack.com/p/how-did-tether-profit-13-billion"
+      "Pico CSS • Minimal CSS Framework for Semantic HTML",
+      "https://picocss.com"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 20:26:30",
+      "https://news.ycombinator.com/item?id=45161816"
+    ],
+    [
+      "Everything from 1991 Radio Shack ad I now do with my phone",
+      "https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45161618"
     ],
     [
-      "Just How Bad Would an AI Bubble Be?",
+      "Just how bad would an AI bubble be?",
       "https://www.theatlantic.com/economy/archive/2025/09/ai-bubble-us-economy/684128/"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45161556"
     ],
     [
-      "No Silver Bullet: Essence and Accidents of Software Engineering [pdf]",
+      "No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]",
       "https://www.cs.unc.edu/techreports/86-020.pdf"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45157223"
     ],
     [
-      "Show HN: Semantic grep for Claude Code (local embeddings)",
+      "Show HN: Semantic grep with local embeddings",
       "https://github.com/BeaconBay/ck"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "SQLite's File Format",
       "https://www.sqlite.org/fileformat.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 20:18:47",
-      "https://news.ycombinator.com/item?id=45131784"
-    ],
-    [
-      "The race to build a distributed GPU runtime",
-      "https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime"
     ]
   ],
   [
