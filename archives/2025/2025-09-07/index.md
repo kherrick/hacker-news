@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 20:11:06](https://news.ycombinator.com/item?id=45161702) - [How did Tether profit $13B in 2024 from USDT?](https://antongolub.substack.com/p/how-did-tether-profit-13-billion)
 * [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
 * [2025-09-07, 18:17:29](https://news.ycombinator.com/item?id=45160780) - [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [2025-09-07, 18:16:30](https://news.ycombinator.com/item?id=45160774) - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)

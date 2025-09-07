@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-07, 20:11:06](https://news.ycombinator.com/item?id=45161702) - [How did Tether profit $13B in 2024 from USDT?](https://antongolub.substack.com/p/how-did-tether-profit-13-billion)
 * [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
 * [2025-09-07, 18:17:29](https://news.ycombinator.com/item?id=45160780) - [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [2025-09-07, 18:16:30](https://news.ycombinator.com/item?id=45160774) - [Keeping secrets out of logs (2024)](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
@@ -22,7 +23,6 @@
 * [2025-09-04, 21:36:03](https://news.ycombinator.com/item?id=45132488) - [SQLite's File Format](https://www.sqlite.org/fileformat.html)
 * [2025-09-04, 20:18:47](https://news.ycombinator.com/item?id=45131784) - [The race to build a distributed GPU runtime](https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime)
 * [2025-09-04, 19:15:10](https://news.ycombinator.com/item?id=45131121) - [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/)
-* [2025-09-04, 07:08:29](https://news.ycombinator.com/item?id=45124445) - [Show HN: rm-safely – A shell alias that moves files to trash instead of deleting](https://github.com/zdk/rm-safely)
 * [2025-09-04, 03:46:10](https://news.ycombinator.com/item?id=45123328) - [Purikura: The Japanese Grandmother of the Selfie](https://www.tokyocowboy.co/articles/purikura-the-grandmother-of-the-selfie)
 * [2025-09-03, 23:59:15](https://news.ycombinator.com/item?id=45121776) - [Way to Address Product Design Failure](https://www.core77.com/posts/138379/The-Best-Way-to-Address-Product-Design-Failure)
 * [2025-09-03, 22:21:38](https://news.ycombinator.com/item?id=45121010) - [Like humans, every tree has its own microbiome, a new study has found](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html)
