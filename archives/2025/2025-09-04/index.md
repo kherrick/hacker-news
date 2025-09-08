@@ -23,6 +23,7 @@
 * [2025-09-04, 19:15:10](https://news.ycombinator.com/item?id=45131121) - [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/)
 * [2025-09-04, 19:08:23](https://news.ycombinator.com/item?id=45131040) - [X-COM creator Julian Gollop discusses his most important games](https://www.pcgamer.com/collected-works-julian-gollop/)
 * [2025-09-04, 18:06:05](https://news.ycombinator.com/item?id=45130260) - [LLM Visualization](https://bbycroft.net/llm)
+* [2025-09-04, 17:56:29](https://news.ycombinator.com/item?id=45130143) - [I solved a distributed queue problem after 15 years](https://www.dbos.dev/blog/durable-queues)
 * [2025-09-04, 17:44:49](https://news.ycombinator.com/item?id=45130018) - [The Atomic Bombs Exploded on Earth](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
 * [2025-09-04, 17:07:08](https://news.ycombinator.com/item?id=45129523) - [Saquon Is Playing for Equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
 * [2025-09-04, 17:06:14](https://news.ycombinator.com/item?id=45129507) - [Analog optical computer for AI inference and combinatorial optimization](https://www.nature.com/articles/s41586-025-09430-z)
