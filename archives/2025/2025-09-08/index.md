@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 18:57:57](https://news.ycombinator.com/item?id=45172337) - [Setting up a home VPN server with WireGuard](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 * [2025-09-08, 17:44:52](https://news.ycombinator.com/item?id=45171361) - [Escaping the Internet](https://www.ryanckulp.com/escaping-the-internet/)
 * [2025-09-08, 17:33:44](https://news.ycombinator.com/item?id=45171200) - [iPhone Dumbphone](https://stopa.io/post/297)
 * [2025-09-08, 17:20:29](https://news.ycombinator.com/item?id=45171009) - [U.S. Supreme Court Allows Racial Targeting ICE Raids to Continue in LA](https://www.reuters.com/world/us/us-supreme-court-backs-trump-aggressive-immigration-raids-2025-09-08/)
+* [2025-09-08, 17:17:55](https://news.ycombinator.com/item?id=45170979) - [New Google Court Doc: Open Web Is in Rapid Decline](https://www.seroundtable.com/google-open-web-is-in-rapid-decline-40068.html)
 * [2025-09-08, 16:53:42](https://news.ycombinator.com/item?id=45170647) - [AI Is Not a Bubble](https://danielmiessler.com/blog/no-ai-is-not-a-bubble)
 * [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 * [2025-09-08, 16:24:33](https://news.ycombinator.com/item?id=45170244) - [Our data shows San Francisco tech workers are working Saturdays](https://ramp.com/velocity/san-francisco-tech-workers-996-schedule)
@@ -53,4 +55,5 @@
 * [2025-09-08, 01:56:49](https://news.ycombinator.com/item?id=45164042) - [The End of the American City](https://kevinerdmann.substack.com/p/the-end-of-the-american-city)
 * [2025-09-08, 01:56:04](https://news.ycombinator.com/item?id=45164037) - [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
 * [2025-09-08, 01:53:11](https://news.ycombinator.com/item?id=45164026) - [Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself](https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/)
+* [2025-09-08, 01:32:42](https://news.ycombinator.com/item?id=45163948) - [Bob Stein and Voyager (2021)](https://www.filfre.net/2021/06/bob-stein-and-voyager/)
 * [2025-09-08, 00:30:19](https://news.ycombinator.com/item?id=45163598) - [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x)
