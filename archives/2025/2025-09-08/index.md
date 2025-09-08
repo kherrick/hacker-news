@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
 * [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 * [2025-09-08, 15:32:46](https://news.ycombinator.com/item?id=45169584) - [Google gets away almost scot-free in US search antitrust case](https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html)
 * [2025-09-08, 15:25:03](https://news.ycombinator.com/item?id=45169480) - [American Flying Empty Airbus A321neo Across the Atlantic 20 Times](https://onemileatatime.com/news/american-flying-empty-airbus-a321neo-across-atlantic/)
+* [2025-09-08, 15:08:56](https://news.ycombinator.com/item?id=45169286) - [Browser Fingerprint Detector](https://fingerprint.goldenowl.ai/)
 * [2025-09-08, 15:08:20](https://news.ycombinator.com/item?id=45169275) - [Clankers Die on Christmas](https://remyhax.xyz/posts/clankers-die-on-christmas/)
 * [2025-09-08, 14:59:30](https://news.ycombinator.com/item?id=45169157) - [Dietary omega-3 polyunsaturated fatty acids as a protective factor of myopia](https://bjo.bmj.com/content/early/2025/08/17/bjo-2024-326872)
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
