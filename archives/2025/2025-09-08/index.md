@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 12:38:49](https://news.ycombinator.com/item?id=45167534) - [ICEBlock handled my vulnerability report in the worst possible way](https://micahflee.com/iceblock-handled-my-vulnerability-report-in-the-worst-possible-way/)
+* [2025-09-08, 12:18:55](https://news.ycombinator.com/item?id=45167394) - [Package Managers Are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
+* [2025-09-08, 12:01:18](https://news.ycombinator.com/item?id=45167245) - [Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64](https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/)
 * [2025-09-08, 12:00:23](https://news.ycombinator.com/item?id=45167239) - [VMware's in court again. Customer relationships rarely go this wrong](https://www.theregister.com/2025/09/08/vmware_in_court_opinion/)
 * [2025-09-08, 11:24:42](https://news.ycombinator.com/item?id=45166972) - [14 Killed in protests in Nepal over social media ban](https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/)
 * [2025-09-08, 10:50:01](https://news.ycombinator.com/item?id=45166750) - [RSS Beat Microsoft](https://buttondown.com/blog/rss-vs-ice)
@@ -11,6 +14,7 @@
 * [2025-09-08, 08:29:14](https://news.ycombinator.com/item?id=45165902) - [50k art hoes will save San Francisco](https://twitter.com/taotechic/status/1964551131977437674)
 * [2025-09-08, 08:28:15](https://news.ycombinator.com/item?id=45165897) - [Show HN: TheAuditor – Offline security scanner for AI-generated code](https://github.com/TheAuditorTool/Auditor)
 * [2025-09-08, 08:26:44](https://news.ycombinator.com/item?id=45165885) - [How can I deal with a team member who is always complaining?](https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining)
+* [2025-09-08, 07:58:38](https://news.ycombinator.com/item?id=45165684) - [Immich – High performance self-hosted photo and video management solution](https://github.com/immich-app/immich)
 * [2025-09-08, 06:38:34](https://news.ycombinator.com/item?id=45165245) - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
 * [2025-09-08, 06:26:43](https://news.ycombinator.com/item?id=45165186) - [Britain built some of the safest roads](https://ourworldindata.org/britain-safest-roads-history)
 * [2025-09-08, 06:04:51](https://news.ycombinator.com/item?id=45165066) - [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
