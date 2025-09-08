@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-08, 03:54:53](https://news.ycombinator.com/item?id=45164497) - [GitHub Community Discussions: Two most upvoted requests are to disable Copilot](https://github.com/orgs/community/discussions)
+* [2025-09-08, 03:54:53](https://news.ycombinator.com/item?id=45164497) - [GitHub Community Discussions: Last year's top two request are to disable Copilot](https://github.com/orgs/community/discussions)
 * [2025-09-08, 03:40:02](https://news.ycombinator.com/item?id=45164444) - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
 * [2025-09-08, 01:56:04](https://news.ycombinator.com/item?id=45164037) - [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
 * [2025-09-07, 23:53:47](https://news.ycombinator.com/item?id=45163362) - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
