@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-09-08, 17:33:44",
+      "https://news.ycombinator.com/item?id=45171200"
+    ],
+    [
+      "iPhone Dumbphone",
+      "https://stopa.io/post/297"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 16:53:42",
       "https://news.ycombinator.com/item?id=45170647"
     ],
     [
-      "AI Is Not a Bubble",
+      "The AI bubble argument misunderstands both bubbles and AI",
       "https://danielmiessler.com/blog/no-ai-is-not-a-bubble"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Will Amazon S3 Vectors Kill Vector Databases–Or Save Them?",
       "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 15:32:46",
-      "https://news.ycombinator.com/item?id=45169584"
-    ],
-    [
-      "Google gets away almost scot-free in US search antitrust case",
-      "https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-04, 14:59:45",
-      "https://news.ycombinator.com/item?id=45128055"
+      "2025-09-04, 18:18:27",
+      "https://news.ycombinator.com/item?id=45130433"
     ],
     [
-      "Look Out for Bugs",
-      "https://matklad.github.io/2025/09/04/look-for-bugs.html"
+      "We Rarely Lose Technology (2023)",
+      "https://www.hopefulmons.com/p/we-rarely-lose-technology"
     ]
   ]
 ]
