@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-08, 22:11:31](https://news.ycombinator.com/item?id=45174707) - [Plex Security Incident](https://links.plex.tv/s/vb/Vn7XtnwDSSaqqDUYoHu1P57ZgZ1FsHgTO2PTIBl6jEOUiHBH3LGmI3nLdDfopQa54PatUwZQhT0Bz8rKAi--jTM4ATdsBHpe4c1Yljr89VkoCOavEGH5wn5Fi_filLNeOMo-lnNqLSLpJpI/lOe98S8UWKdmPnp9StQz9R1-kOSTpWhr/12)
+* [2025-09-08, 23:07:42](https://news.ycombinator.com/item?id=45175312) - [Red Hat back-office team to be Big and Blue whether they like it or not](https://www.theregister.com/2025/09/08/red_hatters_to_be_big/)
 * [2025-09-08, 22:10:41](https://news.ycombinator.com/item?id=45174696) - [CATL launches LFP battery with 470 miles range and 10-minute charging](https://electrek.co/2025/09/08/catl-launches-worlds-first-lfp-battery-with-470-miles-range/)
+* [2025-09-08, 21:32:49](https://news.ycombinator.com/item?id=45174297) - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 * [2025-09-08, 21:26:07](https://news.ycombinator.com/item?id=45174221) - [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
 * [2025-09-08, 21:17:50](https://news.ycombinator.com/item?id=45174125) - [Alterego: Thought to Text](https://www.alterego.io/)
 * [2025-09-08, 21:01:18](https://news.ycombinator.com/item?id=45173933) - [World Nuclear Association Welcomes Microsoft Corporation as Newest Member](https://world-nuclear.org/news-and-media/press-statements/world-nuclear-association-welcomes-microsoft-corporation-as-newest-member)
@@ -14,7 +15,6 @@
 * [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job mismatch and early career success](https://www.nber.org/papers/w34215)
 * [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 * [2025-09-08, 15:35:46](https://news.ycombinator.com/item?id=45169624) - [Will Amazon S3 Vectors kill vector databases or save them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
-* [2025-09-08, 15:08:56](https://news.ycombinator.com/item?id=45169286) - [Browser Fingerprint Detector](https://fingerprint.goldenowl.ai/)
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
 * [2025-09-08, 14:36:00](https://news.ycombinator.com/item?id=45168854) - [AMD claims Arm ISA doesn't offer efficiency advantage over x86](https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86)
 * [2025-09-08, 12:49:46](https://news.ycombinator.com/item?id=45167625) - [AI might yet follow the path of previous technological revolutions](https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology)
