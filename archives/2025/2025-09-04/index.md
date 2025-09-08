@@ -66,6 +66,7 @@
 * [2025-09-04, 08:34:33](https://news.ycombinator.com/item?id=45125023) - [An Anatomically Correct Replica of the Human Brain, Knitted by a Psychiatrist](https://www.openculture.com/2025/09/anatomically-correct-replica-of-the-human-brain-knitted-by-a-psychiatrist.html)
 * [2025-09-04, 08:23:35](https://news.ycombinator.com/item?id=45124955) - [Google was down in eastern EU and Turkey](https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29)
 * [2025-09-04, 07:52:22](https://news.ycombinator.com/item?id=45124743) - [A robot walks on water thanks to evolution's solution](https://arstechnica.com/science/2025/09/robotic-bug-literally-walks-on-water/)
+* [2025-09-04, 07:25:21](https://news.ycombinator.com/item?id=45124560) - [How many dimensions is this?](https://lcamtuf.substack.com/p/how-many-dimensions-is-this)
 * [2025-09-04, 07:08:29](https://news.ycombinator.com/item?id=45124445) - [Show HN: rm-safely – A shell alias that moves files to trash instead of deleting](https://github.com/zdk/rm-safely)
 * [2025-09-04, 06:22:20](https://news.ycombinator.com/item?id=45124165) - [Kruci: Post-Mortem of a UI Library](https://pwy.io/posts/kruci-post-mortem/)
 * [2025-09-04, 06:18:13](https://news.ycombinator.com/item?id=45124143) - [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
