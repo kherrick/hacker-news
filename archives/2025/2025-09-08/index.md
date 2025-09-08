@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 17:33:44](https://news.ycombinator.com/item?id=45171200) - [iPhone Dumbphone](https://stopa.io/post/297)
 * [2025-09-08, 17:20:29](https://news.ycombinator.com/item?id=45171009) - [U.S. Supreme Court Allows Racial Targeting ICE Raids to Continue in LA](https://www.reuters.com/world/us/us-supreme-court-backs-trump-aggressive-immigration-raids-2025-09-08/)
 * [2025-09-08, 16:53:42](https://news.ycombinator.com/item?id=45170647) - [AI Is Not a Bubble](https://danielmiessler.com/blog/no-ai-is-not-a-bubble)
 * [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)

@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-08, 16:53:42](https://news.ycombinator.com/item?id=45170647) - [AI Is Not a Bubble](https://danielmiessler.com/blog/no-ai-is-not-a-bubble)
+* [2025-09-08, 17:33:44](https://news.ycombinator.com/item?id=45171200) - [iPhone Dumbphone](https://stopa.io/post/297)
+* [2025-09-08, 16:53:42](https://news.ycombinator.com/item?id=45170647) - [The AI bubble argument misunderstands both bubbles and AI](https://danielmiessler.com/blog/no-ai-is-not-a-bubble)
 * [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 * [2025-09-08, 16:13:10](https://news.ycombinator.com/item?id=45170087) - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
 * [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
 * [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 * [2025-09-08, 15:35:46](https://news.ycombinator.com/item?id=45169624) - [Will Amazon S3 Vectors Kill Vector Databases–Or Save Them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
-* [2025-09-08, 15:32:46](https://news.ycombinator.com/item?id=45169584) - [Google gets away almost scot-free in US search antitrust case](https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html)
 * [2025-09-08, 15:08:56](https://news.ycombinator.com/item?id=45169286) - [Browser Fingerprint Detector](https://fingerprint.goldenowl.ai/)
 * [2025-09-08, 14:59:30](https://news.ycombinator.com/item?id=45169157) - [Dietary omega-3 polyunsaturated fatty acids as a protective factor of myopia](https://bjo.bmj.com/content/early/2025/08/17/bjo-2024-326872)
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
@@ -29,7 +29,7 @@
 * [2025-09-05, 10:07:07](https://news.ycombinator.com/item?id=45136880) - [Firefox 32-bit Linux Support to End in 2026](https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/)
 * [2025-09-05, 01:23:59](https://news.ycombinator.com/item?id=45134144) - [Writing by manipulating visual representations of stories](https://github.com/m-damien/VisualStoryWriting)
 * [2025-09-04, 19:13:10](https://news.ycombinator.com/item?id=45131091) - [Integer Programming (2002) [pdf]](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
-* [2025-09-04, 14:59:45](https://news.ycombinator.com/item?id=45128055) - [Look Out for Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html)
+* [2025-09-04, 18:18:27](https://news.ycombinator.com/item?id=45130433) - [We Rarely Lose Technology (2023)](https://www.hopefulmons.com/p/we-rarely-lose-technology)
 
 ## [Archives](archives/index.md)
 
