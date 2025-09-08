@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 15:32:46](https://news.ycombinator.com/item?id=45169584) - [Google gets away almost scot-free in US search antitrust case](https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html)
+* [2025-09-08, 15:25:03](https://news.ycombinator.com/item?id=45169480) - [American Flying Empty Airbus A321neo Across the Atlantic 20 Times](https://onemileatatime.com/news/american-flying-empty-airbus-a321neo-across-atlantic/)
 * [2025-09-08, 15:08:20](https://news.ycombinator.com/item?id=45169275) - [Clankers Die on Christmas](https://remyhax.xyz/posts/clankers-die-on-christmas/)
 * [2025-09-08, 14:59:30](https://news.ycombinator.com/item?id=45169157) - [Dietary omega-3 polyunsaturated fatty acids as a protective factor of myopia](https://bjo.bmj.com/content/early/2025/08/17/bjo-2024-326872)
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
@@ -13,7 +15,9 @@
 * [2025-09-08, 13:17:44](https://news.ycombinator.com/item?id=45167887) - [Exploring Grid-Aware Websites](https://www.nicchan.me/blog/exploring-grid-aware-websites/)
 * [2025-09-08, 13:02:20](https://news.ycombinator.com/item?id=45167729) - [No more data centers: Ohio township pushes back against influx of Amazon, others](https://www.usatoday.com)
 * [2025-09-08, 12:59:28](https://news.ycombinator.com/item?id=45167705) - [Meta suppressed research on child safety, employees say](https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/)
+* [2025-09-08, 12:49:46](https://news.ycombinator.com/item?id=45167625) - [What if artificial intelligence is just a \"normal\" technology?](https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology)
 * [2025-09-08, 12:38:49](https://news.ycombinator.com/item?id=45167534) - [ICEBlock handled my vulnerability report in the worst possible way](https://micahflee.com/iceblock-handled-my-vulnerability-report-in-the-worst-possible-way/)
+* [2025-09-08, 12:21:15](https://news.ycombinator.com/item?id=45167401) - [A complete map of the Rust type system](https://rustcurious.com/elements/)
 * [2025-09-08, 12:18:55](https://news.ycombinator.com/item?id=45167394) - [Package Managers Are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
 * [2025-09-08, 12:01:18](https://news.ycombinator.com/item?id=45167245) - [Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64](https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/)
 * [2025-09-08, 12:00:23](https://news.ycombinator.com/item?id=45167239) - [VMware's in court again. Customer relationships rarely go this wrong](https://www.theregister.com/2025/09/08/vmware_in_court_opinion/)
