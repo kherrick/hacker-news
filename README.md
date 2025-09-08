@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
+* [2025-09-08, 16:24:33](https://news.ycombinator.com/item?id=45170244) - [Our data shows San Francisco tech workers are working Saturdays](https://ramp.com/velocity/san-francisco-tech-workers-996-schedule)
 * [2025-09-08, 16:18:30](https://news.ycombinator.com/item?id=45170164) - [95% of AI Pilots Fail](https://www.selector.ai/blog/95-of-ai-pilots-fail-heres-how-to-be-the-5/)
 * [2025-09-08, 16:13:10](https://news.ycombinator.com/item?id=45170087) - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
 * [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
@@ -22,13 +24,11 @@
 * [2025-09-08, 07:58:38](https://news.ycombinator.com/item?id=45165684) - [Immich – High performance self-hosted photo and video management solution](https://github.com/immich-app/immich)
 * [2025-09-07, 23:53:47](https://news.ycombinator.com/item?id=45163362) - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 * [2025-09-07, 23:08:42](https://news.ycombinator.com/item?id=45163043) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
-* [2025-09-07, 22:06:35](https://news.ycombinator.com/item?id=45162626) - [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 * [2025-09-06, 19:42:48](https://news.ycombinator.com/item?id=45152284) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search](https://simonwillison.net/2025/Sep/6/research-goblin/)
 * [2025-09-05, 18:27:24](https://news.ycombinator.com/item?id=45141907) - [Why Is Japan Still Investing in Custom Floating Point Accelerators?](https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/)
 * [2025-09-05, 12:05:17](https://news.ycombinator.com/item?id=45137584) - [Building an acoustic camera with UMA-16 and Acoular](https://www.minidsp.com/applications/usb-mic-array/acoustic-camera-uma16)
 * [2025-09-05, 01:23:59](https://news.ycombinator.com/item?id=45134144) - [Writing by manipulating visual representations of stories](https://github.com/m-damien/VisualStoryWriting)
-* [2025-09-04, 19:13:10](https://news.ycombinator.com/item?id=45131091) - [Integer Programming (2002) [pdf]](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
 * [2025-09-04, 18:18:27](https://news.ycombinator.com/item?id=45130433) - [We Rarely Lose Technology (2023)](https://www.hopefulmons.com/p/we-rarely-lose-technology)
 
 ## [Archives](archives/index.md)

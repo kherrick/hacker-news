@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
+* [2025-09-08, 16:24:33](https://news.ycombinator.com/item?id=45170244) - [Our data shows San Francisco tech workers are working Saturdays](https://ramp.com/velocity/san-francisco-tech-workers-996-schedule)
 * [2025-09-08, 16:18:30](https://news.ycombinator.com/item?id=45170164) - [95% of AI Pilots Fail](https://www.selector.ai/blog/95-of-ai-pilots-fail-heres-how-to-be-the-5/)
 * [2025-09-08, 16:13:10](https://news.ycombinator.com/item?id=45170087) - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
 * [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
