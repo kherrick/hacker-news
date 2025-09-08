@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-09-08, 20:22:38",
+      "https://news.ycombinator.com/item?id=45173455"
+    ],
+    [
+      "YouTube views are down (don't panic)",
+      "https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 20:07:22",
+      "https://news.ycombinator.com/item?id=45173277"
+    ],
+    [
+      "Chat Control Must Be Stopped",
+      "https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 19:16:39",
       "https://news.ycombinator.com/item?id=45172609"
     ],
     [
-      "Microsoft bets big on nuclear future for data centers",
+      "Microsoft doubles down on small modular reactors and fusion energy",
       "https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy"
     ]
   ],
@@ -17,16 +37,6 @@
     [
       "Setting up local LLMs for R and Python",
       "https://posit.co/blog/setting-up-local-llms-for-r-and-python/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 18:57:57",
-      "https://news.ycombinator.com/item?id=45172337"
-    ],
-    [
-      "Setting up a home VPN server with WireGuard (2019)",
-      "https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/"
     ]
   ],
   [
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2025-09-08, 15:08:20",
-      "https://news.ycombinator.com/item?id=45169275"
+      "2025-09-08, 15:08:56",
+      "https://news.ycombinator.com/item?id=45169286"
     ],
     [
-      "Clankers Die on Christmas",
-      "https://remyhax.xyz/posts/clankers-die-on-christmas/"
+      "Browser Fingerprint Detector",
+      "https://fingerprint.goldenowl.ai/"
     ]
   ],
   [
@@ -131,22 +141,22 @@
   ],
   [
     [
-      "2025-09-08, 14:38:30",
-      "https://news.ycombinator.com/item?id=45168883"
+      "2025-09-08, 14:36:00",
+      "https://news.ycombinator.com/item?id=45168854"
     ],
     [
-      "Australian startup joins race to build local ChatGPT",
-      "https://www.afr.com/technology/we-can-do-it-for-under-100m-start-up-joins-race-to-build-local-chatgpt-20250908-p5mt5o"
+      "AMD claims Arm ISA doesn't offer efficiency advantage over x86",
+      "https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86"
     ]
   ],
   [
     [
-      "2025-09-08, 12:59:28",
-      "https://news.ycombinator.com/item?id=45167705"
+      "2025-09-08, 12:49:46",
+      "https://news.ycombinator.com/item?id=45167625"
     ],
     [
-      "Meta suppressed research on child safety, employees say",
-      "https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/"
+      "AI might yet follow the path of previous technological revolutions",
+      "https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2025-09-08, 12:18:55",
+      "https://news.ycombinator.com/item?id=45167394"
+    ],
+    [
+      "A critique of package managers",
+      "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 10:50:01",
       "https://news.ycombinator.com/item?id=45166750"
     ],
@@ -191,32 +211,22 @@
   ],
   [
     [
+      "2025-09-08, 06:26:43",
+      "https://news.ycombinator.com/item?id=45165186"
+    ],
+    [
+      "How Britain built some of the world’s safest roads",
+      "https://ourworldindata.org/britain-safest-roads-history"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 01:32:42",
       "https://news.ycombinator.com/item?id=45163948"
     ],
     [
       "Bob Stein and Voyager (2021)",
       "https://www.filfre.net/2021/06/bob-stein-and-voyager/"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 23:53:47",
-      "https://news.ycombinator.com/item?id=45163362"
-    ],
-    [
-      "Using Claude Code to modernize a 25-year-old kernel driver",
-      "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 15:20:29",
-      "https://news.ycombinator.com/item?id=45158968"
-    ],
-    [
-      "The MacBook has a sensor that knows the exact angle of the screen hinge",
-      "https://twitter.com/samhenrigold/status/1964428927159382261"
     ]
   ],
   [
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2025-09-05, 01:23:59",
-      "https://news.ycombinator.com/item?id=45134144"
-    ],
-    [
-      "Writing by manipulating visual representations of stories",
-      "https://github.com/m-damien/VisualStoryWriting"
-    ]
-  ],
-  [
-    [
       "2025-09-04, 19:13:10",
       "https://news.ycombinator.com/item?id=45131091"
     ],
     [
-      "Integer Programming (2002) [pdf]",
+      "Integer Programming (1977) [pdf]",
       "https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf"
     ]
   ],
