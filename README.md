@@ -2,12 +2,12 @@
 
 * [2025-09-08, 03:54:53](https://news.ycombinator.com/item?id=45164497) - [GitHub Community Discussions: Past year's top 2 requests are to disable Copilot](https://github.com/orgs/community/discussions)
 * [2025-09-08, 03:40:02](https://news.ycombinator.com/item?id=45164444) - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
-* [2025-09-08, 01:56:04](https://news.ycombinator.com/item?id=45164037) - [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
 * [2025-09-07, 23:53:47](https://news.ycombinator.com/item?id=45163362) - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 * [2025-09-07, 23:08:42](https://news.ycombinator.com/item?id=45163043) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
 * [2025-09-07, 22:34:23](https://news.ycombinator.com/item?id=45162803) - [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/)
 * [2025-09-07, 22:03:13](https://news.ycombinator.com/item?id=45162593) - [Taking Buildkite from a side project to a global company](https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project)
 * [2025-09-07, 21:50:30](https://news.ycombinator.com/item?id=45162501) - [Creative Technology: The Sound Blaster](https://www.abortretry.fail/p/the-story-of-creative-technology)
+* [2025-09-07, 21:31:29](https://news.ycombinator.com/item?id=45162368) - [Show HN: OpenCV over WebRTC (in Go)](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
 * [2025-09-07, 21:14:08](https://news.ycombinator.com/item?id=45162220) - [Taco Bell AI Drive-Thru](https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html)
 * [2025-09-07, 20:31:38](https://news.ycombinator.com/item?id=45161855) - [Pico CSS – Minimal CSS Framework for Semantic HTML](https://picocss.com)
 * [2025-09-07, 20:26:30](https://news.ycombinator.com/item?id=45161816) - [Everything from 1991 Radio Shack ad I now do with my phone (2014)](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
@@ -27,9 +27,9 @@
 * [2025-09-05, 07:18:12](https://news.ycombinator.com/item?id=45135839) - [Truco and clones: the beginnings of Argentinian computer gaming](https://zeitgame.net/archives/18373)
 * [2025-09-04, 21:36:03](https://news.ycombinator.com/item?id=45132488) - [SQLite's File Format](https://www.sqlite.org/fileformat.html)
 * [2025-09-04, 20:18:47](https://news.ycombinator.com/item?id=45131784) - [The race to build a distributed GPU runtime](https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime)
-* [2025-09-04, 17:56:29](https://news.ycombinator.com/item?id=45130143) - [I solved a distributed queue problem after 15 years](https://www.dbos.dev/blog/durable-queues)
 * [2025-09-04, 17:06:14](https://news.ycombinator.com/item?id=45129507) - [Analog optical computer for AI inference and combinatorial optimization](https://www.nature.com/articles/s41586-025-09430-z)
 * [2025-09-04, 07:25:21](https://news.ycombinator.com/item?id=45124560) - [How many dimensions is this?](https://lcamtuf.substack.com/p/how-many-dimensions-is-this)
+* [2025-09-03, 19:01:36](https://news.ycombinator.com/item?id=45119310) - [A Technical Update on Submarine Cables [pdf]](https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf)
 
 ## [Archives](archives/index.md)
 
