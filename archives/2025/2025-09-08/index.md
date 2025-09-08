@@ -30,6 +30,7 @@
 * [2025-09-08, 12:59:28](https://news.ycombinator.com/item?id=45167705) - [Meta suppressed research on child safety, employees say](https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/)
 * [2025-09-08, 12:49:46](https://news.ycombinator.com/item?id=45167625) - [What if artificial intelligence is just a \"normal\" technology?](https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology)
 * [2025-09-08, 12:38:49](https://news.ycombinator.com/item?id=45167534) - [ICEBlock handled my vulnerability report in the worst possible way](https://micahflee.com/iceblock-handled-my-vulnerability-report-in-the-worst-possible-way/)
+* [2025-09-08, 12:29:12](https://news.ycombinator.com/item?id=45167459) - [Writing Code Is Easy. Reading It Isn't](https://idiallo.com/blog/writing-code-is-easy-reading-is-hard)
 * [2025-09-08, 12:21:15](https://news.ycombinator.com/item?id=45167401) - [A complete map of the Rust type system](https://rustcurious.com/elements/)
 * [2025-09-08, 12:18:55](https://news.ycombinator.com/item?id=45167394) - [Package Managers Are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
 * [2025-09-08, 12:01:18](https://news.ycombinator.com/item?id=45167245) - [Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64](https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/)
