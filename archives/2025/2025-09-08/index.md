@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 06:38:34](https://news.ycombinator.com/item?id=45165245) - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
 * [2025-09-08, 05:56:48](https://news.ycombinator.com/item?id=45165019) - [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/)
 * [2025-09-08, 03:54:53](https://news.ycombinator.com/item?id=45164497) - [GitHub Community Discussions: Two most upvoted requests are to disable Copilot](https://github.com/orgs/community/discussions)
 * [2025-09-08, 03:40:02](https://news.ycombinator.com/item?id=45164444) - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
