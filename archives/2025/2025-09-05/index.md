@@ -61,6 +61,7 @@
 * [2025-09-05, 11:08:26](https://news.ycombinator.com/item?id=45137245) - [Interview with Japanese Demoscener – 0b5vr](https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html)
 * [2025-09-05, 10:39:41](https://news.ycombinator.com/item?id=45137097) - [Heap-based buffer overflow in Kernel Streaming](https://www.crowdfense.com/cve-2025-53149-windows-ksthunk-heap-overflow/)
 * [2025-09-05, 10:18:31](https://news.ycombinator.com/item?id=45136949) - [U.S. imposes sanctions on 3 Palestinian human rights groups](https://www.reuters.com/world/middle-east/us-imposes-sanctions-palestinians-who-asked-israel-war-crimes-probe-2025-09-04/)
+* [2025-09-05, 10:07:07](https://news.ycombinator.com/item?id=45136880) - [Firefox 32-bit Linux Support to End in 2026](https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/)
 * [2025-09-05, 09:40:08](https://news.ycombinator.com/item?id=45136728) - [I have two Amazon Echos that I never use, but they burn gbs a day of bandwidth](https://twitter.com/davepl1968/status/1963803025572770212)
 * [2025-09-05, 09:13:25](https://news.ycombinator.com/item?id=45136558) - [SAP splashes €20B on Euro sovereign cloud push](https://www.theregister.com/2025/09/04/sap_sovereign_cloud/)
 * [2025-09-05, 08:50:24](https://news.ycombinator.com/item?id=45136411) - [Tokyo has an unmanned, honor-system electronics and appliance shop](https://soranews24.com/2021/08/21/tokyo-has-a-completely-unmanned-honor-system-electronics-and-appliance-shop%e3%80%90photos%e3%80%91/)
