@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-08, 19:00:20",
+      "https://news.ycombinator.com/item?id=45172376"
+    ],
+    [
+      "Setting up local LLMs for R and Python",
+      "https://posit.co/blog/setting-up-local-llms-for-r-and-python/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 18:57:57",
       "https://news.ycombinator.com/item?id=45172337"
     ],
@@ -11,22 +21,32 @@
   ],
   [
     [
+      "2025-09-08, 18:56:56",
+      "https://news.ycombinator.com/item?id=45172319"
+    ],
+    [
+      "\"The fact is that today, the open web is already in rapid decline\"–Google [pdf]",
+      "https://storage.courtlistener.com/recap/gov.uscourts.vaed.533508/gov.uscourts.vaed.533508.1664.0.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 17:44:52",
+      "https://news.ycombinator.com/item?id=45171361"
+    ],
+    [
+      "Escaping the Internet",
+      "https://www.ryanckulp.com/escaping-the-internet/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 17:33:44",
       "https://news.ycombinator.com/item?id=45171200"
     ],
     [
       "iPhone Dumbphone",
       "https://stopa.io/post/297"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 17:17:55",
-      "https://news.ycombinator.com/item?id=45170979"
-    ],
-    [
-      "New Google Court Doc: Open Web Is in Rapid Decline",
-      "https://www.seroundtable.com/google-open-web-is-in-rapid-decline-40068.html"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-09-07, 22:06:35",
-      "https://news.ycombinator.com/item?id=45162626"
-    ],
-    [
-      "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
-      "https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 19:42:48",
       "https://news.ycombinator.com/item?id=45152284"
     ],
@@ -287,16 +297,6 @@
     [
       "Firefox 32-bit Linux Support to End in 2026",
       "https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 18:18:27",
-      "https://news.ycombinator.com/item?id=45130433"
-    ],
-    [
-      "We Rarely Lose Technology (2023)",
-      "https://www.hopefulmons.com/p/we-rarely-lose-technology"
     ]
   ]
 ]
