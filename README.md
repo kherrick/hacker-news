@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-08, 21:26:07](https://news.ycombinator.com/item?id=45174221) - [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
+* [2025-09-08, 21:10:18](https://news.ycombinator.com/item?id=45174037) - [The Elegance of Movement in Silksong](https://theahura.substack.com/p/the-elegance-of-movement-in-silksong)
 * [2025-09-08, 20:35:40](https://news.ycombinator.com/item?id=45173623) - [Spotify users ask for a setting to hide AI generated contents but they refuse](https://community.spotify.com/t5/Content-Questions/How-can-I-disable-PFC-AI-generated-content/td-p/6956494)
 * [2025-09-08, 20:22:38](https://news.ycombinator.com/item?id=45173455) - [YouTube views are down (don't panic)](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
 * [2025-09-08, 20:07:22](https://news.ycombinator.com/item?id=45173277) - [Chat Control Must Be Stopped](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
@@ -10,7 +11,6 @@
 * [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 * [2025-09-08, 16:13:10](https://news.ycombinator.com/item?id=45170087) - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
 * [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job mismatch and early career success](https://www.nber.org/papers/w34215)
-* [2025-09-08, 15:49:14](https://news.ycombinator.com/item?id=45169798) - [After nearly half a century in deep space, every ping from Voyager 1 is a bonus](https://www.theregister.com/2025/09/07/48_years_voyager_1/)
 * [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 * [2025-09-08, 15:35:46](https://news.ycombinator.com/item?id=45169624) - [Will Amazon S3 Vectors kill vector databases or save them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
 * [2025-09-08, 15:08:56](https://news.ycombinator.com/item?id=45169286) - [Browser Fingerprint Detector](https://fingerprint.goldenowl.ai/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
 * [2025-09-08, 21:26:07](https://news.ycombinator.com/item?id=45174221) - [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
+* [2025-09-08, 21:10:18](https://news.ycombinator.com/item?id=45174037) - [The Elegance of Movement in Silksong](https://theahura.substack.com/p/the-elegance-of-movement-in-silksong)
 * [2025-09-08, 20:35:40](https://news.ycombinator.com/item?id=45173623) - [Spotify users ask for a setting to hide AI generated contents but they refuse](https://community.spotify.com/t5/Content-Questions/How-can-I-disable-PFC-AI-generated-content/td-p/6956494)
 * [2025-09-08, 20:22:38](https://news.ycombinator.com/item?id=45173455) - [YouTube views are down (don't panic)](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
 * [2025-09-08, 20:07:22](https://news.ycombinator.com/item?id=45173277) - [Chat Control Must Be Stopped](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
