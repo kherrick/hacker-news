@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
 * [2025-09-08, 16:18:30](https://news.ycombinator.com/item?id=45170164) - [95% of AI Pilots Fail](https://www.selector.ai/blog/95-of-ai-pilots-fail-heres-how-to-be-the-5/)
+* [2025-09-08, 16:13:10](https://news.ycombinator.com/item?id=45170087) - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
 * [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
 * [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 * [2025-09-08, 15:35:46](https://news.ycombinator.com/item?id=45169624) - [Will Amazon S3 Vectors Kill Vector Databases–Or Save Them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
