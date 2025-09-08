@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-08, 17:20:29",
-      "https://news.ycombinator.com/item?id=45171009"
+      "2025-09-08, 16:53:42",
+      "https://news.ycombinator.com/item?id=45170647"
     ],
     [
-      "U.S. Supreme Court Allows Racial Targeting ICE Raids to Continue in LA",
-      "https://www.reuters.com/world/us/us-supreme-court-backs-trump-aggressive-immigration-raids-2025-09-08/"
+      "AI Is Not a Bubble",
+      "https://danielmiessler.com/blog/no-ai-is-not-a-bubble"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Signal Secure Backups",
       "https://signal.org/blog/introducing-secure-backups/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 16:24:33",
-      "https://news.ycombinator.com/item?id=45170244"
-    ],
-    [
-      "Our data shows San Francisco tech workers are working Saturdays",
-      "https://ramp.com/velocity/san-francisco-tech-workers-996-schedule"
     ]
   ],
   [
@@ -81,32 +71,12 @@
   ],
   [
     [
-      "2025-09-08, 15:25:03",
-      "https://news.ycombinator.com/item?id=45169480"
-    ],
-    [
-      "American Flying Empty Airbus A321neo Across the Atlantic 20 Times",
-      "https://onemileatatime.com/news/american-flying-empty-airbus-a321neo-across-atlantic/"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 15:08:56",
       "https://news.ycombinator.com/item?id=45169286"
     ],
     [
       "Browser Fingerprint Detector",
       "https://fingerprint.goldenowl.ai/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 15:08:20",
-      "https://news.ycombinator.com/item?id=45169275"
-    ],
-    [
-      "Clankers Die on Christmas",
-      "https://remyhax.xyz/posts/clankers-die-on-christmas/"
     ]
   ],
   [
@@ -135,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45168883"
     ],
     [
-      "'We can do it for under $100M': Startup joins race to build local ChatGPT",
+      "Australian startup joins race to build local ChatGPT",
       "https://www.afr.com/technology/we-can-do-it-for-under-100m-start-up-joins-race-to-build-local-chatgpt-20250908-p5mt5o"
     ]
   ],
@@ -205,7 +175,7 @@
       "https://news.ycombinator.com/item?id=45166750"
     ],
     [
-      "RSS Beat Microsoft",
+      "The story of how RSS beat Microsoft",
       "https://buttondown.com/blog/rss-vs-ice"
     ]
   ],
@@ -237,6 +207,16 @@
     [
       "Formatting code should be unnecessary",
       "https://maxleiter.com/blog/formatting"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 22:06:35",
+      "https://news.ycombinator.com/item?id=45162626"
+    ],
+    [
+      "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
+      "https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-09-05, 01:23:59",
+      "https://news.ycombinator.com/item?id=45134144"
+    ],
+    [
+      "Writing by manipulating visual representations of stories",
+      "https://github.com/m-damien/VisualStoryWriting"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 19:13:10",
       "https://news.ycombinator.com/item?id=45131091"
     ],
     [
       "Integer Programming (2002) [pdf]",
       "https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 14:59:45",
+      "https://news.ycombinator.com/item?id=45128055"
+    ],
+    [
+      "Look Out for Bugs",
+      "https://matklad.github.io/2025/09/04/look-for-bugs.html"
     ]
   ]
 ]
