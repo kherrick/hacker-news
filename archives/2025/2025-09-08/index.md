@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 10:44:46](https://news.ycombinator.com/item?id=45166711) - [How inaccurate are Nintendo's official emulators? [video]](https://www.youtube.com/watch?v=oYjYmSniQyM)
 * [2025-09-08, 08:29:14](https://news.ycombinator.com/item?id=45165902) - [50k art hoes will save San Francisco](https://twitter.com/taotechic/status/1964551131977437674)
 * [2025-09-08, 08:28:15](https://news.ycombinator.com/item?id=45165897) - [Show HN: TheAuditor – Offline security scanner for AI-generated code](https://github.com/TheAuditorTool/Auditor)
 * [2025-09-08, 08:26:44](https://news.ycombinator.com/item?id=45165885) - [How can I deal with a team member who is always complaining?](https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining)

@@ -45,6 +45,7 @@
 * [2025-09-04, 15:30:20](https://news.ycombinator.com/item?id=45128391) - [Wikipedia survives while the rest of the internet breaks](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales)
 * [2025-09-04, 15:22:03](https://news.ycombinator.com/item?id=45128299) - [Farewell to Meshnet](https://nordvpn.com/blog/meshnet-shutdown/)
 * [2025-09-04, 15:03:01](https://news.ycombinator.com/item?id=45128089) - [330+ data teams share what's working (and what's not)](https://www.metabase.com/data-stack-report-2025)
+* [2025-09-04, 14:59:45](https://news.ycombinator.com/item?id=45128055) - [Look Out for Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html)
 * [2025-09-04, 14:53:50](https://news.ycombinator.com/item?id=45127983) - [WiFi signals can measure heart rate–no wearables needed](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
 * [2025-09-04, 14:39:38](https://news.ycombinator.com/item?id=45127816) - [Hollow Knight: Silksong Causes Server Chaos on Xbox, Steam, and Nintendo](https://www.eurogamer.net/silksong-causes-server-chaos-on-xbox-steam-and-nintendo-as-platforms-grind-to-a-halt)
 * [2025-09-04, 14:25:57](https://news.ycombinator.com/item?id=45127636) - [Atlassian is acquiring the Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
