@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 * [2025-09-08, 15:32:46](https://news.ycombinator.com/item?id=45169584) - [Google gets away almost scot-free in US search antitrust case](https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html)
 * [2025-09-08, 15:25:03](https://news.ycombinator.com/item?id=45169480) - [American Flying Empty Airbus A321neo Across the Atlantic 20 Times](https://onemileatatime.com/news/american-flying-empty-airbus-a321neo-across-atlantic/)
 * [2025-09-08, 15:08:20](https://news.ycombinator.com/item?id=45169275) - [Clankers Die on Christmas](https://remyhax.xyz/posts/clankers-die-on-christmas/)
@@ -29,7 +30,6 @@
 * [2025-09-04, 18:18:27](https://news.ycombinator.com/item?id=45130433) - [We Rarely Lose Technology (2023)](https://www.hopefulmons.com/p/we-rarely-lose-technology)
 * [2025-09-04, 17:06:14](https://news.ycombinator.com/item?id=45129507) - [Analog optical computer for AI inference and combinatorial optimization](https://www.nature.com/articles/s41586-025-09430-z)
 * [2025-09-04, 14:59:45](https://news.ycombinator.com/item?id=45128055) - [Look Out for Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html)
-* [2025-09-04, 07:25:21](https://news.ycombinator.com/item?id=45124560) - [How many dimensions is this?](https://lcamtuf.substack.com/p/how-many-dimensions-is-this)
 
 ## [Archives](archives/index.md)
 
