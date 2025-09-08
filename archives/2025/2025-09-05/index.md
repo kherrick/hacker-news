@@ -26,6 +26,7 @@
 * [2025-09-05, 18:15:42](https://news.ycombinator.com/item?id=45141762) - [Fantastic Pretraining Optimizers and Where to Find Them](https://arxiv.org/abs/2509.02046)
 * [2025-09-05, 18:08:20](https://news.ycombinator.com/item?id=45141652) - [Requiem for an Exit](https://calls.ars.electronica.art/2025/prix/winners/15487/)
 * [2025-09-05, 18:06:33](https://news.ycombinator.com/item?id=45141636) - [Making a Font of My Handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
+* [2025-09-05, 17:16:58](https://news.ycombinator.com/item?id=45140996) - [Exploring Interlisp-10 and Twenex](https://journal.paoloamoroso.com/exploring-interlisp-10-and-twenex)
 * [2025-09-05, 17:14:16](https://news.ycombinator.com/item?id=45140973) - [What to Do with an Old iPad](http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html)
 * [2025-09-05, 17:09:35](https://news.ycombinator.com/item?id=45140921) - [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
 * [2025-09-05, 16:57:45](https://news.ycombinator.com/item?id=45140786) - [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
