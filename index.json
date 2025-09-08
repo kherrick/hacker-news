@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-09-07, 22:06:35",
-      "https://news.ycombinator.com/item?id=45162626"
-    ],
-    [
-      "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
-      "https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 22:03:13",
       "https://news.ycombinator.com/item?id=45162593"
     ],
@@ -87,16 +77,6 @@
     [
       "Creative Technology: The Sound Blaster",
       "https://www.abortretry.fail/p/the-story-of-creative-technology"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 21:31:29",
-      "https://news.ycombinator.com/item?id=45162368"
-    ],
-    [
-      "Show HN: OpenCV over WebRTC (in Go)",
-      "https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2025-09-04, 21:36:03",
+      "https://news.ycombinator.com/item?id=45132488"
+    ],
+    [
+      "SQLite's File Format",
+      "https://www.sqlite.org/fileformat.html"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 20:18:47",
       "https://news.ycombinator.com/item?id=45131784"
     ],
@@ -297,6 +287,16 @@
     [
       "How many dimensions is this?",
       "https://lcamtuf.substack.com/p/how-many-dimensions-is-this"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 19:01:36",
+      "https://news.ycombinator.com/item?id=45119310"
+    ],
+    [
+      "A Technical Update on Submarine Cables [pdf]",
+      "https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf"
     ]
   ]
 ]
