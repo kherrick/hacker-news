@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-08, 21:26:07](https://news.ycombinator.com/item?id=45174221) - [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
+* [2025-09-08, 20:35:40](https://news.ycombinator.com/item?id=45173623) - [Spotify users ask for a setting to hide AI generated contents but they refuse](https://community.spotify.com/t5/Content-Questions/How-can-I-disable-PFC-AI-generated-content/td-p/6956494)
 * [2025-09-08, 20:22:38](https://news.ycombinator.com/item?id=45173455) - [YouTube views are down (don't panic)](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
 * [2025-09-08, 20:07:22](https://news.ycombinator.com/item?id=45173277) - [Chat Control Must Be Stopped](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
 * [2025-09-08, 19:16:39](https://news.ycombinator.com/item?id=45172609) - [Microsoft doubles down on small modular reactors and fusion energy](https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy)
@@ -28,8 +30,6 @@
 * [2025-09-05, 16:18:33](https://news.ycombinator.com/item?id=45140281) - [Dark Academia Grows Up](https://www.publicbooks.org/dark-academia-grows-up/)
 * [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The key points of \"Working Effectively with Legacy Code\"](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
 * [2025-09-05, 12:05:17](https://news.ycombinator.com/item?id=45137584) - [Building an acoustic camera with UMA-16 and Acoular](https://www.minidsp.com/applications/usb-mic-array/acoustic-camera-uma16)
-* [2025-09-04, 19:13:10](https://news.ycombinator.com/item?id=45131091) - [Integer Programming (1977) [pdf]](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
-* [2025-09-04, 18:18:27](https://news.ycombinator.com/item?id=45130433) - [We Rarely Lose Technology (2023)](https://www.hopefulmons.com/p/we-rarely-lose-technology)
 
 ## [Archives](archives/index.md)
 
