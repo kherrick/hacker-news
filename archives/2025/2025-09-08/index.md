@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 19:00:20](https://news.ycombinator.com/item?id=45172376) - [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
 * [2025-09-08, 18:57:57](https://news.ycombinator.com/item?id=45172337) - [Setting up a home VPN server with WireGuard](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
+* [2025-09-08, 18:56:56](https://news.ycombinator.com/item?id=45172319) - [\"The fact is that today, the open web is already in rapid decline\"–Google [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.vaed.533508/gov.uscourts.vaed.533508.1664.0.pdf)
 * [2025-09-08, 17:44:52](https://news.ycombinator.com/item?id=45171361) - [Escaping the Internet](https://www.ryanckulp.com/escaping-the-internet/)
 * [2025-09-08, 17:33:44](https://news.ycombinator.com/item?id=45171200) - [iPhone Dumbphone](https://stopa.io/post/297)
 * [2025-09-08, 17:20:29](https://news.ycombinator.com/item?id=45171009) - [U.S. Supreme Court Allows Racial Targeting ICE Raids to Continue in LA](https://www.reuters.com/world/us/us-supreme-court-backs-trump-aggressive-immigration-raids-2025-09-08/)
