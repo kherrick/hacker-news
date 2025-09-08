@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-08, 13:20:06](https://news.ycombinator.com/item?id=45167913) - [Tesla Wants Out of the Car Business](https://www.theatlantic.com/technology/archive/2025/09/tesla-elon-musk-master-plan-robotaxi/684122/)
 * [2025-09-08, 13:02:20](https://news.ycombinator.com/item?id=45167729) - [No more data centers: Ohio township pushes back against influx of Amazon, others](https://www.usatoday.com)
+* [2025-09-08, 12:59:28](https://news.ycombinator.com/item?id=45167705) - [Meta suppressed research on child safety, employees say](https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/)
 * [2025-09-08, 12:38:49](https://news.ycombinator.com/item?id=45167534) - [ICEBlock handled my vulnerability report in the worst possible way](https://micahflee.com/iceblock-handled-my-vulnerability-report-in-the-worst-possible-way/)
-* [2025-09-08, 12:18:55](https://news.ycombinator.com/item?id=45167394) - [Package Managers Are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
 * [2025-09-08, 12:01:18](https://news.ycombinator.com/item?id=45167245) - [Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64](https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/)
 * [2025-09-08, 12:00:23](https://news.ycombinator.com/item?id=45167239) - [VMware's in court again. Customer relationships rarely go this wrong](https://www.theregister.com/2025/09/08/vmware_in_court_opinion/)
 * [2025-09-08, 11:24:42](https://news.ycombinator.com/item?id=45166972) - [14 Killed in protests in Nepal over social media ban](https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/)
@@ -15,7 +16,6 @@
 * [2025-09-07, 22:06:35](https://news.ycombinator.com/item?id=45162626) - [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
 * [2025-09-07, 22:03:13](https://news.ycombinator.com/item?id=45162593) - [Taking Buildkite from a side project to a global company](https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project)
 * [2025-09-07, 21:50:30](https://news.ycombinator.com/item?id=45162501) - [Creative Technology: The Sound Blaster](https://www.abortretry.fail/p/the-story-of-creative-technology)
-* [2025-09-07, 20:26:30](https://news.ycombinator.com/item?id=45161816) - [Everything from 1991 Radio Shack ad I now do with my phone (2014)](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
 * [2025-09-07, 19:53:03](https://news.ycombinator.com/item?id=45161556) - [No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]](https://www.cs.unc.edu/techreports/86-020.pdf)
 * [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
