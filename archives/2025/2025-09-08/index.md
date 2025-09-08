@@ -6,6 +6,7 @@
 
 * [2025-09-08, 08:29:14](https://news.ycombinator.com/item?id=45165902) - [50k art hoes will save San Francisco](https://twitter.com/taotechic/status/1964551131977437674)
 * [2025-09-08, 08:28:15](https://news.ycombinator.com/item?id=45165897) - [Show HN: TheAuditor – Offline security scanner for AI-generated code](https://github.com/TheAuditorTool/Auditor)
+* [2025-09-08, 08:26:44](https://news.ycombinator.com/item?id=45165885) - [How can I deal with a team member who is always complaining?](https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining)
 * [2025-09-08, 06:38:34](https://news.ycombinator.com/item?id=45165245) - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
 * [2025-09-08, 06:26:43](https://news.ycombinator.com/item?id=45165186) - [Britain built some of the safest roads](https://ourworldindata.org/britain-safest-roads-history)
 * [2025-09-08, 06:04:51](https://news.ycombinator.com/item?id=45165066) - [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
