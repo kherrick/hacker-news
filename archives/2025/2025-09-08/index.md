@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 17:44:52](https://news.ycombinator.com/item?id=45171361) - [Escaping the Internet](https://www.ryanckulp.com/escaping-the-internet/)
 * [2025-09-08, 17:33:44](https://news.ycombinator.com/item?id=45171200) - [iPhone Dumbphone](https://stopa.io/post/297)
 * [2025-09-08, 17:20:29](https://news.ycombinator.com/item?id=45171009) - [U.S. Supreme Court Allows Racial Targeting ICE Raids to Continue in LA](https://www.reuters.com/world/us/us-supreme-court-backs-trump-aggressive-immigration-raids-2025-09-08/)
 * [2025-09-08, 16:53:42](https://news.ycombinator.com/item?id=45170647) - [AI Is Not a Bubble](https://danielmiessler.com/blog/no-ai-is-not-a-bubble)
@@ -12,6 +13,7 @@
 * [2025-09-08, 16:18:30](https://news.ycombinator.com/item?id=45170164) - [95% of AI Pilots Fail](https://www.selector.ai/blog/95-of-ai-pilots-fail-heres-how-to-be-the-5/)
 * [2025-09-08, 16:13:10](https://news.ycombinator.com/item?id=45170087) - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
 * [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
+* [2025-09-08, 15:49:14](https://news.ycombinator.com/item?id=45169798) - [After nearly half a century in deep space, every ping from Voyager 1 is a bonus](https://www.theregister.com/2025/09/07/48_years_voyager_1/)
 * [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 * [2025-09-08, 15:35:46](https://news.ycombinator.com/item?id=45169624) - [Will Amazon S3 Vectors Kill Vector Databases–Or Save Them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
 * [2025-09-08, 15:32:46](https://news.ycombinator.com/item?id=45169584) - [Google gets away almost scot-free in US search antitrust case](https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html)
