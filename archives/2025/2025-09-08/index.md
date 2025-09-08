@@ -8,6 +8,7 @@
 * [2025-09-08, 06:26:43](https://news.ycombinator.com/item?id=45165186) - [Britain built some of the safest roads](https://ourworldindata.org/britain-safest-roads-history)
 * [2025-09-08, 06:04:51](https://news.ycombinator.com/item?id=45165066) - [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
 * [2025-09-08, 05:56:48](https://news.ycombinator.com/item?id=45165019) - [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/)
+* [2025-09-08, 04:47:55](https://news.ycombinator.com/item?id=45164710) - [Tumult and Sympathy: The Letters of Oliver Sacks](https://www.commonwealmagazine.org/tumult-and-sympathy)
 * [2025-09-08, 03:54:53](https://news.ycombinator.com/item?id=45164497) - [GitHub Community Discussions: Two most upvoted requests are to disable Copilot](https://github.com/orgs/community/discussions)
 * [2025-09-08, 03:40:02](https://news.ycombinator.com/item?id=45164444) - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
 * [2025-09-08, 02:11:10](https://news.ycombinator.com/item?id=45164104) - [Computers Are for Girls – Datagubbe.se](https://datagubbe.se/girls/)
