@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-08, 08:29:14](https://news.ycombinator.com/item?id=45165902) - [50k art hoes will save San Francisco](https://twitter.com/taotechic/status/1964551131977437674)
+* [2025-09-08, 08:28:15](https://news.ycombinator.com/item?id=45165897) - [Show HN: TheAuditor – Offline security scanner for AI-generated code](https://github.com/TheAuditorTool/Auditor)
 * [2025-09-08, 06:38:34](https://news.ycombinator.com/item?id=45165245) - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
 * [2025-09-08, 06:04:51](https://news.ycombinator.com/item?id=45165066) - [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
-* [2025-09-08, 04:47:55](https://news.ycombinator.com/item?id=45164710) - [Tumult and Sympathy: The Letters of Oliver Sacks](https://www.commonwealmagazine.org/tumult-and-sympathy)
 * [2025-09-08, 00:30:19](https://news.ycombinator.com/item?id=45163598) - [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x)
 * [2025-09-07, 23:53:47](https://news.ycombinator.com/item?id=45163362) - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 * [2025-09-07, 23:08:42](https://news.ycombinator.com/item?id=45163043) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
@@ -25,6 +24,7 @@
 * [2025-09-05, 18:27:24](https://news.ycombinator.com/item?id=45141907) - [Why Is Japan Still Investing in Custom Floating Point Accelerators?](https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/)
 * [2025-09-05, 14:48:15](https://news.ycombinator.com/item?id=45139228) - [How big are our embeddings now and why?](https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/)
 * [2025-09-05, 12:33:11](https://news.ycombinator.com/item?id=45137772) - [Forty-Four Esolangs: The Art of Esoteric Code](https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin)
+* [2025-09-05, 08:50:24](https://news.ycombinator.com/item?id=45136411) - [Tokyo has an unmanned, honor-system electronics and appliance shop](https://soranews24.com/2021/08/21/tokyo-has-a-completely-unmanned-honor-system-electronics-and-appliance-shop%e3%80%90photos%e3%80%91/)
 * [2025-09-05, 07:18:12](https://news.ycombinator.com/item?id=45135839) - [Truco and clones: the beginnings of Argentinian computer gaming](https://zeitgame.net/archives/18373)
 * [2025-09-04, 22:22:05](https://news.ycombinator.com/item?id=45132899) - [Hungry Hungry Hippos Autoplay (2017)](https://www.mikekohn.net/micro/hungry_hungry_hippos.php)
 * [2025-09-04, 17:06:14](https://news.ycombinator.com/item?id=45129507) - [Analog optical computer for AI inference and combinatorial optimization](https://www.nature.com/articles/s41586-025-09430-z)

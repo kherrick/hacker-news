@@ -60,6 +60,7 @@
 * [2025-09-05, 10:18:31](https://news.ycombinator.com/item?id=45136949) - [U.S. imposes sanctions on 3 Palestinian human rights groups](https://www.reuters.com/world/middle-east/us-imposes-sanctions-palestinians-who-asked-israel-war-crimes-probe-2025-09-04/)
 * [2025-09-05, 09:40:08](https://news.ycombinator.com/item?id=45136728) - [I have two Amazon Echos that I never use, but they burn gbs a day of bandwidth](https://twitter.com/davepl1968/status/1963803025572770212)
 * [2025-09-05, 09:13:25](https://news.ycombinator.com/item?id=45136558) - [SAP splashes €20B on Euro sovereign cloud push](https://www.theregister.com/2025/09/04/sap_sovereign_cloud/)
+* [2025-09-05, 08:50:24](https://news.ycombinator.com/item?id=45136411) - [Tokyo has an unmanned, honor-system electronics and appliance shop](https://soranews24.com/2021/08/21/tokyo-has-a-completely-unmanned-honor-system-electronics-and-appliance-shop%e3%80%90photos%e3%80%91/)
 * [2025-09-05, 08:43:01](https://news.ycombinator.com/item?id=45136367) - [IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing](https://www.usenix.org/conference/atc25/presentation/landsberg)
 * [2025-09-05, 07:57:21](https://news.ycombinator.com/item?id=45136103) - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 * [2025-09-05, 07:44:26](https://news.ycombinator.com/item?id=45136008) - [Fiber Concurrency](https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency)
