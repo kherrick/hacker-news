@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-09-08, 02:11:10",
+      "https://news.ycombinator.com/item?id=45164104"
+    ],
+    [
+      "Computers Are for Girls – Datagubbe.se",
+      "https://datagubbe.se/girls/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 01:53:11",
+      "https://news.ycombinator.com/item?id=45164026"
+    ],
+    [
+      "Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself",
+      "https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 23:53:47",
       "https://news.ycombinator.com/item?id=45163362"
     ],
     [
       "Using Claude Code to modernize a forgotten Linux kernel driver",
       "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 23:08:42",
-      "https://news.ycombinator.com/item?id=45163043"
-    ],
-    [
-      "Formatting code should be unnecessary",
-      "https://maxleiter.com/blog/formatting"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Show HN: OpenCV over WebRTC (in Go)",
       "https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 21:14:08",
-      "https://news.ycombinator.com/item?id=45162220"
-    ],
-    [
-      "Taco Bell AI Drive-Thru",
-      "https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-09-07, 11:00:03",
-      "https://news.ycombinator.com/item?id=45157110"
-    ],
-    [
-      "Serverless Horrors",
-      "https://serverlesshorrors.com/"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 10:38:29",
       "https://news.ycombinator.com/item?id=45157020"
     ],
@@ -207,16 +197,6 @@
     [
       "The “impossibly small” Microdot web framework",
       "https://lwn.net/Articles/1034121/"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 01:26:44",
-      "https://news.ycombinator.com/item?id=45154501"
-    ],
-    [
-      "The key to getting MVC correct is understanding what models are",
-      "https://stlab.cc/tips/about-mvc.html"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Analog optical computer for AI inference and combinatorial optimization",
       "https://www.nature.com/articles/s41586-025-09430-z"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 07:25:21",
+      "https://news.ycombinator.com/item?id=45124560"
+    ],
+    [
+      "How many dimensions is this?",
+      "https://lcamtuf.substack.com/p/how-many-dimensions-is-this"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 22:21:38",
+      "https://news.ycombinator.com/item?id=45121010"
+    ],
+    [
+      "Like humans, every tree has its own microbiome, a new study has found",
+      "https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html"
     ]
   ],
   [
