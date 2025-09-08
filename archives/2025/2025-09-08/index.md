@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 20:22:38](https://news.ycombinator.com/item?id=45173455) - [YouTube views are down (don't panic)](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
+* [2025-09-08, 20:07:22](https://news.ycombinator.com/item?id=45173277) - [Chat Control Must Be Stopped](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
 * [2025-09-08, 19:41:37](https://news.ycombinator.com/item?id=45172942) - [Spanish PM Pedro Sánchez says Israel is 'exterminating a defenceless people'](https://www.theguardian.com/world/2025/sep/08/spanish-pm-pedro-sanchez-israel-exterminating-defenceless-people-gaza)
 * [2025-09-08, 19:16:39](https://news.ycombinator.com/item?id=45172609) - [Microsoft bets big on nuclear future for data centers](https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy)
 * [2025-09-08, 19:02:56](https://news.ycombinator.com/item?id=45172414) - [iPhone app alerts users to nearby ICE sightings](https://www.cnn.com/2025/06/30/tech/iceblock-app-trump-immigration-crackdown)
