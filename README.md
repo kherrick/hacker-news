@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
+* [2025-09-08, 14:38:30](https://news.ycombinator.com/item?id=45168883) - ['We can do it for under $100M': Startup joins race to build local ChatGPT](https://www.afr.com/technology/we-can-do-it-for-under-100m-start-up-joins-race-to-build-local-chatgpt-20250908-p5mt5o)
 * [2025-09-08, 13:17:44](https://news.ycombinator.com/item?id=45167887) - [Exploring Grid-Aware Websites](https://www.nicchan.me/blog/exploring-grid-aware-websites/)
 * [2025-09-08, 13:02:20](https://news.ycombinator.com/item?id=45167729) - [No more data centers: Ohio township pushes back against influx of Amazon, others](https://www.usatoday.com)
 * [2025-09-08, 12:59:28](https://news.ycombinator.com/item?id=45167705) - [Meta suppressed research on child safety, employees say](https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/)
@@ -15,10 +17,8 @@
 * [2025-09-07, 22:06:35](https://news.ycombinator.com/item?id=45162626) - [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
 * [2025-09-07, 22:03:13](https://news.ycombinator.com/item?id=45162593) - [Taking Buildkite from a side project to a global company](https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project)
 * [2025-09-07, 21:50:30](https://news.ycombinator.com/item?id=45162501) - [Creative Technology: The Sound Blaster](https://www.abortretry.fail/p/the-story-of-creative-technology)
-* [2025-09-07, 19:53:03](https://news.ycombinator.com/item?id=45161556) - [No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]](https://www.cs.unc.edu/techreports/86-020.pdf)
 * [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
-* [2025-09-07, 09:52:56](https://news.ycombinator.com/item?id=45156826) - [What is the origin of the private network address 192.168.*.*? (2009)](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
 * [2025-09-07, 06:54:29](https://news.ycombinator.com/item?id=45155986) - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 * [2025-09-06, 19:42:48](https://news.ycombinator.com/item?id=45152284) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search](https://simonwillison.net/2025/Sep/6/research-goblin/)
 * [2025-09-05, 18:27:24](https://news.ycombinator.com/item?id=45141907) - [Why Is Japan Still Investing in Custom Floating Point Accelerators?](https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/)

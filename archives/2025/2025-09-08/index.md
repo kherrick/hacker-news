@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
+* [2025-09-08, 14:38:30](https://news.ycombinator.com/item?id=45168883) - ['We can do it for under $100M': Startup joins race to build local ChatGPT](https://www.afr.com/technology/we-can-do-it-for-under-100m-start-up-joins-race-to-build-local-chatgpt-20250908-p5mt5o)
 * [2025-09-08, 13:20:06](https://news.ycombinator.com/item?id=45167913) - [Tesla Wants Out of the Car Business](https://www.theatlantic.com/technology/archive/2025/09/tesla-elon-musk-master-plan-robotaxi/684122/)
 * [2025-09-08, 13:17:44](https://news.ycombinator.com/item?id=45167887) - [Exploring Grid-Aware Websites](https://www.nicchan.me/blog/exploring-grid-aware-websites/)
 * [2025-09-08, 13:02:20](https://news.ycombinator.com/item?id=45167729) - [No more data centers: Ohio township pushes back against influx of Amazon, others](https://www.usatoday.com)
