@@ -27,9 +27,9 @@
 * [2025-09-08, 06:26:43](https://news.ycombinator.com/item?id=45165186) - [How Britain built some of the world’s safest roads](https://ourworldindata.org/britain-safest-roads-history)
 * [2025-09-05, 23:07:00](https://news.ycombinator.com/item?id=45144758) - [Is OOXML Artifically Complex?](https://hsu.cy/2025/09/is-ooxml-artificially-complex/)
 * [2025-09-05, 21:37:36](https://news.ycombinator.com/item?id=45143927) - [Learning the soroban rapid mental calculation as an adult](https://github.com/whacked/cow/blob/main/learning%20the%20soroban%20as%20an%20adult.md)
-* [2025-09-05, 18:27:24](https://news.ycombinator.com/item?id=45141907) - [Why is Japan still investing in custom floating point accelerators?](https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/)
 * [2025-09-05, 16:18:33](https://news.ycombinator.com/item?id=45140281) - [Dark Academia Grows Up](https://www.publicbooks.org/dark-academia-grows-up/)
 * [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The key points of \"Working Effectively with Legacy Code\"](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
+* [2025-09-05, 02:21:56](https://news.ycombinator.com/item?id=45134404) - [David Walker's Paper Clip Collection](https://www.presentandcorrect.com/blogs/blog/david-walkers-paper-clip-collection)
 
 ## [Archives](archives/index.md)
 
