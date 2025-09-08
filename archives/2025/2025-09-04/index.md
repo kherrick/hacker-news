@@ -8,6 +8,7 @@
 * [2025-09-04, 23:20:43](https://news.ycombinator.com/item?id=45133344) - [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
 * [2025-09-04, 23:12:00](https://news.ycombinator.com/item?id=45133289) - [Unix Conspiracy (1991)](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
 * [2025-09-04, 22:47:45](https://news.ycombinator.com/item?id=45133109) - [Why I Ditched Spotify, and How I Set Up My Own Music Stack](https://leshicodes.github.io/blog/spotify-migration/)
+* [2025-09-04, 22:22:05](https://news.ycombinator.com/item?id=45132899) - [Hungry Hungry Hippos Autoplay](https://www.mikekohn.net/micro/hungry_hungry_hippos.php)
 * [2025-09-04, 22:13:47](https://news.ycombinator.com/item?id=45132832) - [The million dollar mystery behind Milk.com](https://www.npr.org/2025/09/03/nx-s1-5526903/domain-name-value-milk-dot-com)
 * [2025-09-04, 22:11:09](https://news.ycombinator.com/item?id=45132810) - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
 * [2025-09-04, 22:03:00](https://news.ycombinator.com/item?id=45132729) - [They blew up a boat far offshore, killed eleven people, and called it justice](https://mitchthelawyer.substack.com/p/they-blew-up-a-boat-far-offshore)

@@ -10,3 +10,4 @@
 * [2025-09-08, 01:56:49](https://news.ycombinator.com/item?id=45164042) - [The End of the American City](https://kevinerdmann.substack.com/p/the-end-of-the-american-city)
 * [2025-09-08, 01:56:04](https://news.ycombinator.com/item?id=45164037) - [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
 * [2025-09-08, 01:53:11](https://news.ycombinator.com/item?id=45164026) - [Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself](https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/)
+* [2025-09-08, 00:30:19](https://news.ycombinator.com/item?id=45163598) - [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x)
