@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-09-08, 02:11:10",
-      "https://news.ycombinator.com/item?id=45164104"
-    ],
-    [
-      "Computers Are for Girls – Datagubbe.se",
-      "https://datagubbe.se/girls/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 01:56:49",
-      "https://news.ycombinator.com/item?id=45164042"
-    ],
-    [
-      "The End of the American City",
-      "https://kevinerdmann.substack.com/p/the-end-of-the-american-city"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 01:56:04",
       "https://news.ycombinator.com/item?id=45164037"
     ],
@@ -35,8 +15,18 @@
       "https://news.ycombinator.com/item?id=45163362"
     ],
     [
-      "Using Claude Code to modernize a forgotten Linux kernel driver",
+      "Using Claude Code to modernize a 25-year-old kernel driver",
       "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 23:08:42",
+      "https://news.ycombinator.com/item?id=45163043"
+    ],
+    [
+      "Formatting code should be unnecessary",
+      "https://maxleiter.com/blog/formatting"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "Show HN: OpenCV over WebRTC (in Go)",
       "https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 21:14:08",
+      "https://news.ycombinator.com/item?id=45162220"
+    ],
+    [
+      "Taco Bell AI Drive-Thru",
+      "https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html"
     ]
   ],
   [
