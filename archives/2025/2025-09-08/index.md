@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
 * [2025-09-08, 22:11:31](https://news.ycombinator.com/item?id=45174707) - [Plex Security Incident](https://links.plex.tv/s/vb/Vn7XtnwDSSaqqDUYoHu1P57ZgZ1FsHgTO2PTIBl6jEOUiHBH3LGmI3nLdDfopQa54PatUwZQhT0Bz8rKAi--jTM4ATdsBHpe4c1Yljr89VkoCOavEGH5wn5Fi_filLNeOMo-lnNqLSLpJpI/lOe98S8UWKdmPnp9StQz9R1-kOSTpWhr/12)
+* [2025-09-08, 22:10:41](https://news.ycombinator.com/item?id=45174696) - [CATL launches LFP battery with 470 miles range and 10-minute charging](https://electrek.co/2025/09/08/catl-launches-worlds-first-lfp-battery-with-470-miles-range/)
 * [2025-09-08, 21:26:07](https://news.ycombinator.com/item?id=45174221) - [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
 * [2025-09-08, 21:26:04](https://news.ycombinator.com/item?id=45174220) - [Nintendo secures $2M settlement against Switch modder](https://www.tomshardware.com/video-games/nintendo-secures-settlement-against-switch-modder-who-represented-himself-in-court)
 * [2025-09-08, 21:17:50](https://news.ycombinator.com/item?id=45174125) - [Alterego: Thought to Text](https://www.alterego.io/)
