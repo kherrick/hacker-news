@@ -16,6 +16,7 @@
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
 * [2025-09-08, 14:36:00](https://news.ycombinator.com/item?id=45168854) - [AMD claims Arm ISA doesn't offer efficiency advantage over x86](https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86)
 * [2025-09-08, 12:49:46](https://news.ycombinator.com/item?id=45167625) - [AI might yet follow the path of previous technological revolutions](https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology)
+* [2025-09-08, 12:38:49](https://news.ycombinator.com/item?id=45167534) - [ICEBlock handled my vulnerability report in the worst possible way](https://micahflee.com/iceblock-handled-my-vulnerability-report-in-the-worst-possible-way/)
 * [2025-09-08, 12:29:12](https://news.ycombinator.com/item?id=45167459) - [Writing code is easy, reading it isn't](https://idiallo.com/blog/writing-code-is-easy-reading-is-hard)
 * [2025-09-08, 12:21:15](https://news.ycombinator.com/item?id=45167401) - [A clickable visual guide to the Rust type system](https://rustcurious.com/elements/)
 * [2025-09-08, 12:18:55](https://news.ycombinator.com/item?id=45167394) - [A critique of package managers](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
@@ -27,7 +28,6 @@
 * [2025-09-05, 18:27:24](https://news.ycombinator.com/item?id=45141907) - [Why is Japan still investing in custom floating point accelerators?](https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/)
 * [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The key points of \"Working Effectively with Legacy Code\"](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
 * [2025-09-05, 12:05:17](https://news.ycombinator.com/item?id=45137584) - [Building an acoustic camera with UMA-16 and Acoular](https://www.minidsp.com/applications/usb-mic-array/acoustic-camera-uma16)
-* [2025-09-05, 10:07:07](https://news.ycombinator.com/item?id=45136880) - [Firefox 32-bit Linux Support to End in 2026](https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/)
 * [2025-09-04, 19:13:10](https://news.ycombinator.com/item?id=45131091) - [Integer Programming (1977) [pdf]](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
 * [2025-09-04, 18:18:27](https://news.ycombinator.com/item?id=45130433) - [We Rarely Lose Technology (2023)](https://www.hopefulmons.com/p/we-rarely-lose-technology)
 
