@@ -3,7 +3,8 @@
 * [2025-09-08, 19:00:20](https://news.ycombinator.com/item?id=45172376) - [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
 * [2025-09-08, 18:57:57](https://news.ycombinator.com/item?id=45172337) - [Setting up a home VPN server with WireGuard](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 * [2025-09-08, 18:56:56](https://news.ycombinator.com/item?id=45172319) - [\"The fact is that today, the open web is already in rapid decline\"–Google [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.vaed.533508/gov.uscourts.vaed.533508.1664.0.pdf)
-* [2025-09-08, 17:44:52](https://news.ycombinator.com/item?id=45171361) - [Escaping the Internet](https://www.ryanckulp.com/escaping-the-internet/)
+* [2025-09-08, 18:54:01](https://news.ycombinator.com/item?id=45172270) - [The Job Market Is Hell](https://www.theatlantic.com/ideas/archive/2025/09/job-market-hell/684133/)
+* [2025-09-08, 17:48:15](https://news.ycombinator.com/item?id=45171418) - [America is in a serious jobs slump](https://www.cnn.com/2025/09/03/economy/us-jolts-job-openings-layoffs-july)
 * [2025-09-08, 17:33:44](https://news.ycombinator.com/item?id=45171200) - [iPhone Dumbphone](https://stopa.io/post/297)
 * [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 * [2025-09-08, 16:13:10](https://news.ycombinator.com/item?id=45170087) - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
@@ -24,12 +25,11 @@
 * [2025-09-08, 10:50:01](https://news.ycombinator.com/item?id=45166750) - [The story of how RSS beat Microsoft](https://buttondown.com/blog/rss-vs-ice)
 * [2025-09-08, 07:58:38](https://news.ycombinator.com/item?id=45165684) - [Immich – High performance self-hosted photo and video management solution](https://github.com/immich-app/immich)
 * [2025-09-08, 01:32:42](https://news.ycombinator.com/item?id=45163948) - [Bob Stein and Voyager (2021)](https://www.filfre.net/2021/06/bob-stein-and-voyager/)
-* [2025-09-07, 23:08:42](https://news.ycombinator.com/item?id=45163043) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
-* [2025-09-06, 19:42:48](https://news.ycombinator.com/item?id=45152284) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search](https://simonwillison.net/2025/Sep/6/research-goblin/)
 * [2025-09-05, 18:27:24](https://news.ycombinator.com/item?id=45141907) - [Why Is Japan Still Investing in Custom Floating Point Accelerators?](https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/)
 * [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The Key Points of Working Effectively with Legacy Code](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
 * [2025-09-05, 12:05:17](https://news.ycombinator.com/item?id=45137584) - [Building an acoustic camera with UMA-16 and Acoular](https://www.minidsp.com/applications/usb-mic-array/acoustic-camera-uma16)
 * [2025-09-05, 10:07:07](https://news.ycombinator.com/item?id=45136880) - [Firefox 32-bit Linux Support to End in 2026](https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/)
+* [2025-09-04, 18:18:27](https://news.ycombinator.com/item?id=45130433) - [We Rarely Lose Technology (2023)](https://www.hopefulmons.com/p/we-rarely-lose-technology)
 
 ## [Archives](archives/index.md)
 
