@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
 * [2025-09-05, 23:23:55](https://news.ycombinator.com/item?id=45144900) - [Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy](https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/)
+* [2025-09-05, 23:07:00](https://news.ycombinator.com/item?id=45144758) - [Is OOXML Artifically Complex?](https://hsu.cy/2025/09/is-ooxml-artificially-complex/)
 * [2025-09-05, 22:50:55](https://news.ycombinator.com/item?id=45144610) - [The math of shuffling cards almost brought down an online poker empire](https://www.scientificamerican.com/article/how-the-math-of-shuffling-cards-almost-brought-down-an-online-poker-empire/)
 * [2025-09-05, 22:27:46](https://news.ycombinator.com/item?id=45144403) - [Supercharger for Business – Tesla](https://www.tesla.com/supercharger-for-business)
 * [2025-09-05, 22:20:37](https://news.ycombinator.com/item?id=45144337) - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
