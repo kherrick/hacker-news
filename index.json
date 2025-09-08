@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-08, 12:00:23",
+      "https://news.ycombinator.com/item?id=45167239"
+    ],
+    [
+      "VMware's in court again. Customer relationships rarely go this wrong",
+      "https://www.theregister.com/2025/09/08/vmware_in_court_opinion/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 11:24:42",
       "https://news.ycombinator.com/item?id=45166972"
     ],
@@ -27,16 +37,6 @@
     [
       "How inaccurate are Nintendo's official emulators? [video]",
       "https://www.youtube.com/watch?v=oYjYmSniQyM"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 08:26:44",
-      "https://news.ycombinator.com/item?id=45165885"
-    ],
-    [
-      "How can I deal with a team member who is always complaining?",
-      "https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-09-07, 15:03:46",
-      "https://news.ycombinator.com/item?id=45158814"
-    ],
-    [
-      "SQLite's Use of Tcl (2017)",
-      "https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 09:52:56",
       "https://news.ycombinator.com/item?id=45156826"
     ],
@@ -211,22 +201,22 @@
   ],
   [
     [
-      "2025-09-05, 20:42:04",
-      "https://news.ycombinator.com/item?id=45143347"
-    ],
-    [
-      "Default musl allocator considered harmful to performance",
-      "https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 18:27:24",
       "https://news.ycombinator.com/item?id=45141907"
     ],
     [
       "Why Is Japan Still Investing in Custom Floating Point Accelerators?",
       "https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 18:19:54",
+      "https://news.ycombinator.com/item?id=45141809"
+    ],
+    [
+      "How many SPARCs is too many SPARCs?",
+      "https://thejpster.org.uk/blog/blog-2025-08-20/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "How many dimensions is this?",
       "https://lcamtuf.substack.com/p/how-many-dimensions-is-this"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 19:01:36",
+      "https://news.ycombinator.com/item?id=45119310"
+    ],
+    [
+      "A Technical Update on Submarine Cables [pdf]",
+      "https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf"
     ]
   ],
   [
