@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 22:11:31](https://news.ycombinator.com/item?id=45174707) - [Plex Security Incident](https://links.plex.tv/s/vb/Vn7XtnwDSSaqqDUYoHu1P57ZgZ1FsHgTO2PTIBl6jEOUiHBH3LGmI3nLdDfopQa54PatUwZQhT0Bz8rKAi--jTM4ATdsBHpe4c1Yljr89VkoCOavEGH5wn5Fi_filLNeOMo-lnNqLSLpJpI/lOe98S8UWKdmPnp9StQz9R1-kOSTpWhr/12)
 * [2025-09-08, 21:26:07](https://news.ycombinator.com/item?id=45174221) - [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
+* [2025-09-08, 21:26:04](https://news.ycombinator.com/item?id=45174220) - [Nintendo secures $2M settlement against Switch modder](https://www.tomshardware.com/video-games/nintendo-secures-settlement-against-switch-modder-who-represented-himself-in-court)
 * [2025-09-08, 21:17:50](https://news.ycombinator.com/item?id=45174125) - [Alterego: Thought to Text](https://www.alterego.io/)
 * [2025-09-08, 21:10:18](https://news.ycombinator.com/item?id=45174037) - [The Elegance of Movement in Silksong](https://theahura.substack.com/p/the-elegance-of-movement-in-silksong)
 * [2025-09-08, 20:35:40](https://news.ycombinator.com/item?id=45173623) - [Spotify users ask for a setting to hide AI generated contents but they refuse](https://community.spotify.com/t5/Content-Questions/How-can-I-disable-PFC-AI-generated-content/td-p/6956494)
@@ -27,6 +29,7 @@
 * [2025-09-08, 16:24:33](https://news.ycombinator.com/item?id=45170244) - [Our data shows San Francisco tech workers are working Saturdays](https://ramp.com/velocity/san-francisco-tech-workers-996-schedule)
 * [2025-09-08, 16:18:30](https://news.ycombinator.com/item?id=45170164) - [95% of AI Pilots Fail](https://www.selector.ai/blog/95-of-ai-pilots-fail-heres-how-to-be-the-5/)
 * [2025-09-08, 16:13:10](https://news.ycombinator.com/item?id=45170087) - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
+* [2025-09-08, 16:06:52](https://news.ycombinator.com/item?id=45170000) - [So Long [Nova Launcher's FOSS release blocked by its owners,despite obligations]](https://teslacoilapps.com/nova/solong.html)
 * [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
 * [2025-09-08, 15:49:14](https://news.ycombinator.com/item?id=45169798) - [After nearly half a century in deep space, every ping from Voyager 1 is a bonus](https://www.theregister.com/2025/09/07/48_years_voyager_1/)
 * [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)

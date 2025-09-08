@@ -1,15 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-08, 22:11:31](https://news.ycombinator.com/item?id=45174707) - [Plex Security Incident](https://links.plex.tv/s/vb/Vn7XtnwDSSaqqDUYoHu1P57ZgZ1FsHgTO2PTIBl6jEOUiHBH3LGmI3nLdDfopQa54PatUwZQhT0Bz8rKAi--jTM4ATdsBHpe4c1Yljr89VkoCOavEGH5wn5Fi_filLNeOMo-lnNqLSLpJpI/lOe98S8UWKdmPnp9StQz9R1-kOSTpWhr/12)
 * [2025-09-08, 21:26:07](https://news.ycombinator.com/item?id=45174221) - [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
+* [2025-09-08, 21:26:04](https://news.ycombinator.com/item?id=45174220) - [Nintendo secures $2M settlement against Switch modder](https://www.tomshardware.com/video-games/nintendo-secures-settlement-against-switch-modder-who-represented-himself-in-court)
 * [2025-09-08, 21:17:50](https://news.ycombinator.com/item?id=45174125) - [Alterego: Thought to Text](https://www.alterego.io/)
 * [2025-09-08, 21:10:18](https://news.ycombinator.com/item?id=45174037) - [The Elegance of Movement in Silksong](https://theahura.substack.com/p/the-elegance-of-movement-in-silksong)
-* [2025-09-08, 20:35:40](https://news.ycombinator.com/item?id=45173623) - [Spotify users ask for a setting to hide AI generated contents but they refuse](https://community.spotify.com/t5/Content-Questions/How-can-I-disable-PFC-AI-generated-content/td-p/6956494)
-* [2025-09-08, 20:22:38](https://news.ycombinator.com/item?id=45173455) - [YouTube views are down (don't panic)](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
 * [2025-09-08, 20:07:22](https://news.ycombinator.com/item?id=45173277) - [Chat Control Must Be Stopped](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
 * [2025-09-08, 19:00:20](https://news.ycombinator.com/item?id=45172376) - [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
 * [2025-09-08, 17:33:44](https://news.ycombinator.com/item?id=45171200) - [iPhone dumbphone](https://stopa.io/post/297)
 * [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 * [2025-09-08, 16:13:10](https://news.ycombinator.com/item?id=45170087) - [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
+* [2025-09-08, 16:06:52](https://news.ycombinator.com/item?id=45170000) - [So Long [Nova Launcher's FOSS release blocked by its owners,despite obligations]](https://teslacoilapps.com/nova/solong.html)
 * [2025-09-08, 15:57:40](https://news.ycombinator.com/item?id=45169892) - [Job mismatch and early career success](https://www.nber.org/papers/w34215)
 * [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 * [2025-09-08, 15:35:46](https://news.ycombinator.com/item?id=45169624) - [Will Amazon S3 Vectors kill vector databases or save them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
@@ -29,7 +30,6 @@
 * [2025-09-05, 18:27:24](https://news.ycombinator.com/item?id=45141907) - [Why is Japan still investing in custom floating point accelerators?](https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/)
 * [2025-09-05, 16:18:33](https://news.ycombinator.com/item?id=45140281) - [Dark Academia Grows Up](https://www.publicbooks.org/dark-academia-grows-up/)
 * [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The key points of \"Working Effectively with Legacy Code\"](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
-* [2025-09-05, 12:05:17](https://news.ycombinator.com/item?id=45137584) - [Building an acoustic camera with UMA-16 and Acoular](https://www.minidsp.com/applications/usb-mic-array/acoustic-camera-uma16)
 
 ## [Archives](archives/index.md)
 
