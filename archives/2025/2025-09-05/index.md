@@ -17,6 +17,7 @@
 * [2025-09-05, 21:00:26](https://news.ycombinator.com/item?id=45143548) - [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
 * [2025-09-05, 20:42:04](https://news.ycombinator.com/item?id=45143347) - [Default musl allocator considered harmful to performance](https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/)
 * [2025-09-05, 20:24:39](https://news.ycombinator.com/item?id=45143209) - [California AG to OpenAI: Harm to Children Will Not Be Tolerated](https://oag.ca.gov/news/press-releases/attorney-general-bonta-openai-harm-children-will-not-be-tolerated)
+* [2025-09-05, 20:19:00](https://news.ycombinator.com/item?id=45143154) - [Show HN: Stroboscopic Instrument Tuner](https://github.com/dsego/strobe-tuner)
 * [2025-09-05, 20:16:10](https://news.ycombinator.com/item?id=45143124) - [Introducing Speed Brain: helping web pages load 45% faster](https://blog.cloudflare.com/introducing-speed-brain/)
 * [2025-09-05, 20:11:39](https://news.ycombinator.com/item?id=45143077) - [The Day I Kissed Comment Culture Goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
 * [2025-09-05, 20:07:13](https://news.ycombinator.com/item?id=45143019) - [William James at CERN (1995)](http://bactra.org/wm-james-at-cern/)

@@ -20,6 +20,7 @@
 * [2025-09-07, 06:54:29](https://news.ycombinator.com/item?id=45155986) - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 * [2025-09-06, 19:42:48](https://news.ycombinator.com/item?id=45152284) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search](https://simonwillison.net/2025/Sep/6/research-goblin/)
 * [2025-09-05, 20:42:04](https://news.ycombinator.com/item?id=45143347) - [Default musl allocator considered harmful to performance](https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/)
+* [2025-09-05, 20:19:00](https://news.ycombinator.com/item?id=45143154) - [Show HN: Stroboscopic Instrument Tuner](https://github.com/dsego/strobe-tuner)
 * [2025-09-05, 18:27:24](https://news.ycombinator.com/item?id=45141907) - [Why Is Japan Still Investing in Custom Floating Point Accelerators?](https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/)
 * [2025-09-05, 14:48:15](https://news.ycombinator.com/item?id=45139228) - [How big are our embeddings now and why?](https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/)
 * [2025-09-05, 12:33:11](https://news.ycombinator.com/item?id=45137772) - [Forty-Four Esolangs: The Art of Esoteric Code](https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin)
@@ -28,7 +29,6 @@
 * [2025-09-04, 22:22:05](https://news.ycombinator.com/item?id=45132899) - [Hungry Hungry Hippos Autoplay (2017)](https://www.mikekohn.net/micro/hungry_hungry_hippos.php)
 * [2025-09-04, 17:06:14](https://news.ycombinator.com/item?id=45129507) - [Analog optical computer for AI inference and combinatorial optimization](https://www.nature.com/articles/s41586-025-09430-z)
 * [2025-09-04, 07:25:21](https://news.ycombinator.com/item?id=45124560) - [How many dimensions is this?](https://lcamtuf.substack.com/p/how-many-dimensions-is-this)
-* [2025-09-03, 19:01:36](https://news.ycombinator.com/item?id=45119310) - [A Technical Update on Submarine Cables [pdf]](https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf)
 * [2025-09-03, 17:18:09](https://news.ycombinator.com/item?id=45118286) - [Garmin beats Apple to market with satellite-connected smartwatch](https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/)
 
 ## [Archives](archives/index.md)
