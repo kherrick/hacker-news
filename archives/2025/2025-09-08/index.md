@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 17:20:29](https://news.ycombinator.com/item?id=45171009) - [U.S. Supreme Court Allows Racial Targeting ICE Raids to Continue in LA](https://www.reuters.com/world/us/us-supreme-court-backs-trump-aggressive-immigration-raids-2025-09-08/)
 * [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 * [2025-09-08, 16:24:33](https://news.ycombinator.com/item?id=45170244) - [Our data shows San Francisco tech workers are working Saturdays](https://ramp.com/velocity/san-francisco-tech-workers-996-schedule)
 * [2025-09-08, 16:18:30](https://news.ycombinator.com/item?id=45170164) - [95% of AI Pilots Fail](https://www.selector.ai/blog/95-of-ai-pilots-fail-heres-how-to-be-the-5/)
