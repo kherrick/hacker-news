@@ -19,6 +19,7 @@
 * [2025-09-08, 15:08:20](https://news.ycombinator.com/item?id=45169275) - [Clankers Die on Christmas](https://remyhax.xyz/posts/clankers-die-on-christmas/)
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
 * [2025-09-08, 14:36:00](https://news.ycombinator.com/item?id=45168854) - [AMD claims Arm ISA doesn't offer efficiency advantage over x86](https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86)
+* [2025-09-08, 12:49:46](https://news.ycombinator.com/item?id=45167625) - [AI might yet follow the path of previous technological revolutions](https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology)
 * [2025-09-08, 06:26:43](https://news.ycombinator.com/item?id=45165186) - [How Britain built some of the world’s safest roads](https://ourworldindata.org/britain-safest-roads-history)
 * [2025-09-06, 18:22:35](https://news.ycombinator.com/item?id=45151641) - [How can England possibly be running out of water?](https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water)
 * [2025-09-06, 01:13:10](https://news.ycombinator.com/item?id=45145638) - [CPR in space could be made easier by chest compression machines](https://www.newscientist.com/article/2493803-cpr-in-space-could-be-made-easier-by-chest-compression-machines/)
@@ -27,7 +28,6 @@
 * [2025-09-05, 21:57:15](https://news.ycombinator.com/item?id=45144129) - [Deluxe Paint on the Commodore Amiga](https://stonetools.ghost.io/deluxepaint-amiga/)
 * [2025-09-05, 21:37:36](https://news.ycombinator.com/item?id=45143927) - [Learning the soroban as an adult (2022)](https://github.com/whacked/cow/blob/main/learning%20the%20soroban%20as%20an%20adult.md)
 * [2025-09-05, 19:34:18](https://news.ycombinator.com/item?id=45142704) - [Seedship – Text-Based Game](https://philome.la/johnayliff/seedship/play/index.html)
-* [2025-09-05, 16:49:29](https://news.ycombinator.com/item?id=45140695) - [Interview with Geoffrey Hinton](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
 * [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The key points of \"Working Effectively with Legacy Code\"](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
 * [2025-09-05, 06:36:49](https://news.ycombinator.com/item?id=45135591) - [Contracts for C](https://gustedt.wordpress.com/2025/03/10/contracts-for-c/)
 
