@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-09, 03:26:08",
-      "https://news.ycombinator.com/item?id=45177043"
+      "2025-09-09, 01:51:54",
+      "https://news.ycombinator.com/item?id=45176491"
     ],
     [
-      "Source code for the X Recommendation Algorithm",
-      "https://github.com/twitter/the-algorithm"
+      "Anthropic reduced model output quality from Aug 5",
+      "https://status.anthropic.com/incidents/72f99lh1cj2c"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-09-08, 10:50:01",
-      "https://news.ycombinator.com/item?id=45166750"
-    ],
-    [
-      "How RSS beat Microsoft",
-      "https://buttondown.com/blog/rss-vs-ice"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 06:26:43",
       "https://news.ycombinator.com/item?id=45165186"
     ],
@@ -247,6 +237,16 @@
     [
       "Learning the soroban as an adult (2022)",
       "https://github.com/whacked/cow/blob/main/learning%20the%20soroban%20as%20an%20adult.md"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 20:01:47",
+      "https://news.ycombinator.com/item?id=45142970"
+    ],
+    [
+      "MileSan: Detecting μ-Architectural Leakage via Differential HW/SW Taint Tracking",
+      "https://comsec.ethz.ch/research/hardware-design-security/milesan-detecting-exploitable-microarchitectural-leakage-via-differential-hardware-software-taint-tracking/"
     ]
   ],
   [
