@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 22:06:58](https://news.ycombinator.com/item?id=45189965) - [All vibe coding tools are selling a get rich quick scheme](https://varunraghu.com/all-vibe-coding-tools-are-selling-a-get-rich-quick-scheme/)
 * [2025-09-09, 21:47:31](https://news.ycombinator.com/item?id=45189700) - [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
 * [2025-09-09, 21:13:32](https://news.ycombinator.com/item?id=45189260) - [Show HN: Shellcast.tv – Stream your vibe coding](https://shellcast.tv/)
 * [2025-09-09, 21:01:47](https://news.ycombinator.com/item?id=45189053) - [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)
