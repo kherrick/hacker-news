@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 21:13:32](https://news.ycombinator.com/item?id=45189260) - [Show HN: Shellcast.tv – Stream your vibe coding](https://shellcast.tv/)
+* [2025-09-09, 21:01:47](https://news.ycombinator.com/item?id=45189053) - [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)
 * [2025-09-09, 20:55:16](https://news.ycombinator.com/item?id=45188945) - [Immunotherapy drug eliminates aggressive cancers in clinical trial](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
 * [2025-09-09, 20:10:00](https://news.ycombinator.com/item?id=45188116) - [Show HN: Vicinae – a native, Raycast-compatible launcher for Linux](https://github.com/vicinaehq/vicinae)
 * [2025-09-09, 20:09:53](https://news.ycombinator.com/item?id=45188114) - [I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
