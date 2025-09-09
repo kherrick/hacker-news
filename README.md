@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-09, 04:44:20](https://news.ycombinator.com/item?id=45177507) - [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 * [2025-09-09, 01:51:54](https://news.ycombinator.com/item?id=45176491) - [Anthropic reduced model output quality from Aug 5](https://status.anthropic.com/incidents/72f99lh1cj2c)
 * [2025-09-09, 01:37:28](https://news.ycombinator.com/item?id=45176401) - [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
 * [2025-09-09, 01:09:21](https://news.ycombinator.com/item?id=45176206) - [No adblocker detected](https://maurycyz.com/misc/ads/)
@@ -26,7 +27,6 @@
 * [2025-09-05, 20:01:47](https://news.ycombinator.com/item?id=45142970) - [MileSan: Detecting μ-Architectural Leakage via Differential HW/SW Taint Tracking](https://comsec.ethz.ch/research/hardware-design-security/milesan-detecting-exploitable-microarchitectural-leakage-via-differential-hardware-software-taint-tracking/)
 * [2025-09-05, 19:34:18](https://news.ycombinator.com/item?id=45142704) - [Seedship – Text-Based Game](https://philome.la/johnayliff/seedship/play/index.html)
 * [2025-09-05, 16:49:29](https://news.ycombinator.com/item?id=45140695) - [Interview with Geoffrey Hinton](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
-* [2025-09-05, 16:18:33](https://news.ycombinator.com/item?id=45140281) - [Dark Academia Grows Up](https://www.publicbooks.org/dark-academia-grows-up/)
 * [2025-09-05, 14:29:26](https://news.ycombinator.com/item?id=45139038) - [ATC/OSDI '25 Joint Keynote: Accelerating Software Dev: The LLM (R)Evolution [video]](https://www.youtube.com/watch?v=dk3y3o3vhhU)
 * [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The key points of \"Working Effectively with Legacy Code\"](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
 * [2025-09-05, 06:36:49](https://news.ycombinator.com/item?id=45135591) - [Contracts for C](https://gustedt.wordpress.com/2025/03/10/contracts-for-c/)

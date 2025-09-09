@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 04:44:20](https://news.ycombinator.com/item?id=45177507) - [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 * [2025-09-09, 03:26:08](https://news.ycombinator.com/item?id=45177043) - [Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)
 * [2025-09-09, 01:51:54](https://news.ycombinator.com/item?id=45176491) - [Anthropic reduced model output quality from Aug 5](https://status.anthropic.com/incidents/72f99lh1cj2c)
 * [2025-09-09, 01:37:28](https://news.ycombinator.com/item?id=45176401) - [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
