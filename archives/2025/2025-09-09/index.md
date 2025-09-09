@@ -53,6 +53,7 @@
 * [2025-09-09, 10:10:15](https://news.ycombinator.com/item?id=45179939) - [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
 * [2025-09-09, 10:02:23](https://news.ycombinator.com/item?id=45179889) - [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware)
 * [2025-09-09, 09:33:23](https://news.ycombinator.com/item?id=45179679) - [Nepal Prime Minister Resigns. Parliament / Ministires set on Fire.](https://news.ycombinator.com/item?id=45179679)
+* [2025-09-09, 08:46:53](https://news.ycombinator.com/item?id=45179304) - [Anthropic judge rejects $1.5B AI copyright settlement](https://news.bloomberglaw.com/ip-law/anthropic-judge-blasts-copyright-pact-as-nowhere-close-to-done)
 * [2025-09-09, 06:50:43](https://news.ycombinator.com/item?id=45178389) - [Mistral AI raises €1.7B to accelerate technological progress with AI](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 * [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 * [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [ASML, Mistral AI enter strategic partnership](https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership)
