@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 18:50:46](https://news.ycombinator.com/item?id=45186802) - [Microserfs ordered back to the office, given 10 days to appeal](https://www.theregister.com/2025/09/09/microsoft_return_to_work/)
+* [2025-09-09, 18:47:44](https://news.ycombinator.com/item?id=45186726) - [The Dying Dream of a Decentralized Web](https://spectrum.ieee.org/web3-hardware-security)
 * [2025-09-09, 18:26:25](https://news.ycombinator.com/item?id=45186294) - [Compare the New iPhone Models](https://www.apple.com/iphone/compare/)
 * [2025-09-09, 18:25:03](https://news.ycombinator.com/item?id=45186265) - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
 * [2025-09-09, 18:19:39](https://news.ycombinator.com/item?id=45186152) - [Judge: Anthropic's $1.5B settlement is being shoved \"down the throat of authors\"](https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/)
 * [2025-09-09, 18:13:06](https://news.ycombinator.com/item?id=45186023) - [Apple Debuts iPhone 17](https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/)
 * [2025-09-09, 18:12:28](https://news.ycombinator.com/item?id=45186011) - [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
 * [2025-09-09, 18:04:49](https://news.ycombinator.com/item?id=45185875) - [Tomorrow's Emoji, Today: Unicode 17.0 Has Arrived](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
+* [2025-09-09, 17:57:35](https://news.ycombinator.com/item?id=45185756) - [E-Paper Display Refresh Rate Reaches New Heights](https://spectrum.ieee.org/e-paper-display-modos)
 * [2025-09-09, 17:44:49](https://news.ycombinator.com/item?id=45185576) - [Apple announces the ultra-slim iPhone Air](https://www.theverge.com/news/771942/apple-iphone-17-air-announcement)
 * [2025-09-09, 17:32:41](https://news.ycombinator.com/item?id=45185400) - [What happens when private equity buys homes in your neighborhood](https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords)
 * [2025-09-09, 17:32:26](https://news.ycombinator.com/item?id=45185394) - [Apple Watch Ultra 3](https://www.apple.com/newsroom/2025/09/introducing-apple-watch-ultra-3/)
