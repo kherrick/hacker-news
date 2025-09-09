@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-09, 18:26:25](https://news.ycombinator.com/item?id=45186294) - [Compare the New iPhone Models](https://www.apple.com/iphone/compare/)
 * [2025-09-09, 18:25:03](https://news.ycombinator.com/item?id=45186265) - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
+* [2025-09-09, 18:13:06](https://news.ycombinator.com/item?id=45186023) - [Apple Debuts iPhone 17](https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/)
 * [2025-09-09, 18:12:28](https://news.ycombinator.com/item?id=45186011) - [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
 * [2025-09-09, 18:04:49](https://news.ycombinator.com/item?id=45185875) - [Tomorrow's Emoji, Today: Unicode 17.0 Has Arrived](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
 * [2025-09-09, 17:32:41](https://news.ycombinator.com/item?id=45185400) - [What happens when private equity buys homes in your neighborhood](https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords)
@@ -20,8 +22,6 @@
 * [2025-09-09, 10:02:23](https://news.ycombinator.com/item?id=45179889) - [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware)
 * [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 * [2025-09-09, 04:46:17](https://news.ycombinator.com/item?id=45177518) - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
-* [2025-09-08, 21:32:49](https://news.ycombinator.com/item?id=45174297) - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
-* [2025-09-08, 17:33:44](https://news.ycombinator.com/item?id=45171200) - [iPhone dumbphone](https://stopa.io/post/297)
 * [2025-09-08, 12:26:15](https://news.ycombinator.com/item?id=45167436) - [Go for Bash Programmers – Part II: CLI Tools](https://github.com/go-monk/from-bash-to-go-part-ii)
 * [2025-09-08, 09:29:36](https://news.ycombinator.com/item?id=45166245) - [Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 * [2025-09-08, 05:28:34](https://news.ycombinator.com/item?id=45164892) - [I solved a distributed queue problem after 15 years](https://www.dbos.dev/blog/durable-queues)
