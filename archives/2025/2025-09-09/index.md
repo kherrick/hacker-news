@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 20:10:00](https://news.ycombinator.com/item?id=45188116) - [Show HN: Vicinae – a native, Raycast-compatible launcher for Linux](https://github.com/vicinaehq/vicinae)
 * [2025-09-09, 20:09:53](https://news.ycombinator.com/item?id=45188114) - [I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
 * [2025-09-09, 19:54:23](https://news.ycombinator.com/item?id=45187841) - [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)
 * [2025-09-09, 19:50:11](https://news.ycombinator.com/item?id=45187778) - [Classic Mac OS System 1 Patterns](https://paulsmith.github.io/classic-mac-patterns/)

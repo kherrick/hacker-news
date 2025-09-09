@@ -35,6 +35,7 @@
 * [2025-09-07, 14:43:07](https://news.ycombinator.com/item?id=45158586) - [AI Mode Is Good](https://simonwillison.net/2025/Sep/7/ai-mode/)
 * [2025-09-07, 14:36:48](https://news.ycombinator.com/item?id=45158525) - [Chrome extension that replaces occurrences of 'the cloud' with 'my butt'](https://github.com/panicsteve/cloud-to-butt)
 * [2025-09-07, 14:36:32](https://news.ycombinator.com/item?id=45158523) - [Delayed Security Patches for AOSP (Android Open Source Project)](https://twitter.com/grapheneos/status/1964561043906048183)
+* [2025-09-07, 13:48:25](https://news.ycombinator.com/item?id=45158118) - [Show HN: Bottlefire – Build single-executable microVMs from Docker images](https://bottlefire.dev/)
 * [2025-09-07, 13:35:44](https://news.ycombinator.com/item?id=45158030) - [South Korean workers detained in Hyundai plant raid to be freed and flown home](https://www.nbcnews.com/news/us-news/south-korea-deal-workers-detained-hyundai-rcna229610)
 * [2025-09-07, 13:15:35](https://news.ycombinator.com/item?id=45157906) - [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
 * [2025-09-07, 13:13:42](https://news.ycombinator.com/item?id=45157897) - [Air pollution directly linked to increased dementia risk](https://www.nature.com/articles/d41586-025-02844-9)
