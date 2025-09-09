@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-09, 17:01:12",
+      "https://news.ycombinator.com/item?id=45184921"
+    ],
+    [
+      "Weave (YC W25) is hiring a founding AI engineer",
+      "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 16:31:17",
       "https://news.ycombinator.com/item?id=45184432"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-09-09, 16:24:12",
+      "https://news.ycombinator.com/item?id=45184315"
+    ],
+    [
+      "U.S. Added 911,000 Fewer Jobs in the Year Ended in March",
+      "https://www.wsj.com/economy/jobs/us-job-growth-revision-a9777d98"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 16:15:24",
       "https://news.ycombinator.com/item?id=45184163"
     ],
@@ -37,6 +57,16 @@
     [
       "How An Attacker's Blunder Gave Us a Rare Look Inside Their Day-to-Day Operations",
       "https://www.huntress.com/blog/rare-look-inside-attacker-operation"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 15:12:18",
+      "https://news.ycombinator.com/item?id=45183050"
+    ],
+    [
+      "Building a DOOM-like multiplayer shooter in pure SQL",
+      "https://cedardb.com/blog/doomql/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-09-09, 12:00:06",
-      "https://news.ycombinator.com/item?id=45180741"
-    ],
-    [
-      "Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote)",
-      "https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 10:57:58",
       "https://news.ycombinator.com/item?id=45180315"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-09-08, 19:16:39",
-      "https://news.ycombinator.com/item?id=45172609"
-    ],
-    [
-      "Microsoft doubles down on small modular reactors and fusion energy",
-      "https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 17:33:44",
       "https://news.ycombinator.com/item?id=45171200"
     ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2025-09-08, 15:37:57",
-      "https://news.ycombinator.com/item?id=45169657"
+      "2025-09-08, 12:26:15",
+      "https://news.ycombinator.com/item?id=45167436"
     ],
     [
-      "NPM debug and chalk packages compromised",
-      "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 14:43:17",
-      "https://news.ycombinator.com/item?id=45168953"
-    ],
-    [
-      "Experimenting with Local LLMs on macOS",
-      "https://blog.6nok.org/experimenting-with-local-llms-on-macos/"
+      "Go for Bash Programmers – Part II: CLI Tools",
+      "https://github.com/go-monk/from-bash-to-go-part-ii"
     ]
   ],
   [
