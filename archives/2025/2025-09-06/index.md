@@ -56,5 +56,6 @@
 * [2025-09-06, 02:38:03](https://news.ycombinator.com/item?id=45146143) - [At least 475 workers detained in major ICE raid at US Hyundai factory](https://www.theguardian.com/us-news/2025/sep/05/immigration-ice-raid-hyundai-georgia)
 * [2025-09-06, 02:08:43](https://news.ycombinator.com/item?id=45145965) - [A noise attack on license plate readers (Flock AI)](https://github.com/bennjordan/PlateShapez)
 * [2025-09-06, 01:39:01](https://news.ycombinator.com/item?id=45145794) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
+* [2025-09-06, 01:13:10](https://news.ycombinator.com/item?id=45145638) - [CPR in space could be made easier by chest compression machines](https://www.newscientist.com/article/2493803-cpr-in-space-could-be-made-easier-by-chest-compression-machines/)
 * [2025-09-06, 01:10:37](https://news.ycombinator.com/item?id=45145624) - [The sunscreen scandal shocking Australia - the world's skin cancer capital](https://www.bbc.com/news/articles/c4gzl41rpdqo)
 * [2025-09-06, 00:45:08](https://news.ycombinator.com/item?id=45145457) - [GLM 4.5 with Claude Code is a killer combination](https://docs.z.ai/guides/llm/glm-4.5)
