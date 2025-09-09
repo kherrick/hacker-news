@@ -25,6 +25,7 @@
 * [2025-09-05, 20:16:10](https://news.ycombinator.com/item?id=45143124) - [Introducing Speed Brain: helping web pages load 45% faster](https://blog.cloudflare.com/introducing-speed-brain/)
 * [2025-09-05, 20:11:39](https://news.ycombinator.com/item?id=45143077) - [The Day I Kissed Comment Culture Goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
 * [2025-09-05, 20:07:13](https://news.ycombinator.com/item?id=45143019) - [William James at CERN (1995)](http://bactra.org/wm-james-at-cern/)
+* [2025-09-05, 20:01:47](https://news.ycombinator.com/item?id=45142970) - [MileSan: Detecting μ-Architectural Leakage via Differential HW/SW Taint Tracking](https://comsec.ethz.ch/research/hardware-design-security/milesan-detecting-exploitable-microarchitectural-leakage-via-differential-hardware-software-taint-tracking/)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
 * [2025-09-05, 19:34:18](https://news.ycombinator.com/item?id=45142704) - [Seedship [Text-Based Game]](https://philome.la/johnayliff/seedship/play/index.html)
 * [2025-09-05, 19:08:49](https://news.ycombinator.com/item?id=45142397) - [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
