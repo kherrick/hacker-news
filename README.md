@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-09, 06:50:43](https://news.ycombinator.com/item?id=45178389) - [Mistral AI raises €1.7B to accelerate technological progress with AI](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
+* [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [ASML, Mistral AI enter strategic partnership](https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership)
 * [2025-09-09, 04:46:17](https://news.ycombinator.com/item?id=45177518) - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
 * [2025-09-09, 04:44:20](https://news.ycombinator.com/item?id=45177507) - [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 * [2025-09-09, 01:51:54](https://news.ycombinator.com/item?id=45176491) - [Incident Report for Anthropic](https://status.anthropic.com/incidents/72f99lh1cj2c)
@@ -19,8 +21,6 @@
 * [2025-09-08, 15:08:20](https://news.ycombinator.com/item?id=45169275) - [Clankers Die on Christmas](https://remyhax.xyz/posts/clankers-die-on-christmas/)
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
 * [2025-09-08, 14:36:00](https://news.ycombinator.com/item?id=45168854) - [AMD claims Arm ISA doesn't offer efficiency advantage over x86](https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86)
-* [2025-09-08, 12:49:46](https://news.ycombinator.com/item?id=45167625) - [AI might yet follow the path of previous technological revolutions](https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology)
-* [2025-09-08, 06:26:43](https://news.ycombinator.com/item?id=45165186) - [How Britain built some of the world’s safest roads](https://ourworldindata.org/britain-safest-roads-history)
 * [2025-09-05, 22:35:01](https://news.ycombinator.com/item?id=45144470) - [Jeena's Hyprland Demo](https://tube.jeena.net/w/2EpbXJnMrDokc3362oXSTQ)
 * [2025-09-05, 21:37:36](https://news.ycombinator.com/item?id=45143927) - [Learning the soroban as an adult (2022)](https://github.com/whacked/cow/blob/main/learning%20the%20soroban%20as%20an%20adult.md)
 * [2025-09-05, 20:01:47](https://news.ycombinator.com/item?id=45142970) - [MileSan: Detecting μ-Architectural Leakage via Differential HW/SW Taint Tracking](https://comsec.ethz.ch/research/hardware-design-security/milesan-detecting-exploitable-microarchitectural-leakage-via-differential-hardware-software-taint-tracking/)
