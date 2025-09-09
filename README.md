@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-09, 11:01:43](https://news.ycombinator.com/item?id=45180353) - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
 * [2025-09-09, 10:10:15](https://news.ycombinator.com/item?id=45179939) - [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
 * [2025-09-09, 10:02:23](https://news.ycombinator.com/item?id=45179889) - [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware)
 * [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 * [2025-09-09, 04:46:17](https://news.ycombinator.com/item?id=45177518) - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
-* [2025-09-09, 04:44:20](https://news.ycombinator.com/item?id=45177507) - [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 * [2025-09-09, 01:37:28](https://news.ycombinator.com/item?id=45176401) - [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
 * [2025-09-09, 01:09:21](https://news.ycombinator.com/item?id=45176206) - [No adblocker detected](https://maurycyz.com/misc/ads/)
 * [2025-09-08, 23:48:14](https://news.ycombinator.com/item?id=45175628) - [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
