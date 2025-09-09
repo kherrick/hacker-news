@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-09, 13:26:17](https://news.ycombinator.com/item?id=45181626) - [Google to Obey South Korean Order to Blur Satellite Images on Maps](https://www.barrons.com/news/google-to-obey-south-korean-order-to-blur-satellite-images-on-maps-653e934e)
 * [2025-09-09, 12:34:41](https://news.ycombinator.com/item?id=45181094) - [Weaponizing Ads: How Google and Facebook Ads Are Used to Wage Propaganda Wars](https://medium.com/@eslam.elsewedy/weaponizing-ads-how-governments-use-google-ads-and-facebook-ads-to-wage-propaganda-wars-199c707704cc)
-* [2025-09-09, 12:01:53](https://news.ycombinator.com/item?id=45180757) - [UK toughens Online Safety Act with ban on self-harm content](https://www.gov.uk/government/news/online-safety-laws-to-strengthen-to-protect-people-of-all-ages-from-devastating-self-harm-content)
 * [2025-09-09, 12:00:06](https://news.ycombinator.com/item?id=45180741) - [Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote)](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84)
+* [2025-09-09, 11:29:03](https://news.ycombinator.com/item?id=45180509) - [Majority in EU's biggest states believes bloc 'sold out' in US tariff deal](https://www.theguardian.com/world/2025/sep/09/majority-in-eu-biggest-states-believes-bloc-sold-out-in-us-tariff-deal-poll-donald-trump)
 * [2025-09-09, 10:57:58](https://news.ycombinator.com/item?id=45180315) - [Hallucination Risk Calculator](https://github.com/leochlon/hallbayes)
 * [2025-09-09, 10:10:15](https://news.ycombinator.com/item?id=45179939) - [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
 * [2025-09-09, 10:02:23](https://news.ycombinator.com/item?id=45179889) - [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware)
@@ -20,7 +21,6 @@
 * [2025-09-08, 15:35:46](https://news.ycombinator.com/item?id=45169624) - [Will Amazon S3 Vectors kill vector databases or save them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
 * [2025-09-08, 15:08:20](https://news.ycombinator.com/item?id=45169275) - [Clankers Die on Christmas](https://remyhax.xyz/posts/clankers-die-on-christmas/)
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
-* [2025-09-08, 14:36:00](https://news.ycombinator.com/item?id=45168854) - [AMD claims Arm ISA doesn't offer efficiency advantage over x86](https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86)
 * [2025-09-08, 09:29:36](https://news.ycombinator.com/item?id=45166245) - [Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 * [2025-09-06, 18:22:35](https://news.ycombinator.com/item?id=45151641) - [How can England possibly be running out of water?](https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water)
 * [2025-09-05, 23:07:00](https://news.ycombinator.com/item?id=45144758) - [Is OOXML Artifically Complex?](https://hsu.cy/2025/09/is-ooxml-artificially-complex/)
