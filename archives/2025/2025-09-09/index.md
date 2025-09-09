@@ -6,6 +6,7 @@
 
 * [2025-09-09, 18:26:25](https://news.ycombinator.com/item?id=45186294) - [Compare the New iPhone Models](https://www.apple.com/iphone/compare/)
 * [2025-09-09, 18:25:03](https://news.ycombinator.com/item?id=45186265) - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
+* [2025-09-09, 18:19:39](https://news.ycombinator.com/item?id=45186152) - [Judge: Anthropic's $1.5B settlement is being shoved \"down the throat of authors\"](https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/)
 * [2025-09-09, 18:13:06](https://news.ycombinator.com/item?id=45186023) - [Apple Debuts iPhone 17](https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/)
 * [2025-09-09, 18:12:28](https://news.ycombinator.com/item?id=45186011) - [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
 * [2025-09-09, 18:04:49](https://news.ycombinator.com/item?id=45185875) - [Tomorrow's Emoji, Today: Unicode 17.0 Has Arrived](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
