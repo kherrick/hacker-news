@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-09, 17:32:41](https://news.ycombinator.com/item?id=45185400) - [What happens when private equity buys homes in your neighborhood](https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords)
 * [2025-09-09, 17:01:12](https://news.ycombinator.com/item?id=45184921) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-09-09, 16:31:17](https://news.ycombinator.com/item?id=45184432) - [Microsoft is officially sending employees back to the office](https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9)
 * [2025-09-09, 16:27:41](https://news.ycombinator.com/item?id=45184368) - [ICE Is Using Fake Cell Towers to Spy on People's Phones](https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/)
@@ -22,7 +23,6 @@
 * [2025-09-08, 21:32:49](https://news.ycombinator.com/item?id=45174297) - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 * [2025-09-08, 17:33:44](https://news.ycombinator.com/item?id=45171200) - [iPhone dumbphone](https://stopa.io/post/297)
 * [2025-09-08, 16:43:39](https://news.ycombinator.com/item?id=45170515) - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
-* [2025-09-08, 15:37:57](https://news.ycombinator.com/item?id=45169657) - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 * [2025-09-08, 12:26:15](https://news.ycombinator.com/item?id=45167436) - [Go for Bash Programmers – Part II: CLI Tools](https://github.com/go-monk/from-bash-to-go-part-ii)
 * [2025-09-08, 09:29:36](https://news.ycombinator.com/item?id=45166245) - [Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 * [2025-09-08, 05:28:34](https://news.ycombinator.com/item?id=45164892) - [I solved a distributed queue problem after 15 years](https://www.dbos.dev/blog/durable-queues)
