@@ -4,7 +4,6 @@
 * [2025-09-09, 01:09:21](https://news.ycombinator.com/item?id=45176206) - [No adblocker detected](https://maurycyz.com/misc/ads/)
 * [2025-09-09, 00:46:48](https://news.ycombinator.com/item?id=45176066) - [Geoffrey Hinton: 'AI will make a few people much richer and most people poorer'](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
 * [2025-09-08, 23:48:14](https://news.ycombinator.com/item?id=45175628) - [The art world is in a precarious state](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
-* [2025-09-08, 23:43:20](https://news.ycombinator.com/item?id=45175588) - [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/)
 * [2025-09-08, 21:32:49](https://news.ycombinator.com/item?id=45174297) - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 * [2025-09-08, 21:26:07](https://news.ycombinator.com/item?id=45174221) - [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp)
 * [2025-09-08, 21:17:50](https://news.ycombinator.com/item?id=45174125) - [Alterego: Thought to Text](https://www.alterego.io/)
@@ -28,6 +27,7 @@
 * [2025-09-05, 22:26:45](https://news.ycombinator.com/item?id=45144392) - [Ben-Hur on a Computer Screen](https://daviramos.com/ben-hur-on-a-computer-screen/)
 * [2025-09-05, 21:37:36](https://news.ycombinator.com/item?id=45143927) - [Learning the soroban as an adult (2022)](https://github.com/whacked/cow/blob/main/learning%20the%20soroban%20as%20an%20adult.md)
 * [2025-09-05, 19:34:18](https://news.ycombinator.com/item?id=45142704) - [Seedship – Text-Based Game](https://philome.la/johnayliff/seedship/play/index.html)
+* [2025-09-05, 14:29:26](https://news.ycombinator.com/item?id=45139038) - [ATC/OSDI '25 Joint Keynote: Accelerating Software Dev: The LLM (R)Evolution [video]](https://www.youtube.com/watch?v=dk3y3o3vhhU)
 * [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The key points of \"Working Effectively with Legacy Code\"](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
 * [2025-09-05, 06:36:49](https://news.ycombinator.com/item?id=45135591) - [Contracts for C](https://gustedt.wordpress.com/2025/03/10/contracts-for-c/)
 
