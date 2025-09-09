@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 14:25:55](https://news.ycombinator.com/item?id=45182381) - [Claude can now create and edit files](https://www.anthropic.com/news/create-files)
+* [2025-09-09, 14:25:16](https://news.ycombinator.com/item?id=45182372) - [New Mexico is first state in US to offer universal child care](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)
+* [2025-09-09, 14:05:22](https://news.ycombinator.com/item?id=45182111) - [U.S. Added 911,000 Fewer Jobs in Year Through March Than Reported Earlier](https://www.barrons.com/articles/jobs-report-revisions-bls-fed-3d88c77b?st=u8mw75)
 * [2025-09-09, 14:05:16](https://news.ycombinator.com/item?id=45182108) - [Apple highlights Brazilian study on domestic App Store performance](https://9to5mac.com/2025/09/04/apple-highlights-brazilian-study-on-domestic-app-store-performance/)
 * [2025-09-09, 13:26:17](https://news.ycombinator.com/item?id=45181626) - [Google to Obey South Korean Order to Blur Satellite Images on Maps](https://www.barrons.com/news/google-to-obey-south-korean-order-to-blur-satellite-images-on-maps-653e934e)
 * [2025-09-09, 12:34:41](https://news.ycombinator.com/item?id=45181094) - [Weaponizing Ads: How Google and Facebook Ads Are Used to Wage Propaganda Wars](https://medium.com/@eslam.elsewedy/weaponizing-ads-how-governments-use-google-ads-and-facebook-ads-to-wage-propaganda-wars-199c707704cc)

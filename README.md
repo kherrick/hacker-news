@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-09, 14:25:55](https://news.ycombinator.com/item?id=45182381) - [Claude can now create and edit files](https://www.anthropic.com/news/create-files)
+* [2025-09-09, 14:25:16](https://news.ycombinator.com/item?id=45182372) - [New Mexico is first state in US to offer universal child care](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)
+* [2025-09-09, 14:05:22](https://news.ycombinator.com/item?id=45182111) - [U.S. Added 911,000 Fewer Jobs in Year Through March Than Reported Earlier](https://www.barrons.com/articles/jobs-report-revisions-bls-fed-3d88c77b?st=u8mw75)
 * [2025-09-09, 14:05:16](https://news.ycombinator.com/item?id=45182108) - [Apple highlights Brazilian study on domestic App Store performance](https://9to5mac.com/2025/09/04/apple-highlights-brazilian-study-on-domestic-app-store-performance/)
 * [2025-09-09, 13:26:17](https://news.ycombinator.com/item?id=45181626) - [Google to Obey South Korean Order to Blur Satellite Images on Maps](https://www.barrons.com/news/google-to-obey-south-korean-order-to-blur-satellite-images-on-maps-653e934e)
 * [2025-09-09, 12:34:41](https://news.ycombinator.com/item?id=45181094) - [Weaponizing Ads: How Google and Facebook Ads Are Used to Wage Propaganda Wars](https://medium.com/@eslam.elsewedy/weaponizing-ads-how-governments-use-google-ads-and-facebook-ads-to-wage-propaganda-wars-199c707704cc)
@@ -9,7 +12,6 @@
 * [2025-09-09, 10:02:23](https://news.ycombinator.com/item?id=45179889) - [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware)
 * [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 * [2025-09-09, 04:46:17](https://news.ycombinator.com/item?id=45177518) - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
-* [2025-09-09, 01:09:21](https://news.ycombinator.com/item?id=45176206) - [No adblocker detected](https://maurycyz.com/misc/ads/)
 * [2025-09-08, 21:32:49](https://news.ycombinator.com/item?id=45174297) - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 * [2025-09-08, 21:17:50](https://news.ycombinator.com/item?id=45174125) - [Alterego: Thought to Text](https://www.alterego.io/)
 * [2025-09-08, 21:10:18](https://news.ycombinator.com/item?id=45174037) - [The elegance of movement in Silksong](https://theahura.substack.com/p/the-elegance-of-movement-in-silksong)
@@ -26,9 +28,7 @@
 * [2025-09-05, 23:07:00](https://news.ycombinator.com/item?id=45144758) - [Is OOXML Artifically Complex?](https://hsu.cy/2025/09/is-ooxml-artificially-complex/)
 * [2025-09-05, 21:57:15](https://news.ycombinator.com/item?id=45144129) - [Deluxe Paint on the Commodore Amiga](https://stonetools.ghost.io/deluxepaint-amiga/)
 * [2025-09-05, 19:48:57](https://news.ycombinator.com/item?id=45142845) - [X Design Notes: Unifying OCaml Modules and Values](https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html)
-* [2025-09-05, 19:34:18](https://news.ycombinator.com/item?id=45142704) - [Seedship – Text-Based Game](https://philome.la/johnayliff/seedship/play/index.html)
 * [2025-09-05, 16:39:40](https://news.ycombinator.com/item?id=45140572) - [A clickable visual guide to the Rust type system](https://rustcurious.com/elements/)
-* [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The key points of \"Working Effectively with Legacy Code\"](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
 * [2025-09-05, 06:36:49](https://news.ycombinator.com/item?id=45135591) - [Contracts for C](https://gustedt.wordpress.com/2025/03/10/contracts-for-c/)
 
 ## [Archives](archives/index.md)
