@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
 * [2025-09-09, 20:09:53](https://news.ycombinator.com/item?id=45188114) - [I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
+* [2025-09-09, 19:54:23](https://news.ycombinator.com/item?id=45187841) - [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)
 * [2025-09-09, 19:50:11](https://news.ycombinator.com/item?id=45187778) - [Classic Mac OS System 1 Patterns](https://paulsmith.github.io/classic-mac-patterns/)
+* [2025-09-09, 19:44:12](https://news.ycombinator.com/item?id=45187687) - [Inflation Erased U.S. Income Gains Last Year](https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0)
 * [2025-09-09, 19:27:28](https://news.ycombinator.com/item?id=45187449) - [Polylaminin, promotes regeneration after spinal cord injury](https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury)
 * [2025-09-09, 19:23:31](https://news.ycombinator.com/item?id=45187386) - [Fed helpless as US economy faces structural challenges, not monetary](https://www.bancreek.com/p/demise-of-dynamic-duo/)
 * [2025-09-09, 18:55:35](https://news.ycombinator.com/item?id=45186904) - [Show HN: Superagents – connect spreadsheets to any database, API or MCP server](https://sourcetable.com/superagents)
