@@ -11,6 +11,7 @@
 * [2025-09-09, 19:44:12](https://news.ycombinator.com/item?id=45187687) - [Inflation Erased U.S. Income Gains Last Year](https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0)
 * [2025-09-09, 19:27:28](https://news.ycombinator.com/item?id=45187449) - [Polylaminin, promotes regeneration after spinal cord injury](https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury)
 * [2025-09-09, 19:23:31](https://news.ycombinator.com/item?id=45187386) - [Fed helpless as US economy faces structural challenges, not monetary](https://www.bancreek.com/p/demise-of-dynamic-duo/)
+* [2025-09-09, 19:21:16](https://news.ycombinator.com/item?id=45187349) - [Astronomers spot mysterious gamma-ray explosion, unlike any detected before](https://www.eso.org/public/news/eso2514/)
 * [2025-09-09, 18:55:35](https://news.ycombinator.com/item?id=45186904) - [Show HN: Superagents – connect spreadsheets to any database, API or MCP server](https://sourcetable.com/superagents)
 * [2025-09-09, 18:50:46](https://news.ycombinator.com/item?id=45186802) - [Microserfs ordered back to the office, given 10 days to appeal](https://www.theregister.com/2025/09/09/microsoft_return_to_work/)
 * [2025-09-09, 18:47:44](https://news.ycombinator.com/item?id=45186726) - [The Dying Dream of a Decentralized Web](https://spectrum.ieee.org/web3-hardware-security)
