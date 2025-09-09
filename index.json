@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-09-09, 16:15:24",
-      "https://news.ycombinator.com/item?id=45184163"
-    ],
-    [
-      "DuckDB NPM Account Compromised in Continuing Supply Chain Attack",
-      "https://socket.dev/blog/duckdb-npm-account-compromised-in-continuing-supply-chain-attack"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 15:42:32",
       "https://news.ycombinator.com/item?id=45183589"
     ],
@@ -227,6 +217,16 @@
     [
       "Signal Secure Backups",
       "https://signal.org/blog/introducing-secure-backups/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 15:37:57",
+      "https://news.ycombinator.com/item?id=45169657"
+    ],
+    [
+      "NPM debug and chalk packages compromised",
+      "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised"
     ]
   ],
   [
