@@ -44,6 +44,7 @@
 * [2025-09-07, 12:52:20](https://news.ycombinator.com/item?id=45157748) - [ChatGPT is NOT a LLM – GPT is](https://www.vincirufus.com/posts/chatgpt-is-not-an-llm/)
 * [2025-09-07, 12:24:25](https://news.ycombinator.com/item?id=45157567) - [What Really Caused the Sriracha Shortage? (2024)](https://fortune.com/2024/01/30/sriracha-shortage-huy-fong-foods-tabasco-underwood-ranches/)
 * [2025-09-07, 12:07:50](https://news.ycombinator.com/item?id=45157466) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
+* [2025-09-07, 11:31:01](https://news.ycombinator.com/item?id=45157278) - [Cities Obey the Laws of Living Things](https://nautil.us/cities-obey-the-laws-of-living-things-1236057/)
 * [2025-09-07, 11:20:37](https://news.ycombinator.com/item?id=45157223) - [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
 * [2025-09-07, 11:09:43](https://news.ycombinator.com/item?id=45157161) - [Show HN: An Open Source XR(AR/VR) Operating System](https://www.getxeneva.com/)
 * [2025-09-07, 11:06:11](https://news.ycombinator.com/item?id=45157142) - [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/)
