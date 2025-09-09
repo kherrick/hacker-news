@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 17:44:49](https://news.ycombinator.com/item?id=45185576) - [Apple announces the ultra-slim iPhone Air](https://www.theverge.com/news/771942/apple-iphone-17-air-announcement)
 * [2025-09-09, 17:32:41](https://news.ycombinator.com/item?id=45185400) - [What happens when private equity buys homes in your neighborhood](https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords)
+* [2025-09-09, 17:32:26](https://news.ycombinator.com/item?id=45185394) - [Apple Watch Ultra 3](https://www.apple.com/newsroom/2025/09/introducing-apple-watch-ultra-3/)
 * [2025-09-09, 17:01:12](https://news.ycombinator.com/item?id=45184921) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-09-09, 16:31:17](https://news.ycombinator.com/item?id=45184432) - [Microsoft is officially sending employees back to the office](https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9)
 * [2025-09-09, 16:27:41](https://news.ycombinator.com/item?id=45184368) - [ICE Is Using Fake Cell Towers to Spy on People's Phones](https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/)
