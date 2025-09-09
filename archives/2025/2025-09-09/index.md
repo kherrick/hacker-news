@@ -8,6 +8,7 @@
 * [2025-09-09, 18:47:44](https://news.ycombinator.com/item?id=45186726) - [The Dying Dream of a Decentralized Web](https://spectrum.ieee.org/web3-hardware-security)
 * [2025-09-09, 18:26:25](https://news.ycombinator.com/item?id=45186294) - [Compare the New iPhone Models](https://www.apple.com/iphone/compare/)
 * [2025-09-09, 18:25:03](https://news.ycombinator.com/item?id=45186265) - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
+* [2025-09-09, 18:20:01](https://news.ycombinator.com/item?id=45186160) - [Apple expects to notify 100M people that they have hypertension in a year](https://appleinsider.com/articles/25/09/09/apple-expects-to-notify-100-million-people-that-they-have-hypertension-in-a-year)
 * [2025-09-09, 18:19:39](https://news.ycombinator.com/item?id=45186152) - [Judge: Anthropic's $1.5B settlement is being shoved \"down the throat of authors\"](https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/)
 * [2025-09-09, 18:13:06](https://news.ycombinator.com/item?id=45186023) - [Apple Debuts iPhone 17](https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/)
 * [2025-09-09, 18:12:28](https://news.ycombinator.com/item?id=45186011) - [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
