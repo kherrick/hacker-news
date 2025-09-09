@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 15:11:57](https://news.ycombinator.com/item?id=45183039) - [X open sourced their latest algorithm](https://github.com/twitter/the-algorithm)
+* [2025-09-09, 15:11:26](https://news.ycombinator.com/item?id=45183029) - [We All Dodged a Bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 * [2025-09-09, 14:45:46](https://news.ycombinator.com/item?id=45182657) - [US HS students lose ground in math and reading, continuing yearslong decline](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
 * [2025-09-09, 14:25:55](https://news.ycombinator.com/item?id=45182381) - [Claude can now create and edit files](https://www.anthropic.com/news/create-files)
 * [2025-09-09, 14:25:16](https://news.ycombinator.com/item?id=45182372) - [New Mexico is first state in US to offer universal child care](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)

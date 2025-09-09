@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-09, 15:11:57](https://news.ycombinator.com/item?id=45183039) - [X open sourced their latest algorithm](https://github.com/twitter/the-algorithm)
+* [2025-09-09, 15:11:26](https://news.ycombinator.com/item?id=45183029) - [We All Dodged a Bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 * [2025-09-09, 14:45:46](https://news.ycombinator.com/item?id=45182657) - [US HS students lose ground in math and reading, continuing yearslong decline](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
 * [2025-09-09, 14:25:55](https://news.ycombinator.com/item?id=45182381) - [Claude can now create and edit files](https://www.anthropic.com/news/create-files)
 * [2025-09-09, 14:25:16](https://news.ycombinator.com/item?id=45182372) - [New Mexico is first state in US to offer universal child care](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)
@@ -26,10 +28,8 @@
 * [2025-09-06, 18:22:35](https://news.ycombinator.com/item?id=45151641) - [How can England possibly be running out of water?](https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water)
 * [2025-09-06, 00:06:31](https://news.ycombinator.com/item?id=45145176) - [Yet Another TypeSafe and Generic Programming Candidate for C](https://github.com/brightprogrammer/MisraStdC)
 * [2025-09-05, 23:07:00](https://news.ycombinator.com/item?id=45144758) - [Is OOXML Artifically Complex?](https://hsu.cy/2025/09/is-ooxml-artificially-complex/)
-* [2025-09-05, 21:57:15](https://news.ycombinator.com/item?id=45144129) - [Deluxe Paint on the Commodore Amiga](https://stonetools.ghost.io/deluxepaint-amiga/)
 * [2025-09-05, 19:48:57](https://news.ycombinator.com/item?id=45142845) - [X Design Notes: Unifying OCaml Modules and Values](https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html)
 * [2025-09-05, 16:39:40](https://news.ycombinator.com/item?id=45140572) - [A clickable visual guide to the Rust type system](https://rustcurious.com/elements/)
-* [2025-09-05, 06:36:49](https://news.ycombinator.com/item?id=45135591) - [Contracts for C](https://gustedt.wordpress.com/2025/03/10/contracts-for-c/)
 
 ## [Archives](archives/index.md)
 
