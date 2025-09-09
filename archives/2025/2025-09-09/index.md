@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 16:05:54](https://news.ycombinator.com/item?id=45184003) - [South Koreans feel betrayed by workforce detentions at Georgia Hyundai plant](https://apnews.com/article/south-korea-us-georgia-raid-hyundai-24d990562f5ac20e7d3e983a77a4f7ff)
+* [2025-09-09, 15:42:32](https://news.ycombinator.com/item?id=45183589) - [How An Attacker's Blunder Gave Us a Rare Look Inside Their Day-to-Day Operations](https://www.huntress.com/blog/rare-look-inside-attacker-operation)
 * [2025-09-09, 15:11:57](https://news.ycombinator.com/item?id=45183039) - [X open sourced their latest algorithm](https://github.com/twitter/the-algorithm)
 * [2025-09-09, 15:11:26](https://news.ycombinator.com/item?id=45183029) - [We All Dodged a Bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 * [2025-09-09, 14:45:46](https://news.ycombinator.com/item?id=45182657) - [US HS students lose ground in math and reading, continuing yearslong decline](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
