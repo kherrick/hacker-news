@@ -53,6 +53,7 @@
 * [2025-09-05, 14:38:07](https://news.ycombinator.com/item?id=45139122) - [Why Browser Company at $610M is cheap](https://bigtechpr.substack.com/p/why-browser-co-610m-is-cheap)
 * [2025-09-05, 14:34:57](https://news.ycombinator.com/item?id=45139088) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-05, 14:29:26](https://news.ycombinator.com/item?id=45139038) - [ATC/OSDI '25 Joint Keynote: Accelerating Software Dev: The LLM (R)Evolution [video]](https://www.youtube.com/watch?v=dk3y3o3vhhU)
+* [2025-09-05, 14:29:05](https://news.ycombinator.com/item?id=45139031) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 * [2025-09-05, 14:20:07](https://news.ycombinator.com/item?id=45138932) - [1TB Raspberry Pi SSD on sale now for $70](https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/)
 * [2025-09-05, 14:01:34](https://news.ycombinator.com/item?id=45138703) - [US economy added just 22,000 jobs in August, unemployment highest in 4 yrs](https://www.cnn.com/2025/09/05/economy/us-jobs-report-august-final)
 * [2025-09-05, 14:00:23](https://news.ycombinator.com/item?id=45138695) - [The Key Points of Working Effectively with Legacy Code](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
