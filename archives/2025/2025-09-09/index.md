@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 19:27:28](https://news.ycombinator.com/item?id=45187449) - [Polylaminin, promotes regeneration after spinal cord injury](https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury)
+* [2025-09-09, 19:23:31](https://news.ycombinator.com/item?id=45187386) - [Fed helpless as US economy faces structural challenges, not monetary](https://www.bancreek.com/p/demise-of-dynamic-duo/)
 * [2025-09-09, 18:50:46](https://news.ycombinator.com/item?id=45186802) - [Microserfs ordered back to the office, given 10 days to appeal](https://www.theregister.com/2025/09/09/microsoft_return_to_work/)
 * [2025-09-09, 18:47:44](https://news.ycombinator.com/item?id=45186726) - [The Dying Dream of a Decentralized Web](https://spectrum.ieee.org/web3-hardware-security)
 * [2025-09-09, 18:26:25](https://news.ycombinator.com/item?id=45186294) - [Compare the New iPhone Models](https://www.apple.com/iphone/compare/)
