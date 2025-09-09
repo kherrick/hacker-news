@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 12:34:41](https://news.ycombinator.com/item?id=45181094) - [Weaponizing Ads: How Google and Facebook Ads Are Used to Wage Propaganda Wars](https://medium.com/@eslam.elsewedy/weaponizing-ads-how-governments-use-google-ads-and-facebook-ads-to-wage-propaganda-wars-199c707704cc)
 * [2025-09-09, 12:01:53](https://news.ycombinator.com/item?id=45180757) - [UK toughens Online Safety Act with ban on self-harm content](https://www.gov.uk/government/news/online-safety-laws-to-strengthen-to-protect-people-of-all-ages-from-devastating-self-harm-content)
 * [2025-09-09, 12:00:06](https://news.ycombinator.com/item?id=45180741) - [Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote)](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84)
 * [2025-09-09, 11:01:43](https://news.ycombinator.com/item?id=45180353) - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
