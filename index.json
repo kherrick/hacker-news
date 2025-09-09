@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-09, 16:15:24",
+      "https://news.ycombinator.com/item?id=45184163"
+    ],
+    [
+      "DuckDB NPM Account Compromised in Continuing Supply Chain Attack",
+      "https://socket.dev/blog/duckdb-npm-account-compromised-in-continuing-supply-chain-attack"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 16:05:54",
       "https://news.ycombinator.com/item?id=45184003"
     ],
@@ -41,12 +51,22 @@
   ],
   [
     [
-      "2025-09-09, 14:45:46",
-      "https://news.ycombinator.com/item?id=45182657"
+      "2025-09-09, 14:54:32",
+      "https://news.ycombinator.com/item?id=45182770"
     ],
     [
-      "US HS students lose ground in math and reading, continuing yearslong decline",
-      "https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a"
+      "A new experimental Go API for JSON",
+      "https://go.dev/blog/jsonv2-exp"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 14:28:33",
+      "https://news.ycombinator.com/item?id=45182418"
+    ],
+    [
+      "Disrupting the DRAM roadmap with capacitor-less IGZO-DRAM technology",
+      "https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-09-08, 21:17:50",
-      "https://news.ycombinator.com/item?id=45174125"
-    ],
-    [
-      "Alterego: Thought to Text",
-      "https://www.alterego.io/"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 21:10:18",
       "https://news.ycombinator.com/item?id=45174037"
     ],
@@ -277,16 +287,6 @@
     [
       "Yet Another TypeSafe and Generic Programming Candidate for C",
       "https://github.com/brightprogrammer/MisraStdC"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 23:07:00",
-      "https://news.ycombinator.com/item?id=45144758"
-    ],
-    [
-      "Is OOXML Artifically Complex?",
-      "https://hsu.cy/2025/09/is-ooxml-artificially-complex/"
     ]
   ],
   [
