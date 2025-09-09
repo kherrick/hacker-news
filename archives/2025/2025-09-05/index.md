@@ -13,6 +13,7 @@
 * [2025-09-05, 22:20:37](https://news.ycombinator.com/item?id=45144337) - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 * [2025-09-05, 22:09:10](https://news.ycombinator.com/item?id=45144234) - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
 * [2025-09-05, 22:00:56](https://news.ycombinator.com/item?id=45144160) - [Tesla offers mammoth $1T pay package to Musk, sets lofty targets](https://www.reuters.com/business/autos-transportation/tesla-offers-mammoth-1-trillion-pay-package-musk-sets-lofty-targets-2025-09-05/)
+* [2025-09-05, 21:57:15](https://news.ycombinator.com/item?id=45144129) - [Deluxe Paint on the Commodore Amiga](https://stonetools.ghost.io/deluxepaint-amiga/)
 * [2025-09-05, 21:56:46](https://news.ycombinator.com/item?id=45144123) - [Kenvue stock drops on report RFK Jr will link autism to Tylenol during pregnancy](https://www.cnbc.com/2025/09/05/rfk-tylenol-autism-kenvue-stock-for-url.html)
 * [2025-09-05, 21:38:50](https://news.ycombinator.com/item?id=45143945) - [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
 * [2025-09-05, 21:37:36](https://news.ycombinator.com/item?id=45143927) - [Learning the soroban rapid mental calculation as an adult](https://github.com/whacked/cow/blob/main/learning%20the%20soroban%20as%20an%20adult.md)
