@@ -28,6 +28,7 @@
 * [2025-09-06, 19:06:13](https://news.ycombinator.com/item?id=45152001) - [AI hype is crashing into reality. Stay calm](https://www.businessinsider.com/ai-hype-crashing-into-reality-iphone-openai-2025-9)
 * [2025-09-06, 18:27:35](https://news.ycombinator.com/item?id=45151686) - [Ghost sharks grow forehead teeth to help them have sex](https://news.ufl.edu/2025/09/ghost-shark-teeth/)
 * [2025-09-06, 18:25:23](https://news.ycombinator.com/item?id=45151661) - [Normalization of Deviance](https://danluu.com/wat/)
+* [2025-09-06, 18:22:35](https://news.ycombinator.com/item?id=45151641) - [How can England possibly be running out of water?](https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water)
 * [2025-09-06, 18:20:26](https://news.ycombinator.com/item?id=45151622) - [Stop writing CLI validation. Parse it right the first time](https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time)
 * [2025-09-06, 18:17:06](https://news.ycombinator.com/item?id=45151598) - [GigaByte CXL memory expansion card with up to 512GB DRAM](https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4)
 * [2025-09-06, 18:10:22](https://news.ycombinator.com/item?id=45151539) - [Microsoft BASIC, now open source](https://www.pcworld.com/article/2898698/microsofts-first-ever-programming-language-was-just-open-sourced.html)

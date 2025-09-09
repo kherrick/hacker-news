@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 05:16:23](https://news.ycombinator.com/item?id=45177683) - [YouTube Is a Mysterious Monopoly](https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly)
+* [2025-09-09, 04:46:17](https://news.ycombinator.com/item?id=45177518) - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
 * [2025-09-09, 04:44:20](https://news.ycombinator.com/item?id=45177507) - [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 * [2025-09-09, 03:26:08](https://news.ycombinator.com/item?id=45177043) - [Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)
 * [2025-09-09, 01:51:54](https://news.ycombinator.com/item?id=45176491) - [Anthropic reduced model output quality from Aug 5](https://status.anthropic.com/incidents/72f99lh1cj2c)
