@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 12:01:53](https://news.ycombinator.com/item?id=45180757) - [UK toughens Online Safety Act with ban on self-harm content](https://www.gov.uk/government/news/online-safety-laws-to-strengthen-to-protect-people-of-all-ages-from-devastating-self-harm-content)
+* [2025-09-09, 12:00:06](https://news.ycombinator.com/item?id=45180741) - [Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote)](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84)
 * [2025-09-09, 11:01:43](https://news.ycombinator.com/item?id=45180353) - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
+* [2025-09-09, 10:57:58](https://news.ycombinator.com/item?id=45180315) - [Hallucination Risk Calculator](https://github.com/leochlon/hallbayes)
 * [2025-09-09, 10:10:15](https://news.ycombinator.com/item?id=45179939) - [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
 * [2025-09-09, 10:02:23](https://news.ycombinator.com/item?id=45179889) - [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware)
 * [2025-09-09, 09:33:23](https://news.ycombinator.com/item?id=45179679) - [Nepal Prime Minister Resigns. Parliament / Ministires set on Fire.](https://news.ycombinator.com/item?id=45179679)
