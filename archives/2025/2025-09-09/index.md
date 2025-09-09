@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 18:25:03](https://news.ycombinator.com/item?id=45186265) - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
+* [2025-09-09, 18:12:28](https://news.ycombinator.com/item?id=45186011) - [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
+* [2025-09-09, 18:04:49](https://news.ycombinator.com/item?id=45185875) - [Tomorrow's Emoji, Today: Unicode 17.0 Has Arrived](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
 * [2025-09-09, 17:44:49](https://news.ycombinator.com/item?id=45185576) - [Apple announces the ultra-slim iPhone Air](https://www.theverge.com/news/771942/apple-iphone-17-air-announcement)
 * [2025-09-09, 17:32:41](https://news.ycombinator.com/item?id=45185400) - [What happens when private equity buys homes in your neighborhood](https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords)
 * [2025-09-09, 17:32:26](https://news.ycombinator.com/item?id=45185394) - [Apple Watch Ultra 3](https://www.apple.com/newsroom/2025/09/introducing-apple-watch-ultra-3/)
