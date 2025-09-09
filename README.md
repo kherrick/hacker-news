@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-09, 21:47:31](https://news.ycombinator.com/item?id=45189700) - [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
 * [2025-09-09, 21:01:47](https://news.ycombinator.com/item?id=45189053) - [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)
 * [2025-09-09, 20:57:20](https://news.ycombinator.com/item?id=45188982) - [I don't want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
 * [2025-09-09, 20:55:16](https://news.ycombinator.com/item?id=45188945) - [Immunotherapy drug eliminates aggressive cancers in clinical trial](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
+* [2025-09-09, 20:09:53](https://news.ycombinator.com/item?id=45188114) - [I still love PHP and JavaScript (2022)](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
 * [2025-09-09, 19:44:12](https://news.ycombinator.com/item?id=45187687) - [Inflation Erased U.S. Income Gains Last Year](https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0)
 * [2025-09-09, 19:27:28](https://news.ycombinator.com/item?id=45187449) - [Polylaminin promotes regeneration after spinal cord injury (2010)](https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury)
 * [2025-09-09, 18:25:03](https://news.ycombinator.com/item?id=45186265) - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
