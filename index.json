@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-09, 15:11:57",
+      "https://news.ycombinator.com/item?id=45183039"
+    ],
+    [
+      "X open sourced their latest algorithm",
+      "https://github.com/twitter/the-algorithm"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 15:11:26",
+      "https://news.ycombinator.com/item?id=45183029"
+    ],
+    [
+      "We All Dodged a Bullet",
+      "https://xeiaso.net/notes/2025/we-dodged-a-bullet/"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 14:45:46",
       "https://news.ycombinator.com/item?id=45182657"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-09-05, 21:57:15",
-      "https://news.ycombinator.com/item?id=45144129"
-    ],
-    [
-      "Deluxe Paint on the Commodore Amiga",
-      "https://stonetools.ghost.io/deluxepaint-amiga/"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 19:48:57",
       "https://news.ycombinator.com/item?id=45142845"
     ],
@@ -287,16 +297,6 @@
     [
       "A clickable visual guide to the Rust type system",
       "https://rustcurious.com/elements/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 06:36:49",
-      "https://news.ycombinator.com/item?id=45135591"
-    ],
-    [
-      "Contracts for C",
-      "https://gustedt.wordpress.com/2025/03/10/contracts-for-c/"
     ]
   ]
 ]
