@@ -43,6 +43,7 @@
 * [2025-09-05, 16:55:46](https://news.ycombinator.com/item?id=45140767) - [Why Everybody Is Losing Money on AI](https://www.wheresyoured.at/why-everybody-is-losing-money-on-ai/)
 * [2025-09-05, 16:52:34](https://news.ycombinator.com/item?id=45140730) - [European Commission fines Google €2.95B over abusive ad tech practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992)
 * [2025-09-05, 16:49:29](https://news.ycombinator.com/item?id=45140695) - [Interview with Geoffrey Hinton](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
+* [2025-09-05, 16:39:40](https://news.ycombinator.com/item?id=45140572) - [A clickable visual guide to the Rust type system](https://rustcurious.com/elements/)
 * [2025-09-05, 16:25:48](https://news.ycombinator.com/item?id=45140381) - [MentraOS – open-source Smart glasses OS](https://github.com/Mentra-Community/MentraOS)
 * [2025-09-05, 16:18:33](https://news.ycombinator.com/item?id=45140281) - [Dark Academia Grows Up](https://www.publicbooks.org/dark-academia-grows-up/)
 * [2025-09-05, 15:51:27](https://news.ycombinator.com/item?id=45139954) - [South Korea: 'many' of its nationals detained in ICE raid on GA Hyundai facility](https://www.nbcnews.com/news/us-news/ice-hyundai-plant-georgia-enforcement-action-rcna229148)

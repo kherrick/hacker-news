@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 09:33:23](https://news.ycombinator.com/item?id=45179679) - [Nepal Prime Minister Resigns. Parliament / Ministires set on Fire.](https://news.ycombinator.com/item?id=45179679)
 * [2025-09-09, 06:50:43](https://news.ycombinator.com/item?id=45178389) - [Mistral AI raises €1.7B to accelerate technological progress with AI](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 * [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 * [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [ASML, Mistral AI enter strategic partnership](https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership)
