@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-09, 11:01:43",
+      "https://news.ycombinator.com/item?id=45180353"
+    ],
+    [
+      "The Last Programmers",
+      "https://www.xipu.li/posts/the-last-programmers"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 10:10:15",
       "https://news.ycombinator.com/item?id=45179939"
     ],
@@ -37,16 +47,6 @@
     [
       "Strong Eventual Consistency – The Big Idea Behind CRDTs",
       "https://lewiscampbell.tech/blog/250908.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 04:44:20",
-      "https://news.ycombinator.com/item?id=45177507"
-    ],
-    [
-      "Byte Type: Supporting Raw Data Copies in the LLVM IR",
-      "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/"
     ]
   ],
   [
