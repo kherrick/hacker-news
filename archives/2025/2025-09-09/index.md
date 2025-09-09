@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 16:31:17](https://news.ycombinator.com/item?id=45184432) - [Microsoft is officially sending employees back to the office](https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9)
+* [2025-09-09, 16:27:41](https://news.ycombinator.com/item?id=45184368) - [ICE Is Using Fake Cell Towers to Spy on People's Phones](https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/)
 * [2025-09-09, 16:15:24](https://news.ycombinator.com/item?id=45184163) - [DuckDB NPM Account Compromised in Continuing Supply Chain Attack](https://socket.dev/blog/duckdb-npm-account-compromised-in-continuing-supply-chain-attack)
 * [2025-09-09, 16:05:54](https://news.ycombinator.com/item?id=45184003) - [South Koreans feel betrayed by workforce detentions at Georgia Hyundai plant](https://apnews.com/article/south-korea-us-georgia-raid-hyundai-24d990562f5ac20e7d3e983a77a4f7ff)
 * [2025-09-09, 15:42:32](https://news.ycombinator.com/item?id=45183589) - [How An Attacker's Blunder Gave Us a Rare Look Inside Their Day-to-Day Operations](https://www.huntress.com/blog/rare-look-inside-attacker-operation)
