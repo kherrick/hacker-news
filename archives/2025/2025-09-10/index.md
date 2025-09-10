@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
 * [2025-09-10, 10:20:37](https://news.ycombinator.com/item?id=45195624) - [Radar footage shows Hellfire missile fired by US Military bounce off UFO](https://nypost.com/2025/09/09/us-news/shocking-radar-footage-shows-hellfire-missile-fired-by-us-military-directly-hit-ufo-over-ocean/)
 * [2025-09-10, 10:11:45](https://news.ycombinator.com/item?id=45195543) - [My Workflow Is 70% AI, 20% Copy-Paste, 10% Panic. What's Yours?](https://news.ycombinator.com/item?id=45195543)
+* [2025-09-10, 10:08:14](https://news.ycombinator.com/item?id=45195520) - [Made for People, Not Cars: Reclaiming European Cities](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
 * [2025-09-10, 09:27:13](https://news.ycombinator.com/item?id=45195267) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
 * [2025-09-10, 08:44:26](https://news.ycombinator.com/item?id=45194973) - [The Gaza family torn apart by IDF snipers from Chicago and Munich](https://www.theguardian.com/world/2025/sep/09/the-gaza-family-torn-apart-by-idf-snipers-from-chicago-and-munich)
 * [2025-09-10, 07:20:07](https://news.ycombinator.com/item?id=45194341) - [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
