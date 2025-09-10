@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-09-10, 15:18:12",
+      "https://news.ycombinator.com/item?id=45199031"
+    ],
+    [
+      "Zoox launches its robotaxi service to the public in Las Vegas",
+      "https://zoox.com/journal/las-vegas"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 13:46:02",
+      "https://news.ycombinator.com/item?id=45197608"
+    ],
+    [
+      "Performance Improvements in .NET 10",
+      "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 13:17:25",
       "https://news.ycombinator.com/item?id=45197187"
     ],
     [
       "Guy running a Google rival from his laundry room",
       "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 12:17:45",
-      "https://news.ycombinator.com/item?id=45196568"
-    ],
-    [
-      "Tarsnap Is Cozy",
-      "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Children and young people's reading in 2025",
       "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 03:42:55",
+      "https://news.ycombinator.com/item?id=45192963"
+    ],
+    [
+      "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+      "https://github.com/juhovh/tailguard"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-09-09, 15:12:18",
-      "https://news.ycombinator.com/item?id=45183050"
-    ],
-    [
-      "Building a DOOM-like multiplayer shooter in pure SQL",
-      "https://cedardb.com/blog/doomql/"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 15:11:26",
       "https://news.ycombinator.com/item?id=45183029"
     ],
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=45181535"
     ],
     [
-      "Show HN: Run any GUI app in the terminal with term.everything",
+      "Show HN: Term.everything – Run any GUI app in the terminal",
       "https://github.com/mmulet/term.everything"
     ]
   ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-09-07, 13:48:25",
-      "https://news.ycombinator.com/item?id=45158118"
-    ],
-    [
-      "Show HN: Bottlefire – Build single-executable microVMs from Docker images",
-      "https://bottlefire.dev/"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 12:14:41",
       "https://news.ycombinator.com/item?id=45157505"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-09-07, 12:01:55",
-      "https://news.ycombinator.com/item?id=45157425"
-    ],
-    [
-      "Some thoughts on personal Git hosting",
-      "https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 10:56:41",
       "https://news.ycombinator.com/item?id=45157094"
     ],
     [
       "PKM apps need to get better at resurfacing information",
       "https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 08:37:42",
+      "https://news.ycombinator.com/item?id=45156480"
+    ],
+    [
+      "Memory Safety in ProcASM",
+      "https://temware.site/html/blogs/procasm_memory_safety.html"
     ]
   ],
   [
