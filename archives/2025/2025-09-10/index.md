@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 16:26:07](https://news.ycombinator.com/item?id=45200024) - [\"No Tax on Tips\" Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/)
+* [2025-09-10, 16:08:39](https://news.ycombinator.com/item?id=45199760) - [TikTok won. Now everything is 60 seconds](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
+* [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode](https://platform.openai.com/docs/guides/developer-mode)
 * [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
 * [2025-09-10, 15:31:27](https://news.ycombinator.com/item?id=45199191) - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
