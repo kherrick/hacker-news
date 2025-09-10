@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-09-10, 18:14:18",
-      "https://news.ycombinator.com/item?id=45201622"
-    ],
-    [
-      "AI negotiator successfully haggles down the price of a car thousands of dollars",
-      "https://fortune.com/2025/09/10/this-30-year-old-ceo-says-his-ai-negotiator-can-successfully-haggle-down-the-price-of-a-car-by-thousands-of-dollars/"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 18:03:35",
       "https://news.ycombinator.com/item?id=45201474"
     ],
@@ -57,6 +47,16 @@
     [
       "Bild AI (YC W25) Is Hiring",
       "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 16:44:53",
+      "https://news.ycombinator.com/item?id=45200357"
+    ],
+    [
+      "'Block Everything' protests sweep across France, scores arrested",
+      "https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-09-10, 15:18:12",
+      "https://news.ycombinator.com/item?id=45199031"
+    ],
+    [
+      "Zoox robotaxi launches in Las Vegas",
+      "https://zoox.com/journal/las-vegas"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 14:42:15",
       "https://news.ycombinator.com/item?id=45198481"
     ],
@@ -151,22 +161,22 @@
   ],
   [
     [
-      "2025-09-10, 13:46:02",
-      "https://news.ycombinator.com/item?id=45197608"
-    ],
-    [
-      "Performance Improvements in .NET 10",
-      "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 13:17:25",
       "https://news.ycombinator.com/item?id=45197187"
     ],
     [
       "Guy running a Google rival from his laundry room",
       "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 12:17:45",
+      "https://news.ycombinator.com/item?id=45196568"
+    ],
+    [
+      "Tarsnap Is Cozy",
+      "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-09-08, 18:09:25",
-      "https://news.ycombinator.com/item?id=45171733"
-    ],
-    [
-      "All clickwheel iPod games have now been preserved for posterity",
-      "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 10:36:17",
       "https://news.ycombinator.com/item?id=45166655"
     ],
@@ -271,12 +271,22 @@
   ],
   [
     [
-      "2025-09-08, 00:01:16",
-      "https://news.ycombinator.com/item?id=45163417"
+      "2025-09-07, 12:14:41",
+      "https://news.ycombinator.com/item?id=45157505"
     ],
     [
-      "Rendering flame fractals with a compute shader (2023)",
-      "https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader"
+      "Semantic Line Breaks (2017)",
+      "https://sembr.org"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 08:22:54",
+      "https://news.ycombinator.com/item?id=45156414"
+    ],
+    [
+      "Things you can do with a debugger but not with print debugging",
+      "https://mahesh-hegde.github.io/posts/what_debugger_can/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps",
       "https://crates.io/crates/crabcamera"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 00:15:59",
-      "https://news.ycombinator.com/item?id=45154088"
-    ],
-    [
-      "Knowledge and memory",
-      "https://www.robinsloan.com/lab/knowledge-and-memory/"
     ]
   ]
 ]
