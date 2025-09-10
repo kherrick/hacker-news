@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 14:15:57](https://news.ycombinator.com/item?id=45198033) - [Homeowners insurance is pricing people out in disaster-prone cities](https://www.accuweather.com/en/weather-news/homeowners-insurance-is-pricing-people-out-in-disaster-prone-cities/1813821)
 * [2025-09-10, 13:17:25](https://news.ycombinator.com/item?id=45197187) - [Guy is running a Google rival from his laundry room](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
 * [2025-09-10, 13:08:09](https://news.ycombinator.com/item?id=45197066) - [Windows 10 resists its end: usage share climbs while Windows 11's falls](https://www.ghacks.net/2025/09/10/windows-10-resists-its-end-usage-share-climbs-while-windows-11s-falls/)
 * [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)

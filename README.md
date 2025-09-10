@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-10, 14:15:57](https://news.ycombinator.com/item?id=45198033) - [Homeowners insurance is pricing people out in disaster-prone cities](https://www.accuweather.com/en/weather-news/homeowners-insurance-is-pricing-people-out-in-disaster-prone-cities/1813821)
 * [2025-09-10, 13:17:25](https://news.ycombinator.com/item?id=45197187) - [Guy is running a Google rival from his laundry room](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
-* [2025-09-10, 13:08:09](https://news.ycombinator.com/item?id=45197066) - [Windows 10 resists its end: usage share climbs while Windows 11's falls](https://www.ghacks.net/2025/09/10/windows-10-resists-its-end-usage-share-climbs-while-windows-11s-falls/)
 * [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
 * [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 12:00:59](https://news.ycombinator.com/item?id=45196433) - [Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
