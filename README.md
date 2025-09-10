@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-10, 16:31:34](https://news.ycombinator.com/item?id=45200118) - [Anthropic Services Down](https://status.anthropic.com/incidents/k6gkm2b8cjk9)
 * [2025-09-10, 16:26:07](https://news.ycombinator.com/item?id=45200024) - [\"No Tax on Tips\" Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/)
+* [2025-09-10, 16:20:55](https://news.ycombinator.com/item?id=45199931) - [I didn't bring my son to a museum to look at screens](https://sethpurcell.com/writing/screens-in-museums/)
 * [2025-09-10, 16:08:39](https://news.ycombinator.com/item?id=45199760) - [TikTok won. Now everything is 60 seconds](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
 * [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode](https://platform.openai.com/docs/guides/developer-mode)
 * [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
@@ -23,11 +25,9 @@
 * [2025-09-09, 14:45:46](https://news.ycombinator.com/item?id=45182657) - [US High school students' scores fall in reading and math](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
 * [2025-09-09, 14:25:55](https://news.ycombinator.com/item?id=45182381) - [Claude now has access to a server-side container environment](https://www.anthropic.com/news/create-files)
 * [2025-09-09, 13:16:30](https://news.ycombinator.com/item?id=45181535) - [Show HN: Term.everything – Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
-* [2025-09-09, 05:16:23](https://news.ycombinator.com/item?id=45177683) - [YouTube is a mysterious monopoly](https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly)
 * [2025-09-08, 18:09:25](https://news.ycombinator.com/item?id=45171733) - [All clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/)
 * [2025-09-08, 10:36:17](https://news.ycombinator.com/item?id=45166655) - [Distributing your own scripts via Homebrew](https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/)
 * [2025-09-08, 00:01:16](https://news.ycombinator.com/item?id=45163417) - [Rendering flame fractals with a compute shader (2023)](https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader)
-* [2025-09-07, 08:37:42](https://news.ycombinator.com/item?id=45156480) - [Memory Safety in ProcASM](https://temware.site/html/blogs/procasm_memory_safety.html)
 * [2025-09-07, 06:19:52](https://news.ycombinator.com/item?id=45155846) - [Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps](https://crates.io/crates/crabcamera)
 * [2025-09-07, 00:15:59](https://news.ycombinator.com/item?id=45154088) - [Knowledge and memory](https://www.robinsloan.com/lab/knowledge-and-memory/)
 
