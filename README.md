@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
 * [2025-09-10, 15:31:27](https://news.ycombinator.com/item?id=45199191) - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
 * [2025-09-10, 14:38:59](https://news.ycombinator.com/item?id=45198420) - [The Scam Called \"You Don't Have to Remember Anything\"](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
@@ -14,7 +15,6 @@
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 * [2025-09-10, 02:02:17](https://news.ycombinator.com/item?id=45192194) - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 * [2025-09-10, 00:10:40](https://news.ycombinator.com/item?id=45191347) - [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
-* [2025-09-09, 23:13:59](https://news.ycombinator.com/item?id=45190777) - [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
 * [2025-09-09, 18:25:03](https://news.ycombinator.com/item?id=45186265) - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
 * [2025-09-09, 18:12:51](https://news.ycombinator.com/item?id=45186015) - [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
 * [2025-09-09, 17:57:35](https://news.ycombinator.com/item?id=45185756) - [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)

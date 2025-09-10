@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
 * [2025-09-10, 15:31:27](https://news.ycombinator.com/item?id=45199191) - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
 * [2025-09-10, 14:38:59](https://news.ycombinator.com/item?id=45198420) - [The Scam Called \"You Don't Have to Remember Anything\"](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
