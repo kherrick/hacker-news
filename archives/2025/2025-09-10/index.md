@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 21:49:36](https://news.ycombinator.com/item?id=45204393) - [KDE launches its own distribution (again)](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+* [2025-09-10, 21:43:47](https://news.ycombinator.com/item?id=45204305) - [Christie's Deletes Digital Art Department](https://news.artnet.com/market/christies-scraps-digital-art-department-2685784)
 * [2025-09-10, 21:01:01](https://news.ycombinator.com/item?id=45203643) - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
 * [2025-09-10, 20:59:24](https://news.ycombinator.com/item?id=45203617) - [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com)
 * [2025-09-10, 19:42:27](https://news.ycombinator.com/item?id=45202613) - ['Clearest sign' yet of ancient life on Mars](https://www.nature.com/articles/s41586-025-09413-0)

@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-10, 21:49:36](https://news.ycombinator.com/item?id=45204393) - [KDE launches its own distribution (again)](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+* [2025-09-10, 21:43:47](https://news.ycombinator.com/item?id=45204305) - [Christie's Deletes Digital Art Department](https://news.artnet.com/market/christies-scraps-digital-art-department-2685784)
 * [2025-09-10, 21:01:01](https://news.ycombinator.com/item?id=45203643) - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
 * [2025-09-10, 20:59:24](https://news.ycombinator.com/item?id=45203617) - [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com)
-* [2025-09-10, 19:42:27](https://news.ycombinator.com/item?id=45202613) - [Minerals represent potential biosignatures in the search for life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
 * [2025-09-10, 19:23:53](https://news.ycombinator.com/item?id=45202421) - [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
 * [2025-09-10, 19:08:05](https://news.ycombinator.com/item?id=45202252) - [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
 * [2025-09-10, 19:02:48](https://news.ycombinator.com/item?id=45202200) - [Charlie Kirk killed at event in Utah](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
@@ -16,7 +17,6 @@
 * [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The origin story of merge queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox robotaxi launches in Las Vegas](https://zoox.com/journal/las-vegas)
 * [2025-09-10, 14:42:15](https://news.ycombinator.com/item?id=45198481) - [Jiratui – A Textual UI for interacting with Atlassian Jira from your shell](https://jiratui.sh/)
-* [2025-09-10, 14:38:59](https://news.ycombinator.com/item?id=45198420) - [We can’t circumvent the work needed to train our minds](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
 * [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap is cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
 * [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
