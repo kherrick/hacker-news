@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-10, 14:15:57](https://news.ycombinator.com/item?id=45198033) - [Homeowners insurance is pricing people out in disaster-prone cities](https://www.accuweather.com/en/weather-news/homeowners-insurance-is-pricing-people-out-in-disaster-prone-cities/1813821)
+* [2025-09-10, 14:33:57](https://news.ycombinator.com/item?id=45198322) - [Show HN: Ark v0.5.0 – A Minimal, High-Performance Entity Component System for Go](https://github.com/mlange-42/ark)
+* [2025-09-10, 13:45:27](https://news.ycombinator.com/item?id=45197599) - [Leaked Ice document shows worker detained in Hyundai raid had valid visa](https://www.theguardian.com/us-news/2025/sep/10/hyundai-factory-ice-raid-legal-visa)
 * [2025-09-10, 13:17:25](https://news.ycombinator.com/item?id=45197187) - [Guy is running a Google rival from his laundry room](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
 * [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
 * [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
@@ -24,7 +25,6 @@
 * [2025-09-08, 18:09:25](https://news.ycombinator.com/item?id=45171733) - [All clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/)
 * [2025-09-08, 00:01:16](https://news.ycombinator.com/item?id=45163417) - [Rendering flame fractals with a compute shader](https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader)
 * [2025-09-07, 13:48:25](https://news.ycombinator.com/item?id=45158118) - [Show HN: Bottlefire – Build single-executable microVMs from Docker images](https://bottlefire.dev/)
-* [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks](https://sembr.org)
 * [2025-09-07, 12:01:55](https://news.ycombinator.com/item?id=45157425) - [Some thoughts on personal Git hosting](https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/)
 * [2025-09-07, 10:56:41](https://news.ycombinator.com/item?id=45157094) - [PKM apps need to get better at resurfacing information](https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/)
 * [2025-09-07, 06:19:52](https://news.ycombinator.com/item?id=45155846) - [Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps](https://crates.io/crates/crabcamera)
