@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-09-10, 06:51:38",
-      "https://news.ycombinator.com/item?id=45194165"
-    ],
-    [
-      "Children and young people's reading in 2025",
-      "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 02:59:48",
       "https://news.ycombinator.com/item?id=45192655"
     ],
@@ -277,6 +267,16 @@
     [
       "PKM apps need to get better at resurfacing information",
       "https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 06:19:52",
+      "https://news.ycombinator.com/item?id=45155846"
+    ],
+    [
+      "Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps",
+      "https://crates.io/crates/crabcamera"
     ]
   ],
   [
