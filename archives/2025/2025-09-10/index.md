@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 17:26:08](https://news.ycombinator.com/item?id=45200925) - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 * [2025-09-10, 17:01:06](https://news.ycombinator.com/item?id=45200593) - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-09-10, 16:44:53](https://news.ycombinator.com/item?id=45200357) - ['Block Everything' protests sweep across France, scores arrested](https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/)
 * [2025-09-10, 16:31:34](https://news.ycombinator.com/item?id=45200118) - [Anthropic Services Down](https://status.anthropic.com/incidents/k6gkm2b8cjk9)
 * [2025-09-10, 16:26:07](https://news.ycombinator.com/item?id=45200024) - [\"No Tax on Tips\" Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/)
+* [2025-09-10, 16:23:24](https://news.ycombinator.com/item?id=45199976) - [Wiggling into Correlation](https://entropicthoughts.com/wiggling-into-correlation)
 * [2025-09-10, 16:20:55](https://news.ycombinator.com/item?id=45199931) - [I didn't bring my son to a museum to look at screens](https://sethpurcell.com/writing/screens-in-museums/)
 * [2025-09-10, 16:08:39](https://news.ycombinator.com/item?id=45199760) - [TikTok won. Now everything is 60 seconds](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
 * [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode](https://platform.openai.com/docs/guides/developer-mode)
