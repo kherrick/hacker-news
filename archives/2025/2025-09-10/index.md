@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 15:31:27](https://news.ycombinator.com/item?id=45199191) - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
+* [2025-09-10, 14:38:59](https://news.ycombinator.com/item?id=45198420) - [The Scam Called \"You Don't Have to Remember Anything\"](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
 * [2025-09-10, 14:33:57](https://news.ycombinator.com/item?id=45198322) - [Show HN: Ark v0.5.0 – A Minimal, High-Performance Entity Component System for Go](https://github.com/mlange-42/ark)
 * [2025-09-10, 14:15:57](https://news.ycombinator.com/item?id=45198033) - [Homeowners insurance is pricing people out in disaster-prone cities](https://www.accuweather.com/en/weather-news/homeowners-insurance-is-pricing-people-out-in-disaster-prone-cities/1813821)
 * [2025-09-10, 13:46:02](https://news.ycombinator.com/item?id=45197608) - [Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)
