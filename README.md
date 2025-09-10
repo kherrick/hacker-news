@@ -8,7 +8,6 @@
 * [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
 * [2025-09-10, 11:31:14](https://news.ycombinator.com/item?id=45196163) - [The subjective experience of coding in different programming languages](https://interconnected.org/home/2023/12/05/code)
 * [2025-09-10, 10:08:14](https://news.ycombinator.com/item?id=45195520) - [Made for People, Not Cars: Reclaiming European Cities](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
-* [2025-09-10, 06:51:38](https://news.ycombinator.com/item?id=45194165) - [Children and young people's reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 * [2025-09-10, 02:02:17](https://news.ycombinator.com/item?id=45192194) - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 * [2025-09-10, 00:10:40](https://news.ycombinator.com/item?id=45191347) - [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
@@ -28,6 +27,7 @@
 * [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks](https://sembr.org)
 * [2025-09-07, 12:01:55](https://news.ycombinator.com/item?id=45157425) - [Some thoughts on personal Git hosting](https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/)
 * [2025-09-07, 10:56:41](https://news.ycombinator.com/item?id=45157094) - [PKM apps need to get better at resurfacing information](https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/)
+* [2025-09-07, 06:19:52](https://news.ycombinator.com/item?id=45155846) - [Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps](https://crates.io/crates/crabcamera)
 * [2025-09-07, 00:25:00](https://news.ycombinator.com/item?id=45154142) - [Axial twist theory](https://en.wikipedia.org/wiki/Axial_twist_theory)
 * [2025-09-07, 00:15:59](https://news.ycombinator.com/item?id=45154088) - [Knowledge and Memory](https://www.robinsloan.com/lab/knowledge-and-memory/)
 
