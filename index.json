@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-10, 19:42:27",
+      "https://news.ycombinator.com/item?id=45202613"
+    ],
+    [
+      "'Clearest sign' yet of ancient life on Mars",
+      "https://www.nature.com/articles/s41586-025-09413-0"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 19:23:53",
       "https://news.ycombinator.com/item?id=45202421"
     ],
@@ -17,6 +27,16 @@
     [
       "Dotter: Dotfile manager and templater written in Rust",
       "https://github.com/SuperCuber/dotter"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 19:02:48",
+      "https://news.ycombinator.com/item?id=45202200"
+    ],
+    [
+      "Charlie Kirk shot at event in Utah",
+      "https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-09-10, 02:59:48",
-      "https://news.ycombinator.com/item?id=45192655"
-    ],
-    [
-      "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
-      "https://joshfonseca.com/blogs/animal-crossing-llm"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 13:16:30",
       "https://news.ycombinator.com/item?id=45181535"
     ],
@@ -257,16 +267,6 @@
     [
       "Distributing your own scripts via Homebrew",
       "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 08:06:39",
-      "https://news.ycombinator.com/item?id=45165749"
-    ],
-    [
-      "CPU Utilization is Wrong (2017)",
-      "https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html"
     ]
   ],
   [
