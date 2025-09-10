@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-10, 14:33:57",
-      "https://news.ycombinator.com/item?id=45198322"
-    ],
-    [
-      "Show HN: Ark v0.5.0 – A Minimal, High-Performance Entity Component System for Go",
-      "https://github.com/mlange-42/ark"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 13:17:25",
       "https://news.ycombinator.com/item?id=45197187"
     ],
@@ -61,22 +51,22 @@
   ],
   [
     [
-      "2025-09-10, 11:31:14",
-      "https://news.ycombinator.com/item?id=45196163"
-    ],
-    [
-      "The subjective experience of coding in different programming languages (2023)",
-      "https://interconnected.org/home/2023/12/05/code"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 10:08:14",
       "https://news.ycombinator.com/item?id=45195520"
     ],
     [
       "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
       "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 06:51:38",
+      "https://news.ycombinator.com/item?id=45194165"
+    ],
+    [
+      "Children and young people's reading in 2025",
+      "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-09-09, 13:16:30",
+      "https://news.ycombinator.com/item?id=45181535"
+    ],
+    [
+      "Show HN: Run any GUI app in the terminal with term.everything",
+      "https://github.com/mmulet/term.everything"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 05:16:23",
       "https://news.ycombinator.com/item?id=45177683"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45154088"
     ],
     [
-      "Knowledge and Memory",
+      "Knowledge and memory",
       "https://www.robinsloan.com/lab/knowledge-and-memory/"
     ]
   ]
