@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-10, 13:17:25",
+      "https://news.ycombinator.com/item?id=45197187"
+    ],
+    [
+      "Guy is running a Google rival from his laundry room",
+      "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 13:08:09",
+      "https://news.ycombinator.com/item?id=45197066"
+    ],
+    [
+      "Windows 10 resists its end: usage share climbs while Windows 11's falls",
+      "https://www.ghacks.net/2025/09/10/windows-10-resists-its-end-usage-share-climbs-while-windows-11s-falls/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 12:17:45",
       "https://news.ycombinator.com/item?id=45196568"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-09-09, 20:55:16",
-      "https://news.ycombinator.com/item?id=45188945"
-    ],
-    [
-      "Immunotherapy drug clinical trial results: half of tumors shrink or disappear",
-      "https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 18:25:03",
       "https://news.ycombinator.com/item?id=45186265"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-09-09, 15:42:32",
-      "https://news.ycombinator.com/item?id=45183589"
-    ],
-    [
-      "An attacker’s blunder gave us a look into their operations",
-      "https://www.huntress.com/blog/rare-look-inside-attacker-operation"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 15:12:18",
       "https://news.ycombinator.com/item?id=45183050"
     ],
@@ -187,16 +187,6 @@
     [
       "We all dodged a bullet",
       "https://xeiaso.net/notes/2025/we-dodged-a-bullet/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 14:54:32",
-      "https://news.ycombinator.com/item?id=45182770"
-    ],
-    [
-      "A new experimental Go API for JSON",
-      "https://go.dev/blog/jsonv2-exp"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Semantic Line Breaks",
       "https://sembr.org"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 12:01:55",
+      "https://news.ycombinator.com/item?id=45157425"
+    ],
+    [
+      "Some thoughts on personal Git hosting",
+      "https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/"
     ]
   ],
   [
