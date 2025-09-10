@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-10, 16:31:34",
+      "https://news.ycombinator.com/item?id=45200118"
+    ],
+    [
+      "Anthropic Services Down",
+      "https://status.anthropic.com/incidents/k6gkm2b8cjk9"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 16:26:07",
       "https://news.ycombinator.com/item?id=45200024"
     ],
     [
       "\"No Tax on Tips\" Includes Digital Creators, Too",
       "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 16:20:55",
+      "https://news.ycombinator.com/item?id=45199931"
+    ],
+    [
+      "I didn't bring my son to a museum to look at screens",
+      "https://sethpurcell.com/writing/screens-in-museums/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-09-09, 05:16:23",
-      "https://news.ycombinator.com/item?id=45177683"
-    ],
-    [
-      "YouTube is a mysterious monopoly",
-      "https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 18:09:25",
       "https://news.ycombinator.com/item?id=45171733"
     ],
@@ -267,16 +277,6 @@
     [
       "Rendering flame fractals with a compute shader (2023)",
       "https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 08:37:42",
-      "https://news.ycombinator.com/item?id=45156480"
-    ],
-    [
-      "Memory Safety in ProcASM",
-      "https://temware.site/html/blogs/procasm_memory_safety.html"
     ]
   ],
   [
