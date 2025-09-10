@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-10, 19:35:07",
-      "https://news.ycombinator.com/item?id=45202537"
-    ],
-    [
-      "X Open Sourced Algorithm Code, So I analyzed it to learn how to grow on X",
-      "https://supabird.io/articles/how-to-grow-on-x-what-we-learned-from-their-algorithm-reveal"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 19:23:53",
       "https://news.ycombinator.com/item?id=45202421"
     ],
@@ -227,6 +217,16 @@
     [
       "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
       "https://github.com/juhovh/tailguard"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 02:59:48",
+      "https://news.ycombinator.com/item?id=45192655"
+    ],
+    [
+      "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+      "https://joshfonseca.com/blogs/animal-crossing-llm"
     ]
   ],
   [
