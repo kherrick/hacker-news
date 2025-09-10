@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 08:44:26](https://news.ycombinator.com/item?id=45194973) - [The Gaza family torn apart by IDF snipers from Chicago and Munich](https://www.theguardian.com/world/2025/sep/09/the-gaza-family-torn-apart-by-idf-snipers-from-chicago-and-munich)
 * [2025-09-10, 07:20:07](https://news.ycombinator.com/item?id=45194341) - [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
 * [2025-09-10, 07:00:55](https://news.ycombinator.com/item?id=45194223) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 * [2025-09-10, 07:00:23](https://news.ycombinator.com/item?id=45194218) - [Plex: Important Notice of Security Incident](https://forums.plex.tv/t/important-notice-of-security-incident/930523)
