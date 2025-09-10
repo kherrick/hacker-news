@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-09-10, 21:43:47",
-      "https://news.ycombinator.com/item?id=45204305"
-    ],
-    [
-      "Christie's Deletes Digital Art Department",
-      "https://news.artnet.com/market/christies-scraps-digital-art-department-2685784"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 21:21:36",
       "https://news.ycombinator.com/item?id=45203935"
     ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=45167757"
     ],
     [
-      "Picat: A Logic-based Multi-paradigm Language(2014) [pdf]",
+      "Picat: A Logic-based Multi-paradigm Language (2014) [pdf]",
       "https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Things you can do with a debugger but not with print debugging",
       "https://mahesh-hegde.github.io/posts/what_debugger_can/"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 06:49:20",
+      "https://news.ycombinator.com/item?id=45155963"
+    ],
+    [
+      "A polyglot's guide to multiple-dispatch",
+      "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/"
     ]
   ],
   [
