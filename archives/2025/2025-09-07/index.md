@@ -56,6 +56,7 @@
 * [2025-09-07, 09:52:56](https://news.ycombinator.com/item?id=45156826) - [What is the origin of the private network address 192.168.*.*?](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
 * [2025-09-07, 09:20:56](https://news.ycombinator.com/item?id=45156671) - [Cassette Logic: technology that never dies but is already dead](https://www.differentshelf.com/cassette-logic/)
 * [2025-09-07, 09:18:48](https://news.ycombinator.com/item?id=45156660) - [Nominees: The fastest legal way to lose your company](https://johnnydoe.is/threads/nominees-the-fastest-legal-way-to-lose-your-company.42278/)
+* [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
 * [2025-09-07, 07:12:04](https://news.ycombinator.com/item?id=45156067) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research)
 * [2025-09-07, 06:54:29](https://news.ycombinator.com/item?id=45155986) - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 * [2025-09-07, 06:39:25](https://news.ycombinator.com/item?id=45155916) - [Synthesizing Object-Oriented and Functional Design to Promote Re-Use](https://cs.brown.edu/~sk/Publications/Papers/Published/kff-synth-fp-oo/)
