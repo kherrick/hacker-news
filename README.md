@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-10, 14:33:57](https://news.ycombinator.com/item?id=45198322) - [Show HN: Ark v0.5.0 – A Minimal, High-Performance Entity Component System for Go](https://github.com/mlange-42/ark)
 * [2025-09-10, 13:17:25](https://news.ycombinator.com/item?id=45197187) - [Guy running a Google rival from his laundry room](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
 * [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
 * [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 12:00:59](https://news.ycombinator.com/item?id=45196433) - [Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
 * [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
-* [2025-09-10, 11:31:14](https://news.ycombinator.com/item?id=45196163) - [The subjective experience of coding in different programming languages (2023)](https://interconnected.org/home/2023/12/05/code)
 * [2025-09-10, 10:08:14](https://news.ycombinator.com/item?id=45195520) - [Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
+* [2025-09-10, 06:51:38](https://news.ycombinator.com/item?id=45194165) - [Children and young people's reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 * [2025-09-10, 02:02:17](https://news.ycombinator.com/item?id=45192194) - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 * [2025-09-10, 00:10:40](https://news.ycombinator.com/item?id=45191347) - [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
@@ -20,6 +19,7 @@
 * [2025-09-09, 15:11:26](https://news.ycombinator.com/item?id=45183029) - [We all dodged a bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 * [2025-09-09, 14:45:46](https://news.ycombinator.com/item?id=45182657) - [US High school students' scores fall in reading and math](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
 * [2025-09-09, 14:25:55](https://news.ycombinator.com/item?id=45182381) - [Claude now has access to a server-side container environment](https://www.anthropic.com/news/create-files)
+* [2025-09-09, 13:16:30](https://news.ycombinator.com/item?id=45181535) - [Show HN: Run any GUI app in the terminal with term.everything](https://github.com/mmulet/term.everything)
 * [2025-09-09, 05:16:23](https://news.ycombinator.com/item?id=45177683) - [YouTube is a mysterious monopoly](https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly)
 * [2025-09-08, 18:09:25](https://news.ycombinator.com/item?id=45171733) - [All clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/)
 * [2025-09-08, 00:01:16](https://news.ycombinator.com/item?id=45163417) - [Rendering flame fractals with a compute shader (2023)](https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader)
@@ -29,7 +29,7 @@
 * [2025-09-07, 10:56:41](https://news.ycombinator.com/item?id=45157094) - [PKM apps need to get better at resurfacing information](https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/)
 * [2025-09-07, 06:19:52](https://news.ycombinator.com/item?id=45155846) - [Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps](https://crates.io/crates/crabcamera)
 * [2025-09-07, 00:25:00](https://news.ycombinator.com/item?id=45154142) - [Axial twist theory](https://en.wikipedia.org/wiki/Axial_twist_theory)
-* [2025-09-07, 00:15:59](https://news.ycombinator.com/item?id=45154088) - [Knowledge and Memory](https://www.robinsloan.com/lab/knowledge-and-memory/)
+* [2025-09-07, 00:15:59](https://news.ycombinator.com/item?id=45154088) - [Knowledge and memory](https://www.robinsloan.com/lab/knowledge-and-memory/)
 
 ## [Archives](archives/index.md)
 
