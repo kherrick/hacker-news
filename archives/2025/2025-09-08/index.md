@@ -25,6 +25,7 @@
 * [2025-09-08, 18:57:57](https://news.ycombinator.com/item?id=45172337) - [Setting up a home VPN server with WireGuard](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 * [2025-09-08, 18:56:56](https://news.ycombinator.com/item?id=45172319) - [\"The fact is that today, the open web is already in rapid decline\"–Google [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.vaed.533508/gov.uscourts.vaed.533508.1664.0.pdf)
 * [2025-09-08, 18:54:01](https://news.ycombinator.com/item?id=45172270) - [The Job Market Is Hell](https://www.theatlantic.com/ideas/archive/2025/09/job-market-hell/684133/)
+* [2025-09-08, 18:36:46](https://news.ycombinator.com/item?id=45172058) - [The HackberryPi CM5 handheld computer](https://github.com/ZitaoTech/HackberryPiCM5)
 * [2025-09-08, 18:09:25](https://news.ycombinator.com/item?id=45171733) - [All 54 lost clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/)
 * [2025-09-08, 17:48:15](https://news.ycombinator.com/item?id=45171418) - [America is in a serious jobs slump](https://www.cnn.com/2025/09/03/economy/us-jolts-job-openings-layoffs-july)
 * [2025-09-08, 17:44:52](https://news.ycombinator.com/item?id=45171361) - [Escaping the Internet](https://www.ryanckulp.com/escaping-the-internet/)

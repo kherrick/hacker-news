@@ -13,6 +13,7 @@
 * [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
 * [2025-09-10, 15:31:27](https://news.ycombinator.com/item?id=45199191) - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
+* [2025-09-10, 14:42:15](https://news.ycombinator.com/item?id=45198481) - [Jiratui – A Textual UI for interacting with Atlassian Jira from your shell](https://jiratui.sh/)
 * [2025-09-10, 14:38:59](https://news.ycombinator.com/item?id=45198420) - [The Scam Called \"You Don't Have to Remember Anything\"](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
 * [2025-09-10, 14:33:57](https://news.ycombinator.com/item?id=45198322) - [Show HN: Ark v0.5.0 – A Minimal, High-Performance Entity Component System for Go](https://github.com/mlange-42/ark)
 * [2025-09-10, 14:15:57](https://news.ycombinator.com/item?id=45198033) - [Homeowners insurance is pricing people out in disaster-prone cities](https://www.accuweather.com/en/weather-news/homeowners-insurance-is-pricing-people-out-in-disaster-prone-cities/1813821)
