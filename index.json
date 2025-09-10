@@ -51,32 +51,12 @@
   ],
   [
     [
-      "2025-09-10, 18:45:49",
-      "https://news.ycombinator.com/item?id=45201988"
-    ],
-    [
-      "Rayhunter: IMSI Catchers We Have Found So Far",
-      "https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 18:21:12",
       "https://news.ycombinator.com/item?id=45201703"
     ],
     [
       "Show HN: Haystack – Review pull requests like you wrote them yourself",
       "https://haystackeditor.com"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 18:03:35",
-      "https://news.ycombinator.com/item?id=45201474"
-    ],
-    [
-      "Insufficiently sanitized data allows unauthenticated access to FreePBX Admin",
-      "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/"
     ]
   ],
   [
@@ -97,6 +77,16 @@
     [
       "Defeating Nondeterminism in LLM Inference",
       "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 16:26:07",
+      "https://news.ycombinator.com/item?id=45200024"
+    ],
+    [
+      "\"No Tax on Tips\" Includes Digital Creators, Too",
+      "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
+      "2025-09-10, 10:08:14",
+      "https://news.ycombinator.com/item?id=45195520"
+    ],
+    [
+      "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+      "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 03:42:55",
       "https://news.ycombinator.com/item?id=45192963"
     ],
     [
       "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
       "https://github.com/juhovh/tailguard"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 02:59:48",
-      "https://news.ycombinator.com/item?id=45192655"
-    ],
-    [
-      "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
-      "https://joshfonseca.com/blogs/animal-crossing-llm"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Things you can do with a debugger but not with print debugging",
       "https://mahesh-hegde.github.io/posts/what_debugger_can/"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 05:49:29",
+      "https://news.ycombinator.com/item?id=45155731"
+    ],
+    [
+      "Longhorn – A Kubernetes-Native Filesystem",
+      "https://vegard.blog.engen.priv.no/?p=518"
     ]
   ]
 ]
