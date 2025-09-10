@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 18:15:14](https://news.ycombinator.com/item?id=45201637) - [Google Doesn't Rank My Site for My Own Brand Name](https://news.ycombinator.com/item?id=45201637)
 * [2025-09-10, 18:14:18](https://news.ycombinator.com/item?id=45201622) - [AI negotiator successfully haggles down the price of a car thousands of dollars](https://fortune.com/2025/09/10/this-30-year-old-ceo-says-his-ai-negotiator-can-successfully-haggle-down-the-price-of-a-car-by-thousands-of-dollars/)
 * [2025-09-10, 18:03:35](https://news.ycombinator.com/item?id=45201474) - [You Already Have Our Data, Take Our Phone Calls Too (FreePBX CVE-2025-57819)](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
 * [2025-09-10, 17:56:18](https://news.ycombinator.com/item?id=45201372) - [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/)
@@ -16,6 +17,7 @@
 * [2025-09-10, 16:20:55](https://news.ycombinator.com/item?id=45199931) - [I didn't bring my son to a museum to look at screens](https://sethpurcell.com/writing/screens-in-museums/)
 * [2025-09-10, 16:08:39](https://news.ycombinator.com/item?id=45199760) - [TikTok won. Now everything is 60 seconds](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
 * [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode](https://platform.openai.com/docs/guides/developer-mode)
+* [2025-09-10, 16:00:06](https://news.ycombinator.com/item?id=45199648) - [Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts](https://news.ycombinator.com/item?id=45199648)
 * [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
 * [2025-09-10, 15:31:27](https://news.ycombinator.com/item?id=45199191) - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
