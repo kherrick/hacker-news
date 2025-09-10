@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-10, 21:49:36](https://news.ycombinator.com/item?id=45204393) - [KDE launches its own distribution (again)](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+* [2025-09-10, 22:21:35](https://news.ycombinator.com/item?id=45204838) - [Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
+* [2025-09-10, 21:49:36](https://news.ycombinator.com/item?id=45204393) - [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
 * [2025-09-10, 21:43:47](https://news.ycombinator.com/item?id=45204305) - [Christie's Deletes Digital Art Department](https://news.artnet.com/market/christies-scraps-digital-art-department-2685784)
+* [2025-09-10, 21:21:36](https://news.ycombinator.com/item?id=45203935) - [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
 * [2025-09-10, 21:01:01](https://news.ycombinator.com/item?id=45203643) - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
 * [2025-09-10, 20:59:24](https://news.ycombinator.com/item?id=45203617) - [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com)
 * [2025-09-10, 19:23:53](https://news.ycombinator.com/item?id=45202421) - [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
@@ -11,7 +13,6 @@
 * [2025-09-10, 17:26:08](https://news.ycombinator.com/item?id=45200925) - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 * [2025-09-10, 16:26:07](https://news.ycombinator.com/item?id=45200024) - [\"No Tax on Tips\" Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/)
 * [2025-09-10, 16:20:55](https://news.ycombinator.com/item?id=45199931) - [I didn't bring my son to a museum to look at screens](https://sethpurcell.com/writing/screens-in-museums/)
-* [2025-09-10, 16:08:39](https://news.ycombinator.com/item?id=45199760) - [TikTok has turned culture into a feedback loop of impulse and machine learning](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
 * [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode: Full MCP client access](https://platform.openai.com/docs/guides/developer-mode)
 * [2025-09-10, 16:00:06](https://news.ycombinator.com/item?id=45199648) - [Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts](https://news.ycombinator.com/item?id=45199648)
 * [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The origin story of merge queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
@@ -27,7 +28,6 @@
 * [2025-09-08, 13:04:47](https://news.ycombinator.com/item?id=45167757) - [Picat: A Logic-based Multi-paradigm Language(2014) [pdf]](https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf)
 * [2025-09-08, 01:46:14](https://news.ycombinator.com/item?id=45163998) - [Harvey Mudd Miniature Machine](https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html)
 * [2025-09-07, 19:31:50](https://news.ycombinator.com/item?id=45161410) - [Clojure's Solutions to the Expression Problem](https://www.infoq.com/presentations/Clojure-Expression-Problem/)
-* [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks (2017)](https://sembr.org)
 * [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
 * [2025-09-07, 05:49:29](https://news.ycombinator.com/item?id=45155731) - [Longhorn – A Kubernetes-Native Filesystem](https://vegard.blog.engen.priv.no/?p=518)
 
