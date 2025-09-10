@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-09-10, 07:20:07",
-      "https://news.ycombinator.com/item?id=45194341"
-    ],
-    [
-      "News: Arm announces next Generation core family called Arm Lumex",
-      "https://www.phoronix.com/news/Arm-Lumex-Platform-C1"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 07:00:55",
       "https://news.ycombinator.com/item?id=45194223"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-09-09, 08:46:53",
+      "https://news.ycombinator.com/item?id=45179304"
+    ],
+    [
+      "Anthropic judge rejects $1.5B AI copyright settlement",
+      "https://news.bloomberglaw.com/ip-law/anthropic-judge-blasts-copyright-pact-as-nowhere-close-to-done"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 05:16:23",
       "https://news.ycombinator.com/item?id=45177683"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-09-07, 09:20:56",
-      "https://news.ycombinator.com/item?id=45156671"
-    ],
-    [
-      "Cassette Logic: technology that never dies but is already dead",
-      "https://www.differentshelf.com/cassette-logic/"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 00:25:00",
       "https://news.ycombinator.com/item?id=45154142"
     ],
@@ -297,6 +287,16 @@
     [
       "How to study people who are drunk",
       "https://www.economist.com/science-and-technology/2025/09/03/how-to-study-people-who-are-very-drunk"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 14:51:31",
+      "https://news.ycombinator.com/item?id=45149777"
+    ],
+    [
+      "Show HN: Downloading a folder from a repo using rust",
+      "https://github.com/zikani03/git-down"
     ]
   ]
 ]
