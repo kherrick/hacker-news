@@ -19,7 +19,7 @@
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox robotaxi launches in Las Vegas](https://zoox.com/journal/las-vegas)
 * [2025-09-10, 14:42:15](https://news.ycombinator.com/item?id=45198481) - [Jiratui – A Textual UI for interacting with Atlassian Jira from your shell](https://jiratui.sh/)
 * [2025-09-10, 14:38:59](https://news.ycombinator.com/item?id=45198420) - [We can’t circumvent the work needed to train our minds](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
-* [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
+* [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap is cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
 * [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
 * [2025-09-10, 03:42:55](https://news.ycombinator.com/item?id=45192963) - [Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container](https://github.com/juhovh/tailguard)
