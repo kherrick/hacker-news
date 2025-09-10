@@ -54,6 +54,7 @@
 * [2025-09-07, 11:09:43](https://news.ycombinator.com/item?id=45157161) - [Show HN: An Open Source XR(AR/VR) Operating System](https://www.getxeneva.com/)
 * [2025-09-07, 11:06:11](https://news.ycombinator.com/item?id=45157142) - [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/)
 * [2025-09-07, 11:00:03](https://news.ycombinator.com/item?id=45157110) - [Serverless Horrors](https://serverlesshorrors.com/)
+* [2025-09-07, 10:56:41](https://news.ycombinator.com/item?id=45157094) - [PKM apps need to get better at resurfacing information](https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/)
 * [2025-09-07, 10:38:29](https://news.ycombinator.com/item?id=45157020) - [Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app](https://molecheck.info/)
 * [2025-09-07, 09:52:56](https://news.ycombinator.com/item?id=45156826) - [What is the origin of the private network address 192.168.*.*?](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
 * [2025-09-07, 09:20:56](https://news.ycombinator.com/item?id=45156671) - [Cassette Logic: technology that never dies but is already dead](https://www.differentshelf.com/cassette-logic/)
