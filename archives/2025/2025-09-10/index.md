@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 12:00:59](https://news.ycombinator.com/item?id=45196433) - [Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
 * [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
 * [2025-09-10, 10:20:37](https://news.ycombinator.com/item?id=45195624) - [Radar footage shows Hellfire missile fired by US Military bounce off UFO](https://nypost.com/2025/09/09/us-news/shocking-radar-footage-shows-hellfire-missile-fired-by-us-military-directly-hit-ufo-over-ocean/)
 * [2025-09-10, 10:11:45](https://news.ycombinator.com/item?id=45195543) - [My Workflow Is 70% AI, 20% Copy-Paste, 10% Panic. What's Yours?](https://news.ycombinator.com/item?id=45195543)
