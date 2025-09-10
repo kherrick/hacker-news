@@ -129,6 +129,94 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45202252">
+          <h3>
+            <a class="item" href="https://github.com/SuperCuber/dotter"
+              >Dotter: Dotfile manager and templater written in Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-10 @ 19:08:05</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45202252"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45202233">
+          <h3>
+            <a
+              class="item"
+              href="https://sreenathmenon.com/blog/2025-09-04-stopped-alt-tabbing-chatgpt-while-coding/"
+              >Show HN: Llmswap – Universal AI SDK and Code Generation CLI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-10 @ 19:04:54</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45202233"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Now I just type: llmswap generate "command I need"</p>
+              <p>Real examples that save hours:</p>
+              <p>Site emergency - needed to debug compressed logs:</p>
+              <p>
+                llmswap generate "grep through gzipped nginx logs for errors"
+              </p>
+              <p>Got: zgrep -i "error\|fail" /var/log/nginx/*.gz | head -50</p>
+              <p>That regex everyone googles:</p>
+              <p>llmswap generate "extract all IP addresses from log file"</p>
+              <p>
+                Got: grep -oE '([0-9]{1,3}\.){3}[0-9]{1,3}' access.log | sort |
+                uniq -c
+              </p>
+              <p>Complex configs? No problem:</p>
+              <p>
+                llmswap generate "docker compose for Prometheus Grafana
+                monitoring" &gt; stack.yml
+              </p>
+              <p>80 lines of production-ready YAML.</p>
+              <p>The killer feature - works INSIDE vim:</p>
+              <p>
+                :r !llmswap generate "MongoDB create user with read/write
+                access"
+              </p>
+              <p>
+                Got:
+                db.createUser({user:"appuser",pwd:"password",roles:[{role:"readWrite",db:"myapp"}]})
+              </p>
+              <p>Code appears at cursor. No browser. No copy-paste.</p>
+              <p>
+                Supports 8 providers (OpenAI, Claude, Gemini, Groq, IBM Watson,
+                Ollama, etc). Use whatever API keys you already have. No
+                additional subscriptions.
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/sreenathmmenon/llmswap"
+                  >https://github.com/sreenathmmenon/llmswap</a
+                >
+              </p>
+              <p>
+                PyPI:
+                <a href="https://pypi.org/project/llmswap/"
+                  >https://pypi.org/project/llmswap/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45201988">
           <h3>
             <a
@@ -141,13 +229,111 @@
             <h4>
               <span>2025-09-10 @ 18:45:49</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45201988"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="45201703">
+          <h3>
+            <a class="item" href="https://haystackeditor.com"
+              >Show HN: Haystack – Review pull requests like you wrote them
+              yourself</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-10 @ 18:21:12</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45201703"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We’re Akshay and Jake. We put together a tool called Haystack to
+                make pull requests straightforward to read.
+              </p>
+              <p>What Haystack does:</p>
+              <p>
+                -- Builds a clear narrative. Changes in Haystack aren’t just
+                arranged as unordered diffs. Instead, they unfold in a logical
+                order, each paired with an explanation in plain, precise
+                language
+              </p>
+              <p>
+                -- Focuses attention where it counts. Routine plumbing and
+                refactors are put into skimmable sections so you can spend your
+                time on design and correctness
+              </p>
+              <p>
+                -- Provides full cross-file context. Every new or changed
+                function/variable is traced across the codebase, showing how
+                it’s used beyond the immediate diff
+              </p>
+              <p>
+                Here’s a quick demo:
+                <a href="https://youtu.be/w5Lq5wBUS-I"
+                  >https://youtu.be/w5Lq5wBUS-I</a
+                >
+              </p>
+              <p>
+                If you’d like to give it a spin, head over to
+                haystackeditor.com/review! We set up some demo PRs that you
+                should be able to understand and review even if you’ve never
+                seen the repos before!
+              </p>
+              <p>
+                We used to work at big companies, where reviewing non-trivial
+                pull requests felt like reading a book with its pages out of
+                order. We would jump and scroll between files, trying to piece
+                together the author’s intent before we could even start
+                reviewing. And, as authors, we would spend time to restructure
+                our own commits just to make them readable. AI has made this
+                even trickier. Today it’s not uncommon for a pull request to
+                contain code the author doesn’t fully understand themselves!
+              </p>
+              <p>
+                So, we built Haystack to help reviewers spend less time
+                untangling code and more time giving meaningful feedback. We
+                would love to hear about whether it gets the job done for you!
+              </p>
+              <p>How we got here:</p>
+              <p>
+                Haystack began as (yet another) VS Code fork where we
+                experimented with visualizing code changes on a canvas. At
+                first, it was a neat way to show how pieces of code worked
+                together. But customers started laying out their entire codebase
+                just to make sense of it. That’s when we realized the deeper
+                problem: understanding a codebase is hard, and engineers need
+                better ways to quickly understand unfamiliar code.
+              </p>
+              <p>
+                As we kept building, another insight emerged: with AI woven into
+                workflows, engineers don’t always need to master every corner of
+                a codebase to ship features. But in code review, deep and
+                continuous context still matters, especially to separate what’s
+                important to review from plumbing and follow-on changes.
+              </p>
+              <p>
+                So we pivoted. We took what we’d learned and worked closely with
+                engineers to refine the idea. We started with simple code
+                analysis (using language servers, tree-sitter, etc.) to show how
+                changes relate. Then we added AI to explain and organize those
+                changes and to trace how data moves through a pull request.
+                Finally, we fused the two by empowering AI agents to use static
+                analyses. Step by step, that became the Haystack we’re showing
+                today.
+              </p>
+              <p>We’d love to hear your thoughts, feedback, or suggestions!</p>
+            </div>
           </section>
         </section>
         <section id="45201474">
@@ -163,11 +349,11 @@
             <h4>
               <span>2025-09-10 @ 18:03:35</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45201474"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -184,11 +370,11 @@
             <h4>
               <span>2025-09-10 @ 17:56:18</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45201372"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -205,11 +391,11 @@
             <h4>
               <span>2025-09-10 @ 17:26:08</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45200925"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -231,28 +417,6 @@
             </h4>
           </section>
         </section>
-        <section id="45200357">
-          <h3>
-            <a
-              class="item"
-              href="https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/"
-              >'Block Everything' protests sweep across France, scores
-              arrested</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-10 @ 16:44:53</span
-              ><span class="points-container"
-                >Points: <span class="points">91</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45200357"
-                  >Comments</a
-                ><span class="descendants">: 102</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="45200118">
           <h3>
             <a
@@ -265,11 +429,11 @@
             <h4>
               <span>2025-09-10 @ 16:31:34</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45200118"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -307,11 +471,11 @@
             <h4>
               <span>2025-09-10 @ 16:20:55</span
               ><span class="points-container"
-                >Points: <span class="points">450</span></span
+                >Points: <span class="points">467</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45199931"
                   >Comments</a
-                ><span class="descendants">: 179</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
           </section>
@@ -329,7 +493,7 @@
             <h4>
               <span>2025-09-10 @ 16:08:39</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45199760"
                   >Comments</a
@@ -350,11 +514,11 @@
             <h4>
               <span>2025-09-10 @ 16:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45199713"
                   >Comments</a
-                ><span class="descendants">: 116</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -370,7 +534,7 @@
             <h4>
               <span>2025-09-10 @ 16:00:06</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45199648"
                   >Comments</a
@@ -505,11 +669,11 @@
             <h4>
               <span>2025-09-10 @ 15:43:43</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45199378"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -524,7 +688,7 @@
             <h4>
               <span>2025-09-10 @ 15:18:12</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45199031"
                   >Comments</a
@@ -544,11 +708,11 @@
             <h4>
               <span>2025-09-10 @ 14:42:15</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45198481"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -565,32 +729,11 @@
             <h4>
               <span>2025-09-10 @ 14:38:59</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">262</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45198420"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45197187">
-          <h3>
-            <a
-              class="item"
-              href="https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines"
-              >Guy running a Google rival from his laundry room</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-10 @ 13:17:25</span
-              ><span class="points-container"
-                >Points: <span class="points">192</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45197187"
-                  >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -607,11 +750,11 @@
             <h4>
               <span>2025-09-10 @ 12:17:45</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45196568"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -628,7 +771,7 @@
             <h4>
               <span>2025-09-10 @ 12:01:30</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45196437"
                   >Comments</a
@@ -650,7 +793,7 @@
             <h4>
               <span>2025-09-10 @ 11:31:55</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">304</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45196173"
                   >Comments</a
@@ -670,7 +813,7 @@
             <h4>
               <span>2025-09-10 @ 03:42:55</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45192963"
                   >Comments</a
@@ -716,7 +859,7 @@
             <h4>
               <span>2025-09-10 @ 02:59:48</span
               ><span class="points-container"
-                >Points: <span class="points">782</span></span
+                >Points: <span class="points">784</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45192655"
                   >Comments</a
@@ -730,28 +873,6 @@
             </div>
           </section>
         </section>
-        <section id="45191347">
-          <h3>
-            <a
-              class="item"
-              href="https://www.sciencedaily.com/releases/2025/08/250831112449.htm"
-              >NASA finds Titan's lakes may be creating vesicles with primitive
-              cell walls</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-10 @ 00:10:40</span
-              ><span class="points-container"
-                >Points: <span class="points">262</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45191347"
-                  >Comments</a
-                ><span class="descendants">: 98</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="45181535">
           <h3>
             <a class="item" href="https://github.com/mmulet/term.everything"
@@ -762,11 +883,11 @@
             <h4>
               <span>2025-09-09 @ 13:16:30</span
               ><span class="points-container"
-                >Points: <span class="points">373</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45181535"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
             <div class="text">
@@ -806,7 +927,7 @@
             <h4>
               <span>2025-09-08 @ 18:36:46</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45172058"
                   >Comments</a
@@ -848,9 +969,30 @@
             <h4>
               <span>2025-09-08 @ 08:06:39</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45165749"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45163998">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html"
+              >Harvey Mudd Miniature Machine</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-08 @ 01:46:14</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45163998"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
               >
@@ -867,7 +1009,7 @@
             <h4>
               <span>2025-09-07 @ 12:14:41</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45157505"
                   >Comments</a
@@ -888,32 +1030,11 @@
             <h4>
               <span>2025-09-07 @ 08:22:54</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45156414"
                   >Comments</a
                 ><span class="descendants">: 175</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45154088">
-          <h3>
-            <a
-              class="item"
-              href="https://www.robinsloan.com/lab/knowledge-and-memory/"
-              >Knowledge and memory</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-07 @ 00:15:59</span
-              ><span class="points-container"
-                >Points: <span class="points">88</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45154088"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
