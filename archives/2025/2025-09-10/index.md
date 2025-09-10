@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 18:45:49](https://news.ycombinator.com/item?id=45201988) - [Rayhunter: IMSI Catchers We Have Found So Far](https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far)
 * [2025-09-10, 18:15:14](https://news.ycombinator.com/item?id=45201637) - [Google Doesn't Rank My Site for My Own Brand Name](https://news.ycombinator.com/item?id=45201637)
 * [2025-09-10, 18:14:18](https://news.ycombinator.com/item?id=45201622) - [AI negotiator successfully haggles down the price of a car thousands of dollars](https://fortune.com/2025/09/10/this-30-year-old-ceo-says-his-ai-negotiator-can-successfully-haggle-down-the-price-of-a-car-by-thousands-of-dollars/)
 * [2025-09-10, 18:03:35](https://news.ycombinator.com/item?id=45201474) - [You Already Have Our Data, Take Our Phone Calls Too (FreePBX CVE-2025-57819)](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)

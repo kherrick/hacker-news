@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-10, 18:15:14](https://news.ycombinator.com/item?id=45201637) - [Google Doesn't Rank My Site for My Own Brand Name](https://news.ycombinator.com/item?id=45201637)
+* [2025-09-10, 18:45:49](https://news.ycombinator.com/item?id=45201988) - [Rayhunter: IMSI Catchers We Have Found So Far](https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far)
 * [2025-09-10, 18:03:35](https://news.ycombinator.com/item?id=45201474) - [Insufficiently sanitized data allows unauthenticated access to FreePBX Admin](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
 * [2025-09-10, 17:56:18](https://news.ycombinator.com/item?id=45201372) - [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/)
 * [2025-09-10, 17:26:08](https://news.ycombinator.com/item?id=45200925) - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
@@ -29,7 +29,7 @@
 * [2025-09-08, 08:06:39](https://news.ycombinator.com/item?id=45165749) - [CPU Utilization is Wrong (2017)](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 * [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks (2017)](https://sembr.org)
 * [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
-* [2025-09-07, 06:19:52](https://news.ycombinator.com/item?id=45155846) - [Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps](https://crates.io/crates/crabcamera)
+* [2025-09-07, 00:15:59](https://news.ycombinator.com/item?id=45154088) - [Knowledge and memory](https://www.robinsloan.com/lab/knowledge-and-memory/)
 
 ## [Archives](archives/index.md)
 
