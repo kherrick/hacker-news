@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-10, 16:26:07",
+      "https://news.ycombinator.com/item?id=45200024"
+    ],
+    [
+      "\"No Tax on Tips\" Includes Digital Creators, Too",
+      "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 16:08:39",
+      "https://news.ycombinator.com/item?id=45199760"
+    ],
+    [
+      "TikTok won. Now everything is 60 seconds",
+      "https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 16:04:49",
+      "https://news.ycombinator.com/item?id=45199713"
+    ],
+    [
+      "ChatGPT Developer Mode",
+      "https://platform.openai.com/docs/guides/developer-mode"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 15:43:43",
       "https://news.ycombinator.com/item?id=45199378"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-09-10, 06:51:38",
-      "https://news.ycombinator.com/item?id=45194165"
-    ],
-    [
-      "Children and young people's reading in 2025",
-      "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 03:42:55",
       "https://news.ycombinator.com/item?id=45192963"
     ],
@@ -147,16 +167,6 @@
     [
       "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
       "https://www.sciencedaily.com/releases/2025/08/250831112449.htm"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 18:25:03",
-      "https://news.ycombinator.com/item?id=45186265"
-    ],
-    [
-      "Memory Integrity Enforcement",
-      "https://security.apple.com/blog/memory-integrity-enforcement/"
     ]
   ],
   [
@@ -241,22 +251,22 @@
   ],
   [
     [
+      "2025-09-08, 10:36:17",
+      "https://news.ycombinator.com/item?id=45166655"
+    ],
+    [
+      "Distributing your own scripts via Homebrew",
+      "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 00:01:16",
       "https://news.ycombinator.com/item?id=45163417"
     ],
     [
       "Rendering flame fractals with a compute shader (2023)",
       "https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 10:56:41",
-      "https://news.ycombinator.com/item?id=45157094"
-    ],
-    [
-      "PKM apps need to get better at resurfacing information",
-      "https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps",
       "https://crates.io/crates/crabcamera"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 00:25:00",
-      "https://news.ycombinator.com/item?id=45154142"
-    ],
-    [
-      "Axial twist theory",
-      "https://en.wikipedia.org/wiki/Axial_twist_theory"
     ]
   ],
   [
