@@ -60,6 +60,7 @@
 * [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
 * [2025-09-07, 07:12:04](https://news.ycombinator.com/item?id=45156067) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research)
 * [2025-09-07, 06:54:29](https://news.ycombinator.com/item?id=45155986) - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
+* [2025-09-07, 06:43:42](https://news.ycombinator.com/item?id=45155937) - [How We Built Our lakeFS Iceberg Catalog](https://lakefs.io/blog/how-we-built-lakefs-iceberg-catalog/)
 * [2025-09-07, 06:39:25](https://news.ycombinator.com/item?id=45155916) - [Synthesizing Object-Oriented and Functional Design to Promote Re-Use](https://cs.brown.edu/~sk/Publications/Papers/Published/kff-synth-fp-oo/)
 * [2025-09-07, 06:28:04](https://news.ycombinator.com/item?id=45155877) - [The Expression Problem and its solutions](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/)
 * [2025-09-07, 05:38:30](https://news.ycombinator.com/item?id=45155682) - [The \"impossibly small\" Microdot web framework](https://lwn.net/Articles/1034121/)
