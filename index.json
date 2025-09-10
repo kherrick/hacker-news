@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-10, 18:14:18",
+      "https://news.ycombinator.com/item?id=45201622"
+    ],
+    [
+      "AI negotiator successfully haggles down the price of a car thousands of dollars",
+      "https://fortune.com/2025/09/10/this-30-year-old-ceo-says-his-ai-negotiator-can-successfully-haggle-down-the-price-of-a-car-by-thousands-of-dollars/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 18:03:35",
+      "https://news.ycombinator.com/item?id=45201474"
+    ],
+    [
+      "You Already Have Our Data, Take Our Phone Calls Too (FreePBX CVE-2025-57819)",
+      "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 17:56:18",
+      "https://news.ycombinator.com/item?id=45201372"
+    ],
+    [
+      "Delphi 13 Florence Released",
+      "https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 17:26:08",
       "https://news.ycombinator.com/item?id=45200925"
     ],
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45199713"
     ],
     [
-      "ChatGPT Developer Mode",
+      "ChatGPT Developer Mode: Full MCP client access",
       "https://platform.openai.com/docs/guides/developer-mode"
     ]
   ],
@@ -191,46 +221,6 @@
   ],
   [
     [
-      "2025-09-09, 18:12:51",
-      "https://news.ycombinator.com/item?id=45186015"
-    ],
-    [
-      "iPhone Air",
-      "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 17:57:35",
-      "https://news.ycombinator.com/item?id=45185756"
-    ],
-    [
-      "E-paper display reaches the realm of LCD screens",
-      "https://spectrum.ieee.org/e-paper-display-modos"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 14:45:46",
-      "https://news.ycombinator.com/item?id=45182657"
-    ],
-    [
-      "US High school students' scores fall in reading and math",
-      "https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 14:25:55",
-      "https://news.ycombinator.com/item?id=45182381"
-    ],
-    [
-      "Claude now has access to a server-side container environment",
-      "https://www.anthropic.com/news/create-files"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 13:16:30",
       "https://news.ycombinator.com/item?id=45181535"
     ],
@@ -267,6 +257,16 @@
     [
       "Distributing your own scripts via Homebrew",
       "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 08:06:39",
+      "https://news.ycombinator.com/item?id=45165749"
+    ],
+    [
+      "CPU Utilization is Wrong (2017)",
+      "https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html"
     ]
   ],
   [
