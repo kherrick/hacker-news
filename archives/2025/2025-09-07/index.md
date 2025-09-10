@@ -21,6 +21,7 @@
 * [2025-09-07, 20:11:06](https://news.ycombinator.com/item?id=45161702) - [How did Tether profit $13B in 2024 from USDT?](https://antongolub.substack.com/p/how-did-tether-profit-13-billion)
 * [2025-09-07, 19:59:35](https://news.ycombinator.com/item?id=45161618) - [Just How Bad Would an AI Bubble Be?](https://www.theatlantic.com/economy/archive/2025/09/ai-bubble-us-economy/684128/)
 * [2025-09-07, 19:53:03](https://news.ycombinator.com/item?id=45161556) - [No Silver Bullet: Essence and Accidents of Software Engineering [pdf]](https://www.cs.unc.edu/techreports/86-020.pdf)
+* [2025-09-07, 19:31:50](https://news.ycombinator.com/item?id=45161410) - [Clojure's Solutions to the Expression Problem](https://www.infoq.com/presentations/Clojure-Expression-Problem/)
 * [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
 * [2025-09-07, 18:50:03](https://news.ycombinator.com/item?id=45161055) - [Electric bill may be paying for big data centers' energy use](https://theconversation.com/how-your-electric-bill-may-be-paying-for-big-data-centers-energy-use-257794)
 * [2025-09-07, 18:17:29](https://news.ycombinator.com/item?id=45160780) - [Submarine Cable Map](https://www.submarinecablemap.com/)
