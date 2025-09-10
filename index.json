@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-10, 12:17:45",
+      "https://news.ycombinator.com/item?id=45196568"
+    ],
+    [
+      "Tarsnap Is Cozy",
+      "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 12:01:30",
+      "https://news.ycombinator.com/item?id=45196437"
+    ],
+    [
+      "Kerberoasting",
+      "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 12:00:59",
       "https://news.ycombinator.com/item?id=45196433"
     ],
@@ -17,6 +37,16 @@
     [
       "Supabase OrioleDB Patent: now freely available to the Postgres community",
       "https://supabase.com/blog/orioledb-patent-free"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 11:31:14",
+      "https://news.ycombinator.com/item?id=45196163"
+    ],
+    [
+      "The subjective experience of coding in different programming languages",
+      "https://interconnected.org/home/2023/12/05/code"
     ]
   ],
   [
@@ -127,16 +157,6 @@
     [
       "E-paper display reaches the realm of LCD screens",
       "https://spectrum.ieee.org/e-paper-display-modos"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 16:31:17",
-      "https://news.ycombinator.com/item?id=45184432"
-    ],
-    [
-      "Microsoft is officially sending employees back to the office",
-      "https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Knowledge and Memory",
       "https://www.robinsloan.com/lab/knowledge-and-memory/"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 22:15:28",
-      "https://news.ycombinator.com/item?id=45153380"
-    ],
-    [
-      "Interesting PEZY-SC4s",
-      "https://chipsandcheese.com/p/pezy-sc4s-at-hot-chips-2025"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 14:51:31",
-      "https://news.ycombinator.com/item?id=45149777"
-    ],
-    [
-      "Show HN: Downloading a folder from a repo using rust",
-      "https://github.com/zikani03/git-down"
     ]
   ]
 ]
