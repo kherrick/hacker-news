@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
 * [2025-09-10, 14:33:57](https://news.ycombinator.com/item?id=45198322) - [Show HN: Ark v0.5.0 – A Minimal, High-Performance Entity Component System for Go](https://github.com/mlange-42/ark)
 * [2025-09-10, 14:15:57](https://news.ycombinator.com/item?id=45198033) - [Homeowners insurance is pricing people out in disaster-prone cities](https://www.accuweather.com/en/weather-news/homeowners-insurance-is-pricing-people-out-in-disaster-prone-cities/1813821)
+* [2025-09-10, 13:46:02](https://news.ycombinator.com/item?id=45197608) - [Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)
 * [2025-09-10, 13:45:27](https://news.ycombinator.com/item?id=45197599) - [Leaked Ice document shows worker detained in Hyundai raid had valid visa](https://www.theguardian.com/us-news/2025/sep/10/hyundai-factory-ice-raid-legal-visa)
 * [2025-09-10, 13:17:25](https://news.ycombinator.com/item?id=45197187) - [Guy is running a Google rival from his laundry room](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
 * [2025-09-10, 13:08:09](https://news.ycombinator.com/item?id=45197066) - [Windows 10 resists its end: usage share climbs while Windows 11's falls](https://www.ghacks.net/2025/09/10/windows-10-resists-its-end-usage-share-climbs-while-windows-11s-falls/)
@@ -24,6 +26,7 @@
 * [2025-09-10, 07:00:23](https://news.ycombinator.com/item?id=45194218) - [Plex: Important Notice of Security Incident](https://forums.plex.tv/t/important-notice-of-security-incident/930523)
 * [2025-09-10, 06:51:38](https://news.ycombinator.com/item?id=45194165) - [Children and young people's reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
 * [2025-09-10, 04:48:15](https://news.ycombinator.com/item?id=45193410) - [Defense.gov Now Redirects to War.gov](https://defense.gov)
+* [2025-09-10, 03:42:55](https://news.ycombinator.com/item?id=45192963) - [Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container](https://github.com/juhovh/tailguard)
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 * [2025-09-10, 02:02:17](https://news.ycombinator.com/item?id=45192194) - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 * [2025-09-10, 01:17:28](https://news.ycombinator.com/item?id=45191859) - [Outraged Farmers Blame Ag Monopolies as Catastrophic Collapse Looms](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
