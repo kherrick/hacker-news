@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-10, 10:20:37](https://news.ycombinator.com/item?id=45195624) - [Radar footage shows Hellfire missile fired by US Military bounce off UFO](https://nypost.com/2025/09/09/us-news/shocking-radar-footage-shows-hellfire-missile-fired-by-us-military-directly-hit-ufo-over-ocean/)
+* [2025-09-10, 10:11:45](https://news.ycombinator.com/item?id=45195543) - [My Workflow Is 70% AI, 20% Copy-Paste, 10% Panic. What's Yours?](https://news.ycombinator.com/item?id=45195543)
 * [2025-09-10, 09:27:13](https://news.ycombinator.com/item?id=45195267) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
 * [2025-09-10, 07:00:55](https://news.ycombinator.com/item?id=45194223) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 * [2025-09-10, 06:51:38](https://news.ycombinator.com/item?id=45194165) - [Children and young people's reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
@@ -19,8 +21,6 @@
 * [2025-09-09, 14:54:32](https://news.ycombinator.com/item?id=45182770) - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp)
 * [2025-09-09, 14:45:46](https://news.ycombinator.com/item?id=45182657) - [US High school students' scores fall in reading and math](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
 * [2025-09-09, 14:25:55](https://news.ycombinator.com/item?id=45182381) - [Claude now has access to a server-side container environment](https://www.anthropic.com/news/create-files)
-* [2025-09-09, 08:46:53](https://news.ycombinator.com/item?id=45179304) - [Anthropic judge rejects $1.5B AI copyright settlement](https://news.bloomberglaw.com/ip-law/anthropic-judge-blasts-copyright-pact-as-nowhere-close-to-done)
-* [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [Mistral raises 1.7B€, partners with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 * [2025-09-09, 05:16:23](https://news.ycombinator.com/item?id=45177683) - [YouTube is a mysterious monopoly](https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly)
 * [2025-09-08, 18:09:25](https://news.ycombinator.com/item?id=45171733) - [All clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/)
 * [2025-09-07, 13:48:25](https://news.ycombinator.com/item?id=45158118) - [Show HN: Bottlefire – Build single-executable microVMs from Docker images](https://bottlefire.dev/)
