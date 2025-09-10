@@ -8,6 +8,7 @@
 * [2025-09-06, 23:12:12](https://news.ycombinator.com/item?id=45153763) - [Microsoft confirms multiple subsea fiber cuts in the Red Sea](https://twitter.com/ns123abc/status/1964462207762386970)
 * [2025-09-06, 22:51:42](https://news.ycombinator.com/item?id=45153636) - [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 * [2025-09-06, 22:21:55](https://news.ycombinator.com/item?id=45153428) - [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
+* [2025-09-06, 22:15:28](https://news.ycombinator.com/item?id=45153380) - [Interesting PEZY-SC4s](https://chipsandcheese.com/p/pezy-sc4s-at-hot-chips-2025)
 * [2025-09-06, 21:56:05](https://news.ycombinator.com/item?id=45153237) - [Rust tool for generating random fractals](https://github.com/benjaminrall/chaos-game)
 * [2025-09-06, 21:43:08](https://news.ycombinator.com/item?id=45153140) - [Gloria funicular derailment initial findings report (EN) [pdf]](https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf)
 * [2025-09-06, 21:19:30](https://news.ycombinator.com/item?id=45152940) - [I'm Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese](https://kanadojo.com)
