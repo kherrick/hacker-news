@@ -48,6 +48,7 @@
 * [2025-09-07, 12:24:25](https://news.ycombinator.com/item?id=45157567) - [What Really Caused the Sriracha Shortage? (2024)](https://fortune.com/2024/01/30/sriracha-shortage-huy-fong-foods-tabasco-underwood-ranches/)
 * [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks](https://sembr.org)
 * [2025-09-07, 12:07:50](https://news.ycombinator.com/item?id=45157466) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
+* [2025-09-07, 12:01:55](https://news.ycombinator.com/item?id=45157425) - [Some thoughts on personal Git hosting](https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/)
 * [2025-09-07, 11:31:01](https://news.ycombinator.com/item?id=45157278) - [Cities Obey the Laws of Living Things](https://nautil.us/cities-obey-the-laws-of-living-things-1236057/)
 * [2025-09-07, 11:21:57](https://news.ycombinator.com/item?id=45157232) - [Show HN: Ion, a Rust/Tokio powered JavaScript runtime for embedders](https://github.com/alshdavid/ion)
 * [2025-09-07, 11:20:37](https://news.ycombinator.com/item?id=45157223) - [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
