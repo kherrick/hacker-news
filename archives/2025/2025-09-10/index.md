@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 22:56:55](https://news.ycombinator.com/item?id=45205232) - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
 * [2025-09-10, 22:21:35](https://news.ycombinator.com/item?id=45204838) - [Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
 * [2025-09-10, 21:49:36](https://news.ycombinator.com/item?id=45204393) - [KDE launches its own distribution (again)](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
 * [2025-09-10, 21:43:47](https://news.ycombinator.com/item?id=45204305) - [Christie's Deletes Digital Art Department](https://news.artnet.com/market/christies-scraps-digital-art-department-2685784)
