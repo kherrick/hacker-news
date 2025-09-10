@@ -40,6 +40,7 @@
 * [2025-09-06, 16:38:43](https://news.ycombinator.com/item?id=45150759) - [Zuckerberg Caught in Revealing Hot Mic Moment During White House Dinner](https://www.pcmag.com/news/zuckerberg-caught-in-revealing-hot-mic-moment-during-white-house-dinner)
 * [2025-09-06, 16:37:56](https://news.ycombinator.com/item?id=45150749) - [Stock buybacks are stock swindles](https://pluralistic.net/2025/09/06/computer-says-huh/#invisible-handcuffs)
 * [2025-09-06, 16:28:38](https://news.ycombinator.com/item?id=45150663) - [Statement on discourse about ActivityPub and AT Protocol](https://github.com/swicg/general/blob/master/statements%2F2025-09-05-activitypub-and-atproto-discourse.md)
+* [2025-09-06, 14:51:31](https://news.ycombinator.com/item?id=45149777) - [Show HN: Downloading a folder from a repo using rust](https://github.com/zikani03/git-down)
 * [2025-09-06, 14:34:55](https://news.ycombinator.com/item?id=45149626) - [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 14:01:25](https://news.ycombinator.com/item?id=45149330) - [Vibe Coding Through the Berghain Challenge](https://www.nibzard.com/berghain/)
 * [2025-09-06, 13:52:34](https://news.ycombinator.com/item?id=45149281) - [DuckDuckGo founder: AI surveillance should be banned](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)

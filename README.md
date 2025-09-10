@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-10, 09:27:13](https://news.ycombinator.com/item?id=45195267) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
-* [2025-09-10, 07:20:07](https://news.ycombinator.com/item?id=45194341) - [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
 * [2025-09-10, 07:00:55](https://news.ycombinator.com/item?id=45194223) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 * [2025-09-10, 06:51:38](https://news.ycombinator.com/item?id=45194165) - [Children and young people's reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
 * [2025-09-10, 04:48:15](https://news.ycombinator.com/item?id=45193410) - [Defense.gov Now Redirects to War.gov](https://defense.gov)
@@ -21,15 +20,16 @@
 * [2025-09-09, 14:54:32](https://news.ycombinator.com/item?id=45182770) - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp)
 * [2025-09-09, 14:45:46](https://news.ycombinator.com/item?id=45182657) - [US High school students' scores fall in reading and math](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
 * [2025-09-09, 14:25:55](https://news.ycombinator.com/item?id=45182381) - [Claude now has access to a server-side container environment](https://www.anthropic.com/news/create-files)
+* [2025-09-09, 08:46:53](https://news.ycombinator.com/item?id=45179304) - [Anthropic judge rejects $1.5B AI copyright settlement](https://news.bloomberglaw.com/ip-law/anthropic-judge-blasts-copyright-pact-as-nowhere-close-to-done)
 * [2025-09-09, 05:16:23](https://news.ycombinator.com/item?id=45177683) - [YouTube is a mysterious monopoly](https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly)
 * [2025-09-08, 18:09:25](https://news.ycombinator.com/item?id=45171733) - [All clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/)
 * [2025-09-07, 13:48:25](https://news.ycombinator.com/item?id=45158118) - [Show HN: Bottlefire – Build single-executable microVMs from Docker images](https://bottlefire.dev/)
 * [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks](https://sembr.org)
-* [2025-09-07, 09:20:56](https://news.ycombinator.com/item?id=45156671) - [Cassette Logic: technology that never dies but is already dead](https://www.differentshelf.com/cassette-logic/)
 * [2025-09-07, 00:25:00](https://news.ycombinator.com/item?id=45154142) - [Axial twist theory](https://en.wikipedia.org/wiki/Axial_twist_theory)
 * [2025-09-07, 00:15:59](https://news.ycombinator.com/item?id=45154088) - [Knowledge and Memory](https://www.robinsloan.com/lab/knowledge-and-memory/)
 * [2025-09-06, 22:15:28](https://news.ycombinator.com/item?id=45153380) - [Interesting PEZY-SC4s](https://chipsandcheese.com/p/pezy-sc4s-at-hot-chips-2025)
 * [2025-09-06, 19:39:00](https://news.ycombinator.com/item?id=45152252) - [How to study people who are drunk](https://www.economist.com/science-and-technology/2025/09/03/how-to-study-people-who-are-very-drunk)
+* [2025-09-06, 14:51:31](https://news.ycombinator.com/item?id=45149777) - [Show HN: Downloading a folder from a repo using rust](https://github.com/zikani03/git-down)
 
 ## [Archives](archives/index.md)
 
