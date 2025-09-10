@@ -78,4 +78,5 @@
 * [2025-09-07, 00:45:22](https://news.ycombinator.com/item?id=45154270) - [Blogs used to be different](https://jetgirl.art/blogs-used-to-be-very-different/)
 * [2025-09-07, 00:29:16](https://news.ycombinator.com/item?id=45154176) - [mitchivin.com](https://mitchivin.com/)
 * [2025-09-07, 00:25:00](https://news.ycombinator.com/item?id=45154142) - [Axial Twist Theory](https://en.wikipedia.org/wiki/Axial_twist_theory)
+* [2025-09-07, 00:15:59](https://news.ycombinator.com/item?id=45154088) - [Knowledge and Memory](https://www.robinsloan.com/lab/knowledge-and-memory/)
 * [2025-09-07, 00:08:50](https://news.ycombinator.com/item?id=45154044) - [The CoPilot Productivity Paradox](https://www.marginalia.nu/log/a_125_ai_assistants/)
