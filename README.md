@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
-* [2025-09-10, 10:11:45](https://news.ycombinator.com/item?id=45195543) - [My Workflow Is 70% AI, 20% Copy-Paste, 10% Panic. What's Yours?](https://news.ycombinator.com/item?id=45195543)
 * [2025-09-10, 10:08:14](https://news.ycombinator.com/item?id=45195520) - [Made for People, Not Cars: Reclaiming European Cities](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
 * [2025-09-10, 09:27:13](https://news.ycombinator.com/item?id=45195267) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
 * [2025-09-10, 07:00:55](https://news.ycombinator.com/item?id=45194223) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
@@ -15,6 +14,7 @@
 * [2025-09-09, 18:12:51](https://news.ycombinator.com/item?id=45186015) - [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
 * [2025-09-09, 18:04:49](https://news.ycombinator.com/item?id=45185875) - [Tomorrow's emoji today: Unicode 17.0](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
 * [2025-09-09, 17:57:35](https://news.ycombinator.com/item?id=45185756) - [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
+* [2025-09-09, 16:31:17](https://news.ycombinator.com/item?id=45184432) - [Microsoft is officially sending employees back to the office](https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9)
 * [2025-09-09, 15:42:32](https://news.ycombinator.com/item?id=45183589) - [An attacker’s blunder gave us a look into their operations](https://www.huntress.com/blog/rare-look-inside-attacker-operation)
 * [2025-09-09, 15:12:18](https://news.ycombinator.com/item?id=45183050) - [Building a DOOM-like multiplayer shooter in pure SQL](https://cedardb.com/blog/doomql/)
 * [2025-09-09, 15:11:26](https://news.ycombinator.com/item?id=45183029) - [We all dodged a bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
