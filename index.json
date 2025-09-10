@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-10, 00:10:40",
+      "https://news.ycombinator.com/item?id=45191347"
+    ],
+    [
+      "NASA finds Titan's alien lakes may be creating primitive cells",
+      "https://www.sciencedaily.com/releases/2025/08/250831112449.htm"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 23:13:59",
+      "https://news.ycombinator.com/item?id=45190777"
+    ],
+    [
+      "Hypervisor in 1k Lines",
+      "https://1000hv.seiya.me/en"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 21:01:47",
       "https://news.ycombinator.com/item?id=45189053"
     ],
@@ -21,31 +41,11 @@
   ],
   [
     [
-      "2025-09-09, 19:44:12",
-      "https://news.ycombinator.com/item?id=45187687"
-    ],
-    [
-      "Inflation Erased U.S. Income Gains Last Year",
-      "https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 19:27:28",
-      "https://news.ycombinator.com/item?id=45187449"
-    ],
-    [
-      "Polylaminin promotes regeneration after spinal cord injury (2010)",
-      "https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 18:47:44",
       "https://news.ycombinator.com/item?id=45186726"
     ],
     [
-      "The Dying Dream of a Decentralized Web",
+      "A cryptography expert on how Web3 started, and how it’s going",
       "https://spectrum.ieee.org/web3-hardware-security"
     ]
   ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=45182657"
     ],
     [
-      "US HS students lose ground in math and reading, continuing yearslong decline",
+      "US High school students' scores fall in reading and math",
       "https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a"
     ]
   ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-09-09, 06:10:15",
-      "https://news.ycombinator.com/item?id=45178041"
-    ],
-    [
-      "Mistral raises 1.7B€, partners with ASML",
-      "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 05:16:23",
       "https://news.ycombinator.com/item?id=45177683"
     ],
@@ -271,22 +261,32 @@
   ],
   [
     [
-      "2025-09-07, 00:25:00",
-      "https://news.ycombinator.com/item?id=45154142"
+      "2025-09-07, 11:21:57",
+      "https://news.ycombinator.com/item?id=45157232"
     ],
     [
-      "Axial Twist Theory",
-      "https://en.wikipedia.org/wiki/Axial_twist_theory"
+      "Show HN: Ion, a Rust/Tokio powered JavaScript runtime for embedders",
+      "https://github.com/alshdavid/ion"
     ]
   ],
   [
     [
-      "2025-09-06, 18:22:35",
-      "https://news.ycombinator.com/item?id=45151641"
+      "2025-09-07, 09:20:56",
+      "https://news.ycombinator.com/item?id=45156671"
     ],
     [
-      "How can England possibly be running out of water?",
-      "https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water"
+      "Cassette Logic: technology that never dies but is already dead",
+      "https://www.differentshelf.com/cassette-logic/"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 00:25:00",
+      "https://news.ycombinator.com/item?id=45154142"
+    ],
+    [
+      "Axial twist theory",
+      "https://en.wikipedia.org/wiki/Axial_twist_theory"
     ]
   ],
   [
