@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
+* [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 12:00:59](https://news.ycombinator.com/item?id=45196433) - [Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
 * [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
+* [2025-09-10, 11:31:14](https://news.ycombinator.com/item?id=45196163) - [The subjective experience of coding in different programming languages](https://interconnected.org/home/2023/12/05/code)
 * [2025-09-10, 10:08:14](https://news.ycombinator.com/item?id=45195520) - [Made for People, Not Cars: Reclaiming European Cities](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
 * [2025-09-10, 06:51:38](https://news.ycombinator.com/item?id=45194165) - [Children and young people's reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
@@ -13,7 +16,6 @@
 * [2025-09-09, 18:12:51](https://news.ycombinator.com/item?id=45186015) - [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
 * [2025-09-09, 18:04:49](https://news.ycombinator.com/item?id=45185875) - [Tomorrow's emoji today: Unicode 17.0](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
 * [2025-09-09, 17:57:35](https://news.ycombinator.com/item?id=45185756) - [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
-* [2025-09-09, 16:31:17](https://news.ycombinator.com/item?id=45184432) - [Microsoft is officially sending employees back to the office](https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9)
 * [2025-09-09, 15:42:32](https://news.ycombinator.com/item?id=45183589) - [An attacker’s blunder gave us a look into their operations](https://www.huntress.com/blog/rare-look-inside-attacker-operation)
 * [2025-09-09, 15:12:18](https://news.ycombinator.com/item?id=45183050) - [Building a DOOM-like multiplayer shooter in pure SQL](https://cedardb.com/blog/doomql/)
 * [2025-09-09, 15:11:26](https://news.ycombinator.com/item?id=45183029) - [We all dodged a bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
@@ -28,8 +30,6 @@
 * [2025-09-07, 10:56:41](https://news.ycombinator.com/item?id=45157094) - [PKM apps need to get better at resurfacing information](https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/)
 * [2025-09-07, 00:25:00](https://news.ycombinator.com/item?id=45154142) - [Axial twist theory](https://en.wikipedia.org/wiki/Axial_twist_theory)
 * [2025-09-07, 00:15:59](https://news.ycombinator.com/item?id=45154088) - [Knowledge and Memory](https://www.robinsloan.com/lab/knowledge-and-memory/)
-* [2025-09-06, 22:15:28](https://news.ycombinator.com/item?id=45153380) - [Interesting PEZY-SC4s](https://chipsandcheese.com/p/pezy-sc4s-at-hot-chips-2025)
-* [2025-09-06, 14:51:31](https://news.ycombinator.com/item?id=45149777) - [Show HN: Downloading a folder from a repo using rust](https://github.com/zikani03/git-down)
 
 ## [Archives](archives/index.md)
 
