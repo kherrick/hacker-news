@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-10, 21:01:01](https://news.ycombinator.com/item?id=45203643) - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
+* [2025-09-10, 20:59:24](https://news.ycombinator.com/item?id=45203617) - [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com)
 * [2025-09-10, 19:42:27](https://news.ycombinator.com/item?id=45202613) - [Minerals represent potential biosignatures in the search for life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
 * [2025-09-10, 19:23:53](https://news.ycombinator.com/item?id=45202421) - [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
 * [2025-09-10, 19:08:05](https://news.ycombinator.com/item?id=45202252) - [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
 * [2025-09-10, 19:02:48](https://news.ycombinator.com/item?id=45202200) - [Charlie Kirk killed at event in Utah](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
 * [2025-09-10, 18:21:12](https://news.ycombinator.com/item?id=45201703) - [Show HN: Haystack – Review pull requests like you wrote them yourself](https://haystackeditor.com)
-* [2025-09-10, 17:56:18](https://news.ycombinator.com/item?id=45201372) - [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/)
 * [2025-09-10, 17:26:08](https://news.ycombinator.com/item?id=45200925) - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 * [2025-09-10, 16:26:07](https://news.ycombinator.com/item?id=45200024) - [\"No Tax on Tips\" Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/)
 * [2025-09-10, 16:20:55](https://news.ycombinator.com/item?id=45199931) - [I didn't bring my son to a museum to look at screens](https://sethpurcell.com/writing/screens-in-museums/)
