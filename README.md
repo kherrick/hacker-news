@@ -2,7 +2,6 @@
 
 * [2025-09-10, 07:20:07](https://news.ycombinator.com/item?id=45194341) - [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
 * [2025-09-10, 07:00:55](https://news.ycombinator.com/item?id=45194223) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
-* [2025-09-10, 07:00:23](https://news.ycombinator.com/item?id=45194218) - [A security incident that may involve your Plex account information](https://forums.plex.tv/t/important-notice-of-security-incident/930523)
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 * [2025-09-10, 02:02:17](https://news.ycombinator.com/item?id=45192194) - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 * [2025-09-10, 00:10:40](https://news.ycombinator.com/item?id=45191347) - [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
@@ -27,6 +26,7 @@
 * [2025-09-07, 13:48:25](https://news.ycombinator.com/item?id=45158118) - [Show HN: Bottlefire – Build single-executable microVMs from Docker images](https://bottlefire.dev/)
 * [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks](https://sembr.org)
 * [2025-09-07, 09:20:56](https://news.ycombinator.com/item?id=45156671) - [Cassette Logic: technology that never dies but is already dead](https://www.differentshelf.com/cassette-logic/)
+* [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
 * [2025-09-07, 00:25:00](https://news.ycombinator.com/item?id=45154142) - [Axial twist theory](https://en.wikipedia.org/wiki/Axial_twist_theory)
 * [2025-09-06, 22:15:28](https://news.ycombinator.com/item?id=45153380) - [Interesting PEZY-SC4s](https://chipsandcheese.com/p/pezy-sc4s-at-hot-chips-2025)
 * [2025-09-06, 19:39:00](https://news.ycombinator.com/item?id=45152252) - [How to study people who are drunk](https://www.economist.com/science-and-technology/2025/09/03/how-to-study-people-who-are-very-drunk)
