@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-10, 19:08:05",
+      "https://news.ycombinator.com/item?id=45202252"
+    ],
+    [
+      "Dotter: Dotfile manager and templater written in Rust",
+      "https://github.com/SuperCuber/dotter"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 19:04:54",
+      "https://news.ycombinator.com/item?id=45202233"
+    ],
+    [
+      "Show HN: Llmswap – Universal AI SDK and Code Generation CLI",
+      "https://sreenathmenon.com/blog/2025-09-04-stopped-alt-tabbing-chatgpt-while-coding/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 18:45:49",
       "https://news.ycombinator.com/item?id=45201988"
     ],
     [
       "Rayhunter: IMSI Catchers We Have Found So Far",
       "https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 18:21:12",
+      "https://news.ycombinator.com/item?id=45201703"
+    ],
+    [
+      "Show HN: Haystack – Review pull requests like you wrote them yourself",
+      "https://haystackeditor.com"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Bild AI (YC W25) Is Hiring",
       "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 16:44:53",
-      "https://news.ycombinator.com/item?id=45200357"
-    ],
-    [
-      "'Block Everything' protests sweep across France, scores arrested",
-      "https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-09-10, 13:17:25",
-      "https://news.ycombinator.com/item?id=45197187"
-    ],
-    [
-      "Guy running a Google rival from his laundry room",
-      "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 12:17:45",
       "https://news.ycombinator.com/item?id=45196568"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-09-10, 00:10:40",
-      "https://news.ycombinator.com/item?id=45191347"
-    ],
-    [
-      "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
-      "https://www.sciencedaily.com/releases/2025/08/250831112449.htm"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 13:16:30",
       "https://news.ycombinator.com/item?id=45181535"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-09-08, 01:46:14",
+      "https://news.ycombinator.com/item?id=45163998"
+    ],
+    [
+      "Harvey Mudd Miniature Machine",
+      "https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 12:14:41",
       "https://news.ycombinator.com/item?id=45157505"
     ],
@@ -287,16 +297,6 @@
     [
       "Things you can do with a debugger but not with print debugging",
       "https://mahesh-hegde.github.io/posts/what_debugger_can/"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 00:15:59",
-      "https://news.ycombinator.com/item?id=45154088"
-    ],
-    [
-      "Knowledge and memory",
-      "https://www.robinsloan.com/lab/knowledge-and-memory/"
     ]
   ]
 ]
