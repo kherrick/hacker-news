@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 07:20:07](https://news.ycombinator.com/item?id=45194341) - [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
 * [2025-09-10, 07:00:55](https://news.ycombinator.com/item?id=45194223) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 * [2025-09-10, 07:00:23](https://news.ycombinator.com/item?id=45194218) - [Plex: Important Notice of Security Incident](https://forums.plex.tv/t/important-notice-of-security-incident/930523)
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)

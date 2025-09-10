@@ -46,6 +46,7 @@
 * [2025-09-07, 12:57:18](https://news.ycombinator.com/item?id=45157778) - [Ask HN: Good resources for DIY-ish animatronic kits for Halloween?](https://news.ycombinator.com/item?id=45157778)
 * [2025-09-07, 12:52:20](https://news.ycombinator.com/item?id=45157748) - [ChatGPT is NOT a LLM – GPT is](https://www.vincirufus.com/posts/chatgpt-is-not-an-llm/)
 * [2025-09-07, 12:24:25](https://news.ycombinator.com/item?id=45157567) - [What Really Caused the Sriracha Shortage? (2024)](https://fortune.com/2024/01/30/sriracha-shortage-huy-fong-foods-tabasco-underwood-ranches/)
+* [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks](https://sembr.org)
 * [2025-09-07, 12:07:50](https://news.ycombinator.com/item?id=45157466) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
 * [2025-09-07, 11:31:01](https://news.ycombinator.com/item?id=45157278) - [Cities Obey the Laws of Living Things](https://nautil.us/cities-obey-the-laws-of-living-things-1236057/)
 * [2025-09-07, 11:21:57](https://news.ycombinator.com/item?id=45157232) - [Show HN: Ion, a Rust/Tokio powered JavaScript runtime for embedders](https://github.com/alshdavid/ion)
