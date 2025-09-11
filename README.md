@@ -2,7 +2,6 @@
 
 * [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
 * [2025-09-11, 20:35:11](https://news.ycombinator.com/item?id=45215869) - [Unusual Capabilities of Nano Banana (Examples)](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
-* [2025-09-11, 19:29:33](https://news.ycombinator.com/item?id=45215266) - [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
 * [2025-09-11, 19:06:32](https://news.ycombinator.com/item?id=45215032) - [Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
 * [2025-09-11, 18:58:22](https://news.ycombinator.com/item?id=45214933) - [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
 * [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude's memory architecture is the opposite of ChatGPT's](https://www.shloked.com/writing/claude-memory)
@@ -25,6 +24,7 @@
 * [2025-09-11, 11:42:23](https://news.ycombinator.com/item?id=45210399) - [Center for the Alignment of AI Alignment Centers](https://alignmentalignment.ai)
 * [2025-09-11, 09:32:49](https://news.ycombinator.com/item?id=45209558) - [Reshaped is now open source](https://reshaped.so/blog/reshaped-oss)
 * [2025-09-11, 09:02:50](https://news.ycombinator.com/item?id=45209389) - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
+* [2025-09-11, 07:43:12](https://news.ycombinator.com/item?id=45208925) - [GrapheneOS accessed Android security patches but not allowed to publish sources](https://grapheneos.social/@GrapheneOS/115164133992525834)
 * [2025-09-10, 19:30:37](https://news.ycombinator.com/item?id=45202489) - [Show HN: Making a cross-platform game in Go using WebRTC Datachannels](https://pion.ly/blog/making-a-game-with-pion/)
 * [2025-09-08, 12:56:55](https://news.ycombinator.com/item?id=45167688) - [Public Suffix List](https://publicsuffix.org/)
 * [2025-09-08, 12:14:20](https://news.ycombinator.com/item?id=45167346) - [Adjacency Matrix and std:mdspan, C++23](https://www.cppstories.com/2025/cpp23_mdspan_adj/)
