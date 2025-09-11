@@ -87,6 +87,7 @@
 * [2025-09-08, 06:04:51](https://news.ycombinator.com/item?id=45165066) - [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
 * [2025-09-08, 05:56:48](https://news.ycombinator.com/item?id=45165019) - [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/)
 * [2025-09-08, 05:28:34](https://news.ycombinator.com/item?id=45164892) - [I solved a distributed queue problem after 15 years – DBOS](https://www.dbos.dev/blog/durable-queues)
+* [2025-09-08, 04:59:35](https://news.ycombinator.com/item?id=45164762) - [I Solved PyTorch's Cross-Platform Nightmare](https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/)
 * [2025-09-08, 04:47:55](https://news.ycombinator.com/item?id=45164710) - [Tumult and Sympathy: The Letters of Oliver Sacks](https://www.commonwealmagazine.org/tumult-and-sympathy)
 * [2025-09-08, 03:54:53](https://news.ycombinator.com/item?id=45164497) - [GitHub Community Discussions: Two most upvoted requests are to disable Copilot](https://github.com/orgs/community/discussions)
 * [2025-09-08, 03:40:02](https://news.ycombinator.com/item?id=45164444) - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
