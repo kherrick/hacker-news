@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=45215984"
     ],
     [
-      "How palantir is mapping everyone's data for the government",
+      "How Palantir is mapping the nation’s data",
       "https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "NT OS Kernel Information Disclosure Vulnerability",
       "https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 15:45:38",
-      "https://news.ycombinator.com/item?id=45212960"
-    ],
-    [
-      "Spiral",
-      "https://spiraldb.com/post/announcing-spiral"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "ApeRAG: Production-ready GraphRAG with multi-modal indexing and K8s deployment",
       "https://github.com/apecloud/ApeRAG"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 06:05:54",
+      "https://news.ycombinator.com/item?id=45165070"
+    ],
+    [
+      "\"Building my childhood dream PC\" (IBM 2168) Part 1",
+      "https://fabiensanglard.net/2168/"
     ]
   ]
 ]
