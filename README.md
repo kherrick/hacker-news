@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-11, 16:46:09](https://news.ycombinator.com/item?id=45213612) - [Every Keystroke You Make: A Tech-Law Measurement and Analysis of Event Listeners](https://arxiv.org/abs/2508.19825)
-* [2025-09-11, 16:38:58](https://news.ycombinator.com/item?id=45213549) - [Reality Is Ruining the Humanoid Robot Hype](https://spectrum.ieee.org/humanoid-robot-scaling)
 * [2025-09-11, 16:13:09](https://news.ycombinator.com/item?id=45213299) - [Windows KASLR Bypass – CVE-2025-53136](https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/)
 * [2025-09-11, 15:45:38](https://news.ycombinator.com/item?id=45212960) - [Spiral](https://spiraldb.com/post/announcing-spiral)
+* [2025-09-11, 15:41:43](https://news.ycombinator.com/item?id=45212915) - [Nano11 cuts Windows 11 down to size, grabbing just 2.8 GB of disk space](https://www.theregister.com/2025/09/11/nano11_cuts_windows_11_down/)
 * [2025-09-11, 14:51:57](https://news.ycombinator.com/item?id=45212370) - [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/)
 * [2025-09-11, 14:05:31](https://news.ycombinator.com/item?id=45211868) - [Conway's Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
 * [2025-09-11, 13:45:28](https://news.ycombinator.com/item?id=45211596) - [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
