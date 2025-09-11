@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 22:41:43](https://news.ycombinator.com/item?id=45216844) - [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
+* [2025-09-11, 22:35:36](https://news.ycombinator.com/item?id=45216805) - [Danish supermarket chain is setting up \"Emergency Stores\"](https://swiss.social/@swaldorff/115186445638788782)
 * [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How palantir is mapping everyone's data for the government](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
 * [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How Palantir Is Mapping Everyone's Data for the Government](https://www.techdirt.com/2025/09/11/how-palantir-is-mapping-everyones-data-for-the-government/)
 * [2025-09-11, 20:35:11](https://news.ycombinator.com/item?id=45215869) - [Unusual Capabilities of Nano Banana (Examples)](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)

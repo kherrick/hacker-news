@@ -53,6 +53,7 @@
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
 * [2025-09-08, 14:38:30](https://news.ycombinator.com/item?id=45168883) - ['We can do it for under $100M': Startup joins race to build local ChatGPT](https://www.afr.com/technology/we-can-do-it-for-under-100m-start-up-joins-race-to-build-local-chatgpt-20250908-p5mt5o)
 * [2025-09-08, 14:36:00](https://news.ycombinator.com/item?id=45168854) - [AMD Claims Arm ISA Doesn't Offer Efficiency Advantage over x86](https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86)
+* [2025-09-08, 14:33:26](https://news.ycombinator.com/item?id=45168823) - [Doorbell prankster that tormented residents of apartments turns out to be a slug](https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug)
 * [2025-09-08, 13:20:06](https://news.ycombinator.com/item?id=45167913) - [Tesla Wants Out of the Car Business](https://www.theatlantic.com/technology/archive/2025/09/tesla-elon-musk-master-plan-robotaxi/684122/)
 * [2025-09-08, 13:17:44](https://news.ycombinator.com/item?id=45167887) - [Exploring Grid-Aware Websites](https://www.nicchan.me/blog/exploring-grid-aware-websites/)
 * [2025-09-08, 13:04:47](https://news.ycombinator.com/item?id=45167757) - [Picat: A Logic-based Multi-paradigm Language(2014) [pdf]](https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf)
