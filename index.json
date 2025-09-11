@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-11, 19:59:03",
-      "https://news.ycombinator.com/item?id=45215534"
+      "2025-09-11, 20:35:11",
+      "https://news.ycombinator.com/item?id=45215869"
     ],
     [
-      "C# Will Become F# – Gautier Talks About Microsoft Technology",
-      "https://gautiertalksmicrosoft.wordpress.com/2025/04/13/c-will-become-f/"
+      "Unusual Capabilities of Nano Banana (Examples)",
+      "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-09-08, 12:58:09",
-      "https://news.ycombinator.com/item?id=45167694"
-    ],
-    [
-      "Tumult and Sympathy – The Letters of Oliver Sacks",
-      "https://www.commonwealmagazine.org/tumult-and-sympathy"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 12:56:55",
       "https://news.ycombinator.com/item?id=45167688"
     ],
@@ -287,6 +277,16 @@
     [
       "The Helix Text Editor (2024)",
       "https://jonathan-frere.com/posts/helix/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 08:06:43",
+      "https://news.ycombinator.com/item?id=45165751"
+    ],
+    [
+      "ApeRAG: Production-ready GraphRAG with multi-modal indexing and K8s deployment",
+      "https://github.com/apecloud/ApeRAG"
     ]
   ],
   [
