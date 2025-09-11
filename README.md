@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-11, 23:15:07](https://news.ycombinator.com/item?id=45217081) - [Senator demands to know status of 'duplicate' SSA database 'immediately'](https://www.theregister.com/2025/09/11/ssa_doge_whistleblower_demand/)
 * [2025-09-11, 22:41:43](https://news.ycombinator.com/item?id=45216844) - [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
 * [2025-09-11, 22:35:36](https://news.ycombinator.com/item?id=45216805) - [Danish supermarket chain is setting up \"Emergency Stores\"](https://swiss.social/@swaldorff/115186445638788782)
 * [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
@@ -19,7 +20,6 @@
 * [2025-09-11, 13:45:28](https://news.ycombinator.com/item?id=45211596) - [CRISPR offers new hope for treating diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 * [2025-09-11, 13:39:43](https://news.ycombinator.com/item?id=45211527) - [From burner phones to decks of cards: NYC teens adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)
 * [2025-09-11, 13:04:49](https://news.ycombinator.com/item?id=45211127) - [An engineering history of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
-* [2025-09-11, 12:46:27](https://news.ycombinator.com/item?id=45210910) - [GrapheneOS and forensic extraction of data (2024)](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
 * [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 11:46:13](https://news.ycombinator.com/item?id=45210428) - [AirPods live translation blocked for EU users with EU Apple accounts](https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/)
 * [2025-09-11, 09:32:49](https://news.ycombinator.com/item?id=45209558) - [Reshaped is now open source](https://reshaped.so/blog/reshaped-oss)
