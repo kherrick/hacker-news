@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-11, 15:47:06](https://news.ycombinator.com/item?id=45212976) - [Health Insurance Costs for Businesses to Rise by Most in 15 Years](https://www.wsj.com/health/healthcare/health-insurance-costs-rise-6cc1b934)
+* [2025-09-11, 16:13:09](https://news.ycombinator.com/item?id=45213299) - [Windows KASLR Bypass – CVE-2025-53136](https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/)
+* [2025-09-11, 15:45:38](https://news.ycombinator.com/item?id=45212960) - [Spiral](https://spiraldb.com/post/announcing-spiral)
 * [2025-09-11, 14:51:57](https://news.ycombinator.com/item?id=45212370) - [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/)
-* [2025-09-11, 14:29:23](https://news.ycombinator.com/item?id=45212141) - [NearToilets – Airbnb of toilets, earn from toilets for rent](https://neartoilets.com/)
 * [2025-09-11, 14:05:31](https://news.ycombinator.com/item?id=45211868) - [Conway's Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
 * [2025-09-11, 13:45:28](https://news.ycombinator.com/item?id=45211596) - [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 * [2025-09-11, 13:04:49](https://news.ycombinator.com/item?id=45211127) - [An Engineering History of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
