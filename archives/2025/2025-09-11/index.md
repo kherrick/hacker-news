@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 19:59:03](https://news.ycombinator.com/item?id=45215534) - [C# Will Become F# – Gautier Talks About Microsoft Technology](https://gautiertalksmicrosoft.wordpress.com/2025/04/13/c-will-become-f/)
 * [2025-09-11, 19:29:33](https://news.ycombinator.com/item?id=45215266) - [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
 * [2025-09-11, 19:06:32](https://news.ycombinator.com/item?id=45215032) - [Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
 * [2025-09-11, 18:58:22](https://news.ycombinator.com/item?id=45214933) - [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
