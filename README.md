@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-11, 18:16:09](https://news.ycombinator.com/item?id=45214498) - [Adam (YC W25) Is Hiring to Build the Future of CAD](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer)
+* [2025-09-11, 17:52:18](https://news.ycombinator.com/item?id=45214257) - [Oracle stock gains 36% to post best day since 1992, adding $244B in value](https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html)
 * [2025-09-11, 17:42:56](https://news.ycombinator.com/item?id=45214164) - [Bulletproof host Stark Industries evades EU sanctions](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/)
 * [2025-09-11, 17:28:13](https://news.ycombinator.com/item?id=45214023) - [Native ACME support comes to Nginx](https://letsencrypt.org/2025/09/11/native-acme-for-nginx)
 * [2025-09-11, 16:58:08](https://news.ycombinator.com/item?id=45213732) - ['Robber bees' invade apiarist's shop in attempted honey heist](https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532)
@@ -25,7 +26,6 @@
 * [2025-09-11, 07:43:12](https://news.ycombinator.com/item?id=45208925) - [GrapheneOS accessed Android security patches but not allowed to publish sources](https://grapheneos.social/@GrapheneOS/115164133992525834)
 * [2025-09-08, 15:02:15](https://news.ycombinator.com/item?id=45169194) - [Learning lessons from the loss of the Norwegian frigate Helge Ingstad](https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/)
 * [2025-09-08, 12:56:55](https://news.ycombinator.com/item?id=45167688) - [Public Suffix List](https://publicsuffix.org/)
-* [2025-09-08, 12:08:10](https://news.ycombinator.com/item?id=45167303) - [C++20 Modules: Practical Insights, Status and TODOs](https://chuanqixu9.github.io/c++/2025/08/14/C++20-Modules.en.html)
 * [2025-09-08, 11:36:25](https://news.ycombinator.com/item?id=45167049) - [Beyond package management: How Nix refactored my digital life](https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/)
 * [2025-09-08, 04:59:35](https://news.ycombinator.com/item?id=45164762) - [How I solved PyTorch's cross-platform nightmare](https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/)
 * [2025-09-08, 00:01:54](https://news.ycombinator.com/item?id=45163423) - [Removing yellow stains from fabric with blue light](https://phys.org/news/2025-09-yellow-fabric-blue.html)
