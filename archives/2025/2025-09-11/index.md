@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 17:28:13](https://news.ycombinator.com/item?id=45214023) - [Native ACME support comes to Nginx](https://letsencrypt.org/2025/09/11/native-acme-for-nginx)
 * [2025-09-11, 16:46:09](https://news.ycombinator.com/item?id=45213612) - [Every Keystroke You Make: A Tech-Law Measurement and Analysis of Event Listeners](https://arxiv.org/abs/2508.19825)
 * [2025-09-11, 16:38:58](https://news.ycombinator.com/item?id=45213549) - [Reality Is Ruining the Humanoid Robot Hype](https://spectrum.ieee.org/humanoid-robot-scaling)
 * [2025-09-11, 16:13:09](https://news.ycombinator.com/item?id=45213299) - [Windows KASLR Bypass – CVE-2025-53136](https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/)
