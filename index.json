@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-11, 14:51:57",
+      "https://news.ycombinator.com/item?id=45212370"
+    ],
+    [
+      "The US is now the largest investor in commercial spyware",
+      "https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 14:44:17",
       "https://news.ycombinator.com/item?id=45212288"
     ],
@@ -247,16 +257,6 @@
     [
       "C++20 Modules: Practical Insights, Status and TODOs",
       "https://chuanqixu9.github.io/c++/2025/08/14/C++20-Modules.en.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 12:07:14",
-      "https://news.ycombinator.com/item?id=45167295"
-    ],
-    [
-      "A desktop environment without graphics (tmux-like)",
-      "https://github.com/Julien-cpsn/desktop-tui"
     ]
   ],
   [
