@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-11, 12:46:27](https://news.ycombinator.com/item?id=45210910) - [GrapheneOS and Forensic Extraction of Data](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
-* [2025-09-11, 12:41:11](https://news.ycombinator.com/item?id=45210867) - [Ireland will not participate in Eurovision if Israel takes part](https://www.rte.ie/entertainment/2025/0911/1532957-rte-eurovision/)
 * [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 12:32:35](https://news.ycombinator.com/item?id=45210803) - [CPI for all items rises 0.4% in August, 2.9% YoY; shelter and food up](https://www.bls.gov/news.release/archives/cpi_09112025.htm)
 * [2025-09-11, 12:03:32](https://news.ycombinator.com/item?id=45210564) - [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
@@ -12,6 +11,7 @@
 * [2025-09-11, 09:29:52](https://news.ycombinator.com/item?id=45209532) - [DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking](https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/)
 * [2025-09-11, 08:59:40](https://news.ycombinator.com/item?id=45209366) - [Germany is not supporting ChatControl – blocking minority secured](https://digitalcourage.social/@echo_pbreyer/115184350819592476)
 * [2025-09-11, 08:01:57](https://news.ycombinator.com/item?id=45209065) - [PgEdge Goes Open Source](https://www.pgedge.com/blog/pgedge-goes-open-source)
+* [2025-09-11, 07:43:12](https://news.ycombinator.com/item?id=45208925) - [GrapheneOS accessed Android security patches but not allowed to publish sources](https://grapheneos.social/@GrapheneOS/115164133992525834)
 * [2025-09-11, 01:27:31](https://news.ycombinator.com/item?id=45206567) - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
 * [2025-09-11, 00:52:32](https://news.ycombinator.com/item?id=45206311) - [Where did the Smurfs get their hats (2018)](https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/)
 * [2025-09-10, 22:56:55](https://news.ycombinator.com/item?id=45205232) - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)

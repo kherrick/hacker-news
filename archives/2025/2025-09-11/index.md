@@ -20,6 +20,7 @@
 * [2025-09-11, 09:02:50](https://news.ycombinator.com/item?id=45209389) - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
 * [2025-09-11, 08:59:40](https://news.ycombinator.com/item?id=45209366) - [Germany is not supporting ChatControl – blocking minority secured](https://digitalcourage.social/@echo_pbreyer/115184350819592476)
 * [2025-09-11, 08:01:57](https://news.ycombinator.com/item?id=45209065) - [PgEdge Goes Open Source](https://www.pgedge.com/blog/pgedge-goes-open-source)
+* [2025-09-11, 07:43:12](https://news.ycombinator.com/item?id=45208925) - [GrapheneOS accessed Android security patches but not allowed to publish sources](https://grapheneos.social/@GrapheneOS/115164133992525834)
 * [2025-09-11, 02:26:16](https://news.ycombinator.com/item?id=45207008) - [The Four Fallacies of Modern AI](https://blog.apiad.net/p/the-four-fallacies-of-modern-ai)
 * [2025-09-11, 01:58:51](https://news.ycombinator.com/item?id=45206805) - [Seoul says US must fix its visa system if it wants Korea's investments](https://english.hani.co.kr/arti/english_edition/e_international/1218025.html)
 * [2025-09-11, 01:27:31](https://news.ycombinator.com/item?id=45206567) - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
