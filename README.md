@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-11, 09:04:56](https://news.ycombinator.com/item?id=45209398) - [Creating larger projects with LLM (as a coder)](https://medium.com/@wojtek.jurkowlaniec/coding-workflow-with-llm-on-larger-projects-87dd2bf6fd2c)
 * [2025-09-11, 09:02:50](https://news.ycombinator.com/item?id=45209389) - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
 * [2025-09-11, 08:59:40](https://news.ycombinator.com/item?id=45209366) - [Germany is not supporting ChatControl – blocking minority secured](https://digitalcourage.social/@echo_pbreyer/115184350819592476)
 * [2025-09-11, 01:27:31](https://news.ycombinator.com/item?id=45206567) - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
@@ -28,6 +27,7 @@
 * [2025-09-08, 08:03:21](https://news.ycombinator.com/item?id=45165721) - [Hashed sorting is typically faster than hash tables](https://reiner.org/hashed-sorting)
 * [2025-09-08, 07:45:36](https://news.ycombinator.com/item?id=45165608) - [Rewriting Dataframes for MicroHaskell](https://mchav.github.io/rewriting-dataframes-for-microhs/)
 * [2025-09-08, 00:01:54](https://news.ycombinator.com/item?id=45163423) - [Removing yellow stains from fabric with blue light](https://phys.org/news/2025-09-yellow-fabric-blue.html)
+* [2025-09-07, 21:58:01](https://news.ycombinator.com/item?id=45162559) - [How the tz database works (2020)](https://yatsushi.com/blog/tz-database/)
 * [2025-09-07, 19:31:50](https://news.ycombinator.com/item?id=45161410) - [Clojure's Solutions to the Expression Problem](https://www.infoq.com/presentations/Clojure-Expression-Problem/)
 * [2025-09-07, 06:49:20](https://news.ycombinator.com/item?id=45155963) - [A polyglot's guide to multiple-dispatch (2016)](https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/)
 
