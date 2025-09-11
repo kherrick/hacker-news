@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-11, 12:46:27",
+      "https://news.ycombinator.com/item?id=45210910"
+    ],
+    [
+      "GrapheneOS and Forensic Extraction of Data",
+      "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 12:41:11",
       "https://news.ycombinator.com/item?id=45210867"
     ],
     [
       "Ireland will not participate in Eurovision if Israel takes part",
       "https://www.rte.ie/entertainment/2025/0911/1532957-rte-eurovision/"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 12:39:29",
+      "https://news.ycombinator.com/item?id=45210850"
+    ],
+    [
+      "Behind the Scenes of Bun Install",
+      "https://bun.com/blog/behind-the-scenes-of-bun-install"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 12:32:35",
+      "https://news.ycombinator.com/item?id=45210803"
+    ],
+    [
+      "CPI for all items rises 0.4% in August, 2.9% YoY; shelter and food up",
+      "https://www.bls.gov/news.release/archives/cpi_09112025.htm"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-09-10, 16:26:07",
-      "https://news.ycombinator.com/item?id=45200024"
-    ],
-    [
-      "“No Tax on Tips” Includes Digital Creators, Too",
-      "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 16:04:49",
       "https://news.ycombinator.com/item?id=45199713"
     ],
@@ -187,16 +207,6 @@
     [
       "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
       "https://jiratui.sh/"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 10:08:14",
-      "https://news.ycombinator.com/item?id=45195520"
-    ],
-    [
-      "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
-      "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-09-08, 12:02:56",
-      "https://news.ycombinator.com/item?id=45167260"
-    ],
-    [
-      "Hot Chips 2025: Session 1 – CPUs",
-      "https://chipsandcheese.com/p/hot-chips-2025-session-1-cpus"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 08:03:21",
       "https://news.ycombinator.com/item?id=45165721"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-07, 19:31:50",
-      "https://news.ycombinator.com/item?id=45161410"
+      "2025-09-07, 20:58:20",
+      "https://news.ycombinator.com/item?id=45162078"
     ],
     [
-      "Clojure's Solutions to the Expression Problem",
-      "https://www.infoq.com/presentations/Clojure-Expression-Problem/"
+      "Mapping to the PICO-8 palette, perceptually",
+      "https://30fps.net/pages/perceptual-pico8-pixel-mapping/"
     ]
   ]
 ]
