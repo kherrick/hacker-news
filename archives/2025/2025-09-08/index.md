@@ -94,4 +94,5 @@
 * [2025-09-08, 01:46:14](https://news.ycombinator.com/item?id=45163998) - [Harvey Mudd Miniature Machine](https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html)
 * [2025-09-08, 01:32:42](https://news.ycombinator.com/item?id=45163948) - [Bob Stein and Voyager (2021)](https://www.filfre.net/2021/06/bob-stein-and-voyager/)
 * [2025-09-08, 00:30:19](https://news.ycombinator.com/item?id=45163598) - [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x)
+* [2025-09-08, 00:01:54](https://news.ycombinator.com/item?id=45163423) - [Removing yellow stains from fabric with blue light](https://phys.org/news/2025-09-yellow-fabric-blue.html)
 * [2025-09-08, 00:01:16](https://news.ycombinator.com/item?id=45163417) - [Rendering flame fractals with a compute shader](https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader)
