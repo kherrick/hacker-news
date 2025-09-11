@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How palantir is mapping everyone's data for the government](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
+* [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
 * [2025-09-11, 20:35:11](https://news.ycombinator.com/item?id=45215869) - [Unusual Capabilities of Nano Banana (Examples)](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 * [2025-09-11, 19:29:33](https://news.ycombinator.com/item?id=45215266) - [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
 * [2025-09-11, 19:06:32](https://news.ycombinator.com/item?id=45215032) - [Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
@@ -14,7 +14,6 @@
 * [2025-09-11, 16:58:08](https://news.ycombinator.com/item?id=45213732) - ['Robber bees' invade apiarist's shop in attempted honey heist](https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532)
 * [2025-09-11, 16:46:09](https://news.ycombinator.com/item?id=45213612) - [A tech-law measurement and analysis of event listeners for wiretapping](https://arxiv.org/abs/2508.19825)
 * [2025-09-11, 16:13:09](https://news.ycombinator.com/item?id=45213299) - [NT OS Kernel Information Disclosure Vulnerability](https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/)
-* [2025-09-11, 15:45:38](https://news.ycombinator.com/item?id=45212960) - [Spiral](https://spiraldb.com/post/announcing-spiral)
 * [2025-09-11, 14:05:31](https://news.ycombinator.com/item?id=45211868) - [Conway's Game of Life, but musical](https://www.hudsong.dev/digital-darwin)
 * [2025-09-11, 13:45:28](https://news.ycombinator.com/item?id=45211596) - [CRISPR offers new hope for treating diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 * [2025-09-11, 13:39:43](https://news.ycombinator.com/item?id=45211527) - [From burner phones to decks of cards: NYC teens adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)
@@ -30,6 +29,7 @@
 * [2025-09-08, 12:14:20](https://news.ycombinator.com/item?id=45167346) - [Adjacency Matrix and std:mdspan, C++23](https://www.cppstories.com/2025/cpp23_mdspan_adj/)
 * [2025-09-08, 09:27:40](https://news.ycombinator.com/item?id=45166238) - [The Helix Text Editor (2024)](https://jonathan-frere.com/posts/helix/)
 * [2025-09-08, 08:06:43](https://news.ycombinator.com/item?id=45165751) - [ApeRAG: Production-ready GraphRAG with multi-modal indexing and K8s deployment](https://github.com/apecloud/ApeRAG)
+* [2025-09-08, 06:05:54](https://news.ycombinator.com/item?id=45165070) - [\"Building my childhood dream PC\" (IBM 2168) Part 1](https://fabiensanglard.net/2168/)
 
 ## [Archives](archives/index.md)
 
