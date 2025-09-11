@@ -25,10 +25,10 @@
 * [2025-09-11, 09:32:49](https://news.ycombinator.com/item?id=45209558) - [Reshaped is now open source](https://reshaped.so/blog/reshaped-oss)
 * [2025-09-11, 09:02:50](https://news.ycombinator.com/item?id=45209389) - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
 * [2025-09-10, 19:30:37](https://news.ycombinator.com/item?id=45202489) - [Show HN: Making a cross-platform game in Go using WebRTC Datachannels](https://pion.ly/blog/making-a-game-with-pion/)
+* [2025-09-08, 15:24:58](https://news.ycombinator.com/item?id=45169477) - [A Look Back at Research from 1875](https://bcmullins.github.io/research-from-1875/)
 * [2025-09-08, 14:33:26](https://news.ycombinator.com/item?id=45168823) - [Doorbell prankster that tormented residents of apartments turns out to be a slug](https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug)
 * [2025-09-08, 12:56:55](https://news.ycombinator.com/item?id=45167688) - [Public Suffix List](https://publicsuffix.org/)
 * [2025-09-08, 12:14:20](https://news.ycombinator.com/item?id=45167346) - [Adjacency Matrix and std:mdspan, C++23](https://www.cppstories.com/2025/cpp23_mdspan_adj/)
-* [2025-09-08, 08:06:43](https://news.ycombinator.com/item?id=45165751) - [ApeRAG: Production-ready GraphRAG with multi-modal indexing and K8s deployment](https://github.com/apecloud/ApeRAG)
 * [2025-09-08, 06:05:54](https://news.ycombinator.com/item?id=45165070) - [Building my childhood dream PC](https://fabiensanglard.net/2168/)
 
 ## [Archives](archives/index.md)
