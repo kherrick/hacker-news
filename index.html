@@ -140,7 +140,7 @@
             <h4>
               <span>2025-09-11 @ 16:46:09</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45213612"
                   >Comments</a
@@ -161,11 +161,11 @@
             <h4>
               <span>2025-09-11 @ 16:38:58</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45213549"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -182,11 +182,11 @@
             <h4>
               <span>2025-09-11 @ 16:13:09</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45213299"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -201,11 +201,11 @@
             <h4>
               <span>2025-09-11 @ 15:45:38</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45212960"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -222,7 +222,7 @@
             <h4>
               <span>2025-09-11 @ 14:51:57</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45212370"
                   >Comments</a
@@ -241,7 +241,7 @@
             <h4>
               <span>2025-09-11 @ 14:05:31</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45211868"
                   >Comments</a
@@ -283,11 +283,11 @@
             <h4>
               <span>2025-09-11 @ 13:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45211127"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -304,11 +304,11 @@
             <h4>
               <span>2025-09-11 @ 12:46:27</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45210910"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -325,7 +325,7 @@
             <h4>
               <span>2025-09-11 @ 12:39:29</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45210850"
                   >Comments</a
@@ -346,63 +346,13 @@
             <h4>
               <span>2025-09-11 @ 12:20:19</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45210693"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="45210654">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=45210654"
-              >Show HN: I built a minimal Forth-like stack interpreter library
-              in C</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-11 @ 12:15:22</span
-              ><span class="points-container"
-                >Points: <span class="points">22</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45210654"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                - Stack operations (push/pop/dup/swap/over/drop) - Arithmetic
-                (+, -, *, /) - Output (., emit, cr) - Stack inspection (.s,
-                depth)
-              </p>
-              <p>
-                Example usage: Stack s; stack_init(&amp;s); dict_init();
-                exec(&amp;s, "10 20 + ."); // Prints "30" exec(&amp;s, "1 2 3 4
-                .s"); // Shows stack contents
-              </p>
-              <p>
-                The library is self-contained, requires no dependencies, and
-                handles basic error checking. It was inspired by wanting to
-                understand how Forth works at a fundamental level while keeping
-                the simplicity of C.
-              </p>
-              <p>
-                I'm curious what other stack-based or concatenative programming
-                enthusiasts think about this approach. Has anyone else built
-                something similar? What features would you add to make it more
-                useful?
-              </p>
-              <p>
-                GitHub:
-                <a href="https://github.com/Ferki-git-creator/stacklib"
-                  >https://github.com/Ferki-git-creator/stacklib</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="45210564">
@@ -417,11 +367,11 @@
             <h4>
               <span>2025-09-11 @ 12:03:32</span
               ><span class="points-container"
-                >Points: <span class="points">238</span></span
+                >Points: <span class="points">242</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45210564"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -453,7 +403,7 @@
             <h4>
               <span>2025-09-11 @ 09:32:49</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45209558"
                   >Comments</a
@@ -475,7 +425,7 @@
             <h4>
               <span>2025-09-11 @ 09:29:52</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45209532"
                   >Comments</a
@@ -496,7 +446,7 @@
             <h4>
               <span>2025-09-11 @ 08:01:57</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45209065"
                   >Comments</a
@@ -518,11 +468,33 @@
             <h4>
               <span>2025-09-11 @ 07:43:12</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45208925"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 38</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45206567">
+          <h3>
+            <a
+              class="item"
+              href="https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/"
+              >Court rejects Verizon claim that selling location data without
+              consent is legal</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-11 @ 01:27:31</span
+              ><span class="points-container"
+                >Points: <span class="points">616</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45206567"
+                  >Comments</a
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -539,7 +511,7 @@
             <h4>
               <span>2025-09-11 @ 00:52:32</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45206311"
                   >Comments</a
@@ -560,7 +532,7 @@
             <h4>
               <span>2025-09-10 @ 22:56:55</span
               ><span class="points-container"
-                >Points: <span class="points">391</span></span
+                >Points: <span class="points">393</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45205232"
                   >Comments</a
@@ -581,7 +553,7 @@
             <h4>
               <span>2025-09-10 @ 21:49:36</span
               ><span class="points-container"
-                >Points: <span class="points">638</span></span
+                >Points: <span class="points">639</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45204393"
                   >Comments</a
@@ -688,7 +660,7 @@
             <h4>
               <span>2025-09-08 @ 11:36:25</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45167049"
                   >Comments</a
@@ -726,11 +698,11 @@
             <h4>
               <span>2025-09-08 @ 08:03:21</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45165721"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -766,11 +738,11 @@
             <h4>
               <span>2025-09-07 @ 21:58:01</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45162559"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
