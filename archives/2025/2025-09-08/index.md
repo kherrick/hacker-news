@@ -75,6 +75,7 @@
 * [2025-09-08, 08:29:14](https://news.ycombinator.com/item?id=45165902) - [50k art hoes will save San Francisco](https://twitter.com/taotechic/status/1964551131977437674)
 * [2025-09-08, 08:28:15](https://news.ycombinator.com/item?id=45165897) - [Show HN: TheAuditor – Offline security scanner for AI-generated code](https://github.com/TheAuditorTool/Auditor)
 * [2025-09-08, 08:26:44](https://news.ycombinator.com/item?id=45165885) - [How can I deal with a team member who is always complaining?](https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining)
+* [2025-09-08, 08:07:05](https://news.ycombinator.com/item?id=45165753) - [Pure and Impure Software Engineering](https://www.seangoedecke.com/pure-and-impure-engineering/)
 * [2025-09-08, 08:06:39](https://news.ycombinator.com/item?id=45165749) - [CPU Utilization is Wrong (2017)](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 * [2025-09-08, 08:03:21](https://news.ycombinator.com/item?id=45165721) - [Hashed sorting is typically faster than hash tables](https://reiner.org/hashed-sorting)
 * [2025-09-08, 07:58:38](https://news.ycombinator.com/item?id=45165684) - [Immich – High performance self-hosted photo and video management solution](https://github.com/immich-app/immich)
