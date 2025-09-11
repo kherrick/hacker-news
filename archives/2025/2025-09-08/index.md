@@ -63,6 +63,7 @@
 * [2025-09-08, 12:26:15](https://news.ycombinator.com/item?id=45167436) - [Go for Bash Programmers – Part II: CLI Tools](https://github.com/go-monk/from-bash-to-go-part-ii)
 * [2025-09-08, 12:21:15](https://news.ycombinator.com/item?id=45167401) - [A complete map of the Rust type system](https://rustcurious.com/elements/)
 * [2025-09-08, 12:18:55](https://news.ycombinator.com/item?id=45167394) - [Package Managers Are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
+* [2025-09-08, 12:08:10](https://news.ycombinator.com/item?id=45167303) - [C++20 Modules: Practical Insights, Status and TODOs](https://chuanqixu9.github.io/c++/2025/08/14/C++20-Modules.en.html)
 * [2025-09-08, 12:07:14](https://news.ycombinator.com/item?id=45167295) - [A desktop environment without graphics (tmux-like)](https://github.com/Julien-cpsn/desktop-tui)
 * [2025-09-08, 12:02:56](https://news.ycombinator.com/item?id=45167260) - [Hot Chips 2025: Session 1 – CPUs – By George Cozma](https://chipsandcheese.com/p/hot-chips-2025-session-1-cpus)
 * [2025-09-08, 12:01:18](https://news.ycombinator.com/item?id=45167245) - [Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64](https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/)
