@@ -47,6 +47,7 @@
 * [2025-09-08, 15:25:03](https://news.ycombinator.com/item?id=45169480) - [American Flying Empty Airbus A321neo Across the Atlantic 20 Times](https://onemileatatime.com/news/american-flying-empty-airbus-a321neo-across-atlantic/)
 * [2025-09-08, 15:08:56](https://news.ycombinator.com/item?id=45169286) - [Browser Fingerprint Detector](https://fingerprint.goldenowl.ai/)
 * [2025-09-08, 15:08:20](https://news.ycombinator.com/item?id=45169275) - [Clankers Die on Christmas](https://remyhax.xyz/posts/clankers-die-on-christmas/)
+* [2025-09-08, 15:02:15](https://news.ycombinator.com/item?id=45169194) - [Learning lessons from the loss of the Norwegian frigate Helge Ingstad](https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/)
 * [2025-09-08, 14:59:30](https://news.ycombinator.com/item?id=45169157) - [Dietary omega-3 polyunsaturated fatty acids as a protective factor of myopia](https://bjo.bmj.com/content/early/2025/08/17/bjo-2024-326872)
 * [2025-09-08, 14:43:17](https://news.ycombinator.com/item?id=45168953) - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
 * [2025-09-08, 14:38:30](https://news.ycombinator.com/item?id=45168883) - ['We can do it for under $100M': Startup joins race to build local ChatGPT](https://www.afr.com/technology/we-can-do-it-for-under-100m-start-up-joins-race-to-build-local-chatgpt-20250908-p5mt5o)
