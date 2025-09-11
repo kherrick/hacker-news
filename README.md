@@ -2,9 +2,9 @@
 
 * [2025-09-11, 13:39:43](https://news.ycombinator.com/item?id=45211527) - [Teens are adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)
 * [2025-09-11, 13:04:49](https://news.ycombinator.com/item?id=45211127) - [An Engineering History of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
-* [2025-09-11, 12:46:27](https://news.ycombinator.com/item?id=45210910) - [GrapheneOS and Forensic Extraction of Data](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
+* [2025-09-11, 12:46:27](https://news.ycombinator.com/item?id=45210910) - [GrapheneOS and Forensic Extraction of Data (2024)](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
 * [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
-* [2025-09-11, 12:32:35](https://news.ycombinator.com/item?id=45210803) - [CPI for all items rises 0.4% in August, 2.9% YoY; shelter and food up](https://www.bls.gov/news.release/archives/cpi_09112025.htm)
+* [2025-09-11, 12:20:19](https://news.ycombinator.com/item?id=45210693) - [The Rise of Async Programming](https://www.braintrust.dev/blog/async-programming)
 * [2025-09-11, 12:15:22](https://news.ycombinator.com/item?id=45210654) - [Show HN: I built a minimal Forth-like stack interpreter library in C](https://news.ycombinator.com/item?id=45210654)
 * [2025-09-11, 12:03:32](https://news.ycombinator.com/item?id=45210564) - [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
 * [2025-09-11, 12:00:14](https://news.ycombinator.com/item?id=45210539) - [Piramidal (YC W24) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform)
@@ -19,6 +19,7 @@
 * [2025-09-10, 22:56:55](https://news.ycombinator.com/item?id=45205232) - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
 * [2025-09-10, 22:21:35](https://news.ycombinator.com/item?id=45204838) - [Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
 * [2025-09-10, 21:49:36](https://news.ycombinator.com/item?id=45204393) - [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+* [2025-09-10, 17:26:08](https://news.ycombinator.com/item?id=45200925) - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 * [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode: Full MCP client access](https://platform.openai.com/docs/guides/developer-mode)
 * [2025-09-10, 14:42:15](https://news.ycombinator.com/item?id=45198481) - [Jiratui – A Textual UI for interacting with Atlassian Jira from your shell](https://jiratui.sh/)
 * [2025-09-09, 13:16:30](https://news.ycombinator.com/item?id=45181535) - [Show HN: Term.everything – Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
@@ -27,7 +28,6 @@
 * [2025-09-08, 12:07:14](https://news.ycombinator.com/item?id=45167295) - [A desktop environment without graphics (tmux-like)](https://github.com/Julien-cpsn/desktop-tui)
 * [2025-09-08, 08:03:21](https://news.ycombinator.com/item?id=45165721) - [Hashed sorting is typically faster than hash tables](https://reiner.org/hashed-sorting)
 * [2025-09-08, 04:59:35](https://news.ycombinator.com/item?id=45164762) - [I Solved PyTorch's Cross-Platform Nightmare](https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/)
-* [2025-09-08, 00:01:54](https://news.ycombinator.com/item?id=45163423) - [Removing yellow stains from fabric with blue light](https://phys.org/news/2025-09-yellow-fabric-blue.html)
 * [2025-09-07, 21:58:01](https://news.ycombinator.com/item?id=45162559) - [How the tz database works (2020)](https://yatsushi.com/blog/tz-database/)
 * [2025-09-07, 20:58:20](https://news.ycombinator.com/item?id=45162078) - [Mapping to the PICO-8 palette, perceptually](https://30fps.net/pages/perceptual-pico8-pixel-mapping/)
 

@@ -10,6 +10,7 @@
 * [2025-09-11, 12:41:11](https://news.ycombinator.com/item?id=45210867) - [Ireland will not participate in Eurovision if Israel takes part](https://www.rte.ie/entertainment/2025/0911/1532957-rte-eurovision/)
 * [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 12:32:35](https://news.ycombinator.com/item?id=45210803) - [CPI for all items rises 0.4% in August, 2.9% YoY; shelter and food up](https://www.bls.gov/news.release/archives/cpi_09112025.htm)
+* [2025-09-11, 12:20:19](https://news.ycombinator.com/item?id=45210693) - [The Rise of Async Programming](https://www.braintrust.dev/blog/async-programming)
 * [2025-09-11, 12:15:22](https://news.ycombinator.com/item?id=45210654) - [Show HN: I built a minimal Forth-like stack interpreter library in C](https://news.ycombinator.com/item?id=45210654)
 * [2025-09-11, 12:03:32](https://news.ycombinator.com/item?id=45210564) - [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
 * [2025-09-11, 12:00:14](https://news.ycombinator.com/item?id=45210539) - [Piramidal (YC W24) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform)
