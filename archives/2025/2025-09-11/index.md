@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 14:44:17](https://news.ycombinator.com/item?id=45212288) - [Social Media Is Navigating Its Sectarian Phase](https://www.newyorker.com/culture/infinite-scroll/social-media-is-navigating-its-sectarian-phase)
+* [2025-09-11, 14:29:23](https://news.ycombinator.com/item?id=45212141) - [NearToilets – Airbnb of toilets, earn from toilets for rent](https://neartoilets.com/)
 * [2025-09-11, 14:05:31](https://news.ycombinator.com/item?id=45211868) - [Conway's Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
 * [2025-09-11, 13:45:28](https://news.ycombinator.com/item?id=45211596) - [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 * [2025-09-11, 13:39:43](https://news.ycombinator.com/item?id=45211527) - [Teens are adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)

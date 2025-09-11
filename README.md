@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-11, 14:44:17](https://news.ycombinator.com/item?id=45212288) - [Social Media Is Navigating Its Sectarian Phase](https://www.newyorker.com/culture/infinite-scroll/social-media-is-navigating-its-sectarian-phase)
+* [2025-09-11, 14:29:23](https://news.ycombinator.com/item?id=45212141) - [NearToilets – Airbnb of toilets, earn from toilets for rent](https://neartoilets.com/)
 * [2025-09-11, 14:05:31](https://news.ycombinator.com/item?id=45211868) - [Conway's Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
 * [2025-09-11, 13:45:28](https://news.ycombinator.com/item?id=45211596) - [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 * [2025-09-11, 13:04:49](https://news.ycombinator.com/item?id=45211127) - [An Engineering History of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
@@ -20,9 +22,7 @@
 * [2025-09-10, 22:56:55](https://news.ycombinator.com/item?id=45205232) - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
 * [2025-09-10, 21:49:36](https://news.ycombinator.com/item?id=45204393) - [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
 * [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode: Full MCP client access](https://platform.openai.com/docs/guides/developer-mode)
-* [2025-09-10, 14:42:15](https://news.ycombinator.com/item?id=45198481) - [Jiratui – A Textual UI for interacting with Atlassian Jira from your shell](https://jiratui.sh/)
 * [2025-09-09, 13:16:30](https://news.ycombinator.com/item?id=45181535) - [Show HN: Term.everything – Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
-* [2025-09-08, 18:36:46](https://news.ycombinator.com/item?id=45172058) - [The HackberryPi CM5 handheld computer](https://github.com/ZitaoTech/HackberryPiCM5)
 * [2025-09-08, 12:46:36](https://news.ycombinator.com/item?id=45167601) - [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html)
 * [2025-09-08, 12:08:10](https://news.ycombinator.com/item?id=45167303) - [C++20 Modules: Practical Insights, Status and TODOs](https://chuanqixu9.github.io/c++/2025/08/14/C++20-Modules.en.html)
 * [2025-09-08, 12:07:14](https://news.ycombinator.com/item?id=45167295) - [A desktop environment without graphics (tmux-like)](https://github.com/Julien-cpsn/desktop-tui)
