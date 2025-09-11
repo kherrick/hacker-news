@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 12:46:27](https://news.ycombinator.com/item?id=45210910) - [GrapheneOS and Forensic Extraction of Data](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
 * [2025-09-11, 12:41:11](https://news.ycombinator.com/item?id=45210867) - [Ireland will not participate in Eurovision if Israel takes part](https://www.rte.ie/entertainment/2025/0911/1532957-rte-eurovision/)
+* [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
+* [2025-09-11, 12:32:35](https://news.ycombinator.com/item?id=45210803) - [CPI for all items rises 0.4% in August, 2.9% YoY; shelter and food up](https://www.bls.gov/news.release/archives/cpi_09112025.htm)
 * [2025-09-11, 12:03:32](https://news.ycombinator.com/item?id=45210564) - [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
 * [2025-09-11, 12:00:14](https://news.ycombinator.com/item?id=45210539) - [Piramidal (YC W24) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform)
 * [2025-09-11, 11:49:24](https://news.ycombinator.com/item?id=45210451) - [AI's $344B 'Language Model' Bet Looks Fragile](https://www.bloomberg.com/opinion/articles/2025-09-11/ai-s-344-billion-language-model-bet-looks-fragile)

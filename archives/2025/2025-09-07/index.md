@@ -18,6 +18,7 @@
 * [2025-09-07, 21:31:29](https://news.ycombinator.com/item?id=45162368) - [Show HN: OpenCV over WebRTC (in Go)](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
 * [2025-09-07, 21:14:08](https://news.ycombinator.com/item?id=45162220) - [Taco Bell AI Drive-Thru](https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html)
 * [2025-09-07, 21:01:33](https://news.ycombinator.com/item?id=45162110) - [Print GitHub Repositories as Books](https://gitprint.me/)
+* [2025-09-07, 20:58:20](https://news.ycombinator.com/item?id=45162078) - [Mapping to the PICO-8 palette, perceptually](https://30fps.net/pages/perceptual-pico8-pixel-mapping/)
 * [2025-09-07, 20:31:38](https://news.ycombinator.com/item?id=45161855) - [Pico CSS • Minimal CSS Framework for Semantic HTML](https://picocss.com)
 * [2025-09-07, 20:26:30](https://news.ycombinator.com/item?id=45161816) - [Everything from 1991 Radio Shack ad I now do with my phone](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
 * [2025-09-07, 20:11:06](https://news.ycombinator.com/item?id=45161702) - [How did Tether profit $13B in 2024 from USDT?](https://antongolub.substack.com/p/how-did-tether-profit-13-billion)
