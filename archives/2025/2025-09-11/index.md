@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 18:16:09](https://news.ycombinator.com/item?id=45214498) - [Adam (YC W25) Is Hiring to Build the Future of CAD](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer)
+* [2025-09-11, 17:42:56](https://news.ycombinator.com/item?id=45214164) - [Bulletproof host Stark Industries evades EU sanctions](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/)
 * [2025-09-11, 17:28:13](https://news.ycombinator.com/item?id=45214023) - [Native ACME support comes to Nginx](https://letsencrypt.org/2025/09/11/native-acme-for-nginx)
+* [2025-09-11, 16:58:08](https://news.ycombinator.com/item?id=45213732) - ['Robber bees' invade apiarist's shop in attempted honey heist](https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532)
 * [2025-09-11, 16:46:09](https://news.ycombinator.com/item?id=45213612) - [Every Keystroke You Make: A Tech-Law Measurement and Analysis of Event Listeners](https://arxiv.org/abs/2508.19825)
 * [2025-09-11, 16:38:58](https://news.ycombinator.com/item?id=45213549) - [Reality Is Ruining the Humanoid Robot Hype](https://spectrum.ieee.org/humanoid-robot-scaling)
 * [2025-09-11, 16:13:09](https://news.ycombinator.com/item?id=45213299) - [Windows KASLR Bypass – CVE-2025-53136](https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/)
@@ -28,6 +31,7 @@
 * [2025-09-11, 12:00:14](https://news.ycombinator.com/item?id=45210539) - [Piramidal (YC W24) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform)
 * [2025-09-11, 11:49:24](https://news.ycombinator.com/item?id=45210451) - [AI's $344B 'Language Model' Bet Looks Fragile](https://www.bloomberg.com/opinion/articles/2025-09-11/ai-s-344-billion-language-model-bet-looks-fragile)
 * [2025-09-11, 11:48:01](https://news.ycombinator.com/item?id=45210442) - [Brussels faces privacy crossroads over encryption backdoors](https://www.theregister.com/2025/09/11/eu_chat_control/)
+* [2025-09-11, 11:42:23](https://news.ycombinator.com/item?id=45210399) - [Center for the Alignment of AI Alignment Centers](https://alignmentalignment.ai)
 * [2025-09-11, 09:41:07](https://news.ycombinator.com/item?id=45209599) - [BCacheFS is being disabled in the openSUSE kernels 6.17+](https://lwn.net/ml/all/9032de2a-03a7-4f9e-9c8a-8bd81c5d1fc5@suse.cz/)
 * [2025-09-11, 09:32:49](https://news.ycombinator.com/item?id=45209558) - [Reshaped is now open source](https://reshaped.so/blog/reshaped-oss)
 * [2025-09-11, 09:29:52](https://news.ycombinator.com/item?id=45209532) - [DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking](https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/)
