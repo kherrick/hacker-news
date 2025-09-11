@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-11, 01:27:31](https://news.ycombinator.com/item?id=45206567) - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
 * [2025-09-10, 23:59:46](https://news.ycombinator.com/item?id=45205844) - [Gravitational wave detector confirms theories of Einstein and Hawking](https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes)
 * [2025-09-10, 22:56:55](https://news.ycombinator.com/item?id=45205232) - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
 * [2025-09-10, 22:45:50](https://news.ycombinator.com/item?id=45205135) - [XNEdit – fast and classic X11 text editor](https://www.unixwork.de/xnedit/)
@@ -16,7 +17,6 @@
 * [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode: Full MCP client access](https://platform.openai.com/docs/guides/developer-mode)
 * [2025-09-10, 16:00:06](https://news.ycombinator.com/item?id=45199648) - [Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts](https://news.ycombinator.com/item?id=45199648)
 * [2025-09-10, 14:42:15](https://news.ycombinator.com/item?id=45198481) - [Jiratui – A Textual UI for interacting with Atlassian Jira from your shell](https://jiratui.sh/)
-* [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap is cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
 * [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
 * [2025-09-10, 10:08:14](https://news.ycombinator.com/item?id=45195520) - [Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
@@ -25,9 +25,9 @@
 * [2025-09-08, 18:36:46](https://news.ycombinator.com/item?id=45172058) - [The HackberryPi CM5 handheld computer](https://github.com/ZitaoTech/HackberryPiCM5)
 * [2025-09-08, 13:04:47](https://news.ycombinator.com/item?id=45167757) - [Picat: A Logic-based Multi-paradigm Language (2014) [pdf]](https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf)
 * [2025-09-08, 12:07:14](https://news.ycombinator.com/item?id=45167295) - [A desktop environment without graphics (tmux-like)](https://github.com/Julien-cpsn/desktop-tui)
+* [2025-09-08, 07:20:52](https://news.ycombinator.com/item?id=45165464) - [Deliberate Abstraction](https://entropicthoughts.com/deliberate-abstraction)
 * [2025-09-08, 01:46:14](https://news.ycombinator.com/item?id=45163998) - [Harvey Mudd Miniature Machine](https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html)
 * [2025-09-07, 19:31:50](https://news.ycombinator.com/item?id=45161410) - [Clojure's Solutions to the Expression Problem](https://www.infoq.com/presentations/Clojure-Expression-Problem/)
-* [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
 * [2025-09-07, 06:49:20](https://news.ycombinator.com/item?id=45155963) - [A polyglot's guide to multiple-dispatch](https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/)
 * [2025-09-07, 05:49:29](https://news.ycombinator.com/item?id=45155731) - [Longhorn – A Kubernetes-Native Filesystem](https://vegard.blog.engen.priv.no/?p=518)
 
