@@ -9,6 +9,7 @@
 * [2025-09-07, 23:00:00](https://news.ycombinator.com/item?id=45162980) - [South Korea will bring home 300 workers detained in Hyundai plant raid](https://apnews.com/article/us-south-korea-ice-raid-georgia-hyundai-ee8781d965c74a5ee18525ce87959ba4)
 * [2025-09-07, 22:45:51](https://news.ycombinator.com/item?id=45162886) - [Detroit's Carmakers to Save Billions in Emissions Rollback](https://www.bloomberg.com/news/articles/2025-09-07/detroit-s-carmakers-to-save-billions-in-trump-emissions-rollback)
 * [2025-09-07, 22:34:23](https://news.ycombinator.com/item?id=45162803) - [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/)
+* [2025-09-07, 22:30:06](https://news.ycombinator.com/item?id=45162773) - [What would you do with 52 hours a week of discretionary time?](https://www.njbrown.com/blog/25/)
 * [2025-09-07, 22:16:37](https://news.ycombinator.com/item?id=45162679) - [Ask HN: Why is there no native SSH hook to run a local command before connecting](https://news.ycombinator.com/item?id=45162679)
 * [2025-09-07, 22:06:35](https://news.ycombinator.com/item?id=45162626) - [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
 * [2025-09-07, 22:03:13](https://news.ycombinator.com/item?id=45162593) - [Taking Buildkite from a side project to a global company](https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project)
