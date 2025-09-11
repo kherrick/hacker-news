@@ -61,6 +61,7 @@
 * [2025-09-08, 12:26:15](https://news.ycombinator.com/item?id=45167436) - [Go for Bash Programmers – Part II: CLI Tools](https://github.com/go-monk/from-bash-to-go-part-ii)
 * [2025-09-08, 12:21:15](https://news.ycombinator.com/item?id=45167401) - [A complete map of the Rust type system](https://rustcurious.com/elements/)
 * [2025-09-08, 12:18:55](https://news.ycombinator.com/item?id=45167394) - [Package Managers Are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
+* [2025-09-08, 12:07:14](https://news.ycombinator.com/item?id=45167295) - [A desktop environment without graphics (tmux-like)](https://github.com/Julien-cpsn/desktop-tui)
 * [2025-09-08, 12:01:18](https://news.ycombinator.com/item?id=45167245) - [Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64](https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/)
 * [2025-09-08, 12:00:23](https://news.ycombinator.com/item?id=45167239) - [VMware's in court again. Customer relationships rarely go this wrong](https://www.theregister.com/2025/09/08/vmware_in_court_opinion/)
 * [2025-09-08, 11:24:42](https://news.ycombinator.com/item?id=45166972) - [14 Killed in protests in Nepal over social media ban](https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/)
