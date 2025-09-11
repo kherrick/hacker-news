@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 15:47:06](https://news.ycombinator.com/item?id=45212976) - [Health Insurance Costs for Businesses to Rise by Most in 15 Years](https://www.wsj.com/health/healthcare/health-insurance-costs-rise-6cc1b934)
 * [2025-09-11, 14:51:57](https://news.ycombinator.com/item?id=45212370) - [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/)
 * [2025-09-11, 14:44:17](https://news.ycombinator.com/item?id=45212288) - [Social Media Is Navigating Its Sectarian Phase](https://www.newyorker.com/culture/infinite-scroll/social-media-is-navigating-its-sectarian-phase)
 * [2025-09-11, 14:29:23](https://news.ycombinator.com/item?id=45212141) - [NearToilets – Airbnb of toilets, earn from toilets for rent](https://neartoilets.com/)
