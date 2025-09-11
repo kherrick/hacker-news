@@ -69,6 +69,7 @@
 * [2025-09-08, 12:02:56](https://news.ycombinator.com/item?id=45167260) - [Hot Chips 2025: Session 1 – CPUs – By George Cozma](https://chipsandcheese.com/p/hot-chips-2025-session-1-cpus)
 * [2025-09-08, 12:01:18](https://news.ycombinator.com/item?id=45167245) - [Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64](https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/)
 * [2025-09-08, 12:00:23](https://news.ycombinator.com/item?id=45167239) - [VMware's in court again. Customer relationships rarely go this wrong](https://www.theregister.com/2025/09/08/vmware_in_court_opinion/)
+* [2025-09-08, 11:36:25](https://news.ycombinator.com/item?id=45167049) - [Beyond package management: How Nix refactored my digital life](https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/)
 * [2025-09-08, 11:24:42](https://news.ycombinator.com/item?id=45166972) - [14 Killed in protests in Nepal over social media ban](https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/)
 * [2025-09-08, 10:50:01](https://news.ycombinator.com/item?id=45166750) - [RSS Beat Microsoft](https://buttondown.com/blog/rss-vs-ice)
 * [2025-09-08, 10:44:46](https://news.ycombinator.com/item?id=45166711) - [How inaccurate are Nintendo's official emulators? [video]](https://www.youtube.com/watch?v=oYjYmSniQyM)
