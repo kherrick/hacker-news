@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-09-10, 11:31:55",
-      "https://news.ycombinator.com/item?id=45196173"
-    ],
-    [
-      "OrioleDB Patent: now freely available to the Postgres community",
-      "https://supabase.com/blog/orioledb-patent-free"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 10:08:14",
       "https://news.ycombinator.com/item?id=45195520"
     ],
@@ -201,12 +191,32 @@
   ],
   [
     [
+      "2025-09-10, 03:42:55",
+      "https://news.ycombinator.com/item?id=45192963"
+    ],
+    [
+      "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+      "https://github.com/juhovh/tailguard"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 13:16:30",
       "https://news.ycombinator.com/item?id=45181535"
     ],
     [
       "Show HN: Term.everything – Run any GUI app in the terminal",
       "https://github.com/mmulet/term.everything"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 21:35:41",
+      "https://news.ycombinator.com/item?id=45174328"
+    ],
+    [
+      "Formally verifying a floating-point division routine with Gappa – part 1",
+      "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A polyglot's guide to multiple-dispatch (2016)",
       "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 05:49:29",
-      "https://news.ycombinator.com/item?id=45155731"
-    ],
-    [
-      "Longhorn – A Kubernetes-Native Filesystem",
-      "https://vegard.blog.engen.priv.no/?p=518"
     ]
   ]
 ]
