@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 14:51:57](https://news.ycombinator.com/item?id=45212370) - [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/)
 * [2025-09-11, 14:44:17](https://news.ycombinator.com/item?id=45212288) - [Social Media Is Navigating Its Sectarian Phase](https://www.newyorker.com/culture/infinite-scroll/social-media-is-navigating-its-sectarian-phase)
 * [2025-09-11, 14:29:23](https://news.ycombinator.com/item?id=45212141) - [NearToilets – Airbnb of toilets, earn from toilets for rent](https://neartoilets.com/)
 * [2025-09-11, 14:05:31](https://news.ycombinator.com/item?id=45211868) - [Conway's Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
