@@ -26,7 +26,7 @@
 * [2025-09-08, 13:04:47](https://news.ycombinator.com/item?id=45167757) - [Picat: A Logic-based Multi-paradigm Language (2014) [pdf]](https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf)
 * [2025-09-08, 12:07:14](https://news.ycombinator.com/item?id=45167295) - [A desktop environment without graphics (tmux-like)](https://github.com/Julien-cpsn/desktop-tui)
 * [2025-09-08, 12:02:56](https://news.ycombinator.com/item?id=45167260) - [Hot Chips 2025: Session 1 – CPUs – By George Cozma](https://chipsandcheese.com/p/hot-chips-2025-session-1-cpus)
-* [2025-09-08, 07:20:52](https://news.ycombinator.com/item?id=45165464) - [Deliberate Abstraction](https://entropicthoughts.com/deliberate-abstraction)
+* [2025-09-08, 07:45:36](https://news.ycombinator.com/item?id=45165608) - [Rewriting Dataframes for MicroHaskell](https://mchav.github.io/rewriting-dataframes-for-microhs/)
 * [2025-09-07, 19:31:50](https://news.ycombinator.com/item?id=45161410) - [Clojure's Solutions to the Expression Problem](https://www.infoq.com/presentations/Clojure-Expression-Problem/)
 * [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
 * [2025-09-07, 06:49:20](https://news.ycombinator.com/item?id=45155963) - [A polyglot's guide to multiple-dispatch (2016)](https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/)
