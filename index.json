@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-09-11, 09:22:43",
-      "https://news.ycombinator.com/item?id=45209487"
+      "2025-09-11, 09:29:52",
+      "https://news.ycombinator.com/item?id=45209532"
     ],
     [
-      "How Does the Cycle of Political Violence End? Here's What an Expert Says",
-      "https://www.politico.com/news/magazine/2025/06/02/political-violence-boulder-attack-00381778"
+      "DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking",
+      "https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-09-10, 12:01:30",
+      "https://news.ycombinator.com/item?id=45196437"
+    ],
+    [
+      "Kerberoasting",
+      "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 10:08:14",
       "https://news.ycombinator.com/item?id=45195520"
     ],
@@ -181,22 +191,22 @@
   ],
   [
     [
+      "2025-09-10, 03:42:55",
+      "https://news.ycombinator.com/item?id=45192963"
+    ],
+    [
+      "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+      "https://github.com/juhovh/tailguard"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 13:16:30",
       "https://news.ycombinator.com/item?id=45181535"
     ],
     [
       "Show HN: Term.everything – Run any GUI app in the terminal",
       "https://github.com/mmulet/term.everything"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 21:35:41",
-      "https://news.ycombinator.com/item?id=45174328"
-    ],
-    [
-      "Formally verifying a floating-point division routine with Gappa – part 1",
-      "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Clojure's Solutions to the Expression Problem",
       "https://www.infoq.com/presentations/Clojure-Expression-Problem/"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 06:49:20",
-      "https://news.ycombinator.com/item?id=45155963"
-    ],
-    [
-      "A polyglot's guide to multiple-dispatch (2016)",
-      "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/"
     ]
   ]
 ]
