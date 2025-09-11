@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-11, 19:59:03",
+      "https://news.ycombinator.com/item?id=45215534"
+    ],
+    [
+      "C# Will Become F# – Gautier Talks About Microsoft Technology",
+      "https://gautiertalksmicrosoft.wordpress.com/2025/04/13/c-will-become-f/"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 19:29:33",
       "https://news.ycombinator.com/item?id=45215266"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45214908"
     ],
     [
-      "Claude's Memory Architecture Is the Polar Opposite of ChatGPT's",
+      "Claude's memory architecture is the opposite of ChatGPT's",
       "https://www.shloked.com/writing/claude-memory"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Bulletproof host Stark Industries evades EU sanctions",
       "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 17:28:13",
-      "https://news.ycombinator.com/item?id=45214023"
-    ],
-    [
-      "Native ACME support comes to Nginx",
-      "https://letsencrypt.org/2025/09/11/native-acme-for-nginx"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-09-11, 07:43:12",
+      "https://news.ycombinator.com/item?id=45208925"
+    ],
+    [
+      "GrapheneOS accessed Android security patches but not allowed to publish sources",
+      "https://grapheneos.social/@GrapheneOS/115164133992525834"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 19:30:37",
       "https://news.ycombinator.com/item?id=45202489"
     ],
@@ -267,16 +277,6 @@
     [
       "Adjacency Matrix and std:mdspan, C++23",
       "https://www.cppstories.com/2025/cpp23_mdspan_adj/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 11:36:25",
-      "https://news.ycombinator.com/item?id=45167049"
-    ],
-    [
-      "Beyond package management: How Nix refactored my digital life",
-      "https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/"
     ]
   ],
   [
