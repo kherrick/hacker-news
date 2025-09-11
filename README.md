@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How Palantir Is Mapping Everyone's Data for the Government](https://www.techdirt.com/2025/09/11/how-palantir-is-mapping-everyones-data-for-the-government/)
+* [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How palantir is mapping everyone's data for the government](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
 * [2025-09-11, 20:35:11](https://news.ycombinator.com/item?id=45215869) - [Unusual Capabilities of Nano Banana (Examples)](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 * [2025-09-11, 19:29:33](https://news.ycombinator.com/item?id=45215266) - [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
 * [2025-09-11, 19:06:32](https://news.ycombinator.com/item?id=45215032) - [Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
