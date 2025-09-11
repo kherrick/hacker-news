@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-11, 19:59:03](https://news.ycombinator.com/item?id=45215534) - [C# Will Become F# – Gautier Talks About Microsoft Technology](https://gautiertalksmicrosoft.wordpress.com/2025/04/13/c-will-become-f/)
+* [2025-09-11, 20:35:11](https://news.ycombinator.com/item?id=45215869) - [Unusual Capabilities of Nano Banana (Examples)](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 * [2025-09-11, 19:29:33](https://news.ycombinator.com/item?id=45215266) - [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
 * [2025-09-11, 19:06:32](https://news.ycombinator.com/item?id=45215032) - [Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
 * [2025-09-11, 18:58:22](https://news.ycombinator.com/item?id=45214933) - [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
@@ -25,10 +25,10 @@
 * [2025-09-11, 09:02:50](https://news.ycombinator.com/item?id=45209389) - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
 * [2025-09-11, 07:43:12](https://news.ycombinator.com/item?id=45208925) - [GrapheneOS accessed Android security patches but not allowed to publish sources](https://grapheneos.social/@GrapheneOS/115164133992525834)
 * [2025-09-10, 19:30:37](https://news.ycombinator.com/item?id=45202489) - [Show HN: Making a cross-platform game in Go using WebRTC Datachannels](https://pion.ly/blog/making-a-game-with-pion/)
-* [2025-09-08, 12:58:09](https://news.ycombinator.com/item?id=45167694) - [Tumult and Sympathy – The Letters of Oliver Sacks](https://www.commonwealmagazine.org/tumult-and-sympathy)
 * [2025-09-08, 12:56:55](https://news.ycombinator.com/item?id=45167688) - [Public Suffix List](https://publicsuffix.org/)
 * [2025-09-08, 12:14:20](https://news.ycombinator.com/item?id=45167346) - [Adjacency Matrix and std:mdspan, C++23](https://www.cppstories.com/2025/cpp23_mdspan_adj/)
 * [2025-09-08, 09:27:40](https://news.ycombinator.com/item?id=45166238) - [The Helix Text Editor (2024)](https://jonathan-frere.com/posts/helix/)
+* [2025-09-08, 08:06:43](https://news.ycombinator.com/item?id=45165751) - [ApeRAG: Production-ready GraphRAG with multi-modal indexing and K8s deployment](https://github.com/apecloud/ApeRAG)
 * [2025-09-08, 00:01:54](https://news.ycombinator.com/item?id=45163423) - [Removing yellow stains from fabric with blue light](https://phys.org/news/2025-09-yellow-fabric-blue.html)
 
 ## [Archives](archives/index.md)
