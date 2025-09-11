@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-09-11, 15:47:06",
+      "https://news.ycombinator.com/item?id=45212976"
+    ],
+    [
+      "Health Insurance Costs for Businesses to Rise by Most in 15 Years",
+      "https://www.wsj.com/health/healthcare/health-insurance-costs-rise-6cc1b934"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 14:51:57",
       "https://news.ycombinator.com/item?id=45212370"
     ],
     [
       "The US is now the largest investor in commercial spyware",
       "https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 14:44:17",
-      "https://news.ycombinator.com/item?id=45212288"
-    ],
-    [
-      "Social Media Is Navigating Its Sectarian Phase",
-      "https://www.newyorker.com/culture/infinite-scroll/social-media-is-navigating-its-sectarian-phase"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Piramidal (YC W24) Is Hiring Back End Engineer",
       "https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 11:48:01",
-      "https://news.ycombinator.com/item?id=45210442"
-    ],
-    [
-      "Brussels faces privacy crossroads over encryption backdoors",
-      "https://www.theregister.com/2025/09/11/eu_chat_control/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "C++20 Modules: Practical Insights, Status and TODOs",
       "https://chuanqixu9.github.io/c++/2025/08/14/C++20-Modules.en.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 10:42:14",
+      "https://news.ycombinator.com/item?id=45166698"
+    ],
+    [
+      "Strong Eventual Consistency – The Big Idea Behind CRDTs",
+      "https://lewiscampbell.tech/blog/250908.html"
     ]
   ],
   [
