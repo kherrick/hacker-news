@@ -18,9 +18,10 @@
 * [2025-09-10, 16:00:06](https://news.ycombinator.com/item?id=45199648) - [Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts](https://news.ycombinator.com/item?id=45199648)
 * [2025-09-10, 14:42:15](https://news.ycombinator.com/item?id=45198481) - [Jiratui – A Textual UI for interacting with Atlassian Jira from your shell](https://jiratui.sh/)
 * [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
-* [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
 * [2025-09-10, 10:08:14](https://news.ycombinator.com/item?id=45195520) - [Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
+* [2025-09-10, 03:42:55](https://news.ycombinator.com/item?id=45192963) - [Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container](https://github.com/juhovh/tailguard)
 * [2025-09-09, 13:16:30](https://news.ycombinator.com/item?id=45181535) - [Show HN: Term.everything – Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
+* [2025-09-08, 21:35:41](https://news.ycombinator.com/item?id=45174328) - [Formally verifying a floating-point division routine with Gappa – part 1](https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1)
 * [2025-09-08, 18:36:46](https://news.ycombinator.com/item?id=45172058) - [The HackberryPi CM5 handheld computer](https://github.com/ZitaoTech/HackberryPiCM5)
 * [2025-09-08, 13:04:47](https://news.ycombinator.com/item?id=45167757) - [Picat: A Logic-based Multi-paradigm Language (2014) [pdf]](https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf)
 * [2025-09-08, 12:07:14](https://news.ycombinator.com/item?id=45167295) - [A desktop environment without graphics (tmux-like)](https://github.com/Julien-cpsn/desktop-tui)
@@ -29,7 +30,6 @@
 * [2025-09-07, 19:31:50](https://news.ycombinator.com/item?id=45161410) - [Clojure's Solutions to the Expression Problem](https://www.infoq.com/presentations/Clojure-Expression-Problem/)
 * [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
 * [2025-09-07, 06:49:20](https://news.ycombinator.com/item?id=45155963) - [A polyglot's guide to multiple-dispatch (2016)](https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/)
-* [2025-09-07, 05:49:29](https://news.ycombinator.com/item?id=45155731) - [Longhorn – A Kubernetes-Native Filesystem](https://vegard.blog.engen.priv.no/?p=518)
 
 ## [Archives](archives/index.md)
 
