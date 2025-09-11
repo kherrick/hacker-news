@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-11, 19:29:33",
+      "https://news.ycombinator.com/item?id=45215266"
+    ],
+    [
+      "Randomly selecting points inside a triangle",
+      "https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 19:06:32",
       "https://news.ycombinator.com/item?id=45215032"
     ],
     [
       "Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app",
       "https://news.ycombinator.com/item?id=45215032"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 18:58:22",
+      "https://news.ycombinator.com/item?id=45214933"
+    ],
+    [
+      "Rails on SQLite: new ways to cause outages",
+      "https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-09-11, 12:03:32",
-      "https://news.ycombinator.com/item?id=45210564"
-    ],
-    [
-      "Gregg Kellogg has died",
-      "https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html"
-    ]
-  ],
-  [
-    [
       "2025-09-11, 11:46:13",
       "https://news.ycombinator.com/item?id=45210428"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2025-09-11, 07:43:12",
-      "https://news.ycombinator.com/item?id=45208925"
-    ],
-    [
-      "GrapheneOS accessed Android security patches but not allowed to publish sources",
-      "https://grapheneos.social/@GrapheneOS/115164133992525834"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 19:30:37",
       "https://news.ycombinator.com/item?id=45202489"
     ],
     [
       "Show HN: Making a cross-platform game in Go using WebRTC Datachannels",
       "https://pion.ly/blog/making-a-game-with-pion/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 16:26:32",
-      "https://news.ycombinator.com/item?id=45170274"
-    ],
-    [
-      "Pulling an Inverse Conway Maneuver at Netflix (2023)",
-      "https://jivimberg.io/blog/2023/09/04/the-inverse-conway-maneuver/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-09-08, 12:14:20",
+      "https://news.ycombinator.com/item?id=45167346"
+    ],
+    [
+      "Adjacency Matrix and std:mdspan, C++23",
+      "https://www.cppstories.com/2025/cpp23_mdspan_adj/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 11:36:25",
       "https://news.ycombinator.com/item?id=45167049"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45166238"
     ],
     [
-      "The Helix Text Editor",
+      "The Helix Text Editor (2024)",
       "https://jonathan-frere.com/posts/helix/"
     ]
   ],
