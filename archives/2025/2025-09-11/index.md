@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 14:05:31](https://news.ycombinator.com/item?id=45211868) - [Conway's Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
+* [2025-09-11, 13:45:28](https://news.ycombinator.com/item?id=45211596) - [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 * [2025-09-11, 13:39:43](https://news.ycombinator.com/item?id=45211527) - [Teens are adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)
 * [2025-09-11, 13:04:49](https://news.ycombinator.com/item?id=45211127) - [An Engineering History of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
 * [2025-09-11, 12:46:27](https://news.ycombinator.com/item?id=45210910) - [GrapheneOS and Forensic Extraction of Data](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
