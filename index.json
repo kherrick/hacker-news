@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-09-10, 21:01:01",
-      "https://news.ycombinator.com/item?id=45203643"
-    ],
-    [
-      "Mux (YC W16) Is Hiring Engineering ICs and Managers",
-      "https://mux.com/jobs"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 18:21:12",
       "https://news.ycombinator.com/item?id=45201703"
     ],
@@ -197,6 +187,16 @@
     [
       "Show HN: Term.everything – Run any GUI app in the terminal",
       "https://github.com/mmulet/term.everything"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 21:35:41",
+      "https://news.ycombinator.com/item?id=45174328"
+    ],
+    [
+      "Formally verifying a floating-point division routine with Gappa – part 1",
+      "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1"
     ]
   ],
   [
