@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-11, 19:06:32](https://news.ycombinator.com/item?id=45215032) - [Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
-* [2025-09-11, 18:44:07](https://news.ycombinator.com/item?id=45214784) - [We Melted iPhones for Science - Apple Just Spent $10B Proving We Were Right](https://accelerateordie.com/p/we-melted-iphones-for-science)
+* [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude's Memory Architecture Is the Polar Opposite of ChatGPT's](https://www.shloked.com/writing/claude-memory)
+* [2025-09-11, 18:32:43](https://news.ycombinator.com/item?id=45214672) - [Making io_uring pervasive in QEMU [pdf]](https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf)
 * [2025-09-11, 18:32:23](https://news.ycombinator.com/item?id=45214670) - [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
 * [2025-09-11, 18:16:09](https://news.ycombinator.com/item?id=45214498) - [Adam (YC W25) Is Hiring to Build the Future of CAD](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer)
 * [2025-09-11, 17:42:56](https://news.ycombinator.com/item?id=45214164) - [Bulletproof host Stark Industries evades EU sanctions](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/)
@@ -16,7 +17,6 @@
 * [2025-09-11, 13:04:49](https://news.ycombinator.com/item?id=45211127) - [An engineering history of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
 * [2025-09-11, 12:46:27](https://news.ycombinator.com/item?id=45210910) - [GrapheneOS and Forensic Extraction of Data (2024)](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
 * [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
-* [2025-09-11, 12:15:22](https://news.ycombinator.com/item?id=45210654) - [Show HN: I built a minimal Forth-like stack interpreter library in C](https://news.ycombinator.com/item?id=45210654)
 * [2025-09-11, 12:03:32](https://news.ycombinator.com/item?id=45210564) - [Gregg Kellogg has died](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
 * [2025-09-11, 11:46:13](https://news.ycombinator.com/item?id=45210428) - [AirPods live translation blocked for EU users with EU Apple accounts](https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/)
 * [2025-09-11, 11:42:23](https://news.ycombinator.com/item?id=45210399) - [Center for the Alignment of AI Alignment Centers](https://alignmentalignment.ai)

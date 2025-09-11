@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
 * [2025-09-11, 19:06:32](https://news.ycombinator.com/item?id=45215032) - [Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
+* [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude's Memory Architecture Is the Polar Opposite of ChatGPT's](https://www.shloked.com/writing/claude-memory)
 * [2025-09-11, 18:44:07](https://news.ycombinator.com/item?id=45214784) - [We Melted iPhones for Science - Apple Just Spent $10B Proving We Were Right](https://accelerateordie.com/p/we-melted-iphones-for-science)
+* [2025-09-11, 18:32:43](https://news.ycombinator.com/item?id=45214672) - [Making io_uring pervasive in QEMU [pdf]](https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf)
 * [2025-09-11, 18:32:23](https://news.ycombinator.com/item?id=45214670) - [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
 * [2025-09-11, 18:16:09](https://news.ycombinator.com/item?id=45214498) - [Adam (YC W25) Is Hiring to Build the Future of CAD](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer)
 * [2025-09-11, 17:52:18](https://news.ycombinator.com/item?id=45214257) - [Oracle stock gains 36% to post best day since 1992, adding $244B in value](https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html)
