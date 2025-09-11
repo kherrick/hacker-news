@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-11, 02:26:16](https://news.ycombinator.com/item?id=45207008) - [The Four Fallacies of Modern AI](https://blog.apiad.net/p/the-four-fallacies-of-modern-ai)
 * [2025-09-11, 01:27:31](https://news.ycombinator.com/item?id=45206567) - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
 * [2025-09-11, 00:52:32](https://news.ycombinator.com/item?id=45206311) - [Where did the Smurfs get their hats (2018)](https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/)
 * [2025-09-10, 22:56:55](https://news.ycombinator.com/item?id=45205232) - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
@@ -28,7 +29,6 @@
 * [2025-09-08, 07:45:36](https://news.ycombinator.com/item?id=45165608) - [Rewriting Dataframes for MicroHaskell](https://mchav.github.io/rewriting-dataframes-for-microhs/)
 * [2025-09-08, 00:01:54](https://news.ycombinator.com/item?id=45163423) - [Removing yellow stains from fabric with blue light](https://phys.org/news/2025-09-yellow-fabric-blue.html)
 * [2025-09-07, 19:31:50](https://news.ycombinator.com/item?id=45161410) - [Clojure's Solutions to the Expression Problem](https://www.infoq.com/presentations/Clojure-Expression-Problem/)
-* [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks (2017)](https://sembr.org)
 * [2025-09-07, 06:49:20](https://news.ycombinator.com/item?id=45155963) - [A polyglot's guide to multiple-dispatch (2016)](https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/)
 
 ## [Archives](archives/index.md)
