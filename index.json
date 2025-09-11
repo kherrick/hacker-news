@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-10, 23:59:46",
+      "https://news.ycombinator.com/item?id=45205844"
+    ],
+    [
+      "Gravitational wave detector confirms theories of Einstein and Hawking",
+      "https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 22:56:55",
       "https://news.ycombinator.com/item?id=45205232"
     ],
     [
       "DOOMscrolling: The Game",
       "https://ironicsans.ghost.io/doomscrolling-the-game/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 22:45:50",
+      "https://news.ycombinator.com/item?id=45205135"
+    ],
+    [
+      "XNEdit – fast and classic X11 text editor",
+      "https://www.unixwork.de/xnedit/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Mux (YC W16) Is Hiring Engineering ICs and Managers",
       "https://mux.com/jobs"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 20:59:24",
-      "https://news.ycombinator.com/item?id=45203617"
-    ],
-    [
-      "Show HN: HumanAlarm – Real people knock on your door to wake you up",
-      "https://humanalarm.com"
     ]
   ],
   [
@@ -137,26 +147,6 @@
     [
       "Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts",
       "https://news.ycombinator.com/item?id=45199648"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 15:43:43",
-      "https://news.ycombinator.com/item?id=45199378"
-    ],
-    [
-      "The origin story of merge queues",
-      "https://mergify.com/blog/the-origin-story-of-merge-queues"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 15:18:12",
-      "https://news.ycombinator.com/item?id=45199031"
-    ],
-    [
-      "Zoox robotaxi launches in Las Vegas",
-      "https://zoox.com/journal/las-vegas"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Picat: A Logic-based Multi-paradigm Language (2014) [pdf]",
       "https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 12:07:14",
+      "https://news.ycombinator.com/item?id=45167295"
+    ],
+    [
+      "A desktop environment without graphics (tmux-like)",
+      "https://github.com/Julien-cpsn/desktop-tui"
     ]
   ],
   [
