@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-09-11, 18:32:23",
+      "https://news.ycombinator.com/item?id=45214670"
+    ],
+    [
+      "Top model scores may be skewed by Git history leaks in SWE-bench",
+      "https://github.com/SWE-bench/SWE-bench/issues/465"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 18:16:09",
       "https://news.ycombinator.com/item?id=45214498"
     ],
     [
       "Adam (YC W25) Is Hiring to Build the Future of CAD",
       "https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 17:52:18",
-      "https://news.ycombinator.com/item?id=45214257"
-    ],
-    [
-      "Oracle stock gains 36% to post best day since 1992, adding $244B in value",
-      "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "A tech-law measurement and analysis of event listeners for wiretapping",
       "https://arxiv.org/abs/2508.19825"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 16:38:58",
-      "https://news.ycombinator.com/item?id=45213549"
-    ],
-    [
-      "The obstacles to scaling up humanoids",
-      "https://spectrum.ieee.org/humanoid-robot-scaling"
     ]
   ],
   [
@@ -201,32 +191,12 @@
   ],
   [
     [
-      "2025-09-11, 09:29:52",
-      "https://news.ycombinator.com/item?id=45209532"
-    ],
-    [
-      "DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking",
-      "https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/"
-    ]
-  ],
-  [
-    [
       "2025-09-11, 09:02:50",
       "https://news.ycombinator.com/item?id=45209389"
     ],
     [
       "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
       "https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 08:01:57",
-      "https://news.ycombinator.com/item?id=45209065"
-    ],
-    [
-      "PgEdge Goes Open Source",
-      "https://www.pgedge.com/blog/pgedge-goes-open-source"
     ]
   ],
   [
@@ -241,12 +211,42 @@
   ],
   [
     [
+      "2025-09-10, 19:30:37",
+      "https://news.ycombinator.com/item?id=45202489"
+    ],
+    [
+      "Show HN: Making a cross-platform game in Go using WebRTC Datachannels",
+      "https://pion.ly/blog/making-a-game-with-pion/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 16:26:32",
+      "https://news.ycombinator.com/item?id=45170274"
+    ],
+    [
+      "Pulling an Inverse Conway Maneuver at Netflix (2023)",
+      "https://jivimberg.io/blog/2023/09/04/the-inverse-conway-maneuver/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 15:02:15",
       "https://news.ycombinator.com/item?id=45169194"
     ],
     [
       "Learning lessons from the loss of the Norwegian frigate Helge Ingstad",
       "https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 12:58:09",
+      "https://news.ycombinator.com/item?id=45167694"
+    ],
+    [
+      "Tumult and Sympathy – The Letters of Oliver Sacks",
+      "https://www.commonwealmagazine.org/tumult-and-sympathy"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-09-08, 09:27:40",
+      "https://news.ycombinator.com/item?id=45166238"
+    ],
+    [
+      "The Helix Text Editor",
+      "https://jonathan-frere.com/posts/helix/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 04:59:35",
       "https://news.ycombinator.com/item?id=45164762"
     ],
@@ -287,16 +297,6 @@
     [
       "Removing yellow stains from fabric with blue light",
       "https://phys.org/news/2025-09-yellow-fabric-blue.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 20:58:20",
-      "https://news.ycombinator.com/item?id=45162078"
-    ],
-    [
-      "Mapping to the PICO-8 palette, perceptually",
-      "https://30fps.net/pages/perceptual-pico8-pixel-mapping/"
     ]
   ]
 ]
