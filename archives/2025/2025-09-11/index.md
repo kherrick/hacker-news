@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 12:41:11](https://news.ycombinator.com/item?id=45210867) - [Ireland will not participate in Eurovision if Israel takes part](https://www.rte.ie/entertainment/2025/0911/1532957-rte-eurovision/)
+* [2025-09-11, 12:03:32](https://news.ycombinator.com/item?id=45210564) - [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
+* [2025-09-11, 12:00:14](https://news.ycombinator.com/item?id=45210539) - [Piramidal (YC W24) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform)
+* [2025-09-11, 11:49:24](https://news.ycombinator.com/item?id=45210451) - [AI's $344B 'Language Model' Bet Looks Fragile](https://www.bloomberg.com/opinion/articles/2025-09-11/ai-s-344-billion-language-model-bet-looks-fragile)
+* [2025-09-11, 11:48:01](https://news.ycombinator.com/item?id=45210442) - [Brussels faces privacy crossroads over encryption backdoors](https://www.theregister.com/2025/09/11/eu_chat_control/)
 * [2025-09-11, 09:41:07](https://news.ycombinator.com/item?id=45209599) - [BCacheFS is being disabled in the openSUSE kernels 6.17+](https://lwn.net/ml/all/9032de2a-03a7-4f9e-9c8a-8bd81c5d1fc5@suse.cz/)
 * [2025-09-11, 09:32:49](https://news.ycombinator.com/item?id=45209558) - [Reshaped is now open source](https://reshaped.so/blog/reshaped-oss)
 * [2025-09-11, 09:29:52](https://news.ycombinator.com/item?id=45209532) - [DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking](https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/)
