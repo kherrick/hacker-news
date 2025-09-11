@@ -58,6 +58,7 @@
 * [2025-09-08, 13:02:20](https://news.ycombinator.com/item?id=45167729) - [No more data centers: Ohio township pushes back against influx of Amazon, others](https://www.usatoday.com)
 * [2025-09-08, 12:59:28](https://news.ycombinator.com/item?id=45167705) - [Meta suppressed research on child safety, employees say](https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/)
 * [2025-09-08, 12:49:46](https://news.ycombinator.com/item?id=45167625) - [What if artificial intelligence is just a \"normal\" technology?](https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology)
+* [2025-09-08, 12:46:36](https://news.ycombinator.com/item?id=45167601) - [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html)
 * [2025-09-08, 12:38:49](https://news.ycombinator.com/item?id=45167534) - [ICEBlock handled my vulnerability report in the worst possible way](https://micahflee.com/iceblock-handled-my-vulnerability-report-in-the-worst-possible-way/)
 * [2025-09-08, 12:29:12](https://news.ycombinator.com/item?id=45167459) - [Writing Code Is Easy. Reading It Isn't](https://idiallo.com/blog/writing-code-is-easy-reading-is-hard)
 * [2025-09-08, 12:26:15](https://news.ycombinator.com/item?id=45167436) - [Go for Bash Programmers – Part II: CLI Tools](https://github.com/go-monk/from-bash-to-go-part-ii)
