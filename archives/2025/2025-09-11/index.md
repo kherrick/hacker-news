@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How Palantir Is Mapping Everyone's Data for the Government](https://www.techdirt.com/2025/09/11/how-palantir-is-mapping-everyones-data-for-the-government/)
 * [2025-09-11, 20:35:11](https://news.ycombinator.com/item?id=45215869) - [Unusual Capabilities of Nano Banana (Examples)](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 * [2025-09-11, 19:59:03](https://news.ycombinator.com/item?id=45215534) - [C# Will Become F# – Gautier Talks About Microsoft Technology](https://gautiertalksmicrosoft.wordpress.com/2025/04/13/c-will-become-f/)
 * [2025-09-11, 19:29:33](https://news.ycombinator.com/item?id=45215266) - [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
