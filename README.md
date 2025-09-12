@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-12, 17:46:48](https://news.ycombinator.com/item?id=45224649) - [Epistemic Collapse at the WSJ](https://www.math.columbia.edu/~woit/wordpress/?p=15206)
 * [2025-09-12, 17:06:52](https://news.ycombinator.com/item?id=45224246) - [Humanely Dealing with Humungus Crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
 * [2025-09-12, 16:56:18](https://news.ycombinator.com/item?id=45224141) - [Vector database that can index 1B vectors in 48M](https://www.vectroid.com/blog/why-and-how-we-built-Vectroid)
 * [2025-09-12, 16:14:50](https://news.ycombinator.com/item?id=45223726) - [VaultGemma: The most capable differentially private LLM](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/)
@@ -17,7 +18,6 @@
 * [2025-09-12, 13:36:40](https://news.ycombinator.com/item?id=45221996) - [Over 100 ships have sailed with fake insurance from the Norwegian Ro Marine](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216)
 * [2025-09-12, 12:52:52](https://news.ycombinator.com/item?id=45221580) - [Chat Control faces blocking minority in the EU](https://twitter.com/TutaPrivacy/status/1966384776883142661)
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The treasury is expanding the Patriot Act to attack Bitcoin self custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
-* [2025-09-12, 11:45:58](https://news.ycombinator.com/item?id=45221103) - [Lumina-DiMOO: An open-source discrete multimodal diffusion model](https://synbol.github.io/Lumina-DiMOO/)
 * [2025-09-12, 10:59:38](https://news.ycombinator.com/item?id=45220843) - [Astrophysics Source Code Library](http://ascl.net/)
 * [2025-09-12, 08:44:15](https://news.ycombinator.com/item?id=45220069) - [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
 * [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)

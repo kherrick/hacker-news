@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 17:46:48](https://news.ycombinator.com/item?id=45224649) - [Epistemic Collapse at the WSJ](https://www.math.columbia.edu/~woit/wordpress/?p=15206)
 * [2025-09-12, 17:06:52](https://news.ycombinator.com/item?id=45224246) - [Humanely Dealing with Humungus Crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
 * [2025-09-12, 16:56:18](https://news.ycombinator.com/item?id=45224141) - [Vector database that can index 1B vectors in 48M](https://www.vectroid.com/blog/why-and-how-we-built-Vectroid)
 * [2025-09-12, 16:34:49](https://news.ycombinator.com/item?id=45223913) - [The rise of AI cults and the false prophets of revelation](https://wisewolfmedia.substack.com/p/the-rise-of-ai-cults-truth-terminal)
