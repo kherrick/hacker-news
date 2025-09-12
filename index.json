@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-09-12, 03:08:50",
-      "https://news.ycombinator.com/item?id=45218303"
-    ],
-    [
-      "Differences between stal/IX and regular Linux",
-      "https://stal-ix.github.io/STALIX.html"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 02:33:54",
       "https://news.ycombinator.com/item?id=45218111"
     ],
     [
-      "Debian 13, Postgres, and the US/* time zones",
+      "Debian 13, Postgres, and the US time zones",
       "https://rachelbythebay.com/w/2025/09/11/debtz/"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=45214908"
     ],
     [
-      "Claude's memory architecture is the opposite of ChatGPT's",
+      "Claude’s memory architecture is the opposite of ChatGPT’s",
       "https://www.shloked.com/writing/claude-memory"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "De-Clouding: Music",
       "https://rosswintle.uk/2025/09/de-clouding-music/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 07:32:25",
+      "https://news.ycombinator.com/item?id=45165529"
+    ],
+    [
+      "Xhtml Friends Network (2003)",
+      "https://gmpg.org/xfn/"
     ]
   ],
   [
