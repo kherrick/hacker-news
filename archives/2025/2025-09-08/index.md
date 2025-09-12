@@ -62,6 +62,7 @@
 * [2025-09-08, 13:17:44](https://news.ycombinator.com/item?id=45167887) - [Exploring Grid-Aware Websites](https://www.nicchan.me/blog/exploring-grid-aware-websites/)
 * [2025-09-08, 13:13:43](https://news.ycombinator.com/item?id=45167846) - [De-Clouding: Music](https://rosswintle.uk/2025/09/de-clouding-music/)
 * [2025-09-08, 13:04:47](https://news.ycombinator.com/item?id=45167757) - [Picat: A Logic-based Multi-paradigm Language(2014) [pdf]](https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf)
+* [2025-09-08, 13:03:01](https://news.ycombinator.com/item?id=45167739) - [Logging in Go with Slog: A Practitioner's Guide](https://www.dash0.com/guides/logging-in-go-with-slog)
 * [2025-09-08, 13:02:20](https://news.ycombinator.com/item?id=45167729) - [No more data centers: Ohio township pushes back against influx of Amazon, others](https://www.usatoday.com)
 * [2025-09-08, 12:59:28](https://news.ycombinator.com/item?id=45167705) - [Meta suppressed research on child safety, employees say](https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/)
 * [2025-09-08, 12:58:09](https://news.ycombinator.com/item?id=45167694) - [Tumult and Sympathy – The Letters of Oliver Sacks](https://www.commonwealmagazine.org/tumult-and-sympathy)
