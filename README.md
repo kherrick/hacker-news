@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-12, 08:44:24](https://news.ycombinator.com/item?id=45220070) - [What 30k Free Users Taught Me About Charging $10/Month](https://news.ycombinator.com/item?id=45220070)
 * [2025-09-12, 08:15:48](https://news.ycombinator.com/item?id=45219909) - [Decompiling the GPL violated Linux kernel using Evolutionary Algorithms](https://far.chickenkiller.com/computing/decompiling-the-kernel-using-ea/)
 * [2025-09-12, 07:00:52](https://news.ycombinator.com/item?id=45219406) - [Performance-focused forks of styled-components](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
 * [2025-09-12, 06:57:43](https://news.ycombinator.com/item?id=45219388) - [Hyundai is now delaying its EV battery plant that was raided by ICE](https://electrek.co/2025/09/11/hyundai-now-delaying-ev-battery-plant-raided-by-ice/)
@@ -15,6 +14,7 @@
 * [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude’s memory architecture is the opposite of ChatGPT’s](https://www.shloked.com/writing/claude-memory)
 * [2025-09-11, 18:32:23](https://news.ycombinator.com/item?id=45214670) - [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
 * [2025-09-11, 17:42:56](https://news.ycombinator.com/item?id=45214164) - [Bulletproof host Stark Industries evades EU sanctions](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/)
+* [2025-09-11, 16:58:08](https://news.ycombinator.com/item?id=45213732) - [‘Robber bees’ invade apiarist’s shop in attempted honey heist](https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532)
 * [2025-09-11, 16:13:09](https://news.ycombinator.com/item?id=45213299) - [NT OS Kernel Information Disclosure Vulnerability](https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/)
 * [2025-09-11, 14:05:31](https://news.ycombinator.com/item?id=45211868) - [Conway's Game of Life, but musical](https://www.hudsong.dev/digital-darwin)
 * [2025-09-11, 13:45:28](https://news.ycombinator.com/item?id=45211596) - [CRISPR offers new hope for treating diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
