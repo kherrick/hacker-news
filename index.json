@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45219228"
     ],
     [
-      "Qwen3-Next: Towards Ultimate Training and Inference Efficiency",
+      "Qwen3-Next",
       "https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list"
     ]
   ],
@@ -81,32 +81,12 @@
   ],
   [
     [
-      "2025-09-11, 22:41:43",
-      "https://news.ycombinator.com/item?id=45216844"
-    ],
-    [
-      "Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook",
-      "https://github.com/iannuttall/fartscroll-lid"
-    ]
-  ],
-  [
-    [
       "2025-09-11, 22:35:36",
       "https://news.ycombinator.com/item?id=45216805"
     ],
     [
       "Danish supermarket chain is setting up \"Emergency Stores\"",
       "https://swiss.social/@swaldorff/115186445638788782"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 20:35:11",
-      "https://news.ycombinator.com/item?id=45215869"
-    ],
-    [
-      "Nano Banana image examples",
-      "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "Claude’s memory architecture is the opposite of ChatGPT’s",
       "https://www.shloked.com/writing/claude-memory"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 18:32:43",
+      "https://news.ycombinator.com/item?id=45214672"
+    ],
+    [
+      "Making io_uring pervasive in QEMU [pdf]",
+      "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf"
     ]
   ],
   [
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=45213732"
     ],
     [
-      "'Robber bees' invade apiarist's shop in attempted honey heist",
+      "‘Robber bees’ invade apiarist’s shop in attempted honey heist",
       "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "Full Moon: Seestar S50 vs. Samsung S25",
       "https://www.4rknova.com//blog/2025/09/08/moon-photos"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 19:39:10",
+      "https://news.ycombinator.com/item?id=45172905"
+    ],
+    [
+      "Using Emacs Org-Mode With Databases: A getting-started guide",
+      "https://gitlab.com/ryanprior/emacs-org-data-starter"
     ]
   ],
   [
