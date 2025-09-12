@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 13:36:40](https://news.ycombinator.com/item?id=45221996) - [Over 100 ships have sailed with fake insurance from the Norwegian Ro Marine](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216)
 * [2025-09-12, 13:04:51](https://news.ycombinator.com/item?id=45221694) - [Toxic \"forever chemicals\" found in 95% of beers tested in the U.S.](https://www.sciencedaily.com/releases/2025/09/250911073204.htm)
 * [2025-09-12, 12:52:52](https://news.ycombinator.com/item?id=45221580) - [Chat Control repelled 4th time in the EU](https://twitter.com/TutaPrivacy/status/1966384776883142661)
 * [2025-09-12, 12:31:25](https://news.ycombinator.com/item?id=45221423) - [AI Startup Founders Tout a Winning Formula–No Booze, No Sleep, No Fun](https://www.wsj.com/business/entrepreneurship/artificial-intelligence-startup-founders-bc730406)

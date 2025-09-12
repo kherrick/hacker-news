@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-12, 13:36:40](https://news.ycombinator.com/item?id=45221996) - [Over 100 ships have sailed with fake insurance from the Norwegian Ro Marine](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216)
 * [2025-09-12, 13:04:51](https://news.ycombinator.com/item?id=45221694) - [Toxic \"forever chemicals\" found in 95% of beers tested in the U.S.](https://www.sciencedaily.com/releases/2025/09/250911073204.htm)
 * [2025-09-12, 12:52:52](https://news.ycombinator.com/item?id=45221580) - [Chat Control repelled 4th time in the EU](https://twitter.com/TutaPrivacy/status/1966384776883142661)
 * [2025-09-12, 12:31:25](https://news.ycombinator.com/item?id=45221423) - [AI Startup Founders Tout a Winning Formula–No Booze, No Sleep, No Fun](https://www.wsj.com/business/entrepreneurship/artificial-intelligence-startup-founders-bc730406)
@@ -21,7 +22,6 @@
 * [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 11:46:13](https://news.ycombinator.com/item?id=45210428) - [AirPods live translation blocked for EU users with EU Apple accounts](https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/)
 * [2025-09-11, 09:02:50](https://news.ycombinator.com/item?id=45209389) - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
-* [2025-09-08, 21:42:36](https://news.ycombinator.com/item?id=45174408) - [Crossing the Atlantic Ocean. Alone. By Stand-Up-Paddleboard](https://zeroemissions.eu/en/ocean-crossing-eng)
 * [2025-09-08, 21:39:00](https://news.ycombinator.com/item?id=45174366) - [Racintosh Plus – Rackmount Mac Plus](http://www.identity4.com/2025-racintosh-plus/)
 * [2025-09-08, 19:54:00](https://news.ycombinator.com/item?id=45173100) - [Introduction to Nyquist and Lisp Programming](https://manual.audacityteam.org/man/introduction_to_nyquist_and_lisp_programming.html)
 * [2025-09-08, 19:39:10](https://news.ycombinator.com/item?id=45172905) - [Using Emacs Org-Mode With Databases: A getting-started guide](https://gitlab.com/ryanprior/emacs-org-data-starter)
