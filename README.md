@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-12, 08:52:53](https://news.ycombinator.com/item?id=45220121) - [All examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples)
-* [2025-09-12, 08:15:48](https://news.ycombinator.com/item?id=45219909) - [Decompiling the GPL violated Linux kernel using Evolutionary Algorithms](https://far.chickenkiller.com/computing/decompiling-the-kernel-using-ea/)
 * [2025-09-12, 07:00:52](https://news.ycombinator.com/item?id=45219406) - [Performance-focused forks of styled-components](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
 * [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 * [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
@@ -12,6 +11,7 @@
 * [2025-09-11, 22:35:36](https://news.ycombinator.com/item?id=45216805) - [Danish supermarket chain is setting up \"Emergency Stores\"](https://swiss.social/@swaldorff/115186445638788782)
 * [2025-09-11, 18:58:22](https://news.ycombinator.com/item?id=45214933) - [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
 * [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude’s memory architecture is the opposite of ChatGPT’s](https://www.shloked.com/writing/claude-memory)
+* [2025-09-11, 18:32:43](https://news.ycombinator.com/item?id=45214672) - [Making io_uring pervasive in QEMU [pdf]](https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf)
 * [2025-09-11, 18:32:23](https://news.ycombinator.com/item?id=45214670) - [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
 * [2025-09-11, 17:42:56](https://news.ycombinator.com/item?id=45214164) - [Bulletproof host Stark Industries evades EU sanctions](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/)
 * [2025-09-11, 17:42:30](https://news.ycombinator.com/item?id=45214159) - [A Web Framework for Zig](https://www.jetzig.dev/)
