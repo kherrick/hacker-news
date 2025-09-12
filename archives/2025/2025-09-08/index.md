@@ -7,6 +7,7 @@
 * [2025-09-08, 23:48:14](https://news.ycombinator.com/item?id=45175628) - [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
 * [2025-09-08, 23:43:20](https://news.ycombinator.com/item?id=45175588) - [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/)
 * [2025-09-08, 23:07:42](https://news.ycombinator.com/item?id=45175312) - [Red Hat back-office team to be Big and Blue whether they like it or not](https://www.theregister.com/2025/09/08/red_hatters_to_be_big/)
+* [2025-09-08, 22:45:06](https://news.ycombinator.com/item?id=45175099) - [Ten Years of D3D12](https://therealmjp.github.io/posts/ten-years-of-d3d12/)
 * [2025-09-08, 22:31:49](https://news.ycombinator.com/item?id=45174944) - [Full Moon: Seestar S50 vs. Samsung S25](https://www.4rknova.com//blog/2025/09/08/moon-photos)
 * [2025-09-08, 22:29:24](https://news.ycombinator.com/item?id=45174912) - [Fresh Fish Sold Here](https://kathakids.com/folktales/fresh-fish-sold-here/)
 * [2025-09-08, 22:11:31](https://news.ycombinator.com/item?id=45174707) - [Plex Security Incident](https://links.plex.tv/s/vb/Vn7XtnwDSSaqqDUYoHu1P57ZgZ1FsHgTO2PTIBl6jEOUiHBH3LGmI3nLdDfopQa54PatUwZQhT0Bz8rKAi--jTM4ATdsBHpe4c1Yljr89VkoCOavEGH5wn5Fi_filLNeOMo-lnNqLSLpJpI/lOe98S8UWKdmPnp9StQz9R1-kOSTpWhr/12)
