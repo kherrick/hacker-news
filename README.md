@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-12, 14:50:57](https://news.ycombinator.com/item?id=45222772) - [Crates.io Phishing Attempt](https://fasterthanli.me/articles/crates-io-phishing-attempt)
+* [2025-09-12, 14:45:08](https://news.ycombinator.com/item?id=45222709) - [Health care costs are soaring. Blame insurers, drug companies and your employer](https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer)
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D Modeling with Paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 13:36:40](https://news.ycombinator.com/item?id=45221996) - [Over 100 ships have sailed with fake insurance from the Norwegian Ro Marine](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216)
 * [2025-09-12, 13:31:05](https://news.ycombinator.com/item?id=45221938) - [Justice Department Announces Actions to Combat North Korean Remote IT Workers](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote)
@@ -18,9 +20,8 @@
 * [2025-09-11, 23:45:36](https://news.ycombinator.com/item?id=45217269) - [Why our website looks like an operating system](https://posthog.com/blog/why-os)
 * [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude’s memory architecture is the opposite of ChatGPT’s](https://www.shloked.com/writing/claude-memory)
 * [2025-09-11, 18:32:23](https://news.ycombinator.com/item?id=45214670) - [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
-* [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 11:46:13](https://news.ycombinator.com/item?id=45210428) - [AirPods live translation blocked for EU users with EU Apple accounts](https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/)
-* [2025-09-11, 09:02:50](https://news.ycombinator.com/item?id=45209389) - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
+* [2025-09-09, 00:33:56](https://news.ycombinator.com/item?id=45175982) - [Windows-Use: an AI agent that interacts with Windows at GUI layer](https://github.com/CursorTouch/Windows-Use)
 * [2025-09-08, 22:45:06](https://news.ycombinator.com/item?id=45175099) - [Ten Years of D3D12](https://therealmjp.github.io/posts/ten-years-of-d3d12/)
 * [2025-09-08, 21:39:00](https://news.ycombinator.com/item?id=45174366) - [Racintosh Plus – Rackmount Mac Plus](http://www.identity4.com/2025-racintosh-plus/)
 * [2025-09-08, 19:54:00](https://news.ycombinator.com/item?id=45173100) - [Introduction to Nyquist and Lisp Programming](https://manual.audacityteam.org/man/introduction_to_nyquist_and_lisp_programming.html)
@@ -28,7 +29,6 @@
 * [2025-09-08, 14:33:26](https://news.ycombinator.com/item?id=45168823) - [Doorbell prankster that tormented residents of apartments turns out to be a slug](https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug)
 * [2025-09-08, 13:03:01](https://news.ycombinator.com/item?id=45167739) - [Logging in Go with Slog: A Practitioner's Guide](https://www.dash0.com/guides/logging-in-go-with-slog)
 * [2025-09-08, 12:55:59](https://news.ycombinator.com/item?id=45167680) - [Classic GTK1 GUI Library](https://gitlab.com/robinrowe/gtk1)
-* [2025-09-08, 07:32:25](https://news.ycombinator.com/item?id=45165529) - [XFN – XHTML Friends Network (2003)](https://gmpg.org/xfn/)
 * [2025-09-08, 06:05:54](https://news.ycombinator.com/item?id=45165070) - [Building my childhood dream PC](https://fabiensanglard.net/2168/)
 
 ## [Archives](archives/index.md)

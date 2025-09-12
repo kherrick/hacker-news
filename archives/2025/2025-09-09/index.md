@@ -75,3 +75,4 @@
 * [2025-09-09, 01:37:28](https://news.ycombinator.com/item?id=45176401) - [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
 * [2025-09-09, 01:09:21](https://news.ycombinator.com/item?id=45176206) - [No adblocker detected](https://maurycyz.com/misc/ads/)
 * [2025-09-09, 00:46:48](https://news.ycombinator.com/item?id=45176066) - [Geoffrey Hinton: 'AI will make a few people much richer and most people poorer'](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
+* [2025-09-09, 00:33:56](https://news.ycombinator.com/item?id=45175982) - [Windows-Use: an AI agent that interacts with Windows at GUI layer](https://github.com/CursorTouch/Windows-Use)
