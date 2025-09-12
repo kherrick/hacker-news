@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 18:18:00](https://news.ycombinator.com/item?id=45224967) - [EU court rules nuclear energy is clean energy](https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy)
 * [2025-09-12, 17:46:48](https://news.ycombinator.com/item?id=45224649) - [Epistemic Collapse at the WSJ](https://www.math.columbia.edu/~woit/wordpress/?p=15206)
+* [2025-09-12, 17:35:08](https://news.ycombinator.com/item?id=45224542) - [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
 * [2025-09-12, 17:22:38](https://news.ycombinator.com/item?id=45224421) - [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html)
 * [2025-09-12, 17:06:52](https://news.ycombinator.com/item?id=45224246) - [Humanely Dealing with Humungus Crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
 * [2025-09-12, 16:57:17](https://news.ycombinator.com/item?id=45224156) - [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS)
@@ -39,6 +41,8 @@
 * [2025-09-12, 08:44:24](https://news.ycombinator.com/item?id=45220070) - [What 30k Free Users Taught Me About Charging $10/Month](https://news.ycombinator.com/item?id=45220070)
 * [2025-09-12, 08:44:15](https://news.ycombinator.com/item?id=45220069) - [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
 * [2025-09-12, 08:15:48](https://news.ycombinator.com/item?id=45219909) - [Decompiling the GPL violated Linux kernel using Evolutionary Algorithms](https://far.chickenkiller.com/computing/decompiling-the-kernel-using-ea/)
+* [2025-09-12, 08:01:01](https://news.ycombinator.com/item?id=45219829) - [Show HN: ProcASM v1.1](https://procasm.temware.site/)
+* [2025-09-12, 07:58:55](https://news.ycombinator.com/item?id=45219817) - [Rust: A quest for performant, reliable software [video]](https://www.youtube.com/watch?v=k_-6KI3m31M)
 * [2025-09-12, 07:45:14](https://news.ycombinator.com/item?id=45219720) - [UN Security Council members condemn Israel over deadly strike on Qatar](https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar)
 * [2025-09-12, 07:00:52](https://news.ycombinator.com/item?id=45219406) - [Styled-components maintenance mode: A 40% faster fork](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
 * [2025-09-12, 06:57:43](https://news.ycombinator.com/item?id=45219388) - [Hyundai is now delaying its EV battery plant that was raided by ICE](https://electrek.co/2025/09/11/hyundai-now-delaying-ev-battery-plant-raided-by-ice/)
