@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=45219406"
     ],
     [
-      "Styled-components maintenance mode: A 40% faster fork",
+      "Performance-focused forks of styled-components",
       "https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 06:32:04",
+      "https://news.ycombinator.com/item?id=45219228"
+    ],
+    [
+      "Qwen3-Next: Towards Ultimate Training and Inference Efficiency",
+      "https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45217269"
     ],
     [
-      "Why our website looks like an operating system",
+      "Our website looks like an operating system",
       "https://posthog.com/blog/why-os"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Claude’s memory architecture is the opposite of ChatGPT’s",
       "https://www.shloked.com/writing/claude-memory"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 18:32:43",
-      "https://news.ycombinator.com/item?id=45214672"
-    ],
-    [
-      "Making io_uring pervasive in QEMU [pdf]",
-      "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf"
     ]
   ],
   [
