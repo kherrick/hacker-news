@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 13:04:51](https://news.ycombinator.com/item?id=45221694) - [Toxic \"forever chemicals\" found in 95% of beers tested in the U.S.](https://www.sciencedaily.com/releases/2025/09/250911073204.htm)
+* [2025-09-12, 12:52:52](https://news.ycombinator.com/item?id=45221580) - [Chat Control repelled 4th time in the EU](https://twitter.com/TutaPrivacy/status/1966384776883142661)
+* [2025-09-12, 12:31:25](https://news.ycombinator.com/item?id=45221423) - [AI Startup Founders Tout a Winning Formula–No Booze, No Sleep, No Fun](https://www.wsj.com/business/entrepreneurship/artificial-intelligence-startup-founders-bc730406)
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
+* [2025-09-12, 11:45:58](https://news.ycombinator.com/item?id=45221103) - [Lumina-DiMOO: An open-source discrete multimodal diffusion model](https://synbol.github.io/Lumina-DiMOO/)
 * [2025-09-12, 10:59:38](https://news.ycombinator.com/item?id=45220843) - [Astrophysics Source Code Library](http://ascl.net/)
 * [2025-09-12, 10:24:36](https://news.ycombinator.com/item?id=45220656) - [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
 * [2025-09-12, 08:52:53](https://news.ycombinator.com/item?id=45220121) - [All examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples)
