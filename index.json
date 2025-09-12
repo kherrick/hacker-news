@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-12, 08:44:24",
+      "https://news.ycombinator.com/item?id=45220070"
+    ],
+    [
+      "What 30k Free Users Taught Me About Charging $10/Month",
+      "https://news.ycombinator.com/item?id=45220070"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 08:15:48",
+      "https://news.ycombinator.com/item?id=45219909"
+    ],
+    [
+      "Decompiling the GPL violated Linux kernel using Evolutionary Algorithms",
+      "https://far.chickenkiller.com/computing/decompiling-the-kernel-using-ea/"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 07:00:52",
       "https://news.ycombinator.com/item?id=45219406"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-09-11, 18:32:43",
-      "https://news.ycombinator.com/item?id=45214672"
-    ],
-    [
-      "Making io_uring pervasive in QEMU [pdf]",
-      "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf"
-    ]
-  ],
-  [
-    [
       "2025-09-11, 18:32:23",
       "https://news.ycombinator.com/item?id=45214670"
     ],
@@ -137,26 +147,6 @@
     [
       "Bulletproof host Stark Industries evades EU sanctions",
       "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 17:42:30",
-      "https://news.ycombinator.com/item?id=45214159"
-    ],
-    [
-      "A Web Framework for Zig",
-      "https://www.jetzig.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 16:58:08",
-      "https://news.ycombinator.com/item?id=45213732"
-    ],
-    [
-      "‘Robber bees’ invade apiarist’s shop in attempted honey heist",
-      "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "De-Clouding: Music",
       "https://rosswintle.uk/2025/09/de-clouding-music/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 13:03:01",
+      "https://news.ycombinator.com/item?id=45167739"
+    ],
+    [
+      "Logging in Go with Slog: A Practitioner's Guide",
+      "https://www.dash0.com/guides/logging-in-go-with-slog"
     ]
   ],
   [
