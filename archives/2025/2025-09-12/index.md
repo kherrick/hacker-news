@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 21:54:34](https://news.ycombinator.com/item?id=45227212) - [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/)
 * [2025-09-12, 21:44:47](https://news.ycombinator.com/item?id=45227134) - [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
 * [2025-09-12, 21:37:09](https://news.ycombinator.com/item?id=45227064) - [ARM is great, ARM is terrible (and so is RISC-V)](https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v)
 * [2025-09-12, 21:20:36](https://news.ycombinator.com/item?id=45226903) - [Proton Mail Suspended Journalist Accounts at Request of Cybersecurity Agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)

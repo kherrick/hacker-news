@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-12, 21:54:34](https://news.ycombinator.com/item?id=45227212) - [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/)
 * [2025-09-12, 21:44:47](https://news.ycombinator.com/item?id=45227134) - [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
 * [2025-09-12, 21:20:36](https://news.ycombinator.com/item?id=45226903) - [Proton Mail Suspended Journalist Accounts at Request of Cybersecurity Agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
 * [2025-09-12, 20:53:33](https://news.ycombinator.com/item?id=45226639) - [Emacs: A Paradigm Shift](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
@@ -17,7 +18,6 @@
 * [2025-09-12, 16:13:49](https://news.ycombinator.com/item?id=45223719) - [Corporations are trying to hide job openings from US citizens](https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/)
 * [2025-09-12, 16:05:58](https://news.ycombinator.com/item?id=45223660) - [OpenAI Grove](https://openai.com/index/openai-grove/)
 * [2025-09-12, 15:44:52](https://news.ycombinator.com/item?id=45223419) - [Advanced Scheme Techniques (2004) [pdf]](https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf)
-* [2025-09-12, 15:11:43](https://news.ycombinator.com/item?id=45222993) - [Doom-ada: Doom Emacs Ada language module with syntax, LSP and Alire support](https://github.com/tomekw/doom-ada)
 * [2025-09-12, 14:53:45](https://news.ycombinator.com/item?id=45222799) - [Oq: Terminal OpenAPI Spec Viewer](https://github.com/plutov/oq)
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many hard LeetCode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D modeling with paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
@@ -25,11 +25,11 @@
 * [2025-09-12, 07:58:55](https://news.ycombinator.com/item?id=45219817) - [Rust: A quest for performant, reliable software [video]](https://www.youtube.com/watch?v=k_-6KI3m31M)
 * [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 * [2025-09-10, 15:36:20](https://news.ycombinator.com/item?id=45199256) - [Building a Deep Research Agent Using MCP-Agent](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent)
+* [2025-09-09, 15:09:34](https://news.ycombinator.com/item?id=45183008) - [Unauthorized Windows/386](https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/)
 * [2025-09-09, 07:10:53](https://news.ycombinator.com/item?id=45178541) - [How to Become a Pure Mathematician (Or Statistician)](http://hbpms.blogspot.com/)
 * [2025-09-09, 01:49:08](https://news.ycombinator.com/item?id=45176471) - [First 'perovskite camera' can see inside the human body](https://news.northwestern.edu/stories/2025/09/first-perovskite-camera-can-see-inside-the-human-body/)
 * [2025-09-09, 00:33:56](https://news.ycombinator.com/item?id=45175982) - [Windows-Use: an AI agent that interacts with Windows at GUI layer](https://github.com/CursorTouch/Windows-Use)
 * [2025-09-08, 23:24:24](https://news.ycombinator.com/item?id=45175439) - [I don't like curved displays](https://blog.danielh.cc/blog/curved)
-* [2025-09-08, 21:39:00](https://news.ycombinator.com/item?id=45174366) - [Racintosh Plus – Rackmount Mac Plus](http://www.identity4.com/2025-racintosh-plus/)
 
 ## [Archives](archives/index.md)
 

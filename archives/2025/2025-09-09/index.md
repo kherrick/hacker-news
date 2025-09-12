@@ -45,6 +45,7 @@
 * [2025-09-09, 15:12:18](https://news.ycombinator.com/item?id=45183050) - [Building a DOOM-like multiplayer shooter in pure SQL](https://cedardb.com/blog/doomql/)
 * [2025-09-09, 15:11:57](https://news.ycombinator.com/item?id=45183039) - [X open sourced their latest algorithm](https://github.com/twitter/the-algorithm)
 * [2025-09-09, 15:11:26](https://news.ycombinator.com/item?id=45183029) - [We All Dodged a Bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
+* [2025-09-09, 15:09:34](https://news.ycombinator.com/item?id=45183008) - [Unauthorized Windows/386](https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/)
 * [2025-09-09, 14:54:32](https://news.ycombinator.com/item?id=45182770) - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp)
 * [2025-09-09, 14:45:46](https://news.ycombinator.com/item?id=45182657) - [US HS students lose ground in math and reading, continuing yearslong decline](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
 * [2025-09-09, 14:28:33](https://news.ycombinator.com/item?id=45182418) - [Disrupting the DRAM roadmap with capacitor-less IGZO-DRAM technology](https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology)
