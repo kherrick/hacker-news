@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D Modeling with Paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 13:36:40](https://news.ycombinator.com/item?id=45221996) - [Over 100 ships have sailed with fake insurance from the Norwegian Ro Marine](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216)
 * [2025-09-12, 13:31:05](https://news.ycombinator.com/item?id=45221938) - [Justice Department Announces Actions to Combat North Korean Remote IT Workers](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote)
 * [2025-09-12, 13:14:17](https://news.ycombinator.com/item?id=45221772) - [UK launches Project Octopus, thousands of interceptor drones to Ukraine](https://www.shephardmedia.com/news/air-warfare/dsei-2025-uk-launches-project-octopus-to-deliver-thousands-of-interceptor-drones-to-ukraine/)

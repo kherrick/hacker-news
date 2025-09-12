@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D Modeling with Paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 13:36:40](https://news.ycombinator.com/item?id=45221996) - [Over 100 ships have sailed with fake insurance from the Norwegian Ro Marine](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216)
 * [2025-09-12, 13:31:05](https://news.ycombinator.com/item?id=45221938) - [Justice Department Announces Actions to Combat North Korean Remote IT Workers](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote)
 * [2025-09-12, 13:14:17](https://news.ycombinator.com/item?id=45221772) - [UK launches Project Octopus, thousands of interceptor drones to Ukraine](https://www.shephardmedia.com/news/air-warfare/dsei-2025-uk-launches-project-octopus-to-deliver-thousands-of-interceptor-drones-to-ukraine/)
 * [2025-09-12, 12:52:52](https://news.ycombinator.com/item?id=45221580) - [Chat Control faces blocking minority in the EU](https://twitter.com/TutaPrivacy/status/1966384776883142661)
-* [2025-09-12, 12:31:25](https://news.ycombinator.com/item?id=45221423) - [AI Startup Founders Tout a Winning Formula–No Booze, No Sleep, No Fun](https://www.wsj.com/business/entrepreneurship/artificial-intelligence-startup-founders-bc730406)
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
 * [2025-09-12, 11:45:58](https://news.ycombinator.com/item?id=45221103) - [Lumina-DiMOO: An open-source discrete multimodal diffusion model](https://synbol.github.io/Lumina-DiMOO/)
 * [2025-09-12, 10:59:38](https://news.ycombinator.com/item?id=45220843) - [Astrophysics Source Code Library](http://ascl.net/)
