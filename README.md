@@ -26,7 +26,7 @@
 * [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 * [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 * [2025-09-10, 15:36:20](https://news.ycombinator.com/item?id=45199256) - [Building a Deep Research Agent Using MCP-Agent](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent)
-* [2025-09-10, 02:55:33](https://news.ycombinator.com/item?id=45192618) - [Power series, power serious (1999!) [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/19863F4EAACC33E1E01DE2A2114EC7DF/S0956796899003299a.pdf/div-class-title-power-series-power-serious-div.pdf)
+* [2025-09-10, 02:55:33](https://news.ycombinator.com/item?id=45192618) - [Power series, power serious (1999) [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/19863F4EAACC33E1E01DE2A2114EC7DF/S0956796899003299a.pdf/div-class-title-power-series-power-serious-div.pdf)
 * [2025-09-09, 07:10:53](https://news.ycombinator.com/item?id=45178541) - [How to Become a Pure Mathematician (Or Statistician)](http://hbpms.blogspot.com/)
 * [2025-09-09, 00:33:56](https://news.ycombinator.com/item?id=45175982) - [Windows-Use: an AI agent that interacts with Windows at GUI layer](https://github.com/CursorTouch/Windows-Use)
 * [2025-09-08, 21:39:00](https://news.ycombinator.com/item?id=45174366) - [Racintosh Plus – Rackmount Mac Plus](http://www.identity4.com/2025-racintosh-plus/)
