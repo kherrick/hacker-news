@@ -6,6 +6,7 @@
 
 * [2025-09-12, 08:52:53](https://news.ycombinator.com/item?id=45220121) - [All examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples)
 * [2025-09-12, 08:44:24](https://news.ycombinator.com/item?id=45220070) - [What 30k Free Users Taught Me About Charging $10/Month](https://news.ycombinator.com/item?id=45220070)
+* [2025-09-12, 08:44:15](https://news.ycombinator.com/item?id=45220069) - [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
 * [2025-09-12, 08:15:48](https://news.ycombinator.com/item?id=45219909) - [Decompiling the GPL violated Linux kernel using Evolutionary Algorithms](https://far.chickenkiller.com/computing/decompiling-the-kernel-using-ea/)
 * [2025-09-12, 07:45:14](https://news.ycombinator.com/item?id=45219720) - [UN Security Council members condemn Israel over deadly strike on Qatar](https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar)
 * [2025-09-12, 07:00:52](https://news.ycombinator.com/item?id=45219406) - [Styled-components maintenance mode: A 40% faster fork](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
