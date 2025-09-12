@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-12, 16:13:49](https://news.ycombinator.com/item?id=45223719) - [Corporations are trying, and now failing, to hide job openings from US citizens](https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/)
+* [2025-09-12, 16:00:59](https://news.ycombinator.com/item?id=45223603) - [Ankit Gupta Joins YC as General Partner](https://www.ycombinator.com/blog/welcome-ankit/)
 * [2025-09-12, 15:44:52](https://news.ycombinator.com/item?id=45223419) - [Advanced Scheme Techniques (2004) [pdf]](https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf)
 * [2025-09-12, 15:32:11](https://news.ycombinator.com/item?id=45223239) - [A Beginner's Guide to Extending Emacs](https://blog.tjll.net/a-beginners-guide-to-extending-emacs/)
 * [2025-09-12, 15:22:00](https://news.ycombinator.com/item?id=45223102) - [Show HN: An MCP Gateway to block the lethal trifecta](https://github.com/Edison-Watch/open-edison)
@@ -16,7 +17,6 @@
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
 * [2025-09-12, 11:45:58](https://news.ycombinator.com/item?id=45221103) - [Lumina-DiMOO: An open-source discrete multimodal diffusion model](https://synbol.github.io/Lumina-DiMOO/)
 * [2025-09-12, 10:59:38](https://news.ycombinator.com/item?id=45220843) - [Astrophysics Source Code Library](http://ascl.net/)
-* [2025-09-12, 08:52:53](https://news.ycombinator.com/item?id=45220121) - [Examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples)
 * [2025-09-12, 08:44:15](https://news.ycombinator.com/item?id=45220069) - [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
 * [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 * [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
