@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-12, 17:46:48",
-      "https://news.ycombinator.com/item?id=45224649"
+      "2025-09-12, 18:18:00",
+      "https://news.ycombinator.com/item?id=45224967"
     ],
     [
-      "Epistemic Collapse at the WSJ",
-      "https://www.math.columbia.edu/~woit/wordpress/?p=15206"
+      "EU court rules nuclear energy is clean energy",
+      "https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 17:35:08",
+      "https://news.ycombinator.com/item?id=45224542"
+    ],
+    [
+      "Why do browsers throttle JavaScript timers?",
+      "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45224246"
     ],
     [
-      "Humanely Dealing with Humungus Crawlers",
+      "Humanely dealing with humungus crawlers",
       "https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "OpenAI Grove",
       "https://openai.com/index/openai-grove/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 16:00:59",
-      "https://news.ycombinator.com/item?id=45223603"
-    ],
-    [
-      "Ankit Gupta Joins YC as General Partner",
-      "https://www.ycombinator.com/blog/welcome-ankit/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-09-12, 14:50:57",
-      "https://news.ycombinator.com/item?id=45222772"
-    ],
-    [
-      "Crates.io phishing attempt",
-      "https://fasterthanli.me/articles/crates-io-phishing-attempt"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 14:44:05",
       "https://news.ycombinator.com/item?id=45222695"
     ],
@@ -201,22 +191,32 @@
   ],
   [
     [
-      "2025-09-12, 10:59:38",
-      "https://news.ycombinator.com/item?id=45220843"
-    ],
-    [
-      "Astrophysics Source Code Library",
-      "http://ascl.net/"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 08:44:15",
       "https://news.ycombinator.com/item?id=45220069"
     ],
     [
       "Show HN: I made a generative online drum machine with ClojureScript",
       "https://dopeloop.ai/beat-maker/"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 08:01:01",
+      "https://news.ycombinator.com/item?id=45219829"
+    ],
+    [
+      "Show HN: ProcASM v1.1",
+      "https://procasm.temware.site/"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 07:58:55",
+      "https://news.ycombinator.com/item?id=45219817"
+    ],
+    [
+      "Rust: A quest for performant, reliable software [video]",
+      "https://www.youtube.com/watch?v=k_-6KI3m31M"
     ]
   ],
   [
