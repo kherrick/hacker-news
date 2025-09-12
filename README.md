@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-12, 03:08:50](https://news.ycombinator.com/item?id=45218303) - [Differences between stal/IX and regular Linux](https://stal-ix.github.io/STALIX.html)
-* [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US/* time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
+* [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 * [2025-09-12, 01:42:37](https://news.ycombinator.com/item?id=45217858) - [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
 * [2025-09-12, 00:39:47](https://news.ycombinator.com/item?id=45217545) - [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
 * [2025-09-12, 00:31:06](https://news.ycombinator.com/item?id=45217499) - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
@@ -12,7 +11,7 @@
 * [2025-09-11, 22:35:36](https://news.ycombinator.com/item?id=45216805) - [Danish supermarket chain is setting up \"Emergency Stores\"](https://swiss.social/@swaldorff/115186445638788782)
 * [2025-09-11, 20:35:11](https://news.ycombinator.com/item?id=45215869) - [Nano Banana image examples](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 * [2025-09-11, 18:58:22](https://news.ycombinator.com/item?id=45214933) - [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
-* [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude's memory architecture is the opposite of ChatGPT's](https://www.shloked.com/writing/claude-memory)
+* [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude’s memory architecture is the opposite of ChatGPT’s](https://www.shloked.com/writing/claude-memory)
 * [2025-09-11, 18:32:43](https://news.ycombinator.com/item?id=45214672) - [Making io_uring pervasive in QEMU [pdf]](https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf)
 * [2025-09-11, 18:32:23](https://news.ycombinator.com/item?id=45214670) - [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
 * [2025-09-11, 18:16:09](https://news.ycombinator.com/item?id=45214498) - [Adam (YC W25) Is Hiring to Build the Future of CAD](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer)
@@ -29,6 +28,7 @@
 * [2025-09-08, 22:31:49](https://news.ycombinator.com/item?id=45174944) - [Full Moon: Seestar S50 vs. Samsung S25](https://www.4rknova.com//blog/2025/09/08/moon-photos)
 * [2025-09-08, 14:33:26](https://news.ycombinator.com/item?id=45168823) - [Doorbell prankster that tormented residents of apartments turns out to be a slug](https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug)
 * [2025-09-08, 13:13:43](https://news.ycombinator.com/item?id=45167846) - [De-Clouding: Music](https://rosswintle.uk/2025/09/de-clouding-music/)
+* [2025-09-08, 07:32:25](https://news.ycombinator.com/item?id=45165529) - [Xhtml Friends Network (2003)](https://gmpg.org/xfn/)
 * [2025-09-08, 06:05:54](https://news.ycombinator.com/item?id=45165070) - [Building my childhood dream PC](https://fabiensanglard.net/2168/)
 
 ## [Archives](archives/index.md)

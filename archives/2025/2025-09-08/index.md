@@ -95,6 +95,7 @@
 * [2025-09-08, 08:03:21](https://news.ycombinator.com/item?id=45165721) - [Hashed sorting is typically faster than hash tables](https://reiner.org/hashed-sorting)
 * [2025-09-08, 07:58:38](https://news.ycombinator.com/item?id=45165684) - [Immich – High performance self-hosted photo and video management solution](https://github.com/immich-app/immich)
 * [2025-09-08, 07:45:36](https://news.ycombinator.com/item?id=45165608) - [Rewriting Dataframes for MicroHaskell](https://mchav.github.io/rewriting-dataframes-for-microhs/)
+* [2025-09-08, 07:32:25](https://news.ycombinator.com/item?id=45165529) - [Xhtml Friends Network (2003)](https://gmpg.org/xfn/)
 * [2025-09-08, 07:20:52](https://news.ycombinator.com/item?id=45165464) - [Deliberate Abstraction](https://entropicthoughts.com/deliberate-abstraction)
 * [2025-09-08, 06:38:34](https://news.ycombinator.com/item?id=45165245) - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
 * [2025-09-08, 06:26:43](https://news.ycombinator.com/item?id=45165186) - [Britain built some of the safest roads](https://ourworldindata.org/britain-safest-roads-history)
