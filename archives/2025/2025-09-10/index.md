@@ -37,6 +37,7 @@
 * [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode](https://platform.openai.com/docs/guides/developer-mode)
 * [2025-09-10, 16:00:06](https://news.ycombinator.com/item?id=45199648) - [Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts](https://news.ycombinator.com/item?id=45199648)
 * [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
+* [2025-09-10, 15:36:20](https://news.ycombinator.com/item?id=45199256) - [Building a Deep Research Agent Using MCP-Agent](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent)
 * [2025-09-10, 15:31:27](https://news.ycombinator.com/item?id=45199191) - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
 * [2025-09-10, 14:42:15](https://news.ycombinator.com/item?id=45198481) - [Jiratui – A Textual UI for interacting with Atlassian Jira from your shell](https://jiratui.sh/)

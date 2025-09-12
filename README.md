@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-12, 16:34:49](https://news.ycombinator.com/item?id=45223913) - [The rise of AI cults and the false prophets of revelation](https://wisewolfmedia.substack.com/p/the-rise-of-ai-cults-truth-terminal)
+* [2025-09-12, 16:14:50](https://news.ycombinator.com/item?id=45223726) - [VaultGemma: The most capable differentially private LLM](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/)
 * [2025-09-12, 16:13:49](https://news.ycombinator.com/item?id=45223719) - [Corporations are trying, and now failing, to hide job openings from US citizens](https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/)
+* [2025-09-12, 16:05:58](https://news.ycombinator.com/item?id=45223660) - [OpenAI Grove](https://openai.com/index/openai-grove/)
 * [2025-09-12, 16:00:59](https://news.ycombinator.com/item?id=45223603) - [Ankit Gupta Joins YC as General Partner](https://www.ycombinator.com/blog/welcome-ankit/)
 * [2025-09-12, 15:44:52](https://news.ycombinator.com/item?id=45223419) - [Advanced Scheme Techniques (2004) [pdf]](https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf)
 * [2025-09-12, 15:32:11](https://news.ycombinator.com/item?id=45223239) - [A beginner's guide to extending Emacs](https://blog.tjll.net/a-beginners-guide-to-extending-emacs/)
@@ -23,12 +24,11 @@
 * [2025-09-12, 00:11:15](https://news.ycombinator.com/item?id=45217415) - [Float Exposed](https://float.exposed/)
 * [2025-09-11, 23:45:36](https://news.ycombinator.com/item?id=45217269) - [Why our website looks like an operating system](https://posthog.com/blog/why-os)
 * [2025-09-11, 18:32:23](https://news.ycombinator.com/item?id=45214670) - [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
+* [2025-09-10, 15:36:20](https://news.ycombinator.com/item?id=45199256) - [Building a Deep Research Agent Using MCP-Agent](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent)
 * [2025-09-09, 00:33:56](https://news.ycombinator.com/item?id=45175982) - [Windows-Use: an AI agent that interacts with Windows at GUI layer](https://github.com/CursorTouch/Windows-Use)
 * [2025-09-08, 23:24:24](https://news.ycombinator.com/item?id=45175439) - [I don't like curved displays](https://blog.danielh.cc/blog/curved)
-* [2025-09-08, 22:45:06](https://news.ycombinator.com/item?id=45175099) - [Ten Years of D3D12](https://therealmjp.github.io/posts/ten-years-of-d3d12/)
 * [2025-09-08, 21:39:00](https://news.ycombinator.com/item?id=45174366) - [Racintosh Plus – Rackmount Mac Plus](http://www.identity4.com/2025-racintosh-plus/)
 * [2025-09-08, 19:54:00](https://news.ycombinator.com/item?id=45173100) - [Introduction to Nyquist and Lisp Programming](https://manual.audacityteam.org/man/introduction_to_nyquist_and_lisp_programming.html)
-* [2025-09-08, 19:39:10](https://news.ycombinator.com/item?id=45172905) - [Using Emacs Org-Mode With Databases: A getting-started guide](https://gitlab.com/ryanprior/emacs-org-data-starter)
 * [2025-09-08, 12:55:59](https://news.ycombinator.com/item?id=45167680) - [Classic GTK1 GUI Library](https://gitlab.com/robinrowe/gtk1)
 
 ## [Archives](archives/index.md)
