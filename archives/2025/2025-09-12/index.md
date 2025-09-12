@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 21:37:09](https://news.ycombinator.com/item?id=45227064) - [ARM is great, ARM is terrible (and so is RISC-V)](https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v)
+* [2025-09-12, 21:20:36](https://news.ycombinator.com/item?id=45226903) - [Proton Mail Suspended Journalist Accounts at Request of Cybersecurity Agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
 * [2025-09-12, 20:53:33](https://news.ycombinator.com/item?id=45226639) - [Emacs: A Paradigm Shift](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 * [2025-09-12, 20:17:23](https://news.ycombinator.com/item?id=45226277) - [I made a small site to share text and files for free, no ads, no registration](https://www.dum.pt/)
 * [2025-09-12, 20:09:18](https://news.ycombinator.com/item?id=45226186) - [North Korea executing more people for watching foreign films and TV, UN finds](https://www.bbc.com/news/articles/ckgqdz17ye3o)
