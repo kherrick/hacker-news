@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-12, 14:51:33",
+      "https://news.ycombinator.com/item?id=45222777"
+    ],
+    [
+      "Active phishing campaign targeting crates.io users",
+      "https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 14:50:57",
       "https://news.ycombinator.com/item?id=45222772"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-09-12, 14:45:08",
-      "https://news.ycombinator.com/item?id=45222709"
+      "2025-09-12, 14:44:05",
+      "https://news.ycombinator.com/item?id=45222695"
     ],
     [
-      "Health care costs are soaring. Blame insurers, drug companies and your employer",
-      "https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer"
+      "Many Hard LeetCode Problems Are Easy Constraint Problems",
+      "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Float Exposed",
       "https://float.exposed/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 00:04:25",
-      "https://news.ycombinator.com/item?id=45217372"
-    ],
-    [
-      "Toddlerbot: Open-Source Humanoid Robot",
-      "https://toddlerbot.github.io/"
     ]
   ],
   [
