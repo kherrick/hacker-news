@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 20:53:33](https://news.ycombinator.com/item?id=45226639) - [Emacs: A Paradigm Shift](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 * [2025-09-12, 20:17:23](https://news.ycombinator.com/item?id=45226277) - [I made a small site to share text and files for free, no ads, no registration](https://www.dum.pt/)
 * [2025-09-12, 20:09:18](https://news.ycombinator.com/item?id=45226186) - [North Korea executing more people for watching foreign films and TV, UN finds](https://www.bbc.com/news/articles/ckgqdz17ye3o)
 * [2025-09-12, 20:00:13](https://news.ycombinator.com/item?id=45226076) - [Hyundai battery plant faces startup delay after US immigration raid, CEO says](https://www.japantimes.co.jp/business/2025/09/12/companies/hyundai-battery-plant-delay/)
