@@ -2,7 +2,6 @@
 
 * [2025-09-12, 21:54:34](https://news.ycombinator.com/item?id=45227212) - [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/)
 * [2025-09-12, 21:44:47](https://news.ycombinator.com/item?id=45227134) - [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
-* [2025-09-12, 21:37:09](https://news.ycombinator.com/item?id=45227064) - [ARM is great, ARM is terrible, and so is RISC-V](https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v)
 * [2025-09-12, 21:20:36](https://news.ycombinator.com/item?id=45226903) - [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
 * [2025-09-12, 20:53:33](https://news.ycombinator.com/item?id=45226639) - [Emacs: A Paradigm Shift](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 * [2025-09-12, 20:17:23](https://news.ycombinator.com/item?id=45226277) - [Show HN: I made a small site to share text & files. Free, no ads or registration](https://www.dum.pt/)
@@ -24,12 +23,13 @@
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D modeling with paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The treasury is expanding the Patriot Act to attack Bitcoin self custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
 * [2025-09-12, 07:58:55](https://news.ycombinator.com/item?id=45219817) - [Rust: A quest for performant, reliable software [video]](https://www.youtube.com/watch?v=k_-6KI3m31M)
-* [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 * [2025-09-10, 15:36:20](https://news.ycombinator.com/item?id=45199256) - [Building a Deep Research Agent Using MCP-Agent](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent)
 * [2025-09-09, 15:09:34](https://news.ycombinator.com/item?id=45183008) - [Unauthorized Windows/386](https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/)
+* [2025-09-09, 12:14:58](https://news.ycombinator.com/item?id=45180876) - [Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage](https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/)
 * [2025-09-09, 07:10:53](https://news.ycombinator.com/item?id=45178541) - [How to Become a Pure Mathematician (Or Statistician)](http://hbpms.blogspot.com/)
 * [2025-09-09, 01:49:08](https://news.ycombinator.com/item?id=45176471) - [First 'perovskite camera' can see inside the human body](https://news.northwestern.edu/stories/2025/09/first-perovskite-camera-can-see-inside-the-human-body/)
 * [2025-09-09, 00:33:56](https://news.ycombinator.com/item?id=45175982) - [Windows-Use: an AI agent that interacts with Windows at GUI layer](https://github.com/CursorTouch/Windows-Use)
+* [2025-09-08, 23:24:24](https://news.ycombinator.com/item?id=45175439) - [I don't like curved displays](https://blog.danielh.cc/blog/curved)
 
 ## [Archives](archives/index.md)
 
