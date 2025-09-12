@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 15:44:52](https://news.ycombinator.com/item?id=45223419) - [Advanced Scheme Techniques (2004) [pdf]](https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf)
 * [2025-09-12, 15:32:11](https://news.ycombinator.com/item?id=45223239) - [A Beginner's Guide to Extending Emacs](https://blog.tjll.net/a-beginners-guide-to-extending-emacs/)
+* [2025-09-12, 15:22:00](https://news.ycombinator.com/item?id=45223102) - [Show HN: An MCP Gateway to block the lethal trifecta](https://github.com/Edison-Watch/open-edison)
 * [2025-09-12, 15:17:09](https://news.ycombinator.com/item?id=45223053) - [Show HN: DWS OS, a Plan 9 Inspired Web \"OS\"](https://dws.rip)
 * [2025-09-12, 15:11:43](https://news.ycombinator.com/item?id=45222993) - [Doom-ada: Doom Emacs Ada language module with syntax, LSP and Alire support](https://github.com/tomekw/doom-ada)
 * [2025-09-12, 14:53:45](https://news.ycombinator.com/item?id=45222799) - [Oq: Terminal OpenAPI Spec Viewer](https://github.com/plutov/oq)

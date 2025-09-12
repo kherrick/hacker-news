@@ -6,6 +6,7 @@
 
 * [2025-09-08, 23:48:14](https://news.ycombinator.com/item?id=45175628) - [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
 * [2025-09-08, 23:43:20](https://news.ycombinator.com/item?id=45175588) - [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/)
+* [2025-09-08, 23:24:24](https://news.ycombinator.com/item?id=45175439) - [I don't like curved displays](https://blog.danielh.cc/blog/curved)
 * [2025-09-08, 23:07:42](https://news.ycombinator.com/item?id=45175312) - [Red Hat back-office team to be Big and Blue whether they like it or not](https://www.theregister.com/2025/09/08/red_hatters_to_be_big/)
 * [2025-09-08, 22:45:06](https://news.ycombinator.com/item?id=45175099) - [Ten Years of D3D12](https://therealmjp.github.io/posts/ten-years-of-d3d12/)
 * [2025-09-08, 22:31:49](https://news.ycombinator.com/item?id=45174944) - [Full Moon: Seestar S50 vs. Samsung S25](https://www.4rknova.com//blog/2025/09/08/moon-photos)
