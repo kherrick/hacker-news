@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-12, 16:34:49",
-      "https://news.ycombinator.com/item?id=45223913"
+      "2025-09-12, 16:14:50",
+      "https://news.ycombinator.com/item?id=45223726"
     ],
     [
-      "The rise of AI cults and the false prophets of revelation",
-      "https://wisewolfmedia.substack.com/p/the-rise-of-ai-cults-truth-terminal"
+      "VaultGemma: The most capable differentially private LLM",
+      "https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Corporations are trying, and now failing, to hide job openings from US citizens",
       "https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 16:05:58",
+      "https://news.ycombinator.com/item?id=45223660"
+    ],
+    [
+      "OpenAI Grove",
+      "https://openai.com/index/openai-grove/"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2025-09-10, 15:36:20",
+      "https://news.ycombinator.com/item?id=45199256"
+    ],
+    [
+      "Building a Deep Research Agent Using MCP-Agent",
+      "https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 00:33:56",
       "https://news.ycombinator.com/item?id=45175982"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-09-08, 22:45:06",
-      "https://news.ycombinator.com/item?id=45175099"
-    ],
-    [
-      "Ten Years of D3D12",
-      "https://therealmjp.github.io/posts/ten-years-of-d3d12/"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 21:39:00",
       "https://news.ycombinator.com/item?id=45174366"
     ],
@@ -277,16 +287,6 @@
     [
       "Introduction to Nyquist and Lisp Programming",
       "https://manual.audacityteam.org/man/introduction_to_nyquist_and_lisp_programming.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 19:39:10",
-      "https://news.ycombinator.com/item?id=45172905"
-    ],
-    [
-      "Using Emacs Org-Mode With Databases: A getting-started guide",
-      "https://gitlab.com/ryanprior/emacs-org-data-starter"
     ]
   ],
   [
