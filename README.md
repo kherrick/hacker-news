@@ -25,10 +25,10 @@
 * [2025-09-11, 13:39:43](https://news.ycombinator.com/item?id=45211527) - [From burner phones to decks of cards: NYC teens adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)
 * [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 11:46:13](https://news.ycombinator.com/item?id=45210428) - [AirPods live translation blocked for EU users with EU Apple accounts](https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/)
-* [2025-09-11, 09:32:49](https://news.ycombinator.com/item?id=45209558) - [Reshaped is now open source](https://reshaped.so/blog/reshaped-oss)
 * [2025-09-11, 09:02:50](https://news.ycombinator.com/item?id=45209389) - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
 * [2025-09-08, 22:31:49](https://news.ycombinator.com/item?id=45174944) - [Full Moon: Seestar S50 vs. Samsung S25](https://www.4rknova.com//blog/2025/09/08/moon-photos)
 * [2025-09-08, 14:33:26](https://news.ycombinator.com/item?id=45168823) - [Doorbell prankster that tormented residents of apartments turns out to be a slug](https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug)
+* [2025-09-08, 13:13:43](https://news.ycombinator.com/item?id=45167846) - [De-Clouding: Music](https://rosswintle.uk/2025/09/de-clouding-music/)
 * [2025-09-08, 06:05:54](https://news.ycombinator.com/item?id=45165070) - [Building my childhood dream PC](https://fabiensanglard.net/2168/)
 
 ## [Archives](archives/index.md)
