@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
 * [2025-09-12, 10:59:38](https://news.ycombinator.com/item?id=45220843) - [Astrophysics Source Code Library](http://ascl.net/)
 * [2025-09-12, 10:24:36](https://news.ycombinator.com/item?id=45220656) - [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
 * [2025-09-12, 08:52:53](https://news.ycombinator.com/item?id=45220121) - [Examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples)
 * [2025-09-12, 08:44:15](https://news.ycombinator.com/item?id=45220069) - [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
 * [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 * [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
-* [2025-09-12, 01:42:37](https://news.ycombinator.com/item?id=45217858) - [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
 * [2025-09-12, 00:11:15](https://news.ycombinator.com/item?id=45217415) - [Float Exposed](https://float.exposed/)
 * [2025-09-12, 00:04:25](https://news.ycombinator.com/item?id=45217372) - [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
 * [2025-09-11, 23:45:36](https://news.ycombinator.com/item?id=45217269) - [Why our website looks like an operating system](https://posthog.com/blog/why-os)
