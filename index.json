@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-09-12, 03:08:50",
+      "https://news.ycombinator.com/item?id=45218303"
+    ],
+    [
+      "Differences between stal/IX and regular Linux",
+      "https://stal-ix.github.io/STALIX.html"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 01:42:37",
       "https://news.ycombinator.com/item?id=45217858"
     ],
     [
-      "The Challenge of Maintaining Curl",
+      "The challenge of maintaining curl",
       "https://lwn.net/Articles/1034966/"
     ]
   ],
@@ -97,6 +107,16 @@
     [
       "Nano Banana image examples",
       "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 19:06:32",
+      "https://news.ycombinator.com/item?id=45215032"
+    ],
+    [
+      "Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app",
+      "https://news.ycombinator.com/item?id=45215032"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-09-11, 13:04:49",
-      "https://news.ycombinator.com/item?id=45211127"
-    ],
-    [
-      "An engineering history of the Manhattan Project",
-      "https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan"
-    ]
-  ],
-  [
-    [
       "2025-09-11, 12:39:29",
       "https://news.ycombinator.com/item?id=45210850"
     ],
@@ -247,16 +257,6 @@
     [
       "AirPods live translation blocked for EU users with EU Apple accounts",
       "https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 09:32:49",
-      "https://news.ycombinator.com/item?id=45209558"
-    ],
-    [
-      "Reshaped is now open source",
-      "https://reshaped.so/blog/reshaped-oss"
     ]
   ],
   [
