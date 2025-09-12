@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2025-09-12, 19:47:00",
-      "https://news.ycombinator.com/item?id=45225954"
-    ],
-    [
-      "EPA to Stop Collecting Emissions Data from Polluters",
-      "https://www.nytimes.com/2025/09/12/climate/epa-emissions-data-collection-halt.html"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 19:07:56",
       "https://news.ycombinator.com/item?id=45225506"
     ],
     [
-      "Groundbreaking Brazilian Drug, Capable of Reversing Spinal Cord Injury",
+      "Polylaminin, a drug considered capable of reversing spinal cord injury",
       "https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2025/09/groundbreaking-brazilian-drug-considered-capable-of-reversing-spinal-cord-injury-presented-in-sao-paulo.shtml"
     ]
   ],
@@ -57,16 +47,6 @@
     [
       "EU court rules nuclear energy is clean energy",
       "https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 18:11:50",
-      "https://news.ycombinator.com/item?id=45224901"
-    ],
-    [
-      "An embarrassing failure of the US patent system: Nintendo's latest patents",
-      "https://www.pcgamer.com/gaming-industry/an-embarrassing-failure-of-the-us-patent-system-videogame-ip-lawyer-says-nintendos-latest-patents-on-pokemon-mechanics-should-not-have-happened-full-stop/"
     ]
   ],
   [
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45224219"
     ],
     [
-      "K2-Think: A Parameter-Efficient Reasoning System",
+      "K2-think: A parameter-efficient reasoning system",
       "https://arxiv.org/abs/2509.07604"
     ]
   ],
@@ -137,6 +117,26 @@
     [
       "VaultGemma: The most capable differentially private LLM",
       "https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 16:13:49",
+      "https://news.ycombinator.com/item?id=45223719"
+    ],
+    [
+      "Corporations are trying to hide job openings from US citizens",
+      "https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 16:05:58",
+      "https://news.ycombinator.com/item?id=45223660"
+    ],
+    [
+      "OpenAI Grove",
+      "https://openai.com/index/openai-grove/"
     ]
   ],
   [
@@ -191,32 +191,12 @@
   ],
   [
     [
-      "2025-09-12, 12:52:52",
-      "https://news.ycombinator.com/item?id=45221580"
-    ],
-    [
-      "Chat Control faces blocking minority in the EU",
-      "https://twitter.com/TutaPrivacy/status/1966384776883142661"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 12:10:29",
       "https://news.ycombinator.com/item?id=45221274"
     ],
     [
       "The treasury is expanding the Patriot Act to attack Bitcoin self custody",
       "https://www.tftc.io/treasury-iexpanding-patriot-act/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 08:44:15",
-      "https://news.ycombinator.com/item?id=45220069"
-    ],
-    [
-      "Show HN: I made a generative online drum machine with ClojureScript",
-      "https://dopeloop.ai/beat-maker/"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2025-09-09, 07:10:53",
+      "https://news.ycombinator.com/item?id=45178541"
+    ],
+    [
+      "How to Become a Pure Mathematician (Or Statistician)",
+      "http://hbpms.blogspot.com/"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 02:54:09",
       "https://news.ycombinator.com/item?id=45176858"
     ],
@@ -287,6 +277,16 @@
     [
       "Windows-Use: an AI agent that interacts with Windows at GUI layer",
       "https://github.com/CursorTouch/Windows-Use"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 23:24:24",
+      "https://news.ycombinator.com/item?id=45175439"
+    ],
+    [
+      "I don't like curved displays",
+      "https://blog.danielh.cc/blog/curved"
     ]
   ],
   [
