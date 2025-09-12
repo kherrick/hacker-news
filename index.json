@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-09-12, 19:47:00",
-      "https://news.ycombinator.com/item?id=45225954"
-    ],
-    [
-      "EPA to Stop Collecting Emissions Data from Polluters",
-      "https://www.nytimes.com/2025/09/12/climate/epa-emissions-data-collection-halt.html"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 19:07:56",
       "https://news.ycombinator.com/item?id=45225506"
     ],
@@ -217,6 +207,16 @@
     [
       "The treasury is expanding the Patriot Act to attack Bitcoin self custody",
       "https://www.tftc.io/treasury-iexpanding-patriot-act/"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 08:44:15",
+      "https://news.ycombinator.com/item?id=45220069"
+    ],
+    [
+      "Show HN: I made a generative online drum machine with ClojureScript",
+      "https://dopeloop.ai/beat-maker/"
     ]
   ],
   [
