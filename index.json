@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-12, 15:32:11",
+      "https://news.ycombinator.com/item?id=45223239"
+    ],
+    [
+      "A Beginner's Guide to Extending Emacs",
+      "https://blog.tjll.net/a-beginners-guide-to-extending-emacs/"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 15:17:09",
       "https://news.ycombinator.com/item?id=45223053"
     ],
@@ -17,6 +27,16 @@
     [
       "Doom-ada: Doom Emacs Ada language module with syntax, LSP and Alire support",
       "https://github.com/tomekw/doom-ada"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 14:53:45",
+      "https://news.ycombinator.com/item?id=45222799"
+    ],
+    [
+      "Oq: Terminal OpenAPI Spec Viewer",
+      "https://github.com/plutov/oq"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Using Emacs Org-Mode With Databases: A getting-started guide",
       "https://gitlab.com/ryanprior/emacs-org-data-starter"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 14:33:26",
-      "https://news.ycombinator.com/item?id=45168823"
-    ],
-    [
-      "Doorbell prankster that tormented residents of apartments turns out to be a slug",
-      "https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 13:03:01",
-      "https://news.ycombinator.com/item?id=45167739"
-    ],
-    [
-      "Logging in Go with Slog: A Practitioner's Guide",
-      "https://www.dash0.com/guides/logging-in-go-with-slog"
     ]
   ],
   [
