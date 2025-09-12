@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-12, 07:45:14",
+      "https://news.ycombinator.com/item?id=45219720"
+    ],
+    [
+      "UN Security Council members condemn Israel over deadly strike on Qatar",
+      "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 07:00:52",
       "https://news.ycombinator.com/item?id=45219406"
     ],
     [
       "Performance-focused forks of styled-components",
       "https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 06:57:43",
+      "https://news.ycombinator.com/item?id=45219388"
+    ],
+    [
+      "Hyundai is now delaying its EV battery plant that was raided by ICE",
+      "https://electrek.co/2025/09/11/hyundai-now-delaying-ev-battery-plant-raided-by-ice/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "The challenge of maintaining curl",
       "https://lwn.net/Articles/1034966/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 00:31:06",
-      "https://news.ycombinator.com/item?id=45217499"
-    ],
-    [
-      "Backprompting: Leveraging synthetic production data for health advice guardrails",
-      "https://arxiv.org/abs/2508.18384"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Claude’s memory architecture is the opposite of ChatGPT’s",
       "https://www.shloked.com/writing/claude-memory"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 18:32:43",
-      "https://news.ycombinator.com/item?id=45214672"
-    ],
-    [
-      "Making io_uring pervasive in QEMU [pdf]",
-      "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf"
     ]
   ],
   [
