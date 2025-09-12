@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 16:13:49](https://news.ycombinator.com/item?id=45223719) - [Corporations are trying, and now failing, to hide job openings from US citizens](https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/)
 * [2025-09-12, 15:44:52](https://news.ycombinator.com/item?id=45223419) - [Advanced Scheme Techniques (2004) [pdf]](https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf)
 * [2025-09-12, 15:32:11](https://news.ycombinator.com/item?id=45223239) - [A Beginner's Guide to Extending Emacs](https://blog.tjll.net/a-beginners-guide-to-extending-emacs/)
 * [2025-09-12, 15:22:00](https://news.ycombinator.com/item?id=45223102) - [Show HN: An MCP Gateway to block the lethal trifecta](https://github.com/Edison-Watch/open-edison)
