@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 01:42:37](https://news.ycombinator.com/item?id=45217858) - [The Challenge of Maintaining Curl](https://lwn.net/Articles/1034966/)
 * [2025-09-12, 00:39:47](https://news.ycombinator.com/item?id=45217545) - [We traded blogs for black boxes, now we're paying for it](https://tekhne.dev/internet-resist/)
 * [2025-09-12, 00:31:06](https://news.ycombinator.com/item?id=45217499) - [Backprompting: Leveraging Synthetic Production Data for Health Advice Guardrails](https://arxiv.org/abs/2508.18384)
 * [2025-09-12, 00:30:26](https://news.ycombinator.com/item?id=45217496) - [Contabo Security Defaults Encourage Using SSH Passwords](https://jamesoclaire.com/2025/09/12/contabo-defaults-encourage-using-ssh-passwords/)
