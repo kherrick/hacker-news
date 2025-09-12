@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 07:45:14](https://news.ycombinator.com/item?id=45219720) - [UN Security Council members condemn Israel over deadly strike on Qatar](https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar)
 * [2025-09-12, 07:00:52](https://news.ycombinator.com/item?id=45219406) - [Styled-components maintenance mode: A 40% faster fork](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
+* [2025-09-12, 06:57:43](https://news.ycombinator.com/item?id=45219388) - [Hyundai is now delaying its EV battery plant that was raided by ICE](https://electrek.co/2025/09/11/hyundai-now-delaying-ev-battery-plant-raided-by-ice/)
 * [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next: Towards Ultimate Training and Inference Efficiency](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 * [2025-09-12, 04:18:46](https://news.ycombinator.com/item?id=45218605) - [Pasadena man recounts 13 days in ICE's 'basement'](https://www.latimes.com/california/story/2025-09-11/tunisian-man-recounts-13-days-in-ice-custody-downtown-l-a)
 * [2025-09-12, 03:08:50](https://news.ycombinator.com/item?id=45218303) - [Differences between stal/IX and regular Linux](https://stal-ix.github.io/STALIX.html)
