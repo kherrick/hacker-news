@@ -10,6 +10,7 @@
 * [2025-09-12, 17:35:08](https://news.ycombinator.com/item?id=45224542) - [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
 * [2025-09-12, 17:22:38](https://news.ycombinator.com/item?id=45224421) - [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html)
 * [2025-09-12, 17:06:52](https://news.ycombinator.com/item?id=45224246) - [Humanely Dealing with Humungus Crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
+* [2025-09-12, 17:04:03](https://news.ycombinator.com/item?id=45224219) - [K2-Think: A Parameter-Efficient Reasoning System](https://arxiv.org/abs/2509.07604)
 * [2025-09-12, 16:57:17](https://news.ycombinator.com/item?id=45224156) - [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS)
 * [2025-09-12, 16:56:18](https://news.ycombinator.com/item?id=45224141) - [Vector database that can index 1B vectors in 48M](https://www.vectroid.com/blog/why-and-how-we-built-Vectroid)
 * [2025-09-12, 16:34:49](https://news.ycombinator.com/item?id=45223913) - [The rise of AI cults and the false prophets of revelation](https://wisewolfmedia.substack.com/p/the-rise-of-ai-cults-truth-terminal)
