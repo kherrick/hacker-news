@@ -9,7 +9,6 @@
 * [2025-09-11, 23:45:36](https://news.ycombinator.com/item?id=45217269) - [Why our website looks like an operating system](https://posthog.com/blog/why-os)
 * [2025-09-11, 22:41:43](https://news.ycombinator.com/item?id=45216844) - [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
 * [2025-09-11, 22:35:36](https://news.ycombinator.com/item?id=45216805) - [Danish supermarket chain is setting up \"Emergency Stores\"](https://swiss.social/@swaldorff/115186445638788782)
-* [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
 * [2025-09-11, 20:35:11](https://news.ycombinator.com/item?id=45215869) - [Nano Banana image examples](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 * [2025-09-11, 18:58:22](https://news.ycombinator.com/item?id=45214933) - [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
 * [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude's memory architecture is the opposite of ChatGPT's](https://www.shloked.com/writing/claude-memory)
@@ -29,6 +28,7 @@
 * [2025-09-08, 22:31:49](https://news.ycombinator.com/item?id=45174944) - [Full Moon: Seestar S50 vs. Samsung S25](https://www.4rknova.com//blog/2025/09/08/moon-photos)
 * [2025-09-08, 14:33:26](https://news.ycombinator.com/item?id=45168823) - [Doorbell prankster that tormented residents of apartments turns out to be a slug](https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug)
 * [2025-09-08, 13:13:43](https://news.ycombinator.com/item?id=45167846) - [De-Clouding: Music](https://rosswintle.uk/2025/09/de-clouding-music/)
+* [2025-09-08, 12:14:48](https://news.ycombinator.com/item?id=45167352) - [Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU](http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html)
 * [2025-09-08, 06:05:54](https://news.ycombinator.com/item?id=45165070) - [Building my childhood dream PC](https://fabiensanglard.net/2168/)
 
 ## [Archives](archives/index.md)
