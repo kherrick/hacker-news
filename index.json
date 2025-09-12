@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-12, 10:59:38",
+      "https://news.ycombinator.com/item?id=45220843"
+    ],
+    [
+      "Astrophysics Source Code Library",
+      "http://ascl.net/"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 08:52:53",
       "https://news.ycombinator.com/item?id=45220121"
     ],
@@ -131,26 +141,6 @@
   ],
   [
     [
-      "2025-09-11, 17:42:30",
-      "https://news.ycombinator.com/item?id=45214159"
-    ],
-    [
-      "A Web Framework for Zig",
-      "https://www.jetzig.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 16:58:08",
-      "https://news.ycombinator.com/item?id=45213732"
-    ],
-    [
-      "‘Robber bees’ invade apiarist’s shop in attempted honey heist",
-      "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532"
-    ]
-  ],
-  [
-    [
       "2025-09-11, 16:13:09",
       "https://news.ycombinator.com/item?id=45213299"
     ],
@@ -227,6 +217,16 @@
     [
       "Full Moon: Seestar S50 vs. Samsung S25",
       "https://www.4rknova.com//blog/2025/09/08/moon-photos"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 19:54:00",
+      "https://news.ycombinator.com/item?id=45173100"
+    ],
+    [
+      "Introduction to Nyquist and Lisp Programming",
+      "https://manual.audacityteam.org/man/introduction_to_nyquist_and_lisp_programming.html"
     ]
   ],
   [
