@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-09-12, 21:37:09",
-      "https://news.ycombinator.com/item?id=45227064"
-    ],
-    [
-      "ARM is great, ARM is terrible, and so is RISC-V",
-      "https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 21:20:36",
       "https://news.ycombinator.com/item?id=45226903"
     ],
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2025-09-12, 06:32:04",
-      "https://news.ycombinator.com/item?id=45219228"
-    ],
-    [
-      "Qwen3-Next",
-      "https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 15:36:20",
       "https://news.ycombinator.com/item?id=45199256"
     ],
@@ -267,6 +247,16 @@
     [
       "Unauthorized Windows/386",
       "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 12:14:58",
+      "https://news.ycombinator.com/item?id=45180876"
+    ],
+    [
+      "Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage",
+      "https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Windows-Use: an AI agent that interacts with Windows at GUI layer",
       "https://github.com/CursorTouch/Windows-Use"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 23:24:24",
+      "https://news.ycombinator.com/item?id=45175439"
+    ],
+    [
+      "I don't like curved displays",
+      "https://blog.danielh.cc/blog/curved"
     ]
   ]
 ]
