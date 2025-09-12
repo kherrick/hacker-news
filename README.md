@@ -2,6 +2,7 @@
 
 * [2025-09-12, 21:54:34](https://news.ycombinator.com/item?id=45227212) - [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/)
 * [2025-09-12, 21:44:47](https://news.ycombinator.com/item?id=45227134) - [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
+* [2025-09-12, 21:37:09](https://news.ycombinator.com/item?id=45227064) - [ARM is great, ARM is terrible, and so is RISC-V](https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v)
 * [2025-09-12, 21:20:36](https://news.ycombinator.com/item?id=45226903) - [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
 * [2025-09-12, 20:53:33](https://news.ycombinator.com/item?id=45226639) - [Emacs: A Paradigm Shift](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 * [2025-09-12, 20:17:23](https://news.ycombinator.com/item?id=45226277) - [Show HN: I made a small site to share text & files. Free, no ads or registration](https://www.dum.pt/)
@@ -11,7 +12,6 @@
 * [2025-09-12, 17:35:08](https://news.ycombinator.com/item?id=45224542) - [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
 * [2025-09-12, 17:22:38](https://news.ycombinator.com/item?id=45224421) - [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html)
 * [2025-09-12, 17:06:52](https://news.ycombinator.com/item?id=45224246) - [Humanely dealing with humungus crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
-* [2025-09-12, 17:04:03](https://news.ycombinator.com/item?id=45224219) - [K2-think: A parameter-efficient reasoning system](https://arxiv.org/abs/2509.07604)
 * [2025-09-12, 16:57:17](https://news.ycombinator.com/item?id=45224156) - [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS)
 * [2025-09-12, 16:56:18](https://news.ycombinator.com/item?id=45224141) - [Vector database that can index 1B vectors in 48M](https://www.vectroid.com/blog/why-and-how-we-built-Vectroid)
 * [2025-09-12, 16:14:50](https://news.ycombinator.com/item?id=45223726) - [VaultGemma: The most capable differentially private LLM](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/)
