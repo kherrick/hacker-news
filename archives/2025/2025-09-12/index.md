@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 20:17:23](https://news.ycombinator.com/item?id=45226277) - [I made a small site to share text and files for free, no ads, no registration](https://www.dum.pt/)
+* [2025-09-12, 20:09:18](https://news.ycombinator.com/item?id=45226186) - [North Korea executing more people for watching foreign films and TV, UN finds](https://www.bbc.com/news/articles/ckgqdz17ye3o)
 * [2025-09-12, 20:00:13](https://news.ycombinator.com/item?id=45226076) - [Hyundai battery plant faces startup delay after US immigration raid, CEO says](https://www.japantimes.co.jp/business/2025/09/12/companies/hyundai-battery-plant-delay/)
 * [2025-09-12, 19:59:22](https://news.ycombinator.com/item?id=45226066) - [Show HN: 47jobs – A Fiverr/Upwork for AI Agents](https://47jobs.xyz)
 * [2025-09-12, 19:47:57](https://news.ycombinator.com/item?id=45225965) - [On Charlie Kirk and Saving Civil Society](https://calnewport.com/on-charlie-kirk-and-saving-civil-society/)
