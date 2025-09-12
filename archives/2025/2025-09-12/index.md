@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
 * [2025-09-12, 15:17:09](https://news.ycombinator.com/item?id=45223053) - [Show HN: DWS OS, a Plan 9 Inspired Web \"OS\"](https://dws.rip)
+* [2025-09-12, 15:11:43](https://news.ycombinator.com/item?id=45222993) - [Doom-ada: Doom Emacs Ada language module with syntax, LSP and Alire support](https://github.com/tomekw/doom-ada)
 * [2025-09-12, 14:51:33](https://news.ycombinator.com/item?id=45222777) - [Active phishing campaign targeting crates.io users](https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/)
 * [2025-09-12, 14:50:57](https://news.ycombinator.com/item?id=45222772) - [Crates.io Phishing Attempt](https://fasterthanli.me/articles/crates-io-phishing-attempt)
 * [2025-09-12, 14:45:08](https://news.ycombinator.com/item?id=45222709) - [Health care costs are soaring. Blame insurers, drug companies and your employer](https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-12, 15:17:09](https://news.ycombinator.com/item?id=45223053) - [Show HN: DWS OS, a Plan 9 Inspired Web \"OS\"](https://dws.rip)
+* [2025-09-12, 15:11:43](https://news.ycombinator.com/item?id=45222993) - [Doom-ada: Doom Emacs Ada language module with syntax, LSP and Alire support](https://github.com/tomekw/doom-ada)
 * [2025-09-12, 14:51:33](https://news.ycombinator.com/item?id=45222777) - [Active phishing campaign targeting crates.io users](https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/)
 * [2025-09-12, 14:50:57](https://news.ycombinator.com/item?id=45222772) - [Crates.io Phishing Attempt](https://fasterthanli.me/articles/crates-io-phishing-attempt)
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many Hard LeetCode Problems Are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
@@ -21,7 +22,6 @@
 * [2025-09-11, 23:45:36](https://news.ycombinator.com/item?id=45217269) - [Why our website looks like an operating system](https://posthog.com/blog/why-os)
 * [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude’s memory architecture is the opposite of ChatGPT’s](https://www.shloked.com/writing/claude-memory)
 * [2025-09-11, 18:32:23](https://news.ycombinator.com/item?id=45214670) - [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
-* [2025-09-11, 11:46:13](https://news.ycombinator.com/item?id=45210428) - [AirPods live translation blocked for EU users with EU Apple accounts](https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/)
 * [2025-09-09, 00:33:56](https://news.ycombinator.com/item?id=45175982) - [Windows-Use: an AI agent that interacts with Windows at GUI layer](https://github.com/CursorTouch/Windows-Use)
 * [2025-09-08, 22:45:06](https://news.ycombinator.com/item?id=45175099) - [Ten Years of D3D12](https://therealmjp.github.io/posts/ten-years-of-d3d12/)
 * [2025-09-08, 21:39:00](https://news.ycombinator.com/item?id=45174366) - [Racintosh Plus – Rackmount Mac Plus](http://www.identity4.com/2025-racintosh-plus/)
