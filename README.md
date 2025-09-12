@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-12, 14:51:33](https://news.ycombinator.com/item?id=45222777) - [Active phishing campaign targeting crates.io users](https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/)
 * [2025-09-12, 14:50:57](https://news.ycombinator.com/item?id=45222772) - [Crates.io Phishing Attempt](https://fasterthanli.me/articles/crates-io-phishing-attempt)
-* [2025-09-12, 14:45:08](https://news.ycombinator.com/item?id=45222709) - [Health care costs are soaring. Blame insurers, drug companies and your employer](https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer)
+* [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many Hard LeetCode Problems Are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D Modeling with Paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 13:36:40](https://news.ycombinator.com/item?id=45221996) - [Over 100 ships have sailed with fake insurance from the Norwegian Ro Marine](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216)
 * [2025-09-12, 13:31:05](https://news.ycombinator.com/item?id=45221938) - [Justice Department Announces Actions to Combat North Korean Remote IT Workers](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote)
@@ -16,7 +17,6 @@
 * [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 * [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 * [2025-09-12, 00:11:15](https://news.ycombinator.com/item?id=45217415) - [Float Exposed](https://float.exposed/)
-* [2025-09-12, 00:04:25](https://news.ycombinator.com/item?id=45217372) - [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
 * [2025-09-11, 23:45:36](https://news.ycombinator.com/item?id=45217269) - [Why our website looks like an operating system](https://posthog.com/blog/why-os)
 * [2025-09-11, 18:55:50](https://news.ycombinator.com/item?id=45214908) - [Claude’s memory architecture is the opposite of ChatGPT’s](https://www.shloked.com/writing/claude-memory)
 * [2025-09-11, 18:32:23](https://news.ycombinator.com/item?id=45214670) - [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 14:51:33](https://news.ycombinator.com/item?id=45222777) - [Active phishing campaign targeting crates.io users](https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/)
 * [2025-09-12, 14:50:57](https://news.ycombinator.com/item?id=45222772) - [Crates.io Phishing Attempt](https://fasterthanli.me/articles/crates-io-phishing-attempt)
 * [2025-09-12, 14:45:08](https://news.ycombinator.com/item?id=45222709) - [Health care costs are soaring. Blame insurers, drug companies and your employer](https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer)
+* [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many Hard LeetCode Problems Are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D Modeling with Paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 13:36:40](https://news.ycombinator.com/item?id=45221996) - [Over 100 ships have sailed with fake insurance from the Norwegian Ro Marine](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216)
 * [2025-09-12, 13:31:05](https://news.ycombinator.com/item?id=45221938) - [Justice Department Announces Actions to Combat North Korean Remote IT Workers](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote)
