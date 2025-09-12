@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-12, 01:42:37](https://news.ycombinator.com/item?id=45217858) - [The Challenge of Maintaining Curl](https://lwn.net/Articles/1034966/)
-* [2025-09-12, 00:39:47](https://news.ycombinator.com/item?id=45217545) - [We traded blogs for black boxes, now we're paying for it](https://tekhne.dev/internet-resist/)
+* [2025-09-12, 00:39:47](https://news.ycombinator.com/item?id=45217545) - [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
 * [2025-09-12, 00:31:06](https://news.ycombinator.com/item?id=45217499) - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
 * [2025-09-12, 00:11:15](https://news.ycombinator.com/item?id=45217415) - [Float Exposed](https://float.exposed/)
 * [2025-09-12, 00:04:25](https://news.ycombinator.com/item?id=45217372) - [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
@@ -23,12 +23,12 @@
 * [2025-09-11, 14:05:31](https://news.ycombinator.com/item?id=45211868) - [Conway's Game of Life, but musical](https://www.hudsong.dev/digital-darwin)
 * [2025-09-11, 13:45:28](https://news.ycombinator.com/item?id=45211596) - [CRISPR offers new hope for treating diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 * [2025-09-11, 13:39:43](https://news.ycombinator.com/item?id=45211527) - [From burner phones to decks of cards: NYC teens adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)
-* [2025-09-11, 13:04:49](https://news.ycombinator.com/item?id=45211127) - [An engineering history of the Manhattan Project](https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan)
 * [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 11:46:13](https://news.ycombinator.com/item?id=45210428) - [AirPods live translation blocked for EU users with EU Apple accounts](https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/)
 * [2025-09-11, 09:02:50](https://news.ycombinator.com/item?id=45209389) - [Samsung taking market share from Apple in U.S. as foldable phones gain momentum](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)
-* [2025-09-10, 19:30:37](https://news.ycombinator.com/item?id=45202489) - [Show HN: Making a cross-platform game in Go using WebRTC Datachannels](https://pion.ly/blog/making-a-game-with-pion/)
+* [2025-09-08, 22:31:49](https://news.ycombinator.com/item?id=45174944) - [Full Moon: Seestar S50 vs. Samsung S25](https://www.4rknova.com//blog/2025/09/08/moon-photos)
 * [2025-09-08, 14:33:26](https://news.ycombinator.com/item?id=45168823) - [Doorbell prankster that tormented residents of apartments turns out to be a slug](https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug)
+* [2025-09-08, 12:14:48](https://news.ycombinator.com/item?id=45167352) - [Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU](http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html)
 * [2025-09-08, 06:05:54](https://news.ycombinator.com/item?id=45165070) - [Building my childhood dream PC](https://fabiensanglard.net/2168/)
 
 ## [Archives](archives/index.md)
