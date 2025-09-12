@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-12, 07:00:52](https://news.ycombinator.com/item?id=45219406) - [Styled-components maintenance mode: A 40% faster fork](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
 * [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 * [2025-09-12, 01:42:37](https://news.ycombinator.com/item?id=45217858) - [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
-* [2025-09-12, 00:39:47](https://news.ycombinator.com/item?id=45217545) - [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
 * [2025-09-12, 00:31:06](https://news.ycombinator.com/item?id=45217499) - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
 * [2025-09-12, 00:11:15](https://news.ycombinator.com/item?id=45217415) - [Float Exposed](https://float.exposed/)
 * [2025-09-12, 00:04:25](https://news.ycombinator.com/item?id=45217372) - [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
