@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 10:59:38](https://news.ycombinator.com/item?id=45220843) - [Astrophysics Source Code Library](http://ascl.net/)
 * [2025-09-12, 08:52:53](https://news.ycombinator.com/item?id=45220121) - [All examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples)
 * [2025-09-12, 08:44:24](https://news.ycombinator.com/item?id=45220070) - [What 30k Free Users Taught Me About Charging $10/Month](https://news.ycombinator.com/item?id=45220070)
 * [2025-09-12, 08:44:15](https://news.ycombinator.com/item?id=45220069) - [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
