@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 23:45:36](https://news.ycombinator.com/item?id=45217269) - [Why our website looks like an operating system](https://posthog.com/blog/why-os)
 * [2025-09-11, 23:15:07](https://news.ycombinator.com/item?id=45217081) - [Senator demands to know status of 'duplicate' SSA database 'immediately'](https://www.theregister.com/2025/09/11/ssa_doge_whistleblower_demand/)
 * [2025-09-11, 22:41:43](https://news.ycombinator.com/item?id=45216844) - [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
 * [2025-09-11, 22:35:36](https://news.ycombinator.com/item?id=45216805) - [Danish supermarket chain is setting up \"Emergency Stores\"](https://swiss.social/@swaldorff/115186445638788782)
