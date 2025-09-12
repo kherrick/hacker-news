@@ -98,6 +98,7 @@
 * [2025-09-08, 07:45:36](https://news.ycombinator.com/item?id=45165608) - [Rewriting Dataframes for MicroHaskell](https://mchav.github.io/rewriting-dataframes-for-microhs/)
 * [2025-09-08, 07:32:25](https://news.ycombinator.com/item?id=45165529) - [Xhtml Friends Network (2003)](https://gmpg.org/xfn/)
 * [2025-09-08, 07:20:52](https://news.ycombinator.com/item?id=45165464) - [Deliberate Abstraction](https://entropicthoughts.com/deliberate-abstraction)
+* [2025-09-08, 07:12:29](https://news.ycombinator.com/item?id=45165415) - [Show HN: C++ Compiler Support Page](https://cppstat.dev)
 * [2025-09-08, 06:38:34](https://news.ycombinator.com/item?id=45165245) - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
 * [2025-09-08, 06:26:43](https://news.ycombinator.com/item?id=45165186) - [Britain built some of the safest roads](https://ourworldindata.org/britain-safest-roads-history)
 * [2025-09-08, 06:05:54](https://news.ycombinator.com/item?id=45165070) - [\"Building my childhood dream PC\" (IBM 2168) Part 1](https://fabiensanglard.net/2168/)
