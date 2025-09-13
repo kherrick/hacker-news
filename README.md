@@ -25,9 +25,9 @@
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The treasury is expanding the Patriot Act to attack Bitcoin self custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
 * [2025-09-12, 07:58:55](https://news.ycombinator.com/item?id=45219817) - [Rust: A quest for performant, reliable software [video]](https://www.youtube.com/watch?v=k_-6KI3m31M)
 * [2025-09-12, 02:17:54](https://news.ycombinator.com/item?id=45218017) - [Discovery of a new satellite or ring arc around Quaoar](https://phys.org/news/2025-09-discovery-moon-orbiting-mysterious-distant.html)
-* [2025-09-10, 02:15:31](https://news.ycombinator.com/item?id=45192302) - [The Jeopardy game that changed everything still haunts the show 15 years later](https://slate.com/culture/2025/09/jeopardy-game-watson-questions-final-ken-jennings.html)
 * [2025-09-09, 14:04:28](https://news.ycombinator.com/item?id=45182098) - [Antlr-Ng Parser Generator](https://www.antlr-ng.org/)
 * [2025-09-09, 13:21:18](https://news.ycombinator.com/item?id=45181577) - [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
+* [2025-09-09, 12:16:30](https://news.ycombinator.com/item?id=45180898) - [My Quarterly System Health Check-In: Beyond the Dashboard](https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/)
 * [2025-09-09, 12:14:58](https://news.ycombinator.com/item?id=45180876) - [Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage](https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/)
 * [2025-09-09, 10:31:22](https://news.ycombinator.com/item?id=45180094) - [Resizing images in Rust, now with EXIF orientation support](https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/)
 
