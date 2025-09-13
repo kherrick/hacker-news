@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-09-10, 04:28:49",
+      "https://news.ycombinator.com/item?id=45193291"
+    ],
+    [
+      "Automate compile_flags for C/C++ projects on the Zig build system",
+      "https://simonhartcher.com/posts/2025-09-08-announcing-compile-flagz/"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 15:20:38",
       "https://news.ycombinator.com/item?id=45183191"
     ],
@@ -277,16 +287,6 @@
     [
       "Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage",
       "https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 07:10:53",
-      "https://news.ycombinator.com/item?id=45178541"
-    ],
-    [
-      "How to become a pure mathematician or statistician (2008)",
-      "http://hbpms.blogspot.com/"
     ]
   ],
   [
