@@ -9,6 +9,7 @@
 * [2025-09-09, 22:05:56](https://news.ycombinator.com/item?id=45189951) - [The Worst Air Disaster You've Never Heard Of](https://longreads.com/2025/09/04/zeppelin-navy-aircraft-disaster/)
 * [2025-09-09, 21:47:31](https://news.ycombinator.com/item?id=45189700) - [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
 * [2025-09-09, 21:13:32](https://news.ycombinator.com/item?id=45189260) - [Show HN: Shellcast.tv – Stream your vibe coding](https://shellcast.tv/)
+* [2025-09-09, 21:01:53](https://news.ycombinator.com/item?id=45189058) - [Ruby Executes JIT Code: The Hidden Mechanics Behind the Magic](https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/)
 * [2025-09-09, 21:01:47](https://news.ycombinator.com/item?id=45189053) - [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)
 * [2025-09-09, 20:57:20](https://news.ycombinator.com/item?id=45188982) - [I don't want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
 * [2025-09-09, 20:55:16](https://news.ycombinator.com/item?id=45188945) - [Immunotherapy drug eliminates aggressive cancers in clinical trial](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
