@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 14:52:45](https://news.ycombinator.com/item?id=45232565) - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
 * [2025-09-13, 14:22:59](https://news.ycombinator.com/item?id=45232299) - [Show HN: CLAVIER-36 (programming environment for generative music)](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
 * [2025-09-13, 14:21:26](https://news.ycombinator.com/item?id=45232289) - [I made an online version of the love money game](https://lovemoney-game.xyz)
 * [2025-09-13, 14:20:01](https://news.ycombinator.com/item?id=45232275) - [Mago: A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)

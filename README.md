@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-13, 14:52:45](https://news.ycombinator.com/item?id=45232565) - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
 * [2025-09-13, 14:22:59](https://news.ycombinator.com/item?id=45232299) - [Show HN: CLAVIER-36 (programming environment for generative music)](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
 * [2025-09-13, 14:20:01](https://news.ycombinator.com/item?id=45232275) - [Mago: A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)
 * [2025-09-13, 14:12:44](https://news.ycombinator.com/item?id=45232228) - [NASA punts decision on Mars sample return to next administration](https://www.science.org/content/article/nasa-punts-decision-mars-sample-return-next-administration)
 * [2025-09-13, 13:54:31](https://news.ycombinator.com/item?id=45232100) - [An Annual Blast of Pacific Cold Water Did Not Occur, Alarming Scientists](https://www.nytimes.com/2025/09/12/climate/pacific-cold-water-upwelling.html)
 * [2025-09-13, 13:47:38](https://news.ycombinator.com/item?id=45232052) - [Japan sets record of nearly 100k people aged over 100](https://www.bbc.com/news/articles/cd07nljlyv0o)
-* [2025-09-13, 13:37:22](https://news.ycombinator.com/item?id=45231994) - [America's Largest Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/homebuilders/)
 * [2025-09-13, 13:15:26](https://news.ycombinator.com/item?id=45231852) - [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-13, 11:30:50](https://news.ycombinator.com/item?id=45231239) - [How 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans)
