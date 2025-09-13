@@ -22,7 +22,7 @@
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many hard LeetCode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D modeling with paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The treasury is expanding the Patriot Act to attack Bitcoin self custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
-* [2025-09-10, 03:37:01](https://news.ycombinator.com/item?id=45192919) - [Close the loop: analytics that teach your chatbot to fix itself](https://www.hoverbot.ai/blog/close-the-loop-analytics-that-teach-your-chatbot-to-fix-itself)
+* [2025-09-10, 03:29:45](https://news.ycombinator.com/item?id=45192862) - [Claude's new Code Interpreter review](https://simonwillison.net/2025/Sep/9/claude-code-interpreter/)
 * [2025-09-09, 22:05:56](https://news.ycombinator.com/item?id=45189951) - [The Worst Air Disaster You've Never Heard Of](https://longreads.com/2025/09/04/zeppelin-navy-aircraft-disaster/)
 * [2025-09-09, 15:12:46](https://news.ycombinator.com/item?id=45183057) - [Does All Semiconductor Manufacturing Depend on Spruce Pine Quartz? (2024)](https://www.construction-physics.com/p/does-all-semiconductor-manufacturing)
 * [2025-09-09, 14:03:03](https://news.ycombinator.com/item?id=45182081) - [Behind Kamathipura's Closed Doors](https://failedarchitecture.com/behind-kamathipuras-closed-doors/)
