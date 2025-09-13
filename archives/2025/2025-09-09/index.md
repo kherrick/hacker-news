@@ -41,6 +41,7 @@
 * [2025-09-09, 16:27:41](https://news.ycombinator.com/item?id=45184368) - [ICE Is Using Fake Cell Towers to Spy on People's Phones](https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/)
 * [2025-09-09, 16:24:12](https://news.ycombinator.com/item?id=45184315) - [U.S. Added 911,000 Fewer Jobs in the Year Ended in March](https://www.wsj.com/economy/jobs/us-job-growth-revision-a9777d98)
 * [2025-09-09, 16:15:24](https://news.ycombinator.com/item?id=45184163) - [DuckDB NPM Account Compromised in Continuing Supply Chain Attack](https://socket.dev/blog/duckdb-npm-account-compromised-in-continuing-supply-chain-attack)
+* [2025-09-09, 16:08:33](https://news.ycombinator.com/item?id=45184052) - [The Value of Bringing a Telephoto Lens](https://avidandrew.com/telephoto.html)
 * [2025-09-09, 16:05:54](https://news.ycombinator.com/item?id=45184003) - [South Koreans feel betrayed by workforce detentions at Georgia Hyundai plant](https://apnews.com/article/south-korea-us-georgia-raid-hyundai-24d990562f5ac20e7d3e983a77a4f7ff)
 * [2025-09-09, 15:42:32](https://news.ycombinator.com/item?id=45183589) - [How An Attacker's Blunder Gave Us a Rare Look Inside Their Day-to-Day Operations](https://www.huntress.com/blog/rare-look-inside-attacker-operation)
 * [2025-09-09, 15:20:38](https://news.ycombinator.com/item?id=45183191) - [Real-time AI hallucination detection with timeplus: A chess example](https://www.timeplus.com/post/ai-chess-hallucination-detection)
