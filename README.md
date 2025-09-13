@@ -26,9 +26,9 @@
 * [2025-09-12, 02:17:54](https://news.ycombinator.com/item?id=45218017) - [Discovery of a new satellite or ring arc around Quaoar](https://phys.org/news/2025-09-discovery-moon-orbiting-mysterious-distant.html)
 * [2025-09-10, 04:28:49](https://news.ycombinator.com/item?id=45193291) - [Automate compile_flags for C/C++ projects on the Zig build system](https://simonhartcher.com/posts/2025-09-08-announcing-compile-flagz/)
 * [2025-09-10, 02:15:31](https://news.ycombinator.com/item?id=45192302) - [The Jeopardy game that changed everything still haunts the show 15 years later](https://slate.com/culture/2025/09/jeopardy-game-watson-questions-final-ken-jennings.html)
-* [2025-09-09, 15:09:34](https://news.ycombinator.com/item?id=45183008) - [Unauthorized Windows/386](https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/)
 * [2025-09-09, 14:04:28](https://news.ycombinator.com/item?id=45182098) - [Antlr-Ng Parser Generator](https://www.antlr-ng.org/)
 * [2025-09-09, 13:21:18](https://news.ycombinator.com/item?id=45181577) - [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
+* [2025-09-09, 12:16:30](https://news.ycombinator.com/item?id=45180898) - [My Quarterly System Health Check-In: Beyond the Dashboard](https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/)
 * [2025-09-09, 12:14:58](https://news.ycombinator.com/item?id=45180876) - [Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage](https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/)
 
 ## [Archives](archives/index.md)
