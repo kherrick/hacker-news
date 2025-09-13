@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-13, 05:01:29",
+      "https://news.ycombinator.com/item?id=45229443"
+    ],
+    [
+      "Qwen 3 now supports ARM and MLX",
+      "https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/"
+    ]
+  ],
+  [
+    [
+      "2025-09-13, 04:55:14",
+      "https://news.ycombinator.com/item?id=45229414"
+    ],
+    [
+      "SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V",
+      "https://skiftos.org"
+    ]
+  ],
+  [
+    [
+      "2025-09-13, 04:08:57",
+      "https://news.ycombinator.com/item?id=45229227"
+    ],
+    [
+      "Raspberry Pi Synthesizers – How the Pi is transforming synths",
+      "https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 02:53:43",
       "https://news.ycombinator.com/item?id=45228938"
     ],
@@ -87,16 +117,6 @@
     [
       "FFglitch, FFmpeg fork for glitch art",
       "https://ffglitch.org/gallery/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 21:20:36",
-      "https://news.ycombinator.com/item?id=45226903"
-    ],
-    [
-      "Proton Mail suspended journalist accounts at request of cybersecurity agency",
-      "https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage",
       "https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 00:33:56",
-      "https://news.ycombinator.com/item?id=45175982"
-    ],
-    [
-      "Windows-Use: an AI agent that interacts with Windows at GUI layer",
-      "https://github.com/CursorTouch/Windows-Use"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 23:24:24",
-      "https://news.ycombinator.com/item?id=45175439"
-    ],
-    [
-      "I don't like curved displays",
-      "https://blog.danielh.cc/blog/curved"
     ]
   ]
 ]
