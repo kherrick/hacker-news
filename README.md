@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-13, 07:09:41](https://news.ycombinator.com/item?id=45229989) - [Nepal picks a new prime minister on a discord server days after social media ban](https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html)
 * [2025-09-13, 05:01:29](https://news.ycombinator.com/item?id=45229443) - [Qwen 3 now supports ARM and MLX](https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/)
 * [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
 * [2025-09-13, 04:08:57](https://news.ycombinator.com/item?id=45229227) - [Raspberry Pi Synthesizers – How the Pi is transforming synths](https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/)
@@ -27,7 +28,6 @@
 * [2025-09-10, 02:15:31](https://news.ycombinator.com/item?id=45192302) - [The Jeopardy game that changed everything still haunts the show 15 years later](https://slate.com/culture/2025/09/jeopardy-game-watson-questions-final-ken-jennings.html)
 * [2025-09-09, 14:04:28](https://news.ycombinator.com/item?id=45182098) - [Antlr-Ng Parser Generator](https://www.antlr-ng.org/)
 * [2025-09-09, 13:21:18](https://news.ycombinator.com/item?id=45181577) - [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
-* [2025-09-09, 12:16:30](https://news.ycombinator.com/item?id=45180898) - [My Quarterly System Health Check-In: Beyond the Dashboard](https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/)
 * [2025-09-09, 12:14:58](https://news.ycombinator.com/item?id=45180876) - [Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage](https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/)
 * [2025-09-09, 10:31:22](https://news.ycombinator.com/item?id=45180094) - [Resizing images in Rust, now with EXIF orientation support](https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/)
 
