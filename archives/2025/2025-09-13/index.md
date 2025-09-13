@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 19:37:49](https://news.ycombinator.com/item?id=45234715) - [WhoBIRD is now deprecated on certified Android devices](https://github.com/woheller69/whoBIRD)
 * [2025-09-13, 19:20:01](https://news.ycombinator.com/item?id=45234593) - [An Open-Source Maintainer's Guide to Saying No](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
 * [2025-09-13, 19:13:34](https://news.ycombinator.com/item?id=45234545) - [The tech powering ICE's deportations](https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/)
 * [2025-09-13, 19:00:29](https://news.ycombinator.com/item?id=45234460) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
