@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-13, 14:22:59",
+      "https://news.ycombinator.com/item?id=45232299"
+    ],
+    [
+      "Show HN: CLAVIER-36 (programming environment for generative music)",
+      "https://clavier36.com/p/LtZDdcRP3haTWHErgvdM"
+    ]
+  ],
+  [
+    [
+      "2025-09-13, 14:21:26",
+      "https://news.ycombinator.com/item?id=45232289"
+    ],
+    [
+      "I made an online version of the love money game",
+      "https://lovemoney-game.xyz"
+    ]
+  ],
+  [
+    [
+      "2025-09-13, 14:20:01",
+      "https://news.ycombinator.com/item?id=45232275"
+    ],
+    [
+      "Mago: A fast PHP toolchain written in Rust",
+      "https://github.com/carthage-software/mago"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 13:47:38",
       "https://news.ycombinator.com/item?id=45232052"
     ],
@@ -47,16 +77,6 @@
     [
       "How 'overworked, underpaid' humans train Google's AI to seem smart",
       "https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 09:28:30",
-      "https://news.ycombinator.com/item?id=45230677"
-    ],
-    [
-      "AI Coding",
-      "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-09-09, 14:03:03",
-      "https://news.ycombinator.com/item?id=45182081"
-    ],
-    [
-      "Behind Kamathipura's Closed Doors",
-      "https://failedarchitecture.com/behind-kamathipuras-closed-doors/"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 13:21:18",
       "https://news.ycombinator.com/item?id=45181577"
     ],
     [
       "How to Use Claude Code Subagents to Parallelize Development",
       "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 12:14:58",
-      "https://news.ycombinator.com/item?id=45180876"
-    ],
-    [
-      "Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage",
-      "https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/"
     ]
   ],
   [
