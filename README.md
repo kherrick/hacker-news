@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-13, 09:28:30](https://news.ycombinator.com/item?id=45230677) - [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
+* [2025-09-13, 08:11:27](https://news.ycombinator.com/item?id=45230265) - [Java 25's new CPU-Time Profiler (1)](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 * [2025-09-13, 07:09:41](https://news.ycombinator.com/item?id=45229989) - [Nepal picks a new prime minister on a discord server days after social media ban](https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html)
 * [2025-09-13, 06:27:19](https://news.ycombinator.com/item?id=45229799) - [Social media promised connection, but it has delivered exhaustion](https://www.noemamag.com/the-last-days-of-social-media/)
 * [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
@@ -18,7 +20,6 @@
 * [2025-09-12, 17:22:38](https://news.ycombinator.com/item?id=45224421) - [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html)
 * [2025-09-12, 16:57:17](https://news.ycombinator.com/item?id=45224156) - [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS)
 * [2025-09-12, 16:13:49](https://news.ycombinator.com/item?id=45223719) - [Corporations are trying to hide job openings from US citizens](https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/)
-* [2025-09-12, 16:05:58](https://news.ycombinator.com/item?id=45223660) - [OpenAI Grove](https://openai.com/index/openai-grove/)
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many hard LeetCode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D modeling with paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The treasury is expanding the Patriot Act to attack Bitcoin self custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
@@ -26,7 +27,6 @@
 * [2025-09-09, 14:04:28](https://news.ycombinator.com/item?id=45182098) - [Antlr-Ng Parser Generator](https://www.antlr-ng.org/)
 * [2025-09-09, 14:03:03](https://news.ycombinator.com/item?id=45182081) - [Behind Kamathipura's Closed Doors](https://failedarchitecture.com/behind-kamathipuras-closed-doors/)
 * [2025-09-09, 13:21:18](https://news.ycombinator.com/item?id=45181577) - [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
-* [2025-09-09, 12:16:30](https://news.ycombinator.com/item?id=45180898) - [My Quarterly System Health Check-In: Beyond the Dashboard](https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/)
 * [2025-09-09, 12:14:58](https://news.ycombinator.com/item?id=45180876) - [Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage](https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/)
 * [2025-09-09, 10:46:46](https://news.ycombinator.com/item?id=45180213) - [Weird CPU architectures, the MOV only CPU (2020)](https://justanotherelectronicsblog.com/?p=771)
 * [2025-09-09, 10:31:22](https://news.ycombinator.com/item?id=45180094) - [Resizing images in Rust, now with EXIF orientation support](https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/)
