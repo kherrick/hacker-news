@@ -9,6 +9,7 @@
 * [2025-09-13, 16:18:27](https://news.ycombinator.com/item?id=45233266) - [Magical Systems Thinking](https://worksinprogress.co/issue/magical-systems-thinking/)
 * [2025-09-13, 15:10:55](https://news.ycombinator.com/item?id=45232720) - [\"Learning how to Learn\" will be next generation's most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html)
 * [2025-09-13, 14:52:45](https://news.ycombinator.com/item?id=45232565) - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
+* [2025-09-13, 14:52:33](https://news.ycombinator.com/item?id=45232562) - ['Someone must know this guy': four-year wedding crasher mystery solved](https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland)
 * [2025-09-13, 14:22:59](https://news.ycombinator.com/item?id=45232299) - [Show HN: CLAVIER-36 (programming environment for generative music)](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
 * [2025-09-13, 14:21:26](https://news.ycombinator.com/item?id=45232289) - [I made an online version of the love money game](https://lovemoney-game.xyz)
 * [2025-09-13, 14:20:01](https://news.ycombinator.com/item?id=45232275) - [Mago: A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)
