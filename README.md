@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-13, 11:28:28](https://news.ycombinator.com/item?id=45231229) - [I Made a Mechanical Laptop](https://www.youtube.com/watch?v=kGHAUogFsYY)
 * [2025-09-13, 09:28:30](https://news.ycombinator.com/item?id=45230677) - [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
 * [2025-09-13, 08:11:27](https://news.ycombinator.com/item?id=45230265) - [Java 25's new CPU-Time Profiler (1)](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 * [2025-09-13, 07:02:27](https://news.ycombinator.com/item?id=45229960) - [I unified convolution and attention into a single framework](https://zenodo.org/records/17103133)
@@ -18,7 +19,6 @@
 * [2025-09-12, 18:18:00](https://news.ycombinator.com/item?id=45224967) - [EU court rules nuclear energy is clean energy](https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy)
 * [2025-09-12, 17:22:38](https://news.ycombinator.com/item?id=45224421) - [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html)
 * [2025-09-12, 16:57:17](https://news.ycombinator.com/item?id=45224156) - [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS)
-* [2025-09-12, 16:13:49](https://news.ycombinator.com/item?id=45223719) - [Corporations are trying to hide job openings from US citizens](https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/)
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many hard LeetCode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D modeling with paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The treasury is expanding the Patriot Act to attack Bitcoin self custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
