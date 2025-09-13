@@ -17,6 +17,7 @@
 * [2025-09-13, 08:11:27](https://news.ycombinator.com/item?id=45230265) - [Java 25's new CPU-Time Profiler](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 * [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
 * [2025-09-13, 01:55:23](https://news.ycombinator.com/item?id=45228692) - [Legal win](https://ma.tt/2025/09/legal-win/)
+* [2025-09-12, 21:54:34](https://news.ycombinator.com/item?id=45227212) - [FFglitch, FFmpeg fork for glitch art](https://ffglitch.org/gallery/)
 * [2025-09-12, 18:30:15](https://news.ycombinator.com/item?id=45225098) - [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many hard LeetCode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 03:43:46](https://news.ycombinator.com/item?id=45218468) - [Wimpy vs. McDonald's: The Battle of the Burgers](https://www.historytoday.com/archive/history-matters/wimpy-vs-mcdonalds-battle-burgers)
@@ -27,7 +28,6 @@
 * [2025-09-09, 21:01:53](https://news.ycombinator.com/item?id=45189058) - [How Ruby executes JIT code](https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/)
 * [2025-09-09, 20:17:31](https://news.ycombinator.com/item?id=45188252) - [Energy-Based Transformers [video]](https://www.youtube.com/watch?v=LUQkWzjv2RM)
 * [2025-09-09, 20:10:00](https://news.ycombinator.com/item?id=45188116) - [Show HN: Vicinae – A native, Raycast-compatible launcher for Linux](https://github.com/vicinaehq/vicinae)
-* [2025-09-09, 16:08:33](https://news.ycombinator.com/item?id=45184052) - [The value of bringing a telephoto lens](https://avidandrew.com/telephoto.html)
 * [2025-09-09, 13:21:18](https://news.ycombinator.com/item?id=45181577) - [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
 * [2025-09-09, 10:46:46](https://news.ycombinator.com/item?id=45180213) - [Weird CPU architectures, the MOV only CPU (2020)](https://justanotherelectronicsblog.com/?p=771)
 
