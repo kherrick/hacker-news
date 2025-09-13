@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-13, 22:01:35](https://news.ycombinator.com/item?id=45235676) - [AI Will Not Make You Rich](https://joincolossus.com/article/ai-will-not-make-you-rich/)
 * [2025-09-13, 21:55:42](https://news.ycombinator.com/item?id=45235648) - [Heart attacks may be triggered by bacteria](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
 * [2025-09-13, 19:20:01](https://news.ycombinator.com/item?id=45234593) - [An open-source maintainer's guide to saying “no”](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
 * [2025-09-13, 19:00:29](https://news.ycombinator.com/item?id=45234460) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
@@ -16,7 +17,6 @@
 * [2025-09-13, 08:11:27](https://news.ycombinator.com/item?id=45230265) - [Java 25's new CPU-Time Profiler](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 * [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
 * [2025-09-13, 01:55:23](https://news.ycombinator.com/item?id=45228692) - [Legal win](https://ma.tt/2025/09/legal-win/)
-* [2025-09-12, 21:54:34](https://news.ycombinator.com/item?id=45227212) - [FFglitch, FFmpeg fork for glitch art](https://ffglitch.org/gallery/)
 * [2025-09-12, 18:30:15](https://news.ycombinator.com/item?id=45225098) - [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many hard LeetCode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 03:43:46](https://news.ycombinator.com/item?id=45218468) - [Wimpy vs. McDonald's: The Battle of the Burgers](https://www.historytoday.com/archive/history-matters/wimpy-vs-mcdonalds-battle-burgers)
