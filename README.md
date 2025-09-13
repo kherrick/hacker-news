@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-13, 11:30:50](https://news.ycombinator.com/item?id=45231239) - [How 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans)
 * [2025-09-13, 11:28:28](https://news.ycombinator.com/item?id=45231229) - [I Made a Mechanical Laptop](https://www.youtube.com/watch?v=kGHAUogFsYY)
 * [2025-09-13, 09:28:30](https://news.ycombinator.com/item?id=45230677) - [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
 * [2025-09-13, 08:11:27](https://news.ycombinator.com/item?id=45230265) - [Java 25's new CPU-Time Profiler (1)](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
@@ -22,7 +23,6 @@
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many hard LeetCode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D modeling with paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 * [2025-09-12, 12:10:29](https://news.ycombinator.com/item?id=45221274) - [The treasury is expanding the Patriot Act to attack Bitcoin self custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
-* [2025-09-12, 02:17:54](https://news.ycombinator.com/item?id=45218017) - [Discovery of a new satellite or ring arc around Quaoar](https://phys.org/news/2025-09-discovery-moon-orbiting-mysterious-distant.html)
 * [2025-09-10, 03:37:01](https://news.ycombinator.com/item?id=45192919) - [Close the loop: analytics that teach your chatbot to fix itself](https://www.hoverbot.ai/blog/close-the-loop-analytics-that-teach-your-chatbot-to-fix-itself)
 * [2025-09-09, 15:12:46](https://news.ycombinator.com/item?id=45183057) - [Does All Semiconductor Manufacturing Depend on Spruce Pine Quartz? (2024)](https://www.construction-physics.com/p/does-all-semiconductor-manufacturing)
 * [2025-09-09, 14:03:03](https://news.ycombinator.com/item?id=45182081) - [Behind Kamathipura's Closed Doors](https://failedarchitecture.com/behind-kamathipuras-closed-doors/)
