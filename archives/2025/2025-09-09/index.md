@@ -57,6 +57,7 @@
 * [2025-09-09, 14:05:16](https://news.ycombinator.com/item?id=45182108) - [Apple highlights Brazilian study on domestic App Store performance](https://9to5mac.com/2025/09/04/apple-highlights-brazilian-study-on-domestic-app-store-performance/)
 * [2025-09-09, 14:04:28](https://news.ycombinator.com/item?id=45182098) - [Antlr-Ng Parser Generator](https://www.antlr-ng.org/)
 * [2025-09-09, 13:26:17](https://news.ycombinator.com/item?id=45181626) - [Google to Obey South Korean Order to Blur Satellite Images on Maps](https://www.barrons.com/news/google-to-obey-south-korean-order-to-blur-satellite-images-on-maps-653e934e)
+* [2025-09-09, 13:21:18](https://news.ycombinator.com/item?id=45181577) - [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
 * [2025-09-09, 13:16:30](https://news.ycombinator.com/item?id=45181535) - [Show HN: Run any GUI app in the terminal with term.everything](https://github.com/mmulet/term.everything)
 * [2025-09-09, 12:34:41](https://news.ycombinator.com/item?id=45181094) - [Weaponizing Ads: How Google and Facebook Ads Are Used to Wage Propaganda Wars](https://medium.com/@eslam.elsewedy/weaponizing-ads-how-governments-use-google-ads-and-facebook-ads-to-wage-propaganda-wars-199c707704cc)
 * [2025-09-09, 12:14:58](https://news.ycombinator.com/item?id=45180876) - [Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage](https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/)
