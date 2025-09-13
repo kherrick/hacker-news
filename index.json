@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-13, 02:53:43",
+      "https://news.ycombinator.com/item?id=45228938"
+    ],
+    [
+      "Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS",
+      "https://github.com/dawsonhuang0/Wcwidth-O1"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 02:41:57",
       "https://news.ycombinator.com/item?id=45228891"
     ],
@@ -227,16 +237,6 @@
     [
       "Automate compile_flags for C/C++ projects on the Zig build system",
       "https://simonhartcher.com/posts/2025-09-08-announcing-compile-flagz/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 15:20:38",
-      "https://news.ycombinator.com/item?id=45183191"
-    ],
-    [
-      "Real-time AI hallucination detection with timeplus: A chess example",
-      "https://www.timeplus.com/post/ai-chess-hallucination-detection"
     ]
   ],
   [
