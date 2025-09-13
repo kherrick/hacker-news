@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-13, 11:30:50](https://news.ycombinator.com/item?id=45231239) - [How 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans)
 * [2025-09-13, 11:28:28](https://news.ycombinator.com/item?id=45231229) - [I Made a Mechanical Laptop](https://www.youtube.com/watch?v=kGHAUogFsYY)
 * [2025-09-13, 09:28:30](https://news.ycombinator.com/item?id=45230677) - [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
