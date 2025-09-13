@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-09-09, 10:46:46",
+      "https://news.ycombinator.com/item?id=45180213"
+    ],
+    [
+      "Weird CPU architectures, the MOV only CPU (2020)",
+      "https://justanotherelectronicsblog.com/?p=771"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 10:31:22",
       "https://news.ycombinator.com/item?id=45180094"
     ],
     [
       "Resizing images in Rust, now with EXIF orientation support",
       "https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 00:33:56",
-      "https://news.ycombinator.com/item?id=45175982"
-    ],
-    [
-      "Windows-Use: an AI agent that interacts with Windows at GUI layer",
-      "https://github.com/CursorTouch/Windows-Use"
     ]
   ]
 ]
