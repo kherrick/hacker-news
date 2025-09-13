@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 19:00:29](https://news.ycombinator.com/item?id=45234460) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
 * [2025-09-13, 18:44:27](https://news.ycombinator.com/item?id=45234361) - [Scientists are rethinking the immune effects of SARS-CoV-2](https://www.bmj.com/content/390/bmj.r1733)
 * [2025-09-13, 17:20:21](https://news.ycombinator.com/item?id=45233713) - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 * [2025-09-13, 17:03:59](https://news.ycombinator.com/item?id=45233589) - [Why OpenAI's solution to AI hallucinations would kill ChatGPT tomorrow](https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107)

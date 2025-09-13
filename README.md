@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-13, 19:00:29](https://news.ycombinator.com/item?id=45234460) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
 * [2025-09-13, 18:44:27](https://news.ycombinator.com/item?id=45234361) - [Scientists are rethinking the immune effects of SARS-CoV-2](https://www.bmj.com/content/390/bmj.r1733)
 * [2025-09-13, 17:20:21](https://news.ycombinator.com/item?id=45233713) - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 * [2025-09-13, 17:03:59](https://news.ycombinator.com/item?id=45233589) - [OpenAI’s latest research paper demonstrates that falsehoods are inevitable](https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107)
@@ -17,7 +18,6 @@
 * [2025-09-13, 09:28:30](https://news.ycombinator.com/item?id=45230677) - [AI coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
 * [2025-09-13, 08:11:27](https://news.ycombinator.com/item?id=45230265) - [Java 25's new CPU-Time Profiler (1)](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 * [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
-* [2025-09-12, 21:54:34](https://news.ycombinator.com/item?id=45227212) - [FFglitch, FFmpeg fork for glitch art](https://ffglitch.org/gallery/)
 * [2025-09-12, 18:30:15](https://news.ycombinator.com/item?id=45225098) - [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
 * [2025-09-12, 16:57:17](https://news.ycombinator.com/item?id=45224156) - [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS)
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many hard LeetCode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
