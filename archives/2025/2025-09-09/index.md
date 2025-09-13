@@ -43,6 +43,7 @@
 * [2025-09-09, 16:05:54](https://news.ycombinator.com/item?id=45184003) - [South Koreans feel betrayed by workforce detentions at Georgia Hyundai plant](https://apnews.com/article/south-korea-us-georgia-raid-hyundai-24d990562f5ac20e7d3e983a77a4f7ff)
 * [2025-09-09, 15:42:32](https://news.ycombinator.com/item?id=45183589) - [How An Attacker's Blunder Gave Us a Rare Look Inside Their Day-to-Day Operations](https://www.huntress.com/blog/rare-look-inside-attacker-operation)
 * [2025-09-09, 15:20:38](https://news.ycombinator.com/item?id=45183191) - [Real-time AI hallucination detection with timeplus: A chess example](https://www.timeplus.com/post/ai-chess-hallucination-detection)
+* [2025-09-09, 15:12:46](https://news.ycombinator.com/item?id=45183057) - [Does All Semiconductor Manufacturing Depend on Spruce Pine Quartz? (2024)](https://www.construction-physics.com/p/does-all-semiconductor-manufacturing)
 * [2025-09-09, 15:12:18](https://news.ycombinator.com/item?id=45183050) - [Building a DOOM-like multiplayer shooter in pure SQL](https://cedardb.com/blog/doomql/)
 * [2025-09-09, 15:11:57](https://news.ycombinator.com/item?id=45183039) - [X open sourced their latest algorithm](https://github.com/twitter/the-algorithm)
 * [2025-09-09, 15:11:26](https://news.ycombinator.com/item?id=45183029) - [We All Dodged a Bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
