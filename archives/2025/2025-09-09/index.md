@@ -6,6 +6,7 @@
 
 * [2025-09-09, 23:13:59](https://news.ycombinator.com/item?id=45190777) - [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
 * [2025-09-09, 22:06:58](https://news.ycombinator.com/item?id=45189965) - [All vibe coding tools are selling a get rich quick scheme](https://varunraghu.com/all-vibe-coding-tools-are-selling-a-get-rich-quick-scheme/)
+* [2025-09-09, 22:05:56](https://news.ycombinator.com/item?id=45189951) - [The Worst Air Disaster You've Never Heard Of](https://longreads.com/2025/09/04/zeppelin-navy-aircraft-disaster/)
 * [2025-09-09, 21:47:31](https://news.ycombinator.com/item?id=45189700) - [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
 * [2025-09-09, 21:13:32](https://news.ycombinator.com/item?id=45189260) - [Show HN: Shellcast.tv – Stream your vibe coding](https://shellcast.tv/)
 * [2025-09-09, 21:01:47](https://news.ycombinator.com/item?id=45189053) - [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)
