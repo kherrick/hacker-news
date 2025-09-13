@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-13, 01:15:37",
+      "https://news.ycombinator.com/item?id=45228472"
+    ],
+    [
+      "Life, Work, Death and the Peasant: Rent and Extraction",
+      "https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/"
+    ]
+  ],
+  [
+    [
+      "2025-09-13, 01:00:22",
+      "https://news.ycombinator.com/item?id=45228396"
+    ],
+    [
+      "Meow: Yet another modal editing on Emacs",
+      "https://github.com/meow-edit/meow"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 23:04:08",
       "https://news.ycombinator.com/item?id=45227749"
     ],
@@ -27,16 +47,6 @@
     [
       "Show HN: Aris – a free AI-powered answer engine for kids",
       "https://www.aris.chat"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 21:20:36",
-      "https://news.ycombinator.com/item?id=45226903"
-    ],
-    [
-      "Proton Mail suspended journalist accounts at request of cybersecurity agency",
-      "https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2025-09-12, 17:35:08",
-      "https://news.ycombinator.com/item?id=45224542"
-    ],
-    [
-      "Why do browsers throttle JavaScript timers?",
-      "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 17:22:38",
       "https://news.ycombinator.com/item?id=45224421"
     ],
@@ -101,32 +101,12 @@
   ],
   [
     [
-      "2025-09-12, 17:04:03",
-      "https://news.ycombinator.com/item?id=45224219"
-    ],
-    [
-      "K2-think: A parameter-efficient reasoning system",
-      "https://arxiv.org/abs/2509.07604"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 16:57:17",
       "https://news.ycombinator.com/item?id=45224156"
     ],
     [
       "QGIS is a free, open-source, cross platform geographical information system",
       "https://github.com/qgis/QGIS"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 16:56:18",
-      "https://news.ycombinator.com/item?id=45224141"
-    ],
-    [
-      "Vector database that can index 1B vectors in 48M",
-      "https://www.vectroid.com/blog/why-and-how-we-built-Vectroid"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-09-12, 02:17:54",
+      "https://news.ycombinator.com/item?id=45218017"
+    ],
+    [
+      "Discovery of a new satellite or ring arc around Quaoar",
+      "https://phys.org/news/2025-09-discovery-moon-orbiting-mysterious-distant.html"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 15:36:20",
       "https://news.ycombinator.com/item?id=45199256"
     ],
@@ -231,12 +221,32 @@
   ],
   [
     [
+      "2025-09-09, 15:20:38",
+      "https://news.ycombinator.com/item?id=45183191"
+    ],
+    [
+      "Real-time AI hallucination detection with timeplus: A chess example",
+      "https://www.timeplus.com/post/ai-chess-hallucination-detection"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 15:09:34",
       "https://news.ycombinator.com/item?id=45183008"
     ],
     [
       "Unauthorized Windows/386",
       "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 14:34:56",
+      "https://news.ycombinator.com/item?id=45182518"
+    ],
+    [
+      "Kefir: Solo-developed full C17/C23 compiler with extensive validation",
+      "https://kefir.protopopov.lv/posts/announce0.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I don't like curved displays",
       "https://blog.danielh.cc/blog/curved"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 21:39:00",
-      "https://news.ycombinator.com/item?id=45174366"
-    ],
-    [
-      "Racintosh Plus – Rackmount Mac Plus",
-      "http://www.identity4.com/2025-racintosh-plus/"
     ]
   ]
 ]
