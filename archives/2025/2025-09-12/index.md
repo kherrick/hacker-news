@@ -64,6 +64,7 @@
 * [2025-09-12, 06:57:43](https://news.ycombinator.com/item?id=45219388) - [Hyundai is now delaying its EV battery plant that was raided by ICE](https://electrek.co/2025/09/11/hyundai-now-delaying-ev-battery-plant-raided-by-ice/)
 * [2025-09-12, 06:32:04](https://news.ycombinator.com/item?id=45219228) - [Qwen3-Next: Towards Ultimate Training and Inference Efficiency](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 * [2025-09-12, 04:18:46](https://news.ycombinator.com/item?id=45218605) - [Pasadena man recounts 13 days in ICE's 'basement'](https://www.latimes.com/california/story/2025-09-11/tunisian-man-recounts-13-days-in-ice-custody-downtown-l-a)
+* [2025-09-12, 03:43:46](https://news.ycombinator.com/item?id=45218468) - [Wimpy vs. McDonald's: The Battle of the Burgers](https://www.historytoday.com/archive/history-matters/wimpy-vs-mcdonalds-battle-burgers)
 * [2025-09-12, 03:08:50](https://news.ycombinator.com/item?id=45218303) - [Differences between stal/IX and regular Linux](https://stal-ix.github.io/STALIX.html)
 * [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US/* time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 * [2025-09-12, 02:17:54](https://news.ycombinator.com/item?id=45218017) - [Discovery of a new satellite or ring arc around Quaoar](https://phys.org/news/2025-09-discovery-moon-orbiting-mysterious-distant.html)
