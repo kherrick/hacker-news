@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-09-10, 04:28:49",
-      "https://news.ycombinator.com/item?id=45193291"
-    ],
-    [
-      "Automate compile_flags for C/C++ projects on the Zig build system",
-      "https://simonhartcher.com/posts/2025-09-08-announcing-compile-flagz/"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 02:15:31",
       "https://news.ycombinator.com/item?id=45192302"
     ],
@@ -297,6 +287,16 @@
     [
       "Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage",
       "https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 10:31:22",
+      "https://news.ycombinator.com/item?id=45180094"
+    ],
+    [
+      "Resizing images in Rust, now with EXIF orientation support",
+      "https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/"
     ]
   ]
 ]
