@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-13, 05:01:29](https://news.ycombinator.com/item?id=45229443) - [Qwen 3 now supports ARM and MLX](https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/)
+* [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
+* [2025-09-13, 04:08:57](https://news.ycombinator.com/item?id=45229227) - [Raspberry Pi Synthesizers – How the Pi is transforming synths](https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/)
 * [2025-09-13, 02:53:43](https://news.ycombinator.com/item?id=45228938) - [Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS](https://github.com/dawsonhuang0/Wcwidth-O1)
 * [2025-09-13, 02:41:57](https://news.ycombinator.com/item?id=45228891) - [OCI Registry Explorer](https://oci.dag.dev/)
 * [2025-09-13, 02:13:40](https://news.ycombinator.com/item?id=45228766) - [Chatbox app is back on the US app store](https://github.com/chatboxai/chatbox/issues/2644)
@@ -9,7 +12,6 @@
 * [2025-09-13, 01:00:22](https://news.ycombinator.com/item?id=45228396) - [Meow: Yet another modal editing on Emacs](https://github.com/meow-edit/meow)
 * [2025-09-12, 23:04:08](https://news.ycombinator.com/item?id=45227749) - [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/)
 * [2025-09-12, 21:54:34](https://news.ycombinator.com/item?id=45227212) - [FFglitch, FFmpeg fork for glitch art](https://ffglitch.org/gallery/)
-* [2025-09-12, 21:20:36](https://news.ycombinator.com/item?id=45226903) - [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
 * [2025-09-12, 20:53:33](https://news.ycombinator.com/item?id=45226639) - [I used standard Emacs extension-points to extend org-mode](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 * [2025-09-12, 18:30:15](https://news.ycombinator.com/item?id=45225098) - [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
 * [2025-09-12, 18:18:00](https://news.ycombinator.com/item?id=45224967) - [EU court rules nuclear energy is clean energy](https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy)
@@ -28,8 +30,6 @@
 * [2025-09-09, 14:04:28](https://news.ycombinator.com/item?id=45182098) - [Antlr-Ng Parser Generator](https://www.antlr-ng.org/)
 * [2025-09-09, 13:21:18](https://news.ycombinator.com/item?id=45181577) - [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
 * [2025-09-09, 12:14:58](https://news.ycombinator.com/item?id=45180876) - [Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage](https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/)
-* [2025-09-09, 00:33:56](https://news.ycombinator.com/item?id=45175982) - [Windows-Use: an AI agent that interacts with Windows at GUI layer](https://github.com/CursorTouch/Windows-Use)
-* [2025-09-08, 23:24:24](https://news.ycombinator.com/item?id=45175439) - [I don't like curved displays](https://blog.danielh.cc/blog/curved)
 
 ## [Archives](archives/index.md)
 
