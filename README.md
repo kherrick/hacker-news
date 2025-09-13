@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-13, 22:01:35](https://news.ycombinator.com/item?id=45235676) - [AI Will Not Make You Rich](https://joincolossus.com/article/ai-will-not-make-you-rich/)
+* [2025-09-13, 22:01:35](https://news.ycombinator.com/item?id=45235676) - [Will AI be the basis of many future industrial fortunes, or a net loser?](https://joincolossus.com/article/ai-will-not-make-you-rich/)
 * [2025-09-13, 21:55:42](https://news.ycombinator.com/item?id=45235648) - [Heart attacks may be triggered by bacteria](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
 * [2025-09-13, 21:04:18](https://news.ycombinator.com/item?id=45235293) - [AMD's RDNA4 GPU Architecture at Hot Chips 2025](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot)
 * [2025-09-13, 19:20:01](https://news.ycombinator.com/item?id=45234593) - [An open-source maintainer's guide to saying “no”](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
