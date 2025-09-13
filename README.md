@@ -14,7 +14,7 @@
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-13, 11:30:50](https://news.ycombinator.com/item?id=45231239) - [‘Overworked, underpaid’ humans train Google’s AI](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans)
 * [2025-09-13, 09:28:30](https://news.ycombinator.com/item?id=45230677) - [AI coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
-* [2025-09-13, 08:11:27](https://news.ycombinator.com/item?id=45230265) - [Java 25's new CPU-Time Profiler (1)](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
+* [2025-09-13, 08:11:27](https://news.ycombinator.com/item?id=45230265) - [Java 25's new CPU-Time Profiler](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 * [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
 * [2025-09-12, 21:54:34](https://news.ycombinator.com/item?id=45227212) - [FFglitch, FFmpeg fork for glitch art](https://ffglitch.org/gallery/)
 * [2025-09-12, 18:30:15](https://news.ycombinator.com/item?id=45225098) - [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
