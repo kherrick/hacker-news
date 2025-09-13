@@ -68,6 +68,7 @@
 * [2025-09-09, 11:29:03](https://news.ycombinator.com/item?id=45180509) - [Majority in EU's biggest states believes bloc 'sold out' in US tariff deal](https://www.theguardian.com/world/2025/sep/09/majority-in-eu-biggest-states-believes-bloc-sold-out-in-us-tariff-deal-poll-donald-trump)
 * [2025-09-09, 11:01:43](https://news.ycombinator.com/item?id=45180353) - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
 * [2025-09-09, 10:57:58](https://news.ycombinator.com/item?id=45180315) - [Hallucination Risk Calculator](https://github.com/leochlon/hallbayes)
+* [2025-09-09, 10:46:46](https://news.ycombinator.com/item?id=45180213) - [Weird CPU architectures, the MOV only CPU (2020)](https://justanotherelectronicsblog.com/?p=771)
 * [2025-09-09, 10:31:22](https://news.ycombinator.com/item?id=45180094) - [Resizing images in Rust, now with EXIF orientation support](https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/)
 * [2025-09-09, 10:10:15](https://news.ycombinator.com/item?id=45179939) - [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
 * [2025-09-09, 10:02:23](https://news.ycombinator.com/item?id=45179889) - [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware)
