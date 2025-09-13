@@ -27,6 +27,7 @@
 * [2025-09-11, 16:58:08](https://news.ycombinator.com/item?id=45213732) - ['Robber bees' invade apiarist's shop in attempted honey heist](https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532)
 * [2025-09-11, 16:46:09](https://news.ycombinator.com/item?id=45213612) - [Every Keystroke You Make: A Tech-Law Measurement and Analysis of Event Listeners](https://arxiv.org/abs/2508.19825)
 * [2025-09-11, 16:38:58](https://news.ycombinator.com/item?id=45213549) - [Reality Is Ruining the Humanoid Robot Hype](https://spectrum.ieee.org/humanoid-robot-scaling)
+* [2025-09-11, 16:24:05](https://news.ycombinator.com/item?id=45213407) - [Orange rivers signal toxic shift in Arctic wilderness](https://news.ucr.edu/articles/2025/09/08/orange-rivers-signal-toxic-shift-arctic-wilderness)
 * [2025-09-11, 16:13:09](https://news.ycombinator.com/item?id=45213299) - [Windows KASLR Bypass – CVE-2025-53136](https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/)
 * [2025-09-11, 15:47:06](https://news.ycombinator.com/item?id=45212976) - [Health Insurance Costs for Businesses to Rise by Most in 15 Years](https://www.wsj.com/health/healthcare/health-insurance-costs-rise-6cc1b934)
 * [2025-09-11, 15:45:38](https://news.ycombinator.com/item?id=45212960) - [Spiral](https://spiraldb.com/post/announcing-spiral)
