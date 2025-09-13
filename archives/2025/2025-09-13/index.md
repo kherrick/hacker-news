@@ -9,6 +9,7 @@
 * [2025-09-13, 19:13:34](https://news.ycombinator.com/item?id=45234545) - [The tech powering ICE's deportations](https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/)
 * [2025-09-13, 19:00:29](https://news.ycombinator.com/item?id=45234460) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
 * [2025-09-13, 18:44:27](https://news.ycombinator.com/item?id=45234361) - [Scientists are rethinking the immune effects of SARS-CoV-2](https://www.bmj.com/content/390/bmj.r1733)
+* [2025-09-13, 18:39:17](https://news.ycombinator.com/item?id=45234323) - [The Case Against Social Media Is Stronger Than You Think](https://arachnemag.substack.com/p/the-case-against-social-media-is)
 * [2025-09-13, 17:20:21](https://news.ycombinator.com/item?id=45233713) - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 * [2025-09-13, 17:03:59](https://news.ycombinator.com/item?id=45233589) - [Why OpenAI's solution to AI hallucinations would kill ChatGPT tomorrow](https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107)
 * [2025-09-13, 16:30:16](https://news.ycombinator.com/item?id=45233337) - [Several people fired after clampdown on speech over Charlie Kirk shooting](https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-shooting-people-fired-social-media)
