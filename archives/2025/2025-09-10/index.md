@@ -65,6 +65,7 @@
 * [2025-09-10, 04:48:15](https://news.ycombinator.com/item?id=45193410) - [Defense.gov Now Redirects to War.gov](https://defense.gov)
 * [2025-09-10, 04:28:49](https://news.ycombinator.com/item?id=45193291) - [Automate compile_flags for C/C++ projects on the Zig build system](https://simonhartcher.com/posts/2025-09-08-announcing-compile-flagz/)
 * [2025-09-10, 03:42:55](https://news.ycombinator.com/item?id=45192963) - [Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container](https://github.com/juhovh/tailguard)
+* [2025-09-10, 03:37:01](https://news.ycombinator.com/item?id=45192919) - [Close the loop: analytics that teach your chatbot to fix itself](https://www.hoverbot.ai/blog/close-the-loop-analytics-that-teach-your-chatbot-to-fix-itself)
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 * [2025-09-10, 02:55:33](https://news.ycombinator.com/item?id=45192618) - [Power series, power serious (1999!) [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/19863F4EAACC33E1E01DE2A2114EC7DF/S0956796899003299a.pdf/div-class-title-power-series-power-serious-div.pdf)
 * [2025-09-10, 02:15:31](https://news.ycombinator.com/item?id=45192302) - [The Jeopardy game that changed everything still haunts the show 15 years later](https://slate.com/culture/2025/09/jeopardy-game-watson-questions-final-ken-jennings.html)
