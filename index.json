@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-09-14, 02:57:00",
-      "https://news.ycombinator.com/item?id=45237035"
-    ],
-    [
-      "Why you’d issue a branded stablecoin",
-      "https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin"
-    ]
-  ],
-  [
-    [
       "2025-09-14, 01:53:31",
       "https://news.ycombinator.com/item?id=45236774"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2025-09-13, 08:11:27",
+      "https://news.ycombinator.com/item?id=45230265"
+    ],
+    [
+      "Java 25's new CPU-Time Profiler",
+      "https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 16:24:05",
       "https://news.ycombinator.com/item?id=45213407"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45202315"
     ],
     [
-      "Show HN: UltraPlot. A Succinct Wrapper for Matplotlib",
+      "Show HN: Ultraplot – A succint wrapper for matplotlib",
       "https://github.com/Ultraplot/UltraPlot"
     ]
   ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-09-10, 13:00:16",
+      "https://news.ycombinator.com/item?id=45196991"
+    ],
+    [
+      "Adding OR logic forced us to confront why users preferred raw SQL",
+      "https://signoz.io/blog/query-builder-v5/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 01:38:28",
       "https://news.ycombinator.com/item?id=45192012"
     ],
@@ -287,16 +297,6 @@
     [
       "How Ruby executes JIT code",
       "https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 13:21:18",
-      "https://news.ycombinator.com/item?id=45181577"
-    ],
-    [
-      "How to use Claude Code subagents to parallelize development",
-      "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/"
     ]
   ]
 ]
