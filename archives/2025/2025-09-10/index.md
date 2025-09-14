@@ -13,6 +13,7 @@
 * [2025-09-10, 21:21:36](https://news.ycombinator.com/item?id=45203935) - [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
 * [2025-09-10, 21:01:01](https://news.ycombinator.com/item?id=45203643) - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
 * [2025-09-10, 20:59:24](https://news.ycombinator.com/item?id=45203617) - [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com)
+* [2025-09-10, 20:58:34](https://news.ycombinator.com/item?id=45203601) - [The rules behing Rust functions](https://blog.cuongle.dev/p/the-hidden-rules-behind-rust-functions)
 * [2025-09-10, 19:42:27](https://news.ycombinator.com/item?id=45202613) - ['Clearest sign' yet of ancient life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
 * [2025-09-10, 19:35:07](https://news.ycombinator.com/item?id=45202537) - [X Open Sourced Algorithm Code, So I analyzed it to learn how to grow on X](https://supabird.io/articles/how-to-grow-on-x-what-we-learned-from-their-algorithm-reveal)
 * [2025-09-10, 19:30:37](https://news.ycombinator.com/item?id=45202489) - [Show HN: Making a cross-platform game in Go using WebRTC Datachannels](https://pion.ly/blog/making-a-game-with-pion/)
