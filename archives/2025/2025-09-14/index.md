@@ -11,6 +11,7 @@
 * [2025-09-14, 18:57:14](https://news.ycombinator.com/item?id=45242337) - [How older parents divorce affects their adult children](https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children)
 * [2025-09-14, 18:23:55](https://news.ycombinator.com/item?id=45242075) - [Lisp in 2025 (FOSS Book, 10 chapters)](https://github.com/cloudstreet-dev/Lisp-in-2025/blob/main/01-introduction.md)
 * [2025-09-14, 17:59:16](https://news.ycombinator.com/item?id=45241861) - [Eye drops could replace glasses or surgery for longsightedness, study says](https://www.theguardian.com/society/2025/sep/14/eye-drops-could-replace-glasses-surgery-longsighted-study)
+* [2025-09-14, 17:44:27](https://news.ycombinator.com/item?id=45241719) - [The Perl Programming Language in 2025 (FOSS book)](https://github.com/cloudstreet-dev/The-PERL-Programming-Language/blob/main/01-why-perl-still-matters.md)
 * [2025-09-14, 16:40:42](https://news.ycombinator.com/item?id=45241204) - [World emissions hit record high, but the EU leads trend reversal](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/world-emissions-hit-record-high-eu-leads-trend-reversal-2025-09-09_en)
 * [2025-09-14, 16:23:06](https://news.ycombinator.com/item?id=45241071) - [Gleam is my new obsession](https://ericcodes.io/blog/gleam-my-new-obsession.html)
 * [2025-09-14, 15:44:44](https://news.ycombinator.com/item?id=45240682) - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
