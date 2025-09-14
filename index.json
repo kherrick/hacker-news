@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-09-14, 02:28:05",
-      "https://news.ycombinator.com/item?id=45236927"
-    ],
-    [
-      "AI fabricates 21 out of 23 citations lawyer sanctioned reported to state bar [pdf]",
-      "https://www4.courts.ca.gov/opinions/documents/B331918.PDF"
-    ]
-  ],
-  [
-    [
       "2025-09-14, 01:53:31",
       "https://news.ycombinator.com/item?id=45236774"
     ],
@@ -297,6 +287,16 @@
     [
       "How Ruby executes JIT code",
       "https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 13:21:18",
+      "https://news.ycombinator.com/item?id=45181577"
+    ],
+    [
+      "How to use Claude Code subagents to parallelize development",
+      "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/"
     ]
   ]
 ]
