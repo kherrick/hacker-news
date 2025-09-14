@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 23:59:27](https://news.ycombinator.com/item?id=45236314) - [EFF to court: The Supreme Court must rein in secondary copyright liability](https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability)
+* [2025-09-13, 23:50:25](https://news.ycombinator.com/item?id=45236263) - [Two Slice, a font that's only 2px tall](https://joefatula.com/twoslice.html)
+* [2025-09-13, 23:16:40](https://news.ycombinator.com/item?id=45236079) - [Pass: Unix Password Manager](https://www.passwordstore.org/)
 * [2025-09-13, 22:01:35](https://news.ycombinator.com/item?id=45235676) - [AI Will Not Make You Rich](https://joincolossus.com/article/ai-will-not-make-you-rich/)
 * [2025-09-13, 21:55:42](https://news.ycombinator.com/item?id=45235648) - [Heart attacks may be triggered by bacteria](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
 * [2025-09-13, 21:04:18](https://news.ycombinator.com/item?id=45235293) - [AMD's RDNA4 GPU Architecture at Hot Chips 2025](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot)
@@ -17,6 +20,7 @@
 * [2025-09-13, 17:03:59](https://news.ycombinator.com/item?id=45233589) - [Why OpenAI's solution to AI hallucinations would kill ChatGPT tomorrow](https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107)
 * [2025-09-13, 16:30:16](https://news.ycombinator.com/item?id=45233337) - [Several people fired after clampdown on speech over Charlie Kirk shooting](https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-shooting-people-fired-social-media)
 * [2025-09-13, 16:18:27](https://news.ycombinator.com/item?id=45233266) - [Magical Systems Thinking](https://worksinprogress.co/issue/magical-systems-thinking/)
+* [2025-09-13, 16:14:11](https://news.ycombinator.com/item?id=45233237) - [Recreating the US time zone situation](https://rachelbythebay.com/w/2025/09/12/tz/)
 * [2025-09-13, 15:10:55](https://news.ycombinator.com/item?id=45232720) - [\"Learning how to Learn\" will be next generation's most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html)
 * [2025-09-13, 14:52:45](https://news.ycombinator.com/item?id=45232565) - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
 * [2025-09-13, 14:52:33](https://news.ycombinator.com/item?id=45232562) - ['Someone must know this guy': four-year wedding crasher mystery solved](https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland)

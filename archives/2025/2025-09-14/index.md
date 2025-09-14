@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-14](index.md)
+
+* [2025-09-14, 00:26:01](https://news.ycombinator.com/item?id=45236444) - [RFC9460: SVCB and HTTPS DNS Records](https://datatracker.ietf.org/doc/html/rfc9460)
