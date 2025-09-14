@@ -47,6 +47,7 @@
 * [2025-09-10, 14:15:57](https://news.ycombinator.com/item?id=45198033) - [Homeowners insurance is pricing people out in disaster-prone cities](https://www.accuweather.com/en/weather-news/homeowners-insurance-is-pricing-people-out-in-disaster-prone-cities/1813821)
 * [2025-09-10, 14:05:45](https://news.ycombinator.com/item?id=45197896) - [Lexy: A parser combinator library for C++17](https://github.com/foonathan/lexy)
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
+* [2025-09-10, 13:59:07](https://news.ycombinator.com/item?id=45197811) - [George Bernard Shaw by G. K. Chesterton (1909)](https://www.gutenberg.org/ebooks/19535)
 * [2025-09-10, 13:46:02](https://news.ycombinator.com/item?id=45197608) - [Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)
 * [2025-09-10, 13:45:27](https://news.ycombinator.com/item?id=45197599) - [Leaked Ice document shows worker detained in Hyundai raid had valid visa](https://www.theguardian.com/us-news/2025/sep/10/hyundai-factory-ice-raid-legal-visa)
 * [2025-09-10, 13:17:25](https://news.ycombinator.com/item?id=45197187) - [Guy is running a Google rival from his laundry room](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
