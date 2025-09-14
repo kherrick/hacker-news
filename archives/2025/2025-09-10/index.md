@@ -52,6 +52,7 @@
 * [2025-09-10, 13:17:25](https://news.ycombinator.com/item?id=45197187) - [Guy is running a Google rival from his laundry room](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
 * [2025-09-10, 13:08:09](https://news.ycombinator.com/item?id=45197066) - [Windows 10 resists its end: usage share climbs while Windows 11's falls](https://www.ghacks.net/2025/09/10/windows-10-resists-its-end-usage-share-climbs-while-windows-11s-falls/)
 * [2025-09-10, 13:00:16](https://news.ycombinator.com/item?id=45196991) - [Adding OR logic forced us to confront why users preferred raw SQL](https://signoz.io/blog/query-builder-v5/)
+* [2025-09-10, 12:49:25](https://news.ycombinator.com/item?id=45196874) - [Presence in VR should show tiny people, not user avatars](https://interconnected.org/home/2022/05/03/landscape)
 * [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
 * [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 12:00:59](https://news.ycombinator.com/item?id=45196433) - [Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
