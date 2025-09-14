@@ -22,14 +22,14 @@
 * [2025-09-13, 14:22:59](https://news.ycombinator.com/item?id=45232299) - [Show HN: CLAVIER-36 – A programming environment for generative music](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
 * [2025-09-13, 13:15:26](https://news.ycombinator.com/item?id=45231852) - [My first impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
-* [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
 * [2025-09-11, 20:33:22](https://news.ycombinator.com/item?id=45215851) - [Ancient DNA solves Plague of Justinian mystery to rewrite pandemic history](https://phys.org/news/2025-08-ancient-dna-plague-justinian-mystery.html)
 * [2025-09-11, 16:24:05](https://news.ycombinator.com/item?id=45213407) - [Orange rivers signal toxic shift in Arctic wilderness](https://news.ucr.edu/articles/2025/09/08/orange-rivers-signal-toxic-shift-arctic-wilderness)
 * [2025-09-10, 14:05:45](https://news.ycombinator.com/item?id=45197896) - [Lexy: A parser combinator library for C++17](https://github.com/foonathan/lexy)
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
 * [2025-09-10, 13:59:07](https://news.ycombinator.com/item?id=45197811) - [George Bernard Shaw by G. K. Chesterton (1909)](https://www.gutenberg.org/ebooks/19535)
-* [2025-09-10, 12:49:25](https://news.ycombinator.com/item?id=45196874) - [Presence in VR should show tiny people, not user avatars (2022)](https://interconnected.org/home/2022/05/03/landscape)
+* [2025-09-10, 01:38:28](https://news.ycombinator.com/item?id=45192012) - [Open Source SDR Ham Transceiver Prototype](https://m17project.org/2025/08/18/first-linht-tests/)
 * [2025-09-09, 21:01:53](https://news.ycombinator.com/item?id=45189058) - [How Ruby executes JIT code](https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/)
+* [2025-09-09, 13:21:18](https://news.ycombinator.com/item?id=45181577) - [How to use Claude Code subagents to parallelize development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
 
 ## [Archives](archives/index.md)
 
