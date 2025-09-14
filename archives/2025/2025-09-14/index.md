@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-14](index.md)
 
 * [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
+* [2025-09-14, 05:49:42](https://news.ycombinator.com/item?id=45237754) - [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B)
 * [2025-09-14, 05:42:38](https://news.ycombinator.com/item?id=45237717) - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
 * [2025-09-14, 04:27:12](https://news.ycombinator.com/item?id=45237442) - [A single, 'naked' black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
 * [2025-09-14, 03:29:35](https://news.ycombinator.com/item?id=45237184) - [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)

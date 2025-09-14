@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
+* [2025-09-14, 05:49:42](https://news.ycombinator.com/item?id=45237754) - [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B)
 * [2025-09-14, 05:42:38](https://news.ycombinator.com/item?id=45237717) - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
 * [2025-09-14, 04:27:12](https://news.ycombinator.com/item?id=45237442) - [A single, 'naked' black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
 * [2025-09-14, 03:29:35](https://news.ycombinator.com/item?id=45237184) - [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)
@@ -21,7 +22,6 @@
 * [2025-09-13, 14:22:59](https://news.ycombinator.com/item?id=45232299) - [Show HN: CLAVIER-36 – A programming environment for generative music](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
 * [2025-09-13, 13:15:26](https://news.ycombinator.com/item?id=45231852) - [My first impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
-* [2025-09-13, 08:11:27](https://news.ycombinator.com/item?id=45230265) - [Java 25's new CPU-Time Profiler](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 * [2025-09-11, 07:27:52](https://news.ycombinator.com/item?id=45208828) - [The unreasonable effectiveness of modern sort algorithms](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md)
 * [2025-09-10, 19:14:14](https://news.ycombinator.com/item?id=45202315) - [Show HN: Ultraplot – A succint wrapper for matplotlib](https://github.com/Ultraplot/UltraPlot)
 * [2025-09-10, 14:05:45](https://news.ycombinator.com/item?id=45197896) - [Lexy: A parser combinator library for C++17](https://github.com/foonathan/lexy)
