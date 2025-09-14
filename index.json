@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45243019"
     ],
     [
-      "My Thoughts on Renting Versus Buying",
+      "My thoughts on renting versus buying",
       "https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-09-14, 11:01:53",
-      "https://news.ycombinator.com/item?id=45238930"
-    ],
-    [
-      "macOS Tahoe is certified Unix 03 [pdf]",
-      "https://www.opengroup.org/openbrand/certificates/1223p.pdf"
-    ]
-  ],
-  [
-    [
       "2025-09-14, 10:32:22",
       "https://news.ycombinator.com/item?id=45238836"
     ],
@@ -187,16 +177,6 @@
     [
       "SpikingBrain 7B – More efficient than classic LLMs",
       "https://github.com/BICLab/SpikingBrain-7B"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 05:42:38",
-      "https://news.ycombinator.com/item?id=45237717"
-    ],
-    [
-      "Refurb Weekend: Silicon Graphics Indigo² Impact 10000",
-      "http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-09-11, 13:43:58",
+      "https://news.ycombinator.com/item?id=45211580"
+    ],
+    [
+      "La-Proteina",
+      "https://github.com/NVIDIA-Digital-Bio/la-proteina"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 22:01:45",
       "https://news.ycombinator.com/item?id=45204587"
     ],
@@ -297,6 +287,16 @@
     [
       "Observable Notebooks Data Loaders",
       "https://observablehq.com/notebook-kit/data-loaders"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 16:32:23",
+      "https://news.ycombinator.com/item?id=45200133"
+    ],
+    [
+      "Introduction to GrapheneOS",
+      "https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html"
     ]
   ]
 ]
