@@ -2,7 +2,6 @@
 
 * [2025-09-14, 03:29:35](https://news.ycombinator.com/item?id=45237184) - [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)
 * [2025-09-14, 02:57:00](https://news.ycombinator.com/item?id=45237035) - [Why you’d issue a branded stablecoin](https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin)
-* [2025-09-14, 02:17:17](https://news.ycombinator.com/item?id=45236890) - [How to get samples back from Mars](https://caseyhandmer.wordpress.com/2025/09/13/how-to-get-samples-back-from-mars/)
 * [2025-09-14, 01:53:31](https://news.ycombinator.com/item?id=45236774) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 * [2025-09-14, 00:34:25](https://news.ycombinator.com/item?id=45236473) - [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq)
 * [2025-09-14, 00:26:01](https://news.ycombinator.com/item?id=45236444) - [RFC9460: SVCB and HTTPS DNS Records](https://datatracker.ietf.org/doc/html/rfc9460)
@@ -24,10 +23,11 @@
 * [2025-09-13, 13:15:26](https://news.ycombinator.com/item?id=45231852) - [My first impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
+* [2025-09-11, 20:33:22](https://news.ycombinator.com/item?id=45215851) - [Ancient DNA solves Plague of Justinian mystery to rewrite pandemic history](https://phys.org/news/2025-08-ancient-dna-plague-justinian-mystery.html)
 * [2025-09-11, 16:24:05](https://news.ycombinator.com/item?id=45213407) - [Orange rivers signal toxic shift in Arctic wilderness](https://news.ucr.edu/articles/2025/09/08/orange-rivers-signal-toxic-shift-arctic-wilderness)
 * [2025-09-10, 14:05:45](https://news.ycombinator.com/item?id=45197896) - [Lexy: A parser combinator library for C++17](https://github.com/foonathan/lexy)
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
-* [2025-09-10, 13:00:16](https://news.ycombinator.com/item?id=45196991) - [Adding OR logic forced us to confront why users preferred raw SQL](https://signoz.io/blog/query-builder-v5/)
+* [2025-09-10, 13:59:07](https://news.ycombinator.com/item?id=45197811) - [George Bernard Shaw by G. K. Chesterton (1909)](https://www.gutenberg.org/ebooks/19535)
 * [2025-09-10, 12:49:25](https://news.ycombinator.com/item?id=45196874) - [Presence in VR should show tiny people, not user avatars (2022)](https://interconnected.org/home/2022/05/03/landscape)
 * [2025-09-09, 21:01:53](https://news.ycombinator.com/item?id=45189058) - [How Ruby executes JIT code](https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/)
 
