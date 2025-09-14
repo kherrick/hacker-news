@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-14, 01:53:31",
+      "https://news.ycombinator.com/item?id=45236774"
+    ],
+    [
+      "Visual programming is stuck on the form",
+      "https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/"
+    ]
+  ],
+  [
+    [
       "2025-09-14, 00:34:25",
       "https://news.ycombinator.com/item?id=45236473"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-09-13, 19:20:01",
-      "https://news.ycombinator.com/item?id=45234593"
-    ],
-    [
-      "An open-source maintainer's guide to saying “no”",
-      "https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 19:00:29",
       "https://news.ycombinator.com/item?id=45234460"
     ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=45231852"
     ],
     [
-      "My first impressions of gleam",
+      "My first impressions of Gleam",
       "https://mtlynch.io/notes/gleam-first-impressions/"
     ]
   ],
