@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-14, 14:04:16",
+      "https://news.ycombinator.com/item?id=45239803"
+    ],
+    [
+      "EPA Seeks to Eliminate Critical PFAS Drinking Water Protections",
+      "https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water"
+    ]
+  ],
+  [
+    [
       "2025-09-14, 11:37:33",
       "https://news.ycombinator.com/item?id=45239085"
     ],
@@ -257,16 +267,6 @@
     [
       "The unreasonable effectiveness of modern sort algorithms",
       "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 20:58:34",
-      "https://news.ycombinator.com/item?id=45203601"
-    ],
-    [
-      "The rules behing Rust functions",
-      "https://blog.cuongle.dev/p/the-hidden-rules-behind-rust-functions"
     ]
   ],
   [
