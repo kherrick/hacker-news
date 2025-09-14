@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45237035"
     ],
     [
-      "Why you'd issue a branded stablecoin like McDonaldsCoin",
+      "Why you’d issue a branded stablecoin",
       "https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin"
     ]
   ],
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-09-13, 22:01:35",
+      "https://news.ycombinator.com/item?id=45235676"
+    ],
+    [
+      "Will AI be the basis of many future industrial fortunes, or a net loser?",
+      "https://joincolossus.com/article/ai-will-not-make-you-rich/"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 21:55:42",
       "https://news.ycombinator.com/item?id=45235648"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=45235293"
     ],
     [
-      "AMD's RDNA4 GPU Architecture at Hot Chips 2025",
+      "AMD’s RDNA4 GPU architecture",
       "https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "RIP pthread_cancel",
       "https://eissing.org/icing/posts/rip_pthread_cancel/"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 16:18:27",
-      "https://news.ycombinator.com/item?id=45233266"
-    ],
-    [
-      "Magical systems thinking",
-      "https://worksinprogress.co/issue/magical-systems-thinking/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-09-10, 13:59:07",
+      "https://news.ycombinator.com/item?id=45197811"
+    ],
+    [
+      "George Bernard Shaw by G. K. Chesterton (1909)",
+      "https://www.gutenberg.org/ebooks/19535"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 13:00:16",
       "https://news.ycombinator.com/item?id=45196991"
     ],
@@ -287,16 +297,6 @@
     [
       "How Ruby executes JIT code",
       "https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 13:21:18",
-      "https://news.ycombinator.com/item?id=45181577"
-    ],
-    [
-      "How to use Claude Code subagents to parallelize development",
-      "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/"
     ]
   ]
 ]
