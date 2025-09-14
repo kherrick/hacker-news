@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-14, 15:01:38](https://news.ycombinator.com/item?id=45240266) - [The AI-Scraping Free-for-All Is Coming to an End](https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html)
 * [2025-09-14, 14:04:16](https://news.ycombinator.com/item?id=45239803) - [EPA Seeks to Eliminate Critical PFAS Drinking Water Protections](https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water)
-* [2025-09-14, 11:37:33](https://news.ycombinator.com/item?id=45239085) - [Repetitive negative thinking is associated with cognitive function decline](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2)
 * [2025-09-14, 11:23:03](https://news.ycombinator.com/item?id=45239016) - [CorentinJ: Real-Time Voice Cloning (2021)](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [2025-09-14, 11:01:53](https://news.ycombinator.com/item?id=45238930) - [macOS Tahoe is certified Unix 03 [pdf]](https://www.opengroup.org/openbrand/certificates/1223p.pdf)
 * [2025-09-14, 10:32:22](https://news.ycombinator.com/item?id=45238836) - [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
