@@ -4,7 +4,6 @@
 * [2025-09-14, 02:57:00](https://news.ycombinator.com/item?id=45237035) - [Why you’d issue a branded stablecoin](https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin)
 * [2025-09-14, 01:53:31](https://news.ycombinator.com/item?id=45236774) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 * [2025-09-14, 00:34:25](https://news.ycombinator.com/item?id=45236473) - [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq)
-* [2025-09-14, 00:26:01](https://news.ycombinator.com/item?id=45236444) - [RFC9460: SVCB and HTTPS DNS Records](https://datatracker.ietf.org/doc/html/rfc9460)
 * [2025-09-14, 00:19:52](https://news.ycombinator.com/item?id=45236411) - [If my kids excel, will they move away?](https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html)
 * [2025-09-13, 23:59:27](https://news.ycombinator.com/item?id=45236314) - [EFF to court: The Supreme Court must rein in secondary copyright liability](https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability)
 * [2025-09-13, 23:50:25](https://news.ycombinator.com/item?id=45236263) - [Two Slice, a font that's only 2px tall](https://joefatula.com/twoslice.html)
@@ -29,6 +28,7 @@
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
 * [2025-09-10, 13:59:07](https://news.ycombinator.com/item?id=45197811) - [George Bernard Shaw by G. K. Chesterton (1909)](https://www.gutenberg.org/ebooks/19535)
 * [2025-09-10, 12:49:25](https://news.ycombinator.com/item?id=45196874) - [Presence in VR should show tiny people, not user avatars (2022)](https://interconnected.org/home/2022/05/03/landscape)
+* [2025-09-10, 01:38:28](https://news.ycombinator.com/item?id=45192012) - [Open Source SDR Ham Transceiver Prototype](https://m17project.org/2025/08/18/first-linht-tests/)
 * [2025-09-09, 21:01:53](https://news.ycombinator.com/item?id=45189058) - [How Ruby executes JIT code](https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/)
 
 ## [Archives](archives/index.md)
