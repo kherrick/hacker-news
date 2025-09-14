@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-14](index.md)
 
+* [2025-09-14, 10:30:49](https://news.ycombinator.com/item?id=45238827) - [Osteo-Odonto-Keratoprosthesis](https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis)
 * [2025-09-14, 09:13:39](https://news.ycombinator.com/item?id=45238567) - [The PC was never a true 'IBMer'](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
 * [2025-09-14, 09:04:53](https://news.ycombinator.com/item?id=45238536) - [Gemini (2023)](https://geminiquickst.art/)
 * [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)

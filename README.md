@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-14, 10:30:49](https://news.ycombinator.com/item?id=45238827) - [Osteo-Odonto-Keratoprosthesis](https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis)
 * [2025-09-14, 09:13:39](https://news.ycombinator.com/item?id=45238567) - [The PC was never a true 'IBMer'](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
 * [2025-09-14, 09:04:53](https://news.ycombinator.com/item?id=45238536) - [Gemini (2023)](https://geminiquickst.art/)
 * [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
@@ -24,7 +25,6 @@
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-11, 15:05:28](https://news.ycombinator.com/item?id=45212521) - [A Trick for Backpropagation of Linear Transformations](https://tripplyons.com/blog/backprop-trick)
 * [2025-09-11, 07:27:52](https://news.ycombinator.com/item?id=45208828) - [The unreasonable effectiveness of modern sort algorithms](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md)
-* [2025-09-11, 00:13:53](https://news.ycombinator.com/item?id=45205976) - [Uniprof: Universal CPU Profiling](https://www.uniprof.sh/)
 * [2025-09-10, 19:14:14](https://news.ycombinator.com/item?id=45202315) - [Show HN: Ultraplot – A succint wrapper for matplotlib](https://github.com/Ultraplot/UltraPlot)
 * [2025-09-10, 14:05:45](https://news.ycombinator.com/item?id=45197896) - [Lexy: A parser combinator library for C++17](https://github.com/foonathan/lexy)
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
