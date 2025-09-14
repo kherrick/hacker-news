@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-09-14, 22:08:13",
+      "https://news.ycombinator.com/item?id=45243740"
+    ],
+    [
+      "Trigger Crossbar",
+      "https://serd.es/2025/09/14/Trigger-crossbar.html"
+    ]
+  ],
+  [
+    [
       "2025-09-14, 21:54:07",
       "https://news.ycombinator.com/item?id=45243635"
     ],
@@ -47,16 +57,6 @@
     [
       "My thoughts on renting versus buying",
       "https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 20:04:44",
-      "https://news.ycombinator.com/item?id=45242788"
-    ],
-    [
-      "Vibe coding has turned senior devs into 'AI babysitters'",
-      "https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/"
     ]
   ],
   [
@@ -171,32 +171,12 @@
   ],
   [
     [
-      "2025-09-14, 11:23:03",
-      "https://news.ycombinator.com/item?id=45239016"
-    ],
-    [
-      "CorentinJ: Real-Time Voice Cloning (2021)",
-      "https://github.com/CorentinJ/Real-Time-Voice-Cloning"
-    ]
-  ],
-  [
-    [
       "2025-09-14, 10:32:22",
       "https://news.ycombinator.com/item?id=45238836"
     ],
     [
       "Fukushima insects tested for cognition",
       "https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 09:13:39",
-      "https://news.ycombinator.com/item?id=45238567"
-    ],
-    [
-      "The PC was never a true 'IBMer'",
-      "https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Accelerated Game of Life with CUDA / Triton",
       "https://www.boristhebrave.com/2025/09/11/accelerated-game-of-life-with-cuda-triton/"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 18:40:17",
+      "https://news.ycombinator.com/item?id=45214749"
+    ],
+    [
+      "Irrlicht Engine – a cross-platform realtime 3D engine",
+      "https://irrlicht.sourceforge.io/?page_id=45"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 13:43:58",
+      "https://news.ycombinator.com/item?id=45211580"
+    ],
+    [
+      "La-Proteina",
+      "https://github.com/NVIDIA-Digital-Bio/la-proteina"
     ]
   ],
   [
