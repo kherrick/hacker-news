@@ -22,6 +22,7 @@
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
 * [2025-09-13, 16:14:11](https://news.ycombinator.com/item?id=45233237) - [Recreating the US/* time zone situation](https://rachelbythebay.com/w/2025/09/12/tz/)
 * [2025-09-13, 14:52:45](https://news.ycombinator.com/item?id=45232565) - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
+* [2025-09-13, 13:15:26](https://news.ycombinator.com/item?id=45231852) - [My first impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-11, 15:05:28](https://news.ycombinator.com/item?id=45212521) - [A Trick for Backpropagation of Linear Transformations](https://tripplyons.com/blog/backprop-trick)
 * [2025-09-11, 07:27:52](https://news.ycombinator.com/item?id=45208828) - [The unreasonable effectiveness of modern sort algorithms](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md)
@@ -29,7 +30,6 @@
 * [2025-09-10, 20:58:34](https://news.ycombinator.com/item?id=45203601) - [The rules behing Rust functions](https://blog.cuongle.dev/p/the-hidden-rules-behind-rust-functions)
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
 * [2025-09-10, 13:36:55](https://news.ycombinator.com/item?id=45197453) - [Dynamic Bird Migration Map](https://explorer.audubon.org/explore/species?sidebar=expand)
-* [2025-09-10, 13:00:16](https://news.ycombinator.com/item?id=45196991) - [Adding OR logic forced us to confront why users preferred raw SQL](https://signoz.io/blog/query-builder-v5/)
 
 ## [Archives](archives/index.md)
 
