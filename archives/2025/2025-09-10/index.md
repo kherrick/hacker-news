@@ -10,6 +10,7 @@
 * [2025-09-10, 22:21:35](https://news.ycombinator.com/item?id=45204838) - [Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
 * [2025-09-10, 21:49:36](https://news.ycombinator.com/item?id=45204393) - [KDE launches its own distribution (again)](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
 * [2025-09-10, 21:43:47](https://news.ycombinator.com/item?id=45204305) - [Christie's Deletes Digital Art Department](https://news.artnet.com/market/christies-scraps-digital-art-department-2685784)
+* [2025-09-10, 21:25:37](https://news.ycombinator.com/item?id=45204003) - [An Inline Cache Isn't Just a Cache](https://www.mgaudet.ca/technical/2018/6/5/an-inline-cache-isnt-just-a-cache)
 * [2025-09-10, 21:21:36](https://news.ycombinator.com/item?id=45203935) - [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
 * [2025-09-10, 21:01:01](https://news.ycombinator.com/item?id=45203643) - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
 * [2025-09-10, 20:59:24](https://news.ycombinator.com/item?id=45203617) - [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com)
