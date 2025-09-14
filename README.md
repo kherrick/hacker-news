@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-14, 15:13:42](https://news.ycombinator.com/item?id=45240391) - [Website Is Just an SVG](https://svg.nicubunu.ro/)
 * [2025-09-14, 15:01:38](https://news.ycombinator.com/item?id=45240266) - [The AI-Scraping Free-for-All Is Coming to an End](https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html)
 * [2025-09-14, 14:04:16](https://news.ycombinator.com/item?id=45239803) - [EPA Seeks to Eliminate Critical PFAS Drinking Water Protections](https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water)
 * [2025-09-14, 11:23:03](https://news.ycombinator.com/item?id=45239016) - [CorentinJ: Real-Time Voice Cloning (2021)](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
@@ -19,7 +20,6 @@
 * [2025-09-13, 21:55:42](https://news.ycombinator.com/item?id=45235648) - [Myocardial infarction may be an infectious disease](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
 * [2025-09-13, 21:04:18](https://news.ycombinator.com/item?id=45235293) - [AMD’s RDNA4 GPU architecture](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot)
 * [2025-09-13, 18:39:17](https://news.ycombinator.com/item?id=45234323) - [The case against social media is stronger than you think](https://arachnemag.substack.com/p/the-case-against-social-media-is)
-* [2025-09-13, 17:20:21](https://news.ycombinator.com/item?id=45233713) - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
 * [2025-09-13, 16:14:11](https://news.ycombinator.com/item?id=45233237) - [Recreating the US/* time zone situation](https://rachelbythebay.com/w/2025/09/12/tz/)
 * [2025-09-13, 14:52:45](https://news.ycombinator.com/item?id=45232565) - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
