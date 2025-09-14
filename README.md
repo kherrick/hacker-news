@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-14, 10:30:49](https://news.ycombinator.com/item?id=45238827) - [Osteo-Odonto-Keratoprosthesis](https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis)
 * [2025-09-14, 09:13:39](https://news.ycombinator.com/item?id=45238567) - [The PC was never a true 'IBMer'](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
 * [2025-09-14, 09:04:53](https://news.ycombinator.com/item?id=45238536) - [Gemini (2023)](https://geminiquickst.art/)
 * [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
@@ -15,6 +14,7 @@
 * [2025-09-13, 22:01:35](https://news.ycombinator.com/item?id=45235676) - [Will AI be the basis of many future industrial fortunes, or a net loser?](https://joincolossus.com/article/ai-will-not-make-you-rich/)
 * [2025-09-13, 21:55:42](https://news.ycombinator.com/item?id=45235648) - [Myocardial infarction may be an infectious disease](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
 * [2025-09-13, 21:04:18](https://news.ycombinator.com/item?id=45235293) - [AMD’s RDNA4 GPU architecture](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot)
+* [2025-09-13, 19:00:29](https://news.ycombinator.com/item?id=45234460) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
 * [2025-09-13, 18:39:17](https://news.ycombinator.com/item?id=45234323) - [The case against social media is stronger than you think](https://arachnemag.substack.com/p/the-case-against-social-media-is)
 * [2025-09-13, 17:20:21](https://news.ycombinator.com/item?id=45233713) - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
