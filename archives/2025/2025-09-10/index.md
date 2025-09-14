@@ -30,6 +30,7 @@
 * [2025-09-10, 18:03:35](https://news.ycombinator.com/item?id=45201474) - [You Already Have Our Data, Take Our Phone Calls Too (FreePBX CVE-2025-57819)](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
 * [2025-09-10, 17:56:18](https://news.ycombinator.com/item?id=45201372) - [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/)
 * [2025-09-10, 17:26:08](https://news.ycombinator.com/item?id=45200925) - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
+* [2025-09-10, 17:04:29](https://news.ycombinator.com/item?id=45200642) - [Observable Notebooks Data Loaders](https://observablehq.com/notebook-kit/data-loaders)
 * [2025-09-10, 17:01:06](https://news.ycombinator.com/item?id=45200593) - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-09-10, 16:44:53](https://news.ycombinator.com/item?id=45200357) - ['Block Everything' protests sweep across France, scores arrested](https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/)
 * [2025-09-10, 16:31:34](https://news.ycombinator.com/item?id=45200118) - [Anthropic Services Down](https://status.anthropic.com/incidents/k6gkm2b8cjk9)
