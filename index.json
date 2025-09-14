@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-14, 00:59:57",
+      "https://news.ycombinator.com/item?id=45236574"
+    ],
+    [
+      "Do I Need Kubernetes?",
+      "https://doineedkubernetes.com/"
+    ]
+  ],
+  [
+    [
+      "2025-09-14, 00:34:25",
+      "https://news.ycombinator.com/item?id=45236473"
+    ],
+    [
+      "How the restoration of ancient Babylon is drawing tourists back to Iraq",
+      "https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq"
+    ]
+  ],
+  [
+    [
       "2025-09-14, 00:26:01",
       "https://news.ycombinator.com/item?id=45236444"
     ],
     [
       "RFC9460: SVCB and HTTPS DNS Records",
       "https://datatracker.ietf.org/doc/html/rfc9460"
+    ]
+  ],
+  [
+    [
+      "2025-09-14, 00:19:52",
+      "https://news.ycombinator.com/item?id=45236411"
+    ],
+    [
+      "If my kids excel, will they move away?",
+      "https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html"
     ]
   ],
   [
@@ -41,6 +71,16 @@
   ],
   [
     [
+      "2025-09-13, 22:05:17",
+      "https://news.ycombinator.com/item?id=45235697"
+    ],
+    [
+      "Wayland breaks the tools I use to make a living",
+      "https://rykarn.se/2025/01/26/wayland"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 22:01:35",
       "https://news.ycombinator.com/item?id=45235676"
     ],
@@ -67,16 +107,6 @@
     [
       "AMD's RDNA4 GPU Architecture at Hot Chips 2025",
       "https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 19:20:01",
-      "https://news.ycombinator.com/item?id=45234593"
-    ],
-    [
-      "An open-source maintainer's guide to saying “no”",
-      "https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no"
     ]
   ],
   [
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2025-09-13, 14:20:01",
-      "https://news.ycombinator.com/item?id=45232275"
-    ],
-    [
-      "Mago: A fast PHP toolchain written in Rust",
-      "https://github.com/carthage-software/mago"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 13:47:38",
-      "https://news.ycombinator.com/item?id=45232052"
-    ],
-    [
-      "Japan sets record of nearly 100k people aged over 100",
-      "https://www.bbc.com/news/articles/cd07nljlyv0o"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 13:15:26",
       "https://news.ycombinator.com/item?id=45231852"
     ],
@@ -197,16 +207,6 @@
     [
       "Show HN: A store that generates products from anything you type in search",
       "https://anycrap.shop/"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 08:11:27",
-      "https://news.ycombinator.com/item?id=45230265"
-    ],
-    [
-      "Java 25's new CPU-Time Profiler",
-      "https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-09-11, 12:40:34",
-      "https://news.ycombinator.com/item?id=45210858"
-    ],
-    [
-      "Lessons in disabling RC4 in Active Directory (2021)",
-      "https://syfuhs.net/lessons-in-disabling-rc4-in-active-directory"
-    ]
-  ],
-  [
-    [
       "2025-09-10, 15:14:21",
       "https://news.ycombinator.com/item?id=45198977"
     ],
@@ -257,6 +247,16 @@
     [
       "Lexy: A parser combinator library for C++17",
       "https://github.com/foonathan/lexy"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 14:03:11",
+      "https://news.ycombinator.com/item?id=45197862"
+    ],
+    [
+      "The Socratic Journal Method: A Simple Journaling Method That Works",
+      "https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/"
     ]
   ],
   [
