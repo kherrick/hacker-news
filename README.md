@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-14, 10:32:22](https://news.ycombinator.com/item?id=45238836) - [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
 * [2025-09-14, 09:13:39](https://news.ycombinator.com/item?id=45238567) - [The PC was never a true 'IBMer'](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
 * [2025-09-14, 09:04:53](https://news.ycombinator.com/item?id=45238536) - [Gemini (2023)](https://geminiquickst.art/)
 * [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
@@ -20,7 +21,6 @@
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
 * [2025-09-13, 16:14:11](https://news.ycombinator.com/item?id=45233237) - [Recreating the US/* time zone situation](https://rachelbythebay.com/w/2025/09/12/tz/)
 * [2025-09-13, 14:52:45](https://news.ycombinator.com/item?id=45232565) - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
-* [2025-09-13, 14:52:33](https://news.ycombinator.com/item?id=45232562) - [Four-year wedding crasher mystery solved](https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-11, 15:05:28](https://news.ycombinator.com/item?id=45212521) - [A Trick for Backpropagation of Linear Transformations](https://tripplyons.com/blog/backprop-trick)
 * [2025-09-11, 07:27:52](https://news.ycombinator.com/item?id=45208828) - [The unreasonable effectiveness of modern sort algorithms](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md)
