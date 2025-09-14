@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-14, 20:50:33](https://news.ycombinator.com/item?id=45243123) - [CVC acquires majority stake in Namecheap for $1.5B](https://webhosting.today/2025/09/12/cvc-acquires-majority-stake-in-namecheap-for-1-5-billion/)
-* [2025-09-14, 20:36:14](https://news.ycombinator.com/item?id=45243019) - [My Thoughts on Renting Versus Buying](https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/)
+* [2025-09-14, 20:36:14](https://news.ycombinator.com/item?id=45243019) - [My thoughts on renting versus buying](https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/)
 * [2025-09-14, 20:04:44](https://news.ycombinator.com/item?id=45242788) - [Vibe coding has turned senior devs into 'AI babysitters'](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
 * [2025-09-14, 19:42:52](https://news.ycombinator.com/item?id=45242645) - [Show HN: DriftDB – An experimental append-only database with time-travel queries](https://github.com/DavidLiedle/DriftDB)
 * [2025-09-14, 19:34:48](https://news.ycombinator.com/item?id=45242591) - [OCSP Service Has Reached End of Life](https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life)
@@ -15,11 +15,9 @@
 * [2025-09-14, 13:23:12](https://news.ycombinator.com/item?id=45239601) - [Read to forget](https://mo42.bearblog.dev/read-to-forget/)
 * [2025-09-14, 11:37:33](https://news.ycombinator.com/item?id=45239085) - [Repetitive negative thinking associated with cognitive decline in older adults](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2)
 * [2025-09-14, 11:23:03](https://news.ycombinator.com/item?id=45239016) - [CorentinJ: Real-Time Voice Cloning (2021)](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
-* [2025-09-14, 11:01:53](https://news.ycombinator.com/item?id=45238930) - [macOS Tahoe is certified Unix 03 [pdf]](https://www.opengroup.org/openbrand/certificates/1223p.pdf)
 * [2025-09-14, 10:32:22](https://news.ycombinator.com/item?id=45238836) - [Fukushima insects tested for cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
 * [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European metro stations](http://stations.albertguillaumes.cat/)
 * [2025-09-14, 05:49:42](https://news.ycombinator.com/item?id=45237754) - [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B)
-* [2025-09-14, 05:42:38](https://news.ycombinator.com/item?id=45237717) - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
 * [2025-09-14, 04:27:12](https://news.ycombinator.com/item?id=45237442) - [A single, 'naked' black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
 * [2025-09-13, 23:50:25](https://news.ycombinator.com/item?id=45236263) - [Two Slice, a font that's only 2px tall](https://joefatula.com/twoslice.html)
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
@@ -28,8 +26,10 @@
 * [2025-09-11, 22:03:54](https://news.ycombinator.com/item?id=45216578) - [Patela: A basement full of amnesic servers](https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/)
 * [2025-09-11, 20:46:02](https://news.ycombinator.com/item?id=45215952) - [Accelerated Game of Life with CUDA / Triton](https://www.boristhebrave.com/2025/09/11/accelerated-game-of-life-with-cuda-triton/)
 * [2025-09-11, 18:36:58](https://news.ycombinator.com/item?id=45214715) - [MIT-MC CP/M archive files, 1979-1984](https://github.com/MITDDC/cpmarchive-1979-1984)
+* [2025-09-11, 13:43:58](https://news.ycombinator.com/item?id=45211580) - [La-Proteina](https://github.com/NVIDIA-Digital-Bio/la-proteina)
 * [2025-09-10, 22:01:45](https://news.ycombinator.com/item?id=45204587) - [You’re a slow thinker. Now what?](https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what)
 * [2025-09-10, 17:04:29](https://news.ycombinator.com/item?id=45200642) - [Observable Notebooks Data Loaders](https://observablehq.com/notebook-kit/data-loaders)
+* [2025-09-10, 16:32:23](https://news.ycombinator.com/item?id=45200133) - [Introduction to GrapheneOS](https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html)
 
 ## [Archives](archives/index.md)
 
