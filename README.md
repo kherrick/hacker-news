@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-14, 05:42:38](https://news.ycombinator.com/item?id=45237717) - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
 * [2025-09-14, 03:29:35](https://news.ycombinator.com/item?id=45237184) - [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)
 * [2025-09-14, 02:57:00](https://news.ycombinator.com/item?id=45237035) - [Why you’d issue a branded stablecoin](https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin)
 * [2025-09-14, 01:53:31](https://news.ycombinator.com/item?id=45236774) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
@@ -28,7 +29,6 @@
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
 * [2025-09-10, 13:59:07](https://news.ycombinator.com/item?id=45197811) - [George Bernard Shaw by G. K. Chesterton (1909)](https://www.gutenberg.org/ebooks/19535)
 * [2025-09-10, 12:49:25](https://news.ycombinator.com/item?id=45196874) - [Presence in VR should show tiny people, not user avatars (2022)](https://interconnected.org/home/2022/05/03/landscape)
-* [2025-09-10, 01:38:28](https://news.ycombinator.com/item?id=45192012) - [Open Source SDR Ham Transceiver Prototype](https://m17project.org/2025/08/18/first-linht-tests/)
 * [2025-09-09, 21:01:53](https://news.ycombinator.com/item?id=45189058) - [How Ruby executes JIT code](https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/)
 
 ## [Archives](archives/index.md)
