@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-09-11, 15:05:28",
+      "https://news.ycombinator.com/item?id=45212521"
+    ],
+    [
+      "A Trick for Backpropagation of Linear Transformations",
+      "https://tripplyons.com/blog/backprop-trick"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 07:27:52",
       "https://news.ycombinator.com/item?id=45208828"
     ],
@@ -277,16 +287,6 @@
     [
       "Adding OR logic forced us to confront why users preferred raw SQL",
       "https://signoz.io/blog/query-builder-v5/"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 01:38:28",
-      "https://news.ycombinator.com/item?id=45192012"
-    ],
-    [
-      "Open Source SDR Ham Transceiver Prototype",
-      "https://m17project.org/2025/08/18/first-linht-tests/"
     ]
   ],
   [
