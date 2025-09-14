@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-14, 20:50:33](https://news.ycombinator.com/item?id=45243123) - [CVC acquires majority stake in Namecheap for $1.5B](https://webhosting.today/2025/09/12/cvc-acquires-majority-stake-in-namecheap-for-1-5-billion/)
+* [2025-09-14, 20:36:14](https://news.ycombinator.com/item?id=45243019) - [My Thoughts on Renting Versus Buying](https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/)
 * [2025-09-14, 20:04:44](https://news.ycombinator.com/item?id=45242788) - [Vibe coding has turned senior devs into 'AI babysitters'](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
 * [2025-09-14, 19:42:52](https://news.ycombinator.com/item?id=45242645) - [Show HN: DriftDB – An experimental append-only database with time-travel queries](https://github.com/DavidLiedle/DriftDB)
 * [2025-09-14, 19:34:48](https://news.ycombinator.com/item?id=45242591) - [OCSP Service Has Reached End of Life](https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life)
@@ -19,9 +21,7 @@
 * [2025-09-14, 05:49:42](https://news.ycombinator.com/item?id=45237754) - [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B)
 * [2025-09-14, 05:42:38](https://news.ycombinator.com/item?id=45237717) - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
 * [2025-09-14, 04:27:12](https://news.ycombinator.com/item?id=45237442) - [A single, 'naked' black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
-* [2025-09-14, 03:29:35](https://news.ycombinator.com/item?id=45237184) - [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)
 * [2025-09-13, 23:50:25](https://news.ycombinator.com/item?id=45236263) - [Two Slice, a font that's only 2px tall](https://joefatula.com/twoslice.html)
-* [2025-09-13, 23:16:40](https://news.ycombinator.com/item?id=45236079) - [Pass: Unix Password Manager](https://www.passwordstore.org/)
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-12, 06:56:32](https://news.ycombinator.com/item?id=45219383) - [Implementing namespaces and coding standards in WordPress plugin development](https://developer.wordpress.org/news/2025/09/implementing-namespaces-and-coding-standards-in-wordpress-plugin-development/)
