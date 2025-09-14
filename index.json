@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-09-14, 00:26:01",
+      "https://news.ycombinator.com/item?id=45236444"
+    ],
+    [
+      "RFC9460: SVCB and HTTPS DNS Records",
+      "https://datatracker.ietf.org/doc/html/rfc9460"
+    ]
+  ],
+  [
+    [
+      "2025-09-13, 23:59:27",
+      "https://news.ycombinator.com/item?id=45236314"
+    ],
+    [
+      "EFF to court: The Supreme Court must rein in secondary copyright liability",
+      "https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability"
+    ]
+  ],
+  [
+    [
+      "2025-09-13, 23:50:25",
+      "https://news.ycombinator.com/item?id=45236263"
+    ],
+    [
+      "Two Slice, a font that's only 2px tall",
+      "https://joefatula.com/twoslice.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-13, 23:16:40",
+      "https://news.ycombinator.com/item?id=45236079"
+    ],
+    [
+      "Pass: Unix Password Manager",
+      "https://www.passwordstore.org/"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 22:01:35",
       "https://news.ycombinator.com/item?id=45235676"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45235648"
     ],
     [
-      "Heart attacks may be triggered by bacteria",
+      "Myocardial infarction may be an infectious disease",
       "https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease"
     ]
   ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45234323"
     ],
     [
-      "The Case Against Social Media Is Stronger Than You Think",
+      "The case against social media is stronger than you think",
       "https://arachnemag.substack.com/p/the-case-against-social-media-is"
     ]
   ],
@@ -81,6 +121,16 @@
   ],
   [
     [
+      "2025-09-13, 16:14:11",
+      "https://news.ycombinator.com/item?id=45233237"
+    ],
+    [
+      "Recreating the US time zone situation",
+      "https://rachelbythebay.com/w/2025/09/12/tz/"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 14:52:45",
       "https://news.ycombinator.com/item?id=45232565"
     ],
@@ -95,7 +145,7 @@
       "https://news.ycombinator.com/item?id=45232562"
     ],
     [
-      "‘Someone must know this guy’: four-year wedding crasher mystery solved",
+      "Four-year wedding crasher mystery solved",
       "https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland"
     ]
   ],
@@ -171,46 +221,6 @@
   ],
   [
     [
-      "2025-09-13, 01:55:23",
-      "https://news.ycombinator.com/item?id=45228692"
-    ],
-    [
-      "Legal win",
-      "https://ma.tt/2025/09/legal-win/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 21:54:34",
-      "https://news.ycombinator.com/item?id=45227212"
-    ],
-    [
-      "FFglitch, FFmpeg fork for glitch art",
-      "https://ffglitch.org/gallery/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 18:30:15",
-      "https://news.ycombinator.com/item?id=45225098"
-    ],
-    [
-      "UTF-8 is a brilliant design",
-      "https://iamvishnu.com/posts/utf8-is-brilliant-design"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 14:44:05",
-      "https://news.ycombinator.com/item?id=45222695"
-    ],
-    [
-      "Many hard LeetCode problems are easy constraint problems",
-      "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/"
-    ]
-  ],
-  [
-    [
       "2025-09-11, 16:24:05",
       "https://news.ycombinator.com/item?id=45213407"
     ],
@@ -241,6 +251,26 @@
   ],
   [
     [
+      "2025-09-10, 14:05:45",
+      "https://news.ycombinator.com/item?id=45197896"
+    ],
+    [
+      "Lexy: A parser combinator library for C++17",
+      "https://github.com/foonathan/lexy"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 13:00:16",
+      "https://news.ycombinator.com/item?id=45196991"
+    ],
+    [
+      "Adding OR logic forced us to confront why users preferred raw SQL",
+      "https://signoz.io/blog/query-builder-v5/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 01:38:28",
       "https://news.ycombinator.com/item?id=45192012"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-09-09, 20:17:31",
-      "https://news.ycombinator.com/item?id=45188252"
-    ],
-    [
-      "Energy-Based Transformers [video]",
-      "https://www.youtube.com/watch?v=LUQkWzjv2RM"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 20:10:00",
-      "https://news.ycombinator.com/item?id=45188116"
-    ],
-    [
-      "Show HN: Vicinae – A native, Raycast-compatible launcher for Linux",
-      "https://github.com/vicinaehq/vicinae"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 13:21:18",
       "https://news.ycombinator.com/item?id=45181577"
     ],
     [
       "How to Use Claude Code Subagents to Parallelize Development",
       "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 10:46:46",
-      "https://news.ycombinator.com/item?id=45180213"
-    ],
-    [
-      "Weird CPU architectures, the MOV only CPU (2020)",
-      "https://justanotherelectronicsblog.com/?p=771"
     ]
   ]
 ]
