@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-09-14](index.md)
 
 * [2025-09-14, 15:13:42](https://news.ycombinator.com/item?id=45240391) - [Website Is Just an SVG](https://svg.nicubunu.ro/)
+* [2025-09-14, 15:05:28](https://news.ycombinator.com/item?id=45240304) - [Bank of Thailand Freezes 3M Accounts, Sets Daily Transfer Limits](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
 * [2025-09-14, 15:01:38](https://news.ycombinator.com/item?id=45240266) - [The AI-Scraping Free-for-All Is Coming to an End](https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html)
+* [2025-09-14, 14:46:58](https://news.ycombinator.com/item?id=45240146) - [We Spiral](https://behavioralscientist.org/why-we-spiral/)
 * [2025-09-14, 14:04:16](https://news.ycombinator.com/item?id=45239803) - [EPA Seeks to Eliminate Critical PFAS Drinking Water Protections](https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water)
+* [2025-09-14, 13:23:12](https://news.ycombinator.com/item?id=45239601) - [Read to Forget](https://mo42.bearblog.dev/read-to-forget/)
 * [2025-09-14, 11:37:33](https://news.ycombinator.com/item?id=45239085) - [Repetitive negative thinking is associated with cognitive function decline](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2)
 * [2025-09-14, 11:23:03](https://news.ycombinator.com/item?id=45239016) - [CorentinJ: Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [2025-09-14, 11:01:53](https://news.ycombinator.com/item?id=45238930) - [macOS Tahoe is certified Unix 03 [pdf]](https://www.opengroup.org/openbrand/certificates/1223p.pdf)
