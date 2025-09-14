@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-14, 20:04:44](https://news.ycombinator.com/item?id=45242788) - [Vibe coding has turned senior devs into 'AI babysitters'](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
 * [2025-09-14, 19:15:24](https://news.ycombinator.com/item?id=45242458) - [ChatControl update: blocking minority held but Denmark is moving forward anyway](https://disobey.net/@yawnbox/115203365485529363)
 * [2025-09-14, 18:57:14](https://news.ycombinator.com/item?id=45242337) - [How older parents divorce affects their adult children](https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children)
 * [2025-09-14, 18:23:55](https://news.ycombinator.com/item?id=45242075) - [Lisp in 2025 (FOSS Book, 10 chapters)](https://github.com/cloudstreet-dev/Lisp-in-2025/blob/main/01-introduction.md)
@@ -29,7 +30,6 @@
 * [2025-09-10, 22:01:45](https://news.ycombinator.com/item?id=45204587) - [You're a Slow Thinker. Now What?](https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what)
 * [2025-09-10, 17:04:29](https://news.ycombinator.com/item?id=45200642) - [Observable Notebooks Data Loaders](https://observablehq.com/notebook-kit/data-loaders)
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
-* [2025-09-10, 13:36:55](https://news.ycombinator.com/item?id=45197453) - [Dynamic Bird Migration Map](https://explorer.audubon.org/explore/species?sidebar=expand)
 
 ## [Archives](archives/index.md)
 
