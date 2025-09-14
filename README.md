@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-14, 22:15:33](https://news.ycombinator.com/item?id=45243803) - [Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
+* [2025-09-14, 21:54:07](https://news.ycombinator.com/item?id=45243635) - [Betty Crocker broke recipes by shrinking boxes](https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058)
 * [2025-09-14, 20:36:14](https://news.ycombinator.com/item?id=45243019) - [My thoughts on renting versus buying](https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/)
 * [2025-09-14, 20:04:44](https://news.ycombinator.com/item?id=45242788) - [Vibe coding has turned senior devs into 'AI babysitters'](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
 * [2025-09-14, 19:42:52](https://news.ycombinator.com/item?id=45242645) - [Show HN: DriftDB – An experimental append-only database with time-travel queries](https://github.com/DavidLiedle/DriftDB)
@@ -26,7 +27,6 @@
 * [2025-09-12, 06:56:32](https://news.ycombinator.com/item?id=45219383) - [Implementing namespaces and coding standards in WordPress plugin development](https://developer.wordpress.org/news/2025/09/implementing-namespaces-and-coding-standards-in-wordpress-plugin-development/)
 * [2025-09-11, 22:03:54](https://news.ycombinator.com/item?id=45216578) - [Patela: A basement full of amnesic servers](https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/)
 * [2025-09-11, 20:46:02](https://news.ycombinator.com/item?id=45215952) - [Accelerated Game of Life with CUDA / Triton](https://www.boristhebrave.com/2025/09/11/accelerated-game-of-life-with-cuda-triton/)
-* [2025-09-11, 13:43:58](https://news.ycombinator.com/item?id=45211580) - [La-Proteina](https://github.com/NVIDIA-Digital-Bio/la-proteina)
 * [2025-09-10, 22:01:45](https://news.ycombinator.com/item?id=45204587) - [You’re a slow thinker. Now what?](https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what)
 * [2025-09-10, 17:04:29](https://news.ycombinator.com/item?id=45200642) - [Observable Notebooks Data Loaders](https://observablehq.com/notebook-kit/data-loaders)
 * [2025-09-10, 16:32:23](https://news.ycombinator.com/item?id=45200133) - [Introduction to GrapheneOS](https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html)
