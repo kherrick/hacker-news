@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-14, 19:15:24](https://news.ycombinator.com/item?id=45242458) - [ChatControl update: blocking minority held but Denmark is moving forward anyway](https://disobey.net/@yawnbox/115203365485529363)
+* [2025-09-14, 16:23:06](https://news.ycombinator.com/item?id=45241071) - [Gleam is my new obsession](https://ericcodes.io/blog/gleam-my-new-obsession.html)
 * [2025-09-14, 15:44:44](https://news.ycombinator.com/item?id=45240682) - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
 * [2025-09-14, 15:13:42](https://news.ycombinator.com/item?id=45240391) - [Nicu's test website made with SVG (2007)](https://svg.nicubunu.ro/)
 * [2025-09-14, 15:05:28](https://news.ycombinator.com/item?id=45240304) - [Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
@@ -19,7 +21,6 @@
 * [2025-09-13, 23:50:25](https://news.ycombinator.com/item?id=45236263) - [Two Slice, a font that's only 2px tall](https://joefatula.com/twoslice.html)
 * [2025-09-13, 23:16:40](https://news.ycombinator.com/item?id=45236079) - [Pass: Unix Password Manager](https://www.passwordstore.org/)
 * [2025-09-13, 22:01:35](https://news.ycombinator.com/item?id=45235676) - [Will AI be the basis of many future industrial fortunes, or a net loser?](https://joincolossus.com/article/ai-will-not-make-you-rich/)
-* [2025-09-13, 21:04:18](https://news.ycombinator.com/item?id=45235293) - [AMD’s RDNA4 GPU architecture](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot)
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-11, 20:46:02](https://news.ycombinator.com/item?id=45215952) - [Accelerated Game of Life with CUDA / Triton](https://www.boristhebrave.com/2025/09/11/accelerated-game-of-life-with-cuda-triton/)
@@ -27,7 +28,6 @@
 * [2025-09-11, 07:27:52](https://news.ycombinator.com/item?id=45208828) - [The unreasonable effectiveness of modern sort algorithms](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md)
 * [2025-09-10, 22:01:45](https://news.ycombinator.com/item?id=45204587) - [You're a Slow Thinker. Now What?](https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what)
 * [2025-09-10, 17:04:29](https://news.ycombinator.com/item?id=45200642) - [Observable Notebooks Data Loaders](https://observablehq.com/notebook-kit/data-loaders)
-* [2025-09-10, 16:32:23](https://news.ycombinator.com/item?id=45200133) - [Introduction to GrapheneOS](https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html)
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
 * [2025-09-10, 13:36:55](https://news.ycombinator.com/item?id=45197453) - [Dynamic Bird Migration Map](https://explorer.audubon.org/explore/species?sidebar=expand)
 

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-14](index.md)
 
+* [2025-09-14, 19:15:24](https://news.ycombinator.com/item?id=45242458) - [ChatControl update: blocking minority held but Denmark is moving forward anyway](https://disobey.net/@yawnbox/115203365485529363)
 * [2025-09-14, 16:40:42](https://news.ycombinator.com/item?id=45241204) - [World emissions hit record high, but the EU leads trend reversal](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/world-emissions-hit-record-high-eu-leads-trend-reversal-2025-09-09_en)
+* [2025-09-14, 16:23:06](https://news.ycombinator.com/item?id=45241071) - [Gleam is my new obsession](https://ericcodes.io/blog/gleam-my-new-obsession.html)
 * [2025-09-14, 15:44:44](https://news.ycombinator.com/item?id=45240682) - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
 * [2025-09-14, 15:13:42](https://news.ycombinator.com/item?id=45240391) - [Website Is Just an SVG](https://svg.nicubunu.ro/)
 * [2025-09-14, 15:05:28](https://news.ycombinator.com/item?id=45240304) - [Bank of Thailand Freezes 3M Accounts, Sets Daily Transfer Limits](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
