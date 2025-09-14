@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-14](index.md)
 
+* [2025-09-14, 22:15:33](https://news.ycombinator.com/item?id=45243803) - [Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
 * [2025-09-14, 20:50:33](https://news.ycombinator.com/item?id=45243123) - [CVC acquires majority stake in Namecheap for $1.5B](https://webhosting.today/2025/09/12/cvc-acquires-majority-stake-in-namecheap-for-1-5-billion/)
 * [2025-09-14, 20:36:14](https://news.ycombinator.com/item?id=45243019) - [My Thoughts on Renting Versus Buying](https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/)
 * [2025-09-14, 20:04:44](https://news.ycombinator.com/item?id=45242788) - [Vibe coding has turned senior devs into 'AI babysitters'](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
