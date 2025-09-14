@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-14, 15:44:44",
+      "https://news.ycombinator.com/item?id=45240682"
+    ],
+    [
+      "Writing an operating system kernel from scratch",
+      "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/"
+    ]
+  ],
+  [
+    [
       "2025-09-14, 15:13:42",
       "https://news.ycombinator.com/item?id=45240391"
     ],
@@ -237,16 +247,6 @@
     [
       "MIT-MC CP/M archive files, 1979-1984",
       "https://github.com/MITDDC/cpmarchive-1979-1984"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 15:05:28",
-      "https://news.ycombinator.com/item?id=45212521"
-    ],
-    [
-      "A Trick for Backpropagation of Linear Transformations",
-      "https://tripplyons.com/blog/backprop-trick"
     ]
   ],
   [
