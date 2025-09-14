@@ -8,6 +8,7 @@
 * [2025-09-14, 09:13:39](https://news.ycombinator.com/item?id=45238567) - [The PC was never a true 'IBMer'](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
 * [2025-09-14, 09:04:53](https://news.ycombinator.com/item?id=45238536) - [Gemini (2023)](https://geminiquickst.art/)
 * [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
+* [2025-09-14, 06:42:56](https://news.ycombinator.com/item?id=45237970) - [Cat Aquariums](https://cataquariums.com/)
 * [2025-09-14, 05:49:42](https://news.ycombinator.com/item?id=45237754) - [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B)
 * [2025-09-14, 05:42:38](https://news.ycombinator.com/item?id=45237717) - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
 * [2025-09-14, 04:27:12](https://news.ycombinator.com/item?id=45237442) - [A single, 'naked' black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
