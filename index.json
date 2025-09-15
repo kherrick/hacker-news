@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2025-09-15, 17:46:01",
+      "https://news.ycombinator.com/item?id=45252715"
+    ],
+    [
+      "React is winning by default and slowing innovation",
+      "https://www.lorenstew.art/blog/react-won-by-default/"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 17:44:55",
       "https://news.ycombinator.com/item?id=45252701"
     ],
     [
       "AOMedia Announces Year-End Launch of Next-Gen Video Codec AV2",
       "https://aomedia.org/press%20releases/AOMedia-Announces-Year-End-Launch-of-Next-Generation-Video-Codec-AV2-on-10th-Anniversary/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 17:16:42",
+      "https://news.ycombinator.com/item?id=45252378"
+    ],
+    [
+      "macOS Tahoe",
+      "https://www.apple.com/os/macos/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-09-15, 15:04:24",
-      "https://news.ycombinator.com/item?id=45250540"
-    ],
-    [
-      "Creating a VGA Signal in Hubris",
-      "https://lasernoises.com/blog/hubris-vga/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 14:49:00",
       "https://news.ycombinator.com/item?id=45250370"
     ],
@@ -121,22 +131,22 @@
   ],
   [
     [
+      "2025-09-15, 14:45:45",
+      "https://news.ycombinator.com/item?id=45250328"
+    ],
+    [
+      "GuitarPie: Electric Guitar Fretboard Pie Menus",
+      "https://andreasfender.com/publications.php"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 14:33:41",
       "https://news.ycombinator.com/item?id=45250202"
     ],
     [
       "How to self-host a web font from Google Fonts",
       "https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 14:33:14",
-      "https://news.ycombinator.com/item?id=45250200"
-    ],
-    [
-      "Show HN: MCP Server Installation Instructions Generator",
-      "https://hyprmcp.com/mcp-install-instructions-generator/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-09-15, 03:58:23",
-      "https://news.ycombinator.com/item?id=45245962"
-    ],
-    [
-      "A qualitative analysis of pig-butchering scams",
-      "https://arxiv.org/abs/2503.20821"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 03:54:20",
       "https://news.ycombinator.com/item?id=45245948"
     ],
@@ -237,6 +237,16 @@
     [
       "Show HN: AI-powered web service combining FastAPI, Pydantic-AI, and MCP servers",
       "https://github.com/Aherontas/Pycon_Greece_2025_Presentation_Agents"
+    ]
+  ],
+  [
+    [
+      "2025-09-14, 18:29:24",
+      "https://news.ycombinator.com/item?id=45242122"
+    ],
+    [
+      "Show HN: Datadef.io – Canvas for data lineage and metadata management",
+      "https://datadef.io/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
       "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 11:46:57",
-      "https://news.ycombinator.com/item?id=45221112"
-    ],
-    [
-      "Death to type classes",
-      "https://jappie.me/death-to-type-classes.html"
     ]
   ],
   [
