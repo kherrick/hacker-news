@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-09-15, 03:27:34",
+      "https://news.ycombinator.com/item?id=45245802"
+    ],
+    [
+      "Decentralized YouTube alternative adds livestream scheduling in new release",
+      "https://news.itsfoss.com/peertube-7-3/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 03:18:37",
+      "https://news.ycombinator.com/item?id=45245749"
+    ],
+    [
+      "Not all browsers perform revocation checking",
+      "https://revoked-isrgrootx1.letsencrypt.org/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 03:03:18",
+      "https://news.ycombinator.com/item?id=45245678"
+    ],
+    [
+      "Which NPM package has the largest version number?",
+      "https://adamhl.dev/blog/largest-number-in-npm-package/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 02:02:39",
+      "https://news.ycombinator.com/item?id=45245313"
+    ],
+    [
+      "For Good First Issue – A repository of social impact and open source projects",
+      "https://forgoodfirstissue.github.com/"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 01:28:52",
       "https://news.ycombinator.com/item?id=45245138"
     ],
@@ -171,36 +211,6 @@
   ],
   [
     [
-      "2025-09-14, 07:00:44",
-      "https://news.ycombinator.com/item?id=45238055"
-    ],
-    [
-      "Models of European metro stations",
-      "http://stations.albertguillaumes.cat/"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 05:49:42",
-      "https://news.ycombinator.com/item?id=45237754"
-    ],
-    [
-      "SpikingBrain 7B – More efficient than classic LLMs",
-      "https://github.com/BICLab/SpikingBrain-7B"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 04:27:12",
-      "https://news.ycombinator.com/item?id=45237442"
-    ],
-    [
-      "A single, 'naked' black hole confounds theories of the young cosmos",
-      "https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 16:43:26",
       "https://news.ycombinator.com/item?id=45233415"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2025-09-11, 18:04:20",
-      "https://news.ycombinator.com/item?id=45214386"
+      "2025-09-11, 05:26:19",
+      "https://news.ycombinator.com/item?id=45208102"
     ],
     [
-      "FakeIt: C++ Mocking Made Easy",
-      "https://github.com/eranpeer/FakeIt"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 13:43:58",
-      "https://news.ycombinator.com/item?id=45211580"
-    ],
-    [
-      "La-Proteina",
-      "https://github.com/NVIDIA-Digital-Bio/la-proteina"
+      "Page Object (2013)",
+      "https://martinfowler.com/bliki/PageObject.html"
     ]
   ],
   [
