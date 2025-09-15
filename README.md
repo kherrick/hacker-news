@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-15, 19:45:34](https://news.ycombinator.com/item?id=45254095) - [Europe wants to turn Digital Euro (CBDC) into a stablecoin](https://antongolub.substack.com/p/europe-wants-to-turn-digital-euro)
+* [2025-09-15, 20:26:52](https://news.ycombinator.com/item?id=45254523) - [Show HN: Blocks – Dream work apps and AI agents in minutes](https://blocks.diy)
+* [2025-09-15, 20:07:48](https://news.ycombinator.com/item?id=45254330) - [Scryer Prolog Meetup 2025](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/)
 * [2025-09-15, 19:13:40](https://news.ycombinator.com/item?id=45253760) - [California reached the unthinkable: A union deal with tech giants](https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680)
 * [2025-09-15, 18:45:32](https://news.ycombinator.com/item?id=45253458) - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
 * [2025-09-15, 17:53:19](https://news.ycombinator.com/item?id=45252817) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 * [2025-09-15, 17:46:01](https://news.ycombinator.com/item?id=45252715) - [React is winning by default and slowing innovation](https://www.lorenstew.art/blog/react-won-by-default/)
-* [2025-09-15, 17:44:55](https://news.ycombinator.com/item?id=45252701) - [AOMedia Announces Year-End Launch of Next-Gen Video Codec AV2](https://aomedia.org/press%20releases/AOMedia-Announces-Year-End-Launch-of-Next-Generation-Video-Codec-AV2-on-10th-Anniversary/)
 * [2025-09-15, 17:16:42](https://news.ycombinator.com/item?id=45252378) - [macOS Tahoe](https://www.apple.com/os/macos/)
 * [2025-09-15, 17:10:39](https://news.ycombinator.com/item?id=45252301) - [GPT-5-Codex](https://openai.com/index/introducing-upgrades-to-codex/)
 * [2025-09-15, 16:28:54](https://news.ycombinator.com/item?id=45251690) - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
