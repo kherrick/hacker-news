@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-15, 12:33:28](https://news.ycombinator.com/item?id=45248899) - [How big a solar battery do I need to store *all* my home's electricity?](https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/)
 * [2025-09-15, 12:21:21](https://news.ycombinator.com/item?id=45248802) - [Denmark's Justice Minister calls encrypted messaging a false civil liberty](https://mastodon.social/@chatcontrol/115204439983078498)
 * [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
 * [2025-09-15, 09:46:05](https://news.ycombinator.com/item?id=45247877) - [Amish Men Live Longer](https://plainanabaptistjournal.org/article/id/6590/)
@@ -9,7 +8,6 @@
 * [2025-09-15, 07:14:13](https://news.ycombinator.com/item?id=45246971) - [The Mac App Flea Market](https://blog.jim-nielsen.com/2025/mac-app-flea-market/)
 * [2025-09-15, 07:10:03](https://news.ycombinator.com/item?id=45246953) - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
 * [2025-09-15, 05:30:19](https://news.ycombinator.com/item?id=45246403) - [Celestia – Real-time 3D visualization of space](https://celestiaproject.space/)
-* [2025-09-15, 03:58:23](https://news.ycombinator.com/item?id=45245962) - [A qualitative analysis of pig-butchering scams](https://arxiv.org/abs/2503.20821)
 * [2025-09-15, 03:54:20](https://news.ycombinator.com/item?id=45245948) - [Language Models Pack Billions of Concepts into 12k Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 * [2025-09-15, 03:03:18](https://news.ycombinator.com/item?id=45245678) - [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
 * [2025-09-15, 02:02:39](https://news.ycombinator.com/item?id=45245313) - [For Good First Issue – A repository of social impact and open source projects](https://forgoodfirstissue.github.com/)
@@ -29,7 +27,9 @@
 * [2025-09-11, 21:48:47](https://news.ycombinator.com/item?id=45216460) - [Sandboxing Browser AI Agents](https://www.earlence.com/blog.html#/post/cellmate)
 * [2025-09-11, 21:33:46](https://news.ycombinator.com/item?id=45216327) - [Analyzing the memory ordering models of the Apple M1](https://www.sciencedirect.com/science/article/pii/S1383762124000390)
 * [2025-09-11, 12:21:27](https://news.ycombinator.com/item?id=45210705) - [Learning Lens Blur Fields](https://blur-fields.github.io/)
+* [2025-09-11, 05:26:19](https://news.ycombinator.com/item?id=45208102) - [Page Object (2013)](https://martinfowler.com/bliki/PageObject.html)
 * [2025-09-10, 22:01:45](https://news.ycombinator.com/item?id=45204587) - [You’re a slow thinker. Now what?](https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what)
+* [2025-09-10, 16:32:23](https://news.ycombinator.com/item?id=45200133) - [Introduction to GrapheneOS](https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html)
 
 ## [Archives](archives/index.md)
 
