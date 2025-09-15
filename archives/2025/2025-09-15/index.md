@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 23:02:31](https://news.ycombinator.com/item?id=45256043) - [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
 * [2025-09-15, 21:51:55](https://news.ycombinator.com/item?id=45255400) - [Massive Attack Turns Concert into Facial Recognition Surveillance Experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
 * [2025-09-15, 21:46:19](https://news.ycombinator.com/item?id=45255337) - [Show HN: Pooshit – sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337)
 * [2025-09-15, 21:29:40](https://news.ycombinator.com/item?id=45255155) - [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)

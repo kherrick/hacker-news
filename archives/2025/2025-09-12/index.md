@@ -63,6 +63,7 @@
 * [2025-09-12, 11:29:47](https://news.ycombinator.com/item?id=45221023) - [PythonBPF – Writing eBPF Programs in Pure Python](https://xeon.me/gnome/pythonbpf/)
 * [2025-09-12, 11:15:56](https://news.ycombinator.com/item?id=45220939) - [Self-Assembly Gets Automated in Reverse of 'Game of Life'](https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/)
 * [2025-09-12, 10:59:38](https://news.ycombinator.com/item?id=45220843) - [Astrophysics Source Code Library](http://ascl.net/)
+* [2025-09-12, 10:30:45](https://news.ycombinator.com/item?id=45220697) - [The Rising Sea: Foundations of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
 * [2025-09-12, 10:24:36](https://news.ycombinator.com/item?id=45220656) - [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
 * [2025-09-12, 08:52:53](https://news.ycombinator.com/item?id=45220121) - [All examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples)
 * [2025-09-12, 08:44:24](https://news.ycombinator.com/item?id=45220070) - [What 30k Free Users Taught Me About Charging $10/Month](https://news.ycombinator.com/item?id=45220070)
