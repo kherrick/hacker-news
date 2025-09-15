@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 19:45:34](https://news.ycombinator.com/item?id=45254095) - [Europe wants to turn Digital Euro (CBDC) into a stablecoin](https://antongolub.substack.com/p/europe-wants-to-turn-digital-euro)
 * [2025-09-15, 19:13:40](https://news.ycombinator.com/item?id=45253760) - [California reached the unthinkable: A union deal with tech giants](https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680)
 * [2025-09-15, 18:45:32](https://news.ycombinator.com/item?id=45253458) - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
 * [2025-09-15, 17:53:19](https://news.ycombinator.com/item?id=45252817) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
