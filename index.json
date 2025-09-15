@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-15, 17:16:42",
-      "https://news.ycombinator.com/item?id=45252378"
+      "2025-09-15, 17:53:19",
+      "https://news.ycombinator.com/item?id=45252817"
     ],
     [
-      "macOS Tahoe",
-      "https://www.apple.com/os/macos/"
+      "Hosting a website on a disposable vape",
+      "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 17:46:01",
+      "https://news.ycombinator.com/item?id=45252715"
+    ],
+    [
+      "React Won by Default – and It's Killing Front End Innovation",
+      "https://www.lorenstew.art/blog/react-won-by-default/"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-09-15, 14:59:54",
-      "https://news.ycombinator.com/item?id=45250500"
-    ],
-    [
-      "Meta bypassed Apple privacy protections, claims former employee",
-      "https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 14:49:00",
       "https://news.ycombinator.com/item?id=45250370"
     ],
@@ -107,6 +107,16 @@
     [
       "How to self-host a web font from Google Fonts",
       "https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 14:33:14",
+      "https://news.ycombinator.com/item?id=45250200"
+    ],
+    [
+      "Show HN: MCP Server Installation Instructions Generator",
+      "https://hyprmcp.com/mcp-install-instructions-generator/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-09-15, 13:13:49",
-      "https://news.ycombinator.com/item?id=45249287"
-    ],
-    [
-      "Hosting a website on a disposable vape",
-      "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 12:33:28",
       "https://news.ycombinator.com/item?id=45248899"
     ],
@@ -181,32 +181,12 @@
   ],
   [
     [
-      "2025-09-15, 12:28:24",
-      "https://news.ycombinator.com/item?id=45248868"
-    ],
-    [
-      "Pgstream: Postgres streaming logical replication with DDL changes",
-      "https://github.com/xataio/pgstream"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 09:47:18",
       "https://news.ycombinator.com/item?id=45247890"
     ],
     [
       "RustGPT: A pure-Rust transformer LLM built from scratch",
       "https://github.com/tekaratzas/RustGPT"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 08:32:12",
-      "https://news.ycombinator.com/item?id=45247423"
-    ],
-    [
-      "The Culture novels as a dystopia",
-      "https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2025-09-14, 21:17:56",
+      "https://news.ycombinator.com/item?id=45243320"
+    ],
+    [
+      "Show HN: AI-powered web service combining FastAPI, Pydantic-AI, and MCP servers",
+      "https://github.com/Aherontas/Pycon_Greece_2025_Presentation_Agents"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 16:25:11",
       "https://news.ycombinator.com/item?id=45223827"
     ],
@@ -297,6 +287,16 @@
     [
       "Self-Assembly Gets Automated in Reverse of 'Game of Life'",
       "https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 02:22:22",
+      "https://news.ycombinator.com/item?id=45218046"
+    ],
+    [
+      "Researchers revive the pinhole camera for next-gen infrared imaging",
+      "https://phys.org/news/2025-09-revive-pinhole-camera-gen-infrared.html"
     ]
   ]
 ]
