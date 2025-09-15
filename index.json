@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-15, 11:30:46",
-      "https://news.ycombinator.com/item?id=45248446"
+      "2025-09-15, 12:21:21",
+      "https://news.ycombinator.com/item?id=45248802"
     ],
     [
-      "The $10 Payment That Cost Me $43.95 – The Madness of SaaS Chargebacks",
-      "https://medium.com/@citizenblr/the-10-payment-that-cost-me-43-95-the-madness-of-saas-chargebacks-5c308d5a49cc"
+      "Denmark's Justice Minister calls encrypted messaging a false civil liberty",
+      "https://mastodon.social/@chatcontrol/115204439983078498"
     ]
   ],
   [
@@ -17,6 +17,36 @@
     [
       "RustGPT: A pure-Rust transformer LLM built from scratch",
       "https://github.com/tekaratzas/RustGPT"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 09:46:05",
+      "https://news.ycombinator.com/item?id=45247877"
+    ],
+    [
+      "Amish Men Live Longer",
+      "https://plainanabaptistjournal.org/article/id/6590/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 08:32:12",
+      "https://news.ycombinator.com/item?id=45247423"
+    ],
+    [
+      "The Culture Novels as a Dystopia",
+      "https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 07:14:13",
+      "https://news.ycombinator.com/item?id=45246971"
+    ],
+    [
+      "The Mac App Flea Market",
+      "https://blog.jim-nielsen.com/2025/mac-app-flea-market/"
     ]
   ],
   [
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2025-09-14, 22:08:13",
-      "https://news.ycombinator.com/item?id=45243740"
-    ],
-    [
-      "Trigger Crossbar",
-      "https://serd.es/2025/09/14/Trigger-crossbar.html"
-    ]
-  ],
-  [
-    [
       "2025-09-14, 21:54:07",
       "https://news.ycombinator.com/item?id=45243635"
     ],
     [
       "Betty Crocker broke recipes by shrinking boxes",
       "https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 21:35:42",
-      "https://news.ycombinator.com/item?id=45243439"
-    ],
-    [
-      "AMD Turin PSP binaries analysis from open-source firmware perspective",
-      "https://blog.3mdeb.com/2025/2025-09-11-gigabyte-mz33-ar1-blob-analysis/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Writing an operating system kernel from scratch",
       "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 15:13:42",
-      "https://news.ycombinator.com/item?id=45240391"
-    ],
-    [
-      "Nicu's test website made with SVG (2007)",
-      "https://svg.nicubunu.ro/"
     ]
   ],
   [
@@ -197,6 +197,16 @@
     [
       "NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time",
       "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 20:06:44",
+      "https://news.ycombinator.com/item?id=45226150"
+    ],
+    [
+      "Human writers have always used the em dash",
+      "https://www.theringer.com/2025/08/20/pop-culture/em-dash-use-ai-artificial-intelligence-chatgpt-google-gemini"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "You’re a slow thinker. Now what?",
       "https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 16:32:23",
-      "https://news.ycombinator.com/item?id=45200133"
-    ],
-    [
-      "Introduction to GrapheneOS",
-      "https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html"
     ]
   ]
 ]
