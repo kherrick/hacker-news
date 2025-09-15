@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-15, 16:22:23](https://news.ycombinator.com/item?id=45251593) - [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/)
 * [2025-09-15, 15:51:28](https://news.ycombinator.com/item?id=45251178) - [A string formatting library in 65 lines of C++](https://riki.house/fmt)
+* [2025-09-15, 15:44:29](https://news.ycombinator.com/item?id=45251093) - [Boring Work Needs Tension](https://iaziz786.com/blog/boring-work-needs-tension/)
 * [2025-09-15, 15:20:18](https://news.ycombinator.com/item?id=45250720) - [Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps](https://news.ycombinator.com/item?id=45250720)
 * [2025-09-15, 15:04:24](https://news.ycombinator.com/item?id=45250540) - [Creating a VGA Signal in Hubris](https://lasernoises.com/blog/hubris-vga/)
 * [2025-09-15, 14:59:54](https://news.ycombinator.com/item?id=45250500) - [Meta bypassed Apple privacy protections, claims former employee](https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/)
@@ -13,7 +15,6 @@
 * [2025-09-15, 13:13:49](https://news.ycombinator.com/item?id=45249287) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 * [2025-09-15, 12:33:28](https://news.ycombinator.com/item?id=45248899) - [How big a solar battery do I need to store all my home's electricity?](https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/)
 * [2025-09-15, 12:28:24](https://news.ycombinator.com/item?id=45248868) - [Pgstream: Postgres streaming logical replication with DDL changes](https://github.com/xataio/pgstream)
-* [2025-09-15, 12:21:21](https://news.ycombinator.com/item?id=45248802) - [Denmark's Justice Minister calls encrypted messaging a false civil liberty](https://mastodon.social/@chatcontrol/115204439983078498)
 * [2025-09-15, 11:30:46](https://news.ycombinator.com/item?id=45248446) - [The madness of SaaS chargebacks](https://medium.com/@citizenblr/the-10-payment-that-cost-me-43-95-the-madness-of-saas-chargebacks-5c308d5a49cc)
 * [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
 * [2025-09-15, 08:32:12](https://news.ycombinator.com/item?id=45247423) - [The Culture novels as a dystopia](https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/)
@@ -28,7 +29,6 @@
 * [2025-09-12, 20:06:44](https://news.ycombinator.com/item?id=45226150) - [Human writers have always used the em dash](https://www.theringer.com/2025/08/20/pop-culture/em-dash-use-ai-artificial-intelligence-chatgpt-google-gemini)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
 * [2025-09-12, 11:46:57](https://news.ycombinator.com/item?id=45221112) - [Death to type classes](https://jappie.me/death-to-type-classes.html)
-* [2025-09-12, 11:29:47](https://news.ycombinator.com/item?id=45221023) - [PythonBPF – Writing eBPF Programs in Pure Python](https://xeon.me/gnome/pythonbpf/)
 * [2025-09-12, 04:39:19](https://news.ycombinator.com/item?id=45218681) - [Cory Doctorow: \"centaurs\" and \"reverse-centaurs\"](https://locusmag.com/2025/09/commentary-cory-doctorow-reverse-centaurs/)
 
 ## [Archives](archives/index.md)
