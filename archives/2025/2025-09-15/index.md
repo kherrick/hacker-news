@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 14:11:43](https://news.ycombinator.com/item?id=45249985) - [Programming Deflation](https://tidyfirst.substack.com/p/programming-deflation)
+* [2025-09-15, 14:04:47](https://news.ycombinator.com/item?id=45249915) - [PayPal Ushers in a New Era of Peer-to-Peer Payments with Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
 * [2025-09-15, 14:02:02](https://news.ycombinator.com/item?id=45249878) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
 * [2025-09-15, 13:45:56](https://news.ycombinator.com/item?id=45249697) - [Show HN: Semlib – Semantic Data Processing](https://github.com/anishathalye/semlib)
 * [2025-09-15, 13:29:50](https://news.ycombinator.com/item?id=45249500) - [The Obsolescence of Political Definitions](http://vmchale.com/static/serve/taxonomy.html)
