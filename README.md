@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-15, 17:16:42](https://news.ycombinator.com/item?id=45252378) - [macOS Tahoe](https://www.apple.com/os/macos/)
-* [2025-09-15, 16:52:19](https://news.ycombinator.com/item?id=45251995) - [The U.S. Government's Extraordinary Pursuit of Kilmar Ábrego García](https://www.newyorker.com/news/the-lede/the-us-governments-extraordinary-pursuit-of-kilmar-abrego-garcia)
 * [2025-09-15, 16:28:54](https://news.ycombinator.com/item?id=45251690) - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
 * [2025-09-15, 16:22:23](https://news.ycombinator.com/item?id=45251593) - [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/)
 * [2025-09-15, 16:06:30](https://news.ycombinator.com/item?id=45251375) - [Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format](https://blog.asciinema.org/post/three-point-o/)
@@ -16,6 +15,7 @@
 * [2025-09-15, 14:11:43](https://news.ycombinator.com/item?id=45249985) - [Programming Deflation](https://tidyfirst.substack.com/p/programming-deflation)
 * [2025-09-15, 14:04:47](https://news.ycombinator.com/item?id=45249915) - [PayPal to support Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
 * [2025-09-15, 14:02:02](https://news.ycombinator.com/item?id=45249878) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
+* [2025-09-15, 13:45:56](https://news.ycombinator.com/item?id=45249697) - [Show HN: Semlib – Semantic Data Processing](https://github.com/anishathalye/semlib)
 * [2025-09-15, 13:13:49](https://news.ycombinator.com/item?id=45249287) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 * [2025-09-15, 12:33:28](https://news.ycombinator.com/item?id=45248899) - [How big a solar battery do I need to store all my home's electricity?](https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/)
 * [2025-09-15, 12:28:24](https://news.ycombinator.com/item?id=45248868) - [Pgstream: Postgres streaming logical replication with DDL changes](https://github.com/xataio/pgstream)
