@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-09-15, 16:06:30",
+      "https://news.ycombinator.com/item?id=45251375"
+    ],
+    [
+      "Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format",
+      "https://blog.asciinema.org/post/three-point-o/"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 15:51:28",
       "https://news.ycombinator.com/item?id=45251178"
     ],
@@ -261,26 +271,6 @@
   ],
   [
     [
-      "2025-09-14, 22:15:33",
-      "https://news.ycombinator.com/item?id=45243803"
-    ],
-    [
-      "Grapevine canes can be converted into plastic-like material that will decompose",
-      "https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 21:25:08",
-      "https://news.ycombinator.com/item?id=45226938"
-    ],
-    [
-      "NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time",
-      "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 16:25:11",
       "https://news.ycombinator.com/item?id=45223827"
     ],
@@ -297,6 +287,16 @@
     [
       "Death to type classes",
       "https://jappie.me/death-to-type-classes.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 11:15:56",
+      "https://news.ycombinator.com/item?id=45220939"
+    ],
+    [
+      "Self-Assembly Gets Automated in Reverse of 'Game of Life'",
+      "https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/"
     ]
   ]
 ]
