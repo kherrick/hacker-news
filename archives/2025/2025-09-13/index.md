@@ -12,6 +12,7 @@
 * [2025-09-13, 21:55:42](https://news.ycombinator.com/item?id=45235648) - [Heart attacks may be triggered by bacteria](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
 * [2025-09-13, 21:04:18](https://news.ycombinator.com/item?id=45235293) - [AMD's RDNA4 GPU Architecture at Hot Chips 2025](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot)
 * [2025-09-13, 19:37:49](https://news.ycombinator.com/item?id=45234715) - [WhoBIRD is now deprecated on certified Android devices](https://github.com/woheller69/whoBIRD)
+* [2025-09-13, 19:36:09](https://news.ycombinator.com/item?id=45234707) - [Turgot Map of Paris](https://en.wikipedia.org/wiki/Turgot_map_of_Paris)
 * [2025-09-13, 19:20:01](https://news.ycombinator.com/item?id=45234593) - [An Open-Source Maintainer's Guide to Saying No](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
 * [2025-09-13, 19:13:34](https://news.ycombinator.com/item?id=45234545) - [The tech powering ICE's deportations](https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/)
 * [2025-09-13, 19:00:29](https://news.ycombinator.com/item?id=45234460) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
