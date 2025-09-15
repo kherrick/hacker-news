@@ -6,6 +6,7 @@
 
 * [2025-09-15, 16:28:54](https://news.ycombinator.com/item?id=45251690) - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
 * [2025-09-15, 16:22:23](https://news.ycombinator.com/item?id=45251593) - [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/)
+* [2025-09-15, 16:06:30](https://news.ycombinator.com/item?id=45251375) - [Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format](https://blog.asciinema.org/post/three-point-o/)
 * [2025-09-15, 15:51:28](https://news.ycombinator.com/item?id=45251178) - [A string formatting library in 65 lines of C++](https://riki.house/fmt)
 * [2025-09-15, 15:47:18](https://news.ycombinator.com/item?id=45251124) - [Thought police bill introduced to revoke US passport for criticism of Israel](https://thecradle.co/articles-id/33135)
 * [2025-09-15, 15:44:29](https://news.ycombinator.com/item?id=45251093) - [Boring Work Needs Tension](https://iaziz786.com/blog/boring-work-needs-tension/)
