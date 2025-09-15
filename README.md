@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-15, 11:30:46](https://news.ycombinator.com/item?id=45248446) - [The $10 Payment That Cost Me $43.95 – The Madness of SaaS Chargebacks](https://medium.com/@citizenblr/the-10-payment-that-cost-me-43-95-the-madness-of-saas-chargebacks-5c308d5a49cc)
 * [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
 * [2025-09-15, 07:10:03](https://news.ycombinator.com/item?id=45246953) - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
 * [2025-09-15, 05:30:19](https://news.ycombinator.com/item?id=45246403) - [Celestia – Real-time 3D visualization of space](https://celestiaproject.space/)
@@ -17,7 +18,6 @@
 * [2025-09-14, 15:44:44](https://news.ycombinator.com/item?id=45240682) - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
 * [2025-09-14, 15:13:42](https://news.ycombinator.com/item?id=45240391) - [Nicu's test website made with SVG (2007)](https://svg.nicubunu.ro/)
 * [2025-09-14, 14:46:58](https://news.ycombinator.com/item?id=45240146) - [Why We Spiral](https://behavioralscientist.org/why-we-spiral/)
-* [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-13, 01:40:37](https://news.ycombinator.com/item?id=45228615) - [A set of smooth, fzf-powered shell aliases&functions for systemctl](https://silverrainz.me/blog/2025-09-systemd-fzf-aliases.html)
 * [2025-09-12, 21:25:08](https://news.ycombinator.com/item?id=45226938) - [NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time](https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/)
 * [2025-09-12, 19:43:26](https://news.ycombinator.com/item?id=45225903) - [Which colours dominate movie posters and why?](https://stephenfollows.com/p/which-colours-dominate-movie-posters-and-why)
