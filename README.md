@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-15, 14:33:41](https://news.ycombinator.com/item?id=45250202) - [How to self-host a web font from Google Fonts](https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html)
 * [2025-09-15, 14:11:43](https://news.ycombinator.com/item?id=45249985) - [Programming Deflation](https://tidyfirst.substack.com/p/programming-deflation)
 * [2025-09-15, 14:04:47](https://news.ycombinator.com/item?id=45249915) - [PayPal Ushers in a New Era of Peer-to-Peer Payments with Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
 * [2025-09-15, 14:02:02](https://news.ycombinator.com/item?id=45249878) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
 * [2025-09-15, 13:45:56](https://news.ycombinator.com/item?id=45249697) - [Show HN: Semlib – Semantic Data Processing](https://github.com/anishathalye/semlib)
 * [2025-09-15, 13:29:50](https://news.ycombinator.com/item?id=45249500) - [The Obsolescence of Political Definitions](http://vmchale.com/static/serve/taxonomy.html)
 * [2025-09-15, 13:13:49](https://news.ycombinator.com/item?id=45249287) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+* [2025-09-15, 12:57:28](https://news.ycombinator.com/item?id=45249113) - [My First Year Without an iPhone](https://ktklp.substack.com/p/my-first-year-without-an-iphone)
 * [2025-09-15, 12:28:24](https://news.ycombinator.com/item?id=45248868) - [Pgstream: Postgres streaming logical replication with DDL changes](https://github.com/xataio/pgstream)
 * [2025-09-15, 12:21:21](https://news.ycombinator.com/item?id=45248802) - [Denmark's Justice Minister calls encrypted messaging a false civil liberty](https://mastodon.social/@chatcontrol/115204439983078498)
 * [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
@@ -28,8 +30,6 @@
 * [2025-09-12, 11:29:47](https://news.ycombinator.com/item?id=45221023) - [PythonBPF – Writing eBPF Programs in Pure Python](https://xeon.me/gnome/pythonbpf/)
 * [2025-09-11, 21:48:47](https://news.ycombinator.com/item?id=45216460) - [Sandboxing Browser AI Agents](https://www.earlence.com/blog.html#/post/cellmate)
 * [2025-09-11, 21:33:46](https://news.ycombinator.com/item?id=45216327) - [Analyzing the memory ordering models of the Apple M1](https://www.sciencedirect.com/science/article/pii/S1383762124000390)
-* [2025-09-11, 12:21:27](https://news.ycombinator.com/item?id=45210705) - [Learning Lens Blur Fields](https://blur-fields.github.io/)
-* [2025-09-10, 22:01:45](https://news.ycombinator.com/item?id=45204587) - [You’re a slow thinker. Now what?](https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what)
 
 ## [Archives](archives/index.md)
 
