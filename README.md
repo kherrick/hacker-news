@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-15, 04:51:29](https://news.ycombinator.com/item?id=45246229) - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
 * [2025-09-15, 03:58:23](https://news.ycombinator.com/item?id=45245962) - [\"Hello, Is This Anna?\": Unpacking the Lifecycle of Pig-Butchering Scams](https://arxiv.org/abs/2503.20821)
+* [2025-09-15, 03:54:20](https://news.ycombinator.com/item?id=45245948) - [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 * [2025-09-15, 03:27:34](https://news.ycombinator.com/item?id=45245802) - [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
 * [2025-09-15, 03:18:37](https://news.ycombinator.com/item?id=45245749) - [Not all browsers perform revocation checking](https://revoked-isrgrootx1.letsencrypt.org/)
 * [2025-09-15, 03:03:18](https://news.ycombinator.com/item?id=45245678) - [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
@@ -20,7 +22,6 @@
 * [2025-09-14, 14:46:58](https://news.ycombinator.com/item?id=45240146) - [Why We Spiral](https://behavioralscientist.org/why-we-spiral/)
 * [2025-09-14, 13:23:12](https://news.ycombinator.com/item?id=45239601) - [Read to forget](https://mo42.bearblog.dev/read-to-forget/)
 * [2025-09-14, 11:37:33](https://news.ycombinator.com/item?id=45239085) - [Repetitive negative thinking associated with cognitive decline in older adults](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2)
-* [2025-09-14, 10:32:22](https://news.ycombinator.com/item?id=45238836) - [Fukushima insects tested for cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-12, 19:43:26](https://news.ycombinator.com/item?id=45225903) - [Which colours dominate movie posters and why?](https://stephenfollows.com/p/which-colours-dominate-movie-posters-and-why)
 * [2025-09-11, 21:33:46](https://news.ycombinator.com/item?id=45216327) - [Analyzing the memory ordering models of the Apple M1](https://www.sciencedirect.com/science/article/pii/S1383762124000390)
@@ -28,7 +29,6 @@
 * [2025-09-11, 12:21:27](https://news.ycombinator.com/item?id=45210705) - [Learning Lens Blur Fields](https://blur-fields.github.io/)
 * [2025-09-11, 05:26:19](https://news.ycombinator.com/item?id=45208102) - [Page Object (2013)](https://martinfowler.com/bliki/PageObject.html)
 * [2025-09-10, 22:01:45](https://news.ycombinator.com/item?id=45204587) - [You’re a slow thinker. Now what?](https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what)
-* [2025-09-10, 17:04:29](https://news.ycombinator.com/item?id=45200642) - [Observable Notebooks Data Loaders](https://observablehq.com/notebook-kit/data-loaders)
 * [2025-09-10, 16:32:23](https://news.ycombinator.com/item?id=45200133) - [Introduction to GrapheneOS](https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html)
 
 ## [Archives](archives/index.md)

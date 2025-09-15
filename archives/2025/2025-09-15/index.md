@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 04:51:29](https://news.ycombinator.com/item?id=45246229) - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
 * [2025-09-15, 03:58:23](https://news.ycombinator.com/item?id=45245962) - [\"Hello, Is This Anna?\": Unpacking the Lifecycle of Pig-Butchering Scams](https://arxiv.org/abs/2503.20821)
+* [2025-09-15, 03:54:20](https://news.ycombinator.com/item?id=45245948) - [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 * [2025-09-15, 03:27:34](https://news.ycombinator.com/item?id=45245802) - [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
 * [2025-09-15, 03:18:37](https://news.ycombinator.com/item?id=45245749) - [Not all browsers perform revocation checking](https://revoked-isrgrootx1.letsencrypt.org/)
 * [2025-09-15, 03:03:18](https://news.ycombinator.com/item?id=45245678) - [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
