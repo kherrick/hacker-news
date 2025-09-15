@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-15, 12:33:28",
-      "https://news.ycombinator.com/item?id=45248899"
-    ],
-    [
-      "How big a solar battery do I need to store *all* my home's electricity?",
-      "https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 12:21:21",
       "https://news.ycombinator.com/item?id=45248802"
     ],
@@ -87,16 +77,6 @@
     [
       "Celestia – Real-time 3D visualization of space",
       "https://celestiaproject.space/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 03:58:23",
-      "https://news.ycombinator.com/item?id=45245962"
-    ],
-    [
-      "A qualitative analysis of pig-butchering scams",
-      "https://arxiv.org/abs/2503.20821"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-09-11, 05:26:19",
+      "https://news.ycombinator.com/item?id=45208102"
+    ],
+    [
+      "Page Object (2013)",
+      "https://martinfowler.com/bliki/PageObject.html"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 22:01:45",
       "https://news.ycombinator.com/item?id=45204587"
     ],
     [
       "You’re a slow thinker. Now what?",
       "https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 16:32:23",
+      "https://news.ycombinator.com/item?id=45200133"
+    ],
+    [
+      "Introduction to GrapheneOS",
+      "https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html"
     ]
   ]
 ]
