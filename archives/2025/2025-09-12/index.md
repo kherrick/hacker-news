@@ -15,6 +15,7 @@
 * [2025-09-12, 20:17:23](https://news.ycombinator.com/item?id=45226277) - [I made a small site to share text and files for free, no ads, no registration](https://www.dum.pt/)
 * [2025-09-12, 20:09:18](https://news.ycombinator.com/item?id=45226186) - [North Korea executing more people for watching foreign films and TV, UN finds](https://www.bbc.com/news/articles/ckgqdz17ye3o)
 * [2025-09-12, 20:06:44](https://news.ycombinator.com/item?id=45226150) - [Human writers have always used the em dash](https://www.theringer.com/2025/08/20/pop-culture/em-dash-use-ai-artificial-intelligence-chatgpt-google-gemini)
+* [2025-09-12, 20:05:05](https://news.ycombinator.com/item?id=45226135) - [I wish my web server were in the corner of my room (2022)](https://interconnected.org/home/2022/10/10/servers)
 * [2025-09-12, 20:00:13](https://news.ycombinator.com/item?id=45226076) - [Hyundai battery plant faces startup delay after US immigration raid, CEO says](https://www.japantimes.co.jp/business/2025/09/12/companies/hyundai-battery-plant-delay/)
 * [2025-09-12, 19:59:22](https://news.ycombinator.com/item?id=45226066) - [Show HN: 47jobs – A Fiverr/Upwork for AI Agents](https://47jobs.xyz)
 * [2025-09-12, 19:47:57](https://news.ycombinator.com/item?id=45225965) - [On Charlie Kirk and Saving Civil Society](https://calnewport.com/on-charlie-kirk-and-saving-civil-society/)

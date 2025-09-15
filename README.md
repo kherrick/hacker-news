@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-15, 21:51:55](https://news.ycombinator.com/item?id=45255400) - [Massive Attack Turns Concert into Facial Recognition Surveillance Experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
+* [2025-09-15, 21:46:19](https://news.ycombinator.com/item?id=45255337) - [Show HN: Pooshit – sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337)
+* [2025-09-15, 21:29:40](https://news.ycombinator.com/item?id=45255155) - [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)
 * [2025-09-15, 21:28:01](https://news.ycombinator.com/item?id=45255137) - [William Gibson Reads Neuromancer](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
 * [2025-09-15, 21:27:37](https://news.ycombinator.com/item?id=45255132) - [Imperial Tyranny, Korean Humiliation](https://english.hani.co.kr/arti/english_edition/english_editorials/1218475.html)
-* [2025-09-15, 20:28:32](https://news.ycombinator.com/item?id=45254540) - [Deaths are projected to exceed births in 2031](https://www.cbo.gov/publication/61390)
 * [2025-09-15, 20:07:48](https://news.ycombinator.com/item?id=45254330) - [Scryer Prolog Meetup 2025](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/)
 * [2025-09-15, 19:17:35](https://news.ycombinator.com/item?id=45253807) - [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/)
 * [2025-09-15, 19:14:28](https://news.ycombinator.com/item?id=45253775) - [How People Use ChatGPT [pdf]](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)
@@ -13,7 +15,6 @@
 * [2025-09-15, 17:10:39](https://news.ycombinator.com/item?id=45252301) - [GPT-5-Codex](https://openai.com/index/introducing-upgrades-to-codex/)
 * [2025-09-15, 16:28:54](https://news.ycombinator.com/item?id=45251690) - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
 * [2025-09-15, 16:06:30](https://news.ycombinator.com/item?id=45251375) - [Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format](https://blog.asciinema.org/post/three-point-o/)
-* [2025-09-15, 15:51:28](https://news.ycombinator.com/item?id=45251178) - [A string formatting library in 65 lines of C++](https://riki.house/fmt)
 * [2025-09-15, 15:44:29](https://news.ycombinator.com/item?id=45251093) - [Boring work needs tension](https://iaziz786.com/blog/boring-work-needs-tension/)
 * [2025-09-15, 15:20:18](https://news.ycombinator.com/item?id=45250720) - [Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps](https://news.ycombinator.com/item?id=45250720)
 * [2025-09-15, 14:45:45](https://news.ycombinator.com/item?id=45250328) - [GuitarPie: Electric Guitar Fretboard Pie Menus](https://andreasfender.com/publications.php)
@@ -26,10 +27,9 @@
 * [2025-09-15, 07:10:03](https://news.ycombinator.com/item?id=45246953) - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
 * [2025-09-14, 21:17:56](https://news.ycombinator.com/item?id=45243320) - [Show HN: AI-powered web service combining FastAPI, Pydantic-AI, and MCP servers](https://github.com/Aherontas/Pycon_Greece_2025_Presentation_Agents)
 * [2025-09-13, 19:36:09](https://news.ycombinator.com/item?id=45234707) - [Turgot Map of Paris](https://en.wikipedia.org/wiki/Turgot_map_of_Paris)
-* [2025-09-13, 00:45:31](https://news.ycombinator.com/item?id=45228314) - [California’s Alo Slebir unofficially broke the big wave surfing world record](https://www.sfgate.com/sports/article/alo-slebir-mavericks-big-wave-surf-record-21041864.php)
+* [2025-09-12, 20:05:05](https://news.ycombinator.com/item?id=45226135) - [I wish my web server were in the corner of my room (2022)](https://interconnected.org/home/2022/10/10/servers)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
 * [2025-09-12, 02:28:15](https://news.ycombinator.com/item?id=45218080) - [When Your Father Is a Magician, What Do You Believe?](https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/)
-* [2025-09-12, 02:22:22](https://news.ycombinator.com/item?id=45218046) - [Researchers revive the pinhole camera for next-gen infrared imaging](https://phys.org/news/2025-09-revive-pinhole-camera-gen-infrared.html)
 
 ## [Archives](archives/index.md)
 
