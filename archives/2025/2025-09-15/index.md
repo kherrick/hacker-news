@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 05:06:07](https://news.ycombinator.com/item?id=45246282) - [US taxpayers to pay billions in fuel subsidies thanks to Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)
 * [2025-09-15, 04:51:29](https://news.ycombinator.com/item?id=45246229) - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
 * [2025-09-15, 03:58:23](https://news.ycombinator.com/item?id=45245962) - [\"Hello, Is This Anna?\": Unpacking the Lifecycle of Pig-Butchering Scams](https://arxiv.org/abs/2503.20821)
 * [2025-09-15, 03:54:20](https://news.ycombinator.com/item?id=45245948) - [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)

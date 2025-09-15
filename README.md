@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-15, 05:06:07](https://news.ycombinator.com/item?id=45246282) - [US taxpayers to pay billions in fuel subsidies thanks to Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)
 * [2025-09-15, 04:51:29](https://news.ycombinator.com/item?id=45246229) - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
 * [2025-09-15, 03:58:23](https://news.ycombinator.com/item?id=45245962) - [\"Hello, Is This Anna?\": Unpacking the Lifecycle of Pig-Butchering Scams](https://arxiv.org/abs/2503.20821)
 * [2025-09-15, 03:54:20](https://news.ycombinator.com/item?id=45245948) - [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
@@ -12,7 +13,6 @@
 * [2025-09-14, 22:29:49](https://news.ycombinator.com/item?id=45243925) - [Titania Programming Language](https://github.com/gingerBill/titania)
 * [2025-09-14, 22:22:32](https://news.ycombinator.com/item?id=45243867) - [Cannabis use associated with quadrupled risk of developing type 2 diabetes](https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html)
 * [2025-09-14, 22:15:33](https://news.ycombinator.com/item?id=45243803) - [Grapevine canes can be converted into plastic-like material that will decompose](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
-* [2025-09-14, 22:14:56](https://news.ycombinator.com/item?id=45243800) - [Website is hosted on a disposable vape](http://ewaste.fka.wtf/)
 * [2025-09-14, 22:08:13](https://news.ycombinator.com/item?id=45243740) - [Trigger Crossbar](https://serd.es/2025/09/14/Trigger-crossbar.html)
 * [2025-09-14, 21:54:07](https://news.ycombinator.com/item?id=45243635) - [Betty Crocker broke recipes by shrinking boxes](https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058)
 * [2025-09-14, 21:35:42](https://news.ycombinator.com/item?id=45243439) - [AMD Turin PSP binaries analysis from open-source firmware perspective](https://blog.3mdeb.com/2025/2025-09-11-gigabyte-mz33-ar1-blob-analysis/)
