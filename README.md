@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-15, 21:28:01](https://news.ycombinator.com/item?id=45255137) - [William Gibson Reads Neuromancer](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
+* [2025-09-15, 21:27:37](https://news.ycombinator.com/item?id=45255132) - [Imperial Tyranny, Korean Humiliation](https://english.hani.co.kr/arti/english_edition/english_editorials/1218475.html)
 * [2025-09-15, 20:28:32](https://news.ycombinator.com/item?id=45254540) - [Deaths are projected to exceed births in 2031](https://www.cbo.gov/publication/61390)
-* [2025-09-15, 20:26:52](https://news.ycombinator.com/item?id=45254523) - [Show HN: Blocks – Dream work apps and AI agents in minutes](https://blocks.diy)
 * [2025-09-15, 20:07:48](https://news.ycombinator.com/item?id=45254330) - [Scryer Prolog Meetup 2025](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/)
+* [2025-09-15, 19:17:35](https://news.ycombinator.com/item?id=45253807) - [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/)
 * [2025-09-15, 19:14:28](https://news.ycombinator.com/item?id=45253775) - [How People Use ChatGPT [pdf]](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)
 * [2025-09-15, 18:45:32](https://news.ycombinator.com/item?id=45253458) - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
 * [2025-09-15, 17:53:19](https://news.ycombinator.com/item?id=45252817) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
@@ -27,7 +28,6 @@
 * [2025-09-13, 19:36:09](https://news.ycombinator.com/item?id=45234707) - [Turgot Map of Paris](https://en.wikipedia.org/wiki/Turgot_map_of_Paris)
 * [2025-09-13, 00:45:31](https://news.ycombinator.com/item?id=45228314) - [California’s Alo Slebir unofficially broke the big wave surfing world record](https://www.sfgate.com/sports/article/alo-slebir-mavericks-big-wave-surf-record-21041864.php)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
-* [2025-09-12, 11:15:56](https://news.ycombinator.com/item?id=45220939) - [Self-Assembly Gets Automated in Reverse of 'Game of Life'](https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/)
 * [2025-09-12, 02:28:15](https://news.ycombinator.com/item?id=45218080) - [When Your Father Is a Magician, What Do You Believe?](https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/)
 * [2025-09-12, 02:22:22](https://news.ycombinator.com/item?id=45218046) - [Researchers revive the pinhole camera for next-gen infrared imaging](https://phys.org/news/2025-09-revive-pinhole-camera-gen-infrared.html)
 
