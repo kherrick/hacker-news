@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 18:45:32](https://news.ycombinator.com/item?id=45253458) - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
 * [2025-09-15, 17:53:19](https://news.ycombinator.com/item?id=45252817) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 * [2025-09-15, 17:46:01](https://news.ycombinator.com/item?id=45252715) - [React Won by Default – and It's Killing Front End Innovation](https://www.lorenstew.art/blog/react-won-by-default/)
 * [2025-09-15, 17:44:55](https://news.ycombinator.com/item?id=45252701) - [AOMedia Announces Year-End Launch of Next-Gen Video Codec AV2](https://aomedia.org/press%20releases/AOMedia-Announces-Year-End-Launch-of-Next-Generation-Video-Codec-AV2-on-10th-Anniversary/)
