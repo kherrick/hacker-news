@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-15, 16:28:54](https://news.ycombinator.com/item?id=45251690) - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
 * [2025-09-15, 16:22:23](https://news.ycombinator.com/item?id=45251593) - [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/)
 * [2025-09-15, 15:51:28](https://news.ycombinator.com/item?id=45251178) - [A string formatting library in 65 lines of C++](https://riki.house/fmt)
 * [2025-09-15, 15:44:29](https://news.ycombinator.com/item?id=45251093) - [Boring Work Needs Tension](https://iaziz786.com/blog/boring-work-needs-tension/)
@@ -7,6 +8,7 @@
 * [2025-09-15, 15:04:24](https://news.ycombinator.com/item?id=45250540) - [Creating a VGA Signal in Hubris](https://lasernoises.com/blog/hubris-vga/)
 * [2025-09-15, 14:59:54](https://news.ycombinator.com/item?id=45250500) - [Meta bypassed Apple privacy protections, claims former employee](https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/)
 * [2025-09-15, 14:49:00](https://news.ycombinator.com/item?id=45250370) - [Apple has a private CSS property to add Liquid Glass effects to web content](https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/)
+* [2025-09-15, 14:33:41](https://news.ycombinator.com/item?id=45250202) - [How to self-host a web font from Google Fonts](https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html)
 * [2025-09-15, 14:32:22](https://news.ycombinator.com/item?id=45250193) - [Show HN: Daffodil – Open-Source Ecommerce Framework to connect to any platform](https://github.com/graycoreio/daffodil)
 * [2025-09-15, 14:11:43](https://news.ycombinator.com/item?id=45249985) - [Programming Deflation](https://tidyfirst.substack.com/p/programming-deflation)
 * [2025-09-15, 14:04:47](https://news.ycombinator.com/item?id=45249915) - [PayPal to support Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
@@ -15,7 +17,6 @@
 * [2025-09-15, 13:13:49](https://news.ycombinator.com/item?id=45249287) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 * [2025-09-15, 12:33:28](https://news.ycombinator.com/item?id=45248899) - [How big a solar battery do I need to store all my home's electricity?](https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/)
 * [2025-09-15, 12:28:24](https://news.ycombinator.com/item?id=45248868) - [Pgstream: Postgres streaming logical replication with DDL changes](https://github.com/xataio/pgstream)
-* [2025-09-15, 11:30:46](https://news.ycombinator.com/item?id=45248446) - [The madness of SaaS chargebacks](https://medium.com/@citizenblr/the-10-payment-that-cost-me-43-95-the-madness-of-saas-chargebacks-5c308d5a49cc)
 * [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
 * [2025-09-15, 08:32:12](https://news.ycombinator.com/item?id=45247423) - [The Culture novels as a dystopia](https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/)
 * [2025-09-15, 08:28:09](https://news.ycombinator.com/item?id=45247396) - [Show HN: I reverse engineered macOS to allow custom Lock Screen wallpapers](https://cindori.com/backdrop)
@@ -25,11 +26,10 @@
 * [2025-09-15, 03:54:20](https://news.ycombinator.com/item?id=45245948) - [Language Models Pack Billions of Concepts into 12k Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 * [2025-09-15, 03:18:37](https://news.ycombinator.com/item?id=45245749) - [Not all browsers perform revocation checking](https://revoked-isrgrootx1.letsencrypt.org/)
 * [2025-09-15, 03:03:18](https://news.ycombinator.com/item?id=45245678) - [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
+* [2025-09-14, 22:15:33](https://news.ycombinator.com/item?id=45243803) - [Grapevine canes can be converted into plastic-like material that will decompose](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
 * [2025-09-12, 21:25:08](https://news.ycombinator.com/item?id=45226938) - [NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time](https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/)
-* [2025-09-12, 20:06:44](https://news.ycombinator.com/item?id=45226150) - [Human writers have always used the em dash](https://www.theringer.com/2025/08/20/pop-culture/em-dash-use-ai-artificial-intelligence-chatgpt-google-gemini)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
 * [2025-09-12, 11:46:57](https://news.ycombinator.com/item?id=45221112) - [Death to type classes](https://jappie.me/death-to-type-classes.html)
-* [2025-09-12, 04:39:19](https://news.ycombinator.com/item?id=45218681) - [Cory Doctorow: \"centaurs\" and \"reverse-centaurs\"](https://locusmag.com/2025/09/commentary-cory-doctorow-reverse-centaurs/)
 
 ## [Archives](archives/index.md)
 
