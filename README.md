@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-15, 02:08:07](https://news.ycombinator.com/item?id=45245336) - [Thought police bill introduced to revoke US passport for Israel criticism](https://thecradle.co/articles-id/33135)
 * [2025-09-15, 01:28:52](https://news.ycombinator.com/item?id=45245138) - [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://daggerjs.org)
 * [2025-09-15, 01:02:09](https://news.ycombinator.com/item?id=45244985) - [AI False information rate for news nearly doubles in one year](https://www.newsguardtech.com/ai-monitor/august-2025-ai-false-claim-monitor/)
 * [2025-09-14, 23:20:01](https://news.ycombinator.com/item?id=45244295) - [Gentoo AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
@@ -24,6 +23,7 @@
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-12, 19:43:26](https://news.ycombinator.com/item?id=45225903) - [Which colours dominate movie posters and why?](https://stephenfollows.com/p/which-colours-dominate-movie-posters-and-why)
+* [2025-09-11, 21:33:46](https://news.ycombinator.com/item?id=45216327) - [Analyzing the memory ordering models of the Apple M1](https://www.sciencedirect.com/science/article/pii/S1383762124000390)
 * [2025-09-11, 18:40:17](https://news.ycombinator.com/item?id=45214749) - [Irrlicht Engine – a cross-platform realtime 3D engine](https://irrlicht.sourceforge.io/?page_id=45)
 * [2025-09-11, 18:04:20](https://news.ycombinator.com/item?id=45214386) - [FakeIt: C++ Mocking Made Easy](https://github.com/eranpeer/FakeIt)
 * [2025-09-11, 13:43:58](https://news.ycombinator.com/item?id=45211580) - [La-Proteina](https://github.com/NVIDIA-Digital-Bio/la-proteina)
