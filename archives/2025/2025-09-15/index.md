@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 17:16:42](https://news.ycombinator.com/item?id=45252378) - [macOS Tahoe](https://www.apple.com/os/macos/)
+* [2025-09-15, 16:52:19](https://news.ycombinator.com/item?id=45251995) - [The U.S. Government's Extraordinary Pursuit of Kilmar Ábrego García](https://www.newyorker.com/news/the-lede/the-us-governments-extraordinary-pursuit-of-kilmar-abrego-garcia)
 * [2025-09-15, 16:28:54](https://news.ycombinator.com/item?id=45251690) - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
 * [2025-09-15, 16:22:23](https://news.ycombinator.com/item?id=45251593) - [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/)
 * [2025-09-15, 16:06:30](https://news.ycombinator.com/item?id=45251375) - [Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format](https://blog.asciinema.org/post/three-point-o/)
