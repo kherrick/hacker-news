@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-15, 05:06:07",
-      "https://news.ycombinator.com/item?id=45246282"
-    ],
-    [
-      "US taxpayers to pay billions in fuel subsidies thanks to Big Beautiful Bill",
-      "https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 04:51:29",
       "https://news.ycombinator.com/item?id=45246229"
     ],
@@ -47,16 +37,6 @@
     [
       "Decentralized YouTube alternative adds livestream scheduling in new release",
       "https://news.itsfoss.com/peertube-7-3/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 03:18:37",
-      "https://news.ycombinator.com/item?id=45245749"
-    ],
-    [
-      "Not all browsers perform revocation checking",
-      "https://revoked-isrgrootx1.letsencrypt.org/"
     ]
   ],
   [
@@ -107,16 +87,6 @@
     [
       "Titania Programming Language",
       "https://github.com/gingerBill/titania"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 22:22:32",
-      "https://news.ycombinator.com/item?id=45243867"
-    ],
-    [
-      "Cannabis use associated with quadrupled risk of developing type 2 diabetes",
-      "https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html"
     ]
   ],
   [
@@ -221,6 +191,16 @@
   ],
   [
     [
+      "2025-09-14, 10:32:22",
+      "https://news.ycombinator.com/item?id=45238836"
+    ],
+    [
+      "Fukushima insects tested for cognition",
+      "https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 12:02:11",
       "https://news.ycombinator.com/item?id=45231378"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-09-12, 11:46:57",
+      "https://news.ycombinator.com/item?id=45221112"
+    ],
+    [
+      "Death to Type Classes",
+      "https://jappie.me/death-to-type-classes.html"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 21:33:46",
       "https://news.ycombinator.com/item?id=45216327"
     ],
@@ -257,6 +247,16 @@
     [
       "Irrlicht Engine – a cross-platform realtime 3D engine",
       "https://irrlicht.sourceforge.io/?page_id=45"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 18:04:20",
+      "https://news.ycombinator.com/item?id=45214386"
+    ],
+    [
+      "FakeIt: C++ Mocking Made Easy",
+      "https://github.com/eranpeer/FakeIt"
     ]
   ],
   [
