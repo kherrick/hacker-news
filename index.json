@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-15, 15:47:18",
-      "https://news.ycombinator.com/item?id=45251124"
+      "2025-09-15, 15:51:28",
+      "https://news.ycombinator.com/item?id=45251178"
     ],
     [
-      "Thought police bill introduced to revoke US passport for criticism of Israel",
-      "https://thecradle.co/articles-id/33135"
+      "A string formatting library in 65 lines of C++",
+      "https://riki.house/fmt"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Apple has a private CSS property to add Liquid Glass effects to web content",
       "https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 14:33:41",
-      "https://news.ycombinator.com/item?id=45250202"
-    ],
-    [
-      "How to self-host a web font from Google Fonts",
-      "https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html"
     ]
   ],
   [
@@ -107,16 +97,6 @@
     [
       "Show HN: Semlib – Semantic Data Processing",
       "https://github.com/anishathalye/semlib"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 13:29:50",
-      "https://news.ycombinator.com/item?id=45249500"
-    ],
-    [
-      "The Obsolescence of Political Definitions (1991)",
-      "http://vmchale.com/static/serve/taxonomy.html"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-09-15, 03:58:23",
+      "https://news.ycombinator.com/item?id=45245962"
+    ],
+    [
+      "A qualitative analysis of pig-butchering scams",
+      "https://arxiv.org/abs/2503.20821"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 03:54:20",
       "https://news.ycombinator.com/item?id=45245948"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2025-09-14, 21:54:07",
-      "https://news.ycombinator.com/item?id=45243635"
+      "2025-09-15, 03:18:37",
+      "https://news.ycombinator.com/item?id=45245749"
     ],
     [
-      "Betty Crocker broke recipes by shrinking boxes",
-      "https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058"
+      "Not all browsers perform revocation checking",
+      "https://revoked-isrgrootx1.letsencrypt.org/"
     ]
   ],
   [
     [
-      "2025-09-13, 01:40:37",
-      "https://news.ycombinator.com/item?id=45228615"
+      "2025-09-15, 03:03:18",
+      "https://news.ycombinator.com/item?id=45245678"
     ],
     [
-      "A set of smooth, fzf-powered shell aliases&functions for systemctl",
-      "https://silverrainz.me/blog/2025-09-systemd-fzf-aliases.html"
+      "Which NPM package has the largest version number?",
+      "https://adamhl.dev/blog/largest-number-in-npm-package/"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-09-12, 20:06:44",
+      "https://news.ycombinator.com/item?id=45226150"
+    ],
+    [
+      "Human writers have always used the em dash",
+      "https://www.theringer.com/2025/08/20/pop-culture/em-dash-use-ai-artificial-intelligence-chatgpt-google-gemini"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 16:25:11",
       "https://news.ycombinator.com/item?id=45223827"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-09-12, 14:44:55",
-      "https://news.ycombinator.com/item?id=45222705"
+      "2025-09-12, 11:46:57",
+      "https://news.ycombinator.com/item?id=45221112"
     ],
     [
-      "Jef Raskin's cul-de-sac and the quest for the humane computer",
-      "https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/"
+      "Death to type classes",
+      "https://jappie.me/death-to-type-classes.html"
     ]
   ],
   [
