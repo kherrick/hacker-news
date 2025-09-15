@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-09-14, 11:37:33",
-      "https://news.ycombinator.com/item?id=45239085"
-    ],
-    [
-      "Repetitive negative thinking associated with cognitive decline in older adults",
-      "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 12:02:11",
       "https://news.ycombinator.com/item?id=45231378"
     ],
@@ -217,6 +207,16 @@
     [
       "Which colours dominate movie posters and why?",
       "https://stephenfollows.com/p/which-colours-dominate-movie-posters-and-why"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 16:25:11",
+      "https://news.ycombinator.com/item?id=45223827"
+    ],
+    [
+      "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
+      "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html"
     ]
   ],
   [
