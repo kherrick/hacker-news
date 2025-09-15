@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-15, 13:45:56",
+      "https://news.ycombinator.com/item?id=45249697"
+    ],
+    [
+      "Show HN: Semlib – Semantic Data Processing",
+      "https://github.com/anishathalye/semlib"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 13:29:50",
       "https://news.ycombinator.com/item?id=45249500"
     ],
@@ -27,6 +37,16 @@
     [
       "Hosting a WebSite on a Disposable Vape",
       "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 12:28:24",
+      "https://news.ycombinator.com/item?id=45248868"
+    ],
+    [
+      "Pgstream: Postgres streaming logical replication with DDL changes",
+      "https://github.com/xataio/pgstream"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "How does air pollution impact your brain?",
       "https://neurofrontiers.blog/how-does-air-pollution-impact-your-brain/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 08:32:12",
-      "https://news.ycombinator.com/item?id=45247423"
-    ],
-    [
-      "The Culture Novels as a Dystopia",
-      "https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "OCSP Service Has Reached End of Life",
       "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 15:44:44",
-      "https://news.ycombinator.com/item?id=45240682"
-    ],
-    [
-      "Writing an operating system kernel from scratch",
-      "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/"
     ]
   ],
   [
