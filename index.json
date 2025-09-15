@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-09-15, 15:20:18",
+      "https://news.ycombinator.com/item?id=45250720"
+    ],
+    [
+      "Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps",
+      "https://news.ycombinator.com/item?id=45250720"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 15:13:09",
+      "https://news.ycombinator.com/item?id=45250638"
+    ],
+    [
+      "The Washington Post Fired Me – But My Voice Will Not Be Silenced",
+      "https://karenattiah.substack.com/p/the-washington-post-fired-me-but"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 14:59:54",
+      "https://news.ycombinator.com/item?id=45250500"
+    ],
+    [
+      "Meta bypassed Apple privacy protections, claims former employee",
+      "https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 14:49:00",
+      "https://news.ycombinator.com/item?id=45250370"
+    ],
+    [
+      "Apple has a private CSS property to add Liquid Glass effects to web content",
+      "https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 14:33:41",
       "https://news.ycombinator.com/item?id=45250202"
     ],
     [
       "How to self-host a web font from Google Fonts",
       "https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 14:32:22",
+      "https://news.ycombinator.com/item?id=45250193"
+    ],
+    [
+      "Show HN: Daffodil – Open-Source Ecommerce Framework to connect to any platform",
+      "https://github.com/graycoreio/daffodil"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "Hosting a website on a disposable vape",
       "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 12:57:28",
-      "https://news.ycombinator.com/item?id=45249113"
-    ],
-    [
-      "My First Year Without an iPhone",
-      "https://ktklp.substack.com/p/my-first-year-without-an-iphone"
     ]
   ],
   [
@@ -171,36 +211,6 @@
   ],
   [
     [
-      "2025-09-15, 03:03:18",
-      "https://news.ycombinator.com/item?id=45245678"
-    ],
-    [
-      "Which NPM package has the largest version number?",
-      "https://adamhl.dev/blog/largest-number-in-npm-package/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 02:02:39",
-      "https://news.ycombinator.com/item?id=45245313"
-    ],
-    [
-      "For Good First Issue – A repository of social impact and open source projects",
-      "https://forgoodfirstissue.github.com/"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 22:15:33",
-      "https://news.ycombinator.com/item?id=45243803"
-    ],
-    [
-      "Grapevine canes can be converted into plastic-like material that will decompose",
-      "https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem"
-    ]
-  ],
-  [
-    [
       "2025-09-14, 21:54:07",
       "https://news.ycombinator.com/item?id=45243635"
     ],
@@ -227,16 +237,6 @@
     [
       "NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time",
       "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 19:43:26",
-      "https://news.ycombinator.com/item?id=45225903"
-    ],
-    [
-      "Which colours dominate movie posters and why?",
-      "https://stephenfollows.com/p/which-colours-dominate-movie-posters-and-why"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-09-12, 04:39:19",
+      "https://news.ycombinator.com/item?id=45218681"
+    ],
+    [
+      "Cory Doctorow: \"centaurs\" and \"reverse-centaurs\"",
+      "https://locusmag.com/2025/09/commentary-cory-doctorow-reverse-centaurs/"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 21:48:47",
       "https://news.ycombinator.com/item?id=45216460"
     ],
     [
       "Sandboxing Browser AI Agents",
       "https://www.earlence.com/blog.html#/post/cellmate"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 21:33:46",
-      "https://news.ycombinator.com/item?id=45216327"
-    ],
-    [
-      "Analyzing the memory ordering models of the Apple M1",
-      "https://www.sciencedirect.com/science/article/pii/S1383762124000390"
     ]
   ]
 ]
