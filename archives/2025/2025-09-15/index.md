@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 12:33:28](https://news.ycombinator.com/item?id=45248899) - [How big a solar battery do I need to store *all* my home's electricity?](https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/)
 * [2025-09-15, 12:21:21](https://news.ycombinator.com/item?id=45248802) - [Denmark's Justice Minister calls encrypted messaging a false civil liberty](https://mastodon.social/@chatcontrol/115204439983078498)
 * [2025-09-15, 11:30:46](https://news.ycombinator.com/item?id=45248446) - [The $10 Payment That Cost Me $43.95 – The Madness of SaaS Chargebacks](https://medium.com/@citizenblr/the-10-payment-that-cost-me-43-95-the-madness-of-saas-chargebacks-5c308d5a49cc)
 * [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
 * [2025-09-15, 09:46:05](https://news.ycombinator.com/item?id=45247877) - [Amish Men Live Longer](https://plainanabaptistjournal.org/article/id/6590/)
+* [2025-09-15, 09:04:23](https://news.ycombinator.com/item?id=45247616) - [How does air pollution impact your brain?](https://neurofrontiers.blog/how-does-air-pollution-impact-your-brain/)
 * [2025-09-15, 08:32:12](https://news.ycombinator.com/item?id=45247423) - [The Culture Novels as a Dystopia](https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/)
 * [2025-09-15, 07:14:13](https://news.ycombinator.com/item?id=45246971) - [The Mac App Flea Market](https://blog.jim-nielsen.com/2025/mac-app-flea-market/)
 * [2025-09-15, 07:10:03](https://news.ycombinator.com/item?id=45246953) - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)

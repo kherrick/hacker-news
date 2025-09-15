@@ -45,6 +45,7 @@
 * [2025-09-12, 14:53:45](https://news.ycombinator.com/item?id=45222799) - [Oq: Terminal OpenAPI Spec Viewer](https://github.com/plutov/oq)
 * [2025-09-12, 14:51:33](https://news.ycombinator.com/item?id=45222777) - [Active phishing campaign targeting crates.io users](https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/)
 * [2025-09-12, 14:50:57](https://news.ycombinator.com/item?id=45222772) - [Crates.io Phishing Attempt](https://fasterthanli.me/articles/crates-io-phishing-attempt)
+* [2025-09-12, 14:45:55](https://news.ycombinator.com/item?id=45222715) - [In the Land of Living Skies: Reacquainting ourselves with the night (2022)](https://harpers.org/archive/2022/05/in-the-land-of-living-skies-reacquainting-ourselves-with-the-night/)
 * [2025-09-12, 14:45:08](https://news.ycombinator.com/item?id=45222709) - [Health care costs are soaring. Blame insurers, drug companies and your employer](https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer)
 * [2025-09-12, 14:44:05](https://news.ycombinator.com/item?id=45222695) - [Many Hard LeetCode Problems Are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-12, 14:12:23](https://news.ycombinator.com/item?id=45222369) - [3D Modeling with Paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
