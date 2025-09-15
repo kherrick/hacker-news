@@ -2,7 +2,6 @@
 
 * [2025-09-15, 05:30:19](https://news.ycombinator.com/item?id=45246403) - [Celestia – real-time 3D visualization of space](https://celestiaproject.space/)
 * [2025-09-15, 05:13:33](https://news.ycombinator.com/item?id=45246325) - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)
-* [2025-09-15, 04:56:24](https://news.ycombinator.com/item?id=45246247) - [Americans Crushed by Auto Loans as Defaults and Repossessions Surge](https://www.carscoops.com/2025/09/auto-loan-delinquencies-are-off-the-dial-and-even-prime-borrowers-are-struggling/)
 * [2025-09-15, 04:51:29](https://news.ycombinator.com/item?id=45246229) - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
 * [2025-09-15, 03:58:23](https://news.ycombinator.com/item?id=45245962) - [A qualitative analysis of pig-butchering scams](https://arxiv.org/abs/2503.20821)
 * [2025-09-15, 03:54:20](https://news.ycombinator.com/item?id=45245948) - [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
@@ -22,6 +21,7 @@
 * [2025-09-14, 14:46:58](https://news.ycombinator.com/item?id=45240146) - [Why We Spiral](https://behavioralscientist.org/why-we-spiral/)
 * [2025-09-14, 13:23:12](https://news.ycombinator.com/item?id=45239601) - [Read to forget](https://mo42.bearblog.dev/read-to-forget/)
 * [2025-09-14, 11:37:33](https://news.ycombinator.com/item?id=45239085) - [Repetitive negative thinking associated with cognitive decline in older adults](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2)
+* [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-12, 19:43:26](https://news.ycombinator.com/item?id=45225903) - [Which colours dominate movie posters and why?](https://stephenfollows.com/p/which-colours-dominate-movie-posters-and-why)
 * [2025-09-12, 11:46:57](https://news.ycombinator.com/item?id=45221112) - [Death to Type Classes](https://jappie.me/death-to-type-classes.html)
 * [2025-09-12, 11:29:47](https://news.ycombinator.com/item?id=45221023) - [PythonBPF – Writing eBPF Programs in Pure Python](https://xeon.me/gnome/pythonbpf/)
