@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 15:47:18](https://news.ycombinator.com/item?id=45251124) - [Thought police bill introduced to revoke US passport for criticism of Israel](https://thecradle.co/articles-id/33135)
 * [2025-09-15, 15:20:18](https://news.ycombinator.com/item?id=45250720) - [Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps](https://news.ycombinator.com/item?id=45250720)
 * [2025-09-15, 15:13:09](https://news.ycombinator.com/item?id=45250638) - [The Washington Post Fired Me – But My Voice Will Not Be Silenced](https://karenattiah.substack.com/p/the-washington-post-fired-me-but)
 * [2025-09-15, 15:04:24](https://news.ycombinator.com/item?id=45250540) - [Creating a VGA Signal in Hubris](https://lasernoises.com/blog/hubris-vga/)
