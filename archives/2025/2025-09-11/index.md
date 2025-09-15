@@ -9,6 +9,7 @@
 * [2025-09-11, 22:41:43](https://news.ycombinator.com/item?id=45216844) - [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
 * [2025-09-11, 22:35:36](https://news.ycombinator.com/item?id=45216805) - [Danish supermarket chain is setting up \"Emergency Stores\"](https://swiss.social/@swaldorff/115186445638788782)
 * [2025-09-11, 22:03:54](https://news.ycombinator.com/item?id=45216578) - [Patela: A basement full of amnesic servers](https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/)
+* [2025-09-11, 21:48:47](https://news.ycombinator.com/item?id=45216460) - [Sandboxing Browser AI Agents](https://www.earlence.com/blog.html#/post/cellmate)
 * [2025-09-11, 21:33:46](https://news.ycombinator.com/item?id=45216327) - [Analyzing the memory ordering models of the Apple M1](https://www.sciencedirect.com/science/article/pii/S1383762124000390)
 * [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How palantir is mapping everyone's data for the government](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
 * [2025-09-11, 20:50:54](https://news.ycombinator.com/item?id=45215984) - [How Palantir Is Mapping Everyone's Data for the Government](https://www.techdirt.com/2025/09/11/how-palantir-is-mapping-everyones-data-for-the-government/)
