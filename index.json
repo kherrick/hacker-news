@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-09-15, 00:20:59",
+      "https://news.ycombinator.com/item?id=45244733"
+    ],
+    [
+      "Rebutting 33 False Claims About Solar, Wind, and Electric Vehicles",
+      "https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=1218&context=sabin_climate_change"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 00:00:17",
+      "https://news.ycombinator.com/item?id=45244601"
+    ],
+    [
+      "J-Link RTT for the Masses using Semihosting on ARM",
+      "https://bogdanthegeek.github.io/blog/insights/jlink-rtt-for-the-masses/"
+    ]
+  ],
+  [
+    [
+      "2025-09-14, 23:20:01",
+      "https://news.ycombinator.com/item?id=45244295"
+    ],
+    [
+      "Gentoo AI Policy",
+      "https://wiki.gentoo.org/wiki/Project:Council/AI_policy"
+    ]
+  ],
+  [
+    [
+      "2025-09-14, 22:46:35",
+      "https://news.ycombinator.com/item?id=45244049"
+    ],
+    [
+      "California age verification bill backed by Google, Meta, OpenAI heads to Newsom",
+      "https://www.politico.com/news/2025/09/13/california-advances-effort-to-check-kids-ages-online-amid-safety-concerns-00563005"
+    ]
+  ],
+  [
+    [
       "2025-09-14, 22:29:49",
       "https://news.ycombinator.com/item?id=45243925"
     ],
@@ -61,12 +101,12 @@
   ],
   [
     [
-      "2025-09-14, 20:36:14",
-      "https://news.ycombinator.com/item?id=45243019"
+      "2025-09-14, 21:35:42",
+      "https://news.ycombinator.com/item?id=45243439"
     ],
     [
-      "My thoughts on renting versus buying",
-      "https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/"
+      "AMD Turin PSP binaries analysis from open-source firmware perspective",
+      "https://blog.3mdeb.com/2025/2025-09-11-gigabyte-mz33-ar1-blob-analysis/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2025-09-14, 15:05:28",
-      "https://news.ycombinator.com/item?id=45240304"
-    ],
-    [
-      "Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud",
-      "https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/"
-    ]
-  ],
-  [
-    [
       "2025-09-14, 14:46:58",
       "https://news.ycombinator.com/item?id=45240146"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-09-14, 09:13:39",
-      "https://news.ycombinator.com/item?id=45238567"
-    ],
-    [
-      "The PC was never a true 'IBMer'",
-      "https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer"
-    ]
-  ],
-  [
-    [
       "2025-09-14, 07:00:44",
       "https://news.ycombinator.com/item?id=45238055"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-09-14, 04:27:12",
-      "https://news.ycombinator.com/item?id=45237442"
-    ],
-    [
-      "A single, 'naked' black hole confounds theories of the young cosmos",
-      "https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 16:43:26",
       "https://news.ycombinator.com/item?id=45233415"
     ],
     [
       "Geedge and MESA leak: Analyzing the great firewall’s largest document leak",
       "https://gfw.report/blog/geedge_and_mesa_leak/en/"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 12:02:11",
-      "https://news.ycombinator.com/item?id=45231378"
-    ],
-    [
-      "Show HN: A store that generates products from anything you type in search",
-      "https://anycrap.shop/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2025-09-11, 22:03:54",
-      "https://news.ycombinator.com/item?id=45216578"
-    ],
-    [
-      "Patela: A basement full of amnesic servers",
-      "https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/"
-    ]
-  ],
-  [
-    [
       "2025-09-11, 18:40:17",
       "https://news.ycombinator.com/item?id=45214749"
     ],
     [
       "Irrlicht Engine – a cross-platform realtime 3D engine",
       "https://irrlicht.sourceforge.io/?page_id=45"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 18:04:20",
+      "https://news.ycombinator.com/item?id=45214386"
+    ],
+    [
+      "FakeIt: C++ Mocking Made Easy",
+      "https://github.com/eranpeer/FakeIt"
     ]
   ],
   [
