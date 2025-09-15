@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 17:53:19](https://news.ycombinator.com/item?id=45252817) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+* [2025-09-15, 17:46:01](https://news.ycombinator.com/item?id=45252715) - [React Won by Default – and It's Killing Front End Innovation](https://www.lorenstew.art/blog/react-won-by-default/)
 * [2025-09-15, 17:16:42](https://news.ycombinator.com/item?id=45252378) - [macOS Tahoe](https://www.apple.com/os/macos/)
 * [2025-09-15, 16:52:19](https://news.ycombinator.com/item?id=45251995) - [The U.S. Government's Extraordinary Pursuit of Kilmar Ábrego García](https://www.newyorker.com/news/the-lede/the-us-governments-extraordinary-pursuit-of-kilmar-abrego-garcia)
 * [2025-09-15, 16:28:54](https://news.ycombinator.com/item?id=45251690) - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
@@ -18,6 +20,7 @@
 * [2025-09-15, 14:59:54](https://news.ycombinator.com/item?id=45250500) - [Meta bypassed Apple privacy protections, claims former employee](https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/)
 * [2025-09-15, 14:49:00](https://news.ycombinator.com/item?id=45250370) - [Apple has a private CSS property to add Liquid Glass effects to web content](https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/)
 * [2025-09-15, 14:33:41](https://news.ycombinator.com/item?id=45250202) - [How to self-host a web font from Google Fonts](https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html)
+* [2025-09-15, 14:33:14](https://news.ycombinator.com/item?id=45250200) - [Show HN: MCP Server Installation Instructions Generator](https://hyprmcp.com/mcp-install-instructions-generator/)
 * [2025-09-15, 14:32:22](https://news.ycombinator.com/item?id=45250193) - [Show HN: Daffodil – Open-Source Ecommerce Framework to connect to any platform](https://github.com/graycoreio/daffodil)
 * [2025-09-15, 14:11:43](https://news.ycombinator.com/item?id=45249985) - [Programming Deflation](https://tidyfirst.substack.com/p/programming-deflation)
 * [2025-09-15, 14:04:47](https://news.ycombinator.com/item?id=45249915) - [PayPal Ushers in a New Era of Peer-to-Peer Payments with Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)

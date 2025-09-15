@@ -79,6 +79,7 @@
 * [2025-09-12, 03:43:46](https://news.ycombinator.com/item?id=45218468) - [Wimpy vs. McDonald's: The Battle of the Burgers](https://www.historytoday.com/archive/history-matters/wimpy-vs-mcdonalds-battle-burgers)
 * [2025-09-12, 03:08:50](https://news.ycombinator.com/item?id=45218303) - [Differences between stal/IX and regular Linux](https://stal-ix.github.io/STALIX.html)
 * [2025-09-12, 02:33:54](https://news.ycombinator.com/item?id=45218111) - [Debian 13, Postgres, and the US/* time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
+* [2025-09-12, 02:22:22](https://news.ycombinator.com/item?id=45218046) - [Researchers revive the pinhole camera for next-gen infrared imaging](https://phys.org/news/2025-09-revive-pinhole-camera-gen-infrared.html)
 * [2025-09-12, 02:17:54](https://news.ycombinator.com/item?id=45218017) - [Discovery of a new satellite or ring arc around Quaoar](https://phys.org/news/2025-09-discovery-moon-orbiting-mysterious-distant.html)
 * [2025-09-12, 01:42:37](https://news.ycombinator.com/item?id=45217858) - [The Challenge of Maintaining Curl](https://lwn.net/Articles/1034966/)
 * [2025-09-12, 00:39:47](https://news.ycombinator.com/item?id=45217545) - [We traded blogs for black boxes, now we're paying for it](https://tekhne.dev/internet-resist/)

@@ -13,6 +13,7 @@
 * [2025-09-14, 22:08:13](https://news.ycombinator.com/item?id=45243740) - [Trigger Crossbar](https://serd.es/2025/09/14/Trigger-crossbar.html)
 * [2025-09-14, 21:54:07](https://news.ycombinator.com/item?id=45243635) - [Betty Crocker broke recipes by shrinking boxes](https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058)
 * [2025-09-14, 21:35:42](https://news.ycombinator.com/item?id=45243439) - [AMD Turin PSP binaries analysis from open-source firmware perspective](https://blog.3mdeb.com/2025/2025-09-11-gigabyte-mz33-ar1-blob-analysis/)
+* [2025-09-14, 21:17:56](https://news.ycombinator.com/item?id=45243320) - [Show HN: AI-powered web service combining FastAPI, Pydantic-AI, and MCP servers](https://github.com/Aherontas/Pycon_Greece_2025_Presentation_Agents)
 * [2025-09-14, 20:50:33](https://news.ycombinator.com/item?id=45243123) - [CVC acquires majority stake in Namecheap for $1.5B](https://webhosting.today/2025/09/12/cvc-acquires-majority-stake-in-namecheap-for-1-5-billion/)
 * [2025-09-14, 20:36:14](https://news.ycombinator.com/item?id=45243019) - [My Thoughts on Renting Versus Buying](https://milesbarr.me/posts/my-thoughts-on-renting-versus-buying/)
 * [2025-09-14, 20:04:44](https://news.ycombinator.com/item?id=45242788) - [Vibe coding has turned senior devs into 'AI babysitters'](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
