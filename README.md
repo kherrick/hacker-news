@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-15, 20:28:32](https://news.ycombinator.com/item?id=45254540) - [Deaths are projected to exceed births in 2031](https://www.cbo.gov/publication/61390)
 * [2025-09-15, 20:26:52](https://news.ycombinator.com/item?id=45254523) - [Show HN: Blocks – Dream work apps and AI agents in minutes](https://blocks.diy)
 * [2025-09-15, 20:07:48](https://news.ycombinator.com/item?id=45254330) - [Scryer Prolog Meetup 2025](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/)
-* [2025-09-15, 19:13:40](https://news.ycombinator.com/item?id=45253760) - [California reached the unthinkable: A union deal with tech giants](https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680)
+* [2025-09-15, 19:14:28](https://news.ycombinator.com/item?id=45253775) - [How People Use ChatGPT [pdf]](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)
 * [2025-09-15, 18:45:32](https://news.ycombinator.com/item?id=45253458) - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
 * [2025-09-15, 17:53:19](https://news.ycombinator.com/item?id=45252817) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 * [2025-09-15, 17:46:01](https://news.ycombinator.com/item?id=45252715) - [React is winning by default and slowing innovation](https://www.lorenstew.art/blog/react-won-by-default/)
@@ -16,7 +17,6 @@
 * [2025-09-15, 14:49:00](https://news.ycombinator.com/item?id=45250370) - [Apple has a private CSS property to add Liquid Glass effects to web content](https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/)
 * [2025-09-15, 14:45:45](https://news.ycombinator.com/item?id=45250328) - [GuitarPie: Electric Guitar Fretboard Pie Menus](https://andreasfender.com/publications.php)
 * [2025-09-15, 14:33:41](https://news.ycombinator.com/item?id=45250202) - [How to self-host a web font from Google Fonts](https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html)
-* [2025-09-15, 14:32:22](https://news.ycombinator.com/item?id=45250193) - [Show HN: Daffodil – Open-Source Ecommerce Framework to connect to any platform](https://github.com/graycoreio/daffodil)
 * [2025-09-15, 14:04:47](https://news.ycombinator.com/item?id=45249915) - [PayPal to support Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
 * [2025-09-15, 14:02:02](https://news.ycombinator.com/item?id=45249878) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
 * [2025-09-15, 12:33:28](https://news.ycombinator.com/item?id=45248899) - [How big a solar battery do I need to store all my home's electricity?](https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/)
@@ -27,8 +27,8 @@
 * [2025-09-13, 19:36:09](https://news.ycombinator.com/item?id=45234707) - [Turgot Map of Paris](https://en.wikipedia.org/wiki/Turgot_map_of_Paris)
 * [2025-09-13, 00:45:31](https://news.ycombinator.com/item?id=45228314) - [California’s Alo Slebir unofficially broke the big wave surfing world record](https://www.sfgate.com/sports/article/alo-slebir-mavericks-big-wave-surf-record-21041864.php)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
-* [2025-09-12, 11:46:57](https://news.ycombinator.com/item?id=45221112) - [Death to type classes](https://jappie.me/death-to-type-classes.html)
 * [2025-09-12, 11:15:56](https://news.ycombinator.com/item?id=45220939) - [Self-Assembly Gets Automated in Reverse of 'Game of Life'](https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/)
+* [2025-09-12, 02:28:15](https://news.ycombinator.com/item?id=45218080) - [When Your Father Is a Magician, What Do You Believe?](https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/)
 * [2025-09-12, 02:22:22](https://news.ycombinator.com/item?id=45218046) - [Researchers revive the pinhole camera for next-gen infrared imaging](https://phys.org/news/2025-09-revive-pinhole-camera-gen-infrared.html)
 
 ## [Archives](archives/index.md)

@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 20:28:32](https://news.ycombinator.com/item?id=45254540) - [Deaths are projected to exceed births in 2031](https://www.cbo.gov/publication/61390)
 * [2025-09-15, 20:26:52](https://news.ycombinator.com/item?id=45254523) - [Show HN: Blocks – Dream work apps and AI agents in minutes](https://blocks.diy)
 * [2025-09-15, 20:07:48](https://news.ycombinator.com/item?id=45254330) - [Scryer Prolog Meetup 2025](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/)
 * [2025-09-15, 19:45:34](https://news.ycombinator.com/item?id=45254095) - [Europe wants to turn Digital Euro (CBDC) into a stablecoin](https://antongolub.substack.com/p/europe-wants-to-turn-digital-euro)
+* [2025-09-15, 19:14:28](https://news.ycombinator.com/item?id=45253775) - [How People Use ChatGPT [pdf]](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)
 * [2025-09-15, 19:13:40](https://news.ycombinator.com/item?id=45253760) - [California reached the unthinkable: A union deal with tech giants](https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680)
 * [2025-09-15, 18:45:32](https://news.ycombinator.com/item?id=45253458) - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
 * [2025-09-15, 17:53:19](https://news.ycombinator.com/item?id=45252817) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
