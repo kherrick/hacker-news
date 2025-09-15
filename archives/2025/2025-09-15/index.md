@@ -23,6 +23,7 @@
 * [2025-09-15, 15:04:24](https://news.ycombinator.com/item?id=45250540) - [Creating a VGA Signal in Hubris](https://lasernoises.com/blog/hubris-vga/)
 * [2025-09-15, 14:59:54](https://news.ycombinator.com/item?id=45250500) - [Meta bypassed Apple privacy protections, claims former employee](https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/)
 * [2025-09-15, 14:49:00](https://news.ycombinator.com/item?id=45250370) - [Apple has a private CSS property to add Liquid Glass effects to web content](https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/)
+* [2025-09-15, 14:45:45](https://news.ycombinator.com/item?id=45250328) - [GuitarPie: Electric Guitar Fretboard Pie Menus](https://andreasfender.com/publications.php)
 * [2025-09-15, 14:33:41](https://news.ycombinator.com/item?id=45250202) - [How to self-host a web font from Google Fonts](https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html)
 * [2025-09-15, 14:33:14](https://news.ycombinator.com/item?id=45250200) - [Show HN: MCP Server Installation Instructions Generator](https://hyprmcp.com/mcp-install-instructions-generator/)
 * [2025-09-15, 14:32:22](https://news.ycombinator.com/item?id=45250193) - [Show HN: Daffodil – Open-Source Ecommerce Framework to connect to any platform](https://github.com/graycoreio/daffodil)
