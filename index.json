@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-09-15, 14:33:14",
+      "https://news.ycombinator.com/item?id=45250200"
+    ],
+    [
+      "Show HN: MCP Server Installation Instructions Generator",
+      "https://hyprmcp.com/mcp-install-instructions-generator/"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 14:32:22",
       "https://news.ycombinator.com/item?id=45250193"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-09-15, 03:54:20",
-      "https://news.ycombinator.com/item?id=45245948"
+      "2025-09-15, 03:58:23",
+      "https://news.ycombinator.com/item?id=45245962"
     ],
     [
-      "Language models pack billions of concepts into 12k dimensions",
-      "https://nickyoder.com/johnson-lindenstrauss/"
+      "A qualitative analysis of pig-butchering scams",
+      "https://arxiv.org/abs/2503.20821"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-09-14, 18:29:24",
-      "https://news.ycombinator.com/item?id=45242122"
-    ],
-    [
-      "Show HN: Datadef.io – Canvas for data lineage and metadata management",
-      "https://datadef.io/"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 19:36:09",
       "https://news.ycombinator.com/item?id=45234707"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-09-13, 00:45:31",
-      "https://news.ycombinator.com/item?id=45228314"
-    ],
-    [
-      "Calif. construction worker unofficially broke a fabled world record",
-      "https://www.sfgate.com/sports/article/alo-slebir-mavericks-big-wave-surf-record-21041864.php"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 16:25:11",
       "https://news.ycombinator.com/item?id=45223827"
     ],
     [
       "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
       "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 11:46:57",
+      "https://news.ycombinator.com/item?id=45221112"
+    ],
+    [
+      "Death to type classes",
+      "https://jappie.me/death-to-type-classes.html"
     ]
   ],
   [
