@@ -54,6 +54,7 @@
 * [2025-09-11, 12:40:34](https://news.ycombinator.com/item?id=45210858) - [Lessons in Disabling RC4 in Active Directory](https://syfuhs.net/lessons-in-disabling-rc4-in-active-directory)
 * [2025-09-11, 12:39:29](https://news.ycombinator.com/item?id=45210850) - [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 12:32:35](https://news.ycombinator.com/item?id=45210803) - [CPI for all items rises 0.4% in August, 2.9% YoY; shelter and food up](https://www.bls.gov/news.release/archives/cpi_09112025.htm)
+* [2025-09-11, 12:21:27](https://news.ycombinator.com/item?id=45210705) - [Learning Lens Blur Fields](https://blur-fields.github.io/)
 * [2025-09-11, 12:20:19](https://news.ycombinator.com/item?id=45210693) - [The Rise of Async Programming](https://www.braintrust.dev/blog/async-programming)
 * [2025-09-11, 12:15:22](https://news.ycombinator.com/item?id=45210654) - [Show HN: I built a minimal Forth-like stack interpreter library in C](https://news.ycombinator.com/item?id=45210654)
 * [2025-09-11, 12:03:32](https://news.ycombinator.com/item?id=45210564) - [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
