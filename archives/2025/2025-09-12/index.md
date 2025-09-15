@@ -31,6 +31,7 @@
 * [2025-09-12, 16:57:17](https://news.ycombinator.com/item?id=45224156) - [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS)
 * [2025-09-12, 16:56:18](https://news.ycombinator.com/item?id=45224141) - [Vector database that can index 1B vectors in 48M](https://www.vectroid.com/blog/why-and-how-we-built-Vectroid)
 * [2025-09-12, 16:34:49](https://news.ycombinator.com/item?id=45223913) - [The rise of AI cults and the false prophets of revelation](https://wisewolfmedia.substack.com/p/the-rise-of-ai-cults-truth-terminal)
+* [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
 * [2025-09-12, 16:14:50](https://news.ycombinator.com/item?id=45223726) - [VaultGemma: The most capable differentially private LLM](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/)
 * [2025-09-12, 16:13:49](https://news.ycombinator.com/item?id=45223719) - [Corporations are trying, and now failing, to hide job openings from US citizens](https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/)
 * [2025-09-12, 16:05:58](https://news.ycombinator.com/item?id=45223660) - [OpenAI Grove](https://openai.com/index/openai-grove/)
