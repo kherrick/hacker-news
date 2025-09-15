@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-15, 18:45:32",
+      "https://news.ycombinator.com/item?id=45253458"
+    ],
+    [
+      "Addendum to GPT-5 system card: GPT-5-Codex",
+      "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 17:53:19",
       "https://news.ycombinator.com/item?id=45252817"
     ],
@@ -237,16 +247,6 @@
     [
       "Language models pack billions of concepts into 12k dimensions",
       "https://nickyoder.com/johnson-lindenstrauss/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 03:03:18",
-      "https://news.ycombinator.com/item?id=45245678"
-    ],
-    [
-      "Which NPM package has the largest version number?",
-      "https://adamhl.dev/blog/largest-number-in-npm-package/"
     ]
   ],
   [
