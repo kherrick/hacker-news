@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-15, 23:02:31",
+      "https://news.ycombinator.com/item?id=45256043"
+    ],
+    [
+      "Why do software developers love complexity?",
+      "https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 21:51:55",
       "https://news.ycombinator.com/item?id=45255400"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45255337"
     ],
     [
-      "Show HN: Pooshit – sync local code to remote Docker containers",
+      "Show HN: Pooshit – Sync local code to remote Docker containers",
       "https://news.ycombinator.com/item?id=45255337"
     ]
   ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-09-14, 21:17:56",
-      "https://news.ycombinator.com/item?id=45243320"
-    ],
-    [
-      "Show HN: AI-powered web service combining FastAPI, Pydantic-AI, and MCP servers",
-      "https://github.com/Aherontas/Pycon_Greece_2025_Presentation_Agents"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 19:36:09",
       "https://news.ycombinator.com/item?id=45234707"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-09-12, 11:15:56",
-      "https://news.ycombinator.com/item?id=45220939"
+      "2025-09-12, 10:30:45",
+      "https://news.ycombinator.com/item?id=45220697"
     ],
     [
-      "Self-Assembly Gets Automated in Reverse of 'Game of Life'",
-      "https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/"
+      "The Rising Sea: Foundations of Algebraic Geometry Notes",
+      "https://math.stanford.edu/~vakil/216blog/"
     ]
   ],
   [
