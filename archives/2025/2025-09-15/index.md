@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-15](index.md)
 
+* [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
 * [2025-09-15, 07:10:03](https://news.ycombinator.com/item?id=45246953) - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
 * [2025-09-15, 05:30:19](https://news.ycombinator.com/item?id=45246403) - [Celestia – real-time 3D visualization of space](https://celestiaproject.space/)
 * [2025-09-15, 05:13:33](https://news.ycombinator.com/item?id=45246325) - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)

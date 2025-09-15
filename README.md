@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
 * [2025-09-15, 07:10:03](https://news.ycombinator.com/item?id=45246953) - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
 * [2025-09-15, 05:30:19](https://news.ycombinator.com/item?id=45246403) - [Celestia – Real-time 3D visualization of space](https://celestiaproject.space/)
 * [2025-09-15, 05:13:33](https://news.ycombinator.com/item?id=45246325) - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)
@@ -7,7 +8,6 @@
 * [2025-09-15, 03:54:20](https://news.ycombinator.com/item?id=45245948) - [Language Models Pack Billions of Concepts into 12k Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 * [2025-09-15, 03:03:18](https://news.ycombinator.com/item?id=45245678) - [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
 * [2025-09-15, 02:02:39](https://news.ycombinator.com/item?id=45245313) - [For Good First Issue – A repository of social impact and open source projects](https://forgoodfirstissue.github.com/)
-* [2025-09-15, 01:28:52](https://news.ycombinator.com/item?id=45245138) - [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://daggerjs.org)
 * [2025-09-14, 22:29:49](https://news.ycombinator.com/item?id=45243925) - [Titania Programming Language](https://github.com/gingerBill/titania)
 * [2025-09-14, 22:15:33](https://news.ycombinator.com/item?id=45243803) - [Grapevine canes can be converted into plastic-like material that will decompose](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
 * [2025-09-14, 22:08:13](https://news.ycombinator.com/item?id=45243740) - [Trigger Crossbar](https://serd.es/2025/09/14/Trigger-crossbar.html)
