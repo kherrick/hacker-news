@@ -53,3 +53,4 @@
 * [2025-09-13, 01:32:33](https://news.ycombinator.com/item?id=45228552) - [California lawmakers pass SB 79, housing bill that brings dense housing](https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs)
 * [2025-09-13, 01:15:37](https://news.ycombinator.com/item?id=45228472) - [Life, Work, Death and the Peasant: Rent and Extraction](https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/)
 * [2025-09-13, 01:00:22](https://news.ycombinator.com/item?id=45228396) - [Meow: Yet another modal editing on Emacs](https://github.com/meow-edit/meow)
+* [2025-09-13, 00:45:31](https://news.ycombinator.com/item?id=45228314) - [Calif. construction worker unofficially broke a fabled world record](https://www.sfgate.com/sports/article/alo-slebir-mavericks-big-wave-surf-record-21041864.php)
