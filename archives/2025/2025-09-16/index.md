@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [All Systems Go at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
 * [2025-09-16, 16:22:40](https://news.ycombinator.com/item?id=45264340) - [Bertrand Russell to Oswald Mosley (1962)](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
 * [2025-09-16, 16:10:44](https://news.ycombinator.com/item?id=45264190) - [IINA Introduces Plugin System](https://iina.io/plugins/)
+* [2025-09-16, 16:04:18](https://news.ycombinator.com/item?id=45264094) - [Will I Run Boston 2026?](https://getfast.ai/blogs/boston-2026)
 * [2025-09-16, 15:42:14](https://news.ycombinator.com/item?id=45263785) - [Tesla Faces US Auto Safety Investigation over Door Handles](https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles)
 * [2025-09-16, 15:05:46](https://news.ycombinator.com/item?id=45263317) - [We're launching a new Google app for Windows experiment in Labs](https://blog.google/products/search/google-app-windows-labs/)
 * [2025-09-16, 15:00:06](https://news.ycombinator.com/item?id=45263230) - [The old SF tech scene is dead. What it's morphing into is more sinister](https://www.sfgate.com/tech/article/bay-area-tech-scene-dorky-now-terrifying-21042943.php)

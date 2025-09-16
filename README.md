@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [All Systems Go at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
 * [2025-09-16, 16:22:40](https://news.ycombinator.com/item?id=45264340) - [Bertrand Russell to Oswald Mosley (1962)](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
 * [2025-09-16, 16:10:44](https://news.ycombinator.com/item?id=45264190) - [Plugin System](https://iina.io/plugins/)
+* [2025-09-16, 16:04:18](https://news.ycombinator.com/item?id=45264094) - [Will I Run Boston 2026?](https://getfast.ai/blogs/boston-2026)
 * [2025-09-16, 15:42:14](https://news.ycombinator.com/item?id=45263785) - [Tesla Faces US Auto Safety Investigation over Door Handles](https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles)
 * [2025-09-16, 15:00:06](https://news.ycombinator.com/item?id=45263230) - [The old SF tech scene is dead. What it's morphing into is more sinister](https://www.sfgate.com/tech/article/bay-area-tech-scene-dorky-now-terrifying-21042943.php)
 * [2025-09-16, 14:59:47](https://news.ycombinator.com/item?id=45263221) - [1975 Sep 16 MOS Technology samples 6502 at WESCON, here's how they designed it](https://www.EmbeddedRelated.com/showarticle/1453.php)
@@ -13,7 +15,6 @@
 * [2025-09-16, 13:24:35](https://news.ycombinator.com/item?id=45261930) - [Generative AI as Seniority-Biased Technological Change](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)
 * [2025-09-16, 13:20:11](https://news.ycombinator.com/item?id=45261877) - [Trucker built a scale model of NYC over 21 years](https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention)
 * [2025-09-16, 13:10:29](https://news.ycombinator.com/item?id=45261764) - [CIA Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom)
-* [2025-09-16, 13:02:20](https://news.ycombinator.com/item?id=45261659) - [Teen Safety, Freedom, and Privacy](https://openai.com/index/teen-safety-freedom-and-privacy)
 * [2025-09-16, 12:10:31](https://news.ycombinator.com/item?id=45261159) - [Robert Redford has died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html)
 * [2025-09-16, 11:22:03](https://news.ycombinator.com/item?id=45260741) - [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
 * [2025-09-16, 03:05:53](https://news.ycombinator.com/item?id=45257627) - [\"Your\" vs. \"My\" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
@@ -28,7 +29,6 @@
 * [2025-09-13, 05:42:54](https://news.ycombinator.com/item?id=45229633) - [Adding FRM parser utility to MariaDB](https://hp77-creator.github.io/blogs/gsoc25)
 * [2025-09-13, 00:30:47](https://news.ycombinator.com/item?id=45228231) - [Scientists uncover extreme life inside the Arctic ice](https://news.stanford.edu/stories/2025/09/extreme-life-arctic-ice-diatoms-ecological-discovery)
 * [2025-09-12, 18:41:36](https://news.ycombinator.com/item?id=45225217) - [Migrating to React Native's New Architecture](https://shopify.engineering/react-native-new-architecture)
-* [2025-09-12, 13:47:22](https://news.ycombinator.com/item?id=45222117) - [Klotski](https://2swap.github.io/Klotski-Webpage/)
 * [2025-09-12, 12:51:46](https://news.ycombinator.com/item?id=45221567) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)
 
 ## [Archives](archives/index.md)
