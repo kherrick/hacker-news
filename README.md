@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-16, 10:25:26](https://news.ycombinator.com/item?id=45260379) - [Spain becomes 3rd country to confirm Eurovision exit if Israel remains.](https://www.thejournal.ie/spain-becomes-first-of-eurovision-big-five-countries-to-confirm-it-will-withdraw-if-israel-remains-in-contest-6818193-Sep2025/)
 * [2025-09-16, 08:20:24](https://news.ycombinator.com/item?id=45259529) - [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
 * [2025-09-16, 07:28:42](https://news.ycombinator.com/item?id=45259139) - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
 * [2025-09-16, 04:08:00](https://news.ycombinator.com/item?id=45257929) - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
@@ -30,6 +29,7 @@
 * [2025-09-12, 20:05:05](https://news.ycombinator.com/item?id=45226135) - [I wish my web server were in the corner of my room (2022)](https://interconnected.org/home/2022/10/10/servers)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
 * [2025-09-12, 12:51:46](https://news.ycombinator.com/item?id=45221567) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)
+* [2025-09-12, 02:28:15](https://news.ycombinator.com/item?id=45218080) - [When Your Father Is a Magician, What Do You Believe?](https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/)
 
 ## [Archives](archives/index.md)
 
