@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 19:33:35](https://news.ycombinator.com/item?id=45266854) - [Should We Drain the Everglades?](https://rabbitcavern.substack.com/p/should-we-drain-the-everglades)
 * [2025-09-16, 19:01:04](https://news.ycombinator.com/item?id=45266401) - [Does Pam Bondi know what free speech is?](https://thespectator.com/topic/pam-bondi-know-what-free-speech/)
 * [2025-09-16, 18:47:04](https://news.ycombinator.com/item?id=45266215) - [Meta RayBan AR Glasses Shows Lumus Waveguide Structures in Leaked Video](https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/)
 * [2025-09-16, 18:33:21](https://news.ycombinator.com/item?id=45266039) - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)

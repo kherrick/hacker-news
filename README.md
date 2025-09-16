@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-16, 19:33:35](https://news.ycombinator.com/item?id=45266854) - [Should We Drain the Everglades?](https://rabbitcavern.substack.com/p/should-we-drain-the-everglades)
 * [2025-09-16, 18:47:04](https://news.ycombinator.com/item?id=45266215) - [Meta RayBan AR Glasses Shows Lumus Waveguide Structures in Leaked Video](https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/)
 * [2025-09-16, 18:33:21](https://news.ycombinator.com/item?id=45266039) - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
 * [2025-09-16, 18:22:22](https://news.ycombinator.com/item?id=45265881) - [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
@@ -10,7 +11,6 @@
 * [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [Waymo has received our pilot permit allowing for commercial operations at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
 * [2025-09-16, 16:22:40](https://news.ycombinator.com/item?id=45264340) - [Bertrand Russell to Oswald Mosley (1962)](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
 * [2025-09-16, 16:10:44](https://news.ycombinator.com/item?id=45264190) - [Plugin System](https://iina.io/plugins/)
-* [2025-09-16, 16:04:18](https://news.ycombinator.com/item?id=45264094) - [Will I run Boston 2026?](https://getfast.ai/blogs/boston-2026)
 * [2025-09-16, 15:05:46](https://news.ycombinator.com/item?id=45263317) - [A new experimental Google app for Windows](https://blog.google/products/search/google-app-windows-labs/)
 * [2025-09-16, 14:59:47](https://news.ycombinator.com/item?id=45263221) - [Development of the MOS Technology 6502: A Historical Perspective (2022)](https://www.EmbeddedRelated.com/showarticle/1453.php)
 * [2025-09-16, 14:48:37](https://news.ycombinator.com/item?id=45263063) - [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
