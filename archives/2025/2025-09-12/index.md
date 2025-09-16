@@ -10,6 +10,7 @@
 * [2025-09-12, 21:37:09](https://news.ycombinator.com/item?id=45227064) - [ARM is great, ARM is terrible (and so is RISC-V)](https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v)
 * [2025-09-12, 21:25:08](https://news.ycombinator.com/item?id=45226938) - [NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time](https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/)
 * [2025-09-12, 21:20:36](https://news.ycombinator.com/item?id=45226903) - [Proton Mail Suspended Journalist Accounts at Request of Cybersecurity Agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
+* [2025-09-12, 20:55:18](https://news.ycombinator.com/item?id=45226657) - [Debian Upgrade Marathon: 3.1 Sarge](https://wrongthink.link/posts/debian-upgrade-marathon-sarge/)
 * [2025-09-12, 20:53:33](https://news.ycombinator.com/item?id=45226639) - [Emacs: A Paradigm Shift](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 * [2025-09-12, 20:48:38](https://news.ycombinator.com/item?id=45226597) - [Turn MEP prompts into AutoCAD drawings in minutes](https://www.automep.app/)
 * [2025-09-12, 20:17:23](https://news.ycombinator.com/item?id=45226277) - [I made a small site to share text and files for free, no ads, no registration](https://www.dum.pt/)
