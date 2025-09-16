@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-09-16, 17:37:09",
+      "https://news.ycombinator.com/item?id=45265299"
+    ],
+    [
+      "AMD Begins Plumbing APCI C4 Support in the Linux Kernel for Power Savings",
+      "https://www.phoronix.com/news/AMD-ACPI-C4-Linux-Kernel-Code"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 17:01:16",
       "https://news.ycombinator.com/item?id=45264867"
     ],
     [
       "Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems",
       "https://github.com/rowboatlabs/rowboat"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 16:50:42",
-      "https://news.ycombinator.com/item?id=45264726"
-    ],
-    [
-      "Scammed out of $130K via fake Google call, spoofed Google email and auth sync",
-      "https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=45262346"
     ],
     [
-      "After escaping Russian energy dependence, Europe is locking itself in to US LNG",
+      "Europe is locking itself in to US LNG",
       "https://davekeating.substack.com/p/after-escaping-russian-energy-dependence"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=45261946"
     ],
     [
-      "Java 25 Officially Released",
+      "Java 25 officially released",
       "https://mail.openjdk.org/pipermail/announce/2025-September/000360.html"
     ]
   ],
@@ -147,6 +147,16 @@
     [
       "Generative AI as Seniority-Biased Technological Change",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 13:20:11",
+      "https://news.ycombinator.com/item?id=45261877"
+    ],
+    [
+      "Trucker built a scale model of NYC over 21 years",
+      "https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "\"Your\" vs. \"My\" in user interfaces",
       "https://adamsilver.io/blog/your-vs-my-in-user-interfaces/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 21:28:01",
-      "https://news.ycombinator.com/item?id=45255137"
-    ],
-    [
-      "William Gibson Reads Neuromancer (2004)",
-      "http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45225217"
     ],
     [
-      "Migrating to React Native's New Architecture",
+      "Migrating to React Native's new architecture",
       "https://shopify.engineering/react-native-new-architecture"
     ]
   ],
