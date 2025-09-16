@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-16, 13:20:11",
+      "https://news.ycombinator.com/item?id=45261877"
+    ],
+    [
+      "Trucker built a scale model of NYC over 21 years",
+      "https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 13:18:00",
+      "https://news.ycombinator.com/item?id=45261848"
+    ],
+    [
+      "When the job search becomes impossible",
+      "https://www.jeffwofford.com/wp/?p=2240"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 12:45:58",
       "https://news.ycombinator.com/item?id=45261480"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-09-15, 14:02:02",
-      "https://news.ycombinator.com/item?id=45249878"
-    ],
-    [
-      "CubeSats are fascinating learning tools for space",
-      "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 12:33:28",
       "https://news.ycombinator.com/item?id=45248899"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-09-13, 03:05:57",
-      "https://news.ycombinator.com/item?id=45228981"
-    ],
-    [
-      "Basics of Equality Saturation",
-      "https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 00:30:47",
       "https://news.ycombinator.com/item?id=45228231"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-09-12, 20:05:05",
-      "https://news.ycombinator.com/item?id=45226135"
-    ],
-    [
-      "I wish my web server were in the corner of my room (2022)",
-      "https://interconnected.org/home/2022/10/10/servers"
-    ]
-  ],
-  [
-    [
       "2025-09-12, 18:41:36",
       "https://news.ycombinator.com/item?id=45225217"
     ],
     [
       "Migrating to React Native's New Architecture",
       "https://shopify.engineering/react-native-new-architecture"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 13:47:22",
+      "https://news.ycombinator.com/item?id=45222117"
+    ],
+    [
+      "Klotski",
+      "https://2swap.github.io/Klotski-Webpage/"
     ]
   ],
   [
