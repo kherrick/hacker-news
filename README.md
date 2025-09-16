@@ -28,7 +28,7 @@
 * [2025-09-12, 20:05:05](https://news.ycombinator.com/item?id=45226135) - [I wish my web server were in the corner of my room (2022)](https://interconnected.org/home/2022/10/10/servers)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
 * [2025-09-12, 12:51:46](https://news.ycombinator.com/item?id=45221567) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
-* [2025-09-12, 11:46:34](https://news.ycombinator.com/item?id=45221109) - [Dinosaurs to supercrocs: Niger's bone keepers preserve its ancient fossils](https://www.aljazeera.com/features/2025/9/12/dinosaurs-to-supercrocs-nigers-bone-keepers-preserve-its-ancient-fossils)
+* [2025-09-12, 10:30:45](https://news.ycombinator.com/item?id=45220697) - [The Rising Sea: Foundations of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
 * [2025-09-12, 02:28:15](https://news.ycombinator.com/item?id=45218080) - [When Your Father Is a Magician, What Do You Believe?](https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/)
 
 ## [Archives](archives/index.md)
