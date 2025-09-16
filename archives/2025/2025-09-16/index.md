@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 12:10:49](https://news.ycombinator.com/item?id=45261163) - [FBI couldn't get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/)
+* [2025-09-16, 12:10:31](https://news.ycombinator.com/item?id=45261159) - [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html)
+* [2025-09-16, 11:51:18](https://news.ycombinator.com/item?id=45260969) - [Ask HN: Generalists, when do you say \"I know enough\" about any particular topic?](https://news.ycombinator.com/item?id=45260969)
 * [2025-09-16, 11:22:03](https://news.ycombinator.com/item?id=45260741) - [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
 * [2025-09-16, 10:25:26](https://news.ycombinator.com/item?id=45260379) - [Spain becomes 3rd country to confirm Eurovision exit if Israel remains.](https://www.thejournal.ie/spain-becomes-first-of-eurovision-big-five-countries-to-confirm-it-will-withdraw-if-israel-remains-in-contest-6818193-Sep2025/)
 * [2025-09-16, 08:24:22](https://news.ycombinator.com/item?id=45259553) - [Top UN legal investigators conclude Israel is guilty of genocide in Gaza](https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza)
