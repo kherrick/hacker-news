@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-16, 20:43:43",
+      "https://news.ycombinator.com/item?id=45267762"
+    ],
+    [
+      "SQL performance improvements: finding the right queries to fix",
+      "https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 19:40:34",
       "https://news.ycombinator.com/item?id=45266947"
     ],
@@ -137,16 +147,6 @@
     [
       "Development of the MOS Technology 6502: A Historical Perspective (2022)",
       "https://www.EmbeddedRelated.com/showarticle/1453.php"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 14:48:37",
-      "https://news.ycombinator.com/item?id=45263063"
-    ],
-    [
-      "Microsoft Favors Anthropic over OpenAI for Visual Studio Code",
-      "https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4"
     ]
   ],
   [
