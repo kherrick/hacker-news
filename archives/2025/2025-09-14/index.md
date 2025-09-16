@@ -53,6 +53,7 @@
 * [2025-09-14, 02:17:17](https://news.ycombinator.com/item?id=45236890) - [How to get samples back from Mars](https://caseyhandmer.wordpress.com/2025/09/13/how-to-get-samples-back-from-mars/)
 * [2025-09-14, 01:53:31](https://news.ycombinator.com/item?id=45236774) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 * [2025-09-14, 00:59:57](https://news.ycombinator.com/item?id=45236574) - [Do I Need Kubernetes?](https://doineedkubernetes.com/)
+* [2025-09-14, 00:36:23](https://news.ycombinator.com/item?id=45236479) - [Writing an operating system kernel from scratch – RISC-V/OpenSBI/Zig](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
 * [2025-09-14, 00:34:25](https://news.ycombinator.com/item?id=45236473) - [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq)
 * [2025-09-14, 00:26:01](https://news.ycombinator.com/item?id=45236444) - [RFC9460: SVCB and HTTPS DNS Records](https://datatracker.ietf.org/doc/html/rfc9460)
 * [2025-09-14, 00:19:52](https://news.ycombinator.com/item?id=45236411) - [If my kids excel, will they move away?](https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html)
