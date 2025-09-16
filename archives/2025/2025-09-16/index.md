@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 08:20:24](https://news.ycombinator.com/item?id=45259529) - [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
+* [2025-09-16, 08:00:13](https://news.ycombinator.com/item?id=45259360) - [Reichstag Fire Decree: Decree of the President for Protection of People & State](https://encyclopedia.ushmm.org/content/en/article/reichstag-fire-decree)
 * [2025-09-16, 07:28:42](https://news.ycombinator.com/item?id=45259139) - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
 * [2025-09-16, 07:28:02](https://news.ycombinator.com/item?id=45259134) - [AP Live: View from Gaza as Israel Begins Expanded Operation in Gaza City](https://www.youtube.com/watch?v=autLCRVLwsQ)
 * [2025-09-16, 04:42:18](https://news.ycombinator.com/item?id=45258098) - [Public static void main(String[] args) is dead](https://mccue.dev/pages/9-16-25-psvm)
