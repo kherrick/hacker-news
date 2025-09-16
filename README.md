@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-16, 08:24:22](https://news.ycombinator.com/item?id=45259553) - [Top UN legal investigators conclude Israel is guilty of genocide in Gaza](https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza)
 * [2025-09-16, 08:20:24](https://news.ycombinator.com/item?id=45259529) - [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
 * [2025-09-16, 07:28:42](https://news.ycombinator.com/item?id=45259139) - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
 * [2025-09-16, 04:08:00](https://news.ycombinator.com/item?id=45257929) - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
@@ -28,7 +29,6 @@
 * [2025-09-12, 22:51:19](https://news.ycombinator.com/item?id=45227679) - [People Who Hunt Down Old TVs](https://www.bbc.com/future/article/20250911-the-people-who-hunt-down-old-tvs)
 * [2025-09-12, 20:05:05](https://news.ycombinator.com/item?id=45226135) - [I wish my web server were in the corner of my room (2022)](https://interconnected.org/home/2022/10/10/servers)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
-* [2025-09-12, 14:55:38](https://news.ycombinator.com/item?id=45222819) - [Experimental browser MMO with bots, boss fights and power-ups](https://www.blobeer.com/)
 * [2025-09-12, 12:51:46](https://news.ycombinator.com/item?id=45221567) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)
 
 ## [Archives](archives/index.md)
