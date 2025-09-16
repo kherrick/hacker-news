@@ -45,6 +45,7 @@
 * [2025-09-12, 15:22:00](https://news.ycombinator.com/item?id=45223102) - [Show HN: An MCP Gateway to block the lethal trifecta](https://github.com/Edison-Watch/open-edison)
 * [2025-09-12, 15:17:09](https://news.ycombinator.com/item?id=45223053) - [Show HN: DWS OS, a Plan 9 Inspired Web \"OS\"](https://dws.rip)
 * [2025-09-12, 15:11:43](https://news.ycombinator.com/item?id=45222993) - [Doom-ada: Doom Emacs Ada language module with syntax, LSP and Alire support](https://github.com/tomekw/doom-ada)
+* [2025-09-12, 14:55:38](https://news.ycombinator.com/item?id=45222819) - [Experimental browser MMO with bots, boss fights and power-ups](https://www.blobeer.com/)
 * [2025-09-12, 14:53:45](https://news.ycombinator.com/item?id=45222799) - [Oq: Terminal OpenAPI Spec Viewer](https://github.com/plutov/oq)
 * [2025-09-12, 14:51:33](https://news.ycombinator.com/item?id=45222777) - [Active phishing campaign targeting crates.io users](https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/)
 * [2025-09-12, 14:50:57](https://news.ycombinator.com/item?id=45222772) - [Crates.io Phishing Attempt](https://fasterthanli.me/articles/crates-io-phishing-attempt)
