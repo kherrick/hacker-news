@@ -2,6 +2,7 @@
 
 * [2025-09-16, 04:42:18](https://news.ycombinator.com/item?id=45258098) - [Public static void main(String[] args) is dead](https://mccue.dev/pages/9-16-25-psvm)
 * [2025-09-16, 04:08:00](https://news.ycombinator.com/item?id=45257929) - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
+* [2025-09-16, 03:05:53](https://news.ycombinator.com/item?id=45257627) - [\"Your\" vs. \"My\" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
 * [2025-09-16, 00:33:12](https://news.ycombinator.com/item?id=45256651) - [Linux phones are more important now than ever](https://feddit.org/post/18353777)
 * [2025-09-16, 00:20:59](https://news.ycombinator.com/item?id=45256577) - [I feel Apple has lost its alignment with me and other long-time customers](https://morrick.me/archives/10137)
 * [2025-09-15, 23:02:31](https://news.ycombinator.com/item?id=45256043) - [Why do we keep gravitating toward complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
@@ -16,7 +17,6 @@
 * [2025-09-15, 16:28:54](https://news.ycombinator.com/item?id=45251690) - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
 * [2025-09-15, 15:44:29](https://news.ycombinator.com/item?id=45251093) - [Boring work needs tension](https://iaziz786.com/blog/boring-work-needs-tension/)
 * [2025-09-15, 15:20:18](https://news.ycombinator.com/item?id=45250720) - [Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps](https://news.ycombinator.com/item?id=45250720)
-* [2025-09-15, 14:45:45](https://news.ycombinator.com/item?id=45250328) - [GuitarPie: Electric Guitar Fretboard Pie Menus](https://andreasfender.com/publications.php)
 * [2025-09-15, 14:33:41](https://news.ycombinator.com/item?id=45250202) - [How to self-host a web font from Google Fonts](https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html)
 * [2025-09-15, 14:04:47](https://news.ycombinator.com/item?id=45249915) - [PayPal to support Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
 * [2025-09-15, 14:02:02](https://news.ycombinator.com/item?id=45249878) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
