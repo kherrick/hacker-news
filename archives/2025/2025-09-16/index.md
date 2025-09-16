@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 17:01:16](https://news.ycombinator.com/item?id=45264867) - [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
 * [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [All Systems Go at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
 * [2025-09-16, 16:22:40](https://news.ycombinator.com/item?id=45264340) - [Bertrand Russell to Oswald Mosley (1962)](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
 * [2025-09-16, 16:10:44](https://news.ycombinator.com/item?id=45264190) - [IINA Introduces Plugin System](https://iina.io/plugins/)
