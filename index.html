@@ -129,6 +129,124 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45258098">
+          <h3>
+            <a class="item" href="https://mccue.dev/pages/9-16-25-psvm"
+              >Public static void main(String[] args) is dead</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-16 @ 04:42:18</span
+              ><span class="points-container"
+                >Points: <span class="points">72</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45258098"
+                  >Comments</a
+                ><span class="descendants">: 36</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45257929">
+          <h3>
+            <a class="item" href="https://github.com/YuminosukeSato/pyproc"
+              >Show HN: Pyproc – Call Python from Go Without CGO or
+              Microservices</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-16 @ 04:08:00</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45257929"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>*Why this exists*</p>
+              <p>
+                * Keep your Go service, reuse
+                Python/NumPy/pandas/PyTorch/scikit-learn. * Avoid network hops,
+                service discovery, and ops burden of a separate Python service.
+              </p>
+              <p>*Quick try (\~5 minutes)*</p>
+              <p>Go (app):</p>
+              <p>``` go get github.com/YuminosukeSato/pyproc@latest ```</p>
+              <p>Python (worker):</p>
+              <p>``` pip install pyproc-worker ```</p>
+              <p>Minimal worker (Python):</p>
+              <p>
+                ``` from pyproc_worker import expose, run_worker @expose def
+                predict(req): return {"result": req["value"] * 2} if __name__ ==
+                "__main__": run_worker() ```
+              </p>
+              <p>Call from Go:</p>
+              <p>
+                ``` import ( "context" "fmt"
+                "github.com/YuminosukeSato/pyproc/pkg/pyproc" ) func main() {
+                pool, _ := pyproc.NewPool(pyproc.PoolOptions{ Config:
+                pyproc.PoolConfig{Workers: 4, MaxInFlight: 10}, WorkerConfig:
+                pyproc.WorkerConfig{SocketPath: "/tmp/pyproc.sock", PythonExec:
+                "python3", WorkerScript: "worker.py"}, }, nil) _ =
+                pool.Start(context.Background()) defer
+                pool.Shutdown(context.Background()) var out map[string]any _ =
+                pool.Call(context.Background(), "predict",
+                map[string]any{"value": 42}, &amp;out)
+                fmt.Println(out["result"]) // 84 } ```
+              </p>
+              <p>*Scope / limits*</p>
+              <p>
+                * Same-host/pod only (UDS). Linux/macOS supported; Windows named
+                pipes not yet. * Best for request/response payloads ≲ \~100 KB
+                JSON; GPU orchestration and cross-host serving are out of scope.
+              </p>
+              <p>*Benchmarks (indicative)*</p>
+              <p>
+                * Local M1, simple JSON: \~*45µs p50* and *\~200k req/s* with 8
+                workers. Your numbers will vary.
+              </p>
+              <p>*What’s included*</p>
+              <p>
+                * Pure Go client (no CGO), Python worker lib, pool, health
+                checks, graceful restarts, and examples.
+              </p>
+              <p>*Docs &amp; code*</p>
+              <p>
+                * README, design/ops/security docs, pkg.go.dev: [<a
+                  href="https://github.com/YuminosukeSato/pyproc"
+                  >https://github.com/YuminosukeSato/pyproc</a
+                >](<a href="https://github.com/YuminosukeSato/pyproc"
+                  >https://github.com/YuminosukeSato/pyproc</a
+                >)
+              </p>
+              <p>*License*</p>
+              <p>* Apache-2.0. Current release: v0.2.x.</p>
+              <p>*Feedback welcome*</p>
+              <p>
+                * API ergonomics, failure modes under load, and priorities for
+                codecs/transports (e.g., Arrow IPC, gRPC-over-UDS).
+              </p>
+              <p>---</p>
+              <p>
+                <i>Source for details: project README and docs.</i>
+                ([github.com][1])
+              </p>
+              <p>
+                [1]:
+                <a href="https://github.com/YuminosukeSato/pyproc"
+                  >https://github.com/YuminosukeSato/pyproc</a
+                >
+                "GitHub - YuminosukeSato/pyproc: Call Python from Go without CGO
+                or microservices - Unix domain socket based IPC for ML inference
+                and data processin"
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45256651">
           <h3>
             <a class="item" href="https://feddit.org/post/18353777"
@@ -139,11 +257,11 @@
             <h4>
               <span>2025-09-16 @ 00:33:12</span
               ><span class="points-container"
-                >Points: <span class="points">293</span></span
+                >Points: <span class="points">302</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45256651"
                   >Comments</a
-                ><span class="descendants">: 160</span></span
+                ><span class="descendants">: 169</span></span
               >
             </h4>
           </section>
@@ -159,11 +277,11 @@
             <h4>
               <span>2025-09-16 @ 00:20:59</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45256577"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 176</span></span
               >
             </h4>
           </section>
@@ -180,11 +298,11 @@
             <h4>
               <span>2025-09-15 @ 23:02:31</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45256043"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -202,32 +320,11 @@
             <h4>
               <span>2025-09-15 @ 21:51:55</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45255400"
                   >Comments</a
                 ><span class="descendants">: 91</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45255155">
-          <h3>
-            <a
-              class="item"
-              href="https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf"
-              >The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-15 @ 21:29:40</span
-              ><span class="points-container"
-                >Points: <span class="points">36</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45255155"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -244,11 +341,11 @@
             <h4>
               <span>2025-09-15 @ 21:28:01</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45255137"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -265,7 +362,7 @@
             <h4>
               <span>2025-09-15 @ 19:14:28</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45253775"
                   >Comments</a
@@ -286,7 +383,7 @@
             <h4>
               <span>2025-09-15 @ 18:45:32</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45253458"
                   >Comments</a
@@ -307,11 +404,11 @@
             <h4>
               <span>2025-09-15 @ 17:53:19</span
               ><span class="points-container"
-                >Points: <span class="points">807</span></span
+                >Points: <span class="points">821</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45252817"
                   >Comments</a
-                ><span class="descendants">: 389</span></span
+                ><span class="descendants">: 390</span></span
               >
             </h4>
           </section>
@@ -328,11 +425,11 @@
             <h4>
               <span>2025-09-15 @ 17:46:01</span
               ><span class="points-container"
-                >Points: <span class="points">370</span></span
+                >Points: <span class="points">378</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45252715"
                   >Comments</a
-                ><span class="descendants">: 389</span></span
+                ><span class="descendants">: 401</span></span
               >
             </h4>
           </section>
@@ -347,11 +444,11 @@
             <h4>
               <span>2025-09-15 @ 17:16:42</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">356</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45252378"
                   >Comments</a
-                ><span class="descendants">: 475</span></span
+                ><span class="descendants">: 480</span></span
               >
             </h4>
           </section>
@@ -368,7 +465,7 @@
             <h4>
               <span>2025-09-15 @ 17:10:39</span
               ><span class="points-container"
-                >Points: <span class="points">256</span></span
+                >Points: <span class="points">259</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45252301"
                   >Comments</a
@@ -387,11 +484,11 @@
             <h4>
               <span>2025-09-15 @ 16:28:54</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">368</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45251690"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -408,7 +505,7 @@
             <h4>
               <span>2025-09-15 @ 15:44:29</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45251093"
                   >Comments</a
@@ -428,11 +525,11 @@
             <h4>
               <span>2025-09-15 @ 15:20:18</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45250720"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
             <div class="text">
@@ -645,7 +742,7 @@
             <h4>
               <span>2025-09-15 @ 12:33:28</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45248899"
                   >Comments</a
@@ -664,30 +761,11 @@
             <h4>
               <span>2025-09-15 @ 09:47:18</span
               ><span class="points-container"
-                >Points: <span class="points">344</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45247890"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45245962">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2503.20821"
-              >A qualitative analysis of pig-butchering scams</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-15 @ 03:58:23</span
-              ><span class="points-container"
-                >Points: <span class="points">205</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45245962"
-                  >Comments</a
-                ><span class="descendants">: 128</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -707,7 +785,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45232596"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -724,11 +802,11 @@
             <h4>
               <span>2025-09-12 @ 22:51:19</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45227679"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -766,7 +844,7 @@
             <h4>
               <span>2025-09-12 @ 20:05:05</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45226135"
                   >Comments</a
@@ -807,11 +885,11 @@
             <h4>
               <span>2025-09-12 @ 12:51:46</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45221567"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -847,7 +925,7 @@
             <h4>
               <span>2025-09-12 @ 02:28:15</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45218080"
                   >Comments</a
