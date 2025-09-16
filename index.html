@@ -129,6 +129,139 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45264867">
+          <h3>
+            <a class="item" href="https://github.com/rowboatlabs/rowboat"
+              >Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent
+              systems</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-16 @ 17:01:16</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45264867"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.rowboatlabs.com"
+                >https://www.rowboatlabs.com</a
+              >), an AI-assisted IDE for building and managing multi-agent
+              systems with a copilot. Using Rowboat, you can build both
+              deterministic automation agents (e.g. automatically summarizing
+              emails) and more agentic systems (e.g. a meeting prep assistant or
+              a customer support bot).
+              <p>Here are some examples:</p>
+              <p>
+                - Meeting-prep assistant:
+                <a href="https://www.youtube.com/watch?v=KZTP4xZM2DY"
+                  >https://www.youtube.com/watch?v=KZTP4xZM2DY</a
+                >
+              </p>
+              <p>
+                - Customer support assistant:
+                <a href="https://www.youtube.com/watch?v=Xfo-OfgOl8w"
+                  >https://www.youtube.com/watch?v=Xfo-OfgOl8w</a
+                >
+              </p>
+              <p>
+                - Gmail and Reddit assistant:
+                <a href="https://www.youtube.com/watch?v=6r7P4Vlcn2g"
+                  >https://www.youtube.com/watch?v=6r7P4Vlcn2g</a
+                >
+              </p>
+              <p>
+                Rowboat is open-source (<a
+                  href="https://github.com/rowboatlabs/rowboat"
+                  >https://github.com/rowboatlabs/rowboat</a
+                >) and has a growing community. We first launched it on Show HN
+                a few months ago (<a
+                  href="https://news.ycombinator.com/item?id=43763967"
+                  >https://news.ycombinator.com/item?id=43763967</a
+                >).
+              </p>
+              <p>
+                Today we are launching a major update along with a cloud
+                offering. We’ve added built-in tool integrations for 100s of
+                tools like Gmail, Github and Slack, RAG with documents and URLs,
+                and triggers to invoke your assistant based on external events.
+              </p>
+              <p>
+                Our cloud version includes all the features of the open-source
+                IDE, but runs instantly with no setup or API keys. For launch,
+                we're offering $10 free usage with Gemini models so you can
+                start building right away for free without adding any card
+                details. Paid plans start at $20/month and give you access to
+                additional models (OpenAI, Anthropic, Gemini, with more coming)
+                and higher usage limits.
+              </p>
+              <p>
+                There’s a growing view that some tasks are better handled by
+                single agents (<a
+                  href="https://news.ycombinator.com/item?id=45096962"
+                  >https://news.ycombinator.com/item?id=45096962</a
+                >), while others benefit from multi-agent systems for higher
+                accuracy (
+                <a
+                  href="https://www.anthropic.com/engineering/multi-agent-research-system"
+                  >https://www.anthropic.com/engineering/multi-agent-research-s...</a
+                >). The difference often comes down to scope: a focused task
+                like coding suits a single agent, but juggling multiple domains
+                such as email, Slack, and LinkedIn is better split across
+                agents. Multi-agent systems also help avoid context pollution,
+                since LLMs lose focus when asked to handle unrelated tasks. In
+                addition, cleanly dividing responsibilities makes each agent
+                easier to test, debug, and improve.
+              </p>
+              <p>
+                However, splitting work into multiple agents and getting their
+                prompts right is challenging. OpenAI and others have published
+                patterns that work well for different scenarios (<a
+                  href="https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf"
+                  >https://cdn.openai.com/business-guides-and-resources/a-pract...</a
+                >). We’ve added agent abstractions, built on top of OpenAI’s
+                Agents SDK, to support these patterns. These include user-facing
+                agents that can decide to hand off to another agent when needed;
+                task agents that perform internal tasks; and pipelines that
+                deterministically call a sequence of agents.
+              </p>
+              <p>
+                Rowboat’s copilot (‘Skipper’) is aware of these patterns and has
+                been seeded with tested patterns, such as a manager‑worker setup
+                for a customer support bot, a pipeline for automated document
+                summarization, and multi‑agent workflows for combining web
+                search with RAG. It can:
+              </p>
+              <p>
+                - Build multi-agent systems from a high-level request and decide
+                how work must be delegated across agents
+              </p>
+              <p>
+                - Edit agent instructions to make correct tool calls using
+                Composio tools or any connected MCP server
+              </p>
+              <p>
+                - Observe your playground chat and improve agents based on your
+                tests
+              </p>
+              <p>
+                We see agentic systems as a spectrum. On one end are
+                deterministic workflows with a few LLM calls. On the other end
+                are fully agentic systems where the LLM makes all control flow
+                decisions - we focus on this end of the spectrum, while still
+                allowing deterministic control where necessary for real-world
+                assistant use cases. We intentionally avoided flowchart-style
+                editors (like n8n) because they become unwieldy when building
+                and maintaining highly agentic systems.
+              </p>
+              <p>We look forward to hearing your thoughts!</p>
+            </div>
+          </section>
+        </section>
         <section id="45264562">
           <h3>
             <a
@@ -141,11 +274,11 @@
             <h4>
               <span>2025-09-16 @ 16:38:08</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45264562"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -162,11 +295,11 @@
             <h4>
               <span>2025-09-16 @ 16:22:40</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45264340"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -179,7 +312,7 @@
             <h4>
               <span>2025-09-16 @ 16:10:44</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45264190"
                   >Comments</a
@@ -198,54 +331,32 @@
             <h4>
               <span>2025-09-16 @ 16:04:18</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45264094"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="45263785">
+        <section id="45263317">
           <h3>
             <a
               class="item"
-              href="https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles"
-              >Tesla Faces US Auto Safety Investigation over Door Handles</a
+              href="https://blog.google/products/search/google-app-windows-labs/"
+              >A new experimental Google app for Windows</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-09-16 @ 15:42:14</span
+              <span>2025-09-16 @ 15:05:46</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45263785"
+                ><a href="https://news.ycombinator.com/item?id=45263317"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45263230">
-          <h3>
-            <a
-              class="item"
-              href="https://www.sfgate.com/tech/article/bay-area-tech-scene-dorky-now-terrifying-21042943.php"
-              >The old SF tech scene is dead. What it's morphing into is more
-              sinister</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-16 @ 15:00:06</span
-              ><span class="points-container"
-                >Points: <span class="points">94</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45263230"
-                  >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -263,11 +374,11 @@
             <h4>
               <span>2025-09-16 @ 14:59:47</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45263221"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -284,11 +395,11 @@
             <h4>
               <span>2025-09-16 @ 14:48:37</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45263063"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -303,11 +414,11 @@
             <h4>
               <span>2025-09-16 @ 14:35:19</span
               ><span class="points-container"
-                >Points: <span class="points">301</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45262835"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -322,11 +433,33 @@
             <h4>
               <span>2025-09-16 @ 14:18:19</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45262582"
                   >Comments</a
                 ><span class="descendants">: 33</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45262346">
+          <h3>
+            <a
+              class="item"
+              href="https://davekeating.substack.com/p/after-escaping-russian-energy-dependence"
+              >After escaping Russian energy dependence, Europe is locking
+              itself in to US LNG</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-16 @ 13:56:54</span
+              ><span class="points-container"
+                >Points: <span class="points">80</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45262346"
+                  >Comments</a
+                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
@@ -344,7 +477,7 @@
             <h4>
               <span>2025-09-16 @ 13:41:51</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45262151"
                   >Comments</a
@@ -365,11 +498,11 @@
             <h4>
               <span>2025-09-16 @ 13:25:42</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45261946"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -386,11 +519,11 @@
             <h4>
               <span>2025-09-16 @ 13:24:35</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45261930"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 131</span></span
               >
             </h4>
           </section>
@@ -407,7 +540,7 @@
             <h4>
               <span>2025-09-16 @ 13:20:11</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45261877"
                   >Comments</a
@@ -426,7 +559,7 @@
             <h4>
               <span>2025-09-16 @ 13:10:29</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45261764"
                   >Comments</a
@@ -447,7 +580,7 @@
             <h4>
               <span>2025-09-16 @ 12:10:31</span
               ><span class="points-container"
-                >Points: <span class="points">345</span></span
+                >Points: <span class="points">358</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45261159"
                   >Comments</a
@@ -468,11 +601,11 @@
             <h4>
               <span>2025-09-16 @ 11:22:03</span
               ><span class="points-container"
-                >Points: <span class="points">439</span></span
+                >Points: <span class="points">451</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45260741"
                   >Comments</a
-                ><span class="descendants">: 342</span></span
+                ><span class="descendants">: 350</span></span
               >
             </h4>
           </section>
@@ -489,11 +622,11 @@
             <h4>
               <span>2025-09-16 @ 03:05:53</span
               ><span class="points-container"
-                >Points: <span class="points">389</span></span
+                >Points: <span class="points">393</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45257627"
                   >Comments</a
-                ><span class="descendants">: 193</span></span
+                ><span class="descendants">: 197</span></span
               >
             </h4>
           </section>
@@ -510,7 +643,7 @@
             <h4>
               <span>2025-09-15 @ 21:28:01</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">293</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45255137"
                   >Comments</a
@@ -531,32 +664,11 @@
             <h4>
               <span>2025-09-15 @ 17:53:19</span
               ><span class="points-container"
-                >Points: <span class="points">1302</span></span
+                >Points: <span class="points">1307</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45252817"
                   >Comments</a
                 ><span class="descendants">: 441</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45252715">
-          <h3>
-            <a
-              class="item"
-              href="https://www.lorenstew.art/blog/react-won-by-default/"
-              >React is winning by default and slowing innovation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-15 @ 17:46:01</span
-              ><span class="points-container"
-                >Points: <span class="points">645</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45252715"
-                  >Comments</a
-                ><span class="descendants">: 738</span></span
               >
             </h4>
           </section>
@@ -571,11 +683,11 @@
             <h4>
               <span>2025-09-15 @ 17:16:42</span
               ><span class="points-container"
-                >Points: <span class="points">582</span></span
+                >Points: <span class="points">588</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45252378"
                   >Comments</a
-                ><span class="descendants">: 877</span></span
+                ><span class="descendants">: 882</span></span
               >
             </h4>
           </section>
@@ -590,11 +702,11 @@
             <h4>
               <span>2025-09-15 @ 16:28:54</span
               ><span class="points-container"
-                >Points: <span class="points">521</span></span
+                >Points: <span class="points">526</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45251690"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -612,7 +724,7 @@
             <h4>
               <span>2025-09-13 @ 17:16:03</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45233675"
                   >Comments</a
@@ -633,11 +745,11 @@
             <h4>
               <span>2025-09-13 @ 12:43:54</span
               ><span class="points-container"
-                >Points: <span class="points">199</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45231614"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -652,11 +764,11 @@
             <h4>
               <span>2025-09-13 @ 08:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45230515"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -692,11 +804,11 @@
             <h4>
               <span>2025-09-13 @ 00:30:47</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45228231"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -713,11 +825,11 @@
             <h4>
               <span>2025-09-12 @ 18:41:36</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45225217"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -732,11 +844,11 @@
             <h4>
               <span>2025-09-12 @ 12:51:46</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45221567"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
