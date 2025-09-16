@@ -6,6 +6,7 @@
 
 * [2025-09-16, 23:01:09](https://news.ycombinator.com/item?id=45269396) - [From Alphabet to Visa, US giants drive euro-denominated bond surge](https://www.reuters.com/business/finance/alphabet-visa-us-giants-drive-euro-denominated-bond-surge-2025-09-16/)
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
+* [2025-09-16, 21:24:23](https://news.ycombinator.com/item?id=45268269) - [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
 * [2025-09-16, 20:43:43](https://news.ycombinator.com/item?id=45267762) - [SQL performance improvements: finding the right queries to fix](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)
 * [2025-09-16, 20:10:59](https://news.ycombinator.com/item?id=45267336) - [The \"Most Hated\" CSS Feature: Cos() and Sin()](https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/)
 * [2025-09-16, 19:40:34](https://news.ycombinator.com/item?id=45266947) - [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
