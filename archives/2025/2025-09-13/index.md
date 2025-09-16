@@ -23,6 +23,7 @@
 * [2025-09-13, 17:16:03](https://news.ycombinator.com/item?id=45233675) - [WordNumbers: Counting letters of number names, alphabetized and concatenated](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/WordNumbers1/)
 * [2025-09-13, 17:03:59](https://news.ycombinator.com/item?id=45233589) - [Why OpenAI's solution to AI hallucinations would kill ChatGPT tomorrow](https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107)
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
+* [2025-09-13, 16:34:48](https://news.ycombinator.com/item?id=45233364) - [Soviet Maps](https://xcancel.com/LindyScience/status/1413532683129565188#m)
 * [2025-09-13, 16:30:16](https://news.ycombinator.com/item?id=45233337) - [Several people fired after clampdown on speech over Charlie Kirk shooting](https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-shooting-people-fired-social-media)
 * [2025-09-13, 16:18:27](https://news.ycombinator.com/item?id=45233266) - [Magical Systems Thinking](https://worksinprogress.co/issue/magical-systems-thinking/)
 * [2025-09-13, 16:14:11](https://news.ycombinator.com/item?id=45233237) - [Recreating the US time zone situation](https://rachelbythebay.com/w/2025/09/12/tz/)
