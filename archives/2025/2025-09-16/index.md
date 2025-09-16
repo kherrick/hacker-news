@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
 * [2025-09-16, 17:01:16](https://news.ycombinator.com/item?id=45264867) - [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
+* [2025-09-16, 16:50:42](https://news.ycombinator.com/item?id=45264726) - [Scammed out of $130K via fake Google call, spoofed Google email and auth sync](https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google)
 * [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [All Systems Go at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
+* [2025-09-16, 16:32:13](https://news.ycombinator.com/item?id=45264484) - [The Japanese landscapes that inspired Studio Ghibli films](https://www.bbc.com/travel/article/20250912-the-japanese-landscapes-that-inspired-studio-ghibli-films)
 * [2025-09-16, 16:22:40](https://news.ycombinator.com/item?id=45264340) - [Bertrand Russell to Oswald Mosley (1962)](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
 * [2025-09-16, 16:10:44](https://news.ycombinator.com/item?id=45264190) - [IINA Introduces Plugin System](https://iina.io/plugins/)
 * [2025-09-16, 16:04:18](https://news.ycombinator.com/item?id=45264094) - [Will I Run Boston 2026?](https://getfast.ai/blogs/boston-2026)
