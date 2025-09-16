@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-16, 15:05:46",
+      "https://news.ycombinator.com/item?id=45263317"
+    ],
+    [
+      "We're launching a new Google app for Windows experiment in Labs",
+      "https://blog.google/products/search/google-app-windows-labs/"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 14:48:37",
       "https://news.ycombinator.com/item?id=45263063"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-09-15, 17:10:39",
-      "https://news.ycombinator.com/item?id=45252301"
-    ],
-    [
-      "GPT-5-Codex",
-      "https://openai.com/index/introducing-upgrades-to-codex/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 16:28:54",
       "https://news.ycombinator.com/item?id=45251690"
     ],
@@ -217,16 +217,6 @@
     [
       "PayPal to support Ethereum and Bitcoin",
       "https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 12:33:28",
-      "https://news.ycombinator.com/item?id=45248899"
-    ],
-    [
-      "How big a solar battery do I need to store all my home's electricity?",
-      "https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The Mythical Creatures of London",
       "https://londonist.com/london/history/the-mythical-creatures-of-london"
+    ]
+  ],
+  [
+    [
+      "2025-09-13, 05:42:54",
+      "https://news.ycombinator.com/item?id=45229633"
+    ],
+    [
+      "Adding FRM parser utility to MariaDB",
+      "https://hp77-creator.github.io/blogs/gsoc25"
     ]
   ],
   [
