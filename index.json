@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-09-15, 19:17:35",
-      "https://news.ycombinator.com/item?id=45253807"
-    ],
-    [
-      "GPT‑5-Codex and upgrades to Codex",
-      "https://simonwillison.net/2025/Sep/15/gpt-5-codex/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 19:14:28",
       "https://news.ycombinator.com/item?id=45253775"
     ],
@@ -221,11 +211,21 @@
   ],
   [
     [
+      "2025-09-15, 09:47:18",
+      "https://news.ycombinator.com/item?id=45247890"
+    ],
+    [
+      "RustGPT: A pure-Rust transformer LLM built from scratch",
+      "https://github.com/tekaratzas/RustGPT"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 07:14:13",
       "https://news.ycombinator.com/item?id=45246971"
     ],
     [
-      "The Mac App Flea Market",
+      "The Mac app flea market",
       "https://blog.jim-nielsen.com/2025/mac-app-flea-market/"
     ]
   ],
