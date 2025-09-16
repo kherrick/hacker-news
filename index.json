@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2025-09-15, 21:46:19",
-      "https://news.ycombinator.com/item?id=45255337"
+      "2025-09-15, 21:29:40",
+      "https://news.ycombinator.com/item?id=45255155"
     ],
     [
-      "Show HN: Pooshit – Sync local code to remote Docker containers",
-      "https://news.ycombinator.com/item?id=45255337"
+      "The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]",
+      "https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-09-15, 07:14:13",
-      "https://news.ycombinator.com/item?id=45246971"
-    ],
-    [
-      "The Mac app flea market",
-      "https://blog.jim-nielsen.com/2025/mac-app-flea-market/"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 14:56:17",
       "https://news.ycombinator.com/item?id=45232596"
     ],
@@ -277,6 +267,16 @@
     [
       "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
       "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 12:51:46",
+      "https://news.ycombinator.com/item?id=45221567"
+    ],
+    [
+      "Learn x86-64 assembly by writing a GUI from scratch",
+      "https://gaultier.github.io/blog/x11_x64.html"
     ]
   ],
   [
