@@ -49,6 +49,7 @@
 * [2025-09-13, 07:09:41](https://news.ycombinator.com/item?id=45229989) - [Nepal picks a new prime minister on a discord server days after social media ban](https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html)
 * [2025-09-13, 07:02:27](https://news.ycombinator.com/item?id=45229960) - [I unified convolution and attention into a single framework](https://zenodo.org/records/17103133)
 * [2025-09-13, 06:27:19](https://news.ycombinator.com/item?id=45229799) - [The Last Days of Social Media](https://www.noemamag.com/the-last-days-of-social-media/)
+* [2025-09-13, 05:42:54](https://news.ycombinator.com/item?id=45229633) - [Adding FRM parser utility to MariaDB](https://hp77-creator.github.io/blogs/gsoc25)
 * [2025-09-13, 05:01:29](https://news.ycombinator.com/item?id=45229443) - [Qwen 3 now supports ARM and MLX](https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/)
 * [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
 * [2025-09-13, 04:08:57](https://news.ycombinator.com/item?id=45229227) - [Raspberry Pi Synthesizers – How the Pi is transforming synths](https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/)
