@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 18:26:32](https://news.ycombinator.com/item?id=45265937) - [Live Updates: Shai-Hulud, the Most Dangerous NPM Breach in History](https://www.koi.security/blog/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor)
+* [2025-09-16, 18:22:22](https://news.ycombinator.com/item?id=45265881) - [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
+* [2025-09-16, 18:18:56](https://news.ycombinator.com/item?id=45265831) - [Show HN: AI Code Detector – detect AI-generated code with 95% accuracy](https://code-detector.ai/)
+* [2025-09-16, 18:01:42](https://news.ycombinator.com/item?id=45265610) - [The Linux Process Journey [pdf]](https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf)
 * [2025-09-16, 17:37:09](https://news.ycombinator.com/item?id=45265299) - [AMD Begins Plumbing APCI C4 Support in the Linux Kernel for Power Savings](https://www.phoronix.com/news/AMD-ACPI-C4-Linux-Kernel-Code)
 * [2025-09-16, 17:01:16](https://news.ycombinator.com/item?id=45264867) - [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
 * [2025-09-16, 16:50:42](https://news.ycombinator.com/item?id=45264726) - [Scammed out of $130K via fake Google call, spoofed Google email and auth sync](https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google)

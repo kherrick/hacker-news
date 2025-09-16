@@ -26,6 +26,7 @@
 * [2025-09-07, 19:53:03](https://news.ycombinator.com/item?id=45161556) - [No Silver Bullet: Essence and Accidents of Software Engineering [pdf]](https://www.cs.unc.edu/techreports/86-020.pdf)
 * [2025-09-07, 19:31:50](https://news.ycombinator.com/item?id=45161410) - [Clojure's Solutions to the Expression Problem](https://www.infoq.com/presentations/Clojure-Expression-Problem/)
 * [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
+* [2025-09-07, 19:08:48](https://news.ycombinator.com/item?id=45161219) - [Paper Folding Assembly Line [video]](https://www.youtube.com/watch?v=XhUuhl9iWpQ)
 * [2025-09-07, 18:50:03](https://news.ycombinator.com/item?id=45161055) - [Electric bill may be paying for big data centers' energy use](https://theconversation.com/how-your-electric-bill-may-be-paying-for-big-data-centers-energy-use-257794)
 * [2025-09-07, 18:17:29](https://news.ycombinator.com/item?id=45160780) - [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [2025-09-07, 18:16:30](https://news.ycombinator.com/item?id=45160774) - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
