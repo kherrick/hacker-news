@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 14:48:37](https://news.ycombinator.com/item?id=45263063) - [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
 * [2025-09-16, 14:35:19](https://news.ycombinator.com/item?id=45262835) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 * [2025-09-16, 14:18:19](https://news.ycombinator.com/item?id=45262582) - [Mother of All Demos](https://wordspike.com/s/5ip0xneiTsc)
 * [2025-09-16, 13:56:54](https://news.ycombinator.com/item?id=45262346) - [After escaping Russian energy dependence, Europe is locking itself in to US LNG](https://davekeating.substack.com/p/after-escaping-russian-energy-dependence)
 * [2025-09-16, 13:41:51](https://news.ycombinator.com/item?id=45262151) - [Implicit Ode Solvers Are Not Universally More Robust Than Explicit Ode Solvers](https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/)
+* [2025-09-16, 13:30:27](https://news.ycombinator.com/item?id=45262001) - [Teens turned their rooms into tech-free zones. This was the result](https://www.bbc.co.uk/news/articles/c1lelqg0jy3o)
+* [2025-09-16, 13:25:42](https://news.ycombinator.com/item?id=45261946) - [Java 25 Officially Released](https://mail.openjdk.org/pipermail/announce/2025-September/000360.html)
 * [2025-09-16, 13:24:35](https://news.ycombinator.com/item?id=45261930) - [Generative AI is hollowing out entry-level jobs, study finds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)
 * [2025-09-16, 13:20:11](https://news.ycombinator.com/item?id=45261877) - [Trucker built a scale model of NYC over 21 years](https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention)
 * [2025-09-16, 13:18:00](https://news.ycombinator.com/item?id=45261848) - [When the job search becomes impossible](https://www.jeffwofford.com/wp/?p=2240)
