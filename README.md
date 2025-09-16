@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-16, 19:40:34](https://news.ycombinator.com/item?id=45266947) - [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
 * [2025-09-16, 19:33:35](https://news.ycombinator.com/item?id=45266854) - [Should We Drain the Everglades?](https://rabbitcavern.substack.com/p/should-we-drain-the-everglades)
 * [2025-09-16, 18:47:04](https://news.ycombinator.com/item?id=45266215) - [Meta RayBan AR Glasses Shows Lumus Waveguide Structures in Leaked Video](https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/)
 * [2025-09-16, 18:33:21](https://news.ycombinator.com/item?id=45266039) - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
@@ -16,7 +17,6 @@
 * [2025-09-16, 14:48:37](https://news.ycombinator.com/item?id=45263063) - [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
 * [2025-09-16, 14:35:19](https://news.ycombinator.com/item?id=45262835) - [Things you can do with a Software Defined Radio (2024)](https://blinry.org/50-things-with-sdr/)
 * [2025-09-16, 13:41:51](https://news.ycombinator.com/item?id=45262151) - [Implicit ODE solvers are not universally more robust than explicit ODE solvers](https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/)
-* [2025-09-16, 13:25:42](https://news.ycombinator.com/item?id=45261946) - [Java 25 officially released](https://mail.openjdk.org/pipermail/announce/2025-September/000360.html)
 * [2025-09-16, 13:24:35](https://news.ycombinator.com/item?id=45261930) - [Generative AI as Seniority-Biased Technological Change](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)
 * [2025-09-16, 13:18:00](https://news.ycombinator.com/item?id=45261848) - [When the job search becomes impossible](https://www.jeffwofford.com/wp/?p=2240)
 * [2025-09-16, 13:10:29](https://news.ycombinator.com/item?id=45261764) - [CIA Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom)
