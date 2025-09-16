@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
 * [2025-09-16, 19:01:04](https://news.ycombinator.com/item?id=45266401) - [Does Pam Bondi know what free speech is?](https://thespectator.com/topic/pam-bondi-know-what-free-speech/)
+* [2025-09-16, 18:47:04](https://news.ycombinator.com/item?id=45266215) - [Meta RayBan AR Glasses Shows Lumus Waveguide Structures in Leaked Video](https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/)
+* [2025-09-16, 18:33:21](https://news.ycombinator.com/item?id=45266039) - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
 * [2025-09-16, 18:26:32](https://news.ycombinator.com/item?id=45265937) - [Live Updates: Shai-Hulud, the Most Dangerous NPM Breach in History](https://www.koi.security/blog/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor)
 * [2025-09-16, 18:22:22](https://news.ycombinator.com/item?id=45265881) - [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
 * [2025-09-16, 18:18:56](https://news.ycombinator.com/item?id=45265831) - [Show HN: AI Code Detector – detect AI-generated code with 95% accuracy](https://code-detector.ai/)
