@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
 * [2025-09-16, 20:43:43](https://news.ycombinator.com/item?id=45267762) - [SQL performance improvements: finding the right queries to fix](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)
 * [2025-09-16, 20:10:59](https://news.ycombinator.com/item?id=45267336) - [The \"Most Hated\" CSS Feature: Cos() and Sin()](https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/)
 * [2025-09-16, 19:40:34](https://news.ycombinator.com/item?id=45266947) - [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
