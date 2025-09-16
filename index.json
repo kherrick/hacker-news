@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-16, 19:40:34",
+      "https://news.ycombinator.com/item?id=45266947"
+    ],
+    [
+      "In Defense of C++",
+      "https://dayvster.com/blog/in-defense-of-cpp/"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 19:33:35",
       "https://news.ycombinator.com/item?id=45266854"
     ],
@@ -157,16 +167,6 @@
     [
       "Implicit ODE solvers are not universally more robust than explicit ODE solvers",
       "https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 13:25:42",
-      "https://news.ycombinator.com/item?id=45261946"
-    ],
-    [
-      "Java 25 officially released",
-      "https://mail.openjdk.org/pipermail/announce/2025-September/000360.html"
     ]
   ],
   [
