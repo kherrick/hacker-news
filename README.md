@@ -2,10 +2,10 @@
 
 * [2025-09-16, 13:20:11](https://news.ycombinator.com/item?id=45261877) - [Trucker built a scale model of NYC over 21 years](https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention)
 * [2025-09-16, 13:18:00](https://news.ycombinator.com/item?id=45261848) - [When the job search becomes impossible](https://www.jeffwofford.com/wp/?p=2240)
+* [2025-09-16, 13:10:29](https://news.ycombinator.com/item?id=45261764) - [CIA Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom)
 * [2025-09-16, 12:45:58](https://news.ycombinator.com/item?id=45261480) - [Just Use HTML](https://gomakethings.com/just-use-html/)
 * [2025-09-16, 12:10:49](https://news.ycombinator.com/item?id=45261163) - [FBI couldn't get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/)
 * [2025-09-16, 12:10:31](https://news.ycombinator.com/item?id=45261159) - [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html)
-* [2025-09-16, 11:51:18](https://news.ycombinator.com/item?id=45260969) - [Ask HN: Generalists, when do you say \"I know enough\" about any particular topic?](https://news.ycombinator.com/item?id=45260969)
 * [2025-09-16, 11:22:03](https://news.ycombinator.com/item?id=45260741) - [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
 * [2025-09-16, 04:08:00](https://news.ycombinator.com/item?id=45257929) - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
 * [2025-09-16, 03:05:53](https://news.ycombinator.com/item?id=45257627) - [\"Your\" vs. \"My\" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
