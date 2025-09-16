@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-09-16, 17:37:09",
-      "https://news.ycombinator.com/item?id=45265299"
+      "2025-09-16, 18:26:32",
+      "https://news.ycombinator.com/item?id=45265937"
     ],
     [
-      "AMD Begins Plumbing APCI C4 Support in the Linux Kernel for Power Savings",
-      "https://www.phoronix.com/news/AMD-ACPI-C4-Linux-Kernel-Code"
+      "Live Updates: Shai-Hulud, the Most Dangerous NPM Breach in History",
+      "https://www.koi.security/blog/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 18:22:22",
+      "https://news.ycombinator.com/item?id=45265881"
+    ],
+    [
+      "Adios Chicos, 25 Years of KDE",
+      "https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 18:18:56",
+      "https://news.ycombinator.com/item?id=45265831"
+    ],
+    [
+      "Show HN: AI Code Detector – detect AI-generated code with 95% accuracy",
+      "https://code-detector.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 18:01:42",
+      "https://news.ycombinator.com/item?id=45265610"
+    ],
+    [
+      "The Linux Process Journey [pdf]",
+      "https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf"
     ]
   ],
   [
@@ -21,22 +51,22 @@
   ],
   [
     [
+      "2025-09-16, 16:50:42",
+      "https://news.ycombinator.com/item?id=45264726"
+    ],
+    [
+      "Scammed out of $130K via fake Google call, spoofed Google email and auth sync",
+      "https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 16:38:08",
       "https://news.ycombinator.com/item?id=45264562"
     ],
     [
       "Waymo has received our pilot permit allowing for commercial operations at SFO",
       "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 16:32:13",
-      "https://news.ycombinator.com/item?id=45264484"
-    ],
-    [
-      "The Japanese landscapes that inspired Studio Ghibli films",
-      "https://www.bbc.com/travel/article/20250912-the-japanese-landscapes-that-inspired-studio-ghibli-films"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2025-09-16, 13:56:54",
-      "https://news.ycombinator.com/item?id=45262346"
-    ],
-    [
-      "Europe is locking itself in to US LNG",
-      "https://davekeating.substack.com/p/after-escaping-russian-energy-dependence"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 13:41:51",
       "https://news.ycombinator.com/item?id=45262151"
     ],
@@ -147,16 +167,6 @@
     [
       "Generative AI as Seniority-Biased Technological Change",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 13:20:11",
-      "https://news.ycombinator.com/item?id=45261877"
-    ],
-    [
-      "Trucker built a scale model of NYC over 21 years",
-      "https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2025-09-15, 17:53:19",
-      "https://news.ycombinator.com/item?id=45252817"
+      "2025-09-15, 01:12:11",
+      "https://news.ycombinator.com/item?id=45245050"
     ],
     [
-      "Hosting a website on a disposable vape",
-      "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
+      "I built my own phone because innovation is sad rn [video]",
+      "https://www.youtube.com/watch?v=qy_9w_c2ub0"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-09-13, 17:16:03",
-      "https://news.ycombinator.com/item?id=45233675"
+      "2025-09-13, 14:37:52",
+      "https://news.ycombinator.com/item?id=45232426"
     ],
     [
-      "Word numbers: Billion approaches (2008)",
-      "http://conway.rutgers.edu/~ccshan/wiki/blog/posts/WordNumbers1/"
+      "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
+      "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-09-13, 05:42:54",
-      "https://news.ycombinator.com/item?id=45229633"
-    ],
-    [
-      "Adding FRM parser utility to MariaDB",
-      "https://hp77-creator.github.io/blogs/gsoc25"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 00:30:47",
       "https://news.ycombinator.com/item?id=45228231"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-12, 12:51:46",
-      "https://news.ycombinator.com/item?id=45221567"
+      "2025-09-07, 19:08:48",
+      "https://news.ycombinator.com/item?id=45161219"
     ],
     [
-      "Learn x86-64 assembly by writing a GUI from scratch (2023)",
-      "https://gaultier.github.io/blog/x11_x64.html"
+      "Paper Folding Assembly Line [video]",
+      "https://www.youtube.com/watch?v=XhUuhl9iWpQ"
     ]
   ]
 ]
