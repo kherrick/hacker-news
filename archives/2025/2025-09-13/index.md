@@ -36,6 +36,7 @@
 * [2025-09-13, 13:47:38](https://news.ycombinator.com/item?id=45232052) - [Japan sets record of nearly 100k people aged over 100](https://www.bbc.com/news/articles/cd07nljlyv0o)
 * [2025-09-13, 13:37:22](https://news.ycombinator.com/item?id=45231994) - [America's Largest Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/homebuilders/)
 * [2025-09-13, 13:15:26](https://news.ycombinator.com/item?id=45231852) - [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
+* [2025-09-13, 12:15:38](https://news.ycombinator.com/item?id=45231433) - [The Artistry of Avril Harrison – Scanline Artifacts](https://scanlineartifacts.co.uk/2024/09/30/the-artistry-of-avril-harrison/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [A store that generates products from anything you type in search](https://anycrap.shop/)
 * [2025-09-13, 11:30:50](https://news.ycombinator.com/item?id=45231239) - [How 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans)
 * [2025-09-13, 11:28:28](https://news.ycombinator.com/item?id=45231229) - [I Made a Mechanical Laptop](https://www.youtube.com/watch?v=kGHAUogFsYY)
