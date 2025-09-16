@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 13:20:11](https://news.ycombinator.com/item?id=45261877) - [Trucker built a scale model of NYC over 21 years](https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention)
+* [2025-09-16, 13:18:00](https://news.ycombinator.com/item?id=45261848) - [When the job search becomes impossible](https://www.jeffwofford.com/wp/?p=2240)
 * [2025-09-16, 12:45:58](https://news.ycombinator.com/item?id=45261480) - [Just Use HTML](https://gomakethings.com/just-use-html/)
 * [2025-09-16, 12:10:49](https://news.ycombinator.com/item?id=45261163) - [FBI couldn't get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/)
 * [2025-09-16, 12:10:31](https://news.ycombinator.com/item?id=45261159) - [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html)
