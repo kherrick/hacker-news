@@ -6,9 +6,11 @@
 
 * [2025-09-16, 13:56:54](https://news.ycombinator.com/item?id=45262346) - [After escaping Russian energy dependence, Europe is locking itself in to US LNG](https://davekeating.substack.com/p/after-escaping-russian-energy-dependence)
 * [2025-09-16, 13:41:51](https://news.ycombinator.com/item?id=45262151) - [Implicit Ode Solvers Are Not Universally More Robust Than Explicit Ode Solvers](https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/)
+* [2025-09-16, 13:24:35](https://news.ycombinator.com/item?id=45261930) - [Generative AI is hollowing out entry-level jobs, study finds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)
 * [2025-09-16, 13:20:11](https://news.ycombinator.com/item?id=45261877) - [Trucker built a scale model of NYC over 21 years](https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention)
 * [2025-09-16, 13:18:00](https://news.ycombinator.com/item?id=45261848) - [When the job search becomes impossible](https://www.jeffwofford.com/wp/?p=2240)
 * [2025-09-16, 13:10:29](https://news.ycombinator.com/item?id=45261764) - [CIA Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom)
+* [2025-09-16, 13:02:20](https://news.ycombinator.com/item?id=45261659) - [Teen Safety, Freedom, and Privacy](https://openai.com/index/teen-safety-freedom-and-privacy)
 * [2025-09-16, 12:45:58](https://news.ycombinator.com/item?id=45261480) - [Just Use HTML](https://gomakethings.com/just-use-html/)
 * [2025-09-16, 12:10:49](https://news.ycombinator.com/item?id=45261163) - [FBI couldn't get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/)
 * [2025-09-16, 12:10:31](https://news.ycombinator.com/item?id=45261159) - [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html)
