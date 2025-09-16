@@ -16,6 +16,7 @@
 * [2025-09-16, 03:05:53](https://news.ycombinator.com/item?id=45257627) - [\"Your\" vs. \"My\" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
 * [2025-09-16, 00:20:59](https://news.ycombinator.com/item?id=45256577) - [I feel Apple has lost its alignment with me and other long-time customers](https://morrick.me/archives/10137)
 * [2025-09-15, 21:28:01](https://news.ycombinator.com/item?id=45255137) - [William Gibson Reads Neuromancer (2004)](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
+* [2025-09-15, 18:45:32](https://news.ycombinator.com/item?id=45253458) - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
 * [2025-09-15, 17:53:19](https://news.ycombinator.com/item?id=45252817) - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 * [2025-09-15, 17:46:01](https://news.ycombinator.com/item?id=45252715) - [React is winning by default and slowing innovation](https://www.lorenstew.art/blog/react-won-by-default/)
 * [2025-09-15, 17:16:42](https://news.ycombinator.com/item?id=45252378) - [macOS Tahoe](https://www.apple.com/os/macos/)
@@ -28,7 +29,6 @@
 * [2025-09-13, 10:09:30](https://news.ycombinator.com/item?id=45230840) - [The Mythical Creatures of London](https://londonist.com/london/history/the-mythical-creatures-of-london)
 * [2025-09-13, 00:30:47](https://news.ycombinator.com/item?id=45228231) - [Scientists uncover extreme life inside the Arctic ice](https://news.stanford.edu/stories/2025/09/extreme-life-arctic-ice-diatoms-ecological-discovery)
 * [2025-09-12, 18:41:36](https://news.ycombinator.com/item?id=45225217) - [Migrating to React Native's New Architecture](https://shopify.engineering/react-native-new-architecture)
-* [2025-09-12, 13:47:22](https://news.ycombinator.com/item?id=45222117) - [Klotski](https://2swap.github.io/Klotski-Webpage/)
 * [2025-09-12, 12:51:46](https://news.ycombinator.com/item?id=45221567) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)
 
 ## [Archives](archives/index.md)
