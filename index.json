@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-09-16, 16:50:42",
+      "https://news.ycombinator.com/item?id=45264726"
+    ],
+    [
+      "Scammed out of $130K via fake Google call, spoofed Google email and auth sync",
+      "https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 16:38:08",
       "https://news.ycombinator.com/item?id=45264562"
     ],
     [
-      "All Systems Go at SFO",
+      "Waymo has received our pilot permit allowing for commercial operations at SFO",
       "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 16:32:13",
+      "https://news.ycombinator.com/item?id=45264484"
+    ],
+    [
+      "The Japanese landscapes that inspired Studio Ghibli films",
+      "https://www.bbc.com/travel/article/20250912-the-japanese-landscapes-that-inspired-studio-ghibli-films"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45264094"
     ],
     [
-      "Will I Run Boston 2026?",
+      "Will I run Boston 2026?",
       "https://getfast.ai/blogs/boston-2026"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45263221"
     ],
     [
-      "1975 Sep 16 MOS Technology samples 6502 at WESCON, here's how they designed it",
+      "Development of the MOS Technology 6502: A Historical Perspective (2022)",
       "https://www.EmbeddedRelated.com/showarticle/1453.php"
     ]
   ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-09-16, 14:18:19",
-      "https://news.ycombinator.com/item?id=45262582"
-    ],
-    [
-      "Mother of All Demos (1968)",
-      "https://wordspike.com/s/5ip0xneiTsc"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 13:56:54",
       "https://news.ycombinator.com/item?id=45262346"
     ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45262151"
     ],
     [
-      "Implicit Ode Solvers Are Not Universally More Robust Than Explicit Ode Solvers",
+      "Implicit ODE Solvers Are Not Universally More Robust Than Explicit ODE Solvers",
       "https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/"
     ]
   ],
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2025-09-16, 13:20:11",
-      "https://news.ycombinator.com/item?id=45261877"
-    ],
-    [
-      "Trucker built a scale model of NYC over 21 years",
-      "https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 13:10:29",
       "https://news.ycombinator.com/item?id=45261764"
     ],
     [
       "CIA Freedom of Information Act Electronic Reading Room",
       "https://www.cia.gov/readingroom"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 13:02:20",
+      "https://news.ycombinator.com/item?id=45261659"
+    ],
+    [
+      "Teen safety, freedom, and privacy",
+      "https://openai.com/index/teen-safety-freedom-and-privacy"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=45260741"
     ],
     [
-      "Self Propagating NPM Malware Compromises over 40 Packages",
+      "Self Propagating NPM Malware",
       "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "William Gibson Reads Neuromancer (2004)",
       "http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 17:53:19",
-      "https://news.ycombinator.com/item?id=45252817"
-    ],
-    [
-      "Hosting a website on a disposable vape",
-      "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=45233675"
     ],
     [
-      "WordNumbers: Counting letters of number names, alphabetized and concatenated",
+      "Word numbers: Billion approaches (2008)",
       "http://conway.rutgers.edu/~ccshan/wiki/blog/posts/WordNumbers1/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45230515"
     ],
     [
-      "UTF-8 as told by Rob Pike",
+      "UTF-8 history (2003)",
       "https://doc.cat-v.org/bell_labs/utf-8_history"
     ]
   ],
