@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-16, 23:01:09](https://news.ycombinator.com/item?id=45269396) - [From Alphabet to Visa, US giants drive euro-denominated bond surge](https://www.reuters.com/business/finance/alphabet-visa-us-giants-drive-euro-denominated-bond-surge-2025-09-16/)
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
 * [2025-09-16, 20:43:43](https://news.ycombinator.com/item?id=45267762) - [SQL performance improvements: finding the right queries to fix](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)
 * [2025-09-16, 20:10:59](https://news.ycombinator.com/item?id=45267336) - [The \"Most Hated\" CSS Feature: Cos() and Sin()](https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/)
@@ -23,7 +24,6 @@
 * [2025-09-15, 11:46:45](https://news.ycombinator.com/item?id=45248558) - [A dumb introduction to z3](https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/)
 * [2025-09-15, 01:12:11](https://news.ycombinator.com/item?id=45245050) - [I built my own phone because innovation is sad rn [video]](https://www.youtube.com/watch?v=qy_9w_c2ub0)
 * [2025-09-14, 00:36:23](https://news.ycombinator.com/item?id=45236479) - [Writing an operating system kernel from scratch – RISC-V/OpenSBI/Zig](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
-* [2025-09-13, 19:04:57](https://news.ycombinator.com/item?id=45234481) - [PA-RISC Performance and History](https://www.openpa.net/pa-risc_processor_history.html)
 * [2025-09-13, 16:34:48](https://news.ycombinator.com/item?id=45233364) - [Soviet Maps (2021)](https://twitter.com/LindyScience/status/1413532678318612482)
 * [2025-09-13, 14:37:52](https://news.ycombinator.com/item?id=45232426) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 * [2025-09-13, 14:28:38](https://news.ycombinator.com/item?id=45232344) - [Wind turbine blade transportation challenges](https://spectrum.ieee.org/wind-turbine-blade-transport-plane)
