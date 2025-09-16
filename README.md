@@ -24,10 +24,10 @@
 * [2025-09-15, 11:46:45](https://news.ycombinator.com/item?id=45248558) - [A dumb introduction to z3](https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/)
 * [2025-09-15, 01:12:11](https://news.ycombinator.com/item?id=45245050) - [I built my own phone because innovation is sad rn [video]](https://www.youtube.com/watch?v=qy_9w_c2ub0)
 * [2025-09-14, 00:36:23](https://news.ycombinator.com/item?id=45236479) - [Writing an operating system kernel from scratch – RISC-V/OpenSBI/Zig](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
+* [2025-09-13, 22:32:33](https://news.ycombinator.com/item?id=45235848) - [Inboxfuscation: Because Rules Are Meant to Be Broken](https://permiso.io/blog/inboxfuscation-because-rules-are-meant-to-be-broken)
 * [2025-09-13, 16:34:48](https://news.ycombinator.com/item?id=45233364) - [Soviet Maps (2021)](https://twitter.com/LindyScience/status/1413532678318612482)
 * [2025-09-13, 14:37:52](https://news.ycombinator.com/item?id=45232426) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 * [2025-09-13, 14:28:38](https://news.ycombinator.com/item?id=45232344) - [Wind turbine blade transportation challenges](https://spectrum.ieee.org/wind-turbine-blade-transport-plane)
-* [2025-09-13, 12:43:54](https://news.ycombinator.com/item?id=45231614) - [60 years after Gemini, newly processed images reveal details](https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/)
 * [2025-09-13, 08:56:00](https://news.ycombinator.com/item?id=45230515) - [UTF-8 history (2003)](https://doc.cat-v.org/bell_labs/utf-8_history)
 * [2025-09-07, 19:08:48](https://news.ycombinator.com/item?id=45161219) - [Paper Folding Assembly Line [video]](https://www.youtube.com/watch?v=XhUuhl9iWpQ)
 

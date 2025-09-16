@@ -8,6 +8,7 @@
 * [2025-09-13, 23:50:25](https://news.ycombinator.com/item?id=45236263) - [Two Slice, a font that's only 2px tall](https://joefatula.com/twoslice.html)
 * [2025-09-13, 23:16:40](https://news.ycombinator.com/item?id=45236079) - [Pass: Unix Password Manager](https://www.passwordstore.org/)
 * [2025-09-13, 23:06:07](https://news.ycombinator.com/item?id=45236014) - [ERP Therapy Sucks](https://taylor.town/try-erp)
+* [2025-09-13, 22:32:33](https://news.ycombinator.com/item?id=45235848) - [Inboxfuscation: Because Rules Are Meant to Be Broken](https://permiso.io/blog/inboxfuscation-because-rules-are-meant-to-be-broken)
 * [2025-09-13, 22:05:17](https://news.ycombinator.com/item?id=45235697) - [Wayland breaks the tools I use to make a living](https://rykarn.se/2025/01/26/wayland)
 * [2025-09-13, 22:01:35](https://news.ycombinator.com/item?id=45235676) - [AI Will Not Make You Rich](https://joincolossus.com/article/ai-will-not-make-you-rich/)
 * [2025-09-13, 21:55:42](https://news.ycombinator.com/item?id=45235648) - [Heart attacks may be triggered by bacteria](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
