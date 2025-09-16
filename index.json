@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-09-15, 09:47:18",
-      "https://news.ycombinator.com/item?id=45247890"
-    ],
-    [
-      "RustGPT: A pure-Rust transformer LLM built from scratch",
-      "https://github.com/tekaratzas/RustGPT"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 14:56:17",
       "https://news.ycombinator.com/item?id=45232596"
     ],
@@ -277,6 +267,16 @@
     [
       "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
       "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-12, 14:55:38",
+      "https://news.ycombinator.com/item?id=45222819"
+    ],
+    [
+      "Experimental browser MMO with bots, boss fights and power-ups",
+      "https://www.blobeer.com/"
     ]
   ],
   [
