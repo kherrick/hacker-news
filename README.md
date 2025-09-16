@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-16, 08:20:24](https://news.ycombinator.com/item?id=45259529) - [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
-* [2025-09-16, 08:00:13](https://news.ycombinator.com/item?id=45259360) - [Reichstag Fire Decree (1933)](https://encyclopedia.ushmm.org/content/en/article/reichstag-fire-decree)
 * [2025-09-16, 07:28:42](https://news.ycombinator.com/item?id=45259139) - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
 * [2025-09-16, 04:08:00](https://news.ycombinator.com/item?id=45257929) - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
 * [2025-09-16, 03:05:53](https://news.ycombinator.com/item?id=45257627) - [\"Your\" vs. \"My\" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
@@ -25,6 +24,7 @@
 * [2025-09-13, 23:06:07](https://news.ycombinator.com/item?id=45236014) - [ERP Therapy Sucks](https://taylor.town/try-erp)
 * [2025-09-13, 12:43:54](https://news.ycombinator.com/item?id=45231614) - [60 years after Gemini, newly processed images reveal details](https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/)
 * [2025-09-13, 12:15:38](https://news.ycombinator.com/item?id=45231433) - [The Artistry of Avril Harrison (2024)](https://scanlineartifacts.co.uk/2024/09/30/the-artistry-of-avril-harrison/)
+* [2025-09-13, 03:05:57](https://news.ycombinator.com/item?id=45228981) - [Basics of Equality Saturation](https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html)
 * [2025-09-12, 22:51:19](https://news.ycombinator.com/item?id=45227679) - [People Who Hunt Down Old TVs](https://www.bbc.com/future/article/20250911-the-people-who-hunt-down-old-tvs)
 * [2025-09-12, 20:05:05](https://news.ycombinator.com/item?id=45226135) - [I wish my web server were in the corner of my room (2022)](https://interconnected.org/home/2022/10/10/servers)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
