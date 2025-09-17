@@ -58,6 +58,7 @@
 * [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
 * [2025-09-15, 09:46:05](https://news.ycombinator.com/item?id=45247877) - [Amish Men Live Longer](https://plainanabaptistjournal.org/article/id/6590/)
 * [2025-09-15, 09:04:23](https://news.ycombinator.com/item?id=45247616) - [How does air pollution impact your brain?](https://neurofrontiers.blog/how-does-air-pollution-impact-your-brain/)
+* [2025-09-15, 08:32:15](https://news.ycombinator.com/item?id=45247424) - [Tuberculosis shaped Victorian fashion (2016)](https://www.smithsonianmag.com/science-nature/how-tuberculosis-shaped-victorian-fashion-180959029/)
 * [2025-09-15, 08:32:12](https://news.ycombinator.com/item?id=45247423) - [The Culture Novels as a Dystopia](https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/)
 * [2025-09-15, 08:28:09](https://news.ycombinator.com/item?id=45247396) - [Show HN: I reverse engineered macOS to allow custom Lock Screen wallpapers](https://cindori.com/backdrop)
 * [2025-09-15, 07:14:13](https://news.ycombinator.com/item?id=45246971) - [The Mac App Flea Market](https://blog.jim-nielsen.com/2025/mac-app-flea-market/)
