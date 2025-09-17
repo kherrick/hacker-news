@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 08:38:17](https://news.ycombinator.com/item?id=45273352) - [Why We're Building Stategraph: Terraform State as a Distributed Systems Problem](https://stategraph.dev/blog/why-stategraph/)
 * [2025-09-17, 07:00:09](https://news.ycombinator.com/item?id=45272692) - [Tabby – A Terminal for the Modern Age](https://github.com/Eugeny/tabby)
 * [2025-09-17, 06:32:17](https://news.ycombinator.com/item?id=45272480) - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
 * [2025-09-17, 06:04:06](https://news.ycombinator.com/item?id=45272296) - [In Praise of Idleness (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
@@ -25,7 +26,6 @@
 * [2025-09-15, 11:46:45](https://news.ycombinator.com/item?id=45248558) - [A dumb introduction to z3](https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/)
 * [2025-09-15, 08:32:15](https://news.ycombinator.com/item?id=45247424) - [Tuberculosis shaped Victorian fashion (2016)](https://www.smithsonianmag.com/science-nature/how-tuberculosis-shaped-victorian-fashion-180959029/)
 * [2025-09-15, 08:03:18](https://news.ycombinator.com/item?id=45247259) - [Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?](https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/)
-* [2025-09-15, 05:41:45](https://news.ycombinator.com/item?id=45246457) - [Mixed Excitation Linear Predictive (MELP) Vocoders](https://melpe.org/)
 * [2025-09-15, 01:12:11](https://news.ycombinator.com/item?id=45245050) - [I built my own phone because innovation is sad rn [video]](https://www.youtube.com/watch?v=qy_9w_c2ub0)
 * [2025-09-13, 21:41:15](https://news.ycombinator.com/item?id=45235566) - [Normal-order syntax-rules and proving the fix-point of call/cc](https://okmij.org/ftp/Scheme/callcc-calc-page.html)
 * [2025-09-13, 15:37:45](https://news.ycombinator.com/item?id=45232940) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
