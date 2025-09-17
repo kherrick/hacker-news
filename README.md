@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 03:54:36](https://news.ycombinator.com/item?id=45271484) - [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
 * [2025-09-17, 03:54:06](https://news.ycombinator.com/item?id=45271481) - [GNU Midnight Commander](https://midnight-commander.org/)
+* [2025-09-17, 03:10:46](https://news.ycombinator.com/item?id=45271180) - [Java 25 General Availability](https://jdk.java.net/25/)
 * [2025-09-17, 02:39:19](https://news.ycombinator.com/item?id=45270981) - [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
 * [2025-09-17, 02:37:09](https://news.ycombinator.com/item?id=45270965) - [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
 * [2025-09-17, 01:57:58](https://news.ycombinator.com/item?id=45270676) - [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)
@@ -12,7 +14,6 @@
 * [2025-09-16, 19:40:34](https://news.ycombinator.com/item?id=45266947) - [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
 * [2025-09-16, 18:33:21](https://news.ycombinator.com/item?id=45266039) - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
 * [2025-09-16, 18:12:29](https://news.ycombinator.com/item?id=45265745) - [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
-* [2025-09-16, 18:01:42](https://news.ycombinator.com/item?id=45265610) - [The Linux Process Journey (2023) [pdf]](https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf)
 * [2025-09-16, 17:01:16](https://news.ycombinator.com/item?id=45264867) - [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
 * [2025-09-16, 16:50:42](https://news.ycombinator.com/item?id=45264726) - [Scammed out of $130K via fake Google call, spoofed Google email and auth sync](https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google)
 * [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [Waymo has received our pilot permit allowing for commercial operations at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
@@ -29,7 +30,6 @@
 * [2025-09-13, 14:37:52](https://news.ycombinator.com/item?id=45232426) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 * [2025-09-13, 14:28:38](https://news.ycombinator.com/item?id=45232344) - [Wind turbine blade transportation challenges](https://spectrum.ieee.org/wind-turbine-blade-transport-plane)
 * [2025-09-13, 04:33:38](https://news.ycombinator.com/item?id=45229322) - [Mystery in the Moon](https://engelsbergideas.com/reviews/mystery-in-the-moon/)
-* [2025-09-10, 02:24:56](https://news.ycombinator.com/item?id=45192374) - [LavaMoat – Tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat)
 
 ## [Archives](archives/index.md)
 
