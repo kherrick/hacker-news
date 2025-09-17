@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 22:00:45](https://news.ycombinator.com/item?id=45281899) - [Pg_links](https://giulianopz.github.io/pg.html)
+* [2025-09-17, 21:42:39](https://news.ycombinator.com/item?id=45281734) - [Stephen Miller's Quota Likely Drove Korean Arrests in Immigration Raid](https://www.forbes.com/sites/stuartanderson/2025/09/16/stephen-millers-quota-likely-drove-korean-arrests-in-immigration-raid/)
 * [2025-09-17, 21:28:09](https://news.ycombinator.com/item?id=45281593) - [Tesla is trying to hide 3 Robotaxi accidents](https://electrek.co/2025/09/17/tesla-hide-3-robotaxi-accidents/)
 * [2025-09-17, 21:10:04](https://news.ycombinator.com/item?id=45281437) - [Jqp: TUI Playground to Experiment with Jq](https://github.com/noahgorstein/jqp)
 * [2025-09-17, 20:41:07](https://news.ycombinator.com/item?id=45281139) - [Claude Code Degradation: A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
