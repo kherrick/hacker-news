@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 17:00:05](https://news.ycombinator.com/item?id=45278424) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs)
 * [2025-09-17, 16:13:00](https://news.ycombinator.com/item?id=45277704) - [Launch HN: RunRL (YC X25) – Reinforcement learning as a service](https://runrl.com)
 * [2025-09-17, 15:53:42](https://news.ycombinator.com/item?id=45277346) - [Not Buying American Anymore](https://xd1.dev/2025/09/not-buying-american-anymore)
 * [2025-09-17, 15:28:25](https://news.ycombinator.com/item?id=45277023) - [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)

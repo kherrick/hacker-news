@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 17:00:05](https://news.ycombinator.com/item?id=45278424) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs)
 * [2025-09-17, 16:13:00](https://news.ycombinator.com/item?id=45277704) - [Launch HN: RunRL (YC X25) – Reinforcement learning as a service](https://runrl.com)
 * [2025-09-17, 15:28:25](https://news.ycombinator.com/item?id=45277023) - [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)
 * [2025-09-17, 15:25:24](https://news.ycombinator.com/item?id=45276987) - [How to motivate yourself to do a thing you don't want to do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/)
@@ -29,7 +30,6 @@
 * [2025-09-16, 11:22:03](https://news.ycombinator.com/item?id=45260741) - [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages)
 * [2025-09-15, 11:58:00](https://news.ycombinator.com/item?id=45248628) - [You can't test if quantum uses complex numbers](https://algassert.com/post/2501)
 * [2025-09-15, 11:40:51](https://news.ycombinator.com/item?id=45248524) - [XeroxNostalgia.com](https://xeroxnostalgia.com/)
-* [2025-09-15, 10:14:38](https://news.ycombinator.com/item?id=45248043) - [Algebraic Types are not Scary](https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html)
 
 ## [Archives](archives/index.md)
 
