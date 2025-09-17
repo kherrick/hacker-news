@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-17, 14:56:20",
+      "https://news.ycombinator.com/item?id=45276614"
+    ],
+    [
+      "A single adblock filter may have caused YouTube's global view drop",
+      "https://github.com/easylist/easylist/issues/22375"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 14:29:10",
       "https://news.ycombinator.com/item?id=45276262"
     ],
     [
       "YouTube addresses lower view counts which seem to be caused by ad blockers",
       "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 14:02:29",
+      "https://news.ycombinator.com/item?id=45275973"
+    ],
+    [
+      "UUIDv47: Store UUIDv7 in DB, emit UUIDv4 outside (SipHash-masked timestamp)",
+      "https://github.com/stateless-me/uuidv47"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "PureVPN IPv6 Leak",
       "https://anagogistis.com/posts/purevpn-ipv6-leak/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 09:57:50",
-      "https://news.ycombinator.com/item?id=45273824"
-    ],
-    [
-      "Oh no, not again a meditation on NPM supply chain attacks",
-      "https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Doom crash after 2.5 years of real-world runtime confirmed on real hardware",
       "https://lenowo.org/viewtopic.php?t=31"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 19:27:40",
-      "https://news.ycombinator.com/item?id=45266771"
-    ],
-    [
-      "DataTables CDN Outage – post incident review",
-      "https://datatables.net/blog/2025/july-29-outage"
     ]
   ],
   [
