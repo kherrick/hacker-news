@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-17, 04:26:02",
+      "https://news.ycombinator.com/item?id=45271664"
+    ],
+    [
+      "I just want an 80×25 console, but that's no longer possible",
+      "https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 04:23:51",
       "https://news.ycombinator.com/item?id=45271649"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45270108"
     ],
     [
-      "Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s",
+      "About the security content of iOS 15.8.5 and iPadOS 15.8.5",
       "https://support.apple.com/en-us/125142"
     ]
   ],
@@ -117,6 +127,16 @@
     [
       "Doom crash after 2.5 years of real-world runtime confirmed on real hardware",
       "https://lenowo.org/viewtopic.php?t=31"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 20:10:59",
+      "https://news.ycombinator.com/item?id=45267336"
+    ],
+    [
+      "The \"most hated\" CSS feature: cos() and sin()",
+      "https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-09-16, 16:50:42",
-      "https://news.ycombinator.com/item?id=45264726"
-    ],
-    [
-      "Scammed out of $130K via fake Google call, spoofed Google email and auth sync",
-      "https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 16:38:08",
       "https://news.ycombinator.com/item?id=45264562"
     ],
@@ -207,16 +217,6 @@
     [
       "Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised",
       "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 08:24:22",
-      "https://news.ycombinator.com/item?id=45259553"
-    ],
-    [
-      "Top UN legal investigators conclude Israel is guilty of genocide in Gaza",
-      "https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza"
     ]
   ],
   [
