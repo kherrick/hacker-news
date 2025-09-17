@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-09-17, 17:29:58",
-      "https://news.ycombinator.com/item?id=45278819"
+      "2025-09-17, 18:16:53",
+      "https://news.ycombinator.com/item?id=45279384"
     ],
     [
-      "Ask HN: Is anyone else sick of AI splattered code",
-      "https://news.ycombinator.com/item?id=45278819"
+      "WASM 3.0 Completed",
+      "https://webassembly.org/news/2025-09-17-wasm-3.0/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 18:15:16",
+      "https://news.ycombinator.com/item?id=45279357"
+    ],
+    [
+      "DeepMind and OpenAI Win Gold at ICPC, OpenAI AKs",
+      "https://codeforces.com/blog/entry/146536"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 17:57:39",
+      "https://news.ycombinator.com/item?id=45279143"
+    ],
+    [
+      "Anthropic irks White House with limits on models’ use",
+      "https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Event Horizon Labs (YC W24) Is Hiring",
       "https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 16:49:37",
+      "https://news.ycombinator.com/item?id=45278279"
+    ],
+    [
+      "Ton Roosendaal to step down as Blender chairman and CEO",
+      "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/"
     ]
   ],
   [
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2025-09-17, 06:32:17",
-      "https://news.ycombinator.com/item?id=45272480"
-    ],
-    [
-      "Murex – An intuitive and content aware shell for a modern command line",
-      "https://murex.rocks/"
-    ]
-  ],
-  [
-    [
       "2025-09-17, 05:11:50",
       "https://news.ycombinator.com/item?id=45271942"
     ],
     [
       "Notion API importer, with Databases to Bases conversion bounty",
       "https://github.com/obsidianmd/obsidian-importer/issues/421"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 03:54:36",
-      "https://news.ycombinator.com/item?id=45271484"
-    ],
-    [
-      "The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
-      "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 03:54:06",
-      "https://news.ycombinator.com/item?id=45271481"
-    ],
-    [
-      "GNU Midnight Commander",
-      "https://midnight-commander.org/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-09-16, 03:32:43",
+      "https://news.ycombinator.com/item?id=45257757"
+    ],
+    [
+      "Just for fun: animating a mosaic of 90s GIFs",
+      "https://alexplescan.com/posts/2025/09/15/gifs/"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 16:24:38",
       "https://news.ycombinator.com/item?id=45251624"
     ],
     [
       "Ask HN: What's a good 3D Printer for sub $1000?",
       "https://news.ycombinator.com/item?id=45251624"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 11:58:00",
-      "https://news.ycombinator.com/item?id=45248628"
-    ],
-    [
-      "You can't test if quantum uses complex numbers",
-      "https://algassert.com/post/2501"
     ]
   ]
 ]
