@@ -61,6 +61,7 @@
 * [2025-09-15, 08:32:15](https://news.ycombinator.com/item?id=45247424) - [Tuberculosis shaped Victorian fashion (2016)](https://www.smithsonianmag.com/science-nature/how-tuberculosis-shaped-victorian-fashion-180959029/)
 * [2025-09-15, 08:32:12](https://news.ycombinator.com/item?id=45247423) - [The Culture Novels as a Dystopia](https://www.boristhebrave.com/2025/09/14/the-culture-novels-as-a-dystopia/)
 * [2025-09-15, 08:28:09](https://news.ycombinator.com/item?id=45247396) - [Show HN: I reverse engineered macOS to allow custom Lock Screen wallpapers](https://cindori.com/backdrop)
+* [2025-09-15, 08:03:18](https://news.ycombinator.com/item?id=45247259) - [Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?](https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/)
 * [2025-09-15, 07:14:13](https://news.ycombinator.com/item?id=45246971) - [The Mac App Flea Market](https://blog.jim-nielsen.com/2025/mac-app-flea-market/)
 * [2025-09-15, 07:10:03](https://news.ycombinator.com/item?id=45246953) - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
 * [2025-09-15, 05:41:45](https://news.ycombinator.com/item?id=45246457) - [Mixed Excitation Linear Predictive (MELP) Vocoders](https://melpe.org/)
