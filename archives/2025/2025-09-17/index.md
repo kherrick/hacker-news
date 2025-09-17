@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 21:28:09](https://news.ycombinator.com/item?id=45281593) - [Tesla is trying to hide 3 Robotaxi accidents](https://electrek.co/2025/09/17/tesla-hide-3-robotaxi-accidents/)
 * [2025-09-17, 21:10:04](https://news.ycombinator.com/item?id=45281437) - [Jqp: TUI Playground to Experiment with Jq](https://github.com/noahgorstein/jqp)
 * [2025-09-17, 20:41:07](https://news.ycombinator.com/item?id=45281139) - [Claude Code Degradation: A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
 * [2025-09-17, 19:50:11](https://news.ycombinator.com/item?id=45280592) - [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
