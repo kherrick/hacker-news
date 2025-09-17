@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 17:18:38](https://news.ycombinator.com/item?id=45278657) - [Tinycolor Supply Chain Attack Post-Mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/)
 * [2025-09-17, 17:00:05](https://news.ycombinator.com/item?id=45278424) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs)
 * [2025-09-17, 16:13:00](https://news.ycombinator.com/item?id=45277704) - [Launch HN: RunRL (YC X25) – Reinforcement learning as a service](https://runrl.com)
 * [2025-09-17, 15:28:25](https://news.ycombinator.com/item?id=45277023) - [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)
@@ -8,7 +9,6 @@
 * [2025-09-17, 14:02:29](https://news.ycombinator.com/item?id=45275973) - [UUIDv47: Store UUIDv7 in DB, emit UUIDv4 outside (SipHash-masked timestamp)](https://github.com/stateless-me/uuidv47)
 * [2025-09-17, 13:27:26](https://news.ycombinator.com/item?id=45275582) - [SQLiteData: A fast, lightweight replacement for SwiftData using SQL and CloudKit](https://github.com/pointfreeco/sqlite-data)
 * [2025-09-17, 13:14:04](https://news.ycombinator.com/item?id=45275444) - [Firefox 143 for Android to introduce DoH](https://blog.mozilla.org/en/firefox/dns-android/)
-* [2025-09-17, 13:10:45](https://news.ycombinator.com/item?id=45275415) - [Bringing fully autonomous rides to Nashville, in partnership with Lyft](https://waymo.com/blog/2025/09/waymo-is-coming-to-nashville-in-partnership-with-lyft)
 * [2025-09-17, 13:03:24](https://news.ycombinator.com/item?id=45275354) - [Tau² Benchmark: How a Prompt Rewrite Boosted GPT-5-Mini by 22%](https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/)
 * [2025-09-17, 12:29:49](https://news.ycombinator.com/item?id=45275049) - [Procedural Island Generation (III)](https://brashandplucky.com/2025/09/17/procedural-island-generation-iii.html)
 * [2025-09-17, 11:07:44](https://news.ycombinator.com/item?id=45274277) - [Apple Photos App Corrupts Images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
