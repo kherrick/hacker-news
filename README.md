@@ -2,6 +2,7 @@
 
 * [2025-09-17, 03:54:06](https://news.ycombinator.com/item?id=45271481) - [GNU Midnight Commander](https://midnight-commander.org/)
 * [2025-09-17, 02:39:19](https://news.ycombinator.com/item?id=45270981) - [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
+* [2025-09-17, 02:37:09](https://news.ycombinator.com/item?id=45270965) - [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
 * [2025-09-17, 01:57:58](https://news.ycombinator.com/item?id=45270676) - [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)
 * [2025-09-17, 01:47:59](https://news.ycombinator.com/item?id=45270610) - [September 15, 2025: The Day the Industry Admitted AI Subscriptions Don't Work](https://blog.kilocode.ai/p/why-ai-subscriptions-cannot-work)
 * [2025-09-17, 01:26:41](https://news.ycombinator.com/item?id=45270482) - [Irssi: IRC Client in a Docker Image](https://hub.docker.com/_/irssi)
@@ -15,7 +16,6 @@
 * [2025-09-16, 17:01:16](https://news.ycombinator.com/item?id=45264867) - [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
 * [2025-09-16, 16:50:42](https://news.ycombinator.com/item?id=45264726) - [Scammed out of $130K via fake Google call, spoofed Google email and auth sync](https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google)
 * [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [Waymo has received our pilot permit allowing for commercial operations at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
-* [2025-09-16, 16:10:44](https://news.ycombinator.com/item?id=45264190) - [Plugin System](https://iina.io/plugins/)
 * [2025-09-16, 15:05:46](https://news.ycombinator.com/item?id=45263317) - [A new experimental Google app for Windows](https://blog.google/products/search/google-app-windows-labs/)
 * [2025-09-16, 14:35:19](https://news.ycombinator.com/item?id=45262835) - [Things you can do with a Software Defined Radio (2024)](https://blinry.org/50-things-with-sdr/)
 * [2025-09-16, 13:18:00](https://news.ycombinator.com/item?id=45261848) - [When the job search becomes impossible](https://www.jeffwofford.com/wp/?p=2240)
