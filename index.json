@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-09-17, 02:39:19",
+      "https://news.ycombinator.com/item?id=45270981"
+    ],
+    [
+      "Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer",
+      "https://totenarctanz.itch.io/a-scavenging-trip"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 02:37:09",
+      "https://news.ycombinator.com/item?id=45270965"
+    ],
+    [
+      "Global Peace Index 2025",
+      "https://www.visionofhumanity.org/maps/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 01:57:58",
+      "https://news.ycombinator.com/item?id=45270676"
+    ],
+    [
+      "Slow Social Media",
+      "https://herman.bearblog.dev/slow-social-media/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 01:47:59",
+      "https://news.ycombinator.com/item?id=45270610"
+    ],
+    [
+      "September 15, 2025: The Day the Industry Admitted AI Subscriptions Don't Work",
+      "https://blog.kilocode.ai/p/why-ai-subscriptions-cannot-work"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 01:26:41",
       "https://news.ycombinator.com/item?id=45270482"
     ],
@@ -17,6 +57,16 @@
     [
       "Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s",
       "https://support.apple.com/en-us/125142"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 00:31:04",
+      "https://news.ycombinator.com/item?id=45270087"
+    ],
+    [
+      "AMDVLK (AMD Open Source Driver For Vulkan) project is discontinued",
+      "https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2025-09-16, 16:22:40",
-      "https://news.ycombinator.com/item?id=45264340"
-    ],
-    [
-      "Bertrand Russell to Oswald Mosley (1962)",
-      "https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 16:10:44",
       "https://news.ycombinator.com/item?id=45264190"
     ],
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2025-09-16, 14:59:47",
-      "https://news.ycombinator.com/item?id=45263221"
-    ],
-    [
-      "Development of the MOS Technology 6502: A Historical Perspective (2022)",
-      "https://www.EmbeddedRelated.com/showarticle/1453.php"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 14:35:19",
       "https://news.ycombinator.com/item?id=45262835"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2025-09-16, 13:41:51",
-      "https://news.ycombinator.com/item?id=45262151"
-    ],
-    [
-      "Implicit ODE solvers are not universally more robust than explicit ODE solvers",
-      "https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 13:18:00",
       "https://news.ycombinator.com/item?id=45261848"
     ],
     [
       "When the job search becomes impossible",
       "https://www.jeffwofford.com/wp/?p=2240"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 13:10:29",
-      "https://news.ycombinator.com/item?id=45261764"
-    ],
-    [
-      "CIA Freedom of Information Act Electronic Reading Room",
-      "https://www.cia.gov/readingroom"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
+      "2025-09-15, 09:54:26",
+      "https://news.ycombinator.com/item?id=45247931"
+    ],
+    [
+      "Coders End, from Typers to Thinkers",
+      "https://etsd.tech/posts/coders-end/"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 01:12:11",
       "https://news.ycombinator.com/item?id=45245050"
     ],
     [
       "I built my own phone because innovation is sad rn [video]",
       "https://www.youtube.com/watch?v=qy_9w_c2ub0"
-    ]
-  ],
-  [
-    [
-      "2025-09-14, 00:36:23",
-      "https://news.ycombinator.com/item?id=45236479"
-    ],
-    [
-      "Writing an operating system kernel from scratch – RISC-V/OpenSBI/Zig",
-      "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "UTF-8 history (2003)",
       "https://doc.cat-v.org/bell_labs/utf-8_history"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 19:08:48",
-      "https://news.ycombinator.com/item?id=45161219"
-    ],
-    [
-      "Paper Folding Assembly Line [video]",
-      "https://www.youtube.com/watch?v=XhUuhl9iWpQ"
     ]
   ]
 ]
