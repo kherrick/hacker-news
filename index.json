@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-17, 06:32:17",
+      "https://news.ycombinator.com/item?id=45272480"
+    ],
+    [
+      "Murex – An intuitive and content aware shell for a modern command line",
+      "https://murex.rocks/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 06:04:06",
+      "https://news.ycombinator.com/item?id=45272296"
+    ],
+    [
+      "In Praise of Idleness (1932)",
+      "https://harpers.org/archive/1932/10/in-praise-of-idleness/"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 05:11:50",
       "https://news.ycombinator.com/item?id=45271942"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-09-15, 09:54:26",
-      "https://news.ycombinator.com/item?id=45247931"
-    ],
-    [
-      "Coders End, from Typers to Thinkers",
-      "https://etsd.tech/posts/coders-end/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 08:32:15",
       "https://news.ycombinator.com/item?id=45247424"
     ],
@@ -287,16 +297,6 @@
     [
       "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
       "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 04:33:38",
-      "https://news.ycombinator.com/item?id=45229322"
-    ],
-    [
-      "Mystery in the Moon",
-      "https://engelsbergideas.com/reviews/mystery-in-the-moon/"
     ]
   ]
 ]
