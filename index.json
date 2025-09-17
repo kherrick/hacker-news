@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-17, 00:34:02",
+      "https://news.ycombinator.com/item?id=45270108"
+    ],
+    [
+      "Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s",
+      "https://support.apple.com/en-us/125142"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 23:51:39",
+      "https://news.ycombinator.com/item?id=45269827"
+    ],
+    [
+      "I launched a Mac utility; now there are 5 clones on the App Store using my story",
+      "https://news.ycombinator.com/item?id=45269827"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 21:48:06",
       "https://news.ycombinator.com/item?id=45268575"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2025-09-16, 20:10:59",
-      "https://news.ycombinator.com/item?id=45267336"
+      "2025-09-16, 19:40:34",
+      "https://news.ycombinator.com/item?id=45266947"
     ],
     [
-      "The \"Most Hated\" CSS Feature: Cos() and Sin()",
-      "https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/"
+      "In Defense of C++",
+      "https://dayvster.com/blog/in-defense-of-cpp/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45266854"
     ],
     [
-      "Should We Drain the Everglades?",
+      "Should we drain the Everglades?",
       "https://rabbitcavern.substack.com/p/should-we-drain-the-everglades"
     ]
   ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2025-09-13, 22:32:33",
-      "https://news.ycombinator.com/item?id=45235848"
+      "2025-09-13, 20:45:58",
+      "https://news.ycombinator.com/item?id=45235167"
     ],
     [
-      "Inboxfuscation: Because Rules Are Meant to Be Broken",
-      "https://permiso.io/blog/inboxfuscation-because-rules-are-meant-to-be-broken"
+      "Wait4X allows you to wait for a port or a service to enter the requested state",
+      "https://github.com/wait4x/wait4x"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-09-13, 12:43:54",
-      "https://news.ycombinator.com/item?id=45231614"
-    ],
-    [
-      "60 years after Gemini, newly processed images reveal details",
-      "https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/"
-    ]
-  ],
-  [
-    [
       "2025-09-13, 08:56:00",
       "https://news.ycombinator.com/item?id=45230515"
     ],
     [
       "UTF-8 history (2003)",
       "https://doc.cat-v.org/bell_labs/utf-8_history"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 19:08:48",
-      "https://news.ycombinator.com/item?id=45161219"
-    ],
-    [
-      "Paper Folding Assembly Line [video]",
-      "https://www.youtube.com/watch?v=XhUuhl9iWpQ"
     ]
   ]
 ]
