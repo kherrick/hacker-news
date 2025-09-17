@@ -61,6 +61,7 @@
 * [2025-09-13, 05:42:54](https://news.ycombinator.com/item?id=45229633) - [Adding FRM parser utility to MariaDB](https://hp77-creator.github.io/blogs/gsoc25)
 * [2025-09-13, 05:01:29](https://news.ycombinator.com/item?id=45229443) - [Qwen 3 now supports ARM and MLX](https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/)
 * [2025-09-13, 04:55:14](https://news.ycombinator.com/item?id=45229414) - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
+* [2025-09-13, 04:33:38](https://news.ycombinator.com/item?id=45229322) - [Mystery in the Moon](https://engelsbergideas.com/reviews/mystery-in-the-moon/)
 * [2025-09-13, 04:08:57](https://news.ycombinator.com/item?id=45229227) - [Raspberry Pi Synthesizers – How the Pi is transforming synths](https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/)
 * [2025-09-13, 03:05:57](https://news.ycombinator.com/item?id=45228981) - [Basics of Equality Saturation](https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html)
 * [2025-09-13, 02:53:43](https://news.ycombinator.com/item?id=45228938) - [Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS](https://github.com/dawsonhuang0/Wcwidth-O1)

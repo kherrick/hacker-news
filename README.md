@@ -29,7 +29,7 @@
 * [2025-09-13, 15:37:45](https://news.ycombinator.com/item?id=45232940) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
 * [2025-09-13, 14:37:52](https://news.ycombinator.com/item?id=45232426) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 * [2025-09-13, 14:28:38](https://news.ycombinator.com/item?id=45232344) - [Wind turbine blade transportation challenges](https://spectrum.ieee.org/wind-turbine-blade-transport-plane)
-* [2025-09-13, 08:56:00](https://news.ycombinator.com/item?id=45230515) - [UTF-8 history (2003)](https://doc.cat-v.org/bell_labs/utf-8_history)
+* [2025-09-13, 04:33:38](https://news.ycombinator.com/item?id=45229322) - [Mystery in the Moon](https://engelsbergideas.com/reviews/mystery-in-the-moon/)
 
 ## [Archives](archives/index.md)
 
