@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-09-17, 07:00:09",
-      "https://news.ycombinator.com/item?id=45272692"
-    ],
-    [
-      "Tabby – A Terminal for the Modern Age",
-      "https://github.com/Eugeny/tabby"
-    ]
-  ],
-  [
-    [
       "2025-09-17, 06:32:17",
       "https://news.ycombinator.com/item?id=45272480"
     ],
@@ -237,6 +227,16 @@
     [
       "Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised",
       "https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 11:58:00",
+      "https://news.ycombinator.com/item?id=45248628"
+    ],
+    [
+      "You can't test if quantum uses complex numbers",
+      "https://algassert.com/post/2501"
     ]
   ],
   [
