@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 05:11:50](https://news.ycombinator.com/item?id=45271942) - [Obsidian Offering $5000 Bounty for Notion API Importer](https://github.com/obsidianmd/obsidian-importer/issues/421)
 * [2025-09-17, 04:26:02](https://news.ycombinator.com/item?id=45271664) - [I just want an 80×25 console, but that's no longer possible](https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible)
-* [2025-09-17, 04:23:51](https://news.ycombinator.com/item?id=45271649) - [What's Up with Peter Thiel's Obsession with the Antichrist?](https://newrepublic.com/article/200471/peter-thiel-obsession-antichrist-religion)
 * [2025-09-17, 03:54:36](https://news.ycombinator.com/item?id=45271484) - [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
 * [2025-09-17, 03:54:06](https://news.ycombinator.com/item?id=45271481) - [GNU Midnight Commander](https://midnight-commander.org/)
 * [2025-09-17, 03:10:46](https://news.ycombinator.com/item?id=45271180) - [Java 25 General Availability](https://jdk.java.net/25/)
@@ -21,7 +21,7 @@
 * [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [Waymo has received our pilot permit allowing for commercial operations at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
 * [2025-09-16, 15:05:46](https://news.ycombinator.com/item?id=45263317) - [A new experimental Google app for Windows](https://blog.google/products/search/google-app-windows-labs/)
 * [2025-09-16, 14:35:19](https://news.ycombinator.com/item?id=45262835) - [Things you can do with a Software Defined Radio (2024)](https://blinry.org/50-things-with-sdr/)
-* [2025-09-16, 11:22:03](https://news.ycombinator.com/item?id=45260741) - [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
+* [2025-09-16, 11:22:03](https://news.ycombinator.com/item?id=45260741) - [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages)
 * [2025-09-15, 11:46:45](https://news.ycombinator.com/item?id=45248558) - [A dumb introduction to z3](https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/)
 * [2025-09-15, 09:54:26](https://news.ycombinator.com/item?id=45247931) - [Coders End, from Typers to Thinkers](https://etsd.tech/posts/coders-end/)
 * [2025-09-15, 05:05:09](https://news.ycombinator.com/item?id=45246278) - [Cex.C – Comprehensively EXtended C Language](https://github.com/alexveden/cex)
