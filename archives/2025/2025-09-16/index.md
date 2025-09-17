@@ -9,6 +9,7 @@
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
 * [2025-09-16, 21:24:23](https://news.ycombinator.com/item?id=45268269) - [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
 * [2025-09-16, 20:43:43](https://news.ycombinator.com/item?id=45267762) - [SQL performance improvements: finding the right queries to fix](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)
+* [2025-09-16, 20:35:29](https://news.ycombinator.com/item?id=45267643) - [U.S. investors, Trump close in on TikTok deal with China](https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f)
 * [2025-09-16, 20:10:59](https://news.ycombinator.com/item?id=45267336) - [The \"Most Hated\" CSS Feature: Cos() and Sin()](https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/)
 * [2025-09-16, 19:40:34](https://news.ycombinator.com/item?id=45266947) - [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
 * [2025-09-16, 19:33:35](https://news.ycombinator.com/item?id=45266854) - [Should We Drain the Everglades?](https://rabbitcavern.substack.com/p/should-we-drain-the-everglades)
