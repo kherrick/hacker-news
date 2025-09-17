@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 06:54:02](https://news.ycombinator.com/item?id=45272653) - [Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk/)
 * [2025-09-17, 06:32:17](https://news.ycombinator.com/item?id=45272480) - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
 * [2025-09-17, 06:04:06](https://news.ycombinator.com/item?id=45272296) - [In Praise of Idleness (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
 * [2025-09-17, 05:11:50](https://news.ycombinator.com/item?id=45271942) - [Notion API importer, with Databases to Bases conversion bounty](https://github.com/obsidianmd/obsidian-importer/issues/421)
@@ -27,7 +28,6 @@
 * [2025-09-15, 08:32:15](https://news.ycombinator.com/item?id=45247424) - [Tuberculosis shaped Victorian fashion (2016)](https://www.smithsonianmag.com/science-nature/how-tuberculosis-shaped-victorian-fashion-180959029/)
 * [2025-09-15, 01:12:11](https://news.ycombinator.com/item?id=45245050) - [I built my own phone because innovation is sad rn [video]](https://www.youtube.com/watch?v=qy_9w_c2ub0)
 * [2025-09-13, 21:41:15](https://news.ycombinator.com/item?id=45235566) - [Normal-order syntax-rules and proving the fix-point of call/cc](https://okmij.org/ftp/Scheme/callcc-calc-page.html)
-* [2025-09-13, 20:45:58](https://news.ycombinator.com/item?id=45235167) - [Wait4X allows you to wait for a port or a service to enter the requested state](https://github.com/wait4x/wait4x)
 * [2025-09-13, 15:37:45](https://news.ycombinator.com/item?id=45232940) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
 * [2025-09-13, 14:37:52](https://news.ycombinator.com/item?id=45232426) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 
