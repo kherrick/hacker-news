@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-17, 11:07:44",
+      "https://news.ycombinator.com/item?id=45274277"
+    ],
+    [
+      "Apple Photos App Corrupts Images",
+      "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 10:26:18",
+      "https://news.ycombinator.com/item?id=45273999"
+    ],
+    [
+      "Determination of the fifth Busy Beaver value",
+      "https://arxiv.org/abs/2509.12337"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 10:02:55",
       "https://news.ycombinator.com/item?id=45273854"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-09-16, 19:33:35",
-      "https://news.ycombinator.com/item?id=45266854"
-    ],
-    [
-      "Should we drain the Everglades?",
-      "https://rabbitcavern.substack.com/p/should-we-drain-the-everglades"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 19:27:40",
       "https://news.ycombinator.com/item?id=45266771"
     ],
@@ -287,16 +297,6 @@
     [
       "CubeSats are fascinating learning tools for space",
       "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 14:37:52",
-      "https://news.ycombinator.com/item?id=45232426"
-    ],
-    [
-      "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
-      "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch"
     ]
   ]
 ]
