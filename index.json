@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-09-17, 15:14:15",
+      "https://news.ycombinator.com/item?id=45276851"
+    ],
+    [
+      "Is Data Modeling Dead?",
+      "https://www.confessionsofadataguy.com/is-data-modeling-dead/"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 14:29:10",
       "https://news.ycombinator.com/item?id=45276262"
     ],
@@ -157,6 +167,16 @@
     [
       "Firefox 143 for Android to introduce DoH",
       "https://blog.mozilla.org/en/firefox/dns-android/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 13:10:45",
+      "https://news.ycombinator.com/item?id=45275415"
+    ],
+    [
+      "Bringing fully autonomous rides to Nashville, in partnership with Lyft",
+      "https://waymo.com/blog/2025/09/waymo-is-coming-to-nashville-in-partnership-with-lyft"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-09-17, 10:02:55",
-      "https://news.ycombinator.com/item?id=45273854"
-    ],
-    [
-      "EU Chat Control: Germany's position has been reverted to undecided",
-      "https://mastodon.social/@chatcontrol/115215006562371435"
-    ]
-  ],
-  [
-    [
       "2025-09-17, 09:45:44",
       "https://news.ycombinator.com/item?id=45273747"
     ],
@@ -237,16 +247,6 @@
     [
       "Stategraph: Terraform state as a distributed systems problem",
       "https://stategraph.dev/blog/why-stategraph/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 05:11:50",
-      "https://news.ycombinator.com/item?id=45271942"
-    ],
-    [
-      "Notion API importer, with Databases to Bases conversion bounty",
-      "https://github.com/obsidianmd/obsidian-importer/issues/421"
     ]
   ],
   [
