@@ -129,6 +129,137 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45277704">
+          <h3>
+            <a class="item" href="https://runrl.com"
+              >Launch HN: RunRL (YC X25) – Reinforcement learning as a
+              service</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-17 @ 16:13:00</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45277704"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://runrl.com/">https://runrl.com/</a>). We've built
+              a platform to improve models and agents with reinforcement
+              learning. If you can define a metric, we'll make your model or
+              agent better, without you having to think about managing GPU
+              clusters.
+              <p>
+                Here's a demo video:
+                <a href="https://youtu.be/EtiBjs4jfCg"
+                  >https://youtu.be/EtiBjs4jfCg</a
+                >
+              </p>
+              <p>
+                I (Andrew) was doing a PhD in reinforcement learning on language
+                models, and everyone kept...not using RL because it was too hard
+                to get running. At some point I realized that someone's got to
+                sit down and actually write a good platform for running RL
+                experiments.
+              </p>
+              <p>
+                Once this happened, people started using it for antiviral
+                design, formal verification, browser agents, and a bunch of
+                other cool applications, so we decided to make a startup out of
+                it.
+              </p>
+              <p>How it works:</p>
+              <p>
+                - Choose an open-weight base model (weights are necessary for RL
+                updates; Qwen3-4B-Instruct-2507 is a good starting point)
+              </p>
+              <p>
+                - Upload a set of initial prompts ("Generate an antiviral
+                targeting Sars-CoV-2 protease", "Prove this theorem", "What's
+                the average summer high in Windhoek?")
+              </p>
+              <p>
+                - Define a reward function, using Python, an LLM-as-a-judge, or
+                both
+              </p>
+              <p>
+                - For complex settings, you can define an entire multi-turn
+                environment
+              </p>
+              <p>- Watch the reward go up!</p>
+              <p>
+                For most well-defined problems, a small open model + RunRL
+                outperforms frontier models. (For instance, we've seen Qwen-3B
+                do better than Claude 4.1 Opus on antiviral design.) This is
+                because LLM intelligence is notoriously "spiky"; often models
+                are decent-but-not-great at common-sense knowledge, are randomly
+                good at a few domains, but make mistakes on lots of other tasks.
+                RunRL creates spikes precisely on the tasks where you need them.
+              </p>
+              <p>
+                Pricing: $80/node-hour. Most models up to 14B parameters fit on
+                one node (0.6-1.2 TB of VRAM). We do full fine-tuning, at the
+                cost of parameter-efficiency (with RL, people seem to care a lot
+                about the last few percent gains in e.g. agent reliability).
+              </p>
+              <p>
+                Next up: continuous learning; tool use. Tool use is currently in
+                private beta, which you can join here:
+                <a href="https://forms.gle/D2mSmeQDVCDraPQg8"
+                  >https://forms.gle/D2mSmeQDVCDraPQg8</a
+                >
+              </p>
+              <p>
+                We'd love to hear any thoughts, questions, or positive or
+                negative reinforcement!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="45277346">
+          <h3>
+            <a
+              class="item"
+              href="https://xd1.dev/2025/09/not-buying-american-anymore"
+              >Not Buying American Anymore</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-17 @ 15:53:42</span
+              ><span class="points-container"
+                >Points: <span class="points">99</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45277346"
+                  >Comments</a
+                ><span class="descendants">: 42</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45277023">
+          <h3>
+            <a class="item" href="https://github.com/microsoft/mssql-python"
+              >Microsoft Python Driver for SQL Server</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-17 @ 15:28:25</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45277023"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="45276987">
           <h3>
             <a
@@ -141,33 +272,11 @@
             <h4>
               <span>2025-09-17 @ 15:25:24</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45276987"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45276614">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/easylist/easylist/issues/22375"
-              >A single adblock filter may have caused YouTube's global view
-              drop</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-17 @ 14:56:20</span
-              ><span class="points-container"
-                >Points: <span class="points">90</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45276614"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -185,11 +294,11 @@
             <h4>
               <span>2025-09-17 @ 14:29:10</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45276262"
                   >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 216</span></span
               >
             </h4>
             <div class="text">
@@ -210,11 +319,11 @@
             <h4>
               <span>2025-09-17 @ 14:02:29</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45275973"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -230,11 +339,11 @@
             <h4>
               <span>2025-09-17 @ 13:27:26</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45275582"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -251,11 +360,11 @@
             <h4>
               <span>2025-09-17 @ 13:14:04</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45275444"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -273,11 +382,11 @@
             <h4>
               <span>2025-09-17 @ 13:10:45</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45275415"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -294,7 +403,7 @@
             <h4>
               <span>2025-09-17 @ 13:03:24</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45275354"
                   >Comments</a
@@ -315,11 +424,11 @@
             <h4>
               <span>2025-09-17 @ 12:29:49</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45275049"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -336,11 +445,11 @@
             <h4>
               <span>2025-09-17 @ 11:07:44</span
               ><span class="points-container"
-                >Points: <span class="points">562</span></span
+                >Points: <span class="points">599</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45274277"
                   >Comments</a
-                ><span class="descendants">: 198</span></span
+                ><span class="descendants">: 224</span></span
               >
             </h4>
           </section>
@@ -355,11 +464,11 @@
             <h4>
               <span>2025-09-17 @ 10:26:18</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45273999"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -376,11 +485,11 @@
             <h4>
               <span>2025-09-17 @ 10:10:14</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45273897"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -398,11 +507,11 @@
             <h4>
               <span>2025-09-17 @ 10:02:55</span
               ><span class="points-container"
-                >Points: <span class="points">288</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45273854"
                   >Comments</a
-                ><span class="descendants">: 220</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
           </section>
@@ -419,7 +528,7 @@
             <h4>
               <span>2025-09-17 @ 09:57:50</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45273824"
                   >Comments</a
@@ -433,18 +542,18 @@
             <a
               class="item"
               href="https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to"
-              >Alibaba's New AI Chip: Key Specifications Comparable to H20</a
+              >Alibaba's new AI chip: Key specifications comparable to H20</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-09-17 @ 09:45:44</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45273747"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -459,7 +568,7 @@
             <h4>
               <span>2025-09-17 @ 08:38:17</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45273352"
                   >Comments</a
@@ -479,11 +588,11 @@
             <h4>
               <span>2025-09-17 @ 06:32:17</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45272480"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -504,7 +613,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45271942"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -522,11 +631,11 @@
             <h4>
               <span>2025-09-17 @ 03:54:36</span
               ><span class="points-container"
-                >Points: <span class="points">327</span></span
+                >Points: <span class="points">335</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45271484"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -541,11 +650,11 @@
             <h4>
               <span>2025-09-17 @ 03:54:06</span
               ><span class="points-container"
-                >Points: <span class="points">441</span></span
+                >Points: <span class="points">448</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45271481"
                   >Comments</a
-                ><span class="descendants">: 242</span></span
+                ><span class="descendants">: 248</span></span
               >
             </h4>
           </section>
@@ -562,33 +671,11 @@
             <h4>
               <span>2025-09-17 @ 01:57:58</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45270676"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45270649">
-          <h3>
-            <a
-              class="item"
-              href="https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again"
-              >I got the highest score on ARC-AGI again swapping Python for
-              English</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-17 @ 01:53:47</span
-              ><span class="points-container"
-                >Points: <span class="points">147</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45270649"
-                  >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -604,56 +691,43 @@
             <h4>
               <span>2025-09-16 @ 21:24:23</span
               ><span class="points-container"
-                >Points: <span class="points">388</span></span
+                >Points: <span class="points">394</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45268269"
                   >Comments</a
-                ><span class="descendants">: 163</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="45266039">
+        <section id="45267643">
           <h3>
             <a
               class="item"
-              href="https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter"
-              >How to make the Framework Desktop run even quieter</a
+              href="https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f"
+              >U.S. investors, Trump close in on TikTok deal with China</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-09-16 @ 18:33:21</span
+              <span>2025-09-16 @ 20:35:29</span
               ><span class="points-container"
-                >Points: <span class="points">316</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45266039"
+                ><a href="https://news.ycombinator.com/item?id=45267643"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="45265745">
-          <h3>
-            <a
-              class="item"
-              href="https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out"
-              >Denmark close to wiping out cancer-causing HPV strains after
-              vaccine roll-out</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-16 @ 18:12:29</span
-              ><span class="points-container"
-                >Points: <span class="points">884</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45265745"
-                  >Comments</a
-                ><span class="descendants">: 323</span></span
+            <div class="text">
+              <a
+                href="https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f?st=zw6x2K&amp;reflink=desktopwebshare_permalink"
+                >https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-...</a
               >
-            </h4>
+              <p>
+                <a href="https://archive.ph/g7dTU">https://archive.ph/g7dTU</a>
+              </p>
+            </div>
           </section>
         </section>
         <section id="45262835">
@@ -666,11 +740,11 @@
             <h4>
               <span>2025-09-16 @ 14:35:19</span
               ><span class="points-container"
-                >Points: <span class="points">890</span></span
+                >Points: <span class="points">893</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45262835"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -688,11 +762,11 @@
             <h4>
               <span>2025-09-16 @ 11:22:03</span
               ><span class="points-container"
-                >Points: <span class="points">1165</span></span
+                >Points: <span class="points">1170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45260741"
                   >Comments</a
-                ><span class="descendants">: 944</span></span
+                ><span class="descendants">: 948</span></span
               >
             </h4>
             <div class="text">
@@ -765,7 +839,7 @@
             <h4>
               <span>2025-09-15 @ 11:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45248628"
                   >Comments</a
@@ -784,7 +858,7 @@
             <h4>
               <span>2025-09-15 @ 11:40:51</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45248524"
                   >Comments</a
@@ -805,11 +879,11 @@
             <h4>
               <span>2025-09-15 @ 10:14:38</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45248043"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
