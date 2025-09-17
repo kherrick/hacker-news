@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-09-17, 01:26:41",
+      "https://news.ycombinator.com/item?id=45270482"
+    ],
+    [
+      "Irssi: IRC Client in a Docker Image",
+      "https://hub.docker.com/_/irssi"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 00:34:02",
       "https://news.ycombinator.com/item?id=45270108"
     ],
     [
       "Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s",
       "https://support.apple.com/en-us/125142"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 23:51:39",
-      "https://news.ycombinator.com/item?id=45269827"
-    ],
-    [
-      "I launched a Mac utility; now there are 5 clones on the App Store using my story",
-      "https://news.ycombinator.com/item?id=45269827"
     ]
   ],
   [
@@ -41,32 +41,12 @@
   ],
   [
     [
-      "2025-09-16, 20:43:43",
-      "https://news.ycombinator.com/item?id=45267762"
-    ],
-    [
-      "SQL performance improvements: finding the right queries to fix",
-      "https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 19:40:34",
       "https://news.ycombinator.com/item?id=45266947"
     ],
     [
       "In Defense of C++",
       "https://dayvster.com/blog/in-defense-of-cpp/"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 19:33:35",
-      "https://news.ycombinator.com/item?id=45266854"
-    ],
-    [
-      "Should we drain the Everglades?",
-      "https://rabbitcavern.substack.com/p/should-we-drain-the-everglades"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2025-09-13, 15:37:45",
+      "https://news.ycombinator.com/item?id=45232940"
+    ],
+    [
+      "CubeSats are fascinating learning tools for space",
+      "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 14:37:52",
       "https://news.ycombinator.com/item?id=45232426"
     ],
@@ -297,6 +287,16 @@
     [
       "UTF-8 history (2003)",
       "https://doc.cat-v.org/bell_labs/utf-8_history"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 19:08:48",
+      "https://news.ycombinator.com/item?id=45161219"
+    ],
+    [
+      "Paper Folding Assembly Line [video]",
+      "https://www.youtube.com/watch?v=XhUuhl9iWpQ"
     ]
   ]
 ]
