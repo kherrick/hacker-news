@@ -139,11 +139,11 @@
             <h4>
               <span>2025-09-17 @ 07:00:09</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45272692"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -159,11 +159,11 @@
             <h4>
               <span>2025-09-17 @ 06:32:17</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45272480"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -180,7 +180,7 @@
             <h4>
               <span>2025-09-17 @ 06:04:06</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45272296"
                   >Comments</a
@@ -201,11 +201,32 @@
             <h4>
               <span>2025-09-17 @ 05:11:50</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45271942"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45271664">
+          <h3>
+            <a
+              class="item"
+              href="https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible"
+              >I just want an 80×25 console, but that's no longer possible</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-17 @ 04:26:02</span
+              ><span class="points-container"
+                >Points: <span class="points">59</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45271664"
+                  >Comments</a
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -223,11 +244,11 @@
             <h4>
               <span>2025-09-17 @ 03:54:36</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45271484"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -242,111 +263,13 @@
             <h4>
               <span>2025-09-17 @ 03:54:06</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45271481"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 150</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="45270981">
-          <h3>
-            <a
-              class="item"
-              href="https://totenarctanz.itch.io/a-scavenging-trip"
-              >Show HN: A PSX/DOS style 3D game written in Rust with a custom
-              software renderer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-17 @ 02:39:19</span
-              ><span class="points-container"
-                >Points: <span class="points">43</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45270981"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                My only dependency is SDL2; I treat it as my "platform", so it
-                handles windowing, input and audio. This means my Cargo.toml is
-                as simple as:
-              </p>
-              <p>
-                [dependencies.sdl2] version = "0.35" default-features = false
-                features = ["mixer"]
-              </p>
-              <p>this pulls around 6-7 other dependencies.</p>
-              <p>
-                I am doing actual true color 3D rendering (with Z buffer,
-                transforming, lighting and rasterizing each triangle and so on,
-                no special techniques or raycasting), the framebuffer is 320x180
-                (widescreen 320x240). SDL handles the hardware-accelerated final
-                scaling to the display resolution (if available, for example in
-                VMs it's sometimes not so it's pure software). I do my own
-                physics, quaternion/matrix/vector math, TGA and OBJ loading.
-              </p>
-              <p>
-                Performance: I have not spent a lot of time on this really, but
-                I am kind of satisfied: FPS ranges from [200-500] on a 2011 i5
-                Thinkpad to [70-80] on a 2005 Pentium laptop (this could barely
-                run rustc...I had to jump through some hoops to make it work on
-                32 bit Linux), to [40-50] on a RaspberryPi 3B+. I don't have
-                more modern hardware to test.
-              </p>
-              <p>
-                All of this is single threaded, no SIMD, no inline asm. Also,
-                implementing interlaced rendering provided a +50% perf boost
-                (and a nice effect).
-              </p>
-              <p>
-                The Pentium laptop has an ATI (yes) chip which is, maybe not
-                surprisingly, supported perfectly by SDL.
-              </p>
-              <p>
-                Regarding Rust: I've barely touched the language. I am using it
-                more as a "C with vec!s, borrow checker, pattern matching, error
-                propagation, and traits". I love the syntax of the subset that I
-                use; it's crystal clear, readable, ergonomic. Things like
-                matches/ifs returning values are extremely useful for concise
-                and productive code. However, pro/idiomatic code that I see
-                around, looks unreadable to me. I've written all of the code
-                from scratch on my own terms, so this was not a problem, but
-                still... In any case, the ecosystem and tooling are amazing. All
-                in all, an amazing development experience. I am a bit afraid to
-                switch back to C++ for my next project.
-              </p>
-              <p>
-                Also, rustup/cargo made things a walk in the park while creating
-                a deployment script that automates the whole process: after a
-                commit, it scans source files for used assets and packages only
-                those, copies dependencies (DLLs for Win), sets up build
-                dependencies depending on the target, builds all 3 targets
-                (Win10_64, Linux32, Linux64), bundles everything into separate
-                zips and uploads them to my local server. I am doing this from a
-                64bit Lubuntu 18.04 virtual machine.
-              </p>
-              <p>
-                You can try the game and read all info about it on the linked
-                itch.io page:
-                <a href="https://totenarctanz.itch.io/a-scavenging-trip"
-                  >https://totenarctanz.itch.io/a-scavenging-trip</a
-                >
-              </p>
-              <p>
-                All assets (audio/images/fonts) where also made by me for this
-                project (you could guess from the low quality).
-              </p>
-              <p>
-                Development tools: Geany (on Linux), notepad++ (on Windows),
-                both vanilla with no plugins, Blender, Gimp, REAPER.
-              </p>
-            </div>
           </section>
         </section>
         <section id="45270649">
@@ -362,11 +285,11 @@
             <h4>
               <span>2025-09-17 @ 01:53:47</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45270649"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -381,7 +304,7 @@
             <h4>
               <span>2025-09-17 @ 00:34:02</span
               ><span class="points-container"
-                >Points: <span class="points">311</span></span
+                >Points: <span class="points">312</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45270108"
                   >Comments</a
@@ -402,11 +325,11 @@
             <h4>
               <span>2025-09-17 @ 00:31:04</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45270087"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -422,7 +345,7 @@
             <h4>
               <span>2025-09-16 @ 21:24:23</span
               ><span class="points-container"
-                >Points: <span class="points">248</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45268269"
                   >Comments</a
@@ -441,11 +364,11 @@
             <h4>
               <span>2025-09-16 @ 19:40:34</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45266947"
                   >Comments</a
-                ><span class="descendants">: 238</span></span
+                ><span class="descendants">: 240</span></span
               >
             </h4>
           </section>
@@ -466,7 +389,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45266854"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -484,11 +407,11 @@
             <h4>
               <span>2025-09-16 @ 18:47:04</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45266215"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -505,11 +428,11 @@
             <h4>
               <span>2025-09-16 @ 18:33:21</span
               ><span class="points-container"
-                >Points: <span class="points">274</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45266039"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -527,11 +450,11 @@
             <h4>
               <span>2025-09-16 @ 18:12:29</span
               ><span class="points-container"
-                >Points: <span class="points">752</span></span
+                >Points: <span class="points">757</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45265745"
                   >Comments</a
-                ><span class="descendants">: 290</span></span
+                ><span class="descendants">: 292</span></span
               >
             </h4>
           </section>
@@ -686,7 +609,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45264562"
                   >Comments</a
-                ><span class="descendants">: 632</span></span
+                ><span class="descendants">: 633</span></span
               >
             </h4>
           </section>
@@ -703,11 +626,11 @@
             <h4>
               <span>2025-09-16 @ 16:22:40</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45264340"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -722,11 +645,11 @@
             <h4>
               <span>2025-09-16 @ 14:35:19</span
               ><span class="points-container"
-                >Points: <span class="points">793</span></span
+                >Points: <span class="points">797</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45262835"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -744,11 +667,11 @@
             <h4>
               <span>2025-09-16 @ 11:22:03</span
               ><span class="points-container"
-                >Points: <span class="points">1022</span></span
+                >Points: <span class="points">1025</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45260741"
                   >Comments</a
-                ><span class="descendants">: 820</span></span
+                ><span class="descendants">: 825</span></span
               >
             </h4>
             <div class="text">
@@ -824,11 +747,11 @@
             <h4>
               <span>2025-09-16 @ 08:24:22</span
               ><span class="points-container"
-                >Points: <span class="points">1035</span></span
+                >Points: <span class="points">1046</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45259553"
                   >Comments</a
-                ><span class="descendants">: 810</span></span
+                ><span class="descendants">: 817</span></span
               >
             </h4>
             <div class="text">
@@ -851,7 +774,7 @@
             <h4>
               <span>2025-09-15 @ 11:46:45</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45248558"
                   >Comments</a
@@ -872,11 +795,11 @@
             <h4>
               <span>2025-09-15 @ 08:32:15</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45247424"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -894,11 +817,11 @@
             <h4>
               <span>2025-09-15 @ 08:03:18</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45247259"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -996,7 +919,7 @@
             <h4>
               <span>2025-09-13 @ 14:37:52</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45232426"
                   >Comments</a
