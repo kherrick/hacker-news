@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-17, 19:50:11",
+      "https://news.ycombinator.com/item?id=45280592"
+    ],
+    [
+      "Gluon: a GPU programming language based on the same compiler stack as Triton",
+      "https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 18:55:28",
       "https://news.ycombinator.com/item?id=45279898"
     ],
@@ -237,16 +247,6 @@
     [
       "Alibaba's new AI chip: Key specifications comparable to H20",
       "https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 08:38:17",
-      "https://news.ycombinator.com/item?id=45273352"
-    ],
-    [
-      "Stategraph: Terraform state as a distributed systems problem",
-      "https://stategraph.dev/blog/why-stategraph/"
     ]
   ],
   [
