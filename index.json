@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-09-17, 17:29:58",
+      "https://news.ycombinator.com/item?id=45278819"
+    ],
+    [
+      "Ask HN: Is anyone else sick of AI splattered code",
+      "https://news.ycombinator.com/item?id=45278819"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 17:24:14",
+      "https://news.ycombinator.com/item?id=45278740"
+    ],
+    [
+      "DeepSeek writes less secure code for groups China disfavors",
+      "https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 17:20:36",
+      "https://news.ycombinator.com/item?id=45278686"
+    ],
+    [
+      "Depression Reduces Capacity to Learn to Actively Avoid Aversive Events",
+      "https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 17:18:38",
       "https://news.ycombinator.com/item?id=45278657"
     ],
     [
-      "Tinycolor Supply Chain Attack Post-Mortem",
+      "Tinycolor supply chain attack post-mortem",
       "https://sigh.dev/posts/ctrl-tinycolor-post-mortem/"
     ]
   ],
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=45275354"
     ],
     [
-      "Tau² Benchmark: How a Prompt Rewrite Boosted GPT-5-Mini by 22%",
+      "Tau² benchmark: How a prompt rewrite boosted GPT-5-mini by 22%",
       "https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/"
     ]
   ],
@@ -125,7 +155,7 @@
       "https://news.ycombinator.com/item?id=45274277"
     ],
     [
-      "Apple Photos App Corrupts Images",
+      "Apple Photos app corrupts images",
       "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/"
     ]
   ],
@@ -157,16 +187,6 @@
     [
       "EU Chat Control: Germany's position has been reverted to undecided",
       "https://mastodon.social/@chatcontrol/115215006562371435"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 09:57:50",
-      "https://news.ycombinator.com/item?id=45273824"
-    ],
-    [
-      "Oh no, not again a meditation on NPM supply chain attacks",
-      "https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-09-16, 18:33:21",
-      "https://news.ycombinator.com/item?id=45266039"
+      "2025-09-16, 20:35:29",
+      "https://news.ycombinator.com/item?id=45267643"
     ],
     [
-      "How to make the Framework Desktop run even quieter",
-      "https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 14:35:19",
-      "https://news.ycombinator.com/item?id=45262835"
-    ],
-    [
-      "Things you can do with a Software Defined Radio (2024)",
-      "https://blinry.org/50-things-with-sdr/"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 11:22:03",
-      "https://news.ycombinator.com/item?id=45260741"
-    ],
-    [
-      "Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised",
-      "https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages"
+      "U.S. investors, Trump close in on TikTok deal with China",
+      "https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f"
     ]
   ],
   [
