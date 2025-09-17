@@ -12,6 +12,7 @@
 * [2025-09-13, 22:05:17](https://news.ycombinator.com/item?id=45235697) - [Wayland breaks the tools I use to make a living](https://rykarn.se/2025/01/26/wayland)
 * [2025-09-13, 22:01:35](https://news.ycombinator.com/item?id=45235676) - [AI Will Not Make You Rich](https://joincolossus.com/article/ai-will-not-make-you-rich/)
 * [2025-09-13, 21:55:42](https://news.ycombinator.com/item?id=45235648) - [Heart attacks may be triggered by bacteria](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
+* [2025-09-13, 21:41:15](https://news.ycombinator.com/item?id=45235566) - [Normal-order syntax-rules and proving the fix-point of call/cc](https://okmij.org/ftp/Scheme/callcc-calc-page.html)
 * [2025-09-13, 21:04:18](https://news.ycombinator.com/item?id=45235293) - [AMD's RDNA4 GPU Architecture at Hot Chips 2025](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot)
 * [2025-09-13, 20:45:58](https://news.ycombinator.com/item?id=45235167) - [Wait4X allows you to wait for a port or a service to enter the requested state](https://github.com/wait4x/wait4x)
 * [2025-09-13, 19:37:49](https://news.ycombinator.com/item?id=45234715) - [WhoBIRD is now deprecated on certified Android devices](https://github.com/woheller69/whoBIRD)
