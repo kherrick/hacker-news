@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-17, 23:00:56](https://news.ycombinator.com/item?id=45282485) - [ABC Pulls Jimmy Kimmel Live from the Air 'Indefinitely'](https://www.vulture.com/article/abc-pulls-jimmy-kimmel-live-from-the-air-indefinitely.html)
 * [2025-09-17, 22:00:45](https://news.ycombinator.com/item?id=45281899) - [Pg_links](https://giulianopz.github.io/pg.html)
 * [2025-09-17, 21:10:04](https://news.ycombinator.com/item?id=45281437) - [Jqp: TUI Playground to Experiment with Jq](https://github.com/noahgorstein/jqp)
 * [2025-09-17, 20:41:07](https://news.ycombinator.com/item?id=45281139) - [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
@@ -27,6 +26,7 @@
 * [2025-09-16, 20:35:29](https://news.ycombinator.com/item?id=45267643) - [U.S. investors, Trump close in on TikTok deal with China](https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f)
 * [2025-09-16, 05:36:43](https://news.ycombinator.com/item?id=45258403) - [Infinite Mac: Resource Fork Roundtripping](https://blog.persistent.info/2025/09/infinite-mac-resource-forks.html)
 * [2025-09-16, 03:32:43](https://news.ycombinator.com/item?id=45257757) - [Just for fun: animating a mosaic of 90s GIFs](https://alexplescan.com/posts/2025/09/15/gifs/)
+* [2025-09-15, 20:51:27](https://news.ycombinator.com/item?id=45254763) - [Boring Is Good](https://jenson.org/boring/)
 * [2025-09-15, 18:08:45](https://news.ycombinator.com/item?id=45253012) - [What's New in C# 14: Null-Conditional Assignments](https://blog.ivankahl.com/csharp-14-null-conditional-assignments/)
 * [2025-09-15, 16:24:38](https://news.ycombinator.com/item?id=45251624) - [Ask HN: What's a good 3D Printer for sub $1000?](https://news.ycombinator.com/item?id=45251624)
 * [2025-09-14, 19:12:40](https://news.ycombinator.com/item?id=45242434) - [Understanding Deflate](https://jjrscott.com/to-deflate-or-not/)
