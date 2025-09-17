@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 18:45:57](https://news.ycombinator.com/item?id=45279790) - [The \"Debate Me Bro\" Grift: How Trolls Weaponized the Marketplace of Ideas](https://www.techdirt.com/2025/09/17/the-debate-me-bro-grift-how-trolls-weaponized-the-marketplace-of-ideas/)
 * [2025-09-17, 18:16:53](https://news.ycombinator.com/item?id=45279384) - [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
 * [2025-09-17, 18:15:16](https://news.ycombinator.com/item?id=45279357) - [DeepMind and OpenAI Win Gold at ICPC, OpenAI AKs](https://codeforces.com/blog/entry/146536)
 * [2025-09-17, 17:57:39](https://news.ycombinator.com/item?id=45279143) - [Anthropic irks White House with limits on models’ use](https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use)
