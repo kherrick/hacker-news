@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
 * [2025-09-17, 17:18:38](https://news.ycombinator.com/item?id=45278657) - [Tinycolor Supply Chain Attack Post-Mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/)
+* [2025-09-17, 17:12:15](https://news.ycombinator.com/item?id=45278581) - [Drought in Iraq Reveals Ancient Tombs Created 2,300 Years Ago](https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/)
 * [2025-09-17, 17:00:05](https://news.ycombinator.com/item?id=45278424) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs)
 * [2025-09-17, 16:13:00](https://news.ycombinator.com/item?id=45277704) - [Launch HN: RunRL (YC X25) – Reinforcement learning as a service](https://runrl.com)
 * [2025-09-17, 15:53:42](https://news.ycombinator.com/item?id=45277346) - [Not Buying American Anymore](https://xd1.dev/2025/09/not-buying-american-anymore)

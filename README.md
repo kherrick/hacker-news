@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-17, 17:18:38](https://news.ycombinator.com/item?id=45278657) - [Tinycolor Supply Chain Attack Post-Mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/)
+* [2025-09-17, 17:12:15](https://news.ycombinator.com/item?id=45278581) - [Drought in Iraq Reveals Ancient Tombs Created 2,300 Years Ago](https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/)
 * [2025-09-17, 17:00:05](https://news.ycombinator.com/item?id=45278424) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs)
 * [2025-09-17, 16:13:00](https://news.ycombinator.com/item?id=45277704) - [Launch HN: RunRL (YC X25) – Reinforcement learning as a service](https://runrl.com)
 * [2025-09-17, 15:28:25](https://news.ycombinator.com/item?id=45277023) - [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)
@@ -25,7 +26,6 @@
 * [2025-09-17, 01:57:58](https://news.ycombinator.com/item?id=45270676) - [Slow social media](https://herman.bearblog.dev/slow-social-media/)
 * [2025-09-16, 21:24:23](https://news.ycombinator.com/item?id=45268269) - [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
 * [2025-09-16, 18:33:21](https://news.ycombinator.com/item?id=45266039) - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
-* [2025-09-16, 18:12:29](https://news.ycombinator.com/item?id=45265745) - [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
 * [2025-09-16, 14:35:19](https://news.ycombinator.com/item?id=45262835) - [Things you can do with a Software Defined Radio (2024)](https://blinry.org/50-things-with-sdr/)
 * [2025-09-16, 11:22:03](https://news.ycombinator.com/item?id=45260741) - [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages)
 * [2025-09-15, 16:24:38](https://news.ycombinator.com/item?id=45251624) - [Ask HN: What's a good 3D Printer for sub $1000?](https://news.ycombinator.com/item?id=45251624)
