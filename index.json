@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-17, 21:10:04",
+      "https://news.ycombinator.com/item?id=45281437"
+    ],
+    [
+      "Jqp: TUI Playground to Experiment with Jq",
+      "https://github.com/noahgorstein/jqp"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 20:41:07",
       "https://news.ycombinator.com/item?id=45281139"
     ],
@@ -137,16 +147,6 @@
     [
       "Launch HN: RunRL (YC X25) – Reinforcement learning as a service",
       "https://runrl.com"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 15:28:25",
-      "https://news.ycombinator.com/item?id=45277023"
-    ],
-    [
-      "Microsoft Python Driver for SQL Server",
-      "https://github.com/microsoft/mssql-python"
     ]
   ],
   [
