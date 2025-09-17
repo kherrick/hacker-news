@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 14:29:10](https://news.ycombinator.com/item?id=45276262) - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
 * [2025-09-17, 14:14:19](https://news.ycombinator.com/item?id=45276099) - [AI Coding: A Sober Review](https://www.ubicloud.com/blog/ai-coding-a-sober-review)
 * [2025-09-17, 13:27:26](https://news.ycombinator.com/item?id=45275582) - [SQLiteData: A fast, lightweight replacement for SwiftData using SQL and CloudKit](https://github.com/pointfreeco/sqlite-data)
 * [2025-09-17, 13:14:04](https://news.ycombinator.com/item?id=45275444) - [Firefox 143 for Android to introduce DoH](https://blog.mozilla.org/en/firefox/dns-android/)

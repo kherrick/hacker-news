@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-17, 14:14:19](https://news.ycombinator.com/item?id=45276099) - [AI Coding: A Sober Review](https://www.ubicloud.com/blog/ai-coding-a-sober-review)
+* [2025-09-17, 14:29:10](https://news.ycombinator.com/item?id=45276262) - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
 * [2025-09-17, 13:27:26](https://news.ycombinator.com/item?id=45275582) - [SQLiteData: A fast, lightweight replacement for SwiftData using SQL and CloudKit](https://github.com/pointfreeco/sqlite-data)
 * [2025-09-17, 13:14:04](https://news.ycombinator.com/item?id=45275444) - [Firefox 143 for Android to introduce DoH](https://blog.mozilla.org/en/firefox/dns-android/)
 * [2025-09-17, 13:10:45](https://news.ycombinator.com/item?id=45275415) - [Bringing fully autonomous rides to Nashville, in partnership with Lyft](https://waymo.com/blog/2025/09/waymo-is-coming-to-nashville-in-partnership-with-lyft)
@@ -29,7 +29,7 @@
 * [2025-09-15, 11:46:45](https://news.ycombinator.com/item?id=45248558) - [A dumb introduction to z3](https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/)
 * [2025-09-15, 11:40:51](https://news.ycombinator.com/item?id=45248524) - [XeroxNostalgia.com](https://xeroxnostalgia.com/)
 * [2025-09-15, 10:14:38](https://news.ycombinator.com/item?id=45248043) - [Algebraic Types are not Scary](https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html)
-* [2025-09-15, 08:03:18](https://news.ycombinator.com/item?id=45247259) - [Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?](https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/)
+* [2025-09-15, 01:12:11](https://news.ycombinator.com/item?id=45245050) - [I built my own phone because innovation is sad rn [video]](https://www.youtube.com/watch?v=qy_9w_c2ub0)
 
 ## [Archives](archives/index.md)
 
