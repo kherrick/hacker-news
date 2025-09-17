@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 04:26:02](https://news.ycombinator.com/item?id=45271664) - [I just want an 80×25 console, but that's no longer possible](https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible)
 * [2025-09-17, 04:23:51](https://news.ycombinator.com/item?id=45271649) - [What's Up with Peter Thiel's Obsession with the Antichrist?](https://newrepublic.com/article/200471/peter-thiel-obsession-antichrist-religion)
 * [2025-09-17, 03:54:36](https://news.ycombinator.com/item?id=45271484) - [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
 * [2025-09-17, 03:54:06](https://news.ycombinator.com/item?id=45271481) - [GNU Midnight Commander](https://midnight-commander.org/)
