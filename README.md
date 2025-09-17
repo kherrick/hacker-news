@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 07:00:09](https://news.ycombinator.com/item?id=45272692) - [Tabby – A Terminal for the Modern Age](https://github.com/Eugeny/tabby)
 * [2025-09-17, 06:32:17](https://news.ycombinator.com/item?id=45272480) - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
 * [2025-09-17, 06:04:06](https://news.ycombinator.com/item?id=45272296) - [In Praise of Idleness (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
 * [2025-09-17, 05:11:50](https://news.ycombinator.com/item?id=45271942) - [Notion API importer, with Databases to Bases conversion bounty](https://github.com/obsidianmd/obsidian-importer/issues/421)
@@ -19,7 +20,6 @@
 * [2025-09-16, 17:01:16](https://news.ycombinator.com/item?id=45264867) - [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
 * [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [Waymo has received our pilot permit allowing for commercial operations at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
 * [2025-09-16, 16:22:40](https://news.ycombinator.com/item?id=45264340) - [Bertrand Russell to Oswald Mosley (1962)](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/)
-* [2025-09-16, 15:05:46](https://news.ycombinator.com/item?id=45263317) - [A new experimental Google app for Windows](https://blog.google/products/search/google-app-windows-labs/)
 * [2025-09-16, 14:35:19](https://news.ycombinator.com/item?id=45262835) - [Things you can do with a Software Defined Radio (2024)](https://blinry.org/50-things-with-sdr/)
 * [2025-09-16, 11:22:03](https://news.ycombinator.com/item?id=45260741) - [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages)
 * [2025-09-16, 08:24:22](https://news.ycombinator.com/item?id=45259553) - [Top UN legal investigators conclude Israel is guilty of genocide in Gaza](https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza)

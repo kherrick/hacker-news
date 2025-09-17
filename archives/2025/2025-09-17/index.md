@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 07:00:09](https://news.ycombinator.com/item?id=45272692) - [Tabby – A Terminal for the Modern Age](https://github.com/Eugeny/tabby)
 * [2025-09-17, 06:54:02](https://news.ycombinator.com/item?id=45272653) - [Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk/)
 * [2025-09-17, 06:32:17](https://news.ycombinator.com/item?id=45272480) - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
 * [2025-09-17, 06:04:06](https://news.ycombinator.com/item?id=45272296) - [In Praise of Idleness (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
