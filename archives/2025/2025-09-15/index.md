@@ -12,6 +12,7 @@
 * [2025-09-15, 21:29:40](https://news.ycombinator.com/item?id=45255155) - [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)
 * [2025-09-15, 21:28:01](https://news.ycombinator.com/item?id=45255137) - [William Gibson Reads Neuromancer](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
 * [2025-09-15, 21:27:37](https://news.ycombinator.com/item?id=45255132) - [Imperial Tyranny, Korean Humiliation](https://english.hani.co.kr/arti/english_edition/english_editorials/1218475.html)
+* [2025-09-15, 21:15:15](https://news.ycombinator.com/item?id=45255004) - [Noise Cancelling a Fan](https://chillphysicsenjoyer.substack.com/p/noise-cancelling-a-fan)
 * [2025-09-15, 20:28:32](https://news.ycombinator.com/item?id=45254540) - [Deaths are projected to exceed births in 2031](https://www.cbo.gov/publication/61390)
 * [2025-09-15, 20:26:52](https://news.ycombinator.com/item?id=45254523) - [Show HN: Blocks – Dream work apps and AI agents in minutes](https://blocks.diy)
 * [2025-09-15, 20:25:26](https://news.ycombinator.com/item?id=45254505) - [Ghost Kitchens Are Dying. Here's the $15B Lesson Every Restaurateur Must Learn](https://davidrmann3.substack.com/p/ghost-kitchens-are-dying-heres-the)
