@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-09-17, 03:54:06",
+      "https://news.ycombinator.com/item?id=45271481"
+    ],
+    [
+      "GNU Midnight Commander",
+      "https://midnight-commander.org/"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 02:39:19",
       "https://news.ycombinator.com/item?id=45270981"
     ],
     [
       "Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer",
       "https://totenarctanz.itch.io/a-scavenging-trip"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 02:37:09",
-      "https://news.ycombinator.com/item?id=45270965"
-    ],
-    [
-      "Global Peace Index 2025",
-      "https://www.visionofhumanity.org/maps/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "AMDVLK (AMD Open Source Driver For Vulkan) project is discontinued",
       "https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 21:48:06",
-      "https://news.ycombinator.com/item?id=45268575"
-    ],
-    [
-      "Micro-LEDs boost random number generation",
-      "https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Mystery in the Moon",
       "https://engelsbergideas.com/reviews/mystery-in-the-moon/"
+    ]
+  ],
+  [
+    [
+      "2025-09-10, 02:24:56",
+      "https://news.ycombinator.com/item?id=45192374"
+    ],
+    [
+      "LavaMoat – Tools for sandboxing your dependency graph",
+      "https://github.com/LavaMoat/LavaMoat"
     ]
   ]
 ]
