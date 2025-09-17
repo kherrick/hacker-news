@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-17, 14:14:19",
+      "https://news.ycombinator.com/item?id=45276099"
+    ],
+    [
+      "AI Coding: A Sober Review",
+      "https://www.ubicloud.com/blog/ai-coding-a-sober-review"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 13:27:26",
+      "https://news.ycombinator.com/item?id=45275582"
+    ],
+    [
+      "SQLiteData: A fast, lightweight replacement for SwiftData using SQL and CloudKit",
+      "https://github.com/pointfreeco/sqlite-data"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 13:14:04",
       "https://news.ycombinator.com/item?id=45275444"
     ],
     [
       "Firefox 143 for Android to introduce DoH",
       "https://blog.mozilla.org/en/firefox/dns-android/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 13:10:45",
+      "https://news.ycombinator.com/item?id=45275415"
+    ],
+    [
+      "Bringing fully autonomous rides to Nashville, in partnership with Lyft",
+      "https://waymo.com/blog/2025/09/waymo-is-coming-to-nashville-in-partnership-with-lyft"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "EU Chat Control: Germany's position has been reverted to UNDECIDED",
       "https://mastodon.social/@chatcontrol/115215006562371435"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 09:57:50",
-      "https://news.ycombinator.com/item?id=45273824"
-    ],
-    [
-      "Oh no, not again a meditation on NPM supply chain attacks",
-      "https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?",
       "https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 01:12:11",
-      "https://news.ycombinator.com/item?id=45245050"
-    ],
-    [
-      "I built my own phone because innovation is sad rn [video]",
-      "https://www.youtube.com/watch?v=qy_9w_c2ub0"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 21:41:15",
-      "https://news.ycombinator.com/item?id=45235566"
-    ],
-    [
-      "Normal-order syntax-rules and proving the fix-point of call/cc",
-      "https://okmij.org/ftp/Scheme/callcc-calc-page.html"
     ]
   ]
 ]
