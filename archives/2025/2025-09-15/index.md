@@ -63,6 +63,7 @@
 * [2025-09-15, 08:28:09](https://news.ycombinator.com/item?id=45247396) - [Show HN: I reverse engineered macOS to allow custom Lock Screen wallpapers](https://cindori.com/backdrop)
 * [2025-09-15, 07:14:13](https://news.ycombinator.com/item?id=45246971) - [The Mac App Flea Market](https://blog.jim-nielsen.com/2025/mac-app-flea-market/)
 * [2025-09-15, 07:10:03](https://news.ycombinator.com/item?id=45246953) - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
+* [2025-09-15, 05:41:45](https://news.ycombinator.com/item?id=45246457) - [Mixed Excitation Linear Predictive (MELP) Vocoders](https://melpe.org/)
 * [2025-09-15, 05:30:19](https://news.ycombinator.com/item?id=45246403) - [Celestia – real-time 3D visualization of space](https://celestiaproject.space/)
 * [2025-09-15, 05:13:33](https://news.ycombinator.com/item?id=45246325) - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)
 * [2025-09-15, 05:06:07](https://news.ycombinator.com/item?id=45246282) - [US taxpayers to pay billions in fuel subsidies thanks to Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)
