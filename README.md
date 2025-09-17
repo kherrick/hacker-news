@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 11:07:44](https://news.ycombinator.com/item?id=45274277) - [Apple Photos App Corrupts Images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
+* [2025-09-17, 10:26:18](https://news.ycombinator.com/item?id=45273999) - [Determination of the fifth Busy Beaver value](https://arxiv.org/abs/2509.12337)
 * [2025-09-17, 10:02:55](https://news.ycombinator.com/item?id=45273854) - [EU Chat Control: Germany's position has been reverted to UNDECIDED](https://mastodon.social/@chatcontrol/115215006562371435)
 * [2025-09-17, 09:57:50](https://news.ycombinator.com/item?id=45273824) - [Oh no, not again a meditation on NPM supply chain attacks](https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/)
 * [2025-09-17, 09:45:44](https://news.ycombinator.com/item?id=45273747) - [Alibaba's New AI Chip Unveiled: Key Specifications Comparable to H20](https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to)
@@ -14,7 +16,6 @@
 * [2025-09-17, 00:34:02](https://news.ycombinator.com/item?id=45270108) - [About the security content of iOS 15.8.5 and iPadOS 15.8.5](https://support.apple.com/en-us/125142)
 * [2025-09-17, 00:31:04](https://news.ycombinator.com/item?id=45270087) - [AMD Open Source Driver for Vulkan project is discontinued](https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416)
 * [2025-09-16, 21:24:23](https://news.ycombinator.com/item?id=45268269) - [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
-* [2025-09-16, 19:33:35](https://news.ycombinator.com/item?id=45266854) - [Should we drain the Everglades?](https://rabbitcavern.substack.com/p/should-we-drain-the-everglades)
 * [2025-09-16, 19:27:40](https://news.ycombinator.com/item?id=45266771) - [DataTables CDN Outage – post incident review](https://datatables.net/blog/2025/july-29-outage)
 * [2025-09-16, 18:33:21](https://news.ycombinator.com/item?id=45266039) - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
 * [2025-09-16, 18:12:29](https://news.ycombinator.com/item?id=45265745) - [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
@@ -29,7 +30,6 @@
 * [2025-09-15, 01:12:11](https://news.ycombinator.com/item?id=45245050) - [I built my own phone because innovation is sad rn [video]](https://www.youtube.com/watch?v=qy_9w_c2ub0)
 * [2025-09-13, 21:41:15](https://news.ycombinator.com/item?id=45235566) - [Normal-order syntax-rules and proving the fix-point of call/cc](https://okmij.org/ftp/Scheme/callcc-calc-page.html)
 * [2025-09-13, 15:37:45](https://news.ycombinator.com/item?id=45232940) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
-* [2025-09-13, 14:37:52](https://news.ycombinator.com/item?id=45232426) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 
 ## [Archives](archives/index.md)
 
