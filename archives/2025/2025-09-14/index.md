@@ -21,6 +21,7 @@
 * [2025-09-14, 19:34:48](https://news.ycombinator.com/item?id=45242591) - [OCSP Service Has Reached End of Life](https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life)
 * [2025-09-14, 19:31:30](https://news.ycombinator.com/item?id=45242565) - [Taxpayers Will Pay Billions in New Fossil Fuel Subsidies for Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)
 * [2025-09-14, 19:15:24](https://news.ycombinator.com/item?id=45242458) - [ChatControl update: blocking minority held but Denmark is moving forward anyway](https://disobey.net/@yawnbox/115203365485529363)
+* [2025-09-14, 19:12:40](https://news.ycombinator.com/item?id=45242434) - [Understanding Deflate](https://jjrscott.com/to-deflate-or-not/)
 * [2025-09-14, 18:57:14](https://news.ycombinator.com/item?id=45242337) - [How older parents divorce affects their adult children](https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children)
 * [2025-09-14, 18:29:24](https://news.ycombinator.com/item?id=45242122) - [Show HN: Datadef.io – Canvas for data lineage and metadata management](https://datadef.io/)
 * [2025-09-14, 18:23:55](https://news.ycombinator.com/item?id=45242075) - [Lisp in 2025 (FOSS Book, 10 chapters)](https://github.com/cloudstreet-dev/Lisp-in-2025/blob/main/01-introduction.md)

@@ -22,7 +22,6 @@
 * [2025-09-17, 12:29:49](https://news.ycombinator.com/item?id=45275049) - [Procedural Island Generation (III)](https://brashandplucky.com/2025/09/17/procedural-island-generation-iii.html)
 * [2025-09-17, 11:07:44](https://news.ycombinator.com/item?id=45274277) - [Apple Photos app corrupts images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
 * [2025-09-17, 10:26:18](https://news.ycombinator.com/item?id=45273999) - [Determination of the fifth Busy Beaver value](https://arxiv.org/abs/2509.12337)
-* [2025-09-17, 10:10:14](https://news.ycombinator.com/item?id=45273897) - [PureVPN IPv6 Leak](https://anagogistis.com/posts/purevpn-ipv6-leak/)
 * [2025-09-17, 09:45:44](https://news.ycombinator.com/item?id=45273747) - [Alibaba's new AI chip: Key specifications comparable to H20](https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to)
 * [2025-09-17, 03:54:36](https://news.ycombinator.com/item?id=45271484) - [The Asus gaming laptop ACPI firmware bug](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
 * [2025-09-16, 20:35:29](https://news.ycombinator.com/item?id=45267643) - [U.S. investors, Trump close in on TikTok deal with China](https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f)
@@ -30,6 +29,7 @@
 * [2025-09-16, 03:32:43](https://news.ycombinator.com/item?id=45257757) - [Just for fun: animating a mosaic of 90s GIFs](https://alexplescan.com/posts/2025/09/15/gifs/)
 * [2025-09-15, 21:15:15](https://news.ycombinator.com/item?id=45255004) - [Noise cancelling a fan](https://chillphysicsenjoyer.substack.com/p/noise-cancelling-a-fan)
 * [2025-09-15, 16:24:38](https://news.ycombinator.com/item?id=45251624) - [Ask HN: What's a good 3D Printer for sub $1000?](https://news.ycombinator.com/item?id=45251624)
+* [2025-09-14, 19:12:40](https://news.ycombinator.com/item?id=45242434) - [Understanding Deflate](https://jjrscott.com/to-deflate-or-not/)
 
 ## [Archives](archives/index.md)
 
