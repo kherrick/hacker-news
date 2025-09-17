@@ -1,13 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 14:14:19](https://news.ycombinator.com/item?id=45276099) - [AI Coding: A Sober Review](https://www.ubicloud.com/blog/ai-coding-a-sober-review)
+* [2025-09-17, 13:27:26](https://news.ycombinator.com/item?id=45275582) - [SQLiteData: A fast, lightweight replacement for SwiftData using SQL and CloudKit](https://github.com/pointfreeco/sqlite-data)
 * [2025-09-17, 13:14:04](https://news.ycombinator.com/item?id=45275444) - [Firefox 143 for Android to introduce DoH](https://blog.mozilla.org/en/firefox/dns-android/)
+* [2025-09-17, 13:10:45](https://news.ycombinator.com/item?id=45275415) - [Bringing fully autonomous rides to Nashville, in partnership with Lyft](https://waymo.com/blog/2025/09/waymo-is-coming-to-nashville-in-partnership-with-lyft)
 * [2025-09-17, 13:03:24](https://news.ycombinator.com/item?id=45275354) - [Tau² Benchmark: How a Prompt Rewrite Boosted GPT-5-Mini by 22%](https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/)
 * [2025-09-17, 12:29:49](https://news.ycombinator.com/item?id=45275049) - [Procedural Island Generation (III)](https://brashandplucky.com/2025/09/17/procedural-island-generation-iii.html)
 * [2025-09-17, 11:07:44](https://news.ycombinator.com/item?id=45274277) - [Apple Photos App Corrupts Images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
 * [2025-09-17, 10:26:18](https://news.ycombinator.com/item?id=45273999) - [Determination of the fifth Busy Beaver value](https://arxiv.org/abs/2509.12337)
 * [2025-09-17, 10:10:14](https://news.ycombinator.com/item?id=45273897) - [PureVPN IPv6 Leak](https://anagogistis.com/posts/purevpn-ipv6-leak/)
 * [2025-09-17, 10:02:55](https://news.ycombinator.com/item?id=45273854) - [EU Chat Control: Germany's position has been reverted to UNDECIDED](https://mastodon.social/@chatcontrol/115215006562371435)
-* [2025-09-17, 09:57:50](https://news.ycombinator.com/item?id=45273824) - [Oh no, not again a meditation on NPM supply chain attacks](https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/)
 * [2025-09-17, 09:45:44](https://news.ycombinator.com/item?id=45273747) - [Alibaba's New AI Chip Unveiled: Key Specifications Comparable to H20](https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to)
 * [2025-09-17, 08:38:17](https://news.ycombinator.com/item?id=45273352) - [Why We're Building Stategraph: Terraform State as a Distributed Systems Problem](https://stategraph.dev/blog/why-stategraph/)
 * [2025-09-17, 06:32:17](https://news.ycombinator.com/item?id=45272480) - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
@@ -28,8 +30,6 @@
 * [2025-09-15, 11:40:51](https://news.ycombinator.com/item?id=45248524) - [XeroxNostalgia.com](https://xeroxnostalgia.com/)
 * [2025-09-15, 10:14:38](https://news.ycombinator.com/item?id=45248043) - [Algebraic Types are not Scary](https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html)
 * [2025-09-15, 08:03:18](https://news.ycombinator.com/item?id=45247259) - [Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?](https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/)
-* [2025-09-15, 01:12:11](https://news.ycombinator.com/item?id=45245050) - [I built my own phone because innovation is sad rn [video]](https://www.youtube.com/watch?v=qy_9w_c2ub0)
-* [2025-09-13, 21:41:15](https://news.ycombinator.com/item?id=45235566) - [Normal-order syntax-rules and proving the fix-point of call/cc](https://okmij.org/ftp/Scheme/callcc-calc-page.html)
 
 ## [Archives](archives/index.md)
 
