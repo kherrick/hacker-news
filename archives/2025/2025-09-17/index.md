@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 22:38:01](https://news.ycombinator.com/item?id=45282268) - [macOS Tahoe Incompatible with Mac Studio M3 Ultra](https://eclecticlight.co/2025/09/17/macos-26-0-tahoe-build-25a354-is-incompatible-with-mac-studio-m3-ultra/)
 * [2025-09-17, 22:00:45](https://news.ycombinator.com/item?id=45281899) - [Pg_links](https://giulianopz.github.io/pg.html)
 * [2025-09-17, 21:42:39](https://news.ycombinator.com/item?id=45281734) - [Stephen Miller's Quota Likely Drove Korean Arrests in Immigration Raid](https://www.forbes.com/sites/stuartanderson/2025/09/16/stephen-millers-quota-likely-drove-korean-arrests-in-immigration-raid/)
 * [2025-09-17, 21:33:37](https://news.ycombinator.com/item?id=45281653) - [Programming language inventor or serial killer? (2003)](https://vole.wtf/coder-serial-killer-quiz/)
