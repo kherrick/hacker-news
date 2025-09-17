@@ -31,6 +31,7 @@
 * [2025-09-13, 16:30:16](https://news.ycombinator.com/item?id=45233337) - [Several people fired after clampdown on speech over Charlie Kirk shooting](https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-shooting-people-fired-social-media)
 * [2025-09-13, 16:18:27](https://news.ycombinator.com/item?id=45233266) - [Magical Systems Thinking](https://worksinprogress.co/issue/magical-systems-thinking/)
 * [2025-09-13, 16:14:11](https://news.ycombinator.com/item?id=45233237) - [Recreating the US time zone situation](https://rachelbythebay.com/w/2025/09/12/tz/)
+* [2025-09-13, 15:37:45](https://news.ycombinator.com/item?id=45232940) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
 * [2025-09-13, 15:10:55](https://news.ycombinator.com/item?id=45232720) - [\"Learning how to Learn\" will be next generation's most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html)
 * [2025-09-13, 14:56:17](https://news.ycombinator.com/item?id=45232596) - [From unit tests to whole universe tests (with will wilson of antithesis) [video]](https://www.youtube.com/watch?v=_xJ4maWhSNU)
 * [2025-09-13, 14:52:45](https://news.ycombinator.com/item?id=45232565) - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
