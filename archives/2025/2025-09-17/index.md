@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 03:54:06](https://news.ycombinator.com/item?id=45271481) - [GNU Midnight Commander](https://midnight-commander.org/)
 * [2025-09-17, 02:39:19](https://news.ycombinator.com/item?id=45270981) - [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
 * [2025-09-17, 02:37:09](https://news.ycombinator.com/item?id=45270965) - [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
 * [2025-09-17, 01:57:58](https://news.ycombinator.com/item?id=45270676) - [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)

@@ -82,6 +82,7 @@
 * [2025-09-10, 03:29:45](https://news.ycombinator.com/item?id=45192862) - [Claude's new Code Interpreter review](https://simonwillison.net/2025/Sep/9/claude-code-interpreter/)
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 * [2025-09-10, 02:55:33](https://news.ycombinator.com/item?id=45192618) - [Power series, power serious (1999!) [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/19863F4EAACC33E1E01DE2A2114EC7DF/S0956796899003299a.pdf/div-class-title-power-series-power-serious-div.pdf)
+* [2025-09-10, 02:24:56](https://news.ycombinator.com/item?id=45192374) - [LavaMoat – Tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat)
 * [2025-09-10, 02:15:31](https://news.ycombinator.com/item?id=45192302) - [The Jeopardy game that changed everything still haunts the show 15 years later](https://slate.com/culture/2025/09/jeopardy-game-watson-questions-final-ken-jennings.html)
 * [2025-09-10, 02:02:17](https://news.ycombinator.com/item?id=45192194) - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 * [2025-09-10, 01:38:28](https://news.ycombinator.com/item?id=45192012) - [Open Source SDR Ham Transceiver Prototype](https://m17project.org/2025/08/18/first-linht-tests/)

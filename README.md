@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 03:54:06](https://news.ycombinator.com/item?id=45271481) - [GNU Midnight Commander](https://midnight-commander.org/)
 * [2025-09-17, 02:39:19](https://news.ycombinator.com/item?id=45270981) - [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
-* [2025-09-17, 02:37:09](https://news.ycombinator.com/item?id=45270965) - [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
 * [2025-09-17, 01:57:58](https://news.ycombinator.com/item?id=45270676) - [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)
 * [2025-09-17, 01:47:59](https://news.ycombinator.com/item?id=45270610) - [September 15, 2025: The Day the Industry Admitted AI Subscriptions Don't Work](https://blog.kilocode.ai/p/why-ai-subscriptions-cannot-work)
 * [2025-09-17, 01:26:41](https://news.ycombinator.com/item?id=45270482) - [Irssi: IRC Client in a Docker Image](https://hub.docker.com/_/irssi)
 * [2025-09-17, 00:34:02](https://news.ycombinator.com/item?id=45270108) - [Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s](https://support.apple.com/en-us/125142)
 * [2025-09-17, 00:31:04](https://news.ycombinator.com/item?id=45270087) - [AMDVLK (AMD Open Source Driver For Vulkan) project is discontinued](https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416)
-* [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
 * [2025-09-16, 21:24:23](https://news.ycombinator.com/item?id=45268269) - [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
 * [2025-09-16, 19:40:34](https://news.ycombinator.com/item?id=45266947) - [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
 * [2025-09-16, 18:33:21](https://news.ycombinator.com/item?id=45266039) - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
@@ -30,6 +29,7 @@
 * [2025-09-13, 14:37:52](https://news.ycombinator.com/item?id=45232426) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 * [2025-09-13, 14:28:38](https://news.ycombinator.com/item?id=45232344) - [Wind turbine blade transportation challenges](https://spectrum.ieee.org/wind-turbine-blade-transport-plane)
 * [2025-09-13, 04:33:38](https://news.ycombinator.com/item?id=45229322) - [Mystery in the Moon](https://engelsbergideas.com/reviews/mystery-in-the-moon/)
+* [2025-09-10, 02:24:56](https://news.ycombinator.com/item?id=45192374) - [LavaMoat – Tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat)
 
 ## [Archives](archives/index.md)
 
