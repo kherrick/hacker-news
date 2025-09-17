@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-17, 00:34:02](https://news.ycombinator.com/item?id=45270108) - [Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s](https://support.apple.com/en-us/125142)
+* [2025-09-16, 23:51:39](https://news.ycombinator.com/item?id=45269827) - [I launched a Mac utility; now there are 5 clones on the App Store using my story](https://news.ycombinator.com/item?id=45269827)
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
 * [2025-09-16, 21:24:23](https://news.ycombinator.com/item?id=45268269) - [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
 * [2025-09-16, 20:43:43](https://news.ycombinator.com/item?id=45267762) - [SQL performance improvements: finding the right queries to fix](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)
-* [2025-09-16, 20:10:59](https://news.ycombinator.com/item?id=45267336) - [The \"Most Hated\" CSS Feature: Cos() and Sin()](https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/)
-* [2025-09-16, 19:33:35](https://news.ycombinator.com/item?id=45266854) - [Should We Drain the Everglades?](https://rabbitcavern.substack.com/p/should-we-drain-the-everglades)
+* [2025-09-16, 19:40:34](https://news.ycombinator.com/item?id=45266947) - [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
+* [2025-09-16, 19:33:35](https://news.ycombinator.com/item?id=45266854) - [Should we drain the Everglades?](https://rabbitcavern.substack.com/p/should-we-drain-the-everglades)
 * [2025-09-16, 18:33:21](https://news.ycombinator.com/item?id=45266039) - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
 * [2025-09-16, 18:12:29](https://news.ycombinator.com/item?id=45265745) - [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
 * [2025-09-16, 18:01:42](https://news.ycombinator.com/item?id=45265610) - [The Linux Process Journey (2023) [pdf]](https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf)
@@ -24,12 +26,10 @@
 * [2025-09-15, 11:46:45](https://news.ycombinator.com/item?id=45248558) - [A dumb introduction to z3](https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/)
 * [2025-09-15, 01:12:11](https://news.ycombinator.com/item?id=45245050) - [I built my own phone because innovation is sad rn [video]](https://www.youtube.com/watch?v=qy_9w_c2ub0)
 * [2025-09-14, 00:36:23](https://news.ycombinator.com/item?id=45236479) - [Writing an operating system kernel from scratch – RISC-V/OpenSBI/Zig](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
-* [2025-09-13, 22:32:33](https://news.ycombinator.com/item?id=45235848) - [Inboxfuscation: Because Rules Are Meant to Be Broken](https://permiso.io/blog/inboxfuscation-because-rules-are-meant-to-be-broken)
+* [2025-09-13, 20:45:58](https://news.ycombinator.com/item?id=45235167) - [Wait4X allows you to wait for a port or a service to enter the requested state](https://github.com/wait4x/wait4x)
 * [2025-09-13, 14:37:52](https://news.ycombinator.com/item?id=45232426) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 * [2025-09-13, 14:28:38](https://news.ycombinator.com/item?id=45232344) - [Wind turbine blade transportation challenges](https://spectrum.ieee.org/wind-turbine-blade-transport-plane)
-* [2025-09-13, 12:43:54](https://news.ycombinator.com/item?id=45231614) - [60 years after Gemini, newly processed images reveal details](https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/)
 * [2025-09-13, 08:56:00](https://news.ycombinator.com/item?id=45230515) - [UTF-8 history (2003)](https://doc.cat-v.org/bell_labs/utf-8_history)
-* [2025-09-07, 19:08:48](https://news.ycombinator.com/item?id=45161219) - [Paper Folding Assembly Line [video]](https://www.youtube.com/watch?v=XhUuhl9iWpQ)
 
 ## [Archives](archives/index.md)
 
