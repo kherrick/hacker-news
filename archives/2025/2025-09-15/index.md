@@ -7,6 +7,7 @@
 * [2025-09-15, 23:32:01](https://news.ycombinator.com/item?id=45256229) - [Fighting human trafficking with self-contained applications](https://lwn.net/SubscriberLink/1036916/2b10f1356b7ab0e7/)
 * [2025-09-15, 23:02:31](https://news.ycombinator.com/item?id=45256043) - [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
 * [2025-09-15, 22:48:05](https://news.ycombinator.com/item?id=45255921) - [Total porn ban proposed by Michigan lawmakers](https://www.fox2detroit.com/news/total-porn-ban-proposed-michigan-lawmakers)
+* [2025-09-15, 22:10:22](https://news.ycombinator.com/item?id=45255585) - [Victoria's 'Portaloo index' shows where new homes are being built (2024)](https://www.realestate.com.au/news/victorias-portaloo-index-shows-where-new-homes-are-being-built-as-use-of-portable-toilets-drops-around-the-state/)
 * [2025-09-15, 21:51:55](https://news.ycombinator.com/item?id=45255400) - [Massive Attack Turns Concert into Facial Recognition Surveillance Experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
 * [2025-09-15, 21:46:19](https://news.ycombinator.com/item?id=45255337) - [Show HN: Pooshit – sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337)
 * [2025-09-15, 21:29:40](https://news.ycombinator.com/item?id=45255155) - [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)

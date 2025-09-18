@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 02:33:31](https://news.ycombinator.com/item?id=45284477) - [UC Berkeley gives personal information for 150 students and staff to government](https://www.dailycal.org/news/campus/uc-berkeley-turns-over-personal-information-of-more-than-150-students-and-staff-to-federal/article_a4aad3e1-bbba-42cc-92d7-a7964d9641c5.html)
 * [2025-09-18, 01:37:11](https://news.ycombinator.com/item?id=45283887) - [Slack is extorting us with a $195k/yr bill increase](https://skyfall.dev/posts/slack)
 * [2025-09-18, 01:18:58](https://news.ycombinator.com/item?id=45283731) - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 * [2025-09-18, 00:30:44](https://news.ycombinator.com/item?id=45283306) - [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
@@ -23,13 +24,12 @@
 * [2025-09-17, 09:45:44](https://news.ycombinator.com/item?id=45273747) - [Alibaba's new AI chip: Key specifications comparable to H20](https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to)
 * [2025-09-16, 20:35:29](https://news.ycombinator.com/item?id=45267643) - [U.S. investors, Trump close in on TikTok deal with China](https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f)
 * [2025-09-16, 05:36:43](https://news.ycombinator.com/item?id=45258403) - [Infinite Mac: Resource Fork Roundtripping](https://blog.persistent.info/2025/09/infinite-mac-resource-forks.html)
-* [2025-09-16, 03:32:43](https://news.ycombinator.com/item?id=45257757) - [Just for fun: animating a mosaic of 90s GIFs](https://alexplescan.com/posts/2025/09/15/gifs/)
+* [2025-09-15, 22:10:22](https://news.ycombinator.com/item?id=45255585) - [Victoria's 'Portaloo index' shows where new homes are being built (2024)](https://www.realestate.com.au/news/victorias-portaloo-index-shows-where-new-homes-are-being-built-as-use-of-portable-toilets-drops-around-the-state/)
 * [2025-09-15, 20:51:27](https://news.ycombinator.com/item?id=45254763) - [Boring is good](https://jenson.org/boring/)
 * [2025-09-15, 18:08:45](https://news.ycombinator.com/item?id=45253012) - [What's New in C# 14: Null-Conditional Assignments](https://blog.ivankahl.com/csharp-14-null-conditional-assignments/)
 * [2025-09-15, 16:24:38](https://news.ycombinator.com/item?id=45251624) - [Ask HN: What's a good 3D Printer for sub $1000?](https://news.ycombinator.com/item?id=45251624)
 * [2025-09-14, 19:12:40](https://news.ycombinator.com/item?id=45242434) - [Understanding Deflate](https://jjrscott.com/to-deflate-or-not/)
 * [2025-09-14, 18:49:34](https://news.ycombinator.com/item?id=45242287) - [Grade 2 Braille](https://en.wikipedia.org/wiki/English_Braille)
-* [2025-09-14, 18:34:24](https://news.ycombinator.com/item?id=45242164) - [How to join or concat ranges, C++26](https://www.cppstories.com/2025/join_concat_ranges/)
 
 ## [Archives](archives/index.md)
 
