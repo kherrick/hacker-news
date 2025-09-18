@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2025-09-18, 16:26:04",
+      "https://news.ycombinator.com/item?id=45291618"
+    ],
+    [
+      "Show HN: One prompt generates an app with its own database",
+      "https://www.manyminiapps.com/"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 16:24:19",
+      "https://news.ycombinator.com/item?id=45291590"
+    ],
+    [
+      "OneDev – Self-hosted Git server with CI/CD, Kanban, and packages",
+      "https://onedev.io/"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 15:47:40",
       "https://news.ycombinator.com/item?id=45291132"
     ],
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=45287155"
     ],
     [
-      "This Website Has No Class",
+      "This website has no class",
       "https://aaadaaam.com/notes/no-class/"
     ]
   ],
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2025-09-17, 20:41:07",
-      "https://news.ycombinator.com/item?id=45281139"
-    ],
-    [
-      "A postmortem of three recent issues",
-      "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 18:16:53",
-      "https://news.ycombinator.com/item?id=45279384"
-    ],
-    [
-      "WASM 3.0 Completed",
-      "https://webassembly.org/news/2025-09-17-wasm-3.0/"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 17:52:17",
       "https://news.ycombinator.com/item?id=45265487"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-09-15, 23:19:17",
-      "https://news.ycombinator.com/item?id=45256145"
-    ],
-    [
-      "Keeping SSH sessions alive with systemd-inhibit",
-      "https://kd8bny.com/posts/session_inhibit/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 20:51:27",
       "https://news.ycombinator.com/item?id=45254763"
     ],
     [
       "Boring is good",
       "https://jenson.org/boring/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 11:28:08",
+      "https://news.ycombinator.com/item?id=45248427"
+    ],
+    [
+      "The Day the Linter Broke My Code",
+      "https://blog.fillmore-labs.com/posts/errors-2/"
     ]
   ],
   [
