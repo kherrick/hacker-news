@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-18, 18:30:37](https://news.ycombinator.com/item?id=45293273) - [When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
-* [2025-09-18, 17:47:29](https://news.ycombinator.com/item?id=45292696) - [Ask HN: Dark Mode for HN?](https://news.ycombinator.com/item?id=45292696)
 * [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
 * [2025-09-18, 17:29:17](https://news.ycombinator.com/item?id=45292475) - [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
 * [2025-09-18, 17:12:36](https://news.ycombinator.com/item?id=45292260) - [Chrome's New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
@@ -29,6 +28,7 @@
 * [2025-09-16, 17:52:17](https://news.ycombinator.com/item?id=45265487) - [Midcentury North American Restaurant Placemats](https://casualarchivist.substack.com/p/order-up)
 * [2025-09-15, 11:28:08](https://news.ycombinator.com/item?id=45248427) - [The Day the Linter Broke My Code](https://blog.fillmore-labs.com/posts/errors-2/)
 * [2025-09-15, 06:51:06](https://news.ycombinator.com/item?id=45246840) - [Linking to text fragments with a bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet/)
+* [2025-09-15, 06:17:29](https://news.ycombinator.com/item?id=45246652) - [PostgreSQL Maintenance Without Superuser](https://boringsql.com/posts/postgresql-predefined-roles/)
 * [2025-09-14, 18:08:55](https://news.ycombinator.com/item?id=45241961) - [Rereading books](https://maxgirkins.com/writings/on-rereading)
 
 ## [Archives](archives/index.md)
