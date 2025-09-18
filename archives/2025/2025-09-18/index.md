@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 20:15:45](https://news.ycombinator.com/item?id=45294440) - [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
 * [2025-09-18, 19:41:50](https://news.ycombinator.com/item?id=45294058) - [U.S. has the critical minerals it needs – but they're being thrown away](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
 * [2025-09-18, 19:21:33](https://news.ycombinator.com/item?id=45293839) - [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
 * [2025-09-18, 19:14:23](https://news.ycombinator.com/item?id=45293757) - [Organs Cannot Simply Be Classified as Male or Female](https://www.mpg.de/25425064/0918-limn-the-sex-of-the-body-why-our-organs-cannot-simply-be-classified-as-male-or-female-153345-x)
