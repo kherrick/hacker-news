@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-09-18, 17:03:35",
+      "https://news.ycombinator.com/item?id=45292130"
+    ],
+    [
+      "Yes, Jimmy Kimmel's suspension was government censorship",
+      "https://www.theverge.com/policy/781148/jimmy-kimmel-charlie-kirk-monologue-brendan-carr-censorship-first-amendment"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 16:43:43",
       "https://news.ycombinator.com/item?id=45291858"
     ],
     [
       "Configuration files are user interfaces",
       "https://ochagavia.nl/blog/configuration-files-are-user-interfaces/"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 16:17:54",
-      "https://news.ycombinator.com/item?id=45291504"
-    ],
-    [
-      "ABC Pulls Jimmy Kimmel Off Air After FCC Pressure",
-      "https://www.nytimes.com/2025/09/17/business/media/abc-jimmy-kimmel.html"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-09-18, 14:09:46",
+      "https://news.ycombinator.com/item?id=45289921"
+    ],
+    [
+      "Aaron Levie: Startups win in the AI era [video]",
+      "https://www.youtube.com/watch?v=uqc_vt95GJg"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 14:01:45",
       "https://news.ycombinator.com/item?id=45289834"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=45289829"
     ],
     [
-      "Automatic Differentiation Can Be Incorrect",
+      "Automatic differentiation can be incorrect",
       "https://www.stochasticlifestyle.com/the-numerical-analysis-of-differentiable-simulation-automatic-differentiation-can-be-incorrect/"
     ]
   ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=45286369"
     ],
     [
-      "CERN Animal Shelter for Computer Mice",
+      "CERN Animal Shelter for Computer Mice (2011)",
       "https://computer-animal-shelter.web.cern.ch/index.shtml"
     ]
   ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2025-09-15, 23:19:17",
-      "https://news.ycombinator.com/item?id=45256145"
-    ],
-    [
-      "Keeping SSH sessions alive with systemd-inhibit",
-      "https://kd8bny.com/posts/session_inhibit/"
-    ]
-  ],
-  [
-    [
       "2025-09-15, 06:51:06",
       "https://news.ycombinator.com/item?id=45246840"
     ],
     [
-      "Linking to Text Fragments with a Bookmarklet",
+      "Linking to text fragments with a bookmarklet",
       "https://alexwlchan.net/2025/text-fragments-bookmarklet/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45241961"
     ],
     [
-      "Rereading",
+      "Rereading books",
       "https://maxgirkins.com/writings/on-rereading"
     ]
   ]
