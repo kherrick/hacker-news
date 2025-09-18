@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-18, 18:50:13",
-      "https://news.ycombinator.com/item?id=45293509"
+      "2025-09-18, 19:21:33",
+      "https://news.ycombinator.com/item?id=45293839"
     ],
     [
-      "The Last Days of the Managerial Class",
-      "https://eyeofthesquid.com/the-last-days-of-the-managerial-class-5c95bd74ee60"
+      "tldraw SDK 4.0",
+      "https://tldraw.dev/blog/tldraw-sdk-4-0"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-09-18, 08:41:32",
-      "https://news.ycombinator.com/item?id=45287155"
-    ],
-    [
-      "This website has no class",
-      "https://aaadaaam.com/notes/no-class/"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 07:12:56",
       "https://news.ycombinator.com/item?id=45286526"
     ],
@@ -277,6 +267,16 @@
     [
       "The Day the Linter Broke My Code",
       "https://blog.fillmore-labs.com/posts/errors-2/"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 08:25:20",
+      "https://news.ycombinator.com/item?id=45247381"
+    ],
+    [
+      "I Built an Event-Sourcing Database Engine: Meet Genesis DB",
+      "https://www.genesisdb.io"
     ]
   ],
   [
