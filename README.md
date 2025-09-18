@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-18, 04:07:06](https://news.ycombinator.com/item?id=45285253) - [ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments After FCC Pressure](https://www.nytimes.com/2025/09/17/business/media/abc-jimmy-kimmel.html)
 * [2025-09-18, 03:06:08](https://news.ycombinator.com/item?id=45284766) - [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
 * [2025-09-18, 02:25:59](https://news.ycombinator.com/item?id=45284398) - [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
 * [2025-09-18, 02:18:45](https://news.ycombinator.com/item?id=45284311) - [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
@@ -26,6 +25,7 @@
 * [2025-09-16, 20:35:29](https://news.ycombinator.com/item?id=45267643) - [U.S. investors, Trump close in on TikTok deal with China](https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f)
 * [2025-09-15, 20:51:27](https://news.ycombinator.com/item?id=45254763) - [Boring is good](https://jenson.org/boring/)
 * [2025-09-15, 18:08:45](https://news.ycombinator.com/item?id=45253012) - [What's New in C# 14: Null-Conditional Assignments](https://blog.ivankahl.com/csharp-14-null-conditional-assignments/)
+* [2025-09-15, 16:48:01](https://news.ycombinator.com/item?id=45251940) - [Condor Technology to Fly \"Cuzco\" RISC-V CPU into the Datacenter](https://www.nextplatform.com/2025/09/15/condor-technology-to-fly-cuzco-risc-v-cpu-into-the-datacenter/)
 * [2025-09-15, 16:24:38](https://news.ycombinator.com/item?id=45251624) - [Ask HN: What's a good 3D Printer for sub $1000?](https://news.ycombinator.com/item?id=45251624)
 * [2025-09-14, 19:12:40](https://news.ycombinator.com/item?id=45242434) - [Understanding Deflate](https://jjrscott.com/to-deflate-or-not/)
 * [2025-09-14, 18:49:34](https://news.ycombinator.com/item?id=45242287) - [Grade 2 Braille](https://en.wikipedia.org/wiki/English_Braille)
