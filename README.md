@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 19:41:50](https://news.ycombinator.com/item?id=45294058) - [U.S. has the critical minerals it needs – but they're being thrown away](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
 * [2025-09-18, 19:21:33](https://news.ycombinator.com/item?id=45293839) - [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
+* [2025-09-18, 19:14:23](https://news.ycombinator.com/item?id=45293757) - [Organs Cannot Simply Be Classified as Male or Female](https://www.mpg.de/25425064/0918-limn-the-sex-of-the-body-why-our-organs-cannot-simply-be-classified-as-male-or-female-153345-x)
 * [2025-09-18, 18:30:37](https://news.ycombinator.com/item?id=45293273) - [When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
-* [2025-09-18, 18:26:07](https://news.ycombinator.com/item?id=45293197) - [Cluely Thesis on Virality and Hype](https://cluely.com/blog/virality)
 * [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
 * [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
 * [2025-09-18, 17:29:17](https://news.ycombinator.com/item?id=45292475) - [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
@@ -26,7 +27,6 @@
 * [2025-09-18, 06:53:08](https://news.ycombinator.com/item?id=45286369) - [CERN Animal Shelter for Computer Mice (2011)](https://computer-animal-shelter.web.cern.ch/index.shtml)
 * [2025-09-18, 01:37:11](https://news.ycombinator.com/item?id=45283887) - [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack)
 * [2025-09-16, 17:52:17](https://news.ycombinator.com/item?id=45265487) - [Midcentury North American Restaurant Placemats](https://casualarchivist.substack.com/p/order-up)
-* [2025-09-15, 11:28:08](https://news.ycombinator.com/item?id=45248427) - [The Day the Linter Broke My Code](https://blog.fillmore-labs.com/posts/errors-2/)
 * [2025-09-15, 08:25:20](https://news.ycombinator.com/item?id=45247381) - [I Built an Event-Sourcing Database Engine: Meet Genesis DB](https://www.genesisdb.io)
 * [2025-09-15, 06:17:29](https://news.ycombinator.com/item?id=45246652) - [PostgreSQL Maintenance Without Superuser](https://boringsql.com/posts/postgresql-predefined-roles/)
 * [2025-09-14, 18:08:55](https://news.ycombinator.com/item?id=45241961) - [Rereading books](https://maxgirkins.com/writings/on-rereading)
