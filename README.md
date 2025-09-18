@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 18:30:37](https://news.ycombinator.com/item?id=45293273) - [When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
 * [2025-09-18, 17:47:29](https://news.ycombinator.com/item?id=45292696) - [Ask HN: Dark Mode for HN?](https://news.ycombinator.com/item?id=45292696)
-* [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [Map Is Not Upside Down](https://www.maps.com/this-map-is-not-upside-down/)
 * [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
 * [2025-09-18, 17:29:17](https://news.ycombinator.com/item?id=45292475) - [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
 * [2025-09-18, 17:12:36](https://news.ycombinator.com/item?id=45292260) - [Chrome's New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
