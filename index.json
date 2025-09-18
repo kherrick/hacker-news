@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-18, 11:04:48",
+      "https://news.ycombinator.com/item?id=45288161"
+    ],
+    [
+      "Nvidia buys $5B in Intel stock in seismic deal",
+      "https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 09:33:07",
       "https://news.ycombinator.com/item?id=45287551"
     ],
@@ -167,16 +177,6 @@
     [
       "WASM 3.0 Completed",
       "https://webassembly.org/news/2025-09-17-wasm-3.0/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 17:18:38",
-      "https://news.ycombinator.com/item?id=45278657"
-    ],
-    [
-      "Tinycolor supply chain attack post-mortem",
-      "https://sigh.dev/posts/ctrl-tinycolor-post-mortem/"
     ]
   ],
   [
