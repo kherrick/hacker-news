@@ -20,6 +20,7 @@
 * [2025-09-15, 20:25:26](https://news.ycombinator.com/item?id=45254505) - [Ghost Kitchens Are Dying. Here's the $15B Lesson Every Restaurateur Must Learn](https://davidrmann3.substack.com/p/ghost-kitchens-are-dying-heres-the)
 * [2025-09-15, 20:07:48](https://news.ycombinator.com/item?id=45254330) - [Scryer Prolog Meetup 2025](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/)
 * [2025-09-15, 19:45:34](https://news.ycombinator.com/item?id=45254095) - [Europe wants to turn Digital Euro (CBDC) into a stablecoin](https://antongolub.substack.com/p/europe-wants-to-turn-digital-euro)
+* [2025-09-15, 19:36:10](https://news.ycombinator.com/item?id=45253987) - [Rendezvous Hashing Explained (2020)](https://randorithms.com/2020/12/26/rendezvous-hashing.html)
 * [2025-09-15, 19:17:35](https://news.ycombinator.com/item?id=45253807) - [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/)
 * [2025-09-15, 19:14:28](https://news.ycombinator.com/item?id=45253775) - [How People Use ChatGPT [pdf]](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)
 * [2025-09-15, 19:13:40](https://news.ycombinator.com/item?id=45253760) - [California reached the unthinkable: A union deal with tech giants](https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680)
