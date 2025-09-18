@@ -3,6 +3,7 @@
 * [2025-09-18, 08:41:32](https://news.ycombinator.com/item?id=45287155) - [This Website Has No Class](https://aaadaaam.com/notes/no-class/)
 * [2025-09-18, 07:12:56](https://news.ycombinator.com/item?id=45286526) - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
 * [2025-09-18, 06:55:28](https://news.ycombinator.com/item?id=45286394) - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
+* [2025-09-18, 06:53:08](https://news.ycombinator.com/item?id=45286369) - [CERN Animal Shelter for Computer Mice](https://computer-animal-shelter.web.cern.ch/index.shtml)
 * [2025-09-18, 05:27:01](https://news.ycombinator.com/item?id=45285780) - [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
 * [2025-09-18, 03:06:08](https://news.ycombinator.com/item?id=45284766) - [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
 * [2025-09-18, 02:25:59](https://news.ycombinator.com/item?id=45284398) - [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
@@ -27,7 +28,6 @@
 * [2025-09-15, 21:22:47](https://news.ycombinator.com/item?id=45255088) - [How to Debug Chez Scheme Programs (2002)](https://www.scheme.com/debug/debug.html)
 * [2025-09-15, 20:51:27](https://news.ycombinator.com/item?id=45254763) - [Boring is good](https://jenson.org/boring/)
 * [2025-09-15, 19:36:10](https://news.ycombinator.com/item?id=45253987) - [Rendezvous Hashing Explained (2020)](https://randorithms.com/2020/12/26/rendezvous-hashing.html)
-* [2025-09-15, 16:48:01](https://news.ycombinator.com/item?id=45251940) - [Condor Technology to Fly \"Cuzco\" RISC-V CPU into the Datacenter](https://www.nextplatform.com/2025/09/15/condor-technology-to-fly-cuzco-risc-v-cpu-into-the-datacenter/)
 * [2025-09-15, 15:46:02](https://news.ycombinator.com/item?id=45251111) - [Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects](https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/)
 * [2025-09-15, 04:22:34](https://news.ycombinator.com/item?id=45246095) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 
