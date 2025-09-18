@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 07:12:56](https://news.ycombinator.com/item?id=45286526) - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
 * [2025-09-18, 06:55:28](https://news.ycombinator.com/item?id=45286394) - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
 * [2025-09-18, 05:27:01](https://news.ycombinator.com/item?id=45285780) - [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
 * [2025-09-18, 04:07:06](https://news.ycombinator.com/item?id=45285253) - [ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments After FCC Pressure](https://www.nytimes.com/2025/09/17/business/media/abc-jimmy-kimmel.html)

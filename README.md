@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 07:12:56](https://news.ycombinator.com/item?id=45286526) - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
 * [2025-09-18, 06:55:28](https://news.ycombinator.com/item?id=45286394) - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
 * [2025-09-18, 05:27:01](https://news.ycombinator.com/item?id=45285780) - [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
 * [2025-09-18, 03:06:08](https://news.ycombinator.com/item?id=45284766) - [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
@@ -20,7 +21,6 @@
 * [2025-09-17, 16:49:37](https://news.ycombinator.com/item?id=45278279) - [Ton Roosendaal to step down as Blender chairman and CEO](https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/)
 * [2025-09-17, 16:13:00](https://news.ycombinator.com/item?id=45277704) - [Launch HN: RunRL (YC X25) – Reinforcement learning as a service](https://runrl.com)
 * [2025-09-17, 14:29:10](https://news.ycombinator.com/item?id=45276262) - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
-* [2025-09-17, 13:03:24](https://news.ycombinator.com/item?id=45275354) - [Tau² benchmark: How a prompt rewrite boosted GPT-5-mini by 22%](https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/)
 * [2025-09-17, 11:07:44](https://news.ycombinator.com/item?id=45274277) - [Apple Photos app corrupts images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
 * [2025-09-16, 20:35:29](https://news.ycombinator.com/item?id=45267643) - [U.S. investors, Trump close in on TikTok deal with China](https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f)
 * [2025-09-15, 21:22:47](https://news.ycombinator.com/item?id=45255088) - [How to Debug Chez Scheme Programs (2002)](https://www.scheme.com/debug/debug.html)
