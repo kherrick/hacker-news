@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Fuck, You're Still Sad?](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
 * [2025-09-18, 14:01:45](https://news.ycombinator.com/item?id=45289834) - [Geizhals Preisvergleich Donates USD 10k to the Perl and Raku Foundation](https://www.perl.com/article/geizhals-donates-to-tprf/)
 * [2025-09-18, 14:01:35](https://news.ycombinator.com/item?id=45289829) - [Automatic Differentiation Can Be Incorrect](https://www.stochasticlifestyle.com/the-numerical-analysis-of-differentiable-simulation-automatic-differentiation-can-be-incorrect/)
 * [2025-09-18, 13:38:49](https://news.ycombinator.com/item?id=45289558) - [Luau – fast, small, safe, gradually typed scripting language derived from Lua](https://luau.org/)
@@ -7,7 +8,6 @@
 * [2025-09-18, 13:06:03](https://news.ycombinator.com/item?id=45289168) - [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
 * [2025-09-18, 12:17:51](https://news.ycombinator.com/item?id=45288690) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 * [2025-09-18, 12:00:44](https://news.ycombinator.com/item?id=45288551) - [You Had No Taste Before AI](https://matthewsanabria.dev/posts/you-had-no-taste-before-ai/)
-* [2025-09-18, 11:24:34](https://news.ycombinator.com/item?id=45288271) - [Nvidia to Invest $5B in Intel](https://www.ft.com/content/be8d4c0c-66ff-4dfd-9b43-af6c0b290ada)
 * [2025-09-18, 11:16:29](https://news.ycombinator.com/item?id=45288222) - [Mirror Life Worries](https://www.science.org/content/blog-post/mirror-life-worries)
 * [2025-09-18, 11:04:48](https://news.ycombinator.com/item?id=45288161) - [Nvidia buys $5B in Intel stock in seismic deal](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
 * [2025-09-18, 09:33:07](https://news.ycombinator.com/item?id=45287551) - [CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer)
@@ -23,13 +23,13 @@
 * [2025-09-17, 23:03:21](https://news.ycombinator.com/item?id=45282497) - [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 * [2025-09-17, 20:41:07](https://news.ycombinator.com/item?id=45281139) - [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
 * [2025-09-17, 18:16:53](https://news.ycombinator.com/item?id=45279384) - [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
-* [2025-09-17, 16:49:37](https://news.ycombinator.com/item?id=45278279) - [Ton Roosendaal to step down as Blender chairman and CEO](https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/)
 * [2025-09-17, 14:29:10](https://news.ycombinator.com/item?id=45276262) - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
 * [2025-09-16, 17:52:17](https://news.ycombinator.com/item?id=45265487) - [Midcentury North American Restaurant Placemats](https://casualarchivist.substack.com/p/order-up)
 * [2025-09-15, 23:19:17](https://news.ycombinator.com/item?id=45256145) - [Keeping SSH sessions alive with systemd-inhibit](https://kd8bny.com/posts/session_inhibit/)
 * [2025-09-15, 20:51:27](https://news.ycombinator.com/item?id=45254763) - [Boring is good](https://jenson.org/boring/)
 * [2025-09-15, 16:46:13](https://news.ycombinator.com/item?id=45251918) - [60 years after Gemini, newly processed images reveal details](https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/)
 * [2025-09-15, 15:46:02](https://news.ycombinator.com/item?id=45251111) - [Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects](https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/)
+* [2025-09-14, 15:44:39](https://news.ycombinator.com/item?id=45240681) - [An Afternoon at the Recursive Café: Two Threads Interleaving](https://ipfs.io/ipfs/bafkreieiwashxhlv5epydts2apocoepdvjudzhpnrswqxcd3zm3i5gipyu)
 
 ## [Archives](archives/index.md)
 

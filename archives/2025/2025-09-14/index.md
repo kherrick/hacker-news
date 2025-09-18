@@ -32,6 +32,7 @@
 * [2025-09-14, 16:40:42](https://news.ycombinator.com/item?id=45241204) - [World emissions hit record high, but the EU leads trend reversal](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/world-emissions-hit-record-high-eu-leads-trend-reversal-2025-09-09_en)
 * [2025-09-14, 16:23:06](https://news.ycombinator.com/item?id=45241071) - [Gleam is my new obsession](https://ericcodes.io/blog/gleam-my-new-obsession.html)
 * [2025-09-14, 15:44:44](https://news.ycombinator.com/item?id=45240682) - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
+* [2025-09-14, 15:44:39](https://news.ycombinator.com/item?id=45240681) - [An Afternoon at the Recursive Café: Two Threads Interleaving](https://ipfs.io/ipfs/bafkreieiwashxhlv5epydts2apocoepdvjudzhpnrswqxcd3zm3i5gipyu)
 * [2025-09-14, 15:13:42](https://news.ycombinator.com/item?id=45240391) - [Website Is Just an SVG](https://svg.nicubunu.ro/)
 * [2025-09-14, 15:05:28](https://news.ycombinator.com/item?id=45240304) - [Bank of Thailand Freezes 3M Accounts, Sets Daily Transfer Limits](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
 * [2025-09-14, 15:01:38](https://news.ycombinator.com/item?id=45240266) - [The AI-Scraping Free-for-All Is Coming to an End](https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html)
