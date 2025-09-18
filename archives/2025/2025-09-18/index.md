@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 17:12:36](https://news.ycombinator.com/item?id=45292260) - [Chrome's New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
 * [2025-09-18, 17:03:35](https://news.ycombinator.com/item?id=45292130) - [Yes, Jimmy Kimmel's suspension was government censorship](https://www.theverge.com/policy/781148/jimmy-kimmel-charlie-kirk-monologue-brendan-carr-censorship-first-amendment)
 * [2025-09-18, 16:43:43](https://news.ycombinator.com/item?id=45291858) - [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
 * [2025-09-18, 16:17:54](https://news.ycombinator.com/item?id=45291504) - [ABC Pulls Jimmy Kimmel Off Air After FCC Pressure](https://www.nytimes.com/2025/09/17/business/media/abc-jimmy-kimmel.html)
