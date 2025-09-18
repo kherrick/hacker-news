@@ -78,6 +78,7 @@
 * [2025-09-15, 08:03:18](https://news.ycombinator.com/item?id=45247259) - [Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?](https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/)
 * [2025-09-15, 07:14:13](https://news.ycombinator.com/item?id=45246971) - [The Mac App Flea Market](https://blog.jim-nielsen.com/2025/mac-app-flea-market/)
 * [2025-09-15, 07:10:03](https://news.ycombinator.com/item?id=45246953) - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
+* [2025-09-15, 06:51:06](https://news.ycombinator.com/item?id=45246840) - [Linking to Text Fragments with a Bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet/)
 * [2025-09-15, 05:41:45](https://news.ycombinator.com/item?id=45246457) - [Mixed Excitation Linear Predictive (MELP) Vocoders](https://melpe.org/)
 * [2025-09-15, 05:30:19](https://news.ycombinator.com/item?id=45246403) - [Celestia – real-time 3D visualization of space](https://celestiaproject.space/)
 * [2025-09-15, 05:13:33](https://news.ycombinator.com/item?id=45246325) - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)

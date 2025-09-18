@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 16:43:43](https://news.ycombinator.com/item?id=45291858) - [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
 * [2025-09-18, 16:17:54](https://news.ycombinator.com/item?id=45291504) - [ABC Pulls Jimmy Kimmel Off Air After FCC Pressure](https://www.nytimes.com/2025/09/17/business/media/abc-jimmy-kimmel.html)
 * [2025-09-18, 15:47:40](https://news.ycombinator.com/item?id=45291132) - [American Prairie unlocks another 70k acres in Montana](https://earthhope.substack.com/p/victory-for-public-access-american)
 * [2025-09-18, 15:46:06](https://news.ycombinator.com/item?id=45291107) - [Samsung confirms its smart fridges will start showing you ads](https://www.androidauthority.com/samsung-confirms-smart-refrigerator-ads-are-coming-3598848/)
@@ -14,7 +15,6 @@
 * [2025-09-18, 13:28:59](https://news.ycombinator.com/item?id=45289453) - [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
 * [2025-09-18, 13:06:03](https://news.ycombinator.com/item?id=45289168) - [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
 * [2025-09-18, 12:17:51](https://news.ycombinator.com/item?id=45288690) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
-* [2025-09-18, 12:00:44](https://news.ycombinator.com/item?id=45288551) - [You Had No Taste Before AI](https://matthewsanabria.dev/posts/you-had-no-taste-before-ai/)
 * [2025-09-18, 11:16:29](https://news.ycombinator.com/item?id=45288222) - [Mirror Life Worries](https://www.science.org/content/blog-post/mirror-life-worries)
 * [2025-09-18, 11:04:48](https://news.ycombinator.com/item?id=45288161) - [Nvidia buys $5B in Intel](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
 * [2025-09-18, 09:33:07](https://news.ycombinator.com/item?id=45287551) - [CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer)
@@ -28,8 +28,8 @@
 * [2025-09-17, 23:03:21](https://news.ycombinator.com/item?id=45282497) - [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 * [2025-09-16, 17:52:17](https://news.ycombinator.com/item?id=45265487) - [Midcentury North American Restaurant Placemats](https://casualarchivist.substack.com/p/order-up)
 * [2025-09-15, 23:19:17](https://news.ycombinator.com/item?id=45256145) - [Keeping SSH sessions alive with systemd-inhibit](https://kd8bny.com/posts/session_inhibit/)
+* [2025-09-15, 06:51:06](https://news.ycombinator.com/item?id=45246840) - [Linking to Text Fragments with a Bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet/)
 * [2025-09-14, 18:08:55](https://news.ycombinator.com/item?id=45241961) - [Rereading](https://maxgirkins.com/writings/on-rereading)
-* [2025-09-14, 15:44:39](https://news.ycombinator.com/item?id=45240681) - [An Afternoon at the Recursive Café: Two Threads Interleaving](https://ipfs.io/ipfs/bafkreieiwashxhlv5epydts2apocoepdvjudzhpnrswqxcd3zm3i5gipyu)
 
 ## [Archives](archives/index.md)
 
