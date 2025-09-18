@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 13:28:59](https://news.ycombinator.com/item?id=45289453) - [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
 * [2025-09-18, 13:06:03](https://news.ycombinator.com/item?id=45289168) - [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
 * [2025-09-18, 12:17:51](https://news.ycombinator.com/item?id=45288690) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 * [2025-09-18, 12:00:44](https://news.ycombinator.com/item?id=45288551) - [You Had No Taste Before AI](https://matthewsanabria.dev/posts/you-had-no-taste-before-ai/)
@@ -9,7 +10,6 @@
 * [2025-09-18, 09:33:07](https://news.ycombinator.com/item?id=45287551) - [CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer)
 * [2025-09-18, 09:28:40](https://news.ycombinator.com/item?id=45287513) - [Fast Fourier Transforms Part 1: Cooley-Tukey](https://connorboyle.io/2025/09/11/fft-cooley-tukey.html)
 * [2025-09-18, 08:41:32](https://news.ycombinator.com/item?id=45287155) - [This Website Has No Class](https://aaadaaam.com/notes/no-class/)
-* [2025-09-18, 08:08:05](https://news.ycombinator.com/item?id=45286905) - [John Grisham Still Wonders: Will Texas Kill Robert Roberson?](https://www.dmagazine.com/frontburner/2025/09/author-john-grisham-still-wonders-will-texas-kill-robert-roberson/)
 * [2025-09-18, 07:12:56](https://news.ycombinator.com/item?id=45286526) - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
 * [2025-09-18, 06:55:28](https://news.ycombinator.com/item?id=45286394) - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
 * [2025-09-18, 06:53:08](https://news.ycombinator.com/item?id=45286369) - [CERN Animal Shelter for Computer Mice](https://computer-animal-shelter.web.cern.ch/index.shtml)
