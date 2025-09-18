@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 14:36:44](https://news.ycombinator.com/item?id=45290245) - [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 * [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Fuck, You're Still Sad?](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
 * [2025-09-18, 14:01:45](https://news.ycombinator.com/item?id=45289834) - [Geizhals Preisvergleich Donates USD 10k to the Perl and Raku Foundation](https://www.perl.com/article/geizhals-donates-to-tprf/)
 * [2025-09-18, 14:01:35](https://news.ycombinator.com/item?id=45289829) - [Automatic Differentiation Can Be Incorrect](https://www.stochasticlifestyle.com/the-numerical-analysis-of-differentiable-simulation-automatic-differentiation-can-be-incorrect/)
@@ -18,7 +19,6 @@
 * [2025-09-18, 06:53:08](https://news.ycombinator.com/item?id=45286369) - [CERN Animal Shelter for Computer Mice](https://computer-animal-shelter.web.cern.ch/index.shtml)
 * [2025-09-18, 02:18:45](https://news.ycombinator.com/item?id=45284311) - [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
 * [2025-09-18, 01:37:11](https://news.ycombinator.com/item?id=45283887) - [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack)
-* [2025-09-18, 01:18:58](https://news.ycombinator.com/item?id=45283731) - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 * [2025-09-18, 00:30:44](https://news.ycombinator.com/item?id=45283306) - [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
 * [2025-09-17, 23:03:21](https://news.ycombinator.com/item?id=45282497) - [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 * [2025-09-17, 20:41:07](https://news.ycombinator.com/item?id=45281139) - [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)

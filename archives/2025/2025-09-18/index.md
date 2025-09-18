@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 14:36:44](https://news.ycombinator.com/item?id=45290245) - [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 * [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Fuck, You're Still Sad?](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
 * [2025-09-18, 14:02:50](https://news.ycombinator.com/item?id=45289848) - [React hook causes downtime at Cloudflare, which just stopped the biggest DDoS](https://blog.cloudflare.com/deep-dive-into-cloudflares-sept-12-dashboard-and-api-outage/)
 * [2025-09-18, 14:01:45](https://news.ycombinator.com/item?id=45289834) - [Geizhals Preisvergleich Donates USD 10k to the Perl and Raku Foundation](https://www.perl.com/article/geizhals-donates-to-tprf/)
