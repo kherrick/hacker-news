@@ -13,6 +13,7 @@
 * [2025-09-15, 21:29:40](https://news.ycombinator.com/item?id=45255155) - [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)
 * [2025-09-15, 21:28:01](https://news.ycombinator.com/item?id=45255137) - [William Gibson Reads Neuromancer](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
 * [2025-09-15, 21:27:37](https://news.ycombinator.com/item?id=45255132) - [Imperial Tyranny, Korean Humiliation](https://english.hani.co.kr/arti/english_edition/english_editorials/1218475.html)
+* [2025-09-15, 21:22:47](https://news.ycombinator.com/item?id=45255088) - [How to Debug Chez Scheme Programs (2002)](https://www.scheme.com/debug/debug.html)
 * [2025-09-15, 21:15:15](https://news.ycombinator.com/item?id=45255004) - [Noise Cancelling a Fan](https://chillphysicsenjoyer.substack.com/p/noise-cancelling-a-fan)
 * [2025-09-15, 20:51:27](https://news.ycombinator.com/item?id=45254763) - [Boring Is Good](https://jenson.org/boring/)
 * [2025-09-15, 20:28:32](https://news.ycombinator.com/item?id=45254540) - [Deaths are projected to exceed births in 2031](https://www.cbo.gov/publication/61390)
