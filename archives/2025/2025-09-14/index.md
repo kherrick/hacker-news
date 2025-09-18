@@ -27,6 +27,7 @@
 * [2025-09-14, 18:34:24](https://news.ycombinator.com/item?id=45242164) - [How to join or concat ranges, C++26](https://www.cppstories.com/2025/join_concat_ranges/)
 * [2025-09-14, 18:29:24](https://news.ycombinator.com/item?id=45242122) - [Show HN: Datadef.io – Canvas for data lineage and metadata management](https://datadef.io/)
 * [2025-09-14, 18:23:55](https://news.ycombinator.com/item?id=45242075) - [Lisp in 2025 (FOSS Book, 10 chapters)](https://github.com/cloudstreet-dev/Lisp-in-2025/blob/main/01-introduction.md)
+* [2025-09-14, 18:08:55](https://news.ycombinator.com/item?id=45241961) - [Rereading](https://maxgirkins.com/writings/on-rereading)
 * [2025-09-14, 17:59:16](https://news.ycombinator.com/item?id=45241861) - [Eye drops could replace glasses or surgery for longsightedness, study says](https://www.theguardian.com/society/2025/sep/14/eye-drops-could-replace-glasses-surgery-longsighted-study)
 * [2025-09-14, 17:44:27](https://news.ycombinator.com/item?id=45241719) - [The Perl Programming Language in 2025 (FOSS book)](https://github.com/cloudstreet-dev/The-PERL-Programming-Language/blob/main/01-why-perl-still-matters.md)
 * [2025-09-14, 16:40:42](https://news.ycombinator.com/item?id=45241204) - [World emissions hit record high, but the EU leads trend reversal](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/world-emissions-hit-record-high-eu-leads-trend-reversal-2025-09-09_en)
