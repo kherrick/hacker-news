@@ -48,6 +48,7 @@
 * [2025-09-16, 13:18:00](https://news.ycombinator.com/item?id=45261848) - [When the job search becomes impossible](https://www.jeffwofford.com/wp/?p=2240)
 * [2025-09-16, 13:10:29](https://news.ycombinator.com/item?id=45261764) - [CIA Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom)
 * [2025-09-16, 13:02:20](https://news.ycombinator.com/item?id=45261659) - [Teen Safety, Freedom, and Privacy](https://openai.com/index/teen-safety-freedom-and-privacy)
+* [2025-09-16, 12:53:51](https://news.ycombinator.com/item?id=45261566) - [Rupert's snub cube and other Math Holes](http://tom7.org/ruperts/)
 * [2025-09-16, 12:45:58](https://news.ycombinator.com/item?id=45261480) - [Just Use HTML](https://gomakethings.com/just-use-html/)
 * [2025-09-16, 12:10:49](https://news.ycombinator.com/item?id=45261163) - [FBI couldn't get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/)
 * [2025-09-16, 12:10:31](https://news.ycombinator.com/item?id=45261159) - [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html)
