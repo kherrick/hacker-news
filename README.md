@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-18, 02:33:31](https://news.ycombinator.com/item?id=45284477) - [UC Berkeley gives personal information for 150 students and staff to government](https://www.dailycal.org/news/campus/uc-berkeley-turns-over-personal-information-of-more-than-150-students-and-staff-to-federal/article_a4aad3e1-bbba-42cc-92d7-a7964d9641c5.html)
-* [2025-09-18, 02:18:45](https://news.ycombinator.com/item?id=45284311) - [Show HN: The text disappears when you screenshot it.](https://unscreenshottable.vercel.app/?text=Hello)
+* [2025-09-18, 02:18:45](https://news.ycombinator.com/item?id=45284311) - [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
 * [2025-09-18, 01:18:58](https://news.ycombinator.com/item?id=45283731) - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 * [2025-09-18, 00:30:44](https://news.ycombinator.com/item?id=45283306) - [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
 * [2025-09-18, 00:17:20](https://news.ycombinator.com/item?id=45283196) - [Stepping Down as Libxml2 Maintainer](https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398)
@@ -11,6 +10,7 @@
 * [2025-09-17, 18:46:03](https://news.ycombinator.com/item?id=45279792) - [Optimizing ClickHouse for Intel's 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
 * [2025-09-17, 18:16:53](https://news.ycombinator.com/item?id=45279384) - [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
 * [2025-09-17, 18:15:16](https://news.ycombinator.com/item?id=45279357) - [DeepMind and OpenAI win gold at ICPC](https://codeforces.com/blog/entry/146536)
+* [2025-09-17, 17:24:14](https://news.ycombinator.com/item?id=45278740) - [DeepSeek writes less secure code for groups China disfavors?](https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/)
 * [2025-09-17, 17:18:38](https://news.ycombinator.com/item?id=45278657) - [Tinycolor supply chain attack post-mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/)
 * [2025-09-17, 17:12:15](https://news.ycombinator.com/item?id=45278581) - [Drought in Iraq reveals tombs created 2,300 years ago](https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/)
 * [2025-09-17, 17:00:05](https://news.ycombinator.com/item?id=45278424) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs)
@@ -29,7 +29,7 @@
 * [2025-09-15, 16:24:38](https://news.ycombinator.com/item?id=45251624) - [Ask HN: What's a good 3D Printer for sub $1000?](https://news.ycombinator.com/item?id=45251624)
 * [2025-09-14, 19:12:40](https://news.ycombinator.com/item?id=45242434) - [Understanding Deflate](https://jjrscott.com/to-deflate-or-not/)
 * [2025-09-14, 18:49:34](https://news.ycombinator.com/item?id=45242287) - [Grade 2 Braille](https://en.wikipedia.org/wiki/English_Braille)
-* [2025-09-14, 07:30:09](https://news.ycombinator.com/item?id=45238175) - [Can Your GrimDark Beat the Germans](https://medium.com/luminasticity/can-your-grimdark-beat-the-germans-429f3e6fc4df)
+* [2025-09-14, 07:30:09](https://news.ycombinator.com/item?id=45238175) - [Can Your GrimDark Beat the Germans (2022)](https://medium.com/luminasticity/can-your-grimdark-beat-the-germans-429f3e6fc4df)
 
 ## [Archives](archives/index.md)
 
