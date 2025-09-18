@@ -83,6 +83,7 @@
 * [2025-09-15, 05:05:09](https://news.ycombinator.com/item?id=45246278) - [Cex.C – Comprehensively EXtended C Language](https://github.com/alexveden/cex)
 * [2025-09-15, 04:56:24](https://news.ycombinator.com/item?id=45246247) - [Americans Crushed by Auto Loans as Defaults and Repossessions Surge](https://www.carscoops.com/2025/09/auto-loan-delinquencies-are-off-the-dial-and-even-prime-borrowers-are-struggling/)
 * [2025-09-15, 04:51:29](https://news.ycombinator.com/item?id=45246229) - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
+* [2025-09-15, 04:22:34](https://news.ycombinator.com/item?id=45246095) - [How Container Filesystem Works: Building a Docker-Like Container from Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 * [2025-09-15, 03:58:23](https://news.ycombinator.com/item?id=45245962) - [\"Hello, Is This Anna?\": Unpacking the Lifecycle of Pig-Butchering Scams](https://arxiv.org/abs/2503.20821)
 * [2025-09-15, 03:54:20](https://news.ycombinator.com/item?id=45245948) - [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 * [2025-09-15, 03:27:34](https://news.ycombinator.com/item?id=45245802) - [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
