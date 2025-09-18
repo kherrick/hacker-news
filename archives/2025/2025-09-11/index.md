@@ -40,6 +40,7 @@
 * [2025-09-11, 15:47:06](https://news.ycombinator.com/item?id=45212976) - [Health Insurance Costs for Businesses to Rise by Most in 15 Years](https://www.wsj.com/health/healthcare/health-insurance-costs-rise-6cc1b934)
 * [2025-09-11, 15:45:38](https://news.ycombinator.com/item?id=45212960) - [Spiral](https://spiraldb.com/post/announcing-spiral)
 * [2025-09-11, 15:41:43](https://news.ycombinator.com/item?id=45212915) - [Nano11 cuts Windows 11 down to size, grabbing just 2.8 GB of disk space](https://www.theregister.com/2025/09/11/nano11_cuts_windows_11_down/)
+* [2025-09-11, 15:06:27](https://news.ycombinator.com/item?id=45212535) - [Show HN: Asxiv.org – Ask ArXiv papers questions through chat](https://asxiv.org/)
 * [2025-09-11, 15:05:28](https://news.ycombinator.com/item?id=45212521) - [A Trick for Backpropagation of Linear Transformations](https://tripplyons.com/blog/backprop-trick)
 * [2025-09-11, 14:51:57](https://news.ycombinator.com/item?id=45212370) - [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/)
 * [2025-09-11, 14:44:17](https://news.ycombinator.com/item?id=45212288) - [Social Media Is Navigating Its Sectarian Phase](https://www.newyorker.com/culture/infinite-scroll/social-media-is-navigating-its-sectarian-phase)

@@ -2,7 +2,7 @@
 
 * [2025-09-18, 20:15:45](https://news.ycombinator.com/item?id=45294440) - [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
 * [2025-09-18, 20:11:29](https://news.ycombinator.com/item?id=45294390) - [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
-* [2025-09-18, 19:41:50](https://news.ycombinator.com/item?id=45294058) - [U.S. has the critical minerals it needs – but they're being thrown away](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
+* [2025-09-18, 19:41:50](https://news.ycombinator.com/item?id=45294058) - [U.S. already has the critical minerals it needs, according to new analysis](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
 * [2025-09-18, 19:21:33](https://news.ycombinator.com/item?id=45293839) - [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
 * [2025-09-18, 18:30:37](https://news.ycombinator.com/item?id=45293273) - [When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
 * [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
@@ -17,7 +17,6 @@
 * [2025-09-18, 14:36:44](https://news.ycombinator.com/item?id=45290245) - [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 * [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Grief gets an expiration date, just like us](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
 * [2025-09-18, 14:09:46](https://news.ycombinator.com/item?id=45289921) - [Aaron Levie: Startups win in the AI era [video]](https://www.youtube.com/watch?v=uqc_vt95GJg)
-* [2025-09-18, 14:01:35](https://news.ycombinator.com/item?id=45289829) - [Automatic differentiation can be incorrect](https://www.stochasticlifestyle.com/the-numerical-analysis-of-differentiable-simulation-automatic-differentiation-can-be-incorrect/)
 * [2025-09-18, 13:38:49](https://news.ycombinator.com/item?id=45289558) - [Luau – Fast, small, safe, gradually typed scripting language derived from Lua](https://luau.org/)
 * [2025-09-18, 13:28:59](https://news.ycombinator.com/item?id=45289453) - [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
 * [2025-09-18, 13:06:03](https://news.ycombinator.com/item?id=45289168) - [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
@@ -29,7 +28,8 @@
 * [2025-09-16, 17:52:17](https://news.ycombinator.com/item?id=45265487) - [Midcentury North American Restaurant Placemats](https://casualarchivist.substack.com/p/order-up)
 * [2025-09-15, 08:25:20](https://news.ycombinator.com/item?id=45247381) - [I Built an Event-Sourcing Database Engine: Meet Genesis DB](https://www.genesisdb.io)
 * [2025-09-15, 06:17:29](https://news.ycombinator.com/item?id=45246652) - [PostgreSQL Maintenance Without Superuser](https://boringsql.com/posts/postgresql-predefined-roles/)
-* [2025-09-14, 18:08:55](https://news.ycombinator.com/item?id=45241961) - [Rereading books](https://maxgirkins.com/writings/on-rereading)
+* [2025-09-15, 01:37:41](https://news.ycombinator.com/item?id=45245181) - [TIC-80 – Tiny Computer](https://tic80.com/)
+* [2025-09-11, 15:06:27](https://news.ycombinator.com/item?id=45212535) - [Show HN: Asxiv.org – Ask ArXiv papers questions through chat](https://asxiv.org/)
 
 ## [Archives](archives/index.md)
 
