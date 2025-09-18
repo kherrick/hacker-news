@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 14:02:50](https://news.ycombinator.com/item?id=45289848) - [React hook causes downtime at Cloudflare, which just stopped the biggest DDoS](https://blog.cloudflare.com/deep-dive-into-cloudflares-sept-12-dashboard-and-api-outage/)
+* [2025-09-18, 14:01:45](https://news.ycombinator.com/item?id=45289834) - [Geizhals Preisvergleich Donates USD 10k to the Perl and Raku Foundation](https://www.perl.com/article/geizhals-donates-to-tprf/)
+* [2025-09-18, 14:01:35](https://news.ycombinator.com/item?id=45289829) - [Automatic Differentiation Can Be Incorrect](https://www.stochasticlifestyle.com/the-numerical-analysis-of-differentiable-simulation-automatic-differentiation-can-be-incorrect/)
+* [2025-09-18, 13:38:49](https://news.ycombinator.com/item?id=45289558) - [Luau – fast, small, safe, gradually typed scripting language derived from Lua](https://luau.org/)
 * [2025-09-18, 13:28:59](https://news.ycombinator.com/item?id=45289453) - [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
 * [2025-09-18, 13:06:03](https://news.ycombinator.com/item?id=45289168) - [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
 * [2025-09-18, 12:17:51](https://news.ycombinator.com/item?id=45288690) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
