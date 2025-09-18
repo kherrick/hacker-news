@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 18:50:13](https://news.ycombinator.com/item?id=45293509) - [The Last Days of the Managerial Class](https://eyeofthesquid.com/the-last-days-of-the-managerial-class-5c95bd74ee60)
 * [2025-09-18, 18:30:37](https://news.ycombinator.com/item?id=45293273) - [When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
+* [2025-09-18, 18:26:07](https://news.ycombinator.com/item?id=45293197) - [Cluely Thesis on Virality and Hype](https://cluely.com/blog/virality)
 * [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
 * [2025-09-18, 17:29:17](https://news.ycombinator.com/item?id=45292475) - [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
 * [2025-09-18, 17:12:36](https://news.ycombinator.com/item?id=45292260) - [Chrome's New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
@@ -19,7 +21,6 @@
 * [2025-09-18, 12:17:51](https://news.ycombinator.com/item?id=45288690) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 * [2025-09-18, 11:04:48](https://news.ycombinator.com/item?id=45288161) - [Nvidia buys $5B in Intel](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
 * [2025-09-18, 09:33:07](https://news.ycombinator.com/item?id=45287551) - [CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer)
-* [2025-09-18, 09:28:40](https://news.ycombinator.com/item?id=45287513) - [Fast Fourier Transforms Part 1: Cooley-Tukey](https://connorboyle.io/2025/09/11/fft-cooley-tukey.html)
 * [2025-09-18, 08:41:32](https://news.ycombinator.com/item?id=45287155) - [This website has no class](https://aaadaaam.com/notes/no-class/)
 * [2025-09-18, 07:12:56](https://news.ycombinator.com/item?id=45286526) - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
 * [2025-09-18, 06:53:08](https://news.ycombinator.com/item?id=45286369) - [CERN Animal Shelter for Computer Mice (2011)](https://computer-animal-shelter.web.cern.ch/index.shtml)
@@ -27,7 +28,6 @@
 * [2025-09-18, 01:37:11](https://news.ycombinator.com/item?id=45283887) - [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack)
 * [2025-09-16, 17:52:17](https://news.ycombinator.com/item?id=45265487) - [Midcentury North American Restaurant Placemats](https://casualarchivist.substack.com/p/order-up)
 * [2025-09-15, 11:28:08](https://news.ycombinator.com/item?id=45248427) - [The Day the Linter Broke My Code](https://blog.fillmore-labs.com/posts/errors-2/)
-* [2025-09-15, 06:51:06](https://news.ycombinator.com/item?id=45246840) - [Linking to text fragments with a bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet/)
 * [2025-09-15, 06:17:29](https://news.ycombinator.com/item?id=45246652) - [PostgreSQL Maintenance Without Superuser](https://boringsql.com/posts/postgresql-predefined-roles/)
 * [2025-09-14, 18:08:55](https://news.ycombinator.com/item?id=45241961) - [Rereading books](https://maxgirkins.com/writings/on-rereading)
 
