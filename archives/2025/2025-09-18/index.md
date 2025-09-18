@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
+* [2025-09-18, 22:27:17](https://news.ycombinator.com/item?id=45295794) - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
 * [2025-09-18, 21:54:06](https://news.ycombinator.com/item?id=45295482) - [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
 * [2025-09-18, 21:43:10](https://news.ycombinator.com/item?id=45295388) - [Returning to Church won't save us from nihilism](https://thereader.mitpress.mit.edu/returning-to-church-wont-save-us-from-nihilism/)
 * [2025-09-18, 20:50:33](https://news.ycombinator.com/item?id=45294859) - [Meta's live staged demo fails; the \"AI\" recording plays before the actor acts](https://old.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
