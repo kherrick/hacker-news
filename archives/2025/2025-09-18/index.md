@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 17:47:29](https://news.ycombinator.com/item?id=45292696) - [Ask HN: Dark Mode for HN?](https://news.ycombinator.com/item?id=45292696)
+* [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [Map Is Not Upside Down](https://www.maps.com/this-map-is-not-upside-down/)
+* [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
+* [2025-09-18, 17:29:17](https://news.ycombinator.com/item?id=45292475) - [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
 * [2025-09-18, 17:12:36](https://news.ycombinator.com/item?id=45292260) - [Chrome's New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
 * [2025-09-18, 17:03:35](https://news.ycombinator.com/item?id=45292130) - [Yes, Jimmy Kimmel's suspension was government censorship](https://www.theverge.com/policy/781148/jimmy-kimmel-charlie-kirk-monologue-brendan-carr-censorship-first-amendment)
 * [2025-09-18, 16:43:43](https://news.ycombinator.com/item?id=45291858) - [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
