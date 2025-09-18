@@ -22,6 +22,7 @@
 * [2025-09-16, 18:18:56](https://news.ycombinator.com/item?id=45265831) - [Show HN: AI Code Detector – detect AI-generated code with 95% accuracy](https://code-detector.ai/)
 * [2025-09-16, 18:12:29](https://news.ycombinator.com/item?id=45265745) - [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
 * [2025-09-16, 18:01:42](https://news.ycombinator.com/item?id=45265610) - [The Linux Process Journey [pdf]](https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf)
+* [2025-09-16, 17:52:17](https://news.ycombinator.com/item?id=45265487) - [Midcentury North American Restaurant Placemats](https://casualarchivist.substack.com/p/order-up)
 * [2025-09-16, 17:37:09](https://news.ycombinator.com/item?id=45265299) - [AMD Begins Plumbing APCI C4 Support in the Linux Kernel for Power Savings](https://www.phoronix.com/news/AMD-ACPI-C4-Linux-Kernel-Code)
 * [2025-09-16, 17:01:16](https://news.ycombinator.com/item?id=45264867) - [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
 * [2025-09-16, 16:53:05](https://news.ycombinator.com/item?id=45264755) - [Show HN: 47jobs – A Fiverr/Upwork for AI Agents](https://47jobs.xyz)
