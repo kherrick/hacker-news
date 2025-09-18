@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-18, 04:07:06",
+      "https://news.ycombinator.com/item?id=45285253"
+    ],
+    [
+      "ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments After FCC Pressure",
+      "https://www.nytimes.com/2025/09/17/business/media/abc-jimmy-kimmel.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 03:06:08",
+      "https://news.ycombinator.com/item?id=45284766"
+    ],
+    [
+      "Towards a Physics Foundation Model",
+      "https://arxiv.org/abs/2509.13805"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 02:25:59",
+      "https://news.ycombinator.com/item?id=45284398"
+    ],
+    [
+      "A QBasic Text Adventure Still Expanding in 2025",
+      "https://the-ventureweaver.itch.io/"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 02:18:45",
       "https://news.ycombinator.com/item?id=45284311"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-09-17, 17:24:14",
-      "https://news.ycombinator.com/item?id=45278740"
-    ],
-    [
-      "DeepSeek writes less secure code for groups China disfavors?",
-      "https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/"
-    ]
-  ],
-  [
-    [
       "2025-09-17, 17:18:38",
       "https://news.ycombinator.com/item?id=45278657"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-09-17, 14:02:29",
-      "https://news.ycombinator.com/item?id=45275973"
-    ],
-    [
-      "UUIDv47: Store UUIDv7 in DB, emit UUIDv4 outside (SipHash-masked timestamp)",
-      "https://github.com/stateless-me/uuidv47"
-    ]
-  ],
-  [
-    [
       "2025-09-17, 13:03:24",
       "https://news.ycombinator.com/item?id=45275354"
     ],
@@ -227,16 +237,6 @@
     [
       "U.S. investors, Trump close in on TikTok deal with China",
       "https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 05:36:43",
-      "https://news.ycombinator.com/item?id=45258403"
-    ],
-    [
-      "Infinite Mac: Resource Fork Roundtripping",
-      "https://blog.persistent.info/2025/09/infinite-mac-resource-forks.html"
     ]
   ],
   [
