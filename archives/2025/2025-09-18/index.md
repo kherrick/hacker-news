@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 15:18:28](https://news.ycombinator.com/item?id=45290748) - [A better future for JavaScript that won't happen](https://drewdevault.com/2025/09/17/2025-09-17-An-impossible-future-for-JS.html)
 * [2025-09-18, 14:36:44](https://news.ycombinator.com/item?id=45290245) - [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 * [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Fuck, You're Still Sad?](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
 * [2025-09-18, 14:02:50](https://news.ycombinator.com/item?id=45289848) - [React hook causes downtime at Cloudflare, which just stopped the biggest DDoS](https://blog.cloudflare.com/deep-dive-into-cloudflares-sept-12-dashboard-and-api-outage/)
