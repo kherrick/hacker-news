@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-18, 23:17:57](https://news.ycombinator.com/item?id=45296182) - [Jimmy Kimmel Should Have Strong Odds at the Supreme Court](https://www.politico.com/news/magazine/2025/09/18/jimmy-kimmel-supreme-court-first-amendment-lawsuit-00570697)
 * [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
 * [2025-09-18, 22:27:17](https://news.ycombinator.com/item?id=45295794) - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
 * [2025-09-18, 20:50:33](https://news.ycombinator.com/item?id=45294859) - [Meta's live staged demo fails; the \"AI\" recording plays before the actor acts](https://old.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
@@ -18,7 +19,6 @@
 * [2025-09-18, 14:09:46](https://news.ycombinator.com/item?id=45289921) - [Aaron Levie: Startups win in the AI era [video]](https://www.youtube.com/watch?v=uqc_vt95GJg)
 * [2025-09-18, 13:38:49](https://news.ycombinator.com/item?id=45289558) - [Luau – Fast, small, safe, gradually typed scripting language derived from Lua](https://luau.org/)
 * [2025-09-18, 13:28:59](https://news.ycombinator.com/item?id=45289453) - [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
-* [2025-09-18, 13:06:03](https://news.ycombinator.com/item?id=45289168) - [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
 * [2025-09-18, 12:17:51](https://news.ycombinator.com/item?id=45288690) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 * [2025-09-18, 11:04:48](https://news.ycombinator.com/item?id=45288161) - [Nvidia buys $5B in Intel](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
 * [2025-09-18, 06:53:08](https://news.ycombinator.com/item?id=45286369) - [CERN Animal Shelter for Computer Mice (2011)](https://computer-animal-shelter.web.cern.ch/index.shtml)

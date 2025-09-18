@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 23:17:57](https://news.ycombinator.com/item?id=45296182) - [Jimmy Kimmel Should Have Strong Odds at the Supreme Court](https://www.politico.com/news/magazine/2025/09/18/jimmy-kimmel-supreme-court-first-amendment-lawsuit-00570697)
 * [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
 * [2025-09-18, 22:27:17](https://news.ycombinator.com/item?id=45295794) - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
 * [2025-09-18, 21:54:06](https://news.ycombinator.com/item?id=45295482) - [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
