@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-09-18, 02:33:31",
-      "https://news.ycombinator.com/item?id=45284477"
-    ],
-    [
-      "UC Berkeley gives personal information for 150 students and staff to government",
-      "https://www.dailycal.org/news/campus/uc-berkeley-turns-over-personal-information-of-more-than-150-students-and-staff-to-federal/article_a4aad3e1-bbba-42cc-92d7-a7964d9641c5.html"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 02:18:45",
       "https://news.ycombinator.com/item?id=45284311"
     ],
     [
-      "Show HN: The text disappears when you screenshot it.",
+      "Show HN: The text disappears when you screenshot it",
       "https://unscreenshottable.vercel.app/?text=Hello"
     ]
   ],
@@ -107,6 +97,16 @@
     [
       "DeepMind and OpenAI win gold at ICPC",
       "https://codeforces.com/blog/entry/146536"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 17:24:14",
+      "https://news.ycombinator.com/item?id=45278740"
+    ],
+    [
+      "DeepSeek writes less secure code for groups China disfavors?",
+      "https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45238175"
     ],
     [
-      "Can Your GrimDark Beat the Germans",
+      "Can Your GrimDark Beat the Germans (2022)",
       "https://medium.com/luminasticity/can-your-grimdark-beat-the-germans-429f3e6fc4df"
     ]
   ]
