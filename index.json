@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-18, 12:17:51",
+      "https://news.ycombinator.com/item?id=45288690"
+    ],
+    [
+      "KDE is now my favorite desktop",
+      "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 12:00:44",
       "https://news.ycombinator.com/item?id=45288551"
     ],
@@ -17,6 +27,16 @@
     [
       "Nvidia to Invest $5B in Intel",
       "https://www.ft.com/content/be8d4c0c-66ff-4dfd-9b43-af6c0b290ada"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 11:16:29",
+      "https://news.ycombinator.com/item?id=45288222"
+    ],
+    [
+      "Mirror Life Worries",
+      "https://www.science.org/content/blog-post/mirror-life-worries"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-09-17, 18:46:03",
-      "https://news.ycombinator.com/item?id=45279792"
-    ],
-    [
-      "Optimizing ClickHouse for Intel's 280 core processors",
-      "https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu"
-    ]
-  ],
-  [
-    [
       "2025-09-17, 18:16:53",
       "https://news.ycombinator.com/item?id=45279384"
     ],
@@ -287,16 +297,6 @@
     [
       "Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects",
       "https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 04:22:34",
-      "https://news.ycombinator.com/item?id=45246095"
-    ],
-    [
-      "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
-      "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch"
     ]
   ]
 ]
