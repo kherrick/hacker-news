@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-14, 19:12:40",
-      "https://news.ycombinator.com/item?id=45242434"
+      "2025-09-15, 04:22:34",
+      "https://news.ycombinator.com/item?id=45246095"
     ],
     [
-      "Understanding Deflate",
-      "https://jjrscott.com/to-deflate-or-not/"
+      "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
+      "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch"
     ]
   ]
 ]
