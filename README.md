@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-18, 09:33:07](https://news.ycombinator.com/item?id=45287551) - [CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer)
+* [2025-09-18, 09:28:40](https://news.ycombinator.com/item?id=45287513) - [Fast Fourier Transforms Part 1: Cooley-Tukey](https://connorboyle.io/2025/09/11/fft-cooley-tukey.html)
 * [2025-09-18, 08:41:32](https://news.ycombinator.com/item?id=45287155) - [This Website Has No Class](https://aaadaaam.com/notes/no-class/)
 * [2025-09-18, 07:12:56](https://news.ycombinator.com/item?id=45286526) - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
 * [2025-09-18, 06:55:28](https://news.ycombinator.com/item?id=45286394) - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
@@ -16,7 +17,6 @@
 * [2025-09-17, 20:41:07](https://news.ycombinator.com/item?id=45281139) - [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
 * [2025-09-17, 18:46:03](https://news.ycombinator.com/item?id=45279792) - [Optimizing ClickHouse for Intel's 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
 * [2025-09-17, 18:16:53](https://news.ycombinator.com/item?id=45279384) - [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
-* [2025-09-17, 18:15:16](https://news.ycombinator.com/item?id=45279357) - [DeepMind and OpenAI win gold at ICPC](https://codeforces.com/blog/entry/146536)
 * [2025-09-17, 17:18:38](https://news.ycombinator.com/item?id=45278657) - [Tinycolor supply chain attack post-mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/)
 * [2025-09-17, 17:12:15](https://news.ycombinator.com/item?id=45278581) - [Drought in Iraq reveals tombs created 2,300 years ago](https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/)
 * [2025-09-17, 16:49:37](https://news.ycombinator.com/item?id=45278279) - [Ton Roosendaal to step down as Blender chairman and CEO](https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/)
