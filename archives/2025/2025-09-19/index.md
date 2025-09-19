@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 16:02:22](https://news.ycombinator.com/item?id=45303199) - [Dev Culture Is Dying the Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/)
 * [2025-09-19, 15:01:50](https://news.ycombinator.com/item?id=45302425) - [Slow Liquid](https://www.robinsloan.com/lab/slow-liquid/)
 * [2025-09-19, 14:43:29](https://news.ycombinator.com/item?id=45302220) - [Trevor Milton's Nikola Case Dropped by SEC Following Trump Pardon](https://eletric-vehicles.com/nikola/trevor-miltons-nikola-case-dropped-by-sec-following-trump-pardon/)
 * [2025-09-19, 14:28:47](https://news.ycombinator.com/item?id=45302065) - [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)

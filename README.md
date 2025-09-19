@@ -1,13 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-19, 16:02:22](https://news.ycombinator.com/item?id=45303199) - [Dev Culture Is Dying the Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/)
 * [2025-09-19, 15:01:50](https://news.ycombinator.com/item?id=45302425) - [Slow Liquid](https://www.robinsloan.com/lab/slow-liquid/)
 * [2025-09-19, 14:43:29](https://news.ycombinator.com/item?id=45302220) - [Trevor Milton's Nikola Case Dropped by SEC Following Trump Pardon](https://eletric-vehicles.com/nikola/trevor-miltons-nikola-case-dropped-by-sec-following-trump-pardon/)
 * [2025-09-19, 14:28:47](https://news.ycombinator.com/item?id=45302065) - [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)
-* [2025-09-19, 14:13:27](https://news.ycombinator.com/item?id=45301898) - [The EU Just Killed ARR](https://paid.ai/blog/ai-monetization/eu-data-act-killed-arr)
-* [2025-09-19, 14:07:53](https://news.ycombinator.com/item?id=45301845) - [As Android developer verification gets ready to go, a new reason to be worried](https://www.androidauthority.com/android-sideload-offline-3598988/)
 * [2025-09-19, 14:00:16](https://news.ycombinator.com/item?id=45301774) - [Court lets NSF keep swinging axe at $1B in research grants](https://www.theregister.com/2025/09/19/court_lets_nsf_keep_swinging/)
 * [2025-09-19, 13:51:29](https://news.ycombinator.com/item?id=45301679) - [Intel Arc Celestial dGPU seems to be first casualty of Nvidia partnership](https://www.notebookcheck.net/Intel-Arc-Celestial-dGPU-seems-to-be-first-casualty-of-Nvidia-partnership-while-Intel-Arc-B770-is-allegedly-still-alive.1118962.0.html)
-* [2025-09-19, 13:33:00](https://news.ycombinator.com/item?id=45301499) - [Ask HN: Does anyone else notice YouTube causing 100% CPU usage and stattering?](https://news.ycombinator.com/item?id=45301499)
 * [2025-09-19, 13:22:54](https://news.ycombinator.com/item?id=45301403) - [The sordid reality of retirement villages: Residents are being milked for profit](https://unherd.com/2025/09/the-sordid-truth-about-retriement-villages/)
 * [2025-09-19, 12:25:50](https://news.ycombinator.com/item?id=45300865) - [Ants Seem to Defy Biology: They Lay Eggs That Hatch into Another Species](https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/)
 * [2025-09-19, 12:00:16](https://news.ycombinator.com/item?id=45300615) - [Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
@@ -19,6 +17,7 @@
 * [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
 * [2025-09-18, 22:27:17](https://news.ycombinator.com/item?id=45295794) - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
 * [2025-09-18, 20:15:45](https://news.ycombinator.com/item?id=45294440) - [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
+* [2025-09-18, 20:11:29](https://news.ycombinator.com/item?id=45294390) - [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
 * [2025-09-18, 19:41:50](https://news.ycombinator.com/item?id=45294058) - [U.S. already has the critical minerals it needs, according to new analysis](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
 * [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
 * [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Grief gets an expiration date, just like us](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
@@ -30,6 +29,7 @@
 * [2025-09-15, 22:34:15](https://news.ycombinator.com/item?id=45255785) - [Internet Archive's big battle with music publishers ends in settlement](https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/)
 * [2025-09-15, 19:28:58](https://news.ycombinator.com/item?id=45253926) - [The Ruliology of Lambdas](https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/)
 * [2025-09-15, 11:17:03](https://news.ycombinator.com/item?id=45248356) - [Leatherman (vagabond)](https://en.wikipedia.org/wiki/Leatherman_(vagabond))
+* [2025-09-15, 10:54:11](https://news.ycombinator.com/item?id=45248242) - [Tracking trust with Rust in the kernel](https://lwn.net/Articles/1034603/)
 
 ## [Archives](archives/index.md)
 
