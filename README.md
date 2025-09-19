@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-19, 13:42:53](https://news.ycombinator.com/item?id=45301603) - [The Invisible Character That Cost Me Too Much Debugging Time](https://blog.dochia.dev/blog/the-invisible-character/)
+* [2025-09-19, 14:07:53](https://news.ycombinator.com/item?id=45301845) - [As Android developer verification gets ready to go, a new reason to be worried](https://www.androidauthority.com/android-sideload-offline-3598988/)
 * [2025-09-19, 13:33:00](https://news.ycombinator.com/item?id=45301499) - [Ask HN: Does anyone else notice YouTube causing 100% CPU usage and stattering?](https://news.ycombinator.com/item?id=45301499)
 * [2025-09-19, 13:22:54](https://news.ycombinator.com/item?id=45301403) - [The sordid reality of retirement villages: Residents are being milked for profit](https://unherd.com/2025/09/the-sordid-truth-about-retriement-villages/)
 * [2025-09-19, 12:00:16](https://news.ycombinator.com/item?id=45300615) - [Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
@@ -20,7 +20,7 @@
 * [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Grief gets an expiration date, just like us](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
 * [2025-09-18, 11:04:48](https://news.ycombinator.com/item?id=45288161) - [Nvidia buys $5B in Intel](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
 * [2025-09-18, 01:37:11](https://news.ycombinator.com/item?id=45283887) - [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack)
-* [2025-09-16, 21:26:08](https://news.ycombinator.com/item?id=45268293) - [Frying Eggs and Air Quality Tests](https://chillphysicsenjoyer.substack.com/p/frying-eggs-and-air-quality-tests)
+* [2025-09-16, 18:13:30](https://news.ycombinator.com/item?id=45265760) - [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html)
 * [2025-09-16, 14:53:02](https://news.ycombinator.com/item?id=45263123) - [The Fisherman and His Wife (1857)](https://sites.pitt.edu/~dash/grimm019.html)
 * [2025-09-16, 12:53:51](https://news.ycombinator.com/item?id=45261566) - [Rupert's snub cube and other Math Holes](http://tom7.org/ruperts/)
 * [2025-09-16, 08:13:48](https://news.ycombinator.com/item?id=45259471) - [Rules for creating good-looking user interfaces, from a developer](https://weberdominik.com/blog/rules-user-interfaces/)
