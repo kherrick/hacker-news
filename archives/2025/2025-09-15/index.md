@@ -64,6 +64,7 @@
 * [2025-09-15, 12:33:28](https://news.ycombinator.com/item?id=45248899) - [How big a solar battery do I need to store *all* my home's electricity?](https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/)
 * [2025-09-15, 12:28:24](https://news.ycombinator.com/item?id=45248868) - [Pgstream: Postgres streaming logical replication with DDL changes](https://github.com/xataio/pgstream)
 * [2025-09-15, 12:21:21](https://news.ycombinator.com/item?id=45248802) - [Denmark's Justice Minister calls encrypted messaging a false civil liberty](https://mastodon.social/@chatcontrol/115204439983078498)
+* [2025-09-15, 12:10:16](https://news.ycombinator.com/item?id=45248709) - [Pizza Cutters, from Underdesigned to Overdesigned](https://www.core77.com/posts/138409/Pizza-Cutters-from-Underdesigned-to-Overdesigned)
 * [2025-09-15, 11:58:00](https://news.ycombinator.com/item?id=45248628) - [You can't test if quantum uses complex numbers](https://algassert.com/post/2501)
 * [2025-09-15, 11:46:45](https://news.ycombinator.com/item?id=45248558) - [A Dumb Introduction to z3 using Rust](https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/)
 * [2025-09-15, 11:40:51](https://news.ycombinator.com/item?id=45248524) - [XeroxNostalgia.com](https://xeroxnostalgia.com/)
