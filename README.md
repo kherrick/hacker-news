@@ -10,7 +10,6 @@
 * [2025-09-18, 23:48:48](https://news.ycombinator.com/item?id=45296403) - [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
 * [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
 * [2025-09-18, 22:27:17](https://news.ycombinator.com/item?id=45295794) - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
-* [2025-09-18, 21:54:06](https://news.ycombinator.com/item?id=45295482) - [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
 * [2025-09-18, 20:15:45](https://news.ycombinator.com/item?id=45294440) - [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
 * [2025-09-18, 19:41:50](https://news.ycombinator.com/item?id=45294058) - [U.S. already has the critical minerals it needs, according to new analysis](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
 * [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
@@ -29,6 +28,7 @@
 * [2025-09-15, 19:15:53](https://news.ycombinator.com/item?id=45253795) - [Visual lexicon of consumer aesthetics from the 1970s until now](https://cari.institute/)
 * [2025-09-15, 11:17:03](https://news.ycombinator.com/item?id=45248356) - [Leatherman (vagabond)](https://en.wikipedia.org/wiki/Leatherman_(vagabond))
 * [2025-09-15, 10:54:11](https://news.ycombinator.com/item?id=45248242) - [Tracking trust with Rust in the kernel](https://lwn.net/Articles/1034603/)
+* [2025-09-15, 08:26:43](https://news.ycombinator.com/item?id=45247392) - [TBM 377: Time Allocation ≠ Capacity Allocation](https://cutlefish.substack.com/p/tbm-377-time-allocation-capacity)
 * [2025-09-11, 15:06:27](https://news.ycombinator.com/item?id=45212535) - [Show HN: Asxiv.org – Ask ArXiv papers questions through chat](https://asxiv.org/)
 
 ## [Archives](archives/index.md)
