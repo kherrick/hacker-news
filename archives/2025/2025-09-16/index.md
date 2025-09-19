@@ -72,6 +72,7 @@
 * [2025-09-16, 04:08:00](https://news.ycombinator.com/item?id=45257929) - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
 * [2025-09-16, 03:32:43](https://news.ycombinator.com/item?id=45257757) - [Just for fun: animating a mosaic of 90s GIFs](https://alexplescan.com/posts/2025/09/15/gifs/)
 * [2025-09-16, 03:05:53](https://news.ycombinator.com/item?id=45257627) - [\"Your\" vs. \"My\" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
+* [2025-09-16, 02:09:52](https://news.ycombinator.com/item?id=45257241) - [JIT-ing a stack machine (with SLJIT)](https://bullno1.com/blog/jiting-a-stack-machine)
 * [2025-09-16, 00:33:12](https://news.ycombinator.com/item?id=45256651) - [Linux phones are more important now than ever](https://feddit.org/post/18353777)
 * [2025-09-16, 00:20:59](https://news.ycombinator.com/item?id=45256577) - [The awe keeps dropping](https://morrick.me/archives/10137)
 * [2025-09-16, 00:20:38](https://news.ycombinator.com/item?id=45256575) - [The Sagrada Família Takes Its Final Shape](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch)
