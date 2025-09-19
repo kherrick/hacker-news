@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 07:14:34](https://news.ycombinator.com/item?id=45298793) - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
 * [2025-09-19, 06:21:04](https://news.ycombinator.com/item?id=45298489) - [Count Folke Bernadotte: Sweden's Servant of Peace (2010)](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
 * [2025-09-19, 06:13:42](https://news.ycombinator.com/item?id=45298458) - [Grow a Garden Calculator](https://grow-a-garden-calculator.xyz/)
 * [2025-09-19, 05:49:08](https://news.ycombinator.com/item?id=45298336) - [Nostr](https://nostr.com/)
