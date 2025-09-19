@@ -6,11 +6,13 @@
 
 * [2025-09-19, 14:28:47](https://news.ycombinator.com/item?id=45302065) - [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)
 * [2025-09-19, 14:07:53](https://news.ycombinator.com/item?id=45301845) - [As Android developer verification gets ready to go, a new reason to be worried](https://www.androidauthority.com/android-sideload-offline-3598988/)
+* [2025-09-19, 14:00:16](https://news.ycombinator.com/item?id=45301774) - [Court lets NSF keep swinging axe at $1B in research grants](https://www.theregister.com/2025/09/19/court_lets_nsf_keep_swinging/)
 * [2025-09-19, 13:51:29](https://news.ycombinator.com/item?id=45301679) - [Intel Arc Celestial dGPU seems to be first casualty of Nvidia partnership](https://www.notebookcheck.net/Intel-Arc-Celestial-dGPU-seems-to-be-first-casualty-of-Nvidia-partnership-while-Intel-Arc-B770-is-allegedly-still-alive.1118962.0.html)
 * [2025-09-19, 13:42:53](https://news.ycombinator.com/item?id=45301603) - [The Invisible Character That Cost Me Too Much Debugging Time](https://blog.dochia.dev/blog/the-invisible-character/)
 * [2025-09-19, 13:33:00](https://news.ycombinator.com/item?id=45301499) - [Ask HN: Does anyone else notice YouTube causing 100% CPU usage and stattering?](https://news.ycombinator.com/item?id=45301499)
 * [2025-09-19, 13:22:54](https://news.ycombinator.com/item?id=45301403) - [The sordid reality of retirement villages: Residents are being milked for profit](https://unherd.com/2025/09/the-sordid-truth-about-retriement-villages/)
 * [2025-09-19, 12:33:04](https://news.ycombinator.com/item?id=45300925) - [Grocery prices have jumped up, and there's no relief in sight](https://www.npr.org/2025/09/19/nx-s1-5539547/grocery-prices-tariffs-food-inflation)
+* [2025-09-19, 12:25:50](https://news.ycombinator.com/item?id=45300865) - [Ants Seem to Defy Biology: They Lay Eggs That Hatch into Another Species](https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/)
 * [2025-09-19, 12:00:16](https://news.ycombinator.com/item?id=45300615) - [Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
 * [2025-09-19, 10:22:44](https://news.ycombinator.com/item?id=45299985) - [Burnend alive inside a Tesla as rescuers fail to open the car's door](https://www.msn.com/en-us/autos/electric-cars/man-and-two-children-burn-alive-inside-a-tesla-with-rescuers-unable-to-open-the-car-s-door/ar-AA1MPAol)
 * [2025-09-19, 09:19:04](https://news.ycombinator.com/item?id=45299625) - [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
