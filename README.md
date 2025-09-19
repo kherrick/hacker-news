@@ -2,7 +2,6 @@
 
 * [2025-09-19, 07:14:34](https://news.ycombinator.com/item?id=45298793) - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
 * [2025-09-19, 06:21:04](https://news.ycombinator.com/item?id=45298489) - [Count Folke Bernadotte: Sweden's Servant of Peace (2010)](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
-* [2025-09-19, 05:49:08](https://news.ycombinator.com/item?id=45298336) - [Nostr](https://nostr.com/)
 * [2025-09-19, 02:25:34](https://news.ycombinator.com/item?id=45297331) - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
 * [2025-09-19, 02:13:05](https://news.ycombinator.com/item?id=45297258) - [Playing “Minecraft” without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
 * [2025-09-19, 01:40:35](https://news.ycombinator.com/item?id=45297066) - [Help Us Raise $200k to Free JavaScript from Oracle](https://deno.com/blog/javascript-tm-gofundme)
@@ -14,6 +13,7 @@
 * [2025-09-18, 19:41:50](https://news.ycombinator.com/item?id=45294058) - [U.S. already has the critical minerals it needs, according to new analysis](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
 * [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
 * [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
+* [2025-09-18, 15:40:29](https://news.ycombinator.com/item?id=45291024) - [Launch HN: Cactus (YC S25) – AI inference on smartphones](https://github.com/cactus-compute/cactus)
 * [2025-09-18, 14:36:44](https://news.ycombinator.com/item?id=45290245) - [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 * [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Grief gets an expiration date, just like us](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
 * [2025-09-18, 13:28:59](https://news.ycombinator.com/item?id=45289453) - [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
