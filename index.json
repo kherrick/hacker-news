@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-09-18, 17:29:17",
+      "https://news.ycombinator.com/item?id=45292475"
+    ],
+    [
+      "OpenTelemetry collector: What it is, when you need it, and when you don't",
+      "https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 15:40:29",
       "https://news.ycombinator.com/item?id=45291024"
     ],
@@ -277,16 +287,6 @@
     [
       "Tracking trust with Rust in the kernel",
       "https://lwn.net/Articles/1034603/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 08:26:43",
-      "https://news.ycombinator.com/item?id=45247392"
-    ],
-    [
-      "TBM 377: Time Allocation ≠ Capacity Allocation",
-      "https://cutlefish.substack.com/p/tbm-377-time-allocation-capacity"
     ]
   ],
   [
