@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-19, 03:22:15",
+      "https://news.ycombinator.com/item?id=45297627"
+    ],
+    [
+      "Bravo Apple! Calculator app has a memory leak",
+      "https://xcancel.com/neogoose_btw/status/1968757466570621251"
+    ]
+  ],
+  [
+    [
       "2025-09-19, 02:25:34",
       "https://news.ycombinator.com/item?id=45297331"
     ],
@@ -47,16 +57,6 @@
     [
       "Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs",
       "https://github.com/hiyouga/LLaMA-Factory"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 22:52:21",
-      "https://news.ycombinator.com/item?id=45295995"
-    ],
-    [
-      "Classic recessive-or-dominant gene dynamics may not be so simple",
-      "https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=45292475"
     ],
     [
-      "OpenTelemetry Collector: What It Is, When You Need It, and When You Don't",
+      "OpenTelemetry collector: What it is, when you need it, and when you don't",
       "https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view"
     ]
   ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-09-16, 08:13:48",
+      "https://news.ycombinator.com/item?id=45259471"
+    ],
+    [
+      "Rules for creating good-looking user interfaces, from a developer",
+      "https://weberdominik.com/blog/rules-user-interfaces/"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 05:18:18",
       "https://news.ycombinator.com/item?id=45258279"
     ],
@@ -277,16 +287,6 @@
     [
       "Tracking Trust with Rust in the Kernel",
       "https://lwn.net/Articles/1034603/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 01:37:41",
-      "https://news.ycombinator.com/item?id=45245181"
-    ],
-    [
-      "TIC-80 – Tiny Computer",
-      "https://tic80.com/"
     ]
   ],
   [
