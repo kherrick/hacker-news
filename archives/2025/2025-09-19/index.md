@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 21:18:24](https://news.ycombinator.com/item?id=45306740) - [A Lawless Nation – Friends don't let friends visit America](https://paulkrugman.substack.com/p/a-lawless-nation)
+* [2025-09-19, 21:14:56](https://news.ycombinator.com/item?id=45306701) - [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 * [2025-09-19, 21:01:42](https://news.ycombinator.com/item?id=45306539) - [Ask HN: Has anyone else been unemployed for over two years?](https://news.ycombinator.com/item?id=45306539)
 * [2025-09-19, 20:25:14](https://news.ycombinator.com/item?id=45306120) - [Show HN: WeUseElixir - Elixir project directory](https://weuseelixir.com/)
 * [2025-09-19, 20:05:48](https://news.ycombinator.com/item?id=45305909) - [Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)

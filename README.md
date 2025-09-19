@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-19, 21:18:24](https://news.ycombinator.com/item?id=45306740) - [A Lawless Nation – Friends don't let friends visit America](https://paulkrugman.substack.com/p/a-lawless-nation)
+* [2025-09-19, 21:14:56](https://news.ycombinator.com/item?id=45306701) - [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 * [2025-09-19, 21:01:42](https://news.ycombinator.com/item?id=45306539) - [Ask HN: Has anyone else been unemployed for over two years?](https://news.ycombinator.com/item?id=45306539)
 * [2025-09-19, 20:25:14](https://news.ycombinator.com/item?id=45306120) - [Show HN: WeUseElixir - Elixir project directory](https://weuseelixir.com/)
 * [2025-09-19, 20:05:48](https://news.ycombinator.com/item?id=45305909) - [Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)
@@ -26,10 +28,8 @@
 * [2025-09-17, 00:18:54](https://news.ycombinator.com/item?id=45270015) - [R MCP Server](https://github.com/finite-sample/rmcp)
 * [2025-09-16, 21:26:08](https://news.ycombinator.com/item?id=45268293) - [Frying Eggs and Air Quality Tests](https://chillphysicsenjoyer.substack.com/p/frying-eggs-and-air-quality-tests)
 * [2025-09-16, 18:13:30](https://news.ycombinator.com/item?id=45265760) - [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html)
-* [2025-09-16, 16:53:30](https://news.ycombinator.com/item?id=45264764) - [The Many Broken Feeds](https://notes.abhinavsarkar.net/2025/broken-feeds)
 * [2025-09-16, 04:29:16](https://news.ycombinator.com/item?id=45258029) - [Safepoints and Fil-C](https://fil-c.org/safepoints)
 * [2025-09-15, 22:34:15](https://news.ycombinator.com/item?id=45255785) - [Internet Archive's big battle with music publishers ends in settlement](https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/)
-* [2025-09-15, 19:28:58](https://news.ycombinator.com/item?id=45253926) - [The Ruliology of Lambdas](https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/)
 
 ## [Archives](archives/index.md)
 
