@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
 * [2025-09-19, 18:47:14](https://news.ycombinator.com/item?id=45305042) - [Internal emails reveal Ticketmaster helped scalpers jack up prices, FTC says](https://arstechnica.com/tech-policy/2025/09/ticketmaster-intentionally-screwed-fans-out-of-billions-ftc-lawsuit-says/)
+* [2025-09-19, 18:42:57](https://news.ycombinator.com/item?id=45304992) - [After getting Jimmy Kimmel suspended, FCC chair threatens ABC's The View](https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/)
 * [2025-09-19, 18:15:18](https://news.ycombinator.com/item?id=45304706) - [A history of AI in four books](https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity)
 * [2025-09-19, 16:02:22](https://news.ycombinator.com/item?id=45303199) - [Dev Culture Is Dying the Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/)
 * [2025-09-19, 15:01:50](https://news.ycombinator.com/item?id=45302425) - [Slow Liquid](https://www.robinsloan.com/lab/slow-liquid/)

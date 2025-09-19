@@ -55,6 +55,7 @@
 * [2025-09-17, 06:32:17](https://news.ycombinator.com/item?id=45272480) - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
 * [2025-09-17, 06:04:06](https://news.ycombinator.com/item?id=45272296) - [In Praise of Idleness (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
 * [2025-09-17, 05:11:50](https://news.ycombinator.com/item?id=45271942) - [Obsidian Offering $5000 Bounty for Notion API Importer](https://github.com/obsidianmd/obsidian-importer/issues/421)
+* [2025-09-17, 04:59:45](https://news.ycombinator.com/item?id=45271857) - [With Strings Attached](https://reviewcanada.ca/magazine/2025/10/with-strings-attached-review-a-cultural-history-of-the-violin-in-nineteenth-century-london/)
 * [2025-09-17, 04:26:02](https://news.ycombinator.com/item?id=45271664) - [I just want an 80×25 console, but that's no longer possible](https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible)
 * [2025-09-17, 04:23:51](https://news.ycombinator.com/item?id=45271649) - [What's Up with Peter Thiel's Obsession with the Antichrist?](https://newrepublic.com/article/200471/peter-thiel-obsession-antichrist-religion)
 * [2025-09-17, 03:54:36](https://news.ycombinator.com/item?id=45271484) - [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
