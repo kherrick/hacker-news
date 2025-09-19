@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-19, 03:22:15](https://news.ycombinator.com/item?id=45297627) - [Bravo Apple! Calculator app has a memory leak](https://xcancel.com/neogoose_btw/status/1968757466570621251)
-* [2025-09-19, 03:07:32](https://news.ycombinator.com/item?id=45297548) - [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more)
 * [2025-09-19, 02:25:34](https://news.ycombinator.com/item?id=45297331) - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
 * [2025-09-19, 02:13:05](https://news.ycombinator.com/item?id=45297258) - [Playing “Minecraft” Without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
 * [2025-09-19, 01:34:58](https://news.ycombinator.com/item?id=45297030) - [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
@@ -28,6 +27,7 @@
 * [2025-09-16, 05:18:18](https://news.ycombinator.com/item?id=45258279) - [The Rise and Fall of the British Detective Novel (2010)](https://www.historytoday.com/archive/feature/rise-and-fall-british-detective-novel)
 * [2025-09-16, 00:20:38](https://news.ycombinator.com/item?id=45256575) - [The Sagrada Família Takes Its Final Shape](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch)
 * [2025-09-15, 19:15:53](https://news.ycombinator.com/item?id=45253795) - [Visual lexicon of consumer aesthetics from the 1970s until now](https://cari.institute/)
+* [2025-09-15, 11:17:03](https://news.ycombinator.com/item?id=45248356) - [Leatherman (Vagabond)](https://en.wikipedia.org/wiki/Leatherman_(vagabond))
 * [2025-09-15, 10:54:11](https://news.ycombinator.com/item?id=45248242) - [Tracking Trust with Rust in the Kernel](https://lwn.net/Articles/1034603/)
 * [2025-09-11, 15:06:27](https://news.ycombinator.com/item?id=45212535) - [Show HN: Asxiv.org – Ask ArXiv papers questions through chat](https://asxiv.org/)
 
