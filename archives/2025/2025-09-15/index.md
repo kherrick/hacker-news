@@ -69,6 +69,7 @@
 * [2025-09-15, 11:40:51](https://news.ycombinator.com/item?id=45248524) - [XeroxNostalgia.com](https://xeroxnostalgia.com/)
 * [2025-09-15, 11:30:46](https://news.ycombinator.com/item?id=45248446) - [The $10 Payment That Cost Me $43.95 – The Madness of SaaS Chargebacks](https://medium.com/@citizenblr/the-10-payment-that-cost-me-43-95-the-madness-of-saas-chargebacks-5c308d5a49cc)
 * [2025-09-15, 11:28:08](https://news.ycombinator.com/item?id=45248427) - [The Day the Linter Broke My Code](https://blog.fillmore-labs.com/posts/errors-2/)
+* [2025-09-15, 10:54:11](https://news.ycombinator.com/item?id=45248242) - [Tracking Trust with Rust in the Kernel](https://lwn.net/Articles/1034603/)
 * [2025-09-15, 10:14:38](https://news.ycombinator.com/item?id=45248043) - [Algebraic Types are not Scary](https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html)
 * [2025-09-15, 09:54:26](https://news.ycombinator.com/item?id=45247931) - [Coders End, from Typers to Thinkers](https://etsd.tech/posts/coders-end/)
 * [2025-09-15, 09:47:18](https://news.ycombinator.com/item?id=45247890) - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
