@@ -27,6 +27,7 @@
 * [2025-09-16, 17:52:17](https://news.ycombinator.com/item?id=45265487) - [Midcentury North American Restaurant Placemats](https://casualarchivist.substack.com/p/order-up)
 * [2025-09-16, 17:37:09](https://news.ycombinator.com/item?id=45265299) - [AMD Begins Plumbing APCI C4 Support in the Linux Kernel for Power Savings](https://www.phoronix.com/news/AMD-ACPI-C4-Linux-Kernel-Code)
 * [2025-09-16, 17:01:16](https://news.ycombinator.com/item?id=45264867) - [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
+* [2025-09-16, 16:53:30](https://news.ycombinator.com/item?id=45264764) - [The Many Broken Feeds](https://notes.abhinavsarkar.net/2025/broken-feeds)
 * [2025-09-16, 16:53:05](https://news.ycombinator.com/item?id=45264755) - [Show HN: 47jobs – A Fiverr/Upwork for AI Agents](https://47jobs.xyz)
 * [2025-09-16, 16:50:42](https://news.ycombinator.com/item?id=45264726) - [Scammed out of $130K via fake Google call, spoofed Google email and auth sync](https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google)
 * [2025-09-16, 16:38:08](https://news.ycombinator.com/item?id=45264562) - [All Systems Go at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
