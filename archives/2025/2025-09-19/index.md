@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 14:28:47](https://news.ycombinator.com/item?id=45302065) - [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)
 * [2025-09-19, 14:07:53](https://news.ycombinator.com/item?id=45301845) - [As Android developer verification gets ready to go, a new reason to be worried](https://www.androidauthority.com/android-sideload-offline-3598988/)
+* [2025-09-19, 13:51:29](https://news.ycombinator.com/item?id=45301679) - [Intel Arc Celestial dGPU seems to be first casualty of Nvidia partnership](https://www.notebookcheck.net/Intel-Arc-Celestial-dGPU-seems-to-be-first-casualty-of-Nvidia-partnership-while-Intel-Arc-B770-is-allegedly-still-alive.1118962.0.html)
 * [2025-09-19, 13:42:53](https://news.ycombinator.com/item?id=45301603) - [The Invisible Character That Cost Me Too Much Debugging Time](https://blog.dochia.dev/blog/the-invisible-character/)
 * [2025-09-19, 13:33:00](https://news.ycombinator.com/item?id=45301499) - [Ask HN: Does anyone else notice YouTube causing 100% CPU usage and stattering?](https://news.ycombinator.com/item?id=45301499)
 * [2025-09-19, 13:22:54](https://news.ycombinator.com/item?id=45301403) - [The sordid reality of retirement villages: Residents are being milked for profit](https://unherd.com/2025/09/the-sordid-truth-about-retriement-villages/)
