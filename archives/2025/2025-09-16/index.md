@@ -7,6 +7,7 @@
 * [2025-09-16, 23:51:39](https://news.ycombinator.com/item?id=45269827) - [I launched a Mac utility; now there are 5 clones on the App Store using my story](https://news.ycombinator.com/item?id=45269827)
 * [2025-09-16, 23:01:09](https://news.ycombinator.com/item?id=45269396) - [From Alphabet to Visa, US giants drive euro-denominated bond surge](https://www.reuters.com/business/finance/alphabet-visa-us-giants-drive-euro-denominated-bond-surge-2025-09-16/)
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
+* [2025-09-16, 21:26:08](https://news.ycombinator.com/item?id=45268293) - [Frying Eggs and Air Quality Tests](https://chillphysicsenjoyer.substack.com/p/frying-eggs-and-air-quality-tests)
 * [2025-09-16, 21:24:23](https://news.ycombinator.com/item?id=45268269) - [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
 * [2025-09-16, 20:43:43](https://news.ycombinator.com/item?id=45267762) - [SQL performance improvements: finding the right queries to fix](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)
 * [2025-09-16, 20:35:29](https://news.ycombinator.com/item?id=45267643) - [U.S. investors, Trump close in on TikTok deal with China](https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f)

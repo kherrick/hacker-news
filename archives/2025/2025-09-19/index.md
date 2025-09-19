@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 12:00:16](https://news.ycombinator.com/item?id=45300615) - [Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
+* [2025-09-19, 10:22:44](https://news.ycombinator.com/item?id=45299985) - [Burnend alive inside a Tesla as rescuers fail to open the car's door](https://www.msn.com/en-us/autos/electric-cars/man-and-two-children-burn-alive-inside-a-tesla-with-rescuers-unable-to-open-the-car-s-door/ar-AA1MPAol)
 * [2025-09-19, 09:19:04](https://news.ycombinator.com/item?id=45299625) - [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
 * [2025-09-19, 08:09:17](https://news.ycombinator.com/item?id=45299170) - [Ruby Central's Attack on RubyGems [pdf]](https://pup-e.com/goodbye-rubygems.pdf)
 * [2025-09-19, 07:14:34](https://news.ycombinator.com/item?id=45298793) - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-19, 12:00:16](https://news.ycombinator.com/item?id=45300615) - [Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
+* [2025-09-19, 10:22:44](https://news.ycombinator.com/item?id=45299985) - [Burnend alive inside a Tesla as rescuers fail to open the car's door](https://www.msn.com/en-us/autos/electric-cars/man-and-two-children-burn-alive-inside-a-tesla-with-rescuers-unable-to-open-the-car-s-door/ar-AA1MPAol)
 * [2025-09-19, 09:19:04](https://news.ycombinator.com/item?id=45299625) - [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
 * [2025-09-19, 08:09:17](https://news.ycombinator.com/item?id=45299170) - [Ruby Central's Attack on RubyGems [pdf]](https://pup-e.com/goodbye-rubygems.pdf)
 * [2025-09-19, 07:14:34](https://news.ycombinator.com/item?id=45298793) - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
@@ -16,10 +18,9 @@
 * [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
 * [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
 * [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Grief gets an expiration date, just like us](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
-* [2025-09-18, 13:28:59](https://news.ycombinator.com/item?id=45289453) - [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
-* [2025-09-18, 12:17:51](https://news.ycombinator.com/item?id=45288690) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 * [2025-09-18, 11:04:48](https://news.ycombinator.com/item?id=45288161) - [Nvidia buys $5B in Intel](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
 * [2025-09-18, 01:37:11](https://news.ycombinator.com/item?id=45283887) - [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack)
+* [2025-09-16, 21:26:08](https://news.ycombinator.com/item?id=45268293) - [Frying Eggs and Air Quality Tests](https://chillphysicsenjoyer.substack.com/p/frying-eggs-and-air-quality-tests)
 * [2025-09-16, 14:53:02](https://news.ycombinator.com/item?id=45263123) - [The Fisherman and His Wife (1857)](https://sites.pitt.edu/~dash/grimm019.html)
 * [2025-09-16, 12:53:51](https://news.ycombinator.com/item?id=45261566) - [Rupert's snub cube and other Math Holes](http://tom7.org/ruperts/)
 * [2025-09-16, 10:25:01](https://news.ycombinator.com/item?id=45260374) - [Sylvia Plath's fig tree meets machine learning](https://dontlognow.substack.com/p/sylvia-plaths-fig-tree-meets-machine)
@@ -29,7 +30,6 @@
 * [2025-09-15, 19:28:58](https://news.ycombinator.com/item?id=45253926) - [The Ruliology of Lambdas](https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/)
 * [2025-09-15, 11:17:03](https://news.ycombinator.com/item?id=45248356) - [Leatherman (vagabond)](https://en.wikipedia.org/wiki/Leatherman_(vagabond))
 * [2025-09-15, 10:54:11](https://news.ycombinator.com/item?id=45248242) - [Tracking trust with Rust in the kernel](https://lwn.net/Articles/1034603/)
-* [2025-09-11, 15:06:27](https://news.ycombinator.com/item?id=45212535) - [Show HN: Asxiv.org – Ask ArXiv papers questions through chat](https://asxiv.org/)
 
 ## [Archives](archives/index.md)
 
