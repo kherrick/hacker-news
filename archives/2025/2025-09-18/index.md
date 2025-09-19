@@ -70,3 +70,4 @@
 * [2025-09-18, 00:30:44](https://news.ycombinator.com/item?id=45283306) - [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
 * [2025-09-18, 00:17:20](https://news.ycombinator.com/item?id=45283196) - [Stepping Down as Libxml2 Maintainer](https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398)
 * [2025-09-18, 00:10:33](https://news.ycombinator.com/item?id=45283138) - [ABC pulls 'Jimmy Kimmel Live' off air 'indefinitely' over Charlie Kirk comments](https://www.cnbc.com/2025/09/17/charlie-kirk-jimmy-kimmel-abc-disney.html)
+* [2025-09-18, 00:04:35](https://news.ycombinator.com/item?id=45283074) - [Xmonad seeking help for Wayland port](https://xmonad.org/news/2023/10/06/wayland.html)

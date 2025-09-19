@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 22:02:29](https://news.ycombinator.com/item?id=45307242) - [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
+* [2025-09-19, 21:55:43](https://news.ycombinator.com/item?id=45307166) - [Show HN: Zedis – A Redis clone I'm writing in Zig](https://github.com/barddoo/zedis)
 * [2025-09-19, 21:49:37](https://news.ycombinator.com/item?id=45307095) - [Lethal Trifecta attack leaking private data in Notion AI agents](https://twitter.com/simonw/status/1969111931152634010)
 * [2025-09-19, 21:49:37](https://news.ycombinator.com/item?id=45307095) - [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
 * [2025-09-19, 21:41:11](https://news.ycombinator.com/item?id=45307003) - [Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)
