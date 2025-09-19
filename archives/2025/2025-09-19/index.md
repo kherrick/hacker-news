@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
 * [2025-09-19, 21:49:37](https://news.ycombinator.com/item?id=45307095) - [Lethal Trifecta attack leaking private data in Notion AI agents](https://twitter.com/simonw/status/1969111931152634010)
+* [2025-09-19, 21:49:37](https://news.ycombinator.com/item?id=45307095) - [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
 * [2025-09-19, 21:41:11](https://news.ycombinator.com/item?id=45307003) - [Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)
 * [2025-09-19, 21:39:29](https://news.ycombinator.com/item?id=45306975) - [Ted Cruz: MAGA \"will regret\" what it did to Jimmy Kimmel](https://www.axios.com/2025/09/19/ted-cruz-jimmy-kimmel-fcc-brendan-carr)
 * [2025-09-19, 21:18:24](https://news.ycombinator.com/item?id=45306740) - [A Lawless Nation – Friends don't let friends visit America](https://paulkrugman.substack.com/p/a-lawless-nation)

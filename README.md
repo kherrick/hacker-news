@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-19, 21:49:37](https://news.ycombinator.com/item?id=45307095) - [Lethal Trifecta attack leaking private data in Notion AI agents](https://twitter.com/simonw/status/1969111931152634010)
+* [2025-09-19, 21:49:37](https://news.ycombinator.com/item?id=45307095) - [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
 * [2025-09-19, 21:41:11](https://news.ycombinator.com/item?id=45307003) - [Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)
 * [2025-09-19, 21:14:56](https://news.ycombinator.com/item?id=45306701) - [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 * [2025-09-19, 21:01:42](https://news.ycombinator.com/item?id=45306539) - [Ask HN: Has anyone else been unemployed for over two years?](https://news.ycombinator.com/item?id=45306539)
