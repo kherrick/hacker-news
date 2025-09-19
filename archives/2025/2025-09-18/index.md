@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 23:48:48](https://news.ycombinator.com/item?id=45296403) - [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
 * [2025-09-18, 23:17:57](https://news.ycombinator.com/item?id=45296182) - [Jimmy Kimmel Should Have Strong Odds at the Supreme Court](https://www.politico.com/news/magazine/2025/09/18/jimmy-kimmel-supreme-court-first-amendment-lawsuit-00570697)
+* [2025-09-18, 22:52:21](https://news.ycombinator.com/item?id=45295995) - [Classic recessive-or-dominant gene dynamics may not be so simple](https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research)
 * [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
+* [2025-09-18, 22:37:44](https://news.ycombinator.com/item?id=45295878) - [Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem](https://github.com/NVIDIA/nvmath-python)
 * [2025-09-18, 22:27:17](https://news.ycombinator.com/item?id=45295794) - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
 * [2025-09-18, 21:54:06](https://news.ycombinator.com/item?id=45295482) - [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
 * [2025-09-18, 21:43:10](https://news.ycombinator.com/item?id=45295388) - [Returning to Church won't save us from nihilism](https://thereader.mitpress.mit.edu/returning-to-church-wont-save-us-from-nihilism/)
+* [2025-09-18, 20:50:33](https://news.ycombinator.com/item?id=45294859) - [Meta’s live demo fails; “AI” recording plays before the actor takes the steps](https://www.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
 * [2025-09-18, 20:50:33](https://news.ycombinator.com/item?id=45294859) - [Meta's live staged demo fails; the \"AI\" recording plays before the actor acts](https://old.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
 * [2025-09-18, 20:15:45](https://news.ycombinator.com/item?id=45294440) - [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
 * [2025-09-18, 20:11:29](https://news.ycombinator.com/item?id=45294390) - [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
