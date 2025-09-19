@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-19, 00:40:04",
-      "https://news.ycombinator.com/item?id=45296701"
+      "2025-09-19, 02:25:34",
+      "https://news.ycombinator.com/item?id=45297331"
     ],
     [
-      "Inside Palantir: Profits, Power and the Kill Machine",
-      "https://citizensreunited.substack.com/p/inside-palantir-profits-power-and"
+      "Gemini in Chrome",
+      "https://gemini.google/overview/gemini-in-chrome/"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 01:34:58",
+      "https://news.ycombinator.com/item?id=45297030"
+    ],
+    [
+      "The Math of Catastrophe",
+      "https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/"
     ]
   ],
   [
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2025-09-18, 22:37:44",
-      "https://news.ycombinator.com/item?id=45295878"
-    ],
-    [
-      "Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem",
-      "https://github.com/NVIDIA/nvmath-python"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 22:27:17",
       "https://news.ycombinator.com/item?id=45295794"
     ],
@@ -107,6 +107,16 @@
     [
       "Apple: SSH and FileVault",
       "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 19:41:50",
+      "https://news.ycombinator.com/item?id=45294058"
+    ],
+    [
+      "U.S. already has the critical minerals it needs, according to new analysis",
+      "https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-09-18, 16:43:43",
-      "https://news.ycombinator.com/item?id=45291858"
-    ],
-    [
-      "Configuration files are user interfaces",
-      "https://ochagavia.nl/blog/configuration-files-are-user-interfaces/"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 15:40:29",
       "https://news.ycombinator.com/item?id=45291024"
     ],
@@ -207,6 +207,16 @@
     [
       "Flipper Zero Geiger Counter",
       "https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 13:06:03",
+      "https://news.ycombinator.com/item?id=45289168"
+    ],
+    [
+      "The quality of AI-assisted software depends on unit of work management",
+      "https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2025-09-15, 06:18:55",
-      "https://news.ycombinator.com/item?id=45246658"
+      "2025-09-15, 10:54:11",
+      "https://news.ycombinator.com/item?id=45248242"
     ],
     [
-      "They Know More Than I Do",
-      "https://www.cybadger.com/they-know-more-than-i-do-managing-an-expert-team-when-you-cant-do-their-jobs/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 01:37:41",
-      "https://news.ycombinator.com/item?id=45245181"
-    ],
-    [
-      "TIC-80 – Tiny Computer",
-      "https://tic80.com/"
+      "Tracking Trust with Rust in the Kernel",
+      "https://lwn.net/Articles/1034603/"
     ]
   ],
   [
