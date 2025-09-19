@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 06:21:04](https://news.ycombinator.com/item?id=45298489) - [Count Folke Bernadotte: Sweden's Servant of Peace (2010)](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
 * [2025-09-19, 05:49:08](https://news.ycombinator.com/item?id=45298336) - [Nostr](https://nostr.com/)
 * [2025-09-19, 04:46:07](https://news.ycombinator.com/item?id=45298034) - [The health benefits of sunlight may outweigh the risk of skin cancer](https://www.economist.com/science-and-technology/2025/09/17/the-health-benefits-of-sunlight-may-outweigh-the-risk-of-skin-cancer)
 * [2025-09-19, 03:22:15](https://news.ycombinator.com/item?id=45297627) - [Bravo Apple! Calculator app has a memory leak](https://xcancel.com/neogoose_btw/status/1968757466570621251)
