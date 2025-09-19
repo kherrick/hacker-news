@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-19, 21:39:29](https://news.ycombinator.com/item?id=45306975) - [Ted Cruz: MAGA \"will regret\" what it did to Jimmy Kimmel](https://www.axios.com/2025/09/19/ted-cruz-jimmy-kimmel-fcc-brendan-carr)
 * [2025-09-19, 21:14:56](https://news.ycombinator.com/item?id=45306701) - [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 * [2025-09-19, 21:01:42](https://news.ycombinator.com/item?id=45306539) - [Ask HN: Has anyone else been unemployed for over two years?](https://news.ycombinator.com/item?id=45306539)
 * [2025-09-19, 20:28:21](https://news.ycombinator.com/item?id=45306147) - [How to waste CPU like a Professional](https://mostlynerdless.de/blog/2025/09/19/how-to-waste-cpu-like-a-professional/)
@@ -25,6 +24,7 @@
 * [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
 * [2025-09-18, 20:11:29](https://news.ycombinator.com/item?id=45294390) - [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
 * [2025-09-18, 12:22:46](https://news.ycombinator.com/item?id=45288740) - [Dialing Up the Internet Phonebook](https://pketh.org/internet-phonebook.html)
+* [2025-09-17, 23:04:21](https://news.ycombinator.com/item?id=45282504) - [Tonemaps](https://mini.gmshaders.com/p/tonemaps)
 * [2025-09-17, 00:18:54](https://news.ycombinator.com/item?id=45270015) - [R MCP Server](https://github.com/finite-sample/rmcp)
 * [2025-09-16, 21:26:08](https://news.ycombinator.com/item?id=45268293) - [Frying Eggs and Air Quality Tests](https://chillphysicsenjoyer.substack.com/p/frying-eggs-and-air-quality-tests)
 * [2025-09-16, 18:13:30](https://news.ycombinator.com/item?id=45265760) - [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html)
