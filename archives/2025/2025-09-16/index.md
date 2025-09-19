@@ -36,6 +36,7 @@
 * [2025-09-16, 15:05:46](https://news.ycombinator.com/item?id=45263317) - [We're launching a new Google app for Windows experiment in Labs](https://blog.google/products/search/google-app-windows-labs/)
 * [2025-09-16, 15:00:06](https://news.ycombinator.com/item?id=45263230) - [The old SF tech scene is dead. What it's morphing into is more sinister](https://www.sfgate.com/tech/article/bay-area-tech-scene-dorky-now-terrifying-21042943.php)
 * [2025-09-16, 14:59:47](https://news.ycombinator.com/item?id=45263221) - [1975 Sep 16 MOS Technology samples 6502 at WESCON, here's how they designed it](https://www.EmbeddedRelated.com/showarticle/1453.php)
+* [2025-09-16, 14:53:02](https://news.ycombinator.com/item?id=45263123) - [The Fisherman and His Wife (1857)](https://sites.pitt.edu/~dash/grimm019.html)
 * [2025-09-16, 14:48:37](https://news.ycombinator.com/item?id=45263063) - [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
 * [2025-09-16, 14:35:19](https://news.ycombinator.com/item?id=45262835) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 * [2025-09-16, 14:18:19](https://news.ycombinator.com/item?id=45262582) - [Mother of All Demos](https://wordspike.com/s/5ip0xneiTsc)
