@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
 * [2025-09-19, 03:22:15](https://news.ycombinator.com/item?id=45297627) - [Bravo Apple! Calculator app has a memory leak](https://xcancel.com/neogoose_btw/status/1968757466570621251)
+* [2025-09-19, 03:07:32](https://news.ycombinator.com/item?id=45297548) - [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more)
 * [2025-09-19, 02:25:34](https://news.ycombinator.com/item?id=45297331) - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
 * [2025-09-19, 02:13:05](https://news.ycombinator.com/item?id=45297258) - [Playing “Minecraft” Without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
 * [2025-09-19, 01:34:58](https://news.ycombinator.com/item?id=45297030) - [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
