@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 19:21:50](https://news.ycombinator.com/item?id=45305369) - [What We Can Learn from Nordic Socialism](https://jacobin.com/2025/09/nordic-socialism-dragsted-poulantzas-reforms/)
 * [2025-09-19, 18:47:14](https://news.ycombinator.com/item?id=45305042) - [Internal emails reveal Ticketmaster helped scalpers jack up prices, FTC says](https://arstechnica.com/tech-policy/2025/09/ticketmaster-intentionally-screwed-fans-out-of-billions-ftc-lawsuit-says/)
 * [2025-09-19, 18:42:57](https://news.ycombinator.com/item?id=45304992) - [After getting Jimmy Kimmel suspended, FCC chair threatens ABC's The View](https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/)
 * [2025-09-19, 18:15:18](https://news.ycombinator.com/item?id=45304706) - [A history of AI in four books](https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity)
 * [2025-09-19, 17:43:33](https://news.ycombinator.com/item?id=45304379) - [Your very own humane interface: Try Jef Raskin's ideas at home](https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/)
+* [2025-09-19, 17:28:20](https://news.ycombinator.com/item?id=45304222) - [BYD unveils world's largest 14.5 MWh DC energy storage system](https://www.ess-news.com/2025/09/19/byd-unveils-worlds-largest-14-5-mwh-dc-energy-storage-system/)
 * [2025-09-19, 16:02:22](https://news.ycombinator.com/item?id=45303199) - [Dev Culture Is Dying the Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/)
 * [2025-09-19, 15:29:25](https://news.ycombinator.com/item?id=45302721) - [Kernel: Introduce Multikernel Architecture Support](https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/)
 * [2025-09-19, 15:01:50](https://news.ycombinator.com/item?id=45302425) - [Slow Liquid](https://www.robinsloan.com/lab/slow-liquid/)
