@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 15:01:50](https://news.ycombinator.com/item?id=45302425) - [Slow Liquid](https://www.robinsloan.com/lab/slow-liquid/)
+* [2025-09-19, 14:43:29](https://news.ycombinator.com/item?id=45302220) - [Trevor Milton's Nikola Case Dropped by SEC Following Trump Pardon](https://eletric-vehicles.com/nikola/trevor-miltons-nikola-case-dropped-by-sec-following-trump-pardon/)
 * [2025-09-19, 14:28:47](https://news.ycombinator.com/item?id=45302065) - [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)
 * [2025-09-19, 14:07:53](https://news.ycombinator.com/item?id=45301845) - [As Android developer verification gets ready to go, a new reason to be worried](https://www.androidauthority.com/android-sideload-offline-3598988/)
 * [2025-09-19, 14:00:16](https://news.ycombinator.com/item?id=45301774) - [Court lets NSF keep swinging axe at $1B in research grants](https://www.theregister.com/2025/09/19/court_lets_nsf_keep_swinging/)
