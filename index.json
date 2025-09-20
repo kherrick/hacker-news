@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-20, 15:26:50",
+      "https://news.ycombinator.com/item?id=45314157"
+    ],
+    [
+      "These days, systemd can be a cause of restrictions on daemons",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 14:37:52",
       "https://news.ycombinator.com/item?id=45313793"
     ],
@@ -287,16 +297,6 @@
     [
       "If all the world were a monorepo",
       "https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 22:34:15",
-      "https://news.ycombinator.com/item?id=45255785"
-    ],
-    [
-      "Internet Archive's big battle with music publishers ends in settlement",
-      "https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/"
     ]
   ]
 ]
