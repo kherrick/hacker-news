@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-20, 14:37:52](https://news.ycombinator.com/item?id=45313793) - [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
 * [2025-09-20, 14:12:30](https://news.ycombinator.com/item?id=45313597) - [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
 * [2025-09-20, 14:06:44](https://news.ycombinator.com/item?id=45313547) - [The dawn of the post-literate society – and the end of civilisation](https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1)
 * [2025-09-20, 13:53:21](https://news.ycombinator.com/item?id=45313439) - [What Makes System Calls Expensive: A Linux Internals Deep Dive](https://blog.codingconfessions.com/p/what-makes-system-calls-expensive)
@@ -23,7 +24,6 @@
 * [2025-09-19, 12:20:10](https://news.ycombinator.com/item?id=45300810) - [The best YouTube downloaders, and how Google silenced the press](https://windowsread.me/p/best-youtube-downloaders)
 * [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World Map in Terminal](https://github.com/rastapasta/mapscii)
 * [2025-09-18, 09:22:39](https://news.ycombinator.com/item?id=45287474) - [SCREAM CIPHER (\"ǠĂȦẶAẦ ĂǍÄẴẶȦ\")](https://sethmlarson.dev/scream-cipher)
-* [2025-09-18, 05:16:48](https://news.ycombinator.com/item?id=45285711) - [Evals in 2025: benchmarks to build models people can use](https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md)
 * [2025-09-17, 12:30:58](https://news.ycombinator.com/item?id=45275058) - [Claude Can (Sometimes) Prove It](https://www.galois.com/articles/claude-can-sometimes-prove-it)
 * [2025-09-17, 03:56:39](https://news.ycombinator.com/item?id=45271493) - [Compiling with Continuations](https://swatson555.github.io/posts/2025-09-16-compiling-with-continuations.html)
 * [2025-09-16, 21:09:47](https://news.ycombinator.com/item?id=45268084) - [PyPI Blog: Token Exfiltration Campaign via GitHub Actions Workflows](https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/)

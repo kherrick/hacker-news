@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 14:37:52](https://news.ycombinator.com/item?id=45313793) - [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
 * [2025-09-20, 14:12:30](https://news.ycombinator.com/item?id=45313597) - [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
 * [2025-09-20, 14:11:59](https://news.ycombinator.com/item?id=45313589) - [Embrace hope, reject assisted suicide](https://thecritic.co.uk/embrace-hope-reject-assisted-suicide/)
 * [2025-09-20, 14:06:44](https://news.ycombinator.com/item?id=45313547) - [The dawn of the post-literate society – and the end of civilisation](https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1)
