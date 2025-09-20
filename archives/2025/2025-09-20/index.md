@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 22:11:22](https://news.ycombinator.com/item?id=45318060) - [US Gov acknowledges that 100K fee does not apply to existing H-1B visas holders [pdf]](https://www.uscis.gov/sites/default/files/document/memos/H1B_Proc_Memo_FINAL.pdf)
 * [2025-09-20, 21:46:11](https://news.ycombinator.com/item?id=45317870) - [Why do some gamers invert their controls?](https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think)
 * [2025-09-20, 21:18:45](https://news.ycombinator.com/item?id=45317654) - [Invasive Israeli-founded bloatware is harvesting data from Samsung users in WANA](https://smex.org/invasive-israeli-software-is-harvesting-data-from-samsung-users-in-wana/)
 * [2025-09-20, 21:04:47](https://news.ycombinator.com/item?id=45317527) - [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/)
