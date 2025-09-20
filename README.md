@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-20, 16:41:47](https://news.ycombinator.com/item?id=45314906) - [Microsoft memo advises H1B employees to return immediately if currently abroad](https://xcancel.com/onestpress/status/1969374699038675364)
+* [2025-09-20, 16:12:56](https://news.ycombinator.com/item?id=45314592) - [Seattle Ultrasonics: Ultrasonic Chef's Knife](https://seattleultrasonics.com/)
 * [2025-09-20, 15:57:52](https://news.ycombinator.com/item?id=45314432) - [Are Touchscreens in Cars Dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
 * [2025-09-20, 14:37:52](https://news.ycombinator.com/item?id=45313793) - [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
 * [2025-09-20, 14:12:30](https://news.ycombinator.com/item?id=45313597) - [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
