@@ -23,11 +23,11 @@
 * [2025-09-17, 16:24:14](https://news.ycombinator.com/item?id=45277900) - [A 3D-Printed Business Card Embosser](https://www.core77.com/posts/138492/A-3D-Printed-Business-Card-Embosser)
 * [2025-09-17, 12:30:58](https://news.ycombinator.com/item?id=45275058) - [Claude Can (Sometimes) Prove It](https://www.galois.com/articles/claude-can-sometimes-prove-it)
 * [2025-09-17, 03:56:39](https://news.ycombinator.com/item?id=45271493) - [Compiling with Continuations](https://swatson555.github.io/posts/2025-09-16-compiling-with-continuations.html)
-* [2025-09-17, 02:59:13](https://news.ycombinator.com/item?id=45271108) - [Starfront Observatories](https://starfront.space/)
 * [2025-09-17, 00:18:54](https://news.ycombinator.com/item?id=45270015) - [R MCP Server](https://github.com/finite-sample/rmcp)
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
 * [2025-09-16, 18:13:30](https://news.ycombinator.com/item?id=45265760) - [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html)
 * [2025-09-16, 17:37:47](https://news.ycombinator.com/item?id=45265307) - [Sangaku Puzzle I Can't Solve](https://samjshah.com/2025/08/05/sangaku-puzzle-i-cant-solve/)
+* [2025-09-16, 14:47:24](https://news.ycombinator.com/item?id=45263035) - [I'm Not a Robot Game](https://neal.fun/not-a-robot/)
 * [2025-09-16, 08:33:45](https://news.ycombinator.com/item?id=45259623) - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 * [2025-09-15, 22:34:15](https://news.ycombinator.com/item?id=45255785) - [Internet Archive's big battle with music publishers ends in settlement](https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/)
 
