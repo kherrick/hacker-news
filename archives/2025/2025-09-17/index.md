@@ -54,6 +54,7 @@
 * [2025-09-17, 09:57:50](https://news.ycombinator.com/item?id=45273824) - [Oh no, not again a meditation on NPM supply chain attacks](https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/)
 * [2025-09-17, 09:45:44](https://news.ycombinator.com/item?id=45273747) - [Alibaba's New AI Chip Unveiled: Key Specifications Comparable to H20](https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to)
 * [2025-09-17, 08:38:17](https://news.ycombinator.com/item?id=45273352) - [Why We're Building Stategraph: Terraform State as a Distributed Systems Problem](https://stategraph.dev/blog/why-stategraph/)
+* [2025-09-17, 07:46:36](https://news.ycombinator.com/item?id=45273032) - [Scientists find that ice generates electricity when bent](https://phys.org/news/2025-09-scientists-ice-generates-electricity-bent.html)
 * [2025-09-17, 07:00:09](https://news.ycombinator.com/item?id=45272692) - [Tabby – A Terminal for the Modern Age](https://github.com/Eugeny/tabby)
 * [2025-09-17, 06:54:02](https://news.ycombinator.com/item?id=45272653) - [Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk/)
 * [2025-09-17, 06:32:17](https://news.ycombinator.com/item?id=45272480) - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
