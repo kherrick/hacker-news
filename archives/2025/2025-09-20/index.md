@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 04:07:12](https://news.ycombinator.com/item?id=45310276) - [MCP Server Could Have Been a JSON File](https://materializedview.io/p/mcp-server-could-have-been-json-file)
 * [2025-09-20, 02:38:44](https://news.ycombinator.com/item?id=45309740) - [The H-1B Visa Program and Its Impact on the U.S. Economy](https://www.americanimmigrationcouncil.org/fact-sheet/h1b-visa-program-fact-sheet/)
 * [2025-09-20, 02:11:18](https://news.ycombinator.com/item?id=45309512) - [Things Managers Do That Leaders Never Would](https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/)
 * [2025-09-20, 00:46:20](https://news.ycombinator.com/item?id=45308628) - [H1Bs will start costing $100k/yr](https://www.boundless.com/blog/trump-administration-to-propose-new-100000-fee-for-h-1b-visa-applications/)
