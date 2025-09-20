@@ -11,7 +11,6 @@
 * [2025-09-20, 16:12:56](https://news.ycombinator.com/item?id=45314592) - [Ultrasonic Chef's Knife](https://seattleultrasonics.com/)
 * [2025-09-20, 15:57:52](https://news.ycombinator.com/item?id=45314432) - [Are touchscreens in cars dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
 * [2025-09-20, 15:26:50](https://news.ycombinator.com/item?id=45314157) - [Systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
-* [2025-09-20, 14:12:30](https://news.ycombinator.com/item?id=45313597) - [Is Zig's new writer unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
 * [2025-09-20, 14:08:24](https://news.ycombinator.com/item?id=45313557) - [Cormac McCarthy's tips on how to write a science paper (2019) [pdf]](https://gwern.net/doc/science/2019-savage.pdf)
 * [2025-09-20, 13:51:12](https://news.ycombinator.com/item?id=45313418) - [Living microbial cement supercapacitors with reactivatable energy storage](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6)
 * [2025-09-20, 13:50:58](https://news.ycombinator.com/item?id=45313415) - [Vapor chamber tech keeps iPhone 17 Pro cool](https://spectrum.ieee.org/iphone-17-pro-vapor-chamber)
@@ -30,6 +29,7 @@
 * [2025-09-17, 05:22:21](https://news.ycombinator.com/item?id=45272022) - [Solving a wooden puzzle using Haskell](https://glocq.github.io/en/blog/20250428/)
 * [2025-09-16, 18:08:01](https://news.ycombinator.com/item?id=45265688) - [Escapee pregnancy test frogs colonised Wales for 50 years (2019)](https://www.bbc.com/news/uk-wales-44886585)
 * [2025-09-16, 14:47:24](https://news.ycombinator.com/item?id=45263035) - [I'm Not a Robot](https://neal.fun/not-a-robot/)
+* [2025-09-16, 08:33:45](https://news.ycombinator.com/item?id=45259623) - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 
 ## [Archives](archives/index.md)
 
