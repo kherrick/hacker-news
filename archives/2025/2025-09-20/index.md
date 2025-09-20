@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 23:20:52](https://news.ycombinator.com/item?id=45318505) - [California bans face masks for ICE agents](https://sfstandard.com/2025/09/20/california-bans-face-masks-ice-agents/)
 * [2025-09-20, 22:11:22](https://news.ycombinator.com/item?id=45318060) - [US Gov acknowledges that 100K fee does not apply to existing H-1B visas holders [pdf]](https://www.uscis.gov/sites/default/files/document/memos/H1B_Proc_Memo_FINAL.pdf)
 * [2025-09-20, 21:46:11](https://news.ycombinator.com/item?id=45317870) - [Why do some gamers invert their controls?](https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think)
 * [2025-09-20, 21:18:45](https://news.ycombinator.com/item?id=45317654) - [Invasive Israeli-founded bloatware is harvesting data from Samsung users in WANA](https://smex.org/invasive-israeli-software-is-harvesting-data-from-samsung-users-in-wana/)
