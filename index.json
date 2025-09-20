@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-20, 15:57:52",
+      "https://news.ycombinator.com/item?id=45314432"
+    ],
+    [
+      "Are Touchscreens in Cars Dangerous?",
+      "https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 15:26:50",
       "https://news.ycombinator.com/item?id=45314157"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2025-09-20, 14:06:44",
-      "https://news.ycombinator.com/item?id=45313547"
+      "2025-09-20, 14:08:24",
+      "https://news.ycombinator.com/item?id=45313557"
     ],
     [
-      "The dawn of the post-literate society – and the end of civilisation",
-      "https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1"
+      "Novelist Cormac McCarthy's tips on how to write a great science paper [pdf]",
+      "https://gwern.net/doc/science/2019-savage.pdf"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2025-09-20, 11:40:28",
-      "https://news.ycombinator.com/item?id=45312447"
-    ],
-    [
-      "Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery",
-      "https://www.isct.ac.jp/en/news/okmktjxyrvdc"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 11:00:27",
       "https://news.ycombinator.com/item?id=45312228"
     ],
@@ -137,16 +137,6 @@
     [
       "LLM-Deflate: Extracting LLMs into Datasets",
       "https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 03:41:23",
-      "https://news.ycombinator.com/item?id=45310123"
-    ],
-    [
-      "Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First",
-      "https://arxiv.org/abs/2509.00997"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "If all the world were a monorepo",
       "https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo"
+    ]
+  ],
+  [
+    [
+      "2025-09-15, 22:34:15",
+      "https://news.ycombinator.com/item?id=45255785"
+    ],
+    [
+      "Internet Archive's big battle with music publishers ends in settlement",
+      "https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/"
     ]
   ]
 ]
