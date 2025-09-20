@@ -62,6 +62,7 @@
 * [2025-09-16, 11:01:06](https://news.ycombinator.com/item?id=45260611) - [DuckDB 1.4.0 LTS](https://duckdb.org/2025/09/16/announcing-duckdb-140.html)
 * [2025-09-16, 10:25:26](https://news.ycombinator.com/item?id=45260379) - [Spain becomes 3rd country to confirm Eurovision exit if Israel remains.](https://www.thejournal.ie/spain-becomes-first-of-eurovision-big-five-countries-to-confirm-it-will-withdraw-if-israel-remains-in-contest-6818193-Sep2025/)
 * [2025-09-16, 10:25:01](https://news.ycombinator.com/item?id=45260374) - [Sylvia Plath's fig tree meets machine learning](https://dontlognow.substack.com/p/sylvia-plaths-fig-tree-meets-machine)
+* [2025-09-16, 08:33:45](https://news.ycombinator.com/item?id=45259623) - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 * [2025-09-16, 08:24:22](https://news.ycombinator.com/item?id=45259553) - [Top UN legal investigators conclude Israel is guilty of genocide in Gaza](https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza)
 * [2025-09-16, 08:20:24](https://news.ycombinator.com/item?id=45259529) - [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
 * [2025-09-16, 08:13:48](https://news.ycombinator.com/item?id=45259471) - [Rules for creating good-looking user interfaces, from a developer](https://weberdominik.com/blog/rules-user-interfaces/)
