@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-09-18, 16:47:15",
+      "https://news.ycombinator.com/item?id=45291903"
+    ],
+    [
+      "Show HN: I Parallelized RNN Training from O(T) to O(log T) Using CUDA",
+      "https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 13:04:27",
       "https://news.ycombinator.com/item?id=45289150"
     ],
@@ -287,16 +297,6 @@
     [
       "I'm Not a Robot",
       "https://neal.fun/not-a-robot/"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 08:33:45",
-      "https://news.ycombinator.com/item?id=45259623"
-    ],
-    [
-      "If all the world were a monorepo",
-      "https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo"
     ]
   ]
 ]
