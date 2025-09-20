@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-20, 21:18:45](https://news.ycombinator.com/item?id=45317654) - [Invasive Israeli-founded bloatware is harvesting data from Samsung users in WANA](https://smex.org/invasive-israeli-software-is-harvesting-data-from-samsung-users-in-wana/)
 * [2025-09-20, 21:04:38](https://news.ycombinator.com/item?id=45317526) - [A brief history of threads and threading](https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/)
 * [2025-09-20, 20:00:11](https://news.ycombinator.com/item?id=45316833) - [Philips announces digital pathology scanner with native DICOM JPEG XL output](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html)
 * [2025-09-20, 19:51:36](https://news.ycombinator.com/item?id=45316744) - [A revolution in English bell ringing](https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/)
@@ -20,6 +19,7 @@
 * [2025-09-20, 06:37:01](https://news.ycombinator.com/item?id=45310995) - [PYREX vs. pyrex: What's the difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
 * [2025-09-20, 04:59:10](https://news.ycombinator.com/item?id=45310529) - [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/)
 * [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World map in terminal](https://github.com/rastapasta/mapscii)
+* [2025-09-18, 13:04:27](https://news.ycombinator.com/item?id=45289150) - [Teardown of Apple 40W Dynamic Power Adapter with 60W Max (A3365)](https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/)
 * [2025-09-18, 10:16:54](https://news.ycombinator.com/item?id=45287838) - [After Babel Fish: The promise of cheap translations at the speed of the Web](https://hedgehogreview.com/issues/lessons-of-babel/articles/after-babel-fish)
 * [2025-09-18, 09:22:39](https://news.ycombinator.com/item?id=45287474) - [Scream cipher](https://sethmlarson.dev/scream-cipher)
 * [2025-09-18, 05:16:48](https://news.ycombinator.com/item?id=45285711) - [Evals in 2025: going beyond simple benchmarks to build models people can use](https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md)
