@@ -34,6 +34,7 @@
 * [2025-09-17, 16:24:14](https://news.ycombinator.com/item?id=45277900) - [A 3D-Printed Business Card Embosser](https://www.core77.com/posts/138492/A-3D-Printed-Business-Card-Embosser)
 * [2025-09-17, 16:13:00](https://news.ycombinator.com/item?id=45277704) - [Launch HN: RunRL (YC X25) – Reinforcement learning as a service](https://runrl.com)
 * [2025-09-17, 15:53:42](https://news.ycombinator.com/item?id=45277346) - [Not Buying American Anymore](https://xd1.dev/2025/09/not-buying-american-anymore)
+* [2025-09-17, 15:30:51](https://news.ycombinator.com/item?id=45277052) - [Knitted Anatomy](https://www.knitted-anatomy.at/cardiovascular-system/)
 * [2025-09-17, 15:28:25](https://news.ycombinator.com/item?id=45277023) - [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)
 * [2025-09-17, 15:25:24](https://news.ycombinator.com/item?id=45276987) - [How to Motivate Yourself to Do a Thing You Don't Want to Do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/)
 * [2025-09-17, 15:14:15](https://news.ycombinator.com/item?id=45276851) - [Is Data Modeling Dead?](https://www.confessionsofadataguy.com/is-data-modeling-dead/)

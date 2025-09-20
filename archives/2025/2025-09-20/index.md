@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 20:08:29](https://news.ycombinator.com/item?id=45316921) - [Starship will soon fly over towns and cities, but will dodge the biggest ones](https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/)
 * [2025-09-20, 20:00:11](https://news.ycombinator.com/item?id=45316833) - [Philips announces digital pathology scanner with native DICOM JPEG XL output](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html)
+* [2025-09-20, 19:51:36](https://news.ycombinator.com/item?id=45316744) - [A revolution in English bell ringing](https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/)
 * [2025-09-20, 19:35:32](https://news.ycombinator.com/item?id=45316571) - [Tariffs make it harder to justify US investments, automakers and suppliers warn](https://www.autonews.com/manufacturing/an-trump-tariffs-suppliers-automaker-letter-mbs-0919/)
 * [2025-09-20, 19:01:30](https://news.ycombinator.com/item?id=45316266) - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
 * [2025-09-20, 18:59:51](https://news.ycombinator.com/item?id=45316244) - [TV Time Machine: A Raspberry Pi That Plays Random 90s TV](https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html)
