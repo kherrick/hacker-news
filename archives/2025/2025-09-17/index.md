@@ -7,6 +7,7 @@
 * [2025-09-17, 23:04:21](https://news.ycombinator.com/item?id=45282504) - [Tonemaps](https://mini.gmshaders.com/p/tonemaps)
 * [2025-09-17, 23:03:21](https://news.ycombinator.com/item?id=45282497) - [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 * [2025-09-17, 23:00:56](https://news.ycombinator.com/item?id=45282485) - [ABC Pulls Jimmy Kimmel Live from the Air 'Indefinitely'](https://www.vulture.com/article/abc-pulls-jimmy-kimmel-live-from-the-air-indefinitely.html)
+* [2025-09-17, 22:53:44](https://news.ycombinator.com/item?id=45282411) - [The Gentrification of Videogame History](https://felipepepe.medium.com/the-gentrification-of-video-game-history-dfe11f1e08ae)
 * [2025-09-17, 22:38:01](https://news.ycombinator.com/item?id=45282268) - [macOS Tahoe Incompatible with Mac Studio M3 Ultra](https://eclecticlight.co/2025/09/17/macos-26-0-tahoe-build-25a354-is-incompatible-with-mac-studio-m3-ultra/)
 * [2025-09-17, 22:02:13](https://news.ycombinator.com/item?id=45281913) - [Bosch Unveils New Brake Technology](https://thebrakereport.com/bosch-unveils-new-brake-technology-driving-future-automation/)
 * [2025-09-17, 22:00:45](https://news.ycombinator.com/item?id=45281899) - [Pg_links](https://giulianopz.github.io/pg.html)
