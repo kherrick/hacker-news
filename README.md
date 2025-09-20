@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s Is Launched](https://furilabs.com/flx1s-is-launched/)
 * [2025-09-20, 11:00:27](https://news.ycombinator.com/item?id=45312228) - [IG Nobel Prize Winners 2025](https://improbable.com/ig/winners/)
 * [2025-09-20, 10:22:49](https://news.ycombinator.com/item?id=45312031) - [For comedians around the world, the laughs often end as democracy fades](https://www.theguardian.com/world/2025/sep/19/for-comedians-around-the-world-the-laughs-often-end-as-democracy-fades)
 * [2025-09-20, 07:25:03](https://news.ycombinator.com/item?id=45311247) - [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
@@ -27,7 +28,6 @@
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
 * [2025-09-16, 18:08:01](https://news.ycombinator.com/item?id=45265688) - [Escapee pregnancy test frogs colonised Wales for 50 years](https://www.bbc.com/news/uk-wales-44886585)
 * [2025-09-16, 17:37:47](https://news.ycombinator.com/item?id=45265307) - [Sangaku Puzzle I Can't Solve](https://samjshah.com/2025/08/05/sangaku-puzzle-i-cant-solve/)
-* [2025-09-16, 14:47:24](https://news.ycombinator.com/item?id=45263035) - [I'm Not a Robot Game](https://neal.fun/not-a-robot/)
 * [2025-09-16, 08:33:45](https://news.ycombinator.com/item?id=45259623) - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 * [2025-09-15, 22:34:15](https://news.ycombinator.com/item?id=45255785) - [Internet Archive's big battle with music publishers ends in settlement](https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/)
 
