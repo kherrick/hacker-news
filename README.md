@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-20, 20:00:11](https://news.ycombinator.com/item?id=45316833) - [Philips announces digital pathology scanner with native DICOM JPEG XL output](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html)
+* [2025-09-20, 19:35:32](https://news.ycombinator.com/item?id=45316571) - [Tariffs make it harder to justify US investments, automakers and suppliers warn](https://www.autonews.com/manufacturing/an-trump-tariffs-suppliers-automaker-letter-mbs-0919/)
 * [2025-09-20, 19:01:30](https://news.ycombinator.com/item?id=45316266) - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
 * [2025-09-20, 18:59:51](https://news.ycombinator.com/item?id=45316244) - [TV Time Machine: A Raspberry Pi That Plays Random 90s TV](https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html)
+* [2025-09-20, 18:58:13](https://news.ycombinator.com/item?id=45316226) - [New H-1B visa fee will not apply to existing holders, official says](https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas)
 * [2025-09-20, 18:30:31](https://news.ycombinator.com/item?id=45315959) - [UNESCO Launches the First Virtual Museum of Stolen Cultural Objects](https://www.unesco.org/en/articles/unesco-launches-worlds-first-virtual-museum-stolen-cultural-objects-global-scale-mondiacult-2025)
 * [2025-09-20, 18:07:28](https://news.ycombinator.com/item?id=45315746) - [The LLM Lobotomy?](https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy)
 * [2025-09-20, 17:25:58](https://news.ycombinator.com/item?id=45315312) - [Designing NotebookLM](https://jasonspielman.com/notebooklm)
@@ -16,10 +19,8 @@
 * [2025-09-20, 12:40:34](https://news.ycombinator.com/item?id=45312877) - [Visa holders on vacation have 15 hours to return to US or pay $100k fee](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-has-a-24-hour-deadline-warning-for-indian-and-other-foreign-employees-after-h1-b-visa-fees-hike-to-100000-strongly-recommend-h1b-visa-holders-/articleshow/124010245.cms)
 * [2025-09-20, 12:17:33](https://news.ycombinator.com/item?id=45312696) - [Git: Introduce Rust and announce it will become mandatory in the build system](https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/)
 * [2025-09-20, 11:50:15](https://news.ycombinator.com/item?id=45312515) - [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
-* [2025-09-20, 11:40:28](https://news.ycombinator.com/item?id=45312447) - [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc)
 * [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s phone is launched](https://furilabs.com/flx1s-is-launched/)
 * [2025-09-20, 06:37:01](https://news.ycombinator.com/item?id=45310995) - [PYREX vs. pyrex: What's the difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
-* [2025-09-20, 04:59:10](https://news.ycombinator.com/item?id=45310529) - [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/)
 * [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World map in terminal](https://github.com/rastapasta/mapscii)
 * [2025-09-18, 10:16:54](https://news.ycombinator.com/item?id=45287838) - [After Babel Fish: The promise of cheap translations at the speed of the Web](https://hedgehogreview.com/issues/lessons-of-babel/articles/after-babel-fish)
 * [2025-09-18, 09:22:39](https://news.ycombinator.com/item?id=45287474) - [Scream cipher](https://sethmlarson.dev/scream-cipher)
@@ -29,7 +30,6 @@
 * [2025-09-17, 05:22:21](https://news.ycombinator.com/item?id=45272022) - [Solving a wooden puzzle using Haskell](https://glocq.github.io/en/blog/20250428/)
 * [2025-09-16, 18:08:01](https://news.ycombinator.com/item?id=45265688) - [Escapee pregnancy test frogs colonised Wales for 50 years (2019)](https://www.bbc.com/news/uk-wales-44886585)
 * [2025-09-16, 14:47:24](https://news.ycombinator.com/item?id=45263035) - [I'm Not a Robot](https://neal.fun/not-a-robot/)
-* [2025-09-16, 08:33:45](https://news.ycombinator.com/item?id=45259623) - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 
 ## [Archives](archives/index.md)
 

@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 20:00:11](https://news.ycombinator.com/item?id=45316833) - [Philips announces digital pathology scanner with native DICOM JPEG XL output](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html)
+* [2025-09-20, 19:35:32](https://news.ycombinator.com/item?id=45316571) - [Tariffs make it harder to justify US investments, automakers and suppliers warn](https://www.autonews.com/manufacturing/an-trump-tariffs-suppliers-automaker-letter-mbs-0919/)
 * [2025-09-20, 19:01:30](https://news.ycombinator.com/item?id=45316266) - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
 * [2025-09-20, 18:59:51](https://news.ycombinator.com/item?id=45316244) - [TV Time Machine: A Raspberry Pi That Plays Random 90s TV](https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html)
+* [2025-09-20, 18:58:13](https://news.ycombinator.com/item?id=45316226) - [New H-1B visa fee will not apply to existing holders, official says](https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas)
 * [2025-09-20, 18:30:31](https://news.ycombinator.com/item?id=45315959) - [UNESCO Launches the First Virtual Museum of Stolen Cultural Objects](https://www.unesco.org/en/articles/unesco-launches-worlds-first-virtual-museum-stolen-cultural-objects-global-scale-mondiacult-2025)
 * [2025-09-20, 18:07:28](https://news.ycombinator.com/item?id=45315746) - [The LLM Lobotomy](https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy)
 * [2025-09-20, 17:25:58](https://news.ycombinator.com/item?id=45315312) - [Designing NotebookLM](https://jasonspielman.com/notebooklm)
