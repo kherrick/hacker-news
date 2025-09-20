@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-09-20, 13:27:29",
-      "https://news.ycombinator.com/item?id=45313194"
-    ],
-    [
-      "Bezier Curve as Easing Function in C++",
-      "https://asawicki.info/news_1790_bezier_curve_as_easing_function_in_c"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 11:50:15",
       "https://news.ycombinator.com/item?id=45312515"
     ],
@@ -187,6 +177,16 @@
     [
       "Show HN: I Parallelized RNN Training from O(T) to O(log T) Using CUDA",
       "https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 13:31:38",
+      "https://news.ycombinator.com/item?id=45289481"
+    ],
+    [
+      "Running a 80×25 DOS-Style Console Is Possible After All",
+      "https://changelog.complete.org/archives/10907-running-an-accurate-80x25-dos-style-console-on-modern-linux-is-possible-after-all"
     ]
   ],
   [
