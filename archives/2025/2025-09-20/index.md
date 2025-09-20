@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 07:25:03](https://news.ycombinator.com/item?id=45311247) - [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
+* [2025-09-20, 06:37:01](https://news.ycombinator.com/item?id=45310995) - [PYREX vs. Pyrex: What's the Difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
 * [2025-09-20, 06:09:37](https://news.ycombinator.com/item?id=45310867) - [Oklahoma's \"TV nudes\" scandal was Jackie Chan movie on Samsung streaming service](https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/)
 * [2025-09-20, 04:13:17](https://news.ycombinator.com/item?id=45310294) - [High-performance read-through cache for object storage](https://github.com/s2-streamstore/cachey)
 * [2025-09-20, 04:07:12](https://news.ycombinator.com/item?id=45310276) - [MCP Server Could Have Been a JSON File](https://materializedview.io/p/mcp-server-could-have-been-json-file)
