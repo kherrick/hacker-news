@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-09-20, 19:01:30",
+      "https://news.ycombinator.com/item?id=45316266"
+    ],
+    [
+      "Bringing restartable sequences out of the niche",
+      "https://lwn.net/Articles/1033955/"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 18:07:28",
       "https://news.ycombinator.com/item?id=45315746"
     ],
     [
-      "The LLM Lobotomy",
+      "The LLM Lobotomy?",
       "https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy"
     ]
   ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-09-20, 13:18:16",
-      "https://news.ycombinator.com/item?id=45313127"
-    ],
-    [
-      "China's 200M gig workers are a warning for the world",
-      "https://www.economist.com/leaders/2025/09/18/chinas-200m-gig-workers-are-a-warning-for-the-world"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 12:40:34",
       "https://news.ycombinator.com/item?id=45312877"
     ],
@@ -151,12 +151,22 @@
   ],
   [
     [
-      "2025-09-20, 06:59:54",
-      "https://news.ycombinator.com/item?id=45311115"
+      "2025-09-20, 06:37:01",
+      "https://news.ycombinator.com/item?id=45310995"
     ],
     [
-      "LLM-Deflate: Extracting LLMs into Datasets",
-      "https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/"
+      "PYREX vs. pyrex: What's the difference?",
+      "https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 04:59:10",
+      "https://news.ycombinator.com/item?id=45310529"
+    ],
+    [
+      "If you are good at code review, you will be good at using AI agents",
+      "https://www.seangoedecke.com/ai-agents-and-code-review/"
     ]
   ],
   [
@@ -167,26 +177,6 @@
     [
       "Less is safer: How Obsidian reduces the risk of supply chain attacks",
       "https://obsidian.md/blog/less-is-safer/"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 21:55:43",
-      "https://news.ycombinator.com/item?id=45307166"
-    ],
-    [
-      "Show HN: Zedis – A Redis clone I'm writing in Zig",
-      "https://github.com/barddoo/zedis"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 12:25:50",
-      "https://news.ycombinator.com/item?id=45300865"
-    ],
-    [
-      "Ants that seem to defy biology – They lay eggs that hatch into another species",
-      "https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Escapee pregnancy test frogs colonised Wales for 50 years",
       "https://www.bbc.com/news/uk-wales-44886585"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 14:47:24",
+      "https://news.ycombinator.com/item?id=45263035"
+    ],
+    [
+      "I'm Not a Robot",
+      "https://neal.fun/not-a-robot/"
     ]
   ],
   [
