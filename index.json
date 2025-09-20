@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-20, 18:07:28",
+      "https://news.ycombinator.com/item?id=45315746"
+    ],
+    [
+      "The LLM Lobotomy",
+      "https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 17:25:58",
+      "https://news.ycombinator.com/item?id=45315312"
+    ],
+    [
+      "Designing NotebookLM",
+      "https://jasonspielman.com/notebooklm"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 16:12:56",
       "https://news.ycombinator.com/item?id=45314592"
     ],
@@ -15,8 +35,18 @@
       "https://news.ycombinator.com/item?id=45314432"
     ],
     [
-      "Are Touchscreens in Cars Dangerous?",
+      "Are touchscreens in cars dangerous?",
       "https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 15:26:50",
+      "https://news.ycombinator.com/item?id=45314157"
+    ],
+    [
+      "Systemd can be a cause of restrictions on daemons",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause"
     ]
   ],
   [
@@ -41,22 +71,22 @@
   ],
   [
     [
-      "2025-09-20, 13:53:21",
-      "https://news.ycombinator.com/item?id=45313439"
-    ],
-    [
-      "What Makes System Calls Expensive: A Linux Internals Deep Dive",
-      "https://blog.codingconfessions.com/p/what-makes-system-calls-expensive"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 13:51:12",
       "https://news.ycombinator.com/item?id=45313418"
     ],
     [
       "Living microbial cement supercapacitors with reactivatable energy storage",
       "https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 13:50:58",
+      "https://news.ycombinator.com/item?id=45313415"
+    ],
+    [
+      "Vapor chamber tech keeps iPhone 17 Pro cool",
+      "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber"
     ]
   ],
   [
@@ -71,11 +101,31 @@
   ],
   [
     [
+      "2025-09-20, 13:18:16",
+      "https://news.ycombinator.com/item?id=45313127"
+    ],
+    [
+      "China's 200M gig workers are a warning for the world",
+      "https://www.economist.com/leaders/2025/09/18/chinas-200m-gig-workers-are-a-warning-for-the-world"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 12:40:34",
+      "https://news.ycombinator.com/item?id=45312877"
+    ],
+    [
+      "Visa holders on vacation have 15 hours to return to US or pay $100k fee",
+      "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-has-a-24-hour-deadline-warning-for-indian-and-other-foreign-employees-after-h1-b-visa-fees-hike-to-100000-strongly-recommend-h1b-visa-holders-/articleshow/124010245.cms"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 12:17:33",
       "https://news.ycombinator.com/item?id=45312696"
     ],
     [
-      "Git: Introduce Rust and announce that it will become mandatorty",
+      "Git: Introduce Rust and announce that it will become mandatory",
       "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/"
     ]
   ],
@@ -87,16 +137,6 @@
     [
       "Images over DNS",
       "https://dgl.cx/2025/09/images-over-dns"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 11:00:27",
-      "https://news.ycombinator.com/item?id=45312228"
-    ],
-    [
-      "IG Nobel Prize Winners 2025",
-      "https://improbable.com/ig/winners/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-09-20, 04:13:17",
-      "https://news.ycombinator.com/item?id=45310294"
-    ],
-    [
-      "High-performance read-through cache for object storage",
-      "https://github.com/s2-streamstore/cachey"
-    ]
-  ],
-  [
-    [
       "2025-09-19, 22:02:29",
       "https://news.ycombinator.com/item?id=45307242"
     ],
@@ -147,36 +177,6 @@
     [
       "Show HN: Zedis – A Redis clone I'm writing in Zig",
       "https://github.com/barddoo/zedis"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 21:49:37",
-      "https://news.ycombinator.com/item?id=45307095"
-    ],
-    [
-      "Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration",
-      "https://www.codeintegrity.ai/blog/notion"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 21:14:56",
-      "https://news.ycombinator.com/item?id=45306701"
-    ],
-    [
-      "Feedmaker: URL + CSS selectors = RSS feed",
-      "https://feedmaker.fly.dev"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 20:25:14",
-      "https://news.ycombinator.com/item?id=45306120"
-    ],
-    [
-      "Show HN: WeUseElixir - Elixir project directory",
-      "https://weuseelixir.com/"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "Evals in 2025: benchmarks to build models people can use",
       "https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 22:53:44",
+      "https://news.ycombinator.com/item?id=45282411"
+    ],
+    [
+      "The Gentrification of Videogame History",
+      "https://felipepepe.medium.com/the-gentrification-of-video-game-history-dfe11f1e08ae"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "If all the world were a monorepo",
       "https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 22:34:15",
-      "https://news.ycombinator.com/item?id=45255785"
-    ],
-    [
-      "Internet Archive's big battle with music publishers ends in settlement",
-      "https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/"
     ]
   ]
 ]
