@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-20, 21:18:45](https://news.ycombinator.com/item?id=45317654) - [Invasive Israeli-founded bloatware is harvesting data from Samsung users in WANA](https://smex.org/invasive-israeli-software-is-harvesting-data-from-samsung-users-in-wana/)
+* [2025-09-20, 21:04:38](https://news.ycombinator.com/item?id=45317526) - [A brief history of threads and threading](https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/)
 * [2025-09-20, 20:00:11](https://news.ycombinator.com/item?id=45316833) - [Philips announces digital pathology scanner with native DICOM JPEG XL output](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html)
 * [2025-09-20, 19:51:36](https://news.ycombinator.com/item?id=45316744) - [A revolution in English bell ringing](https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/)
 * [2025-09-20, 19:01:30](https://news.ycombinator.com/item?id=45316266) - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
@@ -13,9 +15,7 @@
 * [2025-09-20, 13:51:12](https://news.ycombinator.com/item?id=45313418) - [Living microbial cement supercapacitors with reactivatable energy storage](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6)
 * [2025-09-20, 13:50:58](https://news.ycombinator.com/item?id=45313415) - [Vapor chamber tech keeps iPhone 17 Pro cool](https://spectrum.ieee.org/iphone-17-pro-vapor-chamber)
 * [2025-09-20, 13:27:29](https://news.ycombinator.com/item?id=45313194) - [Bezier Curve as Easing Function in C++](https://asawicki.info/news_1790_bezier_curve_as_easing_function_in_c)
-* [2025-09-20, 12:17:33](https://news.ycombinator.com/item?id=45312696) - [Git: Introduce Rust and announce it will become mandatory in the build system](https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/)
 * [2025-09-20, 11:50:15](https://news.ycombinator.com/item?id=45312515) - [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
-* [2025-09-20, 11:40:28](https://news.ycombinator.com/item?id=45312447) - [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc)
 * [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s phone is launched](https://furilabs.com/flx1s-is-launched/)
 * [2025-09-20, 06:37:01](https://news.ycombinator.com/item?id=45310995) - [PYREX vs. pyrex: What's the difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
 * [2025-09-20, 04:59:10](https://news.ycombinator.com/item?id=45310529) - [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/)
