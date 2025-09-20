@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 15:57:52](https://news.ycombinator.com/item?id=45314432) - [Are Touchscreens in Cars Dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
 * [2025-09-20, 15:26:50](https://news.ycombinator.com/item?id=45314157) - [These days, systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
 * [2025-09-20, 14:37:52](https://news.ycombinator.com/item?id=45313793) - [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
 * [2025-09-20, 14:12:30](https://news.ycombinator.com/item?id=45313597) - [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
 * [2025-09-20, 14:11:59](https://news.ycombinator.com/item?id=45313589) - [Embrace hope, reject assisted suicide](https://thecritic.co.uk/embrace-hope-reject-assisted-suicide/)
+* [2025-09-20, 14:08:24](https://news.ycombinator.com/item?id=45313557) - [Novelist Cormac McCarthy's tips on how to write a great science paper [pdf]](https://gwern.net/doc/science/2019-savage.pdf)
 * [2025-09-20, 14:06:44](https://news.ycombinator.com/item?id=45313547) - [The dawn of the post-literate society – and the end of civilisation](https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1)
 * [2025-09-20, 13:53:21](https://news.ycombinator.com/item?id=45313439) - [What Makes System Calls Expensive: A Linux Internals Deep Dive](https://blog.codingconfessions.com/p/what-makes-system-calls-expensive)
 * [2025-09-20, 13:51:12](https://news.ycombinator.com/item?id=45313418) - [Living microbial cement supercapacitors with reactivatable energy storage](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6)
