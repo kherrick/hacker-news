@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-20, 03:41:23",
+      "https://news.ycombinator.com/item?id=45310123"
+    ],
+    [
+      "Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First",
+      "https://arxiv.org/abs/2509.00997"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 02:11:18",
       "https://news.ycombinator.com/item?id=45309512"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-09-19, 14:43:50",
-      "https://news.ycombinator.com/item?id=45302222"
-    ],
-    [
-      "Revamping an Old TV as a Gift (2019)",
-      "https://blog.davidv.dev/posts/revamping-an-old-tv-as-a-gift/"
-    ]
-  ],
-  [
-    [
       "2025-09-19, 12:25:50",
       "https://news.ycombinator.com/item?id=45300865"
     ],
@@ -167,16 +167,6 @@
     [
       "Ruby Central's Attack on RubyGems [pdf]",
       "https://pup-e.com/goodbye-rubygems.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 05:49:08",
-      "https://news.ycombinator.com/item?id=45298336"
-    ],
-    [
-      "Nostr",
-      "https://nostr.com/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "R MCP Server",
       "https://github.com/finite-sample/rmcp"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 21:48:06",
+      "https://news.ycombinator.com/item?id=45268575"
+    ],
+    [
+      "Micro-LEDs boost random number generation",
+      "https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/"
     ]
   ],
   [
