@@ -2,7 +2,6 @@
 
 * [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s Is Launched](https://furilabs.com/flx1s-is-launched/)
 * [2025-09-20, 11:00:27](https://news.ycombinator.com/item?id=45312228) - [IG Nobel Prize Winners 2025](https://improbable.com/ig/winners/)
-* [2025-09-20, 10:22:49](https://news.ycombinator.com/item?id=45312031) - [For comedians around the world, the laughs often end as democracy fades](https://www.theguardian.com/world/2025/sep/19/for-comedians-around-the-world-the-laughs-often-end-as-democracy-fades)
 * [2025-09-20, 07:25:03](https://news.ycombinator.com/item?id=45311247) - [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
 * [2025-09-20, 06:59:54](https://news.ycombinator.com/item?id=45311115) - [LLM-Deflate: Extracting LLMs into Datasets](https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/)
 * [2025-09-20, 04:59:10](https://news.ycombinator.com/item?id=45310529) - [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/)
@@ -26,6 +25,7 @@
 * [2025-09-17, 03:56:39](https://news.ycombinator.com/item?id=45271493) - [Compiling with Continuations](https://swatson555.github.io/posts/2025-09-16-compiling-with-continuations.html)
 * [2025-09-17, 00:18:54](https://news.ycombinator.com/item?id=45270015) - [R MCP Server](https://github.com/finite-sample/rmcp)
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
+* [2025-09-16, 18:13:30](https://news.ycombinator.com/item?id=45265760) - [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html)
 * [2025-09-16, 18:08:01](https://news.ycombinator.com/item?id=45265688) - [Escapee pregnancy test frogs colonised Wales for 50 years](https://www.bbc.com/news/uk-wales-44886585)
 * [2025-09-16, 17:37:47](https://news.ycombinator.com/item?id=45265307) - [Sangaku Puzzle I Can't Solve](https://samjshah.com/2025/08/05/sangaku-puzzle-i-cant-solve/)
 * [2025-09-16, 08:33:45](https://news.ycombinator.com/item?id=45259623) - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
