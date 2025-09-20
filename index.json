@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-09-20, 16:12:56",
-      "https://news.ycombinator.com/item?id=45314592"
-    ],
-    [
-      "Seattle Ultrasonics: Ultrasonic Chef's Knife",
-      "https://seattleultrasonics.com/"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 15:57:52",
       "https://news.ycombinator.com/item?id=45314432"
     ],
@@ -177,6 +167,16 @@
     [
       "Less is safer: How Obsidian reduces the risk of supply chain attacks",
       "https://obsidian.md/blog/less-is-safer/"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 21:55:43",
+      "https://news.ycombinator.com/item?id=45307166"
+    ],
+    [
+      "Show HN: Zedis – A Redis clone I'm writing in Zig",
+      "https://github.com/barddoo/zedis"
     ]
   ],
   [
