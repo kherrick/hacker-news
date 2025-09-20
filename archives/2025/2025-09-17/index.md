@@ -36,6 +36,7 @@
 * [2025-09-17, 15:25:24](https://news.ycombinator.com/item?id=45276987) - [How to Motivate Yourself to Do a Thing You Don't Want to Do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/)
 * [2025-09-17, 15:14:15](https://news.ycombinator.com/item?id=45276851) - [Is Data Modeling Dead?](https://www.confessionsofadataguy.com/is-data-modeling-dead/)
 * [2025-09-17, 14:56:20](https://news.ycombinator.com/item?id=45276614) - [A single adblock filter may have caused YouTube's global view drop](https://github.com/easylist/easylist/issues/22375)
+* [2025-09-17, 14:46:18](https://news.ycombinator.com/item?id=45276501) - [Show HN: Math2Tex – Convert handwritten math and complex notes to LaTeX text](https://news.ycombinator.com/item?id=45276501)
 * [2025-09-17, 14:29:10](https://news.ycombinator.com/item?id=45276262) - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
 * [2025-09-17, 14:14:19](https://news.ycombinator.com/item?id=45276099) - [AI Coding: A Sober Review](https://www.ubicloud.com/blog/ai-coding-a-sober-review)
 * [2025-09-17, 14:02:29](https://news.ycombinator.com/item?id=45275973) - [UUIDv47: Store UUIDv7 in DB, emit UUIDv4 outside (SipHash-masked timestamp)](https://github.com/stateless-me/uuidv47)
