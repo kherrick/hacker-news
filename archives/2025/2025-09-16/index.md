@@ -42,6 +42,7 @@
 * [2025-09-16, 14:53:02](https://news.ycombinator.com/item?id=45263123) - [The Fisherman and His Wife (1857)](https://sites.pitt.edu/~dash/grimm019.html)
 * [2025-09-16, 14:48:37](https://news.ycombinator.com/item?id=45263063) - [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
 * [2025-09-16, 14:35:19](https://news.ycombinator.com/item?id=45262835) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
+* [2025-09-16, 14:32:45](https://news.ycombinator.com/item?id=45262787) - [Show HN: ModelKombat – arena-style battles for coding models](https://astra.hackerrank.com/model-kombat)
 * [2025-09-16, 14:18:19](https://news.ycombinator.com/item?id=45262582) - [Mother of All Demos](https://wordspike.com/s/5ip0xneiTsc)
 * [2025-09-16, 13:56:54](https://news.ycombinator.com/item?id=45262346) - [After escaping Russian energy dependence, Europe is locking itself in to US LNG](https://davekeating.substack.com/p/after-escaping-russian-energy-dependence)
 * [2025-09-16, 13:41:51](https://news.ycombinator.com/item?id=45262151) - [Implicit Ode Solvers Are Not Universally More Robust Than Explicit Ode Solvers](https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/)
