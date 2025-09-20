@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
 * [2025-09-20, 21:18:45](https://news.ycombinator.com/item?id=45317654) - [Invasive Israeli-founded bloatware is harvesting data from Samsung users in WANA](https://smex.org/invasive-israeli-software-is-harvesting-data-from-samsung-users-in-wana/)
+* [2025-09-20, 21:04:47](https://news.ycombinator.com/item?id=45317527) - [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/)
 * [2025-09-20, 21:04:38](https://news.ycombinator.com/item?id=45317526) - [A brief history of threads and threading](https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/)
+* [2025-09-20, 20:46:06](https://news.ycombinator.com/item?id=45317337) - [Homegrown digital road maps turn into lifelines for West Bank’s Palestinians](https://restofworld.org/2025/palestinians-digital-maps-west-bank-israel/)
 * [2025-09-20, 20:08:29](https://news.ycombinator.com/item?id=45316921) - [Starship will soon fly over towns and cities, but will dodge the biggest ones](https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/)
 * [2025-09-20, 20:00:11](https://news.ycombinator.com/item?id=45316833) - [Philips announces digital pathology scanner with native DICOM JPEG XL output](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html)
 * [2025-09-20, 19:51:36](https://news.ycombinator.com/item?id=45316744) - [A revolution in English bell ringing](https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/)
