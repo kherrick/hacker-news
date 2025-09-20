@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-09-20, 14:37:52",
-      "https://news.ycombinator.com/item?id=45313793"
-    ],
-    [
-      "Britain jumps into bed with Palantir in £1.5B defense pact",
-      "https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 14:12:30",
       "https://news.ycombinator.com/item?id=45313597"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45313557"
     ],
     [
-      "Novelist Cormac McCarthy's tips on how to write a great science paper [pdf]",
+      "Cormac McCarthy's tips on how to write a science paper (2019) [pdf]",
       "https://gwern.net/doc/science/2019-savage.pdf"
     ]
   ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2025-09-20, 04:13:17",
+      "https://news.ycombinator.com/item?id=45310294"
+    ],
+    [
+      "High-performance read-through cache for object storage",
+      "https://github.com/s2-streamstore/cachey"
+    ]
+  ],
+  [
+    [
       "2025-09-19, 22:02:29",
       "https://news.ycombinator.com/item?id=45307242"
     ],
@@ -147,6 +147,16 @@
     [
       "Show HN: Zedis – A Redis clone I'm writing in Zig",
       "https://github.com/barddoo/zedis"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 21:49:37",
+      "https://news.ycombinator.com/item?id=45307095"
+    ],
+    [
+      "Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration",
+      "https://www.codeintegrity.ai/blog/notion"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Evals in 2025: benchmarks to build models people can use",
       "https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 22:02:13",
-      "https://news.ycombinator.com/item?id=45281913"
-    ],
-    [
-      "Bosch Unveils New Brake Technology",
-      "https://thebrakereport.com/bosch-unveils-new-brake-technology-driving-future-automation/"
     ]
   ],
   [
