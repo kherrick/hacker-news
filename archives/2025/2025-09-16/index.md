@@ -41,6 +41,7 @@
 * [2025-09-16, 14:59:47](https://news.ycombinator.com/item?id=45263221) - [1975 Sep 16 MOS Technology samples 6502 at WESCON, here's how they designed it](https://www.EmbeddedRelated.com/showarticle/1453.php)
 * [2025-09-16, 14:53:02](https://news.ycombinator.com/item?id=45263123) - [The Fisherman and His Wife (1857)](https://sites.pitt.edu/~dash/grimm019.html)
 * [2025-09-16, 14:48:37](https://news.ycombinator.com/item?id=45263063) - [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
+* [2025-09-16, 14:47:24](https://news.ycombinator.com/item?id=45263035) - [I'm Not a Robot Game](https://neal.fun/not-a-robot/)
 * [2025-09-16, 14:35:19](https://news.ycombinator.com/item?id=45262835) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 * [2025-09-16, 14:32:45](https://news.ycombinator.com/item?id=45262787) - [Show HN: ModelKombat – arena-style battles for coding models](https://astra.hackerrank.com/model-kombat)
 * [2025-09-16, 14:18:19](https://news.ycombinator.com/item?id=45262582) - [Mother of All Demos](https://wordspike.com/s/5ip0xneiTsc)

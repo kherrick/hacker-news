@@ -9,7 +9,6 @@
 * [2025-09-19, 21:14:56](https://news.ycombinator.com/item?id=45306701) - [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 * [2025-09-19, 20:25:14](https://news.ycombinator.com/item?id=45306120) - [Show HN: WeUseElixir - Elixir project directory](https://weuseelixir.com/)
 * [2025-09-19, 19:59:33](https://news.ycombinator.com/item?id=45305845) - [Trump to impose $100k fee for H-1B worker visas, White House says](https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/)
-* [2025-09-19, 19:44:16](https://news.ycombinator.com/item?id=45305660) - [The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]](https://kevinbryanecon.com/BryanAIBookReview.pdf)
 * [2025-09-19, 19:03:02](https://news.ycombinator.com/item?id=45305180) - [Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease](https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/)
 * [2025-09-19, 18:15:18](https://news.ycombinator.com/item?id=45304706) - [An untidy history of AI across four books](https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity)
 * [2025-09-19, 17:43:33](https://news.ycombinator.com/item?id=45304379) - [Your very own humane interface: Try Jef Raskin's ideas at home](https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/)
@@ -28,6 +27,7 @@
 * [2025-09-17, 00:18:54](https://news.ycombinator.com/item?id=45270015) - [R MCP Server](https://github.com/finite-sample/rmcp)
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
 * [2025-09-16, 18:13:30](https://news.ycombinator.com/item?id=45265760) - [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html)
+* [2025-09-16, 14:47:24](https://news.ycombinator.com/item?id=45263035) - [I'm Not a Robot Game](https://neal.fun/not-a-robot/)
 * [2025-09-16, 08:33:45](https://news.ycombinator.com/item?id=45259623) - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 * [2025-09-15, 22:34:15](https://news.ycombinator.com/item?id=45255785) - [Internet Archive's big battle with music publishers ends in settlement](https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/)
 
