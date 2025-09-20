@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-09-20, 13:50:58",
+      "https://news.ycombinator.com/item?id=45313415"
+    ],
+    [
+      "Vapor Chamber Tech Keeps iPhone 17 Pro Cool",
+      "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 13:27:29",
       "https://news.ycombinator.com/item?id=45313194"
     ],
@@ -127,16 +137,6 @@
     [
       "LLM-Deflate: Extracting LLMs into Datasets",
       "https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 04:13:17",
-      "https://news.ycombinator.com/item?id=45310294"
-    ],
-    [
-      "High-performance read-through cache for object storage",
-      "https://github.com/s2-streamstore/cachey"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2025-09-17, 14:46:18",
+      "https://news.ycombinator.com/item?id=45276501"
+    ],
+    [
+      "Show HN: Math2Tex – Convert handwritten math and complex notes to LaTeX text",
+      "https://news.ycombinator.com/item?id=45276501"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 12:30:58",
       "https://news.ycombinator.com/item?id=45275058"
     ],
     [
       "Claude Can (Sometimes) Prove It",
       "https://www.galois.com/articles/claude-can-sometimes-prove-it"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 03:56:39",
-      "https://news.ycombinator.com/item?id=45271493"
-    ],
-    [
-      "Compiling with Continuations",
-      "https://swatson555.github.io/posts/2025-09-16-compiling-with-continuations.html"
     ]
   ],
   [
