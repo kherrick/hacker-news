@@ -2,6 +2,7 @@
 
 * [2025-09-20, 04:13:17](https://news.ycombinator.com/item?id=45310294) - [High-performance read-through cache for object storage](https://github.com/s2-streamstore/cachey)
 * [2025-09-20, 03:41:23](https://news.ycombinator.com/item?id=45310123) - [Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First](https://arxiv.org/abs/2509.00997)
+* [2025-09-20, 01:55:43](https://news.ycombinator.com/item?id=45309355) - [Grok 4 Fast](https://x.ai/news/grok-4-fast)
 * [2025-09-19, 22:02:29](https://news.ycombinator.com/item?id=45307242) - [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
 * [2025-09-19, 21:55:43](https://news.ycombinator.com/item?id=45307166) - [Show HN: Zedis – A Redis clone I'm writing in Zig](https://github.com/barddoo/zedis)
 * [2025-09-19, 21:49:37](https://news.ycombinator.com/item?id=45307095) - [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
@@ -28,7 +29,6 @@
 * [2025-09-16, 21:48:06](https://news.ycombinator.com/item?id=45268575) - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
 * [2025-09-16, 18:13:30](https://news.ycombinator.com/item?id=45265760) - [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html)
 * [2025-09-16, 08:33:45](https://news.ycombinator.com/item?id=45259623) - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
-* [2025-09-16, 04:29:16](https://news.ycombinator.com/item?id=45258029) - [Safepoints and Fil-C](https://fil-c.org/safepoints)
 * [2025-09-15, 22:34:15](https://news.ycombinator.com/item?id=45255785) - [Internet Archive's big battle with music publishers ends in settlement](https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/)
 
 ## [Archives](archives/index.md)
