@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-20, 13:18:16](https://news.ycombinator.com/item?id=45313127) - [China's 200M gig workers are a warning for the world](https://www.economist.com/leaders/2025/09/18/chinas-200m-gig-workers-are-a-warning-for-the-world)
-* [2025-09-20, 12:40:34](https://news.ycombinator.com/item?id=45312877) - [Visa holders on vacation have 15 hours to return to US or pay $100k fee](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-has-a-24-hour-deadline-warning-for-indian-and-other-foreign-employees-after-h1-b-visa-fees-hike-to-100000-strongly-recommend-h1b-visa-holders-/articleshow/124010245.cms)
 * [2025-09-20, 12:17:33](https://news.ycombinator.com/item?id=45312696) - [Git: Introduce Rust and announce that it will become mandatorty](https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/)
 * [2025-09-20, 11:50:15](https://news.ycombinator.com/item?id=45312515) - [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
 * [2025-09-20, 11:49:37](https://news.ycombinator.com/item?id=45312513) - [Czech founding father Masaryk's message revealed in long-sealed envelope](https://www.nbcnews.com/world/europe/masaryk-message-revealed-envelope-czech-founding-father-rcna232353)
@@ -22,6 +21,7 @@
 * [2025-09-19, 15:29:25](https://news.ycombinator.com/item?id=45302721) - [Kernel: Introduce Multikernel Architecture Support](https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/)
 * [2025-09-19, 12:25:50](https://news.ycombinator.com/item?id=45300865) - [Ants that seem to defy biology – They lay eggs that hatch into another species](https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/)
 * [2025-09-19, 12:20:10](https://news.ycombinator.com/item?id=45300810) - [The best YouTube downloaders, and how Google silenced the press](https://windowsread.me/p/best-youtube-downloaders)
+* [2025-09-18, 20:11:29](https://news.ycombinator.com/item?id=45294390) - [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
 * [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World Map in Terminal](https://github.com/rastapasta/mapscii)
 * [2025-09-18, 09:22:39](https://news.ycombinator.com/item?id=45287474) - [SCREAM CIPHER (\"ǠĂȦẶAẦ ĂǍÄẴẶȦ\")](https://sethmlarson.dev/scream-cipher)
 * [2025-09-17, 12:30:58](https://news.ycombinator.com/item?id=45275058) - [Claude Can (Sometimes) Prove It](https://www.galois.com/articles/claude-can-sometimes-prove-it)
