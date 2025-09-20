@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 04:13:17](https://news.ycombinator.com/item?id=45310294) - [High-performance read-through cache for object storage](https://github.com/s2-streamstore/cachey)
 * [2025-09-20, 04:07:12](https://news.ycombinator.com/item?id=45310276) - [MCP Server Could Have Been a JSON File](https://materializedview.io/p/mcp-server-could-have-been-json-file)
 * [2025-09-20, 03:41:23](https://news.ycombinator.com/item?id=45310123) - [Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First](https://arxiv.org/abs/2509.00997)
 * [2025-09-20, 02:38:44](https://news.ycombinator.com/item?id=45309740) - [The H-1B Visa Program and Its Impact on the U.S. Economy](https://www.americanimmigrationcouncil.org/fact-sheet/h1b-visa-program-fact-sheet/)
