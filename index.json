@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-09-20, 15:26:50",
-      "https://news.ycombinator.com/item?id=45314157"
-    ],
-    [
-      "These days, systemd can be a cause of restrictions on daemons",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 14:37:52",
       "https://news.ycombinator.com/item?id=45313793"
     ],
@@ -127,6 +117,16 @@
     [
       "LLM-Deflate: Extracting LLMs into Datasets",
       "https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 04:13:17",
+      "https://news.ycombinator.com/item?id=45310294"
+    ],
+    [
+      "High-performance read-through cache for object storage",
+      "https://github.com/s2-streamstore/cachey"
     ]
   ],
   [
