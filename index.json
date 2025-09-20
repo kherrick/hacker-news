@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-20, 20:00:11",
+      "https://news.ycombinator.com/item?id=45316833"
+    ],
+    [
+      "Philips announces digital pathology scanner with native DICOM JPEG XL output",
+      "https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 19:35:32",
+      "https://news.ycombinator.com/item?id=45316571"
+    ],
+    [
+      "Tariffs make it harder to justify US investments, automakers and suppliers warn",
+      "https://www.autonews.com/manufacturing/an-trump-tariffs-suppliers-automaker-letter-mbs-0919/"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 19:01:30",
       "https://news.ycombinator.com/item?id=45316266"
     ],
@@ -17,6 +37,16 @@
     [
       "TV Time Machine: A Raspberry Pi That Plays Random 90s TV",
       "https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 18:58:13",
+      "https://news.ycombinator.com/item?id=45316226"
+    ],
+    [
+      "New H-1B visa fee will not apply to existing holders, official says",
+      "https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-09-20, 11:40:28",
-      "https://news.ycombinator.com/item?id=45312447"
-    ],
-    [
-      "Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery",
-      "https://www.isct.ac.jp/en/news/okmktjxyrvdc"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 11:20:04",
       "https://news.ycombinator.com/item?id=45312326"
     ],
@@ -187,16 +207,6 @@
     [
       "PYREX vs. pyrex: What's the difference?",
       "https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 04:59:10",
-      "https://news.ycombinator.com/item?id=45310529"
-    ],
-    [
-      "If you are good at code review, you will be good at using AI agents",
-      "https://www.seangoedecke.com/ai-agents-and-code-review/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I'm Not a Robot",
       "https://neal.fun/not-a-robot/"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 08:33:45",
-      "https://news.ycombinator.com/item?id=45259623"
-    ],
-    [
-      "If all the world were a monorepo",
-      "https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo"
     ]
   ]
 ]
