@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-20, 06:09:37](https://news.ycombinator.com/item?id=45310867) - [Oklahoma's \"TV nudes\" scandal was Jackie Chan movie on Samsung streaming service](https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/)
 * [2025-09-20, 04:13:17](https://news.ycombinator.com/item?id=45310294) - [High-performance read-through cache for object storage](https://github.com/s2-streamstore/cachey)
 * [2025-09-20, 03:41:23](https://news.ycombinator.com/item?id=45310123) - [Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First](https://arxiv.org/abs/2509.00997)
 * [2025-09-20, 01:55:43](https://news.ycombinator.com/item?id=45309355) - [Grok 4 Fast](https://x.ai/news/grok-4-fast)
@@ -20,7 +21,6 @@
 * [2025-09-18, 20:11:29](https://news.ycombinator.com/item?id=45294390) - [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
 * [2025-09-18, 16:20:46](https://news.ycombinator.com/item?id=45291538) - [Faster Argmin on Floats](https://algorithmiker.github.io/faster-float-argmin/)
 * [2025-09-18, 00:04:35](https://news.ycombinator.com/item?id=45283074) - [Xmonad seeking help for Wayland port (2023)](https://xmonad.org/news/2023/10/06/wayland.html)
-* [2025-09-17, 23:04:21](https://news.ycombinator.com/item?id=45282504) - [Mini: Tonemaps (2023)](https://mini.gmshaders.com/p/tonemaps)
 * [2025-09-17, 16:24:14](https://news.ycombinator.com/item?id=45277900) - [A 3D-Printed Business Card Embosser](https://www.core77.com/posts/138492/A-3D-Printed-Business-Card-Embosser)
 * [2025-09-17, 03:56:39](https://news.ycombinator.com/item?id=45271493) - [Compiling with Continuations](https://swatson555.github.io/posts/2025-09-16-compiling-with-continuations.html)
 * [2025-09-17, 02:59:13](https://news.ycombinator.com/item?id=45271108) - [Starfront Observatories](https://starfront.space/)
