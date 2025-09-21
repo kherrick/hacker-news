@@ -1,12 +1,82 @@
 [
   [
     [
+      "2025-09-21, 16:17:07",
+      "https://news.ycombinator.com/item?id=45324021"
+    ],
+    [
+      "Linux Ready to Upstream Support for Google's PSP Encryption for TCP Connections",
+      "https://www.phoronix.com/news/PSP-Encryption-Linux-6.18"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 16:03:27",
+      "https://news.ycombinator.com/item?id=45323901"
+    ],
+    [
+      "Review: Project Xanadu – The Internet That Might Have Been",
+      "https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 15:57:49",
+      "https://news.ycombinator.com/item?id=45323856"
+    ],
+    [
+      "LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain",
+      "https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 15:51:03",
+      "https://news.ycombinator.com/item?id=45323793"
+    ],
+    [
+      "Oxford loses top 3 university ranking for the first time",
+      "https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 15:29:41",
+      "https://news.ycombinator.com/item?id=45323623"
+    ],
+    [
+      "How far can you go by train in 5 hours? (interactive map)",
+      "https://old.chronotrains.com"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 15:29:01",
+      "https://news.ycombinator.com/item?id=45323619"
+    ],
+    [
+      "A C library offering generic, contiguous dynamic arrays with O(1) amortized push",
+      "https://github.com/L-A-Marchetti/Vec"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 14:55:20",
       "https://news.ycombinator.com/item?id=45323297"
     ],
     [
       "How to Stop Functional Programming",
       "https://brianmckenna.org/blog/howtostopfp"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 14:45:50",
+      "https://news.ycombinator.com/item?id=45323207"
+    ],
+    [
+      "DXGI debugging: Microsoft put me on a list",
+      "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/"
     ]
   ],
   [
@@ -31,11 +101,21 @@
   ],
   [
     [
+      "2025-09-21, 14:00:16",
+      "https://news.ycombinator.com/item?id=45322819"
+    ],
+    [
+      "I forced myself to spend a week in Instagram instead of Xcode",
+      "https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 13:37:13",
       "https://news.ycombinator.com/item?id=45322623"
     ],
     [
-      "Disk Utility still can't check and repair APFS volumes and containers",
+      "Disk Utility still can't check and repair APFS volumes and containers (2021)",
       "https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/"
     ]
   ],
@@ -121,16 +201,6 @@
   ],
   [
     [
-      "2025-09-21, 00:06:38",
-      "https://news.ycombinator.com/item?id=45318798"
-    ],
-    [
-      "In defence of swap: common misconceptions (2018)",
-      "https://chrisdown.name/2018/01/02/in-defence-of-swap.html"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 21:04:47",
       "https://news.ycombinator.com/item?id=45317527"
     ],
@@ -191,36 +261,6 @@
   ],
   [
     [
-      "2025-09-18, 18:12:58",
-      "https://news.ycombinator.com/item?id=45293012"
-    ],
-    [
-      "MapSCII – World map in terminal",
-      "https://github.com/rastapasta/mapscii"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 18:05:58",
-      "https://news.ycombinator.com/item?id=45292915"
-    ],
-    [
-      "Lidar, optical distance and time of flight sensors",
-      "https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 17:24:22",
-      "https://news.ycombinator.com/item?id=45292404"
-    ],
-    [
-      "Newton for Ladies (1737) – Newtonianism vs. Cartesianism",
-      "https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/exhibitions-archive/newton-and-newtonianism/ladies"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 14:45:01",
       "https://news.ycombinator.com/item?id=45290358"
     ],
@@ -241,16 +281,6 @@
   ],
   [
     [
-      "2025-09-18, 09:22:39",
-      "https://news.ycombinator.com/item?id=45287474"
-    ],
-    [
-      "Scream cipher",
-      "https://sethmlarson.dev/scream-cipher"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 06:43:41",
       "https://news.ycombinator.com/item?id=45286302"
     ],
@@ -267,36 +297,6 @@
     [
       "Why, as a responsible adult, SimCity 2000 hits differently",
       "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 01:07:26",
-      "https://news.ycombinator.com/item?id=45283637"
-    ],
-    [
-      "Learning Languages with the Help of Algorithms",
-      "https://www.johndcook.com/blog/2025/09/17/learning-languages-with-the-help-of-algorithms/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 15:30:51",
-      "https://news.ycombinator.com/item?id=45277052"
-    ],
-    [
-      "Knitted Anatomy",
-      "https://www.knitted-anatomy.at/cardiovascular-system/"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 18:08:01",
-      "https://news.ycombinator.com/item?id=45265688"
-    ],
-    [
-      "Escapee pregnancy test frogs colonised Wales for 50 years (2019)",
-      "https://www.bbc.com/news/uk-wales-44886585"
     ]
   ]
 ]
