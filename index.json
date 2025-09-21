@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2025-09-21, 20:20:04",
+      "https://news.ycombinator.com/item?id=45326294"
+    ],
+    [
+      "I created a bouncing DVD screensaver for your terminal",
+      "https://github.com/integrii/dvd"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 20:12:21",
       "https://news.ycombinator.com/item?id=45326230"
     ],
     [
       "Rail travel is booming in America",
       "https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 18:37:04",
+      "https://news.ycombinator.com/item?id=45325410"
+    ],
+    [
+      "Bringing Observability to Claude Code: OpenTelemetry in Action",
+      "https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/"
     ]
   ],
   [
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=45323027"
     ],
     [
-      "The Beginner's Textbook for Homomorphic Encryption",
+      "Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)",
       "https://arxiv.org/abs/2503.05136"
     ]
   ],
@@ -137,16 +157,6 @@
     [
       "I forced myself to spend a week in Instagram instead of Xcode",
       "https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 13:37:13",
-      "https://news.ycombinator.com/item?id=45322623"
-    ],
-    [
-      "Disk Utility still can't check and repair APFS volumes and containers (2021)",
-      "https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "INapGPU: Text-mode graphics card, using only TTL gates",
       "https://github.com/Leoneq/iNapGPU"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 04:26:41",
-      "https://news.ycombinator.com/item?id=45285387"
-    ],
-    [
-      "Why, as a responsible adult, SimCity 2000 hits differently",
-      "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/"
     ]
   ]
 ]
