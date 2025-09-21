@@ -75,6 +75,7 @@
 * [2025-09-17, 02:59:13](https://news.ycombinator.com/item?id=45271108) - [Starfront Observatories](https://starfront.space/)
 * [2025-09-17, 02:39:19](https://news.ycombinator.com/item?id=45270981) - [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
 * [2025-09-17, 02:37:09](https://news.ycombinator.com/item?id=45270965) - [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
+* [2025-09-17, 02:23:10](https://news.ycombinator.com/item?id=45270861) - [Hyperion: Minecraft game engine for custom events](https://hyperion.rs/)
 * [2025-09-17, 01:57:58](https://news.ycombinator.com/item?id=45270676) - [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)
 * [2025-09-17, 01:53:47](https://news.ycombinator.com/item?id=45270649) - [I got the highest score on ARC-AGI again swapping Python for English](https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again)
 * [2025-09-17, 01:47:59](https://news.ycombinator.com/item?id=45270610) - [September 15, 2025: The Day the Industry Admitted AI Subscriptions Don't Work](https://blog.kilocode.ai/p/why-ai-subscriptions-cannot-work)
