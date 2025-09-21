@@ -8,7 +8,6 @@
 * [2025-09-21, 02:23:59](https://news.ycombinator.com/item?id=45319463) - [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/)
 * [2025-09-21, 02:09:43](https://news.ycombinator.com/item?id=45319399) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
 * [2025-09-21, 00:06:38](https://news.ycombinator.com/item?id=45318798) - [In defence of swap: common misconceptions (2018)](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
-* [2025-09-20, 23:29:57](https://news.ycombinator.com/item?id=45318559) - [Teen suspect surrenders in 2023 Las Vegas casino cyberattack case](https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/)
 * [2025-09-20, 21:04:47](https://news.ycombinator.com/item?id=45317527) - [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/)
 * [2025-09-20, 21:04:38](https://news.ycombinator.com/item?id=45317526) - [A brief history of threads and threading](https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/)
 * [2025-09-20, 19:51:36](https://news.ycombinator.com/item?id=45316744) - [A revolution in English bell ringing](https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/)
@@ -29,6 +28,7 @@
 * [2025-09-18, 01:07:26](https://news.ycombinator.com/item?id=45283637) - [Learning Languages with the Help of Algorithms](https://www.johndcook.com/blog/2025/09/17/learning-languages-with-the-help-of-algorithms/)
 * [2025-09-17, 15:30:51](https://news.ycombinator.com/item?id=45277052) - [Knitted Anatomy](https://www.knitted-anatomy.at/cardiovascular-system/)
 * [2025-09-17, 05:39:10](https://news.ycombinator.com/item?id=45272147) - [Slavery After Abolition: Revolt on the Amelia](https://www.historytoday.com/archive/feature/slavery-after-abolition-revolt-amelia)
+* [2025-09-17, 05:22:21](https://news.ycombinator.com/item?id=45272022) - [Solving a wooden puzzle using Haskell](https://glocq.github.io/en/blog/20250428/)
 * [2025-09-16, 18:08:01](https://news.ycombinator.com/item?id=45265688) - [Escapee pregnancy test frogs colonised Wales for 50 years (2019)](https://www.bbc.com/news/uk-wales-44886585)
 
 ## [Archives](archives/index.md)
