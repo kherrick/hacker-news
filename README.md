@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-21, 17:42:22](https://news.ycombinator.com/item?id=45324958) - [Modern life makes us sick](https://www.theguardian.com/books/2025/sep/21/how-modern-life-makes-us-sick-and-what-to-do-about-it)
 * [2025-09-21, 16:45:06](https://news.ycombinator.com/item?id=45324365) - [The link between trauma, drug use, and our search to feel better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
 * [2025-09-21, 16:44:45](https://news.ycombinator.com/item?id=45324361) - [President Trump Signs Technology Prosperity Deal with United Kingdom](https://www.whitehouse.gov/articles/2025/09/president-trump-signs-technology-prosperity-deal-with-united-kingdom/)
 * [2025-09-21, 16:43:48](https://news.ycombinator.com/item?id=45324350) - [Liberté, égalité, Radioactivité](https://worksinprogress.co/issue/liberte-egalite-radioactivite/)
 * [2025-09-21, 16:43:45](https://news.ycombinator.com/item?id=45324349) - [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
+* [2025-09-21, 16:43:19](https://news.ycombinator.com/item?id=45324343) - [Google/timesketch: Collaborative forensic timeline analysis](https://github.com/google/timesketch)
 * [2025-09-21, 16:17:07](https://news.ycombinator.com/item?id=45324021) - [Linux Ready to Upstream Support for Google's PSP Encryption for TCP Connections](https://www.phoronix.com/news/PSP-Encryption-Linux-6.18)
 * [2025-09-21, 16:03:27](https://news.ycombinator.com/item?id=45323901) - [Review: Project Xanadu – The Internet That Might Have Been](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet)
 * [2025-09-21, 16:00:06](https://news.ycombinator.com/item?id=45323875) - [Show HN: Freeing GPUs stuck by runaway jobs](https://github.com/kagehq/gpu-kill)
@@ -20,7 +22,6 @@
 * [2025-09-21, 12:15:11](https://news.ycombinator.com/item?id=45322050) - [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company)
 * [2025-09-21, 03:46:07](https://news.ycombinator.com/item?id=45319876) - [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
 * [2025-09-21, 03:09:47](https://news.ycombinator.com/item?id=45319690) - [iFixit iPhone Air teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
-* [2025-09-21, 02:09:43](https://news.ycombinator.com/item?id=45319399) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
 * [2025-09-21, 00:56:59](https://news.ycombinator.com/item?id=45319062) - [AI was supposed to help juniors shine. why does it mostly make seniors stronger?](https://elma.dev/notes/ai-makes-seniors-stronger/)
 * [2025-09-20, 21:04:47](https://news.ycombinator.com/item?id=45317527) - [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/)
 * [2025-09-20, 16:12:56](https://news.ycombinator.com/item?id=45314592) - [Ultrasonic Chef's Knife](https://seattleultrasonics.com/)
@@ -29,7 +30,6 @@
 * [2025-09-18, 16:59:50](https://news.ycombinator.com/item?id=45292084) - [How Isaac Newton Discovered the Binomial Power Series (2022)](https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/)
 * [2025-09-18, 14:45:01](https://news.ycombinator.com/item?id=45290358) - [Hi No Youjin](https://aethermug.com/posts/hi-no-youjin)
 * [2025-09-18, 13:04:27](https://news.ycombinator.com/item?id=45289150) - [Teardown of Apple 40W dynamic power adapter with 60W max](https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/)
-* [2025-09-18, 06:43:41](https://news.ycombinator.com/item?id=45286302) - [Gluco data handler: Receive and visualize glucose data on Android](https://github.com/pachi81/GlucoDataHandler)
 
 ## [Archives](archives/index.md)
 
