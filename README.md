@@ -21,6 +21,7 @@
 * [2025-09-21, 03:09:47](https://news.ycombinator.com/item?id=45319690) - [iFixit iPhone Air teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
 * [2025-09-21, 00:56:59](https://news.ycombinator.com/item?id=45319062) - [AI was supposed to help juniors shine. Why does it mostly make seniors stronger?](https://elma.dev/notes/ai-makes-seniors-stronger/)
 * [2025-09-20, 21:04:47](https://news.ycombinator.com/item?id=45317527) - [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/)
+* [2025-09-20, 11:19:37](https://news.ycombinator.com/item?id=45312323) - [Node 20 will be deprecated on GitHub Actions runners](https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/)
 * [2025-09-20, 10:55:53](https://news.ycombinator.com/item?id=45312202) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3](https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html)
 * [2025-09-20, 07:52:48](https://news.ycombinator.com/item?id=45311360) - [The Counterclockwise Experiment](https://domofutu.substack.com/p/the-counterclockwise-experiment)
 * [2025-09-18, 21:59:54](https://news.ycombinator.com/item?id=45295538) - [A coin flip by any other name (2023)](https://cgad.ski/blog/a-coin-flip-by-any-other-name.html)
@@ -29,7 +30,6 @@
 * [2025-09-18, 15:05:12](https://news.ycombinator.com/item?id=45290590) - [Show HN: I wrote an OS in 1000 lines of Zig](https://github.com/botirk38/OS-1000-lines-zig)
 * [2025-09-18, 07:27:22](https://news.ycombinator.com/item?id=45286622) - [40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language](https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html)
 * [2025-09-18, 04:53:03](https://news.ycombinator.com/item?id=45285562) - [INapGPU: Text-mode graphics card, using only TTL gates](https://github.com/Leoneq/iNapGPU)
-* [2025-09-18, 04:26:41](https://news.ycombinator.com/item?id=45285387) - [Why, as a responsible adult, SimCity 2000 hits differently](https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/)
 
 ## [Archives](archives/index.md)
 
