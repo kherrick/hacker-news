@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 15:09:16](https://news.ycombinator.com/item?id=45323429) - [4Chan, MAGAs unite in 'clog the toilet' op to block H-1B workers flying back](https://www.indiatoday.in/india/story/h1b-visa-flight-fares-surge-india-us-4chan-blocks-bookings-trump-order-2790740-2025-09-21)
+* [2025-09-21, 14:55:20](https://news.ycombinator.com/item?id=45323297) - [How to Stop Functional Programming](https://brianmckenna.org/blog/howtostopfp)
 * [2025-09-21, 14:43:21](https://news.ycombinator.com/item?id=45323187) - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
 * [2025-09-21, 14:24:09](https://news.ycombinator.com/item?id=45323008) - [UUIDv7 in Postgres 18. With time extraction](https://www.thenile.dev/blog/uuidv7)
 * [2025-09-21, 14:13:06](https://news.ycombinator.com/item?id=45322919) - [UK, Candada and Australia formally recognize Palestinian state](https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live)
 * [2025-09-21, 13:37:13](https://news.ycombinator.com/item?id=45322623) - [Disk Utility still can't check and repair APFS volumes and containers](https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/)
+* [2025-09-21, 13:00:40](https://news.ycombinator.com/item?id=45322328) - [Sequoia: Rust OpenPGP Implementation](https://gitlab.com/sequoia-pgp/sequoia)
 * [2025-09-21, 12:31:57](https://news.ycombinator.com/item?id=45322135) - [Why your outdoorsy friend suddenly has a gummy bear power bank](https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank)
 * [2025-09-21, 12:24:31](https://news.ycombinator.com/item?id=45322101) - [That DEA agent's 'credit card' could be eavesdropping on you](https://www.independent.co.uk/news/world/americas/dea-surveillance-hidden-cameras-federal-law-enforcement-b2828606.html)
 * [2025-09-21, 12:15:11](https://news.ycombinator.com/item?id=45322050) - [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company)
