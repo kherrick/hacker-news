@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-09-20, 11:19:37",
+      "https://news.ycombinator.com/item?id=45312323"
+    ],
+    [
+      "Node 20 will be deprecated on GitHub Actions runners",
+      "https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 10:55:53",
       "https://news.ycombinator.com/item?id=45312202"
     ],
@@ -287,16 +297,6 @@
     [
       "INapGPU: Text-mode graphics card, using only TTL gates",
       "https://github.com/Leoneq/iNapGPU"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 04:26:41",
-      "https://news.ycombinator.com/item?id=45285387"
-    ],
-    [
-      "Why, as a responsible adult, SimCity 2000 hits differently",
-      "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/"
     ]
   ]
 ]
