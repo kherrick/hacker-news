@@ -10,6 +10,7 @@
 * [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
 * [2025-09-18, 22:37:44](https://news.ycombinator.com/item?id=45295878) - [Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem](https://github.com/NVIDIA/nvmath-python)
 * [2025-09-18, 22:27:17](https://news.ycombinator.com/item?id=45295794) - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
+* [2025-09-18, 22:08:21](https://news.ycombinator.com/item?id=45295610) - [The dead weight loss of strictly isotonic regression](https://www.gojiberries.io/calibration/)
 * [2025-09-18, 21:54:06](https://news.ycombinator.com/item?id=45295482) - [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
 * [2025-09-18, 21:53:03](https://news.ycombinator.com/item?id=45295475) - [Mesda Craftsman Database](http://test0.dlibrary.org/en/nodes/4066-craftsman-database)
 * [2025-09-18, 21:43:10](https://news.ycombinator.com/item?id=45295388) - [Returning to Church won't save us from nihilism](https://thereader.mitpress.mit.edu/returning-to-church-wont-save-us-from-nihilism/)
