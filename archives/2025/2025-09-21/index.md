@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 21:18:14](https://news.ycombinator.com/item?id=45326740) - [Lightweight, highly accurate line and paragraph detection](https://arxiv.org/abs/2203.09638)
+* [2025-09-21, 21:11:57](https://news.ycombinator.com/item?id=45326690) - [Procedural Island Generation (VI)](https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html)
 * [2025-09-21, 20:35:14](https://news.ycombinator.com/item?id=45326388) - [Apple Silicon GPU Support in Mojo](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295)
 * [2025-09-21, 20:12:21](https://news.ycombinator.com/item?id=45326230) - [Rail travel is booming in America](https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america)
 * [2025-09-21, 18:37:04](https://news.ycombinator.com/item?id=45325410) - [Bringing Observability to Claude Code: OpenTelemetry in Action](https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/)

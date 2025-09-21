@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-21, 21:18:14](https://news.ycombinator.com/item?id=45326740) - [Lightweight, highly accurate line and paragraph detection](https://arxiv.org/abs/2203.09638)
+* [2025-09-21, 21:11:57](https://news.ycombinator.com/item?id=45326690) - [Procedural Island Generation (VI)](https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html)
 * [2025-09-21, 20:35:14](https://news.ycombinator.com/item?id=45326388) - [Apple Silicon GPU Support in Mojo](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295)
 * [2025-09-21, 20:12:21](https://news.ycombinator.com/item?id=45326230) - [Rail travel is booming in America](https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america)
 * [2025-09-21, 16:45:06](https://news.ycombinator.com/item?id=45324365) - [The link between trauma, drug use, and our search to feel better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
@@ -9,7 +11,6 @@
 * [2025-09-21, 15:57:49](https://news.ycombinator.com/item?id=45323856) - [LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain](https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions)
 * [2025-09-21, 15:51:03](https://news.ycombinator.com/item?id=45323793) - [The University of Oxford has fallen out of the top three universities in the UK](https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/)
 * [2025-09-21, 14:45:50](https://news.ycombinator.com/item?id=45323207) - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/)
-* [2025-09-21, 14:43:21](https://news.ycombinator.com/item?id=45323187) - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
 * [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-21, 14:22:10](https://news.ycombinator.com/item?id=45322992) - [Extrachromosomal DNA–Driven Oncogene Evolution in Glioblastoma](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1555/764257/Extrachromosomal-DNA-Driven-Oncogene-Spatial)
 * [2025-09-21, 14:00:16](https://news.ycombinator.com/item?id=45322819) - [I forced myself to spend a week in Instagram instead of Xcode](https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in)
@@ -26,7 +27,6 @@
 * [2025-09-18, 16:59:50](https://news.ycombinator.com/item?id=45292084) - [How Isaac Newton discovered the binomial power series (2022)](https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/)
 * [2025-09-18, 15:05:12](https://news.ycombinator.com/item?id=45290590) - [Show HN: I wrote an OS in 1000 lines of Zig](https://github.com/botirk38/OS-1000-lines-zig)
 * [2025-09-18, 14:45:01](https://news.ycombinator.com/item?id=45290358) - [Hi No Youjin](https://aethermug.com/posts/hi-no-youjin)
-* [2025-09-18, 13:04:27](https://news.ycombinator.com/item?id=45289150) - [Teardown of Apple 40W dynamic power adapter with 60W max](https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/)
 * [2025-09-18, 07:27:22](https://news.ycombinator.com/item?id=45286622) - [40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language](https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html)
 * [2025-09-18, 04:53:03](https://news.ycombinator.com/item?id=45285562) - [INapGPU: Text-mode graphics card, using only TTL gates](https://github.com/Leoneq/iNapGPU)
 * [2025-09-18, 04:26:41](https://news.ycombinator.com/item?id=45285387) - [Why, as a responsible adult, SimCity 2000 hits differently](https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/)
