@@ -80,6 +80,7 @@
 * [2025-09-18, 06:43:41](https://news.ycombinator.com/item?id=45286302) - [Gluco data handler: Receive and visualize glucose data on Android](https://github.com/pachi81/GlucoDataHandler)
 * [2025-09-18, 05:27:01](https://news.ycombinator.com/item?id=45285780) - [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
 * [2025-09-18, 05:16:48](https://news.ycombinator.com/item?id=45285711) - [Evals in 2025: benchmarks to build models people can use](https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md)
+* [2025-09-18, 04:53:03](https://news.ycombinator.com/item?id=45285562) - [INapGPU: Text-mode graphics card, using only TTL gates](https://github.com/Leoneq/iNapGPU)
 * [2025-09-18, 04:26:41](https://news.ycombinator.com/item?id=45285387) - [Why, as a responsible adult, SimCity 2000 hits differently](https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/)
 * [2025-09-18, 04:07:06](https://news.ycombinator.com/item?id=45285253) - [ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments After FCC Pressure](https://www.nytimes.com/2025/09/17/business/media/abc-jimmy-kimmel.html)
 * [2025-09-18, 03:06:08](https://news.ycombinator.com/item?id=45284766) - [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)

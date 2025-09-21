@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 20:35:14](https://news.ycombinator.com/item?id=45326388) - [Apple Silicon GPU Support in Mojo](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295)
+* [2025-09-21, 20:12:21](https://news.ycombinator.com/item?id=45326230) - [Rail travel is booming in America](https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america)
 * [2025-09-21, 17:42:22](https://news.ycombinator.com/item?id=45324958) - [Modern life makes us sick](https://www.theguardian.com/books/2025/sep/21/how-modern-life-makes-us-sick-and-what-to-do-about-it)
 * [2025-09-21, 16:45:06](https://news.ycombinator.com/item?id=45324365) - [The Link Between Trauma, Drug Use, and Our Search to Feel Better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
 * [2025-09-21, 16:44:45](https://news.ycombinator.com/item?id=45324361) - [President Trump Signs Technology Prosperity Deal with United Kingdom](https://www.whitehouse.gov/articles/2025/09/president-trump-signs-technology-prosperity-deal-with-united-kingdom/)
