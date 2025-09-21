@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-21, 02:28:35",
+      "https://news.ycombinator.com/item?id=45319496"
+    ],
+    [
+      "Radar and Radio Failures at Dallas Area Airports",
+      "https://news.ycombinator.com/item?id=45319496"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 02:23:59",
       "https://news.ycombinator.com/item?id=45319463"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2025-09-21, 00:18:14",
-      "https://news.ycombinator.com/item?id=45318863"
+      "2025-09-21, 02:09:43",
+      "https://news.ycombinator.com/item?id=45319399"
     ],
     [
-      "AI and surveillance capitalism are undermining democracy",
-      "https://thebulletin.org/2025/08/how-ai-and-surveillance-capitalism-are-undermining-democracy/"
+      "The bloat of edge-case first libraries",
+      "https://43081j.com/2025/09/bloat-of-edge-case-libraries"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 00:06:38",
+      "https://news.ycombinator.com/item?id=45318798"
+    ],
+    [
+      "In defence of swap: common misconceptions",
+      "https://chrisdown.name/2018/01/02/in-defence-of-swap.html"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45318559"
     ],
     [
-      "Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case",
+      "Teen suspect surrenders in 2023 Las Vegas casino cyberattack case",
       "https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/"
     ]
   ],
@@ -175,7 +195,7 @@
       "https://news.ycombinator.com/item?id=45291903"
     ],
     [
-      "Show HN: I Parallelized RNN Training from O(T) to O(log T) Using CUDA",
+      "Were RNNs all we needed? A GPU programming perspective",
       "https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/"
     ]
   ],
@@ -237,26 +257,6 @@
     [
       "Knitted Anatomy",
       "https://www.knitted-anatomy.at/cardiovascular-system/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 12:30:58",
-      "https://news.ycombinator.com/item?id=45275058"
-    ],
-    [
-      "Claude can sometimes prove it",
-      "https://www.galois.com/articles/claude-can-sometimes-prove-it"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 12:03:20",
-      "https://news.ycombinator.com/item?id=45274779"
-    ],
-    [
-      "I Once Appeared in the Old New Thing",
-      "https://mtlynch.io/my-old-new-thing-cameo/"
     ]
   ],
   [
