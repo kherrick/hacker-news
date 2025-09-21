@@ -17,6 +17,7 @@
 * [2025-09-20, 13:50:58](https://news.ycombinator.com/item?id=45313415) - [Vapor chamber tech keeps iPhone 17 Pro cool](https://spectrum.ieee.org/iphone-17-pro-vapor-chamber)
 * [2025-09-20, 11:50:15](https://news.ycombinator.com/item?id=45312515) - [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
 * [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s phone is launched](https://furilabs.com/flx1s-is-launched/)
+* [2025-09-20, 10:55:53](https://news.ycombinator.com/item?id=45312202) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3](https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html)
 * [2025-09-20, 06:37:01](https://news.ycombinator.com/item?id=45310995) - [PYREX vs. pyrex: What's the difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
 * [2025-09-18, 19:41:40](https://news.ycombinator.com/item?id=45294053) - [The SAT Game](https://www.cril.univ-artois.fr/~roussel/satgame/satgame.php?level=5&lang=eng)
 * [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World map in terminal](https://github.com/rastapasta/mapscii)
@@ -28,7 +29,6 @@
 * [2025-09-18, 01:07:26](https://news.ycombinator.com/item?id=45283637) - [Learning Languages with the Help of Algorithms](https://www.johndcook.com/blog/2025/09/17/learning-languages-with-the-help-of-algorithms/)
 * [2025-09-17, 15:30:51](https://news.ycombinator.com/item?id=45277052) - [Knitted Anatomy](https://www.knitted-anatomy.at/cardiovascular-system/)
 * [2025-09-17, 05:39:10](https://news.ycombinator.com/item?id=45272147) - [Slavery After Abolition: Revolt on the Amelia](https://www.historytoday.com/archive/feature/slavery-after-abolition-revolt-amelia)
-* [2025-09-17, 05:22:21](https://news.ycombinator.com/item?id=45272022) - [Solving a wooden puzzle using Haskell](https://glocq.github.io/en/blog/20250428/)
 * [2025-09-16, 18:08:01](https://news.ycombinator.com/item?id=45265688) - [Escapee pregnancy test frogs colonised Wales for 50 years (2019)](https://www.bbc.com/news/uk-wales-44886585)
 
 ## [Archives](archives/index.md)
