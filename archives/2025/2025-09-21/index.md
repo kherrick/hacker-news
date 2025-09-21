@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 07:19:59](https://news.ycombinator.com/item?id=45320759) - [Universities should be more than toll gates](https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/)
 * [2025-09-21, 06:01:49](https://news.ycombinator.com/item?id=45320431) - [Vibe Coding Cleanup as a Service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
 * [2025-09-21, 05:13:35](https://news.ycombinator.com/item?id=45320230) - [Representing Heterogeneous Data (2023)](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2025-09-21, 03:46:07](https://news.ycombinator.com/item?id=45319876) - [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
