@@ -9,7 +9,6 @@
 * [2025-09-21, 16:00:06](https://news.ycombinator.com/item?id=45323875) - [Show HN: Freeing GPUs stuck by runaway jobs](https://github.com/kagehq/gpu-kill)
 * [2025-09-21, 15:57:49](https://news.ycombinator.com/item?id=45323856) - [LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain](https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions)
 * [2025-09-21, 15:51:03](https://news.ycombinator.com/item?id=45323793) - [The University of Oxford has fallen out of the top three universities in the UK](https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/)
-* [2025-09-21, 14:55:20](https://news.ycombinator.com/item?id=45323297) - [How to stop functional programming (2016)](https://brianmckenna.org/blog/howtostopfp)
 * [2025-09-21, 14:45:50](https://news.ycombinator.com/item?id=45323207) - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/)
 * [2025-09-21, 14:43:21](https://news.ycombinator.com/item?id=45323187) - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
 * [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
@@ -24,12 +23,13 @@
 * [2025-09-20, 10:55:53](https://news.ycombinator.com/item?id=45312202) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3](https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html)
 * [2025-09-20, 07:52:48](https://news.ycombinator.com/item?id=45311360) - [The Counterclockwise Experiment](https://domofutu.substack.com/p/the-counterclockwise-experiment)
 * [2025-09-18, 21:59:54](https://news.ycombinator.com/item?id=45295538) - [A coin flip by any other name (2023)](https://cgad.ski/blog/a-coin-flip-by-any-other-name.html)
-* [2025-09-18, 18:43:34](https://news.ycombinator.com/item?id=45293438) - [Calculator Forensics](https://www.rskey.org/~mwsebastian/miscprj/results.htm)
+* [2025-09-18, 18:43:34](https://news.ycombinator.com/item?id=45293438) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/results.htm)
 * [2025-09-18, 16:59:50](https://news.ycombinator.com/item?id=45292084) - [How Isaac Newton Discovered the Binomial Power Series (2022)](https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/)
 * [2025-09-18, 14:45:01](https://news.ycombinator.com/item?id=45290358) - [Hi No Youjin](https://aethermug.com/posts/hi-no-youjin)
 * [2025-09-18, 13:04:27](https://news.ycombinator.com/item?id=45289150) - [Teardown of Apple 40W dynamic power adapter with 60W max](https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/)
 * [2025-09-18, 07:27:22](https://news.ycombinator.com/item?id=45286622) - [40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language](https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html)
 * [2025-09-18, 04:53:03](https://news.ycombinator.com/item?id=45285562) - [INapGPU: Text-mode graphics card, using only TTL gates](https://github.com/Leoneq/iNapGPU)
+* [2025-09-18, 04:26:41](https://news.ycombinator.com/item?id=45285387) - [Why, as a responsible adult, SimCity 2000 hits differently](https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/)
 
 ## [Archives](archives/index.md)
 
