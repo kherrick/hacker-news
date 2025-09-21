@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 23:16:08](https://news.ycombinator.com/item?id=45327531) - [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
 * [2025-09-21, 22:56:31](https://news.ycombinator.com/item?id=45327417) - [Why Is Venus Hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
 * [2025-09-21, 22:54:10](https://news.ycombinator.com/item?id=45327399) - [EU to block Big Tech from new financial data sharing system](https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543)
 * [2025-09-21, 22:40:28](https://news.ycombinator.com/item?id=45327318) - [Zig got a new ELF linker – and it's FAST](https://github.com/ziglang/zig/pull/25299)
