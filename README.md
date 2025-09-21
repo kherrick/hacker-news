@@ -4,7 +4,6 @@
 * [2025-09-21, 06:01:49](https://news.ycombinator.com/item?id=45320431) - [Vibe coding cleanup as a service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
 * [2025-09-21, 03:46:07](https://news.ycombinator.com/item?id=45319876) - [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
 * [2025-09-21, 03:09:47](https://news.ycombinator.com/item?id=45319690) - [iFixit iPhone Air teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
-* [2025-09-21, 02:23:59](https://news.ycombinator.com/item?id=45319463) - [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/)
 * [2025-09-21, 02:09:43](https://news.ycombinator.com/item?id=45319399) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
 * [2025-09-21, 00:56:59](https://news.ycombinator.com/item?id=45319062) - [AI was supposed to help juniors shine. why does it mostly make seniors stronger?](https://elma.dev/notes/ai-makes-seniors-stronger/)
 * [2025-09-21, 00:06:38](https://news.ycombinator.com/item?id=45318798) - [In defence of swap: common misconceptions (2018)](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
@@ -29,6 +28,7 @@
 * [2025-09-17, 21:47:42](https://news.ycombinator.com/item?id=45281782) - [Hololuminescent Display](https://lookingglassfactory.com/hld-overview)
 * [2025-09-17, 15:30:51](https://news.ycombinator.com/item?id=45277052) - [Knitted Anatomy](https://www.knitted-anatomy.at/cardiovascular-system/)
 * [2025-09-17, 05:39:10](https://news.ycombinator.com/item?id=45272147) - [Slavery After Abolition: Revolt on the Amelia](https://www.historytoday.com/archive/feature/slavery-after-abolition-revolt-amelia)
+* [2025-09-17, 02:23:10](https://news.ycombinator.com/item?id=45270861) - [Hyperion: Minecraft game engine for custom events](https://hyperion.rs/)
 * [2025-09-16, 18:08:01](https://news.ycombinator.com/item?id=45265688) - [Escapee pregnancy test frogs colonised Wales for 50 years (2019)](https://www.bbc.com/news/uk-wales-44886585)
 
 ## [Archives](archives/index.md)
