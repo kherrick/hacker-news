@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-09-21, 12:03:44",
-      "https://news.ycombinator.com/item?id=45321983"
-    ],
-    [
-      "LLMs are still surprisingly bad at some simple tasks",
-      "https://shkspr.mobi/blog/2025/09/llms-are-still-surprisingly-bad-at-simple-tasks/"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 10:56:42",
       "https://news.ycombinator.com/item?id=45321663"
     ],
@@ -177,6 +167,16 @@
     [
       "Mesda Craftsman Database",
       "http://test0.dlibrary.org/en/nodes/4066-craftsman-database"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 18:12:58",
+      "https://news.ycombinator.com/item?id=45293012"
+    ],
+    [
+      "MapSCII – World map in terminal",
+      "https://github.com/rastapasta/mapscii"
     ]
   ],
   [
