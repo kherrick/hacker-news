@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-09-21, 14:55:20",
-      "https://news.ycombinator.com/item?id=45323297"
-    ],
-    [
-      "How to stop functional programming (2016)",
-      "https://brianmckenna.org/blog/howtostopfp"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 14:45:50",
       "https://news.ycombinator.com/item?id=45323207"
     ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=45293438"
     ],
     [
-      "Calculator Forensics",
+      "Calculator Forensics (2002)",
       "https://www.rskey.org/~mwsebastian/miscprj/results.htm"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "INapGPU: Text-mode graphics card, using only TTL gates",
       "https://github.com/Leoneq/iNapGPU"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 04:26:41",
+      "https://news.ycombinator.com/item?id=45285387"
+    ],
+    [
+      "Why, as a responsible adult, SimCity 2000 hits differently",
+      "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/"
     ]
   ]
 ]
