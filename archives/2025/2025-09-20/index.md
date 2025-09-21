@@ -49,6 +49,7 @@
 * [2025-09-20, 11:00:27](https://news.ycombinator.com/item?id=45312228) - [IG Nobel Prize Winners 2025](https://improbable.com/ig/winners/)
 * [2025-09-20, 10:55:53](https://news.ycombinator.com/item?id=45312202) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3](https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html)
 * [2025-09-20, 10:22:49](https://news.ycombinator.com/item?id=45312031) - [For comedians around the world, the laughs often end as democracy fades](https://www.theguardian.com/world/2025/sep/19/for-comedians-around-the-world-the-laughs-often-end-as-democracy-fades)
+* [2025-09-20, 07:52:48](https://news.ycombinator.com/item?id=45311360) - [The Counterclockwise Experiment](https://domofutu.substack.com/p/the-counterclockwise-experiment)
 * [2025-09-20, 07:25:03](https://news.ycombinator.com/item?id=45311247) - [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
 * [2025-09-20, 06:59:54](https://news.ycombinator.com/item?id=45311115) - [LLM-Deflate: Extracting LLMs into Datasets](https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/)
 * [2025-09-20, 06:37:01](https://news.ycombinator.com/item?id=45310995) - [PYREX vs. Pyrex: What's the Difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
