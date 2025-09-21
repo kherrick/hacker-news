@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-21, 14:43:21](https://news.ycombinator.com/item?id=45323187) - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
+* [2025-09-21, 14:24:09](https://news.ycombinator.com/item?id=45323008) - [UUIDv7 in Postgres 18. With time extraction](https://www.thenile.dev/blog/uuidv7)
+* [2025-09-21, 13:37:13](https://news.ycombinator.com/item?id=45322623) - [Disk Utility still can't check and repair APFS volumes and containers](https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/)
 * [2025-09-21, 12:24:31](https://news.ycombinator.com/item?id=45322101) - [That DEA agent's 'credit card' could be eavesdropping on you](https://www.independent.co.uk/news/world/americas/dea-surveillance-hidden-cameras-federal-law-enforcement-b2828606.html)
 * [2025-09-21, 12:15:11](https://news.ycombinator.com/item?id=45322050) - [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company)
 * [2025-09-21, 10:56:42](https://news.ycombinator.com/item?id=45321663) - [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
@@ -19,9 +21,7 @@
 * [2025-09-19, 00:13:22](https://news.ycombinator.com/item?id=45296550) - [Bluefin LTS Is Released](https://docs.projectbluefin.io/blog/bluefin-lts-ga/)
 * [2025-09-18, 22:08:21](https://news.ycombinator.com/item?id=45295610) - [The dead weight loss of strictly isotonic regression](https://www.gojiberries.io/calibration/)
 * [2025-09-18, 18:05:58](https://news.ycombinator.com/item?id=45292915) - [Lidar, optical distance and time of flight sensors](https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors)
-* [2025-09-18, 17:57:20](https://news.ycombinator.com/item?id=45292821) - [Ask HN: How were graphics card drivers programmed back in the 90s?](https://news.ycombinator.com/item?id=45292821)
 * [2025-09-18, 17:24:22](https://news.ycombinator.com/item?id=45292404) - [Newton for Ladies (1737) – Newtonianism vs. Cartesianism](https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/exhibitions-archive/newton-and-newtonianism/ladies)
-* [2025-09-18, 16:47:15](https://news.ycombinator.com/item?id=45291903) - [Were RNNs all we needed? A GPU programming perspective](https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/)
 * [2025-09-18, 13:04:27](https://news.ycombinator.com/item?id=45289150) - [Teardown of Apple 40W dynamic power adapter with 60W max](https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/)
 * [2025-09-18, 09:22:39](https://news.ycombinator.com/item?id=45287474) - [Scream cipher](https://sethmlarson.dev/scream-cipher)
 * [2025-09-18, 06:43:41](https://news.ycombinator.com/item?id=45286302) - [Gluco data handler: Receive and visualize glucose data on Android](https://github.com/pachi81/GlucoDataHandler)
