@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45324343"
     ],
     [
-      "Google/timesketch: Collaborative forensic timeline analysis",
+      "Timesketch: Collaborative forensic timeline analysis",
       "https://github.com/google/timesketch"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45323008"
     ],
     [
-      "UUIDv7 in Postgres 18. With time extraction",
+      "UUIDv7 Comes to PostgreSQL 18",
       "https://www.thenile.dev/blog/uuidv7"
     ]
   ],
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-09-21, 12:31:57",
+      "https://news.ycombinator.com/item?id=45322135"
+    ],
+    [
+      "Why your outdoorsy friend suddenly has a gummy bear power bank",
+      "https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 12:15:11",
       "https://news.ycombinator.com/item?id=45322050"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-09-21, 02:09:43",
-      "https://news.ycombinator.com/item?id=45319399"
-    ],
-    [
-      "The bloat of edge-case first libraries",
-      "https://43081j.com/2025/09/bloat-of-edge-case-libraries"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 00:56:59",
       "https://news.ycombinator.com/item?id=45319062"
     ],
@@ -227,6 +227,16 @@
     [
       "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3",
       "https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 07:52:48",
+      "https://news.ycombinator.com/item?id=45311360"
+    ],
+    [
+      "The Counterclockwise Experiment",
+      "https://domofutu.substack.com/p/the-counterclockwise-experiment"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language",
       "https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 04:26:41",
-      "https://news.ycombinator.com/item?id=45285387"
-    ],
-    [
-      "Why, as a responsible adult, SimCity 2000 hits differently",
-      "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/"
     ]
   ]
 ]
