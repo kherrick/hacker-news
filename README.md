@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-21, 10:56:42](https://news.ycombinator.com/item?id=45321663) - [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
 * [2025-09-21, 07:19:59](https://news.ycombinator.com/item?id=45320759) - [Universities should be more than toll gates](https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/)
 * [2025-09-21, 06:01:49](https://news.ycombinator.com/item?id=45320431) - [Vibe coding cleanup as a service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
 * [2025-09-21, 03:46:07](https://news.ycombinator.com/item?id=45319876) - [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
@@ -16,7 +17,6 @@
 * [2025-09-20, 11:50:15](https://news.ycombinator.com/item?id=45312515) - [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
 * [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s phone is launched](https://furilabs.com/flx1s-is-launched/)
 * [2025-09-20, 10:55:53](https://news.ycombinator.com/item?id=45312202) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3](https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html)
-* [2025-09-20, 06:37:01](https://news.ycombinator.com/item?id=45310995) - [PYREX vs. pyrex: What's the difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
 * [2025-09-18, 21:53:03](https://news.ycombinator.com/item?id=45295475) - [Mesda Craftsman Database](http://test0.dlibrary.org/en/nodes/4066-craftsman-database)
 * [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World map in terminal](https://github.com/rastapasta/mapscii)
 * [2025-09-18, 18:05:58](https://news.ycombinator.com/item?id=45292915) - [Lidar, optical distance and time of flight sensors](https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors)
