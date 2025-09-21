@@ -25,10 +25,10 @@
 * [2025-09-18, 10:16:54](https://news.ycombinator.com/item?id=45287838) - [After Babel Fish: The promise of cheap translations at the speed of the Web](https://hedgehogreview.com/issues/lessons-of-babel/articles/after-babel-fish)
 * [2025-09-18, 09:22:39](https://news.ycombinator.com/item?id=45287474) - [Scream cipher](https://sethmlarson.dev/scream-cipher)
 * [2025-09-18, 01:07:26](https://news.ycombinator.com/item?id=45283637) - [Learning Languages with the Help of Algorithms](https://www.johndcook.com/blog/2025/09/17/learning-languages-with-the-help-of-algorithms/)
+* [2025-09-17, 21:47:42](https://news.ycombinator.com/item?id=45281782) - [Hololuminescent Display](https://lookingglassfactory.com/hld-overview)
 * [2025-09-17, 15:30:51](https://news.ycombinator.com/item?id=45277052) - [Knitted Anatomy](https://www.knitted-anatomy.at/cardiovascular-system/)
 * [2025-09-17, 05:39:10](https://news.ycombinator.com/item?id=45272147) - [Slavery After Abolition: Revolt on the Amelia](https://www.historytoday.com/archive/feature/slavery-after-abolition-revolt-amelia)
 * [2025-09-17, 05:22:21](https://news.ycombinator.com/item?id=45272022) - [Solving a wooden puzzle using Haskell](https://glocq.github.io/en/blog/20250428/)
-* [2025-09-17, 02:23:10](https://news.ycombinator.com/item?id=45270861) - [Hyperion: Minecraft game engine for custom events](https://hyperion.rs/)
 * [2025-09-16, 18:08:01](https://news.ycombinator.com/item?id=45265688) - [Escapee pregnancy test frogs colonised Wales for 50 years (2019)](https://www.bbc.com/news/uk-wales-44886585)
 
 ## [Archives](archives/index.md)
