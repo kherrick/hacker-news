@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 16:23:58](https://news.ycombinator.com/item?id=45324102) - [California bans masks meant to hide law enforcement officers' identities](https://www.npr.org/2025/09/20/nx-s1-5548532/newsom-trump-masked-ice-agents)
 * [2025-09-21, 16:17:07](https://news.ycombinator.com/item?id=45324021) - [Linux Ready to Upstream Support for Google's PSP Encryption for TCP Connections](https://www.phoronix.com/news/PSP-Encryption-Linux-6.18)
 * [2025-09-21, 16:03:27](https://news.ycombinator.com/item?id=45323901) - [Review: Project Xanadu – The Internet That Might Have Been](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet)
 * [2025-09-21, 15:57:49](https://news.ycombinator.com/item?id=45323856) - [LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain](https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions)
@@ -14,6 +15,7 @@
 * [2025-09-21, 14:55:20](https://news.ycombinator.com/item?id=45323297) - [How to Stop Functional Programming](https://brianmckenna.org/blog/howtostopfp)
 * [2025-09-21, 14:45:50](https://news.ycombinator.com/item?id=45323207) - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/)
 * [2025-09-21, 14:43:21](https://news.ycombinator.com/item?id=45323187) - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
+* [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-21, 14:24:09](https://news.ycombinator.com/item?id=45323008) - [UUIDv7 in Postgres 18. With time extraction](https://www.thenile.dev/blog/uuidv7)
 * [2025-09-21, 14:13:06](https://news.ycombinator.com/item?id=45322919) - [UK, Candada and Australia formally recognize Palestinian state](https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live)
 * [2025-09-21, 14:00:16](https://news.ycombinator.com/item?id=45322819) - [I forced myself to spend a week in Instagram instead of Xcode](https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in)
