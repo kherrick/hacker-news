@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-21, 15:09:16](https://news.ycombinator.com/item?id=45323429) - [4Chan, MAGAs unite in 'clog the toilet' op to block H-1B workers flying back](https://www.indiatoday.in/india/story/h1b-visa-flight-fares-surge-india-us-4chan-blocks-bookings-trump-order-2790740-2025-09-21)
 * [2025-09-21, 14:55:20](https://news.ycombinator.com/item?id=45323297) - [How to Stop Functional Programming](https://brianmckenna.org/blog/howtostopfp)
 * [2025-09-21, 14:43:21](https://news.ycombinator.com/item?id=45323187) - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
 * [2025-09-21, 14:24:09](https://news.ycombinator.com/item?id=45323008) - [UUIDv7 in Postgres 18. With time extraction](https://www.thenile.dev/blog/uuidv7)
@@ -30,6 +29,7 @@
 * [2025-09-18, 04:26:41](https://news.ycombinator.com/item?id=45285387) - [Why, as a responsible adult, SimCity 2000 hits differently](https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/)
 * [2025-09-18, 01:07:26](https://news.ycombinator.com/item?id=45283637) - [Learning Languages with the Help of Algorithms](https://www.johndcook.com/blog/2025/09/17/learning-languages-with-the-help-of-algorithms/)
 * [2025-09-17, 15:30:51](https://news.ycombinator.com/item?id=45277052) - [Knitted Anatomy](https://www.knitted-anatomy.at/cardiovascular-system/)
+* [2025-09-16, 18:08:01](https://news.ycombinator.com/item?id=45265688) - [Escapee pregnancy test frogs colonised Wales for 50 years (2019)](https://www.bbc.com/news/uk-wales-44886585)
 
 ## [Archives](archives/index.md)
 
