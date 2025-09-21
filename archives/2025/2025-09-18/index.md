@@ -71,6 +71,7 @@
 * [2025-09-18, 07:12:56](https://news.ycombinator.com/item?id=45286526) - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
 * [2025-09-18, 06:55:28](https://news.ycombinator.com/item?id=45286394) - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
 * [2025-09-18, 06:53:08](https://news.ycombinator.com/item?id=45286369) - [CERN Animal Shelter for Computer Mice](https://computer-animal-shelter.web.cern.ch/index.shtml)
+* [2025-09-18, 06:43:41](https://news.ycombinator.com/item?id=45286302) - [Gluco data handler: Receive and visualize glucose data on Android](https://github.com/pachi81/GlucoDataHandler)
 * [2025-09-18, 05:27:01](https://news.ycombinator.com/item?id=45285780) - [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
 * [2025-09-18, 05:16:48](https://news.ycombinator.com/item?id=45285711) - [Evals in 2025: benchmarks to build models people can use](https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md)
 * [2025-09-18, 04:26:41](https://news.ycombinator.com/item?id=45285387) - [Why, as a responsible adult, SimCity 2000 hits differently](https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/)
