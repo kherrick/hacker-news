@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-21, 20:35:14",
+      "https://news.ycombinator.com/item?id=45326388"
+    ],
+    [
+      "Apple Silicon GPU Support in Mojo",
+      "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 20:12:21",
+      "https://news.ycombinator.com/item?id=45326230"
+    ],
+    [
+      "Rail travel is booming in America",
+      "https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 16:45:06",
       "https://news.ycombinator.com/item?id=45324365"
     ],
@@ -37,16 +57,6 @@
     [
       "Timesketch: Collaborative forensic timeline analysis",
       "https://github.com/google/timesketch"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 16:03:27",
-      "https://news.ycombinator.com/item?id=45323901"
-    ],
-    [
-      "Review: Project Xanadu – The Internet That Might Have Been",
-      "https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "The Beginner's Textbook for Homomorphic Encryption",
       "https://arxiv.org/abs/2503.05136"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 14:24:09",
-      "https://news.ycombinator.com/item?id=45323008"
-    ],
-    [
-      "UUIDv7 Comes to PostgreSQL 18",
-      "https://www.thenile.dev/blog/uuidv7"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-18, 04:26:41",
-      "https://news.ycombinator.com/item?id=45285387"
+      "2025-09-18, 04:53:03",
+      "https://news.ycombinator.com/item?id=45285562"
     ],
     [
-      "Why, as a responsible adult, SimCity 2000 hits differently",
-      "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/"
+      "INapGPU: Text-mode graphics card, using only TTL gates",
+      "https://github.com/Leoneq/iNapGPU"
     ]
   ]
 ]
