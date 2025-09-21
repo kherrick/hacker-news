@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 12:15:11](https://news.ycombinator.com/item?id=45322050) - [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company)
+* [2025-09-21, 11:56:38](https://news.ycombinator.com/item?id=45321949) - [Yangwang U9 Xtreme hits 308mph(496km/h), becomes fastest production car](https://www.topgear.com/car-news/electric/yangwang-u9-xtreme-hits-308mph-becomes-worlds-fastest-ever-production-car)
 * [2025-09-21, 10:56:42](https://news.ycombinator.com/item?id=45321663) - [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
 * [2025-09-21, 07:19:59](https://news.ycombinator.com/item?id=45320759) - [Universities should be more than toll gates](https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/)
 * [2025-09-21, 06:01:49](https://news.ycombinator.com/item?id=45320431) - [Vibe Coding Cleanup as a Service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
