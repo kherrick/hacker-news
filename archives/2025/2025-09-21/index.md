@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 03:09:47](https://news.ycombinator.com/item?id=45319690) - [iFixIt iPhone Air Teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
 * [2025-09-21, 02:28:35](https://news.ycombinator.com/item?id=45319496) - [Radar and Radio Failures at Dallas Area Airports](https://news.ycombinator.com/item?id=45319496)
 * [2025-09-21, 02:23:59](https://news.ycombinator.com/item?id=45319463) - [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/)
 * [2025-09-21, 02:09:43](https://news.ycombinator.com/item?id=45319399) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)

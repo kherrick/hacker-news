@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-21, 03:09:47](https://news.ycombinator.com/item?id=45319690) - [iFixIt iPhone Air Teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
 * [2025-09-21, 02:28:35](https://news.ycombinator.com/item?id=45319496) - [Radar and Radio Failures at Dallas Area Airports](https://news.ycombinator.com/item?id=45319496)
 * [2025-09-21, 02:23:59](https://news.ycombinator.com/item?id=45319463) - [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/)
 * [2025-09-21, 02:09:43](https://news.ycombinator.com/item?id=45319399) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
@@ -12,7 +13,6 @@
 * [2025-09-20, 19:51:36](https://news.ycombinator.com/item?id=45316744) - [A revolution in English bell ringing](https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/)
 * [2025-09-20, 17:25:58](https://news.ycombinator.com/item?id=45315312) - [Designing NotebookLM](https://jasonspielman.com/notebooklm)
 * [2025-09-20, 16:12:56](https://news.ycombinator.com/item?id=45314592) - [Ultrasonic Chef's Knife](https://seattleultrasonics.com/)
-* [2025-09-20, 14:08:24](https://news.ycombinator.com/item?id=45313557) - [Cormac McCarthy's tips on how to write a science paper (2019) [pdf]](https://gwern.net/doc/science/2019-savage.pdf)
 * [2025-09-20, 13:50:58](https://news.ycombinator.com/item?id=45313415) - [Vapor chamber tech keeps iPhone 17 Pro cool](https://spectrum.ieee.org/iphone-17-pro-vapor-chamber)
 * [2025-09-20, 11:50:15](https://news.ycombinator.com/item?id=45312515) - [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
 * [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s phone is launched](https://furilabs.com/flx1s-is-launched/)
