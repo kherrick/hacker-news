@@ -7,6 +7,7 @@
 * [2025-09-21, 21:18:14](https://news.ycombinator.com/item?id=45326740) - [Lightweight, highly accurate line and paragraph detection](https://arxiv.org/abs/2203.09638)
 * [2025-09-21, 21:11:57](https://news.ycombinator.com/item?id=45326690) - [Procedural Island Generation (VI)](https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html)
 * [2025-09-21, 20:35:14](https://news.ycombinator.com/item?id=45326388) - [Apple Silicon GPU Support in Mojo](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295)
+* [2025-09-21, 20:20:04](https://news.ycombinator.com/item?id=45326294) - [I created a bouncing DVD screensaver for your terminal](https://github.com/integrii/dvd)
 * [2025-09-21, 20:12:21](https://news.ycombinator.com/item?id=45326230) - [Rail travel is booming in America](https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america)
 * [2025-09-21, 18:37:04](https://news.ycombinator.com/item?id=45325410) - [Bringing Observability to Claude Code: OpenTelemetry in Action](https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/)
 * [2025-09-21, 17:42:22](https://news.ycombinator.com/item?id=45324958) - [Modern life makes us sick](https://www.theguardian.com/books/2025/sep/21/how-modern-life-makes-us-sick-and-what-to-do-about-it)
