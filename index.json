@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-09-21, 00:06:38",
-      "https://news.ycombinator.com/item?id=45318798"
-    ],
-    [
-      "In defence of swap: common misconceptions (2018)",
-      "https://chrisdown.name/2018/01/02/in-defence-of-swap.html"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 21:04:47",
       "https://news.ycombinator.com/item?id=45317527"
     ],
@@ -237,6 +227,16 @@
     [
       "Scream cipher",
       "https://sethmlarson.dev/scream-cipher"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 05:16:48",
+      "https://news.ycombinator.com/item?id=45285711"
+    ],
+    [
+      "Evals in 2025: going beyond simple benchmarks to build models people can use",
+      "https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md"
     ]
   ],
   [
