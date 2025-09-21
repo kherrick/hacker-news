@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-21, 14:13:06](https://news.ycombinator.com/item?id=45322919) - [UK, Candada and Australia formally recognize Palestinian state](https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live)
+* [2025-09-21, 14:43:21](https://news.ycombinator.com/item?id=45323187) - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
 * [2025-09-21, 12:24:31](https://news.ycombinator.com/item?id=45322101) - [That DEA agent's 'credit card' could be eavesdropping on you](https://www.independent.co.uk/news/world/americas/dea-surveillance-hidden-cameras-federal-law-enforcement-b2828606.html)
 * [2025-09-21, 12:15:11](https://news.ycombinator.com/item?id=45322050) - [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company)
 * [2025-09-21, 10:56:42](https://news.ycombinator.com/item?id=45321663) - [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
@@ -16,8 +16,8 @@
 * [2025-09-20, 16:12:56](https://news.ycombinator.com/item?id=45314592) - [Ultrasonic Chef's Knife](https://seattleultrasonics.com/)
 * [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s phone is launched](https://furilabs.com/flx1s-is-launched/)
 * [2025-09-20, 10:55:53](https://news.ycombinator.com/item?id=45312202) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3](https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html)
+* [2025-09-19, 00:13:22](https://news.ycombinator.com/item?id=45296550) - [Bluefin LTS Is Released](https://docs.projectbluefin.io/blog/bluefin-lts-ga/)
 * [2025-09-18, 22:08:21](https://news.ycombinator.com/item?id=45295610) - [The dead weight loss of strictly isotonic regression](https://www.gojiberries.io/calibration/)
-* [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World map in terminal](https://github.com/rastapasta/mapscii)
 * [2025-09-18, 18:05:58](https://news.ycombinator.com/item?id=45292915) - [Lidar, optical distance and time of flight sensors](https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors)
 * [2025-09-18, 17:57:20](https://news.ycombinator.com/item?id=45292821) - [Ask HN: How were graphics card drivers programmed back in the 90s?](https://news.ycombinator.com/item?id=45292821)
 * [2025-09-18, 17:24:22](https://news.ycombinator.com/item?id=45292404) - [Newton for Ladies (1737) – Newtonianism vs. Cartesianism](https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/exhibitions-archive/newton-and-newtonianism/ladies)
