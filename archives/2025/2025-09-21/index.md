@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
 * [2025-09-21, 16:45:06](https://news.ycombinator.com/item?id=45324365) - [The Link Between Trauma, Drug Use, and Our Search to Feel Better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
+* [2025-09-21, 16:44:45](https://news.ycombinator.com/item?id=45324361) - [President Trump Signs Technology Prosperity Deal with United Kingdom](https://www.whitehouse.gov/articles/2025/09/president-trump-signs-technology-prosperity-deal-with-united-kingdom/)
 * [2025-09-21, 16:43:48](https://news.ycombinator.com/item?id=45324350) - [Liberté, égalité, Radioactivité](https://worksinprogress.co/issue/liberte-egalite-radioactivite/)
 * [2025-09-21, 16:43:45](https://news.ycombinator.com/item?id=45324349) - [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
 * [2025-09-21, 16:23:58](https://news.ycombinator.com/item?id=45324102) - [California bans masks meant to hide law enforcement officers' identities](https://www.npr.org/2025/09/20/nx-s1-5548532/newsom-trump-masked-ice-agents)
