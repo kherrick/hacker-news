@@ -24,6 +24,7 @@
 * [2025-09-18, 19:21:33](https://news.ycombinator.com/item?id=45293839) - [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
 * [2025-09-18, 19:14:23](https://news.ycombinator.com/item?id=45293757) - [Organs Cannot Simply Be Classified as Male or Female](https://www.mpg.de/25425064/0918-limn-the-sex-of-the-body-why-our-organs-cannot-simply-be-classified-as-male-or-female-153345-x)
 * [2025-09-18, 18:50:13](https://news.ycombinator.com/item?id=45293509) - [The Last Days of the Managerial Class](https://eyeofthesquid.com/the-last-days-of-the-managerial-class-5c95bd74ee60)
+* [2025-09-18, 18:43:34](https://news.ycombinator.com/item?id=45293438) - [Calculator Forensics](https://www.rskey.org/~mwsebastian/miscprj/results.htm)
 * [2025-09-18, 18:30:37](https://news.ycombinator.com/item?id=45293273) - [When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
 * [2025-09-18, 18:26:07](https://news.ycombinator.com/item?id=45293197) - [Cluely Thesis on Virality and Hype](https://cluely.com/blog/virality)
 * [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World Map in Terminal](https://github.com/rastapasta/mapscii)
