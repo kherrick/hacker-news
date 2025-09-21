@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-09-21, 16:23:58",
-      "https://news.ycombinator.com/item?id=45324102"
+      "2025-09-21, 16:45:06",
+      "https://news.ycombinator.com/item?id=45324365"
     ],
     [
-      "California bans masks meant to hide law enforcement officers' identities",
-      "https://www.npr.org/2025/09/20/nx-s1-5548532/newsom-trump-masked-ice-agents"
+      "The Link Between Trauma, Drug Use, and Our Search to Feel Better",
+      "https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 16:43:48",
+      "https://news.ycombinator.com/item?id=45324350"
+    ],
+    [
+      "Liberté, égalité, Radioactivité",
+      "https://worksinprogress.co/issue/liberte-egalite-radioactivite/"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 16:43:45",
+      "https://news.ycombinator.com/item?id=45324349"
+    ],
+    [
+      "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
+      "https://github.com/rxi/sj.h"
     ]
   ],
   [
@@ -51,21 +71,11 @@
   ],
   [
     [
-      "2025-09-21, 15:29:01",
-      "https://news.ycombinator.com/item?id=45323619"
-    ],
-    [
-      "A C library offering generic, contiguous dynamic arrays with O(1) amortized push",
-      "https://github.com/L-A-Marchetti/Vec"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 14:55:20",
       "https://news.ycombinator.com/item?id=45323297"
     ],
     [
-      "How to Stop Functional Programming",
+      "How to stop functional programming (2016)",
       "https://brianmckenna.org/blog/howtostopfp"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Disk Utility still can't check and repair APFS volumes and containers (2021)",
       "https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 13:00:40",
-      "https://news.ycombinator.com/item?id=45322328"
-    ],
-    [
-      "Sequoia: Rust OpenPGP Implementation",
-      "https://gitlab.com/sequoia-pgp/sequoia"
     ]
   ],
   [
