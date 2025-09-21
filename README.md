@@ -17,7 +17,7 @@
 * [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s phone is launched](https://furilabs.com/flx1s-is-launched/)
 * [2025-09-20, 10:55:53](https://news.ycombinator.com/item?id=45312202) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3](https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html)
 * [2025-09-18, 22:08:21](https://news.ycombinator.com/item?id=45295610) - [The dead weight loss of strictly isotonic regression](https://www.gojiberries.io/calibration/)
-* [2025-09-18, 21:53:03](https://news.ycombinator.com/item?id=45295475) - [Mesda Craftsman Database](http://test0.dlibrary.org/en/nodes/4066-craftsman-database)
+* [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World map in terminal](https://github.com/rastapasta/mapscii)
 * [2025-09-18, 18:05:58](https://news.ycombinator.com/item?id=45292915) - [Lidar, optical distance and time of flight sensors](https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors)
 * [2025-09-18, 17:57:20](https://news.ycombinator.com/item?id=45292821) - [Ask HN: How were graphics card drivers programmed back in the 90s?](https://news.ycombinator.com/item?id=45292821)
 * [2025-09-18, 17:24:22](https://news.ycombinator.com/item?id=45292404) - [Newton for Ladies (1737) – Newtonianism vs. Cartesianism](https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/exhibitions-archive/newton-and-newtonianism/ladies)
