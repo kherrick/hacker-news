@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
 * [2025-09-21, 22:56:31](https://news.ycombinator.com/item?id=45327417) - [Why Is Venus Hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
+* [2025-09-21, 22:54:10](https://news.ycombinator.com/item?id=45327399) - [EU to block Big Tech from new financial data sharing system](https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543)
 * [2025-09-21, 22:40:28](https://news.ycombinator.com/item?id=45327318) - [Zig got a new ELF linker – and it's FAST](https://github.com/ziglang/zig/pull/25299)
 * [2025-09-21, 22:23:59](https://news.ycombinator.com/item?id=45327217) - [The future is compostable. Period](https://news.ubc.ca/2025/09/the-future-is-compostable-period/)
+* [2025-09-21, 22:05:23](https://news.ycombinator.com/item?id=45327108) - [Tiny reactors could one day power towns, campuses; community input will be key](https://theconversation.com/nuclear-in-your-backyard-tiny-reactors-could-one-day-power-towns-and-campuses-but-community-input-will-be-key-261225)
 * [2025-09-21, 21:18:14](https://news.ycombinator.com/item?id=45326740) - [Lightweight, highly accurate line and paragraph detection](https://arxiv.org/abs/2203.09638)
 * [2025-09-21, 21:11:57](https://news.ycombinator.com/item?id=45326690) - [Procedural Island Generation (VI)](https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html)
 * [2025-09-21, 20:35:14](https://news.ycombinator.com/item?id=45326388) - [Apple Silicon GPU Support in Mojo](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295)
