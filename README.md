@@ -6,7 +6,6 @@
 * [2025-09-21, 20:35:14](https://news.ycombinator.com/item?id=45326388) - [Apple Silicon GPU Support in Mojo](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295)
 * [2025-09-21, 20:20:04](https://news.ycombinator.com/item?id=45326294) - [I created a bouncing DVD screensaver for your terminal](https://github.com/integrii/dvd)
 * [2025-09-21, 18:37:04](https://news.ycombinator.com/item?id=45325410) - [Bringing Observability to Claude Code: OpenTelemetry in Action](https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/)
-* [2025-09-21, 16:45:06](https://news.ycombinator.com/item?id=45324365) - [The link between trauma, drug use, and our search to feel better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
 * [2025-09-21, 16:43:45](https://news.ycombinator.com/item?id=45324349) - [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
 * [2025-09-21, 16:43:19](https://news.ycombinator.com/item?id=45324343) - [Timesketch: Collaborative forensic timeline analysis](https://github.com/google/timesketch)
 * [2025-09-21, 16:00:06](https://news.ycombinator.com/item?id=45323875) - [Show HN: Freeing GPUs stuck by runaway jobs](https://github.com/kagehq/gpu-kill)
@@ -30,6 +29,7 @@
 * [2025-09-18, 15:05:12](https://news.ycombinator.com/item?id=45290590) - [Show HN: I wrote an OS in 1000 lines of Zig](https://github.com/botirk38/OS-1000-lines-zig)
 * [2025-09-18, 07:27:22](https://news.ycombinator.com/item?id=45286622) - [40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language](https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html)
 * [2025-09-18, 04:53:03](https://news.ycombinator.com/item?id=45285562) - [INapGPU: Text-mode graphics card, using only TTL gates](https://github.com/Leoneq/iNapGPU)
+* [2025-09-18, 04:26:41](https://news.ycombinator.com/item?id=45285387) - [Why, as a responsible adult, SimCity 2000 hits differently](https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/)
 
 ## [Archives](archives/index.md)
 
