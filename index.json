@@ -1,22 +1,42 @@
 [
   [
     [
-      "2025-09-20, 23:20:52",
-      "https://news.ycombinator.com/item?id=45318505"
+      "2025-09-20, 23:38:02",
+      "https://news.ycombinator.com/item?id=45318604"
     ],
     [
-      "California bans face masks for ICE agents",
-      "https://sfstandard.com/2025/09/20/california-bans-face-masks-ice-agents/"
+      "macOS becomes iOS: Safari video controls",
+      "https://underpassapp.com/news/2025/9/8.html"
     ]
   ],
   [
     [
-      "2025-09-20, 22:11:22",
-      "https://news.ycombinator.com/item?id=45318060"
+      "2025-09-20, 23:29:57",
+      "https://news.ycombinator.com/item?id=45318559"
     ],
     [
-      "US Gov acknowledges that 100K fee does not apply to existing H-1B visas holders [pdf]",
-      "https://www.uscis.gov/sites/default/files/document/memos/H1B_Proc_Memo_FINAL.pdf"
+      "Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case",
+      "https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 22:22:03",
+      "https://news.ycombinator.com/item?id=45318140"
+    ],
+    [
+      "Bazel and Glibc Versions",
+      "https://blogsystem5.substack.com/p/glibc-versions-bazel"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 21:46:11",
+      "https://news.ycombinator.com/item?id=45317870"
+    ],
+    [
+      "Why do some gamers invert their controls?",
+      "https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think"
     ]
   ],
   [
@@ -87,26 +107,6 @@
     [
       "Ultrasonic Chef's Knife",
       "https://seattleultrasonics.com/"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 15:57:52",
-      "https://news.ycombinator.com/item?id=45314432"
-    ],
-    [
-      "Are touchscreens in cars dangerous?",
-      "https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 15:26:50",
-      "https://news.ycombinator.com/item?id=45314157"
-    ],
-    [
-      "Systemd can be a cause of restrictions on daemons",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause"
     ]
   ],
   [
@@ -191,21 +191,11 @@
   ],
   [
     [
-      "2025-09-18, 13:31:38",
-      "https://news.ycombinator.com/item?id=45289481"
-    ],
-    [
-      "Running a 80×25 DOS-Style Console Is Possible After All",
-      "https://changelog.complete.org/archives/10907-running-an-accurate-80x25-dos-style-console-on-modern-linux-is-possible-after-all"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 13:04:27",
       "https://news.ycombinator.com/item?id=45289150"
     ],
     [
-      "Teardown of Apple 40W Dynamic Power Adapter with 60W Max (A3365)",
+      "Teardown of Apple 40W dynamic power adapter with 60W max",
       "https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/"
     ]
   ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-09-17, 12:03:20",
+      "https://news.ycombinator.com/item?id=45274779"
+    ],
+    [
+      "I Once Appeared in the Old New Thing",
+      "https://mtlynch.io/my-old-new-thing-cameo/"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 05:22:21",
       "https://news.ycombinator.com/item?id=45272022"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45263035"
     ],
     [
-      "I'm Not a Robot",
+      "I’m Not a Robot",
       "https://neal.fun/not-a-robot/"
     ]
   ]
