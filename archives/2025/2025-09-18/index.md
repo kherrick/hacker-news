@@ -26,6 +26,7 @@
 * [2025-09-18, 18:26:07](https://news.ycombinator.com/item?id=45293197) - [Cluely Thesis on Virality and Hype](https://cluely.com/blog/virality)
 * [2025-09-18, 18:12:58](https://news.ycombinator.com/item?id=45293012) - [MapSCII – World Map in Terminal](https://github.com/rastapasta/mapscii)
 * [2025-09-18, 18:05:58](https://news.ycombinator.com/item?id=45292915) - [Lidar, optical distance and time of flight sensors](https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors)
+* [2025-09-18, 17:57:20](https://news.ycombinator.com/item?id=45292821) - [Ask HN: How were graphics card drivers programmed back in the 90s?](https://news.ycombinator.com/item?id=45292821)
 * [2025-09-18, 17:47:29](https://news.ycombinator.com/item?id=45292696) - [Ask HN: Dark Mode for HN?](https://news.ycombinator.com/item?id=45292696)
 * [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [Map Is Not Upside Down](https://www.maps.com/this-map-is-not-upside-down/)
 * [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
