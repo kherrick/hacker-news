@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-21, 17:42:22",
+      "https://news.ycombinator.com/item?id=45324958"
+    ],
+    [
+      "Modern life makes us sick",
+      "https://www.theguardian.com/books/2025/sep/21/how-modern-life-makes-us-sick-and-what-to-do-about-it"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 16:45:06",
       "https://news.ycombinator.com/item?id=45324365"
     ],
@@ -37,6 +47,16 @@
     [
       "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
       "https://github.com/rxi/sj.h"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 16:43:19",
+      "https://news.ycombinator.com/item?id=45324343"
+    ],
+    [
+      "Google/timesketch: Collaborative forensic timeline analysis",
+      "https://github.com/google/timesketch"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-09-21, 02:09:43",
-      "https://news.ycombinator.com/item?id=45319399"
-    ],
-    [
-      "The bloat of edge-case first libraries",
-      "https://43081j.com/2025/09/bloat-of-edge-case-libraries"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 00:56:59",
       "https://news.ycombinator.com/item?id=45319062"
     ],
@@ -287,16 +297,6 @@
     [
       "Teardown of Apple 40W dynamic power adapter with 60W max",
       "https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 06:43:41",
-      "https://news.ycombinator.com/item?id=45286302"
-    ],
-    [
-      "Gluco data handler: Receive and visualize glucose data on Android",
-      "https://github.com/pachi81/GlucoDataHandler"
     ]
   ]
 ]
