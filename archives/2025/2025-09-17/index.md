@@ -63,6 +63,7 @@
 * [2025-09-17, 06:54:02](https://news.ycombinator.com/item?id=45272653) - [Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk/)
 * [2025-09-17, 06:32:17](https://news.ycombinator.com/item?id=45272480) - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
 * [2025-09-17, 06:04:06](https://news.ycombinator.com/item?id=45272296) - [In Praise of Idleness (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
+* [2025-09-17, 05:39:10](https://news.ycombinator.com/item?id=45272147) - [Slavery After Abolition: Revolt on the Amelia](https://www.historytoday.com/archive/feature/slavery-after-abolition-revolt-amelia)
 * [2025-09-17, 05:22:21](https://news.ycombinator.com/item?id=45272022) - [Solving a Wooden Puzzle Using Haskell](https://glocq.github.io/en/blog/20250428/)
 * [2025-09-17, 05:11:50](https://news.ycombinator.com/item?id=45271942) - [Obsidian Offering $5000 Bounty for Notion API Importer](https://github.com/obsidianmd/obsidian-importer/issues/421)
 * [2025-09-17, 04:59:45](https://news.ycombinator.com/item?id=45271857) - [With Strings Attached](https://reviewcanada.ca/magazine/2025/10/with-strings-attached-review-a-cultural-history-of-the-violin-in-nineteenth-century-london/)
