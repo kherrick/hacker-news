@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-22, 22:16:59",
+      "https://news.ycombinator.com/item?id=45340295"
+    ],
+    [
+      "Linux: Make the Kernel Cute",
+      "https://github.com/torvalds/linux/pull/1290"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 22:12:25",
       "https://news.ycombinator.com/item?id=45340251"
     ],
@@ -127,16 +137,6 @@
     [
       "PlanetScale for Postgres is now GA",
       "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 14:49:16",
-      "https://news.ycombinator.com/item?id=45334250"
-    ],
-    [
-      "A simple way to measure knots has come unraveled",
-      "https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/"
     ]
   ],
   [
