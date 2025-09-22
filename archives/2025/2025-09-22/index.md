@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 19:53:42](https://news.ycombinator.com/item?id=45338625) - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
+* [2025-09-22, 19:49:02](https://news.ycombinator.com/item?id=45338561) - [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
 * [2025-09-22, 18:25:36](https://news.ycombinator.com/item?id=45337483) - [A collection of technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
 * [2025-09-22, 18:22:53](https://news.ycombinator.com/item?id=45337450) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 * [2025-09-22, 18:21:29](https://news.ycombinator.com/item?id=45337433) - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
@@ -49,6 +51,7 @@
 * [2025-09-22, 07:59:37](https://news.ycombinator.com/item?id=45330378) - [You did this with an AI and you do not understand what you're doing here](https://hackerone.com/reports/3340109)
 * [2025-09-22, 07:35:43](https://news.ycombinator.com/item?id=45330198) - [Show HN: Software Freelancers Contract Template](https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en)
 * [2025-09-22, 05:33:54](https://news.ycombinator.com/item?id=45329414) - [Download Responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
+* [2025-09-22, 05:16:32](https://news.ycombinator.com/item?id=45329310) - [Categorical Foundations for Cute Layouts](https://research.colfax-intl.com/categorical-foundations-for-cute-layouts/)
 * [2025-09-22, 04:35:27](https://news.ycombinator.com/item?id=45329127) - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
 * [2025-09-22, 03:41:58](https://news.ycombinator.com/item?id=45328881) - [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668)
 * [2025-09-22, 03:30:31](https://news.ycombinator.com/item?id=45328828) - [South Korea's President says US investment demands would spark financial crisis](https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/)
