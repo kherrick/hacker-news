@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-22, 14:34:11](https://news.ycombinator.com/item?id=45334032) - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
+* [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why Local-First Apps Haven't Become Popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:03:33](https://news.ycombinator.com/item?id=45332860) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
 * [2025-09-22, 12:59:30](https://news.ycombinator.com/item?id=45332814) - [CompileBench: Can AI Compile 22-year-old Code?](https://quesma.com/blog/introducing-compilebench/)
@@ -19,7 +21,6 @@
 * [2025-09-21, 23:06:42](https://news.ycombinator.com/item?id=45327478) - [Biconnected components](https://emi-h.com/articles/bcc.html)
 * [2025-09-21, 22:56:31](https://news.ycombinator.com/item?id=45327417) - [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
 * [2025-09-21, 22:20:16](https://news.ycombinator.com/item?id=45327199) - [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating)
-* [2025-09-21, 21:18:14](https://news.ycombinator.com/item?id=45326740) - [Lightweight, highly accurate line and paragraph detection](https://arxiv.org/abs/2203.09638)
 * [2025-09-21, 16:43:45](https://news.ycombinator.com/item?id=45324349) - [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
 * [2025-09-21, 12:11:18](https://news.ycombinator.com/item?id=45322030) - [What happens when coding agents stop feeling like dialup?](https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/)
 * [2025-09-20, 09:12:08](https://news.ycombinator.com/item?id=45311705) - [A Beautiful Maths Game](https://sinerider.com/)
@@ -29,7 +30,6 @@
 * [2025-09-18, 17:22:43](https://news.ycombinator.com/item?id=45292387) - [A Generalized Algebraic Theory of Directed Equality](https://jacobneu.phd/)
 * [2025-09-18, 13:21:35](https://news.ycombinator.com/item?id=45289370) - [The death rays that guard life](https://worksinprogress.co/issue/the-death-rays-that-guard-life/)
 * [2025-09-18, 11:43:41](https://news.ycombinator.com/item?id=45288440) - [I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years](https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/)
-* [2025-09-18, 07:27:22](https://news.ycombinator.com/item?id=45286622) - [40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language](https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html)
 
 ## [Archives](archives/index.md)
 

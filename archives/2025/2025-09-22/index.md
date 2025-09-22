@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 14:34:11](https://news.ycombinator.com/item?id=45334032) - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
+* [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why Local-First Apps Haven't Become Popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:03:33](https://news.ycombinator.com/item?id=45332860) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
 * [2025-09-22, 13:03:10](https://news.ycombinator.com/item?id=45332859) - [Why I'm Spoiled by Apple Silicon (But Still Love Framework)](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
