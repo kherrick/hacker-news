@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 10:01:20](https://news.ycombinator.com/item?id=45331217) - [Tell the EU: Don't Break Encryption with \"Chat Control\"](https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/)
+* [2025-09-22, 10:00:57](https://news.ycombinator.com/item?id=45331213) - [M4.6 Earthquake – 2 km ESE of Berkeley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive)
+* [2025-09-22, 09:57:55](https://news.ycombinator.com/item?id=45331187) - [Some Republicans Warn of Government Overreach on Free Speech](https://www.wsj.com/politics/policy/some-republicans-warn-of-government-overreach-on-free-speech-821e7caf)
+* [2025-09-22, 09:02:57](https://news.ycombinator.com/item?id=45330818) - [Metamaterials, AI, and the Road to Invisibility Cloaks](https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to)
 * [2025-09-22, 08:11:59](https://news.ycombinator.com/item?id=45330464) - [Australian telco cut off emergency calls, firewall upgrade linked to 3 deaths](https://www.theregister.com/2025/09/21/optus_emergency_call_incident/)
 * [2025-09-22, 08:03:59](https://news.ycombinator.com/item?id=45330407) - [SGI demos from long ago in the browser via WASM](https://github.com/sgi-demos)
 * [2025-09-22, 07:59:37](https://news.ycombinator.com/item?id=45330378) - [You did this with an AI and you do not understand what you're doing here](https://hackerone.com/reports/3340109)
