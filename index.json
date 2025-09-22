@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-22, 18:25:36",
-      "https://news.ycombinator.com/item?id=45337483"
+      "2025-09-22, 19:53:42",
+      "https://news.ycombinator.com/item?id=45338625"
     ],
     [
-      "A collection of technical things every software developer should know (2017)",
-      "https://github.com/mtdvio/every-programmer-should-know"
+      "Unweaving warp specialization on modern tensor core GPUs",
+      "https://rohany.github.io/blog/warp-specialization/"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 19:49:02",
+      "https://news.ycombinator.com/item?id=45338561"
+    ],
+    [
+      "Fine-grained HTTP filtering for Claude Code",
+      "https://ammar.io/blog/httpjail"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-09-22, 15:03:58",
-      "https://news.ycombinator.com/item?id=45334467"
-    ],
-    [
-      "Anti-*: The Things We Do but Not All the Way",
-      "https://blog.jim-nielsen.com/2025/my-antis/"
-    ]
-  ],
-  [
-    [
       "2025-09-22, 14:49:16",
       "https://news.ycombinator.com/item?id=45334250"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2025-09-21, 23:06:42",
-      "https://news.ycombinator.com/item?id=45327478"
+      "2025-09-22, 05:16:32",
+      "https://news.ycombinator.com/item?id=45329310"
     ],
     [
-      "Biconnected components",
-      "https://emi-h.com/articles/bcc.html"
+      "Categorical Foundations for Cute Layouts",
+      "https://research.colfax-intl.com/categorical-foundations-for-cute-layouts/"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "A board member's perspective of the RubyGems controversy",
       "https://apiguy.substack.com/p/a-board-members-perspective-of-the"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 18:13:09",
+      "https://news.ycombinator.com/item?id=45325208"
+    ],
+    [
+      "Transforming recursion into iteration for LLVM loop optimizations",
+      "https://dspace.mit.edu/handle/1721.1/162684"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Morgan and Morgan takes Disney to court over 'Steamboat Willie' in ads",
       "https://www.clickorlando.com/news/local/2025/09/17/morgan-morgan-takes-disney-to-court-over-rights-to-feature-steamboat-willie-in-law-firm-ads/"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 11:41:36",
-      "https://news.ycombinator.com/item?id=45300466"
-    ],
-    [
-      "Appleii Air Attack.BAS",
-      "https://basic-code.bearblog.dev/applesoft-air-attackbas/"
     ]
   ],
   [
