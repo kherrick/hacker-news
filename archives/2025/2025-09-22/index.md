@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia Announce Partnership to Deploy 10GW of Nvidia Systems](https://openai.com/index/openai-nvidia-systems-partnership/)
+* [2025-09-22, 16:08:57](https://news.ycombinator.com/item?id=45335452) - [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
+* [2025-09-22, 15:54:37](https://news.ycombinator.com/item?id=45335222) - [The American nations across North America](https://colinwoodard.com/new-map-the-american-nations-regions-across-north-america/)
 * [2025-09-22, 15:48:51](https://news.ycombinator.com/item?id=45335135) - [UK Millionaire exodus did not occur, study reveals](https://taxjustice.net/press/millionaire-exodus-did-not-occur-study-reveals/)
 * [2025-09-22, 15:48:36](https://news.ycombinator.com/item?id=45335129) - [Human-Oriented Markup Language](https://huml.io/)
 * [2025-09-22, 15:14:27](https://news.ycombinator.com/item?id=45334599) - [Cloudflare: A New Internet Business Model](https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/)
