@@ -43,6 +43,7 @@
 * [2025-09-19, 12:25:50](https://news.ycombinator.com/item?id=45300865) - [Ants Seem to Defy Biology: They Lay Eggs That Hatch into Another Species](https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/)
 * [2025-09-19, 12:20:10](https://news.ycombinator.com/item?id=45300810) - [YouTube downloaders (and how Google silenced the press)](https://windowsread.me/p/best-youtube-downloaders)
 * [2025-09-19, 12:00:16](https://news.ycombinator.com/item?id=45300615) - [Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
+* [2025-09-19, 11:41:36](https://news.ycombinator.com/item?id=45300466) - [Appleii Air Attack.BAS](https://basic-code.bearblog.dev/applesoft-air-attackbas/)
 * [2025-09-19, 10:22:44](https://news.ycombinator.com/item?id=45299985) - [Burnend alive inside a Tesla as rescuers fail to open the car's door](https://www.msn.com/en-us/autos/electric-cars/man-and-two-children-burn-alive-inside-a-tesla-with-rescuers-unable-to-open-the-car-s-door/ar-AA1MPAol)
 * [2025-09-19, 09:19:04](https://news.ycombinator.com/item?id=45299625) - [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
 * [2025-09-19, 08:09:17](https://news.ycombinator.com/item?id=45299170) - [Ruby Central's Attack on RubyGems [pdf]](https://pup-e.com/goodbye-rubygems.pdf)
