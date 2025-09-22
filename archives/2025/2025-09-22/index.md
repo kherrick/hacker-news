@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 21:15:06](https://news.ycombinator.com/item?id=45339525) - [The Cracker Barrel Hype(rreality)](https://www.unpopularfront.news/p/the-cracker-barrel-hyperreality)
 * [2025-09-22, 21:05:48](https://news.ycombinator.com/item?id=45339428) - [Disney reinstates Jimmy Kimmel after backlash over capitulation to FCC](https://arstechnica.com/tech-policy/2025/09/disney-abc-reinstate-jimmy-kimmel-amid-uproar-over-government-censorship/)
 * [2025-09-22, 21:00:38](https://news.ycombinator.com/item?id=45339388) - [Gauntlet AI (YC S17) Master building with AI, get $200k+ job. All expenses paid](https://apply.gauntletai.com/)
 * [2025-09-22, 20:25:51](https://news.ycombinator.com/item?id=45338990) - [Umberto Eco: Ur-Fascism](https://bobmschwartz.com/2017/12/28/umberto-eco-ur-fascism/)

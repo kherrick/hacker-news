@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-22, 21:15:06](https://news.ycombinator.com/item?id=45339525) - [The Cracker Barrel Hype(rreality)](https://www.unpopularfront.news/p/the-cracker-barrel-hyperreality)
 * [2025-09-22, 21:05:48](https://news.ycombinator.com/item?id=45339428) - [Disney reinstates Jimmy Kimmel after backlash over capitulation to FCC](https://arstechnica.com/tech-policy/2025/09/disney-abc-reinstate-jimmy-kimmel-amid-uproar-over-government-censorship/)
 * [2025-09-22, 21:00:38](https://news.ycombinator.com/item?id=45339388) - [Gauntlet AI (YC S17) Master building with AI, get $200k+ job. All expenses paid](https://apply.gauntletai.com/)
 * [2025-09-22, 20:09:00](https://news.ycombinator.com/item?id=45338798) - [Rand Paul: FCC chair had \"no business\" intervening in ABC/Kimmel controversy](https://arstechnica.com/tech-policy/2025/09/rand-paul-fcc-chair-had-no-business-intervening-in-abc-kimmel-controversy/)
@@ -27,7 +28,6 @@
 * [2025-09-22, 05:16:32](https://news.ycombinator.com/item?id=45329310) - [Categorical Foundations for Cute Layouts](https://research.colfax-intl.com/categorical-foundations-for-cute-layouts/)
 * [2025-09-21, 19:20:23](https://news.ycombinator.com/item?id=45325792) - [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
 * [2025-09-21, 18:13:09](https://news.ycombinator.com/item?id=45325208) - [Transforming recursion into iteration for LLVM loop optimizations](https://dspace.mit.edu/handle/1721.1/162684)
-* [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-21, 12:11:18](https://news.ycombinator.com/item?id=45322030) - [What happens when coding agents stop feeling like dialup?](https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/)
 * [2025-09-19, 14:29:23](https://news.ycombinator.com/item?id=45302073) - [Jailhouse confessions of a teen hacker](https://www.bloomberg.com/news/features/2025-09-19/multimillion-dollar-hacking-spree-scattered-spider-teen-s-jailhouse-confessions)
 
