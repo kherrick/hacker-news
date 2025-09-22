@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-22, 08:11:59](https://news.ycombinator.com/item?id=45330464) - [Australian telco cut off emergency calls, firewall upgrade linked to 3 deaths](https://www.theregister.com/2025/09/21/optus_emergency_call_incident/)
+* [2025-09-22, 07:35:43](https://news.ycombinator.com/item?id=45330198) - [Show HN: Software Freelancers Contract Template](https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en)
 * [2025-09-22, 05:33:54](https://news.ycombinator.com/item?id=45329414) - [Download responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
 * [2025-09-22, 04:35:27](https://news.ycombinator.com/item?id=45329127) - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
 * [2025-09-22, 03:30:31](https://news.ycombinator.com/item?id=45328828) - [South Korea's President says US investment demands would spark financial crisis](https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/)
@@ -21,7 +22,6 @@
 * [2025-09-20, 11:19:37](https://news.ycombinator.com/item?id=45312323) - [Node 20 will be deprecated on GitHub Actions runners](https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/)
 * [2025-09-18, 22:37:44](https://news.ycombinator.com/item?id=45295878) - [Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem](https://github.com/NVIDIA/nvmath-python)
 * [2025-09-18, 22:18:04](https://news.ycombinator.com/item?id=45295704) - [Teach Kids Electronics Using Dough: Light Up Caterpillar Project](https://newsletter.infiniteretry.com/dough-circuits-led-caterpillar/)
-* [2025-09-18, 20:58:20](https://news.ycombinator.com/item?id=45294934) - [RCA VideoDisc's Legacy: Scanning Capacitance Microscope](https://spectrum.ieee.org/rca-videodisc)
 * [2025-09-18, 20:03:58](https://news.ycombinator.com/item?id=45294297) - [Simulating a Machine from the 80s](https://rmazur.io/blog/fahivets.html)
 * [2025-09-18, 18:43:34](https://news.ycombinator.com/item?id=45293438) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/results.htm)
 * [2025-09-18, 17:22:43](https://news.ycombinator.com/item?id=45292387) - [A Generalized Algebraic Theory of Directed Equality](https://jacobneu.phd/)
