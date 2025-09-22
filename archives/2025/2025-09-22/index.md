@@ -17,3 +17,4 @@
 * [2025-09-22, 01:46:37](https://news.ycombinator.com/item?id=45328335) - [Pointer Tagging in C++: The Art of Packing Bits into a Pointer](https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing)
 * [2025-09-22, 01:37:35](https://news.ycombinator.com/item?id=45328293) - [Show HN: Wan-Animate – Unified Character Animation and Replacement](https://www.wananimate.net/)
 * [2025-09-22, 01:27:34](https://news.ycombinator.com/item?id=45328247) - [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
+* [2025-09-22, 00:31:06](https://news.ycombinator.com/item?id=45327964) - [We Politely Insist: Your LLM Must Learn the Persian Art of Taarof](https://arxiv.org/abs/2509.01035)
