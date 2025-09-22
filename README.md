@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-22, 22:45:54](https://news.ycombinator.com/item?id=45340550) - [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 * [2025-09-22, 19:53:42](https://news.ycombinator.com/item?id=45338625) - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
 * [2025-09-22, 18:22:53](https://news.ycombinator.com/item?id=45337450) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
@@ -8,13 +9,11 @@
 * [2025-09-22, 18:07:13](https://news.ycombinator.com/item?id=45337253) - [AI-generated “workslop” is destroying productivity?](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
 * [2025-09-22, 17:01:04](https://news.ycombinator.com/item?id=45336282) - [Mentra (YC W25) is hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
-* [2025-09-22, 16:30:03](https://news.ycombinator.com/item?id=45335774) - [California issues fine over lawyer's ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)
 * [2025-09-22, 16:21:35](https://news.ycombinator.com/item?id=45335635) - [Testing is better than data structures and algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
 * [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 * [2025-09-22, 16:08:57](https://news.ycombinator.com/item?id=45335452) - [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
 * [2025-09-22, 15:10:48](https://news.ycombinator.com/item?id=45334545) - [PlanetScale for Postgres is now GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
 * [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
-* [2025-09-22, 13:29:33](https://news.ycombinator.com/item?id=45333190) - [What if we treated Postgres like SQLite?](https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why haven't local-first apps become popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:05:32](https://news.ycombinator.com/item?id=45332883) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
 * [2025-09-22, 13:03:33](https://news.ycombinator.com/item?id=45332860) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
@@ -29,6 +28,7 @@
 * [2025-09-21, 18:13:09](https://news.ycombinator.com/item?id=45325208) - [Transforming recursion into iteration for LLVM loop optimizations](https://dspace.mit.edu/handle/1721.1/162684)
 * [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-21, 12:11:18](https://news.ycombinator.com/item?id=45322030) - [What happens when coding agents stop feeling like dialup?](https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/)
+* [2025-09-19, 21:51:32](https://news.ycombinator.com/item?id=45307119) - [After 50 years the magic circle (finally) admits Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html)
 * [2025-09-19, 14:29:23](https://news.ycombinator.com/item?id=45302073) - [Jailhouse confessions of a teen hacker](https://www.bloomberg.com/news/features/2025-09-19/multimillion-dollar-hacking-spree-scattered-spider-teen-s-jailhouse-confessions)
 
 ## [Archives](archives/index.md)
