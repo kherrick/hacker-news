@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-22, 12:20:32",
+      "https://news.ycombinator.com/item?id=45332400"
+    ],
+    [
+      "DeepSeek-v3.1-Terminus",
+      "https://api-docs.deepseek.com/news/news250922"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 11:59:01",
+      "https://news.ycombinator.com/item?id=45332196"
+    ],
+    [
+      "Is a movie prop the ultimate laptop bag?",
+      "https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 11:52:41",
+      "https://news.ycombinator.com/item?id=45332130"
+    ],
+    [
+      "Easy Forth",
+      "https://skilldrick.github.io/easyforth/"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 11:51:20",
       "https://news.ycombinator.com/item?id=45332120"
     ],
@@ -47,16 +77,6 @@
     [
       "LinkedIn will soon train AI models with data from European users",
       "https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 09:32:44",
-      "https://news.ycombinator.com/item?id=45331001"
-    ],
-    [
-      "Show HN: Coding Agents swarming your codebase",
-      "https://infrastructureas.ai"
     ]
   ],
   [
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2025-09-21, 14:45:50",
-      "https://news.ycombinator.com/item?id=45323207"
-    ],
-    [
-      "DXGI debugging: Microsoft put me on a list",
-      "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 12:31:57",
-      "https://news.ycombinator.com/item?id=45322135"
-    ],
-    [
-      "Why your outdoorsy friend suddenly has a gummy bear power bank",
-      "https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 12:11:18",
       "https://news.ycombinator.com/item?id=45322030"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2025-09-18, 22:37:44",
-      "https://news.ycombinator.com/item?id=45295878"
+      "2025-09-20, 09:12:08",
+      "https://news.ycombinator.com/item?id=45311705"
     ],
     [
-      "Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem",
-      "https://github.com/NVIDIA/nvmath-python"
+      "A Beautiful Maths Game",
+      "https://sinerider.com/"
     ]
   ],
   [
