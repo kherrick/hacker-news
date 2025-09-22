@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-22, 22:16:59](https://news.ycombinator.com/item?id=45340295) - [Linux: Make the Kernel Cute](https://github.com/torvalds/linux/pull/1290)
 * [2025-09-22, 22:12:25](https://news.ycombinator.com/item?id=45340251) - [Show HN: Perfect your presentation with a panel of AI reviewers](https://review.thorntale.com/)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 * [2025-09-22, 19:53:42](https://news.ycombinator.com/item?id=45338625) - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
@@ -13,7 +14,6 @@
 * [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 * [2025-09-22, 16:08:57](https://news.ycombinator.com/item?id=45335452) - [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
 * [2025-09-22, 15:10:48](https://news.ycombinator.com/item?id=45334545) - [PlanetScale for Postgres is now GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
-* [2025-09-22, 14:49:16](https://news.ycombinator.com/item?id=45334250) - [A simple way to measure knots has come unraveled](https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/)
 * [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why haven't local-first apps become popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:05:32](https://news.ycombinator.com/item?id=45332883) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
