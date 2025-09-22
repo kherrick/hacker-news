@@ -6,6 +6,7 @@
 
 * [2025-09-22, 15:14:27](https://news.ycombinator.com/item?id=45334599) - [Cloudflare: A New Internet Business Model](https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/)
 * [2025-09-22, 15:10:48](https://news.ycombinator.com/item?id=45334545) - [PlanetScale announces PlanetScale for Postgres is GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
+* [2025-09-22, 15:03:58](https://news.ycombinator.com/item?id=45334467) - [Anti-*: The Things We Do but Not All the Way](https://blog.jim-nielsen.com/2025/my-antis/)
 * [2025-09-22, 14:49:16](https://news.ycombinator.com/item?id=45334250) - [A Simple Way to Measure Knots Has Come Unraveled](https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/)
 * [2025-09-22, 14:34:11](https://news.ycombinator.com/item?id=45334032) - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
 * [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)

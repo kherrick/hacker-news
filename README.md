@@ -2,6 +2,7 @@
 
 * [2025-09-22, 15:14:27](https://news.ycombinator.com/item?id=45334599) - [Cloudflare: A New Internet Business Model](https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/)
 * [2025-09-22, 15:10:48](https://news.ycombinator.com/item?id=45334545) - [PlanetScale announces PlanetScale for Postgres is GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
+* [2025-09-22, 15:03:58](https://news.ycombinator.com/item?id=45334467) - [Anti-*: The Things We Do but Not All the Way](https://blog.jim-nielsen.com/2025/my-antis/)
 * [2025-09-22, 14:49:16](https://news.ycombinator.com/item?id=45334250) - [A Simple Way to Measure Knots Has Come Unraveled](https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/)
 * [2025-09-22, 14:34:11](https://news.ycombinator.com/item?id=45334032) - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
 * [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
@@ -13,7 +14,6 @@
 * [2025-09-22, 12:20:32](https://news.ycombinator.com/item?id=45332400) - [DeepSeek-v3.1-Terminus](https://api-docs.deepseek.com/news/news250922)
 * [2025-09-22, 11:52:41](https://news.ycombinator.com/item?id=45332130) - [Easy Forth](https://skilldrick.github.io/easyforth/)
 * [2025-09-22, 10:20:43](https://news.ycombinator.com/item?id=45331370) - [Kmart's use of facial recognition to tackle refund fraud unlawful](https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds)
-* [2025-09-22, 10:00:57](https://news.ycombinator.com/item?id=45331213) - [M4.6 Earthquake – 2 km ESE of Berkeley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive)
 * [2025-09-22, 09:37:12](https://news.ycombinator.com/item?id=45331030) - [Beyond the Front Page: A Personal Guide to Hacker News](https://hsu.cy/2025/09/how-to-read-hn/)
 * [2025-09-22, 08:03:59](https://news.ycombinator.com/item?id=45330407) - [SGI demos from long ago in the browser via WASM](https://github.com/sgi-demos)
 * [2025-09-22, 07:59:37](https://news.ycombinator.com/item?id=45330378) - [You did this with an AI and you do not understand what you're doing here](https://hackerone.com/reports/3340109)
@@ -26,9 +26,9 @@
 * [2025-09-21, 22:20:16](https://news.ycombinator.com/item?id=45327199) - [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating)
 * [2025-09-20, 09:12:08](https://news.ycombinator.com/item?id=45311705) - [A Beautiful Maths Game](https://sinerider.com/)
 * [2025-09-20, 07:52:48](https://news.ycombinator.com/item?id=45311360) - [The Counterclockwise Experiment](https://domofutu.substack.com/p/the-counterclockwise-experiment)
-* [2025-09-18, 23:22:57](https://news.ycombinator.com/item?id=45296221) - [Optimized Materials in a Flash](https://newscenter.lbl.gov/2025/09/18/optimized-materials-in-a-flash/)
 * [2025-09-18, 20:37:30](https://news.ycombinator.com/item?id=45294711) - [What if AMD FX had \"real\" cores? [video]](https://www.youtube.com/watch?v=Lb4FDtAwnqU)
 * [2025-09-18, 20:03:58](https://news.ycombinator.com/item?id=45294297) - [Simulating a Machine from the 80s](https://rmazur.io/blog/fahivets.html)
+* [2025-09-18, 17:22:43](https://news.ycombinator.com/item?id=45292387) - [A Generalized Algebraic Theory of Directed Equality](https://jacobneu.phd/)
 * [2025-09-18, 13:21:35](https://news.ycombinator.com/item?id=45289370) - [The death rays that guard life](https://worksinprogress.co/issue/the-death-rays-that-guard-life/)
 
 ## [Archives](archives/index.md)
