@@ -2,6 +2,7 @@
 
 * [2025-09-22, 22:51:09](https://news.ycombinator.com/item?id=45340600) - [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
 * [2025-09-22, 22:45:54](https://news.ycombinator.com/item?id=45340550) - [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1)
+* [2025-09-22, 22:33:56](https://news.ycombinator.com/item?id=45340442) - [Priced out of traditional housing, more Americans are living in RVs](https://www.nbcnews.com/news/us-news/americans-choose-rv-life-economy-challenges-housing-market-cost-rcna231942)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 * [2025-09-22, 19:53:42](https://news.ycombinator.com/item?id=45338625) - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
 * [2025-09-22, 18:22:53](https://news.ycombinator.com/item?id=45337450) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
@@ -13,7 +14,6 @@
 * [2025-09-22, 16:21:35](https://news.ycombinator.com/item?id=45335635) - [Testing is better than data structures and algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
 * [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 * [2025-09-22, 16:08:57](https://news.ycombinator.com/item?id=45335452) - [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
-* [2025-09-22, 15:10:48](https://news.ycombinator.com/item?id=45334545) - [PlanetScale for Postgres is now GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
 * [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why haven't local-first apps become popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:05:32](https://news.ycombinator.com/item?id=45332883) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)

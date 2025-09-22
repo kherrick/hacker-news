@@ -6,6 +6,7 @@
 
 * [2025-09-22, 22:51:09](https://news.ycombinator.com/item?id=45340600) - [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
 * [2025-09-22, 22:45:54](https://news.ycombinator.com/item?id=45340550) - [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1)
+* [2025-09-22, 22:33:56](https://news.ycombinator.com/item?id=45340442) - [Priced out of traditional housing, more Americans are living in RVs](https://www.nbcnews.com/news/us-news/americans-choose-rv-life-economy-challenges-housing-market-cost-rcna231942)
 * [2025-09-22, 22:16:59](https://news.ycombinator.com/item?id=45340295) - [Linux: Make the Kernel Cute](https://github.com/torvalds/linux/pull/1290)
 * [2025-09-22, 22:12:25](https://news.ycombinator.com/item?id=45340251) - [Show HN: Perfect your presentation with a panel of AI reviewers](https://review.thorntale.com/)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
