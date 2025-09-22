@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-09-21, 18:37:04",
-      "https://news.ycombinator.com/item?id=45325410"
-    ],
-    [
-      "Bringing Observability to Claude Code: OpenTelemetry in Action",
-      "https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 16:43:45",
       "https://news.ycombinator.com/item?id=45324349"
     ],
@@ -217,6 +207,16 @@
     [
       "Node 20 will be deprecated on GitHub Actions runners",
       "https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 22:37:44",
+      "https://news.ycombinator.com/item?id=45295878"
+    ],
+    [
+      "Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem",
+      "https://github.com/NVIDIA/nvmath-python"
     ]
   ],
   [
