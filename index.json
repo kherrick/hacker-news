@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-09-21, 22:40:28",
-      "https://news.ycombinator.com/item?id=45327318"
-    ],
-    [
-      "Zig got a new ELF linker and it's fast",
-      "https://github.com/ziglang/zig/pull/25299"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 22:20:16",
       "https://news.ycombinator.com/item?id=45327199"
     ],
@@ -147,6 +137,16 @@
     [
       "Procedural Island Generation (VI)",
       "https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 18:37:04",
+      "https://news.ycombinator.com/item?id=45325410"
+    ],
+    [
+      "Bringing Observability to Claude Code: OpenTelemetry in Action",
+      "https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/"
     ]
   ],
   [
