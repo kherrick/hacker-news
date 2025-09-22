@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 15:48:51](https://news.ycombinator.com/item?id=45335135) - [UK Millionaire exodus did not occur, study reveals](https://taxjustice.net/press/millionaire-exodus-did-not-occur-study-reveals/)
+* [2025-09-22, 15:48:36](https://news.ycombinator.com/item?id=45335129) - [Human-Oriented Markup Language](https://huml.io/)
 * [2025-09-22, 15:14:27](https://news.ycombinator.com/item?id=45334599) - [Cloudflare: A New Internet Business Model](https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/)
 * [2025-09-22, 15:10:48](https://news.ycombinator.com/item?id=45334545) - [PlanetScale announces PlanetScale for Postgres is GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
 * [2025-09-22, 15:03:58](https://news.ycombinator.com/item?id=45334467) - [Anti-*: The Things We Do but Not All the Way](https://blog.jim-nielsen.com/2025/my-antis/)
