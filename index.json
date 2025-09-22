@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-22, 20:25:51",
-      "https://news.ycombinator.com/item?id=45338990"
+      "2025-09-22, 21:05:48",
+      "https://news.ycombinator.com/item?id=45339428"
     ],
     [
-      "Umberto Eco: Ur-Fascism",
-      "https://bobmschwartz.com/2017/12/28/umberto-eco-ur-fascism/"
+      "Disney reinstates Jimmy Kimmel after backlash over capitulation to FCC",
+      "https://arstechnica.com/tech-policy/2025/09/disney-abc-reinstate-jimmy-kimmel-amid-uproar-over-government-censorship/"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 21:00:38",
+      "https://news.ycombinator.com/item?id=45339388"
+    ],
+    [
+      "Gauntlet AI (YC S17) Master building with AI, get $200k+ job. All expenses paid",
+      "https://apply.gauntletai.com/"
     ]
   ],
   [
@@ -77,26 +87,6 @@
     [
       "Qwen3-Omni: Native Omni AI model for text, image and video",
       "https://github.com/QwenLM/Qwen3-Omni"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 17:01:04",
-      "https://news.ycombinator.com/item?id=45336282"
-    ],
-    [
-      "Mentra (YC W25) Is Hiring to build smart glasses",
-      "https://news.ycombinator.com/item?id=45336282"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 16:21:35",
-      "https://news.ycombinator.com/item?id=45335635"
-    ],
-    [
-      "Testing is better than data structures and algorithms",
-      "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Beyond the Front Page: A Personal Guide to Hacker News",
       "https://hsu.cy/2025/09/how-to-read-hn/"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 08:03:59",
+      "https://news.ycombinator.com/item?id=45330407"
+    ],
+    [
+      "SGI demos from long ago in the browser via WASM",
+      "https://github.com/sgi-demos"
     ]
   ],
   [
