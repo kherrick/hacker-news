@@ -11,36 +11,6 @@
   ],
   [
     [
-      "2025-09-22, 21:05:48",
-      "https://news.ycombinator.com/item?id=45339428"
-    ],
-    [
-      "Disney reinstates Jimmy Kimmel after backlash over capitulation to FCC",
-      "https://arstechnica.com/tech-policy/2025/09/disney-abc-reinstate-jimmy-kimmel-amid-uproar-over-government-censorship/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 21:00:38",
-      "https://news.ycombinator.com/item?id=45339388"
-    ],
-    [
-      "Gauntlet AI (YC S17) Master building with AI, get $200k+ job. All expenses paid",
-      "https://apply.gauntletai.com/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 20:09:00",
-      "https://news.ycombinator.com/item?id=45338798"
-    ],
-    [
-      "Rand Paul: FCC chair had \"no business\" intervening in ABC/Kimmel controversy",
-      "https://arstechnica.com/tech-policy/2025/09/rand-paul-fcc-chair-had-no-business-intervening-in-abc-kimmel-controversy/"
-    ]
-  ],
-  [
-    [
       "2025-09-22, 19:53:42",
       "https://news.ycombinator.com/item?id=45338625"
     ],
@@ -81,6 +51,16 @@
   ],
   [
     [
+      "2025-09-22, 18:18:56",
+      "https://news.ycombinator.com/item?id=45337400"
+    ],
+    [
+      "Show HN: Python Audio Transcription: Convert Speech to Text Locally",
+      "https://www.pavlinbg.com/posts/python-speech-to-text-guide"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 18:07:13",
       "https://news.ycombinator.com/item?id=45337253"
     ],
@@ -101,6 +81,26 @@
   ],
   [
     [
+      "2025-09-22, 17:01:04",
+      "https://news.ycombinator.com/item?id=45336282"
+    ],
+    [
+      "Mentra (YC W25) is hiring to build smart glasses",
+      "https://news.ycombinator.com/item?id=45336282"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 16:21:35",
+      "https://news.ycombinator.com/item?id=45335635"
+    ],
+    [
+      "Testing is better than data structures and algorithms",
+      "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 16:10:15",
       "https://news.ycombinator.com/item?id=45335474"
     ],
@@ -117,16 +117,6 @@
     [
       "SWE-Bench Pro",
       "https://github.com/scaleapi/SWE-bench_Pro-os"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 15:48:36",
-      "https://news.ycombinator.com/item?id=45335129"
-    ],
-    [
-      "Human-Oriented Markup Language",
-      "https://huml.io/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Transforming recursion into iteration for LLVM loop optimizations",
       "https://dspace.mit.edu/handle/1721.1/162684"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 14:26:10",
+      "https://news.ycombinator.com/item?id=45323027"
+    ],
+    [
+      "The Beginner's Textbook for Fully Homomorphic Encryption",
+      "https://arxiv.org/abs/2503.05136"
     ]
   ],
   [
