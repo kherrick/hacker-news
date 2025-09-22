@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-22, 17:01:04](https://news.ycombinator.com/item?id=45336282) - [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
+* [2025-09-22, 16:30:03](https://news.ycombinator.com/item?id=45335774) - [California issues historic fine over lawyer's ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)
 * [2025-09-22, 16:25:35](https://news.ycombinator.com/item?id=45335695) - [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
 * [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia Announce Partnership to Deploy 10GW of Nvidia Systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 * [2025-09-22, 16:08:57](https://news.ycombinator.com/item?id=45335452) - [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
@@ -22,7 +23,6 @@
 * [2025-09-22, 09:37:12](https://news.ycombinator.com/item?id=45331030) - [Beyond the Front Page: A Personal Guide to Hacker News](https://hsu.cy/2025/09/how-to-read-hn/)
 * [2025-09-22, 08:03:59](https://news.ycombinator.com/item?id=45330407) - [SGI demos from long ago in the browser via WASM](https://github.com/sgi-demos)
 * [2025-09-22, 07:59:37](https://news.ycombinator.com/item?id=45330378) - [You did this with an AI and you do not understand what you're doing here](https://hackerone.com/reports/3340109)
-* [2025-09-22, 07:35:43](https://news.ycombinator.com/item?id=45330198) - [Show HN: Software Freelancers Contract Template](https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en)
 * [2025-09-22, 04:35:27](https://news.ycombinator.com/item?id=45329127) - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
 * [2025-09-22, 01:27:34](https://news.ycombinator.com/item?id=45328247) - [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
 * [2025-09-21, 23:06:42](https://news.ycombinator.com/item?id=45327478) - [Biconnected components](https://emi-h.com/articles/bcc.html)
