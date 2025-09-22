@@ -66,6 +66,7 @@
 * [2025-09-18, 13:06:03](https://news.ycombinator.com/item?id=45289168) - [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
 * [2025-09-18, 13:04:27](https://news.ycombinator.com/item?id=45289150) - [Teardown of Apple 40W Dynamic Power Adapter with 60W Max (A3365)](https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/)
 * [2025-09-18, 12:22:46](https://news.ycombinator.com/item?id=45288740) - [Dialing Up the Internet Phonebook](https://pketh.org/internet-phonebook.html)
+* [2025-09-18, 12:22:38](https://news.ycombinator.com/item?id=45288739) - [Obsidian Note Codes](https://ezhik.jp/obsidian/note-codes/)
 * [2025-09-18, 12:17:51](https://news.ycombinator.com/item?id=45288690) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 * [2025-09-18, 12:00:44](https://news.ycombinator.com/item?id=45288551) - [You Had No Taste Before AI](https://matthewsanabria.dev/posts/you-had-no-taste-before-ai/)
 * [2025-09-18, 11:24:34](https://news.ycombinator.com/item?id=45288271) - [Nvidia to Invest $5B in Intel](https://www.ft.com/content/be8d4c0c-66ff-4dfd-9b43-af6c0b290ada)

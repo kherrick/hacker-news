@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-22](index.md)
+
+* [2025-09-22, 02:32:07](https://news.ycombinator.com/item?id=45328579) - [South Korea's President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html)
