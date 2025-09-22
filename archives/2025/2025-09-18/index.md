@@ -19,6 +19,7 @@
 * [2025-09-18, 20:58:20](https://news.ycombinator.com/item?id=45294934) - [RCA VideoDisc's Legacy: Scanning Capacitance Microscope](https://spectrum.ieee.org/rca-videodisc)
 * [2025-09-18, 20:50:33](https://news.ycombinator.com/item?id=45294859) - [Meta’s live demo fails; “AI” recording plays before the actor takes the steps](https://www.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
 * [2025-09-18, 20:50:33](https://news.ycombinator.com/item?id=45294859) - [Meta's live staged demo fails; the \"AI\" recording plays before the actor acts](https://old.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
+* [2025-09-18, 20:37:30](https://news.ycombinator.com/item?id=45294711) - [What if AMD FX had \"real\" cores? [video]](https://www.youtube.com/watch?v=Lb4FDtAwnqU)
 * [2025-09-18, 20:15:45](https://news.ycombinator.com/item?id=45294440) - [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
 * [2025-09-18, 20:11:29](https://news.ycombinator.com/item?id=45294390) - [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
 * [2025-09-18, 20:03:58](https://news.ycombinator.com/item?id=45294297) - [Simulating a Machine from the 80s](https://rmazur.io/blog/fahivets.html)
