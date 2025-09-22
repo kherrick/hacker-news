@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-09-22, 22:16:59",
-      "https://news.ycombinator.com/item?id=45340295"
-    ],
-    [
-      "Linux: Make the Kernel Cute",
-      "https://github.com/torvalds/linux/pull/1290"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 22:12:25",
-      "https://news.ycombinator.com/item?id=45340251"
-    ],
-    [
-      "Show HN: Perfect your presentation with a panel of AI reviewers",
-      "https://review.thorntale.com/"
-    ]
-  ],
-  [
-    [
       "2025-09-22, 22:02:01",
       "https://news.ycombinator.com/item?id=45340133"
     ],
@@ -101,6 +81,16 @@
   ],
   [
     [
+      "2025-09-22, 16:30:03",
+      "https://news.ycombinator.com/item?id=45335774"
+    ],
+    [
+      "California issues fine over lawyer's ChatGPT fabrications",
+      "https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 16:21:35",
       "https://news.ycombinator.com/item?id=45335635"
     ],
@@ -147,6 +137,16 @@
     [
       "What is algebraic about algebraic effects?",
       "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 13:29:33",
+      "https://news.ycombinator.com/item?id=45333190"
+    ],
+    [
+      "What if we treated Postgres like SQLite?",
+      "https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite"
     ]
   ],
   [
