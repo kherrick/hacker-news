@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-22, 03:20:21",
+      "https://news.ycombinator.com/item?id=45328797"
+    ],
+    [
+      "Oracle- $5Billion to England AI, 1.3 Billion to Make Oxford a new Silicon Valley",
+      "https://cloudindustryreview.com/oracle-unveils-5-billion-investment-in-uk-cloud-infrastructure/"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 02:32:07",
       "https://news.ycombinator.com/item?id=45328579"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-09-22, 02:24:50",
+      "https://news.ycombinator.com/item?id=45328537"
+    ],
+    [
+      "DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms",
+      "https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 02:00:09",
       "https://news.ycombinator.com/item?id=45328404"
     ],
     [
       "Fs-code – PyFilesystems for Gitlab, GitHub, and Git",
       "https://danjou.gitlab.io/fs-code/dev/codefs.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 01:46:37",
+      "https://news.ycombinator.com/item?id=45328335"
+    ],
+    [
+      "Pointer Tagging in C++: The Art of Packing Bits into a Pointer",
+      "https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
       "https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 23:16:08",
-      "https://news.ycombinator.com/item?id=45327531"
-    ],
-    [
-      "Be careful with Go struct embedding",
-      "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-09-21, 20:35:14",
-      "https://news.ycombinator.com/item?id=45326388"
-    ],
-    [
-      "Apple Silicon GPU Support in Mojo",
-      "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 18:37:04",
       "https://news.ycombinator.com/item?id=45325410"
     ],
@@ -157,16 +167,6 @@
     [
       "Timesketch: Collaborative forensic timeline analysis",
       "https://github.com/google/timesketch"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 15:57:49",
-      "https://news.ycombinator.com/item?id=45323856"
-    ],
-    [
-      "LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain",
-      "https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-09-18, 20:58:20",
+      "https://news.ycombinator.com/item?id=45294934"
+    ],
+    [
+      "RCA VideoDisc's Legacy: Scanning Capacitance Microscope",
+      "https://spectrum.ieee.org/rca-videodisc"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 18:43:34",
       "https://news.ycombinator.com/item?id=45293438"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: I wrote an OS in 1000 lines of Zig",
       "https://github.com/botirk38/OS-1000-lines-zig"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 14:05:17",
-      "https://news.ycombinator.com/item?id=45289862"
-    ],
-    [
-      "Model Flop Utilization Beyond 6ND",
-      "https://jott.live/markdown/mfu"
     ]
   ],
   [
