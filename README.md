@@ -4,7 +4,7 @@
 * [2025-09-22, 19:49:02](https://news.ycombinator.com/item?id=45338561) - [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
 * [2025-09-22, 18:22:53](https://news.ycombinator.com/item?id=45337450) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 * [2025-09-22, 18:21:29](https://news.ycombinator.com/item?id=45337433) - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
-* [2025-09-22, 18:07:13](https://news.ycombinator.com/item?id=45337253) - [AI-Generated \"Workslop\" Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
+* [2025-09-22, 18:07:13](https://news.ycombinator.com/item?id=45337253) - [AI-generated “workslop” is destroying productivity?](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
 * [2025-09-22, 17:01:04](https://news.ycombinator.com/item?id=45336282) - [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
 * [2025-09-22, 16:30:03](https://news.ycombinator.com/item?id=45335774) - [California issues fine over lawyer's ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)
