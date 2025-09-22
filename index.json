@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-22, 21:15:06",
-      "https://news.ycombinator.com/item?id=45339525"
+      "2025-09-22, 22:12:25",
+      "https://news.ycombinator.com/item?id=45340251"
     ],
     [
-      "The Cracker Barrel Hype(rreality)",
-      "https://www.unpopularfront.news/p/the-cracker-barrel-hyperreality"
+      "Show HN: Perfect your presentation with a panel of AI reviewers",
+      "https://review.thorntale.com/"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 22:02:01",
+      "https://news.ycombinator.com/item?id=45340133"
+    ],
+    [
+      "Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents",
+      "https://arxiv.org/abs/2509.06917"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Unweaving warp specialization on modern tensor core GPUs",
       "https://rohany.github.io/blog/warp-specialization/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 19:49:02",
-      "https://news.ycombinator.com/item?id=45338561"
-    ],
-    [
-      "Fine-grained HTTP filtering for Claude Code",
-      "https://ammar.io/blog/httpjail"
     ]
   ],
   [
