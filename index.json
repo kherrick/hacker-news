@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-22, 08:11:59",
-      "https://news.ycombinator.com/item?id=45330464"
+      "2025-09-22, 08:03:59",
+      "https://news.ycombinator.com/item?id=45330407"
     ],
     [
-      "Australian telco cut off emergency calls, firewall upgrade linked to 3 deaths",
-      "https://www.theregister.com/2025/09/21/optus_emergency_call_incident/"
+      "SGI demos from long ago in the browser via WASM",
+      "https://github.com/sgi-demos"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 07:59:37",
+      "https://news.ycombinator.com/item?id=45330378"
+    ],
+    [
+      "You did this with an AI and you do not understand what you're doing here",
+      "https://hackerone.com/reports/3340109"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)",
       "https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 01:46:37",
-      "https://news.ycombinator.com/item?id=45328335"
-    ],
-    [
-      "Pointer Tagging in C++: The Art of Packing Bits into a Pointer",
-      "https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing"
     ]
   ],
   [
