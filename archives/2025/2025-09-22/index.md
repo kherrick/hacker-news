@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why Local-First Apps Haven't Become Popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
+* [2025-09-22, 13:03:10](https://news.ycombinator.com/item?id=45332859) - [Why I'm Spoiled by Apple Silicon (But Still Love Framework)](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
 * [2025-09-22, 12:20:32](https://news.ycombinator.com/item?id=45332400) - [DeepSeek-v3.1-Terminus](https://api-docs.deepseek.com/news/news250922)
 * [2025-09-22, 11:59:01](https://news.ycombinator.com/item?id=45332196) - [Is a movie prop the ultimate laptop bag?](https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html)
 * [2025-09-22, 11:52:41](https://news.ycombinator.com/item?id=45332130) - [Easy Forth](https://skilldrick.github.io/easyforth/)
@@ -13,6 +15,7 @@
 * [2025-09-22, 10:00:57](https://news.ycombinator.com/item?id=45331213) - [M4.6 Earthquake – 2 km ESE of Berkeley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive)
 * [2025-09-22, 09:57:55](https://news.ycombinator.com/item?id=45331187) - [Some Republicans Warn of Government Overreach on Free Speech](https://www.wsj.com/politics/policy/some-republicans-warn-of-government-overreach-on-free-speech-821e7caf)
 * [2025-09-22, 09:52:04](https://news.ycombinator.com/item?id=45331138) - [Germany leads EU push to block Big Tech from financial data access system](https://www.mitrade.com/au/insights/news/live-news/article-3-1139033-20250921)
+* [2025-09-22, 09:37:12](https://news.ycombinator.com/item?id=45331030) - [Beyond the Front Page: A Personal Guide to Hacker News](https://hsu.cy/2025/09/how-to-read-hn/)
 * [2025-09-22, 09:33:32](https://news.ycombinator.com/item?id=45331009) - [LinkedIn will soon train AI models with data from European users](https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/)
 * [2025-09-22, 09:32:44](https://news.ycombinator.com/item?id=45331001) - [Show HN: Coding Agents swarming your codebase](https://infrastructureas.ai)
 * [2025-09-22, 09:02:57](https://news.ycombinator.com/item?id=45330818) - [Metamaterials, AI, and the Road to Invisibility Cloaks](https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to)
