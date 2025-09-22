@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 18:25:36](https://news.ycombinator.com/item?id=45337483) - [A collection of technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
+* [2025-09-22, 18:21:29](https://news.ycombinator.com/item?id=45337433) - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
+* [2025-09-22, 18:18:56](https://news.ycombinator.com/item?id=45337400) - [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
+* [2025-09-22, 18:07:13](https://news.ycombinator.com/item?id=45337253) - [AI-Generated \"Workslop\" Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
+* [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI Model for Text, Image & Video](https://github.com/QwenLM/Qwen3-Omni)
 * [2025-09-22, 17:01:04](https://news.ycombinator.com/item?id=45336282) - [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
 * [2025-09-22, 16:30:03](https://news.ycombinator.com/item?id=45335774) - [California issues historic fine over lawyer's ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)
 * [2025-09-22, 16:25:35](https://news.ycombinator.com/item?id=45335695) - [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
