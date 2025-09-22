@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 05:33:54](https://news.ycombinator.com/item?id=45329414) - [Download Responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
 * [2025-09-22, 04:35:27](https://news.ycombinator.com/item?id=45329127) - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
 * [2025-09-22, 03:41:58](https://news.ycombinator.com/item?id=45328881) - [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668)
 * [2025-09-22, 03:20:21](https://news.ycombinator.com/item?id=45328797) - [Oracle- $5Billion to England AI, 1.3 Billion to Make Oxford a new Silicon Valley](https://cloudindustryreview.com/oracle-unveils-5-billion-investment-in-uk-cloud-infrastructure/)

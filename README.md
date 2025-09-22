@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-22, 05:33:54](https://news.ycombinator.com/item?id=45329414) - [Download Responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
 * [2025-09-22, 04:35:27](https://news.ycombinator.com/item?id=45329127) - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
 * [2025-09-22, 03:41:58](https://news.ycombinator.com/item?id=45328881) - [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668)
 * [2025-09-22, 02:32:07](https://news.ycombinator.com/item?id=45328579) - [South Korea's President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html)
 * [2025-09-22, 02:26:22](https://news.ycombinator.com/item?id=45328545) - [Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs](https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27)
 * [2025-09-22, 02:24:50](https://news.ycombinator.com/item?id=45328537) - [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true)
 * [2025-09-22, 01:46:37](https://news.ycombinator.com/item?id=45328335) - [Pointer Tagging in C++: The Art of Packing Bits into a Pointer](https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing)
-* [2025-09-22, 01:37:35](https://news.ycombinator.com/item?id=45328293) - [Show HN: Wan-Animate – Unified Character Animation and Replacement](https://www.wananimate.net/)
 * [2025-09-22, 01:27:34](https://news.ycombinator.com/item?id=45328247) - [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
 * [2025-09-21, 22:56:31](https://news.ycombinator.com/item?id=45327417) - [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
 * [2025-09-21, 22:20:16](https://news.ycombinator.com/item?id=45327199) - [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating)
