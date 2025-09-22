@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-22, 14:34:11",
+      "https://news.ycombinator.com/item?id=45334032"
+    ],
+    [
+      "Dear GitHub: no YAML anchors, please",
+      "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 14:30:10",
+      "https://news.ycombinator.com/item?id=45333978"
+    ],
+    [
+      "What is algebraic about algebraic effects?",
+      "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 13:17:59",
       "https://news.ycombinator.com/item?id=45333021"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-09-21, 21:18:14",
-      "https://news.ycombinator.com/item?id=45326740"
-    ],
-    [
-      "Lightweight, highly accurate line and paragraph detection",
-      "https://arxiv.org/abs/2203.09638"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 16:43:45",
       "https://news.ycombinator.com/item?id=45324349"
     ],
@@ -287,16 +297,6 @@
     [
       "I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years",
       "https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 07:27:22",
-      "https://news.ycombinator.com/item?id=45286622"
-    ],
-    [
-      "40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language",
-      "https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html"
     ]
   ]
 ]
