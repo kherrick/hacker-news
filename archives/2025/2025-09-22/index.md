@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
 * [2025-09-22, 18:25:36](https://news.ycombinator.com/item?id=45337483) - [A collection of technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
+* [2025-09-22, 18:22:53](https://news.ycombinator.com/item?id=45337450) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 * [2025-09-22, 18:21:29](https://news.ycombinator.com/item?id=45337433) - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
 * [2025-09-22, 18:18:56](https://news.ycombinator.com/item?id=45337400) - [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
 * [2025-09-22, 18:07:13](https://news.ycombinator.com/item?id=45337253) - [AI-Generated \"Workslop\" Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
