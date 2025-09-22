@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-09-22, 15:48:51",
+      "https://news.ycombinator.com/item?id=45335135"
+    ],
+    [
+      "UK Millionaire exodus did not occur, study reveals",
+      "https://taxjustice.net/press/millionaire-exodus-did-not-occur-study-reveals/"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 15:48:36",
+      "https://news.ycombinator.com/item?id=45335129"
+    ],
+    [
+      "Human-Oriented Markup Language",
+      "https://huml.io/"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 15:14:27",
       "https://news.ycombinator.com/item?id=45334599"
     ],
     [
-      "Cloudflare: A New Internet Business Model",
+      "A New Internet Business Model?",
       "https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/"
     ]
   ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45334545"
     ],
     [
-      "PlanetScale announces PlanetScale for Postgres is GA",
+      "PlanetScale for Postgres is now GA",
       "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45334250"
     ],
     [
-      "A Simple Way to Measure Knots Has Come Unraveled",
+      "A simple way to measure knots has come unraveled",
       "https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/"
     ]
   ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=45332130"
     ],
     [
-      "Easy Forth",
+      "Easy Forth (2015)",
       "https://skilldrick.github.io/easyforth/"
     ]
   ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-09-18, 20:37:30",
-      "https://news.ycombinator.com/item?id=45294711"
+      "2025-09-18, 19:44:42",
+      "https://news.ycombinator.com/item?id=45294095"
     ],
     [
-      "What if AMD FX had \"real\" cores? [video]",
-      "https://www.youtube.com/watch?v=Lb4FDtAwnqU"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 20:03:58",
-      "https://news.ycombinator.com/item?id=45294297"
-    ],
-    [
-      "Simulating a Machine from the 80s",
-      "https://rmazur.io/blog/fahivets.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 17:22:43",
-      "https://news.ycombinator.com/item?id=45292387"
-    ],
-    [
-      "A Generalized Algebraic Theory of Directed Equality",
-      "https://jacobneu.phd/"
+      "Emerald Source Code Commentary",
+      "https://0xabad1dea.github.io/emeraldscc/"
     ]
   ],
   [
