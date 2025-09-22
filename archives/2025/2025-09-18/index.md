@@ -20,6 +20,7 @@
 * [2025-09-18, 20:50:33](https://news.ycombinator.com/item?id=45294859) - [Meta's live staged demo fails; the \"AI\" recording plays before the actor acts](https://old.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
 * [2025-09-18, 20:15:45](https://news.ycombinator.com/item?id=45294440) - [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
 * [2025-09-18, 20:11:29](https://news.ycombinator.com/item?id=45294390) - [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
+* [2025-09-18, 20:03:58](https://news.ycombinator.com/item?id=45294297) - [Simulating a Machine from the 80s](https://rmazur.io/blog/fahivets.html)
 * [2025-09-18, 19:41:50](https://news.ycombinator.com/item?id=45294058) - [U.S. has the critical minerals it needs – but they're being thrown away](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
 * [2025-09-18, 19:41:40](https://news.ycombinator.com/item?id=45294053) - [The SAT Game](https://www.cril.univ-artois.fr/~roussel/satgame/satgame.php?level=5&lang=eng)
 * [2025-09-18, 19:21:33](https://news.ycombinator.com/item?id=45293839) - [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
