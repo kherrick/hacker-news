@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
 * [2025-09-22, 08:11:59](https://news.ycombinator.com/item?id=45330464) - [Australian telco cut off emergency calls, firewall upgrade linked to 3 deaths](https://www.theregister.com/2025/09/21/optus_emergency_call_incident/)
+* [2025-09-22, 08:03:59](https://news.ycombinator.com/item?id=45330407) - [SGI demos from long ago in the browser via WASM](https://github.com/sgi-demos)
+* [2025-09-22, 07:59:37](https://news.ycombinator.com/item?id=45330378) - [You did this with an AI and you do not understand what you're doing here](https://hackerone.com/reports/3340109)
 * [2025-09-22, 07:35:43](https://news.ycombinator.com/item?id=45330198) - [Show HN: Software Freelancers Contract Template](https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en)
 * [2025-09-22, 05:33:54](https://news.ycombinator.com/item?id=45329414) - [Download Responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
 * [2025-09-22, 04:35:27](https://news.ycombinator.com/item?id=45329127) - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
