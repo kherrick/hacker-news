@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-09-22, 13:29:33",
-      "https://news.ycombinator.com/item?id=45333190"
-    ],
-    [
-      "What if we treated Postgres like SQLite?",
-      "https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite"
-    ]
-  ],
-  [
-    [
       "2025-09-22, 13:05:32",
       "https://news.ycombinator.com/item?id=45332883"
     ],
@@ -257,6 +247,16 @@
     [
       "Biconnected components",
       "https://emi-h.com/articles/bcc.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 14:26:10",
+      "https://news.ycombinator.com/item?id=45323027"
+    ],
+    [
+      "The Beginner's Textbook for Fully Homomorphic Encryption",
+      "https://arxiv.org/abs/2503.05136"
     ]
   ],
   [
