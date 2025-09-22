@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-09-22, 13:03:10",
-      "https://news.ycombinator.com/item?id=45332859"
+      "2025-09-22, 12:59:30",
+      "https://news.ycombinator.com/item?id=45332814"
     ],
     [
-      "Why I'm Spoiled by Apple Silicon (But Still Love Framework)",
-      "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/"
+      "CompileBench: Can AI Compile 22-year-old Code?",
+      "https://quesma.com/blog/introducing-compilebench/"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Easy Forth",
       "https://skilldrick.github.io/easyforth/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 11:51:20",
-      "https://news.ycombinator.com/item?id=45332120"
-    ],
-    [
-      "Tesla coast-to-coast FSD crashes after 60 miles",
-      "https://electrek.co/2025/09/21/tesla-influencers-tried-elon-musk-coast-to-coast-self-driving-crashed-before-60-miles/"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "We Politely Insist: Your LLM Must Learn the Persian Art of Taarof",
       "https://arxiv.org/abs/2509.01035"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 23:16:08",
+      "https://news.ycombinator.com/item?id=45327531"
+    ],
+    [
+      "Be careful with Go struct embedding",
+      "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
     ]
   ],
   [
