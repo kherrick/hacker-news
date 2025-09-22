@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why Local-First Apps Haven't Become Popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
+* [2025-09-22, 13:03:33](https://news.ycombinator.com/item?id=45332860) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
 * [2025-09-22, 12:59:30](https://news.ycombinator.com/item?id=45332814) - [CompileBench: Can AI Compile 22-year-old Code?](https://quesma.com/blog/introducing-compilebench/)
 * [2025-09-22, 12:20:32](https://news.ycombinator.com/item?id=45332400) - [DeepSeek-v3.1-Terminus](https://api-docs.deepseek.com/news/news250922)
 * [2025-09-22, 11:52:41](https://news.ycombinator.com/item?id=45332130) - [Easy Forth](https://skilldrick.github.io/easyforth/)
@@ -15,7 +16,6 @@
 * [2025-09-22, 04:35:27](https://news.ycombinator.com/item?id=45329127) - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
 * [2025-09-22, 01:27:34](https://news.ycombinator.com/item?id=45328247) - [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
 * [2025-09-22, 00:31:06](https://news.ycombinator.com/item?id=45327964) - [We Politely Insist: Your LLM Must Learn the Persian Art of Taarof](https://arxiv.org/abs/2509.01035)
-* [2025-09-21, 23:16:08](https://news.ycombinator.com/item?id=45327531) - [Be careful with Go struct embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
 * [2025-09-21, 23:06:42](https://news.ycombinator.com/item?id=45327478) - [Biconnected components](https://emi-h.com/articles/bcc.html)
 * [2025-09-21, 22:56:31](https://news.ycombinator.com/item?id=45327417) - [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
 * [2025-09-21, 22:20:16](https://news.ycombinator.com/item?id=45327199) - [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating)

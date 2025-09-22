@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why Local-First Apps Haven't Become Popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
+* [2025-09-22, 13:03:33](https://news.ycombinator.com/item?id=45332860) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
 * [2025-09-22, 13:03:10](https://news.ycombinator.com/item?id=45332859) - [Why I'm Spoiled by Apple Silicon (But Still Love Framework)](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
 * [2025-09-22, 12:59:30](https://news.ycombinator.com/item?id=45332814) - [CompileBench: Can AI Compile 22-year-old Code?](https://quesma.com/blog/introducing-compilebench/)
 * [2025-09-22, 12:20:32](https://news.ycombinator.com/item?id=45332400) - [DeepSeek-v3.1-Terminus](https://api-docs.deepseek.com/news/news250922)
