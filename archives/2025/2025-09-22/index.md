@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 17:01:04](https://news.ycombinator.com/item?id=45336282) - [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
+* [2025-09-22, 16:25:35](https://news.ycombinator.com/item?id=45335695) - [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
 * [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia Announce Partnership to Deploy 10GW of Nvidia Systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 * [2025-09-22, 16:08:57](https://news.ycombinator.com/item?id=45335452) - [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
 * [2025-09-22, 15:54:37](https://news.ycombinator.com/item?id=45335222) - [The American nations across North America](https://colinwoodard.com/new-map-the-american-nations-regions-across-north-america/)
