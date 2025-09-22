@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 10:20:43](https://news.ycombinator.com/item?id=45331370) - [Kmart's use of facial recognition to tackle refund fraud unlawful](https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds)
 * [2025-09-22, 10:01:20](https://news.ycombinator.com/item?id=45331217) - [Tell the EU: Don't Break Encryption with \"Chat Control\"](https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/)
 * [2025-09-22, 10:00:57](https://news.ycombinator.com/item?id=45331213) - [M4.6 Earthquake – 2 km ESE of Berkeley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive)
 * [2025-09-22, 09:57:55](https://news.ycombinator.com/item?id=45331187) - [Some Republicans Warn of Government Overreach on Free Speech](https://www.wsj.com/politics/policy/some-republicans-warn-of-government-overreach-on-free-speech-821e7caf)
