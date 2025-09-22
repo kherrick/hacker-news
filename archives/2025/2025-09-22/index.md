@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 12:20:32](https://news.ycombinator.com/item?id=45332400) - [DeepSeek-v3.1-Terminus](https://api-docs.deepseek.com/news/news250922)
+* [2025-09-22, 11:59:01](https://news.ycombinator.com/item?id=45332196) - [Is a movie prop the ultimate laptop bag?](https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html)
+* [2025-09-22, 11:52:41](https://news.ycombinator.com/item?id=45332130) - [Easy Forth](https://skilldrick.github.io/easyforth/)
 * [2025-09-22, 11:51:20](https://news.ycombinator.com/item?id=45332120) - [Tesla coast-to-coast FSD crashes after 60 miles](https://electrek.co/2025/09/21/tesla-influencers-tried-elon-musk-coast-to-coast-self-driving-crashed-before-60-miles/)
 * [2025-09-22, 10:20:43](https://news.ycombinator.com/item?id=45331370) - [Kmart's use of facial recognition to tackle refund fraud unlawful](https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds)
 * [2025-09-22, 10:01:20](https://news.ycombinator.com/item?id=45331217) - [Tell the EU: Don't Break Encryption with \"Chat Control\"](https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/)
