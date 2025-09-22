@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
 * [2025-09-18, 23:48:48](https://news.ycombinator.com/item?id=45296403) - [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
+* [2025-09-18, 23:22:57](https://news.ycombinator.com/item?id=45296221) - [Optimized Materials in a Flash](https://newscenter.lbl.gov/2025/09/18/optimized-materials-in-a-flash/)
 * [2025-09-18, 23:17:57](https://news.ycombinator.com/item?id=45296182) - [Jimmy Kimmel Should Have Strong Odds at the Supreme Court](https://www.politico.com/news/magazine/2025/09/18/jimmy-kimmel-supreme-court-first-amendment-lawsuit-00570697)
 * [2025-09-18, 22:52:21](https://news.ycombinator.com/item?id=45295995) - [Classic recessive-or-dominant gene dynamics may not be so simple](https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research)
 * [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
