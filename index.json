@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-09-22, 13:17:59",
+      "https://news.ycombinator.com/item?id=45333021"
+    ],
+    [
+      "Why Local-First Apps Haven't Become Popular?",
+      "https://marcobambini.substack.com/p/why-local-first-apps-havent-become"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 13:03:10",
+      "https://news.ycombinator.com/item?id=45332859"
+    ],
+    [
+      "Why I'm Spoiled by Apple Silicon (But Still Love Framework)",
+      "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 12:20:32",
       "https://news.ycombinator.com/item?id=45332400"
     ],
     [
       "DeepSeek-v3.1-Terminus",
       "https://api-docs.deepseek.com/news/news250922"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 11:59:01",
-      "https://news.ycombinator.com/item?id=45332196"
-    ],
-    [
-      "Is a movie prop the ultimate laptop bag?",
-      "https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html"
     ]
   ],
   [
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2025-09-22, 09:33:32",
-      "https://news.ycombinator.com/item?id=45331009"
+      "2025-09-22, 09:37:12",
+      "https://news.ycombinator.com/item?id=45331030"
     ],
     [
-      "LinkedIn will soon train AI models with data from European users",
-      "https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/"
+      "Beyond the Front Page: A Personal Guide to Hacker News",
+      "https://hsu.cy/2025/09/how-to-read-hn/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "We Politely Insist: Your LLM Must Learn the Persian Art of Taarof",
       "https://arxiv.org/abs/2509.01035"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 23:16:08",
-      "https://news.ycombinator.com/item?id=45327531"
-    ],
-    [
-      "Be careful with Go struct embedding",
-      "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
     ]
   ],
   [
