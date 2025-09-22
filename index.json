@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-22, 15:14:27",
+      "https://news.ycombinator.com/item?id=45334599"
+    ],
+    [
+      "Cloudflare: A New Internet Business Model",
+      "https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 15:10:48",
+      "https://news.ycombinator.com/item?id=45334545"
+    ],
+    [
+      "PlanetScale announces PlanetScale for Postgres is GA",
+      "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 14:49:16",
       "https://news.ycombinator.com/item?id=45334250"
     ],
@@ -27,6 +47,16 @@
     [
       "What is algebraic about algebraic effects?",
       "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 13:29:33",
+      "https://news.ycombinator.com/item?id=45333190"
+    ],
+    [
+      "What if we treated Postgres like SQLite?",
+      "https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2025-09-21, 16:43:45",
-      "https://news.ycombinator.com/item?id=45324349"
-    ],
-    [
-      "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
-      "https://github.com/rxi/sj.h"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 12:11:18",
-      "https://news.ycombinator.com/item?id=45322030"
-    ],
-    [
-      "What happens when coding agents stop feeling like dialup?",
-      "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 09:12:08",
       "https://news.ycombinator.com/item?id=45311705"
     ],
@@ -277,16 +287,6 @@
     [
       "Simulating a Machine from the 80s",
       "https://rmazur.io/blog/fahivets.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 17:22:43",
-      "https://news.ycombinator.com/item?id=45292387"
-    ],
-    [
-      "A Generalized Algebraic Theory of Directed Equality",
-      "https://jacobneu.phd/"
     ]
   ],
   [
