@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-22, 02:32:07",
+      "https://news.ycombinator.com/item?id=45328579"
+    ],
+    [
+      "South Korea's President says US investment demands would spark financial crisis",
+      "https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 23:16:08",
       "https://news.ycombinator.com/item?id=45327531"
     ],
     [
-      "Be Careful with Go Struct Embedding",
+      "Be careful with Go struct embedding",
       "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 22:56:31",
+      "https://news.ycombinator.com/item?id=45327417"
+    ],
+    [
+      "Why is Venus hell and Earth an Eden?",
+      "https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-09-21, 16:00:06",
-      "https://news.ycombinator.com/item?id=45323875"
-    ],
-    [
-      "Show HN: Freeing GPUs stuck by runaway jobs",
-      "https://github.com/kagehq/gpu-kill"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 15:57:49",
       "https://news.ycombinator.com/item?id=45323856"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-09-20, 07:52:48",
-      "https://news.ycombinator.com/item?id=45311360"
-    ],
-    [
-      "The Counterclockwise Experiment",
-      "https://domofutu.substack.com/p/the-counterclockwise-experiment"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 21:59:54",
       "https://news.ycombinator.com/item?id=45295538"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-09-18, 16:58:58",
-      "https://news.ycombinator.com/item?id=45292066"
-    ],
-    [
-      "First Ultrasonic Chef's Knife Vibrates 40,000X/Second for Easy Cutting",
-      "https://www.cnet.com/home/kitchen-and-household/worlds-first-ultrasonic-chefs-knife-vibrates-40000-times-per-second-for-easy-cutting/"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 15:09:50",
       "https://news.ycombinator.com/item?id=45290636"
     ],
@@ -277,6 +267,16 @@
     [
       "Model Flop Utilization Beyond 6ND",
       "https://jott.live/markdown/mfu"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 12:22:38",
+      "https://news.ycombinator.com/item?id=45288739"
+    ],
+    [
+      "Obsidian Note Codes",
+      "https://ezhik.jp/obsidian/note-codes/"
     ]
   ],
   [
