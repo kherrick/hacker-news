@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-22, 20:25:51](https://news.ycombinator.com/item?id=45338990) - [Umberto Eco: Ur-Fascism](https://bobmschwartz.com/2017/12/28/umberto-eco-ur-fascism/)
 * [2025-09-22, 20:09:00](https://news.ycombinator.com/item?id=45338798) - [Rand Paul: FCC chair had \"no business\" intervening in ABC/Kimmel controversy](https://arstechnica.com/tech-policy/2025/09/rand-paul-fcc-chair-had-no-business-intervening-in-abc-kimmel-controversy/)
 * [2025-09-22, 19:53:42](https://news.ycombinator.com/item?id=45338625) - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
 * [2025-09-22, 19:49:02](https://news.ycombinator.com/item?id=45338561) - [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
@@ -28,8 +29,7 @@
 * [2025-09-21, 18:13:09](https://news.ycombinator.com/item?id=45325208) - [Transforming recursion into iteration for LLVM loop optimizations](https://dspace.mit.edu/handle/1721.1/162684)
 * [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-21, 12:11:18](https://news.ycombinator.com/item?id=45322030) - [What happens when coding agents stop feeling like dialup?](https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/)
-* [2025-09-19, 14:29:23](https://news.ycombinator.com/item?id=45302073) - [I Was a Weird Kid: Jailhouse Confessions of a Teen Hacker](https://www.bloomberg.com/news/features/2025-09-19/multimillion-dollar-hacking-spree-scattered-spider-teen-s-jailhouse-confessions)
-* [2025-09-19, 10:13:53](https://news.ycombinator.com/item?id=45299932) - [The Collapse of the Tjörn Bridge, Sweden, 1980](https://www.legalscandal.info/ls_eng/tjorn_bridge_disaster.html)
+* [2025-09-19, 14:29:23](https://news.ycombinator.com/item?id=45302073) - [Jailhouse confessions of a teen hacker](https://www.bloomberg.com/news/features/2025-09-19/multimillion-dollar-hacking-spree-scattered-spider-teen-s-jailhouse-confessions)
 
 ## [Archives](archives/index.md)
 
