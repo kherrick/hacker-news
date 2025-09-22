@@ -26,8 +26,8 @@
 * [2025-09-22, 01:27:34](https://news.ycombinator.com/item?id=45328247) - [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
 * [2025-09-22, 00:31:06](https://news.ycombinator.com/item?id=45327964) - [We Politely Insist: Your LLM Must Learn the Persian Art of Taarof](https://arxiv.org/abs/2509.01035)
 * [2025-09-21, 23:06:42](https://news.ycombinator.com/item?id=45327478) - [Biconnected components](https://emi-h.com/articles/bcc.html)
+* [2025-09-21, 22:56:31](https://news.ycombinator.com/item?id=45327417) - [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
 * [2025-09-20, 09:12:08](https://news.ycombinator.com/item?id=45311705) - [A Beautiful Maths Game](https://sinerider.com/)
-* [2025-09-20, 07:52:48](https://news.ycombinator.com/item?id=45311360) - [The Counterclockwise Experiment](https://domofutu.substack.com/p/the-counterclockwise-experiment)
 * [2025-09-18, 19:44:42](https://news.ycombinator.com/item?id=45294095) - [Emerald Source Code Commentary](https://0xabad1dea.github.io/emeraldscc/)
 * [2025-09-18, 13:21:35](https://news.ycombinator.com/item?id=45289370) - [The death rays that guard life](https://worksinprogress.co/issue/the-death-rays-that-guard-life/)
 
