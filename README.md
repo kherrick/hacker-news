@@ -10,7 +10,6 @@
 * [2025-09-22, 00:31:06](https://news.ycombinator.com/item?id=45327964) - [We Politely Insist: Your LLM Must Learn the Persian Art of Taarof](https://arxiv.org/abs/2509.01035)
 * [2025-09-21, 22:56:31](https://news.ycombinator.com/item?id=45327417) - [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
 * [2025-09-21, 22:20:16](https://news.ycombinator.com/item?id=45327199) - [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating)
-* [2025-09-21, 21:59:12](https://news.ycombinator.com/item?id=45327059) - [My new Git utility `what-changed-twice` needs a new name](https://blog.plover.com/2025/09/21/#what-changed-twice)
 * [2025-09-21, 21:19:47](https://news.ycombinator.com/item?id=45326754) - [Show HN: Tips to stay safe from NPM supply chain attacks](https://github.com/bodadotsh/npm-security-best-practices)
 * [2025-09-21, 21:18:14](https://news.ycombinator.com/item?id=45326740) - [Lightweight, highly accurate line and paragraph detection](https://arxiv.org/abs/2203.09638)
 * [2025-09-21, 21:11:57](https://news.ycombinator.com/item?id=45326690) - [Procedural Island Generation (VI)](https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html)
@@ -28,6 +27,7 @@
 * [2025-09-18, 17:22:43](https://news.ycombinator.com/item?id=45292387) - [A Generalized Algebraic Theory of Directed Equality](https://jacobneu.phd/)
 * [2025-09-18, 16:59:50](https://news.ycombinator.com/item?id=45292084) - [How Isaac Newton discovered the binomial power series (2022)](https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/)
 * [2025-09-18, 12:22:38](https://news.ycombinator.com/item?id=45288739) - [Obsidian Note Codes](https://ezhik.jp/obsidian/note-codes/)
+* [2025-09-18, 11:43:41](https://news.ycombinator.com/item?id=45288440) - [I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years](https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/)
 * [2025-09-18, 07:27:22](https://news.ycombinator.com/item?id=45286622) - [40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language](https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html)
 * [2025-09-18, 04:53:03](https://news.ycombinator.com/item?id=45285562) - [INapGPU: Text-mode graphics card, using only TTL gates](https://github.com/Leoneq/iNapGPU)
 
