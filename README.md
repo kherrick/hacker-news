@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-22, 23:16:01](https://news.ycombinator.com/item?id=45340814) - [Designating Antifa as a Domestic Terrorist Organization](https://www.whitehouse.gov/presidential-actions/2025/09/designating-antifa-as-a-domestic-terrorist-organization/)
 * [2025-09-22, 22:51:09](https://news.ycombinator.com/item?id=45340600) - [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
 * [2025-09-22, 22:45:54](https://news.ycombinator.com/item?id=45340550) - [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1)
 * [2025-09-22, 22:33:56](https://news.ycombinator.com/item?id=45340442) - [Priced out of traditional housing, more Americans are living in RVs](https://www.nbcnews.com/news/us-news/americans-choose-rv-life-economy-challenges-housing-market-cost-rcna231942)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
-* [2025-09-22, 19:53:42](https://news.ycombinator.com/item?id=45338625) - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
 * [2025-09-22, 18:22:53](https://news.ycombinator.com/item?id=45337450) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 * [2025-09-22, 18:21:29](https://news.ycombinator.com/item?id=45337433) - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
 * [2025-09-22, 18:18:56](https://news.ycombinator.com/item?id=45337400) - [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
