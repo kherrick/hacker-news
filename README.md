@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-22, 20:09:00](https://news.ycombinator.com/item?id=45338798) - [Rand Paul: FCC chair had \"no business\" intervening in ABC/Kimmel controversy](https://arstechnica.com/tech-policy/2025/09/rand-paul-fcc-chair-had-no-business-intervening-in-abc-kimmel-controversy/)
 * [2025-09-22, 19:53:42](https://news.ycombinator.com/item?id=45338625) - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
 * [2025-09-22, 19:49:02](https://news.ycombinator.com/item?id=45338561) - [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
 * [2025-09-22, 18:22:53](https://news.ycombinator.com/item?id=45337450) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
@@ -7,7 +8,6 @@
 * [2025-09-22, 18:07:13](https://news.ycombinator.com/item?id=45337253) - [AI-generated “workslop” is destroying productivity?](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
 * [2025-09-22, 17:01:04](https://news.ycombinator.com/item?id=45336282) - [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
-* [2025-09-22, 16:30:03](https://news.ycombinator.com/item?id=45335774) - [California issues fine over lawyer's ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)
 * [2025-09-22, 16:21:35](https://news.ycombinator.com/item?id=45335635) - [Testing is better than data structures and algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
 * [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 * [2025-09-22, 16:08:57](https://news.ycombinator.com/item?id=45335452) - [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)
@@ -23,12 +23,12 @@
 * [2025-09-22, 11:59:01](https://news.ycombinator.com/item?id=45332196) - [Is a movie prop the ultimate laptop bag?](https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html)
 * [2025-09-22, 11:52:41](https://news.ycombinator.com/item?id=45332130) - [Easy Forth (2015)](https://skilldrick.github.io/easyforth/)
 * [2025-09-22, 09:37:12](https://news.ycombinator.com/item?id=45331030) - [Beyond the Front Page: A Personal Guide to Hacker News](https://hsu.cy/2025/09/how-to-read-hn/)
-* [2025-09-22, 08:03:59](https://news.ycombinator.com/item?id=45330407) - [SGI demos from long ago in the browser via WASM](https://github.com/sgi-demos)
 * [2025-09-22, 05:16:32](https://news.ycombinator.com/item?id=45329310) - [Categorical Foundations for Cute Layouts](https://research.colfax-intl.com/categorical-foundations-for-cute-layouts/)
 * [2025-09-21, 19:20:23](https://news.ycombinator.com/item?id=45325792) - [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
 * [2025-09-21, 18:13:09](https://news.ycombinator.com/item?id=45325208) - [Transforming recursion into iteration for LLVM loop optimizations](https://dspace.mit.edu/handle/1721.1/162684)
 * [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-21, 12:11:18](https://news.ycombinator.com/item?id=45322030) - [What happens when coding agents stop feeling like dialup?](https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/)
+* [2025-09-19, 14:29:23](https://news.ycombinator.com/item?id=45302073) - [I Was a Weird Kid: Jailhouse Confessions of a Teen Hacker](https://www.bloomberg.com/news/features/2025-09-19/multimillion-dollar-hacking-spree-scattered-spider-teen-s-jailhouse-confessions)
 * [2025-09-19, 10:13:53](https://news.ycombinator.com/item?id=45299932) - [The Collapse of the Tjörn Bridge, Sweden, 1980](https://www.legalscandal.info/ls_eng/tjorn_bridge_disaster.html)
 
 ## [Archives](archives/index.md)

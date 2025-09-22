@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 20:09:00](https://news.ycombinator.com/item?id=45338798) - [Rand Paul: FCC chair had \"no business\" intervening in ABC/Kimmel controversy](https://arstechnica.com/tech-policy/2025/09/rand-paul-fcc-chair-had-no-business-intervening-in-abc-kimmel-controversy/)
 * [2025-09-22, 19:53:42](https://news.ycombinator.com/item?id=45338625) - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
 * [2025-09-22, 19:49:02](https://news.ycombinator.com/item?id=45338561) - [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
 * [2025-09-22, 18:25:36](https://news.ycombinator.com/item?id=45337483) - [A collection of technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
