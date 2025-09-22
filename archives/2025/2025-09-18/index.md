@@ -37,6 +37,7 @@
 * [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
 * [2025-09-18, 17:29:17](https://news.ycombinator.com/item?id=45292475) - [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
 * [2025-09-18, 17:24:22](https://news.ycombinator.com/item?id=45292404) - [Newton for Ladies (1737) – Newtonianism vs. Cartesianism](https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/exhibitions-archive/newton-and-newtonianism/ladies)
+* [2025-09-18, 17:22:43](https://news.ycombinator.com/item?id=45292387) - [A Generalized Algebraic Theory of Directed Equality](https://jacobneu.phd/)
 * [2025-09-18, 17:12:36](https://news.ycombinator.com/item?id=45292260) - [Chrome's New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
 * [2025-09-18, 17:03:35](https://news.ycombinator.com/item?id=45292130) - [Yes, Jimmy Kimmel's suspension was government censorship](https://www.theverge.com/policy/781148/jimmy-kimmel-charlie-kirk-monologue-brendan-carr-censorship-first-amendment)
 * [2025-09-18, 16:59:50](https://news.ycombinator.com/item?id=45292084) - [How Isaac Newton Discovered the Binomial Power Series (2022)](https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/)
