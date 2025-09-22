@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-22, 08:11:59",
+      "https://news.ycombinator.com/item?id=45330464"
+    ],
+    [
+      "Australian telco cut off emergency calls, firewall upgrade linked to 3 deaths",
+      "https://www.theregister.com/2025/09/21/optus_emergency_call_incident/"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 05:33:54",
       "https://news.ycombinator.com/item?id=45329414"
     ],
@@ -157,16 +167,6 @@
     [
       "DXGI debugging: Microsoft put me on a list",
       "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 14:26:10",
-      "https://news.ycombinator.com/item?id=45323027"
-    ],
-    [
-      "Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)",
-      "https://arxiv.org/abs/2503.05136"
     ]
   ],
   [
