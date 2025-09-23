@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-09-23, 02:38:29",
-      "https://news.ycombinator.com/item?id=45342230"
-    ],
-    [
-      "Eschatological thinking: why Peter Thiel is talking about the Antichrist",
-      "https://www.realtimetechpocalypse.com/p/the-political-power-of-eschatological-82b"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 02:35:28",
       "https://news.ycombinator.com/item?id=45342213"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45341683"
     ],
     [
-      "X server implementation for SIXEL-featured terminals",
+      "X server implementation for SIXEL-featured terminals (2010-2014)",
       "https://github.com/saitoha/xserver-SIXEL"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "What happens when coding agents stop feeling like dialup?",
       "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 22:36:05",
+      "https://news.ycombinator.com/item?id=45307570"
+    ],
+    [
+      "Based C++",
+      "https://github.com/SheafificationOfG/based-cpp"
     ]
   ],
   [
