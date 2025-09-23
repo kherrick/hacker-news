@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-23, 16:25:46",
+      "https://news.ycombinator.com/item?id=45349231"
+    ],
+    [
+      "U.S. Secret Service disrupts telecom network that threatened NYC during U.N",
+      "https://www.cbsnews.com/news/u-s-secret-service-disrupts-telecom-network-threatened-new-york-city-u-n-general-assembly/"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 15:50:10",
       "https://news.ycombinator.com/item?id=45348730"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45348421"
     ],
     [
-      "Are Elites Meritocratic and Efficiency-Seeking? Evidence from MBA Students",
+      "Are elites meritocratic and efficiency-seeking? Evidence from MBA students",
       "https://arxiv.org/abs/2503.15443"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
       "https://joel.drapper.me/p/rubygems-takeover/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 15:21:00",
-      "https://news.ycombinator.com/item?id=45348330"
-    ],
-    [
-      "Grindr outage reports coincide with Kirk memorial service in Arizona",
-      "https://www.pride.com/culture/charlie-kirk-grindr-outage"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=45347197"
     ],
     [
-      "State of AI-assisted Software Development",
+      "State of AI-assisted software development",
       "https://blog.google/technology/developers/dora-report-2025/"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=45346387"
     ],
     [
-      "Why Zig Feels More Practical Than Rust",
+      "Zig feels more practical than Rust for real-world CLI tools",
       "https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/"
     ]
   ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-09-20, 14:37:30",
-      "https://news.ycombinator.com/item?id=45313790"
-    ],
-    [
-      "Compiling a Functional Language to LLVM (2023)",
-      "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html"
-    ]
-  ],
-  [
-    [
       "2025-09-19, 19:42:53",
       "https://news.ycombinator.com/item?id=45305642"
     ],
@@ -297,6 +287,16 @@
     [
       "Processing Strings 109x Faster Than Nvidia on H100",
       "https://ashvardanian.com/posts/stringwars-on-gpus/"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 17:34:48",
+      "https://news.ycombinator.com/item?id=45304304"
+    ],
+    [
+      "Smooth weighted round-robin balancing",
+      "https://github.com/nginx/nginx/commit/52327e0627f49dbda1e8db695e63a4b0af4448b1"
     ]
   ]
 ]
