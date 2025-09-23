@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
+* [2025-09-23, 12:00:00](https://news.ycombinator.com/item?id=45345742) - [Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084)
 * [2025-09-23, 11:29:13](https://news.ycombinator.com/item?id=45345514) - [Cache of Devices Capable of Crashing Cell Network Is Found Near U.N](https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html)
 * [2025-09-23, 10:44:57](https://news.ycombinator.com/item?id=45345237) - [Walking Michigan City (Indiana)](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana)
 * [2025-09-23, 10:44:26](https://news.ycombinator.com/item?id=45345233) - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
@@ -16,6 +18,7 @@
 * [2025-09-23, 09:04:43](https://news.ycombinator.com/item?id=45344554) - [The YAML Document from Hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 * [2025-09-23, 08:41:08](https://news.ycombinator.com/item?id=45344402) - [The latest Hunger Games novel may have been co-authored by AI](https://www.reddit.com/r/slatestarcodex/s/V0bvh4w1PY)
 * [2025-09-23, 08:11:01](https://news.ycombinator.com/item?id=45344198) - [Japan's most sacred Shinto shrine rebuilt every 20yrs for more than a millennium](https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96)
+* [2025-09-23, 08:10:06](https://news.ycombinator.com/item?id=45344186) - [Awash in revisionist histories about Apple's web efforts, a look at the evidence](https://infrequently.org/2025/09/cupertinos-comforting-myths/)
 * [2025-09-23, 07:27:26](https://news.ycombinator.com/item?id=45343863) - [Show HN: Mushroom Identifier – Fast and Accurate Mushroom Identification with AI](https://mushroomidentification.online)
 * [2025-09-23, 07:01:44](https://news.ycombinator.com/item?id=45343689) - [Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]](https://hi.telli.com/join-us)
 * [2025-09-23, 06:24:50](https://news.ycombinator.com/item?id=45343449) - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
