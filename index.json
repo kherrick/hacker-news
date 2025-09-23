@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-23, 15:47:35",
+      "https://news.ycombinator.com/item?id=45348700"
+    ],
+    [
+      "\"If you are reading this obituary, it looks like I'm dead. It happened\"",
+      "https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 15:25:29",
+      "https://news.ycombinator.com/item?id=45348390"
+    ],
+    [
+      "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
+      "https://joel.drapper.me/p/rubygems-takeover/"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 14:52:07",
       "https://news.ycombinator.com/item?id=45347914"
     ],
@@ -27,6 +47,16 @@
     [
       "Show HN: Kekkai – a simple, fast file integrity monitoring tool in Go",
       "https://github.com/catatsuy/kekkai"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 14:33:59",
+      "https://news.ycombinator.com/item?id=45347623"
+    ],
+    [
+      "Show HN: Open-source AI data generator (now hosted)",
+      "https://www.metabase.com/ai-data-generator"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-09-23, 10:30:42",
-      "https://news.ycombinator.com/item?id=45345148"
-    ],
-    [
-      "Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors (2024)",
-      "https://arxiv.org/abs/2403.07492"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 09:26:57",
       "https://news.ycombinator.com/item?id=45344708"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-09-23, 09:04:43",
-      "https://news.ycombinator.com/item?id=45344554"
-    ],
-    [
-      "The YAML Document from Hell",
-      "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 06:24:50",
       "https://news.ycombinator.com/item?id=45343449"
     ],
     [
       "Altoids by the Fistful",
       "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 05:30:28",
-      "https://news.ycombinator.com/item?id=45343108"
-    ],
-    [
-      "Delete FROM users WHERE location = 'Iran';",
-      "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-09-19, 23:34:56",
-      "https://news.ycombinator.com/item?id=45308081"
+      "2025-09-19, 19:42:53",
+      "https://news.ycombinator.com/item?id=45305642"
     ],
     [
-      "Forking Styled Components",
-      "https://github.com/sanity-io/styled-components-last-resort/blob/main/README.md"
+      "Linux Compose Key Sequences (2007)",
+      "https://math.dartmouth.edu/~sarunas/Linux_Compose_Key_Sequences.html"
     ]
   ],
   [
