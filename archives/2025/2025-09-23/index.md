@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 14:17:23](https://news.ycombinator.com/item?id=45347363) - [Agents turn simple keyword search into compelling search experiences](https://softwaredoug.com/blog/2025/09/22/reasoning-agents-need-bad-search)
+* [2025-09-23, 14:02:49](https://news.ycombinator.com/item?id=45347197) - [How are developers using AI? Inside our 2025 DORA report](https://blog.google/technology/developers/dora-report-2025/)
+* [2025-09-23, 14:00:52](https://news.ycombinator.com/item?id=45347178) - [CIA Thwarts Major Telecom Attack in NY](https://apnews.com/article/unga-threat-telecom-service-sim-93734f76578bc9ca22d93a8e91fd9c76)
 * [2025-09-23, 13:59:02](https://news.ycombinator.com/item?id=45347148) - [Secret Service takes down network that could have crippled New York cell service](https://www.theguardian.com/us-news/2025/sep/23/secret-service-new-york-network)
+* [2025-09-23, 13:54:51](https://news.ycombinator.com/item?id=45347089) - [OrangePi 5 Ultra Review: An ARM64 SBC Powerhouse](https://boilingsteam.com/orange-pi-5-ultra-review/)
 * [2025-09-23, 13:51:56](https://news.ycombinator.com/item?id=45347043) - [The War on Roommates: Why Is Sharing a House Illegal?](https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html)
+* [2025-09-23, 13:49:56](https://news.ycombinator.com/item?id=45347022) - [US authorities seize illicit electronics in New York during UN General Assembly](https://www.reuters.com/world/us/us-authorities-seize-illicit-electronics-new-york-area-during-un-general-2025-09-23/)
+* [2025-09-23, 13:45:44](https://news.ycombinator.com/item?id=45346968) - [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence)
 * [2025-09-23, 13:44:04](https://news.ycombinator.com/item?id=45346950) - [MrBeast Failed to Disclose Ads and Improperly Collected Children's Data](https://bbbprograms.org/media/newsroom/decisions/mrbeast-feastables)
 * [2025-09-23, 12:56:00](https://news.ycombinator.com/item?id=45346387) - [Why Zig Feels More Practical Than Rust](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/)
 * [2025-09-23, 12:52:08](https://news.ycombinator.com/item?id=45346343) - [The Secret Service found 300 servers capable of crippling NYC's cell system](https://www.cnn.com/2025/09/23/us/swatting-investigation-server-network-discovered)
