@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 19:29:26](https://news.ycombinator.com/item?id=45351624) - [Is Fortran better than Python for teaching basics of numerical linear algebra?](https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html)
+* [2025-09-23, 19:12:54](https://news.ycombinator.com/item?id=45351446) - [consumed.today](https://consumed.today/)
 * [2025-09-23, 19:09:50](https://news.ycombinator.com/item?id=45351410) - [How to draw construction equipment for kids](https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment)
 * [2025-09-23, 19:09:13](https://news.ycombinator.com/item?id=45351405) - [Denmark wants to push through Chat Control](https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/)
 * [2025-09-23, 18:06:07](https://news.ycombinator.com/item?id=45350690) - [Find SF parking cops](https://walzr.com/sf-parking/)
@@ -22,14 +24,12 @@
 * [2025-09-23, 09:26:57](https://news.ycombinator.com/item?id=45344708) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 * [2025-09-23, 09:04:43](https://news.ycombinator.com/item?id=45344554) - [YAML document from hell (2023)](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 * [2025-09-23, 04:48:28](https://news.ycombinator.com/item?id=45342943) - [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
-* [2025-09-23, 03:03:06](https://news.ycombinator.com/item?id=45342364) - [Nine things I learned in ninety years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
 * [2025-09-22, 23:43:55](https://news.ycombinator.com/item?id=45341038) - [Thundering herd problem: Preventing the stampede](https://distributed-computing-musings.com/2025/08/thundering-herd-problem-preventing-the-stampede/)
 * [2025-09-22, 22:09:58](https://news.ycombinator.com/item?id=45340215) - [Imagining a language without booleans](https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html)
 * [2025-09-20, 23:49:01](https://news.ycombinator.com/item?id=45318680) - [The Great American Travel Book: The book that helped revive a genre](https://theamericanscholar.org/the-great-american-travel-book/)
+* [2025-09-19, 19:57:36](https://news.ycombinator.com/item?id=45305826) - [Show HN: The Blots Programming Language](https://blots-lang.org/)
 * [2025-09-19, 18:42:21](https://news.ycombinator.com/item?id=45304980) - [Markov chains are the original language models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
 * [2025-09-19, 18:36:38](https://news.ycombinator.com/item?id=45304911) - [Show HN: Run Qwen3-Next-80B on 8GB GPU at 1tok/2s throughput](https://github.com/Mega4alik/ollm)
-* [2025-09-19, 18:24:46](https://news.ycombinator.com/item?id=45304807) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
-* [2025-09-19, 17:34:48](https://news.ycombinator.com/item?id=45304304) - [Smooth weighted round-robin balancing](https://github.com/nginx/nginx/commit/52327e0627f49dbda1e8db695e63a4b0af4448b1)
 
 ## [Archives](archives/index.md)
 
