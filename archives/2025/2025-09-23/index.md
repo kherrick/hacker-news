@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 21:24:45](https://news.ycombinator.com/item?id=45352944) - [From Rust to Reality: The Hidden Journey of Fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
 * [2025-09-23, 20:59:17](https://news.ycombinator.com/item?id=45352672) - [Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
 * [2025-09-23, 20:46:24](https://news.ycombinator.com/item?id=45352533) - [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
 * [2025-09-23, 20:38:25](https://news.ycombinator.com/item?id=45352432) - [I can't stay after what Ruby Central did](https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca)
