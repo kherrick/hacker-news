@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
 * [2025-09-19, 23:15:17](https://news.ycombinator.com/item?id=45307922) - [Restriction on Entry of Certain Nonimmigrant Workers](https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/)
+* [2025-09-19, 22:36:05](https://news.ycombinator.com/item?id=45307570) - [Based C++](https://github.com/SheafificationOfG/based-cpp)
 * [2025-09-19, 22:02:29](https://news.ycombinator.com/item?id=45307242) - [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
 * [2025-09-19, 21:55:43](https://news.ycombinator.com/item?id=45307166) - [Show HN: Zedis – A Redis clone I'm writing in Zig](https://github.com/barddoo/zedis)
 * [2025-09-19, 21:51:32](https://news.ycombinator.com/item?id=45307119) - [After 50 years the magic circle (finally) admits Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html)
