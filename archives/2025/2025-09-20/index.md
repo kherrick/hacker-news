@@ -29,6 +29,7 @@
 * [2025-09-20, 15:57:52](https://news.ycombinator.com/item?id=45314432) - [Are Touchscreens in Cars Dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
 * [2025-09-20, 15:26:50](https://news.ycombinator.com/item?id=45314157) - [These days, systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
 * [2025-09-20, 14:37:52](https://news.ycombinator.com/item?id=45313793) - [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
+* [2025-09-20, 14:37:30](https://news.ycombinator.com/item?id=45313790) - [Compiling a Functional Language to LLVM (2023)](https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html)
 * [2025-09-20, 14:12:30](https://news.ycombinator.com/item?id=45313597) - [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
 * [2025-09-20, 14:11:59](https://news.ycombinator.com/item?id=45313589) - [Embrace hope, reject assisted suicide](https://thecritic.co.uk/embrace-hope-reject-assisted-suicide/)
 * [2025-09-20, 14:08:24](https://news.ycombinator.com/item?id=45313557) - [Novelist Cormac McCarthy's tips on how to write a great science paper [pdf]](https://gwern.net/doc/science/2019-savage.pdf)

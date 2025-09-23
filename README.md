@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-23, 08:11:01](https://news.ycombinator.com/item?id=45344198) - [Japan's most sacred Shinto shrine rebuilt every 20yrs for more than a millennium](https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96)
 * [2025-09-23, 07:01:44](https://news.ycombinator.com/item?id=45343689) - [Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]](https://hi.telli.com/join-us)
 * [2025-09-23, 06:24:50](https://news.ycombinator.com/item?id=45343449) - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
 * [2025-09-23, 05:30:28](https://news.ycombinator.com/item?id=45343108) - [Delete FROM users WHERE location = 'Iran';](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
@@ -24,6 +23,7 @@
 * [2025-09-22, 11:52:41](https://news.ycombinator.com/item?id=45332130) - [Easy Forth (2015)](https://skilldrick.github.io/easyforth/)
 * [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-21, 12:11:18](https://news.ycombinator.com/item?id=45322030) - [What happens when coding agents stop feeling like dialup?](https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/)
+* [2025-09-20, 14:37:30](https://news.ycombinator.com/item?id=45313790) - [Compiling a Functional Language to LLVM (2023)](https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html)
 * [2025-09-19, 22:36:05](https://news.ycombinator.com/item?id=45307570) - [Based C++](https://github.com/SheafificationOfG/based-cpp)
 * [2025-09-19, 21:51:32](https://news.ycombinator.com/item?id=45307119) - [After 50 years, The Magic Circle finally inducts Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html)
 * [2025-09-19, 20:44:02](https://news.ycombinator.com/item?id=45306323) - [Themis (European Reusable Rocket) is assembled on launch pad](https://phys.org/news/2025-09-themis-pad-fully.html)
