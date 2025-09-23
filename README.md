@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 11:29:13](https://news.ycombinator.com/item?id=45345514) - [Cache of Devices Capable of Crashing Cell Network Is Found Near U.N](https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html)
 * [2025-09-23, 10:44:57](https://news.ycombinator.com/item?id=45345237) - [Walking Michigan City (Indiana)](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana)
 * [2025-09-23, 10:44:26](https://news.ycombinator.com/item?id=45345233) - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
 * [2025-09-23, 10:42:26](https://news.ycombinator.com/item?id=45345222) - [Europe's EV sales surge 26% in 2025 while Tesla faces decline](https://www.notebookcheck.net/Europe-s-EV-sales-surge-26-in-2025-while-Tesla-faces-decline.1121077.0.html)
@@ -14,7 +15,6 @@
 * [2025-09-23, 04:48:28](https://news.ycombinator.com/item?id=45342943) - [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
 * [2025-09-23, 04:10:15](https://news.ycombinator.com/item?id=45342759) - [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
 * [2025-09-23, 03:03:06](https://news.ycombinator.com/item?id=45342364) - [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
-* [2025-09-23, 01:07:57](https://news.ycombinator.com/item?id=45341683) - [X server implementation for SIXEL-featured terminals (2010-2014)](https://github.com/saitoha/xserver-SIXEL)
 * [2025-09-23, 00:14:37](https://news.ycombinator.com/item?id=45341324) - [Fall Foliage Map 2025](https://www.explorefall.com/fall-foliage-map)
 * [2025-09-22, 22:07:07](https://news.ycombinator.com/item?id=45340192) - [Kevo app shutdown](https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)

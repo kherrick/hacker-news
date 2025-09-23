@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 11:29:13](https://news.ycombinator.com/item?id=45345514) - [Cache of Devices Capable of Crashing Cell Network Is Found Near U.N](https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html)
 * [2025-09-23, 10:44:57](https://news.ycombinator.com/item?id=45345237) - [Walking Michigan City (Indiana)](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana)
 * [2025-09-23, 10:44:26](https://news.ycombinator.com/item?id=45345233) - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
 * [2025-09-23, 10:42:26](https://news.ycombinator.com/item?id=45345222) - [Europe's EV sales surge 26% in 2025 while Tesla faces decline](https://www.notebookcheck.net/Europe-s-EV-sales-surge-26-in-2025-while-Tesla-faces-decline.1121077.0.html)
