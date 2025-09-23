@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 23:34:56](https://news.ycombinator.com/item?id=45308081) - [Forking Styled Components](https://github.com/sanity-io/styled-components-last-resort/blob/main/README.md)
 * [2025-09-19, 23:15:17](https://news.ycombinator.com/item?id=45307922) - [Restriction on Entry of Certain Nonimmigrant Workers](https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/)
 * [2025-09-19, 22:36:05](https://news.ycombinator.com/item?id=45307570) - [Based C++](https://github.com/SheafificationOfG/based-cpp)
 * [2025-09-19, 22:02:29](https://news.ycombinator.com/item?id=45307242) - [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
