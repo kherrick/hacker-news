@@ -10,6 +10,7 @@
 * [2025-09-23, 16:07:15](https://news.ycombinator.com/item?id=45348963) - [FDA Takes Action to Make a Treatment Available for Autism Symptoms](https://www.fda.gov/news-events/press-announcements/fda-takes-action-make-treatment-available-autism-symptoms)
 * [2025-09-23, 15:50:10](https://news.ycombinator.com/item?id=45348730) - [Show HN: FlyCode – Recover Stripe payments by automatically using backup cards](https://news.ycombinator.com/item?id=45348730)
 * [2025-09-23, 15:47:35](https://news.ycombinator.com/item?id=45348700) - [\"If you are reading this obituary, it looks like I'm dead. It happened\"](https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/)
+* [2025-09-23, 15:33:23](https://news.ycombinator.com/item?id=45348495) - [Always Invite Anna](https://sharif.io/anna-alexei)
 * [2025-09-23, 15:28:03](https://news.ycombinator.com/item?id=45348421) - [Are Elites Meritocratic and Efficiency-Seeking? Evidence from MBA Students](https://arxiv.org/abs/2503.15443)
 * [2025-09-23, 15:25:29](https://news.ycombinator.com/item?id=45348390) - [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/)
 * [2025-09-23, 15:21:00](https://news.ycombinator.com/item?id=45348330) - [Grindr outage reports coincide with Kirk memorial service in Arizona](https://www.pride.com/culture/charlie-kirk-grindr-outage)
