@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 15:47:35](https://news.ycombinator.com/item?id=45348700) - [\"If you are reading this obituary, it looks like I'm dead. It happened\"](https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/)
+* [2025-09-23, 15:25:29](https://news.ycombinator.com/item?id=45348390) - [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/)
 * [2025-09-23, 15:08:08](https://news.ycombinator.com/item?id=45348146) - [He's ranked 2nd in the nation for youth rock climbing; AI just canceled him](https://insideinvestigator.org/hes-ranked-2nd-in-the-nation-for-youth-rock-climbing-ai-just-canceled-him/)
 * [2025-09-23, 14:52:07](https://news.ycombinator.com/item?id=45347914) - [Launch HN: Strata (YC X25) – One MCP Server for AI to Handle Tools](https://news.ycombinator.com/item?id=45347914)
 * [2025-09-23, 14:50:06](https://news.ycombinator.com/item?id=45347880) - [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
 * [2025-09-23, 14:39:59](https://news.ycombinator.com/item?id=45347714) - [Show HN: Kekkai – a simple, fast file integrity monitoring tool in Go](https://github.com/catatsuy/kekkai)
+* [2025-09-23, 14:33:59](https://news.ycombinator.com/item?id=45347623) - [Show HN: Open-source AI data generator (now hosted)](https://www.metabase.com/ai-data-generator)
 * [2025-09-23, 14:17:23](https://news.ycombinator.com/item?id=45347363) - [Agents turn simple keyword search into compelling search experiences](https://softwaredoug.com/blog/2025/09/22/reasoning-agents-need-bad-search)
 * [2025-09-23, 14:14:46](https://news.ycombinator.com/item?id=45347335) - [x402 — An open protocol for internet-native payments](https://www.x402.org/)
 * [2025-09-23, 14:02:49](https://news.ycombinator.com/item?id=45347197) - [How are developers using AI? Inside our 2025 DORA report](https://blog.google/technology/developers/dora-report-2025/)

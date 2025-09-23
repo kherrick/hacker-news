@@ -23,6 +23,7 @@
 * [2025-09-19, 20:05:48](https://news.ycombinator.com/item?id=45305909) - [Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)
 * [2025-09-19, 19:59:33](https://news.ycombinator.com/item?id=45305845) - [$100K fee added to H1B applications](https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/)
 * [2025-09-19, 19:44:16](https://news.ycombinator.com/item?id=45305660) - [The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]](https://kevinbryanecon.com/BryanAIBookReview.pdf)
+* [2025-09-19, 19:42:53](https://news.ycombinator.com/item?id=45305642) - [Linux Compose Key Sequences (2007)](https://math.dartmouth.edu/~sarunas/Linux_Compose_Key_Sequences.html)
 * [2025-09-19, 19:21:50](https://news.ycombinator.com/item?id=45305369) - [What We Can Learn from Nordic Socialism](https://jacobin.com/2025/09/nordic-socialism-dragsted-poulantzas-reforms/)
 * [2025-09-19, 19:03:02](https://news.ycombinator.com/item?id=45305180) - [Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease](https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/)
 * [2025-09-19, 18:47:14](https://news.ycombinator.com/item?id=45305042) - [Internal emails reveal Ticketmaster helped scalpers jack up prices, FTC says](https://arstechnica.com/tech-policy/2025/09/ticketmaster-intentionally-screwed-fans-out-of-billions-ftc-lawsuit-says/)
