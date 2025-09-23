@@ -28,6 +28,7 @@
 * [2025-09-19, 18:42:57](https://news.ycombinator.com/item?id=45304992) - [After getting Jimmy Kimmel suspended, FCC chair threatens ABC's The View](https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/)
 * [2025-09-19, 18:26:28](https://news.ycombinator.com/item?id=45304821) - [Some stuff on how Linux consoles interact with the mouse](https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxConsoleAndMouse)
 * [2025-09-19, 18:26:07](https://news.ycombinator.com/item?id=45304816) - [Notion 3.0](https://www.notion.com/blog/introducing-notion-3-0)
+* [2025-09-19, 18:24:46](https://news.ycombinator.com/item?id=45304807) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
 * [2025-09-19, 18:15:18](https://news.ycombinator.com/item?id=45304706) - [A history of AI in four books](https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity)
 * [2025-09-19, 17:43:33](https://news.ycombinator.com/item?id=45304379) - [Your very own humane interface: Try Jef Raskin's ideas at home](https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/)
 * [2025-09-19, 17:28:20](https://news.ycombinator.com/item?id=45304222) - [BYD unveils world's largest 14.5 MWh DC energy storage system](https://www.ess-news.com/2025/09/19/byd-unveils-worlds-largest-14-5-mwh-dc-energy-storage-system/)

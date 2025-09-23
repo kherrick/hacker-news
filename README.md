@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 09:26:57](https://news.ycombinator.com/item?id=45344708) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 * [2025-09-23, 09:20:11](https://news.ycombinator.com/item?id=45344662) - [One step closer to bombing civilians](https://www.treason.io/p/read-one-step-closer-to-bombing-civilians)
 * [2025-09-23, 09:04:43](https://news.ycombinator.com/item?id=45344554) - [The YAML Document from Hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 * [2025-09-23, 08:41:08](https://news.ycombinator.com/item?id=45344402) - [The latest Hunger Games novel may have been co-authored by AI](https://www.reddit.com/r/slatestarcodex/s/V0bvh4w1PY)
@@ -16,8 +17,6 @@
 * [2025-09-22, 21:44:54](https://news.ycombinator.com/item?id=45339923) - [Germicidal UV could make airborne diseases as rare as those carried by water](https://www.worksinprogress.news/p/how-to-clean-the-air)
 * [2025-09-22, 19:49:02](https://news.ycombinator.com/item?id=45338561) - [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
-* [2025-09-22, 16:21:35](https://news.ycombinator.com/item?id=45335635) - [Testing is better than data structures and algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
-* [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why haven't local-first apps become popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:05:32](https://news.ycombinator.com/item?id=45332883) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
 * [2025-09-22, 13:03:10](https://news.ycombinator.com/item?id=45332859) - [I'm spoiled by Apple Silicon but still love Framework](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
@@ -27,6 +26,7 @@
 * [2025-09-20, 14:37:30](https://news.ycombinator.com/item?id=45313790) - [Compiling a Functional Language to LLVM (2023)](https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html)
 * [2025-09-19, 22:36:05](https://news.ycombinator.com/item?id=45307570) - [Based C++](https://github.com/SheafificationOfG/based-cpp)
 * [2025-09-19, 20:44:02](https://news.ycombinator.com/item?id=45306323) - [Themis (European Reusable Rocket) is assembled on launch pad](https://phys.org/news/2025-09-themis-pad-fully.html)
+* [2025-09-19, 18:24:46](https://news.ycombinator.com/item?id=45304807) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
 * [2025-09-19, 15:53:09](https://news.ycombinator.com/item?id=45303045) - [Rungis: The Market and the City – A day at Europe's largest fresh food market](https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city)
 * [2025-09-19, 12:06:23](https://news.ycombinator.com/item?id=45300668) - [I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)](https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig)
 * [2025-09-19, 10:22:54](https://news.ycombinator.com/item?id=45299987) - [The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text](https://arxiv.org/abs/2506.05209)
