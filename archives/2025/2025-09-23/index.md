@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 20:46:24](https://news.ycombinator.com/item?id=45352533) - [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
+* [2025-09-23, 20:38:25](https://news.ycombinator.com/item?id=45352432) - [I can't stay after what Ruby Central did](https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca)
 * [2025-09-23, 20:16:47](https://news.ycombinator.com/item?id=45352213) - [YouTube Will Let Users Booted for Violations of COVID, Elections Policies Rejoin](https://www.offthepress.com/youtube-will-let-users-booted-for-repeated-violations-of-covid-elections-policies-rejoin/)
 * [2025-09-23, 19:37:45](https://news.ycombinator.com/item?id=45351737) - [Privacy Commissioners find TikTok collected sensitive data from children](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/)
 * [2025-09-23, 19:29:26](https://news.ycombinator.com/item?id=45351624) - [Is Fortran better than Python for teaching basics of numerical linear algebra?](https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html)
