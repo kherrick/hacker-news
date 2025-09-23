@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-23, 01:07:57",
+      "https://news.ycombinator.com/item?id=45341683"
+    ],
+    [
+      "X server implementation for SIXEL-featured terminals",
+      "https://github.com/saitoha/xserver-SIXEL"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 00:14:37",
       "https://news.ycombinator.com/item?id=45341324"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45340600"
     ],
     [
-      "In Maine, prisoners are thriving in remote jobs, other states are taking notice",
+      "In Maine, prisoners are thriving in remote jobs",
       "https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45340192"
     ],
     [
-      "Kwikset ends support for smartphone enabled deadbolt. Suggests physical keys",
+      "Kevo app shutdown",
       "https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents",
       "https://arxiv.org/abs/2509.06917"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 18:22:53",
-      "https://news.ycombinator.com/item?id=45337450"
-    ],
-    [
-      "Choose Your Own Adventure",
-      "https://www.filfre.net/2025/09/choose-your-own-adventure/"
     ]
   ],
   [
@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2025-09-22, 14:30:10",
-      "https://news.ycombinator.com/item?id=45333978"
+      "2025-09-22, 15:10:48",
+      "https://news.ycombinator.com/item?id=45334545"
     ],
     [
-      "What is algebraic about algebraic effects?",
-      "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/"
+      "PlanetScale for Postgres is now GA",
+      "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "I'm spoiled by Apple Silicon but still love Framework",
       "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 12:59:30",
-      "https://news.ycombinator.com/item?id=45332814"
-    ],
-    [
-      "CompileBench: Can AI Compile 22-year-old Code?",
-      "https://quesma.com/blog/introducing-compilebench/"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45313211"
     ],
     [
-      "Are We Chasing Language Hype over Solving Real Problems?",
+      "The allure of new languages vs. the necessity of problem-solving",
       "https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems/"
     ]
   ],
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=45307119"
     ],
     [
-      "The Magic Circle inducts Penn and Teller",
+      "After 50 years, The Magic Circle finally inducts Penn and Teller",
       "https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 18:26:28",
+      "https://news.ycombinator.com/item?id=45304821"
+    ],
+    [
+      "Some stuff on how Linux consoles interact with the mouse",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxConsoleAndMouse"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45298798"
     ],
     [
-      "Egyptian Hieroglyphic Alphabet",
+      "Egyptian Hieroglyphic Alphabet (2015)",
       "https://discoveringegypt.com/egyptian-hieroglyphic-writing/egyptian-hieroglyphic-alphabet/"
     ]
   ]
