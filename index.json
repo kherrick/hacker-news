@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-09-23, 20:40:21",
+      "https://news.ycombinator.com/item?id=45352460"
+    ],
+    [
+      "Podman Desktop celebrates 3M downloads",
+      "https://podman-desktop.io/blog/3-million"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 20:38:25",
       "https://news.ycombinator.com/item?id=45352432"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-09-23, 13:58:48",
-      "https://news.ycombinator.com/item?id=45347147"
-    ],
-    [
-      "OpenDataLoader-PDF: An open source tool for structured PDF parsing",
-      "https://github.com/opendataloader-project/opendataloader-pdf"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 13:56:28",
       "https://news.ycombinator.com/item?id=45347117"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-09-23, 10:40:41",
-      "https://news.ycombinator.com/item?id=45345207"
-    ],
-    [
-      "Structured Outputs in LLMs",
-      "https://parthsareen.com/blog.html#sampling.md"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 09:26:57",
       "https://news.ycombinator.com/item?id=45344708"
     ],
@@ -287,6 +277,16 @@
     [
       "Show HN: Ggc – A Git CLI tool written in Go with interactive UI",
       "https://github.com/bmf-san/ggc/releases/tag/v6.0.0"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 19:57:36",
+      "https://news.ycombinator.com/item?id=45305826"
+    ],
+    [
+      "Show HN: The Blots Programming Language",
+      "https://blots-lang.org/"
     ]
   ],
   [
