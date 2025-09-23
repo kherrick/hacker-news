@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 21:34:58](https://news.ycombinator.com/item?id=45353052) - [Preventing IoT Edge Device Cloning](https://www.embedded.com/preventing-iot-device-cloning/)
 * [2025-09-23, 21:24:45](https://news.ycombinator.com/item?id=45352944) - [From Rust to Reality: The Hidden Journey of Fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
+* [2025-09-23, 21:20:15](https://news.ycombinator.com/item?id=45352901) - [Context Engineering for AI Agents: Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 * [2025-09-23, 20:59:17](https://news.ycombinator.com/item?id=45352672) - [Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
 * [2025-09-23, 20:46:24](https://news.ycombinator.com/item?id=45352533) - [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
 * [2025-09-23, 20:38:25](https://news.ycombinator.com/item?id=45352432) - [I can't stay after what Ruby Central did](https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca)
@@ -19,9 +21,7 @@
 * [2025-09-23, 14:50:06](https://news.ycombinator.com/item?id=45347880) - [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
 * [2025-09-23, 14:27:36](https://news.ycombinator.com/item?id=45347532) - [Getting AI to work in complex codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
 * [2025-09-23, 14:14:46](https://news.ycombinator.com/item?id=45347335) - [x402 — An open protocol for internet-native payments](https://www.x402.org/)
-* [2025-09-23, 13:58:48](https://news.ycombinator.com/item?id=45347147) - [OpenDataLoader-PDF: An open source tool for structured PDF parsing](https://github.com/opendataloader-project/opendataloader-pdf)
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
-* [2025-09-23, 13:51:56](https://news.ycombinator.com/item?id=45347043) - [Restrictions on house sharing by unrelated roommates](https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html)
 * [2025-09-23, 12:41:36](https://news.ycombinator.com/item?id=45346219) - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
 * [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
 * [2025-09-23, 12:00:00](https://news.ycombinator.com/item?id=45345742) - [Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084)
