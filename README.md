@@ -27,9 +27,9 @@
 * [2025-09-23, 04:48:28](https://news.ycombinator.com/item?id=45342943) - [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
 * [2025-09-22, 23:43:55](https://news.ycombinator.com/item?id=45341038) - [Thundering herd problem: Preventing the stampede](https://distributed-computing-musings.com/2025/08/thundering-herd-problem-preventing-the-stampede/)
 * [2025-09-22, 22:09:58](https://news.ycombinator.com/item?id=45340215) - [Imagining a language without booleans](https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html)
-* [2025-09-20, 23:49:01](https://news.ycombinator.com/item?id=45318680) - [The Great American Travel Book: The book that helped revive a genre](https://theamericanscholar.org/the-great-american-travel-book/)
 * [2025-09-19, 19:57:36](https://news.ycombinator.com/item?id=45305826) - [Show HN: The Blots Programming Language](https://blots-lang.org/)
 * [2025-09-19, 18:42:21](https://news.ycombinator.com/item?id=45304980) - [Markov chains are the original language models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
+* [2025-09-19, 18:36:38](https://news.ycombinator.com/item?id=45304911) - [Show HN: Run Qwen3-Next-80B on 8GB GPU at 1tok/2s throughput](https://github.com/Mega4alik/ollm)
 
 ## [Archives](archives/index.md)
 
