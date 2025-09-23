@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-20](index.md)
 
+* [2025-09-20, 23:49:01](https://news.ycombinator.com/item?id=45318680) - [The Great American Travel Book: The book that helped revive a genre](https://theamericanscholar.org/the-great-american-travel-book/)
 * [2025-09-20, 23:38:02](https://news.ycombinator.com/item?id=45318604) - [macOS becomes iOS: Safari video controls](https://underpassapp.com/news/2025/9/8.html)
 * [2025-09-20, 23:29:57](https://news.ycombinator.com/item?id=45318559) - [Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case](https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/)
 * [2025-09-20, 23:20:52](https://news.ycombinator.com/item?id=45318505) - [California bans face masks for ICE agents](https://sfstandard.com/2025/09/20/california-bans-face-masks-ice-agents/)
