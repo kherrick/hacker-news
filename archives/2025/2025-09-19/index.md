@@ -34,6 +34,7 @@
 * [2025-09-19, 18:24:46](https://news.ycombinator.com/item?id=45304807) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
 * [2025-09-19, 18:15:18](https://news.ycombinator.com/item?id=45304706) - [A history of AI in four books](https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity)
 * [2025-09-19, 17:43:33](https://news.ycombinator.com/item?id=45304379) - [Your very own humane interface: Try Jef Raskin's ideas at home](https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/)
+* [2025-09-19, 17:34:48](https://news.ycombinator.com/item?id=45304304) - [Smooth weighted round-robin balancing](https://github.com/nginx/nginx/commit/52327e0627f49dbda1e8db695e63a4b0af4448b1)
 * [2025-09-19, 17:28:20](https://news.ycombinator.com/item?id=45304222) - [BYD unveils world's largest 14.5 MWh DC energy storage system](https://www.ess-news.com/2025/09/19/byd-unveils-worlds-largest-14-5-mwh-dc-energy-storage-system/)
 * [2025-09-19, 16:02:22](https://news.ycombinator.com/item?id=45303199) - [Dev Culture Is Dying the Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/)
 * [2025-09-19, 15:53:09](https://news.ycombinator.com/item?id=45303045) - [Rungis: The Market and the City – A day at Europe's largest fresh food market](https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city)
