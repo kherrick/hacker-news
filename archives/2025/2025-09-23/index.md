@@ -13,6 +13,7 @@
 * [2025-09-23, 13:49:56](https://news.ycombinator.com/item?id=45347022) - [US authorities seize illicit electronics in New York during UN General Assembly](https://www.reuters.com/world/us/us-authorities-seize-illicit-electronics-new-york-area-during-un-general-2025-09-23/)
 * [2025-09-23, 13:45:44](https://news.ycombinator.com/item?id=45346968) - [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence)
 * [2025-09-23, 13:44:04](https://news.ycombinator.com/item?id=45346950) - [MrBeast Failed to Disclose Ads and Improperly Collected Children's Data](https://bbbprograms.org/media/newsroom/decisions/mrbeast-feastables)
+* [2025-09-23, 13:29:23](https://news.ycombinator.com/item?id=45346761) - [AI won't use as much electricity as we are told](https://johnquigginblog.substack.com/p/ai-wont-use-as-much-electricity-as)
 * [2025-09-23, 12:56:00](https://news.ycombinator.com/item?id=45346387) - [Why Zig Feels More Practical Than Rust](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/)
 * [2025-09-23, 12:52:08](https://news.ycombinator.com/item?id=45346343) - [The Secret Service found 300 servers capable of crippling NYC's cell system](https://www.cnn.com/2025/09/23/us/swatting-investigation-server-network-discovered)
 * [2025-09-23, 12:41:36](https://news.ycombinator.com/item?id=45346219) - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
