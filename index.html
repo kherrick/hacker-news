@@ -129,6 +129,132 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45347914">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=45347914"
+              >Launch HN: Strata (YC X25) – One MCP Server for AI to Handle
+              Tools</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-23 @ 14:52:07</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45347914"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.klavis.ai/">https://www.klavis.ai/</a>) and
+              we're launching Strata, one open-source MCP server that helps AI
+              agents use thousands of API tools without getting overwhelmed.
+              Instead of showing all available tools at once, Strata reveals
+              them step-by-step based on what the AI actually needs.
+              <p>
+                As a former Senior SWE on Google Gemini 's tool use team, I saw
+                firsthand how AI would struggle with tools. If you've built AI
+                agents, you've likely hit the same walls: (1) AI agents struggle
+                to pick the right API from hundreds of options. (2) Tool
+                descriptions and info consume massive token budgets. (3) Most
+                servers cap at 40~50 tools to avoid these problems, limiting
+                what you can build.
+              </p>
+              <p>
+                Instead of flooding the AI with everything upfront, Strata works
+                like a human would. It guides the AI agents to discover relevant
+                categories, then lists available actions in those categories. It
+                relies on LLMs’ reasoning to drill down progressively to find
+                the exact tool needed. Here are some examples:
+              </p>
+              <p>
+                <i
+                  >Github query: "Find my stale pull requests in our main
+                  repo"</i
+                >
+              </p>
+              <p>
+                Strata: AI model identifies GitHub → Shows categories (Repos,
+                Issues, PRs, Actions) → AI selects PRs → Shows PR-specific
+                actions -&gt; AI selects list_pull_requests → Shows
+                list_pull_requests details -&gt; Executes list_pull_requests
+                with the right parameters.
+              </p>
+              <p>
+                <i
+                  >Jira query: "Create a bug ticket in the 'MOBILE' project
+                  about the app crashing on startup."</i
+                >
+              </p>
+              <p>
+                Strata: AI identifies Jira → Shows categories (Projects, Issues,
+                Sprints) → AI selects Issues → Shows actions (create_issue,
+                get_issue) → AI selects create_issue → Shows create_issue
+                details → Executes with correct parameters.
+              </p>
+              <p>
+                <i
+                  >Slack query: "Post a message in the #announcements channel
+                  that bonus will be paid out next Friday."</i
+                >
+              </p>
+              <p>
+                Strata: AI identifies Slack → Shows categories (Channels,
+                Messages, Users) → AI selects Messages → Shows actions
+                (send_message, schedule_message) → AI selects send_message →
+                Shows send_message details → Executes with correct parameters.
+              </p>
+              <p>
+                This progressive approach unlocks a huge advantage: depth. While
+                most integrations offer a handful of high-level tools, Strata
+                can expose hundreds of granular features for a single app like
+                GitHub, Jira, etc. Your AI agent can finally access the deep,
+                specific features that real workflows require, without getting
+                lost in a sea of options.
+              </p>
+              <p>
+                Under the hood, Strata manages authentication tokens and
+                includes a built-in search tool for the agent to dig into
+                documentation if it gets stuck.
+              </p>
+              <p>
+                On the MCPMark
+                <a href="https://mcpmark.ai/leaderboard/mcp"
+                  >https://mcpmark.ai/leaderboard/mcp</a
+                >, Strata achieves +15.2% higher pass@1 rate vs the official
+                GitHub server and +13.4% higher pass@1 rate vs the official
+                Notion server. In human eval tests, it hits 83%+ accuracy on
+                complex, real-world multi-app workflows.
+              </p>
+              <p>
+                Here is a quick demo to watch Strata navigate a complex workflow
+                with multiple apps, automatically selecting the right tools at
+                each step:
+                <a href="https://www.youtube.com/watch?v=N00cY9Ov_fM"
+                  >https://www.youtube.com/watch?v=N00cY9Ov_fM</a
+                >.
+              </p>
+              <p>
+                You can connect to any external MCP Server into Strata, and we
+                have an open source version for it:
+                <a href="https://github.com/Klavis-AI/klavis"
+                  >https://github.com/Klavis-AI/klavis</a
+                >.
+              </p>
+              <p>
+                For team or production use with more features, visit our
+                website:
+                <a href="https://www.klavis.ai">https://www.klavis.ai</a>. Add
+                Strata to Cursor, VS Code or any MCP-compatible application with
+                one click. You can also use our API to easily plug in Strata to
+                your AI application.
+              </p>
+              <p>We look forward to your comments. Thanks for reading!</p>
+            </div>
+          </section>
+        </section>
         <section id="45347363">
           <h3>
             <a
@@ -142,11 +268,30 @@
             <h4>
               <span>2025-09-23 @ 14:17:23</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45347363"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45347335">
+          <h3>
+            <a class="item" href="https://www.x402.org/"
+              >x402 — An open protocol for internet-native payments</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-23 @ 14:14:46</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45347335"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -163,11 +308,11 @@
             <h4>
               <span>2025-09-23 @ 14:02:49</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45347197"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -184,11 +329,11 @@
             <h4>
               <span>2025-09-23 @ 13:54:51</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45347089"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -205,11 +350,11 @@
             <h4>
               <span>2025-09-23 @ 13:51:56</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45347043"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -226,11 +371,11 @@
             <h4>
               <span>2025-09-23 @ 13:45:44</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45346968"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -248,11 +393,11 @@
             <h4>
               <span>2025-09-23 @ 13:44:04</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45346950"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -269,11 +414,11 @@
             <h4>
               <span>2025-09-23 @ 13:29:23</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45346761"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -290,11 +435,33 @@
             <h4>
               <span>2025-09-23 @ 12:41:36</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45346219"
                   >Comments</a
                 ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45345985">
+          <h3>
+            <a
+              class="item"
+              href="https://www.secretservice.gov/newsroom/releases/2025/09/us-secret-service-dismantles-imminent-telecommunications-threat-new-york"
+              >US Secret Service dismantles imminent telecommunications threat
+              NY tristate area</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-23 @ 12:20:36</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45345985"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -329,11 +496,11 @@
             <h4>
               <span>2025-09-23 @ 11:29:13</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45345514"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -348,11 +515,11 @@
             <h4>
               <span>2025-09-23 @ 10:40:41</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45345207"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -368,32 +535,11 @@
             <h4>
               <span>2025-09-23 @ 10:30:42</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45345148"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45344756">
-          <h3>
-            <a
-              class="item"
-              href="https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/"
-              >Indoor surfaces act as sponges for harmful chemicals</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-23 @ 09:33:34</span
-              ><span class="points-container"
-                >Points: <span class="points">64</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45344756"
-                  >Comments</a
-                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -410,11 +556,11 @@
             <h4>
               <span>2025-09-23 @ 09:26:57</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">263</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45344708"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -431,33 +577,11 @@
             <h4>
               <span>2025-09-23 @ 09:04:43</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45344554"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45344186">
-          <h3>
-            <a
-              class="item"
-              href="https://infrequently.org/2025/09/cupertinos-comforting-myths/"
-              >Awash in revisionist histories about Apple's web efforts, a look
-              at the evidence</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-23 @ 08:10:06</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45344186"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -474,11 +598,11 @@
             <h4>
               <span>2025-09-23 @ 06:24:50</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45343449"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -495,11 +619,11 @@
             <h4>
               <span>2025-09-23 @ 05:30:28</span
               ><span class="points-container"
-                >Points: <span class="points">748</span></span
+                >Points: <span class="points">760</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45343108"
                   >Comments</a
-                ><span class="descendants">: 572</span></span
+                ><span class="descendants">: 577</span></span
               >
             </h4>
           </section>
@@ -514,11 +638,11 @@
             <h4>
               <span>2025-09-23 @ 04:48:28</span
               ><span class="points-container"
-                >Points: <span class="points">222</span></span
+                >Points: <span class="points">225</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45342943"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -535,7 +659,7 @@
             <h4>
               <span>2025-09-23 @ 04:10:15</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45342759"
                   >Comments</a
@@ -556,11 +680,11 @@
             <h4>
               <span>2025-09-23 @ 03:03:06</span
               ><span class="points-container"
-                >Points: <span class="points">609</span></span
+                >Points: <span class="points">634</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45342364"
                   >Comments</a
-                ><span class="descendants">: 241</span></span
+                ><span class="descendants">: 250</span></span
               >
             </h4>
           </section>
@@ -575,50 +699,11 @@
             <h4>
               <span>2025-09-23 @ 00:14:37</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">214</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45341324"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45340133">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2509.06917"
-              >Paper2Agent: Stanford Reimagining Research Papers as Interactive
-              AI Agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-22 @ 22:02:01</span
-              ><span class="points-container"
-                >Points: <span class="points">135</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45340133"
-                  >Comments</a
-                ><span class="descendants">: 34</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45336989">
-          <h3>
-            <a class="item" href="https://github.com/QwenLM/Qwen3-Omni"
-              >Qwen3-Omni: Native Omni AI model for text, image and video</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-22 @ 17:50:21</span
-              ><span class="points-container"
-                >Points: <span class="points">530</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45336989"
-                  >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -636,11 +721,32 @@
             <h4>
               <span>2025-09-20 @ 18:41:22</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45316063"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45315705">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.peerdb.io/row-level-transformations-in-postgres-cdc-using-lua"
+              >Row-level transformations in Postgres CDC using Lua</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-20 @ 18:04:10</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45315705"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -657,7 +763,7 @@
             <h4>
               <span>2025-09-20 @ 14:37:30</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45313790"
                   >Comments</a
@@ -678,7 +784,7 @@
             <h4>
               <span>2025-09-19 @ 23:34:56</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45308081"
                   >Comments</a
@@ -697,11 +803,11 @@
             <h4>
               <span>2025-09-19 @ 18:36:38</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45304911"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -718,7 +824,7 @@
             <h4>
               <span>2025-09-19 @ 18:24:46</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45304807"
                   >Comments</a
@@ -740,11 +846,11 @@
             <h4>
               <span>2025-09-19 @ 12:06:23</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45300668"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
