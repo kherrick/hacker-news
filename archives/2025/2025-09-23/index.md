@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 08:11:01](https://news.ycombinator.com/item?id=45344198) - [Japan's most sacred Shinto shrine rebuilt every 20yrs for more than a millennium](https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96)
 * [2025-09-23, 07:27:26](https://news.ycombinator.com/item?id=45343863) - [Show HN: Mushroom Identifier – Fast and Accurate Mushroom Identification with AI](https://mushroomidentification.online)
 * [2025-09-23, 07:01:44](https://news.ycombinator.com/item?id=45343689) - [Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]](https://hi.telli.com/join-us)
 * [2025-09-23, 06:24:50](https://news.ycombinator.com/item?id=45343449) - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)

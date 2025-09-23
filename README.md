@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 08:11:01](https://news.ycombinator.com/item?id=45344198) - [Japan's most sacred Shinto shrine rebuilt every 20yrs for more than a millennium](https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96)
 * [2025-09-23, 07:01:44](https://news.ycombinator.com/item?id=45343689) - [Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]](https://hi.telli.com/join-us)
 * [2025-09-23, 06:24:50](https://news.ycombinator.com/item?id=45343449) - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
 * [2025-09-23, 05:30:28](https://news.ycombinator.com/item?id=45343108) - [Delete FROM users WHERE location = 'Iran';](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
@@ -20,7 +21,6 @@
 * [2025-09-22, 13:05:32](https://news.ycombinator.com/item?id=45332883) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
 * [2025-09-22, 13:03:10](https://news.ycombinator.com/item?id=45332859) - [I'm spoiled by Apple Silicon but still love Framework](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
 * [2025-09-22, 11:59:01](https://news.ycombinator.com/item?id=45332196) - [Is a movie prop the ultimate laptop bag?](https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html)
-* [2025-09-22, 11:52:41](https://news.ycombinator.com/item?id=45332130) - [Easy Forth (2015)](https://skilldrick.github.io/easyforth/)
 * [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-21, 12:11:18](https://news.ycombinator.com/item?id=45322030) - [What happens when coding agents stop feeling like dialup?](https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/)
 * [2025-09-19, 22:36:05](https://news.ycombinator.com/item?id=45307570) - [Based C++](https://github.com/SheafificationOfG/based-cpp)
@@ -29,7 +29,7 @@
 * [2025-09-19, 18:26:07](https://news.ycombinator.com/item?id=45304816) - [Notion 3.0](https://www.notion.com/blog/introducing-notion-3-0)
 * [2025-09-19, 15:53:09](https://news.ycombinator.com/item?id=45303045) - [Rungis: The Market and the City – A day at Europe's largest fresh food market](https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city)
 * [2025-09-19, 12:06:23](https://news.ycombinator.com/item?id=45300668) - [I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)](https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig)
-* [2025-09-19, 05:49:04](https://news.ycombinator.com/item?id=45298334) - [The common sense unit of work](https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/)
+* [2025-09-19, 10:22:54](https://news.ycombinator.com/item?id=45299987) - [The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text](https://arxiv.org/abs/2506.05209)
 
 ## [Archives](archives/index.md)
 

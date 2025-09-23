@@ -52,6 +52,7 @@
 * [2025-09-19, 12:06:23](https://news.ycombinator.com/item?id=45300668) - [I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)](https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig)
 * [2025-09-19, 12:00:16](https://news.ycombinator.com/item?id=45300615) - [Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
 * [2025-09-19, 11:41:36](https://news.ycombinator.com/item?id=45300466) - [Appleii Air Attack.BAS](https://basic-code.bearblog.dev/applesoft-air-attackbas/)
+* [2025-09-19, 10:22:54](https://news.ycombinator.com/item?id=45299987) - [The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text](https://arxiv.org/abs/2506.05209)
 * [2025-09-19, 10:22:44](https://news.ycombinator.com/item?id=45299985) - [Burnend alive inside a Tesla as rescuers fail to open the car's door](https://www.msn.com/en-us/autos/electric-cars/man-and-two-children-burn-alive-inside-a-tesla-with-rescuers-unable-to-open-the-car-s-door/ar-AA1MPAol)
 * [2025-09-19, 10:13:53](https://news.ycombinator.com/item?id=45299932) - [The Collapse of the Tjörn Bridge, Sweden, 1980](https://www.legalscandal.info/ls_eng/tjorn_bridge_disaster.html)
 * [2025-09-19, 09:19:04](https://news.ycombinator.com/item?id=45299625) - [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
