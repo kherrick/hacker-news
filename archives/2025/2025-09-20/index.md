@@ -39,6 +39,7 @@
 * [2025-09-20, 14:06:44](https://news.ycombinator.com/item?id=45313547) - [The dawn of the post-literate society – and the end of civilisation](https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1)
 * [2025-09-20, 13:53:21](https://news.ycombinator.com/item?id=45313439) - [What Makes System Calls Expensive: A Linux Internals Deep Dive](https://blog.codingconfessions.com/p/what-makes-system-calls-expensive)
 * [2025-09-20, 13:51:12](https://news.ycombinator.com/item?id=45313418) - [Living microbial cement supercapacitors with reactivatable energy storage](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6)
+* [2025-09-20, 13:51:05](https://news.ycombinator.com/item?id=45313417) - [Kitty – GPU based terminal emulator](https://sw.kovidgoyal.net/kitty/)
 * [2025-09-20, 13:50:58](https://news.ycombinator.com/item?id=45313415) - [Vapor Chamber Tech Keeps iPhone 17 Pro Cool](https://spectrum.ieee.org/iphone-17-pro-vapor-chamber)
 * [2025-09-20, 13:28:54](https://news.ycombinator.com/item?id=45313211) - [Are We Chasing Language Hype over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems/)
 * [2025-09-20, 13:27:29](https://news.ycombinator.com/item?id=45313194) - [Bezier Curve as Easing Function in C++](https://asawicki.info/news_1790_bezier_curve_as_easing_function_in_c)
