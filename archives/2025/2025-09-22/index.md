@@ -10,6 +10,7 @@
 * [2025-09-22, 22:33:56](https://news.ycombinator.com/item?id=45340442) - [Priced out of traditional housing, more Americans are living in RVs](https://www.nbcnews.com/news/us-news/americans-choose-rv-life-economy-challenges-housing-market-cost-rcna231942)
 * [2025-09-22, 22:16:59](https://news.ycombinator.com/item?id=45340295) - [Linux: Make the Kernel Cute](https://github.com/torvalds/linux/pull/1290)
 * [2025-09-22, 22:12:25](https://news.ycombinator.com/item?id=45340251) - [Show HN: Perfect your presentation with a panel of AI reviewers](https://review.thorntale.com/)
+* [2025-09-22, 22:07:07](https://news.ycombinator.com/item?id=45340192) - [Kwikset ends support for smartphone enabled deadbolt. Suggests physical keys](https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 * [2025-09-22, 21:15:06](https://news.ycombinator.com/item?id=45339525) - [The Cracker Barrel Hype(rreality)](https://www.unpopularfront.news/p/the-cracker-barrel-hyperreality)
 * [2025-09-22, 21:05:48](https://news.ycombinator.com/item?id=45339428) - [Disney reinstates Jimmy Kimmel after backlash over capitulation to FCC](https://arstechnica.com/tech-policy/2025/09/disney-abc-reinstate-jimmy-kimmel-amid-uproar-over-government-censorship/)
