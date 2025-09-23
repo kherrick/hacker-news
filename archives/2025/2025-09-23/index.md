@@ -6,6 +6,8 @@
 
 * [2025-09-23, 10:44:57](https://news.ycombinator.com/item?id=45345237) - [Walking Michigan City (Indiana)](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana)
 * [2025-09-23, 10:44:26](https://news.ycombinator.com/item?id=45345233) - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
+* [2025-09-23, 10:42:26](https://news.ycombinator.com/item?id=45345222) - [Europe's EV sales surge 26% in 2025 while Tesla faces decline](https://www.notebookcheck.net/Europe-s-EV-sales-surge-26-in-2025-while-Tesla-faces-decline.1121077.0.html)
+* [2025-09-23, 10:40:41](https://news.ycombinator.com/item?id=45345207) - [Structured Outputs in LLMs](https://parthsareen.com/blog.html#sampling.md)
 * [2025-09-23, 10:30:42](https://news.ycombinator.com/item?id=45345148) - [Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors](https://arxiv.org/abs/2403.07492)
 * [2025-09-23, 09:33:34](https://news.ycombinator.com/item?id=45344756) - [Indoor surfaces act as sponges for harmful chemicals](https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/)
 * [2025-09-23, 09:26:57](https://news.ycombinator.com/item?id=45344708) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)

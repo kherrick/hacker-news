@@ -2,6 +2,8 @@
 
 * [2025-09-23, 10:44:57](https://news.ycombinator.com/item?id=45345237) - [Walking Michigan City (Indiana)](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana)
 * [2025-09-23, 10:44:26](https://news.ycombinator.com/item?id=45345233) - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
+* [2025-09-23, 10:42:26](https://news.ycombinator.com/item?id=45345222) - [Europe's EV sales surge 26% in 2025 while Tesla faces decline](https://www.notebookcheck.net/Europe-s-EV-sales-surge-26-in-2025-while-Tesla-faces-decline.1121077.0.html)
+* [2025-09-23, 10:40:41](https://news.ycombinator.com/item?id=45345207) - [Structured Outputs in LLMs](https://parthsareen.com/blog.html#sampling.md)
 * [2025-09-23, 10:30:42](https://news.ycombinator.com/item?id=45345148) - [Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors](https://arxiv.org/abs/2403.07492)
 * [2025-09-23, 09:33:34](https://news.ycombinator.com/item?id=45344756) - [Indoor surfaces act as sponges for harmful chemicals](https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/)
 * [2025-09-23, 09:26:57](https://news.ycombinator.com/item?id=45344708) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
@@ -16,7 +18,6 @@
 * [2025-09-23, 00:14:37](https://news.ycombinator.com/item?id=45341324) - [Fall Foliage Map 2025](https://www.explorefall.com/fall-foliage-map)
 * [2025-09-22, 22:07:07](https://news.ycombinator.com/item?id=45340192) - [Kevo app shutdown](https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
-* [2025-09-22, 21:44:54](https://news.ycombinator.com/item?id=45339923) - [Germicidal UV could make airborne diseases as rare as those carried by water](https://www.worksinprogress.news/p/how-to-clean-the-air)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why haven't local-first apps become popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:05:32](https://news.ycombinator.com/item?id=45332883) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
@@ -27,7 +28,6 @@
 * [2025-09-19, 22:36:05](https://news.ycombinator.com/item?id=45307570) - [Based C++](https://github.com/SheafificationOfG/based-cpp)
 * [2025-09-19, 20:44:02](https://news.ycombinator.com/item?id=45306323) - [Themis (European Reusable Rocket) is assembled on launch pad](https://phys.org/news/2025-09-themis-pad-fully.html)
 * [2025-09-19, 18:24:46](https://news.ycombinator.com/item?id=45304807) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
-* [2025-09-19, 15:53:09](https://news.ycombinator.com/item?id=45303045) - [Rungis: The Market and the City – A day at Europe's largest fresh food market](https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city)
 * [2025-09-19, 12:06:23](https://news.ycombinator.com/item?id=45300668) - [I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)](https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig)
 * [2025-09-19, 10:22:54](https://news.ycombinator.com/item?id=45299987) - [The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text](https://arxiv.org/abs/2506.05209)
 
