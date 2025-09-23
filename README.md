@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 20:59:17](https://news.ycombinator.com/item?id=45352672) - [Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
 * [2025-09-23, 20:46:24](https://news.ycombinator.com/item?id=45352533) - [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
 * [2025-09-23, 20:38:25](https://news.ycombinator.com/item?id=45352432) - [I can't stay after what Ruby Central did](https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca)
 * [2025-09-23, 20:16:47](https://news.ycombinator.com/item?id=45352213) - [YouTube will let users booted for violations of Covid, elections policies rejoin](https://www.offthepress.com/youtube-will-let-users-booted-for-repeated-violations-of-covid-elections-policies-rejoin/)
@@ -15,6 +16,7 @@
 * [2025-09-23, 15:09:50](https://news.ycombinator.com/item?id=45348183) - [From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more](https://verialabs.com/blog/from-mcp-to-shell/)
 * [2025-09-23, 14:52:07](https://news.ycombinator.com/item?id=45347914) - [Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914)
 * [2025-09-23, 14:50:06](https://news.ycombinator.com/item?id=45347880) - [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
+* [2025-09-23, 14:27:36](https://news.ycombinator.com/item?id=45347532) - [Getting AI to work in complex codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
 * [2025-09-23, 14:14:46](https://news.ycombinator.com/item?id=45347335) - [x402 — An open protocol for internet-native payments](https://www.x402.org/)
 * [2025-09-23, 13:58:48](https://news.ycombinator.com/item?id=45347147) - [OpenDataLoader-PDF: An open source tool for structured PDF parsing](https://github.com/opendataloader-project/opendataloader-pdf)
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
@@ -25,10 +27,8 @@
 * [2025-09-23, 10:40:41](https://news.ycombinator.com/item?id=45345207) - [Structured Outputs in LLMs](https://parthsareen.com/blog.html#sampling.md)
 * [2025-09-23, 09:26:57](https://news.ycombinator.com/item?id=45344708) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 * [2025-09-23, 09:04:43](https://news.ycombinator.com/item?id=45344554) - [YAML document from hell (2023)](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
-* [2025-09-23, 04:48:28](https://news.ycombinator.com/item?id=45342943) - [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
 * [2025-09-22, 23:43:55](https://news.ycombinator.com/item?id=45341038) - [Thundering herd problem: Preventing the stampede](https://distributed-computing-musings.com/2025/08/thundering-herd-problem-preventing-the-stampede/)
 * [2025-09-20, 13:26:26](https://news.ycombinator.com/item?id=45313180) - [Triple Buffering in Rendering APIs](https://www.4rknova.com//blog/2025/09/12/triple-buffering)
-* [2025-09-19, 19:57:36](https://news.ycombinator.com/item?id=45305826) - [Show HN: The Blots Programming Language](https://blots-lang.org/)
 * [2025-09-19, 18:42:21](https://news.ycombinator.com/item?id=45304980) - [Markov chains are the original language models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
 
 ## [Archives](archives/index.md)
