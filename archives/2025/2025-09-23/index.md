@@ -9,6 +9,7 @@
 * [2025-09-23, 21:20:15](https://news.ycombinator.com/item?id=45352901) - [Context Engineering for AI Agents: Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 * [2025-09-23, 20:59:17](https://news.ycombinator.com/item?id=45352672) - [Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
 * [2025-09-23, 20:46:24](https://news.ycombinator.com/item?id=45352533) - [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
+* [2025-09-23, 20:40:21](https://news.ycombinator.com/item?id=45352460) - [Podman Desktop celebrates 3M downloads](https://podman-desktop.io/blog/3-million)
 * [2025-09-23, 20:38:25](https://news.ycombinator.com/item?id=45352432) - [I can't stay after what Ruby Central did](https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca)
 * [2025-09-23, 20:16:47](https://news.ycombinator.com/item?id=45352213) - [YouTube will let users booted for violations of COVID, elections policies rejoin](https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9)
 * [2025-09-23, 20:16:47](https://news.ycombinator.com/item?id=45352213) - [YouTube Will Let Users Booted for Violations of COVID, Elections Policies Rejoin](https://www.offthepress.com/youtube-will-let-users-booted-for-repeated-violations-of-covid-elections-policies-rejoin/)
