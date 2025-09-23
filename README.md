@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-23, 02:56:10](https://news.ycombinator.com/item?id=45342319) - [Pocket Casts, You Altered the Deal, So I Will Alter Your App](https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/)
+* [2025-09-23, 02:38:29](https://news.ycombinator.com/item?id=45342230) - [Eschatological thinking: why Peter Thiel is talking about the Antichrist](https://www.realtimetechpocalypse.com/p/the-political-power-of-eschatological-82b)
 * [2025-09-23, 02:35:28](https://news.ycombinator.com/item?id=45342213) - [Selling numbered rocks, you get whatever's next in sequence](https://weight.rocks)
 * [2025-09-23, 01:07:57](https://news.ycombinator.com/item?id=45341683) - [X server implementation for SIXEL-featured terminals](https://github.com/saitoha/xserver-SIXEL)
 * [2025-09-23, 00:14:37](https://news.ycombinator.com/item?id=45341324) - [US fall foliage map 2025](https://www.explorefall.com/fall-foliage-map)
@@ -26,7 +27,6 @@
 * [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-21, 12:11:18](https://news.ycombinator.com/item?id=45322030) - [What happens when coding agents stop feeling like dialup?](https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/)
 * [2025-09-19, 21:51:32](https://news.ycombinator.com/item?id=45307119) - [After 50 years, The Magic Circle finally inducts Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html)
-* [2025-09-19, 18:26:28](https://news.ycombinator.com/item?id=45304821) - [Some stuff on how Linux consoles interact with the mouse](https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxConsoleAndMouse)
 * [2025-09-19, 15:53:09](https://news.ycombinator.com/item?id=45303045) - [Rungis: The Market and the City – A day at Europe's largest fresh food market](https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city)
 * [2025-09-19, 14:29:23](https://news.ycombinator.com/item?id=45302073) - [Jailhouse confessions of a teen hacker](https://www.bloomberg.com/news/features/2025-09-19/multimillion-dollar-hacking-spree-scattered-spider-teen-s-jailhouse-confessions)
 * [2025-09-19, 07:15:39](https://news.ycombinator.com/item?id=45298798) - [Egyptian Hieroglyphic Alphabet (2015)](https://discoveringegypt.com/egyptian-hieroglyphic-writing/egyptian-hieroglyphic-alphabet/)
