@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 12:56:00](https://news.ycombinator.com/item?id=45346387) - [Why Zig Feels More Practical Than Rust](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/)
 * [2025-09-23, 12:41:36](https://news.ycombinator.com/item?id=45346219) - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
 * [2025-09-23, 12:18:56](https://news.ycombinator.com/item?id=45345970) - [Silicon Valley hiring in turmoil after new H-1B fees, move spurs offshoring talk](https://www.reuters.com/sustainability/sustainable-finance-reporting/silicon-valley-hiring-turmoil-after-new-h-1b-visa-fees-move-spurs-offshoring-2025-09-23/)
 * [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
@@ -17,6 +18,7 @@
 * [2025-09-23, 04:10:15](https://news.ycombinator.com/item?id=45342759) - [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
 * [2025-09-23, 03:03:06](https://news.ycombinator.com/item?id=45342364) - [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
 * [2025-09-23, 00:14:37](https://news.ycombinator.com/item?id=45341324) - [Fall Foliage Map 2025](https://www.explorefall.com/fall-foliage-map)
+* [2025-09-22, 22:07:07](https://news.ycombinator.com/item?id=45340192) - [Kevo app shutdown](https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why haven't local-first apps become popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
@@ -25,8 +27,6 @@
 * [2025-09-21, 14:26:10](https://news.ycombinator.com/item?id=45323027) - [The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136)
 * [2025-09-20, 14:37:30](https://news.ycombinator.com/item?id=45313790) - [Compiling a Functional Language to LLVM (2023)](https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html)
 * [2025-09-19, 23:34:56](https://news.ycombinator.com/item?id=45308081) - [Forking Styled Components](https://github.com/sanity-io/styled-components-last-resort/blob/main/README.md)
-* [2025-09-19, 22:36:05](https://news.ycombinator.com/item?id=45307570) - [Based C++](https://github.com/SheafificationOfG/based-cpp)
-* [2025-09-19, 20:44:02](https://news.ycombinator.com/item?id=45306323) - [Themis (European Reusable Rocket) is assembled on launch pad](https://phys.org/news/2025-09-themis-pad-fully.html)
 * [2025-09-19, 18:36:38](https://news.ycombinator.com/item?id=45304911) - [Show HN: Run Qwen3-Next-80B on 8GB GPU at 1tok/2s throughput](https://github.com/Mega4alik/ollm)
 * [2025-09-19, 18:24:46](https://news.ycombinator.com/item?id=45304807) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
 * [2025-09-19, 12:06:23](https://news.ycombinator.com/item?id=45300668) - [I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)](https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig)
