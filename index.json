@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-09-20, 23:49:01",
-      "https://news.ycombinator.com/item?id=45318680"
-    ],
-    [
-      "The Great American Travel Book: The book that helped revive a genre",
-      "https://theamericanscholar.org/the-great-american-travel-book/"
-    ]
-  ],
-  [
-    [
       "2025-09-19, 19:57:36",
       "https://news.ycombinator.com/item?id=45305826"
     ],
@@ -297,6 +287,16 @@
     [
       "Markov chains are the original language models",
       "https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 18:36:38",
+      "https://news.ycombinator.com/item?id=45304911"
+    ],
+    [
+      "Show HN: Run Qwen3-Next-80B on 8GB GPU at 1tok/2s throughput",
+      "https://github.com/Mega4alik/ollm"
     ]
   ]
 ]
