@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 05:30:28](https://news.ycombinator.com/item?id=45343108) - [Delete FROM users WHERE location = 'Iran';](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
 * [2025-09-23, 04:10:15](https://news.ycombinator.com/item?id=45342759) - [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
 * [2025-09-23, 03:39:07](https://news.ycombinator.com/item?id=45342592) - [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source)
 * [2025-09-23, 03:03:06](https://news.ycombinator.com/item?id=45342364) - [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
@@ -28,7 +29,6 @@
 * [2025-09-19, 22:36:05](https://news.ycombinator.com/item?id=45307570) - [Based C++](https://github.com/SheafificationOfG/based-cpp)
 * [2025-09-19, 21:51:32](https://news.ycombinator.com/item?id=45307119) - [After 50 years, The Magic Circle finally inducts Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html)
 * [2025-09-19, 15:53:09](https://news.ycombinator.com/item?id=45303045) - [Rungis: The Market and the City – A day at Europe's largest fresh food market](https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city)
-* [2025-09-19, 07:15:39](https://news.ycombinator.com/item?id=45298798) - [Egyptian Hieroglyphic Alphabet (2015)](https://discoveringegypt.com/egyptian-hieroglyphic-writing/egyptian-hieroglyphic-alphabet/)
 * [2025-09-19, 05:49:04](https://news.ycombinator.com/item?id=45298334) - [The common sense unit of work](https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/)
 
 ## [Archives](archives/index.md)
