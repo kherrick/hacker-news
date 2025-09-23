@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-23, 05:30:28",
+      "https://news.ycombinator.com/item?id=45343108"
+    ],
+    [
+      "Delete FROM users WHERE location = 'Iran';",
+      "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 04:10:15",
       "https://news.ycombinator.com/item?id=45342759"
     ],
@@ -277,16 +287,6 @@
     [
       "Rungis: The Market and the City – A day at Europe's largest fresh food market",
       "https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 07:15:39",
-      "https://news.ycombinator.com/item?id=45298798"
-    ],
-    [
-      "Egyptian Hieroglyphic Alphabet (2015)",
-      "https://discoveringegypt.com/egyptian-hieroglyphic-writing/egyptian-hieroglyphic-alphabet/"
     ]
   ],
   [
