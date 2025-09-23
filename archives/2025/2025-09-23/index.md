@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 10:44:57](https://news.ycombinator.com/item?id=45345237) - [Walking Michigan City (Indiana)](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana)
+* [2025-09-23, 10:44:26](https://news.ycombinator.com/item?id=45345233) - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
+* [2025-09-23, 10:30:42](https://news.ycombinator.com/item?id=45345148) - [Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors](https://arxiv.org/abs/2403.07492)
+* [2025-09-23, 09:33:34](https://news.ycombinator.com/item?id=45344756) - [Indoor surfaces act as sponges for harmful chemicals](https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/)
 * [2025-09-23, 09:26:57](https://news.ycombinator.com/item?id=45344708) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 * [2025-09-23, 09:20:11](https://news.ycombinator.com/item?id=45344662) - [One step closer to bombing civilians](https://www.treason.io/p/read-one-step-closer-to-bombing-civilians)
 * [2025-09-23, 09:04:43](https://news.ycombinator.com/item?id=45344554) - [The YAML Document from Hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
