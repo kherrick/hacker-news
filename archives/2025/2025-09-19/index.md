@@ -26,6 +26,7 @@
 * [2025-09-19, 19:03:02](https://news.ycombinator.com/item?id=45305180) - [Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease](https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/)
 * [2025-09-19, 18:47:14](https://news.ycombinator.com/item?id=45305042) - [Internal emails reveal Ticketmaster helped scalpers jack up prices, FTC says](https://arstechnica.com/tech-policy/2025/09/ticketmaster-intentionally-screwed-fans-out-of-billions-ftc-lawsuit-says/)
 * [2025-09-19, 18:42:57](https://news.ycombinator.com/item?id=45304992) - [After getting Jimmy Kimmel suspended, FCC chair threatens ABC's The View](https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/)
+* [2025-09-19, 18:36:38](https://news.ycombinator.com/item?id=45304911) - [Show HN: Run Qwen3-Next-80B on 8GB GPU at 1tok/2s throughput](https://github.com/Mega4alik/ollm)
 * [2025-09-19, 18:26:28](https://news.ycombinator.com/item?id=45304821) - [Some stuff on how Linux consoles interact with the mouse](https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxConsoleAndMouse)
 * [2025-09-19, 18:26:07](https://news.ycombinator.com/item?id=45304816) - [Notion 3.0](https://www.notion.com/blog/introducing-notion-3-0)
 * [2025-09-19, 18:24:46](https://news.ycombinator.com/item?id=45304807) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
