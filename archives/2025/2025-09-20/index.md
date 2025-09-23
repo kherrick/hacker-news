@@ -21,6 +21,7 @@
 * [2025-09-20, 19:01:30](https://news.ycombinator.com/item?id=45316266) - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
 * [2025-09-20, 18:59:51](https://news.ycombinator.com/item?id=45316244) - [TV Time Machine: A Raspberry Pi That Plays Random 90s TV](https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html)
 * [2025-09-20, 18:58:13](https://news.ycombinator.com/item?id=45316226) - [New H-1B visa fee will not apply to existing holders, official says](https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas)
+* [2025-09-20, 18:41:22](https://news.ycombinator.com/item?id=45316063) - [Obscure feature and obscure feature and obscure feature = compiler bug](https://antithesis.com/blog/2025/compiler_bug/)
 * [2025-09-20, 18:30:31](https://news.ycombinator.com/item?id=45315959) - [UNESCO Launches the First Virtual Museum of Stolen Cultural Objects](https://www.unesco.org/en/articles/unesco-launches-worlds-first-virtual-museum-stolen-cultural-objects-global-scale-mondiacult-2025)
 * [2025-09-20, 18:07:28](https://news.ycombinator.com/item?id=45315746) - [The LLM Lobotomy](https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy)
 * [2025-09-20, 17:25:58](https://news.ycombinator.com/item?id=45315312) - [Designing NotebookLM](https://jasonspielman.com/notebooklm)

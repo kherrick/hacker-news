@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 13:59:02](https://news.ycombinator.com/item?id=45347148) - [Secret Service takes down network that could have crippled New York cell service](https://www.theguardian.com/us-news/2025/sep/23/secret-service-new-york-network)
+* [2025-09-23, 13:51:56](https://news.ycombinator.com/item?id=45347043) - [The War on Roommates: Why Is Sharing a House Illegal?](https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html)
+* [2025-09-23, 13:44:04](https://news.ycombinator.com/item?id=45346950) - [MrBeast Failed to Disclose Ads and Improperly Collected Children's Data](https://bbbprograms.org/media/newsroom/decisions/mrbeast-feastables)
 * [2025-09-23, 12:56:00](https://news.ycombinator.com/item?id=45346387) - [Why Zig Feels More Practical Than Rust](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/)
+* [2025-09-23, 12:52:08](https://news.ycombinator.com/item?id=45346343) - [The Secret Service found 300 servers capable of crippling NYC's cell system](https://www.cnn.com/2025/09/23/us/swatting-investigation-server-network-discovered)
 * [2025-09-23, 12:41:36](https://news.ycombinator.com/item?id=45346219) - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
 * [2025-09-23, 12:18:56](https://news.ycombinator.com/item?id=45345970) - [Silicon Valley hiring in turmoil after new H-1B fees, move spurs offshoring talk](https://www.reuters.com/sustainability/sustainable-finance-reporting/silicon-valley-hiring-turmoil-after-new-h-1b-visa-fees-move-spurs-offshoring-2025-09-23/)
 * [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
