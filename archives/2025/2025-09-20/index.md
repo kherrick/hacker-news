@@ -24,6 +24,7 @@
 * [2025-09-20, 18:41:22](https://news.ycombinator.com/item?id=45316063) - [Obscure feature and obscure feature and obscure feature = compiler bug](https://antithesis.com/blog/2025/compiler_bug/)
 * [2025-09-20, 18:30:31](https://news.ycombinator.com/item?id=45315959) - [UNESCO Launches the First Virtual Museum of Stolen Cultural Objects](https://www.unesco.org/en/articles/unesco-launches-worlds-first-virtual-museum-stolen-cultural-objects-global-scale-mondiacult-2025)
 * [2025-09-20, 18:07:28](https://news.ycombinator.com/item?id=45315746) - [The LLM Lobotomy](https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy)
+* [2025-09-20, 18:04:10](https://news.ycombinator.com/item?id=45315705) - [Row-level transformations in Postgres CDC using Lua](https://blog.peerdb.io/row-level-transformations-in-postgres-cdc-using-lua)
 * [2025-09-20, 17:25:58](https://news.ycombinator.com/item?id=45315312) - [Designing NotebookLM](https://jasonspielman.com/notebooklm)
 * [2025-09-20, 16:41:47](https://news.ycombinator.com/item?id=45314906) - [Microsoft memo advises H1B employees to return immediately if currently abroad](https://xcancel.com/onestpress/status/1969374699038675364)
 * [2025-09-20, 16:12:56](https://news.ycombinator.com/item?id=45314592) - [Seattle Ultrasonics: Ultrasonic Chef's Knife](https://seattleultrasonics.com/)

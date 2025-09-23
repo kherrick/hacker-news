@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 14:52:07](https://news.ycombinator.com/item?id=45347914) - [Launch HN: Strata (YC X25) – One MCP Server for AI to Handle Tools](https://news.ycombinator.com/item?id=45347914)
 * [2025-09-23, 14:17:23](https://news.ycombinator.com/item?id=45347363) - [Agents turn simple keyword search into compelling search experiences](https://softwaredoug.com/blog/2025/09/22/reasoning-agents-need-bad-search)
+* [2025-09-23, 14:14:46](https://news.ycombinator.com/item?id=45347335) - [x402 — An open protocol for internet-native payments](https://www.x402.org/)
 * [2025-09-23, 14:02:49](https://news.ycombinator.com/item?id=45347197) - [How are developers using AI? Inside our 2025 DORA report](https://blog.google/technology/developers/dora-report-2025/)
 * [2025-09-23, 14:00:52](https://news.ycombinator.com/item?id=45347178) - [CIA Thwarts Major Telecom Attack in NY](https://apnews.com/article/unga-threat-telecom-service-sim-93734f76578bc9ca22d93a8e91fd9c76)
 * [2025-09-23, 13:59:02](https://news.ycombinator.com/item?id=45347148) - [Secret Service takes down network that could have crippled New York cell service](https://www.theguardian.com/us-news/2025/sep/23/secret-service-new-york-network)
@@ -17,6 +19,7 @@
 * [2025-09-23, 12:56:00](https://news.ycombinator.com/item?id=45346387) - [Why Zig Feels More Practical Than Rust](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/)
 * [2025-09-23, 12:52:08](https://news.ycombinator.com/item?id=45346343) - [The Secret Service found 300 servers capable of crippling NYC's cell system](https://www.cnn.com/2025/09/23/us/swatting-investigation-server-network-discovered)
 * [2025-09-23, 12:41:36](https://news.ycombinator.com/item?id=45346219) - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
+* [2025-09-23, 12:20:36](https://news.ycombinator.com/item?id=45345985) - [US Secret Service dismantles imminent telecommunications threat NY tristate area](https://www.secretservice.gov/newsroom/releases/2025/09/us-secret-service-dismantles-imminent-telecommunications-threat-new-york)
 * [2025-09-23, 12:18:56](https://news.ycombinator.com/item?id=45345970) - [Silicon Valley hiring in turmoil after new H-1B fees, move spurs offshoring talk](https://www.reuters.com/sustainability/sustainable-finance-reporting/silicon-valley-hiring-turmoil-after-new-h-1b-visa-fees-move-spurs-offshoring-2025-09-23/)
 * [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
 * [2025-09-23, 12:00:00](https://news.ycombinator.com/item?id=45345742) - [Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084)
