@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-09-23, 14:14:46",
-      "https://news.ycombinator.com/item?id=45347335"
-    ],
-    [
-      "x402 — An open protocol for internet-native payments",
-      "https://www.x402.org/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 13:56:28",
       "https://news.ycombinator.com/item?id=45347117"
     ],
@@ -287,6 +277,16 @@
     [
       "Triple Buffering in Rendering APIs",
       "https://www.4rknova.com//blog/2025/09/12/triple-buffering"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 11:10:40",
+      "https://news.ycombinator.com/item?id=45312285"
+    ],
+    [
+      "Show HN: Ggc – A Git CLI tool written in Go with interactive UI",
+      "https://github.com/bmf-san/ggc/releases/tag/v6.0.0"
     ]
   ],
   [
