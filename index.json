@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-23, 08:11:01",
+      "https://news.ycombinator.com/item?id=45344198"
+    ],
+    [
+      "Japan's most sacred Shinto shrine rebuilt every 20yrs for more than a millennium",
+      "https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 07:01:44",
       "https://news.ycombinator.com/item?id=45343689"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-09-22, 11:52:41",
-      "https://news.ycombinator.com/item?id=45332130"
-    ],
-    [
-      "Easy Forth (2015)",
-      "https://skilldrick.github.io/easyforth/"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 14:26:10",
       "https://news.ycombinator.com/item?id=45323027"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-19, 05:49:04",
-      "https://news.ycombinator.com/item?id=45298334"
+      "2025-09-19, 10:22:54",
+      "https://news.ycombinator.com/item?id=45299987"
     ],
     [
-      "The common sense unit of work",
-      "https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/"
+      "The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text",
+      "https://arxiv.org/abs/2506.05209"
     ]
   ]
 ]
