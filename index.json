@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-23, 20:59:17",
+      "https://news.ycombinator.com/item?id=45352672"
+    ],
+    [
+      "Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action",
+      "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 20:46:24",
       "https://news.ycombinator.com/item?id=45352533"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2025-09-23, 14:27:36",
+      "https://news.ycombinator.com/item?id=45347532"
+    ],
+    [
+      "Getting AI to work in complex codebases",
+      "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 14:14:46",
       "https://news.ycombinator.com/item?id=45347335"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-09-23, 04:48:28",
-      "https://news.ycombinator.com/item?id=45342943"
-    ],
-    [
-      "Zoxide: A Better CD Command",
-      "https://github.com/ajeetdsouza/zoxide"
-    ]
-  ],
-  [
-    [
       "2025-09-22, 23:43:55",
       "https://news.ycombinator.com/item?id=45341038"
     ],
@@ -277,16 +287,6 @@
     [
       "Triple Buffering in Rendering APIs",
       "https://www.4rknova.com//blog/2025/09/12/triple-buffering"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 19:57:36",
-      "https://news.ycombinator.com/item?id=45305826"
-    ],
-    [
-      "Show HN: The Blots Programming Language",
-      "https://blots-lang.org/"
     ]
   ],
   [
