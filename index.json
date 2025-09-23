@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45352432"
     ],
     [
-      "I can't stay after what Ruby Central did",
+      "I'm leaving Ruby Central",
       "https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca"
     ]
   ],
@@ -66,7 +66,7 @@
     ],
     [
       "YouTube will let users booted for violations of COVID, elections policies rejoin",
-      "https://www.offthepress.com/youtube-will-let-users-booted-for-repeated-violations-of-covid-elections-policies-rejoin/"
+      "https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-09-23, 13:58:48",
+      "https://news.ycombinator.com/item?id=45347147"
+    ],
+    [
+      "OpenDataLoader-PDF: An open source tool for structured PDF parsing",
+      "https://github.com/opendataloader-project/opendataloader-pdf"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 13:56:28",
       "https://news.ycombinator.com/item?id=45347117"
     ],
@@ -257,16 +267,6 @@
     [
       "Go has added Valgrind support",
       "https://go-review.googlesource.com/c/go/+/674077"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 23:43:55",
-      "https://news.ycombinator.com/item?id=45341038"
-    ],
-    [
-      "Thundering herd problem: Preventing the stampede",
-      "https://distributed-computing-musings.com/2025/08/thundering-herd-problem-preventing-the-stampede/"
     ]
   ],
   [
