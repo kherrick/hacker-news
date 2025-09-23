@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-23, 16:07:15",
-      "https://news.ycombinator.com/item?id=45348963"
+      "2025-09-23, 16:29:41",
+      "https://news.ycombinator.com/item?id=45349294"
     ],
     [
-      "FDA Takes Action to Make a Treatment Available for Autism Symptoms",
-      "https://www.fda.gov/news-events/press-announcements/fda-takes-action-make-treatment-available-autism-symptoms"
+      "Nintendo Alerted After DHS Uses Pokémon to Promote ICE Raids",
+      "https://www.thedailybeast.com/nintendo-alerted-after-dhs-uses-pokemon-to-promote-ice-raids-tearing-families-apart/"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 15:50:10",
+      "https://news.ycombinator.com/item?id=45348730"
+    ],
+    [
+      "Show HN: FlyCode – Recover Stripe payments by automatically using backup cards",
+      "https://news.ycombinator.com/item?id=45348730"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45348700"
     ],
     [
-      "\"If you are reading this obituary, it looks like I'm dead. It happened\"",
+      "If you are reading this obituary, it looks like I'm dead",
       "https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/"
     ]
   ],
@@ -37,6 +47,26 @@
     [
       "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
       "https://joel.drapper.me/p/rubygems-takeover/"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 15:21:00",
+      "https://news.ycombinator.com/item?id=45348330"
+    ],
+    [
+      "Grindr outage reports coincide with Kirk memorial service in Arizona",
+      "https://www.pride.com/culture/charlie-kirk-grindr-outage"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 15:09:50",
+      "https://news.ycombinator.com/item?id=45348183"
+    ],
+    [
+      "From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more",
+      "https://verialabs.com/blog/from-mcp-to-shell/"
     ]
   ],
   [
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=45347197"
     ],
     [
-      "2025 DORA Report",
+      "State of AI-assisted Software Development",
       "https://blog.google/technology/developers/dora-report-2025/"
     ]
   ],
@@ -121,32 +151,12 @@
   ],
   [
     [
-      "2025-09-23, 13:54:51",
-      "https://news.ycombinator.com/item?id=45347089"
-    ],
-    [
-      "OrangePi 5 Ultra Review: An ARM64 SBC Powerhouse",
-      "https://boilingsteam.com/orange-pi-5-ultra-review/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 13:51:56",
       "https://news.ycombinator.com/item?id=45347043"
     ],
     [
       "Restrictions on house sharing by unrelated roommates",
       "https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 13:45:44",
-      "https://news.ycombinator.com/item?id=45346968"
-    ],
-    [
-      "Abundant Intelligence",
-      "https://blog.samaltman.com/abundant-intelligence"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Processing Strings 109x Faster Than Nvidia on H100",
       "https://ashvardanian.com/posts/stringwars-on-gpus/"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 12:06:23",
-      "https://news.ycombinator.com/item?id=45300668"
-    ],
-    [
-      "I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)",
-      "https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig"
     ]
   ]
 ]
