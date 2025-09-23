@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 04:10:15](https://news.ycombinator.com/item?id=45342759) - [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
 * [2025-09-23, 03:39:07](https://news.ycombinator.com/item?id=45342592) - [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source)
-* [2025-09-23, 03:03:06](https://news.ycombinator.com/item?id=45342364) - [9 Things I Learned in 90 Years – From the Creator of Choose Your Own Adventure [pdf]](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
+* [2025-09-23, 03:03:06](https://news.ycombinator.com/item?id=45342364) - [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
 * [2025-09-23, 01:07:57](https://news.ycombinator.com/item?id=45341683) - [X server implementation for SIXEL-featured terminals (2010-2014)](https://github.com/saitoha/xserver-SIXEL)
 * [2025-09-23, 00:14:37](https://news.ycombinator.com/item?id=45341324) - [Fall Foliage Map 2025](https://www.explorefall.com/fall-foliage-map)
 * [2025-09-22, 22:07:07](https://news.ycombinator.com/item?id=45340192) - [Kevo app shutdown](https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock)
@@ -14,7 +15,6 @@
 * [2025-09-22, 16:21:35](https://news.ycombinator.com/item?id=45335635) - [Testing is better than data structures and algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
 * [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 * [2025-09-22, 15:10:48](https://news.ycombinator.com/item?id=45334545) - [PlanetScale for Postgres is now GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
-* [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why haven't local-first apps become popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:05:32](https://news.ycombinator.com/item?id=45332883) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
 * [2025-09-22, 13:03:33](https://news.ycombinator.com/item?id=45332860) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
