@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-23, 20:16:47",
+      "https://news.ycombinator.com/item?id=45352213"
+    ],
+    [
+      "YouTube Will Let Users Booted for Violations of COVID, Elections Policies Rejoin",
+      "https://www.offthepress.com/youtube-will-let-users-booted-for-repeated-violations-of-covid-elections-policies-rejoin/"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 19:37:45",
       "https://news.ycombinator.com/item?id=45351737"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-09-22, 22:09:58",
-      "https://news.ycombinator.com/item?id=45340215"
+      "2025-09-20, 23:49:01",
+      "https://news.ycombinator.com/item?id=45318680"
     ],
     [
-      "Imagining a language without booleans",
-      "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html"
+      "The Great American Travel Book: The book that helped revive a genre",
+      "https://theamericanscholar.org/the-great-american-travel-book/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Markov chains are the original language models",
       "https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 18:36:38",
-      "https://news.ycombinator.com/item?id=45304911"
-    ],
-    [
-      "Show HN: Run Qwen3-Next-80B on 8GB GPU at 1tok/2s throughput",
-      "https://github.com/Mega4alik/ollm"
     ]
   ]
 ]
