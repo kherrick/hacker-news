@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 15:08:08](https://news.ycombinator.com/item?id=45348146) - [He's ranked 2nd in the nation for youth rock climbing; AI just canceled him](https://insideinvestigator.org/hes-ranked-2nd-in-the-nation-for-youth-rock-climbing-ai-just-canceled-him/)
 * [2025-09-23, 14:52:07](https://news.ycombinator.com/item?id=45347914) - [Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914)
 * [2025-09-23, 14:50:06](https://news.ycombinator.com/item?id=45347880) - [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
 * [2025-09-23, 14:39:59](https://news.ycombinator.com/item?id=45347714) - [Show HN: Kekkai – a simple, fast file integrity monitoring tool in Go](https://github.com/catatsuy/kekkai)
@@ -10,7 +11,6 @@
 * [2025-09-23, 13:54:51](https://news.ycombinator.com/item?id=45347089) - [OrangePi 5 Ultra Review: An ARM64 SBC Powerhouse](https://boilingsteam.com/orange-pi-5-ultra-review/)
 * [2025-09-23, 13:51:56](https://news.ycombinator.com/item?id=45347043) - [The War on Roommates: Why Is Sharing a House Illegal?](https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html)
 * [2025-09-23, 13:44:04](https://news.ycombinator.com/item?id=45346950) - [MrBeast Failed to Disclose Ads and Improperly Collected Children's Data](https://bbbprograms.org/media/newsroom/decisions/mrbeast-feastables)
-* [2025-09-23, 13:29:23](https://news.ycombinator.com/item?id=45346761) - [AI won't use as much electricity as we are told](https://johnquigginblog.substack.com/p/ai-wont-use-as-much-electricity-as)
 * [2025-09-23, 12:41:36](https://news.ycombinator.com/item?id=45346219) - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
 * [2025-09-23, 12:00:00](https://news.ycombinator.com/item?id=45345742) - [Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084)
 * [2025-09-23, 11:29:13](https://news.ycombinator.com/item?id=45345514) - [Cache of Devices Capable of Crashing Cell Network Is Found Near U.N](https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html)

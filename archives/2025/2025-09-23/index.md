@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 15:08:08](https://news.ycombinator.com/item?id=45348146) - [He's ranked 2nd in the nation for youth rock climbing; AI just canceled him](https://insideinvestigator.org/hes-ranked-2nd-in-the-nation-for-youth-rock-climbing-ai-just-canceled-him/)
 * [2025-09-23, 14:52:07](https://news.ycombinator.com/item?id=45347914) - [Launch HN: Strata (YC X25) – One MCP Server for AI to Handle Tools](https://news.ycombinator.com/item?id=45347914)
 * [2025-09-23, 14:50:06](https://news.ycombinator.com/item?id=45347880) - [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
 * [2025-09-23, 14:39:59](https://news.ycombinator.com/item?id=45347714) - [Show HN: Kekkai – a simple, fast file integrity monitoring tool in Go](https://github.com/catatsuy/kekkai)
