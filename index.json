@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-23, 09:26:57",
+      "https://news.ycombinator.com/item?id=45344708"
+    ],
+    [
+      "Go has added Valgrind support",
+      "https://go-review.googlesource.com/c/go/+/674077"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 09:20:11",
       "https://news.ycombinator.com/item?id=45344662"
     ],
@@ -161,26 +171,6 @@
   ],
   [
     [
-      "2025-09-22, 16:21:35",
-      "https://news.ycombinator.com/item?id=45335635"
-    ],
-    [
-      "Testing is better than data structures and algorithms",
-      "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 16:10:15",
-      "https://news.ycombinator.com/item?id=45335474"
-    ],
-    [
-      "OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems",
-      "https://openai.com/index/openai-nvidia-systems-partnership/"
-    ]
-  ],
-  [
-    [
       "2025-09-22, 13:17:59",
       "https://news.ycombinator.com/item?id=45333021"
     ],
@@ -267,6 +257,16 @@
     [
       "Themis (European Reusable Rocket) is assembled on launch pad",
       "https://phys.org/news/2025-09-themis-pad-fully.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 18:24:46",
+      "https://news.ycombinator.com/item?id=45304807"
+    ],
+    [
+      "Processing Strings 109x Faster Than Nvidia on H100",
+      "https://ashvardanian.com/posts/stringwars-on-gpus/"
     ]
   ],
   [
