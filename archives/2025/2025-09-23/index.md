@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 17:04:56](https://news.ycombinator.com/item?id=45349848) - [Android users can now use conversational editing in Google Photos](https://blog.google/products/photos/android-conversational-editing-google-photos/)
 * [2025-09-23, 16:29:41](https://news.ycombinator.com/item?id=45349294) - [Nintendo Alerted After DHS Uses Pokémon to Promote ICE Raids](https://www.thedailybeast.com/nintendo-alerted-after-dhs-uses-pokemon-to-promote-ice-raids-tearing-families-apart/)
 * [2025-09-23, 16:25:46](https://news.ycombinator.com/item?id=45349231) - [U.S. Secret Service disrupts telecom network that threatened NYC during U.N](https://www.cbsnews.com/news/u-s-secret-service-disrupts-telecom-network-threatened-new-york-city-u-n-general-assembly/)
 * [2025-09-23, 16:07:15](https://news.ycombinator.com/item?id=45348963) - [FDA Takes Action to Make a Treatment Available for Autism Symptoms](https://www.fda.gov/news-events/press-announcements/fda-takes-action-make-treatment-available-autism-symptoms)
@@ -18,12 +19,14 @@
 * [2025-09-23, 14:50:06](https://news.ycombinator.com/item?id=45347880) - [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
 * [2025-09-23, 14:39:59](https://news.ycombinator.com/item?id=45347714) - [Show HN: Kekkai – a simple, fast file integrity monitoring tool in Go](https://github.com/catatsuy/kekkai)
 * [2025-09-23, 14:33:59](https://news.ycombinator.com/item?id=45347623) - [Show HN: Open-source AI data generator (now hosted)](https://www.metabase.com/ai-data-generator)
+* [2025-09-23, 14:27:36](https://news.ycombinator.com/item?id=45347532) - [Getting AI to work in complex codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
 * [2025-09-23, 14:17:23](https://news.ycombinator.com/item?id=45347363) - [Agents turn simple keyword search into compelling search experiences](https://softwaredoug.com/blog/2025/09/22/reasoning-agents-need-bad-search)
 * [2025-09-23, 14:14:46](https://news.ycombinator.com/item?id=45347335) - [x402 — An open protocol for internet-native payments](https://www.x402.org/)
 * [2025-09-23, 14:02:49](https://news.ycombinator.com/item?id=45347197) - [How are developers using AI? Inside our 2025 DORA report](https://blog.google/technology/developers/dora-report-2025/)
 * [2025-09-23, 14:00:52](https://news.ycombinator.com/item?id=45347178) - [CIA Thwarts Major Telecom Attack in NY](https://apnews.com/article/unga-threat-telecom-service-sim-93734f76578bc9ca22d93a8e91fd9c76)
 * [2025-09-23, 13:59:02](https://news.ycombinator.com/item?id=45347148) - [Secret Service takes down network that could have crippled New York cell service](https://www.theguardian.com/us-news/2025/sep/23/secret-service-new-york-network)
 * [2025-09-23, 13:58:48](https://news.ycombinator.com/item?id=45347147) - [OpenDataLoader-PDF: An open source tool for structured PDF parsing](https://github.com/opendataloader-project/opendataloader-pdf)
+* [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-23, 13:54:51](https://news.ycombinator.com/item?id=45347089) - [OrangePi 5 Ultra Review: An ARM64 SBC Powerhouse](https://boilingsteam.com/orange-pi-5-ultra-review/)
 * [2025-09-23, 13:51:56](https://news.ycombinator.com/item?id=45347043) - [The War on Roommates: Why Is Sharing a House Illegal?](https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html)
 * [2025-09-23, 13:49:56](https://news.ycombinator.com/item?id=45347022) - [US authorities seize illicit electronics in New York during UN General Assembly](https://www.reuters.com/world/us/us-authorities-seize-illicit-electronics-new-york-area-during-un-general-2025-09-23/)
