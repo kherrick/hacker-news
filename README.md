@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-23, 06:24:50](https://news.ycombinator.com/item?id=45343449) - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
 * [2025-09-23, 05:30:28](https://news.ycombinator.com/item?id=45343108) - [Delete FROM users WHERE location = 'Iran';](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
 * [2025-09-23, 04:48:28](https://news.ycombinator.com/item?id=45342943) - [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
 * [2025-09-23, 04:10:15](https://news.ycombinator.com/item?id=45342759) - [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
@@ -10,8 +11,8 @@
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 * [2025-09-22, 21:44:54](https://news.ycombinator.com/item?id=45339923) - [Germicidal UV could make airborne diseases as rare as those carried by water](https://www.worksinprogress.news/p/how-to-clean-the-air)
 * [2025-09-22, 19:49:02](https://news.ycombinator.com/item?id=45338561) - [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
-* [2025-09-22, 18:18:56](https://news.ycombinator.com/item?id=45337400) - [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
+* [2025-09-22, 17:01:04](https://news.ycombinator.com/item?id=45336282) - [Mentra (YC W25) is hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
 * [2025-09-22, 16:21:35](https://news.ycombinator.com/item?id=45335635) - [Testing is better than data structures and algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
 * [2025-09-22, 16:10:15](https://news.ycombinator.com/item?id=45335474) - [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/)
 * [2025-09-22, 15:10:48](https://news.ycombinator.com/item?id=45334545) - [PlanetScale for Postgres is now GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
@@ -28,7 +29,6 @@
 * [2025-09-19, 21:51:32](https://news.ycombinator.com/item?id=45307119) - [After 50 years, The Magic Circle finally inducts Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html)
 * [2025-09-19, 15:53:09](https://news.ycombinator.com/item?id=45303045) - [Rungis: The Market and the City – A day at Europe's largest fresh food market](https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city)
 * [2025-09-19, 12:06:23](https://news.ycombinator.com/item?id=45300668) - [I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)](https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig)
-* [2025-09-19, 07:15:39](https://news.ycombinator.com/item?id=45298798) - [Egyptian Hieroglyphic Alphabet (2015)](https://discoveringegypt.com/egyptian-hieroglyphic-writing/egyptian-hieroglyphic-alphabet/)
 * [2025-09-19, 05:49:04](https://news.ycombinator.com/item?id=45298334) - [The common sense unit of work](https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/)
 
 ## [Archives](archives/index.md)
