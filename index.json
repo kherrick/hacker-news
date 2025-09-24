@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-24, 04:15:04",
+      "https://news.ycombinator.com/item?id=45356226"
+    ],
+    [
+      "Greatest irony of the AI age: Humans hired to clean AI slop",
+      "https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 02:59:45",
       "https://news.ycombinator.com/item?id=45355806"
     ],
@@ -27,16 +37,6 @@
     [
       "Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems",
       "https://git.hq.sig7.se/zutty.git"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 01:47:03",
-      "https://news.ycombinator.com/item?id=45355310"
-    ],
-    [
-      "Bring true randomness to Spotify with Fisher-Yates shuffle",
-      "https://github.com/vuciv/true-random-shuffle"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-09-23, 15:25:29",
-      "https://news.ycombinator.com/item?id=45348390"
-    ],
-    [
-      "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
-      "https://joel.drapper.me/p/rubygems-takeover/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 15:09:50",
       "https://news.ycombinator.com/item?id=45348183"
     ],
@@ -267,6 +257,16 @@
     [
       "How is einx notation universal?",
       "https://einx.readthedocs.io/en/stable/faq/universal.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 05:52:51",
+      "https://news.ycombinator.com/item?id=45320382"
+    ],
+    [
+      "A webshell and a normal file that have the same MD5",
+      "https://github.com/phith0n/collision-webshell"
     ]
   ],
   [
