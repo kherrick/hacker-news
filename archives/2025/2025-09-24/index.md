@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 15:16:56](https://news.ycombinator.com/item?id=45361574) - [Replace PostgreSQL with Git for your next project](https://devcenter.upsun.com/posts/why-you-should-replace-postgresql-with-git-for-your-next-project/)
+* [2025-09-24, 15:00:15](https://news.ycombinator.com/item?id=45361344) - [The Lambda Calculus – Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/lambda-calculus/)
+* [2025-09-24, 14:51:44](https://news.ycombinator.com/item?id=45361239) - [The DHS has been harvesting DNA from Americans for years](https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/)
 * [2025-09-24, 14:44:20](https://news.ycombinator.com/item?id=45361154) - [Who Funds Misfit Research?](https://blog.spec.tech/p/who-funds-misfit-research)
 * [2025-09-24, 14:42:49](https://news.ycombinator.com/item?id=45361140) - [How HubSpot Scaled AI Adoption](https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption)
+* [2025-09-24, 14:38:02](https://news.ycombinator.com/item?id=45361071) - [Building a Custom eBPF Filesystem Watcher to Catch Root Ownership Goofs](https://amandeepsp.github.io/blog/fs-watcher/)
+* [2025-09-24, 14:20:33](https://news.ycombinator.com/item?id=45360824) - [Smartphone Cameras Go Hyperspectral](https://spectrum.ieee.org/hyperspectral-imaging)
+* [2025-09-24, 14:18:14](https://news.ycombinator.com/item?id=45360787) - [Show HN: Mosaic – A Kotlin framework for cleaner back end code](https://github.com/Nick-Abbott/Mosaic)
 * [2025-09-24, 13:56:37](https://news.ycombinator.com/item?id=45360475) - [Just Let Me Select Text](https://aartaka.me/select-text.html)
 * [2025-09-24, 13:18:44](https://news.ycombinator.com/item?id=45359915) - [Autodesk Increases APS Pricing](https://aps.autodesk.com/blog/aps-business-model-evolution)
 * [2025-09-24, 12:52:52](https://news.ycombinator.com/item?id=45359604) - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts)
