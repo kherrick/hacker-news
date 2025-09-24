@@ -129,6 +129,107 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45362914">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=45362914"
+              >Launch HN: Flywheel (YC S25) – Waymo for Excavators</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-24 @ 16:48:27</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45362914"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://useflywheel.ai">https://useflywheel.ai</a>).
+              We’re building a remote teleop and autonomous stack for
+              excavators.
+              <p>
+                Here's a video:
+                <a href="https://www.youtube.com/watch?v=zCNmNm3lQGk"
+                  >https://www.youtube.com/watch?v=zCNmNm3lQGk</a
+                >.
+              </p>
+              <p>
+                Interfacing with existing excavators for enabling remote teleop
+                (or autonomy) is hard. Unlike cars which use drive-by-wire
+                technology, most of the millions of excavators are fully
+                hydraulic machines. The joysticks are connected to a pilot
+                hydraulic circuit, which proportionally moves the cylinders in
+                the main hydraulic circuit which ultimately moves the excavator
+                joints. This means excavators mostly do not have an electronic
+                component to control the joints. We solve this by mechanically
+                actuating the joysticks and pedals inside the excavators.
+              </p>
+              <p>
+                We do this with retrofits which work on any excavator
+                model/make, enabling us to augment existing machines. By
+                enabling remote teleoperation, we are able to increase site
+                safety, productivity and also cost efficiency.
+              </p>
+              <p>
+                Teleoperation by the operators enables us to prepare training
+                data for autonomy. In robotics, training data comprises
+                observation and action. While images and videos are abundant on
+                the internet, egocentric (PoV) observation and action data is
+                extremely scarce, and it is this scarcity that is holding back
+                scaling robot learning policies.
+              </p>
+              <p>
+                Flywheel solves this by preparing the training data coming from
+                our remote teleop-enabled excavators which we have already
+                deployed. And we do this with very minimal hardware setup and
+                resources.
+              </p>
+              <p>
+                During our time in YC, we did 25-30 iterations of sensor stack
+                and placement permutations/combinations, and model hyperparams
+                variations. We called this “evolution of the physical form of
+                our retrofit”. Eventually, we landed to our current evolution
+                and have successfully been able to train some levels of autonomy
+                with only a few hours of training data. We will continue playing
+                around with these ‘knobs’ to figure out what works better.
+              </p>
+              <p>
+                The big takeaway was how much more important data is than
+                optimizing hyperparams of the model. So today, we’re open
+                sourcing 100hrs of excavator dataset that we collected using
+                Flywheel systems on real construction sites. This is in
+                partnership with Frodobots.ai
+              </p>
+              <p>Machine/retrofit details:</p>
+              <p></p>
+              <pre><code>  Volvo EC380 (38 ton excavator)
+  4xcamera (25fps)
+  25 hz expert operator’s action data
+</code></pre>
+              We’re just getting started. We have good amounts of variations in
+              daylight, weather, tasks, and would be adding more hours of data
+              and also converting to lerobot format soon. We’re doing this so
+              people like you and me can try out training models on real world
+              data which is very, very hard to get.
+              <p>
+                So please checkout the dataset here and feel free to download
+                and use however you like. We can’t wait to see what you all
+                build. I’ll be around in the thread and look forward to comments
+                and feedback from the community!
+              </p>
+              <p>
+                Dataset link:
+                <a
+                  href="https://huggingface.co/datasets/FlywheelAI/excavator-dataset"
+                  >https://huggingface.co/datasets/FlywheelAI/excavator-dataset</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45362697">
           <h3>
             <a
@@ -142,11 +243,32 @@
             <h4>
               <span>2025-09-24 @ 16:32:24</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45362697"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 45</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45362569">
+          <h3>
+            <a
+              class="item"
+              href="https://sedimental.org/product_hunt_is_dead.html"
+              >Product Hunt Is Dead</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-24 @ 16:23:33</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45362569"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -164,11 +286,11 @@
             <h4>
               <span>2025-09-24 @ 16:17:34</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45362486"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -185,11 +307,11 @@
             <h4>
               <span>2025-09-24 @ 16:13:49</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45362425"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -207,7 +329,7 @@
             <h4>
               <span>2025-09-24 @ 16:03:42</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45362254"
                   >Comments</a
@@ -228,11 +350,11 @@
             <h4>
               <span>2025-09-24 @ 16:00:45</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45362206"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -249,7 +371,7 @@
             <h4>
               <span>2025-09-24 @ 15:49:37</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45362038"
                   >Comments</a
@@ -271,11 +393,11 @@
             <h4>
               <span>2025-09-24 @ 15:48:36</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45362023"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -292,11 +414,11 @@
             <h4>
               <span>2025-09-24 @ 15:03:59</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45361394"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -313,7 +435,7 @@
             <h4>
               <span>2025-09-24 @ 15:00:15</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45361344"
                   >Comments</a
@@ -334,11 +456,11 @@
             <h4>
               <span>2025-09-24 @ 14:51:44</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45361239"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -355,7 +477,7 @@
             <h4>
               <span>2025-09-24 @ 14:44:20</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45361154"
                   >Comments</a
@@ -380,7 +502,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45361140"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -397,11 +519,11 @@
             <h4>
               <span>2025-09-24 @ 14:20:33</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45360824"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -416,11 +538,11 @@
             <h4>
               <span>2025-09-24 @ 13:56:37</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45360475"
                   >Comments</a
-                ><span class="descendants">: 188</span></span
+                ><span class="descendants">: 194</span></span
               >
             </h4>
           </section>
@@ -437,11 +559,11 @@
             <h4>
               <span>2025-09-24 @ 12:52:52</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45359604"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -458,11 +580,11 @@
             <h4>
               <span>2025-09-24 @ 12:45:07</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45359524"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -477,7 +599,7 @@
             <h4>
               <span>2025-09-24 @ 12:31:52</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45359388"
                   >Comments</a
@@ -499,11 +621,11 @@
             <h4>
               <span>2025-09-24 @ 12:30:59</span
               ><span class="points-container"
-                >Points: <span class="points">439</span></span
+                >Points: <span class="points">461</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45359378"
                   >Comments</a
-                ><span class="descendants">: 407</span></span
+                ><span class="descendants">: 428</span></span
               >
             </h4>
           </section>
@@ -521,11 +643,11 @@
             <h4>
               <span>2025-09-24 @ 12:28:15</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45359356"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -542,11 +664,11 @@
             <h4>
               <span>2025-09-24 @ 11:52:50</span
               ><span class="points-container"
-                >Points: <span class="points">296</span></span
+                >Points: <span class="points">306</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45359074"
                   >Comments</a
-                ><span class="descendants">: 192</span></span
+                ><span class="descendants">: 203</span></span
               >
             </h4>
           </section>
@@ -561,11 +683,11 @@
             <h4>
               <span>2025-09-24 @ 11:41:54</span
               ><span class="points-container"
-                >Points: <span class="points">651</span></span
+                >Points: <span class="points">671</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45358980"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 336</span></span
               >
             </h4>
           </section>
@@ -582,11 +704,11 @@
             <h4>
               <span>2025-09-24 @ 11:37:30</span
               ><span class="points-container"
-                >Points: <span class="points">208</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45358940"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -603,11 +725,11 @@
             <h4>
               <span>2025-09-24 @ 10:37:14</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45358527"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -625,11 +747,11 @@
             <h4>
               <span>2025-09-24 @ 10:26:23</span
               ><span class="points-container"
-                >Points: <span class="points">324</span></span
+                >Points: <span class="points">335</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45358433"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -646,11 +768,11 @@
             <h4>
               <span>2025-09-24 @ 10:05:29</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45358280"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -667,7 +789,7 @@
             <h4>
               <span>2025-09-24 @ 09:56:04</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45358216"
                   >Comments</a
@@ -688,32 +810,11 @@
             <h4>
               <span>2025-09-24 @ 08:24:20</span
               ><span class="points-container"
-                >Points: <span class="points">729</span></span
+                >Points: <span class="points">744</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45357693"
                   >Comments</a
-                ><span class="descendants">: 380</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45333548">
-          <h3>
-            <a
-              class="item"
-              href="https://bartoszmilewski.com/2025/09/22/identity-types/"
-              >Identity Types</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-22 @ 13:56:03</span
-              ><span class="points-container"
-                >Points: <span class="points">6</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45333548"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 391</span></span
               >
             </h4>
           </section>
@@ -729,11 +830,11 @@
             <h4>
               <span>2025-09-22 @ 05:18:12</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45329322"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
             <div class="text">
@@ -789,28 +890,6 @@
               </p>
               <p>I would love to know your thoughts about our approach!</p>
             </div>
-          </section>
-        </section>
-        <section id="45322906">
-          <h3>
-            <a
-              class="item"
-              href="https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge"
-              >I Spent Three Nights Solving Listen Labs Berghain Challenge (and
-              Got #16)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-21 @ 14:11:12</span
-              ><span class="points-container"
-                >Points: <span class="points">39</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45322906"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
           </section>
         </section>
       </section>
