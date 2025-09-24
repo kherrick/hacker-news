@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-24, 03:27:41",
+      "https://news.ycombinator.com/item?id=45355965"
+    ],
+    [
+      "New study shows plants and animals emit a visible light that expires at death",
+      "https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 02:59:45",
       "https://news.ycombinator.com/item?id=45355806"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-09-23, 15:09:50",
-      "https://news.ycombinator.com/item?id=45348183"
-    ],
-    [
-      "From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more",
-      "https://verialabs.com/blog/from-mcp-to-shell/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 14:52:07",
       "https://news.ycombinator.com/item?id=45347914"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-09-21, 07:11:50",
-      "https://news.ycombinator.com/item?id=45320715"
-    ],
-    [
-      "How is einx notation universal?",
-      "https://einx.readthedocs.io/en/stable/faq/universal.html"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 05:52:51",
       "https://news.ycombinator.com/item?id=45320382"
     ],
     [
       "A webshell and a normal file that have the same MD5",
       "https://github.com/phith0n/collision-webshell"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 03:30:07",
+      "https://news.ycombinator.com/item?id=45319791"
+    ],
+    [
+      "Processing Strings 109x Faster Than Nvidia on H100",
+      "https://ashvardanian.com/posts/stringwars-on-gpus/"
     ]
   ],
   [
