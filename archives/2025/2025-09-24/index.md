@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
 * [2025-09-24, 10:26:23](https://news.ycombinator.com/item?id=45358433) - [My game's server is blocked in Spain whenever there's a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
 * [2025-09-24, 10:26:23](https://news.ycombinator.com/item?id=45358433) - [My game's server is blocked in Spain whenever there's a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
@@ -21,7 +22,6 @@
 * [2025-09-23, 14:52:07](https://news.ycombinator.com/item?id=45347914) - [Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914)
 * [2025-09-23, 14:27:36](https://news.ycombinator.com/item?id=45347532) - [Getting AI to work in complex codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
-* [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
 * [2025-09-22, 11:46:55](https://news.ycombinator.com/item?id=45332076) - [Show HN: We built our own technology radar](https://technologieradar.tryresearchly.com)
 * [2025-09-22, 04:22:32](https://news.ycombinator.com/item?id=45329080) - [Building a better online editor for TypeScript](https://blog.val.town/vtlsp)
 * [2025-09-21, 05:52:51](https://news.ycombinator.com/item?id=45320382) - [A webshell and a normal file that have the same MD5](https://github.com/phith0n/collision-webshell)
