@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-09-24, 17:29:09",
-      "https://news.ycombinator.com/item?id=45363429"
-    ],
-    [
-      "Tinder, Hinge, and their corporate owner keep rape under wraps",
-      "https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up"
-    ]
-  ],
-  [
-    [
       "2025-09-24, 16:48:27",
       "https://news.ycombinator.com/item?id=45362914"
     ],
@@ -117,6 +107,16 @@
     [
       "Python on the Edge: Fast, sandboxed, and powered by WebAssembly",
       "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 15:17:08",
+      "https://news.ycombinator.com/item?id=45361578"
+    ],
+    [
+      "Engineering a fixed-width bit-packed integer vector in Rust",
+      "https://lukefleed.xyz/posts/compressed-fixedvec/"
     ]
   ],
   [
