@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-09-24, 14:44:20",
+      "https://news.ycombinator.com/item?id=45361154"
+    ],
+    [
+      "Who Funds Misfit Research?",
+      "https://blog.spec.tech/p/who-funds-misfit-research"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 14:42:49",
+      "https://news.ycombinator.com/item?id=45361140"
+    ],
+    [
+      "How HubSpot Scaled AI Adoption",
+      "https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 13:56:37",
       "https://news.ycombinator.com/item?id=45360475"
     ],
     [
       "Just Let Me Select Text",
       "https://aartaka.me/select-text.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 13:18:44",
-      "https://news.ycombinator.com/item?id=45359915"
-    ],
-    [
-      "Autodesk Increases APS Pricing",
-      "https://aps.autodesk.com/blog/aps-business-model-evolution"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2025-09-24, 03:27:41",
+      "https://news.ycombinator.com/item?id=45355965"
+    ],
+    [
+      "New study shows plants and animals emit a visible light that expires at death",
+      "https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 00:26:59",
       "https://news.ycombinator.com/item?id=45354644"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2025-09-23, 21:24:45",
-      "https://news.ycombinator.com/item?id=45352944"
-    ],
-    [
-      "From Rust to reality: The hidden journey of fetch_max",
-      "https://questdb.com/blog/rust-fetch-max-compiler-journey/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 20:59:17",
       "https://news.ycombinator.com/item?id=45352672"
     ],
     [
       "Qwen3-VL",
       "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 20:40:21",
-      "https://news.ycombinator.com/item?id=45352460"
-    ],
-    [
-      "Podman Desktop celebrates 3M downloads",
-      "https://podman-desktop.io/blog/3-million"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-09-21, 05:52:51",
-      "https://news.ycombinator.com/item?id=45320382"
-    ],
-    [
-      "A webshell and a normal file that have the same MD5",
-      "https://github.com/phith0n/collision-webshell"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 00:12:00",
       "https://news.ycombinator.com/item?id=45318837"
     ],
     [
       "How Neural Super Sampling Works: Architecture, Training, and Inference",
       "https://semiengineering.com/how-neural-super-sampling-works-architecture-training-and-inference/"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 23:38:02",
+      "https://news.ycombinator.com/item?id=45318604"
+    ],
+    [
+      "macOS becomes iOS: Safari video controls",
+      "https://underpassapp.com/news/2025/9/8.html"
     ]
   ],
   [
