@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 23:12:38](https://news.ycombinator.com/item?id=45367046) - [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
 * [2025-09-24, 22:51:16](https://news.ycombinator.com/item?id=45366867) - [Helium Browser](https://helium.computer/)
 * [2025-09-24, 22:11:48](https://news.ycombinator.com/item?id=45366566) - [Everything that's wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
 * [2025-09-24, 22:01:06](https://news.ycombinator.com/item?id=45366474) - [Snapdragon X2 Elite ARM Laptop CPU](https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite)
