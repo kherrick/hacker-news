@@ -6,6 +6,7 @@
 
 * [2025-09-24, 19:35:29](https://news.ycombinator.com/item?id=45365001) - [How Secure is Tor? Not secure at all](https://csam-bib.github.io/security/)
 * [2025-09-24, 18:54:20](https://news.ycombinator.com/item?id=45364514) - [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)
+* [2025-09-24, 18:48:39](https://news.ycombinator.com/item?id=45364450) - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 * [2025-09-24, 18:20:49](https://news.ycombinator.com/item?id=45364103) - [Giving users choice with Cloudflare's new Content Signals Policy](https://blog.cloudflare.com/content-signals-policy/)
 * [2025-09-24, 17:29:09](https://news.ycombinator.com/item?id=45363429) - [Tinder, Hinge, and Their Corporate Owner Keep Rape Under Wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up)
 * [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)

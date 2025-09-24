@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-24, 19:35:29](https://news.ycombinator.com/item?id=45365001) - [How Secure is Tor? Not secure at all](https://csam-bib.github.io/security/)
 * [2025-09-24, 18:54:20](https://news.ycombinator.com/item?id=45364514) - [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)
+* [2025-09-24, 18:48:39](https://news.ycombinator.com/item?id=45364450) - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 * [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 * [2025-09-24, 16:40:11](https://news.ycombinator.com/item?id=45362813) - [Show HN: Vibe Linking](https://vb.lk/)
 * [2025-09-24, 16:32:34](https://news.ycombinator.com/item?id=45362703) - [Waymo for Business](https://waymo.com/blog/2025/09/waymo-for-business)
@@ -15,7 +15,6 @@
 * [2025-09-24, 15:17:08](https://news.ycombinator.com/item?id=45361578) - [Engineering a fixed-width bit-packed integer vector in Rust](https://lukefleed.xyz/posts/compressed-fixedvec/)
 * [2025-09-24, 15:03:59](https://news.ycombinator.com/item?id=45361394) - [How to Be a Leader When the Vibes Are Off](https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/)
 * [2025-09-24, 15:00:15](https://news.ycombinator.com/item?id=45361344) - [The Lambda Calculus (2023)](https://plato.stanford.edu/entries/lambda-calculus/)
-* [2025-09-24, 14:42:49](https://news.ycombinator.com/item?id=45361140) - [How HubSpot Scaled AI Adoption](https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption)
 * [2025-09-24, 14:20:33](https://news.ycombinator.com/item?id=45360824) - [Smartphone Cameras Go Hyperspectral](https://spectrum.ieee.org/hyperspectral-imaging)
 * [2025-09-24, 13:56:37](https://news.ycombinator.com/item?id=45360475) - [Just let me select text](https://aartaka.me/select-text.html)
 * [2025-09-24, 12:52:52](https://news.ycombinator.com/item?id=45359604) - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts)
@@ -26,10 +25,11 @@
 * [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [How AWS S3 serves 1 petabyte per second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
+* [2025-09-23, 18:06:07](https://news.ycombinator.com/item?id=45350690) - [Find SF parking cops](https://walzr.com/sf-parking/)
 * [2025-09-22, 19:58:33](https://news.ycombinator.com/item?id=45338680) - [Björk on nature and technology (2016)](https://thecreativeindependent.com/people/bjork-on-nature-and-technology/)
+* [2025-09-21, 11:45:39](https://news.ycombinator.com/item?id=45321893) - [Linkgraphs are fun](https://andregarzia.com/2025/09/linkgraphs-are-fun.html)
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
 * [2025-09-20, 23:38:02](https://news.ycombinator.com/item?id=45318604) - [macOS becomes iOS: Safari video controls](https://underpassapp.com/news/2025/9/8.html)
-* [2025-09-20, 19:55:38](https://news.ycombinator.com/item?id=45316792) - [Drawn in the dock: the story of UK courtroom illustration (2020)](https://www.itsnicethat.com/features/courtroom-illustration-060420)
 
 ## [Archives](archives/index.md)
 

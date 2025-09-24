@@ -54,6 +54,7 @@
 * [2025-09-21, 12:11:18](https://news.ycombinator.com/item?id=45322030) - [What happens when coding agents stop feeling like dialup?](https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/)
 * [2025-09-21, 12:03:44](https://news.ycombinator.com/item?id=45321983) - [LLMs are still surprisingly bad at some simple tasks](https://shkspr.mobi/blog/2025/09/llms-are-still-surprisingly-bad-at-simple-tasks/)
 * [2025-09-21, 11:56:38](https://news.ycombinator.com/item?id=45321949) - [Yangwang U9 Xtreme hits 308mph(496km/h), becomes fastest production car](https://www.topgear.com/car-news/electric/yangwang-u9-xtreme-hits-308mph-becomes-worlds-fastest-ever-production-car)
+* [2025-09-21, 11:45:39](https://news.ycombinator.com/item?id=45321893) - [Linkgraphs are fun](https://andregarzia.com/2025/09/linkgraphs-are-fun.html)
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
 * [2025-09-21, 10:56:42](https://news.ycombinator.com/item?id=45321663) - [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
 * [2025-09-21, 10:37:35](https://news.ycombinator.com/item?id=45321570) - [The Strange Tale of the Hotchkiss](https://www.edrdg.org/~jwb/mondir/hotchkiss.html)
