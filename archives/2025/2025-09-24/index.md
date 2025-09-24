@@ -17,6 +17,7 @@
 * [2025-09-24, 16:00:45](https://news.ycombinator.com/item?id=45362206) - [SedonaDB: A new geospatial DataFrame library written in Rust](https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/)
 * [2025-09-24, 15:49:37](https://news.ycombinator.com/item?id=45362038) - [The Data Commons Model Context Protocol (MCP) Server](https://developers.googleblog.com/en/datacommonsmcp/)
 * [2025-09-24, 15:48:36](https://news.ycombinator.com/item?id=45362023) - [Python on the Edge: Fast, sandboxed, and powered by WebAssembly](https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly)
+* [2025-09-24, 15:17:08](https://news.ycombinator.com/item?id=45361578) - [Engineering a fixed-width bit-packed integer vector in Rust](https://lukefleed.xyz/posts/compressed-fixedvec/)
 * [2025-09-24, 15:16:56](https://news.ycombinator.com/item?id=45361574) - [Replace PostgreSQL with Git for your next project](https://devcenter.upsun.com/posts/why-you-should-replace-postgresql-with-git-for-your-next-project/)
 * [2025-09-24, 15:03:59](https://news.ycombinator.com/item?id=45361394) - [How to Be a Leader When the Vibes Are Off](https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/)
 * [2025-09-24, 15:00:15](https://news.ycombinator.com/item?id=45361344) - [The Lambda Calculus – Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/lambda-calculus/)

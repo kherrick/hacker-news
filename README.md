@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-24, 18:20:49](https://news.ycombinator.com/item?id=45364103) - [Giving users choice with Cloudflare's new Content Signals Policy](https://blog.cloudflare.com/content-signals-policy/)
-* [2025-09-24, 17:29:09](https://news.ycombinator.com/item?id=45363429) - [Tinder, Hinge, and their corporate owner keep rape under wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up)
 * [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 * [2025-09-24, 16:40:11](https://news.ycombinator.com/item?id=45362813) - [Show HN: Vibe Linking](https://vb.lk/)
 * [2025-09-24, 16:32:34](https://news.ycombinator.com/item?id=45362703) - [Waymo for Business](https://waymo.com/blog/2025/09/waymo-for-business)
@@ -12,6 +11,7 @@
 * [2025-09-24, 16:03:42](https://news.ycombinator.com/item?id=45362254) - [New bacteria, and two potential antibiotics, discovered in soil](https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/)
 * [2025-09-24, 16:00:45](https://news.ycombinator.com/item?id=45362206) - [SedonaDB: A new geospatial DataFrame library written in Rust](https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/)
 * [2025-09-24, 15:48:36](https://news.ycombinator.com/item?id=45362023) - [Python on the Edge: Fast, sandboxed, and powered by WebAssembly](https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly)
+* [2025-09-24, 15:17:08](https://news.ycombinator.com/item?id=45361578) - [Engineering a fixed-width bit-packed integer vector in Rust](https://lukefleed.xyz/posts/compressed-fixedvec/)
 * [2025-09-24, 15:03:59](https://news.ycombinator.com/item?id=45361394) - [How to Be a Leader When the Vibes Are Off](https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/)
 * [2025-09-24, 15:00:15](https://news.ycombinator.com/item?id=45361344) - [The Lambda Calculus (2023)](https://plato.stanford.edu/entries/lambda-calculus/)
 * [2025-09-24, 14:44:20](https://news.ycombinator.com/item?id=45361154) - [Who Funds Misfit Research?](https://blog.spec.tech/p/who-funds-misfit-research)
