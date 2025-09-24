@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-24, 13:56:37](https://news.ycombinator.com/item?id=45360475) - [Just Let Me Select Text](https://aartaka.me/select-text.html)
+* [2025-09-24, 13:18:44](https://news.ycombinator.com/item?id=45359915) - [Autodesk Increases APS Pricing](https://aps.autodesk.com/blog/aps-business-model-evolution)
 * [2025-09-24, 12:52:52](https://news.ycombinator.com/item?id=45359604) - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts)
 * [2025-09-24, 12:45:07](https://news.ycombinator.com/item?id=45359524) - [Learning Persian with Anki, ChatGPT and YouTube](https://cjauvin.github.io/posts/learning-persian/)
 * [2025-09-24, 12:31:52](https://news.ycombinator.com/item?id=45359388) - [My Ed(1) Toolbox](https://aartaka.me/my-ed.html)
@@ -15,7 +16,6 @@
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 09:56:04](https://news.ycombinator.com/item?id=45358216) - [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
-* [2025-09-24, 03:27:41](https://news.ycombinator.com/item?id=45355965) - [New study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546)
 * [2025-09-24, 00:26:59](https://news.ycombinator.com/item?id=45354644) - [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
 * [2025-09-23, 23:42:50](https://news.ycombinator.com/item?id=45354314) - [Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025)
 * [2025-09-23, 21:24:45](https://news.ycombinator.com/item?id=45352944) - [From Rust to reality: The hidden journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
