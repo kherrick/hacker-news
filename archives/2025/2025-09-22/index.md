@@ -43,6 +43,7 @@
 * [2025-09-22, 14:49:16](https://news.ycombinator.com/item?id=45334250) - [A Simple Way to Measure Knots Has Come Unraveled](https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/)
 * [2025-09-22, 14:34:11](https://news.ycombinator.com/item?id=45334032) - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
 * [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
+* [2025-09-22, 13:56:03](https://news.ycombinator.com/item?id=45333548) - [Identity Types](https://bartoszmilewski.com/2025/09/22/identity-types/)
 * [2025-09-22, 13:29:33](https://news.ycombinator.com/item?id=45333190) - [What if we treated Postgres like SQLite?](https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why Local-First Apps Haven't Become Popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:05:32](https://news.ycombinator.com/item?id=45332883) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
