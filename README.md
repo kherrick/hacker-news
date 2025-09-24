@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-24, 17:29:09](https://news.ycombinator.com/item?id=45363429) - [Tinder, Hinge, and Their Corporate Owner Keep Rape Under Wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up)
+* [2025-09-24, 18:20:49](https://news.ycombinator.com/item?id=45364103) - [Giving users choice with Cloudflare's new Content Signals Policy](https://blog.cloudflare.com/content-signals-policy/)
+* [2025-09-24, 17:29:09](https://news.ycombinator.com/item?id=45363429) - [Tinder, Hinge, and their corporate owner keep rape under wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up)
 * [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 * [2025-09-24, 16:32:24](https://news.ycombinator.com/item?id=45362697) - [Terence Tao: The role of small organizations in society has shrunk significantly](https://mathstodon.xyz/@tao/115259943398316677)
 * [2025-09-24, 16:23:33](https://news.ycombinator.com/item?id=45362569) - [Product Hunt is dead](https://sedimental.org/product_hunt_is_dead.html)
@@ -25,7 +26,6 @@
 * [2025-09-24, 11:41:54](https://news.ycombinator.com/item?id=45358980) - [Yt-dlp: Upcoming new requirements for YouTube downloads](https://github.com/yt-dlp/yt-dlp/issues/14404)
 * [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
-* [2025-09-24, 09:56:04](https://news.ycombinator.com/item?id=45358216) - [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
 * [2025-09-20, 23:38:02](https://news.ycombinator.com/item?id=45318604) - [macOS becomes iOS: Safari video controls](https://underpassapp.com/news/2025/9/8.html)
