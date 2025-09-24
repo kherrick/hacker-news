@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 07:05:46](https://news.ycombinator.com/item?id=45357222) - [Ruby Central Is Not Behaving in Good Faith, and I've Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)
 * [2025-09-24, 05:56:35](https://news.ycombinator.com/item?id=45356781) - [Show HN: Inferencer – Run and deeply control local AI models (macOS release)](https://inferencer.com/)
 * [2025-09-24, 05:43:40](https://news.ycombinator.com/item?id=45356710) - [Neovate Code Is Open Sourced](https://neovateai.dev/en/blog/neovate-code-is-open-sourced/)
 * [2025-09-24, 04:15:04](https://news.ycombinator.com/item?id=45356226) - [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
