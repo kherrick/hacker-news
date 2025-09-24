@@ -22,6 +22,7 @@
 * [2025-09-21, 19:20:23](https://news.ycombinator.com/item?id=45325792) - [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
 * [2025-09-21, 18:37:04](https://news.ycombinator.com/item?id=45325410) - [Bringing Observability to Claude Code: OpenTelemetry in Action](https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/)
 * [2025-09-21, 18:13:09](https://news.ycombinator.com/item?id=45325208) - [Transforming recursion into iteration for LLVM loop optimizations](https://dspace.mit.edu/handle/1721.1/162684)
+* [2025-09-21, 17:51:34](https://news.ycombinator.com/item?id=45325035) - [Driving Complex Decisions](https://garrettdbates.com/driving-complex-decisions)
 * [2025-09-21, 17:42:22](https://news.ycombinator.com/item?id=45324958) - [Modern life makes us sick](https://www.theguardian.com/books/2025/sep/21/how-modern-life-makes-us-sick-and-what-to-do-about-it)
 * [2025-09-21, 16:45:06](https://news.ycombinator.com/item?id=45324365) - [The Link Between Trauma, Drug Use, and Our Search to Feel Better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
 * [2025-09-21, 16:44:45](https://news.ycombinator.com/item?id=45324361) - [President Trump Signs Technology Prosperity Deal with United Kingdom](https://www.whitehouse.gov/articles/2025/09/president-trump-signs-technology-prosperity-deal-with-united-kingdom/)
