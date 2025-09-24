@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 05:56:35](https://news.ycombinator.com/item?id=45356781) - [Show HN: Inferencer – Run and deeply control local AI models (macOS release)](https://inferencer.com/)
+* [2025-09-24, 05:43:40](https://news.ycombinator.com/item?id=45356710) - [Neovate Code Is Open Sourced](https://neovateai.dev/en/blog/neovate-code-is-open-sourced/)
 * [2025-09-24, 04:15:04](https://news.ycombinator.com/item?id=45356226) - [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
 * [2025-09-24, 03:27:41](https://news.ycombinator.com/item?id=45355965) - [New study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546)
 * [2025-09-24, 02:59:45](https://news.ycombinator.com/item?id=45355806) - [America's top companies keep talking about AI – but can't explain the upsides](https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473)
