@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-24, 22:01:06](https://news.ycombinator.com/item?id=45366474) - [Snapdragon X2 Elite ARM Laptop CPU](https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite)
 * [2025-09-24, 21:55:11](https://news.ycombinator.com/item?id=45366417) - [Microsoft Flight Simulator 2024 is coming to Playstation 5 on December 8th](https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/)
 * [2025-09-24, 21:00:00](https://news.ycombinator.com/item?id=45365878) - [SonyShell – an effort to \"SSH into my Sony DSLR\"](https://github.com/goudvuur/sonyshell)
 * [2025-09-24, 19:44:29](https://news.ycombinator.com/item?id=45365107) - [Diffusion Finetuning Myself](https://vassi.life/projects/diffinetune)
@@ -15,7 +16,6 @@
 * [2025-09-24, 15:48:36](https://news.ycombinator.com/item?id=45362023) - [Python on the Edge: Fast, sandboxed, and powered by WebAssembly](https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly)
 * [2025-09-24, 15:17:08](https://news.ycombinator.com/item?id=45361578) - [Engineering a fixed-width bit-packed integer vector in Rust](https://lukefleed.xyz/posts/compressed-fixedvec/)
 * [2025-09-24, 15:00:15](https://news.ycombinator.com/item?id=45361344) - [The Lambda Calculus (2023)](https://plato.stanford.edu/entries/lambda-calculus/)
-* [2025-09-24, 14:20:33](https://news.ycombinator.com/item?id=45360824) - [Smartphone Cameras Go Hyperspectral](https://spectrum.ieee.org/hyperspectral-imaging)
 * [2025-09-24, 13:56:37](https://news.ycombinator.com/item?id=45360475) - [Just let me select text](https://aartaka.me/select-text.html)
 * [2025-09-24, 12:52:52](https://news.ycombinator.com/item?id=45359604) - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts)
 * [2025-09-24, 12:45:07](https://news.ycombinator.com/item?id=45359524) - [Learning Persian with Anki, ChatGPT and YouTube](https://cjauvin.github.io/posts/learning-persian/)
