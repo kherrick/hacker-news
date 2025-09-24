@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-09-24, 00:33:24",
+      "https://news.ycombinator.com/item?id=45354689"
+    ],
+    [
+      "Periodic Table of Cognition",
+      "https://kk.org/thetechnium/the-periodic-table-of-cognition/"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 00:26:59",
+      "https://news.ycombinator.com/item?id=45354644"
+    ],
+    [
+      "Baldur's Gate 3 Steam Deck – Native Version",
+      "https://larian.com/support/faqs/steam-deck-native-version_121"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 23:42:50",
+      "https://news.ycombinator.com/item?id=45354314"
+    ],
+    [
+      "The Top Programming Languages 2025",
+      "https://spectrum.ieee.org/top-programming-languages-2025"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 23:41:54",
+      "https://news.ycombinator.com/item?id=45354304"
+    ],
+    [
+      "MLB approves robot umpires for 2026 as part of challenge system",
+      "https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 23:36:16",
+      "https://news.ycombinator.com/item?id=45354262"
+    ],
+    [
+      "NYC Telecom Raid: What's Up with Those Weird SIM Banks?",
+      "https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 21:24:45",
       "https://news.ycombinator.com/item?id=45352944"
     ],
@@ -31,16 +81,6 @@
   ],
   [
     [
-      "2025-09-23, 20:46:24",
-      "https://news.ycombinator.com/item?id=45352533"
-    ],
-    [
-      "Is life a form of computation?",
-      "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 20:40:21",
       "https://news.ycombinator.com/item?id=45352460"
     ],
@@ -57,16 +97,6 @@
     [
       "YouTube says it'll bring back creators banned for Covid and election content",
       "https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 19:29:26",
-      "https://news.ycombinator.com/item?id=45351624"
-    ],
-    [
-      "Is Fortran better than Python for teaching basics of numerical linear algebra?",
-      "https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-09-23, 17:04:56",
-      "https://news.ycombinator.com/item?id=45349848"
-    ],
-    [
-      "Android users can now use conversational editing in Google Photos",
-      "https://blog.google/products/photos/android-conversational-editing-google-photos/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 15:33:23",
       "https://news.ycombinator.com/item?id=45348495"
     ],
@@ -167,16 +187,6 @@
     [
       "Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools",
       "https://news.ycombinator.com/item?id=45347914"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 14:50:06",
-      "https://news.ycombinator.com/item?id=45347880"
-    ],
-    [
-      "Zip Code Map of the United States",
-      "https://engaging-data.com/us-zip-code-map/"
     ]
   ],
   [
@@ -221,21 +231,11 @@
   ],
   [
     [
-      "2025-09-23, 12:00:00",
-      "https://news.ycombinator.com/item?id=45345742"
-    ],
-    [
-      "Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)",
-      "https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 10:40:41",
       "https://news.ycombinator.com/item?id=45345207"
     ],
     [
-      "Structured Outputs in LLMs",
+      "Sampling and structured outputs in LLMs",
       "https://parthsareen.com/blog.html#sampling.md"
     ]
   ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-09-21, 04:51:16",
+      "https://news.ycombinator.com/item?id=45320147"
+    ],
+    [
+      "Omittable – Solving the Ambiguity of Null",
+      "https://committing-crimes.com/articles/2025-09-16-null-and-absence/"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 13:51:05",
       "https://news.ycombinator.com/item?id=45313417"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-09-20, 13:26:26",
-      "https://news.ycombinator.com/item?id=45313180"
+      "2025-09-20, 11:33:47",
+      "https://news.ycombinator.com/item?id=45312403"
     ],
     [
-      "Triple Buffering in Rendering APIs",
-      "https://www.4rknova.com//blog/2025/09/12/triple-buffering"
+      "A vibrator helped me debug a motorcycle brake light system",
+      "https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Ggc – A Git CLI tool written in Go with interactive UI",
       "https://github.com/bmf-san/ggc/releases/tag/v6.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 19:57:36",
-      "https://news.ycombinator.com/item?id=45305826"
-    ],
-    [
-      "Show HN: The Blots Programming Language",
-      "https://blots-lang.org/"
     ]
   ],
   [
