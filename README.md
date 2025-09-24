@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-24, 23:15:33](https://news.ycombinator.com/item?id=45367085) - [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
 * [2025-09-24, 23:12:38](https://news.ycombinator.com/item?id=45367046) - [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
 * [2025-09-24, 22:51:16](https://news.ycombinator.com/item?id=45366867) - [Helium Browser](https://helium.computer/)
 * [2025-09-24, 22:11:48](https://news.ycombinator.com/item?id=45366566) - [Everything that's wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
@@ -29,7 +30,6 @@
 * [2025-09-21, 17:51:34](https://news.ycombinator.com/item?id=45325035) - [Driving Complex Decisions](https://garrettdbates.com/driving-complex-decisions)
 * [2025-09-21, 11:45:39](https://news.ycombinator.com/item?id=45321893) - [Linkgraphs are fun](https://andregarzia.com/2025/09/linkgraphs-are-fun.html)
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
-* [2025-09-20, 23:38:02](https://news.ycombinator.com/item?id=45318604) - [macOS becomes iOS: Safari video controls](https://underpassapp.com/news/2025/9/8.html)
 
 ## [Archives](archives/index.md)
 
