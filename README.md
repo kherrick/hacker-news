@@ -7,7 +7,6 @@
 * [2025-09-24, 14:42:49](https://news.ycombinator.com/item?id=45361140) - [How HubSpot Scaled AI Adoption](https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption)
 * [2025-09-24, 14:38:02](https://news.ycombinator.com/item?id=45361071) - [Building a Custom eBPF Filesystem Watcher to Catch Root Ownership Goofs](https://amandeepsp.github.io/blog/fs-watcher/)
 * [2025-09-24, 14:20:33](https://news.ycombinator.com/item?id=45360824) - [Smartphone Cameras Go Hyperspectral](https://spectrum.ieee.org/hyperspectral-imaging)
-* [2025-09-24, 14:18:14](https://news.ycombinator.com/item?id=45360787) - [Show HN: Mosaic – A Kotlin framework for cleaner back end code](https://github.com/Nick-Abbott/Mosaic)
 * [2025-09-24, 13:56:37](https://news.ycombinator.com/item?id=45360475) - [Just Let Me Select Text](https://aartaka.me/select-text.html)
 * [2025-09-24, 12:52:52](https://news.ycombinator.com/item?id=45359604) - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts)
 * [2025-09-24, 12:45:07](https://news.ycombinator.com/item?id=45359524) - [Learning Persian with Anki, ChatGPT and YouTube](https://cjauvin.github.io/posts/learning-persian/)
@@ -29,6 +28,7 @@
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-22, 05:18:12](https://news.ycombinator.com/item?id=45329322) - [Everyone's trying vectors and graphs for AI memory. We went back to SQL](https://news.ycombinator.com/item?id=45329322)
 * [2025-09-21, 14:11:12](https://news.ycombinator.com/item?id=45322906) - [I Spent Three Nights Solving Listen Labs Berghain Challenge (and Got #16)](https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge)
+* [2025-09-21, 00:12:00](https://news.ycombinator.com/item?id=45318837) - [How Neural Super Sampling Works: Architecture, Training, and Inference](https://semiengineering.com/how-neural-super-sampling-works-architecture-training-and-inference/)
 * [2025-09-20, 16:26:53](https://news.ycombinator.com/item?id=45314752) - [Deep researcher with test-time diffusion](https://research.google/blog/deep-researcher-with-test-time-diffusion/)
 
 ## [Archives](archives/index.md)
