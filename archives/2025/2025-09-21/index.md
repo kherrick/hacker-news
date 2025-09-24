@@ -56,6 +56,7 @@
 * [2025-09-21, 10:56:42](https://news.ycombinator.com/item?id=45321663) - [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
 * [2025-09-21, 10:37:35](https://news.ycombinator.com/item?id=45321570) - [The Strange Tale of the Hotchkiss](https://www.edrdg.org/~jwb/mondir/hotchkiss.html)
 * [2025-09-21, 07:19:59](https://news.ycombinator.com/item?id=45320759) - [Universities should be more than toll gates](https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/)
+* [2025-09-21, 07:19:37](https://news.ycombinator.com/item?id=45320757) - [Ask HN: How do you choose languages for building applications?](https://news.ycombinator.com/item?id=45320757)
 * [2025-09-21, 07:11:50](https://news.ycombinator.com/item?id=45320715) - [How is einx notation universal?](https://einx.readthedocs.io/en/stable/faq/universal.html)
 * [2025-09-21, 06:01:49](https://news.ycombinator.com/item?id=45320431) - [Vibe Coding Cleanup as a Service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
 * [2025-09-21, 05:13:35](https://news.ycombinator.com/item?id=45320230) - [Representing Heterogeneous Data (2023)](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
