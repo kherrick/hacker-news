@@ -51,6 +51,7 @@
 * [2025-09-20, 11:49:37](https://news.ycombinator.com/item?id=45312513) - [Czech founding father Masaryk's message revealed in long-sealed envelope](https://www.nbcnews.com/world/europe/masaryk-message-revealed-envelope-czech-founding-father-rcna232353)
 * [2025-09-20, 11:41:15](https://news.ycombinator.com/item?id=45312457) - [The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/)
 * [2025-09-20, 11:40:28](https://news.ycombinator.com/item?id=45312447) - [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc)
+* [2025-09-20, 11:33:47](https://news.ycombinator.com/item?id=45312403) - [A vibrator helped me debug a motorcycle brake light system](https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system)
 * [2025-09-20, 11:20:04](https://news.ycombinator.com/item?id=45312326) - [FLX1s Is Launched](https://furilabs.com/flx1s-is-launched/)
 * [2025-09-20, 11:19:37](https://news.ycombinator.com/item?id=45312323) - [Node 20 will be deprecated on GitHub Actions runners](https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/)
 * [2025-09-20, 11:10:40](https://news.ycombinator.com/item?id=45312285) - [Show HN: Ggc – A Git CLI tool written in Go with interactive UI](https://github.com/bmf-san/ggc/releases/tag/v6.0.0)
