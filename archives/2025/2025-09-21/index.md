@@ -44,6 +44,7 @@
 * [2025-09-21, 14:24:09](https://news.ycombinator.com/item?id=45323008) - [UUIDv7 in Postgres 18. With time extraction](https://www.thenile.dev/blog/uuidv7)
 * [2025-09-21, 14:22:10](https://news.ycombinator.com/item?id=45322992) - [Extrachromosomal DNA–Driven Oncogene Evolution in Glioblastoma](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1555/764257/Extrachromosomal-DNA-Driven-Oncogene-Spatial)
 * [2025-09-21, 14:13:06](https://news.ycombinator.com/item?id=45322919) - [UK, Candada and Australia formally recognize Palestinian state](https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live)
+* [2025-09-21, 14:11:12](https://news.ycombinator.com/item?id=45322906) - [I Spent Three Nights Solving Listen Labs Berghain Challenge (and Got #16)](https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge)
 * [2025-09-21, 14:00:16](https://news.ycombinator.com/item?id=45322819) - [I forced myself to spend a week in Instagram instead of Xcode](https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in)
 * [2025-09-21, 13:37:13](https://news.ycombinator.com/item?id=45322623) - [Disk Utility still can't check and repair APFS volumes and containers](https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/)
 * [2025-09-21, 13:00:40](https://news.ycombinator.com/item?id=45322328) - [Sequoia: Rust OpenPGP Implementation](https://gitlab.com/sequoia-pgp/sequoia)
