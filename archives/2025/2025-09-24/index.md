@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 17:29:09](https://news.ycombinator.com/item?id=45363429) - [Tinder, Hinge, and Their Corporate Owner Keep Rape Under Wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up)
 * [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 * [2025-09-24, 16:32:24](https://news.ycombinator.com/item?id=45362697) - [Terence Tao: The role of small organizations in society has shrunk significantly](https://mathstodon.xyz/@tao/115259943398316677)
 * [2025-09-24, 16:23:33](https://news.ycombinator.com/item?id=45362569) - [Product Hunt Is Dead](https://sedimental.org/product_hunt_is_dead.html)
