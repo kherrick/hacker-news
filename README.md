@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-24, 02:59:45](https://news.ycombinator.com/item?id=45355806) - [America's top companies keep talking about AI – but can't explain the upsides](https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473)
 * [2025-09-24, 02:12:58](https://news.ycombinator.com/item?id=45355514) - [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
 * [2025-09-24, 02:07:23](https://news.ycombinator.com/item?id=45355462) - [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git)
 * [2025-09-24, 00:33:24](https://news.ycombinator.com/item?id=45354689) - [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
 * [2025-09-24, 00:26:59](https://news.ycombinator.com/item?id=45354644) - [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
+* [2025-09-23, 23:42:50](https://news.ycombinator.com/item?id=45354314) - [Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025)
 * [2025-09-23, 23:41:54](https://news.ycombinator.com/item?id=45354304) - [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system)
 * [2025-09-23, 23:36:16](https://news.ycombinator.com/item?id=45354262) - [NYC Telecom Raid: What's Up with Those Weird SIM Banks?](https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/)
 * [2025-09-23, 21:24:45](https://news.ycombinator.com/item?id=45352944) - [From Rust to reality: The hidden journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
@@ -24,10 +26,8 @@
 * [2025-09-23, 14:27:36](https://news.ycombinator.com/item?id=45347532) - [Getting AI to work in complex codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
-* [2025-09-23, 09:26:57](https://news.ycombinator.com/item?id=45344708) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 * [2025-09-21, 07:11:50](https://news.ycombinator.com/item?id=45320715) - [How is einx notation universal?](https://einx.readthedocs.io/en/stable/faq/universal.html)
 * [2025-09-20, 11:33:47](https://news.ycombinator.com/item?id=45312403) - [A vibrator helped me debug a motorcycle brake light system](https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system)
-* [2025-09-20, 11:10:40](https://news.ycombinator.com/item?id=45312285) - [Show HN: Ggc – A Git CLI tool written in Go with interactive UI](https://github.com/bmf-san/ggc/releases/tag/v6.0.0)
 * [2025-09-20, 08:22:41](https://news.ycombinator.com/item?id=45311498) - [Introduction to Programming Languages](https://hjaem.info/itpl)
 * [2025-09-19, 18:42:21](https://news.ycombinator.com/item?id=45304980) - [Markov chains are the original language models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
 
