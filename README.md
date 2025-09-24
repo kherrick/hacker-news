@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-24, 19:44:29](https://news.ycombinator.com/item?id=45365107) - [Diffusion Finetuning Myself](https://vassi.life/projects/diffinetune)
 * [2025-09-24, 18:54:20](https://news.ycombinator.com/item?id=45364514) - [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)
 * [2025-09-24, 18:48:39](https://news.ycombinator.com/item?id=45364450) - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 * [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
@@ -25,7 +26,6 @@
 * [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [How AWS S3 serves 1 petabyte per second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
-* [2025-09-23, 18:06:07](https://news.ycombinator.com/item?id=45350690) - [Find SF parking cops](https://walzr.com/sf-parking/)
 * [2025-09-22, 19:58:33](https://news.ycombinator.com/item?id=45338680) - [Björk on nature and technology (2016)](https://thecreativeindependent.com/people/bjork-on-nature-and-technology/)
 * [2025-09-21, 11:45:39](https://news.ycombinator.com/item?id=45321893) - [Linkgraphs are fun](https://andregarzia.com/2025/09/linkgraphs-are-fun.html)
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)

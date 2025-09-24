@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 19:44:29](https://news.ycombinator.com/item?id=45365107) - [Diffusion Finetuning Myself](https://vassi.life/projects/diffinetune)
 * [2025-09-24, 19:35:29](https://news.ycombinator.com/item?id=45365001) - [How Secure is Tor? Not secure at all](https://csam-bib.github.io/security/)
 * [2025-09-24, 18:54:20](https://news.ycombinator.com/item?id=45364514) - [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)
 * [2025-09-24, 18:48:39](https://news.ycombinator.com/item?id=45364450) - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
