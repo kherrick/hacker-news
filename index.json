@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-24, 02:12:58",
+      "https://news.ycombinator.com/item?id=45355514"
+    ],
+    [
+      "Quadratic memory reductions for Zero-knowledge Proofs",
+      "https://github.com/logannye/space-efficient-zero-knowledge-proofs"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 02:07:23",
+      "https://news.ycombinator.com/item?id=45355462"
+    ],
+    [
+      "Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems",
+      "https://git.hq.sig7.se/zutty.git"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 00:33:24",
       "https://news.ycombinator.com/item?id=45354689"
     ],
@@ -17,16 +37,6 @@
     [
       "Baldur's Gate 3 Steam Deck – Native Version",
       "https://larian.com/support/faqs/steam-deck-native-version_121"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 23:42:50",
-      "https://news.ycombinator.com/item?id=45354314"
-    ],
-    [
-      "The Top Programming Languages 2025",
-      "https://spectrum.ieee.org/top-programming-languages-2025"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2025-09-23, 20:46:24",
+      "https://news.ycombinator.com/item?id=45352533"
+    ],
+    [
+      "Is life a form of computation?",
+      "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 20:40:21",
       "https://news.ycombinator.com/item?id=45352460"
     ],
@@ -97,6 +117,16 @@
     [
       "YouTube says it'll bring back creators banned for Covid and election content",
       "https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 19:29:26",
+      "https://news.ycombinator.com/item?id=45351624"
+    ],
+    [
+      "Is Fortran better than Python for teaching basics of numerical linear algebra?",
+      "https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2025-09-23, 12:41:36",
-      "https://news.ycombinator.com/item?id=45346219"
-    ],
-    [
-      "Getting More Strategic",
-      "https://cate.blog/2025/09/23/getting-more-strategic/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 12:18:01",
       "https://news.ycombinator.com/item?id=45345950"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-09-23, 10:40:41",
-      "https://news.ycombinator.com/item?id=45345207"
+      "2025-09-21, 07:11:50",
+      "https://news.ycombinator.com/item?id=45320715"
     ],
     [
-      "Sampling and structured outputs in LLMs",
-      "https://parthsareen.com/blog.html#sampling.md"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 09:26:57",
-      "https://news.ycombinator.com/item?id=45344708"
-    ],
-    [
-      "Go has added Valgrind support",
-      "https://go-review.googlesource.com/c/go/+/674077"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 04:51:16",
-      "https://news.ycombinator.com/item?id=45320147"
-    ],
-    [
-      "Omittable – Solving the Ambiguity of Null",
-      "https://committing-crimes.com/articles/2025-09-16-null-and-absence/"
+      "How is einx notation universal?",
+      "https://einx.readthedocs.io/en/stable/faq/universal.html"
     ]
   ],
   [
