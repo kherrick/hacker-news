@@ -2,7 +2,6 @@
 
 * [2025-09-24, 04:15:04](https://news.ycombinator.com/item?id=45356226) - [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
 * [2025-09-24, 03:27:41](https://news.ycombinator.com/item?id=45355965) - [New study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546)
-* [2025-09-24, 02:59:45](https://news.ycombinator.com/item?id=45355806) - [America's top companies keep talking about AI – but can't explain the upsides](https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473)
 * [2025-09-24, 02:12:58](https://news.ycombinator.com/item?id=45355514) - [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
 * [2025-09-24, 02:07:23](https://news.ycombinator.com/item?id=45355462) - [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git)
 * [2025-09-24, 00:33:24](https://news.ycombinator.com/item?id=45354689) - [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
@@ -19,6 +18,7 @@
 * [2025-09-23, 19:09:50](https://news.ycombinator.com/item?id=45351410) - [How to draw construction equipment for kids](https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment)
 * [2025-09-23, 18:06:07](https://news.ycombinator.com/item?id=45350690) - [Find SF parking cops](https://walzr.com/sf-parking/)
 * [2025-09-23, 15:33:23](https://news.ycombinator.com/item?id=45348495) - [Always Invite Anna](https://sharif.io/anna-alexei)
+* [2025-09-23, 15:09:50](https://news.ycombinator.com/item?id=45348183) - [From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more](https://verialabs.com/blog/from-mcp-to-shell/)
 * [2025-09-23, 14:52:07](https://news.ycombinator.com/item?id=45347914) - [Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914)
 * [2025-09-23, 14:27:36](https://news.ycombinator.com/item?id=45347532) - [Getting AI to work in complex codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
