@@ -63,6 +63,7 @@
 * [2025-09-21, 05:13:35](https://news.ycombinator.com/item?id=45320230) - [Representing Heterogeneous Data (2023)](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2025-09-21, 04:51:16](https://news.ycombinator.com/item?id=45320147) - [Omittable – Solving the Ambiguity of Null](https://committing-crimes.com/articles/2025-09-16-null-and-absence/)
 * [2025-09-21, 03:46:07](https://news.ycombinator.com/item?id=45319876) - [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
+* [2025-09-21, 03:30:07](https://news.ycombinator.com/item?id=45319791) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
 * [2025-09-21, 03:09:47](https://news.ycombinator.com/item?id=45319690) - [iFixIt iPhone Air Teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
 * [2025-09-21, 02:28:35](https://news.ycombinator.com/item?id=45319496) - [Radar and Radio Failures at Dallas Area Airports](https://news.ycombinator.com/item?id=45319496)
 * [2025-09-21, 02:23:59](https://news.ycombinator.com/item?id=45319463) - [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/)
