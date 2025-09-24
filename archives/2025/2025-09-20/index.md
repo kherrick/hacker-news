@@ -28,6 +28,7 @@
 * [2025-09-20, 18:04:10](https://news.ycombinator.com/item?id=45315705) - [Row-level transformations in Postgres CDC using Lua](https://blog.peerdb.io/row-level-transformations-in-postgres-cdc-using-lua)
 * [2025-09-20, 17:25:58](https://news.ycombinator.com/item?id=45315312) - [Designing NotebookLM](https://jasonspielman.com/notebooklm)
 * [2025-09-20, 16:41:47](https://news.ycombinator.com/item?id=45314906) - [Microsoft memo advises H1B employees to return immediately if currently abroad](https://xcancel.com/onestpress/status/1969374699038675364)
+* [2025-09-20, 16:26:53](https://news.ycombinator.com/item?id=45314752) - [Deep researcher with test-time diffusion](https://research.google/blog/deep-researcher-with-test-time-diffusion/)
 * [2025-09-20, 16:12:56](https://news.ycombinator.com/item?id=45314592) - [Seattle Ultrasonics: Ultrasonic Chef's Knife](https://seattleultrasonics.com/)
 * [2025-09-20, 15:57:52](https://news.ycombinator.com/item?id=45314432) - [Are Touchscreens in Cars Dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
 * [2025-09-20, 15:26:50](https://news.ycombinator.com/item?id=45314157) - [These days, systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
