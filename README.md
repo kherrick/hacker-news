@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-24, 13:56:37](https://news.ycombinator.com/item?id=45360475) - [Just Let Me Select Text](https://aartaka.me/select-text.html)
 * [2025-09-24, 12:52:52](https://news.ycombinator.com/item?id=45359604) - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts)
 * [2025-09-24, 12:45:07](https://news.ycombinator.com/item?id=45359524) - [Learning Persian with Anki, ChatGPT and YouTube](https://cjauvin.github.io/posts/learning-persian/)
 * [2025-09-24, 12:31:52](https://news.ycombinator.com/item?id=45359388) - [My Ed(1) Toolbox](https://aartaka.me/my-ed.html)
@@ -24,7 +25,6 @@
 * [2025-09-23, 14:27:36](https://news.ycombinator.com/item?id=45347532) - [Getting AI to work in complex codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-22, 05:18:12](https://news.ycombinator.com/item?id=45329322) - [Everyone's trying vectors and graphs for AI memory. We went back to SQL](https://news.ycombinator.com/item?id=45329322)
-* [2025-09-22, 04:22:32](https://news.ycombinator.com/item?id=45329080) - [Building a better online editor for TypeScript](https://blog.val.town/vtlsp)
 * [2025-09-21, 14:11:12](https://news.ycombinator.com/item?id=45322906) - [I Spent Three Nights Solving Listen Labs Berghain Challenge (and Got #16)](https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge)
 * [2025-09-21, 05:52:51](https://news.ycombinator.com/item?id=45320382) - [A webshell and a normal file that have the same MD5](https://github.com/phith0n/collision-webshell)
 * [2025-09-21, 00:12:00](https://news.ycombinator.com/item?id=45318837) - [How Neural Super Sampling Works: Architecture, Training, and Inference](https://semiengineering.com/how-neural-super-sampling-works-architecture-training-and-inference/)
