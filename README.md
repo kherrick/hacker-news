@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 * [2025-09-24, 16:32:24](https://news.ycombinator.com/item?id=45362697) - [Terence Tao: The role of small organizations in society has shrunk significantly](https://mathstodon.xyz/@tao/115259943398316677)
+* [2025-09-24, 16:23:33](https://news.ycombinator.com/item?id=45362569) - [Product Hunt Is Dead](https://sedimental.org/product_hunt_is_dead.html)
 * [2025-09-24, 16:17:34](https://news.ycombinator.com/item?id=45362486) - [Better Curl Saul: a lightweight API testing CLI focused on UX and simplicity](https://github.com/DeprecatedLuar/better-curl-saul)
 * [2025-09-24, 16:13:49](https://news.ycombinator.com/item?id=45362425) - [Zed's Pricing Has Changed: LLM Usage Is Now Token-Based](https://zed.dev/blog/pricing-change-llm-usage-is-now-token-based)
 * [2025-09-24, 16:03:42](https://news.ycombinator.com/item?id=45362254) - [New bacteria, and two potential antibiotics, discovered in soil](https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/)
@@ -27,9 +29,7 @@
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 09:56:04](https://news.ycombinator.com/item?id=45358216) - [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
-* [2025-09-22, 13:56:03](https://news.ycombinator.com/item?id=45333548) - [Identity Types](https://bartoszmilewski.com/2025/09/22/identity-types/)
 * [2025-09-22, 05:18:12](https://news.ycombinator.com/item?id=45329322) - [Everyone's trying vectors and graphs for AI memory. We went back to SQL](https://news.ycombinator.com/item?id=45329322)
-* [2025-09-21, 14:11:12](https://news.ycombinator.com/item?id=45322906) - [I Spent Three Nights Solving Listen Labs Berghain Challenge (and Got #16)](https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge)
 
 ## [Archives](archives/index.md)
 
