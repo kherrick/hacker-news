@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-09-24, 16:03:42",
+      "https://news.ycombinator.com/item?id=45362254"
+    ],
+    [
+      "New bacteria, and two potential antibiotics, discovered in soil",
+      "https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 16:00:45",
+      "https://news.ycombinator.com/item?id=45362206"
+    ],
+    [
+      "SedonaDB: A new geospatial DataFrame library written in Rust",
+      "https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 15:48:36",
+      "https://news.ycombinator.com/item?id=45362023"
+    ],
+    [
+      "Python on the Edge: Fast, sandboxed, and powered by WebAssembly",
+      "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 15:16:56",
       "https://news.ycombinator.com/item?id=45361574"
     ],
     [
       "Replace PostgreSQL with Git for your next project",
       "https://devcenter.upsun.com/posts/why-you-should-replace-postgresql-with-git-for-your-next-project/"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 15:03:59",
+      "https://news.ycombinator.com/item?id=45361394"
+    ],
+    [
+      "How to Be a Leader When the Vibes Are Off",
+      "https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "How HubSpot Scaled AI Adoption",
       "https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 14:38:02",
-      "https://news.ycombinator.com/item?id=45361071"
-    ],
-    [
-      "Building a Custom eBPF Filesystem Watcher to Catch Root Ownership Goofs",
-      "https://amandeepsp.github.io/blog/fs-watcher/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2025-09-23, 20:59:17",
-      "https://news.ycombinator.com/item?id=45352672"
-    ],
-    [
-      "Qwen3-VL",
-      "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 18:06:07",
       "https://news.ycombinator.com/item?id=45350690"
     ],
@@ -251,12 +271,12 @@
   ],
   [
     [
-      "2025-09-23, 13:56:28",
-      "https://news.ycombinator.com/item?id=45347117"
+      "2025-09-22, 13:56:03",
+      "https://news.ycombinator.com/item?id=45333548"
     ],
     [
-      "Libghostty is coming",
-      "https://mitchellh.com/writing/libghostty-is-coming"
+      "Identity Types",
+      "https://bartoszmilewski.com/2025/09/22/identity-types/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "I Spent Three Nights Solving Listen Labs Berghain Challenge (and Got #16)",
       "https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 00:12:00",
-      "https://news.ycombinator.com/item?id=45318837"
-    ],
-    [
-      "How Neural Super Sampling Works: Architecture, Training, and Inference",
-      "https://semiengineering.com/how-neural-super-sampling-works-architecture-training-and-inference/"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 16:26:53",
-      "https://news.ycombinator.com/item?id=45314752"
-    ],
-    [
-      "Deep researcher with test-time diffusion",
-      "https://research.google/blog/deep-researcher-with-test-time-diffusion/"
     ]
   ]
 ]
