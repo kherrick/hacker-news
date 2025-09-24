@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-24, 10:26:23](https://news.ycombinator.com/item?id=45358433) - [My game's server is blocked in Spain whenever there's a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
 * [2025-09-24, 06:26:05](https://news.ycombinator.com/item?id=45356958) - [You didn't see it coming](https://aishwaryagoel.com/you-didnt-see-it-coming/)
 * [2025-09-24, 04:15:04](https://news.ycombinator.com/item?id=45356226) - [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
@@ -9,7 +10,6 @@
 * [2025-09-24, 00:26:59](https://news.ycombinator.com/item?id=45354644) - [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
 * [2025-09-23, 23:42:50](https://news.ycombinator.com/item?id=45354314) - [Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025)
 * [2025-09-23, 21:24:45](https://news.ycombinator.com/item?id=45352944) - [From Rust to reality: The hidden journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
-* [2025-09-23, 21:20:15](https://news.ycombinator.com/item?id=45352901) - [Context Engineering for AI Agents: Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 * [2025-09-23, 20:59:17](https://news.ycombinator.com/item?id=45352672) - [Qwen3-VL](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
 * [2025-09-23, 20:46:24](https://news.ycombinator.com/item?id=45352533) - [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
 * [2025-09-23, 20:40:21](https://news.ycombinator.com/item?id=45352460) - [Podman Desktop celebrates 3M downloads](https://podman-desktop.io/blog/3-million)
@@ -22,12 +22,12 @@
 * [2025-09-23, 14:27:36](https://news.ycombinator.com/item?id=45347532) - [Getting AI to work in complex codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
+* [2025-09-22, 11:46:55](https://news.ycombinator.com/item?id=45332076) - [Show HN: We built our own technology radar](https://technologieradar.tryresearchly.com)
 * [2025-09-22, 04:22:32](https://news.ycombinator.com/item?id=45329080) - [Building a better online editor for TypeScript](https://blog.val.town/vtlsp)
 * [2025-09-21, 05:52:51](https://news.ycombinator.com/item?id=45320382) - [A webshell and a normal file that have the same MD5](https://github.com/phith0n/collision-webshell)
 * [2025-09-21, 03:30:07](https://news.ycombinator.com/item?id=45319791) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
 * [2025-09-20, 16:26:53](https://news.ycombinator.com/item?id=45314752) - [Deep researcher with test-time diffusion](https://research.google/blog/deep-researcher-with-test-time-diffusion/)
 * [2025-09-20, 11:33:47](https://news.ycombinator.com/item?id=45312403) - [A vibrator helped me debug a motorcycle brake light system](https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system)
-* [2025-09-20, 10:42:06](https://news.ycombinator.com/item?id=45312153) - [Simplifying Cross-Chain Transactions Using Intents](https://blog.shodipoayomide.com/Simplifying-Cross-Chain-Transactions-Using-Intents)
 * [2025-09-20, 08:22:41](https://news.ycombinator.com/item?id=45311498) - [Introduction to Programming Languages](https://hjaem.info/itpl)
 * [2025-09-19, 18:42:21](https://news.ycombinator.com/item?id=45304980) - [Markov chains are the original language models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
 
