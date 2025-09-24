@@ -5,9 +5,13 @@
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
 * [2025-09-24, 12:31:52](https://news.ycombinator.com/item?id=45359388) - [My Ed(1) Toolbox](https://aartaka.me/my-ed.html)
+* [2025-09-24, 12:30:59](https://news.ycombinator.com/item?id=45359378) - [US Airlines Push to Strip Away Travelers' Rights by Rolling Back Key Protections](https://www.travelandtourworld.com/news/article/american-joins-delta-southwest-united-and-other-us-airlines-push-to-strip-away-travelers-rights-and-add-more-fees-by-rolling-back-key-protections-in-new-deregulation-move/)
+* [2025-09-24, 12:28:49](https://news.ycombinator.com/item?id=45359359) - [Explosions and drones targeting Gaza aid flotilla boats, activists say](https://www.theguardian.com/world/2025/sep/24/explosions-and-multiple-drones-targeting-gaza-aid-flotilla-boats-activists-say)
 * [2025-09-24, 12:28:15](https://news.ycombinator.com/item?id=45359356) - [Rights groups urge UK PM Starmer to abandon plans for mandatory digital ID](https://bigbrotherwatch.org.uk/press-releases/rights-groups-urge-starmer-to-abandon-plans-for-mandatory-digital-id/)
+* [2025-09-24, 11:52:50](https://news.ycombinator.com/item?id=45359074) - [EU age verification app not planning desktop support](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/22)
 * [2025-09-24, 11:41:54](https://news.ycombinator.com/item?id=45358980) - [Yt-dlp: Upcoming new requirements for YouTube downloads](https://github.com/yt-dlp/yt-dlp/issues/14404)
 * [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
+* [2025-09-24, 10:37:14](https://news.ycombinator.com/item?id=45358527) - [Preparing for the .NET 10 GC](https://maoni0.medium.com/preparing-for-the-net-10-gc-88718b261ef2)
 * [2025-09-24, 10:26:23](https://news.ycombinator.com/item?id=45358433) - [My game's server is blocked in Spain whenever there's a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 09:56:04](https://news.ycombinator.com/item?id=45358216) - [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc)
