@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-09-24, 18:20:49",
+      "https://news.ycombinator.com/item?id=45364103"
+    ],
+    [
+      "Giving users choice with Cloudflare's new Content Signals Policy",
+      "https://blog.cloudflare.com/content-signals-policy/"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 17:29:09",
       "https://news.ycombinator.com/item?id=45363429"
     ],
     [
-      "Tinder, Hinge, and Their Corporate Owner Keep Rape Under Wraps",
+      "Tinder, Hinge, and their corporate owner keep rape under wraps",
       "https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "S3 scales to petabytes a second on top of slow HDDs",
       "https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 09:56:04",
-      "https://news.ycombinator.com/item?id=45358216"
-    ],
-    [
-      "Exploring GrapheneOS secure allocator: Hardened Malloc",
-      "https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc"
     ]
   ],
   [
