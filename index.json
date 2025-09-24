@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-24, 10:05:29",
+      "https://news.ycombinator.com/item?id=45358280"
+    ],
+    [
+      "S3 scales to petabytes a second on top of slow HDDs",
+      "https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 08:24:20",
       "https://news.ycombinator.com/item?id=45357693"
     ],
@@ -87,16 +97,6 @@
     [
       "From Rust to reality: The hidden journey of fetch_max",
       "https://questdb.com/blog/rust-fetch-max-compiler-journey/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 21:20:15",
-      "https://news.ycombinator.com/item?id=45352901"
-    ],
-    [
-      "Context Engineering for AI Agents: Lessons",
-      "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus"
     ]
   ],
   [
