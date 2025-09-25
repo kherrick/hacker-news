@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 19:08:08](https://news.ycombinator.com/item?id=45377439) - [Doge Continues to Operate Unchecked, Violating Federal Privacy and Security Laws](https://www.hsgac.senate.gov/media/dems/peters-report-finds-that-doge-continues-to-operate-unchecked-likely-violating-federal-privacy-and-security-laws-and-putting-the-safety-of-americans-personal-information-in-danger/)
+* [2025-09-25, 18:57:28](https://news.ycombinator.com/item?id=45377260) - [Kagi Search Down](https://status.kagi.com)
 * [2025-09-25, 18:40:22](https://news.ycombinator.com/item?id=45377030) - [Tracing JITs in the Real World CPython Core Dev Sprint](https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/)
 * [2025-09-25, 18:36:20](https://news.ycombinator.com/item?id=45376977) - [Electron-based apps cause system-wide lag on macOS 26 Tahoe](https://github.com/electron/electron/issues/48311)
 * [2025-09-25, 18:22:32](https://news.ycombinator.com/item?id=45376781) - [DOGE might be storing every American's SSN on an insecure cloud server](https://www.theverge.com/news/785706/doge-insecure-cloud-server-social-security-numbers)
