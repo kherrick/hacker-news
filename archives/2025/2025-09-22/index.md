@@ -15,6 +15,7 @@
 * [2025-09-22, 22:07:07](https://news.ycombinator.com/item?id=45340192) - [Kwikset ends support for smartphone enabled deadbolt. Suggests physical keys](https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock)
 * [2025-09-22, 22:02:01](https://news.ycombinator.com/item?id=45340133) - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 * [2025-09-22, 21:44:54](https://news.ycombinator.com/item?id=45339923) - [Germicidal UV could make airborne diseases as rare as those carried by water](https://www.worksinprogress.news/p/how-to-clean-the-air)
+* [2025-09-22, 21:24:00](https://news.ycombinator.com/item?id=45339631) - [Porting a library to a different language with a sentence](https://randomlabs.ai/blog/porting-a-library-with-slate)
 * [2025-09-22, 21:15:06](https://news.ycombinator.com/item?id=45339525) - [The Cracker Barrel Hype(rreality)](https://www.unpopularfront.news/p/the-cracker-barrel-hyperreality)
 * [2025-09-22, 21:05:48](https://news.ycombinator.com/item?id=45339428) - [Disney reinstates Jimmy Kimmel after backlash over capitulation to FCC](https://arstechnica.com/tech-policy/2025/09/disney-abc-reinstate-jimmy-kimmel-amid-uproar-over-government-censorship/)
 * [2025-09-22, 21:00:38](https://news.ycombinator.com/item?id=45339388) - [Gauntlet AI (YC S17) Master building with AI, get $200k+ job. All expenses paid](https://apply.gauntletai.com/)
