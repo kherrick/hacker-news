@@ -49,6 +49,7 @@
 * [2025-09-23, 13:58:48](https://news.ycombinator.com/item?id=45347147) - [OpenDataLoader-PDF: An open source tool for structured PDF parsing](https://github.com/opendataloader-project/opendataloader-pdf)
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-23, 13:54:51](https://news.ycombinator.com/item?id=45347089) - [OrangePi 5 Ultra Review: An ARM64 SBC Powerhouse](https://boilingsteam.com/orange-pi-5-ultra-review/)
+* [2025-09-23, 13:54:10](https://news.ycombinator.com/item?id=45347072) - [Brutalita Sans: An Experimental Font and Font Editor](https://brutalita.com/)
 * [2025-09-23, 13:51:56](https://news.ycombinator.com/item?id=45347043) - [The War on Roommates: Why Is Sharing a House Illegal?](https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html)
 * [2025-09-23, 13:49:56](https://news.ycombinator.com/item?id=45347022) - [US authorities seize illicit electronics in New York during UN General Assembly](https://www.reuters.com/world/us/us-authorities-seize-illicit-electronics-new-york-area-during-un-general-2025-09-23/)
 * [2025-09-23, 13:45:44](https://news.ycombinator.com/item?id=45346968) - [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence)
