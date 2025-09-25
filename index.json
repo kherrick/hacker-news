@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-25, 15:35:19",
+      "https://news.ycombinator.com/item?id=45374064"
+    ],
+    [
+      "FTC Secures Historic $2.5B Settlement Against Amazon",
+      "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 15:09:25",
+      "https://news.ycombinator.com/item?id=45373606"
+    ],
+    [
+      "It's Time to License Software Engineering",
+      "https://www.slater.dev/its-time-to-license-software-engineering/"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 15:06:47",
       "https://news.ycombinator.com/item?id=45373564"
     ],
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2025-09-24, 22:01:06",
-      "https://news.ycombinator.com/item?id=45366474"
-    ],
-    [
-      "Snapdragon X2 Elite ARM Laptop CPU",
-      "https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 15:48:36",
-      "https://news.ycombinator.com/item?id=45362023"
-    ],
-    [
-      "Python on the Edge: Fast, sandboxed, and powered by WebAssembly",
-      "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly"
-    ]
-  ],
-  [
-    [
       "2025-09-24, 14:53:57",
       "https://news.ycombinator.com/item?id=45361268"
     ],
@@ -227,6 +227,16 @@
     [
       "Random Mosaic – Detecting unauthorized physical access with colored rice (2021)",
       "https://dys2p.com/en/2021-12-tamper-evident-protection.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 15:44:13",
+      "https://news.ycombinator.com/item?id=45348665"
+    ],
+    [
+      "New element Web and desktop design",
+      "https://element.io/blog/new-element-web-and-desktop-apps-have-distinct-element-x-vibes/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Effect Systems vs. Print Debugging: A Pragmatic Solution",
       "https://blog.flix.dev/blog/effect-systems-vs-print-debugging/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 05:16:32",
-      "https://news.ycombinator.com/item?id=45329310"
-    ],
-    [
-      "Categorical Foundations for Cute Layouts",
-      "https://research.colfax-intl.com/categorical-foundations-for-cute-layouts/"
     ]
   ],
   [
