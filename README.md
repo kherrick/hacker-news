@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-25, 19:28:16](https://news.ycombinator.com/item?id=45377748) - [Can a model trained on satellite data really find brambles on the ground?](https://toao.com/blog/can-we-really-see-brambles-from-space)
-* [2025-09-25, 19:24:38](https://news.ycombinator.com/item?id=45377686) - [How Amgen Lost the PCSK9 Patent War](https://www.alexkesin.com/p/how-amgen-lost-the-pcsk9-patent-war)
 * [2025-09-25, 19:21:52](https://news.ycombinator.com/item?id=45377641) - [Ollama Web Search](https://ollama.com/blog/web-search)
 * [2025-09-25, 19:17:18](https://news.ycombinator.com/item?id=45377572) - [Implementing UI translation in SumatraPDF, a C++ Windows application](https://blog.kowalczyk.info/a-vn0v/implementing-ui-translation-in-sumatrapdf-a-c-windows-application.html)
 * [2025-09-25, 18:40:22](https://news.ycombinator.com/item?id=45377030) - [Tracing JITs in the Real World CPython Core Dev Sprint](https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/)
@@ -27,6 +26,7 @@
 * [2025-09-25, 03:13:55](https://news.ycombinator.com/item?id=45368899) - [Pablo Picasso's poetry](https://news.artnet.com/art-world/art-bites-picasso-poetry-2669332)
 * [2025-09-23, 15:44:13](https://news.ycombinator.com/item?id=45348665) - [New element Web and desktop design](https://element.io/blog/new-element-web-and-desktop-apps-have-distinct-element-x-vibes/)
 * [2025-09-23, 13:54:10](https://news.ycombinator.com/item?id=45347072) - [Brutalita Sans: An Experimental Font and Font Editor](https://brutalita.com/)
+* [2025-09-23, 13:11:32](https://news.ycombinator.com/item?id=45346538) - [Cosmic simulations that once needed supercomputers now run on a laptop](https://www.sciencedaily.com/releases/2025/09/250918225001.htm)
 * [2025-09-23, 12:23:04](https://news.ycombinator.com/item?id=45346014) - [Bach Cello Suites (2024)](https://bachcellosuites.co.uk/)
 * [2025-09-23, 08:16:30](https://news.ycombinator.com/item?id=45344250) - [Wild performance tricks](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
 * [2025-09-22, 22:15:23](https://news.ycombinator.com/item?id=45340278) - [Identity Types](https://bartoszmilewski.com/2025/09/22/identity-types/)
