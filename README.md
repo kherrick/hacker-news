@@ -5,7 +5,6 @@
 * [2025-09-25, 15:35:19](https://news.ycombinator.com/item?id=45374064) - [FTC Secures Historic $2.5B Settlement Against Amazon](https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon)
 * [2025-09-25, 15:06:47](https://news.ycombinator.com/item?id=45373564) - [Microsoft blocks Israel's use of its tech. in mass surveillance of Palestinians](https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians)
 * [2025-09-25, 15:02:55](https://news.ycombinator.com/item?id=45373501) - [This month in Servo: variable fonts, network tools, SVG](https://servo.org/blog/2025/09/25/this-month-in-servo/)
-* [2025-09-25, 14:41:17](https://news.ycombinator.com/item?id=45373179) - [Accenture to 'exit' staff that cannot be retrained for age of AI](https://www.ft.com/content/a74f8564-ed5a-42e9-8fb3-d2bddb2b8675)
 * [2025-09-25, 14:33:50](https://news.ycombinator.com/item?id=45373081) - [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
 * [2025-09-25, 14:28:24](https://news.ycombinator.com/item?id=45373008) - [Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web](https://news.ycombinator.com/item?id=45373008)
 * [2025-09-25, 13:32:50](https://news.ycombinator.com/item?id=45372442) - [Death rates rose in hospital ERs after private equity firms took over](https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211)
@@ -23,13 +22,14 @@
 * [2025-09-24, 22:51:16](https://news.ycombinator.com/item?id=45366867) - [Helium Browser](https://helium.computer/)
 * [2025-09-24, 15:48:36](https://news.ycombinator.com/item?id=45362023) - [Python on the Edge: Fast, sandboxed, and powered by WebAssembly](https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly)
 * [2025-09-24, 14:53:57](https://news.ycombinator.com/item?id=45361268) - [Show HN: Dayflow – A git log for your day](https://github.com/JerryZLiu/Dayflow)
+* [2025-09-23, 19:45:25](https://news.ycombinator.com/item?id=45351841) - [The Beginning of My Programming Journey](https://docs.google.com/document/d/e/2PACX-1vS6wnp3kbNrjT9TEfHVpEqbAITqH_G6QubjczV8KRXFmOQ1JSTt1oNWHxVpLNRZU14J4VBd7wTMuDSS/pub)
 * [2025-09-23, 18:08:51](https://news.ycombinator.com/item?id=45350734) - [Random Mosaic – Detecting unauthorized physical access with colored rice (2021)](https://dys2p.com/en/2021-12-tamper-evident-protection.html)
 * [2025-09-23, 15:44:13](https://news.ycombinator.com/item?id=45348665) - [New element Web and desktop design](https://element.io/blog/new-element-web-and-desktop-apps-have-distinct-element-x-vibes/)
 * [2025-09-23, 13:54:10](https://news.ycombinator.com/item?id=45347072) - [Brutalita Sans: An Experimental Font and Font Editor](https://brutalita.com/)
+* [2025-09-23, 02:21:18](https://news.ycombinator.com/item?id=45342121) - [800 Years of English Handwriting](https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw)
 * [2025-09-22, 18:11:14](https://news.ycombinator.com/item?id=45337302) - [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
 * [2025-09-22, 17:54:21](https://news.ycombinator.com/item?id=45337059) - [Effect Systems vs. Print Debugging: A Pragmatic Solution](https://blog.flix.dev/blog/effect-systems-vs-print-debugging/)
 * [2025-09-21, 18:58:51](https://news.ycombinator.com/item?id=45325610) - [Storing Unwise Amounts of Data in JavaScript Bigints](https://jonathan-frere.com/posts/bigints-are-cool/)
-* [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
 
 ## [Archives](archives/index.md)
 
