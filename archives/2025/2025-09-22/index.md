@@ -28,6 +28,7 @@
 * [2025-09-22, 18:22:53](https://news.ycombinator.com/item?id=45337450) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 * [2025-09-22, 18:21:29](https://news.ycombinator.com/item?id=45337433) - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
 * [2025-09-22, 18:18:56](https://news.ycombinator.com/item?id=45337400) - [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
+* [2025-09-22, 18:11:14](https://news.ycombinator.com/item?id=45337302) - [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
 * [2025-09-22, 18:07:13](https://news.ycombinator.com/item?id=45337253) - [AI-Generated \"Workslop\" Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI Model for Text, Image & Video](https://github.com/QwenLM/Qwen3-Omni)
 * [2025-09-22, 17:01:04](https://news.ycombinator.com/item?id=45336282) - [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)

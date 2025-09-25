@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 23:46:08](https://news.ycombinator.com/item?id=45367364) - [Harvard's Public Health Dean Was Paid $150k to Testify Tylenol Causes Autism](https://www.thecrimson.com/article/2025/9/24/autism-dean-public-health/)
+* [2025-09-24, 23:15:38](https://news.ycombinator.com/item?id=45367086) - [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
 * [2025-09-24, 23:15:33](https://news.ycombinator.com/item?id=45367085) - [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
 * [2025-09-24, 23:12:38](https://news.ycombinator.com/item?id=45367046) - [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
+* [2025-09-24, 23:12:37](https://news.ycombinator.com/item?id=45367044) - [I built a CLI to test and eval MCP servers](https://www.npmjs.com/package/@mcpjam/cli)
 * [2025-09-24, 22:51:16](https://news.ycombinator.com/item?id=45366867) - [Helium Browser](https://helium.computer/)
 * [2025-09-24, 22:11:48](https://news.ycombinator.com/item?id=45366566) - [Everything that's wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
 * [2025-09-24, 22:01:06](https://news.ycombinator.com/item?id=45366474) - [Snapdragon X2 Elite ARM Laptop CPU](https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite)
@@ -32,6 +35,7 @@
 * [2025-09-24, 15:16:56](https://news.ycombinator.com/item?id=45361574) - [Replace PostgreSQL with Git for your next project](https://devcenter.upsun.com/posts/why-you-should-replace-postgresql-with-git-for-your-next-project/)
 * [2025-09-24, 15:03:59](https://news.ycombinator.com/item?id=45361394) - [How to Be a Leader When the Vibes Are Off](https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/)
 * [2025-09-24, 15:00:15](https://news.ycombinator.com/item?id=45361344) - [The Lambda Calculus – Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/lambda-calculus/)
+* [2025-09-24, 14:53:57](https://news.ycombinator.com/item?id=45361268) - [Show HN: Dayflow – A git log for your day](https://github.com/JerryZLiu/Dayflow)
 * [2025-09-24, 14:51:44](https://news.ycombinator.com/item?id=45361239) - [The DHS has been harvesting DNA from Americans for years](https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/)
 * [2025-09-24, 14:44:20](https://news.ycombinator.com/item?id=45361154) - [Who Funds Misfit Research?](https://blog.spec.tech/p/who-funds-misfit-research)
 * [2025-09-24, 14:42:49](https://news.ycombinator.com/item?id=45361140) - [How HubSpot Scaled AI Adoption](https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption)
