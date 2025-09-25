@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-24, 23:46:08",
+      "https://news.ycombinator.com/item?id=45367364"
+    ],
+    [
+      "Harvard's Public Health Dean Was Paid $150k to Testify Tylenol Causes Autism",
+      "https://www.thecrimson.com/article/2025/9/24/autism-dean-public-health/"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 23:15:38",
+      "https://news.ycombinator.com/item?id=45367086"
+    ],
+    [
+      "How did sports betting become legal in the US?",
+      "https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 23:15:33",
       "https://news.ycombinator.com/item?id=45367085"
     ],
@@ -17,6 +37,16 @@
     [
       "Do YC after you graduate: Early decision for students",
       "https://www.ycombinator.com/early-decision"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 23:12:37",
+      "https://news.ycombinator.com/item?id=45367044"
+    ],
+    [
+      "I built a CLI to test and eval MCP servers",
+      "https://www.npmjs.com/package/@mcpjam/cli"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45365878"
     ],
     [
-      "SonyShell – an effort to \"SSH into my Sony DSLR\"",
+      "SonyShell – An effort to “SSH into my Sony DSLR”",
       "https://github.com/goudvuur/sonyshell"
     ]
   ],
@@ -97,16 +127,6 @@
     [
       "Terence Tao: The role of small organizations in society has shrunk significantly",
       "https://mathstodon.xyz/@tao/115259943398316677"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 16:23:33",
-      "https://news.ycombinator.com/item?id=45362569"
-    ],
-    [
-      "Product Hunt is dead",
-      "https://sedimental.org/product_hunt_is_dead.html"
     ]
   ],
   [
@@ -161,12 +181,12 @@
   ],
   [
     [
-      "2025-09-24, 15:00:15",
-      "https://news.ycombinator.com/item?id=45361344"
+      "2025-09-24, 14:53:57",
+      "https://news.ycombinator.com/item?id=45361268"
     ],
     [
-      "The Lambda Calculus (2023)",
-      "https://plato.stanford.edu/entries/lambda-calculus/"
+      "Show HN: Dayflow – A git log for your day",
+      "https://github.com/JerryZLiu/Dayflow"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-09-24, 08:24:20",
-      "https://news.ycombinator.com/item?id=45357693"
+      "2025-09-22, 18:11:14",
+      "https://news.ycombinator.com/item?id=45337302"
     ],
     [
-      "That Secret Service SIM farm story is bogus",
-      "https://cybersect.substack.com/p/that-secret-service-sim-farm-story"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 20:12:13",
-      "https://news.ycombinator.com/item?id=45338840"
-    ],
-    [
-      "Ray Marching a Blob in 3D",
-      "https://www.4rknova.com//blog/2025/09/21/blob-3d"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 19:58:33",
-      "https://news.ycombinator.com/item?id=45338680"
-    ],
-    [
-      "Björk on nature and technology (2016)",
-      "https://thecreativeindependent.com/people/bjork-on-nature-and-technology/"
+      "Low Earth Orbit Visualization",
+      "https://platform.leolabs.space/visualization"
     ]
   ],
   [
