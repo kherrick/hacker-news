@@ -60,6 +60,7 @@
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
 * [2025-09-21, 10:56:42](https://news.ycombinator.com/item?id=45321663) - [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
 * [2025-09-21, 10:37:35](https://news.ycombinator.com/item?id=45321570) - [The Strange Tale of the Hotchkiss](https://www.edrdg.org/~jwb/mondir/hotchkiss.html)
+* [2025-09-21, 08:09:29](https://news.ycombinator.com/item?id=45320970) - [The (Business) Process Deadlock](https://www.ufried.com/blog/business_processes/)
 * [2025-09-21, 07:19:59](https://news.ycombinator.com/item?id=45320759) - [Universities should be more than toll gates](https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/)
 * [2025-09-21, 07:19:37](https://news.ycombinator.com/item?id=45320757) - [Ask HN: How do you choose languages for building applications?](https://news.ycombinator.com/item?id=45320757)
 * [2025-09-21, 07:11:50](https://news.ycombinator.com/item?id=45320715) - [How is einx notation universal?](https://einx.readthedocs.io/en/stable/faq/universal.html)
