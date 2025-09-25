@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 22:59:58](https://news.ycombinator.com/item?id=45380382) - [Cloudflare Introduces Net Dollar](https://www.cloudflare.com/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/)
 * [2025-09-25, 21:25:51](https://news.ycombinator.com/item?id=45379325) - [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
 * [2025-09-25, 20:53:40](https://news.ycombinator.com/item?id=45378910) - [Factory Raises $50M Series B](https://factory.ai/news/series-b)
 * [2025-09-25, 20:52:33](https://news.ycombinator.com/item?id=45378896) - [U.S. once again hits new low in World Happiness Report](https://www.axios.com/2025/03/20/us-new-low-world-happiness-report)

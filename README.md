@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-25, 22:59:58](https://news.ycombinator.com/item?id=45380382) - [Cloudflare Introduces Net Dollar](https://www.cloudflare.com/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/)
 * [2025-09-25, 21:25:51](https://news.ycombinator.com/item?id=45379325) - [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
 * [2025-09-25, 20:53:40](https://news.ycombinator.com/item?id=45378910) - [Factory Raises $50M Series B](https://factory.ai/news/series-b)
 * [2025-09-25, 20:50:05](https://news.ycombinator.com/item?id=45378871) - [New Quasi-Moon Discovered Orbiting Earth, but It's Been Around for Decades](https://explorersweb.com/new-quasi-moon-discovered-orbiting-earth-but-its-been-around-for-decades/)
@@ -20,7 +21,6 @@
 * [2025-09-25, 13:19:47](https://news.ycombinator.com/item?id=45372335) - [Demand for human radiologists is at an all-time high](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)
 * [2025-09-25, 12:48:50](https://news.ycombinator.com/item?id=45372113) - [Resurrect the Old Web](https://stevedylandev.bearblog.dev/resurrect-the-old-web/)
 * [2025-09-25, 10:39:17](https://news.ycombinator.com/item?id=45371309) - [The Wind, a Pole, and the Dragon](https://entropicthoughts.com/the-wind-a-pole-and-the-dragon)
-* [2025-09-25, 10:35:19](https://news.ycombinator.com/item?id=45371283) - [The Theatre of Pull Requests and Code Review](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review)
 * [2025-09-25, 07:52:28](https://news.ycombinator.com/item?id=45370304) - [Raspberry Pi 500+](https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/)
 * [2025-09-25, 03:13:55](https://news.ycombinator.com/item?id=45368899) - [Pablo Picasso's poetry](https://news.artnet.com/art-world/art-bites-picasso-poetry-2669332)
 * [2025-09-23, 20:53:57](https://news.ycombinator.com/item?id=45352621) - [The surprising revival of road bowling, Ireland's ancient sport](https://www.rte.ie/brainstorm/2025/0709/1522577-road-bowling-ireland-sport-heritage-tradition-cork-armagh-tiktok-instagram/)
