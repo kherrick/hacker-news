@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-25, 10:39:17](https://news.ycombinator.com/item?id=45371309) - [The Wind, a Pole, and the Dragon](https://entropicthoughts.com/the-wind-a-pole-and-the-dragon)
 * [2025-09-25, 10:35:19](https://news.ycombinator.com/item?id=45371283) - [The Theatre of Pull Requests and Code Review](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review)
 * [2025-09-25, 09:36:40](https://news.ycombinator.com/item?id=45370882) - [Some interesting stuff I found on IX LANs](https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting)
 * [2025-09-25, 07:44:55](https://news.ycombinator.com/item?id=45370256) - [Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)](https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/)
@@ -29,7 +30,6 @@
 * [2025-09-22, 08:25:53](https://news.ycombinator.com/item?id=45330560) - [Python-Style Kwargs in TypeScript](https://xavd.id/blog/post/python-kwargs-in-typescript/)
 * [2025-09-21, 15:00:59](https://news.ycombinator.com/item?id=45323351) - [Mollweide map projection and Newton's method](https://www.johndcook.com/blog/2025/09/21/mollweide-newton/)
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
-* [2025-09-21, 07:30:36](https://news.ycombinator.com/item?id=45320801) - [History of Telecommunications T-Carrier](https://computer.rip/2025-09-20-T-carrier.html)
 
 ## [Archives](archives/index.md)
 
