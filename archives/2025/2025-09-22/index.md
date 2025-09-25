@@ -35,6 +35,7 @@
 * [2025-09-22, 17:54:21](https://news.ycombinator.com/item?id=45337059) - [Effect Systems vs. Print Debugging: A Pragmatic Solution](https://blog.flix.dev/blog/effect-systems-vs-print-debugging/)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI Model for Text, Image & Video](https://github.com/QwenLM/Qwen3-Omni)
 * [2025-09-22, 17:01:04](https://news.ycombinator.com/item?id=45336282) - [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
+* [2025-09-22, 16:47:55](https://news.ycombinator.com/item?id=45336076) - [Making of \"Printing Types\"](https://www.c82.net/blog/?id=100)
 * [2025-09-22, 16:30:03](https://news.ycombinator.com/item?id=45335774) - [California issues historic fine over lawyer's ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)
 * [2025-09-22, 16:25:35](https://news.ycombinator.com/item?id=45335695) - [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
 * [2025-09-22, 16:21:35](https://news.ycombinator.com/item?id=45335635) - [Testing is better than Data Structures and Algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)

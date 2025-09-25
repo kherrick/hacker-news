@@ -2,7 +2,6 @@
 
 * [2025-09-25, 21:25:51](https://news.ycombinator.com/item?id=45379325) - [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
 * [2025-09-25, 20:53:40](https://news.ycombinator.com/item?id=45378910) - [Factory Raises $50M Series B](https://factory.ai/news/series-b)
-* [2025-09-25, 20:52:33](https://news.ycombinator.com/item?id=45378896) - [U.S. once again hits new low in World Happiness Report](https://www.axios.com/2025/03/20/us-new-low-world-happiness-report)
 * [2025-09-25, 20:50:05](https://news.ycombinator.com/item?id=45378871) - [New Quasi-Moon Discovered Orbiting Earth, but It's Been Around for Decades](https://explorersweb.com/new-quasi-moon-discovered-orbiting-earth-but-its-been-around-for-decades/)
 * [2025-09-25, 20:17:48](https://news.ycombinator.com/item?id=45378413) - [The VAX (John Mashey, 2005)](https://yarchive.net/comp/vax.html)
 * [2025-09-25, 19:28:16](https://news.ycombinator.com/item?id=45377748) - [Can a model trained on satellite data really find brambles on the ground?](https://toao.com/blog/can-we-really-see-brambles-from-space)
@@ -30,6 +29,7 @@
 * [2025-09-23, 12:23:04](https://news.ycombinator.com/item?id=45346014) - [Bach Cello Suites (2024)](https://bachcellosuites.co.uk/)
 * [2025-09-23, 08:16:30](https://news.ycombinator.com/item?id=45344250) - [Wild performance tricks](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
 * [2025-09-22, 22:15:23](https://news.ycombinator.com/item?id=45340278) - [Identity Types](https://bartoszmilewski.com/2025/09/22/identity-types/)
+* [2025-09-22, 16:47:55](https://news.ycombinator.com/item?id=45336076) - [Making of \"Printing Types\"](https://www.c82.net/blog/?id=100)
 
 ## [Archives](archives/index.md)
 
