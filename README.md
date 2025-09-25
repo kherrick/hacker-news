@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-25, 01:24:33](https://news.ycombinator.com/item?id=45368210) - [Homeowner Baffled After Washing Machine Uses 3.6GB of Internet Data a Day](https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675)
+* [2025-09-25, 01:24:33](https://news.ycombinator.com/item?id=45368210) - [Homeowner baffled after washing machine uses 3.6GB of internet data a day (2024)](https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675)
 * [2025-09-25, 01:05:48](https://news.ycombinator.com/item?id=45368058) - [The \"Wage Level\" Mirage: H-1B proposal could help outsourcers and hurt US talent](https://ifp.org/the-wage-level-mirage/)
 * [2025-09-24, 23:15:38](https://news.ycombinator.com/item?id=45367086) - [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
 * [2025-09-24, 23:15:33](https://news.ycombinator.com/item?id=45367085) - [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
@@ -19,6 +19,7 @@
 * [2025-09-24, 15:03:59](https://news.ycombinator.com/item?id=45361394) - [How to be a leader when the vibes are off](https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/)
 * [2025-09-24, 14:53:57](https://news.ycombinator.com/item?id=45361268) - [Show HN: Dayflow – A git log for your day](https://github.com/JerryZLiu/Dayflow)
 * [2025-09-24, 14:20:33](https://news.ycombinator.com/item?id=45360824) - [Smartphone Cameras Go Hyperspectral](https://spectrum.ieee.org/hyperspectral-imaging)
+* [2025-09-24, 13:56:37](https://news.ycombinator.com/item?id=45360475) - [Just let me select text](https://aartaka.me/select-text.html)
 * [2025-09-24, 12:52:52](https://news.ycombinator.com/item?id=45359604) - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts)
 * [2025-09-24, 12:45:07](https://news.ycombinator.com/item?id=45359524) - [Learning Persian with Anki, ChatGPT and YouTube](https://cjauvin.github.io/posts/learning-persian/)
 * [2025-09-24, 11:52:50](https://news.ycombinator.com/item?id=45359074) - [EU age verification app not planning desktop support](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/22)
@@ -26,7 +27,6 @@
 * [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [How AWS S3 serves 1 petabyte per second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-22, 18:11:14](https://news.ycombinator.com/item?id=45337302) - [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
-* [2025-09-22, 11:00:10](https://news.ycombinator.com/item?id=45331717) - [Galileo's Telescope as the Last Echo of an Ancient Stone-Light-Silence Trinity](https://lightcapai.medium.com/galileos-telescope-the-last-echo-of-an-ancient-stone-light-silence-trinity-929d3903227c)
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
 * [2025-09-21, 08:09:29](https://news.ycombinator.com/item?id=45320970) - [The (Business) Process Deadlock](https://www.ufried.com/blog/business_processes/)
 * [2025-09-21, 04:03:35](https://news.ycombinator.com/item?id=45319966) - [Kirkwood Gap Facts for Kids](https://kids.kiddle.co/Kirkwood_gap)
