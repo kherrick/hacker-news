@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 16:31:02](https://news.ycombinator.com/item?id=45374961) - [The Harvard-Emory ECG Database](https://bdsp.io/content/heedb/4.0/)
 * [2025-09-25, 16:01:41](https://news.ycombinator.com/item?id=45374500) - [ChatControl: EU wants to scan all private messages, even in encrypted apps](https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/)
 * [2025-09-25, 15:35:19](https://news.ycombinator.com/item?id=45374064) - [FTC Secures Historic $2.5B Settlement Against Amazon](https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon)
 * [2025-09-25, 15:09:25](https://news.ycombinator.com/item?id=45373606) - [It's Time to License Software Engineering](https://www.slater.dev/its-time-to-license-software-engineering/)
@@ -20,6 +21,7 @@
 * [2025-09-25, 13:32:50](https://news.ycombinator.com/item?id=45372442) - [Death rates rose in hospital ERs after private equity firms took over](https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211)
 * [2025-09-25, 13:22:16](https://news.ycombinator.com/item?id=45372361) - [As many as 2M Cisco devices affected by actively exploited 0-day](https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/)
 * [2025-09-25, 13:19:47](https://news.ycombinator.com/item?id=45372335) - [AI Isn't Replacing Radiologists](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)
+* [2025-09-25, 13:13:34](https://news.ycombinator.com/item?id=45372289) - [Video models are zero-shot learners and reasoners](https://video-zero-shot.github.io/)
 * [2025-09-25, 13:13:25](https://news.ycombinator.com/item?id=45372286) - [Data Viz Color Palette Generator (For Charts and Dashboards)](https://www.learnui.design/tools/data-color-picker.html)
 * [2025-09-25, 12:48:50](https://news.ycombinator.com/item?id=45372113) - [Resurrect the Old Web](https://stevedylandev.bearblog.dev/resurrect-the-old-web/)
 * [2025-09-25, 12:14:16](https://news.ycombinator.com/item?id=45371902) - [Governor Newsom Should Make It Easier to Exercise Our Privacy Rights](https://www.eff.org/deeplinks/2025/09/tell-governor-newsom-make-it-easier-use-your-privacy-rights)
