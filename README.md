@@ -9,7 +9,7 @@
 * [2025-09-24, 22:11:48](https://news.ycombinator.com/item?id=45366566) - [Everything that's wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
 * [2025-09-24, 22:01:06](https://news.ycombinator.com/item?id=45366474) - [Snapdragon X2 Elite ARM Laptop CPU](https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite)
 * [2025-09-24, 21:00:00](https://news.ycombinator.com/item?id=45365878) - [SonyShell – An effort to “SSH into my Sony DSLR”](https://github.com/goudvuur/sonyshell)
-* [2025-09-24, 18:48:39](https://news.ycombinator.com/item?id=45364450) - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
+* [2025-09-24, 18:48:39](https://news.ycombinator.com/item?id=45364450) - [How fast is Go? Simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 * [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 * [2025-09-24, 16:32:24](https://news.ycombinator.com/item?id=45362697) - [Terence Tao: The role of small organizations in society has shrunk significantly](https://mathstodon.xyz/@tao/115259943398316677)
 * [2025-09-24, 16:03:42](https://news.ycombinator.com/item?id=45362254) - [New bacteria, and two potential antibiotics, discovered in soil](https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/)
