@@ -60,6 +60,7 @@
 * [2025-09-23, 12:56:00](https://news.ycombinator.com/item?id=45346387) - [Why Zig Feels More Practical Than Rust](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/)
 * [2025-09-23, 12:52:08](https://news.ycombinator.com/item?id=45346343) - [The Secret Service found 300 servers capable of crippling NYC's cell system](https://www.cnn.com/2025/09/23/us/swatting-investigation-server-network-discovered)
 * [2025-09-23, 12:41:36](https://news.ycombinator.com/item?id=45346219) - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
+* [2025-09-23, 12:23:04](https://news.ycombinator.com/item?id=45346014) - [Bach Cello Suites](https://bachcellosuites.co.uk/)
 * [2025-09-23, 12:20:36](https://news.ycombinator.com/item?id=45345985) - [US Secret Service dismantles imminent telecommunications threat NY tristate area](https://www.secretservice.gov/newsroom/releases/2025/09/us-secret-service-dismantles-imminent-telecommunications-threat-new-york)
 * [2025-09-23, 12:18:56](https://news.ycombinator.com/item?id=45345970) - [Silicon Valley hiring in turmoil after new H-1B fees, move spurs offshoring talk](https://www.reuters.com/sustainability/sustainable-finance-reporting/silicon-valley-hiring-turmoil-after-new-h-1b-visa-fees-move-spurs-offshoring-2025-09-23/)
 * [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
