@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-09-25, 19:28:16",
+      "https://news.ycombinator.com/item?id=45377748"
+    ],
+    [
+      "Can a model trained on satellite data really find brambles on the ground?",
+      "https://toao.com/blog/can-we-really-see-brambles-from-space"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 19:21:52",
       "https://news.ycombinator.com/item?id=45377641"
     ],
     [
       "Ollama Web search",
       "https://ollama.com/blog/web-search"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 18:57:28",
-      "https://news.ycombinator.com/item?id=45377260"
-    ],
-    [
-      "Kagi Search Down",
-      "https://status.kagi.com"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Haydex: From Zero to 178.6B rows a second in 30 days",
       "https://axiom.co/blog/building-haydex"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 18:04:58",
-      "https://news.ycombinator.com/item?id=45376516"
-    ],
-    [
-      "Immich mobile app sync V2",
-      "https://immich.app/blog/sync-v2"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2025-09-25, 14:36:12",
+      "https://news.ycombinator.com/item?id=45373102"
+    ],
+    [
+      "The story of DOGE, as told by federal workers",
+      "https://www.wired.com/story/oral-history-doge-federal-workers/"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 14:33:50",
       "https://news.ycombinator.com/item?id=45373081"
     ],
@@ -177,6 +177,16 @@
     [
       "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
       "https://news.ycombinator.com/item?id=45373008"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 13:19:47",
+      "https://news.ycombinator.com/item?id=45372335"
+    ],
+    [
+      "AI Isn't Replacing Radiologists",
+      "https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists"
     ]
   ],
   [
@@ -201,22 +211,22 @@
   ],
   [
     [
+      "2025-09-25, 12:48:50",
+      "https://news.ycombinator.com/item?id=45372113"
+    ],
+    [
+      "Resurrect the Old Web",
+      "https://stevedylandev.bearblog.dev/resurrect-the-old-web/"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 10:35:19",
       "https://news.ycombinator.com/item?id=45371283"
     ],
     [
       "The Theatre of Pull Requests and Code Review",
       "https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 09:36:40",
-      "https://news.ycombinator.com/item?id=45370882"
-    ],
-    [
-      "Some interesting stuff I found on IX LANs",
-      "https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Wild Performance Tricks",
       "https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 17:54:21",
-      "https://news.ycombinator.com/item?id=45337059"
-    ],
-    [
-      "Effect Systems vs. Print Debugging: A Pragmatic Solution",
-      "https://blog.flix.dev/blog/effect-systems-vs-print-debugging/"
     ]
   ],
   [
