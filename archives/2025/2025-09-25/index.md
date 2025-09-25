@@ -6,6 +6,7 @@
 
 * [2025-09-25, 17:22:51](https://news.ycombinator.com/item?id=45375889) - [Gov. Gavin Newsom says he fears there won't be a 2028 election](https://ktla.com/news/california/gov-gavin-newsom-fears-there-wont-be-a-2028-election/)
 * [2025-09-25, 17:20:56](https://news.ycombinator.com/item?id=45375845) - [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
+* [2025-09-25, 17:02:25](https://news.ycombinator.com/item?id=45375516) - [Starbucks: Location closures and elimination of roles](https://about.starbucks.com/press/2025/message-from-brian-an-important-update/)
 * [2025-09-25, 16:59:55](https://news.ycombinator.com/item?id=45375477) - [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
 * [2025-09-25, 16:55:48](https://news.ycombinator.com/item?id=45375392) - [GDPVal: Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/)
 * [2025-09-25, 16:51:55](https://news.ycombinator.com/item?id=45375335) - [Amazon Reaches $2.5B Settlement over Allegations It Misled Prime Users](https://www.wsj.com/tech/amazon-reaches-2-5-billion-settlement-over-allegations-it-misled-prime-users-63b2c735)

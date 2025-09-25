@@ -75,6 +75,7 @@
 * [2025-09-23, 09:20:11](https://news.ycombinator.com/item?id=45344662) - [One step closer to bombing civilians](https://www.treason.io/p/read-one-step-closer-to-bombing-civilians)
 * [2025-09-23, 09:04:43](https://news.ycombinator.com/item?id=45344554) - [The YAML Document from Hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 * [2025-09-23, 08:41:08](https://news.ycombinator.com/item?id=45344402) - [The latest Hunger Games novel may have been co-authored by AI](https://www.reddit.com/r/slatestarcodex/s/V0bvh4w1PY)
+* [2025-09-23, 08:16:30](https://news.ycombinator.com/item?id=45344250) - [Wild Performance Tricks](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
 * [2025-09-23, 08:11:01](https://news.ycombinator.com/item?id=45344198) - [Japan's most sacred Shinto shrine rebuilt every 20yrs for more than a millennium](https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96)
 * [2025-09-23, 08:10:06](https://news.ycombinator.com/item?id=45344186) - [Awash in revisionist histories about Apple's web efforts, a look at the evidence](https://infrequently.org/2025/09/cupertinos-comforting-myths/)
 * [2025-09-23, 07:27:26](https://news.ycombinator.com/item?id=45343863) - [Show HN: Mushroom Identifier – Fast and Accurate Mushroom Identification with AI](https://mushroomidentification.online)
