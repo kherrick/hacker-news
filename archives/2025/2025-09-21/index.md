@@ -67,6 +67,7 @@
 * [2025-09-21, 05:52:51](https://news.ycombinator.com/item?id=45320382) - [A webshell and a normal file that have the same MD5](https://github.com/phith0n/collision-webshell)
 * [2025-09-21, 05:13:35](https://news.ycombinator.com/item?id=45320230) - [Representing Heterogeneous Data (2023)](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2025-09-21, 04:51:16](https://news.ycombinator.com/item?id=45320147) - [Omittable – Solving the Ambiguity of Null](https://committing-crimes.com/articles/2025-09-16-null-and-absence/)
+* [2025-09-21, 04:03:35](https://news.ycombinator.com/item?id=45319966) - [Kirkwood Gap Facts for Kids](https://kids.kiddle.co/Kirkwood_gap)
 * [2025-09-21, 03:46:07](https://news.ycombinator.com/item?id=45319876) - [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
 * [2025-09-21, 03:30:07](https://news.ycombinator.com/item?id=45319791) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
 * [2025-09-21, 03:09:47](https://news.ycombinator.com/item?id=45319690) - [iFixIt iPhone Air Teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
