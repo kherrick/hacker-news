@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-25, 15:06:47](https://news.ycombinator.com/item?id=45373564) - [Microsoft blocks Israel's use of its tech. in mass surveillance of Palestinians](https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians)
+* [2025-09-25, 15:02:55](https://news.ycombinator.com/item?id=45373501) - [This month in Servo: variable fonts, network tools, SVG](https://servo.org/blog/2025/09/25/this-month-in-servo/)
 * [2025-09-25, 14:41:17](https://news.ycombinator.com/item?id=45373179) - [Accenture to 'exit' staff that cannot be retrained for age of AI](https://www.ft.com/content/a74f8564-ed5a-42e9-8fb3-d2bddb2b8675)
 * [2025-09-25, 14:36:12](https://news.ycombinator.com/item?id=45373102) - [The Story of DOGE, as Told by Federal Workers](https://www.wired.com/story/oral-history-doge-federal-workers/)
 * [2025-09-25, 14:33:50](https://news.ycombinator.com/item?id=45373081) - [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
 * [2025-09-25, 14:28:24](https://news.ycombinator.com/item?id=45373008) - [Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web](https://news.ycombinator.com/item?id=45373008)
-* [2025-09-25, 14:16:52](https://news.ycombinator.com/item?id=45372888) - [Shiller PE Ratio](https://www.multpl.com/shiller-pe)
-* [2025-09-25, 14:04:50](https://news.ycombinator.com/item?id=45372767) - [U.S. Military Was Caught Off Guard by Israeli Strike on Qatar](https://www.twz.com/air/new-info-on-how-u-s-military-was-caught-off-guard-by-israeli-strike-on-qatar)
 * [2025-09-25, 13:32:50](https://news.ycombinator.com/item?id=45372442) - [Death rates rose in hospital ERs after private equity firms took over](https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211)
 * [2025-09-25, 13:22:16](https://news.ycombinator.com/item?id=45372361) - [As many as 2M Cisco devices affected by actively exploited 0-day](https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/)
 * [2025-09-25, 13:19:47](https://news.ycombinator.com/item?id=45372335) - [AI Isn't Replacing Radiologists](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)
