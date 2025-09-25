@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
 * [2025-09-25, 23:36:59](https://news.ycombinator.com/item?id=45380726) - [Bluesky Alt Text Stream](https://bobbiec.github.io/bluesky-alt-text.html)
+* [2025-09-25, 23:33:46](https://news.ycombinator.com/item?id=45380690) - [Apple Demands EU Repeal the Digital Markets Act](https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/)
 * [2025-09-25, 22:59:58](https://news.ycombinator.com/item?id=45380382) - [Cloudflare Introduces Net Dollar](https://www.cloudflare.com/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/)
 * [2025-09-25, 21:25:51](https://news.ycombinator.com/item?id=45379325) - [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
 * [2025-09-25, 20:53:40](https://news.ycombinator.com/item?id=45378910) - [Factory Raises $50M Series B](https://factory.ai/news/series-b)
