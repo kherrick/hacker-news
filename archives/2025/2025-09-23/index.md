@@ -22,6 +22,7 @@
 * [2025-09-23, 19:12:08](https://news.ycombinator.com/item?id=45351437) - [Apple A19 SoC die shot](https://chipwise.tech/our-portfolio/apple-a19-dieshot/)
 * [2025-09-23, 19:09:50](https://news.ycombinator.com/item?id=45351410) - [How to draw construction equipment for kids](https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment)
 * [2025-09-23, 19:09:13](https://news.ycombinator.com/item?id=45351405) - [Denmark wants to push through Chat Control](https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/)
+* [2025-09-23, 18:08:51](https://news.ycombinator.com/item?id=45350734) - [Random Mosaic – Detecting unauthorized physical access with colored rice (2021)](https://dys2p.com/en/2021-12-tamper-evident-protection.html)
 * [2025-09-23, 18:06:07](https://news.ycombinator.com/item?id=45350690) - [Find SF Parking Cops](https://walzr.com/sf-parking/)
 * [2025-09-23, 17:04:56](https://news.ycombinator.com/item?id=45349848) - [Android users can now use conversational editing in Google Photos](https://blog.google/products/photos/android-conversational-editing-google-photos/)
 * [2025-09-23, 16:29:41](https://news.ycombinator.com/item?id=45349294) - [Nintendo Alerted After DHS Uses Pokémon to Promote ICE Raids](https://www.thedailybeast.com/nintendo-alerted-after-dhs-uses-pokemon-to-promote-ice-raids-tearing-families-apart/)
