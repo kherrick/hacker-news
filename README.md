@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-25, 09:36:40](https://news.ycombinator.com/item?id=45370882) - [Some interesting stuff I found on IX LANs](https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting)
-* [2025-09-25, 08:56:52](https://news.ycombinator.com/item?id=45370678) - [RTO: WTAF](https://wordsrightman.beehiiv.com/p/rto-wtaf)
 * [2025-09-25, 07:52:55](https://news.ycombinator.com/item?id=45370306) - [Perhaps my last post – we'll see (2016)](http://itila.blogspot.com/2016/04/perhaps-my-last-post-well-see.html)
+* [2025-09-25, 07:44:55](https://news.ycombinator.com/item?id=45370256) - [Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)](https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/)
 * [2025-09-25, 06:13:32](https://news.ycombinator.com/item?id=45369768) - [Knotty: A domain-specific language for knitting patterns](https://t0mpr1c3.github.io/knotty/index.html)
 * [2025-09-24, 23:15:38](https://news.ycombinator.com/item?id=45367086) - [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
 * [2025-09-24, 23:12:38](https://news.ycombinator.com/item?id=45367046) - [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
