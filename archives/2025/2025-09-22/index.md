@@ -70,6 +70,7 @@
 * [2025-09-22, 09:33:32](https://news.ycombinator.com/item?id=45331009) - [LinkedIn will soon train AI models with data from European users](https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/)
 * [2025-09-22, 09:32:44](https://news.ycombinator.com/item?id=45331001) - [Show HN: Coding Agents swarming your codebase](https://infrastructureas.ai)
 * [2025-09-22, 09:02:57](https://news.ycombinator.com/item?id=45330818) - [Metamaterials, AI, and the Road to Invisibility Cloaks](https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to)
+* [2025-09-22, 08:25:53](https://news.ycombinator.com/item?id=45330560) - [Python-Style Kwargs in TypeScript](https://xavd.id/blog/post/python-kwargs-in-typescript/)
 * [2025-09-22, 08:11:59](https://news.ycombinator.com/item?id=45330464) - [Australian telco cut off emergency calls, firewall upgrade linked to 3 deaths](https://www.theregister.com/2025/09/21/optus_emergency_call_incident/)
 * [2025-09-22, 08:03:59](https://news.ycombinator.com/item?id=45330407) - [SGI demos from long ago in the browser via WASM](https://github.com/sgi-demos)
 * [2025-09-22, 07:59:37](https://news.ycombinator.com/item?id=45330378) - [You did this with an AI and you do not understand what you're doing here](https://hackerone.com/reports/3340109)
