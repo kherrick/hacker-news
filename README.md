@@ -23,11 +23,11 @@
 * [2025-09-24, 11:41:54](https://news.ycombinator.com/item?id=45358980) - [Yt-dlp: Upcoming new requirements for YouTube downloads](https://github.com/yt-dlp/yt-dlp/issues/14404)
 * [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [How AWS S3 serves 1 petabyte per second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
-* [2025-09-24, 04:18:19](https://news.ycombinator.com/item?id=45356243) - [DE25-Nano FPGA Development and Education Board with ARM HPS and 2GB RAM](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1384)
 * [2025-09-23, 06:02:43](https://news.ycombinator.com/item?id=45343282) - [PHP Almost Generics: Guided Journey Through the Official Compile-Time Proposal](https://doganoo.medium.com/generics-in-php-from-blog-series-to-book-d2d4130bdeff)
 * [2025-09-23, 02:21:18](https://news.ycombinator.com/item?id=45342121) - [800 Years of English Handwriting](https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw)
 * [2025-09-22, 21:24:00](https://news.ycombinator.com/item?id=45339631) - [Porting a library to a different language with a sentence](https://randomlabs.ai/blog/porting-a-library-with-slate)
 * [2025-09-22, 18:11:14](https://news.ycombinator.com/item?id=45337302) - [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
+* [2025-09-21, 15:00:59](https://news.ycombinator.com/item?id=45323351) - [Mollweide map projection and Newton's method](https://www.johndcook.com/blog/2025/09/21/mollweide-newton/)
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
 * [2025-09-21, 07:30:36](https://news.ycombinator.com/item?id=45320801) - [History of Telecommunications T-Carrier](https://computer.rip/2025-09-20-T-carrier.html)
 

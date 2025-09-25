@@ -39,6 +39,7 @@
 * [2025-09-21, 15:29:41](https://news.ycombinator.com/item?id=45323623) - [How far can you go by train in 5 hours? (interactive map)](https://old.chronotrains.com)
 * [2025-09-21, 15:29:01](https://news.ycombinator.com/item?id=45323619) - [A C library offering generic, contiguous dynamic arrays with O(1) amortized push](https://github.com/L-A-Marchetti/Vec)
 * [2025-09-21, 15:09:16](https://news.ycombinator.com/item?id=45323429) - [4Chan, MAGAs unite in 'clog the toilet' op to block H-1B workers flying back](https://www.indiatoday.in/india/story/h1b-visa-flight-fares-surge-india-us-4chan-blocks-bookings-trump-order-2790740-2025-09-21)
+* [2025-09-21, 15:00:59](https://news.ycombinator.com/item?id=45323351) - [Mollweide map projection and Newton's method](https://www.johndcook.com/blog/2025/09/21/mollweide-newton/)
 * [2025-09-21, 14:55:20](https://news.ycombinator.com/item?id=45323297) - [How to Stop Functional Programming](https://brianmckenna.org/blog/howtostopfp)
 * [2025-09-21, 14:45:50](https://news.ycombinator.com/item?id=45323207) - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/)
 * [2025-09-21, 14:43:21](https://news.ycombinator.com/item?id=45323187) - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
