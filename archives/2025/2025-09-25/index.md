@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 09:57:38](https://news.ycombinator.com/item?id=45370997) - [Apple pushes EU to repeal tech rules over feature delays, app vulnerabilities](https://www.reuters.com/business/apple-urges-eu-regulators-take-closer-look-tech-rules-2025-09-25/)
 * [2025-09-25, 09:36:40](https://news.ycombinator.com/item?id=45370882) - [Some interesting stuff I found on IX LANs](https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting)
 * [2025-09-25, 08:56:52](https://news.ycombinator.com/item?id=45370678) - [RTO: WTAF](https://wordsrightman.beehiiv.com/p/rto-wtaf)
 * [2025-09-25, 07:52:55](https://news.ycombinator.com/item?id=45370306) - [Perhaps my last post – we'll see (2016)](http://itila.blogspot.com/2016/04/perhaps-my-last-post-well-see.html)
