@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 18:40:22](https://news.ycombinator.com/item?id=45377030) - [Tracing JITs in the Real World CPython Core Dev Sprint](https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/)
 * [2025-09-25, 18:36:20](https://news.ycombinator.com/item?id=45376977) - [Electron-based apps cause system-wide lag on macOS 26 Tahoe](https://github.com/electron/electron/issues/48311)
 * [2025-09-25, 18:09:47](https://news.ycombinator.com/item?id=45376605) - [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
+* [2025-09-25, 18:07:49](https://news.ycombinator.com/item?id=45376559) - [Haydex: From Zero to 178,600M rows a second in 30 days](https://axiom.co/blog/building-haydex)
 * [2025-09-25, 18:04:58](https://news.ycombinator.com/item?id=45376516) - [Immich mobile app sync V2](https://immich.app/blog/sync-v2)
 * [2025-09-25, 17:22:51](https://news.ycombinator.com/item?id=45375889) - [Gov. Gavin Newsom says he fears there won't be a 2028 election](https://ktla.com/news/california/gov-gavin-newsom-fears-there-wont-be-a-2028-election/)
 * [2025-09-25, 17:20:56](https://news.ycombinator.com/item?id=45375845) - [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
