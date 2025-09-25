@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 08:56:52](https://news.ycombinator.com/item?id=45370678) - [RTO: WTAF](https://wordsrightman.beehiiv.com/p/rto-wtaf)
 * [2025-09-25, 07:52:55](https://news.ycombinator.com/item?id=45370306) - [Perhaps my last post – we'll see (2016)](http://itila.blogspot.com/2016/04/perhaps-my-last-post-well-see.html)
 * [2025-09-25, 07:52:28](https://news.ycombinator.com/item?id=45370304) - [The all-in-one PC: Raspberry Pi 500 on sale now at $200](https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/)
 * [2025-09-25, 06:13:32](https://news.ycombinator.com/item?id=45369768) - [Knotty: A domain-specific language for knitting patterns](https://t0mpr1c3.github.io/knotty/index.html)
