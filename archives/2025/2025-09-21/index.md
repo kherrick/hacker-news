@@ -20,6 +20,7 @@
 * [2025-09-21, 20:20:04](https://news.ycombinator.com/item?id=45326294) - [I created a bouncing DVD screensaver for your terminal](https://github.com/integrii/dvd)
 * [2025-09-21, 20:12:21](https://news.ycombinator.com/item?id=45326230) - [Rail travel is booming in America](https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america)
 * [2025-09-21, 19:20:23](https://news.ycombinator.com/item?id=45325792) - [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
+* [2025-09-21, 18:58:51](https://news.ycombinator.com/item?id=45325610) - [Storing Unwise Amounts of Data in JavaScript Bigints](https://jonathan-frere.com/posts/bigints-are-cool/)
 * [2025-09-21, 18:37:04](https://news.ycombinator.com/item?id=45325410) - [Bringing Observability to Claude Code: OpenTelemetry in Action](https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/)
 * [2025-09-21, 18:13:09](https://news.ycombinator.com/item?id=45325208) - [Transforming recursion into iteration for LLVM loop optimizations](https://dspace.mit.edu/handle/1721.1/162684)
 * [2025-09-21, 17:51:34](https://news.ycombinator.com/item?id=45325035) - [Driving Complex Decisions](https://garrettdbates.com/driving-complex-decisions)

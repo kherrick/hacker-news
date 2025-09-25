@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 14:41:17](https://news.ycombinator.com/item?id=45373179) - [Accenture to 'exit' staff that cannot be retrained for age of AI](https://www.ft.com/content/a74f8564-ed5a-42e9-8fb3-d2bddb2b8675)
 * [2025-09-25, 14:36:12](https://news.ycombinator.com/item?id=45373102) - [The Story of DOGE, as Told by Federal Workers](https://www.wired.com/story/oral-history-doge-federal-workers/)
+* [2025-09-25, 14:33:50](https://news.ycombinator.com/item?id=45373081) - [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
 * [2025-09-25, 14:28:24](https://news.ycombinator.com/item?id=45373008) - [Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web](https://news.ycombinator.com/item?id=45373008)
 * [2025-09-25, 14:16:52](https://news.ycombinator.com/item?id=45372888) - [Shiller PE Ratio](https://www.multpl.com/shiller-pe)
 * [2025-09-25, 14:04:50](https://news.ycombinator.com/item?id=45372767) - [U.S. Military Was Caught Off Guard by Israeli Strike on Qatar](https://www.twz.com/air/new-info-on-how-u-s-military-was-caught-off-guard-by-israeli-strike-on-qatar)
 * [2025-09-25, 13:38:39](https://news.ycombinator.com/item?id=45372515) - [Apple says it may stop shipping to the EU](https://www.theguardian.com/technology/2025/sep/25/apple-calls-for-changes-to-anti-monopoly-laws-and-says-it-may-stop-shipping-to-the-eu)
 * [2025-09-25, 13:32:50](https://news.ycombinator.com/item?id=45372442) - [Death rates rose in hospital ERs after private equity firms took over](https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211)
 * [2025-09-25, 13:22:16](https://news.ycombinator.com/item?id=45372361) - [As many as 2M Cisco devices affected by actively exploited 0-day](https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/)
+* [2025-09-25, 13:19:47](https://news.ycombinator.com/item?id=45372335) - [AI Isn't Replacing Radiologists](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)
 * [2025-09-25, 13:13:25](https://news.ycombinator.com/item?id=45372286) - [Data Viz Color Palette Generator (For Charts and Dashboards)](https://www.learnui.design/tools/data-color-picker.html)
 * [2025-09-25, 12:48:50](https://news.ycombinator.com/item?id=45372113) - [Resurrect the Old Web](https://stevedylandev.bearblog.dev/resurrect-the-old-web/)
 * [2025-09-25, 12:14:16](https://news.ycombinator.com/item?id=45371902) - [Governor Newsom Should Make It Easier to Exercise Our Privacy Rights](https://www.eff.org/deeplinks/2025/09/tell-governor-newsom-make-it-easier-use-your-privacy-rights)
