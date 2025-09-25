@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-09-25, 19:24:38",
+      "https://news.ycombinator.com/item?id=45377686"
+    ],
+    [
+      "How Amgen Lost the PCSK9 Patent War",
+      "https://www.alexkesin.com/p/how-amgen-lost-the-pcsk9-patent-war"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 19:21:52",
       "https://news.ycombinator.com/item?id=45377641"
     ],
     [
-      "Ollama Web search",
+      "Ollama Web Search",
       "https://ollama.com/blog/web-search"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 19:17:18",
+      "https://news.ycombinator.com/item?id=45377572"
+    ],
+    [
+      "Implementing UI translation in SumatraPDF, a C++ Windows application",
+      "https://blog.kowalczyk.info/a-vn0v/implementing-ui-translation-in-sumatrapdf-a-c-windows-application.html"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-09-25, 15:02:55",
-      "https://news.ycombinator.com/item?id=45373501"
-    ],
-    [
-      "This month in Servo: variable fonts, network tools, SVG",
-      "https://servo.org/blog/2025/09/25/this-month-in-servo/"
-    ]
-  ],
-  [
-    [
       "2025-09-25, 14:36:12",
       "https://news.ycombinator.com/item?id=45373102"
     ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=45372335"
     ],
     [
-      "AI Isn't Replacing Radiologists",
+      "Demand for human radiologists is at an all-time high",
       "https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists"
     ]
   ],
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2025-09-25, 07:52:28",
+      "https://news.ycombinator.com/item?id=45370304"
+    ],
+    [
+      "Raspberry Pi 500+",
+      "https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 06:13:32",
       "https://news.ycombinator.com/item?id=45369768"
     ],
     [
       "Knotty: A domain-specific language for knitting patterns",
       "https://t0mpr1c3.github.io/knotty/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 19:45:25",
-      "https://news.ycombinator.com/item?id=45351841"
-    ],
-    [
-      "The Beginning of My Programming Journey (2022)",
-      "https://docs.google.com/document/d/e/2PACX-1vS6wnp3kbNrjT9TEfHVpEqbAITqH_G6QubjczV8KRXFmOQ1JSTt1oNWHxVpLNRZU14J4VBd7wTMuDSS/pub"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=45344250"
     ],
     [
-      "Wild Performance Tricks",
+      "Wild performance tricks",
       "https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 18:58:51",
-      "https://news.ycombinator.com/item?id=45325610"
-    ],
-    [
-      "Storing Unwise Amounts of Data in JavaScript Bigints",
-      "https://jonathan-frere.com/posts/bigints-are-cool/"
     ]
   ]
 ]
