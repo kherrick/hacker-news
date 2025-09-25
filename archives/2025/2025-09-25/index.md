@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 19:21:52](https://news.ycombinator.com/item?id=45377641) - [Ollama Web search](https://ollama.com/blog/web-search)
 * [2025-09-25, 19:08:08](https://news.ycombinator.com/item?id=45377439) - [Doge Continues to Operate Unchecked, Violating Federal Privacy and Security Laws](https://www.hsgac.senate.gov/media/dems/peters-report-finds-that-doge-continues-to-operate-unchecked-likely-violating-federal-privacy-and-security-laws-and-putting-the-safety-of-americans-personal-information-in-danger/)
 * [2025-09-25, 18:57:28](https://news.ycombinator.com/item?id=45377260) - [Kagi Search Down](https://status.kagi.com)
 * [2025-09-25, 18:40:22](https://news.ycombinator.com/item?id=45377030) - [Tracing JITs in the Real World CPython Core Dev Sprint](https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/)
