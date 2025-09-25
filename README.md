@@ -11,7 +11,6 @@
 * [2025-09-24, 18:48:39](https://news.ycombinator.com/item?id=45364450) - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 * [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 * [2025-09-24, 16:32:24](https://news.ycombinator.com/item?id=45362697) - [Terence Tao: The role of small organizations in society has shrunk significantly](https://mathstodon.xyz/@tao/115259943398316677)
-* [2025-09-24, 16:17:34](https://news.ycombinator.com/item?id=45362486) - [Better Curl Saul: a lightweight API testing CLI focused on UX and simplicity](https://github.com/DeprecatedLuar/better-curl-saul)
 * [2025-09-24, 16:03:42](https://news.ycombinator.com/item?id=45362254) - [New bacteria, and two potential antibiotics, discovered in soil](https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/)
 * [2025-09-24, 16:00:45](https://news.ycombinator.com/item?id=45362206) - [SedonaDB: A new geospatial DataFrame library written in Rust](https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/)
 * [2025-09-24, 15:48:36](https://news.ycombinator.com/item?id=45362023) - [Python on the Edge: Fast, sandboxed, and powered by WebAssembly](https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly)
@@ -29,6 +28,7 @@
 * [2025-09-22, 18:11:14](https://news.ycombinator.com/item?id=45337302) - [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
 * [2025-09-21, 11:35:21](https://news.ycombinator.com/item?id=45321849) - [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
 * [2025-09-21, 08:09:29](https://news.ycombinator.com/item?id=45320970) - [The (Business) Process Deadlock](https://www.ufried.com/blog/business_processes/)
+* [2025-09-21, 07:30:36](https://news.ycombinator.com/item?id=45320801) - [History of Telecommunications T-Carrier](https://computer.rip/2025-09-20-T-carrier.html)
 * [2025-09-21, 04:03:35](https://news.ycombinator.com/item?id=45319966) - [Kirkwood Gap Facts for Kids](https://kids.kiddle.co/Kirkwood_gap)
 
 ## [Archives](archives/index.md)
