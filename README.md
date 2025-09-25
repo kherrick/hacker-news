@@ -2,7 +2,7 @@
 
 * [2025-09-25, 17:20:56](https://news.ycombinator.com/item?id=45375845) - [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
 * [2025-09-25, 16:59:55](https://news.ycombinator.com/item?id=45375477) - [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
-* [2025-09-25, 16:51:55](https://news.ycombinator.com/item?id=45375335) - [Amazon Reaches $2.5B Settlement over Allegations It Misled Prime Users](https://www.wsj.com/tech/amazon-reaches-2-5-billion-settlement-over-allegations-it-misled-prime-users-63b2c735)
+* [2025-09-25, 16:55:48](https://news.ycombinator.com/item?id=45375392) - [GDPVal: Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/)
 * [2025-09-25, 16:31:02](https://news.ycombinator.com/item?id=45374961) - [The Harvard-Emory ECG Database](https://bdsp.io/content/heedb/4.0/)
 * [2025-09-25, 16:01:41](https://news.ycombinator.com/item?id=45374500) - [ChatControl: EU wants to scan all private messages, even in encrypted apps](https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/)
 * [2025-09-25, 15:35:19](https://news.ycombinator.com/item?id=45374064) - [FTC Secures Historic $2.5B Settlement Against Amazon](https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon)
