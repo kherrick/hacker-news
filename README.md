@@ -2,7 +2,6 @@
 
 * [2025-09-26, 14:26:44](https://news.ycombinator.com/item?id=45386872) - [DeepFabric – Generate High-Quality Synthetic Datasets at Scale](https://lukehinds.github.io/deepfabric/)
 * [2025-09-26, 14:10:11](https://news.ycombinator.com/item?id=45386709) - [Starmer says people will not be able to work in UK without digital ID](https://www.bbc.com/news/live/cwydl81dg13t)
-* [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US Cities Are Paying Too Much for New Transit Buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 13:50:53](https://news.ycombinator.com/item?id=45386499) - [Software CEO to Catholic panel: AI is more mass stupidity than mass unemployment](https://www.theregister.com/2025/09/26/ai_catholic_uni/)
 * [2025-09-26, 12:50:26](https://news.ycombinator.com/item?id=45385920) - ['Independent' auditors overvalue credits of carbon projects, study finds](https://news.mongabay.com/2025/09/independent-auditors-overvalue-credits-of-carbon-projects-study-finds/)
 * [2025-09-26, 12:00:18](https://news.ycombinator.com/item?id=45385477) - [ParadeDB (YC S23) Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
@@ -16,6 +15,7 @@
 * [2025-09-26, 01:43:57](https://news.ycombinator.com/item?id=45381631) - [Bit is all we need: binary normalized neural networks](https://arxiv.org/abs/2509.07025)
 * [2025-09-26, 00:14:11](https://news.ycombinator.com/item?id=45381010) - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
 * [2025-09-25, 23:34:46](https://news.ycombinator.com/item?id=45380699) - [Redis is fast – I'll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
+* [2025-09-25, 19:28:16](https://news.ycombinator.com/item?id=45377748) - [Can a model trained on satellite data really find brambles on the ground?](https://toao.com/blog/can-we-really-see-brambles-from-space)
 * [2025-09-25, 19:21:52](https://news.ycombinator.com/item?id=45377641) - [Ollama Web Search](https://ollama.com/blog/web-search)
 * [2025-09-25, 18:09:47](https://news.ycombinator.com/item?id=45376605) - [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
 * [2025-09-25, 17:20:56](https://news.ycombinator.com/item?id=45375845) - [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
