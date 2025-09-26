@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-09-26, 15:33:51",
-      "https://news.ycombinator.com/item?id=45387687"
+      "2025-09-26, 15:44:12",
+      "https://news.ycombinator.com/item?id=45387796"
     ],
     [
-      "TikTok Sold for $14B",
-      "https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html"
+      "Flagship mobile phone with hardware kill switches for privacy",
+      "https://news.itsfoss.com/murena-powered-hiroh-phone/"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 15:17:31",
+      "https://news.ycombinator.com/item?id=45387494"
+    ],
+    [
+      "SpaceX – Evolving the Multi-User Spaceport",
+      "https://www.spacex.com/updates#multiuser-spaceport"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 15:16:57",
+      "https://news.ycombinator.com/item?id=45387485"
+    ],
+    [
+      "Better health conversations: Research on a \"wayfinding\" AI agent based on Gemini",
+      "https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "Fast UDP I/O for Firefox in Rust",
       "https://max-inden.de/post/fast-udp-io-in-firefox/"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 15:11:31",
+      "https://news.ycombinator.com/item?id=45387421"
+    ],
+    [
+      "Show HN: Dreamtap – Make your AI more creative",
+      "https://dreamtap.xyz/"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "They don't make 'em like that any more: Dyson Pure Cool-Me personal air purifier",
       "https://kevinboone.me/cool-me.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 14:49:07",
+      "https://news.ycombinator.com/item?id=45387155"
+    ],
+    [
+      "How to stop AI's \"lethal trifecta\"",
+      "https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta"
     ]
   ],
   [
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2025-09-26, 01:43:57",
-      "https://news.ycombinator.com/item?id=45381631"
-    ],
-    [
-      "Bit is all we need: binary normalized neural networks",
-      "https://arxiv.org/abs/2509.07025"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 00:14:11",
       "https://news.ycombinator.com/item?id=45381010"
     ],
     [
       "Investigating a Forged PDF",
       "https://mjg59.dreamwidth.org/73317.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 23:34:46",
-      "https://news.ycombinator.com/item?id=45380699"
-    ],
-    [
-      "Redis is fast – I'll cache in Postgres",
-      "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-09-25, 13:19:47",
-      "https://news.ycombinator.com/item?id=45372335"
-    ],
-    [
-      "Demand for human radiologists is at an all-time high",
-      "https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists"
-    ]
-  ],
-  [
-    [
       "2025-09-24, 08:29:58",
       "https://news.ycombinator.com/item?id=45357732"
     ],
     [
       "Traefik's 10-Year Journey from Zero to Standard",
       "https://traefik.io/blog/celebrating-10-years-of-traefik"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 20:55:06",
-      "https://news.ycombinator.com/item?id=45352633"
-    ],
-    [
-      "A history of ARM, part 1: Building the first chip (2022)",
-      "https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/"
     ]
   ],
   [
