@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 17:00:46](https://news.ycombinator.com/item?id=45388675) - [Gauntlet AI (YC S17) is looking for engineers who want to master AI](https://apply.gauntletai.com/)
+* [2025-09-26, 16:35:09](https://news.ycombinator.com/item?id=45388380) - [Process Tracing Projects](https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects)
+* [2025-09-26, 16:04:27](https://news.ycombinator.com/item?id=45388054) - [Ubuntu 25.10's Rust Coreutils Is Causing Major Breakage for Some Executables](https://www.phoronix.com/news/Ubuntu-25.10-Coreutils-Makeself)
+* [2025-09-26, 16:01:55](https://news.ycombinator.com/item?id=45388021) - [Open Social](https://overreacted.io/open-social/)
 * [2025-09-26, 15:44:12](https://news.ycombinator.com/item?id=45387796) - [Flagship mobile phone with hardware kill switches for privacy](https://news.itsfoss.com/murena-powered-hiroh-phone/)
 * [2025-09-26, 15:33:51](https://news.ycombinator.com/item?id=45387687) - [TikTok Sold for $14B](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html)
 * [2025-09-26, 15:17:31](https://news.ycombinator.com/item?id=45387494) - [SpaceX – Evolving the Multi-User Spaceport](https://www.spacex.com/updates#multiuser-spaceport)
@@ -14,6 +18,7 @@
 * [2025-09-26, 15:05:11](https://news.ycombinator.com/item?id=45387356) - [Hundreds of Diplomats stage walkout from UN as Netanyahu enters to speak](https://www.timesofisrael.com/liveblog_entry/hundreds-of-diplomats-stage-walkout-from-un-general-assembly-as-netanyahu-enters-to-speak/)
 * [2025-09-26, 15:02:53](https://news.ycombinator.com/item?id=45387337) - [Did a US Chess Champion Cheat?](https://www.chicagobooth.edu/review/did-us-chess-champion-cheat)
 * [2025-09-26, 14:56:04](https://news.ycombinator.com/item?id=45387242) - [They don't make 'em like that any more: Dyson Pure Cool-Me personal air purifier](https://kevinboone.me/cool-me.html)
+* [2025-09-26, 14:53:34](https://news.ycombinator.com/item?id=45387214) - [When hackathon judging is a public benchmark: my report from Hack the North](https://github.com/trycua/cua/blob/main/blog/hack-the-north.md)
 * [2025-09-26, 14:49:07](https://news.ycombinator.com/item?id=45387155) - [How to stop AI's \"lethal trifecta\"](https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta)
 * [2025-09-26, 14:49:05](https://news.ycombinator.com/item?id=45387154) - [JWST peers deep into the heart of star formation in our Milky Way galaxy](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-peers-deep-into-the-heart-of-star-formation-in-our-milky-way-galaxy)
 * [2025-09-26, 14:26:44](https://news.ycombinator.com/item?id=45386872) - [DeepFabric – Generate High-Quality Synthetic Datasets at Scale](https://lukehinds.github.io/deepfabric/)
