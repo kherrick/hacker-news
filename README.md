@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 22:17:18](https://news.ycombinator.com/item?id=45391568) - [Bell Labs Scientists Accidentally Proved the Big Bang Theory](https://spectrum.ieee.org/big-bang-theory-discovery)
 * [2025-09-26, 22:17:03](https://news.ycombinator.com/item?id=45391566) - [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
 * [2025-09-26, 22:13:56](https://news.ycombinator.com/item?id=45391543) - [Game over for pure LLMs. Even Rich Sutton has gotten off the bus](https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing)
 * [2025-09-26, 21:44:03](https://news.ycombinator.com/item?id=45391328) - [GriffonAD: A new tool to exploit bad configurations in Active Directory](https://github.com/shellinvictus/GriffonAD)
@@ -24,7 +25,6 @@
 * [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US cities pay too much for buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 02:09:47](https://news.ycombinator.com/item?id=45381810) - [Britain to introduce compulsory digital ID for workers](https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/)
 * [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)
-* [2025-09-24, 11:39:48](https://news.ycombinator.com/item?id=45358959) - [How to manage Python projects with Poetry](https://www.infoworld.com/article/2256032/how-to-manage-python-projects-with-poetry.html)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-year anniversary](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
 * [2025-09-23, 14:33:48](https://news.ycombinator.com/item?id=45347619) - [Ultra efficient vector extension for SQLite](https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite)
