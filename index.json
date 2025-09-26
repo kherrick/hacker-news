@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-26, 15:33:51",
+      "https://news.ycombinator.com/item?id=45387687"
+    ],
+    [
+      "TikTok Sold for $14B",
+      "https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 15:14:44",
+      "https://news.ycombinator.com/item?id=45387462"
+    ],
+    [
+      "Fast UDP I/O for Firefox in Rust",
+      "https://max-inden.de/post/fast-udp-io-in-firefox/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 15:06:42",
       "https://news.ycombinator.com/item?id=45387374"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-09-23, 23:08:00",
-      "https://news.ycombinator.com/item?id=45353986"
-    ],
-    [
-      "Walking around the compiler",
-      "https://bernsteinbear.com/blog/walking-around/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 20:55:06",
       "https://news.ycombinator.com/item?id=45352633"
     ],
@@ -257,16 +267,6 @@
     [
       "Ultra efficient vector extension for SQLite",
       "https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 13:11:32",
-      "https://news.ycombinator.com/item?id=45346538"
-    ],
-    [
-      "Cosmic simulations that once needed supercomputers now run on a laptop",
-      "https://www.sciencedaily.com/releases/2025/09/250918225001.htm"
     ]
   ],
   [
