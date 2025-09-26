@@ -25,9 +25,9 @@
 * [2025-09-26, 01:38:19](https://news.ycombinator.com/item?id=45381590) - [Exploit allows for takeover of fleets of Unitree robots](https://spectrum.ieee.org/unitree-robot-exploit)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-year anniversary](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-23, 17:27:37](https://news.ycombinator.com/item?id=45350207) - [Targetting specific characters with CSS rules](https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/)
-* [2025-09-23, 15:41:30](https://news.ycombinator.com/item?id=45348634) - [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
 * [2025-09-23, 14:33:48](https://news.ycombinator.com/item?id=45347619) - [Ultra efficient vector extension for SQLite](https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite)
 * [2025-09-23, 12:23:04](https://news.ycombinator.com/item?id=45346014) - [Bach Cello Suites (2024)](https://bachcellosuites.co.uk/)
+* [2025-09-22, 22:09:58](https://news.ycombinator.com/item?id=45340215) - [Imagining a language without booleans](https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html)
 * [2025-09-22, 17:33:20](https://news.ycombinator.com/item?id=45336775) - [Pairing with Claude Code to rebuild my startup's website](https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild)
 * [2025-09-22, 14:31:40](https://news.ycombinator.com/item?id=45334001) - [How to make sense of any mess](https://www.howtomakesenseofanymess.com)
 
