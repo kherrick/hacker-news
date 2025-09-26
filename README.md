@@ -5,7 +5,7 @@
 * [2025-09-26, 12:00:18](https://news.ycombinator.com/item?id=45385477) - [ParadeDB (YC S23) Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
 * [2025-09-26, 11:28:16](https://news.ycombinator.com/item?id=45385252) - [Facebook and Instagram to offer ad-free service in UK for up to £3.99 a month](https://www.theguardian.com/technology/2025/sep/26/facebook-and-instagram-to-offer-paid-ad-free-service-uk)
 * [2025-09-26, 09:52:45](https://news.ycombinator.com/item?id=45384653) - [Genode OS Framework](https://genode.org)
-* [2025-09-26, 09:46:13](https://news.ycombinator.com/item?id=45384617) - [Show HN: The Little Notebook for Learning Linear Algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
+* [2025-09-26, 09:46:13](https://news.ycombinator.com/item?id=45384617) - [Show HN: A little notebook for learning linear algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
 * [2025-09-26, 09:20:07](https://news.ycombinator.com/item?id=45384481) - [Pop OS 24.04 LTS Beta](https://system76.com/pop/pop-beta/)
 * [2025-09-26, 07:06:45](https://news.ycombinator.com/item?id=45383637) - [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
 * [2025-09-26, 04:47:40](https://news.ycombinator.com/item?id=45382755) - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
@@ -29,7 +29,7 @@
 * [2025-09-23, 13:11:32](https://news.ycombinator.com/item?id=45346538) - [Cosmic simulations that once needed supercomputers now run on a laptop](https://www.sciencedaily.com/releases/2025/09/250918225001.htm)
 * [2025-09-23, 11:18:24](https://news.ycombinator.com/item?id=45345447) - [Road to ZK Implementation: Nethermind Client's Path to Proofs](https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs)
 * [2025-09-22, 17:33:20](https://news.ycombinator.com/item?id=45336775) - [Pairing with Claude Code to rebuild my startup's website](https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild)
-* [2025-09-22, 14:31:40](https://news.ycombinator.com/item?id=45334001) - [How to Make Sense of Any Mess](https://www.howtomakesenseofanymess.com)
+* [2025-09-22, 14:31:40](https://news.ycombinator.com/item?id=45334001) - [How to make sense of any mess](https://www.howtomakesenseofanymess.com)
 
 ## [Archives](archives/index.md)
 
