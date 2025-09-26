@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US Cities Are Paying Too Much for New Transit Buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 13:50:53](https://news.ycombinator.com/item?id=45386499) - [Software CEO to Catholic panel: AI is more mass stupidity than mass unemployment](https://www.theregister.com/2025/09/26/ai_catholic_uni/)
 * [2025-09-26, 12:50:50](https://news.ycombinator.com/item?id=45385926) - [Abu Dhabi royal family to take stake in TikTok US](https://www.theguardian.com/technology/2025/sep/26/iktok-abu-dhabi-royal-family-stake-trump-deal-mgx)
 * [2025-09-26, 12:50:26](https://news.ycombinator.com/item?id=45385920) - ['Independent' auditors overvalue credits of carbon projects, study finds](https://news.mongabay.com/2025/09/independent-auditors-overvalue-credits-of-carbon-projects-study-finds/)

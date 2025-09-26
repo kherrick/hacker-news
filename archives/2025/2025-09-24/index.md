@@ -59,6 +59,7 @@
 * [2025-09-24, 10:26:23](https://news.ycombinator.com/item?id=45358433) - [My game's server is blocked in Spain whenever there's a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 09:56:04](https://news.ycombinator.com/item?id=45358216) - [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc)
+* [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-Year Journey from Zero to Standard](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
 * [2025-09-24, 07:05:46](https://news.ycombinator.com/item?id=45357222) - [Ruby Central Is Not Behaving in Good Faith, and I've Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)
 * [2025-09-24, 06:26:05](https://news.ycombinator.com/item?id=45356958) - [You didn't see it coming](https://aishwaryagoel.com/you-didnt-see-it-coming/)

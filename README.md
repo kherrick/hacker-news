@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US Cities Are Paying Too Much for New Transit Buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 13:50:53](https://news.ycombinator.com/item?id=45386499) - [Software CEO to Catholic panel: AI is more mass stupidity than mass unemployment](https://www.theregister.com/2025/09/26/ai_catholic_uni/)
-* [2025-09-26, 12:50:50](https://news.ycombinator.com/item?id=45385926) - [Abu Dhabi royal family to take stake in TikTok US](https://www.theguardian.com/technology/2025/sep/26/iktok-abu-dhabi-royal-family-stake-trump-deal-mgx)
 * [2025-09-26, 12:50:26](https://news.ycombinator.com/item?id=45385920) - ['Independent' auditors overvalue credits of carbon projects, study finds](https://news.mongabay.com/2025/09/independent-auditors-overvalue-credits-of-carbon-projects-study-finds/)
 * [2025-09-26, 12:00:18](https://news.ycombinator.com/item?id=45385477) - [ParadeDB (YC S23) Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
 * [2025-09-26, 09:52:45](https://news.ycombinator.com/item?id=45384653) - [Genode OS Framework](https://genode.org)
@@ -20,8 +20,8 @@
 * [2025-09-25, 17:20:56](https://news.ycombinator.com/item?id=45375845) - [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
 * [2025-09-25, 16:59:55](https://news.ycombinator.com/item?id=45375477) - [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
 * [2025-09-25, 14:33:50](https://news.ycombinator.com/item?id=45373081) - [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
-* [2025-09-25, 14:28:24](https://news.ycombinator.com/item?id=45373008) - [Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web](https://news.ycombinator.com/item?id=45373008)
 * [2025-09-25, 13:19:47](https://news.ycombinator.com/item?id=45372335) - [Demand for human radiologists is at an all-time high](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)
+* [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-Year Journey from Zero to Standard](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-23, 23:08:00](https://news.ycombinator.com/item?id=45353986) - [Walking around the compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-23, 20:55:06](https://news.ycombinator.com/item?id=45352633) - [A history of ARM, part 1: Building the first chip (2022)](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
 * [2025-09-23, 18:42:14](https://news.ycombinator.com/item?id=45351118) - [Checking that functions are constant time with Valgrind (2010)](https://www.imperialviolet.org/2010/04/01/ctgrind.html)
