@@ -5,7 +5,7 @@
 * [2025-09-26, 22:44:01](https://news.ycombinator.com/item?id=45391786) - [Why do we remember some life moments - but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
 * [2025-09-26, 22:17:18](https://news.ycombinator.com/item?id=45391568) - [Bell Labs Scientists Accidentally Proved the Big Bang Theory](https://spectrum.ieee.org/big-bang-theory-discovery)
 * [2025-09-26, 22:17:03](https://news.ycombinator.com/item?id=45391566) - [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
-* [2025-09-26, 22:01:45](https://news.ycombinator.com/item?id=45391461) - [Israel hacked every Gaza cellphone to stream PM Netanyahu's UN Speech live](https://twitter.com/israelipm/status/1971570108322480350)
+* [2025-09-26, 21:59:57](https://news.ycombinator.com/item?id=45391444) - [Moondream 3 Preview: Frontier-level reasoning at a blazing speed](https://moondream.ai/blog/moondream-3-preview)
 * [2025-09-26, 21:30:23](https://news.ycombinator.com/item?id=45391220) - [Understanding RL for model training, and future directions with GRAPE](https://arxiv.org/abs/2509.04501)
 * [2025-09-26, 21:12:56](https://news.ycombinator.com/item?id=45391078) - [The von Neumann bottleneck is impeding AI computing?](https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing)
 * [2025-09-26, 20:47:31](https://news.ycombinator.com/item?id=45390866) - [RNA structure prediction is hard. How much does that matter?](https://www.owlposting.com/p/rna-structure-prediction-is-hard)
