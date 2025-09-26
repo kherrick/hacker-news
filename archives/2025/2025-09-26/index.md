@@ -6,8 +6,12 @@
 
 * [2025-09-26, 15:06:42](https://news.ycombinator.com/item?id=45387374) - [Context is the bottleneck for coding agents now](https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now)
 * [2025-09-26, 15:05:11](https://news.ycombinator.com/item?id=45387356) - [Hundreds of Diplomats stage walkout from UN as Netanyahu enters to speak](https://www.timesofisrael.com/liveblog_entry/hundreds-of-diplomats-stage-walkout-from-un-general-assembly-as-netanyahu-enters-to-speak/)
+* [2025-09-26, 15:02:53](https://news.ycombinator.com/item?id=45387337) - [Did a US Chess Champion Cheat?](https://www.chicagobooth.edu/review/did-us-chess-champion-cheat)
+* [2025-09-26, 14:56:04](https://news.ycombinator.com/item?id=45387242) - [They don't make 'em like that any more: Dyson Pure Cool-Me personal air purifier](https://kevinboone.me/cool-me.html)
+* [2025-09-26, 14:49:05](https://news.ycombinator.com/item?id=45387154) - [JWST peers deep into the heart of star formation in our Milky Way galaxy](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-peers-deep-into-the-heart-of-star-formation-in-our-milky-way-galaxy)
 * [2025-09-26, 14:26:44](https://news.ycombinator.com/item?id=45386872) - [DeepFabric – Generate High-Quality Synthetic Datasets at Scale](https://lukehinds.github.io/deepfabric/)
 * [2025-09-26, 14:10:11](https://news.ycombinator.com/item?id=45386709) - [Starmer says people will not be able to work in UK without digital ID](https://www.bbc.com/news/live/cwydl81dg13t)
+* [2025-09-26, 14:08:33](https://news.ycombinator.com/item?id=45386690) - [Titanic's Sister, Britannic, Sank in 1916. Divers Have Recovered Artifacts](https://www.smithsonianmag.com/smart-news/the-titanics-sister-ship-the-britannic-sank-in-1916-for-the-first-time-ever-divers-have-recovered-artifacts-from-its-wreck-180987402/)
 * [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US Cities Are Paying Too Much for New Transit Buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 13:50:53](https://news.ycombinator.com/item?id=45386499) - [Software CEO to Catholic panel: AI is more mass stupidity than mass unemployment](https://www.theregister.com/2025/09/26/ai_catholic_uni/)
 * [2025-09-26, 12:50:50](https://news.ycombinator.com/item?id=45385926) - [Abu Dhabi royal family to take stake in TikTok US](https://www.theguardian.com/technology/2025/sep/26/iktok-abu-dhabi-royal-family-stake-trump-deal-mgx)
