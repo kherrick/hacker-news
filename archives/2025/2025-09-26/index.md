@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 20:47:31](https://news.ycombinator.com/item?id=45390866) - [RNA structure prediction is hard. How much does that matter?](https://www.owlposting.com/p/rna-structure-prediction-is-hard)
 * [2025-09-26, 19:27:23](https://news.ycombinator.com/item?id=45390121) - [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
 * [2025-09-26, 19:12:26](https://news.ycombinator.com/item?id=45389965) - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
 * [2025-09-26, 19:04:27](https://news.ycombinator.com/item?id=45389889) - [When Bruce Lee Trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)

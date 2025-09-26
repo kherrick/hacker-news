@@ -66,6 +66,7 @@
 * [2025-09-24, 06:26:05](https://news.ycombinator.com/item?id=45356958) - [You didn't see it coming](https://aishwaryagoel.com/you-didnt-see-it-coming/)
 * [2025-09-24, 05:56:35](https://news.ycombinator.com/item?id=45356781) - [Show HN: Inferencer – Run and deeply control local AI models (macOS release)](https://inferencer.com/)
 * [2025-09-24, 05:43:40](https://news.ycombinator.com/item?id=45356710) - [Neovate Code Is Open Sourced](https://neovateai.dev/en/blog/neovate-code-is-open-sourced/)
+* [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
 * [2025-09-24, 04:18:19](https://news.ycombinator.com/item?id=45356243) - [DE25-Nano FPGA Development and Education Board with ARM HPS and 2GB RAM](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1384)
 * [2025-09-24, 04:15:04](https://news.ycombinator.com/item?id=45356226) - [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
 * [2025-09-24, 03:27:41](https://news.ycombinator.com/item?id=45355965) - [New study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546)
