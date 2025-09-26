@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-26, 12:50:50",
+      "https://news.ycombinator.com/item?id=45385926"
+    ],
+    [
+      "Abu Dhabi royal family to take stake in TikTok US",
+      "https://www.theguardian.com/technology/2025/sep/26/iktok-abu-dhabi-royal-family-stake-trump-deal-mgx"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 12:50:26",
+      "https://news.ycombinator.com/item?id=45385920"
+    ],
+    [
+      "'Independent' auditors overvalue credits of carbon projects, study finds",
+      "https://news.mongabay.com/2025/09/independent-auditors-overvalue-credits-of-carbon-projects-study-finds/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 12:00:18",
       "https://news.ycombinator.com/item?id=45385477"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-09-26, 07:39:53",
-      "https://news.ycombinator.com/item?id=45383851"
-    ],
-    [
-      "Ode to Libraries from a Remote Worker",
-      "https://sibervepunk.com/ode-to-libraries/"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 07:06:45",
       "https://news.ycombinator.com/item?id=45383637"
     ],
@@ -97,16 +107,6 @@
     [
       "My Deus Ex lipsyncing fix mod",
       "https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 02:10:31",
-      "https://news.ycombinator.com/item?id=45381813"
-    ],
-    [
-      "Writing Memory Safe JIT Compilers",
-      "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-09-25, 12:48:50",
-      "https://news.ycombinator.com/item?id=45372113"
-    ],
-    [
-      "Resurrect the Old Web",
-      "https://stevedylandev.bearblog.dev/resurrect-the-old-web/"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 23:08:00",
       "https://news.ycombinator.com/item?id=45353986"
     ],
@@ -247,6 +237,16 @@
     [
       "A history of ARM, part 1: Building the first chip (2022)",
       "https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 18:42:14",
+      "https://news.ycombinator.com/item?id=45351118"
+    ],
+    [
+      "Checking that functions are constant time with Valgrind",
+      "https://www.imperialviolet.org/2010/04/01/ctgrind.html"
     ]
   ],
   [
