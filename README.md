@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 19:04:27](https://news.ycombinator.com/item?id=45389889) - [When Bruce Lee Trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
+* [2025-09-26, 18:23:26](https://news.ycombinator.com/item?id=45389500) - [Devious malware has jumped from Meta to Google Ads and YouTube to spread](https://www.techradar.com/pro/security/this-devious-malware-has-jumped-from-meta-over-to-google-ads-and-youtube-to-spread-heres-how-to-stay-safe)
 * [2025-09-26, 18:01:26](https://news.ycombinator.com/item?id=45389267) - [SimpleFold: Folding Proteins Is Simpler Than You Think](https://github.com/apple/ml-simplefold)
 * [2025-09-26, 17:11:20](https://news.ycombinator.com/item?id=45388770) - [Informed poll](https://pigweed.dev/pw_async2/informed_poll.html)
 * [2025-09-26, 17:06:48](https://news.ycombinator.com/item?id=45388728) - [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
@@ -9,8 +11,6 @@
 * [2025-09-26, 15:11:31](https://news.ycombinator.com/item?id=45387421) - [Show HN: Dreamtap – Make your AI more creative](https://dreamtap.xyz/)
 * [2025-09-26, 15:06:42](https://news.ycombinator.com/item?id=45387374) - [Context is the bottleneck for coding agents now](https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now)
 * [2025-09-26, 15:02:53](https://news.ycombinator.com/item?id=45387337) - [A recent chess controversy](https://www.chicagobooth.edu/review/did-us-chess-champion-cheat)
-* [2025-09-26, 14:56:04](https://news.ycombinator.com/item?id=45387242) - [They don't make 'em like that any more: Dyson Pure Cool-Me personal air purifier](https://kevinboone.me/cool-me.html)
-* [2025-09-26, 14:53:34](https://news.ycombinator.com/item?id=45387214) - [When hackathon judging is a public benchmark: my report from Hack the North](https://github.com/trycua/cua/blob/main/blog/hack-the-north.md)
 * [2025-09-26, 14:49:07](https://news.ycombinator.com/item?id=45387155) - [How to stop AI's \"lethal trifecta\"](https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta)
 * [2025-09-26, 14:26:44](https://news.ycombinator.com/item?id=45386872) - [DeepFabric – Generate high-quality synthetic datasets at scale](https://lukehinds.github.io/deepfabric/)
 * [2025-09-26, 14:08:33](https://news.ycombinator.com/item?id=45386690) - [Titanic's sister, Britannic, sank in 1916. Divers have recovered artifacts](https://www.smithsonianmag.com/smart-news/the-titanics-sister-ship-the-britannic-sank-in-1916-for-the-first-time-ever-divers-have-recovered-artifacts-from-its-wreck-180987402/)
