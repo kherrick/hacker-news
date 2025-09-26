@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-09-26, 17:00:46",
+      "https://news.ycombinator.com/item?id=45388675"
+    ],
+    [
+      "Gauntlet AI (YC S17) is looking for engineers who want to master AI",
+      "https://apply.gauntletai.com/"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 16:35:09",
+      "https://news.ycombinator.com/item?id=45388380"
+    ],
+    [
+      "Process Tracing Projects",
+      "https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 16:04:27",
+      "https://news.ycombinator.com/item?id=45388054"
+    ],
+    [
+      "Ubuntu 25.10's Rust Coreutils Is Causing Major Breakage for Some Executables",
+      "https://www.phoronix.com/news/Ubuntu-25.10-Coreutils-Makeself"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 16:01:55",
+      "https://news.ycombinator.com/item?id=45388021"
+    ],
+    [
+      "Open Social",
+      "https://overreacted.io/open-social/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 15:44:12",
       "https://news.ycombinator.com/item?id=45387796"
     ],
@@ -81,22 +121,22 @@
   ],
   [
     [
+      "2025-09-26, 14:53:34",
+      "https://news.ycombinator.com/item?id=45387214"
+    ],
+    [
+      "When hackathon judging is a public benchmark: my report from Hack the North",
+      "https://github.com/trycua/cua/blob/main/blog/hack-the-north.md"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 14:49:07",
       "https://news.ycombinator.com/item?id=45387155"
     ],
     [
       "How to stop AI's \"lethal trifecta\"",
       "https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 14:49:05",
-      "https://news.ycombinator.com/item?id=45387154"
-    ],
-    [
-      "JWST peers deep into the heart of star formation in our Milky Way galaxy",
-      "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-peers-deep-into-the-heart-of-star-formation-in-our-milky-way-galaxy"
     ]
   ],
   [
@@ -117,16 +157,6 @@
     [
       "Titanic's Sister, Britannic, Sank in 1916. Divers Have Recovered Artifacts",
       "https://www.smithsonianmag.com/smart-news/the-titanics-sister-ship-the-britannic-sank-in-1916-for-the-first-time-ever-divers-have-recovered-artifacts-from-its-wreck-180987402/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 12:00:18",
-      "https://news.ycombinator.com/item?id=45385477"
-    ],
-    [
-      "ParadeDB (YC S23) Is Hiring Database Internals Engineers",
-      "https://paradedb.notion.site/?source=copy_link"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2025-09-25, 19:21:52",
-      "https://news.ycombinator.com/item?id=45377641"
-    ],
-    [
-      "Ollama Web Search",
-      "https://ollama.com/blog/web-search"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 18:09:47",
-      "https://news.ycombinator.com/item?id=45376605"
-    ],
-    [
-      "Athlon 64: How AMD turned the tables on Intel",
-      "https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/"
-    ]
-  ],
-  [
-    [
       "2025-09-25, 17:20:56",
       "https://news.ycombinator.com/item?id=45375845"
     ],
@@ -277,16 +287,6 @@
     [
       "Ultra efficient vector extension for SQLite",
       "https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 17:33:20",
-      "https://news.ycombinator.com/item?id=45336775"
-    ],
-    [
-      "Pairing with Claude Code to rebuild my startup's website",
-      "https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild"
     ]
   ],
   [
