@@ -1,11 +1,51 @@
 [
   [
     [
+      "2025-09-26, 22:13:56",
+      "https://news.ycombinator.com/item?id=45391543"
+    ],
+    [
+      "Game over for pure LLMs. Even Rich Sutton has gotten off the bus",
+      "https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 22:01:45",
+      "https://news.ycombinator.com/item?id=45391461"
+    ],
+    [
+      "Israel hacked every Gaza cellphone to stream PM Netanyahu's UN Speech live",
+      "https://twitter.com/israelipm/status/1971570108322480350"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 21:44:03",
+      "https://news.ycombinator.com/item?id=45391328"
+    ],
+    [
+      "GriffonAD: A new tool to exploit bad configurations in Active Directory",
+      "https://github.com/shellinvictus/GriffonAD"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 21:40:38",
+      "https://news.ycombinator.com/item?id=45391299"
+    ],
+    [
+      "Gurted – A web ecosystem introducing the gurt:// protocol",
+      "https://gurted.com/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 21:12:56",
       "https://news.ycombinator.com/item?id=45391078"
     ],
     [
-      "Why a decades old architecture decision is impeding the power of AI computing",
+      "The von Neumann bottleneck is impeding AI computing?",
       "https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing"
     ]
   ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45390856"
     ],
     [
-      "How Insurance Risk Is Transformed into Investable Assets",
+      "How insurance risk is transformed into investable assets",
       "https://riskvest.io/riskvest-insights/transforming-insurance-risk"
     ]
   ],
@@ -91,12 +131,12 @@
   ],
   [
     [
-      "2025-09-26, 17:11:20",
-      "https://news.ycombinator.com/item?id=45388770"
+      "2025-09-26, 17:17:54",
+      "https://news.ycombinator.com/item?id=45388822"
     ],
     [
-      "Informed poll",
-      "https://pigweed.dev/pw_async2/informed_poll.html"
+      "Suno Studio, a Generative AI DAW",
+      "https://suno.com/studio-welcome"
     ]
   ],
   [
@@ -141,26 +181,6 @@
   ],
   [
     [
-      "2025-09-26, 15:11:31",
-      "https://news.ycombinator.com/item?id=45387421"
-    ],
-    [
-      "Show HN: Dreamtap – Make your AI more creative",
-      "https://dreamtap.xyz/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 14:49:07",
-      "https://news.ycombinator.com/item?id=45387155"
-    ],
-    [
-      "How to stop AI's \"lethal trifecta\"",
-      "https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 14:26:44",
       "https://news.ycombinator.com/item?id=45386872"
     ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2025-09-26, 07:06:45",
-      "https://news.ycombinator.com/item?id=45383637"
-    ],
-    [
-      "Translating a Fortran F-16 Simulator to Unity3D",
-      "https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 03:51:16",
-      "https://news.ycombinator.com/item?id=45382434"
-    ],
-    [
-      "Evanston orders Flock to remove reinstalled cameras",
-      "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 02:09:47",
       "https://news.ycombinator.com/item?id=45381810"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-09-24, 11:39:48",
+      "https://news.ycombinator.com/item?id=45358959"
+    ],
+    [
+      "How to manage Python projects with Poetry",
+      "https://www.infoworld.com/article/2256032/how-to-manage-python-projects-with-poetry.html"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 08:29:58",
       "https://news.ycombinator.com/item?id=45357732"
     ],
@@ -247,16 +257,6 @@
     [
       "The Beauty of Programming",
       "https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 17:27:37",
-      "https://news.ycombinator.com/item?id=45350207"
-    ],
-    [
-      "Targetting specific characters with CSS rules",
-      "https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/"
     ]
   ],
   [
