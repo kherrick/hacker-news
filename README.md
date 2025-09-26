@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 09:52:45](https://news.ycombinator.com/item?id=45384653) - [Genode OS Framework](https://genode.org)
 * [2025-09-26, 09:46:13](https://news.ycombinator.com/item?id=45384617) - [Show HN: The Little Notebook for Learning Linear Algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
 * [2025-09-26, 09:20:07](https://news.ycombinator.com/item?id=45384481) - [Pop OS is getting beta](https://system76.com/pop/pop-beta/)
 * [2025-09-26, 07:59:59](https://news.ycombinator.com/item?id=45383960) - [The great sameness: a comic on how AI makes us more alike](https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925)
@@ -10,9 +11,7 @@
 * [2025-09-26, 04:29:41](https://news.ycombinator.com/item?id=45382645) - [A platform-jumping prince – History of Prince of Persia's 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
 * [2025-09-26, 03:51:16](https://news.ycombinator.com/item?id=45382434) - [Evanston orders Flock to remove reinstalled cameras](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
 * [2025-09-26, 03:45:54](https://news.ycombinator.com/item?id=45382397) - [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
-* [2025-09-26, 02:10:31](https://news.ycombinator.com/item?id=45381813) - [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 * [2025-09-26, 01:43:57](https://news.ycombinator.com/item?id=45381631) - [Bit is all we need: binary normalized neural networks](https://arxiv.org/abs/2509.07025)
-* [2025-09-26, 01:38:19](https://news.ycombinator.com/item?id=45381590) - [Exploit allows for takeover of fleets of Unitree robots](https://spectrum.ieee.org/unitree-robot-exploit)
 * [2025-09-26, 00:14:11](https://news.ycombinator.com/item?id=45381010) - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
 * [2025-09-25, 23:34:46](https://news.ycombinator.com/item?id=45380699) - [Redis is fast – I'll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
 * [2025-09-25, 21:25:51](https://news.ycombinator.com/item?id=45379325) - [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
@@ -30,6 +29,7 @@
 * [2025-09-23, 18:08:57](https://news.ycombinator.com/item?id=45350736) - [I Survived the Zombie Apocalypse](https://getbruin.com/blog/zombie-tasks/)
 * [2025-09-23, 13:11:32](https://news.ycombinator.com/item?id=45346538) - [Cosmic simulations that once needed supercomputers now run on a laptop](https://www.sciencedaily.com/releases/2025/09/250918225001.htm)
 * [2025-09-23, 11:18:24](https://news.ycombinator.com/item?id=45345447) - [Road to ZK Implementation: Nethermind Client's Path to Proofs](https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs)
+* [2025-09-22, 14:31:40](https://news.ycombinator.com/item?id=45334001) - [How to Make Sense of Any Mess](https://www.howtomakesenseofanymess.com)
 
 ## [Archives](archives/index.md)
 

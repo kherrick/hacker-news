@@ -50,6 +50,7 @@
 * [2025-09-22, 15:03:58](https://news.ycombinator.com/item?id=45334467) - [Anti-*: The Things We Do but Not All the Way](https://blog.jim-nielsen.com/2025/my-antis/)
 * [2025-09-22, 14:49:16](https://news.ycombinator.com/item?id=45334250) - [A Simple Way to Measure Knots Has Come Unraveled](https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/)
 * [2025-09-22, 14:34:11](https://news.ycombinator.com/item?id=45334032) - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
+* [2025-09-22, 14:31:40](https://news.ycombinator.com/item?id=45334001) - [How to Make Sense of Any Mess](https://www.howtomakesenseofanymess.com)
 * [2025-09-22, 14:30:10](https://news.ycombinator.com/item?id=45333978) - [What is algebraic about algebraic effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-09-22, 13:56:03](https://news.ycombinator.com/item?id=45333548) - [Identity Types](https://bartoszmilewski.com/2025/09/22/identity-types/)
 * [2025-09-22, 13:29:33](https://news.ycombinator.com/item?id=45333190) - [What if we treated Postgres like SQLite?](https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite)
