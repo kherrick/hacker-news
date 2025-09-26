@@ -26,6 +26,7 @@
 * [2025-09-23, 19:09:13](https://news.ycombinator.com/item?id=45351405) - [Denmark wants to push through Chat Control](https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/)
 * [2025-09-23, 18:08:51](https://news.ycombinator.com/item?id=45350734) - [Random Mosaic – Detecting unauthorized physical access with colored rice (2021)](https://dys2p.com/en/2021-12-tamper-evident-protection.html)
 * [2025-09-23, 18:06:07](https://news.ycombinator.com/item?id=45350690) - [Find SF Parking Cops](https://walzr.com/sf-parking/)
+* [2025-09-23, 18:02:29](https://news.ycombinator.com/item?id=45350646) - [Hundreds plunge into Chicago River in first open-water swim in nearly a century](https://chicago.suntimes.com/outdoors/2025/09/21/swim-chicago-river-race-outdoors)
 * [2025-09-23, 17:04:56](https://news.ycombinator.com/item?id=45349848) - [Android users can now use conversational editing in Google Photos](https://blog.google/products/photos/android-conversational-editing-google-photos/)
 * [2025-09-23, 16:29:41](https://news.ycombinator.com/item?id=45349294) - [Nintendo Alerted After DHS Uses Pokémon to Promote ICE Raids](https://www.thedailybeast.com/nintendo-alerted-after-dhs-uses-pokemon-to-promote-ice-raids-tearing-families-apart/)
 * [2025-09-23, 16:25:46](https://news.ycombinator.com/item?id=45349231) - [U.S. Secret Service disrupts telecom network that threatened NYC during U.N](https://www.cbsnews.com/news/u-s-secret-service-disrupts-telecom-network-threatened-new-york-city-u-n-general-assembly/)
