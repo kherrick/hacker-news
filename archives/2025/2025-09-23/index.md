@@ -7,6 +7,7 @@
 * [2025-09-23, 23:42:50](https://news.ycombinator.com/item?id=45354314) - [The Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025)
 * [2025-09-23, 23:41:54](https://news.ycombinator.com/item?id=45354304) - [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system)
 * [2025-09-23, 23:36:16](https://news.ycombinator.com/item?id=45354262) - [NYC Telecom Raid: What's Up with Those Weird SIM Banks?](https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/)
+* [2025-09-23, 23:08:00](https://news.ycombinator.com/item?id=45353986) - [Walking Around the Compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-23, 21:34:58](https://news.ycombinator.com/item?id=45353052) - [Preventing IoT Edge Device Cloning](https://www.embedded.com/preventing-iot-device-cloning/)
 * [2025-09-23, 21:24:45](https://news.ycombinator.com/item?id=45352944) - [From Rust to Reality: The Hidden Journey of Fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
 * [2025-09-23, 21:20:15](https://news.ycombinator.com/item?id=45352901) - [Context Engineering for AI Agents: Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
