@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 18:01:26](https://news.ycombinator.com/item?id=45389267) - [SimpleFold: Folding Proteins Is Simpler Than You Think](https://github.com/apple/ml-simplefold)
 * [2025-09-26, 17:17:54](https://news.ycombinator.com/item?id=45388822) - [Suno Studio, a Generative AI DAW](https://suno.com/studio-welcome)
 * [2025-09-26, 17:11:20](https://news.ycombinator.com/item?id=45388770) - [Informed Poll](https://pigweed.dev/pw_async2/informed_poll.html)
 * [2025-09-26, 17:06:48](https://news.ycombinator.com/item?id=45388728) - [Thinking Machines – Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
