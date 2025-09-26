@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-09-26, 03:51:16",
+      "https://news.ycombinator.com/item?id=45382434"
+    ],
+    [
+      "Evanston orders Flock to remove reinstalled cameras",
+      "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 03:45:54",
       "https://news.ycombinator.com/item?id=45382397"
     ],
@@ -137,16 +147,6 @@
     [
       "Redis is fast – I'll cache in Postgres",
       "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 21:25:51",
-      "https://news.ycombinator.com/item?id=45379325"
-    ],
-    [
-      "RedoxFS is the default filesystem of Redox OS, inspired by ZFS",
-      "https://doc.redox-os.org/book/redoxfs.html"
     ]
   ],
   [
