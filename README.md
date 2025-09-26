@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 21:12:56](https://news.ycombinator.com/item?id=45391078) - [Why a decades old architecture decision is impeding the power of AI computing](https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing)
 * [2025-09-26, 20:47:31](https://news.ycombinator.com/item?id=45390866) - [RNA structure prediction is hard. How much does that matter?](https://www.owlposting.com/p/rna-structure-prediction-is-hard)
-* [2025-09-26, 19:27:23](https://news.ycombinator.com/item?id=45390121) - [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
+* [2025-09-26, 19:27:23](https://news.ycombinator.com/item?id=45390121) - [Why use mailing lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
 * [2025-09-26, 19:12:26](https://news.ycombinator.com/item?id=45389965) - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
 * [2025-09-26, 19:04:27](https://news.ycombinator.com/item?id=45389889) - [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
 * [2025-09-26, 18:20:33](https://news.ycombinator.com/item?id=45389464) - [Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer](https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer)
@@ -12,7 +13,6 @@
 * [2025-09-26, 16:01:55](https://news.ycombinator.com/item?id=45388021) - [Open Social](https://overreacted.io/open-social/)
 * [2025-09-26, 15:14:44](https://news.ycombinator.com/item?id=45387462) - [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
 * [2025-09-26, 15:11:31](https://news.ycombinator.com/item?id=45387421) - [Show HN: Dreamtap – Make your AI more creative](https://dreamtap.xyz/)
-* [2025-09-26, 15:02:53](https://news.ycombinator.com/item?id=45387337) - [A recent chess controversy](https://www.chicagobooth.edu/review/did-us-chess-champion-cheat)
 * [2025-09-26, 14:49:07](https://news.ycombinator.com/item?id=45387155) - [How to stop AI's \"lethal trifecta\"](https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta)
 * [2025-09-26, 14:26:44](https://news.ycombinator.com/item?id=45386872) - [DeepFabric – Generate high-quality synthetic datasets at scale](https://lukehinds.github.io/deepfabric/)
 * [2025-09-26, 14:08:33](https://news.ycombinator.com/item?id=45386690) - [Titanic's sister, Britannic, sank in 1916. Divers have recovered artifacts](https://www.smithsonianmag.com/smart-news/the-titanics-sister-ship-the-britannic-sank-in-1916-for-the-first-time-ever-divers-have-recovered-artifacts-from-its-wreck-180987402/)
