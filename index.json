@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-09-26, 01:37:10",
+      "https://news.ycombinator.com/item?id=45381584"
+    ],
+    [
+      "Cloudflare Data Platform",
+      "https://blog.cloudflare.com/cloudflare-data-platform/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 00:14:44",
       "https://news.ycombinator.com/item?id=45381013"
     ],
@@ -117,16 +127,6 @@
     [
       "Ollama Web Search",
       "https://ollama.com/blog/web-search"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 18:40:22",
-      "https://news.ycombinator.com/item?id=45377030"
-    ],
-    [
-      "Tracing JITs in the Real World CPython Core Dev Sprint",
-      "https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/"
     ]
   ],
   [
