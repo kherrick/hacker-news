@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 14:26:44](https://news.ycombinator.com/item?id=45386872) - [DeepFabric – Generate High-Quality Synthetic Datasets at Scale](https://lukehinds.github.io/deepfabric/)
 * [2025-09-26, 14:10:11](https://news.ycombinator.com/item?id=45386709) - [Starmer says people will not be able to work in UK without digital ID](https://www.bbc.com/news/live/cwydl81dg13t)
 * [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US Cities Are Paying Too Much for New Transit Buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 13:50:53](https://news.ycombinator.com/item?id=45386499) - [Software CEO to Catholic panel: AI is more mass stupidity than mass unemployment](https://www.theregister.com/2025/09/26/ai_catholic_uni/)

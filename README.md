@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 14:26:44](https://news.ycombinator.com/item?id=45386872) - [DeepFabric – Generate High-Quality Synthetic Datasets at Scale](https://lukehinds.github.io/deepfabric/)
 * [2025-09-26, 14:10:11](https://news.ycombinator.com/item?id=45386709) - [Starmer says people will not be able to work in UK without digital ID](https://www.bbc.com/news/live/cwydl81dg13t)
 * [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US Cities Are Paying Too Much for New Transit Buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 13:50:53](https://news.ycombinator.com/item?id=45386499) - [Software CEO to Catholic panel: AI is more mass stupidity than mass unemployment](https://www.theregister.com/2025/09/26/ai_catholic_uni/)
@@ -24,7 +25,6 @@
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-Year Journey from Zero to Standard](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-23, 23:08:00](https://news.ycombinator.com/item?id=45353986) - [Walking around the compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-23, 20:55:06](https://news.ycombinator.com/item?id=45352633) - [A history of ARM, part 1: Building the first chip (2022)](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
-* [2025-09-23, 18:42:14](https://news.ycombinator.com/item?id=45351118) - [Checking that functions are constant time with Valgrind (2010)](https://www.imperialviolet.org/2010/04/01/ctgrind.html)
 * [2025-09-23, 18:08:57](https://news.ycombinator.com/item?id=45350736) - [A story about hunting zombie tasks in a distributed environment](https://getbruin.com/blog/zombie-tasks/)
 * [2025-09-23, 13:11:32](https://news.ycombinator.com/item?id=45346538) - [Cosmic simulations that once needed supercomputers now run on a laptop](https://www.sciencedaily.com/releases/2025/09/250918225001.htm)
 * [2025-09-23, 11:18:24](https://news.ycombinator.com/item?id=45345447) - [Road to ZK Implementation: Nethermind Client's Path to Proofs](https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs)
