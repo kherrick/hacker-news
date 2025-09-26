@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-26, 23:12:07",
+      "https://news.ycombinator.com/item?id=45391987"
+    ],
+    [
+      "Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention",
+      "https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 22:57:57",
       "https://news.ycombinator.com/item?id=45391871"
     ],
@@ -197,16 +207,6 @@
     [
       "Fast UDP I/O for Firefox in Rust",
       "https://max-inden.de/post/fast-udp-io-in-firefox/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 14:26:44",
-      "https://news.ycombinator.com/item?id=45386872"
-    ],
-    [
-      "DeepFabric – Generate high-quality synthetic datasets at scale",
-      "https://lukehinds.github.io/deepfabric/"
     ]
   ],
   [
