@@ -2,9 +2,8 @@
 
 * [2025-09-26, 22:17:18](https://news.ycombinator.com/item?id=45391568) - [Bell Labs Scientists Accidentally Proved the Big Bang Theory](https://spectrum.ieee.org/big-bang-theory-discovery)
 * [2025-09-26, 22:17:03](https://news.ycombinator.com/item?id=45391566) - [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
-* [2025-09-26, 22:13:56](https://news.ycombinator.com/item?id=45391543) - [Game over for pure LLMs. Even Rich Sutton has gotten off the bus](https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing)
+* [2025-09-26, 21:59:57](https://news.ycombinator.com/item?id=45391444) - [Moondream 3 Preview: Frontier-level reasoning at a blazing speed](https://moondream.ai/blog/moondream-3-preview)
 * [2025-09-26, 21:44:03](https://news.ycombinator.com/item?id=45391328) - [GriffonAD: A new tool to exploit bad configurations in Active Directory](https://github.com/shellinvictus/GriffonAD)
-* [2025-09-26, 21:40:38](https://news.ycombinator.com/item?id=45391299) - [Gurted – A web ecosystem introducing the gurt:// protocol](https://gurted.com/)
 * [2025-09-26, 21:30:23](https://news.ycombinator.com/item?id=45391220) - [Understanding RL for model training, and future directions with GRAPE](https://arxiv.org/abs/2509.04501)
 * [2025-09-26, 21:12:56](https://news.ycombinator.com/item?id=45391078) - [The von Neumann bottleneck is impeding AI computing?](https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing)
 * [2025-09-26, 20:47:31](https://news.ycombinator.com/item?id=45390866) - [RNA structure prediction is hard. How much does that matter?](https://www.owlposting.com/p/rna-structure-prediction-is-hard)
@@ -12,6 +11,7 @@
 * [2025-09-26, 19:27:23](https://news.ycombinator.com/item?id=45390121) - [Why use mailing lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
 * [2025-09-26, 19:12:26](https://news.ycombinator.com/item?id=45389965) - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
 * [2025-09-26, 19:04:27](https://news.ycombinator.com/item?id=45389889) - [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
+* [2025-09-26, 18:39:57](https://news.ycombinator.com/item?id=45389674) - [Gunman in shooting at NFL headquarters had CTE: Medical examiner](https://abcnews.go.com/US/shane-tamura-gunman-shooting-nfl-headquarters-cte-medical/story?id=125972038)
 * [2025-09-26, 18:20:33](https://news.ycombinator.com/item?id=45389464) - [Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer](https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer)
 * [2025-09-26, 18:04:29](https://news.ycombinator.com/item?id=45389293) - [Auth.js is now part of Better Auth](https://www.better-auth.com/blog/authjs-joins-better-auth)
 * [2025-09-26, 18:01:26](https://news.ycombinator.com/item?id=45389267) - [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
