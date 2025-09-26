@@ -39,6 +39,7 @@
 * [2025-09-23, 15:50:10](https://news.ycombinator.com/item?id=45348730) - [Show HN: FlyCode – Recover Stripe payments by automatically using backup cards](https://news.ycombinator.com/item?id=45348730)
 * [2025-09-23, 15:47:35](https://news.ycombinator.com/item?id=45348700) - [\"If you are reading this obituary, it looks like I'm dead. It happened\"](https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/)
 * [2025-09-23, 15:44:13](https://news.ycombinator.com/item?id=45348665) - [New element Web and desktop design](https://element.io/blog/new-element-web-and-desktop-apps-have-distinct-element-x-vibes/)
+* [2025-09-23, 15:41:30](https://news.ycombinator.com/item?id=45348634) - [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
 * [2025-09-23, 15:33:23](https://news.ycombinator.com/item?id=45348495) - [Always Invite Anna](https://sharif.io/anna-alexei)
 * [2025-09-23, 15:28:03](https://news.ycombinator.com/item?id=45348421) - [Are Elites Meritocratic and Efficiency-Seeking? Evidence from MBA Students](https://arxiv.org/abs/2503.15443)
 * [2025-09-23, 15:25:29](https://news.ycombinator.com/item?id=45348390) - [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/)
