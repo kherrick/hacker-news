@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-26, 11:02:43",
-      "https://news.ycombinator.com/item?id=45385092"
+      "2025-09-26, 12:00:18",
+      "https://news.ycombinator.com/item?id=45385477"
     ],
     [
-      "UK officially rolls out digital ID scheme",
-      "https://www.gov.uk/government/news/new-digital-id-scheme-to-be-rolled-out-across-uk"
+      "ParadeDB (YC S23) Is Hiring Database Internals Engineers",
+      "https://paradedb.notion.site/?source=copy_link"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 11:28:16",
+      "https://news.ycombinator.com/item?id=45385252"
+    ],
+    [
+      "Facebook and Instagram to offer ad-free service in UK for up to £3.99 a month",
+      "https://www.theguardian.com/technology/2025/sep/26/facebook-and-instagram-to-offer-paid-ad-free-service-uk"
     ]
   ],
   [
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=45384481"
     ],
     [
-      "Pop OS is getting beta",
+      "Pop OS 24.04 LTS Beta",
       "https://system76.com/pop/pop-beta/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 07:59:59",
-      "https://news.ycombinator.com/item?id=45383960"
-    ],
-    [
-      "The great sameness: a comic on how AI makes us more alike",
-      "https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Translating a Fortran F-16 Simulator to Unity3D",
       "https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 07:01:52",
-      "https://news.ycombinator.com/item?id=45383612"
-    ],
-    [
-      "Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)",
-      "https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45350736"
     ],
     [
-      "I Survived the Zombie Apocalypse",
+      "A story about hunting zombie tasks in a distributed environment",
       "https://getbruin.com/blog/zombie-tasks/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Road to ZK Implementation: Nethermind Client's Path to Proofs",
       "https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 17:33:20",
+      "https://news.ycombinator.com/item?id=45336775"
+    ],
+    [
+      "Pairing with Claude Code to rebuild my startup's website",
+      "https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild"
     ]
   ],
   [
