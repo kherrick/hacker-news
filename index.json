@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-26, 07:39:53",
+      "https://news.ycombinator.com/item?id=45383851"
+    ],
+    [
+      "Ode to Libraries from a Remote Worker",
+      "https://sibervepunk.com/ode-to-libraries/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 07:06:45",
       "https://news.ycombinator.com/item?id=45383637"
     ],
@@ -27,16 +37,6 @@
     [
       "Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)",
       "https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 06:45:28",
-      "https://news.ycombinator.com/item?id=45383483"
-    ],
-    [
-      "Safe in the sandbox: security hardening for Cloudflare Workers",
-      "https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-09-23, 11:18:24",
+      "https://news.ycombinator.com/item?id=45345447"
+    ],
+    [
+      "Road to ZK Implementation: Nethermind Client's Path to Proofs",
+      "https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 08:16:30",
       "https://news.ycombinator.com/item?id=45344250"
     ],
     [
       "Wild performance tricks",
       "https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 10:20:57",
-      "https://news.ycombinator.com/item?id=45331372"
-    ],
-    [
-      "Aerospace Structures",
-      "https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/aerospace-structures/"
     ]
   ]
 ]
