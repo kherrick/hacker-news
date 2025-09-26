@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 22:17:03](https://news.ycombinator.com/item?id=45391566) - [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
 * [2025-09-26, 22:13:56](https://news.ycombinator.com/item?id=45391543) - [Game over for pure LLMs. Even Rich Sutton has gotten off the bus](https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing)
-* [2025-09-26, 22:01:45](https://news.ycombinator.com/item?id=45391461) - [Israel hacked every Gaza cellphone to stream PM Netanyahu's UN Speech live](https://twitter.com/israelipm/status/1971570108322480350)
 * [2025-09-26, 21:44:03](https://news.ycombinator.com/item?id=45391328) - [GriffonAD: A new tool to exploit bad configurations in Active Directory](https://github.com/shellinvictus/GriffonAD)
 * [2025-09-26, 21:40:38](https://news.ycombinator.com/item?id=45391299) - [Gurted – A web ecosystem introducing the gurt:// protocol](https://gurted.com/)
+* [2025-09-26, 21:30:23](https://news.ycombinator.com/item?id=45391220) - [Understanding RL for model training, and future directions with GRAPE](https://arxiv.org/abs/2509.04501)
 * [2025-09-26, 21:12:56](https://news.ycombinator.com/item?id=45391078) - [The von Neumann bottleneck is impeding AI computing?](https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing)
 * [2025-09-26, 20:47:31](https://news.ycombinator.com/item?id=45390866) - [RNA structure prediction is hard. How much does that matter?](https://www.owlposting.com/p/rna-structure-prediction-is-hard)
 * [2025-09-26, 20:46:26](https://news.ycombinator.com/item?id=45390856) - [How insurance risk is transformed into investable assets](https://riskvest.io/riskvest-insights/transforming-insurance-risk)
@@ -28,7 +29,6 @@
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
 * [2025-09-23, 14:33:48](https://news.ycombinator.com/item?id=45347619) - [Ultra efficient vector extension for SQLite](https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite)
 * [2025-09-23, 12:23:04](https://news.ycombinator.com/item?id=45346014) - [Bach Cello Suites (2024)](https://bachcellosuites.co.uk/)
-* [2025-09-22, 17:33:20](https://news.ycombinator.com/item?id=45336775) - [Pairing with Claude Code to rebuild my startup's website](https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild)
 * [2025-09-22, 14:31:40](https://news.ycombinator.com/item?id=45334001) - [How to make sense of any mess](https://www.howtomakesenseofanymess.com)
 
 ## [Archives](archives/index.md)
