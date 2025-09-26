@@ -17,6 +17,7 @@
 * [2025-09-24, 21:00:00](https://news.ycombinator.com/item?id=45365878) - [SonyShell – an effort to \"SSH into my Sony DSLR\"](https://github.com/goudvuur/sonyshell)
 * [2025-09-24, 19:44:29](https://news.ycombinator.com/item?id=45365107) - [Diffusion Finetuning Myself](https://vassi.life/projects/diffinetune)
 * [2025-09-24, 19:35:29](https://news.ycombinator.com/item?id=45365001) - [How Secure is Tor? Not secure at all](https://csam-bib.github.io/security/)
+* [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)
 * [2025-09-24, 18:54:20](https://news.ycombinator.com/item?id=45364514) - [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)
 * [2025-09-24, 18:48:39](https://news.ycombinator.com/item?id=45364450) - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
 * [2025-09-24, 18:20:49](https://news.ycombinator.com/item?id=45364103) - [Giving users choice with Cloudflare's new Content Signals Policy](https://blog.cloudflare.com/content-signals-policy/)
