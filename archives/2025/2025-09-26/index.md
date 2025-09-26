@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 19:27:23](https://news.ycombinator.com/item?id=45390121) - [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
 * [2025-09-26, 19:12:26](https://news.ycombinator.com/item?id=45389965) - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
 * [2025-09-26, 19:04:27](https://news.ycombinator.com/item?id=45389889) - [When Bruce Lee Trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
 * [2025-09-26, 18:23:26](https://news.ycombinator.com/item?id=45389500) - [Devious malware has jumped from Meta to Google Ads and YouTube to spread](https://www.techradar.com/pro/security/this-devious-malware-has-jumped-from-meta-over-to-google-ads-and-youtube-to-spread-heres-how-to-stay-safe)
