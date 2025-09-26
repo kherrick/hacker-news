@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-26, 09:52:45",
+      "https://news.ycombinator.com/item?id=45384653"
+    ],
+    [
+      "Genode OS Framework",
+      "https://genode.org"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 09:46:13",
       "https://news.ycombinator.com/item?id=45384617"
     ],
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2025-09-26, 02:10:31",
-      "https://news.ycombinator.com/item?id=45381813"
-    ],
-    [
-      "Writing Memory Safe JIT Compilers",
-      "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 01:43:57",
       "https://news.ycombinator.com/item?id=45381631"
     ],
     [
       "Bit is all we need: binary normalized neural networks",
       "https://arxiv.org/abs/2509.07025"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 01:38:19",
-      "https://news.ycombinator.com/item?id=45381590"
-    ],
-    [
-      "Exploit allows for takeover of fleets of Unitree robots",
-      "https://spectrum.ieee.org/unitree-robot-exploit"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Road to ZK Implementation: Nethermind Client's Path to Proofs",
       "https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 14:31:40",
+      "https://news.ycombinator.com/item?id=45334001"
+    ],
+    [
+      "How to Make Sense of Any Mess",
+      "https://www.howtomakesenseofanymess.com"
     ]
   ]
 ]
