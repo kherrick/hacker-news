@@ -61,6 +61,7 @@
 * [2025-09-23, 13:11:32](https://news.ycombinator.com/item?id=45346538) - [Cosmic simulations that once needed supercomputers now run on a laptop](https://www.sciencedaily.com/releases/2025/09/250918225001.htm)
 * [2025-09-23, 12:56:00](https://news.ycombinator.com/item?id=45346387) - [Why Zig Feels More Practical Than Rust](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/)
 * [2025-09-23, 12:52:08](https://news.ycombinator.com/item?id=45346343) - [The Secret Service found 300 servers capable of crippling NYC's cell system](https://www.cnn.com/2025/09/23/us/swatting-investigation-server-network-discovered)
+* [2025-09-23, 12:45:58](https://news.ycombinator.com/item?id=45346259) - [Reverse-Engineering the LCD Display Interface of the Nest 2nd Gen Thermostat](https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface)
 * [2025-09-23, 12:41:36](https://news.ycombinator.com/item?id=45346219) - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
 * [2025-09-23, 12:23:04](https://news.ycombinator.com/item?id=45346014) - [Bach Cello Suites](https://bachcellosuites.co.uk/)
 * [2025-09-23, 12:20:36](https://news.ycombinator.com/item?id=45345985) - [US Secret Service dismantles imminent telecommunications threat NY tristate area](https://www.secretservice.gov/newsroom/releases/2025/09/us-secret-service-dismantles-imminent-telecommunications-threat-new-york)

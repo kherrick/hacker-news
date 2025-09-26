@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 02:10:31](https://news.ycombinator.com/item?id=45381813) - [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
+* [2025-09-26, 01:38:19](https://news.ycombinator.com/item?id=45381590) - [Exploit Allows for Takeover of Fleets of Unitree Robots](https://spectrum.ieee.org/unitree-robot-exploit)
 * [2025-09-26, 00:14:44](https://news.ycombinator.com/item?id=45381013) - [The Digital Markets Act: time for a reset](https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/)
 * [2025-09-26, 00:14:11](https://news.ycombinator.com/item?id=45381010) - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
 * [2025-09-25, 23:36:59](https://news.ycombinator.com/item?id=45380726) - [Bluesky Alt Text Stream](https://bobbiec.github.io/bluesky-alt-text.html)
 * [2025-09-25, 23:34:46](https://news.ycombinator.com/item?id=45380699) - [Redis is fast – I'll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
-* [2025-09-25, 23:33:46](https://news.ycombinator.com/item?id=45380690) - [Apple Demands EU Repeal the Digital Markets Act](https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/)
-* [2025-09-25, 23:31:18](https://news.ycombinator.com/item?id=45380671) - [The Word Made Lifeless. Are we becoming stochastic parrots?](https://hedgehogreview.com/issues/lessons-of-babel/articles/the-word-made-lifeless)
 * [2025-09-25, 21:25:51](https://news.ycombinator.com/item?id=45379325) - [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
 * [2025-09-25, 20:53:40](https://news.ycombinator.com/item?id=45378910) - [Factory Raises $50M Series B](https://factory.ai/news/series-b)
 * [2025-09-25, 20:50:05](https://news.ycombinator.com/item?id=45378871) - [New Quasi-Moon Discovered Orbiting Earth, but It's Been Around for Decades](https://explorersweb.com/new-quasi-moon-discovered-orbiting-earth-but-its-been-around-for-decades/)
@@ -28,7 +28,7 @@
 * [2025-09-24, 02:50:18](https://news.ycombinator.com/item?id=45355746) - [What Happens to Artists' Studios After They Die?](https://www.nytimes.com/2025/09/22/t-magazine/artist-studio-legacy-posthumous.html)
 * [2025-09-23, 13:54:10](https://news.ycombinator.com/item?id=45347072) - [Brutalita Sans: An Experimental Font and Font Editor](https://brutalita.com/)
 * [2025-09-23, 13:11:32](https://news.ycombinator.com/item?id=45346538) - [Cosmic simulations that once needed supercomputers now run on a laptop](https://www.sciencedaily.com/releases/2025/09/250918225001.htm)
-* [2025-09-22, 22:37:30](https://news.ycombinator.com/item?id=45340469) - [How Gifshuffle Works](https://darkside.com.au/gifshuffle/description.html)
+* [2025-09-23, 12:45:58](https://news.ycombinator.com/item?id=45346259) - [Reverse-Engineering the LCD Display Interface of the Nest 2nd Gen Thermostat](https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface)
 * [2025-09-22, 22:15:23](https://news.ycombinator.com/item?id=45340278) - [Identity Types](https://bartoszmilewski.com/2025/09/22/identity-types/)
 
 ## [Archives](archives/index.md)
