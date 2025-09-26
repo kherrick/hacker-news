@@ -23,13 +23,13 @@
 * [2025-09-25, 14:28:24](https://news.ycombinator.com/item?id=45373008) - [Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web](https://news.ycombinator.com/item?id=45373008)
 * [2025-09-25, 13:19:47](https://news.ycombinator.com/item?id=45372335) - [Demand for human radiologists is at an all-time high](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)
 * [2025-09-25, 12:48:50](https://news.ycombinator.com/item?id=45372113) - [Resurrect the Old Web](https://stevedylandev.bearblog.dev/resurrect-the-old-web/)
-* [2025-09-25, 07:52:28](https://news.ycombinator.com/item?id=45370304) - [Raspberry Pi 500+](https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/)
 * [2025-09-23, 23:08:00](https://news.ycombinator.com/item?id=45353986) - [Walking Around the Compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-23, 20:55:06](https://news.ycombinator.com/item?id=45352633) - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
 * [2025-09-23, 13:11:32](https://news.ycombinator.com/item?id=45346538) - [Cosmic simulations that once needed supercomputers now run on a laptop](https://www.sciencedaily.com/releases/2025/09/250918225001.htm)
 * [2025-09-23, 12:45:58](https://news.ycombinator.com/item?id=45346259) - [Reverse-Engineering the LCD Display Interface of the Nest 2nd Gen Thermostat](https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface)
 * [2025-09-23, 11:18:24](https://news.ycombinator.com/item?id=45345447) - [Road to ZK Implementation: Nethermind Client's Path to Proofs](https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs)
 * [2025-09-23, 08:16:30](https://news.ycombinator.com/item?id=45344250) - [Wild performance tricks](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
+* [2025-09-22, 10:20:57](https://news.ycombinator.com/item?id=45331372) - [Aerospace Structures](https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/aerospace-structures/)
 
 ## [Archives](archives/index.md)
 
