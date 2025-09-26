@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 19:12:26](https://news.ycombinator.com/item?id=45389965) - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
 * [2025-09-26, 19:04:27](https://news.ycombinator.com/item?id=45389889) - [When Bruce Lee Trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
-* [2025-09-26, 18:23:26](https://news.ycombinator.com/item?id=45389500) - [Devious malware has jumped from Meta to Google Ads and YouTube to spread](https://www.techradar.com/pro/security/this-devious-malware-has-jumped-from-meta-over-to-google-ads-and-youtube-to-spread-heres-how-to-stay-safe)
+* [2025-09-26, 18:04:29](https://news.ycombinator.com/item?id=45389293) - [Auth.js Joining Better Auth](https://www.better-auth.com/blog/authjs-joins-better-auth)
 * [2025-09-26, 18:01:26](https://news.ycombinator.com/item?id=45389267) - [SimpleFold: Folding Proteins Is Simpler Than You Think](https://github.com/apple/ml-simplefold)
 * [2025-09-26, 17:11:20](https://news.ycombinator.com/item?id=45388770) - [Informed poll](https://pigweed.dev/pw_async2/informed_poll.html)
 * [2025-09-26, 17:06:48](https://news.ycombinator.com/item?id=45388728) - [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
@@ -20,7 +21,6 @@
 * [2025-09-26, 07:06:45](https://news.ycombinator.com/item?id=45383637) - [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
 * [2025-09-26, 04:47:40](https://news.ycombinator.com/item?id=45382755) - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
 * [2025-09-26, 03:51:16](https://news.ycombinator.com/item?id=45382434) - [Evanston orders Flock to remove reinstalled cameras](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
-* [2025-09-26, 03:45:54](https://news.ycombinator.com/item?id=45382397) - [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
 * [2025-09-26, 02:09:47](https://news.ycombinator.com/item?id=45381810) - [Britain to introduce compulsory digital ID for workers](https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/)
 * [2025-09-26, 01:38:19](https://news.ycombinator.com/item?id=45381590) - [Exploit allows for takeover of fleets of Unitree robots](https://spectrum.ieee.org/unitree-robot-exploit)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-year anniversary](https://traefik.io/blog/celebrating-10-years-of-traefik)
