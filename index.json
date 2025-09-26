@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-26, 14:26:44",
+      "https://news.ycombinator.com/item?id=45386872"
+    ],
+    [
+      "DeepFabric – Generate High-Quality Synthetic Datasets at Scale",
+      "https://lukehinds.github.io/deepfabric/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 14:10:11",
       "https://news.ycombinator.com/item?id=45386709"
     ],
@@ -237,16 +247,6 @@
     [
       "A history of ARM, part 1: Building the first chip (2022)",
       "https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 18:42:14",
-      "https://news.ycombinator.com/item?id=45351118"
-    ],
-    [
-      "Checking that functions are constant time with Valgrind (2010)",
-      "https://www.imperialviolet.org/2010/04/01/ctgrind.html"
     ]
   ],
   [
