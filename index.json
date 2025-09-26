@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-26, 04:47:40",
+      "https://news.ycombinator.com/item?id=45382755"
+    ],
+    [
+      "No reachable chess position with more than 218 moves",
+      "https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 04:33:31",
       "https://news.ycombinator.com/item?id=45382668"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-09-25, 18:29:50",
-      "https://news.ycombinator.com/item?id=45376895"
-    ],
-    [
-      "Redox OS Development Priorities for 2025/26",
-      "https://www.redox-os.org/news/development-priorities-2025-09/"
-    ]
-  ],
-  [
-    [
       "2025-09-25, 18:09:47",
       "https://news.ycombinator.com/item?id=45376605"
     ],
@@ -177,16 +177,6 @@
     [
       "ChatGPT Pulse",
       "https://openai.com/index/introducing-chatgpt-pulse/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 16:01:41",
-      "https://news.ycombinator.com/item?id=45374500"
-    ],
-    [
-      "ChatControl: EU wants to scan all private messages, even in encrypted apps",
-      "https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Wild performance tricks",
       "https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 10:20:57",
+      "https://news.ycombinator.com/item?id=45331372"
+    ],
+    [
+      "Aerospace Structures",
+      "https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/aerospace-structures/"
     ]
   ]
 ]
