@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 15:33:51](https://news.ycombinator.com/item?id=45387687) - [TikTok Sold for $14B](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html)
+* [2025-09-26, 15:14:44](https://news.ycombinator.com/item?id=45387462) - [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
 * [2025-09-26, 15:06:42](https://news.ycombinator.com/item?id=45387374) - [Context is the bottleneck for coding agents now](https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now)
 * [2025-09-26, 15:02:53](https://news.ycombinator.com/item?id=45387337) - [Did a US Chess Champion Cheat?](https://www.chicagobooth.edu/review/did-us-chess-champion-cheat)
 * [2025-09-26, 14:56:04](https://news.ycombinator.com/item?id=45387242) - [They don't make 'em like that any more: Dyson Pure Cool-Me personal air purifier](https://kevinboone.me/cool-me.html)
@@ -23,10 +25,8 @@
 * [2025-09-25, 14:33:50](https://news.ycombinator.com/item?id=45373081) - [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
 * [2025-09-25, 13:19:47](https://news.ycombinator.com/item?id=45372335) - [Demand for human radiologists is at an all-time high](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-Year Journey from Zero to Standard](https://traefik.io/blog/celebrating-10-years-of-traefik)
-* [2025-09-23, 23:08:00](https://news.ycombinator.com/item?id=45353986) - [Walking around the compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-23, 20:55:06](https://news.ycombinator.com/item?id=45352633) - [A history of ARM, part 1: Building the first chip (2022)](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
 * [2025-09-23, 14:33:48](https://news.ycombinator.com/item?id=45347619) - [Ultra efficient vector extension for SQLite](https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite)
-* [2025-09-23, 13:11:32](https://news.ycombinator.com/item?id=45346538) - [Cosmic simulations that once needed supercomputers now run on a laptop](https://www.sciencedaily.com/releases/2025/09/250918225001.htm)
 * [2025-09-23, 11:18:24](https://news.ycombinator.com/item?id=45345447) - [Road to ZK Implementation: Nethermind Client's Path to Proofs](https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs)
 * [2025-09-22, 17:33:20](https://news.ycombinator.com/item?id=45336775) - [Pairing with Claude Code to rebuild my startup's website](https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild)
 * [2025-09-22, 14:31:40](https://news.ycombinator.com/item?id=45334001) - [How to make sense of any mess](https://www.howtomakesenseofanymess.com)

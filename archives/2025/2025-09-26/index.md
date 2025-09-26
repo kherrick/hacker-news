@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 15:33:51](https://news.ycombinator.com/item?id=45387687) - [TikTok Sold for $14B](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html)
+* [2025-09-26, 15:14:44](https://news.ycombinator.com/item?id=45387462) - [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
 * [2025-09-26, 15:06:42](https://news.ycombinator.com/item?id=45387374) - [Context is the bottleneck for coding agents now](https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now)
 * [2025-09-26, 15:05:11](https://news.ycombinator.com/item?id=45387356) - [Hundreds of Diplomats stage walkout from UN as Netanyahu enters to speak](https://www.timesofisrael.com/liveblog_entry/hundreds-of-diplomats-stage-walkout-from-un-general-assembly-as-netanyahu-enters-to-speak/)
 * [2025-09-26, 15:02:53](https://news.ycombinator.com/item?id=45387337) - [Did a US Chess Champion Cheat?](https://www.chicagobooth.edu/review/did-us-chess-champion-cheat)
