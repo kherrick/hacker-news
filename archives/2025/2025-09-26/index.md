@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 03:45:54](https://news.ycombinator.com/item?id=45382397) - [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
+* [2025-09-26, 02:34:16](https://news.ycombinator.com/item?id=45381969) - [Show HN: Macscope – I decide to built a better Cmd-Tab replacement for macOS](https://macscope.app)
 * [2025-09-26, 02:10:31](https://news.ycombinator.com/item?id=45381813) - [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 * [2025-09-26, 02:09:47](https://news.ycombinator.com/item?id=45381810) - [All British adults to require a digital ID 'Brit Card'](https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041)
 * [2025-09-26, 01:43:57](https://news.ycombinator.com/item?id=45381631) - [Bit is all we need: binary normalized neural networks](https://arxiv.org/abs/2509.07025)
