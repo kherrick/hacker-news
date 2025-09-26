@@ -53,6 +53,7 @@
 * [2025-09-24, 12:28:49](https://news.ycombinator.com/item?id=45359359) - [Explosions and drones targeting Gaza aid flotilla boats, activists say](https://www.theguardian.com/world/2025/sep/24/explosions-and-multiple-drones-targeting-gaza-aid-flotilla-boats-activists-say)
 * [2025-09-24, 12:28:15](https://news.ycombinator.com/item?id=45359356) - [Rights groups urge UK PM Starmer to abandon plans for mandatory digital ID](https://bigbrotherwatch.org.uk/press-releases/rights-groups-urge-starmer-to-abandon-plans-for-mandatory-digital-id/)
 * [2025-09-24, 12:10:00](https://news.ycombinator.com/item?id=45359201) - [WiGLE: Wireless Network Mapping](https://wigle.net/index)
+* [2025-09-24, 11:53:38](https://news.ycombinator.com/item?id=45359083) - [Amiga SPICE is a program for simulating electronic circuits](https://www.edsa.uk/blog/amiga-spice)
 * [2025-09-24, 11:52:50](https://news.ycombinator.com/item?id=45359074) - [EU age verification app not planning desktop support](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/22)
 * [2025-09-24, 11:41:54](https://news.ycombinator.com/item?id=45358980) - [Yt-dlp: Upcoming new requirements for YouTube downloads](https://github.com/yt-dlp/yt-dlp/issues/14404)
 * [2025-09-24, 11:39:48](https://news.ycombinator.com/item?id=45358959) - [How to manage Python projects with Poetry](https://www.infoworld.com/article/2256032/how-to-manage-python-projects-with-poetry.html)
