@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-26, 07:06:45](https://news.ycombinator.com/item?id=45383637) - [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
 * [2025-09-26, 07:01:52](https://news.ycombinator.com/item?id=45383612) - [Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer)
 * [2025-09-26, 04:47:40](https://news.ycombinator.com/item?id=45382755) - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
 * [2025-09-26, 04:29:41](https://news.ycombinator.com/item?id=45382645) - [A platform-jumping prince – History of Prince of Persia's 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
@@ -17,7 +18,6 @@
 * [2025-09-25, 18:09:47](https://news.ycombinator.com/item?id=45376605) - [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
 * [2025-09-25, 17:20:56](https://news.ycombinator.com/item?id=45375845) - [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
 * [2025-09-25, 16:59:55](https://news.ycombinator.com/item?id=45375477) - [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
-* [2025-09-25, 16:01:41](https://news.ycombinator.com/item?id=45374500) - [ChatControl: EU wants to scan all private messages, even in encrypted apps](https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/)
 * [2025-09-25, 14:33:50](https://news.ycombinator.com/item?id=45373081) - [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
 * [2025-09-25, 14:28:24](https://news.ycombinator.com/item?id=45373008) - [Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web](https://news.ycombinator.com/item?id=45373008)
 * [2025-09-25, 13:19:47](https://news.ycombinator.com/item?id=45372335) - [Demand for human radiologists is at an all-time high](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)
