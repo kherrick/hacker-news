@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 15:44:12](https://news.ycombinator.com/item?id=45387796) - [Flagship mobile phone with hardware kill switches for privacy](https://news.itsfoss.com/murena-powered-hiroh-phone/)
 * [2025-09-26, 15:33:51](https://news.ycombinator.com/item?id=45387687) - [TikTok Sold for $14B](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html)
+* [2025-09-26, 15:17:31](https://news.ycombinator.com/item?id=45387494) - [SpaceX – Evolving the Multi-User Spaceport](https://www.spacex.com/updates#multiuser-spaceport)
+* [2025-09-26, 15:16:57](https://news.ycombinator.com/item?id=45387485) - [Better health conversations: Research on a \"wayfinding\" AI agent based on Gemini](https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/)
 * [2025-09-26, 15:14:44](https://news.ycombinator.com/item?id=45387462) - [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
+* [2025-09-26, 15:11:31](https://news.ycombinator.com/item?id=45387421) - [Show HN: Dreamtap – Make your AI more creative](https://dreamtap.xyz/)
 * [2025-09-26, 15:06:42](https://news.ycombinator.com/item?id=45387374) - [Context is the bottleneck for coding agents now](https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now)
 * [2025-09-26, 15:05:11](https://news.ycombinator.com/item?id=45387356) - [Hundreds of Diplomats stage walkout from UN as Netanyahu enters to speak](https://www.timesofisrael.com/liveblog_entry/hundreds-of-diplomats-stage-walkout-from-un-general-assembly-as-netanyahu-enters-to-speak/)
 * [2025-09-26, 15:02:53](https://news.ycombinator.com/item?id=45387337) - [Did a US Chess Champion Cheat?](https://www.chicagobooth.edu/review/did-us-chess-champion-cheat)
 * [2025-09-26, 14:56:04](https://news.ycombinator.com/item?id=45387242) - [They don't make 'em like that any more: Dyson Pure Cool-Me personal air purifier](https://kevinboone.me/cool-me.html)
+* [2025-09-26, 14:49:07](https://news.ycombinator.com/item?id=45387155) - [How to stop AI's \"lethal trifecta\"](https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta)
 * [2025-09-26, 14:49:05](https://news.ycombinator.com/item?id=45387154) - [JWST peers deep into the heart of star formation in our Milky Way galaxy](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-peers-deep-into-the-heart-of-star-formation-in-our-milky-way-galaxy)
 * [2025-09-26, 14:26:44](https://news.ycombinator.com/item?id=45386872) - [DeepFabric – Generate High-Quality Synthetic Datasets at Scale](https://lukehinds.github.io/deepfabric/)
 * [2025-09-26, 14:10:11](https://news.ycombinator.com/item?id=45386709) - [Starmer says people will not be able to work in UK without digital ID](https://www.bbc.com/news/live/cwydl81dg13t)
