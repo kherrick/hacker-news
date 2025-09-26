@@ -80,6 +80,7 @@
 * [2025-09-23, 09:26:57](https://news.ycombinator.com/item?id=45344708) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 * [2025-09-23, 09:20:11](https://news.ycombinator.com/item?id=45344662) - [One step closer to bombing civilians](https://www.treason.io/p/read-one-step-closer-to-bombing-civilians)
 * [2025-09-23, 09:04:43](https://news.ycombinator.com/item?id=45344554) - [The YAML Document from Hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
+* [2025-09-23, 08:53:16](https://news.ycombinator.com/item?id=45344487) - [The Forklift Certified License](https://aria.dog/barks/forklift-certified-license/)
 * [2025-09-23, 08:41:08](https://news.ycombinator.com/item?id=45344402) - [The latest Hunger Games novel may have been co-authored by AI](https://www.reddit.com/r/slatestarcodex/s/V0bvh4w1PY)
 * [2025-09-23, 08:16:30](https://news.ycombinator.com/item?id=45344250) - [Wild Performance Tricks](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
 * [2025-09-23, 08:11:01](https://news.ycombinator.com/item?id=45344198) - [Japan's most sacred Shinto shrine rebuilt every 20yrs for more than a millennium](https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96)

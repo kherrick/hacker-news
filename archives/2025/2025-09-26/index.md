@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 04:33:31](https://news.ycombinator.com/item?id=45382668) - [The effect of H-1B quota on employment and selection of foreign-born labor (2018)](https://doi.org/10.1016/j.euroecorev.2018.06.010)
+* [2025-09-26, 04:29:41](https://news.ycombinator.com/item?id=45382645) - [A platform-jumping prince – History of Prince of Persia's 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
 * [2025-09-26, 03:51:16](https://news.ycombinator.com/item?id=45382434) - [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
 * [2025-09-26, 03:45:54](https://news.ycombinator.com/item?id=45382397) - [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
 * [2025-09-26, 02:34:16](https://news.ycombinator.com/item?id=45381969) - [Show HN: Macscope – I decide to built a better Cmd-Tab replacement for macOS](https://macscope.app)
