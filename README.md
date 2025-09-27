@@ -7,7 +7,7 @@
 * [2025-09-27, 15:23:54](https://news.ycombinator.com/item?id=45396511) - [Was This 18,000-Year-Old Siberian Puppy a Dog or a Wolf? (2019)](https://www.nytimes.com/2019/12/02/science/frozen-puppy-found-russia.html)
 * [2025-09-27, 15:17:30](https://news.ycombinator.com/item?id=45396441) - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
 * [2025-09-27, 15:02:02](https://news.ycombinator.com/item?id=45396284) - [Unprecedented role of Amazon fires in the record atmospheric CO₂ growth in 2024](https://essopenarchive.org/doi/full/10.22541/essoar.175874118.83695562/v1)
-* [2025-09-27, 14:42:04](https://news.ycombinator.com/item?id=45396118) - [Is sound gradual typing dead? Performance problems in Typed Racket](https://dl.acm.org/doi/abs/10.1145/2837614.2837630)
+* [2025-09-27, 14:42:04](https://news.ycombinator.com/item?id=45396118) - [Is sound gradual typing dead? Performance problems in Typed Racket (2016)](https://dl.acm.org/doi/abs/10.1145/2837614.2837630)
 * [2025-09-27, 14:27:10](https://news.ycombinator.com/item?id=45395991) - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
 * [2025-09-27, 14:23:12](https://news.ycombinator.com/item?id=45395957) - [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 * [2025-09-27, 14:22:48](https://news.ycombinator.com/item?id=45395952) - [Show HN: An open source Launchpad for macOS 26](https://github.com/RoversX/LaunchNext)
