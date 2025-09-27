@@ -38,6 +38,7 @@
 * [2025-09-24, 15:17:08](https://news.ycombinator.com/item?id=45361578) - [Engineering a fixed-width bit-packed integer vector in Rust](https://lukefleed.xyz/posts/compressed-fixedvec/)
 * [2025-09-24, 15:16:56](https://news.ycombinator.com/item?id=45361574) - [Replace PostgreSQL with Git for your next project](https://devcenter.upsun.com/posts/why-you-should-replace-postgresql-with-git-for-your-next-project/)
 * [2025-09-24, 15:03:59](https://news.ycombinator.com/item?id=45361394) - [How to Be a Leader When the Vibes Are Off](https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/)
+* [2025-09-24, 15:00:35](https://news.ycombinator.com/item?id=45361347) - [How This Retro Cafeteria Became a Launchpad for Buffalo’s Food Entrepreneurs](https://www.thefoodcorridor.com/blog/how-this-retro-cafeteria-became-a-launchpad-for-buffalos-food-entrepreneurs/)
 * [2025-09-24, 15:00:15](https://news.ycombinator.com/item?id=45361344) - [The Lambda Calculus – Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/lambda-calculus/)
 * [2025-09-24, 14:53:57](https://news.ycombinator.com/item?id=45361268) - [Show HN: Dayflow – A git log for your day](https://github.com/JerryZLiu/Dayflow)
 * [2025-09-24, 14:51:44](https://news.ycombinator.com/item?id=45361239) - [The DHS has been harvesting DNA from Americans for years](https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/)
