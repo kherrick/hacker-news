@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-27, 15:34:55",
+      "https://news.ycombinator.com/item?id=45396624"
+    ],
+    [
+      "AI model trapped in a Raspberry Pi",
+      "https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 15:28:27",
+      "https://news.ycombinator.com/item?id=45396565"
+    ],
+    [
+      "Fundamental of Virtual Memory",
+      "https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 15:23:54",
       "https://news.ycombinator.com/item?id=45396511"
     ],
     [
       "Was This 18,000-Year-Old Siberian Puppy a Dog or a Wolf?",
       "https://www.nytimes.com/2019/12/02/science/frozen-puppy-found-russia.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 15:17:30",
+      "https://news.ycombinator.com/item?id=45396441"
+    ],
+    [
+      "A WebGL game where you deliver messages on a tiny planet",
+      "https://messenger.abeto.co/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-09-26, 23:43:33",
-      "https://news.ycombinator.com/item?id=45392164"
-    ],
-    [
-      "The Obsessively Complete Infocom Catalog",
-      "https://eblong.com/infocom/"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 22:57:57",
       "https://news.ycombinator.com/item?id=45391871"
     ],
@@ -187,16 +207,6 @@
     [
       "Moondream 3 Preview: Frontier-level reasoning at a blazing speed",
       "https://moondream.ai/blog/moondream-3-preview"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 18:04:29",
-      "https://news.ycombinator.com/item?id=45389293"
-    ],
-    [
-      "Auth.js is now part of Better Auth",
-      "https://www.better-auth.com/blog/authjs-joins-better-auth"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Why is Windows still tinkering with critical sections? – The Old New Thing",
       "https://devblogs.microsoft.com/oldnewthing/20250924-00/?p=111624"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 08:29:58",
-      "https://news.ycombinator.com/item?id=45357732"
-    ],
-    [
-      "Traefik's 10-year anniversary",
-      "https://traefik.io/blog/celebrating-10-years-of-traefik"
     ]
   ],
   [
