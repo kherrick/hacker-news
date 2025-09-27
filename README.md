@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 13:19:57](https://news.ycombinator.com/item?id=45395499) - [The Other Linux Logo](https://ecogex.com/the-other-linux-logo/)
 * [2025-09-27, 13:10:34](https://news.ycombinator.com/item?id=45395428) - [Show HN: I spent 4 months building Duolingo but for your life](https://three-cells.com)
 * [2025-09-27, 13:05:45](https://news.ycombinator.com/item?id=45395396) - [Samsung now owns Denon, Bowers and Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)
 * [2025-09-27, 12:00:22](https://news.ycombinator.com/item?id=45395010) - [Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025)
@@ -24,7 +25,6 @@
 * [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)
 * [2025-09-24, 17:32:57](https://news.ycombinator.com/item?id=45363471) - [Why is Windows still tinkering with critical sections? – The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20250924-00/?p=111624)
 * [2025-09-24, 15:27:06](https://news.ycombinator.com/item?id=45361717) - [Notes on Geiger Counters](https://divested.dev/pages/blog#2025-09-24-geigers)
-* [2025-09-24, 15:00:35](https://news.ycombinator.com/item?id=45361347) - [How This Retro Cafeteria Became a Launchpad for Buffalo’s Food Entrepreneurs](https://www.thefoodcorridor.com/blog/how-this-retro-cafeteria-became-a-launchpad-for-buffalos-food-entrepreneurs/)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-year anniversary](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming (2001)](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
 * [2025-09-23, 23:54:01](https://news.ycombinator.com/item?id=45354404) - [Meshtastic 64 – A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
