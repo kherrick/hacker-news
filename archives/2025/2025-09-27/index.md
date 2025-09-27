@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 15:34:55](https://news.ycombinator.com/item?id=45396624) - [AI model trapped in a Raspberry Pi](https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/)
+* [2025-09-27, 15:28:27](https://news.ycombinator.com/item?id=45396565) - [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
 * [2025-09-27, 15:23:54](https://news.ycombinator.com/item?id=45396511) - [Was This 18,000-Year-Old Siberian Puppy a Dog or a Wolf?](https://www.nytimes.com/2019/12/02/science/frozen-puppy-found-russia.html)
+* [2025-09-27, 15:17:30](https://news.ycombinator.com/item?id=45396441) - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
 * [2025-09-27, 15:10:47](https://news.ycombinator.com/item?id=45396377) - [Scientists say X has lost its professional edge and Bluesky is taking its place](https://www.psypost.org/scientists-say-x-formerly-twitter-has-lost-its-professional-edge-and-bluesky-is-taking-its-place/)
 * [2025-09-27, 14:47:20](https://news.ycombinator.com/item?id=45396165) - [Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry](https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/)
 * [2025-09-27, 14:42:04](https://news.ycombinator.com/item?id=45396118) - [Is sound gradual typing dead? Performance problems in Typed Racket](https://dl.acm.org/doi/abs/10.1145/2837614.2837630)
