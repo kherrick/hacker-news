@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 06:44:12](https://news.ycombinator.com/item?id=45393649) - [AI Investment Is Starting to Look Like a Slush Fund](https://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html)
 * [2025-09-27, 06:02:16](https://news.ycombinator.com/item?id=45393505) - [The Amazon Kindle War Against Piracy](https://goodereader.com/blog/kindle/the-amazon-kindle-war-against-piracy)
 * [2025-09-27, 05:07:13](https://news.ycombinator.com/item?id=45393306) - [YC Stole a SF-Attacked Founder's Startup](https://twitter.com/_opencv_/status/1971774399729881319)
 * [2025-09-27, 03:49:07](https://news.ycombinator.com/item?id=45393087) - [Casimir Effect Energy](https://www.casimirspace.com)

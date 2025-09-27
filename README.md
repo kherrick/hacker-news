@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 06:44:12](https://news.ycombinator.com/item?id=45393649) - [AI Investment Is Starting to Look Like a Slush Fund](https://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html)
 * [2025-09-27, 06:02:16](https://news.ycombinator.com/item?id=45393505) - [The Amazon Kindle War Against Piracy](https://goodereader.com/blog/kindle/the-amazon-kindle-war-against-piracy)
 * [2025-09-27, 02:53:24](https://news.ycombinator.com/item?id=45392922) - [Why Today's Humanoids Won't Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
 * [2025-09-27, 02:01:35](https://news.ycombinator.com/item?id=45392744) - [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
@@ -28,7 +29,6 @@
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming (2001)](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
 * [2025-09-23, 23:54:01](https://news.ycombinator.com/item?id=45354404) - [Meshtastic 64 – A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-23, 22:27:14](https://news.ycombinator.com/item?id=45353604) - [Where to find PCB dataset for autorouting?](https://news.ycombinator.com/item?id=45353604)
-* [2025-09-23, 14:33:48](https://news.ycombinator.com/item?id=45347619) - [Ultra efficient vector extension for SQLite](https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite)
 * [2025-09-22, 17:33:20](https://news.ycombinator.com/item?id=45336775) - [Pairing with Claude Code to rebuild my startup's website](https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild)
 
 ## [Archives](archives/index.md)
