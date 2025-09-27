@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-27, 20:01:15](https://news.ycombinator.com/item?id=45398900) - [Firefox context menu adds \"Search Image with Google Lens\"](https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026)
 * [2025-09-27, 19:48:14](https://news.ycombinator.com/item?id=45398802) - [iPhone 17 chip becomes the fastest single-core CPU in the world on PassMark](https://www.tomshardware.com/pc-components/cpus/apples-a19-becomes-the-fastest-single-core-cpu-in-the-world-on-passmark-beating-pc-chips-and-apples-own-m3-ultra-passively-cooled-iphone-17-chip-catapults-past-power-hungry-competitors)
 * [2025-09-27, 19:35:59](https://news.ycombinator.com/item?id=45398719) - [NSPM-7 labels common beliefs as terrorism 'indicators'](https://www.kenklippenstein.com/p/trumps-nspm-7-labels-common-beliefs)
 * [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398468) - [Docker Was Too Slow, So We Replaced It: Nix in Production [video]](https://www.youtube.com/watch?v=iPoL03tFBtU)
@@ -23,6 +22,7 @@
 * [2025-09-27, 06:00:41](https://news.ycombinator.com/item?id=45393501) - [Lifetime of social ties adds up to healthy aging at molecular level](https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging)
 * [2025-09-26, 18:01:26](https://news.ycombinator.com/item?id=45389267) - [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
 * [2025-09-26, 16:01:55](https://news.ycombinator.com/item?id=45388021) - [Open Social](https://overreacted.io/open-social/)
+* [2025-09-25, 20:11:11](https://news.ycombinator.com/item?id=45378323) - [Windows ML is generally available](https://blogs.windows.com/windowsdeveloper/2025/09/23/windows-ml-is-generally-available-empowering-developers-to-scale-local-ai-across-windows-devices/)
 * [2025-09-25, 18:26:35](https://news.ycombinator.com/item?id=45376847) - [Walking Around the Compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-25, 12:27:46](https://news.ycombinator.com/item?id=45371986) - [Testing the Raspberry Pi 500's new mechanical keyboard](https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard)
 * [2025-09-25, 01:27:39](https://news.ycombinator.com/item?id=45368234) - [In Praise of Binturongs](https://satyrs.eu/garden/2025/binturongs)
