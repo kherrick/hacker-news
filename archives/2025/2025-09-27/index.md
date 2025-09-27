@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 18:39:59](https://news.ycombinator.com/item?id=45398348) - [Xeres: Uncensorable Peer-to-Peer Communications](https://xeres.io/)
 * [2025-09-27, 17:59:47](https://news.ycombinator.com/item?id=45398005) - [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol)
+* [2025-09-27, 17:39:35](https://news.ycombinator.com/item?id=45397830) - [The doctor who says we can improve our vision – at any age](https://www.thetimes.com/life-style/health-fitness/article/how-to-improve-vision-any-age-doctor-advice-gjnftx5dm)
 * [2025-09-27, 17:33:06](https://news.ycombinator.com/item?id=45397773) - [Americans Are Using PTO to Sleep, Not for Vacation–Report](https://www.newsweek.com/americans-are-using-pto-to-sleep-not-for-vacation-report-10783162)
 * [2025-09-27, 17:00:42](https://news.ycombinator.com/item?id=45397492) - [Great Question (YC W21) Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product)
 * [2025-09-27, 15:46:46](https://news.ycombinator.com/item?id=45396754) - [Greenland Is a Beautiful Nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/)
