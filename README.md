@@ -28,8 +28,8 @@
 * [2025-09-24, 11:53:38](https://news.ycombinator.com/item?id=45359083) - [Amiga SPICE is a program for simulating electronic circuits](https://www.edsa.uk/blog/amiga-spice)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-year anniversary](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming (2001)](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
+* [2025-09-23, 14:33:48](https://news.ycombinator.com/item?id=45347619) - [Ultra efficient vector extension for SQLite](https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite)
 * [2025-09-23, 12:23:04](https://news.ycombinator.com/item?id=45346014) - [Bach Cello Suites (2024)](https://bachcellosuites.co.uk/)
-* [2025-09-22, 14:31:40](https://news.ycombinator.com/item?id=45334001) - [How to make sense of any mess](https://www.howtomakesenseofanymess.com)
 
 ## [Archives](archives/index.md)
 
