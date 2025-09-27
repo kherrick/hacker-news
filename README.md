@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 20:26:39](https://news.ycombinator.com/item?id=45399063) - [Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files](https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups)
 * [2025-09-27, 20:01:15](https://news.ycombinator.com/item?id=45398900) - [Firefox context menu adds \"Search Image with Google Lens\"](https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026)
 * [2025-09-27, 19:48:14](https://news.ycombinator.com/item?id=45398802) - [iPhone 17 chip becomes the fastest single-core CPU in the world on PassMark](https://www.tomshardware.com/pc-components/cpus/apples-a19-becomes-the-fastest-single-core-cpu-in-the-world-on-passmark-beating-pc-chips-and-apples-own-m3-ultra-passively-cooled-iphone-17-chip-catapults-past-power-hungry-competitors)
 * [2025-09-27, 19:35:59](https://news.ycombinator.com/item?id=45398719) - [NSPM-7 labels common beliefs as terrorism 'indicators'](https://www.kenklippenstein.com/p/trumps-nspm-7-labels-common-beliefs)
@@ -28,7 +29,6 @@
 * [2025-09-25, 01:27:39](https://news.ycombinator.com/item?id=45368234) - [In Praise of Binturongs](https://satyrs.eu/garden/2025/binturongs)
 * [2025-09-24, 18:01:54](https://news.ycombinator.com/item?id=45363845) - [Depictions of Celestial Objects Spanning Nearly a Millennium (2014)](https://publicdomainreview.org/collection/flowers-of-the-sky/)
 * [2025-09-24, 15:38:08](https://news.ycombinator.com/item?id=45361865) - [Compositor 0.3 for Windows](https://compositorapp.com/blog/2025-09-24/Compositor-Windows-03/)
-* [2025-09-23, 23:54:01](https://news.ycombinator.com/item?id=45354404) - [Meshtastic 64 – A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-23, 16:25:13](https://news.ycombinator.com/item?id=45349218) - [I built Foyer: a Rust hybrid cache that slashes S3 latency](https://medium.com/@yingjunwu/the-case-for-hybrid-cache-for-object-stores-4b1f02ec6c9a)
 
 ## [Archives](archives/index.md)
