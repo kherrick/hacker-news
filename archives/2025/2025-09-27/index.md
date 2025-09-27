@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 23:26:57](https://news.ycombinator.com/item?id=45400221) - [Why Warm Countries Are Poorer](https://unchartedterritories.tomaspueyo.com/p/mountains)
 * [2025-09-27, 22:30:00](https://news.ycombinator.com/item?id=45399893) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/)
 * [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
 * [2025-09-27, 21:50:30](https://news.ycombinator.com/item?id=45399637) - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
 * [2025-09-27, 21:22:28](https://news.ycombinator.com/item?id=45399417) - [US to retire its only icebreaker, stranding polar research](https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research)
+* [2025-09-27, 20:49:36](https://news.ycombinator.com/item?id=45399204) - [Code Mode: the better way to use MCP](https://blog.cloudflare.com/code-mode/)
 * [2025-09-27, 20:33:31](https://news.ycombinator.com/item?id=45399106) - [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
 * [2025-09-27, 20:26:39](https://news.ycombinator.com/item?id=45399063) - [Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files](https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups)
 * [2025-09-27, 20:01:15](https://news.ycombinator.com/item?id=45398900) - [Firefox context menu adds \"Search Image with Google Lens\"](https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026)

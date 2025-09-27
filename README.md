@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 23:26:57](https://news.ycombinator.com/item?id=45400221) - [Why Warm Countries Are Poorer](https://unchartedterritories.tomaspueyo.com/p/mountains)
 * [2025-09-27, 22:30:00](https://news.ycombinator.com/item?id=45399893) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/)
 * [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
 * [2025-09-27, 21:50:30](https://news.ycombinator.com/item?id=45399637) - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
-* [2025-09-27, 21:22:28](https://news.ycombinator.com/item?id=45399417) - [US to retire its only icebreaker, stranding polar research](https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research)
+* [2025-09-27, 20:49:36](https://news.ycombinator.com/item?id=45399204) - [Code Mode: the better way to use MCP](https://blog.cloudflare.com/code-mode/)
 * [2025-09-27, 20:33:31](https://news.ycombinator.com/item?id=45399106) - [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
-* [2025-09-27, 20:01:15](https://news.ycombinator.com/item?id=45398900) - [New in Firefox: Visual search powered by Google Lens](https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026)
 * [2025-09-27, 20:00:13](https://news.ycombinator.com/item?id=45398891) - [NixOS moderation team resigns over NixOS Steering Committee's interference](https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828)
 * [2025-09-27, 19:38:51](https://news.ycombinator.com/item?id=45398731) - [2025 Nikon Small World in Motion Competition Winners](https://www.nikonsmallworld.com/galleries/2025-small-world-in-motion-competition)
 * [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398468) - [Docker Was Too Slow, So We Replaced It: Nix in Production [video]](https://www.youtube.com/watch?v=iPoL03tFBtU)
