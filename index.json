@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-09-27, 14:47:20",
+      "https://news.ycombinator.com/item?id=45396165"
+    ],
+    [
+      "Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry",
+      "https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 14:27:10",
+      "https://news.ycombinator.com/item?id=45395991"
+    ],
+    [
+      "SSH3: Faster and rich secure shell using HTTP/3",
+      "https://github.com/francoismichel/ssh3"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 14:23:12",
+      "https://news.ycombinator.com/item?id=45395957"
+    ],
+    [
+      "First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails",
+      "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 14:22:48",
       "https://news.ycombinator.com/item?id=45395952"
     ],
     [
       "Show HN: An open source Launchpad for macOS 26",
       "https://github.com/RoversX/LaunchNext"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 13:44:49",
+      "https://news.ycombinator.com/item?id=45395661"
+    ],
+    [
+      "Cost of AGI Delusion:Chasing Superintelligence US Falling Behind in Real AI Race",
+      "https://www.foreignaffairs.com/united-states/cost-delusion-artificial-general-intelligence"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2025-09-26, 18:20:33",
-      "https://news.ycombinator.com/item?id=45389464"
-    ],
-    [
-      "Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer",
-      "https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 18:04:29",
       "https://news.ycombinator.com/item?id=45389293"
     ],
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2025-09-26, 17:17:54",
-      "https://news.ycombinator.com/item?id=45388822"
-    ],
-    [
-      "Suno Studio, a Generative AI DAW",
-      "https://suno.com/studio-welcome"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 17:06:48",
-      "https://news.ycombinator.com/item?id=45388728"
-    ],
-    [
-      "Modular Manifolds",
-      "https://thinkingmachines.ai/blog/modular-manifolds/"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 16:01:55",
       "https://news.ycombinator.com/item?id=45388021"
     ],
@@ -227,16 +237,6 @@
     [
       "US cities pay too much for buses",
       "https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 05:43:01",
-      "https://news.ycombinator.com/item?id=45369629"
-    ],
-    [
-      "Litex: The First Formal Language Learnable in 1-2 Hours",
-      "https://github.com/litexlang/golitex"
     ]
   ],
   [
