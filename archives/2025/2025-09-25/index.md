@@ -47,6 +47,7 @@
 * [2025-09-25, 14:20:59](https://news.ycombinator.com/item?id=45372935) - [Ubuntu: The Indigenous Ethos of Restorative Justice](https://www.traum-und-verantwortung.de/zitate/ubuntu/)
 * [2025-09-25, 14:16:52](https://news.ycombinator.com/item?id=45372888) - [Shiller PE Ratio](https://www.multpl.com/shiller-pe)
 * [2025-09-25, 14:04:50](https://news.ycombinator.com/item?id=45372767) - [U.S. Military Was Caught Off Guard by Israeli Strike on Qatar](https://www.twz.com/air/new-info-on-how-u-s-military-was-caught-off-guard-by-israeli-strike-on-qatar)
+* [2025-09-25, 13:52:00](https://news.ycombinator.com/item?id=45372642) - [Show HN: Lingo – A linguistic database in Rust with nanosecond-level performance](https://news.ycombinator.com/item?id=45372642)
 * [2025-09-25, 13:38:39](https://news.ycombinator.com/item?id=45372515) - [Apple says it may stop shipping to the EU](https://www.theguardian.com/technology/2025/sep/25/apple-calls-for-changes-to-anti-monopoly-laws-and-says-it-may-stop-shipping-to-the-eu)
 * [2025-09-25, 13:32:50](https://news.ycombinator.com/item?id=45372442) - [Death rates rose in hospital ERs after private equity firms took over](https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211)
 * [2025-09-25, 13:22:16](https://news.ycombinator.com/item?id=45372361) - [As many as 2M Cisco devices affected by actively exploited 0-day](https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/)
