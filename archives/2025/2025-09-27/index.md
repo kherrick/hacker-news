@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 15:46:46](https://news.ycombinator.com/item?id=45396754) - [Greenland Is a Beautiful Nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/)
+* [2025-09-27, 15:35:59](https://news.ycombinator.com/item?id=45396641) - [Norway to Monitor Airborne Radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard)
 * [2025-09-27, 15:34:55](https://news.ycombinator.com/item?id=45396624) - [AI model trapped in a Raspberry Pi](https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/)
 * [2025-09-27, 15:28:27](https://news.ycombinator.com/item?id=45396565) - [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
 * [2025-09-27, 15:23:54](https://news.ycombinator.com/item?id=45396511) - [Was This 18,000-Year-Old Siberian Puppy a Dog or a Wolf?](https://www.nytimes.com/2019/12/02/science/frozen-puppy-found-russia.html)
@@ -14,6 +16,7 @@
 * [2025-09-27, 14:27:10](https://news.ycombinator.com/item?id=45395991) - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
 * [2025-09-27, 14:23:12](https://news.ycombinator.com/item?id=45395957) - [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 * [2025-09-27, 14:22:48](https://news.ycombinator.com/item?id=45395952) - [Show HN: An open source Launchpad for macOS 26](https://github.com/RoversX/LaunchNext)
+* [2025-09-27, 13:45:43](https://news.ycombinator.com/item?id=45395667) - [Show HN: Privacy-First Voice-to-Text for macOS](https://github.com/cydanix/whisperclip)
 * [2025-09-27, 13:44:49](https://news.ycombinator.com/item?id=45395661) - [Cost of AGI Delusion:Chasing Superintelligence US Falling Behind in Real AI Race](https://www.foreignaffairs.com/united-states/cost-delusion-artificial-general-intelligence)
 * [2025-09-27, 13:19:57](https://news.ycombinator.com/item?id=45395499) - [The Other Linux Logo](https://ecogex.com/the-other-linux-logo/)
 * [2025-09-27, 13:10:34](https://news.ycombinator.com/item?id=45395428) - [Show HN: I spent 4 months building Duolingo but for your life](https://three-cells.com)

@@ -56,6 +56,7 @@
 * [2025-09-25, 13:13:34](https://news.ycombinator.com/item?id=45372289) - [Video models are zero-shot learners and reasoners](https://video-zero-shot.github.io/)
 * [2025-09-25, 13:13:25](https://news.ycombinator.com/item?id=45372286) - [Data Viz Color Palette Generator (For Charts and Dashboards)](https://www.learnui.design/tools/data-color-picker.html)
 * [2025-09-25, 12:48:50](https://news.ycombinator.com/item?id=45372113) - [Resurrect the Old Web](https://stevedylandev.bearblog.dev/resurrect-the-old-web/)
+* [2025-09-25, 12:27:46](https://news.ycombinator.com/item?id=45371986) - [Testing the Raspberry Pi 500's new mechanical keyboard](https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard)
 * [2025-09-25, 12:14:16](https://news.ycombinator.com/item?id=45371902) - [Governor Newsom Should Make It Easier to Exercise Our Privacy Rights](https://www.eff.org/deeplinks/2025/09/tell-governor-newsom-make-it-easier-use-your-privacy-rights)
 * [2025-09-25, 10:47:24](https://news.ycombinator.com/item?id=45371359) - [How many valid JSON strings are there?](https://qntm.org/jsoncount)
 * [2025-09-25, 10:39:17](https://news.ycombinator.com/item?id=45371309) - [The Wind, a Pole, and the Dragon](https://entropicthoughts.com/the-wind-a-pole-and-the-dragon)
