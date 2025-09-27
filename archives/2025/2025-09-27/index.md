@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398468) - [Docker Was Too Slow, So We Replaced It: Nix in Production [video]](https://www.youtube.com/watch?v=iPoL03tFBtU)
 * [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398467) - [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
 * [2025-09-27, 18:39:59](https://news.ycombinator.com/item?id=45398348) - [Xeres: Uncensorable Peer-to-Peer Communications](https://xeres.io/)
 * [2025-09-27, 18:15:08](https://news.ycombinator.com/item?id=45398153) - [The death of east London's most radical bookshop](https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/)

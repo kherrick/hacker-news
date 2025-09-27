@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398468) - [Docker Was Too Slow, So We Replaced It: Nix in Production [video]](https://www.youtube.com/watch?v=iPoL03tFBtU)
 * [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398467) - [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
 * [2025-09-27, 18:39:59](https://news.ycombinator.com/item?id=45398348) - [Xeres: Uncensorable Peer-to-Peer Communications](https://xeres.io/)
 * [2025-09-27, 18:15:08](https://news.ycombinator.com/item?id=45398153) - [The death of east London's most radical bookshop](https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/)
@@ -9,7 +10,6 @@
 * [2025-09-27, 15:46:46](https://news.ycombinator.com/item?id=45396754) - [Greenland Is a Beautiful Nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/)
 * [2025-09-27, 15:35:59](https://news.ycombinator.com/item?id=45396641) - [Norway to Monitor Airborne Radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard)
 * [2025-09-27, 15:34:55](https://news.ycombinator.com/item?id=45396624) - [AI model trapped in a Raspberry Pi](https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/)
-* [2025-09-27, 15:23:54](https://news.ycombinator.com/item?id=45396511) - [Was This 18,000-Year-Old Siberian Puppy a Dog or a Wolf? (2019)](https://www.nytimes.com/2019/12/02/science/frozen-puppy-found-russia.html)
 * [2025-09-27, 15:17:30](https://news.ycombinator.com/item?id=45396441) - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
 * [2025-09-27, 15:02:02](https://news.ycombinator.com/item?id=45396284) - [Unprecedented role of Amazon fires in the record atmospheric CO₂ growth in 2024](https://essopenarchive.org/doi/full/10.22541/essoar.175874118.83695562/v1)
 * [2025-09-27, 14:27:10](https://news.ycombinator.com/item?id=45395991) - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
@@ -24,10 +24,10 @@
 * [2025-09-26, 16:01:55](https://news.ycombinator.com/item?id=45388021) - [Open Social](https://overreacted.io/open-social/)
 * [2025-09-25, 18:26:35](https://news.ycombinator.com/item?id=45376847) - [Walking Around the Compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-25, 12:27:46](https://news.ycombinator.com/item?id=45371986) - [Testing the Raspberry Pi 500's new mechanical keyboard](https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard)
+* [2025-09-25, 01:27:39](https://news.ycombinator.com/item?id=45368234) - [In Praise of Binturongs](https://satyrs.eu/garden/2025/binturongs)
 * [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)
 * [2025-09-24, 18:01:54](https://news.ycombinator.com/item?id=45363845) - [Depictions of Celestial Objects Spanning Nearly a Millennium (2014)](https://publicdomainreview.org/collection/flowers-of-the-sky/)
 * [2025-09-24, 15:38:08](https://news.ycombinator.com/item?id=45361865) - [Compositor 0.3 for Windows](https://compositorapp.com/blog/2025-09-24/Compositor-Windows-03/)
-* [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming (2001)](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
 * [2025-09-23, 23:54:01](https://news.ycombinator.com/item?id=45354404) - [Meshtastic 64 – A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-23, 16:25:13](https://news.ycombinator.com/item?id=45349218) - [I built Foyer: a Rust hybrid cache that slashes S3 latency](https://medium.com/@yingjunwu/the-case-for-hybrid-cache-for-object-stores-4b1f02ec6c9a)
 
