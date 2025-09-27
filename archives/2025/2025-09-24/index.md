@@ -66,6 +66,7 @@
 * [2025-09-24, 11:41:54](https://news.ycombinator.com/item?id=45358980) - [Yt-dlp: Upcoming new requirements for YouTube downloads](https://github.com/yt-dlp/yt-dlp/issues/14404)
 * [2025-09-24, 11:39:48](https://news.ycombinator.com/item?id=45358959) - [How to manage Python projects with Poetry](https://www.infoworld.com/article/2256032/how-to-manage-python-projects-with-poetry.html)
 * [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
+* [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Why Today's Python Developers Are Embracing Type Hints](https://pyrefly.org/blog/why-typed-python/)
 * [2025-09-24, 10:37:14](https://news.ycombinator.com/item?id=45358527) - [Preparing for the .NET 10 GC](https://maoni0.medium.com/preparing-for-the-net-10-gc-88718b261ef2)
 * [2025-09-24, 10:26:23](https://news.ycombinator.com/item?id=45358433) - [My game's server is blocked in Spain whenever there's a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/)
 * [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
