@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 05:07:13](https://news.ycombinator.com/item?id=45393306) - [YC Stole a SF-Attacked Founder's Startup](https://twitter.com/_opencv_/status/1971774399729881319)
 * [2025-09-27, 02:53:24](https://news.ycombinator.com/item?id=45392922) - [Why Today's Humanoids Won't Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
 * [2025-09-27, 02:01:35](https://news.ycombinator.com/item?id=45392744) - [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
 * [2025-09-26, 23:43:33](https://news.ycombinator.com/item?id=45392164) - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
@@ -23,7 +24,6 @@
 * [2025-09-26, 03:51:16](https://news.ycombinator.com/item?id=45382434) - [Evanston orders Flock to remove reinstalled cameras](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
 * [2025-09-26, 01:38:19](https://news.ycombinator.com/item?id=45381590) - [Exploit allows for takeover of fleets of Unitree robots](https://spectrum.ieee.org/unitree-robot-exploit)
 * [2025-09-25, 13:17:49](https://news.ycombinator.com/item?id=45372319) - [RPi 500 arrives with mechanical switches, RGB LED backlit keys](https://thepihut.com/products/raspberry-pi-500-plus)
-* [2025-09-25, 07:36:01](https://news.ycombinator.com/item?id=45370209) - [MCAP Support Lands in Rerun](https://rerun.io/blog/introducing-experimental-support-for-mcap-file-format)
 * [2025-09-24, 23:45:55](https://news.ycombinator.com/item?id=45367362) - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
 * [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)
 * [2025-09-24, 18:52:23](https://news.ycombinator.com/item?id=45364503) - [Elephantshark, a tool to monitor Postgres network traffic](https://neon.com/blog/elephantshark-monitor-postgres-network-traffic)
