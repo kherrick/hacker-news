@@ -11,7 +11,7 @@
 * [2025-09-27, 15:35:59](https://news.ycombinator.com/item?id=45396641) - [Norway to Monitor Airborne Radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard)
 * [2025-09-27, 15:34:55](https://news.ycombinator.com/item?id=45396624) - [AI model trapped in a Raspberry Pi](https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/)
 * [2025-09-27, 15:17:30](https://news.ycombinator.com/item?id=45396441) - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
-* [2025-09-27, 15:02:02](https://news.ycombinator.com/item?id=45396284) - [Unprecedented role of Amazon fires in the record atmospheric CO₂ growth in 2024](https://essopenarchive.org/doi/full/10.22541/essoar.175874118.83695562/v1)
+* [2025-09-27, 15:02:02](https://news.ycombinator.com/item?id=45396284) - [Role of Amazon fires in the record atmospheric CO₂ growth in 2024](https://essopenarchive.org/doi/full/10.22541/essoar.175874118.83695562/v1)
 * [2025-09-27, 14:27:10](https://news.ycombinator.com/item?id=45395991) - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
 * [2025-09-27, 14:23:12](https://news.ycombinator.com/item?id=45395957) - [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 * [2025-09-27, 13:05:45](https://news.ycombinator.com/item?id=45395396) - [Samsung now owns Denon, Bowers and Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)
