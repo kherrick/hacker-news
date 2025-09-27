@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
 * [2025-09-24, 23:46:08](https://news.ycombinator.com/item?id=45367364) - [Harvard's Public Health Dean Was Paid $150k to Testify Tylenol Causes Autism](https://www.thecrimson.com/article/2025/9/24/autism-dean-public-health/)
+* [2025-09-24, 23:45:55](https://news.ycombinator.com/item?id=45367362) - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
 * [2025-09-24, 23:15:38](https://news.ycombinator.com/item?id=45367086) - [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
 * [2025-09-24, 23:15:33](https://news.ycombinator.com/item?id=45367085) - [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
 * [2025-09-24, 23:13:32](https://news.ycombinator.com/item?id=45367062) - [SEC forgives three scammers who bilked Americans out of millions](https://www.msn.com/en-us/money/companies/trump-s-sec-forgives-three-scammers-who-bilked-americans-out-of-millions-opinion/ar-AA1NeBPg)

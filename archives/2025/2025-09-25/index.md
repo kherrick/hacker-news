@@ -51,6 +51,7 @@
 * [2025-09-25, 13:32:50](https://news.ycombinator.com/item?id=45372442) - [Death rates rose in hospital ERs after private equity firms took over](https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211)
 * [2025-09-25, 13:22:16](https://news.ycombinator.com/item?id=45372361) - [As many as 2M Cisco devices affected by actively exploited 0-day](https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/)
 * [2025-09-25, 13:19:47](https://news.ycombinator.com/item?id=45372335) - [AI Isn't Replacing Radiologists](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)
+* [2025-09-25, 13:17:49](https://news.ycombinator.com/item?id=45372319) - [RPi 500 arrives with mechanical switches, RGB LED backlit keys](https://thepihut.com/products/raspberry-pi-500-plus)
 * [2025-09-25, 13:13:34](https://news.ycombinator.com/item?id=45372289) - [Video models are zero-shot learners and reasoners](https://video-zero-shot.github.io/)
 * [2025-09-25, 13:13:25](https://news.ycombinator.com/item?id=45372286) - [Data Viz Color Palette Generator (For Charts and Dashboards)](https://www.learnui.design/tools/data-color-picker.html)
 * [2025-09-25, 12:48:50](https://news.ycombinator.com/item?id=45372113) - [Resurrect the Old Web](https://stevedylandev.bearblog.dev/resurrect-the-old-web/)
