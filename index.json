@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-27, 12:00:22",
+      "https://news.ycombinator.com/item?id=45395010"
+    ],
+    [
+      "Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork",
+      "https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 11:44:57",
+      "https://news.ycombinator.com/item?id=45394942"
+    ],
+    [
+      "Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say",
+      "https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 07:31:39",
       "https://news.ycombinator.com/item?id=45393842"
     ],
@@ -201,22 +221,22 @@
   ],
   [
     [
-      "2025-09-25, 05:43:01",
-      "https://news.ycombinator.com/item?id=45369629"
-    ],
-    [
-      "Litex: The First Formal Language Learnable in 1-2 Hours",
-      "https://github.com/litexlang/golitex"
-    ]
-  ],
-  [
-    [
       "2025-09-24, 19:29:13",
       "https://news.ycombinator.com/item?id=45364932"
     ],
     [
       "CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells",
       "https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 17:32:57",
+      "https://news.ycombinator.com/item?id=45363471"
+    ],
+    [
+      "Why is Windows still tinkering with critical sections? – The Old New Thing",
+      "https://devblogs.microsoft.com/oldnewthing/20250924-00/?p=111624"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Requiem for a Hash Function, or: How I learned to love package maphash",
       "https://matttproud.com/blog/posts/go-maphash.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 14:33:48",
-      "https://news.ycombinator.com/item?id=45347619"
-    ],
-    [
-      "Ultra efficient vector extension for SQLite",
-      "https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 17:33:20",
-      "https://news.ycombinator.com/item?id=45336775"
-    ],
-    [
-      "Pairing with Claude Code to rebuild my startup's website",
-      "https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild"
     ]
   ]
 ]
