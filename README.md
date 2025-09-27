@@ -4,7 +4,6 @@
 * [2025-09-27, 20:33:31](https://news.ycombinator.com/item?id=45399106) - [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
 * [2025-09-27, 20:26:39](https://news.ycombinator.com/item?id=45399063) - [Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files](https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups)
 * [2025-09-27, 20:01:15](https://news.ycombinator.com/item?id=45398900) - [New in Firefox: Visual search powered by Google Lens](https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026)
-* [2025-09-27, 19:42:24](https://news.ycombinator.com/item?id=45398760) - [Explore Digital Edition of Printing Types from 1922](https://www.openculture.com/2025/09/explore-a-new-digital-edition-of-printing-types-the-authoritative-history-of-printing-typography-from-1922.html)
 * [2025-09-27, 19:38:51](https://news.ycombinator.com/item?id=45398731) - [2025 Nikon Small World in Motion Competition Winners](https://www.nikonsmallworld.com/galleries/2025-small-world-in-motion-competition)
 * [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398468) - [Docker Was Too Slow, So We Replaced It: Nix in Production [video]](https://www.youtube.com/watch?v=iPoL03tFBtU)
 * [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398467) - [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
@@ -29,6 +28,7 @@
 * [2025-09-24, 18:01:54](https://news.ycombinator.com/item?id=45363845) - [Depictions of Celestial Objects Spanning Nearly a Millennium (2014)](https://publicdomainreview.org/collection/flowers-of-the-sky/)
 * [2025-09-24, 15:38:08](https://news.ycombinator.com/item?id=45361865) - [Compositor 0.3 for Windows](https://compositorapp.com/blog/2025-09-24/Compositor-Windows-03/)
 * [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Why Today's Python Developers Are Embracing Type Hints](https://pyrefly.org/blog/why-typed-python/)
+* [2025-09-23, 23:54:01](https://news.ycombinator.com/item?id=45354404) - [Meshtastic 64 – A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-23, 16:25:13](https://news.ycombinator.com/item?id=45349218) - [I built Foyer: a Rust hybrid cache that slashes S3 latency](https://medium.com/@yingjunwu/the-case-for-hybrid-cache-for-object-stores-4b1f02ec6c9a)
 
 ## [Archives](archives/index.md)
