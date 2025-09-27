@@ -32,6 +32,7 @@
 * [2025-09-24, 16:32:24](https://news.ycombinator.com/item?id=45362697) - [Terence Tao: The role of small organizations in society has shrunk significantly](https://mathstodon.xyz/@tao/115259943398316677)
 * [2025-09-24, 16:23:33](https://news.ycombinator.com/item?id=45362569) - [Product Hunt Is Dead](https://sedimental.org/product_hunt_is_dead.html)
 * [2025-09-24, 16:17:34](https://news.ycombinator.com/item?id=45362486) - [Better Curl Saul: a lightweight API testing CLI focused on UX and simplicity](https://github.com/DeprecatedLuar/better-curl-saul)
+* [2025-09-24, 16:16:06](https://news.ycombinator.com/item?id=45362460) - [Meshtastic 64: A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-24, 16:13:49](https://news.ycombinator.com/item?id=45362425) - [Zed's Pricing Has Changed: LLM Usage Is Now Token-Based](https://zed.dev/blog/pricing-change-llm-usage-is-now-token-based)
 * [2025-09-24, 16:03:42](https://news.ycombinator.com/item?id=45362254) - [New bacteria, and two potential antibiotics, discovered in soil](https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/)
 * [2025-09-24, 16:00:45](https://news.ycombinator.com/item?id=45362206) - [SedonaDB: A new geospatial DataFrame library written in Rust](https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/)
