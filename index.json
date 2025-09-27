@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-27, 22:30:00",
+      "https://news.ycombinator.com/item?id=45399893"
+    ],
+    [
+      "The (economic) AI apocalypse is nigh",
+      "https://pluralistic.net/2025/09/27/econopocalypse/"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 22:25:24",
+      "https://news.ycombinator.com/item?id=45399863"
+    ],
+    [
+      "Microwave weapon downs 49 drones with a single blast",
+      "https://newatlas.com/military/microwave-beam-anti-drone-weapon/"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 21:50:30",
       "https://news.ycombinator.com/item?id=45399637"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
-      "2025-09-27, 20:26:39",
-      "https://news.ycombinator.com/item?id=45399063"
-    ],
-    [
-      "Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files",
-      "https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups"
-    ]
-  ],
-  [
-    [
       "2025-09-27, 20:01:15",
       "https://news.ycombinator.com/item?id=45398900"
     ],
     [
       "New in Firefox: Visual search powered by Google Lens",
       "https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 20:00:13",
+      "https://news.ycombinator.com/item?id=45398891"
+    ],
+    [
+      "NixOS moderation team resigns over NixOS Steering Committee's interference",
+      "https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard",
       "https://signoz.io/blog/llm-observability-opentelemetry/"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 18:39:59",
-      "https://news.ycombinator.com/item?id=45398348"
-    ],
-    [
-      "Xeres: Uncensorable Peer-to-Peer Communications",
-      "https://xeres.io/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Why Today's Python Developers Are Embracing Type Hints",
       "https://pyrefly.org/blog/why-typed-python/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 23:54:01",
-      "https://news.ycombinator.com/item?id=45354404"
-    ],
-    [
-      "Meshtastic 64 – A meshtastic radio for the Commodore 64",
-      "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html"
     ]
   ],
   [
