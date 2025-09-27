@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 20:26:39](https://news.ycombinator.com/item?id=45399063) - [Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files](https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups)
 * [2025-09-27, 20:01:15](https://news.ycombinator.com/item?id=45398900) - [New in Firefox: Visual search powered by Google Lens](https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026)
 * [2025-09-27, 19:48:14](https://news.ycombinator.com/item?id=45398802) - [iPhone 17 chip becomes the fastest single-core CPU in the world on PassMark](https://www.tomshardware.com/pc-components/cpus/apples-a19-becomes-the-fastest-single-core-cpu-in-the-world-on-passmark-beating-pc-chips-and-apples-own-m3-ultra-passively-cooled-iphone-17-chip-catapults-past-power-hungry-competitors)
 * [2025-09-27, 19:42:24](https://news.ycombinator.com/item?id=45398760) - [Explore Digital Edition of Printing Types from 1922](https://www.openculture.com/2025/09/explore-a-new-digital-edition-of-printing-types-the-authoritative-history-of-printing-typography-from-1922.html)
@@ -21,7 +22,6 @@
 * [2025-09-27, 10:38:42](https://news.ycombinator.com/item?id=45394642) - [Ishkur's Guide to Electronic Music](http://music.ishkur.com/)
 * [2025-09-27, 07:31:39](https://news.ycombinator.com/item?id=45393842) - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-27, 06:00:41](https://news.ycombinator.com/item?id=45393501) - [A lifetime of social ties adds up to healthy aging](https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging)
-* [2025-09-26, 18:01:26](https://news.ycombinator.com/item?id=45389267) - [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
 * [2025-09-25, 20:11:11](https://news.ycombinator.com/item?id=45378323) - [Windows ML is generally available](https://blogs.windows.com/windowsdeveloper/2025/09/23/windows-ml-is-generally-available-empowering-developers-to-scale-local-ai-across-windows-devices/)
 * [2025-09-25, 18:26:35](https://news.ycombinator.com/item?id=45376847) - [Walking Around the Compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-25, 12:27:46](https://news.ycombinator.com/item?id=45371986) - [Testing the Raspberry Pi 500's new mechanical keyboard](https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard)
