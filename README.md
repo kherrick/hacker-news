@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 02:53:24](https://news.ycombinator.com/item?id=45392922) - [Why Today's Humanoids Won't Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
 * [2025-09-27, 02:01:35](https://news.ycombinator.com/item?id=45392744) - [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
 * [2025-09-26, 23:43:33](https://news.ycombinator.com/item?id=45392164) - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
 * [2025-09-26, 23:24:09](https://news.ycombinator.com/item?id=45392053) - [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
@@ -18,7 +19,6 @@
 * [2025-09-26, 17:06:48](https://news.ycombinator.com/item?id=45388728) - [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
 * [2025-09-26, 17:00:46](https://news.ycombinator.com/item?id=45388675) - [Gauntlet AI (YC S17) is looking for engineers who want to master AI](https://apply.gauntletai.com/)
 * [2025-09-26, 16:01:55](https://news.ycombinator.com/item?id=45388021) - [Open Social](https://overreacted.io/open-social/)
-* [2025-09-26, 15:14:44](https://news.ycombinator.com/item?id=45387462) - [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
 * [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US cities pay too much for buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 03:51:16](https://news.ycombinator.com/item?id=45382434) - [Evanston orders Flock to remove reinstalled cameras](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
 * [2025-09-26, 01:38:19](https://news.ycombinator.com/item?id=45381590) - [Exploit allows for takeover of fleets of Unitree robots](https://spectrum.ieee.org/unitree-robot-exploit)
