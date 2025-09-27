@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-09-26, 20:47:31",
-      "https://news.ycombinator.com/item?id=45390866"
-    ],
-    [
-      "RNA structure prediction is hard. How much does that matter?",
-      "https://www.owlposting.com/p/rna-structure-prediction-is-hard"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 20:46:26",
       "https://news.ycombinator.com/item?id=45390856"
     ],
@@ -287,6 +277,16 @@
     [
       "Requiem for a Hash Function, or: How I learned to love package maphash",
       "https://matttproud.com/blog/posts/go-maphash.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 14:33:48",
+      "https://news.ycombinator.com/item?id=45347619"
+    ],
+    [
+      "Ultra efficient vector extension for SQLite",
+      "https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite"
     ]
   ],
   [
