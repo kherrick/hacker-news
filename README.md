@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 12:00:22](https://news.ycombinator.com/item?id=45395010) - [Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025)
+* [2025-09-27, 11:44:57](https://news.ycombinator.com/item?id=45394942) - [Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say](https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221)
 * [2025-09-27, 07:31:39](https://news.ycombinator.com/item?id=45393842) - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-27, 06:45:03](https://news.ycombinator.com/item?id=45393653) - [Property-Based Testing of OCaml 5's Runtime System [pdf]](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf)
 * [2025-09-27, 06:00:41](https://news.ycombinator.com/item?id=45393501) - [Lifetime of social ties adds up to healthy aging at molecular level](https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging)
@@ -20,16 +22,14 @@
 * [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US cities pay too much for buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 02:09:47](https://news.ycombinator.com/item?id=45381810) - [Britain to introduce compulsory digital ID for workers](https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/)
 * [2025-09-25, 13:52:00](https://news.ycombinator.com/item?id=45372642) - [Show HN: Lingo – A linguistic database in Rust with nanosecond-level performance](https://news.ycombinator.com/item?id=45372642)
-* [2025-09-25, 05:43:01](https://news.ycombinator.com/item?id=45369629) - [Litex: The First Formal Language Learnable in 1-2 Hours](https://github.com/litexlang/golitex)
 * [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)
+* [2025-09-24, 17:32:57](https://news.ycombinator.com/item?id=45363471) - [Why is Windows still tinkering with critical sections? – The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20250924-00/?p=111624)
 * [2025-09-24, 15:00:35](https://news.ycombinator.com/item?id=45361347) - [How This Retro Cafeteria Became a Launchpad for Buffalo’s Food Entrepreneurs](https://www.thefoodcorridor.com/blog/how-this-retro-cafeteria-became-a-launchpad-for-buffalos-food-entrepreneurs/)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-year anniversary](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming (2001)](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
 * [2025-09-23, 23:54:01](https://news.ycombinator.com/item?id=45354404) - [Meshtastic 64 – A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-23, 16:25:13](https://news.ycombinator.com/item?id=45349218) - [I built Foyer: a Rust hybrid cache that slashes S3 latency](https://medium.com/@yingjunwu/the-case-for-hybrid-cache-for-object-stores-4b1f02ec6c9a)
 * [2025-09-23, 15:52:09](https://news.ycombinator.com/item?id=45348762) - [Requiem for a Hash Function, or: How I learned to love package maphash](https://matttproud.com/blog/posts/go-maphash.html)
-* [2025-09-23, 14:33:48](https://news.ycombinator.com/item?id=45347619) - [Ultra efficient vector extension for SQLite](https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite)
-* [2025-09-22, 17:33:20](https://news.ycombinator.com/item?id=45336775) - [Pairing with Claude Code to rebuild my startup's website](https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild)
 
 ## [Archives](archives/index.md)
 
