@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 23:54:01](https://news.ycombinator.com/item?id=45354404) - [Meshtastic 64 – A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-23, 23:42:50](https://news.ycombinator.com/item?id=45354314) - [The Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025)
 * [2025-09-23, 23:41:54](https://news.ycombinator.com/item?id=45354304) - [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system)
 * [2025-09-23, 23:36:16](https://news.ycombinator.com/item?id=45354262) - [NYC Telecom Raid: What's Up with Those Weird SIM Banks?](https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/)
