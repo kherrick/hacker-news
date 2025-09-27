@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-09-24, 18:52:23",
+      "https://news.ycombinator.com/item?id=45364503"
+    ],
+    [
+      "Elephantshark, a tool to monitor Postgres network traffic",
+      "https://neon.com/blog/elephantshark-monitor-postgres-network-traffic"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 08:29:58",
       "https://news.ycombinator.com/item?id=45357732"
     ],
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2025-09-23, 22:27:14",
-      "https://news.ycombinator.com/item?id=45353604"
-    ],
-    [
-      "Where to find PCB dataset for autorouting?",
-      "https://news.ycombinator.com/item?id=45353604"
-    ]
-  ],
-  [
-    [
       "2025-09-23, 15:52:09",
       "https://news.ycombinator.com/item?id=45348762"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-23, 14:33:48",
-      "https://news.ycombinator.com/item?id=45347619"
+      "2025-09-22, 17:33:20",
+      "https://news.ycombinator.com/item?id=45336775"
     ],
     [
-      "Ultra efficient vector extension for SQLite",
-      "https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite"
+      "Pairing with Claude Code to rebuild my startup's website",
+      "https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild"
     ]
   ]
 ]
