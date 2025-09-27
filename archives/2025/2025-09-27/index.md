@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 14:47:20](https://news.ycombinator.com/item?id=45396165) - [Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry](https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/)
+* [2025-09-27, 14:27:10](https://news.ycombinator.com/item?id=45395991) - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
 * [2025-09-27, 14:23:12](https://news.ycombinator.com/item?id=45395957) - [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 * [2025-09-27, 14:22:48](https://news.ycombinator.com/item?id=45395952) - [Show HN: An open source Launchpad for macOS 26](https://github.com/RoversX/LaunchNext)
+* [2025-09-27, 13:44:49](https://news.ycombinator.com/item?id=45395661) - [Cost of AGI Delusion:Chasing Superintelligence US Falling Behind in Real AI Race](https://www.foreignaffairs.com/united-states/cost-delusion-artificial-general-intelligence)
 * [2025-09-27, 13:19:57](https://news.ycombinator.com/item?id=45395499) - [The Other Linux Logo](https://ecogex.com/the-other-linux-logo/)
 * [2025-09-27, 13:10:34](https://news.ycombinator.com/item?id=45395428) - [Show HN: I spent 4 months building Duolingo but for your life](https://three-cells.com)
 * [2025-09-27, 13:05:45](https://news.ycombinator.com/item?id=45395396) - [Samsung now owns Denon, Bowers and Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)
