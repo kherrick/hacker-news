@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398467) - [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
 * [2025-09-27, 18:39:59](https://news.ycombinator.com/item?id=45398348) - [Xeres: Uncensorable Peer-to-Peer Communications](https://xeres.io/)
+* [2025-09-27, 18:09:06](https://news.ycombinator.com/item?id=45398089) - [Are We in an A.I. Bubble? I Suspect So](https://gideons.substack.com/p/are-we-in-an-ai-bubble-i-suspect)
 * [2025-09-27, 17:59:47](https://news.ycombinator.com/item?id=45398005) - [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol)
 * [2025-09-27, 17:39:35](https://news.ycombinator.com/item?id=45397830) - [The doctor who says we can improve our vision – at any age](https://www.thetimes.com/life-style/health-fitness/article/how-to-improve-vision-any-age-doctor-advice-gjnftx5dm)
 * [2025-09-27, 17:33:06](https://news.ycombinator.com/item?id=45397773) - [Americans Are Using PTO to Sleep, Not for Vacation–Report](https://www.newsweek.com/americans-are-using-pto-to-sleep-not-for-vacation-report-10783162)
