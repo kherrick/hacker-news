@@ -17,8 +17,8 @@
 * [2025-09-26, 18:01:26](https://news.ycombinator.com/item?id=45389267) - [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
 * [2025-09-26, 17:17:54](https://news.ycombinator.com/item?id=45388822) - [Suno Studio, a Generative AI DAW](https://suno.com/studio-welcome)
 * [2025-09-26, 17:06:48](https://news.ycombinator.com/item?id=45388728) - [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
-* [2025-09-26, 17:00:46](https://news.ycombinator.com/item?id=45388675) - [Gauntlet AI (YC S17) is looking for engineers who want to master AI](https://apply.gauntletai.com/)
 * [2025-09-26, 16:01:55](https://news.ycombinator.com/item?id=45388021) - [Open Social](https://overreacted.io/open-social/)
+* [2025-09-26, 15:17:31](https://news.ycombinator.com/item?id=45387494) - [Evolving the Multi-User Spaceport](https://www.spacex.com/updates#multiuser-spaceport)
 * [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US cities pay too much for buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 03:51:16](https://news.ycombinator.com/item?id=45382434) - [Evanston orders Flock to remove reinstalled cameras](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
 * [2025-09-26, 01:38:19](https://news.ycombinator.com/item?id=45381590) - [Exploit allows for takeover of fleets of Unitree robots](https://spectrum.ieee.org/unitree-robot-exploit)
@@ -29,7 +29,7 @@
 * [2025-09-24, 18:52:23](https://news.ycombinator.com/item?id=45364503) - [Elephantshark, a tool to monitor Postgres network traffic](https://neon.com/blog/elephantshark-monitor-postgres-network-traffic)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-year anniversary](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming (2001)](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
-* [2025-09-22, 17:33:20](https://news.ycombinator.com/item?id=45336775) - [Pairing with Claude Code to rebuild my startup's website](https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild)
+* [2025-09-23, 22:27:14](https://news.ycombinator.com/item?id=45353604) - [Where to find PCB dataset for autorouting?](https://news.ycombinator.com/item?id=45353604)
 
 ## [Archives](archives/index.md)
 
