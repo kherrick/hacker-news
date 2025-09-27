@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-27, 21:50:30](https://news.ycombinator.com/item?id=45399637) - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
 * [2025-09-27, 21:22:28](https://news.ycombinator.com/item?id=45399417) - [US to retire its only icebreaker, stranding polar research](https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research)
 * [2025-09-27, 20:33:31](https://news.ycombinator.com/item?id=45399106) - [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
 * [2025-09-27, 20:26:39](https://news.ycombinator.com/item?id=45399063) - [Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files](https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups)
@@ -24,7 +25,6 @@
 * [2025-09-25, 20:11:11](https://news.ycombinator.com/item?id=45378323) - [Windows ML is generally available](https://blogs.windows.com/windowsdeveloper/2025/09/23/windows-ml-is-generally-available-empowering-developers-to-scale-local-ai-across-windows-devices/)
 * [2025-09-25, 18:26:35](https://news.ycombinator.com/item?id=45376847) - [Walking Around the Compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-25, 12:27:46](https://news.ycombinator.com/item?id=45371986) - [Testing the Raspberry Pi 500's new mechanical keyboard](https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard)
-* [2025-09-25, 01:27:39](https://news.ycombinator.com/item?id=45368234) - [In Praise of Binturongs](https://satyrs.eu/garden/2025/binturongs)
 * [2025-09-24, 18:01:54](https://news.ycombinator.com/item?id=45363845) - [Depictions of Celestial Objects Spanning Nearly a Millennium (2014)](https://publicdomainreview.org/collection/flowers-of-the-sky/)
 * [2025-09-24, 15:38:08](https://news.ycombinator.com/item?id=45361865) - [Compositor 0.3 for Windows](https://compositorapp.com/blog/2025-09-24/Compositor-Windows-03/)
 * [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Why Today's Python Developers Are Embracing Type Hints](https://pyrefly.org/blog/why-typed-python/)

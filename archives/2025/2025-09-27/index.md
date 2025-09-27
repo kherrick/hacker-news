@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 21:50:30](https://news.ycombinator.com/item?id=45399637) - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
 * [2025-09-27, 21:22:28](https://news.ycombinator.com/item?id=45399417) - [US to retire its only icebreaker, stranding polar research](https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research)
 * [2025-09-27, 20:33:31](https://news.ycombinator.com/item?id=45399106) - [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
 * [2025-09-27, 20:26:39](https://news.ycombinator.com/item?id=45399063) - [Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files](https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups)
