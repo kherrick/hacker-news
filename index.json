@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-27, 14:23:12",
-      "https://news.ycombinator.com/item?id=45395957"
-    ],
-    [
-      "First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails",
-      "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft"
-    ]
-  ],
-  [
-    [
       "2025-09-27, 14:22:48",
       "https://news.ycombinator.com/item?id=45395952"
     ],
@@ -87,16 +77,6 @@
     [
       "Typst: A Possible LaTeX Replacement",
       "https://lwn.net/Articles/1037577/"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 06:45:03",
-      "https://news.ycombinator.com/item?id=45393653"
-    ],
-    [
-      "Property-Based Testing of OCaml 5's Runtime System [pdf]",
-      "https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2025-09-26, 18:20:33",
+      "https://news.ycombinator.com/item?id=45389464"
+    ],
+    [
+      "Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer",
+      "https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 18:04:29",
       "https://news.ycombinator.com/item?id=45389293"
     ],
@@ -197,6 +187,26 @@
     [
       "SimpleFold: Folding proteins is simpler than you think",
       "https://github.com/apple/ml-simplefold"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 17:17:54",
+      "https://news.ycombinator.com/item?id=45388822"
+    ],
+    [
+      "Suno Studio, a Generative AI DAW",
+      "https://suno.com/studio-welcome"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 17:06:48",
+      "https://news.ycombinator.com/item?id=45388728"
+    ],
+    [
+      "Modular Manifolds",
+      "https://thinkingmachines.ai/blog/modular-manifolds/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Why is Windows still tinkering with critical sections? – The Old New Thing",
       "https://devblogs.microsoft.com/oldnewthing/20250924-00/?p=111624"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 15:27:06",
-      "https://news.ycombinator.com/item?id=45361717"
-    ],
-    [
-      "Notes on Geiger Counters",
-      "https://divested.dev/pages/blog#2025-09-24-geigers"
     ]
   ],
   [
