@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-27, 03:49:07",
+      "https://news.ycombinator.com/item?id=45393087"
+    ],
+    [
+      "Casimir Effect Energy",
+      "https://www.casimirspace.com"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 02:01:35",
+      "https://news.ycombinator.com/item?id=45392744"
+    ],
+    [
+      "GPT-OSS Reinforcement Learning",
+      "https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 23:43:33",
       "https://news.ycombinator.com/item?id=45392164"
     ],
@@ -67,16 +87,6 @@
     [
       "Moondream 3 Preview: Frontier-level reasoning at a blazing speed",
       "https://moondream.ai/blog/moondream-3-preview"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 21:30:23",
-      "https://news.ycombinator.com/item?id=45391220"
-    ],
-    [
-      "Understanding RL for model training, and future directions with GRAPE",
-      "https://arxiv.org/abs/2509.04501"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-09-25, 09:13:01",
-      "https://news.ycombinator.com/item?id=45370760"
-    ],
-    [
-      "Endless AI-Generated Wikipedia",
-      "https://www.seangoedecke.com/endless-wiki/"
-    ]
-  ],
-  [
-    [
       "2025-09-25, 07:36:01",
       "https://news.ycombinator.com/item?id=45370209"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-09-24, 18:52:23",
+      "https://news.ycombinator.com/item?id=45364503"
+    ],
+    [
+      "Elephantshark, a tool to monitor Postgres network traffic",
+      "https://neon.com/blog/elephantshark-monitor-postgres-network-traffic"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 08:29:58",
       "https://news.ycombinator.com/item?id=45357732"
     ],
@@ -277,16 +287,6 @@
     [
       "The Beauty of Programming (2001)",
       "https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 14:33:48",
-      "https://news.ycombinator.com/item?id=45347619"
-    ],
-    [
-      "Ultra efficient vector extension for SQLite",
-      "https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite"
     ]
   ],
   [
