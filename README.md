@@ -20,7 +20,6 @@
 * [2025-09-26, 16:01:55](https://news.ycombinator.com/item?id=45388021) - [Open Social](https://overreacted.io/open-social/)
 * [2025-09-26, 15:17:31](https://news.ycombinator.com/item?id=45387494) - [Evolving the Multi-User Spaceport](https://www.spacex.com/updates#multiuser-spaceport)
 * [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US cities pay too much for buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
-* [2025-09-26, 07:06:45](https://news.ycombinator.com/item?id=45383637) - [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
 * [2025-09-26, 02:09:47](https://news.ycombinator.com/item?id=45381810) - [Britain to introduce compulsory digital ID for workers](https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/)
 * [2025-09-25, 05:43:01](https://news.ycombinator.com/item?id=45369629) - [Litex: The First Formal Language Learnable in 1-2 Hours](https://github.com/litexlang/golitex)
 * [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)
@@ -28,6 +27,7 @@
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming (2001)](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
 * [2025-09-23, 23:54:01](https://news.ycombinator.com/item?id=45354404) - [Meshtastic 64 – A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-23, 22:27:14](https://news.ycombinator.com/item?id=45353604) - [Where to find PCB dataset for autorouting?](https://news.ycombinator.com/item?id=45353604)
+* [2025-09-23, 15:52:09](https://news.ycombinator.com/item?id=45348762) - [Requiem for a Hash Function, or: How I learned to love package maphash](https://matttproud.com/blog/posts/go-maphash.html)
 * [2025-09-23, 14:33:48](https://news.ycombinator.com/item?id=45347619) - [Ultra efficient vector extension for SQLite](https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite)
 * [2025-09-22, 17:33:20](https://news.ycombinator.com/item?id=45336775) - [Pairing with Claude Code to rebuild my startup's website](https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild)
 
