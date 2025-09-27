@@ -23,12 +23,12 @@
 * [2025-09-26, 02:09:47](https://news.ycombinator.com/item?id=45381810) - [Britain to introduce compulsory digital ID for workers](https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/)
 * [2025-09-25, 13:17:49](https://news.ycombinator.com/item?id=45372319) - [RPi 500 arrives with mechanical switches, RGB LED backlit keys](https://thepihut.com/products/raspberry-pi-500-plus)
 * [2025-09-25, 09:13:01](https://news.ycombinator.com/item?id=45370760) - [Endless AI-Generated Wikipedia](https://www.seangoedecke.com/endless-wiki/)
+* [2025-09-25, 07:36:01](https://news.ycombinator.com/item?id=45370209) - [MCAP Support Lands in Rerun](https://rerun.io/blog/introducing-experimental-support-for-mcap-file-format)
 * [2025-09-24, 23:45:55](https://news.ycombinator.com/item?id=45367362) - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
 * [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)
 * [2025-09-24, 11:53:38](https://news.ycombinator.com/item?id=45359083) - [Amiga SPICE is a program for simulating electronic circuits](https://www.edsa.uk/blog/amiga-spice)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-year anniversary](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming (2001)](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
-* [2025-09-23, 14:33:48](https://news.ycombinator.com/item?id=45347619) - [Ultra efficient vector extension for SQLite](https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite)
 * [2025-09-23, 12:23:04](https://news.ycombinator.com/item?id=45346014) - [Bach Cello Suites (2024)](https://bachcellosuites.co.uk/)
 
 ## [Archives](archives/index.md)
