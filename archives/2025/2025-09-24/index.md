@@ -54,6 +54,7 @@
 * [2025-09-24, 14:51:44](https://news.ycombinator.com/item?id=45361239) - [The DHS has been harvesting DNA from Americans for years](https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/)
 * [2025-09-24, 14:44:20](https://news.ycombinator.com/item?id=45361154) - [Who Funds Misfit Research?](https://blog.spec.tech/p/who-funds-misfit-research)
 * [2025-09-24, 14:42:49](https://news.ycombinator.com/item?id=45361140) - [How HubSpot Scaled AI Adoption](https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption)
+* [2025-09-24, 14:41:22](https://news.ycombinator.com/item?id=45361124) - [Questions to ask when you think need to finish something](https://cassidoo.co/post/questions-when-i-need-to-finish-something/)
 * [2025-09-24, 14:38:02](https://news.ycombinator.com/item?id=45361071) - [Building a Custom eBPF Filesystem Watcher to Catch Root Ownership Goofs](https://amandeepsp.github.io/blog/fs-watcher/)
 * [2025-09-24, 14:20:33](https://news.ycombinator.com/item?id=45360824) - [Smartphone Cameras Go Hyperspectral](https://spectrum.ieee.org/hyperspectral-imaging)
 * [2025-09-24, 14:18:14](https://news.ycombinator.com/item?id=45360787) - [Show HN: Mosaic – A Kotlin framework for cleaner back end code](https://github.com/Nick-Abbott/Mosaic)
