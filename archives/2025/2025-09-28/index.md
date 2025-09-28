@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 20:25:16](https://news.ycombinator.com/item?id=45407657) - [Swiss voters back e-ID legislation](https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html)
+* [2025-09-28, 20:07:07](https://news.ycombinator.com/item?id=45407505) - [C-sigma: Easy-to-use Sigma proofs in C using libsodium](https://github.com/jedisct1/c-sigma)
 * [2025-09-28, 20:06:13](https://news.ycombinator.com/item?id=45407490) - [China Is Run by Engineers. America Is Run by Lawyers](https://freakonomics.com/podcast/china-is-run-by-engineers-america-is-run-by-lawyers/)
 * [2025-09-28, 19:11:31](https://news.ycombinator.com/item?id=45406979) - [Chinese scientists set world record with magnetic field 700k times Earth's](https://english.news.cn/20250928/a00ea1b8b8db49018bcd3e606df0b06d/c.html)
 * [2025-09-28, 19:00:20](https://news.ycombinator.com/item?id=45406911) - [The QMA Singularity](https://scottaaronson.blog/?p=9183)

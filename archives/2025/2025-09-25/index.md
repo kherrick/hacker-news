@@ -41,6 +41,7 @@
 * [2025-09-25, 16:31:02](https://news.ycombinator.com/item?id=45374961) - [The Harvard-Emory ECG Database](https://bdsp.io/content/heedb/4.0/)
 * [2025-09-25, 16:11:55](https://news.ycombinator.com/item?id=45374665) - [Shoes, Algernon, Pangea, and Sea Peoples](https://dynomight.net/shorts-5/)
 * [2025-09-25, 16:01:41](https://news.ycombinator.com/item?id=45374500) - [ChatControl: EU wants to scan all private messages, even in encrypted apps](https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/)
+* [2025-09-25, 15:45:41](https://news.ycombinator.com/item?id=45374239) - [Collaborating with a robot biases human spatial attention](https://www.cell.com/iscience/fulltext/S2589-0042(25)01052-1)
 * [2025-09-25, 15:35:19](https://news.ycombinator.com/item?id=45374064) - [FTC Secures Historic $2.5B Settlement Against Amazon](https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon)
 * [2025-09-25, 15:09:25](https://news.ycombinator.com/item?id=45373606) - [It's Time to License Software Engineering](https://www.slater.dev/its-time-to-license-software-engineering/)
 * [2025-09-25, 15:07:32](https://news.ycombinator.com/item?id=45373570) - [A Fast, Strong, Topologically Meaningful and Fun Knot Invariant](https://arxiv.org/abs/2509.18456)
