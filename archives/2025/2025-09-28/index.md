@@ -8,6 +8,7 @@
 * [2025-09-28, 18:01:39](https://news.ycombinator.com/item?id=45406442) - [UK Petition: Do not introduce Digital ID cards](https://petition.parliament.uk/petitions/730194)
 * [2025-09-28, 17:40:05](https://news.ycombinator.com/item?id=45406256) - [Denmark bans civil drones after more sightings](https://www.dw.com/en/denmark-bans-civil-drones-after-more-sightings/a-74166973)
 * [2025-09-28, 17:23:21](https://news.ycombinator.com/item?id=45406109) - [Bayesian Data Analysis, Third edition [pdf]](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf)
+* [2025-09-28, 17:09:09](https://news.ycombinator.com/item?id=45405990) - [Real-Time Radiation World Map](https://www.gmcmap.com/)
 * [2025-09-28, 17:07:29](https://news.ycombinator.com/item?id=45405977) - [Ask HN: How Do I Get over My Existential Crisis?](https://news.ycombinator.com/item?id=45405977)
 * [2025-09-28, 16:47:39](https://news.ycombinator.com/item?id=45405815) - [Testing \"Exotic\" P2P VPN](https://blog.nommy.moe/blog/exotic-mesh-vpn/)
 * [2025-09-28, 16:40:53](https://news.ycombinator.com/item?id=45405750) - [The Weird Concept of Branchless Programming](https://sanixdk.xyz/blogs/the-weird-concept-of-branchless-programming)
