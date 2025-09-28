@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 20:06:13](https://news.ycombinator.com/item?id=45407490) - [China Is Run by Engineers. America Is Run by Lawyers](https://freakonomics.com/podcast/china-is-run-by-engineers-america-is-run-by-lawyers/)
 * [2025-09-28, 19:11:31](https://news.ycombinator.com/item?id=45406979) - [Chinese scientists set world record with magnetic field 700k times Earth's](https://english.news.cn/20250928/a00ea1b8b8db49018bcd3e606df0b06d/c.html)
 * [2025-09-28, 19:00:20](https://news.ycombinator.com/item?id=45406911) - [The QMA Singularity](https://scottaaronson.blog/?p=9183)
+* [2025-09-28, 18:49:40](https://news.ycombinator.com/item?id=45406826) - [People got together to stop a school shooting before it happened](https://www.nytimes.com/2025/09/27/nyregion/mass-shooting-prevention.html)
 * [2025-09-28, 18:40:02](https://news.ycombinator.com/item?id=45406749) - [Why some USB C cables work, or not, J-Link](https://alvarop.com/2025/09/j-link-compact-usb-c-issues/)
 * [2025-09-28, 18:19:01](https://news.ycombinator.com/item?id=45406573) - [VMScape and why Xen dodged it](https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/)
 * [2025-09-28, 18:01:39](https://news.ycombinator.com/item?id=45406442) - [UK Petition: Do not introduce Digital ID cards](https://petition.parliament.uk/petitions/730194)
