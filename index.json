@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-28, 05:12:42",
+      "https://news.ycombinator.com/item?id=45401936"
+    ],
+    [
+      "Linus Torvalds and the Supposedly \"Garbage Code\"",
+      "https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/"
+    ]
+  ],
+  [
+    [
+      "2025-09-28, 05:04:39",
+      "https://news.ycombinator.com/item?id=45401907"
+    ],
+    [
+      "IBM Intellistation 185 AIX workstation (2016)",
+      "http://www.ibmfiles.com/pages/intellipower185.htm"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 01:48:15",
       "https://news.ycombinator.com/item?id=45401051"
     ],
@@ -35,8 +55,8 @@
       "https://news.ycombinator.com/item?id=45399863"
     ],
     [
-      "Microwave weapon downs 49 drones with a single blast",
-      "https://newatlas.com/military/microwave-beam-anti-drone-weapon/"
+      "High-power microwave defeats drone swarm",
+      "https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration"
     ]
   ],
   [
@@ -171,42 +191,12 @@
   ],
   [
     [
-      "2025-09-27, 12:27:46",
-      "https://news.ycombinator.com/item?id=45395133"
-    ],
-    [
-      "Why We Think",
-      "https://lilianweng.github.io/posts/2025-05-01-thinking/"
-    ]
-  ],
-  [
-    [
       "2025-09-27, 10:38:42",
       "https://news.ycombinator.com/item?id=45394642"
     ],
     [
       "Ishkur's Guide to Electronic Music",
       "http://music.ishkur.com/"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 07:31:39",
-      "https://news.ycombinator.com/item?id=45393842"
-    ],
-    [
-      "Typst: A Possible LaTeX Replacement",
-      "https://lwn.net/Articles/1037577/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 20:11:11",
-      "https://news.ycombinator.com/item?id=45378323"
-    ],
-    [
-      "Windows ML is generally available",
-      "https://blogs.windows.com/windowsdeveloper/2025/09/23/windows-ml-is-generally-available-empowering-developers-to-scale-local-ai-across-windows-devices/"
     ]
   ],
   [
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=45371986"
     ],
     [
-      "Testing the Raspberry Pi 500's new mechanical keyboard",
+      "Testing the Raspberry Pi 500+'s new mechanical keyboard",
       "https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard"
     ]
   ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-09-24, 16:09:59",
+      "https://news.ycombinator.com/item?id=45362365"
+    ],
+    [
+      "I built and launched the first AirPods-Controlled Game",
+      "https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 15:16:22",
       "https://news.ycombinator.com/item?id=45361568"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=45361476"
     ],
     [
-      "Just How Resilient Are Large Language Models?",
+      "Just how resilient are large language models?",
       "https://www.rdrocket.com/blog/just-how-resilient-are-large-language-models"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45357573"
     ],
     [
-      "The Magical Number Seven, Plus or Minus Two [pdf]",
+      "The Magical Number Seven, Plus or Minus Two (1956) [pdf]",
       "https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf"
     ]
   ]
