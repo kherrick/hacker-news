@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 15:43:33](https://news.ycombinator.com/item?id=45405177) - [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
+* [2025-09-28, 15:09:07](https://news.ycombinator.com/item?id=45404907) - [She Sent Her iPhone to Apple. Repair Techs Uploaded Her Nudes to Facebook (2021)](https://www.vice.com/en/article/she-sent-her-iphone-to-apple-repair-techs-uploaded-her-nudes-to-facebook/)
 * [2025-09-28, 14:57:34](https://news.ycombinator.com/item?id=45404803) - [The golden ratio as a number base](https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base)
 * [2025-09-28, 14:56:22](https://news.ycombinator.com/item?id=45404793) - [How did we all miss the bacteria taking over her body?](https://www.theguardian.com/world/2025/sep/28/as-my-daughter-got-sicker-and-sicker-our-quest-for-answers-dragged-on-how-did-we-all-miss-the-bacteria-taking-over-her-body)
+* [2025-09-28, 14:55:11](https://news.ycombinator.com/item?id=45404783) - [Apple threatens to stop selling iPhones in the EU](https://pluralistic.net/2025/09/26/empty-threats/#500-million-affluent-consumers)
 * [2025-09-28, 14:40:46](https://news.ycombinator.com/item?id=45404667) - [Show HN: Toolbrew – Free little tools without signups or ads](https://toolbrew.co/)
 * [2025-09-28, 14:27:44](https://news.ycombinator.com/item?id=45404573) - [Plan 9 from User Space](https://github.com/9fans/plan9port)
 * [2025-09-28, 14:00:12](https://news.ycombinator.com/item?id=45404373) - [The Demon-Haunted World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
