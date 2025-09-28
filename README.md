@@ -2,6 +2,7 @@
 
 * [2025-09-28, 15:43:33](https://news.ycombinator.com/item?id=45405177) - [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
 * [2025-09-28, 15:09:07](https://news.ycombinator.com/item?id=45404907) - [She Sent Her iPhone to Apple. Repair Techs Uploaded Her Nudes to Facebook (2021)](https://www.vice.com/en/article/she-sent-her-iphone-to-apple-repair-techs-uploaded-her-nudes-to-facebook/)
+* [2025-09-28, 14:57:34](https://news.ycombinator.com/item?id=45404803) - [The golden ratio as a number base](https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base)
 * [2025-09-28, 14:56:22](https://news.ycombinator.com/item?id=45404793) - [How did we all miss the bacteria taking over her body?](https://www.theguardian.com/world/2025/sep/28/as-my-daughter-got-sicker-and-sicker-our-quest-for-answers-dragged-on-how-did-we-all-miss-the-bacteria-taking-over-her-body)
 * [2025-09-28, 14:55:11](https://news.ycombinator.com/item?id=45404783) - [Apple threatens to stop selling iPhones in the EU](https://pluralistic.net/2025/09/26/empty-threats/#500-million-affluent-consumers)
 * [2025-09-28, 14:40:46](https://news.ycombinator.com/item?id=45404667) - [Show HN: Toolbrew – Free little tools without signups or ads](https://toolbrew.co/)
@@ -22,7 +23,6 @@
 * [2025-09-27, 15:17:30](https://news.ycombinator.com/item?id=45396441) - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
 * [2025-09-27, 14:27:10](https://news.ycombinator.com/item?id=45395991) - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
 * [2025-09-27, 14:23:12](https://news.ycombinator.com/item?id=45395957) - [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
-* [2025-09-25, 18:07:49](https://news.ycombinator.com/item?id=45376559) - [Haydex: From Zero to 178.6B rows a second in 30 days](https://axiom.co/blog/building-haydex)
 * [2025-09-25, 16:59:22](https://news.ycombinator.com/item?id=45375462) - [Time travel? Or, just clever technology](https://www.syncdna.com/blog/time-travel-or-just-clever-tech)
 * [2025-09-25, 09:20:39](https://news.ycombinator.com/item?id=45370798) - [Man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
 * [2025-09-24, 21:03:45](https://news.ycombinator.com/item?id=45365927) - [Textile Encoding via Elastically Graded Embroidered Tessellations](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500959)
