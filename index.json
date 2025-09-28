@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-28, 18:19:01",
+      "https://news.ycombinator.com/item?id=45406573"
+    ],
+    [
+      "VMScape and why Xen dodged it",
+      "https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 18:01:39",
       "https://news.ycombinator.com/item?id=45406442"
     ],
@@ -257,16 +267,6 @@
     [
       "Broker-Side SQL Filtering with RabbitMQ Streams",
       "https://www.rabbitmq.com/blog/2025/09/23/sql-filter-expressions"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 21:03:45",
-      "https://news.ycombinator.com/item?id=45365927"
-    ],
-    [
-      "Textile Encoding via Elastically Graded Embroidered Tessellations",
-      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500959"
     ]
   ],
   [
