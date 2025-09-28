@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-28, 13:24:52](https://news.ycombinator.com/item?id=45404173) - [Listeria found Walmart meatball meals may be linked deadly fettuccine outbreak](https://www.cnn.com/2025/09/26/health/listeria-fettuccine-outbreak)
+* [2025-09-28, 12:19:16](https://news.ycombinator.com/item?id=45403803) - [Failing to Understand the Exponential, Again](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/)
 * [2025-09-28, 12:06:15](https://news.ycombinator.com/item?id=45403727) - [The Post-American Order Starts in Riyadh and Islamabad](https://www.bloomberg.com/opinion/articles/2025-09-24/the-post-american-order-starts-in-riyadh-and-islamabad)
 * [2025-09-28, 11:50:25](https://news.ycombinator.com/item?id=45403656) - [EPA tells some scientists to stop publishing studies](https://www.washingtonpost.com/climate-environment/2025/09/20/epa-scientists-research-publications/)
 * [2025-09-28, 11:17:55](https://news.ycombinator.com/item?id=45403501) - [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free)
@@ -8,7 +9,6 @@
 * [2025-09-28, 10:36:23](https://news.ycombinator.com/item?id=45403288) - [Show HN: Curated gamedev specific search engine](https://gamedevtorch.com/)
 * [2025-09-28, 10:00:05](https://news.ycombinator.com/item?id=45403134) - [US Military struggling to deploy AI weapons](https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK)
 * [2025-09-28, 08:53:36](https://news.ycombinator.com/item?id=45402820) - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
-* [2025-09-28, 08:13:00](https://news.ycombinator.com/item?id=45402639) - [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb)
 * [2025-09-28, 05:04:39](https://news.ycombinator.com/item?id=45401907) - [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
 * [2025-09-28, 01:48:15](https://news.ycombinator.com/item?id=45401051) - [Solar panels + cold = A potential problem](https://www.linspyre.com/ecoholics/temps.html)
 * [2025-09-27, 23:50:42](https://news.ycombinator.com/item?id=45400376) - [Learn to play Go](https://online-go.com/learn-to-play-go)
