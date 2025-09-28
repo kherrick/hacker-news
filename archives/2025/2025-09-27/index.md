@@ -40,6 +40,7 @@
 * [2025-09-27, 15:17:30](https://news.ycombinator.com/item?id=45396441) - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
 * [2025-09-27, 15:10:47](https://news.ycombinator.com/item?id=45396377) - [Scientists say X has lost its professional edge and Bluesky is taking its place](https://www.psypost.org/scientists-say-x-formerly-twitter-has-lost-its-professional-edge-and-bluesky-is-taking-its-place/)
 * [2025-09-27, 15:02:02](https://news.ycombinator.com/item?id=45396284) - [Unprecedented role of Amazon fires in the record atmospheric CO₂ growth in 2024](https://essopenarchive.org/doi/full/10.22541/essoar.175874118.83695562/v1)
+* [2025-09-27, 14:55:29](https://news.ycombinator.com/item?id=45396234) - [マリウス – Thoughts on Cloudflare](https://xn--gckvb8fzb.com/thoughts-on-cloudflare/)
 * [2025-09-27, 14:47:20](https://news.ycombinator.com/item?id=45396165) - [Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry](https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/)
 * [2025-09-27, 14:42:04](https://news.ycombinator.com/item?id=45396118) - [Is sound gradual typing dead? Performance problems in Typed Racket](https://dl.acm.org/doi/abs/10.1145/2837614.2837630)
 * [2025-09-27, 14:27:10](https://news.ycombinator.com/item?id=45395991) - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
