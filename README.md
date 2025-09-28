@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-28, 22:49:44](https://news.ycombinator.com/item?id=45408794) - [Buffett indicator says stock market overvalued](https://www.cnbc.com/2025/09/28/buffett-indicator-stock-market-overvalued.html)
 * [2025-09-28, 22:20:59](https://news.ycombinator.com/item?id=45408617) - [Go ahead, write the stupid code](https://spikepuppet.io/posts/write-the-stupid-code/)
 * [2025-09-28, 21:44:47](https://news.ycombinator.com/item?id=45408368) - [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413)
 * [2025-09-28, 21:31:10](https://news.ycombinator.com/item?id=45408229) - [Farewell friends](https://humbledollar.com/forum/farewell-friends/)
@@ -21,7 +22,6 @@
 * [2025-09-28, 13:00:16](https://news.ycombinator.com/item?id=45404022) - [When I say “alphabetical order”, I mean “alphabetical order”](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
 * [2025-09-28, 12:59:54](https://news.ycombinator.com/item?id=45404021) - [Privacy Badger is a free browser extension made by EFF to stop spying](https://privacybadger.org/)
 * [2025-09-28, 08:53:36](https://news.ycombinator.com/item?id=45402820) - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
-* [2025-09-27, 15:17:30](https://news.ycombinator.com/item?id=45396441) - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
 * [2025-09-25, 17:28:11](https://news.ycombinator.com/item?id=45375977) - [A safe, non-owning C++ pointer class](https://techblog.rosemanlabs.com/c++/safety/object-lifetime/2025/08/28/a-safe-pointer-that-protects-against-use-after-free-and-updates-when-the-pointee-is-moved.html)
 * [2025-09-25, 16:59:22](https://news.ycombinator.com/item?id=45375462) - [Time travel? Or, just clever technology](https://www.syncdna.com/blog/time-travel-or-just-clever-tech)
 * [2025-09-25, 15:45:41](https://news.ycombinator.com/item?id=45374239) - [Collaborating with a robot biases human spatial attention](https://www.cell.com/iscience/fulltext/S2589-0042(25)01052-1)

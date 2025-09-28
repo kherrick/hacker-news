@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 22:49:44](https://news.ycombinator.com/item?id=45408794) - [Buffett indicator says stock market overvalued](https://www.cnbc.com/2025/09/28/buffett-indicator-stock-market-overvalued.html)
 * [2025-09-28, 22:20:59](https://news.ycombinator.com/item?id=45408617) - [Go ahead, write the stupid code](https://spikepuppet.io/posts/write-the-stupid-code/)
 * [2025-09-28, 21:44:47](https://news.ycombinator.com/item?id=45408368) - [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413)
 * [2025-09-28, 21:31:10](https://news.ycombinator.com/item?id=45408229) - [Farewell Friends](https://humbledollar.com/forum/farewell-friends/)
