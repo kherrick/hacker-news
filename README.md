@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-28, 08:13:00](https://news.ycombinator.com/item?id=45402639) - [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb)
+* [2025-09-28, 07:44:07](https://news.ycombinator.com/item?id=45402496) - [Dismissed as a joke, UK's first rice crop ripe for picking after hot summer](https://www.bbc.co.uk/news/articles/c1wgeq702dyo)
 * [2025-09-28, 05:04:39](https://news.ycombinator.com/item?id=45401907) - [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
 * [2025-09-28, 01:48:15](https://news.ycombinator.com/item?id=45401051) - [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html)
 * [2025-09-28, 00:59:51](https://news.ycombinator.com/item?id=45400828) - [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
@@ -17,7 +19,6 @@
 * [2025-09-27, 14:55:29](https://news.ycombinator.com/item?id=45396234) - [Thoughts on Cloudflare](https://xn--gckvb8fzb.com/thoughts-on-cloudflare/)
 * [2025-09-27, 14:27:10](https://news.ycombinator.com/item?id=45395991) - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
 * [2025-09-27, 14:23:12](https://news.ycombinator.com/item?id=45395957) - [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
-* [2025-09-27, 12:27:46](https://news.ycombinator.com/item?id=45395133) - [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/)
 * [2025-09-27, 07:31:39](https://news.ycombinator.com/item?id=45393842) - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-25, 16:11:55](https://news.ycombinator.com/item?id=45374665) - [Shoes, Algernon, Pangea, and sea peoples](https://dynomight.net/shorts-5/)
 * [2025-09-25, 12:27:46](https://news.ycombinator.com/item?id=45371986) - [Testing the Raspberry Pi 500+'s new mechanical keyboard](https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard)
@@ -29,7 +30,6 @@
 * [2025-09-24, 15:16:22](https://news.ycombinator.com/item?id=45361568) - [The 3,000-year-old story hidden in the @ sign](https://www.bbc.com/future/article/20250923-the-3000-year-old-story-hidden-in-your-keyboard)
 * [2025-09-24, 15:10:04](https://news.ycombinator.com/item?id=45361476) - [Just how resilient are large language models?](https://www.rdrocket.com/blog/just-how-resilient-are-large-language-models)
 * [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Python developers are embracing type hints](https://pyrefly.org/blog/why-typed-python/)
-* [2025-09-24, 08:02:29](https://news.ycombinator.com/item?id=45357573) - [The Magical Number Seven, Plus or Minus Two (1956) [pdf]](https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf)
 
 ## [Archives](archives/index.md)
 
