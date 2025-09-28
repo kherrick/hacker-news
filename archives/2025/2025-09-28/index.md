@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 16:33:47](https://news.ycombinator.com/item?id=45405675) - [Swiss voters back e-ID and abolish rental tax](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-have-decided-on-electronic-id-and-abolishing-rental-tax/90057432)
+* [2025-09-28, 16:23:51](https://news.ycombinator.com/item?id=45405584) - [Show HN: Built an MCP server using Cloudflare's Code Mode pattern](https://github.com/jx-codes/codemode-mcp)
 * [2025-09-28, 15:56:03](https://news.ycombinator.com/item?id=45405285) - [Detaching GraalVM from the Java Ecosystem Train](https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train)
 * [2025-09-28, 15:48:10](https://news.ycombinator.com/item?id=45405221) - [Why I'm not rushing to take sides in the RubyGems fiasco](https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/)
 * [2025-09-28, 15:43:33](https://news.ycombinator.com/item?id=45405177) - [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
