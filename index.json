@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-28, 00:12:52",
+      "https://news.ycombinator.com/item?id=45400540"
+    ],
+    [
+      "UK government underwriting £1.5B loan to Jaguar Land Rover after cyber-attack",
+      "https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 23:33:43",
+      "https://news.ycombinator.com/item?id=45400269"
+    ],
+    [
+      "Spending on AI Is at Epic Levels. Will It Ever Pay Off?",
+      "https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 23:26:57",
       "https://news.ycombinator.com/item?id=45400221"
     ],
@@ -57,16 +77,6 @@
     [
       "Handy – Free open-source speech-to-text app written in Rust",
       "https://handy.computer/"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 20:00:13",
-      "https://news.ycombinator.com/item?id=45398891"
-    ],
-    [
-      "NixOS moderation team resigns over NixOS Steering Committee's interference",
-      "https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-09-27, 15:02:02",
-      "https://news.ycombinator.com/item?id=45396284"
-    ],
-    [
-      "Role of Amazon fires in the record atmospheric CO₂ growth in 2024",
-      "https://essopenarchive.org/doi/full/10.22541/essoar.175874118.83695562/v1"
-    ]
-  ],
-  [
-    [
       "2025-09-27, 14:27:10",
       "https://news.ycombinator.com/item?id=45395991"
     ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=45395957"
     ],
     [
-      "The Postmark backdoor that’s downloading emails",
+      "A Postmark backdoor that’s downloading emails",
       "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft"
     ]
   ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-09-24, 18:01:54",
-      "https://news.ycombinator.com/item?id=45363845"
+      "2025-09-25, 09:20:39",
+      "https://news.ycombinator.com/item?id=45370798"
     ],
     [
-      "Depictions of Celestial Objects Spanning Nearly a Millennium (2014)",
-      "https://publicdomainreview.org/collection/flowers-of-the-sky/"
+      "'Amazing feat': US man still alive six months after pig kidney transplant",
+      "https://www.nature.com/articles/d41586-025-02851-w"
     ]
   ],
   [
