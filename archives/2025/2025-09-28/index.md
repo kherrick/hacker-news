@@ -19,6 +19,7 @@
 * [2025-09-28, 08:53:36](https://news.ycombinator.com/item?id=45402820) - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
 * [2025-09-28, 08:13:00](https://news.ycombinator.com/item?id=45402639) - [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb)
 * [2025-09-28, 07:44:07](https://news.ycombinator.com/item?id=45402496) - [Dismissed as a joke, UK's first rice crop ripe for picking after hot summer](https://www.bbc.co.uk/news/articles/c1wgeq702dyo)
+* [2025-09-28, 06:31:16](https://news.ycombinator.com/item?id=45402197) - [Run 14 vintage OSes (Windows 1.01→XP, ReactOS, Haiku) in the browser](https://oses.ioblako.com/)
 * [2025-09-28, 05:12:42](https://news.ycombinator.com/item?id=45401936) - [Linus Torvalds and the Supposedly \"Garbage Code\"](https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/)
 * [2025-09-28, 05:04:39](https://news.ycombinator.com/item?id=45401907) - [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
 * [2025-09-28, 01:48:15](https://news.ycombinator.com/item?id=45401051) - [Do Not Do This Unless You Want Magic Black Smoke](https://www.linspyre.com/ecoholics/temps.html)
