@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 13:24:52](https://news.ycombinator.com/item?id=45404173) - [Listeria found Walmart meatball meals may be linked deadly fettuccine outbreak](https://www.cnn.com/2025/09/26/health/listeria-fettuccine-outbreak)
 * [2025-09-28, 12:06:15](https://news.ycombinator.com/item?id=45403727) - [The Post-American Order Starts in Riyadh and Islamabad](https://www.bloomberg.com/opinion/articles/2025-09-24/the-post-american-order-starts-in-riyadh-and-islamabad)
 * [2025-09-28, 11:50:25](https://news.ycombinator.com/item?id=45403656) - [EPA tells some scientists to stop publishing studies](https://www.washingtonpost.com/climate-environment/2025/09/20/epa-scientists-research-publications/)
 * [2025-09-28, 11:17:55](https://news.ycombinator.com/item?id=45403501) - [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free)
