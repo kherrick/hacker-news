@@ -63,6 +63,7 @@
 * [2025-09-25, 10:47:24](https://news.ycombinator.com/item?id=45371359) - [How many valid JSON strings are there?](https://qntm.org/jsoncount)
 * [2025-09-25, 10:39:17](https://news.ycombinator.com/item?id=45371309) - [The Wind, a Pole, and the Dragon](https://entropicthoughts.com/the-wind-a-pole-and-the-dragon)
 * [2025-09-25, 10:35:19](https://news.ycombinator.com/item?id=45371283) - [The Theatre of Pull Requests and Code Review](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review)
+* [2025-09-25, 10:20:06](https://news.ycombinator.com/item?id=45371188) - [The Hacker Folk Art of Esoteric Coding](https://thereader.mitpress.mit.edu/the-hacker-folk-art-of-esoteric-coding/)
 * [2025-09-25, 10:05:49](https://news.ycombinator.com/item?id=45371061) - [Bundler Belongs to the Ruby Community](https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/)
 * [2025-09-25, 09:57:38](https://news.ycombinator.com/item?id=45370997) - [Apple pushes EU to repeal tech rules over feature delays, app vulnerabilities](https://www.reuters.com/business/apple-urges-eu-regulators-take-closer-look-tech-rules-2025-09-25/)
 * [2025-09-25, 09:36:40](https://news.ycombinator.com/item?id=45370882) - [Some interesting stuff I found on IX LANs](https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting)
