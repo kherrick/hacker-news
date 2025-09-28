@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-28, 21:44:47](https://news.ycombinator.com/item?id=45408368) - [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413)
-* [2025-09-28, 21:31:10](https://news.ycombinator.com/item?id=45408229) - [Farewell Friends](https://humbledollar.com/forum/farewell-friends/)
+* [2025-09-28, 21:31:10](https://news.ycombinator.com/item?id=45408229) - [Farewell friends](https://humbledollar.com/forum/farewell-friends/)
 * [2025-09-28, 21:08:15](https://news.ycombinator.com/item?id=45408021) - [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
 * [2025-09-28, 21:00:07](https://news.ycombinator.com/item?id=45407951) - [Roe (YC W24) Is Hiring](https://news.ycombinator.com/item?id=45407951)
 * [2025-09-28, 20:19:37](https://news.ycombinator.com/item?id=45407617) - [Linus Learns Analog Circuits](https://github.com/torvalds/GuitarPedal)
