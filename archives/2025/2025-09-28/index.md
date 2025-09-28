@@ -7,6 +7,7 @@
 * [2025-09-28, 15:56:03](https://news.ycombinator.com/item?id=45405285) - [Detaching GraalVM from the Java Ecosystem Train](https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train)
 * [2025-09-28, 15:48:10](https://news.ycombinator.com/item?id=45405221) - [Why I'm not rushing to take sides in the RubyGems fiasco](https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/)
 * [2025-09-28, 15:43:33](https://news.ycombinator.com/item?id=45405177) - [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
+* [2025-09-28, 15:27:18](https://news.ycombinator.com/item?id=45405055) - [What's New in PostgreSQL 18 – A Devel](https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/)
 * [2025-09-28, 15:21:01](https://news.ycombinator.com/item?id=45404997) - [The Death of Utilitarian Programming](https://news.ycombinator.com/item?id=45404997)
 * [2025-09-28, 15:09:07](https://news.ycombinator.com/item?id=45404907) - [She Sent Her iPhone to Apple. Repair Techs Uploaded Her Nudes to Facebook (2021)](https://www.vice.com/en/article/she-sent-her-iphone-to-apple-repair-techs-uploaded-her-nudes-to-facebook/)
 * [2025-09-28, 14:57:34](https://news.ycombinator.com/item?id=45404803) - [The golden ratio as a number base](https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base)
