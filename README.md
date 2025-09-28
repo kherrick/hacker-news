@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-28, 14:57:34](https://news.ycombinator.com/item?id=45404803) - [The golden ratio as a number base](https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base)
+* [2025-09-28, 14:56:22](https://news.ycombinator.com/item?id=45404793) - [How did we all miss the bacteria taking over her body?](https://www.theguardian.com/world/2025/sep/28/as-my-daughter-got-sicker-and-sicker-our-quest-for-answers-dragged-on-how-did-we-all-miss-the-bacteria-taking-over-her-body)
 * [2025-09-28, 14:40:46](https://news.ycombinator.com/item?id=45404667) - [Show HN: Toolbrew – Free little tools without signups or ads](https://toolbrew.co/)
 * [2025-09-28, 14:27:44](https://news.ycombinator.com/item?id=45404573) - [Plan 9 from User Space](https://github.com/9fans/plan9port)
 * [2025-09-28, 14:00:12](https://news.ycombinator.com/item?id=45404373) - [The Demon-Haunted World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
@@ -23,12 +25,10 @@
 * [2025-09-27, 14:23:12](https://news.ycombinator.com/item?id=45395957) - [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 * [2025-09-25, 18:07:49](https://news.ycombinator.com/item?id=45376559) - [Haydex: From Zero to 178.6B rows a second in 30 days](https://axiom.co/blog/building-haydex)
 * [2025-09-25, 16:59:22](https://news.ycombinator.com/item?id=45375462) - [Time travel? Or, just clever technology](https://www.syncdna.com/blog/time-travel-or-just-clever-tech)
-* [2025-09-25, 10:20:06](https://news.ycombinator.com/item?id=45371188) - [The Hacker Folk Art of Esoteric Coding](https://thereader.mitpress.mit.edu/the-hacker-folk-art-of-esoteric-coding/)
 * [2025-09-25, 09:20:39](https://news.ycombinator.com/item?id=45370798) - [Man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
 * [2025-09-24, 21:03:45](https://news.ycombinator.com/item?id=45365927) - [Textile Encoding via Elastically Graded Embroidered Tessellations](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500959)
 * [2025-09-24, 18:41:04](https://news.ycombinator.com/item?id=45364370) - [Electromechanical Calculating Machines from the 1960's](https://www.mortati.com/glusker/elecmech/index.htm)
 * [2025-09-24, 16:09:59](https://news.ycombinator.com/item?id=45362365) - [I built and launched the first AirPods-Controlled Game](https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828)
-* [2025-09-24, 14:41:22](https://news.ycombinator.com/item?id=45361124) - [Questions to ask when you think need to finish something](https://cassidoo.co/post/questions-when-i-need-to-finish-something/)
 * [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Python developers are embracing type hints](https://pyrefly.org/blog/why-typed-python/)
 
 ## [Archives](archives/index.md)
