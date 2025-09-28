@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 21:00:07](https://news.ycombinator.com/item?id=45407951) - [Roe (YC W24) Is Hiring](https://news.ycombinator.com/item?id=45407951)
 * [2025-09-28, 20:25:16](https://news.ycombinator.com/item?id=45407657) - [Swiss voters back e-ID legislation](https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html)
 * [2025-09-28, 20:07:07](https://news.ycombinator.com/item?id=45407505) - [C-sigma: Easy-to-use Sigma proofs in C using libsodium](https://github.com/jedisct1/c-sigma)
 * [2025-09-28, 20:06:13](https://news.ycombinator.com/item?id=45407490) - [China Is Run by Engineers. America Is Run by Lawyers](https://freakonomics.com/podcast/china-is-run-by-engineers-america-is-run-by-lawyers/)
