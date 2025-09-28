@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-28, 18:19:01](https://news.ycombinator.com/item?id=45406573) - [VMScape and why Xen dodged it](https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/)
 * [2025-09-28, 18:01:39](https://news.ycombinator.com/item?id=45406442) - [UK Petition: Do not introduce Digital ID cards](https://petition.parliament.uk/petitions/730194)
 * [2025-09-28, 17:40:05](https://news.ycombinator.com/item?id=45406256) - [Denmark bans civil drones after more sightings](https://www.dw.com/en/denmark-bans-civil-drones-after-more-sightings/a-74166973)
 * [2025-09-28, 17:23:21](https://news.ycombinator.com/item?id=45406109) - [Bayesian Data Analysis, Third edition [pdf]](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf)
@@ -26,7 +27,6 @@
 * [2025-09-25, 09:20:39](https://news.ycombinator.com/item?id=45370798) - [Man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
 * [2025-09-25, 00:28:35](https://news.ycombinator.com/item?id=45367732) - [Rustroid, a Rust IDE for Android](https://rustroid.is-a.dev/story)
 * [2025-09-24, 21:25:27](https://news.ycombinator.com/item?id=45366149) - [Broker-Side SQL Filtering with RabbitMQ Streams](https://www.rabbitmq.com/blog/2025/09/23/sql-filter-expressions)
-* [2025-09-24, 21:03:45](https://news.ycombinator.com/item?id=45365927) - [Textile Encoding via Elastically Graded Embroidered Tessellations](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500959)
 * [2025-09-24, 17:32:30](https://news.ycombinator.com/item?id=45363465) - [Supermicro server motherboards can be infected with unremovable malware](https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/)
 * [2025-09-24, 16:09:59](https://news.ycombinator.com/item?id=45362365) - [I built and launched the first AirPods-Controlled Game](https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828)
 * [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Python developers are embracing type hints](https://pyrefly.org/blog/why-typed-python/)
