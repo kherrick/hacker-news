@@ -17,6 +17,7 @@
 * [2025-09-24, 21:55:11](https://news.ycombinator.com/item?id=45366417) - [Microsoft Flight Simulator 2024 is coming to Playstation 5 on December 8th](https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/)
 * [2025-09-24, 21:48:46](https://news.ycombinator.com/item?id=45366369) - [Frankenstein's Sheep](https://nymag.com/intelligencer/article/montana-mountain-king-marco-polo-argali-sheep-cloning-labs.html)
 * [2025-09-24, 21:00:00](https://news.ycombinator.com/item?id=45365878) - [SonyShell – an effort to \"SSH into my Sony DSLR\"](https://github.com/goudvuur/sonyshell)
+* [2025-09-24, 20:02:10](https://news.ycombinator.com/item?id=45365302) - [Why do wind turbines have three blades?](https://thekidshouldseethis.com/post/why-do-wind-turbines-have-three-blades)
 * [2025-09-24, 19:44:29](https://news.ycombinator.com/item?id=45365107) - [Diffusion Finetuning Myself](https://vassi.life/projects/diffinetune)
 * [2025-09-24, 19:35:29](https://news.ycombinator.com/item?id=45365001) - [How Secure is Tor? Not secure at all](https://csam-bib.github.io/security/)
 * [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)

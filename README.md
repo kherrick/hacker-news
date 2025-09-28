@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-28, 11:17:55](https://news.ycombinator.com/item?id=45403501) - [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free)
 * [2025-09-28, 10:52:10](https://news.ycombinator.com/item?id=45403373) - [1982: Fred Dibnah shows how to erect a CHIMNEY SCAFFOLD at 200 feet [video]](https://www.youtube.com/watch?v=w3ma9iYx4rg)
 * [2025-09-28, 10:00:05](https://news.ycombinator.com/item?id=45403134) - [US Military struggling to deploy AI weapons](https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK)
 * [2025-09-28, 08:53:36](https://news.ycombinator.com/item?id=45402820) - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
@@ -14,7 +15,6 @@
 * [2025-09-27, 19:38:51](https://news.ycombinator.com/item?id=45398731) - [2025 Nikon Small World in Motion Competition Winners](https://www.nikonsmallworld.com/galleries/2025-small-world-in-motion-competition)
 * [2025-09-27, 18:56:18](https://news.ycombinator.com/item?id=45398467) - [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
 * [2025-09-27, 17:59:47](https://news.ycombinator.com/item?id=45398005) - [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol)
-* [2025-09-27, 15:46:46](https://news.ycombinator.com/item?id=45396754) - [Greenland is a beautiful nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/)
 * [2025-09-27, 15:35:59](https://news.ycombinator.com/item?id=45396641) - [Norway to monitor airborne radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard)
 * [2025-09-27, 15:17:30](https://news.ycombinator.com/item?id=45396441) - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
 * [2025-09-27, 14:55:29](https://news.ycombinator.com/item?id=45396234) - [Thoughts on Cloudflare](https://xn--gckvb8fzb.com/thoughts-on-cloudflare/)
@@ -24,10 +24,10 @@
 * [2025-09-25, 16:11:55](https://news.ycombinator.com/item?id=45374665) - [Shoes, Algernon, Pangea, and sea peoples](https://dynomight.net/shorts-5/)
 * [2025-09-25, 10:20:06](https://news.ycombinator.com/item?id=45371188) - [The Hacker Folk Art of Esoteric Coding](https://thereader.mitpress.mit.edu/the-hacker-folk-art-of-esoteric-coding/)
 * [2025-09-25, 09:20:39](https://news.ycombinator.com/item?id=45370798) - [Man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
+* [2025-09-24, 20:02:10](https://news.ycombinator.com/item?id=45365302) - [Why do wind turbines have three blades?](https://thekidshouldseethis.com/post/why-do-wind-turbines-have-three-blades)
 * [2025-09-24, 18:41:04](https://news.ycombinator.com/item?id=45364370) - [Electromechanical Calculating Machines from the 1960's](https://www.mortati.com/glusker/elecmech/index.htm)
 * [2025-09-24, 16:09:59](https://news.ycombinator.com/item?id=45362365) - [I built and launched the first AirPods-Controlled Game](https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828)
 * [2025-09-24, 15:16:22](https://news.ycombinator.com/item?id=45361568) - [The 3,000-year-old story hidden in the @ sign](https://www.bbc.com/future/article/20250923-the-3000-year-old-story-hidden-in-your-keyboard)
-* [2025-09-24, 15:10:04](https://news.ycombinator.com/item?id=45361476) - [Just how resilient are large language models?](https://www.rdrocket.com/blog/just-how-resilient-are-large-language-models)
 * [2025-09-24, 14:41:22](https://news.ycombinator.com/item?id=45361124) - [Questions to ask when you think need to finish something](https://cassidoo.co/post/questions-when-i-need-to-finish-something/)
 * [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Python developers are embracing type hints](https://pyrefly.org/blog/why-typed-python/)
 
