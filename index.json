@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-09-28, 01:48:15",
-      "https://news.ycombinator.com/item?id=45401051"
-    ],
-    [
-      "Solar panels + cold = A potential problem",
-      "https://www.linspyre.com/ecoholics/temps.html"
-    ]
-  ],
-  [
-    [
       "2025-09-27, 23:50:42",
       "https://news.ycombinator.com/item?id=45400376"
     ],
@@ -217,6 +207,16 @@
     [
       "A WebGL game where you deliver messages on a tiny planet",
       "https://messenger.abeto.co/"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 17:28:11",
+      "https://news.ycombinator.com/item?id=45375977"
+    ],
+    [
+      "A safe, non-owning C++ pointer class",
+      "https://techblog.rosemanlabs.com/c++/safety/object-lifetime/2025/08/28/a-safe-pointer-that-protects-against-use-after-free-and-updates-when-the-pointee-is-moved.html"
     ]
   ],
   [
