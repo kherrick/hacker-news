@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-28, 18:40:02",
+      "https://news.ycombinator.com/item?id=45406749"
+    ],
+    [
+      "Why some USB C cables work, or not, J-Link",
+      "https://alvarop.com/2025/09/j-link-compact-usb-c-issues/"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 18:19:01",
       "https://news.ycombinator.com/item?id=45406573"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2025-09-28, 14:00:12",
+      "https://news.ycombinator.com/item?id=45404373"
+    ],
+    [
+      "The Demon-Haunted World",
+      "https://en.wikipedia.org/wiki/The_Demon-Haunted_World"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 13:00:16",
       "https://news.ycombinator.com/item?id=45404022"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-09-25, 16:59:22",
-      "https://news.ycombinator.com/item?id=45375462"
-    ],
-    [
-      "Time travel? Or, just clever technology",
-      "https://www.syncdna.com/blog/time-travel-or-just-clever-tech"
-    ]
-  ],
-  [
-    [
       "2025-09-25, 09:20:39",
       "https://news.ycombinator.com/item?id=45370798"
     ],
@@ -257,16 +267,6 @@
     [
       "Rustroid, a Rust IDE for Android",
       "https://rustroid.is-a.dev/story"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 21:25:27",
-      "https://news.ycombinator.com/item?id=45366149"
-    ],
-    [
-      "Broker-Side SQL Filtering with RabbitMQ Streams",
-      "https://www.rabbitmq.com/blog/2025/09/23/sql-filter-expressions"
     ]
   ],
   [
