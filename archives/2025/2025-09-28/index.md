@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 21:08:15](https://news.ycombinator.com/item?id=45408021) - [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
 * [2025-09-28, 21:00:07](https://news.ycombinator.com/item?id=45407951) - [Roe (YC W24) Is Hiring](https://news.ycombinator.com/item?id=45407951)
+* [2025-09-28, 20:40:16](https://news.ycombinator.com/item?id=45407785) - [Larry Ellison: \"Citizens will be on their best behavior because we're watching\"](https://streamable.com/2xtyyd)
 * [2025-09-28, 20:25:16](https://news.ycombinator.com/item?id=45407657) - [Swiss voters back e-ID legislation](https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html)
+* [2025-09-28, 20:19:37](https://news.ycombinator.com/item?id=45407617) - [Linus Learns Analog Circuits](https://github.com/torvalds/GuitarPedal)
 * [2025-09-28, 20:07:07](https://news.ycombinator.com/item?id=45407505) - [C-sigma: Easy-to-use Sigma proofs in C using libsodium](https://github.com/jedisct1/c-sigma)
 * [2025-09-28, 20:06:13](https://news.ycombinator.com/item?id=45407490) - [China Is Run by Engineers. America Is Run by Lawyers](https://freakonomics.com/podcast/china-is-run-by-engineers-america-is-run-by-lawyers/)
 * [2025-09-28, 19:11:31](https://news.ycombinator.com/item?id=45406979) - [Chinese scientists set world record with magnetic field 700k times Earth's](https://english.news.cn/20250928/a00ea1b8b8db49018bcd3e606df0b06d/c.html)
