@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 23:33:43](https://news.ycombinator.com/item?id=45400269) - [Spending on AI Is at Epic Levels. Will It Ever Pay Off?](https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128)
 * [2025-09-27, 23:26:57](https://news.ycombinator.com/item?id=45400221) - [Why Warm Countries Are Poorer](https://unchartedterritories.tomaspueyo.com/p/mountains)
 * [2025-09-27, 22:50:38](https://news.ycombinator.com/item?id=45400009) - [How I accidently created the fastest CSV parser ever made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
 * [2025-09-27, 22:30:00](https://news.ycombinator.com/item?id=45399893) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/)

@@ -66,6 +66,7 @@
 * [2025-09-25, 10:05:49](https://news.ycombinator.com/item?id=45371061) - [Bundler Belongs to the Ruby Community](https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/)
 * [2025-09-25, 09:57:38](https://news.ycombinator.com/item?id=45370997) - [Apple pushes EU to repeal tech rules over feature delays, app vulnerabilities](https://www.reuters.com/business/apple-urges-eu-regulators-take-closer-look-tech-rules-2025-09-25/)
 * [2025-09-25, 09:36:40](https://news.ycombinator.com/item?id=45370882) - [Some interesting stuff I found on IX LANs](https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting)
+* [2025-09-25, 09:20:39](https://news.ycombinator.com/item?id=45370798) - ['Amazing feat': US man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
 * [2025-09-25, 09:13:01](https://news.ycombinator.com/item?id=45370760) - [Endless AI-Generated Wikipedia](https://www.seangoedecke.com/endless-wiki/)
 * [2025-09-25, 08:56:52](https://news.ycombinator.com/item?id=45370678) - [RTO: WTAF](https://wordsrightman.beehiiv.com/p/rto-wtaf)
 * [2025-09-25, 07:52:55](https://news.ycombinator.com/item?id=45370306) - [Perhaps my last post – we'll see (2016)](http://itila.blogspot.com/2016/04/perhaps-my-last-post-well-see.html)
