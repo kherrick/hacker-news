@@ -24,7 +24,7 @@
 * [2025-09-25, 16:11:55](https://news.ycombinator.com/item?id=45374665) - [Shoes, Algernon, Pangea, and sea peoples](https://dynomight.net/shorts-5/)
 * [2025-09-25, 10:20:06](https://news.ycombinator.com/item?id=45371188) - [The Hacker Folk Art of Esoteric Coding](https://thereader.mitpress.mit.edu/the-hacker-folk-art-of-esoteric-coding/)
 * [2025-09-25, 09:20:39](https://news.ycombinator.com/item?id=45370798) - [Man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
-* [2025-09-24, 21:48:46](https://news.ycombinator.com/item?id=45366369) - [Frankenstein's Sheep](https://nymag.com/intelligencer/article/montana-mountain-king-marco-polo-argali-sheep-cloning-labs.html)
+* [2025-09-24, 18:41:04](https://news.ycombinator.com/item?id=45364370) - [Electromechanical Calculating Machines from the 1960's](https://www.mortati.com/glusker/elecmech/index.htm)
 * [2025-09-24, 16:09:59](https://news.ycombinator.com/item?id=45362365) - [I built and launched the first AirPods-Controlled Game](https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828)
 * [2025-09-24, 15:16:22](https://news.ycombinator.com/item?id=45361568) - [The 3,000-year-old story hidden in the @ sign](https://www.bbc.com/future/article/20250923-the-3000-year-old-story-hidden-in-your-keyboard)
 * [2025-09-24, 15:10:04](https://news.ycombinator.com/item?id=45361476) - [Just how resilient are large language models?](https://www.rdrocket.com/blog/just-how-resilient-are-large-language-models)

@@ -23,6 +23,7 @@
 * [2025-09-24, 18:54:20](https://news.ycombinator.com/item?id=45364514) - [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)
 * [2025-09-24, 18:52:23](https://news.ycombinator.com/item?id=45364503) - [Elephantshark, a tool to monitor Postgres network traffic](https://neon.com/blog/elephantshark-monitor-postgres-network-traffic)
 * [2025-09-24, 18:48:39](https://news.ycombinator.com/item?id=45364450) - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
+* [2025-09-24, 18:41:04](https://news.ycombinator.com/item?id=45364370) - [Electromechanical Calculating Machines from the 1960's](https://www.mortati.com/glusker/elecmech/index.htm)
 * [2025-09-24, 18:20:49](https://news.ycombinator.com/item?id=45364103) - [Giving users choice with Cloudflare's new Content Signals Policy](https://blog.cloudflare.com/content-signals-policy/)
 * [2025-09-24, 18:17:17](https://news.ycombinator.com/item?id=45364045) - [A proposal to add GC-less, unmanaged memory spaces to C#](https://axx83.substack.com/p/the-case-for-spaces-a-new-vision)
 * [2025-09-24, 18:01:54](https://news.ycombinator.com/item?id=45363845) - [Depictions of Celestial Objects Spanning Nearly a Millennium (2014)](https://publicdomainreview.org/collection/flowers-of-the-sky/)
