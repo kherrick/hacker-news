@@ -8,7 +8,6 @@
 * [2025-09-28, 13:00:16](https://news.ycombinator.com/item?id=45404022) - [When I say \"alphabetical order\", I mean \"alphabetical order\"](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
 * [2025-09-28, 12:59:54](https://news.ycombinator.com/item?id=45404021) - [Privacy Badger is a free browser extension made by EFF to stop spying](https://privacybadger.org/)
 * [2025-09-28, 12:19:16](https://news.ycombinator.com/item?id=45403803) - [Failing to Understand the Exponential, Again](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/)
-* [2025-09-28, 12:15:05](https://news.ycombinator.com/item?id=45403775) - [The stripper who ushered in the subscription-based internet](https://thehustle.co/originals/the-stripper-who-ushered-in-the-modern-subscription-based-internet)
 * [2025-09-28, 11:50:25](https://news.ycombinator.com/item?id=45403656) - [EPA tells some scientists to stop publishing studies](https://www.washingtonpost.com/climate-environment/2025/09/20/epa-scientists-research-publications/)
 * [2025-09-28, 11:17:55](https://news.ycombinator.com/item?id=45403501) - [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free)
 * [2025-09-28, 10:52:10](https://news.ycombinator.com/item?id=45403373) - [Fred Dibnah shows how to erect a chimney scaffold at 200 feet (1982) [video]](https://www.youtube.com/watch?v=w3ma9iYx4rg)
@@ -28,6 +27,7 @@
 * [2025-09-25, 09:20:39](https://news.ycombinator.com/item?id=45370798) - [Man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
 * [2025-09-24, 21:03:45](https://news.ycombinator.com/item?id=45365927) - [Textile Encoding via Elastically Graded Embroidered Tessellations](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500959)
 * [2025-09-24, 18:41:04](https://news.ycombinator.com/item?id=45364370) - [Electromechanical Calculating Machines from the 1960's](https://www.mortati.com/glusker/elecmech/index.htm)
+* [2025-09-24, 17:32:30](https://news.ycombinator.com/item?id=45363465) - [Supermicro server motherboards can be infected with unremovable malware](https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/)
 * [2025-09-24, 16:09:59](https://news.ycombinator.com/item?id=45362365) - [I built and launched the first AirPods-Controlled Game](https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828)
 * [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Python developers are embracing type hints](https://pyrefly.org/blog/why-typed-python/)
 

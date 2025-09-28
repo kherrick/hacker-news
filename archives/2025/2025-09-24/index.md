@@ -30,6 +30,7 @@
 * [2025-09-24, 18:17:17](https://news.ycombinator.com/item?id=45364045) - [A proposal to add GC-less, unmanaged memory spaces to C#](https://axx83.substack.com/p/the-case-for-spaces-a-new-vision)
 * [2025-09-24, 18:01:54](https://news.ycombinator.com/item?id=45363845) - [Depictions of Celestial Objects Spanning Nearly a Millennium (2014)](https://publicdomainreview.org/collection/flowers-of-the-sky/)
 * [2025-09-24, 17:32:57](https://news.ycombinator.com/item?id=45363471) - [Why is Windows still tinkering with critical sections? – The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20250924-00/?p=111624)
+* [2025-09-24, 17:32:30](https://news.ycombinator.com/item?id=45363465) - [Supermicro server motherboards can be infected with unremovable malware](https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/)
 * [2025-09-24, 17:29:09](https://news.ycombinator.com/item?id=45363429) - [Tinder, Hinge, and Their Corporate Owner Keep Rape Under Wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up)
 * [2025-09-24, 16:48:27](https://news.ycombinator.com/item?id=45362914) - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
 * [2025-09-24, 16:40:11](https://news.ycombinator.com/item?id=45362813) - [Show HN: Vibe Linking](https://vb.lk/)
