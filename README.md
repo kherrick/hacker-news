@@ -3,7 +3,6 @@
 * [2025-09-28, 01:48:15](https://news.ycombinator.com/item?id=45401051) - [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html)
 * [2025-09-28, 00:59:51](https://news.ycombinator.com/item?id=45400828) - [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
 * [2025-09-27, 23:50:42](https://news.ycombinator.com/item?id=45400376) - [Learn to play Go](https://online-go.com/learn-to-play-go)
-* [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
 * [2025-09-27, 21:50:30](https://news.ycombinator.com/item?id=45399637) - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
 * [2025-09-27, 21:24:46](https://news.ycombinator.com/item?id=45399433) - [When did human chromosome 2 fuse?(2023)](https://www.johnhawks.net/p/when-did-human-chromosome-2-fuse)
 * [2025-09-27, 20:33:31](https://news.ycombinator.com/item?id=45399106) - [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
@@ -30,6 +29,7 @@
 * [2025-09-24, 15:16:22](https://news.ycombinator.com/item?id=45361568) - [The 3,000-year-old story hidden in the @ sign](https://www.bbc.com/future/article/20250923-the-3000-year-old-story-hidden-in-your-keyboard)
 * [2025-09-24, 15:10:04](https://news.ycombinator.com/item?id=45361476) - [Just How Resilient Are Large Language Models?](https://www.rdrocket.com/blog/just-how-resilient-are-large-language-models)
 * [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Python developers are embracing type hints](https://pyrefly.org/blog/why-typed-python/)
+* [2025-09-24, 08:02:29](https://news.ycombinator.com/item?id=45357573) - [The Magical Number Seven, Plus or Minus Two [pdf]](https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf)
 
 ## [Archives](archives/index.md)
 

@@ -75,6 +75,7 @@
 * [2025-09-24, 09:56:04](https://news.ycombinator.com/item?id=45358216) - [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik's 10-Year Journey from Zero to Standard](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
+* [2025-09-24, 08:02:29](https://news.ycombinator.com/item?id=45357573) - [The Magical Number Seven, Plus or Minus Two [pdf]](https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf)
 * [2025-09-24, 07:05:46](https://news.ycombinator.com/item?id=45357222) - [Ruby Central Is Not Behaving in Good Faith, and I've Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)
 * [2025-09-24, 06:26:05](https://news.ycombinator.com/item?id=45356958) - [You didn't see it coming](https://aishwaryagoel.com/you-didnt-see-it-coming/)
 * [2025-09-24, 05:56:35](https://news.ycombinator.com/item?id=45356781) - [Show HN: Inferencer – Run and deeply control local AI models (macOS release)](https://inferencer.com/)
