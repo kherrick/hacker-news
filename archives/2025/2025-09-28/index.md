@@ -6,6 +6,7 @@
 
 * [2025-09-28, 17:07:29](https://news.ycombinator.com/item?id=45405977) - [Ask HN: How Do I Get over My Existential Crisis?](https://news.ycombinator.com/item?id=45405977)
 * [2025-09-28, 16:47:39](https://news.ycombinator.com/item?id=45405815) - [Testing \"Exotic\" P2P VPN](https://blog.nommy.moe/blog/exotic-mesh-vpn/)
+* [2025-09-28, 16:40:53](https://news.ycombinator.com/item?id=45405750) - [The Weird Concept of Branchless Programming](https://sanixdk.xyz/blogs/the-weird-concept-of-branchless-programming)
 * [2025-09-28, 16:33:47](https://news.ycombinator.com/item?id=45405675) - [Swiss voters back e-ID and abolish rental tax](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-have-decided-on-electronic-id-and-abolishing-rental-tax/90057432)
 * [2025-09-28, 16:23:51](https://news.ycombinator.com/item?id=45405584) - [Show HN: Built an MCP server using Cloudflare's Code Mode pattern](https://github.com/jx-codes/codemode-mcp)
 * [2025-09-28, 15:56:03](https://news.ycombinator.com/item?id=45405285) - [Detaching GraalVM from the Java Ecosystem Train](https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train)
