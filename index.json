@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=45401051"
     ],
     [
-      "Do Not Do This Unless You Want Magic Black Smoke",
+      "Do not do this unless you want magic black smoke",
       "https://www.linspyre.com/ecoholics/temps.html"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45400376"
     ],
     [
-      "Learn to Play Go",
+      "Learn to play Go",
       "https://online-go.com/learn-to-play-go"
     ]
   ],
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2025-09-27, 20:49:36",
-      "https://news.ycombinator.com/item?id=45399204"
+      "2025-09-27, 21:24:46",
+      "https://news.ycombinator.com/item?id=45399433"
     ],
     [
-      "Code Mode: the better way to use MCP",
-      "https://blog.cloudflare.com/code-mode/"
+      "When did human chromosome 2 fuse?(2023)",
+      "https://www.johnhawks.net/p/when-did-human-chromosome-2-fuse"
     ]
   ],
   [
@@ -135,18 +135,8 @@
       "https://news.ycombinator.com/item?id=45396641"
     ],
     [
-      "Norway to Monitor Airborne Radioactivity in Svalbard",
+      "Norway to monitor airborne radioactivity in Svalbard",
       "https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 15:34:55",
-      "https://news.ycombinator.com/item?id=45396624"
-    ],
-    [
-      "AI model trapped in a Raspberry Pi",
-      "https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/"
     ]
   ],
   [
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=45396234"
     ],
     [
-      "マリウス – Thoughts on Cloudflare",
+      "Thoughts on Cloudflare",
       "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/"
     ]
   ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=45374665"
     ],
     [
-      "Shoes, Algernon, Pangea, and Sea Peoples",
+      "Shoes, Algernon, Pangea, and sea peoples",
       "https://dynomight.net/shorts-5/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Just How Resilient Are Large Language Models?",
       "https://www.rdrocket.com/blog/just-how-resilient-are-large-language-models"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 11:23:54",
+      "https://news.ycombinator.com/item?id=45358841"
+    ],
+    [
+      "Python developers are embracing type hints",
+      "https://pyrefly.org/blog/why-typed-python/"
     ]
   ]
 ]
