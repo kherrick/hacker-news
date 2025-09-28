@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-09-28, 12:19:16",
-      "https://news.ycombinator.com/item?id=45403803"
-    ],
-    [
-      "Failing to Understand the Exponential, Again",
-      "https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 10:52:10",
       "https://news.ycombinator.com/item?id=45403373"
     ],
@@ -247,6 +237,16 @@
     [
       "Man still alive six months after pig kidney transplant",
       "https://www.nature.com/articles/d41586-025-02851-w"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 21:25:27",
+      "https://news.ycombinator.com/item?id=45366149"
+    ],
+    [
+      "Broker-Side SQL Filtering with RabbitMQ Streams",
+      "https://www.rabbitmq.com/blog/2025/09/23/sql-filter-expressions"
     ]
   ],
   [
