@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-28, 09:47:06](https://news.ycombinator.com/item?id=45403078) - [Hardware inspector fired for spotting an error he wasn't trained to find](https://www.theregister.com/2025/09/26/on_call/)
 * [2025-09-28, 08:53:36](https://news.ycombinator.com/item?id=45402820) - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
 * [2025-09-28, 08:13:00](https://news.ycombinator.com/item?id=45402639) - [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb)
 * [2025-09-28, 07:44:07](https://news.ycombinator.com/item?id=45402496) - [Dismissed as a joke, UK's first rice crop ripe for picking after hot summer](https://www.bbc.co.uk/news/articles/c1wgeq702dyo)
 * [2025-09-28, 05:04:39](https://news.ycombinator.com/item?id=45401907) - [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
 * [2025-09-28, 01:48:15](https://news.ycombinator.com/item?id=45401051) - [Solar panels + cold = A potential problem](https://www.linspyre.com/ecoholics/temps.html)
+* [2025-09-28, 00:59:51](https://news.ycombinator.com/item?id=45400828) - [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
 * [2025-09-27, 23:50:42](https://news.ycombinator.com/item?id=45400376) - [Learn to play Go](https://online-go.com/learn-to-play-go)
 * [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [High-power microwave defeats drone swarm](https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration)
 * [2025-09-27, 21:50:30](https://news.ycombinator.com/item?id=45399637) - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
