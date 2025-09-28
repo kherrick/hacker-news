@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-09-27, 22:50:38",
-      "https://news.ycombinator.com/item?id=45400009"
-    ],
-    [
-      "How I accidently created the fastest CSV parser ever made",
-      "https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made"
-    ]
-  ],
-  [
-    [
       "2025-09-27, 22:25:24",
       "https://news.ycombinator.com/item?id=45399863"
     ],
@@ -67,16 +57,6 @@
     [
       "We reverse-engineered Flash Attention 4",
       "https://modal.com/blog/reverse-engineer-flash-attention-4"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 21:24:46",
-      "https://news.ycombinator.com/item?id=45399433"
-    ],
-    [
-      "When did human chromosome 2 fuse?(2023)",
-      "https://www.johnhawks.net/p/when-did-human-chromosome-2-fuse"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2025-09-27, 14:55:29",
+      "https://news.ycombinator.com/item?id=45396234"
+    ],
+    [
+      "マリウス – Thoughts on Cloudflare",
+      "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 14:27:10",
       "https://news.ycombinator.com/item?id=45395991"
     ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2025-09-24, 15:16:22",
+      "https://news.ycombinator.com/item?id=45361568"
+    ],
+    [
+      "The 3,000-year-old story hidden in the @ sign",
+      "https://www.bbc.com/future/article/20250923-the-3000-year-old-story-hidden-in-your-keyboard"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 15:10:04",
       "https://news.ycombinator.com/item?id=45361476"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-23, 16:25:13",
-      "https://news.ycombinator.com/item?id=45349218"
+      "2025-09-23, 23:54:01",
+      "https://news.ycombinator.com/item?id=45354404"
     ],
     [
-      "I built Foyer: a Rust hybrid cache that slashes S3 latency",
-      "https://medium.com/@yingjunwu/the-case-for-hybrid-cache-for-object-stores-4b1f02ec6c9a"
+      "Meshtastic 64 – A meshtastic radio for the Commodore 64",
+      "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html"
     ]
   ]
 ]
