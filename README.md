@@ -19,7 +19,7 @@
 * [2025-09-27, 14:55:29](https://news.ycombinator.com/item?id=45396234) - [Thoughts on Cloudflare](https://xn--gckvb8fzb.com/thoughts-on-cloudflare/)
 * [2025-09-27, 14:27:10](https://news.ycombinator.com/item?id=45395991) - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
 * [2025-09-27, 14:23:12](https://news.ycombinator.com/item?id=45395957) - [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
-* [2025-09-27, 10:38:42](https://news.ycombinator.com/item?id=45394642) - [Ishkur's Guide to Electronic Music](http://music.ishkur.com/)
+* [2025-09-27, 07:31:39](https://news.ycombinator.com/item?id=45393842) - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-25, 16:11:55](https://news.ycombinator.com/item?id=45374665) - [Shoes, Algernon, Pangea, and sea peoples](https://dynomight.net/shorts-5/)
 * [2025-09-25, 12:27:46](https://news.ycombinator.com/item?id=45371986) - [Testing the Raspberry Pi 500+'s new mechanical keyboard](https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard)
 * [2025-09-25, 10:20:06](https://news.ycombinator.com/item?id=45371188) - [The Hacker Folk Art of Esoteric Coding](https://thereader.mitpress.mit.edu/the-hacker-folk-art-of-esoteric-coding/)
