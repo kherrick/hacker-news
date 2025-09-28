@@ -10,6 +10,7 @@
 * [2025-09-27, 22:50:38](https://news.ycombinator.com/item?id=45400009) - [How I accidently created the fastest CSV parser ever made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
 * [2025-09-27, 22:30:00](https://news.ycombinator.com/item?id=45399893) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/)
 * [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
+* [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [High-power microwave defeats drone swarm](https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration)
 * [2025-09-27, 21:50:30](https://news.ycombinator.com/item?id=45399637) - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
 * [2025-09-27, 21:24:46](https://news.ycombinator.com/item?id=45399433) - [When did human chromosome 2 fuse?(2023)](https://www.johnhawks.net/p/when-did-human-chromosome-2-fuse)
 * [2025-09-27, 21:22:28](https://news.ycombinator.com/item?id=45399417) - [US to retire its only icebreaker, stranding polar research](https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research)

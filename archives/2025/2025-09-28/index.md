@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 05:12:42](https://news.ycombinator.com/item?id=45401936) - [Linus Torvalds and the Supposedly \"Garbage Code\"](https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/)
+* [2025-09-28, 05:04:39](https://news.ycombinator.com/item?id=45401907) - [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
 * [2025-09-28, 01:48:15](https://news.ycombinator.com/item?id=45401051) - [Do Not Do This Unless You Want Magic Black Smoke](https://www.linspyre.com/ecoholics/temps.html)
 * [2025-09-28, 00:59:51](https://news.ycombinator.com/item?id=45400828) - [Enthusiasts bond twelve 56K modems together to set dial-up record: 668kbps](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
 * [2025-09-28, 00:12:52](https://news.ycombinator.com/item?id=45400540) - [UK government underwriting £1.5B loan to Jaguar Land Rover after cyber-attack](https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says)
