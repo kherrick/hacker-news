@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-29, 22:52:04](https://news.ycombinator.com/item?id=45419841) - [All the Sad Young Terminally Online Men](https://www.derekthompson.org/p/all-the-sad-young-terminally-online)
+* [2025-09-29, 22:52:04](https://news.ycombinator.com/item?id=45419841) - [All the sad young terminally online men](https://www.derekthompson.org/p/all-the-sad-young-terminally-online)
 * [2025-09-29, 22:03:31](https://news.ycombinator.com/item?id=45419341) - [Technology without humanity means nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing)
 * [2025-09-29, 21:21:21](https://news.ycombinator.com/item?id=45418918) - [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
 * [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
