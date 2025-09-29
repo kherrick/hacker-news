@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-09-28, 18:19:01",
-      "https://news.ycombinator.com/item?id=45406573"
-    ],
-    [
-      "VMScape and why Xen dodged it",
-      "https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 17:23:21",
       "https://news.ycombinator.com/item?id=45406109"
     ],
@@ -217,6 +207,16 @@
     [
       "Buyers of Radio Shack, Pier 1 brands accused of running $112M Ponzi scheme",
       "https://www.cbsnews.com/news/sec-rev-ponzi-scheme-tai-lopez-alex-mehr/"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 21:40:51",
+      "https://news.ycombinator.com/item?id=45391302"
+    ],
+    [
+      "Eliminating Cold Starts 2: shard and conquer",
+      "https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/"
     ]
   ],
   [
