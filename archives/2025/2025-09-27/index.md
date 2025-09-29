@@ -60,6 +60,7 @@
 * [2025-09-27, 07:31:39](https://news.ycombinator.com/item?id=45393842) - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-27, 06:45:03](https://news.ycombinator.com/item?id=45393653) - [Property-Based Testing of OCaml 5's Runtime System [pdf]](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf)
 * [2025-09-27, 06:44:12](https://news.ycombinator.com/item?id=45393649) - [AI Investment Is Starting to Look Like a Slush Fund](https://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html)
+* [2025-09-27, 06:22:53](https://news.ycombinator.com/item?id=45393576) - [Buyers of Radio Shack, Pier 1 brands accused of running $112M Ponzi scheme](https://www.cbsnews.com/news/sec-rev-ponzi-scheme-tai-lopez-alex-mehr/)
 * [2025-09-27, 06:02:16](https://news.ycombinator.com/item?id=45393505) - [The Amazon Kindle War Against Piracy](https://goodereader.com/blog/kindle/the-amazon-kindle-war-against-piracy)
 * [2025-09-27, 06:00:41](https://news.ycombinator.com/item?id=45393501) - [Lifetime of social ties adds up to healthy aging at molecular level](https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging)
 * [2025-09-27, 05:07:13](https://news.ycombinator.com/item?id=45393306) - [YC Stole a SF-Attacked Founder's Startup](https://twitter.com/_opencv_/status/1971774399729881319)
