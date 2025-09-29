@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 12:51:46](https://news.ycombinator.com/item?id=45413090) - [Larry Ellison – 'citizens will be on their best behavior' amid nonstop recording](https://fortune.com/2025/09/28/larry-ellison-ai-surveillance-oracle-tiktok-deal-social-media/)
+* [2025-09-29, 12:44:43](https://news.ycombinator.com/item?id=45413030) - [Why are interviews harder than the job?](https://www.mooreds.com/wordpress/archives/3702)
+* [2025-09-29, 12:35:33](https://news.ycombinator.com/item?id=45412946) - [Leading computer science professor says 'everybody' is struggling to get jobs](https://www.businessinsider.com/computer-science-students-job-search-ai-hany-farid-2025-9)
 * [2025-09-29, 11:55:52](https://news.ycombinator.com/item?id=45412592) - [To AI or Not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
 * [2025-09-29, 11:42:04](https://news.ycombinator.com/item?id=45412494) - [Tuning async IO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
 * [2025-09-29, 11:28:06](https://news.ycombinator.com/item?id=45412419) - [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
