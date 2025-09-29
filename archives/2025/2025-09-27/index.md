@@ -12,6 +12,7 @@
 * [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
 * [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [High-power microwave defeats drone swarm](https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration)
 * [2025-09-27, 21:50:30](https://news.ycombinator.com/item?id=45399637) - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
+* [2025-09-27, 21:42:14](https://news.ycombinator.com/item?id=45399572) - [Using Cesium-137 testing to find counterfeit wine](https://kitchensisters.org/hiddenkitchens/atomic-wine/)
 * [2025-09-27, 21:24:46](https://news.ycombinator.com/item?id=45399433) - [When did human chromosome 2 fuse?(2023)](https://www.johnhawks.net/p/when-did-human-chromosome-2-fuse)
 * [2025-09-27, 21:22:28](https://news.ycombinator.com/item?id=45399417) - [US to retire its only icebreaker, stranding polar research](https://www.colorado.edu/today/2025/09/16/us-retire-its-only-icebreaker-stranding-polar-research)
 * [2025-09-27, 20:49:36](https://news.ycombinator.com/item?id=45399204) - [Code Mode: the better way to use MCP](https://blog.cloudflare.com/code-mode/)
