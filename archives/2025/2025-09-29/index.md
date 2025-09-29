@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 14:32:31](https://news.ycombinator.com/item?id=45414327) - [Grok is now the most popular model on OpenRouter](https://openrouter.ai/rankings#market-share)
 * [2025-09-29, 14:22:39](https://news.ycombinator.com/item?id=45414215) - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
 * [2025-09-29, 14:21:22](https://news.ycombinator.com/item?id=45414195) - [Netanyahu says social media Israel's new 'weapon' after TikTok acquisition](https://www.newarab.com/news/netanyahu-says-social-media-israels-new-weapon)
 * [2025-09-29, 13:47:23](https://news.ycombinator.com/item?id=45413767) - [Electronic Arts Goes Private for $52.5B in Largest LBO](https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c)
