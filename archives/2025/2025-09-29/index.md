@@ -7,6 +7,7 @@
 * [2025-09-29, 16:03:49](https://news.ycombinator.com/item?id=45415428) - [Marissa Mayer will close her old AI startup, sell assets to her new AI startup](https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/)
 * [2025-09-29, 15:45:33](https://news.ycombinator.com/item?id=45415232) - [Write the Damn Code](https://antonz.org/write-code/)
 * [2025-09-29, 15:42:46](https://news.ycombinator.com/item?id=45415207) - [Loadmo.re: design inspiration for unconventional web](https://loadmo.re)
+* [2025-09-29, 14:46:11](https://news.ycombinator.com/item?id=45414479) - [Not all OCuLink eGPU docks are created equal](https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal)
 * [2025-09-29, 14:32:31](https://news.ycombinator.com/item?id=45414327) - [Grok is now the most popular model on OpenRouter](https://openrouter.ai/rankings#market-share)
 * [2025-09-29, 14:22:39](https://news.ycombinator.com/item?id=45414215) - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
 * [2025-09-29, 14:21:22](https://news.ycombinator.com/item?id=45414195) - [Netanyahu says social media Israel's new 'weapon' after TikTok acquisition](https://www.newarab.com/news/netanyahu-says-social-media-israels-new-weapon)
