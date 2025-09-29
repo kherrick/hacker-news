@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 20:33:14](https://news.ycombinator.com/item?id=45418428) - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
+* [2025-09-29, 20:19:54](https://news.ycombinator.com/item?id=45418269) - [Remember: Kurt Vonnegut Was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47)
 * [2025-09-29, 19:35:33](https://news.ycombinator.com/item?id=45417805) - [Gold hits all time high](https://goldprice.org/)
 * [2025-09-29, 19:31:22](https://news.ycombinator.com/item?id=45417771) - [What is artificial general intelligence?](https://arxiv.org/abs/2503.23923)
 * [2025-09-29, 19:24:58](https://news.ycombinator.com/item?id=45417711) - ['Based on a True Story'](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
 * [2025-09-29, 19:06:04](https://news.ycombinator.com/item?id=45417523) - [Oracle will have to borrow at least $25B a year to fund AI fantasy, says analyst](https://www.theregister.com/2025/09/29/oracle_ai_debt/)
+* [2025-09-29, 18:46:15](https://news.ycombinator.com/item?id=45417300) - [Diagnosing a Linux Performance Regression](https://automattic.com/2024/03/14/systems-report-linux-performance-regression/)
 * [2025-09-29, 17:41:00](https://news.ycombinator.com/item?id=45416572) - [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
 * [2025-09-29, 17:23:09](https://news.ycombinator.com/item?id=45416373) - [S&P affirms 'AA+' credit rating for US, cites impact of tariff revenue](https://www.reuters.com/business/sp-affirms-aa-credit-rating-us-cites-impact-tariff-revenue-2025-08-19/)
 * [2025-09-29, 17:21:15](https://news.ycombinator.com/item?id=45416347) - [79-year-old US citizen injured in immigration raid files $50M claim](https://apnews.com/article/immigration-raids-los-angeles-ice-lawsuit-6c94ce6e7873581e9f3bebb6f5cbb0df)
