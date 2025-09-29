@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-29, 14:22:39](https://news.ycombinator.com/item?id=45414215) - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
 * [2025-09-29, 13:47:23](https://news.ycombinator.com/item?id=45413767) - [Electronic Arts Goes Private for $52.5B in Largest LBO](https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c)
 * [2025-09-29, 13:39:53](https://news.ycombinator.com/item?id=45413654) - [Why friction is necessary for growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
 * [2025-09-29, 13:33:41](https://news.ycombinator.com/item?id=45413570) - [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
@@ -25,7 +26,6 @@
 * [2025-09-28, 12:42:03](https://news.ycombinator.com/item?id=45403912) - [Show HN: Swapple, a little daily puzzle on linear reversible circuit synthesis](https://swapple.fuglede.dk)
 * [2025-09-27, 13:15:37](https://news.ycombinator.com/item?id=45395468) - [Users only care about 20% of your application](https://idiallo.com/blog/users-only-care-about-20-percent)
 * [2025-09-26, 21:40:51](https://news.ycombinator.com/item?id=45391302) - [Eliminating Cold Starts 2: shard and conquer](https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/)
-* [2025-09-26, 18:46:50](https://news.ycombinator.com/item?id=45389744) - [We still chose C++ (instead of Rust) for new database development](https://www.eloqdata.com/blog/2024/10/26/why-cpp)
 * [2025-09-26, 12:16:00](https://news.ycombinator.com/item?id=45385620) - [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
 * [2025-09-25, 20:20:44](https://news.ycombinator.com/item?id=45378450) - [Fernflower Java Decompiler](https://github.com/JetBrains/fernflower)
 * [2025-09-25, 15:19:56](https://news.ycombinator.com/item?id=45373784) - [Zlib visualizer](https://lynn.github.io/flateview/)
