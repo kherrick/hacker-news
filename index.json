@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-29, 02:53:29",
+      "https://news.ycombinator.com/item?id=45409956"
+    ],
+    [
+      "Reader Response to \"AI Overinvestment\"",
+      "https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 01:18:14",
       "https://news.ycombinator.com/item?id=45409552"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45409526"
     ],
     [
-      "Cleaning house in nx monorepo, how i removed unused deps safely",
+      "Cleaning house in Nx monorepo, how i removed unused deps safely",
       "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely"
     ]
   ],
@@ -91,22 +101,22 @@
   ],
   [
     [
-      "2025-09-28, 20:07:07",
-      "https://news.ycombinator.com/item?id=45407505"
-    ],
-    [
-      "C-sigma: Easy-to-use Sigma proofs in C using libsodium",
-      "https://github.com/jedisct1/c-sigma"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 19:00:20",
       "https://news.ycombinator.com/item?id=45406911"
     ],
     [
       "The QMA Singularity",
       "https://scottaaronson.blog/?p=9183"
+    ]
+  ],
+  [
+    [
+      "2025-09-28, 18:49:40",
+      "https://news.ycombinator.com/item?id=45406826"
+    ],
+    [
+      "People got together to stop a school shooting before it happened",
+      "https://www.nytimes.com/2025/09/27/nyregion/mass-shooting-prevention.html"
     ]
   ],
   [
@@ -201,22 +211,32 @@
   ],
   [
     [
+      "2025-09-27, 06:22:53",
+      "https://news.ycombinator.com/item?id=45393576"
+    ],
+    [
+      "Buyers of Radio Shack, Pier 1 brands accused of running $112M Ponzi scheme",
+      "https://www.cbsnews.com/news/sec-rev-ponzi-scheme-tai-lopez-alex-mehr/"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 20:20:44",
+      "https://news.ycombinator.com/item?id=45378450"
+    ],
+    [
+      "Fernflower Java Decompiler",
+      "https://github.com/JetBrains/fernflower"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 19:31:07",
       "https://news.ycombinator.com/item?id=45377787"
     ],
     [
       "Corral.BAS",
       "https://basic-code.bearblog.dev/corral/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 15:45:41",
-      "https://news.ycombinator.com/item?id=45374239"
-    ],
-    [
-      "Collaborating with a robot biases human spatial attention",
-      "https://www.cell.com/iscience/fulltext/S2589-0042(25)01052-1"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-09-25, 15:07:32",
-      "https://news.ycombinator.com/item?id=45373570"
-    ],
-    [
-      "A fast, strong, topologically meaningful and fun knot invariant",
-      "https://arxiv.org/abs/2509.18456"
-    ]
-  ],
-  [
-    [
       "2025-09-25, 12:07:12",
       "https://news.ycombinator.com/item?id=45371856"
     ],
     [
       "The Long Trip from Silica to Smartphone",
       "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 12:00:57",
-      "https://news.ycombinator.com/item?id=45371817"
-    ],
-    [
-      "How many elephants?",
-      "http://howmanyelephants.co.uk"
     ]
   ],
   [
