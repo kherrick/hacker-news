@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 06:41:27](https://news.ycombinator.com/item?id=45410940) - [What is \"good taste\" in software engineering?](https://www.seangoedecke.com/taste/)
 * [2025-09-29, 03:45:40](https://news.ycombinator.com/item?id=45410155) - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
 * [2025-09-29, 03:42:12](https://news.ycombinator.com/item?id=45410134) - [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
 * [2025-09-29, 02:53:29](https://news.ycombinator.com/item?id=45409956) - [Reader Response to \"AI Overinvestment\"](https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/)

@@ -79,5 +79,6 @@
 * [2025-09-26, 01:43:57](https://news.ycombinator.com/item?id=45381631) - [Bit is all we need: binary normalized neural networks](https://arxiv.org/abs/2509.07025)
 * [2025-09-26, 01:38:19](https://news.ycombinator.com/item?id=45381590) - [Exploit Allows for Takeover of Fleets of Unitree Robots](https://spectrum.ieee.org/unitree-robot-exploit)
 * [2025-09-26, 01:37:10](https://news.ycombinator.com/item?id=45381584) - [Cloudflare Data Platform](https://blog.cloudflare.com/cloudflare-data-platform/)
+* [2025-09-26, 00:17:18](https://news.ycombinator.com/item?id=45381032) - [Myoelectric Stimulation Silent Subwoofer for Body-Sensory Acoustic Sensation](https://ieeexplore.ieee.org/document/10979899/)
 * [2025-09-26, 00:14:44](https://news.ycombinator.com/item?id=45381013) - [The Digital Markets Act: time for a reset](https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/)
 * [2025-09-26, 00:14:11](https://news.ycombinator.com/item?id=45381010) - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
