@@ -23,6 +23,7 @@
 * [2025-09-26, 20:46:26](https://news.ycombinator.com/item?id=45390856) - [How Insurance Risk Is Transformed into Investable Assets](https://riskvest.io/riskvest-insights/transforming-insurance-risk)
 * [2025-09-26, 19:27:23](https://news.ycombinator.com/item?id=45390121) - [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
 * [2025-09-26, 19:12:26](https://news.ycombinator.com/item?id=45389965) - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
+* [2025-09-26, 19:09:09](https://news.ycombinator.com/item?id=45389934) - [Show HN: Font Tester – Preview fonts on custom content](https://fonts.tomhadley.link/)
 * [2025-09-26, 19:04:27](https://news.ycombinator.com/item?id=45389889) - [When Bruce Lee Trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
 * [2025-09-26, 18:46:50](https://news.ycombinator.com/item?id=45389744) - [We still chose C++ (instead of Rust) for new database development](https://www.eloqdata.com/blog/2024/10/26/why-cpp)
 * [2025-09-26, 18:39:57](https://news.ycombinator.com/item?id=45389674) - [Gunman in shooting at NFL headquarters had CTE: Medical examiner](https://abcnews.go.com/US/shane-tamura-gunman-shooting-nfl-headquarters-cte-medical/story?id=125972038)
