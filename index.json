@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-09-29, 00:21:01",
+      "https://news.ycombinator.com/item?id=45409258"
+    ],
+    [
+      "Lockless MPSC/SPMC/MPMC queues are not queues",
+      "https://alexsaveau.dev/blog/opinions/performance/lockness/lockless-queues-are-not-queues"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 22:20:59",
       "https://news.ycombinator.com/item?id=45408617"
     ],
@@ -107,6 +117,16 @@
     [
       "Play snake in the URL address bar",
       "https://demian.ferrei.ro/snake/"
+    ]
+  ],
+  [
+    [
+      "2025-09-28, 21:00:07",
+      "https://news.ycombinator.com/item?id=45407951"
+    ],
+    [
+      "Roe (YC W24) Is Hiring",
+      "https://news.ycombinator.com/item?id=45407951"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-09-28, 13:00:16",
-      "https://news.ycombinator.com/item?id=45404022"
-    ],
-    [
-      "When I say “alphabetical order”, I mean “alphabetical order”",
-      "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 12:59:54",
       "https://news.ycombinator.com/item?id=45404021"
     ],
@@ -177,16 +187,6 @@
     [
       "Show HN: Swapple, a little daily puzzle on linear reversible circuit synthesis",
       "https://swapple.fuglede.dk"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 12:19:16",
-      "https://news.ycombinator.com/item?id=45403803"
-    ],
-    [
-      "Failing to Understand the Exponential, Again",
-      "https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/"
     ]
   ],
   [
