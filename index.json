@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-09-29, 19:31:22",
-      "https://news.ycombinator.com/item?id=45417771"
-    ],
-    [
-      "What is artificial general intelligence?",
-      "https://arxiv.org/abs/2503.23923"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 19:16:40",
       "https://news.ycombinator.com/item?id=45417637"
     ],
@@ -231,11 +221,21 @@
   ],
   [
     [
+      "2025-09-29, 13:34:58",
+      "https://news.ycombinator.com/item?id=45413588"
+    ],
+    [
+      "Code golfing a tiny demo using maths and a pinch of insanity",
+      "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 13:29:55",
       "https://news.ycombinator.com/item?id=45413525"
     ],
     [
-      "A SQL Heuristic: Ors Are Expensive",
+      "A SQL Heuristic: ORs Are Expensive",
       "https://ethanseal.com/articles/ors-are-expensive"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-25, 21:16:24",
-      "https://news.ycombinator.com/item?id=45379196"
+      "2025-09-25, 23:12:58",
+      "https://news.ycombinator.com/item?id=45380510"
     ],
     [
-      "The phaseout of the mmap() file operation in Linux",
-      "https://lwn.net/SubscriberLink/1038715/e4a2f8f50c244545/"
+      "C2PA Investigations",
+      "https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations"
     ]
   ]
 ]
