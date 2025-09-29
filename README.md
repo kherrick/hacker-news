@@ -25,11 +25,11 @@
 * [2025-09-29, 13:34:58](https://news.ycombinator.com/item?id=45413588) - [Code golfing a tiny demo using maths and a pinch of insanity](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
 * [2025-09-29, 13:29:55](https://news.ycombinator.com/item?id=45413525) - [A SQL Heuristic: ORs Are Expensive](https://ethanseal.com/articles/ors-are-expensive)
 * [2025-09-29, 10:11:20](https://news.ycombinator.com/item?id=45412022) - [Optimizing a 6502 image decoder, from 70 minutes to 1 minute](https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/)
-* [2025-09-27, 13:15:37](https://news.ycombinator.com/item?id=45395468) - [Users only care about 20% of your application](https://idiallo.com/blog/users-only-care-about-20-percent)
 * [2025-09-26, 09:13:23](https://news.ycombinator.com/item?id=45384438) - [If Odin Had Macros](https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/)
 * [2025-09-26, 06:29:53](https://news.ycombinator.com/item?id=45383381) - [`std::flip`](https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html)
 * [2025-09-26, 03:28:05](https://news.ycombinator.com/item?id=45382300) - [Voronoi map generation in Civilization VII](https://civilization.2k.com/civ-vii/from-the-devs/map-generation/)
 * [2025-09-25, 23:12:58](https://news.ycombinator.com/item?id=45380510) - [C2PA Investigations](https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations)
+* [2025-09-25, 21:16:24](https://news.ycombinator.com/item?id=45379196) - [The phaseout of the mmap() file operation in Linux](https://lwn.net/SubscriberLink/1038715/e4a2f8f50c244545/)
 
 ## [Archives](archives/index.md)
 
