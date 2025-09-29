@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-09-29, 17:41:00",
-      "https://news.ycombinator.com/item?id=45416572"
-    ],
-    [
-      "Instant Checkout for Merchants in ChatGPT",
-      "https://chatgpt.com/merchants"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 17:12:58",
       "https://news.ycombinator.com/item?id=45416231"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2025-09-29, 13:25:40",
+      "https://news.ycombinator.com/item?id=45413481"
+    ],
+    [
+      "Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%",
+      "https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 11:28:06",
       "https://news.ycombinator.com/item?id=45412419"
     ],
@@ -241,11 +241,21 @@
   ],
   [
     [
+      "2025-09-29, 07:50:24",
+      "https://news.ycombinator.com/item?id=45411291"
+    ],
+    [
+      "Queueing to publish in AI and CS",
+      "https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 06:41:27",
       "https://news.ycombinator.com/item?id=45410940"
     ],
     [
-      "What is \"good taste\" in software engineering?",
+      "What is “good taste” in software engineering?",
       "https://www.seangoedecke.com/taste/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The phaseout of the mmap() file operation in Linux",
       "https://lwn.net/SubscriberLink/1038715/e4a2f8f50c244545/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 15:19:56",
-      "https://news.ycombinator.com/item?id=45373784"
-    ],
-    [
-      "Zlib visualizer",
-      "https://lynn.github.io/flateview/"
     ]
   ]
 ]
