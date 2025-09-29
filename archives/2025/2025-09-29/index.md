@@ -7,6 +7,7 @@
 * [2025-09-29, 03:45:40](https://news.ycombinator.com/item?id=45410155) - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
 * [2025-09-29, 03:42:12](https://news.ycombinator.com/item?id=45410134) - [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
 * [2025-09-29, 02:53:29](https://news.ycombinator.com/item?id=45409956) - [Reader Response to \"AI Overinvestment\"](https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/)
+* [2025-09-29, 02:41:18](https://news.ycombinator.com/item?id=45409914) - [The Elusive Roots of Rosin Potatoes](https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes)
 * [2025-09-29, 02:10:20](https://news.ycombinator.com/item?id=45409794) - [F-Droid and Google's Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
 * [2025-09-29, 01:18:14](https://news.ycombinator.com/item?id=45409552) - [Primer on FedEx's Distribution Network](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
 * [2025-09-29, 01:12:45](https://news.ycombinator.com/item?id=45409526) - [Just nuked 120 unused NPM deps from a Nx monorepo](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
