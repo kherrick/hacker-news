@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 22:23:18](https://news.ycombinator.com/item?id=45419566) - [Any level of alcohol consumption increases risk of dementia](https://www.ox.ac.uk/news/2025-09-24-any-level-alcohol-consumption-increases-risk-dementia)
 * [2025-09-29, 22:03:31](https://news.ycombinator.com/item?id=45419341) - [Technology Without Humanity Means Nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing)
 * [2025-09-29, 21:21:21](https://news.ycombinator.com/item?id=45418918) - [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
 * [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
