@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-29, 16:52:59",
+      "https://news.ycombinator.com/item?id=45415962"
+    ],
+    [
+      "Claude Sonnet 4.5",
+      "https://www.anthropic.com/news/claude-sonnet-4-5"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 16:14:38",
+      "https://news.ycombinator.com/item?id=45415539"
+    ],
+    [
+      "Show HN: Every single torrent is on this website",
+      "https://infohash.lol/"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 16:03:49",
       "https://news.ycombinator.com/item?id=45415428"
     ],
     [
       "Marissa Mayer will close her old AI startup, sell assets to her new AI startup",
       "https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 15:54:42",
+      "https://news.ycombinator.com/item?id=45415332"
+    ],
+    [
+      "Subtleties of SQLite Indexes",
+      "https://emschwartz.me/subtleties-of-sqlite-indexes/"
     ]
   ],
   [
@@ -31,22 +61,22 @@
   ],
   [
     [
+      "2025-09-29, 15:40:30",
+      "https://news.ycombinator.com/item?id=45415178"
+    ],
+    [
+      "How the Brain Balances Excitation and Inhibition",
+      "https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 14:46:11",
       "https://news.ycombinator.com/item?id=45414479"
     ],
     [
       "Not all OCuLink eGPU docks are created equal",
       "https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 14:22:39",
-      "https://news.ycombinator.com/item?id=45414215"
-    ],
-    [
-      "Vertical Solar Panels Are Out Standing",
-      "https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%",
       "https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 11:42:04",
-      "https://news.ycombinator.com/item?id=45412494"
-    ],
-    [
-      "Tuning async IO in PostgreSQL 18",
-      "https://vondra.me/posts/tuning-aio-in-postgresql-18/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-09-29, 00:21:01",
-      "https://news.ycombinator.com/item?id=45409258"
-    ],
-    [
-      "Lockless MPSC/SPMC/MPMC queues are not queues",
-      "https://alexsaveau.dev/blog/opinions/performance/lockness/lockless-queues-are-not-queues"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 22:20:59",
       "https://news.ycombinator.com/item?id=45408617"
     ],
@@ -197,16 +207,6 @@
     [
       "Play snake in the URL address bar",
       "https://demian.ferrei.ro/snake/"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 17:23:21",
-      "https://news.ycombinator.com/item?id=45406109"
-    ],
-    [
-      "Bayesian Data Analysis, Third edition (2013) [pdf]",
-      "https://sites.stat.columbia.edu/gelman/book/BDA3.pdf"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-09-25, 20:20:44",
-      "https://news.ycombinator.com/item?id=45378450"
+      "2025-09-25, 21:16:24",
+      "https://news.ycombinator.com/item?id=45379196"
     ],
     [
-      "Fernflower Java Decompiler",
-      "https://github.com/JetBrains/fernflower"
+      "The phaseout of the mmap() file operation in Linux",
+      "https://lwn.net/SubscriberLink/1038715/e4a2f8f50c244545/"
     ]
   ],
   [
