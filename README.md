@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-29, 22:52:04](https://news.ycombinator.com/item?id=45419841) - [All the Sad Young Terminally Online Men](https://www.derekthompson.org/p/all-the-sad-young-terminally-online)
 * [2025-09-29, 22:03:31](https://news.ycombinator.com/item?id=45419341) - [Technology without humanity means nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing)
 * [2025-09-29, 21:21:21](https://news.ycombinator.com/item?id=45418918) - [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
 * [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
@@ -21,13 +22,12 @@
 * [2025-09-29, 15:20:11](https://news.ycombinator.com/item?id=45414933) - [John Jumper: AI is revolutionizing scientific discovery [video]](https://www.youtube.com/watch?v=2Yguz5U-Nic)
 * [2025-09-29, 14:46:11](https://news.ycombinator.com/item?id=45414479) - [Not all OCuLink eGPU docks are created equal](https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal)
 * [2025-09-29, 14:22:39](https://news.ycombinator.com/item?id=45414215) - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
-* [2025-09-29, 13:39:53](https://news.ycombinator.com/item?id=45413654) - [Why friction is necessary for growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
 * [2025-09-29, 13:34:58](https://news.ycombinator.com/item?id=45413588) - [Code golfing a tiny demo using maths and a pinch of insanity](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
 * [2025-09-29, 13:29:55](https://news.ycombinator.com/item?id=45413525) - [A SQL Heuristic: ORs Are Expensive](https://ethanseal.com/articles/ors-are-expensive)
 * [2025-09-29, 10:11:20](https://news.ycombinator.com/item?id=45412022) - [Optimizing a 6502 image decoder, from 70 minutes to 1 minute](https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/)
-* [2025-09-29, 06:41:27](https://news.ycombinator.com/item?id=45410940) - [What is “good taste” in software engineering?](https://www.seangoedecke.com/taste/)
 * [2025-09-27, 13:15:37](https://news.ycombinator.com/item?id=45395468) - [Users only care about 20% of your application](https://idiallo.com/blog/users-only-care-about-20-percent)
 * [2025-09-26, 09:13:23](https://news.ycombinator.com/item?id=45384438) - [If Odin Had Macros](https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/)
+* [2025-09-26, 06:29:53](https://news.ycombinator.com/item?id=45383381) - [`std::flip`](https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html)
 * [2025-09-26, 03:28:05](https://news.ycombinator.com/item?id=45382300) - [Voronoi map generation in Civilization VII](https://civilization.2k.com/civ-vii/from-the-devs/map-generation/)
 * [2025-09-25, 23:12:58](https://news.ycombinator.com/item?id=45380510) - [C2PA Investigations](https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations)
 
