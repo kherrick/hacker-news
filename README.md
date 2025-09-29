@@ -26,9 +26,9 @@
 * [2025-09-29, 11:28:06](https://news.ycombinator.com/item?id=45412419) - [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
 * [2025-09-29, 10:11:20](https://news.ycombinator.com/item?id=45412022) - [Optimizing a 6502 image decoder, from 70 minutes to 1 minute](https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/)
 * [2025-09-29, 06:41:27](https://news.ycombinator.com/item?id=45410940) - [What is “good taste” in software engineering?](https://www.seangoedecke.com/taste/)
-* [2025-09-27, 21:42:14](https://news.ycombinator.com/item?id=45399572) - [Using Cesium-137 testing to find counterfeit wine](https://kitchensisters.org/hiddenkitchens/atomic-wine/)
 * [2025-09-27, 13:15:37](https://news.ycombinator.com/item?id=45395468) - [Users only care about 20% of your application](https://idiallo.com/blog/users-only-care-about-20-percent)
 * [2025-09-26, 09:13:23](https://news.ycombinator.com/item?id=45384438) - [If Odin Had Macros](https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/)
+* [2025-09-26, 03:28:05](https://news.ycombinator.com/item?id=45382300) - [Voronoi map generation in Civilization VII](https://civilization.2k.com/civ-vii/from-the-devs/map-generation/)
 * [2025-09-25, 21:16:24](https://news.ycombinator.com/item?id=45379196) - [The phaseout of the mmap() file operation in Linux](https://lwn.net/SubscriberLink/1038715/e4a2f8f50c244545/)
 
 ## [Archives](archives/index.md)
