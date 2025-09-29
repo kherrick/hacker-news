@@ -43,6 +43,7 @@
 * [2025-09-29, 14:21:22](https://news.ycombinator.com/item?id=45414195) - [Netanyahu says social media Israel's new 'weapon' after TikTok acquisition](https://www.newarab.com/news/netanyahu-says-social-media-israels-new-weapon)
 * [2025-09-29, 13:47:23](https://news.ycombinator.com/item?id=45413767) - [Electronic Arts Goes Private for $52.5B in Largest LBO](https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c)
 * [2025-09-29, 13:39:53](https://news.ycombinator.com/item?id=45413654) - [Why friction is necessary for growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
+* [2025-09-29, 13:34:58](https://news.ycombinator.com/item?id=45413588) - [Code golfing a tiny demo using maths and a pinch of insanity](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
 * [2025-09-29, 13:33:41](https://news.ycombinator.com/item?id=45413570) - [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
 * [2025-09-29, 13:29:55](https://news.ycombinator.com/item?id=45413525) - [A SQL Heuristic: Ors Are Expensive](https://ethanseal.com/articles/ors-are-expensive)
 * [2025-09-29, 13:25:40](https://news.ycombinator.com/item?id=45413481) - [Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%](https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b)

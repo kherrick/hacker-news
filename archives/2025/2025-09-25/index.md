@@ -8,6 +8,7 @@
 * [2025-09-25, 23:34:46](https://news.ycombinator.com/item?id=45380699) - [Redis is fast – I'll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
 * [2025-09-25, 23:33:46](https://news.ycombinator.com/item?id=45380690) - [Apple Demands EU Repeal the Digital Markets Act](https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/)
 * [2025-09-25, 23:31:18](https://news.ycombinator.com/item?id=45380671) - [The Word Made Lifeless. Are we becoming stochastic parrots?](https://hedgehogreview.com/issues/lessons-of-babel/articles/the-word-made-lifeless)
+* [2025-09-25, 23:12:58](https://news.ycombinator.com/item?id=45380510) - [C2PA Investigations](https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations)
 * [2025-09-25, 22:59:58](https://news.ycombinator.com/item?id=45380382) - [Cloudflare Introduces Net Dollar](https://www.cloudflare.com/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/)
 * [2025-09-25, 21:25:51](https://news.ycombinator.com/item?id=45379325) - [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
 * [2025-09-25, 21:16:24](https://news.ycombinator.com/item?id=45379196) - [The phaseout of the mmap() file operation in Linux](https://lwn.net/SubscriberLink/1038715/e4a2f8f50c244545/)
