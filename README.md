@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
+* [2025-09-29, 21:03:21](https://news.ycombinator.com/item?id=45418713) - [Big Tech Told Kids to Code. The Jobs Didn’t Follow.](https://www.nytimes.com/2025/09/29/podcasts/the-daily/big-tech-told-kids-to-code-the-jobs-didnt-follow.html)
 * [2025-09-29, 20:58:11](https://news.ycombinator.com/item?id=45418675) - [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
 * [2025-09-29, 20:33:14](https://news.ycombinator.com/item?id=45418428) - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
 * [2025-09-29, 20:19:54](https://news.ycombinator.com/item?id=45418269) - [Remember: Kurt Vonnegut Was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47)
@@ -12,7 +13,6 @@
 * [2025-09-29, 17:00:42](https://news.ycombinator.com/item?id=45416080) - [Buy It in ChatGPT: Instant Checkout and the Agentic Commerce Protocol](https://openai.com/index/buy-it-in-chatgpt/)
 * [2025-09-29, 16:52:59](https://news.ycombinator.com/item?id=45415962) - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
 * [2025-09-29, 16:40:05](https://news.ycombinator.com/item?id=45415814) - [Sandboxing AI agents at the kernel level](https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level)
-* [2025-09-29, 16:14:38](https://news.ycombinator.com/item?id=45415539) - [Show HN: Every single torrent is on this website](https://infohash.lol/)
 * [2025-09-29, 16:12:30](https://news.ycombinator.com/item?id=45415510) - [ML on Apple ][+](https://mdcramer.github.io/apple-2-blog/k-means/)
 * [2025-09-29, 15:54:42](https://news.ycombinator.com/item?id=45415332) - [Subtleties of SQLite Indexes](https://emschwartz.me/subtleties-of-sqlite-indexes/)
 * [2025-09-29, 15:45:33](https://news.ycombinator.com/item?id=45415232) - [Write the damn code](https://antonz.org/write-code/)
