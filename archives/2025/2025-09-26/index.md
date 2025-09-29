@@ -70,6 +70,7 @@
 * [2025-09-26, 09:52:45](https://news.ycombinator.com/item?id=45384653) - [Genode OS Framework](https://genode.org)
 * [2025-09-26, 09:46:13](https://news.ycombinator.com/item?id=45384617) - [Show HN: The Little Notebook for Learning Linear Algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
 * [2025-09-26, 09:20:07](https://news.ycombinator.com/item?id=45384481) - [Pop OS is getting beta](https://system76.com/pop/pop-beta/)
+* [2025-09-26, 09:13:23](https://news.ycombinator.com/item?id=45384438) - [If Odin Had Macros](https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/)
 * [2025-09-26, 07:59:59](https://news.ycombinator.com/item?id=45383960) - [The great sameness: a comic on how AI makes us more alike](https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925)
 * [2025-09-26, 07:39:53](https://news.ycombinator.com/item?id=45383851) - [Ode to Libraries from a Remote Worker](https://sibervepunk.com/ode-to-libraries/)
 * [2025-09-26, 07:06:45](https://news.ycombinator.com/item?id=45383637) - [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
