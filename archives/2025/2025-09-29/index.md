@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 16:03:49](https://news.ycombinator.com/item?id=45415428) - [Marissa Mayer will close her old AI startup, sell assets to her new AI startup](https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/)
 * [2025-09-29, 15:45:33](https://news.ycombinator.com/item?id=45415232) - [Write the Damn Code](https://antonz.org/write-code/)
 * [2025-09-29, 15:42:46](https://news.ycombinator.com/item?id=45415207) - [Loadmo.re: design inspiration for unconventional web](https://loadmo.re)
 * [2025-09-29, 14:32:31](https://news.ycombinator.com/item?id=45414327) - [Grok is now the most popular model on OpenRouter](https://openrouter.ai/rankings#market-share)
