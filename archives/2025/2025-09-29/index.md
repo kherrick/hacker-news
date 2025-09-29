@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 11:28:06](https://news.ycombinator.com/item?id=45412419) - [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
 * [2025-09-29, 10:43:18](https://news.ycombinator.com/item?id=45412178) - [Does AI Get Bored?](https://timkellogg.me/blog/2025/09/27/boredom)
 * [2025-09-29, 10:26:39](https://news.ycombinator.com/item?id=45412098) - [DeepSeek-v3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
 * [2025-09-29, 10:04:06](https://news.ycombinator.com/item?id=45411990) - [The graduate 'jobpocalypse': Where have all the entry-level jobs gone? [video]](https://www.youtube.com/watch?v=IeTFpsuCor8)
