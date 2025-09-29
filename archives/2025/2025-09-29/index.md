@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 07:50:24](https://news.ycombinator.com/item?id=45411291) - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
 * [2025-09-29, 06:41:27](https://news.ycombinator.com/item?id=45410940) - [What is \"good taste\" in software engineering?](https://www.seangoedecke.com/taste/)
 * [2025-09-29, 03:45:40](https://news.ycombinator.com/item?id=45410155) - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
 * [2025-09-29, 03:42:12](https://news.ycombinator.com/item?id=45410134) - [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)

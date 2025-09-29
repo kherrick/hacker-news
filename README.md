@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-29, 07:50:24](https://news.ycombinator.com/item?id=45411291) - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
 * [2025-09-29, 06:41:27](https://news.ycombinator.com/item?id=45410940) - [What is \"good taste\" in software engineering?](https://www.seangoedecke.com/taste/)
 * [2025-09-29, 03:45:40](https://news.ycombinator.com/item?id=45410155) - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
 * [2025-09-29, 03:42:12](https://news.ycombinator.com/item?id=45410134) - [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
@@ -7,7 +8,6 @@
 * [2025-09-29, 02:10:20](https://news.ycombinator.com/item?id=45409794) - [F-Droid and Google’s developer registration decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
 * [2025-09-29, 01:18:14](https://news.ycombinator.com/item?id=45409552) - [Primer on FedEx's Distribution Network (2024)](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
 * [2025-09-29, 01:12:45](https://news.ycombinator.com/item?id=45409526) - [Cleaning house in Nx monorepo, how i removed unused deps safely](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
-* [2025-09-28, 23:32:32](https://news.ycombinator.com/item?id=45408994) - [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false)
 * [2025-09-28, 22:20:59](https://news.ycombinator.com/item?id=45408617) - [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/)
 * [2025-09-28, 21:31:10](https://news.ycombinator.com/item?id=45408229) - [Farewell friends](https://humbledollar.com/forum/farewell-friends/)
 * [2025-09-28, 21:08:15](https://news.ycombinator.com/item?id=45408021) - [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
@@ -21,6 +21,7 @@
 * [2025-09-28, 12:42:03](https://news.ycombinator.com/item?id=45403912) - [Show HN: Swapple, a little daily puzzle on linear reversible circuit synthesis](https://swapple.fuglede.dk)
 * [2025-09-28, 12:19:16](https://news.ycombinator.com/item?id=45403803) - [Failing to Understand the Exponential, Again](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/)
 * [2025-09-27, 06:22:53](https://news.ycombinator.com/item?id=45393576) - [Buyers of Radio Shack, Pier 1 brands accused of running $112M Ponzi scheme](https://www.cbsnews.com/news/sec-rev-ponzi-scheme-tai-lopez-alex-mehr/)
+* [2025-09-26, 16:37:24](https://news.ycombinator.com/item?id=45388402) - [Reusable grocery bags durability test](https://www.cbc.ca/lite/story/1.7643243)
 * [2025-09-26, 12:52:15](https://news.ycombinator.com/item?id=45385941) - [The Simple Mathematics of Chinese Innovation](https://marginalrevolution.com/marginalrevolution/2025/09/the-simple-mathematics-of-chinese-innovation.html)
 * [2025-09-26, 00:17:18](https://news.ycombinator.com/item?id=45381032) - [Myoelectric Stimulation Silent Subwoofer for Body-Sensory Acoustic Sensation](https://ieeexplore.ieee.org/document/10979899/)
 * [2025-09-25, 20:20:44](https://news.ycombinator.com/item?id=45378450) - [Fernflower Java Decompiler](https://github.com/JetBrains/fernflower)
@@ -28,7 +29,6 @@
 * [2025-09-25, 15:19:56](https://news.ycombinator.com/item?id=45373784) - [Zlib visualizer](https://lynn.github.io/flateview/)
 * [2025-09-25, 12:07:12](https://news.ycombinator.com/item?id=45371856) - [The Long Trip from Silica to Smartphone](https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone)
 * [2025-09-25, 04:30:13](https://news.ycombinator.com/item?id=45369286) - [Patagonian Welsh](https://en.wikipedia.org/wiki/Patagonian_Welsh)
-* [2025-09-25, 02:22:07](https://news.ycombinator.com/item?id=45368596) - [Comparing Rust to Carbon](https://lwn.net/Articles/1036912/)
 * [2025-09-24, 17:32:30](https://news.ycombinator.com/item?id=45363465) - [Supermicro server motherboards can be infected with unremovable malware](https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/)
 
 ## [Archives](archives/index.md)

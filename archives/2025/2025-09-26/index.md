@@ -32,6 +32,7 @@
 * [2025-09-26, 17:11:20](https://news.ycombinator.com/item?id=45388770) - [Informed Poll](https://pigweed.dev/pw_async2/informed_poll.html)
 * [2025-09-26, 17:06:48](https://news.ycombinator.com/item?id=45388728) - [Thinking Machines – Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
 * [2025-09-26, 17:00:46](https://news.ycombinator.com/item?id=45388675) - [Gauntlet AI (YC S17) is looking for engineers who want to master AI](https://apply.gauntletai.com/)
+* [2025-09-26, 16:37:24](https://news.ycombinator.com/item?id=45388402) - [Reusable grocery bags durability test](https://www.cbc.ca/lite/story/1.7643243)
 * [2025-09-26, 16:35:09](https://news.ycombinator.com/item?id=45388380) - [Process Tracing Projects](https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects)
 * [2025-09-26, 16:04:27](https://news.ycombinator.com/item?id=45388054) - [Ubuntu 25.10's Rust Coreutils Is Causing Major Breakage for Some Executables](https://www.phoronix.com/news/Ubuntu-25.10-Coreutils-Makeself)
 * [2025-09-26, 16:01:55](https://news.ycombinator.com/item?id=45388021) - [Open Social](https://overreacted.io/open-social/)
