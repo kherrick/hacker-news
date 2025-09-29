@@ -33,6 +33,7 @@
 * [2025-09-26, 18:01:26](https://news.ycombinator.com/item?id=45389267) - [SimpleFold: Folding Proteins Is Simpler Than You Think](https://github.com/apple/ml-simplefold)
 * [2025-09-26, 17:17:54](https://news.ycombinator.com/item?id=45388822) - [Suno Studio, a Generative AI DAW](https://suno.com/studio-welcome)
 * [2025-09-26, 17:11:20](https://news.ycombinator.com/item?id=45388770) - [Informed Poll](https://pigweed.dev/pw_async2/informed_poll.html)
+* [2025-09-26, 17:09:51](https://news.ycombinator.com/item?id=45388761) - [Haiku Validator](https://haikuvalidator.com/)
 * [2025-09-26, 17:06:48](https://news.ycombinator.com/item?id=45388728) - [Thinking Machines – Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
 * [2025-09-26, 17:00:46](https://news.ycombinator.com/item?id=45388675) - [Gauntlet AI (YC S17) is looking for engineers who want to master AI](https://apply.gauntletai.com/)
 * [2025-09-26, 16:37:24](https://news.ycombinator.com/item?id=45388402) - [Reusable grocery bags durability test](https://www.cbc.ca/lite/story/1.7643243)
