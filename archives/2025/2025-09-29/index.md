@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 19:24:58](https://news.ycombinator.com/item?id=45417711) - ['Based on a True Story'](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
 * [2025-09-29, 17:41:00](https://news.ycombinator.com/item?id=45416572) - [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
 * [2025-09-29, 17:23:09](https://news.ycombinator.com/item?id=45416373) - [S&P affirms 'AA+' credit rating for US, cites impact of tariff revenue](https://www.reuters.com/business/sp-affirms-aa-credit-rating-us-cites-impact-tariff-revenue-2025-08-19/)
 * [2025-09-29, 17:21:15](https://news.ycombinator.com/item?id=45416347) - [79-year-old US citizen injured in immigration raid files $50M claim](https://apnews.com/article/immigration-raids-los-angeles-ice-lawsuit-6c94ce6e7873581e9f3bebb6f5cbb0df)
