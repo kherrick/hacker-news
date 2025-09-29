@@ -73,6 +73,7 @@
 * [2025-09-26, 07:06:45](https://news.ycombinator.com/item?id=45383637) - [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
 * [2025-09-26, 07:01:52](https://news.ycombinator.com/item?id=45383612) - [Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer)
 * [2025-09-26, 06:45:28](https://news.ycombinator.com/item?id=45383483) - [Safe in the sandbox: security hardening for Cloudflare Workers](https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/)
+* [2025-09-26, 06:29:53](https://news.ycombinator.com/item?id=45383381) - [`std::flip`](https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html)
 * [2025-09-26, 04:47:40](https://news.ycombinator.com/item?id=45382755) - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
 * [2025-09-26, 04:33:31](https://news.ycombinator.com/item?id=45382668) - [The effect of H-1B quota on employment and selection of foreign-born labor (2018)](https://doi.org/10.1016/j.euroecorev.2018.06.010)
 * [2025-09-26, 04:29:41](https://news.ycombinator.com/item?id=45382645) - [A platform-jumping prince – History of Prince of Persia's 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
