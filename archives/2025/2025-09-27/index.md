@@ -50,6 +50,7 @@
 * [2025-09-27, 13:45:43](https://news.ycombinator.com/item?id=45395667) - [Show HN: Privacy-First Voice-to-Text for macOS](https://github.com/cydanix/whisperclip)
 * [2025-09-27, 13:44:49](https://news.ycombinator.com/item?id=45395661) - [Cost of AGI Delusion:Chasing Superintelligence US Falling Behind in Real AI Race](https://www.foreignaffairs.com/united-states/cost-delusion-artificial-general-intelligence)
 * [2025-09-27, 13:19:57](https://news.ycombinator.com/item?id=45395499) - [The Other Linux Logo](https://ecogex.com/the-other-linux-logo/)
+* [2025-09-27, 13:15:37](https://news.ycombinator.com/item?id=45395468) - [Users Only Care About 20% of Your Application](https://idiallo.com/blog/users-only-care-about-20-percent)
 * [2025-09-27, 13:10:34](https://news.ycombinator.com/item?id=45395428) - [Show HN: I spent 4 months building Duolingo but for your life](https://three-cells.com)
 * [2025-09-27, 13:05:45](https://news.ycombinator.com/item?id=45395396) - [Samsung now owns Denon, Bowers and Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)
 * [2025-09-27, 12:49:23](https://news.ycombinator.com/item?id=45395290) - [We Won't Be Missed: Work and Growth in the Era of AGI [pdf]](https://conference.nber.org/conf_papers/f227505.pdf)
