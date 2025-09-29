@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-29, 03:45:40](https://news.ycombinator.com/item?id=45410155) - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
+* [2025-09-29, 03:42:12](https://news.ycombinator.com/item?id=45410134) - [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
 * [2025-09-29, 02:53:29](https://news.ycombinator.com/item?id=45409956) - [Reader Response to \"AI Overinvestment\"](https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/)
 * [2025-09-29, 02:10:20](https://news.ycombinator.com/item?id=45409794) - [F-Droid and Google's Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
 * [2025-09-29, 01:18:14](https://news.ycombinator.com/item?id=45409552) - [Primer on FedEx's Distribution Network (2024)](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
@@ -23,12 +24,11 @@
 * [2025-09-27, 06:22:53](https://news.ycombinator.com/item?id=45393576) - [Buyers of Radio Shack, Pier 1 brands accused of running $112M Ponzi scheme](https://www.cbsnews.com/news/sec-rev-ponzi-scheme-tai-lopez-alex-mehr/)
 * [2025-09-25, 20:20:44](https://news.ycombinator.com/item?id=45378450) - [Fernflower Java Decompiler](https://github.com/JetBrains/fernflower)
 * [2025-09-25, 19:31:07](https://news.ycombinator.com/item?id=45377787) - [Corral.BAS](https://basic-code.bearblog.dev/corral/)
-* [2025-09-25, 18:18:21](https://news.ycombinator.com/item?id=45376727) - [Workings of Science – Debunked Software Theories](https://dl.acm.org/doi/pdf/10.1145/3512338)
+* [2025-09-25, 18:18:21](https://news.ycombinator.com/item?id=45376727) - [Workings of Science: Debunked Software Theories (2022) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3512338)
 * [2025-09-25, 15:19:56](https://news.ycombinator.com/item?id=45373784) - [Zlib visualizer](https://lynn.github.io/flateview/)
 * [2025-09-25, 12:07:12](https://news.ycombinator.com/item?id=45371856) - [The Long Trip from Silica to Smartphone](https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone)
 * [2025-09-25, 04:30:13](https://news.ycombinator.com/item?id=45369286) - [Patagonian Welsh](https://en.wikipedia.org/wiki/Patagonian_Welsh)
 * [2025-09-25, 02:22:07](https://news.ycombinator.com/item?id=45368596) - [Comparing Rust to Carbon](https://lwn.net/Articles/1036912/)
-* [2025-09-25, 00:28:35](https://news.ycombinator.com/item?id=45367732) - [Rustroid, a Rust IDE for Android](https://rustroid.is-a.dev/story)
 * [2025-09-24, 17:32:30](https://news.ycombinator.com/item?id=45363465) - [Supermicro server motherboards can be infected with unremovable malware](https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/)
 
 ## [Archives](archives/index.md)
