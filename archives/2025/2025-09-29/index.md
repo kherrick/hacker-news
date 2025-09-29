@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
 * [2025-09-29, 19:35:33](https://news.ycombinator.com/item?id=45417805) - [Gold hits all time high](https://goldprice.org/)
+* [2025-09-29, 19:31:22](https://news.ycombinator.com/item?id=45417771) - [What is artificial general intelligence?](https://arxiv.org/abs/2503.23923)
 * [2025-09-29, 19:24:58](https://news.ycombinator.com/item?id=45417711) - ['Based on a True Story'](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
 * [2025-09-29, 19:06:04](https://news.ycombinator.com/item?id=45417523) - [Oracle will have to borrow at least $25B a year to fund AI fantasy, says analyst](https://www.theregister.com/2025/09/29/oracle_ai_debt/)
 * [2025-09-29, 17:41:00](https://news.ycombinator.com/item?id=45416572) - [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
@@ -13,6 +14,7 @@
 * [2025-09-29, 17:12:58](https://news.ycombinator.com/item?id=45416231) - [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
 * [2025-09-29, 17:12:13](https://news.ycombinator.com/item?id=45416228) - [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
 * [2025-09-29, 17:04:04](https://news.ycombinator.com/item?id=45416122) - [Claude Sonnet 4.5 System Card [pdf]](https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf)
+* [2025-09-29, 17:00:42](https://news.ycombinator.com/item?id=45416080) - [Buy It in ChatGPT: Instant Checkout and the Agentic Commerce Protocol](https://openai.com/index/buy-it-in-chatgpt/)
 * [2025-09-29, 16:52:59](https://news.ycombinator.com/item?id=45415962) - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
 * [2025-09-29, 16:40:05](https://news.ycombinator.com/item?id=45415814) - [Sandboxing AI Agents at the Kernel Level](https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level)
 * [2025-09-29, 16:14:38](https://news.ycombinator.com/item?id=45415539) - [Show HN: Every single torrent is on this website](https://infohash.lol/)
@@ -23,6 +25,7 @@
 * [2025-09-29, 15:45:33](https://news.ycombinator.com/item?id=45415232) - [Write the Damn Code](https://antonz.org/write-code/)
 * [2025-09-29, 15:42:46](https://news.ycombinator.com/item?id=45415207) - [Loadmo.re: design inspiration for unconventional web](https://loadmo.re)
 * [2025-09-29, 15:40:30](https://news.ycombinator.com/item?id=45415178) - [How the Brain Balances Excitation and Inhibition](https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/)
+* [2025-09-29, 15:20:11](https://news.ycombinator.com/item?id=45414933) - [Nobel Laureate John Jumper: AI Is Revolutionizing Scientific Discovery [video]](https://www.youtube.com/watch?v=2Yguz5U-Nic)
 * [2025-09-29, 14:46:11](https://news.ycombinator.com/item?id=45414479) - [Not all OCuLink eGPU docks are created equal](https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal)
 * [2025-09-29, 14:32:31](https://news.ycombinator.com/item?id=45414327) - [Grok is now the most popular model on OpenRouter](https://openrouter.ai/rankings#market-share)
 * [2025-09-29, 14:22:39](https://news.ycombinator.com/item?id=45414215) - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
