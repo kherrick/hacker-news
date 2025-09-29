@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=45409552"
     ],
     [
-      "Primer on FedEx's Distribution Network",
+      "Primer on FedEx's Distribution Network (2024)",
       "https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45409526"
     ],
     [
-      "Just nuked 120 unused NPM deps from a Nx monorepo",
+      "Cleaning house in nx monorepo, how i removed unused deps safely",
       "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Health officials in the US are sounding the alarm over drug-resistant bacteria",
       "https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us"
+    ]
+  ],
+  [
+    [
+      "2025-09-28, 23:33:34",
+      "https://news.ycombinator.com/item?id=45409001"
+    ],
+    [
+      "Use the Accept Header to Serve Markdown Instead of HTML to LLMs",
+      "https://www.skeptrune.com/posts/use-the-accept-header-to-serve-markdown-instead-of-html-to-llms/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-09-28, 16:40:53",
-      "https://news.ycombinator.com/item?id=45405750"
-    ],
-    [
-      "The Weird Concept of Branchless Programming",
-      "https://sanixdk.xyz/blogs/the-weird-concept-of-branchless-programming"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 15:43:33",
       "https://news.ycombinator.com/item?id=45405177"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-09-25, 17:28:11",
-      "https://news.ycombinator.com/item?id=45375977"
-    ],
-    [
-      "A safe, non-owning C++ pointer class",
-      "https://techblog.rosemanlabs.com/c++/safety/object-lifetime/2025/08/28/a-safe-pointer-that-protects-against-use-after-free-and-updates-when-the-pointee-is-moved.html"
-    ]
-  ],
-  [
-    [
       "2025-09-25, 15:45:41",
       "https://news.ycombinator.com/item?id=45374239"
     ],
@@ -247,6 +237,16 @@
     [
       "A fast, strong, topologically meaningful and fun knot invariant",
       "https://arxiv.org/abs/2509.18456"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 12:07:12",
+      "https://news.ycombinator.com/item?id=45371856"
+    ],
+    [
+      "The Long Trip from Silica to Smartphone",
+      "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone"
     ]
   ],
   [
