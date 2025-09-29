@@ -48,6 +48,7 @@
 * [2025-09-28, 13:24:52](https://news.ycombinator.com/item?id=45404173) - [Listeria found Walmart meatball meals may be linked deadly fettuccine outbreak](https://www.cnn.com/2025/09/26/health/listeria-fettuccine-outbreak)
 * [2025-09-28, 13:00:16](https://news.ycombinator.com/item?id=45404022) - [When I say \"alphabetical order\", I mean \"alphabetical order\"](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
 * [2025-09-28, 12:59:54](https://news.ycombinator.com/item?id=45404021) - [Privacy Badger is a free browser extension made by EFF to stop spying](https://privacybadger.org/)
+* [2025-09-28, 12:42:03](https://news.ycombinator.com/item?id=45403912) - [Show HN: Swapple, a little daily puzzle on linear reversible circuit synthesis](https://swapple.fuglede.dk)
 * [2025-09-28, 12:19:16](https://news.ycombinator.com/item?id=45403803) - [Failing to Understand the Exponential, Again](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/)
 * [2025-09-28, 12:15:05](https://news.ycombinator.com/item?id=45403775) - [The stripper who ushered in the subscription-based internet](https://thehustle.co/originals/the-stripper-who-ushered-in-the-modern-subscription-based-internet)
 * [2025-09-28, 12:06:15](https://news.ycombinator.com/item?id=45403727) - [The Post-American Order Starts in Riyadh and Islamabad](https://www.bloomberg.com/opinion/articles/2025-09-24/the-post-american-order-starts-in-riyadh-and-islamabad)
