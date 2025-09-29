@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
 * [2025-09-29, 12:51:46](https://news.ycombinator.com/item?id=45413090) - [Larry Ellison – 'citizens will be on their best behavior' amid nonstop recording](https://fortune.com/2025/09/28/larry-ellison-ai-surveillance-oracle-tiktok-deal-social-media/)
+* [2025-09-29, 12:50:36](https://news.ycombinator.com/item?id=45413083) - [EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners](https://ir.ea.com/press-releases/press-release-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx)
 * [2025-09-29, 12:44:43](https://news.ycombinator.com/item?id=45413030) - [Why are interviews harder than the job?](https://www.mooreds.com/wordpress/archives/3702)
 * [2025-09-29, 12:35:33](https://news.ycombinator.com/item?id=45412946) - [Leading computer science professor says 'everybody' is struggling to get jobs](https://www.businessinsider.com/computer-science-students-job-search-ai-hany-farid-2025-9)
 * [2025-09-29, 11:55:52](https://news.ycombinator.com/item?id=45412592) - [To AI or Not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
