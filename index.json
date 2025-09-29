@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-29, 11:55:52",
+      "https://news.ycombinator.com/item?id=45412592"
+    ],
+    [
+      "To AI or Not to AI",
+      "https://antropia.studio/blog/to-ai-or-not-to-ai/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 11:42:04",
+      "https://news.ycombinator.com/item?id=45412494"
+    ],
+    [
+      "Tuning async IO in PostgreSQL 18",
+      "https://vondra.me/posts/tuning-aio-in-postgresql-18/"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 11:28:06",
       "https://news.ycombinator.com/item?id=45412419"
     ],
@@ -21,12 +41,32 @@
   ],
   [
     [
-      "2025-09-29, 07:50:24",
-      "https://news.ycombinator.com/item?id=45411291"
+      "2025-09-29, 10:21:23",
+      "https://news.ycombinator.com/item?id=45412075"
     ],
     [
-      "Queueing to publish in AI and CS",
-      "https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/"
+      "Avalanche Studios NYC Retrospective – An Ambitious Company Ruined",
+      "https://probablydance.com/2025/09/28/avalanche-studios-nyc-retrospective-an-ambitious-company-ruined-by-bad-development-practices/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 10:11:20",
+      "https://news.ycombinator.com/item?id=45412022"
+    ],
+    [
+      "Optimizing a 6502 image decoder, from 70 minutes to 1 minute",
+      "https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 07:57:39",
+      "https://news.ycombinator.com/item?id=45411332"
+    ],
+    [
+      "Google just erased 7 years of our political history",
+      "https://www.thebriefing.ie/google-just-erased-7-years-of-our-political-history/"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "Go ahead, write the “stupid” code",
       "https://spikepuppet.io/posts/write-the-stupid-code/"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 21:31:10",
-      "https://news.ycombinator.com/item?id=45408229"
-    ],
-    [
-      "Farewell friends",
-      "https://humbledollar.com/forum/farewell-friends/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-09-27, 06:22:53",
-      "https://news.ycombinator.com/item?id=45393576"
-    ],
-    [
-      "Buyers of Radio Shack, Pier 1 brands accused of running $112M Ponzi scheme",
-      "https://www.cbsnews.com/news/sec-rev-ponzi-scheme-tai-lopez-alex-mehr/"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 21:40:51",
       "https://news.ycombinator.com/item?id=45391302"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-09-26, 00:17:18",
-      "https://news.ycombinator.com/item?id=45381032"
-    ],
-    [
-      "Myoelectric Stimulation Silent Subwoofer for Body-Sensory Acoustic Sensation",
-      "https://ieeexplore.ieee.org/document/10979899/"
-    ]
-  ],
-  [
-    [
       "2025-09-25, 20:20:44",
       "https://news.ycombinator.com/item?id=45378450"
     ],
     [
       "Fernflower Java Decompiler",
       "https://github.com/JetBrains/fernflower"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 18:34:43",
-      "https://news.ycombinator.com/item?id=45376953"
-    ],
-    [
-      "Typst: A Possible LaTeX Replacement",
-      "https://lwn.net/Articles/1037577/"
     ]
   ],
   [
