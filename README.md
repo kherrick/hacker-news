@@ -6,7 +6,7 @@
 * [2025-09-29, 20:33:14](https://news.ycombinator.com/item?id=45418428) - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
 * [2025-09-29, 20:19:54](https://news.ycombinator.com/item?id=45418269) - [Remember: Kurt Vonnegut Was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47)
 * [2025-09-29, 19:31:22](https://news.ycombinator.com/item?id=45417771) - [What is artificial general intelligence?](https://arxiv.org/abs/2503.23923)
-* [2025-09-29, 19:24:58](https://news.ycombinator.com/item?id=45417711) - [‘Based on a True Story’ (2016-2019)](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
+* [2025-09-29, 19:16:40](https://news.ycombinator.com/item?id=45417637) - [Don't Become a Scientist](https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm)
 * [2025-09-29, 18:46:15](https://news.ycombinator.com/item?id=45417300) - [Diagnosing a Linux Performance Regression](https://automattic.com/2024/03/14/systems-report-linux-performance-regression/)
 * [2025-09-29, 17:12:58](https://news.ycombinator.com/item?id=45416231) - [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
 * [2025-09-29, 17:12:13](https://news.ycombinator.com/item?id=45416228) - [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
