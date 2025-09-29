@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-29, 17:23:09",
-      "https://news.ycombinator.com/item?id=45416373"
-    ],
-    [
-      "S&P affirms 'AA+' credit rating for US, cites impact of tariff revenue",
-      "https://www.reuters.com/business/sp-affirms-aa-credit-rating-us-cites-impact-tariff-revenue-2025-08-19/"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 17:12:58",
       "https://news.ycombinator.com/item?id=45416231"
     ],
@@ -67,16 +57,6 @@
     [
       "ML on Apple ][+",
       "https://mdcramer.github.io/apple-2-blog/k-means/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 16:03:49",
-      "https://news.ycombinator.com/item?id=45415428"
-    ],
-    [
-      "Marissa Mayer will close her old AI startup, sell assets to her new AI startup",
-      "https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-09-28, 22:20:59",
+      "https://news.ycombinator.com/item?id=45408617"
+    ],
+    [
+      "Go ahead, write the “stupid” code",
+      "https://spikepuppet.io/posts/write-the-stupid-code/"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 21:08:15",
       "https://news.ycombinator.com/item?id=45408021"
     ],
@@ -277,6 +267,16 @@
     [
       "Thoughts on Mechanical Keyboards and the ZSA Moonlander",
       "https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 06:29:53",
+      "https://news.ycombinator.com/item?id=45383381"
+    ],
+    [
+      "`std::flip`",
+      "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html"
     ]
   ],
   [
