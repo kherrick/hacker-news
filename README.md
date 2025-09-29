@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-29, 17:23:09](https://news.ycombinator.com/item?id=45416373) - [S&P affirms 'AA+' credit rating for US, cites impact of tariff revenue](https://www.reuters.com/business/sp-affirms-aa-credit-rating-us-cites-impact-tariff-revenue-2025-08-19/)
-* [2025-09-29, 17:21:15](https://news.ycombinator.com/item?id=45416347) - [79-year-old US citizen injured in immigration raid files $50M claim](https://apnews.com/article/immigration-raids-los-angeles-ice-lawsuit-6c94ce6e7873581e9f3bebb6f5cbb0df)
 * [2025-09-29, 17:12:58](https://news.ycombinator.com/item?id=45416231) - [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
 * [2025-09-29, 17:12:13](https://news.ycombinator.com/item?id=45416228) - [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
 * [2025-09-29, 16:52:59](https://news.ycombinator.com/item?id=45415962) - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
@@ -18,6 +17,7 @@
 * [2025-09-29, 13:33:41](https://news.ycombinator.com/item?id=45413570) - [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
 * [2025-09-29, 13:25:40](https://news.ycombinator.com/item?id=45413481) - [Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%](https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b)
 * [2025-09-29, 11:28:06](https://news.ycombinator.com/item?id=45412419) - [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
+* [2025-09-29, 10:26:39](https://news.ycombinator.com/item?id=45412098) - [DeepSeek-v3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
 * [2025-09-29, 10:21:23](https://news.ycombinator.com/item?id=45412075) - [Avalanche Studios NYC Retrospective – An Ambitious Company Ruined](https://probablydance.com/2025/09/28/avalanche-studios-nyc-retrospective-an-ambitious-company-ruined-by-bad-development-practices/)
 * [2025-09-29, 10:11:20](https://news.ycombinator.com/item?id=45412022) - [Optimizing a 6502 image decoder, from 70 minutes to 1 minute](https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/)
 * [2025-09-29, 07:50:24](https://news.ycombinator.com/item?id=45411291) - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
