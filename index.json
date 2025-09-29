@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-29, 03:42:12",
+      "https://news.ycombinator.com/item?id=45410134"
+    ],
+    [
+      "High-Level Synthesis Synthesis",
+      "https://stefanabikaram.com/writing/hls-synthesis/"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 02:53:29",
       "https://news.ycombinator.com/item?id=45409956"
     ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45376727"
     ],
     [
-      "Workings of Science – Debunked Software Theories",
+      "Workings of Science: Debunked Software Theories (2022) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/3512338"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Comparing Rust to Carbon",
       "https://lwn.net/Articles/1036912/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 00:28:35",
-      "https://news.ycombinator.com/item?id=45367732"
-    ],
-    [
-      "Rustroid, a Rust IDE for Android",
-      "https://rustroid.is-a.dev/story"
     ]
   ],
   [
