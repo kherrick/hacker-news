@@ -28,6 +28,7 @@
 * [2025-09-25, 18:29:50](https://news.ycombinator.com/item?id=45376895) - [Redox OS Development Priorities for 2025/26](https://www.redox-os.org/news/development-priorities-2025-09/)
 * [2025-09-25, 18:26:35](https://news.ycombinator.com/item?id=45376847) - [Walking Around the Compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-25, 18:22:32](https://news.ycombinator.com/item?id=45376781) - [DOGE might be storing every American's SSN on an insecure cloud server](https://www.theverge.com/news/785706/doge-insecure-cloud-server-social-security-numbers)
+* [2025-09-25, 18:18:21](https://news.ycombinator.com/item?id=45376727) - [Workings of Science – Debunked Software Theories](https://dl.acm.org/doi/pdf/10.1145/3512338)
 * [2025-09-25, 18:09:47](https://news.ycombinator.com/item?id=45376605) - [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
 * [2025-09-25, 18:07:49](https://news.ycombinator.com/item?id=45376559) - [Haydex: From Zero to 178,600M rows a second in 30 days](https://axiom.co/blog/building-haydex)
 * [2025-09-25, 18:04:58](https://news.ycombinator.com/item?id=45376516) - [Immich mobile app sync V2](https://immich.app/blog/sync-v2)
