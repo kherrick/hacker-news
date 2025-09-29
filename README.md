@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-29, 13:47:23](https://news.ycombinator.com/item?id=45413767) - [Electronic Arts Goes Private for $52.5B in Largest LBO](https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c)
 * [2025-09-29, 13:39:53](https://news.ycombinator.com/item?id=45413654) - [Why friction is necessary for growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
 * [2025-09-29, 13:33:41](https://news.ycombinator.com/item?id=45413570) - [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
+* [2025-09-29, 13:25:40](https://news.ycombinator.com/item?id=45413481) - [Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%](https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b)
 * [2025-09-29, 12:50:36](https://news.ycombinator.com/item?id=45413083) - [EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners](https://ir.ea.com/press-releases/press-release-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx)
-* [2025-09-29, 12:35:33](https://news.ycombinator.com/item?id=45412946) - [Leading computer science professor says 'everybody' is struggling to get jobs](https://www.businessinsider.com/computer-science-students-job-search-ai-hany-farid-2025-9)
 * [2025-09-29, 11:55:52](https://news.ycombinator.com/item?id=45412592) - [To AI or not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
 * [2025-09-29, 11:42:04](https://news.ycombinator.com/item?id=45412494) - [Tuning async IO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
 * [2025-09-29, 11:28:06](https://news.ycombinator.com/item?id=45412419) - [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
@@ -25,11 +26,10 @@
 * [2025-09-27, 13:15:37](https://news.ycombinator.com/item?id=45395468) - [Users only care about 20% of your application](https://idiallo.com/blog/users-only-care-about-20-percent)
 * [2025-09-26, 21:40:51](https://news.ycombinator.com/item?id=45391302) - [Eliminating Cold Starts 2: shard and conquer](https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/)
 * [2025-09-26, 18:46:50](https://news.ycombinator.com/item?id=45389744) - [We still chose C++ (instead of Rust) for new database development](https://www.eloqdata.com/blog/2024/10/26/why-cpp)
+* [2025-09-26, 12:16:00](https://news.ycombinator.com/item?id=45385620) - [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
 * [2025-09-25, 20:20:44](https://news.ycombinator.com/item?id=45378450) - [Fernflower Java Decompiler](https://github.com/JetBrains/fernflower)
 * [2025-09-25, 15:19:56](https://news.ycombinator.com/item?id=45373784) - [Zlib visualizer](https://lynn.github.io/flateview/)
 * [2025-09-25, 12:07:12](https://news.ycombinator.com/item?id=45371856) - [The Long Trip from Silica to Smartphone](https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone)
-* [2025-09-25, 04:30:13](https://news.ycombinator.com/item?id=45369286) - [Patagonian Welsh](https://en.wikipedia.org/wiki/Patagonian_Welsh)
-* [2025-09-24, 17:32:30](https://news.ycombinator.com/item?id=45363465) - [Supermicro server motherboards can be infected with unremovable malware](https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/)
 
 ## [Archives](archives/index.md)
 
