@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
 * [2025-09-29, 22:03:31](https://news.ycombinator.com/item?id=45419341) - [Technology Without Humanity Means Nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing)
+* [2025-09-29, 21:21:21](https://news.ycombinator.com/item?id=45418918) - [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
 * [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
 * [2025-09-29, 21:03:21](https://news.ycombinator.com/item?id=45418713) - [Big Tech Told Kids to Code. The Jobs Didn’t Follow.](https://www.nytimes.com/2025/09/29/podcasts/the-daily/big-tech-told-kids-to-code-the-jobs-didnt-follow.html)
 * [2025-09-29, 20:58:11](https://news.ycombinator.com/item?id=45418675) - [Ask HN: What Are You Working On? (September 2025)](https://news.ycombinator.com/item?id=45418675)
