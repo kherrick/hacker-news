@@ -84,6 +84,7 @@
 * [2025-09-25, 06:13:32](https://news.ycombinator.com/item?id=45369768) - [Knotty: A domain-specific language for knitting patterns](https://t0mpr1c3.github.io/knotty/index.html)
 * [2025-09-25, 05:54:42](https://news.ycombinator.com/item?id=45369687) - [Denmark shuts multiple airports, more unidentified drones spotted](https://www.msn.com/en-us/news/world/denmark-shuts-second-airport-in-a-week-more-unidentified-drones-spotted/ar-AA1NfVVj)
 * [2025-09-25, 05:43:01](https://news.ycombinator.com/item?id=45369629) - [Litex: The First Formal Language Learnable in 1-2 Hours](https://github.com/litexlang/golitex)
+* [2025-09-25, 04:30:13](https://news.ycombinator.com/item?id=45369286) - [Patagonian Welsh](https://en.wikipedia.org/wiki/Patagonian_Welsh)
 * [2025-09-25, 03:13:55](https://news.ycombinator.com/item?id=45368899) - [Pablo Picasso's poetry](https://news.artnet.com/art-world/art-bites-picasso-poetry-2669332)
 * [2025-09-25, 02:22:07](https://news.ycombinator.com/item?id=45368596) - [Comparing Rust to Carbon](https://lwn.net/Articles/1036912/)
 * [2025-09-25, 01:27:39](https://news.ycombinator.com/item?id=45368234) - [In Praise of Binturongs](https://satyrs.eu/garden/2025/binturongs)
