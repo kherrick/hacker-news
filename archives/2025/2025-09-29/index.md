@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
 * [2025-09-29, 17:23:09](https://news.ycombinator.com/item?id=45416373) - [S&P affirms 'AA+' credit rating for US, cites impact of tariff revenue](https://www.reuters.com/business/sp-affirms-aa-credit-rating-us-cites-impact-tariff-revenue-2025-08-19/)
+* [2025-09-29, 17:21:15](https://news.ycombinator.com/item?id=45416347) - [79-year-old US citizen injured in immigration raid files $50M claim](https://apnews.com/article/immigration-raids-los-angeles-ice-lawsuit-6c94ce6e7873581e9f3bebb6f5cbb0df)
 * [2025-09-29, 17:12:58](https://news.ycombinator.com/item?id=45416231) - [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
 * [2025-09-29, 17:12:13](https://news.ycombinator.com/item?id=45416228) - [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
 * [2025-09-29, 17:04:04](https://news.ycombinator.com/item?id=45416122) - [Claude Sonnet 4.5 System Card [pdf]](https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf)
