@@ -24,7 +24,7 @@
 * [2025-09-27, 06:22:53](https://news.ycombinator.com/item?id=45393576) - [Buyers of Radio Shack, Pier 1 brands accused of running $112M Ponzi scheme](https://www.cbsnews.com/news/sec-rev-ponzi-scheme-tai-lopez-alex-mehr/)
 * [2025-09-25, 20:20:44](https://news.ycombinator.com/item?id=45378450) - [Fernflower Java Decompiler](https://github.com/JetBrains/fernflower)
 * [2025-09-25, 19:31:07](https://news.ycombinator.com/item?id=45377787) - [Corral.BAS](https://basic-code.bearblog.dev/corral/)
-* [2025-09-25, 15:19:56](https://news.ycombinator.com/item?id=45373784) - [Z-Lib Visualizer](https://lynn.github.io/flateview/)
+* [2025-09-25, 15:19:56](https://news.ycombinator.com/item?id=45373784) - [Zlib visualizer](https://lynn.github.io/flateview/)
 * [2025-09-25, 12:07:12](https://news.ycombinator.com/item?id=45371856) - [The Long Trip from Silica to Smartphone](https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone)
 * [2025-09-25, 04:30:13](https://news.ycombinator.com/item?id=45369286) - [Patagonian Welsh](https://en.wikipedia.org/wiki/Patagonian_Welsh)
 * [2025-09-25, 02:22:07](https://news.ycombinator.com/item?id=45368596) - [Comparing Rust to Carbon](https://lwn.net/Articles/1036912/)
