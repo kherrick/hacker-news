@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-29, 20:58:11](https://news.ycombinator.com/item?id=45418675) - [Ask HN: What Are You Working On? (September 2025)](https://news.ycombinator.com/item?id=45418675)
+* [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
+* [2025-09-29, 20:58:11](https://news.ycombinator.com/item?id=45418675) - [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
 * [2025-09-29, 20:33:14](https://news.ycombinator.com/item?id=45418428) - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
 * [2025-09-29, 20:19:54](https://news.ycombinator.com/item?id=45418269) - [Remember: Kurt Vonnegut Was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47)
 * [2025-09-29, 19:31:22](https://news.ycombinator.com/item?id=45417771) - [What is artificial general intelligence?](https://arxiv.org/abs/2503.23923)
@@ -24,7 +25,6 @@
 * [2025-09-29, 13:29:55](https://news.ycombinator.com/item?id=45413525) - [A SQL Heuristic: Ors Are Expensive](https://ethanseal.com/articles/ors-are-expensive)
 * [2025-09-29, 11:28:06](https://news.ycombinator.com/item?id=45412419) - [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
 * [2025-09-29, 10:11:20](https://news.ycombinator.com/item?id=45412022) - [Optimizing a 6502 image decoder, from 70 minutes to 1 minute](https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/)
-* [2025-09-29, 07:50:24](https://news.ycombinator.com/item?id=45411291) - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
 * [2025-09-29, 06:41:27](https://news.ycombinator.com/item?id=45410940) - [What is “good taste” in software engineering?](https://www.seangoedecke.com/taste/)
 * [2025-09-27, 21:42:14](https://news.ycombinator.com/item?id=45399572) - [Using Cesium-137 testing to find counterfeit wine](https://kitchensisters.org/hiddenkitchens/atomic-wine/)
 * [2025-09-27, 13:15:37](https://news.ycombinator.com/item?id=45395468) - [Users only care about 20% of your application](https://idiallo.com/blog/users-only-care-about-20-percent)
