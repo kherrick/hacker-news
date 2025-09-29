@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-29, 10:26:39](https://news.ycombinator.com/item?id=45412098) - [DeepSeek-v3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
-* [2025-09-29, 10:04:06](https://news.ycombinator.com/item?id=45411990) - [The graduate 'jobpocalypse': Where have all the entry-level jobs gone? [video]](https://www.youtube.com/watch?v=IeTFpsuCor8)
 * [2025-09-29, 07:50:24](https://news.ycombinator.com/item?id=45411291) - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
 * [2025-09-29, 06:41:27](https://news.ycombinator.com/item?id=45410940) - [What is \"good taste\" in software engineering?](https://www.seangoedecke.com/taste/)
 * [2025-09-29, 03:45:40](https://news.ycombinator.com/item?id=45410155) - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
@@ -14,6 +13,7 @@
 * [2025-09-28, 22:20:59](https://news.ycombinator.com/item?id=45408617) - [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/)
 * [2025-09-28, 21:31:10](https://news.ycombinator.com/item?id=45408229) - [Farewell friends](https://humbledollar.com/forum/farewell-friends/)
 * [2025-09-28, 21:08:15](https://news.ycombinator.com/item?id=45408021) - [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
+* [2025-09-28, 21:00:07](https://news.ycombinator.com/item?id=45407951) - [Roe (YC W24) Is Hiring](https://news.ycombinator.com/item?id=45407951)
 * [2025-09-28, 17:23:21](https://news.ycombinator.com/item?id=45406109) - [Bayesian Data Analysis, Third edition (2013) [pdf]](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf)
 * [2025-09-28, 15:43:33](https://news.ycombinator.com/item?id=45405177) - [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
 * [2025-09-28, 15:43:25](https://news.ycombinator.com/item?id=45405175) - [Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC](https://git.lain.faith/iitalics/scm2wasm)
