@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 13:39:53](https://news.ycombinator.com/item?id=45413654) - [Why friction is necessary for growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
+* [2025-09-29, 13:33:41](https://news.ycombinator.com/item?id=45413570) - [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
 * [2025-09-29, 12:51:46](https://news.ycombinator.com/item?id=45413090) - [Larry Ellison – 'citizens will be on their best behavior' amid nonstop recording](https://fortune.com/2025/09/28/larry-ellison-ai-surveillance-oracle-tiktok-deal-social-media/)
 * [2025-09-29, 12:50:36](https://news.ycombinator.com/item?id=45413083) - [EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners](https://ir.ea.com/press-releases/press-release-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx)
 * [2025-09-29, 12:44:43](https://news.ycombinator.com/item?id=45413030) - [Why are interviews harder than the job?](https://www.mooreds.com/wordpress/archives/3702)
