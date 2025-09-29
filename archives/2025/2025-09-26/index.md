@@ -7,6 +7,7 @@
 * [2025-09-26, 23:43:33](https://news.ycombinator.com/item?id=45392164) - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
 * [2025-09-26, 23:24:09](https://news.ycombinator.com/item?id=45392053) - [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
 * [2025-09-26, 23:12:07](https://news.ycombinator.com/item?id=45391987) - [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
+* [2025-09-26, 23:00:13](https://news.ycombinator.com/item?id=45391887) - [Care more about the stabilizers in your mechanical keyboard–here's why](https://arstechnica.com/gadgets/2025/09/you-should-care-more-about-the-stabilizers-in-your-mechanical-keyboard-heres-why/)
 * [2025-09-26, 22:57:57](https://news.ycombinator.com/item?id=45391871) - [New Math Revives Geometry's Oldest Problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
 * [2025-09-26, 22:44:01](https://news.ycombinator.com/item?id=45391786) - [Why do we remember some life moments - but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
 * [2025-09-26, 22:17:18](https://news.ycombinator.com/item?id=45391568) - [Bell Labs Scientists Accidentally Proved the Big Bang Theory](https://spectrum.ieee.org/big-bang-theory-discovery)
