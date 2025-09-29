@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-29, 12:51:46",
+      "https://news.ycombinator.com/item?id=45413090"
+    ],
+    [
+      "Larry Ellison – 'citizens will be on their best behavior' amid nonstop recording",
+      "https://fortune.com/2025/09/28/larry-ellison-ai-surveillance-oracle-tiktok-deal-social-media/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 12:44:43",
+      "https://news.ycombinator.com/item?id=45413030"
+    ],
+    [
+      "Why are interviews harder than the job?",
+      "https://www.mooreds.com/wordpress/archives/3702"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 12:35:33",
+      "https://news.ycombinator.com/item?id=45412946"
+    ],
+    [
+      "Leading computer science professor says 'everybody' is struggling to get jobs",
+      "https://www.businessinsider.com/computer-science-students-job-search-ai-hany-farid-2025-9"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 11:55:52",
       "https://news.ycombinator.com/item?id=45412592"
     ],
@@ -71,12 +101,12 @@
   ],
   [
     [
-      "2025-09-29, 06:41:27",
-      "https://news.ycombinator.com/item?id=45410940"
+      "2025-09-29, 07:50:24",
+      "https://news.ycombinator.com/item?id=45411291"
     ],
     [
-      "What is \"good taste\" in software engineering?",
-      "https://www.seangoedecke.com/taste/"
+      "Queueing to publish in AI and CS",
+      "https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/"
     ]
   ],
   [
@@ -151,52 +181,12 @@
   ],
   [
     [
-      "2025-09-28, 21:00:07",
-      "https://news.ycombinator.com/item?id=45407951"
-    ],
-    [
-      "Roe (YC W24) Is Hiring",
-      "https://news.ycombinator.com/item?id=45407951"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 17:23:21",
       "https://news.ycombinator.com/item?id=45406109"
     ],
     [
       "Bayesian Data Analysis, Third edition (2013) [pdf]",
       "https://sites.stat.columbia.edu/gelman/book/BDA3.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 15:43:33",
-      "https://news.ycombinator.com/item?id=45405177"
-    ],
-    [
-      "The AI coding trap",
-      "https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 15:43:25",
-      "https://news.ycombinator.com/item?id=45405175"
-    ],
-    [
-      "Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC",
-      "https://git.lain.faith/iitalics/scm2wasm"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 14:40:46",
-      "https://news.ycombinator.com/item?id=45404667"
-    ],
-    [
-      "Show HN: Toolbrew – Free little tools without signups or ads",
-      "https://toolbrew.co/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Eliminating Cold Starts 2: shard and conquer",
       "https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 18:46:50",
+      "https://news.ycombinator.com/item?id=45389744"
+    ],
+    [
+      "We still chose C++ (instead of Rust) for new database development",
+      "https://www.eloqdata.com/blog/2024/10/26/why-cpp"
     ]
   ],
   [
