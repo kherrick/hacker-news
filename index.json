@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-30, 10:51:45",
+      "https://news.ycombinator.com/item?id=45423994"
+    ],
+    [
+      "Using the TPDE Codegen Back End in LLVM Orc",
+      "https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 10:37:39",
       "https://news.ycombinator.com/item?id=45423917"
     ],
@@ -177,16 +187,6 @@
     [
       "Claude Sonnet 4.5",
       "https://www.anthropic.com/news/claude-sonnet-4-5"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 15:54:42",
-      "https://news.ycombinator.com/item?id=45415332"
-    ],
-    [
-      "Subtleties of SQLite Indexes",
-      "https://emschwartz.me/subtleties-of-sqlite-indexes/"
     ]
   ],
   [
