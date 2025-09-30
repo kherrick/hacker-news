@@ -30,6 +30,7 @@
 * [2025-09-26, 19:09:09](https://news.ycombinator.com/item?id=45389934) - [Show HN: Font Tester – Preview fonts on custom content](https://fonts.tomhadley.link/)
 * [2025-09-26, 19:04:27](https://news.ycombinator.com/item?id=45389889) - [When Bruce Lee Trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
 * [2025-09-26, 18:46:50](https://news.ycombinator.com/item?id=45389744) - [We still chose C++ (instead of Rust) for new database development](https://www.eloqdata.com/blog/2024/10/26/why-cpp)
+* [2025-09-26, 18:43:58](https://news.ycombinator.com/item?id=45389716) - [How Does Lossless Compression in Fuji RAF Files Work?](https://capnfabs.net/posts/fuji-raf-compression-algorithm/)
 * [2025-09-26, 18:39:57](https://news.ycombinator.com/item?id=45389674) - [Gunman in shooting at NFL headquarters had CTE: Medical examiner](https://abcnews.go.com/US/shane-tamura-gunman-shooting-nfl-headquarters-cte-medical/story?id=125972038)
 * [2025-09-26, 18:33:37](https://news.ycombinator.com/item?id=45389589) - [Implementing a Kalman Filter in Postgres](https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data)
 * [2025-09-26, 18:23:26](https://news.ycombinator.com/item?id=45389500) - [Devious malware has jumped from Meta to Google Ads and YouTube to spread](https://www.techradar.com/pro/security/this-devious-malware-has-jumped-from-meta-over-to-google-ads-and-youtube-to-spread-heres-how-to-stay-safe)
