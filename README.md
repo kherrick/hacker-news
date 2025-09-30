@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-30, 14:27:07](https://news.ycombinator.com/item?id=45425892) - [Largest Mass Resignation in US History as 100k Federal Workers Quit](https://www.newsweek.com/largest-mass-resignation-in-us-history-as-100000-federal-workers-quit-10802162)
 * [2025-09-30, 13:35:23](https://news.ycombinator.com/item?id=45425253) - [Show HN: ProcASM v1.1](https://procasm.temware.site/)
 * [2025-09-30, 13:19:53](https://news.ycombinator.com/item?id=45425061) - [An Opinionated Critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
 * [2025-09-30, 12:33:43](https://news.ycombinator.com/item?id=45424648) - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
@@ -7,7 +8,6 @@
 * [2025-09-30, 11:31:04](https://news.ycombinator.com/item?id=45424223) - [Orbiting the Hénon Attractor](https://observablehq.com/@yurivish/orbiting-the-henon-attractor)
 * [2025-09-30, 10:51:45](https://news.ycombinator.com/item?id=45423994) - [Using the TPDE Codegen Back End in LLVM Orc](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html)
 * [2025-09-30, 10:37:39](https://news.ycombinator.com/item?id=45423917) - [Comprehension debt: A ticking time bomb of LLM-generated code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
-* [2025-09-30, 08:50:11](https://news.ycombinator.com/item?id=45423363) - [Can you use GDPR to circumvent BlueSky's adult content blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
 * [2025-09-30, 08:36:06](https://news.ycombinator.com/item?id=45423268) - [I’ve removed Disqus. It was making my blog worse](https://ryansouthgate.com/goodbye-disqus/)
 * [2025-09-30, 07:52:16](https://news.ycombinator.com/item?id=45423004) - [Bcachefs removed from the mainline kernel](https://lwn.net/Articles/1040120/)
 * [2025-09-30, 06:50:11](https://news.ycombinator.com/item?id=45422653) - [Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
