@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 03:17:57](https://news.ycombinator.com/item?id=45421564) - [Hiring only senior engineers is killing companies](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
+* [2025-09-30, 01:46:02](https://news.ycombinator.com/item?id=45421067) - [Awakening Bell](https://awakeningbell.org/)
 * [2025-09-30, 00:55:41](https://news.ycombinator.com/item?id=45420751) - [Why is Google charging me $5-10 per click for my own brand name searches](https://news.ycombinator.com/item?id=45420751)
