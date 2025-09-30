@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 16:21:09](https://news.ycombinator.com/item?id=45427482) - [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
 * [2025-09-30, 15:50:14](https://news.ycombinator.com/item?id=45427059) - [Visualizations of Random Attractors Found Using Lyapunov Exponents](https://paulbourke.net/fractals/lyapunov/)
 * [2025-09-30, 15:46:37](https://news.ycombinator.com/item?id=45427021) - [Why I no longer recommend Julia](https://yuri.is/not-julia/)
 * [2025-09-30, 15:35:21](https://news.ycombinator.com/item?id=45426858) - [Charlie Javice sentenced to 7 years in prison for fraudulent $175M sale of Frank](https://www.nbcnews.com/business/business-news/charlie-javice-sentenced-7-years-prison-fraudulent-175m-sale-financial-rcna234536)
@@ -16,12 +17,14 @@
 * [2025-09-30, 14:40:31](https://news.ycombinator.com/item?id=45426074) - [Meta's Teen Accounts Are Sugar Pills for Parents, Not Safety for Kids](https://overturned.substack.com/p/metas-teen-accounts-are-sugar-pills)
 * [2025-09-30, 14:27:30](https://news.ycombinator.com/item?id=45425897) - [Electronic Arts to be acquired for $52B in largest private equity buyout](https://www.nbcnews.com/business/business-news/electronic-arts-acquired-largest-ever-private-equity-buyout-rcna234432)
 * [2025-09-30, 14:27:07](https://news.ycombinator.com/item?id=45425892) - [Largest Mass Resignation in US History as 100k Federal Workers Quit](https://www.newsweek.com/largest-mass-resignation-in-us-history-as-100000-federal-workers-quit-10802162)
+* [2025-09-30, 14:14:28](https://news.ycombinator.com/item?id=45425746) - [Frank Chimero: I think we're in the lemon stage of the internet](https://frankchimero.com/blog/2025/selling-lemons/)
 * [2025-09-30, 14:12:37](https://news.ycombinator.com/item?id=45425714) - [Deml: The Directed Acyclic Graph Elevation Markup Language](https://github.com/Mcmartelle/deml)
 * [2025-09-30, 13:39:22](https://news.ycombinator.com/item?id=45425298) - [dgsh – Directed Graph Shell](https://www2.dmst.aueb.gr/dds/sw/dgsh/)
 * [2025-09-30, 13:35:23](https://news.ycombinator.com/item?id=45425253) - [Show HN: ProcASM v1.1](https://procasm.temware.site/)
 * [2025-09-30, 13:19:53](https://news.ycombinator.com/item?id=45425061) - [An Opinionated Critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
 * [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
 * [2025-09-30, 12:55:26](https://news.ycombinator.com/item?id=45424840) - [AI Actress Tilly Norwood Condemned by Sag-Aftra: Tilly 'Is Not an Actor '](https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/)
+* [2025-09-30, 12:53:49](https://news.ycombinator.com/item?id=45424827) - [Founder sentenced to seven years in prison for fraudulent sale to JPMorgan](https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl)
 * [2025-09-30, 12:53:18](https://news.ycombinator.com/item?id=45424822) - [Senators try to halt shuttle move, saying \"little evidence\" of public demand](https://arstechnica.com/space/2025/09/senators-to-appropriators-leave-space-shuttle-discovery-in-smithsonian/)
 * [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 * [2025-09-30, 12:33:43](https://news.ycombinator.com/item?id=45424648) - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
