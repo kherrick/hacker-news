@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-30, 00:55:41",
-      "https://news.ycombinator.com/item?id=45420751"
-    ],
-    [
-      "Why is Google charging me $5-10 per click for my own brand name searches",
-      "https://news.ycombinator.com/item?id=45420751"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 23:56:31",
       "https://news.ycombinator.com/item?id=45420327"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=45420173"
     ],
     [
-      "How to Create an OS from Scratch",
+      "How to create an OS from scratch",
       "https://github.com/cfenollosa/os-tutorial"
     ]
   ],
@@ -97,16 +87,6 @@
     [
       "iRobot Founder: Don't Believe the (AI and Robotics) Hype",
       "https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 19:16:40",
-      "https://news.ycombinator.com/item?id=45417637"
-    ],
-    [
-      "Don't Become a Scientist (1999)",
-      "https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2025-09-29, 15:40:30",
+      "https://news.ycombinator.com/item?id=45415178"
+    ],
+    [
+      "How the Brain Balances Excitation and Inhibition",
+      "https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 15:20:11",
       "https://news.ycombinator.com/item?id=45414933"
     ],
@@ -251,11 +241,21 @@
   ],
   [
     [
+      "2025-09-27, 23:31:19",
+      "https://news.ycombinator.com/item?id=45400246"
+    ],
+    [
+      "Faster Virtual Machines: Speeding Up Programming Language Execution (2023)",
+      "https://mort.coffee/home/fast-interpreters/"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 15:43:50",
       "https://news.ycombinator.com/item?id=45387791"
     ],
     [
-      "Spending Time with the Material",
+      "Spending time with the material",
       "https://www.robinsloan.com/lab/actually-readable/"
     ]
   ],
