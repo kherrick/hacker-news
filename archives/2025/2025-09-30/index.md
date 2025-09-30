@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 15:35:21](https://news.ycombinator.com/item?id=45426858) - [Charlie Javice sentenced to 7 years in prison for fraudulent $175M sale of Frank](https://www.nbcnews.com/business/business-news/charlie-javice-sentenced-7-years-prison-fraudulent-175m-sale-financial-rcna234536)
+* [2025-09-30, 15:09:00](https://news.ycombinator.com/item?id=45426490) - [Kagi News](https://blog.kagi.com/kagi-news)
+* [2025-09-30, 15:06:33](https://news.ycombinator.com/item?id=45426457) - [Show HN: I'm 17, built a face-verified social network to fight fake accounts](https://play.google.com/store/apps/details?id=com.whitelotus.social&hl=en_US)
 * [2025-09-30, 14:52:29](https://news.ycombinator.com/item?id=45426205) - [How the AI bubble ate Y Combinator](https://www.inc.com/sam-blum/how-the-ai-bubble-ate-y-combinator/91240632)
 * [2025-09-30, 14:45:19](https://news.ycombinator.com/item?id=45426127) - [J.K. Rowling Writes about Her Reasons for Speaking Out on Sex and Gender Issues](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)
+* [2025-09-30, 14:42:18](https://news.ycombinator.com/item?id=45426099) - [BrowserPod: In-browser full-stack environments for IDEs and Agents via WASM](https://labs.leaningtech.com/blog/browserpod-annoucement)
+* [2025-09-30, 14:40:31](https://news.ycombinator.com/item?id=45426074) - [Meta's Teen Accounts Are Sugar Pills for Parents, Not Safety for Kids](https://overturned.substack.com/p/metas-teen-accounts-are-sugar-pills)
 * [2025-09-30, 14:27:30](https://news.ycombinator.com/item?id=45425897) - [Electronic Arts to be acquired for $52B in largest private equity buyout](https://www.nbcnews.com/business/business-news/electronic-arts-acquired-largest-ever-private-equity-buyout-rcna234432)
 * [2025-09-30, 14:27:07](https://news.ycombinator.com/item?id=45425892) - [Largest Mass Resignation in US History as 100k Federal Workers Quit](https://www.newsweek.com/largest-mass-resignation-in-us-history-as-100000-federal-workers-quit-10802162)
 * [2025-09-30, 14:12:37](https://news.ycombinator.com/item?id=45425714) - [Deml: The Directed Acyclic Graph Elevation Markup Language](https://github.com/Mcmartelle/deml)
