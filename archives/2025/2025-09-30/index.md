@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 08:50:11](https://news.ycombinator.com/item?id=45423363) - [Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
+* [2025-09-30, 08:36:06](https://news.ycombinator.com/item?id=45423268) - [Disqus Turned My Blog into an Ad Farm – So I Killed It](https://ryansouthgate.com/goodbye-disqus/)
 * [2025-09-30, 07:54:07](https://news.ycombinator.com/item?id=45423014) - [Why Heavy Codes of Conduct Are Unnecessary for Open Source Projects](https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/)
 * [2025-09-30, 06:50:11](https://news.ycombinator.com/item?id=45422653) - [Exploiting huffman table bug in zlib](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
 * [2025-09-30, 06:23:31](https://news.ycombinator.com/item?id=45422514) - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
