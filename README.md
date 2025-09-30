@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-30, 19:23:34](https://news.ycombinator.com/item?id=45430048) - [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
-* [2025-09-30, 17:46:36](https://news.ycombinator.com/item?id=45428691) - [Hedge funds have to be big](https://www.bloomberg.com/opinion/newsletters/2025-09-30/hedge-funds-have-to-be-big)
 * [2025-09-30, 17:31:34](https://news.ycombinator.com/item?id=45428482) - [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
 * [2025-09-30, 17:01:27](https://news.ycombinator.com/item?id=45428081) - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-09-30, 16:57:07](https://news.ycombinator.com/item?id=45428020) - [Genomic analyses of hair from Ludwig van Beethoven (2023)](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1)
@@ -12,6 +11,7 @@
 * [2025-09-30, 15:50:14](https://news.ycombinator.com/item?id=45427059) - [Visualizations of Random Attractors Found Using Lyapunov Exponents](https://paulbourke.net/fractals/lyapunov/)
 * [2025-09-30, 15:21:23](https://news.ycombinator.com/item?id=45426680) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
 * [2025-09-30, 15:09:00](https://news.ycombinator.com/item?id=45426490) - [Kagi News](https://blog.kagi.com/kagi-news)
+* [2025-09-30, 14:14:28](https://news.ycombinator.com/item?id=45425746) - [Selling Lemons](https://frankchimero.com/blog/2025/selling-lemons/)
 * [2025-09-30, 14:12:37](https://news.ycombinator.com/item?id=45425714) - [Deml: Directed Acyclic Graph Elevation Markup Language](https://github.com/Mcmartelle/deml)
 * [2025-09-30, 13:39:22](https://news.ycombinator.com/item?id=45425298) - [dgsh – Directed Graph Shell](https://www2.dmst.aueb.gr/dds/sw/dgsh/)
 * [2025-09-30, 13:19:53](https://news.ycombinator.com/item?id=45425061) - [An opinionated critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
