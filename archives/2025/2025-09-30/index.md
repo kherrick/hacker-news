@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 15:50:14](https://news.ycombinator.com/item?id=45427059) - [Visualizations of Random Attractors Found Using Lyapunov Exponents](https://paulbourke.net/fractals/lyapunov/)
+* [2025-09-30, 15:46:37](https://news.ycombinator.com/item?id=45427021) - [Why I no longer recommend Julia](https://yuri.is/not-julia/)
 * [2025-09-30, 15:35:21](https://news.ycombinator.com/item?id=45426858) - [Charlie Javice sentenced to 7 years in prison for fraudulent $175M sale of Frank](https://www.nbcnews.com/business/business-news/charlie-javice-sentenced-7-years-prison-fraudulent-175m-sale-financial-rcna234536)
+* [2025-09-30, 15:20:37](https://news.ycombinator.com/item?id=45426673) - [AI will happily design the wrong thing for you](https://www.antonsten.com/articles/ai-will-happily-design-the-wrong-thing-for-you/)
 * [2025-09-30, 15:09:00](https://news.ycombinator.com/item?id=45426490) - [Kagi News](https://blog.kagi.com/kagi-news)
 * [2025-09-30, 15:06:33](https://news.ycombinator.com/item?id=45426457) - [Show HN: I'm 17, built a face-verified social network to fight fake accounts](https://play.google.com/store/apps/details?id=com.whitelotus.social&hl=en_US)
 * [2025-09-30, 14:52:29](https://news.ycombinator.com/item?id=45426205) - [How the AI bubble ate Y Combinator](https://www.inc.com/sam-blum/how-the-ai-bubble-ate-y-combinator/91240632)
