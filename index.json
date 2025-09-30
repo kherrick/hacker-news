@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-30, 21:14:29",
+      "https://news.ycombinator.com/item?id=45431342"
+    ],
+    [
+      "U.S. Army confirms Tesla Cybertruck can't be imported in Europe",
+      "https://electrek.co/2025/09/30/u-s-army-confirms-tesla-cybertruck-cant-be-imported-in-europe/"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 21:08:28",
+      "https://news.ycombinator.com/item?id=45431271"
+    ],
+    [
+      "Introduction to Multi-Armed Bandits",
+      "https://arxiv.org/abs/1904.07272"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 20:58:52",
       "https://news.ycombinator.com/item?id=45431167"
     ],
     [
       "Mind the encryptionroot: How to save your data when ZFS loses its mind",
       "https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 20:49:34",
+      "https://news.ycombinator.com/item?id=45431047"
+    ],
+    [
+      "Observation and Trauma: How Professionals Handle Observing Trauma",
+      "https://trainedobserver.substack.com/p/observation-and-trauma"
     ]
   ],
   [
@@ -101,22 +131,22 @@
   ],
   [
     [
+      "2025-09-30, 16:35:16",
+      "https://news.ycombinator.com/item?id=45427697"
+    ],
+    [
+      "Show HN: Sculptor, the Missing UI for Claude Code",
+      "https://imbue.com/sculptor/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 16:21:09",
       "https://news.ycombinator.com/item?id=45427482"
     ],
     [
       "Launch HN: Airweave (YC X25) – Let agents search any app",
       "https://github.com/airweave-ai/airweave"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 15:54:14",
-      "https://news.ycombinator.com/item?id=45427111"
-    ],
-    [
-      "Cerebras systems raises $1.1B Series G",
-      "https://www.cerebras.ai/press-release/series-g"
     ]
   ],
   [
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2025-09-30, 11:31:04",
-      "https://news.ycombinator.com/item?id=45424223"
-    ],
-    [
-      "Orbiting the Hénon Attractor",
-      "https://observablehq.com/@yurivish/orbiting-the-henon-attractor"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 06:50:11",
-      "https://news.ycombinator.com/item?id=45422653"
-    ],
-    [
-      "Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table",
-      "https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 19:14:57",
       "https://news.ycombinator.com/item?id=45417616"
     ],
@@ -251,32 +261,22 @@
   ],
   [
     [
+      "2025-09-28, 18:28:14",
+      "https://news.ycombinator.com/item?id=45406645"
+    ],
+    [
+      "Coding a new BASIC interpreter in 2025 to replace a slow one",
+      "https://nanochess.org/ecs_basic.html"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 13:19:25",
       "https://news.ycombinator.com/item?id=45395495"
     ],
     [
       "Conway's pinwheel tiling",
       "https://www.johndcook.com/blog/2025/09/25/conways-pinwheel-tiling/"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 12:30:41",
-      "https://news.ycombinator.com/item?id=45395156"
-    ],
-    [
-      "A Gentle Introduction to CUDA PTX",
-      "https://philipfabianek.com/posts/cuda-ptx-introduction/"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 12:27:29",
-      "https://news.ycombinator.com/item?id=45395132"
-    ],
-    [
-      "Computer Vision: Algorithms and Applications, 2nd ed",
-      "https://szeliski.org/Book/"
     ]
   ],
   [
