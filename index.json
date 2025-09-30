@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-30, 07:54:07",
+      "https://news.ycombinator.com/item?id=45423014"
+    ],
+    [
+      "Why Heavy Codes of Conduct Are Unnecessary for Open Source Projects",
+      "https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 06:50:11",
+      "https://news.ycombinator.com/item?id=45422653"
+    ],
+    [
+      "Exploiting huffman table bug in zlib",
+      "https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 06:23:31",
       "https://news.ycombinator.com/item?id=45422514"
     ],
@@ -87,16 +107,6 @@
     [
       "Safe zero-copy operations in C#",
       "https://ssg.dev/safe-zero-copy-operations-in-c/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 21:17:16",
-      "https://news.ycombinator.com/item?id=45418875"
-    ],
-    [
-      "Jax: Fast Combinations Calculation",
-      "https://github.com/phoenicyan/combinadics"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011",
       "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 22:02:38",
-      "https://news.ycombinator.com/item?id=45391467"
-    ],
-    [
-      "Visualizing Automorphisms of S6",
-      "https://travisdoesmath.github.io/s6/"
     ]
   ],
   [
