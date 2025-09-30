@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 20:09:44](https://news.ycombinator.com/item?id=45430604) - [Diff Algorithms](https://flo.znkr.io/diff/)
+* [2025-09-30, 20:04:46](https://news.ycombinator.com/item?id=45430542) - [Organize your Slack channels by \"How Often\", not \"What\"](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
 * [2025-09-30, 20:00:21](https://news.ycombinator.com/item?id=45430498) - [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
 * [2025-09-30, 19:23:34](https://news.ycombinator.com/item?id=45430048) - [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
 * [2025-09-30, 18:12:01](https://news.ycombinator.com/item?id=45429041) - [50 Things I Know](https://rebeccadai.substack.com/p/50-things-i-know)

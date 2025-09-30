@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-30, 20:09:44](https://news.ycombinator.com/item?id=45430604) - [Diff Algorithms](https://flo.znkr.io/diff/)
+* [2025-09-30, 20:04:46](https://news.ycombinator.com/item?id=45430542) - [Organize your Slack channels by \"How Often\", not \"What\"](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
 * [2025-09-30, 20:00:21](https://news.ycombinator.com/item?id=45430498) - [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
 * [2025-09-30, 19:23:34](https://news.ycombinator.com/item?id=45430048) - [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
 * [2025-09-30, 17:31:34](https://news.ycombinator.com/item?id=45428482) - [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
@@ -20,7 +22,6 @@
 * [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 * [2025-09-30, 12:33:43](https://news.ycombinator.com/item?id=45424648) - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
 * [2025-09-30, 11:31:04](https://news.ycombinator.com/item?id=45424223) - [Orbiting the Hénon Attractor](https://observablehq.com/@yurivish/orbiting-the-henon-attractor)
-* [2025-09-30, 10:51:45](https://news.ycombinator.com/item?id=45423994) - [Using the TPDE codegen back end in LLVM ORC](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html)
 * [2025-09-30, 06:50:11](https://news.ycombinator.com/item?id=45422653) - [Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
 * [2025-09-29, 19:14:57](https://news.ycombinator.com/item?id=45417616) - [Register allocation in the Go compiler (2024)](https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html)
 * [2025-09-27, 19:42:24](https://news.ycombinator.com/item?id=45398760) - [Explore a new digital edition of \"Printing Types\" from 1922](https://www.openculture.com/2025/09/explore-a-new-digital-edition-of-printing-types-the-authoritative-history-of-printing-typography-from-1922.html)
@@ -28,7 +29,6 @@
 * [2025-09-27, 12:30:41](https://news.ycombinator.com/item?id=45395156) - [A Gentle Introduction to CUDA PTX](https://philipfabianek.com/posts/cuda-ptx-introduction/)
 * [2025-09-27, 12:27:29](https://news.ycombinator.com/item?id=45395132) - [Computer Vision: Algorithms and Applications, 2nd ed](https://szeliski.org/Book/)
 * [2025-09-27, 10:59:30](https://news.ycombinator.com/item?id=45394719) - [Finding and Understanding Bugs in C Compilers (2011) [pdf]](https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)
-* [2025-09-26, 18:43:58](https://news.ycombinator.com/item?id=45389716) - [How does lossless compression in Fuji RAF files work? (2020)](https://capnfabs.net/posts/fuji-raf-compression-algorithm/)
 * [2025-09-26, 11:42:04](https://news.ycombinator.com/item?id=45385354) - [Design of the SCHEME-78 Lisp-based microprocessor (1980)](https://dl.acm.org/doi/10.1145/359024.359031)
 
 ## [Archives](archives/index.md)
