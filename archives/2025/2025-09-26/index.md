@@ -70,6 +70,7 @@
 * [2025-09-26, 12:00:18](https://news.ycombinator.com/item?id=45385477) - [ParadeDB (YC S23) Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
 * [2025-09-26, 11:28:16](https://news.ycombinator.com/item?id=45385252) - [Facebook and Instagram to offer ad-free service in UK for up to £3.99 a month](https://www.theguardian.com/technology/2025/sep/26/facebook-and-instagram-to-offer-paid-ad-free-service-uk)
 * [2025-09-26, 11:02:43](https://news.ycombinator.com/item?id=45385092) - [UK officially rolls out digital ID scheme](https://www.gov.uk/government/news/new-digital-id-scheme-to-be-rolled-out-across-uk)
+* [2025-09-26, 10:18:24](https://news.ycombinator.com/item?id=45384828) - [Redisearch New Vector Quantization](https://redis.io/blog/tech-dive-comprehensive-compression-leveraging-quantization-and-dimensionality-reduction/)
 * [2025-09-26, 09:52:45](https://news.ycombinator.com/item?id=45384653) - [Genode OS Framework](https://genode.org)
 * [2025-09-26, 09:46:13](https://news.ycombinator.com/item?id=45384617) - [Show HN: The Little Notebook for Learning Linear Algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
 * [2025-09-26, 09:27:08](https://news.ycombinator.com/item?id=45384521) - [Ahab's Arithmetic: The Mathematics of Moby-Dick](https://scholarship.claremont.edu/jhm/vol11/iss1/3/)
