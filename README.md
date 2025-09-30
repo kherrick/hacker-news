@@ -9,7 +9,7 @@
 * [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
 * [2025-09-29, 20:58:11](https://news.ycombinator.com/item?id=45418675) - [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
 * [2025-09-29, 20:33:14](https://news.ycombinator.com/item?id=45418428) - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
-* [2025-09-29, 20:19:08](https://news.ycombinator.com/item?id=45418261) - [iRobot Founder: Don't Believe the (AI and Robotics) Hype](https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/)
+* [2025-09-29, 20:19:08](https://news.ycombinator.com/item?id=45418261) - [iRobot Founder: Don't Believe the AI and Robotics Hype](https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/)
 * [2025-09-29, 19:16:40](https://news.ycombinator.com/item?id=45417637) - [Don't Become a Scientist (1999)](https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm)
 * [2025-09-29, 18:46:15](https://news.ycombinator.com/item?id=45417300) - [Diagnosing a Linux Performance Regression](https://automattic.com/2024/03/14/systems-report-linux-performance-regression/)
 * [2025-09-29, 17:12:13](https://news.ycombinator.com/item?id=45416228) - [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
