@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-09-27, 23:31:19",
-      "https://news.ycombinator.com/item?id=45400246"
-    ],
-    [
-      "Faster Virtual Machines: Speeding Up Programming Language Execution (2023)",
-      "https://mort.coffee/home/fast-interpreters/"
-    ]
-  ],
-  [
-    [
       "2025-09-26, 22:18:33",
       "https://news.ycombinator.com/item?id=45391572"
     ],
@@ -277,6 +267,16 @@
     [
       "Ahab's Arithmetic: The Mathematics of Moby-Dick",
       "https://scholarship.claremont.edu/jhm/vol11/iss1/3/"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 06:29:53",
+      "https://news.ycombinator.com/item?id=45383381"
+    ],
+    [
+      "`std::flip`",
+      "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html"
     ]
   ],
   [
