@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 17:31:34](https://news.ycombinator.com/item?id=45428482) - [Boeing Has Started Working on a 737 MAX Replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
 * [2025-09-30, 17:04:25](https://news.ycombinator.com/item?id=45428122) - [Sora 2](https://openai.com/index/sora-2/)
 * [2025-09-30, 17:01:27](https://news.ycombinator.com/item?id=45428081) - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-09-30, 16:59:11](https://news.ycombinator.com/item?id=45428052) - [Not only am I losing my livelihood to AI – now it's stealing my em dashes too](https://www.theguardian.com/lifeandstyle/2025/oct/01/artificial-intelligence-em-dashes-ai-stealing-my-livelihood)
+* [2025-09-30, 16:57:07](https://news.ycombinator.com/item?id=45428020) - [Genomic analyses of hair from Ludwig van Beethoven](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1)
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Introducing Sora 2 [video]](https://www.youtube.com/watch?v=gzneGhpXwjU)
 * [2025-09-30, 16:43:47](https://news.ycombinator.com/item?id=45427809) - [The Dismantling of the Forest Service](https://www.hcn.org/articles/trump-looks-to-dismantle-the-forest-service/)
 * [2025-09-30, 16:35:16](https://news.ycombinator.com/item?id=45427697) - [Show HN: Sculptor, the Missing UI for Claude Code](https://imbue.com/sculptor/)
