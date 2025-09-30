@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-30, 23:36:23](https://news.ycombinator.com/item?id=45432627) - [Economics of sportsbooks and why they ban the best bettors](https://www.dopaminemarkets.com/p/the-business-of-sports-betting-is)
 * [2025-09-30, 21:29:29](https://news.ycombinator.com/item?id=45431489) - [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
 * [2025-09-30, 21:16:48](https://news.ycombinator.com/item?id=45431367) - [Our stewardship: Where we are, what's changing and how we'll engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
 * [2025-09-30, 21:08:28](https://news.ycombinator.com/item?id=45431271) - [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272)
@@ -25,7 +26,6 @@
 * [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
 * [2025-09-30, 12:53:49](https://news.ycombinator.com/item?id=45424827) - [Founder sentenced to seven years in prison for fraudulent sale to JPMorgan](https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl)
 * [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
-* [2025-09-29, 19:14:57](https://news.ycombinator.com/item?id=45417616) - [Register allocation in the Go compiler (2024)](https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html)
 * [2025-09-29, 16:25:27](https://news.ycombinator.com/item?id=45415646) - [Level Up your Rust pattern matching](https://blog.cuongle.dev/p/level-up-your-rust-pattern-matching)
 * [2025-09-28, 18:28:14](https://news.ycombinator.com/item?id=45406645) - [Coding a new BASIC interpreter in 2025 to replace a slow one](https://nanochess.org/ecs_basic.html)
 * [2025-09-27, 12:06:18](https://news.ycombinator.com/item?id=45395038) - [DITA – Darwin Information Typing Architecture](https://dita-lang.org/)
