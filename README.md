@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-30, 17:46:36](https://news.ycombinator.com/item?id=45428691) - [Hedge Funds Have to Be Big](https://www.bloomberg.com/opinion/newsletters/2025-09-30/hedge-funds-have-to-be-big)
-* [2025-09-30, 17:31:34](https://news.ycombinator.com/item?id=45428482) - [Boeing Has Started Working on a 737 MAX Replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
+* [2025-09-30, 18:12:01](https://news.ycombinator.com/item?id=45429041) - [50 Things I Know](https://rebeccadai.substack.com/p/50-things-i-know)
+* [2025-09-30, 17:46:36](https://news.ycombinator.com/item?id=45428691) - [Hedge funds have to be big](https://www.bloomberg.com/opinion/newsletters/2025-09-30/hedge-funds-have-to-be-big)
+* [2025-09-30, 17:31:34](https://news.ycombinator.com/item?id=45428482) - [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
 * [2025-09-30, 17:04:25](https://news.ycombinator.com/item?id=45428122) - [Sora 2](https://openai.com/index/sora-2/)
 * [2025-09-30, 17:01:27](https://news.ycombinator.com/item?id=45428081) - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-09-30, 16:57:07](https://news.ycombinator.com/item?id=45428020) - [Genomic analyses of hair from Ludwig van Beethoven](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1)
@@ -25,7 +26,6 @@
 * [2025-09-30, 10:37:39](https://news.ycombinator.com/item?id=45423917) - [Comprehension debt: A ticking time bomb of LLM-generated code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
 * [2025-09-30, 08:50:11](https://news.ycombinator.com/item?id=45423363) - [Can you use GDPR to circumvent BlueSky's adult content blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
 * [2025-09-30, 06:50:11](https://news.ycombinator.com/item?id=45422653) - [Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
-* [2025-09-30, 03:17:57](https://news.ycombinator.com/item?id=45421564) - [There is a huge pool of exceptional junior engineers](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
 * [2025-09-27, 13:19:25](https://news.ycombinator.com/item?id=45395495) - [Conway's Pinwheel Tiling](https://www.johndcook.com/blog/2025/09/25/conways-pinwheel-tiling/)
 * [2025-09-27, 12:30:41](https://news.ycombinator.com/item?id=45395156) - [A Gentle Introduction to CUDA PTX](https://philipfabianek.com/posts/cuda-ptx-introduction/)
 * [2025-09-27, 12:27:29](https://news.ycombinator.com/item?id=45395132) - [Computer Vision: Algorithms and Applications, 2nd ed](https://szeliski.org/Book/)
