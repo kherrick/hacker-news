@@ -26,8 +26,8 @@
 * [2025-09-29, 09:34:16](https://news.ycombinator.com/item?id=45411831) - [Bad Apple but it's played inside Super Mario Bros](https://tasvideos.org/8991S)
 * [2025-09-26, 23:52:39](https://news.ycombinator.com/item?id=45392214) - [Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191)
 * [2025-09-26, 22:02:38](https://news.ycombinator.com/item?id=45391467) - [Visualizing Automorphisms of S6](https://travisdoesmath.github.io/s6/)
+* [2025-09-26, 18:01:14](https://news.ycombinator.com/item?id=45389263) - [A Look into Intel Xeon 6's Memory Subsystem](https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory)
 * [2025-09-26, 15:43:50](https://news.ycombinator.com/item?id=45387791) - [Spending time with the material](https://www.robinsloan.com/lab/actually-readable/)
-* [2025-09-26, 10:18:24](https://news.ycombinator.com/item?id=45384828) - [Redisearch New Vector Quantization](https://redis.io/blog/tech-dive-comprehensive-compression-leveraging-quantization-and-dimensionality-reduction/)
 * [2025-09-26, 06:15:26](https://news.ycombinator.com/item?id=45383284) - [Managing Dotfiles with Make](https://www.matheusmoreira.com/articles/managing-dotfiles-with-make)
 * [2025-09-26, 03:28:05](https://news.ycombinator.com/item?id=45382300) - [Voronoi map generation in Civilization VII](https://civilization.2k.com/civ-vii/from-the-devs/map-generation/)
 

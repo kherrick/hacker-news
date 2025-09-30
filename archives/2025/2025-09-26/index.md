@@ -36,6 +36,7 @@
 * [2025-09-26, 18:20:33](https://news.ycombinator.com/item?id=45389464) - [Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer](https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer)
 * [2025-09-26, 18:04:29](https://news.ycombinator.com/item?id=45389293) - [Auth.js Joining Better Auth](https://www.better-auth.com/blog/authjs-joins-better-auth)
 * [2025-09-26, 18:01:26](https://news.ycombinator.com/item?id=45389267) - [SimpleFold: Folding Proteins Is Simpler Than You Think](https://github.com/apple/ml-simplefold)
+* [2025-09-26, 18:01:14](https://news.ycombinator.com/item?id=45389263) - [A Look into Intel Xeon 6's Memory Subsystem](https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory)
 * [2025-09-26, 17:17:54](https://news.ycombinator.com/item?id=45388822) - [Suno Studio, a Generative AI DAW](https://suno.com/studio-welcome)
 * [2025-09-26, 17:11:20](https://news.ycombinator.com/item?id=45388770) - [Informed Poll](https://pigweed.dev/pw_async2/informed_poll.html)
 * [2025-09-26, 17:09:51](https://news.ycombinator.com/item?id=45388761) - [Haiku Validator](https://haikuvalidator.com/)
