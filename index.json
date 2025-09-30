@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-09-30, 02:13:00",
-      "https://news.ycombinator.com/item?id=45421221"
-    ],
-    [
-      "Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol",
-      "https://github.com/currentspace/capn-rs"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 01:46:02",
       "https://news.ycombinator.com/item?id=45421067"
     ],
@@ -277,6 +267,16 @@
     [
       "A Look into Intel Xeon 6's Memory Subsystem",
       "https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 11:42:04",
+      "https://news.ycombinator.com/item?id=45385354"
+    ],
+    [
+      "Design of the SCHEME-78 Lisp-based microprocessor",
+      "https://dl.acm.org/doi/10.1145/359024.359031"
     ]
   ],
   [
