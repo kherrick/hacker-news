@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-30, 13:35:23",
+      "https://news.ycombinator.com/item?id=45425253"
+    ],
+    [
+      "Show HN: ProcASM v1.1",
+      "https://procasm.temware.site/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 13:01:05",
       "https://news.ycombinator.com/item?id=45424888"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-09-30, 06:50:11",
+      "https://news.ycombinator.com/item?id=45422653"
+    ],
+    [
+      "Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table",
+      "https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 06:23:31",
       "https://news.ycombinator.com/item?id=45422514"
     ],
@@ -137,16 +157,6 @@
     [
       "Show HN: Devbox – Containers for better dev environments",
       "https://devbox.ar0.eu/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 01:46:02",
-      "https://news.ycombinator.com/item?id=45421067"
-    ],
-    [
-      "Awakening Bell",
-      "https://awakeningbell.org/"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2025-09-29, 13:29:55",
-      "https://news.ycombinator.com/item?id=45413525"
-    ],
-    [
-      "A SQL Heuristic: ORs Are Expensive",
-      "https://ethanseal.com/articles/ors-are-expensive"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 09:34:16",
       "https://news.ycombinator.com/item?id=45411831"
     ],
     [
       "Bad Apple but it's played inside Super Mario Bros",
       "https://tasvideos.org/8991S"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 01:23:58",
+      "https://news.ycombinator.com/item?id=45392602"
+    ],
+    [
+      "Show HN: A web version of Pips game (NYT domino game)",
+      "https://pipsgamer.com"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
       "https://dl.acm.org/doi/10.1145/359024.359031"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 03:28:05",
-      "https://news.ycombinator.com/item?id=45382300"
-    ],
-    [
-      "Voronoi map generation in Civilization VII",
-      "https://civilization.2k.com/civ-vii/from-the-devs/map-generation/"
     ]
   ]
 ]
