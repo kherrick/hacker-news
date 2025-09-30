@@ -71,6 +71,7 @@
 * [2025-09-26, 12:50:26](https://news.ycombinator.com/item?id=45385920) - ['Independent' auditors overvalue credits of carbon projects, study finds](https://news.mongabay.com/2025/09/independent-auditors-overvalue-credits-of-carbon-projects-study-finds/)
 * [2025-09-26, 12:16:00](https://news.ycombinator.com/item?id=45385620) - [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
 * [2025-09-26, 12:00:18](https://news.ycombinator.com/item?id=45385477) - [ParadeDB (YC S23) Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
+* [2025-09-26, 11:42:04](https://news.ycombinator.com/item?id=45385354) - [Design of the SCHEME-78 Lisp-based microprocessor](https://dl.acm.org/doi/10.1145/359024.359031)
 * [2025-09-26, 11:28:16](https://news.ycombinator.com/item?id=45385252) - [Facebook and Instagram to offer ad-free service in UK for up to £3.99 a month](https://www.theguardian.com/technology/2025/sep/26/facebook-and-instagram-to-offer-paid-ad-free-service-uk)
 * [2025-09-26, 11:02:43](https://news.ycombinator.com/item?id=45385092) - [UK officially rolls out digital ID scheme](https://www.gov.uk/government/news/new-digital-id-scheme-to-be-rolled-out-across-uk)
 * [2025-09-26, 10:18:24](https://news.ycombinator.com/item?id=45384828) - [Redisearch New Vector Quantization](https://redis.io/blog/tech-dive-comprehensive-compression-leveraging-quantization-and-dimensionality-reduction/)

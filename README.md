@@ -9,7 +9,6 @@
 * [2025-09-30, 06:23:05](https://news.ycombinator.com/item?id=45422512) - [European Union Public Licence (EUPL)](https://eupl.eu/)
 * [2025-09-30, 05:53:25](https://news.ycombinator.com/item?id=45422353) - [The ABS Programming Language](https://www.abs-lang.org/)
 * [2025-09-30, 02:26:39](https://news.ycombinator.com/item?id=45421302) - [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/)
-* [2025-09-30, 02:13:00](https://news.ycombinator.com/item?id=45421221) - [Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol](https://github.com/currentspace/capn-rs)
 * [2025-09-30, 01:46:02](https://news.ycombinator.com/item?id=45421067) - [Awakening Bell](https://awakeningbell.org/)
 * [2025-09-29, 23:32:10](https://news.ycombinator.com/item?id=45420173) - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 * [2025-09-29, 23:12:36](https://news.ycombinator.com/item?id=45420001) - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
@@ -28,6 +27,7 @@
 * [2025-09-26, 23:52:39](https://news.ycombinator.com/item?id=45392214) - [Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191)
 * [2025-09-26, 18:33:37](https://news.ycombinator.com/item?id=45389589) - [Implementing a Kalman Filter in Postgres](https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data)
 * [2025-09-26, 18:01:14](https://news.ycombinator.com/item?id=45389263) - [A Look into Intel Xeon 6's Memory Subsystem](https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory)
+* [2025-09-26, 11:42:04](https://news.ycombinator.com/item?id=45385354) - [Design of the SCHEME-78 Lisp-based microprocessor](https://dl.acm.org/doi/10.1145/359024.359031)
 * [2025-09-26, 06:15:26](https://news.ycombinator.com/item?id=45383284) - [Managing Dotfiles with Make](https://www.matheusmoreira.com/articles/managing-dotfiles-with-make)
 * [2025-09-26, 03:28:05](https://news.ycombinator.com/item?id=45382300) - [Voronoi map generation in Civilization VII](https://civilization.2k.com/civ-vii/from-the-devs/map-generation/)
 
