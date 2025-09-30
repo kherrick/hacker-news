@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-30, 19:23:34",
+      "https://news.ycombinator.com/item?id=45430048"
+    ],
+    [
+      "Making sure AI serves people and knowledge stays human",
+      "https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 17:46:36",
       "https://news.ycombinator.com/item?id=45428691"
     ],
@@ -111,26 +121,6 @@
   ],
   [
     [
-      "2025-09-30, 14:42:18",
-      "https://news.ycombinator.com/item?id=45426099"
-    ],
-    [
-      "BrowserPod: In-browser full-stack environments for IDEs and Agents via WASM",
-      "https://labs.leaningtech.com/blog/browserpod-annoucement"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 14:14:28",
-      "https://news.ycombinator.com/item?id=45425746"
-    ],
-    [
-      "Selling Lemons",
-      "https://frankchimero.com/blog/2025/selling-lemons/"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 14:12:37",
       "https://news.ycombinator.com/item?id=45425714"
     ],
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2025-09-30, 10:37:39",
-      "https://news.ycombinator.com/item?id=45423917"
+      "2025-09-30, 10:51:45",
+      "https://news.ycombinator.com/item?id=45423994"
     ],
     [
-      "Comprehension debt: A ticking time bomb of LLM-generated code",
-      "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/"
+      "Using the TPDE codegen back end in LLVM ORC",
+      "https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2025-09-30, 03:17:57",
-      "https://news.ycombinator.com/item?id=45421564"
-    ],
-    [
-      "There is a huge pool of exceptional junior engineers",
-      "https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 19:14:57",
       "https://news.ycombinator.com/item?id=45417616"
     ],
     [
       "Register allocation in the Go compiler (2024)",
       "https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 19:42:24",
+      "https://news.ycombinator.com/item?id=45398760"
+    ],
+    [
+      "Explore a new digital edition of \"Printing Types\" from 1922",
+      "https://www.openculture.com/2025/09/explore-a-new-digital-edition-of-printing-types-the-authoritative-history-of-printing-typography-from-1922.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How does lossless compression in Fuji RAF files work? (2020)",
       "https://capnfabs.net/posts/fuji-raf-compression-algorithm/"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 11:42:04",
+      "https://news.ycombinator.com/item?id=45385354"
+    ],
+    [
+      "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
+      "https://dl.acm.org/doi/10.1145/359024.359031"
     ]
   ]
 ]
