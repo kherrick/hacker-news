@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-30, 21:16:48](https://news.ycombinator.com/item?id=45431367) - [Our Stewardship: Where We Are, What's Changing and How We'll Engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
 * [2025-09-30, 21:14:29](https://news.ycombinator.com/item?id=45431342) - [U.S. Army confirms Tesla Cybertruck can't be imported in Europe](https://electrek.co/2025/09/30/u-s-army-confirms-tesla-cybertruck-cant-be-imported-in-europe/)
 * [2025-09-30, 21:08:28](https://news.ycombinator.com/item?id=45431271) - [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272)
 * [2025-09-30, 20:58:52](https://news.ycombinator.com/item?id=45431167) - [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
@@ -15,6 +16,7 @@
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Sora 2](https://openai.com/index/sora-2/)
 * [2025-09-30, 16:35:16](https://news.ycombinator.com/item?id=45427697) - [Show HN: Sculptor, the Missing UI for Claude Code](https://imbue.com/sculptor/)
 * [2025-09-30, 16:21:09](https://news.ycombinator.com/item?id=45427482) - [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
+* [2025-09-30, 16:00:36](https://news.ycombinator.com/item?id=45427197) - [Leaked Apple M5 9 core Geekbench scores](https://browser.geekbench.com/v6/cpu/14173685)
 * [2025-09-30, 15:50:22](https://news.ycombinator.com/item?id=45427061) - [Prompt analytics for MCP servers](https://hyprmcp.com/blog/mcp-server-prompt-analytics/)
 * [2025-09-30, 15:50:14](https://news.ycombinator.com/item?id=45427059) - [Visualizations of Random Attractors Found Using Lyapunov Exponents](https://paulbourke.net/fractals/lyapunov/)
 * [2025-09-30, 15:21:23](https://news.ycombinator.com/item?id=45426680) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
@@ -27,9 +29,7 @@
 * [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 * [2025-09-29, 19:14:57](https://news.ycombinator.com/item?id=45417616) - [Register allocation in the Go compiler (2024)](https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html)
 * [2025-09-28, 18:28:14](https://news.ycombinator.com/item?id=45406645) - [Coding a new BASIC interpreter in 2025 to replace a slow one](https://nanochess.org/ecs_basic.html)
-* [2025-09-27, 13:19:25](https://news.ycombinator.com/item?id=45395495) - [Conway's pinwheel tiling](https://www.johndcook.com/blog/2025/09/25/conways-pinwheel-tiling/)
 * [2025-09-27, 10:59:30](https://news.ycombinator.com/item?id=45394719) - [Finding and Understanding Bugs in C Compilers (2011) [pdf]](https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)
-* [2025-09-26, 11:42:04](https://news.ycombinator.com/item?id=45385354) - [Design of the SCHEME-78 Lisp-based microprocessor (1980)](https://dl.acm.org/doi/10.1145/359024.359031)
 
 ## [Archives](archives/index.md)
 
