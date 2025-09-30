@@ -6,6 +6,7 @@
 
 * [2025-09-27, 23:50:42](https://news.ycombinator.com/item?id=45400376) - [Learn to Play Go](https://online-go.com/learn-to-play-go)
 * [2025-09-27, 23:33:43](https://news.ycombinator.com/item?id=45400269) - [Spending on AI Is at Epic Levels. Will It Ever Pay Off?](https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128)
+* [2025-09-27, 23:31:19](https://news.ycombinator.com/item?id=45400246) - [Faster Virtual Machines: Speeding Up Programming Language Execution (2023)](https://mort.coffee/home/fast-interpreters/)
 * [2025-09-27, 23:26:57](https://news.ycombinator.com/item?id=45400221) - [Why Warm Countries Are Poorer](https://unchartedterritories.tomaspueyo.com/p/mountains)
 * [2025-09-27, 22:50:38](https://news.ycombinator.com/item?id=45400009) - [How I accidently created the fastest CSV parser ever made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
 * [2025-09-27, 22:30:00](https://news.ycombinator.com/item?id=45399893) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/)
