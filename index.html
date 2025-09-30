@@ -129,6 +129,104 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45427482">
+          <h3>
+            <a class="item" href="https://github.com/airweave-ai/airweave"
+              >Launch HN: Airweave (YC X25) – Let agents search any app</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-30 @ 16:21:09</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45427482"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://airweave.ai/">https://airweave.ai/</a>), an
+              open-source tool that lets AI agents search and retrieve context
+              from your existing apps and databases through a single
+              LLM-friendly API (or an MCP server, if that’s your thing). Our
+              Github is at
+              <a href="https://github.com/airweave-ai/airweave"
+                >https://github.com/airweave-ai/airweave</a
+              >. We previously did a Show HN
+              <a href="https://news.ycombinator.com/item?id=43964201"
+                >https://news.ycombinator.com/item?id=43964201</a
+              >
+              and since then we’ve recently launched the managed service and new
+              search functionality.
+              <p>
+                Here’s an example of Cursor using Airweave
+                <a href="https://www.youtube.com/watch?v=IvxidK9Ciy4"
+                  >https://www.youtube.com/watch?v=IvxidK9Ciy4</a
+                >. And here’s a general example of our new search functionality:
+                <a href="https://www.youtube.com/watch?v=iqEqc_iGUO8"
+                  >https://www.youtube.com/watch?v=iqEqc_iGUO8</a
+                >
+              </p>
+              <p>
+                We came to this problem while building agentic applications for
+                webshop owners and customer service, and noticing most failure
+                modes weren’t about tool execution, but finding the right
+                internal context to enable the right actions.
+              </p>
+              <p>
+                We started solving, what seemed at the time, a problem for our
+                own use case, and quickly fell into a rabbithole of issues.
+                Company and user data lives across SaaS and databases; it’s
+                sparse, messy, and constantly changing. Agents need a data
+                orchestration and retrieval layer that accepts free-form natural
+                language queries and returns actionable results quickly.
+              </p>
+              <p>
+                Simply pointing an agent at an MCP server does not equate to
+                fine-grained search functionality or deep understanding of the
+                underlying resource. Most MCP servers are thin wrappers that
+                expose an existing API in a more LLM-friendly way, but this
+                doesn’t actually give the agent any new capabilities beyond what
+                the resource or app already offered. Specifically, it doesn’t
+                give the agent a way to thoroughly search and understand the
+                contents of the resource.
+              </p>
+              <p>
+                Airweave connects to sources via their APIs, crawls and
+                normalizes content, chunks it, extracts entity relationships,
+                and indexes the chunks in a vector store alongside keyword
+                fields and lightweight graph metadata in Postgres. Data sync is
+                orchestrated with Temporal (handles pagination/rate limits,
+                schedules, and change detection via timestamps and content
+                hashes) so collections stay close to real-time with their
+                sources.
+              </p>
+              <p>
+                On retrieval, Airweave can run semantic and BM25 keyword search
+                in parallel, fuse results (RRF), apply recency bias, and
+                re-rank. Agents can fetch ranked chunks with citations or ask
+                for a synthesized answer. The same interface is exposed via
+                REST, Python/TS SDKs, and MCP so agents can discover it like any
+                other tool.
+              </p>
+              <p>
+                It’s been fun to see what users have built with Airweave; from
+                legal AI assistants to research discovery agents and context
+                augmentation for coding agents. We’re currently experimenting
+                with agentic search patterns, layering different types of
+                enrichment and indexing, RBAC on indexed data, and streaming
+                architectures.
+              </p>
+              <p>
+                If this is interesting to you, feel free to take it for a spin.
+                Curious to hear your thoughts and feedback on the problem and
+                our solution!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="45427059">
           <h3>
             <a class="item" href="https://paulbourke.net/fractals/lyapunov/"
@@ -140,11 +238,11 @@
             <h4>
               <span>2025-09-30 @ 15:50:14</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45427059"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -152,40 +250,19 @@
         <section id="45427021">
           <h3>
             <a class="item" href="https://yuri.is/not-julia/"
-              >Why I no longer recommend Julia</a
+              >Correctness and composability bugs in the Julia ecosystem
+              (2022)</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-09-30 @ 15:46:37</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45427021"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45426858">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nbcnews.com/business/business-news/charlie-javice-sentenced-7-years-prison-fraudulent-175m-sale-financial-rcna234536"
-              >Charlie Javice sentenced to 7 years in prison for fraudulent
-              $175M sale of Frank</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-30 @ 15:35:21</span
-              ><span class="points-container"
-                >Points: <span class="points">43</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45426858"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -202,11 +279,11 @@
             <h4>
               <span>2025-09-30 @ 15:20:37</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45426673"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -219,32 +296,11 @@
             <h4>
               <span>2025-09-30 @ 15:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">284</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45426490"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45426205">
-          <h3>
-            <a
-              class="item"
-              href="https://www.inc.com/sam-blum/how-the-ai-bubble-ate-y-combinator/91240632"
-              >How the AI bubble ate Y Combinator</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-30 @ 14:52:29</span
-              ><span class="points-container"
-                >Points: <span class="points">164</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45426205"
-                  >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -262,7 +318,7 @@
             <h4>
               <span>2025-09-30 @ 14:42:18</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45426099"
                   >Comments</a
@@ -271,46 +327,24 @@
             </h4>
           </section>
         </section>
-        <section id="45426074">
+        <section id="45425746">
           <h3>
             <a
               class="item"
-              href="https://overturned.substack.com/p/metas-teen-accounts-are-sugar-pills"
-              >Meta's Teen Accounts Are Sugar Pills for Parents, Not Safety for
-              Kids</a
+              href="https://frankchimero.com/blog/2025/selling-lemons/"
+              >Frank Chimero: I think we're in the lemon stage of the
+              internet</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-09-30 @ 14:40:31</span
+              <span>2025-09-30 @ 14:14:28</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45426074"
+                ><a href="https://news.ycombinator.com/item?id=45425746"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45425897">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nbcnews.com/business/business-news/electronic-arts-acquired-largest-ever-private-equity-buyout-rcna234432"
-              >Electronic Arts to be acquired for $52B in largest private equity
-              buyout</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-09-30 @ 14:27:30</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45425897"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -325,7 +359,7 @@
             <h4>
               <span>2025-09-30 @ 14:12:37</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45425714"
                   >Comments</a
@@ -344,11 +378,33 @@
             <h4>
               <span>2025-09-30 @ 13:39:22</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45425298"
                   >Comments</a
                 ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45424827">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl"
+              >Founder sentenced to seven years in prison for fraudulent sale to
+              JPMorgan</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-30 @ 12:53:49</span
+              ><span class="points-container"
+                >Points: <span class="points">56</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45424827"
+                  >Comments</a
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -382,11 +438,11 @@
             <h4>
               <span>2025-09-30 @ 11:31:04</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45424223"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -403,7 +459,7 @@
             <h4>
               <span>2025-09-30 @ 10:51:45</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45423994"
                   >Comments</a
@@ -424,11 +480,11 @@
             <h4>
               <span>2025-09-30 @ 10:37:39</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">388</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45423917"
                   >Comments</a
-                ><span class="descendants">: 252</span></span
+                ><span class="descendants">: 255</span></span
               >
             </h4>
           </section>
@@ -443,11 +499,11 @@
             <h4>
               <span>2025-09-30 @ 08:36:06</span
               ><span class="points-container"
-                >Points: <span class="points">463</span></span
+                >Points: <span class="points">466</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45423268"
                   >Comments</a
-                ><span class="descendants">: 257</span></span
+                ><span class="descendants">: 261</span></span
               >
             </h4>
           </section>
@@ -462,11 +518,11 @@
             <h4>
               <span>2025-09-30 @ 07:52:16</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45423004"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -483,11 +539,11 @@
             <h4>
               <span>2025-09-30 @ 06:50:11</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45422653"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -504,11 +560,11 @@
             <h4>
               <span>2025-09-30 @ 06:23:31</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45422514"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -542,11 +598,11 @@
             <h4>
               <span>2025-09-29 @ 23:32:10</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45420173"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -563,7 +619,7 @@
             <h4>
               <span>2025-09-29 @ 23:12:36</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45420001"
                   >Comments</a
@@ -582,11 +638,11 @@
             <h4>
               <span>2025-09-29 @ 20:58:11</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45418675"
                   >Comments</a
-                ><span class="descendants">: 804</span></span
+                ><span class="descendants">: 810</span></span
               >
             </h4>
             <div class="text">
@@ -606,11 +662,11 @@
             <h4>
               <span>2025-09-29 @ 17:12:13</span
               ><span class="points-container"
-                >Points: <span class="points">792</span></span
+                >Points: <span class="points">798</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45416228"
                   >Comments</a
-                ><span class="descendants">: 371</span></span
+                ><span class="descendants">: 373</span></span
               >
             </h4>
           </section>
@@ -627,11 +683,11 @@
             <h4>
               <span>2025-09-29 @ 16:52:59</span
               ><span class="points-container"
-                >Points: <span class="points">1493</span></span
+                >Points: <span class="points">1497</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45415962"
                   >Comments</a
-                ><span class="descendants">: 741</span></span
+                ><span class="descendants">: 742</span></span
               >
             </h4>
             <div class="text">
@@ -652,11 +708,11 @@
             <h4>
               <span>2025-09-29 @ 09:34:16</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45411831"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -673,11 +729,30 @@
             <h4>
               <span>2025-09-27 @ 19:42:24</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45398760"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45395132">
+          <h3>
+            <a class="item" href="https://szeliski.org/Book/"
+              >Computer Vision: Algorithms and Applications, 2nd ed</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-09-27 @ 12:27:29</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45395132"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -692,7 +767,7 @@
             <h4>
               <span>2025-09-27 @ 01:23:58</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45392602"
                   >Comments</a
@@ -741,7 +816,7 @@
             <h4>
               <span>2025-09-26 @ 18:43:58</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45389716"
                   >Comments</a
@@ -760,7 +835,7 @@
             <h4>
               <span>2025-09-26 @ 11:42:04</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45385354"
                   >Comments</a
