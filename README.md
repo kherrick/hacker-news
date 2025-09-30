@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-09-30, 21:33:04](https://news.ycombinator.com/item?id=45431526) - [Show HN: JPDB, GDB for Your Waveforms](https://github.com/1024bees/dang)
 * [2025-09-30, 21:29:29](https://news.ycombinator.com/item?id=45431489) - [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
-* [2025-09-30, 21:16:48](https://news.ycombinator.com/item?id=45431367) - [Our Stewardship: Where We Are, What's Changing and How We'll Engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
-* [2025-09-30, 21:14:29](https://news.ycombinator.com/item?id=45431342) - [U.S. Army confirms Tesla Cybertruck can't be imported in Europe](https://electrek.co/2025/09/30/u-s-army-confirms-tesla-cybertruck-cant-be-imported-in-europe/)
+* [2025-09-30, 21:16:48](https://news.ycombinator.com/item?id=45431367) - [Our stewardship: Where we are, what's changing and how we'll engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
 * [2025-09-30, 21:08:28](https://news.ycombinator.com/item?id=45431271) - [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272)
 * [2025-09-30, 20:58:52](https://news.ycombinator.com/item?id=45431167) - [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
 * [2025-09-30, 20:49:34](https://news.ycombinator.com/item?id=45431047) - [Observation and Trauma: How Professionals Handle Observing Trauma](https://trainedobserver.substack.com/p/observation-and-trauma)
@@ -16,6 +14,7 @@
 * [2025-09-30, 17:01:27](https://news.ycombinator.com/item?id=45428081) - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-09-30, 16:57:07](https://news.ycombinator.com/item?id=45428020) - [Genomic analyses of hair from Ludwig van Beethoven (2023)](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1)
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Sora 2](https://openai.com/index/sora-2/)
+* [2025-09-30, 16:35:16](https://news.ycombinator.com/item?id=45427697) - [Show HN: Sculptor, the Missing UI for Claude Code](https://imbue.com/sculptor/)
 * [2025-09-30, 16:21:09](https://news.ycombinator.com/item?id=45427482) - [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
 * [2025-09-30, 16:00:36](https://news.ycombinator.com/item?id=45427197) - [Leaked Apple M5 9 core Geekbench scores](https://browser.geekbench.com/v6/cpu/14173685)
 * [2025-09-30, 15:50:22](https://news.ycombinator.com/item?id=45427061) - [Prompt analytics for MCP servers](https://hyprmcp.com/blog/mcp-server-prompt-analytics/)
@@ -29,6 +28,7 @@
 * [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 * [2025-09-29, 19:14:57](https://news.ycombinator.com/item?id=45417616) - [Register allocation in the Go compiler (2024)](https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html)
 * [2025-09-28, 18:28:14](https://news.ycombinator.com/item?id=45406645) - [Coding a new BASIC interpreter in 2025 to replace a slow one](https://nanochess.org/ecs_basic.html)
+* [2025-09-27, 12:06:18](https://news.ycombinator.com/item?id=45395038) - [DITA – Darwin Information Typing Architecture](https://dita-lang.org/)
 * [2025-09-27, 10:59:30](https://news.ycombinator.com/item?id=45394719) - [Finding and Understanding Bugs in C Compilers (2011) [pdf]](https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)
 
 ## [Archives](archives/index.md)
