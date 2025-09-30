@@ -2,11 +2,11 @@
 
 * [2025-09-30, 08:50:11](https://news.ycombinator.com/item?id=45423363) - [Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
 * [2025-09-30, 08:36:06](https://news.ycombinator.com/item?id=45423268) - [Disqus Turned My Blog into an Ad Farm – So I Killed It](https://ryansouthgate.com/goodbye-disqus/)
+* [2025-09-30, 08:07:16](https://news.ycombinator.com/item?id=45423088) - [Companies Are Lying About AI Layoffs](https://huijzer.xyz/posts/111/companies-are-lying-about-ai-layoffs)
 * [2025-09-30, 06:50:11](https://news.ycombinator.com/item?id=45422653) - [Exploiting huffman table bug in zlib](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
 * [2025-09-30, 06:23:31](https://news.ycombinator.com/item?id=45422514) - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
 * [2025-09-30, 06:23:05](https://news.ycombinator.com/item?id=45422512) - [European Union Public Licence (EUPL)](https://eupl.eu/)
 * [2025-09-30, 05:53:25](https://news.ycombinator.com/item?id=45422353) - [The ABS Programming Language](https://www.abs-lang.org/)
-* [2025-09-30, 05:40:02](https://news.ycombinator.com/item?id=45422273) - [People may age faster if their dad smoked during puberty](https://www.ersnet.org/news-and-features/news/people-may-age-faster-if-their-dad-smoked-during-puberty/)
 * [2025-09-30, 02:26:39](https://news.ycombinator.com/item?id=45421302) - [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/)
 * [2025-09-30, 02:13:00](https://news.ycombinator.com/item?id=45421221) - [Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol](https://github.com/currentspace/capn-rs)
 * [2025-09-30, 01:46:02](https://news.ycombinator.com/item?id=45421067) - [Awakening Bell](https://awakeningbell.org/)
