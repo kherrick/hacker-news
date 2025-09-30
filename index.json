@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-09-30, 16:43:47",
-      "https://news.ycombinator.com/item?id=45427809"
-    ],
-    [
-      "The Dismantling of the Forest Service",
-      "https://www.hcn.org/articles/trump-looks-to-dismantle-the-forest-service/"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 16:35:16",
       "https://news.ycombinator.com/item?id=45427697"
     ],
@@ -237,6 +227,16 @@
     [
       "How to create an OS from scratch",
       "https://github.com/cfenollosa/os-tutorial"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 23:12:36",
+      "https://news.ycombinator.com/item?id=45420001"
+    ],
+    [
+      "Safe zero-copy operations in C#",
+      "https://ssg.dev/safe-zero-copy-operations-in-c/"
     ]
   ],
   [
