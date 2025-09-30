@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 21:33:04](https://news.ycombinator.com/item?id=45431526) - [Show HN: JPDB, GDB for Your Waveforms](https://github.com/1024bees/dang)
+* [2025-09-30, 21:29:29](https://news.ycombinator.com/item?id=45431489) - [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
 * [2025-09-30, 21:16:48](https://news.ycombinator.com/item?id=45431367) - [Our Stewardship: Where We Are, What's Changing and How We'll Engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
 * [2025-09-30, 21:14:29](https://news.ycombinator.com/item?id=45431342) - [U.S. Army confirms Tesla Cybertruck can't be imported in Europe](https://electrek.co/2025/09/30/u-s-army-confirms-tesla-cybertruck-cant-be-imported-in-europe/)
 * [2025-09-30, 21:08:28](https://news.ycombinator.com/item?id=45431271) - [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272)
