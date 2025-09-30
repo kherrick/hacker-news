@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-30, 18:12:01",
-      "https://news.ycombinator.com/item?id=45429041"
-    ],
-    [
-      "50 Things I Know",
-      "https://rebeccadai.substack.com/p/50-things-i-know"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 17:46:36",
       "https://news.ycombinator.com/item?id=45428691"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45428020"
     ],
     [
-      "Genomic analyses of hair from Ludwig van Beethoven",
+      "Genomic analyses of hair from Ludwig van Beethoven (2023)",
       "https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1"
     ]
   ],
@@ -77,16 +67,6 @@
     [
       "Launch HN: Airweave (YC X25) – Let agents search any app",
       "https://github.com/airweave-ai/airweave"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 16:00:36",
-      "https://news.ycombinator.com/item?id=45427197"
-    ],
-    [
-      "Leaked Apple M5 9 core Geekbench scores",
-      "https://browser.geekbench.com/v6/cpu/14173685"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-09-30, 11:31:04",
+      "https://news.ycombinator.com/item?id=45424223"
+    ],
+    [
+      "Orbiting the Hénon Attractor",
+      "https://observablehq.com/@yurivish/orbiting-the-henon-attractor"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 10:37:39",
       "https://news.ycombinator.com/item?id=45423917"
     ],
@@ -257,6 +247,16 @@
     [
       "There is a huge pool of exceptional junior engineers",
       "https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 19:14:57",
+      "https://news.ycombinator.com/item?id=45417616"
+    ],
+    [
+      "Register allocation in the Go compiler (2024)",
+      "https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html"
     ]
   ],
   [
