@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 20:58:52](https://news.ycombinator.com/item?id=45431167) - [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
+* [2025-09-30, 20:44:30](https://news.ycombinator.com/item?id=45431001) - [Atuin Desktop: Runbooks That Run – Now Open Source](https://blog.atuin.sh/atuin-desktop-open-source/)
 * [2025-09-30, 20:09:44](https://news.ycombinator.com/item?id=45430604) - [Diff Algorithms](https://flo.znkr.io/diff/)
 * [2025-09-30, 20:04:46](https://news.ycombinator.com/item?id=45430542) - [Organize your Slack channels by \"How Often\", not \"What\"](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
 * [2025-09-30, 20:00:21](https://news.ycombinator.com/item?id=45430498) - [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
