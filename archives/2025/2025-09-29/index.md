@@ -35,6 +35,7 @@
 * [2025-09-29, 17:00:42](https://news.ycombinator.com/item?id=45416080) - [Buy It in ChatGPT: Instant Checkout and the Agentic Commerce Protocol](https://openai.com/index/buy-it-in-chatgpt/)
 * [2025-09-29, 16:52:59](https://news.ycombinator.com/item?id=45415962) - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
 * [2025-09-29, 16:40:05](https://news.ycombinator.com/item?id=45415814) - [Sandboxing AI Agents at the Kernel Level](https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level)
+* [2025-09-29, 16:25:27](https://news.ycombinator.com/item?id=45415646) - [Level Up your Rust pattern matching](https://blog.cuongle.dev/p/level-up-your-rust-pattern-matching)
 * [2025-09-29, 16:14:38](https://news.ycombinator.com/item?id=45415539) - [Show HN: Every single torrent is on this website](https://infohash.lol/)
 * [2025-09-29, 16:12:30](https://news.ycombinator.com/item?id=45415510) - [ML on Apple ][+](https://mdcramer.github.io/apple-2-blog/k-means/)
 * [2025-09-29, 16:07:47](https://news.ycombinator.com/item?id=45415469) - [Google’s “G” gets a brighter look.](https://blog.google/inside-google/company-announcements/gradient-g-logo-design/)
