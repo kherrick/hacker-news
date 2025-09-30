@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-30, 20:09:44",
+      "https://news.ycombinator.com/item?id=45430604"
+    ],
+    [
+      "Diff Algorithms",
+      "https://flo.znkr.io/diff/"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 20:04:46",
+      "https://news.ycombinator.com/item?id=45430542"
+    ],
+    [
+      "Organize your Slack channels by \"How Often\", not \"What\"",
+      "https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 20:00:21",
       "https://news.ycombinator.com/item?id=45430498"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-09-30, 10:51:45",
-      "https://news.ycombinator.com/item?id=45423994"
-    ],
-    [
-      "Using the TPDE codegen back end in LLVM ORC",
-      "https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 06:50:11",
       "https://news.ycombinator.com/item?id=45422653"
     ],
@@ -277,16 +287,6 @@
     [
       "Finding and Understanding Bugs in C Compilers (2011) [pdf]",
       "https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 18:43:58",
-      "https://news.ycombinator.com/item?id=45389716"
-    ],
-    [
-      "How does lossless compression in Fuji RAF files work? (2020)",
-      "https://capnfabs.net/posts/fuji-raf-compression-algorithm/"
     ]
   ],
   [
