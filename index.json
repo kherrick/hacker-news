@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2025-09-30, 03:17:57",
-      "https://news.ycombinator.com/item?id=45421564"
-    ],
-    [
-      "Hiring only senior engineers is killing companies",
-      "https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 02:26:39",
       "https://news.ycombinator.com/item?id=45421302"
     ],
     [
       "Show HN: Devbox – Containers for better dev environments",
       "https://devbox.ar0.eu/"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 02:13:00",
+      "https://news.ycombinator.com/item?id=45421221"
+    ],
+    [
+      "Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol",
+      "https://github.com/currentspace/capn-rs"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-09-26, 09:27:08",
-      "https://news.ycombinator.com/item?id=45384521"
+      "2025-09-26, 10:18:24",
+      "https://news.ycombinator.com/item?id=45384828"
     ],
     [
-      "Ahab's Arithmetic: The Mathematics of Moby-Dick (2021)",
-      "https://scholarship.claremont.edu/jhm/vol11/iss1/3/"
+      "Redisearch New Vector Quantization",
+      "https://redis.io/blog/tech-dive-comprehensive-compression-leveraging-quantization-and-dimensionality-reduction/"
     ]
   ],
   [
