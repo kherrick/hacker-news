@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 14:45:19](https://news.ycombinator.com/item?id=45426127) - [J.K. Rowling Writes about Her Reasons for Speaking Out on Sex and Gender Issues](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)
 * [2025-09-30, 14:27:07](https://news.ycombinator.com/item?id=45425892) - [Largest Mass Resignation in US History as 100k Federal Workers Quit](https://www.newsweek.com/largest-mass-resignation-in-us-history-as-100000-federal-workers-quit-10802162)
+* [2025-09-30, 14:12:37](https://news.ycombinator.com/item?id=45425714) - [Deml: The Directed Acyclic Graph Elevation Markup Language](https://github.com/Mcmartelle/deml)
 * [2025-09-30, 13:35:23](https://news.ycombinator.com/item?id=45425253) - [Show HN: ProcASM v1.1](https://procasm.temware.site/)
 * [2025-09-30, 13:19:53](https://news.ycombinator.com/item?id=45425061) - [An Opinionated Critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
 * [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
