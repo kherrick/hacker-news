@@ -6,8 +6,11 @@
 
 * [2025-09-30, 17:04:25](https://news.ycombinator.com/item?id=45428122) - [Sora 2](https://openai.com/index/sora-2/)
 * [2025-09-30, 17:01:27](https://news.ycombinator.com/item?id=45428081) - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
+* [2025-09-30, 16:59:11](https://news.ycombinator.com/item?id=45428052) - [Not only am I losing my livelihood to AI – now it's stealing my em dashes too](https://www.theguardian.com/lifeandstyle/2025/oct/01/artificial-intelligence-em-dashes-ai-stealing-my-livelihood)
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Introducing Sora 2 [video]](https://www.youtube.com/watch?v=gzneGhpXwjU)
+* [2025-09-30, 16:43:47](https://news.ycombinator.com/item?id=45427809) - [The Dismantling of the Forest Service](https://www.hcn.org/articles/trump-looks-to-dismantle-the-forest-service/)
 * [2025-09-30, 16:35:16](https://news.ycombinator.com/item?id=45427697) - [Show HN: Sculptor, the Missing UI for Claude Code](https://imbue.com/sculptor/)
+* [2025-09-30, 16:31:27](https://news.ycombinator.com/item?id=45427634) - [A $196 fine-tuned 7B model outperforms OpenAI o3 on document extraction](https://arxiv.org/abs/2509.22906)
 * [2025-09-30, 16:21:09](https://news.ycombinator.com/item?id=45427482) - [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
 * [2025-09-30, 16:00:36](https://news.ycombinator.com/item?id=45427197) - [Leaked Apple M5 9 core Geekbench scores](https://browser.geekbench.com/v6/cpu/14173685)
 * [2025-09-30, 15:50:14](https://news.ycombinator.com/item?id=45427059) - [Visualizations of Random Attractors Found Using Lyapunov Exponents](https://paulbourke.net/fractals/lyapunov/)
