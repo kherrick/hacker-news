@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-30, 07:54:07](https://news.ycombinator.com/item?id=45423014) - [Why Heavy Codes of Conduct Are Unnecessary for Open Source Projects](https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/)
+* [2025-09-30, 06:50:11](https://news.ycombinator.com/item?id=45422653) - [Exploiting huffman table bug in zlib](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
 * [2025-09-30, 06:23:31](https://news.ycombinator.com/item?id=45422514) - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
 * [2025-09-30, 06:23:05](https://news.ycombinator.com/item?id=45422512) - [European Union Public Licence (EUPL)](https://eupl.eu/)
 * [2025-09-30, 05:53:25](https://news.ycombinator.com/item?id=45422353) - [The ABS Programming Language](https://www.abs-lang.org/)
@@ -9,7 +11,6 @@
 * [2025-09-30, 01:46:02](https://news.ycombinator.com/item?id=45421067) - [Awakening Bell](https://awakeningbell.org/)
 * [2025-09-29, 23:32:10](https://news.ycombinator.com/item?id=45420173) - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 * [2025-09-29, 23:12:36](https://news.ycombinator.com/item?id=45420001) - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
-* [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
 * [2025-09-29, 20:58:11](https://news.ycombinator.com/item?id=45418675) - [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
 * [2025-09-29, 20:33:14](https://news.ycombinator.com/item?id=45418428) - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
 * [2025-09-29, 20:19:08](https://news.ycombinator.com/item?id=45418261) - [iRobot Founder: Don't Believe the AI and Robotics Hype](https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/)
@@ -25,7 +26,6 @@
 * [2025-09-29, 13:29:55](https://news.ycombinator.com/item?id=45413525) - [A SQL Heuristic: ORs Are Expensive](https://ethanseal.com/articles/ors-are-expensive)
 * [2025-09-29, 09:34:16](https://news.ycombinator.com/item?id=45411831) - [Bad Apple but it's played inside Super Mario Bros](https://tasvideos.org/8991S)
 * [2025-09-26, 23:52:39](https://news.ycombinator.com/item?id=45392214) - [Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191)
-* [2025-09-26, 22:02:38](https://news.ycombinator.com/item?id=45391467) - [Visualizing Automorphisms of S6](https://travisdoesmath.github.io/s6/)
 * [2025-09-26, 18:01:14](https://news.ycombinator.com/item?id=45389263) - [A Look into Intel Xeon 6's Memory Subsystem](https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory)
 * [2025-09-26, 15:43:50](https://news.ycombinator.com/item?id=45387791) - [Spending time with the material](https://www.robinsloan.com/lab/actually-readable/)
 * [2025-09-26, 06:15:26](https://news.ycombinator.com/item?id=45383284) - [Managing Dotfiles with Make](https://www.matheusmoreira.com/articles/managing-dotfiles-with-make)
