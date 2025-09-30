@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-30, 10:51:45](https://news.ycombinator.com/item?id=45423994) - [Using the TPDE Codegen Back End in LLVM Orc](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html)
 * [2025-09-30, 10:37:39](https://news.ycombinator.com/item?id=45423917) - [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
 * [2025-09-30, 08:50:11](https://news.ycombinator.com/item?id=45423363) - [Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
 * [2025-09-30, 08:36:06](https://news.ycombinator.com/item?id=45423268) - [Disqus Turned My Blog into an Ad Farm – So I Killed It](https://ryansouthgate.com/goodbye-disqus/)
@@ -18,7 +19,6 @@
 * [2025-09-29, 17:12:13](https://news.ycombinator.com/item?id=45416228) - [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
 * [2025-09-29, 17:00:42](https://news.ycombinator.com/item?id=45416080) - [Instant Checkout and the Agentic Commerce Protocol](https://openai.com/index/buy-it-in-chatgpt/)
 * [2025-09-29, 16:52:59](https://news.ycombinator.com/item?id=45415962) - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
-* [2025-09-29, 15:54:42](https://news.ycombinator.com/item?id=45415332) - [Subtleties of SQLite Indexes](https://emschwartz.me/subtleties-of-sqlite-indexes/)
 * [2025-09-29, 15:42:46](https://news.ycombinator.com/item?id=45415207) - [Loadmo.re: design inspiration for unconventional web](https://loadmo.re)
 * [2025-09-29, 15:20:11](https://news.ycombinator.com/item?id=45414933) - [John Jumper: AI is revolutionizing scientific discovery [video]](https://www.youtube.com/watch?v=2Yguz5U-Nic)
 * [2025-09-29, 14:22:39](https://news.ycombinator.com/item?id=45414215) - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
