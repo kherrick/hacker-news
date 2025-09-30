@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-09-30, 07:52:16",
+      "https://news.ycombinator.com/item?id=45423004"
+    ],
+    [
+      "Bcachefs Removed from the Mainline Kernel",
+      "https://lwn.net/Articles/1040120/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 06:50:11",
       "https://news.ycombinator.com/item?id=45422653"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-09-29, 20:33:14",
-      "https://news.ycombinator.com/item?id=45418428"
-    ],
-    [
-      "California governor signs AI transparency bill into law",
-      "https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 20:19:08",
       "https://news.ycombinator.com/item?id=45418261"
     ],
@@ -177,16 +177,6 @@
     [
       "Claude Sonnet 4.5",
       "https://www.anthropic.com/news/claude-sonnet-4-5"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 15:54:42",
-      "https://news.ycombinator.com/item?id=45415332"
-    ],
-    [
-      "Subtleties of SQLite Indexes",
-      "https://emschwartz.me/subtleties-of-sqlite-indexes/"
     ]
   ],
   [
@@ -251,12 +241,22 @@
   ],
   [
     [
-      "2025-09-27, 21:24:46",
-      "https://news.ycombinator.com/item?id=45399433"
+      "2025-09-26, 23:52:39",
+      "https://news.ycombinator.com/item?id=45392214"
     ],
     [
-      "When did human chromosome 2 fuse?(2023)",
-      "https://www.johnhawks.net/p/when-did-human-chromosome-2-fuse"
+      "Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011",
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 18:33:37",
+      "https://news.ycombinator.com/item?id=45389589"
+    ],
+    [
+      "Implementing a Kalman Filter in Postgres",
+      "https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data"
     ]
   ],
   [
