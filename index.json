@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-09-30, 20:49:34",
-      "https://news.ycombinator.com/item?id=45431047"
-    ],
-    [
-      "Observation and Trauma: How Professionals Handle Observing Trauma",
-      "https://trainedobserver.substack.com/p/observation-and-trauma"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 20:44:30",
       "https://news.ycombinator.com/item?id=45431001"
     ],
@@ -297,6 +287,16 @@
     [
       "Finding and Understanding Bugs in C Compilers (2011) [pdf]",
       "https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 11:42:04",
+      "https://news.ycombinator.com/item?id=45385354"
+    ],
+    [
+      "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
+      "https://dl.acm.org/doi/10.1145/359024.359031"
     ]
   ]
 ]
