@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-09-30, 13:35:23](https://news.ycombinator.com/item?id=45425253) - [Show HN: ProcASM v1.1](https://procasm.temware.site/)
 * [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
 * [2025-09-30, 12:55:26](https://news.ycombinator.com/item?id=45424840) - [AI Actress Tilly Norwood Condemned by Sag-Aftra: Tilly 'Is Not an Actor '](https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/)
 * [2025-09-30, 12:53:18](https://news.ycombinator.com/item?id=45424822) - [Senators try to halt shuttle move, saying \"little evidence\" of public demand](https://arstechnica.com/space/2025/09/senators-to-appropriators-leave-space-shuttle-discovery-in-smithsonian/)
@@ -11,10 +12,10 @@
 * [2025-09-30, 08:50:11](https://news.ycombinator.com/item?id=45423363) - [Can you use GDPR to circumvent BlueSky's adult content blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
 * [2025-09-30, 08:36:06](https://news.ycombinator.com/item?id=45423268) - [I’ve removed Disqus. It was making my blog worse](https://ryansouthgate.com/goodbye-disqus/)
 * [2025-09-30, 07:52:16](https://news.ycombinator.com/item?id=45423004) - [Bcachefs removed from the mainline kernel](https://lwn.net/Articles/1040120/)
+* [2025-09-30, 06:50:11](https://news.ycombinator.com/item?id=45422653) - [Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
 * [2025-09-30, 06:23:31](https://news.ycombinator.com/item?id=45422514) - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
 * [2025-09-30, 05:53:25](https://news.ycombinator.com/item?id=45422353) - [The ABS programming language](https://www.abs-lang.org/)
 * [2025-09-30, 02:26:39](https://news.ycombinator.com/item?id=45421302) - [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/)
-* [2025-09-30, 01:46:02](https://news.ycombinator.com/item?id=45421067) - [Awakening Bell](https://awakeningbell.org/)
 * [2025-09-29, 23:32:10](https://news.ycombinator.com/item?id=45420173) - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 * [2025-09-29, 23:12:36](https://news.ycombinator.com/item?id=45420001) - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
 * [2025-09-29, 20:58:11](https://news.ycombinator.com/item?id=45418675) - [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
@@ -23,13 +24,12 @@
 * [2025-09-29, 17:00:42](https://news.ycombinator.com/item?id=45416080) - [Instant Checkout and the Agentic Commerce Protocol](https://openai.com/index/buy-it-in-chatgpt/)
 * [2025-09-29, 16:52:59](https://news.ycombinator.com/item?id=45415962) - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
 * [2025-09-29, 15:42:46](https://news.ycombinator.com/item?id=45415207) - [Loadmo.re: design inspiration for unconventional web](https://loadmo.re)
-* [2025-09-29, 13:29:55](https://news.ycombinator.com/item?id=45413525) - [A SQL Heuristic: ORs Are Expensive](https://ethanseal.com/articles/ors-are-expensive)
 * [2025-09-29, 09:34:16](https://news.ycombinator.com/item?id=45411831) - [Bad Apple but it's played inside Super Mario Bros](https://tasvideos.org/8991S)
+* [2025-09-27, 01:23:58](https://news.ycombinator.com/item?id=45392602) - [Show HN: A web version of Pips game (NYT domino game)](https://pipsgamer.com)
 * [2025-09-26, 18:43:58](https://news.ycombinator.com/item?id=45389716) - [How Does Lossless Compression in Fuji RAF Files Work? (2020)](https://capnfabs.net/posts/fuji-raf-compression-algorithm/)
 * [2025-09-26, 18:33:37](https://news.ycombinator.com/item?id=45389589) - [Implementing a Kalman Filter in Postgres](https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data)
 * [2025-09-26, 14:23:41](https://news.ycombinator.com/item?id=45386836) - [A tutorial for the Mercury programming language](https://sebastian.graphics/projects/a-mercury-tutorial/index.html)
 * [2025-09-26, 11:42:04](https://news.ycombinator.com/item?id=45385354) - [Design of the SCHEME-78 Lisp-based microprocessor (1980)](https://dl.acm.org/doi/10.1145/359024.359031)
-* [2025-09-26, 03:28:05](https://news.ycombinator.com/item?id=45382300) - [Voronoi map generation in Civilization VII](https://civilization.2k.com/civ-vii/from-the-devs/map-generation/)
 
 ## [Archives](archives/index.md)
 
