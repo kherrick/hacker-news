@@ -13,6 +13,7 @@
 * [2025-09-26, 22:17:18](https://news.ycombinator.com/item?id=45391568) - [Bell Labs Scientists Accidentally Proved the Big Bang Theory](https://spectrum.ieee.org/big-bang-theory-discovery)
 * [2025-09-26, 22:17:03](https://news.ycombinator.com/item?id=45391566) - [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
 * [2025-09-26, 22:13:56](https://news.ycombinator.com/item?id=45391543) - [Game over for pure LLMs. Even Rich Sutton has gotten off the bus](https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing)
+* [2025-09-26, 22:02:38](https://news.ycombinator.com/item?id=45391467) - [Visualizing Automorphisms of S6](https://travisdoesmath.github.io/s6/)
 * [2025-09-26, 22:01:45](https://news.ycombinator.com/item?id=45391461) - [Israel hacked every Gaza cellphone to stream PM Netanyahu's UN Speech live](https://twitter.com/israelipm/status/1971570108322480350)
 * [2025-09-26, 21:59:57](https://news.ycombinator.com/item?id=45391444) - [Moondream 3 Preview: Frontier-level reasoning at a blazing speed](https://moondream.ai/blog/moondream-3-preview)
 * [2025-09-26, 21:44:03](https://news.ycombinator.com/item?id=45391328) - [GriffonAD: A new tool to exploit bad configurations in Active Directory](https://github.com/shellinvictus/GriffonAD)

@@ -65,6 +65,7 @@
 * [2025-09-29, 10:21:23](https://news.ycombinator.com/item?id=45412075) - [Avalanche Studios NYC Retrospective – An Ambitious Company Ruined](https://probablydance.com/2025/09/28/avalanche-studios-nyc-retrospective-an-ambitious-company-ruined-by-bad-development-practices/)
 * [2025-09-29, 10:11:20](https://news.ycombinator.com/item?id=45412022) - [Optimizing a 6502 image decoder, from 70 minutes to 1 minute](https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/)
 * [2025-09-29, 10:04:06](https://news.ycombinator.com/item?id=45411990) - [The graduate 'jobpocalypse': Where have all the entry-level jobs gone? [video]](https://www.youtube.com/watch?v=IeTFpsuCor8)
+* [2025-09-29, 09:34:16](https://news.ycombinator.com/item?id=45411831) - [Bad Apple but it's played inside Super Mario Bros](https://tasvideos.org/8991S)
 * [2025-09-29, 08:59:15](https://news.ycombinator.com/item?id=45411666) - [Twenty Lessons on Fighting Tyranny from the Twentieth Century](https://scholars.org/contribution/twenty-lessons-fighting-tyranny-twentieth)
 * [2025-09-29, 07:57:39](https://news.ycombinator.com/item?id=45411332) - [Google just erased 7 years of our political history](https://www.thebriefing.ie/google-just-erased-7-years-of-our-political-history/)
 * [2025-09-29, 07:50:24](https://news.ycombinator.com/item?id=45411291) - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
