@@ -7,7 +7,6 @@
 * [2025-09-30, 02:26:39](https://news.ycombinator.com/item?id=45421302) - [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/)
 * [2025-09-30, 02:13:00](https://news.ycombinator.com/item?id=45421221) - [Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol](https://github.com/currentspace/capn-rs)
 * [2025-09-30, 01:46:02](https://news.ycombinator.com/item?id=45421067) - [Awakening Bell](https://awakeningbell.org/)
-* [2025-09-29, 23:56:31](https://news.ycombinator.com/item?id=45420327) - [FAA is granting Boeing “limited delegation” to certify airworthiness](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
 * [2025-09-29, 23:32:10](https://news.ycombinator.com/item?id=45420173) - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 * [2025-09-29, 23:12:36](https://news.ycombinator.com/item?id=45420001) - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
 * [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
@@ -28,6 +27,7 @@
 * [2025-09-26, 23:52:39](https://news.ycombinator.com/item?id=45392214) - [Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191)
 * [2025-09-26, 22:02:38](https://news.ycombinator.com/item?id=45391467) - [Visualizing Automorphisms of S6](https://travisdoesmath.github.io/s6/)
 * [2025-09-26, 15:43:50](https://news.ycombinator.com/item?id=45387791) - [Spending time with the material](https://www.robinsloan.com/lab/actually-readable/)
+* [2025-09-26, 10:18:24](https://news.ycombinator.com/item?id=45384828) - [Redisearch New Vector Quantization](https://redis.io/blog/tech-dive-comprehensive-compression-leveraging-quantization-and-dimensionality-reduction/)
 * [2025-09-26, 06:15:26](https://news.ycombinator.com/item?id=45383284) - [Managing Dotfiles with Make](https://www.matheusmoreira.com/articles/managing-dotfiles-with-make)
 * [2025-09-26, 03:28:05](https://news.ycombinator.com/item?id=45382300) - [Voronoi map generation in Civilization VII](https://civilization.2k.com/civ-vii/from-the-devs/map-generation/)
 
