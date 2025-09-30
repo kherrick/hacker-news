@@ -12,6 +12,7 @@
 * [2025-09-30, 12:33:43](https://news.ycombinator.com/item?id=45424648) - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
 * [2025-09-30, 12:24:13](https://news.ycombinator.com/item?id=45424573) - [Chat Control Is Back on the Menu in the EU. It Still Must Be Stopped](https://www.eff.org/deeplinks/2025/09/chat-control-back-menu-eu-it-still-must-be-stopped-0)
 * [2025-09-30, 12:00:39](https://news.ycombinator.com/item?id=45424412) - [Airgoods (YC S23) Is Hiring](https://airgoods.com/careers?utm_source=hacker_news)
+* [2025-09-30, 11:31:04](https://news.ycombinator.com/item?id=45424223) - [Orbiting the Hénon Attractor](https://observablehq.com/@yurivish/orbiting-the-henon-attractor)
 * [2025-09-30, 11:29:41](https://news.ycombinator.com/item?id=45424217) - [Apple HomeKit – The Long Con](https://www.naut.ca/blog/2025/08/29/apple-homekit-the-long-con/)
 * [2025-09-30, 10:51:45](https://news.ycombinator.com/item?id=45423994) - [Using the TPDE Codegen Back End in LLVM Orc](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html)
 * [2025-09-30, 10:37:39](https://news.ycombinator.com/item?id=45423917) - [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
