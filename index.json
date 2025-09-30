@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-09-30, 16:59:11",
+      "https://news.ycombinator.com/item?id=45428052"
+    ],
+    [
+      "Not only am I losing my livelihood to AI – now it's stealing my em dashes too",
+      "https://www.theguardian.com/lifeandstyle/2025/oct/01/artificial-intelligence-em-dashes-ai-stealing-my-livelihood"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 16:55:01",
       "https://news.ycombinator.com/item?id=45427982"
     ],
@@ -31,12 +41,32 @@
   ],
   [
     [
+      "2025-09-30, 16:43:47",
+      "https://news.ycombinator.com/item?id=45427809"
+    ],
+    [
+      "The Dismantling of the Forest Service",
+      "https://www.hcn.org/articles/trump-looks-to-dismantle-the-forest-service/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 16:35:16",
       "https://news.ycombinator.com/item?id=45427697"
     ],
     [
       "Show HN: Sculptor, the Missing UI for Claude Code",
       "https://imbue.com/sculptor/"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 16:31:27",
+      "https://news.ycombinator.com/item?id=45427634"
+    ],
+    [
+      "A $196 fine-tuned 7B model outperforms OpenAI o3 on document extraction",
+      "https://arxiv.org/abs/2509.22906"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-09-30, 10:51:45",
-      "https://news.ycombinator.com/item?id=45423994"
-    ],
-    [
-      "Using the TPDE Codegen Back End in LLVM Orc",
-      "https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 10:37:39",
       "https://news.ycombinator.com/item?id=45423917"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-09-29, 23:12:36",
-      "https://news.ycombinator.com/item?id=45420001"
-    ],
-    [
-      "Safe zero-copy operations in C#",
-      "https://ssg.dev/safe-zero-copy-operations-in-c/"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 17:12:13",
       "https://news.ycombinator.com/item?id=45416228"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-09-29, 09:34:16",
-      "https://news.ycombinator.com/item?id=45411831"
+      "2025-09-27, 12:30:41",
+      "https://news.ycombinator.com/item?id=45395156"
     ],
     [
-      "Bad Apple but it's played inside Super Mario Bros",
-      "https://tasvideos.org/8991S"
+      "A Gentle Introduction to CUDA PTX",
+      "https://philipfabianek.com/posts/cuda-ptx-introduction/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How Does Lossless Compression in Fuji RAF Files Work? (2020)",
       "https://capnfabs.net/posts/fuji-raf-compression-algorithm/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 11:42:04",
-      "https://news.ycombinator.com/item?id=45385354"
-    ],
-    [
-      "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
-      "https://dl.acm.org/doi/10.1145/359024.359031"
     ]
   ]
 ]
