@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-09-29, 19:16:40",
+      "https://news.ycombinator.com/item?id=45417637"
+    ],
+    [
+      "Don't Become a Scientist (1999)",
+      "https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 18:46:15",
       "https://news.ycombinator.com/item?id=45417300"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-09-29, 16:40:05",
-      "https://news.ycombinator.com/item?id=45415814"
-    ],
-    [
-      "Sandboxing AI agents at the kernel level",
-      "https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 16:12:30",
       "https://news.ycombinator.com/item?id=45415510"
     ],
@@ -167,16 +167,6 @@
     [
       "Loadmo.re: design inspiration for unconventional web",
       "https://loadmo.re"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 15:40:30",
-      "https://news.ycombinator.com/item?id=45415178"
-    ],
-    [
-      "How the Brain Balances Excitation and Inhibition",
-      "https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/"
     ]
   ],
   [
@@ -241,12 +231,32 @@
   ],
   [
     [
+      "2025-09-29, 09:34:16",
+      "https://news.ycombinator.com/item?id=45411831"
+    ],
+    [
+      "Bad Apple but it's played inside Super Mario Bros",
+      "https://tasvideos.org/8991S"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 23:31:19",
       "https://news.ycombinator.com/item?id=45400246"
     ],
     [
       "Faster Virtual Machines: Speeding Up Programming Language Execution (2023)",
       "https://mort.coffee/home/fast-interpreters/"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 22:02:38",
+      "https://news.ycombinator.com/item?id=45391467"
+    ],
+    [
+      "Visualizing Automorphisms of S6",
+      "https://travisdoesmath.github.io/s6/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Voronoi map generation in Civilization VII",
       "https://civilization.2k.com/civ-vii/from-the-devs/map-generation/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 23:12:58",
-      "https://news.ycombinator.com/item?id=45380510"
-    ],
-    [
-      "C2PA Investigations",
-      "https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations"
     ]
   ]
 ]
