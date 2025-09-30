@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 06:23:31](https://news.ycombinator.com/item?id=45422514) - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
 * [2025-09-30, 04:14:13](https://news.ycombinator.com/item?id=45421812) - [AI tools I wish existed](https://sharif.io/28-ideas-2025)
 * [2025-09-30, 03:17:57](https://news.ycombinator.com/item?id=45421564) - [Hiring only senior engineers is killing companies](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
 * [2025-09-30, 02:26:39](https://news.ycombinator.com/item?id=45421302) - [Show HN: Devbox – Containers for better dev environments (ar0.eu)](https://devbox.ar0.eu/)
