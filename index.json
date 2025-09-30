@@ -1,22 +1,52 @@
 [
   [
     [
-      "2025-09-29, 22:52:04",
-      "https://news.ycombinator.com/item?id=45419841"
+      "2025-09-30, 00:55:41",
+      "https://news.ycombinator.com/item?id=45420751"
     ],
     [
-      "All the sad young terminally online men",
-      "https://www.derekthompson.org/p/all-the-sad-young-terminally-online"
+      "Why is Google charging me $5-10 per click for my own brand name searches",
+      "https://news.ycombinator.com/item?id=45420751"
     ]
   ],
   [
     [
-      "2025-09-29, 22:03:31",
-      "https://news.ycombinator.com/item?id=45419341"
+      "2025-09-29, 23:56:31",
+      "https://news.ycombinator.com/item?id=45420327"
     ],
     [
-      "Technology without humanity means nothing",
-      "https://moneo.com.tr/blog/technology-without-humanity-means-nothing"
+      "FAA decides it trusts Boeing enough to certify safety of its own planes again",
+      "https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 23:32:10",
+      "https://news.ycombinator.com/item?id=45420173"
+    ],
+    [
+      "How to Create an OS from Scratch",
+      "https://github.com/cfenollosa/os-tutorial"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 23:12:36",
+      "https://news.ycombinator.com/item?id=45420001"
+    ],
+    [
+      "Safe zero-copy operations in C#",
+      "https://ssg.dev/safe-zero-copy-operations-in-c/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 21:42:39",
+      "https://news.ycombinator.com/item?id=45419124"
+    ],
+    [
+      "Can LIGO Detect Daylight Savings Time?",
+      "https://arxiv.org/abs/2509.11849"
     ]
   ],
   [
@@ -61,22 +91,12 @@
   ],
   [
     [
-      "2025-09-29, 20:19:54",
-      "https://news.ycombinator.com/item?id=45418269"
+      "2025-09-29, 20:19:08",
+      "https://news.ycombinator.com/item?id=45418261"
     ],
     [
-      "Remember: Kurt Vonnegut Was 47",
-      "https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 19:31:22",
-      "https://news.ycombinator.com/item?id=45417771"
-    ],
-    [
-      "What Is Artificial General Intelligence?",
-      "https://arxiv.org/abs/2503.23923"
+      "iRobot Founder: Don't Believe the (AI and Robotics) Hype",
+      "https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Diagnosing a Linux Performance Regression",
       "https://automattic.com/2024/03/14/systems-report-linux-performance-regression/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 17:12:58",
-      "https://news.ycombinator.com/item?id=45416231"
-    ],
-    [
-      "FCC Accidentally Leaked iPhone Schematics",
-      "https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-09-29, 15:40:30",
-      "https://news.ycombinator.com/item?id=45415178"
-    ],
-    [
-      "How the Brain Balances Excitation and Inhibition",
-      "https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 15:20:11",
       "https://news.ycombinator.com/item?id=45414933"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-09-26, 09:13:23",
-      "https://news.ycombinator.com/item?id=45384438"
+      "2025-09-26, 15:43:50",
+      "https://news.ycombinator.com/item?id=45387791"
     ],
     [
-      "If Odin Had Macros",
-      "https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/"
+      "Spending Time with the Material",
+      "https://www.robinsloan.com/lab/actually-readable/"
     ]
   ],
   [
@@ -267,6 +267,16 @@
     [
       "`std::flip`",
       "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 06:15:26",
+      "https://news.ycombinator.com/item?id=45383284"
+    ],
+    [
+      "Managing Dotfiles with Make",
+      "https://www.matheusmoreira.com/articles/managing-dotfiles-with-make"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "C2PA Investigations",
       "https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 21:16:24",
-      "https://news.ycombinator.com/item?id=45379196"
-    ],
-    [
-      "The phaseout of the mmap() file operation in Linux",
-      "https://lwn.net/SubscriberLink/1038715/e4a2f8f50c244545/"
     ]
   ]
 ]
