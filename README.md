@@ -2,7 +2,6 @@
 
 * [2025-09-30, 13:35:23](https://news.ycombinator.com/item?id=45425253) - [Show HN: ProcASM v1.1](https://procasm.temware.site/)
 * [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
-* [2025-09-30, 12:55:26](https://news.ycombinator.com/item?id=45424840) - [AI Actress Tilly Norwood Condemned by Sag-Aftra: Tilly 'Is Not an Actor '](https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/)
 * [2025-09-30, 12:53:18](https://news.ycombinator.com/item?id=45424822) - [Senators try to halt shuttle move, saying \"little evidence\" of public demand](https://arstechnica.com/space/2025/09/senators-to-appropriators-leave-space-shuttle-discovery-in-smithsonian/)
 * [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 * [2025-09-30, 12:33:43](https://news.ycombinator.com/item?id=45424648) - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
@@ -16,6 +15,7 @@
 * [2025-09-30, 06:23:31](https://news.ycombinator.com/item?id=45422514) - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
 * [2025-09-30, 05:53:25](https://news.ycombinator.com/item?id=45422353) - [The ABS programming language](https://www.abs-lang.org/)
 * [2025-09-30, 02:26:39](https://news.ycombinator.com/item?id=45421302) - [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/)
+* [2025-09-30, 01:46:02](https://news.ycombinator.com/item?id=45421067) - [Awakening Bell](https://awakeningbell.org/)
 * [2025-09-29, 23:32:10](https://news.ycombinator.com/item?id=45420173) - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 * [2025-09-29, 23:12:36](https://news.ycombinator.com/item?id=45420001) - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
 * [2025-09-29, 20:58:11](https://news.ycombinator.com/item?id=45418675) - [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
