@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-30, 10:37:39",
+      "https://news.ycombinator.com/item?id=45423917"
+    ],
+    [
+      "Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code",
+      "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 08:50:11",
       "https://news.ycombinator.com/item?id=45423363"
     ],
@@ -277,16 +287,6 @@
     [
       "Design of the SCHEME-78 Lisp-based microprocessor",
       "https://dl.acm.org/doi/10.1145/359024.359031"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 06:15:26",
-      "https://news.ycombinator.com/item?id=45383284"
-    ],
-    [
-      "Managing Dotfiles with Make",
-      "https://www.matheusmoreira.com/articles/managing-dotfiles-with-make"
     ]
   ],
   [
