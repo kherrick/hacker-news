@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 20:00:21](https://news.ycombinator.com/item?id=45430498) - [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
 * [2025-09-30, 19:23:34](https://news.ycombinator.com/item?id=45430048) - [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
 * [2025-09-30, 18:12:01](https://news.ycombinator.com/item?id=45429041) - [50 Things I Know](https://rebeccadai.substack.com/p/50-things-i-know)
 * [2025-09-30, 17:46:36](https://news.ycombinator.com/item?id=45428691) - [Hedge Funds Have to Be Big](https://www.bloomberg.com/opinion/newsletters/2025-09-30/hedge-funds-have-to-be-big)
@@ -20,6 +21,7 @@
 * [2025-09-30, 16:21:09](https://news.ycombinator.com/item?id=45427482) - [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
 * [2025-09-30, 16:00:36](https://news.ycombinator.com/item?id=45427197) - [Leaked Apple M5 9 core Geekbench scores](https://browser.geekbench.com/v6/cpu/14173685)
 * [2025-09-30, 15:54:14](https://news.ycombinator.com/item?id=45427111) - [Cerebras Systems Raises $1.1B Series G at $8.1B Valuation](https://www.cerebras.ai/press-release/series-g)
+* [2025-09-30, 15:50:22](https://news.ycombinator.com/item?id=45427061) - [Prompt analytics for MCP servers](https://hyprmcp.com/blog/mcp-server-prompt-analytics/)
 * [2025-09-30, 15:50:14](https://news.ycombinator.com/item?id=45427059) - [Visualizations of Random Attractors Found Using Lyapunov Exponents](https://paulbourke.net/fractals/lyapunov/)
 * [2025-09-30, 15:46:37](https://news.ycombinator.com/item?id=45427021) - [Why I no longer recommend Julia](https://yuri.is/not-julia/)
 * [2025-09-30, 15:35:21](https://news.ycombinator.com/item?id=45426858) - [Charlie Javice sentenced to 7 years in prison for fraudulent $175M sale of Frank](https://www.nbcnews.com/business/business-news/charlie-javice-sentenced-7-years-prison-fraudulent-175m-sale-financial-rcna234536)
