@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
 * [2025-09-30, 13:35:23](https://news.ycombinator.com/item?id=45425253) - [Show HN: ProcASM v1.1](https://procasm.temware.site/)
+* [2025-09-30, 13:19:53](https://news.ycombinator.com/item?id=45425061) - [An Opinionated Critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
 * [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
 * [2025-09-30, 12:55:26](https://news.ycombinator.com/item?id=45424840) - [AI Actress Tilly Norwood Condemned by Sag-Aftra: Tilly 'Is Not an Actor '](https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/)
 * [2025-09-30, 12:53:18](https://news.ycombinator.com/item?id=45424822) - [Senators try to halt shuttle move, saying \"little evidence\" of public demand](https://arstechnica.com/space/2025/09/senators-to-appropriators-leave-space-shuttle-discovery-in-smithsonian/)

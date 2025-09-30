@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-09-30, 13:35:23](https://news.ycombinator.com/item?id=45425253) - [Show HN: ProcASM v1.1](https://procasm.temware.site/)
-* [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
-* [2025-09-30, 12:53:18](https://news.ycombinator.com/item?id=45424822) - [Senators try to halt shuttle move, saying \"little evidence\" of public demand](https://arstechnica.com/space/2025/09/senators-to-appropriators-leave-space-shuttle-discovery-in-smithsonian/)
+* [2025-09-30, 13:19:53](https://news.ycombinator.com/item?id=45425061) - [An Opinionated Critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
 * [2025-09-30, 12:33:43](https://news.ycombinator.com/item?id=45424648) - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
 * [2025-09-30, 12:00:39](https://news.ycombinator.com/item?id=45424412) - [Airgoods (YC S23) Is Hiring](https://airgoods.com/careers?utm_source=hacker_news)
 * [2025-09-30, 11:31:04](https://news.ycombinator.com/item?id=45424223) - [Orbiting the Hénon Attractor](https://observablehq.com/@yurivish/orbiting-the-henon-attractor)
@@ -25,6 +24,7 @@
 * [2025-09-29, 16:52:59](https://news.ycombinator.com/item?id=45415962) - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
 * [2025-09-29, 15:42:46](https://news.ycombinator.com/item?id=45415207) - [Loadmo.re: design inspiration for unconventional web](https://loadmo.re)
 * [2025-09-29, 09:34:16](https://news.ycombinator.com/item?id=45411831) - [Bad Apple but it's played inside Super Mario Bros](https://tasvideos.org/8991S)
+* [2025-09-28, 12:57:34](https://news.ycombinator.com/item?id=45404007) - [Wtm (Worktree Manager): A simpler way to work with Git Worktrees](https://github.com/jarredkenny/worktree-manager)
 * [2025-09-27, 01:23:58](https://news.ycombinator.com/item?id=45392602) - [Show HN: A web version of Pips game (NYT domino game)](https://pipsgamer.com)
 * [2025-09-26, 18:43:58](https://news.ycombinator.com/item?id=45389716) - [How Does Lossless Compression in Fuji RAF Files Work? (2020)](https://capnfabs.net/posts/fuji-raf-compression-algorithm/)
 * [2025-09-26, 18:33:37](https://news.ycombinator.com/item?id=45389589) - [Implementing a Kalman Filter in Postgres](https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data)
