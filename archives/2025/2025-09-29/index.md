@@ -22,6 +22,7 @@
 * [2025-09-29, 19:31:22](https://news.ycombinator.com/item?id=45417771) - [What is artificial general intelligence?](https://arxiv.org/abs/2503.23923)
 * [2025-09-29, 19:24:58](https://news.ycombinator.com/item?id=45417711) - ['Based on a True Story'](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
 * [2025-09-29, 19:16:40](https://news.ycombinator.com/item?id=45417637) - [Don't Become a Scientist](https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm)
+* [2025-09-29, 19:14:57](https://news.ycombinator.com/item?id=45417616) - [Register allocation in the Go compiler (2024)](https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html)
 * [2025-09-29, 19:06:04](https://news.ycombinator.com/item?id=45417523) - [Oracle will have to borrow at least $25B a year to fund AI fantasy, says analyst](https://www.theregister.com/2025/09/29/oracle_ai_debt/)
 * [2025-09-29, 18:46:15](https://news.ycombinator.com/item?id=45417300) - [Diagnosing a Linux Performance Regression](https://automattic.com/2024/03/14/systems-report-linux-performance-regression/)
 * [2025-09-29, 17:41:00](https://news.ycombinator.com/item?id=45416572) - [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
