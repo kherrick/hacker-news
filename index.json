@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-09-30, 17:04:25",
-      "https://news.ycombinator.com/item?id=45428122"
-    ],
-    [
-      "Sora 2",
-      "https://openai.com/index/sora-2/"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 17:01:27",
       "https://news.ycombinator.com/item?id=45428081"
     ],
@@ -65,8 +55,8 @@
       "https://news.ycombinator.com/item?id=45427982"
     ],
     [
-      "Introducing Sora 2 [video]",
-      "https://www.youtube.com/watch?v=gzneGhpXwjU"
+      "Sora 2",
+      "https://openai.com/index/sora-2/"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45427634"
     ],
     [
-      "A $196 fine-tuned 7B model outperforms OpenAI o3 on document extraction",
+      "Extract-0: A specialized language model for document information extraction",
       "https://arxiv.org/abs/2509.22906"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=45426680"
     ],
     [
-      "Designing Agentic Loops",
+      "Designing agentic loops",
       "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=45425714"
     ],
     [
-      "Deml: The Directed Acyclic Graph Elevation Markup Language",
+      "Deml: Directed Acyclic Graph Elevation Markup Language",
       "https://github.com/Mcmartelle/deml"
     ]
   ],
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2025-09-30, 03:17:57",
+      "https://news.ycombinator.com/item?id=45421564"
+    ],
+    [
+      "There is a huge pool of exceptional junior engineers",
+      "https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 13:19:25",
       "https://news.ycombinator.com/item?id=45395495"
     ],
     [
-      "Conway's Pinwheel Tiling",
+      "Conway's pinwheel tiling",
       "https://www.johndcook.com/blog/2025/09/25/conways-pinwheel-tiling/"
     ]
   ],
