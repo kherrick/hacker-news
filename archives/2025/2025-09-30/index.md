@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
+* [2025-09-30, 12:55:26](https://news.ycombinator.com/item?id=45424840) - [AI Actress Tilly Norwood Condemned by Sag-Aftra: Tilly 'Is Not an Actor '](https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/)
+* [2025-09-30, 12:53:18](https://news.ycombinator.com/item?id=45424822) - [Senators try to halt shuttle move, saying \"little evidence\" of public demand](https://arstechnica.com/space/2025/09/senators-to-appropriators-leave-space-shuttle-discovery-in-smithsonian/)
+* [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
+* [2025-09-30, 12:33:43](https://news.ycombinator.com/item?id=45424648) - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
 * [2025-09-30, 12:24:13](https://news.ycombinator.com/item?id=45424573) - [Chat Control Is Back on the Menu in the EU. It Still Must Be Stopped](https://www.eff.org/deeplinks/2025/09/chat-control-back-menu-eu-it-still-must-be-stopped-0)
 * [2025-09-30, 12:00:39](https://news.ycombinator.com/item?id=45424412) - [Airgoods (YC S23) Is Hiring](https://airgoods.com/careers?utm_source=hacker_news)
 * [2025-09-30, 11:29:41](https://news.ycombinator.com/item?id=45424217) - [Apple HomeKit – The Long Con](https://www.naut.ca/blog/2025/08/29/apple-homekit-the-long-con/)
