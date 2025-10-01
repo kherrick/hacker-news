@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 * [2025-10-01, 21:54:46](https://news.ycombinator.com/item?id=45444004) - [Egg-Shaped Curves](https://nyjp07.com/index_egg_E.html)
 * [2025-10-01, 21:40:54](https://news.ycombinator.com/item?id=45443881) - [US gov shutdown leaves IT projects hanging, security defenders a skeleton crew](https://www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/)
 * [2025-10-01, 21:00:18](https://news.ycombinator.com/item?id=45443462) - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
@@ -32,6 +33,7 @@
 * [2025-10-01, 17:08:41](https://news.ycombinator.com/item?id=45440207) - [Supreme Court lets Fed Governor Cook keep job pending oral argument in January](https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html)
 * [2025-10-01, 16:54:05](https://news.ycombinator.com/item?id=45440028) - [Walmart U.S. Moves to Eliminate Synthetic Dyes Across All Private Brand Foods](https://corporate.walmart.com/news/2025/10/01/walmart-u-s-moves-to-eliminate-synthetic-dyes-across-all-private-brand-food-products)
 * [2025-10-01, 16:52:21](https://news.ycombinator.com/item?id=45440005) - [Why Is Python So Popular in 2025? – The PyCharm Blog](https://blog.jetbrains.com/pycharm/2025/09/why-is-python-so-popular/)
+* [2025-10-01, 16:51:58](https://news.ycombinator.com/item?id=45439997) - [The RAG Obituary: Killed by agents, buried by context windows](https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents)
 * [2025-10-01, 16:48:20](https://news.ycombinator.com/item?id=45439955) - [Codeberg Reaches 300k Projects](https://codeberg.org/)
 * [2025-10-01, 16:43:40](https://news.ycombinator.com/item?id=45439892) - [Supreme Court Blocks Removal of Fed Governor Lisa Cook](https://techyquantum.com/lisa-cook-fed-board-supreme-court/)
 * [2025-10-01, 16:42:50](https://news.ycombinator.com/item?id=45439883) - [DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/)
