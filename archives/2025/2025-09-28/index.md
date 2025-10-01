@@ -62,6 +62,7 @@
 * [2025-09-28, 11:17:55](https://news.ycombinator.com/item?id=45403501) - [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free)
 * [2025-09-28, 10:52:10](https://news.ycombinator.com/item?id=45403373) - [1982: Fred Dibnah shows how to erect a CHIMNEY SCAFFOLD at 200 feet [video]](https://www.youtube.com/watch?v=w3ma9iYx4rg)
 * [2025-09-28, 10:36:23](https://news.ycombinator.com/item?id=45403288) - [Show HN: Curated gamedev specific search engine](https://gamedevtorch.com/)
+* [2025-09-28, 10:21:22](https://news.ycombinator.com/item?id=45403225) - [Galileo Bad, Archimedes Good](https://intellectualmathematics.com/blog/galileo-bad-archimedes-good/)
 * [2025-09-28, 10:00:05](https://news.ycombinator.com/item?id=45403134) - [US Military struggling to deploy AI weapons](https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK)
 * [2025-09-28, 09:47:06](https://news.ycombinator.com/item?id=45403078) - [Hardware inspector fired for spotting an error he wasn't trained to find](https://www.theregister.com/2025/09/26/on_call/)
 * [2025-09-28, 08:53:36](https://news.ycombinator.com/item?id=45402820) - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
