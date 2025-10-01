@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-01, 16:52:21](https://news.ycombinator.com/item?id=45440005) - [Why Is Python So Popular in 2025? – The PyCharm Blog](https://blog.jetbrains.com/pycharm/2025/09/why-is-python-so-popular/)
+* [2025-10-01, 16:48:20](https://news.ycombinator.com/item?id=45439955) - [Codeberg Reaches 300k Projects](https://codeberg.org/)
 * [2025-10-01, 16:30:16](https://news.ycombinator.com/item?id=45439721) - [Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts](https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/)
+* [2025-10-01, 16:25:58](https://news.ycombinator.com/item?id=45439670) - [No more \"check mail from other accounts\" in Gmail web](https://support.google.com/mail/answer/16604719?hl=en)
 * [2025-10-01, 15:15:44](https://news.ycombinator.com/item?id=45438704) - [MIT technology can see microbes from 90 meters away](https://www.asimov.press/p/hyperspectral)
-* [2025-10-01, 15:00:41](https://news.ycombinator.com/item?id=45438496) - [Building a 30 PB storage cluster in the heart of SF](https://si.inc/posts/the-heap/)
+* [2025-10-01, 15:00:41](https://news.ycombinator.com/item?id=45438496) - [Building the heap: racking 30 petabytes of hard drives for pretraining](https://si.inc/posts/the-heap/)
 * [2025-10-01, 14:48:31](https://news.ycombinator.com/item?id=45438346) - [Show HN: Autism Simulator](https://autism-simulator.vercel.app/)
-* [2025-10-01, 14:31:37](https://news.ycombinator.com/item?id=45438170) - [Technical Analysis of SAP Exploit Script Used in JLR, Harrods Hacks](https://detect.fyi/technical-analysis-of-sap-exploit-script-visual-composer-metadata-uploader-exploit-7b4a01b38548)
 * [2025-10-01, 14:07:04](https://news.ycombinator.com/item?id=45437906) - [Show HN: Resterm – A terminal-based REST/GraphQL and gRPC client](https://github.com/unkn0wn-root/resterm)
 * [2025-10-01, 14:05:45](https://news.ycombinator.com/item?id=45437893) - [Unix philosophy and filesystem access makes Claude Code amazing](https://www.alephic.com/writing/the-magic-of-claude-code)
 * [2025-10-01, 13:51:03](https://news.ycombinator.com/item?id=45437735) - [Cursor 1.7](https://cursor.com/changelog/1-7)
@@ -27,9 +29,7 @@
 * [2025-10-01, 02:38:18](https://news.ycombinator.com/item?id=45433768) - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
 * [2025-09-29, 16:19:49](https://news.ycombinator.com/item?id=45415591) - [IP over Lasers](https://www.mikekohn.net/micro/ip_over_lasers.php)
 * [2025-09-28, 15:05:12](https://news.ycombinator.com/item?id=45404868) - [Leaf miners identified as oldest insect plague in the history of Earth](https://phys.org/news/2025-09-leaf-miners-oldest-insect-plague.html)
-* [2025-09-28, 14:52:54](https://news.ycombinator.com/item?id=45404760) - [Ask HN: What is nowadays (opensource) way of converting HTML to PDF?](https://news.ycombinator.com/item?id=45404760)
 * [2025-09-28, 06:37:56](https://news.ycombinator.com/item?id=45402213) - [Show HN: Privacyforge.ai – AI Privacy Compliance Documents That Work](https://www.privacyforge.ai/)
-* [2025-09-27, 12:24:30](https://news.ycombinator.com/item?id=45395115) - [The Prehistory of Computing, Part II](https://www.oranlooney.com/post/history-of-computing-2/)
 
 ## [Archives](archives/index.md)
 
