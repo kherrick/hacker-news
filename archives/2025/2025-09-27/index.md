@@ -69,6 +69,7 @@
 * [2025-09-27, 11:44:57](https://news.ycombinator.com/item?id=45394942) - [Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say](https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221)
 * [2025-09-27, 10:59:30](https://news.ycombinator.com/item?id=45394719) - [Finding and Understanding Bugs in C Compilers (2011) [pdf]](https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)
 * [2025-09-27, 10:38:42](https://news.ycombinator.com/item?id=45394642) - [Ishkur's Guide to Electronic Music](http://music.ishkur.com/)
+* [2025-09-27, 08:42:04](https://news.ycombinator.com/item?id=45394146) - [Type theory and functional programming. (1999) [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
 * [2025-09-27, 07:31:39](https://news.ycombinator.com/item?id=45393842) - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-27, 06:45:03](https://news.ycombinator.com/item?id=45393653) - [Property-Based Testing of OCaml 5's Runtime System [pdf]](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf)
 * [2025-09-27, 06:44:12](https://news.ycombinator.com/item?id=45393649) - [AI Investment Is Starting to Look Like a Slush Fund](https://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html)

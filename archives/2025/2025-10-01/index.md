@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 06:06:24](https://news.ycombinator.com/item?id=45434779) - [The God Mode Vulnerability That Should Kill \"Trust Microsoft\" Forever](https://tide.org/blog/god-mode-vulnerability-microsoft-authorityless-security)
 * [2025-10-01, 05:06:38](https://news.ycombinator.com/item?id=45434417) - [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks)
 * [2025-10-01, 04:16:50](https://news.ycombinator.com/item?id=45434181) - [Hacker News Guidelines](https://news.ycombinator.com/item?id=45434181)
 * [2025-10-01, 04:16:40](https://news.ycombinator.com/item?id=45434179) - [US government shuts down after Democrats refuse to back Republican funding plan](https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down)
