@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-01, 19:41:33",
-      "https://news.ycombinator.com/item?id=45442365"
-    ],
-    [
-      "The Anti-Truth Mandate: A Technical Flaw in Claude's Safety Architecture",
-      "https://github.com/anthropics/claude-code/issues/8683"
-    ]
-  ],
-  [
-    [
       "2025-10-01, 19:30:28",
       "https://news.ycombinator.com/item?id=45442185"
     ],
@@ -137,6 +127,16 @@
     [
       "Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts",
       "https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 16:25:58",
+      "https://news.ycombinator.com/item?id=45439670"
+    ],
+    [
+      "No more \"check mail from other accounts\" in Gmail web",
+      "https://support.google.com/mail/answer/16604719?hl=en"
     ]
   ],
   [
