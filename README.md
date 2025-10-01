@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-01, 06:06:24](https://news.ycombinator.com/item?id=45434779) - [The God Mode Vulnerability That Should Kill \"Trust Microsoft\" Forever](https://tide.org/blog/god-mode-vulnerability-microsoft-authorityless-security)
+* [2025-10-01, 06:33:02](https://news.ycombinator.com/item?id=45434941) - [High-resolution efficient image generation from WiFi Mapping](https://arxiv.org/abs/2506.10605)
+* [2025-10-01, 06:06:24](https://news.ycombinator.com/item?id=45434779) - [The god mode vulnerability that should kill \"Trust Microsoft\" forever](https://tide.org/blog/god-mode-vulnerability-microsoft-authorityless-security)
 * [2025-10-01, 05:06:38](https://news.ycombinator.com/item?id=45434417) - [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks)
 * [2025-10-01, 03:13:16](https://news.ycombinator.com/item?id=45433926) - [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff)
 * [2025-10-01, 02:59:28](https://news.ycombinator.com/item?id=45433866) - [The gaslit asset class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
@@ -20,7 +21,6 @@
 * [2025-09-30, 15:21:23](https://news.ycombinator.com/item?id=45426680) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
 * [2025-09-30, 15:09:00](https://news.ycombinator.com/item?id=45426490) - [Kagi News](https://blog.kagi.com/kagi-news)
 * [2025-09-30, 14:01:53](https://news.ycombinator.com/item?id=45425568) - [Software essays that shaped me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
-* [2025-09-30, 13:39:22](https://news.ycombinator.com/item?id=45425298) - [Dgsh – Directed graph shell](https://www2.dmst.aueb.gr/dds/sw/dgsh/)
 * [2025-09-30, 13:19:53](https://news.ycombinator.com/item?id=45425061) - [An opinionated critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
 * [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
 * [2025-09-30, 12:53:49](https://news.ycombinator.com/item?id=45424827) - [Founder sentenced to seven years in prison for fraudulent sale to JPMorgan](https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl)
