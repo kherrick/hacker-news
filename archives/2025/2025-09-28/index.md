@@ -41,6 +41,7 @@
 * [2025-09-28, 15:27:18](https://news.ycombinator.com/item?id=45405055) - [What's New in PostgreSQL 18 – A Devel](https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/)
 * [2025-09-28, 15:21:01](https://news.ycombinator.com/item?id=45404997) - [The Death of Utilitarian Programming](https://news.ycombinator.com/item?id=45404997)
 * [2025-09-28, 15:09:07](https://news.ycombinator.com/item?id=45404907) - [She Sent Her iPhone to Apple. Repair Techs Uploaded Her Nudes to Facebook (2021)](https://www.vice.com/en/article/she-sent-her-iphone-to-apple-repair-techs-uploaded-her-nudes-to-facebook/)
+* [2025-09-28, 15:05:12](https://news.ycombinator.com/item?id=45404868) - [Leaf miners identified as oldest insect plague in the history of Earth](https://phys.org/news/2025-09-leaf-miners-oldest-insect-plague.html)
 * [2025-09-28, 14:57:34](https://news.ycombinator.com/item?id=45404803) - [The golden ratio as a number base](https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base)
 * [2025-09-28, 14:56:22](https://news.ycombinator.com/item?id=45404793) - [How did we all miss the bacteria taking over her body?](https://www.theguardian.com/world/2025/sep/28/as-my-daughter-got-sicker-and-sicker-our-quest-for-answers-dragged-on-how-did-we-all-miss-the-bacteria-taking-over-her-body)
 * [2025-09-28, 14:55:11](https://news.ycombinator.com/item?id=45404783) - [Apple threatens to stop selling iPhones in the EU](https://pluralistic.net/2025/09/26/empty-threats/#500-million-affluent-consumers)
