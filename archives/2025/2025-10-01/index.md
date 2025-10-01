@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 14:07:04](https://news.ycombinator.com/item?id=45437906) - [Show HN: Resterm – A terminal-based REST/GraphQL and gRPC client](https://github.com/unkn0wn-root/resterm)
 * [2025-10-01, 14:05:45](https://news.ycombinator.com/item?id=45437893) - [Unix philosophy and filesystem access makes Claude Code amazing](https://www.alephic.com/writing/the-magic-of-claude-code)
 * [2025-10-01, 13:51:03](https://news.ycombinator.com/item?id=45437735) - [Cursor 1.7](https://cursor.com/changelog/1-7)
 * [2025-10-01, 13:38:36](https://news.ycombinator.com/item?id=45437594) - [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
