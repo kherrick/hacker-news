@@ -56,6 +56,7 @@
 * [2025-09-29, 13:33:41](https://news.ycombinator.com/item?id=45413570) - [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
 * [2025-09-29, 13:29:55](https://news.ycombinator.com/item?id=45413525) - [A SQL Heuristic: Ors Are Expensive](https://ethanseal.com/articles/ors-are-expensive)
 * [2025-09-29, 13:25:40](https://news.ycombinator.com/item?id=45413481) - [Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%](https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b)
+* [2025-09-29, 13:11:46](https://news.ycombinator.com/item?id=45413294) - [Tactility: An ESP32 OS](https://tactility.one)
 * [2025-09-29, 12:51:46](https://news.ycombinator.com/item?id=45413090) - [Larry Ellison – 'citizens will be on their best behavior' amid nonstop recording](https://fortune.com/2025/09/28/larry-ellison-ai-surveillance-oracle-tiktok-deal-social-media/)
 * [2025-09-29, 12:50:36](https://news.ycombinator.com/item?id=45413083) - [EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners](https://ir.ea.com/press-releases/press-release-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx)
 * [2025-09-29, 12:44:43](https://news.ycombinator.com/item?id=45413030) - [Why are interviews harder than the job?](https://www.mooreds.com/wordpress/archives/3702)

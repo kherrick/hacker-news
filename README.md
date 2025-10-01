@@ -6,8 +6,6 @@
 * [2025-10-01, 17:22:43](https://news.ycombinator.com/item?id=45440387) - [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/)
 * [2025-10-01, 17:09:20](https://news.ycombinator.com/item?id=45440212) - [Why Tech Inevitability is Self-Defeating](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
 * [2025-10-01, 17:08:41](https://news.ycombinator.com/item?id=45440207) - [Supreme Court lets Fed Governor Cook keep job pending oral argument in January](https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html)
-* [2025-10-01, 16:54:05](https://news.ycombinator.com/item?id=45440028) - [Walmart U.S. moves to eliminate synthetic dyes across all private brand foods](https://corporate.walmart.com/news/2025/10/01/walmart-u-s-moves-to-eliminate-synthetic-dyes-across-all-private-brand-food-products)
-* [2025-10-01, 16:52:21](https://news.ycombinator.com/item?id=45440005) - [Why Is Python So Popular in 2025? – The PyCharm Blog](https://blog.jetbrains.com/pycharm/2025/09/why-is-python-so-popular/)
 * [2025-10-01, 16:48:20](https://news.ycombinator.com/item?id=45439955) - [Codeberg Reaches 300k Projects](https://codeberg.org/)
 * [2025-10-01, 16:42:50](https://news.ycombinator.com/item?id=45439883) - [DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/)
 * [2025-10-01, 16:30:16](https://news.ycombinator.com/item?id=45439721) - [Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts](https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/)
@@ -26,10 +24,12 @@
 * [2025-10-01, 08:06:50](https://news.ycombinator.com/item?id=45435463) - [I only use Google Sheets](https://mayberay.bearblog.dev/why-i-only-use-google-sheets/)
 * [2025-10-01, 08:00:30](https://news.ycombinator.com/item?id=45435422) - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 * [2025-10-01, 07:00:21](https://news.ycombinator.com/item?id=45435100) - [Type Theory and Functional Programming (1999) [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
-* [2025-10-01, 02:38:18](https://news.ycombinator.com/item?id=45433768) - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
+* [2025-10-01, 06:33:02](https://news.ycombinator.com/item?id=45434941) - [High-resolution efficient image generation from WiFi Mapping](https://arxiv.org/abs/2506.10605)
 * [2025-09-30, 19:43:08](https://news.ycombinator.com/item?id=45430294) - [Show HN: Glide, an extensible, keyboard-focused web browser](https://blog.craigie.dev/introducing-glide/)
+* [2025-09-29, 13:11:46](https://news.ycombinator.com/item?id=45413294) - [Tactility: An ESP32 OS](https://tactility.one)
 * [2025-09-28, 14:52:54](https://news.ycombinator.com/item?id=45404760) - [Ask HN: What is nowadays (opensource) way of converting HTML to PDF?](https://news.ycombinator.com/item?id=45404760)
 * [2025-09-28, 10:21:22](https://news.ycombinator.com/item?id=45403225) - [Galileo Bad, Archimedes Good](https://intellectualmathematics.com/blog/galileo-bad-archimedes-good/)
+* [2025-09-27, 18:30:02](https://news.ycombinator.com/item?id=45398277) - [How did Renaissance fairs begin?](https://www.history.com/articles/renaissance-fair-origins)
 
 ## [Archives](archives/index.md)
 
