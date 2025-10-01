@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-01, 21:00:18",
+      "https://news.ycombinator.com/item?id=45443462"
+    ],
+    [
+      "Edge264 – Minimalist, high-performance software decoder for H.264/AVC video",
+      "https://github.com/tvlabs/edge264"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 20:25:59",
       "https://news.ycombinator.com/item?id=45443004"
     ],
@@ -17,6 +27,16 @@
     [
       "AI has had zero effect on jobs so far, says Yale study",
       "https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 19:48:23",
+      "https://news.ycombinator.com/item?id=45442470"
+    ],
+    [
+      "OpenAI won't say whose content trained its video tool. We found some clues.",
+      "https://www.washingtonpost.com/technology/interactive/2025/openai-training-data-sora/"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-10-01, 16:48:20",
-      "https://news.ycombinator.com/item?id=45439955"
-    ],
-    [
-      "Codeberg Reaches 300k Projects",
-      "https://codeberg.org/"
-    ]
-  ],
-  [
-    [
       "2025-10-01, 16:42:50",
       "https://news.ycombinator.com/item?id=45439883"
     ],
@@ -121,21 +131,11 @@
   ],
   [
     [
-      "2025-10-01, 16:25:58",
-      "https://news.ycombinator.com/item?id=45439670"
-    ],
-    [
-      "No more \"check mail from other accounts\" in Gmail web",
-      "https://support.google.com/mail/answer/16604719?hl=en"
-    ]
-  ],
-  [
-    [
       "2025-10-01, 15:15:44",
       "https://news.ycombinator.com/item?id=45438704"
     ],
     [
-      "MIT technology can see microbes from 90 meters away",
+      "Long-distance and wide-area detection of gene expression in living bacteria",
       "https://www.asimov.press/p/hyperspectral"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=45408473"
     ],
     [
-      "\"DSEG\": Original 7-segment and 14-segment fonts",
+      "\"DSEG\": Original 7-segment and 14-segment fonts (2014)",
       "https://www.keshikan.net/fonts-e.html"
     ]
   ],
