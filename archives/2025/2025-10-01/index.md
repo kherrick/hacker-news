@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 20:07:44](https://news.ycombinator.com/item?id=45442743) - [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
 * [2025-10-01, 19:41:33](https://news.ycombinator.com/item?id=45442365) - [The Anti-Truth Mandate: A Technical Flaw in Claude's Safety Architecture](https://github.com/anthropics/claude-code/issues/8683)
 * [2025-10-01, 19:30:28](https://news.ycombinator.com/item?id=45442185) - [U.S. Lost 32,000 Private-Sector Jobs in September, Says Payroll Processor](https://www.wsj.com/economy/jobs/u-s-lost-32-000-jobs-in-september-says-payroll-processor-06528340)
 * [2025-10-01, 19:15:02](https://news.ycombinator.com/item?id=45441983) - [ICE Is Buying a Tool to Track Phones, Without Warrants](https://olgalautman.substack.com/p/ice-is-buying-a-tool-to-track-hundreds)

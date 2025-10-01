@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-01, 20:07:44](https://news.ycombinator.com/item?id=45442743) - [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
 * [2025-10-01, 19:30:28](https://news.ycombinator.com/item?id=45442185) - [U.S. Lost 32,000 Private-Sector Jobs in September, Says Payroll Processor](https://www.wsj.com/economy/jobs/u-s-lost-32-000-jobs-in-september-says-payroll-processor-06528340)
 * [2025-10-01, 18:36:17](https://news.ycombinator.com/item?id=45441447) - [Decoding Netflix's AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)
 * [2025-10-01, 18:30:36](https://news.ycombinator.com/item?id=45441364) - [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
@@ -9,7 +10,6 @@
 * [2025-10-01, 17:36:43](https://news.ycombinator.com/item?id=45440571) - [What good workplace politics looks like in practice](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
 * [2025-10-01, 17:25:33](https://news.ycombinator.com/item?id=45440431) - [OpenTSLM: Language models that understand time series](https://www.opentslm.com/)
 * [2025-10-01, 17:22:43](https://news.ycombinator.com/item?id=45440387) - [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/)
-* [2025-10-01, 17:09:20](https://news.ycombinator.com/item?id=45440212) - [Why Tech Inevitability is Self-Defeating](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
 * [2025-10-01, 16:48:20](https://news.ycombinator.com/item?id=45439955) - [Codeberg Reaches 300k Projects](https://codeberg.org/)
 * [2025-10-01, 16:42:50](https://news.ycombinator.com/item?id=45439883) - [DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/)
 * [2025-10-01, 16:30:16](https://news.ycombinator.com/item?id=45439721) - [Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts](https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/)
