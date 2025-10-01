@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-10-01, 00:29:33",
-      "https://news.ycombinator.com/item?id=45432977"
-    ],
-    [
-      "Rio Terminal: A hardware-accelerated GPU terminal emulator",
-      "https://rioterm.com/"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 21:08:28",
       "https://news.ycombinator.com/item?id=45431271"
     ],
@@ -287,6 +277,16 @@
     [
       "Washi: The Japanese paper crafted to last 1000 years [video]",
       "https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 12:54:42",
+      "https://news.ycombinator.com/item?id=45395316"
+    ],
+    [
+      "Tiny worlds: A minimal implementation of DeepMind's Genie world model",
+      "https://github.com/AlmondGod/tinyworlds"
     ]
   ],
   [
