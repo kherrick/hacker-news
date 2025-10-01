@@ -62,6 +62,7 @@
 * [2025-09-28, 10:00:05](https://news.ycombinator.com/item?id=45403134) - [US Military struggling to deploy AI weapons](https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK)
 * [2025-09-28, 09:47:06](https://news.ycombinator.com/item?id=45403078) - [Hardware inspector fired for spotting an error he wasn't trained to find](https://www.theregister.com/2025/09/26/on_call/)
 * [2025-09-28, 08:53:36](https://news.ycombinator.com/item?id=45402820) - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
+* [2025-09-28, 08:28:21](https://news.ycombinator.com/item?id=45402706) - [What Is Copolymer 3D Filament and Why Should You Use It](https://filamatrix.com/blogs/blogs/what-is-copolymer-3d-filament-and-why-should-you-use-it)
 * [2025-09-28, 08:13:00](https://news.ycombinator.com/item?id=45402639) - [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb)
 * [2025-09-28, 07:44:07](https://news.ycombinator.com/item?id=45402496) - [Dismissed as a joke, UK's first rice crop ripe for picking after hot summer](https://www.bbc.co.uk/news/articles/c1wgeq702dyo)
 * [2025-09-28, 06:31:16](https://news.ycombinator.com/item?id=45402197) - [Run 14 vintage OSes (Windows 1.01→XP, ReactOS, Haiku) in the browser](https://oses.ioblako.com/)

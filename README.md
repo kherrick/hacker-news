@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-01, 04:16:40](https://news.ycombinator.com/item?id=45434179) - [US government shuts down after Democrats refuse to back Republican funding plan](https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down)
 * [2025-10-01, 04:05:57](https://news.ycombinator.com/item?id=45434146) - [US federal government shuts dowm](https://www.bbc.com/news/live/clylje0rmp2t)
 * [2025-10-01, 03:44:58](https://news.ycombinator.com/item?id=45434062) - [An informational website about why I went to prison](https://prison.josh.mn/)
 * [2025-10-01, 03:13:16](https://news.ycombinator.com/item?id=45433926) - [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff)
@@ -15,10 +16,8 @@
 * [2025-09-30, 17:31:34](https://news.ycombinator.com/item?id=45428482) - [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
 * [2025-09-30, 17:01:27](https://news.ycombinator.com/item?id=45428081) - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Sora 2](https://openai.com/index/sora-2/)
-* [2025-09-30, 16:35:16](https://news.ycombinator.com/item?id=45427697) - [Show HN: Sculptor – A UI for Claude Code](https://imbue.com/sculptor/)
 * [2025-09-30, 16:21:09](https://news.ycombinator.com/item?id=45427482) - [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
 * [2025-09-30, 16:00:36](https://news.ycombinator.com/item?id=45427197) - [Leaked Apple M5 9 core Geekbench scores](https://browser.geekbench.com/v6/cpu/14173685)
-* [2025-09-30, 15:50:14](https://news.ycombinator.com/item?id=45427059) - [Random Attractors – Found using Lyapunov Exponents (2001)](https://paulbourke.net/fractals/lyapunov/)
 * [2025-09-30, 15:21:23](https://news.ycombinator.com/item?id=45426680) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
 * [2025-09-30, 15:09:00](https://news.ycombinator.com/item?id=45426490) - [Kagi News](https://blog.kagi.com/kagi-news)
 * [2025-09-30, 14:01:53](https://news.ycombinator.com/item?id=45425568) - [Software essays that shaped me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
@@ -28,6 +27,7 @@
 * [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 * [2025-09-28, 18:28:14](https://news.ycombinator.com/item?id=45406645) - [Coding a new BASIC interpreter in 2025 to replace a slow one](https://nanochess.org/ecs_basic.html)
 * [2025-09-28, 15:40:04](https://news.ycombinator.com/item?id=45405144) - [NJ theme park puts animatronic dinosaurs on Facebook Marketplace](https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489)
+* [2025-09-28, 08:28:21](https://news.ycombinator.com/item?id=45402706) - [What Is Copolymer 3D Filament and Why Should You Use It](https://filamatrix.com/blogs/blogs/what-is-copolymer-3d-filament-and-why-should-you-use-it)
 * [2025-09-27, 21:43:47](https://news.ycombinator.com/item?id=45399589) - [Washi: The Japanese paper crafted to last 1000 years [video]](https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years)
 * [2025-09-27, 12:54:42](https://news.ycombinator.com/item?id=45395316) - [Tiny worlds: A minimal implementation of DeepMind's Genie world model](https://github.com/AlmondGod/tinyworlds)
 
