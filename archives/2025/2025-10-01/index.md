@@ -18,6 +18,7 @@
 * [2025-10-01, 13:14:32](https://news.ycombinator.com/item?id=45437323) - [Uxntal: A programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
 * [2025-10-01, 12:54:37](https://news.ycombinator.com/item?id=45437113) - [LLMs Are the Ultimate Demoware](https://blog.charliemeyer.co/llms-are-the-ultimate-demoware/)
 * [2025-10-01, 12:54:17](https://news.ycombinator.com/item?id=45437112) - [Detect Electron apps on Mac that hasn't been updated to fix the system wide lag](https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58)
+* [2025-10-01, 12:50:49](https://news.ycombinator.com/item?id=45437081) - [No Figma, I won't fit in your little box](https://blog.nordcraft.com/no-figma-i-wont-fit-in-your-little-box)
 * [2025-10-01, 12:47:10](https://news.ycombinator.com/item?id=45437060) - [Hackers strike Harrods in latest UK cyberattack](https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack)
 * [2025-10-01, 12:43:51](https://news.ycombinator.com/item?id=45437027) - [Building an IoT Notification Device from Scratch](https://bertwagner.com/posts/splashflag-building-an-iot-swimming-notification-device-from-scratch/)
 * [2025-10-01, 12:41:23](https://news.ycombinator.com/item?id=45437003) - [Broadcom Fails to Disclose Zero-Day Exploitation of VMware Vulnerability](https://www.securityweek.com/broadcom-fails-to-disclose-zero-day-exploitation-of-vmware-vulnerability/)
