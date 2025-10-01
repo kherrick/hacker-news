@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-01, 16:52:21",
+      "https://news.ycombinator.com/item?id=45440005"
+    ],
+    [
+      "Why Is Python So Popular in 2025? – The PyCharm Blog",
+      "https://blog.jetbrains.com/pycharm/2025/09/why-is-python-so-popular/"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 16:48:20",
+      "https://news.ycombinator.com/item?id=45439955"
+    ],
+    [
+      "Codeberg Reaches 300k Projects",
+      "https://codeberg.org/"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 16:30:16",
       "https://news.ycombinator.com/item?id=45439721"
     ],
     [
       "Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts",
       "https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 16:25:58",
+      "https://news.ycombinator.com/item?id=45439670"
+    ],
+    [
+      "No more \"check mail from other accounts\" in Gmail web",
+      "https://support.google.com/mail/answer/16604719?hl=en"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45438496"
     ],
     [
-      "Building a 30 PB storage cluster in the heart of SF",
+      "Building the heap: racking 30 petabytes of hard drives for pretraining",
       "https://si.inc/posts/the-heap/"
     ]
   ],
@@ -37,16 +67,6 @@
     [
       "Show HN: Autism Simulator",
       "https://autism-simulator.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 14:31:37",
-      "https://news.ycombinator.com/item?id=45438170"
-    ],
-    [
-      "Technical Analysis of SAP Exploit Script Used in JLR, Harrods Hacks",
-      "https://detect.fyi/technical-analysis-of-sap-exploit-script-visual-composer-metadata-uploader-exploit-7b4a01b38548"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-09-28, 14:52:54",
-      "https://news.ycombinator.com/item?id=45404760"
-    ],
-    [
-      "Ask HN: What is nowadays (opensource) way of converting HTML to PDF?",
-      "https://news.ycombinator.com/item?id=45404760"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 06:37:56",
       "https://news.ycombinator.com/item?id=45402213"
     ],
     [
       "Show HN: Privacyforge.ai – AI Privacy Compliance Documents That Work",
       "https://www.privacyforge.ai/"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 12:24:30",
-      "https://news.ycombinator.com/item?id=45395115"
-    ],
-    [
-      "The Prehistory of Computing, Part II",
-      "https://www.oranlooney.com/post/history-of-computing-2/"
     ]
   ]
 ]
