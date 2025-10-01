@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2025-10-01, 20:48:23",
+      "https://news.ycombinator.com/item?id=45443304"
+    ],
+    [
+      "Microsoft declares bring your Copilot to work day, usurping IT authority",
+      "https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 20:25:59",
       "https://news.ycombinator.com/item?id=45443004"
     ],
     [
-      "The Truth About the School \"Replacing Teachers with AI\"",
+      "Unbound Academy hasn’t replaced teachers with AI",
       "https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "AI has had zero effect on jobs so far, says Yale study",
       "https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 19:48:23",
-      "https://news.ycombinator.com/item?id=45442470"
-    ],
-    [
-      "OpenAI won't say whose content trained its video tool. We found some clues.",
-      "https://www.washingtonpost.com/technology/interactive/2025/openai-training-data-sora/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Why Tech Inevitability is Self-Defeating",
       "https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 16:42:50",
-      "https://news.ycombinator.com/item?id=45439883"
-    ],
-    [
-      "DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025",
-      "https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Uxntal: A programming language for the Uxn virtual machine",
       "https://wiki.xxiivv.com/site/uxntal.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 12:43:51",
+      "https://news.ycombinator.com/item?id=45437027"
+    ],
+    [
+      "Building an IoT Notification Device from Scratch",
+      "https://bertwagner.com/posts/splashflag-building-an-iot-swimming-notification-device-from-scratch/"
     ]
   ],
   [
