@@ -27,7 +27,7 @@
 * [2025-09-30, 07:03:11](https://news.ycombinator.com/item?id=45422717) - [Defer: Resource cleanup in C with GCCs magic](https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic)
 * [2025-09-28, 15:40:04](https://news.ycombinator.com/item?id=45405144) - [NJ theme park puts animatronic dinosaurs on Facebook Marketplace](https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489)
 * [2025-09-27, 21:43:47](https://news.ycombinator.com/item?id=45399589) - [Washi: The Japanese paper crafted to last 1000 years [video]](https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years)
-* [2025-09-27, 19:15:18](https://news.ycombinator.com/item?id=45398591) - [Styx Emulator Public Release](https://stumbl.ing/posts/styx-emulator-release/)
+* [2025-09-27, 19:40:26](https://news.ycombinator.com/item?id=45398744) - [The Unknown Genre in Videogames [video]](https://www.youtube.com/watch?v=HUiW-GV72QE)
 * [2025-09-27, 15:28:27](https://news.ycombinator.com/item?id=45396565) - [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
 * [2025-09-27, 12:24:30](https://news.ycombinator.com/item?id=45395115) - [The Prehistory of Computing, Part II](https://www.oranlooney.com/post/history-of-computing-2/)
 
