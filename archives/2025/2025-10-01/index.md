@@ -6,6 +6,8 @@
 
 * [2025-10-01, 18:44:47](https://news.ycombinator.com/item?id=45441580) - [Tinker by Thinking Machines](https://thinkingmachines.ai/tinker/)
 * [2025-10-01, 18:36:17](https://news.ycombinator.com/item?id=45441447) - [Decoding Netflix's AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)
+* [2025-10-01, 18:30:36](https://news.ycombinator.com/item?id=45441364) - [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
+* [2025-10-01, 18:20:49](https://news.ycombinator.com/item?id=45441222) - [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
 * [2025-10-01, 18:20:41](https://news.ycombinator.com/item?id=45441219) - [Announcing Tinker](https://thinkingmachines.ai/blog/announcing-tinker/)
 * [2025-10-01, 18:10:39](https://news.ycombinator.com/item?id=45441069) - [Jane Goodall Dies at 91](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
 * [2025-10-01, 17:36:43](https://news.ycombinator.com/item?id=45440571) - [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)

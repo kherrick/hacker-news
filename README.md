@@ -2,10 +2,12 @@
 
 * [2025-10-01, 18:44:47](https://news.ycombinator.com/item?id=45441580) - [Tinker by Thinking Machines](https://thinkingmachines.ai/tinker/)
 * [2025-10-01, 18:36:17](https://news.ycombinator.com/item?id=45441447) - [Decoding Netflix's AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)
+* [2025-10-01, 18:30:36](https://news.ycombinator.com/item?id=45441364) - [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
+* [2025-10-01, 18:20:49](https://news.ycombinator.com/item?id=45441222) - [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
 * [2025-10-01, 18:20:41](https://news.ycombinator.com/item?id=45441219) - [Announcing Tinker](https://thinkingmachines.ai/blog/announcing-tinker/)
 * [2025-10-01, 18:10:39](https://news.ycombinator.com/item?id=45441069) - [Jane Goodall has died](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
 * [2025-10-01, 17:36:43](https://news.ycombinator.com/item?id=45440571) - [What good workplace politics looks like in practice](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
-* [2025-10-01, 17:25:33](https://news.ycombinator.com/item?id=45440431) - [OpenTSLM: Language Models That Understand Time-Series (Stanford, ETH, Google)](https://www.opentslm.com/)
+* [2025-10-01, 17:25:33](https://news.ycombinator.com/item?id=45440431) - [OpenTSLM: Language models that understand time series](https://www.opentslm.com/)
 * [2025-10-01, 17:22:43](https://news.ycombinator.com/item?id=45440387) - [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/)
 * [2025-10-01, 17:09:20](https://news.ycombinator.com/item?id=45440212) - [Why Tech Inevitability is Self-Defeating](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
 * [2025-10-01, 16:48:20](https://news.ycombinator.com/item?id=45439955) - [Codeberg Reaches 300k Projects](https://codeberg.org/)
@@ -28,8 +30,6 @@
 * [2025-09-30, 19:43:08](https://news.ycombinator.com/item?id=45430294) - [Show HN: Glide, an extensible, keyboard-focused web browser](https://blog.craigie.dev/introducing-glide/)
 * [2025-09-29, 13:11:46](https://news.ycombinator.com/item?id=45413294) - [Tactility: An ESP32 OS](https://tactility.one)
 * [2025-09-28, 14:52:54](https://news.ycombinator.com/item?id=45404760) - [Ask HN: What is nowadays (opensource) way of converting HTML to PDF?](https://news.ycombinator.com/item?id=45404760)
-* [2025-09-28, 10:21:22](https://news.ycombinator.com/item?id=45403225) - [Galileo Bad, Archimedes Good](https://intellectualmathematics.com/blog/galileo-bad-archimedes-good/)
-* [2025-09-27, 18:30:02](https://news.ycombinator.com/item?id=45398277) - [How did Renaissance fairs begin?](https://www.history.com/articles/renaissance-fair-origins)
 
 ## [Archives](archives/index.md)
 
