@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 18:44:47](https://news.ycombinator.com/item?id=45441580) - [Tinker by Thinking Machines](https://thinkingmachines.ai/tinker/)
+* [2025-10-01, 18:36:17](https://news.ycombinator.com/item?id=45441447) - [Decoding Netflix's AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)
+* [2025-10-01, 18:20:41](https://news.ycombinator.com/item?id=45441219) - [Announcing Tinker](https://thinkingmachines.ai/blog/announcing-tinker/)
 * [2025-10-01, 18:10:39](https://news.ycombinator.com/item?id=45441069) - [Jane Goodall Dies at 91](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
 * [2025-10-01, 17:36:43](https://news.ycombinator.com/item?id=45440571) - [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
 * [2025-10-01, 17:25:33](https://news.ycombinator.com/item?id=45440431) - [OpenTSLM: Language Models That Understand Time-Series (Stanford, ETH, Google)](https://www.opentslm.com/)
