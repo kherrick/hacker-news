@@ -37,6 +37,7 @@
 * [2025-09-28, 15:48:10](https://news.ycombinator.com/item?id=45405221) - [Why I'm not rushing to take sides in the RubyGems fiasco](https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/)
 * [2025-09-28, 15:43:33](https://news.ycombinator.com/item?id=45405177) - [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
 * [2025-09-28, 15:43:25](https://news.ycombinator.com/item?id=45405175) - [Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC](https://git.lain.faith/iitalics/scm2wasm)
+* [2025-09-28, 15:40:04](https://news.ycombinator.com/item?id=45405144) - [NJ Theme Park Puts Animatronic Dinosaurs on Facebook Marketplace](https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489)
 * [2025-09-28, 15:27:18](https://news.ycombinator.com/item?id=45405055) - [What's New in PostgreSQL 18 – A Devel](https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/)
 * [2025-09-28, 15:21:01](https://news.ycombinator.com/item?id=45404997) - [The Death of Utilitarian Programming](https://news.ycombinator.com/item?id=45404997)
 * [2025-09-28, 15:09:07](https://news.ycombinator.com/item?id=45404907) - [She Sent Her iPhone to Apple. Repair Techs Uploaded Her Nudes to Facebook (2021)](https://www.vice.com/en/article/she-sent-her-iphone-to-apple-repair-techs-uploaded-her-nudes-to-facebook/)
