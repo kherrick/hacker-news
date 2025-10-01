@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-01, 10:00:29",
+      "https://news.ycombinator.com/item?id=45436027"
+    ],
+    [
+      "FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET",
+      "https://flowsynx.io/"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 09:22:10",
       "https://news.ycombinator.com/item?id=45435825"
     ],
     [
       "Our efforts, in part, define us",
       "https://weakty.com/posts/efforts/"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 09:14:45",
+      "https://news.ycombinator.com/item?id=45435780"
+    ],
+    [
+      "Self-hosting email in 2025 is easy actually (apart from M365)",
+      "https://mastodon.social/@whitequark/115298019560025791"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 08:06:50",
+      "https://news.ycombinator.com/item?id=45435463"
+    ],
+    [
+      "I only use Google Sheets",
+      "https://mayberay.bearblog.dev/why-i-only-use-google-sheets/"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2025-09-30, 15:09:00",
-      "https://news.ycombinator.com/item?id=45426490"
-    ],
-    [
-      "Kagi News",
-      "https://blog.kagi.com/kagi-news"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 14:01:53",
-      "https://news.ycombinator.com/item?id=45425568"
-    ],
-    [
-      "Software essays that shaped me",
-      "https://refactoringenglish.com/blog/software-essays-that-shaped-me/"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 13:19:53",
       "https://news.ycombinator.com/item?id=45425061"
     ],
@@ -277,16 +287,6 @@
     [
       "Fundamental of Virtual Memory",
       "https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 12:54:42",
-      "https://news.ycombinator.com/item?id=45395316"
-    ],
-    [
-      "Tiny worlds: A minimal implementation of DeepMind's Genie world model",
-      "https://github.com/AlmondGod/tinyworlds"
     ]
   ],
   [
