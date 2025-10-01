@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 16:30:16](https://news.ycombinator.com/item?id=45439721) - [Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts](https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/)
 * [2025-10-01, 15:15:44](https://news.ycombinator.com/item?id=45438704) - [MIT technology can see microbes from 90 meters away](https://www.asimov.press/p/hyperspectral)
 * [2025-10-01, 15:00:41](https://news.ycombinator.com/item?id=45438496) - [Building a 30 PB storage cluster in the heart of SF](https://si.inc/posts/the-heap/)
 * [2025-10-01, 14:48:31](https://news.ycombinator.com/item?id=45438346) - [Autism Simulator](https://autism-simulator.vercel.app/)
