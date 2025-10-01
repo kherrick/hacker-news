@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 19:30:28](https://news.ycombinator.com/item?id=45442185) - [U.S. Lost 32,000 Private-Sector Jobs in September, Says Payroll Processor](https://www.wsj.com/economy/jobs/u-s-lost-32-000-jobs-in-september-says-payroll-processor-06528340)
 * [2025-10-01, 19:15:02](https://news.ycombinator.com/item?id=45441983) - [ICE Is Buying a Tool to Track Phones, Without Warrants](https://olgalautman.substack.com/p/ice-is-buying-a-tool-to-track-hundreds)
 * [2025-10-01, 18:44:47](https://news.ycombinator.com/item?id=45441580) - [Tinker by Thinking Machines](https://thinkingmachines.ai/tinker/)
 * [2025-10-01, 18:36:17](https://news.ycombinator.com/item?id=45441447) - [Decoding Netflix's AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)

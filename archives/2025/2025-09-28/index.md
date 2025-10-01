@@ -49,6 +49,7 @@
 * [2025-09-28, 14:52:54](https://news.ycombinator.com/item?id=45404760) - [Ask HN: What is nowadays (opensource) way of converting HTML to PDF?](https://news.ycombinator.com/item?id=45404760)
 * [2025-09-28, 14:40:46](https://news.ycombinator.com/item?id=45404667) - [Show HN: Toolbrew – Free little tools without signups or ads](https://toolbrew.co/)
 * [2025-09-28, 14:27:44](https://news.ycombinator.com/item?id=45404573) - [Plan 9 from User Space](https://github.com/9fans/plan9port)
+* [2025-09-28, 14:00:57](https://news.ycombinator.com/item?id=45404378) - [A replica of Citizen Quartz watch based on Harel's paper introducing statecharts](https://andyjakubowski.github.io/statechart-watch/)
 * [2025-09-28, 14:00:12](https://news.ycombinator.com/item?id=45404373) - [The Demon-Haunted World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
 * [2025-09-28, 13:24:52](https://news.ycombinator.com/item?id=45404173) - [Listeria found Walmart meatball meals may be linked deadly fettuccine outbreak](https://www.cnn.com/2025/09/26/health/listeria-fettuccine-outbreak)
 * [2025-09-28, 13:00:16](https://news.ycombinator.com/item?id=45404022) - [When I say \"alphabetical order\", I mean \"alphabetical order\"](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
