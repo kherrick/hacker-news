@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-01, 03:44:58",
+      "https://news.ycombinator.com/item?id=45434062"
+    ],
+    [
+      "An informational website about why I went to prison",
+      "https://prison.josh.mn/"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 02:59:28",
+      "https://news.ycombinator.com/item?id=45433866"
+    ],
+    [
+      "The gaslit asset class",
+      "https://blog.dshr.org/2025/09/the-gaslit-asset-class.html"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 02:38:18",
       "https://news.ycombinator.com/item?id=45433768"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-09-30, 19:23:34",
-      "https://news.ycombinator.com/item?id=45430048"
-    ],
-    [
-      "Making sure AI serves people and knowledge stays human",
-      "https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 17:31:34",
       "https://news.ycombinator.com/item?id=45428482"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=45427059"
     ],
     [
-      "Visualizations of Random Attractors Found Using Lyapunov Exponents",
+      "Random Attractors – Found using Lyapunov Exponents (2001)",
       "https://paulbourke.net/fractals/lyapunov/"
     ]
   ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=45405144"
     ],
     [
-      "NJ Theme Park Puts Animatronic Dinosaurs on Facebook Marketplace",
+      "NJ theme park puts animatronic dinosaurs on Facebook Marketplace",
       "https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Tiny worlds: A minimal implementation of DeepMind's Genie world model",
       "https://github.com/AlmondGod/tinyworlds"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 11:42:04",
-      "https://news.ycombinator.com/item?id=45385354"
-    ],
-    [
-      "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
-      "https://dl.acm.org/doi/10.1145/359024.359031"
     ]
   ]
 ]
