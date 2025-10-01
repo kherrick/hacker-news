@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
 * [2025-09-28, 23:35:22](https://news.ycombinator.com/item?id=45409013) - [Imagination as General Intelligence: Reconciling Consciousness and Free Will](https://zenodo.org/records/17109096)
+* [2025-09-28, 23:34:13](https://news.ycombinator.com/item?id=45409005) - [Making Florida More Flood Resistant Is Forcing Hard Choices for Homeowners](https://www.nytimes.com/2025/09/27/us/making-florida-more-flood-resistant-is-forcing-hard-choices-for-homeowners.html)
 * [2025-09-28, 23:33:34](https://news.ycombinator.com/item?id=45409001) - [Use the Accept Header to Serve Markdown Instead of HTML to LLMs](https://www.skeptrune.com/posts/use-the-accept-header-to-serve-markdown-instead-of-html-to-llms/)
 * [2025-09-28, 23:32:32](https://news.ycombinator.com/item?id=45408994) - [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false)
 * [2025-09-28, 22:49:44](https://news.ycombinator.com/item?id=45408794) - [Buffett indicator says stock market overvalued](https://www.cnbc.com/2025/09/28/buffett-indicator-stock-market-overvalued.html)
