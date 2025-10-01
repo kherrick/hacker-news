@@ -26,8 +26,8 @@
 * [2025-09-30, 07:03:11](https://news.ycombinator.com/item?id=45422717) - [Defer: Resource cleanup in C with GCCs magic](https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic)
 * [2025-09-28, 15:40:04](https://news.ycombinator.com/item?id=45405144) - [NJ theme park puts animatronic dinosaurs on Facebook Marketplace](https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489)
 * [2025-09-28, 15:05:12](https://news.ycombinator.com/item?id=45404868) - [Leaf miners identified as oldest insect plague in the history of Earth](https://phys.org/news/2025-09-leaf-miners-oldest-insect-plague.html)
+* [2025-09-28, 14:52:54](https://news.ycombinator.com/item?id=45404760) - [Ask HN: What is nowadays (opensource) way of converting HTML to PDF?](https://news.ycombinator.com/item?id=45404760)
 * [2025-09-28, 06:37:56](https://news.ycombinator.com/item?id=45402213) - [Show HN: Privacyforge.ai – AI Privacy Compliance Documents That Work](https://www.privacyforge.ai/)
-* [2025-09-27, 21:43:47](https://news.ycombinator.com/item?id=45399589) - [Washi: The Japanese paper crafted to last 1000 years [video]](https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years)
 * [2025-09-27, 18:30:02](https://news.ycombinator.com/item?id=45398277) - [How Did Renaissance Fairs Begin?](https://www.history.com/articles/renaissance-fair-origins)
 * [2025-09-27, 12:24:30](https://news.ycombinator.com/item?id=45395115) - [The Prehistory of Computing, Part II](https://www.oranlooney.com/post/history-of-computing-2/)
 
