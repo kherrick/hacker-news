@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-01, 00:29:33",
+      "https://news.ycombinator.com/item?id=45432977"
+    ],
+    [
+      "Rio Terminal: A hardware-accelerated GPU terminal emulator",
+      "https://rioterm.com/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 23:36:23",
       "https://news.ycombinator.com/item?id=45432627"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2025-09-30, 21:16:48",
-      "https://news.ycombinator.com/item?id=45431367"
-    ],
-    [
-      "Our stewardship: Where we are, what's changing and how we'll engage",
-      "https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 21:08:28",
       "https://news.ycombinator.com/item?id=45431271"
     ],
     [
-      "Introduction to Multi-Armed Bandits",
+      "Introduction to Multi-Armed Bandits (2019)",
       "https://arxiv.org/abs/1904.07272"
     ]
   ],
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-09-30, 16:35:16",
+      "https://news.ycombinator.com/item?id=45427697"
+    ],
+    [
+      "Show HN: Sculptor, the Missing UI for Claude Code",
+      "https://imbue.com/sculptor/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 16:21:09",
       "https://news.ycombinator.com/item?id=45427482"
     ],
@@ -147,16 +157,6 @@
     [
       "Leaked Apple M5 9 core Geekbench scores",
       "https://browser.geekbench.com/v6/cpu/14173685"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 15:50:22",
-      "https://news.ycombinator.com/item?id=45427061"
-    ],
-    [
-      "Prompt analytics for MCP servers",
-      "https://hyprmcp.com/blog/mcp-server-prompt-analytics/"
     ]
   ],
   [
@@ -191,21 +191,11 @@
   ],
   [
     [
-      "2025-09-30, 14:16:51",
-      "https://news.ycombinator.com/item?id=45425770"
-    ],
-    [
-      "Valuing Land: The Simplest Viable Method",
-      "https://progressandpoverty.substack.com/p/valuing-land-the-simplest-viable"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 14:01:53",
       "https://news.ycombinator.com/item?id=45425568"
     ],
     [
-      "The Software Essays That Shaped Me",
+      "Software essays that shaped me",
       "https://refactoringenglish.com/blog/software-essays-that-shaped-me/"
     ]
   ],
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2025-09-29, 16:25:27",
-      "https://news.ycombinator.com/item?id=45415646"
-    ],
-    [
-      "Level Up your Rust pattern matching",
-      "https://blog.cuongle.dev/p/level-up-your-rust-pattern-matching"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 18:28:14",
       "https://news.ycombinator.com/item?id=45406645"
     ],
     [
       "Coding a new BASIC interpreter in 2025 to replace a slow one",
       "https://nanochess.org/ecs_basic.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 21:43:47",
+      "https://news.ycombinator.com/item?id=45399589"
+    ],
+    [
+      "Washi: The Japanese paper crafted to last 1000 years (4 min video)",
+      "https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 13:28:58",
+      "https://news.ycombinator.com/item?id=45395549"
+    ],
+    [
+      "Drunk CSS",
+      "https://shkspr.mobi/blog/2025/09/drunk-css/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-09-27, 10:59:30",
-      "https://news.ycombinator.com/item?id=45394719"
+      "2025-09-26, 11:42:04",
+      "https://news.ycombinator.com/item?id=45385354"
     ],
     [
-      "Finding and Understanding Bugs in C Compilers (2011) [pdf]",
-      "https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf"
+      "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
+      "https://dl.acm.org/doi/10.1145/359024.359031"
     ]
   ]
 ]
