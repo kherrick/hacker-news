@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
 * [2025-10-01, 21:00:18](https://news.ycombinator.com/item?id=45443462) - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
+* [2025-10-01, 20:53:17](https://news.ycombinator.com/item?id=45443368) - [DARPA project for automated translation from C to Rust (2024)](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities)
 * [2025-10-01, 20:48:23](https://news.ycombinator.com/item?id=45443304) - [Microsoft declares bring your Copilot to work day, usurping IT authority](https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/)
 * [2025-10-01, 20:25:59](https://news.ycombinator.com/item?id=45443004) - [The Truth About the School \"Replacing Teachers with AI\"](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
 * [2025-10-01, 20:07:44](https://news.ycombinator.com/item?id=45442743) - [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
