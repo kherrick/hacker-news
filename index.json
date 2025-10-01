@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-10-01, 14:31:37",
+      "https://news.ycombinator.com/item?id=45438170"
+    ],
+    [
+      "Technical Analysis of SAP Exploit Script Used in JLR, Harrods Hacks",
+      "https://detect.fyi/technical-analysis-of-sap-exploit-script-visual-composer-metadata-uploader-exploit-7b4a01b38548"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 14:07:04",
       "https://news.ycombinator.com/item?id=45437906"
     ],
@@ -197,16 +207,6 @@
     [
       "Intelligent Kubernetes Load Balancing at Databricks",
       "https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 03:13:16",
-      "https://news.ycombinator.com/item?id=45433926"
-    ],
-    [
-      "Blockdiff: We built our own file format for VM disk snapshots",
-      "https://cognition.ai/blog/blockdiff"
     ]
   ],
   [
