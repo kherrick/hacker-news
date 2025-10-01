@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-10-01, 07:00:21",
+      "https://news.ycombinator.com/item?id=45435100"
+    ],
+    [
+      "Type Theory and Functional Programming (1999) [pdf]",
+      "https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 06:33:02",
       "https://news.ycombinator.com/item?id=45434941"
     ],
     [
       "High-resolution efficient image generation from WiFi Mapping",
       "https://arxiv.org/abs/2506.10605"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 06:06:24",
-      "https://news.ycombinator.com/item?id=45434779"
-    ],
-    [
-      "The god mode vulnerability that should kill \"Trust Microsoft\" forever",
-      "https://tide.org/blog/god-mode-vulnerability-microsoft-authorityless-security"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-09-30, 07:03:11",
+      "https://news.ycombinator.com/item?id=45422717"
+    ],
+    [
+      "Defer: Resource cleanup in C with GCCs magic",
+      "https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 18:28:14",
       "https://news.ycombinator.com/item?id=45406645"
     ],
@@ -287,16 +297,6 @@
     [
       "Tiny worlds: A minimal implementation of DeepMind's Genie world model",
       "https://github.com/AlmondGod/tinyworlds"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 08:42:04",
-      "https://news.ycombinator.com/item?id=45394146"
-    ],
-    [
-      "Type theory and functional programming. (1999) [pdf]",
-      "https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf"
     ]
   ]
 ]
