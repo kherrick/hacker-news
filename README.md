@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-01, 11:07:43](https://news.ycombinator.com/item?id=45436378) - [Cannabis extract found to be effective for lower back pain](https://www.newscientist.com/article/2498064-cannabis-extract-found-to-be-effective-for-lower-back-pain/)
 * [2025-10-01, 10:00:29](https://news.ycombinator.com/item?id=45436027) - [FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET](https://flowsynx.io/)
 * [2025-10-01, 09:22:10](https://news.ycombinator.com/item?id=45435825) - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
 * [2025-10-01, 09:14:45](https://news.ycombinator.com/item?id=45435780) - [Self-hosting email in 2025 is easy actually (apart from M365)](https://mastodon.social/@whitequark/115298019560025791)
@@ -26,7 +27,6 @@
 * [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 * [2025-09-28, 15:40:04](https://news.ycombinator.com/item?id=45405144) - [NJ theme park puts animatronic dinosaurs on Facebook Marketplace](https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489)
 * [2025-09-27, 21:43:47](https://news.ycombinator.com/item?id=45399589) - [Washi: The Japanese paper crafted to last 1000 years [video]](https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years)
-* [2025-09-27, 19:40:26](https://news.ycombinator.com/item?id=45398744) - [The Unknown Genre in Videogames [video]](https://www.youtube.com/watch?v=HUiW-GV72QE)
 * [2025-09-27, 19:15:18](https://news.ycombinator.com/item?id=45398591) - [Styx Emulator Public Release](https://stumbl.ing/posts/styx-emulator-release/)
 * [2025-09-27, 15:28:27](https://news.ycombinator.com/item?id=45396565) - [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
 * [2025-09-27, 12:24:30](https://news.ycombinator.com/item?id=45395115) - [The Prehistory of Computing, Part II](https://www.oranlooney.com/post/history-of-computing-2/)
