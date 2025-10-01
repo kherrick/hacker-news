@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 14:05:45](https://news.ycombinator.com/item?id=45437893) - [Unix philosophy and filesystem access makes Claude Code amazing](https://www.alephic.com/writing/the-magic-of-claude-code)
 * [2025-10-01, 13:51:03](https://news.ycombinator.com/item?id=45437735) - [Cursor 1.7](https://cursor.com/changelog/1-7)
 * [2025-10-01, 13:38:36](https://news.ycombinator.com/item?id=45437594) - [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
 * [2025-10-01, 13:14:48](https://news.ycombinator.com/item?id=45437326) - [Minimal files and config for a PWA (including a single file PWA)](https://github.com/chr15m/minimal-pwa)
