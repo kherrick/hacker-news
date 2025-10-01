@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 21:00:18](https://news.ycombinator.com/item?id=45443462) - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
 * [2025-10-01, 20:25:59](https://news.ycombinator.com/item?id=45443004) - [The Truth About the School \"Replacing Teachers with AI\"](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
 * [2025-10-01, 20:07:44](https://news.ycombinator.com/item?id=45442743) - [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
+* [2025-10-01, 19:48:23](https://news.ycombinator.com/item?id=45442470) - [OpenAI won't say whose content trained its video tool. We found some clues.](https://www.washingtonpost.com/technology/interactive/2025/openai-training-data-sora/)
 * [2025-10-01, 19:41:33](https://news.ycombinator.com/item?id=45442365) - [The Anti-Truth Mandate: A Technical Flaw in Claude's Safety Architecture](https://github.com/anthropics/claude-code/issues/8683)
 * [2025-10-01, 19:30:28](https://news.ycombinator.com/item?id=45442185) - [U.S. Lost 32,000 Private-Sector Jobs in September, Says Payroll Processor](https://www.wsj.com/economy/jobs/u-s-lost-32-000-jobs-in-september-says-payroll-processor-06528340)
 * [2025-10-01, 19:15:02](https://news.ycombinator.com/item?id=45441983) - [ICE Is Buying a Tool to Track Phones, Without Warrants](https://olgalautman.substack.com/p/ice-is-buying-a-tool-to-track-hundreds)
