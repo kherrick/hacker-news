@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 17:08:41](https://news.ycombinator.com/item?id=45440207) - [Supreme Court lets Fed Governor Cook keep job pending oral argument in January](https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html)
+* [2025-10-01, 16:54:05](https://news.ycombinator.com/item?id=45440028) - [Walmart U.S. Moves to Eliminate Synthetic Dyes Across All Private Brand Foods](https://corporate.walmart.com/news/2025/10/01/walmart-u-s-moves-to-eliminate-synthetic-dyes-across-all-private-brand-food-products)
 * [2025-10-01, 16:52:21](https://news.ycombinator.com/item?id=45440005) - [Why Is Python So Popular in 2025? – The PyCharm Blog](https://blog.jetbrains.com/pycharm/2025/09/why-is-python-so-popular/)
 * [2025-10-01, 16:48:20](https://news.ycombinator.com/item?id=45439955) - [Codeberg Reaches 300k Projects](https://codeberg.org/)
 * [2025-10-01, 16:30:16](https://news.ycombinator.com/item?id=45439721) - [Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts](https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/)
