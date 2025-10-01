@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 15:00:41](https://news.ycombinator.com/item?id=45438496) - [Building a 30 PB storage cluster in the heart of SF](https://si.inc/posts/the-heap/)
+* [2025-10-01, 14:48:31](https://news.ycombinator.com/item?id=45438346) - [Autism Simulator](https://autism-simulator.vercel.app/)
+* [2025-10-01, 14:43:08](https://news.ycombinator.com/item?id=45438296) - [Aphantasia and Psychedelics](https://psychedelirium.substack.com/p/aphantasia-and-psychedelics)
+* [2025-10-01, 14:38:40](https://news.ycombinator.com/item?id=45438253) - [Hunter S Thompson's death to be reviewed more than 20 years later](https://www.theguardian.com/books/2025/oct/01/hunter-s-thompsons-death-reviewed)
 * [2025-10-01, 14:07:04](https://news.ycombinator.com/item?id=45437906) - [Show HN: Resterm – A terminal-based REST/GraphQL and gRPC client](https://github.com/unkn0wn-root/resterm)
 * [2025-10-01, 14:05:45](https://news.ycombinator.com/item?id=45437893) - [Unix philosophy and filesystem access makes Claude Code amazing](https://www.alephic.com/writing/the-magic-of-claude-code)
 * [2025-10-01, 13:51:03](https://news.ycombinator.com/item?id=45437735) - [Cursor 1.7](https://cursor.com/changelog/1-7)
 * [2025-10-01, 13:38:36](https://news.ycombinator.com/item?id=45437594) - [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
 * [2025-10-01, 13:14:48](https://news.ycombinator.com/item?id=45437326) - [Minimal files and config for a PWA (including a single file PWA)](https://github.com/chr15m/minimal-pwa)
+* [2025-10-01, 13:14:32](https://news.ycombinator.com/item?id=45437323) - [Uxntal: A programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
 * [2025-10-01, 12:54:37](https://news.ycombinator.com/item?id=45437113) - [LLMs Are the Ultimate Demoware](https://blog.charliemeyer.co/llms-are-the-ultimate-demoware/)
 * [2025-10-01, 12:54:17](https://news.ycombinator.com/item?id=45437112) - [Detect Electron apps on Mac that hasn't been updated to fix the system wide lag](https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58)
 * [2025-10-01, 12:47:10](https://news.ycombinator.com/item?id=45437060) - [Hackers strike Harrods in latest UK cyberattack](https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack)
