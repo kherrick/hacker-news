@@ -39,6 +39,7 @@
 * [2025-09-27, 17:39:35](https://news.ycombinator.com/item?id=45397830) - [The doctor who says we can improve our vision – at any age](https://www.thetimes.com/life-style/health-fitness/article/how-to-improve-vision-any-age-doctor-advice-gjnftx5dm)
 * [2025-09-27, 17:33:06](https://news.ycombinator.com/item?id=45397773) - [Americans Are Using PTO to Sleep, Not for Vacation–Report](https://www.newsweek.com/americans-are-using-pto-to-sleep-not-for-vacation-report-10783162)
 * [2025-09-27, 17:00:42](https://news.ycombinator.com/item?id=45397492) - [Great Question (YC W21) Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product)
+* [2025-09-27, 16:40:57](https://news.ycombinator.com/item?id=45397339) - [Increase Image kb size to 20KB, 50KB, or to the specific KBs](https://www.hadbomb.com/increase-image-size/)
 * [2025-09-27, 15:46:46](https://news.ycombinator.com/item?id=45396754) - [Greenland Is a Beautiful Nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/)
 * [2025-09-27, 15:35:59](https://news.ycombinator.com/item?id=45396641) - [Norway to Monitor Airborne Radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard)
 * [2025-09-27, 15:34:55](https://news.ycombinator.com/item?id=45396624) - [AI model trapped in a Raspberry Pi](https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/)
