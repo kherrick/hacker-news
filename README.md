@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-01, 04:16:40](https://news.ycombinator.com/item?id=45434179) - [US government shuts down after Democrats refuse to back Republican funding plan](https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down)
-* [2025-10-01, 04:05:57](https://news.ycombinator.com/item?id=45434146) - [US federal government shuts dowm](https://www.bbc.com/news/live/clylje0rmp2t)
+* [2025-10-01, 05:06:38](https://news.ycombinator.com/item?id=45434417) - [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks)
 * [2025-10-01, 03:44:58](https://news.ycombinator.com/item?id=45434062) - [An informational website about why I went to prison](https://prison.josh.mn/)
 * [2025-10-01, 03:13:16](https://news.ycombinator.com/item?id=45433926) - [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff)
 * [2025-10-01, 02:59:28](https://news.ycombinator.com/item?id=45433866) - [The gaslit asset class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
@@ -18,6 +17,7 @@
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Sora 2](https://openai.com/index/sora-2/)
 * [2025-09-30, 16:21:09](https://news.ycombinator.com/item?id=45427482) - [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
 * [2025-09-30, 16:00:36](https://news.ycombinator.com/item?id=45427197) - [Leaked Apple M5 9 core Geekbench scores](https://browser.geekbench.com/v6/cpu/14173685)
+* [2025-09-30, 15:50:14](https://news.ycombinator.com/item?id=45427059) - [Random Attractors – Found using Lyapunov Exponents (2001)](https://paulbourke.net/fractals/lyapunov/)
 * [2025-09-30, 15:21:23](https://news.ycombinator.com/item?id=45426680) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
 * [2025-09-30, 15:09:00](https://news.ycombinator.com/item?id=45426490) - [Kagi News](https://blog.kagi.com/kagi-news)
 * [2025-09-30, 14:01:53](https://news.ycombinator.com/item?id=45425568) - [Software essays that shaped me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
