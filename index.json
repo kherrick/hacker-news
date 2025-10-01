@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-01, 12:47:10",
+      "https://news.ycombinator.com/item?id=45437060"
+    ],
+    [
+      "Hackers strike Harrods in latest UK cyberattack",
+      "https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 12:41:23",
+      "https://news.ycombinator.com/item?id=45437003"
+    ],
+    [
+      "Broadcom Fails to Disclose Zero-Day Exploitation of VMware Vulnerability",
+      "https://www.securityweek.com/broadcom-fails-to-disclose-zero-day-exploitation-of-vmware-vulnerability/"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 11:55:15",
+      "https://news.ycombinator.com/item?id=45436664"
+    ],
+    [
+      "People want platforms (not governments) to be responsible for moderating content",
+      "https://reutersinstitute.politics.ox.ac.uk/news/most-people-want-platforms-not-governments-be-responsible-moderating-content"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 11:33:19",
       "https://news.ycombinator.com/item?id=45436534"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-09-30, 16:21:09",
-      "https://news.ycombinator.com/item?id=45427482"
-    ],
-    [
-      "Launch HN: Airweave (YC X25) – Let agents search any app",
-      "https://github.com/airweave-ai/airweave"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 16:00:36",
       "https://news.ycombinator.com/item?id=45427197"
     ],
@@ -197,16 +217,6 @@
     [
       "Designing agentic loops",
       "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 13:19:53",
-      "https://news.ycombinator.com/item?id=45425061"
-    ],
-    [
-      "An opinionated critique of Duolingo",
-      "https://isomorphism.xyz/blog/2025/duolingo/"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-09-30, 12:40:17",
-      "https://news.ycombinator.com/item?id=45424704"
+      "2025-09-30, 07:03:11",
+      "https://news.ycombinator.com/item?id=45422717"
     ],
     [
-      "Pasta Cooking Time",
-      "https://www.jefftk.com/p/pasta-cooking-time"
+      "Defer: Resource cleanup in C with GCCs magic",
+      "https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Washi: The Japanese paper crafted to last 1000 years [video]",
       "https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 19:15:18",
-      "https://news.ycombinator.com/item?id=45398591"
-    ],
-    [
-      "Styx Emulator Public Release",
-      "https://stumbl.ing/posts/styx-emulator-release/"
     ]
   ],
   [
