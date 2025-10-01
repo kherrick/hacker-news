@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-01, 21:54:46](https://news.ycombinator.com/item?id=45444004) - [Egg-Shaped Curves](https://nyjp07.com/index_egg_E.html)
 * [2025-10-01, 21:40:54](https://news.ycombinator.com/item?id=45443881) - [US gov shutdown leaves IT projects hanging, security defenders a skeleton crew](https://www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/)
 * [2025-10-01, 21:00:18](https://news.ycombinator.com/item?id=45443462) - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
 * [2025-10-01, 20:53:17](https://news.ycombinator.com/item?id=45443368) - [DARPA project for automated translation from C to Rust (2024)](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities)
 * [2025-10-01, 20:48:23](https://news.ycombinator.com/item?id=45443304) - [Microsoft declares bring your Copilot to work day, usurping IT authority](https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/)
 * [2025-10-01, 20:40:19](https://news.ycombinator.com/item?id=45443200) - [Implementing /Usr Merge in Alpine](https://alpinelinux.org/posts/2025-10-01-usr-merge.html)
-* [2025-10-01, 20:25:59](https://news.ycombinator.com/item?id=45443004) - [Unbound Academy hasn’t replaced teachers with AI](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
 * [2025-10-01, 20:07:44](https://news.ycombinator.com/item?id=45442743) - [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
 * [2025-10-01, 18:30:36](https://news.ycombinator.com/item?id=45441364) - [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
 * [2025-10-01, 18:20:49](https://news.ycombinator.com/item?id=45441222) - [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
