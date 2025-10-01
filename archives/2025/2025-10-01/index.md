@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 18:10:39](https://news.ycombinator.com/item?id=45441069) - [Jane Goodall Dies at 91](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
+* [2025-10-01, 17:36:43](https://news.ycombinator.com/item?id=45440571) - [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
+* [2025-10-01, 17:25:33](https://news.ycombinator.com/item?id=45440431) - [OpenTSLM: Language Models That Understand Time-Series (Stanford, ETH, Google)](https://www.opentslm.com/)
+* [2025-10-01, 17:22:43](https://news.ycombinator.com/item?id=45440387) - [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/)
 * [2025-10-01, 17:09:20](https://news.ycombinator.com/item?id=45440212) - [Why Tech Inevitability is Self-Defeating](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
 * [2025-10-01, 17:08:41](https://news.ycombinator.com/item?id=45440207) - [Supreme Court lets Fed Governor Cook keep job pending oral argument in January](https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html)
 * [2025-10-01, 16:54:05](https://news.ycombinator.com/item?id=45440028) - [Walmart U.S. Moves to Eliminate Synthetic Dyes Across All Private Brand Foods](https://corporate.walmart.com/news/2025/10/01/walmart-u-s-moves-to-eliminate-synthetic-dyes-across-all-private-brand-food-products)
