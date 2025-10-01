@@ -64,6 +64,7 @@
 * [2025-09-27, 12:30:41](https://news.ycombinator.com/item?id=45395156) - [A Gentle Introduction to CUDA PTX](https://philipfabianek.com/posts/cuda-ptx-introduction/)
 * [2025-09-27, 12:27:46](https://news.ycombinator.com/item?id=45395133) - [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/)
 * [2025-09-27, 12:27:29](https://news.ycombinator.com/item?id=45395132) - [Computer Vision: Algorithms and Applications, 2nd ed](https://szeliski.org/Book/)
+* [2025-09-27, 12:24:30](https://news.ycombinator.com/item?id=45395115) - [The Prehistory of Computing, Part II](https://www.oranlooney.com/post/history-of-computing-2/)
 * [2025-09-27, 12:06:18](https://news.ycombinator.com/item?id=45395038) - [DITA – Darwin Information Typing Architecture](https://dita-lang.org/)
 * [2025-09-27, 12:00:22](https://news.ycombinator.com/item?id=45395010) - [Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025)
 * [2025-09-27, 11:44:57](https://news.ycombinator.com/item?id=45394942) - [Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say](https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221)
