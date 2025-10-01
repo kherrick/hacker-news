@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-10-01, 19:30:28",
+      "https://news.ycombinator.com/item?id=45442185"
+    ],
+    [
+      "U.S. Lost 32,000 Private-Sector Jobs in September, Says Payroll Processor",
+      "https://www.wsj.com/economy/jobs/u-s-lost-32-000-jobs-in-september-says-payroll-processor-06528340"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 19:15:02",
       "https://news.ycombinator.com/item?id=45441983"
     ],
     [
       "ICE Is Buying a Tool to Track Phones, Without Warrants",
       "https://olgalautman.substack.com/p/ice-is-buying-a-tool-to-track-hundreds"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 18:44:47",
-      "https://news.ycombinator.com/item?id=45441580"
-    ],
-    [
-      "Tinker by Thinking Machines",
-      "https://thinkingmachines.ai/tinker/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts",
       "https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 16:25:58",
-      "https://news.ycombinator.com/item?id=45439670"
-    ],
-    [
-      "No more \"check mail from other accounts\" in Gmail web",
-      "https://support.google.com/mail/answer/16604719?hl=en"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ask HN: What is nowadays (opensource) way of converting HTML to PDF?",
       "https://news.ycombinator.com/item?id=45404760"
+    ]
+  ],
+  [
+    [
+      "2025-09-28, 14:00:57",
+      "https://news.ycombinator.com/item?id=45404378"
+    ],
+    [
+      "A replica of Citizen Quartz watch based on Harel's paper introducing statecharts",
+      "https://andyjakubowski.github.io/statechart-watch/"
     ]
   ]
 ]
