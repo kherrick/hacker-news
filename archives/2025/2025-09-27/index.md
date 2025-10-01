@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
 * [2025-09-27, 23:50:42](https://news.ycombinator.com/item?id=45400376) - [Learn to Play Go](https://online-go.com/learn-to-play-go)
+* [2025-09-27, 23:40:42](https://news.ycombinator.com/item?id=45400310) - [The Lowest Level PL](https://pramatias.github.io/cubes/cubes_en.html)
 * [2025-09-27, 23:33:43](https://news.ycombinator.com/item?id=45400269) - [Spending on AI Is at Epic Levels. Will It Ever Pay Off?](https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128)
 * [2025-09-27, 23:31:19](https://news.ycombinator.com/item?id=45400246) - [Faster Virtual Machines: Speeding Up Programming Language Execution (2023)](https://mort.coffee/home/fast-interpreters/)
 * [2025-09-27, 23:26:57](https://news.ycombinator.com/item?id=45400221) - [Why Warm Countries Are Poorer](https://unchartedterritories.tomaspueyo.com/p/mountains)
