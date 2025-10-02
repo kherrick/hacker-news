@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 06:25:43](https://news.ycombinator.com/item?id=45446834) - [Immich v2.0.0 – First stable release](https://github.com/immich-app/immich/discussions/22546)
 * [2025-10-02, 00:12:35](https://news.ycombinator.com/item?id=45445114) - [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 * [2025-10-01, 21:00:18](https://news.ycombinator.com/item?id=45443462) - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
 * [2025-10-01, 18:20:49](https://news.ycombinator.com/item?id=45441222) - [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
-* [2025-10-01, 18:10:39](https://news.ycombinator.com/item?id=45441069) - [Jane Goodall has died](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
 * [2025-10-01, 17:36:43](https://news.ycombinator.com/item?id=45440571) - [Don't avoid workplace politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
 * [2025-10-01, 17:25:33](https://news.ycombinator.com/item?id=45440431) - [OpenTSLM: Language models that understand time series](https://www.opentslm.com/)
 * [2025-10-01, 16:51:58](https://news.ycombinator.com/item?id=45439997) - [The RAG Obituary: Killed by agents, buried by context windows](https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents)
