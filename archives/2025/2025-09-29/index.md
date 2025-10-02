@@ -47,6 +47,7 @@
 * [2025-09-29, 15:54:42](https://news.ycombinator.com/item?id=45415332) - [Subtleties of SQLite Indexes](https://emschwartz.me/subtleties-of-sqlite-indexes/)
 * [2025-09-29, 15:45:33](https://news.ycombinator.com/item?id=45415232) - [Write the Damn Code](https://antonz.org/write-code/)
 * [2025-09-29, 15:42:46](https://news.ycombinator.com/item?id=45415207) - [Loadmo.re: design inspiration for unconventional web](https://loadmo.re)
+* [2025-09-29, 15:41:50](https://news.ycombinator.com/item?id=45415196) - [Class Dismissed: Profile of Joe Liemandt and Alpha School](https://joincolossus.com/article/joe-liemandt-class-dismissed/)
 * [2025-09-29, 15:40:30](https://news.ycombinator.com/item?id=45415178) - [How the Brain Balances Excitation and Inhibition](https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/)
 * [2025-09-29, 15:20:11](https://news.ycombinator.com/item?id=45414933) - [Nobel Laureate John Jumper: AI Is Revolutionizing Scientific Discovery [video]](https://www.youtube.com/watch?v=2Yguz5U-Nic)
 * [2025-09-29, 15:04:07](https://news.ycombinator.com/item?id=45414718) - [The most common surgery](https://www.asimov.press/p/cataracts)

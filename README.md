@@ -2,10 +2,9 @@
 
 * [2025-10-02, 19:39:08](https://news.ycombinator.com/item?id=45454460) - [Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
 * [2025-10-02, 19:34:08](https://news.ycombinator.com/item?id=45454374) - [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement)
-* [2025-10-02, 18:37:28](https://news.ycombinator.com/item?id=45453586) - [OpenAI's H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
 * [2025-10-02, 18:26:57](https://news.ycombinator.com/item?id=45453448) - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
 * [2025-10-02, 18:13:24](https://news.ycombinator.com/item?id=45453299) - [The Answer (1954)](https://sfshortstories.com/?p=5983)
-* [2025-10-02, 18:06:41](https://news.ycombinator.com/item?id=45453222) - [I keep blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
+* [2025-10-02, 18:06:41](https://news.ycombinator.com/item?id=45453222) - [Babel is why I keep blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
 * [2025-10-02, 18:00:27](https://news.ycombinator.com/item?id=45453135) - [Email immutability matters more in a world with AI](https://www.fastmail.com/blog/not-written-with-ai/)
 * [2025-10-02, 17:01:16](https://news.ycombinator.com/item?id=45452299) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
 * [2025-10-02, 16:58:55](https://news.ycombinator.com/item?id=45452261) - [Why I chose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
@@ -22,6 +21,8 @@
 * [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine in Gaza, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 * [2025-10-01, 13:52:41](https://news.ycombinator.com/item?id=45437759) - [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
+* [2025-10-01, 06:03:28](https://news.ycombinator.com/item?id=45434755) - [Mary Carleton, Counterfeit Princess](https://publicdomainreview.org/essay/mary-carleton-counterfeit-princess/)
+* [2025-09-29, 15:41:50](https://news.ycombinator.com/item?id=45415196) - [Class Dismissed: Profile of Joe Liemandt and Alpha School](https://joincolossus.com/article/joe-liemandt-class-dismissed/)
 * [2025-09-29, 15:04:07](https://news.ycombinator.com/item?id=45414718) - [The history of cataract surgery](https://www.asimov.press/p/cataracts)
 * [2025-09-29, 12:47:45](https://news.ycombinator.com/item?id=45413059) - [RISC-V Conditional Moves](https://www.corsix.org/content/riscv-conditional-moves)
 * [2025-09-29, 12:29:29](https://news.ycombinator.com/item?id=45412870) - [A simple habit that saves my evenings](https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/)
@@ -29,7 +30,6 @@
 * [2025-09-29, 08:31:36](https://news.ycombinator.com/item?id=45411514) - [Show HN: Traceroute Visualizer](https://kriztalz.sh/traceroute-visualizer/)
 * [2025-09-29, 03:22:27](https://news.ycombinator.com/item?id=45410068) - [I built ChatGPT with Minecraft redstone [video]](https://www.youtube.com/watch?v=VaeI9YgE1o8)
 * [2025-09-28, 21:00:18](https://news.ycombinator.com/item?id=45407953) - [We bought the whole GPU, so we're damn well going to use the whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
-* [2025-09-28, 18:46:22](https://news.ycombinator.com/item?id=45406804) - [Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)](https://americanart.si.edu/blog/throne-james-hampton)
 
 ## [Archives](archives/index.md)
 

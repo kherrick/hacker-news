@@ -72,6 +72,7 @@
 * [2025-10-01, 07:00:21](https://news.ycombinator.com/item?id=45435100) - [Type Theory and Functional Programming (1999) [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
 * [2025-10-01, 06:33:02](https://news.ycombinator.com/item?id=45434941) - [High-resolution efficient image generation from WiFi Mapping](https://arxiv.org/abs/2506.10605)
 * [2025-10-01, 06:06:24](https://news.ycombinator.com/item?id=45434779) - [The God Mode Vulnerability That Should Kill \"Trust Microsoft\" Forever](https://tide.org/blog/god-mode-vulnerability-microsoft-authorityless-security)
+* [2025-10-01, 06:03:28](https://news.ycombinator.com/item?id=45434755) - [Mary Carleton, Counterfeit Princess](https://publicdomainreview.org/essay/mary-carleton-counterfeit-princess/)
 * [2025-10-01, 05:22:06](https://news.ycombinator.com/item?id=45434511) - [Basic Dialects, IDEs, and Tutorials](https://github.com/JohnBlood/awesome-basic)
 * [2025-10-01, 05:06:38](https://news.ycombinator.com/item?id=45434417) - [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks)
 * [2025-10-01, 04:16:50](https://news.ycombinator.com/item?id=45434181) - [Hacker News Guidelines](https://news.ycombinator.com/item?id=45434181)
