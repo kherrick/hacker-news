@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-10-02, 16:37:20",
-      "https://news.ycombinator.com/item?id=45451971"
+      "2025-10-02, 17:01:16",
+      "https://news.ycombinator.com/item?id=45452299"
     ],
     [
-      "Y'all are over-complicating these AI-risk arguments",
-      "https://dynomight.net/ai-risk/"
+      "Liva AI (YC S25) Is Hiring",
+      "https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 16:48:59",
+      "https://news.ycombinator.com/item?id=45452149"
+    ],
+    [
+      "Linux Desktop on Apple Silicon in Practice",
+      "https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 16:36:53",
+      "https://news.ycombinator.com/item?id=45451961"
+    ],
+    [
+      "The Atlantic Quantum team is joining Google",
+      "https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 16:08:40",
+      "https://news.ycombinator.com/item?id=45451567"
+    ],
+    [
+      "Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?",
+      "https://news.ycombinator.com/item?id=45451567"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45451527"
     ],
     [
-      "Signal's New PQ Ratchet",
+      "Signal Protocol and Post-Quantum Ratchets",
       "https://signal.org/blog/spqr/"
     ]
   ],
@@ -121,32 +151,12 @@
   ],
   [
     [
-      "2025-10-02, 12:31:53",
-      "https://news.ycombinator.com/item?id=45448802"
-    ],
-    [
-      "Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month",
-      "https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 12:28:27",
       "https://news.ycombinator.com/item?id=45448772"
     ],
     [
       "Red Hat confirms security incident after hackers claim GitHub breach",
       "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 12:00:33",
-      "https://news.ycombinator.com/item?id=45448539"
-    ],
-    [
-      "Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End)",
-      "https://careers.activeloop.ai/"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2025-10-01, 15:00:41",
-      "https://news.ycombinator.com/item?id=45438496"
-    ],
-    [
-      "Building the heap: racking 30 petabytes of hard drives for pretraining",
-      "https://si.inc/posts/the-heap/"
-    ]
-  ],
-  [
-    [
       "2025-10-01, 14:48:31",
       "https://news.ycombinator.com/item?id=45438346"
     ],
     [
       "Show HN: Autism Simulator",
       "https://autism-simulator.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 14:05:45",
-      "https://news.ycombinator.com/item?id=45437893"
-    ],
-    [
-      "Unix philosophy and filesystem access makes Claude Code amazing",
-      "https://www.alephic.com/writing/the-magic-of-claude-code"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Pong Wars: A battle between day and night, good and bad",
       "https://github.com/vnglst/pong-wars"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 08:31:36",
+      "https://news.ycombinator.com/item?id=45411514"
+    ],
+    [
+      "Show HN: Traceroute Visualizer",
+      "https://kriztalz.sh/traceroute-visualizer/"
     ]
   ],
   [
