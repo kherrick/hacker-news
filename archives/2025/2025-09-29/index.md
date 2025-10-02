@@ -13,6 +13,7 @@
 * [2025-09-29, 21:42:39](https://news.ycombinator.com/item?id=45419124) - [Can LIGO Detect Daylight Savings Time?](https://arxiv.org/abs/2509.11849)
 * [2025-09-29, 21:21:21](https://news.ycombinator.com/item?id=45418918) - [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
 * [2025-09-29, 21:17:16](https://news.ycombinator.com/item?id=45418875) - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
+* [2025-09-29, 21:08:07](https://news.ycombinator.com/item?id=45418775) - [Understanding Cultural Differences: The Michigan Fish Test (2013)](http://michael-roberto.blogspot.com/2013/07/understanding-cultural-differences.html)
 * [2025-09-29, 21:03:21](https://news.ycombinator.com/item?id=45418713) - [Big Tech Told Kids to Code. The Jobs Didn’t Follow.](https://www.nytimes.com/2025/09/29/podcasts/the-daily/big-tech-told-kids-to-code-the-jobs-didnt-follow.html)
 * [2025-09-29, 20:58:11](https://news.ycombinator.com/item?id=45418675) - [Ask HN: What Are You Working On? (September 2025)](https://news.ycombinator.com/item?id=45418675)
 * [2025-09-29, 20:33:14](https://news.ycombinator.com/item?id=45418428) - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
