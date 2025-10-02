@@ -2,7 +2,6 @@
 
 * [2025-10-02, 17:01:16](https://news.ycombinator.com/item?id=45452299) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
 * [2025-10-02, 16:36:53](https://news.ycombinator.com/item?id=45451961) - [The Atlantic Quantum team is joining Google](https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/)
-* [2025-10-02, 16:10:58](https://news.ycombinator.com/item?id=45451605) - [Tesla Robotaxi Reports 3 Crashes in Austin in July, Hides Details](https://www.forbes.com/sites/bradtempleton/2025/09/18/tesla-robotaxi-reports-3-crashes-in-austin-on-july-1-details-hidden/)
 * [2025-10-02, 16:08:40](https://news.ycombinator.com/item?id=45451567) - [Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?](https://news.ycombinator.com/item?id=45451567)
 * [2025-10-02, 16:07:23](https://news.ycombinator.com/item?id=45451547) - [Launch HN: Simplex (YC S24) – Browser automation platform for developers](https://www.simplex.sh/)
 * [2025-10-02, 16:06:10](https://news.ycombinator.com/item?id=45451527) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
@@ -16,6 +15,7 @@
 * [2025-10-02, 12:34:43](https://news.ycombinator.com/item?id=45448825) - [EU funds are flowing into spyware companies and politicians demanding answers](https://www.theregister.com/2025/10/02/eu_spyware_funding/)
 * [2025-10-02, 12:28:27](https://news.ycombinator.com/item?id=45448772) - [Red Hat confirms security incident after hackers breach GitLab instance](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
 * [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
+* [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine in Gaza, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
 * [2025-10-02, 06:25:43](https://news.ycombinator.com/item?id=45446834) - [Immich v2.0.0 – First stable release](https://github.com/immich-app/immich/discussions/22546)
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 * [2025-10-01, 16:25:58](https://news.ycombinator.com/item?id=45439670) - [Gmail will no longer support checking emails from third-party accounts via POP](https://support.google.com/mail/answer/16604719?hl=en)
