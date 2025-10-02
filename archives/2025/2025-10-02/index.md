@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 15:09:05](https://news.ycombinator.com/item?id=45450718) - [Ford locking basic navigation behind a subscription](https://old.reddit.com/r/LinusTechTips/comments/1nw5s9f/ford_locking_basic_navigation_behind_a/)
 * [2025-10-02, 14:58:04](https://news.ycombinator.com/item?id=45450525) - [Work Is Not School: Surviving Institutional Stupidity](https://www.leadingsapiens.com/surviving-institutional-stupidity/)
 * [2025-10-02, 14:52:49](https://news.ycombinator.com/item?id=45450449) - [Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ](https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson)
 * [2025-10-02, 14:36:25](https://news.ycombinator.com/item?id=45450194) - [Why the end of support for Windows 10 is uniquely troubling](https://pirg.org/articles/why-the-end-of-support-for-windows-10-is-uniquely-troubling/)
