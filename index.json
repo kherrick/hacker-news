@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-10-02, 00:53:20",
-      "https://news.ycombinator.com/item?id=45445331"
-    ],
-    [
-      "Maine Woman Discovers Election Ballots in Amazon Package",
-      "https://www.themainewire.com/2025/10/maine-woman-discovers-hundreds-of-election-ballots-in-amazon-package-as-state-considers-voter-id/"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 00:38:38",
       "https://news.ycombinator.com/item?id=45445260"
     ],
     [
       "The biggest semantic mess in Futhark",
       "https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 00:12:35",
+      "https://news.ycombinator.com/item?id=45445114"
+    ],
+    [
+      "Keyhive",
+      "https://www.inkandswitch.com/keyhive/notebook/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "The Company Man",
       "https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 20:40:19",
-      "https://news.ycombinator.com/item?id=45443200"
-    ],
-    [
-      "Implementing /Usr Merge in Alpine",
-      "https://alpinelinux.org/posts/2025-10-01-usr-merge.html"
     ]
   ],
   [
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2025-10-01, 13:38:36",
-      "https://news.ycombinator.com/item?id=45437594"
+      "2025-10-01, 08:00:30",
+      "https://news.ycombinator.com/item?id=45435422"
     ],
     [
-      "Show HN: ChartDB Agent – Cursor for DB schema design",
-      "https://app.chartdb.io/ai"
+      "Category Theory Illustrated – Natural Transformations",
+      "https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Show HN: Glide, an extensible, keyboard-focused web browser",
       "https://blog.craigie.dev/introducing-glide/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 17:48:53",
+      "https://news.ycombinator.com/item?id=45416670"
+    ],
+    [
+      "The secret to great art? Finding someone else to make it",
+      "https://www.ft.com/content/d84c8502-d413-4a26-a59c-494af11978b5"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-09-28, 22:00:47",
-      "https://news.ycombinator.com/item?id=45408473"
+      "2025-09-29, 03:43:03",
+      "https://news.ycombinator.com/item?id=45410143"
     ],
     [
-      "\"DSEG\": Original 7-segment and 14-segment fonts (2014)",
-      "https://www.keshikan.net/fonts-e.html"
+      "Stealing Debug Pretty Print from Vitis HLS",
+      "https://stefanabikaram.com/writing/vitis-hls-debug-pretty-print/"
     ]
   ],
   [
