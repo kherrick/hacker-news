@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-09-29, 17:39:02",
-      "https://news.ycombinator.com/item?id=45416552"
-    ],
-    [
-      "Adding a new instruction to RISC-V back end in LLVM",
-      "https://blog.gustavoleite.me/llvm-riscv-instruction"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 15:04:07",
       "https://news.ycombinator.com/item?id=45414718"
     ],
@@ -257,6 +247,26 @@
     [
       "Pong Wars: A battle between day and night, good and bad",
       "https://github.com/vnglst/pong-wars"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 12:47:45",
+      "https://news.ycombinator.com/item?id=45413059"
+    ],
+    [
+      "RISC-V Conditional Moves",
+      "https://www.corsix.org/content/riscv-conditional-moves"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 09:27:00",
+      "https://news.ycombinator.com/item?id=45411799"
+    ],
+    [
+      "Stealing from Google",
+      "https://taqib.dev/blog/stealing-from-google/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "We bought the whole GPU, so we're damn well going to use the whole GPU",
       "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 18:46:22",
-      "https://news.ycombinator.com/item?id=45406804"
-    ],
-    [
-      "Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)",
-      "https://americanart.si.edu/blog/throne-james-hampton"
     ]
   ]
 ]
