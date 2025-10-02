@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 17:01:16](https://news.ycombinator.com/item?id=45452299) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
+* [2025-10-02, 16:48:59](https://news.ycombinator.com/item?id=45452149) - [Linux Desktop on Apple Silicon in Practice](https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5)
 * [2025-10-02, 16:37:20](https://news.ycombinator.com/item?id=45451971) - [Y'all are over-complicating these AI-risk arguments](https://dynomight.net/ai-risk/)
+* [2025-10-02, 16:36:53](https://news.ycombinator.com/item?id=45451961) - [The Atlantic Quantum team is joining Google](https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/)
+* [2025-10-02, 16:08:40](https://news.ycombinator.com/item?id=45451567) - [Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?](https://news.ycombinator.com/item?id=45451567)
 * [2025-10-02, 16:07:23](https://news.ycombinator.com/item?id=45451547) - [Launch HN: Simplex (YC S24) – Browser automation platform for developers](https://www.simplex.sh/)
 * [2025-10-02, 16:06:10](https://news.ycombinator.com/item?id=45451527) - [Signal's New PQ Ratchet](https://signal.org/blog/spqr/)
 * [2025-10-02, 15:42:34](https://news.ycombinator.com/item?id=45451208) - [Windows 7 marketshare jumps to nearly 10% as Windows 10 support is about to end](https://www.neowin.net/news/windows-7-marketshare-jumps-to-nearly-10-as-windows-10-enters-final-weeks-of-support/)
