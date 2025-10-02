@@ -23,13 +23,13 @@
 * [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine in Gaza, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 * [2025-10-01, 13:52:41](https://news.ycombinator.com/item?id=45437759) - [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
-* [2025-09-29, 17:39:02](https://news.ycombinator.com/item?id=45416552) - [Adding a new instruction to RISC-V back end in LLVM](https://blog.gustavoleite.me/llvm-riscv-instruction)
 * [2025-09-29, 15:04:07](https://news.ycombinator.com/item?id=45414718) - [The history of cataract surgery](https://www.asimov.press/p/cataracts)
 * [2025-09-29, 13:44:02](https://news.ycombinator.com/item?id=45413717) - [Pong Wars: A battle between day and night, good and bad](https://github.com/vnglst/pong-wars)
+* [2025-09-29, 12:47:45](https://news.ycombinator.com/item?id=45413059) - [RISC-V Conditional Moves](https://www.corsix.org/content/riscv-conditional-moves)
+* [2025-09-29, 09:27:00](https://news.ycombinator.com/item?id=45411799) - [Stealing from Google](https://taqib.dev/blog/stealing-from-google/)
 * [2025-09-29, 08:31:36](https://news.ycombinator.com/item?id=45411514) - [Show HN: Traceroute Visualizer](https://kriztalz.sh/traceroute-visualizer/)
 * [2025-09-29, 03:22:27](https://news.ycombinator.com/item?id=45410068) - [I built ChatGPT with Minecraft redstone [video]](https://www.youtube.com/watch?v=VaeI9YgE1o8)
 * [2025-09-28, 21:00:18](https://news.ycombinator.com/item?id=45407953) - [We bought the whole GPU, so we're damn well going to use the whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
-* [2025-09-28, 18:46:22](https://news.ycombinator.com/item?id=45406804) - [Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)](https://americanart.si.edu/blog/throne-james-hampton)
 
 ## [Archives](archives/index.md)
 
