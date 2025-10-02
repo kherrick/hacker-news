@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-10-02, 18:13:24",
+      "https://news.ycombinator.com/item?id=45453299"
+    ],
+    [
+      "The Answer (1954)",
+      "https://sfshortstories.com/?p=5983"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 18:09:46",
+      "https://news.ycombinator.com/item?id=45453257"
+    ],
+    [
+      "Dropping Trust in US Media",
+      "https://news.gallup.com/poll/695762/trust-media-new-low.aspx"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 18:06:41",
+      "https://news.ycombinator.com/item?id=45453222"
+    ],
+    [
+      "I Keep Blogging with Emacs",
+      "https://entropicthoughts.com/why-stick-to-emacs-blog"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 18:00:27",
+      "https://news.ycombinator.com/item?id=45453135"
+    ],
+    [
+      "Email immutability matters more in a world with AI",
+      "https://www.fastmail.com/blog/not-written-with-ai/"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 17:01:16",
       "https://news.ycombinator.com/item?id=45452299"
     ],
     [
       "Liva AI (YC S25) Is Hiring",
       "https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 16:58:55",
+      "https://news.ycombinator.com/item?id=45452261"
+    ],
+    [
+      "Why I chose Lua for this blog",
+      "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html"
     ]
   ],
   [
@@ -31,16 +81,6 @@
   ],
   [
     [
-      "2025-10-02, 16:08:40",
-      "https://news.ycombinator.com/item?id=45451567"
-    ],
-    [
-      "Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?",
-      "https://news.ycombinator.com/item?id=45451567"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 16:07:23",
       "https://news.ycombinator.com/item?id=45451547"
     ],
@@ -57,16 +97,6 @@
     [
       "Signal Protocol and Post-Quantum Ratchets",
       "https://signal.org/blog/spqr/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 15:35:14",
-      "https://news.ycombinator.com/item?id=45451103"
-    ],
-    [
-      "Autism should not be seen as single condition with one cause, say scientists",
-      "https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-10-02, 12:36:39",
-      "https://news.ycombinator.com/item?id=45448839"
-    ],
-    [
-      "Meta will listen into AI conversations to personalize ads",
-      "https://www.theregister.com/2025/10/01/meta_ai_use_informs_ads/"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 12:34:43",
       "https://news.ycombinator.com/item?id=45448825"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-10-02, 06:25:43",
-      "https://news.ycombinator.com/item?id=45446834"
-    ],
-    [
-      "Immich v2.0.0 – First stable release",
-      "https://github.com/immich-app/immich/discussions/22546"
-    ]
-  ],
-  [
-    [
       "2025-10-01, 23:06:55",
       "https://news.ycombinator.com/item?id=45444694"
     ],
@@ -197,16 +207,6 @@
     [
       "Gmail will no longer support checking emails from third-party accounts via POP",
       "https://support.google.com/mail/answer/16604719?hl=en"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 14:48:31",
-      "https://news.ycombinator.com/item?id=45438346"
-    ],
-    [
-      "Show HN: Autism Simulator",
-      "https://autism-simulator.vercel.app/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-09-29, 09:27:00",
+      "https://news.ycombinator.com/item?id=45411799"
+    ],
+    [
+      "Stealing from Google",
+      "https://taqib.dev/blog/stealing-from-google/"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 08:31:36",
       "https://news.ycombinator.com/item?id=45411514"
     ],
@@ -287,16 +297,6 @@
     [
       "Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)",
       "https://americanart.si.edu/blog/throne-james-hampton"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 17:21:24",
-      "https://news.ycombinator.com/item?id=45406090"
-    ],
-    [
-      "A 3K-year-old copper smelting site could be key to understanding origins of iron",
-      "https://phys.org/news/2025-09-year-copper-smelting-site-key.html"
     ]
   ]
 ]
