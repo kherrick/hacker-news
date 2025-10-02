@@ -55,6 +55,7 @@
 * [2025-09-29, 14:22:39](https://news.ycombinator.com/item?id=45414215) - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
 * [2025-09-29, 14:21:22](https://news.ycombinator.com/item?id=45414195) - [Netanyahu says social media Israel's new 'weapon' after TikTok acquisition](https://www.newarab.com/news/netanyahu-says-social-media-israels-new-weapon)
 * [2025-09-29, 13:47:23](https://news.ycombinator.com/item?id=45413767) - [Electronic Arts Goes Private for $52.5B in Largest LBO](https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c)
+* [2025-09-29, 13:44:02](https://news.ycombinator.com/item?id=45413717) - [Pong Wars: A battle between day and night, good and bad](https://github.com/vnglst/pong-wars)
 * [2025-09-29, 13:39:53](https://news.ycombinator.com/item?id=45413654) - [Why friction is necessary for growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
 * [2025-09-29, 13:34:58](https://news.ycombinator.com/item?id=45413588) - [Code golfing a tiny demo using maths and a pinch of insanity](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
 * [2025-09-29, 13:33:41](https://news.ycombinator.com/item?id=45413570) - [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)

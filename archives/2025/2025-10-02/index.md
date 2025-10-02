@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 14:58:04](https://news.ycombinator.com/item?id=45450525) - [Work Is Not School: Surviving Institutional Stupidity](https://www.leadingsapiens.com/surviving-institutional-stupidity/)
+* [2025-10-02, 14:52:49](https://news.ycombinator.com/item?id=45450449) - [Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ](https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson)
 * [2025-10-02, 14:36:25](https://news.ycombinator.com/item?id=45450194) - [Why the end of support for Windows 10 is uniquely troubling](https://pirg.org/articles/why-the-end-of-support-for-windows-10-is-uniquely-troubling/)
 * [2025-10-02, 14:22:11](https://news.ycombinator.com/item?id=45449978) - [Ford CEO on his 'epiphany': his Gen Z factory workers 'had to have three jobs'](https://finance.yahoo.com/news/ford-ceo-epiphany-talking-gen-161600158.html)
 * [2025-10-02, 13:29:55](https://news.ycombinator.com/item?id=45449348) - [Daniel Stenberg on 22 curl bugs found by AI and fixed](https://mastodon.social/@bagder/115241241075258997)
@@ -11,6 +13,7 @@
 * [2025-10-02, 12:48:04](https://news.ycombinator.com/item?id=45448950) - [Warming climate–not overgrazing–is biggest threat to rangelands, study suggests](https://phys.org/news/2025-09-climate-overgrazing-biggest-threat-rangelands.html)
 * [2025-10-02, 12:46:31](https://news.ycombinator.com/item?id=45448935) - [Visual loading states for Turbo Frames with CSS only](https://railsdesigner.com/visual-loading-turbo-frames/)
 * [2025-10-02, 12:40:34](https://news.ycombinator.com/item?id=45448874) - [Windows 10 refuses to go gentle into that good night](https://www.theregister.com/2025/10/02/windows_10_statcounter/)
+* [2025-10-02, 12:36:39](https://news.ycombinator.com/item?id=45448839) - [Meta will listen into AI conversations to personalize ads](https://www.theregister.com/2025/10/01/meta_ai_use_informs_ads/)
 * [2025-10-02, 12:34:43](https://news.ycombinator.com/item?id=45448825) - [EU funds are flowing into spyware companies and politicians demanding answers](https://www.theregister.com/2025/10/02/eu_spyware_funding/)
 * [2025-10-02, 12:31:53](https://news.ycombinator.com/item?id=45448802) - [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
 * [2025-10-02, 12:28:27](https://news.ycombinator.com/item?id=45448772) - [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
