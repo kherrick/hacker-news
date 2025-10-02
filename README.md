@@ -2,6 +2,7 @@
 
 * [2025-10-02, 17:01:16](https://news.ycombinator.com/item?id=45452299) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
 * [2025-10-02, 16:36:53](https://news.ycombinator.com/item?id=45451961) - [The Atlantic Quantum team is joining Google](https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/)
+* [2025-10-02, 16:09:15](https://news.ycombinator.com/item?id=45451577) - [Watch MLB games from the comfort of your own terminal](https://github.com/paaatrick/playball)
 * [2025-10-02, 16:08:40](https://news.ycombinator.com/item?id=45451567) - [Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?](https://news.ycombinator.com/item?id=45451567)
 * [2025-10-02, 16:07:23](https://news.ycombinator.com/item?id=45451547) - [Launch HN: Simplex (YC S24) – Browser automation platform for developers](https://www.simplex.sh/)
 * [2025-10-02, 16:06:10](https://news.ycombinator.com/item?id=45451527) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
@@ -19,7 +20,6 @@
 * [2025-10-02, 06:25:43](https://news.ycombinator.com/item?id=45446834) - [Immich v2.0.0 – First stable release](https://github.com/immich-app/immich/discussions/22546)
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 * [2025-10-01, 16:25:58](https://news.ycombinator.com/item?id=45439670) - [Gmail will no longer support checking emails from third-party accounts via POP](https://support.google.com/mail/answer/16604719?hl=en)
-* [2025-10-01, 15:00:41](https://news.ycombinator.com/item?id=45438496) - [Building the heap: racking 30 petabytes of hard drives for pretraining](https://si.inc/posts/the-heap/)
 * [2025-10-01, 14:48:31](https://news.ycombinator.com/item?id=45438346) - [Show HN: Autism Simulator](https://autism-simulator.vercel.app/)
 * [2025-10-01, 13:52:41](https://news.ycombinator.com/item?id=45437759) - [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
 * [2025-09-29, 17:39:02](https://news.ycombinator.com/item?id=45416552) - [Adding a new instruction to RISC-V back end in LLVM](https://blog.gustavoleite.me/llvm-riscv-instruction)

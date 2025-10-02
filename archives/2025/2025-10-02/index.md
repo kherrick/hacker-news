@@ -9,6 +9,7 @@
 * [2025-10-02, 16:37:20](https://news.ycombinator.com/item?id=45451971) - [Y'all are over-complicating these AI-risk arguments](https://dynomight.net/ai-risk/)
 * [2025-10-02, 16:36:53](https://news.ycombinator.com/item?id=45451961) - [The Atlantic Quantum team is joining Google](https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/)
 * [2025-10-02, 16:10:58](https://news.ycombinator.com/item?id=45451605) - [Tesla Robotaxi Reports 3 Crashes in Austin in July, Hides Details](https://www.forbes.com/sites/bradtempleton/2025/09/18/tesla-robotaxi-reports-3-crashes-in-austin-on-july-1-details-hidden/)
+* [2025-10-02, 16:09:15](https://news.ycombinator.com/item?id=45451577) - [Watch MLB games from the comfort of your own terminal](https://github.com/paaatrick/playball)
 * [2025-10-02, 16:08:40](https://news.ycombinator.com/item?id=45451567) - [Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?](https://news.ycombinator.com/item?id=45451567)
 * [2025-10-02, 16:07:23](https://news.ycombinator.com/item?id=45451547) - [Launch HN: Simplex (YC S24) – Browser automation platform for developers](https://www.simplex.sh/)
 * [2025-10-02, 16:06:10](https://news.ycombinator.com/item?id=45451527) - [Signal's New PQ Ratchet](https://signal.org/blog/spqr/)
