@@ -77,6 +77,7 @@
 * [2025-09-29, 08:59:15](https://news.ycombinator.com/item?id=45411666) - [Twenty Lessons on Fighting Tyranny from the Twentieth Century](https://scholars.org/contribution/twenty-lessons-fighting-tyranny-twentieth)
 * [2025-09-29, 07:57:39](https://news.ycombinator.com/item?id=45411332) - [Google just erased 7 years of our political history](https://www.thebriefing.ie/google-just-erased-7-years-of-our-political-history/)
 * [2025-09-29, 07:50:24](https://news.ycombinator.com/item?id=45411291) - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
+* [2025-09-29, 07:44:09](https://news.ycombinator.com/item?id=45411254) - [In C++ modules globally unique module names seem to be unavoidable](https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html)
 * [2025-09-29, 06:41:27](https://news.ycombinator.com/item?id=45410940) - [What is \"good taste\" in software engineering?](https://www.seangoedecke.com/taste/)
 * [2025-09-29, 03:45:40](https://news.ycombinator.com/item?id=45410155) - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
 * [2025-09-29, 03:43:03](https://news.ycombinator.com/item?id=45410143) - [Stealing Debug Pretty Print from Vitis HLS](https://stefanabikaram.com/writing/vitis-hls-debug-pretty-print/)
