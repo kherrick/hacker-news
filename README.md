@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-02, 12:19:49](https://news.ycombinator.com/item?id=45448702) - [Why America still needs public schools](https://theconversation.com/why-america-still-needs-public-schools-260368)
+* [2025-10-02, 12:46:31](https://news.ycombinator.com/item?id=45448935) - [Visual loading states for Turbo Frames with CSS only](https://railsdesigner.com/visual-loading-turbo-frames/)
+* [2025-10-02, 12:31:53](https://news.ycombinator.com/item?id=45448802) - [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
 * [2025-10-02, 12:00:33](https://news.ycombinator.com/item?id=45448539) - [Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End)](https://careers.activeloop.ai/)
 * [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
 * [2025-10-02, 11:05:19](https://news.ycombinator.com/item?id=45448199) - [How the AI Bubble Will Pop](https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop)
@@ -26,7 +27,6 @@
 * [2025-09-28, 18:55:49](https://news.ycombinator.com/item?id=45406879) - [Make the most of compiled C loops on the 68000](https://dciabrin.net/posts/make-the-most-of-compiled-c-loops-on-the-68000/make-the-most-of-compiled-c-loops-on-the-68000/)
 * [2025-09-28, 18:46:22](https://news.ycombinator.com/item?id=45406804) - [Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)](https://americanart.si.edu/blog/throne-james-hampton)
 * [2025-09-28, 17:21:24](https://news.ycombinator.com/item?id=45406090) - [A 3K-year-old copper smelting site could be key to understanding origins of iron](https://phys.org/news/2025-09-year-copper-smelting-site-key.html)
-* [2025-09-28, 14:34:53](https://news.ycombinator.com/item?id=45404627) - [JackTrip: Multi-machine audio network performance over the Internet](https://github.com/jacktrip/jacktrip)
 * [2025-09-28, 14:00:57](https://news.ycombinator.com/item?id=45404378) - [A replica of Citizen Quartz watch based on Harel's paper introducing statecharts](https://andyjakubowski.github.io/statechart-watch/)
 * [2025-09-27, 22:50:22](https://news.ycombinator.com/item?id=45400006) - [Show HN: The Unite real time operating system](https://jacquesmattheij.com/unite-operating-system/)
 * [2025-09-27, 02:53:24](https://news.ycombinator.com/item?id=45392922) - [Why today's humanoids won't learn dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)

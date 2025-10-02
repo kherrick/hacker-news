@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 12:46:31](https://news.ycombinator.com/item?id=45448935) - [Visual loading states for Turbo Frames with CSS only](https://railsdesigner.com/visual-loading-turbo-frames/)
+* [2025-10-02, 12:31:53](https://news.ycombinator.com/item?id=45448802) - [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
 * [2025-10-02, 12:19:49](https://news.ycombinator.com/item?id=45448702) - [Why America still needs public schools](https://theconversation.com/why-america-still-needs-public-schools-260368)
 * [2025-10-02, 12:00:33](https://news.ycombinator.com/item?id=45448539) - [Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End)](https://careers.activeloop.ai/)
 * [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
