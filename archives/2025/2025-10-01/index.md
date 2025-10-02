@@ -49,6 +49,7 @@
 * [2025-10-01, 14:31:37](https://news.ycombinator.com/item?id=45438170) - [Technical Analysis of SAP Exploit Script Used in JLR, Harrods Hacks](https://detect.fyi/technical-analysis-of-sap-exploit-script-visual-composer-metadata-uploader-exploit-7b4a01b38548)
 * [2025-10-01, 14:07:04](https://news.ycombinator.com/item?id=45437906) - [Show HN: Resterm – A terminal-based REST/GraphQL and gRPC client](https://github.com/unkn0wn-root/resterm)
 * [2025-10-01, 14:05:45](https://news.ycombinator.com/item?id=45437893) - [Unix philosophy and filesystem access makes Claude Code amazing](https://www.alephic.com/writing/the-magic-of-claude-code)
+* [2025-10-01, 13:52:41](https://news.ycombinator.com/item?id=45437759) - [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
 * [2025-10-01, 13:51:03](https://news.ycombinator.com/item?id=45437735) - [Cursor 1.7](https://cursor.com/changelog/1-7)
 * [2025-10-01, 13:38:36](https://news.ycombinator.com/item?id=45437594) - [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
 * [2025-10-01, 13:14:48](https://news.ycombinator.com/item?id=45437326) - [Minimal files and config for a PWA (including a single file PWA)](https://github.com/chr15m/minimal-pwa)

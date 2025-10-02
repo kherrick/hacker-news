@@ -47,6 +47,7 @@
 * [2025-09-29, 15:40:30](https://news.ycombinator.com/item?id=45415178) - [How the Brain Balances Excitation and Inhibition](https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/)
 * [2025-09-29, 15:20:11](https://news.ycombinator.com/item?id=45414933) - [Nobel Laureate John Jumper: AI Is Revolutionizing Scientific Discovery [video]](https://www.youtube.com/watch?v=2Yguz5U-Nic)
 * [2025-09-29, 14:46:11](https://news.ycombinator.com/item?id=45414479) - [Not all OCuLink eGPU docks are created equal](https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal)
+* [2025-09-29, 14:35:56](https://news.ycombinator.com/item?id=45414362) - [What Every Programmer Positively Needs to Know About Encodings ...](https://kunststube.net/encoding/)
 * [2025-09-29, 14:32:31](https://news.ycombinator.com/item?id=45414327) - [Grok is now the most popular model on OpenRouter](https://openrouter.ai/rankings#market-share)
 * [2025-09-29, 14:22:39](https://news.ycombinator.com/item?id=45414215) - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
 * [2025-09-29, 14:21:22](https://news.ycombinator.com/item?id=45414195) - [Netanyahu says social media Israel's new 'weapon' after TikTok acquisition](https://www.newarab.com/news/netanyahu-says-social-media-israels-new-weapon)
