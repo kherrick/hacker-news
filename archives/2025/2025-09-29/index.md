@@ -48,6 +48,7 @@
 * [2025-09-29, 15:42:46](https://news.ycombinator.com/item?id=45415207) - [Loadmo.re: design inspiration for unconventional web](https://loadmo.re)
 * [2025-09-29, 15:40:30](https://news.ycombinator.com/item?id=45415178) - [How the Brain Balances Excitation and Inhibition](https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/)
 * [2025-09-29, 15:20:11](https://news.ycombinator.com/item?id=45414933) - [Nobel Laureate John Jumper: AI Is Revolutionizing Scientific Discovery [video]](https://www.youtube.com/watch?v=2Yguz5U-Nic)
+* [2025-09-29, 15:04:07](https://news.ycombinator.com/item?id=45414718) - [The most common surgery](https://www.asimov.press/p/cataracts)
 * [2025-09-29, 14:46:11](https://news.ycombinator.com/item?id=45414479) - [Not all OCuLink eGPU docks are created equal](https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal)
 * [2025-09-29, 14:35:56](https://news.ycombinator.com/item?id=45414362) - [What Every Programmer Positively Needs to Know About Encodings ...](https://kunststube.net/encoding/)
 * [2025-09-29, 14:32:31](https://news.ycombinator.com/item?id=45414327) - [Grok is now the most popular model on OpenRouter](https://openrouter.ai/rankings#market-share)
