@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 06:25:43](https://news.ycombinator.com/item?id=45446834) - [Immich v2.0.0 – First stable release](https://github.com/immich-app/immich/discussions/22546)
 * [2025-10-02, 04:14:34](https://news.ycombinator.com/item?id=45446263) - [Typepad Is Closed for Business](https://www.typepad.com)
 * [2025-10-02, 00:53:20](https://news.ycombinator.com/item?id=45445331) - [Maine Woman Discovers Election Ballots in Amazon Package](https://www.themainewire.com/2025/10/maine-woman-discovers-hundreds-of-election-ballots-in-amazon-package-as-state-considers-voter-id/)
