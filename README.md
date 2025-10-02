@@ -17,6 +17,7 @@
 * [2025-10-02, 14:58:04](https://news.ycombinator.com/item?id=45450525) - [Work is not school: Surviving institutional stupidity](https://www.leadingsapiens.com/surviving-institutional-stupidity/)
 * [2025-10-02, 14:52:49](https://news.ycombinator.com/item?id=45450449) - [Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ](https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson)
 * [2025-10-02, 14:26:23](https://news.ycombinator.com/item?id=45450044) - [N8n added native persistent storage with DataTables](https://community.n8n.io/t/data-tables-are-here/192256)
+* [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
 * [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine in Gaza, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
 * [2025-10-01, 13:52:41](https://news.ycombinator.com/item?id=45437759) - [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
 * [2025-10-01, 09:04:10](https://news.ycombinator.com/item?id=45435720) - [Pre-Record Your Demos](https://www.steveharrison.dev/pre-record-your-demos/)
@@ -28,7 +29,6 @@
 * [2025-09-29, 12:29:29](https://news.ycombinator.com/item?id=45412870) - [A simple habit that saves my evenings](https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/)
 * [2025-09-29, 09:27:00](https://news.ycombinator.com/item?id=45411799) - [Stealing from Google](https://taqib.dev/blog/stealing-from-google/)
 * [2025-09-29, 08:31:36](https://news.ycombinator.com/item?id=45411514) - [Show HN: Traceroute Visualizer](https://kriztalz.sh/traceroute-visualizer/)
-* [2025-09-29, 03:22:27](https://news.ycombinator.com/item?id=45410068) - [I built ChatGPT with Minecraft redstone [video]](https://www.youtube.com/watch?v=VaeI9YgE1o8)
 * [2025-09-28, 21:00:18](https://news.ycombinator.com/item?id=45407953) - [We bought the whole GPU, so we're damn well going to use the whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
 
 ## [Archives](archives/index.md)
