@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 14:36:25](https://news.ycombinator.com/item?id=45450194) - [Why the end of support for Windows 10 is uniquely troubling](https://pirg.org/articles/why-the-end-of-support-for-windows-10-is-uniquely-troubling/)
+* [2025-10-02, 14:22:11](https://news.ycombinator.com/item?id=45449978) - [Ford CEO on his 'epiphany': his Gen Z factory workers 'had to have three jobs'](https://finance.yahoo.com/news/ford-ceo-epiphany-talking-gen-161600158.html)
+* [2025-10-02, 13:29:55](https://news.ycombinator.com/item?id=45449348) - [Daniel Stenberg on 22 curl bugs found by AI and fixed](https://mastodon.social/@bagder/115241241075258997)
 * [2025-10-02, 13:06:12](https://news.ycombinator.com/item?id=45449125) - [Moving PHP open source forward](https://blog.jetbrains.com/phpstorm/2025/10/moving-php-open-source-forward/)
 * [2025-10-02, 12:48:04](https://news.ycombinator.com/item?id=45448950) - [Warming climate–not overgrazing–is biggest threat to rangelands, study suggests](https://phys.org/news/2025-09-climate-overgrazing-biggest-threat-rangelands.html)
 * [2025-10-02, 12:46:31](https://news.ycombinator.com/item?id=45448935) - [Visual loading states for Turbo Frames with CSS only](https://railsdesigner.com/visual-loading-turbo-frames/)
