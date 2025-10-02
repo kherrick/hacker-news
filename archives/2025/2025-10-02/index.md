@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 18:26:57](https://news.ycombinator.com/item?id=45453448) - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
 * [2025-10-02, 18:13:24](https://news.ycombinator.com/item?id=45453299) - [The Answer (1954)](https://sfshortstories.com/?p=5983)
 * [2025-10-02, 18:09:46](https://news.ycombinator.com/item?id=45453257) - [Dropping Trust in US Media](https://news.gallup.com/poll/695762/trust-media-new-low.aspx)
 * [2025-10-02, 18:06:41](https://news.ycombinator.com/item?id=45453222) - [I Keep Blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-02, 18:26:57](https://news.ycombinator.com/item?id=45453448) - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
 * [2025-10-02, 18:13:24](https://news.ycombinator.com/item?id=45453299) - [The Answer (1954)](https://sfshortstories.com/?p=5983)
 * [2025-10-02, 18:09:46](https://news.ycombinator.com/item?id=45453257) - [Dropping Trust in US Media](https://news.gallup.com/poll/695762/trust-media-new-low.aspx)
 * [2025-10-02, 18:06:41](https://news.ycombinator.com/item?id=45453222) - [I Keep Blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
@@ -20,7 +21,6 @@
 * [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
 * [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine in Gaza, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
-* [2025-10-01, 16:25:58](https://news.ycombinator.com/item?id=45439670) - [Gmail will no longer support checking emails from third-party accounts via POP](https://support.google.com/mail/answer/16604719?hl=en)
 * [2025-10-01, 13:52:41](https://news.ycombinator.com/item?id=45437759) - [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
 * [2025-09-29, 17:39:02](https://news.ycombinator.com/item?id=45416552) - [Adding a new instruction to RISC-V back end in LLVM](https://blog.gustavoleite.me/llvm-riscv-instruction)
 * [2025-09-29, 15:04:07](https://news.ycombinator.com/item?id=45414718) - [The history of cataract surgery](https://www.asimov.press/p/cataracts)
