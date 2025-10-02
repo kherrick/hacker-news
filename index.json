@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=45446263"
     ],
     [
-      "Typepad Is Closed for Business",
+      "Typepad is closed for business",
       "https://www.typepad.com"
     ]
   ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-09-29, 14:35:56",
+      "https://news.ycombinator.com/item?id=45414362"
+    ],
+    [
+      "What to know about encodings and character sets to work with text (2011)",
+      "https://kunststube.net/encoding/"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 13:13:29",
       "https://news.ycombinator.com/item?id=45413330"
     ],
@@ -237,16 +247,6 @@
     [
       "Tactility: An ESP32 OS",
       "https://tactility.one"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 02:20:41",
-      "https://news.ycombinator.com/item?id=45409834"
-    ],
-    [
-      "Extreme branchless: Expr without GADTs or sum-types",
-      "https://gautier.difolco.dev/2025-09/extreme-branchless-expr-fields/"
     ]
   ],
   [
