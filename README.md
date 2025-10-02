@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-02, 18:37:28](https://news.ycombinator.com/item?id=45453586) - [OpenAI's H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
 * [2025-10-02, 18:26:57](https://news.ycombinator.com/item?id=45453448) - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
 * [2025-10-02, 18:13:24](https://news.ycombinator.com/item?id=45453299) - [The Answer (1954)](https://sfshortstories.com/?p=5983)
 * [2025-10-02, 18:09:46](https://news.ycombinator.com/item?id=45453257) - [Dropping Trust in US Media](https://news.gallup.com/poll/695762/trust-media-new-low.aspx)
@@ -25,7 +26,6 @@
 * [2025-09-29, 17:39:02](https://news.ycombinator.com/item?id=45416552) - [Adding a new instruction to RISC-V back end in LLVM](https://blog.gustavoleite.me/llvm-riscv-instruction)
 * [2025-09-29, 15:04:07](https://news.ycombinator.com/item?id=45414718) - [The history of cataract surgery](https://www.asimov.press/p/cataracts)
 * [2025-09-29, 13:44:02](https://news.ycombinator.com/item?id=45413717) - [Pong Wars: A battle between day and night, good and bad](https://github.com/vnglst/pong-wars)
-* [2025-09-29, 09:27:00](https://news.ycombinator.com/item?id=45411799) - [Stealing from Google](https://taqib.dev/blog/stealing-from-google/)
 * [2025-09-29, 08:31:36](https://news.ycombinator.com/item?id=45411514) - [Show HN: Traceroute Visualizer](https://kriztalz.sh/traceroute-visualizer/)
 * [2025-09-29, 03:22:27](https://news.ycombinator.com/item?id=45410068) - [I built ChatGPT with Minecraft redstone [video]](https://www.youtube.com/watch?v=VaeI9YgE1o8)
 * [2025-09-28, 21:00:18](https://news.ycombinator.com/item?id=45407953) - [We bought the whole GPU, so we're damn well going to use the whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
