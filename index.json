@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-02, 00:53:20",
+      "https://news.ycombinator.com/item?id=45445331"
+    ],
+    [
+      "Maine Woman Discovers Election Ballots in Amazon Package",
+      "https://www.themainewire.com/2025/10/maine-woman-discovers-hundreds-of-election-ballots-in-amazon-package-as-state-considers-voter-id/"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 00:38:38",
+      "https://news.ycombinator.com/item?id=45445260"
+    ],
+    [
+      "The biggest semantic mess in Futhark",
+      "https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 23:06:55",
       "https://news.ycombinator.com/item?id=45444694"
     ],
@@ -37,16 +57,6 @@
     [
       "DARPA project for automated translation from C to Rust (2024)",
       "https://www.darpa.mil/news/2024/memory-safety-vulnerabilities"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 20:48:23",
-      "https://news.ycombinator.com/item?id=45443304"
-    ],
-    [
-      "Microsoft declares bring your Copilot to work day, usurping IT authority",
-      "https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-10-01, 17:36:43",
+      "https://news.ycombinator.com/item?id=45440571"
+    ],
+    [
+      "Don't avoid workplace politics",
+      "https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 17:25:33",
       "https://news.ycombinator.com/item?id=45440431"
     ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2025-10-01, 17:22:43",
-      "https://news.ycombinator.com/item?id=45440387"
+      "2025-10-01, 15:15:44",
+      "https://news.ycombinator.com/item?id=45438704"
     ],
     [
-      "Solar leads EU electricity generation as renewables hit 54%",
-      "https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 16:51:58",
-      "https://news.ycombinator.com/item?id=45439997"
-    ],
-    [
-      "The RAG Obituary: Killed by agents, buried by context windows",
-      "https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 16:30:16",
-      "https://news.ycombinator.com/item?id=45439721"
-    ],
-    [
-      "Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts",
-      "https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/"
+      "Long-distance and wide-area detection of gene expression in living bacteria",
+      "https://www.asimov.press/p/hyperspectral"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-10-01, 13:52:41",
+      "https://news.ycombinator.com/item?id=45437759"
+    ],
+    [
+      "F3: Open-source data file format for the future [pdf]",
+      "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 13:38:36",
       "https://news.ycombinator.com/item?id=45437594"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2025-10-01, 09:22:10",
-      "https://news.ycombinator.com/item?id=45435825"
-    ],
-    [
-      "Our efforts, in part, define us",
-      "https://weakty.com/posts/efforts/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 08:06:50",
-      "https://news.ycombinator.com/item?id=45435463"
-    ],
-    [
-      "I only use Google Sheets",
-      "https://mayberay.bearblog.dev/why-i-only-use-google-sheets/"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 19:43:08",
       "https://news.ycombinator.com/item?id=45430294"
     ],
     [
       "Show HN: Glide, an extensible, keyboard-focused web browser",
       "https://blog.craigie.dev/introducing-glide/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 14:35:56",
+      "https://news.ycombinator.com/item?id=45414362"
+    ],
+    [
+      "What Every Programmer Positively Needs to Know About Encodings ...",
+      "https://kunststube.net/encoding/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-09-28, 14:52:54",
-      "https://news.ycombinator.com/item?id=45404760"
-    ],
-    [
-      "Ask HN: What is nowadays (opensource) way of converting HTML to PDF?",
-      "https://news.ycombinator.com/item?id=45404760"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 14:00:57",
       "https://news.ycombinator.com/item?id=45404378"
     ],
@@ -297,6 +287,16 @@
     [
       "Measuring My DIY Air Purifier",
       "https://chillphysicsenjoyer.substack.com/p/measuring-my-diy-air-purifier"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 02:53:24",
+      "https://news.ycombinator.com/item?id=45392922"
+    ],
+    [
+      "Why today's humanoids won't learn dexterity",
+      "https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/"
     ]
   ]
 ]
