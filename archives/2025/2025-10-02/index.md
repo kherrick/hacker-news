@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 16:07:23](https://news.ycombinator.com/item?id=45451547) - [Launch HN: Simplex (YC S24) – Browser automation platform for developers](https://www.simplex.sh/)
+* [2025-10-02, 16:06:10](https://news.ycombinator.com/item?id=45451527) - [Signal's New PQ Ratchet](https://signal.org/blog/spqr/)
 * [2025-10-02, 15:42:34](https://news.ycombinator.com/item?id=45451208) - [Windows 7 marketshare jumps to nearly 10% as Windows 10 support is about to end](https://www.neowin.net/news/windows-7-marketshare-jumps-to-nearly-10-as-windows-10-enters-final-weeks-of-support/)
 * [2025-10-02, 15:39:21](https://news.ycombinator.com/item?id=45451164) - [Wealth tax would be deadly for French economy, says Europe's richest man](https://www.theguardian.com/business/2025/sep/21/wealth-tax-would-be-deadly-for-french-economy-says-europe-richest-man-bernard-arnault)
 * [2025-10-02, 15:35:14](https://news.ycombinator.com/item?id=45451103) - [Autism should not be seen as single condition with one cause, say scientists](https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists)
