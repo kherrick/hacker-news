@@ -9,6 +9,7 @@
 * [2025-09-28, 23:33:34](https://news.ycombinator.com/item?id=45409001) - [Use the Accept Header to Serve Markdown Instead of HTML to LLMs](https://www.skeptrune.com/posts/use-the-accept-header-to-serve-markdown-instead-of-html-to-llms/)
 * [2025-09-28, 23:32:32](https://news.ycombinator.com/item?id=45408994) - [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false)
 * [2025-09-28, 22:49:44](https://news.ycombinator.com/item?id=45408794) - [Buffett indicator says stock market overvalued](https://www.cnbc.com/2025/09/28/buffett-indicator-stock-market-overvalued.html)
+* [2025-09-28, 22:23:36](https://news.ycombinator.com/item?id=45408631) - [Extrapolating Quantum Factoring](https://www.johndcook.com/blog/2025/09/28/extrapolating-quantum-factoring/)
 * [2025-09-28, 22:20:59](https://news.ycombinator.com/item?id=45408617) - [Go ahead, write the stupid code](https://spikepuppet.io/posts/write-the-stupid-code/)
 * [2025-09-28, 22:00:47](https://news.ycombinator.com/item?id=45408473) - [\"DSEG\": Original 7-segment and 14-segment fonts](https://www.keshikan.net/fonts-e.html)
 * [2025-09-28, 21:44:47](https://news.ycombinator.com/item?id=45408368) - [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413)
