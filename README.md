@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-02, 13:06:12](https://news.ycombinator.com/item?id=45449125) - [Moving PHP open source forward](https://blog.jetbrains.com/phpstorm/2025/10/moving-php-open-source-forward/)
-* [2025-10-02, 12:48:04](https://news.ycombinator.com/item?id=45448950) - [Warming climate–not overgrazing–is biggest threat to rangelands, study suggests](https://phys.org/news/2025-09-climate-overgrazing-biggest-threat-rangelands.html)
 * [2025-10-02, 12:40:34](https://news.ycombinator.com/item?id=45448874) - [Windows 10 refuses to go gentle into that good night](https://www.theregister.com/2025/10/02/windows_10_statcounter/)
 * [2025-10-02, 12:34:43](https://news.ycombinator.com/item?id=45448825) - [EU funds are flowing into spyware companies and politicians demanding answers](https://www.theregister.com/2025/10/02/eu_spyware_funding/)
 * [2025-10-02, 12:31:53](https://news.ycombinator.com/item?id=45448802) - [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
+* [2025-10-02, 12:28:27](https://news.ycombinator.com/item?id=45448772) - [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
 * [2025-10-02, 12:00:33](https://news.ycombinator.com/item?id=45448539) - [Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End)](https://careers.activeloop.ai/)
 * [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
 * [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
@@ -28,7 +28,7 @@
 * [2025-09-28, 18:55:49](https://news.ycombinator.com/item?id=45406879) - [Make the most of compiled C loops on the 68000](https://dciabrin.net/posts/make-the-most-of-compiled-c-loops-on-the-68000/make-the-most-of-compiled-c-loops-on-the-68000/)
 * [2025-09-28, 18:46:22](https://news.ycombinator.com/item?id=45406804) - [Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)](https://americanart.si.edu/blog/throne-james-hampton)
 * [2025-09-28, 17:21:24](https://news.ycombinator.com/item?id=45406090) - [A 3K-year-old copper smelting site could be key to understanding origins of iron](https://phys.org/news/2025-09-year-copper-smelting-site-key.html)
-* [2025-09-27, 22:50:22](https://news.ycombinator.com/item?id=45400006) - [Show HN: The Unite real time operating system](https://jacquesmattheij.com/unite-operating-system/)
+* [2025-09-28, 14:34:53](https://news.ycombinator.com/item?id=45404627) - [JackTrip: Multi-machine audio network performance over the Internet](https://github.com/jacktrip/jacktrip)
 * [2025-09-27, 02:53:24](https://news.ycombinator.com/item?id=45392922) - [Why today's humanoids won't learn dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
 
 ## [Archives](archives/index.md)
