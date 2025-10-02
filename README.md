@@ -26,7 +26,7 @@
 * [2025-09-29, 14:35:56](https://news.ycombinator.com/item?id=45414362) - [What Every Programmer Positively Needs to Know About Encodings ...](https://kunststube.net/encoding/)
 * [2025-09-29, 13:13:29](https://news.ycombinator.com/item?id=45413330) - [CSS Unit Might Be a Combination](https://www.oddbird.net/2025/09/23/type-units/)
 * [2025-09-29, 13:11:46](https://news.ycombinator.com/item?id=45413294) - [Tactility: An ESP32 OS](https://tactility.one)
-* [2025-09-29, 03:43:03](https://news.ycombinator.com/item?id=45410143) - [Stealing Debug Pretty Print from Vitis HLS](https://stefanabikaram.com/writing/vitis-hls-debug-pretty-print/)
+* [2025-09-28, 22:00:47](https://news.ycombinator.com/item?id=45408473) - [\"DSEG\": Original 7-segment and 14-segment fonts (2014)](https://www.keshikan.net/fonts-e.html)
 * [2025-09-28, 14:00:57](https://news.ycombinator.com/item?id=45404378) - [A replica of Citizen Quartz watch based on Harel's paper introducing statecharts](https://andyjakubowski.github.io/statechart-watch/)
 * [2025-09-27, 23:07:26](https://news.ycombinator.com/item?id=45400114) - [Measuring My DIY Air Purifier](https://chillphysicsenjoyer.substack.com/p/measuring-my-diy-air-purifier)
 * [2025-09-27, 02:53:24](https://news.ycombinator.com/item?id=45392922) - [Why today's humanoids won't learn dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
