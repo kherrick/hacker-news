@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-02, 19:39:08](https://news.ycombinator.com/item?id=45454460) - [Anti-Aging Breakthrough: Stem Cells Reverse Signs of Aging in Monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
+* [2025-10-02, 19:39:08](https://news.ycombinator.com/item?id=45454460) - [Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
 * [2025-10-02, 19:34:08](https://news.ycombinator.com/item?id=45454374) - [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement)
 * [2025-10-02, 18:37:28](https://news.ycombinator.com/item?id=45453586) - [OpenAI's H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
 * [2025-10-02, 18:26:57](https://news.ycombinator.com/item?id=45453448) - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
@@ -16,7 +16,7 @@
 * [2025-10-02, 15:07:48](https://news.ycombinator.com/item?id=45450694) - [Pharma is a small component of US health care spending](https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans)
 * [2025-10-02, 14:52:49](https://news.ycombinator.com/item?id=45450449) - [Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ](https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson)
 * [2025-10-02, 14:26:23](https://news.ycombinator.com/item?id=45450044) - [N8n added native persistent storage with DataTables](https://community.n8n.io/t/data-tables-are-here/192256)
-* [2025-10-02, 13:29:55](https://news.ycombinator.com/item?id=45449348) - [Daniel Stenberg on 22 curl bugs found by AI and fixed](https://mastodon.social/@bagder/115241241075258997)
+* [2025-10-02, 13:29:55](https://news.ycombinator.com/item?id=45449348) - [Potential issues in curl found using AI assisted tools](https://mastodon.social/@bagder/115241241075258997)
 * [2025-10-02, 12:34:43](https://news.ycombinator.com/item?id=45448825) - [EU funds are flowing into spyware companies and politicians demanding answers](https://www.theregister.com/2025/10/02/eu_spyware_funding/)
 * [2025-10-02, 12:28:27](https://news.ycombinator.com/item?id=45448772) - [Red Hat confirms security incident after hackers breach GitLab instance](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
 * [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
