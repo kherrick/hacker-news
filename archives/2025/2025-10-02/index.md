@@ -8,6 +8,7 @@
 * [2025-10-02, 14:58:04](https://news.ycombinator.com/item?id=45450525) - [Work Is Not School: Surviving Institutional Stupidity](https://www.leadingsapiens.com/surviving-institutional-stupidity/)
 * [2025-10-02, 14:52:49](https://news.ycombinator.com/item?id=45450449) - [Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ](https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson)
 * [2025-10-02, 14:36:25](https://news.ycombinator.com/item?id=45450194) - [Why the end of support for Windows 10 is uniquely troubling](https://pirg.org/articles/why-the-end-of-support-for-windows-10-is-uniquely-troubling/)
+* [2025-10-02, 14:26:23](https://news.ycombinator.com/item?id=45450044) - [N8n added native persistent storage with DataTables](https://community.n8n.io/t/data-tables-are-here/192256)
 * [2025-10-02, 14:22:11](https://news.ycombinator.com/item?id=45449978) - [Ford CEO on his 'epiphany': his Gen Z factory workers 'had to have three jobs'](https://finance.yahoo.com/news/ford-ceo-epiphany-talking-gen-161600158.html)
 * [2025-10-02, 13:29:55](https://news.ycombinator.com/item?id=45449348) - [Daniel Stenberg on 22 curl bugs found by AI and fixed](https://mastodon.social/@bagder/115241241075258997)
 * [2025-10-02, 13:06:12](https://news.ycombinator.com/item?id=45449125) - [Moving PHP open source forward](https://blog.jetbrains.com/phpstorm/2025/10/moving-php-open-source-forward/)
