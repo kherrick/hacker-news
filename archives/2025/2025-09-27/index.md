@@ -11,6 +11,7 @@
 * [2025-09-27, 23:26:57](https://news.ycombinator.com/item?id=45400221) - [Why Warm Countries Are Poorer](https://unchartedterritories.tomaspueyo.com/p/mountains)
 * [2025-09-27, 23:07:26](https://news.ycombinator.com/item?id=45400114) - [Measuring My DIY Air Purifier](https://chillphysicsenjoyer.substack.com/p/measuring-my-diy-air-purifier)
 * [2025-09-27, 22:50:38](https://news.ycombinator.com/item?id=45400009) - [How I accidently created the fastest CSV parser ever made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
+* [2025-09-27, 22:50:22](https://news.ycombinator.com/item?id=45400006) - [Show HN: The Unite real time operating system](https://jacquesmattheij.com/unite-operating-system/)
 * [2025-09-27, 22:30:00](https://news.ycombinator.com/item?id=45399893) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/)
 * [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
 * [2025-09-27, 22:25:24](https://news.ycombinator.com/item?id=45399863) - [High-power microwave defeats drone swarm](https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration)
