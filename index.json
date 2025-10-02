@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-02, 00:38:38",
-      "https://news.ycombinator.com/item?id=45445260"
+      "2025-10-02, 06:25:43",
+      "https://news.ycombinator.com/item?id=45446834"
     ],
     [
-      "The biggest semantic mess in Futhark",
-      "https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html"
+      "Immich v2.0.0 – First stable release",
+      "https://github.com/immich-app/immich/discussions/22546"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Edge264 – Minimalist, high-performance software decoder for H.264/AVC video",
       "https://github.com/tvlabs/edge264"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 20:47:55",
-      "https://news.ycombinator.com/item?id=45443298"
-    ],
-    [
-      "The Company Man",
-      "https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "In C++ modules globally unique module names seem to be unavoidable",
       "https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 03:22:27",
+      "https://news.ycombinator.com/item?id=45410068"
+    ],
+    [
+      "I built ChatGPT with Minecraft redstone [video]",
+      "https://www.youtube.com/watch?v=VaeI9YgE1o8"
     ]
   ],
   [
