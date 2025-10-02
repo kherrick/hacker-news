@@ -158,11 +158,11 @@
             <h4>
               <span>2025-10-02 @ 16:36:53</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45451961"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -180,11 +180,11 @@
             <h4>
               <span>2025-10-02 @ 16:10:58</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45451605"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -200,11 +200,11 @@
             <h4>
               <span>2025-10-02 @ 16:08:40</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45451567"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -254,11 +254,11 @@
             <h4>
               <span>2025-10-02 @ 16:07:23</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45451547"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
             <div class="text">
@@ -290,28 +290,44 @@
                 challenges as they productionized automations across all the
                 websites their customers use.
               </p>
+              <p>As they scaled, they’d have to build and manage:</p>
               <p>
-                As they scaled, they’d have to build and manage: - Chrome
-                infrastructure: managing remote browsers, extensions, browser
-                settings for anti-bot detection/stealth - DOM parsing: we’ve
-                seen many web portals have really weird quirks (nested iframes,
-                shadow DOM elements, dynamic loading, popups, unstable
-                selectors, etc..) that are hard to parse with
-                traditional/existing browser agents. - Agent context
-                engineering: Website state, user prompts, system prompts, past
-                actions all take up a massive amount of context. Without
-                managing this, agents can get caught in loops or take wrong
-                actions. - Caching/Reliability: No matter how perfect your
-                prompts are, it’s hard to guarantee consistency without
-                caching/deterministic actions. - Login/2fa: Solve captcha, fetch
-                2FA from email/text/Google Auth, encrypt/decrypt credentials to
-                access portals blocked by login. - Automation management: You’ll
-                have to store all your prompts, scrapers, and agents, and find a
-                way to make them reusable if you have the same workflows across
-                different portals - User interface: Creating new workflows +
-                debugging can take time. You’ll have to find easy ways to expose
-                this to your engineers to make the process more efficient when
-                you have hundreds of automations to build.
+                - Chrome infrastructure: You'll need remote browsers, extension
+                support, browser settings for anti-bot detection/stealth, and a
+                hundred more small fixes.
+              </p>
+              <p>
+                - DOM parsing: We’ve seen many web portals have really weird
+                quirks (nested iframes, shadow DOM elements, dynamic loading,
+                popups, unstable selectors, etc..) that are hard to parse with
+                traditional/existing browser agents.
+              </p>
+              <p>
+                - Agent context engineering: Website state, user prompts, system
+                prompts, past actions all take up a massive amount of context.
+                Without managing this, agents can get caught in loops or take
+                wrong actions.
+              </p>
+              <p>
+                - Caching/reliability: No matter how perfect your prompts are,
+                it’s hard to guarantee consistency without caching/deterministic
+                actions.
+              </p>
+              <p>
+                - Login/2FA: Solve captcha, fetch 2FA from email/text/Google
+                Auth, encrypt/decrypt credentials to access portals blocked by
+                login.
+              </p>
+              <p>
+                - Automation management: You’ll have to store all your prompts,
+                scrapers, and agents, and find a way to make them reusable if
+                you have the same workflows across different portals.
+              </p>
+              <p>
+                - User interface: Creating new workflows + debugging can take
+                time. You’ll have to find easy ways to expose this to your
+                engineers to make the process more efficient when you have
+                hundreds of automations to build.
               </p>
               <p>
                 Simplex is a proper solution that handles all of the above for
@@ -336,12 +352,20 @@
               </p>
               <p>
                 - Fill out prior authorization forms on medical provider portals
-                - Download hundreds of PDFs from grocer portals across the US -
-                Automate and scrape structured data from traditional ERPs like
-                NetSuite - Submit bids/shipments on logistics/TMS portals -
-                Scrape lawyer/doctor license information across public
-                government portals - And more!
               </p>
+              <p>
+                - Download hundreds of PDFs from grocer portals across the US
+              </p>
+              <p>
+                - Automate and scrape structured data from traditional ERPs like
+                NetSuite
+              </p>
+              <p>- Submit bids/shipments on logistics/TMS portals</p>
+              <p>
+                - Scrape lawyer/doctor license information across public
+                government portals
+              </p>
+              <p>- And more!</p>
               <p>
                 We’re excited to see more use cases as we open up the platform –
                 this is our first time doing self-serve.
@@ -369,33 +393,11 @@
             <h4>
               <span>2025-10-02 @ 16:06:10</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45451527"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45451208">
-          <h3>
-            <a
-              class="item"
-              href="https://www.neowin.net/news/windows-7-marketshare-jumps-to-nearly-10-as-windows-10-enters-final-weeks-of-support/"
-              >Windows 7 marketshare jumps to nearly 10% as Windows 10 support
-              is about to end</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-02 @ 15:42:34</span
-              ><span class="points-container"
-                >Points: <span class="points">94</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45451208"
-                  >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -413,11 +415,11 @@
             <h4>
               <span>2025-10-02 @ 15:35:14</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45451103"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -434,11 +436,11 @@
             <h4>
               <span>2025-10-02 @ 15:07:48</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45450694"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -455,11 +457,11 @@
             <h4>
               <span>2025-10-02 @ 14:58:04</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45450525"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -477,11 +479,11 @@
             <h4>
               <span>2025-10-02 @ 14:52:49</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45450449"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
             <div class="text">
@@ -504,33 +506,11 @@
             <h4>
               <span>2025-10-02 @ 14:26:23</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45450044"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45449978">
-          <h3>
-            <a
-              class="item"
-              href="https://finance.yahoo.com/news/ford-ceo-epiphany-talking-gen-161600158.html"
-              >Ford CEO on his ‘epiphany’ after talking to factory workers in
-              2023</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-02 @ 14:22:11</span
-              ><span class="points-container"
-                >Points: <span class="points">57</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45449978"
-                  >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -547,11 +527,11 @@
             <h4>
               <span>2025-10-02 @ 13:29:55</span
               ><span class="points-container"
-                >Points: <span class="points">208</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45449348"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -568,11 +548,11 @@
             <h4>
               <span>2025-10-02 @ 12:36:39</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45448839"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -590,7 +570,7 @@
             <h4>
               <span>2025-10-02 @ 12:34:43</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45448825"
                   >Comments</a
@@ -604,15 +584,15 @@
             <a
               class="item"
               href="https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/"
-              >Red Hat confirms security incident after hackers claim GitHub
-              breach</a
+              >Red Hat confirms security incident after hackers breach GitLab
+              instance</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-10-02 @ 12:28:27</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45448772"
                   >Comments</a
@@ -634,11 +614,32 @@
             <h4>
               <span>2025-10-02 @ 11:32:19</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45448326"
                   >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 205</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45446834">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/immich-app/immich/discussions/22546"
+              >Immich v2.0.0 – First stable release</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-02 @ 06:25:43</span
+              ><span class="points-container"
+                >Points: <span class="points">424</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45446834"
+                  >Comments</a
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -655,7 +656,7 @@
             <h4>
               <span>2025-10-01 @ 23:06:55</span
               ><span class="points-container"
-                >Points: <span class="points">249</span></span
+                >Points: <span class="points">250</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45444694"
                   >Comments</a
@@ -677,11 +678,31 @@
             <h4>
               <span>2025-10-01 @ 16:25:58</span
               ><span class="points-container"
-                >Points: <span class="points">571</span></span
+                >Points: <span class="points">575</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45439670"
                   >Comments</a
-                ><span class="descendants">: 321</span></span
+                ><span class="descendants">: 322</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45438496">
+          <h3>
+            <a class="item" href="https://si.inc/posts/the-heap/"
+              >Building the heap: racking 30 petabytes of hard drives for
+              pretraining</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-01 @ 15:00:41</span
+              ><span class="points-container"
+                >Points: <span class="points">391</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45438496"
+                  >Comments</a
+                ><span class="descendants">: 267</span></span
               >
             </h4>
           </section>
@@ -696,11 +717,11 @@
             <h4>
               <span>2025-10-01 @ 14:48:31</span
               ><span class="points-container"
-                >Points: <span class="points">714</span></span
+                >Points: <span class="points">715</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45438346"
                   >Comments</a
-                ><span class="descendants">: 792</span></span
+                ><span class="descendants">: 797</span></span
               >
             </h4>
             <div class="text">
@@ -753,7 +774,7 @@
             <h4>
               <span>2025-09-29 @ 17:39:02</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45416552"
                   >Comments</a
@@ -772,11 +793,11 @@
             <h4>
               <span>2025-09-29 @ 15:04:07</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45414718"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 102</span></span
               >
             </h4>
           </section>
@@ -834,11 +855,11 @@
             <h4>
               <span>2025-09-29 @ 03:22:27</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45410068"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -856,11 +877,11 @@
             <h4>
               <span>2025-09-28 @ 21:00:18</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">342</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45407953"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -900,7 +921,7 @@
             <h4>
               <span>2025-09-28 @ 17:21:24</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45406090"
                   >Comments</a
