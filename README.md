@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-02, 15:09:05](https://news.ycombinator.com/item?id=45450718) - [Ford locking basic navigation behind a subscription](https://old.reddit.com/r/LinusTechTips/comments/1nw5s9f/ford_locking_basic_navigation_behind_a/)
+* [2025-10-02, 15:07:48](https://news.ycombinator.com/item?id=45450694) - [Does Big Pharma gouge Americans?](https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans)
 * [2025-10-02, 14:58:04](https://news.ycombinator.com/item?id=45450525) - [Work Is Not School: Surviving Institutional Stupidity](https://www.leadingsapiens.com/surviving-institutional-stupidity/)
 * [2025-10-02, 14:52:49](https://news.ycombinator.com/item?id=45450449) - [Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ](https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson)
 * [2025-10-02, 14:26:23](https://news.ycombinator.com/item?id=45450044) - [N8n added native persistent storage with DataTables](https://community.n8n.io/t/data-tables-are-here/192256)
 * [2025-10-02, 13:29:55](https://news.ycombinator.com/item?id=45449348) - [Daniel Stenberg on 22 curl bugs found by AI and fixed](https://mastodon.social/@bagder/115241241075258997)
-* [2025-10-02, 12:48:04](https://news.ycombinator.com/item?id=45448950) - [Warming climate–not overgrazing–is biggest threat to rangelands, study suggests](https://phys.org/news/2025-09-climate-overgrazing-biggest-threat-rangelands.html)
 * [2025-10-02, 12:36:39](https://news.ycombinator.com/item?id=45448839) - [Meta will listen into AI conversations to personalize ads](https://www.theregister.com/2025/10/01/meta_ai_use_informs_ads/)
 * [2025-10-02, 12:34:43](https://news.ycombinator.com/item?id=45448825) - [EU funds are flowing into spyware companies and politicians demanding answers](https://www.theregister.com/2025/10/02/eu_spyware_funding/)
 * [2025-10-02, 12:31:53](https://news.ycombinator.com/item?id=45448802) - [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
