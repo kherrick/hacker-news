@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-02, 04:14:34](https://news.ycombinator.com/item?id=45446263) - [Typepad is closed for business](https://www.typepad.com)
 * [2025-10-02, 00:38:38](https://news.ycombinator.com/item?id=45445260) - [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html)
 * [2025-10-02, 00:12:35](https://news.ycombinator.com/item?id=45445114) - [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
@@ -12,6 +11,7 @@
 * [2025-10-01, 17:25:33](https://news.ycombinator.com/item?id=45440431) - [OpenTSLM: Language models that understand time series](https://www.opentslm.com/)
 * [2025-10-01, 16:51:58](https://news.ycombinator.com/item?id=45439997) - [The RAG Obituary: Killed by agents, buried by context windows](https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents)
 * [2025-10-01, 16:25:58](https://news.ycombinator.com/item?id=45439670) - [Gmail will no longer support checking emails from third-party accounts via POP](https://support.google.com/mail/answer/16604719?hl=en)
+* [2025-10-01, 15:15:44](https://news.ycombinator.com/item?id=45438704) - [Long-distance and wide-area detection of gene expression in living bacteria](https://www.asimov.press/p/hyperspectral)
 * [2025-10-01, 15:01:06](https://news.ycombinator.com/item?id=45438503) - [Ask HN: Who is hiring? (October 2025)](https://news.ycombinator.com/item?id=45438503)
 * [2025-10-01, 15:01:06](https://news.ycombinator.com/item?id=45438501) - [Ask HN: Who wants to be hired? (October 2025)](https://news.ycombinator.com/item?id=45438501)
 * [2025-10-01, 15:00:41](https://news.ycombinator.com/item?id=45438496) - [Building the heap: racking 30 petabytes of hard drives for pretraining](https://si.inc/posts/the-heap/)
