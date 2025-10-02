@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
+* [2025-10-02, 09:42:36](https://news.ycombinator.com/item?id=45447776) - [Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers](https://www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 06:25:43](https://news.ycombinator.com/item?id=45446834) - [Immich v2.0.0 – First stable release](https://github.com/immich-app/immich/discussions/22546)
 * [2025-10-02, 00:12:35](https://news.ycombinator.com/item?id=45445114) - [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
@@ -16,7 +16,6 @@
 * [2025-10-01, 14:48:31](https://news.ycombinator.com/item?id=45438346) - [Show HN: Autism Simulator](https://autism-simulator.vercel.app/)
 * [2025-10-01, 14:05:45](https://news.ycombinator.com/item?id=45437893) - [Unix philosophy and filesystem access makes Claude Code amazing](https://www.alephic.com/writing/the-magic-of-claude-code)
 * [2025-10-01, 13:52:41](https://news.ycombinator.com/item?id=45437759) - [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
-* [2025-10-01, 08:00:30](https://news.ycombinator.com/item?id=45435422) - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 * [2025-09-30, 19:43:08](https://news.ycombinator.com/item?id=45430294) - [Show HN: Glide, an extensible, keyboard-focused web browser](https://blog.craigie.dev/introducing-glide/)
 * [2025-09-29, 21:08:07](https://news.ycombinator.com/item?id=45418775) - [Understanding Cultural Differences: The Michigan Fish Test (2013)](http://michael-roberto.blogspot.com/2013/07/understanding-cultural-differences.html)
 * [2025-09-29, 17:48:53](https://news.ycombinator.com/item?id=45416670) - [Leading artists reveal the fabricators they entrust with their creations](https://www.ft.com/content/d84c8502-d413-4a26-a59c-494af11978b5)
@@ -24,6 +23,7 @@
 * [2025-09-29, 13:11:46](https://news.ycombinator.com/item?id=45413294) - [Tactility: An ESP32 OS](https://tactility.one)
 * [2025-09-29, 07:44:09](https://news.ycombinator.com/item?id=45411254) - [In C++ modules globally unique module names seem to be unavoidable](https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html)
 * [2025-09-29, 03:22:27](https://news.ycombinator.com/item?id=45410068) - [I built ChatGPT with Minecraft redstone [video]](https://www.youtube.com/watch?v=VaeI9YgE1o8)
+* [2025-09-28, 21:00:18](https://news.ycombinator.com/item?id=45407953) - [We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
 * [2025-09-28, 18:55:49](https://news.ycombinator.com/item?id=45406879) - [Make the most of compiled C loops on the 68000](https://dciabrin.net/posts/make-the-most-of-compiled-c-loops-on-the-68000/make-the-most-of-compiled-c-loops-on-the-68000/)
 * [2025-09-28, 17:21:24](https://news.ycombinator.com/item?id=45406090) - [A 3K-year-old copper smelting site could be key to understanding origins of iron](https://phys.org/news/2025-09-year-copper-smelting-site-key.html)
 * [2025-09-28, 14:34:53](https://news.ycombinator.com/item?id=45404627) - [JackTrip: Multi-machine audio network performance over the Internet](https://github.com/jacktrip/jacktrip)
