@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-02, 04:14:34](https://news.ycombinator.com/item?id=45446263) - [Typepad Is Closed for Business](https://www.typepad.com)
+* [2025-10-02, 04:14:34](https://news.ycombinator.com/item?id=45446263) - [Typepad is closed for business](https://www.typepad.com)
 * [2025-10-02, 00:38:38](https://news.ycombinator.com/item?id=45445260) - [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html)
 * [2025-10-02, 00:12:35](https://news.ycombinator.com/item?id=45445114) - [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
@@ -22,9 +22,9 @@
 * [2025-09-30, 19:43:08](https://news.ycombinator.com/item?id=45430294) - [Show HN: Glide, an extensible, keyboard-focused web browser](https://blog.craigie.dev/introducing-glide/)
 * [2025-09-29, 17:48:53](https://news.ycombinator.com/item?id=45416670) - [Leading artists reveal the fabricators they entrust with their creations](https://www.ft.com/content/d84c8502-d413-4a26-a59c-494af11978b5)
 * [2025-09-29, 16:19:49](https://news.ycombinator.com/item?id=45415591) - [IP over Lasers](https://www.mikekohn.net/micro/ip_over_lasers.php)
+* [2025-09-29, 14:35:56](https://news.ycombinator.com/item?id=45414362) - [What to know about encodings and character sets to work with text (2011)](https://kunststube.net/encoding/)
 * [2025-09-29, 13:13:29](https://news.ycombinator.com/item?id=45413330) - [CSS Unit Might Be a Combination](https://www.oddbird.net/2025/09/23/type-units/)
 * [2025-09-29, 13:11:46](https://news.ycombinator.com/item?id=45413294) - [Tactility: An ESP32 OS](https://tactility.one)
-* [2025-09-29, 02:20:41](https://news.ycombinator.com/item?id=45409834) - [Extreme branchless: Expr without GADTs or sum-types](https://gautier.difolco.dev/2025-09/extreme-branchless-expr-fields/)
 * [2025-09-28, 17:21:24](https://news.ycombinator.com/item?id=45406090) - [A 3K-year-old copper smelting site could be key to understanding origins of iron](https://phys.org/news/2025-09-year-copper-smelting-site-key.html)
 * [2025-09-28, 14:34:53](https://news.ycombinator.com/item?id=45404627) - [JackTrip: Multi-machine audio network performance over the Internet](https://github.com/jacktrip/jacktrip)
 * [2025-09-28, 14:00:57](https://news.ycombinator.com/item?id=45404378) - [A replica of Citizen Quartz watch based on Harel's paper introducing statecharts](https://andyjakubowski.github.io/statechart-watch/)
