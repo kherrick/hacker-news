@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 21:34:42](https://news.ycombinator.com/item?id=45455882) - [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
 * [2025-10-02, 21:21:49](https://news.ycombinator.com/item?id=45455719) - [Launching Solveit – an antidote to AI fatigue](https://www.answer.ai/posts/2025-10-01-solveit-full.html)
 * [2025-10-02, 20:54:42](https://news.ycombinator.com/item?id=45455438) - [Austria's Armed Forces Gets Rid of Microsoft Office (Mostly) for LibreOffice](https://news.itsfoss.com/austrian-forces-ditch-microsoft-office/)
 * [2025-10-02, 19:39:08](https://news.ycombinator.com/item?id=45454460) - [Anti-Aging Breakthrough: Stem Cells Reverse Signs of Aging in Monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)

@@ -41,6 +41,7 @@
 * [2025-09-29, 16:25:27](https://news.ycombinator.com/item?id=45415646) - [Level Up your Rust pattern matching](https://blog.cuongle.dev/p/level-up-your-rust-pattern-matching)
 * [2025-09-29, 16:19:49](https://news.ycombinator.com/item?id=45415591) - [IP over Lasers](https://www.mikekohn.net/micro/ip_over_lasers.php)
 * [2025-09-29, 16:14:38](https://news.ycombinator.com/item?id=45415539) - [Show HN: Every single torrent is on this website](https://infohash.lol/)
+* [2025-09-29, 16:12:59](https://news.ycombinator.com/item?id=45415519) - [Highest bridge unveiled at more than 2,000ft above ground](https://www.independent.co.uk/tv/news/china-worlds-highest-bridge-video-b2835886.html)
 * [2025-09-29, 16:12:30](https://news.ycombinator.com/item?id=45415510) - [ML on Apple ][+](https://mdcramer.github.io/apple-2-blog/k-means/)
 * [2025-09-29, 16:07:47](https://news.ycombinator.com/item?id=45415469) - [Google’s “G” gets a brighter look.](https://blog.google/inside-google/company-announcements/gradient-g-logo-design/)
 * [2025-09-29, 16:03:49](https://news.ycombinator.com/item?id=45415428) - [Marissa Mayer will close her old AI startup, sell assets to her new AI startup](https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/)
