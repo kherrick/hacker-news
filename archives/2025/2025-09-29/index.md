@@ -28,6 +28,7 @@
 * [2025-09-29, 18:46:15](https://news.ycombinator.com/item?id=45417300) - [Diagnosing a Linux Performance Regression](https://automattic.com/2024/03/14/systems-report-linux-performance-regression/)
 * [2025-09-29, 17:48:53](https://news.ycombinator.com/item?id=45416670) - [The secret to great art? Finding someone else to make it](https://www.ft.com/content/d84c8502-d413-4a26-a59c-494af11978b5)
 * [2025-09-29, 17:41:00](https://news.ycombinator.com/item?id=45416572) - [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
+* [2025-09-29, 17:39:02](https://news.ycombinator.com/item?id=45416552) - [Adding a new instruction to RISC-V back end in LLVM](https://blog.gustavoleite.me/llvm-riscv-instruction)
 * [2025-09-29, 17:23:09](https://news.ycombinator.com/item?id=45416373) - [S&P affirms 'AA+' credit rating for US, cites impact of tariff revenue](https://www.reuters.com/business/sp-affirms-aa-credit-rating-us-cites-impact-tariff-revenue-2025-08-19/)
 * [2025-09-29, 17:21:15](https://news.ycombinator.com/item?id=45416347) - [79-year-old US citizen injured in immigration raid files $50M claim](https://apnews.com/article/immigration-raids-los-angeles-ice-lawsuit-6c94ce6e7873581e9f3bebb6f5cbb0df)
 * [2025-09-29, 17:12:58](https://news.ycombinator.com/item?id=45416231) - [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)

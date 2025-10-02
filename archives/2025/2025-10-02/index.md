@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 15:42:34](https://news.ycombinator.com/item?id=45451208) - [Windows 7 marketshare jumps to nearly 10% as Windows 10 support is about to end](https://www.neowin.net/news/windows-7-marketshare-jumps-to-nearly-10-as-windows-10-enters-final-weeks-of-support/)
+* [2025-10-02, 15:39:21](https://news.ycombinator.com/item?id=45451164) - [Wealth tax would be deadly for French economy, says Europe's richest man](https://www.theguardian.com/business/2025/sep/21/wealth-tax-would-be-deadly-for-french-economy-says-europe-richest-man-bernard-arnault)
+* [2025-10-02, 15:35:14](https://news.ycombinator.com/item?id=45451103) - [Autism should not be seen as single condition with one cause, say scientists](https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists)
+* [2025-10-02, 15:32:52](https://news.ycombinator.com/item?id=45451070) - [US memo to colleges proposes terms on ideology, foreign enrollment for fed funds](https://www.reuters.com/world/us/white-house-sets-hiring-foreign-enrolment-terms-colleges-get-funding-advantage-2025-10-02/)
 * [2025-10-02, 15:09:05](https://news.ycombinator.com/item?id=45450718) - [Ford locking basic navigation behind a subscription](https://old.reddit.com/r/LinusTechTips/comments/1nw5s9f/ford_locking_basic_navigation_behind_a/)
 * [2025-10-02, 15:07:48](https://news.ycombinator.com/item?id=45450694) - [Does Big Pharma gouge Americans?](https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans)
 * [2025-10-02, 14:58:04](https://news.ycombinator.com/item?id=45450525) - [Work Is Not School: Surviving Institutional Stupidity](https://www.leadingsapiens.com/surviving-institutional-stupidity/)
