@@ -82,6 +82,7 @@
 * [2025-09-29, 03:45:40](https://news.ycombinator.com/item?id=45410155) - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
 * [2025-09-29, 03:43:03](https://news.ycombinator.com/item?id=45410143) - [Stealing Debug Pretty Print from Vitis HLS](https://stefanabikaram.com/writing/vitis-hls-debug-pretty-print/)
 * [2025-09-29, 03:42:12](https://news.ycombinator.com/item?id=45410134) - [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
+* [2025-09-29, 03:22:27](https://news.ycombinator.com/item?id=45410068) - [I built ChatGPT with Minecraft redstone [video]](https://www.youtube.com/watch?v=VaeI9YgE1o8)
 * [2025-09-29, 02:53:29](https://news.ycombinator.com/item?id=45409956) - [Reader Response to \"AI Overinvestment\"](https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/)
 * [2025-09-29, 02:41:18](https://news.ycombinator.com/item?id=45409914) - [The Elusive Roots of Rosin Potatoes](https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes)
 * [2025-09-29, 02:20:41](https://news.ycombinator.com/item?id=45409834) - [Extreme branchless: Expr without GADTs or sum-types](https://gautier.difolco.dev/2025-09/extreme-branchless-expr-fields/)
