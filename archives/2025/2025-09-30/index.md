@@ -29,6 +29,7 @@
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Sora 2](https://openai.com/index/sora-2/)
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Introducing Sora 2 [video]](https://www.youtube.com/watch?v=gzneGhpXwjU)
 * [2025-09-30, 16:43:47](https://news.ycombinator.com/item?id=45427809) - [The Dismantling of the Forest Service](https://www.hcn.org/articles/trump-looks-to-dismantle-the-forest-service/)
+* [2025-09-30, 16:41:25](https://news.ycombinator.com/item?id=45427774) - [A B+Tree Node Underflows: Merge or Borrow?](https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/)
 * [2025-09-30, 16:35:16](https://news.ycombinator.com/item?id=45427697) - [Show HN: Sculptor, the Missing UI for Claude Code](https://imbue.com/sculptor/)
 * [2025-09-30, 16:31:27](https://news.ycombinator.com/item?id=45427634) - [A $196 fine-tuned 7B model outperforms OpenAI o3 on document extraction](https://arxiv.org/abs/2509.22906)
 * [2025-09-30, 16:21:09](https://news.ycombinator.com/item?id=45427482) - [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)

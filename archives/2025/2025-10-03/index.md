@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 21:00:32](https://news.ycombinator.com/item?id=45467717) - [TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
+* [2025-10-03, 20:40:52](https://news.ycombinator.com/item?id=45467543) - [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
+* [2025-10-03, 20:36:03](https://news.ycombinator.com/item?id=45467500) - [Sweden's National Bank Introduces Mandate for Offline Card Payments](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
 * [2025-10-03, 20:08:38](https://news.ycombinator.com/item?id=45467230) - [Credit markets look increasingly dangerous](https://www.economist.com/finance-and-economics/2025/10/02/credit-markets-look-increasingly-dangerous)
+* [2025-10-03, 20:01:36](https://news.ycombinator.com/item?id=45467166) - [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
 * [2025-10-03, 19:47:53](https://news.ycombinator.com/item?id=45467032) - [Arenas in Rust](https://russellw.github.io/arenas)
 * [2025-10-03, 19:13:34](https://news.ycombinator.com/item?id=45466655) - [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/)
+* [2025-10-03, 19:08:11](https://news.ycombinator.com/item?id=45466588) - [Jules, remote coding agent from Google Labs, announces API](https://jules.google/docs/changelog/)
 * [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
 * [2025-10-03, 18:13:42](https://news.ycombinator.com/item?id=45465969) - [The AI bubble is 17 times the size of the dot-com frenzy, analyst says](https://www.marketwatch.com/story/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-this-analyst-argues-046e7c5c)
 * [2025-10-03, 18:13:16](https://news.ycombinator.com/item?id=45465964) - [ICE Wants to Build Out a 24/7 Social Media Surveillance Team](https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/)
