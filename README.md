@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
+* [2025-10-03, 18:13:16](https://news.ycombinator.com/item?id=45465964) - [ICE Wants to Build Out a 24/7 Social Media Surveillance Team](https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/)
 * [2025-10-03, 17:27:02](https://news.ycombinator.com/item?id=45465392) - [Email was the user interface for the first AI recommendation engines](https://buttondown.com/blog/ringo-email-as-an-ai-interface)
 * [2025-10-03, 17:18:21](https://news.ycombinator.com/item?id=45465276) - [Simple Hotkey Daemon for macOS, Ported to Zig](https://github.com/jackielii/skhd.zig)
 * [2025-10-03, 17:01:27](https://news.ycombinator.com/item?id=45465091) - [Ants trapped in a Soviet nuclear bunker survived for years](https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own)
@@ -8,7 +9,6 @@
 * [2025-10-03, 16:49:57](https://news.ycombinator.com/item?id=45464984) - [The collapse of the econ PhD job market](https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job)
 * [2025-10-03, 16:44:02](https://news.ycombinator.com/item?id=45464921) - [Germany must stand firmly against client-side scanning in Chat Control [pdf]](https://signal.org/blog/pdfs/germany-chat-control.pdf)
 * [2025-10-03, 16:18:29](https://news.ycombinator.com/item?id=45464632) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
-* [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-03, 15:46:11](https://news.ycombinator.com/item?id=45464269) - [Anduril and Palantir battlefield communication system has flaws, Army memo says](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
 * [2025-10-03, 15:30:32](https://news.ycombinator.com/item?id=45464111) - [LinkedIn sues software company allegedly scraping data from profiles](https://therecord.media/linkedin-sues-data-scraping-company)
 * [2025-10-03, 14:51:02](https://news.ycombinator.com/item?id=45463656) - [Social anxiety isn't about being liked](https://chrislakin.blog/p/social-anxiety)
