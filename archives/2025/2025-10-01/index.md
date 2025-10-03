@@ -71,6 +71,7 @@
 * [2025-10-01, 09:22:10](https://news.ycombinator.com/item?id=45435825) - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
 * [2025-10-01, 09:14:45](https://news.ycombinator.com/item?id=45435780) - [Self-hosting email in 2025 is easy actually (apart from M365)](https://mastodon.social/@whitequark/115298019560025791)
 * [2025-10-01, 09:04:10](https://news.ycombinator.com/item?id=45435720) - [Pre-Record Your Demos](https://www.steveharrison.dev/pre-record-your-demos/)
+* [2025-10-01, 08:41:08](https://news.ycombinator.com/item?id=45435608) - [Radicle: Peer-to-Peer Collaboration with Git (2024)](https://lwn.net/Articles/966869/)
 * [2025-10-01, 08:06:50](https://news.ycombinator.com/item?id=45435463) - [I only use Google Sheets](https://mayberay.bearblog.dev/why-i-only-use-google-sheets/)
 * [2025-10-01, 08:00:30](https://news.ycombinator.com/item?id=45435422) - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 * [2025-10-01, 07:51:24](https://news.ycombinator.com/item?id=45435375) - [The Beer Can](https://brr.fyi/posts/beer-can)
