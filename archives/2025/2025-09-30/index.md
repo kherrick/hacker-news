@@ -84,4 +84,5 @@
 * [2025-09-30, 02:13:00](https://news.ycombinator.com/item?id=45421221) - [Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol](https://github.com/currentspace/capn-rs)
 * [2025-09-30, 01:46:02](https://news.ycombinator.com/item?id=45421067) - [Awakening Bell](https://awakeningbell.org/)
 * [2025-09-30, 00:55:41](https://news.ycombinator.com/item?id=45420751) - [Why is Google charging me $5-10 per click for my own brand name searches](https://news.ycombinator.com/item?id=45420751)
+* [2025-09-30, 00:49:54](https://news.ycombinator.com/item?id=45420722) - [Modern Font Stacks](https://modernfontstacks.com/)
 * [2025-09-30, 00:43:35](https://news.ycombinator.com/item?id=45420685) - [Some dogs can classify their toys by function](https://arstechnica.com/science/2025/09/some-dogs-can-classify-their-toys-by-function/)
