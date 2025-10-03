@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-03, 10:42:26](https://news.ycombinator.com/item?id=45461329) - [Circassian Genocide](https://en.wikipedia.org/wiki/Circassian_genocide)
 * [2025-10-03, 05:13:47](https://news.ycombinator.com/item?id=45459233) - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
 * [2025-10-03, 04:21:23](https://news.ycombinator.com/item?id=45458948) - [Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it](https://github.com/triton-lang/triton/pull/7298)
 * [2025-10-03, 03:52:43](https://news.ycombinator.com/item?id=45458791) - [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
@@ -22,6 +21,7 @@
 * [2025-10-02, 13:29:55](https://news.ycombinator.com/item?id=45449348) - [Potential issues in curl found using AI assisted tools](https://mastodon.social/@bagder/115241241075258997)
 * [2025-10-01, 10:11:02](https://news.ycombinator.com/item?id=45436083) - [Icebird: JavaScript Iceberg Reader](https://github.com/hyparam/icebird)
 * [2025-10-01, 07:51:24](https://news.ycombinator.com/item?id=45435375) - [The Beer Can](https://brr.fyi/posts/beer-can)
+* [2025-10-01, 06:45:19](https://news.ycombinator.com/item?id=45435016) - [Amazon Vega OS and Vega Developer Tools](https://developer.amazon.com/apps-and-games/vega)
 * [2025-09-30, 14:16:51](https://news.ycombinator.com/item?id=45425770) - [Valuing Land: The Simplest Viable Method](https://progressandpoverty.substack.com/p/valuing-land-the-simplest-viable)
 * [2025-09-30, 00:49:54](https://news.ycombinator.com/item?id=45420722) - [Modern Font Stacks](https://modernfontstacks.com/)
 * [2025-09-30, 00:43:35](https://news.ycombinator.com/item?id=45420685) - [Some dogs can classify their toys by function](https://arstechnica.com/science/2025/09/some-dogs-can-classify-their-toys-by-function/)
