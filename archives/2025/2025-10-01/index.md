@@ -66,6 +66,7 @@
 * [2025-10-01, 11:07:43](https://news.ycombinator.com/item?id=45436378) - [Cannabis extract found to be effective for lower back pain](https://www.newscientist.com/article/2498064-cannabis-extract-found-to-be-effective-for-lower-back-pain/)
 * [2025-10-01, 10:11:02](https://news.ycombinator.com/item?id=45436083) - [Icebird: JavaScript Iceberg Reader](https://github.com/hyparam/icebird)
 * [2025-10-01, 10:00:29](https://news.ycombinator.com/item?id=45436027) - [FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET](https://flowsynx.io/)
+* [2025-10-01, 09:58:07](https://news.ycombinator.com/item?id=45436010) - [Ask HN: What's your experience with using graph databases for agentic use-cases?](https://news.ycombinator.com/item?id=45436010)
 * [2025-10-01, 09:22:10](https://news.ycombinator.com/item?id=45435825) - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
 * [2025-10-01, 09:14:45](https://news.ycombinator.com/item?id=45435780) - [Self-hosting email in 2025 is easy actually (apart from M365)](https://mastodon.social/@whitequark/115298019560025791)
 * [2025-10-01, 09:04:10](https://news.ycombinator.com/item?id=45435720) - [Pre-Record Your Demos](https://www.steveharrison.dev/pre-record-your-demos/)

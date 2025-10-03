@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 12:05:59](https://news.ycombinator.com/item?id=45461975) - [The biggest sign of an AI bubble is starting to appear – debt](https://www.axios.com/2025/10/03/ai-bubble-meta-oracle-microsoft)
+* [2025-10-03, 12:00:43](https://news.ycombinator.com/item?id=45461930) - [QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust](https://questdb.com/careers/core-database-engineer/)
 * [2025-10-03, 11:08:42](https://news.ycombinator.com/item?id=45461500) - [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 * [2025-10-03, 11:04:58](https://news.ycombinator.com/item?id=45461472) - [Europe Can No Longer Ignore That It's Under Russian Attack](https://www.worldpoliticsreview.com/europe-russia-drones-hybrid-war/)
 * [2025-10-03, 10:42:26](https://news.ycombinator.com/item?id=45461329) - [Circassian Genocide](https://en.wikipedia.org/wiki/Circassian_genocide)
