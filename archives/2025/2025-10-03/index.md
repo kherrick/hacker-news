@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 22:01:51](https://news.ycombinator.com/item?id=45468324) - [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)
 * [2025-10-03, 21:16:12](https://news.ycombinator.com/item?id=45467886) - [Oracle employees who criticise Israel referred to mental health services](https://responsiblestatecraft.org/oracle-tiktok-israel-2674151514/)
 * [2025-10-03, 21:00:32](https://news.ycombinator.com/item?id=45467717) - [TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
 * [2025-10-03, 20:40:52](https://news.ycombinator.com/item?id=45467543) - [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
@@ -12,6 +13,7 @@
 * [2025-10-03, 20:08:38](https://news.ycombinator.com/item?id=45467230) - [Credit markets look increasingly dangerous](https://www.economist.com/finance-and-economics/2025/10/02/credit-markets-look-increasingly-dangerous)
 * [2025-10-03, 20:01:36](https://news.ycombinator.com/item?id=45467166) - [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
 * [2025-10-03, 19:47:53](https://news.ycombinator.com/item?id=45467032) - [Arenas in Rust](https://russellw.github.io/arenas)
+* [2025-10-03, 19:32:37](https://news.ycombinator.com/item?id=45466865) - [Show HN: FLE v0.3 – Claude Code Plays Factorio](https://jackhopkins.github.io/factorio-learning-environment/versions/0.3.0.html)
 * [2025-10-03, 19:15:37](https://news.ycombinator.com/item?id=45466675) - [Ask HN: One-person SaaS apps that are profitable?](https://news.ycombinator.com/item?id=45466675)
 * [2025-10-03, 19:13:34](https://news.ycombinator.com/item?id=45466655) - [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/)
 * [2025-10-03, 19:08:11](https://news.ycombinator.com/item?id=45466588) - [Jules, remote coding agent from Google Labs, announces API](https://jules.google/docs/changelog/)
