@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 18:00:02](https://news.ycombinator.com/item?id=45465803) - [Apple removes ICEBlock, won't allow apps that report locations of ICE agents](https://arstechnica.com/tech-policy/2025/10/apple-bends-to-trump-admin-demand-to-remove-ice-tracking-apps-like-iceblock/)
 * [2025-10-03, 17:27:02](https://news.ycombinator.com/item?id=45465392) - [Email was the user interface for the first AI recommendation engines](https://buttondown.com/blog/ringo-email-as-an-ai-interface)
 * [2025-10-03, 17:20:32](https://news.ycombinator.com/item?id=45465295) - [Record Everything](https://aeon.co/essays/if-memory-is-precious-to-you-then-go-ahead-and-record-everything)
 * [2025-10-03, 17:02:22](https://news.ycombinator.com/item?id=45465098) - [Be Worried](https://dlo.me/archives/2025/10/03/you-should-be-worried/)
