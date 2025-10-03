@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-03, 12:05:59",
+      "https://news.ycombinator.com/item?id=45461975"
+    ],
+    [
+      "The biggest sign of an AI bubble is starting to appear – debt",
+      "https://www.axios.com/2025/10/03/ai-bubble-meta-oracle-microsoft"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 12:00:43",
+      "https://news.ycombinator.com/item?id=45461930"
+    ],
+    [
+      "QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust",
+      "https://questdb.com/careers/core-database-engineer/"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 11:08:42",
       "https://news.ycombinator.com/item?id=45461500"
     ],
@@ -47,16 +67,6 @@
     [
       "You Want Technology with Warts",
       "https://entropicthoughts.com/you-want-technology-with-warts"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 03:04:04",
-      "https://news.ycombinator.com/item?id=45458482"
-    ],
-    [
-      "Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone",
-      "https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html"
     ]
   ],
   [
@@ -111,32 +121,12 @@
   ],
   [
     [
-      "2025-10-02, 23:57:23",
-      "https://news.ycombinator.com/item?id=45457048"
-    ],
-    [
-      "Self-supervised learning, JEPA, world models, and the future of AI [video]",
-      "https://www.youtube.com/watch?v=yUmDRxV0krg"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 21:34:42",
       "https://news.ycombinator.com/item?id=45455882"
     ],
     [
       "The strangest letter of the alphabet: The rise and fall of yogh",
       "https://www.deadlanguagesociety.com/p/history-of-letter-yogh"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 18:37:28",
-      "https://news.ycombinator.com/item?id=45453586"
-    ],
-    [
-      "OpenAI's H1 2025: $4.3B in income, $13.5B in loss",
-      "https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Icebird: JavaScript Iceberg Reader",
       "https://github.com/hyparam/icebird"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 09:58:07",
+      "https://news.ycombinator.com/item?id=45436010"
+    ],
+    [
+      "Ask HN: What's your experience with using graph databases for agentic use-cases?",
+      "https://news.ycombinator.com/item?id=45436010"
     ]
   ],
   [
