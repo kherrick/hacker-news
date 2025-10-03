@@ -2,6 +2,7 @@
 
 * [2025-10-03, 21:00:32](https://news.ycombinator.com/item?id=45467717) - [TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
 * [2025-10-03, 20:40:52](https://news.ycombinator.com/item?id=45467543) - [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
+* [2025-10-03, 20:36:44](https://news.ycombinator.com/item?id=45467503) - [Fast SSIMULACRA2 Implementation in Zig](https://github.com/gianni-rosato/fssimu2)
 * [2025-10-03, 20:36:03](https://news.ycombinator.com/item?id=45467500) - [Sweden's National Bank Introduces Mandate for Offline Card Payments](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
 * [2025-10-03, 20:01:36](https://news.ycombinator.com/item?id=45467166) - [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
 * [2025-10-03, 19:47:53](https://news.ycombinator.com/item?id=45467032) - [Arenas in Rust](https://russellw.github.io/arenas)
@@ -14,7 +15,6 @@
 * [2025-10-03, 16:44:02](https://news.ycombinator.com/item?id=45464921) - [Germany must stand firmly against client-side scanning in Chat Control [pdf]](https://signal.org/blog/pdfs/germany-chat-control.pdf)
 * [2025-10-03, 16:18:29](https://news.ycombinator.com/item?id=45464632) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 * [2025-10-03, 15:46:11](https://news.ycombinator.com/item?id=45464269) - [Anduril and Palantir battlefield communication system has flaws, Army memo says](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
-* [2025-10-03, 15:30:32](https://news.ycombinator.com/item?id=45464111) - [LinkedIn sues software company allegedly scraping data from profiles](https://therecord.media/linkedin-sues-data-scraping-company)
 * [2025-10-03, 14:18:56](https://news.ycombinator.com/item?id=45463319) - [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
 * [2025-10-03, 14:13:03](https://news.ycombinator.com/item?id=45463251) - [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
 * [2025-10-03, 13:21:44](https://news.ycombinator.com/item?id=45462713) - [Arbitrary code execution in Unity Runtime](https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/)
