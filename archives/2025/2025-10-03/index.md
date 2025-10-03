@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 11:08:42](https://news.ycombinator.com/item?id=45461500) - [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 * [2025-10-03, 11:04:58](https://news.ycombinator.com/item?id=45461472) - [Europe Can No Longer Ignore That It's Under Russian Attack](https://www.worldpoliticsreview.com/europe-russia-drones-hybrid-war/)
 * [2025-10-03, 10:42:26](https://news.ycombinator.com/item?id=45461329) - [Circassian Genocide](https://en.wikipedia.org/wiki/Circassian_genocide)
 * [2025-10-03, 09:03:46](https://news.ycombinator.com/item?id=45460707) - [Apple Pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
