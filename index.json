@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-10-03, 05:16:28",
-      "https://news.ycombinator.com/item?id=45459254"
-    ],
-    [
-      "Stripe to take 30% cut of disputed revenue you recover",
-      "https://news.ycombinator.com/item?id=45459254"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 05:13:47",
       "https://news.ycombinator.com/item?id=45459233"
     ],
     [
       "In Praise of RSS and Controlled Feeds of Information",
       "https://blog.burkert.me/posts/in_praise_of_syndication/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 05:10:36",
+      "https://news.ycombinator.com/item?id=45459214"
+    ],
+    [
+      "Japan's ruling party is in crisis as voters swing to right-wing rivals",
+      "https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk"
     ]
   ],
   [
@@ -57,6 +57,26 @@
     [
       "You Want Technology with Warts",
       "https://entropicthoughts.com/you-want-technology-with-warts"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 03:04:04",
+      "https://news.ycombinator.com/item?id=45458482"
+    ],
+    [
+      "Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone",
+      "https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 02:59:48",
+      "https://news.ycombinator.com/item?id=45458457"
+    ],
+    [
+      "KitteHub: Workflow as Python code using AutoKitteh",
+      "https://github.com/autokitteh/kittehub"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-10-02, 16:07:23",
-      "https://news.ycombinator.com/item?id=45451547"
-    ],
-    [
-      "Launch HN: Simplex (YC S24) – Browser automation platform for developers",
-      "https://www.simplex.sh/"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 16:06:10",
       "https://news.ycombinator.com/item?id=45451527"
     ],
@@ -277,16 +287,6 @@
     [
       "PyOCI – Publish and install private Python packages using OCI/Docker registries",
       "https://github.com/AllexVeldman/pyoci"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 09:43:39",
-      "https://news.ycombinator.com/item?id=45411866"
-    ],
-    [
-      "A primer for using weather surveillance radar to study bird migration",
-      "https://birdcast.info/news/a-primer-for-using-weather-surveillance-radar-to-study-bird-migration/"
     ]
   ],
   [
