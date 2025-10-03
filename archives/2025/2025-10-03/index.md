@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 05:16:28](https://news.ycombinator.com/item?id=45459254) - [Stripe to take 30% cut of disputed revenue you recover](https://news.ycombinator.com/item?id=45459254)
+* [2025-10-03, 05:13:47](https://news.ycombinator.com/item?id=45459233) - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
 * [2025-10-03, 04:26:49](https://news.ycombinator.com/item?id=45458987) - ['Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer](https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer)
 * [2025-10-03, 04:21:23](https://news.ycombinator.com/item?id=45458948) - [Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it](https://github.com/triton-lang/triton/pull/7298)
 * [2025-10-03, 04:15:41](https://news.ycombinator.com/item?id=45458909) - [Digital ID – The New Chains of Capitalist Surveillance](https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/)
