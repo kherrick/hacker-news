@@ -24,7 +24,7 @@
 * [2025-10-02, 13:29:55](https://news.ycombinator.com/item?id=45449348) - [Potential issues in curl found using AI assisted tools](https://mastodon.social/@bagder/115241241075258997)
 * [2025-10-01, 10:26:26](https://news.ycombinator.com/item?id=45436148) - [Kairos: Immutable Distro for K8s at the Edge](https://kairos.io/)
 * [2025-10-01, 09:58:07](https://news.ycombinator.com/item?id=45436010) - [Ask HN: What's your experience with using graph databases for agentic use-cases?](https://news.ycombinator.com/item?id=45436010)
-* [2025-10-01, 07:51:24](https://news.ycombinator.com/item?id=45435375) - [The Beer Can](https://brr.fyi/posts/beer-can)
+* [2025-10-01, 07:51:24](https://news.ycombinator.com/item?id=45435375) - [The Beer Can (2023)](https://brr.fyi/posts/beer-can)
 * [2025-10-01, 06:45:19](https://news.ycombinator.com/item?id=45435016) - [Amazon Vega OS and Vega Developer Tools](https://developer.amazon.com/apps-and-games/vega)
 * [2025-09-30, 00:49:54](https://news.ycombinator.com/item?id=45420722) - [Modern Font Stacks](https://modernfontstacks.com/)
 * [2025-09-29, 22:44:39](https://news.ycombinator.com/item?id=45419780) - [Low-dose radiation offers relief to people with knee osteoarthritis](https://www.astro.org/news-and-publications/news-and-media-center/news-releases/2025/low-dose-radiation-therapy-offers-substantial-relief-to-people-with-painful-knee-osteoarthritis)
