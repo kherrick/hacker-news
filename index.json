@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-10-03, 21:00:32",
+      "https://news.ycombinator.com/item?id=45467717"
+    ],
+    [
+      "TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)",
+      "https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 20:40:52",
+      "https://news.ycombinator.com/item?id=45467543"
+    ],
+    [
+      "Interstellar Object 3I/Atlas Passed Mars Last Night",
+      "https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 20:36:03",
+      "https://news.ycombinator.com/item?id=45467500"
+    ],
+    [
+      "Sweden's National Bank Introduces Mandate for Offline Card Payments",
+      "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 20:01:36",
+      "https://news.ycombinator.com/item?id=45467166"
+    ],
+    [
+      "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
+      "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 19:47:53",
       "https://news.ycombinator.com/item?id=45467032"
     ],
@@ -17,6 +57,16 @@
     [
       "Procedural Generation with Wave Function Collapse",
       "https://www.gridbugs.org/wave-function-collapse/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 19:08:11",
+      "https://news.ycombinator.com/item?id=45466588"
+    ],
+    [
+      "Jules, remote coding agent from Google Labs, announces API",
+      "https://jules.google/docs/changelog/"
     ]
   ],
   [
@@ -61,26 +111,6 @@
   ],
   [
     [
-      "2025-10-03, 17:01:27",
-      "https://news.ycombinator.com/item?id=45465091"
-    ],
-    [
-      "Ants trapped in a Soviet nuclear bunker survived for years",
-      "https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 17:00:08",
-      "https://news.ycombinator.com/item?id=45465078"
-    ],
-    [
-      "Depot (YC W23) Is Hiring a Principal Design Engineer (Remote US/EU)",
-      "https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 16:44:02",
       "https://news.ycombinator.com/item?id=45464921"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-10-03, 14:48:36",
-      "https://news.ycombinator.com/item?id=45463642"
-    ],
-    [
-      "Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips",
-      "https://www.cnbc.com/2025/10/01/microsoft-wants-to-mainly-use-its-own-ai-chips-in-the-future.html"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 14:18:56",
       "https://news.ycombinator.com/item?id=45463319"
     ],
@@ -167,16 +187,6 @@
     [
       "The Faroes",
       "https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 12:24:02",
-      "https://news.ycombinator.com/item?id=45462143"
-    ],
-    [
-      "A Thermometer for Measuring Quantumness",
-      "https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2025-10-01, 08:55:08",
-      "https://news.ycombinator.com/item?id=45435677"
+      "2025-09-30, 16:41:25",
+      "https://news.ycombinator.com/item?id=45427774"
     ],
     [
-      "Copper workers' experiments might have helped usher in Iron Age",
-      "https://archaeology.org/news/2025/09/30/copper-workers-experiments-might-have-helped-usher-in-iron-age/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 07:51:24",
-      "https://news.ycombinator.com/item?id=45435375"
-    ],
-    [
-      "The Beer Can (2023)",
-      "https://brr.fyi/posts/beer-can"
+      "A B+Tree Node Underflows: Merge or Borrow?",
+      "https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/"
     ]
   ],
   [
