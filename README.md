@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Bezos says AI is in an industrial bubble](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
+* [2025-10-03, 15:58:35](https://news.ycombinator.com/item?id=45464409) - [0-Day iOS Exploit \"Caught in the Wild\" Released](https://seclists.org/fulldisclosure/2025/Oct/1)
 * [2025-10-03, 15:46:11](https://news.ycombinator.com/item?id=45464269) - [Anduril and Palantir battlefield comms system has deep flaws: Army](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
 * [2025-10-03, 14:51:02](https://news.ycombinator.com/item?id=45463656) - [Social anxiety isn't about being liked](https://chrislakin.blog/p/social-anxiety)
 * [2025-10-03, 14:48:36](https://news.ycombinator.com/item?id=45463642) - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)
@@ -25,10 +25,10 @@
 * [2025-10-01, 10:26:26](https://news.ycombinator.com/item?id=45436148) - [Kairos: Immutable Distro for K8s at the Edge](https://kairos.io/)
 * [2025-10-01, 08:41:08](https://news.ycombinator.com/item?id=45435608) - [Radicle: Peer-to-Peer Collaboration with Git (2024)](https://lwn.net/Articles/966869/)
 * [2025-10-01, 07:51:24](https://news.ycombinator.com/item?id=45435375) - [The Beer Can (2023)](https://brr.fyi/posts/beer-can)
+* [2025-10-01, 07:33:20](https://news.ycombinator.com/item?id=45435283) - [Glide, an extensible, keyboard-focused web browser](https://blog.craigie.dev/introducing-glide/)
 * [2025-10-01, 06:45:19](https://news.ycombinator.com/item?id=45435016) - [Amazon Vega OS and Vega Developer Tools](https://developer.amazon.com/apps-and-games/vega)
 * [2025-09-30, 00:49:54](https://news.ycombinator.com/item?id=45420722) - [Modern Font Stacks](https://modernfontstacks.com/)
 * [2025-09-29, 22:44:39](https://news.ycombinator.com/item?id=45419780) - [Low-dose radiation offers relief to people with knee osteoarthritis](https://www.astro.org/news-and-publications/news-and-media-center/news-releases/2025/low-dose-radiation-therapy-offers-substantial-relief-to-people-with-painful-knee-osteoarthritis)
-* [2025-09-29, 09:55:58](https://news.ycombinator.com/item?id=45411939) - [How England misplaced its first king](https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king)
 * [2025-09-29, 08:16:27](https://news.ycombinator.com/item?id=45411435) - [Consistent hashing](https://eli.thegreenplace.net/2025/consistent-hashing/)
 
 ## [Archives](archives/index.md)
