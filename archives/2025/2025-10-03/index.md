@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 09:03:46](https://news.ycombinator.com/item?id=45460707) - [Apple Pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
 * [2025-10-03, 08:09:49](https://news.ycombinator.com/item?id=45460329) - [Talent Is Alignment](https://xlii.space/thoughts/talent-is-alignment/)
 * [2025-10-03, 05:16:28](https://news.ycombinator.com/item?id=45459254) - [Stripe to take 30% cut of disputed revenue you recover](https://news.ycombinator.com/item?id=45459254)
 * [2025-10-03, 05:13:47](https://news.ycombinator.com/item?id=45459233) - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)

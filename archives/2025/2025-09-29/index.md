@@ -84,6 +84,7 @@
 * [2025-09-29, 10:21:23](https://news.ycombinator.com/item?id=45412075) - [Avalanche Studios NYC Retrospective – An Ambitious Company Ruined](https://probablydance.com/2025/09/28/avalanche-studios-nyc-retrospective-an-ambitious-company-ruined-by-bad-development-practices/)
 * [2025-09-29, 10:11:20](https://news.ycombinator.com/item?id=45412022) - [Optimizing a 6502 image decoder, from 70 minutes to 1 minute](https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/)
 * [2025-09-29, 10:04:06](https://news.ycombinator.com/item?id=45411990) - [The graduate 'jobpocalypse': Where have all the entry-level jobs gone? [video]](https://www.youtube.com/watch?v=IeTFpsuCor8)
+* [2025-09-29, 09:55:58](https://news.ycombinator.com/item?id=45411939) - [How England misplaced its first king](https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king)
 * [2025-09-29, 09:43:39](https://news.ycombinator.com/item?id=45411866) - [A primer for using weather surveillance radar to study bird migration](https://birdcast.info/news/a-primer-for-using-weather-surveillance-radar-to-study-bird-migration/)
 * [2025-09-29, 09:34:16](https://news.ycombinator.com/item?id=45411831) - [Bad Apple but it's played inside Super Mario Bros](https://tasvideos.org/8991S)
 * [2025-09-29, 09:27:00](https://news.ycombinator.com/item?id=45411799) - [Stealing from Google](https://taqib.dev/blog/stealing-from-google/)

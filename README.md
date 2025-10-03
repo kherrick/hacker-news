@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-03, 09:03:46](https://news.ycombinator.com/item?id=45460707) - [Apple Pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
 * [2025-10-03, 08:09:49](https://news.ycombinator.com/item?id=45460329) - [Talent Is Alignment](https://xlii.space/thoughts/talent-is-alignment/)
 * [2025-10-03, 05:13:47](https://news.ycombinator.com/item?id=45459233) - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
 * [2025-10-03, 04:21:23](https://news.ycombinator.com/item?id=45458948) - [Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it](https://github.com/triton-lang/triton/pull/7298)
@@ -15,7 +16,6 @@
 * [2025-10-02, 23:57:23](https://news.ycombinator.com/item?id=45457048) - [Self-supervised learning, JEPA, world models, and the future of AI [video]](https://www.youtube.com/watch?v=yUmDRxV0krg)
 * [2025-10-02, 21:34:42](https://news.ycombinator.com/item?id=45455882) - [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
 * [2025-10-02, 21:21:49](https://news.ycombinator.com/item?id=45455719) - [Solveit – A course and platform for solving problems with code](https://www.answer.ai/posts/2025-10-01-solveit-full.html)
-* [2025-10-02, 18:37:28](https://news.ycombinator.com/item?id=45453586) - [OpenAI's H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
 * [2025-10-02, 18:06:41](https://news.ycombinator.com/item?id=45453222) - [Babel is why I keep blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
 * [2025-10-02, 16:58:55](https://news.ycombinator.com/item?id=45452261) - [Why I chose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
 * [2025-10-02, 16:09:15](https://news.ycombinator.com/item?id=45451577) - [Playball – Watch MLB games from a terminal](https://github.com/paaatrick/playball)
@@ -24,11 +24,11 @@
 * [2025-10-01, 10:11:02](https://news.ycombinator.com/item?id=45436083) - [Icebird: JavaScript Iceberg Reader](https://github.com/hyparam/icebird)
 * [2025-10-01, 07:51:24](https://news.ycombinator.com/item?id=45435375) - [The Beer Can](https://brr.fyi/posts/beer-can)
 * [2025-09-30, 14:16:51](https://news.ycombinator.com/item?id=45425770) - [Valuing Land: The Simplest Viable Method](https://progressandpoverty.substack.com/p/valuing-land-the-simplest-viable)
-* [2025-09-30, 00:43:35](https://news.ycombinator.com/item?id=45420685) - [Some dogs can classify their toys by function](https://arstechnica.com/science/2025/09/some-dogs-can-classify-their-toys-by-function/)
 * [2025-09-29, 19:37:21](https://news.ycombinator.com/item?id=45417826) - [How I block all 26M of your curl requests](https://foxmoss.com/blog/packet-filtering/)
 * [2025-09-29, 16:12:59](https://news.ycombinator.com/item?id=45415519) - [Highest bridge unveiled at more than 2,000ft above ground](https://www.independent.co.uk/tv/news/china-worlds-highest-bridge-video-b2835886.html)
 * [2025-09-29, 12:35:06](https://news.ycombinator.com/item?id=45412938) - [Dbos: Durable Workflow Orchestration with Go and PostgreSQL](https://github.com/dbos-inc/dbos-transact-golang)
 * [2025-09-29, 11:37:52](https://news.ycombinator.com/item?id=45412472) - [PyOCI – Publish and install private Python packages using OCI/Docker registries](https://github.com/AllexVeldman/pyoci)
+* [2025-09-29, 09:55:58](https://news.ycombinator.com/item?id=45411939) - [How England misplaced its first king](https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king)
 * [2025-09-29, 08:16:27](https://news.ycombinator.com/item?id=45411435) - [Constitent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing/)
 
 ## [Archives](archives/index.md)
