@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-03, 21:16:12",
-      "https://news.ycombinator.com/item?id=45467886"
+      "2025-10-03, 22:01:51",
+      "https://news.ycombinator.com/item?id=45468324"
     ],
     [
-      "Oracle employees who criticise Israel referred to mental health services",
-      "https://responsiblestatecraft.org/oracle-tiktok-israel-2674151514/"
+      "Show HN: A visual AI interface to understand papers/books/topics",
+      "https://www.kerns.ai/"
     ]
   ],
   [
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-10-03, 19:32:37",
+      "https://news.ycombinator.com/item?id=45466865"
+    ],
+    [
+      "Show HN: FLE v0.3 – Claude Code Plays Factorio",
+      "https://jackhopkins.github.io/factorio-learning-environment/versions/0.3.0.html"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 19:15:37",
       "https://news.ycombinator.com/item?id=45466675"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-10-03, 17:18:21",
-      "https://news.ycombinator.com/item?id=45465276"
-    ],
-    [
-      "Simple Hotkey Daemon for macOS, Ported to Zig",
-      "https://github.com/jackielii/skhd.zig"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 16:18:29",
       "https://news.ycombinator.com/item?id=45464632"
     ],
@@ -147,16 +147,6 @@
     [
       "Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits",
       "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 15:54:01",
-      "https://news.ycombinator.com/item?id=45464360"
-    ],
-    [
-      "Ask HN: Why did COM/SOAP/other protocols fail?",
-      "https://news.ycombinator.com/item?id=45464360"
     ]
   ],
   [
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2025-10-03, 13:21:44",
-      "https://news.ycombinator.com/item?id=45462713"
-    ],
-    [
-      "Arbitrary code execution in Unity Runtime",
-      "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 12:41:03",
       "https://news.ycombinator.com/item?id=45462297"
     ],
@@ -221,16 +201,6 @@
   ],
   [
     [
-      "2025-10-03, 04:21:23",
-      "https://news.ycombinator.com/item?id=45458948"
-    ],
-    [
-      "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
-      "https://github.com/triton-lang/triton/pull/7298"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 19:02:57",
       "https://news.ycombinator.com/item?id=45453936"
     ],
@@ -247,6 +217,16 @@
     [
       "The Temporal Dead Zone, or why the TypeScript codebase is full of var statements",
       "https://vincentrolfs.dev/blog/ts-var"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 07:31:27",
+      "https://news.ycombinator.com/item?id=45435272"
+    ],
+    [
+      "Advanced Matrix Multiplication Optimization on Modern Multi-Core Processors",
+      "https://salykova.github.io/gemm-cpu"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-09-30, 05:15:40",
+      "https://news.ycombinator.com/item?id=45422147"
+    ],
+    [
+      "Fluid Glass",
+      "https://chiuhans111.github.io/fluidglass/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 00:49:54",
       "https://news.ycombinator.com/item?id=45420722"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2025-09-29, 18:25:10",
-      "https://news.ycombinator.com/item?id=45417070"
+      "2025-09-29, 20:18:34",
+      "https://news.ycombinator.com/item?id=45418251"
     ],
     [
-      "Small Near-Earth Objects in the Taurid Resonant Swarm",
-      "https://arxiv.org/abs/2509.22602"
+      "Effective context engineering for AI agents",
+      "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 17:52:17",
+      "https://news.ycombinator.com/item?id=45416706"
+    ],
+    [
+      "LoRA Without Regret",
+      "https://thinkingmachines.ai/blog/lora/"
     ]
   ]
 ]
