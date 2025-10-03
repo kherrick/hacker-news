@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 17:20:32](https://news.ycombinator.com/item?id=45465295) - [Record Everything](https://aeon.co/essays/if-memory-is-precious-to-you-then-go-ahead-and-record-everything)
+* [2025-10-03, 17:02:22](https://news.ycombinator.com/item?id=45465098) - [Be Worried](https://dlo.me/archives/2025/10/03/you-should-be-worried/)
 * [2025-10-03, 17:01:27](https://news.ycombinator.com/item?id=45465091) - [Ants Trapped in a Soviet Nuclear Bunker Survived for Years](https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own)
 * [2025-10-03, 17:00:08](https://news.ycombinator.com/item?id=45465078) - [Depot (YC W23) Is Hiring a Principal Design Engineer (Remote US/EU)](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer)
 * [2025-10-03, 16:49:57](https://news.ycombinator.com/item?id=45464984) - [The Collapse of the Econ PhD Job Market](https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job)
