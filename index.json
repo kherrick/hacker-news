@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-03, 22:01:51",
-      "https://news.ycombinator.com/item?id=45468324"
+      "2025-10-03, 21:42:42",
+      "https://news.ycombinator.com/item?id=45468145"
     ],
     [
-      "Show HN: A visual AI interface to understand papers/books/topics",
-      "https://www.kerns.ai/"
+      "Show HN: Powerful Visual Programming Language (Book)",
+      "https://www.pipelang.com"
     ]
   ],
   [
@@ -81,21 +81,11 @@
   ],
   [
     [
-      "2025-10-03, 19:15:37",
-      "https://news.ycombinator.com/item?id=45466675"
-    ],
-    [
-      "Ask HN: One-person SaaS apps that are profitable?",
-      "https://news.ycombinator.com/item?id=45466675"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 19:13:34",
       "https://news.ycombinator.com/item?id=45466655"
     ],
     [
-      "Procedural Generation with Wave Function Collapse",
+      "Procedural generation with Wave Function Collapse (2019)",
       "https://www.gridbugs.org/wave-function-collapse/"
     ]
   ],
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=45435272"
     ],
     [
-      "Advanced Matrix Multiplication Optimization on Modern Multi-Core Processors",
+      "Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)",
       "https://salykova.github.io/gemm-cpu"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Effective context engineering for AI agents",
       "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 18:25:10",
+      "https://news.ycombinator.com/item?id=45417070"
+    ],
+    [
+      "Small Near-Earth Objects in the Taurid Resonant Swarm",
+      "https://arxiv.org/abs/2509.22602"
     ]
   ],
   [
