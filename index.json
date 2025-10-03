@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-03, 11:04:58",
+      "https://news.ycombinator.com/item?id=45461472"
+    ],
+    [
+      "Europe Can No Longer Ignore That It's Under Russian Attack",
+      "https://www.worldpoliticsreview.com/europe-russia-drones-hybrid-war/"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 05:13:47",
       "https://news.ycombinator.com/item?id=45459233"
     ],
@@ -117,16 +127,6 @@
     [
       "The strangest letter of the alphabet: The rise and fall of yogh",
       "https://www.deadlanguagesociety.com/p/history-of-letter-yogh"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 21:21:49",
-      "https://news.ycombinator.com/item?id=45455719"
-    ],
-    [
-      "Solveit – A course and platform for solving problems with code",
-      "https://www.answer.ai/posts/2025-10-01-solveit-full.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45411435"
     ],
     [
-      "Constitent Hashing",
+      "Consistent hashing",
       "https://eli.thegreenplace.net/2025/consistent-hashing/"
     ]
   ]
