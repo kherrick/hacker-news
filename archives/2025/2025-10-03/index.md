@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
 * [2025-10-03, 13:23:26](https://news.ycombinator.com/item?id=45462733) - [Media trust hits new low across the political spectrum](https://www.axios.com/2025/10/02/media-trust-new-low)
+* [2025-10-03, 13:19:18](https://news.ycombinator.com/item?id=45462687) - [Amber Room](https://en.wikipedia.org/wiki/Amber_Room)
+* [2025-10-03, 12:41:03](https://news.ycombinator.com/item?id=45462297) - [Faroes](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
 * [2025-10-03, 12:26:02](https://news.ycombinator.com/item?id=45462163) - [TikTok 'directs child accounts to pornographic content within a few clicks'](https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible)
 * [2025-10-03, 12:24:02](https://news.ycombinator.com/item?id=45462143) - [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)
 * [2025-10-03, 12:19:42](https://news.ycombinator.com/item?id=45462094) - [Move over Dijkstra: New Algorithm Just Rewrote 70 Years of Computer Science](https://medium.com/@kanishks772/move-over-dijkstra-the-new-algorithm-that-just-rewrote-70-years-of-computer-science-d670696c440d)
