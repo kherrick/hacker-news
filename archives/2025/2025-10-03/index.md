@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 03:52:43](https://news.ycombinator.com/item?id=45458791) - [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
+* [2025-10-03, 03:47:45](https://news.ycombinator.com/item?id=45458768) - [Rescuer at Fatal Tesla Cybertruck Crash Says Car Doors Wouldn't Open](https://www.newsweek.com/tesla-cybertruck-car-door-malfunction-2043976)
+* [2025-10-03, 03:13:13](https://news.ycombinator.com/item?id=45458550) - [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts)
 * [2025-10-03, 02:33:21](https://news.ycombinator.com/item?id=45458249) - [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://debuggingleadership.com/stdlib)
 * [2025-10-03, 02:13:17](https://news.ycombinator.com/item?id=45458122) - [FyneDesk: A full desktop environment for Linux written in Go](https://github.com/FyshOS/fynedesk)
 * [2025-10-03, 01:55:26](https://news.ycombinator.com/item?id=45457980) - [Claude Is Down](https://status.claude.com)

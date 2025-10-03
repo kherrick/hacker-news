@@ -88,6 +88,7 @@
 * [2025-09-29, 09:27:00](https://news.ycombinator.com/item?id=45411799) - [Stealing from Google](https://taqib.dev/blog/stealing-from-google/)
 * [2025-09-29, 08:59:15](https://news.ycombinator.com/item?id=45411666) - [Twenty Lessons on Fighting Tyranny from the Twentieth Century](https://scholars.org/contribution/twenty-lessons-fighting-tyranny-twentieth)
 * [2025-09-29, 08:31:36](https://news.ycombinator.com/item?id=45411514) - [Show HN: Traceroute Visualizer](https://kriztalz.sh/traceroute-visualizer/)
+* [2025-09-29, 08:16:27](https://news.ycombinator.com/item?id=45411435) - [Constitent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing/)
 * [2025-09-29, 07:57:39](https://news.ycombinator.com/item?id=45411332) - [Google just erased 7 years of our political history](https://www.thebriefing.ie/google-just-erased-7-years-of-our-political-history/)
 * [2025-09-29, 07:50:24](https://news.ycombinator.com/item?id=45411291) - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
 * [2025-09-29, 07:44:09](https://news.ycombinator.com/item?id=45411254) - [In C++ modules globally unique module names seem to be unavoidable](https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html)
