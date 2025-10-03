@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-03, 17:20:32",
+      "https://news.ycombinator.com/item?id=45465295"
+    ],
+    [
+      "Record Everything",
+      "https://aeon.co/essays/if-memory-is-precious-to-you-then-go-ahead-and-record-everything"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 17:02:22",
+      "https://news.ycombinator.com/item?id=45465098"
+    ],
+    [
+      "Be Worried",
+      "https://dlo.me/archives/2025/10/03/you-should-be-worried/"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 17:01:27",
       "https://news.ycombinator.com/item?id=45465091"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-10-03, 02:13:17",
-      "https://news.ycombinator.com/item?id=45458122"
-    ],
-    [
-      "FyneDesk: A full desktop environment for Linux written in Go",
-      "https://github.com/FyshOS/fynedesk"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 01:20:32",
       "https://news.ycombinator.com/item?id=45457670"
     ],
@@ -207,16 +217,6 @@
     [
       "Signal Protocol and Post-Quantum Ratchets",
       "https://signal.org/blog/spqr/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 13:29:55",
-      "https://news.ycombinator.com/item?id=45449348"
-    ],
-    [
-      "Potential issues in curl found using AI assisted tools",
-      "https://mastodon.social/@bagder/115241241075258997"
     ]
   ],
   [
