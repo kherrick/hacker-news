@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 22:10:54](https://news.ycombinator.com/item?id=45468418) - [Tesla Cybertruck Isn't Allowed in Germany, Not Even the US Army Can Change That](https://www.roadandtrack.com/news/a68133176/us-armed-forces-service-members-no-tesla-cybertruck/)
 * [2025-10-03, 22:01:51](https://news.ycombinator.com/item?id=45468324) - [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)
 * [2025-10-03, 21:42:42](https://news.ycombinator.com/item?id=45468145) - [Show HN: Powerful Visual Programming Language (Book)](https://www.pipelang.com)
 * [2025-10-03, 21:16:12](https://news.ycombinator.com/item?id=45467886) - [Oracle employees who criticise Israel referred to mental health services](https://responsiblestatecraft.org/oracle-tiktok-israel-2674151514/)
@@ -14,6 +15,7 @@
 * [2025-10-03, 20:08:38](https://news.ycombinator.com/item?id=45467230) - [Credit markets look increasingly dangerous](https://www.economist.com/finance-and-economics/2025/10/02/credit-markets-look-increasingly-dangerous)
 * [2025-10-03, 20:01:36](https://news.ycombinator.com/item?id=45467166) - [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
 * [2025-10-03, 19:47:53](https://news.ycombinator.com/item?id=45467032) - [Arenas in Rust](https://russellw.github.io/arenas)
+* [2025-10-03, 19:43:34](https://news.ycombinator.com/item?id=45466980) - [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/)
 * [2025-10-03, 19:32:37](https://news.ycombinator.com/item?id=45466865) - [Show HN: FLE v0.3 – Claude Code Plays Factorio](https://jackhopkins.github.io/factorio-learning-environment/versions/0.3.0.html)
 * [2025-10-03, 19:15:37](https://news.ycombinator.com/item?id=45466675) - [Ask HN: One-person SaaS apps that are profitable?](https://news.ycombinator.com/item?id=45466675)
 * [2025-10-03, 19:13:34](https://news.ycombinator.com/item?id=45466655) - [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/)
