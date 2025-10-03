@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-03, 13:58:37",
+      "https://news.ycombinator.com/item?id=45463111"
+    ],
+    [
+      "Apple removes ICEBlock and similar tracking apps from the App Store",
+      "https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 13:36:40",
+      "https://news.ycombinator.com/item?id=45462863"
+    ],
+    [
+      "California Needs to Learn from Houston and Dallas about Homelessness",
+      "https://www.governance.fyi/p/california-needs-to-learn-from-houston"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 13:19:18",
       "https://news.ycombinator.com/item?id=45462687"
     ],
@@ -27,16 +47,6 @@
     [
       "A Thermometer for Measuring Quantumness",
       "https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 12:19:42",
-      "https://news.ycombinator.com/item?id=45462094"
-    ],
-    [
-      "Move over Dijkstra: New Algorithm Just Rewrote 70 Years of Computer Science",
-      "https://medium.com/@kanishks772/move-over-dijkstra-the-new-algorithm-that-just-rewrote-70-years-of-computer-science-d670696c440d"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Highest bridge unveiled at more than 2,000ft above ground",
       "https://www.independent.co.uk/tv/news/china-worlds-highest-bridge-video-b2835886.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 12:35:06",
-      "https://news.ycombinator.com/item?id=45412938"
-    ],
-    [
-      "Dbos: Durable Workflow Orchestration with Go and PostgreSQL",
-      "https://github.com/dbos-inc/dbos-transact-golang"
     ]
   ],
   [
