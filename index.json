@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-10-03, 15:19:28",
-      "https://news.ycombinator.com/item?id=45463974"
+      "2025-10-03, 16:00:00",
+      "https://news.ycombinator.com/item?id=45464429"
     ],
     [
-      "The AI emperor has no clothes",
-      "https://www.jeffgeerling.com/blog/2025/ai-emperor-has-no-clothes"
+      "Bezos says AI is in an industrial bubble",
+      "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 15:46:11",
+      "https://news.ycombinator.com/item?id=45464269"
+    ],
+    [
+      "Anduril and Palantir battlefield comms system has deep flaws: Army",
+      "https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 14:51:02",
+      "https://news.ycombinator.com/item?id=45463656"
+    ],
+    [
+      "Social anxiety isn't about being liked",
+      "https://chrislakin.blog/p/social-anxiety"
     ]
   ],
   [
@@ -21,12 +41,32 @@
   ],
   [
     [
+      "2025-10-03, 14:18:56",
+      "https://news.ycombinator.com/item?id=45463319"
+    ],
+    [
+      "I Turned the Lego Game Boy into a Working Game Boy",
+      "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 14:13:03",
       "https://news.ycombinator.com/item?id=45463251"
     ],
     [
       "Webbol: A minimal static web server written in COBOL",
       "https://github.com/jmsdnns/webbol"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 13:21:44",
+      "https://news.ycombinator.com/item?id=45462713"
+    ],
+    [
+      "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime since 2017",
+      "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2025-10-03, 00:51:26",
-      "https://news.ycombinator.com/item?id=45457460"
-    ],
-    [
-      "Microcomputers – The Second Wave: Toward a Mass Market",
-      "https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 21:34:42",
       "https://news.ycombinator.com/item?id=45455882"
     ],
@@ -157,26 +187,6 @@
     [
       "Litestream v0.5.0",
       "https://fly.io/blog/litestream-v050-is-here/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 18:06:41",
-      "https://news.ycombinator.com/item?id=45453222"
-    ],
-    [
-      "Babel is why I keep blogging with Emacs",
-      "https://entropicthoughts.com/why-stick-to-emacs-blog"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 16:58:55",
-      "https://news.ycombinator.com/item?id=45452261"
-    ],
-    [
-      "Why I chose Lua for this blog",
-      "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Kairos: Immutable Distro for K8s at the Edge",
       "https://kairos.io/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 09:58:07",
-      "https://news.ycombinator.com/item?id=45436010"
-    ],
-    [
-      "Ask HN: What's your experience with using graph databases for agentic use-cases?",
-      "https://news.ycombinator.com/item?id=45436010"
     ]
   ],
   [
