@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-03, 22:45:28",
+      "https://news.ycombinator.com/item?id=45468698"
+    ],
+    [
+      "Zig Builds Are Getting Faster",
+      "https://mitchellh.com/writing/zig-builds-getting-faster"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 21:42:42",
       "https://news.ycombinator.com/item?id=45468145"
     ],
@@ -257,16 +267,6 @@
     [
       "Pre-Emptive Multi-Tasking on Arm Cortex-M",
       "https://thejpster.org.uk/blog/blog-2025-09-28/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 16:41:25",
-      "https://news.ycombinator.com/item?id=45427774"
-    ],
-    [
-      "A B+Tree Node Underflows: Merge or Borrow?",
-      "https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/"
     ]
   ],
   [
