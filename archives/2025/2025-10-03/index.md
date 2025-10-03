@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Bezos says AI is in an industrial bubble](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
+* [2025-10-03, 15:46:11](https://news.ycombinator.com/item?id=45464269) - [Anduril and Palantir battlefield comms system has deep flaws: Army](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
 * [2025-10-03, 15:19:28](https://news.ycombinator.com/item?id=45463974) - [The AI Emperor Has No Clothes](https://www.jeffgeerling.com/blog/2025/ai-emperor-has-no-clothes)
+* [2025-10-03, 14:51:02](https://news.ycombinator.com/item?id=45463656) - [Social anxiety isn't about being liked](https://chrislakin.blog/p/social-anxiety)
 * [2025-10-03, 14:48:36](https://news.ycombinator.com/item?id=45463642) - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)
+* [2025-10-03, 14:18:56](https://news.ycombinator.com/item?id=45463319) - [I Turned the Lego Game Boy into a Working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
 * [2025-10-03, 14:13:03](https://news.ycombinator.com/item?id=45463251) - [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
 * [2025-10-03, 13:58:37](https://news.ycombinator.com/item?id=45463111) - [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
 * [2025-10-03, 13:36:40](https://news.ycombinator.com/item?id=45462863) - [California Needs to Learn from Houston and Dallas about Homelessness](https://www.governance.fyi/p/california-needs-to-learn-from-houston)
 * [2025-10-03, 13:23:26](https://news.ycombinator.com/item?id=45462733) - [Media trust hits new low across the political spectrum](https://www.axios.com/2025/10/02/media-trust-new-low)
+* [2025-10-03, 13:21:44](https://news.ycombinator.com/item?id=45462713) - [CVE-2025-59489: Arbitrary Code Execution in Unity Runtime since 2017](https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/)
 * [2025-10-03, 13:19:18](https://news.ycombinator.com/item?id=45462687) - [Amber Room](https://en.wikipedia.org/wiki/Amber_Room)
 * [2025-10-03, 12:41:03](https://news.ycombinator.com/item?id=45462297) - [Faroes](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
 * [2025-10-03, 12:26:02](https://news.ycombinator.com/item?id=45462163) - [TikTok 'directs child accounts to pornographic content within a few clicks'](https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible)
