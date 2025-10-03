@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 21:16:12](https://news.ycombinator.com/item?id=45467886) - [Oracle employees who criticise Israel referred to mental health services](https://responsiblestatecraft.org/oracle-tiktok-israel-2674151514/)
 * [2025-10-03, 21:00:32](https://news.ycombinator.com/item?id=45467717) - [TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
 * [2025-10-03, 20:40:52](https://news.ycombinator.com/item?id=45467543) - [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
 * [2025-10-03, 20:36:44](https://news.ycombinator.com/item?id=45467503) - [Fast SSIMULACRA2 Implementation in Zig](https://github.com/gianni-rosato/fssimu2)
@@ -32,6 +33,7 @@
 * [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Bezos says AI is in an industrial bubble](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-03, 15:58:35](https://news.ycombinator.com/item?id=45464409) - [0-Day iOS Exploit \"Caught in the Wild\" Released](https://seclists.org/fulldisclosure/2025/Oct/1)
 * [2025-10-03, 15:46:11](https://news.ycombinator.com/item?id=45464269) - [Anduril and Palantir battlefield comms system has deep flaws: Army](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
+* [2025-10-03, 15:33:43](https://news.ycombinator.com/item?id=45464145) - [Lessons learned from building an infrastructure devtool](https://www.nango.dev/blog/lessons-learned-building-infrastructure-devtool)
 * [2025-10-03, 15:30:32](https://news.ycombinator.com/item?id=45464111) - [LinkedIn sues software company allegedly scraping data from profiles](https://therecord.media/linkedin-sues-data-scraping-company)
 * [2025-10-03, 15:19:28](https://news.ycombinator.com/item?id=45463974) - [The AI Emperor Has No Clothes](https://www.jeffgeerling.com/blog/2025/ai-emperor-has-no-clothes)
 * [2025-10-03, 14:51:02](https://news.ycombinator.com/item?id=45463656) - [Social anxiety isn't about being liked](https://chrislakin.blog/p/social-anxiety)
