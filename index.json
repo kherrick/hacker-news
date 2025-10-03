@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-03, 18:00:02",
-      "https://news.ycombinator.com/item?id=45465803"
+      "2025-10-03, 18:24:58",
+      "https://news.ycombinator.com/item?id=45466086"
     ],
     [
-      "Apple removes ICEBlock, won't allow apps that report locations of ICE agents",
-      "https://arstechnica.com/tech-policy/2025/10/apple-bends-to-trump-admin-demand-to-remove-ice-tracking-apps-like-iceblock/"
+      "PEP 810 – Explicit lazy imports",
+      "https://pep-previews--4622.org.readthedocs.build/pep-0810/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 18:13:42",
+      "https://news.ycombinator.com/item?id=45465969"
+    ],
+    [
+      "The AI bubble is 17 times the size of the dot-com frenzy, analyst says",
+      "https://www.marketwatch.com/story/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-this-analyst-argues-046e7c5c"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Email was the user interface for the first AI recommendation engines",
       "https://buttondown.com/blog/ringo-email-as-an-ai-interface"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 17:18:21",
+      "https://news.ycombinator.com/item?id=45465276"
+    ],
+    [
+      "Simple Hotkey Daemon for macOS, Ported to Zig",
+      "https://github.com/jackielii/skhd.zig"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45464269"
     ],
     [
-      "Anduril and Palantir battlefield comms system has deep flaws: Army",
+      "Anduril and Palantir battlefield communication system has flaws, Army memo says",
       "https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=45462297"
     ],
     [
-      "Faroes",
+      "The Faroes",
       "https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr"
     ]
   ],
@@ -207,26 +227,6 @@
     [
       "Litestream v0.5.0",
       "https://fly.io/blog/litestream-v050-is-here/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 16:06:10",
-      "https://news.ycombinator.com/item?id=45451527"
-    ],
-    [
-      "Signal Protocol and Post-Quantum Ratchets",
-      "https://signal.org/blog/spqr/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 10:26:26",
-      "https://news.ycombinator.com/item?id=45436148"
-    ],
-    [
-      "Kairos: Immutable Distro for K8s at the Edge",
-      "https://kairos.io/"
     ]
   ],
   [
