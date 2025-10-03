@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-03, 16:44:02](https://news.ycombinator.com/item?id=45464921) - [Germany must stand firmly against client-side scanning in Chat Control [pdf]](https://signal.org/blog/pdfs/germany-chat-control.pdf)
+* [2025-10-03, 16:28:20](https://news.ycombinator.com/item?id=45464748) - [Divorce Plunged in Kentucky. Equal Custody for Fathers Is a Big Reason Why](https://www.wsj.com/us-news/law/the-equal-custody-experiment-41e1f7a6)
 * [2025-10-03, 15:46:11](https://news.ycombinator.com/item?id=45464269) - [Anduril and Palantir battlefield comms system has deep flaws: Army](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
 * [2025-10-03, 14:51:02](https://news.ycombinator.com/item?id=45463656) - [Social anxiety isn't about being liked](https://chrislakin.blog/p/social-anxiety)
 * [2025-10-03, 14:48:36](https://news.ycombinator.com/item?id=45463642) - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)
@@ -28,7 +29,6 @@
 * [2025-10-01, 06:45:19](https://news.ycombinator.com/item?id=45435016) - [Amazon Vega OS and Vega Developer Tools](https://developer.amazon.com/apps-and-games/vega)
 * [2025-09-30, 00:49:54](https://news.ycombinator.com/item?id=45420722) - [Modern Font Stacks](https://modernfontstacks.com/)
 * [2025-09-29, 22:44:39](https://news.ycombinator.com/item?id=45419780) - [Low-dose radiation offers relief to people with knee osteoarthritis](https://www.astro.org/news-and-publications/news-and-media-center/news-releases/2025/low-dose-radiation-therapy-offers-substantial-relief-to-people-with-painful-knee-osteoarthritis)
-* [2025-09-29, 09:55:58](https://news.ycombinator.com/item?id=45411939) - [How England misplaced its first king](https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king)
 * [2025-09-29, 08:16:27](https://news.ycombinator.com/item?id=45411435) - [Consistent hashing](https://eli.thegreenplace.net/2025/consistent-hashing/)
 
 ## [Archives](archives/index.md)
