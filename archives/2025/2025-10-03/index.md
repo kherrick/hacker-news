@@ -22,6 +22,7 @@
 * [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Bezos says AI is in an industrial bubble](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-03, 15:58:35](https://news.ycombinator.com/item?id=45464409) - [0-Day iOS Exploit \"Caught in the Wild\" Released](https://seclists.org/fulldisclosure/2025/Oct/1)
 * [2025-10-03, 15:46:11](https://news.ycombinator.com/item?id=45464269) - [Anduril and Palantir battlefield comms system has deep flaws: Army](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
+* [2025-10-03, 15:30:32](https://news.ycombinator.com/item?id=45464111) - [LinkedIn sues software company allegedly scraping data from profiles](https://therecord.media/linkedin-sues-data-scraping-company)
 * [2025-10-03, 15:19:28](https://news.ycombinator.com/item?id=45463974) - [The AI Emperor Has No Clothes](https://www.jeffgeerling.com/blog/2025/ai-emperor-has-no-clothes)
 * [2025-10-03, 14:51:02](https://news.ycombinator.com/item?id=45463656) - [Social anxiety isn't about being liked](https://chrislakin.blog/p/social-anxiety)
 * [2025-10-03, 14:48:36](https://news.ycombinator.com/item?id=45463642) - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)

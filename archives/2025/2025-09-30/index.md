@@ -66,6 +66,7 @@
 * [2025-09-30, 11:31:04](https://news.ycombinator.com/item?id=45424223) - [Orbiting the Hénon Attractor](https://observablehq.com/@yurivish/orbiting-the-henon-attractor)
 * [2025-09-30, 11:29:41](https://news.ycombinator.com/item?id=45424217) - [Apple HomeKit – The Long Con](https://www.naut.ca/blog/2025/08/29/apple-homekit-the-long-con/)
 * [2025-09-30, 10:51:45](https://news.ycombinator.com/item?id=45423994) - [Using the TPDE Codegen Back End in LLVM Orc](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html)
+* [2025-09-30, 10:43:01](https://news.ycombinator.com/item?id=45423954) - [Io_uring is not an event system [2021]](https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/)
 * [2025-09-30, 10:37:39](https://news.ycombinator.com/item?id=45423917) - [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
 * [2025-09-30, 08:50:11](https://news.ycombinator.com/item?id=45423363) - [Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
 * [2025-09-30, 08:36:06](https://news.ycombinator.com/item?id=45423268) - [Disqus Turned My Blog into an Ad Farm – So I Killed It](https://ryansouthgate.com/goodbye-disqus/)
