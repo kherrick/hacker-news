@@ -12,6 +12,8 @@
 * [2025-10-03, 16:44:02](https://news.ycombinator.com/item?id=45464921) - [Germany must stand firmly against client-side scanning in Chat Control [pdf]](https://signal.org/blog/pdfs/germany-chat-control.pdf)
 * [2025-10-03, 16:37:01](https://news.ycombinator.com/item?id=45464849) - [OpenAI Is Just Another Boring, Desperate AI Startup](https://www.wheresyoured.at/sora2-openai/)
 * [2025-10-03, 16:28:20](https://news.ycombinator.com/item?id=45464748) - [Divorce Plunged in Kentucky. Equal Custody for Fathers Is a Big Reason Why](https://www.wsj.com/us-news/law/the-equal-custody-experiment-41e1f7a6)
+* [2025-10-03, 16:18:29](https://news.ycombinator.com/item?id=45464632) - [Cancelling Async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
+* [2025-10-03, 16:16:18](https://news.ycombinator.com/item?id=45464611) - [A Looking Glass Half Empty, Part 1: Just Lookin' for a Hit](https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-1-just-lookin-for-a-hit/)
 * [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Bezos says AI is in an industrial bubble](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-03, 15:58:35](https://news.ycombinator.com/item?id=45464409) - [0-Day iOS Exploit \"Caught in the Wild\" Released](https://seclists.org/fulldisclosure/2025/Oct/1)
 * [2025-10-03, 15:46:11](https://news.ycombinator.com/item?id=45464269) - [Anduril and Palantir battlefield comms system has deep flaws: Army](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
