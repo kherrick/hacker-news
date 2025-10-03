@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-03, 03:52:43",
+      "https://news.ycombinator.com/item?id=45458791"
+    ],
+    [
+      "Blender 4.5 brings big changes",
+      "https://lwn.net/Articles/1036262/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 03:47:45",
+      "https://news.ycombinator.com/item?id=45458768"
+    ],
+    [
+      "Rescuer at Fatal Tesla Cybertruck Crash Says Car Doors Wouldn't Open",
+      "https://www.newsweek.com/tesla-cybertruck-car-door-malfunction-2043976"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 03:13:13",
+      "https://news.ycombinator.com/item?id=45458550"
+    ],
+    [
+      "You Want Technology with Warts",
+      "https://entropicthoughts.com/you-want-technology-with-warts"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 02:33:21",
       "https://news.ycombinator.com/item?id=45458249"
     ],
@@ -17,6 +47,16 @@
     [
       "FyneDesk: A full desktop environment for Linux written in Go",
       "https://github.com/FyshOS/fynedesk"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 01:20:32",
+      "https://news.ycombinator.com/item?id=45457670"
+    ],
+    [
+      "I spent the day teaching seniors how to use an iPhone",
+      "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/"
     ]
   ],
   [
@@ -61,32 +101,12 @@
   ],
   [
     [
-      "2025-10-02, 22:06:57",
-      "https://news.ycombinator.com/item?id=45456188"
-    ],
-    [
-      "10k pushups and other silly exercise quests that changed my life",
-      "https://wjgilmore.com/articles/10000-pushups"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 21:34:42",
       "https://news.ycombinator.com/item?id=45455882"
     ],
     [
       "The strangest letter of the alphabet: The rise and fall of yogh",
       "https://www.deadlanguagesociety.com/p/history-of-letter-yogh"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 19:39:08",
-      "https://news.ycombinator.com/item?id=45454460"
-    ],
-    [
-      "Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys",
-      "https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-10-02, 14:58:04",
-      "https://news.ycombinator.com/item?id=45450525"
-    ],
-    [
-      "Work is not school: Surviving institutional stupidity",
-      "https://www.leadingsapiens.com/surviving-institutional-stupidity/"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 14:26:23",
       "https://news.ycombinator.com/item?id=45450044"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2025-10-02, 09:23:50",
-      "https://news.ycombinator.com/item?id=45447699"
+      "2025-10-02, 13:29:55",
+      "https://news.ycombinator.com/item?id=45449348"
     ],
     [
-      "How Israeli actions caused famine in Gaza, visualized",
-      "https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl"
+      "Potential issues in curl found using AI assisted tools",
+      "https://mastodon.social/@bagder/115241241075258997"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-09-29, 15:41:50",
-      "https://news.ycombinator.com/item?id=45415196"
+      "2025-09-29, 16:12:59",
+      "https://news.ycombinator.com/item?id=45415519"
     ],
     [
-      "Class Dismissed: Profile of Joe Liemandt and Alpha School",
-      "https://joincolossus.com/article/joe-liemandt-class-dismissed/"
+      "Highest bridge unveiled at more than 2,000ft above ground",
+      "https://www.independent.co.uk/tv/news/china-worlds-highest-bridge-video-b2835886.html"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2025-09-29, 08:31:36",
-      "https://news.ycombinator.com/item?id=45411514"
+      "2025-09-29, 08:16:27",
+      "https://news.ycombinator.com/item?id=45411435"
     ],
     [
-      "Show HN: Traceroute Visualizer",
-      "https://kriztalz.sh/traceroute-visualizer/"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 21:00:18",
-      "https://news.ycombinator.com/item?id=45407953"
-    ],
-    [
-      "We bought the whole GPU, so we're damn well going to use the whole GPU",
-      "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main"
+      "Constitent Hashing",
+      "https://eli.thegreenplace.net/2025/consistent-hashing/"
     ]
   ]
 ]
