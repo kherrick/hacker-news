@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
 * [2025-10-03, 22:58:20](https://news.ycombinator.com/item?id=45468781) - [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
+* [2025-10-03, 22:45:28](https://news.ycombinator.com/item?id=45468698) - [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster)
 * [2025-10-03, 22:10:54](https://news.ycombinator.com/item?id=45468418) - [Tesla Cybertruck Isn't Allowed in Germany, Not Even the US Army Can Change That](https://www.roadandtrack.com/news/a68133176/us-armed-forces-service-members-no-tesla-cybertruck/)
 * [2025-10-03, 22:01:51](https://news.ycombinator.com/item?id=45468324) - [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)
 * [2025-10-03, 21:42:42](https://news.ycombinator.com/item?id=45468145) - [Show HN: Powerful Visual Programming Language (Book)](https://www.pipelang.com)

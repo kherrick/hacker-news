@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-03, 22:58:20](https://news.ycombinator.com/item?id=45468781) - [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
+* [2025-10-03, 22:45:28](https://news.ycombinator.com/item?id=45468698) - [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster)
 * [2025-10-03, 21:42:42](https://news.ycombinator.com/item?id=45468145) - [Show HN: Powerful Visual Programming Language (Book)](https://www.pipelang.com)
 * [2025-10-03, 21:00:32](https://news.ycombinator.com/item?id=45467717) - [TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
 * [2025-10-03, 20:40:52](https://news.ycombinator.com/item?id=45467543) - [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
@@ -26,7 +27,6 @@
 * [2025-10-01, 14:06:45](https://news.ycombinator.com/item?id=45437903) - [The Temporal Dead Zone, or why the TypeScript codebase is full of var statements](https://vincentrolfs.dev/blog/ts-var)
 * [2025-10-01, 07:31:27](https://news.ycombinator.com/item?id=45435272) - [Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)](https://salykova.github.io/gemm-cpu)
 * [2025-09-30, 21:29:29](https://news.ycombinator.com/item?id=45431489) - [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
-* [2025-09-30, 16:41:25](https://news.ycombinator.com/item?id=45427774) - [A B+Tree Node Underflows: Merge or Borrow?](https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/)
 * [2025-09-30, 08:57:11](https://news.ycombinator.com/item?id=45423404) - [Open Printer is an open source inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 * [2025-09-30, 05:15:40](https://news.ycombinator.com/item?id=45422147) - [Fluid Glass](https://chiuhans111.github.io/fluidglass/)
 * [2025-09-29, 17:52:17](https://news.ycombinator.com/item?id=45416706) - [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
