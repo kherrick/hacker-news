@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 02:33:21](https://news.ycombinator.com/item?id=45458249) - [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://debuggingleadership.com/stdlib)
+* [2025-10-03, 02:13:17](https://news.ycombinator.com/item?id=45458122) - [FyneDesk: A full desktop environment for Linux written in Go](https://github.com/FyshOS/fynedesk)
 * [2025-10-03, 01:55:26](https://news.ycombinator.com/item?id=45457980) - [Claude Is Down](https://status.claude.com)
 * [2025-10-03, 01:49:52](https://news.ycombinator.com/item?id=45457929) - [I Trained a Small Language Model from Scratch](https://nwosunneoma.medium.com/how-i-trained-a-small-language-model-from-scratch-8af167479d1a)
 * [2025-10-03, 01:32:36](https://news.ycombinator.com/item?id=45457779) - [We Gave Our AI Agents Twitter and Now They're Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
