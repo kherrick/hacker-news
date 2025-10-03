@@ -8,6 +8,7 @@
 * [2025-09-29, 23:32:10](https://news.ycombinator.com/item?id=45420173) - [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial)
 * [2025-09-29, 23:12:36](https://news.ycombinator.com/item?id=45420001) - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
 * [2025-09-29, 22:52:04](https://news.ycombinator.com/item?id=45419841) - [All the Sad Young Terminally Online Men](https://www.derekthompson.org/p/all-the-sad-young-terminally-online)
+* [2025-09-29, 22:44:39](https://news.ycombinator.com/item?id=45419780) - [Low-dose radiation offers relief to people with knee osteoarthritis](https://www.astro.org/news-and-publications/news-and-media-center/news-releases/2025/low-dose-radiation-therapy-offers-substantial-relief-to-people-with-painful-knee-osteoarthritis)
 * [2025-09-29, 22:23:18](https://news.ycombinator.com/item?id=45419566) - [Any level of alcohol consumption increases risk of dementia](https://www.ox.ac.uk/news/2025-09-24-any-level-alcohol-consumption-increases-risk-dementia)
 * [2025-09-29, 22:03:31](https://news.ycombinator.com/item?id=45419341) - [Technology Without Humanity Means Nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing)
 * [2025-09-29, 21:42:39](https://news.ycombinator.com/item?id=45419124) - [Can LIGO Detect Daylight Savings Time?](https://arxiv.org/abs/2509.11849)
