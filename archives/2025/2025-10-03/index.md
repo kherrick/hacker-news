@@ -26,6 +26,7 @@
 * [2025-10-03, 15:19:28](https://news.ycombinator.com/item?id=45463974) - [The AI Emperor Has No Clothes](https://www.jeffgeerling.com/blog/2025/ai-emperor-has-no-clothes)
 * [2025-10-03, 14:51:02](https://news.ycombinator.com/item?id=45463656) - [Social anxiety isn't about being liked](https://chrislakin.blog/p/social-anxiety)
 * [2025-10-03, 14:48:36](https://news.ycombinator.com/item?id=45463642) - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)
+* [2025-10-03, 14:48:36](https://news.ycombinator.com/item?id=45463642) - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.cnbc.com/2025/10/01/microsoft-wants-to-mainly-use-its-own-ai-chips-in-the-future.html)
 * [2025-10-03, 14:18:56](https://news.ycombinator.com/item?id=45463319) - [I Turned the Lego Game Boy into a Working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
 * [2025-10-03, 14:13:03](https://news.ycombinator.com/item?id=45463251) - [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
 * [2025-10-03, 13:58:37](https://news.ycombinator.com/item?id=45463111) - [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
