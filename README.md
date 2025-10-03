@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-03, 13:58:37](https://news.ycombinator.com/item?id=45463111) - [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
+* [2025-10-03, 13:36:40](https://news.ycombinator.com/item?id=45462863) - [California Needs to Learn from Houston and Dallas about Homelessness](https://www.governance.fyi/p/california-needs-to-learn-from-houston)
 * [2025-10-03, 13:19:18](https://news.ycombinator.com/item?id=45462687) - [Amber Room](https://en.wikipedia.org/wiki/Amber_Room)
 * [2025-10-03, 12:41:03](https://news.ycombinator.com/item?id=45462297) - [Faroes](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
 * [2025-10-03, 12:24:02](https://news.ycombinator.com/item?id=45462143) - [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)
-* [2025-10-03, 12:19:42](https://news.ycombinator.com/item?id=45462094) - [Move over Dijkstra: New Algorithm Just Rewrote 70 Years of Computer Science](https://medium.com/@kanishks772/move-over-dijkstra-the-new-algorithm-that-just-rewrote-70-years-of-computer-science-d670696c440d)
 * [2025-10-03, 12:00:43](https://news.ycombinator.com/item?id=45461930) - [QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust](https://questdb.com/careers/core-database-engineer/)
 * [2025-10-03, 11:08:42](https://news.ycombinator.com/item?id=45461500) - [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 * [2025-10-03, 05:13:47](https://news.ycombinator.com/item?id=45459233) - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
@@ -27,7 +28,6 @@
 * [2025-09-30, 00:49:54](https://news.ycombinator.com/item?id=45420722) - [Modern Font Stacks](https://modernfontstacks.com/)
 * [2025-09-29, 19:37:21](https://news.ycombinator.com/item?id=45417826) - [How I block all 26M of your curl requests](https://foxmoss.com/blog/packet-filtering/)
 * [2025-09-29, 16:12:59](https://news.ycombinator.com/item?id=45415519) - [Highest bridge unveiled at more than 2,000ft above ground](https://www.independent.co.uk/tv/news/china-worlds-highest-bridge-video-b2835886.html)
-* [2025-09-29, 12:35:06](https://news.ycombinator.com/item?id=45412938) - [Dbos: Durable Workflow Orchestration with Go and PostgreSQL](https://github.com/dbos-inc/dbos-transact-golang)
 * [2025-09-29, 09:55:58](https://news.ycombinator.com/item?id=45411939) - [How England misplaced its first king](https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king)
 * [2025-09-29, 08:16:27](https://news.ycombinator.com/item?id=45411435) - [Consistent hashing](https://eli.thegreenplace.net/2025/consistent-hashing/)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 13:58:37](https://news.ycombinator.com/item?id=45463111) - [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
+* [2025-10-03, 13:36:40](https://news.ycombinator.com/item?id=45462863) - [California Needs to Learn from Houston and Dallas about Homelessness](https://www.governance.fyi/p/california-needs-to-learn-from-houston)
 * [2025-10-03, 13:23:26](https://news.ycombinator.com/item?id=45462733) - [Media trust hits new low across the political spectrum](https://www.axios.com/2025/10/02/media-trust-new-low)
 * [2025-10-03, 13:19:18](https://news.ycombinator.com/item?id=45462687) - [Amber Room](https://en.wikipedia.org/wiki/Amber_Room)
 * [2025-10-03, 12:41:03](https://news.ycombinator.com/item?id=45462297) - [Faroes](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
