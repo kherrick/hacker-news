@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 14:13:03](https://news.ycombinator.com/item?id=45463251) - [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
 * [2025-10-03, 13:58:37](https://news.ycombinator.com/item?id=45463111) - [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
 * [2025-10-03, 13:36:40](https://news.ycombinator.com/item?id=45462863) - [California Needs to Learn from Houston and Dallas about Homelessness](https://www.governance.fyi/p/california-needs-to-learn-from-houston)
 * [2025-10-03, 13:23:26](https://news.ycombinator.com/item?id=45462733) - [Media trust hits new low across the political spectrum](https://www.axios.com/2025/10/02/media-trust-new-low)
