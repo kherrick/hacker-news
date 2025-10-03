@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-03, 04:26:49",
+      "https://news.ycombinator.com/item?id=45458987"
+    ],
+    [
+      "'Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer",
+      "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 03:52:43",
       "https://news.ycombinator.com/item?id=45458791"
     ],
@@ -97,16 +107,6 @@
     [
       "The strangest letter of the alphabet: The rise and fall of yogh",
       "https://www.deadlanguagesociety.com/p/history-of-letter-yogh"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 19:34:08",
-      "https://news.ycombinator.com/item?id=45454374"
-    ],
-    [
-      "Why most product planning is bad and what to do about it",
-      "https://blog.railway.com/p/product-planning-improvement"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-09-29, 15:41:50",
-      "https://news.ycombinator.com/item?id=45415196"
-    ],
-    [
-      "Class Dismissed: Profile of Joe Liemandt and Alpha School",
-      "https://joincolossus.com/article/joe-liemandt-class-dismissed/"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 15:04:07",
       "https://news.ycombinator.com/item?id=45414718"
     ],
@@ -277,6 +267,16 @@
     [
       "A simple habit that saves my evenings",
       "https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 11:37:52",
+      "https://news.ycombinator.com/item?id=45412472"
+    ],
+    [
+      "PyOCI – Publish and install private Python packages using OCI/Docker registries",
+      "https://github.com/AllexVeldman/pyoci"
     ]
   ],
   [
