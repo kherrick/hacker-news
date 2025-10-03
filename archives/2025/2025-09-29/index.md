@@ -28,6 +28,7 @@
 * [2025-09-29, 19:14:57](https://news.ycombinator.com/item?id=45417616) - [Register allocation in the Go compiler (2024)](https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html)
 * [2025-09-29, 19:06:04](https://news.ycombinator.com/item?id=45417523) - [Oracle will have to borrow at least $25B a year to fund AI fantasy, says analyst](https://www.theregister.com/2025/09/29/oracle_ai_debt/)
 * [2025-09-29, 18:46:15](https://news.ycombinator.com/item?id=45417300) - [Diagnosing a Linux Performance Regression](https://automattic.com/2024/03/14/systems-report-linux-performance-regression/)
+* [2025-09-29, 18:25:10](https://news.ycombinator.com/item?id=45417070) - [Small Near-Earth Objects in the Taurid Resonant Swarm](https://arxiv.org/abs/2509.22602)
 * [2025-09-29, 17:48:53](https://news.ycombinator.com/item?id=45416670) - [The secret to great art? Finding someone else to make it](https://www.ft.com/content/d84c8502-d413-4a26-a59c-494af11978b5)
 * [2025-09-29, 17:41:00](https://news.ycombinator.com/item?id=45416572) - [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
 * [2025-09-29, 17:39:02](https://news.ycombinator.com/item?id=45416552) - [Adding a new instruction to RISC-V back end in LLVM](https://blog.gustavoleite.me/llvm-riscv-instruction)
