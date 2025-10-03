@@ -72,6 +72,7 @@
 * [2025-09-29, 12:47:45](https://news.ycombinator.com/item?id=45413059) - [RISC-V Conditional Moves](https://www.corsix.org/content/riscv-conditional-moves)
 * [2025-09-29, 12:44:43](https://news.ycombinator.com/item?id=45413030) - [Why are interviews harder than the job?](https://www.mooreds.com/wordpress/archives/3702)
 * [2025-09-29, 12:35:33](https://news.ycombinator.com/item?id=45412946) - [Leading computer science professor says 'everybody' is struggling to get jobs](https://www.businessinsider.com/computer-science-students-job-search-ai-hany-farid-2025-9)
+* [2025-09-29, 12:35:06](https://news.ycombinator.com/item?id=45412938) - [Dbos: Durable Workflow Orchestration with Go and PostgreSQL](https://github.com/dbos-inc/dbos-transact-golang)
 * [2025-09-29, 12:29:29](https://news.ycombinator.com/item?id=45412870) - [The Simple Habit That Saves My Evenings](https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/)
 * [2025-09-29, 11:55:52](https://news.ycombinator.com/item?id=45412592) - [To AI or Not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
 * [2025-09-29, 11:42:04](https://news.ycombinator.com/item?id=45412494) - [Tuning async IO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
