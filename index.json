@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-03, 22:10:54",
+      "https://news.ycombinator.com/item?id=45468418"
+    ],
+    [
+      "Tesla Cybertruck Isn't Allowed in Germany, Not Even the US Army Can Change That",
+      "https://www.roadandtrack.com/news/a68133176/us-armed-forces-service-members-no-tesla-cybertruck/"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 21:42:42",
       "https://news.ycombinator.com/item?id=45468145"
     ],
@@ -67,6 +77,16 @@
     [
       "Arenas in Rust",
       "https://russellw.github.io/arenas"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 19:43:34",
+      "https://news.ycombinator.com/item?id=45466980"
+    ],
+    [
+      "WireGuard topologies for self-hosting at home",
+      "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-10-03, 15:33:43",
-      "https://news.ycombinator.com/item?id=45464145"
-    ],
-    [
-      "Lessons learned from building an infrastructure devtool",
-      "https://www.nango.dev/blog/lessons-learned-building-infrastructure-devtool"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 14:18:56",
       "https://news.ycombinator.com/item?id=45463319"
     ],
@@ -191,12 +201,32 @@
   ],
   [
     [
+      "2025-10-02, 20:31:43",
+      "https://news.ycombinator.com/item?id=45455164"
+    ],
+    [
+      "Where it's at://",
+      "https://overreacted.io/where-its-at/"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 19:02:57",
       "https://news.ycombinator.com/item?id=45453936"
     ],
     [
       "Litestream v0.5.0",
       "https://fly.io/blog/litestream-v050-is-here/"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 08:51:49",
+      "https://news.ycombinator.com/item?id=45447536"
+    ],
+    [
+      "Asked to do something illegal at work? Here's what these software engineers did",
+      "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/"
     ]
   ],
   [
@@ -257,36 +287,6 @@
     [
       "Fluid Glass",
       "https://chiuhans111.github.io/fluidglass/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 00:49:54",
-      "https://news.ycombinator.com/item?id=45420722"
-    ],
-    [
-      "Modern Font Stacks",
-      "https://modernfontstacks.com/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 20:18:34",
-      "https://news.ycombinator.com/item?id=45418251"
-    ],
-    [
-      "Effective context engineering for AI agents",
-      "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 18:25:10",
-      "https://news.ycombinator.com/item?id=45417070"
-    ],
-    [
-      "Small Near-Earth Objects in the Taurid Resonant Swarm",
-      "https://arxiv.org/abs/2509.22602"
     ]
   ],
   [
