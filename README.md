@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-03, 05:13:47](https://news.ycombinator.com/item?id=45459233) - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
-* [2025-10-03, 05:10:36](https://news.ycombinator.com/item?id=45459214) - [Japan's ruling party is in crisis as voters swing to right-wing rivals](https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk)
 * [2025-10-03, 04:26:49](https://news.ycombinator.com/item?id=45458987) - ['Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer](https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer)
 * [2025-10-03, 04:21:23](https://news.ycombinator.com/item?id=45458948) - [Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it](https://github.com/triton-lang/triton/pull/7298)
 * [2025-10-03, 04:15:41](https://news.ycombinator.com/item?id=45458909) - [Digital ID – The New Chains of Capitalist Surveillance](https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/)
@@ -27,6 +26,7 @@
 * [2025-09-30, 00:43:35](https://news.ycombinator.com/item?id=45420685) - [Some dogs can classify their toys by function](https://arstechnica.com/science/2025/09/some-dogs-can-classify-their-toys-by-function/)
 * [2025-09-29, 19:37:21](https://news.ycombinator.com/item?id=45417826) - [How I block all 26M of your curl requests](https://foxmoss.com/blog/packet-filtering/)
 * [2025-09-29, 16:12:59](https://news.ycombinator.com/item?id=45415519) - [Highest bridge unveiled at more than 2,000ft above ground](https://www.independent.co.uk/tv/news/china-worlds-highest-bridge-video-b2835886.html)
+* [2025-09-29, 12:47:45](https://news.ycombinator.com/item?id=45413059) - [RISC-V Conditional Moves](https://www.corsix.org/content/riscv-conditional-moves)
 * [2025-09-29, 12:35:06](https://news.ycombinator.com/item?id=45412938) - [Dbos: Durable Workflow Orchestration with Go and PostgreSQL](https://github.com/dbos-inc/dbos-transact-golang)
 * [2025-09-29, 11:37:52](https://news.ycombinator.com/item?id=45412472) - [PyOCI – Publish and install private Python packages using OCI/Docker registries](https://github.com/AllexVeldman/pyoci)
 * [2025-09-29, 08:16:27](https://news.ycombinator.com/item?id=45411435) - [Constitent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing/)
