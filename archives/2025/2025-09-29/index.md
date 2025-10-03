@@ -76,6 +76,7 @@
 * [2025-09-29, 12:29:29](https://news.ycombinator.com/item?id=45412870) - [The Simple Habit That Saves My Evenings](https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/)
 * [2025-09-29, 11:55:52](https://news.ycombinator.com/item?id=45412592) - [To AI or Not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
 * [2025-09-29, 11:42:04](https://news.ycombinator.com/item?id=45412494) - [Tuning async IO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
+* [2025-09-29, 11:37:52](https://news.ycombinator.com/item?id=45412472) - [PyOCI – Publish and install private Python packages using OCI/Docker registries](https://github.com/AllexVeldman/pyoci)
 * [2025-09-29, 11:28:06](https://news.ycombinator.com/item?id=45412419) - [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
 * [2025-09-29, 10:43:41](https://news.ycombinator.com/item?id=45412182) - [The JavaScript Handbook (2025 edition)](https://flaviocopes.com/the-javascript-handbook-2025-edition/)
 * [2025-09-29, 10:43:18](https://news.ycombinator.com/item?id=45412178) - [Does AI Get Bored?](https://timkellogg.me/blog/2025/09/27/boredom)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 04:26:49](https://news.ycombinator.com/item?id=45458987) - ['Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer](https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer)
 * [2025-10-03, 03:52:43](https://news.ycombinator.com/item?id=45458791) - [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
 * [2025-10-03, 03:47:45](https://news.ycombinator.com/item?id=45458768) - [Rescuer at Fatal Tesla Cybertruck Crash Says Car Doors Wouldn't Open](https://www.newsweek.com/tesla-cybertruck-car-door-malfunction-2043976)
 * [2025-10-03, 03:13:13](https://news.ycombinator.com/item?id=45458550) - [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts)
