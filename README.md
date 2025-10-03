@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-03, 17:20:32](https://news.ycombinator.com/item?id=45465295) - [Record Everything](https://aeon.co/essays/if-memory-is-precious-to-you-then-go-ahead-and-record-everything)
+* [2025-10-03, 17:27:02](https://news.ycombinator.com/item?id=45465392) - [Email was the user interface for the first AI recommendation engines](https://buttondown.com/blog/ringo-email-as-an-ai-interface)
 * [2025-10-03, 17:02:22](https://news.ycombinator.com/item?id=45465098) - [Be Worried](https://dlo.me/archives/2025/10/03/you-should-be-worried/)
 * [2025-10-03, 17:01:27](https://news.ycombinator.com/item?id=45465091) - [Ants Trapped in a Soviet Nuclear Bunker Survived for Years](https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own)
 * [2025-10-03, 17:00:08](https://news.ycombinator.com/item?id=45465078) - [Depot (YC W23) Is Hiring a Principal Design Engineer (Remote US/EU)](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer)
@@ -8,7 +8,6 @@
 * [2025-10-03, 16:44:02](https://news.ycombinator.com/item?id=45464921) - [Germany must stand firmly against client-side scanning in Chat Control [pdf]](https://signal.org/blog/pdfs/germany-chat-control.pdf)
 * [2025-10-03, 16:37:01](https://news.ycombinator.com/item?id=45464849) - [OpenAI Is Just Another Boring, Desperate AI Startup](https://www.wheresyoured.at/sora2-openai/)
 * [2025-10-03, 16:18:29](https://news.ycombinator.com/item?id=45464632) - [Cancelling Async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
-* [2025-10-03, 16:16:18](https://news.ycombinator.com/item?id=45464611) - [A Looking Glass Half Empty, Part 1: Just Lookin' for a Hit](https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-1-just-lookin-for-a-hit/)
 * [2025-10-03, 15:46:11](https://news.ycombinator.com/item?id=45464269) - [Anduril and Palantir battlefield comms system has deep flaws: Army](https://www.cnbc.com/2025/10/03/anduril-palantir-ngc2-deep-flaws-army.html)
 * [2025-10-03, 14:51:02](https://news.ycombinator.com/item?id=45463656) - [Social anxiety isn't about being liked](https://chrislakin.blog/p/social-anxiety)
 * [2025-10-03, 14:48:36](https://news.ycombinator.com/item?id=45463642) - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)
@@ -21,6 +20,7 @@
 * [2025-10-03, 05:13:47](https://news.ycombinator.com/item?id=45459233) - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
 * [2025-10-03, 04:21:23](https://news.ycombinator.com/item?id=45458948) - [Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it](https://github.com/triton-lang/triton/pull/7298)
 * [2025-10-03, 01:20:32](https://news.ycombinator.com/item?id=45457670) - [I spent the day teaching seniors how to use an iPhone](https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/)
+* [2025-10-02, 21:34:42](https://news.ycombinator.com/item?id=45455882) - [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
 * [2025-10-02, 19:02:57](https://news.ycombinator.com/item?id=45453936) - [Litestream v0.5.0](https://fly.io/blog/litestream-v050-is-here/)
 * [2025-10-02, 16:06:10](https://news.ycombinator.com/item?id=45451527) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
 * [2025-10-01, 10:26:26](https://news.ycombinator.com/item?id=45436148) - [Kairos: Immutable Distro for K8s at the Edge](https://kairos.io/)
