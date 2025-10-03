@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-03, 00:34:29",
+      "https://news.ycombinator.com/item?id=45457333"
+    ],
+    [
+      "Apple takes down ICE tracking apps after pressure from Bondi DOJ",
+      "https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 21:47:31",
       "https://news.ycombinator.com/item?id=45456003"
     ],
@@ -17,6 +27,16 @@
     [
       "The strangest letter of the alphabet: The rise and fall of yogh",
       "https://www.deadlanguagesociety.com/p/history-of-letter-yogh"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 21:21:49",
+      "https://news.ycombinator.com/item?id=45455719"
+    ],
+    [
+      "Solveit – A course and platform for solving problems with code",
+      "https://www.answer.ai/posts/2025-10-01-solveit-full.html"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-10-02, 18:00:27",
-      "https://news.ycombinator.com/item?id=45453135"
-    ],
-    [
-      "Email immutability matters more in a world with AI",
-      "https://www.fastmail.com/blog/not-written-with-ai/"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 17:01:16",
       "https://news.ycombinator.com/item?id=45452299"
     ],
@@ -107,16 +117,6 @@
     [
       "Why I chose Lua for this blog",
       "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 16:36:53",
-      "https://news.ycombinator.com/item?id=45451961"
-    ],
-    [
-      "The Atlantic Quantum team is joining Google",
-      "https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-10-01, 13:52:41",
-      "https://news.ycombinator.com/item?id=45437759"
-    ],
-    [
-      "F3: Open-source data file format for the future [pdf]",
-      "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf"
-    ]
-  ],
-  [
-    [
       "2025-10-01, 09:04:10",
       "https://news.ycombinator.com/item?id=45435720"
     ],
@@ -227,6 +217,16 @@
     [
       "Mary Carleton, Counterfeit Princess",
       "https://publicdomainreview.org/essay/mary-carleton-counterfeit-princess/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 19:37:21",
+      "https://news.ycombinator.com/item?id=45417826"
+    ],
+    [
+      "How I block all 26M of your curl requests",
+      "https://foxmoss.com/blog/packet-filtering/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-09-29, 09:27:00",
-      "https://news.ycombinator.com/item?id=45411799"
+      "2025-09-29, 09:43:39",
+      "https://news.ycombinator.com/item?id=45411866"
     ],
     [
-      "Stealing from Google",
-      "https://taqib.dev/blog/stealing-from-google/"
+      "A primer for using weather surveillance radar to study bird migration",
+      "https://birdcast.info/news/a-primer-for-using-weather-surveillance-radar-to-study-bird-migration/"
     ]
   ],
   [
