@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 20:37:58](https://news.ycombinator.com/item?id=45476490) - [Man buys used Tesla only to discover it's banned from Supercharger network](https://www.cbsnews.com/chicago/news/used-tesla-banned-supercharger-network-daniel-boycott/)
 * [2025-10-04, 20:07:11](https://news.ycombinator.com/item?id=45476273) - [The UK Is Still Trying to Backdoor Encryption for Apple Users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
 * [2025-10-04, 19:40:52](https://news.ycombinator.com/item?id=45476071) - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
 * [2025-10-04, 19:27:01](https://news.ycombinator.com/item?id=45475951) - [New Poll: Democratic Socialism Is Now Mainstream](https://jacobin.com/2025/09/new-poll-democratic-socialism-mainstream/)
