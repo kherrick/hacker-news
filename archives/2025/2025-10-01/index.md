@@ -66,6 +66,7 @@
 * [2025-10-01, 11:55:15](https://news.ycombinator.com/item?id=45436664) - [People want platforms (not governments) to be responsible for moderating content](https://reutersinstitute.politics.ox.ac.uk/news/most-people-want-platforms-not-governments-be-responsible-moderating-content)
 * [2025-10-01, 11:33:19](https://news.ycombinator.com/item?id=45436534) - [Why TigerBeetle is the most interesting database in the world](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world)
 * [2025-10-01, 11:07:43](https://news.ycombinator.com/item?id=45436378) - [Cannabis extract found to be effective for lower back pain](https://www.newscientist.com/article/2498064-cannabis-extract-found-to-be-effective-for-lower-back-pain/)
+* [2025-10-01, 10:51:37](https://news.ycombinator.com/item?id=45436289) - [Systems Programming with Zig (Book)](https://www.manning.com/books/systems-programming-with-zig)
 * [2025-10-01, 10:26:26](https://news.ycombinator.com/item?id=45436148) - [Kairos: Immutable Distro for K8s at the Edge](https://kairos.io/)
 * [2025-10-01, 10:11:02](https://news.ycombinator.com/item?id=45436083) - [Icebird: JavaScript Iceberg Reader](https://github.com/hyparam/icebird)
 * [2025-10-01, 10:00:29](https://news.ycombinator.com/item?id=45436027) - [FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET](https://flowsynx.io/)
