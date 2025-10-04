@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 13:20:15](https://news.ycombinator.com/item?id=45473126) - [It's not a hack to satisfy known requirements](https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/)
 * [2025-10-04, 13:06:32](https://news.ycombinator.com/item?id=45473033) - [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
 * [2025-10-04, 13:04:15](https://news.ycombinator.com/item?id=45473019) - [Functional Programming Shaped (and Twisted) Front End Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html)
 * [2025-10-04, 13:01:24](https://news.ycombinator.com/item?id=45473006) - [Amazon Is Digitally Erasing Guns from James Bond Posters](https://kotaku.com/james-bond-amazon-guns-halo-remake-gaming-news-2000631492)
