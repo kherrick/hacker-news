@@ -2,7 +2,6 @@
 
 * [2025-10-04, 01:09:37](https://news.ycombinator.com/item?id=45469579) - [AI predicts antibiotic's IBD mechanism–scientists later confirm](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
 * [2025-10-04, 00:45:40](https://news.ycombinator.com/item?id=45469468) - [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
-* [2025-10-04, 00:39:14](https://news.ycombinator.com/item?id=45469437) - [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
 * [2025-10-04, 00:39:04](https://news.ycombinator.com/item?id=45469436) - [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
 * [2025-10-04, 00:19:02](https://news.ycombinator.com/item?id=45469285) - [Binary Formats Gallery](https://formats.kaitai.io/)
 * [2025-10-03, 22:58:20](https://news.ycombinator.com/item?id=45468781) - [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
@@ -23,8 +22,9 @@
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it's at://](https://overreacted.io/where-its-at/)
 * [2025-10-02, 19:02:57](https://news.ycombinator.com/item?id=45453936) - [Litestream v0.5.0](https://fly.io/blog/litestream-v050-is-here/)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
-* [2025-10-01, 14:06:45](https://news.ycombinator.com/item?id=45437903) - [The Temporal Dead Zone, or why the TypeScript codebase is full of var statements](https://vincentrolfs.dev/blog/ts-var)
+* [2025-10-02, 07:12:18](https://news.ycombinator.com/item?id=45447057) - [Old Stockholm Telephone Tower](https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower)
 * [2025-10-01, 07:31:27](https://news.ycombinator.com/item?id=45435272) - [Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)](https://salykova.github.io/gemm-cpu)
+* [2025-09-30, 12:03:50](https://news.ycombinator.com/item?id=45424431) - [Show HN: Magic-markers – control a smart bulb with crayola markers](https://github.com/thejchap/magic-markers)
 * [2025-09-30, 08:57:11](https://news.ycombinator.com/item?id=45423404) - [Open Printer is an open source inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 * [2025-09-30, 05:46:34](https://news.ycombinator.com/item?id=45422315) - [Discrete Fourier Transform](https://nima101.github.io/dft)
 * [2025-09-30, 05:15:40](https://news.ycombinator.com/item?id=45422147) - [Fluid Glass](https://chiuhans111.github.io/fluidglass/)

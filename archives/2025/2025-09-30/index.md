@@ -63,6 +63,7 @@
 * [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 * [2025-09-30, 12:33:43](https://news.ycombinator.com/item?id=45424648) - [How has mathematics gotten so abstract?](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract)
 * [2025-09-30, 12:24:13](https://news.ycombinator.com/item?id=45424573) - [Chat Control Is Back on the Menu in the EU. It Still Must Be Stopped](https://www.eff.org/deeplinks/2025/09/chat-control-back-menu-eu-it-still-must-be-stopped-0)
+* [2025-09-30, 12:03:50](https://news.ycombinator.com/item?id=45424431) - [Show HN: Magic-markers – control a smart bulb with crayola markers](https://github.com/thejchap/magic-markers)
 * [2025-09-30, 12:00:39](https://news.ycombinator.com/item?id=45424412) - [Airgoods (YC S23) Is Hiring](https://airgoods.com/careers?utm_source=hacker_news)
 * [2025-09-30, 11:31:04](https://news.ycombinator.com/item?id=45424223) - [Orbiting the Hénon Attractor](https://observablehq.com/@yurivish/orbiting-the-henon-attractor)
 * [2025-09-30, 11:29:41](https://news.ycombinator.com/item?id=45424217) - [Apple HomeKit – The Long Con](https://www.naut.ca/blog/2025/08/29/apple-homekit-the-long-con/)
