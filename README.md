@@ -2,7 +2,6 @@
 
 * [2025-10-04, 06:49:58](https://news.ycombinator.com/item?id=45471136) - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 * [2025-10-04, 05:51:56](https://news.ycombinator.com/item?id=45470842) - [Optimizing a 6502 image decoder – part II: assembly](https://www.colino.net/wordpress/en/archives/2025/10/03/optimizing-a-6502-image-decoder-part-ii-assembly/)
-* [2025-10-04, 04:25:54](https://news.ycombinator.com/item?id=45470513) - [Starship's eleventh flight test](https://www.spacex.com/launches/starship-flight-11)
 * [2025-10-04, 03:11:28](https://news.ycombinator.com/item?id=45470206) - [Toyota runs a car-hacking event to boost security (2024)](https://toyotatimes.jp/en/spotlights/1061.html)
 * [2025-10-04, 01:09:37](https://news.ycombinator.com/item?id=45469579) - [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
 * [2025-10-04, 00:45:40](https://news.ycombinator.com/item?id=45469468) - [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
@@ -24,6 +23,7 @@
 * [2025-10-02, 07:12:18](https://news.ycombinator.com/item?id=45447057) - [Old Stockholm Telephone Tower](https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower)
 * [2025-10-01, 14:06:45](https://news.ycombinator.com/item?id=45437903) - [The Temporal Dead Zone, or why the TypeScript codebase is full of var statements](https://vincentrolfs.dev/blog/ts-var)
 * [2025-10-01, 12:56:37](https://news.ycombinator.com/item?id=45437135) - [The Crete Fleet – Concrete Tugs and Barges from WWI](https://thecretefleet.com)
+* [2025-09-30, 22:40:48](https://news.ycombinator.com/item?id=45432130) - [Isotopic analysis determines that water once flowed on asteroid Ryugu](https://phys.org/news/2025-09-isotopic-analysis-asteroid-ryugu.html)
 * [2025-09-30, 17:56:28](https://news.ycombinator.com/item?id=45428832) - [Answering your top questions about Android developer verification](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
 * [2025-09-30, 08:57:11](https://news.ycombinator.com/item?id=45423404) - [Open Printer is an open source inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 * [2025-09-30, 05:46:34](https://news.ycombinator.com/item?id=45422315) - [Discrete Fourier Transform](https://nima101.github.io/dft)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
 * [2025-09-30, 23:36:23](https://news.ycombinator.com/item?id=45432627) - [Economics of sportsbooks and why they ban the best bettors](https://www.dopaminemarkets.com/p/the-business-of-sports-betting-is)
+* [2025-09-30, 22:40:48](https://news.ycombinator.com/item?id=45432130) - [Isotopic analysis determines that water once flowed on asteroid Ryugu](https://phys.org/news/2025-09-isotopic-analysis-asteroid-ryugu.html)
 * [2025-09-30, 22:25:46](https://news.ycombinator.com/item?id=45431979) - [Live Video of Global Sumud Flotilla](https://globalsumudflotilla.org/live/)
 * [2025-09-30, 21:33:04](https://news.ycombinator.com/item?id=45431526) - [Show HN: JPDB, GDB for Your Waveforms](https://github.com/1024bees/dang)
 * [2025-09-30, 21:29:29](https://news.ycombinator.com/item?id=45431489) - [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
