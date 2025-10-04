@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-10-03, 21:00:32",
-      "https://news.ycombinator.com/item?id=45467717"
-    ],
-    [
-      "TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)",
-      "https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 20:40:52",
       "https://news.ycombinator.com/item?id=45467543"
     ],
@@ -237,6 +227,16 @@
     [
       "Systems Programming with Zig (Book)",
       "https://www.manning.com/books/systems-programming-with-zig"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 07:31:27",
+      "https://news.ycombinator.com/item?id=45435272"
+    ],
+    [
+      "Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)",
+      "https://salykova.github.io/gemm-cpu"
     ]
   ],
   [
