@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-10-04, 03:11:28",
+      "https://news.ycombinator.com/item?id=45470206"
+    ],
+    [
+      "Why Toyota Runs a Car-Hacking Event (2024)",
+      "https://toyotatimes.jp/en/spotlights/1061.html"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 01:09:37",
       "https://news.ycombinator.com/item?id=45469579"
     ],
     [
-      "AI predicts antibiotic's IBD mechanism–scientists later confirm",
+      "New antibiotic targets IBD and AI predicted how it would work",
       "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/"
     ]
   ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-10-03, 19:43:34",
-      "https://news.ycombinator.com/item?id=45466980"
-    ],
-    [
-      "WireGuard topologies for self-hosting at home",
-      "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 19:08:11",
       "https://news.ycombinator.com/item?id=45466588"
     ],
@@ -171,22 +171,22 @@
   ],
   [
     [
+      "2025-10-03, 15:33:43",
+      "https://news.ycombinator.com/item?id=45464145"
+    ],
+    [
+      "Lessons learned from building an infrastructure devtool",
+      "https://www.nango.dev/blog/lessons-learned-building-infrastructure-devtool"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 14:18:56",
       "https://news.ycombinator.com/item?id=45463319"
     ],
     [
       "I turned the Lego Game Boy into a working Game Boy",
       "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 14:13:03",
-      "https://news.ycombinator.com/item?id=45463251"
-    ],
-    [
-      "Webbol: A minimal static web server written in COBOL",
-      "https://github.com/jmsdnns/webbol"
     ]
   ],
   [
