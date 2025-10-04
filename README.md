@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
+* [2025-10-04, 15:09:41](https://news.ycombinator.com/item?id=45473852) - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
 * [2025-10-04, 14:31:58](https://news.ycombinator.com/item?id=45473581) - [A Mac-like experience on Linux](https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/)
 * [2025-10-04, 13:20:15](https://news.ycombinator.com/item?id=45473126) - [It's not a hack to satisfy known requirements](https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/)
 * [2025-10-04, 13:06:32](https://news.ycombinator.com/item?id=45473033) - [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
@@ -16,7 +18,6 @@
 * [2025-10-03, 20:01:36](https://news.ycombinator.com/item?id=45467166) - [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
 * [2025-10-03, 19:08:11](https://news.ycombinator.com/item?id=45466588) - [Jules, remote coding agent from Google Labs, announces API](https://jules.google/docs/changelog/)
 * [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
-* [2025-10-03, 16:49:57](https://news.ycombinator.com/item?id=45464984) - [The collapse of the econ PhD job market](https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job)
 * [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it's at://](https://overreacted.io/where-its-at/)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
@@ -29,7 +30,6 @@
 * [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 * [2025-09-30, 08:57:11](https://news.ycombinator.com/item?id=45423404) - [Open Printer – Inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 * [2025-09-30, 05:15:40](https://news.ycombinator.com/item?id=45422147) - [Fluid Glass](https://chiuhans111.github.io/fluidglass/)
-* [2025-09-29, 17:52:17](https://news.ycombinator.com/item?id=45416706) - [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
 
 ## [Archives](archives/index.md)
 
