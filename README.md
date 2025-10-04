@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [Use theorem provers to ensure the correctness of your LLM's reasoning](https://github.com/DebarghaG/proofofthought)
+* [2025-10-04, 18:34:13](https://news.ycombinator.com/item?id=45475528) - [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
 * [2025-10-04, 17:18:07](https://news.ycombinator.com/item?id=45474900) - [Knowledge Infusion Scaling Law for Pre-Training Large Language Models](https://arxiv.org/abs/2509.19371)
 * [2025-10-04, 16:19:04](https://news.ycombinator.com/item?id=45474441) - [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm)
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
@@ -12,13 +13,11 @@
 * [2025-10-04, 11:58:58](https://news.ycombinator.com/item?id=45472678) - [The Buchstabenmuseum Berlin is closing](https://www.buchstabenmuseum.de/en/)
 * [2025-10-04, 10:38:06](https://news.ycombinator.com/item?id=45472319) - [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf)
 * [2025-10-04, 06:49:58](https://news.ycombinator.com/item?id=45471136) - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
-* [2025-10-04, 03:11:28](https://news.ycombinator.com/item?id=45470206) - [Toyota runs a car-hacking event to boost security (2024)](https://toyotatimes.jp/en/spotlights/1061.html)
 * [2025-10-04, 01:09:37](https://news.ycombinator.com/item?id=45469579) - [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
 * [2025-10-03, 22:45:28](https://news.ycombinator.com/item?id=45468698) - [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster)
 * [2025-10-03, 20:36:03](https://news.ycombinator.com/item?id=45467500) - [Offline card payments should be possible no later than 1 July 2026](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
 * [2025-10-03, 19:08:11](https://news.ycombinator.com/item?id=45466588) - [Jules, remote coding agent from Google Labs, announces API](https://jules.google/docs/changelog/)
 * [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
-* [2025-10-03, 16:49:57](https://news.ycombinator.com/item?id=45464984) - [The collapse of the econ PhD job market](https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job)
 * [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it's at://](https://overreacted.io/where-its-at/)
 * [2025-10-02, 07:12:18](https://news.ycombinator.com/item?id=45447057) - [Old Stockholm Telephone Tower](https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower)
@@ -30,6 +29,7 @@
 * [2025-09-30, 18:53:12](https://news.ycombinator.com/item?id=45429590) - [Time needed to factor large integers](https://www.johndcook.com/blog/2025/09/30/time-needed-to-factor-large-integers/)
 * [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 * [2025-09-30, 05:15:40](https://news.ycombinator.com/item?id=45422147) - [Fluid Glass](https://chiuhans111.github.io/fluidglass/)
+* [2025-09-29, 17:52:17](https://news.ycombinator.com/item?id=45416706) - [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
 
 ## [Archives](archives/index.md)
 

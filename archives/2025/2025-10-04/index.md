@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [Use theorem provers to ensure the correctness of your LLM's reasoning](https://github.com/DebarghaG/proofofthought)
+* [2025-10-04, 18:34:13](https://news.ycombinator.com/item?id=45475528) - [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
 * [2025-10-04, 17:30:29](https://news.ycombinator.com/item?id=45475039) - [Discord data hacked in latest customer service breach to expose user information](https://www.tomshardware.com/video-games/pc-gaming/discord-data-hacked-in-latest-customer-service-breach-to-expose-user-information-hackers-gained-access-via-third-party-support-systems-but-didnt-steal-passwords)
 * [2025-10-04, 17:18:07](https://news.ycombinator.com/item?id=45474900) - [Knowledge Infusion Scaling Law for Pre-Training Large Language Models](https://arxiv.org/abs/2509.19371)
 * [2025-10-04, 16:19:04](https://news.ycombinator.com/item?id=45474441) - [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm)
