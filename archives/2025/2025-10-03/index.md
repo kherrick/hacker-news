@@ -23,6 +23,7 @@
 * [2025-10-03, 19:15:37](https://news.ycombinator.com/item?id=45466675) - [Ask HN: One-person SaaS apps that are profitable?](https://news.ycombinator.com/item?id=45466675)
 * [2025-10-03, 19:13:34](https://news.ycombinator.com/item?id=45466655) - [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/)
 * [2025-10-03, 19:08:11](https://news.ycombinator.com/item?id=45466588) - [Jules, remote coding agent from Google Labs, announces API](https://jules.google/docs/changelog/)
+* [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://peps.python.org/pep-0810/)
 * [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
 * [2025-10-03, 18:13:42](https://news.ycombinator.com/item?id=45465969) - [The AI bubble is 17 times the size of the dot-com frenzy, analyst says](https://www.marketwatch.com/story/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-this-analyst-argues-046e7c5c)
 * [2025-10-03, 18:13:16](https://news.ycombinator.com/item?id=45465964) - [ICE Wants to Build Out a 24/7 Social Media Surveillance Team](https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/)

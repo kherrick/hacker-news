@@ -7,6 +7,7 @@
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 * [2025-10-01, 21:54:46](https://news.ycombinator.com/item?id=45444004) - [Egg-Shaped Curves](https://nyjp07.com/index_egg_E.html)
 * [2025-10-01, 21:40:54](https://news.ycombinator.com/item?id=45443881) - [US gov shutdown leaves IT projects hanging, security defenders a skeleton crew](https://www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/)
+* [2025-10-01, 21:15:44](https://news.ycombinator.com/item?id=45443662) - [Study confirms that pianists can shape piano timbre through touch](https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/)
 * [2025-10-01, 21:00:18](https://news.ycombinator.com/item?id=45443462) - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
 * [2025-10-01, 20:53:17](https://news.ycombinator.com/item?id=45443368) - [DARPA project for automated translation from C to Rust (2024)](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities)
 * [2025-10-01, 20:50:04](https://news.ycombinator.com/item?id=45443328) - [GenAI Predictions](https://www.tbray.org/ongoing/When/202x/2025/09/26/GenAI-Predictions)
