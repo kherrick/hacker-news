@@ -61,6 +61,7 @@
 * [2025-10-01, 12:54:17](https://news.ycombinator.com/item?id=45437112) - [Detect Electron apps on Mac that hasn't been updated to fix the system wide lag](https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58)
 * [2025-10-01, 12:50:49](https://news.ycombinator.com/item?id=45437081) - [No Figma, I won't fit in your little box](https://blog.nordcraft.com/no-figma-i-wont-fit-in-your-little-box)
 * [2025-10-01, 12:47:10](https://news.ycombinator.com/item?id=45437060) - [Hackers strike Harrods in latest UK cyberattack](https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack)
+* [2025-10-01, 12:45:52](https://news.ycombinator.com/item?id=45437044) - [Five Years as a Startup CTO: How, Why, and Was It Worth It?](https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/)
 * [2025-10-01, 12:43:51](https://news.ycombinator.com/item?id=45437027) - [Building an IoT Notification Device from Scratch](https://bertwagner.com/posts/splashflag-building-an-iot-swimming-notification-device-from-scratch/)
 * [2025-10-01, 12:41:23](https://news.ycombinator.com/item?id=45437003) - [Broadcom Fails to Disclose Zero-Day Exploitation of VMware Vulnerability](https://www.securityweek.com/broadcom-fails-to-disclose-zero-day-exploitation-of-vmware-vulnerability/)
 * [2025-10-01, 12:38:57](https://news.ycombinator.com/item?id=45436980) - [Austria's armed forces switch to LibreOffice](https://www.heise.de/en/news/Austria-s-armed-forces-switch-to-LibreOffice-10660761.html)
