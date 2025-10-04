@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-10-03, 22:58:20",
-      "https://news.ycombinator.com/item?id=45468781"
-    ],
-    [
-      "When private practices merge with hospital systems, costs go up",
-      "https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 22:45:28",
       "https://news.ycombinator.com/item?id=45468698"
     ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2025-10-03, 14:13:03",
-      "https://news.ycombinator.com/item?id=45463251"
-    ],
-    [
-      "Webbol: A minimal static web server written in COBOL",
-      "https://github.com/jmsdnns/webbol"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 20:31:43",
       "https://news.ycombinator.com/item?id=45455164"
     ],
@@ -247,6 +227,26 @@
     [
       "The Crete Fleet – Concrete Tugs and Barges from WWI",
       "https://thecretefleet.com"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 07:31:27",
+      "https://news.ycombinator.com/item?id=45435272"
+    ],
+    [
+      "Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)",
+      "https://salykova.github.io/gemm-cpu"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 17:56:28",
+      "https://news.ycombinator.com/item?id=45428832"
+    ],
+    [
+      "Answering your top questions about Android developer verification",
+      "https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html"
     ]
   ],
   [
