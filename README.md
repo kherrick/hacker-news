@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-04, 13:06:32](https://news.ycombinator.com/item?id=45473033) - [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
+* [2025-10-04, 13:04:15](https://news.ycombinator.com/item?id=45473019) - [Functional Programming Shaped (and Twisted) Front End Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html)
 * [2025-10-04, 12:23:40](https://news.ycombinator.com/item?id=45472799) - [Google removes ICE-spotting app following Apple's ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)
 * [2025-10-04, 12:16:37](https://news.ycombinator.com/item?id=45472765) - [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
 * [2025-10-04, 11:58:58](https://news.ycombinator.com/item?id=45472678) - [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/)
@@ -23,7 +24,6 @@
 * [2025-10-01, 10:51:37](https://news.ycombinator.com/item?id=45436289) - [Systems Programming with Zig (Book)](https://www.manning.com/books/systems-programming-with-zig)
 * [2025-10-01, 08:56:31](https://news.ycombinator.com/item?id=45435681) - [Angular Signal-Based Architecture: Building a Smarter Shopping Cart](https://blog.appsignal.com/2025/10/01/angular-signal-based-architecture-building-a-smarter-shopping-cart.html)
 * [2025-10-01, 03:15:23](https://news.ycombinator.com/item?id=45433936) - [Baseball durations after the pitch clock](https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/)
-* [2025-09-30, 21:33:04](https://news.ycombinator.com/item?id=45431526) - [Show HN: JPDB, GDB for Your Waveforms](https://github.com/1024bees/dang)
 * [2025-09-30, 20:54:45](https://news.ycombinator.com/item?id=45431115) - [Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS](https://benbridle.com/projects/cobalt.html)
 * [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 * [2025-09-30, 08:57:11](https://news.ycombinator.com/item?id=45423404) - [Open Printer is an open source inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)

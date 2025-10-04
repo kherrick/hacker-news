@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
 * [2025-10-04, 13:06:32](https://news.ycombinator.com/item?id=45473033) - [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
+* [2025-10-04, 13:04:15](https://news.ycombinator.com/item?id=45473019) - [Functional Programming Shaped (and Twisted) Front End Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html)
 * [2025-10-04, 13:01:24](https://news.ycombinator.com/item?id=45473006) - [Amazon Is Digitally Erasing Guns from James Bond Posters](https://kotaku.com/james-bond-amazon-guns-halo-remake-gaming-news-2000631492)
 * [2025-10-04, 12:23:40](https://news.ycombinator.com/item?id=45472799) - [Google removes ICE-spotting app following Apple's ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)
 * [2025-10-04, 12:16:37](https://news.ycombinator.com/item?id=45472765) - [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
