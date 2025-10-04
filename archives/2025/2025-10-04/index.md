@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 22:14:29](https://news.ycombinator.com/item?id=45477192) - [OpenAI's hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
+* [2025-10-04, 22:02:28](https://news.ycombinator.com/item?id=45477118) - [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
 * [2025-10-04, 21:22:11](https://news.ycombinator.com/item?id=45476821) - [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
 * [2025-10-04, 21:22:05](https://news.ycombinator.com/item?id=45476820) - [$912 energy independence without red tape](https://sunboxlabs.com/)
 * [2025-10-04, 21:14:35](https://news.ycombinator.com/item?id=45476773) - [New California law restricts HOA fines to $100 per violation](https://calmatters.org/politics/2025/10/california-hoas-fines-capped/)

@@ -78,6 +78,7 @@
 * [2025-10-01, 10:00:29](https://news.ycombinator.com/item?id=45436027) - [FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET](https://flowsynx.io/)
 * [2025-10-01, 09:58:07](https://news.ycombinator.com/item?id=45436010) - [Ask HN: What's your experience with using graph databases for agentic use-cases?](https://news.ycombinator.com/item?id=45436010)
 * [2025-10-01, 09:22:10](https://news.ycombinator.com/item?id=45435825) - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
+* [2025-10-01, 09:20:43](https://news.ycombinator.com/item?id=45435819) - [The Art of Color... Science?](https://nikonrumors.com/2025/09/30/the-art-of-color-science.aspx/)
 * [2025-10-01, 09:14:45](https://news.ycombinator.com/item?id=45435780) - [Self-hosting email in 2025 is easy actually (apart from M365)](https://mastodon.social/@whitequark/115298019560025791)
 * [2025-10-01, 09:04:10](https://news.ycombinator.com/item?id=45435720) - [Pre-Record Your Demos](https://www.steveharrison.dev/pre-record-your-demos/)
 * [2025-10-01, 08:56:31](https://news.ycombinator.com/item?id=45435681) - [Angular Signal-Based Architecture: Building a Smarter Shopping Cart](https://blog.appsignal.com/2025/10/01/angular-signal-based-architecture-building-a-smarter-shopping-cart.html)
