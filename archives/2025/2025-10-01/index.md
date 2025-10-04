@@ -88,6 +88,7 @@
 * [2025-10-01, 06:45:19](https://news.ycombinator.com/item?id=45435016) - [Amazon Vega OS and Vega Developer Tools](https://developer.amazon.com/apps-and-games/vega)
 * [2025-10-01, 06:33:02](https://news.ycombinator.com/item?id=45434941) - [High-resolution efficient image generation from WiFi Mapping](https://arxiv.org/abs/2506.10605)
 * [2025-10-01, 06:06:24](https://news.ycombinator.com/item?id=45434779) - [The God Mode Vulnerability That Should Kill \"Trust Microsoft\" Forever](https://tide.org/blog/god-mode-vulnerability-microsoft-authorityless-security)
+* [2025-10-01, 06:03:41](https://news.ycombinator.com/item?id=45434758) - [BiDirectional text in the terminal emulators and console programs(2020)](https://gist.github.com/XVilka/a0e49e1c65370ba11c17)
 * [2025-10-01, 06:03:28](https://news.ycombinator.com/item?id=45434755) - [Mary Carleton, Counterfeit Princess](https://publicdomainreview.org/essay/mary-carleton-counterfeit-princess/)
 * [2025-10-01, 05:49:14](https://news.ycombinator.com/item?id=45434678) - [The Architecture of Learning: From Statistics to Intelligence](https://little-book-of.github.io/maths/books/en-US/chronicles-8.html)
 * [2025-10-01, 05:22:06](https://news.ycombinator.com/item?id=45434511) - [Basic Dialects, IDEs, and Tutorials](https://github.com/JohnBlood/awesome-basic)

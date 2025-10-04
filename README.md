@@ -24,11 +24,11 @@
 * [2025-10-02, 07:12:18](https://news.ycombinator.com/item?id=45447057) - [Old Stockholm Telephone Tower](https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower)
 * [2025-10-01, 12:45:52](https://news.ycombinator.com/item?id=45437044) - [Five Years as a Startup CTO: How, Why, and Was It Worth It?](https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/)
 * [2025-10-01, 10:51:37](https://news.ycombinator.com/item?id=45436289) - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
+* [2025-10-01, 06:03:41](https://news.ycombinator.com/item?id=45434758) - [BiDirectional text in the terminal emulators and console programs(2020)](https://gist.github.com/XVilka/a0e49e1c65370ba11c17)
 * [2025-10-01, 05:49:14](https://news.ycombinator.com/item?id=45434678) - [The Architecture of Learning: From Statistics to Intelligence](https://little-book-of.github.io/maths/books/en-US/chronicles-8.html)
 * [2025-09-30, 20:54:45](https://news.ycombinator.com/item?id=45431115) - [Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS](https://benbridle.com/projects/cobalt.html)
 * [2025-09-30, 18:53:12](https://news.ycombinator.com/item?id=45429590) - [Time needed to factor large integers](https://www.johndcook.com/blog/2025/09/30/time-needed-to-factor-large-integers/)
 * [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
-* [2025-09-30, 08:57:11](https://news.ycombinator.com/item?id=45423404) - [Open Printer – Inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 * [2025-09-30, 05:15:40](https://news.ycombinator.com/item?id=45422147) - [Fluid Glass](https://chiuhans111.github.io/fluidglass/)
 
 ## [Archives](archives/index.md)
