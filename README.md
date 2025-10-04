@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-04, 16:09:08](https://news.ycombinator.com/item?id=45474346) - [Ask HN: Why is software quality collapsing? (Apple Calculator leaks 32GB RAM)](https://news.ycombinator.com/item?id=45474346)
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
 * [2025-10-04, 15:09:41](https://news.ycombinator.com/item?id=45473852) - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
 * [2025-10-04, 14:49:30](https://news.ycombinator.com/item?id=45473698) - [Flock's gunshot detection microphones will start listening for human voices](https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices)
@@ -19,7 +20,6 @@
 * [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
 * [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it's at://](https://overreacted.io/where-its-at/)
-* [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 07:12:18](https://news.ycombinator.com/item?id=45447057) - [Old Stockholm Telephone Tower](https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower)
 * [2025-10-01, 10:51:37](https://news.ycombinator.com/item?id=45436289) - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
 * [2025-10-01, 05:49:14](https://news.ycombinator.com/item?id=45434678) - [The Architecture of Learning: From Statistics to Intelligence](https://little-book-of.github.io/maths/books/en-US/chronicles-8.html)

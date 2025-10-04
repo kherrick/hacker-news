@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 16:09:08](https://news.ycombinator.com/item?id=45474346) - [Ask HN: Why is software quality collapsing? (Apple Calculator leaks 32GB RAM)](https://news.ycombinator.com/item?id=45474346)
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
 * [2025-10-04, 15:09:41](https://news.ycombinator.com/item?id=45473852) - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
 * [2025-10-04, 14:49:30](https://news.ycombinator.com/item?id=45473698) - [Flock's gunshot detection microphones will start listening for human voices](https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices)
