@@ -101,5 +101,6 @@
 * [2025-10-01, 03:13:16](https://news.ycombinator.com/item?id=45433926) - [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff)
 * [2025-10-01, 02:59:28](https://news.ycombinator.com/item?id=45433866) - [The gaslit asset class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
 * [2025-10-01, 02:38:18](https://news.ycombinator.com/item?id=45433768) - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
+* [2025-10-01, 02:35:04](https://news.ycombinator.com/item?id=45433743) - [The mini smartphones from Japan you've never heard about [video]](https://www.youtube.com/watch?v=_e27TfHibTg)
 * [2025-10-01, 02:15:40](https://news.ycombinator.com/item?id=45433619) - [A requiem for a dying operating system (1994)](https://user.eng.umd.edu/~blj/funny/requium.html)
 * [2025-10-01, 00:29:33](https://news.ycombinator.com/item?id=45432977) - [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)

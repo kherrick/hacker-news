@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-04, 19:27:01](https://news.ycombinator.com/item?id=45475951) - [New Poll: Democratic Socialism Is Now Mainstream](https://jacobin.com/2025/09/new-poll-democratic-socialism-mainstream/)
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [Use theorem provers to ensure the correctness of your LLM's reasoning](https://github.com/DebarghaG/proofofthought)
 * [2025-10-04, 18:34:13](https://news.ycombinator.com/item?id=45475528) - [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
 * [2025-10-04, 17:18:07](https://news.ycombinator.com/item?id=45474900) - [Knowledge Infusion Scaling Law for Pre-Training Large Language Models](https://arxiv.org/abs/2509.19371)
@@ -25,11 +26,10 @@
 * [2025-10-01, 10:51:37](https://news.ycombinator.com/item?id=45436289) - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
 * [2025-10-01, 06:03:41](https://news.ycombinator.com/item?id=45434758) - [BiDirectional text in the terminal emulators and console programs(2020)](https://gist.github.com/XVilka/a0e49e1c65370ba11c17)
 * [2025-10-01, 05:49:14](https://news.ycombinator.com/item?id=45434678) - [The Architecture of Learning: From Statistics to Intelligence](https://little-book-of.github.io/maths/books/en-US/chronicles-8.html)
+* [2025-10-01, 02:35:04](https://news.ycombinator.com/item?id=45433743) - [The mini smartphones from Japan you've never heard about [video]](https://www.youtube.com/watch?v=_e27TfHibTg)
 * [2025-09-30, 20:54:45](https://news.ycombinator.com/item?id=45431115) - [Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS](https://benbridle.com/projects/cobalt.html)
-* [2025-09-30, 18:53:12](https://news.ycombinator.com/item?id=45429590) - [Time needed to factor large integers](https://www.johndcook.com/blog/2025/09/30/time-needed-to-factor-large-integers/)
 * [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 * [2025-09-30, 05:15:40](https://news.ycombinator.com/item?id=45422147) - [Fluid Glass](https://chiuhans111.github.io/fluidglass/)
-* [2025-09-29, 17:52:17](https://news.ycombinator.com/item?id=45416706) - [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
 
 ## [Archives](archives/index.md)
 
