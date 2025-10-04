@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-04, 20:37:58](https://news.ycombinator.com/item?id=45476490) - [Man buys used Tesla only to discover it's banned from Supercharger network](https://www.cbsnews.com/chicago/news/used-tesla-banned-supercharger-network-daniel-boycott/)
+* [2025-10-04, 21:22:05](https://news.ycombinator.com/item?id=45476820) - [$912 energy independence without red tape](https://sunboxlabs.com/)
 * [2025-10-04, 20:07:11](https://news.ycombinator.com/item?id=45476273) - [The UK is still trying to backdoor encryption for Apple users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
 * [2025-10-04, 19:08:46](https://news.ycombinator.com/item?id=45475808) - [Blog Feeds](https://blogfeeds.net)
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
