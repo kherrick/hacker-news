@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 20:07:11](https://news.ycombinator.com/item?id=45476273) - [The UK Is Still Trying to Backdoor Encryption for Apple Users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
+* [2025-10-04, 19:40:52](https://news.ycombinator.com/item?id=45476071) - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
 * [2025-10-04, 19:27:01](https://news.ycombinator.com/item?id=45475951) - [New Poll: Democratic Socialism Is Now Mainstream](https://jacobin.com/2025/09/new-poll-democratic-socialism-mainstream/)
+* [2025-10-04, 19:08:46](https://news.ycombinator.com/item?id=45475808) - [Blog Feeds](https://blogfeeds.net)
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [Use theorem provers to ensure the correctness of your LLM's reasoning](https://github.com/DebarghaG/proofofthought)
 * [2025-10-04, 18:34:13](https://news.ycombinator.com/item?id=45475528) - [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
 * [2025-10-04, 17:30:29](https://news.ycombinator.com/item?id=45475039) - [Discord data hacked in latest customer service breach to expose user information](https://www.tomshardware.com/video-games/pc-gaming/discord-data-hacked-in-latest-customer-service-breach-to-expose-user-information-hackers-gained-access-via-third-party-support-systems-but-didnt-steal-passwords)
