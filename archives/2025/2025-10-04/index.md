@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 21:22:11](https://news.ycombinator.com/item?id=45476821) - [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
 * [2025-10-04, 21:22:05](https://news.ycombinator.com/item?id=45476820) - [$912 energy independence without red tape](https://sunboxlabs.com/)
 * [2025-10-04, 21:14:35](https://news.ycombinator.com/item?id=45476773) - [New California law restricts HOA fines to $100 per violation](https://calmatters.org/politics/2025/10/california-hoas-fines-capped/)
 * [2025-10-04, 20:37:58](https://news.ycombinator.com/item?id=45476490) - [Man buys used Tesla only to discover it's banned from Supercharger network](https://www.cbsnews.com/chicago/news/used-tesla-banned-supercharger-network-daniel-boycott/)
