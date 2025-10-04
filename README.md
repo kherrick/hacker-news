@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-04, 08:02:48](https://news.ycombinator.com/item?id=45471573) - [Cloudflare Introduces NET Dollar stable coin](https://www.cloudflare.com/en-au/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/)
 * [2025-10-04, 06:49:58](https://news.ycombinator.com/item?id=45471136) - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 * [2025-10-04, 05:51:56](https://news.ycombinator.com/item?id=45470842) - [Optimizing a 6502 image decoder – part II: assembly](https://www.colino.net/wordpress/en/archives/2025/10/03/optimizing-a-6502-image-decoder-part-ii-assembly/)
 * [2025-10-04, 03:11:28](https://news.ycombinator.com/item?id=45470206) - [Toyota runs a car-hacking event to boost security (2024)](https://toyotatimes.jp/en/spotlights/1061.html)
@@ -19,6 +18,7 @@
 * [2025-10-03, 16:18:29](https://news.ycombinator.com/item?id=45464632) - [Cancellations in async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 * [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-03, 14:18:56](https://news.ycombinator.com/item?id=45463319) - [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
+* [2025-10-03, 14:13:03](https://news.ycombinator.com/item?id=45463251) - [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it's at://](https://overreacted.io/where-its-at/)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 07:12:18](https://news.ycombinator.com/item?id=45447057) - [Old Stockholm Telephone Tower](https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower)
