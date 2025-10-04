@@ -80,6 +80,7 @@
 * [2025-09-30, 06:23:31](https://news.ycombinator.com/item?id=45422514) - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
 * [2025-09-30, 06:23:05](https://news.ycombinator.com/item?id=45422512) - [European Union Public Licence (EUPL)](https://eupl.eu/)
 * [2025-09-30, 05:53:25](https://news.ycombinator.com/item?id=45422353) - [The ABS Programming Language](https://www.abs-lang.org/)
+* [2025-09-30, 05:46:34](https://news.ycombinator.com/item?id=45422315) - [Discrete Fourier Transform](https://nima101.github.io/dft)
 * [2025-09-30, 05:40:02](https://news.ycombinator.com/item?id=45422273) - [People may age faster if their dad smoked during puberty](https://www.ersnet.org/news-and-features/news/people-may-age-faster-if-their-dad-smoked-during-puberty/)
 * [2025-09-30, 05:15:40](https://news.ycombinator.com/item?id=45422147) - [Fluid Glass](https://chiuhans111.github.io/fluidglass/)
 * [2025-09-30, 04:14:13](https://news.ycombinator.com/item?id=45421812) - [AI tools I wish existed](https://sharif.io/28-ideas-2025)
