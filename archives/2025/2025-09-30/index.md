@@ -13,6 +13,7 @@
 * [2025-09-30, 21:14:29](https://news.ycombinator.com/item?id=45431342) - [U.S. Army confirms Tesla Cybertruck can't be imported in Europe](https://electrek.co/2025/09/30/u-s-army-confirms-tesla-cybertruck-cant-be-imported-in-europe/)
 * [2025-09-30, 21:08:28](https://news.ycombinator.com/item?id=45431271) - [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272)
 * [2025-09-30, 20:58:52](https://news.ycombinator.com/item?id=45431167) - [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
+* [2025-09-30, 20:54:45](https://news.ycombinator.com/item?id=45431115) - [Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS](https://benbridle.com/projects/cobalt.html)
 * [2025-09-30, 20:49:34](https://news.ycombinator.com/item?id=45431047) - [Observation and Trauma: How Professionals Handle Observing Trauma](https://trainedobserver.substack.com/p/observation-and-trauma)
 * [2025-09-30, 20:44:30](https://news.ycombinator.com/item?id=45431001) - [Atuin Desktop: Runbooks That Run – Now Open Source](https://blog.atuin.sh/atuin-desktop-open-source/)
 * [2025-09-30, 20:09:44](https://news.ycombinator.com/item?id=45430604) - [Diff Algorithms](https://flo.znkr.io/diff/)
