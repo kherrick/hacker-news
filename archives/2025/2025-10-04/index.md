@@ -4,5 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 01:09:37](https://news.ycombinator.com/item?id=45469579) - [AI predicts antibiotic's IBD mechanism–scientists later confirm](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
+* [2025-10-04, 00:45:40](https://news.ycombinator.com/item?id=45469468) - [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
 * [2025-10-04, 00:39:14](https://news.ycombinator.com/item?id=45469437) - [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
+* [2025-10-04, 00:39:04](https://news.ycombinator.com/item?id=45469436) - [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
 * [2025-10-04, 00:19:02](https://news.ycombinator.com/item?id=45469285) - [Binary Formats Gallery](https://formats.kaitai.io/)
