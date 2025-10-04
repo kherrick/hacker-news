@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-10-04, 19:27:01",
-      "https://news.ycombinator.com/item?id=45475951"
+      "2025-10-04, 20:07:11",
+      "https://news.ycombinator.com/item?id=45476273"
     ],
     [
-      "New Poll: Democratic Socialism Is Now Mainstream",
-      "https://jacobin.com/2025/09/new-poll-democratic-socialism-mainstream/"
+      "The UK Is Still Trying to Backdoor Encryption for Apple Users",
+      "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 19:40:52",
+      "https://news.ycombinator.com/item?id=45476071"
+    ],
+    [
+      "Why NetNewsWire Is Not a Web App",
+      "https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 19:08:46",
+      "https://news.ycombinator.com/item?id=45475808"
+    ],
+    [
+      "Blog Feeds",
+      "https://blogfeeds.net"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45475529"
     ],
     [
-      "Use theorem provers to ensure the correctness of your LLM's reasoning",
+      "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
       "https://github.com/DebarghaG/proofofthought"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45473861"
     ],
     [
-      "A Comparison of Ada and Rust, Using Solutions to the Advent of Code",
+      "A comparison of Ada and Rust, using solutions to the Advent of Code",
       "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45473730"
     ],
     [
-      "Self-Hosting Email Like It's 1984",
+      "Self-hosting email like it's 1984",
       "https://maxadamski.com/blog/2025/10/email.html"
     ]
   ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-10-03, 19:08:11",
-      "https://news.ycombinator.com/item?id=45466588"
-    ],
-    [
-      "Jules, remote coding agent from Google Labs, announces API",
-      "https://jules.google/docs/changelog/"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 18:24:58",
       "https://news.ycombinator.com/item?id=45466086"
     ],
     [
       "PEP 810 – Explicit lazy imports",
       "https://pep-previews--4622.org.readthedocs.build/pep-0810/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 16:00:00",
-      "https://news.ycombinator.com/item?id=45464429"
-    ],
-    [
-      "Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits",
-      "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2025-10-02, 07:12:18",
-      "https://news.ycombinator.com/item?id=45447057"
+      "2025-10-01, 17:05:38",
+      "https://news.ycombinator.com/item?id=45440180"
     ],
     [
-      "Old Stockholm Telephone Tower",
-      "https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower"
+      "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
+      "https://github.com/lsartory/Clavier"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=45437044"
     ],
     [
-      "Five Years as a Startup CTO: How, Why, and Was It Worth It?",
+      "Five years as a startup CTO: How, why, and was it worth it? (2024)",
       "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/"
     ]
   ],
