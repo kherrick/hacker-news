@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-04, 13:01:24",
+      "https://news.ycombinator.com/item?id=45473006"
+    ],
+    [
+      "Amazon Is Digitally Erasing Guns from James Bond Posters",
+      "https://kotaku.com/james-bond-amazon-guns-halo-remake-gaming-news-2000631492"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 12:23:40",
+      "https://news.ycombinator.com/item?id=45472799"
+    ],
+    [
+      "Google removes ICE-spotting app following Apple's ICEBlock crackdown",
+      "https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 12:16:37",
+      "https://news.ycombinator.com/item?id=45472765"
+    ],
+    [
+      "Thunderscan: A clever device transforms a printer into a scanner",
+      "https://www.folklore.org/Thunderscan.html"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 11:58:58",
       "https://news.ycombinator.com/item?id=45472678"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2025-10-03, 19:47:53",
-      "https://news.ycombinator.com/item?id=45467032"
-    ],
-    [
-      "Arenas in Rust",
-      "https://russellw.github.io/arenas"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 19:08:11",
       "https://news.ycombinator.com/item?id=45466588"
     ],
@@ -137,16 +157,6 @@
     [
       "PEP 810 – Explicit lazy imports",
       "https://pep-previews--4622.org.readthedocs.build/pep-0810/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 16:18:29",
-      "https://news.ycombinator.com/item?id=45464632"
-    ],
-    [
-      "Cancellations in async Rust",
-      "https://sunshowers.io/posts/cancelling-async-rust/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Old Stockholm Telephone Tower",
       "https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 14:06:45",
-      "https://news.ycombinator.com/item?id=45437903"
-    ],
-    [
-      "The Temporal Dead Zone, or why the TypeScript codebase is full of var statements",
-      "https://vincentrolfs.dev/blog/ts-var"
     ]
   ],
   [
