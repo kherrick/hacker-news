@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-04, 01:09:37",
+      "https://news.ycombinator.com/item?id=45469579"
+    ],
+    [
+      "AI predicts antibiotic's IBD mechanism–scientists later confirm",
+      "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 00:45:40",
+      "https://news.ycombinator.com/item?id=45469468"
+    ],
+    [
+      "Track which Electron apps slow down macOS 26 Tahoe",
+      "https://avarayr.github.io/shamelectron/"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 00:39:14",
       "https://news.ycombinator.com/item?id=45469437"
     ],
     [
       "Sora Update #1",
       "https://blog.samaltman.com/sora-update-number-1"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 00:39:04",
+      "https://news.ycombinator.com/item?id=45469436"
+    ],
+    [
+      "Discord customer service data breach leaks user info and scanned photo IDs",
+      "https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-10-03, 14:13:03",
-      "https://news.ycombinator.com/item?id=45463251"
-    ],
-    [
-      "Webbol: A minimal static web server written in COBOL",
-      "https://github.com/jmsdnns/webbol"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 11:08:42",
       "https://news.ycombinator.com/item?id=45461500"
     ],
@@ -227,26 +247,6 @@
     [
       "Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)",
       "https://salykova.github.io/gemm-cpu"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 21:29:29",
-      "https://news.ycombinator.com/item?id=45431489"
-    ],
-    [
-      "Pre-Emptive Multi-Tasking on Arm Cortex-M",
-      "https://thejpster.org.uk/blog/blog-2025-09-28/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 16:41:25",
-      "https://news.ycombinator.com/item?id=45427774"
-    ],
-    [
-      "A B+ tree node underflows: merge or borrow?",
-      "https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/"
     ]
   ],
   [
