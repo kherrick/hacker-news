@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-04, 22:14:29",
+      "https://news.ycombinator.com/item?id=45477192"
+    ],
+    [
+      "OpenAI's hunger for computing power has Sam Altman dashing around the globe",
+      "https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 22:02:28",
+      "https://news.ycombinator.com/item?id=45477118"
+    ],
+    [
+      "XiangShan Vector Floating-Point Unit Design",
+      "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 21:22:11",
       "https://news.ycombinator.com/item?id=45476821"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-10-04, 11:44:15",
-      "https://news.ycombinator.com/item?id=45472614"
-    ],
-    [
-      "Scientists are discovering a powerful new way to prevent cancer",
-      "https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer"
-    ]
-  ],
-  [
-    [
       "2025-10-04, 10:38:06",
       "https://news.ycombinator.com/item?id=45472319"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-10-04, 01:09:37",
-      "https://news.ycombinator.com/item?id=45469579"
-    ],
-    [
-      "New antibiotic targets IBD and AI predicted how it would work",
-      "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 22:45:28",
       "https://news.ycombinator.com/item?id=45468698"
     ],
@@ -187,16 +187,6 @@
     [
       "Offline card payments should be possible no later than 1 July 2026",
       "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 18:24:58",
-      "https://news.ycombinator.com/item?id=45466086"
-    ],
-    [
-      "PEP 810 – Explicit lazy imports",
-      "https://peps.python.org/pep-0810/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Systems Programming with Zig",
       "https://www.manning.com/books/systems-programming-with-zig"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 09:20:43",
+      "https://news.ycombinator.com/item?id=45435819"
+    ],
+    [
+      "The Art of Color... Science?",
+      "https://nikonrumors.com/2025/09/30/the-art-of-color-science.aspx/"
     ]
   ],
   [
