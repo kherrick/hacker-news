@@ -55,6 +55,7 @@
 * [2025-10-01, 13:38:36](https://news.ycombinator.com/item?id=45437594) - [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
 * [2025-10-01, 13:14:48](https://news.ycombinator.com/item?id=45437326) - [Minimal files and config for a PWA (including a single file PWA)](https://github.com/chr15m/minimal-pwa)
 * [2025-10-01, 13:14:32](https://news.ycombinator.com/item?id=45437323) - [Uxntal: A programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
+* [2025-10-01, 12:56:37](https://news.ycombinator.com/item?id=45437135) - [The Crete Fleet – Concrete Tugs and Barges from WWI](https://thecretefleet.com)
 * [2025-10-01, 12:54:37](https://news.ycombinator.com/item?id=45437113) - [LLMs Are the Ultimate Demoware](https://blog.charliemeyer.co/llms-are-the-ultimate-demoware/)
 * [2025-10-01, 12:54:17](https://news.ycombinator.com/item?id=45437112) - [Detect Electron apps on Mac that hasn't been updated to fix the system wide lag](https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58)
 * [2025-10-01, 12:50:49](https://news.ycombinator.com/item?id=45437081) - [No Figma, I won't fit in your little box](https://blog.nordcraft.com/no-figma-i-wont-fit-in-your-little-box)
