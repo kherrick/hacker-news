@@ -74,6 +74,7 @@
 * [2025-10-01, 09:22:10](https://news.ycombinator.com/item?id=45435825) - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
 * [2025-10-01, 09:14:45](https://news.ycombinator.com/item?id=45435780) - [Self-hosting email in 2025 is easy actually (apart from M365)](https://mastodon.social/@whitequark/115298019560025791)
 * [2025-10-01, 09:04:10](https://news.ycombinator.com/item?id=45435720) - [Pre-Record Your Demos](https://www.steveharrison.dev/pre-record-your-demos/)
+* [2025-10-01, 08:56:31](https://news.ycombinator.com/item?id=45435681) - [Angular Signal-Based Architecture: Building a Smarter Shopping Cart](https://blog.appsignal.com/2025/10/01/angular-signal-based-architecture-building-a-smarter-shopping-cart.html)
 * [2025-10-01, 08:55:08](https://news.ycombinator.com/item?id=45435677) - [Copper Workers' Experiments Might Have Helped Usher in Iron Age](https://archaeology.org/news/2025/09/30/copper-workers-experiments-might-have-helped-usher-in-iron-age/)
 * [2025-10-01, 08:41:08](https://news.ycombinator.com/item?id=45435608) - [Radicle: Peer-to-Peer Collaboration with Git (2024)](https://lwn.net/Articles/966869/)
 * [2025-10-01, 08:06:50](https://news.ycombinator.com/item?id=45435463) - [I only use Google Sheets](https://mayberay.bearblog.dev/why-i-only-use-google-sheets/)
