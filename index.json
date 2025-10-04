@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-04, 16:19:04",
+      "https://news.ycombinator.com/item?id=45474441"
+    ],
+    [
+      "Privacy Harm Is Harm",
+      "https://www.eff.org/deeplinks/2025/10/privacy-harm-harm"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 15:10:49",
       "https://news.ycombinator.com/item?id=45473861"
     ],
@@ -37,16 +47,6 @@
     [
       "Flock's gunshot detection microphones will start listening for human voices",
       "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices"
-    ]
-  ],
-  [
-    [
-      "2025-10-04, 13:20:15",
-      "https://news.ycombinator.com/item?id=45473126"
-    ],
-    [
-      "It's not a hack to satisfy known requirements",
-      "https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-10-01, 12:45:52",
+      "https://news.ycombinator.com/item?id=45437044"
+    ],
+    [
+      "Five Years as a Startup CTO: How, Why, and Was It Worth It?",
+      "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 10:51:37",
       "https://news.ycombinator.com/item?id=45436289"
     ],
@@ -287,16 +297,6 @@
     [
       "Fluid Glass",
       "https://chiuhans111.github.io/fluidglass/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 17:52:17",
-      "https://news.ycombinator.com/item?id=45416706"
-    ],
-    [
-      "LoRA Without Regret",
-      "https://thinkingmachines.ai/blog/lora/"
     ]
   ]
 ]
