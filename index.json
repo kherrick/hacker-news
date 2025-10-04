@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-04, 06:49:58",
+      "https://news.ycombinator.com/item?id=45471136"
+    ],
+    [
+      "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
+      "https://essenceia.github.io/projects/alibaba_cloud_fpga/"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 05:51:56",
       "https://news.ycombinator.com/item?id=45470842"
     ],
@@ -117,16 +127,6 @@
     [
       "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
       "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 19:47:53",
-      "https://news.ycombinator.com/item?id=45467032"
-    ],
-    [
-      "Arenas in Rust",
-      "https://russellw.github.io/arenas"
     ]
   ],
   [
