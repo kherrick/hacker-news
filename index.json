@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-04, 18:34:23",
+      "https://news.ycombinator.com/item?id=45475529"
+    ],
+    [
+      "Use theorem provers to ensure the correctness of your LLM's reasoning",
+      "https://github.com/DebarghaG/proofofthought"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 17:30:29",
       "https://news.ycombinator.com/item?id=45475039"
     ],
@@ -157,16 +167,6 @@
     [
       "Offline card payments should be possible no later than 1 July 2026",
       "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 19:08:11",
-      "https://news.ycombinator.com/item?id=45466588"
-    ],
-    [
-      "Jules, remote coding agent from Google Labs, announces API",
-      "https://jules.google/docs/changelog/"
     ]
   ],
   [
