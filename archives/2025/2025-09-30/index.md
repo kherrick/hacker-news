@@ -30,6 +30,7 @@
 * [2025-09-30, 16:57:07](https://news.ycombinator.com/item?id=45428020) - [Genomic analyses of hair from Ludwig van Beethoven](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1)
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Sora 2](https://openai.com/index/sora-2/)
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Introducing Sora 2 [video]](https://www.youtube.com/watch?v=gzneGhpXwjU)
+* [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 * [2025-09-30, 16:43:47](https://news.ycombinator.com/item?id=45427809) - [The Dismantling of the Forest Service](https://www.hcn.org/articles/trump-looks-to-dismantle-the-forest-service/)
 * [2025-09-30, 16:41:25](https://news.ycombinator.com/item?id=45427774) - [A B+Tree Node Underflows: Merge or Borrow?](https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/)
 * [2025-09-30, 16:35:16](https://news.ycombinator.com/item?id=45427697) - [Show HN: Sculptor, the Missing UI for Claude Code](https://imbue.com/sculptor/)
