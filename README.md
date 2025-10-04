@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-04, 20:37:58](https://news.ycombinator.com/item?id=45476490) - [Man buys used Tesla only to discover it's banned from Supercharger network](https://www.cbsnews.com/chicago/news/used-tesla-banned-supercharger-network-daniel-boycott/)
 * [2025-10-04, 20:07:11](https://news.ycombinator.com/item?id=45476273) - [The UK is still trying to backdoor encryption for Apple users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
 * [2025-10-04, 19:08:46](https://news.ycombinator.com/item?id=45475808) - [Blog Feeds](https://blogfeeds.net)
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
@@ -10,7 +11,6 @@
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A comparison of Ada and Rust, using solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
 * [2025-10-04, 15:09:41](https://news.ycombinator.com/item?id=45473852) - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
 * [2025-10-04, 14:53:32](https://news.ycombinator.com/item?id=45473730) - [Self-hosting email like it's 1984](https://maxadamski.com/blog/2025/10/email.html)
-* [2025-10-04, 14:49:30](https://news.ycombinator.com/item?id=45473698) - [Flock's gunshot detection microphones will start listening for human voices](https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices)
 * [2025-10-04, 13:04:15](https://news.ycombinator.com/item?id=45473019) - [How functional programming shaped and twisted front end development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html)
 * [2025-10-04, 12:16:37](https://news.ycombinator.com/item?id=45472765) - [Thunderscan: A clever device transforms a printer into a scanner (2004)](https://www.folklore.org/Thunderscan.html)
 * [2025-10-04, 11:58:58](https://news.ycombinator.com/item?id=45472678) - [The Buchstabenmuseum Berlin is closing](https://www.buchstabenmuseum.de/en/)
