@@ -26,10 +26,10 @@
 * [2025-10-01, 05:49:14](https://news.ycombinator.com/item?id=45434678) - [The Architecture of Learning: From Statistics to Intelligence](https://little-book-of.github.io/maths/books/en-US/chronicles-8.html)
 * [2025-10-01, 03:15:23](https://news.ycombinator.com/item?id=45433936) - [Baseball durations after the pitch clock](https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/)
 * [2025-09-30, 20:54:45](https://news.ycombinator.com/item?id=45431115) - [Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS](https://benbridle.com/projects/cobalt.html)
+* [2025-09-30, 18:53:12](https://news.ycombinator.com/item?id=45429590) - [Time needed to factor large integers](https://www.johndcook.com/blog/2025/09/30/time-needed-to-factor-large-integers/)
 * [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 * [2025-09-30, 08:57:11](https://news.ycombinator.com/item?id=45423404) - [Open Printer – Inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 * [2025-09-30, 05:15:40](https://news.ycombinator.com/item?id=45422147) - [Fluid Glass](https://chiuhans111.github.io/fluidglass/)
-* [2025-09-29, 17:52:17](https://news.ycombinator.com/item?id=45416706) - [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
 
 ## [Archives](archives/index.md)
 
