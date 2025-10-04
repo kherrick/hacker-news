@@ -19,7 +19,7 @@
 * [2025-10-03, 16:18:29](https://news.ycombinator.com/item?id=45464632) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 * [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-03, 14:18:56](https://news.ycombinator.com/item?id=45463319) - [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
-* [2025-10-03, 11:08:42](https://news.ycombinator.com/item?id=45461500) - [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
+* [2025-10-03, 14:13:03](https://news.ycombinator.com/item?id=45463251) - [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it's at://](https://overreacted.io/where-its-at/)
 * [2025-10-02, 19:02:57](https://news.ycombinator.com/item?id=45453936) - [Litestream v0.5.0](https://fly.io/blog/litestream-v050-is-here/)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
