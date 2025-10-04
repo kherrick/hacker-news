@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-04, 18:34:13",
+      "https://news.ycombinator.com/item?id=45475528"
+    ],
+    [
+      "Show HN: Run – a CLI universal code runner I built while learning Rust",
+      "https://github.com/Esubaalew/run"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 17:18:07",
       "https://news.ycombinator.com/item?id=45474900"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-10-04, 03:11:28",
-      "https://news.ycombinator.com/item?id=45470206"
-    ],
-    [
-      "Toyota runs a car-hacking event to boost security (2024)",
-      "https://toyotatimes.jp/en/spotlights/1061.html"
-    ]
-  ],
-  [
-    [
       "2025-10-04, 01:09:37",
       "https://news.ycombinator.com/item?id=45469579"
     ],
@@ -177,16 +177,6 @@
     [
       "PEP 810 – Explicit lazy imports",
       "https://pep-previews--4622.org.readthedocs.build/pep-0810/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 16:49:57",
-      "https://news.ycombinator.com/item?id=45464984"
-    ],
-    [
-      "The collapse of the econ PhD job market",
-      "https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Fluid Glass",
       "https://chiuhans111.github.io/fluidglass/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 17:52:17",
+      "https://news.ycombinator.com/item?id=45416706"
+    ],
+    [
+      "LoRA Without Regret",
+      "https://thinkingmachines.ai/blog/lora/"
     ]
   ]
 ]
