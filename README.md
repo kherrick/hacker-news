@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-04, 13:06:32](https://news.ycombinator.com/item?id=45473033) - [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
-* [2025-10-04, 13:01:24](https://news.ycombinator.com/item?id=45473006) - [Amazon Is Digitally Erasing Guns from James Bond Posters](https://kotaku.com/james-bond-amazon-guns-halo-remake-gaming-news-2000631492)
 * [2025-10-04, 12:23:40](https://news.ycombinator.com/item?id=45472799) - [Google removes ICE-spotting app following Apple's ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)
 * [2025-10-04, 12:16:37](https://news.ycombinator.com/item?id=45472765) - [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
 * [2025-10-04, 11:58:58](https://news.ycombinator.com/item?id=45472678) - [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/)
@@ -10,6 +9,7 @@
 * [2025-10-04, 06:49:58](https://news.ycombinator.com/item?id=45471136) - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 * [2025-10-04, 03:11:28](https://news.ycombinator.com/item?id=45470206) - [Toyota runs a car-hacking event to boost security (2024)](https://toyotatimes.jp/en/spotlights/1061.html)
 * [2025-10-04, 01:09:37](https://news.ycombinator.com/item?id=45469579) - [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
+* [2025-10-04, 00:39:14](https://news.ycombinator.com/item?id=45469437) - [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
 * [2025-10-03, 22:45:28](https://news.ycombinator.com/item?id=45468698) - [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster)
 * [2025-10-03, 20:36:03](https://news.ycombinator.com/item?id=45467500) - [Offline card payments should be possible no later than 1 July 2026](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
 * [2025-10-03, 20:01:36](https://news.ycombinator.com/item?id=45467166) - [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
