@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-04, 06:49:58](https://news.ycombinator.com/item?id=45471136) - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 * [2025-10-04, 05:51:56](https://news.ycombinator.com/item?id=45470842) - [Optimizing a 6502 image decoder – part II: assembly](https://www.colino.net/wordpress/en/archives/2025/10/03/optimizing-a-6502-image-decoder-part-ii-assembly/)
 * [2025-10-04, 04:25:54](https://news.ycombinator.com/item?id=45470513) - [Starship's eleventh flight test](https://www.spacex.com/launches/starship-flight-11)
 * [2025-10-04, 03:11:28](https://news.ycombinator.com/item?id=45470206) - [Toyota runs a car-hacking event to boost security (2024)](https://toyotatimes.jp/en/spotlights/1061.html)
@@ -12,7 +13,6 @@
 * [2025-10-03, 20:40:52](https://news.ycombinator.com/item?id=45467543) - [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
 * [2025-10-03, 20:36:03](https://news.ycombinator.com/item?id=45467500) - [Offline card payments should be possible no later than 1 July 2026](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
 * [2025-10-03, 20:01:36](https://news.ycombinator.com/item?id=45467166) - [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
-* [2025-10-03, 19:47:53](https://news.ycombinator.com/item?id=45467032) - [Arenas in Rust](https://russellw.github.io/arenas)
 * [2025-10-03, 19:08:11](https://news.ycombinator.com/item?id=45466588) - [Jules, remote coding agent from Google Labs, announces API](https://jules.google/docs/changelog/)
 * [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
 * [2025-10-03, 16:18:29](https://news.ycombinator.com/item?id=45464632) - [Cancellations in async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
