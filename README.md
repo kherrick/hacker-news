@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-04, 21:22:05](https://news.ycombinator.com/item?id=45476820) - [$912 energy independence without red tape](https://sunboxlabs.com/)
-* [2025-10-04, 21:14:35](https://news.ycombinator.com/item?id=45476773) - [New California law restricts HOA fines to $100 per violation](https://calmatters.org/politics/2025/10/california-hoas-fines-capped/)
 * [2025-10-04, 20:07:11](https://news.ycombinator.com/item?id=45476273) - [The UK is still trying to backdoor encryption for Apple users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
 * [2025-10-04, 19:08:46](https://news.ycombinator.com/item?id=45475808) - [Blog Feeds](https://blogfeeds.net)
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
@@ -20,6 +19,7 @@
 * [2025-10-03, 22:45:28](https://news.ycombinator.com/item?id=45468698) - [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster)
 * [2025-10-03, 20:36:03](https://news.ycombinator.com/item?id=45467500) - [Offline card payments should be possible no later than 1 July 2026](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
 * [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://peps.python.org/pep-0810/)
+* [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it's at://](https://overreacted.io/where-its-at/)
 * [2025-10-01, 21:15:44](https://news.ycombinator.com/item?id=45443662) - [Study confirms that pianists can shape piano timbre through touch](https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/)
 * [2025-10-01, 17:05:38](https://news.ycombinator.com/item?id=45440180) - [Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces](https://github.com/lsartory/Clavier)
