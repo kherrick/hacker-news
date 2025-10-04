@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 13:01:24](https://news.ycombinator.com/item?id=45473006) - [Amazon Is Digitally Erasing Guns from James Bond Posters](https://kotaku.com/james-bond-amazon-guns-halo-remake-gaming-news-2000631492)
+* [2025-10-04, 12:23:40](https://news.ycombinator.com/item?id=45472799) - [Google removes ICE-spotting app following Apple's ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)
+* [2025-10-04, 12:16:37](https://news.ycombinator.com/item?id=45472765) - [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
 * [2025-10-04, 11:58:58](https://news.ycombinator.com/item?id=45472678) - [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/)
 * [2025-10-04, 11:44:15](https://news.ycombinator.com/item?id=45472614) - [Scientists are discovering a powerful new way to prevent cancer (Economist)](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer)
 * [2025-10-04, 10:38:06](https://news.ycombinator.com/item?id=45472319) - [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf)
