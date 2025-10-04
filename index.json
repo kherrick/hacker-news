@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-10-03, 14:13:03",
+      "https://news.ycombinator.com/item?id=45463251"
+    ],
+    [
+      "Webbol: A minimal static web server written in COBOL",
+      "https://github.com/jmsdnns/webbol"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 20:31:43",
       "https://news.ycombinator.com/item?id=45455164"
     ],
@@ -227,16 +237,6 @@
     [
       "Systems Programming with Zig (Book)",
       "https://www.manning.com/books/systems-programming-with-zig"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 07:31:27",
-      "https://news.ycombinator.com/item?id=45435272"
-    ],
-    [
-      "Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)",
-      "https://salykova.github.io/gemm-cpu"
     ]
   ],
   [
