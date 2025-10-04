@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 22:18:06](https://news.ycombinator.com/item?id=45477215) - [How do drivers react to partisan bumper stickers?](https://www.frontiersin.org/articles/10.3389/fpos.2025.1617785)
 * [2025-10-04, 22:14:29](https://news.ycombinator.com/item?id=45477192) - [OpenAI's hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
 * [2025-10-04, 22:02:28](https://news.ycombinator.com/item?id=45477118) - [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
 * [2025-10-04, 21:22:11](https://news.ycombinator.com/item?id=45476821) - [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
