@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-04, 17:30:29",
+      "https://news.ycombinator.com/item?id=45475039"
+    ],
+    [
+      "Discord data hacked in latest customer service breach to expose user information",
+      "https://www.tomshardware.com/video-games/pc-gaming/discord-data-hacked-in-latest-customer-service-breach-to-expose-user-information-hackers-gained-access-via-third-party-support-systems-but-didnt-steal-passwords"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 17:18:07",
+      "https://news.ycombinator.com/item?id=45474900"
+    ],
+    [
+      "Knowledge Infusion Scaling Law for Pre-Training Large Language Models",
+      "https://arxiv.org/abs/2509.19371"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 16:19:04",
       "https://news.ycombinator.com/item?id=45474441"
     ],
@@ -47,16 +67,6 @@
     [
       "Flock's gunshot detection microphones will start listening for human voices",
       "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices"
-    ]
-  ],
-  [
-    [
-      "2025-10-04, 13:06:32",
-      "https://news.ycombinator.com/item?id=45473033"
-    ],
-    [
-      "Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?",
-      "https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-10-03, 20:01:36",
-      "https://news.ycombinator.com/item?id=45467166"
-    ],
-    [
-      "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
-      "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 19:08:11",
       "https://news.ycombinator.com/item?id=45466588"
     ],
@@ -177,6 +177,16 @@
     [
       "PEP 810 – Explicit lazy imports",
       "https://pep-previews--4622.org.readthedocs.build/pep-0810/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 16:49:57",
+      "https://news.ycombinator.com/item?id=45464984"
+    ],
+    [
+      "The collapse of the econ PhD job market",
+      "https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The Architecture of Learning: From Statistics to Intelligence",
       "https://little-book-of.github.io/maths/books/en-US/chronicles-8.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 03:15:23",
-      "https://news.ycombinator.com/item?id=45433936"
-    ],
-    [
-      "Baseball durations after the pitch clock",
-      "https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/"
     ]
   ],
   [
