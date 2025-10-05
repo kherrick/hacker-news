@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany Embraces Balkonkraftwerke – Balcony Solar for Apartments – CleanTechnica](https://cleantechnica.com/2024/12/21/germany-embraces-balkonkraftwerke-balcony-solar-for-apartments/)
 * [2025-10-05, 22:10:15](https://news.ycombinator.com/item?id=45485736) - [Ken Parker, famed luthier, has passed](https://kenparkerarchtops.com)
 * [2025-10-05, 21:44:01](https://news.ycombinator.com/item?id=45485546) - [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky)
 * [2025-10-05, 21:26:25](https://news.ycombinator.com/item?id=45485440) - [Wine 10.16 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.16)

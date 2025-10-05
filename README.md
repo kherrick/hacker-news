@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany Embraces Balkonkraftwerke – Balcony Solar for Apartments – CleanTechnica](https://cleantechnica.com/2024/12/21/germany-embraces-balkonkraftwerke-balcony-solar-for-apartments/)
 * [2025-10-05, 22:10:15](https://news.ycombinator.com/item?id=45485736) - [Ken Parker, famed luthier, has passed](https://kenparkerarchtops.com)
 * [2025-10-05, 21:44:01](https://news.ycombinator.com/item?id=45485546) - [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky)
 * [2025-10-05, 20:55:26](https://news.ycombinator.com/item?id=45485175) - [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
@@ -21,7 +22,6 @@
 * [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
 * [2025-10-05, 05:20:08](https://news.ycombinator.com/item?id=45479006) - [Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
 * [2025-10-05, 04:11:55](https://news.ycombinator.com/item?id=45478780) - [Ambigr.am](https://ambigr.am/hall-of-fame)
-* [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
 * [2025-10-03, 02:59:18](https://news.ycombinator.com/item?id=45458455) - [Which table format do LLMs understand best?](https://www.improvingagents.com/blog/best-input-data-format-for-llms)
 * [2025-10-03, 00:08:51](https://news.ycombinator.com/item?id=45457143) - [Connecticut Trail Census Dashboard (2025)](https://experience.arcgis.com/experience/04f19d6c0a634a188cad8bbf7e8475ba/page/Page-1?draft=true&views=-2025)
 * [2025-10-02, 20:13:53](https://news.ycombinator.com/item?id=45454940) - [Why are hyperlinks blue? (2021)](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
