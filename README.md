@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-05, 06:01:24](https://news.ycombinator.com/item?id=45479165) - [Social Cooling](https://www.socialcooling.com/)
 * [2025-10-05, 05:47:55](https://news.ycombinator.com/item?id=45479103) - [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
 * [2025-10-05, 05:20:08](https://news.ycombinator.com/item?id=45479006) - [Anthropic Release Memory API](https://www.anthropic.com/news/context-management)
 * [2025-10-05, 04:11:55](https://news.ycombinator.com/item?id=45478780) - [Ambigr.am](https://ambigr.am/hall-of-fame)
@@ -28,7 +29,6 @@
 * [2025-10-01, 16:27:32](https://news.ycombinator.com/item?id=45439684) - [The best worst hack that saved our bacon](https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/)
 * [2025-10-01, 15:16:44](https://news.ycombinator.com/item?id=45438713) - [Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]](https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf)
 * [2025-10-01, 08:40:35](https://news.ycombinator.com/item?id=45435606) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
-* [2025-09-30, 20:54:45](https://news.ycombinator.com/item?id=45431115) - [Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS](https://benbridle.com/projects/cobalt.html)
 * [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 
 ## [Archives](archives/index.md)
