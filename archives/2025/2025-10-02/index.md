@@ -25,6 +25,7 @@
 * [2025-10-02, 17:01:16](https://news.ycombinator.com/item?id=45452299) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
 * [2025-10-02, 16:58:55](https://news.ycombinator.com/item?id=45452261) - [Why I chose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
 * [2025-10-02, 16:48:59](https://news.ycombinator.com/item?id=45452149) - [Linux Desktop on Apple Silicon in Practice](https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5)
+* [2025-10-02, 16:41:19](https://news.ycombinator.com/item?id=45452033) - [Megafauna was the meat of choice for South American hunters](https://arstechnica.com/science/2025/10/ice-age-hunters-in-south-america-preferred-now-extinct-megafauna/)
 * [2025-10-02, 16:37:20](https://news.ycombinator.com/item?id=45451971) - [Y'all are over-complicating these AI-risk arguments](https://dynomight.net/ai-risk/)
 * [2025-10-02, 16:36:53](https://news.ycombinator.com/item?id=45451961) - [The Atlantic Quantum team is joining Google](https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/)
 * [2025-10-02, 16:10:58](https://news.ycombinator.com/item?id=45451605) - [Tesla Robotaxi Reports 3 Crashes in Austin in July, Hides Details](https://www.forbes.com/sites/bradtempleton/2025/09/18/tesla-robotaxi-reports-3-crashes-in-austin-on-july-1-details-hidden/)
