@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 17:01:19](https://news.ycombinator.com/item?id=45483205) - [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2507.15855)
 * [2025-10-05, 16:13:58](https://news.ycombinator.com/item?id=45482719) - [Lina Khan I told you so: The Activision-Blizzard buyout harms gamers&developers](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)
 * [2025-10-05, 16:00:38](https://news.ycombinator.com/item?id=45482577) - [GoboLinux 017.01 – Passing the Torch](https://gobolinux.org//news/119.html)
 * [2025-10-05, 15:51:08](https://news.ycombinator.com/item?id=45482484) - [If the University of Chicago Won't Defend the Humanities, Who Will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/)
