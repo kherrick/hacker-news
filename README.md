@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-05, 15:01:16](https://news.ycombinator.com/item?id=45482007) - [Remembering Steve Jobs](https://www.macrumors.com/2025/10/05/remembering-steve/)
 * [2025-10-05, 14:11:37](https://news.ycombinator.com/item?id=45481609) - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
 * [2025-10-05, 13:53:41](https://news.ycombinator.com/item?id=45481490) - [I do not want to be a programmer anymore](https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/)
 * [2025-10-05, 13:22:31](https://news.ycombinator.com/item?id=45481298) - [Show HN: Pyscn – Python code quality analyzer for vibe coders](https://github.com/ludo-technologies/pyscn)
 * [2025-10-05, 12:27:11](https://news.ycombinator.com/item?id=45481008) - [86 GB/s bitpacking with ARM SIMD (single thread)](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
 * [2025-10-05, 11:08:25](https://news.ycombinator.com/item?id=45480622) - [The deadline isn't when AI outsmarts us – it's when we stop using our own minds](https://www.theargumentmag.com/p/you-have-18-months)
-* [2025-10-05, 11:07:53](https://news.ycombinator.com/item?id=45480620) - [Laptops create systems. Phones feed algorithms. The asymmetry determines power](https://zakelfassi.com/command-interface-device-power)
 * [2025-10-05, 10:39:12](https://news.ycombinator.com/item?id=45480506) - [Beginner Guide to VPS Hetzner and Coolify](https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide)
 * [2025-10-05, 10:14:40](https://news.ycombinator.com/item?id=45480414) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
 * [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
@@ -26,9 +26,9 @@
 * [2025-10-02, 17:12:57](https://news.ycombinator.com/item?id=45452480) - [Comparing a RISC and a CISC with Similar Hardware Organization (1991)](https://dl.acm.org/doi/pdf/10.1145/106972.107003)
 * [2025-10-01, 23:42:00](https://news.ycombinator.com/item?id=45444926) - [Experimental and Theoretical Confirmation of Covalent Bonding in α-Pu](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202501798)
 * [2025-10-01, 20:08:27](https://news.ycombinator.com/item?id=45442752) - [Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)](https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/)
-* [2025-10-01, 19:32:49](https://news.ycombinator.com/item?id=45442221) - [Leveling Up My Homelab](https://cweagans.net/2025/09/leveling-up-my-homelab/)
 * [2025-10-01, 16:57:11](https://news.ycombinator.com/item?id=45440071) - [Newton: physics simulation engine built upon NVIDIA Warp](https://github.com/newton-physics/newton)
 * [2025-10-01, 16:27:32](https://news.ycombinator.com/item?id=45439684) - [The best worst hack that saved our bacon](https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/)
+* [2025-10-01, 14:42:03](https://news.ycombinator.com/item?id=45438288) - [Show HN: 2D Spine Animation AI for Game](https://www.godmodeai.co/ai-spine-animation)
 * [2025-10-01, 08:40:35](https://news.ycombinator.com/item?id=45435606) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
 
 ## [Archives](archives/index.md)
