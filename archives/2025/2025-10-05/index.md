@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
 * [2025-10-05, 17:50:17](https://news.ycombinator.com/item?id=45483651) - [Callbacks in C++ Using Template Functors – Rich Hickey (1994)](http://www.tutok.sk/fastgl/callback.html)
+* [2025-10-05, 17:36:20](https://news.ycombinator.com/item?id=45483531) - [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
 * [2025-10-05, 17:20:39](https://news.ycombinator.com/item?id=45483386) - [Fire destroys Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 * [2025-10-05, 17:08:19](https://news.ycombinator.com/item?id=45483275) - [Focus Is Saying No](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1)
 * [2025-10-05, 17:01:19](https://news.ycombinator.com/item?id=45483205) - [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522)
