@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 17:20:39",
+      "https://news.ycombinator.com/item?id=45483386"
+    ],
+    [
+      "Fire destroys Korean government's cloud storage system, no backups available",
+      "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 17:08:19",
       "https://news.ycombinator.com/item?id=45483275"
     ],
@@ -17,16 +27,6 @@
     [
       "Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR",
       "https://arxiv.org/abs/2509.02522"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 16:13:58",
-      "https://news.ycombinator.com/item?id=45482719"
-    ],
-    [
-      "Link Khan: Activision-Blizzard buyout is 'harming both gamers and developers'",
-      "https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/"
     ]
   ],
   [
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2025-10-05, 15:34:32",
-      "https://news.ycombinator.com/item?id=45482309"
+      "2025-10-05, 15:12:45",
+      "https://news.ycombinator.com/item?id=45482106"
     ],
     [
-      "Language Agnostic Programming: Why you may still need code",
-      "https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/"
+      "The Demonization of DeepSeek: How NIST Turned Open Science into a Security Scare",
+      "https://erichartford.com/the-demonization-of-deepseek"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-10-05, 11:08:25",
+      "https://news.ycombinator.com/item?id=45480622"
+    ],
+    [
+      "The deadline isn't when AI outsmarts us – it's when we stop using our own minds",
+      "https://www.theargumentmag.com/p/you-have-18-months"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 10:39:12",
       "https://news.ycombinator.com/item?id=45480506"
     ],
@@ -147,16 +157,6 @@
     [
       "Personal data storage is an idea whose time has come",
       "https://blog.muni.town/personal-data-storage-idea/"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 08:12:24",
-      "https://news.ycombinator.com/item?id=45479820"
-    ],
-    [
-      "Benefits of choosing email over messaging",
-      "https://www.spinellis.gr/blog/20250926/?li"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-10-05, 00:51:44",
-      "https://news.ycombinator.com/item?id=45478033"
-    ],
-    [
-      "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
-      "https://github.com/daniellionel01/parrot"
-    ]
-  ],
-  [
-    [
       "2025-10-04, 18:34:23",
       "https://news.ycombinator.com/item?id=45475529"
     ],
@@ -237,6 +227,16 @@
     [
       "Which Table Format Do LLMs Understand Best?",
       "https://www.improvingagents.com/blog/best-input-data-format-for-llms"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 20:13:53",
+      "https://news.ycombinator.com/item?id=45454940"
+    ],
+    [
+      "Why Are Hyperlinks Blue? (2021)",
+      "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45435606"
     ],
     [
-      "What .NET 10 GC Changes Mean for Developers",
+      "What .NET 10 GC changes mean for developers",
       "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/"
     ]
   ]
