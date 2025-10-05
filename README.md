@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-05, 20:07:42](https://news.ycombinator.com/item?id=45484753) - [Dear Tesla Shareholder [pdf]](https://static1.squarespace.com/static/5d374de8aae9940001c8ed59/t/68de828992aced27fc2d217c/1759412874017/TSLA+Vote+No_Oct_2025_Final.pdf)
+* [2025-10-05, 19:09:35](https://news.ycombinator.com/item?id=45484284) - [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
 * [2025-10-05, 18:38:40](https://news.ycombinator.com/item?id=45484028) - [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
 * [2025-10-05, 18:28:16](https://news.ycombinator.com/item?id=45483924) - [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
 * [2025-10-05, 17:50:17](https://news.ycombinator.com/item?id=45483651) - [Callbacks in C++ using template functors – Rich Hickey (1994)](http://www.tutok.sk/fastgl/callback.html)
@@ -14,7 +14,6 @@
 * [2025-10-05, 14:11:37](https://news.ycombinator.com/item?id=45481609) - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
 * [2025-10-05, 13:22:31](https://news.ycombinator.com/item?id=45481298) - [Show HN: Pyscn – Python code quality analyzer for vibe coders](https://github.com/ludo-technologies/pyscn)
 * [2025-10-05, 12:27:11](https://news.ycombinator.com/item?id=45481008) - [86 GB/s bitpacking with ARM SIMD (single thread)](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
-* [2025-10-05, 11:08:25](https://news.ycombinator.com/item?id=45480622) - [The deadline isn't when AI outsmarts us – it's when we stop using our own minds](https://www.theargumentmag.com/p/you-have-18-months)
 * [2025-10-05, 10:39:12](https://news.ycombinator.com/item?id=45480506) - [Beginner Guide to VPS Hetzner and Coolify](https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide)
 * [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
 * [2025-10-05, 09:07:38](https://news.ycombinator.com/item?id=45480106) - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
@@ -22,6 +21,7 @@
 * [2025-10-05, 05:20:08](https://news.ycombinator.com/item?id=45479006) - [Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
 * [2025-10-05, 04:11:55](https://news.ycombinator.com/item?id=45478780) - [Ambigr.am](https://ambigr.am/hall-of-fame)
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
+* [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A comparison of Ada and Rust, using solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
 * [2025-10-03, 02:59:18](https://news.ycombinator.com/item?id=45458455) - [Which table format do LLMs understand best?](https://www.improvingagents.com/blog/best-input-data-format-for-llms)
 * [2025-10-02, 20:13:53](https://news.ycombinator.com/item?id=45454940) - [Why are hyperlinks blue? (2021)](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 * [2025-10-02, 14:49:12](https://news.ycombinator.com/item?id=45450392) - [Intro to BirdNET-Pi: Eavesdropping on my feathered friends](https://hannahilea.com/blog/birdnet-intro/)
