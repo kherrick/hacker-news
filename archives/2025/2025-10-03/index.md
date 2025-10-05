@@ -89,3 +89,4 @@
 * [2025-10-03, 00:51:26](https://news.ycombinator.com/item?id=45457460) - [Microcomputers – The Second Wave: Toward a Mass Market](https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/)
 * [2025-10-03, 00:44:42](https://news.ycombinator.com/item?id=45457411) - [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
 * [2025-10-03, 00:34:29](https://news.ycombinator.com/item?id=45457333) - [Apple takes down ICE tracking apps after pressure from Bondi DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi)
+* [2025-10-03, 00:08:51](https://news.ycombinator.com/item?id=45457143) - [Connecticut Trail Census Dashboard (2025)](https://experience.arcgis.com/experience/04f19d6c0a634a188cad8bbf7e8475ba/page/Page-1?draft=true&views=-2025)
