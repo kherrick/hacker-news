@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 12:27:11](https://news.ycombinator.com/item?id=45481008) - [86 GB/s bitpacking with ARM SIMD (single thread)](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
 * [2025-10-05, 11:07:53](https://news.ycombinator.com/item?id=45480620) - [Laptops create systems. Phones feed algorithms. The asymmetry determines power](https://zakelfassi.com/command-interface-device-power)
 * [2025-10-05, 10:39:12](https://news.ycombinator.com/item?id=45480506) - [Beginner Guide to VPS Hetzner and Coolify](https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide)
+* [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
 * [2025-10-05, 09:07:38](https://news.ycombinator.com/item?id=45480106) - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
 * [2025-10-05, 08:12:24](https://news.ycombinator.com/item?id=45479820) - [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li)
 * [2025-10-05, 06:01:24](https://news.ycombinator.com/item?id=45479165) - [Social Cooling](https://www.socialcooling.com/)

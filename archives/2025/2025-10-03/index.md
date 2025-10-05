@@ -79,6 +79,7 @@
 * [2025-10-03, 03:13:13](https://news.ycombinator.com/item?id=45458550) - [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts)
 * [2025-10-03, 03:04:04](https://news.ycombinator.com/item?id=45458482) - [Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone](https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html)
 * [2025-10-03, 02:59:48](https://news.ycombinator.com/item?id=45458457) - [KitteHub: Workflow as Python code using AutoKitteh](https://github.com/autokitteh/kittehub)
+* [2025-10-03, 02:59:18](https://news.ycombinator.com/item?id=45458455) - [Which Table Format Do LLMs Understand Best? (Results for 11 Formats)](https://www.improvingagents.com/blog/best-input-data-format-for-llms)
 * [2025-10-03, 02:33:21](https://news.ycombinator.com/item?id=45458249) - [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://debuggingleadership.com/stdlib)
 * [2025-10-03, 02:13:17](https://news.ycombinator.com/item?id=45458122) - [FyneDesk: A full desktop environment for Linux written in Go](https://github.com/FyshOS/fynedesk)
 * [2025-10-03, 01:55:26](https://news.ycombinator.com/item?id=45457980) - [Claude Is Down](https://status.claude.com)
