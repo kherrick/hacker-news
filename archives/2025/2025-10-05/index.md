@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 21:44:01](https://news.ycombinator.com/item?id=45485546) - [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky)
+* [2025-10-05, 21:26:25](https://news.ycombinator.com/item?id=45485440) - [Wine 10.16 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.16)
 * [2025-10-05, 20:55:26](https://news.ycombinator.com/item?id=45485175) - [The Death of Industrial Design and the Era of Dull Electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
 * [2025-10-05, 20:46:22](https://news.ycombinator.com/item?id=45485089) - [Ask HN: Any advice on pivoting out of VC-backed tech?](https://news.ycombinator.com/item?id=45485089)
 * [2025-10-05, 20:07:42](https://news.ycombinator.com/item?id=45484753) - [Dear Tesla Shareholder [pdf]](https://static1.squarespace.com/static/5d374de8aae9940001c8ed59/t/68de828992aced27fc2d217c/1759412874017/TSLA+Vote+No_Oct_2025_Final.pdf)
