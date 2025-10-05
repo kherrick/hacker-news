@@ -7,7 +7,7 @@
 * [2025-10-05, 10:14:40](https://news.ycombinator.com/item?id=45480414) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
 * [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
 * [2025-10-05, 09:07:38](https://news.ycombinator.com/item?id=45480106) - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
-* [2025-10-05, 08:12:24](https://news.ycombinator.com/item?id=45479820) - [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li)
+* [2025-10-05, 08:12:24](https://news.ycombinator.com/item?id=45479820) - [Benefits of choosing email over messaging](https://www.spinellis.gr/blog/20250926/?li)
 * [2025-10-05, 06:01:24](https://news.ycombinator.com/item?id=45479165) - [Social Cooling (2017)](https://www.socialcooling.com/)
 * [2025-10-05, 05:20:08](https://news.ycombinator.com/item?id=45479006) - [Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
 * [2025-10-05, 04:11:55](https://news.ycombinator.com/item?id=45478780) - [Ambigr.am](https://ambigr.am/hall-of-fame)
