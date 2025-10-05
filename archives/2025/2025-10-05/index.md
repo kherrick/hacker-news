@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 09:07:38](https://news.ycombinator.com/item?id=45480106) - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
 * [2025-10-05, 08:12:24](https://news.ycombinator.com/item?id=45479820) - [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li)
 * [2025-10-05, 06:01:24](https://news.ycombinator.com/item?id=45479165) - [Social Cooling](https://www.socialcooling.com/)
 * [2025-10-05, 05:47:55](https://news.ycombinator.com/item?id=45479103) - [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
