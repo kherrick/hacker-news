@@ -19,7 +19,7 @@
 * [2025-10-04, 17:18:07](https://news.ycombinator.com/item?id=45474900) - [How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs](https://arxiv.org/abs/2509.19371)
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A comparison of Ada and Rust, using solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
 * [2025-10-04, 10:38:06](https://news.ycombinator.com/item?id=45472319) - [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf)
-* [2025-10-02, 17:12:57](https://news.ycombinator.com/item?id=45452480) - [Comparing a RISC and a CISC with Similar Hardware Organization](https://dl.acm.org/doi/pdf/10.1145/106972.107003)
+* [2025-10-02, 17:12:57](https://news.ycombinator.com/item?id=45452480) - [Comparing a RISC and a CISC with Similar Hardware Organization (1991)](https://dl.acm.org/doi/pdf/10.1145/106972.107003)
 * [2025-10-02, 01:33:26](https://news.ycombinator.com/item?id=45445551) - [A 2025 manual to the DEC PDP-1](https://obsolescence.dev/pdp1-manual.html)
 * [2025-10-01, 22:01:20](https://news.ycombinator.com/item?id=45444062) - [Machine Learnability as a Measure of Order in Aperiodic Sequences](https://arxiv.org/abs/2509.18103)
 * [2025-10-01, 20:08:27](https://news.ycombinator.com/item?id=45442752) - [Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)](https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/)
