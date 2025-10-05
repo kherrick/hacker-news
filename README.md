@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-05, 05:47:55](https://news.ycombinator.com/item?id=45479103) - [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
-* [2025-10-05, 04:50:02](https://news.ycombinator.com/item?id=45478931) - [Scientists debunk claims of seed oil health risks](https://hsph.harvard.edu/news/scientists-debunk-seed-oil-health-risks/)
 * [2025-10-05, 04:01:57](https://news.ycombinator.com/item?id=45478749) - [Americans increasingly see legal sports betting as a bad thing for society](https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/)
 * [2025-10-05, 00:51:44](https://news.ycombinator.com/item?id=45478033) - [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
 * [2025-10-05, 00:35:10](https://news.ycombinator.com/item?id=45477971) - [Mod. 5140 - IBM's First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
@@ -17,6 +16,7 @@
 * [2025-10-04, 18:34:13](https://news.ycombinator.com/item?id=45475528) - [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
 * [2025-10-04, 17:18:07](https://news.ycombinator.com/item?id=45474900) - [How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs](https://arxiv.org/abs/2509.19371)
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A comparison of Ada and Rust, using solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
+* [2025-10-04, 15:09:41](https://news.ycombinator.com/item?id=45473852) - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
 * [2025-10-04, 14:53:32](https://news.ycombinator.com/item?id=45473730) - [Self-hosting email like it's 1984](https://maxadamski.com/blog/2025/10/email.html)
 * [2025-10-04, 12:16:37](https://news.ycombinator.com/item?id=45472765) - [Thunderscan: A clever device transforms a printer into a scanner (2004)](https://www.folklore.org/Thunderscan.html)
 * [2025-10-04, 11:58:58](https://news.ycombinator.com/item?id=45472678) - [The Buchstabenmuseum Berlin is closing](https://www.buchstabenmuseum.de/en/)
