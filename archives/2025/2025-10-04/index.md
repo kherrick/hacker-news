@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 23:42:55](https://news.ycombinator.com/item?id=45477742) - [Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4](https://arxiv.org/abs/2509.12351)
+* [2025-10-04, 23:34:13](https://news.ycombinator.com/item?id=45477700) - [Probiotics Finder](https://www.probioticfinder.org/)
+* [2025-10-04, 23:30:16](https://news.ycombinator.com/item?id=45477686) - [Unchecked and Unaccountable: How DOGE Jeopardizes Americans' Data](https://www.hsgac.senate.gov/media/dems/peters-report-finds-that-doge-continues-to-operate-unchecked-likely-violating-federal-privacy-and-security-laws-and-putting-the-safety-of-americans-personal-information-in-danger/)
+* [2025-10-04, 23:02:32](https://news.ycombinator.com/item?id=45477516) - [Borehole Oscillators](https://www.gregegan.net/SCIENCE/Borehole/Borehole.html)
 * [2025-10-04, 22:18:06](https://news.ycombinator.com/item?id=45477215) - [How do drivers react to partisan bumper stickers?](https://www.frontiersin.org/articles/10.3389/fpos.2025.1617785)
 * [2025-10-04, 22:14:29](https://news.ycombinator.com/item?id=45477192) - [OpenAI's hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
 * [2025-10-04, 22:02:28](https://news.ycombinator.com/item?id=45477118) - [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
@@ -14,6 +18,7 @@
 * [2025-10-04, 20:18:02](https://news.ycombinator.com/item?id=45476347) - [Designers Should Look to Demis Hassabis. Not Jony Ive](https://www.suffsyed.com/futurememo/designers-should-look-to-demis-hassabis-not-jony-ive)
 * [2025-10-04, 20:07:11](https://news.ycombinator.com/item?id=45476273) - [The UK Is Still Trying to Backdoor Encryption for Apple Users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
 * [2025-10-04, 19:40:52](https://news.ycombinator.com/item?id=45476071) - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
+* [2025-10-04, 19:39:00](https://news.ycombinator.com/item?id=45476045) - [Microsoft 365 Copilot is a commercial failure](https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure)
 * [2025-10-04, 19:27:01](https://news.ycombinator.com/item?id=45475951) - [New Poll: Democratic Socialism Is Now Mainstream](https://jacobin.com/2025/09/new-poll-democratic-socialism-mainstream/)
 * [2025-10-04, 19:08:46](https://news.ycombinator.com/item?id=45475808) - [Blog Feeds](https://blogfeeds.net)
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [Use theorem provers to ensure the correctness of your LLM's reasoning](https://github.com/DebarghaG/proofofthought)
