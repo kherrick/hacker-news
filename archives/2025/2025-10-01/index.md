@@ -46,6 +46,7 @@
 * [2025-10-01, 16:43:40](https://news.ycombinator.com/item?id=45439892) - [Supreme Court Blocks Removal of Fed Governor Lisa Cook](https://techyquantum.com/lisa-cook-fed-board-supreme-court/)
 * [2025-10-01, 16:42:50](https://news.ycombinator.com/item?id=45439883) - [DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/)
 * [2025-10-01, 16:30:16](https://news.ycombinator.com/item?id=45439721) - [Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts](https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/)
+* [2025-10-01, 16:27:32](https://news.ycombinator.com/item?id=45439684) - [The best worst hack that saved our bacon](https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/)
 * [2025-10-01, 16:25:58](https://news.ycombinator.com/item?id=45439670) - [No more \"check mail from other accounts\" in Gmail web](https://support.google.com/mail/answer/16604719?hl=en)
 * [2025-10-01, 15:16:44](https://news.ycombinator.com/item?id=45438713) - [Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]](https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf)
 * [2025-10-01, 15:15:44](https://news.ycombinator.com/item?id=45438704) - [MIT technology can see microbes from 90 meters away](https://www.asimov.press/p/hyperspectral)
