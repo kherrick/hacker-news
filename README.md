@@ -11,7 +11,7 @@
 * [2025-10-05, 15:51:08](https://news.ycombinator.com/item?id=45482484) - [If the University of Chicago won't defend the humanities, who will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/)
 * [2025-10-05, 15:49:58](https://news.ycombinator.com/item?id=45482467) - [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
 * [2025-10-05, 15:36:21](https://news.ycombinator.com/item?id=45482333) - [Show HN: ASCII Drawing Board](https://www.delopsu.com/draw.html)
-* [2025-10-05, 15:12:45](https://news.ycombinator.com/item?id=45482106) - [The Demonization of DeepSeek: How NIST Turned Open Science into a Security Scare](https://erichartford.com/the-demonization-of-deepseek)
+* [2025-10-05, 15:12:45](https://news.ycombinator.com/item?id=45482106) - [NIST's DeepSeek \"evaluation\" is a hit piece](https://erichartford.com/the-demonization-of-deepseek)
 * [2025-10-05, 14:47:13](https://news.ycombinator.com/item?id=45481892) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
 * [2025-10-05, 14:11:37](https://news.ycombinator.com/item?id=45481609) - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
 * [2025-10-05, 13:22:31](https://news.ycombinator.com/item?id=45481298) - [Show HN: Pyscn – Python code quality analyzer for vibe coders](https://github.com/ludo-technologies/pyscn)
