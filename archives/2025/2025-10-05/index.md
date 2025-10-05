@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 22:10:15](https://news.ycombinator.com/item?id=45485736) - [Ken Parker, famed luthier, has passed](https://kenparkerarchtops.com)
 * [2025-10-05, 21:44:01](https://news.ycombinator.com/item?id=45485546) - [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky)
 * [2025-10-05, 21:26:25](https://news.ycombinator.com/item?id=45485440) - [Wine 10.16 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.16)
 * [2025-10-05, 20:55:26](https://news.ycombinator.com/item?id=45485175) - [The Death of Industrial Design and the Era of Dull Electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
@@ -12,6 +13,7 @@
 * [2025-10-05, 19:09:35](https://news.ycombinator.com/item?id=45484284) - [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
 * [2025-10-05, 18:38:40](https://news.ycombinator.com/item?id=45484028) - [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
 * [2025-10-05, 18:28:16](https://news.ycombinator.com/item?id=45483924) - [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
+* [2025-10-05, 18:16:35](https://news.ycombinator.com/item?id=45483834) - [Period-Correct Graphics in PC Emulators: Part 1 – The Amiga](https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/)
 * [2025-10-05, 17:50:17](https://news.ycombinator.com/item?id=45483651) - [Callbacks in C++ Using Template Functors – Rich Hickey (1994)](http://www.tutok.sk/fastgl/callback.html)
 * [2025-10-05, 17:36:20](https://news.ycombinator.com/item?id=45483531) - [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
 * [2025-10-05, 17:24:53](https://news.ycombinator.com/item?id=45483435) - [MIT's New AI Platform for Scientific Discovery](https://www.hpcwire.com/2025/10/03/inside-mits-new-ai-platform-for-scientific-discovery/)

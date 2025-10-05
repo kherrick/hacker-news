@@ -59,6 +59,7 @@
 * [2025-10-02, 12:19:49](https://news.ycombinator.com/item?id=45448702) - [Why America still needs public schools](https://theconversation.com/why-america-still-needs-public-schools-260368)
 * [2025-10-02, 12:00:33](https://news.ycombinator.com/item?id=45448539) - [Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End)](https://careers.activeloop.ai/)
 * [2025-10-02, 11:58:27](https://news.ycombinator.com/item?id=45448525) - [Show HN: The Little Book of C](https://github.com/little-book-of/c)
+* [2025-10-02, 11:46:27](https://news.ycombinator.com/item?id=45448416) - [\"The G in GPU is for Graphics damnit \"](https://ut21.github.io/blog/triton.html)
 * [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
 * [2025-10-02, 11:05:19](https://news.ycombinator.com/item?id=45448199) - [How the AI Bubble Will Pop](https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop)
 * [2025-10-02, 10:11:31](https://news.ycombinator.com/item?id=45447920) - [A 4k-year-old spatial pattern of termite mounds](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31287-9)
