@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-05, 16:13:58](https://news.ycombinator.com/item?id=45482719) - [Lina Khan I told you so: The Activision-Blizzard buyout harms gamers&developers](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)
+* [2025-10-05, 16:00:38](https://news.ycombinator.com/item?id=45482577) - [GoboLinux 017.01 – Passing the Torch](https://gobolinux.org//news/119.html)
 * [2025-10-05, 15:51:08](https://news.ycombinator.com/item?id=45482484) - [If the University of Chicago Won't Defend the Humanities, Who Will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/)
+* [2025-10-05, 15:49:58](https://news.ycombinator.com/item?id=45482467) - [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
 * [2025-10-05, 15:34:32](https://news.ycombinator.com/item?id=45482309) - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
 * [2025-10-05, 14:11:37](https://news.ycombinator.com/item?id=45481609) - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
 * [2025-10-05, 13:22:31](https://news.ycombinator.com/item?id=45481298) - [Show HN: Pyscn – Python code quality analyzer for vibe coders](https://github.com/ludo-technologies/pyscn)
@@ -22,13 +24,11 @@
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A comparison of Ada and Rust, using solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
 * [2025-10-03, 02:59:18](https://news.ycombinator.com/item?id=45458455) - [Which Table Format Do LLMs Understand Best?](https://www.improvingagents.com/blog/best-input-data-format-for-llms)
-* [2025-10-02, 17:12:57](https://news.ycombinator.com/item?id=45452480) - [Comparing a RISC and a CISC with Similar Hardware Organization (1991)](https://dl.acm.org/doi/pdf/10.1145/106972.107003)
 * [2025-10-02, 16:41:19](https://news.ycombinator.com/item?id=45452033) - [Megafauna was the meat of choice for South American hunters](https://arstechnica.com/science/2025/10/ice-age-hunters-in-south-america-preferred-now-extinct-megafauna/)
 * [2025-10-02, 10:11:31](https://news.ycombinator.com/item?id=45447920) - [A 4k-year-old spatial pattern of termite mounds](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31287-9)
 * [2025-10-01, 23:42:00](https://news.ycombinator.com/item?id=45444926) - [Experimental and Theoretical Confirmation of Covalent Bonding in α-Pu](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202501798)
 * [2025-10-01, 16:57:11](https://news.ycombinator.com/item?id=45440071) - [Newton: physics simulation engine built upon NVIDIA Warp](https://github.com/newton-physics/newton)
 * [2025-10-01, 16:27:32](https://news.ycombinator.com/item?id=45439684) - [The best worst hack that saved our bacon](https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/)
-* [2025-10-01, 14:42:03](https://news.ycombinator.com/item?id=45438288) - [Show HN: 2D Spine Animation AI for Game](https://www.godmodeai.co/ai-spine-animation)
 * [2025-10-01, 08:40:35](https://news.ycombinator.com/item?id=45435606) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
 
 ## [Archives](archives/index.md)

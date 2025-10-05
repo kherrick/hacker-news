@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
 * [2025-10-05, 16:13:58](https://news.ycombinator.com/item?id=45482719) - [Lina Khan I told you so: The Activision-Blizzard buyout harms gamers&developers](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)
+* [2025-10-05, 16:00:38](https://news.ycombinator.com/item?id=45482577) - [GoboLinux 017.01 – Passing the Torch](https://gobolinux.org//news/119.html)
 * [2025-10-05, 15:51:08](https://news.ycombinator.com/item?id=45482484) - [If the University of Chicago Won't Defend the Humanities, Who Will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/)
+* [2025-10-05, 15:49:58](https://news.ycombinator.com/item?id=45482467) - [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
 * [2025-10-05, 15:41:50](https://news.ycombinator.com/item?id=45482394) - [Westjet is going to make you pay to recline your seat](https://www.thestreet.com/travel/a-major-airline-is-going-to-make-you-pay-to-recline-your-seat)
 * [2025-10-05, 15:34:32](https://news.ycombinator.com/item?id=45482309) - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
 * [2025-10-05, 15:10:38](https://news.ycombinator.com/item?id=45482085) - [Small Nuclear Reactors Will Not Save the Day](https://oilprice.com/Energy/Energy-General/Small-Nuclear-Reactors-Will-Not-Save-The-Day.html)
