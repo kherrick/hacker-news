@@ -18,7 +18,6 @@
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
 * [2025-10-04, 17:18:07](https://news.ycombinator.com/item?id=45474900) - [How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs](https://arxiv.org/abs/2509.19371)
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A comparison of Ada and Rust, using solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
-* [2025-10-04, 10:38:06](https://news.ycombinator.com/item?id=45472319) - [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf)
 * [2025-10-02, 17:12:57](https://news.ycombinator.com/item?id=45452480) - [Comparing a RISC and a CISC with Similar Hardware Organization (1991)](https://dl.acm.org/doi/pdf/10.1145/106972.107003)
 * [2025-10-02, 01:33:26](https://news.ycombinator.com/item?id=45445551) - [A 2025 manual to the DEC PDP-1](https://obsolescence.dev/pdp1-manual.html)
 * [2025-10-01, 22:01:20](https://news.ycombinator.com/item?id=45444062) - [Machine Learnability as a Measure of Order in Aperiodic Sequences](https://arxiv.org/abs/2509.18103)
@@ -28,6 +27,7 @@
 * [2025-10-01, 16:57:11](https://news.ycombinator.com/item?id=45440071) - [Newton: physics simulation engine built upon NVIDIA Warp](https://github.com/newton-physics/newton)
 * [2025-10-01, 16:27:32](https://news.ycombinator.com/item?id=45439684) - [The best worst hack that saved our bacon](https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/)
 * [2025-10-01, 15:16:44](https://news.ycombinator.com/item?id=45438713) - [Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]](https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf)
+* [2025-10-01, 14:42:03](https://news.ycombinator.com/item?id=45438288) - [Show HN: 2D Spine Animation AI for Game](https://www.godmodeai.co/ai-spine-animation)
 * [2025-10-01, 08:40:35](https://news.ycombinator.com/item?id=45435606) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
 * [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 

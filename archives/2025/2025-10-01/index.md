@@ -56,6 +56,7 @@
 * [2025-10-01, 15:00:41](https://news.ycombinator.com/item?id=45438496) - [Building a 30 PB storage cluster in the heart of SF](https://si.inc/posts/the-heap/)
 * [2025-10-01, 14:48:31](https://news.ycombinator.com/item?id=45438346) - [Autism Simulator](https://autism-simulator.vercel.app/)
 * [2025-10-01, 14:43:08](https://news.ycombinator.com/item?id=45438296) - [Aphantasia and Psychedelics](https://psychedelirium.substack.com/p/aphantasia-and-psychedelics)
+* [2025-10-01, 14:42:03](https://news.ycombinator.com/item?id=45438288) - [Show HN: 2D Spine Animation AI for Game](https://www.godmodeai.co/ai-spine-animation)
 * [2025-10-01, 14:38:40](https://news.ycombinator.com/item?id=45438253) - [Hunter S Thompson's death to be reviewed more than 20 years later](https://www.theguardian.com/books/2025/oct/01/hunter-s-thompsons-death-reviewed)
 * [2025-10-01, 14:31:37](https://news.ycombinator.com/item?id=45438170) - [Technical Analysis of SAP Exploit Script Used in JLR, Harrods Hacks](https://detect.fyi/technical-analysis-of-sap-exploit-script-visual-composer-metadata-uploader-exploit-7b4a01b38548)
 * [2025-10-01, 14:07:04](https://news.ycombinator.com/item?id=45437906) - [Show HN: Resterm – A terminal-based REST/GraphQL and gRPC client](https://github.com/unkn0wn-root/resterm)
