@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
 * [2025-10-05, 17:08:19](https://news.ycombinator.com/item?id=45483275) - [Focus Is Saying No](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1)
+* [2025-10-05, 17:01:19](https://news.ycombinator.com/item?id=45483205) - [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522)
 * [2025-10-05, 17:01:19](https://news.ycombinator.com/item?id=45483205) - [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2507.15855)
 * [2025-10-05, 16:13:58](https://news.ycombinator.com/item?id=45482719) - [Lina Khan I told you so: The Activision-Blizzard buyout harms gamers&developers](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)
 * [2025-10-05, 16:00:38](https://news.ycombinator.com/item?id=45482577) - [GoboLinux 017.01 – Passing the Torch](https://gobolinux.org//news/119.html)
@@ -16,6 +17,7 @@
 * [2025-10-05, 15:34:32](https://news.ycombinator.com/item?id=45482309) - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
 * [2025-10-05, 15:10:38](https://news.ycombinator.com/item?id=45482085) - [Small Nuclear Reactors Will Not Save the Day](https://oilprice.com/Energy/Energy-General/Small-Nuclear-Reactors-Will-Not-Save-The-Day.html)
 * [2025-10-05, 15:01:16](https://news.ycombinator.com/item?id=45482007) - [Remembering Steve Jobs](https://www.macrumors.com/2025/10/05/remembering-steve/)
+* [2025-10-05, 14:47:13](https://news.ycombinator.com/item?id=45481892) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
 * [2025-10-05, 14:11:37](https://news.ycombinator.com/item?id=45481609) - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
 * [2025-10-05, 13:53:41](https://news.ycombinator.com/item?id=45481490) - [I do not want to be a programmer anymore](https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/)
 * [2025-10-05, 13:22:31](https://news.ycombinator.com/item?id=45481298) - [Show HN: Pyscn – Python code quality analyzer for vibe coders](https://github.com/ludo-technologies/pyscn)
