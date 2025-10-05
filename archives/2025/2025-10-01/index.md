@@ -21,6 +21,7 @@
 * [2025-10-01, 20:07:44](https://news.ycombinator.com/item?id=45442743) - [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
 * [2025-10-01, 19:48:23](https://news.ycombinator.com/item?id=45442470) - [OpenAI won't say whose content trained its video tool. We found some clues.](https://www.washingtonpost.com/technology/interactive/2025/openai-training-data-sora/)
 * [2025-10-01, 19:41:33](https://news.ycombinator.com/item?id=45442365) - [The Anti-Truth Mandate: A Technical Flaw in Claude's Safety Architecture](https://github.com/anthropics/claude-code/issues/8683)
+* [2025-10-01, 19:32:49](https://news.ycombinator.com/item?id=45442221) - [Leveling Up My Homelab](https://cweagans.net/2025/09/leveling-up-my-homelab/)
 * [2025-10-01, 19:30:28](https://news.ycombinator.com/item?id=45442185) - [U.S. Lost 32,000 Private-Sector Jobs in September, Says Payroll Processor](https://www.wsj.com/economy/jobs/u-s-lost-32-000-jobs-in-september-says-payroll-processor-06528340)
 * [2025-10-01, 19:16:14](https://news.ycombinator.com/item?id=45442002) - [Pianists Can Shape Piano Timbre Through Touch](https://www.neuropiano.org/en/news/Z35XkjnH)
 * [2025-10-01, 19:15:02](https://news.ycombinator.com/item?id=45441983) - [ICE Is Buying a Tool to Track Phones, Without Warrants](https://olgalautman.substack.com/p/ice-is-buying-a-tool-to-track-hundreds)
