@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-05, 17:08:19](https://news.ycombinator.com/item?id=45483275) - [Focus Is Saying No](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1)
 * [2025-10-05, 17:01:19](https://news.ycombinator.com/item?id=45483205) - [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2507.15855)
 * [2025-10-05, 16:13:58](https://news.ycombinator.com/item?id=45482719) - [Lina Khan I told you so: The Activision-Blizzard buyout harms gamers&developers](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)
 * [2025-10-05, 16:00:38](https://news.ycombinator.com/item?id=45482577) - [GoboLinux 017.01 – Passing the Torch](https://gobolinux.org//news/119.html)
@@ -27,7 +28,6 @@
 * [2025-10-02, 10:11:31](https://news.ycombinator.com/item?id=45447920) - [A 4k-year-old spatial pattern of termite mounds](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31287-9)
 * [2025-10-01, 23:42:00](https://news.ycombinator.com/item?id=45444926) - [Experimental and Theoretical Confirmation of Covalent Bonding in α-Pu](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202501798)
 * [2025-10-01, 20:58:38](https://news.ycombinator.com/item?id=45443441) - [Show HN: Re-Implementing the macOS Spatial Finder](https://github.com/everydayanchovies/SpatialFinder)
-* [2025-10-01, 16:57:11](https://news.ycombinator.com/item?id=45440071) - [Newton: physics simulation engine built upon NVIDIA Warp](https://github.com/newton-physics/newton)
 * [2025-10-01, 16:27:32](https://news.ycombinator.com/item?id=45439684) - [The best worst hack that saved our bacon](https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/)
 * [2025-10-01, 08:40:35](https://news.ycombinator.com/item?id=45435606) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
 
