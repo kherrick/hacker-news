@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
 * [2025-10-05, 05:47:55](https://news.ycombinator.com/item?id=45479103) - [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
+* [2025-10-05, 04:50:02](https://news.ycombinator.com/item?id=45478931) - [Scientists debunk claims of seed oil health risks](https://hsph.harvard.edu/news/scientists-debunk-seed-oil-health-risks/)
 * [2025-10-05, 04:01:57](https://news.ycombinator.com/item?id=45478749) - [Americans increasingly see legal sports betting as a bad thing for society](https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/)
 * [2025-10-05, 03:11:10](https://news.ycombinator.com/item?id=45478585) - [Show HN: URI-Transformer: AI architecture that models meaning. 99.9% less memory](https://github.com/BruinGrowly/URI_Transformer)
 * [2025-10-05, 03:01:50](https://news.ycombinator.com/item?id=45478553) - [1Password CLI Vulnerability](https://codeberg.org/manchicken/1password-cli-vuln-disclosure)

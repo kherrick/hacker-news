@@ -16,6 +16,7 @@
 * [2025-10-01, 20:47:55](https://news.ycombinator.com/item?id=45443298) - [The Company Man](https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man)
 * [2025-10-01, 20:40:19](https://news.ycombinator.com/item?id=45443200) - [Implementing /Usr Merge in Alpine](https://alpinelinux.org/posts/2025-10-01-usr-merge.html)
 * [2025-10-01, 20:25:59](https://news.ycombinator.com/item?id=45443004) - [The Truth About the School \"Replacing Teachers with AI\"](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
+* [2025-10-01, 20:08:27](https://news.ycombinator.com/item?id=45442752) - [Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)](https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/)
 * [2025-10-01, 20:07:44](https://news.ycombinator.com/item?id=45442743) - [Evaluating the impact of AI on the labor market: Current state of affairs](https://budgetlab.yale.edu/research/evaluating-impact-ai-labor-market-current-state-affairs)
 * [2025-10-01, 20:07:44](https://news.ycombinator.com/item?id=45442743) - [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
 * [2025-10-01, 19:48:23](https://news.ycombinator.com/item?id=45442470) - [OpenAI won't say whose content trained its video tool. We found some clues.](https://www.washingtonpost.com/technology/interactive/2025/openai-training-data-sora/)
