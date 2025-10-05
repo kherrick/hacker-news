@@ -43,6 +43,7 @@
 * [2025-10-02, 15:07:48](https://news.ycombinator.com/item?id=45450694) - [Does Big Pharma gouge Americans?](https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans)
 * [2025-10-02, 14:58:04](https://news.ycombinator.com/item?id=45450525) - [Work Is Not School: Surviving Institutional Stupidity](https://www.leadingsapiens.com/surviving-institutional-stupidity/)
 * [2025-10-02, 14:52:49](https://news.ycombinator.com/item?id=45450449) - [Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ](https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson)
+* [2025-10-02, 14:49:12](https://news.ycombinator.com/item?id=45450392) - [Intro to BirdNET-Pi: Eavesdropping on my feathered friends](https://hannahilea.com/blog/birdnet-intro/)
 * [2025-10-02, 14:36:25](https://news.ycombinator.com/item?id=45450194) - [Why the end of support for Windows 10 is uniquely troubling](https://pirg.org/articles/why-the-end-of-support-for-windows-10-is-uniquely-troubling/)
 * [2025-10-02, 14:26:23](https://news.ycombinator.com/item?id=45450044) - [N8n added native persistent storage with DataTables](https://community.n8n.io/t/data-tables-are-here/192256)
 * [2025-10-02, 14:22:11](https://news.ycombinator.com/item?id=45449978) - [Ford CEO on his 'epiphany': his Gen Z factory workers 'had to have three jobs'](https://finance.yahoo.com/news/ford-ceo-epiphany-talking-gen-161600158.html)

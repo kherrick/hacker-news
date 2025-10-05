@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
 * [2025-10-05, 18:38:40](https://news.ycombinator.com/item?id=45484028) - [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
+* [2025-10-05, 18:28:16](https://news.ycombinator.com/item?id=45483924) - [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
 * [2025-10-05, 17:50:17](https://news.ycombinator.com/item?id=45483651) - [Callbacks in C++ Using Template Functors – Rich Hickey (1994)](http://www.tutok.sk/fastgl/callback.html)
 * [2025-10-05, 17:36:20](https://news.ycombinator.com/item?id=45483531) - [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
 * [2025-10-05, 17:20:39](https://news.ycombinator.com/item?id=45483386) - [Fire destroys Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
