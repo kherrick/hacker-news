@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-05, 18:38:40](https://news.ycombinator.com/item?id=45484028) - [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
 * [2025-10-05, 17:50:17](https://news.ycombinator.com/item?id=45483651) - [Callbacks in C++ Using Template Functors – Rich Hickey (1994)](http://www.tutok.sk/fastgl/callback.html)
 * [2025-10-05, 17:36:20](https://news.ycombinator.com/item?id=45483531) - [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
 * [2025-10-05, 17:20:39](https://news.ycombinator.com/item?id=45483386) - [Fire destroys Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
@@ -21,7 +22,6 @@
 * [2025-10-05, 06:01:24](https://news.ycombinator.com/item?id=45479165) - [Social Cooling (2017)](https://www.socialcooling.com/)
 * [2025-10-05, 05:20:08](https://news.ycombinator.com/item?id=45479006) - [Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
 * [2025-10-05, 04:11:55](https://news.ycombinator.com/item?id=45478780) - [Ambigr.am](https://ambigr.am/hall-of-fame)
-* [2025-10-05, 04:01:57](https://news.ycombinator.com/item?id=45478749) - [Americans increasingly see legal sports betting as a bad thing for society](https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/)
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
 * [2025-10-03, 02:59:18](https://news.ycombinator.com/item?id=45458455) - [Which table format do LLMs understand best?](https://www.improvingagents.com/blog/best-input-data-format-for-llms)
 * [2025-10-02, 20:13:53](https://news.ycombinator.com/item?id=45454940) - [Why Are Hyperlinks Blue? (2021)](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
