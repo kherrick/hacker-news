@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-05, 15:34:32](https://news.ycombinator.com/item?id=45482309) - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
 * [2025-10-05, 15:10:38](https://news.ycombinator.com/item?id=45482085) - [Small Nuclear Reactors Will Not Save the Day](https://oilprice.com/Energy/Energy-General/Small-Nuclear-Reactors-Will-Not-Save-The-Day.html)
 * [2025-10-05, 15:01:16](https://news.ycombinator.com/item?id=45482007) - [Remembering Steve Jobs](https://www.macrumors.com/2025/10/05/remembering-steve/)
 * [2025-10-05, 14:11:37](https://news.ycombinator.com/item?id=45481609) - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
@@ -15,7 +16,6 @@
 * [2025-10-05, 05:20:08](https://news.ycombinator.com/item?id=45479006) - [Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
 * [2025-10-05, 04:11:55](https://news.ycombinator.com/item?id=45478780) - [Ambigr.am](https://ambigr.am/hall-of-fame)
 * [2025-10-05, 04:01:57](https://news.ycombinator.com/item?id=45478749) - [Americans increasingly see legal sports betting as a bad thing for society](https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/)
-* [2025-10-05, 03:01:50](https://news.ycombinator.com/item?id=45478553) - [1Password CLI Vulnerability (2023)](https://codeberg.org/manchicken/1password-cli-vuln-disclosure)
 * [2025-10-05, 00:51:44](https://news.ycombinator.com/item?id=45478033) - [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
 * [2025-10-04, 22:16:33](https://news.ycombinator.com/item?id=45477206) - [NSA and IETF: Can an attacker purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
 * [2025-10-04, 22:14:29](https://news.ycombinator.com/item?id=45477192) - [OpenAI's hunger for computing power](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
