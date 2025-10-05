@@ -58,6 +58,7 @@
 * [2025-10-02, 09:42:36](https://news.ycombinator.com/item?id=45447776) - [Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers](https://www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/)
 * [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
+* [2025-10-02, 08:09:53](https://news.ycombinator.com/item?id=45447307) - [One Battle After Another: PTA and the Death of Revolutionary Cinema](https://letterboxd.com/markcira/film/one-battle-after-another/2/)
 * [2025-10-02, 07:12:18](https://news.ycombinator.com/item?id=45447057) - [Old Stockholm Telephone Tower](https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower)
 * [2025-10-02, 06:25:43](https://news.ycombinator.com/item?id=45446834) - [Immich v2.0.0 – First stable release](https://github.com/immich-app/immich/discussions/22546)
 * [2025-10-02, 04:14:34](https://news.ycombinator.com/item?id=45446263) - [Typepad Is Closed for Business](https://www.typepad.com)
