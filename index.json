@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45483651"
     ],
     [
-      "Callbacks in C++ Using Template Functors – Rich Hickey (1994)",
+      "Callbacks in C++ using template functors – Rich Hickey (1994)",
       "http://www.tutok.sk/fastgl/callback.html"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45483386"
     ],
     [
-      "Fire destroys Korean government's cloud storage system, no backups available",
+      "Fire destroys S. Korean government's cloud storage system, no backups available",
       "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "If the University of Chicago won't defend the humanities, who will?",
       "https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 15:49:58",
-      "https://news.ycombinator.com/item?id=45482467"
-    ],
-    [
-      "NFS at 40 – Remembering the Sun Microsystems Network File System",
-      "https://nfs40.online/"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=45454940"
     ],
     [
-      "Why Are Hyperlinks Blue? (2021)",
+      "Why are hyperlinks blue? (2021)",
       "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "A 4k-year-old spatial pattern of termite mounds",
       "https://www.cell.com/current-biology/fulltext/S0960-9822(18)31287-9"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 05:43:37",
+      "https://news.ycombinator.com/item?id=45446654"
+    ],
+    [
+      "Matrix Core Programming on AMD CDNA3 and CDNA4 Architecture",
+      "https://salykova.github.io/matrix-cores-cdna"
     ]
   ],
   [
