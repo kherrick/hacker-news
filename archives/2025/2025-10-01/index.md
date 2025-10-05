@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
+* [2025-10-01, 23:42:00](https://news.ycombinator.com/item?id=45444926) - [Experimental and Theoretical Confirmation of Covalent Bonding in α-Pu](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202501798)
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
 * [2025-10-01, 22:01:20](https://news.ycombinator.com/item?id=45444062) - [Machine Learnability as a Measure of Order in Aperiodic Sequences](https://arxiv.org/abs/2509.18103)
 * [2025-10-01, 21:54:46](https://news.ycombinator.com/item?id=45444004) - [Egg-Shaped Curves](https://nyjp07.com/index_egg_E.html)
