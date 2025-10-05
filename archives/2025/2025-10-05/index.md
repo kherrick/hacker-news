@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 15:51:08](https://news.ycombinator.com/item?id=45482484) - [If the University of Chicago Won't Defend the Humanities, Who Will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/)
+* [2025-10-05, 15:41:50](https://news.ycombinator.com/item?id=45482394) - [Westjet is going to make you pay to recline your seat](https://www.thestreet.com/travel/a-major-airline-is-going-to-make-you-pay-to-recline-your-seat)
 * [2025-10-05, 15:34:32](https://news.ycombinator.com/item?id=45482309) - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
 * [2025-10-05, 15:10:38](https://news.ycombinator.com/item?id=45482085) - [Small Nuclear Reactors Will Not Save the Day](https://oilprice.com/Energy/Energy-General/Small-Nuclear-Reactors-Will-Not-Save-The-Day.html)
 * [2025-10-05, 15:01:16](https://news.ycombinator.com/item?id=45482007) - [Remembering Steve Jobs](https://www.macrumors.com/2025/10/05/remembering-steve/)

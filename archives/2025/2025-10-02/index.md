@@ -59,6 +59,7 @@
 * [2025-10-02, 11:58:27](https://news.ycombinator.com/item?id=45448525) - [Show HN: The Little Book of C](https://github.com/little-book-of/c)
 * [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
 * [2025-10-02, 11:05:19](https://news.ycombinator.com/item?id=45448199) - [How the AI Bubble Will Pop](https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop)
+* [2025-10-02, 10:11:31](https://news.ycombinator.com/item?id=45447920) - [A 4k-year-old spatial pattern of termite mounds](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31287-9)
 * [2025-10-02, 09:42:36](https://news.ycombinator.com/item?id=45447776) - [Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers](https://www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/)
 * [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
