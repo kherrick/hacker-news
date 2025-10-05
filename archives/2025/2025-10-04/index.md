@@ -9,6 +9,7 @@
 * [2025-10-04, 23:30:16](https://news.ycombinator.com/item?id=45477686) - [Unchecked and Unaccountable: How DOGE Jeopardizes Americans' Data](https://www.hsgac.senate.gov/media/dems/peters-report-finds-that-doge-continues-to-operate-unchecked-likely-violating-federal-privacy-and-security-laws-and-putting-the-safety-of-americans-personal-information-in-danger/)
 * [2025-10-04, 23:26:02](https://news.ycombinator.com/item?id=45477661) - [AI-powered open-source code laundering](https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md)
 * [2025-10-04, 23:02:32](https://news.ycombinator.com/item?id=45477516) - [Borehole Oscillators](https://www.gregegan.net/SCIENCE/Borehole/Borehole.html)
+* [2025-10-04, 22:41:04](https://news.ycombinator.com/item?id=45477394) - [Whiteboarding with AI](https://jrfernandez.com/whiteboarding-with-ai/)
 * [2025-10-04, 22:18:06](https://news.ycombinator.com/item?id=45477215) - [How do drivers react to partisan bumper stickers?](https://www.frontiersin.org/articles/10.3389/fpos.2025.1617785)
 * [2025-10-04, 22:16:33](https://news.ycombinator.com/item?id=45477206) - [NSA and IETF: Can an attacker purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
 * [2025-10-04, 22:14:29](https://news.ycombinator.com/item?id=45477192) - [OpenAI's hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
