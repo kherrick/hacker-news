@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-05, 02:48:17](https://news.ycombinator.com/item?id=45478502) - [Are Motorcycles \"Donorcycles\"?](https://pubmed.ncbi.nlm.nih.gov/33334475/)
 * [2025-10-05, 01:58:31](https://news.ycombinator.com/item?id=45478300) - [You can't parse XML with regex. Let's do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
 * [2025-10-05, 00:51:44](https://news.ycombinator.com/item?id=45478033) - [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
 * [2025-10-05, 00:35:10](https://news.ycombinator.com/item?id=45477971) - [Mod. 5140 - IBM's First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
@@ -7,7 +8,6 @@
 * [2025-10-04, 23:26:02](https://news.ycombinator.com/item?id=45477661) - [AI-powered open-source code laundering](https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md)
 * [2025-10-04, 23:02:32](https://news.ycombinator.com/item?id=45477516) - [Borehole Oscillators](https://www.gregegan.net/SCIENCE/Borehole/Borehole.html)
 * [2025-10-04, 22:16:33](https://news.ycombinator.com/item?id=45477206) - [NSA and IETF: Can an attacker purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
-* [2025-10-04, 22:14:29](https://news.ycombinator.com/item?id=45477192) - [OpenAI's hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
 * [2025-10-04, 22:02:28](https://news.ycombinator.com/item?id=45477118) - [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
 * [2025-10-04, 21:22:11](https://news.ycombinator.com/item?id=45476821) - [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
 * [2025-10-04, 21:22:05](https://news.ycombinator.com/item?id=45476820) - [$912 energy independence without red tape](https://sunboxlabs.com/)
@@ -23,11 +23,11 @@
 * [2025-10-04, 11:58:58](https://news.ycombinator.com/item?id=45472678) - [The Buchstabenmuseum Berlin is closing](https://www.buchstabenmuseum.de/en/)
 * [2025-10-04, 10:38:06](https://news.ycombinator.com/item?id=45472319) - [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf)
 * [2025-10-02, 08:09:53](https://news.ycombinator.com/item?id=45447307) - [One Battle After Another: PTA and the Death of Revolutionary Cinema](https://letterboxd.com/markcira/film/one-battle-after-another/2/)
+* [2025-10-01, 22:01:20](https://news.ycombinator.com/item?id=45444062) - [Machine Learnability as a Measure of Order in Aperiodic Sequences](https://arxiv.org/abs/2509.18103)
 * [2025-10-01, 17:05:38](https://news.ycombinator.com/item?id=45440180) - [Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces](https://github.com/lsartory/Clavier)
 * [2025-10-01, 16:57:11](https://news.ycombinator.com/item?id=45440071) - [Newton: physics simulation engine built upon NVIDIA Warp](https://github.com/newton-physics/newton)
 * [2025-10-01, 15:16:44](https://news.ycombinator.com/item?id=45438713) - [Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]](https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf)
-* [2025-10-01, 12:45:52](https://news.ycombinator.com/item?id=45437044) - [Five years as a startup CTO: How, why, and was it worth it? (2024)](https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/)
-* [2025-10-01, 09:20:43](https://news.ycombinator.com/item?id=45435819) - [The Art of Color... Science?](https://nikonrumors.com/2025/09/30/the-art-of-color-science.aspx/)
+* [2025-10-01, 03:15:23](https://news.ycombinator.com/item?id=45433936) - [Baseball durations after the pitch clock](https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/)
 * [2025-09-30, 20:54:45](https://news.ycombinator.com/item?id=45431115) - [Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS](https://benbridle.com/projects/cobalt.html)
 * [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 

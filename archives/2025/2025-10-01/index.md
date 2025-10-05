@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-01](index.md)
 
 * [2025-10-01, 23:06:55](https://news.ycombinator.com/item?id=45444694) - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
+* [2025-10-01, 22:01:20](https://news.ycombinator.com/item?id=45444062) - [Machine Learnability as a Measure of Order in Aperiodic Sequences](https://arxiv.org/abs/2509.18103)
 * [2025-10-01, 21:54:46](https://news.ycombinator.com/item?id=45444004) - [Egg-Shaped Curves](https://nyjp07.com/index_egg_E.html)
 * [2025-10-01, 21:40:54](https://news.ycombinator.com/item?id=45443881) - [US gov shutdown leaves IT projects hanging, security defenders a skeleton crew](https://www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/)
 * [2025-10-01, 21:15:44](https://news.ycombinator.com/item?id=45443662) - [Study confirms that pianists can shape piano timbre through touch](https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/)
