@@ -53,6 +53,7 @@
 * [2025-10-02, 12:28:27](https://news.ycombinator.com/item?id=45448772) - [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
 * [2025-10-02, 12:19:49](https://news.ycombinator.com/item?id=45448702) - [Why America still needs public schools](https://theconversation.com/why-america-still-needs-public-schools-260368)
 * [2025-10-02, 12:00:33](https://news.ycombinator.com/item?id=45448539) - [Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End)](https://careers.activeloop.ai/)
+* [2025-10-02, 11:58:27](https://news.ycombinator.com/item?id=45448525) - [Show HN: The Little Book of C](https://github.com/little-book-of/c)
 * [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
 * [2025-10-02, 11:05:19](https://news.ycombinator.com/item?id=45448199) - [How the AI Bubble Will Pop](https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop)
 * [2025-10-02, 09:42:36](https://news.ycombinator.com/item?id=45447776) - [Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers](https://www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/)
