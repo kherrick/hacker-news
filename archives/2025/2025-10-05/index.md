@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 17:20:39](https://news.ycombinator.com/item?id=45483386) - [Fire destroys Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 * [2025-10-05, 17:08:19](https://news.ycombinator.com/item?id=45483275) - [Focus Is Saying No](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1)
 * [2025-10-05, 17:01:19](https://news.ycombinator.com/item?id=45483205) - [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522)
 * [2025-10-05, 17:01:19](https://news.ycombinator.com/item?id=45483205) - [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2507.15855)
@@ -15,6 +16,7 @@
 * [2025-10-05, 15:41:50](https://news.ycombinator.com/item?id=45482394) - [Westjet is going to make you pay to recline your seat](https://www.thestreet.com/travel/a-major-airline-is-going-to-make-you-pay-to-recline-your-seat)
 * [2025-10-05, 15:36:21](https://news.ycombinator.com/item?id=45482333) - [Show HN: ASCII Drawing Board](https://www.delopsu.com/draw.html)
 * [2025-10-05, 15:34:32](https://news.ycombinator.com/item?id=45482309) - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
+* [2025-10-05, 15:12:45](https://news.ycombinator.com/item?id=45482106) - [The Demonization of DeepSeek: How NIST Turned Open Science into a Security Scare](https://erichartford.com/the-demonization-of-deepseek)
 * [2025-10-05, 15:10:38](https://news.ycombinator.com/item?id=45482085) - [Small Nuclear Reactors Will Not Save the Day](https://oilprice.com/Energy/Energy-General/Small-Nuclear-Reactors-Will-Not-Save-The-Day.html)
 * [2025-10-05, 15:01:16](https://news.ycombinator.com/item?id=45482007) - [Remembering Steve Jobs](https://www.macrumors.com/2025/10/05/remembering-steve/)
 * [2025-10-05, 14:47:13](https://news.ycombinator.com/item?id=45481892) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)

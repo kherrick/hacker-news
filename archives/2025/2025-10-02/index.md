@@ -11,6 +11,7 @@
 * [2025-10-02, 21:21:49](https://news.ycombinator.com/item?id=45455719) - [Launching Solveit – an antidote to AI fatigue](https://www.answer.ai/posts/2025-10-01-solveit-full.html)
 * [2025-10-02, 20:54:42](https://news.ycombinator.com/item?id=45455438) - [Austria's Armed Forces Gets Rid of Microsoft Office (Mostly) for LibreOffice](https://news.itsfoss.com/austrian-forces-ditch-microsoft-office/)
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it's at://](https://overreacted.io/where-its-at/)
+* [2025-10-02, 20:13:53](https://news.ycombinator.com/item?id=45454940) - [Why Are Hyperlinks Blue? (2021)](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 * [2025-10-02, 19:39:08](https://news.ycombinator.com/item?id=45454460) - [Anti-Aging Breakthrough: Stem Cells Reverse Signs of Aging in Monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
 * [2025-10-02, 19:34:08](https://news.ycombinator.com/item?id=45454374) - [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement)
 * [2025-10-02, 19:19:15](https://news.ycombinator.com/item?id=45454149) - [Gov Workers Say Their Shutdown Out-of-Office Replies Were Forcibly Changed](https://www.wired.com/story/government-workers-say-their-out-of-office-replies-were-forcibly-changed-to-blame-democrats-for-shutdown/)
