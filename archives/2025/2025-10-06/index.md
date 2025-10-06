@@ -11,6 +11,7 @@
 * [2025-10-06, 18:10:19](https://news.ycombinator.com/item?id=45494300) - [Europe Crushes Innovation](https://www.economist.com/europe/2025/10/02/how-europe-crushes-innovation)
 * [2025-10-06, 17:56:38](https://news.ycombinator.com/item?id=45494126) - [How the US got left behind in the electric car race](https://www.bbc.com/news/articles/c8ex2l58en4o)
 * [2025-10-06, 17:32:27](https://news.ycombinator.com/item?id=45493815) - [OpenAI Is Good at Deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
+* [2025-10-06, 17:23:20](https://news.ycombinator.com/item?id=45493718) - [OpenAI ChatKit](https://github.com/openai/chatkit-js)
 * [2025-10-06, 17:22:48](https://news.ycombinator.com/item?id=45493713) - [The word \"dumpster\" was originally a trademarked brand name, not a generic term](https://www.classicrefusetrucks.com/albums/DE/DE01.html)
 * [2025-10-06, 17:13:46](https://news.ycombinator.com/item?id=45493609) - [ACP Brings JetBrains on Board](https://zed.dev/blog/jetbrains-on-acp)
 * [2025-10-06, 17:01:31](https://news.ycombinator.com/item?id=45493453) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)

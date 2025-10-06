@@ -24,6 +24,7 @@
 * [2025-10-04, 19:39:00](https://news.ycombinator.com/item?id=45476045) - [Microsoft 365 Copilot is a commercial failure](https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure)
 * [2025-10-04, 19:27:01](https://news.ycombinator.com/item?id=45475951) - [New Poll: Democratic Socialism Is Now Mainstream](https://jacobin.com/2025/09/new-poll-democratic-socialism-mainstream/)
 * [2025-10-04, 19:08:46](https://news.ycombinator.com/item?id=45475808) - [Blog Feeds](https://blogfeeds.net)
+* [2025-10-04, 18:45:55](https://news.ycombinator.com/item?id=45475623) - [Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)](https://reiner.org/cuckoo-hashing)
 * [2025-10-04, 18:34:23](https://news.ycombinator.com/item?id=45475529) - [Use theorem provers to ensure the correctness of your LLM's reasoning](https://github.com/DebarghaG/proofofthought)
 * [2025-10-04, 18:34:13](https://news.ycombinator.com/item?id=45475528) - [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
 * [2025-10-04, 18:26:29](https://news.ycombinator.com/item?id=45475471) - [Provable Scaling Laws of Feature Emergence from Learning Dynamics of Grokking](https://arxiv.org/abs/2509.21519)
