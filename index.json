@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-10-06, 17:22:48",
-      "https://news.ycombinator.com/item?id=45493713"
-    ],
-    [
-      "Beginnings: The Dempster Dumpster",
-      "https://www.classicrefusetrucks.com/albums/DE/DE01.html"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 17:01:31",
       "https://news.ycombinator.com/item?id=45493453"
     ],
@@ -147,6 +137,16 @@
     [
       "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
       "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 12:17:59",
+      "https://news.ycombinator.com/item?id=45490549"
+    ],
+    [
+      "AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake",
+      "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45457825"
     ],
     [
-      "The math behind tiled v/s naive matrix multiplication in CUDA",
+      "How to tile matrix multiplication (2023)",
       "https://alvinwan.com/how-to-tile-matrix-multiplication/"
     ]
   ],
