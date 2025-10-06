@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 21:28:56](https://news.ycombinator.com/item?id=45496533) - [DeepMind: CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
 * [2025-10-06, 21:14:51](https://news.ycombinator.com/item?id=45496406) - [WebGPU and the Price of Compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 * [2025-10-06, 20:47:25](https://news.ycombinator.com/item?id=45496146) - [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers)
 * [2025-10-06, 20:09:44](https://news.ycombinator.com/item?id=45495738) - [Translating Cython to Mojo, a first attempt](https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/)
