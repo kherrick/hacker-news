@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 04:25:31](https://news.ycombinator.com/item?id=45487629) - [CHERI with a Linux on Top](https://lwn.net/Articles/1037974/)
 * [2025-10-06, 04:00:32](https://news.ycombinator.com/item?id=45487531) - [Michigan Anti-Porn Bill Criminalizes ASMR, Erotica, Depictions of Trans People](https://reason.com/2025/09/22/michigan-anti-porn-bill-would-criminalize-asmr-written-erotica-and-even-nonsexual-depictions-of-trans-people/)
 * [2025-10-06, 03:48:34](https://news.ycombinator.com/item?id=45487476) - [Internet Archive – Celebrating 1T Web Pages Archived](https://blog.archive.org/trillion/)
 * [2025-10-06, 03:42:15](https://news.ycombinator.com/item?id=45487452) - [Find Nearby Automated License Plate Readers (ALPR)](https://deflock.me/)
