@@ -7,7 +7,7 @@
 * [2025-10-06, 01:35:03](https://news.ycombinator.com/item?id=45486829) - [Should I choose Ada, SPARK, or Rust over C/C++? (2024)](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
 * [2025-10-06, 01:34:31](https://news.ycombinator.com/item?id=45486825) - [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
 * [2025-10-05, 23:51:47](https://news.ycombinator.com/item?id=45486306) - [Rule-Based Expert Systems: The Mycin Experiments (1984)](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
-* [2025-10-05, 23:00:23](https://news.ycombinator.com/item?id=45486031) - [Generative AI's Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
+* [2025-10-05, 23:00:23](https://news.ycombinator.com/item?id=45486031) - [Estimating AI energy use](https://spectrum.ieee.org/ai-energy-use)
 * [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
 * [2025-10-05, 22:10:15](https://news.ycombinator.com/item?id=45485736) - [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
 * [2025-10-05, 20:55:26](https://news.ycombinator.com/item?id=45485175) - [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
