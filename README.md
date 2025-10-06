@@ -2,7 +2,7 @@
 
 * [2025-10-06, 16:09:22](https://news.ycombinator.com/item?id=45492888) - [\"Be Different\" doesn't work for building products anymore](https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building)
 * [2025-10-06, 15:39:59](https://news.ycombinator.com/item?id=45492564) - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
-* [2025-10-06, 14:53:46](https://news.ycombinator.com/item?id=45492086) - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
+* [2025-10-06, 15:22:02](https://news.ycombinator.com/item?id=45492376) - [Expected Attention: KV Cache Compression by Estimating Attention](https://arxiv.org/abs/2510.00636)
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [2025-10-06, 14:06:29](https://news.ycombinator.com/item?id=45491609) - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
 * [2025-10-06, 12:23:40](https://news.ycombinator.com/item?id=45490578) - [Show HN: Write It Down – Personal finance tracker](https://write-it-down.com)
@@ -11,7 +11,7 @@
 * [2025-10-06, 09:41:16](https://news.ycombinator.com/item?id=45489533) - [Nobel Prize in Physiology or Medicine 2025](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
 * [2025-10-06, 08:49:30](https://news.ycombinator.com/item?id=45489174) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
 * [2025-10-06, 07:47:17](https://news.ycombinator.com/item?id=45488713) - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
-* [2025-10-06, 07:07:11](https://news.ycombinator.com/item?id=45488441) - [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
+* [2025-10-06, 07:07:11](https://news.ycombinator.com/item?id=45488441) - [Flightcontrol: A PaaS that deploys to your AWS account](https://www.flightcontrol.dev/)
 * [2025-10-06, 06:35:36](https://news.ycombinator.com/item?id=45488261) - [Structured Procrastination (1995)](https://structuredprocrastination.com)
 * [2025-10-06, 04:59:39](https://news.ycombinator.com/item?id=45487771) - [Gem.coop](https://gem.coop/)
 * [2025-10-06, 03:48:34](https://news.ycombinator.com/item?id=45487476) - [1 Trillion Web Pages Archived](https://blog.archive.org/trillion/)
