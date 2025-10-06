@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-06, 10:51:53](https://news.ycombinator.com/item?id=45489951) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence)
 * [2025-10-06, 09:49:33](https://news.ycombinator.com/item?id=45489581) - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
 * [2025-10-06, 09:41:16](https://news.ycombinator.com/item?id=45489533) - [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
 * [2025-10-06, 08:49:30](https://news.ycombinator.com/item?id=45489174) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
@@ -9,7 +10,6 @@
 * [2025-10-06, 03:48:34](https://news.ycombinator.com/item?id=45487476) - [1 Trillion Web Pages Archived](https://blog.archive.org/trillion/)
 * [2025-10-06, 03:42:15](https://news.ycombinator.com/item?id=45487452) - [Find Nearby Automated License Plate Readers (ALPR)](https://deflock.me/)
 * [2025-10-06, 02:20:05](https://news.ycombinator.com/item?id=45487044) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
-* [2025-10-06, 01:35:03](https://news.ycombinator.com/item?id=45486829) - [Should I choose Ada, SPARK, or Rust over C/C++? (2024)](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
 * [2025-10-05, 23:51:47](https://news.ycombinator.com/item?id=45486306) - [Rule-Based Expert Systems: The Mycin Experiments (1984)](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
 * [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
 * [2025-10-05, 22:10:15](https://news.ycombinator.com/item?id=45485736) - [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 10:51:53](https://news.ycombinator.com/item?id=45489951) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence)
 * [2025-10-06, 09:49:33](https://news.ycombinator.com/item?id=45489581) - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
 * [2025-10-06, 09:41:16](https://news.ycombinator.com/item?id=45489533) - [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
 * [2025-10-06, 08:49:30](https://news.ycombinator.com/item?id=45489174) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
