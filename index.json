@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-10-06, 16:09:22",
+      "https://news.ycombinator.com/item?id=45492888"
+    ],
+    [
+      "\"Be Different\" doesn't work for building products anymore",
+      "https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 15:39:59",
       "https://news.ycombinator.com/item?id=45492564"
     ],
     [
       "Launch HN: Grapevine (YC S19) – A company GPT that actually works",
       "https://getgrapevine.ai/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 15:25:12",
-      "https://news.ycombinator.com/item?id=45492410"
-    ],
-    [
-      "Apple's Unlawful Evil",
-      "https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-10-06, 12:37:52",
-      "https://news.ycombinator.com/item?id=45490703"
-    ],
-    [
-      "AI has found 50 bugs in cURL. \"AI-native SASTs work well\"",
-      "https://etn.se/72494"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 12:23:40",
       "https://news.ycombinator.com/item?id=45490578"
     ],
@@ -87,16 +77,6 @@
     [
       "Modern messaging: Running your own XMPP server",
       "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 09:49:33",
-      "https://news.ycombinator.com/item?id=45489581"
-    ],
-    [
-      "Build a VPN Tunnel with Wintun on Windows – Part 1",
-      "https://0xmm.in/posts/peer-to-peer-windows-part1/"
     ]
   ],
   [
@@ -181,16 +161,6 @@
   ],
   [
     [
-      "2025-10-05, 22:10:15",
-      "https://news.ycombinator.com/item?id=45485736"
-    ],
-    [
-      "Ken Parker, famed luthier, has died",
-      "https://kenparkerarchtops.com"
-    ]
-  ],
-  [
-    [
       "2025-10-05, 21:44:01",
       "https://news.ycombinator.com/item?id=45485546"
     ],
@@ -227,6 +197,16 @@
     [
       "The QNX Operating System",
       "https://www.abortretry.fail/p/the-qnx-operating-system"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 20:04:32",
+      "https://news.ycombinator.com/item?id=45467193"
+    ],
+    [
+      "Finding treasures with physics: the fingerprint matrix",
+      "https://www.tuwien.at/en/tu-wien/news/news-articles/news/physik-fuer-die-schatzsuche-die-fingerabdruck-matrix"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-10-02, 17:12:23",
+      "https://news.ycombinator.com/item?id=45452472"
+    ],
+    [
+      "Indefinite Backpack Travel",
+      "https://jeremymaluf.com/onebag/"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 12:25:41",
       "https://news.ycombinator.com/item?id=45448747"
     ],
@@ -297,6 +287,16 @@
     [
       "Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame",
       "https://www.srb2.org/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 13:05:34",
+      "https://news.ycombinator.com/item?id=45413208"
+    ],
+    [
+      "Show HN: Neural emotion matrix for NPCs",
+      "https://github.com/mavdol/npc-neural-affect-matrix"
     ]
   ]
 ]
