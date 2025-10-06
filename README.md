@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-06, 18:43:00](https://news.ycombinator.com/item?id=45494730) - [Nearly half of drivers killed in (Ohio County) crashes had THC in their blood](https://www.sciencedaily.com/releases/2025/10/251005085621.htm)
-* [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Open AI: Apps SDK](https://developers.openai.com/apps-sdk/)
-* [2025-10-06, 17:32:27](https://news.ycombinator.com/item?id=45493815) - [OpenAI Is Good at Deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
+* [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Apps SDK](https://developers.openai.com/apps-sdk/)
+* [2025-10-06, 17:32:27](https://news.ycombinator.com/item?id=45493815) - [OpenAI is good at deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
 * [2025-10-06, 17:01:31](https://news.ycombinator.com/item?id=45493453) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2025-10-06, 16:52:58](https://news.ycombinator.com/item?id=45493358) - [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
 * [2025-10-06, 16:09:22](https://news.ycombinator.com/item?id=45492888) - [\"Be Different\" doesn't work for building products anymore](https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building)
@@ -26,6 +25,7 @@
 * [2025-10-03, 02:03:16](https://news.ycombinator.com/item?id=45458050) - [Mister Macintosh](https://folklore.org/Mister_Macintosh.html)
 * [2025-10-02, 23:46:40](https://news.ycombinator.com/item?id=45456965) - [Basic Math Textbook: The Napkin Project](https://web.evanchen.cc/napkin.html)
 * [2025-10-02, 18:54:12](https://news.ycombinator.com/item?id=45453818) - [IRonCub: A Humanoid Robot Designed to Fly Like Iron Man](https://spectrum.ieee.org/ironcub-jet-powered-flying-robot)
+* [2025-10-02, 18:19:28](https://news.ycombinator.com/item?id=45453372) - [The Hunt for Huntington's](https://nehalslearnings.substack.com/p/the-hunt-for-huntingtons)
 * [2025-10-02, 17:12:23](https://news.ycombinator.com/item?id=45452472) - [Indefinite Backpack Travel](https://jeremymaluf.com/onebag/)
 * [2025-10-02, 12:25:41](https://news.ycombinator.com/item?id=45448747) - [Magic Wormhole: Get things from one computer to another, safely](https://magic-wormhole.readthedocs.io/en/latest/welcome.html)
 * [2025-10-02, 07:50:36](https://news.ycombinator.com/item?id=45447226) - [Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame](https://www.srb2.org/)

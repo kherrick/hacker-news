@@ -23,6 +23,7 @@
 * [2025-10-02, 18:54:12](https://news.ycombinator.com/item?id=45453818) - [IRonCub: A Humanoid Robot Designed to Fly Like Iron Man](https://spectrum.ieee.org/ironcub-jet-powered-flying-robot)
 * [2025-10-02, 18:37:28](https://news.ycombinator.com/item?id=45453586) - [OpenAI's H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
 * [2025-10-02, 18:26:57](https://news.ycombinator.com/item?id=45453448) - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
+* [2025-10-02, 18:19:28](https://news.ycombinator.com/item?id=45453372) - [The Hunt for Huntington's](https://nehalslearnings.substack.com/p/the-hunt-for-huntingtons)
 * [2025-10-02, 18:13:24](https://news.ycombinator.com/item?id=45453299) - [The Answer (1954)](https://sfshortstories.com/?p=5983)
 * [2025-10-02, 18:09:46](https://news.ycombinator.com/item?id=45453257) - [Dropping Trust in US Media](https://news.gallup.com/poll/695762/trust-media-new-low.aspx)
 * [2025-10-02, 18:06:41](https://news.ycombinator.com/item?id=45453222) - [I Keep Blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
