@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-06, 15:39:59](https://news.ycombinator.com/item?id=45492564) - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
 * [2025-10-06, 15:25:12](https://news.ycombinator.com/item?id=45492410) - [Apple's Unlawful Evil](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)
 * [2025-10-06, 14:53:46](https://news.ycombinator.com/item?id=45492086) - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
@@ -28,7 +29,6 @@
 * [2025-10-02, 23:46:40](https://news.ycombinator.com/item?id=45456965) - [Basic Math Textbook: The Napkin Project](https://web.evanchen.cc/napkin.html)
 * [2025-10-02, 18:54:12](https://news.ycombinator.com/item?id=45453818) - [IRonCub: A Humanoid Robot Designed to Fly Like Iron Man](https://spectrum.ieee.org/ironcub-jet-powered-flying-robot)
 * [2025-10-02, 12:25:41](https://news.ycombinator.com/item?id=45448747) - [Magic Wormhole: Get things from one computer to another, safely](https://magic-wormhole.readthedocs.io/en/latest/welcome.html)
-* [2025-10-02, 11:46:27](https://news.ycombinator.com/item?id=45448416) - [The G in GPU is for Graphics damnit](https://ut21.github.io/blog/triton.html)
 * [2025-10-02, 07:50:36](https://news.ycombinator.com/item?id=45447226) - [Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame](https://www.srb2.org/)
 
 ## [Archives](archives/index.md)

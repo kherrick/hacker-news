@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 15:39:59](https://news.ycombinator.com/item?id=45492564) - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
 * [2025-10-06, 15:25:12](https://news.ycombinator.com/item?id=45492410) - [Apple's Unlawful Evil](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)
 * [2025-10-06, 14:53:46](https://news.ycombinator.com/item?id=45492086) - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
