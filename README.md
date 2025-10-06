@@ -2,6 +2,7 @@
 
 * [2025-10-06, 21:14:51](https://news.ycombinator.com/item?id=45496406) - [WebGPU and the Price of Compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 * [2025-10-06, 20:47:25](https://news.ycombinator.com/item?id=45496146) - [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers)
+* [2025-10-06, 20:09:44](https://news.ycombinator.com/item?id=45495738) - [Translating Cython to Mojo, a first attempt](https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/)
 * [2025-10-06, 20:07:25](https://news.ycombinator.com/item?id=45495711) - [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
 * [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Apps SDK](https://developers.openai.com/apps-sdk/)
 * [2025-10-06, 17:23:20](https://news.ycombinator.com/item?id=45493718) - [OpenAI ChatKit](https://github.com/openai/chatkit-js)
@@ -21,7 +22,6 @@
 * [2025-10-06, 03:57:26](https://news.ycombinator.com/item?id=45487519) - [It's just a virus, the E.R. told him – days later, he was dead](https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html)
 * [2025-10-05, 10:01:00](https://news.ycombinator.com/item?id=45480354) - [Sharpie found a way to make pens more cheaply by manufacturing them in the U.S.](https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd)
 * [2025-10-04, 18:45:55](https://news.ycombinator.com/item?id=45475623) - [Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)](https://reiner.org/cuckoo-hashing)
-* [2025-10-04, 01:00:00](https://news.ycombinator.com/item?id=45469541) - [Orcas are bringing humans gifts](https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/)
 * [2025-10-04, 00:30:44](https://news.ycombinator.com/item?id=45469376) - [Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)](https://windscribe.com/blog/the-vpn-relationship-map/)
 * [2025-10-03, 18:01:59](https://news.ycombinator.com/item?id=45465824) - [Ink deformation](https://www.inkandswitch.com/ink/notes/ink-deformation-review/)
 * [2025-10-03, 02:03:16](https://news.ycombinator.com/item?id=45458050) - [Mister Macintosh (2004)](https://folklore.org/Mister_Macintosh.html)
