@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-06, 21:14:51",
+      "https://news.ycombinator.com/item?id=45496406"
+    ],
+    [
+      "WebGPU and the Price of Compiling WGSL",
+      "https://hugodaniel.com/posts/webgpu-diagnostics/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 20:47:25",
       "https://news.ycombinator.com/item?id=45496146"
     ],
     [
       "Valorant's 128-Tick Servers",
       "https://technology.riotgames.com/news/valorants-128-tick-servers"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 20:09:44",
+      "https://news.ycombinator.com/item?id=45495738"
+    ],
+    [
+      "Translating Cython to Mojo, a first attempt",
+      "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-10-06, 07:47:17",
-      "https://news.ycombinator.com/item?id=45488713"
-    ],
-    [
-      "Battering RAM – Low-cost interposer attacks on confidential computing",
-      "https://batteringram.eu/"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 06:35:36",
       "https://news.ycombinator.com/item?id=45488261"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-10-04, 01:00:00",
-      "https://news.ycombinator.com/item?id=45469541"
-    ],
-    [
-      "Orcas are bringing humans gifts",
-      "https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/"
-    ]
-  ],
-  [
-    [
       "2025-10-04, 00:30:44",
       "https://news.ycombinator.com/item?id=45469376"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-10-03, 01:37:23",
+      "https://news.ycombinator.com/item?id=45457825"
+    ],
+    [
+      "The math behind tiled v/s naive matrix multiplication in CUDA",
+      "https://alvinwan.com/how-to-tile-matrix-multiplication/"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 23:46:40",
       "https://news.ycombinator.com/item?id=45456965"
     ],
     [
       "Basic Math Textbook: The Napkin Project",
       "https://web.evanchen.cc/napkin.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 18:19:28",
-      "https://news.ycombinator.com/item?id=45453372"
-    ],
-    [
-      "The Hunt for Huntington's",
-      "https://nehalslearnings.substack.com/p/the-hunt-for-huntingtons"
     ]
   ],
   [
