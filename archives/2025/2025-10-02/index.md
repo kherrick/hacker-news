@@ -29,6 +29,7 @@
 * [2025-10-02, 18:00:27](https://news.ycombinator.com/item?id=45453135) - [Email immutability matters more in a world with AI](https://www.fastmail.com/blog/not-written-with-ai/)
 * [2025-10-02, 17:28:21](https://news.ycombinator.com/item?id=45452721) - [The Internet Is Better on Comet](https://www.perplexity.ai/hub/blog/comet-is-now-available-to-everyone-worldwide)
 * [2025-10-02, 17:12:57](https://news.ycombinator.com/item?id=45452480) - [Comparing a RISC and a CISC with Similar Hardware Organization](https://dl.acm.org/doi/pdf/10.1145/106972.107003)
+* [2025-10-02, 17:12:23](https://news.ycombinator.com/item?id=45452472) - [Indefinite Backpack Travel](https://jeremymaluf.com/onebag/)
 * [2025-10-02, 17:01:16](https://news.ycombinator.com/item?id=45452299) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
 * [2025-10-02, 16:58:55](https://news.ycombinator.com/item?id=45452261) - [Why I chose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
 * [2025-10-02, 16:48:59](https://news.ycombinator.com/item?id=45452149) - [Linux Desktop on Apple Silicon in Practice](https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5)
