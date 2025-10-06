@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-10-06, 17:23:20",
+      "https://news.ycombinator.com/item?id=45493718"
+    ],
+    [
+      "OpenAI ChatKit",
+      "https://github.com/openai/chatkit-js"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 17:22:48",
       "https://news.ycombinator.com/item?id=45493713"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-10-06, 14:51:11",
-      "https://news.ycombinator.com/item?id=45492055"
-    ],
-    [
-      "Novel Stable and Low-Energy Earth-Moon Cycle Orbits [pdf]",
-      "https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 14:07:46",
       "https://news.ycombinator.com/item?id=45491621"
     ],
@@ -117,16 +117,6 @@
     [
       "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
       "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 12:17:59",
-      "https://news.ycombinator.com/item?id=45490549"
-    ],
-    [
-      "AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake",
-      "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/"
     ]
   ],
   [
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2025-10-06, 06:35:36",
-      "https://news.ycombinator.com/item?id=45488261"
-    ],
-    [
-      "Structured Procrastination (1995)",
-      "https://structuredprocrastination.com"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 04:59:39",
       "https://news.ycombinator.com/item?id=45487771"
     ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2025-10-04, 18:45:55",
+      "https://news.ycombinator.com/item?id=45475623"
+    ],
+    [
+      "Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)",
+      "https://reiner.org/cuckoo-hashing"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 01:00:00",
       "https://news.ycombinator.com/item?id=45469541"
     ],
@@ -227,16 +217,6 @@
     [
       "Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)",
       "https://windscribe.com/blog/the-vpn-relationship-map/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 20:04:32",
-      "https://news.ycombinator.com/item?id=45467193"
-    ],
-    [
-      "Finding treasures with physics: the fingerprint matrix",
-      "https://www.tuwien.at/en/tu-wien/news/news-articles/news/physik-fuer-die-schatzsuche-die-fingerabdruck-matrix"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Indefinite Backpack Travel",
       "https://jeremymaluf.com/onebag/"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 15:43:01",
+      "https://news.ycombinator.com/item?id=45451217"
+    ],
+    [
+      "Writing high-performance matrix multiplication kernels for Blackwell",
+      "https://docs.jax.dev/en/latest/pallas/gpu/blackwell_matmul.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 12:54:13",
+      "https://news.ycombinator.com/item?id=45449015"
+    ],
+    [
+      "Kirigami-inspired parachute falls on target",
+      "https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/"
     ]
   ]
 ]
