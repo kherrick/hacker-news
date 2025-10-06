@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
 * [2025-10-06, 18:43:00](https://news.ycombinator.com/item?id=45494730) - [Nearly half of drivers killed in (Ohio County) crashes had THC in their blood](https://www.sciencedaily.com/releases/2025/10/251005085621.htm)
+* [2025-10-06, 18:30:46](https://news.ycombinator.com/item?id=45494592) - [OpenZL: A Novel Data Compression Framework](https://github.com/facebook/openzl)
 * [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Open AI: Apps SDK](https://developers.openai.com/apps-sdk/)
 * [2025-10-06, 18:10:19](https://news.ycombinator.com/item?id=45494300) - [Europe Crushes Innovation](https://www.economist.com/europe/2025/10/02/how-europe-crushes-innovation)
 * [2025-10-06, 17:32:27](https://news.ycombinator.com/item?id=45493815) - [OpenAI Is Good at Deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
+* [2025-10-06, 17:22:48](https://news.ycombinator.com/item?id=45493713) - [The word \"dumpster\" was originally a trademarked brand name, not a generic term](https://www.classicrefusetrucks.com/albums/DE/DE01.html)
 * [2025-10-06, 17:01:31](https://news.ycombinator.com/item?id=45493453) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2025-10-06, 16:52:58](https://news.ycombinator.com/item?id=45493358) - [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
 * [2025-10-06, 16:47:02](https://news.ycombinator.com/item?id=45493301) - [When ChatGPT Turns Informant](https://www.futureofbeinghuman.com/p/when-chatgpt-turns-snitch)
