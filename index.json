@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-06, 20:07:25",
+      "https://news.ycombinator.com/item?id=45495711"
+    ],
+    [
+      "My Life in Ambigrammia",
+      "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 18:27:33",
       "https://news.ycombinator.com/item?id=45494558"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=45488713"
     ],
     [
-      "Battering RAM – Low-Cost Interposer Attacks on Confidential Computing",
+      "Battering RAM – Low-cost interposer attacks on confidential computing",
       "https://batteringram.eu/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Ink deformation",
       "https://www.inkandswitch.com/ink/notes/ink-deformation-review/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 18:01:48",
-      "https://news.ycombinator.com/item?id=45465821"
-    ],
-    [
-      "CLI tool to convert OpenBSD Packet Filter config files to JSON and vice versa",
-      "https://github.com/fleximus/pfjson"
     ]
   ],
   [
