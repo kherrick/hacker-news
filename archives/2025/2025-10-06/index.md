@@ -9,6 +9,7 @@
 * [2025-10-06, 16:47:02](https://news.ycombinator.com/item?id=45493301) - [When ChatGPT Turns Informant](https://www.futureofbeinghuman.com/p/when-chatgpt-turns-snitch)
 * [2025-10-06, 16:46:12](https://news.ycombinator.com/item?id=45493287) - [The AI bubble is 17 times the size of the dot-com frenzy and four times subprime](https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues)
 * [2025-10-06, 16:43:23](https://news.ycombinator.com/item?id=45493255) - [The worrying kink in this job openings, unemployment curve](https://www.axios.com/2025/10/06/jobs-unemployment-fed-interest-rates)
+* [2025-10-06, 16:32:30](https://news.ycombinator.com/item?id=45493143) - [One to two Starlink satellites are falling back to Earth each day](https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/)
 * [2025-10-06, 16:09:22](https://news.ycombinator.com/item?id=45492888) - [\"Be Different\" doesn't work for building products anymore](https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building)
 * [2025-10-06, 15:39:59](https://news.ycombinator.com/item?id=45492564) - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
 * [2025-10-06, 15:25:12](https://news.ycombinator.com/item?id=45492410) - [Apple's Unlawful Evil](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)
