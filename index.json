@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-10-06, 18:43:00",
-      "https://news.ycombinator.com/item?id=45494730"
-    ],
-    [
-      "Nearly half of drivers killed in (Ohio County) crashes had THC in their blood",
-      "https://www.sciencedaily.com/releases/2025/10/251005085621.htm"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 18:30:46",
-      "https://news.ycombinator.com/item?id=45494592"
-    ],
-    [
-      "OpenZL: A Novel Data Compression Framework",
-      "https://github.com/facebook/openzl"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 18:27:33",
       "https://news.ycombinator.com/item?id=45494558"
     ],
@@ -31,32 +11,12 @@
   ],
   [
     [
-      "2025-10-06, 17:56:38",
-      "https://news.ycombinator.com/item?id=45494126"
-    ],
-    [
-      "How the US got left behind in the electric car race",
-      "https://www.bbc.com/news/articles/c8ex2l58en4o"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 17:22:48",
       "https://news.ycombinator.com/item?id=45493713"
     ],
     [
       "Beginnings: The Dempster Dumpster",
       "https://www.classicrefusetrucks.com/albums/DE/DE01.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 17:13:46",
-      "https://news.ycombinator.com/item?id=45493609"
-    ],
-    [
-      "ACP Brings JetBrains on Board",
-      "https://zed.dev/blog/jetbrains-on-acp"
     ]
   ],
   [
@@ -101,12 +61,12 @@
   ],
   [
     [
-      "2025-10-06, 16:09:22",
-      "https://news.ycombinator.com/item?id=45492888"
+      "2025-10-06, 16:01:58",
+      "https://news.ycombinator.com/item?id=45492803"
     ],
     [
-      "\"Be Different\" doesn't work for building products anymore",
-      "https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building"
+      "OpenZL: An open source format-aware compression framework",
+      "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/"
     ]
   ],
   [
@@ -191,6 +151,16 @@
   ],
   [
     [
+      "2025-10-06, 07:47:17",
+      "https://news.ycombinator.com/item?id=45488713"
+    ],
+    [
+      "Battering RAM – Low-Cost Interposer Attacks on Confidential Computing",
+      "https://batteringram.eu/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 07:07:11",
       "https://news.ycombinator.com/item?id=45488441"
     ],
@@ -221,6 +191,26 @@
   ],
   [
     [
+      "2025-10-06, 03:57:26",
+      "https://news.ycombinator.com/item?id=45487519"
+    ],
+    [
+      "It's just a virus, the E.R. told him – days later, he was dead",
+      "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 17:20:39",
+      "https://news.ycombinator.com/item?id=45483386"
+    ],
+    [
+      "Fire destroys S. Korean government's cloud storage system, no backups available",
+      "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 01:00:00",
       "https://news.ycombinator.com/item?id=45469541"
     ],
@@ -247,6 +237,16 @@
     [
       "Ink deformation",
       "https://www.inkandswitch.com/ink/notes/ink-deformation-review/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 18:01:48",
+      "https://news.ycombinator.com/item?id=45465821"
+    ],
+    [
+      "CLI tool to convert OpenBSD Packet Filter config files to JSON and vice versa",
+      "https://github.com/fleximus/pfjson"
     ]
   ],
   [
