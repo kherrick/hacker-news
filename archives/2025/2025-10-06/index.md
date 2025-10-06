@@ -6,6 +6,7 @@
 
 * [2025-10-06, 07:07:11](https://news.ycombinator.com/item?id=45488441) - [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
 * [2025-10-06, 06:35:36](https://news.ycombinator.com/item?id=45488261) - [Structured Procrastination](https://structuredprocrastination.com)
+* [2025-10-06, 04:59:39](https://news.ycombinator.com/item?id=45487771) - [Gem.coop](https://gem.coop/)
 * [2025-10-06, 04:25:31](https://news.ycombinator.com/item?id=45487629) - [CHERI with a Linux on Top](https://lwn.net/Articles/1037974/)
 * [2025-10-06, 04:00:32](https://news.ycombinator.com/item?id=45487531) - [Michigan Anti-Porn Bill Criminalizes ASMR, Erotica, Depictions of Trans People](https://reason.com/2025/09/22/michigan-anti-porn-bill-would-criminalize-asmr-written-erotica-and-even-nonsexual-depictions-of-trans-people/)
 * [2025-10-06, 03:48:34](https://news.ycombinator.com/item?id=45487476) - [Internet Archive – Celebrating 1T Web Pages Archived](https://blog.archive.org/trillion/)
