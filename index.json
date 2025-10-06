@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-10-06, 04:25:31",
+      "https://news.ycombinator.com/item?id=45487629"
+    ],
+    [
+      "CHERI with a Linux on Top",
+      "https://lwn.net/Articles/1037974/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 03:48:34",
       "https://news.ycombinator.com/item?id=45487476"
     ],
     [
-      "Celebrating 1 Trillion Web Pages Archived",
+      "1 Trillion Web Pages Archived",
       "https://blog.archive.org/trillion/"
     ]
   ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-10-06, 01:34:31",
-      "https://news.ycombinator.com/item?id=45486825"
-    ],
-    [
-      "Mic-E-Mouse – Covert eavesdropping through computer mice",
-      "https://sites.google.com/view/mic-e-mouse"
-    ]
-  ],
-  [
-    [
       "2025-10-05, 23:51:47",
       "https://news.ycombinator.com/item?id=45486306"
     ],
@@ -77,6 +77,16 @@
     [
       "Estimating AI energy use",
       "https://spectrum.ieee.org/ai-energy-use"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 22:18:31",
+      "https://news.ycombinator.com/item?id=45485806"
+    ],
+    [
+      "Germany outfitted half a million balconies with solar panels",
+      "https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "What GPT-OSS leaks about OpenAI's training data",
       "https://fi-le.net/oss/"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 17:50:17",
-      "https://news.ycombinator.com/item?id=45483651"
-    ],
-    [
-      "Callbacks in C++ using template functors (1994)",
-      "http://www.tutok.sk/fastgl/callback.html"
     ]
   ],
   [
