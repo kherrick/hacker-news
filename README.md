@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-06, 06:35:36](https://news.ycombinator.com/item?id=45488261) - [Structured Procrastination](https://structuredprocrastination.com)
 * [2025-10-06, 04:25:31](https://news.ycombinator.com/item?id=45487629) - [CHERI with a Linux on Top](https://lwn.net/Articles/1037974/)
 * [2025-10-06, 03:48:34](https://news.ycombinator.com/item?id=45487476) - [1 Trillion Web Pages Archived](https://blog.archive.org/trillion/)
 * [2025-10-06, 03:42:15](https://news.ycombinator.com/item?id=45487452) - [Find Nearby Automated License Plate Readers (ALPR)](https://deflock.me/)
@@ -13,7 +14,6 @@
 * [2025-10-05, 20:55:26](https://news.ycombinator.com/item?id=45485175) - [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
 * [2025-10-05, 19:09:35](https://news.ycombinator.com/item?id=45484284) - [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
 * [2025-10-05, 18:28:16](https://news.ycombinator.com/item?id=45483924) - [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
-* [2025-10-05, 17:36:20](https://news.ycombinator.com/item?id=45483531) - [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
 * [2025-10-05, 17:20:39](https://news.ycombinator.com/item?id=45483386) - [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 * [2025-10-05, 15:54:01](https://news.ycombinator.com/item?id=45482516) - [BYD builds fastest car](https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car)
 * [2025-10-05, 15:49:58](https://news.ycombinator.com/item?id=45482467) - [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
