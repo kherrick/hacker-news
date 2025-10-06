@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-06, 01:34:31",
+      "https://news.ycombinator.com/item?id=45486825"
+    ],
+    [
+      "Covert Eavesdropping Through Computer Mice",
+      "https://sites.google.com/view/mic-e-mouse"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 23:51:47",
+      "https://news.ycombinator.com/item?id=45486306"
+    ],
+    [
+      "Rule-Based Expert Systems: The Mycin Experiments (1984)",
+      "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 23:00:23",
+      "https://news.ycombinator.com/item?id=45486031"
+    ],
+    [
+      "Generative AI's Energy Needs Are Reshaping Our World",
+      "https://spectrum.ieee.org/ai-energy-use"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 22:18:31",
       "https://news.ycombinator.com/item?id=45485806"
     ],
@@ -21,32 +51,12 @@
   ],
   [
     [
-      "2025-10-05, 21:44:01",
-      "https://news.ycombinator.com/item?id=45485546"
-    ],
-    [
-      "The dangerous intimacy of social location sharing",
-      "https://joinreboot.org/p/lighthouses-in-the-sky"
-    ]
-  ],
-  [
-    [
       "2025-10-05, 20:55:26",
       "https://news.ycombinator.com/item?id=45485175"
     ],
     [
       "The death of industrial design and the era of dull electronics",
       "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 20:46:22",
-      "https://news.ycombinator.com/item?id=45485089"
-    ],
-    [
-      "Ask HN: Any advice on pivoting out of VC-backed tech?",
-      "https://news.ycombinator.com/item?id=45485089"
     ]
   ],
   [
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2025-10-03, 00:08:51",
-      "https://news.ycombinator.com/item?id=45457143"
-    ],
-    [
-      "Connecticut Trail Census Dashboard (2025)",
-      "https://experience.arcgis.com/experience/04f19d6c0a634a188cad8bbf7e8475ba/page/Page-1?draft=true&views=-2025"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 20:13:53",
-      "https://news.ycombinator.com/item?id=45454940"
-    ],
-    [
-      "Why are hyperlinks blue? (2021)",
-      "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 17:12:57",
       "https://news.ycombinator.com/item?id=45452480"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2025-10-02, 05:43:37",
-      "https://news.ycombinator.com/item?id=45446654"
+      "2025-10-02, 11:07:16",
+      "https://news.ycombinator.com/item?id=45448204"
     ],
     [
-      "Matrix Core Programming on AMD CDNA3 and CDNA4 Architecture",
-      "https://salykova.github.io/matrix-cores-cdna"
+      "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
+      "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 07:50:36",
+      "https://news.ycombinator.com/item?id=45447226"
+    ],
+    [
+      "Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame",
+      "https://www.srb2.org/"
     ]
   ],
   [
