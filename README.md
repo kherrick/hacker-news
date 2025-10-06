@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-06, 10:51:53](https://news.ycombinator.com/item?id=45489951) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence)
+* [2025-10-06, 10:44:38](https://news.ycombinator.com/item?id=45489904) - [Disney+ Subscribers Face a Wave of Cancellations](https://www.techbook-magazine.com/streaming/providers/disney-subscribers-face-a-wave-of-cancellations)
 * [2025-10-06, 09:49:33](https://news.ycombinator.com/item?id=45489581) - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
 * [2025-10-06, 09:41:16](https://news.ycombinator.com/item?id=45489533) - [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
 * [2025-10-06, 08:49:30](https://news.ycombinator.com/item?id=45489174) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
@@ -19,7 +20,6 @@
 * [2025-10-05, 15:49:58](https://news.ycombinator.com/item?id=45482467) - [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
 * [2025-10-05, 14:47:13](https://news.ycombinator.com/item?id=45481892) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
 * [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
-* [2025-10-04, 14:22:04](https://news.ycombinator.com/item?id=45473516) - [Explainer: Inodes and Inode Numbers](https://eclecticlight.co/2025/10/04/explainer-inodes-and-inode-numbers/)
 * [2025-10-04, 01:24:35](https://news.ycombinator.com/item?id=45469658) - [Retrocide Mono – A monospaced font with no decenders](https://geonot.github.io/retrocide-mono/)
 * [2025-10-04, 01:00:00](https://news.ycombinator.com/item?id=45469541) - [Orcas are bringing humans gifts](https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/)
 * [2025-10-03, 05:52:06](https://news.ycombinator.com/item?id=45459466) - [Delimited Continuations in Lone Lisp](https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp)
