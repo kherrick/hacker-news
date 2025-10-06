@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-06, 14:06:29](https://news.ycombinator.com/item?id=45491609) - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
+* [2025-10-06, 13:42:30](https://news.ycombinator.com/item?id=45491340) - [ICE Targets Children with Payment in Exchange for Deportation](https://theintercept.com/2025/10/03/ice-children-deportation-payment/)
 * [2025-10-06, 12:23:40](https://news.ycombinator.com/item?id=45490578) - [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
 * [2025-10-06, 12:17:59](https://news.ycombinator.com/item?id=45490549) - [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/)
 * [2025-10-06, 12:02:45](https://news.ycombinator.com/item?id=45490439) - [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
@@ -19,8 +21,6 @@
 * [2025-10-05, 17:20:39](https://news.ycombinator.com/item?id=45483386) - [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 * [2025-10-05, 15:49:58](https://news.ycombinator.com/item?id=45482467) - [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
 * [2025-10-05, 14:47:13](https://news.ycombinator.com/item?id=45481892) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
-* [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
-* [2025-10-04, 01:24:35](https://news.ycombinator.com/item?id=45469658) - [Retrocide Mono – A monospaced font with no decenders](https://geonot.github.io/retrocide-mono/)
 * [2025-10-04, 01:00:00](https://news.ycombinator.com/item?id=45469541) - [Orcas are bringing humans gifts](https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/)
 * [2025-10-03, 18:01:48](https://news.ycombinator.com/item?id=45465821) - [CLI tool to convert OpenBSD Packet Filter config files to JSON and vice versa](https://github.com/fleximus/pfjson)
 * [2025-10-03, 05:52:06](https://news.ycombinator.com/item?id=45459466) - [Delimited Continuations in Lone Lisp](https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp)
