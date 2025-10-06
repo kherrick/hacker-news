@@ -59,4 +59,5 @@
 * [2025-10-04, 00:45:40](https://news.ycombinator.com/item?id=45469468) - [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
 * [2025-10-04, 00:39:14](https://news.ycombinator.com/item?id=45469437) - [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
 * [2025-10-04, 00:39:04](https://news.ycombinator.com/item?id=45469436) - [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
+* [2025-10-04, 00:30:44](https://news.ycombinator.com/item?id=45469376) - [Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)](https://windscribe.com/blog/the-vpn-relationship-map/)
 * [2025-10-04, 00:19:02](https://news.ycombinator.com/item?id=45469285) - [Binary Formats Gallery](https://formats.kaitai.io/)
