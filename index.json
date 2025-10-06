@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-10-06, 23:15:26",
+      "https://news.ycombinator.com/item?id=45497384"
+    ],
+    [
+      "Microsoft is plugging more holes that let you use Windows 11 without MS account",
+      "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 22:30:12",
+      "https://news.ycombinator.com/item?id=45497027"
+    ],
+    [
+      "RediShell: Critical remote code execution vulnerability in Redis",
+      "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 21:28:56",
       "https://news.ycombinator.com/item?id=45496533"
     ],
     [
-      "DeepMind: CodeMender: an AI agent for code security",
+      "CodeMender: an AI agent for code security",
       "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/"
     ]
   ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-10-06, 16:32:30",
-      "https://news.ycombinator.com/item?id=45493143"
-    ],
-    [
-      "One to two Starlink satellites are falling back to Earth each day",
-      "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 16:01:58",
       "https://news.ycombinator.com/item?id=45492803"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-10-06, 03:57:26",
-      "https://news.ycombinator.com/item?id=45487519"
-    ],
-    [
-      "It's just a virus, the E.R. told him – days later, he was dead",
-      "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html"
-    ]
-  ],
-  [
-    [
       "2025-10-05, 10:01:00",
       "https://news.ycombinator.com/item?id=45480354"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2025-10-03, 18:01:59",
-      "https://news.ycombinator.com/item?id=45465824"
+      "2025-10-03, 04:24:58",
+      "https://news.ycombinator.com/item?id=45458973"
     ],
     [
-      "Ink deformation",
-      "https://www.inkandswitch.com/ink/notes/ink-deformation-review/"
+      "Why did Crunchyroll's subtitles just get worse?",
+      "https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles"
     ]
   ],
   [
