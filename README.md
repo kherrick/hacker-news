@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-06, 02:30:59](https://news.ycombinator.com/item?id=45487099) - [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/)
 * [2025-10-06, 02:20:05](https://news.ycombinator.com/item?id=45487044) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
 * [2025-10-06, 01:35:03](https://news.ycombinator.com/item?id=45486829) - [Should I choose Ada, SPARK, or Rust over C/C++? (2024)](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
 * [2025-10-06, 01:34:31](https://news.ycombinator.com/item?id=45486825) - [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
@@ -14,6 +13,7 @@
 * [2025-10-05, 17:50:17](https://news.ycombinator.com/item?id=45483651) - [Callbacks in C++ using template functors (1994)](http://www.tutok.sk/fastgl/callback.html)
 * [2025-10-05, 17:36:20](https://news.ycombinator.com/item?id=45483531) - [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
 * [2025-10-05, 17:20:39](https://news.ycombinator.com/item?id=45483386) - [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
+* [2025-10-05, 17:01:19](https://news.ycombinator.com/item?id=45483205) - [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522)
 * [2025-10-05, 15:54:01](https://news.ycombinator.com/item?id=45482516) - [BYD builds fastest car](https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car)
 * [2025-10-05, 15:49:58](https://news.ycombinator.com/item?id=45482467) - [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
 * [2025-10-05, 15:36:21](https://news.ycombinator.com/item?id=45482333) - [Show HN: ASCII Drawing Board](https://www.delopsu.com/draw.html)
