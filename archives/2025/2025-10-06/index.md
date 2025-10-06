@@ -9,6 +9,7 @@
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [2025-10-06, 14:06:29](https://news.ycombinator.com/item?id=45491609) - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
 * [2025-10-06, 13:42:30](https://news.ycombinator.com/item?id=45491340) - [ICE Targets Children with Payment in Exchange for Deportation](https://theintercept.com/2025/10/03/ice-children-deportation-payment/)
+* [2025-10-06, 12:37:52](https://news.ycombinator.com/item?id=45490703) - [AI has found 50 bugs in cURL. \"AI-native SASTs work well\"](https://etn.se/72494)
 * [2025-10-06, 12:23:40](https://news.ycombinator.com/item?id=45490578) - [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
 * [2025-10-06, 12:17:59](https://news.ycombinator.com/item?id=45490549) - [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/)
 * [2025-10-06, 12:02:45](https://news.ycombinator.com/item?id=45490439) - [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
