@@ -19,7 +19,7 @@
 * [2025-10-06, 10:58:14](https://news.ycombinator.com/item?id=45489999) - [Show HN: I've build a platform for writing technical/scientific documents](https://www.monsterwriter.com)
 * [2025-10-06, 09:41:16](https://news.ycombinator.com/item?id=45489533) - [Nobel Prize in Physiology or Medicine 2025](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
 * [2025-10-06, 04:59:39](https://news.ycombinator.com/item?id=45487771) - [Gem.coop](https://gem.coop/)
-* [2025-10-05, 10:01:00](https://news.ycombinator.com/item?id=45480354) - [Sharpie found a way to make pens more cheaply by manufacturing them in the U.S.](https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd)
+* [2025-10-06, 03:57:26](https://news.ycombinator.com/item?id=45487519) - [It's just a virus, the E.R. told him – days later, he was dead](https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html)
 * [2025-10-04, 18:45:55](https://news.ycombinator.com/item?id=45475623) - [Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)](https://reiner.org/cuckoo-hashing)
 * [2025-10-04, 18:18:55](https://news.ycombinator.com/item?id=45475416) - [An MVCC-like columnar table on S3 with constant-time deletes](https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/)
 * [2025-10-04, 00:30:44](https://news.ycombinator.com/item?id=45469376) - [Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)](https://windscribe.com/blog/the-vpn-relationship-map/)
