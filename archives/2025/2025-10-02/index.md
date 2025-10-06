@@ -19,6 +19,7 @@
 * [2025-10-02, 19:34:08](https://news.ycombinator.com/item?id=45454374) - [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement)
 * [2025-10-02, 19:19:15](https://news.ycombinator.com/item?id=45454149) - [Gov Workers Say Their Shutdown Out-of-Office Replies Were Forcibly Changed](https://www.wired.com/story/government-workers-say-their-out-of-office-replies-were-forcibly-changed-to-blame-democrats-for-shutdown/)
 * [2025-10-02, 19:02:57](https://news.ycombinator.com/item?id=45453936) - [Litestream v0.5.0](https://fly.io/blog/litestream-v050-is-here/)
+* [2025-10-02, 18:54:12](https://news.ycombinator.com/item?id=45453818) - [IRonCub: A Humanoid Robot Designed to Fly Like Iron Man](https://spectrum.ieee.org/ironcub-jet-powered-flying-robot)
 * [2025-10-02, 18:37:28](https://news.ycombinator.com/item?id=45453586) - [OpenAI's H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
 * [2025-10-02, 18:26:57](https://news.ycombinator.com/item?id=45453448) - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
 * [2025-10-02, 18:13:24](https://news.ycombinator.com/item?id=45453299) - [The Answer (1954)](https://sfshortstories.com/?p=5983)
