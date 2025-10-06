@@ -27,6 +27,7 @@
 * [2025-10-03, 18:24:58](https://news.ycombinator.com/item?id=45466086) - [PEP 810 – Explicit lazy imports](https://pep-previews--4622.org.readthedocs.build/pep-0810/)
 * [2025-10-03, 18:13:42](https://news.ycombinator.com/item?id=45465969) - [The AI bubble is 17 times the size of the dot-com frenzy, analyst says](https://www.marketwatch.com/story/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-this-analyst-argues-046e7c5c)
 * [2025-10-03, 18:13:16](https://news.ycombinator.com/item?id=45465964) - [ICE Wants to Build Out a 24/7 Social Media Surveillance Team](https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/)
+* [2025-10-03, 18:01:59](https://news.ycombinator.com/item?id=45465824) - [Ink Deformation – A Review](https://www.inkandswitch.com/ink/notes/ink-deformation-review/)
 * [2025-10-03, 18:01:48](https://news.ycombinator.com/item?id=45465821) - [CLI tool to convert OpenBSD Packet Filter config files to JSON and vice versa](https://github.com/fleximus/pfjson)
 * [2025-10-03, 18:00:02](https://news.ycombinator.com/item?id=45465803) - [Apple removes ICEBlock, won't allow apps that report locations of ICE agents](https://arstechnica.com/tech-policy/2025/10/apple-bends-to-trump-admin-demand-to-remove-ice-tracking-apps-like-iceblock/)
 * [2025-10-03, 17:27:02](https://news.ycombinator.com/item?id=45465392) - [Email was the user interface for the first AI recommendation engines](https://buttondown.com/blog/ringo-email-as-an-ai-interface)
