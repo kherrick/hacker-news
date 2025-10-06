@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 21:14:51](https://news.ycombinator.com/item?id=45496406) - [WebGPU and the Price of Compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 * [2025-10-06, 20:47:25](https://news.ycombinator.com/item?id=45496146) - [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers)
+* [2025-10-06, 20:09:44](https://news.ycombinator.com/item?id=45495738) - [Translating Cython to Mojo, a first attempt](https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/)
 * [2025-10-06, 20:07:25](https://news.ycombinator.com/item?id=45495711) - [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
 * [2025-10-06, 18:43:00](https://news.ycombinator.com/item?id=45494730) - [Nearly half of drivers killed in (Ohio County) crashes had THC in their blood](https://www.sciencedaily.com/releases/2025/10/251005085621.htm)
 * [2025-10-06, 18:30:46](https://news.ycombinator.com/item?id=45494592) - [OpenZL: A Novel Data Compression Framework](https://github.com/facebook/openzl)

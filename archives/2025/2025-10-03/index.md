@@ -92,6 +92,7 @@
 * [2025-10-03, 02:03:16](https://news.ycombinator.com/item?id=45458050) - [Mister Macintosh](https://folklore.org/Mister_Macintosh.html)
 * [2025-10-03, 01:55:26](https://news.ycombinator.com/item?id=45457980) - [Claude Is Down](https://status.claude.com)
 * [2025-10-03, 01:49:52](https://news.ycombinator.com/item?id=45457929) - [I Trained a Small Language Model from Scratch](https://nwosunneoma.medium.com/how-i-trained-a-small-language-model-from-scratch-8af167479d1a)
+* [2025-10-03, 01:37:23](https://news.ycombinator.com/item?id=45457825) - [The math behind tiled v/s naive matrix multiplication in CUDA](https://alvinwan.com/how-to-tile-matrix-multiplication/)
 * [2025-10-03, 01:32:36](https://news.ycombinator.com/item?id=45457779) - [We Gave Our AI Agents Twitter and Now They're Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
 * [2025-10-03, 01:20:32](https://news.ycombinator.com/item?id=45457670) - [I spent the day teaching seniors how to use an iPhone](https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/)
 * [2025-10-03, 00:51:26](https://news.ycombinator.com/item?id=45457460) - [Microcomputers – The Second Wave: Toward a Mass Market](https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/)
