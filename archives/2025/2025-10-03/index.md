@@ -68,6 +68,7 @@
 * [2025-10-03, 10:42:26](https://news.ycombinator.com/item?id=45461329) - [Circassian Genocide](https://en.wikipedia.org/wiki/Circassian_genocide)
 * [2025-10-03, 09:03:46](https://news.ycombinator.com/item?id=45460707) - [Apple Pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
 * [2025-10-03, 08:09:49](https://news.ycombinator.com/item?id=45460329) - [Talent Is Alignment](https://xlii.space/thoughts/talent-is-alignment/)
+* [2025-10-03, 08:06:09](https://news.ycombinator.com/item?id=45460307) - [Protecting your (my) passport from liquid damage](https://blog.jgc.org/2025/10/protecting-your-my-passport-from-liquid.html)
 * [2025-10-03, 05:52:06](https://news.ycombinator.com/item?id=45459466) - [Delimited Continuations in Lone Lisp](https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp)
 * [2025-10-03, 05:16:28](https://news.ycombinator.com/item?id=45459254) - [Stripe to take 30% cut of disputed revenue you recover](https://news.ycombinator.com/item?id=45459254)
 * [2025-10-03, 05:13:47](https://news.ycombinator.com/item?id=45459233) - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
