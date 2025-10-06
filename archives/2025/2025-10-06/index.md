@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 12:23:40](https://news.ycombinator.com/item?id=45490578) - [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
+* [2025-10-06, 12:17:59](https://news.ycombinator.com/item?id=45490549) - [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/)
+* [2025-10-06, 12:02:45](https://news.ycombinator.com/item?id=45490439) - [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
+* [2025-10-06, 10:54:47](https://news.ycombinator.com/item?id=45489978) - [State Terror, American Style – Paul Krugman](https://paulkrugman.substack.com/p/state-terror-american-style)
 * [2025-10-06, 10:51:53](https://news.ycombinator.com/item?id=45489951) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence)
 * [2025-10-06, 10:44:38](https://news.ycombinator.com/item?id=45489904) - [Disney+ Subscribers Face a Wave of Cancellations](https://www.techbook-magazine.com/streaming/providers/disney-subscribers-face-a-wave-of-cancellations)
 * [2025-10-06, 09:49:33](https://news.ycombinator.com/item?id=45489581) - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
