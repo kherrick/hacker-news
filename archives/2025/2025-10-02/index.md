@@ -9,6 +9,7 @@
 * [2025-10-02, 21:47:31](https://news.ycombinator.com/item?id=45456003) - [PortalVR: XR Without a Headset](https://portalvr.io/)
 * [2025-10-02, 21:34:42](https://news.ycombinator.com/item?id=45455882) - [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
 * [2025-10-02, 21:21:49](https://news.ycombinator.com/item?id=45455719) - [Launching Solveit – an antidote to AI fatigue](https://www.answer.ai/posts/2025-10-01-solveit-full.html)
+* [2025-10-02, 21:10:45](https://news.ycombinator.com/item?id=45455608) - [Joint Book Review: Class, by Paul Fussell](https://www.thepsmiths.com/p/joint-review-class-by-paul-fussell)
 * [2025-10-02, 20:54:42](https://news.ycombinator.com/item?id=45455438) - [Austria's Armed Forces Gets Rid of Microsoft Office (Mostly) for LibreOffice](https://news.itsfoss.com/austrian-forces-ditch-microsoft-office/)
 * [2025-10-02, 20:47:33](https://news.ycombinator.com/item?id=45455356) - [Catalyst evolution reveals the unsung heroes in industrial ammonia production](https://phys.org/news/2025-09-catalyst-evolution-reveals-unsung-heroes.html)
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it's at://](https://overreacted.io/where-its-at/)

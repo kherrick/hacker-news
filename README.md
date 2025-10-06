@@ -24,7 +24,7 @@
 * [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
 * [2025-10-05, 04:11:55](https://news.ycombinator.com/item?id=45478780) - [Ambigr.am](https://ambigr.am/hall-of-fame)
 * [2025-10-04, 14:22:04](https://news.ycombinator.com/item?id=45473516) - [Explainer: Inodes and Inode Numbers](https://eclecticlight.co/2025/10/04/explainer-inodes-and-inode-numbers/)
-* [2025-10-03, 02:59:18](https://news.ycombinator.com/item?id=45458455) - [Which table format do LLMs understand best?](https://www.improvingagents.com/blog/best-input-data-format-for-llms)
+* [2025-10-02, 21:10:45](https://news.ycombinator.com/item?id=45455608) - [Joint Book Review: Class, by Paul Fussell](https://www.thepsmiths.com/p/joint-review-class-by-paul-fussell)
 * [2025-10-02, 20:47:33](https://news.ycombinator.com/item?id=45455356) - [Catalyst evolution reveals the unsung heroes in industrial ammonia production](https://phys.org/news/2025-09-catalyst-evolution-reveals-unsung-heroes.html)
 * [2025-10-02, 14:49:12](https://news.ycombinator.com/item?id=45450392) - [Intro to BirdNET-Pi: Eavesdropping on my feathered friends](https://hannahilea.com/blog/birdnet-intro/)
 * [2025-10-02, 12:25:41](https://news.ycombinator.com/item?id=45448747) - [Magic Wormhole: Get things from one computer to another, safely](https://magic-wormhole.readthedocs.io/en/latest/welcome.html)
