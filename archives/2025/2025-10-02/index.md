@@ -56,6 +56,7 @@
 * [2025-10-02, 12:34:43](https://news.ycombinator.com/item?id=45448825) - [EU funds are flowing into spyware companies and politicians demanding answers](https://www.theregister.com/2025/10/02/eu_spyware_funding/)
 * [2025-10-02, 12:31:53](https://news.ycombinator.com/item?id=45448802) - [Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month](https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/)
 * [2025-10-02, 12:28:27](https://news.ycombinator.com/item?id=45448772) - [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
+* [2025-10-02, 12:25:41](https://news.ycombinator.com/item?id=45448747) - [Magic Wormhole: Get things from one computer to another, safely](https://magic-wormhole.readthedocs.io/en/latest/welcome.html)
 * [2025-10-02, 12:19:49](https://news.ycombinator.com/item?id=45448702) - [Why America still needs public schools](https://theconversation.com/why-america-still-needs-public-schools-260368)
 * [2025-10-02, 12:00:33](https://news.ycombinator.com/item?id=45448539) - [Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End)](https://careers.activeloop.ai/)
 * [2025-10-02, 11:58:27](https://news.ycombinator.com/item?id=45448525) - [Show HN: The Little Book of C](https://github.com/little-book-of/c)
