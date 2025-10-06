@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-10-06, 02:30:59",
+      "https://news.ycombinator.com/item?id=45487099"
+    ],
+    [
+      "Revocation Confusion",
+      "https://nullpxl.com/post/revocation-confusion/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 01:35:03",
+      "https://news.ycombinator.com/item?id=45486829"
+    ],
+    [
+      "Should I choose Ada, SPARK, or Rust over C/C++?",
+      "https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 01:34:31",
       "https://news.ycombinator.com/item?id=45486825"
     ],
     [
-      "Covert Eavesdropping Through Computer Mice",
+      "Mic-E-Mouse – Covert eavesdropping through computer mice",
       "https://sites.google.com/view/mic-e-mouse"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-10-05, 06:01:24",
-      "https://news.ycombinator.com/item?id=45479165"
-    ],
-    [
-      "Social Cooling (2017)",
-      "https://www.socialcooling.com/"
-    ]
-  ],
-  [
-    [
       "2025-10-05, 05:20:08",
       "https://news.ycombinator.com/item?id=45479006"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2025-10-02, 12:25:41",
+      "https://news.ycombinator.com/item?id=45448747"
+    ],
+    [
+      "Magic Wormhole: Get things from one computer to another, safely",
+      "https://magic-wormhole.readthedocs.io/en/latest/welcome.html"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 11:46:27",
       "https://news.ycombinator.com/item?id=45448416"
     ],
     [
       "The G in GPU is for Graphics damnit",
       "https://ut21.github.io/blog/triton.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 11:07:16",
-      "https://news.ycombinator.com/item?id=45448204"
-    ],
-    [
-      "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
-      "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Re-Implementing the macOS Spatial Finder",
       "https://github.com/everydayanchovies/SpatialFinder"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 08:40:35",
-      "https://news.ycombinator.com/item?id=45435606"
-    ],
-    [
-      "What .NET 10 GC changes mean for developers",
-      "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/"
     ]
   ]
 ]
