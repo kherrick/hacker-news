@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-06](index.md)
+
+* [2025-10-06, 01:34:31](https://news.ycombinator.com/item?id=45486825) - [Covert Eavesdropping Through Computer Mice](https://sites.google.com/view/mic-e-mouse)
