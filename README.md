@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-06, 20:07:25](https://news.ycombinator.com/item?id=45495711) - [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
 * [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Apps SDK](https://developers.openai.com/apps-sdk/)
 * [2025-10-06, 17:22:48](https://news.ycombinator.com/item?id=45493713) - [Beginnings: The Dempster Dumpster](https://www.classicrefusetrucks.com/albums/DE/DE01.html)
 * [2025-10-06, 17:01:31](https://news.ycombinator.com/item?id=45493453) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
@@ -15,7 +16,7 @@
 * [2025-10-06, 12:02:45](https://news.ycombinator.com/item?id=45490439) - [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
 * [2025-10-06, 10:58:14](https://news.ycombinator.com/item?id=45489999) - [Show HN: I've build a platform for writing technical/scientific documents](https://www.monsterwriter.com)
 * [2025-10-06, 09:41:16](https://news.ycombinator.com/item?id=45489533) - [Nobel Prize in Physiology or Medicine 2025](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
-* [2025-10-06, 07:47:17](https://news.ycombinator.com/item?id=45488713) - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
+* [2025-10-06, 07:47:17](https://news.ycombinator.com/item?id=45488713) - [Battering RAM – Low-cost interposer attacks on confidential computing](https://batteringram.eu/)
 * [2025-10-06, 07:07:11](https://news.ycombinator.com/item?id=45488441) - [Flightcontrol: A PaaS that deploys to your AWS account](https://www.flightcontrol.dev/)
 * [2025-10-06, 06:35:36](https://news.ycombinator.com/item?id=45488261) - [Structured Procrastination (1995)](https://structuredprocrastination.com)
 * [2025-10-06, 04:59:39](https://news.ycombinator.com/item?id=45487771) - [Gem.coop](https://gem.coop/)
@@ -24,7 +25,6 @@
 * [2025-10-04, 01:00:00](https://news.ycombinator.com/item?id=45469541) - [Orcas are bringing humans gifts](https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/)
 * [2025-10-03, 20:04:32](https://news.ycombinator.com/item?id=45467193) - [Finding treasures with physics: the fingerprint matrix](https://www.tuwien.at/en/tu-wien/news/news-articles/news/physik-fuer-die-schatzsuche-die-fingerabdruck-matrix)
 * [2025-10-03, 18:01:59](https://news.ycombinator.com/item?id=45465824) - [Ink deformation](https://www.inkandswitch.com/ink/notes/ink-deformation-review/)
-* [2025-10-03, 18:01:48](https://news.ycombinator.com/item?id=45465821) - [CLI tool to convert OpenBSD Packet Filter config files to JSON and vice versa](https://github.com/fleximus/pfjson)
 * [2025-10-03, 15:16:26](https://news.ycombinator.com/item?id=45463932) - [La Quête du Temps, Vacheron Constantin timepiece at the Louvre](https://www.bloomberg.com/news/features/2025-10-03/at-the-louvre-vacheron-constantin-showcases-the-art-of-luxury-watches)
 * [2025-10-03, 02:03:16](https://news.ycombinator.com/item?id=45458050) - [Mister Macintosh](https://folklore.org/Mister_Macintosh.html)
 * [2025-10-02, 23:46:40](https://news.ycombinator.com/item?id=45456965) - [Basic Math Textbook: The Napkin Project](https://web.evanchen.cc/napkin.html)

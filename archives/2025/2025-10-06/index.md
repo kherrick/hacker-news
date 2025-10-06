@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 20:07:25](https://news.ycombinator.com/item?id=45495711) - [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
 * [2025-10-06, 18:43:00](https://news.ycombinator.com/item?id=45494730) - [Nearly half of drivers killed in (Ohio County) crashes had THC in their blood](https://www.sciencedaily.com/releases/2025/10/251005085621.htm)
 * [2025-10-06, 18:30:46](https://news.ycombinator.com/item?id=45494592) - [OpenZL: A Novel Data Compression Framework](https://github.com/facebook/openzl)
 * [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Open AI: Apps SDK](https://developers.openai.com/apps-sdk/)
