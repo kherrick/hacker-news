@@ -50,6 +50,7 @@
 * [2025-10-03, 15:33:43](https://news.ycombinator.com/item?id=45464145) - [Lessons learned from building an infrastructure devtool](https://www.nango.dev/blog/lessons-learned-building-infrastructure-devtool)
 * [2025-10-03, 15:30:32](https://news.ycombinator.com/item?id=45464111) - [LinkedIn sues software company allegedly scraping data from profiles](https://therecord.media/linkedin-sues-data-scraping-company)
 * [2025-10-03, 15:19:28](https://news.ycombinator.com/item?id=45463974) - [The AI Emperor Has No Clothes](https://www.jeffgeerling.com/blog/2025/ai-emperor-has-no-clothes)
+* [2025-10-03, 15:16:26](https://news.ycombinator.com/item?id=45463932) - [La Quête Du Temps, Vacheron Constantin Timepiece at the Louvre](https://www.bloomberg.com/news/features/2025-10-03/at-the-louvre-vacheron-constantin-showcases-the-art-of-luxury-watches)
 * [2025-10-03, 14:51:02](https://news.ycombinator.com/item?id=45463656) - [Social anxiety isn't about being liked](https://chrislakin.blog/p/social-anxiety)
 * [2025-10-03, 14:48:36](https://news.ycombinator.com/item?id=45463642) - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.theregister.com/2025/10/02/microsoft_maia_dc/)
 * [2025-10-03, 14:48:36](https://news.ycombinator.com/item?id=45463642) - [Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips](https://www.cnbc.com/2025/10/01/microsoft-wants-to-mainly-use-its-own-ai-chips-in-the-future.html)
