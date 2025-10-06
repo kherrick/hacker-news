@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
 * [2025-10-02, 23:57:23](https://news.ycombinator.com/item?id=45457048) - [Self-supervised learning, JEPA, world models, and the future of AI [video]](https://www.youtube.com/watch?v=yUmDRxV0krg)
+* [2025-10-02, 23:46:40](https://news.ycombinator.com/item?id=45456965) - [Basic Math Textbook: The Napkin Project](https://web.evanchen.cc/napkin.html)
 * [2025-10-02, 22:06:57](https://news.ycombinator.com/item?id=45456188) - [10k Pushups and How I Got into the Best Shape of My Adult Life](https://wjgilmore.com/articles/10000-pushups)
 * [2025-10-02, 21:47:31](https://news.ycombinator.com/item?id=45456003) - [PortalVR: XR Without a Headset](https://portalvr.io/)
 * [2025-10-02, 21:34:42](https://news.ycombinator.com/item?id=45455882) - [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
