@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-06, 18:10:19](https://news.ycombinator.com/item?id=45494300) - [Europe Crushes Innovation](https://www.economist.com/europe/2025/10/02/how-europe-crushes-innovation)
 * [2025-10-06, 17:01:31](https://news.ycombinator.com/item?id=45493453) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2025-10-06, 16:52:58](https://news.ycombinator.com/item?id=45493358) - [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
 * [2025-10-06, 16:47:02](https://news.ycombinator.com/item?id=45493301) - [When ChatGPT Turns Informant](https://www.futureofbeinghuman.com/p/when-chatgpt-turns-snitch)
-* [2025-10-06, 16:46:12](https://news.ycombinator.com/item?id=45493287) - [The AI bubble is 17 times the size of the dot-com frenzy and four times subprime](https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues)
 * [2025-10-06, 16:43:23](https://news.ycombinator.com/item?id=45493255) - [The worrying kink in this job openings, unemployment curve](https://www.axios.com/2025/10/06/jobs-unemployment-fed-interest-rates)
 * [2025-10-06, 16:32:30](https://news.ycombinator.com/item?id=45493143) - [One to two Starlink satellites are falling back to Earth each day](https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/)
 * [2025-10-06, 16:09:22](https://news.ycombinator.com/item?id=45492888) - [\"Be Different\" doesn't work for building products anymore](https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 18:10:19](https://news.ycombinator.com/item?id=45494300) - [Europe Crushes Innovation](https://www.economist.com/europe/2025/10/02/how-europe-crushes-innovation)
 * [2025-10-06, 17:01:31](https://news.ycombinator.com/item?id=45493453) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2025-10-06, 16:52:58](https://news.ycombinator.com/item?id=45493358) - [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
 * [2025-10-06, 16:47:02](https://news.ycombinator.com/item?id=45493301) - [When ChatGPT Turns Informant](https://www.futureofbeinghuman.com/p/when-chatgpt-turns-snitch)
