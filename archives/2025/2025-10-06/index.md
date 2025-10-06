@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 08:49:30](https://news.ycombinator.com/item?id=45489174) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
 * [2025-10-06, 07:50:22](https://news.ycombinator.com/item?id=45488729) - [Zürich voters ban noisy leaf blowers](https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192)
 * [2025-10-06, 07:47:17](https://news.ycombinator.com/item?id=45488713) - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
 * [2025-10-06, 07:32:31](https://news.ycombinator.com/item?id=45488605) - [FSF turns forty with a groundbreaking new project and a new president](https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign)

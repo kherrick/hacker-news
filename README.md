@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-06, 08:49:30](https://news.ycombinator.com/item?id=45489174) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
 * [2025-10-06, 07:50:22](https://news.ycombinator.com/item?id=45488729) - [Zürich voters ban noisy leaf blowers](https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192)
 * [2025-10-06, 07:47:17](https://news.ycombinator.com/item?id=45488713) - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
 * [2025-10-06, 07:32:31](https://news.ycombinator.com/item?id=45488605) - [FSF turns forty with a groundbreaking new project and a new president](https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign)
@@ -20,7 +21,6 @@
 * [2025-10-05, 17:20:39](https://news.ycombinator.com/item?id=45483386) - [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 * [2025-10-05, 15:49:58](https://news.ycombinator.com/item?id=45482467) - [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
 * [2025-10-05, 14:47:13](https://news.ycombinator.com/item?id=45481892) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
-* [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
 * [2025-10-04, 14:22:04](https://news.ycombinator.com/item?id=45473516) - [Explainer: Inodes and Inode Numbers](https://eclecticlight.co/2025/10/04/explainer-inodes-and-inode-numbers/)
 * [2025-10-04, 01:24:35](https://news.ycombinator.com/item?id=45469658) - [Retrocide Mono – A monospaced font with no decenders](https://geonot.github.io/retrocide-mono/)
 * [2025-10-04, 01:00:00](https://news.ycombinator.com/item?id=45469541) - [Orcas are bringing humans gifts](https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/)
