@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-06, 18:43:00](https://news.ycombinator.com/item?id=45494730) - [Nearly half of drivers killed in (Ohio County) crashes had THC in their blood](https://www.sciencedaily.com/releases/2025/10/251005085621.htm)
 * [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Open AI: Apps SDK](https://developers.openai.com/apps-sdk/)
 * [2025-10-06, 17:32:27](https://news.ycombinator.com/item?id=45493815) - [OpenAI Is Good at Deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
 * [2025-10-06, 17:01:31](https://news.ycombinator.com/item?id=45493453) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2025-10-06, 16:52:58](https://news.ycombinator.com/item?id=45493358) - [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
-* [2025-10-06, 16:43:23](https://news.ycombinator.com/item?id=45493255) - [The worrying kink in this job openings, unemployment curve](https://www.axios.com/2025/10/06/jobs-unemployment-fed-interest-rates)
 * [2025-10-06, 16:09:22](https://news.ycombinator.com/item?id=45492888) - [\"Be Different\" doesn't work for building products anymore](https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building)
 * [2025-10-06, 15:39:59](https://news.ycombinator.com/item?id=45492564) - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)

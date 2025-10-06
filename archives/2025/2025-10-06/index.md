@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 18:43:00](https://news.ycombinator.com/item?id=45494730) - [Nearly half of drivers killed in (Ohio County) crashes had THC in their blood](https://www.sciencedaily.com/releases/2025/10/251005085621.htm)
 * [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Open AI: Apps SDK](https://developers.openai.com/apps-sdk/)
 * [2025-10-06, 18:10:19](https://news.ycombinator.com/item?id=45494300) - [Europe Crushes Innovation](https://www.economist.com/europe/2025/10/02/how-europe-crushes-innovation)
 * [2025-10-06, 17:32:27](https://news.ycombinator.com/item?id=45493815) - [OpenAI Is Good at Deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
