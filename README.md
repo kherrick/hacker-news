@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-07, 19:07:07](https://news.ycombinator.com/item?id=45507398) - [Eliminating contrails from flying could be incredibly cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
+* [2025-10-07, 18:57:17](https://news.ycombinator.com/item?id=45507264) - [Photographers are losing their jobs faster than software engineers](https://photowand.ai/packs)
 * [2025-10-07, 18:55:36](https://news.ycombinator.com/item?id=45507236) - [The Publishing Industry Has a Gambling Problem](https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/)
 * [2025-10-07, 18:52:46](https://news.ycombinator.com/item?id=45507195) - [The murky economics of the data-centre investment boom](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
 * [2025-10-07, 18:51:40](https://news.ycombinator.com/item?id=45507173) - [Google's Requirement for Developers to Be Verified Threatens App Store F-Droid](https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/)
@@ -21,8 +22,6 @@
 * [2025-10-07, 13:25:33](https://news.ycombinator.com/item?id=45502784) - [Tcl-Lang Showcase](https://wiki.tcl-lang.org/page/Showcase)
 * [2025-10-07, 13:00:25](https://news.ycombinator.com/item?id=45502543) - [Erlang ARM32 JIT is born](https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3)
 * [2025-10-07, 13:00:08](https://news.ycombinator.com/item?id=45502541) - [Qualcomm to acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
-* [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
-* [2025-10-07, 08:27:41](https://news.ycombinator.com/item?id=45500699) - [A mechanic offered a reason why no one wants to work in the industry](https://www.motor1.com/news/774805/ford-ceo-complains-shortage-mechanics/)
 * [2025-10-06, 17:19:55](https://news.ycombinator.com/item?id=45493681) - [Locality, and Temporal-Spatial Hypothesis](https://brooker.co.za/blog/2025/10/05/locality.html)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An Illustrated Introduction to Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 * [2025-10-06, 10:46:23](https://news.ycombinator.com/item?id=45489913) - [Functional Threading \"Macros\"](https://aartaka.me/threading.html)
@@ -30,6 +29,7 @@
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 * [2025-10-03, 20:47:04](https://news.ycombinator.com/item?id=45467600) - [Reconstruction of Konrad Zuse's Z3 Computer](https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html)
 * [2025-10-03, 13:37:34](https://news.ycombinator.com/item?id=45462877) - [Who needs Git when you have 1M context windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html)
+* [2025-10-01, 20:48:06](https://news.ycombinator.com/item?id=45443301) - [Is pawn promotion to rook or bishop something that is seen in play? (2012)](https://boardgames.stackexchange.com/questions/6739/is-pawn-promotion-to-rook-or-bishop-something-that-is-seen-in-play)
 
 ## [Archives](archives/index.md)
 

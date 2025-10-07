@@ -15,6 +15,7 @@
 * [2025-10-01, 20:53:17](https://news.ycombinator.com/item?id=45443368) - [DARPA project for automated translation from C to Rust (2024)](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities)
 * [2025-10-01, 20:50:04](https://news.ycombinator.com/item?id=45443328) - [GenAI Predictions](https://www.tbray.org/ongoing/When/202x/2025/09/26/GenAI-Predictions)
 * [2025-10-01, 20:48:23](https://news.ycombinator.com/item?id=45443304) - [Microsoft declares bring your Copilot to work day, usurping IT authority](https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/)
+* [2025-10-01, 20:48:06](https://news.ycombinator.com/item?id=45443301) - [Is pawn promotion to rook or bishop something that is seen in play? (2012)](https://boardgames.stackexchange.com/questions/6739/is-pawn-promotion-to-rook-or-bishop-something-that-is-seen-in-play)
 * [2025-10-01, 20:47:55](https://news.ycombinator.com/item?id=45443298) - [The Company Man](https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man)
 * [2025-10-01, 20:40:19](https://news.ycombinator.com/item?id=45443200) - [Implementing /Usr Merge in Alpine](https://alpinelinux.org/posts/2025-10-01-usr-merge.html)
 * [2025-10-01, 20:25:59](https://news.ycombinator.com/item?id=45443004) - [The Truth About the School \"Replacing Teachers with AI\"](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
