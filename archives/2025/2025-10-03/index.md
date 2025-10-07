@@ -6,6 +6,7 @@
 
 * [2025-10-03, 22:58:20](https://news.ycombinator.com/item?id=45468781) - [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
 * [2025-10-03, 22:45:28](https://news.ycombinator.com/item?id=45468698) - [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster)
+* [2025-10-03, 22:30:57](https://news.ycombinator.com/item?id=45468599) - [Removing these 50 objects from orbit would cut danger from space junk in half](https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/)
 * [2025-10-03, 22:29:15](https://news.ycombinator.com/item?id=45468579) - [Against the Uncritical Adoption of 'AI' Technologies in Academia](https://zenodo.org/records/17065099)
 * [2025-10-03, 22:10:54](https://news.ycombinator.com/item?id=45468418) - [Tesla Cybertruck Isn't Allowed in Germany, Not Even the US Army Can Change That](https://www.roadandtrack.com/news/a68133176/us-armed-forces-service-members-no-tesla-cybertruck/)
 * [2025-10-03, 22:01:51](https://news.ycombinator.com/item?id=45468324) - [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)
