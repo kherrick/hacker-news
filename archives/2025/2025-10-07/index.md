@@ -23,6 +23,7 @@
 * [2025-10-07, 09:33:50](https://news.ycombinator.com/item?id=45501099) - [Redis CVE-2025-49844: Use-After-Free may lead to remote code execution](https://redis.io/blog/security-advisory-cve-2025-49844/)
 * [2025-10-07, 09:29:28](https://news.ycombinator.com/item?id=45501073) - [Buckle Up, the Smart Glasses Backlash Is Coming](https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213)
 * [2025-10-07, 08:27:41](https://news.ycombinator.com/item?id=45500699) - [Ford CEO Says There Aren't Enough Mechanics. Then a Mechanic Responds](https://www.motor1.com/news/774805/ford-ceo-complains-shortage-mechanics/)
+* [2025-10-07, 08:04:49](https://news.ycombinator.com/item?id=45500560) - [Show HN: Greenonion.ai – AI-Powered Design Assistant](https://exuberant-premise-723012.framer.app/)
 * [2025-10-07, 07:51:57](https://news.ycombinator.com/item?id=45500485) - [Deloitte to refund the Australian government after using AI in $440k report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
 * [2025-10-07, 05:43:56](https://news.ycombinator.com/item?id=45499730) - [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
 * [2025-10-07, 05:39:27](https://news.ycombinator.com/item?id=45499710) - [The NIH ordered me to stop my 'dangerous' gain-of-function research](https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/)
