@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-10-07, 12:54:14",
-      "https://news.ycombinator.com/item?id=45502502"
-    ],
-    [
-      "The evolution of Lua, continued [pdf]",
-      "https://www.lua.org/doc/cola.pdf"
-    ]
-  ],
-  [
-    [
       "2025-10-07, 09:50:49",
       "https://news.ycombinator.com/item?id=45501189"
     ],
@@ -267,6 +257,16 @@
     [
       "Functional Threading \"Macros\"",
       "https://aartaka.me/threading.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 22:21:47",
+      "https://news.ycombinator.com/item?id=45485826"
+    ],
+    [
+      "Bat: Cat with Syntax Highlighting",
+      "https://github.com/sharkdp/bat"
     ]
   ],
   [
