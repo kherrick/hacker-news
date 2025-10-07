@@ -33,6 +33,7 @@
 * [2025-10-04, 17:30:29](https://news.ycombinator.com/item?id=45475039) - [Discord data hacked in latest customer service breach to expose user information](https://www.tomshardware.com/video-games/pc-gaming/discord-data-hacked-in-latest-customer-service-breach-to-expose-user-information-hackers-gained-access-via-third-party-support-systems-but-didnt-steal-passwords)
 * [2025-10-04, 17:18:07](https://news.ycombinator.com/item?id=45474900) - [Knowledge Infusion Scaling Law for Pre-Training Large Language Models](https://arxiv.org/abs/2509.19371)
 * [2025-10-04, 16:19:04](https://news.ycombinator.com/item?id=45474441) - [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm)
+* [2025-10-04, 16:14:58](https://news.ycombinator.com/item?id=45474397) - [Building a Synthetic Cell Together](https://www.nature.com/articles/s41467-025-62778-8)
 * [2025-10-04, 16:09:08](https://news.ycombinator.com/item?id=45474346) - [Ask HN: Why is software quality collapsing? (Apple Calculator leaks 32GB RAM)](https://news.ycombinator.com/item?id=45474346)
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
 * [2025-10-04, 15:09:41](https://news.ycombinator.com/item?id=45473852) - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
