@@ -12,6 +12,7 @@
 * [2025-10-03, 22:01:51](https://news.ycombinator.com/item?id=45468324) - [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)
 * [2025-10-03, 21:42:42](https://news.ycombinator.com/item?id=45468145) - [Show HN: Powerful Visual Programming Language (Book)](https://www.pipelang.com)
 * [2025-10-03, 21:16:12](https://news.ycombinator.com/item?id=45467886) - [Oracle employees who criticise Israel referred to mental health services](https://responsiblestatecraft.org/oracle-tiktok-israel-2674151514/)
+* [2025-10-03, 21:04:00](https://news.ycombinator.com/item?id=45467751) - [You are holding BUILD files wrong](https://blogsystem5.substack.com/p/you-are-holding-build-files-wrong)
 * [2025-10-03, 21:00:32](https://news.ycombinator.com/item?id=45467717) - [TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
 * [2025-10-03, 21:00:28](https://news.ycombinator.com/item?id=45467716) - [Gore Vidal: American Prophet](https://www.newstatesman.com/ideas/2025/10/gore-vidal-american-prophet)
 * [2025-10-03, 20:40:52](https://news.ycombinator.com/item?id=45467543) - [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
