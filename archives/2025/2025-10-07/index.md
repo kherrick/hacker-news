@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
 * [2025-10-07, 19:07:07](https://news.ycombinator.com/item?id=45507398) - [Eliminating contrails from flying could be incredibly cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
 * [2025-10-07, 18:57:17](https://news.ycombinator.com/item?id=45507264) - [Photographers are losing their jobs faster than software engineers](https://photowand.ai/packs)
 * [2025-10-07, 18:55:36](https://news.ycombinator.com/item?id=45507236) - [The Publishing Industry Has a Gambling Problem](https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/)
