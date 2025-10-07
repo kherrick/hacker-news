@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-07, 15:30:20](https://news.ycombinator.com/item?id=45504388) - [Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
+* [2025-10-07, 15:30:02](https://news.ycombinator.com/item?id=45504381) - [Gold Prices Top $4k for First Time](https://www.wsj.com/finance/commodities-futures/gold-prices-top-4-000-for-first-time-d63ab2bd)
 * [2025-10-07, 14:56:09](https://news.ycombinator.com/item?id=45503882) - [Swiss glaciers have shrunk by a quarter since 2015, study says](https://www.france24.com/en/live-news/20251001-swiss-glaciers-shrank-by-a-quarter-in-past-decade-study)
 * [2025-10-07, 14:45:54](https://news.ycombinator.com/item?id=45503726) - [No account? No Windows 11, Microsoft says as another loophole snaps shut](https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/)
 * [2025-10-07, 13:25:33](https://news.ycombinator.com/item?id=45502784) - [Tcl-Lang Showcase](https://wiki.tcl-lang.org/page/Showcase)
@@ -23,7 +24,6 @@
 * [2025-10-04, 13:58:00](https://news.ycombinator.com/item?id=45473357) - [Microformats – building blocks for data-rich web pages](https://microformats.org)
 * [2025-10-04, 00:30:44](https://news.ycombinator.com/item?id=45469376) - [Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)](https://windscribe.com/blog/the-vpn-relationship-map/)
 * [2025-10-03, 22:30:57](https://news.ycombinator.com/item?id=45468599) - [Removing these 50 objects from orbit would cut danger from space junk in half](https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/)
-* [2025-10-03, 21:04:00](https://news.ycombinator.com/item?id=45467751) - [Build files are the best tool to represent software architecture](https://blogsystem5.substack.com/p/you-are-holding-build-files-wrong)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 * [2025-10-03, 20:47:04](https://news.ycombinator.com/item?id=45467600) - [Reconstruction of Konrad Zuse's Z3 Computer](https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html)
 * [2025-10-03, 13:37:34](https://news.ycombinator.com/item?id=45462877) - [Who needs Git when you have 1M context windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html)
