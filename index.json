@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=45499170"
     ],
     [
-      "Pdoc – Generate API Documentation for Python Projects",
+      "Pdoc – Generate API documentation for Python projects",
       "https://pdoc.dev/"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Origami Patterns Solve a Major Physics Riddle",
       "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 00:46:57",
-      "https://news.ycombinator.com/item?id=45498109"
-    ],
-    [
-      "Hardware Stockholm Syndrome",
-      "https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
       "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 13:52:50",
+      "https://news.ycombinator.com/item?id=45491470"
+    ],
+    [
+      "Compiling a Forth",
+      "https://healeycodes.com/compiling-a-forth"
     ]
   ],
   [
