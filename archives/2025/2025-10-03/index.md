@@ -82,6 +82,7 @@
 * [2025-10-03, 04:24:58](https://news.ycombinator.com/item?id=45458973) - [Why did Crunchyroll's subtitles just get worse?](https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles)
 * [2025-10-03, 04:21:23](https://news.ycombinator.com/item?id=45458948) - [Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it](https://github.com/triton-lang/triton/pull/7298)
 * [2025-10-03, 04:15:41](https://news.ycombinator.com/item?id=45458909) - [Digital ID – The New Chains of Capitalist Surveillance](https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/)
+* [2025-10-03, 04:01:35](https://news.ycombinator.com/item?id=45458833) - [Ghosts of Unix Past: a historical search for design patterns (2010)](https://lwn.net/Articles/411845/)
 * [2025-10-03, 03:52:43](https://news.ycombinator.com/item?id=45458791) - [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
 * [2025-10-03, 03:47:45](https://news.ycombinator.com/item?id=45458768) - [Rescuer at Fatal Tesla Cybertruck Crash Says Car Doors Wouldn't Open](https://www.newsweek.com/tesla-cybertruck-car-door-malfunction-2043976)
 * [2025-10-03, 03:13:13](https://news.ycombinator.com/item?id=45458550) - [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts)
