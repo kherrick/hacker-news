@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 10:42:47](https://news.ycombinator.com/item?id=45501488) - [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
 * [2025-10-07, 10:38:46](https://news.ycombinator.com/item?id=45501459) - [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
 * [2025-10-07, 10:07:50](https://news.ycombinator.com/item?id=45501279) - [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush)
 * [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics Awarded to John Clarke, Michel Devoret and John Martinis](https://www.nobelprize.org/prizes/physics/2025/popular-information/)

@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 10:42:47](https://news.ycombinator.com/item?id=45501488) - [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
 * [2025-10-07, 10:38:46](https://news.ycombinator.com/item?id=45501459) - [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
 * [2025-10-07, 10:07:50](https://news.ycombinator.com/item?id=45501279) - [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush)
-* [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
+* [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-07, 09:35:53](https://news.ycombinator.com/item?id=45501114) - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
 * [2025-10-07, 09:29:28](https://news.ycombinator.com/item?id=45501073) - [Buckle Up, the Smart Glasses Backlash Is Coming](https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213)
 * [2025-10-07, 07:51:57](https://news.ycombinator.com/item?id=45500485) - [Deloitte to refund the Australian government after using AI in $440k report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
@@ -15,7 +16,6 @@
 * [2025-10-06, 22:30:12](https://news.ycombinator.com/item?id=45497027) - [RediShell: Critical remote code execution vulnerability in Redis](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844)
 * [2025-10-06, 21:28:56](https://news.ycombinator.com/item?id=45496533) - [CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
 * [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Apps SDK](https://developers.openai.com/apps-sdk/)
-* [2025-10-06, 17:23:20](https://news.ycombinator.com/item?id=45493718) - [OpenAI ChatKit](https://github.com/openai/chatkit-js)
 * [2025-10-06, 16:52:58](https://news.ycombinator.com/item?id=45493358) - [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
 * [2025-10-06, 16:01:58](https://news.ycombinator.com/item?id=45492803) - [OpenZL: An open source format-aware compression framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
