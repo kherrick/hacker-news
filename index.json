@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-07, 15:01:29",
-      "https://news.ycombinator.com/item?id=45503960"
+      "2025-10-07, 15:30:20",
+      "https://news.ycombinator.com/item?id=45504388"
     ],
     [
-      "Nearly 20 Percent Fewer International Students Traveled to the U.S. in August",
-      "https://www.nytimes.com/interactive/2025/10/06/upshot/us-international-student-travel.html"
+      "Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI",
+      "https://github.com/llama-farm/llamafarm"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "No account? No Windows 11, Microsoft says as another loophole snaps shut",
       "https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 13:42:49",
-      "https://news.ycombinator.com/item?id=45502979"
-    ],
-    [
-      "Show HN: Blueprintor for Hardware Engineering",
-      "https://www.zima.run/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Build files are the best tool to represent software architecture",
       "https://blogsystem5.substack.com/p/you-are-holding-build-files-wrong"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 20:59:23",
+      "https://news.ycombinator.com/item?id=45467708"
+    ],
+    [
+      "How does gradient descent work?",
+      "https://centralflows.github.io/part1/"
     ]
   ],
   [
