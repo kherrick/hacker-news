@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-07, 20:11:58",
+      "https://news.ycombinator.com/item?id=45508213"
+    ],
+    [
+      "A tiny recursive reasoning model achieves 45% on ARC-AGI-1 and 8% on ARC-AGI-2",
+      "http://alexiajm.github.io/2025/09/29/tiny_recursive_models.html"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 19:49:11",
       "https://news.ycombinator.com/item?id=45507936"
     ],
@@ -277,16 +287,6 @@
     [
       "How does gradient descent work?",
       "https://centralflows.github.io/part1/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 20:47:04",
-      "https://news.ycombinator.com/item?id=45467600"
-    ],
-    [
-      "Reconstruction of Konrad Zuse's Z3 Computer",
-      "https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html"
     ]
   ],
   [
