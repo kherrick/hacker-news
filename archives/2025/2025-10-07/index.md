@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 17:50:17](https://news.ycombinator.com/item?id=45506365) - [Solar energy is now the cheapest source of power, study](https://www.surrey.ac.uk/news/solar-energy-now-worlds-cheapest-source-power-surrey-study-finds)
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less Is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871)
 * [2025-10-07, 17:31:49](https://news.ycombinator.com/item?id=45506143) - [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
 * [2025-10-07, 17:03:15](https://news.ycombinator.com/item?id=45505713) - [Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)

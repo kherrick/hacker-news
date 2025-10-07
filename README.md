@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 17:50:17](https://news.ycombinator.com/item?id=45506365) - [Solar energy is now the cheapest source of power, study](https://www.surrey.ac.uk/news/solar-energy-now-worlds-cheapest-source-power-surrey-study-finds)
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less Is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871)
 * [2025-10-07, 17:31:49](https://news.ycombinator.com/item?id=45506143) - [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
 * [2025-10-07, 17:03:15](https://news.ycombinator.com/item?id=45505713) - [Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
@@ -22,14 +23,13 @@
 * [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-07, 09:35:53](https://news.ycombinator.com/item?id=45501114) - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
 * [2025-10-07, 08:27:41](https://news.ycombinator.com/item?id=45500699) - [A mechanic offered a reason why no one wants to work in the industry](https://www.motor1.com/news/774805/ford-ceo-complains-shortage-mechanics/)
+* [2025-10-06, 17:19:55](https://news.ycombinator.com/item?id=45493681) - [Locality, and Temporal-Spatial Hypothesis](https://brooker.co.za/blog/2025/10/05/locality.html)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An Illustrated Introduction to Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 * [2025-10-06, 10:46:23](https://news.ycombinator.com/item?id=45489913) - [Functional Threading \"Macros\"](https://aartaka.me/threading.html)
 * [2025-10-06, 10:38:21](https://news.ycombinator.com/item?id=45489874) - [Ahab's Arithmetic: The Mathematics of Moby-Dick](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720&context=jhm)
-* [2025-10-03, 22:30:57](https://news.ycombinator.com/item?id=45468599) - [Removing these 50 objects from orbit would cut danger from space junk in half](https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 * [2025-10-03, 20:47:04](https://news.ycombinator.com/item?id=45467600) - [Reconstruction of Konrad Zuse's Z3 Computer](https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html)
 * [2025-10-03, 13:37:34](https://news.ycombinator.com/item?id=45462877) - [Who needs Git when you have 1M context windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html)
-* [2025-10-03, 04:24:58](https://news.ycombinator.com/item?id=45458973) - [Why did Crunchyroll's subtitles just get worse?](https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles)
 
 ## [Archives](archives/index.md)
 

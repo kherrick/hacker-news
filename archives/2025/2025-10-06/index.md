@@ -21,6 +21,7 @@
 * [2025-10-06, 17:32:27](https://news.ycombinator.com/item?id=45493815) - [OpenAI Is Good at Deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals)
 * [2025-10-06, 17:23:20](https://news.ycombinator.com/item?id=45493718) - [OpenAI ChatKit](https://github.com/openai/chatkit-js)
 * [2025-10-06, 17:22:48](https://news.ycombinator.com/item?id=45493713) - [The word \"dumpster\" was originally a trademarked brand name, not a generic term](https://www.classicrefusetrucks.com/albums/DE/DE01.html)
+* [2025-10-06, 17:19:55](https://news.ycombinator.com/item?id=45493681) - [Locality, and Temporal-Spatial Hypothesis](https://brooker.co.za/blog/2025/10/05/locality.html)
 * [2025-10-06, 17:13:46](https://news.ycombinator.com/item?id=45493609) - [ACP Brings JetBrains on Board](https://zed.dev/blog/jetbrains-on-acp)
 * [2025-10-06, 17:01:31](https://news.ycombinator.com/item?id=45493453) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2025-10-06, 17:00:05](https://news.ycombinator.com/item?id=45493432) - [OpenAI DevDay 2025: Opening keynote [video]](https://www.youtube.com/watch?v=hS1YqcewH0c)
