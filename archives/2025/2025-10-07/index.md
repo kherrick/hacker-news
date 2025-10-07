@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
 * [2025-10-07, 22:00:59](https://news.ycombinator.com/item?id=45509464) - [Disney Is Officially Shutting Down Hulu After 20 Years](https://wibc.com/749914/disney-is-officially-shutting-down-hulu-after-20-years/)
+* [2025-10-07, 22:00:20](https://news.ycombinator.com/item?id=45509454) - [Investing in America 2025](https://blog.google/inside-google/company-announcements/investing-in-america-2025/)
 * [2025-10-07, 21:39:07](https://news.ycombinator.com/item?id=45509243) - [Become Unbannable from Your Email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail)
 * [2025-10-07, 21:12:37](https://news.ycombinator.com/item?id=45508944) - [No more loud commercials: Governor Newsom signs SB 576](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)
 * [2025-10-07, 21:00:51](https://news.ycombinator.com/item?id=45508811) - [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-07, 22:00:59](https://news.ycombinator.com/item?id=45509464) - [Disney Is Officially Shutting Down Hulu After 20 Years](https://wibc.com/749914/disney-is-officially-shutting-down-hulu-after-20-years/)
+* [2025-10-07, 22:00:20](https://news.ycombinator.com/item?id=45509454) - [Investing in America 2025](https://blog.google/inside-google/company-announcements/investing-in-america-2025/)
 * [2025-10-07, 21:39:07](https://news.ycombinator.com/item?id=45509243) - [Become unbannable from your email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail)
 * [2025-10-07, 21:12:37](https://news.ycombinator.com/item?id=45508944) - [California passes law to reduce volume of commercials on streaming services](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)
 * [2025-10-07, 21:00:51](https://news.ycombinator.com/item?id=45508811) - [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
@@ -9,9 +9,9 @@
 * [2025-10-07, 19:07:07](https://news.ycombinator.com/item?id=45507398) - [Eliminating contrails from flying could be incredibly cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
 * [2025-10-07, 18:55:36](https://news.ycombinator.com/item?id=45507236) - [The publishing industry has a gambling problem](https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/)
 * [2025-10-07, 18:52:46](https://news.ycombinator.com/item?id=45507195) - [The murky economics of the data-centre investment boom](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
-* [2025-10-07, 17:50:17](https://news.ycombinator.com/item?id=45506365) - [Solar energy is now the cheapest source of power, study](https://www.surrey.ac.uk/news/solar-energy-now-worlds-cheapest-source-power-surrey-study-finds)
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less is more: Recursive reasoning with tiny networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 17:31:49](https://news.ycombinator.com/item?id=45506143) - [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
+* [2025-10-07, 17:12:43](https://news.ycombinator.com/item?id=45505854) - [ICE bought vehicles equipped with fake cell towers to spy on phones](https://techcrunch.com/2025/10/07/ice-bought-vehicles-equipped-with-fake-cell-towers-to-spy-on-phones/)
 * [2025-10-07, 17:01:32](https://news.ycombinator.com/item?id=45505692) - [Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
 * [2025-10-07, 16:39:13](https://news.ycombinator.com/item?id=45505398) - [Cache-Friendly B+Tree Nodes with Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
 * [2025-10-07, 16:10:22](https://news.ycombinator.com/item?id=45504973) - [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
