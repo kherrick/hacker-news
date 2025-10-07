@@ -20,6 +20,7 @@
 * [2025-10-03, 20:08:38](https://news.ycombinator.com/item?id=45467230) - [Credit markets look increasingly dangerous](https://www.economist.com/finance-and-economics/2025/10/02/credit-markets-look-increasingly-dangerous)
 * [2025-10-03, 20:04:32](https://news.ycombinator.com/item?id=45467193) - [Finding treasures with physics: the fingerprint matrix](https://www.tuwien.at/en/tu-wien/news/news-articles/news/physik-fuer-die-schatzsuche-die-fingerabdruck-matrix)
 * [2025-10-03, 20:01:36](https://news.ycombinator.com/item?id=45467166) - [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
+* [2025-10-03, 19:53:07](https://news.ycombinator.com/item?id=45467078) - [Grafana Labs made a Taylor Swift dashboard](https://grafana.com/blog/2025/10/03/taylor-swift-grafanas-version-how-to-track-and-visualize-data-related-to-pop-s-biggest-superstar/)
 * [2025-10-03, 19:47:53](https://news.ycombinator.com/item?id=45467032) - [Arenas in Rust](https://russellw.github.io/arenas)
 * [2025-10-03, 19:43:34](https://news.ycombinator.com/item?id=45466980) - [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/)
 * [2025-10-03, 19:32:37](https://news.ycombinator.com/item?id=45466865) - [Show HN: FLE v0.3 – Claude Code Plays Factorio](https://jackhopkins.github.io/factorio-learning-environment/versions/0.3.0.html)
