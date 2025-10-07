@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-07, 17:00:09",
+      "https://news.ycombinator.com/item?id=45505666"
+    ],
+    [
+      "Pigeon (YC W23) is hiring a lead full stack engineer",
+      "https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 16:56:40",
+      "https://news.ycombinator.com/item?id=45505626"
+    ],
+    [
+      "Robin Williams' daughter pleads for people to stop sending AI videos of her dad",
+      "https://www.bbc.co.uk/news/articles/c0r0erqk18jo"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 16:39:13",
+      "https://news.ycombinator.com/item?id=45505398"
+    ],
+    [
+      "Cache-Friendly B+Tree Nodes with Dynamic Fanout",
+      "https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 16:18:48",
       "https://news.ycombinator.com/item?id=45505103"
     ],
@@ -37,16 +67,6 @@
     [
       "Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI",
       "https://github.com/llama-farm/llamafarm"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 15:11:52",
-      "https://news.ycombinator.com/item?id=45504127"
-    ],
-    [
-      "Show HN: Mars – Personal AI robot for builders (< $2k)",
-      "https://news.ycombinator.com/item?id=45504127"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "The evolution of Lua, continued [pdf]",
       "https://www.lua.org/doc/cola.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 12:41:40",
-      "https://news.ycombinator.com/item?id=45502387"
-    ],
-    [
-      "Provision (YC S22) Is Hiring",
-      "https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Why did Crunchyroll's subtitles just get worse?",
       "https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 12:54:13",
-      "https://news.ycombinator.com/item?id=45449015"
-    ],
-    [
-      "Kirigami-inspired parachute falls on target",
-      "https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/"
     ]
   ]
 ]
