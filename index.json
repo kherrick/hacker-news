@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-07, 10:07:50",
+      "https://news.ycombinator.com/item?id=45501279"
+    ],
+    [
+      "Like Vercel, but open source and for all language",
+      "https://github.com/hunvreus/devpush"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 09:50:49",
       "https://news.ycombinator.com/item?id=45501189"
     ],
     [
       "Nobel Prize in Physics Awarded to John Clarke, Michel Devoret and John Martinis",
       "https://www.nobelprize.org/prizes/physics/2025/popular-information/"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 09:35:53",
+      "https://news.ycombinator.com/item?id=45501114"
+    ],
+    [
+      "The Mondrian introduction to functional optics",
+      "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 09:33:50",
+      "https://news.ycombinator.com/item?id=45501099"
+    ],
+    [
+      "Redis CVE-2025-49844: Use-After-Free may lead to remote code execution",
+      "https://redis.io/blog/security-advisory-cve-2025-49844/"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Microsoft is plugging more holes that let you use Windows 11 without MS account",
       "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 22:30:12",
-      "https://news.ycombinator.com/item?id=45497027"
-    ],
-    [
-      "RediShell: Critical remote code execution vulnerability in Redis",
-      "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-10-06, 03:57:26",
-      "https://news.ycombinator.com/item?id=45487519"
-    ],
-    [
-      "It's just a virus, the E.R. told him – days later, he was dead",
-      "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html"
-    ]
-  ],
-  [
-    [
       "2025-10-04, 13:58:00",
       "https://news.ycombinator.com/item?id=45473357"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-10-03, 12:47:15",
-      "https://news.ycombinator.com/item?id=45462338"
+      "2025-10-03, 21:04:00",
+      "https://news.ycombinator.com/item?id=45467751"
     ],
     [
-      "Radioactive Pottery and Glassware (2010)",
-      "https://carlwillis.wordpress.com/2010/01/12/nuclear-collection-part-iv/"
+      "You are holding BUILD files wrong",
+      "https://blogsystem5.substack.com/p/you-are-holding-build-files-wrong"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Why did Crunchyroll's subtitles just get worse?",
       "https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 01:37:23",
-      "https://news.ycombinator.com/item?id=45457825"
-    ],
-    [
-      "How to tile matrix multiplication (2023)",
-      "https://alvinwan.com/how-to-tile-matrix-multiplication/"
     ]
   ],
   [
