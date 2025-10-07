@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 08:27:41](https://news.ycombinator.com/item?id=45500699) - [Ford CEO Says There Aren't Enough Mechanics. Then a Mechanic Responds](https://www.motor1.com/news/774805/ford-ceo-complains-shortage-mechanics/)
 * [2025-10-07, 07:51:57](https://news.ycombinator.com/item?id=45500485) - [Deloitte to refund the Australian government after using AI in $440k report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
 * [2025-10-07, 05:43:56](https://news.ycombinator.com/item?id=45499730) - [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
 * [2025-10-07, 05:39:27](https://news.ycombinator.com/item?id=45499710) - [The NIH ordered me to stop my 'dangerous' gain-of-function research](https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/)
@@ -15,7 +16,6 @@
 * [2025-10-06, 17:23:20](https://news.ycombinator.com/item?id=45493718) - [OpenAI ChatKit](https://github.com/openai/chatkit-js)
 * [2025-10-06, 16:52:58](https://news.ycombinator.com/item?id=45493358) - [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
 * [2025-10-06, 16:01:58](https://news.ycombinator.com/item?id=45492803) - [OpenZL: An open source format-aware compression framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
-* [2025-10-06, 15:39:59](https://news.ycombinator.com/item?id=45492564) - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [2025-10-06, 14:06:29](https://news.ycombinator.com/item?id=45491609) - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
 * [2025-10-06, 13:52:50](https://news.ycombinator.com/item?id=45491470) - [Compiling a Forth](https://healeycodes.com/compiling-a-forth)
