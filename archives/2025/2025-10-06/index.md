@@ -49,6 +49,7 @@
 * [2025-10-06, 10:58:14](https://news.ycombinator.com/item?id=45489999) - [Show HN: I've build a platform for writing technical/scientific documents](https://www.monsterwriter.com)
 * [2025-10-06, 10:54:47](https://news.ycombinator.com/item?id=45489978) - [State Terror, American Style – Paul Krugman](https://paulkrugman.substack.com/p/state-terror-american-style)
 * [2025-10-06, 10:51:53](https://news.ycombinator.com/item?id=45489951) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence)
+* [2025-10-06, 10:46:23](https://news.ycombinator.com/item?id=45489913) - [Functional Threading \"Macros\"](https://aartaka.me/threading.html)
 * [2025-10-06, 10:44:38](https://news.ycombinator.com/item?id=45489904) - [Disney+ Subscribers Face a Wave of Cancellations](https://www.techbook-magazine.com/streaming/providers/disney-subscribers-face-a-wave-of-cancellations)
 * [2025-10-06, 10:38:21](https://news.ycombinator.com/item?id=45489874) - [Ahab's Arithmetic: The Mathematics of Moby-Dick](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720&context=jhm)
 * [2025-10-06, 09:49:33](https://news.ycombinator.com/item?id=45489581) - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
