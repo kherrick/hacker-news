@@ -66,6 +66,7 @@
 * [2025-10-03, 12:47:15](https://news.ycombinator.com/item?id=45462338) - [Radioactive Pottery and Glassware (2010)](https://carlwillis.wordpress.com/2010/01/12/nuclear-collection-part-iv/)
 * [2025-10-03, 12:41:03](https://news.ycombinator.com/item?id=45462297) - [Faroes](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
 * [2025-10-03, 12:26:02](https://news.ycombinator.com/item?id=45462163) - [TikTok 'directs child accounts to pornographic content within a few clicks'](https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible)
+* [2025-10-03, 12:24:17](https://news.ycombinator.com/item?id=45462146) - [Omnitron's MEMS Tech Boosts Lidar Reliability](https://spectrum.ieee.org/mems-lidar)
 * [2025-10-03, 12:24:02](https://news.ycombinator.com/item?id=45462143) - [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)
 * [2025-10-03, 12:19:42](https://news.ycombinator.com/item?id=45462094) - [Move over Dijkstra: New Algorithm Just Rewrote 70 Years of Computer Science](https://medium.com/@kanishks772/move-over-dijkstra-the-new-algorithm-that-just-rewrote-70-years-of-computer-science-d670696c440d)
 * [2025-10-03, 12:05:59](https://news.ycombinator.com/item?id=45461975) - [The biggest sign of an AI bubble is starting to appear – debt](https://www.axios.com/2025/10/03/ai-bubble-meta-oracle-microsoft)
