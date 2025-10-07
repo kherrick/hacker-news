@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 21:00:51](https://news.ycombinator.com/item?id=45508811) - [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
 * [2025-10-07, 20:11:58](https://news.ycombinator.com/item?id=45508213) - [A tiny recursive reasoning model achieves 45% on ARC-AGI-1 and 8% on ARC-AGI-2](http://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
 * [2025-10-07, 19:44:00](https://news.ycombinator.com/item?id=45507880) - [Banning controversy reveals Bluesky's decentralized aspiration isn't reality](https://plus.flux.community/p/banning-controversy-reveals-blueskys)
@@ -12,7 +13,6 @@
 * [2025-10-07, 17:31:49](https://news.ycombinator.com/item?id=45506143) - [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
 * [2025-10-07, 17:12:43](https://news.ycombinator.com/item?id=45505854) - [ICE bought vehicles equipped with fake cell towers to spy on phones](https://techcrunch.com/2025/10/07/ice-bought-vehicles-equipped-with-fake-cell-towers-to-spy-on-phones/)
 * [2025-10-07, 17:01:32](https://news.ycombinator.com/item?id=45505692) - [Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
-* [2025-10-07, 17:00:09](https://news.ycombinator.com/item?id=45505666) - [Pigeon (YC W23) is hiring a lead full stack engineer](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us)
 * [2025-10-07, 16:39:13](https://news.ycombinator.com/item?id=45505398) - [Cache-Friendly B+Tree Nodes with Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
 * [2025-10-07, 16:10:22](https://news.ycombinator.com/item?id=45504973) - [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [2025-10-07, 15:35:48](https://news.ycombinator.com/item?id=45504470) - [IKEA Catalogs 1951-2021](https://ikeamuseum.com/en/explore/ikea-catalogue/)
