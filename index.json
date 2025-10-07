@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-07, 15:01:29",
+      "https://news.ycombinator.com/item?id=45503960"
+    ],
+    [
+      "Nearly 20 Percent Fewer International Students Traveled to the U.S. in August",
+      "https://www.nytimes.com/interactive/2025/10/06/upshot/us-international-student-travel.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 14:56:09",
+      "https://news.ycombinator.com/item?id=45503882"
+    ],
+    [
+      "Swiss glaciers have shrunk by a quarter since 2015, study says",
+      "https://www.france24.com/en/live-news/20251001-swiss-glaciers-shrank-by-a-quarter-in-past-decade-study"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 14:45:54",
       "https://news.ycombinator.com/item?id=45503726"
     ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=45502173"
     ],
     [
-      "disk-perf-git-and-pnpm aims to prove that something is wrong with APFS on macOS",
+      "Stress test for parallel disk i/o using git and pnpm",
       "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-10-07, 03:40:41",
-      "https://news.ycombinator.com/item?id=45499170"
-    ],
-    [
-      "Pdoc – Generate API documentation for Python projects",
-      "https://pdoc.dev/"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 23:47:24",
       "https://news.ycombinator.com/item?id=45497624"
     ],
@@ -177,16 +187,6 @@
     [
       "Apps SDK",
       "https://developers.openai.com/apps-sdk/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 16:01:58",
-      "https://news.ycombinator.com/item?id=45492803"
-    ],
-    [
-      "OpenZL: An open source format-aware compression framework",
-      "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/"
     ]
   ],
   [
