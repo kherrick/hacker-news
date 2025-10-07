@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 07:51:57](https://news.ycombinator.com/item?id=45500485) - [Deloitte to refund the Australian government after using AI in $440k report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
 * [2025-10-07, 05:43:56](https://news.ycombinator.com/item?id=45499730) - [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
 * [2025-10-07, 05:39:27](https://news.ycombinator.com/item?id=45499710) - [The NIH ordered me to stop my 'dangerous' gain-of-function research](https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/)
 * [2025-10-07, 04:03:49](https://news.ycombinator.com/item?id=45499281) - [California law forces Netflix, Hulu to turn down ad volumes](https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663)
