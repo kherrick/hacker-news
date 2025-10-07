@@ -61,6 +61,7 @@
 * [2025-10-03, 14:18:56](https://news.ycombinator.com/item?id=45463319) - [I Turned the Lego Game Boy into a Working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
 * [2025-10-03, 14:13:03](https://news.ycombinator.com/item?id=45463251) - [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
 * [2025-10-03, 13:58:37](https://news.ycombinator.com/item?id=45463111) - [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
+* [2025-10-03, 13:37:34](https://news.ycombinator.com/item?id=45462877) - [Who needs Git when you have 1M context windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html)
 * [2025-10-03, 13:36:40](https://news.ycombinator.com/item?id=45462863) - [California Needs to Learn from Houston and Dallas about Homelessness](https://www.governance.fyi/p/california-needs-to-learn-from-houston)
 * [2025-10-03, 13:23:26](https://news.ycombinator.com/item?id=45462733) - [Media trust hits new low across the political spectrum](https://www.axios.com/2025/10/02/media-trust-new-low)
 * [2025-10-03, 13:21:44](https://news.ycombinator.com/item?id=45462713) - [CVE-2025-59489: Arbitrary Code Execution in Unity Runtime since 2017](https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/)
