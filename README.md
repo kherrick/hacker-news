@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 03:40:41](https://news.ycombinator.com/item?id=45499170) - [Pdoc – Generate API Documentation for Python Projects](https://pdoc.dev/)
 * [2025-10-07, 01:34:32](https://news.ycombinator.com/item?id=45498469) - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
 * [2025-10-07, 00:46:57](https://news.ycombinator.com/item?id=45498109) - [Hardware Stockholm Syndrome](https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome)
 * [2025-10-07, 00:11:34](https://news.ycombinator.com/item?id=45497818) - [Analytical review of depression and suicidality from finasteride](https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/)
@@ -20,7 +21,6 @@
 * [2025-10-06, 15:39:59](https://news.ycombinator.com/item?id=45492564) - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [2025-10-06, 14:06:29](https://news.ycombinator.com/item?id=45491609) - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
-* [2025-10-06, 03:57:26](https://news.ycombinator.com/item?id=45487519) - [It's just a virus, the E.R. told him – days later, he was dead](https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html)
 * [2025-10-04, 00:30:44](https://news.ycombinator.com/item?id=45469376) - [Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)](https://windscribe.com/blog/the-vpn-relationship-map/)
 * [2025-10-03, 22:30:57](https://news.ycombinator.com/item?id=45468599) - [Removing these 50 objects from orbit would cut danger from space junk in half](https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/)
 * [2025-10-03, 06:33:43](https://news.ycombinator.com/item?id=45459706) - [Using Deno as my game engine](https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine)
