@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 20:11:58](https://news.ycombinator.com/item?id=45508213) - [A tiny recursive reasoning model achieves 45% on ARC-AGI-1 and 8% on ARC-AGI-2](http://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
 * [2025-10-07, 19:44:00](https://news.ycombinator.com/item?id=45507880) - [Banning controversy reveals Bluesky's decentralized aspiration isn't reality](https://plus.flux.community/p/banning-controversy-reveals-blueskys)
 * [2025-10-07, 19:07:07](https://news.ycombinator.com/item?id=45507398) - [Eliminating contrails from flying could be incredibly cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
@@ -28,7 +29,6 @@
 * [2025-10-05, 22:21:47](https://news.ycombinator.com/item?id=45485826) - [Bat: Cat with Syntax Highlighting](https://github.com/sharkdp/bat)
 * [2025-10-05, 00:20:23](https://news.ycombinator.com/item?id=45477916) - [Windows 3.1 in a Windows 95 Virtual Machine (2022)](https://www.geoffchappell.com/notes/windows/retro/extrawin.htm)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
-* [2025-10-03, 20:47:04](https://news.ycombinator.com/item?id=45467600) - [Reconstruction of Konrad Zuse's Z3 Computer](https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html)
 * [2025-10-01, 20:48:06](https://news.ycombinator.com/item?id=45443301) - [Is pawn promotion to rook or bishop something that is seen in play? (2012)](https://boardgames.stackexchange.com/questions/6739/is-pawn-promotion-to-rook-or-bishop-something-that-is-seen-in-play)
 
 ## [Archives](archives/index.md)
