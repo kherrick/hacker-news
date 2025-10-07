@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 13:22:04](https://news.ycombinator.com/item?id=45502748) - [3M May Escape Toxic Chemical, PFAS Manufacturing Legacy](https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/)
 * [2025-10-07, 13:00:25](https://news.ycombinator.com/item?id=45502543) - [Erlang ARM32 JIT is born](https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3)
 * [2025-10-07, 13:00:08](https://news.ycombinator.com/item?id=45502541) - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 * [2025-10-07, 12:54:14](https://news.ycombinator.com/item?id=45502502) - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
