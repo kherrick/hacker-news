@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 13:00:25](https://news.ycombinator.com/item?id=45502543) - [Erlang ARM32 JIT is born](https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3)
+* [2025-10-07, 13:00:08](https://news.ycombinator.com/item?id=45502541) - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
+* [2025-10-07, 12:54:14](https://news.ycombinator.com/item?id=45502502) - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 12:41:40](https://news.ycombinator.com/item?id=45502387) - [Provision (YC S22) Is Hiring](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada)
+* [2025-10-07, 12:14:16](https://news.ycombinator.com/item?id=45502173) - [disk-perf-git-and-pnpm aims to prove that something is wrong with APFS on macOS](https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm)
 * [2025-10-07, 10:42:47](https://news.ycombinator.com/item?id=45501488) - [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
 * [2025-10-07, 10:38:46](https://news.ycombinator.com/item?id=45501459) - [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
+* [2025-10-07, 10:16:29](https://news.ycombinator.com/item?id=45501326) - [GPT-5-Codex is a better AI researcher than me](https://www.seangoedecke.com/ai-research-with-codex/)
 * [2025-10-07, 10:07:50](https://news.ycombinator.com/item?id=45501279) - [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush)
 * [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics Awarded to John Clarke, Michel Devoret and John Martinis](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-07, 09:35:53](https://news.ycombinator.com/item?id=45501114) - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
