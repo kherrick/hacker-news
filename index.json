@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-10-07, 08:27:41",
+      "https://news.ycombinator.com/item?id=45500699"
+    ],
+    [
+      "A mechanic offered a reason why no one wants to work in the industry",
+      "https://www.motor1.com/news/774805/ford-ceo-complains-shortage-mechanics/"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 08:04:49",
       "https://news.ycombinator.com/item?id=45500560"
     ],
@@ -157,16 +167,6 @@
     [
       "The least amount of CSS for a decent looking site (2023)",
       "https://thecascade.dev/article/least-amount-of-css/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 22:30:12",
-      "https://news.ycombinator.com/item?id=45497027"
-    ],
-    [
-      "RediShell: Critical remote code execution vulnerability in Redis",
-      "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-10-03, 06:33:43",
-      "https://news.ycombinator.com/item?id=45459706"
+      "2025-10-03, 13:37:34",
+      "https://news.ycombinator.com/item?id=45462877"
     ],
     [
-      "Using Deno as my game engine",
-      "https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine"
+      "Who needs Git when you have 1M context windows?",
+      "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html"
     ]
   ],
   [
