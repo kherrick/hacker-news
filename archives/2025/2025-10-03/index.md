@@ -63,6 +63,7 @@
 * [2025-10-03, 13:23:26](https://news.ycombinator.com/item?id=45462733) - [Media trust hits new low across the political spectrum](https://www.axios.com/2025/10/02/media-trust-new-low)
 * [2025-10-03, 13:21:44](https://news.ycombinator.com/item?id=45462713) - [CVE-2025-59489: Arbitrary Code Execution in Unity Runtime since 2017](https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/)
 * [2025-10-03, 13:19:18](https://news.ycombinator.com/item?id=45462687) - [Amber Room](https://en.wikipedia.org/wiki/Amber_Room)
+* [2025-10-03, 12:47:15](https://news.ycombinator.com/item?id=45462338) - [Radioactive Pottery and Glassware (2010)](https://carlwillis.wordpress.com/2010/01/12/nuclear-collection-part-iv/)
 * [2025-10-03, 12:41:03](https://news.ycombinator.com/item?id=45462297) - [Faroes](https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr)
 * [2025-10-03, 12:26:02](https://news.ycombinator.com/item?id=45462163) - [TikTok 'directs child accounts to pornographic content within a few clicks'](https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible)
 * [2025-10-03, 12:24:02](https://news.ycombinator.com/item?id=45462143) - [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)

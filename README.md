@@ -2,7 +2,6 @@
 
 * [2025-10-07, 03:40:41](https://news.ycombinator.com/item?id=45499170) - [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
 * [2025-10-07, 01:34:32](https://news.ycombinator.com/item?id=45498469) - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
-* [2025-10-07, 00:11:34](https://news.ycombinator.com/item?id=45497818) - [Analytical review of depression and suicidality from finasteride](https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/)
 * [2025-10-06, 23:47:24](https://news.ycombinator.com/item?id=45497624) - [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
 * [2025-10-06, 23:15:26](https://news.ycombinator.com/item?id=45497384) - [Microsoft is plugging more holes that let you use Windows 11 without MS account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
 * [2025-10-06, 22:30:12](https://news.ycombinator.com/item?id=45497027) - [RediShell: Critical remote code execution vulnerability in Redis](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844)
@@ -23,6 +22,7 @@
 * [2025-10-04, 00:30:44](https://news.ycombinator.com/item?id=45469376) - [Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)](https://windscribe.com/blog/the-vpn-relationship-map/)
 * [2025-10-03, 22:30:57](https://news.ycombinator.com/item?id=45468599) - [Removing these 50 objects from orbit would cut danger from space junk in half](https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/)
 * [2025-10-03, 21:00:28](https://news.ycombinator.com/item?id=45467716) - [Gore Vidal: American Prophet](https://www.newstatesman.com/ideas/2025/10/gore-vidal-american-prophet)
+* [2025-10-03, 12:47:15](https://news.ycombinator.com/item?id=45462338) - [Radioactive Pottery and Glassware (2010)](https://carlwillis.wordpress.com/2010/01/12/nuclear-collection-part-iv/)
 * [2025-10-03, 06:33:43](https://news.ycombinator.com/item?id=45459706) - [Using Deno as my game engine](https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine)
 * [2025-10-03, 04:24:58](https://news.ycombinator.com/item?id=45458973) - [Why did Crunchyroll's subtitles just get worse?](https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles)
 * [2025-10-03, 04:01:35](https://news.ycombinator.com/item?id=45458833) - [Ghosts of Unix Past: a historical search for design patterns (2010)](https://lwn.net/Articles/411845/)
