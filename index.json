@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-07, 07:51:57",
+      "https://news.ycombinator.com/item?id=45500485"
+    ],
+    [
+      "Deloitte to refund the Australian government after using AI in $440k report",
+      "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 05:43:56",
       "https://news.ycombinator.com/item?id=45499730"
     ],
@@ -87,16 +97,6 @@
     [
       "CodeMender: an AI agent for code security",
       "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 20:47:25",
-      "https://news.ycombinator.com/item?id=45496146"
-    ],
-    [
-      "Valorant's 128-Tick Servers (2020)",
-      "https://technology.riotgames.com/news/valorants-128-tick-servers"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-10-03, 19:53:07",
-      "https://news.ycombinator.com/item?id=45467078"
-    ],
-    [
-      "Grafana Labs made a Taylor Swift dashboard",
-      "https://grafana.com/blog/2025/10/03/taylor-swift-grafanas-version-how-to-track-and-visualize-data-related-to-pop-s-biggest-superstar/"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 12:47:15",
       "https://news.ycombinator.com/item?id=45462338"
     ],
     [
       "Radioactive Pottery and Glassware (2010)",
       "https://carlwillis.wordpress.com/2010/01/12/nuclear-collection-part-iv/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 08:56:01",
+      "https://news.ycombinator.com/item?id=45460656"
+    ],
+    [
+      "No_color: Disabling ANSI color output by default",
+      "https://no-color.org/"
     ]
   ],
   [
