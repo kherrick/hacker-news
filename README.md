@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics Awarded to John Clarke, Michel Devoret and John Martinis](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-07, 09:29:28](https://news.ycombinator.com/item?id=45501073) - [Buckle Up, the Smart Glasses Backlash Is Coming](https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213)
 * [2025-10-07, 07:51:57](https://news.ycombinator.com/item?id=45500485) - [Deloitte to refund the Australian government after using AI in $440k report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
 * [2025-10-07, 05:43:56](https://news.ycombinator.com/item?id=45499730) - [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
@@ -26,7 +27,6 @@
 * [2025-10-03, 08:56:01](https://news.ycombinator.com/item?id=45460656) - [No_color: Disabling ANSI color output by default](https://no-color.org/)
 * [2025-10-03, 06:33:43](https://news.ycombinator.com/item?id=45459706) - [Using Deno as my game engine](https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine)
 * [2025-10-03, 04:24:58](https://news.ycombinator.com/item?id=45458973) - [Why did Crunchyroll's subtitles just get worse?](https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles)
-* [2025-10-03, 04:01:35](https://news.ycombinator.com/item?id=45458833) - [Ghosts of Unix Past: a historical search for design patterns (2010)](https://lwn.net/Articles/411845/)
 * [2025-10-03, 01:37:23](https://news.ycombinator.com/item?id=45457825) - [How to tile matrix multiplication (2023)](https://alvinwan.com/how-to-tile-matrix-multiplication/)
 * [2025-10-02, 17:12:23](https://news.ycombinator.com/item?id=45452472) - [Indefinite Backpack Travel](https://jeremymaluf.com/onebag/)
 * [2025-10-02, 12:54:13](https://news.ycombinator.com/item?id=45449015) - [Kirigami-inspired parachute falls on target](https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/)
