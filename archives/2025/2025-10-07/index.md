@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 10:38:46](https://news.ycombinator.com/item?id=45501459) - [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
 * [2025-10-07, 10:07:50](https://news.ycombinator.com/item?id=45501279) - [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush)
 * [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics Awarded to John Clarke, Michel Devoret and John Martinis](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-07, 09:35:53](https://news.ycombinator.com/item?id=45501114) - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
