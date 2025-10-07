@@ -6,6 +6,7 @@
 
 * [2025-10-05, 23:51:47](https://news.ycombinator.com/item?id=45486306) - [Rule-Based Expert Systems: The Mycin Experiments (1984)](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
 * [2025-10-05, 23:00:23](https://news.ycombinator.com/item?id=45486031) - [Generative AI's Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
+* [2025-10-05, 22:49:27](https://news.ycombinator.com/item?id=45485986) - [Show HN: DidMySettingsChange – A tool that checks changed windows settings](https://github.com/nolesapex/DidMySettingsChange)
 * [2025-10-05, 22:21:47](https://news.ycombinator.com/item?id=45485826) - [Bat: Cat with Syntax Highlighting](https://github.com/sharkdp/bat)
 * [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
 * [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany Embraces Balkonkraftwerke – Balcony Solar for Apartments – CleanTechnica](https://cleantechnica.com/2024/12/21/germany-embraces-balkonkraftwerke-balcony-solar-for-apartments/)
