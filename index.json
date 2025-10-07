@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-07, 13:00:25",
+      "https://news.ycombinator.com/item?id=45502543"
+    ],
+    [
+      "Erlang ARM32 JIT is born",
+      "https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 13:00:08",
+      "https://news.ycombinator.com/item?id=45502541"
+    ],
+    [
+      "Qualcomm to Acquire Arduino",
+      "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 12:54:14",
+      "https://news.ycombinator.com/item?id=45502502"
+    ],
+    [
+      "The evolution of Lua, continued [pdf]",
+      "https://www.lua.org/doc/cola.pdf"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 12:41:40",
       "https://news.ycombinator.com/item?id=45502387"
     ],
@@ -11,12 +41,32 @@
   ],
   [
     [
+      "2025-10-07, 12:14:16",
+      "https://news.ycombinator.com/item?id=45502173"
+    ],
+    [
+      "disk-perf-git-and-pnpm aims to prove that something is wrong with APFS on macOS",
+      "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 10:42:47",
       "https://news.ycombinator.com/item?id=45501488"
     ],
     [
       "The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain",
       "https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 10:16:29",
+      "https://news.ycombinator.com/item?id=45501326"
+    ],
+    [
+      "GPT-5-Codex is a better AI researcher than me",
+      "https://www.seangoedecke.com/ai-research-with-codex/"
     ]
   ],
   [
@@ -81,32 +131,12 @@
   ],
   [
     [
-      "2025-10-07, 01:34:32",
-      "https://news.ycombinator.com/item?id=45498469"
-    ],
-    [
-      "Origami Patterns Solve a Major Physics Riddle",
-      "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 23:47:24",
       "https://news.ycombinator.com/item?id=45497624"
     ],
     [
       "The least amount of CSS for a decent looking site (2023)",
       "https://thecascade.dev/article/least-amount-of-css/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 23:15:26",
-      "https://news.ycombinator.com/item?id=45497384"
-    ],
-    [
-      "Microsoft is plugging more holes that let you use Windows 11 without MS account",
-      "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes"
     ]
   ],
   [
@@ -121,32 +151,12 @@
   ],
   [
     [
-      "2025-10-06, 21:28:56",
-      "https://news.ycombinator.com/item?id=45496533"
-    ],
-    [
-      "CodeMender: an AI agent for code security",
-      "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 18:27:33",
       "https://news.ycombinator.com/item?id=45494558"
     ],
     [
       "Apps SDK",
       "https://developers.openai.com/apps-sdk/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 16:52:58",
-      "https://news.ycombinator.com/item?id=45493358"
-    ],
-    [
-      "Ladybird passes the Apple 90% threshold on web-platform-tests",
-      "https://twitter.com/awesomekling/status/1974781722953953601"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Mise: Monorepo Tasks",
       "https://github.com/jdx/mise/discussions/6564"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 14:06:29",
-      "https://news.ycombinator.com/item?id=45491609"
-    ],
-    [
-      "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
-      "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b"
     ]
   ],
   [
