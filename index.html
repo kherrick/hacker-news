@@ -129,26 +129,123 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="45503960">
+        <section id="45504388">
           <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/interactive/2025/10/06/upshot/us-international-student-travel.html"
-              >Nearly 20 Percent Fewer International Students Traveled to the
-              U.S. in August</a
+            <a class="item" href="https://github.com/llama-farm/llamafarm"
+              >Launch HN: LlamaFarm (YC W22) – Open-source framework for
+              distributed AI</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-10-07 @ 15:01:29</span
+              <span>2025-10-07 @ 15:30:20</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45503960"
+                ><a href="https://news.ycombinator.com/item?id=45504388"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://llamafarm.dev">https://llamafarm.dev</a>). We're
+              building an open-source AI framework based on a simple belief: the
+              future isn't one massive model in the cloud—it's specialized
+              models running everywhere, continuously fine-tuned from real
+              usage.
+              <p>
+                The problem: We were building AI tools and kept falling into the
+                same trap. AI demos die before production. We built a bunch of
+                AI demos but they were impossible to get to production. It would
+                work perfectly on our laptop, but when we deployed it, something
+                broke, and RAG would degrade. If we were running our own model,
+                it would quickly become out of date. The proof-of-concept that
+                impressed the team couldn't handle real-world data.
+              </p>
+              <p>
+                Our solution: declarative AI-as-code. One YAML defines models,
+                policies, data, evals, and deploy. Instead of one brittle giant,
+                we orchestrate a Mixture of Experts—many small, specialized
+                models you continuously fine-tune from real usage. With RAG for
+                source-grounded answers, systems get cheaper, faster, and
+                auditable.
+              </p>
+              <p>
+                There’s a short demo here:
+                <a href="https://www.youtube.com/watch?v=W7MHGyN0MdQ"
+                  >https://www.youtube.com/watch?v=W7MHGyN0MdQ</a
+                >
+                and a more in-depth one at
+                <a href="https://www.youtube.com/watch?v=HNnZ4iaOSJ4"
+                  >https://www.youtube.com/watch?v=HNnZ4iaOSJ4</a
+                >.
+              </p>
+              <p>
+                Ultimately, we want to deliver a single, signed bundle—models +
+                retrieval + database + API + tests—that runs anywhere: cloud,
+                edge, or air-gapped. No glue scripts. No surprise egress bills.
+                Your data stays in your runtime.
+              </p>
+              <p>
+                We believe that the AI industry is evolving like computing did.
+                Just as we went from mainframes to distributed systems and
+                monolithic apps to microservices, AI is following the same path:
+                models are getting smaller and better. Mixture of Experts is
+                here to stay. Qwen3 is sick. Llama 3.2 runs on phones. Phi-3
+                fits on edge devices. Domain models beat GPT-5 on specific
+                tasks.
+              </p>
+              <p>
+                RAG brings specialized data to your model: You don't need a 1T
+                parameter model that "knows everything." You need a smart model
+                that can read <i>your</i> data. Fine-tuning is democratizing:
+                what cost $100k last year now costs $500. Every company will
+                have custom models.
+              </p>
+              <p>
+                Data gravity is real: Your data wants to stay where it is:
+                on-prem, in your AWS account, on employee laptops.
+              </p>
+              <p>
+                Bottom line: LlamaFarm turns AI from experiments into
+                repeatable, secure releases, so teams can ship fast.
+              </p>
+              <p>
+                What we have working today: Full RAG pipeline: 15+ document
+                formats, programmatic extraction (no LLM calls needed),
+                vector-database embedding, universal model layer that runs the
+                same code for 25+ providers, automatic failover, cost-based
+                routing; Truly portable: Identical behavior from laptop →
+                datacenter → cloud; Real deployment: Docker Compose works now
+                with Kubernetes basics and cloud templates on the way.
+              </p>
+              <p>
+                Check out our readme/quickstart for easy install instructions:
+                <a
+                  href="https://github.com/llama-farm/llamafarm?tab=readme-ov-file#-quickstart-tldr"
+                  >https://github.com/llama-farm/llamafarm?tab=readme-ov-file#-...</a
+                >
+              </p>
+              <p>
+                Or just grab a binary for your platform directly from the latest
+                release:
+                <a
+                  href="https://github.com/llama-farm/llamafarm/releases/latest"
+                  >https://github.com/llama-farm/llamafarm/releases/latest</a
+                >
+              </p>
+              <p>
+                The vision is to be able to run, update, and continuously
+                fine-tune dozens of models across environments with built-in RAG
+                and evaluations, all wrapped in a self-healing runtime. We have
+                an MVP of that today (with a lot more to do!).
+              </p>
+              <p>
+                We’d love to hear your feedback! Think we’re way off? Spot on?
+                Want us to build something for your specific use case? We’re
+                here for all your comments!
+              </p>
+            </div>
           </section>
         </section>
         <section id="45503882">
@@ -163,11 +260,11 @@
             <h4>
               <span>2025-10-07 @ 14:56:09</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45503882"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -185,62 +282,13 @@
             <h4>
               <span>2025-10-07 @ 14:45:54</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45503726"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="45502979">
-          <h3>
-            <a class="item" href="https://www.zima.run/"
-              >Show HN: Blueprintor for Hardware Engineering</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-07 @ 13:42:49</span
-              ><span class="points-container"
-                >Points: <span class="points">3</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45502979"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                • I built this tool to lighten the load of poring over countless
-                component data sheets at project kickoff and to make blueprint
-                iteration smoother. I’m aiming beyond “hardware” to the wider
-                class of machines without operating systems, structured
-                hierarchically as system–subsystem–component, so we can reason
-                clearly at each level and lower conceptual entropy throughout
-                the design process.
-              </p>
-              <p>
-                • Right now, the tool excels at precise spec comparisons for
-                off‑the‑shelf components, but there are still blind spots in
-                modeling the full physical behavior of a hardware system. I’m
-                investigating simulation to close that gap. It also doesn’t yet
-                design PCBs or handle CAD modeling directly.
-              </p>
-              <p>
-                • I’m currently building a node‑editing feature. Very soon
-                (within 1–2 days), you’ll be able to edit detailed information
-                for nodes at every level. Over the next month, I’m targeting a
-                basic 3D canvas to create and configure three‑dimensional data
-                for hardware.
-              </p>
-              <p>
-                As a demo, there’s plenty to improve. I want to keep learning
-                and evolving this tool so it can meaningfully support hardware
-                and machine design. I’d truly value your feedback!
-              </p>
-            </div>
           </section>
         </section>
         <section id="45502784">
@@ -253,7 +301,7 @@
             <h4>
               <span>2025-10-07 @ 13:25:33</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45502784"
                   >Comments</a
@@ -274,7 +322,7 @@
             <h4>
               <span>2025-10-07 @ 13:22:04</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45502748"
                   >Comments</a
@@ -295,11 +343,11 @@
             <h4>
               <span>2025-10-07 @ 13:00:25</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45502543"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -316,11 +364,11 @@
             <h4>
               <span>2025-10-07 @ 13:00:08</span
               ><span class="points-container"
-                >Points: <span class="points">392</span></span
+                >Points: <span class="points">413</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45502541"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
           </section>
@@ -335,11 +383,11 @@
             <h4>
               <span>2025-10-07 @ 12:54:14</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45502502"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -373,7 +421,7 @@
             <h4>
               <span>2025-10-07 @ 12:14:16</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45502173"
                   >Comments</a
@@ -393,7 +441,7 @@
             <h4>
               <span>2025-10-07 @ 10:07:50</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45501279"
                   >Comments</a
@@ -414,11 +462,11 @@
             <h4>
               <span>2025-10-07 @ 09:50:49</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">263</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45501189"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -457,11 +505,11 @@
             <h4>
               <span>2025-10-07 @ 08:27:41</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45500699"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -476,11 +524,11 @@
             <h4>
               <span>2025-10-07 @ 08:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45500560"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
             <div class="text">
@@ -537,11 +585,11 @@
             <h4>
               <span>2025-10-07 @ 07:51:57</span
               ><span class="points-container"
-                >Points: <span class="points">304</span></span
+                >Points: <span class="points">312</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45500485"
                   >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -558,11 +606,11 @@
             <h4>
               <span>2025-10-06 @ 23:47:24</span
               ><span class="points-container"
-                >Points: <span class="points">632</span></span
+                >Points: <span class="points">634</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45497624"
                   >Comments</a
-                ><span class="descendants">: 264</span></span
+                ><span class="descendants">: 269</span></span
               >
             </h4>
           </section>
@@ -577,7 +625,7 @@
             <h4>
               <span>2025-10-06 @ 18:27:33</span
               ><span class="points-container"
-                >Points: <span class="points">432</span></span
+                >Points: <span class="points">434</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45494558"
                   >Comments</a
@@ -598,11 +646,11 @@
             <h4>
               <span>2025-10-06 @ 12:29:26</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45490629"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -619,7 +667,7 @@
             <h4>
               <span>2025-10-06 @ 10:38:21</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45489874"
                   >Comments</a
@@ -660,11 +708,11 @@
             <h4>
               <span>2025-10-04 @ 00:30:44</span
               ><span class="points-container"
-                >Points: <span class="points">588</span></span
+                >Points: <span class="points">589</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45469376"
                   >Comments</a
-                ><span class="descendants">: 340</span></span
+                ><span class="descendants">: 346</span></span
               >
             </h4>
           </section>
@@ -682,7 +730,7 @@
             <h4>
               <span>2025-10-03 @ 22:30:57</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45468599"
                   >Comments</a
@@ -713,6 +761,25 @@
             </h4>
           </section>
         </section>
+        <section id="45467708">
+          <h3>
+            <a class="item" href="https://centralflows.github.io/part1/"
+              >How does gradient descent work?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-03 @ 20:59:23</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45467708"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="45467600">
           <h3>
             <a
@@ -729,7 +796,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45467600"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -746,11 +813,11 @@
             <h4>
               <span>2025-10-03 @ 13:37:34</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45462877"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -767,7 +834,7 @@
             <h4>
               <span>2025-10-03 @ 04:24:58</span
               ><span class="points-container"
-                >Points: <span class="points">363</span></span
+                >Points: <span class="points">364</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45458973"
                   >Comments</a
@@ -788,7 +855,7 @@
             <h4>
               <span>2025-10-02 @ 22:30:46</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45456381"
                   >Comments</a
