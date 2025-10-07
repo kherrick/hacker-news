@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-07, 13:25:33",
+      "https://news.ycombinator.com/item?id=45502784"
+    ],
+    [
+      "Tcl-Lang Showcase",
+      "https://wiki.tcl-lang.org/page/Showcase"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 13:22:04",
       "https://news.ycombinator.com/item?id=45502748"
     ],
     [
       "3M May Escape Toxic Chemical, PFAS Manufacturing Legacy",
       "https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 13:18:33",
+      "https://news.ycombinator.com/item?id=45502706"
+    ],
+    [
+      "America is now one big bet on AI",
+      "https://www.ft.com/content/6cc87bd9-cb2f-4f82-99c5-c38748986a2e"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "disk-perf-git-and-pnpm aims to prove that something is wrong with APFS on macOS",
       "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 10:16:29",
-      "https://news.ycombinator.com/item?id=45501326"
-    ],
-    [
-      "GPT-5-Codex is a better AI researcher than me",
-      "https://www.seangoedecke.com/ai-research-with-codex/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Who needs Git when you have 1M context windows?",
       "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 08:56:01",
-      "https://news.ycombinator.com/item?id=45460656"
-    ],
-    [
-      "No_color: Disabling ANSI color output by default",
-      "https://no-color.org/"
     ]
   ],
   [
