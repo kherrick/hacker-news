@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-07, 10:38:46",
+      "https://news.ycombinator.com/item?id=45501459"
+    ],
+    [
+      "MacBook Lid Angle Sensor",
+      "https://github.com/samhenrigold/LidAngleSensor"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 10:07:50",
       "https://news.ycombinator.com/item?id=45501279"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45501189"
     ],
     [
-      "Nobel Prize in Physics Awarded to John Clarke, Michel Devoret and John Martinis",
+      "Nobel Prize in Physics",
       "https://www.nobelprize.org/prizes/physics/2025/popular-information/"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "The Mondrian introduction to functional optics",
       "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 09:33:50",
-      "https://news.ycombinator.com/item?id=45501099"
-    ],
-    [
-      "Redis CVE-2025-49844: Use-After-Free may lead to remote code execution",
-      "https://redis.io/blog/security-advisory-cve-2025-49844/"
     ]
   ],
   [
@@ -121,22 +121,22 @@
   ],
   [
     [
+      "2025-10-06, 22:30:12",
+      "https://news.ycombinator.com/item?id=45497027"
+    ],
+    [
+      "RediShell: Critical remote code execution vulnerability in Redis",
+      "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 21:28:56",
       "https://news.ycombinator.com/item?id=45496533"
     ],
     [
       "CodeMender: an AI agent for code security",
       "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 20:09:44",
-      "https://news.ycombinator.com/item?id=45495738"
-    ],
-    [
-      "Translating Cython to Mojo, a first attempt",
-      "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45467751"
     ],
     [
-      "You are holding BUILD files wrong",
+      "Build files are the best tool to represent software architecture",
       "https://blogsystem5.substack.com/p/you-are-holding-build-files-wrong"
     ]
   ],
