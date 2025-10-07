@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 16:18:48](https://news.ycombinator.com/item?id=45505103) - [Police Said They Surveilled Woman Who Had an Abortion for Her 'Safety.'](https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/)
 * [2025-10-07, 16:10:22](https://news.ycombinator.com/item?id=45504973) - [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [2025-10-07, 15:35:48](https://news.ycombinator.com/item?id=45504470) - [IKEA Catalogs 1951-2021](https://ikeamuseum.com/en/explore/ikea-catalogue/)
 * [2025-10-07, 15:30:20](https://news.ycombinator.com/item?id=45504388) - [Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
-* [2025-10-07, 15:30:02](https://news.ycombinator.com/item?id=45504381) - [Gold Prices Top $4k for First Time](https://www.wsj.com/finance/commodities-futures/gold-prices-top-4-000-for-first-time-d63ab2bd)
 * [2025-10-07, 15:11:52](https://news.ycombinator.com/item?id=45504127) - [Show HN: Mars – Personal AI robot for builders (< $2k)](https://news.ycombinator.com/item?id=45504127)
 * [2025-10-07, 14:56:09](https://news.ycombinator.com/item?id=45503882) - [Swiss glaciers have shrunk by a quarter since 2015, study says](https://www.france24.com/en/live-news/20251001-swiss-glaciers-shrank-by-a-quarter-in-past-decade-study)
 * [2025-10-07, 14:45:54](https://news.ycombinator.com/item?id=45503726) - [No account? No Windows 11, Microsoft says as another loophole snaps shut](https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/)
@@ -13,7 +13,6 @@
 * [2025-10-07, 13:00:08](https://news.ycombinator.com/item?id=45502541) - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 * [2025-10-07, 12:54:14](https://news.ycombinator.com/item?id=45502502) - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 12:41:40](https://news.ycombinator.com/item?id=45502387) - [Provision (YC S22) Is Hiring](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada)
-* [2025-10-07, 12:14:16](https://news.ycombinator.com/item?id=45502173) - [Stress test for parallel disk i/o using git and pnpm](https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm)
 * [2025-10-07, 10:07:50](https://news.ycombinator.com/item?id=45501279) - [Devpush – Open-source and self-hostable alternative to Vercel, Render, Netlify](https://github.com/hunvreus/devpush)
 * [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-07, 09:35:53](https://news.ycombinator.com/item?id=45501114) - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
@@ -30,6 +29,7 @@
 * [2025-10-03, 20:47:04](https://news.ycombinator.com/item?id=45467600) - [Reconstruction of Konrad Zuse's Z3 Computer](https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html)
 * [2025-10-03, 13:37:34](https://news.ycombinator.com/item?id=45462877) - [Who needs Git when you have 1M context windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html)
 * [2025-10-03, 04:24:58](https://news.ycombinator.com/item?id=45458973) - [Why did Crunchyroll's subtitles just get worse?](https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles)
+* [2025-10-02, 12:54:13](https://news.ycombinator.com/item?id=45449015) - [Kirigami-inspired parachute falls on target](https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/)
 
 ## [Archives](archives/index.md)
 
