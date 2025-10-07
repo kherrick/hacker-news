@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+* [2025-10-07, 19:44:00](https://news.ycombinator.com/item?id=45507880) - [Banning controversy reveals Bluesky's decentralized aspiration isn't reality](https://plus.flux.community/p/banning-controversy-reveals-blueskys)
 * [2025-10-07, 19:07:07](https://news.ycombinator.com/item?id=45507398) - [Eliminating contrails from flying could be incredibly cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
 * [2025-10-07, 18:57:17](https://news.ycombinator.com/item?id=45507264) - [Photographers are losing their jobs faster than software engineers](https://photowand.ai/packs)
 * [2025-10-07, 18:55:36](https://news.ycombinator.com/item?id=45507236) - [The Publishing Industry Has a Gambling Problem](https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/)
@@ -39,6 +40,7 @@
 * [2025-10-07, 13:00:08](https://news.ycombinator.com/item?id=45502541) - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 * [2025-10-07, 12:54:14](https://news.ycombinator.com/item?id=45502502) - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 12:41:40](https://news.ycombinator.com/item?id=45502387) - [Provision (YC S22) Is Hiring](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada)
+* [2025-10-07, 12:20:14](https://news.ycombinator.com/item?id=45502216) - [Canadian bill would strip internet access from 'specified persons', no warrant](https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons)
 * [2025-10-07, 12:14:16](https://news.ycombinator.com/item?id=45502173) - [disk-perf-git-and-pnpm aims to prove that something is wrong with APFS on macOS](https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm)
 * [2025-10-07, 10:42:47](https://news.ycombinator.com/item?id=45501488) - [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
 * [2025-10-07, 10:38:46](https://news.ycombinator.com/item?id=45501459) - [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
