@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-10-07, 12:41:40",
+      "https://news.ycombinator.com/item?id=45502387"
+    ],
+    [
+      "Provision (YC S22) Is Hiring",
+      "https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 10:42:47",
       "https://news.ycombinator.com/item?id=45501488"
     ],
     [
       "The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain",
       "https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 10:38:46",
-      "https://news.ycombinator.com/item?id=45501459"
-    ],
-    [
-      "MacBook Lid Angle Sensor",
-      "https://github.com/samhenrigold/LidAngleSensor"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-10-06, 17:23:20",
-      "https://news.ycombinator.com/item?id=45493718"
-    ],
-    [
-      "OpenAI ChatKit",
-      "https://github.com/openai/chatkit-js"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 16:52:58",
       "https://news.ycombinator.com/item?id=45493358"
     ],
@@ -247,6 +237,16 @@
     [
       "Build files are the best tool to represent software architecture",
       "https://blogsystem5.substack.com/p/you-are-holding-build-files-wrong"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 13:37:34",
+      "https://news.ycombinator.com/item?id=45462877"
+    ],
+    [
+      "Who needs Git when you have 1M context windows?",
+      "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html"
     ]
   ],
   [
