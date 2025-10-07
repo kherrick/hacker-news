@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 21:12:37](https://news.ycombinator.com/item?id=45508944) - [No more loud commercials: Governor Newsom signs SB 576](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)
 * [2025-10-07, 21:00:51](https://news.ycombinator.com/item?id=45508811) - [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
 * [2025-10-07, 20:11:58](https://news.ycombinator.com/item?id=45508213) - [A tiny recursive reasoning model achieves 45% on ARC-AGI-1 and 8% on ARC-AGI-2](http://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)

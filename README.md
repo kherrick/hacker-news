@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 21:12:37](https://news.ycombinator.com/item?id=45508944) - [No more loud commercials: Governor Newsom signs SB 576](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)
 * [2025-10-07, 21:00:51](https://news.ycombinator.com/item?id=45508811) - [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
 * [2025-10-07, 20:11:58](https://news.ycombinator.com/item?id=45508213) - [A tiny recursive reasoning model achieves 45% on ARC-AGI-1 and 8% on ARC-AGI-2](http://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
@@ -24,7 +25,6 @@
 * [2025-10-07, 12:20:14](https://news.ycombinator.com/item?id=45502216) - [Canadian bill would strip internet access from 'specified persons', no warrant](https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons)
 * [2025-10-06, 15:32:32](https://news.ycombinator.com/item?id=45492489) - [Show HN: I'm building a browser for reverse engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An illustrated introduction to linear algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
-* [2025-10-06, 12:29:26](https://news.ycombinator.com/item?id=45490629) - [Chess.com regional pricing: A case study](https://mobeigi.com/blog/economics/chesscom-regional-pricing/)
 * [2025-10-06, 10:46:23](https://news.ycombinator.com/item?id=45489913) - [Functional Threading \"Macros\"](https://aartaka.me/threading.html)
 * [2025-10-05, 22:21:47](https://news.ycombinator.com/item?id=45485826) - [Bat: Cat with Syntax Highlighting](https://github.com/sharkdp/bat)
 * [2025-10-05, 00:20:23](https://news.ycombinator.com/item?id=45477916) - [Windows 3.1 in a Windows 95 Virtual Machine (2022)](https://www.geoffchappell.com/notes/windows/retro/extrawin.htm)
