@@ -9,7 +9,6 @@
 * [2025-10-07, 18:52:46](https://news.ycombinator.com/item?id=45507195) - [The murky economics of the data-centre investment boom](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less is more: Recursive reasoning with tiny networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 17:31:49](https://news.ycombinator.com/item?id=45506143) - [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
-* [2025-10-07, 17:01:32](https://news.ycombinator.com/item?id=45505692) - [Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
 * [2025-10-07, 16:49:09](https://news.ycombinator.com/item?id=45505539) - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
 * [2025-10-07, 16:39:13](https://news.ycombinator.com/item?id=45505398) - [Cache-Friendly B+Tree Nodes with Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
 * [2025-10-07, 16:10:22](https://news.ycombinator.com/item?id=45504973) - [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
@@ -28,6 +27,7 @@
 * [2025-10-05, 22:49:27](https://news.ycombinator.com/item?id=45485986) - [Show HN: DidMySettingsChange – A tool that checks changed windows settings](https://github.com/nolesapex/DidMySettingsChange)
 * [2025-10-05, 22:21:47](https://news.ycombinator.com/item?id=45485826) - [Bat: Cat with syntax highlighting](https://github.com/sharkdp/bat)
 * [2025-10-05, 00:20:23](https://news.ycombinator.com/item?id=45477916) - [Windows 3.1 in a Windows 95 Virtual Machine (2022)](https://www.geoffchappell.com/notes/windows/retro/extrawin.htm)
+* [2025-10-04, 15:16:19](https://news.ycombinator.com/item?id=45473915) - [Memorizing Phone Numbers](https://phong.bearblog.dev/memorizing-phone-numbers/)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 * [2025-10-01, 20:48:06](https://news.ycombinator.com/item?id=45443301) - [Is pawn promotion to rook or bishop something that is seen in play? (2012)](https://boardgames.stackexchange.com/questions/6739/is-pawn-promotion-to-rook-or-bishop-something-that-is-seen-in-play)
 
