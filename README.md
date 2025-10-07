@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-07, 13:52:32](https://news.ycombinator.com/item?id=45503076) - [Gifted children are special needs children](https://mleverything.substack.com/p/gifted-children-are-special-needs)
+* [2025-10-07, 14:45:54](https://news.ycombinator.com/item?id=45503726) - [No account? No Windows 11, Microsoft says as another loophole snaps shut](https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/)
+* [2025-10-07, 13:42:49](https://news.ycombinator.com/item?id=45502979) - [Show HN: Blueprintor for Hardware Engineering](https://www.zima.run/)
 * [2025-10-07, 13:25:33](https://news.ycombinator.com/item?id=45502784) - [Tcl-Lang Showcase](https://wiki.tcl-lang.org/page/Showcase)
 * [2025-10-07, 13:22:04](https://news.ycombinator.com/item?id=45502748) - [3M May Escape Toxic Chemical, PFAS Manufacturing Legacy](https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/)
-* [2025-10-07, 13:18:33](https://news.ycombinator.com/item?id=45502706) - [America is now one big bet on AI](https://www.ft.com/content/6cc87bd9-cb2f-4f82-99c5-c38748986a2e)
 * [2025-10-07, 13:00:25](https://news.ycombinator.com/item?id=45502543) - [Erlang ARM32 JIT is born](https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3)
 * [2025-10-07, 13:00:08](https://news.ycombinator.com/item?id=45502541) - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 * [2025-10-07, 12:54:14](https://news.ycombinator.com/item?id=45502502) - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
