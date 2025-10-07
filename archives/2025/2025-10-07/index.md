@@ -37,6 +37,7 @@
 * [2025-10-07, 15:11:52](https://news.ycombinator.com/item?id=45504127) - [Show HN: Mars – Personal AI robot for builders (< $2k)](https://news.ycombinator.com/item?id=45504127)
 * [2025-10-07, 15:01:29](https://news.ycombinator.com/item?id=45503960) - [Nearly 20 Percent Fewer International Students Traveled to the U.S. in August](https://www.nytimes.com/interactive/2025/10/06/upshot/us-international-student-travel.html)
 * [2025-10-07, 14:56:09](https://news.ycombinator.com/item?id=45503882) - [Swiss glaciers have shrunk by a quarter since 2015, study says](https://www.france24.com/en/live-news/20251001-swiss-glaciers-shrank-by-a-quarter-in-past-decade-study)
+* [2025-10-07, 14:55:14](https://news.ycombinator.com/item?id=45503867) - [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
 * [2025-10-07, 14:45:54](https://news.ycombinator.com/item?id=45503726) - [No account? No Windows 11, Microsoft says as another loophole snaps shut](https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/)
 * [2025-10-07, 13:52:32](https://news.ycombinator.com/item?id=45503076) - [Gifted children are special needs children](https://mleverything.substack.com/p/gifted-children-are-special-needs)
 * [2025-10-07, 13:47:35](https://news.ycombinator.com/item?id=45503028) - [Eating capitalism: How our food got hijacked by profits](https://hi-im-ada.beehiiv.com/p/7-eating-capitalism)
