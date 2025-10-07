@@ -26,9 +26,9 @@
 * [2025-10-06, 12:29:26](https://news.ycombinator.com/item?id=45490629) - [Chess.com regional pricing: A case study](https://mobeigi.com/blog/economics/chesscom-regional-pricing/)
 * [2025-10-06, 10:46:23](https://news.ycombinator.com/item?id=45489913) - [Functional Threading \"Macros\"](https://aartaka.me/threading.html)
 * [2025-10-05, 22:21:47](https://news.ycombinator.com/item?id=45485826) - [Bat: Cat with Syntax Highlighting](https://github.com/sharkdp/bat)
+* [2025-10-05, 00:20:23](https://news.ycombinator.com/item?id=45477916) - [Windows 3.1 in a Windows 95 Virtual Machine (2022)](https://www.geoffchappell.com/notes/windows/retro/extrawin.htm)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 * [2025-10-03, 20:47:04](https://news.ycombinator.com/item?id=45467600) - [Reconstruction of Konrad Zuse's Z3 Computer](https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html)
-* [2025-10-03, 13:37:34](https://news.ycombinator.com/item?id=45462877) - [Who needs Git when you have 1M context windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html)
 * [2025-10-01, 20:48:06](https://news.ycombinator.com/item?id=45443301) - [Is pawn promotion to rook or bishop something that is seen in play? (2012)](https://boardgames.stackexchange.com/questions/6739/is-pawn-promotion-to-rook-or-bishop-something-that-is-seen-in-play)
 
 ## [Archives](archives/index.md)
