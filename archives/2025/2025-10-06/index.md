@@ -38,6 +38,7 @@
 * [2025-10-06, 14:51:11](https://news.ycombinator.com/item?id=45492055) - [Novel Stable and Low-Energy Earth-Moon Cycle Orbits [pdf]](https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf)
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [2025-10-06, 14:06:29](https://news.ycombinator.com/item?id=45491609) - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
+* [2025-10-06, 13:52:50](https://news.ycombinator.com/item?id=45491470) - [Compiling a Forth](https://healeycodes.com/compiling-a-forth)
 * [2025-10-06, 13:42:30](https://news.ycombinator.com/item?id=45491340) - [ICE Targets Children with Payment in Exchange for Deportation](https://theintercept.com/2025/10/03/ice-children-deportation-payment/)
 * [2025-10-06, 12:37:52](https://news.ycombinator.com/item?id=45490703) - [AI has found 50 bugs in cURL. \"AI-native SASTs work well\"](https://etn.se/72494)
 * [2025-10-06, 12:23:40](https://news.ycombinator.com/item?id=45490578) - [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
