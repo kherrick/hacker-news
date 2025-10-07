@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less Is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871)
 * [2025-10-07, 17:31:49](https://news.ycombinator.com/item?id=45506143) - [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
 * [2025-10-07, 17:03:15](https://news.ycombinator.com/item?id=45505713) - [Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-07, 17:01:32](https://news.ycombinator.com/item?id=45505692) - [You're Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
 * [2025-10-07, 17:00:09](https://news.ycombinator.com/item?id=45505666) - [Pigeon (YC W23) is hiring a lead full stack engineer](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us)
 * [2025-10-07, 16:56:40](https://news.ycombinator.com/item?id=45505626) - [Robin Williams' daughter pleads for people to stop sending AI videos of her dad](https://www.bbc.co.uk/news/articles/c0r0erqk18jo)
+* [2025-10-07, 16:40:02](https://news.ycombinator.com/item?id=45505407) - [Show HN: Arc – high-throughput time-series warehouse with DuckDB analytics](https://github.com/Basekick-Labs/arc)
 * [2025-10-07, 16:39:13](https://news.ycombinator.com/item?id=45505398) - [Cache-Friendly B+Tree Nodes with Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
 * [2025-10-07, 16:18:48](https://news.ycombinator.com/item?id=45505103) - [Police Said They Surveilled Woman Who Had an Abortion for Her 'Safety.'](https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/)
 * [2025-10-07, 16:10:22](https://news.ycombinator.com/item?id=45504973) - [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
