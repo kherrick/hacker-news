@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 17:03:15](https://news.ycombinator.com/item?id=45505713) - [Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
+* [2025-10-07, 17:01:32](https://news.ycombinator.com/item?id=45505692) - [You're Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
 * [2025-10-07, 17:00:09](https://news.ycombinator.com/item?id=45505666) - [Pigeon (YC W23) is hiring a lead full stack engineer](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us)
 * [2025-10-07, 16:56:40](https://news.ycombinator.com/item?id=45505626) - [Robin Williams' daughter pleads for people to stop sending AI videos of her dad](https://www.bbc.co.uk/news/articles/c0r0erqk18jo)
 * [2025-10-07, 16:39:13](https://news.ycombinator.com/item?id=45505398) - [Cache-Friendly B+Tree Nodes with Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
