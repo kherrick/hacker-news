@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-07, 16:10:22](https://news.ycombinator.com/item?id=45504973) - [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [2025-10-07, 15:35:48](https://news.ycombinator.com/item?id=45504470) - [IKEA Catalogs 1951-2021](https://ikeamuseum.com/en/explore/ikea-catalogue/)
 * [2025-10-07, 15:30:20](https://news.ycombinator.com/item?id=45504388) - [Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
 * [2025-10-07, 15:30:02](https://news.ycombinator.com/item?id=45504381) - [Gold Prices Top $4k for First Time](https://www.wsj.com/finance/commodities-futures/gold-prices-top-4-000-for-first-time-d63ab2bd)
@@ -20,6 +21,7 @@
 * [2025-10-07, 07:51:57](https://news.ycombinator.com/item?id=45500485) - [Deloitte to refund the Australian government after using AI in $440k report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
 * [2025-10-06, 23:47:24](https://news.ycombinator.com/item?id=45497624) - [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
 * [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Apps SDK](https://developers.openai.com/apps-sdk/)
+* [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An Illustrated Introduction to Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 * [2025-10-06, 10:38:21](https://news.ycombinator.com/item?id=45489874) - [Ahab's Arithmetic: The Mathematics of Moby-Dick](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720&context=jhm)
 * [2025-10-04, 13:58:00](https://news.ycombinator.com/item?id=45473357) - [Microformats – building blocks for data-rich web pages](https://microformats.org)
 * [2025-10-04, 00:30:44](https://news.ycombinator.com/item?id=45469376) - [Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)](https://windscribe.com/blog/the-vpn-relationship-map/)
@@ -28,8 +30,6 @@
 * [2025-10-03, 20:47:04](https://news.ycombinator.com/item?id=45467600) - [Reconstruction of Konrad Zuse's Z3 Computer](https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html)
 * [2025-10-03, 13:37:34](https://news.ycombinator.com/item?id=45462877) - [Who needs Git when you have 1M context windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html)
 * [2025-10-03, 04:24:58](https://news.ycombinator.com/item?id=45458973) - [Why did Crunchyroll's subtitles just get worse?](https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles)
-* [2025-10-02, 22:30:46](https://news.ycombinator.com/item?id=45456381) - [What makes 5% of AI agents work in production?](https://www.motivenotes.ai/p/what-makes-5-of-ai-agents-actually)
-* [2025-10-02, 12:54:13](https://news.ycombinator.com/item?id=45449015) - [Kirigami-inspired parachute falls on target](https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/)
 
 ## [Archives](archives/index.md)
 

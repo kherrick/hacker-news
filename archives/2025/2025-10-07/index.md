@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 16:10:22](https://news.ycombinator.com/item?id=45504973) - [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [2025-10-07, 15:35:48](https://news.ycombinator.com/item?id=45504470) - [IKEA Catalogs 1951-2021](https://ikeamuseum.com/en/explore/ikea-catalogue/)
 * [2025-10-07, 15:30:20](https://news.ycombinator.com/item?id=45504388) - [Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
 * [2025-10-07, 15:30:02](https://news.ycombinator.com/item?id=45504381) - [Gold Prices Top $4k for First Time](https://www.wsj.com/finance/commodities-futures/gold-prices-top-4-000-for-first-time-d63ab2bd)
