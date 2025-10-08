@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-08, 21:33:05](https://news.ycombinator.com/item?id=45520889) - [Loops of DNA Equipped Ancient Life to Become Complex](https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/)
+* [2025-10-08, 23:14:32](https://news.ycombinator.com/item?id=45521704) - [Show HN: PWAscore](https://pwascore.com/)
+* [2025-10-08, 22:47:22](https://news.ycombinator.com/item?id=45521476) - [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)
 * [2025-10-08, 19:56:54](https://news.ycombinator.com/item?id=45519944) - [Expanding access to Opal, our no-code AI mini-app builder](https://blog.google/technology/google-labs/opal-expansion/)
 * [2025-10-08, 19:16:10](https://news.ycombinator.com/item?id=45519575) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2025-10-08, 18:42:22](https://news.ycombinator.com/item?id=45519263) - [Julia 1.12 highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
@@ -14,7 +15,6 @@
 * [2025-10-08, 14:28:06](https://news.ycombinator.com/item?id=45516584) - [Show HN: Recall: Give Claude memory with Redis-backed persistent context](https://www.npmjs.com/package/@joseairosa/recall)
 * [2025-10-08, 14:13:30](https://news.ycombinator.com/item?id=45516426) - [Now open for building: Introducing Gemini CLI extensions](https://blog.google/technology/developers/gemini-cli-extensions/)
 * [2025-10-08, 13:33:15](https://news.ycombinator.com/item?id=45516000) - [We found a bug in Go's ARM64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
-* [2025-10-08, 12:56:54](https://news.ycombinator.com/item?id=45515657) - [The email they shouldn't have read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
 * [2025-10-08, 10:26:05](https://news.ycombinator.com/item?id=45514433) - [One-man campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
 * [2025-10-08, 09:49:36](https://news.ycombinator.com/item?id=45514164) - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
 * [2025-10-08, 08:19:36](https://news.ycombinator.com/item?id=45513485) - [Synology reverses policy banning third-party HDDs](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)

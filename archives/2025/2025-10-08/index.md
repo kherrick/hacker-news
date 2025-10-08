@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 23:14:32](https://news.ycombinator.com/item?id=45521704) - [Show HN: PWAscore](https://pwascore.com/)
 * [2025-10-08, 22:47:22](https://news.ycombinator.com/item?id=45521476) - [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)
 * [2025-10-08, 21:33:05](https://news.ycombinator.com/item?id=45520889) - [Loops of DNA Equipped Ancient Life to Become Complex](https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/)
 * [2025-10-08, 21:26:15](https://news.ycombinator.com/item?id=45520826) - [Gephi Lite v1.0](https://gephi.wordpress.com/2025/10/08/gephi-lite-v1/)
