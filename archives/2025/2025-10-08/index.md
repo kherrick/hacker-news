@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 19:54:02](https://news.ycombinator.com/item?id=45519915) - [Svelte is that fast](https://chuniversiteit.nl/papers/svelte-is-fast)
 * [2025-10-08, 19:16:10](https://news.ycombinator.com/item?id=45519575) - [A few things to know before stealing my 914](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2025-10-08, 18:42:22](https://news.ycombinator.com/item?id=45519263) - [Julia 1.12 Highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
 * [2025-10-08, 18:00:34](https://news.ycombinator.com/item?id=45518861) - [Show HN: Open-source UI for running multiple coding agents](https://github.com/built-by-as/FleetCode)

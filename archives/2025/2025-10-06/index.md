@@ -51,6 +51,7 @@
 * [2025-10-06, 12:17:59](https://news.ycombinator.com/item?id=45490549) - [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/)
 * [2025-10-06, 12:02:45](https://news.ycombinator.com/item?id=45490439) - [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
 * [2025-10-06, 12:02:25](https://news.ycombinator.com/item?id=45490434) - [Mathematicians discover prime number pattern in fractal chaos](https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/)
+* [2025-10-06, 11:28:35](https://news.ycombinator.com/item?id=45490202) - [Tire Pressure Sensor IDs: Why, Where and When (2015)](https://www.tomorrowstechnician.com/tpms-sensor-ids-why-where-and-when/)
 * [2025-10-06, 10:58:14](https://news.ycombinator.com/item?id=45489999) - [Show HN: I've build a platform for writing technical/scientific documents](https://www.monsterwriter.com)
 * [2025-10-06, 10:54:47](https://news.ycombinator.com/item?id=45489978) - [State Terror, American Style – Paul Krugman](https://paulkrugman.substack.com/p/state-terror-american-style)
 * [2025-10-06, 10:51:53](https://news.ycombinator.com/item?id=45489951) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence)
