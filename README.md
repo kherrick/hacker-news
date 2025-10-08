@@ -8,7 +8,6 @@
 * [2025-10-07, 21:00:51](https://news.ycombinator.com/item?id=45508811) - [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
 * [2025-10-07, 19:07:07](https://news.ycombinator.com/item?id=45507398) - [Eliminating contrails from flying could be cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
-* [2025-10-07, 18:52:46](https://news.ycombinator.com/item?id=45507195) - [The murky economics of the data-centre investment boom](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less is more: Recursive reasoning with tiny networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 17:31:49](https://news.ycombinator.com/item?id=45506143) - [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
 * [2025-10-07, 16:49:09](https://news.ycombinator.com/item?id=45505539) - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
@@ -29,6 +28,7 @@
 * [2025-10-06, 00:25:17](https://news.ycombinator.com/item?id=45486483) - [A PhD in Snapshots](https://rbharath.github.io/A-PhD-In-Snapshots/)
 * [2025-10-05, 21:02:03](https://news.ycombinator.com/item?id=45485227) - [Packing the world for longest lines of sight](https://tombh.co.uk/packing-world-lines-of-sight)
 * [2025-10-05, 13:42:03](https://news.ycombinator.com/item?id=45481417) - [Meta launches Hyperscape, technology to turn real-world spaces into VR](https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/)
+* [2025-10-04, 09:54:01](https://news.ycombinator.com/item?id=45472119) - [Working pipe operator today in pure JavaScript](https://github.com/irony/aspipes)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 
 ## [Archives](archives/index.md)
