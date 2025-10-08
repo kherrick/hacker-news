@@ -36,6 +36,7 @@
 * [2025-10-04, 16:19:04](https://news.ycombinator.com/item?id=45474441) - [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm)
 * [2025-10-04, 16:14:58](https://news.ycombinator.com/item?id=45474397) - [Building a Synthetic Cell Together](https://www.nature.com/articles/s41467-025-62778-8)
 * [2025-10-04, 16:09:08](https://news.ycombinator.com/item?id=45474346) - [Ask HN: Why is software quality collapsing? (Apple Calculator leaks 32GB RAM)](https://news.ycombinator.com/item?id=45474346)
+* [2025-10-04, 16:04:24](https://news.ycombinator.com/item?id=45474301) - [SEC approves Texas Stock Exchange, first new US integrated exchange in decades](https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/)
 * [2025-10-04, 15:16:19](https://news.ycombinator.com/item?id=45473915) - [Memorizing Phone Numbers](https://phong.bearblog.dev/memorizing-phone-numbers/)
 * [2025-10-04, 15:10:49](https://news.ycombinator.com/item?id=45473861) - [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
 * [2025-10-04, 15:09:41](https://news.ycombinator.com/item?id=45473852) - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
