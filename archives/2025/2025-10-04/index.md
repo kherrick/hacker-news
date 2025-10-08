@@ -31,6 +31,7 @@
 * [2025-10-04, 18:18:55](https://news.ycombinator.com/item?id=45475416) - [An MVCC-like columnar table on S3 with constant-time deletes](https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/)
 * [2025-10-04, 18:07:23](https://news.ycombinator.com/item?id=45475329) - [Solaris 2.1 for x86 (2017)](https://www.os2museum.com/wp/pc-unix-history/solaris-2-1-for-x86/)
 * [2025-10-04, 17:30:29](https://news.ycombinator.com/item?id=45475039) - [Discord data hacked in latest customer service breach to expose user information](https://www.tomshardware.com/video-games/pc-gaming/discord-data-hacked-in-latest-customer-service-breach-to-expose-user-information-hackers-gained-access-via-third-party-support-systems-but-didnt-steal-passwords)
+* [2025-10-04, 17:25:40](https://news.ycombinator.com/item?id=45474988) - [Monumental rock art: humans thrived in Arab. Desert during Pleistocene-Holocene](https://www.nature.com/articles/s41467-025-63417-y)
 * [2025-10-04, 17:18:07](https://news.ycombinator.com/item?id=45474900) - [Knowledge Infusion Scaling Law for Pre-Training Large Language Models](https://arxiv.org/abs/2509.19371)
 * [2025-10-04, 16:19:04](https://news.ycombinator.com/item?id=45474441) - [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm)
 * [2025-10-04, 16:14:58](https://news.ycombinator.com/item?id=45474397) - [Building a Synthetic Cell Together](https://www.nature.com/articles/s41467-025-62778-8)

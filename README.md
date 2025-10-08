@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-08, 09:49:36](https://news.ycombinator.com/item?id=45514164) - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
-* [2025-10-08, 09:45:02](https://news.ycombinator.com/item?id=45514124) - [SoftBank to buy ABB's robotics business in $5.4B deal](https://www.reuters.com/world/asia-pacific/abb-sell-robots-business-softbank-538-billion-deal-2025-10-08/)
 * [2025-10-08, 09:44:19](https://news.ycombinator.com/item?id=45514117) - [Buy European: EU Commissions New Apply AI Strategy Launched](https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/)
 * [2025-10-08, 08:19:36](https://news.ycombinator.com/item?id=45513485) - [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
 * [2025-10-08, 08:15:49](https://news.ycombinator.com/item?id=45513459) - [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
@@ -28,6 +27,7 @@
 * [2025-10-06, 00:25:17](https://news.ycombinator.com/item?id=45486483) - [A PhD in Snapshots](https://rbharath.github.io/A-PhD-In-Snapshots/)
 * [2025-10-05, 21:02:03](https://news.ycombinator.com/item?id=45485227) - [Packing the world for longest lines of sight](https://tombh.co.uk/packing-world-lines-of-sight)
 * [2025-10-05, 02:34:16](https://news.ycombinator.com/item?id=45478451) - [Git, JSON and Markdown walk into bar](https://www.grumpygamer.com/git_json_markdown/)
+* [2025-10-04, 17:25:40](https://news.ycombinator.com/item?id=45474988) - [Monumental rock art: humans thrived in Arab. Desert during Pleistocene-Holocene](https://www.nature.com/articles/s41467-025-63417-y)
 * [2025-10-04, 09:54:01](https://news.ycombinator.com/item?id=45472119) - [Working pipe operator today in pure JavaScript](https://github.com/irony/aspipes)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 
