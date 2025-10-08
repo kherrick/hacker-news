@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-08, 09:49:36](https://news.ycombinator.com/item?id=45514164) - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
+* [2025-10-08, 09:45:02](https://news.ycombinator.com/item?id=45514124) - [SoftBank to buy ABB's robotics business in $5.4B deal](https://www.reuters.com/world/asia-pacific/abb-sell-robots-business-softbank-538-billion-deal-2025-10-08/)
 * [2025-10-08, 09:44:19](https://news.ycombinator.com/item?id=45514117) - [Buy European: EU Commissions New Apply AI Strategy Launched](https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/)
 * [2025-10-08, 08:19:36](https://news.ycombinator.com/item?id=45513485) - [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
 * [2025-10-08, 08:15:49](https://news.ycombinator.com/item?id=45513459) - [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
@@ -23,7 +24,6 @@
 * [2025-10-06, 13:21:51](https://news.ycombinator.com/item?id=45491128) - [The case for an iceberg-native database](https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An illustrated introduction to linear algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 * [2025-10-06, 12:02:25](https://news.ycombinator.com/item?id=45490434) - [Mathematicians discover prime number pattern in fractal chaos](https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/)
-* [2025-10-06, 09:06:28](https://news.ycombinator.com/item?id=45489317) - [A macOS terminal command that tells you if your USB-C cable is bad](https://kau.sh/blog/usbi/)
 * [2025-10-06, 08:36:26](https://news.ycombinator.com/item?id=45489065) - [Global Village Construction Set](https://www.opensourceecology.org/gvcs/)
 * [2025-10-06, 00:25:17](https://news.ycombinator.com/item?id=45486483) - [A PhD in Snapshots](https://rbharath.github.io/A-PhD-In-Snapshots/)
 * [2025-10-05, 21:02:03](https://news.ycombinator.com/item?id=45485227) - [Packing the world for longest lines of sight](https://tombh.co.uk/packing-world-lines-of-sight)
