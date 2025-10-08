@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-08, 02:11:39](https://news.ycombinator.com/item?id=45511294) - [The Paradoxical Efficient Market Hypothesis (2024)](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html)
+* [2025-10-08, 03:36:20](https://news.ycombinator.com/item?id=45511798) - [TiVo exiting legacy DVR business](https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/)
+* [2025-10-08, 02:11:39](https://news.ycombinator.com/item?id=45511294) - [The paradoxical efficient market hypothesis (2024)](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html)
 * [2025-10-08, 02:06:22](https://news.ycombinator.com/item?id=45511265) - [Bob Ross paintings to be auctioned to fund US public broadcasting](https://www.bbc.com/news/articles/cly10275v5zo)
 * [2025-10-08, 00:17:21](https://news.ycombinator.com/item?id=45510582) - [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
 * [2025-10-07, 21:39:07](https://news.ycombinator.com/item?id=45509243) - [Become unbannable from your email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail)
@@ -27,7 +28,6 @@
 * [2025-10-06, 09:06:28](https://news.ycombinator.com/item?id=45489317) - [A terminal command that tells you if your USB-C cable is bad](https://kau.sh/blog/usbi/)
 * [2025-10-06, 08:36:26](https://news.ycombinator.com/item?id=45489065) - [Global Village Construction Set](https://www.opensourceecology.org/gvcs/)
 * [2025-10-05, 21:02:03](https://news.ycombinator.com/item?id=45485227) - [Packing the world for longest lines of sight](https://tombh.co.uk/packing-world-lines-of-sight)
-* [2025-10-04, 15:16:19](https://news.ycombinator.com/item?id=45473915) - [Memorizing phone numbers](https://phong.bearblog.dev/memorizing-phone-numbers/)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 * [2025-10-01, 20:48:06](https://news.ycombinator.com/item?id=45443301) - [Is pawn promotion to rook or bishop something that is seen in play? (2012)](https://boardgames.stackexchange.com/questions/6739/is-pawn-promotion-to-rook-or-bishop-something-that-is-seen-in-play)
 
