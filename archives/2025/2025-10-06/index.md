@@ -74,6 +74,7 @@
 * [2025-10-06, 03:57:26](https://news.ycombinator.com/item?id=45487519) - [It's Just a Virus, the E.R. Told Him. Days Later, He Was Dead](https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html)
 * [2025-10-06, 03:48:34](https://news.ycombinator.com/item?id=45487476) - [Internet Archive – Celebrating 1T Web Pages Archived](https://blog.archive.org/trillion/)
 * [2025-10-06, 03:42:15](https://news.ycombinator.com/item?id=45487452) - [Find Nearby Automated License Plate Readers (ALPR)](https://deflock.me/)
+* [2025-10-06, 03:10:13](https://news.ycombinator.com/item?id=45487310) - [Why We Need SIMD](https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason)
 * [2025-10-06, 02:57:21](https://news.ycombinator.com/item?id=45487247) - [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture)
 * [2025-10-06, 02:30:59](https://news.ycombinator.com/item?id=45487099) - [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/)
 * [2025-10-06, 02:20:05](https://news.ycombinator.com/item?id=45487044) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
