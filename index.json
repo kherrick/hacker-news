@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-10-07, 15:30:20",
+      "https://news.ycombinator.com/item?id=45504388"
+    ],
+    [
+      "Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI",
+      "https://github.com/llama-farm/llamafarm"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 14:55:14",
       "https://news.ycombinator.com/item?id=45503867"
     ],
@@ -177,6 +187,16 @@
     [
       "Qualcomm to acquire Arduino",
       "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 12:54:14",
+      "https://news.ycombinator.com/item?id=45502502"
+    ],
+    [
+      "The evolution of Lua, continued [pdf]",
+      "https://www.lua.org/doc/cola.pdf"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-10-04, 13:58:13",
-      "https://news.ycombinator.com/item?id=45473360"
-    ],
-    [
-      "Empathy for Dummies",
-      "https://quarter--mile.com/empathy-for-dummies"
-    ]
-  ],
-  [
-    [
       "2025-10-04, 09:54:01",
       "https://news.ycombinator.com/item?id=45472119"
     ],
     [
       "Working pipe operator today in pure JavaScript",
       "https://github.com/irony/aspipes"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 20:59:23",
-      "https://news.ycombinator.com/item?id=45467708"
-    ],
-    [
-      "How does gradient descent work?",
-      "https://centralflows.github.io/part1/"
     ]
   ]
 ]
