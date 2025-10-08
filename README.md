@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-08, 22:47:22](https://news.ycombinator.com/item?id=45521476) - [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)
 * [2025-10-08, 21:02:34](https://news.ycombinator.com/item?id=45520615) - [Kurt Got Got](https://fly.io/blog/kurt-got-got/)
 * [2025-10-08, 20:20:21](https://news.ycombinator.com/item?id=45520154) - [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
 * [2025-10-08, 19:56:54](https://news.ycombinator.com/item?id=45519944) - [Expanding access to Opal, our no-code AI mini-app builder](https://blog.google/technology/google-labs/opal-expansion/)
@@ -7,7 +8,6 @@
 * [2025-10-08, 18:42:22](https://news.ycombinator.com/item?id=45519263) - [Julia 1.12 highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
 * [2025-10-08, 18:00:34](https://news.ycombinator.com/item?id=45518861) - [Show HN: FleetCode – Open-source UI for running multiple coding agents](https://github.com/built-by-as/FleetCode)
 * [2025-10-08, 17:56:32](https://news.ycombinator.com/item?id=45518813) - [WinBoat: Windows apps on Linux with seamless integration](https://www.winboat.app/)
-* [2025-10-08, 16:46:36](https://news.ycombinator.com/item?id=45518127) - [Show HN: I built a local-first podcast app](https://wherever.audio)
 * [2025-10-08, 16:06:21](https://news.ycombinator.com/item?id=45517674) - [Ortega hypothesis](https://en.wikipedia.org/wiki/Ortega_hypothesis)
 * [2025-10-08, 15:17:36](https://news.ycombinator.com/item?id=45517134) - [The RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
 * [2025-10-08, 15:01:38](https://news.ycombinator.com/item?id=45516968) - [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
