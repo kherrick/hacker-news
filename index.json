@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-08, 15:01:38",
+      "https://news.ycombinator.com/item?id=45516968"
+    ],
+    [
+      "After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64",
+      "https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 14:28:06",
       "https://news.ycombinator.com/item?id=45516584"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2025-10-08, 14:11:30",
+      "https://news.ycombinator.com/item?id=45516402"
+    ],
+    [
+      "Show HN: CodingFox – Open-Source AI Code Review Tool That Works Like Magic",
+      "https://github.com/furudo-erika/codingfox"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 13:55:27",
       "https://news.ycombinator.com/item?id=45516265"
     ],
     [
       "Bank of England flags risk of 'sudden correction' in tech stocks inflated by AI",
       "https://www.ft.com/content/fe474cff-564c-41d2-aaf7-313636a83e5b"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 13:54:12",
-      "https://news.ycombinator.com/item?id=45516255"
-    ],
-    [
-      "We didn't rewrite our feed handler in Rust",
-      "https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45515657"
     ],
     [
-      "The Email They Shouldn't Have Read",
+      "The email they shouldn't have read",
       "https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/"
     ]
   ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2025-10-08, 08:15:49",
+      "https://news.ycombinator.com/item?id=45513459"
+    ],
+    [
+      "Show HN: Oh Yah – Routine management app I built for my sons",
+      "https://ohyahapp.com"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 00:17:21",
       "https://news.ycombinator.com/item?id=45510582"
     ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2025-10-07, 21:00:51",
-      "https://news.ycombinator.com/item?id=45508811"
-    ],
-    [
-      "Metriport (YC S22) is hiring a founding recruiter",
-      "https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter"
-    ]
-  ],
-  [
-    [
       "2025-10-07, 19:49:11",
       "https://news.ycombinator.com/item?id=45507936"
     ],
     [
       "Gemini 2.5 Computer Use model",
       "https://blog.google/technology/google-deepmind/gemini-computer-use-model/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 17:42:06",
-      "https://news.ycombinator.com/item?id=45506268"
-    ],
-    [
-      "Less is more: Recursive reasoning with tiny networks",
-      "https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html"
     ]
   ],
   [
