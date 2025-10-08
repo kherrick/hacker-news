@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-10-07, 15:11:52",
-      "https://news.ycombinator.com/item?id=45504127"
-    ],
-    [
-      "Show HN: MARS – Personal AI robot for builders (< $2k)",
-      "https://news.ycombinator.com/item?id=45504127"
-    ]
-  ],
-  [
-    [
       "2025-10-07, 14:55:14",
       "https://news.ycombinator.com/item?id=45503867"
     ],
@@ -217,6 +207,16 @@
     [
       "Show HN: I'm building a browser for reverse engineers",
       "https://nullpt.rs/reverse-engineering-browser"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 13:21:51",
+      "https://news.ycombinator.com/item?id=45491128"
+    ],
+    [
+      "The case for an iceberg-native database",
+      "https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it"
     ]
   ],
   [
