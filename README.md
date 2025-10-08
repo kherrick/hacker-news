@@ -2,7 +2,6 @@
 
 * [2025-10-08, 10:26:05](https://news.ycombinator.com/item?id=45514433) - [One-man spam campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
 * [2025-10-08, 09:49:36](https://news.ycombinator.com/item?id=45514164) - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
-* [2025-10-08, 09:44:19](https://news.ycombinator.com/item?id=45514117) - [Buy European: EU Commissions New Apply AI Strategy Launched](https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/)
 * [2025-10-08, 08:19:36](https://news.ycombinator.com/item?id=45513485) - [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
 * [2025-10-08, 08:15:49](https://news.ycombinator.com/item?id=45513459) - [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
 * [2025-10-08, 00:17:21](https://news.ycombinator.com/item?id=45510582) - [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
@@ -14,6 +13,7 @@
 * [2025-10-07, 16:10:22](https://news.ycombinator.com/item?id=45504973) - [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [2025-10-07, 15:35:48](https://news.ycombinator.com/item?id=45504470) - [IKEA Catalogs 1951-2021](https://ikeamuseum.com/en/explore/ikea-catalogue/)
 * [2025-10-07, 15:30:20](https://news.ycombinator.com/item?id=45504388) - [Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
+* [2025-10-07, 15:11:52](https://news.ycombinator.com/item?id=45504127) - [Show HN: MARS – Personal AI robot for builders (< $2k)](https://news.ycombinator.com/item?id=45504127)
 * [2025-10-07, 14:55:14](https://news.ycombinator.com/item?id=45503867) - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
 * [2025-10-07, 13:00:08](https://news.ycombinator.com/item?id=45502541) - [Qualcomm to acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 * [2025-10-07, 12:54:14](https://news.ycombinator.com/item?id=45502502) - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
