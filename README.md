@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-08, 10:26:05](https://news.ycombinator.com/item?id=45514433) - [One-man spam campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
 * [2025-10-08, 09:49:36](https://news.ycombinator.com/item?id=45514164) - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
 * [2025-10-08, 09:44:19](https://news.ycombinator.com/item?id=45514117) - [Buy European: EU Commissions New Apply AI Strategy Launched](https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/)
 * [2025-10-08, 08:19:36](https://news.ycombinator.com/item?id=45513485) - [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
@@ -20,7 +21,6 @@
 * [2025-10-07, 12:20:14](https://news.ycombinator.com/item?id=45502216) - [Canadian bill would strip internet access from 'specified persons', no warrant](https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons)
 * [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-06, 15:32:32](https://news.ycombinator.com/item?id=45492489) - [Show HN: I'm building a browser for reverse engineers](https://nullpt.rs/reverse-engineering-browser)
-* [2025-10-06, 13:21:51](https://news.ycombinator.com/item?id=45491128) - [The case for an iceberg-native database](https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An illustrated introduction to linear algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 * [2025-10-06, 12:02:25](https://news.ycombinator.com/item?id=45490434) - [Mathematicians discover prime number pattern in fractal chaos](https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/)
 * [2025-10-06, 08:36:26](https://news.ycombinator.com/item?id=45489065) - [Global Village Construction Set](https://www.opensourceecology.org/gvcs/)
