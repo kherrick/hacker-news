@@ -12,6 +12,7 @@
 * [2025-10-08, 14:04:40](https://news.ycombinator.com/item?id=45516346) - [Samsung released a 7M model that achieved 45% on ARC-AGI-1](https://arxiv.org/abs/2510.04871)
 * [2025-10-08, 13:55:27](https://news.ycombinator.com/item?id=45516265) - [Bank of England flags risk of 'sudden correction' in tech stocks inflated by AI](https://www.ft.com/content/fe474cff-564c-41d2-aaf7-313636a83e5b)
 * [2025-10-08, 13:54:12](https://news.ycombinator.com/item?id=45516255) - [We didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
+* [2025-10-08, 13:45:30](https://news.ycombinator.com/item?id=45516134) - [Testing a compiler-driven full-stack web framework](https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework)
 * [2025-10-08, 13:33:15](https://news.ycombinator.com/item?id=45516000) - [We found a bug in Go's ARM64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 13:10:19](https://news.ycombinator.com/item?id=45515783) - [The Weaponization of Travel Blacklists](https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/)
 * [2025-10-08, 13:06:33](https://news.ycombinator.com/item?id=45515744) - [State of the Bird 2024/25](https://blog.thunderbird.net/2025/10/state-of-the-bird-2024-25/)
