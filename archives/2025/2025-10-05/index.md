@@ -68,5 +68,6 @@
 * [2025-10-05, 02:34:16](https://news.ycombinator.com/item?id=45478451) - [Git, JSON and Markdown walk into bar](https://www.grumpygamer.com/git_json_markdown/)
 * [2025-10-05, 01:58:31](https://news.ycombinator.com/item?id=45478300) - [You can't parse XML with regex. Let's do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
 * [2025-10-05, 00:51:44](https://news.ycombinator.com/item?id=45478033) - [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
+* [2025-10-05, 00:39:26](https://news.ycombinator.com/item?id=45477983) - [When Curl Works but IntelliJ Doesn't: The Ollama Connection Mystery](https://blog.tymscar.com/posts/intellijollamaconnectionmystery/)
 * [2025-10-05, 00:35:10](https://news.ycombinator.com/item?id=45477971) - [Mod. 5140 - IBM's First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
 * [2025-10-05, 00:20:23](https://news.ycombinator.com/item?id=45477916) - [Windows 3.1 in a Windows 95 Virtual Machine (2022)](https://www.geoffchappell.com/notes/windows/retro/extrawin.htm)
