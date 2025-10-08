@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-08, 05:18:44](https://news.ycombinator.com/item?id=45512342) - [Interactive Double Pendulum Playground](https://theabbie.github.io/DoublePendulum/)
 * [2025-10-08, 05:13:53](https://news.ycombinator.com/item?id=45512317) - [Without data centers, GDP growth was 0.1% in the first half of 2025](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/)
 * [2025-10-08, 03:36:20](https://news.ycombinator.com/item?id=45511798) - [TiVo exiting legacy DVR business](https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/)
 * [2025-10-08, 02:11:39](https://news.ycombinator.com/item?id=45511294) - [The paradoxical efficient market hypothesis (2024)](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html)
@@ -20,7 +21,6 @@
 * [2025-10-07, 13:00:08](https://news.ycombinator.com/item?id=45502541) - [Qualcomm to acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 * [2025-10-07, 12:54:14](https://news.ycombinator.com/item?id=45502502) - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 12:20:14](https://news.ycombinator.com/item?id=45502216) - [Canadian bill would strip internet access from 'specified persons', no warrant](https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons)
-* [2025-10-07, 12:14:16](https://news.ycombinator.com/item?id=45502173) - [Stress test for parallel disk i/o using git and pnpm](https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm)
 * [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-06, 15:32:32](https://news.ycombinator.com/item?id=45492489) - [Show HN: I'm building a browser for reverse engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An illustrated introduction to linear algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
