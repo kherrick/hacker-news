@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-08, 05:18:44",
+      "https://news.ycombinator.com/item?id=45512342"
+    ],
+    [
+      "Interactive Double Pendulum Playground",
+      "https://theabbie.github.io/DoublePendulum/"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 05:13:53",
       "https://news.ycombinator.com/item?id=45512317"
     ],
@@ -197,16 +207,6 @@
     [
       "Canadian bill would strip internet access from 'specified persons', no warrant",
       "https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 12:14:16",
-      "https://news.ycombinator.com/item?id=45502173"
-    ],
-    [
-      "Stress test for parallel disk i/o using git and pnpm",
-      "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm"
     ]
   ],
   [
