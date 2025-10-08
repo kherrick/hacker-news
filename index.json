@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-10-08, 03:36:20",
-      "https://news.ycombinator.com/item?id=45511798"
-    ],
-    [
-      "TiVo exiting legacy DVR business",
-      "https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 00:17:21",
       "https://news.ycombinator.com/item?id=45510582"
     ],
@@ -207,6 +197,16 @@
     [
       "Show HN: I'm building a browser for reverse engineers",
       "https://nullpt.rs/reverse-engineering-browser"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 13:21:51",
+      "https://news.ycombinator.com/item?id=45491128"
+    ],
+    [
+      "The case for an iceberg-native database",
+      "https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it"
     ]
   ],
   [
