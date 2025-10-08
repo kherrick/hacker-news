@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-08, 10:26:05](https://news.ycombinator.com/item?id=45514433) - [One-man spam campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
+* [2025-10-08, 11:56:06](https://news.ycombinator.com/item?id=45515146) - [A Clausewitzian Lens on Modern Urban Warfare](https://mwi.westpoint.edu/a-clausewitzian-lens-on-modern-urban-warfare/)
 * [2025-10-08, 09:49:36](https://news.ycombinator.com/item?id=45514164) - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
 * [2025-10-08, 08:19:36](https://news.ycombinator.com/item?id=45513485) - [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
 * [2025-10-08, 08:15:49](https://news.ycombinator.com/item?id=45513459) - [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
 * [2025-10-08, 00:17:21](https://news.ycombinator.com/item?id=45510582) - [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
-* [2025-10-07, 19:07:07](https://news.ycombinator.com/item?id=45507398) - [Eliminating contrails from flying could be cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less is more: Recursive reasoning with tiny networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 17:31:49](https://news.ycombinator.com/item?id=45506143) - [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
 * [2025-10-07, 16:49:09](https://news.ycombinator.com/item?id=45505539) - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
@@ -28,6 +27,7 @@
 * [2025-10-05, 02:34:16](https://news.ycombinator.com/item?id=45478451) - [Git, JSON and Markdown walk into bar](https://www.grumpygamer.com/git_json_markdown/)
 * [2025-10-04, 17:25:40](https://news.ycombinator.com/item?id=45474988) - [Monumental rock art: humans thrived in Arab. Desert during Pleistocene-Holocene](https://www.nature.com/articles/s41467-025-63417-y)
 * [2025-10-04, 16:04:24](https://news.ycombinator.com/item?id=45474301) - [SEC approves Texas Stock Exchange, first new US integrated exchange in decades](https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/)
+* [2025-10-04, 13:58:13](https://news.ycombinator.com/item?id=45473360) - [Empathy for Dummies](https://quarter--mile.com/empathy-for-dummies)
 * [2025-10-04, 09:54:01](https://news.ycombinator.com/item?id=45472119) - [Working pipe operator today in pure JavaScript](https://github.com/irony/aspipes)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 

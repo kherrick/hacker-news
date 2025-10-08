@@ -45,6 +45,7 @@
 * [2025-10-04, 14:49:30](https://news.ycombinator.com/item?id=45473698) - [Flock's gunshot detection microphones will start listening for human voices](https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices)
 * [2025-10-04, 14:31:58](https://news.ycombinator.com/item?id=45473581) - [A Mac-like experience on Linux](https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/)
 * [2025-10-04, 14:22:04](https://news.ycombinator.com/item?id=45473516) - [Explainer: Inodes and Inode Numbers](https://eclecticlight.co/2025/10/04/explainer-inodes-and-inode-numbers/)
+* [2025-10-04, 13:58:13](https://news.ycombinator.com/item?id=45473360) - [Empathy for Dummies](https://quarter--mile.com/empathy-for-dummies)
 * [2025-10-04, 13:58:00](https://news.ycombinator.com/item?id=45473357) - [Microformats – building blocks for data-rich web pages](https://microformats.org)
 * [2025-10-04, 13:20:15](https://news.ycombinator.com/item?id=45473126) - [It's not a hack to satisfy known requirements](https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/)
 * [2025-10-04, 13:06:32](https://news.ycombinator.com/item?id=45473033) - [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
