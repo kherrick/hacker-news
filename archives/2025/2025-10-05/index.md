@@ -20,6 +20,7 @@
 * [2025-10-05, 20:34:28](https://news.ycombinator.com/item?id=45484999) - [Memory access is O(N^[1/3])](https://vitalik.eth.limo/general/2025/10/05/memory13.html)
 * [2025-10-05, 20:07:42](https://news.ycombinator.com/item?id=45484753) - [Dear Tesla Shareholder [pdf]](https://static1.squarespace.com/static/5d374de8aae9940001c8ed59/t/68de828992aced27fc2d217c/1759412874017/TSLA+Vote+No_Oct_2025_Final.pdf)
 * [2025-10-05, 19:09:35](https://news.ycombinator.com/item?id=45484284) - [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
+* [2025-10-05, 18:49:31](https://news.ycombinator.com/item?id=45484123) - [Aerocart cargo gliders](https://www.aerolane.com/)
 * [2025-10-05, 18:38:40](https://news.ycombinator.com/item?id=45484028) - [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
 * [2025-10-05, 18:28:16](https://news.ycombinator.com/item?id=45483924) - [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
 * [2025-10-05, 18:16:35](https://news.ycombinator.com/item?id=45483834) - [Period-Correct Graphics in PC Emulators: Part 1 – The Amiga](https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/)

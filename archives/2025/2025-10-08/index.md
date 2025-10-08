@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
 * [2025-10-08, 22:47:22](https://news.ycombinator.com/item?id=45521476) - [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)
+* [2025-10-08, 21:33:05](https://news.ycombinator.com/item?id=45520889) - [Loops of DNA Equipped Ancient Life to Become Complex](https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/)
 * [2025-10-08, 21:26:15](https://news.ycombinator.com/item?id=45520826) - [Gephi Lite v1.0](https://gephi.wordpress.com/2025/10/08/gephi-lite-v1/)
 * [2025-10-08, 21:02:34](https://news.ycombinator.com/item?id=45520615) - [Kurt Got Got](https://fly.io/blog/kurt-got-got/)
 * [2025-10-08, 20:20:21](https://news.ycombinator.com/item?id=45520154) - [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
