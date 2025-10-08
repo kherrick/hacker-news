@@ -24,7 +24,7 @@
 * [2025-10-06, 15:32:32](https://news.ycombinator.com/item?id=45492489) - [Show HN: I'm building a browser for reverse engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An illustrated introduction to linear algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 * [2025-10-06, 12:02:25](https://news.ycombinator.com/item?id=45490434) - [Mathematicians discover prime number pattern in fractal chaos](https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/)
-* [2025-10-06, 09:06:28](https://news.ycombinator.com/item?id=45489317) - [A terminal command that tells you if your USB-C cable is bad](https://kau.sh/blog/usbi/)
+* [2025-10-06, 09:06:28](https://news.ycombinator.com/item?id=45489317) - [A macOS terminal command that tells you if your USB-C cable is bad](https://kau.sh/blog/usbi/)
 * [2025-10-06, 08:36:26](https://news.ycombinator.com/item?id=45489065) - [Global Village Construction Set](https://www.opensourceecology.org/gvcs/)
 * [2025-10-06, 00:25:17](https://news.ycombinator.com/item?id=45486483) - [A PhD in Snapshots](https://rbharath.github.io/A-PhD-In-Snapshots/)
 * [2025-10-05, 21:02:03](https://news.ycombinator.com/item?id=45485227) - [Packing the world for longest lines of sight](https://tombh.co.uk/packing-world-lines-of-sight)
