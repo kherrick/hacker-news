@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-08, 15:17:36](https://news.ycombinator.com/item?id=45517134) - [A deep dive into the RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
 * [2025-10-08, 15:01:38](https://news.ycombinator.com/item?id=45516968) - [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
 * [2025-10-08, 14:28:06](https://news.ycombinator.com/item?id=45516584) - [Show HN: Recall: Give Claude perfect memory with Redis-backed persistent context](https://www.npmjs.com/package/@joseairosa/recall)
 * [2025-10-08, 14:25:19](https://news.ycombinator.com/item?id=45516556) - [How To Start Bug Bounties (2021)](https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4)
 * [2025-10-08, 14:11:30](https://news.ycombinator.com/item?id=45516402) - [Show HN: CodingFox – Open-Source AI Code Review Tool That Works Like Magic](https://github.com/furudo-erika/codingfox)
-* [2025-10-08, 13:55:27](https://news.ycombinator.com/item?id=45516265) - [Bank of England flags risk of 'sudden correction' in tech stocks inflated by AI](https://www.ft.com/content/fe474cff-564c-41d2-aaf7-313636a83e5b)
 * [2025-10-08, 13:33:15](https://news.ycombinator.com/item?id=45516000) - [We found a bug in Go's ARM64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 13:10:19](https://news.ycombinator.com/item?id=45515783) - [The weaponization of travel blacklists](https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/)
 * [2025-10-08, 12:56:54](https://news.ycombinator.com/item?id=45515657) - [The email they shouldn't have read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
