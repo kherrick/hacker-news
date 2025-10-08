@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-10-07, 18:52:46",
-      "https://news.ycombinator.com/item?id=45507195"
-    ],
-    [
-      "The murky economics of the data-centre investment boom",
-      "https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom"
-    ]
-  ],
-  [
-    [
       "2025-10-07, 17:42:06",
       "https://news.ycombinator.com/item?id=45506268"
     ],
@@ -287,6 +277,16 @@
     [
       "Meta launches Hyperscape, technology to turn real-world spaces into VR",
       "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 09:54:01",
+      "https://news.ycombinator.com/item?id=45472119"
+    ],
+    [
+      "Working pipe operator today in pure JavaScript",
+      "https://github.com/irony/aspipes"
     ]
   ],
   [
