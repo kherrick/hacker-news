@@ -5,7 +5,6 @@
 * [2025-10-08, 02:11:39](https://news.ycombinator.com/item?id=45511294) - [The paradoxical efficient market hypothesis (2024)](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html)
 * [2025-10-08, 02:06:22](https://news.ycombinator.com/item?id=45511265) - [Bob Ross paintings to be auctioned to fund US public broadcasting](https://www.bbc.com/news/articles/cly10275v5zo)
 * [2025-10-08, 00:17:21](https://news.ycombinator.com/item?id=45510582) - [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
-* [2025-10-07, 21:39:07](https://news.ycombinator.com/item?id=45509243) - [Become unbannable from your email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail)
 * [2025-10-07, 21:00:51](https://news.ycombinator.com/item?id=45508811) - [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
 * [2025-10-07, 19:07:07](https://news.ycombinator.com/item?id=45507398) - [Eliminating contrails from flying could be cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
@@ -29,6 +28,7 @@
 * [2025-10-06, 09:06:28](https://news.ycombinator.com/item?id=45489317) - [A terminal command that tells you if your USB-C cable is bad](https://kau.sh/blog/usbi/)
 * [2025-10-06, 08:36:26](https://news.ycombinator.com/item?id=45489065) - [Global Village Construction Set](https://www.opensourceecology.org/gvcs/)
 * [2025-10-05, 21:02:03](https://news.ycombinator.com/item?id=45485227) - [Packing the world for longest lines of sight](https://tombh.co.uk/packing-world-lines-of-sight)
+* [2025-10-05, 13:42:03](https://news.ycombinator.com/item?id=45481417) - [Meta launches Hyperscape, technology to turn real-world spaces into VR](https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/)
 * [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 
 ## [Archives](archives/index.md)

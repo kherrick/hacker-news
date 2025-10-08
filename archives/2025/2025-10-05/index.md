@@ -43,6 +43,7 @@
 * [2025-10-05, 14:47:13](https://news.ycombinator.com/item?id=45481892) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
 * [2025-10-05, 14:11:37](https://news.ycombinator.com/item?id=45481609) - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
 * [2025-10-05, 13:53:41](https://news.ycombinator.com/item?id=45481490) - [I do not want to be a programmer anymore](https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/)
+* [2025-10-05, 13:42:03](https://news.ycombinator.com/item?id=45481417) - [Meta launches Hyperscape, technology to turn real-world spaces into VR](https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/)
 * [2025-10-05, 13:22:31](https://news.ycombinator.com/item?id=45481298) - [Show HN: Pyscn – Python code quality analyzer for vibe coders](https://github.com/ludo-technologies/pyscn)
 * [2025-10-05, 12:27:11](https://news.ycombinator.com/item?id=45481008) - [86 GB/s bitpacking with ARM SIMD (single thread)](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
 * [2025-10-05, 12:22:10](https://news.ycombinator.com/item?id=45480982) - [What Happened When DOGE Stormed Social Security](https://www.propublica.org/article/inside-doge-social-security-takeover-leland-dudek)
