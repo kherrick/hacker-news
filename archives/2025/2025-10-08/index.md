@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 15:01:38](https://news.ycombinator.com/item?id=45516968) - [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
 * [2025-10-08, 14:28:06](https://news.ycombinator.com/item?id=45516584) - [Show HN: Recall: Give Claude perfect memory with Redis-backed persistent context](https://www.npmjs.com/package/@joseairosa/recall)
 * [2025-10-08, 14:25:19](https://news.ycombinator.com/item?id=45516556) - [How To Start Bug Bounties (2021)](https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4)
+* [2025-10-08, 14:11:30](https://news.ycombinator.com/item?id=45516402) - [Show HN: CodingFox – Open-Source AI Code Review Tool That Works Like Magic](https://github.com/furudo-erika/codingfox)
 * [2025-10-08, 14:04:40](https://news.ycombinator.com/item?id=45516346) - [Samsung released a 7M model that achieved 45% on ARC-AGI-1](https://arxiv.org/abs/2510.04871)
 * [2025-10-08, 13:55:27](https://news.ycombinator.com/item?id=45516265) - [Bank of England flags risk of 'sudden correction' in tech stocks inflated by AI](https://www.ft.com/content/fe474cff-564c-41d2-aaf7-313636a83e5b)
 * [2025-10-08, 13:54:12](https://news.ycombinator.com/item?id=45516255) - [We didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
