@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 14:04:40](https://news.ycombinator.com/item?id=45516346) - [Samsung released a 7M model that achieved 45% on ARC-AGI-1](https://arxiv.org/abs/2510.04871)
+* [2025-10-08, 13:55:27](https://news.ycombinator.com/item?id=45516265) - [Bank of England flags risk of 'sudden correction' in tech stocks inflated by AI](https://www.ft.com/content/fe474cff-564c-41d2-aaf7-313636a83e5b)
 * [2025-10-08, 13:10:19](https://news.ycombinator.com/item?id=45515783) - [The Weaponization of Travel Blacklists](https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/)
 * [2025-10-08, 13:06:33](https://news.ycombinator.com/item?id=45515744) - [State of the Bird 2024/25](https://blog.thunderbird.net/2025/10/state-of-the-bird-2024-25/)
 * [2025-10-08, 12:56:54](https://news.ycombinator.com/item?id=45515657) - [The Email They Shouldn't Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
