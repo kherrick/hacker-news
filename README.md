@@ -16,8 +16,10 @@
 * [2025-10-07, 16:49:09](https://news.ycombinator.com/item?id=45505539) - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
 * [2025-10-07, 16:10:22](https://news.ycombinator.com/item?id=45504973) - [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [2025-10-07, 15:35:48](https://news.ycombinator.com/item?id=45504470) - [IKEA Catalogs 1951-2021](https://ikeamuseum.com/en/explore/ikea-catalogue/)
+* [2025-10-07, 15:30:20](https://news.ycombinator.com/item?id=45504388) - [Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
 * [2025-10-07, 14:55:14](https://news.ycombinator.com/item?id=45503867) - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
 * [2025-10-07, 13:00:08](https://news.ycombinator.com/item?id=45502541) - [Qualcomm to acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
+* [2025-10-07, 12:54:14](https://news.ycombinator.com/item?id=45502502) - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-06, 15:32:32](https://news.ycombinator.com/item?id=45492489) - [Show HN: I'm building a browser for reverse engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An illustrated introduction to linear algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
@@ -27,9 +29,7 @@
 * [2025-10-04, 18:37:31](https://news.ycombinator.com/item?id=45475556) - [X-ray scans reveal the hidden risks of cheap batteries](https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect)
 * [2025-10-04, 17:25:40](https://news.ycombinator.com/item?id=45474988) - [Monumental rock art: humans thrived in Arab. Desert during Pleistocene-Holocene](https://www.nature.com/articles/s41467-025-63417-y)
 * [2025-10-04, 16:04:24](https://news.ycombinator.com/item?id=45474301) - [SEC approves Texas Stock Exchange, first new US integrated exchange in decades](https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/)
-* [2025-10-04, 13:58:13](https://news.ycombinator.com/item?id=45473360) - [Empathy for Dummies](https://quarter--mile.com/empathy-for-dummies)
 * [2025-10-04, 09:54:01](https://news.ycombinator.com/item?id=45472119) - [Working pipe operator today in pure JavaScript](https://github.com/irony/aspipes)
-* [2025-10-03, 20:59:23](https://news.ycombinator.com/item?id=45467708) - [How does gradient descent work?](https://centralflows.github.io/part1/)
 
 ## [Archives](archives/index.md)
 
