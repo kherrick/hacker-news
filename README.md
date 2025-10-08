@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-08, 21:26:15](https://news.ycombinator.com/item?id=45520826) - [Gephi Lite v1.0](https://gephi.wordpress.com/2025/10/08/gephi-lite-v1/)
 * [2025-10-08, 20:20:21](https://news.ycombinator.com/item?id=45520154) - [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
 * [2025-10-08, 19:56:54](https://news.ycombinator.com/item?id=45519944) - [Expanding access to Opal, our no-code AI mini-app builder](https://blog.google/technology/google-labs/opal-expansion/)
 * [2025-10-08, 19:54:02](https://news.ycombinator.com/item?id=45519915) - [Svelte is that fast](https://chuniversiteit.nl/papers/svelte-is-fast)
@@ -16,7 +17,6 @@
 * [2025-10-08, 14:13:30](https://news.ycombinator.com/item?id=45516426) - [Now open for building: Introducing Gemini CLI extensions](https://blog.google/technology/developers/gemini-cli-extensions/)
 * [2025-10-08, 13:33:15](https://news.ycombinator.com/item?id=45516000) - [We found a bug in Go's ARM64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 12:56:54](https://news.ycombinator.com/item?id=45515657) - [The email they shouldn't have read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
-* [2025-10-08, 12:55:01](https://news.ycombinator.com/item?id=45515640) - [Legal Contracts Built for AI Agents](https://paid.ai/blog/ai-agents/paid-gitlaw-introducing-legal-contracts-built-for-ai-agents)
 * [2025-10-08, 10:26:05](https://news.ycombinator.com/item?id=45514433) - [One-man campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
 * [2025-10-08, 09:49:36](https://news.ycombinator.com/item?id=45514164) - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
 * [2025-10-08, 08:19:36](https://news.ycombinator.com/item?id=45513485) - [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
