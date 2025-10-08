@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 15:21:12](https://news.ycombinator.com/item?id=45517173) - [GitHub Will Prioritize Migrating to Azure over Feature Development](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/)
 * [2025-10-08, 15:17:36](https://news.ycombinator.com/item?id=45517134) - [A deep dive into the RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
 * [2025-10-08, 15:01:38](https://news.ycombinator.com/item?id=45516968) - [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
 * [2025-10-08, 14:38:23](https://news.ycombinator.com/item?id=45516690) - [Vectrex Mini](https://vectrex.com/vectrex-mini-details/)
