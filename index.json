@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-08, 00:17:21",
+      "https://news.ycombinator.com/item?id=45510582"
+    ],
+    [
+      "Study of 1M-year-old skull points to earlier origins of modern humans",
+      "https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 21:39:07",
       "https://news.ycombinator.com/item?id=45509243"
     ],
@@ -57,16 +67,6 @@
     [
       "The publishing industry has a gambling problem",
       "https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 18:52:46",
-      "https://news.ycombinator.com/item?id=45507195"
-    ],
-    [
-      "The murky economics of the data-centre investment boom",
-      "https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Show HN: MARS – Personal AI robot for builders (< $2k)",
       "https://news.ycombinator.com/item?id=45504127"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 14:55:14",
-      "https://news.ycombinator.com/item?id=45503867"
-    ],
-    [
-      "Vibe Engineering",
-      "https://simonwillison.net/2025/Oct/7/vibe-engineering/"
     ]
   ],
   [
@@ -251,12 +241,22 @@
   ],
   [
     [
-      "2025-10-05, 22:21:47",
-      "https://news.ycombinator.com/item?id=45485826"
+      "2025-10-05, 21:02:03",
+      "https://news.ycombinator.com/item?id=45485227"
     ],
     [
-      "Bat: Cat with syntax highlighting",
-      "https://github.com/sharkdp/bat"
+      "Packing the world for longest lines of sight",
+      "https://tombh.co.uk/packing-world-lines-of-sight"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 09:04:25",
+      "https://news.ycombinator.com/item?id=45480091"
+    ],
+    [
+      "Adding Stride Scheduling to Xv6",
+      "https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=45473915"
     ],
     [
-      "Memorizing Phone Numbers",
+      "Memorizing phone numbers",
       "https://phong.bearblog.dev/memorizing-phone-numbers/"
     ]
   ],
