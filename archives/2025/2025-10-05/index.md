@@ -17,6 +17,7 @@
 * [2025-10-05, 20:55:26](https://news.ycombinator.com/item?id=45485175) - [The Death of Industrial Design and the Era of Dull Electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
 * [2025-10-05, 20:46:22](https://news.ycombinator.com/item?id=45485089) - [Ask HN: Any advice on pivoting out of VC-backed tech?](https://news.ycombinator.com/item?id=45485089)
 * [2025-10-05, 20:38:06](https://news.ycombinator.com/item?id=45485023) - [Apt Down – The North Korea Files](https://phrack.org/issues/72/7_md#article)
+* [2025-10-05, 20:34:28](https://news.ycombinator.com/item?id=45484999) - [Memory access is O(N^[1/3])](https://vitalik.eth.limo/general/2025/10/05/memory13.html)
 * [2025-10-05, 20:07:42](https://news.ycombinator.com/item?id=45484753) - [Dear Tesla Shareholder [pdf]](https://static1.squarespace.com/static/5d374de8aae9940001c8ed59/t/68de828992aced27fc2d217c/1759412874017/TSLA+Vote+No_Oct_2025_Final.pdf)
 * [2025-10-05, 19:09:35](https://news.ycombinator.com/item?id=45484284) - [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
 * [2025-10-05, 18:38:40](https://news.ycombinator.com/item?id=45484028) - [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
