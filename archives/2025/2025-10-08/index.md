@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 02:11:39](https://news.ycombinator.com/item?id=45511294) - [The Paradoxical Efficient Market Hypothesis (2024)](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html)
 * [2025-10-08, 00:17:21](https://news.ycombinator.com/item?id=45510582) - [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)

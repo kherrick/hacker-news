@@ -38,6 +38,7 @@
 * [2025-10-06, 15:22:02](https://news.ycombinator.com/item?id=45492376) - [Expected Attention: KV Cache Compression by Estimating Attention](https://arxiv.org/abs/2510.00636)
 * [2025-10-06, 14:53:46](https://news.ycombinator.com/item?id=45492086) - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
 * [2025-10-06, 14:51:11](https://news.ycombinator.com/item?id=45492055) - [Novel Stable and Low-Energy Earth-Moon Cycle Orbits [pdf]](https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf)
+* [2025-10-06, 14:47:45](https://news.ycombinator.com/item?id=45492019) - [Why do we need MAC addresses?](https://www.immibis.com/blog/why-mac-address)
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [2025-10-06, 14:06:29](https://news.ycombinator.com/item?id=45491609) - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
 * [2025-10-06, 13:52:50](https://news.ycombinator.com/item?id=45491470) - [Compiling a Forth](https://healeycodes.com/compiling-a-forth)
