@@ -30,6 +30,7 @@
 * [2025-10-06, 16:46:12](https://news.ycombinator.com/item?id=45493287) - [The AI bubble is 17 times the size of the dot-com frenzy and four times subprime](https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues)
 * [2025-10-06, 16:43:23](https://news.ycombinator.com/item?id=45493255) - [The worrying kink in this job openings, unemployment curve](https://www.axios.com/2025/10/06/jobs-unemployment-fed-interest-rates)
 * [2025-10-06, 16:32:30](https://news.ycombinator.com/item?id=45493143) - [One to two Starlink satellites are falling back to Earth each day](https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/)
+* [2025-10-06, 16:17:15](https://news.ycombinator.com/item?id=45492977) - [Sora, AI Bicycles, and Meta Disruption](https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/)
 * [2025-10-06, 16:09:22](https://news.ycombinator.com/item?id=45492888) - [\"Be Different\" doesn't work for building products anymore](https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building)
 * [2025-10-06, 16:01:58](https://news.ycombinator.com/item?id=45492803) - [OpenZL: An open source format-aware compression framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
 * [2025-10-06, 15:39:59](https://news.ycombinator.com/item?id=45492564) - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
