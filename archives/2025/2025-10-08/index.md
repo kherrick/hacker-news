@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 09:49:36](https://news.ycombinator.com/item?id=45514164) - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
+* [2025-10-08, 09:44:19](https://news.ycombinator.com/item?id=45514117) - [Buy European: EU Commissions New Apply AI Strategy Launched](https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/)
 * [2025-10-08, 08:19:36](https://news.ycombinator.com/item?id=45513485) - [Synology Reverses Policy Banning Third-Party HDDs After NAS Sales Plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
 * [2025-10-08, 08:15:49](https://news.ycombinator.com/item?id=45513459) - [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
 * [2025-10-08, 05:18:44](https://news.ycombinator.com/item?id=45512342) - [Interactive Double Pendulum Playground](https://theabbie.github.io/DoublePendulum/)
