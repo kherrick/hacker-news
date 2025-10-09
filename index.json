@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-10-09, 02:59:34",
+      "https://news.ycombinator.com/item?id=45523033"
+    ],
+    [
+      "California enacts law to universally opt out of data sharing",
+      "https://therecord.media/california-signs-law-opt-out-browsers"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 02:29:08",
       "https://news.ycombinator.com/item?id=45522868"
     ],
     [
-      "Tonight's Restaurant Dinner Fell Off the Sysco Truck",
+      "Tonight's restaurant dinner fell off the Sysco truck",
       "https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45522406"
     ],
     [
-      "Designing a Low Latency 10G Ethernet Core",
+      "Designing a Low Latency 10G Ethernet Core (2023)",
       "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
       "https://larslofgren.com/codesmith-reddit-reputation-attack/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 23:34:42",
-      "https://news.ycombinator.com/item?id=45521833"
-    ],
-    [
-      "Radio Garten",
-      "https://radio.garden/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "A few things to know before stealing my 914 (2022)",
       "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 18:00:34",
-      "https://news.ycombinator.com/item?id=45518861"
-    ],
-    [
-      "Show HN: FleetCode – Open-source UI for running multiple coding agents",
-      "https://github.com/built-by-as/FleetCode"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2025-10-06, 09:52:55",
+      "https://news.ycombinator.com/item?id=45489599"
+    ],
+    [
+      "Tutorials for Sandia's Lammps Simulation Package",
+      "https://arxiv.org/abs/2503.14020"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 09:06:28",
       "https://news.ycombinator.com/item?id=45489317"
     ],
@@ -247,16 +247,6 @@
     [
       "Why we need SIMD",
       "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 22:06:33",
-      "https://news.ycombinator.com/item?id=45485705"
-    ],
-    [
-      "The agony and ecstasy of restoring a Fra Angelico masterpiece",
-      "https://www.ft.com/content/87d4dcfe-f66a-4aad-bba9-394e9fc77c1d"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Meta launches Hyperscape, technology to turn real-world spaces into VR",
       "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 18:37:31",
+      "https://news.ycombinator.com/item?id=45475556"
+    ],
+    [
+      "X-ray scans reveal the hidden risks of cheap batteries",
+      "https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect"
     ]
   ],
   [
