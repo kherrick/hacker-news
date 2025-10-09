@@ -77,6 +77,7 @@
 * [2025-10-06, 07:47:17](https://news.ycombinator.com/item?id=45488713) - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
 * [2025-10-06, 07:38:03](https://news.ycombinator.com/item?id=45488647) - [Vec<T>](https://marma.dev/articles/2025/under-the-hood-vec-t)
 * [2025-10-06, 07:32:31](https://news.ycombinator.com/item?id=45488605) - [FSF turns forty with a groundbreaking new project and a new president](https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign)
+* [2025-10-06, 07:26:54](https://news.ycombinator.com/item?id=45488569) - [Representation Engineering](https://vgel.me/posts/representation-engineering/)
 * [2025-10-06, 07:07:11](https://news.ycombinator.com/item?id=45488441) - [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
 * [2025-10-06, 06:35:36](https://news.ycombinator.com/item?id=45488261) - [Structured Procrastination](https://structuredprocrastination.com)
 * [2025-10-06, 04:59:39](https://news.ycombinator.com/item?id=45487771) - [Gem.coop](https://gem.coop/)

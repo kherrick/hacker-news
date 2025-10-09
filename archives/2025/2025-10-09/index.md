@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 12:19:20](https://news.ycombinator.com/item?id=45526589) - [McKinsey wonders how to sell AI apps with no measurable benefits](https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/)
+* [2025-10-09, 12:12:54](https://news.ycombinator.com/item?id=45526543) - [Why Are So Many Pedestrians Killed by Cars in the US?](https://www.construction-physics.com/p/why-are-so-many-pedestrians-killed)
 * [2025-10-09, 11:07:29](https://news.ycombinator.com/item?id=45526042) - [Zippers: Making Functional \"Updates\" Efficient (2010)](http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/)
 * [2025-10-09, 09:19:18](https://news.ycombinator.com/item?id=45525336) - [n8n raises $180M to get AI closer to value with orchestration](https://blog.n8n.io/series-c/)
 * [2025-10-09, 08:33:54](https://news.ycombinator.com/item?id=45525041) - [First-in-the-nation law to ban ultra-processed foods from school lunches](https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/)
