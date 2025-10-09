@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 18:25:49](https://news.ycombinator.com/item?id=45531284) - [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
+* [2025-10-09, 18:23:43](https://news.ycombinator.com/item?id=45531262) - [Sea Rise Simulator](https://nagix.github.io/sea-level-rise-3d-map/)
 * [2025-10-09, 17:48:23](https://news.ycombinator.com/item?id=45530832) - [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
 * [2025-10-09, 17:38:29](https://news.ycombinator.com/item?id=45530744) - [Subway Builder: A Realistic Subway Simulation Game](https://www.subwaybuilder.com/)
 * [2025-10-09, 17:09:22](https://news.ycombinator.com/item?id=45530388) - [Show HN: I Wrote a Full Text Search Engine from Scratch in Go](https://github.com/wizenheimer/blaze)
