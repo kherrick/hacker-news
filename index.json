@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-10-09, 20:55:00",
-      "https://news.ycombinator.com/item?id=45532971"
-    ],
-    [
-      "Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC",
-      "https://github.com/VapiAI/vapicon-2025-hardware-workshop"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 20:27:39",
       "https://news.ycombinator.com/item?id=45532685"
     ],
@@ -187,6 +177,16 @@
     [
       "Python's splitlines does more than just newlines",
       "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 13:36:01",
+      "https://news.ycombinator.com/item?id=45527507"
+    ],
+    [
+      "Using a laptop as an HDMI monitor for an SBC",
+      "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"
     ]
   ],
   [
