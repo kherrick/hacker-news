@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-09, 15:05:52](https://news.ycombinator.com/item?id=45528735) - [GitHub Issues](https://www.githubstatus.com/incidents/k7bhmjkblcwp)
 * [2025-10-09, 14:39:29](https://news.ycombinator.com/item?id=45528347) - [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
 * [2025-10-09, 14:39:12](https://news.ycombinator.com/item?id=45528342) - [Why Self-Host?](https://romanzipp.com/blog/why-a-homelab-why-self-host)
-* [2025-10-09, 14:24:22](https://news.ycombinator.com/item?id=45528141) - [Silver Trades to $50 an Ounce](https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/)
+* [2025-10-09, 14:37:44](https://news.ycombinator.com/item?id=45528320) - [Show HN: I Hid Labubus in World Labs' AI Worlds](https://www.akadeb.xyz/vibes/world-labubus/)
 * [2025-10-09, 13:55:04](https://news.ycombinator.com/item?id=45527758) - [TIL: Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
 * [2025-10-09, 13:36:01](https://news.ycombinator.com/item?id=45527507) - [Using a Laptop as an HDMI Monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/)
 * [2025-10-09, 13:27:14](https://news.ycombinator.com/item?id=45527402) - [Figure 03, our 3rd generation humanoid robot](https://www.figure.ai/news/introducing-figure-03)
@@ -24,7 +25,6 @@
 * [2025-10-06, 13:04:53](https://news.ycombinator.com/item?id=45490957) - [Real-time Nvidia GPU dashboard](https://github.com/psalias2006/gpu-hot)
 * [2025-10-06, 12:40:11](https://news.ycombinator.com/item?id=45490721) - [Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)](https://dunkels.com/adam/stress-testing-next-generation-beacons/)
 * [2025-10-06, 09:56:03](https://news.ycombinator.com/item?id=45489625) - [The Debugging Book](https://www.debuggingbook.org/)
-* [2025-10-06, 08:51:02](https://news.ycombinator.com/item?id=45489191) - [A Tissue Therapeutics Revolution](https://cutiss.swiss/)
 * [2025-10-06, 08:13:47](https://news.ycombinator.com/item?id=45488892) - [A History of Large Language Models](https://gregorygundersen.com/blog/2025/10/01/large-language-models/)
 * [2025-10-06, 07:38:03](https://news.ycombinator.com/item?id=45488647) - [Vec<T>](https://marma.dev/articles/2025/under-the-hood-vec-t)
 * [2025-10-06, 07:26:54](https://news.ycombinator.com/item?id=45488569) - [Representation Engineering (2024)](https://vgel.me/posts/representation-engineering/)
