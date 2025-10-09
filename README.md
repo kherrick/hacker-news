@@ -28,8 +28,8 @@
 * [2025-10-06, 08:13:47](https://news.ycombinator.com/item?id=45488892) - [A History of Large Language Models](https://gregorygundersen.com/blog/2025/10/01/large-language-models/)
 * [2025-10-06, 07:38:03](https://news.ycombinator.com/item?id=45488647) - [Vec<T>](https://marma.dev/articles/2025/under-the-hood-vec-t)
 * [2025-10-06, 07:26:54](https://news.ycombinator.com/item?id=45488569) - [Representation Engineering (2024)](https://vgel.me/posts/representation-engineering/)
+* [2025-10-06, 06:23:28](https://news.ycombinator.com/item?id=45488201) - [CPU Cache-Friendly Data Structures in Go: 10x Speed with Same Algorithm](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
 * [2025-10-06, 00:52:26](https://news.ycombinator.com/item?id=45486622) - [Rejected announces from libtorrent clients proxying through SOCKS](https://catgirl.online/2025/10/01/libtorrent-socks-woes)
-* [2025-10-04, 16:04:24](https://news.ycombinator.com/item?id=45474301) - [SEC approves Texas Stock Exchange, first new US integrated exchange in decades](https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/)
 
 ## [Archives](archives/index.md)
 
