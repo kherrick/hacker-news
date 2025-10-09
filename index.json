@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-10-09, 15:56:47",
+      "https://news.ycombinator.com/item?id=45529483"
+    ],
+    [
+      "Programmer in Wonderland",
+      "https://binaryigor.com/programmer-in-wonderland.html"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 15:51:20",
       "https://news.ycombinator.com/item?id=45529393"
     ],
@@ -85,18 +95,8 @@
       "https://news.ycombinator.com/item?id=45528735"
     ],
     [
-      "GitHub Issues",
+      "Incident with Webhooks",
       "https://www.githubstatus.com/incidents/k7bhmjkblcwp"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 14:39:29",
-      "https://news.ycombinator.com/item?id=45528347"
-    ],
-    [
-      "The great software quality collapse or, how we normalized catastrophe",
-      "https://techtrenches.substack.com/p/the-great-software-quality-collapse"
     ]
   ],
   [
@@ -161,22 +161,22 @@
   ],
   [
     [
-      "2025-10-09, 13:05:54",
-      "https://news.ycombinator.com/item?id=45527156"
-    ],
-    [
-      "The C++ programmer and educator Rainer Grimm has passed away",
-      "https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 12:54:18",
       "https://news.ycombinator.com/item?id=45527003"
     ],
     [
       "Nobel Prize in Literature 2025: László Krasznahorkai",
       "https://www.nobelprize.org/prizes/literature/2025/press-release/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 12:45:28",
+      "https://news.ycombinator.com/item?id=45526890"
+    ],
+    [
+      "Show HN: I built a web framework in C",
+      "https://github.com/ashtonjamesd/lavandula"
     ]
   ],
   [
