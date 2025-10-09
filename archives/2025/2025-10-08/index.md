@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 23:48:28](https://news.ycombinator.com/item?id=45521920) - [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/)
 * [2025-10-08, 23:35:15](https://news.ycombinator.com/item?id=45521836) - [Winter 2025/2026 weather outlook](https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/)
+* [2025-10-08, 23:34:42](https://news.ycombinator.com/item?id=45521833) - [Radio Garten](https://radio.garden/)
+* [2025-10-08, 23:27:23](https://news.ycombinator.com/item?id=45521788) - [Show HN: HyprMCP – Analytics, logs and auth for MCP servers](https://github.com/hyprmcp/jetski)
+* [2025-10-08, 23:20:13](https://news.ycombinator.com/item?id=45521738) - [Discord says 70k users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach)
 * [2025-10-08, 23:14:32](https://news.ycombinator.com/item?id=45521704) - [Show HN: PWAscore](https://pwascore.com/)
+* [2025-10-08, 23:04:32](https://news.ycombinator.com/item?id=45521629) - [OpenAI, Nvidia fuel $1T AI market with web of circular deals](https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals)
 * [2025-10-08, 22:47:57](https://news.ycombinator.com/item?id=45521484) - [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)
 * [2025-10-08, 22:47:22](https://news.ycombinator.com/item?id=45521476) - [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)
 * [2025-10-08, 21:33:05](https://news.ycombinator.com/item?id=45520889) - [Loops of DNA Equipped Ancient Life to Become Complex](https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/)

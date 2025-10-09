@@ -11,6 +11,7 @@
 * [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
 * [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany Embraces Balkonkraftwerke – Balcony Solar for Apartments – CleanTechnica](https://cleantechnica.com/2024/12/21/germany-embraces-balkonkraftwerke-balcony-solar-for-apartments/)
 * [2025-10-05, 22:10:15](https://news.ycombinator.com/item?id=45485736) - [Ken Parker, famed luthier, has passed](https://kenparkerarchtops.com)
+* [2025-10-05, 22:06:33](https://news.ycombinator.com/item?id=45485705) - [The agony and ecstasy of restoring a Fra Angelico masterpiece](https://www.ft.com/content/87d4dcfe-f66a-4aad-bba9-394e9fc77c1d)
 * [2025-10-05, 21:44:01](https://news.ycombinator.com/item?id=45485546) - [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky)
 * [2025-10-05, 21:26:25](https://news.ycombinator.com/item?id=45485440) - [Wine 10.16 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.16)
 * [2025-10-05, 21:02:03](https://news.ycombinator.com/item?id=45485227) - [Packing the world for longest lines of sight](https://tombh.co.uk/packing-world-lines-of-sight)
