@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 16:16:06](https://news.ycombinator.com/item?id=45529764) - [Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
+* [2025-10-09, 16:06:49](https://news.ycombinator.com/item?id=45529628) - [Launch HN: Extend (YC W23) – Turn your messiest documents into data](https://www.extend.ai/)
+* [2025-10-09, 16:04:04](https://news.ycombinator.com/item?id=45529587) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 15:51:20](https://news.ycombinator.com/item?id=45529393) - [Show HN: I've built a tiny hand-held keyboard](https://github.com/mafik/keyer)
 * [2025-10-09, 15:05:52](https://news.ycombinator.com/item?id=45528735) - [GitHub Issues](https://www.githubstatus.com/incidents/k7bhmjkblcwp)
 * [2025-10-09, 14:39:29](https://news.ycombinator.com/item?id=45528347) - [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
