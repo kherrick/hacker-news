@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-09, 16:16:06",
+      "https://news.ycombinator.com/item?id=45529764"
+    ],
+    [
+      "Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com",
+      "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 16:06:49",
+      "https://news.ycombinator.com/item?id=45529628"
+    ],
+    [
+      "Launch HN: Extend (YC W23) – Turn your messiest documents into data",
+      "https://www.extend.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 16:04:04",
+      "https://news.ycombinator.com/item?id=45529587"
+    ],
+    [
+      "A small number of samples can poison LLMs of any size",
+      "https://www.anthropic.com/research/small-samples-poison"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 15:51:20",
       "https://news.ycombinator.com/item?id=45529393"
     ],
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2025-10-09, 01:17:20",
-      "https://news.ycombinator.com/item?id=45522406"
-    ],
-    [
-      "Designing a Low Latency 10G Ethernet Core (2023)",
-      "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 17:56:32",
       "https://news.ycombinator.com/item?id=45518813"
     ],
     [
       "WinBoat: Windows apps on Linux with seamless integration",
       "https://www.winboat.app/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 15:17:36",
-      "https://news.ycombinator.com/item?id=45517134"
-    ],
-    [
-      "The RSS feed reader landscape",
-      "https://lighthouseapp.io/blog/feed-reader-deep-dive"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 13:33:15",
-      "https://news.ycombinator.com/item?id=45516000"
-    ],
-    [
-      "We found a bug in Go's ARM64 compiler",
-      "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/"
     ]
   ],
   [
