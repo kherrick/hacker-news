@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 22:58:31",
+      "https://news.ycombinator.com/item?id=45533902"
+    ],
+    [
+      "How to Write in Cuneiform, the Oldest Writing System in the World",
+      "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 21:18:29",
       "https://news.ycombinator.com/item?id=45533208"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-10-09, 16:15:08",
-      "https://news.ycombinator.com/item?id=45529748"
-    ],
-    [
-      "Goiaba: An experimental Go compiler, written in Rust",
-      "https://github.com/raphamorim/goiaba"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 16:06:49",
       "https://news.ycombinator.com/item?id=45529628"
     ],
@@ -187,16 +187,6 @@
     [
       "Python's splitlines does more than just newlines",
       "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 13:36:01",
-      "https://news.ycombinator.com/item?id=45527507"
-    ],
-    [
-      "Using a laptop as an HDMI monitor for an SBC",
-      "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Neutts-air – Open-source, on device TTS",
       "https://github.com/neuphonic/neutts-air"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 07:35:44",
+      "https://news.ycombinator.com/item?id=45488629"
+    ],
+    [
+      "AmigaMidiRecieve – Transfer File from Any OS to Amiga via MIDI",
+      "https://github.com/wertstahl/AmigaMidiRec"
     ]
   ]
 ]
