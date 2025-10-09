@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-10-09, 01:02:20",
+      "https://news.ycombinator.com/item?id=45522318"
+    ],
+    [
+      "In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies",
+      "https://academic.oup.com/poq/article/89/2/459/8152104?login=false"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 23:48:28",
       "https://news.ycombinator.com/item?id=45521920"
     ],
@@ -67,16 +77,6 @@
     [
       "Discord says 70k users may have had their government IDs leaked in breach",
       "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 23:14:32",
-      "https://news.ycombinator.com/item?id=45521704"
-    ],
-    [
-      "PWA Browser Scorecards",
-      "https://pwascore.com/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-10-06, 09:52:55",
-      "https://news.ycombinator.com/item?id=45489599"
-    ],
-    [
-      "Tutorials for Sandia's Lammps Simulation Package",
-      "https://arxiv.org/abs/2503.14020"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 09:06:28",
       "https://news.ycombinator.com/item?id=45489317"
     ],
@@ -247,6 +237,16 @@
     [
       "Why we need SIMD",
       "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 00:52:26",
+      "https://news.ycombinator.com/item?id=45486622"
+    ],
+    [
+      "Rejected announces from libtorrent clients proxying through SOCKS",
+      "https://catgirl.online/2025/10/01/libtorrent-socks-woes"
     ]
   ],
   [
