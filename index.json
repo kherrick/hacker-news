@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-09, 18:25:49",
+      "https://news.ycombinator.com/item?id=45531284"
+    ],
+    [
+      "2025 MacArthur Fellows",
+      "https://www.macfound.org/programs/awards/fellows/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 18:23:43",
+      "https://news.ycombinator.com/item?id=45531262"
+    ],
+    [
+      "Sea Rise Simulator",
+      "https://nagix.github.io/sea-level-rise-3d-map/"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 17:48:23",
       "https://news.ycombinator.com/item?id=45530832"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45530744"
     ],
     [
-      "Subway Builder: A Realistic Subway Simulation Game",
+      "Subway Builder: A realistic subway simulation game",
       "https://www.subwaybuilder.com/"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "ESP32 and Termux",
       "https://blog.gavide.dev/blog/esp32-and-termux"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 16:49:31",
-      "https://news.ycombinator.com/item?id=45530172"
-    ],
-    [
-      "Fireman Sam (Commodore 64)",
-      "http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=45529577"
     ],
     [
-      "Cybersecurity Training Programs Don't Prevent Phishing Scams",
+      "Cybersecurity training programs don't prevent phishing scams",
       "https://today.ucsd.edu/story/cybersecurity-training-programs-dont-prevent-employees-from-falling-for-phishing-scams"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Show HN: I've built a tiny hand-held keyboard",
       "https://github.com/mafik/keyer"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 15:05:52",
-      "https://news.ycombinator.com/item?id=45528735"
-    ],
-    [
-      "Incident with Webhooks",
-      "https://www.githubstatus.com/incidents/k7bhmjkblcwp"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=45527507"
     ],
     [
-      "Using a Laptop as an HDMI Monitor for an SBC",
+      "Using a laptop as an HDMI monitor for an SBC",
       "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=45490652"
     ],
     [
-      "My First Contribution to Linux",
+      "My first contribution to Linux",
       "https://vkoskiv.com/first-linux-patch/"
     ]
   ],
