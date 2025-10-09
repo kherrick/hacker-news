@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 15:51:20",
+      "https://news.ycombinator.com/item?id=45529393"
+    ],
+    [
+      "Show HN: I've built a tiny hand-held keyboard",
+      "https://github.com/mafik/keyer"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 15:05:52",
       "https://news.ycombinator.com/item?id=45528735"
     ],
@@ -37,6 +47,16 @@
     [
       "Show HN: I Hid Labubus in World Labs' AI Worlds",
       "https://www.akadeb.xyz/vibes/world-labubus/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 14:36:52",
+      "https://news.ycombinator.com/item?id=45528308"
+    ],
+    [
+      "New nanotherapy clears amyloid-β reversing Alzheimer's in mice",
+      "https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Nobel Prize in Literature 2025: László Krasznahorkai",
       "https://www.nobelprize.org/prizes/literature/2025/press-release/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 12:45:28",
-      "https://news.ycombinator.com/item?id=45526890"
-    ],
-    [
-      "Show HN: I built a web framework in C",
-      "https://github.com/ashtonjamesd/lavandula"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-10-08, 23:20:13",
-      "https://news.ycombinator.com/item?id=45521738"
-    ],
-    [
-      "Discord says 70k users may have had their government IDs leaked in breach",
-      "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 17:56:32",
       "https://news.ycombinator.com/item?id=45518813"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-10-06, 12:31:32",
+      "https://news.ycombinator.com/item?id=45490652"
+    ],
+    [
+      "My First Contribution to Linux",
+      "https://vkoskiv.com/first-linux-patch/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 09:56:03",
       "https://news.ycombinator.com/item?id=45489625"
     ],
@@ -287,16 +297,6 @@
     [
       "CPU cache-friendly data structures in Go",
       "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 00:52:26",
-      "https://news.ycombinator.com/item?id=45486622"
-    ],
-    [
-      "Rejected announces from libtorrent clients proxying through SOCKS",
-      "https://catgirl.online/2025/10/01/libtorrent-socks-woes"
     ]
   ]
 ]
