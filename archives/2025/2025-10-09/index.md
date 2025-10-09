@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 14:07:40](https://news.ycombinator.com/item?id=45527931) - [US opens Tesla probe after more crashes involving its \"full self-driving\"](https://apnews.com/article/tesla-full-selfdriving-investigation-nhtsa-1f7fe4da8df2abfa03341c30a0f1b8b5)
+* [2025-10-09, 13:54:38](https://news.ycombinator.com/item?id=45527754) - [Colombia's president says boat struck by US was carrying Colombians](https://www.bbc.com/news/articles/c89dz920p0do)
 * [2025-10-09, 13:27:14](https://news.ycombinator.com/item?id=45527402) - [Introducing Figure 03](https://www.figure.ai/news/introducing-figure-03)
 * [2025-10-09, 13:05:54](https://news.ycombinator.com/item?id=45527156) - [The C++ programmer and educator Rainer Grimm has passed away](https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/)
 * [2025-10-09, 12:54:18](https://news.ycombinator.com/item?id=45527003) - [Nobel Prize in Literature 2025: László Krasznahorkai](https://www.nobelprize.org/prizes/literature/2025/press-release/)
