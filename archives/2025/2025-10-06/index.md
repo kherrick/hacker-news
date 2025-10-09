@@ -50,6 +50,7 @@
 * [2025-10-06, 12:40:11](https://news.ycombinator.com/item?id=45490721) - [Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)](https://dunkels.com/adam/stress-testing-next-generation-beacons/)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An Illustrated Introduction to Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 * [2025-10-06, 12:37:52](https://news.ycombinator.com/item?id=45490703) - [AI has found 50 bugs in cURL. \"AI-native SASTs work well\"](https://etn.se/72494)
+* [2025-10-06, 12:31:32](https://news.ycombinator.com/item?id=45490652) - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 * [2025-10-06, 12:29:26](https://news.ycombinator.com/item?id=45490629) - [Chess.com Regional Pricing: A Case Study](https://mobeigi.com/blog/economics/chesscom-regional-pricing/)
 * [2025-10-06, 12:28:49](https://news.ycombinator.com/item?id=45490627) - [Thoughts on the Word Spec in Rust](https://tritium.legal/blog/word)
 * [2025-10-06, 12:23:40](https://news.ycombinator.com/item?id=45490578) - [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
