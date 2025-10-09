@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 16:56:52",
+      "https://news.ycombinator.com/item?id=45530261"
+    ],
+    [
+      "ESP32 and Termux",
+      "https://blog.gavide.dev/blog/esp32-and-termux"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 16:49:31",
       "https://news.ycombinator.com/item?id=45530172"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-10-09, 16:15:08",
+      "https://news.ycombinator.com/item?id=45529748"
+    ],
+    [
+      "Goiaba: An experimental Go compiler, written in Rust",
+      "https://github.com/raphamorim/goiaba"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 16:06:49",
       "https://news.ycombinator.com/item?id=45529628"
     ],
@@ -37,6 +57,16 @@
     [
       "A small number of samples can poison LLMs of any size",
       "https://www.anthropic.com/research/small-samples-poison"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 16:03:06",
+      "https://news.ycombinator.com/item?id=45529577"
+    ],
+    [
+      "Cybersecurity Training Programs Don't Prevent Phishing Scams",
+      "https://today.ucsd.edu/story/cybersecurity-training-programs-dont-prevent-employees-from-falling-for-phishing-scams"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-10-09, 07:30:12",
-      "https://news.ycombinator.com/item?id=45524624"
-    ],
-    [
-      "The React Foundation",
-      "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 07:01:07",
       "https://news.ycombinator.com/item?id=45524437"
     ],
@@ -207,16 +227,6 @@
     [
       "Two things LLM coding agents are still bad at",
       "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 19:59:58",
-      "https://news.ycombinator.com/item?id=45495607"
-    ],
-    [
-      "Talk Python in Production",
-      "https://talkpython.fm/books/python-in-production"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2025-10-06, 12:08:05",
+      "https://news.ycombinator.com/item?id=45490480"
+    ],
+    [
+      "Kiyonori Kikutake's Aquapolis",
+      "https://www.arihaonthemove.org/sp_aquapolis.html"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 09:56:03",
       "https://news.ycombinator.com/item?id=45489625"
     ],
@@ -267,26 +287,6 @@
     [
       "A History of Large Language Models",
       "https://gregorygundersen.com/blog/2025/10/01/large-language-models/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 07:38:03",
-      "https://news.ycombinator.com/item?id=45488647"
-    ],
-    [
-      "Vec<T>",
-      "https://marma.dev/articles/2025/under-the-hood-vec-t"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 07:26:54",
-      "https://news.ycombinator.com/item?id=45488569"
-    ],
-    [
-      "Representation Engineering (2024)",
-      "https://vgel.me/posts/representation-engineering/"
     ]
   ],
   [
