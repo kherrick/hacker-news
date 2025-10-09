@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-09, 12:19:20",
+      "https://news.ycombinator.com/item?id=45526589"
+    ],
+    [
+      "McKinsey wonders how to sell AI apps with no measurable benefits",
+      "https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 12:12:54",
+      "https://news.ycombinator.com/item?id=45526543"
+    ],
+    [
+      "Why Are So Many Pedestrians Killed by Cars in the US?",
+      "https://www.construction-physics.com/p/why-are-so-many-pedestrians-killed"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 11:07:29",
       "https://news.ycombinator.com/item?id=45526042"
     ],
@@ -17,16 +37,6 @@
     [
       "The React Foundation",
       "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 07:11:29",
-      "https://news.ycombinator.com/item?id=45524502"
-    ],
-    [
-      "Man gets drunk, wakes up with a medical mystery that nearly kills him",
-      "https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Two things LLM coding agents are still bad at",
       "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 02:59:34",
-      "https://news.ycombinator.com/item?id=45523033"
-    ],
-    [
-      "California enacts law enabling people to universally opt out of data sharing",
-      "https://therecord.media/california-signs-law-opt-out-browsers"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Kurt Got Got",
       "https://fly.io/blog/kurt-got-got/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 20:20:21",
-      "https://news.ycombinator.com/item?id=45520154"
-    ],
-    [
-      "I played 1k hands of online poker and built a web app with Cursor AI",
-      "https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Vec<T>",
       "https://marma.dev/articles/2025/under-the-hood-vec-t"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 07:26:54",
+      "https://news.ycombinator.com/item?id=45488569"
+    ],
+    [
+      "Representation Engineering",
+      "https://vgel.me/posts/representation-engineering/"
     ]
   ],
   [
