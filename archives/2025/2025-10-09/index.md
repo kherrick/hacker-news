@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 13:05:54](https://news.ycombinator.com/item?id=45527156) - [The C++ programmer and educator Rainer Grimm has passed away](https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/)
+* [2025-10-09, 12:54:18](https://news.ycombinator.com/item?id=45527003) - [Nobel Prize in Literature 2025: László Krasznahorkai](https://www.nobelprize.org/prizes/literature/2025/press-release/)
+* [2025-10-09, 12:45:28](https://news.ycombinator.com/item?id=45526890) - [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
 * [2025-10-09, 12:19:20](https://news.ycombinator.com/item?id=45526589) - [McKinsey wonders how to sell AI apps with no measurable benefits](https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/)
 * [2025-10-09, 12:12:54](https://news.ycombinator.com/item?id=45526543) - [Why Are So Many Pedestrians Killed by Cars in the US?](https://www.construction-physics.com/p/why-are-so-many-pedestrians-killed)
 * [2025-10-09, 11:07:29](https://news.ycombinator.com/item?id=45526042) - [Zippers: Making Functional \"Updates\" Efficient (2010)](http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/)
 * [2025-10-09, 09:19:18](https://news.ycombinator.com/item?id=45525336) - [n8n raises $180M to get AI closer to value with orchestration](https://blog.n8n.io/series-c/)
+* [2025-10-09, 09:14:58](https://news.ycombinator.com/item?id=45525303) - [QUIC and the End of TCP Sockets](https://codemia.io/blog/path/QUIC-and-the-End-of-TCP-Sockets-How-User-Space-Transport-Rewrites-Flow-Control)
 * [2025-10-09, 08:33:54](https://news.ycombinator.com/item?id=45525041) - [First-in-the-nation law to ban ultra-processed foods from school lunches](https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/)
 * [2025-10-09, 07:30:12](https://news.ycombinator.com/item?id=45524624) - [The React Foundation: The New Home for React and React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
 * [2025-10-09, 07:11:29](https://news.ycombinator.com/item?id=45524502) - [Man gets drunk, wakes up with a medical mystery that nearly kills him](https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/)
