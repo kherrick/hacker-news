@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-10-09, 19:03:43",
+      "https://news.ycombinator.com/item?id=45531721"
+    ],
+    [
+      "The government ate my name",
+      "https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 18:33:17",
       "https://news.ycombinator.com/item?id=45531367"
     ],
@@ -97,6 +107,16 @@
     [
       "Subway Builder: A realistic subway simulation game",
       "https://www.subwaybuilder.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 17:16:28",
+      "https://news.ycombinator.com/item?id=45530486"
+    ],
+    [
+      "LLMs are mortally terrified of exceptions",
+      "https://twitter.com/karpathy/status/1976077806443569355"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Python's splitlines does more than just newlines",
       "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 13:36:01",
-      "https://news.ycombinator.com/item?id=45527507"
-    ],
-    [
-      "Using a laptop as an HDMI monitor for an SBC",
-      "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Neutts-air – open-source, on device TTS",
       "https://github.com/neuphonic/neutts-air"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 06:23:28",
-      "https://news.ycombinator.com/item?id=45488201"
-    ],
-    [
-      "CPU cache-friendly data structures in Go",
-      "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
     ]
   ]
 ]
