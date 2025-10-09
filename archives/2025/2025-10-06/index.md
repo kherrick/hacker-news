@@ -84,6 +84,7 @@
 * [2025-10-06, 07:50:22](https://news.ycombinator.com/item?id=45488729) - [Zürich voters ban noisy leaf blowers](https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192)
 * [2025-10-06, 07:47:17](https://news.ycombinator.com/item?id=45488713) - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
 * [2025-10-06, 07:38:03](https://news.ycombinator.com/item?id=45488647) - [Vec<T>](https://marma.dev/articles/2025/under-the-hood-vec-t)
+* [2025-10-06, 07:35:44](https://news.ycombinator.com/item?id=45488629) - [AmigaMidiRecieve – Transfer File from Any OS to Amiga via MIDI](https://github.com/wertstahl/AmigaMidiRec)
 * [2025-10-06, 07:32:31](https://news.ycombinator.com/item?id=45488605) - [FSF turns forty with a groundbreaking new project and a new president](https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign)
 * [2025-10-06, 07:26:54](https://news.ycombinator.com/item?id=45488569) - [Representation Engineering](https://vgel.me/posts/representation-engineering/)
 * [2025-10-06, 07:07:11](https://news.ycombinator.com/item?id=45488441) - [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
