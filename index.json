@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-10-09, 04:33:48",
-      "https://news.ycombinator.com/item?id=45523537"
-    ],
-    [
-      "Two things LLM coding agents are still bad at",
-      "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 10:01:42",
       "https://news.ycombinator.com/item?id=45514245"
     ],
@@ -267,6 +257,16 @@
     [
       "My first contribution to Linux",
       "https://vkoskiv.com/first-linux-patch/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 12:25:11",
+      "https://news.ycombinator.com/item?id=45490591"
+    ],
+    [
+      "Show HN: Turn your OpenAPI spec into negative tests",
+      "https://github.com/dochia-dev/dochia-cli"
     ]
   ],
   [
