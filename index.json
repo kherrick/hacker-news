@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-10-09, 17:09:22",
+      "https://news.ycombinator.com/item?id=45530388"
+    ],
+    [
+      "Show HN: I Wrote a Full Text Search Engine from Scratch in Go",
+      "https://github.com/wizenheimer/blaze"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 16:56:52",
       "https://news.ycombinator.com/item?id=45530261"
     ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2025-10-09, 16:55:03",
-      "https://news.ycombinator.com/item?id=45530234"
-    ],
-    [
-      "Tariffs Are Way Up. Interest on Debt Tops $1T. and Doge Didn't Do Much",
-      "https://www.wsj.com/economy/federal-budget-fiscal-2025-e8d21595"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 16:49:31",
       "https://news.ycombinator.com/item?id=45530172"
     ],
     [
       "Fireman Sam (Commodore 64)",
       "http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 16:16:06",
-      "https://news.ycombinator.com/item?id=45529764"
-    ],
-    [
-      "Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com",
-      "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it"
     ]
   ],
   [
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2025-10-09, 15:56:47",
-      "https://news.ycombinator.com/item?id=45529483"
-    ],
-    [
-      "Programmer in Wonderland",
-      "https://binaryigor.com/programmer-in-wonderland.html"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 15:51:20",
       "https://news.ycombinator.com/item?id=45529393"
     ],
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45528308"
     ],
     [
-      "New nanotherapy clears amyloid-β reversing Alzheimer's in mice",
+      "New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice",
       "https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/"
     ]
   ],
@@ -201,12 +181,42 @@
   ],
   [
     [
+      "2025-10-09, 12:36:05",
+      "https://news.ycombinator.com/item?id=45526754"
+    ],
+    [
+      "The fight between doctors and insurance companies over 'downcoding'",
+      "https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 12:17:54",
+      "https://news.ycombinator.com/item?id=45526582"
+    ],
+    [
+      "Dark patterns: Buying a Bahncard at Deutsche Bahn",
+      "https://www.ketzu.net/dark-patterns-buying-a-bahncard-at-deutsche-bahn/"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 11:07:29",
       "https://news.ycombinator.com/item?id=45526042"
     ],
     [
       "Zippers: Making Functional \"Updates\" Efficient (2010)",
       "http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 07:40:42",
+      "https://news.ycombinator.com/item?id=45524702"
+    ],
+    [
+      "Python 3.14 is here. How fast is it?",
+      "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-10-06, 12:40:11",
-      "https://news.ycombinator.com/item?id=45490721"
-    ],
-    [
-      "Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)",
-      "https://dunkels.com/adam/stress-testing-next-generation-beacons/"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 12:31:32",
       "https://news.ycombinator.com/item?id=45490652"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-10-06, 09:56:03",
-      "https://news.ycombinator.com/item?id=45489625"
+      "2025-10-06, 10:40:28",
+      "https://news.ycombinator.com/item?id=45489884"
     ],
     [
-      "The Debugging Book",
-      "https://www.debuggingbook.org/"
+      "Embracing the parallel coding agent lifestyle",
+      "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/"
     ]
   ],
   [
     [
-      "2025-10-06, 08:13:47",
-      "https://news.ycombinator.com/item?id=45488892"
+      "2025-10-06, 07:38:03",
+      "https://news.ycombinator.com/item?id=45488647"
     ],
     [
-      "A History of Large Language Models",
-      "https://gregorygundersen.com/blog/2025/10/01/large-language-models/"
+      "Under the hood: Vec<T>",
+      "https://marma.dev/articles/2025/under-the-hood-vec-t"
     ]
   ],
   [
