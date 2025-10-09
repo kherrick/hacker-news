@@ -49,6 +49,7 @@
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An Illustrated Introduction to Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 * [2025-10-06, 12:37:52](https://news.ycombinator.com/item?id=45490703) - [AI has found 50 bugs in cURL. \"AI-native SASTs work well\"](https://etn.se/72494)
 * [2025-10-06, 12:29:26](https://news.ycombinator.com/item?id=45490629) - [Chess.com Regional Pricing: A Case Study](https://mobeigi.com/blog/economics/chesscom-regional-pricing/)
+* [2025-10-06, 12:28:49](https://news.ycombinator.com/item?id=45490627) - [Thoughts on the Word Spec in Rust](https://tritium.legal/blog/word)
 * [2025-10-06, 12:23:40](https://news.ycombinator.com/item?id=45490578) - [Show HN: While everyone builds AI apps, my spreadsheet reached 2,300 users](https://write-it-down.com)
 * [2025-10-06, 12:17:59](https://news.ycombinator.com/item?id=45490549) - [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/)
 * [2025-10-06, 12:16:13](https://news.ycombinator.com/item?id=45490538) - [The Fourth Quadrant of Knowledge](https://lyonhe.art/the-fourth-quadrant-of-knowledge/)

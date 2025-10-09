@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 07:01:07](https://news.ycombinator.com/item?id=45524437) - [The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer)
 * [2025-10-09, 05:29:50](https://news.ycombinator.com/item?id=45523871) - [Download all of your GitHub data](https://github.blog/developer-skills/github/download-your-data/)
 * [2025-10-09, 04:37:11](https://news.ycombinator.com/item?id=45523553) - [Starlink is burning up one or two satellites a day in Earth's atmosphere](https://www.theregister.com/2025/10/06/starlink_vaporizes_satellites_daily/)
 * [2025-10-09, 04:33:48](https://news.ycombinator.com/item?id=45523537) - [Two things LLM coding agents are still bad at](https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/)
