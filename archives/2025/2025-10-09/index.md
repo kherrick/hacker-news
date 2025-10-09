@@ -11,6 +11,7 @@
 * [2025-10-09, 16:06:49](https://news.ycombinator.com/item?id=45529628) - [Launch HN: Extend (YC W23) – Turn your messiest documents into data](https://www.extend.ai/)
 * [2025-10-09, 16:04:04](https://news.ycombinator.com/item?id=45529587) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 16:03:06](https://news.ycombinator.com/item?id=45529577) - [Cybersecurity Training Programs Don't Prevent Phishing Scams](https://today.ucsd.edu/story/cybersecurity-training-programs-dont-prevent-employees-from-falling-for-phishing-scams)
+* [2025-10-09, 15:56:47](https://news.ycombinator.com/item?id=45529483) - [Programmer in Wonderland](https://binaryigor.com/programmer-in-wonderland.html)
 * [2025-10-09, 15:51:20](https://news.ycombinator.com/item?id=45529393) - [Show HN: I've built a tiny hand-held keyboard](https://github.com/mafik/keyer)
 * [2025-10-09, 15:05:52](https://news.ycombinator.com/item?id=45528735) - [GitHub Issues](https://www.githubstatus.com/incidents/k7bhmjkblcwp)
 * [2025-10-09, 14:39:29](https://news.ycombinator.com/item?id=45528347) - [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
