@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-09, 09:19:18](https://news.ycombinator.com/item?id=45525336) - [n8n raises $180M to get AI closer to value with orchestration](https://blog.n8n.io/series-c/)
 * [2025-10-09, 08:33:54](https://news.ycombinator.com/item?id=45525041) - [First-in-the-nation law to ban ultra-processed foods from school lunches](https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/)
 * [2025-10-09, 07:30:12](https://news.ycombinator.com/item?id=45524624) - [The React Foundation: The New Home for React and React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
 * [2025-10-09, 07:11:29](https://news.ycombinator.com/item?id=45524502) - [Man gets drunk, wakes up with a medical mystery that nearly kills him](https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/)
@@ -17,7 +18,6 @@
 * [2025-10-08, 18:00:34](https://news.ycombinator.com/item?id=45518861) - [Show HN: FleetCode – Open-source UI for running multiple coding agents](https://github.com/built-by-as/FleetCode)
 * [2025-10-08, 17:56:32](https://news.ycombinator.com/item?id=45518813) - [WinBoat: Windows apps on Linux with seamless integration](https://www.winboat.app/)
 * [2025-10-08, 15:17:36](https://news.ycombinator.com/item?id=45517134) - [The RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
-* [2025-10-08, 15:01:38](https://news.ycombinator.com/item?id=45516968) - [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
 * [2025-10-08, 13:33:15](https://news.ycombinator.com/item?id=45516000) - [We found a bug in Go's ARM64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 10:26:05](https://news.ycombinator.com/item?id=45514433) - [One-man campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
 * [2025-10-06, 12:28:49](https://news.ycombinator.com/item?id=45490627) - [Thoughts on the Word Spec in Rust](https://tritium.legal/blog/word)
