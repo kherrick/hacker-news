@@ -48,6 +48,7 @@
 * [2025-10-08, 12:55:01](https://news.ycombinator.com/item?id=45515640) - [Legal Contracts Built for AI Agents](https://paid.ai/blog/ai-agents/paid-gitlaw-introducing-legal-contracts-built-for-ai-agents)
 * [2025-10-08, 11:56:06](https://news.ycombinator.com/item?id=45515146) - [A Clausewitzian Lens on Modern Urban Warfare](https://mwi.westpoint.edu/a-clausewitzian-lens-on-modern-urban-warfare/)
 * [2025-10-08, 10:26:05](https://news.ycombinator.com/item?id=45514433) - [One-man spam campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
+* [2025-10-08, 10:01:42](https://news.ycombinator.com/item?id=45514245) - [A 16.67 Millisecond Frame](https://koolcodez.com/blog/inside-the-frame/)
 * [2025-10-08, 09:49:36](https://news.ycombinator.com/item?id=45514164) - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
 * [2025-10-08, 09:45:02](https://news.ycombinator.com/item?id=45514124) - [SoftBank to buy ABB's robotics business in $5.4B deal](https://www.reuters.com/world/asia-pacific/abb-sell-robots-business-softbank-538-billion-deal-2025-10-08/)
 * [2025-10-08, 09:44:19](https://news.ycombinator.com/item?id=45514117) - [Buy European: EU Commissions New Apply AI Strategy Launched](https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/)
