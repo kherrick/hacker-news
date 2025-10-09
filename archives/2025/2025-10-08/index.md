@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 23:35:15](https://news.ycombinator.com/item?id=45521836) - [Winter 2025/2026 weather outlook](https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/)
 * [2025-10-08, 23:14:32](https://news.ycombinator.com/item?id=45521704) - [Show HN: PWAscore](https://pwascore.com/)
 * [2025-10-08, 22:47:57](https://news.ycombinator.com/item?id=45521484) - [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)
 * [2025-10-08, 22:47:22](https://news.ycombinator.com/item?id=45521476) - [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)
