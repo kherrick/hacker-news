@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-10-09, 04:33:48",
-      "https://news.ycombinator.com/item?id=45523537"
-    ],
-    [
-      "Two things LLM coding agents are still bad at",
-      "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 02:59:34",
       "https://news.ycombinator.com/item?id=45523033"
     ],
@@ -237,6 +227,16 @@
     [
       "A History of Large Language Models",
       "https://gregorygundersen.com/blog/2025/10/01/large-language-models/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 07:38:03",
+      "https://news.ycombinator.com/item?id=45488647"
+    ],
+    [
+      "Vec<T>",
+      "https://marma.dev/articles/2025/under-the-hood-vec-t"
     ]
   ],
   [
