@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-09, 13:05:54",
+      "https://news.ycombinator.com/item?id=45527156"
+    ],
+    [
+      "The C++ programmer and educator Rainer Grimm has passed away",
+      "https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 12:54:18",
+      "https://news.ycombinator.com/item?id=45527003"
+    ],
+    [
+      "Nobel Prize in Literature 2025: László Krasznahorkai",
+      "https://www.nobelprize.org/prizes/literature/2025/press-release/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 12:45:28",
+      "https://news.ycombinator.com/item?id=45526890"
+    ],
+    [
+      "Show HN: I built a web framework in C",
+      "https://github.com/ashtonjamesd/lavandula"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 12:19:20",
       "https://news.ycombinator.com/item?id=45526589"
     ],
@@ -11,22 +41,32 @@
   ],
   [
     [
-      "2025-10-09, 12:12:54",
-      "https://news.ycombinator.com/item?id=45526543"
-    ],
-    [
-      "Why Are So Many Pedestrians Killed by Cars in the US?",
-      "https://www.construction-physics.com/p/why-are-so-many-pedestrians-killed"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 11:07:29",
       "https://news.ycombinator.com/item?id=45526042"
     ],
     [
       "Zippers: Making Functional \"Updates\" Efficient (2010)",
       "http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 09:19:18",
+      "https://news.ycombinator.com/item?id=45525336"
+    ],
+    [
+      "N8n raises $180M",
+      "https://blog.n8n.io/series-c/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 09:14:58",
+      "https://news.ycombinator.com/item?id=45525303"
+    ],
+    [
+      "QUIC and the End of TCP Sockets",
+      "https://codemia.io/blog/path/QUIC-and-the-End-of-TCP-Sockets-How-User-Space-Transport-Rewrites-Flow-Control"
     ]
   ],
   [
@@ -101,36 +141,6 @@
   ],
   [
     [
-      "2025-10-08, 23:04:32",
-      "https://news.ycombinator.com/item?id=45521629"
-    ],
-    [
-      "OpenAI, Nvidia fuel $1T AI market with web of circular deals",
-      "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 21:02:34",
-      "https://news.ycombinator.com/item?id=45520615"
-    ],
-    [
-      "Kurt Got Got",
-      "https://fly.io/blog/kurt-got-got/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 19:16:10",
-      "https://news.ycombinator.com/item?id=45519575"
-    ],
-    [
-      "A few things to know before stealing my 914 (2022)",
-      "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 17:56:32",
       "https://news.ycombinator.com/item?id=45518813"
     ],
@@ -177,6 +187,16 @@
     [
       "Talk Python in Production",
       "https://talkpython.fm/books/python-in-production"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 13:04:53",
+      "https://news.ycombinator.com/item?id=45490957"
+    ],
+    [
+      "Real-time Nvidia GPU dashboard",
+      "https://github.com/psalias2006/gpu-hot"
     ]
   ],
   [
@@ -235,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45488569"
     ],
     [
-      "Representation Engineering",
+      "Representation Engineering (2024)",
       "https://vgel.me/posts/representation-engineering/"
     ]
   ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-10-05, 18:49:31",
-      "https://news.ycombinator.com/item?id=45484123"
-    ],
-    [
-      "Aerocart cargo gliders",
-      "https://www.aerolane.com/"
-    ]
-  ],
-  [
-    [
       "2025-10-05, 15:23:21",
       "https://news.ycombinator.com/item?id=45482198"
     ],
     [
       "Birth of Prettier",
       "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 13:42:03",
-      "https://news.ycombinator.com/item?id=45481417"
-    ],
-    [
-      "Meta launches Hyperscape, technology to turn real-world spaces into VR",
-      "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/"
     ]
   ],
   [
