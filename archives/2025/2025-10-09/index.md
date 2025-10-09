@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 17:48:23](https://news.ycombinator.com/item?id=45530832) - [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
+* [2025-10-09, 17:38:29](https://news.ycombinator.com/item?id=45530744) - [Subway Builder: A Realistic Subway Simulation Game](https://www.subwaybuilder.com/)
 * [2025-10-09, 16:56:52](https://news.ycombinator.com/item?id=45530261) - [ESP32 and Termux](https://blog.gavide.dev/blog/esp32-and-termux)
+* [2025-10-09, 16:55:03](https://news.ycombinator.com/item?id=45530234) - [Tariffs Are Way Up. Interest on Debt Tops $1T. and Doge Didn't Do Much](https://www.wsj.com/economy/federal-budget-fiscal-2025-e8d21595)
 * [2025-10-09, 16:49:31](https://news.ycombinator.com/item?id=45530172) - [Fireman Sam (Commodore 64)](http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html)
 * [2025-10-09, 16:16:06](https://news.ycombinator.com/item?id=45529764) - [Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
 * [2025-10-09, 16:15:08](https://news.ycombinator.com/item?id=45529748) - [Goiaba: An experimental Go compiler, written in Rust](https://github.com/raphamorim/goiaba)
