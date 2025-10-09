@@ -6,6 +6,7 @@
 
 * [2025-10-09, 20:27:39](https://news.ycombinator.com/item?id=45532685) - [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
 * [2025-10-09, 20:27:28](https://news.ycombinator.com/item?id=45532680) - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
+* [2025-10-09, 20:00:31](https://news.ycombinator.com/item?id=45532352) - [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
 * [2025-10-09, 19:03:43](https://news.ycombinator.com/item?id=45531721) - [The Government Ate My Name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
 * [2025-10-09, 18:33:17](https://news.ycombinator.com/item?id=45531367) - [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
 * [2025-10-09, 18:25:49](https://news.ycombinator.com/item?id=45531284) - [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
