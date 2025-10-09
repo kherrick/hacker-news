@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-09, 14:07:40",
+      "https://news.ycombinator.com/item?id=45527931"
+    ],
+    [
+      "US opens Tesla probe after more crashes involving its \"full self-driving\"",
+      "https://apnews.com/article/tesla-full-selfdriving-investigation-nhtsa-1f7fe4da8df2abfa03341c30a0f1b8b5"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 13:54:38",
+      "https://news.ycombinator.com/item?id=45527754"
+    ],
+    [
+      "Colombia's president says boat struck by US was carrying Colombians",
+      "https://www.bbc.com/news/articles/c89dz920p0do"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 13:27:14",
       "https://news.ycombinator.com/item?id=45527402"
     ],
@@ -47,16 +67,6 @@
     [
       "'Guilty until proven innocent': Fight between docs and insurers over downcoding",
       "https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 12:19:20",
-      "https://news.ycombinator.com/item?id=45526589"
-    ],
-    [
-      "McKinsey wonders how to sell AI apps with no measurable benefits",
-      "https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-10-06, 12:28:49",
-      "https://news.ycombinator.com/item?id=45490627"
-    ],
-    [
-      "Thoughts on the Word Spec in Rust",
-      "https://tritium.legal/blog/word"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 09:56:03",
       "https://news.ycombinator.com/item?id=45489625"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45488201"
     ],
     [
-      "CPU Cache-Friendly Data Structures in Go: 10x Speed with Same Algorithm",
+      "CPU Cache-Friendly Data Structures in Go",
       "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
     ]
   ],
