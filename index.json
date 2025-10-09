@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 18:33:17",
+      "https://news.ycombinator.com/item?id=45531367"
+    ],
+    [
+      "Hacker News Live Feed",
+      "https://jerbear2008.github.io/hn-live/"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 18:25:49",
       "https://news.ycombinator.com/item?id=45531284"
     ],
@@ -37,6 +47,16 @@
     [
       "Subway Builder: A realistic subway simulation game",
       "https://www.subwaybuilder.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 17:16:28",
+      "https://news.ycombinator.com/item?id=45530486"
+    ],
+    [
+      "LLMs are mortally terrified of exceptions",
+      "https://twitter.com/karpathy/status/1976077806443569355"
     ]
   ],
   [
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2025-10-09, 12:17:54",
-      "https://news.ycombinator.com/item?id=45526582"
-    ],
-    [
-      "Dark patterns: Buying a Bahncard at Deutsche Bahn",
-      "https://www.ketzu.net/dark-patterns-buying-a-bahncard-at-deutsche-bahn/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 11:07:29",
-      "https://news.ycombinator.com/item?id=45526042"
-    ],
-    [
-      "Zippers: Making Functional \"Updates\" Efficient (2010)",
-      "http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 07:40:42",
       "https://news.ycombinator.com/item?id=45524702"
     ],
@@ -245,18 +245,8 @@
       "https://news.ycombinator.com/item?id=45520996"
     ],
     [
-      "What’s So Great About Excellence? (1981)",
+      "What’s so great about excellence? (1981)",
       "https://newrepublic.com/article/108017/whats-so-great-about-excellence"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 13:04:53",
-      "https://news.ycombinator.com/item?id=45490957"
-    ],
-    [
-      "Real-time Nvidia GPU dashboard",
-      "https://github.com/psalias2006/gpu-hot"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "My first contribution to Linux",
       "https://vkoskiv.com/first-linux-patch/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 11:57:33",
+      "https://news.ycombinator.com/item?id=45490403"
+    ],
+    [
+      "A case for learning GPU programming with a compute-first mindset – Maister's Gr",
+      "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/"
     ]
   ],
   [
