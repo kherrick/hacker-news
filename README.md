@@ -17,7 +17,7 @@
 * [2025-10-08, 18:00:34](https://news.ycombinator.com/item?id=45518861) - [Show HN: FleetCode – Open-source UI for running multiple coding agents](https://github.com/built-by-as/FleetCode)
 * [2025-10-08, 17:56:32](https://news.ycombinator.com/item?id=45518813) - [WinBoat: Windows apps on Linux with seamless integration](https://www.winboat.app/)
 * [2025-10-08, 15:17:36](https://news.ycombinator.com/item?id=45517134) - [The RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
-* [2025-10-08, 14:28:06](https://news.ycombinator.com/item?id=45516584) - [Show HN: Recall: Give Claude memory with Redis-backed persistent context](https://www.npmjs.com/package/@joseairosa/recall)
+* [2025-10-08, 15:01:38](https://news.ycombinator.com/item?id=45516968) - [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
 * [2025-10-08, 13:33:15](https://news.ycombinator.com/item?id=45516000) - [We found a bug in Go's ARM64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 10:26:05](https://news.ycombinator.com/item?id=45514433) - [One-man campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
 * [2025-10-06, 19:59:58](https://news.ycombinator.com/item?id=45495607) - [Talk Python in Production](https://talkpython.fm/books/python-in-production)
