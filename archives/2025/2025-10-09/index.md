@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 11:07:29](https://news.ycombinator.com/item?id=45526042) - [Zippers: Making Functional \"Updates\" Efficient (2010)](http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/)
 * [2025-10-09, 09:19:18](https://news.ycombinator.com/item?id=45525336) - [n8n raises $180M to get AI closer to value with orchestration](https://blog.n8n.io/series-c/)
 * [2025-10-09, 08:33:54](https://news.ycombinator.com/item?id=45525041) - [First-in-the-nation law to ban ultra-processed foods from school lunches](https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/)
 * [2025-10-09, 07:30:12](https://news.ycombinator.com/item?id=45524624) - [The React Foundation: The New Home for React and React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
