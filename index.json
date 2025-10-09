@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-10-08, 23:35:15",
-      "https://news.ycombinator.com/item?id=45521836"
+      "2025-10-08, 23:48:28",
+      "https://news.ycombinator.com/item?id=45521920"
     ],
     [
-      "Winter 2025/2026 weather outlook",
-      "https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/"
+      "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
+      "https://larslofgren.com/codesmith-reddit-reputation-attack/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 23:34:42",
+      "https://news.ycombinator.com/item?id=45521833"
+    ],
+    [
+      "Radio Garten",
+      "https://radio.garden/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 23:27:23",
+      "https://news.ycombinator.com/item?id=45521788"
+    ],
+    [
+      "Show HN: HyprMCP – Analytics, logs and auth for MCP servers",
+      "https://github.com/hyprmcp/jetski"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 23:20:13",
+      "https://news.ycombinator.com/item?id=45521738"
+    ],
+    [
+      "Discord says 70k users may have had their government IDs leaked in breach",
+      "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach"
     ]
   ],
   [
@@ -15,28 +45,48 @@
       "https://news.ycombinator.com/item?id=45521704"
     ],
     [
-      "Show HN: PWAscore",
+      "PWA Browser Scorecards",
       "https://pwascore.com/"
     ]
   ],
   [
     [
-      "2025-10-08, 22:47:57",
-      "https://news.ycombinator.com/item?id=45521484"
+      "2025-10-08, 23:04:32",
+      "https://news.ycombinator.com/item?id=45521629"
     ],
     [
-      "Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows",
-      "https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble"
+      "OpenAI, Nvidia fuel $1T AI market with web of circular deals",
+      "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals"
     ]
   ],
   [
     [
-      "2025-10-08, 19:56:54",
-      "https://news.ycombinator.com/item?id=45519944"
+      "2025-10-08, 21:02:34",
+      "https://news.ycombinator.com/item?id=45520615"
     ],
     [
-      "Expanding access to Opal, our no-code AI mini-app builder",
-      "https://blog.google/technology/google-labs/opal-expansion/"
+      "Kurt Got Got",
+      "https://fly.io/blog/kurt-got-got/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 20:20:21",
+      "https://news.ycombinator.com/item?id=45520154"
+    ],
+    [
+      "I played 1k hands of online poker and built a web app with Cursor AI",
+      "https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 19:54:02",
+      "https://news.ycombinator.com/item?id=45519915"
+    ],
+    [
+      "Svelte’s characteristics that likely contribute most to improved performance",
+      "https://chuniversiteit.nl/papers/svelte-is-fast"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "A few things to know before stealing my 914 (2022)",
       "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 18:42:22",
-      "https://news.ycombinator.com/item?id=45519263"
-    ],
-    [
-      "Julia 1.12 highlights",
-      "https://julialang.org/blog/2025/10/julia-1.12-highlights/"
     ]
   ],
   [
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2025-10-08, 12:56:54",
-      "https://news.ycombinator.com/item?id=45515657"
-    ],
-    [
-      "The email they shouldn't have read",
-      "https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 10:26:05",
       "https://news.ycombinator.com/item?id=45514433"
     ],
     [
       "One-man campaign ravages EU 'Chat Control' bill",
       "https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 09:49:36",
-      "https://news.ycombinator.com/item?id=45514164"
-    ],
-    [
-      "Nobel Prize in Chemistry 2025",
-      "https://www.nobelprize.org/prizes/chemistry/2025/popular-information/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-10-06, 11:28:35",
-      "https://news.ycombinator.com/item?id=45490202"
-    ],
-    [
-      "Tire Pressure Sensor IDs: Why, Where and When (2015)",
-      "https://www.tomorrowstechnician.com/tpms-sensor-ids-why-where-and-when/"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 09:06:28",
       "https://news.ycombinator.com/item?id=45489317"
     ],
@@ -227,6 +237,16 @@
     [
       "Why we need SIMD",
       "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 22:06:33",
+      "https://news.ycombinator.com/item?id=45485705"
+    ],
+    [
+      "The agony and ecstasy of restoring a Fra Angelico masterpiece",
+      "https://www.ft.com/content/87d4dcfe-f66a-4aad-bba9-394e9fc77c1d"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-10-05, 00:39:26",
-      "https://news.ycombinator.com/item?id=45477983"
-    ],
-    [
-      "When Curl Works but IntelliJ Doesn't: The Ollama Connection Mystery",
-      "https://blog.tymscar.com/posts/intellijollamaconnectionmystery/"
-    ]
-  ],
-  [
-    [
       "2025-10-04, 18:37:31",
       "https://news.ycombinator.com/item?id=45475556"
     ],
@@ -287,16 +297,6 @@
     [
       "SEC approves Texas Stock Exchange, first new US integrated exchange in decades",
       "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/"
-    ]
-  ],
-  [
-    [
-      "2025-10-04, 09:54:01",
-      "https://news.ycombinator.com/item?id=45472119"
-    ],
-    [
-      "Working pipe operator today in pure JavaScript",
-      "https://github.com/irony/aspipes"
     ]
   ]
 ]
