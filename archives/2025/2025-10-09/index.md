@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 18:33:17](https://news.ycombinator.com/item?id=45531367) - [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
 * [2025-10-09, 18:25:49](https://news.ycombinator.com/item?id=45531284) - [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
 * [2025-10-09, 18:23:43](https://news.ycombinator.com/item?id=45531262) - [Sea Rise Simulator](https://nagix.github.io/sea-level-rise-3d-map/)
 * [2025-10-09, 17:48:23](https://news.ycombinator.com/item?id=45530832) - [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
 * [2025-10-09, 17:38:29](https://news.ycombinator.com/item?id=45530744) - [Subway Builder: A Realistic Subway Simulation Game](https://www.subwaybuilder.com/)
+* [2025-10-09, 17:16:28](https://news.ycombinator.com/item?id=45530486) - [LLMs are mortally terrified of exceptions](https://twitter.com/karpathy/status/1976077806443569355)
 * [2025-10-09, 17:09:22](https://news.ycombinator.com/item?id=45530388) - [Show HN: I Wrote a Full Text Search Engine from Scratch in Go](https://github.com/wizenheimer/blaze)
 * [2025-10-09, 16:56:52](https://news.ycombinator.com/item?id=45530261) - [ESP32 and Termux](https://blog.gavide.dev/blog/esp32-and-termux)
 * [2025-10-09, 16:55:03](https://news.ycombinator.com/item?id=45530234) - [Tariffs Are Way Up. Interest on Debt Tops $1T. and Doge Didn't Do Much](https://www.wsj.com/economy/federal-budget-fiscal-2025-e8d21595)
