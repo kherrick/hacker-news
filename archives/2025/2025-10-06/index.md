@@ -74,6 +74,7 @@
 * [2025-10-06, 09:49:33](https://news.ycombinator.com/item?id=45489581) - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
 * [2025-10-06, 09:41:16](https://news.ycombinator.com/item?id=45489533) - [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
 * [2025-10-06, 09:06:28](https://news.ycombinator.com/item?id=45489317) - [A terminal command that tells you if your USB-C cable is bad](https://kau.sh/blog/usbi/)
+* [2025-10-06, 09:06:12](https://news.ycombinator.com/item?id=45489311) - [Neutts-air – open-source, on device TTS](https://github.com/neuphonic/neutts-air)
 * [2025-10-06, 08:59:16](https://news.ycombinator.com/item?id=45489263) - [Bulk Operations in Boost.Bloom](http://bannalia.blogspot.com/2025/10/bulk-operations-in-boostbloom.html)
 * [2025-10-06, 08:51:02](https://news.ycombinator.com/item?id=45489191) - [A Tissue Therapeutics Revolution](https://cutiss.swiss/)
 * [2025-10-06, 08:49:30](https://news.ycombinator.com/item?id=45489174) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
