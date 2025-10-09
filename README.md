@@ -5,7 +5,7 @@
 * [2025-10-09, 14:24:22](https://news.ycombinator.com/item?id=45528141) - [Silver Trades to $50 an Ounce](https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/)
 * [2025-10-09, 13:55:04](https://news.ycombinator.com/item?id=45527758) - [TIL: Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
 * [2025-10-09, 13:36:01](https://news.ycombinator.com/item?id=45527507) - [Using a Laptop as an HDMI Monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/)
-* [2025-10-09, 13:27:14](https://news.ycombinator.com/item?id=45527402) - [Introducing Figure 03](https://www.figure.ai/news/introducing-figure-03)
+* [2025-10-09, 13:27:14](https://news.ycombinator.com/item?id=45527402) - [Figure 03, our 3rd generation humanoid robot](https://www.figure.ai/news/introducing-figure-03)
 * [2025-10-09, 13:05:54](https://news.ycombinator.com/item?id=45527156) - [The C++ programmer and educator Rainer Grimm has passed away](https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/)
 * [2025-10-09, 12:54:18](https://news.ycombinator.com/item?id=45527003) - [Nobel Prize in Literature 2025: László Krasznahorkai](https://www.nobelprize.org/prizes/literature/2025/press-release/)
 * [2025-10-09, 12:45:28](https://news.ycombinator.com/item?id=45526890) - [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
