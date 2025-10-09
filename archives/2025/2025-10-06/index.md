@@ -13,6 +13,7 @@
 * [2025-10-06, 20:34:36](https://news.ycombinator.com/item?id=45496005) - [Being blocked from contributing to lodash](https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/)
 * [2025-10-06, 20:09:44](https://news.ycombinator.com/item?id=45495738) - [Translating Cython to Mojo, a first attempt](https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/)
 * [2025-10-06, 20:07:25](https://news.ycombinator.com/item?id=45495711) - [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
+* [2025-10-06, 19:59:58](https://news.ycombinator.com/item?id=45495607) - [Talk Python in Production](https://talkpython.fm/books/python-in-production)
 * [2025-10-06, 18:43:00](https://news.ycombinator.com/item?id=45494730) - [Nearly half of drivers killed in (Ohio County) crashes had THC in their blood](https://www.sciencedaily.com/releases/2025/10/251005085621.htm)
 * [2025-10-06, 18:30:46](https://news.ycombinator.com/item?id=45494592) - [OpenZL: A Novel Data Compression Framework](https://github.com/facebook/openzl)
 * [2025-10-06, 18:27:33](https://news.ycombinator.com/item?id=45494558) - [Open AI: Apps SDK](https://developers.openai.com/apps-sdk/)

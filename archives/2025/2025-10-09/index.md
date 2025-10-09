@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 05:29:50](https://news.ycombinator.com/item?id=45523871) - [Download all of your GitHub data](https://github.blog/developer-skills/github/download-your-data/)
 * [2025-10-09, 04:37:11](https://news.ycombinator.com/item?id=45523553) - [Starlink is burning up one or two satellites a day in Earth's atmosphere](https://www.theregister.com/2025/10/06/starlink_vaporizes_satellites_daily/)
+* [2025-10-09, 04:33:48](https://news.ycombinator.com/item?id=45523537) - [Two things LLM coding agents are still bad at](https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/)
 * [2025-10-09, 02:59:34](https://news.ycombinator.com/item?id=45523033) - [California enacts law to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
 * [2025-10-09, 02:29:08](https://news.ycombinator.com/item?id=45522868) - [Tonight's Restaurant Dinner Fell Off the Sysco Truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
 * [2025-10-09, 02:26:50](https://news.ycombinator.com/item?id=45522855) - [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
