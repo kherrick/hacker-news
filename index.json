@@ -1,22 +1,52 @@
 [
   [
     [
-      "2025-10-09, 14:07:40",
-      "https://news.ycombinator.com/item?id=45527931"
+      "2025-10-09, 14:39:29",
+      "https://news.ycombinator.com/item?id=45528347"
     ],
     [
-      "US opens Tesla probe after more crashes involving its \"full self-driving\"",
-      "https://apnews.com/article/tesla-full-selfdriving-investigation-nhtsa-1f7fe4da8df2abfa03341c30a0f1b8b5"
+      "The great software quality collapse or, how we normalized catastrophe",
+      "https://techtrenches.substack.com/p/the-great-software-quality-collapse"
     ]
   ],
   [
     [
-      "2025-10-09, 13:54:38",
-      "https://news.ycombinator.com/item?id=45527754"
+      "2025-10-09, 14:39:12",
+      "https://news.ycombinator.com/item?id=45528342"
     ],
     [
-      "Colombia's president says boat struck by US was carrying Colombians",
-      "https://www.bbc.com/news/articles/c89dz920p0do"
+      "Why Self-Host?",
+      "https://romanzipp.com/blog/why-a-homelab-why-self-host"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 14:24:22",
+      "https://news.ycombinator.com/item?id=45528141"
+    ],
+    [
+      "Silver Trades to $50 an Ounce",
+      "https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 13:55:04",
+      "https://news.ycombinator.com/item?id=45527758"
+    ],
+    [
+      "TIL: Python's splitlines does more than just newlines",
+      "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 13:36:01",
+      "https://news.ycombinator.com/item?id=45527507"
+    ],
+    [
+      "Using a Laptop as an HDMI Monitor for an SBC",
+      "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"
     ]
   ],
   [
@@ -61,26 +91,6 @@
   ],
   [
     [
-      "2025-10-09, 12:36:05",
-      "https://news.ycombinator.com/item?id=45526754"
-    ],
-    [
-      "'Guilty until proven innocent': Fight between docs and insurers over downcoding",
-      "https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 12:17:54",
-      "https://news.ycombinator.com/item?id=45526582"
-    ],
-    [
-      "Dark Patterns: Buying a Bahncard at Deutsche Bahn",
-      "https://www.ketzu.net/dark-patterns-buying-a-bahncard-at-deutsche-bahn/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 11:07:29",
       "https://news.ycombinator.com/item?id=45526042"
     ],
@@ -97,16 +107,6 @@
     [
       "N8n raises $180M",
       "https://blog.n8n.io/series-c/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 09:14:58",
-      "https://news.ycombinator.com/item?id=45525303"
-    ],
-    [
-      "QUIC and the End of TCP Sockets",
-      "https://codemia.io/blog/path/QUIC-and-the-End-of-TCP-Sockets-How-User-Space-Transport-Rewrites-Flow-Control"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Designing a Low Latency 10G Ethernet Core (2023)",
       "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 23:48:28",
-      "https://news.ycombinator.com/item?id=45521920"
-    ],
-    [
-      "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
-      "https://larslofgren.com/codesmith-reddit-reputation-attack/"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2025-10-06, 12:40:11",
+      "https://news.ycombinator.com/item?id=45490721"
+    ],
+    [
+      "Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)",
+      "https://dunkels.com/adam/stress-testing-next-generation-beacons/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 09:56:03",
       "https://news.ycombinator.com/item?id=45489625"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45488201"
     ],
     [
-      "CPU Cache-Friendly Data Structures in Go",
+      "CPU cache-friendly data structures in Go",
       "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
     ]
   ],
