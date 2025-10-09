@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 07:30:12](https://news.ycombinator.com/item?id=45524624) - [The React Foundation: The New Home for React and React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
+* [2025-10-09, 07:11:29](https://news.ycombinator.com/item?id=45524502) - [Man gets drunk, wakes up with a medical mystery that nearly kills him](https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/)
 * [2025-10-09, 07:01:07](https://news.ycombinator.com/item?id=45524437) - [The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer)
 * [2025-10-09, 06:39:30](https://news.ycombinator.com/item?id=45524293) - [The Unknotting Number Is Not Additive](https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/)
 * [2025-10-09, 05:29:50](https://news.ycombinator.com/item?id=45523871) - [Download all of your GitHub data](https://github.blog/developer-skills/github/download-your-data/)
