@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-09, 22:58:31](https://news.ycombinator.com/item?id=45533902) - [How to Write in Cuneiform, the Oldest Writing System in the World](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
+* [2025-10-09, 22:53:39](https://news.ycombinator.com/item?id=45533870) - [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
 * [2025-10-09, 21:18:29](https://news.ycombinator.com/item?id=45533208) - [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
 * [2025-10-09, 20:27:39](https://news.ycombinator.com/item?id=45532685) - [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
 * [2025-10-09, 20:27:28](https://news.ycombinator.com/item?id=45532680) - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
@@ -18,7 +19,6 @@
 * [2025-10-09, 15:51:20](https://news.ycombinator.com/item?id=45529393) - [Show HN: I've built a tiny hand-held keyboard](https://github.com/mafik/keyer)
 * [2025-10-09, 14:36:52](https://news.ycombinator.com/item?id=45528308) - [New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice](https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/)
 * [2025-10-09, 13:55:04](https://news.ycombinator.com/item?id=45527758) - [Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
-* [2025-10-09, 13:36:01](https://news.ycombinator.com/item?id=45527507) - [Using a laptop as an HDMI monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/)
 * [2025-10-09, 13:27:14](https://news.ycombinator.com/item?id=45527402) - [Figure 03, our 3rd generation humanoid robot](https://www.figure.ai/news/introducing-figure-03)
 * [2025-10-09, 12:45:28](https://news.ycombinator.com/item?id=45526890) - [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
 * [2025-10-09, 12:36:05](https://news.ycombinator.com/item?id=45526754) - [The fight between doctors and insurance companies over 'downcoding'](https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714)
