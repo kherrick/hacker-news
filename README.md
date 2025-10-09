@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-09, 04:37:11](https://news.ycombinator.com/item?id=45523553) - [Starlink is burning up one or two satellites a day in Earth's atmosphere](https://www.theregister.com/2025/10/06/starlink_vaporizes_satellites_daily/)
 * [2025-10-09, 02:59:34](https://news.ycombinator.com/item?id=45523033) - [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
-* [2025-10-09, 02:29:08](https://news.ycombinator.com/item?id=45522868) - [Tonight's restaurant dinner fell off the Sysco truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
-* [2025-10-09, 02:26:50](https://news.ycombinator.com/item?id=45522855) - [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
 * [2025-10-09, 01:17:20](https://news.ycombinator.com/item?id=45522406) - [Designing a Low Latency 10G Ethernet Core (2023)](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
 * [2025-10-09, 01:02:20](https://news.ycombinator.com/item?id=45522318) - [In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies](https://academic.oup.com/poq/article/89/2/459/8152104?login=false)
 * [2025-10-08, 23:48:28](https://news.ycombinator.com/item?id=45521920) - [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/)
@@ -23,6 +22,7 @@
 * [2025-10-06, 16:17:15](https://news.ycombinator.com/item?id=45492977) - [Sora, AI Bicycles, and Meta Disruption](https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/)
 * [2025-10-06, 10:48:33](https://news.ycombinator.com/item?id=45489925) - [A Global Mining Dataset](https://tech.marksblogg.com/icmm-mining-data.html)
 * [2025-10-06, 09:06:28](https://news.ycombinator.com/item?id=45489317) - [A macOS terminal command that tells you if your USB-C cable is bad](https://kau.sh/blog/usbi/)
+* [2025-10-06, 08:13:47](https://news.ycombinator.com/item?id=45488892) - [A History of Large Language Models](https://gregorygundersen.com/blog/2025/10/01/large-language-models/)
 * [2025-10-06, 03:10:13](https://news.ycombinator.com/item?id=45487310) - [Why we need SIMD](https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason)
 * [2025-10-06, 00:52:26](https://news.ycombinator.com/item?id=45486622) - [Rejected announces from libtorrent clients proxying through SOCKS](https://catgirl.online/2025/10/01/libtorrent-socks-woes)
 * [2025-10-05, 20:34:28](https://news.ycombinator.com/item?id=45484999) - [Memory access is O(N^[1/3])](https://vitalik.eth.limo/general/2025/10/05/memory13.html)
