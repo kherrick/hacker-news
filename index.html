@@ -142,11 +142,11 @@
             <h4>
               <span>2025-10-09 @ 08:33:54</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45525041"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2025-10-09 @ 07:30:12</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45524624"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -185,11 +185,11 @@
             <h4>
               <span>2025-10-09 @ 07:11:29</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45524502"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -224,11 +224,11 @@
             <h4>
               <span>2025-10-09 @ 06:39:30</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45524293"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -249,7 +249,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45523537"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -267,7 +267,7 @@
             <h4>
               <span>2025-10-09 @ 02:59:34</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">337</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45523033"
                   >Comments</a
@@ -288,7 +288,7 @@
             <h4>
               <span>2025-10-09 @ 01:17:20</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45522406"
                   >Comments</a
@@ -310,119 +310,15 @@
             <h4>
               <span>2025-10-08 @ 23:48:28</span
               ><span class="points-container"
-                >Points: <span class="points">667</span></span
+                >Points: <span class="points">677</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45521920"
                   >Comments</a
-                ><span class="descendants">: 413</span></span
+                ><span class="descendants">: 430</span></span
               >
             </h4>
             <div class="text">
               <a href="https://archive.ph/w0izj">https://archive.ph/w0izj</a>
-            </div>
-          </section>
-        </section>
-        <section id="45521788">
-          <h3>
-            <a class="item" href="https://github.com/hyprmcp/jetski"
-              >Show HN: HyprMCP – Analytics, logs and auth for MCP servers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-08 @ 23:27:23</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45521788"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                This project started when we did what everyone was doing —
-                building a remote MCP server and launching it. Building the
-                first local MCP server for testing was quite simple, and we had
-                our first tools ready within a day. The next step was turning
-                that into a production-ready remote MCP server.
-              </p>
-              <p>
-                As we exposed the MCP server to our users, we wanted to
-                authenticate them with our existing authentication methods. We
-                dove deep into authentication. Our approach was to build an auth
-                proxy and plug it in front of our MCP. It took a while to figure
-                out Dynamic Client Registration (DCR) and the OAuth spec, and
-                especially the gaps between existing OIDC IDPs and what LLM
-                clients needed.
-              </p>
-              <p>
-                We thought authentication would be the hard part — but it
-                wasn’t. When we shared the MCP server with a few friendly
-                startups, we realized that different MCP clients behave
-                differently. Especially if something didn't work, it was hard to
-                figure out the root cause. We ended up storing all the raw gRPC
-                method calls to see if the initialization and subsequent
-                requests worked. This is especially useful if you are on a
-                serverless environment with limited debugging functionality,
-                like Cloudflare Workers.
-              </p>
-              <p>
-                Once we solved auth and compatibility, we launched to a small
-                customer base — done, right? Unfortunately, not quite.
-                Technically everything was working, but when we started talking
-                to users, they told us the MCP server didn’t always respond with
-                the right tools for their prompts. We had a working
-                enterprise-grade MCP server — but it wasn’t very smart. After
-                talking to some startup friends, we realized we needed an
-                evaluation layer. That’s when we added prompt analytics —
-                letting us see which prompts triggered which tools and how well
-                they performed. That alone dramatically improved our MCP’s
-                behavior and overall user experience.
-              </p>
-              <p>
-                After building all of this into our proxy, we realized that
-                everyone building a remote MCP was facing the same challenges.
-                So we decided to package it all up and release it to the
-                community.
-              </p>
-              <p>
-                We’re thrilled to launch and open-source HyprMCP. It acts as a
-                proxy that you can plug in front of your MCP server(s) with zero
-                code changes. You get authentication, logging and debugging,
-                prompt analytics, and an MCP connection instructions generator.
-              </p>
-              <p>
-                Under the hood, HyprMCP leverages dynamic Kubernetes Operators
-                (Metacontroller) to automate infrastructure provisioning.
-              </p>
-              <p>
-                On the roadmap: MCP aggregation — combining multiple MCP servers
-                under one single remote URL for large organizations running
-                servers with different lifecycles. All of it without storing end
-                user credentials on the server and connecting the MCP to the
-                organizations existing authentication methods.
-              </p>
-              <p>
-                You can check the project out on GitHub:
-                <a href="https://github.com/hyprmcp/jetski"
-                  >https://github.com/hyprmcp/jetski</a
-                >
-              </p>
-              <p>
-                For testing, we also have a hosted version here:
-                <a href="https://app.hyprmcp.com">https://app.hyprmcp.com</a>
-              </p>
-              <p>
-                We even created a demo video on YouTube:
-                <a href="https://www.youtube.com/watch?v=m2-YyfjXap4"
-                  >https://www.youtube.com/watch?v=m2-YyfjXap4</a
-                >
-              </p>
-              <p>
-                We’d love to get your feedback, hear what features are missing,
-                and learn how you’re building and running your own MCP servers.
-              </p>
             </div>
           </section>
         </section>
@@ -439,11 +335,11 @@
             <h4>
               <span>2025-10-08 @ 23:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">476</span></span
+                >Points: <span class="points">485</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45521738"
                   >Comments</a
-                ><span class="descendants">: 245</span></span
+                ><span class="descendants">: 246</span></span
               >
             </h4>
           </section>
@@ -460,11 +356,11 @@
             <h4>
               <span>2025-10-08 @ 23:04:32</span
               ><span class="points-container"
-                >Points: <span class="points">241</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45521629"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 176</span></span
               >
             </h4>
             <div class="text">
@@ -486,11 +382,11 @@
             <h4>
               <span>2025-10-08 @ 21:02:34</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">263</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45520615"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -512,7 +408,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45520154"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 128</span></span
               >
             </h4>
           </section>
@@ -529,11 +425,11 @@
             <h4>
               <span>2025-10-08 @ 19:16:10</span
               ><span class="points-container"
-                >Points: <span class="points">304</span></span
+                >Points: <span class="points">305</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45519575"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
           </section>
@@ -588,11 +484,11 @@
             <h4>
               <span>2025-10-08 @ 17:56:32</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45518813"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -609,13 +505,90 @@
             <h4>
               <span>2025-10-08 @ 15:17:36</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45517134"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="45516584">
+          <h3>
+            <a
+              class="item"
+              href="https://www.npmjs.com/package/@joseairosa/recall"
+              >Show HN: Recall: Give Claude memory with Redis-backed persistent
+              context</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-08 @ 14:28:06</span
+              ><span class="points-container"
+                >Points: <span class="points">157</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45516584"
+                  >Comments</a
+                ><span class="descendants">: 86</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The Problem: I use Claude for coding daily, but every
+                conversation starts from scratch. I'd explain my architecture,
+                coding standards, past decisions... then hit the context limit
+                and lose everything. Next session? Start over.
+              </p>
+              <p>
+                The Solution: Recall is an MCP (Model Context Protocol) server
+                that gives Claude persistent memory using Redis + semantic
+                search. Think of it as long-term memory that survives context
+                limits and session restarts.
+              </p>
+              <p>
+                How it works: - Claude stores important context as "memories"
+                during conversations - Memories are embedded (OpenAI) and stored
+                in Redis with metadata - Semantic search retrieves relevant
+                memories automatically - Works across sessions, projects, even
+                machines (if you use cloud Redis)
+              </p>
+              <p>
+                Key Features: - Global memories: Share context across all
+                projects - Relationships: Link related memories into knowledge
+                graphs - Versioning: Track how memories evolve over time -
+                Templates: Reusable patterns for common workflows - Workspace
+                isolation: Project A memories don't pollute Project B
+              </p>
+              <p>
+                Tech Stack: - TypeScript + MCP SDK - Redis for storage - OpenAI
+                embeddings (text-embedding-3-small) - ~189KB bundle, runs
+                locally
+              </p>
+              <p>
+                Current Stats: - 27 tools exposed to Claude - 10 context types
+                (directives, decisions, patterns, etc.) - Sub-second semantic
+                search on 10k+ memories - Works with Claude Desktop, Claude
+                Code, any MCP client
+              </p>
+              <p>
+                Example Use Case: I'm building an e-commerce platform. I told
+                Claude once: "We use Tailwind, prefer composition API, API rate
+                limit is 1000/min." Now every conversation, Claude remembers and
+                applies these preferences automatically.
+              </p>
+              <p>
+                What's Next (v1.6.0 in progress): - CI/CD pipeline with GitHub
+                Actions - Docker support for easy deployment - Proper test suite
+                with Vitest - Better error messages and logging
+              </p>
+              <p>Try it:</p>
+              <p>
+                npm install -g @joseairosa/recall # Add to
+                claude_desktop_config.json # Start using persistent memory
+              </p>
+            </div>
           </section>
         </section>
         <section id="45516000">
@@ -630,7 +603,7 @@
             <h4>
               <span>2025-10-08 @ 13:33:15</span
               ><span class="points-container"
-                >Points: <span class="points">718</span></span
+                >Points: <span class="points">720</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45516000"
                   >Comments</a
@@ -651,11 +624,11 @@
             <h4>
               <span>2025-10-08 @ 10:26:05</span
               ><span class="points-container"
-                >Points: <span class="points">603</span></span
+                >Points: <span class="points">604</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45514433"
                   >Comments</a
-                ><span class="descendants">: 201</span></span
+                ><span class="descendants">: 202</span></span
               >
             </h4>
             <div class="text">
@@ -681,7 +654,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45495607"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -696,11 +669,30 @@
             <h4>
               <span>2025-10-06 @ 12:28:49</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45490627"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="45489625">
+          <h3>
+            <a class="item" href="https://www.debuggingbook.org/"
+              >The Debugging Book</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-06 @ 09:56:03</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45489625"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -717,7 +709,7 @@
             <h4>
               <span>2025-10-06 @ 08:13:47</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45488892"
                   >Comments</a
@@ -738,7 +730,7 @@
             <h4>
               <span>2025-10-06 @ 03:10:13</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45487310"
                   >Comments</a
@@ -760,30 +752,11 @@
             <h4>
               <span>2025-10-06 @ 00:52:26</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45486622"
                   >Comments</a
                 ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45484123">
-          <h3>
-            <a class="item" href="https://www.aerolane.com/"
-              >Aerocart cargo gliders</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-05 @ 18:49:31</span
-              ><span class="points-container"
-                >Points: <span class="points">89</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45484123"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -800,11 +773,11 @@
             <h4>
               <span>2025-10-05 @ 15:23:21</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45482198"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -822,11 +795,11 @@
             <h4>
               <span>2025-10-05 @ 13:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45481417"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -843,11 +816,11 @@
             <h4>
               <span>2025-10-04 @ 18:37:31</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45475556"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -869,7 +842,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45474301"
                   >Comments</a
-                ><span class="descendants">: 399</span></span
+                ><span class="descendants">: 400</span></span
               >
             </h4>
           </section>
