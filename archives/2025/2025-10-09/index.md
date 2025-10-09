@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 19:03:43](https://news.ycombinator.com/item?id=45531721) - [The Government Ate My Name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
 * [2025-10-09, 18:33:17](https://news.ycombinator.com/item?id=45531367) - [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
 * [2025-10-09, 18:25:49](https://news.ycombinator.com/item?id=45531284) - [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
 * [2025-10-09, 18:23:43](https://news.ycombinator.com/item?id=45531262) - [Sea Rise Simulator](https://nagix.github.io/sea-level-rise-3d-map/)

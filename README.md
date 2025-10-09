@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-09, 19:03:43](https://news.ycombinator.com/item?id=45531721) - [The Government Ate My Name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
 * [2025-10-09, 18:33:17](https://news.ycombinator.com/item?id=45531367) - [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
 * [2025-10-09, 18:25:49](https://news.ycombinator.com/item?id=45531284) - [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
 * [2025-10-09, 18:23:43](https://news.ycombinator.com/item?id=45531262) - [Sea Rise Simulator (2023)](https://nagix.github.io/sea-level-rise-3d-map/)
@@ -13,7 +14,6 @@
 * [2025-10-09, 16:04:04](https://news.ycombinator.com/item?id=45529587) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 16:03:06](https://news.ycombinator.com/item?id=45529577) - [Cybersecurity training programs don't prevent phishing scams](https://today.ucsd.edu/story/cybersecurity-training-programs-dont-prevent-employees-from-falling-for-phishing-scams)
 * [2025-10-09, 15:51:20](https://news.ycombinator.com/item?id=45529393) - [Show HN: I've built a tiny hand-held keyboard](https://github.com/mafik/keyer)
-* [2025-10-09, 14:39:12](https://news.ycombinator.com/item?id=45528342) - [Why Self-Host?](https://romanzipp.com/blog/why-a-homelab-why-self-host)
 * [2025-10-09, 14:36:52](https://news.ycombinator.com/item?id=45528308) - [New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice](https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/)
 * [2025-10-09, 13:55:04](https://news.ycombinator.com/item?id=45527758) - [Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
 * [2025-10-09, 13:36:01](https://news.ycombinator.com/item?id=45527507) - [Using a laptop as an HDMI monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/)
