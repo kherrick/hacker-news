@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 23:54:31](https://news.ycombinator.com/item?id=45534227) - [Time Warp IDE – Complete environment for old-school coding](https://github.com/James-HoneyBadger/Time_Warp)
 * [2025-10-09, 22:58:31](https://news.ycombinator.com/item?id=45533902) - [How to Write in Cuneiform, the Oldest Writing System in the World](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
 * [2025-10-09, 22:53:39](https://news.ycombinator.com/item?id=45533870) - [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
 * [2025-10-09, 21:18:29](https://news.ycombinator.com/item?id=45533208) - [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
