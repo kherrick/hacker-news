@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 17:01:04](https://news.ycombinator.com/item?id=45541125) - [2025.41: It's OpenAI's World, We're Just Living in It](https://stratechery.com/2025/its-openais-world-were-just-living-in-it/)
 * [2025-10-10, 16:49:09](https://news.ycombinator.com/item?id=45540989) - [Regarding the Compact – MIT President](https://president.mit.edu/writing-speeches/regarding-compact)
 * [2025-10-10, 16:15:58](https://news.ycombinator.com/item?id=45540615) - [Fascism Can't Mean Both a Specific Ideology and a Legitimate Target](https://www.astralcodexten.com/p/fascism-cant-mean-both-a-specific)
 * [2025-10-10, 16:13:06](https://news.ycombinator.com/item?id=45540585) - [Boring Company cited for almost 800 environmental violations in Las Vegas](https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop)
