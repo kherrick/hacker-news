@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-10-10, 03:12:44",
+      "https://news.ycombinator.com/item?id=45535082"
+    ],
+    [
+      "Managing Encrypted Filesystems with dirlock",
+      "https://lwn.net/Articles/1038859/"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 02:30:58",
       "https://news.ycombinator.com/item?id=45534922"
     ],
@@ -157,16 +167,6 @@
     [
       "LLMs are mortally terrified of exceptions",
       "https://twitter.com/karpathy/status/1976077806443569355"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 17:09:22",
-      "https://news.ycombinator.com/item?id=45530388"
-    ],
-    [
-      "Show HN: I wrote a full text search engine in Go",
-      "https://github.com/wizenheimer/blaze"
     ]
   ],
   [
