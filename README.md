@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-10, 19:16:52](https://news.ycombinator.com/item?id=45542673) - [MIT Rejects White House Offer for Special Funding Treatment](https://web.archive.org/web/20251010162855/https://www.nytimes.com/2025/10/10/us/mit-rejects-white-house-compact.html)
 * [2025-10-10, 18:55:30](https://news.ycombinator.com/item?id=45542444) - [Does our \"need for speed\" make our Wi-Fi suck? Yes.](https://orb.net/blog/does-speed-make-wifi-suck)
 * [2025-10-10, 18:53:22](https://news.ycombinator.com/item?id=45542423) - [Toyota aims to launch the ' first' all-solid-state EV batteries](https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/)
 * [2025-10-10, 18:25:08](https://news.ycombinator.com/item?id=45542145) - [Google, Meta and Microsoft opts to stop showing political ads in EU](https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/)
@@ -8,6 +7,7 @@
 * [2025-10-10, 17:01:04](https://news.ycombinator.com/item?id=45541125) - [It's OpenAI's world, we're just living in it](https://stratechery.com/2025/its-openais-world-were-just-living-in-it/)
 * [2025-10-10, 16:49:09](https://news.ycombinator.com/item?id=45540989) - [Regarding the Compact](https://president.mit.edu/writing-speeches/regarding-compact)
 * [2025-10-10, 15:37:27](https://news.ycombinator.com/item?id=45540171) - [Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments](https://github.com/diffplug/gitcasso)
+* [2025-10-10, 15:18:42](https://news.ycombinator.com/item?id=45540011) - [You can't build tcc from Nixpkgs if you are in the UK](https://github.com/NixOS/nixpkgs/issues/444342)
 * [2025-10-10, 15:11:04](https://news.ycombinator.com/item?id=45539943) - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
 * [2025-10-10, 15:00:51](https://news.ycombinator.com/item?id=45539845) - [The Molecular Basis of Long Covid Brain Fog](https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html)
 * [2025-10-10, 14:37:31](https://news.ycombinator.com/item?id=45539609) - [Notes on switching to Helix from Vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
@@ -25,7 +25,7 @@
 * [2025-10-09, 19:34:36](https://news.ycombinator.com/item?id=45532090) - [Examples Are the Best Documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Source-available transmission electron microscope](https://nanomi.org/)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
-* [2025-10-06, 12:44:43](https://news.ycombinator.com/item?id=45490760) - [Ask HN: Apple won't let me sign up for the developer program. What do I do?](https://news.ycombinator.com/item?id=45490760)
+* [2025-10-06, 15:53:29](https://news.ycombinator.com/item?id=45492704) - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
 * [2025-10-06, 12:42:19](https://news.ycombinator.com/item?id=45490740) - [Ask HN: What's the best hackable smart TV?](https://news.ycombinator.com/item?id=45490740)
 * [2025-10-06, 10:18:20](https://news.ycombinator.com/item?id=45489757) - [Ohno Type School: A (2020)](https://ohnotype.co/blog/ohno-type-school-a)
 * [2025-10-05, 23:02:26](https://news.ycombinator.com/item?id=45486035) - [After nine years of grinding, Replit found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
