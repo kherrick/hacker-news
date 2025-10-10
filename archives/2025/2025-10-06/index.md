@@ -32,6 +32,7 @@
 * [2025-10-06, 16:43:23](https://news.ycombinator.com/item?id=45493255) - [The worrying kink in this job openings, unemployment curve](https://www.axios.com/2025/10/06/jobs-unemployment-fed-interest-rates)
 * [2025-10-06, 16:33:43](https://news.ycombinator.com/item?id=45493158) - [An MVCC-like columnar table on S3 with constant-time deletes](https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/)
 * [2025-10-06, 16:32:30](https://news.ycombinator.com/item?id=45493143) - [One to two Starlink satellites are falling back to Earth each day](https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/)
+* [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
 * [2025-10-06, 16:17:15](https://news.ycombinator.com/item?id=45492977) - [Sora, AI Bicycles, and Meta Disruption](https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/)
 * [2025-10-06, 16:09:22](https://news.ycombinator.com/item?id=45492888) - [\"Be Different\" doesn't work for building products anymore](https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building)
 * [2025-10-06, 16:02:44](https://news.ycombinator.com/item?id=45492809) - [The product of the railways is the timetable](https://springbett.substack.com/p/the-product-of-the-railways-is-the)
