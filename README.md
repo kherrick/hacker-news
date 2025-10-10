@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-09, 23:54:31](https://news.ycombinator.com/item?id=45534227) - [Time Warp IDE – Complete environment for old-school coding](https://github.com/James-HoneyBadger/Time_Warp)
-* [2025-10-09, 22:58:31](https://news.ycombinator.com/item?id=45533902) - [How to write in Cuneiform, the oldest writing system in the world](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
+* [2025-10-09, 22:58:31](https://news.ycombinator.com/item?id=45533902) - [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
 * [2025-10-09, 22:53:39](https://news.ycombinator.com/item?id=45533870) - [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
 * [2025-10-09, 21:18:29](https://news.ycombinator.com/item?id=45533208) - [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
 * [2025-10-09, 20:27:39](https://news.ycombinator.com/item?id=45532685) - [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
@@ -27,8 +27,8 @@
 * [2025-10-06, 12:31:32](https://news.ycombinator.com/item?id=45490652) - [My first contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 * [2025-10-06, 12:25:11](https://news.ycombinator.com/item?id=45490591) - [Show HN: Turn your OpenAPI spec into negative tests](https://github.com/dochia-dev/dochia-cli)
 * [2025-10-06, 12:05:20](https://news.ycombinator.com/item?id=45490461) - [How to Create an IoT App in Kotlin Multiplatform](https://www.thedroidsonroids.com/blog/how-to-create-an-iot-app-in-kotlin-multiplatform)
-* [2025-10-06, 11:57:33](https://news.ycombinator.com/item?id=45490403) - [A case for learning GPU programming with a compute-first mindset](https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/)
 * [2025-10-06, 10:40:28](https://news.ycombinator.com/item?id=45489884) - [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/)
+* [2025-10-06, 10:39:50](https://news.ycombinator.com/item?id=45489881) - [ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs](https://github.com/scribeocr/scribeocr)
 * [2025-10-06, 09:06:12](https://news.ycombinator.com/item?id=45489311) - [Neutts-air – Open-source, on device TTS](https://github.com/neuphonic/neutts-air)
 
 ## [Archives](archives/index.md)
