@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-10-10, 13:44:33",
-      "https://news.ycombinator.com/item?id=45538963"
-    ],
-    [
-      "Telegram's founder Pavel Durov sends alarmist message to all Telegram users",
-      "https://news.ycombinator.com/item?id=45538963"
-    ]
-  ],
-  [
-    [
       "2025-10-10, 13:27:43",
       "https://news.ycombinator.com/item?id=45538760"
     ],
@@ -77,16 +67,6 @@
     [
       "Bringing Desktop Linux GUIs to Android: The Next Step in Graphical App Support",
       "https://www.linuxjournal.com/content/bringing-desktop-linux-guis-android-next-step-graphical-app-support"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 10:52:56",
-      "https://news.ycombinator.com/item?id=45537372"
-    ],
-    [
-      "Htmx, Datastar, Greedy Developer",
-      "https://drshapeless.com/blog/posts/htmx,-datastar,-greedy-developer.html"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2025-10-09, 17:38:29",
+      "https://news.ycombinator.com/item?id=45530744"
+    ],
+    [
+      "Subway Builder: A realistic subway simulation game",
+      "https://www.subwaybuilder.com/"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 17:16:28",
       "https://news.ycombinator.com/item?id=45530486"
     ],
@@ -267,6 +257,16 @@
     [
       "Origami Patterns Solve a Major Physics Riddle",
       "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 13:15:00",
+      "https://news.ycombinator.com/item?id=45491057"
+    ],
+    [
+      "A beginner's guide to deploying LLMs with AMD on Windows using PyTorch",
+      "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/"
     ]
   ],
   [
