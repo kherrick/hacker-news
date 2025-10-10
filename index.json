@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-10, 18:55:30",
+      "https://news.ycombinator.com/item?id=45542444"
+    ],
+    [
+      "Does our \"need for speed\" make our Wi-Fi suck? Yes.",
+      "https://orb.net/blog/does-speed-make-wifi-suck"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 18:53:22",
+      "https://news.ycombinator.com/item?id=45542423"
+    ],
+    [
+      "Toyota aims to launch the ' first' all-solid-state EV batteries",
+      "https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 18:25:08",
       "https://news.ycombinator.com/item?id=45542145"
     ],
@@ -27,16 +47,6 @@
     [
       "It's OpenAI's world, we're just living in it",
       "https://stratechery.com/2025/its-openais-world-were-just-living-in-it/"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 16:49:09",
-      "https://news.ycombinator.com/item?id=45540989"
-    ],
-    [
-      "Regarding the Compact",
-      "https://president.mit.edu/writing-speeches/regarding-compact"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-10-10, 09:03:16",
-      "https://news.ycombinator.com/item?id=45536700"
-    ],
-    [
-      "Nobel Peace Prize 2025: María Corina Machado",
-      "https://www.nobelprize.org/prizes/peace/2025/summary/"
-    ]
-  ],
-  [
-    [
       "2025-10-10, 09:01:54",
       "https://news.ycombinator.com/item?id=45536694"
     ],
@@ -207,16 +207,6 @@
     [
       "Examples Are the Best Documentation",
       "https://rakhim.exotext.com/examples-are-the-best-documentation"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 16:04:04",
-      "https://news.ycombinator.com/item?id=45529587"
-    ],
-    [
-      "A small number of samples can poison LLMs of any size",
-      "https://www.anthropic.com/research/small-samples-poison"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "QA-use-MCP: MCP for E2E testing",
       "https://www.npmjs.com/package/@desplega.ai/qa-use-mcp"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 07:49:29",
+      "https://news.ycombinator.com/item?id=45479694"
+    ],
+    [
+      "Lánczos Interpolation Explained (2022)",
+      "https://mazzo.li/posts/lanczos.html"
     ]
   ]
 ]
