@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-10, 09:20:22](https://news.ycombinator.com/item?id=45536816) - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
-* [2025-10-10, 09:04:06](https://news.ycombinator.com/item?id=45536705) - [Nobel Peace Prize 2025](https://www.nobelprize.org/prizes/peace/2025/machado/facts/)
 * [2025-10-10, 09:03:16](https://news.ycombinator.com/item?id=45536700) - [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
+* [2025-10-10, 08:46:40](https://news.ycombinator.com/item?id=45536618) - [Datastar: Lightweight hypermedia framework for building interactive web apps](https://data-star.dev/)
 * [2025-10-10, 08:27:34](https://news.ycombinator.com/item?id=45536531) - [I tracked Amazon's Prime Day prices. We've been played](https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/)
 * [2025-10-10, 08:13:55](https://news.ycombinator.com/item?id=45536456) - [How A Scottish maritime museum ended up in Israel's 3D propaganda videos](https://www.972mag.com/israeli-army-3d-propaganda-animations/)
 * [2025-10-10, 07:11:06](https://news.ycombinator.com/item?id=45536124) - [Multi-Core by Default](https://www.rfleury.com/p/multi-core-by-default)
