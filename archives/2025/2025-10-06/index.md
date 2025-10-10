@@ -64,6 +64,7 @@
 * [2025-10-06, 12:02:25](https://news.ycombinator.com/item?id=45490434) - [Mathematicians discover prime number pattern in fractal chaos](https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/)
 * [2025-10-06, 11:57:33](https://news.ycombinator.com/item?id=45490403) - [A case for learning GPU programming with a compute-first mindset – Maister's Gr](https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/)
 * [2025-10-06, 11:28:35](https://news.ycombinator.com/item?id=45490202) - [Tire Pressure Sensor IDs: Why, Where and When (2015)](https://www.tomorrowstechnician.com/tpms-sensor-ids-why-where-and-when/)
+* [2025-10-06, 11:02:34](https://news.ycombinator.com/item?id=45490031) - [The little Random that could](https://blog.julik.nl/2025/10/the-little-random-that-could)
 * [2025-10-06, 10:58:14](https://news.ycombinator.com/item?id=45489999) - [Show HN: I've build a platform for writing technical/scientific documents](https://www.monsterwriter.com)
 * [2025-10-06, 10:54:47](https://news.ycombinator.com/item?id=45489978) - [State Terror, American Style – Paul Krugman](https://paulkrugman.substack.com/p/state-terror-american-style)
 * [2025-10-06, 10:51:53](https://news.ycombinator.com/item?id=45489951) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence)
