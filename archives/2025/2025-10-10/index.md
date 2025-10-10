@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 12:01:02](https://news.ycombinator.com/item?id=45537938) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+* [2025-10-10, 11:41:58](https://news.ycombinator.com/item?id=45537769) - [Digital euro could drain up to 700B euros of deposits in bank run, ECB says](https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/)
 * [2025-10-10, 10:31:45](https://news.ycombinator.com/item?id=45537255) - [EU lawmakers push to ban term 'veggie-burger'](https://www.reuters.com/business/eu-lawmakers-push-ban-term-veggie-burger-2025-10-08/)
 * [2025-10-10, 09:53:35](https://news.ycombinator.com/item?id=45537035) - [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/)
 * [2025-10-10, 09:20:22](https://news.ycombinator.com/item?id=45536816) - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
