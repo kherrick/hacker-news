@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-10-10, 13:59:12",
+      "https://news.ycombinator.com/item?id=45539159"
+    ],
+    [
+      "The Prairie Farmers Preserving the Most Threatened Ecosystem – Forever",
+      "https://reasonstobecheerful.world/prairie-farmers-preserve-most-threatened-ecosystem-forever/"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 13:27:43",
       "https://news.ycombinator.com/item?id=45538760"
     ],
     [
       "PSA: Always use a separate domain for user content",
       "https://www.statichost.eu/blog/google-safe-browsing/"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 13:24:42",
-      "https://news.ycombinator.com/item?id=45538728"
-    ],
-    [
-      "US immigration enforcement using military hardware and tactics on civilians",
-      "https://www.theguardian.com/us-news/2025/oct/10/ice-immigration-agents-military-tactics"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader",
       "https://www.supergoodcode.com/mesh-shaders-in-the-current-year/"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 11:10:46",
+      "https://news.ycombinator.com/item?id=45537512"
+    ],
+    [
+      "Bringing Desktop Linux GUIs to Android: The Next Step in Graphical App Support",
+      "https://www.linuxjournal.com/content/bringing-desktop-linux-guis-android-next-step-graphical-app-support"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Show HN: I invented a new generative model and got accepted to ICLR",
       "https://discrete-distribution-networks.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 08:46:40",
-      "https://news.ycombinator.com/item?id=45536618"
-    ],
-    [
-      "Datastar: Lightweight hypermedia framework for building interactive web apps",
-      "https://data-star.dev/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-10-06, 10:19:04",
-      "https://news.ycombinator.com/item?id=45489761"
+      "2025-10-06, 10:39:50",
+      "https://news.ycombinator.com/item?id=45489881"
     ],
     [
-      "Automated Lean Proofs for Every Type",
-      "https://www.galois.com/articles/automated-lean-proofs-for-every-type"
+      "ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs",
+      "https://github.com/scribeocr/scribeocr"
     ]
   ],
   [
