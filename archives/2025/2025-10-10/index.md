@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 14:11:15](https://news.ycombinator.com/item?id=45539296) - [All-Natural Geoengineering with Frank Herbert's Dune](https://www.governance.fyi/p/all-natural-geoengineering-with-frank)
 * [2025-10-10, 13:59:12](https://news.ycombinator.com/item?id=45539159) - [The Prairie Farmers Preserving the Most Threatened Ecosystem – Forever](https://reasonstobecheerful.world/prairie-farmers-preserve-most-threatened-ecosystem-forever/)
+* [2025-10-10, 13:44:33](https://news.ycombinator.com/item?id=45538963) - [Telegram's founder Pavel Durov sends alarmist message to all Telegram users](https://news.ycombinator.com/item?id=45538963)
 * [2025-10-10, 13:28:40](https://news.ycombinator.com/item?id=45538768) - [\"My dad says: people like you don't matter anymore.\"](https://twitter.com/travisakers/status/1976271447606624314)
 * [2025-10-10, 13:27:43](https://news.ycombinator.com/item?id=45538760) - [PSA: Always use a separate domain for user content](https://www.statichost.eu/blog/google-safe-browsing/)
 * [2025-10-10, 13:24:42](https://news.ycombinator.com/item?id=45538728) - [US immigration enforcement using military hardware and tactics on civilians](https://www.theguardian.com/us-news/2025/oct/10/ice-immigration-agents-military-tactics)

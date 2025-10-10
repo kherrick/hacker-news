@@ -56,6 +56,7 @@
 * [2025-10-08, 08:15:49](https://news.ycombinator.com/item?id=45513459) - [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
 * [2025-10-08, 05:44:53](https://news.ycombinator.com/item?id=45512494) - [Reflections on Big Tech](https://micro.mu/blog/2025/10/07/reflection-on-big-tech.html)
 * [2025-10-08, 05:28:00](https://news.ycombinator.com/item?id=45512388) - [Static Bundle Object: Modernizing Static Linking](https://medium.com/@eyal.itkin/static-bundle-object-modernizing-static-linking-f1be36175064)
+* [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Open-source transmission electron microscope](https://sites.google.com/view/nanomi-org?usp=sharing)
 * [2025-10-08, 05:18:44](https://news.ycombinator.com/item?id=45512342) - [Interactive Double Pendulum Playground](https://theabbie.github.io/DoublePendulum/)
 * [2025-10-08, 05:13:53](https://news.ycombinator.com/item?id=45512317) - [Without data centers, GDP growth was 0.1% in the first half of 2025](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/)
 * [2025-10-08, 03:36:20](https://news.ycombinator.com/item?id=45511798) - [TiVo exiting legacy DVR business](https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/)
