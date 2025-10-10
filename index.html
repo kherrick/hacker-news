@@ -129,6 +129,122 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="45541874">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/lantos1618/open_human_ontology"
+              >Show HN: Modeling the Human Body in Rust So I Can Cmd+Click
+              Through It</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-10 @ 17:59:55</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45541874"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I was reading medical papers and textbooks, but kept getting
+                lost jumping between topics. I thought: what if I could just
+                Cmd+Click through this like code? What if "ALDH2 gene" was
+                actually clickable, and took me to the variant, the phenotype,
+                the population frequencies?
+              </p>
+              <p>
+                So I started modeling human biology in Rust with my Ralph agent
+                (Claude in a loop, ty ghuntley). Turns out the type system is
+                perfect for this. Every biological entity is strongly-typed with
+                relationships enforced at compile time.
+              </p>
+              <p>
+                After 1 day of agent coding: - 277 Rust files, ~95k lines of
+                code - 1,561 tests passing - 13 complete organ systems -
+                Genetics with ancestry-specific variants - Clinical pathology
+                models
+              </p>
+              <p>Try it:</p>
+              <p>
+                git clone
+                <a href="https://github.com/lantos1618/open_human_ontology"
+                  >https://github.com/lantos1618/open_human_ontology</a
+                >
+                cd open_human_ontology cargo run --example ide_navigation_demo
+              </p>
+              <p>
+                Then open `examples/ide_navigation_demo.rs` and Cmd+Click
+                through:
+              </p>
+              <p>Understanding Asian flush:</p>
+              <p>AsianGeneticVariantsCatalog::get_metabolic_variants()</p>
+              <p>// Click through to:</p>
+              <p>// → ALDH2 gene on chromosome 12q24.12</p>
+              <p>// → rs671 variant (Glu504Lys)</p>
+              <p>// → 40% frequency in Japanese population</p>
+              <p>// → Alcohol flush reaction</p>
+              <p>// → 10x esophageal cancer risk with alcohol</p>
+              <p>// → Acetaldehyde metabolism pathway</p>
+              <p>
+                Understanding migraines: Migraine { subtype: WithAura, triggers:
+                [Stress, LackOfSleep, HormonalChanges], genetic_variants:
+                ["rs2075968", "rs1835740"], ... }
+              </p>
+              <p>// Click through to:</p>
+              <p>// → 17 migraine trigger types</p>
+              <p>// → 12 aura symptom types</p>
+              <p>// → Genetic risk factors</p>
+              <p>// → Why clusters happen (HormonalChanges → Menstruation)</p>
+              <p>
+                Now I can actually <i>navigate</i> the connections instead of
+                flipping through PDFs. Heart → CoronaryArtery → Plaque.
+                VisualCortex → 200M neurons → NeuralConnection pathways. It's
+                like Wikipedia but type-checked and with jump-to-definition.
+              </p>
+              <p>
+                This isn't production medical software - it's a learning tool.
+                But it's way more useful than textbooks for understanding how
+                biological systems connect.
+              </p>
+              <p>
+                The agent keeps expanding it. Sometimes it OOMs but that's part
+                of the fun.
+              </p>
+              <p>Tech: Rust, nalgebra, serde, rayon, proptest</p>
+              <p>
+                I am not a dr or medical professional this is for my education
+                you can commit to it if you want to or review and open some PR's
+                if you find wrong information or want to add references.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="45541600">
+          <h3>
+            <a
+              class="item"
+              href="https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/"
+              >Illegible Nature of Software Development Talent</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-10 @ 17:37:43</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45541600"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="45541125">
           <h3>
             <a
@@ -145,7 +261,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45541125"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -162,11 +278,11 @@
             <h4>
               <span>2025-10-10 @ 16:49:09</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45540989"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -184,11 +300,11 @@
             <h4>
               <span>2025-10-10 @ 16:13:06</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45540585"
                   >Comments</a
-                ><span class="descendants">: 175</span></span
+                ><span class="descendants">: 193</span></span
               >
             </h4>
           </section>
@@ -206,11 +322,11 @@
             <h4>
               <span>2025-10-10 @ 15:48:24</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45540313"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -227,11 +343,11 @@
             <h4>
               <span>2025-10-10 @ 15:37:43</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45540174"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -247,7 +363,7 @@
             <h4>
               <span>2025-10-10 @ 15:37:27</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45540171"
                   >Comments</a
@@ -310,11 +426,11 @@
             <h4>
               <span>2025-10-10 @ 15:18:42</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45540011"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -332,11 +448,11 @@
             <h4>
               <span>2025-10-10 @ 15:11:04</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">288</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45539943"
                   >Comments</a
-                ><span class="descendants">: 246</span></span
+                ><span class="descendants">: 257</span></span
               >
             </h4>
           </section>
@@ -353,11 +469,11 @@
             <h4>
               <span>2025-10-10 @ 15:00:51</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45539845"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -374,11 +490,11 @@
             <h4>
               <span>2025-10-10 @ 14:37:31</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45539609"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -395,11 +511,11 @@
             <h4>
               <span>2025-10-10 @ 14:11:15</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45539296"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -416,11 +532,11 @@
             <h4>
               <span>2025-10-10 @ 13:27:43</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45538760"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -437,7 +553,7 @@
             <h4>
               <span>2025-10-10 @ 12:21:02</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">281</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45538137"
                   >Comments</a
@@ -475,11 +591,11 @@
             <h4>
               <span>2025-10-10 @ 11:56:05</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45537890"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -496,11 +612,11 @@
             <h4>
               <span>2025-10-10 @ 09:03:16</span
               ><span class="points-container"
-                >Points: <span class="points">499</span></span
+                >Points: <span class="points">510</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45536700"
                   >Comments</a
-                ><span class="descendants">: 527</span></span
+                ><span class="descendants">: 535</span></span
               >
             </h4>
           </section>
@@ -518,11 +634,11 @@
             <h4>
               <span>2025-10-10 @ 09:01:54</span
               ><span class="points-container"
-                >Points: <span class="points">378</span></span
+                >Points: <span class="points">385</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45536694"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
             <div class="text">
@@ -572,32 +688,11 @@
             <h4>
               <span>2025-10-10 @ 07:50:54</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45536325"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45536000">
-          <h3>
-            <a
-              class="item"
-              href="https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/"
-              >I Switched from Htmx to Datastar</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-10 @ 06:49:40</span
-              ><span class="points-container"
-                >Points: <span class="points">279</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45536000"
-                  >Comments</a
-                ><span class="descendants">: 207</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -614,11 +709,11 @@
             <h4>
               <span>2025-10-10 @ 04:40:19</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45535424"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -671,7 +766,7 @@
             <h4>
               <span>2025-10-10 @ 03:45:29</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45535202"
                   >Comments</a
@@ -692,7 +787,7 @@
             <h4>
               <span>2025-10-09 @ 19:34:36</span
               ><span class="points-container"
-                >Points: <span class="points">340</span></span
+                >Points: <span class="points">344</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45532090"
                   >Comments</a
@@ -713,11 +808,11 @@
             <h4>
               <span>2025-10-09 @ 07:40:42</span
               ><span class="points-container"
-                >Points: <span class="points">681</span></span
+                >Points: <span class="points">687</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45524702"
                   >Comments</a
-                ><span class="descendants">: 491</span></span
+                ><span class="descendants">: 494</span></span
               >
             </h4>
           </section>
@@ -734,30 +829,9 @@
             <h4>
               <span>2025-10-08 @ 05:24:51</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45512373"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45493158">
-          <h3>
-            <a
-              class="item"
-              href="https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/"
-              >An MVCC-like columnar table on S3 with constant-time deletes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-06 @ 16:33:43</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45493158"
                   >Comments</a
                 ><span class="descendants">: 6</span></span
               >
@@ -776,7 +850,7 @@
             <h4>
               <span>2025-10-06 @ 15:53:29</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45492704"
                   >Comments</a
@@ -795,7 +869,7 @@
             <h4>
               <span>2025-10-06 @ 13:13:18</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45491043"
                   >Comments</a
@@ -814,11 +888,11 @@
             <h4>
               <span>2025-10-06 @ 12:42:19</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45490740"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
             <div class="text">
@@ -851,11 +925,11 @@
             <h4>
               <span>2025-10-06 @ 10:18:20</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45489757"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -872,7 +946,7 @@
             <h4>
               <span>2025-10-06 @ 09:00:00</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45489274"
                   >Comments</a
