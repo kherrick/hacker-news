@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-10, 06:49:40](https://news.ycombinator.com/item?id=45536000) - [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 04:40:26](https://news.ycombinator.com/item?id=45535425) - [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
 * [2025-10-10, 03:45:29](https://news.ycombinator.com/item?id=45535202) - [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects)
-* [2025-10-10, 03:39:57](https://news.ycombinator.com/item?id=45535183) - [Love C, Hate C: Web Framework Memory Problems](https://alew.is/lava.html)
 * [2025-10-10, 03:30:24](https://news.ycombinator.com/item?id=45535149) - [The RubyGems \"Security Incident\"](https://andre.arko.net/2025/10/09/the-rubygems-security-incident/)
 * [2025-10-10, 03:12:44](https://news.ycombinator.com/item?id=45535082) - [Managing Encrypted Filesystems with dirlock](https://lwn.net/Articles/1038859/)
 * [2025-10-10, 02:54:31](https://news.ycombinator.com/item?id=45535014) - [Vexing Exceptions](https://ericlippert.com/2008/09/10/vexing-exceptions/)
