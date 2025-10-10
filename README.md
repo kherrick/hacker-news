@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-10, 18:25:08](https://news.ycombinator.com/item?id=45542145) - [Google, Meta and Microsoft opts to stop showing political ads in EU](https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/)
 * [2025-10-10, 17:59:55](https://news.ycombinator.com/item?id=45541874) - [Show HN: Modeling the Human Body in Rust So I Can Cmd+Click Through It](https://github.com/lantos1618/open_human_ontology)
 * [2025-10-10, 17:37:43](https://news.ycombinator.com/item?id=45541600) - [Illegible Nature of Software Development Talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
 * [2025-10-10, 16:49:09](https://news.ycombinator.com/item?id=45540989) - [Regarding the Compact](https://president.mit.edu/writing-speeches/regarding-compact)
@@ -18,7 +19,6 @@
 * [2025-10-10, 09:03:16](https://news.ycombinator.com/item?id=45536700) - [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
 * [2025-10-10, 09:01:54](https://news.ycombinator.com/item?id=45536694) - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
 * [2025-10-10, 07:50:54](https://news.ycombinator.com/item?id=45536325) - [A story about bypassing air Canada's in-flight network restrictions](https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/)
-* [2025-10-10, 06:49:40](https://news.ycombinator.com/item?id=45536000) - [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 04:40:19](https://news.ycombinator.com/item?id=45535424) - [Show HN: Lights Out: my 2D Rubik's Cube-like Game](https://raymondtana.github.io/projects/pages/Lights_Out.html)
 * [2025-10-10, 03:45:29](https://news.ycombinator.com/item?id=45535202) - [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects)
 * [2025-10-09, 19:34:36](https://news.ycombinator.com/item?id=45532090) - [Examples Are the Best Documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
