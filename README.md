@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-10, 09:04:06](https://news.ycombinator.com/item?id=45536705) - [Nobel Peace Prize 2025](https://www.nobelprize.org/prizes/peace/2025/machado/facts/)
+* [2025-10-10, 09:03:16](https://news.ycombinator.com/item?id=45536700) - [Nobel Prize in Peace 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
 * [2025-10-10, 08:27:34](https://news.ycombinator.com/item?id=45536531) - [I tracked Amazon's Prime Day prices. We've been played](https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/)
+* [2025-10-10, 08:13:55](https://news.ycombinator.com/item?id=45536456) - [How A Scottish maritime museum ended up in Israel's 3D propaganda videos](https://www.972mag.com/israeli-army-3d-propaganda-animations/)
 * [2025-10-10, 07:11:06](https://news.ycombinator.com/item?id=45536124) - [Multi-Core by Default](https://www.rfleury.com/p/multi-core-by-default)
 * [2025-10-10, 06:49:40](https://news.ycombinator.com/item?id=45536000) - [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
-* [2025-10-10, 04:40:26](https://news.ycombinator.com/item?id=45535425) - [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
 * [2025-10-10, 03:45:29](https://news.ycombinator.com/item?id=45535202) - [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects)
 * [2025-10-10, 02:54:31](https://news.ycombinator.com/item?id=45535014) - [Vexing Exceptions](https://ericlippert.com/2008/09/10/vexing-exceptions/)
-* [2025-10-10, 02:30:58](https://news.ycombinator.com/item?id=45534922) - [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
 * [2025-10-09, 22:58:31](https://news.ycombinator.com/item?id=45533902) - [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
 * [2025-10-09, 22:53:39](https://news.ycombinator.com/item?id=45533870) - [Show HN: Open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
 * [2025-10-09, 20:27:39](https://news.ycombinator.com/item?id=45532685) - [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
@@ -28,7 +29,6 @@
 * [2025-10-06, 12:31:32](https://news.ycombinator.com/item?id=45490652) - [My first contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 * [2025-10-06, 10:40:28](https://news.ycombinator.com/item?id=45489884) - [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/)
 * [2025-10-06, 10:39:50](https://news.ycombinator.com/item?id=45489881) - [ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs](https://github.com/scribeocr/scribeocr)
-* [2025-10-06, 09:06:12](https://news.ycombinator.com/item?id=45489311) - [Neutts-air – Open-source, on device TTS](https://github.com/neuphonic/neutts-air)
 * [2025-10-05, 23:02:26](https://news.ycombinator.com/item?id=45486035) - [After nine years of grinding, Replit found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
 
 ## [Archives](archives/index.md)

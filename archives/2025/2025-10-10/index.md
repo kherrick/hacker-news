@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 09:04:06](https://news.ycombinator.com/item?id=45536705) - [Nobel Peace Prize 2025](https://www.nobelprize.org/prizes/peace/2025/machado/facts/)
+* [2025-10-10, 09:03:16](https://news.ycombinator.com/item?id=45536700) - [Nobel Prize in Peace 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
 * [2025-10-10, 08:27:34](https://news.ycombinator.com/item?id=45536531) - [I tracked Amazon's Prime Day prices. We've been played](https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/)
+* [2025-10-10, 08:13:55](https://news.ycombinator.com/item?id=45536456) - [How A Scottish maritime museum ended up in Israel's 3D propaganda videos](https://www.972mag.com/israeli-army-3d-propaganda-animations/)
 * [2025-10-10, 07:11:06](https://news.ycombinator.com/item?id=45536124) - [Multi-Core by Default](https://www.rfleury.com/p/multi-core-by-default)
 * [2025-10-10, 06:49:40](https://news.ycombinator.com/item?id=45536000) - [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 04:40:26](https://news.ycombinator.com/item?id=45535425) - [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
