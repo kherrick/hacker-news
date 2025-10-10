@@ -11,12 +11,42 @@
   ],
   [
     [
+      "2025-10-10, 16:13:06",
+      "https://news.ycombinator.com/item?id=45540585"
+    ],
+    [
+      "Boring Company cited for almost 800 environmental violations in Las Vegas",
+      "https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 15:48:24",
       "https://news.ycombinator.com/item?id=45540313"
     ],
     [
       "I'm in Vibe Code Hell",
       "https://blog.boot.dev/education/vibe-code-hell/"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 15:37:27",
+      "https://news.ycombinator.com/item?id=45540171"
+    ],
+    [
+      "Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments",
+      "https://github.com/diffplug/gitcasso"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 15:18:42",
+      "https://news.ycombinator.com/item?id=45540011"
+    ],
+    [
+      "You can't build Nixpkgs if you are in the UK",
+      "https://github.com/NixOS/nixpkgs/issues/444342"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-10-09, 20:27:39",
-      "https://news.ycombinator.com/item?id=45532685"
-    ],
-    [
-      "A built-in 'off switch' to stop persistent pain",
-      "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 19:34:36",
       "https://news.ycombinator.com/item?id=45532090"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-10-09, 17:16:28",
-      "https://news.ycombinator.com/item?id=45530486"
-    ],
-    [
-      "LLMs are mortally terrified of exceptions",
-      "https://twitter.com/karpathy/status/1976077806443569355"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 16:04:04",
       "https://news.ycombinator.com/item?id=45529587"
     ],
     [
       "A small number of samples can poison LLMs of any size",
       "https://www.anthropic.com/research/small-samples-poison"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 15:51:20",
-      "https://news.ycombinator.com/item?id=45529393"
-    ],
-    [
-      "Show HN: I've built a tiny hand-held keyboard",
-      "https://github.com/mafik/keyer"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-10-06, 12:31:32",
-      "https://news.ycombinator.com/item?id=45490652"
-    ],
-    [
-      "My first contribution to Linux",
-      "https://vkoskiv.com/first-linux-patch/"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 10:18:20",
       "https://news.ycombinator.com/item?id=45489757"
     ],
     [
       "Ohno Type School",
       "https://ohnotype.co/blog/ohno-type-school-a"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 09:00:00",
+      "https://news.ycombinator.com/item?id=45489274"
+    ],
+    [
+      "QA-use-MCP: MCP for E2E testing",
+      "https://www.npmjs.com/package/@desplega.ai/qa-use-mcp"
     ]
   ]
 ]
