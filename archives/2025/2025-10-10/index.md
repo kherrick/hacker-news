@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 09:20:22](https://news.ycombinator.com/item?id=45536816) - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
 * [2025-10-10, 09:04:06](https://news.ycombinator.com/item?id=45536705) - [Nobel Peace Prize 2025](https://www.nobelprize.org/prizes/peace/2025/machado/facts/)
 * [2025-10-10, 09:03:16](https://news.ycombinator.com/item?id=45536700) - [Nobel Prize in Peace 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
 * [2025-10-10, 08:27:34](https://news.ycombinator.com/item?id=45536531) - [I tracked Amazon's Prime Day prices. We've been played](https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/)

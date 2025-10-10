@@ -76,6 +76,7 @@
 * [2025-10-06, 10:39:50](https://news.ycombinator.com/item?id=45489881) - [ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs](https://github.com/scribeocr/scribeocr)
 * [2025-10-06, 10:38:21](https://news.ycombinator.com/item?id=45489874) - [Ahab's Arithmetic: The Mathematics of Moby-Dick](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720&context=jhm)
 * [2025-10-06, 10:28:30](https://news.ycombinator.com/item?id=45489813) - [The Real Reason Endurance Sank](https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/)
+* [2025-10-06, 10:19:04](https://news.ycombinator.com/item?id=45489761) - [Automated Lean Proofs for Every Type](https://www.galois.com/articles/automated-lean-proofs-for-every-type)
 * [2025-10-06, 10:14:02](https://news.ycombinator.com/item?id=45489727) - [The Power of Three: Ternary Logic, Triolectics, and Three Sided Football](https://www.sothismedias.com/home/the-power-of-three-ternary-logic-triolectics-and-football)
 * [2025-10-06, 09:56:03](https://news.ycombinator.com/item?id=45489625) - [The Debugging Book](https://www.debuggingbook.org/)
 * [2025-10-06, 09:52:55](https://news.ycombinator.com/item?id=45489599) - [Tutorials for Sandia's Lammps Simulation Package](https://arxiv.org/abs/2503.14020)
