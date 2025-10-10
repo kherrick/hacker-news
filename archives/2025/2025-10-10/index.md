@@ -12,6 +12,7 @@
 * [2025-10-10, 13:28:40](https://news.ycombinator.com/item?id=45538768) - [\"My dad says: people like you don't matter anymore.\"](https://twitter.com/travisakers/status/1976271447606624314)
 * [2025-10-10, 13:27:43](https://news.ycombinator.com/item?id=45538760) - [PSA: Always use a separate domain for user content](https://www.statichost.eu/blog/google-safe-browsing/)
 * [2025-10-10, 13:24:42](https://news.ycombinator.com/item?id=45538728) - [US immigration enforcement using military hardware and tactics on civilians](https://www.theguardian.com/us-news/2025/oct/10/ice-immigration-agents-military-tactics)
+* [2025-10-10, 12:21:33](https://news.ycombinator.com/item?id=45538143) - [Jamal Khashoggi, the Washington Post, and the Cost of Speaking Out](https://karenattiah.substack.com/p/jamal-khashoggi-the-washington-post)
 * [2025-10-10, 12:21:02](https://news.ycombinator.com/item?id=45538137) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 12:01:02](https://news.ycombinator.com/item?id=45537938) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-10-10, 11:56:05](https://news.ycombinator.com/item?id=45537890) - [OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
