@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-10-10, 13:28:40",
-      "https://news.ycombinator.com/item?id=45538768"
-    ],
-    [
-      "\"My dad says: people like you don't matter anymore.\"",
-      "https://twitter.com/travisakers/status/1976271447606624314"
-    ]
-  ],
-  [
-    [
       "2025-10-10, 13:27:43",
       "https://news.ycombinator.com/item?id=45538760"
     ],
     [
       "PSA: Always use a separate domain for user content",
       "https://www.statichost.eu/blog/google-safe-browsing/"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 13:24:42",
+      "https://news.ycombinator.com/item?id=45538728"
+    ],
+    [
+      "US immigration enforcement using military hardware and tactics on civilians",
+      "https://www.theguardian.com/us-news/2025/oct/10/ice-immigration-agents-military-tactics"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader",
       "https://www.supergoodcode.com/mesh-shaders-in-the-current-year/"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 10:52:56",
+      "https://news.ycombinator.com/item?id=45537372"
+    ],
+    [
+      "Htmx, Datastar, Greedy Developer",
+      "https://drshapeless.com/blog/posts/htmx,-datastar,-greedy-developer.html"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "My approach to building large technical projects (2023)",
       "https://mitchellh.com/writing/building-large-technical-projects"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 22:53:39",
-      "https://news.ycombinator.com/item?id=45533870"
-    ],
-    [
-      "Show HN: Open source, logical multi-master PostgreSQL replication",
-      "https://github.com/pgEdge/spock"
     ]
   ],
   [
