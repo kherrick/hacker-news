@@ -13,6 +13,7 @@
 * [2025-10-07, 20:11:58](https://news.ycombinator.com/item?id=45508213) - [A tiny recursive reasoning model achieves 45% on ARC-AGI-1 and 8% on ARC-AGI-2](http://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
 * [2025-10-07, 19:44:00](https://news.ycombinator.com/item?id=45507880) - [Banning controversy reveals Bluesky's decentralized aspiration isn't reality](https://plus.flux.community/p/banning-controversy-reveals-blueskys)
+* [2025-10-07, 19:34:40](https://news.ycombinator.com/item?id=45507753) - [ThalamusDB: Query text, tables, images, and audio](https://github.com/itrummer/thalamusdb)
 * [2025-10-07, 19:07:07](https://news.ycombinator.com/item?id=45507398) - [Eliminating contrails from flying could be incredibly cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
 * [2025-10-07, 18:57:17](https://news.ycombinator.com/item?id=45507264) - [Photographers are losing their jobs faster than software engineers](https://photowand.ai/packs)
 * [2025-10-07, 18:55:36](https://news.ycombinator.com/item?id=45507236) - [The Publishing Industry Has a Gambling Problem](https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/)
