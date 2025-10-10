@@ -53,6 +53,7 @@
 * [2025-10-06, 13:15:00](https://news.ycombinator.com/item?id=45491057) - [A beginner's guide to deploying LLMs with AMD on Windows using PyTorch](https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/)
 * [2025-10-06, 13:13:18](https://news.ycombinator.com/item?id=45491043) - [A Library for Parsing Dutch Smart Meter Requirements (DSMR)](https://github.com/mijnverbruik/dsmr)
 * [2025-10-06, 13:04:53](https://news.ycombinator.com/item?id=45490957) - [Real-time Nvidia GPU dashboard](https://github.com/psalias2006/gpu-hot)
+* [2025-10-06, 12:44:43](https://news.ycombinator.com/item?id=45490760) - [Ask HN: Apple won't let me sign up for the developer program. What do I do?](https://news.ycombinator.com/item?id=45490760)
 * [2025-10-06, 12:42:19](https://news.ycombinator.com/item?id=45490740) - [Ask HN: What's the best hackable smart TV?](https://news.ycombinator.com/item?id=45490740)
 * [2025-10-06, 12:40:11](https://news.ycombinator.com/item?id=45490721) - [Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)](https://dunkels.com/adam/stress-testing-next-generation-beacons/)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An Illustrated Introduction to Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
