@@ -2,11 +2,9 @@
 
 * [2025-10-10, 17:59:55](https://news.ycombinator.com/item?id=45541874) - [Show HN: Modeling the Human Body in Rust So I Can Cmd+Click Through It](https://github.com/lantos1618/open_human_ontology)
 * [2025-10-10, 17:37:43](https://news.ycombinator.com/item?id=45541600) - [Illegible Nature of Software Development Talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
-* [2025-10-10, 17:01:04](https://news.ycombinator.com/item?id=45541125) - [2025.41: It's OpenAI's World, We're Just Living in It](https://stratechery.com/2025/its-openais-world-were-just-living-in-it/)
 * [2025-10-10, 16:49:09](https://news.ycombinator.com/item?id=45540989) - [Regarding the Compact](https://president.mit.edu/writing-speeches/regarding-compact)
 * [2025-10-10, 16:13:06](https://news.ycombinator.com/item?id=45540585) - [Boring Company cited for almost 800 environmental violations in Las Vegas](https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop)
 * [2025-10-10, 15:48:24](https://news.ycombinator.com/item?id=45540313) - [\"Vibe code hell\" has replaced \"tutorial hell\" in coding education](https://blog.boot.dev/education/vibe-code-hell/)
-* [2025-10-10, 15:37:43](https://news.ycombinator.com/item?id=45540174) - [Microsoft lets bosses spot teams that are dodging Copilot](https://www.theregister.com/2025/10/10/microsoft_copilot_viva_insights/)
 * [2025-10-10, 15:37:27](https://news.ycombinator.com/item?id=45540171) - [Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments](https://github.com/diffplug/gitcasso)
 * [2025-10-10, 15:18:42](https://news.ycombinator.com/item?id=45540011) - [You can't build tcc from Nixpkgs if you are in the UK](https://github.com/NixOS/nixpkgs/issues/444342)
 * [2025-10-10, 15:11:04](https://news.ycombinator.com/item?id=45539943) - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
@@ -20,6 +18,7 @@
 * [2025-10-10, 09:03:16](https://news.ycombinator.com/item?id=45536700) - [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
 * [2025-10-10, 09:01:54](https://news.ycombinator.com/item?id=45536694) - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
 * [2025-10-10, 07:50:54](https://news.ycombinator.com/item?id=45536325) - [A story about bypassing air Canada's in-flight network restrictions](https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/)
+* [2025-10-10, 06:49:40](https://news.ycombinator.com/item?id=45536000) - [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 04:40:19](https://news.ycombinator.com/item?id=45535424) - [Show HN: Lights Out: my 2D Rubik's Cube-like Game](https://raymondtana.github.io/projects/pages/Lights_Out.html)
 * [2025-10-10, 03:45:29](https://news.ycombinator.com/item?id=45535202) - [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects)
 * [2025-10-09, 19:34:36](https://news.ycombinator.com/item?id=45532090) - [Examples Are the Best Documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
@@ -29,6 +28,7 @@
 * [2025-10-06, 13:13:18](https://news.ycombinator.com/item?id=45491043) - [A Library for Parsing Dutch Smart Meter Requirements (DSMR)](https://github.com/mijnverbruik/dsmr)
 * [2025-10-06, 12:42:19](https://news.ycombinator.com/item?id=45490740) - [Ask HN: What's the best hackable smart TV?](https://news.ycombinator.com/item?id=45490740)
 * [2025-10-06, 10:18:20](https://news.ycombinator.com/item?id=45489757) - [Ohno Type School](https://ohnotype.co/blog/ohno-type-school-a)
+* [2025-10-06, 09:55:06](https://news.ycombinator.com/item?id=45489613) - [Show HN: Iframetest.com](https://iframetest.com/)
 * [2025-10-06, 09:00:00](https://news.ycombinator.com/item?id=45489274) - [QA-use-MCP: MCP for E2E testing](https://www.npmjs.com/package/@desplega.ai/qa-use-mcp)
 
 ## [Archives](archives/index.md)
