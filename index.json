@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-10, 13:27:43",
+      "https://news.ycombinator.com/item?id=45538760"
+    ],
+    [
+      "PSA: Always use a separate domain for user content",
+      "https://www.statichost.eu/blog/google-safe-browsing/"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 12:21:02",
       "https://news.ycombinator.com/item?id=45538137"
     ],
@@ -27,16 +37,6 @@
     [
       "AI is an attack from above on wages\": cognitive scientist Hagen Blix",
       "https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 09:53:35",
-      "https://news.ycombinator.com/item?id=45537035"
-    ],
-    [
-      "Vite+ – The Unified Toolchain for the Web",
-      "https://viteplus.dev/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "My approach to building large technical projects (2023)",
       "https://mitchellh.com/writing/building-large-technical-projects"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 22:58:31",
-      "https://news.ycombinator.com/item?id=45533902"
-    ],
-    [
-      "How to write in Cuneiform",
-      "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "An MVCC-like columnar table on S3 with constant-time deletes",
       "https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 15:53:29",
+      "https://news.ycombinator.com/item?id=45492704"
+    ],
+    [
+      "Origami Patterns Solve a Major Physics Riddle",
+      "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/"
     ]
   ],
   [
