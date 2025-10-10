@@ -8,6 +8,7 @@
 * [2025-10-10, 16:15:58](https://news.ycombinator.com/item?id=45540615) - [Fascism Can't Mean Both a Specific Ideology and a Legitimate Target](https://www.astralcodexten.com/p/fascism-cant-mean-both-a-specific)
 * [2025-10-10, 16:13:06](https://news.ycombinator.com/item?id=45540585) - [Boring Company cited for almost 800 environmental violations in Las Vegas](https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop)
 * [2025-10-10, 15:48:24](https://news.ycombinator.com/item?id=45540313) - [I'm in Vibe Code Hell](https://blog.boot.dev/education/vibe-code-hell/)
+* [2025-10-10, 15:37:43](https://news.ycombinator.com/item?id=45540174) - [Microsoft lets bosses spot teams that are dodging Copilot](https://www.theregister.com/2025/10/10/microsoft_copilot_viva_insights/)
 * [2025-10-10, 15:37:27](https://news.ycombinator.com/item?id=45540171) - [Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments](https://github.com/diffplug/gitcasso)
 * [2025-10-10, 15:18:42](https://news.ycombinator.com/item?id=45540011) - [You can't build Nixpkgs if you are in the UK](https://github.com/NixOS/nixpkgs/issues/444342)
 * [2025-10-10, 15:11:04](https://news.ycombinator.com/item?id=45539943) - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
