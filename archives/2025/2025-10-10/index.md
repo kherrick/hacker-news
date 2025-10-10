@@ -33,6 +33,7 @@
 * [2025-10-10, 07:11:06](https://news.ycombinator.com/item?id=45536124) - [Multi-Core by Default](https://www.rfleury.com/p/multi-core-by-default)
 * [2025-10-10, 06:49:40](https://news.ycombinator.com/item?id=45536000) - [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 04:40:26](https://news.ycombinator.com/item?id=45535425) - [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
+* [2025-10-10, 04:40:19](https://news.ycombinator.com/item?id=45535424) - [Show HN: Lights Out: my 2D Rubik's Cube-like Game](https://raymondtana.github.io/projects/pages/Lights_Out.html)
 * [2025-10-10, 04:32:32](https://news.ycombinator.com/item?id=45535384) - [I'm turning 41, but I don't feel like celebrating](https://twitter.com/durov/status/1976420399970701543)
 * [2025-10-10, 04:02:40](https://news.ycombinator.com/item?id=45535263) - [Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up](https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/)
 * [2025-10-10, 03:45:29](https://news.ycombinator.com/item?id=45535202) - [Hashimoto's approach to building large technical projects](https://mitchellh.com/writing/building-large-technical-projects)
