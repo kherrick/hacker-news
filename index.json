@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-10, 09:20:22",
+      "https://news.ycombinator.com/item?id=45536816"
+    ],
+    [
+      "Parallelizing Cellular Automata with WebGPU Compute Shaders",
+      "https://vectrx.substack.com/p/webgpu-cellular-automata"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 09:04:06",
       "https://news.ycombinator.com/item?id=45536705"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45536700"
     ],
     [
-      "Nobel Prize in Peace 2025: María Corina Machado",
+      "Nobel Peace Prize 2025: María Corina Machado",
       "https://www.nobelprize.org/prizes/peace/2025/summary/"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-10-09, 20:00:31",
-      "https://news.ycombinator.com/item?id=45532352"
-    ],
-    [
-      "The Burrows-Wheeler Transform",
-      "https://sandbox.bio/concepts/bwt"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 19:34:36",
       "https://news.ycombinator.com/item?id=45532090"
     ],
@@ -157,16 +157,6 @@
     [
       "LLMs are mortally terrified of exceptions",
       "https://twitter.com/karpathy/status/1976077806443569355"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 16:56:52",
-      "https://news.ycombinator.com/item?id=45530261"
-    ],
-    [
-      "ESP32 and Termux",
-      "https://blog.gavide.dev/blog/esp32-and-termux"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs",
       "https://github.com/scribeocr/scribeocr"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 10:19:04",
+      "https://news.ycombinator.com/item?id=45489761"
+    ],
+    [
+      "Automated Lean Proofs for Every Type",
+      "https://www.galois.com/articles/automated-lean-proofs-for-every-type"
     ]
   ],
   [
