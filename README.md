@@ -2,6 +2,7 @@
 
 * [2025-10-10, 09:20:22](https://news.ycombinator.com/item?id=45536816) - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
 * [2025-10-10, 09:03:16](https://news.ycombinator.com/item?id=45536700) - [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
+* [2025-10-10, 09:01:54](https://news.ycombinator.com/item?id=45536694) - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
 * [2025-10-10, 08:46:40](https://news.ycombinator.com/item?id=45536618) - [Datastar: Lightweight hypermedia framework for building interactive web apps](https://data-star.dev/)
 * [2025-10-10, 08:27:34](https://news.ycombinator.com/item?id=45536531) - [I tracked Amazon's Prime Day prices. We've been played](https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/)
 * [2025-10-10, 08:13:55](https://news.ycombinator.com/item?id=45536456) - [How A Scottish maritime museum ended up in Israel's 3D propaganda videos](https://www.972mag.com/israeli-army-3d-propaganda-animations/)
@@ -20,7 +21,6 @@
 * [2025-10-09, 15:51:20](https://news.ycombinator.com/item?id=45529393) - [Show HN: I've built a tiny hand-held keyboard](https://github.com/mafik/keyer)
 * [2025-10-09, 13:27:14](https://news.ycombinator.com/item?id=45527402) - [Figure 03, our 3rd generation humanoid robot](https://www.figure.ai/news/introducing-figure-03)
 * [2025-10-09, 12:45:28](https://news.ycombinator.com/item?id=45526890) - [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
-* [2025-10-09, 12:36:05](https://news.ycombinator.com/item?id=45526754) - [The fight between doctors and insurance companies over 'downcoding'](https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714)
 * [2025-10-09, 07:40:42](https://news.ycombinator.com/item?id=45524702) - [Python 3.14 is here. How fast is it?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
 * [2025-10-08, 05:18:44](https://news.ycombinator.com/item?id=45512342) - [Interactive Double Pendulum Playground](https://theabbie.github.io/DoublePendulum/)
 * [2025-10-06, 16:02:44](https://news.ycombinator.com/item?id=45492809) - [The product of the railways is the timetable](https://springbett.substack.com/p/the-product-of-the-railways-is-the)
