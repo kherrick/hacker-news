@@ -28,7 +28,7 @@
 * [2025-10-06, 15:53:29](https://news.ycombinator.com/item?id=45492704) - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
 * [2025-10-06, 13:15:00](https://news.ycombinator.com/item?id=45491057) - [A beginner's guide to deploying LLMs with AMD on Windows using PyTorch](https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/)
 * [2025-10-06, 12:31:32](https://news.ycombinator.com/item?id=45490652) - [My first contribution to Linux](https://vkoskiv.com/first-linux-patch/)
-* [2025-10-06, 10:39:50](https://news.ycombinator.com/item?id=45489881) - [ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs](https://github.com/scribeocr/scribeocr)
+* [2025-10-06, 10:19:04](https://news.ycombinator.com/item?id=45489761) - [Automated Lean Proofs for Every Type](https://www.galois.com/articles/automated-lean-proofs-for-every-type)
 * [2025-10-06, 10:18:20](https://news.ycombinator.com/item?id=45489757) - [Ohno Type School](https://ohnotype.co/blog/ohno-type-school-a)
 
 ## [Archives](archives/index.md)
