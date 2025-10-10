@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-10-10, 13:27:43",
-      "https://news.ycombinator.com/item?id=45538760"
-    ],
-    [
-      "Google Safe Browsing incident",
-      "https://www.statichost.eu/blog/google-safe-browsing/"
-    ]
-  ],
-  [
-    [
       "2025-10-10, 12:21:02",
       "https://news.ycombinator.com/item?id=45538137"
     ],
@@ -227,6 +217,16 @@
     [
       "NanoMi: Source-available transmission electron microscope",
       "https://nanomi.org/"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 19:34:40",
+      "https://news.ycombinator.com/item?id=45507753"
+    ],
+    [
+      "ThalamusDB: Query text, tables, images, and audio",
+      "https://github.com/itrummer/thalamusdb"
     ]
   ],
   [
