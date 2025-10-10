@@ -19,7 +19,6 @@
 * [2025-10-09, 16:56:52](https://news.ycombinator.com/item?id=45530261) - [ESP32 and Termux](https://blog.gavide.dev/blog/esp32-and-termux)
 * [2025-10-09, 16:04:04](https://news.ycombinator.com/item?id=45529587) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 15:51:20](https://news.ycombinator.com/item?id=45529393) - [Show HN: I've built a tiny hand-held keyboard](https://github.com/mafik/keyer)
-* [2025-10-09, 13:36:01](https://news.ycombinator.com/item?id=45527507) - [Using a laptop as an HDMI monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/)
 * [2025-10-09, 13:27:14](https://news.ycombinator.com/item?id=45527402) - [Figure 03, our 3rd generation humanoid robot](https://www.figure.ai/news/introducing-figure-03)
 * [2025-10-09, 12:45:28](https://news.ycombinator.com/item?id=45526890) - [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
 * [2025-10-09, 12:36:05](https://news.ycombinator.com/item?id=45526754) - [The fight between doctors and insurance companies over 'downcoding'](https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714)
@@ -30,6 +29,7 @@
 * [2025-10-06, 10:40:28](https://news.ycombinator.com/item?id=45489884) - [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/)
 * [2025-10-06, 10:39:50](https://news.ycombinator.com/item?id=45489881) - [ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs](https://github.com/scribeocr/scribeocr)
 * [2025-10-06, 09:06:12](https://news.ycombinator.com/item?id=45489311) - [Neutts-air – Open-source, on device TTS](https://github.com/neuphonic/neutts-air)
+* [2025-10-05, 23:02:26](https://news.ycombinator.com/item?id=45486035) - [After nine years of grinding, Replit found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
 
 ## [Archives](archives/index.md)
 
