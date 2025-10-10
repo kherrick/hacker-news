@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 18:55:30](https://news.ycombinator.com/item?id=45542444) - [Does our \"need for speed\" make our Wi-Fi suck? Yes.](https://orb.net/blog/does-speed-make-wifi-suck)
+* [2025-10-10, 18:53:22](https://news.ycombinator.com/item?id=45542423) - [Toyota aims to launch the ' first' all-solid-state EV batteries](https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/)
 * [2025-10-10, 18:25:08](https://news.ycombinator.com/item?id=45542145) - [Google, Meta and Microsoft opts to stop showing political ads in EU](https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/)
 * [2025-10-10, 17:59:55](https://news.ycombinator.com/item?id=45541874) - [Show HN: Modeling the Human Body in Rust So I Can Cmd+Click Through It](https://github.com/lantos1618/open_human_ontology)
 * [2025-10-10, 17:37:43](https://news.ycombinator.com/item?id=45541600) - [Illegible Nature of Software Development Talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)

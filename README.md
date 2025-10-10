@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-10, 18:55:30](https://news.ycombinator.com/item?id=45542444) - [Does our \"need for speed\" make our Wi-Fi suck? Yes.](https://orb.net/blog/does-speed-make-wifi-suck)
+* [2025-10-10, 18:53:22](https://news.ycombinator.com/item?id=45542423) - [Toyota aims to launch the ' first' all-solid-state EV batteries](https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/)
 * [2025-10-10, 18:25:08](https://news.ycombinator.com/item?id=45542145) - [Google, Meta and Microsoft opts to stop showing political ads in EU](https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/)
 * [2025-10-10, 17:37:43](https://news.ycombinator.com/item?id=45541600) - [Illegible Nature of Software Development Talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
 * [2025-10-10, 17:01:04](https://news.ycombinator.com/item?id=45541125) - [It's OpenAI's world, we're just living in it](https://stratechery.com/2025/its-openais-world-were-just-living-in-it/)
-* [2025-10-10, 16:49:09](https://news.ycombinator.com/item?id=45540989) - [Regarding the Compact](https://president.mit.edu/writing-speeches/regarding-compact)
 * [2025-10-10, 15:48:24](https://news.ycombinator.com/item?id=45540313) - [\"Vibe code hell\" has replaced \"tutorial hell\" in coding education](https://blog.boot.dev/education/vibe-code-hell/)
 * [2025-10-10, 15:37:27](https://news.ycombinator.com/item?id=45540171) - [Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments](https://github.com/diffplug/gitcasso)
 * [2025-10-10, 15:18:42](https://news.ycombinator.com/item?id=45540011) - [You can't build tcc from Nixpkgs if you are in the UK](https://github.com/NixOS/nixpkgs/issues/444342)
@@ -15,13 +16,11 @@
 * [2025-10-10, 12:21:02](https://news.ycombinator.com/item?id=45538137) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 12:01:02](https://news.ycombinator.com/item?id=45537938) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-10-10, 11:56:05](https://news.ycombinator.com/item?id=45537890) - [OpenGL: Mesh shaders in the current year](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
-* [2025-10-10, 09:03:16](https://news.ycombinator.com/item?id=45536700) - [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
 * [2025-10-10, 09:01:54](https://news.ycombinator.com/item?id=45536694) - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
 * [2025-10-10, 07:50:54](https://news.ycombinator.com/item?id=45536325) - [A story about bypassing air Canada's in-flight network restrictions](https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/)
 * [2025-10-10, 04:40:19](https://news.ycombinator.com/item?id=45535424) - [Show HN: Lights Out: my 2D Rubik's Cube-like Game](https://raymondtana.github.io/projects/pages/Lights_Out.html)
 * [2025-10-10, 03:45:29](https://news.ycombinator.com/item?id=45535202) - [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects)
 * [2025-10-09, 19:34:36](https://news.ycombinator.com/item?id=45532090) - [Examples Are the Best Documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
-* [2025-10-09, 16:04:04](https://news.ycombinator.com/item?id=45529587) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 07:40:42](https://news.ycombinator.com/item?id=45524702) - [Python 3.14 is here. How fast is it?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Source-available transmission electron microscope](https://nanomi.org/)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
@@ -30,6 +29,7 @@
 * [2025-10-06, 12:42:19](https://news.ycombinator.com/item?id=45490740) - [Ask HN: What's the best hackable smart TV?](https://news.ycombinator.com/item?id=45490740)
 * [2025-10-06, 10:18:20](https://news.ycombinator.com/item?id=45489757) - [Ohno Type School: A (2020)](https://ohnotype.co/blog/ohno-type-school-a)
 * [2025-10-06, 09:00:00](https://news.ycombinator.com/item?id=45489274) - [QA-use-MCP: MCP for E2E testing](https://www.npmjs.com/package/@desplega.ai/qa-use-mcp)
+* [2025-10-05, 07:49:29](https://news.ycombinator.com/item?id=45479694) - [Lánczos Interpolation Explained (2022)](https://mazzo.li/posts/lanczos.html)
 
 ## [Archives](archives/index.md)
 
