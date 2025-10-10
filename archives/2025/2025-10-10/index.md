@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 21:35:22](https://news.ycombinator.com/item?id=45544044) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 * [2025-10-10, 21:09:44](https://news.ycombinator.com/item?id=45543811) - [How to save the world with ZFS and 12 USB sticks: 4th anniversary video (2011)](https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/)
 * [2025-10-10, 20:34:19](https://news.ycombinator.com/item?id=45543475) - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [2025-10-10, 20:33:25](https://news.ycombinator.com/item?id=45543471) - [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)

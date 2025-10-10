@@ -120,4 +120,5 @@
 * [2025-10-06, 01:35:03](https://news.ycombinator.com/item?id=45486829) - [Should I choose Ada, SPARK, or Rust over C/C++?](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
 * [2025-10-06, 01:34:31](https://news.ycombinator.com/item?id=45486825) - [Covert Eavesdropping Through Computer Mice](https://sites.google.com/view/mic-e-mouse)
 * [2025-10-06, 00:52:26](https://news.ycombinator.com/item?id=45486622) - [Rejected announces from libtorrent clients proxying through SOCKS](https://catgirl.online/2025/10/01/libtorrent-socks-woes)
+* [2025-10-06, 00:37:50](https://news.ycombinator.com/item?id=45486550) - [Dimensions of everyday objects](https://www.dimensions.com/)
 * [2025-10-06, 00:25:17](https://news.ycombinator.com/item?id=45486483) - [A PhD in Snapshots](https://rbharath.github.io/A-PhD-In-Snapshots/)
