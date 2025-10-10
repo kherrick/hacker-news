@@ -11,5 +11,6 @@
 * [2025-10-10, 03:39:57](https://news.ycombinator.com/item?id=45535183) - [Love C, Hate C: Web Framework Memory Problems](https://alew.is/lava.html)
 * [2025-10-10, 03:30:24](https://news.ycombinator.com/item?id=45535149) - [The RubyGems \"Security Incident\"](https://andre.arko.net/2025/10/09/the-rubygems-security-incident/)
 * [2025-10-10, 03:12:44](https://news.ycombinator.com/item?id=45535082) - [Managing Encrypted Filesystems with dirlock](https://lwn.net/Articles/1038859/)
+* [2025-10-10, 02:54:31](https://news.ycombinator.com/item?id=45535014) - [Vexing Exceptions](https://ericlippert.com/2008/09/10/vexing-exceptions/)
 * [2025-10-10, 02:30:58](https://news.ycombinator.com/item?id=45534922) - [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
 * [2025-10-10, 02:21:11](https://news.ycombinator.com/item?id=45534880) - [Intent Weaving for AI Coding Agents](https://www.autohand.ai/updates/intent-weaving)
