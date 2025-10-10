@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-10, 15:48:24](https://news.ycombinator.com/item?id=45540313) - [I'm in Vibe Code Hell](https://blog.boot.dev/education/vibe-code-hell/)
 * [2025-10-10, 15:11:04](https://news.ycombinator.com/item?id=45539943) - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
 * [2025-10-10, 15:00:51](https://news.ycombinator.com/item?id=45539845) - [The Molecular Basis of Long Covid Brain Fog](https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html)
 * [2025-10-10, 14:11:15](https://news.ycombinator.com/item?id=45539296) - [All-Natural Geoengineering with Frank Herbert's Dune](https://www.governance.fyi/p/all-natural-geoengineering-with-frank)
@@ -28,7 +29,6 @@
 * [2025-10-06, 15:53:29](https://news.ycombinator.com/item?id=45492704) - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
 * [2025-10-06, 12:42:19](https://news.ycombinator.com/item?id=45490740) - [Ask HN: What's the best hackable smart TV?](https://news.ycombinator.com/item?id=45490740)
 * [2025-10-06, 12:31:32](https://news.ycombinator.com/item?id=45490652) - [My first contribution to Linux](https://vkoskiv.com/first-linux-patch/)
-* [2025-10-06, 10:19:04](https://news.ycombinator.com/item?id=45489761) - [Automated Lean Proofs for Every Type](https://www.galois.com/articles/automated-lean-proofs-for-every-type)
 * [2025-10-06, 10:18:20](https://news.ycombinator.com/item?id=45489757) - [Ohno Type School](https://ohnotype.co/blog/ohno-type-school-a)
 
 ## [Archives](archives/index.md)
