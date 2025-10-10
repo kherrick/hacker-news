@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 13:27:43](https://news.ycombinator.com/item?id=45538760) - [PSA: Always use a separate domain for user content](https://www.statichost.eu/blog/google-safe-browsing/)
 * [2025-10-10, 12:21:02](https://news.ycombinator.com/item?id=45538137) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 12:01:02](https://news.ycombinator.com/item?id=45537938) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-10-10, 11:54:12](https://news.ycombinator.com/item?id=45537876) - [AI is an attack from above on wages\": cognitive scientist Hagen Blix](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages)
