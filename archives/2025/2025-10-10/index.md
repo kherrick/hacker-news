@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 17:59:55](https://news.ycombinator.com/item?id=45541874) - [Show HN: Modeling the Human Body in Rust So I Can Cmd+Click Through It](https://github.com/lantos1618/open_human_ontology)
+* [2025-10-10, 17:37:43](https://news.ycombinator.com/item?id=45541600) - [Illegible Nature of Software Development Talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
 * [2025-10-10, 17:01:04](https://news.ycombinator.com/item?id=45541125) - [2025.41: It's OpenAI's World, We're Just Living in It](https://stratechery.com/2025/its-openais-world-were-just-living-in-it/)
 * [2025-10-10, 16:49:09](https://news.ycombinator.com/item?id=45540989) - [Regarding the Compact – MIT President](https://president.mit.edu/writing-speeches/regarding-compact)
 * [2025-10-10, 16:15:58](https://news.ycombinator.com/item?id=45540615) - [Fascism Can't Mean Both a Specific Ideology and a Legitimate Target](https://www.astralcodexten.com/p/fascism-cant-mean-both-a-specific)
