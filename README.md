@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-10, 10:31:45](https://news.ycombinator.com/item?id=45537255) - [EU lawmakers push to ban term 'veggie-burger'](https://www.reuters.com/business/eu-lawmakers-push-ban-term-veggie-burger-2025-10-08/)
 * [2025-10-10, 09:53:35](https://news.ycombinator.com/item?id=45537035) - [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/)
 * [2025-10-10, 09:20:22](https://news.ycombinator.com/item?id=45536816) - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
 * [2025-10-10, 09:03:16](https://news.ycombinator.com/item?id=45536700) - [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
@@ -23,6 +22,7 @@
 * [2025-10-09, 07:40:42](https://news.ycombinator.com/item?id=45524702) - [Python 3.14 is here. How fast is it?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
 * [2025-10-08, 05:28:00](https://news.ycombinator.com/item?id=45512388) - [Static Bundle Object: Modernizing Static Linking](https://medium.com/@eyal.itkin/static-bundle-object-modernizing-static-linking-f1be36175064)
 * [2025-10-08, 05:18:44](https://news.ycombinator.com/item?id=45512342) - [Interactive Double Pendulum Playground](https://theabbie.github.io/DoublePendulum/)
+* [2025-10-06, 16:02:44](https://news.ycombinator.com/item?id=45492809) - [The product of the railways is the timetable](https://springbett.substack.com/p/the-product-of-the-railways-is-the)
 * [2025-10-06, 13:15:00](https://news.ycombinator.com/item?id=45491057) - [A beginner's guide to deploying LLMs with AMD on Windows using PyTorch](https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/)
 * [2025-10-06, 12:31:32](https://news.ycombinator.com/item?id=45490652) - [My first contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 * [2025-10-06, 10:40:28](https://news.ycombinator.com/item?id=45489884) - [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/)
