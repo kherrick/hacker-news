@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-10, 08:27:34",
+      "https://news.ycombinator.com/item?id=45536531"
+    ],
+    [
+      "I tracked Amazon's Prime Day prices. We've been played",
+      "https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 06:49:40",
       "https://news.ycombinator.com/item?id=45536000"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-10-09, 20:27:28",
-      "https://news.ycombinator.com/item?id=45532680"
-    ],
-    [
-      "Finding a VS Code Memory Leak",
-      "https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 20:00:31",
       "https://news.ycombinator.com/item?id=45532352"
     ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-10-09, 13:36:01",
-      "https://news.ycombinator.com/item?id=45527507"
-    ],
-    [
-      "Using a laptop as an HDMI monitor for an SBC",
-      "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 13:27:14",
       "https://news.ycombinator.com/item?id=45527402"
     ],
@@ -227,6 +217,16 @@
     [
       "Python 3.14 is here. How fast is it?",
       "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 05:18:44",
+      "https://news.ycombinator.com/item?id=45512342"
+    ],
+    [
+      "Interactive Double Pendulum Playground",
+      "https://theabbie.github.io/DoublePendulum/"
     ]
   ],
   [
