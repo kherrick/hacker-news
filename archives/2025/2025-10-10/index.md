@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 19:16:52](https://news.ycombinator.com/item?id=45542673) - [MIT Rejects White House Offer for Special Funding Treatment](https://web.archive.org/web/20251010162855/https://www.nytimes.com/2025/10/10/us/mit-rejects-white-house-compact.html)
 * [2025-10-10, 18:55:30](https://news.ycombinator.com/item?id=45542444) - [Does our \"need for speed\" make our Wi-Fi suck? Yes.](https://orb.net/blog/does-speed-make-wifi-suck)
 * [2025-10-10, 18:53:22](https://news.ycombinator.com/item?id=45542423) - [Toyota aims to launch the ' first' all-solid-state EV batteries](https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/)
 * [2025-10-10, 18:25:08](https://news.ycombinator.com/item?id=45542145) - [Google, Meta and Microsoft opts to stop showing political ads in EU](https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/)
