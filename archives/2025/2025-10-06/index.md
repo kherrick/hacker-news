@@ -73,6 +73,7 @@
 * [2025-10-06, 10:40:28](https://news.ycombinator.com/item?id=45489884) - [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/)
 * [2025-10-06, 10:39:50](https://news.ycombinator.com/item?id=45489881) - [ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs](https://github.com/scribeocr/scribeocr)
 * [2025-10-06, 10:38:21](https://news.ycombinator.com/item?id=45489874) - [Ahab's Arithmetic: The Mathematics of Moby-Dick](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720&context=jhm)
+* [2025-10-06, 10:14:02](https://news.ycombinator.com/item?id=45489727) - [The Power of Three: Ternary Logic, Triolectics, and Three Sided Football](https://www.sothismedias.com/home/the-power-of-three-ternary-logic-triolectics-and-football)
 * [2025-10-06, 09:56:03](https://news.ycombinator.com/item?id=45489625) - [The Debugging Book](https://www.debuggingbook.org/)
 * [2025-10-06, 09:52:55](https://news.ycombinator.com/item?id=45489599) - [Tutorials for Sandia's Lammps Simulation Package](https://arxiv.org/abs/2503.14020)
 * [2025-10-06, 09:49:33](https://news.ycombinator.com/item?id=45489581) - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
