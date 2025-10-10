@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-10, 03:45:29](https://news.ycombinator.com/item?id=45535202) - [Hashimoto's approach to building large technical projects](https://mitchellh.com/writing/building-large-technical-projects)
 * [2025-10-10, 03:30:24](https://news.ycombinator.com/item?id=45535149) - [The RubyGems \"Security Incident\"](https://andre.arko.net/2025/10/09/the-rubygems-security-incident/)
-* [2025-10-10, 02:30:58](https://news.ycombinator.com/item?id=45534922) - [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
 * [2025-10-10, 02:21:11](https://news.ycombinator.com/item?id=45534880) - [Intent Weaving for AI Coding Agents](https://www.autohand.ai/updates/intent-weaving)
 * [2025-10-09, 22:58:31](https://news.ycombinator.com/item?id=45533902) - [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
 * [2025-10-09, 22:53:39](https://news.ycombinator.com/item?id=45533870) - [Show HN: Open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
