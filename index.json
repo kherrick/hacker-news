@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-10, 13:28:40",
+      "https://news.ycombinator.com/item?id=45538768"
+    ],
+    [
+      "\"My dad says: people like you don't matter anymore.\"",
+      "https://twitter.com/travisakers/status/1976271447606624314"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 13:27:43",
       "https://news.ycombinator.com/item?id=45538760"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2025-10-10, 11:54:12",
-      "https://news.ycombinator.com/item?id=45537876"
+      "2025-10-10, 11:56:05",
+      "https://news.ycombinator.com/item?id=45537890"
     ],
     [
-      "AI is an attack from above on wages\": cognitive scientist Hagen Blix",
-      "https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages"
+      "OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader",
+      "https://www.supergoodcode.com/mesh-shaders-in-the-current-year/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "My first contribution to Linux",
       "https://vkoskiv.com/first-linux-patch/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 10:39:50",
-      "https://news.ycombinator.com/item?id=45489881"
-    ],
-    [
-      "ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs",
-      "https://github.com/scribeocr/scribeocr"
     ]
   ],
   [
