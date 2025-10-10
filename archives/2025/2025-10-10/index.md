@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 10:31:45](https://news.ycombinator.com/item?id=45537255) - [EU lawmakers push to ban term 'veggie-burger'](https://www.reuters.com/business/eu-lawmakers-push-ban-term-veggie-burger-2025-10-08/)
 * [2025-10-10, 09:53:35](https://news.ycombinator.com/item?id=45537035) - [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/)
 * [2025-10-10, 09:20:22](https://news.ycombinator.com/item?id=45536816) - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
 * [2025-10-10, 09:04:06](https://news.ycombinator.com/item?id=45536705) - [Nobel Peace Prize 2025](https://www.nobelprize.org/prizes/peace/2025/machado/facts/)
