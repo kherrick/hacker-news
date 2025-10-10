@@ -6,11 +6,13 @@
 
 * [2025-10-10, 13:28:40](https://news.ycombinator.com/item?id=45538768) - [\"My dad says: people like you don't matter anymore.\"](https://twitter.com/travisakers/status/1976271447606624314)
 * [2025-10-10, 13:27:43](https://news.ycombinator.com/item?id=45538760) - [PSA: Always use a separate domain for user content](https://www.statichost.eu/blog/google-safe-browsing/)
+* [2025-10-10, 13:24:42](https://news.ycombinator.com/item?id=45538728) - [US immigration enforcement using military hardware and tactics on civilians](https://www.theguardian.com/us-news/2025/oct/10/ice-immigration-agents-military-tactics)
 * [2025-10-10, 12:21:02](https://news.ycombinator.com/item?id=45538137) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 12:01:02](https://news.ycombinator.com/item?id=45537938) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-10-10, 11:56:05](https://news.ycombinator.com/item?id=45537890) - [OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
 * [2025-10-10, 11:54:12](https://news.ycombinator.com/item?id=45537876) - [AI is an attack from above on wages\": cognitive scientist Hagen Blix](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages)
 * [2025-10-10, 11:41:58](https://news.ycombinator.com/item?id=45537769) - [Digital euro could drain up to 700B euros of deposits in bank run, ECB says](https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/)
+* [2025-10-10, 10:52:56](https://news.ycombinator.com/item?id=45537372) - [Htmx, Datastar, Greedy Developer](https://drshapeless.com/blog/posts/htmx,-datastar,-greedy-developer.html)
 * [2025-10-10, 10:31:45](https://news.ycombinator.com/item?id=45537255) - [EU lawmakers push to ban term 'veggie-burger'](https://www.reuters.com/business/eu-lawmakers-push-ban-term-veggie-burger-2025-10-08/)
 * [2025-10-10, 09:53:35](https://news.ycombinator.com/item?id=45537035) - [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/)
 * [2025-10-10, 09:20:22](https://news.ycombinator.com/item?id=45536816) - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
