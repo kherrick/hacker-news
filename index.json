@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-10, 12:01:02",
+      "https://news.ycombinator.com/item?id=45537938"
+    ],
+    [
+      "Weave (YC W25) is hiring a founding AI engineer",
+      "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 11:41:58",
+      "https://news.ycombinator.com/item?id=45537769"
+    ],
+    [
+      "Digital euro could drain up to 700B euros of deposits in bank run, ECB says",
+      "https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 09:53:35",
       "https://news.ycombinator.com/item?id=45537035"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-10-09, 12:45:28",
-      "https://news.ycombinator.com/item?id=45526890"
-    ],
-    [
-      "Show HN: I built a web framework in C",
-      "https://github.com/ashtonjamesd/lavandula"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 07:40:42",
       "https://news.ycombinator.com/item?id=45524702"
     ],
@@ -217,6 +227,16 @@
     [
       "Interactive Double Pendulum Playground",
       "https://theabbie.github.io/DoublePendulum/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 16:33:43",
+      "https://news.ycombinator.com/item?id=45493158"
+    ],
+    [
+      "An MVCC-like columnar table on S3 with constant-time deletes",
+      "https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-10-06, 10:40:28",
-      "https://news.ycombinator.com/item?id=45489884"
-    ],
-    [
-      "Embracing the parallel coding agent lifestyle",
-      "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/"
-    ]
-  ],
-  [
-    [
       "2025-10-06, 10:39:50",
       "https://news.ycombinator.com/item?id=45489881"
     ],
@@ -287,16 +297,6 @@
     [
       "Ohno Type School",
       "https://ohnotype.co/blog/ohno-type-school-a"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 23:02:26",
-      "https://news.ycombinator.com/item?id=45486035"
-    ],
-    [
-      "After nine years of grinding, Replit found its market. Can it keep it?",
-      "https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/"
     ]
   ]
 ]
