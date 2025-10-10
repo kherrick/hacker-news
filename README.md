@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-10, 15:11:04](https://news.ycombinator.com/item?id=45539943) - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
+* [2025-10-10, 15:00:51](https://news.ycombinator.com/item?id=45539845) - [The Molecular Basis of Long Covid Brain Fog](https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html)
 * [2025-10-10, 14:11:15](https://news.ycombinator.com/item?id=45539296) - [All-Natural Geoengineering with Frank Herbert's Dune](https://www.governance.fyi/p/all-natural-geoengineering-with-frank)
-* [2025-10-10, 13:59:12](https://news.ycombinator.com/item?id=45539159) - [The Prairie Farmers Preserving the Most Threatened Ecosystem – Forever](https://reasonstobecheerful.world/prairie-farmers-preserve-most-threatened-ecosystem-forever/)
 * [2025-10-10, 13:27:43](https://news.ycombinator.com/item?id=45538760) - [PSA: Always use a separate domain for user content](https://www.statichost.eu/blog/google-safe-browsing/)
 * [2025-10-10, 12:21:02](https://news.ycombinator.com/item?id=45538137) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 12:01:02](https://news.ycombinator.com/item?id=45537938) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
@@ -26,7 +27,6 @@
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Open-source transmission electron microscope](https://sites.google.com/view/nanomi-org?usp=sharing)
 * [2025-10-06, 16:33:43](https://news.ycombinator.com/item?id=45493158) - [An MVCC-like columnar table on S3 with constant-time deletes](https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/)
 * [2025-10-06, 15:53:29](https://news.ycombinator.com/item?id=45492704) - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
-* [2025-10-06, 13:15:00](https://news.ycombinator.com/item?id=45491057) - [A beginner's guide to deploying LLMs with AMD on Windows using PyTorch](https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/)
 * [2025-10-06, 12:31:32](https://news.ycombinator.com/item?id=45490652) - [My first contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 * [2025-10-06, 10:19:04](https://news.ycombinator.com/item?id=45489761) - [Automated Lean Proofs for Every Type](https://www.galois.com/articles/automated-lean-proofs-for-every-type)
 * [2025-10-06, 10:18:20](https://news.ycombinator.com/item?id=45489757) - [Ohno Type School](https://ohnotype.co/blog/ohno-type-school-a)

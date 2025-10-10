@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 15:11:04](https://news.ycombinator.com/item?id=45539943) - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
+* [2025-10-10, 15:00:51](https://news.ycombinator.com/item?id=45539845) - [The Molecular Basis of Long Covid Brain Fog](https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html)
 * [2025-10-10, 14:11:15](https://news.ycombinator.com/item?id=45539296) - [All-Natural Geoengineering with Frank Herbert's Dune](https://www.governance.fyi/p/all-natural-geoengineering-with-frank)
 * [2025-10-10, 13:59:12](https://news.ycombinator.com/item?id=45539159) - [The Prairie Farmers Preserving the Most Threatened Ecosystem – Forever](https://reasonstobecheerful.world/prairie-farmers-preserve-most-threatened-ecosystem-forever/)
 * [2025-10-10, 13:44:33](https://news.ycombinator.com/item?id=45538963) - [Telegram's founder Pavel Durov sends alarmist message to all Telegram users](https://news.ycombinator.com/item?id=45538963)
