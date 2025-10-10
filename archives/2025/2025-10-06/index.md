@@ -97,6 +97,7 @@
 * [2025-10-06, 08:51:02](https://news.ycombinator.com/item?id=45489191) - [A Tissue Therapeutics Revolution](https://cutiss.swiss/)
 * [2025-10-06, 08:49:30](https://news.ycombinator.com/item?id=45489174) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
 * [2025-10-06, 08:36:26](https://news.ycombinator.com/item?id=45489065) - [Global Village Construction Set](https://www.opensourceecology.org/gvcs/)
+* [2025-10-06, 08:16:30](https://news.ycombinator.com/item?id=45488908) - [Wi-Fi Signal Tracks Heartbeat Without Wearables](https://spectrum.ieee.org/wi-fi-signal-heartbeat-detection)
 * [2025-10-06, 08:13:47](https://news.ycombinator.com/item?id=45488892) - [A History of Large Language Models](https://gregorygundersen.com/blog/2025/10/01/large-language-models/)
 * [2025-10-06, 07:50:22](https://news.ycombinator.com/item?id=45488729) - [Zürich voters ban noisy leaf blowers](https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192)
 * [2025-10-06, 07:47:17](https://news.ycombinator.com/item?id=45488713) - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
