@@ -20,7 +20,6 @@
 * [2025-10-10, 11:56:05](https://news.ycombinator.com/item?id=45537890) - [OpenGL: Mesh shaders in the current year](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
 * [2025-10-10, 09:01:54](https://news.ycombinator.com/item?id=45536694) - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
 * [2025-10-08, 22:02:51](https://news.ycombinator.com/item?id=45521114) - [The Orphan Tsunami of 1700 [pdf]](https://pubs.usgs.gov/pp/pp1707/pp1707.pdf)
-* [2025-10-08, 16:09:08](https://news.ycombinator.com/item?id=45517717) - [A molecular motor minimizes energy waste](https://physics.aps.org/articles/v18/167)
 * [2025-10-08, 09:34:59](https://news.ycombinator.com/item?id=45514060) - [Let's Take Esoteric Programming Languages Seriously](https://feelingof.com/episodes/078/)
 * [2025-10-08, 07:58:29](https://news.ycombinator.com/item?id=45513355) - [Intelligent Search in Rails with Typesense](https://avohq.io/blog/intelligent-search-in-rails-with-typesense)
 * [2025-10-08, 05:11:33](https://news.ycombinator.com/item?id=45512300) - [Synthetic aperture radar autofocus and calibration](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)
@@ -29,6 +28,7 @@
 * [2025-10-06, 21:40:35](https://news.ycombinator.com/item?id=45496625) - [Automated code reviews via mutation testing](https://github.com/mbj/mutant)
 * [2025-10-06, 19:07:22](https://news.ycombinator.com/item?id=45495051) - [A Quiet Change to RSA](https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
+* [2025-10-05, 23:02:26](https://news.ycombinator.com/item?id=45486035) - [After nine years of grinding, Replit found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
 * [2025-10-05, 07:49:29](https://news.ycombinator.com/item?id=45479694) - [Lánczos Interpolation Explained (2022)](https://mazzo.li/posts/lanczos.html)
 
 ## [Archives](archives/index.md)
