@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-11, 23:16:05](https://news.ycombinator.com/item?id=45553577) - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
-* [2025-10-11, 22:16:18](https://news.ycombinator.com/item?id=45553132) - [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
 * [2025-10-11, 21:55:49](https://news.ycombinator.com/item?id=45553033) - [Datastar response to allegations](https://data-star.dev/essays/greedy_developer)
 * [2025-10-11, 21:14:40](https://news.ycombinator.com/item?id=45552768) - [ElementaryOS - The thoughtful, capable and ethical replacement for Windows/macOS](https://elementary.io/)
 * [2025-10-11, 20:51:03](https://news.ycombinator.com/item?id=45552578) - [Japan's summers have lengthened by 3 weeks over 42 years, say resaerchers](https://english.kyodonews.net/articles/-/62626)
@@ -24,6 +23,7 @@
 * [2025-10-10, 20:34:19](https://news.ycombinator.com/item?id=45543475) - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [2025-10-08, 15:01:06](https://news.ycombinator.com/item?id=45516964) - [Beyond indexes: How open table formats optimize query performance](https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance)
 * [2025-10-08, 10:05:10](https://news.ycombinator.com/item?id=45514270) - [All-New Next Gen of UniFi Storage](https://blog.ui.com/article/all-new-next-gen-of-unifi-storage)
+* [2025-10-08, 07:41:56](https://news.ycombinator.com/item?id=45513234) - [Every LLM Is Its Own Media Channel](https://www.aivojournal.org/every-llm-is-its-own-media-channel/)
 * [2025-10-07, 22:18:14](https://news.ycombinator.com/item?id=45509636) - [Building a JavaScript Runtime using C](https://devlogs.xyz/blog/building-a-javaScript-runtime)
 * [2025-10-07, 18:19:37](https://news.ycombinator.com/item?id=45506748) - [How Apple designs a virtual knob (2012)](https://jherrm.github.io/knobs/)
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center under construction through photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)

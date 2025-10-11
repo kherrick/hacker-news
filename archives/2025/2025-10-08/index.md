@@ -61,6 +61,7 @@
 * [2025-10-08, 08:19:36](https://news.ycombinator.com/item?id=45513485) - [Synology Reverses Policy Banning Third-Party HDDs After NAS Sales Plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
 * [2025-10-08, 08:15:49](https://news.ycombinator.com/item?id=45513459) - [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
 * [2025-10-08, 07:58:29](https://news.ycombinator.com/item?id=45513355) - [Intelligent Search in Rails with Typesense](https://avohq.io/blog/intelligent-search-in-rails-with-typesense)
+* [2025-10-08, 07:41:56](https://news.ycombinator.com/item?id=45513234) - [Every LLM Is Its Own Media Channel](https://www.aivojournal.org/every-llm-is-its-own-media-channel/)
 * [2025-10-08, 05:44:53](https://news.ycombinator.com/item?id=45512494) - [Reflections on Big Tech](https://micro.mu/blog/2025/10/07/reflection-on-big-tech.html)
 * [2025-10-08, 05:28:00](https://news.ycombinator.com/item?id=45512388) - [Static Bundle Object: Modernizing Static Linking](https://medium.com/@eyal.itkin/static-bundle-object-modernizing-static-linking-f1be36175064)
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Source-available transmission electron microscope](https://nanomi.org/)
