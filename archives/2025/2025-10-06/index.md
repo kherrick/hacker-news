@@ -94,6 +94,7 @@
 * [2025-10-06, 09:49:33](https://news.ycombinator.com/item?id=45489581) - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
 * [2025-10-06, 09:41:16](https://news.ycombinator.com/item?id=45489533) - [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
 * [2025-10-06, 09:36:08](https://news.ycombinator.com/item?id=45489497) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
+* [2025-10-06, 09:08:03](https://news.ycombinator.com/item?id=45489329) - [Crypto-Current (2021)](https://zerophilosophy.substack.com/p/crypto-current)
 * [2025-10-06, 09:06:28](https://news.ycombinator.com/item?id=45489317) - [A terminal command that tells you if your USB-C cable is bad](https://kau.sh/blog/usbi/)
 * [2025-10-06, 09:06:12](https://news.ycombinator.com/item?id=45489311) - [Neutts-air – open-source, on device TTS](https://github.com/neuphonic/neutts-air)
 * [2025-10-06, 09:00:00](https://news.ycombinator.com/item?id=45489274) - [QA-use-MCP: MCP for E2E testing](https://www.npmjs.com/package/@desplega.ai/qa-use-mcp)
