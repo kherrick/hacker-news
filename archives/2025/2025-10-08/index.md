@@ -34,6 +34,7 @@
 * [2025-10-08, 15:21:12](https://news.ycombinator.com/item?id=45517173) - [GitHub Will Prioritize Migrating to Azure over Feature Development](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/)
 * [2025-10-08, 15:17:36](https://news.ycombinator.com/item?id=45517134) - [A deep dive into the RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
 * [2025-10-08, 15:01:38](https://news.ycombinator.com/item?id=45516968) - [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
+* [2025-10-08, 15:01:06](https://news.ycombinator.com/item?id=45516964) - [Beyond Indexes: How Open Table Formats Optimize Query Performance](https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance)
 * [2025-10-08, 14:38:23](https://news.ycombinator.com/item?id=45516690) - [Vectrex Mini](https://vectrex.com/vectrex-mini-details/)
 * [2025-10-08, 14:28:06](https://news.ycombinator.com/item?id=45516584) - [Show HN: Recall: Give Claude perfect memory with Redis-backed persistent context](https://www.npmjs.com/package/@joseairosa/recall)
 * [2025-10-08, 14:25:19](https://news.ycombinator.com/item?id=45516556) - [How To Start Bug Bounties (2021)](https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4)
