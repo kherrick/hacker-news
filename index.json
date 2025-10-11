@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-10-11, 19:41:27",
+      "https://news.ycombinator.com/item?id=45552049"
+    ],
+    [
+      "A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS",
+      "https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/"
+    ]
+  ],
+  [
+    [
       "2025-10-11, 18:36:51",
       "https://news.ycombinator.com/item?id=45551504"
     ],
@@ -257,16 +267,6 @@
     [
       "Otary now includes 17 image binarization methods",
       "https://alexandrepoupeau.com/otary/api/image/transformers/thresholding/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 13:05:26",
-      "https://news.ycombinator.com/item?id=45502590"
-    ],
-    [
-      "A Library for Fish Sounds",
-      "https://nautil.us/a-library-for-fish-sounds-1239697/"
     ]
   ],
   [
