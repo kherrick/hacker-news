@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 21:55:49](https://news.ycombinator.com/item?id=45553033) - [Datastar response to allegations](https://data-star.dev/essays/greedy_developer)
 * [2025-10-11, 20:51:03](https://news.ycombinator.com/item?id=45552578) - [Japan's summers have lengthened by 3 weeks over 42 years, say resaerchers](https://english.kyodonews.net/articles/-/62626)
 * [2025-10-11, 20:50:45](https://news.ycombinator.com/item?id=45552573) - [Diane Keaton, a Star of 'Annie Hall' and 'First Wives Club,' Dies at 79](https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html)
 * [2025-10-11, 20:49:49](https://news.ycombinator.com/item?id=45552565) - [How much revenue is needed to justify the current AI spend?](https://pracap.com/an-ai-addendum/)

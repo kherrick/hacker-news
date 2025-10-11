@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-11, 21:55:49](https://news.ycombinator.com/item?id=45553033) - [Datastar response to allegations](https://data-star.dev/essays/greedy_developer)
 * [2025-10-11, 20:51:03](https://news.ycombinator.com/item?id=45552578) - [Japan's summers have lengthened by 3 weeks over 42 years, say resaerchers](https://english.kyodonews.net/articles/-/62626)
 * [2025-10-11, 20:50:45](https://news.ycombinator.com/item?id=45552573) - [Diane Keaton has died](https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html)
 * [2025-10-11, 20:49:49](https://news.ycombinator.com/item?id=45552565) - [How much revenue is needed to justify the current AI spend?](https://pracap.com/an-ai-addendum/)
@@ -8,7 +9,6 @@
 * [2025-10-11, 18:29:27](https://news.ycombinator.com/item?id=45551450) - [Rating 26 years of Java changes](https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/)
 * [2025-10-11, 17:41:45](https://news.ycombinator.com/item?id=45551081) - [People regret buying Amazon smart displays after being bombarded with ads](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/)
 * [2025-10-11, 15:47:22](https://news.ycombinator.com/item?id=45550049) - [GNU Health](https://www.gnuhealth.org/about-us.html)
-* [2025-10-11, 15:26:31](https://news.ycombinator.com/item?id=45549888) - [How to check for overlapping intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-11, 15:19:54](https://news.ycombinator.com/item?id=45549848) - [Microsoft Amplifier](https://github.com/microsoft/amplifier)
 * [2025-10-11, 14:31:15](https://news.ycombinator.com/item?id=45549434) - [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 13:35:00](https://news.ycombinator.com/item?id=45549017) - [Wilson's Algorithm](https://cruzgodar.com/applets/wilsons-algorithm/)
