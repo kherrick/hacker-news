@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 23:16:05](https://news.ycombinator.com/item?id=45553577) - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
 * [2025-10-11, 22:16:18](https://news.ycombinator.com/item?id=45553132) - [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
 * [2025-10-11, 21:55:49](https://news.ycombinator.com/item?id=45553033) - [Datastar response to allegations](https://data-star.dev/essays/greedy_developer)
 * [2025-10-11, 21:14:40](https://news.ycombinator.com/item?id=45552768) - [ElementaryOS - The thoughtful, capable and ethical replacement for Windows/macOS](https://elementary.io/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-11, 23:16:05](https://news.ycombinator.com/item?id=45553577) - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
 * [2025-10-11, 22:16:18](https://news.ycombinator.com/item?id=45553132) - [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
 * [2025-10-11, 21:55:49](https://news.ycombinator.com/item?id=45553033) - [Datastar response to allegations](https://data-star.dev/essays/greedy_developer)
 * [2025-10-11, 21:14:40](https://news.ycombinator.com/item?id=45552768) - [ElementaryOS - The thoughtful, capable and ethical replacement for Windows/macOS](https://elementary.io/)
@@ -25,7 +26,6 @@
 * [2025-10-08, 10:05:10](https://news.ycombinator.com/item?id=45514270) - [All-New Next Gen of UniFi Storage](https://blog.ui.com/article/all-new-next-gen-of-unifi-storage)
 * [2025-10-07, 22:18:14](https://news.ycombinator.com/item?id=45509636) - [Building a JavaScript Runtime using C](https://devlogs.xyz/blog/building-a-javaScript-runtime)
 * [2025-10-07, 18:19:37](https://news.ycombinator.com/item?id=45506748) - [How Apple designs a virtual knob (2012)](https://jherrm.github.io/knobs/)
-* [2025-10-07, 13:59:36](https://news.ycombinator.com/item?id=45503158) - [Otary now includes 17 image binarization methods](https://alexandrepoupeau.com/otary/api/image/transformers/thresholding/)
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center under construction through photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)
 * [2025-10-06, 19:07:22](https://news.ycombinator.com/item?id=45495051) - [A quiet change to RSA](https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/)
 * [2025-10-06, 13:06:44](https://news.ycombinator.com/item?id=45490980) - [The Murder That Made Skip Hollandsworth a True Crime Writer](https://www.texasmonthly.com/true-crime/skip-hollandsworth-new-book-she-kills/)
