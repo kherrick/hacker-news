@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 13:27:42](https://news.ycombinator.com/item?id=45548967) - [Hackers leak Qantas data on 5 million customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
 * [2025-10-11, 13:15:37](https://news.ycombinator.com/item?id=45548902) - [Sysco Is Not \"Ruining Restaurants\"](https://liamrosen.com/2025/10/10/no-sysco-is-not-ruining-restaurants/)
 * [2025-10-11, 11:57:58](https://news.ycombinator.com/item?id=45548457) - [Learn Turbo Pascal – a video series originally released on VHS](https://www.youtube.com/watch?v=UOtonwG3DXM)
 * [2025-10-11, 09:40:10](https://news.ycombinator.com/item?id=45547807) - [Vietnam Airlines Data Breach](https://haveibeenpwned.com/Breach/VietnamAirlines)
