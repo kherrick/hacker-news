@@ -55,6 +55,7 @@
 * [2025-10-06, 13:16:29](https://news.ycombinator.com/item?id=45491069) - [Design Principle: Composable Services](https://sleepingpotato.com/design-principle-composable-services/)
 * [2025-10-06, 13:15:00](https://news.ycombinator.com/item?id=45491057) - [A beginner's guide to deploying LLMs with AMD on Windows using PyTorch](https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/)
 * [2025-10-06, 13:13:18](https://news.ycombinator.com/item?id=45491043) - [A Library for Parsing Dutch Smart Meter Requirements (DSMR)](https://github.com/mijnverbruik/dsmr)
+* [2025-10-06, 13:06:44](https://news.ycombinator.com/item?id=45490980) - [The Murder That Made Skip Hollandsworth a True Crime Writer](https://www.texasmonthly.com/true-crime/skip-hollandsworth-new-book-she-kills/)
 * [2025-10-06, 13:04:53](https://news.ycombinator.com/item?id=45490957) - [Real-time Nvidia GPU dashboard](https://github.com/psalias2006/gpu-hot)
 * [2025-10-06, 12:44:43](https://news.ycombinator.com/item?id=45490760) - [Ask HN: Apple won't let me sign up for the developer program. What do I do?](https://news.ycombinator.com/item?id=45490760)
 * [2025-10-06, 12:42:19](https://news.ycombinator.com/item?id=45490740) - [Ask HN: What's the best hackable smart TV?](https://news.ycombinator.com/item?id=45490740)
