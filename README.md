@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-11, 09:40:10](https://news.ycombinator.com/item?id=45547807) - [Vietnam Airlines Data Breach](https://haveibeenpwned.com/Breach/VietnamAirlines)
 * [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [HTML's Best Kept Secret: The Output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 08:19:31](https://news.ycombinator.com/item?id=45547537) - [AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025](https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025)
+* [2025-10-11, 08:09:15](https://news.ycombinator.com/item?id=45547492) - [Daniel Kahneman opted for assisted suicide in Switzerland](https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html)
 * [2025-10-11, 04:36:16](https://news.ycombinator.com/item?id=45546593) - [AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/)
 * [2025-10-11, 02:06:02](https://news.ycombinator.com/item?id=45545965) - [How hard do you have to hit a chicken to cook it? (2020)](https://james-simon.github.io/blog/chicken-cooking/)
 * [2025-10-10, 23:51:13](https://news.ycombinator.com/item?id=45545098) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
@@ -22,12 +24,10 @@
 * [2025-10-08, 12:13:30](https://news.ycombinator.com/item?id=45515290) - [HATEOAS for Haunted Houses](https://www.sanfordtech.xyz/posts/hateoas-for-haunted-houses/)
 * [2025-10-08, 09:34:59](https://news.ycombinator.com/item?id=45514060) - [Let's Take Esoteric Programming Languages Seriously](https://feelingof.com/episodes/078/)
 * [2025-10-08, 07:58:29](https://news.ycombinator.com/item?id=45513355) - [Intelligent Search in Rails with Typesense](https://avohq.io/blog/intelligent-search-in-rails-with-typesense)
-* [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Source-available transmission electron microscope](https://nanomi.org/)
 * [2025-10-08, 05:11:33](https://news.ycombinator.com/item?id=45512300) - [Synthetic aperture radar autofocus and calibration](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)
 * [2025-10-07, 19:34:40](https://news.ycombinator.com/item?id=45507753) - [ThalamusDB: Query text, tables, images, and audio](https://github.com/itrummer/thalamusdb)
 * [2025-10-07, 00:46:57](https://news.ycombinator.com/item?id=45498109) - [Hardware Stockholm Syndrome](https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
-* [2025-10-06, 10:18:20](https://news.ycombinator.com/item?id=45489757) - [Ohno Type School: A (2020)](https://ohnotype.co/blog/ohno-type-school-a)
 * [2025-10-05, 23:02:26](https://news.ycombinator.com/item?id=45486035) - [After nine years of grinding, Replit found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
 * [2025-10-05, 07:49:29](https://news.ycombinator.com/item?id=45479694) - [Lánczos Interpolation Explained (2022)](https://mazzo.li/posts/lanczos.html)
 
