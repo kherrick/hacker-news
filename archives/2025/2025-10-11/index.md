@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 16:42:19](https://news.ycombinator.com/item?id=45550544) - [The Case Against 30-Year Mortgages](https://www.wsj.com/opinion/the-case-against-30-year-mortgages-0cbd6d56)
 * [2025-10-11, 15:47:22](https://news.ycombinator.com/item?id=45550049) - [GNU Health](https://www.gnuhealth.org/about-us.html)
 * [2025-10-11, 15:26:31](https://news.ycombinator.com/item?id=45549888) - [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-11, 15:19:54](https://news.ycombinator.com/item?id=45549848) - [Microsoft Amplifier](https://github.com/microsoft/amplifier)
