@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [HTML's Best Kept Secret: The Output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 04:36:16](https://news.ycombinator.com/item?id=45546593) - [AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/)
 * [2025-10-11, 04:31:15](https://news.ycombinator.com/item?id=45546575) - [What is going on with all this radioactive shrimp?](https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/)
 * [2025-10-11, 02:06:02](https://news.ycombinator.com/item?id=45545965) - [How hard do you have to hit a chicken to cook it? (2020)](https://james-simon.github.io/blog/chicken-cooking/)
@@ -18,7 +19,6 @@
 * [2025-10-10, 08:46:40](https://news.ycombinator.com/item?id=45536618) - [Datastar: Lightweight hypermedia framework for building interactive web apps](https://data-star.dev/)
 * [2025-10-10, 04:40:19](https://news.ycombinator.com/item?id=45535424) - [Show HN: Lights Out: my 2D Rubik's Cube-like Game](https://raymondtana.github.io/projects/pages/Lights_Out.html)
 * [2025-10-10, 03:39:57](https://news.ycombinator.com/item?id=45535183) - [Love C, hate C: Web framework memory problems](https://alew.is/lava.html)
-* [2025-10-09, 16:04:04](https://news.ycombinator.com/item?id=45529587) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-08, 16:09:08](https://news.ycombinator.com/item?id=45517717) - [A Molecular Motor Minimizes Energy Waste](https://physics.aps.org/articles/v18/167)
 * [2025-10-08, 12:13:30](https://news.ycombinator.com/item?id=45515290) - [HATEOAS for Haunted Houses](https://www.sanfordtech.xyz/posts/hateoas-for-haunted-houses/)
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Source-available transmission electron microscope](https://nanomi.org/)
