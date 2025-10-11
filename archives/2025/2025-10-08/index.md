@@ -26,6 +26,7 @@
 * [2025-10-08, 17:56:32](https://news.ycombinator.com/item?id=45518813) - [WinBoat: Windows apps on Linux with seamless integration](https://www.winboat.app/)
 * [2025-10-08, 16:47:26](https://news.ycombinator.com/item?id=45518136) - [Doctorow: American Tech Cartels Use Apps to Break the Law](https://lithub.com/how-american-tech-cartels-use-apps-to-break-the-law/)
 * [2025-10-08, 16:46:36](https://news.ycombinator.com/item?id=45518127) - [Show HN: I built a local-first podcast app](https://wherever.audio)
+* [2025-10-08, 16:09:08](https://news.ycombinator.com/item?id=45517717) - [A Molecular Motor Minimizes Energy Waste](https://physics.aps.org/articles/v18/167)
 * [2025-10-08, 16:06:21](https://news.ycombinator.com/item?id=45517674) - [Ortega Hypothesis](https://en.wikipedia.org/wiki/Ortega_hypothesis)
 * [2025-10-08, 16:03:49](https://news.ycombinator.com/item?id=45517642) - [Suspicionless ChatControl must be taboo in a state governed by the rule of law](https://digitalcourage.social/@echo_pbreyer/115337976340299372)
 * [2025-10-08, 15:54:46](https://news.ycombinator.com/item?id=45517532) - [A 9KB (3KB gzip) single HTML notebook, perfect for minimalists](https://chunqiuyiyu.github.io/xie/)
