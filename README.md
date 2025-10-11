@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-11, 04:31:15](https://news.ycombinator.com/item?id=45546575) - [What Is Going on with All This Radioactive Shrimp?](https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/)
+* [2025-10-11, 04:20:10](https://news.ycombinator.com/item?id=45546537) - [Naked mole rats reveal genetic secret to long life](https://www.bbc.com/news/articles/cz7rxy21lxwo)
 * [2025-10-11, 02:06:02](https://news.ycombinator.com/item?id=45545965) - [How hard do you have to hit a chicken to cook it? (2020)](https://james-simon.github.io/blog/chicken-cooking/)
 * [2025-10-10, 23:51:13](https://news.ycombinator.com/item?id=45545098) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 22:37:16](https://news.ycombinator.com/item?id=45544636) - [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
@@ -25,7 +26,6 @@
 * [2025-10-07, 19:34:40](https://news.ycombinator.com/item?id=45507753) - [ThalamusDB: Query text, tables, images, and audio](https://github.com/itrummer/thalamusdb)
 * [2025-10-07, 00:46:57](https://news.ycombinator.com/item?id=45498109) - [Hardware Stockholm Syndrome](https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
-* [2025-10-06, 13:16:29](https://news.ycombinator.com/item?id=45491069) - [Design Principle: Composable Services](https://sleepingpotato.com/design-principle-composable-services/)
 * [2025-10-06, 10:18:20](https://news.ycombinator.com/item?id=45489757) - [Ohno Type School: A (2020)](https://ohnotype.co/blog/ohno-type-school-a)
 * [2025-10-06, 08:16:30](https://news.ycombinator.com/item?id=45488908) - [Wi-fi signal tracks heartbeat without wearables](https://spectrum.ieee.org/wi-fi-signal-heartbeat-detection)
 * [2025-10-05, 23:02:26](https://news.ycombinator.com/item?id=45486035) - [After nine years of grinding, Replit found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
