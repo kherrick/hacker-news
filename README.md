@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-11, 15:47:22](https://news.ycombinator.com/item?id=45550049) - [GNU Health](https://www.gnuhealth.org/about-us.html)
-* [2025-10-11, 15:26:31](https://news.ycombinator.com/item?id=45549888) - [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-11, 15:19:54](https://news.ycombinator.com/item?id=45549848) - [Microsoft Amplifier](https://github.com/microsoft/amplifier)
-* [2025-10-11, 14:31:15](https://news.ycombinator.com/item?id=45549434) - [Vibing a non-trivial ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
-* [2025-10-11, 14:29:11](https://news.ycombinator.com/item?id=45549422) - [Nue 2.0 Beta released! The Unix of the web](https://nuejs.org/blog/2.0/)
+* [2025-10-11, 14:31:15](https://news.ycombinator.com/item?id=45549434) - [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 14:12:02](https://news.ycombinator.com/item?id=45549308) - [Firefox is the best mobile browser](https://kelvinjps.com/blog/firefox-best-mobile-browser/)
 * [2025-10-11, 13:27:42](https://news.ycombinator.com/item?id=45548967) - [Hackers leak Qantas data on 5M customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
 * [2025-10-11, 11:57:58](https://news.ycombinator.com/item?id=45548457) - [Learn Turbo Pascal – a video series originally released on VHS](https://www.youtube.com/watch?v=UOtonwG3DXM)
@@ -24,12 +22,14 @@
 * [2025-10-10, 09:01:54](https://news.ycombinator.com/item?id=45536694) - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
 * [2025-10-08, 22:02:51](https://news.ycombinator.com/item?id=45521114) - [The Orphan Tsunami of 1700 [pdf]](https://pubs.usgs.gov/pp/pp1707/pp1707.pdf)
 * [2025-10-08, 09:34:59](https://news.ycombinator.com/item?id=45514060) - [Let's Take Esoteric Programming Languages Seriously](https://feelingof.com/episodes/078/)
+* [2025-10-08, 07:58:29](https://news.ycombinator.com/item?id=45513355) - [Intelligent Search in Rails with Typesense](https://avohq.io/blog/intelligent-search-in-rails-with-typesense)
 * [2025-10-08, 05:11:33](https://news.ycombinator.com/item?id=45512300) - [Synthetic aperture radar autofocus and calibration](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)
 * [2025-10-07, 22:18:14](https://news.ycombinator.com/item?id=45509636) - [Building a JavaScript Runtime from Scratch using C](https://devlogs.xyz/blog/building-a-javaScript-runtime)
 * [2025-10-07, 13:05:26](https://news.ycombinator.com/item?id=45502590) - [A Library for Fish Sounds](https://nautil.us/a-library-for-fish-sounds-1239697/)
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center under construction through photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)
 * [2025-10-06, 19:07:22](https://news.ycombinator.com/item?id=45495051) - [A Quiet Change to RSA](https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
+* [2025-10-06, 09:36:08](https://news.ycombinator.com/item?id=45489497) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
 
 ## [Archives](archives/index.md)
 
