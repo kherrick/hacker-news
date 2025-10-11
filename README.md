@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-11, 17:32:10](https://news.ycombinator.com/item?id=45551006) - [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app)
 * [2025-10-11, 15:47:22](https://news.ycombinator.com/item?id=45550049) - [GNU Health](https://www.gnuhealth.org/about-us.html)
 * [2025-10-11, 15:26:31](https://news.ycombinator.com/item?id=45549888) - [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-11, 15:19:54](https://news.ycombinator.com/item?id=45549848) - [Microsoft Amplifier](https://github.com/microsoft/amplifier)
@@ -20,7 +21,6 @@
 * [2025-10-10, 20:34:19](https://news.ycombinator.com/item?id=45543475) - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [2025-10-10, 18:55:30](https://news.ycombinator.com/item?id=45542444) - [Does our “need for speed” make our wi-fi suck?](https://orb.net/blog/does-speed-make-wifi-suck)
 * [2025-10-10, 09:01:54](https://news.ycombinator.com/item?id=45536694) - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
-* [2025-10-08, 22:02:51](https://news.ycombinator.com/item?id=45521114) - [The Orphan Tsunami of 1700 [pdf]](https://pubs.usgs.gov/pp/pp1707/pp1707.pdf)
 * [2025-10-08, 09:34:59](https://news.ycombinator.com/item?id=45514060) - [Let's Take Esoteric Programming Languages Seriously](https://feelingof.com/episodes/078/)
 * [2025-10-08, 05:11:33](https://news.ycombinator.com/item?id=45512300) - [Synthetic aperture radar autofocus and calibration](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)
 * [2025-10-07, 22:18:14](https://news.ycombinator.com/item?id=45509636) - [Building a JavaScript Runtime from Scratch using C](https://devlogs.xyz/blog/building-a-javaScript-runtime)
