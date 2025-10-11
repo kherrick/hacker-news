@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-11, 14:42:04",
-      "https://news.ycombinator.com/item?id=45549524"
-    ],
-    [
-      "Does anyone remember websites?",
-      "http://tttthis.com/rememberwebsites.php/"
-    ]
-  ],
-  [
-    [
       "2025-10-11, 14:33:22",
       "https://news.ycombinator.com/item?id=45549456"
     ],
@@ -27,6 +17,16 @@
     [
       "Nue 2.0 Beta released! The Unix of the web",
       "https://nuejs.org/blog/2.0/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 14:12:02",
+      "https://news.ycombinator.com/item?id=45549308"
+    ],
+    [
+      "Firefox is the best mobile browser",
+      "https://kelvinjps.com/blog/firefox-best-mobile-browser/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-10-07, 22:18:14",
+      "https://news.ycombinator.com/item?id=45509636"
+    ],
+    [
+      "Building a JavaScript Runtime from Scratch using C",
+      "https://devlogs.xyz/blog/building-a-javaScript-runtime"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 13:05:26",
       "https://news.ycombinator.com/item?id=45502590"
     ],
@@ -257,16 +267,6 @@
     [
       "The World Trade Center under construction through photos, 1966-1979",
       "https://rarehistoricalphotos.com/twin-towers-construction-photographs/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 21:40:35",
-      "https://news.ycombinator.com/item?id=45496625"
-    ],
-    [
-      "Automated code reviews via mutation testing",
-      "https://github.com/mbj/mutant"
     ]
   ],
   [
