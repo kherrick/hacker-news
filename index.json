@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-11, 15:26:31",
+      "https://news.ycombinator.com/item?id=45549888"
+    ],
+    [
+      "How to Check for Overlapping Intervals",
+      "https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/"
+    ]
+  ],
+  [
+    [
       "2025-10-11, 14:33:22",
       "https://news.ycombinator.com/item?id=45549456"
     ],
     [
       "Tech megacaps lose $770B in value as Nasdaq suffers steepest drop since April",
       "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 14:31:15",
+      "https://news.ycombinator.com/item?id=45549434"
+    ],
+    [
+      "Vibing a Non-Trivial Ghostty Feature",
+      "https://mitchellh.com/writing/non-trivial-vibing"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Programming in the Sun: A Year with the Daylight Computer",
       "https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 22:37:16",
-      "https://news.ycombinator.com/item?id=45544636"
-    ],
-    [
-      "Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles",
-      "https://news.ycombinator.com/item?id=45544636"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: A Digital Twin of my coffee roaster that runs in the browser",
       "https://autoroaster.com/"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 07:49:29",
-      "https://news.ycombinator.com/item?id=45479694"
-    ],
-    [
-      "Lánczos Interpolation Explained (2022)",
-      "https://mazzo.li/posts/lanczos.html"
     ]
   ]
 ]
