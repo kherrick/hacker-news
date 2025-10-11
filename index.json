@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=45516964"
     ],
     [
-      "Beyond Indexes: How Open Table Formats Optimize Query Performance",
+      "Beyond indexes: How open table formats optimize query performance",
       "https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance"
     ]
   ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-10-07, 13:05:26",
+      "https://news.ycombinator.com/item?id=45502590"
+    ],
+    [
+      "A Library for Fish Sounds",
+      "https://nautil.us/a-library-for-fish-sounds-1239697/"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 00:40:26",
       "https://news.ycombinator.com/item?id=45498055"
     ],
@@ -287,16 +297,6 @@
     [
       "Testing two 18 TB white label SATA hard drives from datablocks.dev",
       "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 09:08:03",
-      "https://news.ycombinator.com/item?id=45489329"
-    ],
-    [
-      "Crypto-Current (2021)",
-      "https://zerophilosophy.substack.com/p/crypto-current"
     ]
   ]
 ]
