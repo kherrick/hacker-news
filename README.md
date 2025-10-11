@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-11, 04:01:52](https://news.ycombinator.com/item?id=45546478) - [Peter Thiel's antichrist lectures reveal more about him than Armageddon](https://www.theguardian.com/technology/ng-interactive/2025/oct/10/peter-thiel-antichrist-lectures)
+* [2025-10-11, 02:56:28](https://news.ycombinator.com/item?id=45546200) - [Bitter lessons building AI products](https://hex.tech/blog/bitter-lessons-building-ai-in-hex-product-management/)
 * [2025-10-11, 01:48:57](https://news.ycombinator.com/item?id=45545857) - [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
 * [2025-10-10, 23:51:13](https://news.ycombinator.com/item?id=45545098) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 22:37:16](https://news.ycombinator.com/item?id=45544636) - [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
@@ -11,7 +13,6 @@
 * [2025-10-10, 20:33:25](https://news.ycombinator.com/item?id=45543471) - [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
 * [2025-10-10, 18:55:30](https://news.ycombinator.com/item?id=45542444) - [Does our “need for speed” make our wi-fi suck?](https://orb.net/blog/does-speed-make-wifi-suck)
 * [2025-10-10, 15:11:04](https://news.ycombinator.com/item?id=45539943) - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
-* [2025-10-10, 14:37:31](https://news.ycombinator.com/item?id=45539609) - [Notes on switching to Helix from Vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
 * [2025-10-10, 14:11:15](https://news.ycombinator.com/item?id=45539296) - [All-natural geoengineering with Frank Herbert's Dune](https://www.governance.fyi/p/all-natural-geoengineering-with-frank)
 * [2025-10-10, 12:21:02](https://news.ycombinator.com/item?id=45538137) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 11:56:05](https://news.ycombinator.com/item?id=45537890) - [OpenGL: Mesh shaders in the current year](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
@@ -24,7 +25,6 @@
 * [2025-10-08, 12:13:30](https://news.ycombinator.com/item?id=45515290) - [HATEOAS for Haunted Houses](https://www.sanfordtech.xyz/posts/hateoas-for-haunted-houses/)
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Source-available transmission electron microscope](https://nanomi.org/)
 * [2025-10-08, 05:11:33](https://news.ycombinator.com/item?id=45512300) - [Synthetic aperture radar autofocus and calibration](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)
-* [2025-10-07, 19:34:40](https://news.ycombinator.com/item?id=45507753) - [ThalamusDB: Query text, tables, images, and audio](https://github.com/itrummer/thalamusdb)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
 * [2025-10-06, 10:18:20](https://news.ycombinator.com/item?id=45489757) - [Ohno Type School: A (2020)](https://ohnotype.co/blog/ohno-type-school-a)
 * [2025-10-06, 08:16:30](https://news.ycombinator.com/item?id=45488908) - [Wi-fi signal tracks heartbeat without wearables](https://spectrum.ieee.org/wi-fi-signal-heartbeat-detection)
