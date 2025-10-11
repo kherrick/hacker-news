@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-10-10, 08:46:40",
-      "https://news.ycombinator.com/item?id=45536618"
-    ],
-    [
-      "Datastar: Lightweight hypermedia framework for building interactive web apps",
-      "https://data-star.dev/"
-    ]
-  ],
-  [
-    [
       "2025-10-10, 04:40:19",
       "https://news.ycombinator.com/item?id=45535424"
     ],
@@ -267,6 +257,16 @@
     [
       "Hardware Stockholm Syndrome",
       "https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 21:40:35",
+      "https://news.ycombinator.com/item?id=45496625"
+    ],
+    [
+      "Automated code reviews via mutation testing",
+      "https://github.com/mbj/mutant"
     ]
   ],
   [
