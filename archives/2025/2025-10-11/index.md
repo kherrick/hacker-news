@@ -9,6 +9,7 @@
 * [2025-10-11, 18:29:27](https://news.ycombinator.com/item?id=45551450) - [Rating 26 years of Java changes](https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/)
 * [2025-10-11, 18:19:49](https://news.ycombinator.com/item?id=45551370) - [Apple Postpones Jessica Chastain Thriller 'The Savant' Amid Current Events](https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/)
 * [2025-10-11, 18:17:10](https://news.ycombinator.com/item?id=45551352) - [Tennessee Man Arrested, Gets $2M Bond for Posting Facebook Meme](https://reason.com/2025/10/10/tennessee-man-arrested-gets-2-million-bond-for-posting-facebook-meme/)
+* [2025-10-11, 17:41:45](https://news.ycombinator.com/item?id=45551081) - [People regret buying Amazon smart displays after being bombarded with ads](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/)
 * [2025-10-11, 17:32:10](https://news.ycombinator.com/item?id=45551006) - [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app)
 * [2025-10-11, 16:42:19](https://news.ycombinator.com/item?id=45550544) - [The Case Against 30-Year Mortgages](https://www.wsj.com/opinion/the-case-against-30-year-mortgages-0cbd6d56)
 * [2025-10-11, 15:47:22](https://news.ycombinator.com/item?id=45550049) - [GNU Health](https://www.gnuhealth.org/about-us.html)
