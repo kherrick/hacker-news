@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-11, 20:50:45](https://news.ycombinator.com/item?id=45552573) - [Diane Keaton, a Star of 'Annie Hall' and 'First Wives Club,' Dies at 79](https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html)
 * [2025-10-11, 19:59:14](https://news.ycombinator.com/item?id=45552199) - [Indonesia says 22 plants in industrial zone contaminated by caesium 137](https://www.reuters.com/sustainability/boards-policy-regulation/indonesia-says-22-plants-industrial-zone-near-jakarta-contaminated-by-caesium-2025-10-08/)
 * [2025-10-11, 19:22:03](https://news.ycombinator.com/item?id=45551893) - [Discord hack shows risks of online age checks](https://news.sky.com/story/discord-hack-shows-dangers-of-online-age-checks-as-internet-policing-hopes-put-to-the-test-13447618)
 * [2025-10-11, 18:36:51](https://news.ycombinator.com/item?id=45551504) - [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
@@ -20,14 +21,13 @@
 * [2025-10-10, 21:53:48](https://news.ycombinator.com/item?id=45544228) - [(Re)Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
 * [2025-10-10, 21:18:55](https://news.ycombinator.com/item?id=45543899) - [Tangled, a Git collaboration platform built on atproto](https://blog.tangled.org/intro)
 * [2025-10-10, 20:34:19](https://news.ycombinator.com/item?id=45543475) - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
-* [2025-10-10, 09:01:54](https://news.ycombinator.com/item?id=45536694) - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
 * [2025-10-08, 10:05:10](https://news.ycombinator.com/item?id=45514270) - [All-New Next Gen of UniFi Storage](https://blog.ui.com/article/all-new-next-gen-of-unifi-storage)
 * [2025-10-07, 22:18:14](https://news.ycombinator.com/item?id=45509636) - [Building a JavaScript Runtime from Scratch using C](https://devlogs.xyz/blog/building-a-javaScript-runtime)
 * [2025-10-07, 18:19:37](https://news.ycombinator.com/item?id=45506748) - [How Apple designs a virtual knob (2012)](https://jherrm.github.io/knobs/)
 * [2025-10-07, 13:59:36](https://news.ycombinator.com/item?id=45503158) - [Otary now includes 17 image binarization methods](https://alexandrepoupeau.com/otary/api/image/transformers/thresholding/)
 * [2025-10-07, 13:05:26](https://news.ycombinator.com/item?id=45502590) - [A Library for Fish Sounds](https://nautil.us/a-library-for-fish-sounds-1239697/)
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center under construction through photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)
-* [2025-10-06, 19:07:22](https://news.ycombinator.com/item?id=45495051) - [A Quiet Change to RSA](https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/)
+* [2025-10-06, 19:07:22](https://news.ycombinator.com/item?id=45495051) - [A quiet change to RSA](https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/)
 * [2025-10-06, 09:36:08](https://news.ycombinator.com/item?id=45489497) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
 * [2025-10-06, 09:08:03](https://news.ycombinator.com/item?id=45489329) - [Crypto-Current (2021)](https://zerophilosophy.substack.com/p/crypto-current)
 
