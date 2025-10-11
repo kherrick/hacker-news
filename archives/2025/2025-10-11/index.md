@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 15:47:22](https://news.ycombinator.com/item?id=45550049) - [GNU Health](https://www.gnuhealth.org/about-us.html)
 * [2025-10-11, 15:26:31](https://news.ycombinator.com/item?id=45549888) - [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
+* [2025-10-11, 15:19:54](https://news.ycombinator.com/item?id=45549848) - [Microsoft Amplifier](https://github.com/microsoft/amplifier)
 * [2025-10-11, 14:42:04](https://news.ycombinator.com/item?id=45549524) - [Does anyone remember websites?](http://tttthis.com/rememberwebsites.php/)
 * [2025-10-11, 14:33:22](https://news.ycombinator.com/item?id=45549456) - [Tech megacaps lose $770B in value as Nasdaq suffers steepest drop since April](https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html)
 * [2025-10-11, 14:31:15](https://news.ycombinator.com/item?id=45549434) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
