@@ -9,6 +9,7 @@
 * [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [HTML's Best Kept Secret: The Output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 08:19:31](https://news.ycombinator.com/item?id=45547537) - [AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025](https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025)
 * [2025-10-11, 08:09:15](https://news.ycombinator.com/item?id=45547492) - [Daniel Kahneman opted for assisted suicide in Switzerland](https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html)
+* [2025-10-11, 07:32:08](https://news.ycombinator.com/item?id=45547359) - [Windows Subsystem for FreeBSD](https://github.com/BalajeS/WSL-For-FreeBSD)
 * [2025-10-11, 07:29:23](https://news.ycombinator.com/item?id=45547344) - [Superpowers: I'm using coding agents in October 2025](https://blog.fsck.com/2025/10/09/superpowers/)
 * [2025-10-11, 06:21:18](https://news.ycombinator.com/item?id=45547058) - [You won't believe what degrading practice the pope just condemned](https://www.theguardian.com/australia-news/2025/oct/10/you-wont-believe-what-degrading-practice-the-pope-just-condemned)
 * [2025-10-11, 04:49:23](https://news.ycombinator.com/item?id=45546657) - [Peter Thiel's off-the-record lectures about the antichrist](https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist)
