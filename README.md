@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-11, 00:22:31](https://news.ycombinator.com/item?id=45545277) - [Climate goals go up in smoke as US datacenters turn to coal](https://www.theregister.com/2025/10/10/datacenter_coal_power/)
-* [2025-10-11, 00:02:41](https://news.ycombinator.com/item?id=45545166) - [TikTok removing posts for violating the \"joy of TikTok\"](https://twitter.com/prem_thakker/status/1976786912154386828/)
+* [2025-10-11, 02:28:13](https://news.ycombinator.com/item?id=45546069) - [Fears over AI bubble bursting grow in Silicon Valley](https://www.bbc.com/news/articles/cz69qy760weo)
+* [2025-10-11, 01:48:57](https://news.ycombinator.com/item?id=45545857) - [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
+* [2025-10-10, 23:51:13](https://news.ycombinator.com/item?id=45545098) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 22:37:16](https://news.ycombinator.com/item?id=45544636) - [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
 * [2025-10-10, 21:53:48](https://news.ycombinator.com/item?id=45544228) - [(Re)Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
 * [2025-10-10, 21:35:22](https://news.ycombinator.com/item?id=45544044) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
@@ -22,7 +23,6 @@
 * [2025-10-10, 04:40:19](https://news.ycombinator.com/item?id=45535424) - [Show HN: Lights Out: my 2D Rubik's Cube-like Game](https://raymondtana.github.io/projects/pages/Lights_Out.html)
 * [2025-10-10, 03:39:57](https://news.ycombinator.com/item?id=45535183) - [Love C, hate C: Web framework memory problems](https://alew.is/lava.html)
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Source-available transmission electron microscope](https://nanomi.org/)
-* [2025-10-08, 03:32:33](https://news.ycombinator.com/item?id=45511775) - [Voyage of the Marigold – Author's Notes](https://sheep.horse/2025/6/voyage_of_the_marigold_author%27s_notes.html)
 * [2025-10-07, 14:31:38](https://news.ycombinator.com/item?id=45503527) - [Financing My Klarna Doritos Locos Taco](https://theahura.substack.com/p/tech-things-financing-my-klarna-doritos)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
 * [2025-10-06, 12:42:19](https://news.ycombinator.com/item?id=45490740) - [Ask HN: What's the best hackable smart TV?](https://news.ycombinator.com/item?id=45490740)
