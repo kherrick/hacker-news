@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 19:22:03](https://news.ycombinator.com/item?id=45551893) - [Discord hack shows risks of online age checks](https://news.sky.com/story/discord-hack-shows-dangers-of-online-age-checks-as-internet-policing-hopes-put-to-the-test-13447618)
+* [2025-10-11, 18:36:51](https://news.ycombinator.com/item?id=45551504) - [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
+* [2025-10-11, 18:29:27](https://news.ycombinator.com/item?id=45551450) - [Rating 26 years of Java changes](https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/)
 * [2025-10-11, 18:19:49](https://news.ycombinator.com/item?id=45551370) - [Apple Postpones Jessica Chastain Thriller 'The Savant' Amid Current Events](https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/)
 * [2025-10-11, 18:17:10](https://news.ycombinator.com/item?id=45551352) - [Tennessee Man Arrested, Gets $2M Bond for Posting Facebook Meme](https://reason.com/2025/10/10/tennessee-man-arrested-gets-2-million-bond-for-posting-facebook-meme/)
 * [2025-10-11, 17:32:10](https://news.ycombinator.com/item?id=45551006) - [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app)
