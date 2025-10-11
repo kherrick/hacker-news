@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-10-11, 15:26:31",
-      "https://news.ycombinator.com/item?id=45549888"
-    ],
-    [
-      "How to Check for Overlapping Intervals",
-      "https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/"
-    ]
-  ],
-  [
-    [
       "2025-10-11, 15:19:54",
       "https://news.ycombinator.com/item?id=45549848"
     ],
@@ -35,18 +25,8 @@
       "https://news.ycombinator.com/item?id=45549434"
     ],
     [
-      "Vibing a non-trivial ghostty feature",
+      "Vibing a non-trivial Ghostty feature",
       "https://mitchellh.com/writing/non-trivial-vibing"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 14:29:11",
-      "https://news.ycombinator.com/item?id=45549422"
-    ],
-    [
-      "Nue 2.0 Beta released! The Unix of the web",
-      "https://nuejs.org/blog/2.0/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-10-08, 07:58:29",
+      "https://news.ycombinator.com/item?id=45513355"
+    ],
+    [
+      "Intelligent Search in Rails with Typesense",
+      "https://avohq.io/blog/intelligent-search-in-rails-with-typesense"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 05:11:33",
       "https://news.ycombinator.com/item?id=45512300"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: A Digital Twin of my coffee roaster that runs in the browser",
       "https://autoroaster.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 09:36:08",
+      "https://news.ycombinator.com/item?id=45489497"
+    ],
+    [
+      "Testing two 18 TB white label SATA hard drives from datablocks.dev",
+      "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/"
     ]
   ]
 ]
