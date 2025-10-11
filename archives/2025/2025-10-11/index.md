@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 04:07:47](https://news.ycombinator.com/item?id=45546496) - [Salesforce CEO Says National Guard Should Patrol San Francisco](https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/)
 * [2025-10-11, 04:01:52](https://news.ycombinator.com/item?id=45546478) - [Peter Thiel's antichrist lectures reveal more about him than Armageddon](https://www.theguardian.com/technology/ng-interactive/2025/oct/10/peter-thiel-antichrist-lectures)
 * [2025-10-11, 02:56:28](https://news.ycombinator.com/item?id=45546200) - [Bitter lessons building AI products](https://hex.tech/blog/bitter-lessons-building-ai-in-hex-product-management/)
 * [2025-10-11, 02:28:13](https://news.ycombinator.com/item?id=45546069) - [Fears over AI bubble bursting grow in Silicon Valley](https://www.bbc.com/news/articles/cz69qy760weo)

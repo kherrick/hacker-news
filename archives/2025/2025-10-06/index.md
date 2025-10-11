@@ -50,6 +50,7 @@
 * [2025-10-06, 13:52:50](https://news.ycombinator.com/item?id=45491470) - [Compiling a Forth](https://healeycodes.com/compiling-a-forth)
 * [2025-10-06, 13:42:30](https://news.ycombinator.com/item?id=45491340) - [ICE Targets Children with Payment in Exchange for Deportation](https://theintercept.com/2025/10/03/ice-children-deportation-payment/)
 * [2025-10-06, 13:21:51](https://news.ycombinator.com/item?id=45491128) - [The case for an iceberg-native database](https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it)
+* [2025-10-06, 13:16:29](https://news.ycombinator.com/item?id=45491069) - [Design Principle: Composable Services](https://sleepingpotato.com/design-principle-composable-services/)
 * [2025-10-06, 13:15:00](https://news.ycombinator.com/item?id=45491057) - [A beginner's guide to deploying LLMs with AMD on Windows using PyTorch](https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/)
 * [2025-10-06, 13:13:18](https://news.ycombinator.com/item?id=45491043) - [A Library for Parsing Dutch Smart Meter Requirements (DSMR)](https://github.com/mijnverbruik/dsmr)
 * [2025-10-06, 13:04:53](https://news.ycombinator.com/item?id=45490957) - [Real-time Nvidia GPU dashboard](https://github.com/psalias2006/gpu-hot)
