@@ -20,6 +20,7 @@
 * [2025-10-07, 18:55:36](https://news.ycombinator.com/item?id=45507236) - [The Publishing Industry Has a Gambling Problem](https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/)
 * [2025-10-07, 18:52:46](https://news.ycombinator.com/item?id=45507195) - [The murky economics of the data-centre investment boom](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
 * [2025-10-07, 18:51:40](https://news.ycombinator.com/item?id=45507173) - [Google's Requirement for Developers to Be Verified Threatens App Store F-Droid](https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/)
+* [2025-10-07, 18:19:37](https://news.ycombinator.com/item?id=45506748) - [Apple Designs a Virtual Knob](https://jherrm.github.io/knobs/)
 * [2025-10-07, 17:50:17](https://news.ycombinator.com/item?id=45506365) - [Solar energy is now the cheapest source of power, study](https://www.surrey.ac.uk/news/solar-energy-now-worlds-cheapest-source-power-surrey-study-finds)
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less is more: Recursive reasoning with tiny networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less Is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871)
