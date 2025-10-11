@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-11, 20:50:45](https://news.ycombinator.com/item?id=45552573) - [Diane Keaton, a Star of 'Annie Hall' and 'First Wives Club,' Dies at 79](https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html)
+* [2025-10-11, 20:50:45](https://news.ycombinator.com/item?id=45552573) - [Diane Keaton has died](https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html)
 * [2025-10-11, 19:59:14](https://news.ycombinator.com/item?id=45552199) - [Indonesia says 22 plants in industrial zone contaminated by caesium 137](https://www.reuters.com/sustainability/boards-policy-regulation/indonesia-says-22-plants-industrial-zone-near-jakarta-contaminated-by-caesium-2025-10-08/)
 * [2025-10-11, 19:22:03](https://news.ycombinator.com/item?id=45551893) - [Discord hack shows risks of online age checks](https://news.sky.com/story/discord-hack-shows-dangers-of-online-age-checks-as-internet-policing-hopes-put-to-the-test-13447618)
 * [2025-10-11, 18:36:51](https://news.ycombinator.com/item?id=45551504) - [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
@@ -22,7 +22,7 @@
 * [2025-10-10, 21:18:55](https://news.ycombinator.com/item?id=45543899) - [Tangled, a Git collaboration platform built on atproto](https://blog.tangled.org/intro)
 * [2025-10-10, 20:34:19](https://news.ycombinator.com/item?id=45543475) - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [2025-10-08, 10:05:10](https://news.ycombinator.com/item?id=45514270) - [All-New Next Gen of UniFi Storage](https://blog.ui.com/article/all-new-next-gen-of-unifi-storage)
-* [2025-10-07, 22:18:14](https://news.ycombinator.com/item?id=45509636) - [Building a JavaScript Runtime from Scratch using C](https://devlogs.xyz/blog/building-a-javaScript-runtime)
+* [2025-10-07, 22:18:14](https://news.ycombinator.com/item?id=45509636) - [Building a JavaScript Runtime using C](https://devlogs.xyz/blog/building-a-javaScript-runtime)
 * [2025-10-07, 18:19:37](https://news.ycombinator.com/item?id=45506748) - [How Apple designs a virtual knob (2012)](https://jherrm.github.io/knobs/)
 * [2025-10-07, 13:59:36](https://news.ycombinator.com/item?id=45503158) - [Otary now includes 17 image binarization methods](https://alexandrepoupeau.com/otary/api/image/transformers/thresholding/)
 * [2025-10-07, 13:05:26](https://news.ycombinator.com/item?id=45502590) - [A Library for Fish Sounds](https://nautil.us/a-library-for-fish-sounds-1239697/)
