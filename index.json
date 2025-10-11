@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-11, 15:47:22",
+      "https://news.ycombinator.com/item?id=45550049"
+    ],
+    [
+      "GNU Health",
+      "https://www.gnuhealth.org/about-us.html"
+    ]
+  ],
+  [
+    [
       "2025-10-11, 15:26:31",
       "https://news.ycombinator.com/item?id=45549888"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-10-11, 14:33:22",
-      "https://news.ycombinator.com/item?id=45549456"
+      "2025-10-11, 15:19:54",
+      "https://news.ycombinator.com/item?id=45549848"
     ],
     [
-      "Tech megacaps lose $770B in value as Nasdaq suffers steepest drop since April",
-      "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html"
+      "Microsoft Amplifier",
+      "https://github.com/microsoft/amplifier"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45549434"
     ],
     [
-      "Vibing a Non-Trivial Ghostty Feature",
+      "Vibing a non-trivial ghostty feature",
       "https://mitchellh.com/writing/non-trivial-vibing"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Let's Take Esoteric Programming Languages Seriously",
       "https://feelingof.com/episodes/078/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 07:58:29",
-      "https://news.ycombinator.com/item?id=45513355"
-    ],
-    [
-      "Intelligent Search in Rails with Typesense",
-      "https://avohq.io/blog/intelligent-search-in-rails-with-typesense"
     ]
   ],
   [
