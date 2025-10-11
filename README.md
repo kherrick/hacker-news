@@ -2,6 +2,7 @@
 
 * [2025-10-11, 14:42:04](https://news.ycombinator.com/item?id=45549524) - [Does anyone remember websites?](http://tttthis.com/rememberwebsites.php/)
 * [2025-10-11, 14:33:22](https://news.ycombinator.com/item?id=45549456) - [Tech megacaps lose $770B in value as Nasdaq suffers steepest drop since April](https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html)
+* [2025-10-11, 14:29:11](https://news.ycombinator.com/item?id=45549422) - [Nue 2.0 Beta released! The Unix of the web](https://nuejs.org/blog/2.0/)
 * [2025-10-11, 13:27:42](https://news.ycombinator.com/item?id=45548967) - [Hackers leak Qantas data on 5M customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
 * [2025-10-11, 11:57:58](https://news.ycombinator.com/item?id=45548457) - [Learn Turbo Pascal – a video series originally released on VHS](https://www.youtube.com/watch?v=UOtonwG3DXM)
 * [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
@@ -28,7 +29,6 @@
 * [2025-10-06, 21:40:35](https://news.ycombinator.com/item?id=45496625) - [Automated code reviews via mutation testing](https://github.com/mbj/mutant)
 * [2025-10-06, 19:07:22](https://news.ycombinator.com/item?id=45495051) - [A Quiet Change to RSA](https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
-* [2025-10-05, 23:02:26](https://news.ycombinator.com/item?id=45486035) - [After nine years of grinding, Replit found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
 * [2025-10-05, 07:49:29](https://news.ycombinator.com/item?id=45479694) - [Lánczos Interpolation Explained (2022)](https://mazzo.li/posts/lanczos.html)
 
 ## [Archives](archives/index.md)
