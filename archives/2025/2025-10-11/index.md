@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 15:26:31](https://news.ycombinator.com/item?id=45549888) - [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-11, 14:42:04](https://news.ycombinator.com/item?id=45549524) - [Does anyone remember websites?](http://tttthis.com/rememberwebsites.php/)
 * [2025-10-11, 14:33:22](https://news.ycombinator.com/item?id=45549456) - [Tech megacaps lose $770B in value as Nasdaq suffers steepest drop since April](https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html)
+* [2025-10-11, 14:31:15](https://news.ycombinator.com/item?id=45549434) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 14:29:11](https://news.ycombinator.com/item?id=45549422) - [Nue 2.0 Beta released! The Unix of the web](https://nuejs.org/blog/2.0/)
 * [2025-10-11, 14:12:02](https://news.ycombinator.com/item?id=45549308) - [Firefox is the best mobile browser](https://kelvinjps.com/blog/firefox-best-mobile-browser/)
 * [2025-10-11, 13:27:42](https://news.ycombinator.com/item?id=45548967) - [Hackers leak Qantas data on 5 million customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-11, 15:26:31](https://news.ycombinator.com/item?id=45549888) - [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-11, 14:33:22](https://news.ycombinator.com/item?id=45549456) - [Tech megacaps lose $770B in value as Nasdaq suffers steepest drop since April](https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html)
+* [2025-10-11, 14:31:15](https://news.ycombinator.com/item?id=45549434) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 14:29:11](https://news.ycombinator.com/item?id=45549422) - [Nue 2.0 Beta released! The Unix of the web](https://nuejs.org/blog/2.0/)
 * [2025-10-11, 14:12:02](https://news.ycombinator.com/item?id=45549308) - [Firefox is the best mobile browser](https://kelvinjps.com/blog/firefox-best-mobile-browser/)
 * [2025-10-11, 13:27:42](https://news.ycombinator.com/item?id=45548967) - [Hackers leak Qantas data on 5M customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
@@ -13,7 +15,6 @@
 * [2025-10-11, 04:36:16](https://news.ycombinator.com/item?id=45546593) - [AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/)
 * [2025-10-11, 02:06:02](https://news.ycombinator.com/item?id=45545965) - [How hard do you have to hit a chicken to cook it? (2020)](https://james-simon.github.io/blog/chicken-cooking/)
 * [2025-10-10, 23:51:13](https://news.ycombinator.com/item?id=45545098) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
-* [2025-10-10, 22:37:16](https://news.ycombinator.com/item?id=45544636) - [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
 * [2025-10-10, 21:53:48](https://news.ycombinator.com/item?id=45544228) - [(Re)Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
 * [2025-10-10, 21:18:55](https://news.ycombinator.com/item?id=45543899) - [Tangled, a Git collaboration platform built on atproto](https://blog.tangled.org/intro)
 * [2025-10-10, 20:34:19](https://news.ycombinator.com/item?id=45543475) - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
@@ -29,7 +30,6 @@
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center under construction through photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)
 * [2025-10-06, 19:07:22](https://news.ycombinator.com/item?id=45495051) - [A Quiet Change to RSA](https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/)
 * [2025-10-06, 16:31:27](https://news.ycombinator.com/item?id=45493128) - [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/)
-* [2025-10-05, 07:49:29](https://news.ycombinator.com/item?id=45479694) - [Lánczos Interpolation Explained (2022)](https://mazzo.li/posts/lanczos.html)
 
 ## [Archives](archives/index.md)
 
