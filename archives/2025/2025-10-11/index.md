@@ -6,6 +6,7 @@
 
 * [2025-10-11, 04:49:23](https://news.ycombinator.com/item?id=45546657) - [Peter Thiel's off-the-record lectures about the antichrist](https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist)
 * [2025-10-11, 04:42:02](https://news.ycombinator.com/item?id=45546617) - [All fluffed up: why modern balls spark injury worries and frustration in tennis](https://www.theguardian.com/sport/2025/oct/10/all-fluffed-up-why-modern-balls-are-causing-frustration-and-injury-in-tennis)
+* [2025-10-11, 04:36:16](https://news.ycombinator.com/item?id=45546593) - [AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/)
 * [2025-10-11, 04:31:15](https://news.ycombinator.com/item?id=45546575) - [What Is Going on with All This Radioactive Shrimp?](https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/)
 * [2025-10-11, 04:20:10](https://news.ycombinator.com/item?id=45546537) - [Naked mole rats reveal genetic secret to long life](https://www.bbc.com/news/articles/cz7rxy21lxwo)
 * [2025-10-11, 04:07:47](https://news.ycombinator.com/item?id=45546496) - [Salesforce CEO Says National Guard Should Patrol San Francisco](https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/)
