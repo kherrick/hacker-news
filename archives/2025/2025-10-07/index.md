@@ -54,6 +54,7 @@
 * [2025-10-07, 12:41:40](https://news.ycombinator.com/item?id=45502387) - [Provision (YC S22) Is Hiring](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada)
 * [2025-10-07, 12:20:14](https://news.ycombinator.com/item?id=45502216) - [Canadian bill would strip internet access from 'specified persons', no warrant](https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons)
 * [2025-10-07, 12:14:16](https://news.ycombinator.com/item?id=45502173) - [disk-perf-git-and-pnpm aims to prove that something is wrong with APFS on macOS](https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm)
+* [2025-10-07, 11:56:52](https://news.ycombinator.com/item?id=45502044) - [Show HN: Cjam – a modern MP3 file editor](https://github.com/cutandjoin/Cjam/releases/tag/v2230)
 * [2025-10-07, 10:42:47](https://news.ycombinator.com/item?id=45501488) - [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
 * [2025-10-07, 10:38:46](https://news.ycombinator.com/item?id=45501459) - [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
 * [2025-10-07, 10:16:29](https://news.ycombinator.com/item?id=45501326) - [GPT-5-Codex is a better AI researcher than me](https://www.seangoedecke.com/ai-research-with-codex/)
