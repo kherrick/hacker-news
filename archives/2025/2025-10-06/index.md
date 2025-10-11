@@ -7,6 +7,7 @@
 * [2025-10-06, 23:47:24](https://news.ycombinator.com/item?id=45497624) - [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
 * [2025-10-06, 23:15:26](https://news.ycombinator.com/item?id=45497384) - [Microsoft is plugging more holes that let you use Windows 11 without MS account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
 * [2025-10-06, 22:30:12](https://news.ycombinator.com/item?id=45497027) - [RediShell: Critical remote code execution vulnerability in Redis](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844)
+* [2025-10-06, 21:40:35](https://news.ycombinator.com/item?id=45496625) - [Automated code reviews via mutation testing](https://github.com/mbj/mutant)
 * [2025-10-06, 21:28:56](https://news.ycombinator.com/item?id=45496533) - [DeepMind: CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
 * [2025-10-06, 21:14:51](https://news.ycombinator.com/item?id=45496406) - [WebGPU and the Price of Compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 * [2025-10-06, 20:47:25](https://news.ycombinator.com/item?id=45496146) - [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers)
