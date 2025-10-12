@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-12, 15:42:00",
+      "https://news.ycombinator.com/item?id=45559023"
+    ],
+    [
+      "No I don't want to turn on Windows Backup with One Drive",
+      "https://idiallo.com/byte-size/say-no-to-onedrive-backup"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 14:53:45",
       "https://news.ycombinator.com/item?id=45558635"
     ],
@@ -287,16 +297,6 @@
     [
       "Testing two 18 TB white label SATA hard drives from datablocks.dev",
       "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 09:11:39",
-      "https://news.ycombinator.com/item?id=45489347"
-    ],
-    [
-      "Django: One ORM to rule all databases",
-      "https://www.paulox.net/2025/10/06/django-orm-comparison/"
     ]
   ]
 ]
