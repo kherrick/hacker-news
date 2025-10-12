@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 15:42:00](https://news.ycombinator.com/item?id=45559023) - [No I don't want to turn on Windows Backup with One Drive](https://idiallo.com/byte-size/say-no-to-onedrive-backup)
 * [2025-10-12, 14:53:45](https://news.ycombinator.com/item?id=45558635) - [Germany's Schleswig-Holstein Completes Migration to Open Source Email](https://news.itsfoss.com/schleswig-holstein-email-system-migration/)
 * [2025-10-12, 14:07:13](https://news.ycombinator.com/item?id=45558318) - [Jeep pushed software update that bricked all 2024 Wrangler 4xe models](https://twitter.com/StephenGutowski/status/1977055831720862101)
 * [2025-10-12, 13:38:25](https://news.ycombinator.com/item?id=45558160) - [Extreme weather caused more than $100B in damage by June](https://www.livescience.com/planet-earth/climate-change/extreme-weather-caused-more-than-usd100-billion-in-damage-by-june-smashing-us-records)
@@ -29,7 +30,6 @@
 * [2025-10-07, 15:40:09](https://news.ycombinator.com/item?id=45504540) - [The Flummoxagon](https://n-e-r-v-o-u-s.com/blog/?p=9827)
 * [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 * [2025-10-06, 09:36:08](https://news.ycombinator.com/item?id=45489497) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
-* [2025-10-06, 09:11:39](https://news.ycombinator.com/item?id=45489347) - [Django: One ORM to rule all databases](https://www.paulox.net/2025/10/06/django-orm-comparison/)
 
 ## [Archives](archives/index.md)
 
