@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 10:19:34](https://news.ycombinator.com/item?id=45557013) - [Why Wikipedia cannot claim the Earth is not flat](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_Earth_is_not_flat)
 * [2025-10-12, 10:08:02](https://news.ycombinator.com/item?id=45556952) - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 * [2025-10-12, 09:24:43](https://news.ycombinator.com/item?id=45556763) - [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 * [2025-10-12, 09:21:29](https://news.ycombinator.com/item?id=45556741) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
@@ -19,7 +20,6 @@
 * [2025-10-11, 19:41:27](https://news.ycombinator.com/item?id=45552049) - [A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS](https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/)
 * [2025-10-11, 18:36:51](https://news.ycombinator.com/item?id=45551504) - [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
 * [2025-10-11, 18:06:40](https://news.ycombinator.com/item?id=45551260) - [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-* [2025-10-11, 14:31:15](https://news.ycombinator.com/item?id=45549434) - [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 07:32:08](https://news.ycombinator.com/item?id=45547359) - [Windows Subsystem for FreeBSD](https://github.com/BalajeS/WSL-For-FreeBSD)
 * [2025-10-11, 07:29:23](https://news.ycombinator.com/item?id=45547344) - [Superpowers: How I'm using coding agents in October 2025](https://blog.fsck.com/2025/10/09/superpowers/)
