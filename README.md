@@ -22,7 +22,7 @@
 * [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 07:32:08](https://news.ycombinator.com/item?id=45547359) - [Windows Subsystem for FreeBSD](https://github.com/BalajeS/WSL-For-FreeBSD)
 * [2025-10-11, 07:29:23](https://news.ycombinator.com/item?id=45547344) - [Superpowers: How I'm using coding agents in October 2025](https://blog.fsck.com/2025/10/09/superpowers/)
-* [2025-10-08, 16:50:12](https://news.ycombinator.com/item?id=45518159) - [Show HN: Solving the cluster 1 problem with vCluster standalone](https://www.vcluster.com/blog/vcluster-standalone-multi-tenancy-kubernetes)
+* [2025-10-08, 15:01:06](https://news.ycombinator.com/item?id=45516964) - [Beyond indexes: How open table formats optimize query performance](https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance)
 * [2025-10-07, 18:19:37](https://news.ycombinator.com/item?id=45506748) - [How Apple designs a virtual knob (2012)](https://jherrm.github.io/knobs/)
 * [2025-10-07, 17:26:20](https://news.ycombinator.com/item?id=45506055) - [The World's 2.75B Buildings](https://tech.marksblogg.com/building-footprints-gba.html)
 * [2025-10-07, 06:59:02](https://news.ycombinator.com/item?id=45500142) - [Weird Operators in PHP](https://www.exakat.io/weird-operators-in-php/)
