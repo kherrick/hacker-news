@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 19:19:38](https://news.ycombinator.com/item?id=45560974) - [Completing a new BASIC interpreter in 2025 (strings, math funcs, cassette)](https://nanochess.org/ecs_basic_2.html)
 * [2025-10-12, 18:38:19](https://news.ycombinator.com/item?id=45560593) - [Nielsen Norman Group on iOS 26 usability](https://anderegg.ca/2025/10/12/nielsen-norman-group-on-ios-26-usability)
 * [2025-10-12, 17:52:27](https://news.ycombinator.com/item?id=45560218) - [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)
 * [2025-10-12, 17:30:48](https://news.ycombinator.com/item?id=45560036) - [Kuzu DB devs no longer supporting the project](https://kuzudb.com)
 * [2025-10-12, 17:23:41](https://news.ycombinator.com/item?id=45559977) - [Ridley Scott's Prometheus and Alien: Covenant – The Contemporary Horror of AI](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)
 * [2025-10-12, 17:12:00](https://news.ycombinator.com/item?id=45559857) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
-* [2025-10-12, 17:11:42](https://news.ycombinator.com/item?id=45559852) - ['Death to Spotify': the DIY movement to get artists and fans to quit the app](https://www.theguardian.com/technology/2025/oct/12/spotify-boycott-artists)
 * [2025-10-12, 16:46:11](https://news.ycombinator.com/item?id=45559603) - [GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)](https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/)
 * [2025-10-12, 16:15:45](https://news.ycombinator.com/item?id=45559305) - [Addictive-like behavioural traits in pet dogs with extreme motivation for toys](https://www.nature.com/articles/s41598-025-18636-0)
 * [2025-10-12, 15:48:28](https://news.ycombinator.com/item?id=45559076) - [How I'm Using Helix Editor](https://rushter.com/blog/helix-editor/)
