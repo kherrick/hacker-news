@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 19:19:50](https://news.ycombinator.com/item?id=45560978) - [HP1345A (and Wargames) – PHKs Bikeshed](https://phk.freebsd.dk/hacks/Wargames/)
 * [2025-10-12, 19:19:38](https://news.ycombinator.com/item?id=45560974) - [Completing a new BASIC interpreter in 2025 (strings, math funcs, cassette)](https://nanochess.org/ecs_basic_2.html)
 * [2025-10-12, 18:38:19](https://news.ycombinator.com/item?id=45560593) - [Nielsen Norman Group on iOS 26 usability](https://anderegg.ca/2025/10/12/nielsen-norman-group-on-ios-26-usability)
 * [2025-10-12, 17:52:27](https://news.ycombinator.com/item?id=45560218) - [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)
@@ -15,7 +16,6 @@
 * [2025-10-12, 10:08:02](https://news.ycombinator.com/item?id=45556952) - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 * [2025-10-12, 09:24:43](https://news.ycombinator.com/item?id=45556763) - [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 * [2025-10-12, 08:37:01](https://news.ycombinator.com/item?id=45556474) - [Faster LLM inference](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
-* [2025-10-12, 05:31:00](https://news.ycombinator.com/item?id=45555523) - [Show HN: I made an esoteric programming language that's read like a spellbook](https://github.com/sirbread/spellscript)
 * [2025-10-12, 04:46:57](https://news.ycombinator.com/item?id=45555308) - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
 * [2025-10-11, 23:16:05](https://news.ycombinator.com/item?id=45553577) - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
 * [2025-10-11, 22:58:30](https://news.ycombinator.com/item?id=45553422) - [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
