@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-12, 17:52:27",
+      "https://news.ycombinator.com/item?id=45560218"
+    ],
+    [
+      "Agent Shell 0.5 Improvements",
+      "https://xenodium.com/agent-shell-0-5-improvements"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 17:30:48",
       "https://news.ycombinator.com/item?id=45560036"
     ],
     [
       "Kuzu DB devs no longer supporting the project",
       "https://kuzudb.com"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 17:23:41",
+      "https://news.ycombinator.com/item?id=45559977"
+    ],
+    [
+      "Ridley Scott's Prometheus and Alien: Covenant – The Contemporary Horror of AI",
+      "https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Germany's Schleswig-Holstein Completes Migration to Open Source Email",
       "https://news.itsfoss.com/schleswig-holstein-email-system-migration/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 11:08:58",
-      "https://news.ycombinator.com/item?id=45557267"
-    ],
-    [
-      "Quantification of fibrinaloid clots in plasma from pediatric Long COVID patients",
-      "https://www.researchsquare.com/article/rs-7483367/v1"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "C++ Reflection and Qt MOC",
       "https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 20:58:37",
-      "https://news.ycombinator.com/item?id=45520585"
-    ],
-    [
-      "Show HN: A Lisp Interpreter for Shell Scripting",
-      "https://github.com/gue-ni/redstart"
     ]
   ],
   [
