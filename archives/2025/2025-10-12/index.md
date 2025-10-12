@@ -15,6 +15,7 @@
 * [2025-10-12, 15:48:28](https://news.ycombinator.com/item?id=45559076) - [How I'm Using Helix Editor](https://rushter.com/blog/helix-editor/)
 * [2025-10-12, 15:42:00](https://news.ycombinator.com/item?id=45559023) - [No I don't want to turn on Windows Backup with One Drive](https://idiallo.com/byte-size/say-no-to-onedrive-backup)
 * [2025-10-12, 14:53:45](https://news.ycombinator.com/item?id=45558635) - [Germany's Schleswig-Holstein Completes Migration to Open Source Email](https://news.itsfoss.com/schleswig-holstein-email-system-migration/)
+* [2025-10-12, 14:49:50](https://news.ycombinator.com/item?id=45558611) - [Show HN: I built a simple ambient sound app with no ads or subscriptions](https://ambisounds.app/)
 * [2025-10-12, 14:07:13](https://news.ycombinator.com/item?id=45558318) - [Jeep pushed software update that bricked all 2024 Wrangler 4xe models](https://twitter.com/StephenGutowski/status/1977055831720862101)
 * [2025-10-12, 13:38:25](https://news.ycombinator.com/item?id=45558160) - [Extreme weather caused more than $100B in damage by June](https://www.livescience.com/planet-earth/climate-change/extreme-weather-caused-more-than-usd100-billion-in-damage-by-june-smashing-us-records)
 * [2025-10-12, 11:08:58](https://news.ycombinator.com/item?id=45557267) - [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)
