@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-12, 05:39:22](https://news.ycombinator.com/item?id=45555570) - [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
+* [2025-10-12, 04:46:57](https://news.ycombinator.com/item?id=45555308) - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
 * [2025-10-12, 03:50:38](https://news.ycombinator.com/item?id=45555053) - [Major security breach at Austrian AI startup localmind.ai](https://localmind.ai/)
 * [2025-10-12, 03:41:29](https://news.ycombinator.com/item?id=45555012) - [Coral Protocol Open Infrastructure Connecting the Internet of Agents](https://arxiv.org/abs/2505.00749)
 * [2025-10-12, 01:37:37](https://news.ycombinator.com/item?id=45554369) - [China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
@@ -24,7 +25,6 @@
 * [2025-10-11, 07:29:23](https://news.ycombinator.com/item?id=45547344) - [Superpowers: How I'm using coding agents in October 2025](https://blog.fsck.com/2025/10/09/superpowers/)
 * [2025-10-09, 21:15:33](https://news.ycombinator.com/item?id=45533175) - [How Kyoto, Japan Became the Loveliest Tourist-Trap](https://nymag.com/intelligencer/article/kyoto-japan-tourism-attraction-travel-tourist-trap.html)
 * [2025-10-09, 04:06:43](https://news.ycombinator.com/item?id=45523370) - [I/O Multiplexing (select vs. poll vs. epoll/kqueue)](https://nima101.github.io/io_multiplexing)
-* [2025-10-08, 15:01:06](https://news.ycombinator.com/item?id=45516964) - [Beyond indexes: How open table formats optimize query performance](https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance)
 * [2025-10-07, 18:19:37](https://news.ycombinator.com/item?id=45506748) - [How Apple designs a virtual knob (2012)](https://jherrm.github.io/knobs/)
 * [2025-10-07, 17:26:20](https://news.ycombinator.com/item?id=45506055) - [The World's 2.75B Buildings](https://tech.marksblogg.com/building-footprints-gba.html)
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center under construction through photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)
