@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-10-12, 16:42:09",
-      "https://news.ycombinator.com/item?id=45559567"
-    ],
-    [
-      "In 1776, Thomas Paine made the best case for fighting kings −and being skeptical",
-      "https://theconversation.com/in-1776-thomas-paine-made-the-best-case-for-fighting-kings-and-for-being-skeptical-266448"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 16:15:45",
       "https://news.ycombinator.com/item?id=45559305"
     ],
@@ -247,6 +237,16 @@
     [
       "C++ Reflection and Qt MOC",
       "https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 20:58:37",
+      "https://news.ycombinator.com/item?id=45520585"
+    ],
+    [
+      "Show HN: A Lisp Interpreter for Shell Scripting",
+      "https://github.com/gue-ni/redstart"
     ]
   ],
   [
