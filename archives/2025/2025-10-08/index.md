@@ -47,6 +47,7 @@
 * [2025-10-08, 13:54:12](https://news.ycombinator.com/item?id=45516255) - [We didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
 * [2025-10-08, 13:45:30](https://news.ycombinator.com/item?id=45516134) - [Testing a compiler-driven full-stack web framework](https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework)
 * [2025-10-08, 13:33:15](https://news.ycombinator.com/item?id=45516000) - [We found a bug in Go's ARM64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
+* [2025-10-08, 13:18:25](https://news.ycombinator.com/item?id=45515842) - [Floating Electrons on a Sea of Helium](https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/)
 * [2025-10-08, 13:10:19](https://news.ycombinator.com/item?id=45515783) - [The Weaponization of Travel Blacklists](https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/)
 * [2025-10-08, 13:06:33](https://news.ycombinator.com/item?id=45515744) - [State of the Bird 2024/25](https://blog.thunderbird.net/2025/10/state-of-the-bird-2024-25/)
 * [2025-10-08, 12:56:54](https://news.ycombinator.com/item?id=45515657) - [The Email They Shouldn't Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
