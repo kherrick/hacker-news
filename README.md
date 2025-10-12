@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-12, 16:15:45](https://news.ycombinator.com/item?id=45559305) - [Addictive-like behavioural traits in pet dogs with extreme motivation for toys](https://www.nature.com/articles/s41598-025-18636-0)
+* [2025-10-12, 15:48:28](https://news.ycombinator.com/item?id=45559076) - [How I'm Using Helix Editor](https://rushter.com/blog/helix-editor/)
 * [2025-10-12, 15:42:00](https://news.ycombinator.com/item?id=45559023) - [No I don't want to turn on Windows Backup with One Drive](https://idiallo.com/byte-size/say-no-to-onedrive-backup)
 * [2025-10-12, 14:53:45](https://news.ycombinator.com/item?id=45558635) - [Germany's Schleswig-Holstein Completes Migration to Open Source Email](https://news.itsfoss.com/schleswig-holstein-email-system-migration/)
 * [2025-10-12, 14:07:13](https://news.ycombinator.com/item?id=45558318) - [Jeep pushed software update that bricked all 2024 Wrangler 4xe models](https://twitter.com/StephenGutowski/status/1977055831720862101)
@@ -12,7 +13,6 @@
 * [2025-10-12, 08:37:01](https://news.ycombinator.com/item?id=45556474) - [Faster LLM inference](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
 * [2025-10-12, 05:31:00](https://news.ycombinator.com/item?id=45555523) - [Show HN: I made an esoteric programming language that's read like a spellbook](https://github.com/sirbread/spellscript)
 * [2025-10-12, 04:46:57](https://news.ycombinator.com/item?id=45555308) - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
-* [2025-10-12, 03:41:29](https://news.ycombinator.com/item?id=45555012) - [Coral Protocol: Open infrastructure connecting the internet of agents](https://arxiv.org/abs/2505.00749)
 * [2025-10-11, 23:43:42](https://news.ycombinator.com/item?id=45553783) - [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
 * [2025-10-11, 23:32:25](https://news.ycombinator.com/item?id=45553701) - [Paper2video: Automatic video generation from scientific papers](https://arxiv.org/abs/2510.05096)
 * [2025-10-11, 23:16:05](https://news.ycombinator.com/item?id=45553577) - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
