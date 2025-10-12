@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 03:53:53](https://news.ycombinator.com/item?id=45555065) - [Neighbor shielded 7-year-old during South Shore federal raid](https://chicago.suntimes.com/immigration/2025/10/10/neighbor-shielded-7-year-old-during-south-shore-federal-raid-i-didnt-want-them-to-take-her)
 * [2025-10-12, 01:37:37](https://news.ycombinator.com/item?id=45554369) - [China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
 * [2025-10-12, 00:22:15](https://news.ycombinator.com/item?id=45553995) - [Show HN: rift – a tiling window manager for macOS](https://github.com/acsandmann/rift)
 * [2025-10-11, 23:53:17](https://news.ycombinator.com/item?id=45553835) - [LineageOS 23](https://lineageos.org/Changelog-30/)
@@ -10,7 +11,6 @@
 * [2025-10-11, 22:43:58](https://news.ycombinator.com/item?id=45553296) - [Heroin Addicts Often Seem Normal](https://justismills.substack.com/p/heroin-addicts-often-seem-normal)
 * [2025-10-11, 22:16:18](https://news.ycombinator.com/item?id=45553132) - [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
 * [2025-10-11, 21:35:33](https://news.ycombinator.com/item?id=45552913) - [The story of X-Copy on the Amiga](https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/)
-* [2025-10-11, 20:51:03](https://news.ycombinator.com/item?id=45552578) - [Japan's summers have lengthened by 3 weeks over 42 years, say resaerchers](https://english.kyodonews.net/articles/-/62626)
 * [2025-10-11, 19:41:27](https://news.ycombinator.com/item?id=45552049) - [A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS](https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/)
 * [2025-10-11, 19:33:27](https://news.ycombinator.com/item?id=45551995) - [Is Odin just a more boring C?](https://dayvster.com/blog/is-odin-just-a-more-boring-c/)
 * [2025-10-11, 18:36:51](https://news.ycombinator.com/item?id=45551504) - [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
@@ -22,7 +22,7 @@
 * [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 07:32:08](https://news.ycombinator.com/item?id=45547359) - [Windows Subsystem for FreeBSD](https://github.com/BalajeS/WSL-For-FreeBSD)
 * [2025-10-11, 07:29:23](https://news.ycombinator.com/item?id=45547344) - [Superpowers: How I'm using coding agents in October 2025](https://blog.fsck.com/2025/10/09/superpowers/)
-* [2025-10-08, 16:50:12](https://news.ycombinator.com/item?id=45518159) - [Show HN: Solving the cluster 1 problem with vCluster standalone](https://www.vcluster.com/blog/vcluster-standalone-multi-tenancy-kubernetes)
+* [2025-10-09, 21:15:33](https://news.ycombinator.com/item?id=45533175) - [How Kyoto, Japan Became the Loveliest Tourist-Trap](https://nymag.com/intelligencer/article/kyoto-japan-tourism-attraction-travel-tourist-trap.html)
 * [2025-10-08, 15:01:06](https://news.ycombinator.com/item?id=45516964) - [Beyond indexes: How open table formats optimize query performance](https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance)
 * [2025-10-07, 18:19:37](https://news.ycombinator.com/item?id=45506748) - [How Apple designs a virtual knob (2012)](https://jherrm.github.io/knobs/)
 * [2025-10-07, 17:26:20](https://news.ycombinator.com/item?id=45506055) - [The World's 2.75B Buildings](https://tech.marksblogg.com/building-footprints-gba.html)

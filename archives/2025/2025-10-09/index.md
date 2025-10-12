@@ -8,6 +8,7 @@
 * [2025-10-09, 22:58:31](https://news.ycombinator.com/item?id=45533902) - [How to Write in Cuneiform, the Oldest Writing System in the World](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
 * [2025-10-09, 22:53:39](https://news.ycombinator.com/item?id=45533870) - [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
 * [2025-10-09, 21:18:29](https://news.ycombinator.com/item?id=45533208) - [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
+* [2025-10-09, 21:15:33](https://news.ycombinator.com/item?id=45533175) - [How Kyoto, Japan Became the Loveliest Tourist-Trap](https://nymag.com/intelligencer/article/kyoto-japan-tourism-attraction-travel-tourist-trap.html)
 * [2025-10-09, 20:55:00](https://news.ycombinator.com/item?id=45532971) - [Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC](https://github.com/VapiAI/vapicon-2025-hardware-workshop)
 * [2025-10-09, 20:27:39](https://news.ycombinator.com/item?id=45532685) - [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
 * [2025-10-09, 20:27:28](https://news.ycombinator.com/item?id=45532680) - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
