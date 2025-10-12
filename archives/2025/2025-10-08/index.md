@@ -55,6 +55,7 @@
 * [2025-10-08, 13:06:33](https://news.ycombinator.com/item?id=45515744) - [State of the Bird 2024/25](https://blog.thunderbird.net/2025/10/state-of-the-bird-2024-25/)
 * [2025-10-08, 12:56:54](https://news.ycombinator.com/item?id=45515657) - [The Email They Shouldn't Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
 * [2025-10-08, 12:55:01](https://news.ycombinator.com/item?id=45515640) - [Legal Contracts Built for AI Agents](https://paid.ai/blog/ai-agents/paid-gitlaw-introducing-legal-contracts-built-for-ai-agents)
+* [2025-10-08, 12:50:32](https://news.ycombinator.com/item?id=45515597) - [The Tiny Teams Playbook](https://www.latent.space/p/tiny)
 * [2025-10-08, 12:13:30](https://news.ycombinator.com/item?id=45515290) - [HATEOAS for Haunted Houses](https://www.sanfordtech.xyz/posts/hateoas-for-haunted-houses/)
 * [2025-10-08, 11:56:06](https://news.ycombinator.com/item?id=45515146) - [A Clausewitzian Lens on Modern Urban Warfare](https://mwi.westpoint.edu/a-clausewitzian-lens-on-modern-urban-warfare/)
 * [2025-10-08, 10:26:05](https://news.ycombinator.com/item?id=45514433) - [One-man spam campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
