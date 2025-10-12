@@ -16,6 +16,7 @@
 * [2025-10-11, 19:41:27](https://news.ycombinator.com/item?id=45552049) - [A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS](https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/)
 * [2025-10-11, 18:36:51](https://news.ycombinator.com/item?id=45551504) - [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
 * [2025-10-11, 18:06:40](https://news.ycombinator.com/item?id=45551260) - [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+* [2025-10-11, 15:47:22](https://news.ycombinator.com/item?id=45550049) - [GNU Health](https://www.gnuhealth.org/about-us.html)
 * [2025-10-11, 14:31:15](https://news.ycombinator.com/item?id=45549434) - [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 07:32:08](https://news.ycombinator.com/item?id=45547359) - [Windows Subsystem for FreeBSD](https://github.com/BalajeS/WSL-For-FreeBSD)
@@ -28,7 +29,6 @@
 * [2025-10-07, 17:26:20](https://news.ycombinator.com/item?id=45506055) - [The World's 2.75B Buildings](https://tech.marksblogg.com/building-footprints-gba.html)
 * [2025-10-07, 15:40:09](https://news.ycombinator.com/item?id=45504540) - [The Flummoxagon](https://n-e-r-v-o-u-s.com/blog/?p=9827)
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center under construction through photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)
-* [2025-10-06, 17:03:41](https://news.ycombinator.com/item?id=45493480) - [Blossom – Heroku-like deploys on your servers; cheaper, no lock-in](https://www.blossom88.com)
 * [2025-10-06, 09:36:08](https://news.ycombinator.com/item?id=45489497) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
 
 ## [Archives](archives/index.md)
