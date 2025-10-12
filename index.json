@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-12, 11:06:50",
+      "https://news.ycombinator.com/item?id=45557256"
+    ],
+    [
+      "A New Algorithm Makes It Faster to Find the Shortest Paths",
+      "https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 10:19:34",
       "https://news.ycombinator.com/item?id=45557013"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-10-11, 07:32:08",
-      "https://news.ycombinator.com/item?id=45547359"
-    ],
-    [
-      "Windows Subsystem for FreeBSD",
-      "https://github.com/BalajeS/WSL-For-FreeBSD"
-    ]
-  ],
-  [
-    [
       "2025-10-11, 07:29:23",
       "https://news.ycombinator.com/item?id=45547344"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-10-07, 00:40:26",
-      "https://news.ycombinator.com/item?id=45498055"
+      "2025-10-07, 07:41:59",
+      "https://news.ycombinator.com/item?id=45500422"
     ],
     [
-      "The World Trade Center under construction through photos, 1966-1979",
-      "https://rarehistoricalphotos.com/twin-towers-construction-photographs/"
+      "Loko Scheme: bare metal optimizing Scheme compiler",
+      "https://scheme.fail/"
     ]
   ],
   [
