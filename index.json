@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-10-12, 01:37:37",
+      "https://news.ycombinator.com/item?id=45554369"
+    ],
+    [
+      "China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains",
+      "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 00:22:15",
+      "https://news.ycombinator.com/item?id=45553995"
+    ],
+    [
+      "Show HN: rift – a tiling window manager for macOS",
+      "https://github.com/acsandmann/rift"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 23:53:17",
+      "https://news.ycombinator.com/item?id=45553835"
+    ],
+    [
+      "LineageOS 23",
+      "https://lineageos.org/Changelog-30/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 23:43:42",
+      "https://news.ycombinator.com/item?id=45553783"
+    ],
+    [
+      "Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]",
+      "https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 23:41:00",
+      "https://news.ycombinator.com/item?id=45553764"
+    ],
+    [
+      "Google blocks Android hack that let Pixel users enable VoLTE anywhere",
+      "https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 23:32:25",
+      "https://news.ycombinator.com/item?id=45553701"
+    ],
+    [
+      "Paper2Video: Automatic Video Generation from Scientific Papers",
+      "https://arxiv.org/abs/2510.05096"
+    ]
+  ],
+  [
+    [
       "2025-10-11, 23:16:05",
       "https://news.ycombinator.com/item?id=45553577"
     ],
@@ -11,12 +71,12 @@
   ],
   [
     [
-      "2025-10-11, 21:55:49",
-      "https://news.ycombinator.com/item?id=45553033"
+      "2025-10-11, 21:35:33",
+      "https://news.ycombinator.com/item?id=45552913"
     ],
     [
-      "Datastar response to allegations",
-      "https://data-star.dev/essays/greedy_developer"
+      "The story of X-Copy on the Amiga",
+      "https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/"
     ]
   ],
   [
@@ -25,7 +85,7 @@
       "https://news.ycombinator.com/item?id=45552768"
     ],
     [
-      "ElementaryOS - The thoughtful, capable and ethical replacement for Windows/macOS",
+      "ElementaryOS – Thoughtful, capable and ethical replacement for Windows/macOS",
       "https://elementary.io/"
     ]
   ],
@@ -37,16 +97,6 @@
     [
       "Japan's summers have lengthened by 3 weeks over 42 years, say resaerchers",
       "https://english.kyodonews.net/articles/-/62626"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 20:50:45",
-      "https://news.ycombinator.com/item?id=45552573"
-    ],
-    [
-      "Diane Keaton has died",
-      "https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html"
     ]
   ],
   [
@@ -67,6 +117,16 @@
     [
       "A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS",
       "https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 19:33:27",
+      "https://news.ycombinator.com/item?id=45551995"
+    ],
+    [
+      "Is Odin Just a More Boring C?",
+      "https://dayvster.com/blog/is-odin-just-a-more-boring-c/"
     ]
   ],
   [
@@ -111,32 +171,12 @@
   ],
   [
     [
-      "2025-10-11, 15:19:54",
-      "https://news.ycombinator.com/item?id=45549848"
-    ],
-    [
-      "Microsoft Amplifier",
-      "https://github.com/microsoft/amplifier"
-    ]
-  ],
-  [
-    [
       "2025-10-11, 14:31:15",
       "https://news.ycombinator.com/item?id=45549434"
     ],
     [
       "Vibing a non-trivial Ghostty feature",
       "https://mitchellh.com/writing/non-trivial-vibing"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 13:35:00",
-      "https://news.ycombinator.com/item?id=45549017"
-    ],
-    [
-      "Wilson's Algorithm",
-      "https://cruzgodar.com/applets/wilsons-algorithm/"
     ]
   ],
   [
@@ -181,36 +221,6 @@
   ],
   [
     [
-      "2025-10-11, 02:06:02",
-      "https://news.ycombinator.com/item?id=45545965"
-    ],
-    [
-      "How hard do you have to hit a chicken to cook it? (2020)",
-      "https://james-simon.github.io/blog/chicken-cooking/"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 21:53:48",
-      "https://news.ycombinator.com/item?id=45544228"
-    ],
-    [
-      "(Re)Introducing the Pebble Appstore",
-      "https://ericmigi.com/blog/re-introducing-the-pebble-appstore/"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 20:34:19",
-      "https://news.ycombinator.com/item?id=45543475"
-    ],
-    [
-      "I built physical album cards with NFC tags to teach my son music discovery",
-      "https://fulghum.io/album-cards"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 15:01:06",
       "https://news.ycombinator.com/item?id=45516964"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-10-07, 22:18:14",
-      "https://news.ycombinator.com/item?id=45509636"
-    ],
-    [
-      "Building a JavaScript Runtime using C",
-      "https://devlogs.xyz/blog/building-a-javaScript-runtime"
-    ]
-  ],
-  [
-    [
       "2025-10-07, 18:19:37",
       "https://news.ycombinator.com/item?id=45506748"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-10-06, 19:07:22",
-      "https://news.ycombinator.com/item?id=45495051"
+      "2025-10-06, 20:46:27",
+      "https://news.ycombinator.com/item?id=45496135"
     ],
     [
-      "A quiet change to RSA",
-      "https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/"
+      "Immutable Value",
+      "https://kevlinhenney.medium.com/immutable-value-d5d73dc3252f"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45490980"
     ],
     [
-      "The Murder That Made Skip Hollandsworth a True Crime Writer",
+      "My First Murder",
       "https://www.texasmonthly.com/true-crime/skip-hollandsworth-new-book-she-kills/"
     ]
   ],
