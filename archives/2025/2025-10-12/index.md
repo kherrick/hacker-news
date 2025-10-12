@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-12](index.md)
 
+* [2025-10-12, 14:53:45](https://news.ycombinator.com/item?id=45558635) - [Germany's Schleswig-Holstein Completes Migration to Open Source Email](https://news.itsfoss.com/schleswig-holstein-email-system-migration/)
 * [2025-10-12, 14:07:13](https://news.ycombinator.com/item?id=45558318) - [Jeep pushed software update that bricked all 2024 Wrangler 4xe models](https://twitter.com/StephenGutowski/status/1977055831720862101)
 * [2025-10-12, 13:38:25](https://news.ycombinator.com/item?id=45558160) - [Extreme weather caused more than $100B in damage by June](https://www.livescience.com/planet-earth/climate-change/extreme-weather-caused-more-than-usd100-billion-in-damage-by-june-smashing-us-records)
 * [2025-10-12, 11:08:58](https://news.ycombinator.com/item?id=45557267) - [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)
