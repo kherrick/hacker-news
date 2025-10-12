@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-12, 16:46:11",
+      "https://news.ycombinator.com/item?id=45559603"
+    ],
+    [
+      "GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)",
+      "https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 16:42:09",
+      "https://news.ycombinator.com/item?id=45559567"
+    ],
+    [
+      "In 1776, Thomas Paine made the best case for fighting kings −and being skeptical",
+      "https://theconversation.com/in-1776-thomas-paine-made-the-best-case-for-fighting-kings-and-for-being-skeptical-266448"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 16:15:45",
       "https://news.ycombinator.com/item?id=45559305"
     ],
@@ -37,16 +57,6 @@
     [
       "Germany's Schleswig-Holstein Completes Migration to Open Source Email",
       "https://news.itsfoss.com/schleswig-holstein-email-system-migration/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 14:07:13",
-      "https://news.ycombinator.com/item?id=45558318"
-    ],
-    [
-      "Jeep pushed software update that bricked all 2024 Wrangler 4xe models",
-      "https://twitter.com/StephenGutowski/status/1977055831720862101"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-10-11, 23:32:25",
-      "https://news.ycombinator.com/item?id=45553701"
-    ],
-    [
-      "Paper2video: Automatic video generation from scientific papers",
-      "https://arxiv.org/abs/2510.05096"
-    ]
-  ],
-  [
-    [
       "2025-10-11, 23:16:05",
       "https://news.ycombinator.com/item?id=45553577"
     ],
@@ -187,16 +187,6 @@
     [
       "A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS",
       "https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 18:36:51",
-      "https://news.ycombinator.com/item?id=45551504"
-    ],
-    [
-      "Microsoft only lets you opt out of AI photo scanning 3x a year",
-      "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Show HN: A Lisp Interpreter for Shell Scripting",
       "https://github.com/gue-ni/redstart"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 18:48:11",
+      "https://news.ycombinator.com/item?id=45519310"
+    ],
+    [
+      "I have a GPS bike computer",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/WhyIHaveGPSBikeComputer"
     ]
   ],
   [
