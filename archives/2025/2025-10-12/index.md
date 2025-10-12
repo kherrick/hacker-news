@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-12](index.md)
 
+* [2025-10-12, 18:38:19](https://news.ycombinator.com/item?id=45560593) - [Nielsen Norman Group on iOS 26 usability](https://anderegg.ca/2025/10/12/nielsen-norman-group-on-ios-26-usability)
 * [2025-10-12, 17:52:27](https://news.ycombinator.com/item?id=45560218) - [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)
 * [2025-10-12, 17:30:48](https://news.ycombinator.com/item?id=45560036) - [Kuzu DB devs no longer supporting the project](https://kuzudb.com)
 * [2025-10-12, 17:23:41](https://news.ycombinator.com/item?id=45559977) - [Ridley Scott's Prometheus and Alien: Covenant – The Contemporary Horror of AI](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)

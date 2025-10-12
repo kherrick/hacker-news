@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 18:38:19](https://news.ycombinator.com/item?id=45560593) - [Nielsen Norman Group on iOS 26 usability](https://anderegg.ca/2025/10/12/nielsen-norman-group-on-ios-26-usability)
 * [2025-10-12, 17:52:27](https://news.ycombinator.com/item?id=45560218) - [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)
 * [2025-10-12, 17:30:48](https://news.ycombinator.com/item?id=45560036) - [Kuzu DB devs no longer supporting the project](https://kuzudb.com)
 * [2025-10-12, 17:23:41](https://news.ycombinator.com/item?id=45559977) - [Ridley Scott's Prometheus and Alien: Covenant – The Contemporary Horror of AI](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)
@@ -16,12 +17,10 @@
 * [2025-10-12, 08:37:01](https://news.ycombinator.com/item?id=45556474) - [Faster LLM inference](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
 * [2025-10-12, 05:31:00](https://news.ycombinator.com/item?id=45555523) - [Show HN: I made an esoteric programming language that's read like a spellbook](https://github.com/sirbread/spellscript)
 * [2025-10-12, 04:46:57](https://news.ycombinator.com/item?id=45555308) - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
-* [2025-10-11, 23:43:42](https://news.ycombinator.com/item?id=45553783) - [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
 * [2025-10-11, 23:16:05](https://news.ycombinator.com/item?id=45553577) - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
 * [2025-10-11, 22:58:30](https://news.ycombinator.com/item?id=45553422) - [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
 * [2025-10-11, 22:16:18](https://news.ycombinator.com/item?id=45553132) - [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
-* [2025-10-11, 19:41:27](https://news.ycombinator.com/item?id=45552049) - [A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS](https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/)
-* [2025-10-11, 18:06:40](https://news.ycombinator.com/item?id=45551260) - [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+* [2025-10-11, 18:06:40](https://news.ycombinator.com/item?id=45551260) - [Anthropic's Prompt Engineering Tutorial (2024)](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [2025-10-10, 09:00:55](https://news.ycombinator.com/item?id=45536686) - [Show HN: I extracted BASIC listings for Tim Hartnell's 1986 book](https://github.com/nzduck/hartnell-exploring-ai-book)
 * [2025-10-09, 04:06:43](https://news.ycombinator.com/item?id=45523370) - [I/O Multiplexing (select vs. poll vs. epoll/kqueue)](https://nima101.github.io/io_multiplexing)
 * [2025-10-08, 22:59:09](https://news.ycombinator.com/item?id=45521584) - [C++ Reflection and Qt MOC](https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc)
@@ -29,6 +28,7 @@
 * [2025-10-07, 23:44:12](https://news.ycombinator.com/item?id=45510362) - [Paying AIs to Read My Books](https://kk.org/thetechnium/paying-ais-to-read-my-books/)
 * [2025-10-07, 20:44:34](https://news.ycombinator.com/item?id=45508611) - [Konrad Zuse's Helix Tower [pdf]](https://www.iaarc.org/publications/fulltext/The_helix-tower_by_konrad_zuse_automated_con-_and_deconstruction.pdf)
 * [2025-10-07, 15:40:09](https://news.ycombinator.com/item?id=45504540) - [The Flummoxagon](https://n-e-r-v-o-u-s.com/blog/?p=9827)
+* [2025-10-07, 10:40:30](https://news.ycombinator.com/item?id=45501472) - [The neurons that let us see what isn't there](https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/)
 * [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 
 ## [Archives](archives/index.md)

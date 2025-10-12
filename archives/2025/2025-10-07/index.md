@@ -64,6 +64,7 @@
 * [2025-10-07, 12:14:16](https://news.ycombinator.com/item?id=45502173) - [disk-perf-git-and-pnpm aims to prove that something is wrong with APFS on macOS](https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm)
 * [2025-10-07, 11:56:52](https://news.ycombinator.com/item?id=45502044) - [Show HN: Cjam – a modern MP3 file editor](https://github.com/cutandjoin/Cjam/releases/tag/v2230)
 * [2025-10-07, 10:42:47](https://news.ycombinator.com/item?id=45501488) - [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
+* [2025-10-07, 10:40:30](https://news.ycombinator.com/item?id=45501472) - [The neurons that let us see what isn't there](https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/)
 * [2025-10-07, 10:38:46](https://news.ycombinator.com/item?id=45501459) - [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
 * [2025-10-07, 10:16:29](https://news.ycombinator.com/item?id=45501326) - [GPT-5-Codex is a better AI researcher than me](https://www.seangoedecke.com/ai-research-with-codex/)
 * [2025-10-07, 10:07:50](https://news.ycombinator.com/item?id=45501279) - [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush)
