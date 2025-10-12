@@ -2,7 +2,6 @@
 
 * [2025-10-12, 11:08:58](https://news.ycombinator.com/item?id=45557267) - [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)
 * [2025-10-12, 11:06:50](https://news.ycombinator.com/item?id=45557256) - [A New Algorithm Makes It Faster to Find the Shortest Paths](https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/)
-* [2025-10-12, 10:19:34](https://news.ycombinator.com/item?id=45557013) - [Why Wikipedia cannot claim the Earth is not flat](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_Earth_is_not_flat)
 * [2025-10-12, 10:08:02](https://news.ycombinator.com/item?id=45556952) - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 * [2025-10-12, 09:24:43](https://news.ycombinator.com/item?id=45556763) - [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 * [2025-10-12, 09:21:29](https://news.ycombinator.com/item?id=45556741) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
@@ -25,11 +24,12 @@
 * [2025-10-09, 04:06:43](https://news.ycombinator.com/item?id=45523370) - [I/O Multiplexing (select vs. poll vs. epoll/kqueue)](https://nima101.github.io/io_multiplexing)
 * [2025-10-08, 22:59:09](https://news.ycombinator.com/item?id=45521584) - [C++ Reflection and Qt MOC](https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc)
 * [2025-10-08, 20:58:37](https://news.ycombinator.com/item?id=45520585) - [Show HN: A Lisp Interpreter for Shell Scripting](https://github.com/gue-ni/redstart)
-* [2025-10-07, 18:19:37](https://news.ycombinator.com/item?id=45506748) - [How Apple designs a virtual knob (2012)](https://jherrm.github.io/knobs/)
+* [2025-10-07, 17:26:20](https://news.ycombinator.com/item?id=45506055) - [The World's 2.75B Buildings](https://tech.marksblogg.com/building-footprints-gba.html)
 * [2025-10-07, 15:40:09](https://news.ycombinator.com/item?id=45504540) - [The Flummoxagon](https://n-e-r-v-o-u-s.com/blog/?p=9827)
 * [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center under construction through photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)
 * [2025-10-06, 09:36:08](https://news.ycombinator.com/item?id=45489497) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
+* [2025-10-06, 09:11:39](https://news.ycombinator.com/item?id=45489347) - [Django: One ORM to rule all databases](https://www.paulox.net/2025/10/06/django-orm-comparison/)
 
 ## [Archives](archives/index.md)
 
