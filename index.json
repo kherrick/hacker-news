@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-12, 17:30:48",
+      "https://news.ycombinator.com/item?id=45560036"
+    ],
+    [
+      "Kuzu DB devs no longer supporting the project",
+      "https://kuzudb.com"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 17:12:00",
       "https://news.ycombinator.com/item?id=45559857"
     ],
     [
       "Wireguard FPGA",
       "https://github.com/chili-chips-ba/wireguard-fpga"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 17:11:42",
+      "https://news.ycombinator.com/item?id=45559852"
+    ],
+    [
+      "'Death to Spotify': the DIY movement to get artists and fans to quit the app",
+      "https://www.theguardian.com/technology/2025/oct/12/spotify-boycott-artists"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Nostr and ATProto (2024)",
       "https://shreyanjain.net/2024/07/05/nostr-and-atproto.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 09:21:29",
-      "https://news.ycombinator.com/item?id=45556741"
-    ],
-    [
-      "Why it took 4 years to get a lock files specification",
-      "https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-10-08, 17:12:53",
-      "https://news.ycombinator.com/item?id=45518367"
+      "2025-10-07, 23:44:12",
+      "https://news.ycombinator.com/item?id=45510362"
     ],
     [
-      "How to Run WordPress completely from RAM",
-      "https://rickconlee.com/how-to-run-wordpress-completely-from-ram/"
+      "Paying AIs to Read My Books",
+      "https://kk.org/thetechnium/paying-ais-to-read-my-books/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Konrad Zuse's Helix Tower [pdf]",
       "https://www.iaarc.org/publications/fulltext/The_helix-tower_by_konrad_zuse_automated_con-_and_deconstruction.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 17:26:20",
-      "https://news.ycombinator.com/item?id=45506055"
-    ],
-    [
-      "The World's 2.75B Buildings",
-      "https://tech.marksblogg.com/building-footprints-gba.html"
     ]
   ],
   [
