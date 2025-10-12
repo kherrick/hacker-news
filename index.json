@@ -71,22 +71,22 @@
   ],
   [
     [
+      "2025-10-11, 22:16:18",
+      "https://news.ycombinator.com/item?id=45553132"
+    ],
+    [
+      "Ask HN: Abandoned/dead projects you think died before their time and why?",
+      "https://news.ycombinator.com/item?id=45553132"
+    ]
+  ],
+  [
+    [
       "2025-10-11, 21:35:33",
       "https://news.ycombinator.com/item?id=45552913"
     ],
     [
       "The story of X-Copy on the Amiga",
       "https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 21:14:40",
-      "https://news.ycombinator.com/item?id=45552768"
-    ],
-    [
-      "ElementaryOS – Thoughtful, capable and ethical replacement for Windows/macOS",
-      "https://elementary.io/"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45551995"
     ],
     [
-      "Is Odin Just a More Boring C?",
+      "Is Odin just a more boring C?",
       "https://dayvster.com/blog/is-odin-just-a-more-boring-c/"
     ]
   ],
@@ -147,6 +147,16 @@
     [
       "Rating 26 years of Java changes",
       "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 18:06:40",
+      "https://news.ycombinator.com/item?id=45551260"
+    ],
+    [
+      "Anthropic's Prompt Engineering Tutorial",
+      "https://github.com/anthropics/prompt-eng-interactive-tutorial"
     ]
   ],
   [
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2025-10-11, 04:36:16",
-      "https://news.ycombinator.com/item?id=45546593"
+      "2025-10-08, 16:50:12",
+      "https://news.ycombinator.com/item?id=45518159"
     ],
     [
-      "AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline",
-      "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 15:01:06",
-      "https://news.ycombinator.com/item?id=45516964"
-    ],
-    [
-      "Beyond indexes: How open table formats optimize query performance",
-      "https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance"
+      "Show HN: Solving the cluster 1 problem with vCluster standalone",
+      "https://www.vcluster.com/blog/vcluster-standalone-multi-tenancy-kubernetes"
     ]
   ],
   [
@@ -237,16 +237,6 @@
     [
       "All-New Next Gen of UniFi Storage",
       "https://blog.ui.com/article/all-new-next-gen-of-unifi-storage"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 07:41:56",
-      "https://news.ycombinator.com/item?id=45513234"
-    ],
-    [
-      "Every LLM Is Its Own Media Channel",
-      "https://www.aivojournal.org/every-llm-is-its-own-media-channel/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Immutable Value",
       "https://kevlinhenney.medium.com/immutable-value-d5d73dc3252f"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 19:07:22",
+      "https://news.ycombinator.com/item?id=45495051"
+    ],
+    [
+      "A quiet change to RSA",
+      "https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/"
     ]
   ],
   [
