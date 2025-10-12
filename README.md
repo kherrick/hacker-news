@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 23:19:33](https://news.ycombinator.com/item?id=45562962) - [Private equity is sitting on $5T of existential dread](https://www.afr.com/chanticleer/private-equity-is-sitting-on-5-trillion-of-existential-dread-20250925-p5mxxv)
 * [2025-10-12, 21:51:45](https://news.ycombinator.com/item?id=45562286) - [Free software hasn't won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-12, 21:24:39](https://news.ycombinator.com/item?id=45562056) - [MAML – a new configuration language (similar to JSON, YAML, and TOML)](https://maml.dev/)
 * [2025-10-12, 20:41:01](https://news.ycombinator.com/item?id=45561700) - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
@@ -10,7 +11,6 @@
 * [2025-10-12, 19:19:38](https://news.ycombinator.com/item?id=45560974) - [Completing a BASIC language interpreter in 2025](https://nanochess.org/ecs_basic_2.html)
 * [2025-10-12, 19:11:47](https://news.ycombinator.com/item?id=45560890) - [Rcyl – a recycled plastic urban bike](https://rcyl.bike/en/the-bike/)
 * [2025-10-12, 18:31:51](https://news.ycombinator.com/item?id=45560535) - [Constraint satisfaction to optimize item selection for bundles in Minecraft](https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/)
-* [2025-10-12, 17:23:41](https://news.ycombinator.com/item?id=45559977) - [Ridley Scott's Prometheus and Alien: Covenant – Contemporary Horror of AI (2020)](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)
 * [2025-10-12, 17:12:00](https://news.ycombinator.com/item?id=45559857) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 * [2025-10-12, 17:02:09](https://news.ycombinator.com/item?id=45559767) - [A years-long Turkish alphabet bug in the Kotlin compiler](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
 * [2025-10-12, 16:21:59](https://news.ycombinator.com/item?id=45559372) - [oavif: Faster target quality image compression](https://giannirosato.com/blog/post/oavif/)
@@ -26,7 +26,7 @@
 * [2025-10-11, 20:52:21](https://news.ycombinator.com/item?id=45552590) - [A whirlwind introduction to dataflow graphs (2018)](https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/)
 * [2025-10-09, 15:45:49](https://news.ycombinator.com/item?id=45529331) - [3D-Printed Automatic Weather Station](https://3dpaws.comet.ucar.edu)
 * [2025-10-08, 12:50:32](https://news.ycombinator.com/item?id=45515597) - [Tiny Teams Playbook](https://www.latent.space/p/tiny)
-* [2025-10-07, 15:40:09](https://news.ycombinator.com/item?id=45504540) - [The Flummoxagon](https://n-e-r-v-o-u-s.com/blog/?p=9827)
+* [2025-10-08, 08:09:07](https://news.ycombinator.com/item?id=45513408) - [Database Linting and Analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)
 * [2025-10-07, 10:40:30](https://news.ycombinator.com/item?id=45501472) - [The neurons that let us see what isn't there](https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/)
 * [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 * [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird Photographer of the Year Gives a Lesson in Planning and Patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)

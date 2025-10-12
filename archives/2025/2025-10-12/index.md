@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-12](index.md)
 
+* [2025-10-12, 23:19:33](https://news.ycombinator.com/item?id=45562962) - [Private equity is sitting on $5T of existential dread](https://www.afr.com/chanticleer/private-equity-is-sitting-on-5-trillion-of-existential-dread-20250925-p5mxxv)
 * [2025-10-12, 21:51:45](https://news.ycombinator.com/item?id=45562286) - [Free Software Hasn't Won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-12, 21:24:39](https://news.ycombinator.com/item?id=45562056) - [MAML – a new configuration language (similar to JSON, YAML, and TOML)](https://maml.dev/)
 * [2025-10-12, 20:41:01](https://news.ycombinator.com/item?id=45561700) - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
