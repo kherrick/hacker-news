@@ -125,6 +125,7 @@
 * [2025-10-06, 03:42:15](https://news.ycombinator.com/item?id=45487452) - [Find Nearby Automated License Plate Readers (ALPR)](https://deflock.me/)
 * [2025-10-06, 03:10:13](https://news.ycombinator.com/item?id=45487310) - [Why We Need SIMD](https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason)
 * [2025-10-06, 02:57:21](https://news.ycombinator.com/item?id=45487247) - [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture)
+* [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird Photographer of the Year Gives a Lesson in Planning and Patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)
 * [2025-10-06, 02:30:59](https://news.ycombinator.com/item?id=45487099) - [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/)
 * [2025-10-06, 02:20:05](https://news.ycombinator.com/item?id=45487044) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
 * [2025-10-06, 01:35:03](https://news.ycombinator.com/item?id=45486829) - [Should I choose Ada, SPARK, or Rust over C/C++?](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
