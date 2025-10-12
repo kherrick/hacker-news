@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-12, 21:51:45](https://news.ycombinator.com/item?id=45562286) - [Free Software Hasn't Won](https://dorotac.eu/posts/fosswon/)
+* [2025-10-12, 21:51:45](https://news.ycombinator.com/item?id=45562286) - [Free software hasn't won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-12, 21:24:39](https://news.ycombinator.com/item?id=45562056) - [MAML – a new configuration language (similar to JSON, YAML, and TOML)](https://maml.dev/)
 * [2025-10-12, 20:41:01](https://news.ycombinator.com/item?id=45561700) - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
 * [2025-10-12, 20:37:16](https://news.ycombinator.com/item?id=45561672) - [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
