@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-12, 07:20:36",
-      "https://news.ycombinator.com/item?id=45556032"
+      "2025-10-12, 08:37:01",
+      "https://news.ycombinator.com/item?id=45556474"
     ],
     [
-      "The App Store was always authoritarian",
-      "https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/"
+      "4x faster LLM inference (Flash Attention guy's company)",
+      "https://www.together.ai/blog/adaptive-learning-speculator-system-atlas"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Spyware maker NSO Group confirms acquisition by US investors",
       "https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 05:31:00",
+      "https://news.ycombinator.com/item?id=45555523"
+    ],
+    [
+      "Show HN: I made an esoteric programming language that's read like a spellbook",
+      "https://github.com/sirbread/spellscript"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Anthropic's Prompt Engineering Tutorial",
       "https://github.com/anthropics/prompt-eng-interactive-tutorial"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 15:47:22",
-      "https://news.ycombinator.com/item?id=45550049"
-    ],
-    [
-      "GNU Health",
-      "https://www.gnuhealth.org/about-us.html"
     ]
   ],
   [
