@@ -9,6 +9,7 @@
 * [2025-10-11, 23:41:00](https://news.ycombinator.com/item?id=45553764) - [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
 * [2025-10-11, 23:32:25](https://news.ycombinator.com/item?id=45553701) - [Paper2Video: Automatic Video Generation from Scientific Papers](https://arxiv.org/abs/2510.05096)
 * [2025-10-11, 23:16:05](https://news.ycombinator.com/item?id=45553577) - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
+* [2025-10-11, 22:58:30](https://news.ycombinator.com/item?id=45553422) - [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
 * [2025-10-11, 22:43:58](https://news.ycombinator.com/item?id=45553296) - [Heroin Addicts Often Seem Normal](https://justismills.substack.com/p/heroin-addicts-often-seem-normal)
 * [2025-10-11, 22:16:18](https://news.ycombinator.com/item?id=45553132) - [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
 * [2025-10-11, 21:55:49](https://news.ycombinator.com/item?id=45553033) - [Datastar response to allegations](https://data-star.dev/essays/greedy_developer)
