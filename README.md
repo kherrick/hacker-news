@@ -2,7 +2,7 @@
 
 * [2025-10-12, 20:41:01](https://news.ycombinator.com/item?id=45561700) - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
 * [2025-10-12, 20:37:16](https://news.ycombinator.com/item?id=45561672) - [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
-* [2025-10-12, 19:41:15](https://news.ycombinator.com/item?id=45561172) - [I audited 47 failed startups' codebases](https://old.reddit.com/r/Entrepreneur/comments/1o4jup6/i_audited_47_failed_startups_codebases_and_the/)
+* [2025-10-12, 20:09:14](https://news.ycombinator.com/item?id=45561428) - [Ask HN: What are you working on? (October 2025)](https://news.ycombinator.com/item?id=45561428)
 * [2025-10-12, 19:40:34](https://news.ycombinator.com/item?id=45561164) - [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
 * [2025-10-12, 19:19:50](https://news.ycombinator.com/item?id=45560978) - [HP1345A (and wargames) (2017)](https://phk.freebsd.dk/hacks/Wargames/)
 * [2025-10-12, 19:19:38](https://news.ycombinator.com/item?id=45560974) - [Completing a BASIC language interpreter in 2025](https://nanochess.org/ecs_basic_2.html)
