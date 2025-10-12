@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-12](index.md)
 
+* [2025-10-12, 20:37:16](https://news.ycombinator.com/item?id=45561672) - [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
 * [2025-10-12, 19:40:34](https://news.ycombinator.com/item?id=45561164) - [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
 * [2025-10-12, 19:19:50](https://news.ycombinator.com/item?id=45560978) - [HP1345A (and Wargames) – PHKs Bikeshed](https://phk.freebsd.dk/hacks/Wargames/)
 * [2025-10-12, 19:19:38](https://news.ycombinator.com/item?id=45560974) - [Completing a new BASIC interpreter in 2025 (strings, math funcs, cassette)](https://nanochess.org/ecs_basic_2.html)
@@ -14,8 +15,10 @@
 * [2025-10-12, 17:23:41](https://news.ycombinator.com/item?id=45559977) - [Ridley Scott's Prometheus and Alien: Covenant – The Contemporary Horror of AI](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)
 * [2025-10-12, 17:12:00](https://news.ycombinator.com/item?id=45559857) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 * [2025-10-12, 17:11:42](https://news.ycombinator.com/item?id=45559852) - ['Death to Spotify': the DIY movement to get artists and fans to quit the app](https://www.theguardian.com/technology/2025/oct/12/spotify-boycott-artists)
+* [2025-10-12, 17:02:09](https://news.ycombinator.com/item?id=45559767) - [A years-long Turkish alphabet bug in the Kotlin compiler](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
 * [2025-10-12, 16:46:11](https://news.ycombinator.com/item?id=45559603) - [GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)](https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/)
 * [2025-10-12, 16:42:09](https://news.ycombinator.com/item?id=45559567) - [In 1776, Thomas Paine made the best case for fighting kings −and being skeptical](https://theconversation.com/in-1776-thomas-paine-made-the-best-case-for-fighting-kings-and-for-being-skeptical-266448)
+* [2025-10-12, 16:21:59](https://news.ycombinator.com/item?id=45559372) - [oavif: Faster target quality image compression](https://giannirosato.com/blog/post/oavif/)
 * [2025-10-12, 16:15:45](https://news.ycombinator.com/item?id=45559305) - [Addictive-like behavioural traits in pet dogs with extreme motivation for toys](https://www.nature.com/articles/s41598-025-18636-0)
 * [2025-10-12, 15:48:28](https://news.ycombinator.com/item?id=45559076) - [How I'm Using Helix Editor](https://rushter.com/blog/helix-editor/)
 * [2025-10-12, 15:42:00](https://news.ycombinator.com/item?id=45559023) - [No I don't want to turn on Windows Backup with One Drive](https://idiallo.com/byte-size/say-no-to-onedrive-backup)
