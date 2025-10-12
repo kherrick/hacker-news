@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-12, 23:19:33",
+      "https://news.ycombinator.com/item?id=45562962"
+    ],
+    [
+      "Private equity is sitting on $5T of existential dread",
+      "https://www.afr.com/chanticleer/private-equity-is-sitting-on-5-trillion-of-existential-dread-20250925-p5mxxv"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 21:51:45",
       "https://news.ycombinator.com/item?id=45562286"
     ],
@@ -97,16 +107,6 @@
     [
       "Constraint satisfaction to optimize item selection for bundles in Minecraft",
       "https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 17:23:41",
-      "https://news.ycombinator.com/item?id=45559977"
-    ],
-    [
-      "Ridley Scott's Prometheus and Alien: Covenant – Contemporary Horror of AI (2020)",
-      "https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-10-07, 15:40:09",
-      "https://news.ycombinator.com/item?id=45504540"
+      "2025-10-08, 08:09:07",
+      "https://news.ycombinator.com/item?id=45513408"
     ],
     [
-      "The Flummoxagon",
-      "https://n-e-r-v-o-u-s.com/blog/?p=9827"
+      "Database Linting and Analysis for PostgreSQL",
+      "https://pglinter.readthedocs.io/en/latest/"
     ]
   ],
   [
