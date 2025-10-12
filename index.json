@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-12, 05:39:22",
+      "https://news.ycombinator.com/item?id=45555570"
+    ],
+    [
+      "Spyware maker NSO Group confirms acquisition by US investors",
+      "https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 03:50:38",
+      "https://news.ycombinator.com/item?id=45555053"
+    ],
+    [
+      "Major security breach at Austrian AI startup localmind.ai",
+      "https://localmind.ai/"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 03:41:29",
       "https://news.ycombinator.com/item?id=45555012"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-10-11, 22:58:30",
-      "https://news.ycombinator.com/item?id=45553422"
-    ],
-    [
-      "CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code",
-      "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code"
-    ]
-  ],
-  [
-    [
       "2025-10-11, 22:43:58",
       "https://news.ycombinator.com/item?id=45553296"
     ],
@@ -107,16 +117,6 @@
     [
       "Ask HN: Abandoned/dead projects you think died before their time and why?",
       "https://news.ycombinator.com/item?id=45553132"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 21:35:33",
-      "https://news.ycombinator.com/item?id=45552913"
-    ],
-    [
-      "The story of X-Copy on the Amiga",
-      "https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-10-09, 04:06:43",
+      "https://news.ycombinator.com/item?id=45523370"
+    ],
+    [
+      "I/O Multiplexing (select vs. poll vs. epoll/kqueue)",
+      "https://nima101.github.io/io_multiplexing"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 15:01:06",
       "https://news.ycombinator.com/item?id=45516964"
     ],
@@ -267,16 +277,6 @@
     [
       "The World Trade Center under construction through photos, 1966-1979",
       "https://rarehistoricalphotos.com/twin-towers-construction-photographs/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 19:07:22",
-      "https://news.ycombinator.com/item?id=45495051"
-    ],
-    [
-      "A quiet change to RSA",
-      "https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/"
     ]
   ],
   [
