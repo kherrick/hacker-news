@@ -2,6 +2,7 @@
 
 * [2025-10-12, 11:08:58](https://news.ycombinator.com/item?id=45557267) - [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)
 * [2025-10-12, 11:06:50](https://news.ycombinator.com/item?id=45557256) - [A New Algorithm Makes It Faster to Find the Shortest Paths](https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/)
+* [2025-10-12, 10:19:34](https://news.ycombinator.com/item?id=45557013) - [Why Wikipedia cannot claim the Earth is not flat](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_Earth_is_not_flat)
 * [2025-10-12, 10:08:02](https://news.ycombinator.com/item?id=45556952) - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 * [2025-10-12, 09:24:43](https://news.ycombinator.com/item?id=45556763) - [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 * [2025-10-12, 09:21:29](https://news.ycombinator.com/item?id=45556741) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
@@ -19,7 +20,6 @@
 * [2025-10-11, 19:41:27](https://news.ycombinator.com/item?id=45552049) - [A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS](https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/)
 * [2025-10-11, 18:36:51](https://news.ycombinator.com/item?id=45551504) - [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
 * [2025-10-11, 18:06:40](https://news.ycombinator.com/item?id=45551260) - [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-* [2025-10-11, 14:31:15](https://news.ycombinator.com/item?id=45549434) - [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 08:27:26](https://news.ycombinator.com/item?id=45547566) - [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-09, 04:06:43](https://news.ycombinator.com/item?id=45523370) - [I/O Multiplexing (select vs. poll vs. epoll/kqueue)](https://nima101.github.io/io_multiplexing)
 * [2025-10-08, 22:59:09](https://news.ycombinator.com/item?id=45521584) - [C++ Reflection and Qt MOC](https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc)
