@@ -25,8 +25,18 @@
       "https://news.ycombinator.com/item?id=45560974"
     ],
     [
-      "Completing a new BASIC interpreter in 2025 (strings, math funcs, cassette)",
+      "Completing a BASIC language interpreter in 2025",
       "https://nanochess.org/ecs_basic_2.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 19:11:47",
+      "https://news.ycombinator.com/item?id=45560890"
+    ],
+    [
+      "Rcyl – a recycled plastic urban bike",
+      "https://rcyl.bike/en/the-bike/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-10-09, 04:06:43",
-      "https://news.ycombinator.com/item?id=45523370"
-    ],
-    [
-      "I/O Multiplexing (select vs. poll vs. epoll/kqueue)",
-      "https://nima101.github.io/io_multiplexing"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 22:59:09",
       "https://news.ycombinator.com/item?id=45521584"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-10-08, 18:48:11",
-      "https://news.ycombinator.com/item?id=45519310"
+      "2025-10-08, 12:50:32",
+      "https://news.ycombinator.com/item?id=45515597"
     ],
     [
-      "I have a GPS bike computer",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/WhyIHaveGPSBikeComputer"
+      "The Tiny Teams Playbook",
+      "https://www.latent.space/p/tiny"
     ]
   ],
   [
