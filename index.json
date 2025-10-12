@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-12, 04:46:57",
+      "https://news.ycombinator.com/item?id=45555308"
+    ],
+    [
+      "Pipelining in psql (PostgreSQL 18)",
+      "https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 03:50:38",
       "https://news.ycombinator.com/item?id=45555053"
     ],
@@ -237,16 +247,6 @@
     [
       "I/O Multiplexing (select vs. poll vs. epoll/kqueue)",
       "https://nima101.github.io/io_multiplexing"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 15:01:06",
-      "https://news.ycombinator.com/item?id=45516964"
-    ],
-    [
-      "Beyond indexes: How open table formats optimize query performance",
-      "https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance"
     ]
   ],
   [
