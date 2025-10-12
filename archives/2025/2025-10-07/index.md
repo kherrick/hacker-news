@@ -25,6 +25,7 @@
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less is more: Recursive reasoning with tiny networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 17:42:06](https://news.ycombinator.com/item?id=45506268) - [Less Is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871)
 * [2025-10-07, 17:31:49](https://news.ycombinator.com/item?id=45506143) - [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205)
+* [2025-10-07, 17:26:20](https://news.ycombinator.com/item?id=45506055) - [The World's 2.75B Buildings](https://tech.marksblogg.com/building-footprints-gba.html)
 * [2025-10-07, 17:12:43](https://news.ycombinator.com/item?id=45505854) - [ICE bought vehicles equipped with fake cell towers to spy on phones](https://techcrunch.com/2025/10/07/ice-bought-vehicles-equipped-with-fake-cell-towers-to-spy-on-phones/)
 * [2025-10-07, 17:03:15](https://news.ycombinator.com/item?id=45505713) - [Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-07, 17:01:32](https://news.ycombinator.com/item?id=45505692) - [You're Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
