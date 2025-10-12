@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 17:30:48](https://news.ycombinator.com/item?id=45560036) - [Kuzu DB devs no longer supporting the project](https://kuzudb.com)
 * [2025-10-12, 17:12:00](https://news.ycombinator.com/item?id=45559857) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
+* [2025-10-12, 17:11:42](https://news.ycombinator.com/item?id=45559852) - ['Death to Spotify': the DIY movement to get artists and fans to quit the app](https://www.theguardian.com/technology/2025/oct/12/spotify-boycott-artists)
 * [2025-10-12, 16:46:11](https://news.ycombinator.com/item?id=45559603) - [GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)](https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/)
 * [2025-10-12, 16:42:09](https://news.ycombinator.com/item?id=45559567) - [In 1776, Thomas Paine made the best case for fighting kings −and being skeptical](https://theconversation.com/in-1776-thomas-paine-made-the-best-case-for-fighting-kings-and-for-being-skeptical-266448)
 * [2025-10-12, 16:15:45](https://news.ycombinator.com/item?id=45559305) - [Addictive-like behavioural traits in pet dogs with extreme motivation for toys](https://www.nature.com/articles/s41598-025-18636-0)
@@ -10,7 +12,6 @@
 * [2025-10-12, 11:08:58](https://news.ycombinator.com/item?id=45557267) - [Quantification of fibrinaloid clots in plasma from pediatric Long COVID patients](https://www.researchsquare.com/article/rs-7483367/v1)
 * [2025-10-12, 10:08:02](https://news.ycombinator.com/item?id=45556952) - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 * [2025-10-12, 09:24:43](https://news.ycombinator.com/item?id=45556763) - [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
-* [2025-10-12, 09:21:29](https://news.ycombinator.com/item?id=45556741) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-12, 08:37:01](https://news.ycombinator.com/item?id=45556474) - [Faster LLM inference](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
 * [2025-10-12, 05:31:00](https://news.ycombinator.com/item?id=45555523) - [Show HN: I made an esoteric programming language that's read like a spellbook](https://github.com/sirbread/spellscript)
 * [2025-10-12, 04:46:57](https://news.ycombinator.com/item?id=45555308) - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
@@ -25,9 +26,8 @@
 * [2025-10-08, 22:59:09](https://news.ycombinator.com/item?id=45521584) - [C++ Reflection and Qt MOC](https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc)
 * [2025-10-08, 20:58:37](https://news.ycombinator.com/item?id=45520585) - [Show HN: A Lisp Interpreter for Shell Scripting](https://github.com/gue-ni/redstart)
 * [2025-10-08, 18:48:11](https://news.ycombinator.com/item?id=45519310) - [I have a GPS bike computer](https://utcc.utoronto.ca/~cks/space/blog/tech/WhyIHaveGPSBikeComputer)
-* [2025-10-08, 17:12:53](https://news.ycombinator.com/item?id=45518367) - [How to Run WordPress completely from RAM](https://rickconlee.com/how-to-run-wordpress-completely-from-ram/)
+* [2025-10-07, 23:44:12](https://news.ycombinator.com/item?id=45510362) - [Paying AIs to Read My Books](https://kk.org/thetechnium/paying-ais-to-read-my-books/)
 * [2025-10-07, 20:44:34](https://news.ycombinator.com/item?id=45508611) - [Konrad Zuse's Helix Tower [pdf]](https://www.iaarc.org/publications/fulltext/The_helix-tower_by_konrad_zuse_automated_con-_and_deconstruction.pdf)
-* [2025-10-07, 17:26:20](https://news.ycombinator.com/item?id=45506055) - [The World's 2.75B Buildings](https://tech.marksblogg.com/building-footprints-gba.html)
 * [2025-10-07, 15:40:09](https://news.ycombinator.com/item?id=45504540) - [The Flummoxagon](https://n-e-r-v-o-u-s.com/blog/?p=9827)
 * [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 
