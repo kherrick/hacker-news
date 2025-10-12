@@ -28,7 +28,7 @@
 * [2025-10-07, 17:26:20](https://news.ycombinator.com/item?id=45506055) - [The World's 2.75B Buildings](https://tech.marksblogg.com/building-footprints-gba.html)
 * [2025-10-07, 15:40:09](https://news.ycombinator.com/item?id=45504540) - [The Flummoxagon](https://n-e-r-v-o-u-s.com/blog/?p=9827)
 * [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
-* [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center under construction through photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)
+* [2025-10-06, 09:36:08](https://news.ycombinator.com/item?id=45489497) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
 * [2025-10-06, 09:11:39](https://news.ycombinator.com/item?id=45489347) - [Django: One ORM to rule all databases](https://www.paulox.net/2025/10/06/django-orm-comparison/)
 
 ## [Archives](archives/index.md)
