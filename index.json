@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-10-12, 21:24:39",
-      "https://news.ycombinator.com/item?id=45562056"
-    ],
-    [
-      "MAML – a new configuration language (similar to JSON, YAML, and TOML)",
-      "https://maml.dev/"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 20:41:01",
       "https://news.ycombinator.com/item?id=45561700"
     ],
@@ -227,6 +217,16 @@
     [
       "A whirlwind introduction to dataflow graphs (2018)",
       "https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 18:06:40",
+      "https://news.ycombinator.com/item?id=45551260"
+    ],
+    [
+      "Anthropic's Prompt Engineering Tutorial (2024)",
+      "https://github.com/anthropics/prompt-eng-interactive-tutorial"
     ]
   ],
   [
