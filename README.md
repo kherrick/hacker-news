@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 07:20:36](https://news.ycombinator.com/item?id=45556032) - [The App Store Was Always Authoritarian](https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/)
 * [2025-10-12, 05:39:22](https://news.ycombinator.com/item?id=45555570) - [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
 * [2025-10-12, 04:46:57](https://news.ycombinator.com/item?id=45555308) - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
 * [2025-10-12, 03:41:29](https://news.ycombinator.com/item?id=45555012) - [Coral Protocol: Open infrastructure connecting the internet of agents](https://arxiv.org/abs/2505.00749)
@@ -10,7 +11,6 @@
 * [2025-10-11, 23:41:00](https://news.ycombinator.com/item?id=45553764) - [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
 * [2025-10-11, 23:32:25](https://news.ycombinator.com/item?id=45553701) - [Paper2Video: Automatic Video Generation from Scientific Papers](https://arxiv.org/abs/2510.05096)
 * [2025-10-11, 23:16:05](https://news.ycombinator.com/item?id=45553577) - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
-* [2025-10-11, 22:58:30](https://news.ycombinator.com/item?id=45553422) - [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
 * [2025-10-11, 22:43:58](https://news.ycombinator.com/item?id=45553296) - [Heroin addicts often seem normal](https://justismills.substack.com/p/heroin-addicts-often-seem-normal)
 * [2025-10-11, 22:16:18](https://news.ycombinator.com/item?id=45553132) - [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
 * [2025-10-11, 19:41:27](https://news.ycombinator.com/item?id=45552049) - [A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS](https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/)
