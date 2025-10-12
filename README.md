@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-12, 23:19:33](https://news.ycombinator.com/item?id=45562962) - [Private equity is sitting on $5T of existential dread](https://www.afr.com/chanticleer/private-equity-is-sitting-on-5-trillion-of-existential-dread-20250925-p5mxxv)
 * [2025-10-12, 21:51:45](https://news.ycombinator.com/item?id=45562286) - [Free software hasn't won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-12, 21:24:39](https://news.ycombinator.com/item?id=45562056) - [MAML – a new configuration language (similar to JSON, YAML, and TOML)](https://maml.dev/)
 * [2025-10-12, 20:41:01](https://news.ycombinator.com/item?id=45561700) - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
@@ -27,6 +26,7 @@
 * [2025-10-09, 15:45:49](https://news.ycombinator.com/item?id=45529331) - [3D-Printed Automatic Weather Station](https://3dpaws.comet.ucar.edu)
 * [2025-10-08, 12:50:32](https://news.ycombinator.com/item?id=45515597) - [Tiny Teams Playbook](https://www.latent.space/p/tiny)
 * [2025-10-08, 08:09:07](https://news.ycombinator.com/item?id=45513408) - [Database Linting and Analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)
+* [2025-10-07, 15:40:09](https://news.ycombinator.com/item?id=45504540) - [The Flummoxagon](https://n-e-r-v-o-u-s.com/blog/?p=9827)
 * [2025-10-07, 10:40:30](https://news.ycombinator.com/item?id=45501472) - [The neurons that let us see what isn't there](https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/)
 * [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 * [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird Photographer of the Year Gives a Lesson in Planning and Patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)
