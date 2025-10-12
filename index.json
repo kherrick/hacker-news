@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-10-12, 09:21:29",
+      "https://news.ycombinator.com/item?id=45556741"
+    ],
+    [
+      "Why it took 4 years to get a lock files specification",
+      "https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 08:37:01",
       "https://news.ycombinator.com/item?id=45556474"
     ],
@@ -247,16 +257,6 @@
     [
       "Show HN: A Lisp Interpreter for Shell Scripting",
       "https://github.com/gue-ni/redstart"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 18:19:37",
-      "https://news.ycombinator.com/item?id=45506748"
-    ],
-    [
-      "How Apple designs a virtual knob (2012)",
-      "https://jherrm.github.io/knobs/"
     ]
   ],
   [
