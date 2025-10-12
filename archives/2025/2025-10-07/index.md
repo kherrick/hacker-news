@@ -11,6 +11,7 @@
 * [2025-10-07, 21:29:03](https://news.ycombinator.com/item?id=45509123) - [How to Figure Out What You're Not Good At](https://blog.martin-haehnel.de/2025/10/07/how-to-figure-out-what-you-re-not-good-at/)
 * [2025-10-07, 21:12:37](https://news.ycombinator.com/item?id=45508944) - [No more loud commercials: Governor Newsom signs SB 576](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)
 * [2025-10-07, 21:00:51](https://news.ycombinator.com/item?id=45508811) - [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
+* [2025-10-07, 20:44:34](https://news.ycombinator.com/item?id=45508611) - [Konrad Zuse's Helix Tower [pdf]](https://www.iaarc.org/publications/fulltext/The_helix-tower_by_konrad_zuse_automated_con-_and_deconstruction.pdf)
 * [2025-10-07, 20:11:58](https://news.ycombinator.com/item?id=45508213) - [A tiny recursive reasoning model achieves 45% on ARC-AGI-1 and 8% on ARC-AGI-2](http://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-07, 19:49:11](https://news.ycombinator.com/item?id=45507936) - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
 * [2025-10-07, 19:44:00](https://news.ycombinator.com/item?id=45507880) - [Banning controversy reveals Bluesky's decentralized aspiration isn't reality](https://plus.flux.community/p/banning-controversy-reveals-blueskys)
