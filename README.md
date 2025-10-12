@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-12, 19:40:34](https://news.ycombinator.com/item?id=45561164) - [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
 * [2025-10-12, 19:19:50](https://news.ycombinator.com/item?id=45560978) - [HP1345A (and Wargames) – PHKs Bikeshed](https://phk.freebsd.dk/hacks/Wargames/)
 * [2025-10-12, 19:19:38](https://news.ycombinator.com/item?id=45560974) - [Completing a new BASIC interpreter in 2025 (strings, math funcs, cassette)](https://nanochess.org/ecs_basic_2.html)
-* [2025-10-12, 18:38:19](https://news.ycombinator.com/item?id=45560593) - [Nielsen Norman Group on iOS 26 usability](https://anderegg.ca/2025/10/12/nielsen-norman-group-on-ios-26-usability)
 * [2025-10-12, 17:52:27](https://news.ycombinator.com/item?id=45560218) - [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)
 * [2025-10-12, 17:30:48](https://news.ycombinator.com/item?id=45560036) - [Kuzu DB devs no longer supporting the project](https://kuzudb.com)
 * [2025-10-12, 17:23:41](https://news.ycombinator.com/item?id=45559977) - [Ridley Scott's Prometheus and Alien: Covenant – The Contemporary Horror of AI](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)
