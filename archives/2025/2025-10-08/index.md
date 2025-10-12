@@ -18,6 +18,7 @@
 * [2025-10-08, 21:33:05](https://news.ycombinator.com/item?id=45520889) - [Loops of DNA Equipped Ancient Life to Become Complex](https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/)
 * [2025-10-08, 21:26:15](https://news.ycombinator.com/item?id=45520826) - [Gephi Lite v1.0](https://gephi.wordpress.com/2025/10/08/gephi-lite-v1/)
 * [2025-10-08, 21:02:34](https://news.ycombinator.com/item?id=45520615) - [Kurt Got Got](https://fly.io/blog/kurt-got-got/)
+* [2025-10-08, 20:58:37](https://news.ycombinator.com/item?id=45520585) - [Show HN: A Lisp Interpreter for Shell Scripting](https://github.com/gue-ni/redstart)
 * [2025-10-08, 20:20:21](https://news.ycombinator.com/item?id=45520154) - [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
 * [2025-10-08, 19:56:54](https://news.ycombinator.com/item?id=45519944) - [Opal is beginning to roll out 15 new countries](https://blog.google/technology/google-labs/opal-expansion/)
 * [2025-10-08, 19:54:02](https://news.ycombinator.com/item?id=45519915) - [Svelte is that fast](https://chuniversiteit.nl/papers/svelte-is-fast)
