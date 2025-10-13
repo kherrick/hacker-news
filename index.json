@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-10-13, 18:23:15",
+      "https://news.ycombinator.com/item?id=45571688"
+    ],
+    [
+      "Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves",
+      "https://arxiv.org/abs/2510.09272"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 17:03:11",
       "https://news.ycombinator.com/item?id=45570720"
     ],
@@ -267,16 +277,6 @@
     [
       "Scaling request logging with ClickHouse, Kafka, and Vector",
       "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 15:44:54",
-      "https://news.ycombinator.com/item?id=45504604"
-    ],
-    [
-      "Control your Canon Camera wirelessly",
-      "https://github.com/JulianSchroden/cine_remote"
     ]
   ],
   [
