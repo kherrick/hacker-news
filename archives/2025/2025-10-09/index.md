@@ -72,3 +72,4 @@
 * [2025-10-09, 02:26:50](https://news.ycombinator.com/item?id=45522855) - [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
 * [2025-10-09, 01:17:20](https://news.ycombinator.com/item?id=45522406) - [Designing a Low Latency 10G Ethernet Core](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
 * [2025-10-09, 01:02:20](https://news.ycombinator.com/item?id=45522318) - [In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies](https://academic.oup.com/poq/article/89/2/459/8152104?login=false)
+* [2025-10-09, 00:54:00](https://news.ycombinator.com/item?id=45522266) - [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
