@@ -21,22 +21,22 @@
   ],
   [
     [
-      "2025-10-13, 14:59:14",
-      "https://news.ycombinator.com/item?id=45569043"
-    ],
-    [
-      "Supermassive black holes locked in a stable orbit around each other",
-      "https://www.helsinkitimes.fi/themes/themes/science-and-technology/28090-scientists-capture-first-image-of-two-black-holes-in-orbit.html"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 14:51:51",
       "https://news.ycombinator.com/item?id=45568955"
     ],
     [
       "AI and the Future of American Politics",
       "https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 14:48:47",
+      "https://news.ycombinator.com/item?id=45568915"
+    ],
+    [
+      "America is getting an AI gold rush instead of a factory boom",
+      "https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=45568613"
     ],
     [
-      "Smartphones and Being Present",
+      "Smartphones and being present",
       "https://herman.bearblog.dev/being-present/"
     ]
   ],
@@ -116,7 +116,17 @@
     ],
     [
       "California Will Stop Using Coal as a Power Source Next Month",
-      "https://hardware.slashdot.org/story/25/10/13/032224/california-will-stop-using-coal-as-a-power-source-next-month"
+      "https://www.latimes.com/california/newsletter/2025-10-08/essential-california-california-dumps-coal-power"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 11:23:20",
+      "https://news.ycombinator.com/item?id=45567153"
+    ],
+    [
+      "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025",
+      "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/"
     ]
   ],
   [
@@ -141,22 +151,12 @@
   ],
   [
     [
-      "2025-10-13, 09:44:28",
-      "https://news.ycombinator.com/item?id=45566548"
+      "2025-10-13, 10:02:40",
+      "https://news.ycombinator.com/item?id=45566638"
     ],
     [
-      "Modern Linux tools",
-      "https://ikrima.dev/dev-notes/linux/linux-modern-tools/"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 09:39:47",
-      "https://news.ycombinator.com/item?id=45566532"
-    ],
-    [
-      "gsay: Fetch pronunciation of English vocabulary from Google",
-      "https://github.com/pvonmoradi/gsay"
+      "American solar farms",
+      "https://tech.marksblogg.com/american-solar-farms.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-10-12, 06:17:52",
-      "https://news.ycombinator.com/item?id=45555727"
-    ],
-    [
-      "Three ways formally verified code can go wrong in practice",
-      "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 10:35:40",
       "https://news.ycombinator.com/item?id=45525804"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2025-10-08, 13:31:35",
-      "https://news.ycombinator.com/item?id=45515978"
+      "2025-10-08, 16:38:43",
+      "https://news.ycombinator.com/item?id=45518033"
     ],
     [
-      "Show HN: Baby's first international landline",
-      "https://wip.tf/posts/telefonefix-building-babys-first-international-landline/"
+      "JSON River – Parse JSON incrementally as it streams in",
+      "https://github.com/rictic/jsonriver"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Control your Canon Camera wirelessly",
       "https://github.com/JulianSchroden/cine_remote"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 12:54:27",
+      "https://news.ycombinator.com/item?id=45502503"
+    ],
+    [
+      "Making regular GPS ultra-precise",
+      "https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/"
     ]
   ],
   [
