@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-13, 17:14:30](https://news.ycombinator.com/item?id=45570840) - [ProtonVPN Lied About Logging](https://vp.net/l/en-US/blog/ProtonVPN-Lied-About-Logging)
 * [2025-10-13, 17:03:11](https://news.ycombinator.com/item?id=45570720) - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
 * [2025-10-13, 16:49:15](https://news.ycombinator.com/item?id=45570537) - [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
 * [2025-10-13, 16:08:32](https://news.ycombinator.com/item?id=45569966) - [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/)
@@ -9,7 +8,7 @@
 * [2025-10-13, 14:51:51](https://news.ycombinator.com/item?id=45568955) - [AI and the Future of American Politics](https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html)
 * [2025-10-13, 14:42:19](https://news.ycombinator.com/item?id=45568842) - [A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal](https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/)
 * [2025-10-13, 14:34:40](https://news.ycombinator.com/item?id=45568767) - [Ofcom fines 4chan £20K and counting for violating UK's Online Safety Act](https://www.theregister.com/2025/10/13/4chan_ofcom_fine/)
-* [2025-10-13, 14:28:25](https://news.ycombinator.com/item?id=45568700) - [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
+* [2025-10-13, 14:29:06](https://news.ycombinator.com/item?id=45568708) - [Roger Dean – His legendary artwork in gaming history (Psygnosis)](https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/)
 * [2025-10-13, 14:20:33](https://news.ycombinator.com/item?id=45568613) - [Smartphones and being present](https://herman.bearblog.dev/being-present/)
 * [2025-10-13, 12:46:52](https://news.ycombinator.com/item?id=45567770) - [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
 * [2025-10-13, 11:23:20](https://news.ycombinator.com/item?id=45567153) - [The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)
@@ -21,6 +20,7 @@
 * [2025-10-13, 08:36:33](https://news.ycombinator.com/item?id=45566139) - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 * [2025-10-13, 08:33:34](https://news.ycombinator.com/item?id=45566123) - [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
 * [2025-10-12, 20:09:14](https://news.ycombinator.com/item?id=45561428) - [Ask HN: What are you working on? (October 2025)](https://news.ycombinator.com/item?id=45561428)
+* [2025-10-09, 14:01:27](https://news.ycombinator.com/item?id=45527840) - [CRDT and SQLite: Local-First Value Synchronization](https://marcobambini.substack.com/p/the-secret-life-of-a-local-first)
 * [2025-10-09, 10:35:40](https://news.ycombinator.com/item?id=45525804) - [MicroPythonOS – An Android-like OS for microcontrollers](https://micropythonos.com)
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)
 * [2025-10-08, 09:56:25](https://news.ycombinator.com/item?id=45514213) - [From Millions to Billions](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)

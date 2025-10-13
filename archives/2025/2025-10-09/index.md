@@ -41,6 +41,7 @@
 * [2025-10-09, 14:36:52](https://news.ycombinator.com/item?id=45528308) - [New nanotherapy clears amyloid-β reversing Alzheimer's in mice](https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/)
 * [2025-10-09, 14:24:22](https://news.ycombinator.com/item?id=45528141) - [Silver Trades to $50 an Ounce](https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/)
 * [2025-10-09, 14:07:40](https://news.ycombinator.com/item?id=45527931) - [US opens Tesla probe after more crashes involving its \"full self-driving\"](https://apnews.com/article/tesla-full-selfdriving-investigation-nhtsa-1f7fe4da8df2abfa03341c30a0f1b8b5)
+* [2025-10-09, 14:01:27](https://news.ycombinator.com/item?id=45527840) - [CRDT and SQLite: Local-First Value Synchronization](https://marcobambini.substack.com/p/the-secret-life-of-a-local-first)
 * [2025-10-09, 13:55:04](https://news.ycombinator.com/item?id=45527758) - [TIL: Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
 * [2025-10-09, 13:54:38](https://news.ycombinator.com/item?id=45527754) - [Colombia's president says boat struck by US was carrying Colombians](https://www.bbc.com/news/articles/c89dz920p0do)
 * [2025-10-09, 13:36:01](https://news.ycombinator.com/item?id=45527507) - [Using a Laptop as an HDMI Monitor for an SBC](https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/)
