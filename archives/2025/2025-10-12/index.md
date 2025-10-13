@@ -49,6 +49,7 @@
 * [2025-10-12, 07:20:36](https://news.ycombinator.com/item?id=45556032) - [The App Store Was Always Authoritarian](https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/)
 * [2025-10-12, 07:15:25](https://news.ycombinator.com/item?id=45556010) - [CBP Enforces Binary Sex Codes and Enhanced US Passport Validation in APIs](https://www.gtlaw-insidebusinessimmigration.com/u-s-customs-and-border-protection-cbp/cbp-enforces-binary-sex-codes-and-enhanced-us-passport-validation-in-apis/)
 * [2025-10-12, 06:46:58](https://news.ycombinator.com/item?id=45555873) - [Show HN: Sober not Sorry – free iOS tracker to help you quit bad habits](https://sobernotsorry.app/)
+* [2025-10-12, 06:21:41](https://news.ycombinator.com/item?id=45555757) - [Systems as Mirrors](https://iamstelios.com/blog/systems-as-mirrors/)
 * [2025-10-12, 06:17:52](https://news.ycombinator.com/item?id=45555727) - [Three ways formally verified code can go wrong in practice](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
 * [2025-10-12, 05:39:22](https://news.ycombinator.com/item?id=45555570) - [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
 * [2025-10-12, 05:31:00](https://news.ycombinator.com/item?id=45555523) - [Show HN: I made an esoteric programming language that's read like a spellbook](https://github.com/sirbread/spellscript)
