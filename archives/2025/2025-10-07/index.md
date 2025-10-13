@@ -64,6 +64,7 @@
 * [2025-10-07, 12:54:27](https://news.ycombinator.com/item?id=45502503) - [Making regular GPS ultra-precise](https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/)
 * [2025-10-07, 12:54:14](https://news.ycombinator.com/item?id=45502502) - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 12:41:40](https://news.ycombinator.com/item?id=45502387) - [Provision (YC S22) Is Hiring](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada)
+* [2025-10-07, 12:34:47](https://news.ycombinator.com/item?id=45502322) - [Ancient Patagonian hunter-gatherers took care of their injured and disabled](https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html)
 * [2025-10-07, 12:20:14](https://news.ycombinator.com/item?id=45502216) - [Canadian bill would strip internet access from 'specified persons', no warrant](https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons)
 * [2025-10-07, 12:14:16](https://news.ycombinator.com/item?id=45502173) - [disk-perf-git-and-pnpm aims to prove that something is wrong with APFS on macOS](https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm)
 * [2025-10-07, 11:56:52](https://news.ycombinator.com/item?id=45502044) - [Show HN: Cjam – a modern MP3 file editor](https://github.com/cutandjoin/Cjam/releases/tag/v2230)
