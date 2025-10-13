@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-13, 02:39:25",
+      "https://news.ycombinator.com/item?id=45564196"
+    ],
+    [
+      "Countering Trusting Trust Through Diverse Double-Compiling (DDC)",
+      "https://dwheeler.com/trusting-trust/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 02:15:25",
       "https://news.ycombinator.com/item?id=45564077"
     ],
@@ -57,6 +67,16 @@
     [
       "An initial investigation into WDDM on ReactOS",
       "https://reactos.org/blogs/investigating-wddm/"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 21:24:39",
+      "https://news.ycombinator.com/item?id=45562056"
+    ],
+    [
+      "MAML – A new configuration language",
+      "https://maml.dev/"
     ]
   ],
   [
@@ -121,6 +141,16 @@
   ],
   [
     [
+      "2025-10-12, 17:02:09",
+      "https://news.ycombinator.com/item?id=45559767"
+    ],
+    [
+      "A years-long Turkish alphabet bug in the Kotlin compiler",
+      "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 16:21:59",
       "https://news.ycombinator.com/item?id=45559372"
     ],
@@ -131,52 +161,12 @@
   ],
   [
     [
-      "2025-10-12, 16:15:45",
-      "https://news.ycombinator.com/item?id=45559305"
-    ],
-    [
-      "Addictive-like behavioural traits in pet dogs with extreme motivation for toys",
-      "https://www.nature.com/articles/s41598-025-18636-0"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 15:48:28",
-      "https://news.ycombinator.com/item?id=45559076"
-    ],
-    [
-      "How I'm using Helix editor",
-      "https://rushter.com/blog/helix-editor/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 14:53:45",
-      "https://news.ycombinator.com/item?id=45558635"
-    ],
-    [
-      "Schleswig-Holstein completes migration to open source email",
-      "https://news.itsfoss.com/schleswig-holstein-email-system-migration/"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 14:49:50",
       "https://news.ycombinator.com/item?id=45558611"
     ],
     [
       "Show HN: I built a simple ambient sound app with no ads or subscriptions",
       "https://ambisounds.app/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 09:24:43",
-      "https://news.ycombinator.com/item?id=45556763"
-    ],
-    [
-      "Nostr and ATProto (2024)",
-      "https://shreyanjain.net/2024/07/05/nostr-and-atproto.html"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "A whirlwind introduction to dataflow graphs (2018)",
       "https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 14:24:35",
+      "https://news.ycombinator.com/item?id=45549392"
+    ],
+    [
+      "Show HN: Aidlab – Health Data for Devs",
+      "https://news.ycombinator.com/item?id=45549392"
     ]
   ],
   [
