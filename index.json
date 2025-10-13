@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-10-13, 12:18:39",
+      "https://news.ycombinator.com/item?id=45567517"
+    ],
+    [
+      "US Junk Bonds Post Worst Losses in Six Months, Spreads Widen",
+      "https://www.bloomberg.com/news/articles/2025-10-13/us-junk-bonds-post-worst-losses-in-six-months-spreads-widen"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 12:08:31",
+      "https://news.ycombinator.com/item?id=45567443"
+    ],
+    [
+      "We need (at least) ergonomic, explicit handles",
+      "https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 11:23:20",
+      "https://news.ycombinator.com/item?id=45567153"
+    ],
+    [
+      "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025",
+      "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 10:23:08",
       "https://news.ycombinator.com/item?id=45566766"
     ],
     [
       "Matrices can be your Friends",
       "https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 10:05:50",
+      "https://news.ycombinator.com/item?id=45566660"
+    ],
+    [
+      "Two Paths to Memory Safety: CHERI and OMA",
+      "https://ednutting.com/2025/10/05/cheri-vs-oma.html"
     ]
   ],
   [
@@ -21,12 +61,52 @@
   ],
   [
     [
+      "2025-10-13, 09:48:45",
+      "https://news.ycombinator.com/item?id=45566568"
+    ],
+    [
+      "Nobel Prize in Economic Sciences 2025",
+      "https://www.nobelprize.org/prizes/economic-sciences/2025/popular-information/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 09:44:28",
       "https://news.ycombinator.com/item?id=45566548"
     ],
     [
       "Modern Linux tools",
       "https://ikrima.dev/dev-notes/linux/linux-modern-tools/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 09:39:47",
+      "https://news.ycombinator.com/item?id=45566532"
+    ],
+    [
+      "gsay: Fetch pronunciation of English vocabulary from Google",
+      "https://github.com/pvonmoradi/gsay"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 09:25:45",
+      "https://news.ycombinator.com/item?id=45566441"
+    ],
+    [
+      "MPTCP for Linux",
+      "https://www.mptcp.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 09:22:33",
+      "https://news.ycombinator.com/item?id=45566421"
+    ],
+    [
+      "Switch to Jujutsu Already: A Tutorial",
+      "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/"
     ]
   ],
   [
@@ -71,36 +151,6 @@
   ],
   [
     [
-      "2025-10-12, 21:51:45",
-      "https://news.ycombinator.com/item?id=45562286"
-    ],
-    [
-      "Free software hasn't won",
-      "https://dorotac.eu/posts/fosswon/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 21:40:43",
-      "https://news.ycombinator.com/item?id=45562188"
-    ],
-    [
-      "An initial investigation into WDDM on ReactOS",
-      "https://reactos.org/blogs/investigating-wddm/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 21:24:39",
-      "https://news.ycombinator.com/item?id=45562056"
-    ],
-    [
-      "MAML – A new configuration language",
-      "https://maml.dev/"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 20:37:16",
       "https://news.ycombinator.com/item?id=45561672"
     ],
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2025-10-12, 14:49:50",
-      "https://news.ycombinator.com/item?id=45558611"
-    ],
-    [
-      "Show HN: I built a simple ambient sound app with no ads or subscriptions",
-      "https://ambisounds.app/"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 06:17:52",
       "https://news.ycombinator.com/item?id=45555727"
     ],
@@ -161,32 +201,12 @@
   ],
   [
     [
-      "2025-10-11, 14:24:35",
-      "https://news.ycombinator.com/item?id=45549392"
-    ],
-    [
-      "Show HN: Aidlab – Health Data for Devs",
-      "https://news.ycombinator.com/item?id=45549392"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 15:45:49",
       "https://news.ycombinator.com/item?id=45529331"
     ],
     [
       "3D-Printed Automatic Weather Station",
       "https://3dpaws.comet.ucar.edu"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 15:29:31",
-      "https://news.ycombinator.com/item?id=45529081"
-    ],
-    [
-      "Keyboard Holders, Generation 1",
-      "https://cceckman.com/writing/keyboard-holders-gen1/"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "Show HN: Baby's first international landline",
       "https://wip.tf/posts/telefonefix-building-babys-first-international-landline/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 12:50:32",
-      "https://news.ycombinator.com/item?id=45515597"
-    ],
-    [
-      "The Tiny Teams Playbook",
-      "https://www.latent.space/p/tiny"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 08:09:07",
-      "https://news.ycombinator.com/item?id=45513408"
-    ],
-    [
-      "Database Linting and Analysis for PostgreSQL",
-      "https://pglinter.readthedocs.io/en/latest/"
     ]
   ],
   [
