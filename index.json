@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-13, 19:07:15",
-      "https://news.ycombinator.com/item?id=45572130"
-    ],
-    [
-      "Ask HN: Has AI stolen the satisfaction from programming?",
-      "https://news.ycombinator.com/item?id=45572130"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 18:45:16",
       "https://news.ycombinator.com/item?id=45571918"
     ],
@@ -21,22 +11,22 @@
   ],
   [
     [
+      "2025-10-13, 18:37:34",
+      "https://news.ycombinator.com/item?id=45571822"
+    ],
+    [
+      "Strudel REPL – a music live coding environment living in the browser",
+      "https://strudel.cc"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 18:37:04",
       "https://news.ycombinator.com/item?id=45571814"
     ],
     [
       "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
       "https://www.wired.com/story/programming-assembly-artificial-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 17:24:51",
-      "https://news.ycombinator.com/item?id=45570973"
-    ],
-    [
-      "America's future could hinge on whether AI slightly disappoints",
-      "https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether"
     ]
   ],
   [
@@ -57,16 +47,6 @@
     [
       "Environment variables are a legacy mess: Let's dive deep into them",
       "https://allvpv.org/haotic-journey-through-envvars/"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 16:08:32",
-      "https://news.ycombinator.com/item?id=45569966"
-    ],
-    [
-      "Jeep software update bricks vehicles, leaves owners stranded",
-      "https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/"
     ]
   ],
   [
@@ -101,22 +81,22 @@
   ],
   [
     [
-      "2025-10-13, 14:34:40",
-      "https://news.ycombinator.com/item?id=45568767"
-    ],
-    [
-      "Ofcom fines 4chan £20K and counting for violating UK's Online Safety Act",
-      "https://www.theregister.com/2025/10/13/4chan_ofcom_fine/"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 14:29:06",
       "https://news.ycombinator.com/item?id=45568708"
     ],
     [
       "Roger Dean – His legendary artwork in gaming history (Psygnosis)",
       "https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 14:28:25",
+      "https://news.ycombinator.com/item?id=45568700"
+    ],
+    [
+      "Software update bricks some Jeep 4xe hybrids over the weekend",
+      "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2025-10-13, 11:37:55",
+      "https://news.ycombinator.com/item?id=45567241"
+    ],
+    [
+      "Why did containers happen?",
+      "https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 11:23:20",
       "https://news.ycombinator.com/item?id=45567153"
     ],
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2025-10-13, 10:05:50",
-      "https://news.ycombinator.com/item?id=45566660"
+      "2025-10-13, 10:23:08",
+      "https://news.ycombinator.com/item?id=45566766"
     ],
     [
-      "Two Paths to Memory Safety: CHERI and OMA",
-      "https://ednutting.com/2025/10/05/cheri-vs-oma.html"
+      "Matrices can be your friends (2002)",
+      "https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-10-13, 08:45:49",
+      "https://news.ycombinator.com/item?id=45566198"
+    ],
+    [
+      "Abstraction, not syntax",
+      "https://ruudvanasseldonk.com/2025/abstraction-not-syntax"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 08:36:33",
       "https://news.ycombinator.com/item?id=45566139"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-10-13, 08:33:34",
-      "https://news.ycombinator.com/item?id=45566123"
+      "2025-10-12, 19:08:41",
+      "https://news.ycombinator.com/item?id=45560863"
     ],
     [
-      "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
-      "https://arxiv.org/abs/2510.03761"
+      "JIT: So you want to be faster than an interpreter on modern CPUs",
+      "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=45514213"
     ],
     [
-      "From Millions to Billions",
+      "Scaling request logging with ClickHouse, Kafka, and Vector",
       "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/"
     ]
   ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-10-07, 19:11:04",
-      "https://news.ycombinator.com/item?id=45507444"
-    ],
-    [
-      "Putting a dumb weather station on the internet",
-      "https://colincogle.name/blog/byo-weather-station/"
-    ]
-  ],
-  [
-    [
       "2025-10-07, 15:44:54",
       "https://news.ycombinator.com/item?id=45504604"
     ],
     [
       "Control your Canon Camera wirelessly",
       "https://github.com/JulianSchroden/cine_remote"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 12:34:47",
+      "https://news.ycombinator.com/item?id=45502322"
+    ],
+    [
+      "Ancient Patagonian hunter-gatherers took care of their injured and disabled",
+      "https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html"
     ]
   ],
   [
