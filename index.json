@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-10-13, 00:14:41",
+      "https://news.ycombinator.com/item?id=45563359"
+    ],
+    [
+      "Everything You Need to Know About [California] SB 79",
+      "https://mnolangray.substack.com/p/everything-you-need-to-know-about"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 23:46:55",
+      "https://news.ycombinator.com/item?id=45563161"
+    ],
+    [
+      "Novelty Automation",
+      "https://www.novelty-automation.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 23:30:38",
+      "https://news.ycombinator.com/item?id=45563043"
+    ],
+    [
+      "Why are Big Tech companies a threat to human rights?",
+      "https://www.amnesty.org/en/latest/news/2025/08/why-are-big-tech-companies-a-threat-to-human-rights/"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 23:18:04",
+      "https://news.ycombinator.com/item?id=45562959"
+    ],
+    [
+      "Wall Street is worried the private credit bubble will burst",
+      "https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 21:51:45",
       "https://news.ycombinator.com/item?id=45562286"
     ],
@@ -41,42 +81,12 @@
   ],
   [
     [
-      "2025-10-12, 19:40:34",
-      "https://news.ycombinator.com/item?id=45561164"
-    ],
-    [
-      "After the AI boom: what might we be left with?",
-      "https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 19:19:50",
-      "https://news.ycombinator.com/item?id=45560978"
-    ],
-    [
-      "HP1345A (and wargames) (2017)",
-      "https://phk.freebsd.dk/hacks/Wargames/"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 19:19:38",
       "https://news.ycombinator.com/item?id=45560974"
     ],
     [
       "Completing a BASIC language interpreter in 2025",
       "https://nanochess.org/ecs_basic_2.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 19:11:47",
-      "https://news.ycombinator.com/item?id=45560890"
-    ],
-    [
-      "Rcyl – a recycled plastic urban bike",
-      "https://rcyl.bike/en/the-bike/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Wireguard FPGA",
       "https://github.com/chili-chips-ba/wireguard-fpga"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 17:02:09",
-      "https://news.ycombinator.com/item?id=45559767"
-    ],
-    [
-      "A years-long Turkish alphabet bug in the Kotlin compiler",
-      "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-10-11, 23:16:05",
-      "https://news.ycombinator.com/item?id=45553577"
-    ],
-    [
-      "Meta Superintelligence Labs' first paper is about RAG",
-      "https://paddedinputs.substack.com/p/meta-superintelligences-surprising"
-    ]
-  ],
-  [
-    [
       "2025-10-11, 20:52:21",
       "https://news.ycombinator.com/item?id=45552590"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2025-10-11, 18:06:40",
-      "https://news.ycombinator.com/item?id=45551260"
+      "2025-10-11, 02:37:26",
+      "https://news.ycombinator.com/item?id=45546107"
     ],
     [
-      "Anthropic's Prompt Engineering Tutorial (2024)",
-      "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+      "My first week of vibecoding",
+      "https://underreacted.leaflet.pub/3m2v53oi4bk2z"
     ]
   ],
   [
@@ -237,6 +227,26 @@
     [
       "3D-Printed Automatic Weather Station",
       "https://3dpaws.comet.ucar.edu"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 15:29:31",
+      "https://news.ycombinator.com/item?id=45529081"
+    ],
+    [
+      "Keyboard Holders, Generation 1",
+      "https://cceckman.com/writing/keyboard-holders-gen1/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 13:31:35",
+      "https://news.ycombinator.com/item?id=45515978"
+    ],
+    [
+      "Show HN: Baby's First International Landline",
+      "https://wip.tf/posts/telefonefix-building-babys-first-international-landline/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Database Linting and Analysis for PostgreSQL",
       "https://pglinter.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 15:40:09",
-      "https://news.ycombinator.com/item?id=45504540"
-    ],
-    [
-      "The Flummoxagon",
-      "https://n-e-r-v-o-u-s.com/blog/?p=9827"
     ]
   ],
   [
