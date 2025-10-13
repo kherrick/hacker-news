@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-13, 10:23:08",
+      "https://news.ycombinator.com/item?id=45566766"
+    ],
+    [
+      "Matrices can be your Friends",
+      "https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 10:02:40",
       "https://news.ycombinator.com/item?id=45566638"
     ],
     [
       "American Solar Farms",
       "https://tech.marksblogg.com/american-solar-farms.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 09:44:28",
+      "https://news.ycombinator.com/item?id=45566548"
+    ],
+    [
+      "Modern Linux Tools",
+      "https://ikrima.dev/dev-notes/linux/linux-modern-tools/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 09:28:13",
+      "https://news.ycombinator.com/item?id=45566454"
+    ],
+    [
+      "Show HN: I built an online productivity tools website",
+      "https://onlinenotep.ad"
     ]
   ],
   [
@@ -47,26 +77,6 @@
     [
       "HTTP3 Explained",
       "https://http3-explained.haxx.se"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 01:46:18",
-      "https://news.ycombinator.com/item?id=45563900"
-    ],
-    [
-      "For centuries massive meals amazed visitors to Korea (2019)",
-      "https://www.atlasobscura.com/articles/history-of-korean-food"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 00:57:49",
-      "https://news.ycombinator.com/item?id=45563627"
-    ],
-    [
-      "John Searle has died",
-      "https://www.nytimes.com/2025/10/12/books/john-searle-dead.html"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Ask HN: What are you working on? (October 2025)",
       "https://news.ycombinator.com/item?id=45561428"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 19:19:38",
-      "https://news.ycombinator.com/item?id=45560974"
-    ],
-    [
-      "Completing a BASIC language interpreter in 2025",
-      "https://nanochess.org/ecs_basic_2.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-10-08, 16:25:40",
-      "https://news.ycombinator.com/item?id=45517905"
-    ],
-    [
-      "A better SQL validator and comparison with existing SQL validators",
-      "https://app.sqlai.ai/posts/better-sql-validator/"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 13:31:35",
       "https://news.ycombinator.com/item?id=45515978"
     ],
@@ -247,6 +237,16 @@
     [
       "Database Linting and Analysis for PostgreSQL",
       "https://pglinter.readthedocs.io/en/latest/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 07:53:29",
+      "https://news.ycombinator.com/item?id=45513313"
+    ],
+    [
+      "Clockss: Digital preservation services run by academic publishers and libraries",
+      "https://clockss.org/"
     ]
   ],
   [
