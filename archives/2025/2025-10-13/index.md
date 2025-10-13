@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-13](index.md)
+
+* [2025-10-13, 00:14:41](https://news.ycombinator.com/item?id=45563359) - [Everything You Need to Know About [California] SB 79](https://mnolangray.substack.com/p/everything-you-need-to-know-about)
