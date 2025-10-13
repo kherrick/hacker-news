@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-13, 20:54:25",
+      "https://news.ycombinator.com/item?id=45573244"
+    ],
+    [
+      "Thoughts on Omarchy: Slick Distro, Complicated Ethics",
+      "https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 20:31:47",
       "https://news.ycombinator.com/item?id=45573025"
     ],
@@ -17,6 +27,16 @@
     [
       "AWS Service Availability Updates",
       "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 19:39:14",
+      "https://news.ycombinator.com/item?id=45572478"
+    ],
+    [
+      "LLMs are getting better at character-level text manipulation",
+      "https://blog.burkert.me/posts/llm_evolution_character_manipulation/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Scaling request logging with ClickHouse, Kafka, and Vector",
       "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 12:34:47",
-      "https://news.ycombinator.com/item?id=45502322"
-    ],
-    [
-      "Ancient Patagonian hunter-gatherers took care of their injured and disabled",
-      "https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 13:02:38",
-      "https://news.ycombinator.com/item?id=45490938"
-    ],
-    [
-      "More random home lab things I've recently learned",
-      "https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/"
     ]
   ],
   [
