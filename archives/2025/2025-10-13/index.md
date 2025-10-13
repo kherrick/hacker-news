@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 23:21:23](https://news.ycombinator.com/item?id=45574393) - [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
+* [2025-10-13, 23:02:06](https://news.ycombinator.com/item?id=45574247) - [Sony Playstation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
 * [2025-10-13, 20:54:25](https://news.ycombinator.com/item?id=45573244) - [Thoughts on Omarchy: Slick Distro, Complicated Ethics](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/)
 * [2025-10-13, 20:31:47](https://news.ycombinator.com/item?id=45573025) - [Don't Be a Sucker (1943) [video]](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
 * [2025-10-13, 19:52:46](https://news.ycombinator.com/item?id=45572613) - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
