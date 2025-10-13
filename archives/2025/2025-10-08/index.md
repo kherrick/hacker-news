@@ -29,6 +29,7 @@
 * [2025-10-08, 18:42:22](https://news.ycombinator.com/item?id=45519263) - [Julia 1.12 Highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
 * [2025-10-08, 18:00:34](https://news.ycombinator.com/item?id=45518861) - [Show HN: Open-source UI for running multiple coding agents](https://github.com/built-by-as/FleetCode)
 * [2025-10-08, 17:56:32](https://news.ycombinator.com/item?id=45518813) - [WinBoat: Windows apps on Linux with seamless integration](https://www.winboat.app/)
+* [2025-10-08, 17:25:41](https://news.ycombinator.com/item?id=45518498) - [KTX – npx for Kotlin and JVM to install jars or Kotlin scripts](https://github.com/mpetuska/ktx)
 * [2025-10-08, 17:12:53](https://news.ycombinator.com/item?id=45518367) - [How to Run WordPress completely from RAM](https://rickconlee.com/how-to-run-wordpress-completely-from-ram/)
 * [2025-10-08, 16:50:12](https://news.ycombinator.com/item?id=45518159) - [Show HN: Solving the cluster 1 problem with vCluster standalone](https://www.vcluster.com/blog/vcluster-standalone-multi-tenancy-kubernetes)
 * [2025-10-08, 16:47:26](https://news.ycombinator.com/item?id=45518136) - [Doctorow: American Tech Cartels Use Apps to Break the Law](https://lithub.com/how-american-tech-cartels-use-apps-to-break-the-law/)
