@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 09:09:19](https://news.ycombinator.com/item?id=45566341) - [German industrial output falls to 2005 levels as auto sector craters](https://www.ft.com/content/745fff84-2cbf-491c-b70c-e39bc8edaa39)
 * [2025-10-13, 08:53:17](https://news.ycombinator.com/item?id=45566253) - [After 2 decades, are promises of a graphene revolution coming true?](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
 * [2025-10-13, 08:36:33](https://news.ycombinator.com/item?id=45566139) - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 * [2025-10-13, 08:33:34](https://news.ycombinator.com/item?id=45566123) - [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
@@ -18,7 +19,6 @@
 * [2025-10-12, 17:02:09](https://news.ycombinator.com/item?id=45559767) - [A years-long Turkish alphabet bug in the Kotlin compiler](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
 * [2025-10-12, 14:49:50](https://news.ycombinator.com/item?id=45558611) - [Show HN: I built a simple ambient sound app with no ads or subscriptions](https://ambisounds.app/)
 * [2025-10-12, 06:17:52](https://news.ycombinator.com/item?id=45555727) - [Three ways formally verified code can go wrong in practice](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
-* [2025-10-11, 20:52:21](https://news.ycombinator.com/item?id=45552590) - [A whirlwind introduction to dataflow graphs (2018)](https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/)
 * [2025-10-09, 15:45:49](https://news.ycombinator.com/item?id=45529331) - [3D-Printed Automatic Weather Station](https://3dpaws.comet.ucar.edu)
 * [2025-10-09, 15:29:31](https://news.ycombinator.com/item?id=45529081) - [Keyboard Holders, Generation 1](https://cceckman.com/writing/keyboard-holders-gen1/)
 * [2025-10-09, 10:35:40](https://news.ycombinator.com/item?id=45525804) - [MicroPythonOS – An Android-like OS for microcontrollers](https://micropythonos.com)
