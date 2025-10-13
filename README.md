@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-13, 10:23:08](https://news.ycombinator.com/item?id=45566766) - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
-* [2025-10-13, 10:02:40](https://news.ycombinator.com/item?id=45566638) - [American Solar Farms](https://tech.marksblogg.com/american-solar-farms.html)
+* [2025-10-13, 10:02:40](https://news.ycombinator.com/item?id=45566638) - [American solar farms](https://tech.marksblogg.com/american-solar-farms.html)
 * [2025-10-13, 09:44:28](https://news.ycombinator.com/item?id=45566548) - [Modern Linux tools](https://ikrima.dev/dev-notes/linux/linux-modern-tools/)
-* [2025-10-13, 08:53:17](https://news.ycombinator.com/item?id=45566253) - [After 2 decades, are promises of a graphene revolution coming true?](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
+* [2025-10-13, 08:53:17](https://news.ycombinator.com/item?id=45566253) - [Some graphene firms have reaped its potential but others are struggling](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
 * [2025-10-13, 08:36:33](https://news.ycombinator.com/item?id=45566139) - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 * [2025-10-13, 08:33:34](https://news.ycombinator.com/item?id=45566123) - [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
 * [2025-10-13, 07:15:28](https://news.ycombinator.com/item?id=45565646) - [HTTP3 Explained](https://http3-explained.haxx.se)
-* [2025-10-12, 23:46:55](https://news.ycombinator.com/item?id=45563161) - [Novelty Automation](https://www.novelty-automation.com/)
 * [2025-10-12, 21:51:45](https://news.ycombinator.com/item?id=45562286) - [Free software hasn't won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-12, 21:40:43](https://news.ycombinator.com/item?id=45562188) - [An initial investigation into WDDM on ReactOS](https://reactos.org/blogs/investigating-wddm/)
 * [2025-10-12, 21:24:39](https://news.ycombinator.com/item?id=45562056) - [MAML – A new configuration language](https://maml.dev/)
@@ -29,6 +28,7 @@
 * [2025-10-07, 19:11:04](https://news.ycombinator.com/item?id=45507444) - [Putting a dumb weather station on the internet](https://colincogle.name/blog/byo-weather-station/)
 * [2025-10-07, 17:51:46](https://news.ycombinator.com/item?id=45506397) - [Jeffrey Hudson the Court Dwarf of the English Queen Henrietta Maria of France](https://en.wikipedia.org/wiki/Jeffrey_Hudson)
 * [2025-10-07, 12:54:27](https://news.ycombinator.com/item?id=45502503) - [Making regular GPS ultra-precise](https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/)
+* [2025-10-06, 13:02:38](https://news.ycombinator.com/item?id=45490938) - [More random home lab things I've recently learned](https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/)
 * [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird photographer of the year gives a lesson in planning and patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)
 
 ## [Archives](archives/index.md)
