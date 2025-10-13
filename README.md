@@ -6,7 +6,6 @@
 * [2025-10-13, 18:37:34](https://news.ycombinator.com/item?id=45571822) - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 18:23:15](https://news.ycombinator.com/item?id=45571688) - [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
 * [2025-10-13, 17:03:11](https://news.ycombinator.com/item?id=45570720) - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
-* [2025-10-13, 16:49:15](https://news.ycombinator.com/item?id=45570537) - [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
 * [2025-10-13, 15:24:08](https://news.ycombinator.com/item?id=45569371) - [Android's sideloading limits are its most anti-consumer move](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
 * [2025-10-13, 15:22:47](https://news.ycombinator.com/item?id=45569350) - [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-13, 14:29:06](https://news.ycombinator.com/item?id=45568708) - [Roger Dean – His legendary artwork in gaming history (Psygnosis)](https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/)
@@ -30,6 +29,7 @@
 * [2025-10-08, 09:56:25](https://news.ycombinator.com/item?id=45514213) - [Scaling request logging with ClickHouse, Kafka, and Vector](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)
 * [2025-10-07, 12:34:47](https://news.ycombinator.com/item?id=45502322) - [Ancient Patagonian hunter-gatherers took care of their injured and disabled](https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html)
 * [2025-10-06, 13:02:38](https://news.ycombinator.com/item?id=45490938) - [More random home lab things I've recently learned](https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/)
+* [2025-10-06, 12:45:51](https://news.ycombinator.com/item?id=45490775) - [Uv overtakes pip in CI (for Wagtail users)](https://wagtail.org/blog/uv-overtakes-pip-in-ci/)
 
 ## [Archives](archives/index.md)
 

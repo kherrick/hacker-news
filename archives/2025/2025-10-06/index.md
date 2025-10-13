@@ -61,6 +61,7 @@
 * [2025-10-06, 13:06:44](https://news.ycombinator.com/item?id=45490980) - [The Murder That Made Skip Hollandsworth a True Crime Writer](https://www.texasmonthly.com/true-crime/skip-hollandsworth-new-book-she-kills/)
 * [2025-10-06, 13:04:53](https://news.ycombinator.com/item?id=45490957) - [Real-time Nvidia GPU dashboard](https://github.com/psalias2006/gpu-hot)
 * [2025-10-06, 13:02:38](https://news.ycombinator.com/item?id=45490938) - [More random home lab things I've recently learned](https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/)
+* [2025-10-06, 12:45:51](https://news.ycombinator.com/item?id=45490775) - [Uv overtakes pip in CI (for Wagtail users)](https://wagtail.org/blog/uv-overtakes-pip-in-ci/)
 * [2025-10-06, 12:44:43](https://news.ycombinator.com/item?id=45490760) - [Ask HN: Apple won't let me sign up for the developer program. What do I do?](https://news.ycombinator.com/item?id=45490760)
 * [2025-10-06, 12:42:19](https://news.ycombinator.com/item?id=45490740) - [Ask HN: What's the best hackable smart TV?](https://news.ycombinator.com/item?id=45490740)
 * [2025-10-06, 12:40:11](https://news.ycombinator.com/item?id=45490721) - [Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)](https://dunkels.com/adam/stress-testing-next-generation-beacons/)
