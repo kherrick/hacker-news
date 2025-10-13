@@ -4,7 +4,6 @@
 * [2025-10-13, 16:49:15](https://news.ycombinator.com/item?id=45570537) - [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
 * [2025-10-13, 16:31:41](https://news.ycombinator.com/item?id=45570299) - [$19B Wiped Out in Crypto's Biggest Liquidation](https://decrypt.co/344038/morning-minute-19b-wiped-out-in-cryptos-biggest-liquidation-ever)
 * [2025-10-13, 16:08:32](https://news.ycombinator.com/item?id=45569966) - [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/)
-* [2025-10-13, 16:03:31](https://news.ycombinator.com/item?id=45569896) - [Apple Renames 'Apple TV+' to 'Apple TV'](https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/)
 * [2025-10-13, 15:24:08](https://news.ycombinator.com/item?id=45569371) - [Android's sideloading limits are its most anti-consumer move yet](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
 * [2025-10-13, 15:22:47](https://news.ycombinator.com/item?id=45569350) - [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-13, 14:51:51](https://news.ycombinator.com/item?id=45568955) - [AI and the Future of American Politics](https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html)
@@ -29,6 +28,7 @@
 * [2025-10-08, 07:53:29](https://news.ycombinator.com/item?id=45513313) - [Clockss: Digital preservation services run by academic publishers and libraries](https://clockss.org/)
 * [2025-10-07, 19:11:04](https://news.ycombinator.com/item?id=45507444) - [Putting a dumb weather station on the internet](https://colincogle.name/blog/byo-weather-station/)
 * [2025-10-07, 15:44:54](https://news.ycombinator.com/item?id=45504604) - [Control your Canon Camera wirelessly](https://github.com/JulianSchroden/cine_remote)
+* [2025-10-07, 12:54:27](https://news.ycombinator.com/item?id=45502503) - [Making regular GPS ultra-precise](https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/)
 * [2025-10-06, 13:02:38](https://news.ycombinator.com/item?id=45490938) - [More random home lab things I've recently learned](https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/)
 
 ## [Archives](archives/index.md)
