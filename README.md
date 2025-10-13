@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 15:03:53](https://news.ycombinator.com/item?id=45569108) - [More than 130k Vodafone customers report outage](https://www.bbc.co.uk/news/articles/c5yldldx659o)
 * [2025-10-13, 14:59:14](https://news.ycombinator.com/item?id=45569043) - [Supermassive black holes locked in a stable orbit around each other](https://www.helsinkitimes.fi/themes/themes/science-and-technology/28090-scientists-capture-first-image-of-two-black-holes-in-orbit.html)
 * [2025-10-13, 14:42:19](https://news.ycombinator.com/item?id=45568842) - [A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal](https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/)
 * [2025-10-13, 14:34:40](https://news.ycombinator.com/item?id=45568767) - [Ofcom fines 4chan £20K and counting for violating UK's Online Safety Act](https://www.theregister.com/2025/10/13/4chan_ofcom_fine/)
@@ -18,7 +19,6 @@
 * [2025-10-13, 08:53:17](https://news.ycombinator.com/item?id=45566253) - [Some graphene firms have reaped its potential but others are struggling](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
 * [2025-10-13, 08:36:33](https://news.ycombinator.com/item?id=45566139) - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 * [2025-10-13, 08:33:34](https://news.ycombinator.com/item?id=45566123) - [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
-* [2025-10-12, 20:37:16](https://news.ycombinator.com/item?id=45561672) - [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
 * [2025-10-12, 20:09:14](https://news.ycombinator.com/item?id=45561428) - [Ask HN: What are you working on? (October 2025)](https://news.ycombinator.com/item?id=45561428)
 * [2025-10-12, 17:12:00](https://news.ycombinator.com/item?id=45559857) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 * [2025-10-09, 10:35:40](https://news.ycombinator.com/item?id=45525804) - [MicroPythonOS – An Android-like OS for microcontrollers](https://micropythonos.com)

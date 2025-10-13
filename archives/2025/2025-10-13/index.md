@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 15:03:53](https://news.ycombinator.com/item?id=45569108) - [More than 130k Vodafone customers report outage](https://www.bbc.co.uk/news/articles/c5yldldx659o)
 * [2025-10-13, 14:59:14](https://news.ycombinator.com/item?id=45569043) - [Supermassive black holes locked in a stable orbit around each other](https://www.helsinkitimes.fi/themes/themes/science-and-technology/28090-scientists-capture-first-image-of-two-black-holes-in-orbit.html)
 * [2025-10-13, 14:42:19](https://news.ycombinator.com/item?id=45568842) - [A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal](https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/)
 * [2025-10-13, 14:34:40](https://news.ycombinator.com/item?id=45568767) - [Ofcom fines 4chan £20K and counting for violating UK's Online Safety Act](https://www.theregister.com/2025/10/13/4chan_ofcom_fine/)
