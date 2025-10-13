@@ -9,6 +9,7 @@
 * [2025-10-13, 18:37:34](https://news.ycombinator.com/item?id=45571822) - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 18:37:04](https://news.ycombinator.com/item?id=45571814) - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
 * [2025-10-13, 18:26:55](https://news.ycombinator.com/item?id=45571718) - [People Are People, or Why I Don't Want to Be a Landlord](https://oddevan.com/2025/10/13/people-are-people-or-why.html)
+* [2025-10-13, 18:23:15](https://news.ycombinator.com/item?id=45571688) - [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
 * [2025-10-13, 17:24:51](https://news.ycombinator.com/item?id=45570973) - [America's future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether)
 * [2025-10-13, 17:14:30](https://news.ycombinator.com/item?id=45570840) - [ProtonVPN Lied About Logging](https://vp.net/l/en-US/blog/ProtonVPN-Lied-About-Logging)
 * [2025-10-13, 17:03:11](https://news.ycombinator.com/item?id=45570720) - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)

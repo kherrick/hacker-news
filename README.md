@@ -3,6 +3,7 @@
 * [2025-10-13, 18:45:16](https://news.ycombinator.com/item?id=45571918) - [Reverse Engineering a 1979 Camera's Spec](https://blog.mano.lol/posts/film/)
 * [2025-10-13, 18:37:34](https://news.ycombinator.com/item?id=45571822) - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 18:37:04](https://news.ycombinator.com/item?id=45571814) - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
+* [2025-10-13, 18:23:15](https://news.ycombinator.com/item?id=45571688) - [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
 * [2025-10-13, 17:03:11](https://news.ycombinator.com/item?id=45570720) - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
 * [2025-10-13, 16:49:15](https://news.ycombinator.com/item?id=45570537) - [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
 * [2025-10-13, 15:24:08](https://news.ycombinator.com/item?id=45569371) - [Android's sideloading limits are its most anti-consumer move](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
@@ -27,7 +28,6 @@
 * [2025-10-08, 17:25:41](https://news.ycombinator.com/item?id=45518498) - [KTX – npx for Kotlin and JVM to install jars or Kotlin scripts](https://github.com/mpetuska/ktx)
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)
 * [2025-10-08, 09:56:25](https://news.ycombinator.com/item?id=45514213) - [Scaling request logging with ClickHouse, Kafka, and Vector](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)
-* [2025-10-07, 15:44:54](https://news.ycombinator.com/item?id=45504604) - [Control your Canon Camera wirelessly](https://github.com/JulianSchroden/cine_remote)
 * [2025-10-07, 12:34:47](https://news.ycombinator.com/item?id=45502322) - [Ancient Patagonian hunter-gatherers took care of their injured and disabled](https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html)
 * [2025-10-06, 13:02:38](https://news.ycombinator.com/item?id=45490938) - [More random home lab things I've recently learned](https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/)
 
