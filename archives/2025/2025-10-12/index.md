@@ -19,6 +19,7 @@
 * [2025-10-12, 19:19:50](https://news.ycombinator.com/item?id=45560978) - [HP1345A (and Wargames) – PHKs Bikeshed](https://phk.freebsd.dk/hacks/Wargames/)
 * [2025-10-12, 19:19:38](https://news.ycombinator.com/item?id=45560974) - [Completing a new BASIC interpreter in 2025 (strings, math funcs, cassette)](https://nanochess.org/ecs_basic_2.html)
 * [2025-10-12, 19:11:47](https://news.ycombinator.com/item?id=45560890) - [Rcyl – a recycled plastic urban bike](https://rcyl.bike/en/the-bike/)
+* [2025-10-12, 19:08:41](https://news.ycombinator.com/item?id=45560863) - [JIT: So you want to be faster than an interpreter on modern CPUs](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
 * [2025-10-12, 18:38:19](https://news.ycombinator.com/item?id=45560593) - [Nielsen Norman Group on iOS 26 usability](https://anderegg.ca/2025/10/12/nielsen-norman-group-on-ios-26-usability)
 * [2025-10-12, 18:31:51](https://news.ycombinator.com/item?id=45560535) - [Constraint satisfaction to optimize item selection for bundles in Minecraft](https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/)
 * [2025-10-12, 17:52:27](https://news.ycombinator.com/item?id=45560218) - [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)

@@ -6,6 +6,7 @@
 
 * [2025-10-13, 19:07:15](https://news.ycombinator.com/item?id=45572130) - [Ask HN: Has AI stolen the satisfaction from programming?](https://news.ycombinator.com/item?id=45572130)
 * [2025-10-13, 18:45:16](https://news.ycombinator.com/item?id=45571918) - [Reverse Engineering a 1979 Camera's Spec](https://blog.mano.lol/posts/film/)
+* [2025-10-13, 18:37:34](https://news.ycombinator.com/item?id=45571822) - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 18:37:04](https://news.ycombinator.com/item?id=45571814) - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
 * [2025-10-13, 18:26:55](https://news.ycombinator.com/item?id=45571718) - [People Are People, or Why I Don't Want to Be a Landlord](https://oddevan.com/2025/10/13/people-are-people-or-why.html)
 * [2025-10-13, 17:24:51](https://news.ycombinator.com/item?id=45570973) - [America's future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether)
@@ -35,6 +36,7 @@
 * [2025-10-13, 12:18:39](https://news.ycombinator.com/item?id=45567517) - [US Junk Bonds Post Worst Losses in Six Months, Spreads Widen](https://www.bloomberg.com/news/articles/2025-10-13/us-junk-bonds-post-worst-losses-in-six-months-spreads-widen)
 * [2025-10-13, 12:08:31](https://news.ycombinator.com/item?id=45567443) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
 * [2025-10-13, 12:03:51](https://news.ycombinator.com/item?id=45567406) - [AI Is Too Big to Fail](https://sibylline.dev/articles/2025-10-12-ai-is-too-big-to-fail/)
+* [2025-10-13, 11:37:55](https://news.ycombinator.com/item?id=45567241) - [Why did containers happen?](https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/)
 * [2025-10-13, 11:23:20](https://news.ycombinator.com/item?id=45567153) - [The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)
 * [2025-10-13, 10:23:08](https://news.ycombinator.com/item?id=45566766) - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
 * [2025-10-13, 10:05:50](https://news.ycombinator.com/item?id=45566660) - [Two Paths to Memory Safety: CHERI and OMA](https://ednutting.com/2025/10/05/cheri-vs-oma.html)
@@ -48,6 +50,7 @@
 * [2025-10-13, 09:22:33](https://news.ycombinator.com/item?id=45566421) - [Switch to Jujutsu Already: A Tutorial](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/)
 * [2025-10-13, 09:09:19](https://news.ycombinator.com/item?id=45566341) - [German industrial output falls to 2005 levels as auto sector craters](https://www.ft.com/content/745fff84-2cbf-491c-b70c-e39bc8edaa39)
 * [2025-10-13, 08:53:17](https://news.ycombinator.com/item?id=45566253) - [After 2 decades, are promises of a graphene revolution coming true?](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
+* [2025-10-13, 08:45:49](https://news.ycombinator.com/item?id=45566198) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
 * [2025-10-13, 08:36:33](https://news.ycombinator.com/item?id=45566139) - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 * [2025-10-13, 08:33:34](https://news.ycombinator.com/item?id=45566123) - [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
 * [2025-10-13, 07:15:28](https://news.ycombinator.com/item?id=45565646) - [HTTP3 Explained](https://http3-explained.haxx.se)
