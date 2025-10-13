@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 18:26:55](https://news.ycombinator.com/item?id=45571718) - [People Are People, or Why I Don't Want to Be a Landlord](https://oddevan.com/2025/10/13/people-are-people-or-why.html)
 * [2025-10-13, 17:03:11](https://news.ycombinator.com/item?id=45570720) - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
 * [2025-10-13, 16:49:15](https://news.ycombinator.com/item?id=45570537) - [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
 * [2025-10-13, 16:08:32](https://news.ycombinator.com/item?id=45569966) - [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/)
@@ -21,7 +22,6 @@
 * [2025-10-13, 08:33:34](https://news.ycombinator.com/item?id=45566123) - [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
 * [2025-10-12, 20:09:14](https://news.ycombinator.com/item?id=45561428) - [Ask HN: What are you working on? (October 2025)](https://news.ycombinator.com/item?id=45561428)
 * [2025-10-09, 14:01:27](https://news.ycombinator.com/item?id=45527840) - [CRDT and SQLite: Local-First Value Synchronization](https://marcobambini.substack.com/p/the-secret-life-of-a-local-first)
-* [2025-10-09, 10:35:40](https://news.ycombinator.com/item?id=45525804) - [MicroPythonOS – An Android-like OS for microcontrollers](https://micropythonos.com)
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)
 * [2025-10-08, 09:56:25](https://news.ycombinator.com/item?id=45514213) - [From Millions to Billions](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)
 * [2025-10-08, 07:53:29](https://news.ycombinator.com/item?id=45513313) - [Clockss: Digital preservation services run by academic publishers and libraries](https://clockss.org/)
