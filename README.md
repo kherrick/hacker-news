@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 20:31:47](https://news.ycombinator.com/item?id=45573025) - [Don't Be a Sucker (1943) [video]](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
 * [2025-10-13, 18:45:16](https://news.ycombinator.com/item?id=45571918) - [Reverse Engineering a 1979 Camera's Spec](https://blog.mano.lol/posts/film/)
 * [2025-10-13, 18:37:34](https://news.ycombinator.com/item?id=45571822) - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 18:37:04](https://news.ycombinator.com/item?id=45571814) - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
@@ -18,7 +19,6 @@
 * [2025-10-13, 10:03:11](https://news.ycombinator.com/item?id=45566644) - [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
 * [2025-10-13, 10:02:40](https://news.ycombinator.com/item?id=45566638) - [American solar farms](https://tech.marksblogg.com/american-solar-farms.html)
 * [2025-10-13, 09:25:45](https://news.ycombinator.com/item?id=45566441) - [MPTCP for Linux](https://www.mptcp.dev/)
-* [2025-10-13, 08:53:17](https://news.ycombinator.com/item?id=45566253) - [Some graphene firms have reaped its potential but others are struggling](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
 * [2025-10-13, 08:45:49](https://news.ycombinator.com/item?id=45566198) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
 * [2025-10-13, 08:36:33](https://news.ycombinator.com/item?id=45566139) - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 * [2025-10-12, 19:08:41](https://news.ycombinator.com/item?id=45560863) - [JIT: So you want to be faster than an interpreter on modern CPUs](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
