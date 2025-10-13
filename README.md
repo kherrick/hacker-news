@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 05:32:52](https://news.ycombinator.com/item?id=45564981) - [Framework embraces deeply extremist views](https://www.osnews.com/story/143520/in-bizarre-move-framework-embraces-deeply-extremist-views/)
 * [2025-10-13, 04:14:29](https://news.ycombinator.com/item?id=45564619) - [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
 * [2025-10-13, 02:39:25](https://news.ycombinator.com/item?id=45564196) - [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
 * [2025-10-13, 02:15:25](https://news.ycombinator.com/item?id=45564077) - [Despite what's happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
@@ -18,7 +19,6 @@
 * [2025-10-12, 17:02:09](https://news.ycombinator.com/item?id=45559767) - [A years-long Turkish alphabet bug in the Kotlin compiler](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
 * [2025-10-12, 14:49:50](https://news.ycombinator.com/item?id=45558611) - [Show HN: I built a simple ambient sound app with no ads or subscriptions](https://ambisounds.app/)
 * [2025-10-12, 06:17:52](https://news.ycombinator.com/item?id=45555727) - [Three ways formally verified code can go wrong in practice](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
-* [2025-10-11, 20:52:21](https://news.ycombinator.com/item?id=45552590) - [A whirlwind introduction to dataflow graphs (2018)](https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/)
 * [2025-10-11, 14:24:35](https://news.ycombinator.com/item?id=45549392) - [Show HN: Aidlab – Health Data for Devs](https://news.ycombinator.com/item?id=45549392)
 * [2025-10-09, 15:45:49](https://news.ycombinator.com/item?id=45529331) - [3D-Printed Automatic Weather Station](https://3dpaws.comet.ucar.edu)
 * [2025-10-09, 15:29:31](https://news.ycombinator.com/item?id=45529081) - [Keyboard Holders, Generation 1](https://cceckman.com/writing/keyboard-holders-gen1/)
