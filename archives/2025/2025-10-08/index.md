@@ -33,6 +33,7 @@
 * [2025-10-08, 16:50:12](https://news.ycombinator.com/item?id=45518159) - [Show HN: Solving the cluster 1 problem with vCluster standalone](https://www.vcluster.com/blog/vcluster-standalone-multi-tenancy-kubernetes)
 * [2025-10-08, 16:47:26](https://news.ycombinator.com/item?id=45518136) - [Doctorow: American Tech Cartels Use Apps to Break the Law](https://lithub.com/how-american-tech-cartels-use-apps-to-break-the-law/)
 * [2025-10-08, 16:46:36](https://news.ycombinator.com/item?id=45518127) - [Show HN: I built a local-first podcast app](https://wherever.audio)
+* [2025-10-08, 16:25:40](https://news.ycombinator.com/item?id=45517905) - [A better SQL validator and comparison with existing SQL validators](https://app.sqlai.ai/posts/better-sql-validator/)
 * [2025-10-08, 16:09:08](https://news.ycombinator.com/item?id=45517717) - [A Molecular Motor Minimizes Energy Waste](https://physics.aps.org/articles/v18/167)
 * [2025-10-08, 16:06:21](https://news.ycombinator.com/item?id=45517674) - [Ortega Hypothesis](https://en.wikipedia.org/wiki/Ortega_hypothesis)
 * [2025-10-08, 16:03:49](https://news.ycombinator.com/item?id=45517642) - [Suspicionless ChatControl must be taboo in a state governed by the rule of law](https://digitalcourage.social/@echo_pbreyer/115337976340299372)

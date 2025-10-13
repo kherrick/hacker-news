@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-13, 04:14:29](https://news.ycombinator.com/item?id=45564619) - [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
+* [2025-10-13, 07:15:28](https://news.ycombinator.com/item?id=45565646) - [HTTP3 Explained](https://http3-explained.haxx.se)
 * [2025-10-13, 02:39:25](https://news.ycombinator.com/item?id=45564196) - [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
 * [2025-10-13, 01:46:18](https://news.ycombinator.com/item?id=45563900) - [For centuries massive meals amazed visitors to Korea (2019)](https://www.atlasobscura.com/articles/history-of-korean-food)
 * [2025-10-13, 00:57:49](https://news.ycombinator.com/item?id=45563627) - [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
@@ -22,12 +22,12 @@
 * [2025-10-09, 15:45:49](https://news.ycombinator.com/item?id=45529331) - [3D-Printed Automatic Weather Station](https://3dpaws.comet.ucar.edu)
 * [2025-10-09, 15:29:31](https://news.ycombinator.com/item?id=45529081) - [Keyboard Holders, Generation 1](https://cceckman.com/writing/keyboard-holders-gen1/)
 * [2025-10-09, 10:35:40](https://news.ycombinator.com/item?id=45525804) - [MicroPythonOS – An Android-like OS for microcontrollers](https://micropythonos.com)
+* [2025-10-08, 16:25:40](https://news.ycombinator.com/item?id=45517905) - [A better SQL validator and comparison with existing SQL validators](https://app.sqlai.ai/posts/better-sql-validator/)
 * [2025-10-08, 13:31:35](https://news.ycombinator.com/item?id=45515978) - [Show HN: Baby's first international landline](https://wip.tf/posts/telefonefix-building-babys-first-international-landline/)
 * [2025-10-08, 12:50:32](https://news.ycombinator.com/item?id=45515597) - [The Tiny Teams Playbook](https://www.latent.space/p/tiny)
 * [2025-10-08, 08:09:07](https://news.ycombinator.com/item?id=45513408) - [Database Linting and Analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)
 * [2025-10-08, 06:58:00](https://news.ycombinator.com/item?id=45512962) - [Tauri binding for Python through Pyo3](https://github.com/pytauri/pytauri)
 * [2025-10-07, 19:11:04](https://news.ycombinator.com/item?id=45507444) - [Putting a Dumb Weather Station on the Internet](https://colincogle.name/blog/byo-weather-station/)
-* [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 * [2025-10-07, 07:19:56](https://news.ycombinator.com/item?id=45500266) - [Thishereness](https://www.lrb.co.uk/the-paper/v47/n18/erin-maglaque/thishereness)
 * [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird photographer of the year gives a lesson in planning and patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)
 
