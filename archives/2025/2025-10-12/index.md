@@ -9,6 +9,7 @@
 * [2025-10-12, 23:19:33](https://news.ycombinator.com/item?id=45562962) - [Private equity is sitting on $5T of existential dread](https://www.afr.com/chanticleer/private-equity-is-sitting-on-5-trillion-of-existential-dread-20250925-p5mxxv)
 * [2025-10-12, 23:18:04](https://news.ycombinator.com/item?id=45562959) - [Wall Street is worried the private credit bubble will burst](https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds)
 * [2025-10-12, 21:51:45](https://news.ycombinator.com/item?id=45562286) - [Free Software Hasn't Won](https://dorotac.eu/posts/fosswon/)
+* [2025-10-12, 21:40:43](https://news.ycombinator.com/item?id=45562188) - [An initial investigation into WDDM on ReactOS](https://reactos.org/blogs/investigating-wddm/)
 * [2025-10-12, 21:24:39](https://news.ycombinator.com/item?id=45562056) - [MAML – a new configuration language (similar to JSON, YAML, and TOML)](https://maml.dev/)
 * [2025-10-12, 20:41:01](https://news.ycombinator.com/item?id=45561700) - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
 * [2025-10-12, 20:37:16](https://news.ycombinator.com/item?id=45561672) - [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
