@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-13, 18:45:16",
+      "https://news.ycombinator.com/item?id=45571918"
+    ],
+    [
+      "Reverse Engineering a 1979 Camera's Spec",
+      "https://blog.mano.lol/posts/film/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 18:37:04",
       "https://news.ycombinator.com/item?id=45571814"
     ],
     [
       "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
       "https://www.wired.com/story/programming-assembly-artificial-intelligence/"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 17:24:51",
+      "https://news.ycombinator.com/item?id=45570973"
+    ],
+    [
+      "America's future could hinge on whether AI slightly disappoints",
+      "https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-10-13, 08:53:17",
-      "https://news.ycombinator.com/item?id=45566253"
-    ],
-    [
-      "Some graphene firms have reaped its potential but others are struggling",
-      "https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 08:36:33",
       "https://news.ycombinator.com/item?id=45566139"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-10-12, 20:09:14",
-      "https://news.ycombinator.com/item?id=45561428"
+      "2025-10-11, 13:39:31",
+      "https://news.ycombinator.com/item?id=45549060"
     ],
     [
-      "Ask HN: What are you working on? (October 2025)",
-      "https://news.ycombinator.com/item?id=45561428"
+      "Root cause analysis? You're doing it wrong",
+      "https://entropicthoughts.com/root-cause-analysis-youre-doing-it-wrong"
     ]
   ],
   [
@@ -217,6 +227,16 @@
     [
       "CRDT and SQLite: Local-First Value Synchronization",
       "https://marcobambini.substack.com/p/the-secret-life-of-a-local-first"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 00:54:00",
+      "https://news.ycombinator.com/item?id=45522266"
+    ],
+    [
+      "First device based on 'optical thermodynamics' can route light without switches",
+      "https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-10-08, 06:58:00",
-      "https://news.ycombinator.com/item?id=45512962"
-    ],
-    [
-      "Tauri binding for Python through Pyo3",
-      "https://github.com/pytauri/pytauri"
-    ]
-  ],
-  [
-    [
       "2025-10-07, 19:11:04",
       "https://news.ycombinator.com/item?id=45507444"
     ],
@@ -277,16 +287,6 @@
     [
       "Control your Canon Camera wirelessly",
       "https://github.com/JulianSchroden/cine_remote"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 12:54:27",
-      "https://news.ycombinator.com/item?id=45502503"
-    ],
-    [
-      "Making regular GPS ultra-precise",
-      "https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/"
     ]
   ],
   [
