@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 08:36:33](https://news.ycombinator.com/item?id=45566139) - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 * [2025-10-13, 07:15:28](https://news.ycombinator.com/item?id=45565646) - [HTTP3 Explained](https://http3-explained.haxx.se)
 * [2025-10-13, 02:39:25](https://news.ycombinator.com/item?id=45564196) - [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
 * [2025-10-13, 01:46:18](https://news.ycombinator.com/item?id=45563900) - [For centuries massive meals amazed visitors to Korea (2019)](https://www.atlasobscura.com/articles/history-of-korean-food)
@@ -8,7 +9,6 @@
 * [2025-10-12, 21:51:45](https://news.ycombinator.com/item?id=45562286) - [Free software hasn't won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-12, 21:40:43](https://news.ycombinator.com/item?id=45562188) - [An initial investigation into WDDM on ReactOS](https://reactos.org/blogs/investigating-wddm/)
 * [2025-10-12, 21:24:39](https://news.ycombinator.com/item?id=45562056) - [MAML – A new configuration language](https://maml.dev/)
-* [2025-10-12, 20:41:01](https://news.ycombinator.com/item?id=45561700) - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
 * [2025-10-12, 20:37:16](https://news.ycombinator.com/item?id=45561672) - [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
 * [2025-10-12, 20:09:14](https://news.ycombinator.com/item?id=45561428) - [Ask HN: What are you working on? (October 2025)](https://news.ycombinator.com/item?id=45561428)
 * [2025-10-12, 19:19:38](https://news.ycombinator.com/item?id=45560974) - [Completing a BASIC language interpreter in 2025](https://nanochess.org/ecs_basic_2.html)
@@ -28,7 +28,7 @@
 * [2025-10-08, 08:09:07](https://news.ycombinator.com/item?id=45513408) - [Database Linting and Analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)
 * [2025-10-08, 06:58:00](https://news.ycombinator.com/item?id=45512962) - [Tauri binding for Python through Pyo3](https://github.com/pytauri/pytauri)
 * [2025-10-07, 19:11:04](https://news.ycombinator.com/item?id=45507444) - [Putting a Dumb Weather Station on the Internet](https://colincogle.name/blog/byo-weather-station/)
-* [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
+* [2025-10-07, 17:51:46](https://news.ycombinator.com/item?id=45506397) - [Jeffrey Hudson the Court Dwarf of the English Queen Henrietta Maria of France](https://en.wikipedia.org/wiki/Jeffrey_Hudson)
 * [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird photographer of the year gives a lesson in planning and patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)
 
 ## [Archives](archives/index.md)
