@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 16:08:32](https://news.ycombinator.com/item?id=45569966) - [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/)
 * [2025-10-13, 15:24:08](https://news.ycombinator.com/item?id=45569371) - [Android's sideloading limits are its most anti-consumer move yet](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
+* [2025-10-13, 15:22:47](https://news.ycombinator.com/item?id=45569350) - [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-13, 15:03:53](https://news.ycombinator.com/item?id=45569108) - [More than 130k Vodafone customers report outage](https://www.bbc.co.uk/news/articles/c5yldldx659o)
 * [2025-10-13, 14:59:14](https://news.ycombinator.com/item?id=45569043) - [Supermassive black holes locked in a stable orbit around each other](https://www.helsinkitimes.fi/themes/themes/science-and-technology/28090-scientists-capture-first-image-of-two-black-holes-in-orbit.html)
 * [2025-10-13, 14:51:51](https://news.ycombinator.com/item?id=45568955) - [AI and the Future of American Politics](https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html)

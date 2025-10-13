@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 16:08:32](https://news.ycombinator.com/item?id=45569966) - [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/)
 * [2025-10-13, 15:24:08](https://news.ycombinator.com/item?id=45569371) - [Android's sideloading limits are its most anti-consumer move yet](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
+* [2025-10-13, 15:22:47](https://news.ycombinator.com/item?id=45569350) - [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-13, 15:03:53](https://news.ycombinator.com/item?id=45569108) - [Vodafone admits 'major outage' as more than 130,000 report problems](https://www.bbc.co.uk/news/articles/c5yldldx659o)
 * [2025-10-13, 14:51:51](https://news.ycombinator.com/item?id=45568955) - [AI and the Future of American Politics](https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html)
 * [2025-10-13, 14:48:47](https://news.ycombinator.com/item?id=45568915) - [America is getting an AI gold rush instead of a factory boom](https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/)
@@ -9,9 +11,7 @@
 * [2025-10-13, 14:28:25](https://news.ycombinator.com/item?id=45568700) - [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
 * [2025-10-13, 14:20:33](https://news.ycombinator.com/item?id=45568613) - [Smartphones and being present](https://herman.bearblog.dev/being-present/)
 * [2025-10-13, 14:13:46](https://news.ycombinator.com/item?id=45568555) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
-* [2025-10-13, 13:02:20](https://news.ycombinator.com/item?id=45567877) - [No Science, No Startups: The Innovation Engine We're Switching Off](https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/)
 * [2025-10-13, 12:46:52](https://news.ycombinator.com/item?id=45567770) - [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
-* [2025-10-13, 12:33:04](https://news.ycombinator.com/item?id=45567645) - [California Will Stop Using Coal as a Power Source Next Month](https://www.latimes.com/california/newsletter/2025-10-08/essential-california-california-dumps-coal-power)
 * [2025-10-13, 11:23:20](https://news.ycombinator.com/item?id=45567153) - [The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)
 * [2025-10-13, 10:23:08](https://news.ycombinator.com/item?id=45566766) - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
 * [2025-10-13, 10:05:50](https://news.ycombinator.com/item?id=45566660) - [Two Paths to Memory Safety: CHERI and OMA](https://ednutting.com/2025/10/05/cheri-vs-oma.html)
