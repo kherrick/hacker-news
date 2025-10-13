@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 14:59:14](https://news.ycombinator.com/item?id=45569043) - [Supermassive black holes locked in a stable orbit around each other](https://www.helsinkitimes.fi/themes/themes/science-and-technology/28090-scientists-capture-first-image-of-two-black-holes-in-orbit.html)
+* [2025-10-13, 14:42:19](https://news.ycombinator.com/item?id=45568842) - [A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal](https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/)
 * [2025-10-13, 14:28:25](https://news.ycombinator.com/item?id=45568700) - [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
+* [2025-10-13, 14:20:33](https://news.ycombinator.com/item?id=45568613) - [Smartphones and Being Present](https://herman.bearblog.dev/being-present/)
 * [2025-10-13, 14:13:46](https://news.ycombinator.com/item?id=45568555) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
+* [2025-10-13, 13:02:20](https://news.ycombinator.com/item?id=45567877) - [No Science, No Startups: The Innovation Engine We're Switching Off](https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/)
 * [2025-10-13, 12:46:52](https://news.ycombinator.com/item?id=45567770) - [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
 * [2025-10-13, 12:33:04](https://news.ycombinator.com/item?id=45567645) - [California Will Stop Using Coal as a Power Source Next Month](https://hardware.slashdot.org/story/25/10/13/032224/california-will-stop-using-coal-as-a-power-source-next-month)
 * [2025-10-13, 12:18:39](https://news.ycombinator.com/item?id=45567517) - [US Junk Bonds Post Worst Losses in Six Months, Spreads Widen](https://www.bloomberg.com/news/articles/2025-10-13/us-junk-bonds-post-worst-losses-in-six-months-spreads-widen)
 * [2025-10-13, 12:08:31](https://news.ycombinator.com/item?id=45567443) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
+* [2025-10-13, 12:03:51](https://news.ycombinator.com/item?id=45567406) - [AI Is Too Big to Fail](https://sibylline.dev/articles/2025-10-12-ai-is-too-big-to-fail/)
 * [2025-10-13, 11:23:20](https://news.ycombinator.com/item?id=45567153) - [The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)
 * [2025-10-13, 10:23:08](https://news.ycombinator.com/item?id=45566766) - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
 * [2025-10-13, 10:05:50](https://news.ycombinator.com/item?id=45566660) - [Two Paths to Memory Safety: CHERI and OMA](https://ednutting.com/2025/10/05/cheri-vs-oma.html)
