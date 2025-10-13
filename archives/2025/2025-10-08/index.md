@@ -50,6 +50,7 @@
 * [2025-10-08, 14:04:40](https://news.ycombinator.com/item?id=45516346) - [Samsung released a 7M model that achieved 45% on ARC-AGI-1](https://arxiv.org/abs/2510.04871)
 * [2025-10-08, 13:55:27](https://news.ycombinator.com/item?id=45516265) - [Bank of England flags risk of 'sudden correction' in tech stocks inflated by AI](https://www.ft.com/content/fe474cff-564c-41d2-aaf7-313636a83e5b)
 * [2025-10-08, 13:54:12](https://news.ycombinator.com/item?id=45516255) - [We didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
+* [2025-10-08, 13:52:33](https://news.ycombinator.com/item?id=45516230) - [A $6B Nuclear U.S. Navy Aircraft Carrier 'Sunk' by $100M Diesel 'AIP' Sub](https://nationalsecurityjournal.org/a-6000000000-nuclear-u-s-navy-aircraft-carrier-sunk-by-100000000-diesel-aip-sub/)
 * [2025-10-08, 13:45:30](https://news.ycombinator.com/item?id=45516134) - [Testing a compiler-driven full-stack web framework](https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework)
 * [2025-10-08, 13:33:15](https://news.ycombinator.com/item?id=45516000) - [We found a bug in Go's ARM64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 13:31:35](https://news.ycombinator.com/item?id=45515978) - [Show HN: Baby's First International Landline](https://wip.tf/posts/telefonefix-building-babys-first-international-landline/)
