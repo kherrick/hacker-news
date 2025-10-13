@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-10-13, 02:15:25",
+      "https://news.ycombinator.com/item?id=45564077"
+    ],
+    [
+      "Despite what's happening in the USA, renewables are winning globally",
+      "https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 01:46:18",
       "https://news.ycombinator.com/item?id=45563900"
     ],
     [
-      "For Centuries Meals Amazed Visitors to Korea",
+      "For centuries massive meals amazed visitors to Korea (2019)",
       "https://www.atlasobscura.com/articles/history-of-korean-food"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45563627"
     ],
     [
-      "John Searle Has Died",
+      "John Searle has died",
       "https://www.nytimes.com/2025/10/12/books/john-searle-dead.html"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "Novelty Automation",
       "https://www.novelty-automation.com/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 23:18:04",
-      "https://news.ycombinator.com/item?id=45562959"
-    ],
-    [
-      "Wall Street is worried the private credit bubble will burst",
-      "https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45559372"
     ],
     [
-      "oavif: Faster target quality image compression",
+      "Oavif: Faster target quality image compression",
       "https://giannirosato.com/blog/post/oavif/"
     ]
   ],
@@ -137,6 +137,16 @@
     [
       "Addictive-like behavioural traits in pet dogs with extreme motivation for toys",
       "https://www.nature.com/articles/s41598-025-18636-0"
+    ]
+  ],
+  [
+    [
+      "2025-10-12, 15:48:28",
+      "https://news.ycombinator.com/item?id=45559076"
+    ],
+    [
+      "How I'm using Helix editor",
+      "https://rushter.com/blog/helix-editor/"
     ]
   ],
   [
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2025-10-12, 10:08:02",
-      "https://news.ycombinator.com/item?id=45556952"
-    ],
-    [
-      "Macro Splats 2025",
-      "https://danybittel.ch/macro.html"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 09:24:43",
       "https://news.ycombinator.com/item?id=45556763"
     ],
     [
       "Nostr and ATProto (2024)",
       "https://shreyanjain.net/2024/07/05/nostr-and-atproto.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 08:37:01",
-      "https://news.ycombinator.com/item?id=45556474"
-    ],
-    [
-      "AdapTive-LeArning Speculator System (ATLAS): Faster LLM inference",
-      "https://www.together.ai/blog/adaptive-learning-speculator-system-atlas"
     ]
   ],
   [
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=45525804"
     ],
     [
-      "MicroPythonOS – An Android-Like OS for Microcontrollers",
+      "MicroPythonOS – An Android-like OS for microcontrollers",
       "https://micropythonos.com"
     ]
   ],
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=45515597"
     ],
     [
-      "Tiny Teams Playbook",
+      "The Tiny Teams Playbook",
       "https://www.latent.space/p/tiny"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Database Linting and Analysis for PostgreSQL",
       "https://pglinter.readthedocs.io/en/latest/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 06:58:00",
+      "https://news.ycombinator.com/item?id=45512962"
+    ],
+    [
+      "Tauri binding for Python through Pyo3",
+      "https://github.com/pytauri/pytauri"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=45487232"
     ],
     [
-      "Bird Photographer of the Year Gives a Lesson in Planning and Patience",
+      "Bird photographer of the year gives a lesson in planning and patience",
       "https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/"
     ]
   ]
