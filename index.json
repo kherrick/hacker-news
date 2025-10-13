@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-13, 17:14:30",
+      "https://news.ycombinator.com/item?id=45570840"
+    ],
+    [
+      "ProtonVPN Lied About Logging",
+      "https://vp.net/l/en-US/blog/ProtonVPN-Lied-About-Logging"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 17:03:11",
       "https://news.ycombinator.com/item?id=45570720"
     ],
@@ -17,16 +27,6 @@
     [
       "Environment variables are a legacy mess: Let's dive deep into them",
       "https://allvpv.org/haotic-journey-through-envvars/"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 16:31:41",
-      "https://news.ycombinator.com/item?id=45570299"
-    ],
-    [
-      "$19B Wiped Out in Crypto's Biggest Liquidation",
-      "https://decrypt.co/344038/morning-minute-19b-wiped-out-in-cryptos-biggest-liquidation-ever"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-10-13, 14:48:47",
-      "https://news.ycombinator.com/item?id=45568915"
-    ],
-    [
-      "America is getting an AI gold rush instead of a factory boom",
-      "https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 14:42:19",
       "https://news.ycombinator.com/item?id=45568842"
     ],
@@ -97,16 +87,6 @@
     [
       "Ofcom fines 4chan £20K and counting for violating UK's Online Safety Act",
       "https://www.theregister.com/2025/10/13/4chan_ofcom_fine/"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 14:32:39",
-      "https://news.ycombinator.com/item?id=45568744"
-    ],
-    [
-      "Shut the Fuck Up",
-      "https://romanzipp.com/blog/shut-the-fuck-up"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-10-12, 20:09:14",
+      "https://news.ycombinator.com/item?id=45561428"
+    ],
+    [
+      "Ask HN: What are you working on? (October 2025)",
+      "https://news.ycombinator.com/item?id=45561428"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 10:35:40",
       "https://news.ycombinator.com/item?id=45525804"
     ],
@@ -257,6 +247,16 @@
     [
       "Clockss: Digital preservation services run by academic publishers and libraries",
       "https://clockss.org/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 06:58:00",
+      "https://news.ycombinator.com/item?id=45512962"
+    ],
+    [
+      "Tauri binding for Python through Pyo3",
+      "https://github.com/pytauri/pytauri"
     ]
   ],
   [
