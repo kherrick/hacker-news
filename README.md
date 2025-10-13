@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 14:28:25](https://news.ycombinator.com/item?id=45568700) - [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
 * [2025-10-13, 14:13:46](https://news.ycombinator.com/item?id=45568555) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
 * [2025-10-13, 12:46:52](https://news.ycombinator.com/item?id=45567770) - [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
 * [2025-10-13, 12:33:04](https://news.ycombinator.com/item?id=45567645) - [California Will Stop Using Coal as a Power Source Next Month](https://hardware.slashdot.org/story/25/10/13/032224/california-will-stop-using-coal-as-a-power-source-next-month)
@@ -26,7 +27,6 @@
 * [2025-10-07, 19:11:04](https://news.ycombinator.com/item?id=45507444) - [Putting a dumb weather station on the internet](https://colincogle.name/blog/byo-weather-station/)
 * [2025-10-07, 17:51:46](https://news.ycombinator.com/item?id=45506397) - [Jeffrey Hudson the Court Dwarf of the English Queen Henrietta Maria of France](https://en.wikipedia.org/wiki/Jeffrey_Hudson)
 * [2025-10-07, 15:44:54](https://news.ycombinator.com/item?id=45504604) - [Control your Canon Camera wirelessly](https://github.com/JulianSchroden/cine_remote)
-* [2025-10-07, 12:54:27](https://news.ycombinator.com/item?id=45502503) - [Making regular GPS ultra-precise](https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/)
 * [2025-10-07, 12:34:47](https://news.ycombinator.com/item?id=45502322) - [Ancient Patagonian hunter-gatherers took care of their injured and disabled](https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html)
 * [2025-10-06, 13:02:38](https://news.ycombinator.com/item?id=45490938) - [More random home lab things I've recently learned](https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/)
 * [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird photographer of the year gives a lesson in planning and patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)

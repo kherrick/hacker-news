@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 14:28:25](https://news.ycombinator.com/item?id=45568700) - [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
 * [2025-10-13, 14:13:46](https://news.ycombinator.com/item?id=45568555) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
 * [2025-10-13, 12:46:52](https://news.ycombinator.com/item?id=45567770) - [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
 * [2025-10-13, 12:33:04](https://news.ycombinator.com/item?id=45567645) - [California Will Stop Using Coal as a Power Source Next Month](https://hardware.slashdot.org/story/25/10/13/032224/california-will-stop-using-coal-as-a-power-source-next-month)
