@@ -27,7 +27,7 @@
 * [2025-10-08, 12:50:32](https://news.ycombinator.com/item?id=45515597) - [The Tiny Teams Playbook](https://www.latent.space/p/tiny)
 * [2025-10-08, 08:09:07](https://news.ycombinator.com/item?id=45513408) - [Database Linting and Analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)
 * [2025-10-08, 06:58:00](https://news.ycombinator.com/item?id=45512962) - [Tauri binding for Python through Pyo3](https://github.com/pytauri/pytauri)
-* [2025-10-07, 10:40:30](https://news.ycombinator.com/item?id=45501472) - [The neurons that let us see what isn't there](https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/)
+* [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 * [2025-10-06, 13:09:45](https://news.ycombinator.com/item?id=45491008) - [Reflections on 2 Years Running Developer Relations](https://databased.pedramnavid.com/p/reflections-on-2-years-running-developer)
 * [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird photographer of the year gives a lesson in planning and patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)
 
