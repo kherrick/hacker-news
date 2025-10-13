@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 04:14:29](https://news.ycombinator.com/item?id=45564619) - [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
 * [2025-10-13, 02:39:25](https://news.ycombinator.com/item?id=45564196) - [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
 * [2025-10-13, 02:15:25](https://news.ycombinator.com/item?id=45564077) - [Despite what's happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
 * [2025-10-13, 01:46:18](https://news.ycombinator.com/item?id=45563900) - [For centuries massive meals amazed visitors to Korea (2019)](https://www.atlasobscura.com/articles/history-of-korean-food)
@@ -15,7 +16,6 @@
 * [2025-10-12, 18:31:51](https://news.ycombinator.com/item?id=45560535) - [Constraint satisfaction to optimize item selection for bundles in Minecraft](https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/)
 * [2025-10-12, 17:12:00](https://news.ycombinator.com/item?id=45559857) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 * [2025-10-12, 17:02:09](https://news.ycombinator.com/item?id=45559767) - [A years-long Turkish alphabet bug in the Kotlin compiler](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
-* [2025-10-12, 16:21:59](https://news.ycombinator.com/item?id=45559372) - [Oavif: Faster target quality image compression](https://giannirosato.com/blog/post/oavif/)
 * [2025-10-12, 14:49:50](https://news.ycombinator.com/item?id=45558611) - [Show HN: I built a simple ambient sound app with no ads or subscriptions](https://ambisounds.app/)
 * [2025-10-12, 06:17:52](https://news.ycombinator.com/item?id=45555727) - [Three ways formally verified code can go wrong in practice](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
 * [2025-10-11, 20:52:21](https://news.ycombinator.com/item?id=45552590) - [A whirlwind introduction to dataflow graphs (2018)](https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/)
@@ -27,7 +27,7 @@
 * [2025-10-08, 12:50:32](https://news.ycombinator.com/item?id=45515597) - [The Tiny Teams Playbook](https://www.latent.space/p/tiny)
 * [2025-10-08, 08:09:07](https://news.ycombinator.com/item?id=45513408) - [Database Linting and Analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)
 * [2025-10-08, 06:58:00](https://news.ycombinator.com/item?id=45512962) - [Tauri binding for Python through Pyo3](https://github.com/pytauri/pytauri)
-* [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
+* [2025-10-07, 07:19:56](https://news.ycombinator.com/item?id=45500266) - [Thishereness](https://www.lrb.co.uk/the-paper/v47/n18/erin-maglaque/thishereness)
 * [2025-10-06, 13:09:45](https://news.ycombinator.com/item?id=45491008) - [Reflections on 2 Years Running Developer Relations](https://databased.pedramnavid.com/p/reflections-on-2-years-running-developer)
 * [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird photographer of the year gives a lesson in planning and patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)
 
