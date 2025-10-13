@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-13, 19:52:46",
+      "https://news.ycombinator.com/item?id=45572613"
+    ],
+    [
+      "AWS Service Availability Updates",
+      "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 18:45:16",
       "https://news.ycombinator.com/item?id=45571918"
     ],
@@ -27,16 +37,6 @@
     [
       "Strudel REPL – a music live coding environment living in the browser",
       "https://strudel.cc"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 18:37:04",
-      "https://news.ycombinator.com/item?id=45571814"
-    ],
-    [
-      "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
-      "https://www.wired.com/story/programming-assembly-artificial-intelligence/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-10-12, 06:21:41",
+      "https://news.ycombinator.com/item?id=45555757"
+    ],
+    [
+      "Systems as Mirrors",
+      "https://iamstelios.com/blog/systems-as-mirrors/"
+    ]
+  ],
+  [
+    [
       "2025-10-11, 13:39:31",
       "https://news.ycombinator.com/item?id=45549060"
     ],
@@ -247,16 +257,6 @@
     [
       "First device based on 'optical thermodynamics' can route light without switches",
       "https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 17:25:41",
-      "https://news.ycombinator.com/item?id=45518498"
-    ],
-    [
-      "KTX – npx for Kotlin and JVM to install jars or Kotlin scripts",
-      "https://github.com/mpetuska/ktx"
     ]
   ],
   [
