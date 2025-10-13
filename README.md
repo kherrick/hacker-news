@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-13, 20:54:25](https://news.ycombinator.com/item?id=45573244) - [Thoughts on Omarchy: Slick Distro, Complicated Ethics](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/)
 * [2025-10-13, 20:31:47](https://news.ycombinator.com/item?id=45573025) - [Don't Be a Sucker (1943) [video]](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
 * [2025-10-13, 19:52:46](https://news.ycombinator.com/item?id=45572613) - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
 * [2025-10-13, 19:39:14](https://news.ycombinator.com/item?id=45572478) - [LLMs are getting better at character-level text manipulation](https://blog.burkert.me/posts/llm_evolution_character_manipulation/)
@@ -27,6 +26,7 @@
 * [2025-10-09, 14:01:27](https://news.ycombinator.com/item?id=45527840) - [CRDT and SQLite: Local-First Value Synchronization](https://marcobambini.substack.com/p/the-secret-life-of-a-local-first)
 * [2025-10-09, 00:54:00](https://news.ycombinator.com/item?id=45522266) - [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
 * [2025-10-08, 17:39:00](https://news.ycombinator.com/item?id=45518649) - [Accidentally Made a Zig Dotenv Parser](https://dayvster.com/blog/accidentally-made-a-zig-dotenv-parser/)
+* [2025-10-08, 17:25:41](https://news.ycombinator.com/item?id=45518498) - [KTX – npx for Kotlin and JVM to install jars or Kotlin scripts](https://github.com/mpetuska/ktx)
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)
 * [2025-10-08, 09:56:25](https://news.ycombinator.com/item?id=45514213) - [Scaling request logging with ClickHouse, Kafka, and Vector](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)
 * [2025-10-06, 12:45:51](https://news.ycombinator.com/item?id=45490775) - [Uv overtakes pip in CI (for Wagtail users)](https://wagtail.org/blog/uv-overtakes-pip-in-ci/)
