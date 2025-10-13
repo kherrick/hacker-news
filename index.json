@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-10-08, 17:25:41",
+      "https://news.ycombinator.com/item?id=45518498"
+    ],
+    [
+      "KTX – npx for Kotlin and JVM to install jars or Kotlin scripts",
+      "https://github.com/mpetuska/ktx"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 16:38:43",
       "https://news.ycombinator.com/item?id=45518033"
     ],
@@ -257,16 +267,6 @@
     [
       "Scaling request logging with ClickHouse, Kafka, and Vector",
       "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 07:53:29",
-      "https://news.ycombinator.com/item?id=45513313"
-    ],
-    [
-      "Clockss: Digital preservation services run by academic publishers and libraries",
-      "https://clockss.org/"
     ]
   ],
   [
