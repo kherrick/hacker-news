@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-10-13, 12:03:51",
-      "https://news.ycombinator.com/item?id=45567406"
-    ],
-    [
-      "AI Is Too Big to Fail",
-      "https://sibylline.dev/articles/2025-10-12-ai-is-too-big-to-fail/"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 10:23:08",
       "https://news.ycombinator.com/item?id=45566766"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-10-12, 20:37:16",
+      "https://news.ycombinator.com/item?id=45561672"
+    ],
+    [
+      "Emacs agent-shell (powered by ACP)",
+      "https://xenodium.com/introducing-agent-shell"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 20:09:14",
       "https://news.ycombinator.com/item?id=45561428"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-10-12, 17:12:00",
-      "https://news.ycombinator.com/item?id=45559857"
+      "2025-10-12, 06:17:52",
+      "https://news.ycombinator.com/item?id=45555727"
     ],
     [
-      "Wireguard FPGA",
-      "https://github.com/chili-chips-ba/wireguard-fpga"
+      "Three ways formally verified code can go wrong in practice",
+      "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/"
     ]
   ],
   [
