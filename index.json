@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-10-13, 16:49:15",
-      "https://news.ycombinator.com/item?id=45570537"
-    ],
-    [
-      "Environment variables are a legacy mess: Let's dive deep into them",
-      "https://allvpv.org/haotic-journey-through-envvars/"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 15:24:08",
       "https://news.ycombinator.com/item?id=45569371"
     ],
@@ -297,6 +287,16 @@
     [
       "More random home lab things I've recently learned",
       "https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 12:45:51",
+      "https://news.ycombinator.com/item?id=45490775"
+    ],
+    [
+      "Uv overtakes pip in CI (for Wagtail users)",
+      "https://wagtail.org/blog/uv-overtakes-pip-in-ci/"
     ]
   ]
 ]
