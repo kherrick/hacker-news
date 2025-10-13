@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-13, 12:46:52",
+      "https://news.ycombinator.com/item?id=45567770"
+    ],
+    [
+      "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
+      "https://sqliteonline.com/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 12:18:39",
       "https://news.ycombinator.com/item?id=45567517"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45567443"
     ],
     [
-      "We need (at least) ergonomic, explicit handles",
+      "We need (at least) ergonomic, explicit handles [in Rust]",
       "https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/"
     ]
   ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2025-10-12, 17:02:09",
-      "https://news.ycombinator.com/item?id=45559767"
-    ],
-    [
-      "A years-long Turkish alphabet bug in the Kotlin compiler",
-      "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 06:17:52",
       "https://news.ycombinator.com/item?id=45555727"
     ],
     [
       "Three ways formally verified code can go wrong in practice",
       "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 15:45:49",
-      "https://news.ycombinator.com/item?id=45529331"
-    ],
-    [
-      "3D-Printed Automatic Weather Station",
-      "https://3dpaws.comet.ucar.edu"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Jeffrey Hudson the Court Dwarf of the English Queen Henrietta Maria of France",
       "https://en.wikipedia.org/wiki/Jeffrey_Hudson"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 15:44:54",
+      "https://news.ycombinator.com/item?id=45504604"
+    ],
+    [
+      "Control your Canon Camera wirelessly",
+      "https://github.com/JulianSchroden/cine_remote"
     ]
   ],
   [
