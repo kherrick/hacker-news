@@ -4,10 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 12:18:39](https://news.ycombinator.com/item?id=45567517) - [US Junk Bonds Post Worst Losses in Six Months, Spreads Widen](https://www.bloomberg.com/news/articles/2025-10-13/us-junk-bonds-post-worst-losses-in-six-months-spreads-widen)
+* [2025-10-13, 12:08:31](https://news.ycombinator.com/item?id=45567443) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
+* [2025-10-13, 11:23:20](https://news.ycombinator.com/item?id=45567153) - [The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)
 * [2025-10-13, 10:23:08](https://news.ycombinator.com/item?id=45566766) - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
+* [2025-10-13, 10:05:50](https://news.ycombinator.com/item?id=45566660) - [Two Paths to Memory Safety: CHERI and OMA](https://ednutting.com/2025/10/05/cheri-vs-oma.html)
 * [2025-10-13, 10:02:40](https://news.ycombinator.com/item?id=45566638) - [American Solar Farms](https://tech.marksblogg.com/american-solar-farms.html)
+* [2025-10-13, 09:48:45](https://news.ycombinator.com/item?id=45566568) - [Nobel Prize in Economic Sciences 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/popular-information/)
 * [2025-10-13, 09:44:28](https://news.ycombinator.com/item?id=45566548) - [Modern Linux Tools](https://ikrima.dev/dev-notes/linux/linux-modern-tools/)
+* [2025-10-13, 09:39:47](https://news.ycombinator.com/item?id=45566532) - [gsay: Fetch pronunciation of English vocabulary from Google](https://github.com/pvonmoradi/gsay)
 * [2025-10-13, 09:28:13](https://news.ycombinator.com/item?id=45566454) - [Show HN: I built an online productivity tools website](https://onlinenotep.ad)
+* [2025-10-13, 09:25:45](https://news.ycombinator.com/item?id=45566441) - [MPTCP for Linux](https://www.mptcp.dev/)
+* [2025-10-13, 09:22:33](https://news.ycombinator.com/item?id=45566421) - [Switch to Jujutsu Already: A Tutorial](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/)
 * [2025-10-13, 09:09:19](https://news.ycombinator.com/item?id=45566341) - [German industrial output falls to 2005 levels as auto sector craters](https://www.ft.com/content/745fff84-2cbf-491c-b70c-e39bc8edaa39)
 * [2025-10-13, 08:53:17](https://news.ycombinator.com/item?id=45566253) - [After 2 decades, are promises of a graphene revolution coming true?](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
 * [2025-10-13, 08:36:33](https://news.ycombinator.com/item?id=45566139) - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
