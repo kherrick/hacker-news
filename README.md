@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-13, 20:54:25](https://news.ycombinator.com/item?id=45573244) - [Thoughts on Omarchy: Slick Distro, Complicated Ethics](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/)
 * [2025-10-13, 20:31:47](https://news.ycombinator.com/item?id=45573025) - [Don't Be a Sucker (1943) [video]](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
 * [2025-10-13, 19:52:46](https://news.ycombinator.com/item?id=45572613) - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
+* [2025-10-13, 19:39:14](https://news.ycombinator.com/item?id=45572478) - [LLMs are getting better at character-level text manipulation](https://blog.burkert.me/posts/llm_evolution_character_manipulation/)
 * [2025-10-13, 18:45:16](https://news.ycombinator.com/item?id=45571918) - [Reverse Engineering a 1979 Camera's Spec](https://blog.mano.lol/posts/film/)
 * [2025-10-13, 18:37:34](https://news.ycombinator.com/item?id=45571822) - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 18:23:15](https://news.ycombinator.com/item?id=45571688) - [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
@@ -27,8 +29,6 @@
 * [2025-10-09, 00:54:00](https://news.ycombinator.com/item?id=45522266) - [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)
 * [2025-10-08, 09:56:25](https://news.ycombinator.com/item?id=45514213) - [Scaling request logging with ClickHouse, Kafka, and Vector](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)
-* [2025-10-07, 12:34:47](https://news.ycombinator.com/item?id=45502322) - [Ancient Patagonian hunter-gatherers took care of their injured and disabled](https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html)
-* [2025-10-06, 13:02:38](https://news.ycombinator.com/item?id=45490938) - [More random home lab things I've recently learned](https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/)
 * [2025-10-06, 12:45:51](https://news.ycombinator.com/item?id=45490775) - [Uv overtakes pip in CI (for Wagtail users)](https://wagtail.org/blog/uv-overtakes-pip-in-ci/)
 
 ## [Archives](archives/index.md)

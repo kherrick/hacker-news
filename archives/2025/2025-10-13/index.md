@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 20:54:25](https://news.ycombinator.com/item?id=45573244) - [Thoughts on Omarchy: Slick Distro, Complicated Ethics](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/)
 * [2025-10-13, 20:31:47](https://news.ycombinator.com/item?id=45573025) - [Don't Be a Sucker (1943) [video]](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
 * [2025-10-13, 19:52:46](https://news.ycombinator.com/item?id=45572613) - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
+* [2025-10-13, 19:39:14](https://news.ycombinator.com/item?id=45572478) - [LLMs are getting better at character-level text manipulation](https://blog.burkert.me/posts/llm_evolution_character_manipulation/)
 * [2025-10-13, 19:07:15](https://news.ycombinator.com/item?id=45572130) - [Ask HN: Has AI stolen the satisfaction from programming?](https://news.ycombinator.com/item?id=45572130)
 * [2025-10-13, 18:45:16](https://news.ycombinator.com/item?id=45571918) - [Reverse Engineering a 1979 Camera's Spec](https://blog.mano.lol/posts/film/)
 * [2025-10-13, 18:37:34](https://news.ycombinator.com/item?id=45571822) - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
