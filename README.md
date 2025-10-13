@@ -28,7 +28,7 @@
 * [2025-10-08, 08:09:07](https://news.ycombinator.com/item?id=45513408) - [Database Linting and Analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)
 * [2025-10-08, 06:58:00](https://news.ycombinator.com/item?id=45512962) - [Tauri binding for Python through Pyo3](https://github.com/pytauri/pytauri)
 * [2025-10-07, 19:11:04](https://news.ycombinator.com/item?id=45507444) - [Putting a Dumb Weather Station on the Internet](https://colincogle.name/blog/byo-weather-station/)
-* [2025-10-07, 07:19:56](https://news.ycombinator.com/item?id=45500266) - [Thishereness](https://www.lrb.co.uk/the-paper/v47/n18/erin-maglaque/thishereness)
+* [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 * [2025-10-06, 02:53:17](https://news.ycombinator.com/item?id=45487232) - [Bird photographer of the year gives a lesson in planning and patience](https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/)
 
 ## [Archives](archives/index.md)
