@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 19:23:20](https://news.ycombinator.com/item?id=45583730) - [America Is Sliding Toward Illiteracy](https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/)
 * [2025-10-14, 18:40:23](https://news.ycombinator.com/item?id=45583336) - [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
 * [2025-10-14, 18:30:57](https://news.ycombinator.com/item?id=45583243) - [Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM](https://www.phoronix.com/review/intel-crescent-island)
+* [2025-10-14, 18:26:00](https://news.ycombinator.com/item?id=45583180) - [Why your boss isn't worried about AI – \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
 * [2025-10-14, 18:22:04](https://news.ycombinator.com/item?id=45583129) - [New lab-grown human embryo model produces blood cells](https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells)
 * [2025-10-14, 17:12:10](https://news.ycombinator.com/item?id=45582462) - [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
 * [2025-10-14, 16:53:24](https://news.ycombinator.com/item?id=45582268) - [Prefix sum: 20 GB/s (2.6x baseline)](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
