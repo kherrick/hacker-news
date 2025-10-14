@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-14, 21:00:47](https://news.ycombinator.com/item?id=45584809) - [New-Vehicle Avg Price Hits Record High in Sep, Surges Past $50k for First Time](https://www.coxautoinc.com/insights-hub/sept-2025-atp-report/)
-* [2025-10-14, 20:52:09](https://news.ycombinator.com/item?id=45584697) - [Synthetic kratom is exploding in California](https://www.sfgate.com/bayarea/article/synthetic-kratom-addiction-and-ban-california-21076514.php)
 * [2025-10-14, 20:36:01](https://news.ycombinator.com/item?id=45584498) - [Surveillance Secrets](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+* [2025-10-14, 20:28:43](https://news.ycombinator.com/item?id=45584418) - [U.S. Sanctions Cambodian Conglomerate, Citing Role in 'Pig-Butchering' Scams](https://www.wsj.com/business/u-s-sanctions-cambodian-conglomerate-citing-role-in-pig-butchering-scams-0cf2e0ff)
 * [2025-10-14, 20:13:53](https://news.ycombinator.com/item?id=45584226) - [AppLovin Nonconsensual Installs](https://www.benedelman.org/applovin-nonconsensual-installs/)
-* [2025-10-14, 19:52:39](https://news.ycombinator.com/item?id=45584017) - [Show HN: Wispbit – Keep codebase standards alive](https://wispbit.com)
-* [2025-10-14, 19:23:20](https://news.ycombinator.com/item?id=45583730) - [America Is Sliding Toward Illiteracy](https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/)
+* [2025-10-14, 19:52:39](https://news.ycombinator.com/item?id=45584017) - [Show HN: Wispbit - Linter for AI coding agents](https://wispbit.com)
 * [2025-10-14, 18:40:23](https://news.ycombinator.com/item?id=45583336) - [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
 * [2025-10-14, 18:30:57](https://news.ycombinator.com/item?id=45583243) - [Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM](https://www.phoronix.com/review/intel-crescent-island)
 * [2025-10-14, 18:26:00](https://news.ycombinator.com/item?id=45583180) - [Why your boss isn't worried about AI – \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
@@ -30,6 +29,7 @@
 * [2025-10-07, 20:32:55](https://news.ycombinator.com/item?id=45508462) - [Beyond the SQLite Single-Writer Limitation with Concurrent Writes](https://turso.tech/blog/beyond-the-single-writer-limitation-with-tursos-concurrent-writes)
 * [2025-10-07, 14:34:06](https://news.ycombinator.com/item?id=45503560) - [The Day My Smart Vacuum Turned Against Me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/)
 * [2025-10-07, 02:43:03](https://news.ycombinator.com/item?id=45498887) - [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
+* [2025-10-06, 12:41:52](https://news.ycombinator.com/item?id=45490737) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
 
 ## [Archives](archives/index.md)
 

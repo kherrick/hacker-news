@@ -65,6 +65,7 @@
 * [2025-10-06, 12:45:51](https://news.ycombinator.com/item?id=45490775) - [Uv overtakes pip in CI (for Wagtail users)](https://wagtail.org/blog/uv-overtakes-pip-in-ci/)
 * [2025-10-06, 12:44:43](https://news.ycombinator.com/item?id=45490760) - [Ask HN: Apple won't let me sign up for the developer program. What do I do?](https://news.ycombinator.com/item?id=45490760)
 * [2025-10-06, 12:42:19](https://news.ycombinator.com/item?id=45490740) - [Ask HN: What's the best hackable smart TV?](https://news.ycombinator.com/item?id=45490740)
+* [2025-10-06, 12:41:52](https://news.ycombinator.com/item?id=45490737) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
 * [2025-10-06, 12:40:11](https://news.ycombinator.com/item?id=45490721) - [Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)](https://dunkels.com/adam/stress-testing-next-generation-beacons/)
 * [2025-10-06, 12:38:40](https://news.ycombinator.com/item?id=45490713) - [An Illustrated Introduction to Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 * [2025-10-06, 12:37:52](https://news.ycombinator.com/item?id=45490703) - [AI has found 50 bugs in cURL. \"AI-native SASTs work well\"](https://etn.se/72494)
