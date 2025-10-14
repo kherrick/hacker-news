@@ -83,6 +83,7 @@
 * [2025-10-07, 07:41:59](https://news.ycombinator.com/item?id=45500422) - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
 * [2025-10-07, 07:19:56](https://news.ycombinator.com/item?id=45500266) - [Thishereness](https://www.lrb.co.uk/the-paper/v47/n18/erin-maglaque/thishereness)
 * [2025-10-07, 06:59:02](https://news.ycombinator.com/item?id=45500142) - [Weird Operators in PHP](https://www.exakat.io/weird-operators-in-php/)
+* [2025-10-07, 06:28:59](https://news.ycombinator.com/item?id=45499965) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2025-10-07, 05:43:56](https://news.ycombinator.com/item?id=45499730) - [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
 * [2025-10-07, 05:39:27](https://news.ycombinator.com/item?id=45499710) - [The NIH ordered me to stop my 'dangerous' gain-of-function research](https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/)
 * [2025-10-07, 04:03:49](https://news.ycombinator.com/item?id=45499281) - [California law forces Netflix, Hulu to turn down ad volumes](https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663)
@@ -91,3 +92,4 @@
 * [2025-10-07, 00:46:57](https://news.ycombinator.com/item?id=45498109) - [Hardware Stockholm Syndrome](https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome)
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center Under Construction Through Photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)
 * [2025-10-07, 00:11:34](https://news.ycombinator.com/item?id=45497818) - [Analytical review of depression and suicidality from finasteride](https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/)
+* [2025-10-07, 00:03:54](https://news.ycombinator.com/item?id=45497771) - [Palm Jumeirah Island as an anlaogy to explain the Elliptic Curve Method](https://codingpirate.com/elliptic-curve-method-visualization-for-integer-factorization-the-palm-jumeirah-as-an-analogy-via-63aec62b29bd)
