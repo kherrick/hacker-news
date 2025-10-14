@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-14, 10:52:35](https://news.ycombinator.com/item?id=45578469) - [US news outlets refuse to sign new Pentagon rules to report only official info](https://www.theguardian.com/us-news/2025/oct/13/defense-department-media-news-rules)
+* [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of Array Languages](https://ktye.github.io/)
 * [2025-10-14, 10:30:32](https://news.ycombinator.com/item?id=45578318) - [Prime Minister Anthony Albanese's mobile phone number made available online](https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284)
 * [2025-10-14, 09:54:53](https://news.ycombinator.com/item?id=45578117) - [KDE celebrates the 29th birthday and kicks off the yearly fundraiser](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 07:08:02](https://news.ycombinator.com/item?id=45577080) - [Why the push for Agentic when models can barely follow a simple instruction?](https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154)
