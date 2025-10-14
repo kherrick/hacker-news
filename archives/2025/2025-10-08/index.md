@@ -15,6 +15,7 @@
 * [2025-10-08, 22:47:57](https://news.ycombinator.com/item?id=45521484) - [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)
 * [2025-10-08, 22:47:22](https://news.ycombinator.com/item?id=45521476) - [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)
 * [2025-10-08, 22:02:51](https://news.ycombinator.com/item?id=45521114) - [The Orphan Tsunami of 1700 [pdf]](https://pubs.usgs.gov/pp/pp1707/pp1707.pdf)
+* [2025-10-08, 21:53:34](https://news.ycombinator.com/item?id=45521032) - [Palisades Fire suspect's ChatGPT history to be used as evidence](https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/)
 * [2025-10-08, 21:48:53](https://news.ycombinator.com/item?id=45520996) - [What’s So Great About Excellence? (1981)](https://newrepublic.com/article/108017/whats-so-great-about-excellence)
 * [2025-10-08, 21:33:05](https://news.ycombinator.com/item?id=45520889) - [Loops of DNA Equipped Ancient Life to Become Complex](https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/)
 * [2025-10-08, 21:26:15](https://news.ycombinator.com/item?id=45520826) - [Gephi Lite v1.0](https://gephi.wordpress.com/2025/10/08/gephi-lite-v1/)
