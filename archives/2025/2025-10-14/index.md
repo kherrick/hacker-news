@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 18:40:23](https://news.ycombinator.com/item?id=45583336) - [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
+* [2025-10-14, 18:30:57](https://news.ycombinator.com/item?id=45583243) - [Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM](https://www.phoronix.com/review/intel-crescent-island)
 * [2025-10-14, 18:22:04](https://news.ycombinator.com/item?id=45583129) - [New lab-grown human embryo model produces blood cells](https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells)
 * [2025-10-14, 17:12:10](https://news.ycombinator.com/item?id=45582462) - [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
 * [2025-10-14, 16:53:24](https://news.ycombinator.com/item?id=45582268) - [Prefix sum: 20 GB/s (2.6x baseline)](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 * [2025-10-14, 16:10:27](https://news.ycombinator.com/item?id=45581761) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
+* [2025-10-14, 16:07:37](https://news.ycombinator.com/item?id=45581735) - [How AI hears accents: An audible visualization of accent clusters](https://accent-explorer.boldvoice.com/)
 * [2025-10-14, 15:56:23](https://news.ycombinator.com/item?id=45581570) - [Swarm reveals growing weak spot in Earth's magnetic field](https://phys.org/news/2025-10-swarm-reveals-weak-earth-magnetic.html)
 * [2025-10-14, 15:23:09](https://news.ycombinator.com/item?id=45581146) - [Subverting Telegram's End-to-End Encryption](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
 * [2025-10-14, 15:18:06](https://news.ycombinator.com/item?id=45581088) - [RFK Jr. Must Go](https://quillette.com/2025/09/17/rfk-jr-must-go-hhs-health-vaccines/)
