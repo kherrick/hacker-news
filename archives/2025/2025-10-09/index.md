@@ -20,6 +20,7 @@
 * [2025-10-09, 18:23:43](https://news.ycombinator.com/item?id=45531262) - [Sea Rise Simulator](https://nagix.github.io/sea-level-rise-3d-map/)
 * [2025-10-09, 17:48:23](https://news.ycombinator.com/item?id=45530832) - [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
 * [2025-10-09, 17:38:29](https://news.ycombinator.com/item?id=45530744) - [Subway Builder: A Realistic Subway Simulation Game](https://www.subwaybuilder.com/)
+* [2025-10-09, 17:19:37](https://news.ycombinator.com/item?id=45530533) - [The phaseout of the mmap() file operation](https://lwn.net/Articles/1038715/)
 * [2025-10-09, 17:16:28](https://news.ycombinator.com/item?id=45530486) - [LLMs are mortally terrified of exceptions](https://twitter.com/karpathy/status/1976077806443569355)
 * [2025-10-09, 17:09:22](https://news.ycombinator.com/item?id=45530388) - [Show HN: I Wrote a Full Text Search Engine from Scratch in Go](https://github.com/wizenheimer/blaze)
 * [2025-10-09, 16:56:52](https://news.ycombinator.com/item?id=45530261) - [ESP32 and Termux](https://blog.gavide.dev/blog/esp32-and-termux)

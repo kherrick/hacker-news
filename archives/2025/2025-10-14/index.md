@@ -10,6 +10,7 @@
 * [2025-10-14, 15:18:06](https://news.ycombinator.com/item?id=45581088) - [RFK Jr. Must Go](https://quillette.com/2025/09/17/rfk-jr-must-go-hhs-health-vaccines/)
 * [2025-10-14, 15:12:21](https://news.ycombinator.com/item?id=45581029) - [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
 * [2025-10-14, 14:53:25](https://news.ycombinator.com/item?id=45580818) - [Tesla is at risk of losing subsidies in Korea over widespread battery failures](https://electrek.co/2025/10/14/tesla-is-at-risk-of-lossing-subsidies-in-korea-over-widespread-battery-failures/)
+* [2025-10-14, 14:49:56](https://news.ycombinator.com/item?id=45580771) - [Show HN: Metorial (YC F25) – Vercel for MCP](https://github.com/metorial/metorial)
 * [2025-10-14, 14:46:17](https://news.ycombinator.com/item?id=45580724) - [Scientists create 'Superwood' that's 10 times stronger than steel](https://www.cnn.com/science/superwood-10-times-stronger-than-steel-spc)
 * [2025-10-14, 14:45:02](https://news.ycombinator.com/item?id=45580699) - [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
 * [2025-10-14, 14:18:14](https://news.ycombinator.com/item?id=45580315) - [Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)](https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/)
