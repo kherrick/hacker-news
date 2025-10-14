@@ -14,6 +14,7 @@
 * [2025-10-08, 22:59:09](https://news.ycombinator.com/item?id=45521584) - [C++ Reflection and Qt MOC](https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc)
 * [2025-10-08, 22:47:57](https://news.ycombinator.com/item?id=45521484) - [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)
 * [2025-10-08, 22:47:22](https://news.ycombinator.com/item?id=45521476) - [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)
+* [2025-10-08, 22:41:06](https://news.ycombinator.com/item?id=45521418) - [All in on MatMul? Don’t Put All Your Tensors in One Basket!](https://www.sigarch.org/dont-put-all-your-tensors-in-one-basket-hardware-lottery/)
 * [2025-10-08, 22:02:51](https://news.ycombinator.com/item?id=45521114) - [The Orphan Tsunami of 1700 [pdf]](https://pubs.usgs.gov/pp/pp1707/pp1707.pdf)
 * [2025-10-08, 21:53:34](https://news.ycombinator.com/item?id=45521032) - [Palisades Fire suspect's ChatGPT history to be used as evidence](https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/)
 * [2025-10-08, 21:48:53](https://news.ycombinator.com/item?id=45520996) - [What’s So Great About Excellence? (1981)](https://newrepublic.com/article/108017/whats-so-great-about-excellence)
