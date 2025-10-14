@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 12:33:01](https://news.ycombinator.com/item?id=45579275) - [PyreFly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
 * [2025-10-14, 12:00:56](https://news.ycombinator.com/item?id=45578990) - [Kyber (YC W23) Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
 * [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of Array Languages](https://ktye.github.io/)
 * [2025-10-14, 10:52:35](https://news.ycombinator.com/item?id=45578469) - [US news outlets refuse to sign new Pentagon rules to report only official info](https://www.theguardian.com/us-news/2025/oct/13/defense-department-media-news-rules)
