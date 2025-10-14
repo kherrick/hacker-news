@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-14, 05:14:26](https://news.ycombinator.com/item?id=45576502) - [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial)
-* [2025-10-14, 03:26:09](https://news.ycombinator.com/item?id=45575938) - [Show HN: Wordle but you have to predict your score before playing](https://boring.game/invite/SRhyUStjin)
 * [2025-10-14, 02:51:20](https://news.ycombinator.com/item?id=45575755) - [New York Times, AP, Newsmax and others say they won't sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
-* [2025-10-14, 02:48:09](https://news.ycombinator.com/item?id=45575742) - [Modifying a Casio F-Series Digital Watch (2020)](https://shellzine.net/casio-f-series-mods/)
 * [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 * [2025-10-14, 01:07:45](https://news.ycombinator.com/item?id=45575127) - [NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference](https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/)
 * [2025-10-14, 00:02:18](https://news.ycombinator.com/item?id=45574705) - [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608)
@@ -16,6 +14,8 @@
 * [2025-10-13, 17:03:11](https://news.ycombinator.com/item?id=45570720) - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
 * [2025-10-13, 15:22:47](https://news.ycombinator.com/item?id=45569350) - [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-13, 14:48:47](https://news.ycombinator.com/item?id=45568915) - [America is getting an AI gold rush instead of a factory boom](https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/)
+* [2025-10-13, 14:29:06](https://news.ycombinator.com/item?id=45568708) - [Legends of the games industry: Roger Dean](https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/)
+* [2025-10-13, 14:28:25](https://news.ycombinator.com/item?id=45568700) - [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
 * [2025-10-13, 14:20:33](https://news.ycombinator.com/item?id=45568613) - [Smartphones and being present](https://herman.bearblog.dev/being-present/)
 * [2025-10-13, 13:02:20](https://news.ycombinator.com/item?id=45567877) - [No science, no startups: The innovation engine we're switching off](https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/)
 * [2025-10-13, 12:46:52](https://news.ycombinator.com/item?id=45567770) - [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
