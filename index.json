@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-10-14, 00:58:21",
+      "https://news.ycombinator.com/item?id=45575051"
+    ],
+    [
+      "Nanochat",
+      "https://simonwillison.net/2025/Oct/13/nanochat/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 23:21:23",
       "https://news.ycombinator.com/item?id=45574393"
     ],
@@ -277,16 +287,6 @@
     [
       "Scaling request logging with ClickHouse, Kafka, and Vector",
       "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 14:45:43",
-      "https://news.ycombinator.com/item?id=45503721"
-    ],
-    [
-      "A Draft of the ImageMagick Field Guide",
-      "https://joeldare.com/imagemagick-field-guide.html"
     ]
   ],
   [
