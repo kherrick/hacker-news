@@ -3,7 +3,7 @@
 * [2025-10-14, 03:26:09](https://news.ycombinator.com/item?id=45575938) - [Show HN: Wordle but you have to predict your score before playing](https://boring.game/invite/SRhyUStjin)
 * [2025-10-14, 02:51:20](https://news.ycombinator.com/item?id=45575755) - [New York Times, AP, Newsmax and others say they won't sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
 * [2025-10-14, 02:48:09](https://news.ycombinator.com/item?id=45575742) - [Modifying a Casio F-Series Digital Watch (2020)](https://shellzine.net/casio-f-series-mods/)
-* [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [There are sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
+* [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 * [2025-10-14, 00:02:18](https://news.ycombinator.com/item?id=45574705) - [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608)
 * [2025-10-13, 23:21:23](https://news.ycombinator.com/item?id=45574393) - [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
 * [2025-10-13, 23:02:06](https://news.ycombinator.com/item?id=45574247) - [Sony PlayStation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
@@ -15,7 +15,6 @@
 * [2025-10-13, 15:24:08](https://news.ycombinator.com/item?id=45569371) - [Android's sideloading limits are its most anti-consumer move](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
 * [2025-10-13, 15:22:47](https://news.ycombinator.com/item?id=45569350) - [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-13, 14:48:47](https://news.ycombinator.com/item?id=45568915) - [America is getting an AI gold rush instead of a factory boom](https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/)
-* [2025-10-13, 14:29:06](https://news.ycombinator.com/item?id=45568708) - [Legends of the games industry: Roger Dean](https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/)
 * [2025-10-13, 14:28:25](https://news.ycombinator.com/item?id=45568700) - [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
 * [2025-10-13, 14:20:33](https://news.ycombinator.com/item?id=45568613) - [Smartphones and being present](https://herman.bearblog.dev/being-present/)
 * [2025-10-13, 13:02:20](https://news.ycombinator.com/item?id=45567877) - [No science, no startups: The innovation engine we're switching off](https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/)
@@ -30,6 +29,7 @@
 * [2025-10-08, 21:53:34](https://news.ycombinator.com/item?id=45521032) - [Palisades Fire suspect's ChatGPT history to be used as evidence](https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/)
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)
 * [2025-10-08, 09:56:25](https://news.ycombinator.com/item?id=45514213) - [Scaling request logging with ClickHouse, Kafka, and Vector](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)
+* [2025-10-06, 23:27:01](https://news.ycombinator.com/item?id=45497474) - [Passt – Plug a Simple Socket Transport](https://passt.top/passt/about/)
 
 ## [Archives](archives/index.md)
 
