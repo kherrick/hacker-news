@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 23:36:26](https://news.ycombinator.com/item?id=45586282) - [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071)
 * [2025-10-14, 23:28:56](https://news.ycombinator.com/item?id=45586219) - [Meta Erases Gaza Journalist's Instagram](https://twitter.com/DropSiteNews/status/1977795050206576763)
 * [2025-10-14, 22:36:40](https://news.ycombinator.com/item?id=45585869) - [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
 * [2025-10-14, 21:00:47](https://news.ycombinator.com/item?id=45584809) - [New-Vehicle Avg Price Hits Record High in Sep, Surges Past $50k for First Time](https://www.coxautoinc.com/insights-hub/sept-2025-atp-report/)

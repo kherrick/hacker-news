@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-14, 23:28:56](https://news.ycombinator.com/item?id=45586219) - [Meta Erases Gaza Journalist's Instagram](https://twitter.com/DropSiteNews/status/1977795050206576763)
+* [2025-10-14, 23:36:26](https://news.ycombinator.com/item?id=45586282) - [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071)
 * [2025-10-14, 22:36:40](https://news.ycombinator.com/item?id=45585869) - [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
 * [2025-10-14, 20:36:01](https://news.ycombinator.com/item?id=45584498) - [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
 * [2025-10-14, 20:32:32](https://news.ycombinator.com/item?id=45584464) - [Why Is SQLite Coded in C and not Rust](https://www.sqlite.org/whyc.html)
@@ -9,8 +9,9 @@
 * [2025-10-14, 20:13:53](https://news.ycombinator.com/item?id=45584226) - [AppLovin nonconsensual installs](https://www.benedelman.org/applovin-nonconsensual-installs/)
 * [2025-10-14, 19:52:39](https://news.ycombinator.com/item?id=45584017) - [Show HN: Wispbit - Linter for AI coding agents](https://wispbit.com)
 * [2025-10-14, 19:15:57](https://news.ycombinator.com/item?id=45583667) - [Show HN: An open source access logs analytics script to block bot attacks](https://github.com/tempesta-tech/webshield)
+* [2025-10-14, 19:06:27](https://news.ycombinator.com/item?id=45583574) - [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses)
 * [2025-10-14, 18:40:23](https://news.ycombinator.com/item?id=45583336) - [What Americans die from vs. what the news reports on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
-* [2025-10-14, 18:26:00](https://news.ycombinator.com/item?id=45583180) - [Why your boss isn't worried about AI – \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
+* [2025-10-14, 18:26:00](https://news.ycombinator.com/item?id=45583180) - [Beliefs that are true for regular software but false when applied to AI](https://boydkane.com/essays/boss)
 * [2025-10-14, 18:22:04](https://news.ycombinator.com/item?id=45583129) - [New lab-grown human embryo model produces blood cells](https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells)
 * [2025-10-14, 17:43:33](https://news.ycombinator.com/item?id=45582758) - [SmolBSD – build your own minimal BSD system](https://smolbsd.org)
 * [2025-10-14, 17:12:10](https://news.ycombinator.com/item?id=45582462) - [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
@@ -27,7 +28,6 @@
 * [2025-10-08, 05:21:27](https://news.ycombinator.com/item?id=45512351) - [Automatic K8s pod placement to match external service zones](https://github.com/toredash/automatic-zone-placement)
 * [2025-10-07, 20:32:55](https://news.ycombinator.com/item?id=45508462) - [Beyond the SQLite Single-Writer Limitation with Concurrent Writes](https://turso.tech/blog/beyond-the-single-writer-limitation-with-tursos-concurrent-writes)
 * [2025-10-07, 16:05:01](https://news.ycombinator.com/item?id=45504902) - [CSS for Styling a Markdown Post](https://webdev.bryanhogan.com/miscellaneous/styling-markdown/)
-* [2025-10-07, 14:34:06](https://news.ycombinator.com/item?id=45503560) - [The day my smart vacuum turned against me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/)
 * [2025-10-07, 02:43:03](https://news.ycombinator.com/item?id=45498887) - [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
 * [2025-10-06, 12:41:52](https://news.ycombinator.com/item?id=45490737) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
 
