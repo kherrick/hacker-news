@@ -6,6 +6,7 @@
 * [2025-10-14, 02:51:20](https://news.ycombinator.com/item?id=45575755) - [New York Times, AP, Newsmax and others say they won't sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
 * [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 * [2025-10-14, 01:07:45](https://news.ycombinator.com/item?id=45575127) - [NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference](https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/)
+* [2025-10-14, 00:58:21](https://news.ycombinator.com/item?id=45575051) - [Nanochat](https://simonwillison.net/2025/Oct/13/nanochat/)
 * [2025-10-13, 23:21:23](https://news.ycombinator.com/item?id=45574393) - [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
 * [2025-10-13, 23:02:06](https://news.ycombinator.com/item?id=45574247) - [Sony PlayStation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
 * [2025-10-13, 19:39:14](https://news.ycombinator.com/item?id=45572478) - [LLMs are getting better at character-level text manipulation](https://blog.burkert.me/posts/llm_evolution_character_manipulation/)
@@ -28,7 +29,6 @@
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)
 * [2025-10-08, 10:18:58](https://news.ycombinator.com/item?id=45514378) - [Ultrasound is ushering a new era of surgery-free cancer treatment](https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment)
 * [2025-10-08, 09:56:25](https://news.ycombinator.com/item?id=45514213) - [Scaling request logging with ClickHouse, Kafka, and Vector](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)
-* [2025-10-07, 14:45:43](https://news.ycombinator.com/item?id=45503721) - [A Draft of the ImageMagick Field Guide](https://joeldare.com/imagemagick-field-guide.html)
 * [2025-10-06, 23:27:01](https://news.ycombinator.com/item?id=45497474) - [Passt – Plug a Simple Socket Transport](https://passt.top/passt/about/)
 
 ## [Archives](archives/index.md)
