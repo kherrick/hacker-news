@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-14, 07:08:02](https://news.ycombinator.com/item?id=45577080) - [Why the push for Agentic when models can barely follow a simple instruction?](https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154)
 * [2025-10-14, 05:36:57](https://news.ycombinator.com/item?id=45576623) - [Why Study Programming Languages](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/)
 * [2025-10-14, 05:14:26](https://news.ycombinator.com/item?id=45576502) - [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial)
 * [2025-10-14, 02:51:20](https://news.ycombinator.com/item?id=45575755) - [New York Times, AP, Newsmax and others say they won't sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
@@ -12,7 +13,6 @@
 * [2025-10-13, 18:37:34](https://news.ycombinator.com/item?id=45571822) - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 18:23:15](https://news.ycombinator.com/item?id=45571688) - [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
 * [2025-10-13, 17:24:51](https://news.ycombinator.com/item?id=45570973) - [America's future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether)
-* [2025-10-13, 17:03:11](https://news.ycombinator.com/item?id=45570720) - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
 * [2025-10-13, 15:22:47](https://news.ycombinator.com/item?id=45569350) - [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-13, 14:48:47](https://news.ycombinator.com/item?id=45568915) - [America is getting an AI gold rush instead of a factory boom](https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/)
 * [2025-10-13, 14:20:33](https://news.ycombinator.com/item?id=45568613) - [Smartphones and being present](https://herman.bearblog.dev/being-present/)
