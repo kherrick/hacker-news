@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-14, 07:30:20",
-      "https://news.ycombinator.com/item?id=45577193"
-    ],
-    [
-      "I let my AI agents run unsupervised and they burned $200 in 2 hours",
-      "https://blog.justcopy.ai/p/i-let-my-ai-agents-run-unsupervised"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 07:08:02",
       "https://news.ycombinator.com/item?id=45577080"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2025-10-13, 14:28:25",
+      "https://news.ycombinator.com/item?id=45568700"
+    ],
+    [
+      "Software update bricks some Jeep 4xe hybrids over the weekend",
+      "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 14:20:33",
       "https://news.ycombinator.com/item?id=45568613"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-10-08, 09:56:25",
-      "https://news.ycombinator.com/item?id=45514213"
+      "2025-10-07, 14:45:43",
+      "https://news.ycombinator.com/item?id=45503721"
     ],
     [
-      "Scaling request logging with ClickHouse, Kafka, and Vector",
-      "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/"
+      "A Draft of the ImageMagick Field Guide",
+      "https://joeldare.com/imagemagick-field-guide.html"
     ]
   ],
   [
