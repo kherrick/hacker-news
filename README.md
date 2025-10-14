@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-14, 23:28:56](https://news.ycombinator.com/item?id=45586219) - [Meta Erases Gaza Journalist's Instagram](https://twitter.com/DropSiteNews/status/1977795050206576763)
 * [2025-10-14, 22:36:40](https://news.ycombinator.com/item?id=45585869) - [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
 * [2025-10-14, 20:36:01](https://news.ycombinator.com/item?id=45584498) - [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
 * [2025-10-14, 20:32:32](https://news.ycombinator.com/item?id=45584464) - [Why Is SQLite Coded in C and not Rust](https://www.sqlite.org/whyc.html)
@@ -17,7 +18,6 @@
 * [2025-10-14, 16:07:37](https://news.ycombinator.com/item?id=45581735) - [How AI hears accents: An audible visualization of accent clusters](https://accent-explorer.boldvoice.com/)
 * [2025-10-14, 14:49:56](https://news.ycombinator.com/item?id=45580771) - [Show HN: Metorial (YC F25) – Vercel for MCP](https://github.com/metorial/metorial)
 * [2025-10-14, 14:45:02](https://news.ycombinator.com/item?id=45580699) - [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
-* [2025-10-14, 12:33:01](https://news.ycombinator.com/item?id=45579275) - [Pyrefly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
 * [2025-10-14, 12:00:56](https://news.ycombinator.com/item?id=45578990) - [Kyber (YC W23) Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
 * [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of array languages](https://ktye.github.io/)
 * [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
