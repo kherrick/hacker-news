@@ -2,7 +2,7 @@
 
 * [2025-10-14, 16:10:27](https://news.ycombinator.com/item?id=45581761) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:56:23](https://news.ycombinator.com/item?id=45581570) - [Swarm reveals growing weak spot in Earth's magnetic field](https://phys.org/news/2025-10-swarm-reveals-weak-earth-magnetic.html)
-* [2025-10-14, 15:23:09](https://news.ycombinator.com/item?id=45581146) - [Subverting Telegram's end-to-end encryption](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
+* [2025-10-14, 15:23:09](https://news.ycombinator.com/item?id=45581146) - [Subverting Telegram's end-to-end encryption (2023)](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
 * [2025-10-14, 15:12:21](https://news.ycombinator.com/item?id=45581029) - [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
 * [2025-10-14, 14:53:25](https://news.ycombinator.com/item?id=45580818) - [Tesla is at risk of losing subsidies in Korea over widespread battery failures](https://electrek.co/2025/10/14/tesla-is-at-risk-of-lossing-subsidies-in-korea-over-widespread-battery-failures/)
 * [2025-10-14, 14:49:56](https://news.ycombinator.com/item?id=45580771) - [Show HN: Metorial (YC F25) – Vercel for MCP](https://github.com/metorial/metorial)
