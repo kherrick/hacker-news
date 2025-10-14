@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-14, 02:48:09",
+      "https://news.ycombinator.com/item?id=45575742"
+    ],
+    [
+      "Modifying a Casio F-Series Digital Watch (2020)",
+      "https://shellzine.net/casio-f-series-mods/"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 01:48:56",
       "https://news.ycombinator.com/item?id=45575391"
     ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2025-10-13, 10:02:40",
+      "https://news.ycombinator.com/item?id=45566638"
+    ],
+    [
+      "American solar farms",
+      "https://tech.marksblogg.com/american-solar-farms.html"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 08:45:49",
       "https://news.ycombinator.com/item?id=45566198"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-10-08, 17:39:00",
-      "https://news.ycombinator.com/item?id=45518649"
-    ],
-    [
-      "Accidentally Made a Zig Dotenv Parser",
-      "https://dayvster.com/blog/accidentally-made-a-zig-dotenv-parser/"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 16:38:43",
       "https://news.ycombinator.com/item?id=45518033"
     ],
@@ -287,16 +297,6 @@
     [
       "Scaling request logging with ClickHouse, Kafka, and Vector",
       "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 12:45:51",
-      "https://news.ycombinator.com/item?id=45490775"
-    ],
-    [
-      "Uv overtakes pip in CI",
-      "https://wagtail.org/blog/uv-overtakes-pip-in-ci/"
     ]
   ]
 ]
