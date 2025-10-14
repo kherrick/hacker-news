@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-14, 13:44:24](https://news.ycombinator.com/item?id=45579968) - [Let's Not Encrypt](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
+* [2025-10-14, 14:18:14](https://news.ycombinator.com/item?id=45580315) - [Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)](https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/)
 * [2025-10-14, 13:21:03](https://news.ycombinator.com/item?id=45579708) - [CRISPR-like tools that finally can edit mitochondria DNA could be revolutionary](https://www.nature.com/articles/d41586-025-03307-x)
-* [2025-10-14, 13:12:00](https://news.ycombinator.com/item?id=45579612) - [Show HN: Daily install trends of AI coding extensions in VS Code](https://bloomberry.com/coding-tools.html)
 * [2025-10-14, 12:33:01](https://news.ycombinator.com/item?id=45579275) - [Pyrefly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
 * [2025-10-14, 12:00:56](https://news.ycombinator.com/item?id=45578990) - [Kyber (YC W23) Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
 * [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of Array Languages](https://ktye.github.io/)
@@ -25,6 +24,7 @@
 * [2025-10-13, 10:03:11](https://news.ycombinator.com/item?id=45566644) - [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
 * [2025-10-12, 19:08:41](https://news.ycombinator.com/item?id=45560863) - [JIT: So you want to be faster than an interpreter on modern CPUs](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
 * [2025-10-12, 14:42:37](https://news.ycombinator.com/item?id=45558566) - [Thread First – A model for chat experiences](https://progressdb.dev/docs/blog-thread-first)
+* [2025-10-10, 20:04:36](https://news.ycombinator.com/item?id=45543167) - [Debugging Humidity: Lessons from deploying software in the physical world](https://physical-ai.ghost.io/debugging-humidity-lessons-from-deploying-code-to-a-factory-floor/)
 * [2025-10-09, 00:54:00](https://news.ycombinator.com/item?id=45522266) - [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
 * [2025-10-08, 21:53:34](https://news.ycombinator.com/item?id=45521032) - [Palisades Fire suspect's ChatGPT history to be used as evidence](https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/)
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 14:18:14](https://news.ycombinator.com/item?id=45580315) - [Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)](https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/)
 * [2025-10-14, 13:44:24](https://news.ycombinator.com/item?id=45579968) - [Let's Not Encrypt](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2025-10-14, 13:21:03](https://news.ycombinator.com/item?id=45579708) - [CRISPR-like tools that finally can edit mitochondria DNA could be revolutionary](https://www.nature.com/articles/d41586-025-03307-x)
 * [2025-10-14, 13:12:00](https://news.ycombinator.com/item?id=45579612) - [Show HN: I tracked the adoption of AI coding extensions in VS Code since 2022](https://bloomberry.com/coding-tools.html)

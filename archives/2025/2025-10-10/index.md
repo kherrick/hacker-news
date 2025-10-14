@@ -14,6 +14,7 @@
 * [2025-10-10, 20:34:19](https://news.ycombinator.com/item?id=45543475) - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [2025-10-10, 20:33:25](https://news.ycombinator.com/item?id=45543471) - [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
 * [2025-10-10, 20:29:25](https://news.ycombinator.com/item?id=45543431) - [Federal officials probe Tesla 'Full Self-Driving' over traffic violations](https://www.washingtonpost.com/technology/2025/10/09/tesla-self-driving-investigation/)
+* [2025-10-10, 20:04:36](https://news.ycombinator.com/item?id=45543167) - [Debugging Humidity: Lessons from deploying software in the physical world](https://physical-ai.ghost.io/debugging-humidity-lessons-from-deploying-code-to-a-factory-floor/)
 * [2025-10-10, 19:16:52](https://news.ycombinator.com/item?id=45542673) - [MIT Rejects White House Offer for Special Funding Treatment](https://web.archive.org/web/20251010162855/https://www.nytimes.com/2025/10/10/us/mit-rejects-white-house-compact.html)
 * [2025-10-10, 18:55:30](https://news.ycombinator.com/item?id=45542444) - [Does our \"need for speed\" make our Wi-Fi suck? Yes.](https://orb.net/blog/does-speed-make-wifi-suck)
 * [2025-10-10, 18:53:22](https://news.ycombinator.com/item?id=45542423) - [Toyota aims to launch the ' first' all-solid-state EV batteries](https://electrek.co/2025/10/08/toyota-aims-to-launch-worlds-first-all-solid-state-ev-batteries/)
