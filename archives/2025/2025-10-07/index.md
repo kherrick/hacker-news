@@ -50,6 +50,7 @@
 * [2025-10-07, 14:56:09](https://news.ycombinator.com/item?id=45503882) - [Swiss glaciers have shrunk by a quarter since 2015, study says](https://www.france24.com/en/live-news/20251001-swiss-glaciers-shrank-by-a-quarter-in-past-decade-study)
 * [2025-10-07, 14:55:14](https://news.ycombinator.com/item?id=45503867) - [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
 * [2025-10-07, 14:45:54](https://news.ycombinator.com/item?id=45503726) - [No account? No Windows 11, Microsoft says as another loophole snaps shut](https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/)
+* [2025-10-07, 14:45:43](https://news.ycombinator.com/item?id=45503721) - [A Draft of the ImageMagick Field Guide](https://joeldare.com/imagemagick-field-guide.html)
 * [2025-10-07, 14:31:38](https://news.ycombinator.com/item?id=45503527) - [Financing My Klarna Doritos Locos Taco](https://theahura.substack.com/p/tech-things-financing-my-klarna-doritos)
 * [2025-10-07, 13:59:36](https://news.ycombinator.com/item?id=45503158) - [Otary now includes 17 image binarization methods](https://alexandrepoupeau.com/otary/api/image/transformers/thresholding/)
 * [2025-10-07, 13:52:32](https://news.ycombinator.com/item?id=45503076) - [Gifted children are special needs children](https://mleverything.substack.com/p/gifted-children-are-special-needs)
