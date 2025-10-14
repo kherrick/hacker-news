@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-14, 13:44:24",
-      "https://news.ycombinator.com/item?id=45579968"
+      "2025-10-14, 14:18:14",
+      "https://news.ycombinator.com/item?id=45580315"
     ],
     [
-      "Let's Not Encrypt",
-      "https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml"
+      "Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)",
+      "https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "CRISPR-like tools that finally can edit mitochondria DNA could be revolutionary",
       "https://www.nature.com/articles/d41586-025-03307-x"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 13:12:00",
-      "https://news.ycombinator.com/item?id=45579612"
-    ],
-    [
-      "Show HN: Daily install trends of AI coding extensions in VS Code",
-      "https://bloomberry.com/coding-tools.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Thread First – A model for chat experiences",
       "https://progressdb.dev/docs/blog-thread-first"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 20:04:36",
+      "https://news.ycombinator.com/item?id=45543167"
+    ],
+    [
+      "Debugging Humidity: Lessons from deploying software in the physical world",
+      "https://physical-ai.ghost.io/debugging-humidity-lessons-from-deploying-code-to-a-factory-floor/"
     ]
   ],
   [
