@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-14, 18:22:04",
+      "https://news.ycombinator.com/item?id=45583129"
+    ],
+    [
+      "New lab-grown human embryo model produces blood cells",
+      "https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 17:12:10",
       "https://news.ycombinator.com/item?id=45582462"
     ],
@@ -47,16 +57,6 @@
     [
       "GPT-5o-mini hallucinates medical residency applicant grades",
       "https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 14:53:25",
-      "https://news.ycombinator.com/item?id=45580818"
-    ],
-    [
-      "Tesla is at risk of losing subsidies in Korea over widespread battery failures",
-      "https://electrek.co/2025/10/14/tesla-is-at-risk-of-lossing-subsidies-in-korea-over-widespread-battery-failures/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-10-09, 00:54:00",
-      "https://news.ycombinator.com/item?id=45522266"
-    ],
-    [
-      "First device based on 'optical thermodynamics' can route light without switches",
-      "https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 21:53:34",
       "https://news.ycombinator.com/item?id=45521032"
     ],
@@ -287,6 +277,16 @@
     [
       "Automatic K8s pod placement to match external service zones",
       "https://github.com/toredash/automatic-zone-placement"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 20:32:55",
+      "https://news.ycombinator.com/item?id=45508462"
+    ],
+    [
+      "Beyond the SQLite Single-Writer Limitation with Concurrent Writes",
+      "https://turso.tech/blog/beyond-the-single-writer-limitation-with-tursos-concurrent-writes"
     ]
   ],
   [
