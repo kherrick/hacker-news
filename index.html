@@ -141,7 +141,7 @@
             <h4>
               <span>2025-10-14 @ 16:10:27</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45581761"
                   >Comments</a
@@ -162,11 +162,11 @@
             <h4>
               <span>2025-10-14 @ 15:56:23</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45581570"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -183,11 +183,11 @@
             <h4>
               <span>2025-10-14 @ 15:23:09</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45581146"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -204,11 +204,11 @@
             <h4>
               <span>2025-10-14 @ 15:12:21</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45581029"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -226,13 +226,118 @@
             <h4>
               <span>2025-10-14 @ 14:53:25</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45580818"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="45580771">
+          <h3>
+            <a class="item" href="https://github.com/metorial/metorial"
+              >Show HN: Metorial (YC F25) – Vercel for MCP</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-14 @ 14:49:56</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45580771"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://metorial.com">https://metorial.com</a>), an
+              integration platform that connects AI agents to external tools and
+              data using MCP.
+              <p>
+                The Problem: While MCP works great locally (e.g., Cursor or
+                Claude Desktop), server-side deployments are painful. Running
+                MCP servers means managing Docker configs, per-user OAuth flows,
+                scaling concurrent sessions, and building observability from
+                scratch. This infrastructure work turns simple integrations into
+                weeks of setup.
+              </p>
+              <p>
+                Metorial handles all of this automatically. We maintain an open
+                catalog of ~600 MCP servers (GitHub, Slack, Google Drive,
+                Salesforce, databases, etc.) that you can deploy in three
+                clicks. You can also bring your own MCP server or fork existing
+                ones.
+              </p>
+              <p>
+                For OAuth, just provide your client ID and secret and we handle
+                the entire flow, including token refresh. Each user then gets an
+                isolated MCP server instance configured with their own OAuth
+                credentials automatically.
+              </p>
+              <p>
+                What makes us different is that our serverless runtime
+                hibernates idle MCP servers and resumes them with sub-second
+                cold starts while preserving the state and connection. Our
+                custom MCP engine is capable of managing thousands of concurrent
+                connections, giving you a scalable service with per-user
+                isolation. Other alternatives either run shared servers
+                (security issues) or provision separate VMs per user (expensive
+                and slow to scale).
+              </p>
+              <p>
+                Our Python and TypeScript SDKs let you connect LLMs to MCP tools
+                in a single function call, abstracting away the protocol
+                complexity. But if you want to dig deep, you can just use
+                standard MCP and our REST API (<a
+                  href="https://metorial.com/api"
+                  >https://metorial.com/api</a
+                >) to connect to our platform.
+              </p>
+              <p>
+                You can self-host (<a
+                  href="https://github.com/metorial/metorial"
+                  >https://github.com/metorial/metorial</a
+                >) or use the managed version at
+                <a href="https://metorial.com">https://metorial.com</a>.
+              </p>
+              <p>
+                So far, we see enterprise teams use Metorial to have a central
+                integration hub for tools like Salesforce, while startups use it
+                to cut weeks of infra work on their side when building AI agents
+                with integrations.
+              </p>
+              <p>
+                Demo video:
+                <a href="https://www.youtube.com/watch?v=07StSRNmJZ8"
+                  >https://www.youtube.com/watch?v=07StSRNmJZ8</a
+                >
+              </p>
+              <p>
+                Our Repos: Metorial:
+                <a href="https://github.com/metorial/metorial"
+                  >https://github.com/metorial/metorial</a
+                >, MCP Containers:
+                <a href="https://github.com/metorial/mcp-containers"
+                  >https://github.com/metorial/mcp-containers</a
+                >
+              </p>
+              <p>
+                SDKs: Node/TypeScript:
+                <a href="https://github.com/metorial/metorial-node"
+                  >https://github.com/metorial/metorial-node</a
+                >, Python:
+                <a href="https://github.com/metorial/metorial-python"
+                  >https://github.com/metorial/metorial-python</a
+                >
+              </p>
+              <p>
+                We'd love to hear feedback, especially if you've dealt with
+                deploying MCP at scale!
+              </p>
+            </div>
           </section>
         </section>
         <section id="45580699">
@@ -248,11 +353,11 @@
             <h4>
               <span>2025-10-14 @ 14:45:02</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45580699"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -270,7 +375,7 @@
             <h4>
               <span>2025-10-14 @ 14:18:14</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45580315"
                   >Comments</a
@@ -291,11 +396,11 @@
             <h4>
               <span>2025-10-14 @ 13:21:03</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45579708"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -310,11 +415,11 @@
             <h4>
               <span>2025-10-14 @ 12:33:01</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45579275"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -346,7 +451,7 @@
             <h4>
               <span>2025-10-14 @ 11:01:43</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45578540"
                   >Comments</a
@@ -363,11 +468,11 @@
             <h4>
               <span>2025-10-14 @ 10:38:48</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45578383"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -383,11 +488,11 @@
             <h4>
               <span>2025-10-14 @ 09:54:53</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45578117"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -404,7 +509,7 @@
             <h4>
               <span>2025-10-14 @ 05:14:26</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45576502"
                   >Comments</a
@@ -426,7 +531,7 @@
             <h4>
               <span>2025-10-14 @ 01:48:56</span
               ><span class="points-container"
-                >Points: <span class="points">456</span></span
+                >Points: <span class="points">458</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45575391"
                   >Comments</a
@@ -468,11 +573,11 @@
             <h4>
               <span>2025-10-13 @ 23:02:06</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45574247"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
@@ -488,37 +593,13 @@
             <h4>
               <span>2025-10-13 @ 18:23:15</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45571688"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="45569350">
-          <h3>
-            <a class="item" href="https://github.com/karpathy/nanochat"
-              >NanoChat – The best ChatGPT that $100 can buy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-13 @ 15:22:47</span
-              ><span class="points-container"
-                >Points: <span class="points">1415</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45569350"
-                  >Comments</a
-                ><span class="descendants">: 286</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://x.com/karpathy/status/1977755427569111362"
-                >https://x.com/karpathy/status/1977755427569111362</a
-              >
-            </div>
           </section>
         </section>
         <section id="45568915">
@@ -533,11 +614,11 @@
             <h4>
               <span>2025-10-13 @ 14:48:47</span
               ><span class="points-container"
-                >Points: <span class="points">366</span></span
+                >Points: <span class="points">369</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45568915"
                   >Comments</a
-                ><span class="descendants">: 486</span></span
+                ><span class="descendants">: 497</span></span
               >
             </h4>
           </section>
@@ -552,33 +633,11 @@
             <h4>
               <span>2025-10-13 @ 14:20:33</span
               ><span class="points-container"
-                >Points: <span class="points">363</span></span
+                >Points: <span class="points">366</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45568613"
                   >Comments</a
-                ><span class="descendants">: 223</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="45567877">
-          <h3>
-            <a
-              class="item"
-              href="https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/"
-              >No science, no startups: The innovation engine we're switching
-              off</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-10-13 @ 13:02:20</span
-              ><span class="points-container"
-                >Points: <span class="points">668</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=45567877"
-                  >Comments</a
-                ><span class="descendants">: 436</span></span
+                ><span class="descendants">: 225</span></span
               >
             </h4>
           </section>
@@ -594,7 +653,7 @@
             <h4>
               <span>2025-10-13 @ 12:46:52</span
               ><span class="points-container"
-                >Points: <span class="points">429</span></span
+                >Points: <span class="points">431</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45567770"
                   >Comments</a
@@ -620,13 +679,32 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45566644"
                   >Comments</a
-                ><span class="descendants">: 553</span></span
+                ><span class="descendants">: 552</span></span
               >
             </h4>
             <div class="text">
               Related:
               https://www.scmp.com/news/china/diplomacy/article/3328726/chinas-wingtech-says-dutch-court-freezes-control-nexperia-amid-national-security-dispute
             </div>
+          </section>
+        </section>
+        <section id="45530533">
+          <h3>
+            <a class="item" href="https://lwn.net/Articles/1038715/"
+              >The phaseout of the mmap() file operation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-10-09 @ 17:19:37</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=45530533"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="45525168">
@@ -641,11 +719,11 @@
             <h4>
               <span>2025-10-09 @ 08:53:30</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45525168"
                   >Comments</a
-                ><span class="descendants">: 163</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -685,11 +763,11 @@
             <h4>
               <span>2025-10-08 @ 21:53:34</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45521032"
                   >Comments</a
-                ><span class="descendants">: 179</span></span
+                ><span class="descendants">: 180</span></span
               >
             </h4>
           </section>
@@ -707,11 +785,11 @@
             <h4>
               <span>2025-10-08 @ 10:18:58</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45514378"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -747,7 +825,7 @@
             <h4>
               <span>2025-10-08 @ 05:21:27</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=45512351"
                   >Comments</a
