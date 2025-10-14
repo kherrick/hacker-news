@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-14, 13:12:00",
+      "https://news.ycombinator.com/item?id=45579612"
+    ],
+    [
+      "Show HN: I tracked the adoption of AI coding extensions in VS Code since 2022",
+      "https://bloomberry.com/coding-tools.html"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 12:33:01",
       "https://news.ycombinator.com/item?id=45579275"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2025-10-14, 10:38:48",
+      "https://news.ycombinator.com/item?id=45578383"
+    ],
+    [
+      "ADS-B Exposed",
+      "https://adsb.exposed/"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 09:54:53",
       "https://news.ycombinator.com/item?id=45578117"
     ],
     [
       "KDE celebrates the 29th birthday and kicks off the yearly fundraiser",
       "https://kde.org/fundraisers/yearend2025/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 07:08:02",
-      "https://news.ycombinator.com/item?id=45577080"
-    ],
-    [
-      "Why the push for Agentic when models can barely follow a simple instruction?",
-      "https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-10-09, 12:48:51",
-      "https://news.ycombinator.com/item?id=45526931"
+      "2025-10-12, 14:42:37",
+      "https://news.ycombinator.com/item?id=45558566"
     ],
     [
-      "2025 Q3 Sardines",
-      "https://draftcorgi.substack.com/p/2025-q3-recommendations"
+      "Thread First – A model for chat experiences",
+      "https://progressdb.dev/docs/blog-thread-first"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: CSS Extras",
       "https://github.com/sindresorhus/css-extras"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 23:27:01",
-      "https://news.ycombinator.com/item?id=45497474"
-    ],
-    [
-      "Passt – Plug a Simple Socket Transport",
-      "https://passt.top/passt/about/"
     ]
   ]
 ]
