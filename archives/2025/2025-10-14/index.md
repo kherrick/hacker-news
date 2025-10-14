@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 19:52:39](https://news.ycombinator.com/item?id=45584017) - [Show HN: Wispbit – Keep codebase standards alive](https://wispbit.com)
+* [2025-10-14, 19:27:41](https://news.ycombinator.com/item?id=45583787) - [How to Turn Liquid Glass into a Solid Interface – TidBITS](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
 * [2025-10-14, 19:23:20](https://news.ycombinator.com/item?id=45583730) - [America Is Sliding Toward Illiteracy](https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/)
 * [2025-10-14, 18:40:23](https://news.ycombinator.com/item?id=45583336) - [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
 * [2025-10-14, 18:30:57](https://news.ycombinator.com/item?id=45583243) - [Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM](https://www.phoronix.com/review/intel-crescent-island)
