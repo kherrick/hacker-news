@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45575391"
     ],
     [
-      "There are sensitive internal links in the clear on GEO satellites [pdf]",
+      "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
       "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "America is getting an AI gold rush instead of a factory boom",
       "https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 14:29:06",
-      "https://news.ycombinator.com/item?id=45568708"
-    ],
-    [
-      "Legends of the games industry: Roger Dean",
-      "https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Scaling request logging with ClickHouse, Kafka, and Vector",
       "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 23:27:01",
+      "https://news.ycombinator.com/item?id=45497474"
+    ],
+    [
+      "Passt – Plug a Simple Socket Transport",
+      "https://passt.top/passt/about/"
     ]
   ]
 ]
