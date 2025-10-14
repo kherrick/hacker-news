@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-10-14, 18:30:57",
-      "https://news.ycombinator.com/item?id=45583243"
-    ],
-    [
-      "Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM",
-      "https://www.phoronix.com/review/intel-crescent-island"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 18:26:00",
       "https://news.ycombinator.com/item?id=45583180"
     ],
@@ -157,6 +147,16 @@
     [
       "Astronomers 'image' a mysterious dark object in the distant Universe",
       "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 14:18:14",
+      "https://news.ycombinator.com/item?id=45580315"
+    ],
+    [
+      "Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)",
+      "https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/"
     ]
   ],
   [
