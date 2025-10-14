@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-14, 13:44:24](https://news.ycombinator.com/item?id=45579968) - [Let's Not Encrypt](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2025-10-14, 13:12:00](https://news.ycombinator.com/item?id=45579612) - [Show HN: I tracked the adoption of AI coding extensions in VS Code since 2022](https://bloomberry.com/coding-tools.html)
-* [2025-10-14, 12:33:01](https://news.ycombinator.com/item?id=45579275) - [PyreFly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
+* [2025-10-14, 12:33:01](https://news.ycombinator.com/item?id=45579275) - [Pyrefly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
 * [2025-10-14, 12:00:56](https://news.ycombinator.com/item?id=45578990) - [Kyber (YC W23) Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
 * [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of Array Languages](https://ktye.github.io/)
 * [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
@@ -11,7 +12,6 @@
 * [2025-10-14, 05:14:26](https://news.ycombinator.com/item?id=45576502) - [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial)
 * [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 * [2025-10-13, 23:21:23](https://news.ycombinator.com/item?id=45574393) - [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
-* [2025-10-13, 23:02:06](https://news.ycombinator.com/item?id=45574247) - [Sony PlayStation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
 * [2025-10-13, 18:37:34](https://news.ycombinator.com/item?id=45571822) - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 18:23:15](https://news.ycombinator.com/item?id=45571688) - [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
 * [2025-10-13, 17:24:51](https://news.ycombinator.com/item?id=45570973) - [America's future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether)
