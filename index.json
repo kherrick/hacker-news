@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-14, 05:36:57",
+      "https://news.ycombinator.com/item?id=45576623"
+    ],
+    [
+      "Why Study Programming Languages",
+      "https://people.csail.mit.edu/rachit/post/why-study-programming-languages/"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 05:14:26",
       "https://news.ycombinator.com/item?id=45576502"
     ],
@@ -141,26 +151,6 @@
   ],
   [
     [
-      "2025-10-13, 14:29:06",
-      "https://news.ycombinator.com/item?id=45568708"
-    ],
-    [
-      "Legends of the games industry: Roger Dean",
-      "https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 14:28:25",
-      "https://news.ycombinator.com/item?id=45568700"
-    ],
-    [
-      "Software update bricks some Jeep 4xe hybrids over the weekend",
-      "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 14:20:33",
       "https://news.ycombinator.com/item?id=45568613"
     ],
@@ -247,6 +237,16 @@
     [
       "vali, a C library for Varlink",
       "https://emersion.fr/blog/2025/announcing-vali/"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 07:09:01",
+      "https://news.ycombinator.com/item?id=45524493"
+    ],
+    [
+      "A series of debugging sessions for Strimzi",
+      "https://github.com/fvaleri/strimzi-debugging"
     ]
   ],
   [
