@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-14, 15:23:09](https://news.ycombinator.com/item?id=45581146) - [Subverting Telegram's End-to-End Encryption](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
+* [2025-10-14, 15:18:06](https://news.ycombinator.com/item?id=45581088) - [RFK Jr. Must Go](https://quillette.com/2025/09/17/rfk-jr-must-go-hhs-health-vaccines/)
 * [2025-10-14, 15:12:21](https://news.ycombinator.com/item?id=45581029) - [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
-* [2025-10-14, 14:46:17](https://news.ycombinator.com/item?id=45580724) - [Scientists create 'Superwood' that's 10 times stronger than steel](https://www.cnn.com/science/superwood-10-times-stronger-than-steel-spc)
 * [2025-10-14, 14:45:02](https://news.ycombinator.com/item?id=45580699) - [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
 * [2025-10-14, 14:18:14](https://news.ycombinator.com/item?id=45580315) - [Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)](https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/)
 * [2025-10-14, 13:21:03](https://news.ycombinator.com/item?id=45579708) - [CRISPR-like tools that finally can edit mitochondria DNA could be revolutionary](https://www.nature.com/articles/d41586-025-03307-x)
 * [2025-10-14, 12:33:01](https://news.ycombinator.com/item?id=45579275) - [Pyrefly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
-* [2025-10-14, 12:19:10](https://news.ycombinator.com/item?id=45579158) - [Gravity Can Explain the Collapse of the Wavefunction](https://arxiv.org/abs/2510.11037)
 * [2025-10-14, 12:00:56](https://news.ycombinator.com/item?id=45578990) - [Kyber (YC W23) Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
 * [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of Array Languages](https://ktye.github.io/)
 * [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
@@ -25,11 +25,11 @@
 * [2025-10-13, 10:03:11](https://news.ycombinator.com/item?id=45566644) - [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
 * [2025-10-12, 19:08:41](https://news.ycombinator.com/item?id=45560863) - [JIT: So you want to be faster than an interpreter on modern CPUs](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
 * [2025-10-12, 14:42:37](https://news.ycombinator.com/item?id=45558566) - [Thread First – A model for chat experiences](https://progressdb.dev/docs/blog-thread-first)
-* [2025-10-10, 20:04:36](https://news.ycombinator.com/item?id=45543167) - [Debugging Humidity: Lessons from deploying software in the physical world](https://physical-ai.ghost.io/debugging-humidity-lessons-from-deploying-code-to-a-factory-floor/)
 * [2025-10-09, 00:54:00](https://news.ycombinator.com/item?id=45522266) - [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
 * [2025-10-08, 21:53:34](https://news.ycombinator.com/item?id=45521032) - [Palisades Fire suspect's ChatGPT history to be used as evidence](https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/)
 * [2025-10-08, 10:18:58](https://news.ycombinator.com/item?id=45514378) - [Ultrasound is ushering a new era of surgery-free cancer treatment](https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment)
 * [2025-10-08, 09:19:31](https://news.ycombinator.com/item?id=45513956) - [Show HN: CSS Extras](https://github.com/sindresorhus/css-extras)
+* [2025-10-08, 05:21:27](https://news.ycombinator.com/item?id=45512351) - [Automatic K8s pod placement to match external service zones](https://github.com/toredash/automatic-zone-placement)
 
 ## [Archives](archives/index.md)
 

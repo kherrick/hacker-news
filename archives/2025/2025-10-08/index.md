@@ -88,6 +88,7 @@
 * [2025-10-08, 05:28:00](https://news.ycombinator.com/item?id=45512388) - [Static Bundle Object: Modernizing Static Linking](https://medium.com/@eyal.itkin/static-bundle-object-modernizing-static-linking-f1be36175064)
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Source-available transmission electron microscope](https://nanomi.org/)
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Open-source transmission electron microscope](https://sites.google.com/view/nanomi-org?usp=sharing)
+* [2025-10-08, 05:21:27](https://news.ycombinator.com/item?id=45512351) - [Automatic K8s pod placement to match external service zones](https://github.com/toredash/automatic-zone-placement)
 * [2025-10-08, 05:18:44](https://news.ycombinator.com/item?id=45512342) - [Interactive Double Pendulum Playground](https://theabbie.github.io/DoublePendulum/)
 * [2025-10-08, 05:13:53](https://news.ycombinator.com/item?id=45512317) - [Without data centers, GDP growth was 0.1% in the first half of 2025](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/)
 * [2025-10-08, 05:11:33](https://news.ycombinator.com/item?id=45512300) - [Synthetic aperture radar autofocus and calibration](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)
