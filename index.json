@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-10-09, 17:19:37",
-      "https://news.ycombinator.com/item?id=45530533"
-    ],
-    [
-      "The phaseout of the mmap() file operation",
-      "https://lwn.net/Articles/1038715/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 08:53:30",
       "https://news.ycombinator.com/item?id=45525168"
     ],
@@ -247,6 +237,16 @@
     [
       "Palisades Fire suspect's ChatGPT history to be used as evidence",
       "https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 13:45:30",
+      "https://news.ycombinator.com/item?id=45516134"
+    ],
+    [
+      "Testing a compiler-driven full-stack web framework",
+      "https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework"
     ]
   ],
   [
