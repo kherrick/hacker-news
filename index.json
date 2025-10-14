@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-10-14, 15:23:09",
+      "https://news.ycombinator.com/item?id=45581146"
+    ],
+    [
+      "Subverting Telegram's End-to-End Encryption",
+      "https://tosc.iacr.org/index.php/ToSC/article/view/10302"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 15:18:06",
+      "https://news.ycombinator.com/item?id=45581088"
+    ],
+    [
+      "RFK Jr. Must Go",
+      "https://quillette.com/2025/09/17/rfk-jr-must-go-hhs-health-vaccines/"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 15:12:21",
       "https://news.ycombinator.com/item?id=45581029"
     ],
     [
       "GPT-5o-mini hallucinates medical residency applicant grades",
       "https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 14:46:17",
-      "https://news.ycombinator.com/item?id=45580724"
-    ],
-    [
-      "Scientists create 'Superwood' that's 10 times stronger than steel",
-      "https://www.cnn.com/science/superwood-10-times-stronger-than-steel-spc"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Pyrefly: Python type checker and language server in Rust",
       "https://pyrefly.org/?featured_on=talkpython"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 12:19:10",
-      "https://news.ycombinator.com/item?id=45579158"
-    ],
-    [
-      "Gravity Can Explain the Collapse of the Wavefunction",
-      "https://arxiv.org/abs/2510.11037"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-10-10, 20:04:36",
-      "https://news.ycombinator.com/item?id=45543167"
-    ],
-    [
-      "Debugging Humidity: Lessons from deploying software in the physical world",
-      "https://physical-ai.ghost.io/debugging-humidity-lessons-from-deploying-code-to-a-factory-floor/"
-    ]
-  ],
-  [
-    [
       "2025-10-09, 00:54:00",
       "https://news.ycombinator.com/item?id=45522266"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: CSS Extras",
       "https://github.com/sindresorhus/css-extras"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 05:21:27",
+      "https://news.ycombinator.com/item?id=45512351"
+    ],
+    [
+      "Automatic K8s pod placement to match external service zones",
+      "https://github.com/toredash/automatic-zone-placement"
     ]
   ]
 ]
