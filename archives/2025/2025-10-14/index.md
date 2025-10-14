@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 10:52:35](https://news.ycombinator.com/item?id=45578469) - [US news outlets refuse to sign new Pentagon rules to report only official info](https://www.theguardian.com/us-news/2025/oct/13/defense-department-media-news-rules)
 * [2025-10-14, 10:30:32](https://news.ycombinator.com/item?id=45578318) - [Prime Minister Anthony Albanese's mobile phone number made available online](https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284)
 * [2025-10-14, 09:54:53](https://news.ycombinator.com/item?id=45578117) - [KDE celebrates the 29th birthday and kicks off the yearly fundraiser](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 07:30:20](https://news.ycombinator.com/item?id=45577193) - [I let my AI agents run unsupervised and they burned $200 in 2 hours](https://blog.justcopy.ai/p/i-let-my-ai-agents-run-unsupervised)

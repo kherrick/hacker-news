@@ -57,6 +57,7 @@
 * [2025-10-09, 10:35:40](https://news.ycombinator.com/item?id=45525804) - [MicroPythonOS – An Android-Like OS for Microcontrollers](https://micropythonos.com)
 * [2025-10-09, 09:19:18](https://news.ycombinator.com/item?id=45525336) - [n8n raises $180M to get AI closer to value with orchestration](https://blog.n8n.io/series-c/)
 * [2025-10-09, 09:14:58](https://news.ycombinator.com/item?id=45525303) - [QUIC and the End of TCP Sockets](https://codemia.io/blog/path/QUIC-and-the-End-of-TCP-Sockets-How-User-Space-Transport-Rewrites-Flow-Control)
+* [2025-10-09, 08:53:30](https://news.ycombinator.com/item?id=45525168) - [Why is everything so scalable?](https://www.stavros.io/posts/why-is-everything-so-scalable/)
 * [2025-10-09, 08:33:54](https://news.ycombinator.com/item?id=45525041) - [First-in-the-nation law to ban ultra-processed foods from school lunches](https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/)
 * [2025-10-09, 07:40:42](https://news.ycombinator.com/item?id=45524702) - [Python 3.14 is here. How fast is it?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
 * [2025-10-09, 07:30:12](https://news.ycombinator.com/item?id=45524624) - [The React Foundation: The New Home for React and React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
