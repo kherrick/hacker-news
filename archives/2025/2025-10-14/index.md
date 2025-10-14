@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 13:12:00](https://news.ycombinator.com/item?id=45579612) - [Show HN: I tracked the adoption of AI coding extensions in VS Code since 2022](https://bloomberry.com/coding-tools.html)
 * [2025-10-14, 12:33:01](https://news.ycombinator.com/item?id=45579275) - [PyreFly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
 * [2025-10-14, 12:00:56](https://news.ycombinator.com/item?id=45578990) - [Kyber (YC W23) Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
 * [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of Array Languages](https://ktye.github.io/)
 * [2025-10-14, 10:52:35](https://news.ycombinator.com/item?id=45578469) - [US news outlets refuse to sign new Pentagon rules to report only official info](https://www.theguardian.com/us-news/2025/oct/13/defense-department-media-news-rules)
+* [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
 * [2025-10-14, 10:30:32](https://news.ycombinator.com/item?id=45578318) - [Prime Minister Anthony Albanese's mobile phone number made available online](https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284)
 * [2025-10-14, 09:54:53](https://news.ycombinator.com/item?id=45578117) - [KDE celebrates the 29th birthday and kicks off the yearly fundraiser](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 07:30:20](https://news.ycombinator.com/item?id=45577193) - [I let my AI agents run unsupervised and they burned $200 in 2 hours](https://blog.justcopy.ai/p/i-let-my-ai-agents-run-unsupervised)

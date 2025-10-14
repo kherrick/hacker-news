@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-14, 13:12:00](https://news.ycombinator.com/item?id=45579612) - [Show HN: I tracked the adoption of AI coding extensions in VS Code since 2022](https://bloomberry.com/coding-tools.html)
 * [2025-10-14, 12:33:01](https://news.ycombinator.com/item?id=45579275) - [PyreFly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
 * [2025-10-14, 12:00:56](https://news.ycombinator.com/item?id=45578990) - [Kyber (YC W23) Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae)
 * [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of Array Languages](https://ktye.github.io/)
+* [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
 * [2025-10-14, 09:54:53](https://news.ycombinator.com/item?id=45578117) - [KDE celebrates the 29th birthday and kicks off the yearly fundraiser](https://kde.org/fundraisers/yearend2025/)
-* [2025-10-14, 07:08:02](https://news.ycombinator.com/item?id=45577080) - [Why the push for Agentic when models can barely follow a simple instruction?](https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154)
 * [2025-10-14, 05:36:57](https://news.ycombinator.com/item?id=45576623) - [Why study programming languages (2022)](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/)
 * [2025-10-14, 05:14:26](https://news.ycombinator.com/item?id=45576502) - [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial)
 * [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
@@ -22,14 +23,13 @@
 * [2025-10-13, 11:37:55](https://news.ycombinator.com/item?id=45567241) - [Why did containers happen?](https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/)
 * [2025-10-13, 10:03:11](https://news.ycombinator.com/item?id=45566644) - [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
 * [2025-10-12, 19:08:41](https://news.ycombinator.com/item?id=45560863) - [JIT: So you want to be faster than an interpreter on modern CPUs](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
-* [2025-10-09, 12:48:51](https://news.ycombinator.com/item?id=45526931) - [2025 Q3 Sardines](https://draftcorgi.substack.com/p/2025-q3-recommendations)
+* [2025-10-12, 14:42:37](https://news.ycombinator.com/item?id=45558566) - [Thread First – A model for chat experiences](https://progressdb.dev/docs/blog-thread-first)
 * [2025-10-09, 08:53:30](https://news.ycombinator.com/item?id=45525168) - [Why is everything so scalable?](https://www.stavros.io/posts/why-is-everything-so-scalable/)
 * [2025-10-09, 00:54:00](https://news.ycombinator.com/item?id=45522266) - [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
 * [2025-10-08, 21:53:34](https://news.ycombinator.com/item?id=45521032) - [Palisades Fire suspect's ChatGPT history to be used as evidence](https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/)
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)
 * [2025-10-08, 10:18:58](https://news.ycombinator.com/item?id=45514378) - [Ultrasound is ushering a new era of surgery-free cancer treatment](https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment)
 * [2025-10-08, 09:19:31](https://news.ycombinator.com/item?id=45513956) - [Show HN: CSS Extras](https://github.com/sindresorhus/css-extras)
-* [2025-10-06, 23:27:01](https://news.ycombinator.com/item?id=45497474) - [Passt – Plug a Simple Socket Transport](https://passt.top/passt/about/)
 
 ## [Archives](archives/index.md)
 
