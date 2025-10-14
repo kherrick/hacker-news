@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-14, 20:36:01](https://news.ycombinator.com/item?id=45584498) - [Surveillance Secrets](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+* [2025-10-14, 20:36:01](https://news.ycombinator.com/item?id=45584498) - [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
 * [2025-10-14, 20:28:43](https://news.ycombinator.com/item?id=45584418) - [U.S. Sanctions Cambodian Conglomerate, Citing Role in 'Pig-Butchering' Scams](https://www.wsj.com/business/u-s-sanctions-cambodian-conglomerate-citing-role-in-pig-butchering-scams-0cf2e0ff)
 * [2025-10-14, 20:17:44](https://news.ycombinator.com/item?id=45584281) - [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
 * [2025-10-14, 20:13:53](https://news.ycombinator.com/item?id=45584226) - [AppLovin Nonconsensual Installs](https://www.benedelman.org/applovin-nonconsensual-installs/)
