@@ -8,6 +8,7 @@
 * [2025-10-14, 20:52:09](https://news.ycombinator.com/item?id=45584697) - [Synthetic kratom is exploding in California](https://www.sfgate.com/bayarea/article/synthetic-kratom-addiction-and-ban-california-21076514.php)
 * [2025-10-14, 20:36:01](https://news.ycombinator.com/item?id=45584498) - [Surveillance Secrets](https://www.lighthousereports.com/investigation/surveillance-secrets/)
 * [2025-10-14, 20:28:43](https://news.ycombinator.com/item?id=45584418) - [U.S. Sanctions Cambodian Conglomerate, Citing Role in 'Pig-Butchering' Scams](https://www.wsj.com/business/u-s-sanctions-cambodian-conglomerate-citing-role-in-pig-butchering-scams-0cf2e0ff)
+* [2025-10-14, 20:17:44](https://news.ycombinator.com/item?id=45584281) - [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
 * [2025-10-14, 20:13:53](https://news.ycombinator.com/item?id=45584226) - [AppLovin Nonconsensual Installs](https://www.benedelman.org/applovin-nonconsensual-installs/)
 * [2025-10-14, 19:52:39](https://news.ycombinator.com/item?id=45584017) - [Show HN: Wispbit – Keep codebase standards alive](https://wispbit.com)
 * [2025-10-14, 19:27:41](https://news.ycombinator.com/item?id=45583787) - [How to Turn Liquid Glass into a Solid Interface – TidBITS](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
