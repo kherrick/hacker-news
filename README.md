@@ -19,7 +19,6 @@
 * [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of array languages](https://ktye.github.io/)
 * [2025-10-14, 10:52:33](https://news.ycombinator.com/item?id=45578467) - [Nexperia – Update on Company Developments](https://www.nexperia.com/about/news-events/press-releases/update-on-company-developments)
 * [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
-* [2025-10-14, 05:14:26](https://news.ycombinator.com/item?id=45576502) - [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial)
 * [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 * [2025-10-13, 14:48:47](https://news.ycombinator.com/item?id=45568915) - [America is getting an AI gold rush instead of a factory boom](https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/)
 * [2025-10-09, 17:19:37](https://news.ycombinator.com/item?id=45530533) - [The phaseout of the mmap() file operation](https://lwn.net/Articles/1038715/)
@@ -29,6 +28,7 @@
 * [2025-10-08, 09:19:31](https://news.ycombinator.com/item?id=45513956) - [Show HN: CSS Extras](https://github.com/sindresorhus/css-extras)
 * [2025-10-08, 05:21:27](https://news.ycombinator.com/item?id=45512351) - [Automatic K8s pod placement to match external service zones](https://github.com/toredash/automatic-zone-placement)
 * [2025-10-07, 20:32:55](https://news.ycombinator.com/item?id=45508462) - [Beyond the SQLite Single-Writer Limitation with Concurrent Writes](https://turso.tech/blog/beyond-the-single-writer-limitation-with-tursos-concurrent-writes)
+* [2025-10-07, 14:34:06](https://news.ycombinator.com/item?id=45503560) - [The Day My Smart Vacuum Turned Against Me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/)
 * [2025-10-07, 02:43:03](https://news.ycombinator.com/item?id=45498887) - [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
 
 ## [Archives](archives/index.md)
