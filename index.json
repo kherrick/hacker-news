@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-10-14, 10:30:32",
-      "https://news.ycombinator.com/item?id=45578318"
-    ],
-    [
-      "Prime Minister Anthony Albanese's mobile phone number made available online",
-      "https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 09:54:53",
       "https://news.ycombinator.com/item?id=45578117"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45576623"
     ],
     [
-      "Why Study Programming Languages",
+      "Why study programming languages (2022)",
       "https://people.csail.mit.edu/rachit/post/why-study-programming-languages/"
     ]
   ],
@@ -77,16 +67,6 @@
     [
       "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
       "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 01:07:45",
-      "https://news.ycombinator.com/item?id=45575127"
-    ],
-    [
-      "NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference",
-      "https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/"
     ]
   ],
   [
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2025-10-13, 14:28:25",
+      "https://news.ycombinator.com/item?id=45568700"
+    ],
+    [
+      "Software update bricks some Jeep 4xe hybrids over the weekend",
+      "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 14:20:33",
       "https://news.ycombinator.com/item?id=45568613"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=45538628"
     ],
     [
-      "vali, a C library for Varlink",
+      "Vali, a C library for Varlink",
       "https://emersion.fr/blog/2025/announcing-vali/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Palisades Fire suspect's ChatGPT history to be used as evidence",
       "https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 16:38:43",
+      "https://news.ycombinator.com/item?id=45518033"
+    ],
+    [
+      "JSON River – Parse JSON incrementally as it streams in",
+      "https://github.com/rictic/jsonriver"
     ]
   ],
   [
