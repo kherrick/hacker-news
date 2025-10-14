@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-10-14, 20:17:44",
+      "https://news.ycombinator.com/item?id=45584281"
+    ],
+    [
+      "Unpacking Cloudflare Workers CPU Performance Benchmarks",
+      "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 20:13:53",
       "https://news.ycombinator.com/item?id=45584226"
     ],
@@ -47,16 +57,6 @@
     [
       "Show HN: An open source access logs analytics script to block bot attacks",
       "https://github.com/tempesta-tech/webshield"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 19:06:27",
-      "https://news.ycombinator.com/item?id=45583574"
-    ],
-    [
-      "Preparing for AI's economic impact: exploring policy responses",
-      "https://www.anthropic.com/research/economic-policy-responses"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-10-14, 14:18:14",
-      "https://news.ycombinator.com/item?id=45580315"
-    ],
-    [
-      "Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)",
-      "https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 12:33:01",
       "https://news.ycombinator.com/item?id=45579275"
     ],
@@ -227,6 +217,16 @@
     [
       "Testing a compiler-driven full-stack web framework",
       "https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 13:24:53",
+      "https://news.ycombinator.com/item?id=45515915"
+    ],
+    [
+      "Hacking the Humane AI Pin",
+      "https://writings.agg.im/posts/hacking_ai_pin/"
     ]
   ],
   [
