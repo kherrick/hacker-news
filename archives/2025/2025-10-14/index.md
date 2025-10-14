@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 22:36:40](https://news.ycombinator.com/item?id=45585869) - [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
 * [2025-10-14, 21:00:47](https://news.ycombinator.com/item?id=45584809) - [New-Vehicle Avg Price Hits Record High in Sep, Surges Past $50k for First Time](https://www.coxautoinc.com/insights-hub/sept-2025-atp-report/)
 * [2025-10-14, 20:52:09](https://news.ycombinator.com/item?id=45584697) - [Synthetic kratom is exploding in California](https://www.sfgate.com/bayarea/article/synthetic-kratom-addiction-and-ban-california-21076514.php)
 * [2025-10-14, 20:36:01](https://news.ycombinator.com/item?id=45584498) - [Surveillance Secrets](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+* [2025-10-14, 20:32:32](https://news.ycombinator.com/item?id=45584464) - [Why Is SQLite Coded in C and not Rust](https://www.sqlite.org/whyc.html)
 * [2025-10-14, 20:28:43](https://news.ycombinator.com/item?id=45584418) - [U.S. Sanctions Cambodian Conglomerate, Citing Role in 'Pig-Butchering' Scams](https://www.wsj.com/business/u-s-sanctions-cambodian-conglomerate-citing-role-in-pig-butchering-scams-0cf2e0ff)
 * [2025-10-14, 20:17:44](https://news.ycombinator.com/item?id=45584281) - [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
 * [2025-10-14, 20:13:53](https://news.ycombinator.com/item?id=45584226) - [AppLovin Nonconsensual Installs](https://www.benedelman.org/applovin-nonconsensual-installs/)
