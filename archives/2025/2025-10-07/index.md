@@ -89,6 +89,7 @@
 * [2025-10-07, 05:39:27](https://news.ycombinator.com/item?id=45499710) - [The NIH ordered me to stop my 'dangerous' gain-of-function research](https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/)
 * [2025-10-07, 04:03:49](https://news.ycombinator.com/item?id=45499281) - [California law forces Netflix, Hulu to turn down ad volumes](https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663)
 * [2025-10-07, 03:40:41](https://news.ycombinator.com/item?id=45499170) - [Pdoc – Generate API Documentation for Python Projects](https://pdoc.dev/)
+* [2025-10-07, 02:43:03](https://news.ycombinator.com/item?id=45498887) - [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
 * [2025-10-07, 01:34:32](https://news.ycombinator.com/item?id=45498469) - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
 * [2025-10-07, 00:46:57](https://news.ycombinator.com/item?id=45498109) - [Hardware Stockholm Syndrome](https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome)
 * [2025-10-07, 00:40:26](https://news.ycombinator.com/item?id=45498055) - [The World Trade Center Under Construction Through Photos, 1966-1979](https://rarehistoricalphotos.com/twin-towers-construction-photographs/)

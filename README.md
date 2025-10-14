@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-14, 17:12:10](https://news.ycombinator.com/item?id=45582462) - [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
+* [2025-10-14, 16:53:24](https://news.ycombinator.com/item?id=45582268) - [Prefix sum: 20 GB/s (2.6x baseline)](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 * [2025-10-14, 16:10:27](https://news.ycombinator.com/item?id=45581761) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:56:23](https://news.ycombinator.com/item?id=45581570) - [Swarm reveals growing weak spot in Earth's magnetic field](https://phys.org/news/2025-10-swarm-reveals-weak-earth-magnetic.html)
 * [2025-10-14, 15:23:09](https://news.ycombinator.com/item?id=45581146) - [Subverting Telegram's end-to-end encryption (2023)](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
@@ -18,9 +20,7 @@
 * [2025-10-14, 05:14:26](https://news.ycombinator.com/item?id=45576502) - [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial)
 * [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 * [2025-10-13, 23:21:23](https://news.ycombinator.com/item?id=45574393) - [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
-* [2025-10-13, 23:02:06](https://news.ycombinator.com/item?id=45574247) - [Sony PlayStation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
 * [2025-10-13, 14:48:47](https://news.ycombinator.com/item?id=45568915) - [America is getting an AI gold rush instead of a factory boom](https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/)
-* [2025-10-13, 14:20:33](https://news.ycombinator.com/item?id=45568613) - [Smartphones and being present](https://herman.bearblog.dev/being-present/)
 * [2025-10-13, 12:46:52](https://news.ycombinator.com/item?id=45567770) - [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
 * [2025-10-13, 10:03:11](https://news.ycombinator.com/item?id=45566644) - [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
 * [2025-10-09, 17:19:37](https://news.ycombinator.com/item?id=45530533) - [The phaseout of the mmap() file operation](https://lwn.net/Articles/1038715/)
@@ -28,8 +28,8 @@
 * [2025-10-09, 00:54:00](https://news.ycombinator.com/item?id=45522266) - [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
 * [2025-10-08, 21:53:34](https://news.ycombinator.com/item?id=45521032) - [Palisades Fire suspect's ChatGPT history to be used as evidence](https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/)
 * [2025-10-08, 10:18:58](https://news.ycombinator.com/item?id=45514378) - [Ultrasound is ushering a new era of surgery-free cancer treatment](https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment)
-* [2025-10-08, 09:19:31](https://news.ycombinator.com/item?id=45513956) - [Show HN: CSS Extras](https://github.com/sindresorhus/css-extras)
 * [2025-10-08, 05:21:27](https://news.ycombinator.com/item?id=45512351) - [Automatic K8s pod placement to match external service zones](https://github.com/toredash/automatic-zone-placement)
+* [2025-10-07, 02:43:03](https://news.ycombinator.com/item?id=45498887) - [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
 
 ## [Archives](archives/index.md)
 
