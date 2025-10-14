@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-14, 02:48:09](https://news.ycombinator.com/item?id=45575742) - [Modifying a Casio F-Series Digital Watch (2020)](https://shellzine.net/casio-f-series-mods/)
 * [2025-10-14, 01:48:56](https://news.ycombinator.com/item?id=45575391) - [There are sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 * [2025-10-14, 00:02:18](https://news.ycombinator.com/item?id=45574705) - [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608)
 * [2025-10-13, 23:49:55](https://news.ycombinator.com/item?id=45574613) - [Hackers can steal 2FA codes and private messages from Android phones](https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/)
@@ -20,16 +21,15 @@
 * [2025-10-13, 12:46:52](https://news.ycombinator.com/item?id=45567770) - [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
 * [2025-10-13, 11:37:55](https://news.ycombinator.com/item?id=45567241) - [Why did containers happen?](https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/)
 * [2025-10-13, 10:03:11](https://news.ycombinator.com/item?id=45566644) - [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
+* [2025-10-13, 10:02:40](https://news.ycombinator.com/item?id=45566638) - [American solar farms](https://tech.marksblogg.com/american-solar-farms.html)
 * [2025-10-13, 08:45:49](https://news.ycombinator.com/item?id=45566198) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
 * [2025-10-12, 19:08:41](https://news.ycombinator.com/item?id=45560863) - [JIT: So you want to be faster than an interpreter on modern CPUs](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
 * [2025-10-12, 14:15:21](https://news.ycombinator.com/item?id=45558375) - [Show HN: AI toy I worked on is in stores](https://www.walmart.com/ip/SANTA-SMAGICAL-PHONE/16364964771)
 * [2025-10-11, 13:39:31](https://news.ycombinator.com/item?id=45549060) - [Root cause analysis? You're doing it wrong](https://entropicthoughts.com/root-cause-analysis-youre-doing-it-wrong)
 * [2025-10-09, 14:01:27](https://news.ycombinator.com/item?id=45527840) - [CRDT and SQLite: Local-First Value Synchronization](https://marcobambini.substack.com/p/the-secret-life-of-a-local-first)
 * [2025-10-09, 00:54:00](https://news.ycombinator.com/item?id=45522266) - [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
-* [2025-10-08, 17:39:00](https://news.ycombinator.com/item?id=45518649) - [Accidentally Made a Zig Dotenv Parser](https://dayvster.com/blog/accidentally-made-a-zig-dotenv-parser/)
 * [2025-10-08, 16:38:43](https://news.ycombinator.com/item?id=45518033) - [JSON River – Parse JSON incrementally as it streams in](https://github.com/rictic/jsonriver)
 * [2025-10-08, 09:56:25](https://news.ycombinator.com/item?id=45514213) - [Scaling request logging with ClickHouse, Kafka, and Vector](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)
-* [2025-10-06, 12:45:51](https://news.ycombinator.com/item?id=45490775) - [Uv overtakes pip in CI](https://wagtail.org/blog/uv-overtakes-pip-in-ci/)
 
 ## [Archives](archives/index.md)
 
