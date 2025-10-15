@@ -8,6 +8,7 @@
 * [2025-10-08, 23:35:15](https://news.ycombinator.com/item?id=45521836) - [Winter 2025/2026 weather outlook](https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/)
 * [2025-10-08, 23:34:42](https://news.ycombinator.com/item?id=45521833) - [Radio Garten](https://radio.garden/)
 * [2025-10-08, 23:27:23](https://news.ycombinator.com/item?id=45521788) - [Show HN: HyprMCP – Analytics, logs and auth for MCP servers](https://github.com/hyprmcp/jetski)
+* [2025-10-08, 23:25:51](https://news.ycombinator.com/item?id=45521779) - [Americans' love of billiards paved the way for synthetic plastics](https://invention.si.edu/invention-stories/imitation-ivory-and-power-play)
 * [2025-10-08, 23:20:13](https://news.ycombinator.com/item?id=45521738) - [Discord says 70k users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach)
 * [2025-10-08, 23:14:32](https://news.ycombinator.com/item?id=45521704) - [Show HN: PWAscore](https://pwascore.com/)
 * [2025-10-08, 23:04:32](https://news.ycombinator.com/item?id=45521629) - [OpenAI, Nvidia fuel $1T AI market with web of circular deals](https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals)

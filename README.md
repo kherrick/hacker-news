@@ -25,9 +25,9 @@
 * [2025-10-15, 07:01:53](https://news.ycombinator.com/item?id=45588959) - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
 * [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
-* [2025-10-14, 18:26:00](https://news.ycombinator.com/item?id=45583180) - [Beliefs that are true for regular software but false when applied to AI](https://boydkane.com/essays/boss)
 * [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
 * [2025-10-09, 17:55:06](https://news.ycombinator.com/item?id=45530918) - [OVM6948 Miniature Camera Module [pdf]](https://www.ovt.com/wp-content/uploads/2023/03/OVM6948-PB-v1.5-WEB.pdf)
+* [2025-10-08, 23:25:51](https://news.ycombinator.com/item?id=45521779) - [Americans' love of billiards paved the way for synthetic plastics](https://invention.si.edu/invention-stories/imitation-ivory-and-power-play)
 * [2025-10-08, 20:30:34](https://news.ycombinator.com/item?id=45520263) - [Flapping-wing robot achieves self-takeoff by adopting reconfigurable mechanisms](https://www.science.org/doi/10.1126/sciadv.adx0465)
 * [2025-10-08, 03:54:36](https://news.ycombinator.com/item?id=45511888) - [HRM Analysis by Arc Prize Organizers](https://arcprize.org/blog/hrm-analysis)
 
