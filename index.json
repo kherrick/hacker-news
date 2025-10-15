@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-15, 14:04:13",
+      "https://news.ycombinator.com/item?id=45592766"
+    ],
+    [
+      "You are the scariest monster in the woods",
+      "https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 13:41:44",
       "https://news.ycombinator.com/item?id=45592401"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45591865"
     ],
     [
-      "Mac Source Ports – run old games on new Macs",
+      "Mac Source Ports – Run old games on new Macs",
       "https://www.macsourceports.com/"
     ]
   ],
@@ -57,6 +67,26 @@
     [
       "Apple M5 chip",
       "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 12:56:12",
+      "https://news.ycombinator.com/item?id=45591707"
+    ],
+    [
+      "I Almost Got Hacked by a 'Job Interview'",
+      "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 12:19:40",
+      "https://news.ycombinator.com/item?id=45591264"
+    ],
+    [
+      "They Clean the Balls in a Ball Pit",
+      "https://www.core77.com/posts/138608/Heres-How-They-Clean-the-Balls-in-a-Ball-Pit"
     ]
   ],
   [
@@ -125,7 +155,7 @@
       "https://news.ycombinator.com/item?id=45590756"
     ],
     [
-      "Why We're Leaving Serverless",
+      "Leaving serverless led to performance improvement and a simplified architecture",
       "https://www.unkey.com/blog/serverless-exit"
     ]
   ],
@@ -135,7 +165,7 @@
       "https://news.ycombinator.com/item?id=45590681"
     ],
     [
-      "I analyzed 200 e-commerce sites and found 73% of their traffic is fake",
+      "Something is broken with the way we measure success on the internet",
       "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake"
     ]
   ],
@@ -145,8 +175,18 @@
       "https://news.ycombinator.com/item?id=45590302"
     ],
     [
-      "CVE-2025-55315: Asp.net Security Feature Bypass Vulnerability [9.9 Critical]",
+      "ASP.NET Security Feature Bypass Vulnerability",
       "https://nvd.nist.gov/vuln/detail/CVE-2025-55315"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 07:52:40",
+      "https://news.ycombinator.com/item?id=45589327"
+    ],
+    [
+      "Europe's Digital Sovereignty Paradox – \"Chat Control\" Update",
+      "https://www.process-one.net/blog/chat-control-update-oct-2025/"
     ]
   ],
   [
@@ -165,7 +205,7 @@
       "https://news.ycombinator.com/item?id=45588689"
     ],
     [
-      "Just Talk to It – The No-Bs Way of Agentic Engineering",
+      "Just talk to it – A way of agentic engineering",
       "https://steipete.me/posts/just-talk-to-it"
     ]
   ],
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2025-10-14, 20:17:44",
-      "https://news.ycombinator.com/item?id=45584281"
-    ],
-    [
-      "Unpacking Cloudflare Workers CPU Performance Benchmarks",
-      "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 18:26:00",
       "https://news.ycombinator.com/item?id=45583180"
     ],
@@ -221,42 +251,22 @@
   ],
   [
     [
+      "2025-10-14, 15:34:51",
+      "https://news.ycombinator.com/item?id=45581288"
+    ],
+    [
+      "A modern approach to preventing CSRF in Go",
+      "https://www.alexedwards.net/blog/preventing-csrf-in-go"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 15:08:38",
       "https://news.ycombinator.com/item?id=45580981"
     ],
     [
       "DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia",
       "https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 06:19:54",
-      "https://news.ycombinator.com/item?id=45555749"
-    ],
-    [
-      "Updating Desktop Rust",
-      "https://tritium.legal/blog/update"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 16:00:03",
-      "https://news.ycombinator.com/item?id=45529534"
-    ],
-    [
-      "Interviewing Intel's Chief Architect of x86 Cores",
-      "https://chipsandcheese.com/p/interviewing-intels-chief-architect"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 12:42:06",
-      "https://news.ycombinator.com/item?id=45526846"
-    ],
-    [
-      "A Early History of Algebraic Data Types",
-      "https://www.hillelwayne.com/post/algdt-history/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "HRM Analysis by Arc Prize Organizers",
       "https://arcprize.org/blog/hrm-analysis"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 02:43:03",
-      "https://news.ycombinator.com/item?id=45498887"
-    ],
-    [
-      "A 12,000-year-old obelisk with a human face was found in Karahan Tepe",
-      "https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html"
     ]
   ]
 ]
