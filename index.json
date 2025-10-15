@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-15, 22:36:16",
-      "https://news.ycombinator.com/item?id=45599150"
+      "2025-10-15, 22:28:55",
+      "https://news.ycombinator.com/item?id=45599084"
     ],
     [
-      "Google runs Israel's ads: 'There is food in Gaza'",
-      "https://www.washingtonpost.com/technology/2025/10/15/israel-ads-youtube-famine-gaza"
+      "ImapGoose",
+      "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 22:28:11",
+      "https://news.ycombinator.com/item?id=45599075"
+    ],
+    [
+      "How First Wap Tracks Phones Around the World",
+      "https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2025-10-15, 11:11:41",
-      "https://news.ycombinator.com/item?id=45590681"
-    ],
-    [
-      "Bots are getting good at mimicking engagement",
-      "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 06:05:51",
       "https://news.ycombinator.com/item?id=45588594"
     ],
     [
       "Pixnapping Attack",
       "https://www.pixnapping.com/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 23:47:08",
-      "https://news.ycombinator.com/item?id=45586339"
-    ],
-    [
-      "FSF announces Librephone project",
-      "https://www.fsf.org/news/librephone-project"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Bringing NumPy's type-completeness score to nearly 90% – Pyrefly",
       "https://pyrefly.org/blog/numpy-type-completeness/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 10:46:12",
+      "https://news.ycombinator.com/item?id=45489911"
+    ],
+    [
+      "Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)",
+      "https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch"
     ]
   ]
 ]
