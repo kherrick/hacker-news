@@ -27,6 +27,7 @@
 * [2025-10-08, 20:20:21](https://news.ycombinator.com/item?id=45520154) - [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
 * [2025-10-08, 19:56:54](https://news.ycombinator.com/item?id=45519944) - [Opal is beginning to roll out 15 new countries](https://blog.google/technology/google-labs/opal-expansion/)
 * [2025-10-08, 19:54:02](https://news.ycombinator.com/item?id=45519915) - [Svelte is that fast](https://chuniversiteit.nl/papers/svelte-is-fast)
+* [2025-10-08, 19:17:58](https://news.ycombinator.com/item?id=45519592) - [Animalese.js Demo](https://acedio.github.io/animalese.js/)
 * [2025-10-08, 19:16:10](https://news.ycombinator.com/item?id=45519575) - [A few things to know before stealing my 914](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2025-10-08, 18:48:11](https://news.ycombinator.com/item?id=45519310) - [I have a GPS bike computer](https://utcc.utoronto.ca/~cks/space/blog/tech/WhyIHaveGPSBikeComputer)
 * [2025-10-08, 18:42:22](https://news.ycombinator.com/item?id=45519263) - [Julia 1.12 Highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
