@@ -16,6 +16,7 @@
 * [2025-10-15, 13:07:34](https://news.ycombinator.com/item?id=45591865) - [Mac Source Ports – run old games on new Macs](https://www.macsourceports.com/)
 * [2025-10-15, 13:03:19](https://news.ycombinator.com/item?id=45591801) - [Apple Vision Pro upgraded with the powerful M5 chip](https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/)
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple unleashes M5, the next big leap in AI performance for Apple Silicon](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
+* [2025-10-15, 13:00:19](https://news.ycombinator.com/item?id=45591766) - [F5 Networks reports nation-state cyberattack on product systems](https://www.streetinsider.com/Corporate+News/F5+Networks+reports+nation-state+cyberattack+on+product+systems/25457824.html)
 * [2025-10-15, 12:56:12](https://news.ycombinator.com/item?id=45591707) - [I Almost Got Hacked by a 'Job Interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
 * [2025-10-15, 12:19:40](https://news.ycombinator.com/item?id=45591264) - [They Clean the Balls in a Ball Pit](https://www.core77.com/posts/138608/Heres-How-They-Clean-the-Balls-in-a-Ball-Pit)
 * [2025-10-15, 12:16:16](https://news.ycombinator.com/item?id=45591222) - [Show HN: Scriber Pro – Transcribe 4.5hr video in 3.5min, 100% offline on Mac](https://scriberpro.cc/hn/)
