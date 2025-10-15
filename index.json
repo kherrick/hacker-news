@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-15, 21:32:19",
+      "https://news.ycombinator.com/item?id=45598590"
+    ],
+    [
+      "Next Steps for the Caddy Project Maintainership",
+      "https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 20:57:30",
       "https://news.ycombinator.com/item?id=45598309"
     ],
@@ -27,16 +37,6 @@
     [
       "Recursive Language Models (RLMs)",
       "https://alexzhang13.github.io/blog/2025/rlm/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 17:21:32",
-      "https://news.ycombinator.com/item?id=45595760"
-    ],
-    [
-      "Show HN: Specific (YC F25) – Build backends with specifications instead of code",
-      "https://specific.dev/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "I almost got hacked by a 'job interview'",
       "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 12:16:16",
-      "https://news.ycombinator.com/item?id=45591222"
-    ],
-    [
-      "Show HN: Scriber Pro – Offline AI transcription for macOS",
-      "https://scriberpro.cc/hn/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Princeton Engineering Anomalies Research",
       "https://pearlab.icrl.org/"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 09:32:12",
+      "https://news.ycombinator.com/item?id=45501088"
+    ],
+    [
+      "Bringing NumPy's type-completeness score to nearly 90% – Pyrefly",
+      "https://pyrefly.org/blog/numpy-type-completeness/"
     ]
   ]
 ]
