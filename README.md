@@ -2,6 +2,7 @@
 
 * [2025-10-15, 07:52:40](https://news.ycombinator.com/item?id=45589327) - [Europe's Digital Sovereignty Paradox – \"Chat Control\" Update](https://www.process-one.net/blog/chat-control-update-oct-2025/)
 * [2025-10-15, 07:01:53](https://news.ycombinator.com/item?id=45588959) - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
+* [2025-10-15, 06:21:04](https://news.ycombinator.com/item?id=45588689) - [Just Talk to It – The No-Bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
 * [2025-10-15, 02:04:26](https://news.ycombinator.com/item?id=45587289) - [Can we know whether a profiler is accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
 * [2025-10-15, 00:49:25](https://news.ycombinator.com/item?id=45586776) - [Nvidia DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/)
@@ -22,13 +23,12 @@
 * [2025-10-14, 14:45:02](https://news.ycombinator.com/item?id=45580699) - [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
 * [2025-10-12, 06:19:54](https://news.ycombinator.com/item?id=45555749) - [Updating Desktop Rust](https://tritium.legal/blog/update)
 * [2025-10-10, 22:20:57](https://news.ycombinator.com/item?id=45544500) - [Printing Petscii Faster](https://retrogamecoders.com/printing-petscii-faster/)
-* [2025-10-10, 21:54:43](https://news.ycombinator.com/item?id=45544235) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2025-10-09, 16:00:03](https://news.ycombinator.com/item?id=45529534) - [Interviewing Intel's Chief Architect of x86 Cores](https://chipsandcheese.com/p/interviewing-intels-chief-architect)
+* [2025-10-09, 14:21:47](https://news.ycombinator.com/item?id=45528104) - [You Can't Mock Reality: Testing a 3D Rendering Pipeline in Blender](https://medium.com/@egorich42/you-cant-mock-reality-testing-a-3d-rendering-pipeline-in-blender-9c5b93e0076e)
 * [2025-10-09, 12:42:06](https://news.ycombinator.com/item?id=45526846) - [A Early History of Algebraic Data Types](https://www.hillelwayne.com/post/algdt-history/)
 * [2025-10-08, 20:47:20](https://news.ycombinator.com/item?id=45520462) - [Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
 * [2025-10-08, 13:24:53](https://news.ycombinator.com/item?id=45515915) - [Hacking the Humane AI Pin](https://writings.agg.im/posts/hacking_ai_pin/)
 * [2025-10-07, 16:05:01](https://news.ycombinator.com/item?id=45504902) - [CSS for Styling a Markdown Post](https://webdev.bryanhogan.com/miscellaneous/styling-markdown/)
-* [2025-10-07, 08:04:49](https://news.ycombinator.com/item?id=45500560) - [Show HN: Greenonion.ai – AI-Powered Design Assistant](https://exuberant-premise-723012.framer.app/)
 * [2025-10-07, 02:43:03](https://news.ycombinator.com/item?id=45498887) - [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
 
 ## [Archives](archives/index.md)

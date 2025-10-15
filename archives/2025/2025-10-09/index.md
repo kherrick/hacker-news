@@ -42,6 +42,7 @@
 * [2025-10-09, 14:37:44](https://news.ycombinator.com/item?id=45528320) - [Show HN: I Hid Labubus in World Labs' AI Worlds](https://www.akadeb.xyz/vibes/world-labubus/)
 * [2025-10-09, 14:36:52](https://news.ycombinator.com/item?id=45528308) - [New nanotherapy clears amyloid-β reversing Alzheimer's in mice](https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/)
 * [2025-10-09, 14:24:22](https://news.ycombinator.com/item?id=45528141) - [Silver Trades to $50 an Ounce](https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/)
+* [2025-10-09, 14:21:47](https://news.ycombinator.com/item?id=45528104) - [You Can't Mock Reality: Testing a 3D Rendering Pipeline in Blender](https://medium.com/@egorich42/you-cant-mock-reality-testing-a-3d-rendering-pipeline-in-blender-9c5b93e0076e)
 * [2025-10-09, 14:07:40](https://news.ycombinator.com/item?id=45527931) - [US opens Tesla probe after more crashes involving its \"full self-driving\"](https://apnews.com/article/tesla-full-selfdriving-investigation-nhtsa-1f7fe4da8df2abfa03341c30a0f1b8b5)
 * [2025-10-09, 14:01:27](https://news.ycombinator.com/item?id=45527840) - [CRDT and SQLite: Local-First Value Synchronization](https://marcobambini.substack.com/p/the-secret-life-of-a-local-first)
 * [2025-10-09, 13:55:04](https://news.ycombinator.com/item?id=45527758) - [TIL: Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
