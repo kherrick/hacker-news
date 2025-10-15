@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-15, 22:53:27](https://news.ycombinator.com/item?id=45599308) - [Ask HN: Can't get hired – what's next?](https://news.ycombinator.com/item?id=45599308)
 * [2025-10-15, 22:28:55](https://news.ycombinator.com/item?id=45599084) - [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
 * [2025-10-15, 22:28:11](https://news.ycombinator.com/item?id=45599075) - [How First Wap Tracks Phones Around the World](https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/)
 * [2025-10-15, 21:54:14](https://news.ycombinator.com/item?id=45598776) - [I Hate Acrobat](https://www.vincentuden.xyz/blog/pdf-reader)
@@ -24,6 +23,7 @@
 * [2025-10-15, 11:44:31](https://news.ycombinator.com/item?id=45590935) - [Reverse engineering iWork](https://andrews.substack.com/p/reverse-engineering-iwork)
 * [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Leaving serverless led to performance improvement and a simplified architecture](https://www.unkey.com/blog/serverless-exit)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
+* [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-10, 07:58:31](https://news.ycombinator.com/item?id=45536373) - [C++26: range support for std:optional](https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional)
 * [2025-10-08, 23:25:51](https://news.ycombinator.com/item?id=45521779) - [Americans' love of billiards paved the way for synthetic plastics](https://invention.si.edu/invention-stories/imitation-ivory-and-power-play)
 * [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The brain navigates new spaces by 'darting' between reality and mental maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
