@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=45587289"
     ],
     [
-      "Can We Know Whether a Profiler Is Accurate?",
+      "Can we know whether a profiler is accurate?",
       "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "Nvidia DGX Spark: great hardware, early days for the ecosystem",
       "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 23:57:59",
-      "https://news.ycombinator.com/item?id=45586423"
-    ],
-    [
-      "Ally Petitt: Youngest OSCP at 16yo. Over 11 CVEs by 18",
-      "https://ally-petitt.com/en/posts/2024-05-07_how-i-became-a-hacker-before-i-finished-high-school/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "How AI hears accents: An audible visualization of accent clusters",
       "https://accent-explorer.boldvoice.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 15:34:51",
+      "https://news.ycombinator.com/item?id=45581288"
+    ],
+    [
+      "A modern approach to preventing CSRF in Go",
+      "https://www.alexedwards.net/blog/preventing-csrf-in-go"
     ]
   ],
   [
