@@ -1,12 +1,62 @@
 [
   [
     [
-      "2025-10-15, 00:25:03",
-      "https://news.ycombinator.com/item?id=45586618"
+      "2025-10-15, 02:04:26",
+      "https://news.ycombinator.com/item?id=45587289"
     ],
     [
-      "Meditating with mongooses: Backyard wildlife phtotography lessons",
-      "https://wildgundmi.com/meditating-with-mongooses"
+      "Can We Know Whether a Profiler Is Accurate?",
+      "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 02:02:32",
+      "https://news.ycombinator.com/item?id=45587280"
+    ],
+    [
+      "Disk Prices",
+      "https://diskprices.com/?locale=us"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 01:29:39",
+      "https://news.ycombinator.com/item?id=45587072"
+    ],
+    [
+      "Why The Pentagon run the best schools and the safest nuclear program",
+      "https://www.governance.fyi/p/the-pentagons-best-schools-and-safest"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 01:10:50",
+      "https://news.ycombinator.com/item?id=45586962"
+    ],
+    [
+      "New England's last coal plant has stopped operating, according to its owners",
+      "https://www.nhpr.org/nh-news/2025-10-06/new-englands-last-coal-plant-has-stopped-operating-according-to-its-owners"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 00:49:25",
+      "https://news.ycombinator.com/item?id=45586776"
+    ],
+    [
+      "Nvidia DGX Spark: great hardware, early days for the ecosystem",
+      "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 23:57:59",
+      "https://news.ycombinator.com/item?id=45586423"
+    ],
+    [
+      "Ally Petitt: Youngest OSCP at 16yo. Over 11 CVEs by 18",
+      "https://ally-petitt.com/en/posts/2024-05-07_how-i-became-a-hacker-before-i-finished-high-school/"
     ]
   ],
   [
@@ -17,16 +67,6 @@
     [
       "FSF announces Librephone project",
       "https://www.fsf.org/news/librephone-project"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 23:36:26",
-      "https://news.ycombinator.com/item?id=45586282"
-    ],
-    [
-      "Interior cancels largest solar project in North America",
-      "https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071"
     ]
   ],
   [
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2025-10-14, 20:32:32",
-      "https://news.ycombinator.com/item?id=45584464"
-    ],
-    [
-      "Why Is SQLite Coded In C",
-      "https://www.sqlite.org/whyc.html"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 20:17:44",
       "https://news.ycombinator.com/item?id=45584281"
     ],
@@ -77,16 +107,6 @@
     [
       "AppLovin nonconsensual installs",
       "https://www.benedelman.org/applovin-nonconsensual-installs/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 19:52:39",
-      "https://news.ycombinator.com/item?id=45584017"
-    ],
-    [
-      "Show HN: Wispbit - Linter for AI coding agents",
-      "https://wispbit.com"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-10-14, 16:53:24",
-      "https://news.ycombinator.com/item?id=45582268"
-    ],
-    [
-      "Prefix sum: 20 GB/s (2.6x baseline)",
-      "https://github.com/ashtonsix/perf-portfolio/tree/main/delta"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 16:07:37",
       "https://news.ycombinator.com/item?id=45581735"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-10-13, 05:31:04",
-      "https://news.ycombinator.com/item?id=45564968"
-    ],
-    [
-      "Transverse Mercator with an accuracy of a few nanometers (2010)",
-      "https://arxiv.org/abs/1002.1417"
-    ]
-  ],
-  [
-    [
       "2025-10-10, 21:54:43",
       "https://news.ycombinator.com/item?id=45544235"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-10-08, 13:45:30",
-      "https://news.ycombinator.com/item?id=45516134"
+      "2025-10-09, 16:00:03",
+      "https://news.ycombinator.com/item?id=45529534"
     ],
     [
-      "Testing a compiler-driven full-stack web framework",
-      "https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework"
+      "Interviewing Intel's Chief Architect of x86 Cores",
+      "https://chipsandcheese.com/p/interviewing-intels-chief-architect"
     ]
   ],
   [
