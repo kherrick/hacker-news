@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 14:31:54](https://news.ycombinator.com/item?id=45593213) - [Reverse Engineering a 27MHz RC Toy Communication Using RTL SDR](https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/)
 * [2025-10-15, 14:04:13](https://news.ycombinator.com/item?id=45592766) - [You are the scariest monster in the woods](https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods)
 * [2025-10-15, 13:52:15](https://news.ycombinator.com/item?id=45592585) - [Oops It's a kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers](https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html)
 * [2025-10-15, 13:41:44](https://news.ycombinator.com/item?id=45592401) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)

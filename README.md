@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 14:31:54](https://news.ycombinator.com/item?id=45593213) - [Reverse Engineering a 27MHz RC Toy Communication Using RTL SDR](https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/)
 * [2025-10-15, 14:04:13](https://news.ycombinator.com/item?id=45592766) - [You are the scariest monster in the woods](https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods)
 * [2025-10-15, 13:52:15](https://news.ycombinator.com/item?id=45592585) - [Oops It's a kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers](https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html)
 * [2025-10-15, 13:41:44](https://news.ycombinator.com/item?id=45592401) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
@@ -24,7 +25,6 @@
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
 * [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-14, 18:26:00](https://news.ycombinator.com/item?id=45583180) - [Beliefs that are true for regular software but false when applied to AI](https://boydkane.com/essays/boss)
-* [2025-10-14, 15:34:51](https://news.ycombinator.com/item?id=45581288) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
 * [2025-10-09, 17:55:06](https://news.ycombinator.com/item?id=45530918) - [OVM6948 Miniature Camera Module [pdf]](https://www.ovt.com/wp-content/uploads/2023/03/OVM6948-PB-v1.5-WEB.pdf)
 * [2025-10-08, 20:30:34](https://news.ycombinator.com/item?id=45520263) - [Flapping-wing robot achieves self-takeoff by adopting reconfigurable mechanisms](https://www.science.org/doi/10.1126/sciadv.adx0465)
