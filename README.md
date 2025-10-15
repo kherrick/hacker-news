@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 18:06:41](https://news.ycombinator.com/item?id=45596359) - [Clone-Wars: 100 open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
 * [2025-10-15, 17:52:32](https://news.ycombinator.com/item?id=45596168) - [Claude Haiku 4.5 System Card [pdf]](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)
 * [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 * [2025-10-15, 15:00:13](https://news.ycombinator.com/item?id=45593665) - [David Byrne Radio](https://www.davidbyrne.com/radio#filter=all&sortby=date:desc)
@@ -21,7 +22,6 @@
 * [2025-10-15, 11:40:09](https://news.ycombinator.com/item?id=45590900) - [Ireland is making basic income for artists program permanent](https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/)
 * [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Leaving serverless led to performance improvement and a simplified architecture](https://www.unkey.com/blog/serverless-exit)
 * [2025-10-15, 11:11:41](https://news.ycombinator.com/item?id=45590681) - [Bots are getting good at mimicking engagement](https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake)
-* [2025-10-15, 07:01:53](https://news.ycombinator.com/item?id=45588959) - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
 * [2025-10-15, 06:21:04](https://news.ycombinator.com/item?id=45588689) - [Just talk to it – A way of agentic engineering](https://steipete.me/posts/just-talk-to-it)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
 * [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)

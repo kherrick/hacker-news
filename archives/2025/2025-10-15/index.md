@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 18:06:41](https://news.ycombinator.com/item?id=45596359) - [Clone-Wars: 100 open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
 * [2025-10-15, 17:52:32](https://news.ycombinator.com/item?id=45596168) - [Claude Haiku 4.5 System Card [pdf]](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)
 * [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 * [2025-10-15, 15:00:13](https://news.ycombinator.com/item?id=45593665) - [David Byrne Radio](https://www.davidbyrne.com/radio#filter=all&sortby=date:desc)
