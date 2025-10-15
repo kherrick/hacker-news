@@ -35,6 +35,7 @@
 * [2025-10-14, 15:23:09](https://news.ycombinator.com/item?id=45581146) - [Subverting Telegram's End-to-End Encryption](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
 * [2025-10-14, 15:18:06](https://news.ycombinator.com/item?id=45581088) - [RFK Jr. Must Go](https://quillette.com/2025/09/17/rfk-jr-must-go-hhs-health-vaccines/)
 * [2025-10-14, 15:12:21](https://news.ycombinator.com/item?id=45581029) - [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
+* [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
 * [2025-10-14, 14:53:25](https://news.ycombinator.com/item?id=45580818) - [Tesla is at risk of losing subsidies in Korea over widespread battery failures](https://electrek.co/2025/10/14/tesla-is-at-risk-of-lossing-subsidies-in-korea-over-widespread-battery-failures/)
 * [2025-10-14, 14:49:56](https://news.ycombinator.com/item?id=45580771) - [Show HN: Metorial (YC F25) – Vercel for MCP](https://github.com/metorial/metorial)
 * [2025-10-14, 14:46:17](https://news.ycombinator.com/item?id=45580724) - [Scientists create 'Superwood' that's 10 times stronger than steel](https://www.cnn.com/science/superwood-10-times-stronger-than-steel-spc)
