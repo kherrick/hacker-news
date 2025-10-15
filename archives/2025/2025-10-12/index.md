@@ -57,6 +57,7 @@
 * [2025-10-12, 06:17:52](https://news.ycombinator.com/item?id=45555727) - [Three ways formally verified code can go wrong in practice](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
 * [2025-10-12, 05:39:22](https://news.ycombinator.com/item?id=45555570) - [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
 * [2025-10-12, 05:31:00](https://news.ycombinator.com/item?id=45555523) - [Show HN: I made an esoteric programming language that's read like a spellbook](https://github.com/sirbread/spellscript)
+* [2025-10-12, 05:11:11](https://news.ycombinator.com/item?id=45555426) - [Monads are too powerful: The Expressiveness Spectrum](https://chrispenner.ca/posts/expressiveness-spectrum)
 * [2025-10-12, 04:46:57](https://news.ycombinator.com/item?id=45555308) - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
 * [2025-10-12, 03:53:53](https://news.ycombinator.com/item?id=45555065) - [Neighbor shielded 7-year-old during South Shore federal raid](https://chicago.suntimes.com/immigration/2025/10/10/neighbor-shielded-7-year-old-during-south-shore-federal-raid-i-didnt-want-them-to-take-her)
 * [2025-10-12, 03:50:38](https://news.ycombinator.com/item?id=45555053) - [Major security breach at Austrian AI startup localmind.ai](https://localmind.ai/)
