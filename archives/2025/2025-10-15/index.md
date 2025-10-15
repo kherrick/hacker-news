@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 12:00:35](https://news.ycombinator.com/item?id=45591082) - [Helpcare AI (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45591082)
+* [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – the modern IRC client I hope will outlive me](https://github.com/squidowl/halloy)
+* [2025-10-15, 11:40:09](https://news.ycombinator.com/item?id=45590900) - [Ireland Is Making Basic Income for Artists Program Permanent](https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/)
+* [2025-10-15, 11:26:41](https://news.ycombinator.com/item?id=45590800) - [Esports scholarship at Deutsche Bahn (German railways)](https://db.jobs/de-de/esports-11092734)
+* [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Why We're Leaving Serverless](https://www.unkey.com/blog/serverless-exit)
 * [2025-10-15, 11:11:41](https://news.ycombinator.com/item?id=45590681) - [I analyzed 200 e-commerce sites and found 73% of their traffic is fake](https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake)
+* [2025-10-15, 10:19:21](https://news.ycombinator.com/item?id=45590302) - [CVE-2025-55315: Asp.net Security Feature Bypass Vulnerability [9.9 Critical]](https://nvd.nist.gov/vuln/detail/CVE-2025-55315)
 * [2025-10-15, 10:10:20](https://news.ycombinator.com/item?id=45590236) - [Britain has wasted £1,112,293,718 switching off wind turbines in 2025](https://wastedwind.energy/)
 * [2025-10-15, 07:52:40](https://news.ycombinator.com/item?id=45589327) - [Europe's Digital Sovereignty Paradox – \"Chat Control\" Update](https://www.process-one.net/blog/chat-control-update-oct-2025/)
 * [2025-10-15, 07:01:53](https://news.ycombinator.com/item?id=45588959) - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
