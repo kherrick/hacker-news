@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-15, 16:55:06",
+      "https://news.ycombinator.com/item?id=45595403"
+    ],
+    [
+      "Claude Haiku 4.5",
+      "https://www.anthropic.com/news/claude-haiku-4-5"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 15:00:13",
       "https://news.ycombinator.com/item?id=45593665"
     ],
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=45593213"
     ],
     [
-      "Reverse Engineering a 27MHz RC Toy Communication Using RTL SDR",
+      "Reverse engineering a 27MHz RC toy communication using RTL SDR",
       "https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 14:04:13",
-      "https://news.ycombinator.com/item?id=45592766"
-    ],
-    [
-      "You are the scariest monster in the woods",
-      "https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45592401"
     ],
     [
-      "Pwning the Entire Nix Ecosystem",
+      "Pwning the Nix ecosystem",
       "https://ptrpa.ws/nixpkgs-actions-abuse"
     ]
   ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-10-15, 12:08:04",
-      "https://news.ycombinator.com/item?id=45591149"
-    ],
-    [
-      "Garbage Collection for Rust: The Finalizer Frontier",
-      "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 12:00:35",
       "https://news.ycombinator.com/item?id=45591082"
     ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=45590949"
     ],
     [
-      "Show HN: Halloy – the modern IRC client I hope will outlive me",
+      "Show HN: Halloy – Modern IRC client",
       "https://github.com/squidowl/halloy"
     ]
   ],
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=45590681"
     ],
     [
-      "Something is broken with the way we measure success on the internet",
+      "Bots are getting good at mimicking engagement",
       "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "HRM Analysis by Arc Prize Organizers",
       "https://arcprize.org/blog/hrm-analysis"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 15:11:38",
+      "https://news.ycombinator.com/item?id=45492274"
+    ],
+    [
+      "Breaking \"provably correct\" Leftpad",
+      "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/"
     ]
   ]
 ]
