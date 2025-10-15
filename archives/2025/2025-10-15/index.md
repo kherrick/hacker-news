@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 07:01:53](https://news.ycombinator.com/item?id=45588959) - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
 * [2025-10-15, 05:09:44](https://news.ycombinator.com/item?id=45588283) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
 * [2025-10-15, 02:04:26](https://news.ycombinator.com/item?id=45587289) - [Can We Know Whether a Profiler Is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
