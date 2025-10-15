@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 23:42:12](https://news.ycombinator.com/item?id=45599727) - [Writing an LLM from scratch, part 22 – training our LLM](https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm)
+* [2025-10-15, 23:36:50](https://news.ycombinator.com/item?id=45599669) - [So YouTube seems to be down](https://www.youtube.com/)
+* [2025-10-15, 23:24:47](https://news.ycombinator.com/item?id=45599567) - [IRS Open Sources its Fact Graph](https://github.com/IRS-Public/fact-graph)
 * [2025-10-15, 22:53:27](https://news.ycombinator.com/item?id=45599308) - [Ask HN: Can't get hired – what's next?](https://news.ycombinator.com/item?id=45599308)
 * [2025-10-15, 22:36:16](https://news.ycombinator.com/item?id=45599150) - [Google runs Israel's ads: 'There is food in Gaza'](https://www.washingtonpost.com/technology/2025/10/15/israel-ads-youtube-famine-gaza)
 * [2025-10-15, 22:28:55](https://news.ycombinator.com/item?id=45599084) - [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
