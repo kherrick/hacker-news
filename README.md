@@ -10,6 +10,7 @@
 * [2025-10-15, 13:52:15](https://news.ycombinator.com/item?id=45592585) - [A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers](https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html)
 * [2025-10-15, 13:41:44](https://news.ycombinator.com/item?id=45592401) - [Pwning the Nix ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 13:33:27](https://news.ycombinator.com/item?id=45592271) - [F5 says hackers stole undisclosed BIG-IP flaws, source code](https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/)
+* [2025-10-15, 13:10:31](https://news.ycombinator.com/item?id=45591905) - [iPad Pro with M5 chip](https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/)
 * [2025-10-15, 13:10:08](https://news.ycombinator.com/item?id=45591902) - [M5 MacBook Pro](https://www.apple.com/macbook-pro/)
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 12:56:12](https://news.ycombinator.com/item?id=45591707) - [I almost got hacked by a 'job interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
@@ -29,7 +30,6 @@
 * [2025-10-08, 23:25:51](https://news.ycombinator.com/item?id=45521779) - [Americans' love of billiards paved the way for synthetic plastics](https://invention.si.edu/invention-stories/imitation-ivory-and-power-play)
 * [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The brain navigates new spaces by 'darting' between reality and mental maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
 * [2025-10-07, 22:25:58](https://news.ycombinator.com/item?id=45509713) - [Princeton Engineering Anomalies Research](https://pearlab.icrl.org/)
-* [2025-10-06, 15:11:38](https://news.ycombinator.com/item?id=45492274) - [Breaking \"provably correct\" Leftpad](https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/)
 
 ## [Archives](archives/index.md)
 
