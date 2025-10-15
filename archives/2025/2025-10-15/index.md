@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 20:57:30](https://news.ycombinator.com/item?id=45598309) - [Gravity Can Explain the Collapse of the Wavefunction (Sabine Hossenfelder)](https://arxiv.org/abs/2510.11037)
 * [2025-10-15, 18:59:54](https://news.ycombinator.com/item?id=45596960) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 * [2025-10-15, 18:27:35](https://news.ycombinator.com/item?id=45596602) - [Things I've learned in my 7 Years Implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
 * [2025-10-15, 18:06:41](https://news.ycombinator.com/item?id=45596359) - [Clone-Wars: 100 open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)

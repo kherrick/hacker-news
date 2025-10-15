@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 20:57:30](https://news.ycombinator.com/item?id=45598309) - [Gravity Can Explain the Collapse of the Wavefunction (Sabine Hossenfelder)](https://arxiv.org/abs/2510.11037)
 * [2025-10-15, 18:27:35](https://news.ycombinator.com/item?id=45596602) - [Things I've learned in my 7 years implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
 * [2025-10-15, 17:43:27](https://news.ycombinator.com/item?id=45596059) - [Recursive Language Models (RLMs)](https://alexzhang13.github.io/blog/2025/rlm/)
 * [2025-10-15, 17:21:32](https://news.ycombinator.com/item?id=45595760) - [Show HN: Specific (YC F25) – Build backends with specifications instead of code](https://specific.dev/)
@@ -10,7 +11,6 @@
 * [2025-10-15, 13:52:15](https://news.ycombinator.com/item?id=45592585) - [A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers](https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html)
 * [2025-10-15, 13:41:44](https://news.ycombinator.com/item?id=45592401) - [Pwning the Nix ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 13:33:27](https://news.ycombinator.com/item?id=45592271) - [F5 says hackers stole undisclosed BIG-IP flaws, source code](https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/)
-* [2025-10-15, 13:10:31](https://news.ycombinator.com/item?id=45591905) - [iPad Pro with M5 chip](https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/)
 * [2025-10-15, 13:10:08](https://news.ycombinator.com/item?id=45591902) - [M5 MacBook Pro](https://www.apple.com/macbook-pro/)
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 12:56:12](https://news.ycombinator.com/item?id=45591707) - [I almost got hacked by a 'job interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
