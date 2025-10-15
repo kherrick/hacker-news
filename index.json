@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-15, 23:42:12",
+      "https://news.ycombinator.com/item?id=45599727"
+    ],
+    [
+      "Writing an LLM from scratch, part 22 – training our LLM",
+      "https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 23:36:50",
+      "https://news.ycombinator.com/item?id=45599669"
+    ],
+    [
+      "So YouTube seems to be down",
+      "https://www.youtube.com/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 23:24:47",
+      "https://news.ycombinator.com/item?id=45599567"
+    ],
+    [
+      "IRS Open Sources its Fact Graph",
+      "https://github.com/IRS-Public/fact-graph"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 22:28:55",
       "https://news.ycombinator.com/item?id=45599084"
     ],
@@ -37,16 +67,6 @@
     [
       "Next Steps for the Caddy Project Maintainership",
       "https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 18:27:35",
-      "https://news.ycombinator.com/item?id=45596602"
-    ],
-    [
-      "Things I've learned in my 7 years implementing AI",
-      "https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Recreating the Canon Cat document interface",
       "https://lab.alexanderobenauer.com/updates/the-jasper-report"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 14:31:54",
-      "https://news.ycombinator.com/item?id=45593213"
-    ],
-    [
-      "Reverse engineering a 27MHz RC toy communication using RTL SDR",
-      "https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Pixnapping Attack",
       "https://www.pixnapping.com/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 23:47:08",
-      "https://news.ycombinator.com/item?id=45586339"
-    ],
-    [
-      "FSF announces Librephone project",
-      "https://www.fsf.org/news/librephone-project"
     ]
   ],
   [
