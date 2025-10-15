@@ -86,6 +86,7 @@
 * [2025-10-08, 07:53:29](https://news.ycombinator.com/item?id=45513313) - [Clockss: Digital preservation services run by academic publishers and libraries](https://clockss.org/)
 * [2025-10-08, 07:41:56](https://news.ycombinator.com/item?id=45513234) - [Every LLM Is Its Own Media Channel](https://www.aivojournal.org/every-llm-is-its-own-media-channel/)
 * [2025-10-08, 06:58:00](https://news.ycombinator.com/item?id=45512962) - [Tauri binding for Python through Pyo3](https://github.com/pytauri/pytauri)
+* [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
 * [2025-10-08, 05:44:53](https://news.ycombinator.com/item?id=45512494) - [Reflections on Big Tech](https://micro.mu/blog/2025/10/07/reflection-on-big-tech.html)
 * [2025-10-08, 05:28:00](https://news.ycombinator.com/item?id=45512388) - [Static Bundle Object: Modernizing Static Linking](https://medium.com/@eyal.itkin/static-bundle-object-modernizing-static-linking-f1be36175064)
 * [2025-10-08, 05:24:51](https://news.ycombinator.com/item?id=45512373) - [NanoMi: Source-available transmission electron microscope](https://nanomi.org/)

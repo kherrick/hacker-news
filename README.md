@@ -27,9 +27,9 @@
 * [2025-10-09, 12:42:06](https://news.ycombinator.com/item?id=45526846) - [A Early History of Algebraic Data Types](https://www.hillelwayne.com/post/algdt-history/)
 * [2025-10-08, 20:47:20](https://news.ycombinator.com/item?id=45520462) - [Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
 * [2025-10-08, 13:24:53](https://news.ycombinator.com/item?id=45515915) - [Hacking the Humane AI Pin](https://writings.agg.im/posts/hacking_ai_pin/)
+* [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
 * [2025-10-07, 16:05:01](https://news.ycombinator.com/item?id=45504902) - [CSS for Styling a Markdown Post](https://webdev.bryanhogan.com/miscellaneous/styling-markdown/)
 * [2025-10-07, 02:43:03](https://news.ycombinator.com/item?id=45498887) - [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
-* [2025-10-06, 13:44:36](https://news.ycombinator.com/item?id=45491368) - [Fixing bugs automatically from a screen recording](https://nitpicks.ai)
 
 ## [Archives](archives/index.md)
 
