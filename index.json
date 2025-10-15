@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-15, 13:11:25",
-      "https://news.ycombinator.com/item?id=45591919"
+      "2025-10-15, 13:41:44",
+      "https://news.ycombinator.com/item?id=45592401"
     ],
     [
-      "Apple Vision Pro",
-      "https://www.apple.com/apple-vision-pro/"
+      "Pwning the Entire Nix Ecosystem",
+      "https://ptrpa.ws/nixpkgs-actions-abuse"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 13:10:31",
+      "https://news.ycombinator.com/item?id=45591905"
+    ],
+    [
+      "Apple introduces the powerful new iPad Pro with the M5 chip",
+      "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45591801"
     ],
     [
-      "Apple Vision Pro upgraded with the powerful M5 chip",
+      "Apple Vision Pro upgraded with M5 chip",
       "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=45591799"
     ],
     [
-      "Apple unleashes M5, the next big leap in AI performance for Apple Silicon",
+      "Apple M5 chip",
       "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/"
     ]
   ],
@@ -81,11 +91,21 @@
   ],
   [
     [
+      "2025-10-15, 11:43:01",
+      "https://news.ycombinator.com/item?id=45590921"
+    ],
+    [
+      "Show HN: Trott – search,sort,extract social media videos(ig,yt,tiktok)",
+      "https://trott.hattimatimlabs.in"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 11:40:09",
       "https://news.ycombinator.com/item?id=45590900"
     ],
     [
-      "Ireland Is Making Basic Income for Artists Program Permanent",
+      "Ireland is making basic income for artists program permanent",
       "https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/"
     ]
   ],
@@ -127,16 +147,6 @@
     [
       "CVE-2025-55315: Asp.net Security Feature Bypass Vulnerability [9.9 Critical]",
       "https://nvd.nist.gov/vuln/detail/CVE-2025-55315"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 10:10:20",
-      "https://news.ycombinator.com/item?id=45590236"
-    ],
-    [
-      "Britain has wasted £1,112,293,718 switching off wind turbines in 2025",
-      "https://wastedwind.energy/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-10-14, 18:30:57",
-      "https://news.ycombinator.com/item?id=45583243"
-    ],
-    [
-      "Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM",
-      "https://www.phoronix.com/review/intel-crescent-island"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 18:26:00",
       "https://news.ycombinator.com/item?id=45583180"
     ],
@@ -217,16 +217,6 @@
     [
       "How bad can a $2.97 ADC be?",
       "https://excamera.substack.com/p/how-bad-can-a-297-adc-be"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 16:07:37",
-      "https://news.ycombinator.com/item?id=45581735"
-    ],
-    [
-      "How AI hears accents: An audible visualization of accent clusters",
-      "https://accent-explorer.boldvoice.com/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps",
       "https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/"
+    ]
+  ],
+  [
+    [
+      "2025-10-08, 03:54:36",
+      "https://news.ycombinator.com/item?id=45511888"
+    ],
+    [
+      "HRM Analysis by Arc Prize Organizers",
+      "https://arcprize.org/blog/hrm-analysis"
     ]
   ],
   [
