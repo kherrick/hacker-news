@@ -2,7 +2,6 @@
 
 * [2025-10-15, 21:54:14](https://news.ycombinator.com/item?id=45598776) - [I Hate Acrobat](https://www.vincentuden.xyz/blog/pdf-reader)
 * [2025-10-15, 21:32:19](https://news.ycombinator.com/item?id=45598590) - [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
-* [2025-10-15, 20:57:30](https://news.ycombinator.com/item?id=45598309) - [Gravity Can Explain the Collapse of the Wavefunction (Sabine Hossenfelder)](https://arxiv.org/abs/2510.11037)
 * [2025-10-15, 18:27:35](https://news.ycombinator.com/item?id=45596602) - [Things I've learned in my 7 years implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
 * [2025-10-15, 17:43:27](https://news.ycombinator.com/item?id=45596059) - [Recursive Language Models (RLMs)](https://alexzhang13.github.io/blog/2025/rlm/)
 * [2025-10-15, 17:18:13](https://news.ycombinator.com/item?id=45595724) - [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
@@ -22,6 +21,7 @@
 * [2025-10-15, 11:44:31](https://news.ycombinator.com/item?id=45590935) - [Reverse engineering iWork](https://andrews.substack.com/p/reverse-engineering-iwork)
 * [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Leaving serverless led to performance improvement and a simplified architecture](https://www.unkey.com/blog/serverless-exit)
 * [2025-10-15, 11:11:41](https://news.ycombinator.com/item?id=45590681) - [Bots are getting good at mimicking engagement](https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake)
+* [2025-10-15, 06:21:04](https://news.ycombinator.com/item?id=45588689) - [Just talk to it – A way of agentic engineering](https://steipete.me/posts/just-talk-to-it)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
 * [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-12, 05:11:11](https://news.ycombinator.com/item?id=45555426) - [Monads are too powerful: The expressiveness spectrum](https://chrispenner.ca/posts/expressiveness-spectrum)
