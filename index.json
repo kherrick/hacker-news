@@ -1,12 +1,72 @@
 [
   [
     [
+      "2025-10-15, 12:00:35",
+      "https://news.ycombinator.com/item?id=45591082"
+    ],
+    [
+      "Helpcare AI (YC F24) Is Hiring",
+      "https://news.ycombinator.com/item?id=45591082"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 11:45:47",
+      "https://news.ycombinator.com/item?id=45590949"
+    ],
+    [
+      "Show HN: Halloy – the modern IRC client I hope will outlive me",
+      "https://github.com/squidowl/halloy"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 11:40:09",
+      "https://news.ycombinator.com/item?id=45590900"
+    ],
+    [
+      "Ireland Is Making Basic Income for Artists Program Permanent",
+      "https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 11:26:41",
+      "https://news.ycombinator.com/item?id=45590800"
+    ],
+    [
+      "Esports scholarship at Deutsche Bahn (German railways)",
+      "https://db.jobs/de-de/esports-11092734"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 11:20:35",
+      "https://news.ycombinator.com/item?id=45590756"
+    ],
+    [
+      "Why We're Leaving Serverless",
+      "https://www.unkey.com/blog/serverless-exit"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 11:11:41",
       "https://news.ycombinator.com/item?id=45590681"
     ],
     [
       "I analyzed 200 e-commerce sites and found 73% of their traffic is fake",
       "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 10:19:21",
+      "https://news.ycombinator.com/item?id=45590302"
+    ],
+    [
+      "CVE-2025-55315: Asp.net Security Feature Bypass Vulnerability [9.9 Critical]",
+      "https://nvd.nist.gov/vuln/detail/CVE-2025-55315"
     ]
   ],
   [
@@ -61,32 +121,12 @@
   ],
   [
     [
-      "2025-10-15, 00:49:25",
-      "https://news.ycombinator.com/item?id=45586776"
-    ],
-    [
-      "Nvidia DGX Spark: great hardware, early days for the ecosystem",
-      "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 23:47:08",
       "https://news.ycombinator.com/item?id=45586339"
     ],
     [
       "FSF announces Librephone project",
       "https://www.fsf.org/news/librephone-project"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 20:36:01",
-      "https://news.ycombinator.com/item?id=45584498"
-    ],
-    [
-      "Surveillance data challenges what we thought we knew about location tracking",
-      "https://www.lighthousereports.com/investigation/surveillance-secrets/"
     ]
   ],
   [
@@ -107,26 +147,6 @@
     [
       "Unpacking Cloudflare Workers CPU Performance Benchmarks",
       "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 19:27:41",
-      "https://news.ycombinator.com/item?id=45583787"
-    ],
-    [
-      "How to turn liquid glass into a solid interface",
-      "https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 18:40:23",
-      "https://news.ycombinator.com/item?id=45583336"
-    ],
-    [
-      "What Americans die from vs. what the news reports on",
-      "https://ourworldindata.org/does-the-news-reflect-what-we-die-from"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "How AI hears accents: An audible visualization of accent clusters",
       "https://accent-explorer.boldvoice.com/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 15:34:51",
-      "https://news.ycombinator.com/item?id=45581288"
-    ],
-    [
-      "A modern approach to preventing CSRF in Go",
-      "https://www.alexedwards.net/blog/preventing-csrf-in-go"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps",
       "https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 16:05:01",
-      "https://news.ycombinator.com/item?id=45504902"
-    ],
-    [
-      "CSS for Styling a Markdown Post",
-      "https://webdev.bryanhogan.com/miscellaneous/styling-markdown/"
     ]
   ],
   [
