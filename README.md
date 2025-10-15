@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 05:09:44](https://news.ycombinator.com/item?id=45588283) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
 * [2025-10-15, 02:04:26](https://news.ycombinator.com/item?id=45587289) - [Can we know whether a profiler is accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
 * [2025-10-15, 02:02:32](https://news.ycombinator.com/item?id=45587280) - [Disk Prices](https://diskprices.com/?locale=us)
 * [2025-10-15, 01:29:39](https://news.ycombinator.com/item?id=45587072) - [Why The Pentagon run the best schools and the safest nuclear program](https://www.governance.fyi/p/the-pentagons-best-schools-and-safest)
@@ -20,7 +21,6 @@
 * [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
 * [2025-10-14, 14:49:56](https://news.ycombinator.com/item?id=45580771) - [Show HN: Metorial (YC F25) – Vercel for MCP](https://github.com/metorial/metorial)
 * [2025-10-14, 14:45:02](https://news.ycombinator.com/item?id=45580699) - [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
-* [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of array languages](https://ktye.github.io/)
 * [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
 * [2025-10-10, 22:20:57](https://news.ycombinator.com/item?id=45544500) - [Printing Petscii Faster](https://retrogamecoders.com/printing-petscii-faster/)
 * [2025-10-10, 21:54:43](https://news.ycombinator.com/item?id=45544235) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
@@ -28,8 +28,8 @@
 * [2025-10-08, 20:47:20](https://news.ycombinator.com/item?id=45520462) - [Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
 * [2025-10-08, 13:24:53](https://news.ycombinator.com/item?id=45515915) - [Hacking the Humane AI Pin](https://writings.agg.im/posts/hacking_ai_pin/)
 * [2025-10-07, 16:05:01](https://news.ycombinator.com/item?id=45504902) - [CSS for Styling a Markdown Post](https://webdev.bryanhogan.com/miscellaneous/styling-markdown/)
+* [2025-10-07, 08:04:49](https://news.ycombinator.com/item?id=45500560) - [Show HN: Greenonion.ai – AI-Powered Design Assistant](https://exuberant-premise-723012.framer.app/)
 * [2025-10-07, 02:43:03](https://news.ycombinator.com/item?id=45498887) - [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
-* [2025-10-06, 12:41:52](https://news.ycombinator.com/item?id=45490737) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
 
 ## [Archives](archives/index.md)
 
