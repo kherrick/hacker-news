@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-10-14, 20:32:32",
+      "https://news.ycombinator.com/item?id=45584464"
+    ],
+    [
+      "Why Is SQLite Coded In C",
+      "https://www.sqlite.org/whyc.html"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 20:17:44",
       "https://news.ycombinator.com/item?id=45584281"
     ],
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2025-10-14, 15:08:38",
+      "https://news.ycombinator.com/item?id=45580981"
+    ],
+    [
+      "DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia",
+      "https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 14:49:56",
       "https://news.ycombinator.com/item?id=45580771"
     ],
@@ -187,16 +207,6 @@
     [
       "Astronomers 'image' a mysterious dark object in the distant Universe",
       "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 11:01:43",
-      "https://news.ycombinator.com/item?id=45578540"
-    ],
-    [
-      "Zoo of array languages",
-      "https://ktye.github.io/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Hacking the Humane AI Pin",
       "https://writings.agg.im/posts/hacking_ai_pin/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 20:32:55",
-      "https://news.ycombinator.com/item?id=45508462"
-    ],
-    [
-      "Beyond the SQLite single-writer limitation with concurrent writes",
-      "https://turso.tech/blog/beyond-the-single-writer-limitation-with-tursos-concurrent-writes"
     ]
   ],
   [
