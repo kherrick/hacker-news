@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 13:11:25](https://news.ycombinator.com/item?id=45591919) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
+* [2025-10-15, 13:03:19](https://news.ycombinator.com/item?id=45591801) - [Apple Vision Pro upgraded with the powerful M5 chip](https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/)
+* [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple unleashes M5, the next big leap in AI performance for Apple Silicon](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 12:16:16](https://news.ycombinator.com/item?id=45591222) - [Show HN: Scriber Pro – Transcribe 4.5hr video in 3.5min, 100% offline on Mac](https://scriberpro.cc/hn/)
+* [2025-10-15, 12:08:04](https://news.ycombinator.com/item?id=45591149) - [Garbage Collection for Rust: The Finalizer Frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
 * [2025-10-15, 12:01:05](https://news.ycombinator.com/item?id=45591085) - [Irish privacy regulator picks ex-Meta lobbyist as third commissioner](https://www.euractiv.com/news/irish-privacy-regulator-picks-ex-meta-lobbyist-as-third-commissioner/)
 * [2025-10-15, 12:00:35](https://news.ycombinator.com/item?id=45591082) - [Helpcare AI (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45591082)
 * [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – the modern IRC client I hope will outlive me](https://github.com/squidowl/halloy)
