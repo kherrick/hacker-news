@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 17:52:32](https://news.ycombinator.com/item?id=45596168) - [Claude Haiku 4.5 System Card [pdf]](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)
 * [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 * [2025-10-15, 15:00:13](https://news.ycombinator.com/item?id=45593665) - [David Byrne Radio](https://www.davidbyrne.com/radio#filter=all&sortby=date:desc)
 * [2025-10-15, 14:42:14](https://news.ycombinator.com/item?id=45593390) - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
@@ -24,11 +25,10 @@
 * [2025-10-15, 06:21:04](https://news.ycombinator.com/item?id=45588689) - [Just talk to it – A way of agentic engineering](https://steipete.me/posts/just-talk-to-it)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
 * [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
-* [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
+* [2025-10-12, 11:50:53](https://news.ycombinator.com/item?id=45557504) - [ChatGPT – Truth over Comfort Instruction Set](https://www.organizingcreativity.com/2025/06/chatgpt-truth-over-comfort-instruction-set/)
 * [2025-10-10, 07:58:31](https://news.ycombinator.com/item?id=45536373) - [C++26: range support for std:optional](https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional)
 * [2025-10-08, 23:25:51](https://news.ycombinator.com/item?id=45521779) - [Americans' love of billiards paved the way for synthetic plastics](https://invention.si.edu/invention-stories/imitation-ivory-and-power-play)
 * [2025-10-08, 20:30:34](https://news.ycombinator.com/item?id=45520263) - [Flapping-wing robot achieves self-takeoff by adopting reconfigurable mechanisms](https://www.science.org/doi/10.1126/sciadv.adx0465)
-* [2025-10-08, 03:54:36](https://news.ycombinator.com/item?id=45511888) - [Hidden drivers of HRM's performance on ARC-AGI](https://arcprize.org/blog/hrm-analysis)
 * [2025-10-06, 15:11:38](https://news.ycombinator.com/item?id=45492274) - [Breaking \"provably correct\" Leftpad](https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/)
 
 ## [Archives](archives/index.md)
