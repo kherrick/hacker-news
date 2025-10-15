@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-14, 23:36:26](https://news.ycombinator.com/item?id=45586282) - [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071)
 * [2025-10-14, 23:28:56](https://news.ycombinator.com/item?id=45586219) - [Meta Erases Gaza Journalist's Instagram](https://twitter.com/DropSiteNews/status/1977795050206576763)
 * [2025-10-14, 22:36:40](https://news.ycombinator.com/item?id=45585869) - [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)

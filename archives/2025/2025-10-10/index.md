@@ -7,6 +7,7 @@
 * [2025-10-10, 23:51:13](https://news.ycombinator.com/item?id=45545098) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 23:14:02](https://news.ycombinator.com/item?id=45544890) - [In a post-truth world truth-seeking is more important](https://iai.tv/articles/in-a-post-truth-world-truth-seeking-is-more-important-than-ever-auid-3382)
 * [2025-10-10, 22:37:16](https://news.ycombinator.com/item?id=45544636) - [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
+* [2025-10-10, 21:54:43](https://news.ycombinator.com/item?id=45544235) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2025-10-10, 21:53:48](https://news.ycombinator.com/item?id=45544228) - [(Re)Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
 * [2025-10-10, 21:35:22](https://news.ycombinator.com/item?id=45544044) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 * [2025-10-10, 21:18:55](https://news.ycombinator.com/item?id=45543899) - [Tangled, a Git collaboration platform, built on atproto](https://blog.tangled.org/intro)

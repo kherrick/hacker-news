@@ -63,6 +63,7 @@
 * [2025-10-13, 08:33:34](https://news.ycombinator.com/item?id=45566123) - [LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives](https://arxiv.org/abs/2510.03761)
 * [2025-10-13, 07:15:28](https://news.ycombinator.com/item?id=45565646) - [HTTP3 Explained](https://http3-explained.haxx.se)
 * [2025-10-13, 05:32:52](https://news.ycombinator.com/item?id=45564981) - [Framework embraces deeply extremist views](https://www.osnews.com/story/143520/in-bizarre-move-framework-embraces-deeply-extremist-views/)
+* [2025-10-13, 05:31:04](https://news.ycombinator.com/item?id=45564968) - [Transverse Mercator with an accuracy of a few nanometers (2010)](https://arxiv.org/abs/1002.1417)
 * [2025-10-13, 04:14:29](https://news.ycombinator.com/item?id=45564619) - [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
 * [2025-10-13, 02:39:25](https://news.ycombinator.com/item?id=45564196) - [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
 * [2025-10-13, 02:15:25](https://news.ycombinator.com/item?id=45564077) - [Despite what's happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
