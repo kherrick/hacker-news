@@ -62,6 +62,7 @@
 * [2025-10-10, 08:13:55](https://news.ycombinator.com/item?id=45536456) - [How A Scottish maritime museum ended up in Israel's 3D propaganda videos](https://www.972mag.com/israeli-army-3d-propaganda-animations/)
 * [2025-10-10, 07:58:31](https://news.ycombinator.com/item?id=45536373) - [C++26: range support for std:optional](https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional)
 * [2025-10-10, 07:50:54](https://news.ycombinator.com/item?id=45536325) - [A Story About Bypassing Air Canada's In-Flight Network Restrictions](https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/)
+* [2025-10-10, 07:43:10](https://news.ycombinator.com/item?id=45536283) - [SSH Security: Why You Should Touch to Verify](https://www.ubicloud.com/blog/ssh-security-why-you-should-touch-to-verify)
 * [2025-10-10, 07:11:06](https://news.ycombinator.com/item?id=45536124) - [Multi-Core by Default](https://www.rfleury.com/p/multi-core-by-default)
 * [2025-10-10, 06:49:40](https://news.ycombinator.com/item?id=45536000) - [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 04:40:26](https://news.ycombinator.com/item?id=45535425) - [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
