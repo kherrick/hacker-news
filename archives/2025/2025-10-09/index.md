@@ -52,6 +52,7 @@
 * [2025-10-09, 12:54:18](https://news.ycombinator.com/item?id=45527003) - [Nobel Prize in Literature 2025: László Krasznahorkai](https://www.nobelprize.org/prizes/literature/2025/press-release/)
 * [2025-10-09, 12:48:51](https://news.ycombinator.com/item?id=45526931) - [2025 Q3 Sardines](https://draftcorgi.substack.com/p/2025-q3-recommendations)
 * [2025-10-09, 12:45:28](https://news.ycombinator.com/item?id=45526890) - [Show HN: I built a web framework in C](https://github.com/ashtonjamesd/lavandula)
+* [2025-10-09, 12:42:06](https://news.ycombinator.com/item?id=45526846) - [A Early History of Algebraic Data Types](https://www.hillelwayne.com/post/algdt-history/)
 * [2025-10-09, 12:36:05](https://news.ycombinator.com/item?id=45526754) - ['Guilty until proven innocent': Fight between docs and insurers over downcoding](https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714)
 * [2025-10-09, 12:19:20](https://news.ycombinator.com/item?id=45526589) - [McKinsey wonders how to sell AI apps with no measurable benefits](https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/)
 * [2025-10-09, 12:17:54](https://news.ycombinator.com/item?id=45526582) - [Dark Patterns: Buying a Bahncard at Deutsche Bahn](https://www.ketzu.net/dark-patterns-buying-a-bahncard-at-deutsche-bahn/)
