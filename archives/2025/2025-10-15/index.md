@@ -7,6 +7,8 @@
 * [2025-10-15, 13:41:44](https://news.ycombinator.com/item?id=45592401) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 13:11:25](https://news.ycombinator.com/item?id=45591919) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
 * [2025-10-15, 13:10:31](https://news.ycombinator.com/item?id=45591905) - [Apple introduces the powerful new iPad Pro with the M5 chip](https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/)
+* [2025-10-15, 13:10:08](https://news.ycombinator.com/item?id=45591902) - [M5 MacBook Pro](https://www.apple.com/macbook-pro/)
+* [2025-10-15, 13:07:34](https://news.ycombinator.com/item?id=45591865) - [Mac Source Ports – run old games on new Macs](https://www.macsourceports.com/)
 * [2025-10-15, 13:03:19](https://news.ycombinator.com/item?id=45591801) - [Apple Vision Pro upgraded with the powerful M5 chip](https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/)
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple unleashes M5, the next big leap in AI performance for Apple Silicon](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 12:16:16](https://news.ycombinator.com/item?id=45591222) - [Show HN: Scriber Pro – Transcribe 4.5hr video in 3.5min, 100% offline on Mac](https://scriberpro.cc/hn/)
