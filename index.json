@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=45592585"
     ],
     [
-      "Oops It's a kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
+      "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
       "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "Pwning the Nix ecosystem",
       "https://ptrpa.ws/nixpkgs-actions-abuse"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 13:33:27",
+      "https://news.ycombinator.com/item?id=45592271"
+    ],
+    [
+      "F5 says hackers stole undisclosed BIG-IP flaws, source code",
+      "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-10-15, 13:00:19",
-      "https://news.ycombinator.com/item?id=45591766"
-    ],
-    [
-      "F5 Networks reports nation-state cyberattack on product systems",
-      "https://www.streetinsider.com/Corporate+News/F5+Networks+reports+nation-state+cyberattack+on+product+systems/25457824.html"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 12:56:12",
       "https://news.ycombinator.com/item?id=45591707"
     ],
@@ -137,6 +137,16 @@
     [
       "Show HN: Scriber Pro – Offline AI transcription for macOS",
       "https://scriberpro.cc/hn/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 12:08:04",
+      "https://news.ycombinator.com/item?id=45591149"
+    ],
+    [
+      "Garbage collection for Rust: The finalizer frontier",
+      "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/"
     ]
   ],
   [
@@ -191,32 +201,22 @@
   ],
   [
     [
-      "2025-10-15, 10:19:21",
-      "https://news.ycombinator.com/item?id=45590302"
-    ],
-    [
-      "ASP.NET Security Feature Bypass Vulnerability",
-      "https://nvd.nist.gov/vuln/detail/CVE-2025-55315"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 07:52:40",
-      "https://news.ycombinator.com/item?id=45589327"
-    ],
-    [
-      "Europe's Digital Sovereignty Paradox – \"Chat Control\" Update",
-      "https://www.process-one.net/blog/chat-control-update-oct-2025/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 07:01:53",
       "https://news.ycombinator.com/item?id=45588959"
     ],
     [
       "Show HN: Firm, a text-based work management system",
       "https://github.com/42futures/firm"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 06:21:04",
+      "https://news.ycombinator.com/item?id=45588689"
+    ],
+    [
+      "Just talk to it – A way of agentic engineering",
+      "https://steipete.me/posts/just-talk-to-it"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45511888"
     ],
     [
-      "HRM Analysis by Arc Prize Organizers",
+      "Hidden drivers of HRM's performance on ARC-AGI",
       "https://arcprize.org/blog/hrm-analysis"
     ]
   ],
