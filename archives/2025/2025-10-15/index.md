@@ -14,6 +14,7 @@
 * [2025-10-15, 17:20:40](https://news.ycombinator.com/item?id=45595746) - [US Passport Power Falls to Historic Low](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-oct-2025)
 * [2025-10-15, 17:18:13](https://news.ycombinator.com/item?id=45595724) - [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
 * [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
+* [2025-10-15, 16:24:29](https://news.ycombinator.com/item?id=45594920) - [Zed is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
 * [2025-10-15, 15:00:13](https://news.ycombinator.com/item?id=45593665) - [David Byrne Radio](https://www.davidbyrne.com/radio#filter=all&sortby=date:desc)
 * [2025-10-15, 14:42:14](https://news.ycombinator.com/item?id=45593390) - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
 * [2025-10-15, 14:31:54](https://news.ycombinator.com/item?id=45593213) - [Reverse Engineering a 27MHz RC Toy Communication Using RTL SDR](https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/)
