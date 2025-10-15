@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 12:16:16](https://news.ycombinator.com/item?id=45591222) - [Show HN: Scriber Pro – Transcribe 4.5hr video in 3.5min, 100% offline on Mac](https://scriberpro.cc/hn/)
+* [2025-10-15, 12:01:05](https://news.ycombinator.com/item?id=45591085) - [Irish privacy regulator picks ex-Meta lobbyist as third commissioner](https://www.euractiv.com/news/irish-privacy-regulator-picks-ex-meta-lobbyist-as-third-commissioner/)
 * [2025-10-15, 12:00:35](https://news.ycombinator.com/item?id=45591082) - [Helpcare AI (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45591082)
 * [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – the modern IRC client I hope will outlive me](https://github.com/squidowl/halloy)
 * [2025-10-15, 11:40:09](https://news.ycombinator.com/item?id=45590900) - [Ireland Is Making Basic Income for Artists Program Permanent](https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/)
