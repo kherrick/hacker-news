@@ -11,6 +11,7 @@
 * [2025-10-15, 14:04:13](https://news.ycombinator.com/item?id=45592766) - [You are the scariest monster in the woods](https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods)
 * [2025-10-15, 13:52:15](https://news.ycombinator.com/item?id=45592585) - [Oops It's a kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers](https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html)
 * [2025-10-15, 13:41:44](https://news.ycombinator.com/item?id=45592401) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
+* [2025-10-15, 13:33:27](https://news.ycombinator.com/item?id=45592271) - [F5 says hackers stole undisclosed BIG-IP flaws, source code](https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/)
 * [2025-10-15, 13:11:25](https://news.ycombinator.com/item?id=45591919) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
 * [2025-10-15, 13:10:31](https://news.ycombinator.com/item?id=45591905) - [Apple introduces the powerful new iPad Pro with the M5 chip](https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/)
 * [2025-10-15, 13:10:08](https://news.ycombinator.com/item?id=45591902) - [M5 MacBook Pro](https://www.apple.com/macbook-pro/)
