@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 22:53:27](https://news.ycombinator.com/item?id=45599308) - [Ask HN: Can't get hired – what's next?](https://news.ycombinator.com/item?id=45599308)
 * [2025-10-15, 22:36:16](https://news.ycombinator.com/item?id=45599150) - [Google runs Israel's ads: 'There is food in Gaza'](https://www.washingtonpost.com/technology/2025/10/15/israel-ads-youtube-famine-gaza)
 * [2025-10-15, 22:28:55](https://news.ycombinator.com/item?id=45599084) - [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
 * [2025-10-15, 22:28:11](https://news.ycombinator.com/item?id=45599075) - [How First Wap Tracks Phones Around the World](https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/)

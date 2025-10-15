@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 22:53:27](https://news.ycombinator.com/item?id=45599308) - [Ask HN: Can't get hired – what's next?](https://news.ycombinator.com/item?id=45599308)
 * [2025-10-15, 22:28:55](https://news.ycombinator.com/item?id=45599084) - [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
 * [2025-10-15, 22:28:11](https://news.ycombinator.com/item?id=45599075) - [How First Wap Tracks Phones Around the World](https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/)
 * [2025-10-15, 21:54:14](https://news.ycombinator.com/item?id=45598776) - [I Hate Acrobat](https://www.vincentuden.xyz/blog/pdf-reader)
@@ -26,7 +27,6 @@
 * [2025-10-12, 05:11:11](https://news.ycombinator.com/item?id=45555426) - [Monads are too powerful: The expressiveness spectrum](https://chrispenner.ca/posts/expressiveness-spectrum)
 * [2025-10-10, 07:58:31](https://news.ycombinator.com/item?id=45536373) - [C++26: range support for std:optional](https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional)
 * [2025-10-08, 23:25:51](https://news.ycombinator.com/item?id=45521779) - [Americans' love of billiards paved the way for synthetic plastics](https://invention.si.edu/invention-stories/imitation-ivory-and-power-play)
-* [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The brain navigates new spaces by 'darting' between reality and mental maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
 * [2025-10-07, 22:25:58](https://news.ycombinator.com/item?id=45509713) - [Princeton Engineering Anomalies Research](https://pearlab.icrl.org/)
 * [2025-10-07, 09:32:12](https://news.ycombinator.com/item?id=45501088) - [Bringing NumPy's type-completeness score to nearly 90% – Pyrefly](https://pyrefly.org/blog/numpy-type-completeness/)
 * [2025-10-06, 10:46:12](https://news.ycombinator.com/item?id=45489911) - [Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)](https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch)
