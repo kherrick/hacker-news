@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 10:10:20](https://news.ycombinator.com/item?id=45590236) - [Britain has wasted £1,112,293,718 switching off wind turbines in 2025](https://wastedwind.energy/)
 * [2025-10-15, 07:52:40](https://news.ycombinator.com/item?id=45589327) - [Europe's Digital Sovereignty Paradox – \"Chat Control\" Update](https://www.process-one.net/blog/chat-control-update-oct-2025/)
 * [2025-10-15, 07:01:53](https://news.ycombinator.com/item?id=45588959) - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
 * [2025-10-15, 06:21:04](https://news.ycombinator.com/item?id=45588689) - [Just Talk to It – The No-Bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)
@@ -20,7 +21,6 @@
 * [2025-10-14, 15:34:51](https://news.ycombinator.com/item?id=45581288) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
 * [2025-10-14, 14:45:02](https://news.ycombinator.com/item?id=45580699) - [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
-* [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
 * [2025-10-12, 06:19:54](https://news.ycombinator.com/item?id=45555749) - [Updating Desktop Rust](https://tritium.legal/blog/update)
 * [2025-10-10, 22:20:57](https://news.ycombinator.com/item?id=45544500) - [Printing Petscii Faster](https://retrogamecoders.com/printing-petscii-faster/)
 * [2025-10-09, 16:00:03](https://news.ycombinator.com/item?id=45529534) - [Interviewing Intel's Chief Architect of x86 Cores](https://chipsandcheese.com/p/interviewing-intels-chief-architect)
