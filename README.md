@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 15:00:13](https://news.ycombinator.com/item?id=45593665) - [David Byrne Radio](https://www.davidbyrne.com/radio#filter=all&sortby=date:desc)
+* [2025-10-15, 14:42:14](https://news.ycombinator.com/item?id=45593390) - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
 * [2025-10-15, 14:31:54](https://news.ycombinator.com/item?id=45593213) - [Reverse Engineering a 27MHz RC Toy Communication Using RTL SDR](https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/)
 * [2025-10-15, 14:04:13](https://news.ycombinator.com/item?id=45592766) - [You are the scariest monster in the woods](https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods)
 * [2025-10-15, 13:52:15](https://news.ycombinator.com/item?id=45592585) - [Oops It's a kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers](https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html)
@@ -21,14 +23,12 @@
 * [2025-10-15, 10:19:21](https://news.ycombinator.com/item?id=45590302) - [ASP.NET Security Feature Bypass Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2025-55315)
 * [2025-10-15, 07:52:40](https://news.ycombinator.com/item?id=45589327) - [Europe's Digital Sovereignty Paradox – \"Chat Control\" Update](https://www.process-one.net/blog/chat-control-update-oct-2025/)
 * [2025-10-15, 07:01:53](https://news.ycombinator.com/item?id=45588959) - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
-* [2025-10-15, 06:21:04](https://news.ycombinator.com/item?id=45588689) - [Just talk to it – A way of agentic engineering](https://steipete.me/posts/just-talk-to-it)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
 * [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-14, 18:26:00](https://news.ycombinator.com/item?id=45583180) - [Beliefs that are true for regular software but false when applied to AI](https://boydkane.com/essays/boss)
 * [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
 * [2025-10-09, 17:55:06](https://news.ycombinator.com/item?id=45530918) - [OVM6948 Miniature Camera Module [pdf]](https://www.ovt.com/wp-content/uploads/2023/03/OVM6948-PB-v1.5-WEB.pdf)
 * [2025-10-08, 20:30:34](https://news.ycombinator.com/item?id=45520263) - [Flapping-wing robot achieves self-takeoff by adopting reconfigurable mechanisms](https://www.science.org/doi/10.1126/sciadv.adx0465)
-* [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
 * [2025-10-08, 03:54:36](https://news.ycombinator.com/item?id=45511888) - [HRM Analysis by Arc Prize Organizers](https://arcprize.org/blog/hrm-analysis)
 
 ## [Archives](archives/index.md)
