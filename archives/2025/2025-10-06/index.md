@@ -90,6 +90,7 @@
 * [2025-10-06, 10:51:53](https://news.ycombinator.com/item?id=45489951) - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence)
 * [2025-10-06, 10:48:33](https://news.ycombinator.com/item?id=45489925) - [A Global Mining Dataset](https://tech.marksblogg.com/icmm-mining-data.html)
 * [2025-10-06, 10:46:23](https://news.ycombinator.com/item?id=45489913) - [Functional Threading \"Macros\"](https://aartaka.me/threading.html)
+* [2025-10-06, 10:46:12](https://news.ycombinator.com/item?id=45489911) - [Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)](https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch)
 * [2025-10-06, 10:44:38](https://news.ycombinator.com/item?id=45489904) - [Disney+ Subscribers Face a Wave of Cancellations](https://www.techbook-magazine.com/streaming/providers/disney-subscribers-face-a-wave-of-cancellations)
 * [2025-10-06, 10:40:28](https://news.ycombinator.com/item?id=45489884) - [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/)
 * [2025-10-06, 10:39:50](https://news.ycombinator.com/item?id=45489881) - [ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs](https://github.com/scribeocr/scribeocr)

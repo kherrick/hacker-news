@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-15, 22:36:16](https://news.ycombinator.com/item?id=45599150) - [Google runs Israel's ads: 'There is food in Gaza'](https://www.washingtonpost.com/technology/2025/10/15/israel-ads-youtube-famine-gaza)
+* [2025-10-15, 22:28:55](https://news.ycombinator.com/item?id=45599084) - [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
+* [2025-10-15, 22:28:11](https://news.ycombinator.com/item?id=45599075) - [How First Wap Tracks Phones Around the World](https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/)
 * [2025-10-15, 21:54:14](https://news.ycombinator.com/item?id=45598776) - [I Hate Acrobat](https://www.vincentuden.xyz/blog/pdf-reader)
 * [2025-10-15, 21:32:19](https://news.ycombinator.com/item?id=45598590) - [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
 * [2025-10-15, 18:27:35](https://news.ycombinator.com/item?id=45596602) - [Things I've learned in my 7 years implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
@@ -21,15 +22,14 @@
 * [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – Modern IRC client](https://github.com/squidowl/halloy)
 * [2025-10-15, 11:44:31](https://news.ycombinator.com/item?id=45590935) - [Reverse engineering iWork](https://andrews.substack.com/p/reverse-engineering-iwork)
 * [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Leaving serverless led to performance improvement and a simplified architecture](https://www.unkey.com/blog/serverless-exit)
-* [2025-10-15, 11:11:41](https://news.ycombinator.com/item?id=45590681) - [Bots are getting good at mimicking engagement](https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake)
 * [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
-* [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-12, 05:11:11](https://news.ycombinator.com/item?id=45555426) - [Monads are too powerful: The expressiveness spectrum](https://chrispenner.ca/posts/expressiveness-spectrum)
 * [2025-10-10, 07:58:31](https://news.ycombinator.com/item?id=45536373) - [C++26: range support for std:optional](https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional)
 * [2025-10-08, 23:25:51](https://news.ycombinator.com/item?id=45521779) - [Americans' love of billiards paved the way for synthetic plastics](https://invention.si.edu/invention-stories/imitation-ivory-and-power-play)
 * [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The brain navigates new spaces by 'darting' between reality and mental maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
 * [2025-10-07, 22:25:58](https://news.ycombinator.com/item?id=45509713) - [Princeton Engineering Anomalies Research](https://pearlab.icrl.org/)
 * [2025-10-07, 09:32:12](https://news.ycombinator.com/item?id=45501088) - [Bringing NumPy's type-completeness score to nearly 90% – Pyrefly](https://pyrefly.org/blog/numpy-type-completeness/)
+* [2025-10-06, 10:46:12](https://news.ycombinator.com/item?id=45489911) - [Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)](https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch)
 
 ## [Archives](archives/index.md)
 

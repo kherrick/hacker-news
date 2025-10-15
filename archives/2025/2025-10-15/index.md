@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
 * [2025-10-15, 22:36:16](https://news.ycombinator.com/item?id=45599150) - [Google runs Israel's ads: 'There is food in Gaza'](https://www.washingtonpost.com/technology/2025/10/15/israel-ads-youtube-famine-gaza)
+* [2025-10-15, 22:28:55](https://news.ycombinator.com/item?id=45599084) - [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
+* [2025-10-15, 22:28:11](https://news.ycombinator.com/item?id=45599075) - [How First Wap Tracks Phones Around the World](https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/)
 * [2025-10-15, 21:54:14](https://news.ycombinator.com/item?id=45598776) - [I Hate Acrobat](https://www.vincentuden.xyz/blog/pdf-reader)
 * [2025-10-15, 21:32:19](https://news.ycombinator.com/item?id=45598590) - [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
 * [2025-10-15, 20:57:30](https://news.ycombinator.com/item?id=45598309) - [Gravity Can Explain the Collapse of the Wavefunction (Sabine Hossenfelder)](https://arxiv.org/abs/2510.11037)
