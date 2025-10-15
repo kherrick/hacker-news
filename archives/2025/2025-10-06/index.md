@@ -47,6 +47,7 @@
 * [2025-10-06, 15:32:32](https://news.ycombinator.com/item?id=45492489) - [Show HN: I'm building a browser for reverse engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 15:25:12](https://news.ycombinator.com/item?id=45492410) - [Apple's Unlawful Evil](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)
 * [2025-10-06, 15:22:02](https://news.ycombinator.com/item?id=45492376) - [Expected Attention: KV Cache Compression by Estimating Attention](https://arxiv.org/abs/2510.00636)
+* [2025-10-06, 15:11:38](https://news.ycombinator.com/item?id=45492274) - [Breaking \"provably correct\" Leftpad](https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/)
 * [2025-10-06, 14:53:46](https://news.ycombinator.com/item?id=45492086) - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
 * [2025-10-06, 14:51:11](https://news.ycombinator.com/item?id=45492055) - [Novel Stable and Low-Energy Earth-Moon Cycle Orbits [pdf]](https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf)
 * [2025-10-06, 14:47:45](https://news.ycombinator.com/item?id=45492019) - [Why do we need MAC addresses?](https://www.immibis.com/blog/why-mac-address)
