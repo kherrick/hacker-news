@@ -31,6 +31,7 @@
 * [2025-10-14, 16:10:27](https://news.ycombinator.com/item?id=45581761) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 16:07:37](https://news.ycombinator.com/item?id=45581735) - [How AI hears accents: An audible visualization of accent clusters](https://accent-explorer.boldvoice.com/)
 * [2025-10-14, 15:56:23](https://news.ycombinator.com/item?id=45581570) - [Swarm reveals growing weak spot in Earth's magnetic field](https://phys.org/news/2025-10-swarm-reveals-weak-earth-magnetic.html)
+* [2025-10-14, 15:34:51](https://news.ycombinator.com/item?id=45581288) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 15:23:09](https://news.ycombinator.com/item?id=45581146) - [Subverting Telegram's End-to-End Encryption](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
 * [2025-10-14, 15:18:06](https://news.ycombinator.com/item?id=45581088) - [RFK Jr. Must Go](https://quillette.com/2025/09/17/rfk-jr-must-go-hhs-health-vaccines/)
 * [2025-10-14, 15:12:21](https://news.ycombinator.com/item?id=45581029) - [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
