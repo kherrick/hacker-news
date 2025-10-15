@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 18:59:54](https://news.ycombinator.com/item?id=45596960) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 * [2025-10-15, 18:27:35](https://news.ycombinator.com/item?id=45596602) - [Things I've learned in my 7 Years Implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
 * [2025-10-15, 18:06:41](https://news.ycombinator.com/item?id=45596359) - [Clone-Wars: 100 open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
 * [2025-10-15, 17:52:32](https://news.ycombinator.com/item?id=45596168) - [Claude Haiku 4.5 System Card [pdf]](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)
@@ -28,7 +29,6 @@
 * [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-10, 07:58:31](https://news.ycombinator.com/item?id=45536373) - [C++26: range support for std:optional](https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional)
 * [2025-10-08, 23:25:51](https://news.ycombinator.com/item?id=45521779) - [Americans' love of billiards paved the way for synthetic plastics](https://invention.si.edu/invention-stories/imitation-ivory-and-power-play)
-* [2025-10-08, 20:30:34](https://news.ycombinator.com/item?id=45520263) - [Flapping-wing robot achieves self-takeoff by adopting reconfigurable mechanisms](https://www.science.org/doi/10.1126/sciadv.adx0465)
 * [2025-10-06, 15:11:38](https://news.ycombinator.com/item?id=45492274) - [Breaking \"provably correct\" Leftpad](https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/)
 
 ## [Archives](archives/index.md)
