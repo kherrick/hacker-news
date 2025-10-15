@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-15, 13:52:15",
+      "https://news.ycombinator.com/item?id=45592585"
+    ],
+    [
+      "Oops It's a kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
+      "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 13:41:44",
       "https://news.ycombinator.com/item?id=45592401"
     ],
@@ -75,18 +85,8 @@
       "https://news.ycombinator.com/item?id=45591707"
     ],
     [
-      "I Almost Got Hacked by a 'Job Interview'",
+      "I almost got hacked by a 'job interview'",
       "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 12:19:40",
-      "https://news.ycombinator.com/item?id=45591264"
-    ],
-    [
-      "They Clean the Balls in a Ball Pit",
-      "https://www.core77.com/posts/138608/Heres-How-They-Clean-the-Balls-in-a-Ball-Pit"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-10-15, 00:49:25",
+      "https://news.ycombinator.com/item?id=45586776"
+    ],
+    [
+      "Nvidia DGX Spark: great hardware, early days for the ecosystem",
+      "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 23:47:08",
       "https://news.ycombinator.com/item?id=45586339"
     ],
@@ -237,16 +247,6 @@
     [
       "Beliefs that are true for regular software but false when applied to AI",
       "https://boydkane.com/essays/boss"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 17:12:10",
-      "https://news.ycombinator.com/item?id=45582462"
-    ],
-    [
-      "How bad can a $2.97 ADC be?",
-      "https://excamera.substack.com/p/how-bad-can-a-297-adc-be"
     ]
   ],
   [
