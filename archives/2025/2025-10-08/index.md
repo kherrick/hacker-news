@@ -97,6 +97,7 @@
 * [2025-10-08, 05:18:44](https://news.ycombinator.com/item?id=45512342) - [Interactive Double Pendulum Playground](https://theabbie.github.io/DoublePendulum/)
 * [2025-10-08, 05:13:53](https://news.ycombinator.com/item?id=45512317) - [Without data centers, GDP growth was 0.1% in the first half of 2025](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/)
 * [2025-10-08, 05:11:33](https://news.ycombinator.com/item?id=45512300) - [Synthetic aperture radar autofocus and calibration](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)
+* [2025-10-08, 03:54:36](https://news.ycombinator.com/item?id=45511888) - [HRM Analysis by Arc Prize Organizers](https://arcprize.org/blog/hrm-analysis)
 * [2025-10-08, 03:36:20](https://news.ycombinator.com/item?id=45511798) - [TiVo exiting legacy DVR business](https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/)
 * [2025-10-08, 03:32:33](https://news.ycombinator.com/item?id=45511775) - [Voyage of the Marigold – Author's Notes](https://sheep.horse/2025/6/voyage_of_the_marigold_author%27s_notes.html)
 * [2025-10-08, 02:11:39](https://news.ycombinator.com/item?id=45511294) - [The Paradoxical Efficient Market Hypothesis (2024)](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 13:41:44](https://news.ycombinator.com/item?id=45592401) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 13:11:25](https://news.ycombinator.com/item?id=45591919) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
+* [2025-10-15, 13:10:31](https://news.ycombinator.com/item?id=45591905) - [Apple introduces the powerful new iPad Pro with the M5 chip](https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/)
 * [2025-10-15, 13:03:19](https://news.ycombinator.com/item?id=45591801) - [Apple Vision Pro upgraded with the powerful M5 chip](https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/)
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple unleashes M5, the next big leap in AI performance for Apple Silicon](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 12:16:16](https://news.ycombinator.com/item?id=45591222) - [Show HN: Scriber Pro – Transcribe 4.5hr video in 3.5min, 100% offline on Mac](https://scriberpro.cc/hn/)
@@ -12,6 +14,7 @@
 * [2025-10-15, 12:01:05](https://news.ycombinator.com/item?id=45591085) - [Irish privacy regulator picks ex-Meta lobbyist as third commissioner](https://www.euractiv.com/news/irish-privacy-regulator-picks-ex-meta-lobbyist-as-third-commissioner/)
 * [2025-10-15, 12:00:35](https://news.ycombinator.com/item?id=45591082) - [Helpcare AI (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45591082)
 * [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – the modern IRC client I hope will outlive me](https://github.com/squidowl/halloy)
+* [2025-10-15, 11:43:01](https://news.ycombinator.com/item?id=45590921) - [Show HN: Trott – search,sort,extract social media videos(ig,yt,tiktok)](https://trott.hattimatimlabs.in)
 * [2025-10-15, 11:40:09](https://news.ycombinator.com/item?id=45590900) - [Ireland Is Making Basic Income for Artists Program Permanent](https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/)
 * [2025-10-15, 11:26:41](https://news.ycombinator.com/item?id=45590800) - [Esports scholarship at Deutsche Bahn (German railways)](https://db.jobs/de-de/esports-11092734)
 * [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Why We're Leaving Serverless](https://www.unkey.com/blog/serverless-exit)
