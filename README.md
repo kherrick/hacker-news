@@ -21,7 +21,6 @@
 * [2025-10-14, 15:34:51](https://news.ycombinator.com/item?id=45581288) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
 * [2025-10-14, 14:45:02](https://news.ycombinator.com/item?id=45580699) - [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
-* [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
 * [2025-10-12, 06:19:54](https://news.ycombinator.com/item?id=45555749) - [Updating Desktop Rust](https://tritium.legal/blog/update)
 * [2025-10-10, 22:20:57](https://news.ycombinator.com/item?id=45544500) - [Printing Petscii Faster](https://retrogamecoders.com/printing-petscii-faster/)
 * [2025-10-09, 16:00:03](https://news.ycombinator.com/item?id=45529534) - [Interviewing Intel's Chief Architect of x86 Cores](https://chipsandcheese.com/p/interviewing-intels-chief-architect)
@@ -30,6 +29,7 @@
 * [2025-10-08, 13:24:53](https://news.ycombinator.com/item?id=45515915) - [Hacking the Humane AI Pin](https://writings.agg.im/posts/hacking_ai_pin/)
 * [2025-10-07, 16:05:01](https://news.ycombinator.com/item?id=45504902) - [CSS for Styling a Markdown Post](https://webdev.bryanhogan.com/miscellaneous/styling-markdown/)
 * [2025-10-07, 02:43:03](https://news.ycombinator.com/item?id=45498887) - [A 12,000-year-old obelisk with a human face was found in Karahan Tepe](https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html)
+* [2025-10-06, 13:44:36](https://news.ycombinator.com/item?id=45491368) - [Fixing bugs automatically from a screen recording](https://nitpicks.ai)
 
 ## [Archives](archives/index.md)
 

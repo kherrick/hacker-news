@@ -53,6 +53,7 @@
 * [2025-10-06, 14:07:46](https://news.ycombinator.com/item?id=45491621) - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [2025-10-06, 14:06:29](https://news.ycombinator.com/item?id=45491609) - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
 * [2025-10-06, 13:52:50](https://news.ycombinator.com/item?id=45491470) - [Compiling a Forth](https://healeycodes.com/compiling-a-forth)
+* [2025-10-06, 13:44:36](https://news.ycombinator.com/item?id=45491368) - [Fixing bugs automatically from a screen recording](https://nitpicks.ai)
 * [2025-10-06, 13:42:30](https://news.ycombinator.com/item?id=45491340) - [ICE Targets Children with Payment in Exchange for Deportation](https://theintercept.com/2025/10/03/ice-children-deportation-payment/)
 * [2025-10-06, 13:21:51](https://news.ycombinator.com/item?id=45491128) - [The case for an iceberg-native database](https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it)
 * [2025-10-06, 13:16:29](https://news.ycombinator.com/item?id=45491069) - [Design Principle: Composable Services](https://sleepingpotato.com/design-principle-composable-services/)
