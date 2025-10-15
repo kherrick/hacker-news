@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-15, 21:32:19](https://news.ycombinator.com/item?id=45598590) - [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
 * [2025-10-15, 20:57:30](https://news.ycombinator.com/item?id=45598309) - [Gravity Can Explain the Collapse of the Wavefunction (Sabine Hossenfelder)](https://arxiv.org/abs/2510.11037)
 * [2025-10-15, 18:27:35](https://news.ycombinator.com/item?id=45596602) - [Things I've learned in my 7 years implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
 * [2025-10-15, 17:43:27](https://news.ycombinator.com/item?id=45596059) - [Recursive Language Models (RLMs)](https://alexzhang13.github.io/blog/2025/rlm/)
-* [2025-10-15, 17:21:32](https://news.ycombinator.com/item?id=45595760) - [Show HN: Specific (YC F25) – Build backends with specifications instead of code](https://specific.dev/)
 * [2025-10-15, 17:18:13](https://news.ycombinator.com/item?id=45595724) - [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
 * [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 * [2025-10-15, 16:24:29](https://news.ycombinator.com/item?id=45594920) - [Zed is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
@@ -15,7 +15,6 @@
 * [2025-10-15, 13:10:08](https://news.ycombinator.com/item?id=45591902) - [M5 MacBook Pro](https://www.apple.com/macbook-pro/)
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 12:56:12](https://news.ycombinator.com/item?id=45591707) - [I almost got hacked by a 'job interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
-* [2025-10-15, 12:16:16](https://news.ycombinator.com/item?id=45591222) - [Show HN: Scriber Pro – Offline AI transcription for macOS](https://scriberpro.cc/hn/)
 * [2025-10-15, 12:08:04](https://news.ycombinator.com/item?id=45591149) - [Garbage collection for Rust: The finalizer frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
 * [2025-10-15, 12:00:35](https://news.ycombinator.com/item?id=45591082) - [Helpcare AI (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45591082)
 * [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – Modern IRC client](https://github.com/squidowl/halloy)
@@ -30,6 +29,7 @@
 * [2025-10-08, 23:25:51](https://news.ycombinator.com/item?id=45521779) - [Americans' love of billiards paved the way for synthetic plastics](https://invention.si.edu/invention-stories/imitation-ivory-and-power-play)
 * [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The brain navigates new spaces by 'darting' between reality and mental maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
 * [2025-10-07, 22:25:58](https://news.ycombinator.com/item?id=45509713) - [Princeton Engineering Anomalies Research](https://pearlab.icrl.org/)
+* [2025-10-07, 09:32:12](https://news.ycombinator.com/item?id=45501088) - [Bringing NumPy's type-completeness score to nearly 90% – Pyrefly](https://pyrefly.org/blog/numpy-type-completeness/)
 
 ## [Archives](archives/index.md)
 

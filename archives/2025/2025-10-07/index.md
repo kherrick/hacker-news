@@ -81,6 +81,7 @@
 * [2025-10-07, 09:50:49](https://news.ycombinator.com/item?id=45501189) - [Nobel Prize in Physics Awarded to John Clarke, Michel Devoret and John Martinis](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
 * [2025-10-07, 09:35:53](https://news.ycombinator.com/item?id=45501114) - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
 * [2025-10-07, 09:33:50](https://news.ycombinator.com/item?id=45501099) - [Redis CVE-2025-49844: Use-After-Free may lead to remote code execution](https://redis.io/blog/security-advisory-cve-2025-49844/)
+* [2025-10-07, 09:32:12](https://news.ycombinator.com/item?id=45501088) - [Bringing NumPy's type-completeness score to nearly 90% – Pyrefly](https://pyrefly.org/blog/numpy-type-completeness/)
 * [2025-10-07, 09:29:28](https://news.ycombinator.com/item?id=45501073) - [Buckle Up, the Smart Glasses Backlash Is Coming](https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213)
 * [2025-10-07, 08:27:41](https://news.ycombinator.com/item?id=45500699) - [Ford CEO Says There Aren't Enough Mechanics. Then a Mechanic Responds](https://www.motor1.com/news/774805/ford-ceo-complains-shortage-mechanics/)
 * [2025-10-07, 08:04:49](https://news.ycombinator.com/item?id=45500560) - [Show HN: Greenonion.ai – AI-Powered Design Assistant](https://exuberant-premise-723012.framer.app/)
