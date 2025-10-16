@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 23:30:36](https://news.ycombinator.com/item?id=45611912) - [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/)
+* [2025-10-16, 23:20:16](https://news.ycombinator.com/item?id=45611851) - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
 * [2025-10-16, 22:44:25](https://news.ycombinator.com/item?id=45611582) - [Ace Frehley Dies at 74](https://variety.com/2025/music/news/ace-frehley-kiss-lead-guitarist-dead-1236554943/)
 * [2025-10-16, 21:36:43](https://news.ycombinator.com/item?id=45610996) - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 * [2025-10-16, 21:10:23](https://news.ycombinator.com/item?id=45610696) - [Ron Conway Resigns Salesforce Foundation over Benioff's National Guard Comments](https://www.politico.com/news/2025/10/16/ron-conway-salesforce-san-francisco-00611579)

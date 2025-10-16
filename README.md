@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-10-16, 22:44:25](https://news.ycombinator.com/item?id=45611582) - [Ace Frehley Dies at 74](https://variety.com/2025/music/news/ace-frehley-kiss-lead-guitarist-dead-1236554943/)
+* [2025-10-16, 23:30:36](https://news.ycombinator.com/item?id=45611912) - [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/)
+* [2025-10-16, 23:20:16](https://news.ycombinator.com/item?id=45611851) - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
 * [2025-10-16, 21:36:43](https://news.ycombinator.com/item?id=45610996) - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 * [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
 * [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
@@ -24,7 +25,6 @@
 * [2025-10-13, 02:08:39](https://news.ycombinator.com/item?id=45564042) - [State of AI Report 2025](https://www.stateof.ai/)
 * [2025-10-13, 00:48:25](https://news.ycombinator.com/item?id=45563576) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
 * [2025-10-12, 06:13:32](https://news.ycombinator.com/item?id=45555709) - [A 4k-Room Text Adventure Written by One Human in QBasic No AI](https://the-ventureweaver.itch.io/tlote4111)
-* [2025-10-12, 00:23:35](https://news.ycombinator.com/item?id=45554004) - [VOC injection into a house reveals large surface reservoir sizes](https://www.pnas.org/doi/10.1073/pnas.2503399122)
 * [2025-10-11, 10:02:03](https://news.ycombinator.com/item?id=45547891) - [Eon – An Effects-Based OCaml Nameserver](https://ryan.freumh.org/eon.html)
 * [2025-10-11, 00:11:59](https://news.ycombinator.com/item?id=45545220) - [How to tame a user interface using a spreadsheet](https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/)
 * [2025-10-10, 20:41:36](https://news.ycombinator.com/item?id=45543546) - [Microwave technique allows energy-efficient chemical reactions](https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html)
