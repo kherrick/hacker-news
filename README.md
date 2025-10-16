@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
+* [2025-10-16, 20:52:59](https://news.ycombinator.com/item?id=45610540) - [Silicon Valley's capture of our political institutions is all but complete](https://www.bloodinthemachine.com/p/silicon-valleys-capture-of-our-political)
 * [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
 * [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [I Bypassed Amazon's Kindle Web DRM Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-16, 19:51:47](https://news.ycombinator.com/item?id=45609922) - [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
 * [2025-10-16, 18:22:08](https://news.ycombinator.com/item?id=45608887) - [A conspiracy to kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
-* [2025-10-16, 18:13:21](https://news.ycombinator.com/item?id=45608795) - [test-ipv6.com will stay online](https://status.test-ipv6.com)
 * [2025-10-16, 17:47:19](https://news.ycombinator.com/item?id=45608456) - [Talent](https://www.felixstocker.com/blog/talent)
 * [2025-10-16, 17:36:18](https://news.ycombinator.com/item?id=45608285) - [Mysterious Intrigue Around an x86 \"Corporate Entity Other Than Intel/AMD\"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
 * [2025-10-16, 16:59:30](https://news.ycombinator.com/item?id=45607822) - [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
@@ -13,7 +13,6 @@
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:36:39](https://news.ycombinator.com/item?id=45606698) - [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
 * [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
-* [2025-10-16, 13:48:33](https://news.ycombinator.com/item?id=45605291) - [Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js](https://akarshc.com/post/phoenix-for-my-project.html)
 * [2025-10-16, 13:33:45](https://news.ycombinator.com/item?id=45605153) - [Lace: A New Kind of Cellular Automata Where Links Matter](https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata)
 * [2025-10-16, 12:59:08](https://news.ycombinator.com/item?id=45604779) - [Electricity can heal wounds three times as fast (2023)](https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/)
 * [2025-10-16, 12:50:08](https://news.ycombinator.com/item?id=45604700) - [Show HN: Inkeep (YC W23) – Agent Builder to create agents in code or visually](https://github.com/inkeep/agents)
@@ -28,6 +27,7 @@
 * [2025-10-12, 00:23:35](https://news.ycombinator.com/item?id=45554004) - [VOC injection into a house reveals large surface reservoir sizes](https://www.pnas.org/doi/10.1073/pnas.2503399122)
 * [2025-10-11, 10:02:03](https://news.ycombinator.com/item?id=45547891) - [Eon – An Effects-Based OCaml Nameserver](https://ryan.freumh.org/eon.html)
 * [2025-10-11, 00:11:59](https://news.ycombinator.com/item?id=45545220) - [How to tame a user interface using a spreadsheet](https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/)
+* [2025-10-10, 20:41:36](https://news.ycombinator.com/item?id=45543546) - [Microwave technique allows energy-efficient chemical reactions](https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html)
 * [2025-10-09, 15:40:19](https://news.ycombinator.com/item?id=45529255) - [Post office in France rolls out croissant-scented stamp](https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/)
 * [2025-10-09, 13:08:26](https://news.ycombinator.com/item?id=45527191) - [Generalized Orders of Magnitude](https://arxiv.org/abs/2510.03426)
 
