@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 04:45:02](https://news.ycombinator.com/item?id=45601541) - [What Does George Orwell's '1984' Mean in 2024?](https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/)
 * [2025-10-16, 03:45:39](https://news.ycombinator.com/item?id=45601230) - [TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task](https://arxiv.org/abs/2507.16126)
 * [2025-10-16, 03:33:35](https://news.ycombinator.com/item?id=45601177) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-16, 02:06:17](https://news.ycombinator.com/item?id=45600707) - [We're losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
@@ -21,7 +22,6 @@
 * [2025-10-15, 13:33:27](https://news.ycombinator.com/item?id=45592271) - [F5 says hackers stole undisclosed BIG-IP flaws, source code](https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/)
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 12:56:12](https://news.ycombinator.com/item?id=45591707) - [I almost got hacked by a 'job interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
-* [2025-10-15, 12:08:04](https://news.ycombinator.com/item?id=45591149) - [Garbage collection for Rust: The finalizer frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
 * [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – Modern IRC client](https://github.com/squidowl/halloy)
 * [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Leaving serverless led to performance improvement and a simplified architecture](https://www.unkey.com/blog/serverless-exit)
 * [2025-10-12, 10:59:15](https://news.ycombinator.com/item?id=45557217) - [Looking at kmalloc() and the SLUB Memory Allocator (2019)](https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html)
