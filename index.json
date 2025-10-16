@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-16, 21:03:30",
-      "https://news.ycombinator.com/item?id=45610636"
-    ],
-    [
-      "Nobody Cares How Hard You Work",
-      "https://alifeengineered.substack.com/p/nobody-cares-how-hard-you-work"
-    ]
-  ],
-  [
-    [
       "2025-10-16, 21:02:11",
       "https://news.ycombinator.com/item?id=45610620"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=45610226"
     ],
     [
-      "I Bypassed Amazon's Kindle Web DRM Because Their App Sucked",
+      "How I bypassed Amazon's Kindle web DRM",
       "https://blog.pixelmelt.dev/kindle-web-drm/"
     ]
   ],
@@ -127,6 +117,16 @@
     [
       "DoorDash and Waymo launch autonomous delivery service in Phoenix",
       "https://about.doordash.com/en-us/news/waymo"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 13:48:33",
+      "https://news.ycombinator.com/item?id=45605291"
+    ],
+    [
+      "Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js",
+      "https://akarshc.com/post/phoenix-for-my-project.html"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=45563576"
     ],
     [
-      "Syntax highlighting is a waste of an information channel",
+      "Syntax highlighting is a waste of an information channel (2020)",
       "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/"
     ]
   ],
