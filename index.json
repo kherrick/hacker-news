@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-16, 05:46:50",
+      "https://news.ycombinator.com/item?id=45601834"
+    ],
+    [
+      "New coding models and integrations",
+      "https://ollama.com/blog/coding-models"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 05:31:31",
+      "https://news.ycombinator.com/item?id=45601750"
+    ],
+    [
+      "TurboTax's 20-Year Fight to Stop Americans from Filing Their Taxes for Free (2019)",
+      "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 04:45:02",
+      "https://news.ycombinator.com/item?id=45601541"
+    ],
+    [
+      "What Does George Orwell's '1984' Mean in 2024?",
+      "https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 03:45:39",
       "https://news.ycombinator.com/item?id=45601230"
     ],
@@ -17,26 +47,6 @@
     [
       "Free applicatives, the handle pattern, and remote systems",
       "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 03:26:27",
-      "https://news.ycombinator.com/item?id=45601139"
-    ],
-    [
-      "Acid Drop",
-      "https://github.com/acidvegas/acid-drop"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 03:17:21",
-      "https://news.ycombinator.com/item?id=45601102"
-    ],
-    [
-      "Reactive Programming paradigm for Go for event-driven applications",
-      "https://github.com/samber/ro"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-10-15, 12:08:04",
-      "https://news.ycombinator.com/item?id=45591149"
-    ],
-    [
-      "Garbage collection for Rust: The finalizer frontier",
-      "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 11:45:47",
       "https://news.ycombinator.com/item?id=45590949"
     ],
@@ -247,16 +247,6 @@
     [
       "Leaving serverless led to performance improvement and a simplified architecture",
       "https://www.unkey.com/blog/serverless-exit"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 23:47:08",
-      "https://news.ycombinator.com/item?id=45586339"
-    ],
-    [
-      "FSF announces Librephone project",
-      "https://www.fsf.org/news/librephone-project"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Functions Are Asymmetric",
       "https://www.elbeno.com/blog/?p=1804"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 04:31:15",
+      "https://news.ycombinator.com/item?id=45546575"
+    ],
+    [
+      "What is going on with all this radioactive shrimp?",
+      "https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/"
     ]
   ],
   [
