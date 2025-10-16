@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 21:10:23](https://news.ycombinator.com/item?id=45610696) - [Ron Conway Resigns Salesforce Foundation over Benioff's National Guard Comments](https://www.politico.com/news/2025/10/16/ron-conway-salesforce-san-francisco-00611579)
 * [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
 * [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
 * [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-16, 19:51:47](https://news.ycombinator.com/item?id=45609922) - [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
 * [2025-10-16, 18:22:08](https://news.ycombinator.com/item?id=45608887) - [A conspiracy to kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [2025-10-16, 17:47:19](https://news.ycombinator.com/item?id=45608456) - [Talent](https://www.felixstocker.com/blog/talent)
-* [2025-10-16, 17:36:18](https://news.ycombinator.com/item?id=45608285) - [Mysterious Intrigue Around an x86 \"Corporate Entity Other Than Intel/AMD\"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
 * [2025-10-16, 16:59:30](https://news.ycombinator.com/item?id=45607822) - [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
 * [2025-10-16, 16:54:26](https://news.ycombinator.com/item?id=45607758) - [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
