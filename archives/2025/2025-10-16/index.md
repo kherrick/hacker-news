@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 22:44:25](https://news.ycombinator.com/item?id=45611582) - [Ace Frehley Dies at 74](https://variety.com/2025/music/news/ace-frehley-kiss-lead-guitarist-dead-1236554943/)
 * [2025-10-16, 21:36:43](https://news.ycombinator.com/item?id=45610996) - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 * [2025-10-16, 21:10:23](https://news.ycombinator.com/item?id=45610696) - [Ron Conway Resigns Salesforce Foundation over Benioff's National Guard Comments](https://www.politico.com/news/2025/10/16/ron-conway-salesforce-san-francisco-00611579)
 * [2025-10-16, 21:03:30](https://news.ycombinator.com/item?id=45610636) - [Nobody Cares How Hard You Work](https://alifeengineered.substack.com/p/nobody-cares-how-hard-you-work)
