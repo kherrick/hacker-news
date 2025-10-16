@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 15:12:19](https://news.ycombinator.com/item?id=45606394) - [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)
 * [2025-10-16, 14:51:30](https://news.ycombinator.com/item?id=45606097) - [Working with the Amiga's RAM and Rad Disks](https://www.datagubbe.se/ramdisk/)
+* [2025-10-16, 14:39:17](https://news.ycombinator.com/item?id=45605921) - [How America got hooked on ultraprocessed foods](https://www.nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html)
 * [2025-10-16, 14:33:10](https://news.ycombinator.com/item?id=45605842) - [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
 * [2025-10-16, 13:48:33](https://news.ycombinator.com/item?id=45605291) - [Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js](https://akarshc.com/post/phoenix-for-my-project.html)
 * [2025-10-16, 13:33:45](https://news.ycombinator.com/item?id=45605153) - [Lace: A New Kind of Cellular Automata Where Links Matter](https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata)
@@ -16,8 +18,6 @@
 * [2025-10-16, 05:31:31](https://news.ycombinator.com/item?id=45601750) - [TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
 * [2025-10-16, 03:33:35](https://news.ycombinator.com/item?id=45601177) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-15, 19:04:07](https://news.ycombinator.com/item?id=45597006) - [A Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/)
-* [2025-10-15, 17:18:13](https://news.ycombinator.com/item?id=45595724) - [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
-* [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 * [2025-10-15, 16:24:29](https://news.ycombinator.com/item?id=45594920) - [Zed is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-13, 18:20:00](https://news.ycombinator.com/item?id=45571647) - [Credential Stuffing](https://ciamweekly.substack.com/p/credential-stuffing)
