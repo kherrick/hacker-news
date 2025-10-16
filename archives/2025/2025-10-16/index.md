@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 05:46:50](https://news.ycombinator.com/item?id=45601834) - [New coding models and integrations](https://ollama.com/blog/coding-models)
+* [2025-10-16, 05:31:31](https://news.ycombinator.com/item?id=45601750) - [TurboTax's 20-Year Fight to Stop Americans from Filing Their Taxes for Free (2019)](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
 * [2025-10-16, 04:45:02](https://news.ycombinator.com/item?id=45601541) - [What Does George Orwell's '1984' Mean in 2024?](https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/)
 * [2025-10-16, 03:45:39](https://news.ycombinator.com/item?id=45601230) - [TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task](https://arxiv.org/abs/2507.16126)
 * [2025-10-16, 03:33:35](https://news.ycombinator.com/item?id=45601177) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
