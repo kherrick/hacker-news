@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 13:03:47](https://news.ycombinator.com/item?id=45604823) - [Like MS Excel, Pivot tables never die](https://www.rilldata.com/blog/why-pivot-tables-never-die)
 * [2025-10-16, 12:50:08](https://news.ycombinator.com/item?id=45604700) - [Launch HN: Inkeep (YC W23) – Open Source Agent Builder](https://github.com/inkeep/agents)
+* [2025-10-16, 12:46:28](https://news.ycombinator.com/item?id=45604673) - [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
 * [2025-10-16, 12:46:21](https://news.ycombinator.com/item?id=45604672) - [European.cloud: A Curated Directory of EU-Based Cloud Providers](https://european.cloud/)
 * [2025-10-16, 12:21:36](https://news.ycombinator.com/item?id=45604451) - [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
 * [2025-10-16, 12:12:12](https://news.ycombinator.com/item?id=45604381) - [How The Pentagon Is Blocking Out News Organizations](https://www.nytimes.com/interactive/2025/10/15/business/media/pentatgon-press-rules.html)
