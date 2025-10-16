@@ -21,6 +21,7 @@
 * [2025-10-09, 17:55:06](https://news.ycombinator.com/item?id=45530918) - [OVM6948 Miniature Camera Module [pdf]](https://www.ovt.com/wp-content/uploads/2023/03/OVM6948-PB-v1.5-WEB.pdf)
 * [2025-10-09, 17:48:23](https://news.ycombinator.com/item?id=45530832) - [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
 * [2025-10-09, 17:38:29](https://news.ycombinator.com/item?id=45530744) - [Subway Builder: A Realistic Subway Simulation Game](https://www.subwaybuilder.com/)
+* [2025-10-09, 17:23:25](https://news.ycombinator.com/item?id=45530580) - [More About Jumps Than You Wanted to Know](https://gpfault.net/posts/asm-tut-4.html)
 * [2025-10-09, 17:19:37](https://news.ycombinator.com/item?id=45530533) - [The phaseout of the mmap() file operation](https://lwn.net/Articles/1038715/)
 * [2025-10-09, 17:16:28](https://news.ycombinator.com/item?id=45530486) - [LLMs are mortally terrified of exceptions](https://twitter.com/karpathy/status/1976077806443569355)
 * [2025-10-09, 17:09:22](https://news.ycombinator.com/item?id=45530388) - [Show HN: I Wrote a Full Text Search Engine from Scratch in Go](https://github.com/wizenheimer/blaze)
