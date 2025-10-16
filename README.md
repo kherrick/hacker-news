@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 18:22:08](https://news.ycombinator.com/item?id=45608887) - [A Conspiracy to Kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [2025-10-16, 18:13:21](https://news.ycombinator.com/item?id=45608795) - [test-ipv6.com will stay online!](https://status.test-ipv6.com)
 * [2025-10-16, 17:47:19](https://news.ycombinator.com/item?id=45608456) - [Talent](https://www.felixstocker.com/blog/talent)
 * [2025-10-16, 17:36:18](https://news.ycombinator.com/item?id=45608285) - [Mysterious Intrigue Around an x86 \"Corporate Entity Other Than Intel/AMD\"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
@@ -7,7 +8,6 @@
 * [2025-10-16, 16:59:30](https://news.ycombinator.com/item?id=45607822) - [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
 * [2025-10-16, 16:54:26](https://news.ycombinator.com/item?id=45607758) - [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
-* [2025-10-16, 15:41:53](https://news.ycombinator.com/item?id=45606775) - [RTFM: A Real-Time Frame Model](https://www.worldlabs.ai/blog/rtfm)
 * [2025-10-16, 15:36:39](https://news.ycombinator.com/item?id=45606698) - [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
 * [2025-10-16, 15:29:06](https://news.ycombinator.com/item?id=45606602) - [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)
 * [2025-10-16, 15:12:19](https://news.ycombinator.com/item?id=45606394) - [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)

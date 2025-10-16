@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 18:22:08](https://news.ycombinator.com/item?id=45608887) - [A Conspiracy to Kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [2025-10-16, 18:13:21](https://news.ycombinator.com/item?id=45608795) - [test-ipv6.com will stay online!](https://status.test-ipv6.com)
 * [2025-10-16, 17:47:19](https://news.ycombinator.com/item?id=45608456) - [Talent](https://www.felixstocker.com/blog/talent)
 * [2025-10-16, 17:36:18](https://news.ycombinator.com/item?id=45608285) - [Mysterious Intrigue Around an x86 \"Corporate Entity Other Than Intel/AMD\"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
