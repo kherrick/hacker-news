@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
+* [2025-10-16, 13:48:33](https://news.ycombinator.com/item?id=45605291) - [Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js](https://akarshc.com/post/phoenix-for-my-project.html)
+* [2025-10-16, 13:33:45](https://news.ycombinator.com/item?id=45605153) - [Lace: A New Kind of Cellular Automata Where Links Matter](https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata)
 * [2025-10-16, 13:03:47](https://news.ycombinator.com/item?id=45604823) - [Like MS Excel, Pivot tables never die](https://www.rilldata.com/blog/why-pivot-tables-never-die)
 * [2025-10-16, 12:50:08](https://news.ycombinator.com/item?id=45604700) - [Launch HN: Inkeep (YC W23) – Open Source Agent Builder](https://github.com/inkeep/agents)
 * [2025-10-16, 12:46:28](https://news.ycombinator.com/item?id=45604673) - [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)

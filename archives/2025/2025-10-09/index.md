@@ -39,6 +39,7 @@
 * [2025-10-09, 15:45:49](https://news.ycombinator.com/item?id=45529331) - [3D-Printed Automatic Weather Station](https://3dpaws.comet.ucar.edu)
 * [2025-10-09, 15:29:31](https://news.ycombinator.com/item?id=45529081) - [Keyboard Holders, Generation 1](https://cceckman.com/writing/keyboard-holders-gen1/)
 * [2025-10-09, 15:05:52](https://news.ycombinator.com/item?id=45528735) - [GitHub Issues](https://www.githubstatus.com/incidents/k7bhmjkblcwp)
+* [2025-10-09, 14:50:24](https://news.ycombinator.com/item?id=45528508) - [LINQ and Learning to Be Declarative](https://www.nickstambaugh.dev/posts/LINQ-and-being-declarative)
 * [2025-10-09, 14:39:29](https://news.ycombinator.com/item?id=45528347) - [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
 * [2025-10-09, 14:39:12](https://news.ycombinator.com/item?id=45528342) - [Why Self-Host?](https://romanzipp.com/blog/why-a-homelab-why-self-host)
 * [2025-10-09, 14:37:44](https://news.ycombinator.com/item?id=45528320) - [Show HN: I Hid Labubus in World Labs' AI Worlds](https://www.akadeb.xyz/vibes/world-labubus/)
