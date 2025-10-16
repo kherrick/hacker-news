@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 17:36:18](https://news.ycombinator.com/item?id=45608285) - [Mysterious Intrigue Around an x86 \"Corporate Entity Other Than Intel/AMD\"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
 * [2025-10-16, 16:54:26](https://news.ycombinator.com/item?id=45607758) - [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:41:53](https://news.ycombinator.com/item?id=45606775) - [RTFM: A Real-Time Frame Model](https://www.worldlabs.ai/blog/rtfm)
@@ -29,7 +30,6 @@
 * [2025-10-10, 23:36:04](https://news.ycombinator.com/item?id=45545017) - [The people rescuing forgotten knowledge trapped on old floppy disks](https://www.bbc.com/future/article/20251009-rescuing-knowledge-trapped-on-old-floppy-disks)
 * [2025-10-10, 14:07:46](https://news.ycombinator.com/item?id=45539262) - [Flies keep landing on North Sea oil rigs](https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622)
 * [2025-10-10, 13:53:38](https://news.ycombinator.com/item?id=45539079) - [JustSketchMe – Digital Posing Tool](https://justsketch.me)
-* [2025-10-09, 14:50:24](https://news.ycombinator.com/item?id=45528508) - [LINQ and Learning to Be Declarative](https://www.nickstambaugh.dev/posts/LINQ-and-being-declarative)
 
 ## [Archives](archives/index.md)
 
