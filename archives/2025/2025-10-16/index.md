@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 12:46:21](https://news.ycombinator.com/item?id=45604672) - [European.cloud: A Curated Directory of EU-Based Cloud Providers](https://european.cloud/)
+* [2025-10-16, 12:21:36](https://news.ycombinator.com/item?id=45604451) - [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
 * [2025-10-16, 12:12:12](https://news.ycombinator.com/item?id=45604381) - [How The Pentagon Is Blocking Out News Organizations](https://www.nytimes.com/interactive/2025/10/15/business/media/pentatgon-press-rules.html)
+* [2025-10-16, 12:11:18](https://news.ycombinator.com/item?id=45604372) - [Nightmare Fuel: What is Skibidi Toilet, How it demos a non-narrative future](https://journal.media-culture.org.au/index.php/mcjournal/article/view/3108)
+* [2025-10-16, 12:01:35](https://news.ycombinator.com/item?id=45604313) - [Chat-GPT becomes Sex-GPT for verified adults](https://twitter.com/sama/status/1978129344598827128)
 * [2025-10-16, 12:00:45](https://news.ycombinator.com/item?id=45604308) - [Jiga (YC W21) Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310)
 * [2025-10-16, 11:21:25](https://news.ycombinator.com/item?id=45604034) - [Get a Heat Pump on Lloyds](https://www.lloydsbankinggroup.com/media/press-releases/2025/lloyds-bank-2025/get-a-heat-pump-on-lloyds.html)
 * [2025-10-16, 09:34:16](https://news.ycombinator.com/item?id=45603277) - [Pentagon Imposes Pre-Publication Censorship – All Major U.S. Media Walk Out](https://archivethecontrolstack.substack.com/p/archive-003-badges-surrendered-the)
