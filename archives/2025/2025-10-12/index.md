@@ -11,6 +11,7 @@
 * [2025-10-12, 21:51:45](https://news.ycombinator.com/item?id=45562286) - [Free Software Hasn't Won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-12, 21:40:43](https://news.ycombinator.com/item?id=45562188) - [An initial investigation into WDDM on ReactOS](https://reactos.org/blogs/investigating-wddm/)
 * [2025-10-12, 21:24:39](https://news.ycombinator.com/item?id=45562056) - [MAML – a new configuration language (similar to JSON, YAML, and TOML)](https://maml.dev/)
+* [2025-10-12, 21:03:03](https://news.ycombinator.com/item?id=45561888) - [Trusting builds with Bazel remote execution](https://jmmv.dev/2025/09/bazel-remote-execution.html)
 * [2025-10-12, 20:41:01](https://news.ycombinator.com/item?id=45561700) - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
 * [2025-10-12, 20:37:16](https://news.ycombinator.com/item?id=45561672) - [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
 * [2025-10-12, 20:09:14](https://news.ycombinator.com/item?id=45561428) - [Ask HN: What are you working on? (October 2025)](https://news.ycombinator.com/item?id=45561428)
