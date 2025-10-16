@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 08:02:52](https://news.ycombinator.com/item?id=45602676) - [Liquibase continues to advertise itself as \"open source\" despite license switch](https://github.com/liquibase/liquibase/issues/7374)
 * [2025-10-16, 06:51:49](https://news.ycombinator.com/item?id=45602179) - [Journalists turn in access badges, exit Pentagon rather than agreeing new rules](https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12)
 * [2025-10-16, 06:39:09](https://news.ycombinator.com/item?id=45602124) - [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
 * [2025-10-16, 06:12:51](https://news.ycombinator.com/item?id=45601982) - [Upcoming Rust language features for kernel development](https://lwn.net/Articles/1039073/)

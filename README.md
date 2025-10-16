@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 08:02:52](https://news.ycombinator.com/item?id=45602676) - [Liquibase continues to advertise itself as \"open source\" despite license switch](https://github.com/liquibase/liquibase/issues/7374)
 * [2025-10-16, 06:51:49](https://news.ycombinator.com/item?id=45602179) - [Journalists turn in access badges, exit Pentagon rather than agreeing new rules](https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12)
 * [2025-10-16, 06:39:09](https://news.ycombinator.com/item?id=45602124) - [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
 * [2025-10-16, 06:12:51](https://news.ycombinator.com/item?id=45601982) - [Upcoming Rust language features for kernel development](https://lwn.net/Articles/1039073/)
@@ -14,7 +15,6 @@
 * [2025-10-15, 22:28:55](https://news.ycombinator.com/item?id=45599084) - [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
 * [2025-10-15, 21:32:19](https://news.ycombinator.com/item?id=45598590) - [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
 * [2025-10-15, 19:04:07](https://news.ycombinator.com/item?id=45597006) - [A Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/)
-* [2025-10-15, 17:43:27](https://news.ycombinator.com/item?id=45596059) - [Recursive Language Models (RLMs)](https://alexzhang13.github.io/blog/2025/rlm/)
 * [2025-10-15, 17:18:13](https://news.ycombinator.com/item?id=45595724) - [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
 * [2025-10-15, 16:55:06](https://news.ycombinator.com/item?id=45595403) - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 * [2025-10-15, 16:24:29](https://news.ycombinator.com/item?id=45594920) - [Zed is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
