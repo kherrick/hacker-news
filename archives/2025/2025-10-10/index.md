@@ -37,6 +37,7 @@
 * [2025-10-10, 15:00:51](https://news.ycombinator.com/item?id=45539845) - [The Molecular Basis of Long Covid Brain Fog](https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html)
 * [2025-10-10, 14:37:31](https://news.ycombinator.com/item?id=45539609) - [Notes on Switching to Helix from Vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
 * [2025-10-10, 14:11:15](https://news.ycombinator.com/item?id=45539296) - [All-Natural Geoengineering with Frank Herbert's Dune](https://www.governance.fyi/p/all-natural-geoengineering-with-frank)
+* [2025-10-10, 14:07:46](https://news.ycombinator.com/item?id=45539262) - [Flies keep landing on North Sea oil rigs](https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622)
 * [2025-10-10, 13:59:12](https://news.ycombinator.com/item?id=45539159) - [The Prairie Farmers Preserving the Most Threatened Ecosystem – Forever](https://reasonstobecheerful.world/prairie-farmers-preserve-most-threatened-ecosystem-forever/)
 * [2025-10-10, 13:44:33](https://news.ycombinator.com/item?id=45538963) - [Telegram's founder Pavel Durov sends alarmist message to all Telegram users](https://news.ycombinator.com/item?id=45538963)
 * [2025-10-10, 13:28:40](https://news.ycombinator.com/item?id=45538768) - [\"My dad says: people like you don't matter anymore.\"](https://twitter.com/travisakers/status/1976271447606624314)
