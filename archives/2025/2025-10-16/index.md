@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 12:12:12](https://news.ycombinator.com/item?id=45604381) - [How The Pentagon Is Blocking Out News Organizations](https://www.nytimes.com/interactive/2025/10/15/business/media/pentatgon-press-rules.html)
+* [2025-10-16, 12:00:45](https://news.ycombinator.com/item?id=45604308) - [Jiga (YC W21) Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310)
 * [2025-10-16, 11:21:25](https://news.ycombinator.com/item?id=45604034) - [Get a Heat Pump on Lloyds](https://www.lloydsbankinggroup.com/media/press-releases/2025/lloyds-bank-2025/get-a-heat-pump-on-lloyds.html)
 * [2025-10-16, 09:34:16](https://news.ycombinator.com/item?id=45603277) - [Pentagon Imposes Pre-Publication Censorship – All Major U.S. Media Walk Out](https://archivethecontrolstack.substack.com/p/archive-003-badges-surrendered-the)
 * [2025-10-16, 08:37:13](https://news.ycombinator.com/item?id=45602884) - [Waymo is bringing autonomous, driverless ride-hailing to London in 2026](https://9to5google.com/2025/10/15/waymo-london-2026/)

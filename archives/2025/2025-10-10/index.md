@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
 * [2025-10-10, 23:51:13](https://news.ycombinator.com/item?id=45545098) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
+* [2025-10-10, 23:36:04](https://news.ycombinator.com/item?id=45545017) - [The people rescuing forgotten knowledge trapped on old floppy disks](https://www.bbc.com/future/article/20251009-rescuing-knowledge-trapped-on-old-floppy-disks)
 * [2025-10-10, 23:14:02](https://news.ycombinator.com/item?id=45544890) - [In a post-truth world truth-seeking is more important](https://iai.tv/articles/in-a-post-truth-world-truth-seeking-is-more-important-than-ever-auid-3382)
 * [2025-10-10, 22:37:16](https://news.ycombinator.com/item?id=45544636) - [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
 * [2025-10-10, 22:20:57](https://news.ycombinator.com/item?id=45544500) - [Printing Petscii Faster](https://retrogamecoders.com/printing-petscii-faster/)
