@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 03:33:35](https://news.ycombinator.com/item?id=45601177) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-16, 02:06:17](https://news.ycombinator.com/item?id=45600707) - [We're losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
-* [2025-10-16, 01:59:55](https://news.ycombinator.com/item?id=45600677) - [Show HN: Shorter – search for shorter versions of your domain](https://shorter.dev)
 * [2025-10-16, 01:42:22](https://news.ycombinator.com/item?id=45600581) - [New Alzheimer's Treatment Clears Plaques from Brains of Mice Within Hours](https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours)
 * [2025-10-16, 01:00:17](https://news.ycombinator.com/item?id=45600338) - [I'm recomming my customers switch to Linux rather that Upgrade to Windows 11](https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/)
 * [2025-10-16, 00:50:56](https://news.ycombinator.com/item?id=45600263) - [Who's Submitting AI-Tainted Filings in Court?](https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/)
@@ -29,7 +29,7 @@
 * [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The brain navigates new spaces by 'darting' between reality and mental maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
 * [2025-10-07, 21:44:18](https://news.ycombinator.com/item?id=45509301) - [Closer to production quality Python notebooks with `marimo check`](https://marimo.io/blog/marimo-check)
 * [2025-10-07, 09:32:12](https://news.ycombinator.com/item?id=45501088) - [Bringing NumPy's type-completeness score to nearly 90%](https://pyrefly.org/blog/numpy-type-completeness/)
-* [2025-10-06, 10:46:12](https://news.ycombinator.com/item?id=45489911) - [Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)](https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch)
+* [2025-10-06, 10:46:12](https://news.ycombinator.com/item?id=45489911) - [An Electrical Engineering View of a Mechanical Watch (2003) [video]](https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch)
 
 ## [Archives](archives/index.md)
 
