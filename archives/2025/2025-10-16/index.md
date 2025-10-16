@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
+* [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
+* [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [I Bypassed Amazon's Kindle Web DRM Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-16, 19:53:10](https://news.ycombinator.com/item?id=45609942) - [Show HN: We priced basic needs in work hours (global ranking and CSVs)](https://www.thepricer.org/hours-to-afford-essentials-best-and-worst-countries/)
 * [2025-10-16, 19:51:47](https://news.ycombinator.com/item?id=45609922) - [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
 * [2025-10-16, 19:24:11](https://news.ycombinator.com/item?id=45609621) - [Ask HN: What in the world is going on at Supabase?](https://news.ycombinator.com/item?id=45609621)
