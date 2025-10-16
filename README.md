@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-16, 06:51:49](https://news.ycombinator.com/item?id=45602179) - [Journalists turn in access badges, exit Pentagon rather than agreeing new rules](https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12)
+* [2025-10-16, 06:39:09](https://news.ycombinator.com/item?id=45602124) - [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
 * [2025-10-16, 05:46:50](https://news.ycombinator.com/item?id=45601834) - [New coding models and integrations](https://ollama.com/blog/coding-models)
 * [2025-10-16, 05:31:31](https://news.ycombinator.com/item?id=45601750) - [TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
 * [2025-10-16, 03:45:39](https://news.ycombinator.com/item?id=45601230) - [TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task](https://arxiv.org/abs/2507.16126)
@@ -23,7 +24,6 @@
 * [2025-10-15, 13:02:53](https://news.ycombinator.com/item?id=45591799) - [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 * [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – Modern IRC client](https://github.com/squidowl/halloy)
 * [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Leaving serverless led to performance improvement and a simplified architecture](https://www.unkey.com/blog/serverless-exit)
-* [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-12, 12:04:05](https://news.ycombinator.com/item?id=45557591) - [Silver Snoopy Award](https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/)
 * [2025-10-12, 10:59:15](https://news.ycombinator.com/item?id=45557217) - [Looking at kmalloc() and the SLUB Memory Allocator (2019)](https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html)
 * [2025-10-12, 07:41:35](https://news.ycombinator.com/item?id=45556142) - [Functions Are Asymmetric](https://www.elbeno.com/blog/?p=1804)
