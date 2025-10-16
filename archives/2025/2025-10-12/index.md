@@ -50,6 +50,7 @@
 * [2025-10-12, 09:24:43](https://news.ycombinator.com/item?id=45556763) - [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 * [2025-10-12, 09:21:29](https://news.ycombinator.com/item?id=45556741) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-12, 08:37:01](https://news.ycombinator.com/item?id=45556474) - [4x faster LLM inference (Flash Attention guy's company)](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
+* [2025-10-12, 07:41:35](https://news.ycombinator.com/item?id=45556142) - [Functions Are Asymmetric](https://www.elbeno.com/blog/?p=1804)
 * [2025-10-12, 07:20:36](https://news.ycombinator.com/item?id=45556032) - [The App Store Was Always Authoritarian](https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/)
 * [2025-10-12, 07:15:25](https://news.ycombinator.com/item?id=45556010) - [CBP Enforces Binary Sex Codes and Enhanced US Passport Validation in APIs](https://www.gtlaw-insidebusinessimmigration.com/u-s-customs-and-border-protection-cbp/cbp-enforces-binary-sex-codes-and-enhanced-us-passport-validation-in-apis/)
 * [2025-10-12, 06:46:58](https://news.ycombinator.com/item?id=45555873) - [Show HN: Sober not Sorry – free iOS tracker to help you quit bad habits](https://sobernotsorry.app/)
