@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-16, 08:02:52",
+      "https://news.ycombinator.com/item?id=45602676"
+    ],
+    [
+      "Liquibase continues to advertise itself as \"open source\" despite license switch",
+      "https://github.com/liquibase/liquibase/issues/7374"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 06:51:49",
       "https://news.ycombinator.com/item?id=45602179"
     ],
@@ -137,16 +147,6 @@
     [
       "A Gemma model helped discover a new potential cancer therapy pathway",
       "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 17:43:27",
-      "https://news.ycombinator.com/item?id=45596059"
-    ],
-    [
-      "Recursive Language Models (RLMs)",
-      "https://alexzhang13.github.io/blog/2025/rlm/"
     ]
   ],
   [
