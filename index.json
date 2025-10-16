@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-16, 16:54:26",
+      "https://news.ycombinator.com/item?id=45607758"
+    ],
+    [
+      "Gemini 3.0 spotted in the wild through A/B testing",
+      "https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 16:05:47",
       "https://news.ycombinator.com/item?id=45607117"
     ],
@@ -51,12 +61,32 @@
   ],
   [
     [
+      "2025-10-16, 14:39:17",
+      "https://news.ycombinator.com/item?id=45605921"
+    ],
+    [
+      "How America got hooked on ultraprocessed foods",
+      "https://www.nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 14:33:10",
       "https://news.ycombinator.com/item?id=45605842"
     ],
     [
       "Tor browser removing various Firefox AI features",
       "https://blog.torproject.org/new-alpha-release-tor-browser-150a4/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 14:04:18",
+      "https://news.ycombinator.com/item?id=45605501"
+    ],
+    [
+      "DoorDash and Waymo launch autonomous delivery service in Phoenix",
+      "https://about.doordash.com/en-us/news/waymo"
     ]
   ],
   [
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=45604700"
     ],
     [
-      "Launch HN: Inkeep (YC W23) – Source-Available Agent Builder",
+      "Launch HN: Inkeep (YC W23) – Collaborative agent builder for devs and non-devs",
       "https://github.com/inkeep/agents"
     ]
   ],
@@ -121,6 +151,16 @@
   ],
   [
     [
+      "2025-10-16, 12:11:18",
+      "https://news.ycombinator.com/item?id=45604372"
+    ],
+    [
+      "Skibidi Toilet and the monstrous digital",
+      "https://journal.media-culture.org.au/index.php/mcjournal/article/view/3108"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 12:00:45",
       "https://news.ycombinator.com/item?id=45604308"
     ],
@@ -137,16 +177,6 @@
     [
       "Liquibase continues to advertise itself as \"open source\" despite license switch",
       "https://github.com/liquibase/liquibase/issues/7374"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 06:54:23",
-      "https://news.ycombinator.com/item?id=45602197"
-    ],
-    [
-      "The Hidden Math of Ocean Waves Crashes Into View",
-      "https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/"
     ]
   ],
   [
@@ -177,36 +207,6 @@
     [
       "TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)",
       "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 03:33:35",
-      "https://news.ycombinator.com/item?id=45601177"
-    ],
-    [
-      "Free applicatives, the handle pattern, and remote systems",
-      "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 19:04:07",
-      "https://news.ycombinator.com/item?id=45597006"
-    ],
-    [
-      "A Gemma model helped discover a new potential cancer therapy pathway",
-      "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 13:02:53",
-      "https://news.ycombinator.com/item?id=45591799"
-    ],
-    [
-      "Apple M5 chip",
-      "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/"
     ]
   ],
   [
