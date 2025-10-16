@@ -72,4 +72,5 @@
 * [2025-10-13, 02:08:39](https://news.ycombinator.com/item?id=45564042) - [State of AI Report 2025](https://www.stateof.ai/)
 * [2025-10-13, 01:46:18](https://news.ycombinator.com/item?id=45563900) - [For Centuries Meals Amazed Visitors to Korea](https://www.atlasobscura.com/articles/history-of-korean-food)
 * [2025-10-13, 00:57:49](https://news.ycombinator.com/item?id=45563627) - [John Searle Has Died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
+* [2025-10-13, 00:48:25](https://news.ycombinator.com/item?id=45563576) - [Syntax highlighting is a waste of an information channel](https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
 * [2025-10-13, 00:14:41](https://news.ycombinator.com/item?id=45563359) - [Everything You Need to Know About [California] SB 79](https://mnolangray.substack.com/p/everything-you-need-to-know-about)
