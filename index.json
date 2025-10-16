@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-16, 01:00:17",
+      "https://news.ycombinator.com/item?id=45600338"
+    ],
+    [
+      "I'm recomming my customers switch to Linux rather that Upgrade to Windows 11",
+      "https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 23:42:12",
       "https://news.ycombinator.com/item?id=45599727"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2025-10-15, 23:36:50",
-      "https://news.ycombinator.com/item?id=45599669"
-    ],
-    [
-      "So YouTube seems to be down",
-      "https://www.youtube.com/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 23:24:47",
       "https://news.ycombinator.com/item?id=45599567"
     ],
     [
       "IRS Open Sources its Fact Graph",
       "https://github.com/IRS-Public/fact-graph"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 23:16:07",
+      "https://news.ycombinator.com/item?id=45599496"
+    ],
+    [
+      "US Dept of Interior denies canceling largest solar project after axing review",
+      "https://www.utilitydive.com/news/department-interior-cancels-review-nevada-solar-project-trump/802704/"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45599075"
     ],
     [
-      "How First Wap Tracks Phones Around the World",
+      "How First Wap tracks phones around the world",
       "https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=45598776"
     ],
     [
-      "I Hate Acrobat",
+      "Acrobat is intrusive, slow and non-customizable",
       "https://www.vincentuden.xyz/blog/pdf-reader"
     ]
   ],
@@ -67,6 +77,16 @@
     [
       "Next Steps for the Caddy Project Maintainership",
       "https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 19:04:07",
+      "https://news.ycombinator.com/item?id=45597006"
+    ],
+    [
+      "A Gemma model helped discover a new potential cancer therapy pathway",
+      "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-10-15, 13:10:08",
-      "https://news.ycombinator.com/item?id=45591902"
-    ],
-    [
-      "M5 MacBook Pro",
-      "https://www.apple.com/macbook-pro/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 13:02:53",
       "https://news.ycombinator.com/item?id=45591799"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2025-10-15, 12:00:35",
-      "https://news.ycombinator.com/item?id=45591082"
-    ],
-    [
-      "Helpcare AI (YC F24) Is Hiring",
-      "https://news.ycombinator.com/item?id=45591082"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 11:45:47",
       "https://news.ycombinator.com/item?id=45590949"
     ],
     [
       "Show HN: Halloy – Modern IRC client",
       "https://github.com/squidowl/halloy"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 11:44:31",
-      "https://news.ycombinator.com/item?id=45590935"
-    ],
-    [
-      "Reverse engineering iWork",
-      "https://andrews.substack.com/p/reverse-engineering-iwork"
     ]
   ],
   [
@@ -231,22 +221,32 @@
   ],
   [
     [
-      "2025-10-15, 06:05:51",
-      "https://news.ycombinator.com/item?id=45588594"
+      "2025-10-14, 23:47:08",
+      "https://news.ycombinator.com/item?id=45586339"
     ],
     [
-      "Pixnapping Attack",
-      "https://www.pixnapping.com/"
+      "FSF announces Librephone project",
+      "https://www.fsf.org/news/librephone-project"
     ]
   ],
   [
     [
-      "2025-10-10, 07:58:31",
-      "https://news.ycombinator.com/item?id=45536373"
+      "2025-10-11, 15:10:05",
+      "https://news.ycombinator.com/item?id=45549770"
     ],
     [
-      "C++26: range support for std:optional",
-      "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional"
+      "Blood-Sharing Drug Trend Fuels Global HIV Surge",
+      "https://www.nytimes.com/2025/10/08/world/asia/bluetoothing-drug-blood-sharing.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-09, 17:23:25",
+      "https://news.ycombinator.com/item?id=45530580"
+    ],
+    [
+      "More About Jumps Than You Wanted to Know",
+      "https://gpfault.net/posts/asm-tut-4.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=45501088"
     ],
     [
-      "Bringing NumPy's type-completeness score to nearly 90% – Pyrefly",
+      "Bringing NumPy's type-completeness score to nearly 90%",
       "https://pyrefly.org/blog/numpy-type-completeness/"
     ]
   ],
