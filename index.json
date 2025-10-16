@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-10-16, 02:06:17",
+      "https://news.ycombinator.com/item?id=45600707"
+    ],
+    [
+      "We're losing the war against drug-resistant infections faster than we thought",
+      "https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 01:42:22",
+      "https://news.ycombinator.com/item?id=45600581"
+    ],
+    [
+      "New Alzheimer's Treatment Clears Plaques from Brains of Mice Within Hours",
+      "https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 01:00:17",
       "https://news.ycombinator.com/item?id=45600338"
     ],
     [
       "I'm recomming my customers switch to Linux rather that Upgrade to Windows 11",
       "https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 00:50:56",
+      "https://news.ycombinator.com/item?id=45600263"
+    ],
+    [
+      "Who's Submitting AI-Tainted Filings in Court?",
+      "https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "ImapGoose",
       "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 22:28:11",
-      "https://news.ycombinator.com/item?id=45599075"
-    ],
-    [
-      "How First Wap tracks phones around the world",
-      "https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-10-15, 13:10:08",
-      "https://news.ycombinator.com/item?id=45591902"
-    ],
-    [
-      "M5 MacBook Pro",
-      "https://www.apple.com/macbook-pro/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 13:02:53",
       "https://news.ycombinator.com/item?id=45591799"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-10-15, 11:44:31",
-      "https://news.ycombinator.com/item?id=45590935"
-    ],
-    [
-      "Reverse engineering iWork",
-      "https://andrews.substack.com/p/reverse-engineering-iwork"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 11:20:35",
       "https://news.ycombinator.com/item?id=45590756"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-10-09, 17:23:25",
-      "https://news.ycombinator.com/item?id=45530580"
-    ],
-    [
-      "More About Jumps Than You Wanted to Know",
-      "https://gpfault.net/posts/asm-tut-4.html"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 23:25:51",
       "https://news.ycombinator.com/item?id=45521779"
     ],
@@ -277,6 +267,16 @@
     [
       "Princeton Engineering Anomalies Research",
       "https://pearlab.icrl.org/"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 21:44:18",
+      "https://news.ycombinator.com/item?id=45509301"
+    ],
+    [
+      "Closer to production quality Python notebooks with `marimo check`",
+      "https://marimo.io/blog/marimo-check"
     ]
   ],
   [
