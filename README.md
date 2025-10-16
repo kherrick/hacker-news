@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 11:21:25](https://news.ycombinator.com/item?id=45604034) - [Get a Heat Pump on Lloyds](https://www.lloydsbankinggroup.com/media/press-releases/2025/lloyds-bank-2025/get-a-heat-pump-on-lloyds.html)
 * [2025-10-16, 08:37:13](https://news.ycombinator.com/item?id=45602884) - [Waymo is bringing autonomous, driverless ride-hailing to London in 2026](https://9to5google.com/2025/10/15/waymo-london-2026/)
 * [2025-10-16, 08:02:52](https://news.ycombinator.com/item?id=45602676) - [Liquibase continues to advertise itself as \"open source\" despite license switch](https://github.com/liquibase/liquibase/issues/7374)
 * [2025-10-16, 06:54:23](https://news.ycombinator.com/item?id=45602197) - [The Hidden Math of Ocean Waves Crashes Into View](https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/)
@@ -24,7 +25,6 @@
 * [2025-10-13, 18:20:00](https://news.ycombinator.com/item?id=45571647) - [Credential Stuffing](https://ciamweekly.substack.com/p/credential-stuffing)
 * [2025-10-13, 04:51:11](https://news.ycombinator.com/item?id=45564773) - [Pica Numbers](https://home.octetfont.com/blog/pica-number.html)
 * [2025-10-12, 12:04:05](https://news.ycombinator.com/item?id=45557591) - [Silver Snoopy Award](https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/)
-* [2025-10-12, 10:59:15](https://news.ycombinator.com/item?id=45557217) - [Looking at kmalloc() and the SLUB Memory Allocator (2019)](https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html)
 * [2025-10-12, 07:12:26](https://news.ycombinator.com/item?id=45555989) - [Sharp Bilinear Filters: Big Clean Pixels for Pixel Art](https://bumbershootsoft.wordpress.com/2025/10/11/sharp-bilinear-filters-big-clean-pixels-for-pixel-art/)
 * [2025-10-11, 04:31:15](https://news.ycombinator.com/item?id=45546575) - [What is going on with all this radioactive shrimp?](https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/)
 * [2025-10-10, 19:03:20](https://news.ycombinator.com/item?id=45542536) - [Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]](https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1)
