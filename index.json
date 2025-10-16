@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=45600338"
     ],
     [
-      "I'm recomming my customers switch to Linux rather that Upgrade to Windows 11",
+      "Retiring Windows 10 and Microsoft's move towards a surveillance state",
       "https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-10-15, 13:10:08",
+      "https://news.ycombinator.com/item?id=45591902"
+    ],
+    [
+      "M5 MacBook Pro",
+      "https://www.apple.com/macbook-pro/"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 13:02:53",
       "https://news.ycombinator.com/item?id=45591799"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2025-10-15, 12:56:12",
-      "https://news.ycombinator.com/item?id=45591707"
+      "2025-10-15, 12:08:04",
+      "https://news.ycombinator.com/item?id=45591149"
     ],
     [
-      "I almost got hacked by a 'job interview'",
-      "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview"
+      "Garbage collection for Rust: The finalizer frontier",
+      "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/"
     ]
   ],
   [
@@ -231,12 +241,32 @@
   ],
   [
     [
+      "2025-10-15, 11:44:31",
+      "https://news.ycombinator.com/item?id=45590935"
+    ],
+    [
+      "Reverse engineering iWork",
+      "https://andrews.substack.com/p/reverse-engineering-iwork"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 11:20:35",
       "https://news.ycombinator.com/item?id=45590756"
     ],
     [
       "Leaving serverless led to performance improvement and a simplified architecture",
       "https://www.unkey.com/blog/serverless-exit"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 23:47:08",
+      "https://news.ycombinator.com/item?id=45586339"
+    ],
+    [
+      "FSF announces Librephone project",
+      "https://www.fsf.org/news/librephone-project"
     ]
   ],
   [
@@ -251,52 +281,22 @@
   ],
   [
     [
+      "2025-10-12, 07:41:35",
+      "https://news.ycombinator.com/item?id=45556142"
+    ],
+    [
+      "Functions Are Asymmetric",
+      "https://www.elbeno.com/blog/?p=1804"
+    ]
+  ],
+  [
+    [
       "2025-10-10, 19:03:20",
       "https://news.ycombinator.com/item?id=45542536"
     ],
     [
       "Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]",
       "https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 05:51:37",
-      "https://news.ycombinator.com/item?id=45512538"
-    ],
-    [
-      "The brain navigates new spaces by 'darting' between reality and mental maps",
-      "https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 21:44:18",
-      "https://news.ycombinator.com/item?id=45509301"
-    ],
-    [
-      "Closer to production quality Python notebooks with `marimo check`",
-      "https://marimo.io/blog/marimo-check"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 09:32:12",
-      "https://news.ycombinator.com/item?id=45501088"
-    ],
-    [
-      "Bringing NumPy's type-completeness score to nearly 90%",
-      "https://pyrefly.org/blog/numpy-type-completeness/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 10:46:12",
-      "https://news.ycombinator.com/item?id=45489911"
-    ],
-    [
-      "An Electrical Engineering View of a Mechanical Watch (2003) [video]",
-      "https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch"
     ]
   ]
 ]
