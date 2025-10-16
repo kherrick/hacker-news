@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-10-16, 17:36:18](https://news.ycombinator.com/item?id=45608285) - [Mysterious Intrigue Around an x86 \"Corporate Entity Other Than Intel/AMD\"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
+* [2025-10-16, 16:59:30](https://news.ycombinator.com/item?id=45607822) - [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
 * [2025-10-16, 16:54:26](https://news.ycombinator.com/item?id=45607758) - [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
 * [2025-10-16, 16:05:47](https://news.ycombinator.com/item?id=45607117) - [Claude Skills](https://www.anthropic.com/news/skills)
 * [2025-10-16, 15:41:53](https://news.ycombinator.com/item?id=45606775) - [RTFM: A Real-Time Frame Model](https://www.worldlabs.ai/blog/rtfm)
 * [2025-10-16, 15:36:39](https://news.ycombinator.com/item?id=45606698) - [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
-* [2025-10-16, 15:29:45](https://news.ycombinator.com/item?id=45606611) - [Ld_preload, the Invisible Key Theft](https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/)
 * [2025-10-16, 15:29:06](https://news.ycombinator.com/item?id=45606602) - [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)
 * [2025-10-16, 15:12:19](https://news.ycombinator.com/item?id=45606394) - [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)
 * [2025-10-16, 14:50:04](https://news.ycombinator.com/item?id=45606070) - [Improving the Trustworthiness of JavaScript on the Web](https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/)
