@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 21:03:30](https://news.ycombinator.com/item?id=45610636) - [Nobody Cares How Hard You Work](https://alifeengineered.substack.com/p/nobody-cares-how-hard-you-work)
 * [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
 * [2025-10-16, 20:52:59](https://news.ycombinator.com/item?id=45610540) - [Silicon Valley's capture of our political institutions is all but complete](https://www.bloodinthemachine.com/p/silicon-valleys-capture-of-our-political)
 * [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)

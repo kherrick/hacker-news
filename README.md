@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 21:03:30](https://news.ycombinator.com/item?id=45610636) - [Nobody Cares How Hard You Work](https://alifeengineered.substack.com/p/nobody-cares-how-hard-you-work)
 * [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
-* [2025-10-16, 20:52:59](https://news.ycombinator.com/item?id=45610540) - [Silicon Valley's capture of our political institutions is all but complete](https://www.bloodinthemachine.com/p/silicon-valleys-capture-of-our-political)
 * [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
 * [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [I Bypassed Amazon's Kindle Web DRM Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-16, 19:51:47](https://news.ycombinator.com/item?id=45609922) - [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
