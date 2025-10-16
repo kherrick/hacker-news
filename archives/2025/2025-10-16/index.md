@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 03:45:39](https://news.ycombinator.com/item?id=45601230) - [TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task](https://arxiv.org/abs/2507.16126)
 * [2025-10-16, 03:33:35](https://news.ycombinator.com/item?id=45601177) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-16, 02:06:17](https://news.ycombinator.com/item?id=45600707) - [We're losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
 * [2025-10-16, 01:59:55](https://news.ycombinator.com/item?id=45600677) - [Show HN: Shorter – search for shorter versions of your domain](https://shorter.dev)

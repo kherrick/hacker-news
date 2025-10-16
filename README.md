@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 03:45:39](https://news.ycombinator.com/item?id=45601230) - [TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task](https://arxiv.org/abs/2507.16126)
 * [2025-10-16, 03:33:35](https://news.ycombinator.com/item?id=45601177) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-16, 02:06:17](https://news.ycombinator.com/item?id=45600707) - [We're losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
 * [2025-10-16, 01:42:22](https://news.ycombinator.com/item?id=45600581) - [New Alzheimer's Treatment Clears Plaques from Brains of Mice Within Hours](https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours)
@@ -23,7 +24,6 @@
 * [2025-10-15, 12:08:04](https://news.ycombinator.com/item?id=45591149) - [Garbage collection for Rust: The finalizer frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
 * [2025-10-15, 11:45:47](https://news.ycombinator.com/item?id=45590949) - [Show HN: Halloy – Modern IRC client](https://github.com/squidowl/halloy)
 * [2025-10-15, 11:20:35](https://news.ycombinator.com/item?id=45590756) - [Leaving serverless led to performance improvement and a simplified architecture](https://www.unkey.com/blog/serverless-exit)
-* [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-12, 10:59:15](https://news.ycombinator.com/item?id=45557217) - [Looking at kmalloc() and the SLUB Memory Allocator (2019)](https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html)
 * [2025-10-10, 19:03:20](https://news.ycombinator.com/item?id=45542536) - [Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]](https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1)
 * [2025-10-08, 05:51:37](https://news.ycombinator.com/item?id=45512538) - [The brain navigates new spaces by 'darting' between reality and mental maps](https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/)
