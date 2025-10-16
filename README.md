@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-10-16, 21:36:43](https://news.ycombinator.com/item?id=45610996) - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 * [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
 * [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
 * [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
@@ -27,7 +28,6 @@
 * [2025-10-11, 10:02:03](https://news.ycombinator.com/item?id=45547891) - [Eon – An Effects-Based OCaml Nameserver](https://ryan.freumh.org/eon.html)
 * [2025-10-11, 00:11:59](https://news.ycombinator.com/item?id=45545220) - [How to tame a user interface using a spreadsheet](https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/)
 * [2025-10-10, 20:41:36](https://news.ycombinator.com/item?id=45543546) - [Microwave technique allows energy-efficient chemical reactions](https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html)
-* [2025-10-10, 14:26:48](https://news.ycombinator.com/item?id=45539481) - [Computable Babylonian Diaries Project](https://christopherwolfram.com/babylonian-astronomy/)
 * [2025-10-09, 15:40:19](https://news.ycombinator.com/item?id=45529255) - [Post office in France rolls out croissant-scented stamp](https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/)
 * [2025-10-09, 13:08:26](https://news.ycombinator.com/item?id=45527191) - [Generalized Orders of Magnitude](https://arxiv.org/abs/2510.03426)
 
