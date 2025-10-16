@@ -41,6 +41,7 @@
 * [2025-10-12, 14:14:53](https://news.ycombinator.com/item?id=45558371) - [I'd like to speak to the Bellcore ManaGeR](https://www.ninakalinina.com/notes/mgr/)
 * [2025-10-12, 14:07:13](https://news.ycombinator.com/item?id=45558318) - [Jeep pushed software update that bricked all 2024 Wrangler 4xe models](https://twitter.com/StephenGutowski/status/1977055831720862101)
 * [2025-10-12, 13:38:25](https://news.ycombinator.com/item?id=45558160) - [Extreme weather caused more than $100B in damage by June](https://www.livescience.com/planet-earth/climate-change/extreme-weather-caused-more-than-usd100-billion-in-damage-by-june-smashing-us-records)
+* [2025-10-12, 12:19:46](https://news.ycombinator.com/item?id=45557680) - [Cambridge University launches project to rescue data trapped on old floppy disks](https://www.lib.cam.ac.uk/stories/floppy-disk-funding)
 * [2025-10-12, 12:04:05](https://news.ycombinator.com/item?id=45557591) - [Silver Snoopy Award](https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/)
 * [2025-10-12, 11:50:53](https://news.ycombinator.com/item?id=45557504) - [ChatGPT – Truth over Comfort Instruction Set](https://www.organizingcreativity.com/2025/06/chatgpt-truth-over-comfort-instruction-set/)
 * [2025-10-12, 11:08:58](https://news.ycombinator.com/item?id=45557267) - [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1)

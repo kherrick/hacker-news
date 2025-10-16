@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 14:51:30](https://news.ycombinator.com/item?id=45606097) - [Working with the Amiga's RAM and Rad Disks](https://www.datagubbe.se/ramdisk/)
 * [2025-10-16, 14:33:10](https://news.ycombinator.com/item?id=45605842) - [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
 * [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
 * [2025-10-16, 13:48:33](https://news.ycombinator.com/item?id=45605291) - [Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js](https://akarshc.com/post/phoenix-for-my-project.html)
